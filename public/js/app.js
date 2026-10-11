@@ -232,12 +232,53 @@
     speakJapanese(target);
   }
 
+  // Helper to find a student's native translation when card meaning is English-only
+  function getFallbackMeaningForWord(word, lang) {
+    if (!word || !lang || lang === 'en' || lang === 'ja') return '';
+    // 1. Check INITIAL_VOCAB_DATA
+    if (window.INITIAL_VOCAB_DATA && Array.isArray(window.INITIAL_VOCAB_DATA)) {
+      const found = window.INITIAL_VOCAB_DATA.find(c => c.word === word);
+      if (found && found.meaning && found.meaning[lang] && found.meaning[lang] !== found.meaning.en) {
+        return found.meaning[lang];
+      }
+    }
+    // 2. Check CLASS_VOCAB_DATA
+    if (window.CLASS_VOCAB_DATA && Array.isArray(window.CLASS_VOCAB_DATA)) {
+      const found = window.CLASS_VOCAB_DATA.find(c => c.word === word);
+      if (found && found.meaning && found.meaning[lang] && found.meaning[lang] !== found.meaning.en) {
+        return found.meaning[lang];
+      }
+    }
+    // 3. Check DICT_DATA (has zh and fr)
+    if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+      const entry = window.DICT_DATA.find(d => d.w === word);
+      if (entry) {
+        if ((lang === 'zh_TW' || lang === 'zh_CN' || lang === 'zh_HK') && entry.zh && entry.zh.length > 0) {
+          return entry.zh.join(', ');
+        }
+        if (lang === 'fr' && entry.fr && entry.fr.length > 0) {
+          return entry.fr.join(', ');
+        }
+      }
+    }
+    return '';
+  }
+
   // --- Bilingual Translation Formatters (必ず母国語 & 英語) ---
-  function getBilingualMeaning(meaningObj, lang) {
+  function getBilingualMeaning(meaningObj, lang, cardWord) {
     if (!meaningObj) return '—';
     const targetLang = lang || currentLang;
-    const nativeMeaning = (meaningObj[targetLang]) || '';
+    let nativeMeaning = (meaningObj[targetLang]) || '';
     const enMeaning = meaningObj.en || '';
+
+    // If native meaning is missing or identical to English, attempt fallback dictionary lookup
+    if ((!nativeMeaning || nativeMeaning === enMeaning) && targetLang !== 'en' && targetLang !== 'ja') {
+      const w = cardWord || meaningObj.ja;
+      if (w) {
+        const fb = getFallbackMeaningForWord(w, targetLang);
+        if (fb) nativeMeaning = fb;
+      }
+    }
 
     if (targetLang === 'en') {
       return enMeaning || nativeMeaning || Object.values(meaningObj)[0] || '—';
@@ -2921,23 +2962,56 @@
     lucide.createIcons({ root: btnStar });
 
     // Multi-language translation lookup (必ず母国語 & 英語)
-    const targetMeaning = getBilingualMeaning(card.meaning, currentLang);
+    const targetMeaning = getBilingualMeaning(card.meaning, currentLang, card.word);
     const targetExTrans = getBilingualExampleTrans(card.example, currentLang);
 
     // Reverse Mode handling: 日本語 ⇄ 母国語
     if (!isReverseMode) {
       // Normal: Front is Japanese, Back is Native & English Meaning
       document.getElementById('frontWord').textContent = card.word;
+      document.getElementById('frontWord').className = 'text-3xl sm:text-4xl font-extrabold text-darkNavyText tracking-tight leading-snug';
       const hasKanji = /[\u4e00-\u9faf]/.test(card.word);
       const showReading = hasKanji || (card.reading && card.reading !== card.word);
       document.getElementById('frontReading').textContent = showReading ? (card.reading || '') : '';
+      document.getElementById('frontReading').className = 'text-base sm:text-lg font-bold text-coralPink tracking-wider mb-1 font-jp min-h-[1.5rem]';
       document.getElementById('frontReading').classList.remove('hidden');
       document.getElementById('backMeaning').textContent = targetMeaning;
     } else {
       // Reverse: Front is Native & English Meaning, Back is Japanese
-      document.getElementById('frontWord').textContent = targetMeaning;
-      document.getElementById('frontReading').textContent = '';
-      document.getElementById('frontReading').classList.add('hidden');
+      const targetLang = currentLang;
+      let nativeMeaning = card.meaning ? (card.meaning[targetLang] || '') : '';
+      let enMeaning = card.meaning ? (card.meaning.en || '') : '';
+
+      if (Array.isArray(card.meanings)) {
+        enMeaning = card.meanings.join(', ');
+      }
+
+      // If nativeMeaning is missing or identical to English, search fallback dictionary
+      if ((!nativeMeaning || nativeMeaning === enMeaning) && targetLang !== 'en' && targetLang !== 'ja') {
+        const fallback = getFallbackMeaningForWord(card.word, targetLang);
+        if (fallback) nativeMeaning = fallback;
+      }
+
+      if (targetLang === 'en' || !nativeMeaning || nativeMeaning === enMeaning) {
+        // English-only student or no native translation available: show English
+        document.getElementById('frontReading').textContent = '';
+        document.getElementById('frontReading').classList.add('hidden');
+        document.getElementById('frontWord').textContent = enMeaning || nativeMeaning || card.word;
+        document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
+      } else {
+        // Non-English student: show Native language prominently AND English together!
+        document.getElementById('frontWord').textContent = nativeMeaning;
+        document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
+        if (enMeaning) {
+          document.getElementById('frontReading').textContent = `(${enMeaning})`;
+          document.getElementById('frontReading').className = 'text-sm sm:text-base font-bold text-slate-500 mb-1.5 tracking-normal';
+          document.getElementById('frontReading').classList.remove('hidden');
+        } else {
+          document.getElementById('frontReading').textContent = '';
+          document.getElementById('frontReading').classList.add('hidden');
+        }
+      }
+
       document.getElementById('backMeaning').textContent = `${card.word} (${card.reading || ''})`;
     }
 
@@ -4109,61 +4183,83 @@
         const rawWord = parts[0].trim();
         if (!rawWord) return;
 
-        // Extract word and reading if formatted like: 机 (つくえ) or 食べる（たべる）
+        // 1. Extract word and reading
         let word = rawWord;
         let reading = '';
+        let cols = parts.slice(1);
+
         const match = rawWord.match(/^(.*?)[（\(](.*?)[）\)]/);
         if (match) {
           word = match[1].trim();
           reading = match[2].trim();
+        } else if (cols.length >= 2 && /^[ぁ-んァ-ヶー〜・\s]+$/.test(cols[0])) {
+          // Format where col 1 is Word and col 2 is Reading: e.g. 食べる \t たべる \t 吃 \t to eat
+          reading = cols[0].trim();
+          cols = cols.slice(1);
         }
 
-        let rawTrans = '';
         let parsedNative = '';
         let parsedEn = '';
         let exJa = '';
         let related = '';
 
-        if (parts.length >= 4) {
-          // Format 4-column: 日本語 \t 生徒の母国語 \t 英語 \t 例文
-          parsedNative = parts[1].trim();
-          parsedEn = parts[2].trim();
-          exJa = parts[3].trim();
-          rawTrans = parsedNative;
-          if (parts[4]) related = parts[4].trim();
-        } else if (parts.length === 3) {
-          // Could be: 日本語 \t 意味(母国語/英語) \t 例文
-          rawTrans = parts[1].trim();
-          exJa = parts[2].trim();
-          parsedNative = rawTrans;
-          parsedEn = rawTrans;
-        } else {
-          // 2 columns or 1 column
-          rawTrans = parts[1] ? parts[1].trim() : '';
-          parsedNative = rawTrans;
-          parsedEn = rawTrans;
+        // Helper detection functions
+        const isEnglish = (s) => /^[a-zA-Z0-9\s,.'"\(\)\/\-]+$/.test(s.trim()) && /[a-zA-Z]{2,}/.test(s);
+        const isJapaneseSentence = (s) => /[\u3040-\u309f]/.test(s) && (/[。、！？]/.test(s) || s.includes('A:') || s.includes('A：') || s.length > 10);
+
+        // Distribute columns intelligently
+        for (const col of cols) {
+          const c = col.trim();
+          if (!c) continue;
+          if (isJapaneseSentence(c) && !exJa) {
+            exJa = c;
+          } else if (isEnglish(c) && !parsedEn) {
+            parsedEn = c;
+          } else if (!parsedNative) {
+            parsedNative = c;
+          } else if (!parsedEn) {
+            parsedEn = c;
+          } else if (!exJa) {
+            exJa = c;
+          } else if (!related) {
+            related = c;
+          }
         }
 
-        // Smart parser for bilingual meaning if still packed (e.g., "吃 (to eat)" or "去 / to go")
-        if (!parsedEn || parsedEn === parsedNative) {
-          const parenMatch = rawTrans.match(/^(.*?)[（\(\[](.*?)[）\)\]]$/);
+        // Smart parser for packed bilingual meaning (e.g. "吃 (to eat)" or "去 / to go")
+        if (parsedNative && !parsedEn) {
+          const parenMatch = parsedNative.match(/^(.*?)[（\(\[](.*?)[）\)\]]$/);
           if (parenMatch) {
             const p1 = parenMatch[1].trim();
             const p2 = parenMatch[2].trim();
-            if (/[a-zA-Z]/.test(p2)) {
+            if (isEnglish(p2)) {
               parsedNative = p1 || p2;
               parsedEn = p2;
-            } else if (/[a-zA-Z]/.test(p1)) {
+            } else if (isEnglish(p1)) {
               parsedNative = p2;
               parsedEn = p1;
             }
-          } else if (rawTrans.includes('/')) {
-            const slashParts = rawTrans.split('/').map(s => s.trim());
-            const enPart = slashParts.find(s => /^[a-zA-Z\s,.'"-]+$/.test(s));
-            const nativePart = slashParts.find(s => !/^[a-zA-Z\s,.'"-]+$/.test(s));
+          } else if (parsedNative.includes('/')) {
+            const slashParts = parsedNative.split('/').map(s => s.trim());
+            const enPart = slashParts.find(s => isEnglish(s));
+            const nativePart = slashParts.find(s => !isEnglish(s));
             if (enPart && nativePart) {
               parsedEn = enPart;
               parsedNative = nativePart;
+            }
+          }
+        }
+
+        // Automatic fallback lookup: if either is missing, fill from dictionary
+        if (!parsedNative && parsedEn) {
+          const fb = getFallbackMeaningForWord(word, targetStudentLang);
+          if (fb) parsedNative = fb;
+        }
+        if (!parsedEn && parsedNative) {
+          if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+            const entry = window.DICT_DATA.find(d => d.w === word);
+            if (entry && entry.m && entry.m.length > 0) {
+              parsedEn = entry.m.join(', ');
             }
           }
         }
@@ -4172,14 +4268,22 @@
         const activeLangKey = (importLangOption !== 'auto') ? importLangOption : (targetStudentLang !== 'en' ? targetStudentLang : 'zh_CN');
 
         const meaningObj = {
-          en: parsedEn || rawTrans || 'Meaning',
-          ja: parsedNative || word,
-          zh_TW: parsedNative || rawTrans || '意思',
-          zh_CN: parsedNative || rawTrans || '意思',
-          ko: parsedNative || rawTrans || '뜻',
-          zh_HK: parsedNative || rawTrans || '意思',
-          fr: parsedEn || rawTrans || 'Sens'
+          en: parsedEn || parsedNative || 'Meaning',
+          ja: parsedNative || parsedEn || word,
+          zh_TW: parsedNative || parsedEn || '意思',
+          zh_CN: parsedNative || parsedEn || '意思',
+          ko: parsedNative || parsedEn || '뜻',
+          zh_HK: parsedNative || parsedEn || '意思',
+          fr: parsedEn || parsedNative || 'Sens'
         };
+
+        // If target student or import lang is specific, tailor that slot
+        if (activeLangKey && activeLangKey !== 'en') {
+          meaningObj[activeLangKey] = parsedNative || parsedEn;
+        }
+        if (parsedEn) {
+          meaningObj.en = parsedEn;
+        }
 
         // If target student or import lang is specific, tailor that slot
         if (activeLangKey && activeLangKey !== 'en') {
