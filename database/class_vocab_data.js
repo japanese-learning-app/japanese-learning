@@ -1395,7 +1395,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0059",
     "word": "うお座",
-    "reading": "うおうおざ",
+    "reading": "うおざ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "Pisces",
@@ -1414,7 +1414,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Pisces was ranked first in today's horoscope!<br/>B: Really? I'm a Pisces, so something great might happen!",
       "fr": "A: Pisces was ranked first in today's horoscope!<br/>B: Really? I'm a Pisces, so something great might happen!"
     },
-    "related": "うおうおざ（授業の重要表現）"
+    "related": "うおざ（授業の重要表現）"
   },
   {
     "id": "class_word_0060",
@@ -4937,13 +4937,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ton aigu; aigus"
     },
     "example": {
-      "ja": "A: この<ruby>曲<rt>きょく</rt></ruby>はサビの<ruby>高音<rt>たかね</rt></ruby>がとても<ruby>綺麗<rt>きれい</rt></ruby>ですね。<br/>B: <ruby>歌<rt>うた</rt></ruby>いこなすのは<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>澄<rt>す</rt></ruby>んだ<ruby>声<rt>こえ</rt></ruby>です。",
-      "en": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear.",
-      "zh_TW": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear.",
-      "zh_CN": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear.",
-      "ko": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear.",
-      "zh_HK": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear.",
-      "fr": "A: The high pitch in the chorus of this song is beautiful.<br/>B: It's hard to sing, but her voice is truly clear."
+      "ja": "A: この<ruby>曲<rt>きょく</rt></ruby>はサビの<ruby>高音<rt>こうおん</rt></ruby>がとても<ruby>綺麗<rt>きれい</rt></ruby>ですね。<br/>B: <ruby>歌<rt>うた</rt></ruby>いこなすのは<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>澄<rt>す</rt></ruby>んだ<ruby>声<rt>こえ</rt></ruby>です。",
+      "en": "A: The high-pitch chorus of this song is really beautiful.<br/>B: It's hard to sing well, but the voice is truly clear.",
+      "zh_TW": "A: 這首歌副歌的高音真的很優美呢。<br/>B: 雖然很難唱好，但聲音真的很清澈。",
+      "zh_CN": "A: 这首歌副歌的高音真的很优美呢。<br/>B: 虽然很难唱好，但声音真的很清澈。",
+      "ko": "A: 이 노래는 후렴구의 고음이 정말 아름답네요.<br/>B: 소화하기는 어렵지만 정말 맑은 목소리예요.",
+      "zh_HK": "A: 呢首歌副歌嘅高音真係好靚呀。<br/>B: 雖然好難唱得好，但把聲真係好清澈。",
+      "fr": "A: Les aigus du refrain de cette chanson sont vraiment magnifiques.<br/>B: C'est difficile à chanter, mais la voix est vraiment pure."
     },
     "related": "こうおん（授業の重要表現）"
   },
@@ -7496,7 +7496,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0313",
     "word": "ご飯を作る",
-    "reading": "ごごはんをつくる",
+    "reading": "ごはんをつくる",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "to make a meal / préparer un repas",
@@ -7515,7 +7515,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tonight I plan to cook at home and make a meal.<br/>B: What are you making? Homemade meals are great.",
       "fr": "A: Tonight I plan to cook at home and make a meal.<br/>B: What are you making? Homemade meals are great."
     },
-    "related": "ごごはんをつくる（授業の重要表現）"
+    "related": "ごはんをつくる（授業の重要表現）"
   },
   {
     "id": "class_word_0314",
@@ -7832,7 +7832,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0327",
     "word": "１０００人",
-    "reading": "１０００せんにん",
+    "reading": "せんにん",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "1000 people / mille personnes",
@@ -7851,7 +7851,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over 1,000 people gathered for today's festival.<br/>B: It had tremendous excitement and lively energy!",
       "fr": "A: Over 1,000 people gathered for today's festival.<br/>B: It had tremendous excitement and lively energy!"
     },
-    "related": "１０００せんにん（授業の重要表現）"
+    "related": "せんにん（授業の重要表現）"
   },
   {
     "id": "class_word_0328",
@@ -8793,7 +8793,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0367",
     "word": "1週間ぶり",
-    "reading": "1いっしゅうかんぶり",
+    "reading": "いっしゅうかんぶり",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "it's been a week / ça fait une semaine",
@@ -8812,12 +8812,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I went to the gym for the first time in a week and worked up a sweat.<br/>B: Working out regularly really makes your body feel lighter.",
       "fr": "A: I went to the gym for the first time in a week and worked up a sweat.<br/>B: Working out regularly really makes your body feel lighter."
     },
-    "related": "1いっしゅうかんぶり（授業の重要表現）"
+    "related": "いっしゅうかんぶり（授業の重要表現）"
   },
   {
     "id": "class_word_0368",
     "word": "1年ぶり",
-    "reading": "1いちねんぶり",
+    "reading": "いちねんぶり",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "it's been a year / ça fait un an",
@@ -8836,7 +8836,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I reunited with my best friend studying abroad for the first time in a year!<br/>B: You must have had so much to catch up on!",
       "fr": "A: I reunited with my best friend studying abroad for the first time in a year!<br/>B: You must have had so much to catch up on!"
     },
-    "related": "1いちねんぶり（授業の重要表現）"
+    "related": "いちねんぶり（授業の重要表現）"
   },
   {
     "id": "class_word_0369",
@@ -11735,13 +11735,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "couleur (couleur)"
     },
     "example": {
-      "ja": "<ruby>虹<rt>にじ</rt></ruby>は７<ruby>色<rt>しょく</rt></ruby>だ。",
-      "en": "The rainbow has seven colors.",
-      "zh_TW": "The rainbow has seven colors.",
-      "zh_CN": "The rainbow has seven colors.",
-      "ko": "The rainbow has seven colors.",
-      "zh_HK": "The rainbow has seven colors.",
-      "fr": "The rainbow has seven colors."
+      "ja": "A: <ruby>何色<rt>なにいろ</rt></ruby>が一番<ruby>好<rt>す</rt></ruby>きですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>青<rt>あお</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "A: What color do you like best?<br/>B: I like the color blue.",
+      "zh_TW": "A: 你最喜歡什麼顏色？<br/>B: 我最喜歡藍色。",
+      "zh_CN": "A: 你最喜欢什么颜色？<br/>B: 我最喜欢蓝色。",
+      "ko": "A: 무슨 색을 가장 좋아하세요?<br/>B: 저는 파란색을 좋아해요.",
+      "zh_HK": "A: 你最鍾意咩顏色呀？<br/>B: 我最鍾意藍色。",
+      "fr": "A: Quelle couleur préférez-vous ?<br/>B: J'aime la couleur bleue."
     },
     "related": "いろ（授業の重要表現）"
   },
@@ -11988,16 +11988,16 @@ window.CLASS_VOCAB_DATA = [
   },
   {
     "id": "class_word_0500",
-    "word": "not by shop staff), ようこそ",
-    "reading": "〜へ",
+    "word": "ようこそ（〜へようこそ）",
+    "reading": "ようこそ",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Welcome! / Welcome to ~ (for guests or visitors",
-      "zh_TW": "歡迎！ / 歡迎來到〜（給客人或訪客",
-      "zh_CN": "歡迎！ / 歡迎來到〜（給客人或訪客",
-      "ko": "환영합니다! / ~에 오신 것을 환영합니다(손님 또는 방문객을 위한)",
-      "zh_HK": "歡迎！ / 歡迎來到〜（給客人或訪客",
-      "fr": "Bienvenue ! / Bienvenue à ~ (pour les invités ou les visiteurs"
+      "en": "Welcome! / Welcome to ~ (for guests or visitors, not by shop staff)",
+      "zh_TW": "歡迎！ / 歡迎來到〜（客人或訪客用，非店員用語）",
+      "zh_CN": "欢迎！ / 欢迎来到〜（客人或访客用，非店员用语）",
+      "ko": "환영합니다! / ~에 오신 것을 환영합니다 (손님/방문객 환영, 점원용 아님)",
+      "zh_HK": "歡迎！ / 歡迎來到〜（客人或訪客用，非店員用語）",
+      "fr": "Bienvenue ! / Bienvenue à ~ (pour les invités ou visiteurs, non employé de magasin)"
     },
     "example": {
       "ja": "A: <ruby>日本<rt>にほん</rt></ruby>へようこそ！<ruby>長旅<rt>ながたび</rt></ruby>でお<ruby>疲<rt>つか</rt></ruby>れではありませんでしたか？<br/>B: ありがとうございます！ずっと<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たかったので<ruby>楽<rt>たの</rt></ruby>しみです。",
@@ -12008,7 +12008,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Welcome to Japan! Were you tired from the long trip?<br/>B: Thank you! I've wanted to come to Japan for a long time, so I'm excited.",
       "fr": "A: Welcome to Japan! Were you tired from the long trip?<br/>B: Thank you! I've wanted to come to Japan for a long time, so I'm excited."
     },
-    "related": "〜へ（授業の重要表現）"
+    "related": "「〜へようこそ」の形で使います（来訪者を歓迎する表現）。"
   },
   {
     "id": "class_word_0501",
@@ -14379,13 +14379,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "maux d'estomac / douleurs abdominales"
     },
     "example": {
-      "ja": "A: <ruby>顔色<rt>かおいろ</rt></ruby>が<ruby>青白<rt>あおじろ</rt></ruby>いですが、どこか<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いんですか？<br/>B: <ruby>朝<rt>あさ</rt></ruby>から<ruby>激<rt>はげ</rt></ruby>しい<ruby>腹痛<rt>はらいた</rt></ruby>があって、<ruby>立<rt>た</rt></ruby>っているのもつらいんです。",
-      "en": "A: You look pale. Are you feeling unwell somewhere?<br/>B: I've had a severe stomachache since morning, and it hurts even to stand up.",
-      "zh_TW": "A: 你的臉色很蒼白，是哪裡不舒服嗎？<br/>B: 我從早上開始肚子就劇痛，痛到連站著都很難受。",
-      "zh_CN": "A: 你的脸色很苍白，是哪里不舒服吗？<br/>B: 我从早上开始肚子就剧痛，痛到连站着都很受罪。",
-      "ko": "A: 안색이 창백한데 어디 안 좋으세요?<br/>B: 아침부터 극심한 복통이 있어서 서 있기도 힘들어요.",
-      "zh_HK": "A: 你塊面好青白喎，係咪邊度唔舒服？<br/>B: 我今朝開始個肚痛得好交關，痛到企都企唔穩。",
-      "fr": "A: Tu es tout pâle, tu ne te sens pas bien ?<br/>B: J'ai de violents maux de ventre depuis ce matin, j'ai même du mal à rester debout."
+      "ja": "A: <ruby>顔色<rt>かおいろ</rt></ruby>が<ruby>青白<rt>あおじろ</rt></ruby>いですが、どこか<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いんですか？<br/>B: <ruby>朝<rt>あさ</rt></ruby>から<ruby>激<rt>はげ</rt></ruby>しい<ruby>腹痛<rt>ふくつう</rt></ruby>があって、<ruby>立<rt>た</rt></ruby>っているのもつらいんです。",
+      "en": "A: You look pale, are you not feeling well?<br/>B: I've had severe stomach pain since morning, it hurts even to stand.",
+      "zh_TW": "A: 你臉色很蒼白，是哪裡不舒服嗎？<br/>B: 從早上開始就劇烈肚子痛，連站著都很難受。",
+      "zh_CN": "A: 你脸色很苍白，是哪里不舒服吗？<br/>B: 从早上开始就剧烈肚子痛，连站着都很难受。",
+      "ko": "A: 안색이 창백한데 어디 안 좋으신가요?<br/>B: 아침부터 심한 복통이 있어서 서 있는 것도 힘들어요.",
+      "zh_HK": "A: 你塊面好青白喎，係咪邊度唔舒服呀？<br/>B: 今朝開始就肚痛得好交關，企喺度都好辛苦。",
+      "fr": "A: Vous êtes pâle, vous ne vous sentez pas bien ?<br/>B: J'ai de violents maux de ventre depuis ce matin, c'est pénible même de rester debout."
     },
     "related": "ふくつう（授業の重要表現）"
   },
@@ -15385,7 +15385,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0641",
     "word": "ライセンス料",
-    "reading": "ライセンスらいせんすりょう",
+    "reading": "らいせんすりょう",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "license fee / royalty",
@@ -15404,7 +15404,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To manufacture goods of famous characters, a license fee is required.<br/>B: Proper contracts must be established to protect copyrights.",
       "fr": "A: To manufacture goods of famous characters, a license fee is required.<br/>B: Proper contracts must be established to protect copyrights."
     },
-    "related": "ライセンスらいせんすりょう（授業の重要表現）"
+    "related": "らいせんすりょう（授業の重要表現）"
   },
   {
     "id": "class_word_0642",
@@ -15701,16 +15701,16 @@ window.CLASS_VOCAB_DATA = [
   },
   {
     "id": "class_word_0654",
-    "word": "申し訳ないけど／申し訳ないですけど／申し訳ありませんが（formal）",
+    "word": "申し訳ないけど／申し訳ないですけど／申し訳ありませんが",
     "reading": "もうしわけないけど／もうしわけないですけど／もうしわけありませんが",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ すみませんですけど → 正しくは？",
-      "zh_TW": "❌ すみませんですけど → 正しくは？",
-      "zh_CN": "❌ すみませんですけど → 正しくは？",
-      "ko": "❌ 죄송하지만 → 제대로는?",
-      "zh_HK": "❌ すみませんですけど → 正しくは？",
-      "fr": "❌ Je suis désolé, mais → Est-ce exact ?"
+      "en": "I'm sorry, but... (polite apology/cushion phrase; replaces incorrect 'すみませんですけど')",
+      "zh_TW": "不好意思 / 非常抱歉（禮貌的緩衝用語；正確表達，不用「すみませんですけど」）",
+      "zh_CN": "不好意思 / 非常抱歉（礼貌的缓冲用语；正确表达，不用「すみませんですけど」）",
+      "ko": "죄송하지만 / 대단히 죄송합니다만 (정중한 거절 표현; 'すみませんですけど'의 올바른 표현)",
+      "zh_HK": "唔好意思 / 好抱歉（有禮貌嘅婉拒用語）",
+      "fr": "Je suis désolé, mais... / Veuillez m'excuser (expression polie correcte)"
     },
     "example": {
       "ja": "A: <ruby>申し訳<rt>もうしわけ</rt></ruby>ありませんが、その<ruby>日<rt>ひ</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っておりまして……。<br/>B: いえいえ、お<ruby>気<rt>き</rt></ruby>になさらないでください。またの<ruby>機会<rt>きかい</rt></ruby>に！",
@@ -15721,7 +15721,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm very sorry, but I already have another appointment that day...<br/>B: Not at all, don't worry about it. Let's do it another time!",
       "fr": "A: I'm very sorry, but I already have another appointment that day...<br/>B: Not at all, don't worry about it. Let's do it another time!"
     },
-    "related": "申しもうしわけないけど／申し訳ないですけど／申し訳ありませんが（授業の重要表現）"
+    "related": "申し訳ないけど／申し訳ないですけど／申し訳ありませんが（授業の重要表現・丁寧な断り表現）"
   },
   {
     "id": "class_word_0655",
@@ -16719,7 +16719,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0696",
     "word": "5匹",
-    "reading": "5ごひき",
+    "reading": "ごひき",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "five small animals",
@@ -16739,7 +16739,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你屋企有養貓㗎？<br/>B: 係呀，總共養咗五隻呀。",
       "fr": "A: As-tu des chats à la maison ?<br/>B: Oui, j'en ai cinq au total."
     },
-    "related": "匹（ひき）"
+    "related": "ごひき（授業の重要表現）"
   },
   {
     "id": "class_word_0697",
@@ -17984,7 +17984,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0748",
     "word": "無理やり",
-    "reading": "むやり",
+    "reading": "むりやり",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "by force / against one's will",
@@ -18004,7 +18004,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢都唔想，夾硬帶佢去唔太好喎。<br/>B: 係啦，尊重佢嘅意願啦。",
       "fr": "A: Ce n'est pas bien de l'emmener de force alors qu'il n'en a pas envie.<br/>B: C'est vrai, respectons sa volonté."
     },
-    "related": "無理に（むりに）"
+    "related": "無理やり（むりやり・力ずくで何かを行うこと）"
   },
   {
     "id": "class_word_0749",
@@ -21399,7 +21399,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0888",
     "word": "お辞儀",
-    "reading": "おおじぎ",
+    "reading": "おじぎ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "a bow / bowing",
@@ -21418,7 +21418,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In Japan, there is a culture of bowing politely when greeting someone.<br/>B: Yes, bowing is very important for expressing gratitude and respect.",
       "fr": "A: In Japan, there is a culture of bowing politely when greeting someone.<br/>B: Yes, bowing is very important for expressing gratitude and respect."
     },
-    "related": "おおじぎ（授業の重要表現）"
+    "related": "おじぎ（授業の重要表現）"
   },
   {
     "id": "class_word_0889",
@@ -22695,7 +22695,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0942",
     "word": "お世辞",
-    "reading": "おおせじ",
+    "reading": "おせじ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "flattery / empty compliment",
@@ -22714,7 +22714,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啲嘢食好好味呀！<br/>B: 就算係客套話我都好開心。多謝！",
       "fr": "A: La nourriture est vraiment délicieuse !<br/>B: Même si c'est de la flatterie, je suis content. Merci !"
     },
-    "related": "おだてる"
+    "related": "おせじ（授業の重要表現）"
   },
   {
     "id": "class_word_0943",
@@ -23799,7 +23799,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_0988",
     "word": "クサい台詞",
-    "reading": "クサいクサいセリフ",
+    "reading": "くさいセリフ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "cheesy line / cringy romantic line",
@@ -23818,7 +23818,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 套劇嘅男主角講咗句好肉麻嘅台詞呀。<br/>B: 不過，只要係靚仔演員就可以原諒啦。",
       "fr": "A: Le personnage principal du drame a dit une réplique vraiment ringarde.<br/>B: Mais si l'acteur est beau, on lui pardonne."
     },
-    "related": "台詞（せりふ）"
+    "related": "くさいセリフ（授業の重要表現）"
   },
   {
     "id": "class_word_0989",
@@ -24245,7 +24245,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1006",
     "word": "ビデオ通話",
-    "reading": "ビデオビデオつうわ",
+    "reading": "ビデオつうわ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "video call",
@@ -24265,7 +24265,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚約咗同屋企人視像通話。<br/>B: 可以睇到樣傾偈會安心啲。",
       "fr": "A: Je prévois de faire un appel vidéo avec ma famille ce soir.<br/>B: C'est rassurant de voir leurs visages en parlant."
     },
-    "related": "オンライン会議（オンラインかいぎ）"
+    "related": "ビデオつうわ（授業の重要表現）"
   },
   {
     "id": "class_word_1007",
@@ -24919,7 +24919,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1033",
     "word": "出っ歯",
-    "reading": "でっば",
+    "reading": "でっぱ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "buck teeth / protruding teeth",
@@ -24939,7 +24939,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 細個嗰陣，哨牙係我嘅自卑。<br/>B: 箍完牙之後排牙好齊好靚喎。",
       "fr": "A: Quand j'étais enfant, mes dents en avant me complexaient.<br/>B: Elles sont parfaitement alignées depuis que tu as eu un appareil."
     },
-    "related": "歯並び（はならび）"
+    "related": "出っ歯（でっぱ・前歯が出ている状態）"
   },
   {
     "id": "class_word_1034",
@@ -25745,7 +25745,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1067",
     "word": "〜ヶ月",
-    "reading": "〜ヶかげつ",
+    "reading": "〜かげつ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "〜개월 / 〜달 / 〜month(s)",
@@ -25764,12 +25764,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Exactly 3 months have passed since coming to Japan.<br/>B: In 3 months, you've become very familiar with city geography!",
       "fr": "A: Exactly 3 months have passed since coming to Japan.<br/>B: In 3 months, you've become very familiar with city geography!"
     },
-    "related": "〜ヶかげつ（授業の重要表現）"
+    "related": "〜かげつ（授業の重要表現）"
   },
   {
     "id": "class_word_1068",
     "word": "〜ヶ月間",
-    "reading": "〜ヶかげつかん",
+    "reading": "〜かげつかん",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "〜개월 동안 / for〜 months / over a period of〜 months",
@@ -25788,7 +25788,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For the 2-month period of summer vacation, I studied Japanese intensively.<br/>B: Intensive study over that block of time is showing results.",
       "fr": "A: For the 2-month period of summer vacation, I studied Japanese intensively.<br/>B: Intensive study over that block of time is showing results."
     },
-    "related": "〜ヶかげつかん（授業の重要表現）"
+    "related": "〜かげつかん（授業の重要表現）"
   },
   {
     "id": "class_word_1069",
@@ -26249,7 +26249,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1088",
     "word": "出っ歯",
-    "reading": "でっば",
+    "reading": "でっぱ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "뻐드렁니 / 돌출입 / buck teeth / protruding teeth",
@@ -26268,7 +26268,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我由細到大都因為哨牙好介意、好冇自信。<br/>B: 係咩？最近好似有啲好隱形嘅透明牙箍可以矯正㗎喎。",
       "fr": "A: Depuis tout petit, mes dents en avant ont toujours été un vrai complexe pour moi.<br/>B: Ah bon ? De nos jours, il existe des gouttières transparentes et discrètes pour corriger ça."
     },
-    "related": "でっば（授業の重要表現）"
+    "related": "出っ歯（でっぱ・前歯が出ている状態）"
   },
   {
     "id": "class_word_1089",
@@ -28314,7 +28314,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1174",
     "word": "お弁当",
-    "reading": "おおべんとう",
+    "reading": "おべんとう",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "lunchbox / bento",
@@ -28333,7 +28333,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Make it a normal packed lunch, OK?",
       "fr": "Make it a normal packed lunch, OK?"
     },
-    "related": "おおべんとう（授業の重要表現）"
+    "related": "おべんとう（授業の重要表現）"
   },
   {
     "id": "class_word_1175",
@@ -29420,7 +29420,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1220",
     "word": "3歳上",
-    "reading": "3さいうえ",
+    "reading": "さんさいうえ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "three years older",
@@ -29439,7 +29439,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is three years older than me, so he is very dependable.<br/>B: Being three years older brings calm reliability.",
       "fr": "A: He is three years older than me, so he is very dependable.<br/>B: Being three years older brings calm reliability."
     },
-    "related": "3さいうえ（授業の重要表現）"
+    "related": "さんさいうえ（授業の重要表現）"
   },
   {
     "id": "class_word_1221",
@@ -31583,27 +31583,27 @@ window.CLASS_VOCAB_DATA = [
   },
   {
     "id": "class_word_1310",
-    "word": "힘들어요 / 大変です / it's tough / it's hard",
-    "reading": "힘들어요 / たいへんです / it's tough / it's hard",
+    "word": "大変です",
+    "reading": "たいへんです",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "大変（たいへん）です",
-      "zh_TW": "大変（たいへん）です",
-      "zh_CN": "大変（たいへん）です",
-      "ko": "大変（taiへん）입니다",
-      "zh_HK": "大変（たいへん）です",
-      "fr": "大変（たいへん）です"
+      "en": "It's tough / It's hard / strenuous",
+      "zh_TW": "辛苦了 / 很不容易 / 很辛苦",
+      "zh_CN": "辛苦了 / 很不容易 / 很辛苦",
+      "ko": "힘들어요 / 대단히 힘들다",
+      "zh_HK": "好辛苦 / 好不容易",
+      "fr": "C'est difficile / C'est dur"
     },
     "example": {
       "ja": "A: <ruby>毎日<rt>まいにち</rt></ruby>の<ruby>残業<rt>ざんぎょう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていて<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby>です。<br/>B: <ruby>無理<rt>むり</rt></ruby>をしすぎないで、<ruby>休<rt>やす</rt></ruby>める<ruby>時<rt>とき</rt></ruby>はしっかり<ruby>体<rt>からだ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>めてくださいね。",
       "en": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can.",
-      "zh_TW": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can.",
-      "zh_CN": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can.",
-      "ko": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can.",
-      "zh_HK": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can.",
-      "fr": "A: Continuous overtime every day is really tough.<br/>B: Don't overexert yourself; rest your body when you can."
+      "zh_TW": "A: 每天連續加班真的很辛苦。<br/>B: 不要太勉強，能休息的時候好好讓身體休息喔。",
+      "zh_CN": "A: 每天连续加班真的很辛苦。<br/>B: 不要太勉强，能休息的时候好好让身体休息哦。",
+      "ko": "A: 매일 야근이 이어져서 정말 힘들어요.<br/>B: 너무 무리하지 마시고 쉴 수 있을 때 몸을 푹 쉬게 해주세요.",
+      "zh_HK": "A: 每日連續OT真係好辛苦。<br/>B: 唔好太勉強，可以休息嘅時候好好畀身體休息啦。",
+      "fr": "A: Faire des heures supplémentaires tous les jours est vraiment dur.<br/>B: Ne forcez pas trop, reposez-vous dès que vous le pouvez."
     },
-    "related": "힘들어요 / たいへんです / it's tough / it's hard（授業の重要表現）"
+    "related": "大変です（授業の重要表現・同情や苦労を表す）"
   },
   {
     "id": "class_word_1311",
@@ -32679,13 +32679,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "maux d'estomac / douleurs abdominales"
     },
     "example": {
-      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>冷<rt>つめ</rt></ruby>たいものを<ruby>飲<rt>の</rt></ruby>みすぎて<ruby>腹痛<rt>はらいた</rt></ruby>になっちゃったんだ。<br/>B: お<ruby>腹<rt>なか</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やすと<ruby>痛<rt>いた</rt></ruby>くなるよね。<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>でも<ruby>飲<rt>の</rt></ruby>んで<ruby>休<rt>やす</rt></ruby>んでね。",
-      "en": "A: Last night I drank too many cold drinks and got a stomachache.<br/>B: If your stomach gets chilled, it starts hurting. Drink some warm tea and rest.",
-      "zh_TW": "A: 昨晚我喝了太多冷飲，結果肚子痛了起來。<br/>B: 肚子著涼就會痛呢。喝點熱茶好好休息吧。",
-      "zh_CN": "A: 昨晚我喝了太多冷饮，结果肚子痛了起来。<br/>B: 肚子着凉就会痛呢。喝点热茶好好休息吧。",
-      "ko": "A: 어젯밤에 찬 걸 너무 많이 마셔서 복통이 생겼어.<br/>B: 배를 차게 하면 탈이 나지. 따뜻한 차라도 마시고 쉬어.",
-      "zh_HK": "A: 琴晚飲咗太多凍嘢，搞到肚痛添。<br/>B: 個肚一受涼就會痛㗎喇。飲杯熱茶抖下啦。",
-      "fr": "A: Hier soir, j'ai bu trop de boissons glacées et j'ai eu mal au ventre.<br/>B: Prendre froid au ventre provoque des douleurs. Bois du thé chaud et repose-toi."
+      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>冷<rt>つめ</rt></ruby>たいものを<ruby>飲<rt>の</rt></ruby>みすぎて<ruby>腹痛<rt>ふくつう</rt></ruby>になっちゃったんだ。<br/>B: お<ruby>腹<rt>なか</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やすと<ruby>痛<rt>いた</rt></ruby>くなるよね。<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>でも<ruby>飲<rt>の</rt></ruby>んで<ruby>休<rt>やす</rt></ruby>んでね。",
+      "en": "A: Last night I drank too much cold stuff and got a stomachache.<br/>B: Chilling your stomach can make it hurt. Drink some warm tea and rest.",
+      "zh_TW": "A: 昨晚喝了太多冰的，結果肚子痛了起來。<br/>B: 肚子著涼就容易痛呢。喝點熱茶好好休息吧。",
+      "zh_CN": "A: 昨晚喝了太多冰的，结果肚子痛了起来。<br/>B: 肚子着凉就容易痛呢。喝点热茶好好休息吧。",
+      "ko": "A: 어젯밤에 찬 음식을 너무 많이 마셔서 배탈(복통)이 났어.<br/>B: 배가 차가워지면 아프잖아. 따뜻한 차라도 마시고 쉬어.",
+      "zh_HK": "A: 尋晚飲得太多凍嘢搞到肚痛呀。<br/>B: 個肚親親熱熱咁一凍親就會痛㗎啦。飲返杯熱茶休息下啦。",
+      "fr": "A: Hier soir j'ai bu trop de boissons fraîches et j'ai eu mal au ventre.<br/>B: Avoir froid au ventre provoque des douleurs. Bois du thé chaud et repose-toi."
     },
     "related": "ふくつう（授業の重要表現）"
   },
@@ -32740,7 +32740,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1358",
     "word": "お利口",
-    "reading": "おおりこう",
+    "reading": "おりこう",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "clever / well-behaved / good",
@@ -32759,7 +32759,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He obeys the wait command well—what a clever, well-behaved dog!<br/>B: When praised, he sits well-behaved and wags his tail.",
       "fr": "A: He obeys the wait command well—what a clever, well-behaved dog!<br/>B: When praised, he sits well-behaved and wags his tail."
     },
-    "related": "おおりこう（授業の重要表現）"
+    "related": "おりこう（授業の重要表現）"
   },
   {
     "id": "class_word_1359",
@@ -32980,7 +32980,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1368",
     "word": "ガソリンスタンド・ガスタ",
-    "reading": "ガスタ",
+    "reading": "ガソリンスタンド／ガスタ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "gas station",
@@ -32999,7 +32999,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 著咗油燈喇添！<br/>B: 轉過下個彎有間油站，快啲去入油啦。",
       "fr": "A: Le voyant d'essence vient de s'allumer !<br/>B: Il y a une station-service au prochain carrefour, dépêchons-nous d'aller faire le plein."
     },
-    "related": "ガスタ（授業の重要表現）"
+    "related": "ガソリンスタンド／ガスタ（授業の重要表現）"
   },
   {
     "id": "class_word_1369",
@@ -34280,7 +34280,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1422",
     "word": "あいづちを打つ",
-    "reading": "うつ",
+    "reading": "あいづちをうつ",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "to give feedback while listening / to nod along",
@@ -34299,7 +34299,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽人講嘢嗰陣，適當咁附和係好重要㗎。<br/>B: 知道，我會注意等對方容易啲講嘢。",
       "fr": "A: Lorsque l'on écoute, il est important d'acquiescer de manière appropriée.<br/>B: Oui, je ferai attention à mettre mon interlocuteur à l'aise pour parler."
     },
-    "related": "うつ（授業の重要表現）"
+    "related": "あいづちを打つ（相手の話にうなずいて相槌を打つこと）"
   },
   {
     "id": "class_word_1423",
@@ -38144,7 +38144,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1583",
     "word": "ダイレクト",
-    "reading": "な",
+    "reading": "ダイレクト",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "direct (method/channel)",
@@ -38163,12 +38163,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講單投訴直接傳到老闆耳中呀。<br/>B: 咁睇嚟會好大鑊喎。",
       "fr": "A: J'ai entendu dire que la plainte est arrivée directement aux oreilles du président.<br/>B: On dirait que ça va devenir un gros problème."
     },
-    "related": "な（授業の重要表現）"
+    "related": "ダイレクト（直接・ダイレクトに伝えるなど）"
   },
   {
     "id": "class_word_1584",
     "word": "ストレート",
-    "reading": "な",
+    "reading": "ストレート",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "straightforward (personality)",
@@ -38187,7 +38187,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢係嗰種心入面諗咩就直接講嘅類型。<br/>B: 雖然有時會好傷，但我鍾意佢夠坦白。",
       "fr": "A: C'est le genre à dire directement ce qu'il pense.<br/>B: Parfois ça blesse, mais j'aime le fait qu'il soit franc."
     },
-    "related": "な（授業の重要表現）"
+    "related": "ストレート（ストレートに言う・率直な性格など）"
   },
   {
     "id": "class_word_1585",
@@ -38674,7 +38674,7 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1605",
     "word": "〜の時",
-    "reading": "とき",
+    "reading": "〜のとき",
     "category": "授業で習った言葉",
     "meaning": {
       "en": "when / at the time of",
@@ -38799,27 +38799,27 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1610",
     "word": "〜ところに行きました",
-    "reading": "〜ところにいきまました",
+    "reading": "〜ところにいきまし た",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "I went to a place where 〜",
+      "en": "I went to a place where ~",
       "ja": "〜ところに行きました",
-      "zh_TW": "I went to a place where 〜",
-      "zh_CN": "I went to a place where 〜",
-      "ko": "I went to a place where 〜",
-      "zh_HK": "I went to a place where 〜",
-      "fr": "I went to a place where 〜"
+      "zh_TW": "去了〜的地方",
+      "zh_CN": "去了〜的地方",
+      "ko": "〜한 곳에 갔습니다",
+      "zh_HK": "去咗〜嘅地方",
+      "fr": "Je suis allé à un endroit où ~"
     },
     "example": {
       "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はどこかへ<ruby>出<rt>で</rt></ruby>かけましたか？<br/>B: <ruby>綺麗<rt>きれい</rt></ruby>な<ruby>星空<rt>ほしぞら</rt></ruby>が<ruby>見<rt>み</rt></ruby>えるところに<ruby>行<rt>い</rt></ruby>きましたよ。",
       "en": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies.",
-      "zh_TW": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies.",
-      "zh_CN": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies.",
-      "ko": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies.",
-      "zh_HK": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies.",
-      "fr": "A: Did you go somewhere over the weekend?<br/>B: I went to a place where you can see beautiful starry skies."
+      "zh_TW": "A: 週末有去哪裡走走嗎？<br/>B: 我去了能看見美麗星空的地方喔。",
+      "zh_CN": "A: 周末有去哪里走走吗？<br/>B: 我去了能看见美丽星空的地方哦。",
+      "ko": "A: 주말에 어디 다녀오셨어요?<br/>B: 예쁜 밤하늘 별이 보이는 곳에 다녀왔어요.",
+      "zh_HK": "A: 週末有冇去邊度行下呀？<br/>B: 我去咗可以望到好靚星空嘅地方呀。",
+      "fr": "A: Êtes-vous sorti quelque part ce week-end ?<br/>B: Je suis allé dans un endroit où l'on peut voir un magnifique ciel étoilé."
     },
-    "related": "I went to a place where 〜 — ところ here means 'a place'. Use a verb in plain form before ところ to describe what kind of place"
+    "related": "〜ところに行きました（〜した場所・場所を表す表現）"
   },
   {
     "id": "class_word_1611",
@@ -43524,16 +43524,16 @@ window.CLASS_VOCAB_DATA = [
   {
     "id": "class_word_1799",
     "word": "〜で育った",
-    "reading": "そだった",
+    "reading": "〜でそだった",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "\"Grew up in/at ~\"",
+      "en": "Grew up in / at ~",
       "ja": "〜で育った",
-      "zh_TW": "\"Grew up in/at ~\"",
-      "zh_CN": "\"Grew up in/at ~\"",
-      "ko": "\"Grew up in/at ~\"",
-      "zh_HK": "\"Grew up in/at ~\"",
-      "fr": "\"Grew up in/at ~\""
+      "zh_TW": "在〜長大",
+      "zh_CN": "在〜长大",
+      "ko": "〜에서 자랐다",
+      "zh_HK": "喺〜大 / 喺〜長大",
+      "fr": "A grandi à / dans ~"
     },
     "example": {
       "ja": "A: <ruby>出身<rt>しゅっしん</rt></ruby>はどちらですか？<br/>B: <ruby>海<rt>うみ</rt></ruby>と<ruby>山<rt>やま</rt></ruby>に<ruby>囲<rt>かこ</rt></ruby>まれた<ruby>自然豊<rt>しぜんゆた</rt></ruby>かな<ruby>長野県<rt>ながのけん</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
@@ -45552,22 +45552,21 @@ window.CLASS_VOCAB_DATA = [
     "reading": "てあて",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Allowance / benefit",
-      "ja": "手当",
-      "zh_TW": "Allowance / benefit",
-      "zh_CN": "Allowance / benefit",
-      "ko": "Allowance / benefit",
-      "zh_HK": "Allowance / benefit",
-      "fr": "aide"
+      "en": "medical treatment / first aid / allowance",
+      "zh_TW": "處置・治療 / 補助津貼",
+      "zh_CN": "处置・治疗 / 补助津贴",
+      "ko": "치료・처치 / 수당",
+      "zh_HK": "處置・包紮急救 / 津貼",
+      "fr": "soins médicaux / premiers secours / allocation"
     },
     "example": {
-      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>怪我<rt>けが</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>の<ruby>手当<rt>てあ</rt></ruby>てをしたり、<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>の<ruby>介抱<rt>かいほう</rt></ruby>をしたりすることが<ruby>好<rt>す</rt></ruby>きでした。",
-      "en": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick.",
-      "zh_TW": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick.",
-      "zh_CN": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick.",
-      "ko": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick.",
-      "zh_HK": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick.",
-      "fr": "Mrs Tanaka liked to carry out first aid on the injured and take care of the sick."
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>怪我<rt>けが</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>の<ruby>手当<rt>てあて</rt></ruby>をしたり、<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>の<ruby>介抱<rt>かいほう</rt></ruby>をしたりすることが<ruby>好<rt>す</rt></ruby>きでした。",
+      "en": "Tanaka liked providing first aid to injured people and caring for the sick.",
+      "zh_TW": "田中先生喜歡為受傷的人進行包紮治療，也喜歡照料生病的人。",
+      "zh_CN": "田中先生喜欢为受伤的人进行包扎治疗，也喜欢照料生病的人。",
+      "ko": "다나카 씨는 다친 사람을 치료해주거나 아픈 사람을 간호하는 것을 좋아했습니다.",
+      "zh_HK": "田中先生好鍾意幫受傷嘅人包紮急救，同埋照顧病咗嘅人。",
+      "fr": "M. Tanaka aimait prodiguer les premiers soins aux blessés et s'occuper des malades."
     },
     "related": "Allowance / benefit — extra pay given for a specific purpose beyond base salary (commuting, housing, overtime, etc.)."
   },
@@ -49347,5 +49346,3 @@ window.CLASS_VOCAB_DATA = [
     "related": "ひこうかい（授業の重要表現）"
   }
 ];
-
-window.CLASS_ARUN_IDS = ["class_word_1603", "class_word_1181", "class_word_0387", "class_word_1604", "class_word_1605", "class_word_1606", "class_word_1607", "class_word_0112", "class_word_1608", "class_word_1609", "class_word_1610", "class_word_1611", "class_word_1612", "class_word_1613", "class_word_1614", "class_word_1615", "class_word_1616", "class_word_1617", "class_word_1598", "class_word_1618", "class_word_1619", "class_word_1281", "class_word_1620", "class_word_1621", "class_word_1622", "class_word_1623", "class_word_1624", "class_word_1432", "class_word_1335", "class_word_1625", "class_word_1626", "class_word_1627", "class_word_1628", "class_word_1629", "class_word_1630", "class_word_1631", "class_word_1632", "class_word_1633", "class_word_1369", "class_word_1634", "class_word_1635", "class_word_1636", "class_word_1637", "class_word_1638", "class_word_0003", "class_word_1639", "class_word_1640", "class_word_1641", "class_word_0336", "class_word_1642", "class_word_0155", "class_word_1643", "class_word_1644", "class_word_1645", "class_word_1646", "class_word_1647", "class_word_1648", "class_word_1649", "class_word_1650", "class_word_1651", "class_word_1652", "class_word_1653", "class_word_1654", "class_word_1131", "class_word_1655", "class_word_0291", "class_word_1252", "class_word_1656", "class_word_1657", "class_word_1459", "class_word_1658", "class_word_1659", "class_word_0476", "class_word_1660", "class_word_1661", "class_word_1329", "class_word_1662", "class_word_1663", "class_word_1664", "class_word_1665", "class_word_0526", "class_word_1585", "class_word_1666", "class_word_1667", "class_word_1668", "class_word_1669", "class_word_1345", "class_word_1066", "class_word_0172", "class_word_1670", "class_word_1671", "class_word_1186", "class_word_1672", "class_word_0417", "class_word_1673", "class_word_1674", "class_word_1675", "class_word_1676", "class_word_1677", "class_word_0474", "class_word_1678", "class_word_1679", "class_word_0912", "class_word_1680", "class_word_1681", "class_word_1682", "class_word_1683", "class_word_1684", "class_word_1685", "class_word_1686", "class_word_1687", "class_word_1688", "class_word_1689", "class_word_1690", "class_word_1691", "class_word_1692", "class_word_0227", "class_word_1693", "class_word_1694", "class_word_1439", "class_word_1695", "class_word_1696", "class_word_1697", "class_word_1698", "class_word_1699", "class_word_1700", "class_word_0401", "class_word_1701", "class_word_0114", "class_word_1702", "class_word_1703", "class_word_0462", "class_word_0403", "class_word_1704", "class_word_1705", "class_word_1706", "class_word_1707", "class_word_1708", "class_word_1709", "class_word_1412", "class_word_1710", "class_word_1711", "class_word_0266", "class_word_1055", "class_word_0555", "class_word_0029", "class_word_1464", "class_word_1712", "class_word_0012", "class_word_1115", "class_word_0376", "class_word_1713", "class_word_1714", "class_word_1715", "class_word_1716", "class_word_1717", "class_word_1718", "class_word_1719", "class_word_1720", "class_word_1721", "class_word_1434", "class_word_0557", "class_word_1722", "class_word_1723", "class_word_1724", "class_word_1725", "class_word_1726", "class_word_1497", "class_word_1498", "class_word_1727", "class_word_1728", "class_word_1729", "class_word_1730", "class_word_1513", "class_word_1731", "class_word_1732", "class_word_1733", "class_word_1734", "class_word_1349", "class_word_0081", "class_word_1735", "class_word_1736", "class_word_1737", "class_word_1241", "class_word_1738", "class_word_0702", "class_word_1739", "class_word_1740", "class_word_1741", "class_word_1742", "class_word_1743", "class_word_1744", "class_word_1745", "class_word_1428", "class_word_1430", "class_word_1746", "class_word_1747", "class_word_1748", "class_word_1749", "class_word_1750", "class_word_1751", "class_word_0247", "class_word_1468", "class_word_1752", "class_word_1753", "class_word_0929", "class_word_0014", "class_word_1754", "class_word_0303", "class_word_1755", "class_word_1756", "class_word_0636", "class_word_1757", "class_word_1758", "class_word_0672", "class_word_1759", "class_word_1760", "class_word_1761", "class_word_1762", "class_word_1763", "class_word_1764", "class_word_1765", "class_word_1766", "class_word_1767", "class_word_1768", "class_word_1769", "class_word_1770", "class_word_1771", "class_word_1772", "class_word_1773", "class_word_1774", "class_word_1337", "class_word_1775", "class_word_1776", "class_word_1777", "class_word_1778", "class_word_1779", "class_word_1780", "class_word_1781", "class_word_1782", "class_word_1783", "class_word_1784", "class_word_1785", "class_word_1786", "class_word_0385", "class_word_1787", "class_word_1788", "class_word_1105", "class_word_1789", "class_word_1790", "class_word_1791", "class_word_0845", "class_word_1792", "class_word_1793", "class_word_1794", "class_word_1795", "class_word_1796", "class_word_1797", "class_word_1798", "class_word_1572", "class_word_1799", "class_word_1800", "class_word_1144", "class_word_1801", "class_word_1802", "class_word_1803", "class_word_1804", "class_word_1805", "class_word_1806", "class_word_1807", "class_word_1489", "class_word_1808", "class_word_1809", "class_word_1810", "class_word_1811", "class_word_1812", "class_word_1813", "class_word_0217", "class_word_1814", "class_word_1815", "class_word_1816", "class_word_1817", "class_word_0055", "class_word_1069", "class_word_1818", "class_word_1819", "class_word_1820", "class_word_1821", "class_word_1209", "class_word_1822", "class_word_1823", "class_word_0170", "class_word_1824", "class_word_1825", "class_word_1826", "class_word_1827", "class_word_1828", "class_word_1829", "class_word_1830", "class_word_1831", "class_word_1832", "class_word_1833", "class_word_1834", "class_word_1835", "class_word_1836", "class_word_1837", "class_word_1838", "class_word_1839", "class_word_1840", "class_word_1841", "class_word_1842", "class_word_1843", "class_word_0116", "class_word_1844", "class_word_1845", "class_word_1846", "class_word_1847", "class_word_1848", "class_word_1849", "class_word_1850", "class_word_1851", "class_word_1852", "class_word_1853", "class_word_1854", "class_word_1855", "class_word_1856", "class_word_0591", "class_word_1857", "class_word_0886", "class_word_1858", "class_word_1859", "class_word_1860", "class_word_1861", "class_word_1862", "class_word_1202", "class_word_0425", "class_word_1863", "class_word_1327", "class_word_1864", "class_word_1865", "class_word_1866", "class_word_1867", "class_word_1868", "class_word_1869", "class_word_1870", "class_word_1871", "class_word_1872", "class_word_0335", "class_word_1873", "class_word_1874", "class_word_0841", "class_word_1875", "class_word_1876", "class_word_1877", "class_word_1878", "class_word_1879", "class_word_1880", "class_word_1881", "class_word_1882", "class_word_1883", "class_word_1884", "class_word_1885", "class_word_1886", "class_word_1887", "class_word_1888", "class_word_1889", "class_word_1426", "class_word_1890", "class_word_1891", "class_word_1892", "class_word_1893", "class_word_1894", "class_word_1895", "class_word_1896", "class_word_1897", "class_word_1898", "class_word_1899", "class_word_1900", "class_word_1901", "class_word_1902", "class_word_1903", "class_word_1904", "class_word_1905", "class_word_1906", "class_word_1907", "class_word_1908", "class_word_1909", "class_word_1910", "class_word_1911", "class_word_1912", "class_word_1913", "class_word_0693", "class_word_1914", "class_word_1915", "class_word_1916", "class_word_0883", "class_word_1917", "class_word_1918", "class_word_1919", "class_word_1920", "class_word_1921", "class_word_1922", "class_word_1923", "class_word_1924", "class_word_1925", "class_word_1926", "class_word_1927", "class_word_1928", "class_word_1180", "class_word_1929", "class_word_1930", "class_word_1931", "class_word_1932", "class_word_1933", "class_word_1934", "class_word_1935", "class_word_1936", "class_word_1937", "class_word_0769", "class_word_1938", "class_word_1939", "class_word_1503", "class_word_1940", "class_word_1941", "class_word_1942", "class_word_1943", "class_word_1944", "class_word_0289", "class_word_1945", "class_word_1946", "class_word_1947", "class_word_1948", "class_word_1949", "class_word_1950", "class_word_1951", "class_word_1952", "class_word_1521", "class_word_1953", "class_word_1954", "class_word_1955", "class_word_1956", "class_word_1957", "class_word_1958", "class_word_1959", "class_word_1960", "class_word_1961", "class_word_1962", "class_word_1963", "class_word_1964", "class_word_1965", "class_word_1966", "class_word_1967", "class_word_1968", "class_word_1969", "class_word_1970", "class_word_1971", "class_word_1972", "class_word_1973", "class_word_1974", "class_word_1975", "class_word_1976", "class_word_1977", "class_word_1978", "class_word_1979", "class_word_1980", "class_word_1981", "class_word_1982", "class_word_0429", "class_word_1983", "class_word_0898", "class_word_1984", "class_word_1985", "class_word_1986", "class_word_1987", "class_word_1988", "class_word_1989", "class_word_0465", "class_word_0459", "class_word_1990", "class_word_1991", "class_word_1992", "class_word_1993", "class_word_1994", "class_word_1995", "class_word_0471", "class_word_1996", "class_word_0242", "class_word_0729", "class_word_1997", "class_word_1998", "class_word_1130", "class_word_0621", "class_word_1999", "class_word_2000", "class_word_2001", "class_word_2002", "class_word_2003", "class_word_2004", "class_word_2005", "class_word_2006", "class_word_2007", "class_word_2008", "class_word_2009", "class_word_2010", "class_word_2011", "class_word_2012", "class_word_2013", "class_word_2014", "class_word_2015", "class_word_2016", "class_word_2017", "class_word_2018", "class_word_2019", "class_word_1482", "class_word_0797", "class_word_2020", "class_word_2021", "class_word_2022", "class_word_2023", "class_word_2024", "class_word_2025", "class_word_2026", "class_word_2027", "card_arun_houritsu", "card_arun_koukai", "card_arun_hikoukai"];

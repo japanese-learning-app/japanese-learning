@@ -9867,7 +9867,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "すぐに",
-    "reading": "in a bit / in a minute",
+    "reading": "すぐに",
     "category": "時間/時制表現",
     "meaning": {
       "en": "in a bit / in a minute (a few minutes)",
@@ -9895,7 +9895,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "あとで",
-    "reading": "later",
+    "reading": "あとで",
     "category": "時間/時制表現",
     "meaning": {
       "en": "later (te-form)",
@@ -11658,8 +11658,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "時間/頻度",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "まだ—否定",
-    "reading": "まだ〜していない",
+    "word": "まだ（〜ない）",
+    "reading": "まだ",
     "category": "時間/頻度",
     "meaning": {
       "en": "not yet",
@@ -11911,7 +11911,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "久しぶり",
-    "reading": "に",
+    "reading": "ひさしぶり",
     "category": "時間/頻度",
     "meaning": {
       "en": "it's been a while / long time no see",
@@ -11967,7 +11967,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "あまり",
-    "reading": "〜ません",
+    "reading": "あまり",
     "category": "時間/頻度",
     "meaning": {
       "en": "not very often / not much",
@@ -11978,10 +11978,10 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "not very often / not much"
     },
     "example": {
-      "ja": "<ruby>辛<rt>つら</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>はあまり<ruby>食<rt>た</rt></ruby>べられません。<br/><ruby>甘口<rt>あまくち</rt></ruby>のカレーが<ruby>好<rt>す</rt></ruby>きです。",
+      "ja": "<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>はあまり<ruby>食<rt>た</rt></ruby>べられません。<br/><ruby>甘口<rt>あまくち</rt></ruby>のカレーが<ruby>好<rt>す</rt></ruby>きです。",
       "en": "I can't eat spicy food very much.<br>I like mild curry.",
       "zh_TW": "太辣的料理我不太能吃。<br>我喜歡甜味咖哩。",
-      "zh_CN": "太辣的料理我不太能吃。<br>我喜歡甜味咖哩。",
+      "zh_CN": "太辣的料理我不太能吃。<br>我喜欢甜味咖哩。",
       "ko": "매운 음식은 별로 못 먹어요.<br>순한 맛 카레를 좋아해요.",
       "zh_HK": "太辣的料理我不太能吃。<br>我喜歡甜味咖哩。",
       "fr": "I can't eat spicy food very much.<br>I like mild curry."
@@ -11995,7 +11995,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "ぜんぜん",
-    "reading": "〜ません",
+    "reading": "ぜんぜん",
     "category": "時間/頻度",
     "meaning": {
       "en": "not at all / never",
@@ -12219,7 +12219,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "お水",
-    "reading": "みず",
+    "reading": "おみず",
     "category": "食べ物",
     "meaning": {
       "en": "water",
@@ -12387,7 +12387,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "お肉",
-    "reading": "にく",
+    "reading": "おにく",
     "category": "食べ物",
     "meaning": {
       "en": "meat",
@@ -12415,7 +12415,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
     "word": "お魚",
-    "reading": "さかな",
+    "reading": "おさかな",
     "category": "食べ物",
     "meaning": {
       "en": "fish",
@@ -18546,7 +18546,7 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "雨が）降る",
+    "word": "（雨が）降る",
     "reading": "ふる",
     "category": "基本動詞(3)",
     "meaning": {
@@ -21570,7 +21570,7 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3) てform",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "雨が）降って",
+    "word": "（雨が）降って",
     "reading": "ふって",
     "category": "基本動詞(3) てform",
     "meaning": {
@@ -25938,7 +25938,7 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞 ないform (3)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "（雨が）降らない（ふらない）",
+    "word": "（雨が）降らない",
     "reading": "ふらない",
     "category": "基本動詞 ないform (3)",
     "meaning": {
