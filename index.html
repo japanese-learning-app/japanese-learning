@@ -822,6 +822,21 @@
           </div>
         </div>
 
+        <!-- Mylist Sort & Count Toolbar -->
+        <div class="flex items-center justify-between px-1 mb-2.5 text-xs">
+          <span id="mylistWordCountText" class="text-slate-500 font-bold text-[11px]">全 0 語</span>
+          <div class="flex items-center space-x-1.5">
+            <label for="selectMylistSort" id="labelMylistSort" class="text-[11px] text-slate-400 font-medium">並び替え:</label>
+            <select id="selectMylistSort" class="text-[11px] py-1 px-2 rounded-xl border border-slate-200 bg-white text-slate-700 font-semibold shadow-2xs focus:outline-none focus:border-deepNavy cursor-pointer">
+              <option value="newest">🕒 追加が新しい順</option>
+              <option value="oldest">⏳ 追加が古い順</option>
+              <option value="gojuon">🔤 五十音順（あ〜ん）</option>
+              <option value="unlearned">🎯 未暗記優先（復習）</option>
+              <option value="random">🎲 ランダム</option>
+            </select>
+          </div>
+        </div>
+
         <!-- Starred & Categorized Cards List -->
         <div id="mylistItemsContainer" class="flex-1 overflow-y-auto space-y-2 pr-1 max-h-[380px]">
           <!-- Populated dynamically -->

@@ -17,6 +17,7 @@
   let isSearchStudyMode = false; // true when studying a specific word clicked from search results
   let isMylistStudyMode = false; // true when studying cards initiated from My List
   let mylistSet = new Set(); // store card IDs in mylist
+  let mylistSortOrder = localStorage.getItem('haku_mylist_sort_order') || 'newest'; // 'newest', 'oldest', 'gojuon', 'unlearned', 'random'
   let knownSet = new Set(); // store cards marked as learned
   let isFuriganaEnabled = localStorage.getItem('haku_furigana_enabled') !== 'false'; // default true
   let isAutoAudioEnabled = localStorage.getItem('haku_auto_audio_enabled') === 'true'; // default false
@@ -482,6 +483,63 @@
       else if (lang === 'ko') btnTestMylistLabel.textContent = '테스트';
       else if (lang === 'fr') btnTestMylistLabel.textContent = 'Test';
       else btnTestMylistLabel.textContent = 'Test';
+    }
+
+    // Mylist Sort Toolbar Translations
+    const labelMylistSort = document.getElementById('labelMylistSort');
+    if (labelMylistSort) {
+      if (lang === 'ja') labelMylistSort.textContent = '並び替え:';
+      else if (lang === 'zh_TW' || lang === 'zh_HK') labelMylistSort.textContent = '排序方式:';
+      else if (lang === 'zh_CN') labelMylistSort.textContent = '排序方式:';
+      else if (lang === 'ko') labelMylistSort.textContent = '정렬:';
+      else if (lang === 'fr') labelMylistSort.textContent = 'Trier par :';
+      else labelMylistSort.textContent = 'Sort by:';
+    }
+    const selectMylistSort = document.getElementById('selectMylistSort');
+    if (selectMylistSort) {
+      const optNewest = selectMylistSort.querySelector('option[value="newest"]');
+      const optOldest = selectMylistSort.querySelector('option[value="oldest"]');
+      const optGojuon = selectMylistSort.querySelector('option[value="gojuon"]');
+      const optUnlearned = selectMylistSort.querySelector('option[value="unlearned"]');
+      const optRandom = selectMylistSort.querySelector('option[value="random"]');
+
+      if (lang === 'ja') {
+        if (optNewest) optNewest.textContent = '🕒 追加が新しい順';
+        if (optOldest) optOldest.textContent = '⏳ 追加が古い順';
+        if (optGojuon) optGojuon.textContent = '🔤 五十音順（あ〜ん）';
+        if (optUnlearned) optUnlearned.textContent = '🎯 未暗記優先（復習）';
+        if (optRandom) optRandom.textContent = '🎲 ランダム';
+      } else if (lang === 'zh_TW' || lang === 'zh_HK') {
+        if (optNewest) optNewest.textContent = '🕒 由新到舊（最新）';
+        if (optOldest) optOldest.textContent = '⏳ 由舊到新（最早）';
+        if (optGojuon) optGojuon.textContent = '🔤 五十音順（あ〜ん）';
+        if (optUnlearned) optUnlearned.textContent = '🎯 尚未掌握優先（複習）';
+        if (optRandom) optRandom.textContent = '🎲 隨機順序';
+      } else if (lang === 'zh_CN') {
+        if (optNewest) optNewest.textContent = '🕒 由新到旧（最新）';
+        if (optOldest) optOldest.textContent = '⏳ 由旧到新（最早）';
+        if (optGojuon) optGojuon.textContent = '🔤 五十音顺序（あ〜ん）';
+        if (optUnlearned) optUnlearned.textContent = '🎯 尚未掌握优先（复习）';
+        if (optRandom) optRandom.textContent = '🎲 随机顺序';
+      } else if (lang === 'ko') {
+        if (optNewest) optNewest.textContent = '🕒 최신 추가순';
+        if (optOldest) optOldest.textContent = '⏳ 오래된 순';
+        if (optGojuon) optGojuon.textContent = '🔤 오십음도순 (あ〜ん)';
+        if (optUnlearned) optUnlearned.textContent = '🎯 미암기 우선 (복습)';
+        if (optRandom) optRandom.textContent = '🎲 무작위 (랜덤)';
+      } else if (lang === 'fr') {
+        if (optNewest) optNewest.textContent = '🕒 Plus récents d\'abord';
+        if (optOldest) optOldest.textContent = '⏳ Plus anciens d\'abord';
+        if (optGojuon) optGojuon.textContent = '🔤 Ordre alphabétique (あ〜ん)';
+        if (optUnlearned) optUnlearned.textContent = '🎯 Non mémorisés d\'abord';
+        if (optRandom) optRandom.textContent = '🎲 Aléatoire';
+      } else {
+        if (optNewest) optNewest.textContent = '🕒 Newest First';
+        if (optOldest) optOldest.textContent = '⏳ Oldest First';
+        if (optGojuon) optGojuon.textContent = '🔤 Japanese A-Z (あ〜ん)';
+        if (optUnlearned) optUnlearned.textContent = '🎯 Needs Review (Unlearned)';
+        if (optRandom) optRandom.textContent = '🎲 Shuffle / Random';
+      }
     }
 
     // 11. Side Drawer Menu
@@ -3607,6 +3665,67 @@
     return cards;
   }
 
+  // Helper to convert Katakana to Hiragana for uniform Gojuon (Japanese alphabetical) sorting
+  function toHiragana(str) {
+    return (str || '').replace(/[\u30a1-\u30f6]/g, m => String.fromCharCode(m.charCodeAt(0) - 0x60));
+  }
+
+  function getGojuonSortKey(card) {
+    if (!card) return '';
+    const raw = card.reading || card.word || '';
+    // Strip leading punctuation like 〜, ・, -, quotes, brackets, spaces
+    const clean = raw.replace(/^[〜\-\s・\(\)（）「」『』\/\\]+/, '');
+    return toHiragana(clean);
+  }
+
+  // Sorts My List cards according to selected sort order
+  function sortMylistCards(cards, order) {
+    if (!cards || cards.length <= 1) return cards ? cards.slice() : [];
+    const list = cards.slice();
+
+    if (order === 'oldest') {
+      // Default Set iteration order (first added = first)
+      return list;
+    }
+    if (order === 'newest') {
+      // Latest added = first
+      return list.reverse();
+    }
+    if (order === 'gojuon') {
+      // Japanese alphabetical (あ〜ん) by reading/word
+      return list.sort((a, b) => {
+        const ra = getGojuonSortKey(a);
+        const rb = getGojuonSortKey(b);
+        return ra.localeCompare(rb, 'ja');
+      });
+    }
+    if (order === 'unlearned') {
+      // Needs review / Unlearned first, then learned (secondary sort: newest first)
+      const reversed = list.reverse();
+      const unlearned = [];
+      const learned = [];
+      reversed.forEach(c => {
+        const isLearned = knownSet.has(c.id) || mylistCardFolderMap[c.id] === 'folder_learned';
+        if (isLearned) {
+          learned.push(c);
+        } else {
+          unlearned.push(c);
+        }
+      });
+      return unlearned.concat(learned);
+    }
+    if (order === 'random') {
+      // Fisher-Yates shuffle
+      const shuffled = list.slice();
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      return shuffled;
+    }
+    return list.reverse();
+  }
+
   // --- Mylist View Rendering with Custom Folders ---
   function renderMylistView() {
     renderMylistFolderTabs();
@@ -3681,6 +3800,24 @@
     if (activeMylistFolderId !== 'all') {
       displayedCards = displayedCards.filter(c => mylistCardFolderMap[c.id] === activeMylistFolderId);
     }
+    displayedCards = sortMylistCards(displayedCards, mylistSortOrder);
+
+    // Update count display
+    const wordCountElem = document.getElementById('mylistWordCountText');
+    if (wordCountElem) {
+      if (currentLang === 'ja') wordCountElem.textContent = `全 ${displayedCards.length} 語`;
+      else if (currentLang === 'zh_TW' || currentLang === 'zh_HK') wordCountElem.textContent = `共 ${displayedCards.length} 詞`;
+      else if (currentLang === 'zh_CN') wordCountElem.textContent = `共 ${displayedCards.length} 词`;
+      else if (currentLang === 'ko') wordCountElem.textContent = `총 ${displayedCards.length}단어`;
+      else if (currentLang === 'fr') wordCountElem.textContent = `Total : ${displayedCards.length} mots`;
+      else wordCountElem.textContent = `${displayedCards.length} words`;
+    }
+
+    // Keep select in sync
+    const selectSortElem = document.getElementById('selectMylistSort');
+    if (selectSortElem && selectSortElem.value !== mylistSortOrder) {
+      selectSortElem.value = mylistSortOrder;
+    }
 
     // 単語名も定義も失われたカード（復元不可）はグレー表示で残す（練習・クイズには入れない）
     const lostIds = [];
@@ -3705,6 +3842,10 @@
       item.className = 'p-3 rounded-2xl border border-slate-200 bg-slate-50 flex items-center justify-between transition hover:shadow-2xs';
       const meaning = getBilingualMeaning(card.meaning, currentLang);
       const currentFolderId = mylistCardFolderMap[card.id] || '';
+      const isLearned = knownSet.has(card.id) || mylistCardFolderMap[card.id] === 'folder_learned';
+      const learnedBadgeHtml = isLearned
+        ? `<span class="px-1.5 py-0.5 rounded-full bg-emerald-100 text-emerald-700 text-[10px] font-bold shrink-0">✓ ${currentLang === 'ja' ? '覚えた' : (currentLang === 'zh_TW' || currentLang === 'zh_HK' ? '已掌握' : (currentLang === 'zh_CN' ? '已掌握' : (currentLang === 'ko' ? '암기' : (currentLang === 'fr' ? 'Mémorisé' : 'Learned'))))}</span>`
+        : '';
 
       // Build folder selector options
       let folderOptionsHtml = `<option value="" ${!currentFolderId ? 'selected' : ''}>Unfiled</option>`;
@@ -3714,9 +3855,10 @@
 
       item.innerHTML = `
         <div class="flex-1 pr-2 cursor-pointer btn-open-card-study">
-          <div class="flex items-center space-x-1.5">
+          <div class="flex items-center space-x-1.5 flex-wrap">
             <span class="font-bold text-slate-900 text-sm hover:text-deepNavy transition">${card.word}</span>
             <span class="card-reading-text text-xs text-slate-400">（${card.reading || ''}）</span>
+            ${learnedBadgeHtml}
           </div>
           <p class="text-xs text-rose-600 font-medium mt-0.5">${meaning}</p>
           <div class="mt-1 flex items-center space-x-1" onclick="event.stopPropagation()">
@@ -5033,12 +5175,24 @@
       });
     }
 
+    // Mylist Sort select handler
+    const selectMylistSortElem = document.getElementById('selectMylistSort');
+    if (selectMylistSortElem) {
+      selectMylistSortElem.value = mylistSortOrder;
+      selectMylistSortElem.addEventListener('change', (e) => {
+        mylistSortOrder = e.target.value;
+        localStorage.setItem('haku_mylist_sort_order', mylistSortOrder);
+        renderMylistItems();
+      });
+    }
+
     // Mylist Study button (Studies active folder, or all if 'all' is selected)
     document.getElementById('btnStudyMylist').addEventListener('click', () => {
       let targetCards = getMylistCards();
       if (activeMylistFolderId !== 'all') {
         targetCards = targetCards.filter(c => mylistCardFolderMap[c.id] === activeMylistFolderId);
       }
+      targetCards = sortMylistCards(targetCards, mylistSortOrder);
       if (targetCards.length === 0) {
         showToast(currentLang === 'ja' ? '学習する単語がありません' : 'No words to study');
         return;
