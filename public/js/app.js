@@ -4321,13 +4321,48 @@
         }
 
         // Find dictionary example if exJa is not explicitly provided
-        let resolvedJa = exJa;
-        let resolvedEn = exJa;
-        let resolvedZhTW = exJa;
-        let resolvedZhCN = exJa;
-        let resolvedKo = exJa;
-        let resolvedZhHK = exJa;
-        let resolvedFr = exJa;
+        let resolvedJa = '';
+        let resolvedEn = '';
+        let resolvedZhTW = '';
+        let resolvedZhCN = '';
+        let resolvedKo = '';
+        let resolvedZhHK = '';
+        let resolvedFr = '';
+
+        if (exJa) {
+          let cleanExJa = exJa.trim();
+          let extractedExTrans = '';
+
+          // 1. Check if exJa contains a trailing foreign translation (e.g. Chinese characters or English after Japanese sentence)
+          const matchExWithTrans = cleanExJa.match(/^([\s\S]*?[。！？](?:\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)])?)\s*([^（\(]+.*)$/);
+          if (matchExWithTrans) {
+            cleanExJa = matchExWithTrans[1].trim();
+            extractedExTrans = matchExWithTrans[2].trim();
+          }
+
+          // 2. Strip trailing parenthesized full sentence reading e.g. "(かれはたんせいなかおかたちをしていて、とてもにんきがあります。)"
+          cleanExJa = cleanExJa.replace(/\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)]\s*$/, '').trim();
+
+          // 3. Convert any inline furigana like "端正（たんせい）" into "<ruby>端正<rt>たんせい</rt></ruby>"
+          cleanExJa = cleanExJa.replace(/([\u4e00-\u9faf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
+
+          resolvedJa = cleanExJa;
+          if (extractedExTrans) {
+            resolvedZhTW = extractedExTrans;
+            resolvedZhCN = extractedExTrans;
+            resolvedZhHK = extractedExTrans;
+            resolvedEn = isEnglish(extractedExTrans) ? extractedExTrans : resolvedJa;
+            resolvedKo = extractedExTrans;
+            resolvedFr = extractedExTrans;
+          } else {
+            resolvedEn = resolvedJa;
+            resolvedZhTW = resolvedJa;
+            resolvedZhCN = resolvedJa;
+            resolvedKo = resolvedJa;
+            resolvedZhHK = resolvedJa;
+            resolvedFr = resolvedJa;
+          }
+        }
 
         if (!resolvedJa) {
           const dictMap = window.DICT_EXAMPLES_MAP || {};
