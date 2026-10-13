@@ -4231,6 +4231,7 @@
         let parsedNative = '';
         let parsedEn = '';
         let exJa = '';
+        let exTrans = '';
         let related = '';
 
         // Helper detection functions
@@ -4251,6 +4252,8 @@
             parsedEn = c;
           } else if (!exJa) {
             exJa = c;
+          } else if (!exTrans) {
+            exTrans = c;
           } else if (!related) {
             related = c;
           }
@@ -4338,6 +4341,8 @@
           if (matchExWithTrans) {
             cleanExJa = matchExWithTrans[1].trim();
             extractedExTrans = matchExWithTrans[2].trim();
+          } else if (exTrans) {
+            extractedExTrans = exTrans.trim();
           }
 
           // 2. Strip trailing parenthesized full sentence reading e.g. "(かれはたんせいなかおかたちをしていて、とてもにんきがあります。)"
