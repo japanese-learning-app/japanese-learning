@@ -61,7 +61,9 @@
   // ensuring the browser's speech synthesizer never misreads words like 二重価格.
   function cleanJapaneseForSpeech(text) {
     if (!text) return '';
-    let s = String(text);
+    let s = String(text).trim();
+    // If the entire text is enclosed in parentheses, unwrap it first so it doesn't get erased
+    s = s.replace(/^[（\(\[【](.*?)[）\)\]】]$/, '$1').trim();
     // 1. Remove <rt> and <rp> ruby tags so the original natural kanji text is retained intact.
     // (Inserting spaces around furigana breaks morphological parsing, causing particles like 'は' to be mispronounced as 'ha' instead of 'wa'!)
     s = s.replace(/<rt[^>]*>[\s\S]*?<\/rt>/gi, '');
@@ -73,8 +75,15 @@
     // 4. Strip speaker labels like A: or B:
     s = s.replace(/^[ABａｂＡＢ][:：]\s*/g, '');
     s = s.replace(/[。、!?！？]\s*[ABａｂＡＢ][:：]\s*/g, '。');
-    // 5. Remove parenthetical readings: （しんごう） or (しんごう)
-    s = s.replace(/[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s]+[）\)]/g, '');
+    // 5. Remove parenthetical readings from longer sentences (e.g. "信号（しんごう）を渡る" -> "信号を渡る")
+    // but ONLY if there is text remaining outside the parentheses!
+    const stripped = s.replace(/[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s]+[）\)]/g, '');
+    if (stripped.trim().length > 0) {
+      s = stripped;
+    } else {
+      // It was purely a reading like (ねこ), strip only the bracket characters!
+      s = s.replace(/[（\(\)）]/g, '');
+    }
     // 6. Clean duplicate punctuation and extra spaces
     s = s.replace(/[。]+/g, '。');
     return s.replace(/\s+/g, ' ').trim();
@@ -109,22 +118,28 @@
       if (onEnd) onEnd();
       return;
     }
-    if (window.speechSynthesis.paused) {
-      window.speechSynthesis.resume();
-    }
+    try {
+      if (window.speechSynthesis.paused) {
+        window.speechSynthesis.resume();
+      }
+    } catch (e) {}
     stopJapaneseSpeech();
 
     let textToSpeak = '';
     if (target && typeof target === 'object') {
-      // If object has reading (hiragana), use reading so TTS never mispronounces kanji!
-      // (Clean reading of any slash alternatives e.g. "スマートフォン/スマホ" -> "スマートフォン")
-      const r = (target.reading || '').split(/[/／・]/)[0].trim();
+      // If object has reading (hiragana), unwrap any brackets and use it
+      let r = (target.reading || '').trim().replace(/^[（\(\[【](.*?)[）\)\]】]$/, '$1');
+      r = r.split(/[/／・]/)[0].trim();
       textToSpeak = r || target.word || '';
     } else {
       textToSpeak = String(target || '');
     }
 
-    const cleanText = cleanJapaneseForSpeech(textToSpeak);
+    let cleanText = cleanJapaneseForSpeech(textToSpeak);
+    // Safety fallback: if reading was somehow stripped to empty, fallback to word directly!
+    if (!cleanText && target && typeof target === 'object' && target.word) {
+      cleanText = cleanJapaneseForSpeech(target.word);
+    }
     if (!cleanText) {
       if (onEnd) onEnd();
       return;
@@ -4284,10 +4299,10 @@
         if (parsedEn) {
           meaningObj.en = parsedEn;
         }
-
-        // If target student or import lang is specific, tailor that slot
-        if (activeLangKey && activeLangKey !== 'en') {
-          meaningObj[activeLangKey] = parsedNative || rawTrans;
+        if (parsedNative) {
+          if (!meaningObj.zh_TW || meaningObj.zh_TW === '意思') meaningObj.zh_TW = parsedNative;
+          if (!meaningObj.zh_CN || meaningObj.zh_CN === '意思') meaningObj.zh_CN = parsedNative;
+          if (!meaningObj.zh_HK || meaningObj.zh_HK === '意思') meaningObj.zh_HK = parsedNative;
         }
 
         // Find dictionary example if exJa is not explicitly provided
