@@ -96,6 +96,441 @@
     'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru'
   ];
 
+    const MIDORI_CURATED_CARDS = [
+  {
+    "id": "card_midori_yoichi",
+    "word": "夜市",
+    "reading": "よいち",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "night market",
+      "ja": "夜市",
+      "zh_TW": "夜市",
+      "zh_CN": "夜市",
+      "ko": "야시장",
+      "zh_HK": "夜市",
+      "fr": "marché de nuit"
+    },
+    "example": {
+      "ja": "<ruby>台湾<rt>たいわん</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったら、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>夜市<rt>よいち</rt></ruby>でおいしいものを<ruby>食<rt>た</rt></ruby>べたいです。",
+      "en": "If I go to Taiwan, I want to eat delicious food at the night market every night.",
+      "zh_TW": "去台灣的話，想每晚都在夜市吃美食。",
+      "zh_CN": "去台湾的话，想每晚都在夜市吃美食。",
+      "ko": "대만에 가면 매일 밤 야시장에서 맛있는 음식을 먹고 싶어요.",
+      "zh_HK": "去台灣嘅話，想每晚都喺夜市食好嘢。",
+      "fr": "Si je vais à Taïwan, je veux manger de la bonne nourriture au marché de nuit tous les soirs."
+    },
+    "related": "よいち（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_jiyuu",
+    "word": "自由",
+    "reading": "じゆう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "freedom / free",
+      "ja": "自由",
+      "zh_TW": "自由",
+      "zh_CN": "自由",
+      "ko": "자유",
+      "zh_HK": "自由",
+      "fr": "liberté / libre"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>にあるので、<ruby>好<rt>す</rt></ruby>きな<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+      "en": "I have free time on the weekend, so I watch my favorite movies.",
+      "zh_TW": "週末時間很自由，所以我會看喜歡的電影。",
+      "zh_CN": "周末时间很自由，所以我看喜欢的电影。",
+      "ko": "주말에는 시간이 자유로워서 좋아하는 영화를 봐요.",
+      "zh_HK": "週末時間好自由，所以我會睇鍾意嘅電影。",
+      "fr": "Le week-end, j'ai du temps libre, donc je regarde mes films préférés."
+    },
+    "related": "じゆう（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_tanoshimu",
+    "word": "楽しむ",
+    "reading": "たのしむ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to enjoy / to have fun",
+      "ja": "楽しむ",
+      "zh_TW": "享受、盡情體驗",
+      "zh_CN": "享受、尽情体验",
+      "ko": "즐기다",
+      "zh_HK": "享受、盡情體驗",
+      "fr": "profiter / s'amuser"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>での<ruby>旅行<rt>りょこう</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいます。",
+      "en": "I am enjoying my trip in Japan from the bottom of my heart.",
+      "zh_TW": "我打從心底享受在日本的旅行。",
+      "zh_CN": "我由衷地享受在日本的旅行。",
+      "ko": "일본 여행을 진심으로 즐기고 있습니다.",
+      "zh_HK": "我由心咁享受喺日本嘅旅行。",
+      "fr": "Je profite pleinement de mon voyage au Japon."
+    },
+    "related": "たのしむ（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_oukasuru",
+    "word": "謳歌する",
+    "reading": "おうかする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to celebrate / to enjoy to the fullest",
+      "ja": "謳歌する",
+      "zh_TW": "謳歌、盡情享受",
+      "zh_CN": "讴歌、尽情享受",
+      "ko": "구가하다 / 마음껏 누리다",
+      "zh_HK": "謳歌、盡情享受",
+      "fr": "célébrer / profiter pleinement"
+    },
+    "example": {
+      "ja": "<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちが<ruby>大学<rt>だいがく</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>謳歌<rt>おうか</rt></ruby>しています。",
+      "en": "Young people are enjoying their university life to the fullest.",
+      "zh_TW": "年輕人們正在盡情享受大學生活。",
+      "zh_CN": "年轻人们正在尽情享受大学生活。",
+      "ko": "젊은이들이 대학 생활을 마음껏 누리고 있습니다.",
+      "zh_HK": "年輕人正喺度盡情享受大學生活。",
+      "fr": "Les jeunes profitent pleinement de leur vie universitaire."
+    },
+    "related": "おうかする（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kougeki",
+    "word": "攻撃",
+    "reading": "こうげき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "attack / offensive",
+      "ja": "攻撃",
+      "zh_TW": "攻擊",
+      "zh_CN": "攻击",
+      "ko": "공격",
+      "zh_HK": "攻擊",
+      "fr": "attaque / offensive"
+    },
+    "example": {
+      "ja": "ネット<ruby>上<rt>じょう</rt></ruby>で<ruby>他人<rt>たにん</rt></ruby>を<ruby>攻撃<rt>こうげき</rt></ruby>するのはやめましょう。",
+      "en": "Let's avoid attacking other people on the internet.",
+      "zh_TW": "請不要在網路上攻擊他人。",
+      "zh_CN": "请不要在网络上攻击他人。",
+      "ko": "인터넷에서 다른 사람을 공격하는 것은 그만둡시다.",
+      "zh_HK": "請唔好喺網上攻擊其他人。",
+      "fr": "Évitons d'attaquer les autres sur Internet."
+    },
+    "related": "こうげき（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_tsuuchi",
+    "word": "通知",
+    "reading": "つうち",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "notification / notice",
+      "ja": "通知",
+      "zh_TW": "通知、推播提醒",
+      "zh_CN": "通知、推送提醒",
+      "ko": "알림 / 통지",
+      "zh_HK": "通知、推播提醒",
+      "fr": "notification / avis"
+    },
+    "example": {
+      "ja": "スマホに<ruby>新<rt>あたら</rt></ruby>しいメッセージの<ruby>通知<rt>つうち</rt></ruby>が<ruby>届<rt>とど</rt></ruby>きました。",
+      "en": "A notification for a new message arrived on my smartphone.",
+      "zh_TW": "手機收到了新訊息的通知。",
+      "zh_CN": "手机收到了新消息的通知。",
+      "ko": "스마트폰에 새 메시지 알림이 도착했습니다.",
+      "zh_HK": "手機收到咗新訊息嘅通知。",
+      "fr": "Une notification pour un nouveau message est arrivée sur mon smartphone."
+    },
+    "related": "つうち（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_shitsurei",
+    "word": "失礼",
+    "reading": "しつれい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "rude / discourteous",
+      "ja": "失礼",
+      "zh_TW": "失禮、不禮貌",
+      "zh_CN": "失礼、不礼貌",
+      "ko": "실례 / 무례함",
+      "zh_HK": "失禮、不禮貌",
+      "fr": "impoli / impolitesse"
+    },
+    "example": {
+      "ja": "ご<ruby>挨拶<rt>あいさつ</rt></ruby>をしないのは、お<ruby>相手<rt>あいて</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>失礼<rt>しつれい</rt></ruby>です。",
+      "en": "Not greeting someone is rude to that person.",
+      "zh_TW": "不打招呼對對方是很失禮的。",
+      "zh_CN": "不打招呼对对方是很失礼的。",
+      "ko": "인사를 하지 않는 것은 상대방에 대해 실례입니다.",
+      "zh_HK": "唔打招呼對對方係好失禮嘅。",
+      "fr": "Ne pas saluer quelqu'un est impoli envers cette personne."
+    },
+    "related": "しつれい（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_shitauchi",
+    "word": "舌打ち",
+    "reading": "したうち",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "clicking one's tongue / tut-tutting",
+      "ja": "舌打ち",
+      "zh_TW": "嘖舌、彈舌",
+      "zh_CN": "咂嘴、弹舌",
+      "ko": "혀를 차다",
+      "zh_HK": "嘖舌、彈舌",
+      "fr": "claquement de langue"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はイライラして、<ruby>思<rt>おも</rt></ruby>わず<ruby>舌打<rt>したう</rt></ruby>ちをしました。",
+      "en": "He was frustrated and clicked his tongue without thinking.",
+      "zh_TW": "他焦躁不安地忍不住嘖了舌。",
+      "zh_CN": "他焦躁不安地忍不住咂了嘴。",
+      "ko": "그는 짜증이 나서 무심코 혀를 찼습니다.",
+      "zh_HK": "佢好焦躁咁忍唔住嘖咗一聲。",
+      "fr": "Énervé, il a claqué de la langue sans s'en rendre compte."
+    },
+    "related": "したうち（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kazoekirenai",
+    "word": "数えきれないほど",
+    "reading": "かぞえきれないほど",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "countless / innumerable",
+      "ja": "数えきれないほど",
+      "zh_TW": "數不清、不計其數",
+      "zh_CN": "数不清、不计其数",
+      "ko": "셀 수 없을 정도로",
+      "zh_HK": "數唔清、不計其數",
+      "fr": "innombrable / sans nombre"
+    },
+    "example": {
+      "ja": "この<ruby>街<rt>まち</rt></ruby>には、<ruby>数<rt>かぞ</rt></ruby>えきれないほどの<ruby>魅力<rt>みりょく</rt></ruby>があります。",
+      "en": "This city has countless charms.",
+      "zh_TW": "這座城市有數不清的魅力。",
+      "zh_CN": "这座城市有数不清的魅力。",
+      "ko": "이 도시에는 셀 수 없을 정도로 많은 매력이 있습니다.",
+      "zh_HK": "呢個城市有數唔清嘅魅力。",
+      "fr": "Cette ville a d'innombrables charmes."
+    },
+    "related": "かぞえきれないほど（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_iyanaomoi",
+    "word": "嫌な思いをする",
+    "reading": "いやなおもいをする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to have an unpleasant experience",
+      "ja": "嫌な思いをする",
+      "zh_TW": "感到不愉快、遭遇不快",
+      "zh_CN": "感到不愉快、遭遇不快",
+      "ko": "불쾌한 일을 겪다",
+      "zh_HK": "感到不愉快、遭遇不快",
+      "fr": "passer un mauvais moment / vivre une mauvaise expérience"
+    },
+    "example": {
+      "ja": "<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>われて、とても<ruby>嫌<rt>いや</rt></ruby>な<ruby>思<rt>おも</rt></ruby>いをしました。",
+      "en": "Being told something rude gave me a very unpleasant experience.",
+      "zh_TW": "被說了失禮的話，心裡感到非常不愉快。",
+      "zh_CN": "被说了失礼的话，心里感到非常不愉快。",
+      "ko": "무례한 말을 들어서 매우 불쾌한 기분이 들었습니다.",
+      "zh_HK": "被講咗失禮嘅說話，心裏面覺得好唔舒服。",
+      "fr": "On m'a dit des choses impolies, ce qui m'a mis très mal à l'aise."
+    },
+    "related": "いやなおもいをする（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_ekiin",
+    "word": "駅員",
+    "reading": "えきいん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "station staff",
+      "ja": "駅員",
+      "zh_TW": "站務員、車站工作人員",
+      "zh_CN": "站务员、车站工作人员",
+      "ko": "역무원",
+      "zh_HK": "站務員、車站工作人員",
+      "fr": "employé de gare"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>が分からなかったので、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>尋<rt>たず</rt></ruby>ねました。",
+      "en": "I didn't know the way, so I asked the station staff.",
+      "zh_TW": "因為不知道路，所以向站務員詢問了。",
+      "zh_CN": "因为不知道路，所以向站务员询问了。",
+      "ko": "길을 몰라서 역무원에게 물어보았습니다.",
+      "zh_HK": "因為唔識路，所以向站務員問路。",
+      "fr": "Comme je ne connaissais pas le chemin, j'ai demandé à l'employé de gare."
+    },
+    "related": "えきいん（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_taidogawarui",
+    "word": "態度が悪い",
+    "reading": "たいどがわるい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "bad attitude / poor manners",
+      "ja": "態度が悪い",
+      "zh_TW": "態度惡劣、態度差",
+      "zh_CN": "态度恶劣、态度差",
+      "ko": "태도가 나쁘다",
+      "zh_HK": "態度惡劣、態度差",
+      "fr": "mauvaise attitude / mauvaise conduite"
+    },
+    "example": {
+      "ja": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、少しがっかりしました。",
+      "en": "The store clerk had a bad attitude, which was a bit disappointing.",
+      "zh_TW": "店員的態度很差，讓人有點失望。",
+      "zh_CN": "店员的态度很差，让人有点失望。",
+      "ko": "점원의 태도가 나빠서 조금 실망했습니다.",
+      "zh_HK": "店員嘅態度好差，令人有啲失望。",
+      "fr": "L'employé avait une mauvaise attitude, ce qui était un peu décevant."
+    },
+    "related": "たいどがわるい（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_eikyou",
+    "word": "影響",
+    "reading": "えいきょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "influence / effect",
+      "ja": "影響",
+      "zh_TW": "影響",
+      "zh_CN": "影响",
+      "ko": "영향",
+      "zh_HK": "影響",
+      "fr": "influence / effet"
+    },
+    "example": {
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>が、<ruby>私<rt>わたし</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えました。",
+      "en": "The teacher's gentle words had a great impact on my future.",
+      "zh_TW": "老師溫柔的話語，對我的未來產生了很大的影響。",
+      "zh_CN": "老师温柔的话语，对我的未来产生了很大的影响。",
+      "ko": "선생님의 다정한 말씀이 제 미래에 큰 영향을 주었습니다.",
+      "zh_HK": "老師溫柔嘅說話對我嘅未來產生咗好大嘅影響。",
+      "fr": "Les paroles douces du professeur ont eu une grande influence sur mon avenir."
+    },
+    "related": "えいきょう（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_tanseina",
+    "word": "端正な",
+    "reading": "たんせいな",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "handsome / well-featured",
+      "ja": "端正な",
+      "zh_TW": "端正的、秀麗的",
+      "zh_CN": "端正的、秀丽的",
+      "ko": "단정한 / 준수한",
+      "zh_HK": "端正的、秀麗的",
+      "fr": "régulier / bien proportionné"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>端正<rt>たんせい</rt></ruby>な<ruby>顔立<rt>かおだ</rt></ruby>ちをしていて、とても<ruby>人気<rt>にんき</rt></ruby>があります。",
+      "en": "He has handsome, neat facial features and is very popular.",
+      "zh_TW": "他長著端正清秀的五官，非常受歡迎。",
+      "zh_CN": "他长着端正清秀的五官，非常受欢迎。",
+      "ko": "그는 이목구비가 반듯해서 인기가 아주 많습니다.",
+      "zh_HK": "佢生得五官端正清秀，非常受歡迎。",
+      "fr": "Il a des traits réguliers et harmonieux, et il est très populaire."
+    },
+    "related": "たんせいな（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kaodachi",
+    "word": "顔立ち",
+    "reading": "かおだち",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "facial features / looks",
+      "ja": "顔立ち",
+      "zh_TW": "五官容貌、長相",
+      "zh_CN": "五官容貌、长相",
+      "ko": "생김새 / 이목구비",
+      "zh_HK": "五官容貌、長相",
+      "fr": "traits du visage / physionomie"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は、お<ruby>母<rt>かあ</rt></ruby>さんにとてもよく<ruby>似<rt>に</rt></ruby>た<ruby>美<rt>うつく</rt></ruby>しい<ruby>顔立<rt>かおだ</rt></ruby>ちをしています。",
+      "en": "She has beautiful facial features that closely resemble her mother's.",
+      "zh_TW": "她有著與母親非常相像的美麗容貌。",
+      "zh_CN": "她有着与母亲非常相像的美丽容貌。",
+      "ko": "그녀는 어머니를 꼭 닮은 아름다운 생김새를 지니고 있습니다.",
+      "zh_HK": "佢生得同媽媽非常似，有一張美麗嘅面孔。",
+      "fr": "Elle a de beaux traits qui ressemblent beaucoup à ceux de sa mère."
+    },
+    "related": "かおだち（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_soudanninoru",
+    "word": "相談に乗る",
+    "reading": "そうだんにのる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to give advice / to consult with",
+      "ja": "相談に乗る",
+      "zh_TW": "傾聽並給予建議、接受諮詢",
+      "zh_CN": "倾听并给予建议、接受咨询",
+      "ko": "상담에 응하다 / 조언을 해주다",
+      "zh_HK": "傾聽並給予建議、接受諮詢",
+      "fr": "donner des conseils / être à l'écoute"
+    },
+    "example": {
+      "ja": "<ruby>困<rt>こま</rt></ruby>ったときは、いつでも<ruby>相談<rt>そうだん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るよ。",
+      "en": "Whenever you are in trouble, I'm always here to listen and help.",
+      "zh_TW": "遇到困難時，我隨時都可以幫你出主意喔。",
+      "zh_CN": "遇到困难时，我随时都可以帮你出主意哦。",
+      "ko": "어려울 때는 언제든지 상담해 줄게.",
+      "zh_HK": "遇到困難嘅時候，我隨時都可以幫你諗計㗎。",
+      "fr": "Si tu as un problème, je suis toujours là pour t'écouter et te conseiller."
+    },
+    "related": "そうだんにのる（授業の重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  }
+];
+
   const MIDORI_NEW_WORDS = new Set([
     '夜市', '自由', '楽しむ', '謳歌する',
     '攻撃', '通知', '失礼', '舌打ち',
@@ -702,7 +1137,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v57_japanese_deinflection_and_online_dict_lookup';
+    const CURRENT_DATA_VERSION = 'v58_midori_16_words_top_newest';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
@@ -849,13 +1284,9 @@
       related: 'ひこうかい（授業の重要表現）'
     });
 
-    // Ensure all 16 of Midori-san's new curated cards from CLASS_VOCAB_DATA are in custom pool
-    if (window.CLASS_VOCAB_DATA && Array.isArray(window.CLASS_VOCAB_DATA)) {
-      window.CLASS_VOCAB_DATA.forEach(c => {
-        if (MIDORI_NEW_CARD_IDS.includes(c.id)) {
-          ensureCustomCard(c);
-        }
-      });
+    // Ensure all 16 of Midori-san's new curated cards are always loaded in custom pool
+    if (typeof MIDORI_CURATED_CARDS !== 'undefined') {
+      MIDORI_CURATED_CARDS.forEach(c => ensureCustomCard(c));
     }
 
     // Auto-purge any corrupted or reversed dialect cards from allCustomCards
@@ -2096,15 +2527,12 @@
           mylistCardFolderMap[mCardId] = CLASS_FOLDER_ID;
           needsSave = true;
         }
+        // Ensure Midori's 16 new words are at the very end of mylistSet (so they are at the top when sorted by newest)
         MIDORI_NEW_CARD_IDS.forEach(id => {
-          if (!mylistSet.has(id)) {
-            mylistSet.add(id);
-            needsSave = true;
-          }
-          if (!mylistCardFolderMap[id]) {
-            mylistCardFolderMap[id] = CLASS_FOLDER_ID;
-            needsSave = true;
-          }
+          mylistSet.delete(id);
+          mylistSet.add(id);
+          mylistCardFolderMap[id] = CLASS_FOLDER_ID;
+          needsSave = true;
         });
       }
 
@@ -3651,6 +4079,10 @@
   // Resolves a card by ID or word across vocabList, CLASS_VOCAB_DATA, INITIAL_VOCAB_DATA, and DICT_DATA
   function getCardById(cardId) {
     if (!cardId) return null;
+    if (typeof MIDORI_CURATED_CARDS !== 'undefined') {
+      const mCurated = MIDORI_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
+      if (mCurated) return mCurated;
+    }
     // 1. Check current in-memory vocabList
     let found = vocabList.find(c => (c.id === cardId || c.word === cardId) && !isStubCard(c));
     if (found) return found;
@@ -3910,38 +4342,19 @@
     return false;
   }
 
-  // Returns all resolved card objects currently in My List (strictly deduplicated by word)
+  // Returns all resolved card objects currently in My List (strictly preserving insertion order)
   function getMylistCards() {
     const cards = [];
     const seenWords = new Set();
-    const resolved = [];
 
     mylistSet.forEach(id => {
       const card = getCardById(id);
       if (card && !isStubCard(card) && !isCorruptedCard(card)) {
-        resolved.push(card);
-      }
-    });
-
-    // Score sort to ensure highest quality card wins if any duplicate words exist
-    resolved.sort((a, b) => {
-      const score = (c) => {
-        if (MIDORI_NEW_CARD_IDS.includes(c.id)) return 1000;
-        if (c.id && c.id.startsWith('class_word_')) {
-          const exLen = (c.example && c.example.ja) ? c.example.ja.length : 0;
-          return 500 + exLen;
+        const w = (card.word || '').trim();
+        if (!seenWords.has(w)) {
+          seenWords.add(w);
+          cards.push(card);
         }
-        if (c.id && c.id.startsWith('seed_')) return 400;
-        return 100;
-      };
-      return score(b) - score(a);
-    });
-
-    resolved.forEach(card => {
-      const w = (card.word || '').trim();
-      if (!seenWords.has(w)) {
-        seenWords.add(w);
-        cards.push(card);
       }
     });
 
