@@ -89,24 +89,34 @@
     return s.replace(/\s+/g, ' ').trim();
   }
 
-  // Automatic validator to detect any corrupted / reversed dialect cards
-  const isCorruptedCard = (c) => {
-    if (!c) return false;
-    const w = c.word || '';
-    const r = c.reading || '';
-    const exJa = (c.example && c.example.ja) ? c.example.ja : '';
-    if (w.includes('面模仔') || r.includes('bīn') || exJa.includes('bīn-bôo-á') || exJa.includes('伊的面模仔')) return true;
-    if (exJa.includes('他長著端正清秀的五官') || exJa.includes('かれはたんせいなかおかたち')) return true;
-    if (/[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(w) || /[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(r)) return true;
-    return false;
-  };
-
   const MIDORI_NEW_CARD_IDS = [
     'card_midori_yoichi', 'card_midori_jiyuu', 'card_midori_tanoshimu', 'card_midori_oukasuru',
     'card_midori_kougeki', 'card_midori_tsuuchi', 'card_midori_shitsurei', 'card_midori_shitauchi',
     'card_midori_kazoekirenai', 'card_midori_iyanaomoi', 'card_midori_ekiin', 'card_midori_taidogawarui',
     'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru'
   ];
+
+  const MIDORI_NEW_WORDS = new Set([
+    '夜市', '自由', '楽しむ', '謳歌する',
+    '攻撃', '通知', '失礼', '舌打ち',
+    '数えきれないほど', '嫌な思いをする', '駅員', '態度が悪い',
+    '影響', '端正な', '顔立ち', '相談に乗る'
+  ]);
+
+  // Automatic validator to detect any corrupted / reversed dialect / duplicate import cards
+  const isCorruptedCard = (c) => {
+    if (!c) return false;
+    const w = (c.word || '').trim();
+    const r = (c.reading || '').trim();
+    const id = c.id || '';
+    const exJa = (c.example && c.example.ja) ? c.example.ja : '';
+    // Any card that matches Midori's 16 words but has a generated custom ID (from repeated manual imports)
+    if (MIDORI_NEW_WORDS.has(w) && id.startsWith('card_') && !MIDORI_NEW_CARD_IDS.includes(id)) return true;
+    if (w.includes('面模仔') || r.includes('bīn') || exJa.includes('bīn-bôo-á') || exJa.includes('伊的面模仔')) return true;
+    if (exJa.includes('他長著端正清秀的五官') || exJa.includes('かれはたんせいなかおかたち')) return true;
+    if (/[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(w) || /[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(r)) return true;
+    return false;
+  };
 
   let isSpeaking = false;
   let speechSequenceTimer = null;
@@ -2130,6 +2140,66 @@
       }
     }
 
+    // Universal self-healing & strict deduplication for any student
+    let needsCleanSave = false;
+
+    // 1. Purge corrupted cards, dialect cards, and duplicate manual imports
+    Array.from(mylistSet).forEach(cId => {
+      const card = getCardById(cId);
+      if (card && isCorruptedCard(card)) {
+        mylistSet.delete(cId);
+        delete mylistCardFolderMap[cId];
+        needsCleanSave = true;
+      }
+    });
+
+    // 2. Strict Deduplication by Japanese Word across My List
+    // If multiple cards share the exact same Japanese word, keep only the highest quality/canonical card
+    const wordCardMap = new Map();
+    Array.from(mylistSet).forEach(cId => {
+      const card = getCardById(cId);
+      if (!card || isStubCard(card)) return;
+      const w = (card.word || '').trim();
+      if (!w) return;
+
+      if (!wordCardMap.has(w)) {
+        wordCardMap.set(w, { id: cId, card });
+      } else {
+        const existing = wordCardMap.get(w);
+        const getScore = (id, c) => {
+          if (MIDORI_NEW_CARD_IDS.includes(id)) return 1000;
+          if (id && id.startsWith('class_word_')) {
+            const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
+            return 500 + exLen;
+          }
+          if (id && id.startsWith('seed_')) return 400;
+          let s = 100;
+          if (c && c.example && c.example.ja && !c.example.ja.includes('(')) s += 50;
+          return s;
+        };
+
+        const newScore = getScore(cId, card);
+        const oldScore = getScore(existing.id, existing.card);
+
+        if (newScore > oldScore) {
+          // Replace with better card
+          mylistSet.delete(existing.id);
+          delete mylistCardFolderMap[existing.id];
+          wordCardMap.set(w, { id: cId, card });
+        } else {
+          // Keep existing card
+          mylistSet.delete(cId);
+          delete mylistCardFolderMap[cId];
+        }
+        needsCleanSave = true;
+      }
+    });
+
+    if (needsCleanSave) {
+      localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+      localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+    }
+
     updateMylistBadge();
   }
 
@@ -2187,11 +2257,12 @@
           }
           const haveIds = new Set(dataToSync.customCards.map(c => c.id));
           cloudCards.forEach(c => {
-            if (c && c.id && !isStubCard(c) && !haveIds.has(c.id)) {
+            if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id)) {
               dataToSync.customCards.push(c);
               haveIds.add(c.id);
             }
           });
+          dataToSync.customCards = dataToSync.customCards.filter(c => !isCorruptedCard(c));
         } catch (e) {}
       }
       await docRef.set(dataToSync, { merge: true });
@@ -2226,7 +2297,7 @@
       mylistSet.forEach(cId => {
         if (!seedIds.has(cId) && !classIds.has(cId) && !cId.startsWith('class_word_')) {
           const resolvedCard = getCardById(cId);
-          if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt) customCardsToSync.push(resolvedCard);
+          if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt && !isCorruptedCard(resolvedCard)) customCardsToSync.push(resolvedCard);
         }
       });
 
@@ -2246,7 +2317,7 @@
         const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
         const haveIds = new Set(customCardsToSync.map(c => c.id));
         cloudCards.forEach(c => {
-          if (c && c.id && !isStubCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
+          if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
             customCardsToSync.push(c);
             haveIds.add(c.id);
           }
@@ -2257,7 +2328,7 @@
         mylist: Array.from(mylistSet),
         folders: mylistFolders,
         cardFolderMap: mylistCardFolderMap,
-        customCards: customCardsToSync,
+        customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
         wordNames: wordNamesToSync,
         updatedAt: firebase.firestore.FieldValue.serverTimestamp()
       }, { merge: true });
@@ -2293,7 +2364,8 @@
           const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
           const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
           data.customCards.forEach(card => {
-            if (card && card.id && !isStubCard(card) && !card.isRebuilt && !classIds.has(card.id) && !seedIds.has(card.id) && !card.id.startsWith('class_word_')) {
+            if (!card || isStubCard(card) || isCorruptedCard(card)) return;
+            if (card && card.id && !card.isRebuilt && !classIds.has(card.id) && !seedIds.has(card.id) && !card.id.startsWith('class_word_')) {
               card.isCustom = true;
               const vIdx = vocabList.findIndex(c => c.id === card.id);
               if (vIdx >= 0 && isStubCard(vocabList[vIdx])) {
@@ -2329,6 +2401,8 @@
         removedSet.forEach(id => { if (mylistSet.has(id)) { mylistSet.delete(id); changed = true; } });
         if (Array.isArray(data.mylist)) {
           data.mylist.filter(id => !removedSet.has(id)).forEach(id => {
+            const c = getCardById(id);
+            if (c && isCorruptedCard(c)) return;
             if (!mylistSet.has(id)) {
               mylistSet.add(id);
               changed = true;
@@ -2351,6 +2425,42 @@
           Object.assign(mylistCardFolderMap, data.cardFolderMap);
           changed = true;
         }
+
+        // 5. Strict Word Deduplication after cloud pull
+        const wordCardMap = new Map();
+        Array.from(mylistSet).forEach(cId => {
+          const card = getCardById(cId);
+          if (!card || isStubCard(card) || isCorruptedCard(card)) {
+            if (card && isCorruptedCard(card)) {
+              mylistSet.delete(cId);
+              delete mylistCardFolderMap[cId];
+              changed = true;
+            }
+            return;
+          }
+          const w = (card.word || '').trim();
+          if (!w) return;
+          if (!wordCardMap.has(w)) {
+            wordCardMap.set(w, { id: cId, card });
+          } else {
+            const existing = wordCardMap.get(w);
+            const getScore = (id, c) => {
+              if (MIDORI_NEW_CARD_IDS.includes(id)) return 1000;
+              if (id && id.startsWith('class_word_')) return 500 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
+              if (id && id.startsWith('seed_')) return 400;
+              return 100;
+            };
+            if (getScore(cId, card) > getScore(existing.id, existing.card)) {
+              mylistSet.delete(existing.id);
+              delete mylistCardFolderMap[existing.id];
+              wordCardMap.set(w, { id: cId, card });
+            } else {
+              mylistSet.delete(cId);
+              delete mylistCardFolderMap[cId];
+            }
+            changed = true;
+          }
+        });
 
         if (changed) {
           // Update local cache
@@ -3800,13 +3910,41 @@
     return false;
   }
 
-  // Returns all resolved card objects currently in My List
+  // Returns all resolved card objects currently in My List (strictly deduplicated by word)
   function getMylistCards() {
     const cards = [];
+    const seenWords = new Set();
+    const resolved = [];
+
     mylistSet.forEach(id => {
       const card = getCardById(id);
-      if (card && !isStubCard(card)) cards.push(card);
+      if (card && !isStubCard(card) && !isCorruptedCard(card)) {
+        resolved.push(card);
+      }
     });
+
+    // Score sort to ensure highest quality card wins if any duplicate words exist
+    resolved.sort((a, b) => {
+      const score = (c) => {
+        if (MIDORI_NEW_CARD_IDS.includes(c.id)) return 1000;
+        if (c.id && c.id.startsWith('class_word_')) {
+          const exLen = (c.example && c.example.ja) ? c.example.ja.length : 0;
+          return 500 + exLen;
+        }
+        if (c.id && c.id.startsWith('seed_')) return 400;
+        return 100;
+      };
+      return score(b) - score(a);
+    });
+
+    resolved.forEach(card => {
+      const w = (card.word || '').trim();
+      if (!seenWords.has(w)) {
+        seenWords.add(w);
+        cards.push(card);
+      }
+    });
+
     return cards;
   }
 
@@ -4449,7 +4587,14 @@
         }
 
         // ★ IDに単語名を埋め込む（データが失われても単語名から必ず復元できるように）
-        const cardId = `card_${Date.now()}_${Math.random().toString(36).substr(2, 6)}__${String(word).replace(/[\/\s]/g, '')}`;
+        // 重複防止：同じ単語のカスタムカードが既に存在する場合は新規IDを発行せず既存カードIDを再利用して更新
+        let cardId;
+        const existingCustom = (Array.isArray(allCustomCards) ? allCustomCards : []).find(c => c && c.word === word && !isStubCard(c) && !isCorruptedCard(c));
+        if (existingCustom && existingCustom.id) {
+          cardId = existingCustom.id;
+        } else {
+          cardId = `card_${Date.now()}_${Math.random().toString(36).substr(2, 6)}__${String(word).replace(/[\/\s]/g, '')}`;
+        }
         const newCard = {
           id: cardId,
           word: word,
