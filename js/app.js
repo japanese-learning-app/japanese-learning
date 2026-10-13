@@ -4203,7 +4203,17 @@
         let reading = '';
         let cols = parts.slice(1);
 
-        const match = rawWord.match(/^(.*?)[（\(](.*?)[）\)]/);
+        // Safeguard 1: Reverse order detection!
+        // If col 0 has Roman letters/Hangul or non-Japanese, but col 1 has Japanese characters, swap them!
+        const hasKanaOrKanji = (s) => /[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/.test(s);
+        const hasRomanOrForeign = (s) => /[a-zA-Z\uac00-\ud7a3āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(s);
+        if (cols.length >= 1 && hasRomanOrForeign(word) && !/[\u3040-\u309f]/.test(word) && hasKanaOrKanji(cols[0])) {
+          const temp = cols[0];
+          cols[0] = word;
+          word = temp;
+        }
+
+        const match = word.match(/^(.*?)[（\(](.*?)[）\)]/);
         if (match) {
           word = match[1].trim();
           reading = match[2].trim();
@@ -4211,6 +4221,11 @@
           // Format where col 1 is Word and col 2 is Reading: e.g. 食べる \t たべる \t 吃 \t to eat
           reading = cols[0].trim();
           cols = cols.slice(1);
+        }
+
+        // Safeguard 2: Ensure reading is strictly Japanese kana (no Roman diacritics/alphabets)
+        if (reading && hasRomanOrForeign(reading)) {
+          reading = '';
         }
 
         let parsedNative = '';
