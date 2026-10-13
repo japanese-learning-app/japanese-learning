@@ -77,13 +77,16 @@
     s = s.replace(/[。、!?！？]\s*[ABａｂＡＢ][:：]\s*/g, '。');
     // 5. Remove parenthetical readings from longer sentences (e.g. "信号（しんごう）を渡る" -> "信号を渡る")
     // but ONLY if there is text remaining outside the parentheses!
-    const stripped = s.replace(/[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s]+[）\)]/g, '');
+    const stripped = s.replace(/[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)]/g, '');
     if (stripped.trim().length > 0) {
       s = stripped;
     } else {
       // It was purely a reading like (ねこ), strip only the bracket characters!
       s = s.replace(/[（\(\)）]/g, '');
     }
+    // 5b. Strip any foreign translations appended after Japanese punctuation (e.g. English, Hangul, French, or Chinese text)
+    s = s.replace(/([。！？])\s*[a-zA-Z\u00C0-\u024F\uAC00-\uD7A3]+[\s\S]*$/, '$1');
+    s = s.replace(/([。！？])\s*[\u4e00-\u9fff]{3,}[\s\S]*$/, '$1');
     // 6. Clean duplicate punctuation and extra spaces
     s = s.replace(/[。]+/g, '。');
     return s.replace(/\s+/g, ' ').trim();
