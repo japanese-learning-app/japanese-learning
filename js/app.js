@@ -89,6 +89,25 @@
     return s.replace(/\s+/g, ' ').trim();
   }
 
+  // Automatic validator to detect any corrupted / reversed dialect cards
+  const isCorruptedCard = (c) => {
+    if (!c) return false;
+    const w = c.word || '';
+    const r = c.reading || '';
+    const exJa = (c.example && c.example.ja) ? c.example.ja : '';
+    if (w.includes('面模仔') || r.includes('bīn') || exJa.includes('bīn-bôo-á') || exJa.includes('伊的面模仔')) return true;
+    if (exJa.includes('他長著端正清秀的五官') || exJa.includes('かれはたんせいなかおかたち')) return true;
+    if (/[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(w) || /[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(r)) return true;
+    return false;
+  };
+
+  const MIDORI_NEW_CARD_IDS = [
+    'card_midori_yoichi', 'card_midori_jiyuu', 'card_midori_tanoshimu', 'card_midori_oukasuru',
+    'card_midori_kougeki', 'card_midori_tsuuchi', 'card_midori_shitsurei', 'card_midori_shitauchi',
+    'card_midori_kazoekirenai', 'card_midori_iyanaomoi', 'card_midori_ekiin', 'card_midori_taidogawarui',
+    'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru'
+  ];
+
   let isSpeaking = false;
   let speechSequenceTimer = null;
 
@@ -820,6 +839,18 @@
       related: 'ひこうかい（授業の重要表現）'
     });
 
+    // Ensure all 16 of Midori-san's new curated cards from CLASS_VOCAB_DATA are in custom pool
+    if (window.CLASS_VOCAB_DATA && Array.isArray(window.CLASS_VOCAB_DATA)) {
+      window.CLASS_VOCAB_DATA.forEach(c => {
+        if (MIDORI_NEW_CARD_IDS.includes(c.id)) {
+          ensureCustomCard(c);
+        }
+      });
+    }
+
+    // Auto-purge any corrupted or reversed dialect cards from allCustomCards
+    allCustomCards = allCustomCards.filter(c => !isCorruptedCard(c));
+
     localStorage.setItem('haku_all_custom_cards', JSON.stringify(allCustomCards));
     vocabList = [...seedCards, ...allCustomCards];
     localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
@@ -909,6 +940,10 @@
             const mId = 'card_1791393927923_pd4xbi';
             filteredSet.push(mId);
             stMap[mId] = CLASS_FOLDER_ID;
+            MIDORI_NEW_CARD_IDS.forEach(id => {
+              filteredSet.push(id);
+              stMap[id] = CLASS_FOLDER_ID;
+            });
           }
         } else if (stId === '0023' && window.CLASS_ARUN_IDS) {
           // Special exact list for Arun (526 unique words)
@@ -2051,7 +2086,28 @@
           mylistCardFolderMap[mCardId] = CLASS_FOLDER_ID;
           needsSave = true;
         }
+        MIDORI_NEW_CARD_IDS.forEach(id => {
+          if (!mylistSet.has(id)) {
+            mylistSet.add(id);
+            needsSave = true;
+          }
+          if (!mylistCardFolderMap[id]) {
+            mylistCardFolderMap[id] = CLASS_FOLDER_ID;
+            needsSave = true;
+          }
+        });
       }
+
+      // Universal self-healing: automatically purge any corrupted/dialect card from this student's mylist
+      Array.from(mylistSet).forEach(cId => {
+        const card = getCardById(cId);
+        if (card && isCorruptedCard(card)) {
+          mylistSet.delete(cId);
+          delete mylistCardFolderMap[cId];
+          needsSave = true;
+        }
+      });
+
       if (needsSave) {
         localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
         localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
