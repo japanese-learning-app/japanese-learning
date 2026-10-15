@@ -735,6 +735,16 @@
                   Shuffle All
                 </button>
               </div>
+              <!-- Quiz Question Count Selector (10問 / 20問 / 30問 / 全問) -->
+              <div class="pt-1 flex items-center justify-between">
+                <span id="quizCountLabel" class="text-[10px] font-bold text-slate-500">問題数 (Questions):</span>
+                <div class="flex items-center space-x-1" id="quizCountBtnGroup">
+                  <button class="quiz-count-btn active px-2 py-0.5 rounded-lg text-[10px] font-bold bg-deepNavy text-white transition shadow-2xs" data-count="10">10問</button>
+                  <button class="quiz-count-btn px-2 py-0.5 rounded-lg text-[10px] font-bold bg-slate-100 hover:bg-slate-200 text-slate-600 transition" data-count="20">20問</button>
+                  <button class="quiz-count-btn px-2 py-0.5 rounded-lg text-[10px] font-bold bg-slate-100 hover:bg-slate-200 text-slate-600 transition" data-count="30">30問</button>
+                  <button class="quiz-count-btn px-2 py-0.5 rounded-lg text-[10px] font-bold bg-slate-100 hover:bg-slate-200 text-slate-600 transition" data-count="all">全問</button>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -1548,7 +1558,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261015_2030"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261015_2038"></script>
+  <script src="js/app.js?v=20261015_2045"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();

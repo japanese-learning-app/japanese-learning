@@ -6539,6 +6539,34 @@
   }
 
   // --- Quiz Mode Logic ---
+  let quizQuestionLimit = 10; // 10, 20, 30, or 99999 ('all')
+
+  function getEffectiveQuizLimit() {
+    if (quizQuestionLimit === 'all' || quizQuestionLimit >= 9999) {
+      return quizPool.length;
+    }
+    return Math.min(quizPool.length, quizQuestionLimit);
+  }
+
+  // --- Allowed Quiz Vocabulary Pool (生徒マイリスト + 全員共有単語のみ) ---
+  function getAllowedQuizCards() {
+    const currentId = currentStudent ? currentStudent.id : 'guest';
+    const isTeacher = !!(currentStudent && (currentStudent.id === 'haku' || currentStudent.id === 'admin'));
+
+    return vocabList.filter(c => {
+      if (!c || isStubCard(c) || isCorruptedCard(c)) return false;
+      // 1. マイリストに入っている単語は生徒本人の学習対象なので最優先で含める！
+      if (mylistSet && mylistSet.has(c.id)) return true;
+      // 2. 先生ログイン中は全単語対象
+      if (isTeacher) return true;
+      // 3. 全員共有単語（seedカード、または studentId が未設定 / 'all' の単語）
+      if (!c.studentId || c.studentId === 'all') return true;
+      // 4. 自分自身の生徒ID宛ての単語
+      if (currentId !== 'guest' && c.studentId === currentId) return true;
+      // 5. それ以外の生徒専用カード（他の生徒専用カード）は絶対に除外！
+      return false;
+    });
+  }
   let quizScope = 'current'; // 'current', 'folder', 'mylist', 'all'
   let quizScopeDetails = { type: 'current', id: null, title: '現在の単元' };
 
@@ -6553,7 +6581,7 @@
     let sourcePool = [];
 
     if (quizScope === 'all') {
-      sourcePool = [...vocabList];
+      sourcePool = getAllowedQuizCards();
     } else if (quizScope === 'mylist') {
       let starredCards = getMylistCards();
       if (activeMylistFolderId && activeMylistFolderId !== 'all') {
@@ -6565,7 +6593,7 @@
       sourcePool = vocabList.filter(c => c.folder_id === folderId);
     } else {
       // 'current' unit or whatever activeDeck is
-      sourcePool = (activeDeck && activeDeck.length >= 2) ? [...activeDeck] : [...vocabList];
+      sourcePool = (activeDeck && activeDeck.length >= 2) ? [...activeDeck] : getAllowedQuizCards();
     }
 
     // Update UI badge
@@ -6621,13 +6649,14 @@
   }
 
   function renderQuizQuestion() {
-    if (quizIndex >= quizPool.length || quizIndex >= 10) {
+    const effectiveLimit = getEffectiveQuizLimit();
+    if (quizIndex >= effectiveLimit) {
       showQuizFinished();
       return;
     }
 
     quizCurrentQuestion = quizPool[quizIndex];
-    document.getElementById('quizScoreBadge').textContent = `Question ${quizIndex + 1} / ${Math.min(quizPool.length, 10)}`;
+    document.getElementById('quizScoreBadge').textContent = `Question ${quizIndex + 1} / ${effectiveLimit}`;
     
     // Meaning in current language (必ず母国語 & 英語)
     const meaning = getBilingualMeaning(quizCurrentQuestion.meaning, currentLang);
@@ -6635,8 +6664,9 @@
     document.getElementById('quizQuestionHint').textContent = quizCurrentQuestion.category || 'General';
 
     // Distractor candidates pool
-    const distractorCandidates = (quizScope === 'all' ? vocabList : activeDeck)
-      .filter(c => c.id !== quizCurrentQuestion.id)
+    const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
+    const distractorCandidates = candidatePool
+      .filter(c => c && c.id !== quizCurrentQuestion.id && (c.reading || c.word))
       .sort(() => Math.random() - 0.5)
       .slice(0, 3);
     
@@ -6870,7 +6900,7 @@
       <div class="text-center py-6">
         <div class="text-4xl mb-2">🏆</div>
         <h4 class="text-xl font-bold text-slate-900">Quiz Completed!</h4>
-        <p class="text-sm text-slate-600 mt-1">Score: <span class="text-rose-600 font-extrabold text-lg">${quizScore}</span> / ${Math.min(quizPool.length, 10)} Correct</p>
+        <p class="text-sm text-slate-600 mt-1">Score: <span class="text-rose-600 font-extrabold text-lg">${quizScore}</span> / ${getEffectiveQuizLimit()} Correct</p>
         <button id="btnRestartQuiz" class="mt-5 px-6 py-2.5 rounded-2xl bg-rose-600 text-white font-bold text-xs shadow-md">Try Again</button>
       </div>
     `;
@@ -8700,6 +8730,19 @@
         showToast('Quiz set to: Shuffle All Units');
       });
     }
+
+    // Quiz Question Count Buttons (10問 / 20問 / 30問 / 全問)
+    document.querySelectorAll('.quiz-count-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const countVal = e.currentTarget.getAttribute('data-count');
+        quizQuestionLimit = (countVal === 'all') ? 99999 : (Number(countVal) || 10);
+        document.querySelectorAll('.quiz-count-btn').forEach(b => {
+          b.className = 'quiz-count-btn px-2 py-0.5 rounded-lg text-[10px] font-bold bg-slate-100 hover:bg-slate-200 text-slate-600 transition';
+        });
+        e.currentTarget.className = 'quiz-count-btn active px-2 py-0.5 rounded-lg text-[10px] font-bold bg-deepNavy text-white transition shadow-2xs';
+        startQuiz();
+      });
+    });
 
     // Direct Test button on active study header
     const btnTestCur = document.getElementById('btnTestCurrent');
