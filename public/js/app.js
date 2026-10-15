@@ -6750,41 +6750,45 @@
     if (!sentenceHtml || !word) return sentenceHtml || '';
     const cleanWord = word.replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
     const blankHtml = '<span class="quiz-blank-slot">［ ？ ］</span>';
+    let result = sentenceHtml;
 
     // 1. If the whole word is wrapped in a single ruby tag: <ruby>cleanWord<rt>...</rt></ruby>
-    // e.g. <ruby>確認<rt>かくにん</rt></ruby> or <ruby>展覧会<rt>てんらんかい</rt></ruby>
+    // e.g. <ruby>水泳<rt>すいえい</rt></ruby> or <ruby>確認<rt>かくにん</rt></ruby>
     const exactRubyRegex = new RegExp('<ruby>\\s*' + escapeRegex(cleanWord) + '\\s*<rt>[^<]*<\\/rt><\\/ruby>', 'g');
     if (exactRubyRegex.test(sentenceHtml)) {
-      return sentenceHtml.replace(exactRubyRegex, blankHtml);
-    }
-
-    // 2. Flexible per-character ruby:
-    // e.g. <ruby>作<rt>つく</rt></ruby>らない, <ruby>買<rt>か</rt></ruby>ってきた
-    const patternParts = [];
-    for (const ch of cleanWord) {
-      if (ch >= '\u4e00' && ch <= '\u9fff') {
-        patternParts.push('(?:<ruby>\\s*' + ch + '\\s*<rt>[^<]*<\\/rt><\\/ruby>|' + ch + ')');
+      result = sentenceHtml.replace(exactRubyRegex, blankHtml);
+    } else {
+      // 2. Flexible per-character ruby:
+      // e.g. <ruby>作<rt>つく</rt></ruby>らない, <ruby>買<rt>か</rt></ruby>ってきた
+      const patternParts = [];
+      for (const ch of cleanWord) {
+        if (ch >= '\u4e00' && ch <= '\u9fff') {
+          patternParts.push('(?:<ruby>\\s*' + ch + '\\s*<rt>[^<]*<\\/rt><\\/ruby>|' + ch + ')');
+        } else {
+          patternParts.push(escapeRegex(ch));
+        }
+      }
+      const flexibleRegex = new RegExp(patternParts.join(''), 'g');
+      if (flexibleRegex.test(sentenceHtml)) {
+        result = sentenceHtml.replace(flexibleRegex, blankHtml);
       } else {
-        patternParts.push(escapeRegex(ch));
+        // 3. Fallback: ruby where cleanWord is contained inside the kanji portion
+        const anyRubyRegex = new RegExp('<ruby>\\s*[^<]*?' + escapeRegex(cleanWord) + '[^<]*?<rt>[^<]*<\\/rt><\\/ruby>', 'g');
+        if (anyRubyRegex.test(sentenceHtml)) {
+          result = sentenceHtml.replace(anyRubyRegex, blankHtml);
+        } else if (sentenceHtml.includes(cleanWord)) {
+          // 4. Exact plain text replacement (for words without kanji/ruby, e.g. よっつ, セール)
+          result = sentenceHtml.replace(cleanWord, blankHtml);
+        }
       }
     }
-    const flexibleRegex = new RegExp(patternParts.join(''), 'g');
-    if (flexibleRegex.test(sentenceHtml)) {
-      return sentenceHtml.replace(flexibleRegex, blankHtml);
-    }
 
-    // 3. Fallback: ruby where cleanWord is contained inside the kanji portion
-    const anyRubyRegex = new RegExp('<ruby>\\s*[^<]*?' + escapeRegex(cleanWord) + '[^<]*?<rt>[^<]*<\\/rt><\\/ruby>', 'g');
-    if (anyRubyRegex.test(sentenceHtml)) {
-      return sentenceHtml.replace(anyRubyRegex, blankHtml);
-    }
+    // 5. Absolute Safety Net: If any <ruby> or <rt> wraps or follows the blank slot, PURGE IT!
+    result = result.replace(/<ruby>\s*(<span class="quiz-blank-slot">［ ？ ］<\/span>)\s*<rt>[^<]*<\/rt><\/ruby>/g, '$1');
+    result = result.replace(/(<span class="quiz-blank-slot">［ ？ ］<\/span>)\s*<rt>[^<]*<\/rt>/g, '$1');
+    result = result.replace(/<ruby>\s*([^<]*?<span class="quiz-blank-slot">［ ？ ］<\/span>[^<]*?)\s*<rt>[^<]*<\/rt><\/ruby>/g, '$1');
 
-    // 4. Exact plain text replacement (for words without kanji/ruby, e.g. よっつ, セール)
-    if (sentenceHtml.includes(cleanWord)) {
-      return sentenceHtml.replace(cleanWord, blankHtml);
-    }
-
-    return sentenceHtml;
+    return result;
   }
 
   function updateMultilingualButtonUI() {
