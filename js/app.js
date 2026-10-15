@@ -3328,6 +3328,11 @@
     '影響', '端正な', '顔立ち', '相談に乗る'
   ]);
 
+  // Validator to determine if an ID belongs to a custom card (not seed card or class word)
+  function isCustomCardId(id) {
+    return typeof id === 'string' && !id.startsWith('class_word_') && !/^card_\d{4}$/.test(id);
+  }
+
   // Automatic validator to detect any corrupted / reversed dialect / duplicate import cards
   const isCorruptedCard = (c) => {
     if (!c) return false;
@@ -3927,18 +3932,24 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v59_daniel_103_words_latest';
+    const CURRENT_DATA_VERSION = 'v60_fix_seed_card_duplication';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
     const seedCardMap = new Map();
     seedCards.forEach(c => seedCardMap.set(c.id, c));
 
-    // Load and preserve ALL custom cards across all students
+    // Load and preserve ALL custom cards across all students (strictly excluding seed/curriculum cards)
     let allCustomCards = [];
     try {
       const fromAll = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
-      if (Array.isArray(fromAll)) allCustomCards.push(...fromAll);
+      if (Array.isArray(fromAll)) {
+        fromAll.forEach(c => {
+          if (c && c.id && !seedCardMap.has(c.id) && c.section_num === undefined && isCustomCardId(c.id)) {
+            allCustomCards.push(c);
+          }
+        });
+      }
     } catch(e) {}
 
     const savedVocab = localStorage.getItem('haku_vocab_data');
@@ -3946,7 +3957,7 @@
       try {
         const oldList = JSON.parse(savedVocab);
         oldList.forEach(c => {
-          if (c && c.id && (c.isCustom || c.id.startsWith('card_')) && !seedCardMap.has(c.id) && !c.id.startsWith('class_word_')) {
+          if (c && c.id && !seedCardMap.has(c.id) && c.section_num === undefined && isCustomCardId(c.id)) {
             if (!allCustomCards.find(existing => existing.id === c.id)) {
               allCustomCards.push(c);
             }
@@ -4011,7 +4022,7 @@
         en: 'A: Obeying the law as a social rule is very important.<br/>B: Yes, we should always act in accordance with the law.',
         zh_TW: 'A: 遵守法律作為社會規則是非常重要的。<br/>B: 是的，無論在任何情況下都應當依據法律行事。',
         zh_CN: 'A: 遵守法律作为社会规则是非常重要的。<br/>B: 是的，无论在任何情况下都应当依据法律行事。',
-        ko: 'A: 사회 규칙으로서 법률을 지키는 것은 매우 중요합니다.<br/>B: 네, 어떤 경우라도 법률에 근거해 행동해야 하죠.',
+        ko: 'A: 사회 규칙으로서 법률을 지키는 것은 매우重要합니다.<br/>B: 네, 어떤 경우라도 법률에 근거해 행동해야 하죠.',
         zh_HK: 'A: 遵守法律作為社會規則係非常重要嘅。<br/>B: 係呀，無論任何情況下都應該根據法律行事。',
         fr: 'A: Il est essentiel de respecter la loi comme règle sociale.<br/>B: Oui, nous devons toujours agir conformément à la loi.'
       },
@@ -4039,7 +4050,7 @@
         en: "A: The movie I've been looking forward to will be released next week!<br/>B: Yes, I plan to go see it on opening day.",
         zh_TW: 'A: 期待已久的電影下週就要上映了呢！<br/>B: 是的，我打算在上映首日就去看。',
         zh_CN: 'A: 期待已久的电影下周就要上映了呢！<br/>B: 是的，我打算在上映首日就去看。',
-        ko: 'A: 기대하던 영화가 다음 주에 개봉하네요!<br/>B: 네, 개봉 첫날に 보러 갈 생각이에요.',
+        ko: 'A: 기대하던 영화가 다음 주에 개봉하네요!<br/>B: 네, 개봉 첫날에 보러 갈 생각이에요.',
         zh_HK: 'A: 好期待嗰部戲下個禮拜就上映喇！<br/>B: 係呀，我打算上映第一日就去睇。',
         fr: 'A: Le film que j\'attendais sort la semaine prochaine !<br/>B: Oui, je compte aller le voir dès le premier jour.'
       },
@@ -4082,11 +4093,34 @@
       DANIEL_CURATED_CARDS.forEach(c => ensureCustomCard(c));
     }
 
-    // Auto-purge any corrupted or reversed dialect cards from allCustomCards
-    allCustomCards = allCustomCards.filter(c => !isCorruptedCard(c));
+    // Auto-purge any corrupted cards or seed duplicates from custom pool
+    const seenCustomIds = new Set();
+    allCustomCards = allCustomCards.filter(c => {
+      if (!c || !c.id || isStubCard(c) || isCorruptedCard(c)) return false;
+      if (seedCardMap.has(c.id) || c.section_num !== undefined || !isCustomCardId(c.id)) return false;
+      if (seenCustomIds.has(c.id)) return false;
+      seenCustomIds.add(c.id);
+      return true;
+    });
 
     localStorage.setItem('haku_all_custom_cards', JSON.stringify(allCustomCards));
-    vocabList = [...seedCards, ...allCustomCards];
+
+    // Construct vocabList strictly: seed cards first, then custom cards (guaranteed 0 duplicates)
+    const seenVocabIds = new Set();
+    const finalVocabList = [];
+    seedCards.forEach(c => {
+      if (c && c.id && !seenVocabIds.has(c.id)) {
+        seenVocabIds.add(c.id);
+        finalVocabList.push(c);
+      }
+    });
+    allCustomCards.forEach(c => {
+      if (c && c.id && !seenVocabIds.has(c.id) && c.section_num === undefined) {
+        seenVocabIds.add(c.id);
+        finalVocabList.push(c);
+      }
+    });
+    vocabList = finalVocabList;
     localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
 
     if (savedVersion !== CURRENT_DATA_VERSION) {
@@ -4198,8 +4232,6 @@
       });
 
       localStorage.setItem('haku_vocab_version', CURRENT_DATA_VERSION);
-    } else {
-      vocabList = [...seedCards, ...allCustomCards];
     }
 
     const savedStudents = localStorage.getItem('haku_students');
@@ -5737,8 +5769,16 @@
       // 1. この端末に保存されている正しい定義
       let storedCustom = [];
       try { storedCustom = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]'); } catch (e) {}
-      storedCustom.forEach(addToPool);
-      vocabList.forEach(c => { if (c && c.id && c.id.startsWith('card_')) addToPool(c); });
+      storedCustom.forEach(c => {
+        if (c && c.id && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c)) {
+          addToPool(c);
+        }
+      });
+      vocabList.forEach(c => {
+        if (c && c.id && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c)) {
+          addToPool(c);
+        }
+      });
 
       // 2. 全生徒のクラウドデータ
       const docsById = {};
@@ -5750,18 +5790,33 @@
           if (snap.exists) {
             const d = snap.data();
             docsById[st.id] = d;
-            (d.customCards || []).forEach(addToPool);
+            (d.customCards || []).forEach(c => {
+              if (c && c.id && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c)) {
+                addToPool(c);
+              }
+            });
             if (d.wordNames) mergeWordNames(d.wordNames);
           }
         } catch (e) {}
       }
 
-      // 3. この端末のダミーを削除し、正しい定義で上書き
-      const cleaned = storedCustom.filter(c => !isStubCard(c));
-      pool.forEach(c => { if (!cleaned.find(x => x.id === c.id)) cleaned.push(c); });
+      // 3. この端末のダミーを削除し、正しい定義で上書き（教材カードは絶対に混入させない）
+      const cleaned = storedCustom.filter(c => !isStubCard(c) && isCustomCardId(c.id) && c.section_num === undefined);
+      pool.forEach(c => {
+        if (c && c.id && isCustomCardId(c.id) && c.section_num === undefined && !cleaned.find(x => x.id === c.id)) {
+          cleaned.push(c);
+        }
+      });
       localStorage.setItem('haku_all_custom_cards', JSON.stringify(cleaned));
+
       vocabList = vocabList.filter(c => !isStubCard(c));
-      pool.forEach(c => { if (!vocabList.find(x => x.id === c.id)) vocabList.push({ ...c, isCustom: true }); });
+      const existingVocabIds = new Set(vocabList.map(c => c.id));
+      pool.forEach(c => {
+        if (c && c.id && isCustomCardId(c.id) && c.section_num === undefined && !existingVocabIds.has(c.id)) {
+          vocabList.push({ ...c, isCustom: true });
+          existingVocabIds.add(c.id);
+        }
+      });
       localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
 
       recordWordNames(Array.from(pool.values()));
@@ -7957,9 +8012,9 @@
             let studentCustomCards = [];
             try {
               const storedCustom = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
-              studentCustomCards = [...vocabList, ...storedCustom].filter(c => mylistCardIds.has(c.id) && c.id.startsWith('card_') && !isStubCard(c) && !c.isRebuilt);
+              studentCustomCards = [...vocabList, ...storedCustom].filter(c => mylistCardIds.has(c.id) && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c) && !c.isRebuilt);
             } catch (e) {
-              studentCustomCards = vocabList.filter(c => mylistCardIds.has(c.id) && c.id.startsWith('card_') && !isStubCard(c) && !c.isRebuilt);
+              studentCustomCards = vocabList.filter(c => mylistCardIds.has(c.id) && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c) && !c.isRebuilt);
             }
             syncStudentToCloudDirect(stId, {
               mylist: Array.from(setObj),
