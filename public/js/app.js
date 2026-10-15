@@ -2371,12 +2371,12 @@
   function setStudent(student) {
     currentStudent = student;
     const isTeacher = !!(student && (student.id === 'haku' || student.id === 'admin'));
-    const navAdmin = document.getElementById('navAdmin');
-    if (navAdmin) {
+    const drawerBtnOpenAdmin = document.getElementById('drawerBtnOpenAdmin');
+    if (drawerBtnOpenAdmin) {
       if (isTeacher) {
-        navAdmin.classList.remove('hidden');
+        drawerBtnOpenAdmin.classList.remove('hidden');
       } else {
-        navAdmin.classList.add('hidden');
+        drawerBtnOpenAdmin.classList.add('hidden');
       }
     }
 
@@ -2420,7 +2420,10 @@
       if (drawerBtnLogin) drawerBtnLogin.textContent = 'Log In';
       if (drawerBtnLogout) drawerBtnLogout.classList.add('hidden');
       if (btnLoginLogout) btnLoginLogout.classList.add('hidden');
-      if (navAdmin) navAdmin.classList.add('hidden');
+      if (drawerBtnOpenAdmin) drawerBtnOpenAdmin.classList.add('hidden');
+      if (currentView === 'admin') {
+        switchView('flashcards');
+      }
       if (fbAuth && fbAuth.currentUser) {
         fbAuth.signOut().catch(() => {});
       }
@@ -5207,46 +5210,13 @@
     if (navJlptEl) {
       navJlptEl.addEventListener('click', () => switchView('jlpt'));
     }
-    // Discreet Teacher Admin Modal Trigger (先生でログイン中のみ利用可能)
-    const navAdminBtn = document.getElementById('navAdmin');
-    if (navAdminBtn) {
-      navAdminBtn.addEventListener('click', () => {
-        if (currentStudent && (currentStudent.id === 'haku' || currentStudent.id === 'admin')) {
-          switchView('admin');
-          showToast('ハク先生・管理画面を開きました ✨');
-          return;
-        }
-        document.getElementById('adminAuthModal').classList.remove('hidden');
-        document.getElementById('adminPassInput').value = '';
-      });
-    }
-
-    const btnAdminAuthCancel = document.getElementById('btnAdminAuthCancel');
-    if (btnAdminAuthCancel) {
-      btnAdminAuthCancel.addEventListener('click', () => {
-        document.getElementById('adminAuthModal').classList.add('hidden');
-      });
-    }
-
-    const btnAdminAuthSubmit = document.getElementById('btnAdminAuthSubmit');
-    if (btnAdminAuthSubmit) {
-      btnAdminAuthSubmit.addEventListener('click', () => {
-        const pin = document.getElementById('adminPassInput').value.trim();
-        // ONLY allow official passcode 'ppooii0099' (0000 and 1234 completely eliminated)
-        if (pin === 'ppooii0099') {
-          let teacherUser = students.find(s => s.id === 'haku');
-          if (!teacherUser) {
-            teacherUser = { id: 'haku', name: 'ハク先生', lang: 'ja', passcode: 'ppooii0099' };
-            students.unshift(teacherUser);
-            localStorage.setItem('haku_students', JSON.stringify(students));
-          }
-          setStudent(teacherUser);
-          document.getElementById('adminAuthModal').classList.add('hidden');
-          switchView('admin');
-          showToast('ハク先生・管理者モードを開きました ✨');
-        } else {
-          showToast('パスワードが違います');
-        }
+    // Discreet Teacher Admin Drawer Trigger (先生でログイン中のみドロワー内に表示)
+    const drawerBtnOpenAdmin = document.getElementById('drawerBtnOpenAdmin');
+    if (drawerBtnOpenAdmin) {
+      drawerBtnOpenAdmin.addEventListener('click', () => {
+        if (typeof closeMenuDrawer === 'function') closeMenuDrawer();
+        switchView('admin');
+        showToast('ハク先生専用・管理画面を開きました ✨');
       });
     }
 

@@ -441,11 +441,6 @@
       <button id="userBtn" class="w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition active:scale-95" title="Student Login">
         <i data-lucide="user" class="w-4 h-4"></i>
       </button>
-
-      <!-- Discreet Teacher Lock (先生でログイン中のみ表示・生徒には非表示) -->
-      <button id="navAdmin" class="w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-amber-400 text-deepNavy flex items-center justify-center transition active:scale-95 shadow-xs hidden" title="Teacher Admin">
-        <i data-lucide="lock" class="w-3.5 h-3.5"></i>
-      </button>
     </div>
   </header>
 
@@ -1196,6 +1191,12 @@
                 </button>
               </div>
             </div>
+
+            <!-- ハク先生でログイン中のみ表示される専用管理画面ボタン -->
+            <button id="drawerBtnOpenAdmin" class="w-full py-2 px-3 rounded-xl bg-deepNavy text-white text-xs font-bold flex items-center justify-center space-x-2 transition hover:opacity-90 shadow-2xs hidden">
+              <i data-lucide="settings" class="w-3.5 h-3.5"></i>
+              <span>管理画面を開く</span>
+            </button>
           </div>
         </div>
 
@@ -1244,21 +1245,6 @@
     </div>
   </div>
 
-  <!-- Teacher Passcode Modal (生徒に見せないための保護) -->
-  <div id="adminAuthModal" class="fixed inset-0 z-50 bg-black/40 backdrop-blur-xs flex items-center justify-center p-4 hidden">
-    <div class="bg-white rounded-3xl p-5 max-w-xs w-full shadow-2xl border border-softBorder text-center">
-      <div class="w-9 h-9 bg-lightBlueBg text-deepNavy rounded-full mx-auto flex items-center justify-center text-sm font-bold mb-2">
-        <i data-lucide="lock" class="w-4 h-4"></i>
-      </div>
-      <h3 class="font-bold text-darkNavyText text-sm mb-1">ハク先生確認</h3>
-      <p class="text-[11px] text-slate-400 mb-3">管理画面を開くにはパスワードを入力してください</p>
-      <input type="password" id="adminPassInput" placeholder="パスワードを入力" maxlength="30" class="w-full text-sm p-2 rounded-xl border border-softBorder text-center font-mono mb-3">
-      <div class="flex space-x-2">
-        <button id="btnAdminAuthCancel" class="flex-1 py-1.5 rounded-full text-slate-400 text-xs font-semibold">キャンセル</button>
-        <button id="btnAdminAuthSubmit" class="flex-1 py-1.5 rounded-full bg-deepNavy text-white text-xs font-bold">確認</button>
-      </div>
-    </div>
-  </div>
 
   <!-- Add New Student Modal (ハク先生が簡単に生徒を追加できるモーダル) -->
   <div id="addStudentModal" class="fixed inset-0 z-50 bg-black/40 backdrop-blur-xs flex items-center justify-center p-4 hidden">
@@ -1551,7 +1537,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261014_0135"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261014_0135"></script>
+  <script src="js/app.js?v=20261015_1855"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
