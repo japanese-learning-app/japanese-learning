@@ -49745,4 +49745,2580 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "そうだんにのる（授業の重要表現）"
   }
+,
+{
+    "id": "card_daniel_001",
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "exhibition",
+      "ja": "展覧会",
+      "zh_TW": "exhibition",
+      "zh_CN": "exhibition",
+      "ko": "exhibition",
+      "zh_HK": "exhibition",
+      "fr": "exhibition"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "I went to an exhibition at the art museum on the weekend.",
+      "zh_TW": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "zh_CN": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "ko": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "zh_HK": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "fr": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    "related": "てんらんかい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_002",
+    "word": "営業マン",
+    "reading": "えいぎょうマン",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "salesman; sales representative",
+      "ja": "営業マン",
+      "zh_TW": "salesman; sales representative",
+      "zh_CN": "salesman; sales representative",
+      "ko": "salesman; sales representative",
+      "zh_HK": "salesman; sales representative",
+      "fr": "salesman; sales representative"
+    },
+    "example": {
+      "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
+      "en": "My older brother is a car salesman.",
+      "zh_TW": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
+      "zh_CN": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
+      "ko": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
+      "zh_HK": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
+      "fr": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。"
+    },
+    "related": "えいぎょうマン（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_003",
+    "word": "営業時間",
+    "reading": "えいぎょうじかん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "business hours; opening hours",
+      "ja": "営業時間",
+      "zh_TW": "business hours; opening hours",
+      "zh_CN": "business hours; opening hours",
+      "ko": "business hours; opening hours",
+      "zh_HK": "business hours; opening hours",
+      "fr": "business hours; opening hours"
+    },
+    "example": {
+      "ja": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "en": "Until what time is this shop open?",
+      "zh_TW": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "zh_CN": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "ko": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "zh_HK": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "fr": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。"
+    },
+    "related": "えいぎょうじかん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_004",
+    "word": "営業時間外",
+    "reading": "えいぎょうじかんがい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "outside business hours",
+      "ja": "営業時間外",
+      "zh_TW": "outside business hours",
+      "zh_CN": "outside business hours",
+      "ko": "outside business hours",
+      "zh_HK": "outside business hours",
+      "fr": "outside business hours"
+    },
+    "example": {
+      "ja": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
+      "en": "The phone won't connect because it's outside business hours.",
+      "zh_TW": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
+      "zh_CN": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
+      "ko": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
+      "zh_HK": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
+      "fr": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。"
+    },
+    "related": "えいぎょうじかんがい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_005",
+    "word": "創業",
+    "reading": "そうぎょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "founding (of a business)",
+      "ja": "創業",
+      "zh_TW": "founding (of a business)",
+      "zh_CN": "founding (of a business)",
+      "ko": "founding (of a business)",
+      "zh_HK": "founding (of a business)",
+      "fr": "founding (of a business)"
+    },
+    "example": {
+      "ja": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
+      "en": "This shop has been in business for 100 years.",
+      "zh_TW": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
+      "zh_CN": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
+      "ko": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
+      "zh_HK": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
+      "fr": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。"
+    },
+    "related": "そうぎょう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_006",
+    "word": "経営する",
+    "reading": "けいえいする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to run; to manage (a business)",
+      "ja": "経営する",
+      "zh_TW": "to run; to manage (a business)",
+      "zh_CN": "to run; to manage (a business)",
+      "ko": "to run; to manage (a business)",
+      "zh_HK": "to run; to manage (a business)",
+      "fr": "to run; to manage (a business)"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
+      "en": "My father runs a restaurant.",
+      "zh_TW": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
+      "zh_CN": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
+      "ko": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
+      "zh_HK": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
+      "fr": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。"
+    },
+    "related": "けいえいする（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_007",
+    "word": "家族経営",
+    "reading": "かぞくけいえい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "family-run (business)",
+      "ja": "家族経営",
+      "zh_TW": "family-run (business)",
+      "zh_CN": "family-run (business)",
+      "ko": "family-run (business)",
+      "zh_HK": "family-run (business)",
+      "fr": "family-run (business)"
+    },
+    "example": {
+      "ja": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
+      "en": "This is a small family-run inn.",
+      "zh_TW": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
+      "zh_CN": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
+      "ko": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
+      "zh_HK": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
+      "fr": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。"
+    },
+    "related": "かぞくけいえい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_008",
+    "word": "大家族",
+    "reading": "だいかぞく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "large family",
+      "ja": "大家族",
+      "zh_TW": "large family",
+      "zh_CN": "large family",
+      "ko": "large family",
+      "zh_HK": "large family",
+      "fr": "large family"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "en": "I grew up in a large family.",
+      "zh_TW": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "zh_CN": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "ko": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "zh_HK": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "fr": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。"
+    },
+    "related": "だいかぞく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_009",
+    "word": "亡くなる",
+    "reading": "なくなる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to pass away",
+      "ja": "亡くなる",
+      "zh_TW": "to pass away",
+      "zh_CN": "to pass away",
+      "ko": "to pass away",
+      "zh_HK": "to pass away",
+      "fr": "to pass away"
+    },
+    "example": {
+      "ja": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
+      "en": "My grandfather passed away last year.",
+      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
+      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
+      "ko": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
+      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
+      "fr": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。"
+    },
+    "related": "なくなる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_010",
+    "word": "肉体労働",
+    "reading": "にくたいろうどう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "physical labor; manual labor",
+      "ja": "肉体労働",
+      "zh_TW": "physical labor; manual labor",
+      "zh_CN": "physical labor; manual labor",
+      "ko": "physical labor; manual labor",
+      "zh_HK": "physical labor; manual labor",
+      "fr": "physical labor; manual labor"
+    },
+    "example": {
+      "ja": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "en": "Manual labor is hard.",
+      "zh_TW": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "zh_CN": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "ko": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "zh_HK": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "fr": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。"
+    },
+    "related": "にくたいろうどう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_011",
+    "word": "人手不足",
+    "reading": "ひとでぶそく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "labor shortage; short-staffed",
+      "ja": "人手不足",
+      "zh_TW": "labor shortage; short-staffed",
+      "zh_CN": "labor shortage; short-staffed",
+      "ko": "labor shortage; short-staffed",
+      "zh_HK": "labor shortage; short-staffed",
+      "fr": "labor shortage; short-staffed"
+    },
+    "example": {
+      "ja": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
+      "en": "Every company is short-staffed.",
+      "zh_TW": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
+      "zh_CN": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
+      "ko": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
+      "zh_HK": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
+      "fr": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。"
+    },
+    "related": "ひとでぶそく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_012",
+    "word": "足りない",
+    "reading": "たりない",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "not enough; insufficient",
+      "ja": "足りない",
+      "zh_TW": "not enough; insufficient",
+      "zh_CN": "not enough; insufficient",
+      "ko": "not enough; insufficient",
+      "zh_HK": "not enough; insufficient",
+      "fr": "not enough; insufficient"
+    },
+    "example": {
+      "ja": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
+      "en": "I'm a little short of money.",
+      "zh_TW": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
+      "zh_CN": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
+      "ko": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
+      "zh_HK": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
+      "fr": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。"
+    },
+    "related": "たりない（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_013",
+    "word": "不足する",
+    "reading": "ふそくする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to be lacking; to run short",
+      "ja": "不足する",
+      "zh_TW": "to be lacking; to run short",
+      "zh_CN": "to be lacking; to run short",
+      "ko": "to be lacking; to run short",
+      "zh_HK": "to be lacking; to run short",
+      "fr": "to be lacking; to run short"
+    },
+    "example": {
+      "ja": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
+      "en": "Lately I haven't been getting enough sleep.",
+      "zh_TW": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
+      "zh_CN": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
+      "ko": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
+      "zh_HK": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
+      "fr": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。"
+    },
+    "related": "ふそくする（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_014",
+    "word": "農場",
+    "reading": "のうじょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "farm",
+      "ja": "農場",
+      "zh_TW": "farm",
+      "zh_CN": "farm",
+      "ko": "farm",
+      "zh_HK": "farm",
+      "fr": "farm"
+    },
+    "example": {
+      "ja": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "en": "I work on a farm in Hokkaido.",
+      "zh_TW": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "zh_CN": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "ko": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "zh_HK": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "fr": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。"
+    },
+    "related": "のうじょう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_015",
+    "word": "進出する",
+    "reading": "しんしゅつする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to expand into; to enter (a market)",
+      "ja": "進出する",
+      "zh_TW": "to expand into; to enter (a market)",
+      "zh_CN": "to expand into; to enter (a market)",
+      "ko": "to expand into; to enter (a market)",
+      "zh_HK": "to expand into; to enter (a market)",
+      "fr": "to expand into; to enter (a market)"
+    },
+    "example": {
+      "ja": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
+      "en": "The company expanded overseas.",
+      "zh_TW": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
+      "zh_CN": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
+      "ko": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
+      "zh_HK": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
+      "fr": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。"
+    },
+    "related": "しんしゅつする（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_016",
+    "word": "〜箇所",
+    "reading": "〜かしょ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "counter for places/spots",
+      "ja": "〜箇所",
+      "zh_TW": "counter for places/spots",
+      "zh_CN": "counter for places/spots",
+      "ko": "counter for places/spots",
+      "zh_HK": "counter for places/spots",
+      "fr": "counter for places/spots"
+    },
+    "example": {
+      "ja": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
+      "en": "There are mistakes in three places.",
+      "zh_TW": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
+      "zh_CN": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
+      "ko": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
+      "zh_HK": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
+      "fr": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。"
+    },
+    "related": "〜かしょ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_017",
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "rice paddy",
+      "ja": "田んぼ",
+      "zh_TW": "rice paddy",
+      "zh_CN": "rice paddy",
+      "ko": "rice paddy",
+      "zh_HK": "rice paddy",
+      "fr": "rice paddy"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
+      "en": "There's nothing but rice paddies around my house.",
+      "zh_TW": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
+      "zh_CN": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
+      "ko": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
+      "zh_HK": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
+      "fr": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。"
+    },
+    "related": "たんぼ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_018",
+    "word": "滝",
+    "reading": "たき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "waterfall",
+      "ja": "滝",
+      "zh_TW": "waterfall",
+      "zh_CN": "waterfall",
+      "ko": "waterfall",
+      "zh_HK": "waterfall",
+      "fr": "waterfall"
+    },
+    "example": {
+      "ja": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "en": "This waterfall is very famous.",
+      "zh_TW": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "zh_CN": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "ko": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "zh_HK": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "fr": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。"
+    },
+    "related": "たき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_019",
+    "word": "無事",
+    "reading": "ぶじ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "safe; safely; without incident",
+      "ja": "無事",
+      "zh_TW": "safe; safely; without incident",
+      "zh_CN": "safe; safely; without incident",
+      "ko": "safe; safely; without incident",
+      "zh_HK": "safe; safely; without incident",
+      "fr": "safe; safely; without incident"
+    },
+    "example": {
+      "ja": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "en": "I got home safely.",
+      "zh_TW": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "zh_CN": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "ko": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "zh_HK": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "fr": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。"
+    },
+    "related": "ぶじ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_020",
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "subway",
+      "ja": "地下鉄",
+      "zh_TW": "subway",
+      "zh_CN": "subway",
+      "ko": "subway",
+      "zh_HK": "subway",
+      "fr": "subway"
+    },
+    "example": {
+      "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I go to work by subway.",
+      "zh_TW": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_CN": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "ko": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_HK": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "fr": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    "related": "ちかてつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_021",
+    "word": "宗教",
+    "reading": "しゅうきょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "religion",
+      "ja": "宗教",
+      "zh_TW": "religion",
+      "zh_CN": "religion",
+      "ko": "religion",
+      "zh_HK": "religion",
+      "fr": "religion"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
+      "en": "There are various religions in Japan.",
+      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
+      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
+      "ko": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
+      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
+      "fr": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。"
+    },
+    "related": "しゅうきょう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_022",
+    "word": "存在",
+    "reading": "そんざい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "existence; presence",
+      "ja": "存在",
+      "zh_TW": "existence; presence",
+      "zh_CN": "existence; presence",
+      "ko": "existence; presence",
+      "zh_HK": "existence; presence",
+      "fr": "existence; presence"
+    },
+    "example": {
+      "ja": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
+      "en": "Do you believe in the existence of ghosts?",
+      "zh_TW": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
+      "zh_CN": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
+      "ko": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
+      "zh_HK": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
+      "fr": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。"
+    },
+    "related": "そんざい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_023",
+    "word": "仏教",
+    "reading": "ぶっきょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "Buddhism",
+      "ja": "仏教",
+      "zh_TW": "Buddhism",
+      "zh_CN": "Buddhism",
+      "ko": "Buddhism",
+      "zh_HK": "Buddhism",
+      "fr": "Buddhism"
+    },
+    "example": {
+      "ja": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
+      "en": "Buddhism originated in India.",
+      "zh_TW": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
+      "zh_CN": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
+      "ko": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
+      "zh_HK": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
+      "fr": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。"
+    },
+    "related": "ぶっきょう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_024",
+    "word": "お正月",
+    "reading": "おしょうがつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "New Year (holidays)",
+      "ja": "お正月",
+      "zh_TW": "New Year (holidays)",
+      "zh_CN": "New Year (holidays)",
+      "ko": "New Year (holidays)",
+      "zh_HK": "New Year (holidays)",
+      "fr": "New Year (holidays)"
+    },
+    "example": {
+      "ja": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "en": "I spend New Year's with my family.",
+      "zh_TW": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "zh_CN": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "ko": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "zh_HK": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
+      "fr": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。"
+    },
+    "related": "おしょうがつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_025",
+    "word": "安くなる",
+    "reading": "やすくなる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to become cheaper",
+      "ja": "安くなる",
+      "zh_TW": "to become cheaper",
+      "zh_CN": "to become cheaper",
+      "ko": "to become cheaper",
+      "zh_HK": "to become cheaper",
+      "fr": "to become cheaper"
+    },
+    "example": {
+      "ja": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
+      "en": "Bento boxes get cheaper at night.",
+      "zh_TW": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
+      "zh_CN": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
+      "ko": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
+      "zh_HK": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
+      "fr": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。"
+    },
+    "related": "やすくなる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_026",
+    "word": "セール",
+    "reading": "セール",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "sale",
+      "ja": "セール",
+      "zh_TW": "sale",
+      "zh_CN": "sale",
+      "ko": "sale",
+      "zh_HK": "sale",
+      "fr": "sale"
+    },
+    "example": {
+      "ja": "デパートでセールをしています。",
+      "en": "There's a sale at the department store.",
+      "zh_TW": "デパートでセールをしています。",
+      "zh_CN": "デパートでセールをしています。",
+      "ko": "デパートでセールをしています。",
+      "zh_HK": "デパートでセールをしています。",
+      "fr": "デパートでセールをしています。"
+    },
+    "related": "セール（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_027",
+    "word": "お葬式",
+    "reading": "おそうしき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "funeral",
+      "ja": "お葬式",
+      "zh_TW": "funeral",
+      "zh_CN": "funeral",
+      "ko": "funeral",
+      "zh_HK": "funeral",
+      "fr": "funeral"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
+      "en": "My grandmother's funeral is tomorrow.",
+      "zh_TW": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
+      "zh_CN": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
+      "ko": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
+      "zh_HK": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
+      "fr": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。"
+    },
+    "related": "おそうしき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_028",
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "(international) trade",
+      "ja": "貿易",
+      "zh_TW": "(international) trade",
+      "zh_CN": "(international) trade",
+      "ko": "(international) trade",
+      "zh_HK": "(international) trade",
+      "fr": "(international) trade"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
+      "en": "Japan trades with many countries.",
+      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
+      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
+      "ko": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
+      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
+      "fr": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。"
+    },
+    "related": "ぼうえき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_029",
+    "word": "政府",
+    "reading": "せいふ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "government",
+      "ja": "政府",
+      "zh_TW": "government",
+      "zh_CN": "government",
+      "ko": "government",
+      "zh_HK": "government",
+      "fr": "government"
+    },
+    "example": {
+      "ja": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "en": "The government announced a new policy.",
+      "zh_TW": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "zh_CN": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "ko": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "zh_HK": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "fr": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+    },
+    "related": "せいふ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_030",
+    "word": "最優先",
+    "reading": "さいゆうせん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "top priority",
+      "ja": "最優先",
+      "zh_TW": "top priority",
+      "zh_CN": "top priority",
+      "ko": "top priority",
+      "zh_HK": "top priority",
+      "fr": "top priority"
+    },
+    "example": {
+      "ja": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
+      "en": "Safety is the top priority.",
+      "zh_TW": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
+      "zh_CN": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
+      "ko": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
+      "zh_HK": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
+      "fr": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。"
+    },
+    "related": "さいゆうせん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_031",
+    "word": "転生",
+    "reading": "てんせい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "reincarnation",
+      "ja": "転生",
+      "zh_TW": "reincarnation",
+      "zh_CN": "reincarnation",
+      "ko": "reincarnation",
+      "zh_HK": "reincarnation",
+      "fr": "reincarnation"
+    },
+    "example": {
+      "ja": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
+      "en": "Anime about being reincarnated in another world is popular.",
+      "zh_TW": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
+      "zh_CN": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
+      "ko": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
+      "zh_HK": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
+      "fr": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。"
+    },
+    "related": "てんせい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_032",
+    "word": "生まれ変わる",
+    "reading": "うまれかわる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to be reborn",
+      "ja": "生まれ変わる",
+      "zh_TW": "to be reborn",
+      "zh_CN": "to be reborn",
+      "ko": "to be reborn",
+      "zh_HK": "to be reborn",
+      "fr": "to be reborn"
+    },
+    "example": {
+      "ja": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
+      "en": "If I'm reborn, I want to be a bird.",
+      "zh_TW": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
+      "zh_CN": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
+      "ko": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
+      "zh_HK": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
+      "fr": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。"
+    },
+    "related": "うまれかわる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_033",
+    "word": "救う",
+    "reading": "すくう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to save; to rescue",
+      "ja": "救う",
+      "zh_TW": "to save; to rescue",
+      "zh_CN": "to save; to rescue",
+      "ko": "to save; to rescue",
+      "zh_HK": "to save; to rescue",
+      "fr": "to save; to rescue"
+    },
+    "example": {
+      "ja": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
+      "en": "Doctors save many lives.",
+      "zh_TW": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
+      "zh_CN": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
+      "ko": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
+      "zh_HK": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
+      "fr": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。"
+    },
+    "related": "すくう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_034",
+    "word": "脱出",
+    "reading": "だっしゅつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "escape",
+      "ja": "脱出",
+      "zh_TW": "escape",
+      "zh_CN": "escape",
+      "ko": "escape",
+      "zh_HK": "escape",
+      "fr": "escape"
+    },
+    "example": {
+      "ja": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
+      "en": "They escaped from the burning building.",
+      "zh_TW": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
+      "zh_CN": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
+      "ko": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
+      "zh_HK": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
+      "fr": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。"
+    },
+    "related": "だっしゅつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_035",
+    "word": "逃げる",
+    "reading": "にげる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to run away; to flee",
+      "ja": "逃げる",
+      "zh_TW": "to run away; to flee",
+      "zh_CN": "to run away; to flee",
+      "ko": "to run away; to flee",
+      "zh_HK": "to run away; to flee",
+      "fr": "to run away; to flee"
+    },
+    "example": {
+      "ja": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
+      "en": "The cat ran away.",
+      "zh_TW": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
+      "zh_CN": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
+      "ko": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
+      "zh_HK": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
+      "fr": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。"
+    },
+    "related": "にげる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_036",
+    "word": "荷物",
+    "reading": "にもつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "luggage; baggage; package",
+      "ja": "荷物",
+      "zh_TW": "luggage; baggage; package",
+      "zh_CN": "luggage; baggage; package",
+      "ko": "luggage; baggage; package",
+      "zh_HK": "luggage; baggage; package",
+      "fr": "luggage; baggage; package"
+    },
+    "example": {
+      "ja": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "en": "My luggage is heavy.",
+      "zh_TW": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "zh_CN": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "ko": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "zh_HK": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "fr": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。"
+    },
+    "related": "にもつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_037",
+    "word": "多機能",
+    "reading": "たきのう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "multifunctional",
+      "ja": "多機能",
+      "zh_TW": "multifunctional",
+      "zh_CN": "multifunctional",
+      "ko": "multifunctional",
+      "zh_HK": "multifunctional",
+      "fr": "multifunctional"
+    },
+    "example": {
+      "ja": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
+      "en": "This watch is very multifunctional.",
+      "zh_TW": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
+      "zh_CN": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
+      "ko": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
+      "zh_HK": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
+      "fr": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。"
+    },
+    "related": "たきのう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_038",
+    "word": "限定版",
+    "reading": "げんていばん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "limited edition",
+      "ja": "限定版",
+      "zh_TW": "limited edition",
+      "zh_CN": "limited edition",
+      "ko": "limited edition",
+      "zh_HK": "limited edition",
+      "fr": "limited edition"
+    },
+    "example": {
+      "ja": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I bought the limited edition of the game.",
+      "zh_TW": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
+      "zh_CN": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
+      "ko": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
+      "zh_HK": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
+      "fr": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。"
+    },
+    "related": "げんていばん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_039",
+    "word": "現地人",
+    "reading": "げんちじん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "local (person)",
+      "ja": "現地人",
+      "zh_TW": "local (person)",
+      "zh_CN": "local (person)",
+      "ko": "local (person)",
+      "zh_HK": "local (person)",
+      "fr": "local (person)"
+    },
+    "example": {
+      "ja": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "I went to a shop that only locals know about.",
+      "zh_TW": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "zh_CN": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "ko": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "zh_HK": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "fr": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    "related": "げんちじん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_040",
+    "word": "車輪",
+    "reading": "しゃりん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "wheel",
+      "ja": "車輪",
+      "zh_TW": "wheel",
+      "zh_CN": "wheel",
+      "ko": "wheel",
+      "zh_HK": "wheel",
+      "fr": "wheel"
+    },
+    "example": {
+      "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
+      "en": "The bicycle wheel broke.",
+      "zh_TW": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
+      "zh_CN": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
+      "ko": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
+      "zh_HK": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
+      "fr": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。"
+    },
+    "related": "しゃりん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_041",
+    "word": "口に合わない",
+    "reading": "くちにあわない",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "not to one's taste",
+      "ja": "口に合わない",
+      "zh_TW": "not to one's taste",
+      "zh_CN": "not to one's taste",
+      "ko": "not to one's taste",
+      "zh_HK": "not to one's taste",
+      "fr": "not to one's taste"
+    },
+    "example": {
+      "ja": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "en": "This dish isn't to my taste.",
+      "zh_TW": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "zh_CN": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "ko": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "zh_HK": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "fr": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。"
+    },
+    "related": "くちにあわない（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_042",
+    "word": "保守的",
+    "reading": "ほしゅてき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "conservative",
+      "ja": "保守的",
+      "zh_TW": "conservative",
+      "zh_CN": "conservative",
+      "ko": "conservative",
+      "zh_HK": "conservative",
+      "fr": "conservative"
+    },
+    "example": {
+      "ja": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
+      "en": "My grandfather has a conservative way of thinking.",
+      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
+      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
+      "ko": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
+      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
+      "fr": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。"
+    },
+    "related": "ほしゅてき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_043",
+    "word": "制限する",
+    "reading": "せいげんする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to restrict; to limit",
+      "ja": "制限する",
+      "zh_TW": "to restrict; to limit",
+      "zh_CN": "to restrict; to limit",
+      "ko": "to restrict; to limit",
+      "zh_HK": "to restrict; to limit",
+      "fr": "to restrict; to limit"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
+      "en": "I limit my child's gaming time.",
+      "zh_TW": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
+      "zh_CN": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
+      "ko": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
+      "zh_HK": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
+      "fr": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。"
+    },
+    "related": "せいげんする（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_044",
+    "word": "あひる",
+    "reading": "あひる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "duck (domestic)",
+      "ja": "あひる",
+      "zh_TW": "duck (domestic)",
+      "zh_CN": "duck (domestic)",
+      "ko": "duck (domestic)",
+      "zh_HK": "duck (domestic)",
+      "fr": "duck (domestic)"
+    },
+    "example": {
+      "ja": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
+      "en": "There are ducks in the pond.",
+      "zh_TW": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
+      "zh_CN": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
+      "ko": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
+      "zh_HK": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
+      "fr": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。"
+    },
+    "related": "あひる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_045",
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "traffic jam",
+      "ja": "渋滞",
+      "zh_TW": "traffic jam",
+      "zh_CN": "traffic jam",
+      "ko": "traffic jam",
+      "zh_HK": "traffic jam",
+      "fr": "traffic jam"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
+      "en": "The road is jammed with traffic.",
+      "zh_TW": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
+      "zh_CN": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
+      "ko": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
+      "zh_HK": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
+      "fr": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。"
+    },
+    "related": "じゅうたい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_046",
+    "word": "お年寄り",
+    "reading": "おとしより",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "elderly person",
+      "ja": "お年寄り",
+      "zh_TW": "elderly person",
+      "zh_CN": "elderly person",
+      "ko": "elderly person",
+      "zh_HK": "elderly person",
+      "fr": "elderly person"
+    },
+    "example": {
+      "ja": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "en": "I gave my seat to an elderly person on the bus.",
+      "zh_TW": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "zh_CN": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "ko": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "zh_HK": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "fr": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。"
+    },
+    "related": "おとしより（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_047",
+    "word": "優しい人",
+    "reading": "やさしいひと",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "kind person",
+      "ja": "優しい人",
+      "zh_TW": "kind person",
+      "zh_CN": "kind person",
+      "ko": "kind person",
+      "zh_HK": "kind person",
+      "fr": "kind person"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
+      "en": "He is a very kind person.",
+      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
+      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
+      "ko": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
+      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
+      "fr": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    "related": "やさしいひと（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_048",
+    "word": "豆乳",
+    "reading": "とうにゅう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "soy milk",
+      "ja": "豆乳",
+      "zh_TW": "soy milk",
+      "zh_CN": "soy milk",
+      "ko": "soy milk",
+      "zh_HK": "soy milk",
+      "fr": "soy milk"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "en": "I drink soy milk every morning.",
+      "zh_TW": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "zh_CN": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "ko": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "zh_HK": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "fr": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    "related": "とうにゅう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_049",
+    "word": "寒い",
+    "reading": "さむい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "cold (weather, air)",
+      "ja": "寒い",
+      "zh_TW": "cold (weather, air)",
+      "zh_CN": "cold (weather, air)",
+      "ko": "cold (weather, air)",
+      "zh_HK": "cold (weather, air)",
+      "fr": "cold (weather, air)"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "en": "It's very cold today.",
+      "zh_TW": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "zh_CN": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "ko": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "zh_HK": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
+      "fr": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。"
+    },
+    "related": "さむい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_050",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "cold (to the touch); cold-hearted",
+      "ja": "冷たい",
+      "zh_TW": "cold (to the touch); cold-hearted",
+      "zh_CN": "cold (to the touch); cold-hearted",
+      "ko": "cold (to the touch); cold-hearted",
+      "zh_HK": "cold (to the touch); cold-hearted",
+      "fr": "cold (to the touch); cold-hearted"
+    },
+    "example": {
+      "ja": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
+      "en": "I want to drink cold water.",
+      "zh_TW": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
+      "zh_CN": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
+      "ko": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
+      "zh_HK": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
+      "fr": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。"
+    },
+    "related": "つめたい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_051",
+    "word": "舌が肥える",
+    "reading": "したがこえる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to have a refined palate",
+      "ja": "舌が肥える",
+      "zh_TW": "to have a refined palate",
+      "zh_CN": "to have a refined palate",
+      "ko": "to have a refined palate",
+      "zh_HK": "to have a refined palate",
+      "fr": "to have a refined palate"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
+      "en": "He has a refined palate.",
+      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
+      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
+      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
+      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
+      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。"
+    },
+    "related": "したがこえる（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_052",
+    "word": "蒸す",
+    "reading": "むす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to steam; to be humid",
+      "ja": "蒸す",
+      "zh_TW": "to steam; to be humid",
+      "zh_CN": "to steam; to be humid",
+      "ko": "to steam; to be humid",
+      "zh_HK": "to steam; to be humid",
+      "fr": "to steam; to be humid"
+    },
+    "example": {
+      "ja": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "I steam vegetables to eat.",
+      "zh_TW": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
+      "zh_CN": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
+      "ko": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
+      "zh_HK": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
+      "fr": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    "related": "むす（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_053",
+    "word": "湯気",
+    "reading": "ゆげ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "steam (rising)",
+      "ja": "湯気",
+      "zh_TW": "steam (rising)",
+      "zh_CN": "steam (rising)",
+      "ko": "steam (rising)",
+      "zh_HK": "steam (rising)",
+      "fr": "steam (rising)"
+    },
+    "example": {
+      "ja": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
+      "en": "Steam is rising from the ramen.",
+      "zh_TW": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
+      "zh_CN": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
+      "ko": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
+      "zh_HK": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
+      "fr": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。"
+    },
+    "related": "ゆげ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_054",
+    "word": "風物詩",
+    "reading": "ふうぶつし",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "seasonal tradition; something that evokes a season",
+      "ja": "風物詩",
+      "zh_TW": "seasonal tradition; something that evokes a season",
+      "zh_CN": "seasonal tradition; something that evokes a season",
+      "ko": "seasonal tradition; something that evokes a season",
+      "zh_HK": "seasonal tradition; something that evokes a season",
+      "fr": "seasonal tradition; something that evokes a season"
+    },
+    "example": {
+      "ja": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
+      "en": "Fireworks are a classic sign of summer.",
+      "zh_TW": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
+      "zh_CN": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
+      "ko": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
+      "zh_HK": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
+      "fr": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。"
+    },
+    "related": "ふうぶつし（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_055",
+    "word": "人混み",
+    "reading": "ひとごみ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "crowd",
+      "ja": "人混み",
+      "zh_TW": "crowd",
+      "zh_CN": "crowd",
+      "ko": "crowd",
+      "zh_HK": "crowd",
+      "fr": "crowd"
+    },
+    "example": {
+      "ja": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
+      "en": "I don't like crowds.",
+      "zh_TW": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
+      "zh_CN": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
+      "ko": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
+      "zh_HK": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
+      "fr": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。"
+    },
+    "related": "ひとごみ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_056",
+    "word": "落ち着いた",
+    "reading": "おちついた",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "calm; relaxed; subdued",
+      "ja": "落ち着いた",
+      "zh_TW": "calm; relaxed; subdued",
+      "zh_CN": "calm; relaxed; subdued",
+      "ko": "calm; relaxed; subdued",
+      "zh_HK": "calm; relaxed; subdued",
+      "fr": "calm; relaxed; subdued"
+    },
+    "example": {
+      "ja": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "I like cafés with a calm atmosphere.",
+      "zh_TW": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
+      "zh_CN": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
+      "ko": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
+      "zh_HK": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
+      "fr": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    "related": "おちついた（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_057",
+    "word": "見せびらかす",
+    "reading": "みせびらかす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to show off",
+      "ja": "見せびらかす",
+      "zh_TW": "to show off",
+      "zh_CN": "to show off",
+      "ko": "to show off",
+      "zh_HK": "to show off",
+      "fr": "to show off"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
+      "en": "He's showing off his new watch.",
+      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
+      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
+      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
+      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
+      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。"
+    },
+    "related": "みせびらかす（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_058",
+    "word": "本屋",
+    "reading": "ほんや",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "bookstore",
+      "ja": "本屋",
+      "zh_TW": "bookstore",
+      "zh_CN": "bookstore",
+      "ko": "bookstore",
+      "zh_HK": "bookstore",
+      "fr": "bookstore"
+    },
+    "example": {
+      "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
+      "en": "There's a bookstore in front of the station.",
+      "zh_TW": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
+      "zh_CN": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
+      "ko": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
+      "zh_HK": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
+      "fr": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。"
+    },
+    "related": "ほんや（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_059",
+    "word": "天国",
+    "reading": "てんごく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "heaven; paradise",
+      "ja": "天国",
+      "zh_TW": "heaven; paradise",
+      "zh_CN": "heaven; paradise",
+      "ko": "heaven; paradise",
+      "zh_HK": "heaven; paradise",
+      "fr": "heaven; paradise"
+    },
+    "example": {
+      "ja": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
+      "en": "This place is heaven for cat lovers.",
+      "zh_TW": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
+      "zh_CN": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
+      "ko": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
+      "zh_HK": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
+      "fr": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。"
+    },
+    "related": "てんごく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_060",
+    "word": "状況",
+    "reading": "じょうきょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "situation; circumstances",
+      "ja": "状況",
+      "zh_TW": "situation; circumstances",
+      "zh_CN": "situation; circumstances",
+      "ko": "situation; circumstances",
+      "zh_HK": "situation; circumstances",
+      "fr": "situation; circumstances"
+    },
+    "example": {
+      "ja": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "en": "Please tell me the current situation.",
+      "zh_TW": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "zh_CN": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "ko": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "zh_HK": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "fr": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。"
+    },
+    "related": "じょうきょう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_061",
+    "word": "中心地",
+    "reading": "ちゅうしんち",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "center; hub",
+      "ja": "中心地",
+      "zh_TW": "center; hub",
+      "zh_CN": "center; hub",
+      "ko": "center; hub",
+      "zh_HK": "center; hub",
+      "fr": "center; hub"
+    },
+    "example": {
+      "ja": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
+      "en": "This is the center of town.",
+      "zh_TW": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
+      "zh_CN": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
+      "ko": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
+      "zh_HK": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
+      "fr": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。"
+    },
+    "related": "ちゅうしんち（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_062",
+    "word": "噴火",
+    "reading": "ふんか",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "(volcanic) eruption",
+      "ja": "噴火",
+      "zh_TW": "(volcanic) eruption",
+      "zh_CN": "(volcanic) eruption",
+      "ko": "(volcanic) eruption",
+      "zh_HK": "(volcanic) eruption",
+      "fr": "(volcanic) eruption"
+    },
+    "example": {
+      "ja": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
+      "en": "The volcano erupted.",
+      "zh_TW": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
+      "zh_CN": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
+      "ko": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
+      "zh_HK": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
+      "fr": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。"
+    },
+    "related": "ふんか（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_063",
+    "word": "大人っぽい",
+    "reading": "おとなっぽい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "mature-looking; grown-up",
+      "ja": "大人っぽい",
+      "zh_TW": "mature-looking; grown-up",
+      "zh_CN": "mature-looking; grown-up",
+      "ko": "mature-looking; grown-up",
+      "zh_HK": "mature-looking; grown-up",
+      "fr": "mature-looking; grown-up"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
+      "en": "She looks mature for her age.",
+      "zh_TW": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
+      "zh_CN": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
+      "ko": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
+      "zh_HK": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
+      "fr": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。"
+    },
+    "related": "おとなっぽい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_064",
+    "word": "子供っぽい",
+    "reading": "こどもっぽい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "childish",
+      "ja": "子供っぽい",
+      "zh_TW": "childish",
+      "zh_CN": "childish",
+      "ko": "childish",
+      "zh_HK": "childish",
+      "fr": "childish"
+    },
+    "example": {
+      "ja": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
+      "en": "Getting angry over something like that is childish.",
+      "zh_TW": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
+      "zh_CN": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
+      "ko": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
+      "zh_HK": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
+      "fr": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。"
+    },
+    "related": "こどもっぽい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_065",
+    "word": "バツイチ",
+    "reading": "バツイチ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "divorced once (colloquial)",
+      "ja": "バツイチ",
+      "zh_TW": "divorced once (colloquial)",
+      "zh_CN": "divorced once (colloquial)",
+      "ko": "divorced once (colloquial)",
+      "zh_HK": "divorced once (colloquial)",
+      "fr": "divorced once (colloquial)"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
+      "en": "He's been divorced once.",
+      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
+      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
+      "ko": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
+      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
+      "fr": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。"
+    },
+    "related": "バツイチ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_066",
+    "word": "健康的",
+    "reading": "けんこうてき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "healthy",
+      "ja": "健康的",
+      "zh_TW": "healthy",
+      "zh_CN": "healthy",
+      "ko": "healthy",
+      "zh_HK": "healthy",
+      "fr": "healthy"
+    },
+    "example": {
+      "ja": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "en": "I try to eat healthy meals.",
+      "zh_TW": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "zh_CN": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "ko": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "zh_HK": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "fr": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。"
+    },
+    "related": "けんこうてき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_067",
+    "word": "皿洗い",
+    "reading": "さらあらい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "dishwashing",
+      "ja": "皿洗い",
+      "zh_TW": "dishwashing",
+      "zh_CN": "dishwashing",
+      "ko": "dishwashing",
+      "zh_HK": "dishwashing",
+      "fr": "dishwashing"
+    },
+    "example": {
+      "ja": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
+      "en": "I wash the dishes after dinner.",
+      "zh_TW": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
+      "zh_CN": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
+      "ko": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
+      "zh_HK": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
+      "fr": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。"
+    },
+    "related": "さらあらい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_068",
+    "word": "お皿",
+    "reading": "おさら",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "plate; dish",
+      "ja": "お皿",
+      "zh_TW": "plate; dish",
+      "zh_CN": "plate; dish",
+      "ko": "plate; dish",
+      "zh_HK": "plate; dish",
+      "fr": "plate; dish"
+    },
+    "example": {
+      "ja": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "en": "I broke a plate.",
+      "zh_TW": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "zh_CN": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "ko": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "zh_HK": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "fr": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。"
+    },
+    "related": "おさら（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_069",
+    "word": "偏食",
+    "reading": "へんしょく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "picky eating; unbalanced diet",
+      "ja": "偏食",
+      "zh_TW": "picky eating; unbalanced diet",
+      "zh_CN": "picky eating; unbalanced diet",
+      "ko": "picky eating; unbalanced diet",
+      "zh_HK": "picky eating; unbalanced diet",
+      "fr": "picky eating; unbalanced diet"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
+      "en": "I'm struggling with my child's picky eating.",
+      "zh_TW": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
+      "zh_CN": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
+      "ko": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
+      "zh_HK": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
+      "fr": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。"
+    },
+    "related": "へんしょく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_070",
+    "word": "井戸水",
+    "reading": "いどみず",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "well water",
+      "ja": "井戸水",
+      "zh_TW": "well water",
+      "zh_CN": "well water",
+      "ko": "well water",
+      "zh_HK": "well water",
+      "fr": "well water"
+    },
+    "example": {
+      "ja": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "en": "This village uses well water.",
+      "zh_TW": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "zh_CN": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "ko": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "zh_HK": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "fr": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。"
+    },
+    "related": "いどみず（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_071",
+    "word": "食習慣",
+    "reading": "しょくしゅうかん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "eating habits",
+      "ja": "食習慣",
+      "zh_TW": "eating habits",
+      "zh_CN": "eating habits",
+      "ko": "eating habits",
+      "zh_HK": "eating habits",
+      "fr": "eating habits"
+    },
+    "example": {
+      "ja": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
+      "en": "Eating habits differ from country to country.",
+      "zh_TW": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
+      "zh_CN": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
+      "ko": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
+      "zh_HK": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
+      "fr": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。"
+    },
+    "related": "しょくしゅうかん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_072",
+    "word": "生活習慣",
+    "reading": "せいかつしゅうかん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "lifestyle habits",
+      "ja": "生活習慣",
+      "zh_TW": "lifestyle habits",
+      "zh_CN": "lifestyle habits",
+      "ko": "lifestyle habits",
+      "zh_HK": "lifestyle habits",
+      "fr": "lifestyle habits"
+    },
+    "example": {
+      "ja": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
+      "en": "Let's review our lifestyle habits.",
+      "zh_TW": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
+      "zh_CN": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
+      "ko": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
+      "zh_HK": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
+      "fr": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。"
+    },
+    "related": "せいかつしゅうかん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_073",
+    "word": "育つ",
+    "reading": "そだつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to grow up; to be raised",
+      "ja": "育つ",
+      "zh_TW": "to grow up; to be raised",
+      "zh_CN": "to grow up; to be raised",
+      "ko": "to grow up; to be raised",
+      "zh_HK": "to grow up; to be raised",
+      "fr": "to grow up; to be raised"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "en": "I grew up in Osaka.",
+      "zh_TW": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "zh_CN": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "ko": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "zh_HK": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "fr": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。"
+    },
+    "related": "そだつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_074",
+    "word": "子育て",
+    "reading": "こそだて",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "child-rearing; parenting",
+      "ja": "子育て",
+      "zh_TW": "child-rearing; parenting",
+      "zh_CN": "child-rearing; parenting",
+      "ko": "child-rearing; parenting",
+      "zh_HK": "child-rearing; parenting",
+      "fr": "child-rearing; parenting"
+    },
+    "example": {
+      "ja": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "en": "Raising children is hard but fun.",
+      "zh_TW": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "zh_CN": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "ko": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "zh_HK": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "fr": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。"
+    },
+    "related": "こそだて（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_075",
+    "word": "海岸",
+    "reading": "かいがん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "coast; seashore",
+      "ja": "海岸",
+      "zh_TW": "coast; seashore",
+      "zh_CN": "coast; seashore",
+      "ko": "coast; seashore",
+      "zh_HK": "coast; seashore",
+      "fr": "coast; seashore"
+    },
+    "example": {
+      "ja": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "en": "I took a walk along the coast.",
+      "zh_TW": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "zh_CN": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "ko": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "zh_HK": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "fr": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。"
+    },
+    "related": "かいがん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_076",
+    "word": "会談",
+    "reading": "かいだん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "talks; meeting (formal)",
+      "ja": "会談",
+      "zh_TW": "talks; meeting (formal)",
+      "zh_CN": "talks; meeting (formal)",
+      "ko": "talks; meeting (formal)",
+      "zh_HK": "talks; meeting (formal)",
+      "fr": "talks; meeting (formal)"
+    },
+    "example": {
+      "ja": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
+      "en": "The leaders of the two countries held talks.",
+      "zh_TW": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
+      "zh_CN": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
+      "ko": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
+      "zh_HK": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
+      "fr": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。"
+    },
+    "related": "かいだん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_077",
+    "word": "研究室",
+    "reading": "けんきゅうしつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "laboratory; professor's office",
+      "ja": "研究室",
+      "zh_TW": "laboratory; professor's office",
+      "zh_CN": "laboratory; professor's office",
+      "ko": "laboratory; professor's office",
+      "zh_HK": "laboratory; professor's office",
+      "fr": "laboratory; professor's office"
+    },
+    "example": {
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I'm going to the professor's lab.",
+      "zh_TW": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_CN": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "ko": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_HK": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "fr": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    "related": "けんきゅうしつ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_078",
+    "word": "片付ける",
+    "reading": "かたづける",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to tidy up; to put away",
+      "ja": "片付ける",
+      "zh_TW": "to tidy up; to put away",
+      "zh_CN": "to tidy up; to put away",
+      "ko": "to tidy up; to put away",
+      "zh_HK": "to tidy up; to put away",
+      "fr": "to tidy up; to put away"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
+      "en": "Please tidy up your room.",
+      "zh_TW": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
+      "zh_CN": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
+      "ko": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
+      "zh_HK": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
+      "fr": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。"
+    },
+    "related": "かたづける（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_079",
+    "word": "嘘をつく",
+    "reading": "うそをつく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to tell a lie",
+      "ja": "嘘をつく",
+      "zh_TW": "to tell a lie",
+      "zh_CN": "to tell a lie",
+      "ko": "to tell a lie",
+      "zh_HK": "to tell a lie",
+      "fr": "to tell a lie"
+    },
+    "example": {
+      "ja": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
+      "en": "You must not tell lies.",
+      "zh_TW": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
+      "zh_CN": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
+      "ko": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
+      "zh_HK": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
+      "fr": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。"
+    },
+    "related": "うそをつく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_080",
+    "word": "嘘つき",
+    "reading": "うそつき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "liar",
+      "ja": "嘘つき",
+      "zh_TW": "liar",
+      "zh_CN": "liar",
+      "ko": "liar",
+      "zh_HK": "liar",
+      "fr": "liar"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
+      "en": "He is a liar.",
+      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
+      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
+      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
+      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
+      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。"
+    },
+    "related": "うそつき（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_081",
+    "word": "ウイルス",
+    "reading": "ウイルス",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "virus",
+      "ja": "ウイルス",
+      "zh_TW": "virus",
+      "zh_CN": "virus",
+      "ko": "virus",
+      "zh_HK": "virus",
+      "fr": "virus"
+    },
+    "example": {
+      "ja": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
+      "en": "My computer got infected with a virus.",
+      "zh_TW": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
+      "zh_CN": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
+      "ko": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
+      "zh_HK": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
+      "fr": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。"
+    },
+    "related": "ウイルス（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_082",
+    "word": "お湯",
+    "reading": "おゆ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "hot water",
+      "ja": "お湯",
+      "zh_TW": "hot water",
+      "zh_CN": "hot water",
+      "ko": "hot water",
+      "zh_HK": "hot water",
+      "fr": "hot water"
+    },
+    "example": {
+      "ja": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
+      "en": "I'll boil some water.",
+      "zh_TW": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
+      "zh_CN": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
+      "ko": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
+      "zh_HK": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
+      "fr": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。"
+    },
+    "related": "おゆ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_083",
+    "word": "目印",
+    "reading": "めじるし",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "landmark; marker",
+      "ja": "目印",
+      "zh_TW": "landmark; marker",
+      "zh_CN": "landmark; marker",
+      "ko": "landmark; marker",
+      "zh_HK": "landmark; marker",
+      "fr": "landmark; marker"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
+      "en": "The red building in front of the station is the landmark.",
+      "zh_TW": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
+      "zh_CN": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
+      "ko": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
+      "zh_HK": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
+      "fr": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。"
+    },
+    "related": "めじるし（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_084",
+    "word": "お墓参り",
+    "reading": "おはかまいり",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "visiting a family grave",
+      "ja": "お墓参り",
+      "zh_TW": "visiting a family grave",
+      "zh_CN": "visiting a family grave",
+      "ko": "visiting a family grave",
+      "zh_HK": "visiting a family grave",
+      "fr": "visiting a family grave"
+    },
+    "example": {
+      "ja": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I visit the family grave during Obon.",
+      "zh_TW": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_CN": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "ko": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_HK": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
+      "fr": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    "related": "おはかまいり（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_085",
+    "word": "祖先",
+    "reading": "そせん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "ancestor",
+      "ja": "祖先",
+      "zh_TW": "ancestor",
+      "zh_CN": "ancestor",
+      "ko": "ancestor",
+      "zh_HK": "ancestor",
+      "fr": "ancestor"
+    },
+    "example": {
+      "ja": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
+      "en": "We honor our ancestors.",
+      "zh_TW": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
+      "zh_CN": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
+      "ko": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
+      "zh_HK": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
+      "fr": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。"
+    },
+    "related": "そせん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_086",
+    "word": "墓",
+    "reading": "はか",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "grave; tomb",
+      "ja": "墓",
+      "zh_TW": "grave; tomb",
+      "zh_CN": "grave; tomb",
+      "ko": "grave; tomb",
+      "zh_HK": "grave; tomb",
+      "fr": "grave; tomb"
+    },
+    "example": {
+      "ja": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
+      "en": "My grandfather's grave is on the mountain.",
+      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
+      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
+      "ko": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
+      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
+      "fr": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。"
+    },
+    "related": "はか（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_087",
+    "word": "港",
+    "reading": "みなと",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "port; harbor",
+      "ja": "港",
+      "zh_TW": "port; harbor",
+      "zh_CN": "port; harbor",
+      "ko": "port; harbor",
+      "zh_HK": "port; harbor",
+      "fr": "port; harbor"
+    },
+    "example": {
+      "ja": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
+      "en": "A big ship is docked at the port.",
+      "zh_TW": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
+      "zh_CN": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
+      "ko": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
+      "zh_HK": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
+      "fr": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。"
+    },
+    "related": "みなと（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_088",
+    "word": "広告",
+    "reading": "こうこく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "advertisement",
+      "ja": "広告",
+      "zh_TW": "advertisement",
+      "zh_CN": "advertisement",
+      "ko": "advertisement",
+      "zh_HK": "advertisement",
+      "fr": "advertisement"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
+      "en": "There are many ads on the train.",
+      "zh_TW": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
+      "zh_CN": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
+      "ko": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
+      "zh_HK": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
+      "fr": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。"
+    },
+    "related": "こうこく（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_089",
+    "word": "人口",
+    "reading": "じんこう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "population",
+      "ja": "人口",
+      "zh_TW": "population",
+      "zh_CN": "population",
+      "ko": "population",
+      "zh_HK": "population",
+      "fr": "population"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
+      "en": "Japan's population is decreasing.",
+      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
+      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
+      "ko": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
+      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
+      "fr": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。"
+    },
+    "related": "じんこう（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_090",
+    "word": "候補",
+    "reading": "こうほ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "candidate; option",
+      "ja": "候補",
+      "zh_TW": "candidate; option",
+      "zh_CN": "candidate; option",
+      "ko": "candidate; option",
+      "zh_HK": "candidate; option",
+      "fr": "candidate; option"
+    },
+    "example": {
+      "ja": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
+      "en": "We have several possible travel destinations.",
+      "zh_TW": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
+      "zh_CN": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
+      "ko": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
+      "zh_HK": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
+      "fr": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。"
+    },
+    "related": "こうほ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_091",
+    "word": "底",
+    "reading": "そこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "bottom",
+      "ja": "底",
+      "zh_TW": "bottom",
+      "zh_CN": "bottom",
+      "ko": "bottom",
+      "zh_HK": "bottom",
+      "fr": "bottom"
+    },
+    "example": {
+      "ja": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
+      "en": "The bottom of the pot got burned.",
+      "zh_TW": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
+      "zh_CN": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
+      "ko": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
+      "zh_HK": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
+      "fr": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。"
+    },
+    "related": "そこ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_092",
+    "word": "お客様",
+    "reading": "おきゃくさま",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "customer; guest (polite)",
+      "ja": "お客様",
+      "zh_TW": "customer; guest (polite)",
+      "zh_CN": "customer; guest (polite)",
+      "ko": "customer; guest (polite)",
+      "zh_HK": "customer; guest (polite)",
+      "fr": "customer; guest (polite)"
+    },
+    "example": {
+      "ja": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
+      "en": "This way, please.",
+      "zh_TW": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
+      "zh_CN": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
+      "ko": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
+      "zh_HK": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
+      "fr": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。"
+    },
+    "related": "おきゃくさま（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_093",
+    "word": "十分です",
+    "reading": "じゅうぶんです",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "That's enough; sufficient",
+      "ja": "十分です",
+      "zh_TW": "That's enough; sufficient",
+      "zh_CN": "That's enough; sufficient",
+      "ko": "That's enough; sufficient",
+      "zh_HK": "That's enough; sufficient",
+      "fr": "That's enough; sufficient"
+    },
+    "example": {
+      "ja": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
+      "en": "That's plenty, thank you.",
+      "zh_TW": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
+      "zh_CN": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
+      "ko": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
+      "zh_HK": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
+      "fr": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。"
+    },
+    "related": "じゅうぶんです（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_094",
+    "word": "夜行バス",
+    "reading": "やこうバス",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "overnight bus",
+      "ja": "夜行バス",
+      "zh_TW": "overnight bus",
+      "zh_CN": "overnight bus",
+      "ko": "overnight bus",
+      "zh_HK": "overnight bus",
+      "fr": "overnight bus"
+    },
+    "example": {
+      "ja": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I'm going to Tokyo by overnight bus.",
+      "zh_TW": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_CN": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "ko": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "zh_HK": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "fr": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    "related": "やこうバス（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_095",
+    "word": "馬車",
+    "reading": "ばしゃ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "horse-drawn carriage",
+      "ja": "馬車",
+      "zh_TW": "horse-drawn carriage",
+      "zh_CN": "horse-drawn carriage",
+      "ko": "horse-drawn carriage",
+      "zh_HK": "horse-drawn carriage",
+      "fr": "horse-drawn carriage"
+    },
+    "example": {
+      "ja": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
+      "en": "People used to travel by horse-drawn carriage.",
+      "zh_TW": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
+      "zh_CN": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
+      "ko": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
+      "zh_HK": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
+      "fr": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。"
+    },
+    "related": "ばしゃ（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_096",
+    "word": "考え事をする",
+    "reading": "かんがえごとをする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to be lost in thought",
+      "ja": "考え事をする",
+      "zh_TW": "to be lost in thought",
+      "zh_CN": "to be lost in thought",
+      "ko": "to be lost in thought",
+      "zh_HK": "to be lost in thought",
+      "fr": "to be lost in thought"
+    },
+    "example": {
+      "ja": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
+      "en": "I was lost in thought and missed my stop.",
+      "zh_TW": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
+      "zh_CN": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
+      "ko": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
+      "zh_HK": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
+      "fr": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。"
+    },
+    "related": "かんがえごとをする（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_097",
+    "word": "厳しい",
+    "reading": "きびしい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "strict; severe; harsh",
+      "ja": "厳しい",
+      "zh_TW": "strict; severe; harsh",
+      "zh_CN": "strict; severe; harsh",
+      "ko": "strict; severe; harsh",
+      "zh_HK": "strict; severe; harsh",
+      "fr": "strict; severe; harsh"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "en": "My father is very strict.",
+      "zh_TW": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "zh_CN": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "ko": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "zh_HK": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
+      "fr": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。"
+    },
+    "related": "きびしい（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_098",
+    "word": "最低賃金",
+    "reading": "さいていちんぎん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "minimum wage",
+      "ja": "最低賃金",
+      "zh_TW": "minimum wage",
+      "zh_CN": "minimum wage",
+      "ko": "minimum wage",
+      "zh_HK": "minimum wage",
+      "fr": "minimum wage"
+    },
+    "example": {
+      "ja": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "en": "The minimum wage went up.",
+      "zh_TW": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "zh_CN": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "ko": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "zh_HK": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
+      "fr": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。"
+    },
+    "related": "さいていちんぎん（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_099",
+    "word": "引っ越す",
+    "reading": "ひっこす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to move (house)",
+      "ja": "引っ越す",
+      "zh_TW": "to move (house)",
+      "zh_CN": "to move (house)",
+      "ko": "to move (house)",
+      "zh_HK": "to move (house)",
+      "fr": "to move (house)"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+      "en": "I'm moving to Osaka next month.",
+      "zh_TW": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+      "zh_CN": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+      "ko": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+      "zh_HK": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+      "fr": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。"
+    },
+    "related": "ひっこす（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_100",
+    "word": "新鮮な",
+    "reading": "しんせんな",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "fresh",
+      "ja": "新鮮な",
+      "zh_TW": "fresh",
+      "zh_CN": "fresh",
+      "ko": "fresh",
+      "zh_HK": "fresh",
+      "fr": "fresh"
+    },
+    "example": {
+      "ja": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+      "en": "This fish is very fresh.",
+      "zh_TW": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+      "zh_CN": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+      "ko": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+      "zh_HK": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+      "fr": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。"
+    },
+    "related": "しんせんな（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_101",
+    "word": "特に",
+    "reading": "とくに",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "especially; particularly",
+      "ja": "特に",
+      "zh_TW": "especially; particularly",
+      "zh_CN": "especially; particularly",
+      "ko": "especially; particularly",
+      "zh_HK": "especially; particularly",
+      "fr": "especially; particularly"
+    },
+    "example": {
+      "ja": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "I like fruit, especially apples.",
+      "zh_TW": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
+      "zh_CN": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
+      "ko": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
+      "zh_HK": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
+      "fr": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    "related": "とくに（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_102",
+    "word": "見逃す",
+    "reading": "みのがす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to miss (seeing); to overlook",
+      "ja": "見逃す",
+      "zh_TW": "to miss (seeing); to overlook",
+      "zh_CN": "to miss (seeing); to overlook",
+      "ko": "to miss (seeing); to overlook",
+      "zh_HK": "to miss (seeing); to overlook",
+      "fr": "to miss (seeing); to overlook"
+    },
+    "example": {
+      "ja": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
+      "en": "I missed my favorite drama.",
+      "zh_TW": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
+      "zh_CN": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
+      "ko": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
+      "zh_HK": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
+      "fr": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。"
+    },
+    "related": "みのがす（授業の重要表現）"
+  },
+  {
+    "id": "card_daniel_103",
+    "word": "賄賂",
+    "reading": "わいろ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "bribe",
+      "ja": "賄賂",
+      "zh_TW": "bribe",
+      "zh_CN": "bribe",
+      "ko": "bribe",
+      "zh_HK": "bribe",
+      "fr": "bribe"
+    },
+    "example": {
+      "ja": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "en": "A politician accepted a bribe.",
+      "zh_TW": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "zh_CN": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "ko": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "zh_HK": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
+      "fr": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。"
+    },
+    "related": "わいろ（授業の重要表現）"
+  }
 ];
