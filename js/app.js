@@ -6740,29 +6740,50 @@
     return word;
   }
 
+  function escapeRegex(s) {
+    if (!s) return '';
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
   // Masks the target word in a ruby-tagged Japanese example sentence
   function maskTargetWordInSentence(sentenceHtml, word) {
     if (!sentenceHtml || !word) return sentenceHtml || '';
     const cleanWord = word.replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
-    const blankHtml = '<span class="quiz-blank-slot inline-block px-3 py-0.5 mx-1 rounded-lg bg-amber-100 text-amber-900 border-2 border-amber-300 font-black shadow-inner">［　？　］</span>';
+    const blankHtml = '<span class="quiz-blank-slot">［ ？ ］</span>';
 
-    if (sentenceHtml.includes(word)) {
-      return sentenceHtml.replace(word, blankHtml);
+    // 1. If the whole word is wrapped in a single ruby tag: <ruby>cleanWord<rt>...</rt></ruby>
+    // e.g. <ruby>確認<rt>かくにん</rt></ruby> or <ruby>展覧会<rt>てんらんかい</rt></ruby>
+    const exactRubyRegex = new RegExp('<ruby>\\s*' + escapeRegex(cleanWord) + '\\s*<rt>[^<]*<\\/rt><\\/ruby>', 'g');
+    if (exactRubyRegex.test(sentenceHtml)) {
+      return sentenceHtml.replace(exactRubyRegex, blankHtml);
     }
-    try {
-      const patternParts = [];
-      for (const ch of cleanWord) {
-        if (ch >= '\u4e00' && ch <= '\u9fff') {
-          patternParts.push(`(?:<ruby>${ch}<rt>[^<]*<\\/rt><\\/ruby>|${ch})`);
-        } else {
-          patternParts.push(ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-        }
+
+    // 2. Flexible per-character ruby:
+    // e.g. <ruby>作<rt>つく</rt></ruby>らない, <ruby>買<rt>か</rt></ruby>ってきた
+    const patternParts = [];
+    for (const ch of cleanWord) {
+      if (ch >= '\u4e00' && ch <= '\u9fff') {
+        patternParts.push('(?:<ruby>\\s*' + ch + '\\s*<rt>[^<]*<\\/rt><\\/ruby>|' + ch + ')');
+      } else {
+        patternParts.push(escapeRegex(ch));
       }
-      const regex = new RegExp(patternParts.join(''), '');
-      if (regex.test(sentenceHtml)) {
-        return sentenceHtml.replace(regex, blankHtml);
-      }
-    } catch(e) {}
+    }
+    const flexibleRegex = new RegExp(patternParts.join(''), 'g');
+    if (flexibleRegex.test(sentenceHtml)) {
+      return sentenceHtml.replace(flexibleRegex, blankHtml);
+    }
+
+    // 3. Fallback: ruby where cleanWord is contained inside the kanji portion
+    const anyRubyRegex = new RegExp('<ruby>\\s*[^<]*?' + escapeRegex(cleanWord) + '[^<]*?<rt>[^<]*<\\/rt><\\/ruby>', 'g');
+    if (anyRubyRegex.test(sentenceHtml)) {
+      return sentenceHtml.replace(anyRubyRegex, blankHtml);
+    }
+
+    // 4. Exact plain text replacement (for words without kanji/ruby, e.g. よっつ, セール)
+    if (sentenceHtml.includes(cleanWord)) {
+      return sentenceHtml.replace(cleanWord, blankHtml);
+    }
+
     return sentenceHtml;
   }
 
@@ -7000,7 +7021,7 @@
         if (sentenceText) sentenceText.innerHTML = maskTargetWordInSentence(quizCurrentQuestion.example ? quizCurrentQuestion.example.ja : '', quizCurrentQuestion.word);
         if (sentenceTrans) {
           if (isMultilingualEnabled && currentQuestionMeta.sentenceTrans) {
-            sentenceTrans.textContent = currentQuestionMeta.sentenceTrans;
+            sentenceTrans.innerHTML = currentQuestionMeta.sentenceTrans.replace(/<br\s*\/?>/gi, '<br/>');
             sentenceTrans.classList.remove('hidden');
           } else {
             sentenceTrans.classList.add('hidden');
@@ -7008,13 +7029,31 @@
         }
       }
 
-      if (promptEl) promptEl.textContent = isJa ? '文脈に合う最も適切な言葉を選んでください' : 'Select the best word/form that fits the sentence';
+      if (promptEl) promptEl.textContent = isJa ? '文中の［ ？ ］に入る最も適切な言葉を選んでください' : 'Select the best word/form that fits the sentence';
       if (textEl) {
-        textEl.textContent = isMultilingualEnabled 
-          ? `( ${currentQuestionMeta.baseWord} / ${meaning} )` 
-          : `( ${currentQuestionMeta.baseWord} )`;
+        textEl.className = 'my-1.5 text-center select-text font-jp';
+        if (hasVerbConjugation) {
+          textEl.innerHTML = `
+            <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 border border-slate-200 text-xs font-semibold text-slate-700 shadow-2xs">
+              <span class="text-teal-700 font-bold">💡 動詞:</span>
+              <span class="font-extrabold text-darkNavyText">「${currentQuestionMeta.baseWord}」</span>
+              ${isMultilingualEnabled ? `<span class="text-slate-400 font-medium">(${meaning})</span>` : ''}
+            </div>
+          `;
+        } else {
+          if (isMultilingualEnabled) {
+            textEl.innerHTML = `
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 border border-slate-200 text-xs font-semibold text-slate-700 shadow-2xs">
+                <span class="text-teal-700 font-bold">💡 意味:</span>
+                <span class="text-slate-700 font-medium">${meaning}</span>
+              </div>
+            `;
+          } else {
+            textEl.innerHTML = '';
+          }
+        }
       }
-      if (hintEl) hintEl.textContent = quizCurrentQuestion.category || '文脈穴埋め';
+      if (hintEl) hintEl.textContent = quizCurrentQuestion.category ? `【分類】${quizCurrentQuestion.category}` : '';
 
       // Build Choices for Type A
       if (hasVerbConjugation) {
@@ -7077,15 +7116,22 @@
 
       if (promptEl) {
         promptEl.textContent = isJa 
-          ? `「${currentQuestionMeta.baseWord}」を指定された形に変えてください` 
-          : `Conjugate "${currentQuestionMeta.baseWord}" into the requested form:`;
+          ? '指定された活用形を選んでください' 
+          : 'Select the requested verb form:';
       }
       if (textEl) {
-        textEl.textContent = isMultilingualEnabled 
-          ? `「${currentQuestionMeta.baseWord} (${meaning})」の【 ${targetFormName} 】` 
-          : `「${currentQuestionMeta.baseWord}」の【 ${targetFormName} 】`;
+        textEl.className = 'my-2 text-center select-text font-jp';
+        textEl.innerHTML = `
+          <div class="flex flex-col items-center justify-center space-y-1.5">
+            <span class="text-2xl sm:text-3xl font-black text-darkNavyText">「${currentQuestionMeta.baseWord}」</span>
+            <span class="inline-flex items-center px-3.5 py-1 rounded-full bg-teal-50 border border-teal-300 text-teal-800 text-xs sm:text-sm font-extrabold shadow-2xs">
+              【 ${targetFormName} 】
+            </span>
+            ${isMultilingualEnabled ? `<span class="text-xs text-slate-500 font-medium pt-0.5">意味: ${meaning}</span>` : ''}
+          </div>
+        `;
       }
-      if (hintEl) hintEl.textContent = conj ? conj.group : (quizCurrentQuestion.category || '文法・活用');
+      if (hintEl) hintEl.textContent = conj ? `【動詞グループ】${conj.group}` : (quizCurrentQuestion.category || '文法・活用');
 
       if (conj) {
         const poolOptions = [
@@ -7122,6 +7168,7 @@
 
       if (promptEl) promptEl.textContent = isJa ? '一致する日本語の単語を選んでください' : 'Select the matching Japanese word';
       if (textEl) {
+        textEl.className = 'text-xl sm:text-2xl font-extrabold text-darkNavyText my-1 select-text font-jp';
         if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('ないform')) {
           textEl.textContent = isMultilingualEnabled ? `${meaning} [ない-form / 否定]` : `${quizCurrentQuestion.word} [ない形]`;
         } else if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('てform')) {
@@ -7132,7 +7179,7 @@
           textEl.textContent = isMultilingualEnabled ? meaning : quizCurrentQuestion.word;
         }
       }
-      if (hintEl) hintEl.textContent = quizCurrentQuestion.category || 'General';
+      if (hintEl) hintEl.textContent = quizCurrentQuestion.category ? `【分類】${quizCurrentQuestion.category}` : 'General';
 
       const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
       const distractorCandidates = candidatePool

@@ -101,6 +101,27 @@
       display: ruby-text !important;
     }
 
+    /* Quiz Fill-in-the-blank slot styling */
+    .quiz-blank-slot {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 58px;
+      height: 1.45em;
+      padding: 0 8px;
+      margin: 0 4px;
+      vertical-align: -0.15em;
+      background-color: #fef3c7;
+      border: 2px dashed #f59e0b;
+      border-radius: 8px;
+      color: #92400e;
+      font-weight: 900;
+      font-size: 0.85em;
+      line-height: 1;
+      letter-spacing: 0.05em;
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+    }
+
     /* Sleek custom scrollbars for folder list & unit indexes */
     #folderButtonsContainer::-webkit-scrollbar,
     #folderButtonsContainerMobile::-webkit-scrollbar,
@@ -803,13 +824,14 @@
             <span id="quizQuestionPrompt" class="text-xs text-slate-400 font-medium block mb-1">Select the matching Japanese word</span>
 
             <!-- Context / Sentence Container (for Fill-in-the-blank Type A) -->
-            <div id="quizSentenceBox" class="hidden my-2.5 p-3.5 bg-slate-50 border-2 border-slate-200 rounded-2xl text-left font-jp text-base sm:text-lg leading-relaxed text-darkNavyText shadow-inner">
+            <div id="quizSentenceBox" class="hidden my-2.5 p-3.5 bg-slate-50 border-2 border-slate-200 rounded-2xl text-left font-jp text-base sm:text-lg leading-[2.2] text-darkNavyText shadow-inner">
               <p id="quizSentenceText" class="font-bold select-text"></p>
-              <p id="quizSentenceTrans" class="text-xs text-slate-500 mt-2 pt-2 border-t border-slate-200 font-sans select-text"></p>
+              <p id="quizSentenceTrans" class="text-xs text-slate-500 mt-2 pt-2 border-t border-slate-200 font-sans select-text leading-normal"></p>
             </div>
 
-            <h3 id="quizQuestionText" class="text-xl sm:text-2xl font-extrabold text-darkNavyText mt-1 select-text font-jp">Question</h3>
-            <p id="quizQuestionHint" class="text-xs text-slate-400 mt-1 select-text">Category</p>
+            <!-- Dynamic Question/Prompt Area -->
+            <div id="quizQuestionText" class="text-xl sm:text-2xl font-extrabold text-darkNavyText my-1 select-text font-jp">Question</div>
+            <p id="quizQuestionHint" class="text-xs text-slate-400 mt-0.5 select-text">Category</p>
           </div>
 
           <!-- 4 Choices Options -->
@@ -1615,7 +1637,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261015_2030"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261015_2130"></script>
+  <script src="js/app.js?v=20261015_2145"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
