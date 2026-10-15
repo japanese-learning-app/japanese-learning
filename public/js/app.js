@@ -7021,7 +7021,17 @@
         if (sentenceText) sentenceText.innerHTML = maskTargetWordInSentence(quizCurrentQuestion.example ? quizCurrentQuestion.example.ja : '', quizCurrentQuestion.word);
         if (sentenceTrans) {
           if (isMultilingualEnabled && currentQuestionMeta.sentenceTrans) {
-            sentenceTrans.innerHTML = currentQuestionMeta.sentenceTrans.replace(/<br\s*\/?>/gi, '<br/>');
+            let transText = currentQuestionMeta.sentenceTrans.replace(/<br\s*\/?>/gi, '<br/>');
+            // Foolproof safeguard: mask any Japanese in parentheses or the target word itself from the translation
+            transText = transText.replace(/\([ぁ-んァ-ヶ一-龥]+\)/g, '［ ? ］');
+            const cleanTargetWord = (quizCurrentQuestion.word || '').replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
+            if (cleanTargetWord) {
+              transText = transText.replace(new RegExp(escapeRegex(cleanTargetWord), 'g'), '［ ? ］');
+            }
+            if (quizCurrentQuestion.reading) {
+              transText = transText.replace(new RegExp(escapeRegex(quizCurrentQuestion.reading), 'g'), '［ ? ］');
+            }
+            sentenceTrans.innerHTML = transText;
             sentenceTrans.classList.remove('hidden');
           } else {
             sentenceTrans.classList.add('hidden');
@@ -7032,19 +7042,21 @@
       if (promptEl) promptEl.textContent = isJa ? '文中の［ ？ ］に入る最も適切な言葉を選んでください' : 'Select the best word/form that fits the sentence';
       if (textEl) {
         textEl.className = 'my-1.5 text-center select-text font-jp';
-        if (hasVerbConjugation) {
+        // Only show base verb if it is truly a conjugated form (e.g. 作る -> 作らない)
+        if (hasVerbConjugation && currentQuestionMeta.baseWord !== quizCurrentQuestion.word) {
           textEl.innerHTML = `
             <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 border border-slate-200 text-xs font-semibold text-slate-700 shadow-2xs">
-              <span class="text-teal-700 font-bold">💡 動詞:</span>
+              <span class="text-teal-700 font-bold">💡 変化させる動詞:</span>
               <span class="font-extrabold text-darkNavyText">「${currentQuestionMeta.baseWord}」</span>
               ${isMultilingualEnabled ? `<span class="text-slate-400 font-medium">(${meaning})</span>` : ''}
             </div>
           `;
         } else {
+          // General vocabulary (nouns, counters, etc.): NEVER show the Japanese word before answering!
           if (isMultilingualEnabled) {
             textEl.innerHTML = `
               <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 border border-slate-200 text-xs font-semibold text-slate-700 shadow-2xs">
-                <span class="text-teal-700 font-bold">💡 意味:</span>
+                <span class="text-teal-700 font-bold">💡 意味のヒント:</span>
                 <span class="text-slate-700 font-medium">${meaning}</span>
               </div>
             `;

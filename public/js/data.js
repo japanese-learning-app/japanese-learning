@@ -11195,12 +11195,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (電車).",
+      "en": "I commute to work by train.",
       "zh_TW": "電車",
       "zh_CN": "電車",
-      "ko": "I commute to work by (電車).",
+      "ko": "I commute to work by train.",
       "zh_HK": "電車",
-      "fr": "I commute to work by (電車)."
+      "fr": "I commute to work by train."
     },
     "related": "【交通・鉄道】電車 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11223,12 +11223,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>乗り物<rt>のりもの</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (乗り物).",
+      "en": "I commute to work by vehicle.",
       "zh_TW": "vehicle",
       "zh_CN": "vehicle",
-      "ko": "I commute to work by (乗り物).",
+      "ko": "I commute to work by vehicle.",
       "zh_HK": "vehicle",
-      "fr": "I commute to work by (乗り物)."
+      "fr": "I commute to work by vehicle."
     },
     "related": "【交通・鉄道】乗り物 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11251,12 +11251,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "バスで<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (バス).",
+      "en": "I commute to work by bus.",
       "zh_TW": "公車",
       "zh_CN": "公車",
-      "ko": "I commute to work by (バス).",
+      "ko": "I commute to work by bus.",
       "zh_HK": "公車",
-      "fr": "I commute to work by (バス)."
+      "fr": "I commute to work by bus."
     },
     "related": "【交通・鉄道】バス (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11307,12 +11307,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (自転車).",
+      "en": "I commute to work by bicycle.",
       "zh_TW": "腳踏車",
       "zh_CN": "腳踏車",
-      "ko": "I commute to work by (自転車).",
+      "ko": "I commute to work by bicycle.",
       "zh_HK": "腳踏車",
-      "fr": "I commute to work by (自転車)."
+      "fr": "I commute to work by bicycle."
     },
     "related": "【交通・鉄道】自転車 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11335,12 +11335,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (飛行機).",
+      "en": "I commute to work by airplane.",
       "zh_TW": "飛機",
       "zh_CN": "飛機",
-      "ko": "I commute to work by (飛行機).",
+      "ko": "I commute to work by airplane.",
       "zh_HK": "飛機",
-      "fr": "I commute to work by (飛行機)."
+      "fr": "I commute to work by airplane."
     },
     "related": "【交通・鉄道】飛行機 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11363,12 +11363,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>船<rt>ふね</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (船).",
+      "en": "I commute to work by boat.",
       "zh_TW": "船",
       "zh_CN": "船",
-      "ko": "I commute to work by (船).",
+      "ko": "I commute to work by boat.",
       "zh_HK": "船",
-      "fr": "I commute to work by (船)."
+      "fr": "I commute to work by boat."
     },
     "related": "【交通・鉄道】船 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11391,12 +11391,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>車<rt>くるま</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (車).",
+      "en": "I commute to work by car.",
       "zh_TW": "車",
       "zh_CN": "車",
-      "ko": "I commute to work by (車).",
+      "ko": "I commute to work by car.",
       "zh_HK": "車",
-      "fr": "I commute to work by (車)."
+      "fr": "I commute to work by car."
     },
     "related": "【交通・鉄道】車 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11419,12 +11419,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (新幹線).",
+      "en": "I commute to work by bullet train.",
       "zh_TW": "新幹線",
       "zh_CN": "新幹線",
-      "ko": "I commute to work by (新幹線).",
+      "ko": "I commute to work by bullet train.",
       "zh_HK": "新幹線",
-      "fr": "I commute to work by (新幹線)."
+      "fr": "I commute to work by bullet train."
     },
     "related": "【交通・鉄道】新幹線 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -11447,12 +11447,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (地下鉄).",
+      "en": "I commute to work by subway.",
       "zh_TW": "捷運",
       "zh_CN": "捷運",
-      "ko": "I commute to work by (地下鉄).",
+      "ko": "I commute to work by subway.",
       "zh_HK": "捷運",
-      "fr": "I commute to work by (地下鉄)."
+      "fr": "I commute to work by subway."
     },
     "related": "【交通・鉄道】地下鉄 (駅施設・乗り物・移動に関する語彙)"
   },
@@ -12035,12 +12035,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (ごはん).",
+      "en": "I ate delicious meal.",
       "zh_TW": "飯",
       "zh_CN": "飯",
-      "ko": "I ate delicious (ごはん).",
+      "ko": "I ate delicious meal.",
       "zh_HK": "飯",
-      "fr": "I ate delicious (ごはん)."
+      "fr": "I ate delicious meal."
     },
     "related": "【名詞・食事】ごはん (日常の飲食物・定番メニュー)"
   },
@@ -12063,12 +12063,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (食べ物).",
+      "en": "I ate delicious food.",
       "zh_TW": "食物",
       "zh_CN": "食物",
-      "ko": "I ate delicious (食べ物).",
+      "ko": "I ate delicious food.",
       "zh_HK": "食物",
-      "fr": "I ate delicious (食べ物)."
+      "fr": "I ate delicious food."
     },
     "related": "【名詞・食事】食べ物 (日常の飲食物・定番メニュー)"
   },
@@ -12091,12 +12091,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (朝ごはん).",
+      "en": "I ate delicious breakfast.",
       "zh_TW": "早餐",
       "zh_CN": "早餐",
-      "ko": "I ate delicious (朝ごはん).",
+      "ko": "I ate delicious breakfast.",
       "zh_HK": "早餐",
-      "fr": "I ate delicious (朝ごはん)."
+      "fr": "I ate delicious breakfast."
     },
     "related": "【名詞・食事】朝ごはん (日常の飲食物・定番メニュー)"
   },
@@ -12119,12 +12119,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (昼ごはん).",
+      "en": "I ate delicious lunch.",
       "zh_TW": "午餐",
       "zh_CN": "午餐",
-      "ko": "I ate delicious (昼ごはん).",
+      "ko": "I ate delicious lunch.",
       "zh_HK": "午餐",
-      "fr": "I ate delicious (昼ごはん)."
+      "fr": "I ate delicious lunch."
     },
     "related": "【名詞・食事】昼ごはん (日常の飲食物・定番メニュー)"
   },
@@ -12147,12 +12147,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>夜<rt>よる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (夜ごはん).",
+      "en": "I ate delicious dinner.",
       "zh_TW": "晚餐",
       "zh_CN": "晚餐",
-      "ko": "I ate delicious (夜ごはん).",
+      "ko": "I ate delicious dinner.",
       "zh_HK": "晚餐",
-      "fr": "I ate delicious (夜ごはん)."
+      "fr": "I ate delicious dinner."
     },
     "related": "【名詞・食事】夜ごはん (日常の飲食物・定番メニュー)"
   },
@@ -12175,12 +12175,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいパンを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (パン).",
+      "en": "I ate delicious bread.",
       "zh_TW": "麵包",
       "zh_CN": "麵包",
-      "ko": "I ate delicious (パン).",
+      "ko": "I ate delicious bread.",
       "zh_HK": "麵包",
-      "fr": "I ate delicious (パン)."
+      "fr": "I ate delicious bread."
     },
     "related": "【名詞・食事】パン (日常の飲食物・定番メニュー)"
   },
@@ -12203,12 +12203,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お弁当).",
+      "en": "I ate delicious bento box.",
       "zh_TW": "便當",
       "zh_CN": "便當",
-      "ko": "I ate delicious (お弁当).",
+      "ko": "I ate delicious bento box.",
       "zh_HK": "便當",
-      "fr": "I ate delicious (お弁当)."
+      "fr": "I ate delicious bento box."
     },
     "related": "【名詞・食事】お弁当 (日常の飲食物・定番メニュー)"
   },
@@ -12231,12 +12231,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>水<rt>みず</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お水).",
+      "en": "I ate delicious fresh water.",
       "zh_TW": "水",
       "zh_CN": "水",
-      "ko": "I ate delicious (お水).",
+      "ko": "I ate delicious fresh water.",
       "zh_HK": "水",
-      "fr": "I ate delicious (お水)."
+      "fr": "I ate delicious fresh water."
     },
     "related": "【名詞・食事】お水 (日常の飲食物・定番メニュー)"
   },
@@ -12259,12 +12259,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お茶).",
+      "en": "I ate delicious green tea.",
       "zh_TW": "茶",
       "zh_CN": "茶",
-      "ko": "I ate delicious (お茶).",
+      "ko": "I ate delicious green tea.",
       "zh_HK": "茶",
-      "fr": "I ate delicious (お茶)."
+      "fr": "I ate delicious green tea."
     },
     "related": "【名詞・食事】お茶 (日常の飲食物・定番メニュー)"
   },
@@ -12287,12 +12287,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (牛乳).",
+      "en": "I ate delicious fresh milk.",
       "zh_TW": "牛奶",
       "zh_CN": "牛奶",
-      "ko": "I ate delicious (牛乳).",
+      "ko": "I ate delicious fresh milk.",
       "zh_HK": "牛奶",
-      "fr": "I ate delicious (牛乳)."
+      "fr": "I ate delicious fresh milk."
     },
     "related": "【名詞・食事】牛乳 (日常の飲食物・定番メニュー)"
   },
@@ -12343,12 +12343,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>酒<rt>さけ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お酒).",
+      "en": "I ate delicious sake.",
       "zh_TW": "酒",
       "zh_CN": "酒",
-      "ko": "I ate delicious (お酒).",
+      "ko": "I ate delicious sake.",
       "zh_HK": "酒",
-      "fr": "I ate delicious (お酒)."
+      "fr": "I ate delicious sake."
     },
     "related": "【名詞・食事】お酒 (日常の飲食物・定番メニュー)"
   },
@@ -12371,12 +12371,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>卵<rt>たまご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (卵).",
+      "en": "I ate delicious eggs.",
       "zh_TW": "雞蛋",
       "zh_CN": "雞蛋",
-      "ko": "I ate delicious (卵).",
+      "ko": "I ate delicious eggs.",
       "zh_HK": "雞蛋",
-      "fr": "I ate delicious (卵)."
+      "fr": "I ate delicious eggs."
     },
     "related": "【名詞・食事】卵 (日常の飲食物・定番メニュー)"
   },
@@ -12399,12 +12399,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>肉<rt>にく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お肉).",
+      "en": "I ate delicious meat.",
       "zh_TW": "肉",
       "zh_CN": "肉",
-      "ko": "I ate delicious (お肉).",
+      "ko": "I ate delicious meat.",
       "zh_HK": "肉",
-      "fr": "I ate delicious (お肉)."
+      "fr": "I ate delicious meat."
     },
     "related": "【名詞・食事】お肉 (日常の飲食物・定番メニュー)"
   },
@@ -12427,12 +12427,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>魚<rt>さかな</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お魚).",
+      "en": "I ate delicious fish.",
       "zh_TW": "魚",
       "zh_CN": "魚",
-      "ko": "I ate delicious (お魚).",
+      "ko": "I ate delicious fish.",
       "zh_HK": "魚",
-      "fr": "I ate delicious (お魚)."
+      "fr": "I ate delicious fish."
     },
     "related": "【名詞・食事】お魚 (日常の飲食物・定番メニュー)"
   },
@@ -12455,12 +12455,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (野菜).",
+      "en": "I ate delicious vegetables.",
       "zh_TW": "蔬菜",
       "zh_CN": "蔬菜",
-      "ko": "I ate delicious (野菜).",
+      "ko": "I ate delicious vegetables.",
       "zh_HK": "蔬菜",
-      "fr": "I ate delicious (野菜)."
+      "fr": "I ate delicious vegetables."
     },
     "related": "【名詞・食事】野菜 (日常の飲食物・定番メニュー)"
   },
@@ -12483,12 +12483,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>果物<rt>くだもの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (果物).",
+      "en": "I ate delicious fruit.",
       "zh_TW": "水果",
       "zh_CN": "水果",
-      "ko": "I ate delicious (果物).",
+      "ko": "I ate delicious fruit.",
       "zh_HK": "水果",
-      "fr": "I ate delicious (果物)."
+      "fr": "I ate delicious fruit."
     },
     "related": "【名詞・食事】果物 (日常の飲食物・定番メニュー)"
   },
@@ -12511,12 +12511,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>米<rt>こめ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (お米).",
+      "en": "I ate delicious rice.",
       "zh_TW": "米",
       "zh_CN": "米",
-      "ko": "I ate delicious (お米).",
+      "ko": "I ate delicious rice.",
       "zh_HK": "米",
-      "fr": "I ate delicious (お米)."
+      "fr": "I ate delicious rice."
     },
     "related": "【名詞・食事】お米 (日常の飲食物・定番メニュー)"
   },
@@ -12539,12 +12539,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>玉<rt>たま</rt></ruby>ねぎを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (玉ねぎ).",
+      "en": "I ate delicious onions.",
       "zh_TW": "洋蔥",
       "zh_CN": "洋蔥",
-      "ko": "I ate delicious (玉ねぎ).",
+      "ko": "I ate delicious onions.",
       "zh_HK": "洋蔥",
-      "fr": "I ate delicious (玉ねぎ)."
+      "fr": "I ate delicious onions."
     },
     "related": "【名詞・食事】玉ねぎ (日常の飲食物・定番メニュー)"
   },
@@ -12567,12 +12567,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>人参<rt>にんじん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (人参).",
+      "en": "I ate delicious carrots.",
       "zh_TW": "紅蘿蔔",
       "zh_CN": "紅蘿蔔",
-      "ko": "I ate delicious (人参).",
+      "ko": "I ate delicious carrots.",
       "zh_HK": "紅蘿蔔",
-      "fr": "I ate delicious (人参)."
+      "fr": "I ate delicious carrots."
     },
     "related": "【名詞・食事】人参 (日常の飲食物・定番メニュー)"
   },
@@ -12595,12 +12595,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいきゅうりを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (きゅうり).",
+      "en": "I ate delicious cucumbers.",
       "zh_TW": "小黃瓜",
       "zh_CN": "小黃瓜",
-      "ko": "I ate delicious (きゅうり).",
+      "ko": "I ate delicious cucumbers.",
       "zh_HK": "小黃瓜",
-      "fr": "I ate delicious (きゅうり)."
+      "fr": "I ate delicious cucumbers."
     },
     "related": "【名詞・食事】きゅうり (日常の飲食物・定番メニュー)"
   },
@@ -12623,12 +12623,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>鮭<rt>さけ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (鮭).",
+      "en": "I ate delicious salmon.",
       "zh_TW": "鮭魚",
       "zh_CN": "鮭魚",
-      "ko": "I ate delicious (鮭).",
+      "ko": "I ate delicious salmon.",
       "zh_HK": "鮭魚",
-      "fr": "I ate delicious (鮭)."
+      "fr": "I ate delicious salmon."
     },
     "related": "【名詞・食事】鮭 (日常の飲食物・定番メニュー)"
   },
@@ -12651,12 +12651,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>海老<rt>えび</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (海老).",
+      "en": "I ate delicious shrimp.",
       "zh_TW": "蝦子",
       "zh_CN": "蝦子",
-      "ko": "I ate delicious (海老).",
+      "ko": "I ate delicious shrimp.",
       "zh_HK": "蝦子",
-      "fr": "I ate delicious (海老)."
+      "fr": "I ate delicious shrimp."
     },
     "related": "【名詞・食事】海老 (日常の飲食物・定番メニュー)"
   },
@@ -12679,12 +12679,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (牛肉).",
+      "en": "I ate delicious beef.",
       "zh_TW": "牛肉",
       "zh_CN": "牛肉",
-      "ko": "I ate delicious (牛肉).",
+      "ko": "I ate delicious beef.",
       "zh_HK": "牛肉",
-      "fr": "I ate delicious (牛肉)."
+      "fr": "I ate delicious beef."
     },
     "related": "【名詞・食事】牛肉 (日常の飲食物・定番メニュー)"
   },
@@ -12707,12 +12707,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>豚肉<rt>ぶたにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (豚肉).",
+      "en": "I ate delicious pork.",
       "zh_TW": "豬肉",
       "zh_CN": "豬肉",
-      "ko": "I ate delicious (豚肉).",
+      "ko": "I ate delicious pork.",
       "zh_HK": "豬肉",
-      "fr": "I ate delicious (豚肉)."
+      "fr": "I ate delicious pork."
     },
     "related": "【名詞・食事】豚肉 (日常の飲食物・定番メニュー)"
   },
@@ -12735,12 +12735,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (鶏肉).",
+      "en": "I ate delicious chicken.",
       "zh_TW": "雞肉",
       "zh_CN": "雞肉",
-      "ko": "I ate delicious (鶏肉).",
+      "ko": "I ate delicious chicken.",
       "zh_HK": "雞肉",
-      "fr": "I ate delicious (鶏肉)."
+      "fr": "I ate delicious chicken."
     },
     "related": "【名詞・食事】鶏肉 (日常の飲食物・定番メニュー)"
   },
@@ -12763,12 +12763,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>苺<rt>いちご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (苺).",
+      "en": "I ate delicious strawberries.",
       "zh_TW": "草莓",
       "zh_CN": "草莓",
-      "ko": "I ate delicious (苺).",
+      "ko": "I ate delicious strawberries.",
       "zh_HK": "草莓",
-      "fr": "I ate delicious (苺)."
+      "fr": "I ate delicious strawberries."
     },
     "related": "【名詞・食事】苺 (日常の飲食物・定番メニュー)"
   },
@@ -12819,12 +12819,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいももを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (もも).",
+      "en": "I ate delicious peaches.",
       "zh_TW": "桃子",
       "zh_CN": "桃子",
-      "ko": "I ate delicious (もも).",
+      "ko": "I ate delicious peaches.",
       "zh_HK": "桃子",
-      "fr": "I ate delicious (もも)."
+      "fr": "I ate delicious peaches."
     },
     "related": "【名詞・食事】もも (日常の飲食物・定番メニュー)"
   },
@@ -12847,12 +12847,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>美味<rt>おい</rt></ruby>しいみかんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (みかん).",
+      "en": "I ate delicious mandarin oranges.",
       "zh_TW": "橘子",
       "zh_CN": "橘子",
-      "ko": "I ate delicious (みかん).",
+      "ko": "I ate delicious mandarin oranges.",
       "zh_HK": "橘子",
-      "fr": "I ate delicious (みかん)."
+      "fr": "I ate delicious mandarin oranges."
     },
     "related": "【名詞・食事】みかん (日常の飲食物・定番メニュー)"
   },
