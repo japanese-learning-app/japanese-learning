@@ -3632,9 +3632,7 @@
     const navStudyLabel = document.getElementById('navStudyLabel');
     if (navStudyLabel) navStudyLabel.textContent = isJa ? 'フラッシュカード' : 'Flashcards';
     const navQuizLabel = document.getElementById('navQuizLabel');
-    if (navQuizLabel) navQuizLabel.textContent = isJa ? 'クイズ' : 'Quiz';
-    const navTestLabel = document.getElementById('navTestLabel');
-    if (navTestLabel) navTestLabel.textContent = isJa ? 'テスト' : 'Test';
+    if (navQuizLabel) navQuizLabel.textContent = isJa ? 'Quiz / Test' : 'Quiz / Test';
     const navMylistLabel = document.getElementById('navMylistLabel');
     if (navMylistLabel) navMylistLabel.textContent = isJa ? 'マイリスト' : 'My List';
     const navJlptLabel = document.getElementById('navJlptLabel');
@@ -6814,9 +6812,6 @@
     const btnModeTest = document.getElementById('btnModeTest');
     const testTypeContainer = document.getElementById('testTypeSelectorContainer');
     const quizBadgeTitle = document.getElementById('quizBadgeTitle');
-    const navQuiz = document.getElementById('navQuiz');
-    const navTest = document.getElementById('navTest');
-
     const inactivePill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 text-slate-500 hover:text-darkNavyText';
     const activeQuizPill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 bg-white text-darkNavyText shadow-2xs';
     const activeTestPill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 bg-teal-700 text-white shadow-2xs';
@@ -6829,8 +6824,6 @@
         quizBadgeTitle.textContent = (currentLang === 'ja') ? '実践テスト' : 'Practice Test';
         quizBadgeTitle.className = 'text-xs font-black text-teal-800 px-2.5 py-0.5 bg-teal-50 border border-teal-200 rounded-full';
       }
-      if (navQuiz) navQuiz.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
-      if (navTest) navTest.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-teal-700 flex items-center justify-center space-x-1 transition shadow-xs shrink-0 font-black';
     } else {
       if (btnModeQuiz) btnModeQuiz.className = activeQuizPill;
       if (btnModeTest) btnModeTest.className = inactivePill;
@@ -6839,8 +6832,6 @@
         quizBadgeTitle.textContent = (currentLang === 'ja') ? '単語クイズ' : 'Review Quiz';
         quizBadgeTitle.className = 'text-xs font-bold text-deepNavy px-2.5 py-0.5 bg-lightBlueBg rounded-full';
       }
-      if (navQuiz) navQuiz.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0';
-      if (navTest) navTest.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-teal-700 bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
     }
   }
 
@@ -8570,17 +8561,14 @@
 
     const navStudy = document.getElementById('navStudy');
     const navQuiz = document.getElementById('navQuiz');
-    const navTest = document.getElementById('navTest');
     const navMylist = document.getElementById('navMylist');
     const navJlpt = document.getElementById('navJlpt');
 
-    const inactiveClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
-    const activeClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0';
-    const activeTestClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-teal-700 flex items-center justify-center space-x-1 transition shadow-xs shrink-0 font-bold';
+    const inactiveClass = 'flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1.5 transition shrink-0';
+    const activeClass = 'flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1.5 transition shadow-xs shrink-0';
 
     if (navStudy) navStudy.className = (viewName === 'flashcards') ? activeClass : inactiveClass;
-    if (navQuiz) navQuiz.className = (viewName === 'quiz') ? activeClass : inactiveClass;
-    if (navTest) navTest.className = (viewName === 'test') ? activeTestClass : inactiveClass;
+    if (navQuiz) navQuiz.className = (viewName === 'quiz' || viewName === 'test') ? activeClass : inactiveClass;
     if (navMylist) navMylist.className = (viewName === 'mylist') ? activeClass : inactiveClass;
     if (navJlpt) navJlpt.className = (viewName === 'jlpt') ? activeClass : inactiveClass;
 
@@ -8641,10 +8629,6 @@
       switchView('flashcards');
     });
     document.getElementById('navQuiz').addEventListener('click', () => switchView('quiz'));
-    const navTestEl = document.getElementById('navTest');
-    if (navTestEl) {
-      navTestEl.addEventListener('click', () => switchView('test'));
-    }
     document.getElementById('navMylist').addEventListener('click', () => switchView('mylist'));
     const navJlptEl = document.getElementById('navJlpt');
     if (navJlptEl) {

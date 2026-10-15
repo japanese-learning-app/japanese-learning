@@ -465,25 +465,21 @@
     </div>
   </header>
 
-  <!-- Navigation Tabs (Flashcards, Quiz, Test, My List, JLPT) -->
-  <nav class="bg-white/80 backdrop-blur-sm border-b border-softBorder px-2 sm:px-3 py-1.5 flex justify-center text-xs font-bold text-slate-600 gap-1 sm:gap-2 max-w-5xl mx-auto w-full overflow-x-auto no-scrollbar">
-    <button id="navStudy" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0">
+  <!-- Navigation Tabs (Flashcards, Quiz/Test, My List, JLPT) -->
+  <nav class="bg-white/80 backdrop-blur-sm border-b border-softBorder px-2 sm:px-3 py-1.5 flex justify-center text-xs font-bold text-slate-600 gap-1.5 sm:gap-2 max-w-4xl mx-auto w-full overflow-x-auto no-scrollbar">
+    <button id="navStudy" class="flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0">
       <i data-lucide="layers" class="w-3.5 h-3.5"></i>
-      <span id="navStudyLabel">カード</span>
+      <span id="navStudyLabel">フラッシュカード</span>
     </button>
-    <button id="navQuiz" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
-      <i data-lucide="help-circle" class="w-3.5 h-3.5"></i>
-      <span id="navQuizLabel">クイズ</span>
+    <button id="navQuiz" class="flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1.5 transition shrink-0">
+      <i data-lucide="help-circle" class="w-3.5 h-3.5 text-deepNavy"></i>
+      <span id="navQuizLabel">Quiz / Test</span>
     </button>
-    <button id="navTest" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-teal-700 bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
-      <i data-lucide="clipboard-check" class="w-3.5 h-3.5 text-teal-600"></i>
-      <span id="navTestLabel">テスト</span>
-    </button>
-    <button id="navMylist" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
+    <button id="navMylist" class="flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
       <i data-lucide="star" class="w-3.5 h-3.5 text-coralPink"></i>
       <span><span id="navMylistLabel">マイリス</span> (<span id="mylistCountBadge">0</span>)</span>
     </button>
-    <button id="navJlpt" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
+    <button id="navJlpt" class="flex-1 max-w-[150px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
       <i data-lucide="book-open" class="w-3.5 h-3.5 text-teal-600"></i>
       <span id="navJlptLabel">JLPT</span>
     </button>
@@ -1637,7 +1633,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261015_2030"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261015_2245"></script>
+  <script src="js/app.js?v=20261015_2250"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
