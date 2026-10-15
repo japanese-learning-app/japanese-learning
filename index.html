@@ -1065,9 +1065,20 @@
           </div>
 
           <!-- Execute Import Button directly below Paste Area -->
-          <button id="btnExecuteImport" class="w-full py-2.5 rounded-full bg-deepNavy text-white font-bold text-xs shadow-xs transition hover:opacity-90 mb-4">
+          <button id="btnExecuteImport" class="w-full py-2.5 rounded-full bg-deepNavy text-white font-bold text-xs shadow-xs transition hover:opacity-90 mb-3">
             デッキに一括追加する
           </button>
+
+          <!-- Import Result Banner (先生が管理画面にいながら生徒の画面を即確認できる) -->
+          <div id="adminImportResultBanner" class="hidden mb-3 p-3 rounded-2xl bg-emerald-50 border border-emerald-200 flex items-center justify-between text-xs">
+            <div class="flex items-center space-x-1.5 text-emerald-800 font-bold min-w-0 pr-2">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600 shrink-0"></i>
+              <span id="adminImportResultText" class="truncate">追加完了しました</span>
+            </div>
+            <button id="btnAdminViewStudentMylist" class="shrink-0 px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded-full text-[11px] font-bold shadow-2xs transition">
+              確認する ↗
+            </button>
+          </div>
 
           <!-- Student PIN management -->
           <div class="p-2 sm:p-2.5 rounded-2xl bg-lightBlueBg/30 border border-softBorder mb-2">
@@ -1537,7 +1548,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261015_2030"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261015_2030"></script>
+  <script src="js/app.js?v=20261015_2035"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();

@@ -7951,15 +7951,36 @@
       document.getElementById('adminImportText').value = '';
       populateCategoryTabs();
       updateActiveDeck();
-      // If target was a specific student, switch to that student to immediately show the imported deck!
-      if (target && target !== 'all' && targetStudentObj) {
-        setStudent(targetStudentObj);
-        switchView('mylist');
-        showToast(`生徒「${targetStudentObj.name}」のマイリストに${addedCount}件を追加しました！🌸`);
-      } else {
-        loadMylistForCurrentStudent();
-        switchView('mylist');
-        showToast(`${addedCount}件の単語を追加し、マイリストに反映しました！⭐`);
+
+      const successMsg = (target && target !== 'all' && targetStudentObj)
+        ? `生徒「${targetStudentObj.name}」のマイリストに${addedCount}件を追加しました！🌸`
+        : `${addedCount}件の単語を追加し、マイリストに反映しました！⭐`;
+      showToast(successMsg);
+
+      // インポート完了バナーの表示（先生は管理画面のまま連続作業でき、ワンクリックで生徒の画面を確認可能）
+      const banner = document.getElementById('adminImportResultBanner');
+      const bannerText = document.getElementById('adminImportResultText');
+      const bannerBtn = document.getElementById('btnAdminViewStudentMylist');
+      if (banner && bannerText && bannerBtn) {
+        bannerText.textContent = successMsg;
+        banner.classList.remove('hidden');
+        if (target && target !== 'all' && targetStudentObj) {
+          bannerBtn.textContent = `生徒「${targetStudentObj.name}」の画面で確認 ↗`;
+          bannerBtn.onclick = () => {
+            setStudent(targetStudentObj);
+            switchView('mylist');
+          };
+          bannerBtn.classList.remove('hidden');
+        } else {
+          bannerBtn.textContent = 'マイリストを確認 ↗';
+          bannerBtn.onclick = () => {
+            switchView('mylist');
+          };
+          bannerBtn.classList.remove('hidden');
+        }
+      }
+      if (typeof renderAdminStudentList === 'function') {
+        renderAdminStudentList();
       }
     } else {
       showToast('フォーマットを認識できませんでした');
