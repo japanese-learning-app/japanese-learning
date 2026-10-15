@@ -3632,7 +3632,9 @@
     const navStudyLabel = document.getElementById('navStudyLabel');
     if (navStudyLabel) navStudyLabel.textContent = isJa ? 'フラッシュカード' : 'Flashcards';
     const navQuizLabel = document.getElementById('navQuizLabel');
-    if (navQuizLabel) navQuizLabel.textContent = isJa ? 'テスト' : 'Quiz / Test';
+    if (navQuizLabel) navQuizLabel.textContent = isJa ? 'クイズ' : 'Quiz';
+    const navTestLabel = document.getElementById('navTestLabel');
+    if (navTestLabel) navTestLabel.textContent = isJa ? 'テスト' : 'Test';
     const navMylistLabel = document.getElementById('navMylistLabel');
     if (navMylistLabel) navMylistLabel.textContent = isJa ? 'マイリスト' : 'My List';
     const navJlptLabel = document.getElementById('navJlptLabel');
@@ -3712,7 +3714,17 @@
 
     // 9. Quiz View
     const quizBadgeTitle = document.getElementById('quizBadgeTitle');
-    if (quizBadgeTitle) quizBadgeTitle.textContent = isJa ? '復習テスト' : 'Review Quiz';
+    if (quizBadgeTitle) {
+      if (currentQuizMode === 'test') {
+        quizBadgeTitle.textContent = isJa ? '実践テスト' : 'Practice Test';
+      } else {
+        quizBadgeTitle.textContent = isJa ? '単語クイズ' : 'Review Quiz';
+      }
+    }
+    const modeQuizLabel = document.getElementById('modeQuizLabel');
+    if (modeQuizLabel) modeQuizLabel.textContent = isJa ? '単語クイズ' : 'Word Quiz';
+    const modeTestLabel = document.getElementById('modeTestLabel');
+    if (modeTestLabel) modeTestLabel.textContent = isJa ? '実践テスト' : 'Practice Test';
     const quizScopeLabel = document.getElementById('quizScopeLabel');
     if (quizScopeLabel) quizScopeLabel.textContent = isJa ? '出題範囲を選択:' : 'Select Quiz Range:';
     const btnQuizScopeCur = document.getElementById('btnQuizScopeCurrent');
@@ -6593,8 +6605,219 @@
     }
   }
 
-  // --- Quiz Mode Logic ---
+  // --- Quiz & Test Mode Logic ---
+  let currentQuizMode = 'quiz'; // 'quiz' (単語クイズ) or 'test' (実践テスト)
+  let currentTestSubtype = 'all'; // 'all' (A+B), 'fillblank' (A: 穴埋め), 'conjugation' (B: 活用)
+  let isMultilingualEnabled = (localStorage.getItem('haku_multilingual_quiz') !== 'false'); // true (ON) by default
+  let currentQuestionMeta = null; // Stores question metadata for answer feedback
   let quizQuestionLimit = 10; // 10, 20, 30, or 99999 ('all')
+
+  // Conjugates Japanese verbs into standard forms (Godan, Ichidan, Suru, Kuru)
+  function conjugateJapaneseVerb(dictForm, reading, category) {
+    if (!dictForm) return null;
+    dictForm = dictForm.trim();
+    dictForm = dictForm.replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
+
+    if (dictForm === 'する' || dictForm.endsWith('する') || (category && category.includes('する動詞'))) {
+      const base = dictForm.endsWith('する') ? dictForm.slice(0, -2) : dictForm;
+      return {
+        dict: base + 'する',
+        masu: base + 'します',
+        nai: base + 'しない',
+        te: base + 'して',
+        ta: base + 'した',
+        pot: base + 'できる',
+        group: '3グループ (サ変)'
+      };
+    }
+    if (dictForm === '来る' || dictForm === 'くる') {
+      return {
+        dict: '来る',
+        masu: '来ます',
+        nai: '来ない',
+        te: '来て',
+        ta: '来た',
+        pot: '来られる',
+        group: '3グループ (カ変)'
+      };
+    }
+    if (dictForm === '行く' || dictForm === 'いく') {
+      return {
+        dict: '行く',
+        masu: '行きます',
+        nai: '行かない',
+        te: '行って',
+        ta: '行った',
+        pot: '行ける',
+        group: '1グループ (五段)'
+      };
+    }
+
+    const ichidanPrefixes = ['食べ', '見', '寝', '起き', '開け', '閉め', '教え', '答', '着', '出', '借', '忘', '変え', '助け', '覚'];
+    const isIchidanExplicit = ichidanPrefixes.some(p => dictForm.startsWith(p));
+    const endsWithRu = dictForm.endsWith('る');
+    const secondLast = dictForm.length >= 2 ? dictForm[dictForm.length - 2] : '';
+    const isIorE = /[いきしちにひみりえけせてねべめれ]/.test(secondLast);
+    const godanExceptions = ['作る', '帰る', '入る', '走る', '知る', '切る', '要る', '限る', '喋る', '減る', '滑る'];
+    const isGodanException = godanExceptions.some(g => dictForm.endsWith(g));
+    
+    const isIchidan = (isIchidanExplicit || (endsWithRu && isIorE)) && !isGodanException;
+
+    if (isIchidan && endsWithRu) {
+      const stem = dictForm.slice(0, -1);
+      return {
+        dict: dictForm,
+        masu: stem + 'ます',
+        nai: stem + 'ない',
+        te: stem + 'て',
+        ta: stem + 'た',
+        pot: stem + 'られる',
+        group: '2グループ (一段)'
+      };
+    }
+
+    const last = dictForm[dictForm.length - 1];
+    const stem = dictForm.slice(0, -1);
+    const godanMap = {
+      'う': { nai: 'わない', masu: 'います', pot: 'える', te: 'って', ta: 'った' },
+      'く': { nai: 'かない', masu: 'きます', pot: 'ける', te: 'いて', ta: 'いた' },
+      'ぐ': { nai: 'がない', masu: 'ぎます', pot: 'げる', te: 'いで', ta: 'いだ' },
+      'す': { nai: 'さない', masu: 'します', pot: 'せる', te: 'して', ta: 'した' },
+      'つ': { nai: 'たない', masu: 'ちます', pot: 'てる', te: 'って', ta: 'った' },
+      'ぬ': { nai: 'なない', masu: 'にます', pot: 'ねる', te: 'んで', ta: 'んだ' },
+      'ぶ': { nai: 'ばない', masu: 'びます', pot: 'べる', te: 'んで', ta: 'んだ' },
+      'む': { nai: 'まない', masu: 'みます', pot: 'める', te: 'んで', ta: 'んだ' },
+      'る': { nai: 'らない', masu: 'ります', pot: 'れる', te: 'って', ta: 'った' },
+    };
+
+    if (godanMap[last]) {
+      const m = godanMap[last];
+      return {
+        dict: dictForm,
+        masu: stem + m.masu,
+        nai: stem + m.nai,
+        te: stem + m.te,
+        ta: stem + m.ta,
+        pot: stem + m.pot,
+        group: '1グループ (五段)'
+      };
+    }
+    return null;
+  }
+
+  // Resolves the dictionary form of a conjugated verb
+  function getBaseVerbFromConjugated(word, category) {
+    if (!word) return '';
+    word = word.replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
+    
+    if (word.endsWith('しない')) return word.slice(0, -3) + 'する';
+    if (word === '来ない' || word === 'こない') return '来る';
+    if (word === '行かない' || word === 'いかない') return '行く';
+    
+    if (word.endsWith('ない')) {
+      const stem = word.slice(0, -2);
+      const ichidanCandidate = stem + 'る';
+      const c1 = conjugateJapaneseVerb(ichidanCandidate);
+      if (c1 && c1.nai === word) return ichidanCandidate;
+      
+      const aToU = { 'わ': 'う', 'か': 'く', 'が': 'ぐ', 'さ': 'す', 'た': 'つ', 'な': 'ぬ', 'ば': 'ぶ', 'ま': 'む', 'ら': 'る' };
+      const lastChar = stem[stem.length - 1];
+      if (aToU[lastChar]) {
+        return stem.slice(0, -1) + aToU[lastChar];
+      }
+    }
+    if (word.endsWith('して')) return word.slice(0, -2) + 'する';
+    if (word === '来て' || word === 'きて') return '来る';
+    if (word === '行って' || word === 'いって') return '行く';
+    if (word.endsWith('て') || word.endsWith('で')) {
+      const pool = (window.INITIAL_VOCAB_DATA || []);
+      const found = pool.find(c => {
+        const conj = conjugateJapaneseVerb(c.word);
+        return conj && conj.te === word;
+      });
+      if (found) return found.word;
+    }
+    return word;
+  }
+
+  // Masks the target word in a ruby-tagged Japanese example sentence
+  function maskTargetWordInSentence(sentenceHtml, word) {
+    if (!sentenceHtml || !word) return sentenceHtml || '';
+    const cleanWord = word.replace(/<rt>[^<]*<\/rt>/g, '').replace(/<\/?ruby>/g, '').trim();
+    const blankHtml = '<span class="quiz-blank-slot inline-block px-3 py-0.5 mx-1 rounded-lg bg-amber-100 text-amber-900 border-2 border-amber-300 font-black shadow-inner">［　？　］</span>';
+
+    if (sentenceHtml.includes(word)) {
+      return sentenceHtml.replace(word, blankHtml);
+    }
+    try {
+      const patternParts = [];
+      for (const ch of cleanWord) {
+        if (ch >= '\u4e00' && ch <= '\u9fff') {
+          patternParts.push(`(?:<ruby>${ch}<rt>[^<]*<\\/rt><\\/ruby>|${ch})`);
+        } else {
+          patternParts.push(ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        }
+      }
+      const regex = new RegExp(patternParts.join(''), '');
+      if (regex.test(sentenceHtml)) {
+        return sentenceHtml.replace(regex, blankHtml);
+      }
+    } catch(e) {}
+    return sentenceHtml;
+  }
+
+  function updateMultilingualButtonUI() {
+    const btn = document.getElementById('btnToggleMultilingual');
+    const dot = document.getElementById('multilingualToggleDot');
+    const text = document.getElementById('multilingualToggleText');
+    if (!btn || !dot || !text) return;
+    const isJa = (currentLang === 'ja');
+    if (isMultilingualEnabled) {
+      btn.className = 'py-0.5 px-2.5 rounded-full text-[10px] font-extrabold transition shadow-2xs flex items-center space-x-1.5 bg-emerald-100 text-emerald-800 border border-emerald-300 active:scale-95';
+      dot.className = 'w-1.5 h-1.5 rounded-full bg-emerald-500 inline-block';
+      text.textContent = isJa ? 'ON（表示）' : 'ON (Show)';
+    } else {
+      btn.className = 'py-0.5 px-2.5 rounded-full text-[10px] font-extrabold transition shadow-2xs flex items-center space-x-1.5 bg-slate-100 text-slate-600 border border-slate-300 active:scale-95';
+      dot.className = 'w-1.5 h-1.5 rounded-full bg-slate-400 inline-block';
+      text.textContent = isJa ? 'OFF（非表示）' : 'OFF (Hide)';
+    }
+  }
+
+  function setQuizMode(mode) {
+    currentQuizMode = (mode === 'test') ? 'test' : 'quiz';
+    const btnModeQuiz = document.getElementById('btnModeQuiz');
+    const btnModeTest = document.getElementById('btnModeTest');
+    const testTypeContainer = document.getElementById('testTypeSelectorContainer');
+    const quizBadgeTitle = document.getElementById('quizBadgeTitle');
+    const navQuiz = document.getElementById('navQuiz');
+    const navTest = document.getElementById('navTest');
+
+    const inactivePill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 text-slate-500 hover:text-darkNavyText';
+    const activeQuizPill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 bg-white text-darkNavyText shadow-2xs';
+    const activeTestPill = 'flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 bg-teal-700 text-white shadow-2xs';
+
+    if (currentQuizMode === 'test') {
+      if (btnModeQuiz) btnModeQuiz.className = inactivePill;
+      if (btnModeTest) btnModeTest.className = activeTestPill;
+      if (testTypeContainer) testTypeContainer.classList.remove('hidden');
+      if (quizBadgeTitle) {
+        quizBadgeTitle.textContent = (currentLang === 'ja') ? '実践テスト' : 'Practice Test';
+        quizBadgeTitle.className = 'text-xs font-black text-teal-800 px-2.5 py-0.5 bg-teal-50 border border-teal-200 rounded-full';
+      }
+      if (navQuiz) navQuiz.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
+      if (navTest) navTest.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-teal-700 flex items-center justify-center space-x-1 transition shadow-xs shrink-0 font-black';
+    } else {
+      if (btnModeQuiz) btnModeQuiz.className = activeQuizPill;
+      if (btnModeTest) btnModeTest.className = inactivePill;
+      if (testTypeContainer) testTypeContainer.classList.add('hidden');
+      if (quizBadgeTitle) {
+        quizBadgeTitle.textContent = (currentLang === 'ja') ? '単語クイズ' : 'Review Quiz';
+        quizBadgeTitle.className = 'text-xs font-bold text-deepNavy px-2.5 py-0.5 bg-lightBlueBg rounded-full';
+      }
+      if (navQuiz) navQuiz.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0';
+      if (navTest) navTest.className = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-teal-700 bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
+    }
+  }
 
   function getEffectiveQuizLimit() {
     if (quizQuestionLimit === 'all' || quizQuestionLimit >= 9999) {
@@ -6633,6 +6856,7 @@
   }
 
   function startQuiz() {
+    setQuizMode(currentQuizMode);
     let sourcePool = [];
 
     if (quizScope === 'all') {
@@ -6712,21 +6936,19 @@
 
     quizCurrentQuestion = quizPool[quizIndex];
     document.getElementById('quizScoreBadge').textContent = `Question ${quizIndex + 1} / ${effectiveLimit}`;
+    updateMultilingualButtonUI();
     
-    // Meaning in current language (必ず母国語 & 英語)
     const meaning = getBilingualMeaning(quizCurrentQuestion.meaning, currentLang);
-    document.getElementById('quizQuestionText').textContent = meaning;
-    document.getElementById('quizQuestionHint').textContent = quizCurrentQuestion.category || 'General';
+    const isJa = (currentLang === 'ja');
 
-    // Distractor candidates pool
-    const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
-    const distractorCandidates = candidatePool
-      .filter(c => c && c.id !== quizCurrentQuestion.id && (c.reading || c.word))
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 3);
-    
-    const choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
-
+    const promptEl = document.getElementById('quizQuestionPrompt');
+    const textEl = document.getElementById('quizQuestionText');
+    const hintEl = document.getElementById('quizQuestionHint');
+    const typeBadgeContainer = document.getElementById('quizQuestionTypeBadgeContainer');
+    const typeBadge = document.getElementById('quizQuestionTypeBadge');
+    const sentenceBox = document.getElementById('quizSentenceBox');
+    const sentenceText = document.getElementById('quizSentenceText');
+    const sentenceTrans = document.getElementById('quizSentenceTrans');
     const container = document.getElementById('quizChoicesContainer');
     container.innerHTML = '';
 
@@ -6740,18 +6962,200 @@
 
     let hasAnsweredThisQuestion = false;
 
+    // Determine Question Type
+    const isTestMode = (currentQuizMode === 'test');
+    let chosenTestType = isTestMode ? currentTestSubtype : 'quiz';
+    const baseVerb = getBaseVerbFromConjugated(quizCurrentQuestion.word, quizCurrentQuestion.category);
+    const hasVerbConjugation = !!(baseVerb && (baseVerb !== quizCurrentQuestion.word || (quizCurrentQuestion.category && (quizCurrentQuestion.category.includes('動詞') || quizCurrentQuestion.category.includes('form') || quizCurrentQuestion.category.includes('形')))));
+    const hasSentence = !!(quizCurrentQuestion.example && quizCurrentQuestion.example.ja);
+
+    if (isTestMode) {
+      if (chosenTestType === 'all') {
+        chosenTestType = (hasVerbConjugation && Math.random() < 0.5) ? 'conjugation' : 'fillblank';
+      }
+      if (chosenTestType === 'conjugation' && !hasVerbConjugation) {
+        chosenTestType = 'fillblank'; // fallback if no conjugation available
+      }
+    }
+
+    let choices = [];
+    currentQuestionMeta = {
+      mode: currentQuizMode,
+      type: chosenTestType,
+      baseWord: baseVerb || quizCurrentQuestion.word,
+      targetCard: quizCurrentQuestion,
+      bilingualMeaning: meaning,
+      sentenceHtml: quizCurrentQuestion.example ? quizCurrentQuestion.example.ja : '',
+      sentenceTrans: quizCurrentQuestion.example ? (quizCurrentQuestion.example[currentLang] || quizCurrentQuestion.example.en || '') : ''
+    };
+
+    if (isTestMode && chosenTestType === 'fillblank') {
+      // ===== TYPE A: 例文 穴埋めテスト =====
+      if (typeBadgeContainer) {
+        typeBadgeContainer.classList.remove('hidden');
+        if (typeBadge) typeBadge.innerHTML = '<i data-lucide="book-open" class="w-3 h-3 text-teal-600"></i><span>A: 例文 穴埋めテスト (Fill-in-the-blank)</span>';
+      }
+      if (sentenceBox) {
+        sentenceBox.classList.remove('hidden');
+        if (sentenceText) sentenceText.innerHTML = maskTargetWordInSentence(quizCurrentQuestion.example ? quizCurrentQuestion.example.ja : '', quizCurrentQuestion.word);
+        if (sentenceTrans) {
+          if (isMultilingualEnabled && currentQuestionMeta.sentenceTrans) {
+            sentenceTrans.textContent = currentQuestionMeta.sentenceTrans;
+            sentenceTrans.classList.remove('hidden');
+          } else {
+            sentenceTrans.classList.add('hidden');
+          }
+        }
+      }
+
+      if (promptEl) promptEl.textContent = isJa ? '文脈に合う最も適切な言葉を選んでください' : 'Select the best word/form that fits the sentence';
+      if (textEl) {
+        textEl.textContent = isMultilingualEnabled 
+          ? `( ${currentQuestionMeta.baseWord} / ${meaning} )` 
+          : `( ${currentQuestionMeta.baseWord} )`;
+      }
+      if (hintEl) hintEl.textContent = quizCurrentQuestion.category || '文脈穴埋め';
+
+      // Build Choices for Type A
+      if (hasVerbConjugation) {
+        const conj = conjugateJapaneseVerb(currentQuestionMeta.baseWord, quizCurrentQuestion.reading, quizCurrentQuestion.category);
+        if (conj) {
+          const formCandidates = [
+            { id: quizCurrentQuestion.id, word: quizCurrentQuestion.word, reading: quizCurrentQuestion.reading || '', meaning: quizCurrentQuestion.meaning, formLabel: '正解' },
+            { id: 'f_masu', word: conj.masu, reading: '', meaning: { en: 'masu-form' }, formLabel: 'ます形' },
+            { id: 'f_nai', word: conj.nai, reading: '', meaning: { en: 'nai-form' }, formLabel: 'ない形' },
+            { id: 'f_te', word: conj.te, reading: '', meaning: { en: 'te-form' }, formLabel: 'て形' },
+            { id: 'f_dict', word: conj.dict, reading: '', meaning: { en: 'dictionary-form' }, formLabel: '辞書形' },
+            { id: 'f_pot', word: conj.pot, reading: '', meaning: { en: 'potential-form' }, formLabel: '可能形' }
+          ];
+          const uniqueWords = new Set([quizCurrentQuestion.word]);
+          const selectedForms = [{ id: quizCurrentQuestion.id, word: quizCurrentQuestion.word, reading: quizCurrentQuestion.reading || '', meaning: quizCurrentQuestion.meaning, formLabel: '正解' }];
+          formCandidates.forEach(fc => {
+            if (!uniqueWords.has(fc.word) && selectedForms.length < 4) {
+              uniqueWords.add(fc.word);
+              selectedForms.push(fc);
+            }
+          });
+          choices = selectedForms.sort(() => Math.random() - 0.5);
+        }
+      }
+      if (choices.length < 4) {
+        const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
+        const distractorCandidates = candidatePool
+          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word))
+          .sort(() => Math.random() - 0.5)
+          .slice(0, 4 - choices.length);
+        choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+      }
+
+    } else if (isTestMode && chosenTestType === 'conjugation') {
+      // ===== TYPE B: 活用・文法変換テスト =====
+      if (typeBadgeContainer) {
+        typeBadgeContainer.classList.remove('hidden');
+        if (typeBadge) typeBadge.innerHTML = '<i data-lucide="shuffle" class="w-3 h-3 text-teal-600"></i><span>B: 活用・文法変換テスト (Conjugation Form)</span>';
+      }
+      if (sentenceBox) sentenceBox.classList.add('hidden');
+
+      const conj = conjugateJapaneseVerb(currentQuestionMeta.baseWord, quizCurrentQuestion.reading, quizCurrentQuestion.category);
+      let targetFormName = 'ない形（否定）';
+      let wrongPattern = currentQuestionMeta.baseWord + 'ない';
+
+      if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('てform') || quizCurrentQuestion.word.endsWith('て') || quizCurrentQuestion.word.endsWith('で')) {
+        targetFormName = 'て形';
+        wrongPattern = currentQuestionMeta.baseWord.slice(0, -1) + 'りて';
+      } else if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('可能形')) {
+        targetFormName = '可能形（できる）';
+        wrongPattern = currentQuestionMeta.baseWord + 'られる';
+      } else if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('ないform') || quizCurrentQuestion.word.endsWith('ない')) {
+        targetFormName = 'ない形（否定）';
+        wrongPattern = currentQuestionMeta.baseWord + 'ない';
+      } else {
+        targetFormName = 'ます形';
+        wrongPattern = currentQuestionMeta.baseWord + 'ます';
+      }
+      currentQuestionMeta.formName = targetFormName;
+
+      if (promptEl) {
+        promptEl.textContent = isJa 
+          ? `「${currentQuestionMeta.baseWord}」を指定された形に変えてください` 
+          : `Conjugate "${currentQuestionMeta.baseWord}" into the requested form:`;
+      }
+      if (textEl) {
+        textEl.textContent = isMultilingualEnabled 
+          ? `「${currentQuestionMeta.baseWord} (${meaning})」の【 ${targetFormName} 】` 
+          : `「${currentQuestionMeta.baseWord}」の【 ${targetFormName} 】`;
+      }
+      if (hintEl) hintEl.textContent = conj ? conj.group : (quizCurrentQuestion.category || '文法・活用');
+
+      if (conj) {
+        const poolOptions = [
+          { id: quizCurrentQuestion.id, word: quizCurrentQuestion.word, reading: quizCurrentQuestion.reading || '', meaning: quizCurrentQuestion.meaning, formLabel: targetFormName },
+          { id: 'f_wrong', word: wrongPattern, reading: '', meaning: { en: 'Incorrect form' }, formLabel: '誤答例' },
+          { id: 'f_masu', word: conj.masu, reading: '', meaning: { en: 'masu-form' }, formLabel: 'ます形' },
+          { id: 'f_te', word: conj.te, reading: '', meaning: { en: 'te-form' }, formLabel: 'て形' },
+          { id: 'f_nai', word: conj.nai, reading: '', meaning: { en: 'nai-form' }, formLabel: 'ない形' },
+          { id: 'f_dict', word: conj.dict, reading: '', meaning: { en: 'dict-form' }, formLabel: '辞書形' }
+        ];
+        const uniqueWords = new Set();
+        const selectedForms = [];
+        poolOptions.forEach(p => {
+          if (!uniqueWords.has(p.word) && selectedForms.length < 4) {
+            uniqueWords.add(p.word);
+            selectedForms.push(p);
+          }
+        });
+        choices = selectedForms.sort(() => Math.random() - 0.5);
+      }
+      if (choices.length < 4) {
+        const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
+        const distractorCandidates = candidatePool
+          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word))
+          .sort(() => Math.random() - 0.5)
+          .slice(0, 4 - choices.length);
+        choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+      }
+
+    } else {
+      // ===== STANDARD QUIZ: 単語・意味マッチ =====
+      if (typeBadgeContainer) typeBadgeContainer.classList.add('hidden');
+      if (sentenceBox) sentenceBox.classList.add('hidden');
+
+      if (promptEl) promptEl.textContent = isJa ? '一致する日本語の単語を選んでください' : 'Select the matching Japanese word';
+      if (textEl) {
+        if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('ないform')) {
+          textEl.textContent = isMultilingualEnabled ? `${meaning} [ない-form / 否定]` : `${quizCurrentQuestion.word} [ない形]`;
+        } else if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('てform')) {
+          textEl.textContent = isMultilingualEnabled ? `${meaning} [て-form]` : `${quizCurrentQuestion.word} [て形]`;
+        } else if (quizCurrentQuestion.category && quizCurrentQuestion.category.includes('可能形')) {
+          textEl.textContent = isMultilingualEnabled ? `${meaning} [可能形 / potential]` : `${quizCurrentQuestion.word} [可能形]`;
+        } else {
+          textEl.textContent = isMultilingualEnabled ? meaning : quizCurrentQuestion.word;
+        }
+      }
+      if (hintEl) hintEl.textContent = quizCurrentQuestion.category || 'General';
+
+      const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
+      const distractorCandidates = candidatePool
+        .filter(c => c && c.id !== quizCurrentQuestion.id && (c.reading || c.word))
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 3);
+      choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+    }
+
     choices.forEach(card => {
       const cardMeaningText = getBilingualMeaning(card.meaning, currentLang);
+      const isCorrectCard = (card.id === quizCurrentQuestion.id || card.word === quizCurrentQuestion.word);
 
       const btn = document.createElement('div');
       btn.className = 'quiz-choice-card w-full p-3 sm:p-3.5 rounded-2xl border-2 border-softBorder hover:border-deepNavy bg-white text-darkNavyText text-left transition flex flex-col shadow-2xs text-sm cursor-pointer select-text relative active:scale-[0.99]';
-      btn.setAttribute('data-card-id', card.id);
+      btn.setAttribute('data-card-id', card.id || card.word);
+      btn.setAttribute('data-card-word', card.word);
 
       btn.innerHTML = `
         <div class="choice-main-row flex items-center justify-between w-full select-text">
           <div class="flex items-center space-x-2 min-w-0 select-text">
             <span class="choice-word font-extrabold text-base sm:text-lg text-darkNavyText select-text font-jp">${card.word}</span>
-            <span class="choice-reading card-reading-text text-xs text-slate-400 font-normal select-text">（${card.reading || ''}）</span>
+            <span class="choice-reading card-reading-text text-xs text-slate-400 font-normal select-text">${card.reading ? '（' + card.reading + '）' : (card.formLabel ? '【' + card.formLabel + '】' : '')}</span>
           </div>
           <div class="choice-action-row flex items-center space-x-1.5 shrink-0">
             <button class="btn-choice-tts p-1.5 rounded-full hover:bg-slate-100 text-slate-400 hover:text-deepNavy transition active:scale-95" title="発音を聴く">
@@ -6766,7 +7170,7 @@
         <div class="choice-meaning-panel mt-2 pt-2 border-t border-slate-100 text-xs text-slate-600 font-medium select-text hidden animate-fade-in">
           <div class="flex items-center justify-between gap-1.5 flex-wrap">
             <span class="text-slate-800 select-text font-bold flex-1">
-              <span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${cardMeaningText}
+              ${isMultilingualEnabled ? `<span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${cardMeaningText}` : (card.formLabel ? `<span class="text-[10px] text-teal-700 uppercase font-bold mr-1">形:</span>${card.formLabel}` : `<span class="text-[10px] text-slate-400 uppercase font-bold mr-1">単語:</span>${card.word}`)}
             </span>
             <div class="flex items-center space-x-1 shrink-0">
               <button class="btn-choice-dict text-[10px] px-2 py-0.5 rounded-md bg-sky-50 text-sky-700 hover:bg-sky-100 border border-sky-200 font-bold transition flex items-center space-x-0.5" title="辞書で詳細を見る">
@@ -6829,7 +7233,6 @@
           hasAnsweredThisQuestion = true;
           handleQuizAnswer(card, btn, container, choices);
         } else {
-          // If already answered, tapping any card speaks that word and ensures meaning is displayed
           speakJapanese(card);
           const panel = btn.querySelector('.choice-meaning-panel');
           if (panel) {
@@ -6846,13 +7249,13 @@
     const feedbackBox = document.getElementById('quizFeedbackBox');
     feedbackBox.classList.remove('hidden');
 
-    const isCorrect = selectedCard.id === quizCurrentQuestion.id;
+    const isCorrect = (selectedCard.id === quizCurrentQuestion.id || selectedCard.word === quizCurrentQuestion.word);
     const allCards = container.querySelectorAll('.quiz-choice-card');
 
     // Reveal meaning on all choice cards so student sees meaning of all words!
     allCards.forEach(cardEl => {
-      const cId = cardEl.getAttribute('data-card-id');
-      const isTarget = (cId === quizCurrentQuestion.id);
+      const cWord = cardEl.getAttribute('data-card-word');
+      const isTarget = (cWord === quizCurrentQuestion.word);
       const isChosenWrong = (cardEl === clickedBtn && !isCorrect);
       
       const panel = cardEl.querySelector('.choice-meaning-panel');
@@ -6877,6 +7280,24 @@
     const targetMeaning = getBilingualMeaning(quizCurrentQuestion.meaning, currentLang);
     const selectedMeaning = getBilingualMeaning(selectedCard.meaning, currentLang);
 
+    let feedbackDetailHtml = '';
+    if (currentQuestionMeta && currentQuestionMeta.type === 'fillblank') {
+      feedbackDetailHtml = `
+        <div class="mt-2 p-2.5 rounded-xl bg-slate-50 border border-slate-200 text-xs text-slate-700 leading-relaxed font-jp">
+          <span class="text-[10px] font-black px-1.5 py-0.2 rounded-md bg-teal-100 text-teal-800 mr-1">完成文</span>
+          ${currentQuestionMeta.sentenceHtml || quizCurrentQuestion.word}
+        </div>
+      `;
+    } else if (currentQuestionMeta && currentQuestionMeta.type === 'conjugation') {
+      feedbackDetailHtml = `
+        <div class="mt-2 p-2.5 rounded-xl bg-slate-50 border border-slate-200 text-xs text-slate-700 leading-relaxed font-jp">
+          <span class="text-[10px] font-black px-1.5 py-0.2 rounded-md bg-teal-100 text-teal-800 mr-1">活用ルール</span>
+          ${currentQuestionMeta.baseWord} → <strong class="text-emerald-700 underline font-extrabold">${quizCurrentQuestion.word}</strong>（${currentQuestionMeta.formName || '正解の形'}）
+          ${currentQuestionMeta.sentenceHtml ? `<div class="mt-1 text-slate-500 text-[11px]">例文: ${currentQuestionMeta.sentenceHtml}</div>` : ''}
+        </div>
+      `;
+    }
+
     if (isCorrect) {
       quizScore++;
       feedbackBox.className = 'p-3.5 rounded-2xl my-3 text-center bg-emerald-50 border border-emerald-200 text-emerald-900 select-text animate-fade-in shadow-2xs';
@@ -6892,7 +7313,8 @@
               <i data-lucide="volume-2" class="w-4 h-4"></i>
             </button>
           </div>
-          <p class="text-xs text-emerald-800 font-semibold mt-0.5 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${targetMeaning}</p>
+          ${isMultilingualEnabled ? `<p class="text-xs text-emerald-800 font-semibold mt-0.5 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${targetMeaning}</p>` : ''}
+          ${feedbackDetailHtml}
         </div>
       `;
       speakJapanese(quizCurrentQuestion);
@@ -6914,21 +7336,22 @@
               <i data-lucide="volume-2" class="w-4 h-4"></i>
             </button>
           </div>
-          <p class="text-xs text-emerald-900 font-bold mt-1 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${targetMeaning}</p>
+          ${isMultilingualEnabled ? `<p class="text-xs text-emerald-900 font-bold mt-1 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${targetMeaning}</p>` : ''}
+          ${feedbackDetailHtml}
         </div>
 
-        <!-- ユーザーが選んだ不正解の単語の意味 -->
+        <!-- ユーザーが選んだ言葉 -->
         <div class="mt-1.5 p-2.5 rounded-xl bg-white/95 border-2 border-coralPink text-left select-text shadow-2xs">
           <div class="flex items-center justify-between">
             <div class="flex items-center space-x-1.5 select-text">
-              <span class="text-[10px] px-1.5 py-0.2 rounded-full bg-coralPink text-white font-bold shrink-0">選んだ言葉</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded-full bg-coralPink text-white font-bold shrink-0">選んだ形</span>
               <span class="font-extrabold text-sm text-darkNavyText font-jp select-text">${selectedCard.word}（${selectedCard.reading || ''}）</span>
             </div>
             <button class="btn-feedback-speak p-1.5 rounded-full text-rose-700 hover:bg-rose-100 transition" data-word="${escapeHtml(selectedCard.word)}" title="発音を聴く">
               <i data-lucide="volume-2" class="w-4 h-4"></i>
             </button>
           </div>
-          <p class="text-xs text-rose-900 font-bold mt-1 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${selectedMeaning}</p>
+          ${isMultilingualEnabled ? `<p class="text-xs text-rose-900 font-bold mt-1 select-text"><span class="text-[10px] text-slate-400 uppercase font-bold mr-1">意味:</span>${selectedMeaning}</p>` : ''}
         </div>
 
         <p class="text-[10px] text-slate-500 font-medium mt-2">💡 上の選択肢カードでも全単語の意味や発音が確認でき、保存も可能です。</p>
@@ -8084,14 +8507,17 @@
 
     const navStudy = document.getElementById('navStudy');
     const navQuiz = document.getElementById('navQuiz');
+    const navTest = document.getElementById('navTest');
     const navMylist = document.getElementById('navMylist');
     const navJlpt = document.getElementById('navJlpt');
 
-    const inactiveClass = 'flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition';
-    const activeClass = 'flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs';
+    const inactiveClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0';
+    const activeClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0';
+    const activeTestClass = 'flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-teal-700 flex items-center justify-center space-x-1 transition shadow-xs shrink-0 font-bold';
 
     if (navStudy) navStudy.className = (viewName === 'flashcards') ? activeClass : inactiveClass;
     if (navQuiz) navQuiz.className = (viewName === 'quiz') ? activeClass : inactiveClass;
+    if (navTest) navTest.className = (viewName === 'test') ? activeTestClass : inactiveClass;
     if (navMylist) navMylist.className = (viewName === 'mylist') ? activeClass : inactiveClass;
     if (navJlpt) navJlpt.className = (viewName === 'jlpt') ? activeClass : inactiveClass;
 
@@ -8099,6 +8525,11 @@
       document.getElementById('viewFlashcards').classList.remove('hidden');
       checkAndShowSwipeGuide();
     } else if (viewName === 'quiz') {
+      setQuizMode('quiz');
+      document.getElementById('viewQuiz').classList.remove('hidden');
+      startQuiz();
+    } else if (viewName === 'test') {
+      setQuizMode('test');
       document.getElementById('viewQuiz').classList.remove('hidden');
       startQuiz();
     } else if (viewName === 'mylist') {
@@ -8147,6 +8578,10 @@
       switchView('flashcards');
     });
     document.getElementById('navQuiz').addEventListener('click', () => switchView('quiz'));
+    const navTestEl = document.getElementById('navTest');
+    if (navTestEl) {
+      navTestEl.addEventListener('click', () => switchView('test'));
+    }
     document.getElementById('navMylist').addEventListener('click', () => switchView('mylist'));
     const navJlptEl = document.getElementById('navJlpt');
     if (navJlptEl) {
@@ -8821,6 +9256,56 @@
       quizIndex++;
       renderQuizQuestion();
     });
+
+    // Quiz & Test Mode Switcher Buttons (単語クイズ vs 実践テスト)
+    const btnModeQuiz = document.getElementById('btnModeQuiz');
+    if (btnModeQuiz) {
+      btnModeQuiz.addEventListener('click', () => {
+        setQuizMode('quiz');
+        startQuiz();
+      });
+    }
+    const btnModeTest = document.getElementById('btnModeTest');
+    if (btnModeTest) {
+      btnModeTest.addEventListener('click', () => {
+        setQuizMode('test');
+        startQuiz();
+      });
+    }
+
+    // Test Subtype Selector Buttons (A+B すべて, A: 例文 穴埋め, B: 活用・文法)
+    document.querySelectorAll('.test-type-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const type = e.currentTarget.getAttribute('data-test-type');
+        currentTestSubtype = type || 'all';
+        document.querySelectorAll('.test-type-btn').forEach(b => {
+          if (b === e.currentTarget) {
+            b.className = 'test-type-btn active py-1 px-1 rounded-xl text-[10px] font-bold bg-teal-700 text-white transition shadow-2xs text-center truncate';
+          } else {
+            b.className = 'test-type-btn py-1 px-1 rounded-xl text-[10px] font-bold border border-softBorder bg-white text-slate-600 hover:border-teal-700 transition text-center truncate';
+          }
+        });
+        const badge = document.getElementById('testTypeBadge');
+        if (badge) {
+          if (currentTestSubtype === 'fillblank') badge.textContent = 'A: 例文 穴埋め';
+          else if (currentTestSubtype === 'conjugation') badge.textContent = 'B: 活用・文法';
+          else badge.textContent = 'A + B MIX';
+        }
+        startQuiz();
+      });
+    });
+
+    // Multilingual Hint Toggle Button (ON: 翻訳表示 / OFF: 日本語のみ)
+    const btnToggleMulti = document.getElementById('btnToggleMultilingual');
+    if (btnToggleMulti) {
+      btnToggleMulti.addEventListener('click', () => {
+        isMultilingualEnabled = !isMultilingualEnabled;
+        localStorage.setItem('haku_multilingual_quiz', isMultilingualEnabled ? 'true' : 'false');
+        updateMultilingualButtonUI();
+        renderQuizQuestion();
+        showToast(isMultilingualEnabled ? '🌐 多言語ヒント: ON（表示中）' : '🌐 多言語ヒント: OFF（日本語のみ）');
+      });
+    }
 
     // Toggle Folders Dropdown in Mylist
     const btnToggleFolders = document.getElementById('btnToggleMylistFolders');

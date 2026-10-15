@@ -444,21 +444,25 @@
     </div>
   </header>
 
-  <!-- Navigation Tabs (Flashcards, Quiz, My List, JLPT) -->
-  <nav class="bg-white/80 backdrop-blur-sm border-b border-softBorder px-3 py-1.5 flex justify-center text-xs font-bold text-slate-600 gap-1.5 sm:gap-2.5 max-w-5xl mx-auto w-full">
-    <button id="navStudy" class="flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs">
+  <!-- Navigation Tabs (Flashcards, Quiz, Test, My List, JLPT) -->
+  <nav class="bg-white/80 backdrop-blur-sm border-b border-softBorder px-2 sm:px-3 py-1.5 flex justify-center text-xs font-bold text-slate-600 gap-1 sm:gap-2 max-w-5xl mx-auto w-full overflow-x-auto no-scrollbar">
+    <button id="navStudy" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full text-white bg-deepNavy flex items-center justify-center space-x-1 transition shadow-xs shrink-0">
       <i data-lucide="layers" class="w-3.5 h-3.5"></i>
-      <span id="navStudyLabel">Flashcards</span>
+      <span id="navStudyLabel">カード</span>
     </button>
-    <button id="navQuiz" class="flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition">
+    <button id="navQuiz" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
       <i data-lucide="help-circle" class="w-3.5 h-3.5"></i>
-      <span id="navQuizLabel">Quiz / Test</span>
+      <span id="navQuizLabel">クイズ</span>
     </button>
-    <button id="navMylist" class="flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition">
+    <button id="navTest" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-teal-700 bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
+      <i data-lucide="clipboard-check" class="w-3.5 h-3.5 text-teal-600"></i>
+      <span id="navTestLabel">テスト</span>
+    </button>
+    <button id="navMylist" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
       <i data-lucide="star" class="w-3.5 h-3.5 text-coralPink"></i>
-      <span><span id="navMylistLabel">My List</span> (<span id="mylistCountBadge">0</span>)</span>
+      <span><span id="navMylistLabel">マイリス</span> (<span id="mylistCountBadge">0</span>)</span>
     </button>
-    <button id="navJlpt" class="flex-1 max-w-[160px] py-1.5 px-2.5 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition">
+    <button id="navJlpt" class="flex-1 max-w-[130px] py-1.5 px-2 rounded-full border border-softBorder hover:border-deepNavy bg-white text-slate-700 flex items-center justify-center space-x-1 transition shrink-0">
       <i data-lucide="book-open" class="w-3.5 h-3.5 text-teal-600"></i>
       <span id="navJlptLabel">JLPT</span>
     </button>
@@ -712,16 +716,59 @@
     <div id="viewQuiz" class="max-w-md mx-auto hidden flex-col select-text">
       <div class="bg-white rounded-3xl p-5 border border-softBorder shadow-sm flex flex-col justify-between min-h-[460px]">
         <div>
+          <!-- Quiz / Test Mode Switcher Pill -->
+          <div class="flex items-center justify-between p-1 bg-slate-100 rounded-2xl mb-2.5">
+            <button id="btnModeQuiz" class="flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 bg-white text-darkNavyText shadow-2xs">
+              <i data-lucide="help-circle" class="w-3.5 h-3.5 text-deepNavy"></i>
+              <span id="modeQuizLabel">単語クイズ</span>
+            </button>
+            <button id="btnModeTest" class="flex-1 py-1.5 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center space-x-1 text-slate-500 hover:text-darkNavyText">
+              <i data-lucide="clipboard-check" class="w-3.5 h-3.5 text-teal-600"></i>
+              <span id="modeTestLabel">実践テスト</span>
+            </button>
+          </div>
+
           <div class="pb-3 border-b border-slate-100">
             <div class="flex items-center justify-between mb-2">
               <span id="quizBadgeTitle" class="text-xs font-bold text-deepNavy px-2.5 py-0.5 bg-lightBlueBg rounded-full">Review Quiz</span>
               <span id="quizScoreBadge" class="text-xs font-bold text-slate-600">Question 1 / 10</span>
             </div>
 
-            <!-- Quiz Scope Choice: Flexible Source Scope Selector -->
-            <div class="pt-1.5 space-y-1.5">
+            <!-- Test Subtype Selector (A: 穴埋め / B: 活用 / MIX) - Visible in Test Mode -->
+            <div id="testTypeSelectorContainer" class="hidden pb-2 space-y-1">
               <div class="flex items-center justify-between">
-                <span id="quizScopeLabel" class="text-[10px] font-bold text-slate-500">Select Quiz Range:</span>
+                <span class="text-[10px] font-bold text-slate-500">出題形式 (Type):</span>
+                <span class="text-[10px] text-teal-700 font-bold px-2 py-0.2 bg-teal-50 rounded-full" id="testTypeBadge">A + B MIX</span>
+              </div>
+              <div class="grid grid-cols-3 gap-1" id="testTypeBtnGroup">
+                <button class="test-type-btn active py-1 px-1 rounded-xl text-[10px] font-bold bg-teal-700 text-white transition shadow-2xs text-center truncate" data-test-type="all">
+                  A+B すべて
+                </button>
+                <button class="test-type-btn py-1 px-1 rounded-xl text-[10px] font-bold border border-softBorder bg-white text-slate-600 hover:border-teal-700 transition text-center truncate" data-test-type="fillblank">
+                  A: 例文 穴埋め
+                </button>
+                <button class="test-type-btn py-1 px-1 rounded-xl text-[10px] font-bold border border-softBorder bg-white text-slate-600 hover:border-teal-700 transition text-center truncate" data-test-type="conjugation">
+                  B: 活用・文法
+                </button>
+              </div>
+            </div>
+
+            <!-- Multilingual Hint Toggle Button -->
+            <div class="pb-1.5 flex items-center justify-between">
+              <span class="text-[10px] font-bold text-slate-500 flex items-center gap-1">
+                <span>🌐 多言語ヒント</span>
+                <span class="text-[9px] text-slate-400 font-normal">(Translations)</span>
+              </span>
+              <button id="btnToggleMultilingual" class="py-0.5 px-2.5 rounded-full text-[10px] font-extrabold transition shadow-2xs flex items-center space-x-1.5 bg-emerald-100 text-emerald-800 border border-emerald-300 active:scale-95" title="英語や母国語の翻訳ヒントを表示/非表示">
+                <span id="multilingualToggleDot" class="w-1.5 h-1.5 rounded-full bg-emerald-500 inline-block"></span>
+                <span id="multilingualToggleText">ON（表示）</span>
+              </button>
+            </div>
+
+            <!-- Quiz Scope Choice: Flexible Source Scope Selector -->
+            <div class="pt-1 space-y-1.5">
+              <div class="flex items-center justify-between">
+                <span id="quizScopeLabel" class="text-[10px] font-bold text-slate-500">出題範囲 (Range):</span>
                 <span id="quizScopeSummaryBadge" class="text-[10px] text-deepNavy font-bold px-2 py-0.2 bg-lightBlueBg rounded-full">Current Unit</span>
               </div>
               <div class="grid grid-cols-3 gap-1" id="quizScopeBtnGrid">
@@ -749,9 +796,19 @@
           </div>
 
           <!-- Question Box -->
-          <div class="text-center my-4 select-text">
+          <div class="text-center my-3.5 select-text">
+            <div id="quizQuestionTypeBadgeContainer" class="hidden mb-1.5">
+              <span id="quizQuestionTypeBadge" class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-teal-100 text-teal-800 border border-teal-200 inline-flex items-center gap-1"></span>
+            </div>
             <span id="quizQuestionPrompt" class="text-xs text-slate-400 font-medium block mb-1">Select the matching Japanese word</span>
-            <h3 id="quizQuestionText" class="text-xl font-extrabold text-darkNavyText mt-1 select-text font-jp">Question</h3>
+
+            <!-- Context / Sentence Container (for Fill-in-the-blank Type A) -->
+            <div id="quizSentenceBox" class="hidden my-2.5 p-3.5 bg-slate-50 border-2 border-slate-200 rounded-2xl text-left font-jp text-base sm:text-lg leading-relaxed text-darkNavyText shadow-inner">
+              <p id="quizSentenceText" class="font-bold select-text"></p>
+              <p id="quizSentenceTrans" class="text-xs text-slate-500 mt-2 pt-2 border-t border-slate-200 font-sans select-text"></p>
+            </div>
+
+            <h3 id="quizQuestionText" class="text-xl sm:text-2xl font-extrabold text-darkNavyText mt-1 select-text font-jp">Question</h3>
             <p id="quizQuestionHint" class="text-xs text-slate-400 mt-1 select-text">Category</p>
           </div>
 
@@ -1558,7 +1615,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261015_2030"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261015_2055"></script>
+  <script src="js/app.js?v=20261015_2130"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
