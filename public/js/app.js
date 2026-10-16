@@ -3321,6 +3321,786 @@
   }
 ];
 
+  const ELIIE_NEW_CARD_IDS = ["card_1791710688293_deirhe__祖父", "card_1791710688303_fh3t7j__小弟", "card_1791710688311_9zfvb5__上課", "card_1791710688319_zs3yra__查某囝", "card_1791710688325_7evzn9__表兄弟", "card_1791710688336_q6wafx__毋是", "card_1791710688346_73s76l__毋是按呢", "card_1791710688353_f3bg8v__國小學生", "card_1791710688364_qe1b03__國中學生", "card_1791710688376_iy5cb6__高中學生", "card_1791710688382_9oq0pi__大學生", "card_1791710688402_ry1bj3__請問你是佗一位？", "card_1791710688408_d265ew__教室", "card_1791710688415_he8qrr__辭典", "card_1791710688423_uigyv2__拊仔", "card_1791710688436_hob5io__家己煮", "card_1791710688454_nx4xci__趁錢", "card_1791710688468_79djqd__銀行", "card_1791710688474_g6755p__事務所", "card_1791710688480_rwo43z__桌仔", "card_1791710688494_kh4lzt__會議室", "card_1791710688516_ik2gk3__有飼", "card_1791710688526_e0wuwh__感情好", "card_1791710688541_0y0x7v__無好", "card_1791710688558_cwqljh__大人", "card_1791710688572_8rnism__揀食", "card_1791710688584_skej7u__茄仔", "card_1791710688591_goll5a__青椒", "card_1791710688597_v9gkjw__紅菜頭", "card_1791710688604_h9kaib__口感", "card_1791710688612_euyhaw__日式蒸卵"];
+
+  const ELIIE_CURATED_CARDS = [
+  {
+    "id": "card_1791710688293_deirhe__祖父",
+    "word": "祖父",
+    "reading": "そふ",
+    "meaning": {
+      "ja": "祖父（おじいちゃん）",
+      "zh_TW": "祖父、爺爺",
+      "zh_CN": "祖父、爷爷",
+      "en": "grandfather",
+      "ko": "할아버지",
+      "zh_HK": "阿爺、爺爺",
+      "fr": "grand-père"
+    },
+    "example": {
+      "ja": "A: <ruby>祖父<rt>そふ</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>をして、とても<ruby>元気<rt>げんき</rt></ruby>です。<br/>B: いつまでも<ruby>健康<rt>けんこう</rt></ruby>でいてほしいですね。",
+      "zh_TW": "A: 爺爺每天早晨都去散步，身體非常硬朗。<br/>B: 真希望他能一直健健康康的呢。",
+      "zh_CN": "A: 爷爷每天早晨都去散步，身体非常硬朗。<br/>B: 真希望他能一直健健康康的呢。",
+      "en": "A: My grandfather takes a walk every morning and is very healthy.<br/>B: I hope he stays healthy for a long time.",
+      "ko": "A: 할아버지는 매일 아침 산책을 하셔서 아주 건강하십니다.<br/>B: 언제까지나 건강하게 계시면 좋겠네요.",
+      "zh_HK": "A: 爺爺每日朝早都去散步，身體非常精神。<br/>B: 真係想佢一直健健康康呀。",
+      "fr": "A: Mon grand-père se promène tous les matins et est très énergique.<br/>B: J'espère qu'il restera toujours en bonne santé."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688303_fh3t7j__小弟",
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": {
+      "ja": "弟",
+      "zh_TW": "弟弟",
+      "zh_CN": "弟弟",
+      "en": "younger brother",
+      "ko": "남동생",
+      "zh_HK": "細佬",
+      "fr": "petit frère"
+    },
+    "example": {
+      "ja": "A: <ruby>弟<rt>おとうと</rt></ruby>さんは<ruby>何歳<rt>なんさい</rt></ruby>ですか。<br/>B: <ruby>今年<rt>ことし</rt></ruby><ruby>高校生<rt>こうこうせい</rt></ruby>になりました。",
+      "zh_TW": "A: 弟弟幾歲了呢？<br/>B: 今年升上高中了。",
+      "zh_CN": "A: 弟弟几岁了呢？<br/>B: 今年升上高中了。",
+      "en": "A: How old is your younger brother?<br/>B: He became a high school student this year.",
+      "ko": "A: 남동생은 몇 살이에요?<br/>B: 올해 고등학생이 되었어요.",
+      "zh_HK": "A: 細佬幾多歲呀？<br/>B: 今年升咗高中喇。",
+      "fr": "A: Quel âge a ton petit frère ?<br/>B: Il est entré au lycée cette année."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688311_9zfvb5__上課",
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": {
+      "ja": "授業",
+      "zh_TW": "上課、課堂",
+      "zh_CN": "上课、课堂",
+      "en": "class / lesson",
+      "ko": "수업",
+      "zh_HK": "上堂、課堂",
+      "fr": "cours / leçon"
+    },
+    "example": {
+      "ja": "A: <ruby>今日<rt>きょう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>からですか。<br/>B: <ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりますよ。",
+      "zh_TW": "A: 今天的課幾點開始？<br/>B: 下午兩點開始喔。",
+      "zh_CN": "A: 今天的课几点开始？<br/>B: 下午两点开始哦。",
+      "en": "A: What time does today's class start?<br/>B: It starts at 2:00 PM.",
+      "ko": "A: 오늘 수업은 몇 시부터예요?<br/>B: 오후 2시부터 시작해요.",
+      "zh_HK": "A: 今日堂課幾點開始呀？<br/>B: 下晝兩點開始呀。",
+      "fr": "A: À quelle heure commence le cours d'aujourd'hui ?<br/>B: Il commence à 14h."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688319_zs3yra__查某囝",
+    "word": "娘",
+    "reading": "むすめ",
+    "meaning": {
+      "ja": "娘",
+      "zh_TW": "女兒",
+      "zh_CN": "女儿",
+      "en": "daughter",
+      "ko": "딸",
+      "zh_HK": "女、女兒",
+      "fr": "fille (la sienne)"
+    },
+    "example": {
+      "ja": "A: <ruby>娘<rt>むすめ</rt></ruby>さんはおいくつですか。<br/>B: <ruby>今年<rt>ことし</rt></ruby>7<ruby>歳<rt>さい</rt></ruby>で、とても<ruby>元気<rt>げんき</rt></ruby>です。",
+      "zh_TW": "A: 令媛幾歲了呢？<br/>B: 今年7歲，非常活潑。",
+      "zh_CN": "A: 您女儿几岁了呢？<br/>B: 今年7岁，非常活泼。",
+      "en": "A: How old is your daughter?<br/>B: She is 7 years old this year and very lively.",
+      "ko": "A: 따님은 몇 살인가요?<br/>B: 올해 7살인데 아주 활발해요.",
+      "zh_HK": "A: 你個女幾多歲呀？<br/>B: 今年7歲，好生猛。",
+      "fr": "A: Quel âge a votre fille ?<br/>B: Elle a 7 ans cette année et est très vive."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688325_7evzn9__表兄弟",
+    "word": "いとこ",
+    "reading": "いとこ",
+    "meaning": {
+      "ja": "いとこ",
+      "zh_TW": "堂表兄弟姊妹",
+      "zh_CN": "堂表兄弟姐妹",
+      "en": "cousin",
+      "ko": "사촌",
+      "zh_HK": "表兄弟姊妹",
+      "fr": "cousin / cousine"
+    },
+    "example": {
+      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はいとこの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに行きました。<br/>B: <ruby>久<rt>ひさ</rt></ruby>しぶりに会えて楽しかったですね！",
+      "zh_TW": "A: 週末我去了表親家玩。<br/>B: 久別重逢一定很開心吧！",
+      "zh_CN": "A: 周末我去了堂表亲家玩。<br/>B: 久别重逢一定很开心吧！",
+      "en": "A: I went to play at my cousin's house over the weekend.<br/>B: It must have been fun catching up after so long!",
+      "ko": "A: 주말에 사촌 집에 놀러 갔어요.<br/>B: 오랜만에 만나서 즐거웠겠네요!",
+      "zh_HK": "A: 週末我去咗表親屋企玩。<br/>B: 好耐冇見一定好開心啦！",
+      "fr": "A: Ce week-end, je suis allé chez mon cousin.<br/>B: C'était chouette de se revoir après si longtemps !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688336_q6wafx__毋是",
+    "word": "違います",
+    "reading": "ちがいます",
+    "meaning": {
+      "ja": "違います",
+      "zh_TW": "不是、不對",
+      "zh_CN": "不是、不对",
+      "en": "No, that's wrong / incorrect",
+      "ko": "아닙니다 / 틀립니다",
+      "zh_HK": "唔係、唔啱",
+      "fr": "Ce n'est pas ça / C'est faux"
+    },
+    "example": {
+      "ja": "A: あの<ruby>人<rt>ひと</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんですか。<br/>B: いいえ、<ruby>違<rt>ちが</rt></ruby>います。<ruby>佐藤<rt>さとう</rt></ruby>さんですよ。",
+      "zh_TW": "A: 那個人是田中先生嗎？<br/>B: 不，不是喔。那位是佐藤先生。",
+      "zh_CN": "A: 那个人是田中先生吗？<br/>B: 不，不是哦。那位是佐藤先生。",
+      "en": "A: Is that person Mr. Tanaka?<br/>B: No, that's not right. That is Mr. Sato.",
+      "ko": "A: 저 사람은 다나카 씨인가요?<br/>B: 아니요, 아닙니다. 사토 씨예요.",
+      "zh_HK": "A: 嗰個人係咪田中先生呀？<br/>B: 唔係，嗰個係佐藤先生呀。",
+      "fr": "A: Cette personne est M. Tanaka ?<br/>B: Non, ce n'est pas lui. C'est M. Sato."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688346_73s76l__毋是按呢",
+    "word": "そうじゃありません",
+    "reading": "そうじゃありません",
+    "meaning": {
+      "ja": "そうじゃありません",
+      "zh_TW": "不是那樣的",
+      "zh_CN": "不是那样的",
+      "en": "That is not so / Not like that",
+      "ko": "그렇지 않습니다",
+      "zh_HK": "唔係咁㗎",
+      "fr": "Ce n'est pas comme ça"
+    },
+    "example": {
+      "ja": "A: <ruby>怒<rt>おこ</rt></ruby>っているんですか。<br/>B: いいえ、そうじゃありませんよ。<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れているだけです。",
+      "zh_TW": "A: 你在生氣嗎？<br/>B: 不，不是那樣的。我只是有點累而已。",
+      "zh_CN": "A: 你在生气吗？<br/>B: 不，不是那样的。我只是有点累而已。",
+      "en": "A: Are you angry?<br/>B: No, it's not like that. I'm just a little tired.",
+      "ko": "A: 화나셨나요?<br/>B: 아니요, 그렇지 않아요. 조금 피곤할 뿐이에요.",
+      "zh_HK": "A: 你係咪嬲緊呀？<br/>B: 唔係，唔係咁㗎。我只係有啲攰啫。",
+      "fr": "A: Tu es en colère ?<br/>B: Non, pas du tout. Je suis juste un peu fatigué."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688353_f3bg8v__國小學生",
+    "word": "小学生",
+    "reading": "しょうがくせい",
+    "meaning": {
+      "ja": "小学生",
+      "zh_TW": "國小生、小學生",
+      "zh_CN": "小学生",
+      "en": "elementary school student",
+      "ko": "초등학생",
+      "zh_HK": "小學生",
+      "fr": "élève d'école primaire"
+    },
+    "example": {
+      "ja": "A: お<ruby>子<rt>こ</rt></ruby>さんは<ruby>小学生<rt>しょうがくせい</rt></ruby>ですか。<br/>B: はい、<ruby>今年<rt>ことし</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>3<ruby>年生<rt>ねんせい</rt></ruby>です。",
+      "zh_TW": "A: 您的孩子是小學生嗎？<br/>B: 是的，今年讀小學三年級。",
+      "zh_CN": "A: 您的孩子是小学生吗？<br/>B: 是的，今年读小学三年级。",
+      "en": "A: Is your child an elementary school student?<br/>B: Yes, in third grade this year.",
+      "ko": "A: 아이는 초등학생인가요?<br/>B: 네, 올해 초등학교 3학년이에요.",
+      "zh_HK": "A: 你小朋友讀小學㗎？<br/>B: 係呀，今年讀小學三年級。",
+      "fr": "A: Votre enfant est à l'école primaire ?<br/>B: Oui, il est en troisième année."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688364_qe1b03__國中學生",
+    "word": "中学生",
+    "reading": "ちゅうがくせい",
+    "meaning": {
+      "ja": "中学生",
+      "zh_TW": "國中生",
+      "zh_CN": "初中生",
+      "en": "junior high school student",
+      "ko": "중학생",
+      "zh_HK": "初中生",
+      "fr": "collégien"
+    },
+    "example": {
+      "ja": "A: <ruby>弟<rt>おとうと</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>から<ruby>中学生<rt>ちゅうがくせい</rt></ruby>になります。<br/>B: もう<ruby>中学生<rt>ちゅうがくせい</rt></ruby>ですか、<ruby>大<rt>おお</rt></ruby>きくなりましたね！",
+      "zh_TW": "A: 我弟弟明年就要升國中了。<br/>B: 已經是國中生了呀，長得真快！",
+      "zh_CN": "A: 我弟弟明年就要升初中了。<br/>B: 已经是初中生了呀，长得真快！",
+      "en": "A: My brother will become a junior high student next year.<br/>B: Junior high already? He has grown so much!",
+      "ko": "A: 남동생은 내년부터 중학생이 돼요.<br/>B: 벌써 중학생인가요, 많이 컸네요!",
+      "zh_HK": "A: 細佬出年升中學喇。<br/>B: 已經升中喇？大得真係快！",
+      "fr": "A: Mon frère entrera au collège l'année prochaine.<br/>B: Déjà au collège ? Il a tellement grandi !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688376_iy5cb6__高中學生",
+    "word": "高校生",
+    "reading": "こうこうせい",
+    "meaning": {
+      "ja": "高校生",
+      "zh_TW": "高中生",
+      "zh_CN": "高中生",
+      "en": "high school student",
+      "ko": "고등학생",
+      "zh_HK": "高中生",
+      "fr": "lycéen"
+    },
+    "example": {
+      "ja": "A: <ruby>妹<rt>いもうと</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>で、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>通学<rt>つうがく</rt></ruby>しています。<br/>B: <ruby>勉強<rt>べんきょう</rt></ruby>も<ruby>部活<rt>ぶかつ</rt></ruby>も<ruby>頑張<rt>がんば</rt></ruby>っているんですね。",
+      "zh_TW": "A: 妹妹是高中生，每天早上搭電車上學。<br/>B: 課業和社團活動都很努力呢。",
+      "zh_CN": "A: 妹妹是高中生，每天早上乘电车上学。<br/>B: 课业和社团活动都很努力呢。",
+      "en": "A: My sister is a high school student and commutes by train every morning.<br/>B: She must be working hard in both studies and clubs.",
+      "ko": "A: 여동생은 고등학생이라 매일 아침 전철로 통학해요.<br/>B: 공부도 동아리 활동도 열심히 하고 있네요.",
+      "zh_HK": "A: 妹頭係高中生，每日朝早搭火車返學。<br/>B: 讀書同課外活動都好努力喎。",
+      "fr": "A: Ma sœur est lycéenne et prend le train tous les matins.<br/>B: Elle travaille dur pour ses études et ses activités."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688382_9oq0pi__大學生",
+    "word": "大学生",
+    "reading": "だいがくせい",
+    "meaning": {
+      "ja": "大学生",
+      "zh_TW": "大學生",
+      "zh_CN": "大学生",
+      "en": "college student / university student",
+      "ko": "대학생",
+      "zh_HK": "大學生",
+      "fr": "étudiant universitaire"
+    },
+    "example": {
+      "ja": "A: <ruby>兄<rt>あに</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>大学生<rt>だいがくせい</rt></ruby>で、<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしています。<br/>B: <ruby>大学<rt>だいがく</rt></ruby>でどんなことを<ruby>学<rt>まな</rt></ruby>んでいるんですか。",
+      "zh_TW": "A: 哥哥現在是大學生，正在一個人住。<br/>B: 他在大學主修什麼呢？",
+      "zh_CN": "A: 哥哥现在是大学生，一个人在外面住。<br/>B: 他在大学学什么专业呢？",
+      "en": "A: My older brother is currently a college student living alone.<br/>B: What is he studying at university?",
+      "ko": "A: 형은 지금 대학생이고 자취를 하고 있어요.<br/>B: 대학교에서 어떤 것을 공부하고 있나요?",
+      "zh_HK": "A: 呀哥依家係大學生，自己一個人住。<br/>B: 佢喺大學讀緊咩科呀？",
+      "fr": "A: Mon grand frère est étudiant et vit seul.<br/>B: Qu'étudie-t-il à l'université ?"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688402_ry1bj3__請問你是佗一位？",
+    "word": "どちら様ですか",
+    "reading": "どちらさまですか",
+    "meaning": {
+      "ja": "どちら様ですか（失礼ですが、お名前を伺ってもよろしいですか）",
+      "zh_TW": "請問您是哪位？",
+      "zh_CN": "请问您是哪位？",
+      "en": "May I ask who is calling/speaking?",
+      "ko": "어느 분이신가요? / 누구십니까?",
+      "zh_HK": "請問邊位呀？",
+      "fr": "Puis-je savoir qui est à l'appareil ?"
+    },
+    "example": {
+      "ja": "A: お<ruby>電話<rt>でんわ</rt></ruby>ありがとうございます、ハク<ruby>日本語<rt>にほんご</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>です。<br/>B: <ruby>失礼<rt>しつれい</rt></ruby>ですが、どちら<ruby>様<rt>さま</rt></ruby>でしょうか。",
+      "zh_TW": "A: 謝謝您的來電，這裡是哈克日語教室。<br/>B: 請問您是哪位呢？",
+      "zh_CN": "A: 感谢您的来电，这里是哈克日语教室。<br/>B: 请问您是哪位呢？",
+      "en": "A: Thank you for calling Haku Japanese Class.<br/>B: May I ask who is calling, please?",
+      "ko": "A: 전화 감사합니다, 하쿠 일본어 교실입니다.<br/>B: 실례지만 어느 분이신가요?",
+      "zh_HK": "A: 多謝你打嚟，呢度係哈克日語教室。<br/>B: 請問邊位呀？",
+      "fr": "A: Merci d'avoir appelé le cours de japonais Haku.<br/>B: Puis-je vous demander à qui j'ai l'honneur ?"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688408_d265ew__教室",
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": {
+      "ja": "教室",
+      "zh_TW": "教室",
+      "zh_CN": "教室",
+      "en": "classroom",
+      "ko": "교실",
+      "zh_HK": "課室、教室",
+      "fr": "salle de classe"
+    },
+    "example": {
+      "ja": "A: <ruby>次<rt>つぎ</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>はどの<ruby>教室<rt>きょうしつ</rt></ruby>ですか。<br/>B: 3<ruby>階<rt>かい</rt></ruby>の201<ruby>教室<rt>きょうしつ</rt></ruby>ですよ。",
+      "zh_TW": "A: 下一堂課在哪間教室呢？<br/>B: 在3樓的201教室喔。",
+      "zh_CN": "A: 下一节课在哪个教室呢？<br/>B: 在3楼的201教室哦。",
+      "en": "A: Which classroom is the next lesson in?<br/>B: It's in classroom 201 on the 3rd floor.",
+      "ko": "A: 다음 수업은 어느 교실인가요?<br/>B: 3층 201호 교실이에요.",
+      "zh_HK": "A: 下一堂喺邊間課室上呀？<br/>B: 喺3樓嘅201課室呀。",
+      "fr": "A: Dans quelle salle a lieu le prochain cours ?<br/>B: C'est en salle 201 au 3e étage."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688415_he8qrr__辭典",
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": {
+      "ja": "辞書",
+      "zh_TW": "字典、辭典",
+      "zh_CN": "词典、字典",
+      "en": "dictionary",
+      "ko": "사전",
+      "zh_HK": "字典、辭典",
+      "fr": "dictionnaire"
+    },
+    "example": {
+      "ja": "A: わからない<ruby>言葉<rt>ことば</rt></ruby>があったらどうしますか。<br/>B: スマホの<ruby>辞書<rt>じしょ</rt></ruby>アプリで<ruby>調<rt>しら</rt></ruby>べています。",
+      "zh_TW": "A: 遇到不懂的單字該怎麼辦？<br/>B: 我都用手機上的辭典App查。",
+      "zh_CN": "A: 遇到不懂的词汇该怎么办？<br/>B: 我都用手机上的词典App查。",
+      "en": "A: What do you do when there's a word you don't know?<br/>B: I look it up on a smartphone dictionary app.",
+      "ko": "A: 모르는 단어가 나오면 어떻게 하나요?<br/>B: 스마트폰 사전 앱으로 찾아요.",
+      "zh_HK": "A: 唔識嘅字你會點做呀？<br/>B: 我會用手機字典App查。",
+      "fr": "A: Que fais-tu quand tu ne connais pas un mot ?<br/>B: Je le cherche sur une appli de dictionnaire."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688423_uigyv2__拊仔",
+    "word": "消しゴム",
+    "reading": "けしごむ",
+    "meaning": {
+      "ja": "消しゴム",
+      "zh_TW": "橡皮擦",
+      "zh_CN": "橡皮擦",
+      "en": "eraser",
+      "ko": "지우개",
+      "zh_HK": "擦膠",
+      "fr": "gomme"
+    },
+    "example": {
+      "ja": "A: すみません、<ruby>消<rt>け</rt></ruby>しゴムを<ruby>忘<rt>わす</rt></ruby>れてしまいました。<br/>B: <ruby>私<rt>わたし</rt></ruby>のを使ってもいいですよ。",
+      "zh_TW": "A: 不好意思，我忘了帶橡皮擦。<br/>B: 可以借你用我的喔。",
+      "zh_CN": "A: 不好意思，我忘了带橡皮擦。<br/>B: 可以借你用我的哦。",
+      "en": "A: Excuse me, I forgot my eraser.<br/>B: You can borrow mine!",
+      "ko": "A: 죄송해요, 지우개를 깜빡했어요.<br/>B: 제 것을 쓰셔도 돼요.",
+      "zh_HK": "A: 唔好意思，我唔記得帶擦膠添。<br/>B: 你可以用我嗰嚿㗎。",
+      "fr": "A: Excusez-moi, j'ai oublié ma gomme.<br/>B: Tu peux utiliser la mienne !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688436_hob5io__家己煮",
+    "word": "自炊",
+    "reading": "じすい",
+    "meaning": {
+      "ja": "自炊（自分で料理を作ること）",
+      "zh_TW": "自己煮、自炊",
+      "zh_CN": "自己做饭、自炊",
+      "en": "cooking for oneself",
+      "ko": "자취 요리 / 직접 요리하기",
+      "zh_HK": "自己煮飯",
+      "fr": "cuisiner soi-même"
+    },
+    "example": {
+      "ja": "A: <ruby>普段<rt>ふだん</rt></ruby>は<ruby>自炊<rt>じすい</rt></ruby>をしていますか。<br/>B: はい、<ruby>健康<rt>けんこう</rt></ruby>と<ruby>節約<rt>せつやく</rt></ruby>のために<ruby>家<rt>いえ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っています。",
+      "zh_TW": "A: 平常你會自己煮飯嗎？<br/>B: 會的，為了健康和省錢都在家自己煮。",
+      "zh_CN": "A: 平常你会自己做饭吗？<br/>B: 会的，为了健康和省钱都在家做饭。",
+      "en": "A: Do you usually cook for yourself?<br/>B: Yes, I cook at home for health and to save money.",
+      "ko": "A: 평소에 직접 요리를 해 드시나요?<br/>B: 네, 건강과 절약을 위해 집에서 만들어 먹어요.",
+      "zh_HK": "A: 平時你會唔會自己煮飯食㗎？<br/>B: 會呀，為咗健康同慳錢多數自己煮。",
+      "fr": "A: Cuisines-tu toi-même d'habitude ?<br/>B: Oui, pour la santé et pour économiser."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688454_nx4xci__趁錢",
+    "word": "稼ぐ",
+    "reading": "かせぐ",
+    "meaning": {
+      "ja": "稼ぐ（お金を得る）",
+      "zh_TW": "賺錢",
+      "zh_CN": "赚钱",
+      "en": "to earn (money)",
+      "ko": "벌다 (돈을 벌다)",
+      "zh_HK": "賺錢、搵錢",
+      "fr": "gagner (de l'argent)"
+    },
+    "example": {
+      "ja": "A: アルバイトでお<ruby>金<rt>かね</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>いで、<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。<br/>B: 素晴らしいですね！<ruby>応援<rt>おうえん</rt></ruby>しています。",
+      "zh_TW": "A: 我想靠打工賺錢去日本旅行。<br/>B: 太棒了！我支持你。",
+      "zh_CN": "A: 我想靠兼职打工赚钱去日本旅行。<br/>B: 太棒了！我支持你。",
+      "en": "A: I want to earn money from a part-time job to travel to Japan.<br/>B: That's wonderful! I'm cheering for you.",
+      "ko": "A: 아르바이트로 돈을 벌어서 일본 여행을 가고 싶어요.<br/>B: 멋지네요! 응원할게요.",
+      "zh_HK": "A: 我想做兼職搵錢去日本旅行呀。<br/>B: 好正喎！撐你！",
+      "fr": "A: Je veux gagner de l'argent avec un petit boulot pour voyager au Japon.<br/>B: C'est formidable ! Je t'encourage."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688468_79djqd__銀行",
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": {
+      "ja": "銀行",
+      "zh_TW": "銀行",
+      "zh_CN": "银行",
+      "en": "bank",
+      "ko": "은행",
+      "zh_HK": "銀行",
+      "fr": "banque"
+    },
+    "example": {
+      "ja": "A: これから<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってきます。<br/>B: ついでにお<ruby>金<rt>かね</rt></ruby>をおろしてきてもらえますか。",
+      "zh_TW": "A: 我現在要去站前的銀行一趟。<br/>B: 能順便幫我領點錢嗎？",
+      "zh_CN": "A: 我现在要去站前的银行一趟。<br/>B: 能顺便帮我取点钱吗？",
+      "en": "A: I'm going to the bank in front of the station now.<br/>B: Could you withdraw some cash for me while you're there?",
+      "ko": "A: 지금부터 역 앞 은행에 다녀올게요.<br/>B: 가는 김에 돈 좀 찾아다 줄 수 있어요?",
+      "zh_HK": "A: 我依家去站前嗰間銀行一趟。<br/>B: 可唔可以順便幫我撳啲錢呀？",
+      "fr": "A: Je vais à la banque devant la gare.<br/>B: Peux-tu me retirer un peu d'argent en passant ?"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688474_g6755p__事務所",
+    "word": "事務所",
+    "reading": "じむしょ",
+    "meaning": {
+      "ja": "事務所（オフィス）",
+      "zh_TW": "辦公室、事務所",
+      "zh_CN": "办公室、事务所",
+      "en": "office",
+      "ko": "사무소 / 사무실",
+      "zh_HK": "寫字樓、辦公室",
+      "fr": "bureau / cabinet"
+    },
+    "example": {
+      "ja": "A: <ruby>提出<rt>ていしゅつ</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>はどちらへ<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>けばいいですか。<br/>B: 1<ruby>階<rt>かい</rt></ruby>の<ruby>事務所<rt>じむしょ</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>してください。",
+      "zh_TW": "A: 要繳交的文件該送到哪裡呢？<br/>B: 請交到1樓的辦公室。",
+      "zh_CN": "A: 要提交的文件该交到哪里呢？<br/>B: 请交到1楼的办公室。",
+      "en": "A: Where should I take the documents to submit?<br/>B: Please submit them to the office on the 1st floor.",
+      "ko": "A: 제출 서류는 어디로 가져가면 되나요?<br/>B: 1층 사무실에 제출해 주세요.",
+      "zh_HK": "A: 份文件要交去邊度呀？<br/>B: 請交去1樓辦公室。",
+      "fr": "A: Où dois-je apporter les documents à déposer ?<br/>B: Déposez-les au bureau du rez-de-chaussée."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688480_rwo43z__桌仔",
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": {
+      "ja": "机",
+      "zh_TW": "桌子、書桌",
+      "zh_CN": "桌子、书桌",
+      "en": "desk",
+      "ko": "책상",
+      "zh_HK": "書枱、枱",
+      "fr": "bureau (meuble)"
+    },
+    "example": {
+      "ja": "A: テキストはどこに<ruby>置<rt>お</rt></ruby>きましたか。<br/>B: <ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてありますよ。",
+      "zh_TW": "A: 課本放在哪裡了？<br/>B: 就放在桌上喔。",
+      "zh_CN": "A: 课本放在哪里了？<br/>B: 就放在桌子上哦。",
+      "en": "A: Where did you put the textbook?<br/>B: It's on top of the desk.",
+      "ko": "A: 교재는 어디에 두었나요?<br/>B: 책상 위에 올려져 있어요.",
+      "zh_HK": "A: 本書擺咗喺邊呀？<br/>B: 擺咗喺書枱上面呀。",
+      "fr": "A: Où as-tu mis le manuel ?<br/>B: Il est posé sur le bureau."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688494_kh4lzt__會議室",
+    "word": "会議室",
+    "reading": "かいぎしつ",
+    "meaning": {
+      "ja": "会議室",
+      "zh_TW": "會議室",
+      "zh_CN": "会议室",
+      "en": "meeting room / conference room",
+      "ko": "회의실",
+      "zh_HK": "會議室",
+      "fr": "salle de réunion"
+    },
+    "example": {
+      "ja": "A: <ruby>午後<rt>ごご</rt></ruby>のミーティングはどこで<ruby>行<rt>おこな</rt></ruby>いますか。<br/>B: 2<ruby>階<rt>かい</rt></ruby>の<ruby>会議室<rt>かいぎしつ</rt></ruby>Aに<ruby>集<rt>あつ</rt></ruby>まってください。",
+      "zh_TW": "A: 下午的會議在哪裡開呢？<br/>B: 請大家到2樓的A會議室集合。",
+      "zh_CN": "A: 下午的会议在哪里开呢？<br/>B: 请大家到2楼的A会议室集合。",
+      "en": "A: Where will the afternoon meeting be held?<br/>B: Please gather in Conference Room A on the 2nd floor.",
+      "ko": "A: 오후 미팅은 어디서 하나요?<br/>B: 2층 회의실 A로 모여 주세요.",
+      "zh_HK": "A: 下晝個會喺邊度開呀？<br/>B: 請去2樓A會議室集合。",
+      "fr": "A: Où se tiendra la réunion de l'après-midi ?<br/>B: Rendez-vous en salle de réunion A au 2e étage."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688516_ik2gk3__有飼",
+    "word": "飼っています",
+    "reading": "かっています",
+    "meaning": {
+      "ja": "飼っています（ペットを飼育している）",
+      "zh_TW": "有養（寵物）",
+      "zh_CN": "养着（宠物）",
+      "en": "keeping / raising (a pet)",
+      "ko": "기르고 있습니다 / 키우고 있습니다",
+      "zh_HK": "養緊（寵物）",
+      "fr": "élever / avoir (un animal de compagnie)"
+    },
+    "example": {
+      "ja": "A: ペットは<ruby>何<rt>なに</rt></ruby>か<ruby>飼<rt>か</rt></ruby>っていますか。<br/>B: はい、かわいい<ruby>猫<rt>ねこ</rt></ruby>を2<ruby>匹<rt>ひき</rt></ruby><ruby>飼<rt>か</rt></ruby>っていますよ。",
+      "zh_TW": "A: 你有養什麼寵物嗎？<br/>B: 有的，我養了兩隻可愛的貓咪喔。",
+      "zh_CN": "A: 你有养什么宠物吗？<br/>B: 有的，我养了两只可爱的猫咪哦。",
+      "en": "A: Do you have any pets?<br/>B: Yes, I have two cute cats.",
+      "ko": "A: 반려동물 키우고 계신가요?<br/>B: 네, 귀여운 고양이 두 마리를 키우고 있어요.",
+      "zh_HK": "A: 你有冇養寵物呀？<br/>B: 有呀，我養咗兩隻好得意嘅貓貓。",
+      "fr": "A: Avez-vous des animaux de compagnie ?<br/>B: Oui, j'ai deux chats adorables."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688526_e0wuwh__感情好",
+    "word": "仲が良い",
+    "reading": "なかがいい",
+    "meaning": {
+      "ja": "仲が良い",
+      "zh_TW": "感情好、關係融洽",
+      "zh_CN": "关系好、感情好",
+      "en": "on good terms / close with",
+      "ko": "사이가 좋다",
+      "zh_HK": "好老友、感情好",
+      "fr": "bien s'entendre / être proches"
+    },
+    "example": {
+      "ja": "A: あの2<ruby>人<rt>ふたり</rt></ruby>はいつも<ruby>一緒<rt>いっしょ</rt></ruby>ですね。<br/>B: ええ、<ruby>昔<rt>むかし</rt></ruby>からとても<ruby>仲<rt>なか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>親友<rt>しんゆう</rt></ruby>なんです。",
+      "zh_TW": "A: 那兩個人總是在一起呢。<br/>B: 是啊，他們從小就是感情非常好的摯友。",
+      "zh_CN": "A: 那两个人总是在一起呢。<br/>B: 是啊，他们从小就是感情非常好的挚友。",
+      "en": "A: Those two are always together, aren't they?<br/>B: Yes, they've been very close best friends for a long time.",
+      "ko": "A: 저 두 사람은 언제나 함께 있네요.<br/>B: 네, 예전부터 사이가 아주 좋은 절친이에요.",
+      "zh_HK": "A: 嗰兩條友成日黐埋一齊嘅。<br/>B: 係呀，佢哋由細到大都係好老友嘅知己嚟㗎。",
+      "fr": "A: Ces deux-là sont toujours ensemble, n'est-ce pas ?<br/>B: Oui, ce sont de très bons amis de longue date."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688541_0y0x7v__無好",
+    "word": "よくない",
+    "reading": "よくない",
+    "meaning": {
+      "ja": "よくない（良くない）",
+      "zh_TW": "不好、不太好",
+      "zh_CN": "不好、不妥",
+      "en": "not good",
+      "ko": "좋지 않다",
+      "zh_HK": "唔好",
+      "fr": "pas bien / mauvais"
+    },
+    "example": {
+      "ja": "A: <ruby>夜遅<rt>よるおそ</rt></ruby>くまでスマホを<ruby>見<rt>み</rt></ruby>るのはよくないですよ。<br/>B: そうですね、<ruby>今日<rt>きょう</rt></ruby>からは<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。",
+      "zh_TW": "A: 看手機看到深夜對身體不好喔。<br/>B: 說得也是，今天起我會早點睡。",
+      "zh_CN": "A: 玩手机玩到深夜对身体不好哦。<br/>B: 说的也是，今天起我会早点睡。",
+      "en": "A: Looking at your smartphone late into the night is not good for you.<br/>B: You're right, I'll go to sleep early starting tonight.",
+      "ko": "A: 밤늦게까지 스마트폰을 보는 건 좋지 않아요.<br/>B: 맞아요, 오늘부터는 일찍 잘게요.",
+      "zh_HK": "A: 睇手機睇到咁夜對身體唔好㗎。<br/>B: 係呀，今晚開始我早啲瞓喇。",
+      "fr": "A: Regarder son smartphone tard le soir n'est pas bon pour la santé.<br/>B: C'est vrai, je vais me coucher tôt dès ce soir."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688558_cwqljh__大人",
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": {
+      "ja": "大人（成人）",
+      "zh_TW": "大人、成人",
+      "zh_CN": "大人、成年人",
+      "en": "adult",
+      "ko": "어른 / 성인",
+      "zh_HK": "大人",
+      "fr": "adulte"
+    },
+    "example": {
+      "ja": "A: <ruby>日本<rt>にほん</rt></ruby>では<ruby>何歳<rt>なんさい</rt></ruby>から<ruby>大人<rt>おとな</rt></ruby>になりますか。<br/>B: <ruby>法律<rt>ほうりつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>は18<ruby>歳<rt>さい</rt></ruby>から<ruby>成人<rt>せいじん</rt></ruby>ですよ。",
+      "zh_TW": "A: 在日本幾歲算成年大人呢？<br/>B: 法律上滿18歲就是成人了喔。",
+      "zh_CN": "A: 在日本几岁算成年大人呢？<br/>B: 法律上满18岁就是成人了哦。",
+      "en": "A: At what age does someone become an adult in Japan?<br/>B: Legally, one becomes an adult at age 18.",
+      "ko": "A: 일본에서는 몇 살부터 어른이 되나요?<br/>B: 법률상으로는 18세부터 성인이에요.",
+      "zh_HK": "A: 喺日本幾多歲先算大人呀？<br/>B: 法律上18歲就係成年人喇。",
+      "fr": "A: À quel âge devient-on adulte au Japon ?<br/>B: Légalement, la majorité est à 18 ans."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688572_8rnism__揀食",
+    "word": "偏食",
+    "reading": "へんしょく",
+    "meaning": {
+      "ja": "偏食（好き嫌いが多いこと）",
+      "zh_TW": "挑食、偏食",
+      "zh_CN": "挑食、偏食",
+      "en": "picky eating / unbalanced diet",
+      "ko": "편식",
+      "zh_HK": "揀飲擇食、偏食",
+      "fr": "alimentation déséquilibrée / faire le difficile"
+    },
+    "example": {
+      "ja": "A: <ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ころ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いで<ruby>偏食<rt>へんしょく</rt></ruby>でした。<br/>B: <ruby>今<rt>いま</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べられるようになりましたか。",
+      "zh_TW": "A: 小時候我很討厭蔬菜，非常挑食。<br/>B: 現在什麼都吃得下了嗎？",
+      "zh_CN": "A: 小时候我很讨厌蔬菜，非常挑食。<br/>B: 现在什么都能吃了吗？",
+      "en": "A: When I was a child, I hated vegetables and was a picky eater.<br/>B: Can you eat everything now?",
+      "ko": "A: 어릴 때는 채소를 싫어해서 편식을 했어요.<br/>B: 지금은 뭐든지 잘 먹게 되었나요?",
+      "zh_HK": "A: 細個嗰陣我好憎食菜，好揀飲擇食。<br/>B: 依家係咪咩都食得喇？",
+      "fr": "A: Enfant, je détestais les légumes et je faisais le difficile.<br/>B: Peux-tu tout manger maintenant ?"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688584_skej7u__茄仔",
+    "word": "ナス",
+    "reading": "なす",
+    "meaning": {
+      "ja": "ナス（茄子）",
+      "zh_TW": "茄子",
+      "zh_CN": "茄子",
+      "en": "eggplant / aubergine",
+      "ko": "가지",
+      "zh_HK": "矮瓜、茄子",
+      "fr": "aubergine"
+    },
+    "example": {
+      "ja": "A: <ruby>夏野菜<rt>なつやさい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>ではナスが<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きです。<br/>B: <ruby>焼<rt>や</rt></ruby>きナスや<ruby>天<rt>てん</rt></ruby>ぷらにすると<ruby>美味<rt>おい</rt></ruby>しいですね。",
+      "zh_TW": "A: 夏天蔬菜當中我最喜歡茄子。<br/>B: 做成烤茄子或天婦羅非常美味呢。",
+      "zh_CN": "A: 夏季蔬菜当中我最喜欢茄子。<br/>B: 做成烤茄子或天妇罗非常美味呢。",
+      "en": "A: Among summer vegetables, I like eggplant the best.<br/>B: It's delicious grilled or made into tempura.",
+      "ko": "A: 여름 채소 중에서는 가지를 제일 좋아해요.<br/>B: 가지구이나 튀김으로 먹으면 정말 맛있죠.",
+      "zh_HK": "A: 咁多夏天蔬菜之中我最鍾意食矮瓜。<br/>B: 整燒茄子或者天婦羅都好好食㗎。",
+      "fr": "A: Parmi les légumes d'été, c'est l'aubergine que je préfère.<br/>B: C'est délicieux grillé ou en tempura."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688591_goll5a__青椒",
+    "word": "ピーマン",
+    "reading": "ぴーまん",
+    "meaning": {
+      "ja": "ピーマン",
+      "zh_TW": "青椒",
+      "zh_CN": "青椒",
+      "en": "green bell pepper",
+      "ko": "피망",
+      "zh_HK": "青椒",
+      "fr": "poivron vert"
+    },
+    "example": {
+      "ja": "A: <ruby>今晩<rt>こんばん</rt></ruby>はピーマンと<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<ruby>炒<rt>いた</rt></ruby>め<ruby>物<rt>もの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。<br/>B: ピーマンがシャキシャキして<ruby>美味<rt>おい</rt></ruby>しそうですね！",
+      "zh_TW": "A: 今晚要做青椒炒牛肉。<br/>B: 青椒脆脆的一定很下飯美味！",
+      "zh_CN": "A: 今晚要做青椒炒牛肉。<br/>B: 青椒脆脆的一定很下饭美味！",
+      "en": "A: Tonight I'm making stir-fried beef with bell peppers.<br/>B: The crisp peppers sound delicious!",
+      "ko": "A: 오늘 저녁엔 피망 소고기 볶음을 만들 거예요.<br/>B: 피망이 아삭아삭해서 맛있겠네요!",
+      "zh_HK": "A: 今晚我會炒青椒牛肉。<br/>B: 青椒爽爽脆脆咁一定好好食！",
+      "fr": "A: Ce soir, je prépare du bœuf sauté aux poivrons verts.<br/>B: Les poivrons bien croquants, ça a l'air délicieux !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688597_v9gkjw__紅菜頭",
+    "word": "にんじん",
+    "reading": "にんじん",
+    "meaning": {
+      "ja": "にんじん（人参）",
+      "zh_TW": "紅蘿蔔、胡蘿蔔",
+      "zh_CN": "胡萝卜",
+      "en": "carrot",
+      "ko": "당근",
+      "zh_HK": "紅蘿蔔",
+      "fr": "carotte"
+    },
+    "example": {
+      "ja": "A: カレーにはにんじんをたっぷり<ruby>入<rt>い</rt></ruby>れます。<br/>B: <ruby>甘<rt>あま</rt></ruby>みが出てとても<ruby>美味<rt>おい</rt></ruby>しくなりますね。",
+      "zh_TW": "A: 煮咖哩時我會放很多紅蘿蔔。<br/>B: 會散發自然的甜味，變得非常好吃呢。",
+      "zh_CN": "A: 煮咖喱时我会放很多胡萝卜。<br/>B: 会散发自然的甜味，变得非常好吃呢。",
+      "en": "A: I put lots of carrots in curry.<br/>B: It brings out the sweetness and makes it very delicious.",
+      "ko": "A: 카레에는 당근을 듬뿍 넣어요.<br/>B: 단맛이 우러나서 아주 맛있어지죠.",
+      "zh_HK": "A: 煮咖喱我會落好多紅蘿蔔。<br/>B: 出晒甜味咁好正㗎。",
+      "fr": "A: Je mets beaucoup de carottes dans le curry.<br/>B: Cela apporte de la douceur et c'est délicieux."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688604_h9kaib__口感",
+    "word": "食感",
+    "reading": "しょっかん",
+    "meaning": {
+      "ja": "食感（食べたときの口当たりの感じ）",
+      "zh_TW": "口感",
+      "zh_CN": "口感",
+      "en": "food texture / mouthfeel",
+      "ko": "식감",
+      "zh_HK": "口感",
+      "fr": "texture en bouche"
+    },
+    "example": {
+      "ja": "A: このお<ruby>餅<rt>もち</rt></ruby>はモチモチした<ruby>食感<rt>しょっかん</rt></ruby>が<ruby>最高<rt>さいこう</rt></ruby>ですね。<br/>B: ええ、<ruby>食<rt>た</rt></ruby>べごたえがあってとても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "zh_TW": "A: 這款麻糬Q彈的口感真是絕品。<br/>B: 是啊，很有嚼勁非常好吃。",
+      "zh_CN": "A: 这款麻薯Q弹的口感真是绝品。<br/>B: 是啊，很有嚼劲非常好吃。",
+      "en": "A: This mochi has the best chewy texture.<br/>B: Yes, it's very satisfying and delicious.",
+      "ko": "A: 이 떡은 쫄깃쫄깃한 식감이 최고네요.<br/>B: 네, 씹는 맛이 있어서 아주 맛있어요.",
+      "zh_HK": "A: 呢舊麻糬煙煙韌韌嘅口感真係正。<br/>B: 係呀，好有咬口好好食。",
+      "fr": "A: Ce mochi a une texture moelleuse formidable.<br/>B: Oui, c'est très consistant et savoureux."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_1791710688612_euyhaw__日式蒸卵",
+    "word": "茶碗蒸し",
+    "reading": "ちゃわんむし",
+    "meaning": {
+      "ja": "茶碗蒸し",
+      "zh_TW": "日式茶碗蒸",
+      "zh_CN": "日式茶碗蒸",
+      "en": "chawanmushi (savory steamed egg custard)",
+      "ko": "차완무시 (일본식 달걀찜)",
+      "zh_HK": "日式茶碗蒸、日式燉蛋",
+      "fr": "chawanmushi (flan aux œufs salé à la japonaise)"
+    },
+    "example": {
+      "ja": "A: <ruby>和食<rt>わしょく</rt></ruby>の<ruby>茶碗蒸<rt>ちゃわんむ</rt></ruby>しを<ruby>食<rt>た</rt></ruby>べたことがありますか。<br/>B: はい、出汁の味がして、なめらかで<ruby>大好<rt>だいす</rt></ruby>きです。",
+      "zh_TW": "A: 你吃過日式料理的茶碗蒸嗎？<br/>B: 吃過，高湯的味道很濃郁，口感滑嫩，我很喜歡。",
+      "zh_CN": "A: 你吃过日料里的茶碗蒸吗？<br/>B: 吃过，高汤味很浓，口感滑嫩，我很喜欢。",
+      "en": "A: Have you ever eaten Japanese chawanmushi?<br/>B: Yes, it has a rich dashi flavor, is so smooth, and I love it.",
+      "ko": "A: 일본 요리인 차완무시를 드셔 본 적이 있나요?<br/>B: 네, 육수 맛이 나고 부드러워서 정말 좋아해요.",
+      "zh_HK": "A: 你食過日本料理嘅茶碗蒸未呀？<br/>B: 食過呀，好香高湯味又滑，我好鍾意。",
+      "fr": "A: As-tu déjà goûté au chawanmushi japonais ?<br/>B: Oui, c'est doux, riche en bouillon dashi et j'adore ça."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  }
+];
+
   const MIDORI_NEW_WORDS = new Set([
     '夜市', '自由', '楽しむ', '謳歌する',
     '攻撃', '通知', '失礼', '舌打ち',
@@ -3339,6 +4119,7 @@
     const w = (c.word || '').trim();
     const r = (c.reading || '').trim();
     const id = c.id || '';
+    if (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id)) return false;
     const exJa = (c.example && c.example.ja) ? c.example.ja : '';
     // Any card that matches Midori's 16 words but has a generated custom ID (from repeated manual imports)
     if (MIDORI_NEW_WORDS.has(w) && id.startsWith('card_') && !MIDORI_NEW_CARD_IDS.includes(id)) return true;
@@ -4101,6 +4882,9 @@
     }
     if (typeof DANIEL_CURATED_CARDS !== 'undefined') {
       DANIEL_CURATED_CARDS.forEach(c => ensureCustomCard(c));
+    }
+    if (typeof ELIIE_CURATED_CARDS !== 'undefined') {
+      ELIIE_CURATED_CARDS.forEach(c => ensureCustomCard(c));
     }
 
     // Auto-purge any corrupted cards or seed duplicates from custom pool
@@ -5405,6 +6189,22 @@
     } else if (studentPrefix === '0023' && window.CLASS_ARUN_IDS) {
       let needsSave = false;
       window.CLASS_ARUN_IDS.forEach(cId => {
+        if (!mylistSet.has(cId)) {
+          mylistSet.add(cId);
+          needsSave = true;
+        }
+        if (!mylistCardFolderMap[cId]) {
+          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+          needsSave = true;
+        }
+      });
+      if (needsSave) {
+        localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+        localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+      }
+    } else if (studentPrefix === '0010' && typeof ELIIE_CURATED_CARDS !== 'undefined') {
+      let needsSave = false;
+      ELIIE_NEW_CARD_IDS.forEach(cId => {
         if (!mylistSet.has(cId)) {
           mylistSet.add(cId);
           needsSave = true;
@@ -7458,6 +8258,10 @@
     if (typeof DANIEL_CURATED_CARDS !== 'undefined') {
       const dCurated = DANIEL_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
       if (dCurated) return dCurated;
+    }
+    if (typeof ELIIE_CURATED_CARDS !== 'undefined') {
+      const eCurated = ELIIE_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
+      if (eCurated) return eCurated;
     }
     // 1. Check current in-memory vocabList
     let found = vocabList.find(c => (c.id === cardId || c.word === cardId) && !isStubCard(c));
