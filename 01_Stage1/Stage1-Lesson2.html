@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Stage1-Lesson2：これ／それ／あれ・この／その／あの・〜の</title>
+<title>Stage1-Lesson2：こそあど完全マスター — これ／それ／あれ・この／その／あの・ここ／そこ／あそこ</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -92,8 +92,6 @@
   .dialogue-en-line { font-size: 0.86rem; font-weight: 500; color: #334155; }
   .dialogue-native-line { font-size: 0.80rem; color: #64748B; }
 
-  .note-box { background: var(--yellow-bg); border: 1.5px solid var(--yellow-border); border-radius: 12px; padding: 12px 16px; margin: 12px 0; font-size: 0.85rem; color: var(--yellow-title); }
-
   .kanji-display-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; }
   .kanji-box-item { background: white; border: 1.5px solid var(--pink-border); border-radius: 14px; padding: 14px 10px; text-align: center; }
   .kanji-large-char { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 2.5rem; font-weight: 600; color: var(--navy-main); line-height: 1.1; }
@@ -118,7 +116,7 @@
   <div class="header-inner">
     <div class="header-title-box">
       <span class="badge-stage">STAGE 1 - LESSON 2</span>
-      <h1>これ／それ／あれ・この／その／あの・〜の</h1>
+      <h1>こそあど完全マスター — これ／それ／あれ・この／その／あの・ここ／そこ／あそこ</h1>
     </div>
     <div class="lang-switcher">
       <span>🌐</span>
@@ -134,13 +132,14 @@
 </header>
 
 <div class="nav-bar">
-  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system')">1. こそあど一覧・図解</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-1')">2. これ／それ／あれ</button>
+  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system')">1. こそあど体系表・図解</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-1')">2. これ／それ／あれ (物)</button>
   <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-2')">3. この／その／あの＋名詞</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-3')">4. 〜の (所有・省略)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-4')">5. だれ・何・どれ・どの</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-review')">6. これまでの総復習</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji')">7. Kanji & Pool</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-3')">4. ここ／そこ／あそこ (場所)</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-4')">5. 〜の (所有・省略)</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-5')">6. だれ・何・どれ・どの・どこ</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-review')">7. これまでの総復習</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji')">8. Kanji & Word Pool</button>
 </div>
 
 <div class="container">
@@ -149,74 +148,9 @@
   <section class="content-card" id="sec-system">
     <div class="card-header-row">
       <div class="step-label">Step 1</div>
-      <div class="card-main-title">こそあど全体体系表 ＆ イラスト図解 — Ko-So-A-Do System</div>
-      <div class="card-subtitle-en">Japanese demonstratives follow a beautifully unified 4-way pattern: こ (near me), そ (near you), あ (far from both), and ど (question). Today in Lesson 2, we master the "things" columns!</div>
-      <div class="card-subtitle-native i18n-native" data-ko="일본어 지시대명사는 こ(나에게 가까움), そ(상대에게 가까움), あ(둘 다에서 멂), ど(의문)라는 완벽히 통일된 4가지 체계를 따릅니다. 이번 2과에서는 '사물'을 가리키는 표현을 마스터합니다!" data-zhcn="日语音示代词遵循极其规整的四分体系：こ（离我近）、そ（离你近）、あ（离两者都远）、ど（疑问）。今天在第2课，我们将重点掌握指代「事物」的这几列！" data-zhtw="日語指示代名詞遵循極其規整的四分體系：こ（離我近）、そ（離你近）、あ（離兩者都遠）、ど（疑問）。今天在Stage 1 - Lesson 2，我們將重點掌握指代「事物」的這幾列！" data-cant="日文指示代名詞跟住一個好整齊嘅四分體系：こ（離我近）、そ（離你近）、あ（離兩邊都遠）、ど（疑問）。今日喺Stage 1 - Lesson 2，我哋會重點掌握講「事物」嘅呢幾行！"></div>
-    </div>
-
-    <!-- イラスト1: これ・それ・あれの距離感 -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card" style="background:#FFFDF9; border:2px solid #F0E6D2; padding:20px;">
-        <div class="grammar-card-head">
-          <span class="grammar-tag" style="background:#E8F5E9; color:#2E7D32; border-color:#A5D6A7;">イラストで理解！</span>
-          <strong style="color:var(--navy-main); font-size:1.05rem;">クマの田中さんと白ウサギの鈴木さんで見る「これ・それ・あれ」の距離感</strong>
-        </div>
-        <div class="grammar-desc-en" style="margin-bottom:12px;">Tanaka-san (Bear / Speaker) and Suzuki-san (Rabbit / Listener) show you how distance decides which word to use:</div>
-
-        <div style="text-align:center; margin:10px 0 16px; background:white; border-radius:14px; padding:10px; border:1px solid #E2E8F0; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
-          <img src="../images/kosoado_illustration.jpg" alt="これ・それ・あれのイラスト図解" style="max-width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;" />
-        </div>
-
-        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:12px;">
-          <!-- これ -->
-          <div style="background:#F0FDF4; border:2px solid #86EFAC; border-radius:12px; padding:14px; display:flex; flex-direction:column; justify-content:space-between;">
-            <div>
-              <div style="display:flex; justify-content:space-between; align-items:center;">
-                <span style="font-size:1.35rem; font-weight:700; color:#166534; font-family:'游ゴシック', 'YuGothic', sans-serif;">📗 これ</span>
-                <span style="font-size:0.75rem; background:#DCFCE7; color:#15803D; padding:2px 8px; border-radius:8px; font-weight:700;">こ (Near Me)</span>
-              </div>
-              <div style="font-size:0.86rem; font-weight:700; color:#14532D; margin-top:6px;">話し手（クマの田中さん）の近く</div>
-              <div style="font-size:0.80rem; color:#374151; margin-top:3px; line-height:1.4;">手元や自分の目の前にある物を指すとき。</div>
-            </div>
-            <div style="margin-top:10px; padding-top:8px; border-top:1px dashed #BBF7D0; font-size:0.82rem; color:#166534; display:flex; align-items:center; justify-content:space-between;">
-              <span>例：<strong>これは本です。</strong></span>
-              <button class="tts-btn" onclick="speakText('これは本です。')" title="Listen">🔊</button>
-            </div>
-          </div>
-
-          <!-- それ -->
-          <div style="background:#EFF6FF; border:2px solid #93C5FD; border-radius:12px; padding:14px; display:flex; flex-direction:column; justify-content:space-between;">
-            <div>
-              <div style="display:flex; justify-content:space-between; align-items:center;">
-                <span style="font-size:1.35rem; font-weight:700; color:#1E40AF; font-family:'游ゴシック', 'YuGothic', sans-serif;">📘 それ</span>
-                <span style="font-size:0.75rem; background:#DBEAFE; color:#1D4ED8; padding:2px 8px; border-radius:8px; font-weight:700;">そ (Near You)</span>
-              </div>
-              <div style="font-size:0.86rem; font-weight:700; color:#1E3A8A; margin-top:6px;">聞き手（ウサギの鈴木さん）の近く</div>
-              <div style="font-size:0.80rem; color:#374151; margin-top:3px; line-height:1.4;">話し相手の手元や相手の前にある物を指すとき。</div>
-            </div>
-            <div style="margin-top:10px; padding-top:8px; border-top:1px dashed #BFDBFE; font-size:0.82rem; color:#1E40AF; display:flex; align-items:center; justify-content:space-between;">
-              <span>例：<strong>それは本です。</strong></span>
-              <button class="tts-btn" onclick="speakText('それは本です。')" title="Listen">🔊</button>
-            </div>
-          </div>
-
-          <!-- あれ -->
-          <div style="background:#FFF7ED; border:2px solid #FDBA74; border-radius:12px; padding:14px; display:flex; flex-direction:column; justify-content:space-between;">
-            <div>
-              <div style="display:flex; justify-content:space-between; align-items:center;">
-                <span style="font-size:1.35rem; font-weight:700; color:#C2410C; font-family:'游ゴシック', 'YuGothic', sans-serif;">📙 あれ</span>
-                <span style="font-size:0.75rem; background:#FFEDD5; color:#C2410C; padding:2px 8px; border-radius:8px; font-weight:700;">あ (Far from Both)</span>
-              </div>
-              <div style="font-size:0.86rem; font-weight:700; color:#7C2D12; margin-top:6px;">二人から離れた場所（遠く）</div>
-              <div style="font-size:0.80rem; color:#374151; margin-top:3px; line-height:1.4;">話し手からも聞き手からも離れた遠くの物を指すとき。</div>
-            </div>
-            <div style="margin-top:10px; padding-top:8px; border-top:1px dashed #FED7AA; font-size:0.82rem; color:#C2410C; display:flex; align-items:center; justify-content:space-between;">
-              <span>例：<strong>あれは本です。</strong></span>
-              <button class="tts-btn" onclick="speakText('あれは本です。')" title="Listen">🔊</button>
-            </div>
-          </div>
-        </div>
-      </div>
+      <div class="card-main-title">こそあど全体体系表 ＆ イラスト図解 — The Complete Ko-So-A-Do System</div>
+      <div class="card-subtitle-en">Japanese demonstratives follow a beautifully unified 4-way pattern: こ (near me), そ (near you), あ (far from both), and ど (question). In Lesson 2, we master all the core demonstratives: Things, Things with Nouns, and Places!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="일본어 지시대명사는 こ(나에게 가까움), そ(상대에게 가까움), あ(둘 다에서 멂), ど(의문)라는 완벽히 통일된 4가지 체계를 따릅니다. 2과에서는 사물, 명사수식, 장소까지 핵심 지시어를 완전 마스터합니다!" data-zhcn="日语音示代词遵循极其规整的四分体系：こ（离我近）、そ（离你近）、あ（离两者都远）、ど（疑问）。在第2课，我们将一次性掌握指代事物、连体修饰与指代场所的核心指示词！" data-zhtw="日語指示代名詞遵循極其規整的四分體系：こ（離我近）、そ（離你近）、あ（離兩者都遠）、ど（疑問）。在Stage 1 - Lesson 2，我們將一次性掌握指代事物、連體修飾與指代場所的核心指示詞！" data-cant="日文指示代名詞跟住一個好整齊嘅四分體系：こ（離我近）、そ（離你近）、あ（離兩邊都遠）、ど（疑問）。喺Stage 1 - Lesson 2，我哋會一次過學晒講事物、名詞修飾同埋講地點嘅核心指示詞！"></div>
     </div>
 
     <!-- こそあど完全マトリクス体系表 -->
@@ -233,11 +167,10 @@
             <thead>
               <tr style="background:#1E5989; color:white;">
                 <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; width:120px;">グループ<br><span style="font-weight:400; opacity:0.85;">Distance</span></th>
-                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; background:#14446C;">✨ もの (Things)<br><span style="font-size:0.72rem; color:#FDE047;">★今学ぶ！代名詞</span></th>
-                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; background:#14446C;">✨ 〜＋名詞<br><span style="font-size:0.72rem; color:#FDE047;">★今学ぶ！連体詞</span></th>
-                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem;">ばしょ (Places)<br><span style="font-size:0.72rem; opacity:0.85;">Lesson 3で学習</span></th>
+                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; background:#14446C;">✨ もの (Things)<br><span style="font-size:0.72rem; color:#FDE047;">代名詞（単独）</span></th>
+                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; background:#14446C;">✨ 〜＋名詞<br><span style="font-size:0.72rem; color:#FDE047;">連体詞（＋名詞）</span></th>
+                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem; background:#14446C;">✨ ばしょ (Places)<br><span style="font-size:0.72rem; color:#FDE047;">場所の代名詞</span></th>
                 <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem;">ほうこう・丁寧<br><span style="font-size:0.72rem; opacity:0.85;">Direction / Polite</span></th>
-                <th style="padding:10px 8px; border:1px solid #3B82F6; font-size:0.78rem;">ようす (Manner)<br><span style="font-size:0.72rem; opacity:0.85;">How</span></th>
               </tr>
             </thead>
             <tbody>
@@ -245,7 +178,7 @@
               <tr style="background:#F0FDF4;">
                 <td style="padding:10px 8px; border:1px solid #CBD5E1; font-weight:700; color:#166534; text-align:center;">
                   <span style="font-size:1.3rem; display:block; font-family:'游ゴシック', 'YuGothic', sans-serif;">こ</span>
-                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Close to speaker<br>(話し手に近い)</span>
+                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Near Speaker<br>(話し手に近い)</span>
                 </td>
                 <td style="padding:10px 8px; border:2px solid #16A34A; text-align:center; font-weight:700; font-size:1.08rem; color:#15803D; background:#DCFCE7;">
                   これ <button class="tts-btn" onclick="speakText('これ')" title="Listen">🔊</button>
@@ -253,16 +186,17 @@
                 <td style="padding:10px 8px; border:2px solid #16A34A; text-align:center; font-weight:700; font-size:1.08rem; color:#15803D; background:#DCFCE7;">
                   この<span style="font-size:0.76rem; font-weight:500; color:#4B5563;">＋名詞</span>
                 </td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#166534;">ここ</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#166534;">こっち／こちら</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#166534;">こう</td>
+                <td style="padding:10px 8px; border:2px solid #16A34A; text-align:center; font-weight:700; font-size:1.08rem; color:#15803D; background:#DCFCE7;">
+                  ここ <button class="tts-btn" onclick="speakText('ここ')" title="Listen">🔊</button>
+                </td>
+                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#166534;">こちら</td>
               </tr>
 
               <!-- そ 行 -->
               <tr style="background:#EFF6FF;">
                 <td style="padding:10px 8px; border:1px solid #CBD5E1; font-weight:700; color:#1E40AF; text-align:center;">
                   <span style="font-size:1.3rem; display:block; font-family:'游ゴシック', 'YuGothic', sans-serif;">そ</span>
-                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Close to listener<br>(聞き手に近い)</span>
+                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Near Listener<br>(聞き手に近い)</span>
                 </td>
                 <td style="padding:10px 8px; border:2px solid #2563EB; text-align:center; font-weight:700; font-size:1.08rem; color:#1D4ED8; background:#DBEAFE;">
                   それ <button class="tts-btn" onclick="speakText('それ')" title="Listen">🔊</button>
@@ -270,16 +204,17 @@
                 <td style="padding:10px 8px; border:2px solid #2563EB; text-align:center; font-weight:700; font-size:1.08rem; color:#1D4ED8; background:#DBEAFE;">
                   その<span style="font-size:0.76rem; font-weight:500; color:#4B5563;">＋名詞</span>
                 </td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#1E40AF;">そこ</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#1E40AF;">そっち／そちら</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#1E40AF;">そう</td>
+                <td style="padding:10px 8px; border:2px solid #2563EB; text-align:center; font-weight:700; font-size:1.08rem; color:#1D4ED8; background:#DBEAFE;">
+                  そこ <button class="tts-btn" onclick="speakText('そこ')" title="Listen">🔊</button>
+                </td>
+                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#1E40AF;">そちら</td>
               </tr>
 
               <!-- あ 行 -->
               <tr style="background:#FFF7ED;">
                 <td style="padding:10px 8px; border:1px solid #CBD5E1; font-weight:700; color:#C2410C; text-align:center;">
                   <span style="font-size:1.3rem; display:block; font-family:'游ゴシック', 'YuGothic', sans-serif;">あ</span>
-                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Far from both<br>(両者から遠い)</span>
+                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Far from Both<br>(両者から遠い)</span>
                 </td>
                 <td style="padding:10px 8px; border:2px solid #EA580C; text-align:center; font-weight:700; font-size:1.08rem; color:#C2410C; background:#FFEDD5;">
                   あれ <button class="tts-btn" onclick="speakText('あれ')" title="Listen">🔊</button>
@@ -287,16 +222,17 @@
                 <td style="padding:10px 8px; border:2px solid #EA580C; text-align:center; font-weight:700; font-size:1.08rem; color:#C2410C; background:#FFEDD5;">
                   あの<span style="font-size:0.76rem; font-weight:500; color:#4B5563;">＋名詞</span>
                 </td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#C2410C;">あそこ</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#C2410C;">あっち／あちら</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#C2410C;">ああ／あんな</td>
+                <td style="padding:10px 8px; border:2px solid #EA580C; text-align:center; font-weight:700; font-size:1.08rem; color:#C2410C; background:#FFEDD5;">
+                  あそこ <button class="tts-btn" onclick="speakText('あそこ')" title="Listen">🔊</button>
+                </td>
+                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#C2410C;">あちら</td>
               </tr>
 
               <!-- ど 行 -->
               <tr style="background:#FDF2F8;">
                 <td style="padding:10px 8px; border:1px solid #CBD5E1; font-weight:700; color:#9D174D; text-align:center;">
                   <span style="font-size:1.3rem; display:block; font-family:'游ゴシック', 'YuGothic', sans-serif;">ど</span>
-                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Question word<br>(質問・疑問)</span>
+                  <span style="font-size:0.70rem; color:#4B5563; font-weight:500;">Question Word<br>(質問・疑問)</span>
                 </td>
                 <td style="padding:10px 8px; border:2px solid #DB2777; text-align:center; font-weight:700; font-size:1.08rem; color:#BE185D; background:#FCE7F3;">
                   どれ <button class="tts-btn" onclick="speakText('どれ')" title="Listen">🔊</button>
@@ -304,67 +240,84 @@
                 <td style="padding:10px 8px; border:2px solid #DB2777; text-align:center; font-weight:700; font-size:1.08rem; color:#BE185D; background:#FCE7F3;">
                   どの<span style="font-size:0.76rem; font-weight:500; color:#4B5563;">＋名詞</span>
                 </td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#9D174D;">どこ</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#9D174D;">どっち／どちら</td>
-                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#9D174D;">どう／どんな</td>
+                <td style="padding:10px 8px; border:2px solid #DB2777; text-align:center; font-weight:700; font-size:1.08rem; color:#BE185D; background:#FCE7F3;">
+                  どこ <button class="tts-btn" onclick="speakText('どこ')" title="Listen">🔊</button>
+                </td>
+                <td style="padding:10px 8px; border:1px solid #CBD5E1; text-align:center; color:#9D174D;">どちら</td>
               </tr>
             </tbody>
           </table>
         </div>
       </div>
     </div>
-
-    <!-- 最重要ポイントの比較ボックス -->
-    <div style="background:#FFFDEB; border:1.5px solid #F0D462; border-radius:12px; padding:14px 18px; margin:14px 0; font-size:0.88rem; color:#6E4F00;">
-      <div style="font-weight:700; font-size:0.95rem; margin-bottom:6px; display:flex; align-items:center; gap:6px;">
-        <span>💡</span><strong>【超重要】「これ」と「この＋名詞」の決定的な違い</strong>
-      </div>
-      <div style="line-height:1.6;">
-        ・<strong>これ／それ／あれ／どれ</strong>：<strong>単独で主語になれる！</strong>（後ろに直接「は」がつく）<br>
-        　⭕️ <strong>これは</strong> 本です。 / ⭕️ あなたの鍵は <strong>どれですか</strong>。<br>
-        ・<strong>この／その／あの／どの</strong>：<strong>絶対に単独では使えない！必ず直後に名詞が必要！</strong><br>
-        　⭕️ <strong>この本は</strong> 私のです。 （❌「このは私の本です」は間違い！）
-      </div>
-    </div>
   </section>
 
-  <!-- ==================== 2. これ／それ／あれ は 〜です ==================== -->
+  <!-- ==================== 2. これ／それ／あれ は 〜です (物) ==================== -->
   <section class="content-card" id="sec-grammar-1">
     <div class="card-header-row">
       <div class="step-label">Grammar 1</div>
-      <div class="card-main-title">これ／それ／あれ は N です — This / That / That over there is N</div>
-      <div class="card-subtitle-en">Demonstrative pronouns stand alone to point at things based on their distance from the speaker and listener.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="지시대명사 これ/それ/あれ는 단독으로 쓰여 말하는 사람과 듣는 사람의 거리에 따라 사물을 가리킵니다." data-zhcn="指示代词「これ／それ／あれ」可单独使用，根据与说话人、听话人的距离来指代物品。" data-zhtw="指示代名詞「これ／それ／あれ」可單獨使用，根據與說話人、聽話人的距離來指代物品。" data-cant="指示代名詞「これ／それ／あれ」可以單獨使用，跟住同講嘢嘅人、聽嘢嘅人嘅距離嚟指事物。"></div>
+      <div class="card-main-title">これ／それ／あれ は N です — This / That / That over there is N (Things)</div>
+      <div class="card-subtitle-en">Demonstrative pronouns stand alone to point at objects based on distance. In Lesson 1, you learned "これ". Now we complete the trio with "それ" and "あれ"!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="사물을 가리키는 지시대명사입니다. 1과에서 배운 'これ'에 더해, 상대방 쪽의 'それ', 둘 다에서 먼 'あれ'를 완성합니다!" data-zhcn="指代事物的指示代词。在第1课学过「これ」的基础上，本节补全指向听者的「それ」与离两者都远的「あれ」！" data-zhtw="指代事物的指示代詞。在第1課學過「これ」的基礎上，本節補全指向聽者的「それ」與離兩者都遠的「あれ」！" data-cant="指代事物嘅指示代詞。喺第1課學咗「これ」嘅基礎上，呢節補齊指向對方嘅「それ」同埋離兩邊都遠嘅「あれ」！"></div>
+    </div>
+
+    <!-- イラスト1: これ・それ・あれの距離感 -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card" style="background:#FFFDF9; border:2px solid #F0E6D2; padding:20px;">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:#E8F5E9; color:#2E7D32; border-color:#A5D6A7;">イラストで理解！</span>
+          <strong style="color:var(--navy-main); font-size:1.05rem;">クマの田中さんと白ウサギの鈴木さんで見る「これ・それ・あれ」の距離感</strong>
+        </div>
+        <div class="grammar-desc-en" style="margin-bottom:12px;">Tanaka-san (Bear / Speaker) and Suzuki-san (Rabbit / Listener) show you how distance decides which word to use:</div>
+
+        <div style="text-align:center; margin:10px 0 16px; background:white; border-radius:14px; padding:10px; border:1px solid #E2E8F0; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
+          <img src="../images/kosoado_illustration.jpg" alt="これ・それ・あれのイラスト図解" style="max-width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;" />
+        </div>
+
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:12px;">
+          <div style="background:#F0FDF4; border:2px solid #86EFAC; border-radius:12px; padding:14px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.35rem; font-weight:700; color:#166534; font-family:'游ゴシック', 'YuGothic', sans-serif;">📗 これ</span>
+              <span style="font-size:0.75rem; background:#DCFCE7; color:#15803D; padding:2px 8px; border-radius:8px; font-weight:700;">こ (Near Me)</span>
+            </div>
+            <div style="font-size:0.86rem; font-weight:700; color:#14532D; margin-top:6px;">話し手（田中さん）の手元にある物</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:3px;">例：<strong>これは本です。</strong></div>
+          </div>
+          <div style="background:#EFF6FF; border:2px solid #93C5FD; border-radius:12px; padding:14px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.35rem; font-weight:700; color:#1E40AF; font-family:'游ゴシック', 'YuGothic', sans-serif;">📘 それ</span>
+              <span style="font-size:0.75rem; background:#DBEAFE; color:#1D4ED8; padding:2px 8px; border-radius:8px; font-weight:700;">そ (Near You)</span>
+            </div>
+            <div style="font-size:0.86rem; font-weight:700; color:#1E3A8A; margin-top:6px;">聞き手（鈴木さん）の手元にある物</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:3px;">例：<strong>それは本です。</strong></div>
+          </div>
+          <div style="background:#FFF7ED; border:2px solid #FDBA74; border-radius:12px; padding:14px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.35rem; font-weight:700; color:#C2410C; font-family:'游ゴシック', 'YuGothic', sans-serif;">📙 あれ</span>
+              <span style="font-size:0.75rem; background:#FFEDD5; color:#C2410C; padding:2px 8px; border-radius:8px; font-weight:700;">あ (Far from Both)</span>
+            </div>
+            <div style="font-size:0.86rem; font-weight:700; color:#7C2D12; margin-top:6px;">二人から離れた遠くの物</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:3px;">例：<strong>あれは本です。</strong></div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div class="grammar-block">
       <div class="grammar-visual-card">
-        <div class="grammar-card-head"><span class="grammar-tag">基本公式</span><strong>これ／それ／あれ ＋ は ＋ [名詞] です。</strong></div>
-
-        <div class="grammar-diagram">
-          <div class="diagram-step"><div class="diagram-chip highlight">これ</div><div class="diagram-caption">near speaker</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip">は</div><div class="diagram-caption">topic</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip">辞書</div><div class="diagram-caption">noun</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">です。</div><div class="diagram-caption">is</div></div>
-        </div>
+        <div class="grammar-card-head"><span class="grammar-tag">公式</span><strong>これ／それ／あれ ＋ は ＋ [名詞] です。</strong></div>
 
         <div class="examples-block">
           <div class="examples-label">Examples（身の回りのもの）</div>
           <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">これは<ruby>辞書<rt>じしょ</rt></ruby>です。<button class="tts-btn" onclick="speakText('これは辞書です。')" title="Listen">🔊</button></div><div class="example-en">This is a dictionary.</div><div class="example-native i18n-native" data-ko="이것은 사전입니다." data-zhcn="这是字典。" data-zhtw="這是字典。" data-cant="呢個係字典。"></div></div></div>
           <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">それはノートですか。<button class="tts-btn" onclick="speakText('それはノートですか。')" title="Listen">🔊</button></div><div class="example-en">Is that (near you) a notebook?</div><div class="example-native i18n-native" data-ko="그것은 노트입니까?" data-zhcn="那是笔记本吗？" data-zhtw="那是筆記本嗎？" data-cant="嗰個係咪筆記簿呀？"></div></div></div>
           <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">あれは<ruby>時計<rt>とけい</rt></ruby>じゃありません。<ruby>鞄<rt>かばん</rt></ruby>です。<button class="tts-btn" onclick="speakText('あれは時計じゃありません。鞄です。')" title="Listen">🔊</button></div><div class="example-en">That over there is not a watch. It is a bag.</div><div class="example-native i18n-native" data-ko="저것은 시계가 아닙니다. 가방입니다." data-zhcn="那个不是手表。是包。" data-zhtw="那個不是手錶。是包包。" data-cant="嗰個唔係手錶。係袋。"></div></div></div>
-          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp">これも<ruby>私<rt>わたし</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>です。<button class="tts-btn" onclick="speakText('これも私の傘です。')" title="Listen">🔊</button></div><div class="example-en">This is also my umbrella.</div><div class="example-native i18n-native" data-ko="이것도 저의 우산입니다." data-zhcn="这也是我的伞。" data-zhtw="這也是我的雨傘。" data-cant="呢把都係我嘅遮。"></div></div></div>
         </div>
       </div>
 
       <div class="practice-part-header"><span class="practice-part-badge">Drill 1</span><div class="practice-part-title">Practice: これ／それ／あれ</div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d1-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-1. This is a magazine. (これ / 雑誌)</div><button class="btn-check-reveal" id="btn-d1-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-1"><span>これは<ruby>雑誌<rt>ざっし</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは雑誌です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d1-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-2. Is that (near you) a newspaper? (それ / 新聞)</div><button class="btn-check-reveal" id="btn-d1-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-2"><span>それは<ruby>新聞<rt>しんぶん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('それは新聞ですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d1-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-3. That over there is a key. (あれ / 鍵)</div><button class="btn-check-reveal" id="btn-d1-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-3"><span>あれは<ruby>鍵<rt>かぎ</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれは鍵です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d1-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-4. This is not a pen. It is a pencil. (これ / ペン / 鉛筆)</div><button class="btn-check-reveal" id="btn-d1-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-4"><span>これはペンじゃありません。<ruby>鉛筆<rt>えんぴつ</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これはペンじゃありません。鉛筆です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d1-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-1. Is that (near you) a newspaper? (それ / 新聞)</div><button class="btn-check-reveal" id="btn-d1-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-1"><span>それは<ruby>新聞<rt>しんぶん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('それは新聞ですか。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d1-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-2. That over there is a key. (あれ / 鍵)</div><button class="btn-check-reveal" id="btn-d1-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1-2"><span>あれは<ruby>鍵<rt>かぎ</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれは鍵です。')" title="Listen">🔊</button></div></div>
     </div>
   </section>
 
@@ -373,8 +326,8 @@
     <div class="card-header-row">
       <div class="step-label">Grammar 2</div>
       <div class="card-main-title">この／その／あの ＋ 名詞 — This / That / That Noun over there</div>
-      <div class="card-subtitle-en">Use この / その / あの directly before a noun. They cannot stand alone like pronouns!</div>
-      <div class="card-subtitle-native i18n-native" data-ko="この/その/あの는 반드시 뒤에 명사가 와야 합니다. 단독으로는 절대 주어가 될 수 없습니다!" data-zhcn="「この／その／あの」必须直接接在名词前。绝不能像代词那样单独作主语！" data-zhtw="「この／その／あの」必須直接接在名詞前。絕不能像代詞那樣單獨作主語！" data-cant="「この／その／あの」一定要直接接喺名詞前面。絕對唔可以好似代詞噉單獨做主語！"></div>
+      <div class="card-subtitle-en">Use この / その / あの directly before a noun. They can NEVER stand alone!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="この/その/あの는 반드시 뒤에 명사가 와야 합니다. 단독으로는 절대 쓸 수 없습니다!" data-zhcn="「この／その／あの」必须直接接在名词前。绝不能像代词那样单独使用！" data-zhtw="「この／その／あの」必須直接接在名詞前。絕不能像代詞那樣單獨使用！" data-cant="「この／その／あの」一定要直接接喺名詞前面。絕對唔可以好似代詞噉單獨用！"></div>
     </div>
 
     <!-- イラスト2: この／その／あの＋名詞 -->
@@ -416,26 +369,89 @@
 
         <div class="examples-block">
           <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">この<ruby>本<rt>ほん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のです。<button class="tts-btn" onclick="speakText('この本は私のです。')" title="Listen">🔊</button></div><div class="example-en">This book is mine.</div><div class="example-native i18n-native" data-ko="이 책은 저의 것입니다." data-zhcn="这本书是我的。" data-zhtw="這本書是我的。" data-cant="呢本書係我嘅。"></div></div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">その<ruby>鞄<rt>かばん</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのですか。<button class="tts-btn" onclick="speakText('その鞄は鈴木さんのですか。')" title="Listen">🔊</button></div><div class="example-en">Is that bag (near you) Suzuki's?</div><div class="example-native i18n-native" data-ko="그 가방은 스즈키 씨 것입니까?" data-zhcn="那个包是铃木先生的吗？" data-zhtw="那個包包是鈴木先生的嗎？" data-cant="嗰個袋係咪鈴木㗎？"></div></div></div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">このペンは<ruby>田中<rt>たなか</rt></ruby>さんのです。<button class="tts-btn" onclick="speakText('このペンは田中さんのです。')" title="Listen">🔊</button></div><div class="example-en">This pen is Tanaka's.</div><div class="example-native i18n-native" data-ko="이 펜은 다나카 씨 것입니다." data-zhcn="这支笔是田中的。" data-zhtw="這支筆是田中的。" data-cant="呢支筆係田中嘅。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">その<ruby>鞄<rt>かばん</rt></ruby>はあなたのですか。<button class="tts-btn" onclick="speakText('その鞄はあなたのですか。')" title="Listen">🔊</button></div><div class="example-en">Is that bag (near you) yours?</div><div class="example-native i18n-native" data-ko="그 가방은 당신 것입니까?" data-zhcn="那个包是你的吗？" data-zhtw="那個包包是你的嗎？" data-cant="嗰個袋係咪你㗎？"></div></div></div>
           <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">あの<ruby>傘<rt>かさ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のじゃありません。<button class="tts-btn" onclick="speakText('あの傘は私のじゃありません。')" title="Listen">🔊</button></div><div class="example-en">That umbrella over there is not mine.</div><div class="example-native i18n-native" data-ko="저 우산은 저의 것이 아닙니다." data-zhcn="那把伞不是我的。" data-zhtw="那把雨傘不是我的。" data-cant="嗰把遮唔係我嘅。"></div></div></div>
         </div>
       </div>
 
       <div class="practice-part-header"><span class="practice-part-badge">Drill 2</span><div class="practice-part-title">Practice: この／その／あの ＋ 名詞</div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d2-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-1. This pen is Tanaka's. (このペン / 田中さん)</div><button class="btn-check-reveal" id="btn-d2-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-1"><span>このペンは<ruby>田中<rt>たなか</rt></ruby>さんのです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('このペンは田中さんのです。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d2-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-2. Is that magazine (near you) yours? (その雑誌 / あなた)</div><button class="btn-check-reveal" id="btn-d2-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-2"><span>その<ruby>雑誌<rt>ざっし</rt></ruby>はあなたのですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その雑誌はあなたのですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d2-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-3. That watch over there is my father's. (あの時計 / 私の父)</div><button class="btn-check-reveal" id="btn-d2-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-3"><span>あの<ruby>時計<rt>とけい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>のです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あの時計は私の父のです。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d2-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-4. This dictionary is not mine. (この辞書 / 私)</div><button class="btn-check-reveal" id="btn-d2-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-4"><span>この<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('この辞書は私のじゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d2-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-1. That watch over there is my father's. (あの時計 / 私の父)</div><button class="btn-check-reveal" id="btn-d2-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-1"><span>あの<ruby>時計<rt>とけい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>のです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あの時計は私の父のです。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d2-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-2. This dictionary is not mine. (この辞書 / 私)</div><button class="btn-check-reveal" id="btn-d2-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2-2"><span>この<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('この辞書は私のじゃありません。')" title="Listen">🔊</button></div></div>
     </div>
   </section>
 
-  <!-- ==================== 4. 〜の (所有・省略) ==================== -->
+  <!-- ==================== 4. ここ／そこ／あそこ (場所) ==================== -->
   <section class="content-card" id="sec-grammar-3">
     <div class="card-header-row">
       <div class="step-label">Grammar 3</div>
+      <div class="card-main-title">ここ／そこ／あそこ — Here / There / Over There (Places)</div>
+      <div class="card-subtitle-en">Use ここ / そこ / あそこ to point to locations: near the speaker (ここ), near the listener (そこ), or distant from both (あそこ).</div>
+      <div class="card-subtitle-native i18n-native" data-ko="장소를 가리키는 지시대명사입니다: 말하는 사람 근처(ここ), 듣는 사람 근처(そこ), 둘 다에서 먼 곳(あそこ)." data-zhcn="指代场所的指示代词：说话人处（ここ）、听话人处（そこ）、离两者都远之处（あそこ）。" data-zhtw="指代場所的指示代詞：說話人處（ここ）、聽話人處（そこ）、離兩者都遠之處（あそこ）。" data-cant="指代地點嘅指示代詞：講嘢嗰個身邊（ここ）、聽嘢嗰個身邊（そこ）、離兩邊都遠嘅地方（あそこ）。"></div>
+    </div>
+
+    <!-- イラスト3: ここ・そこ・あそこ（場所） -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card" style="background:#FFFDF9; border:2px solid #F0E6D2; padding:20px;">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:#FEF3C7; color:#B45309; border-color:#FCD34D;">イラストで直感理解！</span>
+          <strong style="color:var(--navy-main); font-size:1.05rem;">部屋の中の「ここ・そこ・あそこ」の場所感覚</strong>
+        </div>
+        <div class="grammar-desc-en" style="margin-bottom:12px;">Tanaka-san stands at "koko", Suzuki-san stands at "soko", and the arched doorway in the distance is "asoko":</div>
+
+        <div style="text-align:center; margin:10px 0 16px; background:white; border-radius:14px; padding:10px; border:1px solid #E2E8F0; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
+          <img src="../images/koko_soko_asoko_illustration.jpg" alt="ここ・そこ・あそこのイラスト図解" style="max-width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;" />
+        </div>
+
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:12px;">
+          <div style="background:#F0FDF4; border:1.5px solid #86EFAC; border-radius:10px; padding:12px;">
+            <div style="font-weight:700; color:#15803D; font-size:1rem;">📍 ここ (Here)</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:4px;">話し手（田中さん）のいる足元・場所</div>
+            <div style="margin-top:6px; font-weight:600; color:#166534; font-size:0.88rem;">「ここは私の部屋です」</div>
+          </div>
+          <div style="background:#EFF6FF; border:1.5px solid #93C5FD; border-radius:10px; padding:12px;">
+            <div style="font-weight:700; color:#1D4ED8; font-size:1rem;">📍 そこ (There near you)</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:4px;">聞き手（鈴木さん）のいる場所</div>
+            <div style="margin-top:6px; font-weight:600; color:#1E40AF; font-size:0.88rem;">「そこは教室です」</div>
+          </div>
+          <div style="background:#FFF7ED; border:1.5px solid #FDBA74; border-radius:10px; padding:12px;">
+            <div style="font-weight:700; color:#C2410C; font-size:1rem;">📍 あそこ (Over there)</div>
+            <div style="font-size:0.80rem; color:#374151; margin-top:4px;">二人から離れた遠いドアの先</div>
+            <div style="margin-top:6px; font-weight:600; color:#C2410C; font-size:0.88rem;">「トイレはあそこです」</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">公式</span><strong>場所を伝える2つの重要パターン</strong></div>
+        <div class="grammar-formula">
+          パターンA：ここ／そこ／あそこ は [場所] です。（ここは教室です。）<br>
+          パターンB：[場所・物・人] は ここ／そこ／あそこ です。（トイレはあそこです。）
+        </div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples（場所の単語：フラッシュカード4連動）</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">ここは<ruby>教室<rt>きょうしつ</rt></ruby>です。<button class="tts-btn" onclick="speakText('ここは教室です。')" title="Listen">🔊</button></div><div class="example-en">Here is the classroom. / This is the classroom.</div><div class="example-native i18n-native" data-ko="여기는 교실입니다." data-zhcn="这里是教室。" data-zhtw="這裡是教室。" data-cant="呢度係課室。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">トイレはあそこです。<button class="tts-btn" onclick="speakText('トイレはあそこです。')" title="Listen">🔊</button></div><div class="example-en">The restroom is over there.</div><div class="example-native i18n-native" data-ko="화장실은 저기입니다." data-zhcn="洗手间在那边。" data-zhtw="洗手間在那邊。" data-cant="洗手間喺嗰邊。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">ここは<ruby>受付<rt>うけつけ</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('ここは受付ですか。')" title="Listen">🔊</button></div><div class="example-en">Is here the reception desk?</div><div class="example-native i18n-native" data-ko="여기는 접수처입니까?" data-zhcn="这里是接待处吗？" data-zhtw="這裡是接待處嗎？" data-cant="呢度係咪接待處呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ はい、そうです。<ruby>受付<rt>うけつけ</rt></ruby>です。<button class="tts-btn" onclick="speakText('はい、そうです。受付です。')" title="Listen">🔊</button></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp"><ruby>田中<rt>たなか</rt></ruby>さんはあそこです。<button class="tts-btn" onclick="speakText('田中さんはあそこです。')" title="Listen">🔊</button></div><div class="example-en">Tanaka-san is over there.</div><div class="example-native i18n-native" data-ko="다나카 씨는 저기 있습니다." data-zhcn="田中先生在那边。" data-zhtw="田中先生在那邊。" data-cant="田中喺嗰邊。"></div></div></div>
+        </div>
+      </div>
+
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 3</span><div class="practice-part-title">Practice: ここ／そこ／あそこ</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-1. Here is my room. (ここ / 私の部屋)</div><button class="btn-check-reveal" id="btn-d3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-1"><span>ここは<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ここは私の部屋です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-2. The restroom is over there. (トイレ / あそこ)</div><button class="btn-check-reveal" id="btn-d3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-2"><span>トイレはあそこです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('トイレはあそこです。')" title="Listen">🔊</button></div></div>
+    </div>
+  </section>
+
+  <!-- ==================== 5. 〜の (所有・省略) ==================== -->
+  <section class="content-card" id="sec-grammar-4">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 4</div>
       <div class="card-main-title">N1 の N2 ＆「〜の」による名詞の省略 — Possession & Noun Replacement</div>
-      <div class="card-subtitle-en">The particle の links nouns ("Tanaka's umbrella"). When the context is clear, の can stand for the noun itself ("mine", "Suzuki's").</div>
+      <div class="card-subtitle-en">The particle の links nouns ("Tanaka's umbrella"). When clear from context, の stands for the noun itself ("mine", "Suzuki's").</div>
       <div class="card-subtitle-native i18n-native" data-ko="조사 の는 두 명사를 연결합니다('다나카 씨의 우산'). 이미 무엇인지 알 때는 명사를 생략하고 '저의 것(私の)', '스즈키 씨 것(鈴木さんの)'처럼 쓸 수 있습니다." data-zhcn="助词「の」连接两个名词（「田中的伞」）。在语境明确时，「の」可以代替名词本身，避免重复（「我的」、「铃木的」）。" data-zhtw="助詞「の」連接兩個名詞（「田中的傘」）。在語境明確時，「の」可以代替名詞本身，避免重複（「我的」、「鈴木的」）。" data-cant="助詞「の」連繫兩個名詞（「田中嘅遮」）。喺大家都知講緊乜嗰陣，「の」可以代替個名詞，唔使重複（「我嘅」、「鈴木嘅」）。"></div>
     </div>
 
@@ -453,28 +469,26 @@
           <div class="examples-label">Examples</div>
           <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">これは<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>傘<rt>かさ</rt></ruby>です。<button class="tts-btn" onclick="speakText('これは田中さんの傘です。')" title="Listen">🔊</button></div><div class="example-en">This is Tanaka's umbrella.</div><div class="example-native i18n-native" data-ko="이것은 다나카 씨의 우산입니다." data-zhcn="这是田中的伞。" data-zhtw="這是田中的傘。" data-cant="呢把係田中嘅遮。"></div></div></div>
           <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">このノートは<ruby>鈴木<rt>すずき</rt></ruby>さんのです。<button class="tts-btn" onclick="speakText('このノートは鈴木さんのです。')" title="Listen">🔊</button></div><div class="example-en">This notebook is Suzuki's.</div><div class="example-native i18n-native" data-ko="이 노트는 스즈키 씨의 것입니다." data-zhcn="这本笔记本是铃木的。" data-zhtw="這本筆記本是鈴木的。" data-cant="呢本筆記簿係鈴木嘅。"></div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">その鍵は<ruby>私<rt>わたし</rt></ruby>のじゃありません。<button class="tts-btn" onclick="speakText('その鍵は私のじゃありません。')" title="Listen">🔊</button></div><div class="example-en">That key is not mine.</div><div class="example-native i18n-native" data-ko="그 열쇠는 저의 것이 아닙니다." data-zhcn="那把钥匙不是我的。" data-zhtw="那把鑰匙不是我的。" data-cant="嗰條鎖匙唔係我嘅。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">その<ruby>鍵<rt>かぎ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のじゃありません。<button class="tts-btn" onclick="speakText('その鍵は私のじゃありません。')" title="Listen">🔊</button></div><div class="example-en">That key is not mine.</div><div class="example-native i18n-native" data-ko="그 열쇠는 저의 것이 아닙니다." data-zhcn="那把钥匙不是我的。" data-zhtw="那把鑰匙不是我的。" data-cant="嗰條鎖匙唔係我嘅。"></div></div></div>
         </div>
       </div>
 
-      <div class="practice-part-header"><span class="practice-part-badge">Drill 3</span><div class="practice-part-title">Practice: 〜の</div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-1. It is mine. (私 / の)</div><button class="btn-check-reveal" id="btn-d3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-1"><span><ruby>私<rt>わたし</rt></ruby>のです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私のです。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-2. This is my mother's bag. (これ / 私の母 / 鞄)</div><button class="btn-check-reveal" id="btn-d3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-2"><span>これは<ruby>私<rt>わたし</rt></ruby>の<ruby>母<rt>はは</rt></ruby>の<ruby>鞄<rt>かばん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私の母の鞄です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d3-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-3. That watch is not Tanaka's. (その時計 / 田中さん)</div><button class="btn-check-reveal" id="btn-d3-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-3"><span>その<ruby>時計<rt>とけい</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんのじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その時計は田中さんのじゃありません。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d3-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-4. Is that over there Suzuki's? (あれ / 鈴木さん)</div><button class="btn-check-reveal" id="btn-d3-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3-4"><span>あれは<ruby>鈴木<rt>すずき</rt></ruby>さんのですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれは鈴木さんのですか。')" title="Listen">🔊</button></div></div>
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 4</span><div class="practice-part-title">Practice: 〜の</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-1. It is mine. (私 / の)</div><button class="btn-check-reveal" id="btn-d4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-1"><span><ruby>私<rt>わたし</rt></ruby>のです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私のです。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-2. That key is Suzuki's. (その鍵 / 鈴木さん)</div><button class="btn-check-reveal" id="btn-d4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-2"><span>その<ruby>鍵<rt>かぎ</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その鍵は鈴木さんのです。')" title="Listen">🔊</button></div></div>
     </div>
   </section>
 
-  <!-- ==================== 5. だれ・何・どれ・どの ==================== -->
-  <section class="content-card" id="sec-grammar-4">
+  <!-- ==================== 6. だれ・何・どれ・どの・どこ ==================== -->
+  <section class="content-card" id="sec-grammar-5">
     <div class="card-header-row">
-      <div class="step-label">Grammar 4</div>
-      <div class="card-main-title">だれ・何・どれ・どの＋名詞 — Question Words for Things & Owners</div>
-      <div class="card-subtitle-en">Ask "What is this?", "Whose is this?", "Which one?", and "Which book?" using specific question words.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="'이건 뭐예요?', '누구 거예요?', '어느 것이에요?', '어느 책이에요?'를 묻는 핵심 의문사를 배웁니다." data-zhcn="学习询问「这是什么？」、「这是谁的？」、「是哪一个？」、「是哪本书？」的核心疑问词。" data-zhtw="學習詢問「這是什麼？」、「這是誰的？」、「是哪一個？」、「是哪本書？」的核心疑問詞。" data-cant="學識點樣問「呢個係咩嚟？」、「呢個係邊個嘅？」、「係邊個？」、「係邊本書？」嘅核心疑問詞。"></div>
+      <div class="step-label">Grammar 5</div>
+      <div class="card-main-title">だれ・何・どれ・どの・どこ — Question Words (Who, What, Which, Where)</div>
+      <div class="card-subtitle-en">Master all 5 essential question words: Who, What, Which one, Which [Noun], and Where!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="누구(だれ), 무엇(何), 어느 것(どれ), 어느+명사(どの), 어디(どこ)의 5대 필수 의문사를 완성합니다!" data-zhcn="全面掌握5大核心疑问词：谁（だれ）、什么（何）、哪一个（どれ）、哪部/哪个（どの）、在哪里（どこ）！" data-zhtw="全面掌握5大核心疑問詞：誰（だれ）、什麼（何）、哪一個（どれ）、哪部/哪個（どの）、在哪裡（どこ）！" data-cant="全方位掌握5大核心疑問詞：邊個（だれ）、咩（何）、邊個（どれ）、邊部/邊個（どの）、喺邊度（どこ）！"></div>
     </div>
 
-    <!-- イラスト3: どれ・どの本？ -->
+    <!-- イラスト4: どれ・どの本？ -->
     <div class="grammar-block">
       <div class="grammar-visual-card" style="background:#FFFDF9; border:2px solid #F0E6D2; padding:20px;">
         <div class="grammar-card-head">
@@ -504,11 +518,11 @@
 
     <div class="grammar-block">
       <div class="grammar-visual-card">
-        <div class="grammar-card-head"><span class="grammar-tag">疑問詞まとめ</span><strong>Lesson 2の4大疑問表現</strong></div>
+        <div class="grammar-card-head"><span class="grammar-tag">疑問詞まとめ</span><strong>Lesson 2の5大疑問表現</strong></div>
 
         <table class="conj-table">
           <tr>
-            <th>疑問表現</th>
+            <th>疑問詞</th>
             <th>意味 (English)</th>
             <th>質問の例</th>
             <th>答えの例</th>
@@ -517,7 +531,7 @@
             <td><strong style="color:var(--navy-main);">何（なん）</strong></td>
             <td>What</td>
             <td>これは<strong>何</strong>ですか。</td>
-            <td>それは辞書です。</td>
+            <td>辞書です。</td>
           </tr>
           <tr>
             <td><strong style="color:var(--navy-main);">だれ（誰）</strong></td>
@@ -534,8 +548,14 @@
           <tr>
             <td><strong style="color:var(--navy-main);">どの＋名詞</strong></td>
             <td>Which [noun]</td>
-            <td><strong>どの鞄</strong>ですか。</td>
+            <td>あなたの鞄は<strong>どの鞄</strong>ですか。</td>
             <td>その鞄です。</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">どこ</strong></td>
+            <td>Where</td>
+            <td>トイレは<strong>どこ</strong>ですか。</td>
+            <td>あそこです。（丁寧：あちらです）</td>
           </tr>
         </table>
 
@@ -543,78 +563,76 @@
           <div class="examples-label">Examples</div>
           <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">これは<ruby>何<rt>なん</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('これは何ですか。')" title="Listen">🔊</button></div><div class="example-en">What is this?</div><div class="example-native i18n-native" data-ko="이것은 무엇입니까?" data-zhcn="这是什么？" data-zhtw="這是什麼？" data-cant="呢個係咩嚟㗎？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ それは<ruby>手帳<rt>てちょう</rt></ruby>です。<button class="tts-btn" onclick="speakText('それは手帳です。')" title="Listen">🔊</button></div></div></div>
           <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">あれはだれの<ruby>鞄<rt>かばん</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('あれはだれの鞄ですか。')" title="Listen">🔊</button></div><div class="example-en">Whose bag is that over there?</div><div class="example-native i18n-native" data-ko="저것은 누구의 가방입니까?" data-zhcn="那是谁的包？" data-zhtw="那是誰的包包？" data-cant="嗰個係邊個嘅袋呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ <ruby>田中<rt>たなか</rt></ruby>さんの<ruby>鞄<rt>かばん</rt></ruby>です。<button class="tts-btn" onclick="speakText('田中さんの鞄です。')" title="Listen">🔊</button></div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">あなたの<ruby>鍵<rt>かぎ</rt></ruby>はどれですか。<button class="tts-btn" onclick="speakText('あなたの鍵はどれですか。')" title="Listen">🔊</button></div><div class="example-en">Which one is your key?</div><div class="example-native i18n-native" data-ko="당신의 열쇠는 어느 것입니까?" data-zhcn="你的钥匙是哪一把？" data-zhtw="你的鑰匙是哪一把？" data-cant="你條鎖匙係邊條呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ これです。<button class="tts-btn" onclick="speakText('これです。')" title="Listen">🔊</button></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">トイレはどこですか。<button class="tts-btn" onclick="speakText('トイレはどこですか。')" title="Listen">🔊</button></div><div class="example-en">Where is the restroom?</div><div class="example-native i18n-native" data-ko="화장실은 어디입니까?" data-zhcn="洗手间在哪里？" data-zhtw="洗手間在哪裡？" data-cant="洗手間喺邊度呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ あそこです。<button class="tts-btn" onclick="speakText('あそこです。')" title="Listen">🔊</button></div></div></div>
         </div>
       </div>
 
-      <div class="practice-part-header"><span class="practice-part-badge">Drill 4</span><div class="practice-part-title">Practice: だれ・何・どれ・どの</div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-1. What is that (near you)? (それ / 何)</div><button class="btn-check-reveal" id="btn-d4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-1"><span>それは<ruby>何<rt>なん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('それは何ですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-2. Whose pen is this? (これ / だれ / ペン)</div><button class="btn-check-reveal" id="btn-d4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-2"><span>これはだれのペンですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これはだれのペンですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d4-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-3. Which one is Tanaka's watch? (田中さんの時計 / どれ)</div><button class="btn-check-reveal" id="btn-d4-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-3"><span><ruby>田中<rt>たなか</rt></ruby>さんの<ruby>時計<rt>とけい</rt></ruby>はどれですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんの時計はどれですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('d4-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-4. Which umbrella is yours? (どの傘 / あなた)</div><button class="btn-check-reveal" id="btn-d4-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4-4"><span>あなたの<ruby>傘<rt>かさ</rt></ruby>はどの<ruby>傘<rt>かさ</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あなたの傘はどの傘ですか。')" title="Listen">🔊</button></div></div>
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 5</span><div class="practice-part-title">Practice: 疑問詞（だれ・何・どれ・どの・どこ）</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d5-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-1. Whose pen is this? (これ / だれ / ペン)</div><button class="btn-check-reveal" id="btn-d5-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d5-1"><span>これはだれのペンですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これはだれのペンですか。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('d5-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-2. Where is the classroom? (教室 / どこ)</div><button class="btn-check-reveal" id="btn-d5-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d5-2"><span><ruby>教室<rt>きょうしつ</rt></ruby>はどこですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('教室はどこですか。')" title="Listen">🔊</button></div></div>
     </div>
   </section>
 
-  <!-- ==================== 6. これまでの総復習 ==================== -->
+  <!-- ==================== 7. これまでの総復習 ==================== -->
   <section class="content-card" id="sec-review">
     <div class="card-header-row">
-      <div class="step-label">Step 6</div>
+      <div class="step-label">Step 7</div>
       <div class="card-main-title">これまでの総復習 — Comprehensive Dialogue & Drill</div>
-      <div class="card-subtitle-en">Tanaka-san and Suzuki-san practice demonstratives and possession together. Test yourself with 2 drill questions per grammar point!</div>
-      <div class="card-subtitle-native i18n-native" data-ko="다나카 씨와 스즈키 씨의 대화를 통해 지시대명사와 소유 표현을 복습하고, 각 문법별 2문제씩 총복습 챌린지에 도전하세요!" data-zhcn="通过田中与铃木的生动对话，复习指示词与所属表达，并挑战每个语法点2题的综合复习测验！" data-zhtw="透過田中與鈴木的生動對話，複習指示詞與所屬表達，並挑戰每個語法點2題的綜合複習測驗！" data-cant="透過田中同鈴木嘅生活對話，溫習指示詞同所屬表達，再挑戰每個語法點各2題嘅大溫習測驗！"></div>
+      <div class="card-subtitle-en">Tanaka-san and Suzuki-san practice all demonstratives (Things, Nouns, and Places) together! Test yourself with 2 drill questions per grammar point!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="다나카 씨와 스즈키 씨의 대화를 통해 사물, 명사수식, 장소 지시어를 총복습하고 각 문법별 2문제씩 도전하세요!" data-zhcn="通过田中与铃木的生动对话，全面复习事物、连体词与场所指示词，并挑战每个语法点2题的综合复习测验！" data-zhtw="透過田中與鈴木的生動對話，全面複習事物、連體詞與場所指示詞，並挑戰每個語法點2題的綜合複習測驗！" data-cant="透過田中同鈴木嘅生動對話，全面溫習事物、連體詞同地點指示詞，再挑戰每個語法點各2題嘅大溫習測驗！"></div>
     </div>
 
     <!-- メイン会話：田中さんと鈴木さん -->
-    <div class="practice-part-header"><span class="practice-part-badge">Dialogue</span><div class="practice-part-title">誰の傘ですか — Whose Umbrella Is This? (田中 & 鈴木)</div></div>
+    <div class="practice-part-header"><span class="practice-part-badge">Dialogue</span><div class="practice-part-title">学校で：教室と持ち物の案内 — At School (田中 & 鈴木)</div></div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('鈴木さん、これは何ですか。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、これは<ruby>何<rt>なん</rt></ruby>ですか。</div>
-      <div class="dialogue-en-line">Suzuki, what is this?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 이것은 무엇입니까?" data-zhcn="铃木先生，这是什么？" data-zhtw="鈴木先生，這是什麼？" data-cant="鈴木，呢個係咩嚟㗎？"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('鈴木さん、ここは教室ですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、ここは<ruby>教室<rt>きょうしつ</rt></ruby>ですか。</div>
+      <div class="dialogue-en-line">Suzuki, is here the classroom?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 여기는 교실입니까?" data-zhcn="铃木先生，这里是教室吗？" data-zhtw="鈴木先生，這裡是教室嗎？" data-cant="鈴木，呢度係咪課室呀？"></div>
     </div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('それは傘です。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">それは<ruby>傘<rt>かさ</rt></ruby>です。</div>
-      <div class="dialogue-en-line">That is an umbrella.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="그것은 우산입니다." data-zhcn="那是伞。" data-zhtw="那是傘。" data-cant="嗰個係遮。"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('はい、そうです。ここは私たちの教室です。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">はい、そうです。ここは<ruby>私<rt>わたし</rt></ruby>たちの<ruby>教室<rt>きょうしつ</rt></ruby>です。</div>
+      <div class="dialogue-en-line">Yes, that's right. Here is our classroom.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="네, 맞아요. 여기는 우리 교실입니다." data-zhcn="是的，没错。这里是我们的教室。" data-zhtw="是的，沒錯。這裡是我們的教室。" data-cant="係啊，冇錯。呢度係我哋嘅課室。"></div>
     </div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('鈴木さんの傘ですか。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>傘<rt>かさ</rt></ruby>ですか。</div>
-      <div class="dialogue-en-line">Is it your umbrella, Suzuki?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨의 우산입니까?" data-zhcn="是铃木先生的伞吗？" data-zhtw="是鈴木先生的傘嗎？" data-cant="係咪鈴木你把遮呀？"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('トイレはどこですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">トイレはどこですか。</div>
+      <div class="dialogue-en-line">Where is the restroom?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="화장실은 어디입니까?" data-zhcn="洗手间在哪里？" data-zhtw="洗手間在哪裡？" data-cant="洗手間喺邊度呀？"></div>
     </div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('いいえ、そうじゃありません。私のじゃありません。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>のじゃありません。</div>
-      <div class="dialogue-en-line">No, that's not right. It is not mine.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="아니요, 그렇지 않습니다. 저의 것이 아닙니다." data-zhcn="不，不是的。不是我的。" data-zhtw="不，不是的。不是我的。" data-cant="唔係，唔係。唔係我嘅。"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('トイレはあそこです。あそこのドアです。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">トイレはあそこです。あそこのドアです。</div>
+      <div class="dialogue-en-line">The restroom is over there. It is that door over there.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="화장실은 저기입니다. 저기 문이에요." data-zhcn="洗手间在那边。是那边的门。" data-zhtw="洗手間在那邊。是那邊的門。" data-cant="洗手間喺嗰邊。嗰面道門。"></div>
     </div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('では、この本も鈴木さんのじゃありませんか。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">では、この<ruby>本<rt>ほん</rt></ruby>も<ruby>鈴木<rt>すずき</rt></ruby>さんのじゃありませんか。</div>
-      <div class="dialogue-en-line">Then, is this book also not Suzuki's?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="그럼 이 책도 스즈키 씨 것이 아닙니까?" data-zhcn="那么，这本书也不是铃木先生的吗？" data-zhtw="那麼，這本書也不是鈴木先生的嗎？" data-cant="咁呢本書都唔係鈴木你嘅？"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中（クマ）</div><button class="tts-btn" onclick="speakText('ありがとうございます。あ、この傘は鈴木さんのですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">ありがとうございます。あ、この<ruby>傘<rt>かさ</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのですか。</div>
+      <div class="dialogue-en-line">Thank you. Ah, is this umbrella Suzuki's?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="감사합니다. 아, 이 우산은 스즈키 씨 것입니까?" data-zhcn="谢谢。啊，这把伞是铃木先生的吗？" data-zhtw="謝謝。啊，這把傘是鈴木先生的嗎？" data-cant="唔該晒。吖，呢把遮係咪鈴木你㗎？"></div>
     </div>
 
     <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('あ、その本は私のです！私の辞書です。ありがとうございます！')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">あ、その<ruby>本<rt>ほん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のです！<ruby>私<rt>わたし</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby>です。ありがとうございます！</div>
-      <div class="dialogue-en-line">Ah, that book is mine! It is my dictionary. Thank you!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="아, 그 책은 제 거예요! 저의 사전입니다. 감사합니다!" data-zhcn="啊，那本书是我的！是我的字典。谢谢！" data-zhtw="啊，那本書是我的！是我的字典。謝謝！" data-cant="吖，嗰本書係我㗎！係我本字典。多謝！"></div>
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木（ウサギ）</div><button class="tts-btn" onclick="speakText('いいえ、そうじゃありません。私のじゃありません。私のはあそこの傘です！')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>のじゃありません。<ruby>私<rt>わたし</rt></ruby>のはあそこの<ruby>傘<rt>かさ</rt></ruby>です！</div>
+      <div class="dialogue-en-line">No, that's not right. It is not mine. Mine is that umbrella over there!</div>
+      <div class="dialogue-native-line i18n-native" data-ko="아니요, 그렇지 않습니다. 제 것이 아닙니다. 제 것은 저기 있는 우산입니다!" data-zhcn="不，不是的。不是我的。我的是那边的伞！" data-zhtw="不，不是的。不是我的。我的是那邊的傘！" data-cant="唔係，唔係。唔係我嘅。我嗰把係嗰邊嗰把遮！"></div>
     </div>
 
     <!-- 総復習チャレンジドリル -->
-    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Challenge</span><div class="practice-part-title">文法別 総復習チャレンジドリル（全8問）</div></div>
-    <div style="font-size:0.86rem; color:var(--text-sub); margin-bottom:14px;">Lesson 2で学んだ4つの文法を各2問ずつ復習します。タップして答えと発音を確認しましょう！</div>
+    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Challenge</span><div class="practice-part-title">文法別 総復習チャレンジドリル（全10問）</div></div>
+    <div style="font-size:0.86rem; color:var(--text-sub); margin-bottom:14px;">Lesson 2で学んだ5つの文法（これ・それ・あれ／この・その・あの／ここ・そこ・あそこ／〜の／疑問詞）を各2問ずつ復習します！</div>
 
-    <!-- 1. これ／それ／あれ は 〜です -->
-    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:10px 0 6px;">🔹 文法 1：これ／それ／あれ は 〜です</div>
+    <!-- 1. これ／それ／あれ (物) -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:10px 0 6px;">🔹 文法 1：これ／それ／あれ (物)</div>
     <div class="toggle-item" onclick="toggleAnswer('rev-1-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R1-1. This is my notebook. (これ / 私のノート)</div><button class="btn-check-reveal" id="btn-rev-1-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-1-1"><span>これは<ruby>私<rt>わたし</rt></ruby>のノートです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私のノートです。')" title="Listen">🔊</button></div></div>
     <div class="toggle-item" onclick="toggleAnswer('rev-1-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R1-2. That over there is not a clock. (あれ / 時計 / じゃありません)</div><button class="btn-check-reveal" id="btn-rev-1-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-1-2"><span>あれは<ruby>時計<rt>とけい</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれは時計じゃありません。')" title="Listen">🔊</button></div></div>
 
@@ -623,38 +641,45 @@
     <div class="toggle-item" onclick="toggleAnswer('rev-2-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R2-1. This book is Tanaka's. (この本 / 田中さん)</div><button class="btn-check-reveal" id="btn-rev-2-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-2-1"><span>この<ruby>本<rt>ほん</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんのです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('この本は田中さんのです。')" title="Listen">🔊</button></div></div>
     <div class="toggle-item" onclick="toggleAnswer('rev-2-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R2-2. Is that umbrella (near you) yours? (その傘 / あなた)</div><button class="btn-check-reveal" id="btn-rev-2-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-2-2"><span>その<ruby>傘<rt>かさ</rt></ruby>はあなたのですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その傘はあなたのですか。')" title="Listen">🔊</button></div></div>
 
-    <!-- 3. 〜の (所有・省略) -->
-    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 3：〜の (所有・省略)</div>
-    <div class="toggle-item" onclick="toggleAnswer('rev-3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-1. That key is Suzuki's. (その鍵 / 鈴木さん)</div><button class="btn-check-reveal" id="btn-rev-3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-1"><span>その<ruby>鍵<rt>かぎ</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その鍵は鈴木さんのです。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('rev-3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-2. This is not mine. (これ / 私)</div><button class="btn-check-reveal" id="btn-rev-3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-2"><span>これは<ruby>私<rt>わたし</rt></ruby>のじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私のじゃありません。')" title="Listen">🔊</button></div></div>
+    <!-- 3. ここ／そこ／あそこ (場所) -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 3：ここ／そこ／あそこ (場所)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-1. Here is the classroom. (ここ / 教室)</div><button class="btn-check-reveal" id="btn-rev-3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-1"><span>ここは<ruby>教室<rt>きょうしつ</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ここは教室です。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-2. The restroom is over there. (トイレ / あそこ)</div><button class="btn-check-reveal" id="btn-rev-3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-2"><span>トイレはあそこです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('トイレはあそこです。')" title="Listen">🔊</button></div></div>
 
-    <!-- 4. だれ・何・どれ・どの -->
-    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 4：だれ・何・どれ・どの＋名詞</div>
-    <div class="toggle-item" onclick="toggleAnswer('rev-4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-1. What is this? (これ / 何)</div><button class="btn-check-reveal" id="btn-rev-4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-1"><span>これは<ruby>何<rt>なん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは何ですか。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('rev-4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-2. Whose bag is that over there? (あれ / だれ / 鞄)</div><button class="btn-check-reveal" id="btn-rev-4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-2"><span>あれはだれの<ruby>鞄<rt>かばん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれはだれの鞄ですか。')" title="Listen">🔊</button></div></div>
+    <!-- 4. 〜の (所有・省略) -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 4：〜の (所有・省略)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-1. That key is Suzuki's. (その鍵 / 鈴木さん)</div><button class="btn-check-reveal" id="btn-rev-4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-1"><span>その<ruby>鍵<rt>かぎ</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('その鍵は鈴木さんのです。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-2. This is not mine. (これ / 私)</div><button class="btn-check-reveal" id="btn-rev-4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-2"><span>これは<ruby>私<rt>わたし</rt></ruby>のじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私のじゃありません。')" title="Listen">🔊</button></div></div>
+
+    <!-- 5. だれ・何・どれ・どの・どこ (疑問詞) -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 5：だれ・何・どれ・どの・どこ (疑問詞)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-5-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R5-1. Whose bag is that over there? (あれ / だれ / 鞄)</div><button class="btn-check-reveal" id="btn-rev-5-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-5-1"><span>あれはだれの<ruby>鞄<rt>かばん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あれはだれの鞄ですか。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-5-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R5-2. Where is the reception desk? (受付 / どこ)</div><button class="btn-check-reveal" id="btn-rev-5-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-5-2"><span><ruby>受付<rt>うけつけ</rt></ruby>はどこですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('受付はどこですか。')" title="Listen">🔊</button></div></div>
   </section>
 
-  <!-- ==================== 7. Kanji & Word Pool ==================== -->
+  <!-- ==================== 8. Kanji & Word Pool ==================== -->
   <section class="content-card" id="sec-kanji">
     <div class="card-header-row">
-      <div class="step-label">Step 7</div>
-      <div class="card-main-title">Kanji & Word Pool — 身の回りのものの漢字と単語</div>
-      <div class="card-subtitle-en">Master these basic kanji from Flashcard 2 and review vocabulary from this lesson.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="플래시카드 2(주변 물건)의 기초 한자를 익히고 본 과의 단어를 복습하세요." data-zhcn="掌握字卡2（身边物品）中的基础汉字，并复习本课词汇。" data-zhtw="掌握字卡2（身邊物品）中的基礎漢字，並複習本課詞彙。" data-cant="掌握字卡2（身邊物件）入面嘅基礎漢字，並溫習呢一課嘅詞彙。"></div>
+      <div class="step-label">Step 8</div>
+      <div class="card-main-title">Kanji & Word Pool — 身の回り ＆ 場所の漢字と単語</div>
+      <div class="card-subtitle-en">Master these basic kanji from Flashcards 2 & 4, and review all vocabulary from this lesson.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="플래시카드 2(주변 물건)와 4(장소)의 기초 한자를 익히고 본 과의 단어를 복습하세요." data-zhcn="掌握字卡2（身边物品）与4（场所）中的基础汉字，并复习本课词汇。" data-zhtw="掌握字卡2（身邊物品）與4（場所）中的基礎漢字，並複習本課詞彙。" data-cant="掌握字卡2（身邊物件）同4（場所）入面嘅基礎漢字，並溫習呢一課嘅詞彙。"></div>
     </div>
 
     <!-- 漢字カード -->
     <div class="kanji-display-grid">
       <div class="kanji-box-item"><div class="kanji-large-char">本</div><div class="kanji-meaning-en">book</div><div class="kanji-readings-text">ほん</div></div>
       <div class="kanji-box-item"><div class="kanji-large-char">辞書</div><div class="kanji-meaning-en">dictionary</div><div class="kanji-readings-text">じしょ</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">新聞</div><div class="kanji-meaning-en">newspaper</div><div class="kanji-readings-text">しんぶん</div></div>
       <div class="kanji-box-item"><div class="kanji-large-char">時計</div><div class="kanji-meaning-en">watch / clock</div><div class="kanji-readings-text">とけい</div></div>
       <div class="kanji-box-item"><div class="kanji-large-char">傘</div><div class="kanji-meaning-en">umbrella</div><div class="kanji-readings-text">かさ</div></div>
       <div class="kanji-box-item"><div class="kanji-large-char">鍵</div><div class="kanji-meaning-en">key</div><div class="kanji-readings-text">かぎ</div></div>
+      <div class="kanji-box-item"><div class="kanji-large-char">教室</div><div class="kanji-meaning-en">classroom</div><div class="kanji-readings-text">きょうしつ</div></div>
+      <div class="kanji-box-item"><div class="kanji-large-char">部屋</div><div class="kanji-meaning-en">room</div><div class="kanji-readings-text">へや</div></div>
+      <div class="kanji-box-item"><div class="kanji-large-char">学校</div><div class="kanji-meaning-en">school</div><div class="kanji-readings-text">がっこう</div></div>
     </div>
 
     <!-- 単語一覧 -->
-    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Word Pool</span><div class="practice-part-title">Lesson 2 単語一覧（フラッシュカード 2 連動）</div></div>
+    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Word Pool</span><div class="practice-part-title">Lesson 2 単語一覧（フラッシュカード 2・3・4 連動）</div></div>
     <div class="vocab-filter-row">
       <div class="filter-btn-group">
         <button class="filter-pill active" id="filter-all" onclick="filterVocab('all')">All</button>
@@ -663,25 +688,25 @@
     </div>
 
     <div class="word-pool-grid" id="word-pool-list">
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">これ／それ／あれ</div><div class="pool-word-trans">this / that / that over there</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">これ／それ／あれ</div><div class="pool-word-trans">this / that / that over there (things)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">この／その／あの</div><div class="pool-word-trans">this / that / that (+ noun)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">どれ／どの</div><div class="pool-word-trans">which one / which (+ noun)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ここ／そこ／あそこ</div><div class="pool-word-trans">here / there / over there (places)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">どれ／どの／どこ</div><div class="pool-word-trans">which one / which (+ noun) / where</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">だれ（誰）</div><div class="pool-word-trans">who</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">何（なん／なに）</div><div class="pool-word-trans">what</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">教室（きょうしつ）</div><div class="pool-word-trans">classroom</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">部屋（へや）</div><div class="pool-word-trans">room</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">トイレ</div><div class="pool-word-trans">restroom, toilet</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">学校（がっこう）</div><div class="pool-word-trans">school</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">受付（うけつけ）</div><div class="pool-word-trans">reception desk</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">本（ほん）</div><div class="pool-word-trans">book</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">辞書（じしょ）</div><div class="pool-word-trans">dictionary</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">新聞（しんぶん）</div><div class="pool-word-trans">newspaper</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">雑誌（ざっし）</div><div class="pool-word-trans">magazine</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ノート</div><div class="pool-word-trans">notebook</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ペン</div><div class="pool-word-trans">pen</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鉛筆（えんぴつ）</div><div class="pool-word-trans">pencil</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">消しゴム（けしごむ）</div><div class="pool-word-trans">eraser</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鞄（かばん）</div><div class="pool-word-trans">bag</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">時計（とけい）</div><div class="pool-word-trans">watch, clock</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鍵（かぎ）</div><div class="pool-word-trans">key</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
       <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">傘（かさ）</div><div class="pool-word-trans">umbrella</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">手帳（てちょう）</div><div class="pool-word-trans">schedule book</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">靴（くつ）</div><div class="pool-word-trans">shoes</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
     </div>
   </section>
 
@@ -739,10 +764,6 @@
       } else {
         el.textContent = el.dataset[lang] || '';
       }
-    });
-    document.querySelectorAll('.i18n-note').forEach(el => {
-      if (lang === 'all') { el.textContent = el.dataset.en; }
-      else { el.textContent = el.dataset[lang] || el.dataset.en; }
     });
   }
   document.addEventListener('DOMContentLoaded', function () { applyLanguage('all'); });
