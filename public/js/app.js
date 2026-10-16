@@ -96,7 +96,8 @@
     'card_midori_yoichi', 'card_midori_jiyuu', 'card_midori_tanoshimu', 'card_midori_oukasuru',
     'card_midori_kougeki', 'card_midori_tsuuchi', 'card_midori_shitsurei', 'card_midori_shitauchi',
     'card_midori_kazoekirenai', 'card_midori_iyanaomoi', 'card_midori_ekiin', 'card_midori_taidogawarui',
-    'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru'
+    'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru',
+    'card_midori_furinosuru', 'card_midori_nisemono', 'card_midori_honmono', 'card_midori_sagi', 'card_midori_kuyashii', 'card_midori_kiriganai', 'card_midori_haragatatsu', 'card_midori_mukatsuku', 'card_midori_sewawosuru', 'card_midori_shugyou', 'card_midori_mukiau'
   ];
 
     const MIDORI_CURATED_CARDS = [
@@ -530,6 +531,281 @@
     },
     "related": "そうだんにのる（授業の重要表現）",
     "studentId": "0012",
+    "isCustom": true
+  },
+{
+    "id": "card_midori_furinosuru",
+    "word": "〜のふりをする",
+    "reading": "〜のふりをする",
+    "meaning": {
+      "ja": "〜のふりをする（見せかける）",
+      "zh_TW": "假裝……、裝作……",
+      "zh_CN": "假装……、装作……",
+      "en": "to pretend to be...",
+      "ko": "~인 척하다",
+      "zh_HK": "扮……、假裝……",
+      "fr": "faire semblant de..."
+    },
+    "example": {
+      "ja": "A: <ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなると、<ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>聞<rt>き</rt></ruby>こえないふりをします。<br/>B: それはずるいですね。しっかり<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いましょう。",
+      "zh_TW": "A: 情況一不利，他總是假裝沒聽見。<br/>B: 那樣太狡猾了呢。好好跟他談談吧。",
+      "zh_CN": "A: 情况一不利，他总是假装没听见。<br/>B: 那样太狡猾了呢。好好跟他谈谈吧。",
+      "en": "A: Whenever things become inconvenient, he always pretends not to hear.<br/>B: That's unfair. Let's have a proper talk with him.",
+      "ko": "A: 상황이 불리해지면 그는 항상 안 들리는 척을 해요.<br/>B: 그건 비겁하네요. 제대로 이야기해 봐요.",
+      "zh_HK": "A: 情況一唔對路，佢就成日扮聽唔到。<br/>B: 咁樣好狡猾㗎喎。同佢好好傾下啦。",
+      "fr": "A: Quand la situation se complique, il fait toujours semblant de ne pas entendre.<br/>B: C'est malhonnête. Il faut en discuter sérieusement."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_nisemono",
+    "word": "偽物",
+    "reading": "にせもの",
+    "meaning": {
+      "ja": "偽物",
+      "zh_TW": "仿冒品、假貨",
+      "zh_CN": "假货、仿冒品",
+      "en": "fake / counterfeit",
+      "ko": "가짜 / 모조품",
+      "zh_HK": "假嘢、冒牌貨",
+      "fr": "faux / contrefaçon"
+    },
+    "example": {
+      "ja": "A: ネットで<ruby>安<rt>やす</rt></ruby>く<ruby>買<rt>か</rt></ruby>ったブランドバッグは<ruby>偽物<rt>にせもの</rt></ruby>でした。<br/>B: ええっ、それはショックですね！<ruby>返品<rt>へんぴん</rt></ruby>できますか。",
+      "zh_TW": "A: 在網路上便宜買的名牌包居然是假貨。<br/>B: 咦！那太受打擊了吧！能退貨嗎？",
+      "zh_CN": "A: 在网上便宜买的名牌包居然是假货。<br/>B: 咦！那太受打击了吧！能退货吗？",
+      "en": "A: The designer bag I bought cheaply online turned out to be a fake.<br/>B: What! That's shocking! Can you return it?",
+      "ko": "A: 인터넷에서 싸게 산 명품 가방이 가짜였어요.<br/>B: 헉, 충격이네요! 반품은 가능한가요?",
+      "zh_HK": "A: 喺網上買嘅平價名牌袋竟然係假嘢。<br/>B: 吓！咁好打擊喎！退唔退到貨呀？",
+      "fr": "A: Le sac de marque acheté pas cher en ligne était une contrefaçon.<br/>B: Mince alors ! Tu peux le retourner ?"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_honmono",
+    "word": "本物",
+    "reading": "ほんもの",
+    "meaning": {
+      "ja": "本物",
+      "zh_TW": "真品、正品、名副其實的",
+      "zh_CN": "真品、正品",
+      "en": "genuine / real thing",
+      "ko": "진짜 / 정품",
+      "zh_HK": "真嘢、正貨",
+      "fr": "vrai / authentique"
+    },
+    "example": {
+      "ja": "A: このダイヤモンドの<ruby>指輪<rt>ゆびわ</rt></ruby>は<ruby>鑑定書<rt>かんていしょ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いている<ruby>本物<rt>ほんもの</rt></ruby>です。<br/>B: さすが、とても<ruby.輝<rt>かがや</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>ですね！",
+      "zh_TW": "A: 這只鑽石戒指附有鑑定書，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美麗呢！",
+      "zh_CN": "A: 这只钻石戒指附有鉴定证书，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美丽呢！",
+      "en": "A: This diamond ring comes with a certificate and is genuine.<br/>B: As expected, the sparkle is truly gorgeous!",
+      "ko": "A: 이 다이아몬드 반지는 감정서가 딸린 진짜예요.<br/>B: 역시 빛이 아주 아름답네요!",
+      "zh_HK": "A: 呢隻鑽石戒指有鑑定證書，係真嘢嚟㗎。<br/>B: 果然好嘢，閃得好靚呀！",
+      "fr": "A: Cette bague en diamant est authentique avec certificat.<br/>B: En effet, son éclat est magnifique !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_sagi",
+    "word": "詐欺",
+    "reading": "さぎ",
+    "meaning": {
+      "ja": "詐欺",
+      "zh_TW": "詐欺、詐騙",
+      "zh_CN": "诈骗、欺诈",
+      "en": "fraud / scam",
+      "ko": "사기",
+      "zh_HK": "騙案、詐騙",
+      "fr": "escroquerie / arnaque"
+    },
+    "example": {
+      "ja": "A: <ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いそうになりました。<br/>B: <ruby>危<rt>あぶ</rt></ruby>なかったですね！すぐにお<ruby>金<rt>かね</rt></ruby>を払わなくてよかったです。",
+      "zh_TW": "A: 接到陌生號碼的電話，差點遇上匯款詐騙。<br/>B: 太危險了！好在沒有立刻匯錢。",
+      "zh_CN": "A: 接到陌生号码的电话，差点碰上汇款诈骗。<br/>B: 太危险了！好在没有立刻转账。",
+      "en": "A: I almost fell for a bank transfer scam from an unknown number.<br/>B: That was close! Good thing you didn't pay right away.",
+      "ko": "A: 모르는 번호로 온 전화 때문에 보이스피싱 사기를 당할 뻔했어요.<br/>B: 위험했네요! 바로 돈을 안 보내서 다행이에요.",
+      "zh_HK": "A: 接到陌生電話，爭啲中咗轉賬騙局。<br/>B: 好彩冇事！好在冇即刻過數啫。",
+      "fr": "A: J'ai failli me faire arnaquer par téléphone d'un numéro inconnu.<br/>B: C'était moins une ! Heureusement que tu n'as pas payé."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kuyashii",
+    "word": "悔しい",
+    "reading": "くやしい",
+    "meaning": {
+      "ja": "悔しい（思い通りにいかず残念）",
+      "zh_TW": "不甘心、懊悔",
+      "zh_CN": "不甘心、懊悔",
+      "en": "frustrated / regrettable",
+      "ko": "분하다 / 억울하다 / 아쉽다",
+      "zh_HK": "唔甘心、好懊悔",
+      "fr": "frustrant / dépité"
+    },
+    "example": {
+      "ja": "A: あと<ruby>一歩<rt>いっぽ</rt></ruby>のところで<ruby>試合<rt>しあい</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けてしまい、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>悔<rt>くや</rt></ruby>しいです。<br/>B: その<ruby>悔<rt>くや</rt></ruby>しさをバネに、<ruby>次<rt>つぎ</rt></ruby>はきっと<ruby>勝<rt>か</rt></ruby>ちましょう！",
+      "zh_TW": "A: 只差一步就輸掉了比賽，真的很不甘心。<br/>B: 把這份不甘心化為動力，下次一定會贏的！",
+      "zh_CN": "A: 只差一步就输掉了比赛，真的很不甘心。<br/>B: 把这份不甘心化为动力，下次一定会赢的！",
+      "en": "A: We lost the match by just a hair, it's so frustrating.<br/>B: Turn that frustration into strength, you'll win next time!",
+      "ko": "A: 한 발자국 차이로 경기에서 져서 정말 분해요.<br/>B: 그 아쉬움을 발판 삼아 다음엔 꼭 이겨요!",
+      "zh_HK": "A: 爭少少輸咗場比賽，真係好唔甘心。<br/>B: 將呢種唔甘心化為動力，下次一定贏！",
+      "fr": "A: Nous avons perdu le match à un cheveu, c'est tellement rageant.<br/>B: Transforme cette déception en force pour la prochaine fois !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kiriganai",
+    "word": "キリがない",
+    "reading": "きりがない",
+    "meaning": {
+      "ja": "キリがない（きりがない・果てがない）",
+      "zh_TW": "沒完沒了、無窮無盡",
+      "zh_CN": "没完没了、无穷无尽",
+      "en": "endless / there is no end to it",
+      "ko": "끝이 없다",
+      "zh_HK": "冇完冇了、冇止境",
+      "fr": "sans fin / interminable"
+    },
+    "example": {
+      "ja": "A: <ruby>欲<rt>よく</rt></ruby>を<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>したらキリがないので、この<ruby>辺<rt>へん</rt></ruby>で<ruby>妥協<rt>だきょう</rt></ruby>しましょう。<br/>B: そうですね、<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>満足<rt>まんぞく</rt></ruby>できる<ruby>結果<rt>けっか</rt></ruby>ですよ。",
+      "zh_TW": "A: 慾望如果貪求起來是沒完沒了的，就在這裡妥協吧。<br/>B: 說得對，這已經是很令人滿意的結果了。",
+      "zh_CN": "A: 欲望如果贪求起来是没完没了的，就在这里妥协吧。<br/>B: 说得对，这已经是很令人满意的结果了。",
+      "en": "A: There's no end to greed once you start, so let's compromise here.<br/>B: You're right, this result is plenty satisfying.",
+      "ko": "A: 욕심을 부리기 시작하면 끝이 없으니 이쯤에서 타협합시다.<br/>B: 맞아요, 충분히 만족스러운 결과예요.",
+      "zh_HK": "A: 貪心起上嚟真係冇完冇了，不如喺度收手啦。<br/>B: 係呀，呢個結果已經好令人滿意。",
+      "fr": "A: Si on commence à trop en vouloir, ça n'en finira jamais, arrêtons-nous là.<br/>B: C'est vrai, c'est déjà très satisfaisant."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_haragatatsu",
+    "word": "腹が立つ",
+    "reading": "はらがたつ",
+    "meaning": {
+      "ja": "腹が立つ（怒りを感じる）",
+      "zh_TW": "生氣、發怒",
+      "zh_CN": "生气、发火",
+      "en": "to get angry / to take offense",
+      "ko": "화가 나다",
+      "zh_HK": "好嬲、發火",
+      "fr": "se mettre en colère"
+    },
+    "example": {
+      "ja": "A: <ruby>彼<rt>かれ</rt></ruby>の<ruby>無責任<rt>むせきにん</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていると、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。<br/>B: <ruby>気持<rt>きも</rt></ruby>ちはわかりますが、まずは<ruby>深呼吸<rt>しんこきゅう</rt></ruby>して<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きましょう。",
+      "zh_TW": "A: 看著他那不負責任的態度，真的很令人火大。<br/>B: 我懂你的心情，但先深呼吸冷靜一下吧。",
+      "zh_CN": "A: 看着他那不负责任的态度，真的很令人火大。<br/>B: 我懂你的心情，但先深呼吸冷静一下吧。",
+      "en": "A: Looking at his irresponsible attitude really makes me angry.<br/>B: I understand how you feel, but let's take a deep breath and calm down.",
+      "ko": "A: 그의 무책임한 태도를 보면 정말 화가 나요.<br/>B: 기분은 알겠지만 일단 심호흡하고 진정해요.",
+      "zh_HK": "A: 望住佢嗰種唔負責任嘅態度，真係好火滾。<br/>B: 明白你感受，但深呼吸冷靜下先啦。",
+      "fr": "A: Son attitude irresponsable me met vraiment en colère.<br/>B: Je comprends, mais respire un grand coup pour te calmer."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_mukatsuku",
+    "word": "ムカつく",
+    "reading": "むかつく",
+    "meaning": {
+      "ja": "ムカつく（腹が立つ・苛立つ）",
+      "zh_TW": "令人火大、令人作嘔",
+      "zh_CN": "令人火大、令人恼火",
+      "en": "to feel irritated / to get ticked off",
+      "ko": "짜증나다 / 화나다",
+      "zh_HK": "好躁、勁火滾",
+      "fr": "être énervé / agacé"
+    },
+    "example": {
+      "ja": "A: あいつの<ruby>偉<rt>えら</rt></ruby>そうな<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にムカつきます！<br/>B: まあまあ、あまり<ruby>気<rt>き</rt></ruby>にしないほうがいいですよ。",
+      "zh_TW": "A: 那傢伙高高在上的說話口氣，真讓人火大！<br/>B: 好啦好啦，別太往心裡去喔。",
+      "zh_CN": "A: 那家伙自以为是的说话口气，真让人火大！<br/>B: 好啦好啦，别太往心里去哦。",
+      "en": "A: That guy's arrogant tone really ticks me off!<br/>B: Come on, it's best not to let it bother you.",
+      "ko": "A: 저 녀석의 거만한 말투, 정말 짜증나요!<br/>B: 에이, 너무 신경 쓰지 않는 게 좋아요.",
+      "zh_HK": "A: 條友懶巴閉嘅口吻，真係好令人躁！<br/>B: 好啦好啦，唔好放喺心上啦。",
+      "fr": "A: Son ton condescendant me tape vraiment sur les nerfs !<br/>B: Allez, essaie de ne pas y prêter attention."
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_sewawosuru",
+    "word": "世話をする",
+    "reading": "せわをする",
+    "meaning": {
+      "ja": "世話をする（面倒を見る）",
+      "zh_TW": "照顧、照料",
+      "zh_CN": "照顾、照料",
+      "en": "to look after / to take care of",
+      "ko": "돌보다 / 보살피다",
+      "zh_HK": "照顧、打理",
+      "fr": "s'occuper de / prendre soin de"
+    },
+    "example": {
+      "ja": "A: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早起<rt>はやお</rt></ruby>きして、<ruby>飼<rt>か</rt></ruby>っている<ruby>犬<rt>いぬ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。<br/>B: <ruby>散歩<rt>さんぽ</rt></ruby>やご飯をあげるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、とてもかわいいですね！",
+      "zh_TW": "A: 我每天早起照顧家裡養的狗狗。<br/>B: 散步和餵食雖然辛苦，但牠一定很可愛吧！",
+      "zh_CN": "A: 我每天早起照顾家里养的狗狗。<br/>B: 散步和喂食虽然辛苦，但它一定很可爱吧！",
+      "en": "A: I wake up early every morning to take care of my dog.<br/>B: Walking and feeding takes effort, but dogs are so lovely!",
+      "ko": "A: 매일 아침 일찍 일어나서 키우는 강아지를 돌봐요.<br/>B: 산책이랑 밥 주는 게 힘들지만 정말 귀엽겠네요!",
+      "zh_HK": "A: 每日朝早早起照顧隻狗。<br/>B: 帶佢散步餵糧雖然辛苦，但好得意呀！",
+      "fr": "A: Je me lève tôt tous les matins pour m'occuper de mon chien.<br/>B: Les promenades et les repas demandent du travail, mais c'est adorable !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_shugyou",
+    "word": "修行",
+    "reading": "しゅぎょう",
+    "meaning": {
+      "ja": "修行（技術や精神を磨く訓練）",
+      "zh_TW": "修行、修煉、學徒訓練",
+      "zh_CN": "修行、学徒训练",
+      "en": "ascetic training / apprentice training",
+      "ko": "수행 / 수련",
+      "zh_HK": "修煉、學徒訓練",
+      "fr": "entraînement rigoureux / apprentissage"
+    },
+    "example": {
+      "ja": "A: <ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>になるために、<ruby>有名店<rt>ゆうめいてん</rt></ruby>で10<ruby>年間<rt>ねんかん</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>しました。<br/>B: 10<ruby>年<rt>ねん</rt></ruby>もの<ruby>厳<rt>きび</rt></ruby>しい<ruby>修行<rt>しゅぎょう</rt></ruby>を乗り越えたのは素晴らしいですね！",
+      "zh_TW": "A: 為了成為一流的壽司師傅，他在名店修行了10年。<br/>B: 能熬過10年嚴格的學徒修行，真的很了不起呢！",
+      "zh_CN": "A: 为了成为一流的寿司师傅，他在名店修行了10年。<br/>B: 能熬过10年严格的学徒修行，真的很了不起呢！",
+      "en": "A: To become a top-tier sushi chef, he trained for 10 years at a famous restaurant.<br/>B: Overcoming 10 years of rigorous training is truly admirable!",
+      "ko": "A: 일류 초밥 장인이 되기 위해 유명 식당에서 10년간 수행했어요.<br/>B: 10년의 혹독한 수련을 견뎌내다니 대단하네요!",
+      "zh_HK": "A: 為咗做一流嘅壽司師傅，喺名店修行咗十年。<br/>B: 捱得過十年咁嚴格嘅學徒訓練，真係好犀利！",
+      "fr": "A: Pour devenir un chef sushi de premier ordre, il s'est formé 10 ans dans un grand restaurant.<br/>B: Traverser 10 ans d'apprentissage rigoureux est admirable !"
+    },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_mukiau",
+    "word": "向き合う",
+    "reading": "むきあう",
+    "meaning": {
+      "ja": "向き合う（正面から対する・真剣に対処する）",
+      "zh_TW": "面對面、正視、認真面對",
+      "zh_CN": "面对、正视、认真对待",
+      "en": "to confront / to face honestly",
+      "ko": "마주하다 / 직면하다",
+      "zh_HK": "正視、認真面對",
+      "fr": "faire face / affronter"
+    },
+    "example": {
+      "ja": "A: つらい<ruby>現実<rt>げんじつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げずに、しっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br/>B: ええ、<ruby>問題<rt>もんだい</rt></ruby>から目を背けずに<ruby>一歩<rt>いっぽ</rt></ruby>ずつ進みましょう。",
+      "zh_TW": "A: 不要逃避痛苦的現實，需要好好正視它的勇氣。<br/>B: 是啊，不逃避問題，一步一步往前邁進吧。",
+      "zh_CN": "A: 不要逃避痛苦的现实，需要好好正视它的勇气。<br/>B: 是啊，不逃避问题，一步一步往前迈进吧。",
+      "en": "A: We need the courage to honestly face harsh reality without running away.<br/>B: Yes, let's move forward step by step without turning away from problems.",
+      "ko": "A: 힘든 현실에서 도망치지 않고 정면으로 마주하는 용기가 필요해요.<br/>B: 맞아요, 문제에서 눈을 돌리지 말고 한 걸음씩 나아가요.",
+      "zh_HK": "A: 唔好逃避殘酷嘅現實，要有勇氣好好正視。<br/>B: 係呀，唔好逃避，一步一步行向前啦。",
+      "fr": "A: Il faut avoir le courage d'affronter la réalité sans fuir.<br/>B: Oui, avançons pas à pas sans fermer les yeux sur les difficultés."
+    },
+    "category": "授業で習った言葉",
     "isCustom": true
   }
 ];
@@ -4105,7 +4381,8 @@
     '夜市', '自由', '楽しむ', '謳歌する',
     '攻撃', '通知', '失礼', '舌打ち',
     '数えきれないほど', '嫌な思いをする', '駅員', '態度が悪い',
-    '影響', '端正な', '顔立ち', '相談に乗る'
+    '影響', '端正な', '顔立ち', '相談に乗る',
+    '〜のふりをする', '偽物', '本物', '詐欺', '悔しい', 'キリがない', '腹が立つ', 'ムカつく', '世話をする', '修行', '向き合う'
   ]);
 
   // Validator to determine if an ID belongs to a custom card (not seed card or class word)
