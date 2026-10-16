@@ -270,22 +270,153 @@
   <section class="content-card" id="sec-structure">
     <div class="card-header-row">
       <div class="step-label">Step 4</div>
-      <div class="card-main-title">日本語の文の仕組み — How a Japanese Sentence is Built</div>
-      <div class="card-subtitle-en">English word order is Subject → Verb → Object. Japanese word order is Subject → Object → Verb — and small "marker" words called particles (助詞) show each word's role, no matter where it sits in the sentence.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="영어는 주어→동사→목적어 순서지만, 일본어는 주어→목적어→동사 순서입니다. 그리고 조사(助詞)라는 작은 표시어가 문장 속 위치와 상관없이 각 단어의 역할을 알려줍니다." data-zhcn="英语的语序是主语→动词→宾语，日语则是主语→宾语→动词。而且日语用「助词」这种小小的标记词来表示每个词的角色，不受语序影响。" data-zhtw="英語的語序是主詞→動詞→受詞，日語則是主詞→受詞→動詞。而且日語用「助詞」這種小小的標記詞來表示每個詞的角色，不受語序影響。" data-cant="英文嘅語序係主詞→動詞→受詞，但日文係主詞→受詞→動詞。而且日文用「助詞」呢啲細細嘅標記字嚟話你知每個字嘅角色，唔受語序影響。"></div>
+      <div class="card-main-title">日本語の文の仕組みと「助詞」 — Sentence Structure & Particles</div>
+      <div class="card-subtitle-en">English word order is Subject → Verb → Object. Japanese is Subject → Object → Verb — and small "marker" words called particles (助詞・じょし) act like role stickers for each word.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="영어는 주어→동사→목적어 순서지만, 일본어는 주어→목적어→동사 순서입니다. 그리고 '조사(助詞)'라는 작은 표시어가 단어 뒤에 붙어 역할표가 되어줍니다." data-zhcn="英语语序是主语→动词→宾语，日语则是主语→宾语→动词。而且日语用称为「助词」的小小标记词贴在名词后，标明其在句中的角色。" data-zhtw="英語語序是主詞→動詞→受詞，日語則是主詞→受詞→動詞。而且日語用稱為「助詞」的小小標記詞貼在名詞後，標明其在句中的角色。" data-cant="英文語序係主詞→動詞→受詞，但日文係主詞→受詞→動詞。而且日文用叫「助詞」嘅細細標記字黐喺名詞後面，話你知佢喺句入面嘅角色。"></div>
     </div>
-    <div class="grammar-diagram">
-      <div class="diagram-step"><div class="diagram-chip highlight">わたしは</div><div class="diagram-caption">Subject + topic marker は<br>"As for me"</div></div>
-      <div class="diagram-arrow">→</div>
-      <div class="diagram-step"><div class="diagram-chip highlight">すしを</div><div class="diagram-caption">Object + marker を</div></div>
-      <div class="diagram-arrow">→</div>
-      <div class="diagram-step"><div class="diagram-chip highlight">たべます。</div><div class="diagram-caption">Verb (always comes last)</div></div>
+
+    <!-- 1. 基本の語順 (SOV) -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">基本語順</span><strong>基本の語順：日本語は動詞が「最後」に来る（SOV）</strong></div>
+        <div class="grammar-desc-en">In Japanese, the verb always comes at the very end of the sentence. Nouns in the middle are marked with particles to show who did what.</div>
+        <div class="grammar-desc-native i18n-native" data-ko="일본어 문장에서 동사는 언제나 맨 끝에 옵니다. 가운데 있는 명사들은 조사가 붙어 누구인지, 무엇인지를 나타냅니다." data-zhcn="在日语句子中，动词永远放在最后。中间的名词则通过附带的助词来表明「谁」做了「什么」。" data-zhtw="在日語句子中，動詞永遠放在最後。中間的名詞則透過附帶的助詞來表明「誰」做了「什麼」。" data-cant="喺日語句子入面，動詞永遠擺喺最尾。中間嘅名詞就靠黐住嘅助詞嚟話你知「邊個」做咗「咩嘢」。"></div>
+        <div class="grammar-diagram">
+          <div class="diagram-step"><div class="diagram-chip highlight">わたし<span style="color:#C4688A; font-weight:700;">は</span></div><div class="diagram-caption">私 ＋ 話題の助詞<br>Subject / Topic ("As for me")</div></div>
+          <div class="diagram-arrow">→</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">すし<span style="color:#C4688A; font-weight:700;">を</span></div><div class="diagram-caption">寿司 ＋ 対象の助詞<br>Object ("sushi")</div></div>
+          <div class="diagram-arrow">→</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">たべます。</div><div class="diagram-caption">動詞（文末）<br>Verb ("eat")</div></div>
+        </div>
+        <div class="examples-block">
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">わたしはすしをたべます。<button class="tts-btn" onclick="speakText('わたしはすしをたべます。')" title="Listen">🔊</button></div><div class="example-en">I eat sushi. (literally: "As for me, sushi, eat.")</div></div></div>
+        </div>
+      </div>
     </div>
-    <div class="examples-block">
-      <div class="examples-label">Full sentence</div>
-      <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">わたしはすしをたべます。<button class="tts-btn" onclick="speakText('わたしはすしをたべます。')" title="Listen">🔊</button></div><div class="example-en">I eat sushi. (literally: "As for me, sushi, eat.")</div></div></div>
+
+    <!-- 2. 助詞の役割と語順の自由度 -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">助詞の秘密</span><strong>なぜ助詞が必要？ — 「単語の役割ステッカー」と自由な語順</strong></div>
+        <div class="grammar-desc-en">Particles attach directly to nouns to clearly define their role (Subject, Object, Location, etc.). Because particles carry the meaning, Japanese word order is much more flexible than English — as long as the verb is at the end!</div>
+        <div class="grammar-desc-native i18n-native" data-ko="조사는 명사 바로 뒤에 붙어 그 단어의 역할(주어, 목적어, 장소 등)을 명확하게 해줍니다. 조사가 역할을 결정해주기 때문에 동사만 맨 끝에 있다면 단어의 순서를 바꿔도 같은 뜻이 통합니다!" data-zhcn="助词直接接在名词后面，标明其在句中的角色（主语、宾语、地点等）。正因为助词承担了定性作用，只要动词位于句尾，日语的语序比英语灵活得多！" data-zhtw="助詞直接接在名詞後面，標明其在句中的角色（主詞、受詞、地點等）。正因為助詞承擔了定性作用，只要動詞位於句尾，日語的語序比英語靈活得多！" data-cant="助詞直接黐喺名詞後面，話你知佢喺句中嘅角色（主詞、受詞、地點等）。正正因為助詞決定咗個角色，只要動詞留喺最尾，日文嘅語序比英文靈活得多！"></div>
+
+        <div style="background:#F6FAFD; border:1px solid #C4E0F1; border-radius:10px; padding:12px 16px; margin:12px 0; font-size:0.86rem;">
+          <div style="font-weight:700; color:var(--navy-main); margin-bottom:6px;">💡 英語と日本語の決定的な違い（Word Order Comparison）</div>
+          <div style="color:var(--text-dark); line-height:1.6;">
+            ・<strong>英語（語順が命）：</strong><br>
+            　"Ken eats sushi"（ケンが寿司を食べる） ⇄ "Sushi eats Ken"（寿司がケンを食べる！？ 意味が逆転！）<br>
+            ・<strong>日本語（助詞が役割を決める）：</strong><br>
+            　「<strong>わたしは</strong> <strong>すしを</strong> たべます」＝「<strong>すしを</strong> <strong>わたしは</strong> たべます」（どちらも「私が寿司を食べる」という意味！）
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="note-box i18n-note" data-en="Because particles like は and を mark each word's job, Japanese word order is actually more flexible than English — the verb just always goes at the very end. You'll start learning particles one at a time from Stage 1, beginning with は." data-ko="は나 を같은 조사가 각 단어의 역할을 표시해주기 때문에, 일본어 어순은 사실 영어보다 더 유연합니다. 동사만 항상 맨 끝에 옵니다. Stage 1부터 は를 시작으로 조사를 하나씩 배우게 됩니다." data-zhcn="因为は、を这类助词会标出每个词的作用，日语的语序其实比英语更自由，只有动词永远放在最后。从Stage 1开始会从は起逐一学习助词。" data-zhtw="因為は、を這類助詞會標出每個詞的作用，日語的語序其實比英語更自由，只有動詞永遠放在最後。從Stage 1開始會從は起逐一學習助詞。" data-cant="因為は、を呢啲助詞會標出每個字嘅作用，日文嘅語序其實比英文更自由，淨係動詞永遠擺喺最尾。由Stage 1開始會由は起逐個學助詞。">Because particles like は and を mark each word's job, Japanese word order is actually more flexible than English — the verb just always goes at the very end. You'll start learning particles one at a time from Stage 1, beginning with は.</div>
+
+    <!-- 3. 初心者が必ず引っかかる助詞の発音ルール -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag" style="background:#FFF3CD; color:#856404; border-color:#FFEEBA;">発音注意！</span><strong>初心者の落とし穴：助詞になるとき発音・読み方が変わる文字</strong></div>
+        <div class="grammar-desc-en">Hiragana chart rules have a few famous exceptions when characters are used as particles. Watch out for these three!</div>
+        <div class="grammar-desc-native i18n-native" data-ko="히라가나 50음도에는 조사가 될 때 발음이 바뀌는 유명한 예외가 있습니다. 이 3가지를 꼭 기억하세요!" data-zhcn="平假名50音表中有几个在充当助词时发音会发生变化的特殊例外，请务必牢记这3个！" data-zhtw="平假名50音表中有幾個在充當助詞時發音會發生變化的特殊例外，請務必牢記這3個！" data-cant="平假名50音表入面有幾隻字喺做助詞嗰陣發音會有特別變化，一定要記住呢3個！"></div>
+
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:10px; margin-top:12px;">
+          <div style="background:#FFF9FA; border:1.5px solid var(--pink-border); border-radius:10px; padding:10px 14px;">
+            <div style="font-size:1.1rem; font-weight:700; color:var(--pink-text); display:flex; align-items:center; justify-content:space-between;">
+              <span>は → [ wa ]</span>
+              <button class="tts-btn" onclick="speakText('わたしは')" title="Listen">🔊</button>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">単語では「ha」ですが、<strong>助詞（〜は）の時は「wa」</strong>と発音します。</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：わたし<strong>は</strong> (watashi <em>wa</em>)</div>
+          </div>
+
+          <div style="background:#F0FAFA; border:1.5px solid var(--teal-border); border-radius:10px; padding:10px 14px;">
+            <div style="font-size:1.1rem; font-weight:700; color:var(--teal-text); display:flex; align-items:center; justify-content:space-between;">
+              <span>へ → [ e ]</span>
+              <button class="tts-btn" onclick="speakText('日本へ')" title="Listen">🔊</button>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">単語では「he」ですが、<strong>助詞（方向：〜へ）の時は「e」</strong>と発音します。</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：にほん<strong>へ</strong> (nihon <em>e</em>)</div>
+          </div>
+
+          <div style="background:#EDF5FB; border:1.5px solid var(--blue-border); border-radius:10px; padding:10px 14px;">
+            <div style="font-size:1.1rem; font-weight:700; color:var(--navy-main); display:flex; align-items:center; justify-content:space-between;">
+              <span>を → [ o ]</span>
+              <button class="tts-btn" onclick="speakText('すしを')" title="Listen">🔊</button>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">現代日本語では「wo」ではなく<strong>「o」（お と同じ音）</strong>で発音します。</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：すし<strong>を</strong> (sushi <em>o</em>)</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. 主要な基本助詞ミニガイド -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">先取りガイド</span><strong>Stage 1から学ぶ基本助詞プレビュー（First Particles Preview）</strong></div>
+        <div class="grammar-desc-en">Here is a quick look at the most common particles you'll master in the upcoming stages:</div>
+        <div class="grammar-desc-native i18n-native" data-ko="앞으로 스테이지에서 하나씩 배우게 될 핵심 기본 조사들을 미리 만나보세요:" data-zhcn="以下是接下来在各个Stage中将逐步掌握的核心基本助词速览：" data-zhtw="以下是接下來在各個Stage中將逐步掌握的核心基本助詞速覽：" data-cant="以下係嚟緊喺各個Stage會逐一學到嘅核心基本助詞速覽："></div>
+
+        <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:10px; margin-top:14px;">
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">は (wa)</span>
+              <span style="font-size:0.72rem; background:var(--pink-bg); color:var(--pink-text); border:1px solid var(--pink-border); padding:1px 6px; border-radius:6px; font-weight:600;">主題 / Topic</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜は」 As for...（文のテーマ）</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：わたし<strong>は</strong>がくせいです。<button class="tts-btn" onclick="speakText('わたしはがくせいです。')" title="Listen">🔊</button><br><span style="color:#64748B;">I am a student.</span></div>
+          </div>
+
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">を (o)</span>
+              <span style="font-size:0.72rem; background:var(--teal-bg); color:var(--teal-text); border:1px solid var(--teal-border); padding:1px 6px; border-radius:6px; font-weight:600;">対象 / Object</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜を」 Direct Object（動作の相手）</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：パン<strong>を</strong>たべます。<button class="tts-btn" onclick="speakText('パンをたべます。')" title="Listen">🔊</button><br><span style="color:#64748B;">I eat bread.</span></div>
+          </div>
+
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">も (mo)</span>
+              <span style="font-size:0.72rem; background:var(--blue-bg); color:var(--blue-text); border:1px solid var(--blue-border); padding:1px 6px; border-radius:6px; font-weight:600;">同類 / Also</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜も」 Also, too（同様のこと）</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：わたし<strong>も</strong>がくせいです。<button class="tts-btn" onclick="speakText('わたしもがくせいです。')" title="Listen">🔊</button><br><span style="color:#64748B;">I am also a student.</span></div>
+          </div>
+
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">に (ni)</span>
+              <span style="font-size:0.72rem; background:var(--yellow-bg); color:var(--yellow-text); border:1px solid var(--yellow-border); padding:1px 6px; border-radius:6px; font-weight:600;">時間・目的 / At, To</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜に」 Time / Destination</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：７じ<strong>に</strong>おきます。<button class="tts-btn" onclick="speakText('７じにおきます。')" title="Listen">🔊</button><br><span style="color:#64748B;">I get up at 7:00.</span></div>
+          </div>
+
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">で (de)</span>
+              <span style="font-size:0.72rem; background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border); padding:1px 6px; border-radius:6px; font-weight:600;">場所・手段 / At, By</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜で」 Action Location / By means</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：うち<strong>で</strong>たべます。<button class="tts-btn" onclick="speakText('うちでたべます。')" title="Listen">🔊</button><br><span style="color:#64748B;">I eat at home.</span></div>
+          </div>
+
+          <div style="background:white; border:1.5px solid var(--border-light); border-radius:10px; padding:10px 12px;">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span style="font-size:1.15rem; font-weight:700; color:var(--navy-main);">の (no)</span>
+              <span style="font-size:0.72rem; background:#F1F5F9; color:#475569; border:1px solid #CBD5E1; padding:1px 6px; border-radius:6px; font-weight:600;">所有・修飾 / Of, 's</span>
+            </div>
+            <div style="font-size:0.82rem; color:var(--text-dark); margin-top:4px;">「〜の」 Possessive / Modifier</div>
+            <div style="font-size:0.76rem; color:var(--text-sub); margin-top:2px;">例：わたし<strong>の</strong>ほん。<button class="tts-btn" onclick="speakText('わたしのほん')" title="Listen">🔊</button><br><span style="color:#64748B;">My book.</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="note-box i18n-note" data-en="Don't worry about memorizing all particles right now! Stage 1 begins with は in Lesson 1, and introduces each particle step-by-step with plenty of practice." data-ko="지금 모든 조사를 다 외울 필요는 전혀 없습니다! Stage 1의 1과부터 は를 시작으로 단계별로 충분한 연습과 함께 하나씩 배웁니다." data-zhcn="现在完全不用急着把所有助词都背下来！Stage 1从第1课的「は」开始，会结合大量练习一步一步带你掌握每个助词。" data-zhtw="現在完全不用急著把所有助詞都背下來！Stage 1從第1課的「は」開始，會結合大量練習一步一步帶你掌握每個助詞。" data-cant="而家完全唔使急住背晒所有助詞！Stage 1由第1課嘅「は」開始，會配合大量練習一步一步帶你熟習每個助詞。">Don't worry about memorizing all particles right now! Stage 1 begins with は in Lesson 1, and introduces each particle step-by-step with plenty of practice.</div>
   </section>
 
   <section class="content-card" id="sec-greetings">

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Stage1-Lesson1：わたしは〜です</title>
+<title>Stage1-Lesson1：〜は〜です</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -40,81 +40,69 @@
   .card-subtitle-native { font-size: 0.82rem; color: var(--text-sub); margin-top: 2px; }
   ruby { font-family: '游ゴシック', 'YuGothic', sans-serif; }
   ruby rt { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 0.65em; color: var(--ruby-color); font-weight: 600; }
-  .vocab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
-  .vocab-item-card { background: #FAFCFE; border: 1.5px solid var(--blue-border); border-radius: 12px; padding: 12px 14px; display: flex; flex-direction: column; justify-content: center; }
-  .vocab-jp { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.15rem; font-weight: 600; color: var(--navy-main); margin-bottom: 4px; display:flex; align-items:center; gap:6px; }
-  .vocab-en { font-size: 0.84rem; font-weight: 600; color: var(--text-dark); }
-  .vocab-native { font-size: 0.78rem; color: var(--text-sub); }
-  .conj-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 14px; }
-  .conj-table th { background: var(--blue-bg); color: var(--navy-main); padding: 8px 12px; font-weight: 700; border: 1px solid #CBD5E0; text-align: center; font-size: 0.8rem; }
-  .conj-table td { padding: 7px 12px; border: 1px solid var(--border-light); text-align: center; font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.02rem; }
+  
+  .conj-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 12px 0 16px; }
+  .conj-table th { background: var(--blue-bg); color: var(--navy-main); padding: 9px 12px; font-weight: 700; border: 1px solid #CBD5E0; text-align: center; font-size: 0.82rem; }
+  .conj-table td { padding: 9px 12px; border: 1px solid var(--border-light); text-align: center; font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 0.98rem; }
   .conj-table tr:nth-child(even) { background: #FAFBFD; }
-  .conj-group-label { font-size: 0.78rem; font-weight: 700; color: var(--navy-main); margin: 14px 0 6px; }
-  .dialogue-card-item { background: white; border: 1.5px solid var(--border-light); border-left: 5px solid var(--blue-border); border-radius: 12px; padding: 14px 18px; margin-bottom: 12px; }
-  .dialogue-speaker-name { font-size: 0.82rem; font-weight: 700; color: var(--navy-main); margin-bottom: 4px; padding: 2px 8px; border-radius: 8px; display: inline-block; }
-  .dialogue-jp-line { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.22rem; font-weight: 600; color: var(--text-dark); margin-bottom: 6px; line-height: 1.5; }
-  .dialogue-en-line { font-size: 0.88rem; font-weight: 500; color: #334155; }
-  .dialogue-native-line { font-size: 0.82rem; color: #64748B; }
-  .tts-btn { background: none; border: 1px solid var(--border-light); border-radius: 50%; width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; color: var(--navy-main); transition: all 0.2s; padding: 0; vertical-align: middle; margin-left: 6px; flex-shrink: 0; }
-  .tts-btn:hover { background: var(--blue-bg); border-color: var(--blue-border); transform: scale(1.1); }
-  .grammar-block { margin-bottom: 26px; }
-  .grammar-visual-card { background: white; border: 1.5px solid var(--border-light); border-radius: 14px; padding: 16px 20px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02); }
+
+  .grammar-block { margin-bottom: 20px; }
+  .grammar-visual-card { background: white; border: 1.5px solid var(--border-light); border-radius: 14px; padding: 18px 20px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02); }
   .grammar-card-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }
-  .grammar-tag { font-size: 0.72rem; font-weight: 700; background: var(--pink-bg); color: var(--pink-text); border: 1px solid var(--pink-border); padding: 2px 8px; border-radius: 8px; letter-spacing: 0.3px; }
-  .grammar-formula { font-family: '游ゴシック', 'YuGothic', monospace; font-size: 0.95rem; font-weight: 600; color: var(--text-sub); background: #F6FAFD; padding: 8px 14px; border-radius: 10px; border: 1px solid #E2ECF8; margin-top: 10px; }
-  .grammar-desc-en { font-size: 0.86rem; color: var(--text-dark); margin-bottom: 3px; line-height: 1.5; }
-  .grammar-desc-native { font-size: 0.8rem; color: var(--text-sub); }
-  .grammar-diagram { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: #F6FAFD; border: 1.5px solid #C4E0F1; border-radius: 12px; padding: 16px 18px; margin: 12px 0; }
-  .diagram-step { display: flex; flex-direction: column; align-items: center; gap: 5px; }
-  .diagram-chip { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.02rem; font-weight: 600; padding: 8px 14px; border-radius: 10px; background: white; border: 2px solid var(--blue-border); color: var(--navy-main); white-space: nowrap; }
+  .grammar-tag { font-size: 0.74rem; font-weight: 700; background: var(--pink-bg); color: var(--pink-text); border: 1px solid var(--pink-border); padding: 3px 9px; border-radius: 8px; letter-spacing: 0.3px; }
+  .grammar-formula { font-family: '游ゴシック', 'YuGothic', monospace; font-size: 0.98rem; font-weight: 700; color: var(--navy-main); background: #F6FAFD; padding: 10px 16px; border-radius: 10px; border: 1px solid #C4E0F1; margin: 12px 0; }
+  .grammar-desc-en { font-size: 0.88rem; color: var(--text-dark); margin-bottom: 4px; line-height: 1.5; }
+  .grammar-desc-native { font-size: 0.82rem; color: var(--text-sub); }
+
+  .grammar-diagram { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; background: #F6FAFD; border: 1.5px solid #C4E0F1; border-radius: 12px; padding: 14px 18px; margin: 12px 0; }
+  .diagram-step { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .diagram-chip { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.02rem; font-weight: 600; padding: 7px 14px; border-radius: 10px; background: white; border: 2px solid var(--blue-border); color: var(--navy-main); white-space: nowrap; }
   .diagram-chip.highlight { background: var(--pink-bg); border-color: var(--pink-border); color: var(--pink-text); }
   .diagram-caption { font-size: 0.68rem; color: var(--text-sub); font-weight: 600; text-align: center; }
-  .diagram-arrow { font-size: 1.3rem; color: var(--teal-main); font-weight: 700; }
-  .examples-block { margin: 14px 0 16px; }
+  .diagram-arrow { font-size: 1.2rem; color: var(--teal-main); font-weight: 700; }
+
+  .examples-block { margin: 14px 0 12px; }
   .examples-label { font-size: 0.72rem; font-weight: 700; color: var(--teal-text); text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 8px; }
   .example-row { display: flex; align-items: flex-start; gap: 10px; background: var(--teal-bg); border: 1px solid var(--teal-border); border-radius: 10px; padding: 10px 14px; margin-bottom: 8px; }
   .example-num { flex: 0 0 auto; width: 20px; height: 20px; border-radius: 50%; background: var(--teal-main); color: white; font-size: 0.72rem; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
   .example-content { flex: 1; }
   .example-jp { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.05rem; font-weight: 600; color: var(--text-dark); display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
   .example-en { font-size: 0.82rem; color: var(--text-sub); margin-top: 3px; }
-  .example-native { font-size: 0.78rem; color: #94A3B8; margin-top: 1px; }
-  .practice-part-header { display: flex; align-items: center; gap: 10px; margin: 28px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--blue-border); }
-  .practice-part-badge { background: var(--navy-main); color: white; font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; }
-  .practice-part-title { font-size: 1.05rem; font-weight: 700; color: var(--navy-main); }
-  .roleplay-card { background: #FAFBFD; border: 1.5px solid var(--border-light); border-radius: 14px; padding: 16px 20px; margin-bottom: 14px; }
-  .roleplay-title { font-size: 0.92rem; font-weight: 700; color: var(--navy-main); margin-bottom: 12px; }
-  .roleplay-bubble { display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start; }
-  .roleplay-bubble:last-child { margin-bottom: 0; }
-  .roleplay-speaker { font-size: 0.76rem; font-weight: 700; padding: 3px 8px; border-radius: 8px; min-width: 60px; text-align: center; flex-shrink: 0; }
-  .speaker-a { background: var(--blue-bg); color: var(--navy-main); border: 1px solid var(--blue-border); }
-  .speaker-b { background: var(--mid-cyan-bg); color: var(--mid-cyan-text); border: 1px solid var(--mid-cyan-border); }
-  .roleplay-lines { flex-grow: 1; }
-  .roleplay-jp { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.12rem; font-weight: 600; color: var(--text-dark); margin-bottom: 2px; display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
-  .roleplay-trans { font-size: 0.82rem; color: var(--text-sub); }
-  .roleplay-native { font-size: 0.78rem; color: #94A3B8; }
-  .toggle-item { background: white; border: 1.5px solid var(--blue-border); border-radius: 12px; padding: 14px 16px; margin-bottom: 10px; cursor: pointer; }
+  .example-native { font-size: 0.78rem; color: #64748B; margin-top: 1px; }
+
+  .tts-btn { background: none; border: 1px solid var(--border-light); border-radius: 50%; width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; color: var(--navy-main); transition: all 0.2s; padding: 0; vertical-align: middle; margin-left: 6px; flex-shrink: 0; }
+  .tts-btn:hover { background: var(--blue-bg); border-color: var(--blue-border); transform: scale(1.1); }
+
+  .practice-part-header { display: flex; align-items: center; gap: 10px; margin: 20px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--blue-border); }
+  .practice-part-badge { background: var(--navy-main); color: white; font-size: 0.76rem; font-weight: 700; padding: 3px 9px; border-radius: 10px; }
+  .practice-part-title { font-size: 1.02rem; font-weight: 700; color: var(--navy-main); }
+
+  .toggle-item { background: white; border: 1.5px solid var(--blue-border); border-radius: 12px; padding: 12px 16px; margin-bottom: 8px; cursor: pointer; }
   .toggle-prompt-row { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
-  .toggle-prompt-text { font-size: 0.95rem; font-weight: 600; color: var(--navy-main); }
-  .btn-check-reveal { background: var(--blue-bg); color: var(--navy-main); border: 1px solid var(--blue-border); padding: 5px 12px; border-radius: 16px; font-size: 0.78rem; font-weight: 600; flex-shrink: 0; }
-  .toggle-answer-box { display: none; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--border-light); font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.2rem; font-weight: 600; color: var(--navy-main); }
+  .toggle-prompt-text { font-size: 0.92rem; font-weight: 600; color: var(--navy-main); }
+  .btn-check-reveal { background: var(--blue-bg); color: var(--navy-main); border: 1px solid var(--blue-border); padding: 5px 12px; border-radius: 16px; font-size: 0.76rem; font-weight: 600; flex-shrink: 0; }
+  .toggle-answer-box { display: none; margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border-light); font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.15rem; font-weight: 600; color: var(--navy-main); }
   .toggle-answer-box.show { display: block; animation: fadeIn 0.25s ease; }
   @keyframes fadeIn { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
-  .kanji-display-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; }
-  .kanji-box-item { background: white; border: 1.5px solid var(--pink-border); border-radius: 14px; padding: 14px 10px; text-align: center; }
-  .kanji-large-char { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 2.5rem; font-weight: 600; color: var(--navy-main); line-height: 1.1; }
-  .kanji-meaning-en { font-size: 0.82rem; font-weight: 600; color: var(--pink-text); margin: 4px 0 2px; }
-  .kanji-readings-text { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 0.85rem; color: var(--text-sub); }
+
+  .dialogue-card-item { background: white; border: 1.5px solid var(--border-light); border-left: 5px solid var(--blue-border); border-radius: 12px; padding: 14px 18px; margin-bottom: 12px; }
+  .dialogue-speaker-name { font-size: 0.82rem; font-weight: 700; color: var(--navy-main); margin-bottom: 4px; padding: 2px 8px; border-radius: 8px; display: inline-block; }
+  .dialogue-jp-line { font-family: '游ゴシック', 'YuGothic', sans-serif; font-size: 1.18rem; font-weight: 600; color: var(--text-dark); margin-bottom: 6px; line-height: 1.5; }
+  .dialogue-en-line { font-size: 0.86rem; font-weight: 500; color: #334155; }
+  .dialogue-native-line { font-size: 0.80rem; color: #64748B; }
+
+  .note-box { background: var(--yellow-bg); border: 1.5px solid var(--yellow-border); border-radius: 12px; padding: 12px 16px; margin: 12px 0; font-size: 0.85rem; color: var(--yellow-title); }
+
   .vocab-filter-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-wrap: wrap; gap: 10px; }
   .filter-btn-group { display: flex; gap: 6px; }
   .filter-pill { background: white; border: 1px solid var(--border-light); font-size: 0.78rem; font-weight: 600; padding: 4px 12px; border-radius: 14px; cursor: pointer; color: var(--text-sub); transition: all 0.2s; }
   .filter-pill.active { background: var(--navy-main); color: white; border-color: var(--navy-main); }
   .word-pool-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
   .word-pool-card { background: white; border: 1px solid var(--border-light); border-radius: 10px; padding: 10px 14px; display: flex; justify-content: space-between; align-items: center; }
-  .pool-word-jp { font-family: '游ゴシック', 'YuGothic', sans-serif; font-weight: 600; font-size: 1.1rem; color: var(--navy-main); }
+  .pool-word-jp { font-family: '游ゴシック', 'YuGothic', sans-serif; font-weight: 600; font-size: 1.08rem; color: var(--navy-main); }
   .pool-word-trans { font-size: 0.78rem; color: var(--text-sub); }
   .star-btn { background: none; border: none; font-size: 1.25rem; cursor: pointer; color: #CBD5E0; transition: all 0.2s; }
   .star-btn.active { color: #E2A03F; transform: scale(1.15); }
-  .note-box { background: var(--yellow-bg); border: 1.5px solid var(--yellow-border); border-radius: 12px; padding: 12px 16px; margin: 12px 0; font-size: 0.85rem; color: var(--yellow-title); }
 </style>
 </head>
 <body>
@@ -123,7 +111,7 @@
   <div class="header-inner">
     <div class="header-title-box">
       <span class="badge-stage">STAGE 1 - LESSON 1</span>
-      <h1>わたしは〜です — I am ~ / This is ~</h1>
+      <h1>日本語の基本文 — 〜は〜です / の / じゃありません / ですか / も</h1>
     </div>
     <div class="lang-switcher">
       <span>🌐</span>
@@ -139,250 +127,443 @@
 </header>
 
 <div class="nav-bar">
-  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system')">1. です活用</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-dialogue')">2. Main Dialogue</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar')">3. Grammar & Practice</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji')">4. Kanji</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool')">5. Word Pool</button>
+  <button class="nav-tab-btn active" onclick="scrollToSection('sec-grammar-1')">1. 〜は〜です</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-2')">2. 〜は〜の〜です</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-3')">3. 〜は〜じゃありません</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-4')">4. 〜は〜ですか？</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar-5')">5. 〜も〜です</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-review')">6. これまでの総復習</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool')">7. Word Pool (宿題単語)</button>
 </div>
 
 <div class="container">
 
-  <section class="content-card" id="sec-system">
+  <!-- ==================== 1. 〜は〜です ==================== -->
+  <section class="content-card" id="sec-grammar-1">
     <div class="card-header-row">
-      <div class="step-label">Step 1</div>
-      <div class="card-main-title">The Copula です — Building Every Sentence Shape</div>
-      <div class="card-subtitle-en">です is not a verb — it's a "linking word" that connects a topic to what it is. Every sentence in this lesson is built from the same three shapes below.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="です는 동사가 아니라 주제와 그것이 무엇인지를 연결하는 '연결어'입니다. 이번 과의 모든 문장은 아래 세 가지 형태로 만들어집니다." data-zhcn="です不是动词，而是把主题和它是什么连接起来的「连接词」。本课所有句子都是用下面三种形式组成的。" data-zhtw="です不是動詞，而是把主題和它是什麼連接起來的「連接詞」。本課所有句子都是用下面三種形式組成的。" data-cant="です唔係動詞，係將主題同佢係咩嘢連埋一齊嘅「連接詞」。呢課所有句子都係用下面三種形式砌返嚟嘅。"></div>
-    </div>
-    <div class="conj-group-label">肯定・否定・疑問 — Affirmative / Negative / Question</div>
-    <table class="conj-table">
-      <tr><th>肯定 (Affirmative)</th><th>否定 (Negative)</th><th>疑問 (Question)</th></tr>
-      <tr><td>会社員です</td><td>会社員じゃありません</td><td>会社員ですか</td></tr>
-      <tr><td>学生です</td><td>学生じゃありません</td><td>学生ですか</td></tr>
-      <tr><td>アメリカ人です</td><td>アメリカ人じゃありません</td><td>アメリカ人ですか</td></tr>
-    </table>
-    <div class="conj-group-label">答え方 — Answering a です-question</div>
-    <table class="conj-table">
-      <tr><th>Yes</th><th>No</th></tr>
-      <tr><td>はい、そうです。</td><td>いいえ、そうじゃありません。</td></tr>
-    </table>
-    <div class="note-box i18n-note" data-en="Notice the topic marker は right after the first noun (わたしは, エマさんは...). は tells the listener 'here's what I'm about to talk about' — it doesn't mean the noun is doing an action, just that it's the topic." data-ko="첫 번째 명사 바로 뒤에 오는 주제 표시 は(わたしは、エマさんは...)에 주목하세요. は는 '지금부터 이것에 대해 말하겠다'는 뜻이며, 그 명사가 동작을 한다는 뜻이 아니라 그저 화제라는 것을 나타냅니다." data-zhcn="请注意紧跟在第一个名词后面的话题标记は（わたしは、エマさんは...）。は表示「接下来要谈的就是这个」，并不代表这个名词在做动作，只是表示话题。" data-zhtw="請注意緊跟在第一個名詞後面的話題標記は（わたしは、エマさんは...）。は表示「接下來要談的就是這個」，並不代表這個名詞在做動作，只是表示話題。" data-cant="留意跟喺第一個名詞後面嘅話題標記は（わたしは、エマさんは...）。は即係話「跟住要講嘅就係呢個」，唔代表呢個名詞喺度做緊動作，淨係表示話題啫。">Notice the topic marker は right after the first noun (わたしは, エマさんは...). は tells the listener "here's what I'm about to talk about" — it doesn't mean the noun is doing an action, just that it's the topic.</div>
-  </section>
-
-  <section class="content-card" id="sec-dialogue">
-    <div class="card-header-row">
-      <div class="step-label">Step 2</div>
-      <div class="card-main-title">Main Dialogue: 新入社員歓迎会で — At the New Employee Welcome Event</div>
-      <div class="card-subtitle-en">Emma Wilson just joined Mirai Trading. At the welcome event, she meets her new colleague Tanaka Sakura.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="에마 윌슨은 미라이상사에 막 입사했습니다. 환영회에서 새 동료 다나카 사쿠라를 만납니다." data-zhcn="艾玛·威尔逊刚加入未来商事。在欢迎会上，她认识了新同事田中樱。" data-zhtw="艾瑪·威爾遜剛加入未來商事。在歡迎會上，她認識了新同事田中櫻。" data-cant="艾瑪・威爾遜啱啱加入未來商事。喺歡迎會度，佢認識咗新同事田中櫻。"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">エマ</div><button class="tts-btn" onclick="speakText('初めまして。エマ・ウィルソンです。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">初めまして。エマ・ウィルソンです。</div>
-      <div class="dialogue-en-line">Nice to meet you. I'm Emma Wilson.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="처음 뵙겠습니다. 에마 윌슨입니다." data-zhcn="初次见面。我是艾玛·威尔逊。" data-zhtw="初次見面。我是艾瑪·威爾遜。" data-cant="幸會。我係艾瑪・威爾遜。"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">田中</div><button class="tts-btn" onclick="speakText('田中さくらです。よろしくお願いします。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line"><ruby>田中<rt>たなか</rt></ruby>さくらです。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>
-      <div class="dialogue-en-line">I'm Tanaka Sakura. Nice to meet you.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="다나카 사쿠라입니다. 잘 부탁드립니다." data-zhcn="我是田中樱。请多关照。" data-zhtw="我是田中櫻。請多關照。" data-cant="我係田中櫻。請多多指教。"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">田中</div><button class="tts-btn" onclick="speakText('エマさんは学生ですか。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">エマさんは<ruby>学生<rt>がくせい</rt></ruby>ですか。</div>
-      <div class="dialogue-en-line">Are you a student, Emma?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="에마 씨는 학생이세요?" data-zhcn="艾玛小姐是学生吗？" data-zhtw="艾瑪小姐是學生嗎？" data-cant="艾瑪小姐係唔係學生呀？"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">エマ</div><button class="tts-btn" onclick="speakText('いいえ、学生じゃありません。会社員です。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">いいえ、<ruby>学生<rt>がくせい</rt></ruby>じゃありません。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。</div>
-      <div class="dialogue-en-line">No, I'm not a student. I'm a company employee.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="아니요, 학생이 아니에요. 회사원이에요." data-zhcn="不，我不是学生。我是公司职员。" data-zhtw="不，我不是學生。我是公司職員。" data-cant="唔係，我唔係學生。我係公司職員。"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">エマ</div><button class="tts-btn" onclick="speakText('みらい商事の社員です。田中さんも、みらい商事の社員ですか。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">みらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>です。<ruby>田中<rt>たなか</rt></ruby>さんも、みらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>ですか。</div>
-      <div class="dialogue-en-line">I'm an employee of Mirai Trading. Are you also an employee of Mirai Trading, Tanaka?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="미라이상사 사원이에요. 다나카 씨도 미라이상사 사원이세요?" data-zhcn="我是未来商事的员工。田中小姐也是未来商事的员工吗？" data-zhtw="我是未來商事的員工。田中小姐也是未來商事的員工嗎？" data-cant="我係未來商事嘅員工。田中小姐係唔係都係未來商事嘅員工呀？"></div>
-    </div>
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">田中</div><button class="tts-btn" onclick="speakText('はい、そうです。よろしくお願いします、エマさん。')" title="Listen">🔊</button></div>
-      <div class="dialogue-jp-line">はい、そうです。よろしくお<ruby>願<rt>ねが</rt></ruby>いします、エマさん。</div>
-      <div class="dialogue-en-line">Yes, that's right. Nice to meet you, Emma.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="네, 맞아요. 잘 부탁드려요, 에마 씨." data-zhcn="是的，没错。请多关照，艾玛小姐。" data-zhtw="是的，沒錯。請多關照，艾瑪小姐。" data-cant="係啊，冇錯。請多多指教，艾瑪小姐。"></div>
-    </div>
-  </section>
-
-  <section class="content-card" id="sec-grammar">
-    <div class="card-header-row">
-      <div class="step-label">Step 3</div>
-      <div class="card-main-title">Grammar & Comprehensive Speaking Practice</div>
-      <div class="card-subtitle-en">Work through each pattern's diagram and examples, then try the practice questions, roleplay, and rapid-response challenge.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="각 패턴의 다이어그램과 예문을 익힌 후 연습 문제, 롤플레이, 즉석 챌린지에 도전하세요." data-zhcn="先看懂每个句型的图解和例句，再挑战练习题、角色扮演与即时口说挑战。" data-zhtw="先看懂每個句型的圖解和例句，再挑戰練習題、角色扮演與即時口說挑戰。" data-cant="先睇明每個句型嘅圖解同例句，再挑戰練習題、角色扮演同即時口說挑戰。"></div>
-    </div>
-
-    <div class="practice-part-header"><span class="practice-part-badge">Part 1</span><div class="practice-part-title">Basic Pattern Drills</div></div>
-
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head"><span class="grammar-tag">Grammar A</span><strong>N1は N2です ("N1 is N2")</strong></div>
-        <div class="grammar-desc-en">The most basic Japanese sentence: state who or what the topic (N1) is, using です. は marks N1 as the topic — "as for N1, it's N2."</div>
-        <div class="grammar-desc-native i18n-native" data-ko="가장 기본적인 일본어 문장: です를 사용해 주제(N1)가 누구/무엇인지 말합니다. は는 N1을 주제로 표시합니다 — '~에 대해 말하자면, N2입니다'." data-zhcn="最基本的日语句子：用です说明主题（N1）是谁／是什么。は把N1标记为话题——「说到N1的话，是N2」。" data-zhtw="最基本的日語句子：用です說明主題（N1）是誰／是什麼。は把N1標記為話題——「說到N1的話，是N2」。" data-cant="最基本嘅日文句子：用です講主題（N1）係邊個／係咩嘢。は將N1標記做話題——「講起N1嘅話，就係N2」。"></div>
-        <div class="grammar-diagram">
-          <div class="diagram-step"><div class="diagram-chip">わたし</div><div class="diagram-caption">Topic (N1)</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">は</div><div class="diagram-caption">topic marker</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip">エマ</div><div class="diagram-caption">N2</div></div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">です。</div><div class="diagram-caption">"is"</div></div>
-        </div>
-        <div class="grammar-formula">N1 は N2 です。</div>
-        <div class="examples-block">
-          <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">わたしはエマです。<button class="tts-btn" onclick="speakText('わたしはエマです。')" title="Listen">🔊</button></div><div class="example-en">I am Emma.</div><div class="example-native i18n-native" data-ko="저는 에마입니다." data-zhcn="我是艾玛。" data-zhtw="我是艾瑪。" data-cant="我係艾瑪。"></div></div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">ルカさんはみらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>です。<button class="tts-btn" onclick="speakText('ルカさんはみらい商事の社員です。')" title="Listen">🔊</button></div><div class="example-en">Mr. Luca is an employee of Mirai Trading.</div><div class="example-native i18n-native" data-ko="루카 씨는 미라이상사 사원입니다." data-zhcn="卢卡先生是未来商事的员工。" data-zhtw="盧卡先生是未來商事的員工。" data-cant="盧卡先生係未來商事嘅員工。"></div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">パクさんははなみ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<button class="tts-btn" onclick="speakText('パクさんははなみ大学の学生です。')" title="Listen">🔊</button></div><div class="example-en">Ms. Park is a student at Hanami University.</div><div class="example-native i18n-native" data-ko="박 씨는 하나미대학 학생입니다." data-zhcn="朴小姐是花见大学的学生。" data-zhtw="朴小姐是花見大學的學生。" data-cant="Park小姐係花見大學嘅學生。"></div></div></div>
-        </div>
-      </div>
-      <div class="toggle-item" onclick="toggleAnswer('a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. I am Li Wei. (わたしは)</div><button class="btn-check-reveal" id="btn-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a1"><span>わたしはリー・ウェイです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしはリー・ウェイです。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. Mx. Suzuki is a bank employee. (銀行員)</div><button class="btn-check-reveal" id="btn-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a2"><span>すずきさんは<ruby>銀行員<rt>ぎんこういん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('すずきさんは銀行員です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. I am Korean. (韓国人)</div><button class="btn-check-reveal" id="btn-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a3"><span>わたしは<ruby>韓国人<rt>かんこくじん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしは韓国人です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. Mx. Takahashi is a department head. (部長)</div><button class="btn-check-reveal" id="btn-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a4"><span>たかはしさんは<ruby>部長<rt>ぶちょう</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たかはしさんは部長です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. Sofia is Italian. (イタリア人)</div><button class="btn-check-reveal" id="btn-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a5"><span>ソフィアさんは<ruby>伊太利<rt>イタリア</rt></ruby>人です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ソフィアさんはイタリア人です。')" title="Listen">🔊</button></div></div>
+      <div class="step-label">Grammar 1</div>
+      <div class="card-main-title">〜は〜です — A is B (Affirmative)</div>
+      <div class="card-subtitle-en">The most fundamental Japanese sentence pattern. State who or what the topic is using は and finish with です.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="가장 기본이 되는 일본어 문형입니다. は로 화제를 제시하고 です로 'A는 B입니다'라고 말합니다." data-zhcn="最基本的日语句型。用「は」提示主题，句尾用「です」说明「A是B」。" data-zhtw="最基本的日語句型。用「は」提示主題，句尾用「です」說明「A是B」。" data-cant="最基本嘅日文句型。用「は」帶出話題，句尾用「です」講明「A係B」。"></div>
     </div>
 
     <div class="grammar-block">
       <div class="grammar-visual-card">
-        <div class="grammar-card-head"><span class="grammar-tag">Grammar B</span><strong>N1は N2じゃありません／ですか ("N1 is not N2" / "Is N1 N2?")</strong></div>
-        <div class="grammar-desc-en">To make it negative, swap です for じゃありません. To ask a question, just add か to the end of the affirmative sentence — no word order change needed. Answer with はい、そうです or いいえ、そうじゃありません.</div>
-        <div class="grammar-desc-native i18n-native" data-ko="부정문을 만들려면 です를 じゃありません으로 바꿉니다. 질문을 만들려면 긍정문 끝에 か만 붙이면 됩니다 — 어순 변화가 필요 없습니다. はい、そうです 또는 いいえ、そうじゃありません으로 답합니다." data-zhcn="要变成否定句，把です换成じゃありません。要问问题，只要在肯定句最后加上か即可——不需要改变语序。用はい、そうです或いいえ、そうじゃありません来回答。" data-zhtw="要變成否定句，把です換成じゃありません。要問問題，只要在肯定句最後加上か即可——不需要改變語序。用はい、そうです或いいえ、そうじゃありません來回答。" data-cant="要變成否定句，將です換做じゃありません。想問問題嘅話，淨係要喺肯定句最尾加個か就得——唔使改語序。用はい、そうです或者いいえ、そうじゃありません嚟答。"></div>
+        <div class="grammar-card-head"><span class="grammar-tag">基本公式</span><strong>N1 は N2 です。</strong></div>
+        <div class="grammar-desc-en">「は」 (pronounced [wa]) marks the topic: "As for N1...". 「です」 links N1 to N2: "N1 is N2".</div>
+        <div class="grammar-desc-native i18n-native" data-ko="'は(발음: wa)'는 주제를 나타냅니다: 'N1은/는...'. 'です'는 N1과 N2를 연결합니다: 'N1은 N2입니다'." data-zhcn="「は」（发音为wa）标记主题：「说到N1……」。「です」连接N1与N2：「N1是N2」。" data-zhtw="「は」（發音為wa）標記主題：「說到N1……」。「です」連接N1與N2：「N1是N2」。" data-cant="「は」（讀做wa）標記話題：「講起N1……」。「です」連繫N1同N2：「N1係N2」。"></div>
+
         <div class="grammar-diagram">
-          <div class="diagram-step"><div class="diagram-chip">学生です</div><div class="diagram-caption">affirmative</div></div>
-          <div class="diagram-arrow">→</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">学生じゃありません</div><div class="diagram-caption">"is not a student"</div></div>
-          <div class="diagram-arrow">→</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">学生ですか</div><div class="diagram-caption">"Are you a student?"</div></div>
+          <div class="diagram-step"><div class="diagram-chip">わたし</div><div class="diagram-caption">私 (N1)</div></div>
+          <div class="diagram-arrow">+</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">は</div><div class="diagram-caption">Topic marker (wa)</div></div>
+          <div class="diagram-arrow">+</div>
+          <div class="diagram-step"><div class="diagram-chip">田中</div><div class="diagram-caption">名前 (N2)</div></div>
+          <div class="diagram-arrow">+</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">です。</div><div class="diagram-caption">〜です (is)</div></div>
         </div>
-        <div class="grammar-formula">N1 は N2 じゃありません。 ／ N1 は N2 ですか。</div>
+
         <div class="examples-block">
-          <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">パクさんは<ruby>先生<rt>せんせい</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('パクさんは先生じゃありません。')" title="Listen">🔊</button></div><div class="example-en">Mx. Park is not a teacher.</div><div class="example-native i18n-native" data-ko="박 씨는 선생님이 아닙니다." data-zhcn="朴先生／小姐不是老师。" data-zhtw="朴先生／小姐不是老師。" data-cant="Park唔係老師。"></div></div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">リーさんは<ruby>医者<rt>いしゃ</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('リーさんは医者ですか。')" title="Listen">🔊</button></div><div class="example-en">Is Mx. Li a doctor?</div><div class="example-native i18n-native" data-ko="리 씨는 의사입니까?" data-zhcn="李先生／小姐是医生吗？" data-zhtw="李先生／小姐是醫生嗎？" data-cant="李係唔係醫生呀？"></div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">はい、そうです。<ruby>医者<rt>いしゃ</rt></ruby>です。<button class="tts-btn" onclick="speakText('はい、そうです。医者です。')" title="Listen">🔊</button></div><div class="example-en">Yes, that's right. I'm a doctor.</div><div class="example-native i18n-native" data-ko="네, 맞아요. 의사입니다." data-zhcn="是的，没错。是医生。" data-zhtw="是的，沒錯。是醫生。" data-cant="係啊，冇錯。係醫生。"></div></div></div>
+          <div class="examples-label">Examples（代名詞と家族・身の回りの単語）</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">わたしは<ruby>田中<rt>たなか</rt></ruby>です。<button class="tts-btn" onclick="speakText('わたしは田中です。')" title="Listen">🔊</button></div><div class="example-en">I am Tanaka.</div><div class="example-native i18n-native" data-ko="저는 다나카입니다." data-zhcn="我是田中。" data-zhtw="我是田中。" data-cant="我係田中。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>父<rt>ちち</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼は父です。')" title="Listen">🔊</button></div><div class="example-en">He is my father.</div><div class="example-native i18n-native" data-ko="그는 저의 아버지입니다." data-zhcn="他是我的父亲。" data-zhtw="他是我的父親。" data-cant="佢係我爸爸。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>母<rt>はは</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼女は母です。')" title="Listen">🔊</button></div><div class="example-en">She is my mother.</div><div class="example-native i18n-native" data-ko="그녀는 저의 어머니입니다." data-zhcn="她是我的母亲。" data-zhtw="她是我的母親。" data-cant="佢係我媽媽。"></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>兄<rt>あに</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼は兄です。')" title="Listen">🔊</button></div><div class="example-en">He is my older brother.</div><div class="example-native i18n-native" data-ko="그는 저의 형(오빠)입니다." data-zhcn="他是我的哥哥。" data-zhtw="他是我的哥哥。" data-cant="佢係我阿哥。"></div></div></div>
+          <div class="example-row"><div class="example-num">5</div><div class="example-content"><div class="example-jp">これは<ruby>本<rt>ほん</rt></ruby>です。<button class="tts-btn" onclick="speakText('これは本です。')" title="Listen">🔊</button></div><div class="example-en">This is a book.</div><div class="example-native i18n-native" data-ko="이것은 책입니다." data-zhcn="这是书。" data-zhtw="這是書。" data-cant="呢個係書。"></div></div></div>
         </div>
       </div>
-      <div class="toggle-item" onclick="toggleAnswer('b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. Ms. Sofia is not a researcher. (研究者)</div><button class="btn-check-reveal" id="btn-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b1"><span>ソフィアさんは<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ソフィアさんは研究者じゃありません。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. Are you (Mx. Suzuki) an engineer?</div><button class="btn-check-reveal" id="btn-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b2"><span>すずきさんはエンジニアですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('すずきさんはエンジニアですか。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. No, that's not right. (answer only)</div><button class="btn-check-reveal" id="btn-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b3"><span>いいえ、そうじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('いいえ、そうじゃありません。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Mx. Takahashi is not a student.</div><button class="btn-check-reveal" id="btn-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b4"><span>たかはしさんは<ruby>学生<rt>がくせい</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たかはしさんは学生じゃありません。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. Is Emma American?</div><button class="btn-check-reveal" id="btn-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b5"><span>エマさんはアメリカ<ruby>人<rt>じん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('エマさんはアメリカ人ですか。')" title="Listen">🔊</button></div></div>
+
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 1</span><div class="practice-part-title">Practice: 〜は〜ですを作ろう</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g1-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-1. I am Suzuki. (私 / 鈴木)</div><button class="btn-check-reveal" id="btn-g1-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g1-1"><span>わたしは<ruby>鈴木<rt>すずき</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしは鈴木です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g1-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-2. He is my father. (彼 / 父)</div><button class="btn-check-reveal" id="btn-g1-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g1-2"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>父<rt>ちち</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は父です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g1-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-3. She is my older sister. (彼女 / 姉)</div><button class="btn-check-reveal" id="btn-g1-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g1-3"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>姉<rt>あね</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は姉です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g1-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-4. He is my younger brother. (彼 / 弟)</div><button class="btn-check-reveal" id="btn-g1-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g1-4"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>弟<rt>おとうと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は弟です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g1-5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">1-5. This is a notebook. (これ / ノート)</div><button class="btn-check-reveal" id="btn-g1-5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g1-5"><span>これはノートです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これはノートです。')" title="Listen">🔊</button></div></div>
+    </div>
+  </section>
+
+  <!-- ==================== 2. 〜は〜の〜です ==================== -->
+  <section class="content-card" id="sec-grammar-2">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 2</div>
+      <div class="card-main-title">〜は〜の〜です — A is B's C (Possessive の)</div>
+      <div class="card-subtitle-en">The particle の connects two nouns to show possession or relationship ("my mother", "her husband").</div>
+      <div class="card-subtitle-native i18n-native" data-ko="조사 'の'는 명사와 명사를 연결하여 소유나 관계를 나타냅니다 ('나의 어머니', '그녀의 남편')." data-zhcn="助词「の」连接两个名词，表示所属或关系（「我的母亲」、「她的丈夫」）。" data-zhtw="助詞「の」連接兩個名詞，表示所屬或關係（「我的母親」、「她的丈夫」）。" data-cant="助詞「の」連繫兩個名詞，表示所屬或者關係（「我嘅阿媽」、「佢嘅老公」）。"></div>
     </div>
 
     <div class="grammar-block">
       <div class="grammar-visual-card">
-        <div class="grammar-card-head"><span class="grammar-tag">Grammar C</span><strong>N1も N2です ("N1 also is N2")</strong></div>
-        <div class="grammar-desc-en">も replaces は when the new topic shares the same fact as something just mentioned — "also / too." It can never appear together with は on the same noun.</div>
-        <div class="grammar-desc-native i18n-native" data-ko="も는 방금 언급한 것과 같은 내용을 새 주제에도 적용할 때 は 대신 씁니다 — '~도'. 같은 명사에 は와 も를 동시에 붙일 수 없습니다." data-zhcn="当新话题和刚提到的事实相同时，用も取代は，表示「也」。も绝不会和は同时出现在同一个名词上。" data-zhtw="當新話題和剛提到的事實相同時，用も取代は，表示「也」。も絕不會和は同時出現在同一個名詞上。" data-cant="當新話題同啱啱提到嘅嘢一樣嘅時候，用も代替は，即係「都」嘅意思。も同は永遠唔會同時出現喺同一個名詞度。"></div>
-        <div class="grammar-diagram">
-          <div class="diagram-step"><div class="diagram-chip">エマさんは会社員です</div><div class="diagram-caption">first fact</div></div>
-          <div class="diagram-arrow">→</div>
-          <div class="diagram-step"><div class="diagram-chip highlight">田中さんも会社員です</div><div class="diagram-caption">"Tanaka is ALSO an employee"</div></div>
-        </div>
-        <div class="grammar-formula">N1 も N2 です。</div>
+        <div class="grammar-card-head"><span class="grammar-tag">重要まとめ</span><strong>人称代名詞 ＋「の」（Possessive Pronouns Table）</strong></div>
+        <div class="grammar-desc-en">Master these key combinations of pronouns + の:</div>
+        <div class="grammar-desc-native i18n-native" data-ko="대명사 + の의 핵심 조합을 표로 한눈에 정리하세요:" data-zhcn="请通过下表格一目了然地掌握代名词＋の的核心搭配：" data-zhtw="請透過下表格一目了然地掌握代名詞＋の的核心搭配：" data-cant="請透過下表一目了然掌握代名詞＋の嘅核心配搭："></div>
+
+        <table class="conj-table">
+          <tr>
+            <th>日本語 (代名詞＋の)</th>
+            <th>英語 (English)</th>
+            <th>中国語 (繁/簡)</th>
+            <th>韓国語 (한국어)</th>
+            <th>広東語 (粵語)</th>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">私の</strong>（わたしの） <button class="tts-btn" onclick="speakText('わたしの')" title="Listen">🔊</button></td>
+            <td>my / mine</td>
+            <td>我的</td>
+            <td>나의 / 저의 / 내</td>
+            <td>我嘅</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">あなたの</strong> <button class="tts-btn" onclick="speakText('あなたの')" title="Listen">🔊</button></td>
+            <td>your / yours</td>
+            <td>你的</td>
+            <td>당신의 / 너의</td>
+            <td>你嘅</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">彼の</strong>（かれの） <button class="tts-btn" onclick="speakText('かれの')" title="Listen">🔊</button></td>
+            <td>his</td>
+            <td>他的</td>
+            <td>그의</td>
+            <td>佢嘅（男）</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">彼女の</strong>（かのじょの） <button class="tts-btn" onclick="speakText('かのじょの')" title="Listen">🔊</button></td>
+            <td>her / hers</td>
+            <td>她的</td>
+            <td>그녀의</td>
+            <td>佢嘅（女）</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">わたしたちの</strong> <button class="tts-btn" onclick="speakText('わたしたちの')" title="Listen">🔊</button></td>
+            <td>our / ours</td>
+            <td>我們的</td>
+            <td>우리의 / 저희의</td>
+            <td>我哋嘅</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">彼らの</strong>（かれらの） <button class="tts-btn" onclick="speakText('かれらの')" title="Listen">🔊</button></td>
+            <td>their / theirs</td>
+            <td>他們的</td>
+            <td>그들의</td>
+            <td>佢哋嘅</td>
+          </tr>
+          <tr>
+            <td><strong style="color:var(--navy-main);">田中さんの</strong>（たなかさんの） <button class="tts-btn" onclick="speakText('たなかさんの')" title="Listen">🔊</button></td>
+            <td>Tanaka's</td>
+            <td>田中先生／小姐的</td>
+            <td>다나카 씨의</td>
+            <td>田中嘅</td>
+          </tr>
+        </table>
+
+        <div class="grammar-formula">[ 人1 ] は [ 人2 ] の [ 家族 / 物 ] です。</div>
+
         <div class="examples-block">
           <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp">ルカさんも<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<button class="tts-btn" onclick="speakText('ルカさんも会社員です。')" title="Listen">🔊</button></div><div class="example-en">Mx. Luca is also a company employee.</div><div class="example-native i18n-native" data-ko="루카 씨도 회사원입니다." data-zhcn="卢卡先生也是公司职员。" data-zhtw="盧卡先生也是公司職員。" data-cant="盧卡都係公司職員。"></div></div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">わたしもアメリカ<ruby>人<rt>じん</rt></ruby>です。<button class="tts-btn" onclick="speakText('わたしもアメリカ人です。')" title="Listen">🔊</button></div><div class="example-en">I am also American.</div><div class="example-native i18n-native" data-ko="저도 미국인입니다." data-zhcn="我也是美国人。" data-zhtw="我也是美國人。" data-cant="我都係美國人。"></div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">パクさんもはなみ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<button class="tts-btn" onclick="speakText('パクさんもはなみ大学の学生です。')" title="Listen">🔊</button></div><div class="example-en">Mx. Park is also a student at Hanami University.</div><div class="example-native i18n-native" data-ko="박 씨도 하나미대학 학생입니다." data-zhcn="朴先生／小姐也是花见大学的学生。" data-zhtw="朴先生／小姐也是花見大學的學生。" data-cant="Park都係花見大學嘅學生。"></div></div></div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼は私の父です。')" title="Listen">🔊</button></div><div class="example-en">He is my father.</div><div class="example-native i18n-native" data-ko="그는 저의 아버지입니다." data-zhcn="他是我的父亲。" data-zhtw="他是我的父親。" data-cant="佢係我爸爸。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>母<rt>はは</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼女は私の母です。')" title="Listen">🔊</button></div><div class="example-en">She is my mother.</div><div class="example-native i18n-native" data-ko="그녀는 저의 어머니입니다." data-zhcn="她是我的母亲。" data-zhtw="她是我的母親。" data-cant="佢係我媽媽。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼は彼女の夫です。')" title="Listen">🔊</button></div><div class="example-en">He is her husband.</div><div class="example-native i18n-native" data-ko="그는 그녀의 남편입니다." data-zhcn="他是她的丈夫。" data-zhtw="他是她的丈夫。" data-cant="佢係佢嘅老公。"></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼女は彼の妻です。')" title="Listen">🔊</button></div><div class="example-en">She is his wife.</div><div class="example-native i18n-native" data-ko="그녀는 그의 아내입니다." data-zhcn="她是他的妻子。" data-zhtw="她是他的妻子。" data-cant="佢係佢嘅老婆。"></div></div></div>
+          <div class="example-row"><div class="example-num">5</div><div class="example-content"><div class="example-jp">これは<ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。<button class="tts-btn" onclick="speakText('これは私の本です。')" title="Listen">🔊</button></div><div class="example-en">This is my book.</div><div class="example-native i18n-native" data-ko="이것은 저의 책입니다." data-zhcn="这是我的书。" data-zhtw="這是我的書。" data-cant="呢個係我嘅書。"></div></div></div>
         </div>
       </div>
-      <div class="toggle-item" onclick="toggleAnswer('c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. Mx. Suzuki (Ichiro) is also an employee of Mirai Trading.</div><button class="btn-check-reveal" id="btn-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c1"><span>すずきさんもみらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('すずきさんもみらい商事の社員です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. Mx. Li is also Chinese. (中国人)</div><button class="btn-check-reveal" id="btn-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c2"><span>リーさんも<ruby>中国人<rt>ちゅうごくじん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('リーさんも中国人です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. Watanabe is also an announcer.</div><button class="btn-check-reveal" id="btn-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c3"><span>わたなべさんもアナウンサーです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたなべさんもアナウンサーです。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. Sofia is also 30 years old. (30歳)</div><button class="btn-check-reveal" id="btn-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c4"><span>ソフィアさんも<ruby>30歳<rt>さんじゅっさい</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ソフィアさんも30歳です。')" title="Listen">🔊</button></div></div>
-      <div class="toggle-item" onclick="toggleAnswer('c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. I am also a student at Hanami University.</div><button class="btn-check-reveal" id="btn-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c5"><span>わたしもはなみ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしもはなみ大学の学生です。')" title="Listen">🔊</button></div></div>
-    </div>
 
-    <div class="practice-part-header"><span class="practice-part-badge">Part 2</span><div class="practice-part-title">Roleplay — Meeting Someone New</div></div>
-    <div class="roleplay-card">
-      <div class="roleplay-title">Scene 1: 廊下で — In the Hallway (ルカ & パク)</div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">ルカ</div><div class="roleplay-lines"><div class="roleplay-jp">初めまして。ルカ・ロッシです。<button class="tts-btn" onclick="speakText('初めまして。ルカ・ロッシです。')" title="Listen">🔊</button></div><div class="roleplay-trans">Nice to meet you. I'm Luca Rossi.</div><div class="roleplay-native i18n-native" data-ko="처음 뵙겠습니다. 루카 로시입니다." data-zhcn="初次见面。我是卢卡·罗西。" data-zhtw="初次見面。我是盧卡·羅西。" data-cant="幸會。我係盧卡・羅西。"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">パク</div><div class="roleplay-lines"><div class="roleplay-jp">パク・ミンジュンです。ルカさんは<ruby>会社員<rt>かいしゃいん</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('パク・ミンジュンです。ルカさんは会社員ですか。')" title="Listen">🔊</button></div><div class="roleplay-trans">I'm Park Minjun. Are you a company employee, Luca?</div><div class="roleplay-native i18n-native" data-ko="박민준입니다. 루카 씨는 회사원이세요?" data-zhcn="我是朴敏俊。卢卡先生是公司职员吗？" data-zhtw="我是朴敏俊。盧卡先生是公司職員嗎？" data-cant="我係朴敏俊。盧卡係唔係公司職員呀？"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">ルカ</div><div class="roleplay-lines"><div class="roleplay-jp">はい、そうです。みらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>です。パクさんも<ruby>会社員<rt>かいしゃいん</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('はい、そうです。みらい商事の社員です。パクさんも会社員ですか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes, that's right. I'm an employee of Mirai Trading. Are you also a company employee, Park?</div><div class="roleplay-native i18n-native" data-ko="네, 맞아요. 미라이상사 사원이에요. 박 씨도 회사원이세요?" data-zhcn="是的，没错。我是未来商事的员工。朴先生也是公司职员吗？" data-zhtw="是的，沒錯。我是未來商事的員工。朴先生也是公司職員嗎？" data-cant="係啊，冇錯。我係未來商事嘅員工。朴係唔係都係公司職員呀？"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">パク</div><div class="roleplay-lines"><div class="roleplay-jp">いいえ、<ruby>会社員<rt>かいしゃいん</rt></ruby>じゃありません。はなみ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<button class="tts-btn" onclick="speakText('いいえ、会社員じゃありません。はなみ大学の学生です。')" title="Listen">🔊</button></div><div class="roleplay-trans">No, I'm not a company employee. I'm a student at Hanami University.</div><div class="roleplay-native i18n-native" data-ko="아니요, 회사원이 아니에요. 하나미대학 학생이에요." data-zhcn="不，我不是公司职员。我是花见大学的学生。" data-zhtw="不，我不是公司職員。我是花見大學的學生。" data-cant="唔係，我唔係公司職員。我係花見大學嘅學生。"></div></div></div>
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 2</span><div class="practice-part-title">Practice: 〜は〜の〜ですを作ろう</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g2-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-1. He is my younger brother. (彼 / 私 / 弟)</div><button class="btn-check-reveal" id="btn-g2-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g2-1"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は私の弟です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g2-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-2. She is my younger sister. (彼女 / 私 / 妹)</div><button class="btn-check-reveal" id="btn-g2-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g2-2"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は私の妹です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g2-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-3. He is Tanaka's older brother. (彼 / 田中さん / 兄)</div><button class="btn-check-reveal" id="btn-g2-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g2-3"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>兄<rt>あに</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は田中さんの兄です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g2-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-4. She is his wife. (彼女 / 彼 / 妻)</div><button class="btn-check-reveal" id="btn-g2-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g2-4"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は彼の妻です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g2-5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">2-5. This is my dictionary. (これ / 私 / 辞書)</div><button class="btn-check-reveal" id="btn-g2-5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g2-5"><span>これは<ruby>私<rt>わたし</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私の辞書です。')" title="Listen">🔊</button></div></div>
     </div>
-    <div class="roleplay-card">
-      <div class="roleplay-title">Scene 2: 病院で — At the Hospital (リー & 高橋部長)</div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">高橋</div><div class="roleplay-lines"><div class="roleplay-jp">失礼ですが、リーさんは<ruby>医者<rt>いしゃ</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('失礼ですが、リーさんは医者ですか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Excuse me, but are you a doctor, Mx. Li?</div><div class="roleplay-native i18n-native" data-ko="실례지만, 리 씨는 의사이신가요?" data-zhcn="不好意思，请问李先生是医生吗？" data-zhtw="不好意思，請問李先生是醫生嗎？" data-cant="唔好意思，請問李係唔係醫生呀？"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">リー</div><div class="roleplay-lines"><div class="roleplay-jp">はい、そうです。あおば<ruby>病院<rt>びょういん</rt></ruby>の<ruby>医者<rt>いしゃ</rt></ruby>です。<button class="tts-btn" onclick="speakText('はい、そうです。あおば病院の医者です。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes, that's right. I'm a doctor at Aoba Hospital.</div><div class="roleplay-native i18n-native" data-ko="네, 맞아요. 아오바병원 의사입니다." data-zhcn="是的，没错。我是青叶医院的医生。" data-zhtw="是的，沒錯。我是青葉醫院的醫生。" data-cant="係啊，冇錯。我係青葉醫院嘅醫生。"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">高橋</div><div class="roleplay-lines"><div class="roleplay-jp">そうですか。わたしも<ruby>病院<rt>びょういん</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>……あ、<ruby>違<rt>ちが</rt></ruby>います。わたしはみらい<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>部長<rt>ぶちょう</rt></ruby>です。<button class="tts-btn" onclick="speakText('そうですか。わたしはみらい商事の部長です。')" title="Listen">🔊</button></div><div class="roleplay-trans">I see. I'm... oh wait, that's wrong. I'm the department head at Mirai Trading.</div><div class="roleplay-native i18n-native" data-ko="그렇군요. 저는... 아, 아니네요. 저는 미라이상사 부장입니다." data-zhcn="是这样啊。我是……啊，不对。我是未来商事的部长。" data-zhtw="是這樣啊。我是……啊，不對。我是未來商事的部長。" data-cant="係咁㗎。我係……吖，唔啱。我係未來商事嘅部長。"></div></div></div>
-    </div>
-
-    <div class="practice-part-header"><span class="practice-part-badge">Part 3</span><div class="practice-part-title">Rapid Self-Check — Mix It Up</div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-1. I am not a teacher.</div><button class="btn-check-reveal" id="btn-r1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r1"><span>わたしは<ruby>先生<rt>せんせい</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしは先生じゃありません。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-2. Is Mx. Watanabe an announcer?</div><button class="btn-check-reveal" id="btn-r2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r2"><span>わたなべさんはアナウンサーですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたなべさんはアナウンサーですか。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-3. Sofia is also Italian.</div><button class="btn-check-reveal" id="btn-r3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r3"><span>ソフィアさんもイタリア<ruby>人<rt>じん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ソフィアさんもイタリア人です。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-4. No, that's not right. I'm an engineer.</div><button class="btn-check-reveal" id="btn-r4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r4"><span>いいえ、そうじゃありません。エンジニアです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('いいえ、そうじゃありません。エンジニアです。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-5. Mx. Suzuki (Tomoko) is a bank employee, right?</div><button class="btn-check-reveal" id="btn-r5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r5"><span>すずきさんは<ruby>銀行員<rt>ぎんこういん</rt></ruby>ですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('すずきさんは銀行員ですか。')" title="Listen">🔊</button></div></div>
-    <div class="toggle-item" onclick="toggleAnswer('r6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-6. I am not Korean. I am Chinese.</div><button class="btn-check-reveal" id="btn-r6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r6"><span>わたしは<ruby>韓国人<rt>かんこくじん</rt></ruby>じゃありません。<ruby>中国人<rt>ちゅうごくじん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('わたしは韓国人じゃありません。中国人です。')" title="Listen">🔊</button></div></div>
   </section>
 
-  <section class="content-card" id="sec-kanji">
+  <!-- ==================== 3. 〜は〜じゃありません ==================== -->
+  <section class="content-card" id="sec-grammar-3">
     <div class="card-header-row">
-      <div class="step-label">Step 4</div>
-      <div class="card-main-title">New Kanji</div>
-      <div class="card-subtitle-en">Occupation words often use kanji. Every kanji in this course keeps its furigana, but it helps to start recognizing the shapes now.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="직업 단어에는 한자가 자주 쓰입니다. 이 강의에서는 모든 한자에 후리가나를 달지만, 지금부터 모양을 익혀두면 좋습니다." data-zhcn="职业词汇经常使用汉字。本课程所有汉字都标注假名注音，但现在开始熟悉字形会很有帮助。" data-zhtw="職業詞彙經常使用漢字。本課程所有漢字都標注假名注音，但現在開始熟悉字形會很有幫助。" data-cant="職業詞彙經常用到漢字。呢個課程所有漢字都有假名標音，但係而家開始熟習個字形會有幫助。"></div>
+      <div class="step-label">Grammar 3</div>
+      <div class="card-main-title">〜は〜じゃありません — A is not B (Negative)</div>
+      <div class="card-subtitle-en">To say "is not", replace です with じゃありません. Polite and clear negative form.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="'~이/가 아닙니다'를 나타낼 때는 です를 じゃありません으로 바꿉니다." data-zhcn="表示「不是……」时，将「です」替换为「じゃありません」。" data-zhtw="表示「不是……」時，將「です」替換為「じゃありません」。" data-cant="表示「唔係……」嗰陣，將「です」轉做「じゃありません」。"></div>
     </div>
-    <div class="kanji-display-grid">
-      <div class="kanji-box-item"><div class="kanji-large-char">会社員</div><div class="kanji-meaning-en">company employee</div><div class="kanji-readings-text">かいしゃいん</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">学生</div><div class="kanji-meaning-en">student</div><div class="kanji-readings-text">がくせい</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">先生</div><div class="kanji-meaning-en">teacher</div><div class="kanji-readings-text">せんせい</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">医者</div><div class="kanji-meaning-en">doctor</div><div class="kanji-readings-text">いしゃ</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">部長</div><div class="kanji-meaning-en">department head</div><div class="kanji-readings-text">ぶちょう</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">社員</div><div class="kanji-meaning-en">employee</div><div class="kanji-readings-text">しゃいん</div></div>
-      <div class="kanji-box-item"><div class="kanji-large-char">何</div><div class="kanji-meaning-en">what</div><div class="kanji-readings-text">なん／なに</div></div>
+
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">否定の形</span><strong>です ➔ じゃありません</strong></div>
+        <div class="grammar-desc-en">Just change です to じゃありません at the end of the sentence.</div>
+        <div class="grammar-desc-native i18n-native" data-ko="문장 끝의 です를 じゃありません으로 바꾸기만 하면 됩니다." data-zhcn="只要把句尾的「です」换成「じゃありません」即可。" data-zhtw="只要把句尾的「です」換成「じゃありません」即可。" data-cant="淨係將句尾嘅「です」換成「じゃありません」就搞掂。"></div>
+
+        <div class="grammar-diagram">
+          <div class="diagram-step"><div class="diagram-chip">私の兄です</div><div class="diagram-caption">肯定 (is my older brother)</div></div>
+          <div class="diagram-arrow">➔</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">私の兄じゃありません</div><div class="diagram-caption">否定 (is NOT my older brother)</div></div>
+        </div>
+
+        <div class="grammar-formula">N1 は N2 じゃありません。 (N1 is not N2.)</div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>兄<rt>あに</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('彼は私の兄じゃありません。')" title="Listen">🔊</button></div><div class="example-en">He is not my older brother.</div><div class="example-native i18n-native" data-ko="그는 저의 형(오빠)이 아닙니다." data-zhcn="他不是我哥哥。" data-zhtw="他不是我哥哥。" data-cant="佢唔係我阿哥。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('彼女は私の姉じゃありません。')" title="Listen">🔊</button></div><div class="example-en">She is not my older sister.</div><div class="example-native i18n-native" data-ko="그녀는 저의 누나(언니)가 아닙니다." data-zhcn="她不是我的姐姐。" data-zhtw="她不是我的姐姐。" data-cant="佢唔係我家姐。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('彼は私の夫じゃありません。')" title="Listen">🔊</button></div><div class="example-en">He is not my husband.</div><div class="example-native i18n-native" data-ko="그는 저의 남편이 아닙니다." data-zhcn="他不是我的丈夫。" data-zhtw="他不是我的丈夫。" data-cant="佢唔係我老公。"></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp"><ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('鈴木さんは私の家族じゃありません。')" title="Listen">🔊</button></div><div class="example-en">Suzuki is not my family.</div><div class="example-native i18n-native" data-ko="스즈키 씨는 저의 가족이 아닙니다." data-zhcn="铃木先生不是我的家人。" data-zhtw="鈴木先生不是我的家人。" data-cant="鈴木唔係我嘅屋企人。"></div></div></div>
+          <div class="example-row"><div class="example-num">5</div><div class="example-content"><div class="example-jp">これは<ruby>私<rt>わたし</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('これは私の傘じゃありません。')" title="Listen">🔊</button></div><div class="example-en">This is not my umbrella.</div><div class="example-native i18n-native" data-ko="이것은 저의 우산이 아닙니다." data-zhcn="这不是我的伞。" data-zhtw="這不是我的雨傘。" data-cant="呢把唔係我嘅遮。"></div></div></div>
+        </div>
+      </div>
+
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 3</span><div class="practice-part-title">Practice: 〜は〜じゃありませんを作ろう</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-1. He is not my father. (彼 / 私 / 父)</div><button class="btn-check-reveal" id="btn-g3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g3-1"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は私の父じゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-2. She is not my mother. (彼女 / 私 / 母)</div><button class="btn-check-reveal" id="btn-g3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g3-2"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>母<rt>はは</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は私の母じゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g3-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-3. He is not my younger brother. (彼 / 私 / 弟)</div><button class="btn-check-reveal" id="btn-g3-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g3-3"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は私の弟じゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g3-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-4. She is not my wife. (彼女 / 私 / 妻)</div><button class="btn-check-reveal" id="btn-g3-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g3-4"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は私の妻じゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g3-5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">3-5. This is not my eraser. (これ / 私 / 消しゴム)</div><button class="btn-check-reveal" id="btn-g3-5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g3-5"><span>これは<ruby>私<rt>わたし</rt></ruby>の<ruby>消<rt>け</rt></ruby>しゴムじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これは私の消しゴムじゃありません。')" title="Listen">🔊</button></div></div>
     </div>
   </section>
 
+  <!-- ==================== 4. 〜は〜ですか？ ==================== -->
+  <section class="content-card" id="sec-grammar-4">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 4</div>
+      <div class="card-main-title">〜は〜ですか？ — Is A B? (Question & Answers)</div>
+      <div class="card-subtitle-en">Simply add か to the end of a sentence to turn it into a question. No change in word order! Answer with はい or いいえ.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="문장 끝에 'か'만 붙이면 의문문이 됩니다. 어순은 그대로입니다. 대답은 'はい' 또는 'いいえ'로 합니다." data-zhcn="句尾只要加上「か」就变成疑问句。语序完全不变。回答时用「はい」或「いいえ」。" data-zhtw="句尾只要加上「か」就變成疑問句。語序完全不變。回答時用「はい」或「いいえ」。" data-cant="句尾淨係加個「か」就變疑問句。語序完全唔使改。答嗰陣用「はい」或者「いいえ」。"></div>
+    </div>
+
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">疑問と答え方</span><strong>質問の作り方と答え方のパターン</strong></div>
+
+        <div class="grammar-formula">
+          質問：N1 は N2 ですか。<br>
+          答(Yes)：はい、そうです。（はい、N2 です。）<br>
+          答(No)：いいえ、そうじゃありません。（いいえ、N2 じゃありません。）
+        </div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>はあなたのお<ruby>兄<rt>あに</rt></ruby>さん（兄）ですか。<button class="tts-btn" onclick="speakText('彼はあなたのお兄さんですか。')" title="Listen">🔊</button></div><div class="example-en">Is he your older brother?</div><div class="example-native i18n-native" data-ko="그는 당신의 형(오빠)입니까?" data-zhcn="他是你的哥哥吗？" data-zhtw="他是你的哥哥嗎？" data-cant="佢係咪你阿哥呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>兄<rt>あに</rt></ruby>です。<button class="tts-btn" onclick="speakText('はい、そうです。私の兄です。')" title="Listen">🔊</button></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby>はあなたの<ruby>妹<rt>いもうと</rt></ruby>さんですか。<button class="tts-btn" onclick="speakText('彼女はあなたの妹さんですか。')" title="Listen">🔊</button></div><div class="example-en">Is she your younger sister?</div><div class="example-native i18n-native" data-ko="그녀는 당신의 여동생입니까?" data-zhcn="她是你的妹妹吗？" data-zhtw="她是你的妹妹嗎？" data-cant="佢係咪你妹呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--pink-text); font-size:0.95rem;">➔ いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>です。<button class="tts-btn" onclick="speakText('いいえ、そうじゃありません。私の姉です。')" title="Listen">🔊</button></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby>はあなたの<ruby>父<rt>ちち</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('彼はあなたの父ですか。')" title="Listen">🔊</button></div><div class="example-en">Is he your father?</div><div class="example-native i18n-native" data-ko="그는 당신의 아버지입니까?" data-zhcn="他是你的父亲吗？" data-zhtw="他是你的父親嗎？" data-cant="佢係咪你爸爸呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--teal-text); font-size:0.95rem;">➔ はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>です。<button class="tts-btn" onclick="speakText('はい、そうです。私の父です。')" title="Listen">🔊</button></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp">これはあなたの<ruby>鍵<rt>かぎ</rt></ruby>ですか。<button class="tts-btn" onclick="speakText('これはあなたの鍵ですか。')" title="Listen">🔊</button></div><div class="example-en">Is this your key?</div><div class="example-native i18n-native" data-ko="이것은 당신의 열쇠입니까?" data-zhcn="这是你的钥匙吗？" data-zhtw="這是你的鑰匙嗎？" data-cant="呢條係咪你嘅鎖匙呀？"></div><div style="margin-top:6px; font-weight:600; color:var(--pink-text); font-size:0.95rem;">➔ いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('いいえ、そうじゃありません。私の鍵じゃありません。')" title="Listen">🔊</button></div></div></div>
+        </div>
+      </div>
+
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 4</span><div class="practice-part-title">Practice: 質問と答えを作ろう</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-1. Q: Is he your younger brother? / A: Yes, that's right. (彼 / 弟)</div><button class="btn-check-reveal" id="btn-g4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g4-1"><span>Q: <ruby>彼<rt>かれ</rt></ruby>はあなたの<ruby>弟<rt>おとうと</rt></ruby>さんですか。<br>A: はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼はあなたの弟さんですか。はい、そうです。私の弟です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-2. Q: Is she your family? / A: No, that's not right. (彼女 / 家族)</div><button class="btn-check-reveal" id="btn-g4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g4-2"><span>Q: <ruby>彼女<rt>かのじょ</rt></ruby>はあなたの<ruby>家族<rt>かぞく</rt></ruby>ですか。<br>A: いいえ、そうじゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女はあなたの家族ですか。いいえ、そうじゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g4-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-3. Q: Is Suzuki your husband? / A: Yes, that's right. (鈴木さん / 夫)</div><button class="btn-check-reveal" id="btn-g4-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g4-3"><span>Q: <ruby>鈴木<rt>すずき</rt></ruby>さんはあなたの<ruby>夫<rt>おっと</rt></ruby>ですか。<br>A: はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんはあなたの夫ですか。はい、そうです。私の夫です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g4-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">4-4. Q: Is this your watch? / A: No, that's not right. (これ / 時計)</div><button class="btn-check-reveal" id="btn-g4-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g4-4"><span>Q: これはあなたの<ruby>時計<rt>とけい</rt></ruby>ですか。<br>A: いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>の<ruby>時計<rt>とけい</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これはあなたの時計ですか。いいえ、そうじゃありません。私の時計じゃありません。')" title="Listen">🔊</button></div></div>
+    </div>
+  </section>
+
+  <!-- ==================== 5. 〜も〜です ==================== -->
+  <section class="content-card" id="sec-grammar-5">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 5</div>
+      <div class="card-main-title">〜も〜です — A also is B (Particle も)</div>
+      <div class="card-subtitle-en">The particle も replaces は when the new topic shares the same fact ("also / too").</div>
+      <div class="card-subtitle-native i18n-native" data-ko="조사 'も'는 앞서 말한 내용과 같은 사실을 나타낼 때 は 대신 사용합니다 ('~도')." data-zhcn="助词「も」在说明与前面相同的事实时代替「は」使用，表示「也」。" data-zhtw="助詞「も」在說明與前面相同的事實時代替「は」使用，表示「也」。" data-cant="助詞「も」喺講同前面一樣嘅事實嗰陣代替「は」使用，解做「都」。"></div>
+    </div>
+
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head"><span class="grammar-tag">助詞の交代</span><strong>は ➔ も (Also / Too)</strong></div>
+        <div class="grammar-desc-en">Never use は and も together on the same noun (× わたしはも). Simply swap は with も.</div>
+        <div class="grammar-desc-native i18n-native" data-ko="같은 명사에 は와 も를 함께 쓰지 않습니다 (× わたしはも). は 대신 も만 씁니다." data-zhcn="同一个名词上不能同时使用は和も（× わたしはも）。只需将は换成も即可。" data-zhtw="同一個名詞上不能同時使用は和も（× わたしはも）。只需將は換成も即可。" data-cant="同一個名詞上面唔可以同時用は同も（× わたしはも）。只要將は換做も就得。"></div>
+
+        <div class="grammar-diagram">
+          <div class="diagram-step"><div class="diagram-chip">彼は私の家族です</div><div class="diagram-caption">Fact 1 (He is my family)</div></div>
+          <div class="diagram-arrow">➔</div>
+          <div class="diagram-step"><div class="diagram-chip highlight">彼女<span style="color:#C4688A; font-weight:700;">も</span>私の家族です</div><div class="diagram-caption">Fact 2 (She is ALSO my family)</div></div>
+        </div>
+
+        <div class="grammar-formula">N1 も N2 です。 (N1 is also N2.)</div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼女も私の家族です。')" title="Listen">🔊</button></div><div class="example-en">She is also my family.</div><div class="example-native i18n-native" data-ko="그녀도 저의 가족입니다." data-zhcn="她也是我的家人。" data-zhtw="她也是我的家人。" data-cant="佢都係我嘅屋企人。"></div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>彼<rt>かれ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>兄弟<rt>きょうだい</rt></ruby>です。<button class="tts-btn" onclick="speakText('彼も私の兄弟です。')" title="Listen">🔊</button></div><div class="example-en">He is also my brother.</div><div class="example-native i18n-native" data-ko="그도 저의 형제입니다." data-zhcn="他也是我的兄弟。" data-zhtw="他也是我的兄弟。" data-cant="佢都係我嘅兄弟。"></div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>じゃありません。<button class="tts-btn" onclick="speakText('彼女も私の家族じゃありません。')" title="Listen">🔊</button></div><div class="example-en">She is also not my family.</div><div class="example-native i18n-native" data-ko="그녀도 저의 가족이 아닙니다." data-zhcn="她也不是我的家人。" data-zhtw="她也不是我的家人。" data-cant="佢都唔係我嘅屋企人。"></div></div></div>
+          <div class="example-row"><div class="example-num">4</div><div class="example-content"><div class="example-jp">これ<ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>のノートです。<button class="tts-btn" onclick="speakText('これも私のノートです。')" title="Listen">🔊</button></div><div class="example-en">This is also my notebook.</div><div class="example-native i18n-native" data-ko="이것도 저의 노트입니다." data-zhcn="这也是我的笔记本。" data-zhtw="這也是我的筆記本。" data-cant="呢本都係我嘅筆記簿。"></div></div></div>
+        </div>
+      </div>
+
+      <div class="practice-part-header"><span class="practice-part-badge">Drill 5</span><div class="practice-part-title">Practice: 〜も〜ですを作ろう</div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g5-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-1. She is also my family. (彼女 / 私 / 家族)</div><button class="btn-check-reveal" id="btn-g5-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g5-1"><span><ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女も私の家族です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g5-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-2. He is also my brother. (彼 / 私 / 兄弟)</div><button class="btn-check-reveal" id="btn-g5-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g5-2"><span><ruby>彼<rt>かれ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>兄弟<rt>きょうだい</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼も私の兄弟です。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g5-3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-3. Tanaka is also not my family. (田中さん / 私 / 家族)</div><button class="btn-check-reveal" id="btn-g5-3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g5-3"><span><ruby>田中<rt>たなか</rt></ruby>さん<ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんも私の家族じゃありません。')" title="Listen">🔊</button></div></div>
+      <div class="toggle-item" onclick="toggleAnswer('g5-4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">5-4. This is also my book. (これ / 私 / 本)</div><button class="btn-check-reveal" id="btn-g5-4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-g5-4"><span>これ<ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これも私の本です。')" title="Listen">🔊</button></div></div>
+    </div>
+  </section>
+
+  <!-- ==================== 6. これまでの総復習 ==================== -->
+  <section class="content-card" id="sec-review">
+    <div class="card-header-row">
+      <div class="step-label">Comprehensive Review</div>
+      <div class="card-main-title">これまでの総復習 — Comprehensive Review</div>
+      <div class="card-subtitle-en">Put all 5 patterns together using vocabulary strictly from Flashcard 3 (Pronouns & Family) and Flashcard 2. Try the dialogues and comprehensive test!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="플래시카드 3(대명사/가족)과 2(주변 물건)의 단어를 활용하여 5가지 문형을 총복습합니다. 대화와 퀴즈에 도전해보세요!" data-zhcn="运用字卡3（代名词／家庭）与2（身边物品）的词汇，对至今所学的5个句型进行综合总复习。请挑战情境对话与综合测验！" data-zhtw="運用字卡3（代名詞／家庭）與2（身邊物品）的詞彙，對至今所學的5個句型進行綜合總複習。請挑戰情境對話與綜合測驗！" data-cant="運用字卡3（代名詞／家庭）同2（身邊物件）嘅詞彙，將學咗嘅5個句型做個綜合大溫習。一齊挑戰對話同綜合測驗啦！"></div>
+    </div>
+
+    <!-- 会話シーン 1 -->
+    <div class="practice-part-header"><span class="practice-part-badge">Scene 1</span><div class="practice-part-title">家族の写真を見せて — Looking at Family Photos (田中 & 鈴木)</div></div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中</div><button class="tts-btn" onclick="speakText('鈴木さん、初めまして。田中です。よろしくお願いします。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、初めまして。<ruby>田中<rt>たなか</rt></ruby>です。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>
+      <div class="dialogue-en-line">Nice to meet you, Suzuki. I'm Tanaka. Nice to meet you.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 처음 뵙겠습니다. 다나카입니다. 잘 부탁드립니다." data-zhcn="铃木先生，初次见面。我是田中。请多关照。" data-zhtw="鈴木先生，初次見面。我是田中。請多關照。" data-cant="鈴木，幸會。我係田中。請多多指教。"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木</div><button class="tts-btn" onclick="speakText('初めまして。鈴木です。こちらこそよろしくお願いします。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">初めまして。<ruby>鈴木<rt>すずき</rt></ruby>です。こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>
+      <div class="dialogue-en-line">Nice to meet you. I'm Suzuki. Nice to meet you as well.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="처음 뵙겠습니다. 스즈키입니다. 저야말로 잘 부탁드립니다." data-zhcn="初次见面。我是铃木。彼此彼此，请多关照。" data-zhtw="初次見面。我是鈴木。彼此彼此，請多關照。" data-cant="幸會。我係鈴木。彼此彼此，請多多指教。"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中</div><button class="tts-btn" onclick="speakText('鈴木さん、彼は鈴木さんのご家族ですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>彼<rt>かれ</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんのご<ruby>家族<rt>かぞく</rt></ruby>ですか。</div>
+      <div class="dialogue-en-line">Suzuki, is he your family?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 그는 스즈키 씨의 가족입니까?" data-zhcn="铃木先生，他是你的家人吗？" data-zhtw="鈴木先生，他是你的家人嗎？" data-cant="鈴木，佢係咪你嘅屋企人呀？"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木</div><button class="tts-btn" onclick="speakText('はい、そうです。私の家族です。彼は私の父です。彼女は私の母です。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>です。<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>です。<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>母<rt>はは</rt></ruby>です。</div>
+      <div class="dialogue-en-line">Yes, that's right. It's my family. He is my father, and she is my mother.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="네, 맞아요. 저의 가족입니다. 그는 저의 아버지이고, 그녀는 저의 어머니입니다." data-zhcn="是的，没错。是我的家人。他是我的父亲。她是我的母亲。" data-zhtw="是的，沒錯。是我的家人。他是我的父親。她是我的母親。" data-cant="係啊，冇錯。係我嘅屋企人。佢係我爸爸。佢係我媽媽。"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中</div><button class="tts-btn" onclick="speakText('彼女もご家族ですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line"><ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby>ご<ruby>家族<rt>かぞく</rt></ruby>ですか。</div>
+      <div class="dialogue-en-line">Is she also your family?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="그녀도 가족입니까?" data-zhcn="她也是家人吗？" data-zhtw="她也是家人嗎？" data-cant="佢都係屋企人？"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木</div><button class="tts-btn" onclick="speakText('はい、彼女も私の家族です。私の妹です。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">はい、<ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>です。</div>
+      <div class="dialogue-en-line">Yes, she is also my family. She is my younger sister.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="네, 그녀도 저의 가족입니다. 저의 여동생입니다." data-zhcn="是的，她也是我的家人。是我的妹妹。" data-zhtw="是的，她也是我的家人。是我的妹妹。" data-cant="係啊，佢都係我嘅屋企人。係我個妹。"></div>
+    </div>
+
+    <!-- 会話シーン 2 -->
+    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Scene 2</span><div class="practice-part-title">教室で：持ち物の確認 — In the Classroom (「これ」を使用)</div></div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中</div><button class="tts-btn" onclick="speakText('鈴木さん、これは鈴木さんの傘ですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、これは<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>傘<rt>かさ</rt></ruby>ですか。</div>
+      <div class="dialogue-en-line">Suzuki, is this your umbrella?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 이것은 스즈키 씨의 우산입니까?" data-zhcn="铃木先生，这是你的伞吗？" data-zhtw="鈴木先生，這是你的雨傘嗎？" data-cant="鈴木，呢把係咪你嘅遮呀？"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木</div><button class="tts-btn" onclick="speakText('いいえ、そうじゃありません。私の傘じゃありません。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>じゃありません。</div>
+      <div class="dialogue-en-line">No, that's not right. It's not my umbrella.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="아니요, 그렇지 않습니다. 저의 우산이 아닙니다." data-zhcn="不，不是的。不是我的伞。" data-zhtw="不，不是的。不是我的雨傘。" data-cant="唔係，唔係。唔係我嘅遮。"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--blue-bg); color:var(--navy-main); border:1px solid var(--blue-border);">田中</div><button class="tts-btn" onclick="speakText('では、これは鈴木さんの鍵ですか。')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">では、これは<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>鍵<rt>かぎ</rt></ruby>ですか。</div>
+      <div class="dialogue-en-line">Then, is this your key, Suzuki?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="그럼 이것은 스즈키 씨의 열쇠입니까?" data-zhcn="那么，这是铃木先生的钥匙吗？" data-zhtw="那麼，這是鈴木先生的鑰匙嗎？" data-cant="咁呢條係咪鈴木你嘅鎖匙呀？"></div>
+    </div>
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;"><div class="dialogue-speaker-name" style="background:var(--mid-cyan-bg); color:var(--mid-cyan-text); border:1px solid var(--mid-cyan-border);">鈴木</div><button class="tts-btn" onclick="speakText('はい、そうです！私の鍵です。これも私のノートです。ありがとうございます！')" title="Listen">🔊</button></div>
+      <div class="dialogue-jp-line">はい、そうです！<ruby>私<rt>わたし</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>です。これ<ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>のノートです。ありがとうございます！</div>
+      <div class="dialogue-en-line">Yes, that's right! It's my key. This is also my notebook. Thank you!</div>
+      <div class="dialogue-native-line i18n-native" data-ko="네, 맞아요! 저의 열쇠입니다. 이것도 저의 노트입니다. 감사합니다!" data-zhcn="是的，没错！是我的钥匙。这也是我的笔记本。谢谢你！" data-zhtw="是的，沒錯！是我的鑰匙。這也是我的筆記本。謝謝你！" data-cant="係啊，冇錯！係我嘅鎖匙。呢本都係我嘅筆記簿。唔該晒！"></div>
+    </div>
+
+    <!-- 総復習チャレンジドリル -->
+    <div class="practice-part-header" style="margin-top:28px;"><span class="practice-part-badge">Challenge</span><div class="practice-part-title">文法別 総復習チャレンジドリル（全10問）</div></div>
+    <div style="font-size:0.86rem; color:var(--text-sub); margin-bottom:14px;">Lesson 1で学んだ5つの文法を各2問ずつ復習します。タップして答えと発音を確認しましょう！</div>
+
+    <!-- 1. 〜は〜です -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:10px 0 6px;">🔹 文法 1：〜は〜です (A is B)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-1-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R1-1. I am Tanaka. (私 / 田中)</div><button class="btn-check-reveal" id="btn-rev-1-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-1-1"><span><ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私は田中です。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-1-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R1-2. He is my father. (彼 / 私 / 父)</div><button class="btn-check-reveal" id="btn-rev-1-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-1-2"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は私の父です。')" title="Listen">🔊</button></div></div>
+
+    <!-- 2. 〜は〜の〜です -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 2：〜は〜の〜です (A is B's C)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-2-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R2-1. She is my mother. (彼女 / 私 / 母)</div><button class="btn-check-reveal" id="btn-rev-2-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-2-1"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>母<rt>はは</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は私の母です。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-2-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R2-2. He is her husband. (彼 / 彼女 / 夫)</div><button class="btn-check-reveal" id="btn-rev-2-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-2-2"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は彼女の夫です。')" title="Listen">🔊</button></div></div>
+
+    <!-- 3. 〜は〜じゃありません -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 3：〜は〜じゃありません (A is not B)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-3-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-1. He is not my older brother. (彼 / 私 / 兄)</div><button class="btn-check-reveal" id="btn-rev-3-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-1"><span><ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>兄<rt>あに</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼は私の兄じゃありません。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-3-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R3-2. She is not my wife. (彼女 / 私 / 妻)</div><button class="btn-check-reveal" id="btn-rev-3-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-3-2"><span><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女は私の妻じゃありません。')" title="Listen">🔊</button></div></div>
+
+    <!-- 4. 〜は〜ですか？ -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 4：〜は〜ですか？ (Is A B? & Answers)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-4-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-1. Q: Is she your younger sister? / A: Yes, that's right. (彼女 / 妹)</div><button class="btn-check-reveal" id="btn-rev-4-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-1"><span>Q: <ruby>彼女<rt>かのじょ</rt></ruby>はあなたの<ruby>妹<rt>いもうと</rt></ruby>さんですか。<br>A: はい、そうです。<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女はあなたの妹さんですか。はい、そうです。私の妹です。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-4-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R4-2. Q: Is he your father? / A: No, that's not right. (彼 / 父)</div><button class="btn-check-reveal" id="btn-rev-4-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-4-2"><span>Q: <ruby>彼<rt>かれ</rt></ruby>はあなたの<ruby>父<rt>ちち</rt></ruby>ですか。<br>A: いいえ、そうじゃありません。<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>じゃありません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼はあなたの父ですか。いいえ、そうじゃありません。私の父じゃありません。')" title="Listen">🔊</button></div></div>
+
+    <!-- 5. 〜も〜です -->
+    <div class="conj-group-label" style="font-size:0.86rem; color:var(--navy-main); margin:16px 0 6px;">🔹 文法 5：〜も〜です (A also is B)</div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-5-1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R5-1. She is also my family. (彼女 / 私 / 家族)</div><button class="btn-check-reveal" id="btn-rev-5-1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-5-1"><span><ruby>彼女<rt>かのじょ</rt></ruby><ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('彼女も私の家族です。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('rev-5-2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R5-2. This is also my book. (これ / 私 / 本)</div><button class="btn-check-reveal" id="btn-rev-5-2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-rev-5-2"><span>これ<ruby>も<rt></rt></ruby><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>です。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('これも私の本です。')" title="Listen">🔊</button></div></div>
+  </section>
+
+  <!-- ==================== 7. 単語一覧 (Word Pool) ==================== -->
   <section class="content-card" id="sec-pool">
     <div class="card-header-row">
-      <div class="step-label">Step 5</div>
-      <div class="card-main-title">Starred Word Pool</div>
-      <div class="card-subtitle-en">All new words from this lesson. Tap ☆ to save the ones you want to review.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="별표를 눌러 복습할 단어를 저장하세요." data-zhcn="点击☆收藏想复习的字。" data-zhtw="點擊☆收藏想複習的字。" data-cant="㩒☆嚟收藏想溫嘅字。"></div>
+      <div class="step-label">Word Pool</div>
+      <div class="card-main-title">宿題フラッシュカード 2 & 3 の単語一覧 — Vocabulary List</div>
+      <div class="card-subtitle-en">All words used in this lesson are strictly from Flashcards 2 (Things Around Us) & 3 (Pronouns & Family). Tap ☆ to mark words for review!</div>
+      <div class="card-subtitle-native i18n-native" data-ko="본 과에서 사용된 단어는 모두 숙제 플래시카드 2(주변 물건)와 3(대명사/가족)에서만 엄선되었습니다. ☆을 눌러 복습할 단어를 체크하세요!" data-zhcn="本课所有词汇严格选自作业字卡2（身边物品）与3（代名词／家庭）。点击☆即可标记想复习的词！" data-zhtw="本課所有詞彙嚴格選自作業字卡2（身邊物品）與3（代名詞／家庭）。點擊☆即可標記想複習的詞！" data-cant="呢課所有詞彙都係由功課字卡2（身邊物件）同3（代名詞／家庭）度嚟。㩒☆就可以標記想溫嘅字！"></div>
     </div>
+
     <div class="vocab-filter-row">
       <div class="filter-btn-group">
         <button class="filter-pill active" id="filter-all" onclick="filterVocab('all')">All</button>
         <button class="filter-pill" id="filter-starred" onclick="filterVocab('starred')">Starred ☆</button>
       </div>
     </div>
-    <div class="word-pool-grid" id="word-pool-list">
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">わたし</div><div class="pool-word-trans">I / me</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">〜さん</div><div class="pool-word-trans">Mr./Ms. ~</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">会社員</div><div class="pool-word-trans">company employee</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">学生</div><div class="pool-word-trans">student</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">先生</div><div class="pool-word-trans">teacher</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">医者</div><div class="pool-word-trans">doctor</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">銀行員</div><div class="pool-word-trans">bank employee</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">エンジニア</div><div class="pool-word-trans">engineer</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">研究者</div><div class="pool-word-trans">researcher</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">部長</div><div class="pool-word-trans">department head</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">アナウンサー</div><div class="pool-word-trans">announcer</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">会社</div><div class="pool-word-trans">company</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">大学</div><div class="pool-word-trans">university</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">病院</div><div class="pool-word-trans">hospital</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">アメリカ人</div><div class="pool-word-trans">American (person)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">韓国人</div><div class="pool-word-trans">Korean (person)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">中国人</div><div class="pool-word-trans">Chinese (person)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">イタリア人</div><div class="pool-word-trans">Italian (person)</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">何</div><div class="pool-word-trans">what</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">そうです</div><div class="pool-word-trans">that's right</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
-      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">違います</div><div class="pool-word-trans">that's wrong</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+
+    <!-- フラッシュカード 3: 代名詞・家族 -->
+    <div class="conj-group-label" style="font-size:0.9rem; margin:16px 0 8px;">👥 フラッシュカード 3：代名詞・家族 (Pronouns & Family)</div>
+    <div class="word-pool-grid" id="word-pool-list-3">
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">私（わたし）</div><div class="pool-word-trans">I, me</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">あなた</div><div class="pool-word-trans">you</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">彼（かれ）</div><div class="pool-word-trans">he</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">彼女（かのじょ）</div><div class="pool-word-trans">she</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">わたしたち</div><div class="pool-word-trans">we, us</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">彼ら（かれら）</div><div class="pool-word-trans">they</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">父（ちち）</div><div class="pool-word-trans">father</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">母（はは）</div><div class="pool-word-trans">mother</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">兄（あに）</div><div class="pool-word-trans">older brother</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">姉（あね）</div><div class="pool-word-trans">older sister</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">弟（おとうと）</div><div class="pool-word-trans">younger brother</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">妹（いもうと）</div><div class="pool-word-trans">younger sister</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">祖父（そふ）</div><div class="pool-word-trans">grandfather</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">祖母（そぼ）</div><div class="pool-word-trans">grandmother</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">家族（かぞく）</div><div class="pool-word-trans">family</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">兄弟（きょうだい）</div><div class="pool-word-trans">siblings / brothers</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">夫（おっと）</div><div class="pool-word-trans">husband</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">妻（つま）</div><div class="pool-word-trans">wife</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+    </div>
+
+    <!-- フラッシュカード 2: 身の回りのもの -->
+    <div class="conj-group-label" style="font-size:0.9rem; margin:24px 0 8px;">📦 フラッシュカード 2：身の回りのもの (Things Around Us)</div>
+    <div class="word-pool-grid" id="word-pool-list-2">
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">机（つくえ）</div><div class="pool-word-trans">desk</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">椅子（いす）</div><div class="pool-word-trans">chair</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">本（ほん）</div><div class="pool-word-trans">book</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ノート</div><div class="pool-word-trans">notebook</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鉛筆（えんぴつ）</div><div class="pool-word-trans">pencil</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ペン</div><div class="pool-word-trans">pen</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">新聞（しんぶん）</div><div class="pool-word-trans">newspaper</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">スマートフォン（スマホ）</div><div class="pool-word-trans">smartphone</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">消しゴム（けしごむ）</div><div class="pool-word-trans">eraser</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鞄（かばん）</div><div class="pool-word-trans">bag</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">時計（とけい）</div><div class="pool-word-trans">watch, clock</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">電話（でんわ）</div><div class="pool-word-trans">telephone</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">パソコン</div><div class="pool-word-trans">computer</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">テレビ</div><div class="pool-word-trans">TV</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">窓（まど）</div><div class="pool-word-trans">window</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">ドア</div><div class="pool-word-trans">door</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">鍵（かぎ）</div><div class="pool-word-trans">key</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">辞書（じしょ）</div><div class="pool-word-trans">dictionary</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">傘（かさ）</div><div class="pool-word-trans">umbrella</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">雑誌（ざっし）</div><div class="pool-word-trans">magazine</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">手帳（てちょう）</div><div class="pool-word-trans">schedule book</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
+      <div class="word-pool-card" data-starred="false"><div><div class="pool-word-jp">靴（くつ）</div><div class="pool-word-trans">shoes</div></div><button class="star-btn" onclick="toggleStar(this)">☆</button></div>
     </div>
   </section>
 
