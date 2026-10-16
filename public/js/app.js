@@ -4390,7 +4390,7 @@
     return typeof id === 'string' && !id.startsWith('class_word_') && !/^card_\d{4}$/.test(id);
   }
 
-  // Automatic validator to detect any corrupted / reversed dialect / duplicate import cards
+  // Automatic validator to detect any corrupted / reversed dialect cards
   const isCorruptedCard = (c) => {
     if (!c) return false;
     const w = (c.word || '').trim();
@@ -4398,8 +4398,6 @@
     const id = c.id || '';
     if (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id)) return false;
     const exJa = (c.example && c.example.ja) ? c.example.ja : '';
-    // Any card that matches Midori's 16 words but has a generated custom ID (from repeated manual imports)
-    if (MIDORI_NEW_WORDS.has(w) && id.startsWith('card_') && !MIDORI_NEW_CARD_IDS.includes(id)) return true;
     if (w.includes('面模仔') || r.includes('bīn') || exJa.includes('bīn-bôo-á') || exJa.includes('伊的面模仔')) return true;
     if (exJa.includes('他長著端正清秀的五官') || exJa.includes('かれはたんせいなかおかたち')) return true;
     if (/[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(w) || /[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(r)) return true;
@@ -6432,12 +6430,16 @@
           mylistCardFolderMap[mCardId] = CLASS_FOLDER_ID;
           needsSave = true;
         }
-        // Ensure Midori's 16 new words are at the very end of mylistSet (so they are at the top when sorted by newest)
+        // Ensure Midori's curated cards are present
         MIDORI_NEW_CARD_IDS.forEach(id => {
-          mylistSet.delete(id);
-          mylistSet.add(id);
-          mylistCardFolderMap[id] = CLASS_FOLDER_ID;
-          needsSave = true;
+          if (!mylistSet.has(id)) {
+            mylistSet.add(id);
+            needsSave = true;
+          }
+          if (!mylistCardFolderMap[id]) {
+            mylistCardFolderMap[id] = CLASS_FOLDER_ID;
+            needsSave = true;
+          }
         });
       }
       if (currentStudent && currentStudent.id === '0014') {
@@ -6524,7 +6526,13 @@
       } else {
         const existing = wordCardMap.get(w);
         const getScore = (id, c) => {
-          if (MIDORI_NEW_CARD_IDS.includes(id) || DANIEL_NEW_CARD_IDS.includes(id)) return 1000;
+          if ((typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) ||
+              (typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) ||
+              (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 1000;
+          if (id && id.startsWith('card_')) {
+            const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
+            return 600 + exLen;
+          }
           if (id && id.startsWith('class_word_')) {
             const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
             return 500 + exLen;
@@ -6551,6 +6559,21 @@
         needsCleanSave = true;
       }
     });
+
+    // 3. Universal: Any custom/newly imported cards added by teacher must appear at the ABSOLUTE TOP of newest sort
+    const dynamicCustomCards = Array.from(mylistSet).filter(id => {
+      return !id.startsWith('class_word_') && 
+             !(typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) &&
+             !(typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) &&
+             !(typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id));
+    });
+    if (dynamicCustomCards.length > 0) {
+      dynamicCustomCards.forEach(id => {
+        mylistSet.delete(id);
+        mylistSet.add(id);
+      });
+      needsCleanSave = true;
+    }
 
     if (needsCleanSave) {
       localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
@@ -6802,7 +6825,10 @@
           } else {
             const existing = wordCardMap.get(w);
             const getScore = (id, c) => {
-              if (MIDORI_NEW_CARD_IDS.includes(id) || DANIEL_NEW_CARD_IDS.includes(id)) return 1000;
+              if ((typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) ||
+                  (typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) ||
+                  (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 1000;
+              if (id && id.startsWith('card_')) return 600 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
               if (id && id.startsWith('class_word_')) return 500 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
               if (id && id.startsWith('seed_')) return 400;
               return 100;
@@ -6818,6 +6844,21 @@
             changed = true;
           }
         });
+
+        // Hoist any custom cards to the top of newest sort
+        const dynamicCustomCards = Array.from(mylistSet).filter(id => {
+          return !id.startsWith('class_word_') && 
+                 !(typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) &&
+                 !(typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) &&
+                 !(typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id));
+        });
+        if (dynamicCustomCards.length > 0) {
+          dynamicCustomCards.forEach(id => {
+            mylistSet.delete(id);
+            mylistSet.add(id);
+          });
+          changed = true;
+        }
 
         if (changed) {
           // Update local cache
@@ -9251,11 +9292,24 @@
 
     rawItems.forEach(line => {
       line = line.trim();
-      if (!line || line.startsWith('#') || /^[①-⑩\d]+$/.test(line)) return;
+      if (!line || line.startsWith('#')) return;
+      // Skip header lines or metadata labels
+      if (/^(フラッシュカード|単語一覧|今日の単語|インポート用|コピー用|リスト用|【|#)/i.test(line) || 
+          line.endsWith('インポート用:') || line.endsWith('インポート用：') || 
+          line.endsWith('一覧:') || line.endsWith('一覧：')) return;
 
-      // Split by tab, comma, or slash
+      // Strip leading numbers (1. / ①) and bullet points (・ / ◆ / -)
+      line = line.replace(/^[①-⑳\d]+[\.\:\s、)）\-]+/, '').trim();
+      line = line.replace(/^[・◆■●★☆\-*]\s*/, '').trim();
+      if (!line) return;
+
+      // Split by tab, multi-space, full-width space, comma, full-width comma, or slash
       let parts = line.split('\t');
+      if (parts.length === 1 && (line.includes('  ') || line.includes('\u3000'))) {
+        parts = line.split(/[\t\u3000]|\s{2,}/);
+      }
       if (parts.length === 1) parts = line.split(',');
+      if (parts.length === 1) parts = line.split('，');
       if (parts.length === 1) parts = line.split('／');
 
       if (parts.length >= 1) {
@@ -9520,6 +9574,11 @@
         addedCount++;
       }
     });
+
+    if (addedCount === 0) {
+      showToast('単語が検出されませんでした。テキストの形式をご確認ください');
+      return;
+    }
 
     if (addedCount > 0) {
       // どの生徒向けにインポートした場合でも、常にアプリのカスタム辞書マスターに登録して二度と見失わないようにする
