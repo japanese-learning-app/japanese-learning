@@ -3597,7 +3597,7 @@
   }
 ];
 
-  const ELIIE_NEW_CARD_IDS = ["card_1791710688293_deirhe__祖父", "card_1791710688303_fh3t7j__小弟", "card_1791710688311_9zfvb5__上課", "card_1791710688319_zs3yra__查某囝", "card_1791710688325_7evzn9__表兄弟", "card_1791710688336_q6wafx__毋是", "card_1791710688346_73s76l__毋是按呢", "card_1791710688353_f3bg8v__國小學生", "card_1791710688364_qe1b03__國中學生", "card_1791710688376_iy5cb6__高中學生", "card_1791710688382_9oq0pi__大學生", "card_1791710688402_ry1bj3__請問你是佗一位？", "card_1791710688408_d265ew__教室", "card_1791710688415_he8qrr__辭典", "card_1791710688423_uigyv2__拊仔", "card_1791710688436_hob5io__家己煮", "card_1791710688454_nx4xci__趁錢", "card_1791710688468_79djqd__銀行", "card_1791710688474_g6755p__事務所", "card_1791710688480_rwo43z__桌仔", "card_1791710688494_kh4lzt__會議室", "card_1791710688516_ik2gk3__有飼", "card_1791710688526_e0wuwh__感情好", "card_1791710688541_0y0x7v__無好", "card_1791710688558_cwqljh__大人", "card_1791710688572_8rnism__揀食", "card_1791710688584_skej7u__茄仔", "card_1791710688591_goll5a__青椒", "card_1791710688597_v9gkjw__紅菜頭", "card_1791710688604_h9kaib__口感", "card_1791710688612_euyhaw__日式蒸卵"];
+  const ELIIE_NEW_CARD_IDS = ["card_1791710688293_deirhe__祖父", "card_1791710688303_fh3t7j__小弟", "card_1791710688311_9zfvb5__上課", "card_1791710688319_zs3yra__查某囝", "card_1791710688325_7evzn9__表兄弟", "card_1791710688336_q6wafx__毋是", "card_1791710688346_73s76l__毋是按呢", "card_1791710688353_f3bg8v__國小學生", "card_1791710688364_qe1b03__國中學生", "card_1791710688376_iy5cb6__高中學生", "card_1791710688382_9oq0pi__大學生", "card_1791710688402_ry1bj3__請問你是佗一位？", "card_1791710688408_d265ew__教室", "card_1791710688415_he8qrr__辭典", "card_1791710688423_uigyv2__拊仔", "card_1791710688436_hob5io__家己煮", "card_1791710688454_nx4xci__趁錢", "card_1791710688468_79djqd__銀行", "card_1791710688474_g6755p__事務所", "card_1791710688480_rwo43z__桌仔", "card_1791710688494_kh4lzt__會議室", "card_1791710688516_ik2gk3__有飼", "card_1791710688526_e0wuwh__感情好", "card_1791710688541_0y0x7v__無好", "card_1791710688558_cwqljh__大人", "card_1791710688572_8rnism__揀食", "card_1791710688584_skej7u__茄仔", "card_1791710688591_goll5a__青椒", "card_1791710688597_v9gkjw__紅菜頭", "card_1791710688604_h9kaib__口感", "card_1791710688612_euyhaw__日式蒸卵", "card_eliie_kyuushoku", "card_eliie_kangoshi", "card_eliie_nuigurumi", "card_eliie_ryourinin", "card_eliie_anaba", "card_eliie_okashizukuri"];
 
   const ELIIE_CURATED_CARDS = [
   {
@@ -4372,6 +4372,168 @@
       "zh_HK": "A: 你食過日本料理嘅茶碗蒸未呀？<br/>B: 食過呀，好香高湯味又滑，我好鍾意。",
       "fr": "A: As-tu déjà goûté au chawanmushi japonais ?<br/>B: Oui, c'est doux, riche en bouillon dashi et j'adore ça."
     },
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_kyuushoku",
+    "word": "給食",
+    "reading": "きゅうしょく",
+    "meaning": {
+      "ja": "給食",
+      "zh_TW": "學校營養午餐、學校供餐",
+      "zh_CN": "学校营养午餐、学校配餐",
+      "en": "school lunch, provided meal",
+      "ko": "급식",
+      "zh_HK": "學校午餐、學校供餐",
+      "fr": "repas scolaire, cantine"
+    },
+    "example": {
+      "ja": "<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>、<ruby>給食<rt>きゅうしょく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>がいちばん<ruby>楽<rt>たの</rt></ruby>しみだった。",
+      "zh_TW": "小學時，營養午餐時間是我最期待的時光。",
+      "zh_CN": "小学时，吃营养午餐的时间是我最期待的时光。",
+      "en": "When I was in elementary school, school lunch time was what I looked forward to the most.",
+      "ko": "초등학교 시절, 급식 시간이 가장 기다려졌다.",
+      "zh_HK": "小學嗰陣，食午餐嘅時間係我最期待嘅時光。",
+      "fr": "À l'école primaire, le moment de la cantine était ce que j'attendais avec le plus d'impatience."
+    },
+    "related": "きゅうしょく（授業の重要表現）",
+    "studentId": "0010",
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_kangoshi",
+    "word": "看護師",
+    "reading": "かんごし",
+    "meaning": {
+      "ja": "看護師",
+      "zh_TW": "護理師",
+      "zh_CN": "护士、护理师",
+      "en": "nurse",
+      "ko": "간호사",
+      "zh_HK": "護士",
+      "fr": "infirmier, infirmière"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>総合病院<rt>そうごうびょういん</rt></ruby>で<ruby>看護師<rt>かんごし</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>いている。",
+      "zh_TW": "她在一家大型綜合醫院擔任護理師。",
+      "zh_CN": "她在一家大型综合医院担任护士。",
+      "en": "She works as a nurse at a large general hospital.",
+      "ko": "그녀는 큰 종합병원에서 간호사로 일하고 있다.",
+      "zh_HK": "佢喺一間大型綜合醫院做護士。",
+      "fr": "Elle travaille comme infirmière dans un grand hôpital général."
+    },
+    "related": "かんごし（授業の重要表現）",
+    "studentId": "0010",
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_nuigurumi",
+    "word": "ぬいぐるみ",
+    "reading": "ぬいぐるみ",
+    "meaning": {
+      "ja": "ぬいぐるみ",
+      "zh_TW": "絨毛玩偶、布偶",
+      "zh_CN": "毛绒玩偶、布偶",
+      "en": "stuffed animal, plush toy",
+      "ko": "봉제 인형",
+      "zh_HK": "毛公仔、布公仔",
+      "fr": "peluche, doudou"
+    },
+    "example": {
+      "ja": "<ruby>子供<rt>こども</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>大<rt>おお</rt></ruby>きなクマのぬいぐるみをプレゼントした。",
+      "zh_TW": "在孩子的生日時，送了一隻大熊絨毛玩偶當禮物。",
+      "zh_CN": "在孩子生日时，送了一只大熊毛绒玩偶当礼物。",
+      "en": "For my child's birthday, I gave them a big teddy bear plush toy as a present.",
+      "ko": "아이 생일에 커다란 곰 인형을 선물했다.",
+      "zh_HK": "喺仔女嘅生日嗰陣，送咗隻大熊毛公仔做禮物。",
+      "fr": "Pour l'anniversaire de mon enfant, j'ai offert une grande peluche d'ours en cadeau."
+    },
+    "related": "ぬいぐるみ（授業の重要表現）",
+    "studentId": "0010",
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_ryourinin",
+    "word": "料理人",
+    "reading": "りょうりにん",
+    "meaning": {
+      "ja": "料理人",
+      "zh_TW": "廚師、料理人",
+      "zh_CN": "厨师、料理人",
+      "en": "chef, cook",
+      "ko": "요리사",
+      "zh_HK": "廚師、料理人",
+      "fr": "cuisinier, chef"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はフランスで<ruby>修行<rt>しゅぎょう</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んだ<ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>料理人<rt>りょうりにん</rt></ruby>だ。",
+      "zh_TW": "他是在法國經歷嚴格磨練的一流廚師。",
+      "zh_CN": "他是在法国经历严格磨炼的一流厨师。",
+      "en": "He is a top-notch chef who trained in France.",
+      "ko": "그는 프랑스에서 수련을 쌓은 일류 요리사이다.",
+      "zh_HK": "佢係喺法國磨練過嘅一流廚師。",
+      "fr": "C'est un cuisinier de premier ordre qui a fait son apprentissage en France."
+    },
+    "related": "りょうりにん（授業の重要表現）",
+    "studentId": "0010",
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_anaba",
+    "word": "穴場",
+    "reading": "あなば",
+    "meaning": {
+      "ja": "穴場",
+      "zh_TW": "私房景點、私房好去處、秘境",
+      "zh_CN": "小众好去处、秘境",
+      "en": "hidden gem, little-known good spot",
+      "ko": "숨은 명소",
+      "zh_HK": "私房好去處、秘境",
+      "fr": "bon plan secret, lieu méconnu"
+    },
+    "example": {
+      "ja": "ここは<ruby>観光客<rt>かんこうきゃく</rt></ruby>がほとんど<ruby>来<rt>こ</rt></ruby>ない、<ruby>地元<rt>じもと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>だけが<ruby>知<rt>し</rt></ruby>る<ruby>穴場<rt>あなば</rt></ruby>のカフェだ。",
+      "zh_TW": "這裡幾乎沒有觀光客來，是只有當地人才知道的私房咖啡廳。",
+      "zh_CN": "这里几乎没有游客来，是只有当地人才知道的宝藏咖啡馆。",
+      "en": "This is a hidden gem cafe where hardly any tourists come and only locals know about it.",
+      "ko": "이곳은 관광객이 거의 오지 않는, 현지인들만 아는 숨은 카페이다.",
+      "zh_HK": "呢度差唔多無遊客嚟，係得當地人先知嘅私房咖啡店。",
+      "fr": "C'est un café secret où viennent très peu de touristes et que seuls les locaux connaissent."
+    },
+    "related": "あなば（授業の重要表現）",
+    "studentId": "0010",
+    "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_eliie_okashizukuri",
+    "word": "お菓子作り",
+    "reading": "おかしづくり",
+    "meaning": {
+      "ja": "お菓子作り",
+      "zh_TW": "做點心、做甜點、烘焙",
+      "zh_CN": "做点心、做甜品、烘焙",
+      "en": "making sweets, baking",
+      "ko": "과자 만들기, 제과",
+      "zh_HK": "整甜品、整糕點、烘焙",
+      "fr": "pâtisserie, confection de confiseries"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はお<ruby>菓子作<rt>かしづく</rt></ruby>りで、<ruby>週末<rt>しゅうまつ</rt></ruby>によくクッキーを<ruby>焼<rt>や</rt></ruby>いている。",
+      "zh_TW": "她的興趣是做甜點，週末經常烤餅乾。",
+      "zh_CN": "她的爱好是做甜点，周末经常烤饼干。",
+      "en": "Her hobby is baking sweets, and she often bakes cookies on weekends.",
+      "ko": "그녀의 취미는 과자 만들기라 주말마다 쿠키를 굽곤 한다.",
+      "zh_HK": "佢嘅興趣係整甜品，週末成日焗曲奇。",
+      "fr": "Son passe-temps est la pâtisserie, et elle prépare souvent des biscuits le week-end."
+    },
+    "related": "おかしづくり（授業の重要表現）",
+    "studentId": "0010",
     "category": "授業で習った言葉",
     "isCustom": true
   }
