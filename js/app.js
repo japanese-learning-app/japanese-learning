@@ -9417,11 +9417,81 @@
   }
 
   // --- Batch Import Logic for Haku-sensei ---
+  function showImportBanner(isSuccess, title, message, wordsList = [], studentObj = null) {
+    const banner = document.getElementById('adminImportResultBanner');
+    const icon = document.getElementById('adminImportResultIcon');
+    const titleEl = document.getElementById('adminImportResultTitle');
+    const textEl = document.getElementById('adminImportResultText');
+    const chipsEl = document.getElementById('adminImportWordChips');
+    const btn = document.getElementById('btnAdminViewStudentMylist');
+    if (!banner) return;
+
+    banner.classList.remove('hidden', 'bg-emerald-50', 'border-emerald-300', 'text-emerald-900', 'bg-rose-50', 'border-rose-300', 'text-rose-900');
+    if (isSuccess) {
+      banner.classList.add('bg-emerald-50', 'border-emerald-300', 'text-emerald-900');
+      if (icon) {
+        icon.className = 'w-5 h-5 text-emerald-600 shrink-0 mt-0.5';
+        icon.setAttribute('data-lucide', 'check-circle');
+      }
+      if (titleEl) {
+        titleEl.textContent = title || '✅ 追加できました！';
+        titleEl.className = 'font-extrabold text-sm mb-1 leading-snug text-emerald-900';
+      }
+      if (textEl) {
+        textEl.textContent = message;
+        textEl.className = 'text-xs text-emerald-800 leading-relaxed';
+      }
+      if (chipsEl) {
+        if (wordsList && wordsList.length > 0) {
+          chipsEl.innerHTML = wordsList.map(w => `<span class="px-2 py-0.5 bg-emerald-100 border border-emerald-300 text-emerald-900 rounded-lg text-[11px] font-bold shadow-2xs">${escapeHtml(w)}</span>`).join('');
+          chipsEl.classList.remove('hidden');
+        } else {
+          chipsEl.classList.add('hidden');
+        }
+      }
+      if (btn) {
+        if (studentObj && studentObj.id !== 'all') {
+          btn.textContent = `生徒「${studentObj.name}」の画面で確認 ↗`;
+          btn.onclick = () => {
+            setStudent(studentObj);
+            switchView('mylist');
+          };
+          btn.classList.remove('hidden');
+        } else {
+          btn.textContent = 'マイリストを確認 ↗';
+          btn.onclick = () => {
+            switchView('mylist');
+          };
+          btn.classList.remove('hidden');
+        }
+      }
+    } else {
+      banner.classList.add('bg-rose-50', 'border-rose-300', 'text-rose-900');
+      if (icon) {
+        icon.className = 'w-5 h-5 text-rose-600 shrink-0 mt-0.5';
+        icon.setAttribute('data-lucide', 'alert-circle');
+      }
+      if (titleEl) {
+        titleEl.textContent = title || '❌ エラー：追加できませんでした';
+        titleEl.className = 'font-extrabold text-sm mb-1 leading-snug text-rose-900';
+      }
+      if (textEl) {
+        textEl.textContent = message;
+        textEl.className = 'text-xs text-rose-800 leading-relaxed';
+      }
+      if (chipsEl) chipsEl.classList.add('hidden');
+      if (btn) btn.classList.add('hidden');
+    }
+    if (window.lucide) lucide.createIcons();
+  }
+
+  // --- Batch Import Logic for Haku-sensei ---
   function executeImport() {
     const rawText = document.getElementById('adminImportText').value.trim();
     const target = document.getElementById('adminTargetStudent').value;
     const targetFolderSelect = document.getElementById('adminImportFolderSelect')?.value || 'folder_class_words';
     if (!rawText) {
+      showImportBanner(false, '❌ エラー：テキストが入力されていません', '貼り付けエリアに単語テキストを入力してから「デッキに一括追加する」を押してください。');
       showToast('インポートするテキストを入力してください');
       return;
     }
@@ -9447,6 +9517,7 @@
 
     let addedCount = 0;
     const addedCardIds = [];
+    const addedWords = [];
 
     const importLangOption = document.getElementById('adminImportLangSelect')?.value || 'auto';
     const targetStudentObj = students.find(s => s.id === target);
@@ -9733,12 +9804,14 @@
         }
         recordWordNames([newCard]);
         addedCardIds.push(cardId);
+        addedWords.push(word);
         addedCount++;
       }
     });
 
     if (addedCount === 0) {
-      showToast('単語が検出されませんでした。テキストの形式をご確認ください');
+      showImportBanner(false, '❌ エラー：単語を検出できませんでした', '貼り付けられた内容から単語を認識できませんでした。「単語 [タブ] 意味」または「単語, 意味」の形式になっているかご確認ください。');
+      showToast('単語が検出されませんでした。形式をご確認ください');
       return;
     }
 
@@ -9817,37 +9890,17 @@
       populateCategoryTabs();
       updateActiveDeck();
 
-      const successMsg = (target && target !== 'all' && targetStudentObj)
-        ? `生徒「${targetStudentObj.name}」のマイリストに${addedCount}件を追加しました！🌸`
-        : `${addedCount}件の単語を追加し、マイリストに反映しました！⭐`;
-      showToast(successMsg);
+      const targetName = (target && target !== 'all' && targetStudentObj) ? targetStudentObj.name : '全員共有デッキ';
+      const successTitle = `✅ 追加できました！（全${addedCount}件）`;
+      const successMsg = `追加先：生徒「${targetName}」のマイリスト（フォルダ：授業で習った言葉）に正常に反映されました！🌸`;
+      showImportBanner(true, successTitle, successMsg, addedWords, targetStudentObj);
+      showToast(successTitle);
 
-      // インポート完了バナーの表示（先生は管理画面のまま連続作業でき、ワンクリックで生徒の画面を確認可能）
-      const banner = document.getElementById('adminImportResultBanner');
-      const bannerText = document.getElementById('adminImportResultText');
-      const bannerBtn = document.getElementById('btnAdminViewStudentMylist');
-      if (banner && bannerText && bannerBtn) {
-        bannerText.textContent = successMsg;
-        banner.classList.remove('hidden');
-        if (target && target !== 'all' && targetStudentObj) {
-          bannerBtn.textContent = `生徒「${targetStudentObj.name}」の画面で確認 ↗`;
-          bannerBtn.onclick = () => {
-            setStudent(targetStudentObj);
-            switchView('mylist');
-          };
-          bannerBtn.classList.remove('hidden');
-        } else {
-          bannerBtn.textContent = 'マイリストを確認 ↗';
-          bannerBtn.onclick = () => {
-            switchView('mylist');
-          };
-          bannerBtn.classList.remove('hidden');
-        }
-      }
       if (typeof renderAdminStudentList === 'function') {
         renderAdminStudentList();
       }
     } else {
+      showImportBanner(false, '❌ エラー：フォーマットを認識できませんでした', 'テキストの形式をご確認の上、再度お試しください。');
       showToast('フォーマットを認識できませんでした');
     }
   }

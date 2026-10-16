@@ -1158,15 +1158,22 @@
             デッキに一括追加する
           </button>
 
-          <!-- Import Result Banner (先生が管理画面にいながら生徒の画面を即確認できる) -->
-          <div id="adminImportResultBanner" class="hidden mb-3 p-3 rounded-2xl bg-emerald-50 border border-emerald-200 flex items-center justify-between text-xs">
-            <div class="flex items-center space-x-1.5 text-emerald-800 font-bold min-w-0 pr-2">
-              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600 shrink-0"></i>
-              <span id="adminImportResultText" class="truncate">追加完了しました</span>
+          <!-- Import Result Banner (追加できた時・エラー時の明快な通知カード) -->
+          <div id="adminImportResultBanner" class="hidden mb-3 p-3.5 rounded-2xl border text-xs transition">
+            <div class="flex items-start justify-between gap-2">
+              <div class="flex items-start space-x-2.5 min-w-0">
+                <i id="adminImportResultIcon" data-lucide="check-circle" class="w-5 h-5 shrink-0 mt-0.5"></i>
+                <div class="min-w-0">
+                  <div id="adminImportResultTitle" class="font-extrabold text-sm mb-1 leading-snug">追加できました！</div>
+                  <div id="adminImportResultText" class="text-xs leading-relaxed"></div>
+                  <!-- 追加された単語バッジ一覧 -->
+                  <div id="adminImportWordChips" class="flex flex-wrap gap-1.5 mt-2.5 hidden"></div>
+                </div>
+              </div>
+              <button id="btnAdminViewStudentMylist" class="shrink-0 px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-full text-xs font-bold shadow-xs transition hidden">
+                生徒の画面で確認 ↗
+              </button>
             </div>
-            <button id="btnAdminViewStudentMylist" class="shrink-0 px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded-full text-[11px] font-bold shadow-2xs transition">
-              確認する ↗
-            </button>
           </div>
 
           <!-- Student PIN management -->
@@ -1637,7 +1644,7 @@
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261017_0045"></script>
   <script src="js/data.js?v=20261008_1645"></script>
-  <script src="js/app.js?v=20261017_0038"></script>
+  <script src="js/app.js?v=20261017_0058"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
