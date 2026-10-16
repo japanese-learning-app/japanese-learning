@@ -52321,4 +52321,321 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "わいろ（授業の重要表現）"
   }
+,
+  {
+    "id": "card_0003_onakagasuita",
+    "word": "お腹がすきました",
+    "reading": "おなかがすきました",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "お腹がすきました",
+      "ko": "배가 고픕니다, 배고파요",
+      "en": "I am hungry",
+      "zh_TW": "肚子餓了",
+      "zh_CN": "肚子饿了"
+    },
+    "example": {
+      "ja": "<ruby>お昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていないので、お<ruby>腹<rt>なか</rt></ruby>がすきました。",
+      "ko": "점심을 먹지 않아서 배가 고픕니다.",
+      "en": "I haven't eaten lunch, so I'm hungry.",
+      "zh_TW": "因為沒吃午餐，所以肚子餓了。",
+      "zh_CN": "因为没吃午饭，所以肚子饿了。"
+    },
+    "related": "おなかがすきました（授業の重要表現）"
+  },
+  {
+    "id": "card_0003_pekopeko",
+    "word": "ペコペコ",
+    "reading": "ぺこぺこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "ペコペコ",
+      "ko": "몹시 배고픔, 꼬르륵거리다",
+      "en": "starving, very hungry",
+      "zh_TW": "肚子非常餓、咕嚕咕嚕叫",
+      "zh_CN": "肚子非常饿、咕噜咕噜叫"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていないので、お<ruby>腹<rt>なか</rt></ruby>がペコペコです。",
+      "ko": "아침부터 아무것도 먹지 않아서 배가 꼬르륵거려요(몹시 배고파요).",
+      "en": "I haven't eaten anything since morning, so I'm starving.",
+      "zh_TW": "從早上開始什麼都沒吃，肚子咕嚕咕嚕叫。",
+      "zh_CN": "从早上开始什么都没吃，肚子咕噜咕噜叫。"
+    },
+    "related": "ぺこぺこ（授業の重要表現）"
+  },
+  {
+    "id": "card_0003_onakagaippai",
+    "word": "お腹がいっぱい",
+    "reading": "おなかがいっぱい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "お腹がいっぱい",
+      "ko": "배가 부름, 배부르다",
+      "en": "full (after eating)",
+      "zh_TW": "吃飽了、肚子很飽",
+      "zh_CN": "吃饱了、肚子很饱"
+    },
+    "example": {
+      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>料理<rt>りょうり</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べて、お<ruby>腹<rt>なか</rt></ruby>がいっぱいです。",
+      "ko": "맛있는 음식을 많이 먹어서 배가 불러요.",
+      "en": "I ate a lot of delicious food, so I am full.",
+      "zh_TW": "吃了好多美味的料理，肚子好飽。",
+      "zh_CN": "吃了很多美味的料理，肚子好饱。"
+    },
+    "related": "おなかがいっぱい（授業の重要表現）"
+  },
+  {
+    "id": "card_0003_panpan",
+    "word": "パンパン",
+    "reading": "ぱんぱん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "パンパン",
+      "ko": "(배 등이) 빵빵함, 터질 듯 가득 참",
+      "en": "stuffed, bursting full",
+      "zh_TW": "撐破、圓滾滾、脹得滿滿的",
+      "zh_CN": "撑破、圆滚滚、胀得满满的"
+    },
+    "example": {
+      "ja": "バイキングで<ruby>食<rt>た</rt></ruby>べすぎて、お<ruby>腹<rt>なか</rt></ruby>がパンパンです。",
+      "ko": "뷔페에서 너무 많이 먹어서 배가 빵빵해요.",
+      "en": "I ate too much at the buffet, so my stomach is bursting full.",
+      "zh_TW": "吃到飽吃得太多，肚子撐得好飽。",
+      "zh_CN": "自助餐吃得太多，肚子撑得好饱。"
+    },
+    "related": "ぱんぱん（授業の重要表現）"
+  },
+  {
+    "id": "card_0003_katakori",
+    "word": "肩凝り",
+    "reading": "かたこり",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "肩凝り",
+      "ko": "어깨 결림, 어깨 뭉침",
+      "en": "stiff shoulders, shoulder stiffness",
+      "zh_TW": "肩膀酸痛、肩膀僵硬",
+      "zh_CN": "肩膀酸痛、肩膀僵硬"
+    },
+    "example": {
+      "ja": "デスクワークが<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>いて、ひどい<ruby>肩凝<rt>かたこ</rt></ruby>りに<ruby>悩<rt>なや</rt></ruby>まされています。",
+      "ko": "사무직 업무가 오래 이어져서 심한 어깨 결림으로 고생하고 있습니다.",
+      "en": "Desk work has continued for a long time, and I am suffering from terrible stiff shoulders.",
+      "zh_TW": "長時間坐辦公室工作，嚴重的肩膀僵硬讓人很困擾。",
+      "zh_CN": "长时间坐办公室工作，严重的肩膀僵硬让人很困扰。"
+    },
+    "related": "かたこり（授業の重要表現）"
+  },
+  {
+    "id": "card_0003_shouyu",
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "醤油",
+      "ko": "간장",
+      "en": "soy sauce",
+      "zh_TW": "醬油",
+      "zh_CN": "酱油"
+    },
+    "example": {
+      "ja": "お<ruby>刺身<rt>さしみ</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しだけ<ruby>醤油<rt>しょうゆ</rt></ruby>をつけて<ruby>食<rt>た</rt></ruby>べます。",
+      "ko": "생선회에 간장을 조금만 찍어서 먹습니다.",
+      "en": "I dip sashimi in just a little soy sauce to eat it.",
+      "zh_TW": "生魚片只沾一點點醬油來吃。",
+      "zh_CN": "生鱼片只蘸一点点酱油来吃。"
+    },
+    "related": "しょうゆ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_shitami",
+    "word": "下見",
+    "reading": "したみ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "下見",
+      "en": "preview, preliminary inspection, viewing (property)",
+      "zh_TW": "預先查看、勘查、看房",
+      "ko": "사전 답사, 미리 보기"
+    },
+    "example": {
+      "ja": "<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>を<ruby>下見<rt>したみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "I went to preview the wedding venue.",
+      "zh_TW": "去預先查看了婚禮會場。",
+      "ko": "결혼식장을 사전 답사하러 갔습니다."
+    },
+    "related": "したみ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_suugakusha",
+    "word": "数学者",
+    "reading": "すうがくしゃ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "数学者",
+      "en": "mathematician",
+      "zh_TW": "數學家",
+      "ko": "수학자"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>世界的<rt>せかいてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>数学者<rt>すうがくしゃ</rt></ruby>として<ruby>知<rt>し</rt></ruby>られています。",
+      "en": "He is known as a world-famous mathematician.",
+      "zh_TW": "他作為世界聞名的數學家而廣為人知。",
+      "ko": "그는 세계적으로 유명한 수학자로 알려져 있습니다."
+    },
+    "related": "すうがくしゃ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_houritsu",
+    "word": "法律",
+    "reading": "ほうりつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "法律",
+      "en": "law, legislation",
+      "zh_TW": "法律",
+      "ko": "법률"
+    },
+    "example": {
+      "ja": "<ruby>国民<rt>こくみん</rt></ruby>は<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>義務<rt>ぎむ</rt></ruby>があります。",
+      "en": "Citizens have an obligation to abide by the law.",
+      "zh_TW": "國民有遵守法律的義務。",
+      "ko": "국민은 법률을 준수할 의무가 있습니다."
+    },
+    "related": "ほうりつ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_irairasuru",
+    "word": "イライラする",
+    "reading": "いらいらする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "イライラする",
+      "en": "to feel irritated, to be frustrated, to lose patience",
+      "zh_TW": "焦躁不安、惱火、心煩",
+      "ko": "안달하다, 짜증나다"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れていて、だんだんイライラしてきました。",
+      "en": "The train was delayed, and I gradually started to get irritated.",
+      "zh_TW": "電車延誤了，讓人漸漸感到焦躁惱火。",
+      "ko": "전철이 늦어져서 점점 짜증이 나기 시작했습니다."
+    },
+    "related": "いらいらする（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_koukai",
+    "word": "公開",
+    "reading": "こうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "公開",
+      "en": "opening to the public, public release, disclosure",
+      "zh_TW": "公開、上映、對外開放",
+      "ko": "공개"
+    },
+    "example": {
+      "ja": "<ruby>話題<rt>わだい</rt></ruby>の<ruby>新作映画<rt>しんさくえいが</rt></ruby>が<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>に<ruby>公開<rt>こうかい</rt></ruby>されます。",
+      "en": "The much-talked-about new movie will be released in theaters next Friday.",
+      "zh_TW": "備受熱議的新電影將於下週五上映。",
+      "ko": "화제의 신작 영화가 다음 주 금요일에 개봉(공개)됩니다."
+    },
+    "related": "こうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_hikoukai",
+    "word": "非公開",
+    "reading": "ひこうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "非公開",
+      "en": "private, closed to the public, undisclosed",
+      "zh_TW": "不公開、非公開、私人",
+      "ko": "비공개"
+    },
+    "example": {
+      "ja": "プライバシーを<ruby>守<rt>まも</rt></ruby>るために、SNSのアカウントを<ruby>非公開<rt>ひこうかい</rt></ruby>にしています。",
+      "en": "To protect my privacy, I keep my social media account set to private.",
+      "zh_TW": "為了保護隱私，我把SNS帳號設為不公開。",
+      "ko": "사생활을 보호하기 위해 SNS 계정을 비공개로 해 두고 있습니다."
+    },
+    "related": "ひこうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_okodukai",
+    "word": "お小遣い",
+    "reading": "おこづかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "お小遣い",
+      "en": "pocket money, allowance, spending money",
+      "zh_TW": "零用錢",
+      "ko": "용돈"
+    },
+    "example": {
+      "ja": "<ruby>毎月<rt>まいつき</rt></ruby>1<ruby>日<rt>ついたち</rt></ruby>に<ruby>親<rt>おや</rt></ruby>からお<ruby>小遣<rt>こづか</rt></ruby>いをもらいます。",
+      "en": "I receive an allowance from my parents on the 1st of every month.",
+      "zh_TW": "每個月1號我會從父母那裡拿零用錢。",
+      "ko": "매월 1일에 부모님께 용돈을 받습니다."
+    },
+    "related": "おこづかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_koukai_regret",
+    "word": "後悔",
+    "reading": "こうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "後悔",
+      "en": "regret, remorse",
+      "zh_TW": "後悔",
+      "ko": "후회"
+    },
+    "example": {
+      "ja": "<ruby>若<rt>わか</rt></ruby>い<ruby>時<rt>とき</rt></ruby>にもっと<ruby>勉強<rt>べんきょう</rt></ruby>しておけばよかったと<ruby>後悔<rt>こうかい</rt></ruby>しています。",
+      "en": "I regret that I didn't study more when I was younger.",
+      "zh_TW": "我很後悔年輕時沒有多用功讀書。",
+      "ko": "젊었을 때 좀 더 공부해 둘 걸 그랬다고 후회하고 있습니다."
+    },
+    "related": "こうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_kuchipaku",
+    "word": "口パク",
+    "reading": "くちぱく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "口パク",
+      "en": "lip-syncing, mouthing words silently",
+      "zh_TW": "對嘴、假唱、動嘴型不出聲",
+      "ko": "립싱크, 벙긋거림"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はライブコンサートで<ruby>口<rt>くち</rt></ruby>パクをしていたと<ruby>批判<rt>ひはん</rt></ruby>された。",
+      "en": "He was criticized for lip-syncing at the live concert.",
+      "zh_TW": "他因為在現場演唱會上對嘴假唱而受到批評。",
+      "ko": "그는 라이브 콘서트에서 립싱크를 했다고 비판을 받았다."
+    },
+    "related": "くちぱく（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_nokawarini",
+    "word": "〜の代わりに",
+    "reading": "〜のかわりに",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "〜の代わりに",
+      "en": "instead of..., in place of..., on behalf of...",
+      "zh_TW": "代替……、作為……的交換",
+      "ko": "~대신에"
+    },
+    "example": {
+      "ja": "<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>した<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに、<ruby>私<rt>わたし</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。",
+      "en": "In place of the department manager who fell ill, I attended the meeting.",
+      "zh_TW": "代替身體不適的部長，我出席了會議。",
+      "ko": "컨디션이 안 좋아진 부장님 대신에 제가 회의에 참석했습니다."
+    },
+    "related": "〜のかわりに（授業の重要表現）"
+  }
 ];
