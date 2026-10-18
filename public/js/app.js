@@ -6836,7 +6836,7 @@
     window.addEventListener('orientationchange', () => setTimeout(applyLayout, 100));
   }
 
-  function setStudent(student) {
+  async function setStudent(student) {
     currentStudent = student;
     const isTeacher = !!(student && (student.id === 'haku' || student.id === 'admin'));
     const drawerBtnOpenAdmin = document.getElementById('drawerBtnOpenAdmin');
@@ -6873,13 +6873,22 @@
         showToast(`Logged in as ${student.name}`);
       }
 
-      // Authenticate with Firebase in background & sync latest cloud data
-      ensureStudentCloudAuth(student.id, student.passcode).then(() => {
-        syncStudentFromCloud(student.id);
+      // First load local cache immediately for instantaneous UI responsiveness
+      loadMylistForCurrentStudent();
+      applyUiLanguage(currentLang);
+      updateActiveDeck();
+
+      // Authenticate with Firebase & sync latest cloud data safely through mutex
+      try {
+        await syncStudentFromCloud(student.id);
         if (isTeacher) {
           setTimeout(() => recoverLostCustomCards(), 1500);
         }
-      });
+      } catch (err) {
+        console.warn('setStudent cloud sync note:', err);
+      }
+      loadMylistForCurrentStudent();
+      updateActiveDeck();
     } else {
       localStorage.removeItem('haku_current_student_id');
       document.getElementById('headerStudentBadge').textContent = 'Student: Guest';
@@ -6895,10 +6904,10 @@
       if (fbAuth && fbAuth.currentUser) {
         fbAuth.signOut().catch(() => {});
       }
+      loadMylistForCurrentStudent();
+      applyUiLanguage(currentLang);
+      updateActiveDeck();
     }
-    loadMylistForCurrentStudent();
-    applyUiLanguage(currentLang);
-    updateActiveDeck();
   }
 
   let mylistFolders = []; // array of { id, name }
@@ -7051,17 +7060,17 @@
         });
       }
       if (window.CLASS_ARUN_IDS) {
-      let needsSave = false;
-      window.CLASS_ARUN_IDS.forEach(cId => {
-        if (!mylistSet.has(cId)) {
-          mylistSet.add(cId);
-          needsSave = true;
-        }
-        if (!mylistCardFolderMap[cId]) {
-          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
-          needsSave = true;
-        }
-      });
+        window.CLASS_ARUN_IDS.forEach(cId => {
+          if (!mylistSet.has(cId)) {
+            mylistSet.add(cId);
+            needsSave = true;
+          }
+          if (!mylistCardFolderMap[cId]) {
+            mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+            needsSave = true;
+          }
+        });
+      }
       if (needsSave) {
         localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
         localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
@@ -7202,6 +7211,17 @@
     return !!fbAuth.currentUser;
   }
 
+  // Sequential Promise Mutex to guarantee Firebase Auth switches never collide
+  let cloudSyncMutex = Promise.resolve();
+  function runWithCloudSyncLock(fn) {
+    const next = cloudSyncMutex.then(() => fn().catch(err => {
+      console.warn('Locked cloud sync operation error:', err);
+      throw err;
+    }));
+    cloudSyncMutex = next.catch(() => {});
+    return next;
+  }
+
   // Push student's mylist, folders, and mapping to Cloud Firestore with explicit auth
   async function syncStudentToCloudDirect(studentId, dataToSync) {
     if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return false;
@@ -7209,108 +7229,113 @@
     if (!targetStudent) return false;
     const originalStudent = currentStudent;
 
-    try {
-      // Authenticate as target student to satisfy Firestore security rules
-      await ensureStudentCloudAuth(studentId, targetStudent.passcode);
-      const docRef = fbDb.collection('students').doc(studentId);
-      if (Array.isArray(dataToSync.customCards)) {
-        try {
-          const snap = await docRef.get();
-          const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
-          if (snap.exists && snap.data().wordNames) {
-            dataToSync.wordNames = { ...snap.data().wordNames, ...(dataToSync.wordNames || {}) };
-          }
-          const haveIds = new Set(dataToSync.customCards.map(c => c.id));
-          cloudCards.forEach(c => {
-            if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id)) {
-              dataToSync.customCards.push(c);
-              haveIds.add(c.id);
+    return runWithCloudSyncLock(async () => {
+      try {
+        // Authenticate as target student to satisfy Firestore security rules
+        await ensureStudentCloudAuth(studentId, targetStudent.passcode);
+        const docRef = fbDb.collection('students').doc(studentId);
+        if (Array.isArray(dataToSync.customCards)) {
+          try {
+            const snap = await docRef.get();
+            const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
+            if (snap.exists && snap.data().wordNames) {
+              dataToSync.wordNames = { ...snap.data().wordNames, ...(dataToSync.wordNames || {}) };
             }
-          });
-          dataToSync.customCards = dataToSync.customCards.filter(c => !isCorruptedCard(c));
-        } catch (e) {}
-      }
-      await docRef.set(dataToSync, { merge: true });
-      console.log(`Cloud sync direct pushed for student ${studentId} ☁️`);
+            const haveIds = new Set(dataToSync.customCards.map(c => c.id));
+            cloudCards.forEach(c => {
+              if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id)) {
+                dataToSync.customCards.push(c);
+                haveIds.add(c.id);
+              }
+            });
+            dataToSync.customCards = dataToSync.customCards.filter(c => !isCorruptedCard(c));
+          } catch (e) {}
+        }
+        await docRef.set(dataToSync, { merge: true });
+        console.log(`Cloud sync direct pushed for student ${studentId} ☁️`);
 
-      // Restore original session if needed
-      if (originalStudent && originalStudent.id !== studentId) {
-        await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode);
+        // Restore original session if needed
+        if (originalStudent && originalStudent.id !== studentId) {
+          await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode);
+        }
+        return true;
+      } catch (err) {
+        console.warn(`Cloud sync direct note for ${studentId}:`, err.message);
+        if (originalStudent && originalStudent.id !== studentId) {
+          try { await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode); } catch(e) {}
+        }
+        return false;
       }
-      return true;
-    } catch (err) {
-      console.warn(`Cloud sync direct note for ${studentId}:`, err.message);
-      if (originalStudent && originalStudent.id !== studentId) {
-        try { await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode); } catch(e) {}
-      }
-      return false;
-    }
+    });
   }
 
   // Push student's mylist, folders, and mapping to Cloud Firestore
   async function syncStudentToCloud(studentId) {
     if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return;
-    try {
-      const targetStudent = students.find(s => s.id === studentId) || currentStudent;
-      const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
-      await ensureStudentCloudAuth(studentId, passcode);
-
-      // Gather any card objects that this student has in their mylist and aren't in INITIAL_VOCAB_DATA or CLASS_VOCAB_DATA
-      const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
-      const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
-      const customCardsToSync = [];
-      mylistSet.forEach(cId => {
-        if (!seedIds.has(cId) && !classIds.has(cId) && !cId.startsWith('class_word_')) {
-          const resolvedCard = getCardById(cId);
-          if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt && !isCorruptedCard(resolvedCard)) customCardsToSync.push(resolvedCard);
-        }
-      });
-
-      const docRef = fbDb.collection('students').doc(studentId);
-
-      // ★ 単語名レジストリ（定義が消えても単語名から復元できるように）
-      recordWordNames(customCardsToSync);
-      let wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
-
-      // ★ クラウドに既にある正しいカード定義を消さないよう、必ずマージしてから保存
+    return runWithCloudSyncLock(async () => {
       try {
-        const snap = await docRef.get();
-        if (snap.exists && snap.data().wordNames) {
-          mergeWordNames(snap.data().wordNames);
-          wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
-        }
-        const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
-        const haveIds = new Set(customCardsToSync.map(c => c.id));
-        cloudCards.forEach(c => {
-          if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
-            customCardsToSync.push(c);
-            haveIds.add(c.id);
+        const targetStudent = students.find(s => s.id === studentId) || currentStudent;
+        const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
+        await ensureStudentCloudAuth(studentId, passcode);
+
+        // Gather any card objects that this student has in their mylist and aren't in INITIAL_VOCAB_DATA or CLASS_VOCAB_DATA
+        const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
+        const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
+        const customCardsToSync = [];
+        mylistSet.forEach(cId => {
+          if (!seedIds.has(cId) && !classIds.has(cId) && !cId.startsWith('class_word_')) {
+            const resolvedCard = getCardById(cId);
+            if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt && !isCorruptedCard(resolvedCard)) customCardsToSync.push(resolvedCard);
           }
         });
-      } catch (e) {}
 
-      await docRef.set({
-        mylist: Array.from(mylistSet),
-        folders: mylistFolders,
-        cardFolderMap: mylistCardFolderMap,
-        customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
-        wordNames: wordNamesToSync,
-        updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-      }, { merge: true });
-      console.log(`Cloud sync pushed for student ${studentId} ☁️`);
-    } catch (err) {
-      console.warn('Cloud sync push note:', err.message);
-    }
+        const docRef = fbDb.collection('students').doc(studentId);
+
+        // ★ 単語名レジストリ（定義が消えても単語名から復元できるように）
+        recordWordNames(customCardsToSync);
+        let wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
+
+        // ★ クラウドに既にある正しいカード定義を消さないよう、必ずマージしてから保存
+        try {
+          const snap = await docRef.get();
+          if (snap.exists && snap.data().wordNames) {
+            mergeWordNames(snap.data().wordNames);
+            wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
+          }
+          const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
+          const haveIds = new Set(customCardsToSync.map(c => c.id));
+          cloudCards.forEach(c => {
+            if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
+              customCardsToSync.push(c);
+              haveIds.add(c.id);
+            }
+          });
+        } catch (e) {}
+
+        await docRef.set({
+          mylist: Array.from(mylistSet),
+          folders: mylistFolders,
+          cardFolderMap: mylistCardFolderMap,
+          customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
+          wordNames: wordNamesToSync,
+          updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+        }, { merge: true });
+        console.log(`Cloud sync pushed for student ${studentId} ☁️`);
+      } catch (err) {
+        console.warn('Cloud sync push note:', err.message);
+      }
+    });
   }
 
   // Pull student's mylist, folders, and mapping from Cloud Firestore
   async function syncStudentFromCloud(studentId) {
     if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return false;
-    try {
-      // Ensure user is authenticated first
-      const targetStudent = students.find(s => s.id === studentId) || currentStudent;
-      const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
-      await ensureStudentCloudAuth(studentId, passcode);
+    return runWithCloudSyncLock(async () => {
+      try {
+        // Ensure user is authenticated first
+        const targetStudent = students.find(s => s.id === studentId) || currentStudent;
+        const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
+        await ensureStudentCloudAuth(studentId, passcode);
 
       const docRef = fbDb.collection('students').doc(studentId);
       const snap = await docRef.get();
@@ -7462,11 +7487,13 @@
         }
         return changed;
       }
+      return false;
     } catch (err) {
       console.warn('Cloud sync pull note:', err.message);
+      return false;
     }
-    return false;
-  }
+  });
+}
 
   // ★ 先生ログイン時: 失われたカード定義を「先生PCの保存データ＋全生徒のクラウドデータ」から集めて復元し、
   //    定義が欠けている生徒のクラウドへ配り直す（マイリストのランダムID文字化けの修復）
@@ -9283,24 +9310,33 @@
     if (nameInfo && nameInfo.w && nameInfo.w !== cardId) {
       const base = getCardById(nameInfo.w);
       if (base && !isStubCard(base) && !base.isNameOnly) {
-        return { ...base, id: cardId, word: nameInfo.w, reading: nameInfo.r || base.reading, category: '授業で習った言葉', isRebuilt: true };
+        const resolved = { ...base, id: cardId, word: nameInfo.w, reading: nameInfo.r || base.reading, category: '授業で習った言葉', isRebuilt: true };
+        if (!vocabList.find(c => c.id === cardId)) vocabList.push(resolved);
+        return resolved;
       }
       const online = getOnlineDictCache()[nameInfo.w];
       if (online && online.en) {
-        return {
+        const resolved = {
           id: cardId, word: nameInfo.w, reading: nameInfo.r || '', category: '授業で習った言葉',
           meaning: { en: online.en, ja: nameInfo.w, zh_TW: online.en, zh_CN: online.en, ko: online.en, zh_HK: online.en, fr: online.en },
-          example: { ja: '', en: '' }, related: '', isRebuilt: true
+          example: { ja: `A: <ruby>${nameInfo.w}<rt>${nameInfo.r || nameInfo.w}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`, en: `A: Let's talk about "${nameInfo.w}".<br/>B: Yes, understood!` },
+          related: '', isRebuilt: true
         };
+        if (!vocabList.find(c => c.id === cardId)) vocabList.push(resolved);
+        return resolved;
       }
       scheduleOnlineLookup(nameInfo.w);
       const looking = onlineLookupFailed.has(nameInfo.w)
         ? { en: 'Meaning could not be loaded (check connection)', ja: '意味を読み込めませんでした（通信を確認）', zh_TW: '無法載入意思（請檢查網路）', zh_CN: '无法加载意思（请检查网络）', ko: '뜻을 불러오지 못했습니다 (연결 확인)', zh_HK: '載入唔到意思（請檢查網絡）', fr: 'Sens indisponible (vérifiez la connexion)' }
         : { en: 'Looking up meaning…', ja: '意味を調べています…', zh_TW: '正在查詢意思…', zh_CN: '正在查询意思…', ko: '뜻을 찾는 중…', zh_HK: '正在查意思…', fr: 'Recherche du sens…' };
-      return {
+      const resolved = {
         id: cardId, word: nameInfo.w, reading: nameInfo.r || '', category: '授業で習った言葉',
-        meaning: looking, example: { ja: '', en: '' }, related: '', isRebuilt: true, isNameOnly: true
+        meaning: looking,
+        example: { ja: `A: <ruby>${nameInfo.w}<rt>${nameInfo.r || nameInfo.w}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`, en: `A: Let's talk about "${nameInfo.w}".<br/>B: Yes, understood!` },
+        related: '', isRebuilt: true, isNameOnly: true
       };
+      if (!vocabList.find(c => c.id === cardId)) vocabList.push(resolved);
+      return resolved;
     }
 
     // 7. 単語名も不明（古い形式のIDでデータが失われたもの）。isStub を付けてクラウドへは送らない
@@ -9798,8 +9834,9 @@
       lucide.createIcons({ root: row });
 
       if (!isTeacher) {
-        const handleLoginAs = () => {
-          setStudent(st);
+        const handleLoginAs = async () => {
+          showToast(`生徒「${st.name}」のデータを同期中...`);
+          await setStudent(st);
           renderAdminStudentList();
           switchView('mylist');
           showToast(`生徒「${st.name}」としてログインしました！🎓`);
@@ -9879,9 +9916,16 @@
       if (btn) {
         if (studentObj && studentObj.id !== 'all') {
           btn.textContent = `生徒「${studentObj.name}」の画面で確認 ↗`;
-          btn.onclick = () => {
-            setStudent(studentObj);
-            switchView('mylist');
+          btn.onclick = async () => {
+            btn.disabled = true;
+            btn.textContent = '読込中...';
+            try {
+              await setStudent(studentObj);
+              switchView('mylist');
+            } finally {
+              btn.disabled = false;
+              btn.textContent = `生徒「${studentObj.name}」の画面で確認 ↗`;
+            }
           };
           btn.classList.remove('hidden');
         } else {
@@ -9913,7 +9957,12 @@
   }
 
   // --- Batch Import Logic for Haku-sensei ---
+  let isImporting = false;
   async function executeImport() {
+    if (isImporting) return;
+    const btnExecute = document.getElementById('btnExecuteImport');
+    const originalBtnHtml = btnExecute ? btnExecute.innerHTML : '';
+
     const rawText = document.getElementById('adminImportText').value.trim();
     const target = document.getElementById('adminTargetStudent').value;
     const targetFolderSelect = document.getElementById('adminImportFolderSelect')?.value || 'folder_class_words';
@@ -9923,328 +9972,423 @@
       return;
     }
 
-    // Smart splitting: support both newline-separated and single-line comma/space-separated entries
-    let rawItems = [];
-    if (rawText.includes('\n')) {
-      rawItems = rawText.split('\n');
-    } else {
-      // Single continuous line like: 観光地（かんこうち）,tourist destination 飲食店（いんしょくてん）,restaurant
-      // Match Japanese word (with optional furigana) and comma/tab followed by meaning
-      const regexPattern = /([^\s,，\t]+(?:（[^）]+）|\([^)]+\))?)\s*[,，\t]\s*([^,，\t\n]+?)(?=(?:\s+[^\s,，\t]+(?:（[^）]+）|\([^)]+\))?\s*[,，\t])|$)/g;
-      let match;
-      while ((match = regexPattern.exec(rawText)) !== null) {
-        if (match[1] && match[2]) {
-          rawItems.push(`${match[1].trim()}\t${match[2].trim()}`);
-        }
-      }
-      if (rawItems.length === 0) {
-        rawItems = [rawText];
-      }
+    isImporting = true;
+    if (btnExecute) {
+      btnExecute.disabled = true;
+      btnExecute.innerHTML = '<span class="inline-block animate-spin mr-2">⏳</span>クラウドへ保存中...';
     }
 
-    let addedCount = 0;
-    const addedCardIds = [];
-    const addedWords = [];
-
-    const importLangOption = document.getElementById('adminImportLangSelect')?.value || 'auto';
-    const targetStudentObj = students.find(s => s.id === target);
-    const targetStudentLang = targetStudentObj ? targetStudentObj.lang : 'en';
-
-    rawItems.forEach(line => {
-      line = line.trim();
-      if (!line || line.startsWith('#')) return;
-      // Skip header lines or metadata labels
-      if (/^(フラッシュカード|単語一覧|今日の単語|インポート用|コピー用|リスト用|【|#)/i.test(line) || 
-          line.endsWith('インポート用:') || line.endsWith('インポート用：') || 
-          line.endsWith('一覧:') || line.endsWith('一覧：')) return;
-
-      // Strip leading numbers (1. / ①) and bullet points (・ / ◆ / -)
-      line = line.replace(/^[①-⑳\d]+[\.\:\s、)）\-]+/, '').trim();
-      line = line.replace(/^[・◆■●★☆\-*]\s*/, '').trim();
-      if (!line) return;
-
-      // Split by tab, multi-space, full-width space, comma, full-width comma, or slash
-      let parts = line.split('\t');
-      if (parts.length === 1 && (line.includes('  ') || line.includes('\u3000'))) {
-        parts = line.split(/[\t\u3000]|\s{2,}/);
+    try {
+      // Smart splitting: support newline-separated, single-line comma/space-separated, and markdown tables
+      let rawItems = [];
+      if (rawText.includes('\n')) {
+        rawItems = rawText.split('\n');
+      } else {
+        // Single continuous line like: 観光地（かんこうち）,tourist destination 飲食店（いんしょくてん）,restaurant
+        const regexPattern = /([^\s,，\t]+(?:（[^）]+）|\([^)]+\))?)\s*[,，\t]\s*([^,，\t\n]+?)(?=(?:\s+[^\s,，\t]+(?:（[^）]+）|\([^)]+\))?\s*[,，\t])|$)/g;
+        let match;
+        while ((match = regexPattern.exec(rawText)) !== null) {
+          if (match[1] && match[2]) {
+            rawItems.push(`${match[1].trim()}\t${match[2].trim()}`);
+          }
+        }
+        if (rawItems.length === 0) {
+          rawItems = [rawText];
+        }
       }
-      if (parts.length === 1) parts = line.split(',');
-      if (parts.length === 1) parts = line.split('，');
-      if (parts.length === 1) parts = line.split('／');
 
-      if (parts.length >= 1) {
-        const rawWord = parts[0].trim();
-        if (!rawWord) return;
+      let addedCount = 0;
+      const addedCardIds = [];
+      const addedWords = [];
 
-        // 1. Extract word and reading
-        let word = rawWord;
-        let reading = '';
-        let cols = parts.slice(1);
+      const importLangOption = document.getElementById('adminImportLangSelect')?.value || 'auto';
+      const targetStudentObj = students.find(s => s.id === target);
+      const targetStudentLang = targetStudentObj ? targetStudentObj.lang : 'en';
 
-        // Safeguard 1: Reverse order detection!
-        // If col 0 has Roman letters/Hangul or non-Japanese, but col 1 has Japanese characters, swap them!
-        const hasKanaOrKanji = (s) => /[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/.test(s);
-        const hasRomanOrForeign = (s) => /[a-zA-Z\uac00-\ud7a3āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(s);
-        if (cols.length >= 1 && hasRomanOrForeign(word) && !/[\u3040-\u309f]/.test(word) && hasKanaOrKanji(cols[0])) {
-          const temp = cols[0];
-          cols[0] = word;
-          word = temp;
-        }
-
-        const match = word.match(/^(.*?)[（\(](.*?)[）\)]/);
-        if (match) {
-          word = match[1].trim();
-          reading = match[2].trim();
-        } else if (cols.length >= 2 && /^[ぁ-んァ-ヶー〜・\s]+$/.test(cols[0])) {
-          // Format where col 1 is Word and col 2 is Reading: e.g. 食べる \t たべる \t 吃 \t to eat
-          reading = cols[0].trim();
-          cols = cols.slice(1);
-        }
-
-        // Safeguard 2: Ensure reading is strictly Japanese kana (no Roman diacritics/alphabets)
-        if (reading && hasRomanOrForeign(reading)) {
-          reading = '';
-        }
-
-        let parsedNative = '';
-        let parsedEn = '';
-        let exJa = '';
-        let exTrans = '';
-        let related = '';
-
-        // Helper detection functions
-        const isEnglish = (s) => /^[a-zA-Z0-9\s,.'"\(\)\/\-]+$/.test(s.trim()) && /[a-zA-Z]{2,}/.test(s);
-        const isJapaneseSentence = (s) => /[\u3040-\u309f]/.test(s) && (/[。、！？]/.test(s) || s.includes('A:') || s.includes('A：') || s.length > 10);
-
-        // Distribute columns intelligently
-        if (cols.length === 3 && isJapaneseSentence(cols[1])) {
-          // Standard 4-column format: Word \t Meaning \t JaExample \t TransExample
-          if (isEnglish(cols[0])) {
-            parsedEn = cols[0];
-          } else {
-            parsedNative = cols[0];
+      // Helper: Dictionary lookup across DICT_DATA, CLASS_VOCAB_DATA, INITIAL_VOCAB_DATA, JLPT_VOCAB
+      const lookupDictionary = (w) => {
+        if (!w) return null;
+        if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+          const entry = window.DICT_DATA.find(d => d.w === w);
+          if (entry) {
+            return {
+              reading: entry.r || entry.w,
+              en: (entry.m && entry.m.join(', ')) || '',
+              zh: (entry.zh && entry.zh.join(', ')) || '',
+              fr: (entry.fr && entry.fr.join(', ')) || ''
+            };
           }
-          exJa = cols[1];
-          exTrans = cols[2];
-        } else if (cols.length === 2 && isJapaneseSentence(cols[1])) {
-          // Standard 3-column format: Word \t Meaning \t JaExample
-          if (isEnglish(cols[0])) {
-            parsedEn = cols[0];
-          } else {
-            parsedNative = cols[0];
+        }
+        if (window.CLASS_VOCAB_DATA && Array.isArray(window.CLASS_VOCAB_DATA)) {
+          const c = window.CLASS_VOCAB_DATA.find(x => x.word === w);
+          if (c) {
+            return {
+              reading: c.reading || c.word,
+              en: (c.meaning && c.meaning.en) || '',
+              zh: (c.meaning && (c.meaning.zh_TW || c.meaning.zh_CN || c.meaning.zh_HK)) || '',
+              ko: (c.meaning && c.meaning.ko) || '',
+              fr: (c.meaning && c.meaning.fr) || ''
+            };
           }
-          exJa = cols[1];
+        }
+        if (window.INITIAL_VOCAB_DATA && Array.isArray(window.INITIAL_VOCAB_DATA)) {
+          const c = window.INITIAL_VOCAB_DATA.find(x => x.word === w);
+          if (c) {
+            return {
+              reading: c.reading || c.word,
+              en: (c.meaning && c.meaning.en) || '',
+              zh: (c.meaning && (c.meaning.zh_TW || c.meaning.zh_CN || c.meaning.zh_HK)) || '',
+              ko: (c.meaning && c.meaning.ko) || '',
+              fr: (c.meaning && c.meaning.fr) || ''
+            };
+          }
+        }
+        if (window.JLPT_VOCAB) {
+          for (const lvl of ['N5', 'N4', 'N3', 'N2', 'N1']) {
+            const list = window.JLPT_VOCAB[lvl] || [];
+            const entry = list.find(x => x.word === w);
+            if (entry) {
+              return {
+                reading: entry.reading || entry.k || entry.word,
+                en: (entry.meanings && entry.meanings.join(', ')) || ''
+              };
+            }
+          }
+        }
+        return null;
+      };
+
+      let allCustomCards = [];
+      try {
+        allCustomCards = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
+      } catch (e) { allCustomCards = []; }
+
+      rawItems.forEach(line => {
+        line = line.trim();
+        if (!line || line.startsWith('#')) return;
+        // Skip table header divider e.g. |---|---|
+        if (/^\|?\s*[-:\s|]+\s*\|?$/.test(line)) return;
+        // Skip header lines or metadata labels
+        if (/^(フラッシュカード|単語一覧|今日の単語|インポート用|コピー用|リスト用|【|#|No\.|番号)/i.test(line) || 
+            line.endsWith('インポート用:') || line.endsWith('インポート用：') || 
+            line.endsWith('一覧:') || line.endsWith('一覧：')) return;
+        if (/^\|?\s*(単語|言葉|語彙|Word|Japanese|No)\s*\|/i.test(line)) return;
+
+        // Strip leading numbers (1. / ① / (1)) and bullet points (・ / ◆ / ■ / ● / ★ / ☆ / - / *)
+        line = line.replace(/^[\(\（]?[①-⑳\d]+[\)\）\.\:\s、\-]+/, '').trim();
+        line = line.replace(/^[・◆■●★☆\-*]\s*/, '').trim();
+        if (!line) return;
+
+        // Universal column parsing
+        let parts = [];
+        if (line.includes('|')) {
+          parts = line.split('|').map(s => s.trim()).filter((s, idx, arr) => {
+            if ((idx === 0 || idx === arr.length - 1) && s === '') return false;
+            return true;
+          });
+        } else if (line.includes('\t')) {
+          parts = line.split('\t').map(s => s.trim()).filter(s => s !== '');
+        } else if (line.includes('  ') || line.includes('\u3000')) {
+          parts = line.split(/[\t\u3000]|\s{2,}/).map(s => s.trim()).filter(s => s !== '');
+        } else if (/^[^:：\s]+(?:（[^）]+）|\([^)]+\))?\s*[:：]\s*.+$/.test(line)) {
+          const colonIdx = line.search(/[:：]/);
+          parts = [line.slice(0, colonIdx).trim(), line.slice(colonIdx + 1).trim()];
+        } else if (/^[^-\s]+(?:（[^）]+）|\([^)]+\))?\s+[-–—]\s+.+$/.test(line)) {
+          const dashMatch = line.match(/^(.*?)\s+[-–—]\s+(.*)$/);
+          if (dashMatch) {
+            parts = [dashMatch[1].trim(), dashMatch[2].trim()];
+          } else {
+            parts = [line.trim()];
+          }
+        } else if (line.includes(',') || line.includes('，')) {
+          parts = line.split(/[,，]/).map(s => s.trim()).filter(s => s !== '');
         } else {
-          for (const col of cols) {
-            const c = col.trim();
-            if (!c) continue;
-            if (isJapaneseSentence(c) && !exJa) {
-              exJa = c;
-            } else if (exJa && !exTrans) {
-              exTrans = c;
-            } else if (isEnglish(c) && !parsedEn) {
-              parsedEn = c;
-            } else if (!parsedNative) {
-              parsedNative = c;
-            } else if (!parsedEn) {
-              parsedEn = c;
-            } else if (!exJa) {
-              exJa = c;
-            } else if (!exTrans) {
-              exTrans = c;
-            } else if (!related) {
-              related = c;
-            }
-          }
+          parts = [line.trim()];
         }
 
-        // Smart parser for packed bilingual meaning (e.g. "吃 (to eat)" or "去 / to go")
-        if (parsedNative && !parsedEn) {
-          const parenMatch = parsedNative.match(/^(.*?)[（\(\[](.*?)[）\)\]]$/);
-          if (parenMatch) {
-            const p1 = parenMatch[1].trim();
-            const p2 = parenMatch[2].trim();
-            if (isEnglish(p2)) {
-              parsedNative = p1 || p2;
-              parsedEn = p2;
-            } else if (isEnglish(p1)) {
-              parsedNative = p2;
-              parsedEn = p1;
-            }
-          } else if (parsedNative.includes('/')) {
-            const slashParts = parsedNative.split('/').map(s => s.trim());
-            const enPart = slashParts.find(s => isEnglish(s));
-            const nativePart = slashParts.find(s => !isEnglish(s));
-            if (enPart && nativePart) {
-              parsedEn = enPart;
-              parsedNative = nativePart;
-            }
-          }
-        }
+        if (parts.length >= 1) {
+          const rawWord = parts[0].trim();
+          if (!rawWord) return;
 
-        // Automatic fallback lookup: if either is missing, fill from dictionary
-        if (!parsedNative && parsedEn) {
-          const fb = getFallbackMeaningForWord(word, targetStudentLang);
-          if (fb) parsedNative = fb;
-        }
-        if (!parsedEn && parsedNative) {
-          if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
-            const entry = window.DICT_DATA.find(d => d.w === word);
-            if (entry && entry.m && entry.m.length > 0) {
-              parsedEn = entry.m.join(', ');
-            }
-          }
-        }
+          // 1. Extract word and reading
+          let word = rawWord;
+          let reading = '';
+          let cols = parts.slice(1);
 
-        // Determine specific language to assign
-        const activeLangKey = (importLangOption !== 'auto') ? importLangOption : (targetStudentLang !== 'en' ? targetStudentLang : 'zh_CN');
-
-        const meaningObj = {
-          en: parsedEn || parsedNative || 'Meaning',
-          ja: parsedNative || parsedEn || word,
-          zh_TW: parsedNative || parsedEn || '意思',
-          zh_CN: parsedNative || parsedEn || '意思',
-          ko: parsedNative || parsedEn || '뜻',
-          zh_HK: parsedNative || parsedEn || '意思',
-          fr: parsedEn || parsedNative || 'Sens'
-        };
-
-        // If target student or import lang is specific, tailor that slot
-        if (activeLangKey && activeLangKey !== 'en') {
-          meaningObj[activeLangKey] = parsedNative || parsedEn;
-        }
-        if (parsedEn) {
-          meaningObj.en = parsedEn;
-        }
-        if (parsedNative) {
-          if (!meaningObj.zh_TW || meaningObj.zh_TW === '意思') meaningObj.zh_TW = parsedNative;
-          if (!meaningObj.zh_CN || meaningObj.zh_CN === '意思') meaningObj.zh_CN = parsedNative;
-          if (!meaningObj.zh_HK || meaningObj.zh_HK === '意思') meaningObj.zh_HK = parsedNative;
-        }
-
-        // Find dictionary example if exJa is not explicitly provided
-        let resolvedJa = '';
-        let resolvedEn = '';
-        let resolvedZhTW = '';
-        let resolvedZhCN = '';
-        let resolvedKo = '';
-        let resolvedZhHK = '';
-        let resolvedFr = '';
-
-        if (exJa) {
-          let cleanExJa = exJa.trim();
-          let extractedExTrans = '';
-
-          // 1. Check if exJa contains a trailing foreign translation (e.g. Chinese characters or English after Japanese sentence)
-          const matchExWithTrans = cleanExJa.match(/^([\s\S]*?[。！？](?:\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)])?)\s*([^（\(]+.*)$/);
-          if (matchExWithTrans) {
-            cleanExJa = matchExWithTrans[1].trim();
-            extractedExTrans = matchExWithTrans[2].trim();
-          } else if (exTrans) {
-            extractedExTrans = exTrans.trim();
+          // Safeguard 1: Reverse order detection!
+          // If col 0 has Roman letters/Hangul or non-Japanese, but col 1 has Japanese characters, swap them!
+          const hasKanaOrKanji = (s) => /[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/.test(s);
+          const hasRomanOrForeign = (s) => /[a-zA-Z\uac00-\ud7a3āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(s);
+          if (cols.length >= 1 && hasRomanOrForeign(word) && !/[\u3040-\u309f]/.test(word) && hasKanaOrKanji(cols[0])) {
+            const temp = cols[0];
+            cols[0] = word;
+            word = temp;
           }
 
-          // 2. Strip trailing parenthesized full sentence reading e.g. "(かれはたんせいなかおかたちをしていて、とてもにんきがあります。)"
-          cleanExJa = cleanExJa.replace(/\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)]\s*$/, '').trim();
+          const match = word.match(/^(.*?)[（\(](.*?)[）\)]/);
+          if (match) {
+            word = match[1].trim();
+            reading = match[2].trim();
+          } else if (cols.length >= 2 && /^[ぁ-んァ-ヶー〜・\s]+$/.test(cols[0])) {
+            // Format where col 0 is Word and col 1 is Reading: e.g. 食べる \t たべる \t 吃 \t to eat
+            reading = cols[0].trim();
+            cols = cols.slice(1);
+          }
 
-          // 3. Convert any inline furigana like "端正（たんせい）" into "<ruby>端正<rt>たんせい</rt></ruby>"
-          cleanExJa = cleanExJa.replace(/([\u4e00-\u9faf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
+          // Safeguard 2: Ensure reading is strictly Japanese kana
+          if (reading && hasRomanOrForeign(reading)) {
+            reading = '';
+          }
 
-          resolvedJa = cleanExJa;
-          if (extractedExTrans) {
-            resolvedZhTW = extractedExTrans;
-            resolvedZhCN = extractedExTrans;
-            resolvedZhHK = extractedExTrans;
-            resolvedEn = isEnglish(extractedExTrans) ? extractedExTrans : resolvedJa;
-            resolvedKo = extractedExTrans;
-            resolvedFr = extractedExTrans;
+          // Dictionary lookup for missing reading or missing meanings
+          const dictInfo = lookupDictionary(word);
+          if (!reading && dictInfo && dictInfo.reading) {
+            reading = dictInfo.reading;
+          }
+
+          let parsedNative = '';
+          let parsedEn = '';
+          let exJa = '';
+          let exTrans = '';
+          let related = '';
+
+          // Helper detection functions
+          const isEnglish = (s) => /^[a-zA-Z0-9\s,.'"\(\)\/\-]+$/.test(s.trim()) && /[a-zA-Z]{2,}/.test(s);
+          const isJapaneseSentence = (s) => /[\u3040-\u309f]/.test(s) && (/[。、！？]/.test(s) || s.includes('A:') || s.includes('A：') || s.length > 10);
+
+          // Distribute columns intelligently
+          if (cols.length === 3 && isJapaneseSentence(cols[1])) {
+            if (isEnglish(cols[0])) {
+              parsedEn = cols[0];
+            } else {
+              parsedNative = cols[0];
+            }
+            exJa = cols[1];
+            exTrans = cols[2];
+          } else if (cols.length === 2 && isJapaneseSentence(cols[1])) {
+            if (isEnglish(cols[0])) {
+              parsedEn = cols[0];
+            } else {
+              parsedNative = cols[0];
+            }
+            exJa = cols[1];
           } else {
-            resolvedEn = resolvedJa;
-            resolvedZhTW = resolvedJa;
-            resolvedZhCN = resolvedJa;
-            resolvedKo = resolvedJa;
-            resolvedZhHK = resolvedJa;
-            resolvedFr = resolvedJa;
+            for (const col of cols) {
+              const c = col.trim();
+              if (!c) continue;
+              if (isJapaneseSentence(c) && !exJa) {
+                exJa = c;
+              } else if (exJa && !exTrans) {
+                exTrans = c;
+              } else if (isEnglish(c) && !parsedEn) {
+                parsedEn = c;
+              } else if (!parsedNative) {
+                parsedNative = c;
+              } else if (!parsedEn) {
+                parsedEn = c;
+              } else if (!exJa) {
+                exJa = c;
+              } else if (!exTrans) {
+                exTrans = c;
+              } else if (!related) {
+                related = c;
+              }
+            }
           }
-        }
 
-        if (!resolvedJa) {
-          const dictMap = window.DICT_EXAMPLES_MAP || {};
-          const matchedEx = dictMap[word] || (reading ? dictMap[reading] : null);
-          if (matchedEx && matchedEx.ja) {
-            resolvedJa = matchedEx.ja;
-            resolvedEn = matchedEx.en || matchedEx.ja;
-            resolvedZhTW = matchedEx.zh_TW || matchedEx.en || matchedEx.ja;
-            resolvedZhCN = matchedEx.zh_CN || matchedEx.en || matchedEx.ja;
-            resolvedKo = matchedEx.ko || matchedEx.en || matchedEx.ja;
-            resolvedZhHK = matchedEx.zh_HK || matchedEx.en || matchedEx.ja;
-            resolvedFr = matchedEx.fr || matchedEx.en || matchedEx.ja;
+          // Smart parser for packed bilingual meaning (e.g. "吃 (to eat)" or "去 / to go")
+          if (parsedNative && !parsedEn) {
+            const parenMatch = parsedNative.match(/^(.*?)[（\(\[](.*?)[）\)\]]$/);
+            if (parenMatch) {
+              const p1 = parenMatch[1].trim();
+              const p2 = parenMatch[2].trim();
+              if (isEnglish(p2)) {
+                parsedNative = p1 || p2;
+                parsedEn = p2;
+              } else if (isEnglish(p1)) {
+                parsedNative = p2;
+                parsedEn = p1;
+              }
+            } else if (parsedNative.includes('/')) {
+              const slashParts = parsedNative.split('/').map(s => s.trim());
+              const enPart = slashParts.find(s => isEnglish(s));
+              const nativePart = slashParts.find(s => !isEnglish(s));
+              if (enPart && nativePart) {
+                parsedEn = enPart;
+                parsedNative = nativePart;
+              }
+            }
+          }
+
+          // Automatic fallback lookup if either or both are missing
+          if (!parsedEn && !parsedNative && dictInfo) {
+            if (dictInfo.en) parsedEn = dictInfo.en;
+            if (dictInfo.zh) parsedNative = dictInfo.zh;
+            if (dictInfo.ko && targetStudentLang === 'ko') parsedNative = dictInfo.ko;
+            if (dictInfo.fr && targetStudentLang === 'fr') parsedNative = dictInfo.fr;
+          }
+          if (!parsedNative && parsedEn) {
+            const fb = getFallbackMeaningForWord(word, targetStudentLang);
+            if (fb) parsedNative = fb;
+          }
+          if (!parsedEn && parsedNative) {
+            if (dictInfo && dictInfo.en) {
+              parsedEn = dictInfo.en;
+            }
+          }
+
+          if (!parsedEn && !parsedNative) {
+            parsedEn = word;
+            parsedNative = word;
+          }
+
+          // Determine specific language to assign
+          const activeLangKey = (importLangOption !== 'auto') ? importLangOption : (targetStudentLang !== 'en' ? targetStudentLang : 'zh_TW');
+
+          const meaningObj = {
+            en: parsedEn || parsedNative || 'Meaning',
+            ja: parsedNative || parsedEn || word,
+            zh_TW: parsedNative || parsedEn || '意思',
+            zh_CN: parsedNative || parsedEn || '意思',
+            ko: parsedNative || parsedEn || '뜻',
+            zh_HK: parsedNative || parsedEn || '意思',
+            fr: parsedEn || parsedNative || 'Sens'
+          };
+
+          if (activeLangKey && activeLangKey !== 'en') {
+            meaningObj[activeLangKey] = parsedNative || parsedEn;
+          }
+          if (parsedEn) {
+            meaningObj.en = parsedEn;
+          }
+          if (parsedNative) {
+            if (!meaningObj.zh_TW || meaningObj.zh_TW === '意思') meaningObj.zh_TW = parsedNative;
+            if (!meaningObj.zh_CN || meaningObj.zh_CN === '意思') meaningObj.zh_CN = parsedNative;
+            if (!meaningObj.zh_HK || meaningObj.zh_HK === '意思') meaningObj.zh_HK = parsedNative;
+          }
+
+          // Find dictionary example if exJa is not explicitly provided
+          let resolvedJa = '';
+          let resolvedEn = '';
+          let resolvedZhTW = '';
+          let resolvedZhCN = '';
+          let resolvedKo = '';
+          let resolvedZhHK = '';
+          let resolvedFr = '';
+
+          if (exJa) {
+            let cleanExJa = exJa.trim();
+            let extractedExTrans = '';
+
+            const matchExWithTrans = cleanExJa.match(/^([\s\S]*?[。！？](?:\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)])?)\s*([^（\(]+.*)$/);
+            if (matchExWithTrans) {
+              cleanExJa = matchExWithTrans[1].trim();
+              extractedExTrans = matchExWithTrans[2].trim();
+            } else if (exTrans) {
+              extractedExTrans = exTrans.trim();
+            }
+
+            cleanExJa = cleanExJa.replace(/\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)]\s*$/, '').trim();
+            cleanExJa = cleanExJa.replace(/([\u4e00-\u9faf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
+
+            resolvedJa = cleanExJa;
+            if (extractedExTrans) {
+              resolvedZhTW = extractedExTrans;
+              resolvedZhCN = extractedExTrans;
+              resolvedZhHK = extractedExTrans;
+              resolvedEn = isEnglish(extractedExTrans) ? extractedExTrans : resolvedJa;
+              resolvedKo = extractedExTrans;
+              resolvedFr = extractedExTrans;
+            } else {
+              resolvedEn = resolvedJa;
+              resolvedZhTW = resolvedJa;
+              resolvedZhCN = resolvedJa;
+              resolvedKo = resolvedJa;
+              resolvedZhHK = resolvedJa;
+              resolvedFr = resolvedJa;
+            }
+          }
+
+          if (!resolvedJa) {
+            const dictMap = window.DICT_EXAMPLES_MAP || {};
+            const matchedEx = dictMap[word] || (reading ? dictMap[reading] : null);
+            if (matchedEx && matchedEx.ja) {
+              resolvedJa = matchedEx.ja;
+              resolvedEn = matchedEx.en || matchedEx.ja;
+              resolvedZhTW = matchedEx.zh_TW || matchedEx.en || matchedEx.ja;
+              resolvedZhCN = matchedEx.zh_CN || matchedEx.en || matchedEx.ja;
+              resolvedKo = matchedEx.ko || matchedEx.en || matchedEx.ja;
+              resolvedZhHK = matchedEx.zh_HK || matchedEx.en || matchedEx.ja;
+              resolvedFr = matchedEx.fr || matchedEx.en || matchedEx.ja;
+            } else {
+              const rubyWord = reading && reading !== word ? `<ruby>${word}<rt>${reading}</rt></ruby>` : word;
+              resolvedJa = `A: ${rubyWord}について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`;
+              resolvedEn = `A: Let's talk about "${word}".<br/>B: Yes, understood!`;
+              resolvedZhTW = `A: 我們來聊聊關於「${word}」的話題吧。<br/>B: 好的，明白了！`;
+              resolvedZhCN = `A: 我们来聊聊关于「${word}」的话题吧。<br/>B: 好的，明白了！`;
+              resolvedKo = `A: "${word}"에 대해 이야기해 봅시다.<br/>B: 네, 알겠습니다!`;
+              resolvedZhHK = `A: 我哋嚟傾下關於「${word}」嘅話題啦。<br/>B: 好呀，明白！`;
+              resolvedFr = `A: Parlons de « ${word} ».<br/>B: Oui, d'accord !`;
+            }
+          }
+
+          // Card ID & deduplication
+          let cardId;
+          const existingCustom = (Array.isArray(allCustomCards) ? allCustomCards : []).find(c => c && c.word === word && !isStubCard(c) && !isCorruptedCard(c));
+          if (existingCustom && existingCustom.id) {
+            cardId = existingCustom.id;
           } else {
-            // Natural conversational placeholder instead of robotic boilerplate
-            resolvedJa = `A: <ruby>${word}<rt>${reading || word}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`;
-            resolvedEn = `A: Let's talk about "${word}".<br/>B: Yes, understood!`;
-            resolvedZhTW = `A: 我們來聊聊關於「${word}」的話題吧。<br/>B: 好的，明白了！`;
-            resolvedZhCN = `A: 我们来聊聊关于「${word}」的话题吧。<br/>B: 好的，明白了！`;
-            resolvedKo = `A: "${word}"에 대해 이야기해 봅시다.<br/>B: 네, 알겠습니다!`;
-            resolvedZhHK = `A: 我哋嚟傾下關於「${word}」嘅話題啦。<br/>B: 好呀，明白！`;
-            resolvedFr = `A: Parlons de « ${word} ».<br/>B: Oui, d'accord !`;
+            cardId = `card_${Date.now()}_${Math.random().toString(36).substr(2, 6)}__${String(word).replace(/[\/\s]/g, '')}`;
           }
-        }
 
-        // ★ IDに単語名を埋め込む（データが失われても単語名から必ず復元できるように）
-        // 重複防止：同じ単語のカスタムカードが既に存在する場合は新規IDを発行せず既存カードIDを再利用して更新
-        let cardId;
-        const existingCustom = (Array.isArray(allCustomCards) ? allCustomCards : []).find(c => c && c.word === word && !isStubCard(c) && !isCorruptedCard(c));
-        if (existingCustom && existingCustom.id) {
-          cardId = existingCustom.id;
-        } else {
-          cardId = `card_${Date.now()}_${Math.random().toString(36).substr(2, 6)}__${String(word).replace(/[\/\s]/g, '')}`;
-        }
-        const newCard = {
-          id: cardId,
-          word: word,
-          reading: reading || word,
-          category: '授業で習った言葉',
-          studentId: target === 'all' ? null : target,
-          meaning: meaningObj,
-          example: {
-            ja: resolvedJa,
-            en: resolvedEn || resolvedJa,
-            zh_TW: resolvedZhTW || resolvedJa,
-            zh_CN: resolvedZhCN || resolvedJa,
-            ko: resolvedKo || resolvedJa,
-            zh_HK: resolvedZhHK || resolvedJa,
-            fr: resolvedFr || resolvedJa
-          },
-          related: related || (reading ? `${reading}` : '重要表現')
-        };
+          const newCard = {
+            id: cardId,
+            word: word,
+            reading: reading || word,
+            category: '授業で習った言葉',
+            studentId: target === 'all' ? null : target,
+            meaning: meaningObj,
+            example: {
+              ja: resolvedJa,
+              en: resolvedEn || resolvedJa,
+              zh_TW: resolvedZhTW || resolvedJa,
+              zh_CN: resolvedZhCN || resolvedJa,
+              ko: resolvedKo || resolvedJa,
+              zh_HK: resolvedZhHK || resolvedJa,
+              fr: resolvedFr || resolvedJa
+            },
+            related: related || (reading ? `${reading}` : '重要表現')
+          };
 
-        try {
-          const stored = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
-          const exIdx = stored.findIndex(c => c.id === newCard.id);
-          if (exIdx >= 0) stored[exIdx] = newCard;
-          else stored.push(newCard);
-          localStorage.setItem('haku_all_custom_cards', JSON.stringify(stored));
-        } catch (e) {}
-        if (!vocabList.find(c => c.id === newCard.id)) {
-          vocabList.push(newCard);
+          try {
+            const stored = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
+            const exIdx = stored.findIndex(c => c.id === newCard.id);
+            if (exIdx >= 0) stored[exIdx] = newCard;
+            else stored.push(newCard);
+            localStorage.setItem('haku_all_custom_cards', JSON.stringify(stored));
+          } catch (e) {}
+
+          const vIdx = vocabList.findIndex(c => c.id === newCard.id);
+          if (vIdx >= 0) vocabList[vIdx] = newCard;
+          else vocabList.push(newCard);
+
+          recordWordNames([newCard]);
+          addedCardIds.push(cardId);
+          addedWords.push(word);
+          addedCount++;
         }
-        recordWordNames([newCard]);
-        addedCardIds.push(cardId);
-        addedWords.push(word);
-        addedCount++;
+      });
+
+      if (addedCount === 0) {
+        showImportBanner(false, '❌ エラー：単語を検出できませんでした', '貼り付けられた内容から単語を認識できませんでした。形式をご確認の上、再度お試しください。');
+        showToast('単語が検出されませんでした。形式をご確認ください');
+        return;
       }
-    });
 
-    if (addedCount === 0) {
-      showImportBanner(false, '❌ エラー：単語を検出できませんでした', '貼り付けられた内容から単語を認識できませんでした。「単語 [タブ] 意味」または「単語, 意味」の形式になっているかご確認ください。');
-      showToast('単語が検出されませんでした。形式をご確認ください');
-      return;
-    }
-
-    if (addedCount > 0) {
-      // どの生徒向けにインポートした場合でも、常にアプリのカスタム辞書マスターに登録して二度と見失わないようにする
+      // どの生徒向けにインポートした場合でも、常にアプリのカスタム辞書マスターに登録
       localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
+
+      const syncErrors = [];
 
       // Auto-add to My List and assign to requested folder!
       if (targetFolderSelect !== 'none') {
@@ -10256,7 +10400,7 @@
           ? [...students.map(s => s.id), 'guest'] 
           : [target];
 
-        recipientStudentIds.forEach(stId => {
+        for (const stId of recipientStudentIds) {
           const key = `haku_mylist_${stId}`;
           const foldersKey = `haku_mylist_folders_${stId}`;
           const mapKey = `haku_mylist_card_map_${stId}`;
@@ -10285,7 +10429,7 @@
           const setObj = new Set([...stSet, ...addedCardIds]);
           localStorage.setItem(key, JSON.stringify(Array.from(setObj)));
 
-          // Synchronize to Cloud for this student so their devices receive the new words AND the card definitions
+          // Synchronize to Cloud for this student safely through mutex with await
           if (isFirebaseReady && fbDb && stId !== 'guest') {
             const mylistCardIds = new Set(setObj);
             let studentCustomCards = [];
@@ -10296,7 +10440,7 @@
               studentCustomCards = vocabList.filter(c => mylistCardIds.has(c.id) && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c) && !c.isRebuilt);
             }
             try {
-              await syncStudentToCloudDirect(stId, {
+              const ok = await syncStudentToCloudDirect(stId, {
                 mylist: Array.from(setObj),
                 folders: stFolders,
                 cardFolderMap: stMap,
@@ -10304,11 +10448,13 @@
                 wordNames: buildWordNamesFor(Array.from(setObj)),
                 updatedAt: firebase.firestore.FieldValue.serverTimestamp()
               });
+              if (!ok) syncErrors.push(stId);
             } catch (syncErr) {
               console.warn('Sync student error during import:', syncErr);
+              syncErrors.push(stId);
             }
           }
-        });
+        }
 
         // If the current logged in student is one of the recipients, reload their mylist state immediately
         const currentId = currentStudent ? currentStudent.id : 'guest';
@@ -10322,17 +10468,31 @@
       updateActiveDeck();
 
       const targetName = (target && target !== 'all' && targetStudentObj) ? targetStudentObj.name : '全員共有デッキ';
-      const successTitle = `✅ 追加できました！（全${addedCount}件）`;
-      const successMsg = `追加先：生徒「${targetName}」のマイリスト（フォルダ：授業で習った言葉）に正常に反映されました！🌸`;
-      showImportBanner(true, successTitle, successMsg, addedWords, targetStudentObj);
-      showToast(successTitle);
+      if (syncErrors.length > 0) {
+        const warnTitle = `⚠️ 追加完了（一部クラウド同期エラー: ${syncErrors.join(', ')}）`;
+        const warnMsg = `生徒「${targetName}」の端末保存は完了しましたが、Firebaseクラウド同期で一部通信エラーが発生しました。通信環境をご確認ください。`;
+        showImportBanner(false, warnTitle, warnMsg, addedWords, targetStudentObj);
+        showToast(warnTitle);
+      } else {
+        const successTitle = `✅ 追加できました！（全${addedCount}件）`;
+        const successMsg = `追加先：生徒「${targetName}」のマイリスト（フォルダ：授業で習った言葉）に正常に反映されました！クラウド同期も完了しました☁️🌸`;
+        showImportBanner(true, successTitle, successMsg, addedWords, targetStudentObj);
+        showToast(successTitle);
+      }
 
       if (typeof renderAdminStudentList === 'function') {
         renderAdminStudentList();
       }
-    } else {
-      showImportBanner(false, '❌ エラー：フォーマットを認識できませんでした', 'テキストの形式をご確認の上、再度お試しください。');
-      showToast('フォーマットを認識できませんでした');
+    } catch (err) {
+      console.error('Fatal import error:', err);
+      showImportBanner(false, '❌ エラーが発生しました', err.message || 'インポート中にエラーが発生しました');
+      showToast('❌ エラーが発生しました');
+    } finally {
+      isImporting = false;
+      if (btnExecute) {
+        btnExecute.disabled = false;
+        btnExecute.innerHTML = originalBtnHtml;
+      }
     }
   }
 
