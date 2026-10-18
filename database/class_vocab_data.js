@@ -52638,4 +52638,214 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "〜のかわりに（授業の重要表現）"
   }
+,
+  {
+    "id": "card_0023_manten",
+    "word": "満点",
+    "reading": "まんてん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "満点",
+      "en": "perfect score, full marks",
+      "zh_TW": "滿分",
+      "ko": "만점"
+    },
+    "example": {
+      "ja": "<ruby>数学<rt>すうがく</rt></ruby>のテストで<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることができた。",
+      "en": "I was able to get a perfect score on the math test.",
+      "zh_TW": "我在數學考試中拿到了滿分。",
+      "ko": "수학 시험에서 만점을 받을 수 있었다."
+    },
+    "related": "まんてん（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_tensai",
+    "word": "天才",
+    "reading": "てんさい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "天才",
+      "en": "genius, prodigy",
+      "zh_TW": "天才",
+      "ko": "천재"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>からピアノの<ruby>天才<rt>てんさい</rt></ruby>として<ruby>知<rt>し</rt></ruby>られていた。",
+      "en": "He has been known as a piano prodigy since he was young.",
+      "zh_TW": "他從小就被稱為鋼琴天才。",
+      "ko": "그는 어린 시절부터 피아노 천재로 알려져 있었다."
+    },
+    "related": "てんさい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_souko",
+    "word": "倉庫",
+    "reading": "そうこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "倉庫",
+      "en": "warehouse, storehouse",
+      "zh_TW": "倉庫",
+      "ko": "창고"
+    },
+    "example": {
+      "ja": "<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>家具<rt>かぐ</rt></ruby>や<ruby>季節<rt>きせつ</rt></ruby>の<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>片付<rt>かたづ</rt></ruby>けた。",
+      "en": "I stored unused furniture and seasonal tools away in the storage room.",
+      "zh_TW": "把不再使用的家具和季節性用具整理收進了倉庫。",
+      "ko": "사용하지 않게 된 가구와 계절 용품을 창고에 정리했다."
+    },
+    "related": "そうこ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_otoshita",
+    "word": "落とした",
+    "reading": "おとした",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "落とした",
+      "en": "dropped, lost",
+      "zh_TW": "掉落、弄丟了",
+      "ko": "떨어뜨렸다, 잃어버렸다"
+    },
+    "example": {
+      "ja": "<ruby>歩<rt>ある</rt></ruby>いている<ruby>途中<rt>とちゅう</rt></ruby>で、ポケットから<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまった。",
+      "en": "While walking, I accidentally dropped my wallet out of my pocket.",
+      "zh_TW": "在走路途中，錢包不小心從口袋裡掉出來了。",
+      "ko": "걷는 도중에 주머니에서 지갑을 떨어뜨려 버렸다."
+    },
+    "related": "おとした（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_burikko",
+    "word": "ぶりっ子",
+    "reading": "ぶりっこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "ぶりっ子",
+      "en": "girl playing dumb/cute, feigning innocence",
+      "zh_TW": "裝可愛的女生、做作女",
+      "ko": "귀여운 척하는 사람, 내숭쟁이"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。",
+      "en": "Whenever she is around men, she suddenly acts all cute and helpless.",
+      "zh_TW": "她一到了男生面前，就會突然裝起可愛來。",
+      "ko": "그녀는 남자 앞에 가면 갑자기 애교를 부린다."
+    },
+    "related": "ぶりっこ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_damasareru",
+    "word": "騙される",
+    "reading": "だまされる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "騙される",
+      "en": "to be deceived, to be tricked",
+      "zh_TW": "被騙、受騙",
+      "ko": "속다, 사기당하다"
+    },
+    "example": {
+      "ja": "<ruby>甘<rt>あま</rt></ruby>い<ruby>投資話<rt>とうしばなし</rt></ruby>に<ruby>騙<rt>だま</rt></ruby>されて、<ruby>大金<rt>たいきん</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>ってしまった。",
+      "en": "I was deceived by an enticing investment story and lost a large sum of money.",
+      "zh_TW": "被誘人的投資話術所騙，損失了一大筆錢。",
+      "ko": "달콤한 투자 권유에 속아 큰돈을 잃어버렸다."
+    },
+    "related": "だまされる（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_karimenkyo",
+    "word": "仮免許",
+    "reading": "かりめんきょ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "仮免許",
+      "en": "learner's permit, provisional driving license",
+      "zh_TW": "學習駕照、臨時駕照",
+      "ko": "임시 운전면허, 연습 면허"
+    },
+    "example": {
+      "ja": "<ruby>仮免許<rt>かりめんきょ</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>一発<rt>いっぱつ</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>から<ruby>路上教習<rt>ろじょうきょうしゅう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる。",
+      "en": "I passed the learner's permit test on my first try, and on-road driving lessons start tomorrow.",
+      "zh_TW": "我一次就考過了臨時駕照考試，明天開始上路練習。",
+      "ko": "연습 면허 시험에 한 번에 합격해서 내일부터 도로 주행 교육이 시작된다."
+    },
+    "related": "かりめんきょ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_shuukan",
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "習慣",
+      "en": "habit, custom",
+      "zh_TW": "習慣",
+      "ko": "습관"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら<ruby>白湯<rt>さゆ</rt></ruby>を<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むのが<ruby>私<rt>わたし</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>だ。",
+      "en": "Drinking a cup of warm water every morning upon waking up is my habit.",
+      "zh_TW": "每天早上起床後喝一杯溫開水是我的習慣。",
+      "ko": "매일 아침 일어나면 따뜻한 물 한 잔을 마시는 것이 나의 습관이다."
+    },
+    "related": "しゅうかん（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_kitanai",
+    "word": "汚い",
+    "reading": "きたない",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "汚い",
+      "en": "dirty, filthy, underhanded",
+      "zh_TW": "髒的、不乾淨的、骯髒卑鄙的",
+      "ko": "더럽다, 지저분하다, 치사하다"
+    },
+    "example": {
+      "ja": "<ruby>泥遊<rt>どろあそ</rt></ruby>びをしたので、<ruby>服<rt>ふく</rt></ruby>も<ruby>手<rt>て</rt></ruby>も<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>に<ruby>汚<rt>きたな</rt></ruby>い。",
+      "en": "Since I played in the mud, both my clothes and hands are pitch-black dirty.",
+      "zh_TW": "因為玩了泥巴，衣服和手都髒得黑漆漆的。",
+      "ko": "흙장난을 해서 옷도 손도 새까맣게 더럽다."
+    },
+    "related": "きたない（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_chirakatteiru",
+    "word": "散らかっている",
+    "reading": "ちらかっている",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "散らかっている",
+      "en": "messy, cluttered, scattered around",
+      "zh_TW": "凌亂、散落一地",
+      "ko": "어질러져 있다, 널려 있다"
+    },
+    "example": {
+      "ja": "<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>服<rt>ふく</rt></ruby>や<ruby>本<rt>ほん</rt></ruby>が<ruby>散<rt>ち</rt></ruby>らかっていて、<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>ば</rt></ruby>もない。",
+      "en": "Clothes and books are scattered all over the room, leaving nowhere even to step.",
+      "zh_TW": "房間裡到處散落著衣服和書本，連落腳的地方都沒有。",
+      "ko": "방 안에 옷과 책이 널려 있어서 발 디딜 틈도 없다."
+    },
+    "related": "ちらかっている（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_shitsugyouritsu",
+    "word": "失業率",
+    "reading": "しつぎょうりつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "失業率",
+      "en": "unemployment rate",
+      "zh_TW": "失業率",
+      "ko": "실업률"
+    },
+    "example": {
+      "ja": "<ruby>景気<rt>けいき</rt></ruby>の<ruby>悪化<rt>あっか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>国内<rt>こくない</rt></ruby>の<ruby>完全失業率<rt>かんぜんしつぎょうりつ</rt></ruby>が<ruby>上昇<rt>じょうしょう</rt></ruby>した。",
+      "en": "Accompanied by the economic downturn, the domestic unemployment rate rose.",
+      "zh_TW": "隨著景氣惡化，國內的完全失業率上升了。",
+      "ko": "경기 악화에 따라 국내의 완전 실업률이 상승했다."
+    },
+    "related": "しつぎょうりつ（授業の重要表現）"
+  }
 ];

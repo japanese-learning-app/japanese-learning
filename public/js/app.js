@@ -4539,6 +4539,412 @@
   }
 ];
 
+  const ARUN_NEW_CARD_IDS = ["card_0023_shitami", "card_0023_suugakusha", "card_0023_houritsu", "card_0023_irairasuru", "card_0023_koukai", "card_0023_hikoukai", "card_0023_okodukai", "card_0023_koukai_regret", "card_0023_kuchipaku", "card_0023_nokawarini", "card_0023_manten", "card_0023_tensai", "card_0023_souko", "card_0023_otoshita", "card_0023_burikko", "card_0023_damasareru", "card_0023_karimenkyo", "card_0023_shuukan", "card_0023_kitanai", "card_0023_chirakatteiru", "card_0023_shitsugyouritsu"];
+
+  const ARUN_CURATED_CARDS = [
+  {
+    "id": "card_0023_shitami",
+    "word": "下見",
+    "reading": "したみ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "下見",
+      "en": "preview, preliminary inspection, viewing (property)",
+      "zh_TW": "預先查看、勘查、看房",
+      "ko": "사전 답사, 미리 보기"
+    },
+    "example": {
+      "ja": "<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>を<ruby>下見<rt>したみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "I went to preview the wedding venue.",
+      "zh_TW": "去預先查看了婚禮會場。",
+      "ko": "결혼식장을 사전 답사하러 갔습니다."
+    },
+    "related": "したみ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_suugakusha",
+    "word": "数学者",
+    "reading": "すうがくしゃ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "数学者",
+      "en": "mathematician",
+      "zh_TW": "數學家",
+      "ko": "수학자"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>世界的<rt>せかいてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>数学者<rt>すうがくしゃ</rt></ruby>として<ruby>知<rt>し</rt></ruby>られています。",
+      "en": "He is known as a world-famous mathematician.",
+      "zh_TW": "他作為世界聞名的數學家而廣為人知。",
+      "ko": "그는 세계적으로 유명한 수학자로 알려져 있습니다."
+    },
+    "related": "すうがくしゃ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_houritsu",
+    "word": "法律",
+    "reading": "ほうりつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "法律",
+      "en": "law, legislation",
+      "zh_TW": "法律",
+      "ko": "법률"
+    },
+    "example": {
+      "ja": "<ruby>国民<rt>こくみん</rt></ruby>は<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>義務<rt>ぎむ</rt></ruby>があります。",
+      "en": "Citizens have an obligation to abide by the law.",
+      "zh_TW": "國民有遵守法律的義務。",
+      "ko": "국민은 법률을 준수할 의무가 있습니다."
+    },
+    "related": "ほうりつ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_irairasuru",
+    "word": "イライラする",
+    "reading": "いらいらする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "イライラする",
+      "en": "to feel irritated, to be frustrated, to lose patience",
+      "zh_TW": "焦躁不安、惱火、心煩",
+      "ko": "안달하다, 짜증나다"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れていて、だんだんイライラしてきました。",
+      "en": "The train was delayed, and I gradually started to get irritated.",
+      "zh_TW": "電車延誤了，讓人漸漸感到焦躁惱火。",
+      "ko": "전철이 늦어져서 점점 짜증이 나기 시작했습니다."
+    },
+    "related": "いらいらする（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_koukai",
+    "word": "公開",
+    "reading": "こうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "公開",
+      "en": "opening to the public, public release, disclosure",
+      "zh_TW": "公開、上映、對外開放",
+      "ko": "공개"
+    },
+    "example": {
+      "ja": "<ruby>話題<rt>わだい</rt></ruby>の<ruby>新作映画<rt>しんさくえいが</rt></ruby>が<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>に<ruby>公開<rt>こうかい</rt></ruby>されます。",
+      "en": "The much-talked-about new movie will be released in theaters next Friday.",
+      "zh_TW": "備受熱議的新電影將於下週五上映。",
+      "ko": "화제의 신작 영화가 다음 주 금요일에 개봉(공개)됩니다."
+    },
+    "related": "こうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_hikoukai",
+    "word": "非公開",
+    "reading": "ひこうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "非公開",
+      "en": "private, closed to the public, undisclosed",
+      "zh_TW": "不公開、非公開、私人",
+      "ko": "비공개"
+    },
+    "example": {
+      "ja": "プライバシーを<ruby>守<rt>まも</rt></ruby>るために、SNSのアカウントを<ruby>非公開<rt>ひこうかい</rt></ruby>にしています。",
+      "en": "To protect my privacy, I keep my social media account set to private.",
+      "zh_TW": "為了保護隱私，我把SNS帳號設為不公開。",
+      "ko": "사생활을 보호하기 위해 SNS 계정을 비공개로 해 두고 있습니다."
+    },
+    "related": "ひこうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_okodukai",
+    "word": "お小遣い",
+    "reading": "おこづかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "お小遣い",
+      "en": "pocket money, allowance, spending money",
+      "zh_TW": "零用錢",
+      "ko": "용돈"
+    },
+    "example": {
+      "ja": "<ruby>毎月<rt>まいつき</rt></ruby>1<ruby>日<rt>ついたち</rt></ruby>に<ruby>親<rt>おや</rt></ruby>からお<ruby>小遣<rt>こづか</rt></ruby>いをもらいます。",
+      "en": "I receive an allowance from my parents on the 1st of every month.",
+      "zh_TW": "每個月1號我會從父母那裡拿零用錢。",
+      "ko": "매월 1일에 부모님께 용돈을 받습니다."
+    },
+    "related": "おこづかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_koukai_regret",
+    "word": "後悔",
+    "reading": "こうかい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "後悔",
+      "en": "regret, remorse",
+      "zh_TW": "後悔",
+      "ko": "후회"
+    },
+    "example": {
+      "ja": "<ruby>若<rt>わか</rt></ruby>い<ruby>時<rt>とき</rt></ruby>にもっと<ruby>勉強<rt>べんきょう</rt></ruby>しておけばよかったと<ruby>後悔<rt>こうかい</rt></ruby>しています。",
+      "en": "I regret that I didn't study more when I was younger.",
+      "zh_TW": "我很後悔年輕時沒有多用功讀書。",
+      "ko": "젊었을 때 좀 더 공부해 둘 걸 그랬다고 후회하고 있습니다."
+    },
+    "related": "こうかい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_kuchipaku",
+    "word": "口パク",
+    "reading": "くちぱく",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "口パク",
+      "en": "lip-syncing, mouthing words silently",
+      "zh_TW": "對嘴、假唱、動嘴型不出聲",
+      "ko": "립싱크, 벙긋거림"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>はライブコンサートで<ruby>口<rt>くち</rt></ruby>パクをしていたと<ruby>批判<rt>ひはん</rt></ruby>された。",
+      "en": "He was criticized for lip-syncing at the live concert.",
+      "zh_TW": "他因為在現場演唱會上對嘴假唱而受到批評。",
+      "ko": "그는 라이브 콘서트에서 립싱크를 했다고 비판을 받았다."
+    },
+    "related": "くちぱく（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_nokawarini",
+    "word": "〜の代わりに",
+    "reading": "〜のかわりに",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "〜の代わりに",
+      "en": "instead of..., in place of..., on behalf of...",
+      "zh_TW": "代替……、作為……的交換",
+      "ko": "~대신에"
+    },
+    "example": {
+      "ja": "<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>した<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに、<ruby>私<rt>わたし</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。",
+      "en": "In place of the department manager who fell ill, I attended the meeting.",
+      "zh_TW": "代替身體不適的部長，我出席了會議。",
+      "ko": "컨디션이 안 좋아진 부장님 대신에 제가 회의에 참석했습니다."
+    },
+    "related": "〜のかわりに（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_manten",
+    "word": "満点",
+    "reading": "まんてん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "満点",
+      "en": "perfect score, full marks",
+      "zh_TW": "滿分",
+      "ko": "만점"
+    },
+    "example": {
+      "ja": "<ruby>数学<rt>すうがく</rt></ruby>のテストで<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることができた。",
+      "en": "I was able to get a perfect score on the math test.",
+      "zh_TW": "我在數學考試中拿到了滿分。",
+      "ko": "수학 시험에서 만점을 받을 수 있었다."
+    },
+    "related": "まんてん（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_tensai",
+    "word": "天才",
+    "reading": "てんさい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "天才",
+      "en": "genius, prodigy",
+      "zh_TW": "天才",
+      "ko": "천재"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>からピアノの<ruby>天才<rt>てんさい</rt></ruby>として<ruby>知<rt>し</rt></ruby>られていた。",
+      "en": "He has been known as a piano prodigy since he was young.",
+      "zh_TW": "他從小就被稱為鋼琴天才。",
+      "ko": "그는 어린 시절부터 피아노 천재로 알려져 있었다."
+    },
+    "related": "てんさい（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_souko",
+    "word": "倉庫",
+    "reading": "そうこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "倉庫",
+      "en": "warehouse, storehouse",
+      "zh_TW": "倉庫",
+      "ko": "창고"
+    },
+    "example": {
+      "ja": "<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>家具<rt>かぐ</rt></ruby>や<ruby>季節<rt>きせつ</rt></ruby>の<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>片付<rt>かたづ</rt></ruby>けた。",
+      "en": "I stored unused furniture and seasonal tools away in the storage room.",
+      "zh_TW": "把不再使用的家具和季節性用具整理收進了倉庫。",
+      "ko": "사용하지 않게 된 가구와 계절 용품을 창고에 정리했다."
+    },
+    "related": "そうこ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_otoshita",
+    "word": "落とした",
+    "reading": "おとした",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "落とした",
+      "en": "dropped, lost",
+      "zh_TW": "掉落、弄丟了",
+      "ko": "떨어뜨렸다, 잃어버렸다"
+    },
+    "example": {
+      "ja": "<ruby>歩<rt>ある</rt></ruby>いている<ruby>途中<rt>とちゅう</rt></ruby>で、ポケットから<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまった。",
+      "en": "While walking, I accidentally dropped my wallet out of my pocket.",
+      "zh_TW": "在走路途中，錢包不小心從口袋裡掉出來了。",
+      "ko": "걷는 도중에 주머니에서 지갑을 떨어뜨려 버렸다."
+    },
+    "related": "おとした（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_burikko",
+    "word": "ぶりっ子",
+    "reading": "ぶりっこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "ぶりっ子",
+      "en": "girl playing dumb/cute, feigning innocence",
+      "zh_TW": "裝可愛的女生、做作女",
+      "ko": "귀여운 척하는 사람, 내숭쟁이"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。",
+      "en": "Whenever she is around men, she suddenly acts all cute and helpless.",
+      "zh_TW": "她一到了男生面前，就會突然裝起可愛來。",
+      "ko": "그녀는 남자 앞에 가면 갑자기 애교를 부린다."
+    },
+    "related": "ぶりっこ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_damasareru",
+    "word": "騙される",
+    "reading": "だまされる",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "騙される",
+      "en": "to be deceived, to be tricked",
+      "zh_TW": "被騙、受騙",
+      "ko": "속다, 사기당하다"
+    },
+    "example": {
+      "ja": "<ruby>甘<rt>あま</rt></ruby>い<ruby>投資話<rt>とうしばなし</rt></ruby>に<ruby>騙<rt>だま</rt></ruby>されて、<ruby>大金<rt>たいきん</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>ってしまった。",
+      "en": "I was deceived by an enticing investment story and lost a large sum of money.",
+      "zh_TW": "被誘人的投資話術所騙，損失了一大筆錢。",
+      "ko": "달콤한 투자 권유에 속아 큰돈을 잃어버렸다."
+    },
+    "related": "だまされる（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_karimenkyo",
+    "word": "仮免許",
+    "reading": "かりめんきょ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "仮免許",
+      "en": "learner's permit, provisional driving license",
+      "zh_TW": "學習駕照、臨時駕照",
+      "ko": "임시 운전면허, 연습 면허"
+    },
+    "example": {
+      "ja": "<ruby>仮免許<rt>かりめんきょ</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>一発<rt>いっぱつ</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>から<ruby>路上教習<rt>ろじょうきょうしゅう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる。",
+      "en": "I passed the learner's permit test on my first try, and on-road driving lessons start tomorrow.",
+      "zh_TW": "我一次就考過了臨時駕照考試，明天開始上路練習。",
+      "ko": "연습 면허 시험에 한 번에 합격해서 내일부터 도로 주행 교육이 시작된다."
+    },
+    "related": "かりめんきょ（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_shuukan",
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "習慣",
+      "en": "habit, custom",
+      "zh_TW": "習慣",
+      "ko": "습관"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら<ruby>白湯<rt>さゆ</rt></ruby>を<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むのが<ruby>私<rt>わたし</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>だ。",
+      "en": "Drinking a cup of warm water every morning upon waking up is my habit.",
+      "zh_TW": "每天早上起床後喝一杯溫開水是我的習慣。",
+      "ko": "매일 아침 일어나면 따뜻한 물 한 잔을 마시는 것이 나의 습관이다."
+    },
+    "related": "しゅうかん（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_kitanai",
+    "word": "汚い",
+    "reading": "きたない",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "汚い",
+      "en": "dirty, filthy, underhanded",
+      "zh_TW": "髒的、不乾淨的、骯髒卑鄙的",
+      "ko": "더럽다, 지저분하다, 치사하다"
+    },
+    "example": {
+      "ja": "<ruby>泥遊<rt>どろあそ</rt></ruby>びをしたので、<ruby>服<rt>ふく</rt></ruby>も<ruby>手<rt>て</rt></ruby>も<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>に<ruby>汚<rt>きたな</rt></ruby>い。",
+      "en": "Since I played in the mud, both my clothes and hands are pitch-black dirty.",
+      "zh_TW": "因為玩了泥巴，衣服和手都髒得黑漆漆的。",
+      "ko": "흙장난을 해서 옷도 손도 새까맣게 더럽다."
+    },
+    "related": "きたない（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_chirakatteiru",
+    "word": "散らかっている",
+    "reading": "ちらかっている",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "散らかっている",
+      "en": "messy, cluttered, scattered around",
+      "zh_TW": "凌亂、散落一地",
+      "ko": "어질러져 있다, 널려 있다"
+    },
+    "example": {
+      "ja": "<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>服<rt>ふく</rt></ruby>や<ruby>本<rt>ほん</rt></ruby>が<ruby>散<rt>ち</rt></ruby>らかっていて、<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>ば</rt></ruby>もない。",
+      "en": "Clothes and books are scattered all over the room, leaving nowhere even to step.",
+      "zh_TW": "房間裡到處散落著衣服和書本，連落腳的地方都沒有。",
+      "ko": "방 안에 옷과 책이 널려 있어서 발 디딜 틈도 없다."
+    },
+    "related": "ちらかっている（授業の重要表現）"
+  },
+  {
+    "id": "card_0023_shitsugyouritsu",
+    "word": "失業率",
+    "reading": "しつぎょうりつ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "ja": "失業率",
+      "en": "unemployment rate",
+      "zh_TW": "失業率",
+      "ko": "실업률"
+    },
+    "example": {
+      "ja": "<ruby>景気<rt>けいき</rt></ruby>の<ruby>悪化<rt>あっか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>国内<rt>こくない</rt></ruby>の<ruby>完全失業率<rt>かんぜんしつぎょうりつ</rt></ruby>が<ruby>上昇<rt>じょうしょう</rt></ruby>した。",
+      "en": "Accompanied by the economic downturn, the domestic unemployment rate rose.",
+      "zh_TW": "隨著景氣惡化，國內的完全失業率上升了。",
+      "ko": "경기 악화에 따라 국내의 완전 실업률이 상승했다."
+    },
+    "related": "しつぎょうりつ（授業の重要表現）"
+  }
+];
+
+
+
   const MIDORI_NEW_WORDS = new Set([
     '夜市', '自由', '楽しむ', '謳歌する',
     '攻撃', '通知', '失礼', '舌打ち',
@@ -5322,6 +5728,9 @@
     }
     if (typeof ELIIE_CURATED_CARDS !== 'undefined') {
       ELIIE_CURATED_CARDS.forEach(c => ensureCustomCard(c));
+    }
+    if (typeof ARUN_CURATED_CARDS !== 'undefined') {
+      ARUN_CURATED_CARDS.forEach(c => ensureCustomCard(c));
     }
 
     // Auto-purge any corrupted cards or seed duplicates from custom pool
@@ -6627,7 +7036,21 @@
         localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
         localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
       }
-    } else if (studentPrefix === '0023' && window.CLASS_ARUN_IDS) {
+    } else if (studentPrefix === '0023') {
+      let needsSave = false;
+      if (typeof ARUN_NEW_CARD_IDS !== 'undefined') {
+        ARUN_NEW_CARD_IDS.forEach(cId => {
+          if (!mylistSet.has(cId)) {
+            mylistSet.add(cId);
+            needsSave = true;
+          }
+          if (!mylistCardFolderMap[cId]) {
+            mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+            needsSave = true;
+          }
+        });
+      }
+      if (window.CLASS_ARUN_IDS) {
       let needsSave = false;
       window.CLASS_ARUN_IDS.forEach(cId => {
         if (!mylistSet.has(cId)) {
@@ -8743,6 +9166,10 @@
       const eCurated = ELIIE_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
       if (eCurated) return eCurated;
     }
+    if (typeof ARUN_CURATED_CARDS !== 'undefined') {
+      const aCurated = ARUN_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
+      if (aCurated) return aCurated;
+    }
     // 1. Check current in-memory vocabList
     let found = vocabList.find(c => (c.id === cardId || c.word === cardId) && !isStubCard(c));
     if (found) return found;
@@ -9486,7 +9913,7 @@
   }
 
   // --- Batch Import Logic for Haku-sensei ---
-  function executeImport() {
+  async function executeImport() {
     const rawText = document.getElementById('adminImportText').value.trim();
     const target = document.getElementById('adminTargetStudent').value;
     const targetFolderSelect = document.getElementById('adminImportFolderSelect')?.value || 'folder_class_words';
@@ -9868,14 +10295,18 @@
             } catch (e) {
               studentCustomCards = vocabList.filter(c => mylistCardIds.has(c.id) && isCustomCardId(c.id) && c.section_num === undefined && !isStubCard(c) && !c.isRebuilt);
             }
-            syncStudentToCloudDirect(stId, {
-              mylist: Array.from(setObj),
-              folders: stFolders,
-              cardFolderMap: stMap,
-              customCards: studentCustomCards,
-              wordNames: buildWordNamesFor(Array.from(setObj)),
-              updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-            });
+            try {
+              await syncStudentToCloudDirect(stId, {
+                mylist: Array.from(setObj),
+                folders: stFolders,
+                cardFolderMap: stMap,
+                customCards: studentCustomCards,
+                wordNames: buildWordNamesFor(Array.from(setObj)),
+                updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+              });
+            } catch (syncErr) {
+              console.warn('Sync student error during import:', syncErr);
+            }
           }
         });
 
