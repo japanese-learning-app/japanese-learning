@@ -7,6 +7,8 @@ print("=== Compiling High-Precision N2 Vocab Quiz Dataset ===")
 
 kks = pykakasi.kakasi()
 
+from fix_all_rubies import fix_rubies_in_text
+
 def to_ruby(text):
     if not text:
         return ""
@@ -21,7 +23,8 @@ def to_ruby(text):
             parts.append(f"<ruby>{orig}<rt>{hira}</rt></ruby>")
         else:
             parts.append(orig)
-    return "".join(parts)
+    raw_ruby = "".join(parts)
+    return fix_rubies_in_text(raw_ruby)
 
 # Load Doc1 clean parsed
 with open('/tmp/doc1_clean_parsed.json') as f:

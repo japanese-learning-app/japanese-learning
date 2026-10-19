@@ -217,7 +217,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "See you tomorrow"
     },
     "example": {
-      "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さん、<ruby>今日<rt>こんにち</rt></ruby>はお<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。<br/>B: <ruby>鈴木<rt>すずき</rt></ruby>さんもお<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。また<ruby>明日<rt>あした</rt></ruby>！",
+      "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さん、<ruby>今日<rt>きょう</rt></ruby>はお<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。<br/>B: <ruby>鈴木<rt>すずき</rt></ruby>さんもお<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。また<ruby>明日<rt>あした</rt></ruby>！",
       "en": "A: Tanaka-san, thank you for your hard work today.\nB: You too, Suzuki-san. See you tomorrow!",
       "zh_TW": "A: 田中先生，今天辛苦了。<br/>B: 鈴木先生也辛苦了。明天見！",
       "zh_CN": "A: 田中先生，今天辛苦了。<br/>B: 铃木先生也辛苦了。明天见！",
@@ -609,7 +609,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to review"
     },
     "example": {
-      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後で<rt>あとで</rt></ruby>、<ruby>習<rt>なら</rt></ruby>った<ruby>単語<rt>たんご</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby>をします。<br/><ruby>覚<rt>おぼ</rt></ruby>えるのが<ruby>早<rt>はや</rt></ruby>くなりますよ。",
+      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で、<ruby>習<rt>なら</rt></ruby>った<ruby>単語<rt>たんご</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby>をします。<br/><ruby>覚<rt>おぼ</rt></ruby>えるのが<ruby>早<rt>はや</rt></ruby>くなりますよ。",
       "en": "After class, I review the learned words.<br>It helps me memorize faster.",
       "zh_TW": "下課後複習學過的單字。<br>會記得更快喔。",
       "zh_CN": "下課後複習學過的單字。<br>會記得更快喔。",
@@ -1813,7 +1813,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "I'm home"
     },
     "example": {
-      "ja": "ただいま<ruby>帰<rt>かえ</rt></ruby>りました！<br/>おかえりなさい、<ruby>今日<rt>きょう</rt></ruby>も<ruby>一日<rt>ついたち</rt></ruby>お<ruby>疲れ様<rt>つかれさま</rt></ruby>。",
+      "ja": "ただいま<ruby>帰<rt>かえ</rt></ruby>りました！<br/>おかえりなさい、<ruby>今日<rt>きょう</rt></ruby>も<ruby>一日<rt>いちにち</rt></ruby>お<ruby>疲れ様<rt>つかれさま</rt></ruby>。",
       "en": "I'm home!<br>Welcome back, good job today.",
       "zh_TW": "我回來了！<br>歡迎回來，今天一天也辛苦了。",
       "zh_CN": "我回來了！<br>歡迎回來，今天一天也辛苦了。",
@@ -3381,7 +3381,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "home,house"
     },
     "example": {
-      "ja": "<ruby>今日<rt>こんにち</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいです。",
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいです。",
       "en": "I'm tired today, so I want to go home early and take a bath.",
       "zh_TW": "今天好累，想早點回家泡個熱水澡。",
       "zh_CN": "今天好累，想早点回家泡个热水澡。",
@@ -6182,7 +6182,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "mouth"
     },
     "example": {
-      "ja": "<ruby>食<rt>た</rt></ruby>べるときは、<ruby>口<rt>くち</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じて<ruby>静か<rt>しずか</rt></ruby>に<ruby>噛<rt>か</rt></ruby>みましょう。",
+      "ja": "<ruby>食<rt>た</rt></ruby>べるときは、<ruby>口<rt>くち</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じて<ruby>静<rt>しず</rt></ruby>かに<ruby>噛<rt>か</rt></ruby>みましょう。",
       "en": "When eating, please close your mouth and chew quietly.",
       "zh_TW": "吃東西的時候，請把嘴巴閉上安靜地咀嚼。",
       "zh_CN": "吃东西的时候，请把嘴巴闭上安静地咀嚼。",
@@ -8562,7 +8562,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "night"
     },
     "example": {
-      "ja": "<ruby>夜<rt>よる</rt></ruby>は<ruby>静か<rt>しずか</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>過<rt>す</rt></ruby>ごします。<br/><ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>時間<rt>じかん</rt></ruby>ですね。",
+      "ja": "<ruby>夜<rt>よる</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かに<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>過<rt>す</rt></ruby>ごします。<br/><ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>時間<rt>じかん</rt></ruby>ですね。",
       "en": "At night I spend time quietly reading books.<br>It's relaxing time.",
       "zh_TW": "夜晚安靜地看書度過。<br>令人平靜的時光呢。",
       "zh_CN": "夜晚安靜地看書度過。<br>令人平靜的時光呢。",
@@ -8674,7 +8674,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "every evening / every night"
     },
     "example": {
-      "ja": "<ruby>毎晩<rt>まいばん</rt></ruby>お<ruby>風呂<rt>ふろ</rt></ruby>にゆっくり<ruby>浸<rt>つ</rt></ruby>かります。<br/><ruby>一日<rt>ついたち</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れが<ruby>取<rt>と</rt></ruby>れますね。",
+      "ja": "<ruby>毎晩<rt>まいばん</rt></ruby>お<ruby>風呂<rt>ふろ</rt></ruby>にゆっくり<ruby>浸<rt>つ</rt></ruby>かります。<br/><ruby>一日<rt>いちにち</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れが<ruby>取<rt>と</rt></ruby>れますね。",
       "en": "Every night I take a long bath.<br>It takes away the fatigue of the day.",
       "zh_TW": "每天晚上泡個舒服的澡。<br>能消除一整天的疲勞呢。",
       "zh_CN": "每天晚上泡個舒服的澡。<br>能消除一整天的疲勞呢。",
@@ -8814,7 +8814,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "break / day off / holiday"
     },
     "example": {
-      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みです。<br/><ruby>一日<rt>ついたち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のんびりします。",
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みです。<br/><ruby>一日中<rt>いちにちじゅう</rt></ruby>のんびりします。",
       "en": "Tomorrow is my day off from work.<br>I'll relax all day.",
       "zh_TW": "明天不用上班放假。<br>要整天悠悠閒閒的。",
       "zh_CN": "明天不用上班放假。<br>要整天悠悠閒閒的。",
@@ -11642,7 +11642,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "still"
     },
     "example": {
-      "ja": "まだ<ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>なので、<ruby>後で<rt>あとで</rt></ruby>かけ<ruby>直<rt>なお</rt></ruby>しますね。<br/>はい、お<ruby>仕事<rt>しごと</rt></ruby>がんばってください。",
+      "ja": "まだ<ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>なので、<ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね。<br/>はい、お<ruby>仕事<rt>しごと</rt></ruby>がんばってください。",
       "en": "I am still working, so I will call you back later.<br>Yes, please do your best at work.",
       "zh_TW": "我還在工作中，稍後再回電給您喔。<br>好的，工作請加油。",
       "zh_CN": "我還在工作中，稍後再回電給您喔。<br>好的，工作請加油。",
@@ -11894,7 +11894,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "often / frequently"
     },
     "example": {
-      "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>はよく<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/><ruby>静か<rt>しずか</rt></ruby>で<ruby>集中<rt>しゅうちゅう</rt></ruby>できますね。",
+      "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>はよく<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/><ruby>静<rt>しず</rt></ruby>かで<ruby>集中<rt>しゅうちゅう</rt></ruby>できますね。",
       "en": "On days off I often go to the library to study.<br>It's quiet and I can concentrate.",
       "zh_TW": "放假時我常去圖書館念書。<br>很安靜能集中精神呢。",
       "zh_CN": "放假時我常去圖書館念書。<br>很安靜能集中精神呢。",
@@ -17634,7 +17634,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "sunny / clear sky"
     },
     "example": {
-      "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうですか？<br/>B: <ruby>明日<rt>あした</rt></ruby>は<ruby>一日<rt>ついたち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>すっきりと<ruby>晴<rt>は</rt></ruby>れる<ruby>予報<rt>よほう</rt></ruby>です。",
+      "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうですか？<br/>B: <ruby>明日<rt>あした</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby>すっきりと<ruby>晴<rt>は</rt></ruby>れる<ruby>予報<rt>よほう</rt></ruby>です。",
       "en": "A: How is tomorrow's weather?<br/>B: It is forecast to be clearly sunny all day tomorrow.",
       "zh_TW": "A: 明天的天氣如何？<br/>B: 氣象預報明天一整天都會是晴空萬里的晴天。",
       "zh_CN": "A: 明天的天气如何？<br/>B: 气象预报明天一整天都会是晴空万里的晴天。",
@@ -18194,7 +18194,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to turn off"
     },
     "example": {
-      "ja": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にテレビの<ruby>電源<rt>でんげん</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。<br/><ruby>静か<rt>しずか</rt></ruby>になりました。",
+      "ja": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にテレビの<ruby>電源<rt>でんげん</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。<br/><ruby>静<rt>しず</rt></ruby>かになりました。",
       "en": "I turn off the TV power before sleeping.<br>It has become quiet.",
       "zh_TW": "睡前把電視關掉。<br>變安靜了。",
       "zh_CN": "睡前把電視關掉。<br>變安靜了。",
@@ -20126,7 +20126,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to begin / to start (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっているので、<ruby>静か<rt>しずか</rt></ruby>に<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>りましょう。<br/><ruby>急<rt>いそ</rt></ruby>いで<ruby>入<rt>はい</rt></ruby>ります。",
+      "ja": "<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっているので、<ruby>静<rt>しず</rt></ruby>かに<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>りましょう。<br/><ruby>急<rt>いそ</rt></ruby>いで<ruby>入<rt>はい</rt></ruby>ります。",
       "en": "The movie has started, so let's quietly sit in our seats.<br>Let's enter quickly.",
       "zh_TW": "電影已經開始了，安靜地坐在位子上吧。<br>趕緊進去。",
       "zh_CN": "電影已經開始了，安靜地坐在位子上吧。<br>趕緊進去。",
@@ -20910,7 +20910,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to be able to hear / can hear (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>遠<rt>とお</rt></ruby>くから<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>走<rt>はし</rt></ruby>る<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきます。<br/><ruby>静か<rt>しずか</rt></ruby>な<ruby>夜<rt>よる</rt></ruby>ですね。",
+      "ja": "<ruby>遠<rt>とお</rt></ruby>くから<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>走<rt>はし</rt></ruby>る<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきます。<br/><ruby>静<rt>しず</rt></ruby>かな<ruby>夜<rt>よる</rt></ruby>ですね。",
       "en": "The sound of a train running can be heard from far away.<br>It's a quiet night.",
       "zh_TW": "從遠方傳來電車行駛的聲音。<br>真是安靜的夜晚呢。",
       "zh_CN": "從遠方傳來電車行駛的聲音。<br>真是安靜的夜晚呢。",
@@ -22982,7 +22982,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "short"
     },
     "example": {
-      "ja": "<ruby>楽<rt>たの</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby>はあっという<ruby>間<rt>ま</rt></ruby>に<ruby>過<rt>す</rt></ruby>ぎて、<ruby>一日<rt>ついたち</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられますね。",
+      "ja": "<ruby>楽<rt>たの</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby>はあっという<ruby>間<rt>ま</rt></ruby>に<ruby>過<rt>す</rt></ruby>ぎて、<ruby>一日<rt>いちにち</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられますね。",
       "en": "Fun times fly by in a flash, making the whole day feel so short.",
       "zh_TW": "歡樂的時光一轉眼就過去了，讓人覺得一天好短暫呢。",
       "zh_CN": "欢乐的时光一转眼就过去了，让人觉得一天好短暂呢。",
@@ -23766,7 +23766,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "feel stiff shoulders"
     },
     "example": {
-      "ja": "<ruby>一日<rt>ついたち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>パソコン<ruby>作業<rt>さぎょう</rt></ruby>をして<ruby>肩<rt>かた</rt></ruby>がこるので、ストレッチをします。<br/>ほぐれますね。",
+      "ja": "<ruby>一日中<rt>いちにちじゅう</rt></ruby>パソコン<ruby>作業<rt>さぎょう</rt></ruby>をして<ruby>肩<rt>かた</rt></ruby>がこるので、ストレッチをします。<br/>ほぐれますね。",
       "en": "Working on the PC all day stiffens my shoulders, so I stretch.<br>It loosens up.",
       "zh_TW": "整天用電腦肩頸好僵硬痠痛，做做伸展操拉拉筋。<br>舒服放鬆多了呢。",
       "zh_CN": "整天用電腦肩頸好僵硬痠痛，做做伸展操拉拉筋。<br>舒服放鬆多了呢。",

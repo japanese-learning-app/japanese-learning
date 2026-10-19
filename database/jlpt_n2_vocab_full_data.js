@@ -48939,7 +48939,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いちにちおきに",
     "ruby": "<ruby>一日<rt>いちにち</rt></ruby>おきに",
     "meaning": "every other day",
-    "ex_ja": "A: 「こちらの<ruby>一日<rt>ついたち</rt></ruby>おきにについて<ruby>詳<rt>くわ</rt></ruby>しく<ruby>教<rt>おし</rt></ruby>えていただけますか。」\nB: 「はい、わかりやすくご<ruby>説明<rt>せつめい</rt></ruby>いたしますね。」",
+    "ex_ja": "A: 「こちらの<ruby>一日<rt>いちにち</rt></ruby>おきにについて<ruby>詳<rt>くわ</rt></ruby>しく<ruby>教<rt>おし</rt></ruby>えていただけますか。」\nB: 「はい、わかりやすくご<ruby>説明<rt>せつめい</rt></ruby>いたしますね。」",
     "ex_en": "A: \"Could you please tell me in detail about this every other day?\"\nB: \"Yes, I will explain it clearly for you.\""
   },
   {
@@ -53643,7 +53643,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あしたにまわす",
     "ruby": "<ruby>明日に回<rt>あしたにまわ</rt></ruby>す",
     "meaning": "to put off until tomorrow",
-    "ex_ja": "A: 「この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>急<rt>いそ</rt></ruby>ぎではないので、<ruby>明日<rt>あした</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>しましょうか。」\nB: 「そうですね、<ruby>今日<rt>こんにち</rt></ruby>は<ruby>定時<rt>ていじ</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>りましょう。」",
+    "ex_ja": "A: 「この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>急<rt>いそ</rt></ruby>ぎではないので、<ruby>明日<rt>あした</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>しましょうか。」\nB: 「そうですね、<ruby>今日<rt>きょう</rt></ruby>は<ruby>定時<rt>ていじ</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>りましょう。」",
     "ex_en": "A: \"This work isn't urgent, so shall we put it off until tomorrow?\"\nB: \"Yes, let's go home on time today.\""
   },
   {
@@ -54091,7 +54091,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きがする",
     "ruby": "<ruby>気<rt>き</rt></ruby>がする",
     "meaning": "to have a hunch, to feel that",
-    "ex_ja": "A: 「<ruby>今日<rt>こんにち</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby>よりも<ruby>風<rt>かぜ</rt></ruby>が<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>気<rt>き</rt></ruby>がしませんか。」\nB: 「ええ、<ruby>日差<rt>ひざ</rt></ruby>しも<ruby>暖<rt>あたた</rt></ruby>かくて<ruby>過<rt>す</rt></ruby>ごしやすいですね。」",
+    "ex_ja": "A: 「<ruby>今日<rt>きょう</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby>よりも<ruby>風<rt>かぜ</rt></ruby>が<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>気<rt>き</rt></ruby>がしませんか。」\nB: 「ええ、<ruby>日差<rt>ひざ</rt></ruby>しも<ruby>暖<rt>あたた</rt></ruby>かくて<ruby>過<rt>す</rt></ruby>ごしやすいですね。」",
     "ex_en": "A: \"Don't you feel the wind is gentler today than yesterday?\"\nB: \"Yes, the sunshine is warm and very pleasant.\""
   },
   {
