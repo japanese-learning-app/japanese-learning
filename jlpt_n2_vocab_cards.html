@@ -265,8 +265,14 @@
         </div>
       </div>
 
-      <!-- Right: Toggles (Furigana, Mobile Drawer Trigger) -->
-      <div class="flex items-center space-x-2 sm:space-x-3">
+      <!-- Right: Toggles (Direction, Furigana, Mobile Drawer Trigger) -->
+      <div class="flex items-center space-x-2 sm:space-x-2.5">
+        <!-- Study Direction Switcher (日→英 / 英→日) -->
+        <button id="btnStudyDirectionHeader" onclick="toggleStudyDirection()" class="flex items-center gap-1.5 bg-white/20 hover:bg-white/30 border border-white/30 px-2.5 sm:px-3 py-1 rounded-full text-white text-[11px] font-extrabold transition shadow-xs cursor-pointer active:scale-95" title="出題の向きを切り替え（日→英 / 英→日）">
+          <i data-lucide="arrow-left-right" class="w-3.5 h-3.5"></i>
+          <span id="studyDirectionHeaderLabel">日 ➔ 英</span>
+        </button>
+
         <!-- Furigana Toggle -->
         <div class="flex items-center space-x-1.5 bg-white/15 border border-white/25 px-2.5 py-1 rounded-full text-white">
           <span class="text-[11px] font-bold">ルビ</span>
@@ -343,7 +349,12 @@
           <span id="cardProgressText" class="font-black text-darkNavyText text-sm">1 / 55</span>
           <span id="cardProgressPercent" class="text-[11px] text-slate-400 font-semibold">(2%)</span>
         </div>
-        <div class="flex items-center space-x-2">
+        <div class="flex items-center space-x-1.5 sm:space-x-2">
+          <!-- Direction Mode Pill Button -->
+          <button id="btnDirectionPill" onclick="toggleStudyDirection()" class="px-2.5 py-1 rounded-xl bg-white hover:bg-lightBlueBg border border-deepNavy/30 text-deepNavy font-extrabold text-[11px] sm:text-xs flex items-center gap-1.5 shadow-2xs transition active:scale-95 cursor-pointer" title="出題の向きを切り替え（日本語を見て英語 / 英語を見て日本語）">
+            <i data-lucide="repeat" class="w-3.5 h-3.5"></i>
+            <span id="directionPillText">日本語 ➔ 英語</span>
+          </button>
           <!-- Star Toggle -->
           <button id="btnStarCurrent" onclick="toggleCurrentWordStar()" title="マイリストに追加 / 削除" class="p-1.5 rounded-full bg-white hover:bg-slate-100 border border-slate-200 text-slate-300 transition shadow-2xs">
             <i data-lucide="star" class="w-4 h-4"></i>
@@ -381,15 +392,19 @@
           <div id="cardFront" class="absolute inset-0 w-full h-full rounded-3xl p-5 bg-white flex flex-col justify-between backface-hidden">
             <div class="flex items-center justify-between">
               <span id="frontCatBadge" class="text-xs px-2.5 py-0.5 rounded-full font-bold bg-lightBlueBg text-deepNavy">名詞(1文字)</span>
-              <button onclick="event.stopPropagation(); speakWord()" class="p-2.5 rounded-full bg-deepNavy text-white shadow-sm hover:opacity-90 active:scale-95 transition" title="音声を発音">
-                <i data-lucide="volume-2" class="w-5 h-5"></i>
-              </button>
+              <div class="flex items-center gap-1.5">
+                <span id="frontModeIndicator" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-slate-100 text-slate-500">日 ➔ 英</span>
+                <button id="btnFrontSpeak" onclick="event.stopPropagation(); speakFront()" class="p-2.5 rounded-full bg-deepNavy text-white shadow-sm hover:opacity-90 active:scale-95 transition" title="音声を発音 (Google TTS)">
+                  <i data-lucide="volume-2" class="w-5 h-5"></i>
+                </button>
+              </div>
             </div>
 
             <!-- Front Center Content -->
             <div class="my-auto text-center px-4 py-6">
+              <span id="frontPromptLabel" class="text-[11px] font-extrabold text-deepNavy uppercase tracking-wider block mb-2 hidden">英語の意味 (English)</span>
               <h2 id="frontWord" class="text-4xl sm:text-6xl font-extrabold text-darkNavyText tracking-tight leading-relaxed font-jp select-text">穴</h2>
-              <p class="text-xs text-slate-400 mt-4">タップして意味・例文を確認 ⟳</p>
+              <p id="frontHint" class="text-xs text-slate-400 mt-4">タップして意味・例文を確認 ⟳</p>
             </div>
 
             <div class="text-center">
@@ -403,19 +418,19 @@
           <!-- ================= BACK FACE ================= -->
           <div id="cardBack" class="absolute inset-0 w-full h-full rounded-3xl p-5 bg-white flex flex-col justify-between rotate-y-180 backface-hidden overflow-y-auto no-scrollbar border-2 border-deepNavy">
             <div class="flex items-center justify-between pb-1.5 border-b border-slate-100">
-              <div>
+              <div id="backHeaderLeft">
                 <span id="backCatBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-lightBlueBg text-deepNavy">名詞(1文字)</span>
                 <span id="backWordHeader" class="text-sm font-bold text-darkNavyText ml-1.5 font-jp">穴</span>
                 <span id="backReadingHeader" class="text-xs text-slate-400 ml-1 font-jp">（あな）</span>
               </div>
-              <button onclick="event.stopPropagation(); speakWord()" class="p-2 rounded-full bg-slate-100 text-deepNavy hover:bg-slate-200 active:scale-95 transition" title="音声を発音">
+              <button onclick="event.stopPropagation(); speakWord()" class="p-2 rounded-full bg-slate-100 text-deepNavy hover:bg-slate-200 active:scale-95 transition" title="日本語を発音 (Google TTS)">
                 <i data-lucide="volume-2" class="w-4 h-4"></i>
               </button>
             </div>
 
             <!-- Meaning Section -->
-            <div class="my-2">
-              <span class="text-[10px] font-bold uppercase tracking-wider text-deepNavy block mb-0.5">意味・解説 (Meaning)</span>
+            <div class="my-2" id="backMeaningSection">
+              <span id="backMeaningLabel" class="text-[10px] font-bold uppercase tracking-wider text-deepNavy block mb-0.5">意味・解説 (Meaning)</span>
               <p id="backMeaning" class="text-lg font-extrabold text-darkNavyText leading-snug">hole</p>
             </div>
 
@@ -426,7 +441,7 @@
                   <i data-lucide="message-square" class="w-3.5 h-3.5 text-deepNavy"></i>
                   <span>実戦例文 (Example)</span>
                 </span>
-                <button onclick="speakExample()" class="p-1 rounded-full text-deepNavy hover:bg-white/60 active:scale-95 transition" title="例文の音声">
+                <button onclick="speakExample()" class="p-1 rounded-full text-deepNavy hover:bg-white/60 active:scale-95 transition" title="例文の音声 (Google TTS)">
                   <i data-lucide="volume-2" class="w-4 h-4"></i>
                 </button>
               </div>
@@ -516,14 +531,24 @@
     let currentIndex = 0;
     let isFlipped = false;
     let isFuriganaOn = true;
+    let studyDirection = localStorage.getItem('jlpt_n2_card_direction') || 'ja-to-en'; // 'ja-to-en' or 'en-to-ja'
 
     // Elements
     const cardEl = document.getElementById('flashcardElement');
     const frontCatBadge = document.getElementById('frontCatBadge');
     const frontWord = document.getElementById('frontWord');
+    const frontHint = document.getElementById('frontHint');
+    const frontPromptLabel = document.getElementById('frontPromptLabel');
+    const frontModeIndicator = document.getElementById('frontModeIndicator');
+    const btnFrontSpeak = document.getElementById('btnFrontSpeak');
+    const btnDirectionPill = document.getElementById('btnDirectionPill');
+    const directionPillText = document.getElementById('directionPillText');
+    const studyDirectionHeaderLabel = document.getElementById('studyDirectionHeaderLabel');
     const backCatBadge = document.getElementById('backCatBadge');
     const backWordHeader = document.getElementById('backWordHeader');
     const backReadingHeader = document.getElementById('backReadingHeader');
+    const backMeaningSection = document.getElementById('backMeaningSection');
+    const backMeaningLabel = document.getElementById('backMeaningLabel');
     const backMeaning = document.getElementById('backMeaning');
     const backExampleJa = document.getElementById('backExampleJa');
     const backExampleEn = document.getElementById('backExampleEn');
@@ -531,6 +556,33 @@
     const cardProgressPercent = document.getElementById('cardProgressPercent');
     const btnStarCurrent = document.getElementById('btnStarCurrent');
     const toast = document.getElementById('toast');
+
+    window.toggleStudyDirection = function() {
+      studyDirection = (studyDirection === 'ja-to-en') ? 'en-to-ja' : 'ja-to-en';
+      localStorage.setItem('jlpt_n2_card_direction', studyDirection);
+      updateDirectionUI();
+      isFlipped = false;
+      renderCard();
+      showToast(studyDirection === 'ja-to-en' ? 'モード：日本語 ➔ 英語（日を見て意味を想起）' : 'モード：英語 ➔ 日本語（英を見て日本語を想起）');
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+
+    function updateDirectionUI() {
+      const isEnToJa = (studyDirection === 'en-to-ja');
+      if (studyDirectionHeaderLabel) {
+        studyDirectionHeaderLabel.textContent = isEnToJa ? '英 ➔ 日' : '日 ➔ 英';
+      }
+      if (directionPillText) {
+        directionPillText.textContent = isEnToJa ? '英語 ➔ 日本語' : '日本語 ➔ 英語';
+      }
+      if (btnDirectionPill) {
+        if (isEnToJa) {
+          btnDirectionPill.className = 'px-2.5 py-1 rounded-xl bg-deepNavy text-white font-extrabold text-[11px] sm:text-xs flex items-center gap-1.5 shadow-2xs transition active:scale-95 cursor-pointer';
+        } else {
+          btnDirectionPill.className = 'px-2.5 py-1 rounded-xl bg-white hover:bg-lightBlueBg border border-deepNavy/30 text-deepNavy font-extrabold text-[11px] sm:text-xs flex items-center gap-1.5 shadow-2xs transition active:scale-95 cursor-pointer';
+        }
+      }
+    }
 
     // Storage for starred words & learned status
     function getStarredWords() {
@@ -694,15 +746,49 @@
       const item = currentDeck[currentIndex];
       const isStarred = isWordStarred(item.word);
 
-      // Front
-      frontCatBadge.textContent = item.cat_short || item.cat_name;
-      frontWord.innerHTML = item.ruby || item.word;
+      // Front & Back presentation depending on studyDirection
+      if (studyDirection === 'en-to-ja') {
+        // FRONT: English Meaning
+        frontCatBadge.textContent = item.cat_short || item.cat_name;
+        if (frontModeIndicator) frontModeIndicator.textContent = '英 ➔ 日';
+        if (frontPromptLabel) {
+          frontPromptLabel.classList.remove('hidden');
+          frontPromptLabel.textContent = '英語 (Meaning)';
+        }
+        frontWord.className = 'text-2xl sm:text-4xl font-extrabold text-deepNavy tracking-tight leading-snug font-sans select-text px-2';
+        frontWord.textContent = item.meaning || '';
+        if (frontHint) frontHint.textContent = 'この英語の日本語は？（タップして確認）⟳';
+        if (btnFrontSpeak) btnFrontSpeak.title = '英語を発音 (Google TTS)';
 
-      // Back
-      backCatBadge.textContent = item.cat_short || item.cat_name;
-      backWordHeader.textContent = item.word;
-      backReadingHeader.textContent = (item.reading && item.reading !== item.word) ? `（${item.reading}）` : '';
-      backMeaning.textContent = item.meaning || '';
+        // BACK: Japanese Answer
+        backCatBadge.textContent = item.cat_short || item.cat_name;
+        backWordHeader.textContent = '';
+        backReadingHeader.textContent = '';
+        if (backMeaningLabel) backMeaningLabel.textContent = '日本語の正解 (Japanese Answer)';
+        backMeaning.innerHTML = `
+          <div class="py-1">
+            <div class="text-3xl sm:text-4xl font-black text-darkNavyText font-jp mb-1">${item.ruby || item.word}</div>
+            ${(item.reading && item.reading !== item.word) ? `<div class="text-sm font-bold text-deepNavy font-jp">読み：${item.reading}</div>` : ''}
+          </div>
+        `;
+      } else {
+        // FRONT: Japanese Word (Default ja-to-en)
+        frontCatBadge.textContent = item.cat_short || item.cat_name;
+        if (frontModeIndicator) frontModeIndicator.textContent = '日 ➔ 英';
+        if (frontPromptLabel) frontPromptLabel.classList.add('hidden');
+        frontWord.className = 'text-4xl sm:text-6xl font-extrabold text-darkNavyText tracking-tight leading-relaxed font-jp select-text';
+        frontWord.innerHTML = item.ruby || item.word;
+        if (frontHint) frontHint.textContent = 'タップして意味・例文を確認 ⟳';
+        if (btnFrontSpeak) btnFrontSpeak.title = '日本語を発音 (Google TTS)';
+
+        // BACK: Meaning
+        backCatBadge.textContent = item.cat_short || item.cat_name;
+        backWordHeader.textContent = item.word;
+        backReadingHeader.textContent = (item.reading && item.reading !== item.word) ? `（${item.reading}）` : '';
+        if (backMeaningLabel) backMeaningLabel.textContent = '意味・解説 (Meaning)';
+        backMeaning.textContent = item.meaning || '';
+      }
+
       backExampleJa.innerHTML = item.ex_ja || '';
       backExampleEn.textContent = item.ex_en || '';
 
@@ -812,26 +898,75 @@
       }
     };
 
-    // Speech Audio TTS
+    // Speech Audio TTS (Google TTS with Web Speech Fallback)
+    let globalGoogleAudioInstance = null;
+
+    window.speakFront = function() {
+      if (!currentDeck || currentDeck.length === 0) return;
+      const item = currentDeck[currentIndex];
+      if (studyDirection === 'en-to-ja') {
+        const enText = (item.meaning || '').replace(/\([^)]*\)/g, '').split(';')[0].split('/')[0].trim() || item.meaning;
+        speakText(enText, 'en');
+      } else {
+        speakWord();
+      }
+    };
+
     window.speakWord = function() {
       if (!currentDeck || currentDeck.length === 0) return;
       const item = currentDeck[currentIndex];
-      const textToSpeak = item.word.replace(/（する）/g, 'する').split('/')[0].trim();
-      speakText(textToSpeak);
+      const textToSpeak = item.word.replace(/（する）/g, 'する').replace(/\(する\)/g, 'する').split('/')[0].trim();
+      speakText(textToSpeak, 'ja');
     };
 
     window.speakExample = function() {
       if (!currentDeck || currentDeck.length === 0) return;
       const item = currentDeck[currentIndex];
-      const plainText = (item.ex_ja || '').replace(/<[^>]+>/g, '');
-      speakText(plainText);
+      const plainText = (item.ex_ja || '').replace(/<[^>]+>/g, '').trim();
+      speakText(plainText, 'ja');
     };
 
-    function speakText(txt) {
+    function speakText(clean, lang = 'ja') {
+      if (!clean) return;
+      if (globalGoogleAudioInstance) {
+        try {
+          globalGoogleAudioInstance.pause();
+          globalGoogleAudioInstance.currentTime = 0;
+        } catch(e) {}
+      }
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+
+      // Google TTS API 呼び出し (最大200文字前後に制限されるため、長文はWeb Speech APIと自動ハイブリッド)
+      if (clean.length <= 200) {
+        try {
+          const encoded = encodeURIComponent(clean);
+          const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=${lang}&client=tw-ob&q=${encoded}`;
+          const audio = new Audio(url);
+          globalGoogleAudioInstance = audio;
+
+          const p = audio.play();
+          if (p !== undefined) {
+            p.catch(err => {
+              console.warn('Google TTS audio playback blocked or offline, falling back:', err);
+              fallbackSpeechSynthesis(clean, lang);
+            });
+          }
+          return;
+        } catch (e) {
+          console.warn('Google TTS instantiation error:', e);
+        }
+      }
+
+      fallbackSpeechSynthesis(clean, lang);
+    }
+
+    function fallbackSpeechSynthesis(txt, lang = 'ja') {
       if (!('speechSynthesis' in window)) return;
       window.speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(txt);
-      u.lang = 'ja-JP';
+      u.lang = lang === 'en' ? 'en-US' : 'ja-JP';
       u.rate = 0.95;
       window.speechSynthesis.speak(u);
     }
@@ -877,6 +1012,8 @@
         markCard(false);
       } else if (e.key === '2') {
         markCard(true);
+      } else if (e.key === 'r' || e.key === 'R') {
+        toggleStudyDirection();
       }
     });
 
@@ -901,6 +1038,7 @@
     }
 
     // Initialize
+    updateDirectionUI();
     renderSidebar();
     updateActiveCategoryHeader();
     renderUnitPills();
