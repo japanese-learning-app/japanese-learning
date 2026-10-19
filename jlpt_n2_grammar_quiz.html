@@ -6,7 +6,7 @@
 <title>JLPT N2 文法穴埋めマスター — 全1,507問 4択練習道場</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- 日本語アプリと同一のフォント構成（Inter × Noto Sans JP × 游ゴシック） -->
+<!-- 日本語アプリと同一のフォント指定（Inter × 游ゴシック × Noto Sans JP） -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -41,7 +41,6 @@
     --wrong-border: #E57373;
     --wrong-text: #C62828;
 
-    /* 日本語学習アプリと完全に同一のフォント指定 */
     --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
   }
 
@@ -90,7 +89,7 @@
   .site-header {
     background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
     color: #FFFFFF;
-    padding: 20px 20px 18px;
+    padding: 18px 20px 16px;
     box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
     position: sticky;
     top: 0;
@@ -104,7 +103,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 14px;
   }
 
   .brand-area {
@@ -212,7 +211,7 @@
     flex: 1;
   }
 
-  /* Filter & Control Bar */
+  /* Control Bar */
   .control-bar {
     background: var(--card-bg);
     border: 1px solid var(--card-border);
@@ -253,59 +252,54 @@
     border-color: var(--primary-blue);
   }
 
-  .mode-indicator {
-    font-size: 12px;
-    font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 14px;
-    background: var(--mint-cyan-light);
-    color: var(--primary-blue-dark);
-    border: 1px solid rgba(120, 177, 191, 0.4);
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-  }
-
-  .jump-group {
+  /* 演習問題数セレクター */
+  .count-selector-group {
     display: flex;
     align-items: center;
     gap: 6px;
-    font-size: 13px;
+  }
+
+  .count-btn {
+    border: 1px solid var(--card-border);
+    background: #FFFFFF;
     color: var(--text-secondary);
-    font-weight: 600;
-  }
-
-  .jump-input {
-    width: 64px;
-    padding: 6px 8px;
-    border: 1px solid var(--sakura-pink-border);
-    border-radius: 8px;
-    font-family: var(--app-font);
-    font-size: 13px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 11.5px;
     font-weight: 700;
-    text-align: center;
-    outline: none;
-    background: var(--sakura-pink-soft);
+    cursor: pointer;
+    transition: all 0.2s;
   }
 
-  .jump-input:focus {
+  .count-btn:hover {
+    border-color: var(--primary-blue-light);
+    color: var(--primary-blue-dark);
+  }
+
+  .count-btn.active {
+    background: var(--primary-blue);
+    color: #FFFFFF;
     border-color: var(--primary-blue);
   }
 
-  .jump-btn {
-    background: var(--primary-blue);
+  .resume-btn {
+    background: linear-gradient(135deg, #E8A4B2, #B8596E);
     color: #FFFFFF;
     border: none;
-    padding: 6px 12px;
-    border-radius: 8px;
+    padding: 6px 14px;
+    border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
     cursor: pointer;
-    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(184, 89, 110, 0.25);
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: transform 0.2s;
   }
 
-  .jump-btn:hover {
-    background: var(--primary-blue-dark);
+  .resume-btn:hover {
+    transform: scale(1.03);
   }
 
   /* Progress Bar */
@@ -396,7 +390,7 @@
 
   .sentence-jp {
     font-size: 22px;
-    line-height: 2.1;
+    line-height: 2.2;
     color: var(--text-primary);
     font-weight: 600;
     letter-spacing: 0.3px;
@@ -457,7 +451,7 @@
     }
     .sentence-jp {
       font-size: 19px;
-      line-height: 2.0;
+      line-height: 2.1;
     }
   }
 
@@ -479,6 +473,7 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.03);
     position: relative;
     user-select: none;
+    line-height: 1.6;
   }
 
   .choice-btn:hover:not(:disabled) {
@@ -624,43 +619,62 @@
 
   .exp-full-sentence-text {
     font-size: 16px;
-    line-height: 2.0;
+    line-height: 2.1;
     color: var(--text-primary);
     font-weight: 600;
   }
 
+  /* 似ている文法・関連表現エリア */
   .exp-similar-box {
     background: #FFFFFF;
     border: 1px solid var(--sakura-pink-border);
     border-radius: 12px;
-    padding: 12px 16px;
+    padding: 14px 16px;
     font-size: 13px;
   }
 
   .exp-similar-label {
     font-weight: 700;
     color: var(--sakura-pink-deep);
-    margin-bottom: 4px;
+    margin-bottom: 8px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 6px;
+  }
+
+  .exp-similar-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    font-weight: normal;
   }
 
   .exp-similar-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
-    margin-top: 6px;
+    gap: 8px;
   }
 
-  .sim-tag {
+  .sim-tag-btn {
     background: var(--sakura-pink-bg);
     color: var(--sakura-pink-deep);
     border: 1px solid var(--sakura-pink-border);
-    padding: 2px 10px;
-    border-radius: 12px;
-    font-size: 12px;
-    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 12.5px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .sim-tag-btn:hover {
+    background: var(--sakura-pink-deep);
+    color: #FFFFFF;
+    border-color: var(--sakura-pink-deep);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(184, 89, 110, 0.2);
   }
 
   /* Navigation Buttons */
@@ -712,6 +726,111 @@
     color: var(--text-muted);
   }
 
+  /* Toast Notification */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(50px);
+    background: rgba(44, 62, 72, 0.95);
+    color: #FFFFFF;
+    padding: 10px 22px;
+    border-radius: 30px;
+    font-size: 13.5px;
+    font-weight: 600;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    z-index: 9999;
+    pointer-events: none;
+  }
+
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+
+  /* Tag Action Modal */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    backdrop-filter: blur(3px);
+  }
+
+  .modal-overlay.open {
+    display: flex;
+  }
+
+  .modal-box {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 360px;
+    width: 90%;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+    text-align: center;
+  }
+
+  .modal-term-title {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 6px;
+  }
+
+  .modal-term-sub {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    margin-bottom: 18px;
+  }
+
+  .modal-action-btns {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .modal-action-btn {
+    border: 1px solid var(--sakura-pink-border);
+    background: var(--sakura-pink-soft);
+    color: var(--text-primary);
+    padding: 11px 16px;
+    border-radius: 12px;
+    font-size: 13.5px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .modal-action-btn:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border-color: var(--primary-blue);
+  }
+
+  .modal-close-btn {
+    margin-top: 14px;
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 6px 12px;
+  }
+
   /* Footer */
   .site-footer {
     text-align: center;
@@ -732,17 +851,20 @@
         JLPT Grammar Master
         <span class="badge-n2">N2 レベル</span>
       </div>
-      <div class="brand-sub">全195文法項目・全1,507問 穴埋め4択道場（ランダム出題）</div>
+      <div class="brand-sub">全195文法項目・全1,507問 穴埋め4択道場</div>
     </div>
     <div class="header-actions">
       <!-- ふりがな ON/OFF スイッチ（漢字の真上のルビ制御） -->
-      <div class="furigana-toggle" id="furiganaToggle" title="漢字の上のふりがな（ルビ）の表示・非表示を切り替えます">
+      <div class="furigana-toggle" id="furiganaToggle" title="問題文と選択肢の漢字の上のふりがな（ルビ）を切り替えます">
         <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
         <span class="toggle-label active" id="toggleOn">ON</span>
       </div>
       <button class="header-btn" id="reshuffleBtn" title="全問をもう一度シャッフルして最初から解きます">
         🎲 再シャッフル
       </button>
+      <a href="jlpt_practice.html" class="header-btn" title="JLPT実戦練習センターへ戻る">
+        📚 JLPTポータル
+      </a>
       <a href="index.html" class="header-btn" title="アプリのトップページへ戻る">
         🏠 TOP
       </a>
@@ -754,16 +876,30 @@
   <!-- Control Bar -->
   <div class="control-bar">
     <div class="filter-group">
-      <span class="mode-indicator" id="modeIndicator">🎲 ランダム出題中</span>
       <select id="grammarFilter" class="filter-select">
         <option value="all">全195文法（全1,507問）</option>
       </select>
+      
+      <!-- 演習数選択ピル -->
+      <div class="count-selector-group">
+        <button class="count-btn" data-count="10">10問</button>
+        <button class="count-btn" data-count="30">30問</button>
+        <button class="count-btn" data-count="50">50問</button>
+        <button class="count-btn active" data-count="0">全問</button>
+      </div>
     </div>
-    <div class="jump-group">
-      <span>第</span>
-      <input type="number" id="jumpInput" class="jump-input" min="1" max="1507" value="1">
-      <span>問 / 1507</span>
-      <button id="jumpBtn" class="jump-btn">移動</button>
+
+    <!-- 前回の続きから再開ボタン -->
+    <div style="display:flex; align-items:center; gap:8px;">
+      <button id="btnResume" class="resume-btn" style="display:none;" title="前回の学習の続きから再開します">
+        ▶ 前回の続きからする (<span id="resumeQuestionNum">1</span>問目〜)
+      </button>
+      <div class="jump-group">
+        <span>第</span>
+        <input type="number" id="jumpInput" class="jump-input" min="1" max="1507" value="1">
+        <span>問</span>
+        <button id="jumpBtn" class="jump-btn">移動</button>
+      </div>
     </div>
   </div>
 
@@ -786,7 +922,7 @@
       </div>
       <div style="display: flex; align-items: center; gap: 14px;">
         <div class="badge-qnum" id="badgeQNum">Q. 0001</div>
-        <button class="bookmark-btn" id="bookmarkBtn" title="この問題をブックマーク">★</button>
+        <button class="bookmark-btn" id="bookmarkBtn" title="この問題をマイリストに保存">★</button>
       </div>
     </div>
 
@@ -802,7 +938,7 @@
       </div>
     </div>
 
-    <!-- 4 Choices Grid -->
+    <!-- 4 Choices Grid (選択肢の漢字の上にもルビ表示) -->
     <div class="choices-grid" id="choicesGrid">
       <!-- 4 choices generated via JS -->
     </div>
@@ -828,10 +964,11 @@
         </div>
       </div>
 
-      <!-- 似ている文法・関連表現 -->
+      <!-- 似ている文法・関連表現（コピー・辞書検索・マイリスト保存対応） -->
       <div class="exp-similar-box">
         <div class="exp-similar-label">
           <span>💡 似ている文法・関連表現:</span>
+          <span class="exp-similar-hint">（タップでコピー / 辞書検索 / マイリスト保存）</span>
         </div>
         <div class="exp-similar-tags" id="expSimilarTags">
           <!-- Tags -->
@@ -853,6 +990,29 @@
     </button>
   </div>
 </main>
+
+<!-- Action Modal for Similar Grammar Tag -->
+<div class="modal-overlay" id="tagActionModal">
+  <div class="modal-box">
+    <div class="modal-term-title" id="modalTermTitle">末に</div>
+    <div class="modal-term-sub">似ている文法・関連表現のアクション</div>
+    <div class="modal-action-btns">
+      <button class="modal-action-btn" id="btnCopyTerm">
+        📋 クリップボードにコピー
+      </button>
+      <button class="modal-action-btn" id="btnSearchDict">
+        📖 内蔵辞書で検索する
+      </button>
+      <button class="modal-action-btn" id="btnSaveToMylist">
+        ⭐ マイリストに保存する
+      </button>
+    </div>
+    <button class="modal-close-btn" id="btnCloseModal">閉じる</button>
+  </div>
+</div>
+
+<!-- Toast Notification -->
+<div class="toast" id="toast">コピーしました！</div>
 
 <footer class="site-footer">
   JLPT N2 Grammar Master Study App &bull; Japanese Learning Center
@@ -884,6 +1044,7 @@
   let filteredIndices = [...masterIndices];
   let currentIndex = 0;
   let showFurigana = true;
+  let selectedLimit = 0; // 0 = all
 
   let userStats = {
     answered: 0,
@@ -891,6 +1052,23 @@
     answers: {} // realIndex: { selected: number, isCorrect: boolean }
   };
   let bookmarks = JSON.parse(localStorage.getItem('jlpt_n2_bookmarks') || '[]');
+
+  // Check saved progress
+  const savedProgress = JSON.parse(localStorage.getItem('jlpt_n2_grammar_progress') || 'null');
+  const btnResume = document.getElementById('btnResume');
+  const resumeQuestionNum = document.getElementById('resumeQuestionNum');
+
+  if (savedProgress && savedProgress.lastIndex !== undefined && savedProgress.lastIndex > 0) {
+    btnResume.style.display = 'inline-flex';
+    resumeQuestionNum.textContent = (savedProgress.lastIndex + 1);
+    if (savedProgress.masterIndices && savedProgress.masterIndices.length === data.length) {
+      masterIndices = savedProgress.masterIndices;
+      filteredIndices = [...masterIndices];
+    }
+    if (savedProgress.userStats) {
+      userStats = savedProgress.userStats;
+    }
+  }
 
   // DOM Elements
   const grammarFilter = document.getElementById('grammarFilter');
@@ -918,7 +1096,23 @@
   const toggleOn = document.getElementById('toggleOn');
   const toggleOff = document.getElementById('toggleOff');
   const reshuffleBtn = document.getElementById('reshuffleBtn');
-  const modeIndicator = document.getElementById('modeIndicator');
+  const toast = document.getElementById('toast');
+  const tagActionModal = document.getElementById('tagActionModal');
+  const modalTermTitle = document.getElementById('modalTermTitle');
+  const btnCopyTerm = document.getElementById('btnCopyTerm');
+  const btnSearchDict = document.getElementById('btnSearchDict');
+  const btnSaveToMylist = document.getElementById('btnSaveToMylist');
+  const btnCloseModal = document.getElementById('btnCloseModal');
+
+  let activeModalTerm = "";
+
+  function showToast(msg) {
+    toast.textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2000);
+  }
 
   // Populate Grammar Dropdown
   const grammarMap = new Map();
@@ -939,15 +1133,51 @@
   grammarFilter.addEventListener('change', (e) => {
     const val = e.target.value;
     if (val === 'all') {
-      filteredIndices = [...masterIndices];
-      modeIndicator.textContent = "🎲 ランダム出題中";
+      applyQuestionLimit(masterIndices, selectedLimit);
     } else {
       const gid = parseInt(val, 10);
-      filteredIndices = masterIndices.filter(i => data[i].grammar_id === gid);
-      modeIndicator.textContent = `🎯 文法 #${gid} 絞り込み中`;
+      const matches = masterIndices.filter(i => data[i].grammar_id === gid);
+      applyQuestionLimit(matches, selectedLimit);
     }
     currentIndex = 0;
     renderQuestion();
+  });
+
+  // Question count selector pills
+  function applyQuestionLimit(baseIndices, limit) {
+    if (limit > 0 && baseIndices.length > limit) {
+      filteredIndices = baseIndices.slice(0, limit);
+    } else {
+      filteredIndices = [...baseIndices];
+    }
+  }
+
+  document.querySelectorAll('.count-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.count-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedLimit = parseInt(btn.dataset.count, 10);
+      
+      const val = grammarFilter.value;
+      let base = masterIndices;
+      if (val !== 'all') {
+        const gid = parseInt(val, 10);
+        base = masterIndices.filter(i => data[i].grammar_id === gid);
+      }
+      applyQuestionLimit(base, selectedLimit);
+      currentIndex = 0;
+      renderQuestion();
+      showToast(selectedLimit === 0 ? `全 ${filteredIndices.length} 問を設定しました` : `${selectedLimit} 問演習を開始します`);
+    });
+  });
+
+  // Resume Button Click
+  btnResume.addEventListener('click', () => {
+    if (savedProgress && savedProgress.lastIndex !== undefined) {
+      currentIndex = Math.min(savedProgress.lastIndex, filteredIndices.length - 1);
+      renderQuestion();
+      showToast(`前回の続き（第 ${currentIndex + 1} 問）から再開しました！`);
+    }
   });
 
   // Furigana Toggle (漢字の真上のルビ制御)
@@ -957,10 +1187,12 @@
       document.body.classList.remove('hide-furigana');
       toggleOn.className = 'toggle-label active';
       toggleOff.className = 'toggle-label inactive';
+      showToast('ふりがなをONにしました');
     } else {
       document.body.classList.add('hide-furigana');
       toggleOn.className = 'toggle-label inactive';
       toggleOff.className = 'toggle-label active';
+      showToast('ふりがなをOFFにしました');
     }
   });
 
@@ -968,14 +1200,16 @@
   reshuffleBtn.addEventListener('click', () => {
     masterIndices = shuffleArray(data.map((_, i) => i));
     const val = grammarFilter.value;
-    if (val === 'all') {
-      filteredIndices = [...masterIndices];
-    } else {
+    let base = masterIndices;
+    if (val !== 'all') {
       const gid = parseInt(val, 10);
-      filteredIndices = masterIndices.filter(i => data[i].grammar_id === gid);
+      base = masterIndices.filter(i => data[i].grammar_id === gid);
     }
+    applyQuestionLimit(base, selectedLimit);
     currentIndex = 0;
+    saveProgress();
     renderQuestion();
+    showToast('全問題を再シャッフルしました！');
   });
 
   // Bookmark Toggle
@@ -986,9 +1220,11 @@
     if (pos >= 0) {
       bookmarks.splice(pos, 1);
       bookmarkBtn.classList.remove('active');
+      showToast('マイリストから解除しました');
     } else {
       bookmarks.push(qid);
       bookmarkBtn.classList.add('active');
+      showToast('マイリストに保存しました！');
     }
     localStorage.setItem('jlpt_n2_bookmarks', JSON.stringify(bookmarks));
   });
@@ -1039,6 +1275,15 @@
     }
   });
 
+  function saveProgress() {
+    localStorage.setItem('jlpt_n2_grammar_progress', JSON.stringify({
+      lastIndex: currentIndex,
+      masterIndices: masterIndices,
+      userStats: userStats,
+      timestamp: Date.now()
+    }));
+  }
+
   function renderQuestion() {
     if (filteredIndices.length === 0) {
       sentenceJp.innerHTML = "該当する問題がありません。";
@@ -1049,6 +1294,9 @@
 
     const realIndex = filteredIndices[currentIndex];
     const q = data[realIndex];
+
+    // Save progress on view
+    saveProgress();
 
     // Meta & badges
     badgeGrammar.textContent = `文法 #${q.grammar_id}: ${q.grammar}`;
@@ -1077,10 +1325,12 @@
 
     // Question Sentence with ruby and blank box
     let qRuby = q.question_ruby || q.question;
+    const correctRuby = q.correct_text_ruby || q.correct_text;
+
     if (previousAns !== undefined) {
       const isRight = previousAns.isCorrect;
       const fillClass = isRight ? 'blank-box filled-correct' : 'blank-box filled-wrong';
-      qRuby = qRuby.replace('【　　】', `<span class="${fillClass}">${q.correct_text}</span>`);
+      qRuby = qRuby.replace('【　　】', `<span class="${fillClass}">${correctRuby}</span>`);
     } else {
       qRuby = qRuby.replace('【　　】', `<span class="blank-box">（ ？ ）</span>`);
     }
@@ -1089,14 +1339,16 @@
     // English
     sentenceEn.textContent = q.sentence_en || "";
 
-    // Choices
+    // Choices with Ruby on Kanji!
     choicesGrid.innerHTML = "";
-    q.choices.forEach((choiceText, cIdx) => {
+    const choicesList = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+    
+    choicesList.forEach((choiceHtml, cIdx) => {
       const btn = document.createElement('button');
       btn.className = 'choice-btn';
       btn.innerHTML = `
         <span class="choice-num">${cIdx + 1}</span>
-        <span class="choice-text">${choiceText}</span>
+        <span class="choice-text">${choiceHtml}</span>
       `;
 
       if (previousAns !== undefined) {
@@ -1138,6 +1390,7 @@
       isCorrect: isCorrect
     };
 
+    saveProgress();
     renderQuestion();
   }
 
@@ -1157,22 +1410,71 @@
     // Full sentence with ruby on kanji
     expFullSentence.innerHTML = q.sentence_jp_ruby || q.sentence_jp;
 
-    // Similar tags
+    // Similar tags (Clickable with actions)
     expSimilarTags.innerHTML = "";
     if (q.similar) {
       const items = q.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
       items.forEach(item => {
-        const span = document.createElement('span');
-        span.className = 'sim-tag';
-        span.textContent = item;
-        expSimilarTags.appendChild(span);
+        const btn = document.createElement('button');
+        btn.className = 'sim-tag-btn';
+        btn.innerHTML = `<span>${item}</span><span style="font-size:10px; opacity:0.7;">▾</span>`;
+        btn.addEventListener('click', () => openTagActionModal(item));
+        expSimilarTags.appendChild(btn);
       });
     }
 
     explanationBox.classList.add('show');
   }
 
-  // Initial Render (最初から1,507問全ランダムでスタート)
+  // Tag Action Modal logic
+  function openTagActionModal(term) {
+    activeModalTerm = term;
+    modalTermTitle.textContent = term;
+    tagActionModal.classList.add('open');
+  }
+
+  function closeTagActionModal() {
+    tagActionModal.classList.remove('open');
+  }
+
+  btnCloseModal.addEventListener('click', closeTagActionModal);
+  tagActionModal.addEventListener('click', (e) => {
+    if (e.target === tagActionModal) closeTagActionModal();
+  });
+
+  // Action 1: Copy to clipboard
+  btnCopyTerm.addEventListener('click', () => {
+    navigator.clipboard.writeText(activeModalTerm).then(() => {
+      closeTagActionModal();
+      showToast(`「${activeModalTerm}」をコピーしました！`);
+    }).catch(() => {
+      closeTagActionModal();
+      showToast(`コピーに失敗しました`);
+    });
+  });
+
+  // Action 2: Search in built-in dictionary
+  btnSearchDict.addEventListener('click', () => {
+    closeTagActionModal();
+    const url = `dictionary.html?search=${encodeURIComponent(activeModalTerm)}`;
+    window.open(url, '_blank');
+  });
+
+  // Action 3: Save to MyList
+  btnSaveToMylist.addEventListener('click', () => {
+    closeTagActionModal();
+    // Add to custom user notes/mylist
+    let customMylist = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+    if (!customMylist.includes(activeModalTerm)) {
+      customMylist.push(activeModalTerm);
+      localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+      showToast(`「${activeModalTerm}」をマイリストに保存しました！`);
+    } else {
+      showToast(`「${activeModalTerm}」はすでに保存されています`);
+    }
+  });
+
+  // Initial Render
   renderQuestion();
 })();
 </script>
