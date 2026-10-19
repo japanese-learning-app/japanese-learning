@@ -773,62 +773,128 @@
     background: #FFFFFF;
     border-radius: 20px;
     padding: 24px;
-    max-width: 360px;
-    width: 90%;
+    max-width: 420px;
+    width: 92%;
     box-shadow: 0 16px 40px rgba(0,0,0,0.18);
     text-align: center;
   }
 
   .modal-term-title {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 800;
     color: var(--primary-blue-dark);
-    margin-bottom: 6px;
+    margin-bottom: 2px;
   }
 
-  .modal-term-sub {
-    font-size: 12.5px;
+  .modal-term-reading {
+    font-size: 13px;
     color: var(--text-muted);
-    margin-bottom: 18px;
+    font-weight: 600;
+    margin-bottom: 14px;
   }
 
-  .modal-action-btns {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+  .modal-meaning-box {
+    background: #F8FBFE;
+    border: 1px solid #D5E5F2;
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    text-align: left;
   }
 
-  .modal-action-btn {
-    border: 1px solid var(--sakura-pink-border);
-    background: var(--sakura-pink-soft);
-    color: var(--text-primary);
-    padding: 11px 16px;
-    border-radius: 12px;
-    font-size: 13.5px;
+  .modal-meaning-label {
+    font-size: 11px;
     font-weight: 700;
+    color: var(--primary-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .modal-meaning-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+
+  .modal-btn-mylist {
+    width: 100%;
+    border: 1.5px solid #F0D488;
+    background: #FFF8E8;
+    color: #8C6500;
+    padding: 13px 16px;
+    border-radius: 14px;
+    font-size: 14.5px;
+    font-weight: 800;
     cursor: pointer;
-    transition: all 0.2s;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
+    transition: all 0.2s;
+    box-shadow: 0 3px 10px rgba(200,125,24,0.12);
+    margin-bottom: 10px;
   }
 
-  .modal-action-btn:hover {
-    background: var(--primary-blue);
-    color: #FFFFFF;
-    border-color: var(--primary-blue);
+  .modal-btn-mylist:hover {
+    background: #FFF2D1;
+    transform: translateY(-1px);
+  }
+
+  .modal-btn-mylist.saved {
+    background: #FFF5DE;
+    color: #B27200;
+    border-color: #F0C760;
+  }
+
+  .modal-sub-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .modal-sub-btn {
+    border: 1px solid #E2ECF2;
+    background: #FFFFFF;
+    color: var(--text-primary);
+    padding: 9px 12px;
+    border-radius: 10px;
+    font-size: 12.5px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }
+
+  .modal-sub-btn:hover {
+    background: #F4F8FC;
+    border-color: var(--primary-blue-light);
   }
 
   .modal-close-btn {
-    margin-top: 14px;
-    background: transparent;
-    border: none;
+    width: 100%;
+    background: #F4F8FC;
+    border: 1px solid #E2ECF2;
     color: var(--text-muted);
     font-size: 13px;
-    font-weight: 600;
+    font-weight: 700;
     cursor: pointer;
-    padding: 6px 12px;
+    padding: 10px;
+    border-radius: 12px;
+    transition: all 0.2s;
+  }
+
+  .modal-close-btn:hover {
+    background: #E8EFF5;
+    color: var(--text-primary);
   }
 
   /* Footer */
@@ -964,11 +1030,11 @@
         </div>
       </div>
 
-      <!-- 似ている文法・関連表現（コピー・辞書検索・マイリスト保存対応） -->
+      <!-- 似ている文法・関連表現（意味確認・マイリスト追加対応） -->
       <div class="exp-similar-box">
         <div class="exp-similar-label">
           <span>💡 似ている文法・関連表現:</span>
-          <span class="exp-similar-hint">（タップでコピー / 辞書検索 / マイリスト保存）</span>
+          <span class="exp-similar-hint">（タップで意味確認・マイリスト追加）</span>
         </div>
         <div class="exp-similar-tags" id="expSimilarTags">
           <!-- Tags -->
@@ -995,18 +1061,34 @@
 <div class="modal-overlay" id="tagActionModal">
   <div class="modal-box">
     <div class="modal-term-title" id="modalTermTitle">末に</div>
-    <div class="modal-term-sub">似ている文法・関連表現のアクション</div>
-    <div class="modal-action-btns">
-      <button class="modal-action-btn" id="btnCopyTerm">
-        📋 クリップボードにコピー
+    <div class="modal-term-reading" id="modalTermReading">（すえに）</div>
+    
+    <!-- 意味・ニュアンス表示エリア -->
+    <div class="modal-meaning-box">
+      <div class="modal-meaning-label">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        意味・ニュアンス
+      </div>
+      <div class="modal-meaning-text" id="modalTermMeaning">
+        苦労や長い時間の果てに。(after, in the end)
+      </div>
+    </div>
+
+    <!-- マイリストに追加ボタン (メイン) -->
+    <button class="modal-btn-mylist" id="btnSaveToMylist">
+      ⭐ マイリストに追加
+    </button>
+
+    <!-- サブアクション（コピー & 内蔵辞書検索） -->
+    <div class="modal-sub-actions">
+      <button class="modal-sub-btn" id="btnCopyTerm">
+        📋 コピー
       </button>
-      <button class="modal-action-btn" id="btnSearchDict">
-        📖 内蔵辞書で検索する
-      </button>
-      <button class="modal-action-btn" id="btnSaveToMylist">
-        ⭐ マイリストに保存する
+      <button class="modal-sub-btn" id="btnSearchDict">
+        📖 辞書で検索
       </button>
     </div>
+
     <button class="modal-close-btn" id="btnCloseModal">閉じる</button>
   </div>
 </div>
@@ -1018,8 +1100,9 @@
   JLPT N2 Grammar Master Study App &bull; Japanese Learning Center
 </footer>
 
-<!-- 1,507 Questions Dataset (Ruby付き) -->
+<!-- 1,507 Questions Dataset (Ruby付き) & Similar Grammar Dictionary -->
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
+<script src="database/jlpt_similar_grammar_dict.js"></script>
 
 <script>
 (function() {
@@ -1099,12 +1182,15 @@
   const toast = document.getElementById('toast');
   const tagActionModal = document.getElementById('tagActionModal');
   const modalTermTitle = document.getElementById('modalTermTitle');
+  const modalTermReading = document.getElementById('modalTermReading');
+  const modalTermMeaning = document.getElementById('modalTermMeaning');
   const btnCopyTerm = document.getElementById('btnCopyTerm');
   const btnSearchDict = document.getElementById('btnSearchDict');
   const btnSaveToMylist = document.getElementById('btnSaveToMylist');
   const btnCloseModal = document.getElementById('btnCloseModal');
 
   let activeModalTerm = "";
+  let activeModalData = null;
 
   function showToast(msg) {
     toast.textContent = msg;
@@ -1426,10 +1512,78 @@
     explanationBox.classList.add('show');
   }
 
-  // Tag Action Modal logic
+  // Tag Action Modal logic (意味・マイリスト追加)
+  function lookupSimilarTerm(term) {
+    if (!term) return { term: '', reading: '', meaning: '' };
+    const raw = term.trim();
+    const clean = raw.replace(/^[〜~]+|[〜~]+$/g, '').trim();
+
+    // 1. Check window.JLPT_SIMILAR_GRAMMAR_DICT
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[raw]) return window.JLPT_SIMILAR_GRAMMAR_DICT[raw];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT[clean];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean];
+    }
+
+    // 2. Check current dataset
+    if (data && Array.isArray(data)) {
+      const match = data.find(q => q.grammar === raw || q.grammar === clean || q.grammar === ('〜' + clean));
+      if (match) {
+        return {
+          term: match.grammar,
+          reading: match.reading || '',
+          meaning: match.meaning_en || 'JLPT N2 文法表現'
+        };
+      }
+    }
+
+    return {
+      term: raw,
+      reading: '',
+      meaning: '類似・関連表現（文法・語彙）'
+    };
+  }
+
+  function isTermSavedInMylist(term) {
+    try {
+      const list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      return list.includes(term);
+    } catch(e) {
+      return false;
+    }
+  }
+
+  function updateMylistButton(isSaved) {
+    if (!btnSaveToMylist) return;
+    if (isSaved) {
+      btnSaveToMylist.className = 'modal-btn-mylist saved';
+      btnSaveToMylist.innerHTML = `<span>★ マイリストに追加済み</span>`;
+    } else {
+      btnSaveToMylist.className = 'modal-btn-mylist';
+      btnSaveToMylist.innerHTML = `<span>⭐ マイリストに追加</span>`;
+    }
+  }
+
   function openTagActionModal(term) {
     activeModalTerm = term;
-    modalTermTitle.textContent = term;
+    activeModalData = lookupSimilarTerm(term);
+
+    modalTermTitle.textContent = activeModalData.term;
+    if (modalTermReading) {
+      if (activeModalData.reading && activeModalData.reading !== activeModalData.term) {
+        modalTermReading.textContent = `（${activeModalData.reading}）`;
+        modalTermReading.style.display = 'block';
+      } else {
+        modalTermReading.textContent = '';
+        modalTermReading.style.display = 'none';
+      }
+    }
+
+    if (modalTermMeaning) {
+      modalTermMeaning.textContent = activeModalData.meaning || '意味・解説が登録されていません。';
+    }
+
+    updateMylistButton(isTermSavedInMylist(term));
     tagActionModal.classList.add('open');
   }
 
@@ -1442,36 +1596,44 @@
     if (e.target === tagActionModal) closeTagActionModal();
   });
 
-  // Action 1: Copy to clipboard
+  // Action 1: Toggle Save to MyList (Main Action)
+  btnSaveToMylist.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    const isSaved = isTermSavedInMylist(activeModalTerm);
+    try {
+      let customMylist = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      if (isSaved) {
+        customMylist = customMylist.filter(t => t !== activeModalTerm);
+        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        updateMylistButton(false);
+        showToast(`「${activeModalTerm}」をマイリストから削除しました`);
+      } else {
+        if (!customMylist.includes(activeModalTerm)) {
+          customMylist.push(activeModalTerm);
+        }
+        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        updateMylistButton(true);
+        showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
+      }
+    } catch(e) {
+      showToast(`保存に失敗しました`);
+    }
+  });
+
+  // Action 2: Copy to clipboard
   btnCopyTerm.addEventListener('click', () => {
     navigator.clipboard.writeText(activeModalTerm).then(() => {
-      closeTagActionModal();
       showToast(`「${activeModalTerm}」をコピーしました！`);
     }).catch(() => {
-      closeTagActionModal();
       showToast(`コピーに失敗しました`);
     });
   });
 
-  // Action 2: Search in built-in dictionary
+  // Action 3: Search in built-in dictionary
   btnSearchDict.addEventListener('click', () => {
     closeTagActionModal();
     const url = `dictionary.html?search=${encodeURIComponent(activeModalTerm)}`;
     window.open(url, '_blank');
-  });
-
-  // Action 3: Save to MyList
-  btnSaveToMylist.addEventListener('click', () => {
-    closeTagActionModal();
-    // Add to custom user notes/mylist
-    let customMylist = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
-    if (!customMylist.includes(activeModalTerm)) {
-      customMylist.push(activeModalTerm);
-      localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
-      showToast(`「${activeModalTerm}」をマイリストに保存しました！`);
-    } else {
-      showToast(`「${activeModalTerm}」はすでに保存されています`);
-    }
   });
 
   // Initial Render

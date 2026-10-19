@@ -1891,21 +1891,37 @@
 
 <!-- Similar Grammar Action Modal -->
 <div class="modal-backdrop" id="sim-tag-modal" onclick="closeSimTagModalOnBg(event)">
-  <div class="modal-window" style="max-width: 360px; border-radius: 20px; padding: 24px; text-align:center;">
-    <div style="font-size: 20px; font-weight: 800; color: var(--navy-main); margin-bottom: 4px;" id="sim-modal-term">末に</div>
-    <div style="font-size: 12px; color: var(--text-muted); margin-bottom: 18px;">似ている文法・関連表現のアクション</div>
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-      <button class="modal-action-btn" onclick="copySimTerm()" style="border:1px solid #F2D5DB; background:#FDF7F8; padding:11px 16px; border-radius:12px; font-size:13.5px; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px;">
-        📋 クリップボードにコピー
+  <div class="modal-window" style="max-width: 420px; border-radius: 20px; padding: 24px; text-align: center; box-shadow: 0 16px 40px rgba(0,0,0,0.18);">
+    <div style="font-size: 22px; font-weight: 800; color: var(--navy-main); margin-bottom: 2px;" id="sim-modal-term">末に</div>
+    <div style="font-size: 13px; color: var(--text-muted); font-weight: 600; margin-bottom: 14px;" id="sim-modal-reading">（すえに）</div>
+    
+    <!-- 意味・ニュアンス表示エリア -->
+    <div style="background: #F8FBFE; border: 1px solid #D5E5F2; border-radius: 14px; padding: 14px 16px; margin-bottom: 16px; text-align: left;">
+      <div style="font-size: 11px; font-weight: 700; color: var(--kobe-blue); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; display: flex; align-items: center; gap: 5px;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        意味・ニュアンス
+      </div>
+      <div id="sim-modal-meaning" style="font-size: 14px; font-weight: 600; color: var(--text-main); line-height: 1.6;">
+        苦労や長い時間の果てに。(after, in the end)
+      </div>
+    </div>
+
+    <!-- マイリストに追加ボタン (メイン) -->
+    <button id="btn-sim-mylist" onclick="toggleSimMylist()" style="width: 100%; border: 1.5px solid #F0D488; background: #FFF8E8; color: #8C6500; padding: 13px 16px; border-radius: 14px; font-size: 14.5px; font-weight: 800; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: all 0.2s; box-shadow: 0 3px 10px rgba(200,125,24,0.12); margin-bottom: 10px;">
+      ⭐ マイリストに追加
+    </button>
+
+    <!-- サブアクション（コピー & 内蔵辞書検索） -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px;">
+      <button onclick="copySimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 12px; border-radius: 10px; font-size: 12.5px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; transition: all 0.15s;">
+        📋 コピー
       </button>
-      <button class="modal-action-btn" onclick="searchDictSimTerm()" style="border:1px solid #F2D5DB; background:#FDF7F8; padding:11px 16px; border-radius:12px; font-size:13.5px; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px;">
-        📖 内蔵辞書で検索する
-      </button>
-      <button class="modal-action-btn" onclick="saveMylistSimTerm()" style="border:1px solid #F2D5DB; background:#FDF7F8; padding:11px 16px; border-radius:12px; font-size:13.5px; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px;">
-        ⭐ マイリストに保存する
+      <button onclick="searchDictSimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 12px; border-radius: 10px; font-size: 12.5px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; transition: all 0.15s;">
+        📖 辞書で検索
       </button>
     </div>
-    <button class="btn-back" onclick="closeSimTagModal()" style="margin-top:14px; width:100%;">閉じる</button>
+
+    <button class="btn-back" onclick="closeSimTagModal()" style="width: 100%; padding: 10px; border-radius: 12px; border: 1px solid #E2ECF2; background: #F4F8FC; color: var(--text-muted); font-size: 13px; font-weight: 700; cursor: pointer;">閉じる</button>
   </div>
 </div>
 
@@ -1997,6 +2013,7 @@
 <script src="database/jlpt_vocab_all.js"></script>
 <script src="database/jlpt_questions_data.js"></script>
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
+<script src="database/jlpt_similar_grammar_dict.js"></script>
 <script src="database/jlpt_explanation_translator.js"></script>
 <script src="database/jlpt_option_helper.js"></script>
 
@@ -2610,7 +2627,7 @@
           <div style="background:#FDF7F8; border:1px solid #F2D5DB; border-radius:12px; padding:12px 14px; margin-top:10px;">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
               <span style="font-size:12px; font-weight:800; color:#B8596E;">💡 似ている文法・関連表現:</span>
-              <span style="font-size:10.5px; color:var(--text-muted);">（タップでコピー / 辞書検索 / マイリスト保存）</span>
+              <span style="font-size:10.5px; color:var(--text-muted);">（タップで意味確認・マイリスト追加）</span>
             </div>
             <div style="display:flex; flex-wrap:wrap; gap:6px;">
         `;
@@ -2633,12 +2650,146 @@
     expCard.classList.add('show');
   }
 
-  // --- Similar Tag Modal Actions ---
+  // --- Similar Tag Modal Actions (意味・マイリスト追加) ---
+  let currentSimData = null;
+
+  function lookupSimTerm(term) {
+    if (!term) return { term: '', reading: '', meaning: '' };
+    const raw = term.trim();
+    const clean = raw.replace(/^[〜~]+|[〜~]+$/g, '').trim();
+
+    // 1. Check window.JLPT_SIMILAR_GRAMMAR_DICT
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[raw]) return window.JLPT_SIMILAR_GRAMMAR_DICT[raw];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT[clean];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean];
+    }
+
+    // 2. Check JLPT_N2_QUIZ_DATA grammar
+    if (window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) {
+      const match = window.JLPT_N2_QUIZ_DATA.find(q => 
+        q.grammar === raw || q.grammar === clean || q.grammar === ('〜' + clean)
+      );
+      if (match) {
+        return {
+          term: match.grammar,
+          reading: match.reading || '',
+          meaning: match.meaning_en || 'JLPT N2 文法表現'
+        };
+      }
+    }
+
+    // 3. Fallback to OptionDictionaryHelper if available
+    if (window.OptionDictionaryHelper) {
+      const opt = window.OptionDictionaryHelper.lookup(raw);
+      if (opt && opt.meanings && opt.meanings.length) {
+        return {
+          term: opt.word || raw,
+          reading: opt.reading || '',
+          meaning: opt.meanings.join(', ')
+        };
+      }
+    }
+
+    return {
+      term: raw,
+      reading: '',
+      meaning: '類似・関連表現（文法・語彙）'
+    };
+  }
+
+  function isSimTermSaved(term) {
+    const fromUserProg = (typeof UserProgress !== 'undefined') && UserProgress.isVocabSaved(term);
+    let fromCustom = false;
+    try {
+      const notes = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      fromCustom = notes.includes(term);
+    } catch(e) {}
+    return fromUserProg || fromCustom;
+  }
+
+  function updateSimModalMylistBtn(saved) {
+    const btn = document.getElementById('btn-sim-mylist');
+    if (!btn) return;
+    if (saved) {
+      btn.className = 'modal-sim-mylist-btn saved';
+      btn.innerHTML = `<span>★ マイリストに追加済み</span>`;
+      btn.style.background = '#FFF5DE';
+      btn.style.color = '#B27200';
+      btn.style.borderColor = '#F0C760';
+    } else {
+      btn.className = 'modal-sim-mylist-btn';
+      btn.innerHTML = `<span>⭐ マイリストに追加</span>`;
+      btn.style.background = '#FFF8E8';
+      btn.style.color = '#8C6500';
+      btn.style.borderColor = '#F0D488';
+    }
+  }
+
   function openSimTagModal(term) {
     currentSimTerm = term;
+    currentSimData = lookupSimTerm(term);
     const modal = document.getElementById('sim-tag-modal');
-    document.getElementById('sim-modal-term').textContent = term;
+    if (!modal) return;
+
+    document.getElementById('sim-modal-term').textContent = currentSimData.term;
+    const readingEl = document.getElementById('sim-modal-reading');
+    if (readingEl) {
+      if (currentSimData.reading && currentSimData.reading !== currentSimData.term) {
+        readingEl.textContent = `（${currentSimData.reading}）`;
+        readingEl.style.display = 'block';
+      } else {
+        readingEl.textContent = '';
+        readingEl.style.display = 'none';
+      }
+    }
+
+    const meaningEl = document.getElementById('sim-modal-meaning');
+    if (meaningEl) {
+      meaningEl.textContent = currentSimData.meaning || '意味・解説が登録されていません。';
+    }
+
+    updateSimModalMylistBtn(isSimTermSaved(term));
     modal.classList.add('open');
+  }
+
+  function toggleSimMylist() {
+    if (!currentSimTerm) return;
+    const isSaved = isSimTermSaved(currentSimTerm);
+    const info = currentSimData || lookupSimTerm(currentSimTerm);
+
+    if (isSaved) {
+      // Remove
+      if (typeof UserProgress !== 'undefined') {
+        UserProgress.removeSavedVocab(currentSimTerm);
+      }
+      try {
+        let notes = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+        notes = notes.filter(n => n !== currentSimTerm);
+        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(notes));
+      } catch(e) {}
+      updateSimModalMylistBtn(false);
+      showToast(`「${currentSimTerm}」をマイリストから削除しました`);
+    } else {
+      // Add
+      if (typeof UserProgress !== 'undefined') {
+        UserProgress.toggleSaveVocab({
+          word: currentSimTerm,
+          reading: info.reading || '',
+          meaning: info.meaning || '',
+          level: 'N2関連表現'
+        });
+      }
+      try {
+        let notes = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+        if (!notes.includes(currentSimTerm)) {
+          notes.push(currentSimTerm);
+          localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(notes));
+        }
+      } catch(e) {}
+      updateSimModalMylistBtn(true);
+      showToast(`「${currentSimTerm}」をマイリストに追加しました！⭐`);
+    }
   }
 
   function closeSimTagModal() {
@@ -2654,10 +2805,8 @@
 
   function copySimTerm() {
     navigator.clipboard.writeText(currentSimTerm).then(() => {
-      closeSimTagModal();
       showToast(`「${currentSimTerm}」をコピーしました！`);
     }).catch(() => {
-      closeSimTagModal();
       showToast(`コピーに失敗しました`);
     });
   }
@@ -2666,22 +2815,6 @@
     closeSimTagModal();
     const url = `dictionary.html?search=${encodeURIComponent(currentSimTerm)}`;
     window.open(url, '_blank');
-  }
-
-  function saveMylistSimTerm() {
-    closeSimTagModal();
-    try {
-      let notes = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
-      if (!notes.includes(currentSimTerm)) {
-        notes.push(currentSimTerm);
-        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(notes));
-        showToast(`「${currentSimTerm}」をマイリストに保存しました！`);
-      } else {
-        showToast(`「${currentSimTerm}」はすでに保存されています`);
-      }
-    } catch(e) {
-      showToast(`保存に失敗しました`);
-    }
   }
 
   // Vocabulary Explanation Helpers
