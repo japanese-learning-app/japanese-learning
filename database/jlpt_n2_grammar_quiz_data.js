@@ -1,5 +1,4 @@
-// JLPT N2 文法穴埋めマスター 1,507問 データセット
-// 全195文法項目・各4択（正解1・誤答3）・英語訳・ふりがな付き
+// JLPT N2 文法穴埋めマスター 1,507問 データセット（漢字ルビ付き）
 window.JLPT_N2_QUIZ_DATA = [
   {
     "id": 1,
@@ -20,7 +19,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あげく",
-    "notes": "誤字・助詞修正「結局に」→「結局」; 数値「2時間」→「3時間」"
+    "notes": "誤字・助詞修正「結局に」→「結局」; 数値「2時間」→「3時間」",
+    "question_ruby": "3<ruby>時間<rt>じかん</rt></ruby>も<ruby>待た<rt>また</rt></ruby>された【　　】、<ruby>結局<rt>けっきょく</rt></ruby>、<ruby>試合<rt>しあい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>になった。",
+    "sentence_jp_ruby": "3<ruby>時間<rt>じかん</rt></ruby>も<ruby>待た<rt>また</rt></ruby>されたあげく、<ruby>結局<rt>けっきょく</rt></ruby>、<ruby>試合<rt>しあい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>になった。"
   },
   {
     "id": 2,
@@ -41,7 +42,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あげく",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>残業<rt>ざんぎょう</rt></ruby>の【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>倒れ<rt>たおれ</rt></ruby>て<ruby>入院<rt>にゅういん</rt></ruby>することになりました。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>残業<rt>ざんぎょう</rt></ruby>のあげく、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>倒れ<rt>たおれ</rt></ruby>て<ruby>入院<rt>にゅういん</rt></ruby>することになりました。"
   },
   {
     "id": 3,
@@ -62,7 +65,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あげく",
-    "notes": "数値「2時間」→「3時間」; 店舗「ラーメン店」→「カフェ」"
+    "notes": "数値「2時間」→「3時間」; 店舗「ラーメン店」→「カフェ」",
+    "question_ruby": "<ruby>人気<rt>にんき</rt></ruby>のカフェに3<ruby>時間<rt>じかん</rt></ruby>も<ruby>並ん<rt>ならん</rt></ruby>だ【　　】、<ruby>売り切れ<rt>うりきれ</rt></ruby>で<ruby>食べ<rt>たべ</rt></ruby>られなかった。",
+    "sentence_jp_ruby": "<ruby>人気<rt>にんき</rt></ruby>のカフェに3<ruby>時間<rt>じかん</rt></ruby>も<ruby>並ん<rt>ならん</rt></ruby>だあげく、<ruby>売り切れ<rt>うりきれ</rt></ruby>で<ruby>食べ<rt>たべ</rt></ruby>られなかった。"
   },
   {
     "id": 4,
@@ -83,7 +88,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あげく",
-    "notes": "大学名「京都大学」→「東京大学」"
+    "notes": "大学名「京都大学」→「東京大学」",
+    "question_ruby": "どの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入ろ<rt>いろ</rt></ruby>うかと、さんざん<ruby>悩ん<rt>なやん</rt></ruby>だ【　　】、<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>に<ruby>決め<rt>きめ</rt></ruby>た。",
+    "sentence_jp_ruby": "どの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入ろ<rt>いろ</rt></ruby>うかと、さんざん<ruby>悩ん<rt>なやん</rt></ruby>だあげく、<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>に<ruby>決め<rt>きめ</rt></ruby>た。"
   },
   {
     "id": 5,
@@ -104,7 +111,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あげく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>夫婦<rt>ふうふ</rt></ruby>げんかを<ruby>繰り返し<rt>くりかえし</rt></ruby>た【　　】、とうとう<ruby>離婚<rt>りこん</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>夫婦<rt>ふうふ</rt></ruby>げんかを<ruby>繰り返し<rt>くりかえし</rt></ruby>たあげく、とうとう<ruby>離婚<rt>りこん</rt></ruby>した。"
   },
   {
     "id": 6,
@@ -125,7 +134,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あげく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>遅刻<rt>ちこく</rt></ruby>をくり<ruby>返し<rt>かえし</rt></ruby>た【　　】、<ruby>店<rt>みせ</rt></ruby>⻑に<ruby>謝ら<rt>あやまら</rt></ruby>なかったので、クビになった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>遅刻<rt>ちこく</rt></ruby>をくり<ruby>返し<rt>かえし</rt></ruby>たあげく、<ruby>店<rt>みせ</rt></ruby>⻑に<ruby>謝ら<rt>あやまら</rt></ruby>なかったので、クビになった。"
   },
   {
     "id": 7,
@@ -146,7 +157,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あげく",
-    "notes": "主語「弟」→「妹」"
+    "notes": "主語「弟」→「妹」",
+    "question_ruby": "<ruby>妹<rt>いもうと</rt></ruby>は、<ruby>勉強<rt>べんきょう</rt></ruby>しないで<ruby>遊んだ<rt>あそんだ</rt></ruby>【　　】に、<ruby>就職<rt>しゅうしょく</rt></ruby>にも<ruby>失敗<rt>しっぱい</rt></ruby>してずっとバイト<ruby>生活<rt>せいかつ</rt></ruby>をして いる。",
+    "sentence_jp_ruby": "<ruby>妹<rt>いもうと</rt></ruby>は、<ruby>勉強<rt>べんきょう</rt></ruby>しないで<ruby>遊んだ<rt>あそんだ</rt></ruby>あげくに、<ruby>就職<rt>しゅうしょく</rt></ruby>にも<ruby>失敗<rt>しっぱい</rt></ruby>してずっとバイト<ruby>生活<rt>せいかつ</rt></ruby>をして いる。"
   },
   {
     "id": 8,
@@ -167,7 +180,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あげく",
-    "notes": "数値「1時間」→「2時間」"
+    "notes": "数値「1時間」→「2時間」",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>お<ruby>客<rt>きゃく</rt></ruby>さんは2<ruby>時間<rt>じかん</rt></ruby>も<ruby>悩ん<rt>なやん</rt></ruby>だ【　　】、<ruby>結局<rt>けっきょく</rt></ruby><ruby>何も<rt>なにも</rt></ruby><ruby>買わ<rt>かわ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>お<ruby>客<rt>きゃく</rt></ruby>さんは2<ruby>時間<rt>じかん</rt></ruby>も<ruby>悩ん<rt>なやん</rt></ruby>だあげく、<ruby>結局<rt>けっきょく</rt></ruby><ruby>何も<rt>なにも</rt></ruby><ruby>買わ<rt>かわ</rt></ruby>なかった。"
   },
   {
     "id": 9,
@@ -188,7 +203,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あるいは",
-    "notes": "期限「今日中」→「明日中」"
+    "notes": "期限「今日中」→「明日中」",
+    "question_ruby": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、【　　】、メールで<ruby>送っ<rt>おくっ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいは、メールで<ruby>送っ<rt>おくっ</rt></ruby>てください。"
   },
   {
     "id": 10,
@@ -209,7 +226,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あるいは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>か、【　　】インターネットでお<ruby>願い<rt>ねがい</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>か、あるいはインターネットでお<ruby>願い<rt>ねがい</rt></ruby>します。"
   },
   {
     "id": 11,
@@ -230,7 +249,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あるいは",
-    "notes": "曜日「火曜日」→「木曜日」"
+    "notes": "曜日「火曜日」→「木曜日」",
+    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>木曜日<rt>もくようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>はどうですか。 【　　】<ruby>水曜日<rt>すいようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>でも<ruby>構い<rt>かまい</rt></ruby>ませんが...",
+    "sentence_jp_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>木曜日<rt>もくようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>はどうですか。 あるいは<ruby>水曜日<rt>すいようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>でも<ruby>構い<rt>かまい</rt></ruby>ませんが..."
   },
   {
     "id": 12,
@@ -251,7 +272,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あるいは",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>進学<rt>しんがく</rt></ruby>するか、【　　】<ruby>就職<rt>しゅうしょく</rt></ruby>するか<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>迷っ<rt>まよっ</rt></ruby>ています。",
+    "sentence_jp_ruby": "<ruby>進学<rt>しんがく</rt></ruby>するか、あるいは<ruby>就職<rt>しゅうしょく</rt></ruby>するか<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>迷っ<rt>まよっ</rt></ruby>ています。"
   },
   {
     "id": 13,
@@ -272,7 +295,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あるいは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】それは<ruby>本当<rt>ほんとう</rt></ruby>かもしれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あるいはそれは<ruby>本当<rt>ほんとう</rt></ruby>かもしれない。"
   },
   {
     "id": 14,
@@ -293,7 +318,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あるいは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>【　　】<ruby>晴れ<rt>はれ</rt></ruby>るかもしれません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>あるいは<ruby>晴れ<rt>はれ</rt></ruby>るかもしれません。"
   },
   {
     "id": 15,
@@ -314,7 +341,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あるいは",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "ごめん、【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>間違っ<rt>まちがっ</rt></ruby>ていたかもしれない。",
+    "sentence_jp_ruby": "ごめん、あるいは<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>間違っ<rt>まちがっ</rt></ruby>ていたかもしれない。"
   },
   {
     "id": 16,
@@ -335,7 +364,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あるいは",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】すぐに<ruby>回復<rt>かいふく</rt></ruby>するかもしれません。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはあるいはすぐに<ruby>回復<rt>かいふく</rt></ruby>するかもしれません。"
   },
   {
     "id": 17,
@@ -356,7 +387,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかり",
-    "notes": "数値「30分」→「40分」"
+    "notes": "数値「30分」→「40分」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は40<ruby>分<rt>ふん</rt></ruby>【　　】ベッドに<ruby>横<rt>よこ</rt></ruby>になった。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は40<ruby>分<rt>ふん</rt></ruby>ばかりベッドに<ruby>横<rt>よこ</rt></ruby>になった。"
   },
   {
     "id": 18,
@@ -377,7 +410,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかり",
-    "notes": "数値「5分」→「10分」; 数値「10分」→「15分」"
+    "notes": "数値「5分」→「10分」; 数値「10分」→「15分」",
+    "question_ruby": "15<ruby>分<rt>ふん</rt></ruby>【　　】この<ruby>道<rt>みち</rt></ruby>を<ruby>行け<rt>いけ</rt></ruby>ば、<ruby>右手<rt>みぎて</rt></ruby>にその<ruby>店<rt>みせ</rt></ruby>があります。",
+    "sentence_jp_ruby": "15<ruby>分<rt>ふん</rt></ruby>ばかりこの<ruby>道<rt>みち</rt></ruby>を<ruby>行け<rt>いけ</rt></ruby>ば、<ruby>右手<rt>みぎて</rt></ruby>にその<ruby>店<rt>みせ</rt></ruby>があります。"
   },
   {
     "id": 19,
@@ -398,7 +433,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "大学名「さくら大学」→「青葉大学」; 数値「2時間」→「3時間」"
+    "notes": "大学名「さくら大学」→「青葉大学」; 数値「2時間」→「3時間」",
+    "question_ruby": "<ruby>青葉<rt>あおば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>まで3<ruby>時間<rt>じかん</rt></ruby>【　　】で<ruby>着く<rt>つく</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>青葉<rt>あおば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>まで3<ruby>時間<rt>じかん</rt></ruby>ばかりで<ruby>着く<rt>つく</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 20,
@@ -419,7 +456,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "数値「8時間」→「6時間」"
+    "notes": "数値「8時間」→「6時間」",
+    "question_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby>【　　】プログラミングをやって、<ruby>目<rt>め</rt></ruby>が<ruby>疲れ<rt>つかれ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby>ばかりプログラミングをやって、<ruby>目<rt>め</rt></ruby>が<ruby>疲れ<rt>つかれ</rt></ruby>た。"
   },
   {
     "id": 21,
@@ -440,7 +479,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "数値「4時間」→「5時間」; 時相「昨日」→「一昨日」"
+    "notes": "数値「4時間」→「5時間」; 時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>は5<ruby>時間<rt>じかん</rt></ruby>【　　】ハイキングをしたから、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>筋肉<rt>きんにく</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>は5<ruby>時間<rt>じかん</rt></ruby>ばかりハイキングをしたから、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>筋肉<rt>きんにく</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>。"
   },
   {
     "id": 22,
@@ -461,7 +502,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかり",
-    "notes": "数値「10分」→「15分」"
+    "notes": "数値「10分」→「15分」",
+    "question_ruby": "15<ruby>分<rt>ふん</rt></ruby>【　　】があれば、<ruby>出来る<rt>できる</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "15<ruby>分<rt>ふん</rt></ruby>ばかりがあれば、<ruby>出来る<rt>できる</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 23,
@@ -482,7 +525,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "期間「1週間」→「2週間」"
+    "notes": "期間「1週間」→「2週間」",
+    "question_ruby": "その<ruby>殺人事件<rt>さつじんじけん</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>から、<ruby>彼女<rt>かのじょ</rt></ruby>は2<ruby>週間<rt>しゅうかん</rt></ruby>【　　】<ruby>夜<rt>よる</rt></ruby>に<ruby>眠れ<rt>ねむれ</rt></ruby>なかったそうです。",
+    "sentence_jp_ruby": "その<ruby>殺人事件<rt>さつじんじけん</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>から、<ruby>彼女<rt>かのじょ</rt></ruby>は2<ruby>週間<rt>しゅうかん</rt></ruby>ばかり<ruby>夜<rt>よる</rt></ruby>に<ruby>眠れ<rt>ねむれ</rt></ruby>なかったそうです。"
   },
   {
     "id": 24,
@@ -503,7 +548,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかり",
-    "notes": "日数「二日」→「三日」"
+    "notes": "日数「二日」→「三日」",
+    "question_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>のことで<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して、<ruby>三日<rt>みっか</rt></ruby>【　　】<ruby>部屋<rt>へや</rt></ruby>にいって、<ruby>何も<rt>なにも</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>のことで<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して、<ruby>三日<rt>みっか</rt></ruby>ばかり<ruby>部屋<rt>へや</rt></ruby>にいって、<ruby>何も<rt>なにも</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>なかった。"
   },
   {
     "id": 25,
@@ -524,7 +571,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なるばかりだ。"
   },
   {
     "id": 26,
@@ -545,7 +594,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>物価<rt>ぶっか</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>物価<rt>ぶっか</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>るばかりだ。"
   },
   {
     "id": 27,
@@ -566,7 +617,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりだ",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>傷<rt>きず</rt></ruby>が<ruby>深く<rt>ふかく</rt></ruby>なる【　　】。",
+    "sentence_jp_ruby": "その<ruby>傷<rt>きず</rt></ruby>が<ruby>深く<rt>ふかく</rt></ruby>なるばかりだ。"
   },
   {
     "id": 28,
@@ -587,7 +640,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減る<rt>へる</rt></ruby>【　　】りです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減る<rt>へる</rt></ruby>ばかりです。"
   },
   {
     "id": 29,
@@ -608,7 +663,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいるのに、<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいるのに、<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なるばかりだ。"
   },
   {
     "id": 30,
@@ -629,7 +686,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりだ",
-    "notes": "家族「祖母」→「祖父」; 家族「祖父」→「祖母」; 文頭に「実は、」を追加"
+    "notes": "家族「祖母」→「祖父」; 家族「祖父」→「祖母」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>てから、<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なる【　　】った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>てから、<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なるばかりだった。"
   },
   {
     "id": 31,
@@ -650,7 +709,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>をしていないので、<ruby>体力<rt>たいりょく</rt></ruby>は<ruby>落ちる<rt>おちる</rt></ruby>【　　】 。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>をしていないので、<ruby>体力<rt>たいりょく</rt></ruby>は<ruby>落ちる<rt>おちる</rt></ruby>ばかりだ 。"
   },
   {
     "id": 32,
@@ -671,7 +732,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>が<ruby>成<rt>せい</rt></ruby>⻑すると、<ruby>教育費<rt>きょういくひ</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>が<ruby>成<rt>せい</rt></ruby>⻑すると、<ruby>教育費<rt>きょういくひ</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るばかりだ。"
   },
   {
     "id": 33,
@@ -692,7 +755,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのマンションは<ruby>狭い<rt>せまい</rt></ruby>【　　】、<ruby>暗い<rt>くらい</rt></ruby>です。",
+    "sentence_jp_ruby": "そのマンションは<ruby>狭い<rt>せまい</rt></ruby>ばかりか、<ruby>暗い<rt>くらい</rt></ruby>です。"
   },
   {
     "id": 34,
@@ -713,7 +778,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりか",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは、<ruby>漢字<rt>かんじ</rt></ruby>【　　】、ひらがなもカタカナも<ruby>書け<rt>かけ</rt></ruby>ません。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは、<ruby>漢字<rt>かんじ</rt></ruby>ばかりか、ひらがなもカタカナも<ruby>書け<rt>かけ</rt></ruby>ません。"
   },
   {
     "id": 35,
@@ -734,7 +801,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのレストランは、<ruby>味<rt>あじ</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>【　　】、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>も<ruby>悪い<rt>わるい</rt></ruby>。",
+    "sentence_jp_ruby": "そのレストランは、<ruby>味<rt>あじ</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ばかりか、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>も<ruby>悪い<rt>わるい</rt></ruby>。"
   },
   {
     "id": 36,
@@ -755,7 +824,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりか",
-    "notes": "人名「花子さん」→「美咲さん」"
+    "notes": "人名「花子さん」→「美咲さん」",
+    "question_ruby": "<ruby>美咲<rt>みさき</rt></ruby>さんはスポーツが<ruby>上手<rt>じょうず</rt></ruby>な【　　】、<ruby>成績<rt>せいせき</rt></ruby>も<ruby>優秀<rt>ゆうしゅう</rt></ruby>である。",
+    "sentence_jp_ruby": "<ruby>美咲<rt>みさき</rt></ruby>さんはスポーツが<ruby>上手<rt>じょうず</rt></ruby>なばかりか、<ruby>成績<rt>せいせき</rt></ruby>も<ruby>優秀<rt>ゆうしゅう</rt></ruby>である。"
   },
   {
     "id": 37,
@@ -776,7 +847,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりか",
-    "notes": "年齢「7歳」→「8歳」"
+    "notes": "年齢「7歳」→「8歳」",
+    "question_ruby": "うちの<ruby>子<rt>こ</rt></ruby>は8<ruby>歳<rt>とし</rt></ruby>なのに<ruby>日本語<rt>にほんご</rt></ruby>【　　】<ruby>英語<rt>えいご</rt></ruby>まで<ruby>喋れ<rt>しゃべれ</rt></ruby>るよ。",
+    "sentence_jp_ruby": "うちの<ruby>子<rt>こ</rt></ruby>は8<ruby>歳<rt>とし</rt></ruby>なのに<ruby>日本語<rt>にほんご</rt></ruby>ばかりか<ruby>英語<rt>えいご</rt></ruby>まで<ruby>喋れ<rt>しゃべれ</rt></ruby>るよ。"
   },
   {
     "id": 38,
@@ -797,7 +870,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女王<rt>じょおう</rt></ruby>は<ruby>美しい<rt>うつくしい</rt></ruby>【　　】<ruby>心<rt>こころ</rt></ruby>も<ruby>優し<rt>やさし</rt></ruby>かった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女王<rt>じょおう</rt></ruby>は<ruby>美しい<rt>うつくしい</rt></ruby>ばかりか<ruby>心<rt>こころ</rt></ruby>も<ruby>優し<rt>やさし</rt></ruby>かった。"
   },
   {
     "id": 39,
@@ -818,7 +893,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりか",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した【　　】<ruby>奨学金<rt>しょうがくきん</rt></ruby>までもらった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>したばかりか<ruby>奨学金<rt>しょうがくきん</rt></ruby>までもらった。"
   },
   {
     "id": 40,
@@ -839,7 +916,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりか",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>失業<rt>しつぎょう</rt></ruby>している<ruby>高橋<rt>たかはし</rt></ruby>さんに<ruby>先輩<rt>せんぱい</rt></ruby>は<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>貸<rt>たい</rt></ruby>てくれた。それ【　　】、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してくれた。",
+    "sentence_jp_ruby": "<ruby>失業<rt>しつぎょう</rt></ruby>している<ruby>高橋<rt>たかはし</rt></ruby>さんに<ruby>先輩<rt>せんぱい</rt></ruby>は<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>貸<rt>たい</rt></ruby>てくれた。そればかりか、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してくれた。"
   },
   {
     "id": 41,
@@ -860,7 +939,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>がない【　　】、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。"
   },
   {
     "id": 42,
@@ -881,7 +962,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ホラー<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>【　　】、<ruby>怖く<rt>こわく</rt></ruby>てなかなか<ruby>寝ら<rt>ねら</rt></ruby>れない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ホラー<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>ばかりに、<ruby>怖く<rt>こわく</rt></ruby>てなかなか<ruby>寝ら<rt>ねら</rt></ruby>れない。"
   },
   {
     "id": 43,
@@ -902,7 +985,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先輩<rt>せんぱい</rt></ruby>のアドバイスを<ruby>聞き<rt>きき</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>なかった【　　】<ruby>大き<rt>おおき</rt></ruby>な<ruby>失敗<rt>しっぱい</rt></ruby>をしてしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先輩<rt>せんぱい</rt></ruby>のアドバイスを<ruby>聞き<rt>きき</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>なかったばかりに<ruby>大き<rt>おおき</rt></ruby>な<ruby>失敗<rt>しっぱい</rt></ruby>をしてしまった。"
   },
   {
     "id": 44,
@@ -923,7 +1008,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>一言<rt>ひとこと</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>た【　　】ひどい<ruby>目に<rt>めに</rt></ruby>あった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>一言<rt>ひとこと</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>たばかりにひどい<ruby>目に<rt>めに</rt></ruby>あった。"
   },
   {
     "id": 45,
@@ -944,7 +1031,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>経験<rt>けいけん</rt></ruby>がない【　　】<ruby>苦労<rt>くろう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>経験<rt>けいけん</rt></ruby>がないばかりに<ruby>苦労<rt>くろう</rt></ruby>した。"
   },
   {
     "id": 46,
@@ -965,7 +1054,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>遅刻<rt>ちこく</rt></ruby>をした【　　】<ruby>皆<rt>みな</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけてしまった。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>遅刻<rt>ちこく</rt></ruby>をしたばかりに<ruby>皆<rt>みな</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけてしまった。"
   },
   {
     "id": 47,
@@ -986,7 +1077,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国人<rt>がいこくじん</rt></ruby>である【　　】、アパート<ruby>探し<rt>さがし</rt></ruby>には<ruby>苦労<rt>くろう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国人<rt>がいこくじん</rt></ruby>であるばかりに、アパート<ruby>探し<rt>さがし</rt></ruby>には<ruby>苦労<rt>くろう</rt></ruby>した。"
   },
   {
     "id": 48,
@@ -1007,7 +1100,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>顔<rt>かお</rt></ruby>が<ruby>似て<rt>にて</rt></ruby>いた【　　】<ruby>犯人<rt>はんにん</rt></ruby>と<ruby>間違わ<rt>まちがわ</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>顔<rt>かお</rt></ruby>が<ruby>似て<rt>にて</rt></ruby>いたばかりに<ruby>犯人<rt>はんにん</rt></ruby>と<ruby>間違わ<rt>まちがわ</rt></ruby>れた。"
   },
   {
     "id": 49,
@@ -1028,7 +1123,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ちなみに",
-    "notes": "国名「ベトナム」→「タイ」"
+    "notes": "国名「ベトナム」→「タイ」",
+    "question_ruby": "これ、お<ruby>土産<rt>みやげ</rt></ruby>だよ。【　　】タイで<ruby>買っ<rt>かっ</rt></ruby>たんだよ。",
+    "sentence_jp_ruby": "これ、お<ruby>土産<rt>みやげ</rt></ruby>だよ。ちなみにタイで<ruby>買っ<rt>かっ</rt></ruby>たんだよ。"
   },
   {
     "id": 50,
@@ -1049,7 +1146,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ちなみに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんのことを<ruby>覚え<rt>おぼえ</rt></ruby>ていますか?",
+    "sentence_jp_ruby": "ちなみに、<ruby>高橋<rt>たかはし</rt></ruby>さんのことを<ruby>覚え<rt>おぼえ</rt></ruby>ていますか?"
   },
   {
     "id": 51,
@@ -1070,7 +1169,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ちなみに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>刺身<rt>さしみ</rt></ruby>と<ruby>寿司<rt>すし</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ではない。",
+    "sentence_jp_ruby": "ちなみに、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>刺身<rt>さしみ</rt></ruby>と<ruby>寿司<rt>すし</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ではない。"
   },
   {
     "id": 52,
@@ -1091,7 +1192,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ちなみに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2に<ruby>合格<rt>ごうかく</rt></ruby>したよ!【　　】<ruby>満点<rt>まんてん</rt></ruby>だったよ!",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2に<ruby>合格<rt>ごうかく</rt></ruby>したよ!ちなみに<ruby>満点<rt>まんてん</rt></ruby>だったよ!"
   },
   {
     "id": 53,
@@ -1112,7 +1215,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ちなみに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>間違っ<rt>まちがっ</rt></ruby>てたら<ruby>遠慮<rt>えんりょ</rt></ruby>なく<ruby>言って<rt>いって</rt></ruby>ください。",
+    "sentence_jp_ruby": "ちなみに、<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>間違っ<rt>まちがっ</rt></ruby>てたら<ruby>遠慮<rt>えんりょ</rt></ruby>なく<ruby>言って<rt>いって</rt></ruby>ください。"
   },
   {
     "id": 54,
@@ -1133,7 +1238,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ちなみに",
-    "notes": "日付「2月23日」→「5月16日」"
+    "notes": "日付「2月23日」→「5月16日」",
+    "question_ruby": "【　　】<ruby>今日は<rt>こんにちは</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>妻<rt>つま</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>です。",
+    "sentence_jp_ruby": "ちなみに<ruby>今日は<rt>こんにちは</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>、<ruby>妻<rt>つま</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>です。"
   },
   {
     "id": 55,
@@ -1154,7 +1261,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ちなみに",
-    "notes": "地域名「台湾」→「韓国」; 回数「20回」→「15回」"
+    "notes": "地域名「台湾」→「韓国」; 回数「20回」→「15回」",
+    "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ます。【　　】<ruby>韓国<rt>かんこく</rt></ruby>へは、これまでに15<ruby>回<rt>かい</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>んですよ。",
+    "sentence_jp_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ます。ちなみに<ruby>韓国<rt>かんこく</rt></ruby>へは、これまでに15<ruby>回<rt>かい</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>んですよ。"
   },
   {
     "id": 56,
@@ -1175,7 +1284,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ちなみに",
-    "notes": "人数「1,000名」→「2,000名」; 人数「100名」→「200名」"
+    "notes": "人数「1,000名」→「2,000名」; 人数「100名」→「200名」",
+    "question_ruby": "「この<ruby>大学<rt>だいがく</rt></ruby>には、<ruby>学部生<rt>がくぶせい</rt></ruby>が2,000<ruby>名<rt>めい</rt></ruby>、<ruby>大学院生<rt>だいがくいんせい</rt></ruby>が200<ruby>名<rt>めい</rt></ruby>います。」 「【　　】、そのうち<ruby>女性<rt>じょせい</rt></ruby>は<ruby>何割<rt>なんわり</rt></ruby>ぐらいですか。」",
+    "sentence_jp_ruby": "「この<ruby>大学<rt>だいがく</rt></ruby>には、<ruby>学部生<rt>がくぶせい</rt></ruby>が2,000<ruby>名<rt>めい</rt></ruby>、<ruby>大学院生<rt>だいがくいんせい</rt></ruby>が200<ruby>名<rt>めい</rt></ruby>います。」 「ちなみに、そのうち<ruby>女性<rt>じょせい</rt></ruby>は<ruby>何割<rt>なんわり</rt></ruby>ぐらいですか。」"
   },
   {
     "id": 57,
@@ -1196,7 +1307,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ちっとも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>酒<rt>さけ</rt></ruby>は【　　】<ruby>飲ま<rt>のま</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>酒<rt>さけ</rt></ruby>はちっとも<ruby>飲ま<rt>のま</rt></ruby>ない。"
   },
   {
     "id": 58,
@@ -1217,7 +1330,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ちっとも",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>商品<rt>しょうひん</rt></ruby>は【　　】<ruby>売れ<rt>うれ</rt></ruby>ない。",
+    "sentence_jp_ruby": "その<ruby>商品<rt>しょうひん</rt></ruby>はちっとも<ruby>売れ<rt>うれ</rt></ruby>ない。"
   },
   {
     "id": 59,
@@ -1238,7 +1353,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ちっとも",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>を【　　】<ruby>知ら<rt>しら</rt></ruby>ない。<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>しか<ruby>話せ<rt>はなせ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>をちっとも<ruby>知ら<rt>しら</rt></ruby>ない。<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>しか<ruby>話せ<rt>はなせ</rt></ruby>ない。"
   },
   {
     "id": 60,
@@ -1259,7 +1376,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ちっとも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>言う<rt>いう</rt></ruby>ことを【　　】<ruby>聞か<rt>きか</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>言う<rt>いう</rt></ruby>ことをちっとも<ruby>聞か<rt>きか</rt></ruby>ない。"
   },
   {
     "id": 61,
@@ -1280,7 +1399,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ちっとも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>気持<rt>きもち</rt></ruby>なんか【　　】わからない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>女の子<rt>おんなのこ</rt></ruby>の<ruby>気持<rt>きもち</rt></ruby>なんかちっともわからない。"
   },
   {
     "id": 62,
@@ -1301,7 +1422,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ちっとも",
-    "notes": "主語「兄」→「姉」"
+    "notes": "主語「兄」→「姉」",
+    "question_ruby": "<ruby>休み<rt>やすみ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>なのに、<ruby>姉<rt>あね</rt></ruby>はゲームを<ruby>夢中<rt>むちゅう</rt></ruby>で【　　】<ruby>遊んで<rt>あそんで</rt></ruby>くれない。",
+    "sentence_jp_ruby": "<ruby>休み<rt>やすみ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>なのに、<ruby>姉<rt>あね</rt></ruby>はゲームを<ruby>夢中<rt>むちゅう</rt></ruby>でちっとも<ruby>遊んで<rt>あそんで</rt></ruby>くれない。"
   },
   {
     "id": 63,
@@ -1322,7 +1445,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ちっとも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>は<ruby>何の<rt>なんの</rt></ruby><ruby>事<rt>こと</rt></ruby>か【　　】<ruby>分か<rt>わか</rt></ruby>らない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>は<ruby>何の<rt>なんの</rt></ruby><ruby>事<rt>こと</rt></ruby>かちっとも<ruby>分か<rt>わか</rt></ruby>らない。"
   },
   {
     "id": 64,
@@ -1343,7 +1468,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ちっとも",
-    "notes": "乗り物「列車」→「飛行機」"
+    "notes": "乗り物「列車」→「飛行機」",
+    "question_ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>出さ<rt>ださ</rt></ruby>れる<ruby>食事<rt>しょくじ</rt></ruby>は、【　　】<ruby>好き<rt>すき</rt></ruby>じゃなかったんです。",
+    "sentence_jp_ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>出さ<rt>ださ</rt></ruby>れる<ruby>食事<rt>しょくじ</rt></ruby>は、ちっとも<ruby>好き<rt>すき</rt></ruby>じゃなかったんです。"
   },
   {
     "id": 65,
@@ -1364,7 +1491,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけあって",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのアパートは<ruby>駅<rt>えき</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>【　　】、やっぱり<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。",
+    "sentence_jp_ruby": "そのアパートは<ruby>駅<rt>えき</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>だけあって、やっぱり<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。"
   },
   {
     "id": 66,
@@ -1385,7 +1514,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけあって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さすが<ruby>大都会<rt>だいとかい</rt></ruby>【　　】<ruby>何か<rt>なにか</rt></ruby>しら<ruby>仕事<rt>しごと</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さすが<ruby>大都会<rt>だいとかい</rt></ruby>だけあって<ruby>何か<rt>なにか</rt></ruby>しら<ruby>仕事<rt>しごと</rt></ruby>がある。"
   },
   {
     "id": 67,
@@ -1406,7 +1537,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけあって",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>料理教室<rt>りょうりきょうしつ</rt></ruby>に<ruby>通って<rt>とおって</rt></ruby>いる【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>作る<rt>つくる</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>料理教室<rt>りょうりきょうしつ</rt></ruby>に<ruby>通って<rt>とおって</rt></ruby>いるだけあって、<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>作る<rt>つくる</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>。"
   },
   {
     "id": 68,
@@ -1427,7 +1560,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけあって",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのバッグは<ruby>安い<rt>やすい</rt></ruby>【　　】すぐに<ruby>壊れ<rt>こわれ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "そのバッグは<ruby>安い<rt>やすい</rt></ruby>だけあってすぐに<ruby>壊れ<rt>こわれ</rt></ruby>てしまった。"
   },
   {
     "id": 69,
@@ -1448,7 +1583,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけあって",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な【　　】、たくさんの<ruby>観光客<rt>かんこうきゃく</rt></ruby>がいる。",
+    "sentence_jp_ruby": "その<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>なだけあって、たくさんの<ruby>観光客<rt>かんこうきゃく</rt></ruby>がいる。"
   },
   {
     "id": 70,
@@ -1469,7 +1606,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけあって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さすが<ruby>世界<rt>せかい</rt></ruby>チャンピオン【　　】<ruby>強い<rt>つよい</rt></ruby>。<ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby>がまるで<ruby>子ども<rt>こども</rt></ruby>のようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さすが<ruby>世界<rt>せかい</rt></ruby>チャンピオンだけあって<ruby>強い<rt>つよい</rt></ruby>。<ruby>挑戦者<rt>ちょうせんしゃ</rt></ruby>がまるで<ruby>子ども<rt>こども</rt></ruby>のようだ。"
   },
   {
     "id": 71,
@@ -1490,7 +1629,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけのことはあって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ここは<ruby>一流<rt>いちりゅう</rt></ruby>ホテル【　　】<ruby>快適<rt>かいてき</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ここは<ruby>一流<rt>いちりゅう</rt></ruby>ホテルだけのことはあって<ruby>快適<rt>かいてき</rt></ruby>だった。"
   },
   {
     "id": 72,
@@ -1511,7 +1652,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけあって",
-    "notes": "国名「アメリカ」→「カナダ」; 期間「10年」→「5年」"
+    "notes": "国名「アメリカ」→「カナダ」; 期間「10年」→「5年」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は5<ruby>年<rt>ねん</rt></ruby>カナダに<ruby>住ん<rt>すん</rt></ruby>でいた【　　】、<ruby>英語<rt>えいご</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は5<ruby>年<rt>ねん</rt></ruby>カナダに<ruby>住ん<rt>すん</rt></ruby>でいただけあって、<ruby>英語<rt>えいご</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。"
   },
   {
     "id": 73,
@@ -1532,7 +1675,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>が、<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>ない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>が、<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>ないだけましだ。"
   },
   {
     "id": 74,
@@ -1553,7 +1698,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>がある【　　】よ。<ruby>俺<rt>おれ</rt></ruby>は<ruby>首<rt>くび</rt></ruby>になってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>があるだけましだよ。<ruby>俺<rt>おれ</rt></ruby>は<ruby>首<rt>くび</rt></ruby>になってしまった。"
   },
   {
     "id": 75,
@@ -1574,7 +1721,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>のアパートは、<ruby>狭く<rt>せまく</rt></ruby>て<ruby>高い<rt>たかい</rt></ruby>けれど、<ruby>便利<rt>べんり</rt></ruby>な【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>のアパートは、<ruby>狭く<rt>せまく</rt></ruby>て<ruby>高い<rt>たかい</rt></ruby>けれど、<ruby>便利<rt>べんり</rt></ruby>なだけましだ。"
   },
   {
     "id": 76,
@@ -1595,7 +1744,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけましだ",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>とぶつかって<ruby>私<rt>わたし</rt></ruby>のバイクが<ruby>壊れ<rt>こわれ</rt></ruby>てしまったが、<ruby>怪我<rt>けが</rt></ruby>がなかった【　　】。",
+    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>とぶつかって<ruby>私<rt>わたし</rt></ruby>のバイクが<ruby>壊れ<rt>こわれ</rt></ruby>てしまったが、<ruby>怪我<rt>けが</rt></ruby>がなかっただけましだ。"
   },
   {
     "id": 77,
@@ -1616,7 +1767,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たけれど、<ruby>首<rt>くび</rt></ruby>にならない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>たけれど、<ruby>首<rt>くび</rt></ruby>にならないだけましだ。"
   },
   {
     "id": 78,
@@ -1637,7 +1790,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>だが、<ruby>残業代<rt>ざんぎょうだい</rt></ruby>がしっかり<ruby>出る<rt>でる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>だが、<ruby>残業代<rt>ざんぎょうだい</rt></ruby>がしっかり<ruby>出る<rt>でる</rt></ruby>だけましだ。"
   },
   {
     "id": 79,
@@ -1658,7 +1813,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のアルバイト、<ruby>時給<rt>じきゅう</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>けど、<ruby>交通費<rt>こうつうひ</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のアルバイト、<ruby>時給<rt>じきゅう</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>けど、<ruby>交通費<rt>こうつうひ</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>だけましだ。"
   },
   {
     "id": 80,
@@ -1679,7 +1836,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけましだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ガンの<ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>貯金<rt>ちょきん</rt></ruby>のほとんどが<ruby>無く<rt>なく</rt></ruby>なってしまったが、<ruby>命<rt>いのち</rt></ruby>がある【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ガンの<ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>貯金<rt>ちょきん</rt></ruby>のほとんどが<ruby>無く<rt>なく</rt></ruby>なってしまったが、<ruby>命<rt>いのち</rt></ruby>があるだけましだ。"
   },
   {
     "id": 81,
@@ -1700,7 +1859,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>が<ruby>近い<rt>ちかい</rt></ruby>【　　】<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>が<ruby>近い<rt>ちかい</rt></ruby>だけに<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。"
   },
   {
     "id": 82,
@@ -1721,7 +1882,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけに",
-    "notes": "名詞「5つ星ホテル」→「高級ホテル」"
+    "notes": "名詞「5つ星ホテル」→「高級ホテル」",
+    "question_ruby": "このホテルは<ruby>高級<rt>こうきゅう</rt></ruby>ホテルな【　　】、サービスが<ruby>充実<rt>じゅうじつ</rt></ruby>している。",
+    "sentence_jp_ruby": "このホテルは<ruby>高級<rt>こうきゅう</rt></ruby>ホテルなだけに、サービスが<ruby>充実<rt>じゅうじつ</rt></ruby>している。"
   },
   {
     "id": 83,
@@ -1742,7 +1905,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけに",
-    "notes": "期間「20年」→「15年」"
+    "notes": "期間「20年」→「15年」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を15<ruby>年<rt>ねん</rt></ruby><ruby>教え<rt>おしえ</rt></ruby>ている【　　】、<ruby>教え方<rt>おしえかた</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を15<ruby>年<rt>ねん</rt></ruby><ruby>教え<rt>おしえ</rt></ruby>ているだけに、<ruby>教え方<rt>おしえかた</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。"
   },
   {
     "id": 84,
@@ -1763,7 +1928,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけに",
-    "notes": "人名「田中さん」→「鈴木さん」; 国名「アメリカ」→「カナダ」"
+    "notes": "人名「田中さん」→「鈴木さん」; 国名「アメリカ」→「カナダ」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>カナダで<ruby>生活<rt>せいかつ</rt></ruby>していた【　　】、<ruby>英語<rt>えいご</rt></ruby>の<ruby>発音<rt>はつおん</rt></ruby>はネイティブのようだ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>カナダで<ruby>生活<rt>せいかつ</rt></ruby>していただけに、<ruby>英語<rt>えいご</rt></ruby>の<ruby>発音<rt>はつおん</rt></ruby>はネイティブのようだ。"
   },
   {
     "id": 85,
@@ -1784,7 +1951,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>のために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した【　　】、<ruby>不合格<rt>ふごうかく</rt></ruby>のショックは<ruby>大きか<rt>おーきか</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>のために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しただけに、<ruby>不合格<rt>ふごうかく</rt></ruby>のショックは<ruby>大きか<rt>おーきか</rt></ruby>った。"
   },
   {
     "id": 86,
@@ -1805,7 +1974,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>している【　　】、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>からかなり<ruby>慎重<rt>しんちょう</rt></ruby>にやっているようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>しているだけに、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>からかなり<ruby>慎重<rt>しんちょう</rt></ruby>にやっているようだ。"
   },
   {
     "id": 87,
@@ -1826,7 +1997,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけに",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいました。<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たばかりな【　　】、<ruby>本当<rt>ほんとう</rt></ruby>にショックだ。",
+    "sentence_jp_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいました。<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たばかりなだけに、<ruby>本当<rt>ほんとう</rt></ruby>にショックだ。"
   },
   {
     "id": 88,
@@ -1847,7 +2020,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>成績<rt>せいせき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>【　　】、<ruby>人一倍<rt>ひといちばい</rt></ruby><ruby>努力<rt>どりょく</rt></ruby>するよりほかはない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>成績<rt>せいせき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>だけに、<ruby>人一倍<rt>ひといちばい</rt></ruby><ruby>努力<rt>どりょく</rt></ruby>するよりほかはない。"
   },
   {
     "id": 89,
@@ -1868,7 +2043,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけのことはある",
-    "notes": "人名「山田さん」→「佐藤さん」; 国名「アメリカ」→「カナダ」"
+    "notes": "人名「山田さん」→「佐藤さん」; 国名「アメリカ」→「カナダ」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>だ。カナダに<ruby>留学<rt>りゅうがく</rt></ruby>していた【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>だ。カナダに<ruby>留学<rt>りゅうがく</rt></ruby>していただけのことはある。"
   },
   {
     "id": 90,
@@ -1889,7 +2066,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけのことはある",
-    "notes": "名詞「5つ星ホテル」→「高級ホテル」"
+    "notes": "名詞「5つ星ホテル」→「高級ホテル」",
+    "question_ruby": "このホテルはサービスが<ruby>素晴らしい<rt>すばらしい</rt></ruby>。<ruby>高級<rt>こうきゅう</rt></ruby>ホテル【　　】。",
+    "sentence_jp_ruby": "このホテルはサービスが<ruby>素晴らしい<rt>すばらしい</rt></ruby>。<ruby>高級<rt>こうきゅう</rt></ruby>ホテルだけのことはある。"
   },
   {
     "id": 91,
@@ -1910,7 +2089,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけのことはある",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>料理教室<rt>りょうりきょうしつ</rt></ruby>に<ruby>通って<rt>とおって</rt></ruby>いる【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>手作り<rt>てづくり</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>料理教室<rt>りょうりきょうしつ</rt></ruby>に<ruby>通って<rt>とおって</rt></ruby>いるだけのことはある、<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>手作り<rt>てづくり</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>。"
   },
   {
     "id": 92,
@@ -1931,7 +2112,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけのことはある",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>体力<rt>たいりょく</rt></ruby>があって<ruby>疲れ<rt>つかれ</rt></ruby><ruby>知らず<rt>しらず</rt></ruby>だ。やっぱり<ruby>若い<rt>わかい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>体力<rt>たいりょく</rt></ruby>があって<ruby>疲れ<rt>つかれ</rt></ruby><ruby>知らず<rt>しらず</rt></ruby>だ。やっぱり<ruby>若い<rt>わかい</rt></ruby>だけのことはある。"
   },
   {
     "id": 93,
@@ -1952,7 +2135,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけのことはある",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはさすが<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはさすが<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>だけのことはある。"
   },
   {
     "id": 94,
@@ -1973,7 +2158,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけのことはある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>た【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ただけのことはある。"
   },
   {
     "id": 95,
@@ -1994,7 +2181,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけのことはあったね",
-    "notes": "期間「3年間」→「4年間」"
+    "notes": "期間「3年間」→「4年間」",
+    "question_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>したの?すごい!4<ruby>年間<rt>ねんかん</rt></ruby><ruby>大変<rt>たいへん</rt></ruby>だったけど、<ruby>勉強<rt>べんきょう</rt></ruby>した【　　】。",
+    "sentence_jp_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>したの?すごい!4<ruby>年間<rt>ねんかん</rt></ruby><ruby>大変<rt>たいへん</rt></ruby>だったけど、<ruby>勉強<rt>べんきょう</rt></ruby>しただけのことはあったね。"
   },
   {
     "id": 96,
@@ -2015,7 +2204,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけのことはある",
-    "notes": "果物「苺」→「みかん」"
+    "notes": "果物「苺」→「みかん」",
+    "question_ruby": "このみかんは<ruby>甘く<rt>あまく</rt></ruby>て、とても<ruby>美味しか<rt>おいしか</rt></ruby>ったです。<ruby>高かっ<rt>たかっ</rt></ruby>た【　　】ね。",
+    "sentence_jp_ruby": "このみかんは<ruby>甘く<rt>あまく</rt></ruby>て、とても<ruby>美味しか<rt>おいしか</rt></ruby>ったです。<ruby>高かっ<rt>たかっ</rt></ruby>ただけのことはあるね。"
   },
   {
     "id": 97,
@@ -2036,7 +2227,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>走れ<rt>はしれ</rt></ruby>る【　　】<ruby>速く<rt>はやく</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>走れ<rt>はしれ</rt></ruby>るだけは<ruby>速く<rt>はやく</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>た。"
   },
   {
     "id": 98,
@@ -2057,7 +2250,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけは",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたを<ruby>手伝え<rt>てつだえ</rt></ruby>る【　　】<ruby>手伝っ<rt>てつだっ</rt></ruby>たよ。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたを<ruby>手伝え<rt>てつだえ</rt></ruby>るだけは<ruby>手伝っ<rt>てつだっ</rt></ruby>たよ。"
   },
   {
     "id": 99,
@@ -2078,7 +2273,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけは",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>氏<rt>し</rt></ruby>のことは<ruby>親<rt>おや</rt></ruby>に<ruby>話す<rt>はなす</rt></ruby>【　　】<ruby>話し<rt>はなし</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>氏<rt>し</rt></ruby>のことは<ruby>親<rt>おや</rt></ruby>に<ruby>話す<rt>はなす</rt></ruby>だけは<ruby>話し<rt>はなし</rt></ruby>ました。"
   },
   {
     "id": 100,
@@ -2099,7 +2296,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>る【　　】<ruby>覚え<rt>おぼえ</rt></ruby>たのだから 、<ruby>後<rt>のち</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>るだけは<ruby>覚え<rt>おぼえ</rt></ruby>たのだから 、<ruby>後<rt>のち</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。"
   },
   {
     "id": 101,
@@ -2120,7 +2319,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけは",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "すべて<ruby>鈴木<rt>すずき</rt></ruby>さんのことを<ruby>聞く<rt>きく</rt></ruby>【　　】<ruby>聞い<rt>きい</rt></ruby>たが<ruby>彼は<rt>かれは</rt></ruby><ruby>悪い<rt>わるい</rt></ruby><ruby>人<rt>にん</rt></ruby>を<ruby>思わ<rt>おもわ</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "すべて<ruby>鈴木<rt>すずき</rt></ruby>さんのことを<ruby>聞く<rt>きく</rt></ruby>だけは<ruby>聞い<rt>きい</rt></ruby>たが<ruby>彼は<rt>かれは</rt></ruby><ruby>悪い<rt>わるい</rt></ruby><ruby>人<rt>にん</rt></ruby>を<ruby>思わ<rt>おもわ</rt></ruby>ないよ。"
   },
   {
     "id": 102,
@@ -2141,7 +2342,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>を<ruby>助け<rt>たすけ</rt></ruby>る【　　】<ruby>助け<rt>たすけ</rt></ruby>たが<ruby>残る<rt>のこる</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>を<ruby>助け<rt>たすけ</rt></ruby>るだけは<ruby>助け<rt>たすけ</rt></ruby>たが<ruby>残る<rt>のこる</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。"
   },
   {
     "id": 103,
@@ -2162,7 +2365,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たいことは<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby>【　　】<ruby>話し<rt>はなし</rt></ruby>たがどんな<ruby>反応<rt>はんのう</rt></ruby>でも<ruby>必ず<rt>かならず</rt></ruby><ruby>行き<rt>いき</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たいことは<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby>だけは<ruby>話し<rt>はなし</rt></ruby>たがどんな<ruby>反応<rt>はんのう</rt></ruby>でも<ruby>必ず<rt>かならず</rt></ruby><ruby>行き<rt>いき</rt></ruby>ます。"
   },
   {
     "id": 104,
@@ -2183,7 +2388,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だけは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>指示<rt>しじ</rt></ruby>のとおりにやる【　　】やった が 、いい<ruby>結果<rt>けっか</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>かどうか<ruby>自信<rt>じしん</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>指示<rt>しじ</rt></ruby>のとおりにやるだけはやった が 、いい<ruby>結果<rt>けっか</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>かどうか<ruby>自信<rt>じしん</rt></ruby>がない。"
   },
   {
     "id": 105,
@@ -2204,7 +2411,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だって",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さん【　　】<ruby>人間<rt>にんげん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんだって<ruby>人間<rt>にんげん</rt></ruby>だ。"
   },
   {
     "id": 106,
@@ -2225,7 +2434,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だって",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】あなたに<ruby>会い<rt>あい</rt></ruby>たい。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんだってあなたに<ruby>会い<rt>あい</rt></ruby>たい。"
   },
   {
     "id": 107,
@@ -2246,7 +2457,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>【　　】そんなことは<ruby>知って<rt>しって</rt></ruby>いるさ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>だってそんなことは<ruby>知って<rt>しって</rt></ruby>いるさ。"
   },
   {
     "id": 108,
@@ -2267,7 +2480,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だって",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】<ruby>本<rt>ほん</rt></ruby>くらい<ruby>読む<rt>よむ</rt></ruby>よ。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんだって<ruby>本<rt>ほん</rt></ruby>くらい<ruby>読む<rt>よむ</rt></ruby>よ。"
   },
   {
     "id": 109,
@@ -2288,7 +2503,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "だって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>何を<rt>なにを</rt></ruby><ruby>怒っ<rt>いかっ</rt></ruby>てるの?」 じつは、「【　　】、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たじゃん。』",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>何を<rt>なにを</rt></ruby><ruby>怒っ<rt>いかっ</rt></ruby>てるの?」 じつは、「だって、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たじゃん。』"
   },
   {
     "id": 110,
@@ -2309,7 +2526,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「テストの<ruby>点<rt>てん</rt></ruby>、<ruby>良か<rt>よか</rt></ruby>ったん【　　】?」 じつは、「うん、だって<ruby>簡単<rt>かんたん</rt></ruby>だもん。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「テストの<ruby>点<rt>てん</rt></ruby>、<ruby>良か<rt>よか</rt></ruby>ったんだって?」 じつは、「うん、だって<ruby>簡単<rt>かんたん</rt></ruby>だもん。」"
   },
   {
     "id": 111,
@@ -2330,7 +2549,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「いつまで<ruby>寝て<rt>ねて</rt></ruby>るの。<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>なさい。」 じつは、「【　　】<ruby>眠い<rt>ねむい</rt></ruby>んだもん。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「いつまで<ruby>寝て<rt>ねて</rt></ruby>るの。<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>なさい。」 じつは、「だって<ruby>眠い<rt>ねむい</rt></ruby>んだもん。」"
   },
   {
     "id": 112,
@@ -2351,7 +2572,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "でしかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これらの<ruby>考え<rt>かんがえ</rt></ruby>は<ruby>推測<rt>すいそく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これらの<ruby>考え<rt>かんがえ</rt></ruby>は<ruby>推測<rt>すいそく</rt></ruby>でしかない。"
   },
   {
     "id": 113,
@@ -2372,7 +2595,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "でしかない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>作業<rt>さぎょう</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>作業<rt>さぎょう</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>でしかない。"
   },
   {
     "id": 114,
@@ -2393,7 +2618,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "でしかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>夢<rt>ゆめ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>夢<rt>ゆめ</rt></ruby>でしかない。"
   },
   {
     "id": 115,
@@ -2414,7 +2641,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "でしかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もし<ruby>薬<rt>くすり</rt></ruby>で<ruby>治ら<rt>なおら</rt></ruby>なかったら、<ruby>手術<rt>しゅじゅつ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もし<ruby>薬<rt>くすり</rt></ruby>で<ruby>治ら<rt>なおら</rt></ruby>なかったら、<ruby>手術<rt>しゅじゅつ</rt></ruby>でしかない。"
   },
   {
     "id": 116,
@@ -2435,7 +2664,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "でしかない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>社<rt>しゃ</rt></ruby>⻑ですが、<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>目<rt>め</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>といつまでも<ruby>子供<rt>こども</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>社<rt>しゃ</rt></ruby>⻑ですが、<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>目<rt>め</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>といつまでも<ruby>子供<rt>こども</rt></ruby>でしかない。"
   },
   {
     "id": 117,
@@ -2456,7 +2687,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "でしかない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>いるが、それは<ruby>口実<rt>こうじつ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>いるが、それは<ruby>口実<rt>こうじつ</rt></ruby>でしかない。"
   },
   {
     "id": 118,
@@ -2477,7 +2710,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "でしかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>人<rt>にん</rt></ruby>でも<ruby>死ぬ<rt>しぬ</rt></ruby>ときは<ruby>一人<rt>ひとり</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>人<rt>にん</rt></ruby>でも<ruby>死ぬ<rt>しぬ</rt></ruby>ときは<ruby>一人<rt>ひとり</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby>でしかない。"
   },
   {
     "id": 119,
@@ -2498,7 +2733,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "でしかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>君<rt>くん</rt></ruby>の<ruby>錯覚<rt>さっかく</rt></ruby>【　　】。<ruby>目<rt>め</rt></ruby>を<ruby>覚め<rt>さめ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>君<rt>くん</rt></ruby>の<ruby>錯覚<rt>さっかく</rt></ruby>でしかない。<ruby>目<rt>め</rt></ruby>を<ruby>覚め<rt>さめ</rt></ruby>てください。"
   },
   {
     "id": 120,
@@ -2519,7 +2756,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころではない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはよく<ruby>間違い<rt>まちがい</rt></ruby>をするが、バカ【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはよく<ruby>間違い<rt>まちがい</rt></ruby>をするが、バカどころではない。"
   },
   {
     "id": 121,
@@ -2540,7 +2779,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どころではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>宿題<rt>しゅくだい</rt></ruby>がたくさんあってテレビを<ruby>見る<rt>みる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>宿題<rt>しゅくだい</rt></ruby>がたくさんあってテレビを<ruby>見る<rt>みる</rt></ruby>どころではない。"
   },
   {
     "id": 122,
@@ -2561,7 +2802,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どころじゃない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>がひどくて、<ruby>遊び<rt>あそび</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>がひどくて、<ruby>遊び<rt>あそび</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>どころじゃない。"
   },
   {
     "id": 123,
@@ -2582,7 +2825,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころではない",
-    "notes": "店舗「ケーキ屋」→「洋菓子店」"
+    "notes": "店舗「ケーキ屋」→「洋菓子店」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ているから、<ruby>毎年<rt>まいとし</rt></ruby>クリスマスは<ruby>彼氏<rt>かれし</rt></ruby>とデート【　　】。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ているから、<ruby>毎年<rt>まいとし</rt></ruby>クリスマスは<ruby>彼氏<rt>かれし</rt></ruby>とデートどころではない。"
   },
   {
     "id": 124,
@@ -2603,7 +2848,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どころではありません",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝う<rt>てつだう</rt></ruby>【　　】。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>も<ruby>間に合わ<rt>まにあわ</rt></ruby>ないんです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝う<rt>てつだう</rt></ruby>どころではありません。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>も<ruby>間に合わ<rt>まにあわ</rt></ruby>ないんです。"
   },
   {
     "id": 125,
@@ -2624,7 +2871,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どころではありません",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>年末<rt>ねんまつ</rt></ruby>から<ruby>母<rt>はは</rt></ruby>の<ruby>入院<rt>にゅういん</rt></ruby>で、お<ruby>正月<rt>しょうがつ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>年末<rt>ねんまつ</rt></ruby>から<ruby>母<rt>はは</rt></ruby>の<ruby>入院<rt>にゅういん</rt></ruby>で、お<ruby>正月<rt>しょうがつ</rt></ruby>どころではありません。"
   },
   {
     "id": 126,
@@ -2645,7 +2894,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころじゃない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>遅い<rt>おそい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>にみんなは<ruby>眠く<rt>ねむく</rt></ruby>て<ruby>喋る<rt>しゃべる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>遅い<rt>おそい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>にみんなは<ruby>眠く<rt>ねむく</rt></ruby>て<ruby>喋る<rt>しゃべる</rt></ruby>どころじゃない。"
   },
   {
     "id": 127,
@@ -2666,7 +2917,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どころではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>きん</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>きん</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>どころではない。"
   },
   {
     "id": 128,
@@ -2687,7 +2940,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もっと<ruby>勉強<rt>べんきょう</rt></ruby>しないと、N2【　　】N3も<ruby>無理<rt>むり</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もっと<ruby>勉強<rt>べんきょう</rt></ruby>しないと、N2どころかN3も<ruby>無理<rt>むり</rt></ruby>だ。"
   },
   {
     "id": 129,
@@ -2708,7 +2963,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>食べ物<rt>たべもの</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>になる【　　】、<ruby>病気<rt>びょうき</rt></ruby>になっちゃうよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>食べ物<rt>たべもの</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>になるどころか、<ruby>病気<rt>びょうき</rt></ruby>になっちゃうよ。"
   },
   {
     "id": 130,
@@ -2729,7 +2986,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>夏休み<rt>なつやすみ</rt></ruby>は<ruby>取れ<rt>とれ</rt></ruby>そう?」 じつは、「<ruby>忙しく<rt>いそがしく</rt></ruby>て<ruby>夏休み<rt>なつやすみ</rt></ruby>【　　】<ruby>日曜日<rt>にちようび</rt></ruby>も<ruby>休め<rt>やすめ</rt></ruby>ない。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>夏休み<rt>なつやすみ</rt></ruby>は<ruby>取れ<rt>とれ</rt></ruby>そう?」 じつは、「<ruby>忙しく<rt>いそがしく</rt></ruby>て<ruby>夏休み<rt>なつやすみ</rt></ruby>どころか<ruby>日曜日<rt>にちようび</rt></ruby>も<ruby>休め<rt>やすめ</rt></ruby>ない。」"
   },
   {
     "id": 131,
@@ -2750,7 +3009,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>出さ<rt>ださ</rt></ruby>れた<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいるのに、よくなる【　　】、<ruby>症状<rt>しょうじょう</rt></ruby>はひどくなる<ruby>一方<rt>いっぽう</rt></ruby>だよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>出さ<rt>ださ</rt></ruby>れた<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいるのに、よくなるどころか、<ruby>症状<rt>しょうじょう</rt></ruby>はひどくなる<ruby>一方<rt>いっぽう</rt></ruby>だよ。"
   },
   {
     "id": 132,
@@ -2771,7 +3032,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どころか",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>役に立つ<rt>やくにたつ</rt></ruby>【　　】、<ruby>迷惑<rt>めいわく</rt></ruby>もかけた。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>役に立つ<rt>やくにたつ</rt></ruby>どころか、<ruby>迷惑<rt>めいわく</rt></ruby>もかけた。"
   },
   {
     "id": 133,
@@ -2792,7 +3055,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>忙しく<rt>いそがしく</rt></ruby>て、<ruby>休み<rt>やすみ</rt></ruby>をとる【　　】、<ruby>食事<rt>しょくじ</rt></ruby>をする<ruby>時間<rt>じかん</rt></ruby>もない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>忙しく<rt>いそがしく</rt></ruby>て、<ruby>休み<rt>やすみ</rt></ruby>をとるどころか、<ruby>食事<rt>しょくじ</rt></ruby>をする<ruby>時間<rt>じかん</rt></ruby>もない。"
   },
   {
     "id": 134,
@@ -2813,7 +3078,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どころか",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>書く<rt>かく</rt></ruby>【　　】<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>会話<rt>かいわ</rt></ruby>も<ruby>出来な<rt>できな</rt></ruby>い。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>書く<rt>かく</rt></ruby>どころか<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>会話<rt>かいわ</rt></ruby>も<ruby>出来な<rt>できな</rt></ruby>い。"
   },
   {
     "id": 135,
@@ -2834,7 +3101,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どころか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>【　　】<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>足り<rt>たり</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>どころか<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>足り<rt>たり</rt></ruby>ない。"
   },
   {
     "id": 136,
@@ -2855,7 +3124,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どうやら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>になりそうだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやら<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>になりそうだ。"
   },
   {
     "id": 137,
@@ -2876,7 +3147,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どうやら",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>知ら<rt>しら</rt></ruby>ないらしい。",
+    "sentence_jp_ruby": "どうやら、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>知ら<rt>しら</rt></ruby>ないらしい。"
   },
   {
     "id": 138,
@@ -2897,7 +3170,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どうやら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>誤解<rt>ごかい</rt></ruby>があるようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやら<ruby>誤解<rt>ごかい</rt></ruby>があるようだ。"
   },
   {
     "id": 139,
@@ -2918,7 +3193,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうやら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今晩<rt>こんばん</rt></ruby>は【　　】<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>おり</rt></ruby>そうだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今晩<rt>こんばん</rt></ruby>はどうやら<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り<rt>おり</rt></ruby>そうだ。"
   },
   {
     "id": 140,
@@ -2939,7 +3216,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうやら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>になれてきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやら<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>になれてきた。"
   },
   {
     "id": 141,
@@ -2960,7 +3239,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうやら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>運の<rt>はこの</rt></ruby><ruby>尽き<rt>ことごとき</rt></ruby>だどうやらうんおつきだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやら<ruby>運の<rt>はこの</rt></ruby><ruby>尽き<rt>ことごとき</rt></ruby>だどうやらうんおつきだ。"
   },
   {
     "id": 142,
@@ -2981,7 +3262,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どうやら",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが【　　】<ruby>財布<rt>さいふ</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>忘れ<rt>わすれ</rt></ruby>たかれがどうやらさいふをいえにわすれた。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんがどうやら<ruby>財布<rt>さいふ</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>忘れ<rt>わすれ</rt></ruby>たかれがどうやらさいふをいえにわすれた。"
   },
   {
     "id": 143,
@@ -3002,7 +3285,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どうやら",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "【　　】<ruby>君<rt>くん</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>一緒に<rt>いっしょに</rt></ruby>なる<ruby>運命<rt>うんめい</rt></ruby>のようだ。",
+    "sentence_jp_ruby": "どうやら<ruby>君<rt>くん</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>一緒に<rt>いっしょに</rt></ruby>なる<ruby>運命<rt>うんめい</rt></ruby>のようだ。"
   },
   {
     "id": 144,
@@ -3023,7 +3308,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】やるなら<ruby>上手<rt>じょうず</rt></ruby>にやれ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせやるなら<ruby>上手<rt>じょうず</rt></ruby>にやれ。"
   },
   {
     "id": 145,
@@ -3044,7 +3331,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>行く<rt>いく</rt></ruby>んでしょ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせ<ruby>行く<rt>いく</rt></ruby>んでしょ。"
   },
   {
     "id": 146,
@@ -3065,7 +3354,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>参加<rt>さんか</rt></ruby>しないのなら、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>たほうがいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせ<ruby>参加<rt>さんか</rt></ruby>しないのなら、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>たほうがいい。"
   },
   {
     "id": 147,
@@ -3086,7 +3377,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>試合<rt>しあい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にまだ<ruby>一週間<rt>いっしゅうかん</rt></ruby>があるのでもっと<ruby>練習<rt>れんしゅう</rt></ruby>しょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせ、<ruby>試合<rt>しあい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にまだ<ruby>一週間<rt>いっしゅうかん</rt></ruby>があるのでもっと<ruby>練習<rt>れんしゅう</rt></ruby>しょう。"
   },
   {
     "id": 148,
@@ -3107,7 +3400,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今か<rt>いまか</rt></ruby>ら<ruby>行って<rt>いって</rt></ruby>も【　　】<ruby>遅刻<rt>ちこく</rt></ruby>だから、<ruby>行か<rt>いか</rt></ruby>ないことにする。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今か<rt>いまか</rt></ruby>ら<ruby>行って<rt>いって</rt></ruby>もどうせ<ruby>遅刻<rt>ちこく</rt></ruby>だから、<ruby>行か<rt>いか</rt></ruby>ないことにする。"
   },
   {
     "id": 149,
@@ -3128,7 +3423,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくださいませんか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせ<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくださいませんか?"
   },
   {
     "id": 150,
@@ -3149,7 +3446,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どうせ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>汚す<rt>よごす</rt></ruby>のだから、<ruby>子供<rt>こども</rt></ruby>に<ruby>高価<rt>こうか</rt></ruby>な<ruby>服<rt>ふく</rt></ruby>を<ruby>着せ<rt>きせ</rt></ruby>るは<ruby>必要<rt>ひつよう</rt></ruby>ないだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうせ<ruby>汚す<rt>よごす</rt></ruby>のだから、<ruby>子供<rt>こども</rt></ruby>に<ruby>高価<rt>こうか</rt></ruby>な<ruby>服<rt>ふく</rt></ruby>を<ruby>着せ<rt>きせ</rt></ruby>るは<ruby>必要<rt>ひつよう</rt></ruby>ないだろう。"
   },
   {
     "id": 151,
@@ -3170,7 +3469,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どうせ",
-    "notes": "地域名「北海道」→「沖縄」"
+    "notes": "地域名「北海道」→「沖縄」",
+    "question_ruby": "<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ことになった。【　　】<ruby>行く<rt>いく</rt></ruby>なら、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>思い切り<rt>おもいきり</rt></ruby><ruby>楽し<rt>たのし</rt></ruby>もうと<ruby>思った<rt>おもった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ことになった。どうせ<ruby>行く<rt>いく</rt></ruby>なら、<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>思い切り<rt>おもいきり</rt></ruby><ruby>楽し<rt>たのし</rt></ruby>もうと<ruby>思った<rt>おもった</rt></ruby>。"
   },
   {
     "id": 152,
@@ -3191,7 +3492,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>!?え〜!あり【　　】よ!",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>!?え〜!あり<ruby>得な<rt>えな</rt></ruby>いよ!"
   },
   {
     "id": 153,
@@ -3212,7 +3515,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "得ない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "あの<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>犯人<rt>はんにん</rt></ruby>?そんなことはあり【　　】。",
+    "sentence_jp_ruby": "あの<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>犯人<rt>はんにん</rt></ruby>?そんなことはあり<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 154,
@@ -3233,7 +3538,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "得ないこと",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>がいつ<ruby>来る<rt>くる</rt></ruby>かなんて、<ruby>予測<rt>よそく</rt></ruby>し【　　】だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>がいつ<ruby>来る<rt>くる</rt></ruby>かなんて、<ruby>予測<rt>よそく</rt></ruby>し<ruby>得な<rt>えな</rt></ruby>いことだ。"
   },
   {
     "id": 155,
@@ -3254,7 +3561,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無か<rt>なか</rt></ruby>ら<ruby>有<rt>あり</rt></ruby>は<ruby>生じ<rt>しょうじ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無か<rt>なか</rt></ruby>ら<ruby>有<rt>あり</rt></ruby>は<ruby>生じ<rt>しょうじ</rt></ruby><ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 156,
@@ -3275,7 +3584,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機械<rt>きかい</rt></ruby>は<ruby>完全<rt>かんぜん</rt></ruby>には<ruby>人力<rt>じんりき</rt></ruby>に<ruby>代わり<rt>かわり</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機械<rt>きかい</rt></ruby>は<ruby>完全<rt>かんぜん</rt></ruby>には<ruby>人力<rt>じんりき</rt></ruby>に<ruby>代わり<rt>かわり</rt></ruby><ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 157,
@@ -3296,7 +3607,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "得ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>我々<rt>われわれ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>だけでは<ruby>処理<rt>しょり</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "そのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>我々<rt>われわれ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>だけでは<ruby>処理<rt>しょり</rt></ruby>し<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 158,
@@ -3317,7 +3630,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "得ないこと",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>予測<rt>よそく</rt></ruby>し【　　】が<ruby>起き<rt>おき</rt></ruby>たけど、<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>落ち着い<rt>おちつい</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>予測<rt>よそく</rt></ruby>し<ruby>得な<rt>えな</rt></ruby>いことが<ruby>起き<rt>おき</rt></ruby>たけど、<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>落ち着い<rt>おちつい</rt></ruby>てください。"
   },
   {
     "id": 159,
@@ -3338,7 +3653,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>はいつ<ruby>起こ<rt>おこ</rt></ruby>るか<ruby>予想<rt>よそう</rt></ruby>し【　　】から、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>との<ruby>連絡方法<rt>れんらくほうほう</rt></ruby>や<ruby>避難場所<rt>ひなんばしょ</rt></ruby>などを<ruby>決め<rt>きめ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いいでしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>はいつ<ruby>起こ<rt>おこ</rt></ruby>るか<ruby>予想<rt>よそう</rt></ruby>し<ruby>得な<rt>えな</rt></ruby>いから、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>との<ruby>連絡方法<rt>れんらくほうほう</rt></ruby>や<ruby>避難場所<rt>ひなんばしょ</rt></ruby>などを<ruby>決め<rt>きめ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いいでしょう。"
   },
   {
     "id": 160,
@@ -3359,7 +3676,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "得る",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り【　　】から。",
+    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。"
   },
   {
     "id": 161,
@@ -3380,7 +3699,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "得る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>はいつでも<ruby>起こ<rt>おこ</rt></ruby>り【　　】ので、<ruby>気を<rt>きを</rt></ruby>つけてください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>はいつでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>ので、<ruby>気を<rt>きを</rt></ruby>つけてください。"
   },
   {
     "id": 162,
@@ -3401,7 +3722,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "得ます",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、タバコを<ruby>吸い<rt>すい</rt></ruby>すぎや、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になり【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、タバコを<ruby>吸い<rt>すい</rt></ruby>すぎや、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になり<ruby>得ま<rt>えま</rt></ruby>す。"
   },
   {
     "id": 163,
@@ -3422,7 +3745,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "得る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>運動不足<rt>うんどうぶそく</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になり【　　】ので、できるだけ<ruby>体<rt>からだ</rt></ruby>を<ruby>動か<rt>うごか</rt></ruby>すようにしてください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>運動不足<rt>うんどうぶそく</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になり<ruby>得る<rt>える</rt></ruby>ので、できるだけ<ruby>体<rt>からだ</rt></ruby>を<ruby>動か<rt>うごか</rt></ruby>すようにしてください。"
   },
   {
     "id": 164,
@@ -3443,7 +3768,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "得る",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>不況<rt>ふきょう</rt></ruby>では<ruby>大手<rt>おおて</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>の<ruby>倒産<rt>とうさん</rt></ruby>もあり【　　】。",
+    "sentence_jp_ruby": "その<ruby>不況<rt>ふきょう</rt></ruby>では<ruby>大手<rt>おおて</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>の<ruby>倒産<rt>とうさん</rt></ruby>もあり<ruby>得る<rt>える</rt></ruby>。"
   },
   {
     "id": 165,
@@ -3464,7 +3791,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "得ること",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "1つのミスが、<ruby>職場<rt>しょくば</rt></ruby>を<ruby>倒産<rt>とうさん</rt></ruby>に<ruby>導く<rt>みちびく</rt></ruby>こともあり【　　】だ。<ruby>気を<rt>きを</rt></ruby><ruby>抜か<rt>ぬか</rt></ruby>ずに、<ruby>頑張っ<rt>がんばっ</rt></ruby>ていこう。",
+    "sentence_jp_ruby": "1つのミスが、<ruby>職場<rt>しょくば</rt></ruby>を<ruby>倒産<rt>とうさん</rt></ruby>に<ruby>導く<rt>みちびく</rt></ruby>こともあり<ruby>得る<rt>える</rt></ruby>ことだ。<ruby>気を<rt>きを</rt></ruby><ruby>抜か<rt>ぬか</rt></ruby>ずに、<ruby>頑張っ<rt>がんばっ</rt></ruby>ていこう。"
   },
   {
     "id": 166,
@@ -3485,7 +3814,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "得る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>地下鉄<rt>ちかてつ</rt></ruby>は、<ruby>初めて<rt>はじめて</rt></ruby><ruby>乗る<rt>のる</rt></ruby><ruby>人々<rt>ひとびと</rt></ruby>にとっては、とてもややこしいものとなり【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>地下鉄<rt>ちかてつ</rt></ruby>は、<ruby>初めて<rt>はじめて</rt></ruby><ruby>乗る<rt>のる</rt></ruby><ruby>人々<rt>ひとびと</rt></ruby>にとっては、とてもややこしいものとなり<ruby>得る<rt>える</rt></ruby>。"
   },
   {
     "id": 167,
@@ -3506,7 +3837,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "再び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>からレッスンを【　　】<ruby>開始<rt>かいし</rt></ruby>したいですか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>からレッスンを<ruby>再び<rt>ふたたび</rt></ruby><ruby>開始<rt>かいし</rt></ruby>したいですか?"
   },
   {
     "id": 168,
@@ -3527,7 +3860,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "再び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>は<ruby>楽しか<rt>たのしか</rt></ruby>った。<ruby>来年<rt>らいねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>【　　】ここに<ruby>来た<rt>きた</rt></ruby>い。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>は<ruby>楽しか<rt>たのしか</rt></ruby>った。<ruby>来年<rt>らいねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby><ruby>再び<rt>ふたたび</rt></ruby>ここに<ruby>来た<rt>きた</rt></ruby>い。"
   },
   {
     "id": 169,
@@ -3548,7 +3883,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "再び",
-    "notes": "期間「10年」→「5年」"
+    "notes": "期間「10年」→「5年」",
+    "question_ruby": "5<ruby>年後<rt>ねんご</rt></ruby>にようやく<ruby>彼は<rt>かれは</rt></ruby>、【　　】<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>町<rt>まち</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>。",
+    "sentence_jp_ruby": "5<ruby>年後<rt>ねんご</rt></ruby>にようやく<ruby>彼は<rt>かれは</rt></ruby>、<ruby>再び<rt>ふたたび</rt></ruby><ruby>故郷<rt>こきょう</rt></ruby>の<ruby>町<rt>まち</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>。"
   },
   {
     "id": 170,
@@ -3569,7 +3906,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "再び",
-    "notes": "期間「1ヶ月」→「2ヶ月」; 時相「昨日」→「一昨日」"
+    "notes": "期間「1ヶ月」→「2ヶ月」; 時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>私<rt>わたし</rt></ruby>は、<ruby>図書館<rt>としょかん</rt></ruby>で2ヶ<ruby>月前<rt>げつまえ</rt></ruby>に<ruby>出会っ<rt>であっ</rt></ruby>た<ruby>少女<rt>しょうじょ</rt></ruby>と【　　】<ruby>会っ<rt>あっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>私<rt>わたし</rt></ruby>は、<ruby>図書館<rt>としょかん</rt></ruby>で2ヶ<ruby>月前<rt>げつまえ</rt></ruby>に<ruby>出会っ<rt>であっ</rt></ruby>た<ruby>少女<rt>しょうじょ</rt></ruby>と<ruby>再び<rt>ふたたび</rt></ruby><ruby>会っ<rt>あっ</rt></ruby>た。"
   },
   {
     "id": 171,
@@ -3590,7 +3929,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "再び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>最悪<rt>さいあく</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>だ。<ruby>二度<rt>にど</rt></ruby>と【　　】あの<ruby>男<rt>おとこ</rt></ruby>とは<ruby>会い<rt>あい</rt></ruby>たくない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>最悪<rt>さいあく</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>だ。<ruby>二度<rt>にど</rt></ruby>と<ruby>再び<rt>ふたたび</rt></ruby>あの<ruby>男<rt>おとこ</rt></ruby>とは<ruby>会い<rt>あい</rt></ruby>たくない。"
   },
   {
     "id": 172,
@@ -3611,7 +3952,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "再び",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なってからピアノを<ruby>弾か<rt>ひか</rt></ruby>なかった。<ruby>一昨日<rt>いっさくじつ</rt></ruby>は【　　】<ruby>弾き<rt>ひき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なってからピアノを<ruby>弾か<rt>ひか</rt></ruby>なかった。<ruby>一昨日<rt>いっさくじつ</rt></ruby>は<ruby>再び<rt>ふたたび</rt></ruby><ruby>弾き<rt>ひき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 173,
@@ -3632,7 +3975,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "再び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にいいの?ここを<ruby>離れ<rt>はなれ</rt></ruby>たら【　　】<ruby>戻る<rt>もどる</rt></ruby>ことはできないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にいいの?ここを<ruby>離れ<rt>はなれ</rt></ruby>たら<ruby>再び<rt>ふたたび</rt></ruby><ruby>戻る<rt>もどる</rt></ruby>ことはできないよ。"
   },
   {
     "id": 174,
@@ -3653,7 +3998,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな【　　】やりなさい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなふうにやりなさい。"
   },
   {
     "id": 175,
@@ -3674,7 +4021,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ふうに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんもあんな【　　】なりたいです。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんもあんなふうになりたいです。"
   },
   {
     "id": 176,
@@ -3695,7 +4044,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どういう【　　】<ruby>動く<rt>うごく</rt></ruby>か<ruby>見せ<rt>みせ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どういうふうに<ruby>動く<rt>うごく</rt></ruby>か<ruby>見せ<rt>みせ</rt></ruby>てください。"
   },
   {
     "id": 177,
@@ -3716,7 +4067,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません、これはどんな【　　】やればよいでしょうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません、これはどんなふうにやればよいでしょうか。"
   },
   {
     "id": 178,
@@ -3737,7 +4090,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>勝手<rt>かって</rt></ruby>にそんな【　　】しないでください。<ruby>教え<rt>おしえ</rt></ruby>たどおりにやればいいです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>勝手<rt>かって</rt></ruby>にそんなふうにしないでください。<ruby>教え<rt>おしえ</rt></ruby>たどおりにやればいいです。"
   },
   {
     "id": 179,
@@ -3758,7 +4113,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふうに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>がペラペラですね。<ruby>私<rt>わたし</rt></ruby>もあんな【　　】なりたいです。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>がペラペラですね。<ruby>私<rt>わたし</rt></ruby>もあんなふうになりたいです。"
   },
   {
     "id": 180,
@@ -3779,7 +4136,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>なら、あんな【　　】<ruby>行動<rt>こうどう</rt></ruby>しなかっただろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>なら、あんなふうに<ruby>行動<rt>こうどう</rt></ruby>しなかっただろう。"
   },
   {
     "id": 181,
@@ -3800,7 +4159,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやってあんな【　　】<ruby>飛行機<rt>ひこうき</rt></ruby>から<ruby>飛び降り<rt>とびおり</rt></ruby>ますか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうやってあんなふうに<ruby>飛行機<rt>ひこうき</rt></ruby>から<ruby>飛び降り<rt>とびおり</rt></ruby>ますか?"
   },
   {
     "id": 182,
@@ -3821,7 +4182,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふうに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそんな【　　】<ruby>言わ<rt>いわ</rt></ruby>れると、めちゃくちゃ<ruby>怒る<rt>いかる</rt></ruby>よ。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそんなふうに<ruby>言わ<rt>いわ</rt></ruby>れると、めちゃくちゃ<ruby>怒る<rt>いかる</rt></ruby>よ。"
   },
   {
     "id": 183,
@@ -3842,7 +4205,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたの<ruby>説明<rt>せつめい</rt></ruby>はこういう【　　】<ruby>理解<rt>りかい</rt></ruby>してもよろしいでしょうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたの<ruby>説明<rt>せつめい</rt></ruby>はこういうふうに<ruby>理解<rt>りかい</rt></ruby>してもよろしいでしょうか。"
   },
   {
     "id": 184,
@@ -3863,7 +4228,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をきっかけに",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>【　　】そのつまらない<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけにそのつまらない<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>た。"
   },
   {
     "id": 185,
@@ -3884,7 +4251,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をきっかけとして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>【　　】、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>が<ruby>強化<rt>きょうか</rt></ruby>された。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>をきっかけとして、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>が<ruby>強化<rt>きょうか</rt></ruby>された。"
   },
   {
     "id": 186,
@@ -3905,7 +4274,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をきっかけとして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たの【　　】、タバコを<ruby>辞め<rt>やめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのをきっかけとして、タバコを<ruby>辞め<rt>やめ</rt></ruby>た。"
   },
   {
     "id": 187,
@@ -3926,7 +4297,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "がきっかけで",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、パソコンを<ruby>買っ<rt>かっ</rt></ruby>てもらったこと【　　】、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、パソコンを<ruby>買っ<rt>かっ</rt></ruby>てもらったことがきっかけで、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。"
   },
   {
     "id": 188,
@@ -3947,7 +4320,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をきっかけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>失恋<rt>しつれん</rt></ruby>【　　】、<ruby>海外<rt>かいがい</rt></ruby>に<ruby>出て<rt>でて</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をしようと<ruby>決心<rt>けっしん</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>失恋<rt>しつれん</rt></ruby>をきっかけに、<ruby>海外<rt>かいがい</rt></ruby>に<ruby>出て<rt>でて</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をしようと<ruby>決心<rt>けっしん</rt></ruby>した。"
   },
   {
     "id": 189,
@@ -3968,7 +4343,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をきっかけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>でのホームステイ【　　】<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>にとても<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持つ<rt>もつ</rt></ruby>ようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>でのホームステイをきっかけに<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>にとても<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持つ<rt>もつ</rt></ruby>ようになった。"
   },
   {
     "id": 190,
@@ -3989,7 +4366,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をきっかけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>事件<rt>じけん</rt></ruby>【　　】、<ruby>消費者<rt>しょうひしゃ</rt></ruby>は<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>するようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>事件<rt>じけん</rt></ruby>をきっかけに、<ruby>消費者<rt>しょうひしゃ</rt></ruby>は<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>するようになった。"
   },
   {
     "id": 191,
@@ -4010,7 +4389,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何か<rt>なにか</rt></ruby>、<ruby>言い<rt>いい</rt></ruby>た【　　】だね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何か<rt>なにか</rt></ruby>、<ruby>言い<rt>いい</rt></ruby>たげだね。"
   },
   {
     "id": 192,
@@ -4031,7 +4412,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>は<ruby>寂し<rt>さびし</rt></ruby>【　　】な<ruby>目<rt>め</rt></ruby>をしている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>は<ruby>寂し<rt>さびし</rt></ruby>げな<ruby>目<rt>め</rt></ruby>をしている。"
   },
   {
     "id": 193,
@@ -4052,7 +4435,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "げ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>眠た<rt>ねむた</rt></ruby>【　　】な<ruby>声<rt>こえ</rt></ruby>でおはようと<ruby>言った<rt>いった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>眠た<rt>ねむた</rt></ruby>げな<ruby>声<rt>こえ</rt></ruby>でおはようと<ruby>言った<rt>いった</rt></ruby>。"
   },
   {
     "id": 194,
@@ -4073,7 +4458,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ずいぶん、<ruby>自信<rt>じしん</rt></ruby>あり【　　】だね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ずいぶん、<ruby>自信<rt>じしん</rt></ruby>ありげだね。"
   },
   {
     "id": 195,
@@ -4094,7 +4481,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>のために<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby><ruby>日<rt>にち</rt></ruby>、<ruby>母<rt>はは</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>寂し<rt>さびし</rt></ruby>【　　】だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>のために<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby><ruby>日<rt>にち</rt></ruby>、<ruby>母<rt>はは</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>寂し<rt>さびし</rt></ruby>げだった。"
   },
   {
     "id": 196,
@@ -4115,7 +4504,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そりゃあちょっとあやし【　　】に<ruby>見え<rt>みえ</rt></ruby>ますからね、そう<ruby>思い<rt>おもい</rt></ruby>ませんか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そりゃあちょっとあやしげに<ruby>見え<rt>みえ</rt></ruby>ますからね、そう<ruby>思い<rt>おもい</rt></ruby>ませんか?"
   },
   {
     "id": 197,
@@ -4136,7 +4527,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "げ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>大人<rt>おとな</rt></ruby>【　　】ない<ruby>態度<rt>たいど</rt></ruby>をとってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>大人<rt>おとな</rt></ruby>げない<ruby>態度<rt>たいど</rt></ruby>をとってしまった。"
   },
   {
     "id": 198,
@@ -4157,7 +4550,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "げ",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入学式<rt>にゅうがくしき</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>はとても<ruby>不安<rt>ふあん</rt></ruby>【　　】だったが、<ruby>学校<rt>がっこう</rt></ruby>から<ruby>帰っ<rt>かえっ</rt></ruby>てくると、<ruby>明るい<rt>あかるい</rt></ruby><ruby>表情<rt>ひょうじょう</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入学式<rt>にゅうがくしき</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>はとても<ruby>不安<rt>ふあん</rt></ruby>げだったが、<ruby>学校<rt>がっこう</rt></ruby>から<ruby>帰っ<rt>かえっ</rt></ruby>てくると、<ruby>明るい<rt>あかるい</rt></ruby><ruby>表情<rt>ひょうじょう</rt></ruby>だった。"
   },
   {
     "id": 199,
@@ -4178,7 +4573,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "げ",
-    "notes": "点数「100点」→「95点」"
+    "notes": "点数「100点」→「95点」",
+    "question_ruby": "クラスメートにテストの<ruby>結果<rt>けっか</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>と、<ruby>嬉し<rt>うれし</rt></ruby>【　　】な<ruby>顔<rt>かお</rt></ruby>で95<ruby>点<rt>てん</rt></ruby>だったと<ruby>教え<rt>おしえ</rt></ruby>てくれた。",
+    "sentence_jp_ruby": "クラスメートにテストの<ruby>結果<rt>けっか</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>と、<ruby>嬉し<rt>うれし</rt></ruby>げな<ruby>顔<rt>かお</rt></ruby>で95<ruby>点<rt>てん</rt></ruby>だったと<ruby>教え<rt>おしえ</rt></ruby>てくれた。"
   },
   {
     "id": 200,
@@ -4199,7 +4596,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "逆に",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」",
+    "question_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>好き<rt>すき</rt></ruby>だが、【　　】<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>嫌い<rt>きらい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>好き<rt>すき</rt></ruby>だが、<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>嫌い<rt>きらい</rt></ruby>だ。"
   },
   {
     "id": 201,
@@ -4220,7 +4619,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "逆に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>天気予報<rt>てんきよほう</rt></ruby>と【　　】、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>続い<rt>つづい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>天気予報<rt>てんきよほう</rt></ruby>と<ruby>逆に<rt>ぎゃくに</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>続い<rt>つづい</rt></ruby>ている。"
   },
   {
     "id": 202,
@@ -4241,7 +4642,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "逆に",
-    "notes": "主語「弟」→「妹」"
+    "notes": "主語「弟」→「妹」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>ゲームが<ruby>大好き<rt>だいすき</rt></ruby>だが、【　　】<ruby>妹<rt>いもうと</rt></ruby>さんは<ruby>嫌い<rt>きらい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby>ゲームが<ruby>大好き<rt>だいすき</rt></ruby>だが、<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>妹<rt>いもうと</rt></ruby>さんは<ruby>嫌い<rt>きらい</rt></ruby>だ。"
   },
   {
     "id": 203,
@@ -4262,7 +4665,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "逆に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>嫌い<rt>きらい</rt></ruby>な<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>はなんですか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>逆に<rt>ぎゃくに</rt></ruby>、<ruby>嫌い<rt>きらい</rt></ruby>な<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>はなんですか?"
   },
   {
     "id": 204,
@@ -4283,7 +4688,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "逆に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>とは【　　】、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>とは<ruby>逆に<rt>ぎゃくに</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>なかった。"
   },
   {
     "id": 205,
@@ -4304,7 +4711,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "逆に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはストレスがたまると<ruby>食欲<rt>しょくよく</rt></ruby>がなくなるではなく、【　　】<ruby>何か<rt>なにか</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>ないと<ruby>気が<rt>きが</rt></ruby><ruby>済ま<rt>すま</rt></ruby>なくなる。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはストレスがたまると<ruby>食欲<rt>しょくよく</rt></ruby>がなくなるではなく、<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>何か<rt>なにか</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>ないと<ruby>気が<rt>きが</rt></ruby><ruby>済ま<rt>すま</rt></ruby>なくなる。"
   },
   {
     "id": 206,
@@ -4325,7 +4734,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "逆に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>は<ruby>自信<rt>じしん</rt></ruby>が<ruby>満々<rt>まんまん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>できると<ruby>思って<rt>おもって</rt></ruby>いたけど、【　　】<ruby>落ち<rt>おち</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>は<ruby>自信<rt>じしん</rt></ruby>が<ruby>満々<rt>まんまん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>できると<ruby>思って<rt>おもって</rt></ruby>いたけど、<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>落ち<rt>おち</rt></ruby>た。"
   },
   {
     "id": 207,
@@ -4346,7 +4757,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "逆に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>によっては、<ruby>役に立つ<rt>やくにたつ</rt></ruby>どころか【　　】<ruby>害に<rt>そこに</rt></ruby>なるものもある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>によっては、<ruby>役に立つ<rt>やくにたつ</rt></ruby>どころか<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>害に<rt>そこに</rt></ruby>なるものもある。"
   },
   {
     "id": 208,
@@ -4367,7 +4780,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "反面",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>部屋<rt>へや</rt></ruby>は<ruby>日当たり<rt>ひあたり</rt></ruby>がいい【　　】、<ruby>夏<rt>なつ</rt></ruby>はかなり<ruby>暑い<rt>あつい</rt></ruby>です。",
+    "sentence_jp_ruby": "その<ruby>部屋<rt>へや</rt></ruby>は<ruby>日当たり<rt>ひあたり</rt></ruby>がいい<ruby>反面<rt>はんめん</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>はかなり<ruby>暑い<rt>あつい</rt></ruby>です。"
   },
   {
     "id": 209,
@@ -4388,7 +4803,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "反面",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>成<rt>せい</rt></ruby>⻑は<ruby>嬉しい<rt>うれしい</rt></ruby>【　　】、どこか<ruby>寂しい<rt>さびしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>成<rt>せい</rt></ruby>⻑は<ruby>嬉しい<rt>うれしい</rt></ruby><ruby>反面<rt>はんめん</rt></ruby>、どこか<ruby>寂しい<rt>さびしい</rt></ruby>。"
   },
   {
     "id": 210,
@@ -4409,7 +4826,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "反面",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>氏<rt>し</rt></ruby>ができたら、<ruby>楽しい<rt>たのしい</rt></ruby>【　　】、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>がすくなくなりました。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>氏<rt>し</rt></ruby>ができたら、<ruby>楽しい<rt>たのしい</rt></ruby><ruby>反面<rt>はんめん</rt></ruby>、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>がすくなくなりました。"
   },
   {
     "id": 211,
@@ -4430,7 +4849,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "反面",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>は<ruby>楽しい<rt>たのしい</rt></ruby>【　　】、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>話す<rt>はなす</rt></ruby><ruby>相手<rt>あいて</rt></ruby>がいないので<ruby>寂しい<rt>さびしい</rt></ruby>こともあります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>は<ruby>楽しい<rt>たのしい</rt></ruby><ruby>反面<rt>はんめん</rt></ruby>、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>話す<rt>はなす</rt></ruby><ruby>相手<rt>あいて</rt></ruby>がいないので<ruby>寂しい<rt>さびしい</rt></ruby>こともあります。"
   },
   {
     "id": 212,
@@ -4451,7 +4872,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "反面",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>にとって、インターネットは<ruby>便利<rt>べんり</rt></ruby>な【　　】、<ruby>悪い<rt>わるい</rt></ruby><ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>ることもあります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>にとって、インターネットは<ruby>便利<rt>べんり</rt></ruby>な<ruby>反面<rt>はんめん</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>ることもあります。"
   },
   {
     "id": 213,
@@ -4472,7 +4895,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "反面",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>転職<rt>てんしょく</rt></ruby>をしたら、<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た【　　】、ストレスも<ruby>増え<rt>ふえ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>転職<rt>てんしょく</rt></ruby>をしたら、<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た<ruby>反面<rt>はんめん</rt></ruby>、ストレスも<ruby>増え<rt>ふえ</rt></ruby>ました。"
   },
   {
     "id": 214,
@@ -4493,7 +4918,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "反面",
-    "notes": "機器「ノートパソコン」→「タブレット」"
+    "notes": "機器「ノートパソコン」→「タブレット」",
+    "question_ruby": "タブレットは<ruby>手軽<rt>てがる</rt></ruby>である【　　】、<ruby>壊れ<rt>こわれ</rt></ruby>やすい。",
+    "sentence_jp_ruby": "タブレットは<ruby>手軽<rt>てがる</rt></ruby>である<ruby>反面<rt>はんめん</rt></ruby>、<ruby>壊れ<rt>こわれ</rt></ruby>やすい。"
   },
   {
     "id": 215,
@@ -4514,7 +4941,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "反面",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>田舎<rt>いなか</rt></ruby><ruby>暮らし<rt>くらし</rt></ruby>は<ruby>不便<rt>ふべん</rt></ruby>な【　　】、<ruby>自然<rt>しぜん</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<ruby>車<rt>くるま</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ので、<ruby>快適<rt>かいてき</rt></ruby>に<ruby>過ご<rt>すご</rt></ruby>しやすい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>田舎<rt>いなか</rt></ruby><ruby>暮らし<rt>くらし</rt></ruby>は<ruby>不便<rt>ふべん</rt></ruby>な<ruby>反面<rt>はんめん</rt></ruby>、<ruby>自然<rt>しぜん</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<ruby>車<rt>くるま</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ので、<ruby>快適<rt>かいてき</rt></ruby>に<ruby>過ご<rt>すご</rt></ruby>しやすい。"
   },
   {
     "id": 216,
@@ -4535,7 +4964,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "果たして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】そうだろうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>果た<rt>はた</rt></ruby>してそうだろうか。"
   },
   {
     "id": 217,
@@ -4556,7 +4987,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "果たして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>足音<rt>あしおと</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えたのかどうかはわからない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>果た<rt>はた</rt></ruby>して<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>足音<rt>あしおと</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えたのかどうかはわからない。"
   },
   {
     "id": 218,
@@ -4577,7 +5010,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "果たして",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あのうわさは【　　】<ruby>本当<rt>ほんとう</rt></ruby>だろうか。",
+    "sentence_jp_ruby": "あのうわさは<ruby>果た<rt>はた</rt></ruby>して<ruby>本当<rt>ほんとう</rt></ruby>だろうか。"
   },
   {
     "id": 219,
@@ -4598,7 +5033,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "果たして",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>があの<ruby>店<rt>みせ</rt></ruby>にいるとき、<ruby>鈴木<rt>すずき</rt></ruby>さんらがそこにやってきたのは【　　】<ruby>偶然<rt>ぐうぜん</rt></ruby>だろうか?",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>があの<ruby>店<rt>みせ</rt></ruby>にいるとき、<ruby>鈴木<rt>すずき</rt></ruby>さんらがそこにやってきたのは<ruby>果た<rt>はた</rt></ruby>して<ruby>偶然<rt>ぐうぜん</rt></ruby>だろうか?"
   },
   {
     "id": 220,
@@ -4619,7 +5056,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "果たして",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "この<ruby>程度<rt>ていど</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>で、【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>承知<rt>しょうち</rt></ruby>するだろうか。",
+    "sentence_jp_ruby": "この<ruby>程度<rt>ていど</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>で、<ruby>果た<rt>はた</rt></ruby>して<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>承知<rt>しょうち</rt></ruby>するだろうか。"
   },
   {
     "id": 221,
@@ -4640,7 +5079,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "果たして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>皆さん<rt>みなさん</rt></ruby>にも【　　】いただく<ruby>役割<rt>やくわり</rt></ruby>があります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>皆さん<rt>みなさん</rt></ruby>にも<ruby>果た<rt>はた</rt></ruby>していただく<ruby>役割<rt>やくわり</rt></ruby>があります。"
   },
   {
     "id": 222,
@@ -4661,7 +5102,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "果たして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機械<rt>きかい</rt></ruby>には<ruby>特に<rt>とくに</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>ところがないと、【　　】<ruby>何<rt>なに</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>だったのだろうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機械<rt>きかい</rt></ruby>には<ruby>特に<rt>とくに</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>ところがないと、<ruby>果た<rt>はた</rt></ruby>して<ruby>何<rt>なに</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>だったのだろうか。"
   },
   {
     "id": 223,
@@ -4682,7 +5125,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "果たして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>は【　　】<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>見え<rt>みえ</rt></ruby>たのかどうか<ruby>自信<rt>じしん</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>は<ruby>果た<rt>はた</rt></ruby>して<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>見え<rt>みえ</rt></ruby>たのかどうか<ruby>自信<rt>じしん</rt></ruby>がない。"
   },
   {
     "id": 224,
@@ -4703,7 +5148,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "果たして",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>程度<rt>ていど</rt></ruby>の<ruby>補償金<rt>ほしょうきん</rt></ruby>で、【　　】<ruby>被害者<rt>ひがいしゃ</rt></ruby>は<ruby>納得<rt>なっとく</rt></ruby>するだろうか。",
+    "sentence_jp_ruby": "その<ruby>程度<rt>ていど</rt></ruby>の<ruby>補償金<rt>ほしょうきん</rt></ruby>で、<ruby>果た<rt>はた</rt></ruby>して<ruby>被害者<rt>ひがいしゃ</rt></ruby>は<ruby>納得<rt>なっとく</rt></ruby>するだろうか。"
   },
   {
     "id": 225,
@@ -4724,7 +5171,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】やりました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一応<rt>いちおう</rt></ruby>やりました。"
   },
   {
     "id": 226,
@@ -4745,7 +5194,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】やってみます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一応<rt>いちおう</rt></ruby>やってみます。"
   },
   {
     "id": 227,
@@ -4766,7 +5217,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>付き合っ<rt>つきあっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>がいるんだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一応<rt>いちおう</rt></ruby>、<ruby>付き合っ<rt>つきあっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>がいるんだ。"
   },
   {
     "id": 228,
@@ -4787,7 +5240,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一応",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはもう<ruby>寝た<rt>ねた</rt></ruby>かもしれないけど、【　　】<ruby>電話<rt>でんわ</rt></ruby>してみようかな。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはもう<ruby>寝た<rt>ねた</rt></ruby>かもしれないけど、<ruby>一応<rt>いちおう</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>してみようかな。"
   },
   {
     "id": 229,
@@ -4808,7 +5263,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>明日<rt>あした</rt></ruby>までに<ruby>返事<rt>へんじ</rt></ruby>をくれる?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一応<rt>いちおう</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までに<ruby>返事<rt>へんじ</rt></ruby>をくれる?"
   },
   {
     "id": 230,
@@ -4829,7 +5286,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>連絡先<rt>れんらくさき</rt></ruby>を<ruby>教え<rt>おしえ</rt></ruby>てくれる?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一応<rt>いちおう</rt></ruby>、<ruby>連絡先<rt>れんらくさき</rt></ruby>を<ruby>教え<rt>おしえ</rt></ruby>てくれる?"
   },
   {
     "id": 231,
@@ -4850,7 +5309,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>事件<rt>じけん</rt></ruby>は【　　】<ruby>片<rt>へん</rt></ruby>がついているはずだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>事件<rt>じけん</rt></ruby>は<ruby>一応<rt>いちおう</rt></ruby><ruby>片<rt>へん</rt></ruby>がついているはずだ。"
   },
   {
     "id": 232,
@@ -4871,7 +5332,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一応",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>念のため<rt>ねんのため</rt></ruby>【　　】<ruby>書類<rt>しょるい</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>てみて<ruby>下さい<rt>ください</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>念のため<rt>ねんのため</rt></ruby><ruby>一応<rt>いちおう</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>を<ruby>調べ<rt>しらべ</rt></ruby>てみて<ruby>下さい<rt>ください</rt></ruby>。"
   },
   {
     "id": 233,
@@ -4892,7 +5355,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以外",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>【　　】には<ruby>何<rt>なに</rt></ruby>ができる?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>には<ruby>何<rt>なに</rt></ruby>ができる?"
   },
   {
     "id": 234,
@@ -4913,7 +5378,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以外",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さん【　　】<ruby>誰も<rt>だれも</rt></ruby>いない。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さん<ruby>以外<rt>いがい</rt></ruby><ruby>誰も<rt>だれも</rt></ruby>いない。"
   },
   {
     "id": 235,
@@ -4934,7 +5401,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以外",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>水<rt>みず</rt></ruby>【　　】<ruby>何も<rt>なにも</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>水<rt>みず</rt></ruby><ruby>以外<rt>いがい</rt></ruby><ruby>何も<rt>なにも</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ない。"
   },
   {
     "id": 236,
@@ -4955,7 +5424,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以外",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>【　　】の<ruby>言語<rt>げんご</rt></ruby>は<ruby>全く<rt>まったく</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>英語以外<rt>えいごいがい</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>は<ruby>全く<rt>まったく</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ない。"
   },
   {
     "id": 237,
@@ -4976,7 +5447,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以外",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さん【　　】はみんな<ruby>好き<rt>すき</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さん<ruby>以外<rt>いがい</rt></ruby>はみんな<ruby>好き<rt>すき</rt></ruby>だ。"
   },
   {
     "id": 238,
@@ -4997,7 +5470,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以外",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>【　　】のことも<ruby>話せ<rt>はなせ</rt></ruby>てよかったです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>のことも<ruby>話せ<rt>はなせ</rt></ruby>てよかったです。"
   },
   {
     "id": 239,
@@ -5018,7 +5493,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "以外",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>変化<rt>へんか</rt></ruby>【　　】に<ruby>永久<rt>えいきゅう</rt></ruby>のものはない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>変化<rt>へんか</rt></ruby><ruby>以外<rt>いがい</rt></ruby>に<ruby>永久<rt>えいきゅう</rt></ruby>のものはない。"
   },
   {
     "id": 240,
@@ -5039,7 +5516,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以外",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>中国語<rt>ちゅうごくご</rt></ruby>【　　】の<ruby>言語<rt>げんご</rt></ruby>だと、<ruby>英語<rt>えいご</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>中国語<rt>ちゅうごくご</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>だと、<ruby>英語<rt>えいご</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>ます。"
   },
   {
     "id": 241,
@@ -5060,7 +5539,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以上に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今まで<rt>いままで</rt></ruby>【　　】<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頑張り<rt>がんばり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今まで<rt>いままで</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頑張り<rt>がんばり</rt></ruby>ます。"
   },
   {
     "id": 242,
@@ -5081,7 +5562,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以上に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>必要<rt>ひつよう</rt></ruby>【　　】たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>必要以上<rt>ひつよういじょう</rt></ruby>にたくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。"
   },
   {
     "id": 243,
@@ -5102,7 +5585,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "以上に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby>していた【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>様態<rt>ようたい</rt></ruby>はよくなかった。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby>していた<ruby>以上<rt>いじょう</rt></ruby>に<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>様態<rt>ようたい</rt></ruby>はよくなかった。"
   },
   {
     "id": 244,
@@ -5123,7 +5608,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>【　　】<ruby>日本語<rt>にほんご</rt></ruby>ができるようになりたいです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今以上<rt>いまいじょう</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>ができるようになりたいです。"
   },
   {
     "id": 245,
@@ -5144,7 +5631,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんたちが<ruby>泊ま<rt>とま</rt></ruby>ったホテルは、<ruby>予想<rt>よそう</rt></ruby>【　　】<ruby>豪華<rt>ごうか</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんたちが<ruby>泊ま<rt>とま</rt></ruby>ったホテルは、<ruby>予想以上<rt>よそういじょう</rt></ruby>に<ruby>豪華<rt>ごうか</rt></ruby>だった。"
   },
   {
     "id": 246,
@@ -5165,7 +5654,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "以上に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは、わたしが<ruby>考え<rt>かんがえ</rt></ruby>た【　　】<ruby>強い<rt>つよい</rt></ruby><ruby>反応<rt>はんのう</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは、わたしが<ruby>考え<rt>かんがえ</rt></ruby>た<ruby>以上<rt>いじょう</rt></ruby>に<ruby>強い<rt>つよい</rt></ruby><ruby>反応<rt>はんのう</rt></ruby>を<ruby>示し<rt>しめし</rt></ruby>た。"
   },
   {
     "id": 247,
@@ -5186,7 +5677,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "以上に",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>技術<rt>ぎじゅつ</rt></ruby>はあなたが<ruby>思って<rt>おもって</rt></ruby>いる【　　】<ruby>注目<rt>ちゅうもく</rt></ruby>されている。",
+    "sentence_jp_ruby": "その<ruby>技術<rt>ぎじゅつ</rt></ruby>はあなたが<ruby>思って<rt>おもって</rt></ruby>いる<ruby>以上<rt>いじょう</rt></ruby>に<ruby>注目<rt>ちゅうもく</rt></ruby>されている。"
   },
   {
     "id": 248,
@@ -5207,7 +5700,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "あなたは<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>思って<rt>おもって</rt></ruby>いる【　　】とても<ruby>素敵<rt>すてき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>でした。",
+    "sentence_jp_ruby": "あなたは<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>思って<rt>おもって</rt></ruby>いる<ruby>以上<rt>いじょう</rt></ruby>にとても<ruby>素敵<rt>すてき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>でした。"
   },
   {
     "id": 249,
@@ -5228,7 +5723,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>した【　　】、きちんと<ruby>守っ<rt>まもっ</rt></ruby>てくださいね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>した<ruby>以上<rt>いじょう</rt></ruby>、きちんと<ruby>守っ<rt>まもっ</rt></ruby>てくださいね。"
   },
   {
     "id": 250,
@@ -5249,7 +5746,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>である【　　】、アルバイトではなく<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>ですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>である<ruby>以上<rt>いじょう</rt></ruby>、アルバイトではなく<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>ですよ。"
   },
   {
     "id": 251,
@@ -5270,7 +5769,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>安い<rt>やすい</rt></ruby>【　　】、<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>人<rt>にん</rt></ruby>がいるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>安い<rt>やすい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>人<rt>にん</rt></ruby>がいるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 252,
@@ -5291,7 +5792,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>する【　　】、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>以上<rt>いじょう</rt></ruby>は、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。"
   },
   {
     "id": 253,
@@ -5312,7 +5815,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>やると<ruby>決め<rt>きめ</rt></ruby>た【　　】、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てやらないと。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>やると<ruby>決め<rt>きめ</rt></ruby>た<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てやらないと。"
   },
   {
     "id": 254,
@@ -5333,7 +5838,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>出場<rt>しゅつじょう</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>った【　　】、いい<ruby>結果<rt>けっか</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>るように<ruby>頑張ろ<rt>がんばろ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>出場<rt>しゅつじょう</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>、いい<ruby>結果<rt>けっか</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>るように<ruby>頑張ろ<rt>がんばろ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 255,
@@ -5354,7 +5861,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、JLPTに<ruby>申し込ん<rt>もうしこん</rt></ruby>だ【　　】、しっかり<ruby>勉強<rt>べんきょう</rt></ruby>して<ruby>合格<rt>ごうかく</rt></ruby>したい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、JLPTに<ruby>申し込ん<rt>もうしこん</rt></ruby>だ<ruby>以上<rt>いじょう</rt></ruby>、しっかり<ruby>勉強<rt>べんきょう</rt></ruby>して<ruby>合格<rt>ごうかく</rt></ruby>したい。"
   },
   {
     "id": 256,
@@ -5375,7 +5884,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上は",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ると<ruby>決め<rt>きめ</rt></ruby>た【　　】、<ruby>早く<rt>はやく</rt></ruby><ruby>上司<rt>じょうし</rt></ruby>にあの<ruby>旨<rt>むね</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ると<ruby>決め<rt>きめ</rt></ruby>た<ruby>以上<rt>いじょう</rt></ruby>、<ruby>早く<rt>はやく</rt></ruby><ruby>上司<rt>じょうし</rt></ruby>にあの<ruby>旨<rt>むね</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>なければならない。"
   },
   {
     "id": 257,
@@ -5396,7 +5907,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>舞台<rt>ぶたい</rt></ruby>の<ruby>主役<rt>しゅやく</rt></ruby>をもらった【　　】、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>ができるように<ruby>頑張り<rt>がんばり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>舞台<rt>ぶたい</rt></ruby>の<ruby>主役<rt>しゅやく</rt></ruby>をもらった<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>ができるように<ruby>頑張り<rt>がんばり</rt></ruby>ます。"
   },
   {
     "id": 258,
@@ -5417,7 +5930,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いきなり",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞か<rt>きか</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いきなり<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞か<rt>きか</rt></ruby>れた。"
   },
   {
     "id": 259,
@@ -5438,7 +5953,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いきなり",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】あなたにメールを<ruby>送っ<rt>おくっ</rt></ruby>てしまい<ruby>申し訳<rt>もうしわけ</rt></ruby>ありません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いきなりあなたにメールを<ruby>送っ<rt>おくっ</rt></ruby>てしまい<ruby>申し訳<rt>もうしわけ</rt></ruby>ありません。"
   },
   {
     "id": 260,
@@ -5459,7 +5976,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いきなり",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>手<rt>て</rt></ruby>から【　　】ハンドバッグを<ruby>取っ<rt>とっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>手<rt>て</rt></ruby>からいきなりハンドバッグを<ruby>取っ<rt>とっ</rt></ruby>た。"
   },
   {
     "id": 261,
@@ -5480,7 +5999,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いきなり",
-    "notes": "主語「弟」→「妹」; 主語「兄」→「姉」"
+    "notes": "主語「弟」→「妹」; 主語「兄」→「姉」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>姉妹<rt>しまい</rt></ruby>は、【　　】<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>現れ<rt>あらわれ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>姉妹<rt>しまい</rt></ruby>は、いきなり<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>現れ<rt>あらわれ</rt></ruby>た。"
   },
   {
     "id": 262,
@@ -5501,7 +6022,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いきなり",
-    "notes": "乗り物「タクシー」→「バス」"
+    "notes": "乗り物「タクシー」→「バス」",
+    "question_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>来る<rt>くる</rt></ruby>とき、<ruby>私<rt>わたし</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でバスが【　　】<ruby>止ま<rt>とま</rt></ruby>ってびっくりした。",
+    "sentence_jp_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>来る<rt>くる</rt></ruby>とき、<ruby>私<rt>わたし</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でバスがいきなり<ruby>止ま<rt>とま</rt></ruby>ってびっくりした。"
   },
   {
     "id": 263,
@@ -5522,7 +6045,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いきなり",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いつも<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>⻑は【　　】<ruby>笑い<rt>わらい</rt></ruby><ruby>出し<rt>だし</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いつも<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>⻑はいきなり<ruby>笑い<rt>わらい</rt></ruby><ruby>出し<rt>だし</rt></ruby>た。"
   },
   {
     "id": 264,
@@ -5543,7 +6068,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いきなり",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>後ろ<rt>うしろ</rt></ruby>から【　　】<ruby>彼<rt>かれ</rt></ruby>に<ruby>抱き<rt>だき</rt></ruby><ruby>付い<rt>つい</rt></ruby>た。どうしても<ruby>離れ<rt>はなれ</rt></ruby>たくないと<ruby>言って<rt>いって</rt></ruby>いました。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>後ろ<rt>うしろ</rt></ruby>からいきなり<ruby>彼<rt>かれ</rt></ruby>に<ruby>抱き<rt>だき</rt></ruby><ruby>付い<rt>つい</rt></ruby>た。どうしても<ruby>離れ<rt>はなれ</rt></ruby>たくないと<ruby>言って<rt>いって</rt></ruby>いました。"
   },
   {
     "id": 265,
@@ -5564,7 +6091,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いきなり",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>はうちの<ruby>近く<rt>ちかく</rt></ruby>に<ruby>殺人事件<rt>さつじんじけん</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>した。ご<ruby>主人<rt>しゅじん</rt></ruby>は【　　】ナイフで<ruby>奥さん<rt>おくさん</rt></ruby>を<ruby>切り<rt>きり</rt></ruby>つけてきた。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>はうちの<ruby>近く<rt>ちかく</rt></ruby>に<ruby>殺人事件<rt>さつじんじけん</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>した。ご<ruby>主人<rt>しゅじん</rt></ruby>はいきなりナイフで<ruby>奥さん<rt>おくさん</rt></ruby>を<ruby>切り<rt>きり</rt></ruby>つけてきた。"
   },
   {
     "id": 266,
@@ -5585,7 +6114,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "一気に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>茶<rt>ちゃ</rt></ruby>を【　　】<ruby>飲み<rt>のみ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>一気<rt>いっき</rt></ruby>に<ruby>飲み<rt>のみ</rt></ruby>ました。"
   },
   {
     "id": 267,
@@ -5606,7 +6137,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一気に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>本<rt>ほん</rt></ruby>を【　　】<ruby>読み<rt>よみ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>本<rt>ほん</rt></ruby>を<ruby>一気<rt>いっき</rt></ruby>に<ruby>読み<rt>よみ</rt></ruby>ました。"
   },
   {
     "id": 268,
@@ -5627,7 +6160,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一気に",
-    "notes": "数値「10時間」→「8時間」; 時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」"
+    "notes": "数値「10時間」→「8時間」; 時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>【　　】11<ruby>時間<rt>じかん</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>一気<rt>いっき</rt></ruby>に11<ruby>時間<rt>じかん</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>た。"
   },
   {
     "id": 269,
@@ -5648,7 +6183,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一気に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こういう<ruby>仕事<rt>しごと</rt></ruby>は【　　】やった<ruby>方が<rt>ほうが</rt></ruby>いいんだよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こういう<ruby>仕事<rt>しごと</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>にやった<ruby>方が<rt>ほうが</rt></ruby>いいんだよ。"
   },
   {
     "id": 270,
@@ -5669,7 +6206,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一気に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>買っ<rt>かっ</rt></ruby>てきたお<ruby>菓子<rt>かし</rt></ruby>は【　　】<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>買っ<rt>かっ</rt></ruby>てきたお<ruby>菓子<rt>かし</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。"
   },
   {
     "id": 271,
@@ -5690,7 +6229,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "一気に",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>を【　　】やってしまいなさい。",
+    "sentence_jp_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>一気<rt>いっき</rt></ruby>にやってしまいなさい。"
   },
   {
     "id": 272,
@@ -5711,7 +6252,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "一気に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>が【　　】<ruby>高く<rt>たかく</rt></ruby>なっている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>高く<rt>たかく</rt></ruby>なっている。"
   },
   {
     "id": 273,
@@ -5732,7 +6275,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一気に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>は【　　】<ruby>上達<rt>じょうたつ</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に<ruby>上達<rt>じょうたつ</rt></ruby>した。"
   },
   {
     "id": 274,
@@ -5753,7 +6298,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一方で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby>【　　】、お<ruby>父さん<rt>とうさん</rt></ruby>はこわい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、お<ruby>父さん<rt>とうさん</rt></ruby>はこわい。"
   },
   {
     "id": 275,
@@ -5774,7 +6321,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "一方で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby>【　　】、<ruby>他人<rt>たにん</rt></ruby>には<ruby>優しい<rt>やさしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>他人<rt>たにん</rt></ruby>には<ruby>優しい<rt>やさしい</rt></ruby>。"
   },
   {
     "id": 276,
@@ -5795,7 +6344,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一方で",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>は<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>【　　】、<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>になる。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>は<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>になる。"
   },
   {
     "id": 277,
@@ -5816,7 +6367,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一方で",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>俳優<rt>はいゆう</rt></ruby>である【　　】、<ruby>歌手<rt>かしゅ</rt></ruby>としても<ruby>活躍<rt>かつやく</rt></ruby>している。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>俳優<rt>はいゆう</rt></ruby>である<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>歌手<rt>かしゅ</rt></ruby>としても<ruby>活躍<rt>かつやく</rt></ruby>している。"
   },
   {
     "id": 278,
@@ -5837,7 +6390,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一方で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>は<ruby>非日常<rt>ひにちじょう</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>できることから、<ruby>楽しい<rt>たのしい</rt></ruby>と<ruby>感じ<rt>かんじ</rt></ruby>ることが<ruby>多い<rt>おおい</rt></ruby>【　　】、<ruby>不安<rt>ふあん</rt></ruby>なこともある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>は<ruby>非日常<rt>ひにちじょう</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>できることから、<ruby>楽しい<rt>たのしい</rt></ruby>と<ruby>感じ<rt>かんじ</rt></ruby>ることが<ruby>多い<rt>おおい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>不安<rt>ふあん</rt></ruby>なこともある。"
   },
   {
     "id": 279,
@@ -5858,7 +6413,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一方で",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>はあまり<ruby>面白く<rt>おもしろく</rt></ruby>なかったが、その【　　】<ruby>給与<rt>きゅうよ</rt></ruby>はよかった。",
+    "sentence_jp_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>はあまり<ruby>面白く<rt>おもしろく</rt></ruby>なかったが、その<ruby>一方<rt>いっぽう</rt></ruby>で<ruby>給与<rt>きゅうよ</rt></ruby>はよかった。"
   },
   {
     "id": 280,
@@ -5879,7 +6436,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一方で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>老人<rt>ろうじん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている【　　】、<ruby>若年<rt>じゃくねん</rt></ruby><ruby>労働力<rt>ろうどうりょく</rt></ruby>の<ruby>数<rt>かず</rt></ruby>がどんどん<ruby>減っ<rt>へっ</rt></ruby>ています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>老人<rt>ろうじん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>若年<rt>じゃくねん</rt></ruby><ruby>労働力<rt>ろうどうりょく</rt></ruby>の<ruby>数<rt>かず</rt></ruby>がどんどん<ruby>減っ<rt>へっ</rt></ruby>ています。"
   },
   {
     "id": 281,
@@ -5900,7 +6459,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いわゆる",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】<ruby>語学<rt>ごがく</rt></ruby>の<ruby>天才<rt>てんさい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいわゆる<ruby>語学<rt>ごがく</rt></ruby>の<ruby>天才<rt>てんさい</rt></ruby>だ。"
   },
   {
     "id": 282,
@@ -5921,7 +6482,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いわゆる",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは【　　】<ruby>本<rt>ほん</rt></ruby>の<ruby>虫<rt>むし</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはいわゆる<ruby>本<rt>ほん</rt></ruby>の<ruby>虫<rt>むし</rt></ruby>です。"
   },
   {
     "id": 283,
@@ -5942,7 +6505,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いわゆる",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは【　　】「やり<ruby>手<rt>て</rt></ruby>」だ。 さとうさんはいわゆる「やりて」だ。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはいわゆる「やり<ruby>手<rt>て</rt></ruby>」だ。 さとうさんはいわゆる「やりて」だ。"
   },
   {
     "id": 284,
@@ -5963,7 +6528,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いわゆる",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何で<rt>なんで</rt></ruby>も<ruby>知って<rt>しって</rt></ruby>いるから、【　　】<ruby>生き<rt>いき</rt></ruby>る<ruby>辞書<rt>じしょ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何で<rt>なんで</rt></ruby>も<ruby>知って<rt>しって</rt></ruby>いるから、いわゆる<ruby>生き<rt>いき</rt></ruby>る<ruby>辞書<rt>じしょ</rt></ruby>だ。"
   },
   {
     "id": 285,
@@ -5984,7 +6551,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いわゆる",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>考え<rt>かんがえ</rt></ruby>は、【　　】<ruby>進歩的<rt>しんぽてき</rt></ruby>なものでした。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>考え<rt>かんがえ</rt></ruby>は、いわゆる<ruby>進歩的<rt>しんぽてき</rt></ruby>なものでした。"
   },
   {
     "id": 286,
@@ -6005,7 +6574,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いわゆる",
-    "notes": "主語「兄」→「姉」"
+    "notes": "主語「兄」→「姉」",
+    "question_ruby": "<ruby>姉<rt>あね</rt></ruby>は【　　】ポップミュージックに<ruby>興味<rt>きょうみ</rt></ruby>があります。",
+    "sentence_jp_ruby": "<ruby>姉<rt>あね</rt></ruby>はいわゆるポップミュージックに<ruby>興味<rt>きょうみ</rt></ruby>があります。"
   },
   {
     "id": 287,
@@ -6026,7 +6597,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いわゆる",
-    "notes": "国名「アメリカ」→「カナダ」; 食べ物「ハンバーガー」→「サンドイッチ」; 食べ物「ピザ」→「パスタ」"
+    "notes": "国名「アメリカ」→「カナダ」; 食べ物「ハンバーガー」→「サンドイッチ」; 食べ物「ピザ」→「パスタ」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>な<ruby>食べ物<rt>たべもの</rt></ruby>はパスタ、サンドイッチで、【　　】カナダンフード<ruby>大好き<rt>だいすき</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>な<ruby>食べ物<rt>たべもの</rt></ruby>はパスタ、サンドイッチで、いわゆるカナダンフード<ruby>大好き<rt>だいすき</rt></ruby>です。"
   },
   {
     "id": 288,
@@ -6047,7 +6620,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いわゆる",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはジャズのことなら<ruby>何で<rt>なんで</rt></ruby>も<ruby>知って<rt>しって</rt></ruby>いる、【　　】ジャズ<ruby>通<rt>とおり</rt></ruby>である。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはジャズのことなら<ruby>何で<rt>なんで</rt></ruby>も<ruby>知って<rt>しって</rt></ruby>いる、いわゆるジャズ<ruby>通<rt>とおり</rt></ruby>である。"
   },
   {
     "id": 289,
@@ -6068,7 +6643,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いよいよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いよいよ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。"
   },
   {
     "id": 290,
@@ -6089,7 +6666,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いよいよ",
-    "notes": "曜日「日曜日」→「土曜日」"
+    "notes": "曜日「日曜日」→「土曜日」",
+    "question_ruby": "【　　】<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何を<rt>なにを</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>て<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。",
+    "sentence_jp_ruby": "いよいよ<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何を<rt>なにを</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>て<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。"
   },
   {
     "id": 291,
@@ -6110,7 +6689,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いよいよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】スピーチが<ruby>始ま<rt>はじま</rt></ruby>る。どうしよう!めちゃ<ruby>緊張し<rt>きんちょうし</rt></ruby>ているよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いよいよスピーチが<ruby>始ま<rt>はじま</rt></ruby>る。どうしよう!めちゃ<ruby>緊張し<rt>きんちょうし</rt></ruby>ているよ。"
   },
   {
     "id": 292,
@@ -6131,7 +6712,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いよいよ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "【　　】<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>出番<rt>でばん</rt></ruby>だ。<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>練習<rt>れんしゅう</rt></ruby>したからうまく<ruby>行け<rt>いけ</rt></ruby>るといいね!",
+    "sentence_jp_ruby": "いよいよ<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>出番<rt>でばん</rt></ruby>だ。<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>練習<rt>れんしゅう</rt></ruby>したからうまく<ruby>行け<rt>いけ</rt></ruby>るといいね!"
   },
   {
     "id": 293,
@@ -6152,7 +6735,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いよいよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>結婚式<rt>けっこんしき</rt></ruby>が<ruby>目前<rt>もくぜん</rt></ruby>に<ruby>迫っ<rt>せまっ</rt></ruby>てなんとなく<ruby>落ち着か<rt>おちつか</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いよいよ<ruby>結婚式<rt>けっこんしき</rt></ruby>が<ruby>目前<rt>もくぜん</rt></ruby>に<ruby>迫っ<rt>せまっ</rt></ruby>てなんとなく<ruby>落ち着か<rt>おちつか</rt></ruby>ない。"
   },
   {
     "id": 294,
@@ -6173,7 +6758,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いよいよ",
-    "notes": "時相「昨晩」→「先日の夜」"
+    "notes": "時相「昨晩」→「先日の夜」",
+    "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>胃<rt>い</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なった。<ruby>今朝<rt>けさ</rt></ruby>に<ruby>痛み<rt>いたみ</rt></ruby>が【　　】<ruby>酷<rt>こく</rt></ruby>くなった。",
+    "sentence_jp_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>から<ruby>胃<rt>い</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なった。<ruby>今朝<rt>けさ</rt></ruby>に<ruby>痛み<rt>いたみ</rt></ruby>がいよいよ<ruby>酷<rt>こく</rt></ruby>くなった。"
   },
   {
     "id": 295,
@@ -6194,7 +6781,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いよいよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>明日<rt>あした</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>だ。<ruby>精一杯<rt>せいいっぱい</rt></ruby>で<ruby>頑張り<rt>がんばり</rt></ruby>ましょう!",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いよいよ<ruby>明日<rt>あした</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>だ。<ruby>精一杯<rt>せいいっぱい</rt></ruby>で<ruby>頑張り<rt>がんばり</rt></ruby>ましょう!"
   },
   {
     "id": 296,
@@ -6215,7 +6804,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "上",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>【　　】ではポテトフライや<ruby>揚げ物<rt>あげもの</rt></ruby>などは<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康上<rt>けんこうじょう</rt></ruby>ではポテトフライや<ruby>揚げ物<rt>あげもの</rt></ruby>などは<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 297,
@@ -6236,7 +6827,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>【　　】はお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>するのは<ruby>禁止<rt>きんし</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律上<rt>ほうりつじょう</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>するのは<ruby>禁止<rt>きんし</rt></ruby>です。"
   },
   {
     "id": 298,
@@ -6257,7 +6850,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>理論<rt>りろん</rt></ruby>【　　】はこれが<ruby>可能<rt>かのう</rt></ruby>だが、<ruby>実用化<rt>じつようか</rt></ruby>には<ruby>時間<rt>じかん</rt></ruby>がかかりそうだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>理論上<rt>りろんじょう</rt></ruby>はこれが<ruby>可能<rt>かのう</rt></ruby>だが、<ruby>実用化<rt>じつようか</rt></ruby>には<ruby>時間<rt>じかん</rt></ruby>がかかりそうだ。"
   },
   {
     "id": 299,
@@ -6278,7 +6873,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>健康<rt>けんこう</rt></ruby>【　　】の<ruby>理由<rt>りゆう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>たそうです。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>健康上<rt>けんこうじょう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>たそうです。"
   },
   {
     "id": 300,
@@ -6299,7 +6896,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>【　　】は<ruby>作業中<rt>さぎょうちゅう</rt></ruby>にヘルメットを<ruby>必ず<rt>かならず</rt></ruby><ruby>被る<rt>こうむる</rt></ruby>ことです。",
+    "sentence_jp_ruby": "<ruby>職場<rt>しょくば</rt></ruby>の<ruby>規則上<rt>きそくじょう</rt></ruby>は<ruby>作業中<rt>さぎょうちゅう</rt></ruby>にヘルメットを<ruby>必ず<rt>かならず</rt></ruby><ruby>被る<rt>こうむる</rt></ruby>ことです。"
   },
   {
     "id": 301,
@@ -6320,7 +6919,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育<rt>きょういく</rt></ruby>【　　】は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いい。",
+    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育上<rt>きょういくじょう</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いい。"
   },
   {
     "id": 302,
@@ -6341,7 +6942,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>たちは<ruby>結婚式<rt>けっこんしき</rt></ruby>をしませんが、<ruby>法律<rt>ほうりつ</rt></ruby>【　　】は<ruby>結婚<rt>けっこん</rt></ruby>しています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>たちは<ruby>結婚式<rt>けっこんしき</rt></ruby>をしませんが、<ruby>法律上<rt>ほうりつじょう</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>しています。"
   },
   {
     "id": 303,
@@ -6362,7 +6965,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かのように",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>怖い<rt>こわい</rt></ruby>ものを<ruby>見た<rt>みた</rt></ruby>【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>震え<rt>ふるえ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>怖い<rt>こわい</rt></ruby>ものを<ruby>見た<rt>みた</rt></ruby>かのように、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>震え<rt>ふるえ</rt></ruby>た。"
   },
   {
     "id": 304,
@@ -6383,7 +6988,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かのように",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>が<ruby>合格<rt>ごうかく</rt></ruby>した【　　】<ruby>喜んで<rt>よろこんで</rt></ruby>くれた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>が<ruby>合格<rt>ごうかく</rt></ruby>したかのように<ruby>喜んで<rt>よろこんで</rt></ruby>くれた。"
   },
   {
     "id": 305,
@@ -6404,7 +7011,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かのように",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>今日初<rt>きょうはつ</rt></ruby>めて<ruby>会う<rt>あう</rt></ruby>のに、<ruby>前<rt>まえ</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>も<ruby>会っ<rt>あっ</rt></ruby>たことがある【　　】ような<ruby>態度<rt>たいど</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>てくる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>今日初<rt>きょうはつ</rt></ruby>めて<ruby>会う<rt>あう</rt></ruby>のに、<ruby>前<rt>まえ</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>も<ruby>会っ<rt>あっ</rt></ruby>たことがあるかのような<ruby>態度<rt>たいど</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>てくる。"
   },
   {
     "id": 306,
@@ -6425,7 +7034,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かのように",
-    "notes": "サービス名「Instagram」→「SNS」"
+    "notes": "サービス名「Instagram」→「SNS」",
+    "question_ruby": "SNSでたくさんの<ruby>人<rt>にん</rt></ruby>にフォロワーされると、まるで<ruby>有名人<rt>ゆうめいじん</rt></ruby>になった【　　】ようだ。",
+    "sentence_jp_ruby": "SNSでたくさんの<ruby>人<rt>にん</rt></ruby>にフォロワーされると、まるで<ruby>有名人<rt>ゆうめいじん</rt></ruby>になったかのようだ。"
   },
   {
     "id": 307,
@@ -6446,7 +7057,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かのように",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>姉妹<rt>しまい</rt></ruby>である【　　】ようだが、<ruby>実は<rt>じつは</rt></ruby><ruby>親子<rt>おやこ</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>姉妹<rt>しまい</rt></ruby>であるかのようだが、<ruby>実は<rt>じつは</rt></ruby><ruby>親子<rt>おやこ</rt></ruby>です。"
   },
   {
     "id": 308,
@@ -6467,7 +7080,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かのように",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはまるで<ruby>全て<rt>すべて</rt></ruby>を<ruby>知って<rt>しって</rt></ruby>いる【　　】<ruby>話し<rt>はなし</rt></ruby>ている。しかし。それらは<ruby>全て<rt>すべて</rt></ruby><ruby>彼の<rt>かの</rt></ruby><ruby>想像<rt>そうぞう</rt></ruby>にすぎない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはまるで<ruby>全て<rt>すべて</rt></ruby>を<ruby>知って<rt>しって</rt></ruby>いるかのように<ruby>話し<rt>はなし</rt></ruby>ている。しかし。それらは<ruby>全て<rt>すべて</rt></ruby><ruby>彼の<rt>かの</rt></ruby><ruby>想像<rt>そうぞう</rt></ruby>にすぎない。"
   },
   {
     "id": 309,
@@ -6488,7 +7103,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かのように",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>会っ<rt>あっ</rt></ruby>たら、<ruby>病気<rt>びょうき</rt></ruby>である【　　】<ruby>痩せ<rt>やせ</rt></ruby>ていた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>会っ<rt>あっ</rt></ruby>たら、<ruby>病気<rt>びょうき</rt></ruby>であるかのように<ruby>痩せ<rt>やせ</rt></ruby>ていた。"
   },
   {
     "id": 310,
@@ -6509,7 +7126,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かのように",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはその<ruby>場<rt>ば</rt></ruby>にいなかったのに、<ruby>全て<rt>すべて</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>いた【　　】<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>説明し<rt>せつめいし</rt></ruby>ていた。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはその<ruby>場<rt>ば</rt></ruby>にいなかったのに、<ruby>全て<rt>すべて</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>いたかのように<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>説明し<rt>せつめいし</rt></ruby>ていた。"
   },
   {
     "id": 311,
@@ -6530,7 +7149,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かのように",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>葬式<rt>そうしき</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>ると<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>た。まるで<ruby>空<rt>そら</rt></ruby>が<ruby>泣い<rt>ない</rt></ruby>ている【　　】ようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>葬式<rt>そうしき</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>ると<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>た。まるで<ruby>空<rt>そら</rt></ruby>が<ruby>泣い<rt>ない</rt></ruby>ているかのようだ。"
   },
   {
     "id": 312,
@@ -6551,7 +7172,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かと思ったら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>空<rt>そら</rt></ruby>が<ruby>急に<rt>きゅうに</rt></ruby><ruby>暗く<rt>くらく</rt></ruby>なってきた【　　】<ruby>思う<rt>おもう</rt></ruby>と、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>空<rt>そら</rt></ruby>が<ruby>急に<rt>きゅうに</rt></ruby><ruby>暗く<rt>くらく</rt></ruby>なってきたかと<ruby>思う<rt>おもう</rt></ruby>と、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。"
   },
   {
     "id": 313,
@@ -6572,7 +7195,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かと思ったら",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "<ruby>息子<rt>むすこ</rt></ruby>が<ruby>帰っ<rt>かえっ</rt></ruby>て<ruby>来た<rt>きた</rt></ruby>【　　】<ruby>思う<rt>おもう</rt></ruby>と、すぐに<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>いった。",
+    "sentence_jp_ruby": "<ruby>息子<rt>むすこ</rt></ruby>が<ruby>帰っ<rt>かえっ</rt></ruby>て<ruby>来た<rt>きた</rt></ruby>かと<ruby>思う<rt>おもう</rt></ruby>と、すぐに<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>いった。"
   },
   {
     "id": 314,
@@ -6593,7 +7218,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かと思ったら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うちの<ruby>近く<rt>ちかく</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲い<rt>さい</rt></ruby>た【　　】、もう<ruby>散っ<rt>ちっ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うちの<ruby>近く<rt>ちかく</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲い<rt>さい</rt></ruby>たかと<ruby>思った<rt>おもった</rt></ruby>ら、もう<ruby>散っ<rt>ちっ</rt></ruby>てしまった。"
   },
   {
     "id": 315,
@@ -6614,7 +7241,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かと思ったら",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>が<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た【　　】、リビングでドラマを<ruby>見て<rt>みて</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>が<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>たかと<ruby>思った<rt>おもった</rt></ruby>ら、リビングでドラマを<ruby>見て<rt>みて</rt></ruby>いる。"
   },
   {
     "id": 316,
@@ -6635,7 +7264,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かと思ったら",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た【　　】<ruby>寝て<rt>ねて</rt></ruby>しまった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>たかと<ruby>思った<rt>おもった</rt></ruby>ら<ruby>寝て<rt>ねて</rt></ruby>しまった。"
   },
   {
     "id": 317,
@@ -6656,7 +7287,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かと思ったら",
-    "notes": "曜日「日曜日」→「土曜日」"
+    "notes": "曜日「日曜日」→「土曜日」",
+    "question_ruby": "<ruby>土曜日<rt>どようび</rt></ruby>なのに、お<ruby>父さん<rt>とうさん</rt></ruby>は<ruby>忙しそ<rt>いそがしそ</rt></ruby>うだね。さっき<ruby>戻っ<rt>もどっ</rt></ruby>た【　　】<ruby>思う<rt>おもう</rt></ruby>と、また<ruby>出か<rt>でか</rt></ruby>けて<ruby>行った<rt>いった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>土曜日<rt>どようび</rt></ruby>なのに、お<ruby>父さん<rt>とうさん</rt></ruby>は<ruby>忙しそ<rt>いそがしそ</rt></ruby>うだね。さっき<ruby>戻っ<rt>もどっ</rt></ruby>たかと<ruby>思う<rt>おもう</rt></ruby>と、また<ruby>出か<rt>でか</rt></ruby>けて<ruby>行った<rt>いった</rt></ruby>。"
   },
   {
     "id": 318,
@@ -6677,7 +7310,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かと思ったら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さっきまで<ruby>笑っ<rt>わらっ</rt></ruby>ていた【　　】、<ruby>急に<rt>きゅうに</rt></ruby><ruby>泣き出し<rt>なきだし</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、さっきまで<ruby>笑っ<rt>わらっ</rt></ruby>ていたかと<ruby>思った<rt>おもった</rt></ruby>ら、<ruby>急に<rt>きゅうに</rt></ruby><ruby>泣き出し<rt>なきだし</rt></ruby>てしまった。"
   },
   {
     "id": 319,
@@ -6698,7 +7333,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かと思ったら",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>時期<rt>じき</rt></ruby>は、<ruby>晴れ<rt>はれ</rt></ruby>ていた【　　】<ruby>思う<rt>おもう</rt></ruby>と、<ruby>急に<rt>きゅうに</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>から、<ruby>傘<rt>かさ</rt></ruby>をもっていったほうがいい。",
+    "sentence_jp_ruby": "その<ruby>時期<rt>じき</rt></ruby>は、<ruby>晴れ<rt>はれ</rt></ruby>ていたかと<ruby>思う<rt>おもう</rt></ruby>と、<ruby>急に<rt>きゅうに</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>から、<ruby>傘<rt>かさ</rt></ruby>をもっていったほうがいい。"
   },
   {
     "id": 320,
@@ -6719,7 +7356,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "か",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>る【　　】<ruby>終わ<rt>おわ</rt></ruby>らないかのうちに<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るか<ruby>終わ<rt>おわ</rt></ruby>らないかのうちに<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>。"
   },
   {
     "id": 321,
@@ -6740,7 +7379,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "か",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>る【　　】<ruby>止ま<rt>とま</rt></ruby>らないかのうちにホームに<ruby>飛び降り<rt>とびおり</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>るか<ruby>止ま<rt>とま</rt></ruby>らないかのうちにホームに<ruby>飛び降り<rt>とびおり</rt></ruby>た。"
   },
   {
     "id": 322,
@@ -6761,7 +7402,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かないかのうちに",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>か<ruby>着<rt>ちゃく</rt></ruby>【　　】<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>か<ruby>着か<rt>つか</rt></ruby>ないかのうちに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>ました。"
   },
   {
     "id": 323,
@@ -6782,7 +7425,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "か",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とても<ruby>疲れ<rt>つかれ</rt></ruby>ていたのだろう。ソファーに<ruby>横<rt>よこ</rt></ruby>になる【　　】ならないかのうちに<ruby>眠っ<rt>ねむっ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とても<ruby>疲れ<rt>つかれ</rt></ruby>ていたのだろう。ソファーに<ruby>横<rt>よこ</rt></ruby>になるかならないかのうちに<ruby>眠っ<rt>ねむっ</rt></ruby>てしまった。"
   },
   {
     "id": 324,
@@ -6803,7 +7448,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "か",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信号<rt>しんごう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>【　　】ら⻘に<ruby>変わ<rt>かわ</rt></ruby>るか<ruby>変わ<rt>かわ</rt></ruby>らないかのうちに、<ruby>先頭<rt>せんとう</rt></ruby>のバイクが<ruby>飛び出し<rt>とびだし</rt></ruby>ていった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信号<rt>しんごう</rt></ruby>が<ruby>赤か<rt>あかか</rt></ruby>ら⻘に<ruby>変わ<rt>かわ</rt></ruby>るか<ruby>変わ<rt>かわ</rt></ruby>らないかのうちに、<ruby>先頭<rt>せんとう</rt></ruby>のバイクが<ruby>飛び出し<rt>とびだし</rt></ruby>ていった。"
   },
   {
     "id": 325,
@@ -6824,7 +7471,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "か",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とてもお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>ていたのだろう。テーブルに<ruby>座る<rt>すわる</rt></ruby>【　　】<ruby>座ら<rt>すわら</rt></ruby>ないかのうちに<ruby>食べ<rt>たべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とてもお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>ていたのだろう。テーブルに<ruby>座る<rt>すわる</rt></ruby>か<ruby>座ら<rt>すわら</rt></ruby>ないかのうちに<ruby>食べ<rt>たべ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 326,
@@ -6845,7 +7494,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "か",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にペンを<ruby>貸し<rt>かし</rt></ruby>てほしいと<ruby>言わ<rt>いわ</rt></ruby>れたので、<ruby>貸し<rt>かし</rt></ruby>てあげた。<ruby>驚い<rt>おどろい</rt></ruby>たことに、うちらが「はい、どうぞ」と<ruby>言う<rt>いう</rt></ruby>【　　】<ruby>言わ<rt>いわ</rt></ruby>ないかのうちに、<ruby>取っ<rt>とっ</rt></ruby>て<ruby>使い<rt>つかい</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>たのだ。 じつは、となりのひとにペンをかしてほしいといわれたので、かしてあげた。おどろいたことに、うちらが「はい、どうぞ」というかいわないかのうちに、とってつかいはじめたのだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にペンを<ruby>貸し<rt>かし</rt></ruby>てほしいと<ruby>言わ<rt>いわ</rt></ruby>れたので、<ruby>貸し<rt>かし</rt></ruby>てあげた。<ruby>驚い<rt>おどろい</rt></ruby>たことに、うちらが「はい、どうぞ」と<ruby>言う<rt>いう</rt></ruby>か<ruby>言わ<rt>いわ</rt></ruby>ないかのうちに、<ruby>取っ<rt>とっ</rt></ruby>て<ruby>使い<rt>つかい</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>たのだ。 じつは、となりのひとにペンをかしてほしいといわれたので、かしてあげた。おどろいたことに、うちらが「はい、どうぞ」というかいわないかのうちに、とってつかいはじめたのだ。"
   },
   {
     "id": 327,
@@ -6866,7 +7517,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かえって",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>手助け<rt>てだすけ</rt></ruby>どころか【　　】<ruby>邪魔<rt>じゃま</rt></ruby>になった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>手助け<rt>てだすけ</rt></ruby>どころかかえって<ruby>邪魔<rt>じゃま</rt></ruby>になった。"
   },
   {
     "id": 328,
@@ -6887,7 +7540,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは【　　】<ruby>言わ<rt>いわ</rt></ruby>ずにおく<ruby>方が<rt>ほうが</rt></ruby>よい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それはかえって<ruby>言わ<rt>いわ</rt></ruby>ずにおく<ruby>方が<rt>ほうが</rt></ruby>よい。"
   },
   {
     "id": 329,
@@ -6908,7 +7563,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>痩せ<rt>やせ</rt></ruby>るどころか【　　】<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>痩せ<rt>やせ</rt></ruby>るどころかかえって<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。"
   },
   {
     "id": 330,
@@ -6929,7 +7586,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "乗り物「電車」→「地下鉄」; 乗り物「タクシー」→「バス」"
+    "notes": "乗り物「電車」→「地下鉄」; 乗り物「タクシー」→「バス」",
+    "question_ruby": "バスに<ruby>乗っ<rt>じょうっ</rt></ruby>たら<ruby>地下鉄<rt>ちかてつ</rt></ruby>より【　　】<ruby>時間<rt>じかん</rt></ruby>が<ruby>掛か<rt>かか</rt></ruby>った。",
+    "sentence_jp_ruby": "バスに<ruby>乗っ<rt>じょうっ</rt></ruby>たら<ruby>地下鉄<rt>ちかてつ</rt></ruby>よりかえって<ruby>時間<rt>じかん</rt></ruby>が<ruby>掛か<rt>かか</rt></ruby>った。"
   },
   {
     "id": 331,
@@ -6950,7 +7609,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>言った<rt>いった</rt></ruby>つもりだが、【　　】<ruby>怒ら<rt>いから</rt></ruby>せてしまったようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>言った<rt>いった</rt></ruby>つもりだが、かえって<ruby>怒ら<rt>いから</rt></ruby>せてしまったようだ。"
   },
   {
     "id": 332,
@@ -6971,7 +7632,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>不幸<rt>ふこう</rt></ruby>が【　　】<ruby>幸福<rt>こうふく</rt></ruby>となる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>不幸<rt>ふこう</rt></ruby>がかえって<ruby>幸福<rt>こうふく</rt></ruby>となる。"
   },
   {
     "id": 333,
@@ -6992,7 +7655,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>別の<rt>べつの</rt></ruby><ruby>道<rt>みち</rt></ruby>で<ruby>行った<rt>いった</rt></ruby>ら<ruby>学校<rt>がっこう</rt></ruby>に<ruby>早く<rt>はやく</rt></ruby><ruby>着く<rt>つく</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ら【　　】いつもと<ruby>変わ<rt>かわ</rt></ruby>らない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>別の<rt>べつの</rt></ruby><ruby>道<rt>みち</rt></ruby>で<ruby>行った<rt>いった</rt></ruby>ら<ruby>学校<rt>がっこう</rt></ruby>に<ruby>早く<rt>はやく</rt></ruby><ruby>着く<rt>つく</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>らかえっていつもと<ruby>変わ<rt>かわ</rt></ruby>らない。"
   },
   {
     "id": 334,
@@ -7013,7 +7678,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>のためによく<ruby>勉強<rt>べんきょう</rt></ruby>したが、【　　】<ruby>不合格<rt>ふごうかく</rt></ruby>のショックは<ruby>大きか<rt>おーきか</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>のためによく<ruby>勉強<rt>べんきょう</rt></ruby>したが、かえって<ruby>不合格<rt>ふごうかく</rt></ruby>のショックは<ruby>大きか<rt>おーきか</rt></ruby>った。"
   },
   {
     "id": 335,
@@ -7034,7 +7701,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かえって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ウイルスの<ruby>影響<rt>えいきょう</rt></ruby>でビジネスは<ruby>利益<rt>りえき</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>るどころか、【　　】<ruby>大損<rt>おおぞん</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ウイルスの<ruby>影響<rt>えいきょう</rt></ruby>でビジネスは<ruby>利益<rt>りえき</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>るどころか、かえって<ruby>大損<rt>おおぞん</rt></ruby>だった。"
   },
   {
     "id": 336,
@@ -7055,7 +7724,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "限り",
-    "notes": "時刻「10時」→「11時」"
+    "notes": "時刻「10時」→「11時」",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない【　　】、11<ruby>時に<rt>ときに</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。",
+    "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時に<rt>ときに</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。"
   },
   {
     "id": 337,
@@ -7076,7 +7747,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "限り",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>生き<rt>いき</rt></ruby>ている【　　】、ずっと<ruby>続け<rt>つづけ</rt></ruby>ていきたい。",
+    "sentence_jp_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>生き<rt>いき</rt></ruby>ている<ruby>限り<rt>かぎり</rt></ruby>、ずっと<ruby>続け<rt>つづけ</rt></ruby>ていきたい。"
   },
   {
     "id": 338,
@@ -7097,7 +7770,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "限り",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>知って<rt>しって</rt></ruby>いる【　　】では、<ruby>佐藤<rt>さとう</rt></ruby>さんはまだ<ruby>結婚<rt>けっこん</rt></ruby>していません。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>知って<rt>しって</rt></ruby>いる<ruby>限り<rt>かぎり</rt></ruby>では、<ruby>佐藤<rt>さとう</rt></ruby>さんはまだ<ruby>結婚<rt>けっこん</rt></ruby>していません。"
   },
   {
     "id": 339,
@@ -7118,7 +7793,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "限り",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>にいる【　　】、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>にいる<ruby>限り<rt>かぎり</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だよ。"
   },
   {
     "id": 340,
@@ -7139,7 +7816,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "限り",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>のやり<ruby>方を<rt>ほうを</rt></ruby><ruby>変え<rt>かえ</rt></ruby>ない【　　】、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>のやり<ruby>方を<rt>ほうを</rt></ruby><ruby>変え<rt>かえ</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。"
   },
   {
     "id": 341,
@@ -7160,7 +7839,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "限り",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>お<ruby>客様<rt>きゃくさま</rt></ruby>がいる【　　】、お<ruby>店<rt>みせ</rt></ruby>は<ruby>閉め<rt>しめ</rt></ruby>ません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>お<ruby>客様<rt>きゃくさま</rt></ruby>がいる<ruby>限り<rt>かぎり</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>は<ruby>閉め<rt>しめ</rt></ruby>ません。"
   },
   {
     "id": 342,
@@ -7181,7 +7862,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "限り",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>改め<rt>あらため</rt></ruby>ない【　　】、<ruby>健康<rt>けんこう</rt></ruby>にはなれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>改め<rt>あらため</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>にはなれない。"
   },
   {
     "id": 343,
@@ -7202,7 +7885,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "限り",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>歌を<rt>うたを</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てくれる<ruby>人<rt>にん</rt></ruby>がいる【　　】、<ruby>路上<rt>ろじょう</rt></ruby>で<ruby>歌た<rt>うたた</rt></ruby>い<ruby>続け<rt>つづけ</rt></ruby>ようと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>歌を<rt>うたを</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てくれる<ruby>人<rt>にん</rt></ruby>がいる<ruby>限り<rt>かぎり</rt></ruby>、<ruby>路上<rt>ろじょう</rt></ruby>で<ruby>歌た<rt>うたた</rt></ruby>い<ruby>続け<rt>つづけ</rt></ruby>ようと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 344,
@@ -7223,7 +7908,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "甲斐がある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>努力<rt>どりょく</rt></ruby>の【　　】があって、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>努力<rt>どりょく</rt></ruby>の<ruby>甲斐<rt>かい</rt></ruby>があって、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。"
   },
   {
     "id": 345,
@@ -7244,7 +7931,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "甲斐がある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>美味しい<rt>おいしい</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>たくさん<ruby>食べて<rt>たべて</rt></ruby>くれると、<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>作っ<rt>つくっ</rt></ruby>た【　　】があります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>美味しい<rt>おいしい</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>たくさん<ruby>食べて<rt>たべて</rt></ruby>くれると、<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>甲斐<rt>かい</rt></ruby>があります。"
   },
   {
     "id": 346,
@@ -7265,7 +7954,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "甲斐がある",
-    "notes": "重量「5キロ」→「3キロ」"
+    "notes": "重量「5キロ」→「3キロ」",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>ダイエットを<ruby>頑張っ<rt>がんばっ</rt></ruby>た【　　】があって、3キロ<ruby>痩せ<rt>やせ</rt></ruby>ることができました。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>ダイエットを<ruby>頑張っ<rt>がんばっ</rt></ruby>た<ruby>甲斐<rt>かい</rt></ruby>があって、3キロ<ruby>痩せ<rt>やせ</rt></ruby>ることができました。"
   },
   {
     "id": 347,
@@ -7286,7 +7977,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "甲斐がある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>した【　　】があって、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>にできるようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>した<ruby>甲斐<rt>かい</rt></ruby>があって、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>にできるようになった。"
   },
   {
     "id": 348,
@@ -7307,7 +8000,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "甲斐がある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>喜んで<rt>よろこんで</rt></ruby>もらえると、その<ruby>仕事<rt>しごと</rt></ruby>は、やり【　　】と<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>喜んで<rt>よろこんで</rt></ruby>もらえると、その<ruby>仕事<rt>しごと</rt></ruby>は、やり<ruby>甲斐<rt>かい</rt></ruby>があると<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 349,
@@ -7328,7 +8023,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "甲斐がある",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>つまらない<ruby>仕事<rt>しごと</rt></ruby>ばかりしている。もっと<ruby>働き<rt>はたらき</rt></ruby>【　　】<ruby>職場<rt>しょくば</rt></ruby>に<ruby>転職<rt>てんしょく</rt></ruby>したい。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>つまらない<ruby>仕事<rt>しごと</rt></ruby>ばかりしている。もっと<ruby>働き<rt>はたらき</rt></ruby><ruby>甲斐<rt>かい</rt></ruby>がある<ruby>職場<rt>しょくば</rt></ruby>に<ruby>転職<rt>てんしょく</rt></ruby>したい。"
   },
   {
     "id": 350,
@@ -7349,7 +8046,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "甲斐がある",
-    "notes": "数値「2時間」→「3時間」; 食べ物「ラーメン」→「うどん」"
+    "notes": "数値「2時間」→「3時間」; 食べ物「ラーメン」→「うどん」",
+    "question_ruby": "こんなに<ruby>美味しい<rt>おいしい</rt></ruby>うどんが<ruby>食べ<rt>たべ</rt></ruby>られるなら、3<ruby>時間<rt>じかん</rt></ruby>も<ruby>列に<rt>つらに</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>だ【　　】と<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "こんなに<ruby>美味しい<rt>おいしい</rt></ruby>うどんが<ruby>食べ<rt>たべ</rt></ruby>られるなら、3<ruby>時間<rt>じかん</rt></ruby>も<ruby>列に<rt>つらに</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>だ<ruby>甲斐<rt>かい</rt></ruby>があると<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 351,
@@ -7370,7 +8069,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かねない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が⻑<ruby>期<rt>き</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>し【　　】。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が⻑<ruby>期<rt>き</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。"
   },
   {
     "id": 352,
@@ -7391,7 +8092,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かねない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>休ま<rt>やすま</rt></ruby>ずに⻑<ruby>時間運転<rt>じかんうんてん</rt></ruby>したら、<ruby>事故<rt>じこ</rt></ruby>を<ruby>起こ<rt>おこ</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>休ま<rt>やすま</rt></ruby>ずに⻑<ruby>時間運転<rt>じかんうんてん</rt></ruby>したら、<ruby>事故<rt>じこ</rt></ruby>を<ruby>起こ<rt>おこ</rt></ruby>しかねない。"
   },
   {
     "id": 353,
@@ -7412,7 +8115,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かねない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのままでは<ruby>同じ<rt>おなじ</rt></ruby>ような<ruby>事故<rt>じこ</rt></ruby>がまた<ruby>起き<rt>おき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "そのままでは<ruby>同じ<rt>おなじ</rt></ruby>ような<ruby>事故<rt>じこ</rt></ruby>がまた<ruby>起き<rt>おき</rt></ruby>かねない。"
   },
   {
     "id": 354,
@@ -7433,7 +8138,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かねない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>ファストフードばっかり<ruby>食べて<rt>たべて</rt></ruby>ると、<ruby>病気<rt>びょうき</rt></ruby>になり【　　】よ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>ファストフードばっかり<ruby>食べて<rt>たべて</rt></ruby>ると、<ruby>病気<rt>びょうき</rt></ruby>になりかねないよ。"
   },
   {
     "id": 355,
@@ -7454,7 +8161,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かねない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>せずに<ruby>放っ<rt>ほうっっ</rt></ruby>ておいたら、<ruby>国際問題<rt>こくさいもんだい</rt></ruby>になり【　　】。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>せずに<ruby>放っ<rt>ほうっっ</rt></ruby>ておいたら、<ruby>国際問題<rt>こくさいもんだい</rt></ruby>になりかねない。"
   },
   {
     "id": 356,
@@ -7475,7 +8184,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かねない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たら、<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>を<ruby>引き起こ<rt>ひきおこ</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "その<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たら、<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>を<ruby>引き起こ<rt>ひきおこ</rt></ruby>しかねない。"
   },
   {
     "id": 357,
@@ -7496,7 +8207,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かねない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>熱い<rt>あつい</rt></ruby>と<ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby>になり【　　】から、ちゃんと<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>しよう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>熱い<rt>あつい</rt></ruby>と<ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby>になりかねないから、ちゃんと<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>しよう。"
   },
   {
     "id": 358,
@@ -7517,7 +8230,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かねる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すぐにお<ruby>返事<rt>へんじ</rt></ruby>はでき【　　】ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すぐにお<ruby>返事<rt>へんじ</rt></ruby>はできかねます。"
   },
   {
     "id": 359,
@@ -7538,7 +8253,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かねる",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそれに<ruby>賛同<rt>さんどう</rt></ruby>し【　　】ます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそれに<ruby>賛同<rt>さんどう</rt></ruby>しかねます。"
   },
   {
     "id": 360,
@@ -7559,7 +8276,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かねる",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>残念<rt>ざんねん</rt></ruby>ながら、あのご<ruby>提案<rt>ていあん</rt></ruby>はお<ruby>受け<rt>うけ</rt></ruby>いたし【　　】ます。",
+    "sentence_jp_ruby": "<ruby>残念<rt>ざんねん</rt></ruby>ながら、あのご<ruby>提案<rt>ていあん</rt></ruby>はお<ruby>受け<rt>うけ</rt></ruby>いたしかねます。"
   },
   {
     "id": 361,
@@ -7580,7 +8299,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かねる",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>担当者<rt>たんとうしゃ</rt></ruby>ではございませんので、その<ruby>質問<rt>しつもん</rt></ruby>にはお<ruby>答え<rt>こたえ</rt></ruby>し【　　】ます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>担当者<rt>たんとうしゃ</rt></ruby>ではございませんので、その<ruby>質問<rt>しつもん</rt></ruby>にはお<ruby>答え<rt>こたえ</rt></ruby>しかねます。"
   },
   {
     "id": 362,
@@ -7601,7 +8322,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かねる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>か、<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>か、まだ<ruby>決め<rt>きめ</rt></ruby>【　　】ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>か、<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>か、まだ<ruby>決め<rt>きめ</rt></ruby>かねている。"
   },
   {
     "id": 363,
@@ -7622,7 +8345,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かねる",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>考え<rt>かんがえ</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>し【　　】ところが<ruby>多い<rt>おおい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>考え<rt>かんがえ</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>しかねるところが<ruby>多い<rt>おおい</rt></ruby>です。"
   },
   {
     "id": 364,
@@ -7643,7 +8368,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かねる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>要望<rt>ようぼう</rt></ruby>には<ruby>応じ<rt>おうじ</rt></ruby>【　　】ますので、ご<ruby>了承<rt>りょうしょう</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>要望<rt>ようぼう</rt></ruby>には<ruby>応じ<rt>おうじ</rt></ruby>かねますので、ご<ruby>了承<rt>りょうしょう</rt></ruby>ください。"
   },
   {
     "id": 365,
@@ -7664,7 +8391,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かねる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>火災<rt>かさい</rt></ruby>などによる<ruby>損失<rt>そんしつ</rt></ruby>は<ruby>補償<rt>ほしょう</rt></ruby>いたし【　　】ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>火災<rt>かさい</rt></ruby>などによる<ruby>損失<rt>そんしつ</rt></ruby>は<ruby>補償<rt>ほしょう</rt></ruby>いたしかねます。"
   },
   {
     "id": 366,
@@ -7685,7 +8414,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かねる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>には、あなたの<ruby>言った<rt>いった</rt></ruby>ことが、ちょっと<ruby>分か<rt>わか</rt></ruby>り【　　】ますが...ぼくには、あなたのいったことが、ちょっとわかりかねますが...",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>には、あなたの<ruby>言った<rt>いった</rt></ruby>ことが、ちょっと<ruby>分か<rt>わか</rt></ruby>りかねますが...ぼくには、あなたのいったことが、ちょっとわかりかねますが..."
   },
   {
     "id": 367,
@@ -7706,7 +8437,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から言うと",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>【　　】<ruby>言え<rt>いえ</rt></ruby>ば、<ruby>国立大学<rt>こくりつだいがく</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば、<ruby>国立大学<rt>こくりつだいがく</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 368,
@@ -7727,7 +8460,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から言うと",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>能力<rt>のうりょく</rt></ruby>【　　】<ruby>言って<rt>いって</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんがこの<ruby>仕事<rt>しごと</rt></ruby>に<ruby>一番<rt>いちばん</rt></ruby><ruby>適切<rt>てきせつ</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>能力<rt>のうりょく</rt></ruby>から<ruby>言って<rt>いって</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんがこの<ruby>仕事<rt>しごと</rt></ruby>に<ruby>一番<rt>いちばん</rt></ruby><ruby>適切<rt>てきせつ</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 369,
@@ -7748,7 +8483,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から言うと",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>現状<rt>げんじょう</rt></ruby>【　　】<ruby>言って<rt>いって</rt></ruby>、<ruby>直ち<rt>ただち</rt></ruby>にあの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>実行<rt>じっこう</rt></ruby>するのは<ruby>無理<rt>むり</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>現状<rt>げんじょう</rt></ruby>から<ruby>言って<rt>いって</rt></ruby>、<ruby>直ち<rt>ただち</rt></ruby>にあの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>実行<rt>じっこう</rt></ruby>するのは<ruby>無理<rt>むり</rt></ruby>だ。"
   },
   {
     "id": 370,
@@ -7769,7 +8506,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から言うと",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>作文<rt>さくぶん</rt></ruby>は、<ruby>日本語能力<rt>にほんごのうりょく</rt></ruby>【　　】<ruby>言え<rt>いえ</rt></ruby>ば、まだまだだが、<ruby>内容<rt>ないよう</rt></ruby>はいい。",
+    "sentence_jp_ruby": "その<ruby>作文<rt>さくぶん</rt></ruby>は、<ruby>日本語能力<rt>にほんごのうりょく</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば、まだまだだが、<ruby>内容<rt>ないよう</rt></ruby>はいい。"
   },
   {
     "id": 371,
@@ -7790,7 +8529,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から言うと",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>【　　】、<ruby>留学<rt>りゅうがく</rt></ruby>をする<ruby>前<rt>まえ</rt></ruby>に<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>文法<rt>ぶんぽう</rt></ruby>や<ruby>単語<rt>たんご</rt></ruby>は<ruby>復習<rt>ふくしゅう</rt></ruby>しておいた<ruby>方が<rt>ほうが</rt></ruby>いい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>から<ruby>言う<rt>いう</rt></ruby>と、<ruby>留学<rt>りゅうがく</rt></ruby>をする<ruby>前<rt>まえ</rt></ruby>に<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>文法<rt>ぶんぽう</rt></ruby>や<ruby>単語<rt>たんご</rt></ruby>は<ruby>復習<rt>ふくしゅう</rt></ruby>しておいた<ruby>方が<rt>ほうが</rt></ruby>いい。"
   },
   {
     "id": 372,
@@ -7811,7 +8552,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から言うと",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>客<rt>きゃく</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>【　　】、その<ruby>店<rt>みせ</rt></ruby>は<ruby>入口<rt>いりぐち</rt></ruby>が<ruby>狭く<rt>せまく</rt></ruby>て<ruby>入り<rt>いり</rt></ruby>にくい。しかし、<ruby>店<rt>みせ</rt></ruby>の<ruby>側<rt>がわ</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば<ruby>管理<rt>かんり</rt></ruby>やすい。",
+    "sentence_jp_ruby": "<ruby>客<rt>きゃく</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>から<ruby>言う<rt>いう</rt></ruby>と、その<ruby>店<rt>みせ</rt></ruby>は<ruby>入口<rt>いりぐち</rt></ruby>が<ruby>狭く<rt>せまく</rt></ruby>て<ruby>入り<rt>いり</rt></ruby>にくい。しかし、<ruby>店<rt>みせ</rt></ruby>の<ruby>側<rt>がわ</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば<ruby>管理<rt>かんり</rt></ruby>やすい。"
   },
   {
     "id": 373,
@@ -7832,7 +8575,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "から言うと",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>性格<rt>せいかく</rt></ruby>【　　】、<ruby>無断<rt>むだん</rt></ruby>で<ruby>欠席<rt>けっせき</rt></ruby>するはずがないですが。<ruby>何か<rt>なにか</rt></ruby>あったのだろうか。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>性格<rt>せいかく</rt></ruby>から<ruby>言う<rt>いう</rt></ruby>と、<ruby>無断<rt>むだん</rt></ruby>で<ruby>欠席<rt>けっせき</rt></ruby>するはずがないですが。<ruby>何か<rt>なにか</rt></ruby>あったのだろうか。"
   },
   {
     "id": 374,
@@ -7853,7 +8598,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からこそ",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>た【　　】<ruby>私<rt>わたし</rt></ruby>は<ruby>始発地<rt>しはつち</rt></ruby><ruby>下<rt>した</rt></ruby><ruby>鉄<rt>てつ</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>たからこそ<ruby>私<rt>わたし</rt></ruby>は<ruby>始発地<rt>しはつち</rt></ruby><ruby>下<rt>した</rt></ruby><ruby>鉄<rt>てつ</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。"
   },
   {
     "id": 375,
@@ -7874,7 +8621,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>した【　　】、<ruby>優勝<rt>ゆうしょう</rt></ruby>できたのです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>したからこそ、<ruby>優勝<rt>ゆうしょう</rt></ruby>できたのです。"
   },
   {
     "id": 376,
@@ -7895,7 +8644,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>た【　　】<ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>たいのです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>たからこそ<ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>たいのです。"
   },
   {
     "id": 377,
@@ -7916,7 +8667,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうしてもかなえたい<ruby>夢<rt>ゆめ</rt></ruby>がある【　　】、<ruby>辛く<rt>つらく</rt></ruby>ても<ruby>頑張り<rt>がんばり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どうしてもかなえたい<ruby>夢<rt>ゆめ</rt></ruby>があるからこそ、<ruby>辛く<rt>つらく</rt></ruby>ても<ruby>頑張り<rt>がんばり</rt></ruby>ます。"
   },
   {
     "id": 378,
@@ -7937,7 +8690,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>成功<rt>せいこう</rt></ruby>した【　　】、いろいろな<ruby>失敗<rt>しっぱい</rt></ruby>や<ruby>辛い<rt>つらい</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>を<ruby>笑い<rt>わらい</rt></ruby>ながら<ruby>話せ<rt>はなせ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>成功<rt>せいこう</rt></ruby>したからこそ、いろいろな<ruby>失敗<rt>しっぱい</rt></ruby>や<ruby>辛い<rt>つらい</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>を<ruby>笑い<rt>わらい</rt></ruby>ながら<ruby>話せ<rt>はなせ</rt></ruby>る。"
   },
   {
     "id": 379,
@@ -7958,7 +8713,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からこそ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "そういう<ruby>態度<rt>たいど</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする【　　】、<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>嫌い<rt>きらい</rt></ruby>だ。",
+    "sentence_jp_ruby": "そういう<ruby>態度<rt>たいど</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をするからこそ、<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>嫌い<rt>きらい</rt></ruby>だ。"
   },
   {
     "id": 380,
@@ -7979,7 +8736,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からこそ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>している【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>他人<rt>たにん</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>がわかる。",
+    "sentence_jp_ruby": "<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>しているからこそ<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>他人<rt>たにん</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>がわかる。"
   },
   {
     "id": 381,
@@ -8000,7 +8759,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から見ると",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>虫<rt>むし</rt></ruby><ruby>嫌い<rt>きらい</rt></ruby>な<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】、ゴキブリを<ruby>手で<rt>てで</rt></ruby>つかむなんてありえない。",
+    "sentence_jp_ruby": "<ruby>虫<rt>むし</rt></ruby><ruby>嫌い<rt>きらい</rt></ruby>な<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見る<rt>みる</rt></ruby>と、ゴキブリを<ruby>手で<rt>てで</rt></ruby>つかむなんてありえない。"
   },
   {
     "id": 382,
@@ -8021,7 +8782,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から見ると",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>緊張し<rt>きんちょうし</rt></ruby>ている<ruby>様子<rt>ようす</rt></ruby>【　　】<ruby>見て<rt>みて</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>だろう。",
+    "sentence_jp_ruby": "<ruby>緊張し<rt>きんちょうし</rt></ruby>ている<ruby>様子<rt>ようす</rt></ruby>から<ruby>見て<rt>みて</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>だろう。"
   },
   {
     "id": 383,
@@ -8042,7 +8805,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "から見ると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>専門家<rt>せんもんか</rt></ruby>【　　】<ruby>見れ<rt>みれ</rt></ruby>ば、<ruby>間違っ<rt>まちがっ</rt></ruby>たダイエットをしている<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>専門家<rt>せんもんか</rt></ruby>から<ruby>見れ<rt>みれ</rt></ruby>ば、<ruby>間違っ<rt>まちがっ</rt></ruby>たダイエットをしている<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ようだ。"
   },
   {
     "id": 384,
@@ -8063,7 +8828,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から見ると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>には、<ruby>外国人<rt>がいこくじん</rt></ruby>【　　】<ruby>妙な<rt>みょうな</rt></ruby>ものもあるだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>には、<ruby>外国人<rt>がいこくじん</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と<ruby>妙な<rt>みょうな</rt></ruby>ものもあるだろう。"
   },
   {
     "id": 385,
@@ -8084,7 +8851,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "から見ると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昔<rt>むかし</rt></ruby>の<ruby>人<rt>にん</rt></ruby>【　　】、<ruby>現代人<rt>げんだいじん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>のリズムは<ruby>速す<rt>はやす</rt></ruby>ぎるかもしれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昔<rt>むかし</rt></ruby>の<ruby>人<rt>にん</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と、<ruby>現代人<rt>げんだいじん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>のリズムは<ruby>速す<rt>はやす</rt></ruby>ぎるかもしれない。"
   },
   {
     "id": 386,
@@ -8105,7 +8874,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "から見ると",
-    "notes": "時相「昨晩」→「先日の夜」"
+    "notes": "時相「昨晩」→「先日の夜」",
+    "question_ruby": "あの<ruby>様子<rt>ようす</rt></ruby>【　　】<ruby>見て<rt>みて</rt></ruby>、<ruby>彼は<rt>かれは</rt></ruby><ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby><ruby>飲み<rt>のみ</rt></ruby>すぎたようだ。",
+    "sentence_jp_ruby": "あの<ruby>様子<rt>ようす</rt></ruby>から<ruby>見て<rt>みて</rt></ruby>、<ruby>彼は<rt>かれは</rt></ruby><ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby><ruby>飲み<rt>のみ</rt></ruby>すぎたようだ。"
   },
   {
     "id": 387,
@@ -8126,7 +8897,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から見ると",
-    "notes": "スポーツ「ゴルフ」→「テニス」"
+    "notes": "スポーツ「ゴルフ」→「テニス」",
+    "question_ruby": "テニスをしない<ruby>者<rt>もの</rt></ruby>【　　】、<ruby>何<rt>なに</rt></ruby>が<ruby>面白い<rt>おもしろい</rt></ruby>のか<ruby>理解<rt>りかい</rt></ruby>できない。",
+    "sentence_jp_ruby": "テニスをしない<ruby>者<rt>もの</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と、<ruby>何<rt>なに</rt></ruby>が<ruby>面白い<rt>おもしろい</rt></ruby>のか<ruby>理解<rt>りかい</rt></ruby>できない。"
   },
   {
     "id": 388,
@@ -8147,7 +8920,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からには",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>約束<rt>やくそく</rt></ruby>した【　　】あの<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>約束<rt>やくそく</rt></ruby>したからにはあの<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。"
   },
   {
     "id": 389,
@@ -8168,7 +8943,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からには",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはJLPT N2 <ruby>試験<rt>しけん</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>【　　】、<ruby>合格<rt>ごうかく</rt></ruby>したいです。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはJLPT N2 <ruby>試験<rt>しけん</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>からには、<ruby>合格<rt>ごうかく</rt></ruby>したいです。"
   },
   {
     "id": 390,
@@ -8189,7 +8966,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>た【　　】、<ruby>大変<rt>たいへん</rt></ruby>でも<ruby>頑張り<rt>がんばり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>たからには、<ruby>大変<rt>たいへん</rt></ruby>でも<ruby>頑張り<rt>がんばり</rt></ruby>ます。"
   },
   {
     "id": 391,
@@ -8210,7 +8989,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からには",
-    "notes": "地域名「北海道」→「沖縄」"
+    "notes": "地域名「北海道」→「沖縄」",
+    "question_ruby": "<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>【　　】、カニやイクラなど、<ruby>海<rt>うみ</rt></ruby>の<ruby>幸<rt>さち</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>い。",
+    "sentence_jp_ruby": "<ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>からには、カニやイクラなど、<ruby>海<rt>うみ</rt></ruby>の<ruby>幸<rt>さち</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>い。"
   },
   {
     "id": 392,
@@ -8231,7 +9012,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>【　　】、<ruby>毎日<rt>まいにち</rt></ruby>まじめに<ruby>勉強<rt>べんきょう</rt></ruby>するつもりだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>からには、<ruby>毎日<rt>まいにち</rt></ruby>まじめに<ruby>勉強<rt>べんきょう</rt></ruby>するつもりだ。"
   },
   {
     "id": 393,
@@ -8252,7 +9035,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>する【　　】、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>困る<rt>こまる</rt></ruby>ことが<ruby>起こ<rt>おこ</rt></ruby>るのはしかたがない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>するからには、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>困る<rt>こまる</rt></ruby>ことが<ruby>起こ<rt>おこ</rt></ruby>るのはしかたがない。"
   },
   {
     "id": 394,
@@ -8273,7 +9058,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>た【　　】、たくさんのお<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>来て<rt>きて</rt></ruby>もらいたい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>たからには、たくさんのお<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>来て<rt>きて</rt></ruby>もらいたい。"
   },
   {
     "id": 395,
@@ -8294,7 +9081,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる【　　】、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>従わ<rt>したがわ</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいるからには、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>従わ<rt>したがわ</rt></ruby>なければならない。"
   },
   {
     "id": 396,
@@ -8315,7 +9104,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、タイトル【　　】、<ruby>面白そ<rt>おもしろそ</rt></ruby>うな<ruby>本<rt>ほん</rt></ruby>ですね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、タイトルからして、<ruby>面白そ<rt>おもしろそ</rt></ruby>うな<ruby>本<rt>ほん</rt></ruby>ですね。"
   },
   {
     "id": 397,
@@ -8336,7 +9127,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からして",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>新社<rt>しんしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>顔<rt>かお</rt></ruby>つき【　　】<ruby>優し<rt>やさし</rt></ruby>そうだ。",
+    "sentence_jp_ruby": "あの<ruby>新社<rt>しんしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>顔<rt>かお</rt></ruby>つきからして<ruby>優し<rt>やさし</rt></ruby>そうだ。"
   },
   {
     "id": 398,
@@ -8357,7 +9150,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からして",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>子<rt>こ</rt></ruby>は<ruby>笑い方<rt>わらいかた</rt></ruby>【　　】<ruby>母親<rt>ははおや</rt></ruby>にそっくりだ。",
+    "sentence_jp_ruby": "その<ruby>子<rt>こ</rt></ruby>は<ruby>笑い方<rt>わらいかた</rt></ruby>からして<ruby>母親<rt>ははおや</rt></ruby>にそっくりだ。"
   },
   {
     "id": 399,
@@ -8378,7 +9173,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からして",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのレストランは<ruby>雰囲気<rt>ふんいき</rt></ruby>【　　】<ruby>結構<rt>けっこう</rt></ruby><ruby>高そ<rt>たかそ</rt></ruby>うだね。",
+    "sentence_jp_ruby": "そのレストランは<ruby>雰囲気<rt>ふんいき</rt></ruby>からして<ruby>結構<rt>けっこう</rt></ruby><ruby>高そ<rt>たかそ</rt></ruby>うだね。"
   },
   {
     "id": 400,
@@ -8399,7 +9196,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これまでの<ruby>実績<rt>じっせき</rt></ruby>【　　】、Aチームが<ruby>勝つ<rt>かつ</rt></ruby>と<ruby>予想<rt>よそう</rt></ruby>した<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これまでの<ruby>実績<rt>じっせき</rt></ruby>からして、Aチームが<ruby>勝つ<rt>かつ</rt></ruby>と<ruby>予想<rt>よそう</rt></ruby>した<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>った。"
   },
   {
     "id": 401,
@@ -8420,7 +9219,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、リーダー【　　】やる<ruby>気が<rt>きが</rt></ruby>ないのだから、<ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>たちがやるはずがない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、リーダーからしてやる<ruby>気が<rt>きが</rt></ruby>ないのだから、<ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>たちがやるはずがない。"
   },
   {
     "id": 402,
@@ -8441,7 +9242,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からして",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>さんの<ruby>態度<rt>たいど</rt></ruby>【　　】、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行為<rt>こうい</rt></ruby>を<ruby>何ら<rt>なんら</rt></ruby><ruby>後悔<rt>こうかい</rt></ruby>していないことは<ruby>明らか<rt>あきらか</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>さんの<ruby>態度<rt>たいど</rt></ruby>からして、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行為<rt>こうい</rt></ruby>を<ruby>何ら<rt>なんら</rt></ruby><ruby>後悔<rt>こうかい</rt></ruby>していないことは<ruby>明らか<rt>あきらか</rt></ruby>です。"
   },
   {
     "id": 403,
@@ -8462,7 +9265,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からして",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>子供<rt>こども</rt></ruby>たちに<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>るという<ruby>点<rt>てん</rt></ruby>【　　】もそのイベントは<ruby>続け<rt>つづけ</rt></ruby>ていきたい。",
+    "sentence_jp_ruby": "<ruby>子供<rt>こども</rt></ruby>たちに<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>るという<ruby>点か<rt>つか</rt></ruby>らしてもそのイベントは<ruby>続け<rt>つづけ</rt></ruby>ていきたい。"
   },
   {
     "id": 404,
@@ -8483,7 +9288,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からすると",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>症状<rt>しょうじょう</rt></ruby>【　　】、<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>かもしれません。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>症状<rt>しょうじょう</rt></ruby>からすると、<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>かもしれません。"
   },
   {
     "id": 405,
@@ -8504,7 +9311,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のJLPTですが、<ruby>今<rt>いま</rt></ruby>の<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>実力<rt>じつりょく</rt></ruby>【　　】<ruby>問題<rt>もんだい</rt></ruby>なく<ruby>合格<rt>ごうかく</rt></ruby>できるでしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のJLPTですが、<ruby>今<rt>いま</rt></ruby>の<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>実力<rt>じつりょく</rt></ruby>からすると<ruby>問題<rt>もんだい</rt></ruby>なく<ruby>合格<rt>ごうかく</rt></ruby>できるでしょう。"
   },
   {
     "id": 406,
@@ -8525,7 +9334,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からすると",
-    "notes": "食べ物「ラーメン」→「うどん」"
+    "notes": "食べ物「ラーメン」→「うどん」",
+    "question_ruby": "うどんを<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時に<rt>ときに</rt></ruby><ruby>音<rt>おと</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>【　　】、<ruby>考え<rt>かんがえ</rt></ruby>られないことだそうです。",
+    "sentence_jp_ruby": "うどんを<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時に<rt>ときに</rt></ruby><ruby>音<rt>おと</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>からすると、<ruby>考え<rt>かんがえ</rt></ruby>られないことだそうです。"
   },
   {
     "id": 407,
@@ -8546,7 +9357,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からすると",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その1<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>【　　】、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>を<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>になる。",
+    "sentence_jp_ruby": "その1<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>からすると、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>を<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>になる。"
   },
   {
     "id": 408,
@@ -8567,7 +9380,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>【　　】、どんなに<ruby>頑張っ<rt>がんばっ</rt></ruby>ても<ruby>親<rt>おや</rt></ruby>の<ruby>要求<rt>ようきゅう</rt></ruby><ruby>水準<rt>すいじゅん</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>ることはできません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>からすると、どんなに<ruby>頑張っ<rt>がんばっ</rt></ruby>ても<ruby>親<rt>おや</rt></ruby>の<ruby>要求<rt>ようきゅう</rt></ruby><ruby>水準<rt>すいじゅん</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>ることはできません。"
   },
   {
     "id": 409,
@@ -8588,7 +9403,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>周り<rt>まわり</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>【　　】、あの<ruby>人<rt>にん</rt></ruby>が<ruby>有名人<rt>ゆうめいじん</rt></ruby>ではないでしょうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>周り<rt>まわり</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>からすると、あの<ruby>人<rt>にん</rt></ruby>が<ruby>有名人<rt>ゆうめいじん</rt></ruby>ではないでしょうか。"
   },
   {
     "id": 410,
@@ -8609,7 +9426,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>【　　】、<ruby>子供<rt>こども</rt></ruby>はいくつになっても<ruby>子供<rt>こども</rt></ruby>で<ruby>心配<rt>しんぱい</rt></ruby>なものだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親か<rt>したしか</rt></ruby>らすると、<ruby>子供<rt>こども</rt></ruby>はいくつになっても<ruby>子供<rt>こども</rt></ruby>で<ruby>心配<rt>しんぱい</rt></ruby>なものだ。"
   },
   {
     "id": 411,
@@ -8630,7 +9449,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>がたくさんある【　　】といって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。"
   },
   {
     "id": 412,
@@ -8651,7 +9472,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>安い<rt>やすい</rt></ruby>【　　】といって、<ruby>要ら<rt>いら</rt></ruby>ないものまで<ruby>買う<rt>かう</rt></ruby>のはよくない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>安い<rt>やすい</rt></ruby>からといって、<ruby>要ら<rt>いら</rt></ruby>ないものまで<ruby>買う<rt>かう</rt></ruby>のはよくない。"
   },
   {
     "id": 413,
@@ -8672,7 +9495,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>だ【　　】といって、すべて<ruby>日本文化<rt>にほんぶんか</rt></ruby>について<ruby>知って<rt>しって</rt></ruby>いるわけではない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>だからといって、すべて<ruby>日本文化<rt>にほんぶんか</rt></ruby>について<ruby>知って<rt>しって</rt></ruby>いるわけではない。"
   },
   {
     "id": 414,
@@ -8693,7 +9518,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>だ【　　】、<ruby>食べ<rt>たべ</rt></ruby>ないのはよくないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>だからと<ruby>言って<rt>いって</rt></ruby>、<ruby>食べ<rt>たべ</rt></ruby>ないのはよくないよ。"
   },
   {
     "id": 415,
@@ -8714,7 +9541,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>だ【　　】、<ruby>勝手<rt>かって</rt></ruby>に<ruby>子供<rt>こども</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るのはあまりよくない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>だからと<ruby>言って<rt>いって</rt></ruby>、<ruby>勝手<rt>かって</rt></ruby>に<ruby>子供<rt>こども</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るのはあまりよくない。"
   },
   {
     "id": 416,
@@ -8735,7 +9564,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>た【　　】すぐにできるというものでもない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>たからと<ruby>言って<rt>いって</rt></ruby>すぐにできるというものでもない。"
   },
   {
     "id": 417,
@@ -8756,7 +9587,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>暑い<rt>あつい</rt></ruby>【　　】、<ruby>冷たい<rt>つめたい</rt></ruby>ものは<ruby>飲み<rt>のみ</rt></ruby><ruby>過ぎな<rt>すぎな</rt></ruby>いほうがいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>暑い<rt>あつい</rt></ruby>からと<ruby>言って<rt>いって</rt></ruby>、<ruby>冷たい<rt>つめたい</rt></ruby>ものは<ruby>飲み<rt>のみ</rt></ruby><ruby>過ぎな<rt>すぎな</rt></ruby>いほうがいい。"
   },
   {
     "id": 418,
@@ -8777,7 +9610,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からと言って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>楽<rt>らく</rt></ruby>だ【　　】<ruby>車<rt>くるま</rt></ruby>にばかり<ruby>乗って<rt>のって</rt></ruby>いると、<ruby>運動不足<rt>うんどうぶそく</rt></ruby>になるよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>楽<rt>らく</rt></ruby>だからと<ruby>言って<rt>いって</rt></ruby><ruby>車<rt>くるま</rt></ruby>にばかり<ruby>乗って<rt>のって</rt></ruby>いると、<ruby>運動不足<rt>うんどうぶそく</rt></ruby>になるよ。"
   },
   {
     "id": 419,
@@ -8798,7 +9633,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "っこない",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>【　　】よ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。",
+    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。"
   },
   {
     "id": 420,
@@ -8819,7 +9656,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っこない",
-    "notes": "年齢「3歳」→「4歳」"
+    "notes": "年齢「3歳」→「4歳」",
+    "question_ruby": "4<ruby>歳<rt>とし</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>にそんな<ruby>難しい<rt>むずかしい</rt></ruby>ことを<ruby>言って<rt>いって</rt></ruby>も<ruby>分か<rt>わか</rt></ruby>り【　　】よ。",
+    "sentence_jp_ruby": "4<ruby>歳<rt>とし</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>にそんな<ruby>難しい<rt>むずかしい</rt></ruby>ことを<ruby>言って<rt>いって</rt></ruby>も<ruby>分か<rt>わか</rt></ruby>りっこないよ。"
   },
   {
     "id": 421,
@@ -8840,7 +9679,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "っこない",
-    "notes": "駅名「新宿駅」→「渋谷駅」; 回数「100回」→「50回」"
+    "notes": "駅名「新宿駅」→「渋谷駅」; 回数「100回」→「50回」",
+    "question_ruby": "もう<ruby>渋谷駅<rt>しぶやえき</rt></ruby>には50<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>行った<rt>いった</rt></ruby>んだから、<ruby>迷い<rt>まよい</rt></ruby>【　　】よ。",
+    "sentence_jp_ruby": "もう<ruby>渋谷駅<rt>しぶやえき</rt></ruby>には50<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>行った<rt>いった</rt></ruby>んだから、<ruby>迷い<rt>まよい</rt></ruby>っこないよ。"
   },
   {
     "id": 422,
@@ -8861,7 +9702,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っこない",
-    "notes": "数量「100字」→「80字」; 期限「今日中」→「明日中」"
+    "notes": "数量「100字」→「80字」; 期限「今日中」→「明日中」",
+    "question_ruby": "<ruby>明日中<rt>あすじゅう</rt></ruby>に<ruby>漢字<rt>かんじ</rt></ruby>を80<ruby>字<rt>じ</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>るなんて<ruby>無理<rt>むり</rt></ruby>だ。でき【　　】。",
+    "sentence_jp_ruby": "<ruby>明日中<rt>あすじゅう</rt></ruby>に<ruby>漢字<rt>かんじ</rt></ruby>を80<ruby>字<rt>じ</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>るなんて<ruby>無理<rt>むり</rt></ruby>だ。できっこない。"
   },
   {
     "id": 423,
@@ -8882,7 +9725,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っこない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>大学<rt>だいがく</rt></ruby>には<ruby>合格<rt>ごうかく</rt></ruby>し【　　】<ruby>僕は<rt>ぼくは</rt></ruby>そんなに<ruby>頭<rt>あたま</rt></ruby>がよくないから。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>大学<rt>だいがく</rt></ruby>には<ruby>合格<rt>ごうかく</rt></ruby>しっこない<ruby>僕は<rt>ぼくは</rt></ruby>そんなに<ruby>頭<rt>あたま</rt></ruby>がよくないから。"
   },
   {
     "id": 424,
@@ -8903,7 +9748,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っこない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>弱い<rt>よわい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>ばかりでは、<ruby>次の<rt>つぎの</rt></ruby><ruby>試合<rt>しあい</rt></ruby>に<ruby>勝て<rt>かて</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>弱い<rt>よわい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>ばかりでは、<ruby>次の<rt>つぎの</rt></ruby><ruby>試合<rt>しあい</rt></ruby>に<ruby>勝て<rt>かて</rt></ruby>っこない。"
   },
   {
     "id": 425,
@@ -8924,7 +9771,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っこない",
-    "notes": "スポーツ「テニス」→「サッカー」"
+    "notes": "スポーツ「テニス」→「サッカー」",
+    "question_ruby": "こんなひどい<ruby>嵐<rt>あらし</rt></ruby>にサッカーなんかでき【　　】。<ruby>今日は<rt>こんにちは</rt></ruby>やめとこう。",
+    "sentence_jp_ruby": "こんなひどい<ruby>嵐<rt>あらし</rt></ruby>にサッカーなんかできっこない。<ruby>今日は<rt>こんにちは</rt></ruby>やめとこう。"
   },
   {
     "id": 426,
@@ -8945,7 +9794,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "っこない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>俳優<rt>はいゆう</rt></ruby>になんかなれ【　　】と<ruby>親<rt>おや</rt></ruby>にも<ruby>言わ<rt>いわ</rt></ruby>れたけれど、<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>捨て<rt>すて</rt></ruby>られなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>俳優<rt>はいゆう</rt></ruby>になんかなれっこないと<ruby>親<rt>おや</rt></ruby>にも<ruby>言わ<rt>いわ</rt></ruby>れたけれど、<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>捨て<rt>すて</rt></ruby>られなかった。"
   },
   {
     "id": 427,
@@ -8966,7 +9817,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>ぎみなら、<ruby>早く<rt>はやく</rt></ruby><ruby>寝る<rt>ねる</rt></ruby>【　　】ですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>ぎみなら、<ruby>早く<rt>はやく</rt></ruby><ruby>寝る<rt>ねる</rt></ruby>ことですよ。"
   },
   {
     "id": 428,
@@ -8987,7 +9840,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無理<rt>むり</rt></ruby>をしない【　　】よ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無理<rt>むり</rt></ruby>をしないことだよ。"
   },
   {
     "id": 429,
@@ -9008,7 +9863,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2に<ruby>合格<rt>ごうかく</rt></ruby>したかったら、とにかく<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>る【　　】よ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2に<ruby>合格<rt>ごうかく</rt></ruby>したかったら、とにかく<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>ることだよ。"
   },
   {
     "id": 430,
@@ -9029,7 +9886,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>がうまくなりたかったら、<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>恋人<rt>こいびと</rt></ruby>をつくる【　　】ですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>がうまくなりたかったら、<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>恋人<rt>こいびと</rt></ruby>をつくることですよ。"
   },
   {
     "id": 431,
@@ -9050,7 +9909,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>です。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>勉強<rt>べんきょう</rt></ruby>する【　　】です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>です。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>勉強<rt>べんきょう</rt></ruby>することです。"
   },
   {
     "id": 432,
@@ -9071,7 +9932,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いやな【　　】を<ruby>忘れ<rt>わすれ</rt></ruby>るにはとにかく<ruby>笑う<rt>わらう</rt></ruby>ことですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いやなことを<ruby>忘れ<rt>わすれ</rt></ruby>るにはとにかく<ruby>笑う<rt>わらう</rt></ruby>ことですよ。"
   },
   {
     "id": 433,
@@ -9092,7 +9955,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>をしながら<ruby>休息<rt>きゅうそく</rt></ruby>する<ruby>術<rt>じゅつ</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>をしながら<ruby>休息<rt>きゅうそく</rt></ruby>する<ruby>術<rt>じゅつ</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>ることだ。"
   },
   {
     "id": 434,
@@ -9113,7 +9978,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信頼<rt>しんらい</rt></ruby>されたければ、<ruby>信頼性<rt>しんらいせい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>になる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信頼<rt>しんらい</rt></ruby>されたければ、<ruby>信頼性<rt>しんらいせい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>になることだ。"
   },
   {
     "id": 435,
@@ -9134,7 +10001,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことだから",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "それは、<ruby>高橋<rt>たかはし</rt></ruby>さんにとって<ruby>重要な<rt>じゅうような</rt></ruby>【　　】<ruby>答え<rt>こたえ</rt></ruby>て。",
+    "sentence_jp_ruby": "それは、<ruby>高橋<rt>たかはし</rt></ruby>さんにとって<ruby>重要な<rt>じゅうような</rt></ruby>ことだから<ruby>答え<rt>こたえ</rt></ruby>て。"
   },
   {
     "id": 436,
@@ -9155,7 +10024,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたの【　　】<ruby>上々<rt>じょうじょう</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたのことだから<ruby>上々<rt>じょうじょう</rt></ruby>でしょう。"
   },
   {
     "id": 437,
@@ -9176,7 +10047,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことだから",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>明るい<rt>あかるい</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby>さんの【　　】、どこへ<ruby>行って<rt>いって</rt></ruby>もすぐ<ruby>友達<rt>ともだち</rt></ruby>ができるでしょう。",
+    "sentence_jp_ruby": "<ruby>明るい<rt>あかるい</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby>さんのことだから、どこへ<ruby>行って<rt>いって</rt></ruby>もすぐ<ruby>友達<rt>ともだち</rt></ruby>ができるでしょう。"
   },
   {
     "id": 438,
@@ -9197,7 +10070,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>急<rt>きゅう</rt></ruby>を<ruby>要す<rt>ようす</rt></ruby>る【　　】<ruby>急い<rt>いそい</rt></ruby>でください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>急<rt>きゅう</rt></ruby>を<ruby>要す<rt>ようす</rt></ruby>ることだから<ruby>急い<rt>いそい</rt></ruby>でください。"
   },
   {
     "id": 439,
@@ -9218,7 +10093,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだから",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "ケチで<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>鈴木<rt>すずき</rt></ruby>さんの【　　】<ruby>百円<rt>ひゃくえん</rt></ruby>だって<ruby>貸し<rt>かし</rt></ruby>てくれないだろうな。",
+    "sentence_jp_ruby": "ケチで<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>鈴木<rt>すずき</rt></ruby>さんのことだから<ruby>百円<rt>ひゃくえん</rt></ruby>だって<ruby>貸し<rt>かし</rt></ruby>てくれないだろうな。"
   },
   {
     "id": 440,
@@ -9239,7 +10116,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう<ruby>誰も<rt>だれも</rt></ruby><ruby>来ない<rt>こない</rt></ruby>【　　】だし、<ruby>店<rt>みせ</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby>よう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう<ruby>誰も<rt>だれも</rt></ruby><ruby>来ない<rt>こない</rt></ruby>ことだし、<ruby>店<rt>みせ</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby>よう。"
   },
   {
     "id": 441,
@@ -9260,7 +10139,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことだから",
-    "notes": "時相「昨夜」→「先日の夜」"
+    "notes": "時相「昨夜」→「先日の夜」",
+    "question_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>遅刻<rt>ちこく</rt></ruby>したが, <ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>後で<rt>あとで</rt></ruby>の【　　】<ruby>無理<rt>むり</rt></ruby>はない。",
+    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>遅刻<rt>ちこく</rt></ruby>したが, <ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>後で<rt>あとで</rt></ruby>のことだから<ruby>無理<rt>むり</rt></ruby>はない。"
   },
   {
     "id": 442,
@@ -9281,7 +10162,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何度<rt>なんど</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>した【　　】?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何度<rt>なんど</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>したことか?"
   },
   {
     "id": 443,
@@ -9302,7 +10185,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>景色<rt>けしき</rt></ruby>はなんときれいな【　　】。",
+    "sentence_jp_ruby": "その<ruby>景色<rt>けしき</rt></ruby>はなんときれいなことか。"
   },
   {
     "id": 444,
@@ -9323,7 +10208,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>できたら、どんなに<ruby>嬉しい<rt>うれしい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>できたら、どんなに<ruby>嬉しい<rt>うれしい</rt></ruby>ことか。"
   },
   {
     "id": 445,
@@ -9344,7 +10231,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今まで<rt>いままで</rt></ruby><ruby>何度<rt>なんど</rt></ruby><ruby>酒<rt>さけ</rt></ruby>をやめようと<ruby>思った<rt>おもった</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今まで<rt>いままで</rt></ruby><ruby>何度<rt>なんど</rt></ruby><ruby>酒<rt>さけ</rt></ruby>をやめようと<ruby>思った<rt>おもった</rt></ruby>ことか。"
   },
   {
     "id": 446,
@@ -9365,7 +10254,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生時代<rt>がくせいじだい</rt></ruby>、<ruby>奨学金<rt>しょうがくきん</rt></ruby>がもらえてどれほど<ruby>助か<rt>たすか</rt></ruby>った【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生時代<rt>がくせいじだい</rt></ruby>、<ruby>奨学金<rt>しょうがくきん</rt></ruby>がもらえてどれほど<ruby>助か<rt>たすか</rt></ruby>ったことか。"
   },
   {
     "id": 447,
@@ -9386,7 +10277,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大好き<rt>だいすき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>って<ruby>伝え<rt>つたえ</rt></ruby>られることがどんなに<ruby>幸せ<rt>しあわせ</rt></ruby>な【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大好き<rt>だいすき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>って<ruby>伝え<rt>つたえ</rt></ruby>られることがどんなに<ruby>幸せ<rt>しあわせ</rt></ruby>なことか。"
   },
   {
     "id": 448,
@@ -9407,7 +10300,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "どれほどその<ruby>機会<rt>きかい</rt></ruby>を<ruby>待ち<rt>まち</rt></ruby>わびた【　　】。",
+    "sentence_jp_ruby": "どれほどその<ruby>機会<rt>きかい</rt></ruby>を<ruby>待ち<rt>まち</rt></ruby>わびたことか。"
   },
   {
     "id": 449,
@@ -9428,7 +10323,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>のち</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどい【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>のち</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどいことか。"
   },
   {
     "id": 450,
@@ -9449,7 +10346,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことなく",
-    "notes": "期間「10年間」→「5年間」"
+    "notes": "期間「10年間」→「5年間」",
+    "question_ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>は5<ruby>年間<rt>ねんかん</rt></ruby><ruby>休む<rt>やすむ</rt></ruby>【　　】<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>通っ<rt>かよっ</rt></ruby>た。",
+    "sentence_jp_ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>は5<ruby>年間<rt>ねんかん</rt></ruby><ruby>休む<rt>やすむ</rt></ruby>ことなく<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>通っ<rt>かよっ</rt></ruby>た。"
   },
   {
     "id": 451,
@@ -9470,7 +10369,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことなく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝つ<rt>かつ</rt></ruby>ために、1<ruby>日<rt>にち</rt></ruby>も<ruby>休む<rt>やすむ</rt></ruby>【　　】<ruby>練習<rt>れんしゅう</rt></ruby>に<ruby>励ん<rt>はげん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝つ<rt>かつ</rt></ruby>ために、1<ruby>日<rt>にち</rt></ruby>も<ruby>休む<rt>やすむ</rt></ruby>ことなく<ruby>練習<rt>れんしゅう</rt></ruby>に<ruby>励ん<rt>はげん</rt></ruby>だ。"
   },
   {
     "id": 452,
@@ -9491,7 +10392,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことなく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>緊張す<rt>きんちょうす</rt></ruby>る【　　】、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>落ち着い<rt>おちつい</rt></ruby>て<ruby>発表<rt>はっぴょう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>緊張す<rt>きんちょうす</rt></ruby>ることなく、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>落ち着い<rt>おちつい</rt></ruby>て<ruby>発表<rt>はっぴょう</rt></ruby>した。"
   },
   {
     "id": 453,
@@ -9512,7 +10415,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことなく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何度<rt>なんど</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>してもあきらめる【　　】、<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何度<rt>なんど</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>してもあきらめることなく、<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>た。"
   },
   {
     "id": 454,
@@ -9533,7 +10438,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことなく",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>同僚<rt>どうりょう</rt></ruby>は<ruby>同期<rt>どうき</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>する【　　】<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>同僚<rt>どうりょう</rt></ruby>は<ruby>同期<rt>どうき</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>することなく<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>てしまった。"
   },
   {
     "id": 455,
@@ -9554,7 +10461,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことなく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夫<rt>おっと</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>る【　　】、<ruby>結婚記念日<rt>けっこんきねんび</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>贈っ<rt>おくっ</rt></ruby>てくれる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夫<rt>おっと</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>ることなく、<ruby>結婚記念日<rt>けっこんきねんび</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>贈っ<rt>おくっ</rt></ruby>てくれる。"
   },
   {
     "id": 456,
@@ -9575,7 +10484,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことなく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>たちは、<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>について、<ruby>恥ずかし<rt>はずかし</rt></ruby>がる【　　】<ruby>発表<rt>はっぴょう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>たちは、<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>について、<ruby>恥ずかし<rt>はずかし</rt></ruby>がることなく<ruby>発表<rt>はっぴょう</rt></ruby>した。"
   },
   {
     "id": 457,
@@ -9596,7 +10507,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことなく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>作業<rt>さぎょう</rt></ruby>になりましたが、<ruby>一人<rt>ひとり</rt></ruby>もけがをする【　　】、<ruby>終え<rt>おえ</rt></ruby>ることができました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>作業<rt>さぎょう</rt></ruby>になりましたが、<ruby>一人<rt>ひとり</rt></ruby>もけがをすることなく、<ruby>終え<rt>おえ</rt></ruby>ることができました。"
   },
   {
     "id": 458,
@@ -9617,7 +10530,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>嬉しい<rt>うれしい</rt></ruby>【　　】、<ruby>明日<rt>あした</rt></ruby><ruby>退院<rt>たいいん</rt></ruby>できるんです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>嬉しい<rt>うれしい</rt></ruby>ことに、<ruby>明日<rt>あした</rt></ruby><ruby>退院<rt>たいいん</rt></ruby>できるんです。"
   },
   {
     "id": 459,
@@ -9638,7 +10553,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>残念<rt>ざんねん</rt></ruby>な【　　】、<ruby>努力<rt>どりょく</rt></ruby>して<ruby>頑張り<rt>がんばり</rt></ruby>ましたが、<ruby>失敗<rt>しっぱい</rt></ruby>しました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>残念<rt>ざんねん</rt></ruby>なことに、<ruby>努力<rt>どりょく</rt></ruby>して<ruby>頑張り<rt>がんばり</rt></ruby>ましたが、<ruby>失敗<rt>しっぱい</rt></ruby>しました。"
   },
   {
     "id": 460,
@@ -9659,7 +10576,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>幸い<rt>さいわい</rt></ruby>な【　　】、やっと<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>できました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>幸い<rt>さいわい</rt></ruby>なことに、やっと<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>できました。"
   },
   {
     "id": 461,
@@ -9680,7 +10599,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>不幸<rt>ふこう</rt></ruby>な【　　】<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>母<rt>はは</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったのです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>不幸<rt>ふこう</rt></ruby>なことに<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>母<rt>はは</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったのです。"
   },
   {
     "id": 462,
@@ -9701,7 +10622,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことに",
-    "notes": "月「4月」→「6月」; 割合「1割」→「2割」"
+    "notes": "月「4月」→「6月」; 割合「1割」→「2割」",
+    "question_ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby>【　　】6<ruby>月<rt>がつ</rt></ruby>から、<ruby>給料<rt>きゅうりょう</rt></ruby>が2<ruby>割り<rt>わり</rt></ruby>ほど<ruby>上が<rt>あが</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby>ことに6<ruby>月<rt>がつ</rt></ruby>から、<ruby>給料<rt>きゅうりょう</rt></ruby>が2<ruby>割り<rt>わり</rt></ruby>ほど<ruby>上が<rt>あが</rt></ruby>る。"
   },
   {
     "id": 463,
@@ -9722,7 +10645,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>残念<rt>ざんねん</rt></ruby>な【　　】、ポケットの<ruby>穴<rt>あな</rt></ruby>から<ruby>全部<rt>ぜんぶ</rt></ruby>のお<ruby>釣り<rt>つり</rt></ruby>を<ruby>落と<rt>おと</rt></ruby>してしまいました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>残念<rt>ざんねん</rt></ruby>なことに、ポケットの<ruby>穴<rt>あな</rt></ruby>から<ruby>全部<rt>ぜんぶ</rt></ruby>のお<ruby>釣り<rt>つり</rt></ruby>を<ruby>落と<rt>おと</rt></ruby>してしまいました。"
   },
   {
     "id": 464,
@@ -9743,7 +10668,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>悲しい<rt>かなしい</rt></ruby>【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>実現<rt>じつげん</rt></ruby>しませんでした。",
+    "sentence_jp_ruby": "<ruby>悲しい<rt>かなしい</rt></ruby>ことに、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>実現<rt>じつげん</rt></ruby>しませんでした。"
   },
   {
     "id": 465,
@@ -9764,7 +10691,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことにはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、でも、どうやらそんな【　　】ようです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、でも、どうやらそんなことにはならないようです。"
   },
   {
     "id": 466,
@@ -9785,7 +10714,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことにはならない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>絵<rt>え</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だからといって<ruby>絵<rt>え</rt></ruby>がうまいという【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>絵<rt>え</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だからといって<ruby>絵<rt>え</rt></ruby>がうまいということにはならない。"
   },
   {
     "id": 467,
@@ -9806,7 +10737,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことにはならない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>貧しい<rt>まずしい</rt></ruby>からといって<ruby>不幸<rt>ふこう</rt></ruby>だという【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>貧しい<rt>まずしい</rt></ruby>からといって<ruby>不幸<rt>ふこう</rt></ruby>だということにはならない。"
   },
   {
     "id": 468,
@@ -9827,7 +10760,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことにはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>事<rt>こと</rt></ruby>をしているからといって<ruby>自分<rt>じぶん</rt></ruby>もそうしてよいという【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>事<rt>こと</rt></ruby>をしているからといって<ruby>自分<rt>じぶん</rt></ruby>もそうしてよいということにはならない。"
   },
   {
     "id": 469,
@@ -9848,7 +10783,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことにはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>やインターネットの<ruby>資料<rt>しりょう</rt></ruby>を<ruby>写し<rt>うつし</rt></ruby>ただけではレポートを<ruby>書い<rt>かい</rt></ruby>た【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>やインターネットの<ruby>資料<rt>しりょう</rt></ruby>を<ruby>写し<rt>うつし</rt></ruby>ただけではレポートを<ruby>書い<rt>かい</rt></ruby>たことにはならない。"
   },
   {
     "id": 470,
@@ -9869,7 +10806,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことにはならない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>貧しい<rt>まずしい</rt></ruby>からと<ruby>言って<rt>いって</rt></ruby><ruby>不正直<rt>ふしょうじき</rt></ruby>だと<ruby>言う<rt>いう</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>貧しい<rt>まずしい</rt></ruby>からと<ruby>言って<rt>いって</rt></ruby><ruby>不正直<rt>ふしょうじき</rt></ruby>だと<ruby>言う<rt>いう</rt></ruby>ことにはならない。"
   },
   {
     "id": 471,
@@ -9890,7 +10829,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことにはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>汚い<rt>きたない</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないからといって、<ruby>使え<rt>つかえ</rt></ruby>ないという【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>汚い<rt>きたない</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないからといって、<ruby>使え<rt>つかえ</rt></ruby>ないということにはならない。"
   },
   {
     "id": 472,
@@ -9911,7 +10852,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことにはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ても<ruby>体脂肪<rt>たいしぼう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ているならダイエットに<ruby>成功<rt>せいこう</rt></ruby>した【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>ても<ruby>体脂肪<rt>たいしぼう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ているならダイエットに<ruby>成功<rt>せいこう</rt></ruby>したことにはならない。"
   },
   {
     "id": 473,
@@ -9932,7 +10875,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "くせして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>の【　　】、そんなことも<ruby>知ら<rt>しら</rt></ruby>ないの。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>のくせして、そんなことも<ruby>知ら<rt>しら</rt></ruby>ないの。"
   },
   {
     "id": 474,
@@ -9953,7 +10898,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "くせして",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>歌<rt>うた</rt></ruby>が<ruby>下手<rt>へた</rt></ruby>な【　　】、いつもカラオケに<ruby>行き<rt>いき</rt></ruby>たがる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>歌<rt>うた</rt></ruby>が<ruby>下手<rt>へた</rt></ruby>なくせして、いつもカラオケに<ruby>行き<rt>いき</rt></ruby>たがる。"
   },
   {
     "id": 475,
@@ -9974,7 +10921,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "くせして",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大き<rt>おおき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>の【　　】、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>がないんだね。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大き<rt>おおき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>のくせして、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>がないんだね。"
   },
   {
     "id": 476,
@@ -9995,7 +10944,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くせして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何も<rt>なにも</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ない【　　】、<ruby>知って<rt>しって</rt></ruby>いるようなことを<ruby>言う<rt>いう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何も<rt>なにも</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ないくせして、<ruby>知って<rt>しって</rt></ruby>いるようなことを<ruby>言う<rt>いう</rt></ruby>。"
   },
   {
     "id": 477,
@@ -10016,7 +10967,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くせして",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはおかしいだね。<ruby>好き<rt>すき</rt></ruby>な【　　】、<ruby>嫌い<rt>きらい</rt></ruby>だと<ruby>言って<rt>いって</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはおかしいだね。<ruby>好き<rt>すき</rt></ruby>なくせして、<ruby>嫌い<rt>きらい</rt></ruby>だと<ruby>言って<rt>いって</rt></ruby>いる。"
   },
   {
     "id": 478,
@@ -10037,7 +10990,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くせして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>の<ruby>悪い<rt>わるい</rt></ruby><ruby>口<rt>くち</rt></ruby>ばかりを<ruby>言う<rt>いう</rt></ruby>もんじゃないよ、<ruby>自分<rt>じぶん</rt></ruby>は<ruby>何も<rt>なにも</rt></ruby><ruby>出来な<rt>できな</rt></ruby>い【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>他人<rt>たにん</rt></ruby>の<ruby>悪い<rt>わるい</rt></ruby><ruby>口<rt>くち</rt></ruby>ばかりを<ruby>言う<rt>いう</rt></ruby>もんじゃないよ、<ruby>自分<rt>じぶん</rt></ruby>は<ruby>何も<rt>なにも</rt></ruby><ruby>出来な<rt>できな</rt></ruby>いくせして。"
   },
   {
     "id": 479,
@@ -10058,7 +11013,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くせして",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>の【　　】こんな<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>も<ruby>読め<rt>よめ</rt></ruby>ないなんて、あり<ruby>得な<rt>えな</rt></ruby>い。",
+    "sentence_jp_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>のくせしてこんな<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>も<ruby>読め<rt>よめ</rt></ruby>ないなんて、あり<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 480,
@@ -10079,7 +11036,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "くせして",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>俺<rt>おれ</rt></ruby>よりJLPTのレベルが<ruby>低い<rt>ひくい</rt></ruby>【　　】、なんで<ruby>俺<rt>おれ</rt></ruby>より<ruby>話す<rt>はなす</rt></ruby>のがうまいだろう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>俺<rt>おれ</rt></ruby>よりJLPTのレベルが<ruby>低い<rt>ひくい</rt></ruby>くせして、なんで<ruby>俺<rt>おれ</rt></ruby>より<ruby>話す<rt>はなす</rt></ruby>のがうまいだろう。"
   },
   {
     "id": 481,
@@ -10100,7 +11059,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>だけなら【　　】、<ruby>二度<rt>にど</rt></ruby>も<ruby>失敗<rt>しっぱい</rt></ruby>してしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>だけならまだしも、<ruby>二度<rt>にど</rt></ruby>も<ruby>失敗<rt>しっぱい</rt></ruby>してしまった。"
   },
   {
     "id": 482,
@@ -10121,7 +11082,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>、wordやexcelが<ruby>使え<rt>つかえ</rt></ruby>ないのは【　　】、メールもできないらしいよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>人<rt>にん</rt></ruby>、wordやexcelが<ruby>使え<rt>つかえ</rt></ruby>ないのはまだしも、メールもできないらしいよ。"
   },
   {
     "id": 483,
@@ -10142,7 +11105,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>英語力<rt>えいごりょく</rt></ruby>では、<ruby>旅行<rt>りょこう</rt></ruby>は【　　】、<ruby>留学<rt>りゅうがく</rt></ruby>なんて<ruby>無理<rt>むり</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>英語力<rt>えいごりょく</rt></ruby>では、<ruby>旅行<rt>りょこう</rt></ruby>はまだしも、<ruby>留学<rt>りゅうがく</rt></ruby>なんて<ruby>無理<rt>むり</rt></ruby>です。"
   },
   {
     "id": 484,
@@ -10163,7 +11128,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まだしも",
-    "notes": "数値「30分」→「40分」"
+    "notes": "数値「30分」→「40分」",
+    "question_ruby": "<ruby>数分<rt>すうふん</rt></ruby>なら【　　】、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待っ<rt>まっ</rt></ruby>てません。",
+    "sentence_jp_ruby": "<ruby>数分<rt>すうふん</rt></ruby>ならまだしも、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待っ<rt>まっ</rt></ruby>てません。"
   },
   {
     "id": 485,
@@ -10184,7 +11151,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、50<ruby>年前<rt>ねんまえ</rt></ruby>なら【　　】、<ruby>今そ<rt>いまそ</rt></ruby>んなことを<ruby>信じ<rt>しんじ</rt></ruby>てる<ruby>人<rt>にん</rt></ruby>はいません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、50<ruby>年前<rt>ねんまえ</rt></ruby>ならまだしも、<ruby>今そ<rt>いまそ</rt></ruby>んなことを<ruby>信じ<rt>しんじ</rt></ruby>てる<ruby>人<rt>にん</rt></ruby>はいません。"
   },
   {
     "id": 486,
@@ -10205,7 +11174,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>数日<rt>すうじつ</rt></ruby>なら【　　】、10<ruby>日間<rt>にちかん</rt></ruby>も<ruby>滞納<rt>たいのう</rt></ruby>しています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>数日<rt>すうじつ</rt></ruby>ならまだしも、10<ruby>日間<rt>にちかん</rt></ruby>も<ruby>滞納<rt>たいのう</rt></ruby>しています。"
   },
   {
     "id": 487,
@@ -10226,7 +11197,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まだしも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>文句<rt>もんく</rt></ruby>を<ruby>言う<rt>いう</rt></ruby>だけなら【　　】、<ruby>女性<rt>じょせい</rt></ruby>に<ruby>暴力<rt>ぼうりょく</rt></ruby>を<ruby>振る<rt>ふる</rt></ruby>うのは<ruby>絶対<rt>ぜったい</rt></ruby>にいけません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>文句<rt>もんく</rt></ruby>を<ruby>言う<rt>いう</rt></ruby>だけならまだしも、<ruby>女性<rt>じょせい</rt></ruby>に<ruby>暴力<rt>ぼうりょく</rt></ruby>を<ruby>振る<rt>ふる</rt></ruby>うのは<ruby>絶対<rt>ぜったい</rt></ruby>にいけません。"
   },
   {
     "id": 488,
@@ -10247,7 +11220,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まい",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんなところは<ruby>二度<rt>にど</rt></ruby>と<ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんなところは<ruby>二度<rt>にど</rt></ruby>と<ruby>行く<rt>いく</rt></ruby>まい。"
   },
   {
     "id": 489,
@@ -10268,7 +11243,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まい",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはそう<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>態度<rt>たいど</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはそう<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>態度<rt>たいど</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>るまい。"
   },
   {
     "id": 490,
@@ -10289,7 +11266,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まい",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すべてが<ruby>終わ<rt>おわ</rt></ruby>った。あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>二度<rt>にど</rt></ruby>と<ruby>会う<rt>あう</rt></ruby>ことはある【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すべてが<ruby>終わ<rt>おわ</rt></ruby>った。あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>二度<rt>にど</rt></ruby>と<ruby>会う<rt>あう</rt></ruby>ことはあるまい。"
   },
   {
     "id": 491,
@@ -10310,7 +11289,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まい",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信用<rt>しんよう</rt></ruby>していた<ruby>親友<rt>しんゆう</rt></ruby>が<ruby>僕<rt>ぼく</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>をもらした。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>許す<rt>ゆるす</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>信用<rt>しんよう</rt></ruby>していた<ruby>親友<rt>しんゆう</rt></ruby>が<ruby>僕<rt>ぼく</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>をもらした。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>許す<rt>ゆるす</rt></ruby>まい。"
   },
   {
     "id": 492,
@@ -10331,7 +11312,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まい",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "その<ruby>時高<rt>ときたか</rt></ruby><ruby>橋<rt>はし</rt></ruby>さんがどれほど<ruby>苦しか<rt>くるしか</rt></ruby>ったかは、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>分る<rt>わかる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>時高<rt>ときたか</rt></ruby><ruby>橋<rt>はし</rt></ruby>さんがどれほど<ruby>苦しか<rt>くるしか</rt></ruby>ったかは、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>分る<rt>わかる</rt></ruby>まい。"
   },
   {
     "id": 493,
@@ -10352,7 +11335,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まい",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目で<rt>めで</rt></ruby><ruby>確か<rt>たしか</rt></ruby>めない<ruby>限り<rt>かぎり</rt></ruby>、そんな<ruby>恐ろしい<rt>おそろしい</rt></ruby>ことは<ruby>誰も<rt>だれも</rt></ruby><ruby>信じ<rt>しんじ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目で<rt>めで</rt></ruby><ruby>確か<rt>たしか</rt></ruby>めない<ruby>限り<rt>かぎり</rt></ruby>、そんな<ruby>恐ろしい<rt>おそろしい</rt></ruby>ことは<ruby>誰も<rt>だれも</rt></ruby><ruby>信じ<rt>しんじ</rt></ruby>まい。"
   },
   {
     "id": 494,
@@ -10373,7 +11358,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まい",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "もう<ruby>二度<rt>にど</rt></ruby>とお<ruby>酒<rt>さけ</rt></ruby>は<ruby>飲む<rt>のむ</rt></ruby>【　　】と<ruby>思った<rt>おもった</rt></ruby>んですが、あの<ruby>日<rt>にち</rt></ruby>はちょっと<ruby>飲ん<rt>のん</rt></ruby>でしまったんです。",
+    "sentence_jp_ruby": "もう<ruby>二度<rt>にど</rt></ruby>とお<ruby>酒<rt>さけ</rt></ruby>は<ruby>飲む<rt>のむ</rt></ruby>まいと<ruby>思った<rt>おもった</rt></ruby>んですが、あの<ruby>日<rt>にち</rt></ruby>はちょっと<ruby>飲ん<rt>のん</rt></ruby>でしまったんです。"
   },
   {
     "id": 495,
@@ -10394,7 +11381,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>の【　　】しておこう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>のままにしておこう。"
   },
   {
     "id": 496,
@@ -10415,7 +11404,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>思う<rt>おもう</rt></ruby>【　　】どうぞ<ruby>意見<rt>いけん</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>思う<rt>おもう</rt></ruby>ままにどうぞ<ruby>意見<rt>いけん</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>ください。"
   },
   {
     "id": 497,
@@ -10436,7 +11427,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>命令<rt>めいれい</rt></ruby>される【　　】<ruby>行動<rt>こうどう</rt></ruby>していただけだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>命令<rt>めいれい</rt></ruby>されるままに<ruby>行動<rt>こうどう</rt></ruby>していただけだ。"
   },
   {
     "id": 498,
@@ -10457,7 +11450,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>感想<rt>かんそう</rt></ruby>を<ruby>思う<rt>おもう</rt></ruby>【　　】アンケートに<ruby>書い<rt>かい</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>感想<rt>かんそう</rt></ruby>を<ruby>思う<rt>おもう</rt></ruby>ままにアンケートに<ruby>書い<rt>かい</rt></ruby>てください。"
   },
   {
     "id": 499,
@@ -10478,7 +11473,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一日<rt>ついたち</rt></ruby><ruby>一日<rt>ついたち</rt></ruby>を、<ruby>思う<rt>おもう</rt></ruby>が【　　】<ruby>生き<rt>いき</rt></ruby>たい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一日<rt>ついたち</rt></ruby><ruby>一日<rt>ついたち</rt></ruby>を、<ruby>思う<rt>おもう</rt></ruby>がままに<ruby>生き<rt>いき</rt></ruby>たい。"
   },
   {
     "id": 500,
@@ -10499,7 +11496,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、セールスマンに<ruby>言わ<rt>いわ</rt></ruby>れる【　　】、<ruby>契約書<rt>けいやくしょ</rt></ruby>にサインをしてしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、セールスマンに<ruby>言わ<rt>いわ</rt></ruby>れるまま、<ruby>契約書<rt>けいやくしょ</rt></ruby>にサインをしてしまった。"
   },
   {
     "id": 501,
@@ -10520,7 +11519,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られる【　　】<ruby>靴<rt>くつ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>特に<rt>とくに</rt></ruby><ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られるままに<ruby>靴<rt>くつ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てしまった。"
   },
   {
     "id": 502,
@@ -10541,7 +11542,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ままに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あるが【　　】<ruby>物事<rt>ものごと</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ようにしなさい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あるがままに<ruby>物事<rt>ものごと</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ようにしなさい。"
   },
   {
     "id": 503,
@@ -10562,7 +11565,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "全く",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>全く<rt>まったく</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない。"
   },
   {
     "id": 504,
@@ -10583,7 +11588,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "全く",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>【　　】<ruby>風<rt>かぜ</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>全く<rt>まったく</rt></ruby><ruby>風<rt>かぜ</rt></ruby>がない。"
   },
   {
     "id": 505,
@@ -10604,7 +11611,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まったく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことが【　　】<ruby>理解<rt>りかい</rt></ruby>できない。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことがまったく<ruby>理解<rt>りかい</rt></ruby>できない。"
   },
   {
     "id": 506,
@@ -10625,7 +11634,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まったく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>怒っ<rt>いかっ</rt></ruby>ている<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>には【　　】わからない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>怒っ<rt>いかっ</rt></ruby>ている<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>にはまったくわからない。"
   },
   {
     "id": 507,
@@ -10646,7 +11657,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まったく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "もしかしたら<ruby>鈴木<rt>すずき</rt></ruby>さんとは【　　】<ruby>関係<rt>かんけい</rt></ruby>がないかもしれない。",
+    "sentence_jp_ruby": "もしかしたら<ruby>鈴木<rt>すずき</rt></ruby>さんとはまったく<ruby>関係<rt>かんけい</rt></ruby>がないかもしれない。"
   },
   {
     "id": 508,
@@ -10667,7 +11680,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まったく",
-    "notes": "スポーツ「野球」→「サッカー」"
+    "notes": "スポーツ「野球」→「サッカー」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>彼氏<rt>かれし</rt></ruby>は、サッカーには【　　】<ruby>興味<rt>きょうみ</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>彼氏<rt>かれし</rt></ruby>は、サッカーにはまったく<ruby>興味<rt>きょうみ</rt></ruby>がない。"
   },
   {
     "id": 509,
@@ -10688,7 +11703,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まったく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>強い<rt>つよい</rt></ruby>です。どれだけ<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でも、【　　】<ruby>酔い<rt>よい</rt></ruby>がまわらなかった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>強い<rt>つよい</rt></ruby>です。どれだけ<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でも、まったく<ruby>酔い<rt>よい</rt></ruby>がまわらなかった。"
   },
   {
     "id": 510,
@@ -10709,7 +11726,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まったく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>で、<ruby>将来<rt>しょうらい</rt></ruby>のことは【　　】<ruby>考え<rt>かんがえ</rt></ruby>られない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>で、<ruby>将来<rt>しょうらい</rt></ruby>のことはまったく<ruby>考え<rt>かんがえ</rt></ruby>られない。"
   },
   {
     "id": 511,
@@ -10730,7 +11749,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "全く",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>初級<rt>しょきゅう</rt></ruby>クラスだが、【　　】の<ruby>初心者<rt>しょしんしゃ</rt></ruby>ではない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>初級<rt>しょきゅう</rt></ruby>クラスだが、<ruby>全く<rt>まったく</rt></ruby>の<ruby>初心者<rt>しょしんしゃ</rt></ruby>ではない。"
   },
   {
     "id": 512,
@@ -10751,7 +11772,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もかまわず",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>服<rt>ふく</rt></ruby>が<ruby>汚れ<rt>よごれ</rt></ruby>るの【　　】、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>犬<rt>いぬ</rt></ruby>と<ruby>遊んで<rt>あそんで</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>服<rt>ふく</rt></ruby>が<ruby>汚れ<rt>よごれ</rt></ruby>るのもかまわず、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>犬<rt>いぬ</rt></ruby>と<ruby>遊んで<rt>あそんで</rt></ruby>いる。"
   },
   {
     "id": 513,
@@ -10772,7 +11795,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もかまわず",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "あの<ruby>男<rt>おとこ</rt></ruby>は<ruby>人目<rt>ひとめ</rt></ruby>【　　】、<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いる。",
+    "sentence_jp_ruby": "あの<ruby>男<rt>おとこ</rt></ruby>は<ruby>人目<rt>ひとめ</rt></ruby>もかまわず、<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いる。"
   },
   {
     "id": 514,
@@ -10793,7 +11818,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もかまわず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>は、みんなが<ruby>見て<rt>みて</rt></ruby>いるの【　　】、キスをした。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>は、みんなが<ruby>見て<rt>みて</rt></ruby>いるのもかまわず、キスをした。"
   },
   {
     "id": 515,
@@ -10814,7 +11841,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もかまわず",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>値段<rt>ねだん</rt></ruby>【　　】、<ruby>好き<rt>すき</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>をどんどん<ruby>注文<rt>ちゅうもん</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>値段<rt>ねだん</rt></ruby>もかまわず、<ruby>好き<rt>すき</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>をどんどん<ruby>注文<rt>ちゅうもん</rt></ruby>した。"
   },
   {
     "id": 516,
@@ -10835,7 +11864,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もかまわず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>であるの【　　】、あの<ruby>女性<rt>じょせい</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>であるのもかまわず、あの<ruby>女性<rt>じょせい</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で<ruby>大き<rt>おおき</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>ている。"
   },
   {
     "id": 517,
@@ -10856,7 +11887,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もかまわず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>迷惑<rt>めいわく</rt></ruby>【　　】<ruby>毎晩<rt>まいばん</rt></ruby><ruby>遅く<rt>おそく</rt></ruby>まで<ruby>騒い<rt>さわい</rt></ruby>でいる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>迷惑<rt>めいわく</rt></ruby>もかまわず<ruby>毎晩<rt>まいばん</rt></ruby><ruby>遅く<rt>おそく</rt></ruby>まで<ruby>騒い<rt>さわい</rt></ruby>でいる。"
   },
   {
     "id": 518,
@@ -10877,7 +11910,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もかまわず",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>人目<rt>ひとめ</rt></ruby>【　　】<ruby>化粧<rt>けしょう</rt></ruby>をしている<ruby>若い<rt>わかい</rt></ruby><ruby>女性<rt>じょせい</rt></ruby>をよく<ruby>見かけ<rt>みかけ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>人目<rt>ひとめ</rt></ruby>もかまわず<ruby>化粧<rt>けしょう</rt></ruby>をしている<ruby>若い<rt>わかい</rt></ruby><ruby>女性<rt>じょせい</rt></ruby>をよく<ruby>見かけ<rt>みかけ</rt></ruby>る。"
   },
   {
     "id": 519,
@@ -10898,7 +11933,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もかまわず",
-    "notes": "人名「ナナさん」→「加藤さん」"
+    "notes": "人名「ナナさん」→「加藤さん」",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていたが、<ruby>加藤<rt>かとう</rt></ruby>さんは<ruby>濡れ<rt>ぬれ</rt></ruby>るの【　　】<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>帰っ<rt>かえっ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていたが、<ruby>加藤<rt>かとう</rt></ruby>さんは<ruby>濡れ<rt>ぬれ</rt></ruby>るのもかまわず<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>帰っ<rt>かえっ</rt></ruby>てしまった。"
   },
   {
     "id": 520,
@@ -10919,7 +11956,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "も当然だ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>にん</rt></ruby>だから、みんなが<ruby>好き<rt>すき</rt></ruby>になるの【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>にん</rt></ruby>だから、みんなが<ruby>好き<rt>すき</rt></ruby>になるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 521,
@@ -10940,7 +11979,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "も当然だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>相手<rt>あいて</rt></ruby>のチームが<ruby>弱い<rt>よわい</rt></ruby>だから、<ruby>試合<rt>しあい</rt></ruby>を<ruby>勝つ<rt>かつ</rt></ruby>の【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>相手<rt>あいて</rt></ruby>のチームが<ruby>弱い<rt>よわい</rt></ruby>だから、<ruby>試合<rt>しあい</rt></ruby>を<ruby>勝つ<rt>かつ</rt></ruby>のも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 522,
@@ -10961,7 +12002,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "も当然だ",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのパソコンの<ruby>機能<rt>きのう</rt></ruby>がよいから<ruby>高い<rt>たかい</rt></ruby><ruby>値段<rt>ねだん</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れるの【　　】。",
+    "sentence_jp_ruby": "そのパソコンの<ruby>機能<rt>きのう</rt></ruby>がよいから<ruby>高い<rt>たかい</rt></ruby><ruby>値段<rt>ねだん</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 523,
@@ -10982,7 +12025,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "も当然だ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>あんなひどいことを<ruby>言った<rt>いった</rt></ruby>から、<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>怒る<rt>いかる</rt></ruby>の【　　】。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby>あんなひどいことを<ruby>言った<rt>いった</rt></ruby>から、<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>怒る<rt>いかる</rt></ruby>のも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 524,
@@ -11003,7 +12048,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "も当然だ",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 主語「彼」→「鈴木さん」"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>息子<rt>むすこ</rt></ruby>は<ruby>全国大会<rt>ぜんこくたいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>したから、<ruby>自慢<rt>じまん</rt></ruby>するの【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>息子<rt>むすこ</rt></ruby>は<ruby>全国大会<rt>ぜんこくたいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>したから、<ruby>自慢<rt>じまん</rt></ruby>するのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 525,
@@ -11024,7 +12071,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "も当然だ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが、お<ruby>父さん<rt>とうさん</rt></ruby>のことを<ruby>誇り<rt>ほこり</rt></ruby>にしているの【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが、お<ruby>父さん<rt>とうさん</rt></ruby>のことを<ruby>誇り<rt>ほこり</rt></ruby>にしているのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 526,
@@ -11045,7 +12094,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "も当然だ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>試験<rt>しけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>て【　　】。ちっとも<ruby>勉強<rt>べんきょう</rt></ruby>しないんだから。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>試験<rt>しけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>ても<ruby>当然<rt>とうぜん</rt></ruby>だ。ちっとも<ruby>勉強<rt>べんきょう</rt></ruby>しないんだから。"
   },
   {
     "id": 527,
@@ -11066,7 +12117,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "も当然だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をなくしたから、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れるの【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をなくしたから、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 528,
@@ -11087,7 +12140,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "も当然だ",
-    "notes": "期間「1週間」→「2週間」"
+    "notes": "期間「1週間」→「2週間」",
+    "question_ruby": "2<ruby>週間<rt>しゅうかん</rt></ruby>も<ruby>水<rt>みず</rt></ruby>をあげなかったから、<ruby>花<rt>はな</rt></ruby>が<ruby>枯れ<rt>かれ</rt></ruby>てしまうの【　　】。",
+    "sentence_jp_ruby": "2<ruby>週間<rt>しゅうかん</rt></ruby>も<ruby>水<rt>みず</rt></ruby>をあげなかったから、<ruby>花<rt>はな</rt></ruby>が<ruby>枯れ<rt>かれ</rt></ruby>てしまうのも<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 529,
@@ -11108,7 +12163,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきたんです。<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきたんです。<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。"
   },
   {
     "id": 530,
@@ -11129,7 +12186,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もんね",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「またN2<ruby>不合格<rt>ふごうかく</rt></ruby>だった...」 じつは、「しょうがないよ、<ruby>難しい<rt>むずかしい</rt></ruby>【　　】。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「またN2<ruby>不合格<rt>ふごうかく</rt></ruby>だった...」 じつは、「しょうがないよ、<ruby>難しい<rt>むずかしい</rt></ruby>もんね。」"
   },
   {
     "id": 531,
@@ -11150,7 +12209,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んだもん",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どうして<ruby>食べ<rt>たべ</rt></ruby>ないの?」 じつは、「だって、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>美味しく<rt>おいしく</rt></ruby>ない【　　】。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どうして<ruby>食べ<rt>たべ</rt></ruby>ないの?」 じつは、「だって、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>美味しく<rt>おいしく</rt></ruby>ないんだもん。」"
   },
   {
     "id": 532,
@@ -11171,7 +12232,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby>んです【　　】、<ruby>買え<rt>かえ</rt></ruby>ません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby>んですもの、<ruby>買え<rt>かえ</rt></ruby>ません。"
   },
   {
     "id": 533,
@@ -11192,7 +12255,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んだもん",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はダメだった。<ruby>勉強<rt>べんきょう</rt></ruby>しなかった【　　】、<ruby>仕方<rt>しかた</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はダメだった。<ruby>勉強<rt>べんきょう</rt></ruby>しなかったんだもん、<ruby>仕方<rt>しかた</rt></ruby>がない。"
   },
   {
     "id": 534,
@@ -11213,7 +12278,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もの",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>何も<rt>なにも</rt></ruby><ruby>話す<rt>はなす</rt></ruby>ことなんかありませんよ。だって<ruby>何も<rt>なにも</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ないんです【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>何も<rt>なにも</rt></ruby><ruby>話す<rt>はなす</rt></ruby>ことなんかありませんよ。だって<ruby>何も<rt>なにも</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ないんですもの。"
   },
   {
     "id": 535,
@@ -11234,7 +12301,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな【　　】にでも<ruby>文句<rt>もんく</rt></ruby>をつける<ruby>人<rt>にん</rt></ruby>はいるものよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなものにでも<ruby>文句<rt>もんく</rt></ruby>をつける<ruby>人<rt>にん</rt></ruby>はいるものよ。"
   },
   {
     "id": 536,
@@ -11255,7 +12324,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どうして<ruby>送別会<rt>そうべつかい</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>かったの。」 じつは、「だって<ruby>知ら<rt>しら</rt></ruby>なかったんだ【　　】。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どうして<ruby>送別会<rt>そうべつかい</rt></ruby>に<ruby>来な<rt>こな</rt></ruby>かったの。」 じつは、「だって<ruby>知ら<rt>しら</rt></ruby>なかったんだもの。」"
   },
   {
     "id": 537,
@@ -11276,7 +12347,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>くん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>くん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだもの。"
   },
   {
     "id": 538,
@@ -11297,7 +12370,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>間違い<rt>まちがい</rt></ruby>をする【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>間違い<rt>まちがい</rt></ruby>をするものだ。"
   },
   {
     "id": 539,
@@ -11318,7 +12393,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>見かけ<rt>みかけ</rt></ruby>では<ruby>分か<rt>わか</rt></ruby>らない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>見かけ<rt>みかけ</rt></ruby>では<ruby>分か<rt>わか</rt></ruby>らないものだ。"
   },
   {
     "id": 540,
@@ -11339,7 +12416,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>失敗<rt>しっぱい</rt></ruby>する【　　】です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>失敗<rt>しっぱい</rt></ruby>するものです。"
   },
   {
     "id": 541,
@@ -11360,7 +12439,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさん<ruby>運動<rt>うんどう</rt></ruby>したら<ruby>疲れ<rt>つかれ</rt></ruby>る【　　】です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさん<ruby>運動<rt>うんどう</rt></ruby>したら<ruby>疲れ<rt>つかれ</rt></ruby>るものです。"
   },
   {
     "id": 542,
@@ -11381,7 +12462,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もんだよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>寝る<rt>ねる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>寝る<rt>ねる</rt></ruby>もんだよ。"
   },
   {
     "id": 543,
@@ -11402,7 +12485,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>は<ruby>言う<rt>いう</rt></ruby>【　　】じゃない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>は<ruby>言う<rt>いう</rt></ruby>ものじゃない。"
   },
   {
     "id": 544,
@@ -11423,7 +12508,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>年寄り<rt>としより</rt></ruby>には<ruby>優し<rt>やさし</rt></ruby>くする【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>年寄り<rt>としより</rt></ruby>には<ruby>優し<rt>やさし</rt></ruby>くするものだ。"
   },
   {
     "id": 545,
@@ -11444,7 +12531,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もんじゃないよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>信じ<rt>しんじ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>信じ<rt>しんじ</rt></ruby>るもんじゃないよ。"
   },
   {
     "id": 546,
@@ -11465,7 +12554,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>目覚ま<rt>めざま</rt></ruby>し<ruby>時計<rt>とけい</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>た【　　】、<ruby>遅刻<rt>ちこく</rt></ruby>してしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>目覚ま<rt>めざま</rt></ruby>し<ruby>時計<rt>とけい</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たものだから、<ruby>遅刻<rt>ちこく</rt></ruby>してしまった。"
   },
   {
     "id": 547,
@@ -11486,7 +12577,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引い<rt>ひい</rt></ruby>てしまった【　　】ですから、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>欠席<rt>けっせき</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引い<rt>ひい</rt></ruby>てしまったものですから、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>欠席<rt>けっせき</rt></ruby>です。"
   },
   {
     "id": 548,
@@ -11507,7 +12600,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>着た<rt>きた</rt></ruby>ままですみません。<ruby>寒い<rt>さむい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>着た<rt>きた</rt></ruby>ままですみません。<ruby>寒い<rt>さむい</rt></ruby>ものだから。"
   },
   {
     "id": 549,
@@ -11528,7 +12623,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません。お<ruby>酒<rt>さけ</rt></ruby>は<ruby>苦手<rt>にがて</rt></ruby>な【　　】ですから。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、すみません。お<ruby>酒<rt>さけ</rt></ruby>は<ruby>苦手<rt>にがて</rt></ruby>なものですから。"
   },
   {
     "id": 550,
@@ -11549,7 +12646,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人っ子<rt>ひとりっこ</rt></ruby>な【　　】わがままに<ruby>育て<rt>そだて</rt></ruby>てしまいました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一人っ子<rt>ひとりっこ</rt></ruby>なものだからわがままに<ruby>育て<rt>そだて</rt></ruby>てしまいました。"
   },
   {
     "id": 551,
@@ -11570,7 +12669,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅く<rt>おそく</rt></ruby>なってごめんなさい。<ruby>道路<rt>どうろ</rt></ruby>が<ruby>混ん<rt>こん</rt></ruby>でいた【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅く<rt>おそく</rt></ruby>なってごめんなさい。<ruby>道路<rt>どうろ</rt></ruby>が<ruby>混ん<rt>こん</rt></ruby>でいたものだから。"
   },
   {
     "id": 552,
@@ -11591,7 +12692,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものだから",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>脱い<rt>ぬい</rt></ruby>でもいいですか?<ruby>熱い<rt>あつい</rt></ruby>【　　】ですから。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>脱い<rt>ぬい</rt></ruby>でもいいですか?<ruby>熱い<rt>あつい</rt></ruby>ものですから。"
   },
   {
     "id": 553,
@@ -11612,7 +12715,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものだから",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>変わり<rt>かわり</rt></ruby>にこれをしていただけませんか。<ruby>私<rt>わたし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>に<ruby>忙しい<rt>いそがしい</rt></ruby>【　　】ですから。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>変わり<rt>かわり</rt></ruby>にこれをしていただけませんか。<ruby>私<rt>わたし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>に<ruby>忙しい<rt>いそがしい</rt></ruby>ものですから。"
   },
   {
     "id": 554,
@@ -11633,7 +12738,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>るかわかった【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>るかわかったものではない。"
   },
   {
     "id": 555,
@@ -11654,7 +12761,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にそんな<ruby>言い方<rt>いいかた</rt></ruby>をする【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にそんな<ruby>言い方<rt>いいかた</rt></ruby>をするものではない。"
   },
   {
     "id": 556,
@@ -11675,7 +12784,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>口<rt>くち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>物<rt>もの</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>たまましゃべる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>口<rt>くち</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>物<rt>もの</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>たまましゃべるものではない。"
   },
   {
     "id": 557,
@@ -11696,7 +12807,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>小さい<rt>ちーさい</rt></ruby><ruby>子<rt>こ</rt></ruby>を<ruby>一人<rt>ひとり</rt></ruby>で<ruby>遠く<rt>とおく</rt></ruby>に<ruby>遊び<rt>あそび</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>せる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>小さい<rt>ちーさい</rt></ruby><ruby>子<rt>こ</rt></ruby>を<ruby>一人<rt>ひとり</rt></ruby>で<ruby>遠く<rt>とおく</rt></ruby>に<ruby>遊び<rt>あそび</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>せるものではない。"
   },
   {
     "id": 558,
@@ -11717,7 +12830,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>料理<rt>りょうり</rt></ruby>、お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>出せ<rt>だせ</rt></ruby>た【　　】よ。もっと<ruby>練習<rt>れんしゅう</rt></ruby>しなさい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>料理<rt>りょうり</rt></ruby>、お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>出せ<rt>だせ</rt></ruby>たものではないよ。もっと<ruby>練習<rt>れんしゅう</rt></ruby>しなさい。"
   },
   {
     "id": 559,
@@ -11738,7 +12853,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>借り<rt>かり</rt></ruby>た<ruby>本<rt>ほん</rt></ruby>に<ruby>書き込む<rt>かきこむ</rt></ruby>をする【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>借り<rt>かり</rt></ruby>た<ruby>本<rt>ほん</rt></ruby>に<ruby>書き込む<rt>かきこむ</rt></ruby>をするものではない。"
   },
   {
     "id": 560,
@@ -11759,7 +12876,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無駄遣い<rt>むだづかい</rt></ruby>をする【　　】。お<ruby>金<rt>きん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>無駄遣い<rt>むだづかい</rt></ruby>をするものではない。お<ruby>金<rt>きん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。"
   },
   {
     "id": 561,
@@ -11780,7 +12899,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>難しい<rt>むずかしい</rt></ruby><ruby>宿題<rt>しゅくだい</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>はできた【　　】よ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>難しい<rt>むずかしい</rt></ruby><ruby>宿題<rt>しゅくだい</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>はできたものではないよ。"
   },
   {
     "id": 562,
@@ -11801,7 +12922,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外<rt>そと</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていて、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていないので、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰ら<rt>かえら</rt></ruby>れた【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外<rt>そと</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていて、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていないので、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰ら<rt>かえら</rt></ruby>れたものではない。"
   },
   {
     "id": 563,
@@ -11822,7 +12945,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものがある",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>話<rt>はなし</rt></ruby>にはどこか<ruby>納得<rt>なっとく</rt></ruby>できない【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>話<rt>はなし</rt></ruby>にはどこか<ruby>納得<rt>なっとく</rt></ruby>できないものがある。"
   },
   {
     "id": 564,
@@ -11843,7 +12968,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>社<rt>しゃ</rt></ruby>⻑の<ruby>言葉<rt>ことば</rt></ruby>には、こころに<ruby>響く<rt>ひびく</rt></ruby>【　　】。その<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>成<rt>せい</rt></ruby>⻑させるために、もっと<ruby>頑張り<rt>がんばり</rt></ruby>たい。",
+    "sentence_jp_ruby": "<ruby>社<rt>しゃ</rt></ruby>⻑の<ruby>言葉<rt>ことば</rt></ruby>には、こころに<ruby>響く<rt>ひびく</rt></ruby>ものがある。その<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>成<rt>せい</rt></ruby>⻑させるために、もっと<ruby>頑張り<rt>がんばり</rt></ruby>たい。"
   },
   {
     "id": 565,
@@ -11864,7 +12991,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものがある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>確かに<rt>たしかに</rt></ruby>、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>と<ruby>司会<rt>しかい</rt></ruby>をやるのは<ruby>厳しい<rt>いかめしい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>確かに<rt>たしかに</rt></ruby>、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>と<ruby>司会<rt>しかい</rt></ruby>をやるのは<ruby>厳しい<rt>いかめしい</rt></ruby>ものがある。"
   },
   {
     "id": 566,
@@ -11885,7 +13014,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものがある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>古い<rt>ふるい</rt></ruby>パソコンで<ruby>仕事<rt>しごと</rt></ruby>をするのは、かなりきつい【　　】。<ruby>新しい<rt>あたらしい</rt></ruby>パソコンにしてもらいたい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>古い<rt>ふるい</rt></ruby>パソコンで<ruby>仕事<rt>しごと</rt></ruby>をするのは、かなりきついものがある。<ruby>新しい<rt>あたらしい</rt></ruby>パソコンにしてもらいたい。"
   },
   {
     "id": 567,
@@ -11906,7 +13037,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものがある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>悪い<rt>わるい</rt></ruby>ことが<ruby>続く<rt>つづく</rt></ruby>と、<ruby>何か<rt>なにか</rt></ruby>こわい【　　】。<ruby>今年<rt>こんねん</rt></ruby>は<ruby>運<rt>うん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>のかも。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>悪い<rt>わるい</rt></ruby>ことが<ruby>続く<rt>つづく</rt></ruby>と、<ruby>何か<rt>なにか</rt></ruby>こわいものがある。<ruby>今年<rt>こんねん</rt></ruby>は<ruby>運<rt>うん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>のかも。"
   },
   {
     "id": 568,
@@ -11927,7 +13060,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものがある",
-    "notes": "年齢「20歳」→「25歳」"
+    "notes": "年齢「20歳」→「25歳」",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が、<ruby>今年<rt>こんねん</rt></ruby>もう25<ruby>歳<rt>とし</rt></ruby>になるのか。<ruby>感慨<rt>かんがい</rt></ruby><ruby>深い<rt>ふかい</rt></ruby>【　　】な。",
+    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が、<ruby>今年<rt>こんねん</rt></ruby>もう25<ruby>歳<rt>とし</rt></ruby>になるのか。<ruby>感慨<rt>かんがい</rt></ruby><ruby>深い<rt>ふかい</rt></ruby>ものがあるな。"
   },
   {
     "id": 569,
@@ -11948,7 +13083,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "いつも<ruby>来て<rt>きて</rt></ruby>いたその<ruby>店<rt>みせ</rt></ruby>がなくなると<ruby>思う<rt>おもう</rt></ruby>と、さびしい【　　】。",
+    "sentence_jp_ruby": "いつも<ruby>来て<rt>きて</rt></ruby>いたその<ruby>店<rt>みせ</rt></ruby>がなくなると<ruby>思う<rt>おもう</rt></ruby>と、さびしいものがある。"
   },
   {
     "id": 570,
@@ -11969,7 +13106,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものがある",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なのに、<ruby>満員<rt>まんいん</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗ら<rt>のら</rt></ruby>なければいけないとは、なかなかつらい【　　】。",
+    "sentence_jp_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なのに、<ruby>満員<rt>まんいん</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗ら<rt>のら</rt></ruby>なければいけないとは、なかなかつらいものがある。"
   },
   {
     "id": 571,
@@ -11990,7 +13129,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんな<ruby>所<rt>ところ</rt></ruby>へ<ruby>誰が<rt>だれが</rt></ruby><ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんな<ruby>所<rt>ところ</rt></ruby>へ<ruby>誰が<rt>だれが</rt></ruby><ruby>行く<rt>いく</rt></ruby>ものか。"
   },
   {
     "id": 572,
@@ -12011,7 +13152,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>事<rt>こと</rt></ruby><ruby>知る<rt>しる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>事<rt>こと</rt></ruby><ruby>知る<rt>しる</rt></ruby>ものか。"
   },
   {
     "id": 573,
@@ -12032,7 +13175,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものか",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>気持ち<rt>きもち</rt></ruby>があなたに<ruby>分か<rt>わか</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>気持ち<rt>きもち</rt></ruby>があなたに<ruby>分か<rt>わか</rt></ruby>るものか。"
   },
   {
     "id": 574,
@@ -12053,7 +13198,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までに<ruby>終わ<rt>おわ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までに<ruby>終わ<rt>おわ</rt></ruby>るものか。"
   },
   {
     "id": 575,
@@ -12074,7 +13221,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>は<ruby>悪い<rt>わるい</rt></ruby>し、<ruby>料理<rt>りょうり</rt></ruby>は<ruby>美味しく<rt>おいしく</rt></ruby>ないし、こんな<ruby>店<rt>みせ</rt></ruby><ruby>二度<rt>にど</rt></ruby>と<ruby>来る<rt>くる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>は<ruby>悪い<rt>わるい</rt></ruby>し、<ruby>料理<rt>りょうり</rt></ruby>は<ruby>美味しく<rt>おいしく</rt></ruby>ないし、こんな<ruby>店<rt>みせ</rt></ruby><ruby>二度<rt>にど</rt></ruby>と<ruby>来る<rt>くる</rt></ruby>ものか。"
   },
   {
     "id": 576,
@@ -12095,7 +13244,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もんか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>がどうしてわかる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>がどうしてわかるもんか。"
   },
   {
     "id": 577,
@@ -12116,7 +13267,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものか",
-    "notes": "数値「1時間」→「2時間」"
+    "notes": "数値「1時間」→「2時間」",
+    "question_ruby": "<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>遊園地<rt>ゆうえんち</rt></ruby>は<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>し、アトラクションには2<ruby>時間待<rt>じかんまち</rt></ruby>たなければならないこともあるし、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>遊園地<rt>ゆうえんち</rt></ruby>は<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>し、アトラクションには2<ruby>時間待<rt>じかんまち</rt></ruby>たなければならないこともあるし、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ものか。"
   },
   {
     "id": 578,
@@ -12137,7 +13290,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もんなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やれる【　　】、やってみろ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やれるもんなら、やってみろ。"
   },
   {
     "id": 579,
@@ -12158,7 +13313,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>止めら<rt>やめら</rt></ruby>れる【　　】<ruby>止め<rt>とめ</rt></ruby>てみるがよい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>止めら<rt>やめら</rt></ruby>れるものなら<ruby>止め<rt>とめ</rt></ruby>てみるがよい。"
   },
   {
     "id": 580,
@@ -12179,7 +13336,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やり<ruby>直せ<rt>なおせ</rt></ruby>る【　　】やり<ruby>直し<rt>なおし</rt></ruby>たい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やり<ruby>直せ<rt>なおせ</rt></ruby>るものならやり<ruby>直し<rt>なおし</rt></ruby>たい。"
   },
   {
     "id": 581,
@@ -12200,7 +13359,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>忘れ<rt>わすれ</rt></ruby>られる【　　】、<ruby>忘れ<rt>わすれ</rt></ruby>たいよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>忘れ<rt>わすれ</rt></ruby>られるものなら、<ruby>忘れ<rt>わすれ</rt></ruby>たいよ。"
   },
   {
     "id": 582,
@@ -12221,7 +13382,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものなら",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらがやれる【　　】やらせてみろ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらがやれるものならやらせてみろ。"
   },
   {
     "id": 583,
@@ -12242,7 +13405,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>れる【　　】、<ruby>鳥<rt>とり</rt></ruby>になりたい。だって、<ruby>空<rt>そら</rt></ruby>を<ruby>飛び<rt>とび</rt></ruby>たいんだもん。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>生まれ<rt>うまれ</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>れるものなら、<ruby>鳥<rt>とり</rt></ruby>になりたい。だって、<ruby>空<rt>そら</rt></ruby>を<ruby>飛び<rt>とび</rt></ruby>たいんだもん。"
   },
   {
     "id": 584,
@@ -12263,7 +13428,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>帰れ<rt>かえれ</rt></ruby>る【　　】、<ruby>今す<rt>います</rt></ruby>ぐ<ruby>帰国<rt>きこく</rt></ruby>したい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>帰れ<rt>かえれ</rt></ruby>るものなら、<ruby>今す<rt>います</rt></ruby>ぐ<ruby>帰国<rt>きこく</rt></ruby>したい。"
   },
   {
     "id": 585,
@@ -12284,7 +13451,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>である【　　】、まだ<ruby>暑い<rt>あつい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>であるものの、まだ<ruby>暑い<rt>あつい</rt></ruby>。"
   },
   {
     "id": 586,
@@ -12305,7 +13474,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>申し込み<rt>もうしこみ</rt></ruby>はした【　　】、<ruby>試験<rt>しけん</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>かどうか<ruby>未定<rt>みてい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>申し込み<rt>もうしこみ</rt></ruby>はしたものの、<ruby>試験<rt>しけん</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>かどうか<ruby>未定<rt>みてい</rt></ruby>です。"
   },
   {
     "id": 587,
@@ -12326,7 +13497,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>は<ruby>持っ<rt>もっ</rt></ruby>ている【　　】、ほとんど<ruby>運転<rt>うんてん</rt></ruby>したことがありません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>は<ruby>持っ<rt>もっ</rt></ruby>ているものの、ほとんど<ruby>運転<rt>うんてん</rt></ruby>したことがありません。"
   },
   {
     "id": 588,
@@ -12347,7 +13520,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>買っ<rt>かっ</rt></ruby>た【　　】、<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>買っ<rt>かっ</rt></ruby>たものの、<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らない。"
   },
   {
     "id": 589,
@@ -12368,7 +13543,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>金欠<rt>きんけつ</rt></ruby>ではある【　　】、<ruby>毎日<rt>まいにち</rt></ruby><ruby>美味しい<rt>おいしい</rt></ruby><ruby>食事<rt>しょくじ</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでいる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>金欠<rt>きんけつ</rt></ruby>ではあるものの、<ruby>毎日<rt>まいにち</rt></ruby><ruby>美味しい<rt>おいしい</rt></ruby><ruby>食事<rt>しょくじ</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでいる。"
   },
   {
     "id": 590,
@@ -12389,7 +13566,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ものの",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんのアパートは<ruby>駅<rt>えき</rt></ruby>からはちょっと<ruby>遠い<rt>とおい</rt></ruby>【　　】、<ruby>静か<rt>しずか</rt></ruby>できれいな<ruby>住宅街<rt>じゅうたくがい</rt></ruby>にある。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんのアパートは<ruby>駅<rt>えき</rt></ruby>からはちょっと<ruby>遠い<rt>とおい</rt></ruby>ものの、<ruby>静か<rt>しずか</rt></ruby>できれいな<ruby>住宅街<rt>じゅうたくがい</rt></ruby>にある。"
   },
   {
     "id": 591,
@@ -12410,7 +13589,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ものの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られてスポーツジムの<ruby>会員<rt>かいいん</rt></ruby>になった【　　】、ほとんど<ruby>利用<rt>りよう</rt></ruby>していない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られてスポーツジムの<ruby>会員<rt>かいいん</rt></ruby>になったものの、ほとんど<ruby>利用<rt>りよう</rt></ruby>していない。"
   },
   {
     "id": 592,
@@ -12431,7 +13612,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "もっとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>しなければなりません。【　　】<ruby>病気<rt>びょうき</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>しなければなりません。もっとも<ruby>病気<rt>びょうき</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>です。"
   },
   {
     "id": 593,
@@ -12452,7 +13635,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "もっとも",
-    "notes": "人名「田中さん」→「鈴木さん」"
+    "notes": "人名「田中さん」→「鈴木さん」",
+    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>責任<rt>せきにん</rt></ruby>だ。【　　】、<ruby>私たち<rt>わたしたち</rt></ruby>も<ruby>責任<rt>せきにん</rt></ruby>を<ruby>一部<rt>いちぶ</rt></ruby><ruby>持ち<rt>もち</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>責任<rt>せきにん</rt></ruby>だ。もっとも、<ruby>私たち<rt>わたしたち</rt></ruby>も<ruby>責任<rt>せきにん</rt></ruby>を<ruby>一部<rt>いちぶ</rt></ruby><ruby>持ち<rt>もち</rt></ruby>ます。"
   },
   {
     "id": 594,
@@ -12473,7 +13658,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もっとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>検査<rt>けんさ</rt></ruby>の<ruby>前夜<rt>ぜんや</rt></ruby>から<ruby>飲食<rt>いんしょく</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>です。【　　】<ruby>水<rt>みず</rt></ruby>は<ruby>飲ん<rt>のん</rt></ruby>でも<ruby>構い<rt>かまい</rt></ruby>ません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>検査<rt>けんさ</rt></ruby>の<ruby>前夜<rt>ぜんや</rt></ruby>から<ruby>飲食<rt>いんしょく</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>です。もっとも<ruby>水<rt>みず</rt></ruby>は<ruby>飲ん<rt>のん</rt></ruby>でも<ruby>構い<rt>かまい</rt></ruby>ません。"
   },
   {
     "id": 595,
@@ -12494,7 +13681,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もっとも",
-    "notes": "地域名「ヨーロッパ」→「北欧」"
+    "notes": "地域名「ヨーロッパ」→「北欧」",
+    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>北欧<rt>ほくおう</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たいと<ruby>思って<rt>おもって</rt></ruby>います。【　　】<ruby>休み<rt>やすみ</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>たらの<ruby>話<rt>はなし</rt></ruby>ですが。",
+    "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>北欧<rt>ほくおう</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たいと<ruby>思って<rt>おもって</rt></ruby>います。もっとも<ruby>休み<rt>やすみ</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>たらの<ruby>話<rt>はなし</rt></ruby>ですが。"
   },
   {
     "id": 596,
@@ -12515,7 +13704,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もっとも",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんたちのチームが<ruby>勝っ<rt>かっ</rt></ruby>た。【　　】、<ruby>次の<rt>つぎの</rt></ruby><ruby>試合<rt>しあい</rt></ruby>はもっと<ruby>難しい<rt>むずかしい</rt></ruby>ので<ruby>無視<rt>むし</rt></ruby>にしないほうがいい。",
+    "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんたちのチームが<ruby>勝っ<rt>かっ</rt></ruby>た。もっとも、<ruby>次の<rt>つぎの</rt></ruby><ruby>試合<rt>しあい</rt></ruby>はもっと<ruby>難しい<rt>むずかしい</rt></ruby>ので<ruby>無視<rt>むし</rt></ruby>にしないほうがいい。"
   },
   {
     "id": 597,
@@ -12536,7 +13727,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もっとも",
-    "notes": "サービス名「ウィキペディア」→「ネットの百科事典」"
+    "notes": "サービス名「ウィキペディア」→「ネットの百科事典」",
+    "question_ruby": "ネットの<ruby>百科事典<rt>ひゃっかじてん</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>書い<rt>かい</rt></ruby>てあるよ。【　　】このサイトは<ruby>完全<rt>かんぜん</rt></ruby>には<ruby>信用<rt>しんよう</rt></ruby>できないけど。",
+    "sentence_jp_ruby": "ネットの<ruby>百科事典<rt>ひゃっかじてん</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>書い<rt>かい</rt></ruby>てあるよ。もっともこのサイトは<ruby>完全<rt>かんぜん</rt></ruby>には<ruby>信用<rt>しんよう</rt></ruby>できないけど。"
   },
   {
     "id": 598,
@@ -12557,7 +13750,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もっとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>関係<rt>かんけい</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>は<ruby>書類<rt>しょるい</rt></ruby>をもらわないでください。【　　】、<ruby>許可<rt>きょか</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>がもらえます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>関係<rt>かんけい</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>は<ruby>書類<rt>しょるい</rt></ruby>をもらわないでください。もっとも、<ruby>許可<rt>きょか</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>がもらえます。"
   },
   {
     "id": 599,
@@ -12578,7 +13773,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もう少しで",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】あの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう<ruby>少し<rt>すこし</rt></ruby>であの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした."
   },
   {
     "id": 600,
@@ -12599,7 +13796,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "もう少しで",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんは、<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>乗り<rt>のり</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>そうでした。",
+    "sentence_jp_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>で、<ruby>高橋<rt>たかはし</rt></ruby>さんは、<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>乗り<rt>のり</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>そうでした。"
   },
   {
     "id": 601,
@@ -12620,7 +13819,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もう少しで",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、バナナの<ruby>皮<rt>かわ</rt></ruby>で<ruby>滑り<rt>すべり</rt></ruby>、【　　】<ruby>転ぶ<rt>ころぶ</rt></ruby>ところだった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、バナナの<ruby>皮<rt>かわ</rt></ruby>で<ruby>滑り<rt>すべり</rt></ruby>、もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>転ぶ<rt>ころぶ</rt></ruby>ところだった。"
   },
   {
     "id": 602,
@@ -12641,7 +13842,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もう少しで",
-    "notes": "文房具「鉛筆」→「ボールペン」"
+    "notes": "文房具「鉛筆」→「ボールペン」",
+    "question_ruby": "<ruby>君<rt>くん</rt></ruby>は【　　】<ruby>私<rt>わたし</rt></ruby>の<ruby>目<rt>め</rt></ruby>をボールペンで<ruby>突き<rt>つき</rt></ruby><ruby>刺す<rt>さす</rt></ruby>ところだったよ。",
+    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>はもう<ruby>少し<rt>すこし</rt></ruby>で<ruby>私<rt>わたし</rt></ruby>の<ruby>目<rt>め</rt></ruby>をボールペンで<ruby>突き<rt>つき</rt></ruby><ruby>刺す<rt>さす</rt></ruby>ところだったよ。"
   },
   {
     "id": 603,
@@ -12662,7 +13865,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もう少しで",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、【　　】<ruby>泣く<rt>なく</rt></ruby>ところだった。",
+    "sentence_jp_ruby": "あの<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>泣く<rt>なく</rt></ruby>ところだった。"
   },
   {
     "id": 604,
@@ -12683,7 +13888,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もう少しで",
-    "notes": "乗り物「タクシー」→「バス」"
+    "notes": "乗り物「タクシー」→「バス」",
+    "question_ruby": "【　　】<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>卒業論文<rt>そつぎょうろんぶん</rt></ruby>をバスの<ruby>中に<rt>なかに</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>るところだった。",
+    "sentence_jp_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>卒業論文<rt>そつぎょうろんぶん</rt></ruby>をバスの<ruby>中に<rt>なかに</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>るところだった。"
   },
   {
     "id": 605,
@@ -12704,7 +13911,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もう少しで",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡る<rt>わたる</rt></ruby>ときに、<ruby>大型<rt>おおがた</rt></ruby>トラックに【　　】はねられそうになった。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡る<rt>わたる</rt></ruby>ときに、<ruby>大型<rt>おおがた</rt></ruby>トラックにもう<ruby>少し<rt>すこし</rt></ruby>ではねられそうになった。"
   },
   {
     "id": 606,
@@ -12725,7 +13934,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>だから、<ruby>勉強<rt>べんきょう</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>だから、<ruby>勉強<rt>べんきょう</rt></ruby>しないではいられない。"
   },
   {
     "id": 607,
@@ -12746,7 +13957,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>態度<rt>たいど</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>に、<ruby>一言<rt>ひとこと</rt></ruby><ruby>文句<rt>もんく</rt></ruby>を<ruby>言わ<rt>いわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>態度<rt>たいど</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>に、<ruby>一言<rt>ひとこと</rt></ruby><ruby>文句<rt>もんく</rt></ruby>を<ruby>言わ<rt>いわ</rt></ruby>ないではいられない。"
   },
   {
     "id": 608,
@@ -12767,7 +13980,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>がいじめられているところを<ruby>見た<rt>みた</rt></ruby>ので、<ruby>何か<rt>なにか</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>【　　】ではいられなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>がいじめられているところを<ruby>見た<rt>みた</rt></ruby>ので、<ruby>何か<rt>なにか</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ないではいられなかった。"
   },
   {
     "id": 609,
@@ -12788,7 +14003,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではいられない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>真似<rt>まね</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>とおかしくて、<ruby>笑わ<rt>わらわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>真似<rt>まね</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>とおかしくて、<ruby>笑わ<rt>わらわ</rt></ruby>ないではいられない。"
   },
   {
     "id": 610,
@@ -12809,7 +14026,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby> の<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>で、<ruby>畑<rt>はたけ</rt></ruby>を<ruby>見に行か<rt>みにいか</rt></ruby>【　　】ではいられなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby> の<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>で、<ruby>畑<rt>はたけ</rt></ruby>を<ruby>見に行か<rt>みにいか</rt></ruby>ないではいられなかった。"
   },
   {
     "id": 611,
@@ -12830,7 +14049,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではいられない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはわからないことがあったら、<ruby>辞書<rt>じしょ</rt></ruby>やインターネットですぐに<ruby>調べ<rt>しらべ</rt></ruby>【　　】<ruby>性格<rt>せいかく</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはわからないことがあったら、<ruby>辞書<rt>じしょ</rt></ruby>やインターネットですぐに<ruby>調べ<rt>しらべ</rt></ruby>ないではいられない<ruby>性格<rt>せいかく</rt></ruby>だ。"
   },
   {
     "id": 612,
@@ -12851,7 +14072,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではいられない",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>しか<ruby>寝て<rt>ねて</rt></ruby>なかったから、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>寝<rt>ね</rt></ruby>【　　】ではいられなかった。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>しか<ruby>寝て<rt>ねて</rt></ruby>なかったから、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>寝な<rt>ねな</rt></ruby>いではいられなかった。"
   },
   {
     "id": 613,
@@ -12872,7 +14095,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではいられない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>店<rt>みせ</rt></ruby>のカレーはとても<ruby>辛い<rt>つらい</rt></ruby>。ちょっと<ruby>食べた<rt>たべた</rt></ruby>ら、<ruby>水<rt>みず</rt></ruby>を<ruby>飲ま<rt>のま</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>店<rt>みせ</rt></ruby>のカレーはとても<ruby>辛い<rt>つらい</rt></ruby>。ちょっと<ruby>食べた<rt>たべた</rt></ruby>ら、<ruby>水<rt>みず</rt></ruby>を<ruby>飲ま<rt>のま</rt></ruby>ないではいられない。"
   },
   {
     "id": 614,
@@ -12893,7 +14118,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないことには",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>来<rt>らい</rt></ruby>【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>来ない<rt>こない</rt></ruby>ことには、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。"
   },
   {
     "id": 615,
@@ -12914,7 +14141,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないことには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一口<rt>ひとくち</rt></ruby><ruby>食べて<rt>たべて</rt></ruby>み【　　】、<ruby>美味しい<rt>おいしい</rt></ruby>かどうかわかりません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一口<rt>ひとくち</rt></ruby><ruby>食べて<rt>たべて</rt></ruby>みないことには、<ruby>美味しい<rt>おいしい</rt></ruby>かどうかわかりません。"
   },
   {
     "id": 616,
@@ -12935,7 +14164,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないことには",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>見舞い<rt>みまい</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>病状<rt>びょうじょう</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>らない。",
+    "sentence_jp_ruby": "<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>見舞い<rt>みまい</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>ないことには、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>病状<rt>びょうじょう</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>らない。"
   },
   {
     "id": 617,
@@ -12956,7 +14187,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないことには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>てみ【　　】、ケンかの<ruby>原因<rt>げんいん</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らないでしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>てみないことには、ケンかの<ruby>原因<rt>げんいん</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らないでしょう。"
   },
   {
     "id": 618,
@@ -12977,7 +14210,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないことには",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>実際に<rt>じっさいに</rt></ruby><ruby>読ま<rt>よま</rt></ruby>【　　】、その<ruby>小説<rt>しょうせつ</rt></ruby>のおもしろさはわからないだろう。",
+    "sentence_jp_ruby": "<ruby>実際に<rt>じっさいに</rt></ruby><ruby>読ま<rt>よま</rt></ruby>ないことには、その<ruby>小説<rt>しょうせつ</rt></ruby>のおもしろさはわからないだろう。"
   },
   {
     "id": 619,
@@ -12998,7 +14233,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないことには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>がある<ruby>程度<rt>ていど</rt></ruby>でき【　　】、<ruby>日本<rt>にっぽん</rt></ruby>でアルバイトをするのは<ruby>出来な<rt>できな</rt></ruby>い。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>がある<ruby>程度<rt>ていど</rt></ruby>できないことには、<ruby>日本<rt>にっぽん</rt></ruby>でアルバイトをするのは<ruby>出来な<rt>できな</rt></ruby>い。"
   },
   {
     "id": 620,
@@ -13019,7 +14256,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないことには",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby><ruby>履い<rt>はい</rt></ruby>てみ【　　】、サイズが<ruby>合う<rt>あう</rt></ruby>かどうかわかりませんし、<ruby>似合う<rt>にあう</rt></ruby>かどうかもわかりません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby><ruby>履い<rt>はい</rt></ruby>てみないことには、サイズが<ruby>合う<rt>あう</rt></ruby>かどうかわかりませんし、<ruby>似合う<rt>にあう</rt></ruby>かどうかもわかりません。"
   },
   {
     "id": 621,
@@ -13040,7 +14279,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "中を",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>店<rt>みせ</rt></ruby>の【　　】うろうろしていた。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をうろうろしていた。"
   },
   {
     "id": 622,
@@ -13061,7 +14302,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "中を",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ているから<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>部屋<rt>へや</rt></ruby>の【　　】<ruby>走っ<rt>はしっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ているから<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>た。"
   },
   {
     "id": 623,
@@ -13082,7 +14325,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "中を",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>雨<rt>あめ</rt></ruby>の【　　】<ruby>歩き<rt>あるき</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>雨<rt>あめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩き<rt>あるき</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ました。"
   },
   {
     "id": 624,
@@ -13103,7 +14348,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の中では",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教会<rt>きょうかい</rt></ruby>【　　】<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>脱ぎ<rt>ぬぎ</rt></ruby>なさい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教会<rt>きょうかい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>脱ぎ<rt>ぬぎ</rt></ruby>なさい。"
   },
   {
     "id": 625,
@@ -13124,7 +14371,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の中では",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>は<ruby>地下鉄<rt>ちかてつ</rt></ruby>【　　】<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いい。",
+    "sentence_jp_ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>は<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いい。"
   },
   {
     "id": 626,
@@ -13145,7 +14394,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "中を",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>忙しい<rt>いそがしい</rt></ruby>【　　】<ruby>手伝っ<rt>てつだっ</rt></ruby>ていただき、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>忙しい<rt>いそがしい</rt></ruby><ruby>中<rt>なか</rt></ruby>を<ruby>手伝っ<rt>てつだっ</rt></ruby>ていただき、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。"
   },
   {
     "id": 627,
@@ -13166,7 +14417,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の中では",
-    "notes": "飲料「ビール」→「アイスティー」"
+    "notes": "飲料「ビール」→「アイスティー」",
+    "question_ruby": "<ruby>地元<rt>じもと</rt></ruby>のアイスティー【　　】、どれがおいしいですか。",
+    "sentence_jp_ruby": "<ruby>地元<rt>じもと</rt></ruby>のアイスティーの<ruby>中<rt>なか</rt></ruby>では、どれがおいしいですか。"
   },
   {
     "id": 628,
@@ -13187,7 +14440,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "中では",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>聞い<rt>きい</rt></ruby>た【　　】、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>の<ruby>演奏<rt>えんそう</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>聞い<rt>きい</rt></ruby>た<ruby>中<rt>なか</rt></ruby>では、<ruby>今まで<rt>いままで</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>の<ruby>演奏<rt>えんそう</rt></ruby>だった。"
   },
   {
     "id": 629,
@@ -13208,7 +14463,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自信<rt>じしん</rt></ruby>が【　　】が、ただちょっと<ruby>緊張し<rt>きんちょうし</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自信<rt>じしん</rt></ruby>がなくはないが、ただちょっと<ruby>緊張し<rt>きんちょうし</rt></ruby>ている。"
   },
   {
     "id": 630,
@@ -13229,7 +14486,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なくはない",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>【　　】が、あまり<ruby>好き<rt>すき</rt></ruby>ではない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>なくはないが、あまり<ruby>好き<rt>すき</rt></ruby>ではない。"
   },
   {
     "id": 631,
@@ -13250,7 +14509,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくはない",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あなたの<ruby>気持ち<rt>きもち</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>ら【　　】が、ただあの<ruby>行為<rt>こうい</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>できない。",
+    "sentence_jp_ruby": "あなたの<ruby>気持ち<rt>きもち</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>らなくはないが、ただあの<ruby>行為<rt>こうい</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>できない。"
   },
   {
     "id": 632,
@@ -13271,7 +14532,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>不満<rt>ふまん</rt></ruby>はないけど、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>し、<ruby>時に<rt>ときに</rt></ruby>は<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>【　　】もない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>不満<rt>ふまん</rt></ruby>はないけど、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>し、<ruby>時に<rt>ときに</rt></ruby>は<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>なくもない。"
   },
   {
     "id": 633,
@@ -13292,7 +14555,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくはない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>食欲<rt>しょくよく</rt></ruby>が【　　】が、もう<ruby>少し<rt>すこし</rt></ruby><ruby>後で<rt>あとで</rt></ruby><ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>食事<rt>しょくじ</rt></ruby>をしたいです。",
+    "sentence_jp_ruby": "<ruby>食欲<rt>しょくよく</rt></ruby>がなくはないが、もう<ruby>少し<rt>すこし</rt></ruby><ruby>後で<rt>あとで</rt></ruby><ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>食事<rt>しょくじ</rt></ruby>をしたいです。"
   },
   {
     "id": 634,
@@ -13313,7 +14578,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>するつもりは【　　】もないが、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>安定<rt>あんてい</rt></ruby>してからのほうがいいだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>するつもりはなくもないが、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>安定<rt>あんてい</rt></ruby>してからのほうがいいだろう。"
   },
   {
     "id": 635,
@@ -13334,7 +14601,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくはない",
-    "notes": "スポーツ「バレーボール」→「バスケットボール」"
+    "notes": "スポーツ「バレーボール」→「バスケットボール」",
+    "question_ruby": "バスケットボールをでき【　　】が、<ruby>私<rt>わたし</rt></ruby>がその<ruby>試合<rt>しあい</rt></ruby>でチームの<ruby>勝利<rt>しょうり</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>だろう。",
+    "sentence_jp_ruby": "バスケットボールをできなくはないが、<ruby>私<rt>わたし</rt></ruby>がその<ruby>試合<rt>しあい</rt></ruby>でチームの<ruby>勝利<rt>しょうり</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>だろう。"
   },
   {
     "id": 636,
@@ -13355,7 +14624,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくて済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>母<rt>はは</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>迎え<rt>むかえ</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>くれたので、<ruby>歩か<rt>あるか</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>母<rt>はは</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>迎え<rt>むかえ</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>くれたので、<ruby>歩か<rt>あるか</rt></ruby>なくて<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 637,
@@ -13376,7 +14647,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくて済む",
-    "notes": "サービス名「Amazon」→「通販サイト」"
+    "notes": "サービス名「Amazon」→「通販サイト」",
+    "question_ruby": "<ruby>通販<rt>つうはん</rt></ruby>サイトさえあれば<ruby>外出<rt>がいしゅつ</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "<ruby>通販<rt>つうはん</rt></ruby>サイトさえあれば<ruby>外出<rt>がいしゅつ</rt></ruby>しなくて<ruby>済む<rt>すむ</rt></ruby>。"
   },
   {
     "id": 638,
@@ -13397,7 +14670,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくて済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby>しておいたおかげで、<ruby>待た<rt>また</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby>しておいたおかげで、<ruby>待た<rt>また</rt></ruby>なくて<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 639,
@@ -13418,7 +14693,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないで済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>きん</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>きん</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>ないで<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 640,
@@ -13439,7 +14716,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくて済んだ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>のアパートに<ruby>泊め<rt>とめ</rt></ruby>てくれたのでホテルに<ruby>泊ま<rt>とま</rt></ruby>ら【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>のアパートに<ruby>泊め<rt>とめ</rt></ruby>てくれたのでホテルに<ruby>泊ま<rt>とま</rt></ruby>らなくて<ruby>済ん<rt>すん</rt></ruby>だ。"
   },
   {
     "id": 641,
@@ -13460,7 +14739,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくて済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>なくて<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 642,
@@ -13481,7 +14762,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくて済む",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>では<ruby>皆<rt>みな</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>制服<rt>せいふく</rt></ruby>を<ruby>着る<rt>きる</rt></ruby>ので、<ruby>服<rt>ふく</rt></ruby>のことで<ruby>悩ま<rt>なやま</rt></ruby>【　　】て<ruby>済み<rt>すみ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>では<ruby>皆<rt>みな</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>制服<rt>せいふく</rt></ruby>を<ruby>着る<rt>きる</rt></ruby>ので、<ruby>服<rt>ふく</rt></ruby>のことで<ruby>悩ま<rt>なやま</rt></ruby>なくて<ruby>済み<rt>すみ</rt></ruby>ます。"
   },
   {
     "id": 643,
@@ -13502,7 +14785,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なにも",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>は【　　】いらない。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>はなにもいらない。"
   },
   {
     "id": 644,
@@ -13523,7 +14808,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なにも",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは【　　】<ruby>言わ<rt>いわ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはなにも<ruby>言わ<rt>いわ</rt></ruby>なかった。"
   },
   {
     "id": 645,
@@ -13544,7 +14831,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "何も",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どのみち、【　　】<ruby>聞こ<rt>きこ</rt></ruby>えなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どのみち、<ruby>何も<rt>なにも</rt></ruby><ruby>聞こ<rt>きこ</rt></ruby>えなかった。"
   },
   {
     "id": 646,
@@ -13565,7 +14854,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なにも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはただ<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>だけで【　　】しなかった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはただ<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>だけでなにもしなかった。"
   },
   {
     "id": 647,
@@ -13586,7 +14877,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なにも",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "そのお<ruby>店<rt>みせ</rt></ruby>は<ruby>混雑<rt>こんざつ</rt></ruby>していたので、<ruby>高橋<rt>たかはし</rt></ruby>さんは【　　】<ruby>買え<rt>かえ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "そのお<ruby>店<rt>みせ</rt></ruby>は<ruby>混雑<rt>こんざつ</rt></ruby>していたので、<ruby>高橋<rt>たかはし</rt></ruby>さんはなにも<ruby>買え<rt>かえ</rt></ruby>なかった。"
   },
   {
     "id": 648,
@@ -13607,7 +14900,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なにも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>冗談<rt>じょうだん</rt></ruby>だけなんだから、【　　】そんなに<ruby>怒る<rt>いかる</rt></ruby>ことはない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>冗談<rt>じょうだん</rt></ruby>だけなんだから、なにもそんなに<ruby>怒る<rt>いかる</rt></ruby>ことはない。"
   },
   {
     "id": 649,
@@ -13628,7 +14923,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "何も",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんがその<ruby>事件<rt>じけん</rt></ruby>について【　　】<ruby>知ら<rt>しら</rt></ruby>ないとは<ruby>不思議<rt>ふしぎ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんがその<ruby>事件<rt>じけん</rt></ruby>について<ruby>何も<rt>なにも</rt></ruby><ruby>知ら<rt>しら</rt></ruby>ないとは<ruby>不思議<rt>ふしぎ</rt></ruby>だ。"
   },
   {
     "id": 650,
@@ -13649,7 +14946,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "何も",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>見学<rt>けんがく</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>は<ruby>指導員<rt>しどういん</rt></ruby>もいるのだから、【　　】<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はありませんよ。",
+    "sentence_jp_ruby": "<ruby>見学<rt>けんがく</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>は<ruby>指導員<rt>しどういん</rt></ruby>もいるのだから、<ruby>何も<rt>なにも</rt></ruby><ruby>心配<rt>しんぱい</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はありませんよ。"
   },
   {
     "id": 651,
@@ -13670,7 +14969,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なお",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、かなり<ruby>多く<rt>おおく</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>【　　】それを<ruby>信じ<rt>しんじ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、かなり<ruby>多く<rt>おおく</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>なおそれを<ruby>信じ<rt>しんじ</rt></ruby>ている。"
   },
   {
     "id": 652,
@@ -13691,7 +14992,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なお",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とても<ruby>寒く<rt>さむく</rt></ruby>、【　　】<ruby>悪い<rt>わるい</rt></ruby>ことに、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とても<ruby>寒く<rt>さむく</rt></ruby>、なお<ruby>悪い<rt>わるい</rt></ruby>ことに、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 653,
@@ -13712,7 +15015,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なお",
-    "notes": "曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; 文頭に「実は、」を追加"
+    "notes": "曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>の<ruby>打ち合わせ<rt>うちあわせ</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>です。【　　】、<ruby>時間<rt>じかん</rt></ruby>は<ruby>後<rt>のち</rt></ruby>ほどお<ruby>伝え<rt>つたえ</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>の<ruby>打ち合わせ<rt>うちあわせ</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>です。なお、<ruby>時間<rt>じかん</rt></ruby>は<ruby>後<rt>のち</rt></ruby>ほどお<ruby>伝え<rt>つたえ</rt></ruby>します。"
   },
   {
     "id": 654,
@@ -13733,7 +15038,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なお",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あとで<ruby>起こ<rt>おこ</rt></ruby>ったことは【　　】<ruby>悪か<rt>わるか</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あとで<ruby>起こ<rt>おこ</rt></ruby>ったことはなお<ruby>悪か<rt>わるか</rt></ruby>った。"
   },
   {
     "id": 655,
@@ -13754,7 +15061,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なお",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>件<rt>けん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>は<ruby>以上<rt>いじょう</rt></ruby>です。【　　】、<ruby>詳細<rt>しょうさい</rt></ruby>についてプリントをご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "sentence_jp_ruby": "その<ruby>件<rt>けん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>は<ruby>以上<rt>いじょう</rt></ruby>です。なお、<ruby>詳細<rt>しょうさい</rt></ruby>についてプリントをご<ruby>覧<rt>らん</rt></ruby>ください。"
   },
   {
     "id": 656,
@@ -13775,7 +15084,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なお",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>試合<rt>しあい</rt></ruby>に<ruby>申し込む<rt>もうしこむ</rt></ruby>とき、<ruby>履歴書<rt>りれきしょ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>してください。【　　】<ruby>参加費<rt>さんかひ</rt></ruby>も<ruby>提出<rt>ていしゅつ</rt></ruby>してください。",
+    "sentence_jp_ruby": "その<ruby>試合<rt>しあい</rt></ruby>に<ruby>申し込む<rt>もうしこむ</rt></ruby>とき、<ruby>履歴書<rt>りれきしょ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>してください。なお<ruby>参加費<rt>さんかひ</rt></ruby>も<ruby>提出<rt>ていしゅつ</rt></ruby>してください。"
   },
   {
     "id": 657,
@@ -13796,7 +15107,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なお",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby>はウェブサイトに<ruby>載ら<rt>のら</rt></ruby>せています。【　　】<ruby>聞き<rt>きき</rt></ruby>たいことがあったら、<ruby>担当者<rt>たんとうしゃ</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby>はウェブサイトに<ruby>載ら<rt>のら</rt></ruby>せています。なお<ruby>聞き<rt>きき</rt></ruby>たいことがあったら、<ruby>担当者<rt>たんとうしゃ</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>てください。"
   },
   {
     "id": 658,
@@ -13817,7 +15130,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なお",
-    "notes": "金額「200万円」→「250万円」; 金額「150万円」→「180万円」"
+    "notes": "金額「200万円」→「250万円」; 金額「150万円」→「180万円」",
+    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>学費<rt>がくひ</rt></ruby>は250<ruby>万円<rt>まんえん</rt></ruby>です。【　　】<ruby>一年生<rt>いちねんせい</rt></ruby>は180<ruby>万円<rt>まんえん</rt></ruby>だけです。",
+    "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>学費<rt>がくひ</rt></ruby>は250<ruby>万円<rt>まんえん</rt></ruby>です。なお<ruby>一年生<rt>いちねんせい</rt></ruby>は180<ruby>万円<rt>まんえん</rt></ruby>だけです。"
   },
   {
     "id": 659,
@@ -13838,7 +15153,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ねばならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、⻭<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、⻭<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>ねばならない。"
   },
   {
     "id": 660,
@@ -13859,7 +15176,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ねばならない",
-    "notes": "時刻「9時」→「10時」; 時刻「10時」→「11時」"
+    "notes": "時刻「9時」→「10時」; 時刻「10時」→「11時」",
+    "question_ruby": "11<ruby>時<rt>とき</rt></ruby>までに<ruby>戻ら<rt>もどら</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "11<ruby>時<rt>とき</rt></ruby>までに<ruby>戻ら<rt>もどら</rt></ruby>ねばならない。"
   },
   {
     "id": 661,
@@ -13880,7 +15199,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ねばならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビザが<ruby>切れ<rt>きれ</rt></ruby>たので、<ruby>国<rt>くに</rt></ruby>に<ruby>帰ら<rt>かえら</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビザが<ruby>切れ<rt>きれ</rt></ruby>たので、<ruby>国<rt>くに</rt></ruby>に<ruby>帰ら<rt>かえら</rt></ruby>ねばならない。"
   },
   {
     "id": 662,
@@ -13901,7 +15222,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ねばならない",
-    "notes": "地域名「北海道」→「沖縄」"
+    "notes": "地域名「北海道」→「沖縄」",
+    "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>から、<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>へ<ruby>行か<rt>いか</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>から、<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>へ<ruby>行か<rt>いか</rt></ruby>ねばならない。"
   },
   {
     "id": 663,
@@ -13922,7 +15245,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ねばならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地球<rt>ちきゅう</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>ために、プラスチック<ruby>製品<rt>せいひん</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>さ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地球<rt>ちきゅう</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>ために、プラスチック<ruby>製品<rt>せいひん</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>さねばならない。"
   },
   {
     "id": 664,
@@ -13943,7 +15268,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ねばならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>辛い<rt>つらい</rt></ruby>ことがあっても、<ruby>家族<rt>かぞく</rt></ruby>のためにしばらくは<ruby>耐え<rt>たえ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>辛い<rt>つらい</rt></ruby>ことがあっても、<ruby>家族<rt>かぞく</rt></ruby>のためにしばらくは<ruby>耐え<rt>たえ</rt></ruby>ねばならない。"
   },
   {
     "id": 665,
@@ -13964,7 +15291,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ねばならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>あなたは<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でおられるのですから、あなたは<ruby>当然<rt>とうぜん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>従わ<rt>したがわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今<rt>いま</rt></ruby>あなたは<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でおられるのですから、あなたは<ruby>当然<rt>とうぜん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>従わ<rt>したがわ</rt></ruby>ねばならない。"
   },
   {
     "id": 666,
@@ -13985,7 +15314,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ねばならない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>は<ruby>特に<rt>とくに</rt></ruby>ゆっくり<ruby>考え<rt>かんがえ</rt></ruby>【　　】。<ruby>急い<rt>いそい</rt></ruby>で<ruby>決定<rt>けってい</rt></ruby>することなどできない。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>は<ruby>特に<rt>とくに</rt></ruby>ゆっくり<ruby>考え<rt>かんがえ</rt></ruby>ねばならない。<ruby>急い<rt>いそい</rt></ruby>で<ruby>決定<rt>けってい</rt></ruby>することなどできない。"
   },
   {
     "id": 667,
@@ -14006,7 +15337,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>皆さん<rt>みなさん</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>【　　】、<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>伝え<rt>つたえ</rt></ruby>ておきます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>皆さん<rt>みなさん</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>にあたって、<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>伝え<rt>つたえ</rt></ruby>ておきます。"
   },
   {
     "id": 668,
@@ -14027,7 +15360,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、アルバイトをする【　　】は、<ruby>学業<rt>がくぎょう</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>のないようにすること。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、アルバイトをするにあたっては、<ruby>学業<rt>がくぎょう</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>のないようにすること。"
   },
   {
     "id": 669,
@@ -14048,7 +15383,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>する【　　】、たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>するにあたって、たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。"
   },
   {
     "id": 670,
@@ -14069,7 +15406,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>する【　　】、<ruby>行く<rt>いく</rt></ruby><ruby>前<rt>まえ</rt></ruby>にしておくべきことは<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>するにあたって、<ruby>行く<rt>いく</rt></ruby><ruby>前<rt>まえ</rt></ruby>にしておくべきことは<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>た。"
   },
   {
     "id": 671,
@@ -14090,7 +15429,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る【　　】たり、まずは<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>おいてください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>るにあたり、まずは<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>おいてください。"
   },
   {
     "id": 672,
@@ -14111,7 +15452,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、マンションを<ruby>買う<rt>かう</rt></ruby>【　　】、<ruby>妻<rt>つま</rt></ruby>と<ruby>色んな<rt>いろんな</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>をしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、マンションを<ruby>買う<rt>かう</rt></ruby>にあたって、<ruby>妻<rt>つま</rt></ruby>と<ruby>色んな<rt>いろんな</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>をしました。"
   },
   {
     "id": 673,
@@ -14132,7 +15475,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビザを<ruby>申請<rt>しんせい</rt></ruby>する【　　】<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>用意し<rt>よういし</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビザを<ruby>申請<rt>しんせい</rt></ruby>するにあたって<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>用意し<rt>よういし</rt></ruby>ました。"
   },
   {
     "id": 674,
@@ -14153,7 +15498,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にあたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>を<ruby>計画<rt>けいかく</rt></ruby>する【　　】、<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>行った<rt>いった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>社員旅行<rt>しゃいんりょこう</rt></ruby>を<ruby>計画<rt>けいかく</rt></ruby>するにあたって、<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>行った<rt>いった</rt></ruby>。"
   },
   {
     "id": 675,
@@ -14174,7 +15521,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にほかならない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>したのは、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>したのは、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>にほかならない。"
   },
   {
     "id": 676,
@@ -14195,7 +15544,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にほかならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>緊急時<rt>きんきゅうじ</rt></ruby>に<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>なことは、まず<ruby>落ち着く<rt>おちつく</rt></ruby>こと【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>緊急時<rt>きんきゅうじ</rt></ruby>に<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>なことは、まず<ruby>落ち着く<rt>おちつく</rt></ruby>ことにほかならない。"
   },
   {
     "id": 677,
@@ -14216,7 +15567,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にほかならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>からやると<ruby>言った<rt>いった</rt></ruby>のに、<ruby>途中<rt>とちゅう</rt></ruby>でやめてしまうのは<ruby>無責任<rt>むせきにん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>からやると<ruby>言った<rt>いった</rt></ruby>のに、<ruby>途中<rt>とちゅう</rt></ruby>でやめてしまうのは<ruby>無責任<rt>むせきにん</rt></ruby>にほかならない。"
   },
   {
     "id": 678,
@@ -14237,7 +15590,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にほかならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>した<ruby>原因<rt>げんいん</rt></ruby>は、<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<ruby>前方不注意<rt>ぜんぽうふちゅうい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>した<ruby>原因<rt>げんいん</rt></ruby>は、<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<ruby>前方不注意<rt>ぜんぽうふちゅうい</rt></ruby>にほかならない。"
   },
   {
     "id": 679,
@@ -14258,7 +15613,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にほかならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>ををるのは<ruby>子供<rt>こども</rt></ruby>を<ruby>愛し<rt>いとし</rt></ruby>てるから【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>ををるのは<ruby>子供<rt>こども</rt></ruby>を<ruby>愛し<rt>いとし</rt></ruby>てるからにほかならない。"
   },
   {
     "id": 680,
@@ -14279,7 +15636,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にほかならない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらが<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby>のは、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぎ<rt>かせぎ</rt></ruby>たいから【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらが<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby>のは、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぎ<rt>かせぎ</rt></ruby>たいからにほかならない。"
   },
   {
     "id": 681,
@@ -14300,7 +15659,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にほかならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>がここまでやってこられたのは、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>、<ruby>恋人<rt>こいびと</rt></ruby>の<ruby>支え<rt>ささえ</rt></ruby>があったから【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>がここまでやってこられたのは、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>、<ruby>恋人<rt>こいびと</rt></ruby>の<ruby>支え<rt>ささえ</rt></ruby>があったからにほかならない。"
   },
   {
     "id": 682,
@@ -14321,7 +15682,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にほかならない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>がいいのは<ruby>選抜<rt>せんばつ</rt></ruby>がきびしいから【　　】。",
+    "sentence_jp_ruby": "その<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>がいいのは<ruby>選抜<rt>せんばつ</rt></ruby>がきびしいからにほかならない。"
   },
   {
     "id": 683,
@@ -14342,7 +15705,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限らず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>女性<rt>じょせい</rt></ruby>【　　】<ruby>男性<rt>だんせい</rt></ruby>も<ruby>化粧<rt>けしょう</rt></ruby>をする。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>女性<rt>じょせい</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>男性<rt>だんせい</rt></ruby>も<ruby>化粧<rt>けしょう</rt></ruby>をする。"
   },
   {
     "id": 684,
@@ -14363,7 +15728,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に限らず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>【　　】、<ruby>大人<rt>おとな</rt></ruby>も<ruby>楽し<rt>たのし</rt></ruby>めます。",
+    "sentence_jp_ruby": "その<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず、<ruby>大人<rt>おとな</rt></ruby>も<ruby>楽し<rt>たのし</rt></ruby>めます。"
   },
   {
     "id": 685,
@@ -14384,7 +15751,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限らず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>若者<rt>わかもの</rt></ruby>【　　】<ruby>老人<rt>ろうじん</rt></ruby>も<ruby>関心<rt>かんしん</rt></ruby>します。",
+    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>若者<rt>わかもの</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>老人<rt>ろうじん</rt></ruby>も<ruby>関心<rt>かんしん</rt></ruby>します。"
   },
   {
     "id": 686,
@@ -14405,7 +15774,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限らず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ディズニー<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>【　　】、<ruby>大人<rt>おとな</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ディズニー<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず、<ruby>大人<rt>おとな</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>がある。"
   },
   {
     "id": 687,
@@ -14426,7 +15797,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に限らず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これから、<ruby>科学<rt>かがく</rt></ruby>【　　】<ruby>文学<rt>ぶんがく</rt></ruby>もちゃんと<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これから、<ruby>科学<rt>かがく</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>文学<rt>ぶんがく</rt></ruby>もちゃんと<ruby>勉強<rt>べんきょう</rt></ruby>します。"
   },
   {
     "id": 688,
@@ -14447,7 +15820,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に限らず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女の子<rt>おんなのこ</rt></ruby>【　　】<ruby>男の子<rt>おとこのこ</rt></ruby>も<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>をしなければならないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女の子<rt>おんなのこ</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>男の子<rt>おとこのこ</rt></ruby>も<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>をしなければならないよ。"
   },
   {
     "id": 689,
@@ -14468,7 +15843,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限らず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>大学<rt>だいがく</rt></ruby>は<ruby>日本人<rt>にほんじん</rt></ruby>【　　】、<ruby>世界各国<rt>せかいかっこく</rt></ruby>からの<ruby>留学生<rt>りゅうがくせい</rt></ruby>を<ruby>受け入れ<rt>うけいれ</rt></ruby>ている。",
+    "sentence_jp_ruby": "その<ruby>大学<rt>だいがく</rt></ruby>は<ruby>日本人<rt>にほんじん</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず、<ruby>世界各国<rt>せかいかっこく</rt></ruby>からの<ruby>留学生<rt>りゅうがくせい</rt></ruby>を<ruby>受け入れ<rt>うけいれ</rt></ruby>ている。"
   },
   {
     "id": 690,
@@ -14489,7 +15866,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に限らず",
-    "notes": "スポーツ「野球」→「サッカー」"
+    "notes": "スポーツ「野球」→「サッカー」",
+    "question_ruby": "あの<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>のころ、サッカー【　　】スポーツならなんでも<ruby>得意<rt>とくい</rt></ruby>だったそうだ。",
+    "sentence_jp_ruby": "あの<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>のころ、サッカーに<ruby>限ら<rt>かぎら</rt></ruby>ずスポーツならなんでも<ruby>得意<rt>とくい</rt></ruby>だったそうだ。"
   },
   {
     "id": 691,
@@ -14510,7 +15889,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限る",
-    "notes": "食べ物「ラーメン」→「うどん」"
+    "notes": "食べ物「ラーメン」→「うどん」",
+    "question_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>は、<ruby>熱い<rt>あつい</rt></ruby>うどん【　　】。",
+    "sentence_jp_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>は、<ruby>熱い<rt>あつい</rt></ruby>うどんに<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 692,
@@ -14531,7 +15912,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>には<ruby>寝て<rt>ねて</rt></ruby>いる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>には<ruby>寝て<rt>ねて</rt></ruby>いるに<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 693,
@@ -14552,7 +15935,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>いっても<ruby>我が家<rt>わがや</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>いっても<ruby>我が家<rt>わがや</rt></ruby>に<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 694,
@@ -14573,7 +15958,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に限る",
-    "notes": "飲料「ビール」→「アイスティー」"
+    "notes": "飲料「ビール」→「アイスティー」",
+    "question_ruby": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>冷たい<rt>つめたい</rt></ruby>アイスティー【　　】。",
+    "sentence_jp_ruby": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>冷たい<rt>つめたい</rt></ruby>アイスティーに<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 695,
@@ -14594,7 +15981,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>語学<rt>ごがく</rt></ruby>は<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>語学<rt>ごがく</rt></ruby>は<ruby>若い<rt>わかい</rt></ruby><ruby>時に<rt>ときに</rt></ruby><ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 696,
@@ -14615,7 +16004,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限る",
-    "notes": "都市名「大阪」→「名古屋」"
+    "notes": "都市名「大阪」→「名古屋」",
+    "question_ruby": "たこ<ruby>焼き<rt>やき</rt></ruby>はやっぱり<ruby>名古屋<rt>なごや</rt></ruby>【　　】ね。",
+    "sentence_jp_ruby": "たこ<ruby>焼き<rt>やき</rt></ruby>はやっぱり<ruby>名古屋<rt>なごや</rt></ruby>に<ruby>限る<rt>かぎる</rt></ruby>ね。"
   },
   {
     "id": 697,
@@ -14636,7 +16027,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "限る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>は、<ruby>温かい<rt>あたたかい</rt></ruby>うどんに【　　】。",
+    "sentence_jp_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>は、<ruby>温かい<rt>あたたかい</rt></ruby>うどんに<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 698,
@@ -14657,7 +16050,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限る",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引い<rt>ひい</rt></ruby>たときは、<ruby>薬<rt>くすり</rt></ruby>など<ruby>飲む<rt>のむ</rt></ruby>よりゆっくり<ruby>寝る<rt>ねる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引い<rt>ひい</rt></ruby>たときは、<ruby>薬<rt>くすり</rt></ruby>など<ruby>飲む<rt>のむ</rt></ruby>よりゆっくり<ruby>寝る<rt>ねる</rt></ruby>に<ruby>限る<rt>かぎる</rt></ruby>。"
   },
   {
     "id": 699,
@@ -14678,7 +16073,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限って",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "うちの<ruby>息子<rt>むすこ</rt></ruby>【　　】、<ruby>人<rt>にん</rt></ruby>をいじめるようなことはしません。",
+    "sentence_jp_ruby": "うちの<ruby>息子<rt>むすこ</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て、<ruby>人<rt>にん</rt></ruby>をいじめるようなことはしません。"
   },
   {
     "id": 700,
@@ -14699,7 +16096,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に限って",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>学校<rt>がっこう</rt></ruby>に<ruby>休ん<rt>やすん</rt></ruby>だ<ruby>日<rt>にち</rt></ruby>【　　】、テストがある。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>学校<rt>がっこう</rt></ruby>に<ruby>休ん<rt>やすん</rt></ruby>だ<ruby>日<rt>にち</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て、テストがある。"
   },
   {
     "id": 701,
@@ -14720,7 +16119,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に限って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙しい<rt>いそがしい</rt></ruby><ruby>日<rt>にち</rt></ruby>【　　】、なぜかシステムトラブルが<ruby>発生<rt>はっせい</rt></ruby>する。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙しい<rt>いそがしい</rt></ruby><ruby>日<rt>にち</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て、なぜかシステムトラブルが<ruby>発生<rt>はっせい</rt></ruby>する。"
   },
   {
     "id": 702,
@@ -14741,7 +16142,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限って",
-    "notes": "山名「富士山」→「筑波山」"
+    "notes": "山名「富士山」→「筑波山」",
+    "question_ruby": "ここから<ruby>筑波山<rt>つくばさん</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>るそうだけど、<ruby>今日<rt>きょう</rt></ruby>【　　】<ruby>雲<rt>くも</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ね。",
+    "sentence_jp_ruby": "ここから<ruby>筑波山<rt>つくばさん</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>るそうだけど、<ruby>今日<rt>きょう</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て<ruby>雲<rt>くも</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ね。"
   },
   {
     "id": 703,
@@ -14762,7 +16165,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限って",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、いつも<ruby>家<rt>いえ</rt></ruby>にいるのに、<ruby>今日<rt>きょう</rt></ruby>【　　】<ruby>留守<rt>るす</rt></ruby>でした。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、いつも<ruby>家<rt>いえ</rt></ruby>にいるのに、<ruby>今日<rt>きょう</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て<ruby>留守<rt>るす</rt></ruby>でした。"
   },
   {
     "id": 704,
@@ -14783,7 +16188,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に限って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見た<rt>みた</rt></ruby>いドラマがある<ruby>日<rt>にち</rt></ruby>【　　】<ruby>残業<rt>ざんぎょう</rt></ruby>で<ruby>帰り<rt>かえり</rt></ruby>が<ruby>遅く<rt>おそく</rt></ruby>なってしまう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見た<rt>みた</rt></ruby>いドラマがある<ruby>日<rt>にち</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て<ruby>残業<rt>ざんぎょう</rt></ruby>で<ruby>帰り<rt>かえり</rt></ruby>が<ruby>遅く<rt>おそく</rt></ruby>なってしまう。"
   },
   {
     "id": 705,
@@ -14804,7 +16211,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に限って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>たなあ。<ruby>急い<rt>いそい</rt></ruby>でいるとき【　　】、こういう<ruby>事故<rt>じこ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るんだから。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>たなあ。<ruby>急い<rt>いそい</rt></ruby>でいるときに<ruby>限っ<rt>かぎっ</rt></ruby>て、こういう<ruby>事故<rt>じこ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るんだから。"
   },
   {
     "id": 706,
@@ -14825,7 +16234,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にかかわらず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのバスは<ruby>距離<rt>きょり</rt></ruby>【　　】、どこまで<ruby>行って<rt>いって</rt></ruby>も200<ruby>円<rt>えん</rt></ruby>だ。",
+    "sentence_jp_ruby": "そのバスは<ruby>距離<rt>きょり</rt></ruby>にかかわらず、どこまで<ruby>行って<rt>いって</rt></ruby>も200<ruby>円<rt>えん</rt></ruby>だ。"
   },
   {
     "id": 707,
@@ -14846,7 +16257,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかかわらず",
-    "notes": "製品名「iPhone」→「スマートフォン」"
+    "notes": "製品名「iPhone」→「スマートフォン」",
+    "question_ruby": "<ruby>値段<rt>ねだん</rt></ruby>【　　】、<ruby>新しい<rt>あたらしい</rt></ruby>スマートフォンが<ruby>発売<rt>はつばい</rt></ruby>したら<ruby>買う<rt>かう</rt></ruby>つもりだ。",
+    "sentence_jp_ruby": "<ruby>値段<rt>ねだん</rt></ruby>にかかわらず、<ruby>新しい<rt>あたらしい</rt></ruby>スマートフォンが<ruby>発売<rt>はつばい</rt></ruby>したら<ruby>買う<rt>かう</rt></ruby>つもりだ。"
   },
   {
     "id": 708,
@@ -14867,7 +16280,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかかわらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>の<ruby>国際交流<rt>こくさいこうりゅう</rt></ruby>イベントに<ruby>来る<rt>くる</rt></ruby><ruby>来ない<rt>こない</rt></ruby>【　　】、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>の<ruby>国際交流<rt>こくさいこうりゅう</rt></ruby>イベントに<ruby>来る<rt>くる</rt></ruby><ruby>来ない<rt>こない</rt></ruby>にかかわらず、<ruby>連絡<rt>れんらく</rt></ruby>してください。"
   },
   {
     "id": 709,
@@ -14888,7 +16303,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に関わらず",
-    "notes": "金額「3,000円」→「4,000円」"
+    "notes": "金額「3,000円」→「4,000円」",
+    "question_ruby": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲む<rt>のむ</rt></ruby><ruby>飲ま<rt>のま</rt></ruby>ない【　　】、<ruby>飲み会<rt>のみかい</rt></ruby>の<ruby>参加費<rt>さんかひ</rt></ruby>は4,000<ruby>円<rt>えん</rt></ruby>です。",
+    "sentence_jp_ruby": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲む<rt>のむ</rt></ruby><ruby>飲ま<rt>のま</rt></ruby>ないに<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>飲み会<rt>のみかい</rt></ruby>の<ruby>参加費<rt>さんかひ</rt></ruby>は4,000<ruby>円<rt>えん</rt></ruby>です。"
   },
   {
     "id": 710,
@@ -14909,7 +16326,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に関わらず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>好き<rt>すき</rt></ruby><ruby>嫌い<rt>きらい</rt></ruby>【　　】、<ruby>家族<rt>かぞく</rt></ruby>のためにその<ruby>仕事<rt>しごと</rt></ruby>は<ruby>必ず<rt>かならず</rt></ruby>しなければならない。",
+    "sentence_jp_ruby": "<ruby>好き<rt>すき</rt></ruby><ruby>嫌い<rt>きらい</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>家族<rt>かぞく</rt></ruby>のためにその<ruby>仕事<rt>しごと</rt></ruby>は<ruby>必ず<rt>かならず</rt></ruby>しなければならない。"
   },
   {
     "id": 711,
@@ -14930,7 +16349,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、テストの<ruby>点数<rt>てんすう</rt></ruby>【　　】、<ruby>間違え<rt>まちがえ</rt></ruby>たところは<ruby>復習<rt>ふくしゅう</rt></ruby>するようにしてください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、テストの<ruby>点数<rt>てんすう</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>間違え<rt>まちがえ</rt></ruby>たところは<ruby>復習<rt>ふくしゅう</rt></ruby>するようにしてください。"
   },
   {
     "id": 712,
@@ -14951,7 +16372,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に関わらず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>振り込み<rt>ふりこみ</rt></ruby><ruby>手数料<rt>てすうりょう</rt></ruby>は、<ruby>送金<rt>そうきん</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>【　　】<ruby>無料<rt>むりょう</rt></ruby>です。",
+    "sentence_jp_ruby": "その<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>振り込み<rt>ふりこみ</rt></ruby><ruby>手数料<rt>てすうりょう</rt></ruby>は、<ruby>送金<rt>そうきん</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>らず<ruby>無料<rt>むりょう</rt></ruby>です。"
   },
   {
     "id": 713,
@@ -14972,7 +16395,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に関わる",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>はマスコミ【　　】<ruby>仕事<rt>しごと</rt></ruby>をしている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>息子<rt>むすこ</rt></ruby>はマスコミに<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている。"
   },
   {
     "id": 714,
@@ -14993,7 +16418,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に関わる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>命<rt>いのち</rt></ruby>【　　】<ruby>病気<rt>びょうき</rt></ruby>ではないので、<ruby>安心し<rt>あんしんし</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>命<rt>いのち</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>病気<rt>びょうき</rt></ruby>ではないので、<ruby>安心し<rt>あんしんし</rt></ruby>てください。"
   },
   {
     "id": 715,
@@ -15014,7 +16441,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に関わる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>【　　】<ruby>仕事<rt>しごと</rt></ruby>をしているのでコメントできない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしているのでコメントできない。"
   },
   {
     "id": 716,
@@ -15035,7 +16464,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に関わって",
-    "notes": "送り仮名修正「関って」→「関わって」"
+    "notes": "送り仮名修正「関って」→「関わって」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>汚職<rt>おしょく</rt></ruby><ruby>事件<rt>じけん</rt></ruby>【　　】<ruby>逮捕<rt>たいほ</rt></ruby>された。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>汚職<rt>おしょく</rt></ruby><ruby>事件<rt>じけん</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>って<ruby>逮捕<rt>たいほ</rt></ruby>された。"
   },
   {
     "id": 717,
@@ -15056,7 +16487,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に関わる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>質<rt>しつ</rt></ruby>が<ruby>低い<rt>ひくい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>たら<ruby>店<rt>みせ</rt></ruby>の<ruby>評判<rt>ひょうばん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>質<rt>しつ</rt></ruby>が<ruby>低い<rt>ひくい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>たら<ruby>店<rt>みせ</rt></ruby>の<ruby>評判<rt>ひょうばん</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>る。"
   },
   {
     "id": 718,
@@ -15077,7 +16510,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に関わる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>は<ruby>飲み<rt>のみ</rt></ruby>すぎると、<ruby>命<rt>いのち</rt></ruby>【　　】こともある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>は<ruby>飲み<rt>のみ</rt></ruby>すぎると、<ruby>命<rt>いのち</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>ることもある。"
   },
   {
     "id": 719,
@@ -15098,7 +16533,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に関わる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>国<rt>くに</rt></ruby>⺠の<ruby>生活<rt>せいかつ</rt></ruby>【　　】<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>だから、<ruby>早く<rt>はやく</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>しなければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>国<rt>くに</rt></ruby>⺠の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>だから、<ruby>早く<rt>はやく</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>しなければならない。"
   },
   {
     "id": 720,
@@ -15119,7 +16556,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に決まっている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したから、<ruby>絶対<rt>ぜったい</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したから、<ruby>絶対<rt>ぜったい</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>するに<ruby>決ま<rt>きま</rt></ruby>っている。"
   },
   {
     "id": 721,
@@ -15140,7 +16579,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に決まっている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>値段<rt>ねだん</rt></ruby>なら、<ruby>質<rt>しつ</rt></ruby>がいいほうがたくさん<ruby>売れ<rt>うれ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>値段<rt>ねだん</rt></ruby>なら、<ruby>質<rt>しつ</rt></ruby>がいいほうがたくさん<ruby>売れ<rt>うれ</rt></ruby>るに<ruby>決ま<rt>きま</rt></ruby>っている。"
   },
   {
     "id": 722,
@@ -15161,7 +16602,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に決まっている",
-    "notes": "助詞自然化「親に」→「親から」"
+    "notes": "助詞自然化「親に」→「親から」",
+    "question_ruby": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>するなんて、<ruby>親か<rt>したしか</rt></ruby>ら<ruby>反対<rt>はんたい</rt></ruby>される【　　】。",
+    "sentence_jp_ruby": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>するなんて、<ruby>親か<rt>したしか</rt></ruby>ら<ruby>反対<rt>はんたい</rt></ruby>されるに<ruby>決ま<rt>きま</rt></ruby>っている。"
   },
   {
     "id": 723,
@@ -15182,7 +16625,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に決まっている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>暗い<rt>くらい</rt></ruby>ところで<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>ら<ruby>目に<rt>めに</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>暗い<rt>くらい</rt></ruby>ところで<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>ら<ruby>目に<rt>めに</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なるに<ruby>決ま<rt>きま</rt></ruby>っている。"
   },
   {
     "id": 724,
@@ -15203,7 +16648,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に決まっている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>にそんなお<ruby>菓子<rt>かし</rt></ruby>を<ruby>見せ<rt>みせ</rt></ruby>たらほしがる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>にそんなお<ruby>菓子<rt>かし</rt></ruby>を<ruby>見せ<rt>みせ</rt></ruby>たらほしがるに<ruby>決ま<rt>きま</rt></ruby>っている。"
   },
   {
     "id": 725,
@@ -15224,7 +16671,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に決まっていますよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>今まで<rt>いままで</rt></ruby><ruby>誰<rt>だれ</rt></ruby>にも<ruby>負け<rt>まけ</rt></ruby>たことがないから、<ruby>優勝<rt>ゆうしょう</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>今まで<rt>いままで</rt></ruby><ruby>誰<rt>だれ</rt></ruby>にも<ruby>負け<rt>まけ</rt></ruby>たことがないから、<ruby>優勝<rt>ゆうしょう</rt></ruby>するに<ruby>決ま<rt>きま</rt></ruby>っていますよ。"
   },
   {
     "id": 726,
@@ -15245,7 +16694,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に決まっているよ",
-    "notes": "時相「昨晩」→「先日の夜」"
+    "notes": "時相「昨晩」→「先日の夜」",
+    "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>3<ruby>時<rt>とき</rt></ruby>までお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいたの?それじゃ、<ruby>朝起き<rt>あさおき</rt></ruby>られない【　　】。",
+    "sentence_jp_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>3<ruby>時<rt>とき</rt></ruby>までお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>でいたの?それじゃ、<ruby>朝起き<rt>あさおき</rt></ruby>られないに<ruby>決ま<rt>きま</rt></ruby>っているよ。"
   },
   {
     "id": 727,
@@ -15266,7 +16717,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そうする【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そうするに<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 728,
@@ -15287,7 +16740,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>るかわからないから、<ruby>試験<rt>しけん</rt></ruby>のときは、<ruby>早く<rt>はやく</rt></ruby><ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>るかわからないから、<ruby>試験<rt>しけん</rt></ruby>のときは、<ruby>早く<rt>はやく</rt></ruby><ruby>行く<rt>いく</rt></ruby>に<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 729,
@@ -15308,7 +16763,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なくいい<ruby>質<rt>しつ</rt></ruby>のものを<ruby>買い<rt>かい</rt></ruby>たいが、<ruby>安く<rt>やすく</rt></ruby><ruby>買え<rt>かえ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なくいい<ruby>質<rt>しつ</rt></ruby>のものを<ruby>買い<rt>かい</rt></ruby>たいが、<ruby>安く<rt>やすく</rt></ruby><ruby>買え<rt>かえ</rt></ruby>るに<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 730,
@@ -15329,7 +16786,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>業種<rt>ぎょうしゅ</rt></ruby>をするなら、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>同じ<rt>おなじ</rt></ruby><ruby>業種<rt>ぎょうしゅ</rt></ruby>をするなら、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>に<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 731,
@@ -15350,7 +16809,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>当日<rt>とうじつ</rt></ruby>はレストランに<ruby>行って<rt>いって</rt></ruby>も<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>けど、<ruby>念のため<rt>ねんのため</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>しておく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>当日<rt>とうじつ</rt></ruby>はレストランに<ruby>行って<rt>いって</rt></ruby>も<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>けど、<ruby>念のため<rt>ねんのため</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>しておくに<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 732,
@@ -15371,7 +16832,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>がいつ<ruby>起こ<rt>おこ</rt></ruby>るかわからないから、とにかく<ruby>避難<rt>ひなん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>地震<rt>じしん</rt></ruby>がいつ<ruby>起こ<rt>おこ</rt></ruby>るかわからないから、とにかく<ruby>避難<rt>ひなん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておくに<ruby>越し<rt>こし</rt></ruby>たことはない。"
   },
   {
     "id": 733,
@@ -15392,7 +16855,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に越したことはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何も<rt>なにも</rt></ruby>ない【　　】けど、<ruby>念のため<rt>ねんのため</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときは<ruby>必ず<rt>かならず</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>に<ruby>入り<rt>いり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何も<rt>なにも</rt></ruby>ないに<ruby>越し<rt>こし</rt></ruby>たことはないけど、<ruby>念のため<rt>ねんのため</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときは<ruby>必ず<rt>かならず</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>に<ruby>入り<rt>いり</rt></ruby>ます。"
   },
   {
     "id": 734,
@@ -15413,7 +16878,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に越したことはないよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>するなら、<ruby>海外<rt>かいがい</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>はある【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>するなら、<ruby>海外<rt>かいがい</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>はあるに<ruby>越し<rt>こし</rt></ruby>たことはないよ。"
   },
   {
     "id": 735,
@@ -15434,7 +16901,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にこたえて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>学生<rt>がくせい</rt></ruby>たちの<ruby>要望<rt>ようぼう</rt></ruby>【　　】、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>利用時間<rt>りようじかん</rt></ruby>を<ruby>延ば<rt>のば</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>学生<rt>がくせい</rt></ruby>たちの<ruby>要望<rt>ようぼう</rt></ruby>にこたえて、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>利用時間<rt>りようじかん</rt></ruby>を<ruby>延ば<rt>のば</rt></ruby>した。"
   },
   {
     "id": 736,
@@ -15455,7 +16924,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にこたえて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>【　　】、<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>を<ruby>延<rt>えん</rt></ruby>⻑することいたしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>にこたえて、<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>を<ruby>延<rt>えん</rt></ruby>⻑することいたしました。"
   },
   {
     "id": 737,
@@ -15476,7 +16947,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にこたえて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、クライアントの<ruby>要望<rt>ようぼう</rt></ruby>【　　】、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>いたしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、クライアントの<ruby>要望<rt>ようぼう</rt></ruby>にこたえて、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>いたしました。"
   },
   {
     "id": 738,
@@ -15497,7 +16970,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にこたえる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>のファンの<ruby>声援<rt>せいえん</rt></ruby>【　　】<ruby>完璧<rt>かんぺき</rt></ruby>なプレーをし<ruby>遂げ<rt>とげ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>多く<rt>おおく</rt></ruby>のファンの<ruby>声援<rt>せいえん</rt></ruby>にこたえる<ruby>完璧<rt>かんぺき</rt></ruby>なプレーをし<ruby>遂げ<rt>とげ</rt></ruby>た。"
   },
   {
     "id": 739,
@@ -15518,7 +16993,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にこたえる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>我が社<rt>わがしゃ</rt></ruby>では<ruby>消費者<rt>しょうひしゃ</rt></ruby>のニーズ【　　】<ruby>新しい<rt>あたらしい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>を<ruby>開発中<rt>かいはつちゅう</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>我が社<rt>わがしゃ</rt></ruby>では<ruby>消費者<rt>しょうひしゃ</rt></ruby>のニーズにこたえる<ruby>新しい<rt>あたらしい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>を<ruby>開発中<rt>かいはつちゅう</rt></ruby>です。"
   },
   {
     "id": 740,
@@ -15539,7 +17016,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にこたえて",
-    "notes": "国名「イギリス」→「オーストラリア」"
+    "notes": "国名「イギリス」→「オーストラリア」",
+    "question_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>【　　】、<ruby>私<rt>わたし</rt></ruby>はオーストラリアに<ruby>留学<rt>りゅうがく</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>にこたえて、<ruby>私<rt>わたし</rt></ruby>はオーストラリアに<ruby>留学<rt>りゅうがく</rt></ruby>した。"
   },
   {
     "id": 741,
@@ -15560,7 +17039,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にこたえて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>市<rt>し</rt></ruby>⺠の<ruby>希望<rt>きぼう</rt></ruby>【　　】、あそこに<ruby>公園<rt>こうえん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ことになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>市<rt>し</rt></ruby>⺠の<ruby>希望<rt>きぼう</rt></ruby>にこたえて、あそこに<ruby>公園<rt>こうえん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ことになった。"
   },
   {
     "id": 742,
@@ -15581,7 +17062,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にこたえて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>要求<rt>ようきゅう</rt></ruby>【　　】、<ruby>労働時間<rt>ろうどうじかん</rt></ruby>を<ruby>短縮<rt>たんしゅく</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>要求<rt>ようきゅう</rt></ruby>にこたえて、<ruby>労働時間<rt>ろうどうじかん</rt></ruby>を<ruby>短縮<rt>たんしゅく</rt></ruby>した。"
   },
   {
     "id": 743,
@@ -15602,7 +17085,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に加えて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、のどの<ruby>痛み<rt>いたみ</rt></ruby>【　　】、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>きたので<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>しかない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、のどの<ruby>痛み<rt>いたみ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>きたので<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>しかない。"
   },
   {
     "id": 744,
@@ -15623,7 +17108,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に加えて",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>週末<rt>しゅうまつ</rt></ruby>にアルバイト【　　】、ボランティア<ruby>活動<rt>かつどう</rt></ruby>もしている。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>週末<rt>しゅうまつ</rt></ruby>にアルバイトに<ruby>加え<rt>くわえ</rt></ruby>て、ボランティア<ruby>活動<rt>かつどう</rt></ruby>もしている。"
   },
   {
     "id": 745,
@@ -15644,7 +17131,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に加えて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今学期<rt>こんがっき</rt></ruby>から<ruby>初級<rt>しょきゅう</rt></ruby>クラス【　　】、<ruby>中級<rt>ちゅうきゅう</rt></ruby>クラスでも<ruby>教え<rt>おしえ</rt></ruby>るようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今学期<rt>こんがっき</rt></ruby>から<ruby>初級<rt>しょきゅう</rt></ruby>クラスに<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>中級<rt>ちゅうきゅう</rt></ruby>クラスでも<ruby>教え<rt>おしえ</rt></ruby>るようになった。"
   },
   {
     "id": 746,
@@ -15665,7 +17154,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に加えて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>母<rt>はは</rt></ruby>は<ruby>高血圧<rt>こうけつあつ</rt></ruby>【　　】、<ruby>心臓<rt>しんぞう</rt></ruby>もあまり<ruby>良く<rt>よく</rt></ruby>ないので<ruby>心配<rt>しんぱい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>母<rt>はは</rt></ruby>は<ruby>高血圧<rt>こうけつあつ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>心臓<rt>しんぞう</rt></ruby>もあまり<ruby>良く<rt>よく</rt></ruby>ないので<ruby>心配<rt>しんぱい</rt></ruby>だ。"
   },
   {
     "id": 747,
@@ -15686,7 +17177,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に加えて",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>【　　】、<ruby>保育<rt>ほいく</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>も<ruby>持っ<rt>もっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>保育<rt>ほいく</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>も<ruby>持っ<rt>もっ</rt></ruby>ている。"
   },
   {
     "id": 748,
@@ -15707,7 +17200,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に加えて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>のローン【　　】、<ruby>子供<rt>こども</rt></ruby>の<ruby>学費<rt>がくひ</rt></ruby>も<ruby>払わ<rt>はらわ</rt></ruby>なければならないので<ruby>大変<rt>たいへん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>のローンに<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>子供<rt>こども</rt></ruby>の<ruby>学費<rt>がくひ</rt></ruby>も<ruby>払わ<rt>はらわ</rt></ruby>なければならないので<ruby>大変<rt>たいへん</rt></ruby>だ。"
   },
   {
     "id": 749,
@@ -15728,7 +17223,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に加えて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>学校<rt>がっこう</rt></ruby>では<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>【　　】、<ruby>文化<rt>ぶんか</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>にん</rt></ruby>との<ruby>交流<rt>こうりゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>も<ruby>積極的に<rt>せっきょくてきに</rt></ruby><ruby>行って<rt>いって</rt></ruby>いる。",
+    "sentence_jp_ruby": "その<ruby>学校<rt>がっこう</rt></ruby>では<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>文化<rt>ぶんか</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>にん</rt></ruby>との<ruby>交流<rt>こうりゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>も<ruby>積極的に<rt>せっきょくてきに</rt></ruby><ruby>行って<rt>いって</rt></ruby>いる。"
   },
   {
     "id": 750,
@@ -15749,7 +17246,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に基づいて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>実際に<rt>じっさいに</rt></ruby>あったこと【　　】<ruby>書か<rt>かか</rt></ruby>れたそうです。",
+    "sentence_jp_ruby": "その<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>実際に<rt>じっさいに</rt></ruby>あったことに<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>書か<rt>かか</rt></ruby>れたそうです。"
   },
   {
     "id": 751,
@@ -15770,7 +17269,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に基づいて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>【　　】<ruby>君<rt>くん</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
+    "sentence_jp_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>君<rt>くん</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。"
   },
   {
     "id": 752,
@@ -15791,7 +17292,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に基づいて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>集め<rt>あつめ</rt></ruby>た<ruby>資料<rt>しりょう</rt></ruby>【　　】、<ruby>卒業<rt>そつぎょう</rt></ruby>の<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>書き<rt>かき</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>集め<rt>あつめ</rt></ruby>た<ruby>資料<rt>しりょう</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて、<ruby>卒業<rt>そつぎょう</rt></ruby>の<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>書き<rt>かき</rt></ruby>ました。"
   },
   {
     "id": 753,
@@ -15812,7 +17315,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に基づいて",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは⻑<ruby>年<rt>ねん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>【　　】づき<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>を<ruby>教育<rt>きょういく</rt></ruby>する。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは⻑<ruby>年<rt>ねん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>き<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>を<ruby>教育<rt>きょういく</rt></ruby>する。"
   },
   {
     "id": 754,
@@ -15833,7 +17338,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に基づいて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>公務員<rt>こうむいん</rt></ruby>の<ruby>給与<rt>きゅうよ</rt></ruby>は、<ruby>法律<rt>ほうりつ</rt></ruby>【　　】<ruby>決め<rt>きめ</rt></ruby>られています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>公務員<rt>こうむいん</rt></ruby>の<ruby>給与<rt>きゅうよ</rt></ruby>は、<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>決め<rt>きめ</rt></ruby>られています。"
   },
   {
     "id": 755,
@@ -15854,7 +17361,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に基づいて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、アンケート<ruby>結果<rt>けっか</rt></ruby>【　　】、<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>方向性<rt>ほうこうせい</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るつもりだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、アンケート<ruby>結果<rt>けっか</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて、<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>方向性<rt>ほうこうせい</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>るつもりだ。"
   },
   {
     "id": 756,
@@ -15875,7 +17384,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に基づいて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>皆様<rt>みなさま</rt></ruby>からのご<ruby>意見<rt>いけん</rt></ruby>【　　】<ruby>構成<rt>こうせい</rt></ruby>されています。",
+    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>皆様<rt>みなさま</rt></ruby>からのご<ruby>意見<rt>いけん</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>構成<rt>こうせい</rt></ruby>されています。"
   },
   {
     "id": 757,
@@ -15896,7 +17407,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に向かって",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>【　　】<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言わ<rt>いわ</rt></ruby>ないでください。",
+    "sentence_jp_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>って<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言わ<rt>いわ</rt></ruby>ないでください。"
   },
   {
     "id": 758,
@@ -15917,7 +17430,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に向かって",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>どこ【　　】いますか?",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>どこに<ruby>向か<rt>むか</rt></ruby>っていますか?"
   },
   {
     "id": 759,
@@ -15938,7 +17453,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に向かって",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>【　　】います。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>っています。"
   },
   {
     "id": 760,
@@ -15959,7 +17476,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に向かって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>たちは<ruby>黑<rt>くろ</rt></ruby><ruby>板<rt>いた</rt></ruby>【　　】<ruby>座っ<rt>すわっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>たちは<ruby>黑<rt>くろ</rt></ruby><ruby>板<rt>いた</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>って<ruby>座っ<rt>すわっ</rt></ruby>ている。"
   },
   {
     "id": 761,
@@ -15980,7 +17499,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に向かって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>選手<rt>せんしゅ</rt></ruby>はゴール【　　】<ruby>全速力<rt>ぜんそくりょく</rt></ruby>で<ruby>走っ<rt>はしっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>選手<rt>せんしゅ</rt></ruby>はゴールに<ruby>向か<rt>むか</rt></ruby>って<ruby>全速力<rt>ぜんそくりょく</rt></ruby>で<ruby>走っ<rt>はしっ</rt></ruby>ている。"
   },
   {
     "id": 762,
@@ -16001,7 +17522,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に向かって",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>夢<rt>ゆめ</rt></ruby>【　　】<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>努力<rt>どりょく</rt></ruby>をしたいです。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>夢<rt>ゆめ</rt></ruby>に<ruby>向か<rt>むか</rt></ruby>って<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>努力<rt>どりょく</rt></ruby>をしたいです。"
   },
   {
     "id": 763,
@@ -16022,7 +17545,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に向かって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、2<ruby>人<rt>にん</rt></ruby>の<ruby>少女<rt>しょうじょ</rt></ruby>はカメラ【　　】<ruby>微笑み<rt>ほほえみ</rt></ruby>ながら<ruby>立っ<rt>たっ</rt></ruby>ていた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、2<ruby>人<rt>にん</rt></ruby>の<ruby>少女<rt>しょうじょ</rt></ruby>はカメラに<ruby>向か<rt>むか</rt></ruby>って<ruby>微笑み<rt>ほほえみ</rt></ruby>ながら<ruby>立っ<rt>たっ</rt></ruby>ていた。"
   },
   {
     "id": 764,
@@ -16043,7 +17568,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に応じて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>学校<rt>がっこう</rt></ruby>は<ruby>生徒<rt>せいと</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>のレベル【　　】、クラスを<ruby>分け<rt>わけ</rt></ruby>ます。",
+    "sentence_jp_ruby": "その<ruby>学校<rt>がっこう</rt></ruby>は<ruby>生徒<rt>せいと</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>のレベルに<ruby>応じ<rt>おうじ</rt></ruby>て、クラスを<ruby>分け<rt>わけ</rt></ruby>ます。"
   },
   {
     "id": 765,
@@ -16064,7 +17591,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に応じて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家具<rt>かぐ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>の<ruby>広さ<rt>ひろさ</rt></ruby>【　　】<ruby>決め<rt>きめ</rt></ruby>たほうがいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家具<rt>かぐ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>の<ruby>広さ<rt>ひろさ</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>たほうがいい。"
   },
   {
     "id": 766,
@@ -16085,7 +17614,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に応じて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>店<rt>みせ</rt></ruby>は<ruby>季節<rt>きせつ</rt></ruby>【　　】メニューが<ruby>異なる<rt>ことなる</rt></ruby>からおもしろい。",
+    "sentence_jp_ruby": "その<ruby>店<rt>みせ</rt></ruby>は<ruby>季節<rt>きせつ</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>てメニューが<ruby>異なる<rt>ことなる</rt></ruby>からおもしろい。"
   },
   {
     "id": 767,
@@ -16106,7 +17637,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に応じて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのテープルは、<ruby>人数<rt>にんずう</rt></ruby>【　　】、<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ることもできるんです。",
+    "sentence_jp_ruby": "そのテープルは、<ruby>人数<rt>にんずう</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て、<ruby>大きさ<rt>おおきさ</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ることもできるんです。"
   },
   {
     "id": 768,
@@ -16127,7 +17660,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に応じて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>では、<ruby>学生<rt>がくせい</rt></ruby>の<ruby>興味<rt>きょうみ</rt></ruby>【　　】、<ruby>好き<rt>すき</rt></ruby>な<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>ことができる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>では、<ruby>学生<rt>がくせい</rt></ruby>の<ruby>興味<rt>きょうみ</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て、<ruby>好き<rt>すき</rt></ruby>な<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>ことができる。"
   },
   {
     "id": 769,
@@ -16148,7 +17683,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に応じて",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たら、あの<ruby>時に<rt>ときに</rt></ruby>いる<ruby>場所<rt>ばしょ</rt></ruby>【　　】、<ruby>避難<rt>ひなん</rt></ruby>の<ruby>仕方<rt>しかた</rt></ruby>は<ruby>変わ<rt>かわ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>地震<rt>じしん</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たら、あの<ruby>時に<rt>ときに</rt></ruby>いる<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て、<ruby>避難<rt>ひなん</rt></ruby>の<ruby>仕方<rt>しかた</rt></ruby>は<ruby>変わ<rt>かわ</rt></ruby>る。"
   },
   {
     "id": 770,
@@ -16169,7 +17706,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に応じ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>経験<rt>けいけん</rt></ruby>【　　】、<ruby>決め<rt>きめ</rt></ruby>させていただきます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>経験<rt>けいけん</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>、<ruby>決め<rt>きめ</rt></ruby>させていただきます。"
   },
   {
     "id": 771,
@@ -16190,7 +17729,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に応じて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>当<rt>とう</rt></ruby>ホテルではお<ruby>客様<rt>きゃくさま</rt></ruby><ruby>一人一人<rt>ひとりひとり</rt></ruby>のニーズ【　　】、サービスを<ruby>提供<rt>ていきょう</rt></ruby>いたします。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>当<rt>とう</rt></ruby>ホテルではお<ruby>客様<rt>きゃくさま</rt></ruby><ruby>一人一人<rt>ひとりひとり</rt></ruby>のニーズに<ruby>応じ<rt>おうじ</rt></ruby>て、サービスを<ruby>提供<rt>ていきょう</rt></ruby>いたします。"
   },
   {
     "id": 772,
@@ -16211,7 +17752,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>【　　】は、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>なければならない。"
   },
   {
     "id": 773,
@@ -16232,7 +17775,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>【　　】、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>て、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>てください。"
   },
   {
     "id": 774,
@@ -16253,7 +17798,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>申し込み<rt>もうしこみ</rt></ruby>【　　】は、<ruby>履歴書<rt>りれきしょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>となります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>申し込み<rt>もうしこみ</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>履歴書<rt>りれきしょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>となります。"
   },
   {
     "id": 775,
@@ -16274,7 +17821,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>のご<ruby>利用<rt>りよう</rt></ruby>【　　】は、<ruby>以下の<rt>いかの</rt></ruby><ruby>点<rt>てん</rt></ruby>にご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>のご<ruby>利用<rt>りよう</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>以下の<rt>いかの</rt></ruby><ruby>点<rt>てん</rt></ruby>にご<ruby>注意<rt>ちゅうい</rt></ruby>ください。"
   },
   {
     "id": 776,
@@ -16295,7 +17844,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby><ruby>選び<rt>えらび</rt></ruby>【　　】はベネフィッツも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby><ruby>選び<rt>えらび</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>てはベネフィッツも<ruby>重要<rt>じゅうよう</rt></ruby>だ。"
   },
   {
     "id": 777,
@@ -16316,7 +17867,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に際して",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>出発<rt>しゅっぱつ</rt></ruby>【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんはいろいろ<ruby>世話<rt>せわ</rt></ruby>をしてくれた。",
+    "sentence_jp_ruby": "<ruby>出発<rt>しゅっぱつ</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>て<ruby>鈴木<rt>すずき</rt></ruby>さんはいろいろ<ruby>世話<rt>せわ</rt></ruby>をしてくれた。"
   },
   {
     "id": 778,
@@ -16337,7 +17890,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に際して",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>面接<rt>めんせつ</rt></ruby>【　　】、しっかりと<ruby>練習<rt>れんしゅう</rt></ruby>しておいた<ruby>方が<rt>ほうが</rt></ruby>いいですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>て、しっかりと<ruby>練習<rt>れんしゅう</rt></ruby>しておいた<ruby>方が<rt>ほうが</rt></ruby>いいですよ。"
   },
   {
     "id": 779,
@@ -16358,7 +17913,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に先立って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>【　　】、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ておかなければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ておかなければならない。"
   },
   {
     "id": 780,
@@ -16379,7 +17936,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に先立ち",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>への<ruby>留学<rt>りゅうがく</rt></ruby>【　　】、パスポートの<ruby>申請<rt>しんせい</rt></ruby>をしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>への<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>先立ち<rt>さきだち</rt></ruby>、パスポートの<ruby>申請<rt>しんせい</rt></ruby>をしました。"
   },
   {
     "id": 781,
@@ -16400,7 +17959,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に先立って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>新製品<rt>しんせいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>【　　】、テレビやネットで<ruby>連日<rt>れんじつ</rt></ruby><ruby>宣伝<rt>せんでん</rt></ruby>しています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>新製品<rt>しんせいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、テレビやネットで<ruby>連日<rt>れんじつ</rt></ruby><ruby>宣伝<rt>せんでん</rt></ruby>しています。"
   },
   {
     "id": 782,
@@ -16421,7 +17982,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に先立ち",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、オリンピックの<ruby>開催<rt>かいさい</rt></ruby>【　　】、<ruby>応援<rt>おうえん</rt></ruby>グッズやチケットなどの<ruby>販売<rt>はんばい</rt></ruby>が<ruby>開始<rt>かいし</rt></ruby>された。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、オリンピックの<ruby>開催<rt>かいさい</rt></ruby>に<ruby>先立ち<rt>さきだち</rt></ruby>、<ruby>応援<rt>おうえん</rt></ruby>グッズやチケットなどの<ruby>販売<rt>はんばい</rt></ruby>が<ruby>開始<rt>かいし</rt></ruby>された。"
   },
   {
     "id": 783,
@@ -16442,7 +18005,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に先立って",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>手術<rt>しゅじゅつ</rt></ruby>をする【　　】、<ruby>医師<rt>いし</rt></ruby>は<ruby>患者<rt>かんじゃ</rt></ruby>とあの<ruby>家族<rt>かぞく</rt></ruby>に<ruby>考え<rt>かんがえ</rt></ruby>うる<ruby>全て<rt>すべて</rt></ruby>のリスクを<ruby>説明し<rt>せつめいし</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>手術<rt>しゅじゅつ</rt></ruby>をするに<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>医師<rt>いし</rt></ruby>は<ruby>患者<rt>かんじゃ</rt></ruby>とあの<ruby>家族<rt>かぞく</rt></ruby>に<ruby>考え<rt>かんがえ</rt></ruby>うる<ruby>全て<rt>すべて</rt></ruby>のリスクを<ruby>説明し<rt>せつめいし</rt></ruby>た。"
   },
   {
     "id": 784,
@@ -16463,7 +18028,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に先立って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>購入<rt>こうにゅう</rt></ruby>【　　】、<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>にいろいろなアドバイスをもらいました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>購入<rt>こうにゅう</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>にいろいろなアドバイスをもらいました。"
   },
   {
     "id": 785,
@@ -16484,7 +18051,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に先立って",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>のホームページに<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>載せ<rt>のせ</rt></ruby>る【　　】、<ruby>写真<rt>しゃしん</rt></ruby>に<ruby>写っ<rt>うつっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>に<ruby>使用許可<rt>しようきょか</rt></ruby>をもらいました。",
+    "sentence_jp_ruby": "<ruby>職場<rt>しょくば</rt></ruby>のホームページに<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>載せ<rt>のせ</rt></ruby>るに<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>写真<rt>しゃしん</rt></ruby>に<ruby>写っ<rt>うつっ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>に<ruby>使用許可<rt>しようきょか</rt></ruby>をもらいました。"
   },
   {
     "id": 786,
@@ -16505,7 +18074,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にせよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>った【　　】、しばらく<ruby>安静<rt>あんせい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下が<rt>さが</rt></ruby>ったにせよ、しばらく<ruby>安静<rt>あんせい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
   },
   {
     "id": 787,
@@ -16526,7 +18097,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にせよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>欠席<rt>けっせき</rt></ruby>する【　　】<ruby>連絡<rt>れんらく</rt></ruby>はしてください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>欠席<rt>けっせき</rt></ruby>するにせよ<ruby>連絡<rt>れんらく</rt></ruby>はしてください。"
   },
   {
     "id": 788,
@@ -16547,7 +18120,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしろ",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "<ruby>事故<rt>じこ</rt></ruby>でバイクがめちゃくちゃになったが、<ruby>何<rt>なに</rt></ruby>【　　】、<ruby>誰も<rt>だれも</rt></ruby>けがをしなくてよかった。",
+    "sentence_jp_ruby": "<ruby>事故<rt>じこ</rt></ruby>でバイクがめちゃくちゃになったが、<ruby>何<rt>なに</rt></ruby>にしろ、<ruby>誰も<rt>だれも</rt></ruby>けがをしなくてよかった。"
   },
   {
     "id": 789,
@@ -16568,7 +18143,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にせよ",
-    "notes": "数値「30分」→「40分」"
+    "notes": "数値「30分」→「40分」",
+    "question_ruby": "ここは<ruby>不便<rt>ふべん</rt></ruby>でどの<ruby>駅<rt>えき</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>【　　】、<ruby>徒歩<rt>とほ</rt></ruby>で40<ruby>分<rt>ふん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかる。",
+    "sentence_jp_ruby": "ここは<ruby>不便<rt>ふべん</rt></ruby>でどの<ruby>駅<rt>えき</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>にせよ、<ruby>徒歩<rt>とほ</rt></ruby>で40<ruby>分<rt>ふん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかる。"
   },
   {
     "id": 790,
@@ -16589,7 +18166,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にせよ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来る<rt>くる</rt></ruby>【　　】<ruby>来ない<rt>こない</rt></ruby>にせよ、<ruby>必ず<rt>かならず</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来る<rt>くる</rt></ruby>にせよ<ruby>来ない<rt>こない</rt></ruby>にせよ、<ruby>必ず<rt>かならず</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>てください。"
   },
   {
     "id": 791,
@@ -16610,7 +18189,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしろ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>のパーティーに<ruby>行く<rt>いく</rt></ruby>【　　】<ruby>行か<rt>いか</rt></ruby>ないにしろ、<ruby>連絡<rt>れんらく</rt></ruby>してくださいね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>のパーティーに<ruby>行く<rt>いく</rt></ruby>にしろ<ruby>行か<rt>いか</rt></ruby>ないにしろ、<ruby>連絡<rt>れんらく</rt></ruby>してくださいね。"
   },
   {
     "id": 792,
@@ -16631,7 +18212,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にしろ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>就職<rt>しゅうしょく</rt></ruby>する【　　】<ruby>進学<rt>しんがく</rt></ruby>するにしろ、<ruby>自分<rt>じぶん</rt></ruby>でよく<ruby>考え<rt>かんがえ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>就職<rt>しゅうしょく</rt></ruby>するにしろ<ruby>進学<rt>しんがく</rt></ruby>するにしろ、<ruby>自分<rt>じぶん</rt></ruby>でよく<ruby>考え<rt>かんがえ</rt></ruby>てください。"
   },
   {
     "id": 793,
@@ -16652,7 +18235,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしろ",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>【　　】<ruby>猫<rt>ねこ</rt></ruby>にしろ、そのマンションではペットを<ruby>飼っ<rt>かっ</rt></ruby>てはいけない<ruby>決ま<rt>きま</rt></ruby>りです。",
+    "sentence_jp_ruby": "<ruby>犬<rt>いぬ</rt></ruby>にしろ<ruby>猫<rt>ねこ</rt></ruby>にしろ、そのマンションではペットを<ruby>飼っ<rt>かっ</rt></ruby>てはいけない<ruby>決ま<rt>きま</rt></ruby>りです。"
   },
   {
     "id": 794,
@@ -16673,7 +18258,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にしろ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>る【　　】<ruby>上が<rt>あが</rt></ruby>らないにしろ、<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>上が<rt>あが</rt></ruby>るにしろ<ruby>上が<rt>あが</rt></ruby>らないにしろ、<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ます。"
   },
   {
     "id": 795,
@@ -16694,7 +18281,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしろ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>使う<rt>つかう</rt></ruby>【　　】<ruby>使わ<rt>つかわ</rt></ruby>ないにしろ、それをもらったことにはお<ruby>礼<rt>れい</rt></ruby>を<ruby>言った<rt>いった</rt></ruby><ruby>方が<rt>ほうが</rt></ruby>いいですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>使う<rt>つかう</rt></ruby>にしろ<ruby>使わ<rt>つかわ</rt></ruby>ないにしろ、それをもらったことにはお<ruby>礼<rt>れい</rt></ruby>を<ruby>言った<rt>いった</rt></ruby><ruby>方が<rt>ほうが</rt></ruby>いいですよ。"
   },
   {
     "id": 796,
@@ -16715,7 +18304,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしろ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>親<rt>おや</rt></ruby>【　　】ともだちにしろ、みんなが<ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>することを<ruby>反対<rt>はんたい</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>親<rt>おや</rt></ruby>にしろともだちにしろ、みんなが<ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>することを<ruby>反対<rt>はんたい</rt></ruby>した。"
   },
   {
     "id": 797,
@@ -16736,7 +18327,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしろ",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>引き受け<rt>ひきうけ</rt></ruby>る【　　】<ruby>引き受け<rt>ひきうけ</rt></ruby>ないにしろ、<ruby>明日<rt>あした</rt></ruby>までに<ruby>返事<rt>へんじ</rt></ruby>は<ruby>欲しい<rt>ほしい</rt></ruby>です。",
+    "sentence_jp_ruby": "あの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>引き受け<rt>ひきうけ</rt></ruby>るにしろ<ruby>引き受け<rt>ひきうけ</rt></ruby>ないにしろ、<ruby>明日<rt>あした</rt></ruby>までに<ruby>返事<rt>へんじ</rt></ruby>は<ruby>欲しい<rt>ほしい</rt></ruby>です。"
   },
   {
     "id": 798,
@@ -16757,7 +18350,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしろ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>英語<rt>えいご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>【　　】<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしろ<ruby>目的<rt>もくてき</rt></ruby>や<ruby>目標<rt>もくひょう</rt></ruby>をはっきりしないと<ruby>続け<rt>つづけ</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>英語<rt>えいご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしろ<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしろ<ruby>目的<rt>もくてき</rt></ruby>や<ruby>目標<rt>もくひょう</rt></ruby>をはっきりしないと<ruby>続け<rt>つづけ</rt></ruby>ないよ。"
   },
   {
     "id": 799,
@@ -16778,7 +18373,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすれば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなた【　　】<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>にん</rt></ruby>にはそうでもないんですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたにすれば<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>にん</rt></ruby>にはそうでもないんですよ。"
   },
   {
     "id": 800,
@@ -16799,7 +18396,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしたら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大きす<rt>おおきす</rt></ruby>ぎる<ruby>親<rt>おや</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>は、<ruby>子供<rt>こども</rt></ruby>【　　】<ruby>苦痛<rt>くつう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大きす<rt>おおきす</rt></ruby>ぎる<ruby>親<rt>おや</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>は、<ruby>子供<rt>こども</rt></ruby>にしたら<ruby>苦痛<rt>くつう</rt></ruby>だ。"
   },
   {
     "id": 801,
@@ -16820,7 +18419,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすれば",
-    "notes": "誤字修正「迷惑なっこと」→「迷惑なこと」"
+    "notes": "誤字修正「迷惑なっこと」→「迷惑なこと」",
+    "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>はかわいいが、<ruby>飼っ<rt>かっ</rt></ruby>ていない<ruby>人<rt>にん</rt></ruby>【　　】<ruby>迷惑<rt>めいわく</rt></ruby>なこともある。",
+    "sentence_jp_ruby": "<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>はかわいいが、<ruby>飼っ<rt>かっ</rt></ruby>ていない<ruby>人<rt>にん</rt></ruby>にすれば<ruby>迷惑<rt>めいわく</rt></ruby>なこともある。"
   },
   {
     "id": 802,
@@ -16841,7 +18442,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすれば",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>【　　】<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんはすごく<ruby>傷つ<rt>きずつ</rt></ruby>いている。",
+    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>にすれば<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんはすごく<ruby>傷つ<rt>きずつ</rt></ruby>いている。"
   },
   {
     "id": 803,
@@ -16862,7 +18465,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすれば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>【　　】<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にはとても<ruby>難しい<rt>むずかしい</rt></ruby>ことかもしれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>にすれば<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にはとても<ruby>難しい<rt>むずかしい</rt></ruby>ことかもしれない。"
   },
   {
     "id": 804,
@@ -16883,7 +18488,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすれば",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>【　　】、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは、かなり<ruby>心配<rt>しんぱい</rt></ruby>だったと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>にすれば、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは、かなり<ruby>心配<rt>しんぱい</rt></ruby>だったと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 805,
@@ -16904,7 +18511,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしたら",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>は<ruby>今す<rt>います</rt></ruby>ぐではなく、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>してからします。<ruby>両親<rt>りょうしん</rt></ruby>【　　】、あのほうが<ruby>安心<rt>あんしん</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>は<ruby>今す<rt>います</rt></ruby>ぐではなく、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>してからします。<ruby>両親<rt>りょうしん</rt></ruby>にしたら、あのほうが<ruby>安心<rt>あんしん</rt></ruby>でしょう。"
   },
   {
     "id": 806,
@@ -16925,7 +18534,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>行く<rt>いく</rt></ruby>【　　】<ruby>行か<rt>いか</rt></ruby>ないにしても、<ruby>早く<rt>はやく</rt></ruby><ruby>決め<rt>きめ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>行く<rt>いく</rt></ruby>にしても<ruby>行か<rt>いか</rt></ruby>ないにしても、<ruby>早く<rt>はやく</rt></ruby><ruby>決め<rt>きめ</rt></ruby>てください。"
   },
   {
     "id": 807,
@@ -16946,7 +18557,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしても",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>高い<rt>たかい</rt></ruby>【　　】ろ<ruby>安い<rt>やすい</rt></ruby>にしろ、その<ruby>教科書<rt>きょうかしょ</rt></ruby>は<ruby>買わ<rt>かわ</rt></ruby>ないといけません。",
+    "sentence_jp_ruby": "<ruby>高い<rt>たかい</rt></ruby>にしろ<ruby>安い<rt>やすい</rt></ruby>にしろ、その<ruby>教科書<rt>きょうかしょ</rt></ruby>は<ruby>買わ<rt>かわ</rt></ruby>ないといけません。"
   },
   {
     "id": 808,
@@ -16967,7 +18580,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>する【　　】、しないにしても<ruby>明日<rt>あした</rt></ruby>までに<ruby>参加<rt>さんか</rt></ruby><ruby>可否<rt>かひ</rt></ruby>を<ruby>連絡<rt>れんらく</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>するにしても、しないにしても<ruby>明日<rt>あした</rt></ruby>までに<ruby>参加<rt>さんか</rt></ruby><ruby>可否<rt>かひ</rt></ruby>を<ruby>連絡<rt>れんらく</rt></ruby>ください。"
   },
   {
     "id": 809,
@@ -16988,7 +18603,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>【　　】、<ruby>受け<rt>うけ</rt></ruby>ないにしてもしっかりと<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>にしても、<ruby>受け<rt>うけ</rt></ruby>ないにしてもしっかりと<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。"
   },
   {
     "id": 810,
@@ -17009,7 +18626,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>英語<rt>えいご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>【　　】<ruby>中国語<rt>ちゅうごくご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしても<ruby>目的<rt>もくてき</rt></ruby>や<ruby>目標<rt>もくひょう</rt></ruby>をはっきりしないと<ruby>続か<rt>つづか</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>英語<rt>えいご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしても<ruby>中国語<rt>ちゅうごくご</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>にしても<ruby>目的<rt>もくてき</rt></ruby>や<ruby>目標<rt>もくひょう</rt></ruby>をはっきりしないと<ruby>続か<rt>つづか</rt></ruby>ないよ。"
   },
   {
     "id": 811,
@@ -17030,7 +18649,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にしても",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>【　　】<ruby>猫<rt>ねこ</rt></ruby>にしてもそのマンションではペットを<ruby>飼っ<rt>かっ</rt></ruby>てはいけないことになっている。",
+    "sentence_jp_ruby": "<ruby>犬<rt>いぬ</rt></ruby>にしても<ruby>猫<rt>ねこ</rt></ruby>にしてもそのマンションではペットを<ruby>飼っ<rt>かっ</rt></ruby>てはいけないことになっている。"
   },
   {
     "id": 812,
@@ -17051,7 +18672,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby>【　　】<ruby>安い<rt>やすい</rt></ruby>にしても、<ruby>必要<rt>ひつよう</rt></ruby>なものは<ruby>買わ<rt>かわ</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>高い<rt>たかい</rt></ruby>にしても<ruby>安い<rt>やすい</rt></ruby>にしても、<ruby>必要<rt>ひつよう</rt></ruby>なものは<ruby>買わ<rt>かわ</rt></ruby>なければならない。"
   },
   {
     "id": 813,
@@ -17072,7 +18695,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>体調<rt>たいちょう</rt></ruby>がいい【　　】<ruby>良く<rt>よく</rt></ruby>ないにしても<ruby>健康診断<rt>けんこうしんだん</rt></ruby>は<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>受け<rt>うけ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>体調<rt>たいちょう</rt></ruby>がいいにしても<ruby>良く<rt>よく</rt></ruby>ないにしても<ruby>健康診断<rt>けんこうしんだん</rt></ruby>は<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>受け<rt>うけ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いい。"
   },
   {
     "id": 814,
@@ -17093,7 +18718,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に沿って",
-    "notes": "数値「1時間」→「2時間」; 乗り物「自転車」→「バイク」"
+    "notes": "数値「1時間」→「2時間」; 乗り物「自転車」→「バイク」",
+    "question_ruby": "この<ruby>坂道<rt>さかみち</rt></ruby>【　　】バイクで<ruby>行け<rt>いけ</rt></ruby>ば、2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいで<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。",
+    "sentence_jp_ruby": "この<ruby>坂道<rt>さかみち</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby>バイクで<ruby>行け<rt>いけ</rt></ruby>ば、2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいで<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。"
   },
   {
     "id": 815,
@@ -17114,7 +18741,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に沿って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>週末<rt>しゅうまつ</rt></ruby>は、<ruby>川<rt>かわ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>【　　】<ruby>二時間<rt>にじかん</rt></ruby>ほど<ruby>仲間<rt>なかま</rt></ruby>とサイクリングしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>週末<rt>しゅうまつ</rt></ruby>は、<ruby>川<rt>かわ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>二時間<rt>にじかん</rt></ruby>ほど<ruby>仲間<rt>なかま</rt></ruby>とサイクリングしました。"
   },
   {
     "id": 816,
@@ -17135,7 +18764,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に沿って",
-    "notes": "店舗「ケーキ屋」→「洋菓子店」"
+    "notes": "店舗「ケーキ屋」→「洋菓子店」",
+    "question_ruby": "この<ruby>道<rt>みち</rt></ruby>を<ruby>線路<rt>せんろ</rt></ruby>【　　】<ruby>真<rt>まこと</rt></ruby>っすぐ<ruby>行く<rt>いく</rt></ruby>と、<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>美味しい<rt>おいしい</rt></ruby><ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>があります。",
+    "sentence_jp_ruby": "この<ruby>道<rt>みち</rt></ruby>を<ruby>線路<rt>せんろ</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>真<rt>まこと</rt></ruby>っすぐ<ruby>行く<rt>いく</rt></ruby>と、<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>美味しい<rt>おいしい</rt></ruby><ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>があります。"
   },
   {
     "id": 817,
@@ -17156,7 +18787,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に沿って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>配り<rt>くばり</rt></ruby>している<ruby>資料<rt>しりょう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>【　　】、<ruby>発表<rt>はっぴょう</rt></ruby>いたします。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>配り<rt>くばり</rt></ruby>している<ruby>資料<rt>しりょう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby>、<ruby>発表<rt>はっぴょう</rt></ruby>いたします。"
   },
   {
     "id": 818,
@@ -17177,7 +18810,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に沿って",
-    "notes": "家族「祖父」→「祖母」"
+    "notes": "家族「祖父」→「祖母」",
+    "question_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>の<ruby>遺産<rt>いさん</rt></ruby>は、<ruby>遺言<rt>ゆいごん</rt></ruby>【　　】<ruby>分配<rt>ぶんぱい</rt></ruby>しました。",
+    "sentence_jp_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>の<ruby>遺産<rt>いさん</rt></ruby>は、<ruby>遺言<rt>ゆいごん</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>分配<rt>ぶんぱい</rt></ruby>しました。"
   },
   {
     "id": 819,
@@ -17198,7 +18833,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に沿って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>計画<rt>けいかく</rt></ruby>【　　】<ruby>実施<rt>じっし</rt></ruby>されているので、<ruby>問題<rt>もんだい</rt></ruby>がないと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>計画<rt>けいかく</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>実施<rt>じっし</rt></ruby>されているので、<ruby>問題<rt>もんだい</rt></ruby>がないと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 820,
@@ -17219,7 +18856,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に沿って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てくれたメモ【　　】<ruby>探し<rt>さがし</rt></ruby>たけど、<ruby>人気<rt>にんき</rt></ruby>なコーヒー<ruby>屋<rt>や</rt></ruby>が<ruby>見つ<rt>みつ</rt></ruby>けなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>書い<rt>かい</rt></ruby>てくれたメモに<ruby>沿って<rt>そって</rt></ruby><ruby>探し<rt>さがし</rt></ruby>たけど、<ruby>人気<rt>にんき</rt></ruby>なコーヒー<ruby>屋<rt>や</rt></ruby>が<ruby>見つ<rt>みつ</rt></ruby>けなかった。"
   },
   {
     "id": 821,
@@ -17240,7 +18879,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に沿った",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客様<rt>きゃくさま</rt></ruby><ruby>一人一人<rt>ひとりひとり</rt></ruby>のご<ruby>希望<rt>きぼう</rt></ruby>【　　】<ruby>旅行<rt>りょこう</rt></ruby>プランをお<ruby>作り<rt>つくり</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>客様<rt>きゃくさま</rt></ruby><ruby>一人一人<rt>ひとりひとり</rt></ruby>のご<ruby>希望<rt>きぼう</rt></ruby>に<ruby>沿っ<rt>そっ</rt></ruby>た<ruby>旅行<rt>りょこう</rt></ruby>プランをお<ruby>作り<rt>つくり</rt></ruby>します。"
   },
   {
     "id": 822,
@@ -17261,7 +18902,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に相違ない",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていたアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>のは、<ruby>息子<rt>むすこ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていたアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>のは、<ruby>息子<rt>むすこ</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 823,
@@ -17282,7 +18925,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に相違ない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>漏ら<rt>もら</rt></ruby>したのは<ruby>佐藤<rt>さとう</rt></ruby>さん【　　】。",
+    "sentence_jp_ruby": "その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>漏ら<rt>もら</rt></ruby>したのは<ruby>佐藤<rt>さとう</rt></ruby>さんに<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 824,
@@ -17303,7 +18948,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に相違ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>校<rt>こう</rt></ruby>は<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>国<rt>くに</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>がいる、<ruby>楽しい<rt>たのしい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>校<rt>こう</rt></ruby>は<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>国<rt>くに</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>がいる、<ruby>楽しい<rt>たのしい</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 825,
@@ -17324,7 +18971,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に相違ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これだけの<ruby>証拠<rt>しょうこ</rt></ruby>があるなら、<ruby>犯人<rt>はんにん</rt></ruby>はあの<ruby>男<rt>おとこ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これだけの<ruby>証拠<rt>しょうこ</rt></ruby>があるなら、<ruby>犯人<rt>はんにん</rt></ruby>はあの<ruby>男<rt>おとこ</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 826,
@@ -17345,7 +18994,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に相違ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>地域<rt>ちいき</rt></ruby>の<ruby>水<rt>みず</rt></ruby><ruby>汚染<rt>おせん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>地域<rt>ちいき</rt></ruby>の<ruby>水<rt>みず</rt></ruby><ruby>汚染<rt>おせん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 827,
@@ -17366,7 +19017,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に相違ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>絵<rt>え</rt></ruby>の<ruby>描き<rt>えがき</rt></ruby><ruby>方を<rt>ほうを</rt></ruby><ruby>見る<rt>みる</rt></ruby>と<ruby>父親<rt>ちちおや</rt></ruby>が<ruby>描い<rt>えがい</rt></ruby>たもの【　　】。",
+    "sentence_jp_ruby": "その<ruby>絵<rt>え</rt></ruby>の<ruby>描き<rt>えがき</rt></ruby><ruby>方を<rt>ほうを</rt></ruby><ruby>見る<rt>みる</rt></ruby>と<ruby>父親<rt>ちちおや</rt></ruby>が<ruby>描い<rt>えがい</rt></ruby>たものに<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 828,
@@ -17387,7 +19040,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に相違ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>調べ<rt>しらべ</rt></ruby>た<ruby>結果<rt>けっか</rt></ruby>、それはその<ruby>時代<rt>じだい</rt></ruby>に<ruby>作ら<rt>つくら</rt></ruby>れたもの【　　】。",
+    "sentence_jp_ruby": "<ruby>調べ<rt>しらべ</rt></ruby>た<ruby>結果<rt>けっか</rt></ruby>、それはその<ruby>時代<rt>じだい</rt></ruby>に<ruby>作ら<rt>つくら</rt></ruby>れたものに<ruby>相違<rt>そうい</rt></ruby>ない。"
   },
   {
     "id": 829,
@@ -17408,7 +19063,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすぎない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>単に<rt>たんに</rt></ruby><ruby>幸運<rt>こううん</rt></ruby>だった【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>単に<rt>たんに</rt></ruby><ruby>幸運<rt>こううん</rt></ruby>だったにすぎない。"
   },
   {
     "id": 830,
@@ -17429,7 +19086,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にすぎない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これはまだ<ruby>始まり<rt>はじまり</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これはまだ<ruby>始まり<rt>はじまり</rt></ruby>にすぎない。"
   },
   {
     "id": 831,
@@ -17450,7 +19109,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に過ぎない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなのは<ruby>言い訳<rt>いいわけ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなのは<ruby>言い訳<rt>いいわけ</rt></ruby>に<ruby>過ぎな<rt>すぎな</rt></ruby>い。"
   },
   {
     "id": 832,
@@ -17471,7 +19132,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にすぎない",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "それはただの<ruby>道具<rt>どうぐ</rt></ruby>【　　】。あの<ruby>道具<rt>どうぐ</rt></ruby>をどう<ruby>使う<rt>つかう</rt></ruby>かが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_jp_ruby": "それはただの<ruby>道具<rt>どうぐ</rt></ruby>にすぎない。あの<ruby>道具<rt>どうぐ</rt></ruby>をどう<ruby>使う<rt>つかう</rt></ruby>かが<ruby>大切<rt>たいせつ</rt></ruby>だ。"
   },
   {
     "id": 833,
@@ -17492,7 +19155,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に過ぎない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>で<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>といっても、ただの<ruby>風邪<rt>かぜ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>で<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>といっても、ただの<ruby>風邪<rt>かぜ</rt></ruby>に<ruby>過ぎな<rt>すぎな</rt></ruby>い。"
   },
   {
     "id": 834,
@@ -17513,7 +19178,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にすぎません",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>一社<rt>いっしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>【　　】から、<ruby>決定権<rt>けっていけん</rt></ruby>はありません。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>一社<rt>いっしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>にすぎませんから、<ruby>決定権<rt>けっていけん</rt></ruby>はありません。"
   },
   {
     "id": 835,
@@ -17534,7 +19201,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にすぎない",
-    "notes": "金額「20万円」→「25万円」"
+    "notes": "金額「20万円」→「25万円」",
+    "question_ruby": "いくら<ruby>働い<rt>はたらい</rt></ruby>ても<ruby>一ヶ月<rt>いっかげつ</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>は25<ruby>万円<rt>まんえん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "いくら<ruby>働い<rt>はたらい</rt></ruby>ても<ruby>一ヶ月<rt>いっかげつ</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>は25<ruby>万円<rt>まんえん</rt></ruby>にすぎない。"
   },
   {
     "id": 836,
@@ -17555,7 +19224,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にすぎない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>学生<rt>がくせい</rt></ruby>【　　】ので、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>余裕<rt>よゆう</rt></ruby>がない。",
+    "sentence_jp_ruby": "<ruby>学生<rt>がくせい</rt></ruby>にすぎないので、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>余裕<rt>よゆう</rt></ruby>がない。"
   },
   {
     "id": 837,
@@ -17576,7 +19247,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に伴って",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "それ【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんたちの<ruby>予定<rt>よてい</rt></ruby>は<ruby>再度<rt>さいど</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれません。",
+    "sentence_jp_ruby": "それに<ruby>伴っ<rt>ともなっ</rt></ruby>て<ruby>高橋<rt>たかはし</rt></ruby>さんたちの<ruby>予定<rt>よてい</rt></ruby>は<ruby>再度<rt>さいど</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれません。"
   },
   {
     "id": 838,
@@ -17597,7 +19270,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に伴って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>る【　　】、いろいろな<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>ってきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るに<ruby>伴っ<rt>ともなっ</rt></ruby>て、いろいろな<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>ってきた。"
   },
   {
     "id": 839,
@@ -17618,7 +19293,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に伴って",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>一昨日<rt>いっさくじつ</rt></ruby>のパーティーに<ruby>婚約者<rt>こんやくしゃ</rt></ruby>【　　】<ruby>来た<rt>きた</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>一昨日<rt>いっさくじつ</rt></ruby>のパーティーに<ruby>婚約者<rt>こんやくしゃ</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て<ruby>来た<rt>きた</rt></ruby>。"
   },
   {
     "id": 840,
@@ -17639,7 +19316,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に伴って",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>を<ruby>倒産<rt>とうさん</rt></ruby>【　　】、<ruby>多く<rt>おおく</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>失業<rt>しつぎょう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>職場<rt>しょくば</rt></ruby>を<ruby>倒産<rt>とうさん</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て、<ruby>多く<rt>おおく</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>失業<rt>しつぎょう</rt></ruby>した。"
   },
   {
     "id": 841,
@@ -17660,7 +19339,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に伴って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、インターネットの<ruby>普及<rt>ふきゅう</rt></ruby>【　　】、ネットで<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>にん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、インターネットの<ruby>普及<rt>ふきゅう</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て、ネットで<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>にん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。"
   },
   {
     "id": 842,
@@ -17681,7 +19362,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に伴って",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これ【　　】タイムスケジュールの<ruby>変更<rt>へんこう</rt></ruby>をお<ruby>願い<rt>ねがい</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これに<ruby>伴っ<rt>ともなっ</rt></ruby>てタイムスケジュールの<ruby>変更<rt>へんこう</rt></ruby>をお<ruby>願い<rt>ねがい</rt></ruby>します。"
   },
   {
     "id": 843,
@@ -17702,7 +19385,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に伴い",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機器<rt>きき</rt></ruby>の<ruby>入れ替え<rt>いれかえ</rt></ruby>【　　】、<ruby>一時的<rt>いちじてき</rt></ruby>にシステムを<ruby>停止<rt>ていし</rt></ruby>する。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>機器<rt>きき</rt></ruby>の<ruby>入れ替え<rt>いれかえ</rt></ruby>に<ruby>伴い<rt>ともない</rt></ruby>、<ruby>一時的<rt>いちじてき</rt></ruby>にシステムを<ruby>停止<rt>ていし</rt></ruby>する。"
   },
   {
     "id": 844,
@@ -17723,7 +19408,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に伴う",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>入院<rt>にゅういん</rt></ruby>【　　】<ruby>費用<rt>ひよう</rt></ruby>は、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>保険<rt>ほけん</rt></ruby>から<ruby>支払わ<rt>しはらわ</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>入院<rt>にゅういん</rt></ruby>に<ruby>伴う<rt>ともなう</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>は、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>保険<rt>ほけん</rt></ruby>から<ruby>支払わ<rt>しはらわ</rt></ruby>れた。"
   },
   {
     "id": 845,
@@ -17744,7 +19431,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に伴い",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昇進<rt>しょうしん</rt></ruby>【　　】、さまざまな<ruby>責任<rt>せきにん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昇進<rt>しょうしん</rt></ruby>に<ruby>伴い<rt>ともない</rt></ruby>、さまざまな<ruby>責任<rt>せきにん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るだろう。"
   },
   {
     "id": 846,
@@ -17765,7 +19454,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "につけ",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>【　　】、<ruby>小学校<rt>しょうがっこう</rt></ruby>のころを<ruby>思い出す<rt>おもいだす</rt></ruby>。",
+    "sentence_jp_ruby": "あの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>につけ、<ruby>小学校<rt>しょうがっこう</rt></ruby>のころを<ruby>思い出す<rt>おもいだす</rt></ruby>。"
   },
   {
     "id": 847,
@@ -17786,7 +19477,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "につけて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>環境汚染<rt>かんきょうおせん</rt></ruby>のニュースを<ruby>聞く<rt>きく</rt></ruby>【　　】、<ruby>健康<rt>けんこう</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>に<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>環境汚染<rt>かんきょうおせん</rt></ruby>のニュースを<ruby>聞く<rt>きく</rt></ruby>につけて、<ruby>健康<rt>けんこう</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>に<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る。"
   },
   {
     "id": 848,
@@ -17807,7 +19500,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "につけ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>【　　】<ruby>謝ら<rt>あやまら</rt></ruby>ないにつけ<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>許し<rt>ゆるし</rt></ruby>ませんよ。",
+    "sentence_jp_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>につけ<ruby>謝ら<rt>あやまら</rt></ruby>ないにつけ<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>許し<rt>ゆるし</rt></ruby>ませんよ。"
   },
   {
     "id": 849,
@@ -17828,7 +19523,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "につけ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>【　　】、<ruby>雪<rt>ゆき</rt></ruby>につけ、あの<ruby>人<rt>にん</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby>のジョギングを<ruby>続け<rt>つづけ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>につけ、<ruby>雪<rt>ゆき</rt></ruby>につけ、あの<ruby>人<rt>にん</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby>のジョギングを<ruby>続け<rt>つづけ</rt></ruby>る。"
   },
   {
     "id": 850,
@@ -17849,7 +19546,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "につけ",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>子供<rt>こども</rt></ruby>たちを<ruby>見る<rt>みる</rt></ruby>【　　】、その<ruby>仕事<rt>しごと</rt></ruby>をやっていて、<ruby>本当<rt>ほんとう</rt></ruby>によかったと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>子供<rt>こども</rt></ruby>たちを<ruby>見る<rt>みる</rt></ruby>につけ、その<ruby>仕事<rt>しごと</rt></ruby>をやっていて、<ruby>本当<rt>ほんとう</rt></ruby>によかったと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 851,
@@ -17870,7 +19569,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "につけて",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>【　　】、<ruby>家庭教育<rt>かていきょういく</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>につけて、<ruby>家庭教育<rt>かていきょういく</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>る。"
   },
   {
     "id": 852,
@@ -17891,7 +19592,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "につけて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>時々<rt>ときどき</rt></ruby>、<ruby>勉強<rt>べんきょう</rt></ruby>をやめたいこともあるが、<ruby>電話<rt>でんわ</rt></ruby>で<ruby>家族<rt>かぞく</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>【　　】、もっと<ruby>頑張ら<rt>がんばら</rt></ruby>なければならないと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>時々<rt>ときどき</rt></ruby>、<ruby>勉強<rt>べんきょう</rt></ruby>をやめたいこともあるが、<ruby>電話<rt>でんわ</rt></ruby>で<ruby>家族<rt>かぞく</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>につけて、もっと<ruby>頑張ら<rt>がんばら</rt></ruby>なければならないと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 853,
@@ -17912,7 +19615,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "につき",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昼休み<rt>ひるやすみ</rt></ruby>【　　】、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>とき</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>とき</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。"
   },
   {
     "id": 854,
@@ -17933,7 +19638,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "につき",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>現在<rt>げんざい</rt></ruby>、<ruby>工事中<rt>こうじちゅう</rt></ruby>【　　】、そのエリアは<ruby>通行<rt>つうこう</rt></ruby>ができません。",
+    "sentence_jp_ruby": "<ruby>現在<rt>げんざい</rt></ruby>、<ruby>工事中<rt>こうじちゅう</rt></ruby>につき、そのエリアは<ruby>通行<rt>つうこう</rt></ruby>ができません。"
   },
   {
     "id": 855,
@@ -17954,7 +19661,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "につき",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>店内<rt>てんない</rt></ruby><ruby>改装<rt>かいそう</rt></ruby>【　　】、しばらく<ruby>休業<rt>きゅうぎょう</rt></ruby>いたします。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>店内<rt>てんない</rt></ruby><ruby>改装<rt>かいそう</rt></ruby>につき、しばらく<ruby>休業<rt>きゅうぎょう</rt></ruby>いたします。"
   },
   {
     "id": 856,
@@ -17975,7 +19684,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "につき",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>冷房中<rt>れいぼうちゅう</rt></ruby>【　　】、<ruby>部屋<rt>へや</rt></ruby>に<ruby>入る<rt>いる</rt></ruby><ruby>時<rt>とき</rt></ruby>はドアを<ruby>閉め<rt>しめ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>冷房中<rt>れいぼうちゅう</rt></ruby>につき、<ruby>部屋<rt>へや</rt></ruby>に<ruby>入る<rt>いる</rt></ruby><ruby>時<rt>とき</rt></ruby>はドアを<ruby>閉め<rt>しめ</rt></ruby>てください。"
   },
   {
     "id": 857,
@@ -17996,7 +19707,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "につき",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会議中<rt>かいぎちゅう</rt></ruby>【　　】<ruby>中に<rt>なかに</rt></ruby><ruby>入っ<rt>いっっ</rt></ruby>てはいけない。ここでお<ruby>待ち<rt>まち</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会議中<rt>かいぎちゅう</rt></ruby>につき<ruby>中に<rt>なかに</rt></ruby><ruby>入っ<rt>いっっ</rt></ruby>てはいけない。ここでお<ruby>待ち<rt>まち</rt></ruby>ください。"
   },
   {
     "id": 858,
@@ -18017,7 +19730,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "につき",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>現在<rt>げんざい</rt></ruby>、その<ruby>商品<rt>しょうひん</rt></ruby>は<ruby>製造中止<rt>せいぞうちゅうし</rt></ruby>【　　】、<ruby>販売<rt>はんばい</rt></ruby>しておりません。",
+    "sentence_jp_ruby": "<ruby>現在<rt>げんざい</rt></ruby>、その<ruby>商品<rt>しょうひん</rt></ruby>は<ruby>製造中止<rt>せいぞうちゅうし</rt></ruby>につき、<ruby>販売<rt>はんばい</rt></ruby>しておりません。"
   },
   {
     "id": 859,
@@ -18038,7 +19753,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "につき",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>幼稚園<rt>ようちえん</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>10<ruby>人<rt>にん</rt></ruby>【　　】<ruby>一人<rt>ひとり</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>配置<rt>はいち</rt></ruby>されている。",
+    "sentence_jp_ruby": "その<ruby>幼稚園<rt>ようちえん</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>10<ruby>人<rt>にん</rt></ruby>につき<ruby>一人<rt>ひとり</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>配置<rt>はいち</rt></ruby>されている。"
   },
   {
     "id": 860,
@@ -18059,7 +19776,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にわたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>かず</rt></ruby>マイル【　　】まっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>かず</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。"
   },
   {
     "id": 861,
@@ -18080,7 +19799,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にわたって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>広い<rt>ひろい</rt></ruby><ruby>地域<rt>ちいき</rt></ruby>【　　】<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>広い<rt>ひろい</rt></ruby><ruby>地域<rt>ちいき</rt></ruby>にわたって<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>た。"
   },
   {
     "id": 862,
@@ -18101,7 +19822,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にわたって",
-    "notes": "期間「1週間」→「2週間」"
+    "notes": "期間「1週間」→「2週間」",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が2<ruby>週間<rt>しゅうかん</rt></ruby>【　　】<ruby>降り<rt>おり</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>が2<ruby>週間<rt>しゅうかん</rt></ruby>にわたって<ruby>降り<rt>おり</rt></ruby><ruby>続い<rt>つづい</rt></ruby>た。"
   },
   {
     "id": 863,
@@ -18122,7 +19845,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にわたって",
-    "notes": "期間「2世紀」→「半世紀」"
+    "notes": "期間「2世紀」→「半世紀」",
+    "question_ruby": "この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>半世紀<rt>はんせいき</rt></ruby>【　　】、おもちゃを<ruby>作っ<rt>つくっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>半世紀<rt>はんせいき</rt></ruby>にわたって、おもちゃを<ruby>作っ<rt>つくっ</rt></ruby>ている。"
   },
   {
     "id": 864,
@@ -18143,7 +19868,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にわたって",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>知識<rt>ちしき</rt></ruby>は<ruby>広範囲<rt>こうはんい</rt></ruby>【　　】いる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>知識<rt>ちしき</rt></ruby>は<ruby>広範囲<rt>こうはんい</rt></ruby>にわたっている。"
   },
   {
     "id": 865,
@@ -18164,7 +19891,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にわたる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、⻑<ruby>年<rt>ねん</rt></ruby>【　　】<ruby>戦争<rt>せんそう</rt></ruby>のため、あの<ruby>美しか<rt>うつくしか</rt></ruby>った<ruby>街<rt>まち</rt></ruby>はすっかり<ruby>変わ<rt>かわ</rt></ruby>ってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、⻑<ruby>年<rt>ねん</rt></ruby>にわたる<ruby>戦争<rt>せんそう</rt></ruby>のため、あの<ruby>美しか<rt>うつくしか</rt></ruby>った<ruby>街<rt>まち</rt></ruby>はすっかり<ruby>変わ<rt>かわ</rt></ruby>ってしまった。"
   },
   {
     "id": 866,
@@ -18185,7 +19914,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にわたる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>【　　】<ruby>激しい<rt>はげしい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>、ようやく<ruby>意見<rt>いけん</rt></ruby>がまとまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>激しい<rt>はげしい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>、ようやく<ruby>意見<rt>いけん</rt></ruby>がまとまった。"
   },
   {
     "id": 867,
@@ -18206,7 +19937,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にわたる",
-    "notes": "時間「90分」→「80分」"
+    "notes": "時間「90分」→「80分」",
+    "question_ruby": "<ruby>前半<rt>ぜんはん</rt></ruby>と<ruby>後半<rt>こうはん</rt></ruby>、あわせて80<ruby>分<rt>ふん</rt></ruby>【　　】<ruby>試合<rt>しあい</rt></ruby>で、<ruby>両<rt>りょう</rt></ruby>チームとも<ruby>得点<rt>とくてん</rt></ruby>があげられず、<ruby>結局<rt>けっきょく</rt></ruby><ruby>引き分け<rt>ひきわけ</rt></ruby>でした。",
+    "sentence_jp_ruby": "<ruby>前半<rt>ぜんはん</rt></ruby>と<ruby>後半<rt>こうはん</rt></ruby>、あわせて80<ruby>分<rt>ふん</rt></ruby>にわたる<ruby>試合<rt>しあい</rt></ruby>で、<ruby>両<rt>りょう</rt></ruby>チームとも<ruby>得点<rt>とくてん</rt></ruby>があげられず、<ruby>結局<rt>けっきょく</rt></ruby><ruby>引き分け<rt>ひきわけ</rt></ruby>でした。"
   },
   {
     "id": 868,
@@ -18227,7 +19960,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にも関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>【　　】、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>もいる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>もいる。"
   },
   {
     "id": 869,
@@ -18248,7 +19983,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にも関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>易しか<rt>やさしか</rt></ruby>った【　　】、<ruby>不注意<rt>ふちゅうい</rt></ruby>でミスをしてしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>易しか<rt>やさしか</rt></ruby>ったにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>不注意<rt>ふちゅうい</rt></ruby>でミスをしてしまった。"
   },
   {
     "id": 870,
@@ -18269,7 +20006,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にも関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した【　　】、<ruby>入り<rt>いり</rt></ruby>たかった<ruby>大学<rt>だいがく</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>入り<rt>いり</rt></ruby>たかった<ruby>大学<rt>だいがく</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>てしまった。"
   },
   {
     "id": 871,
@@ -18290,7 +20029,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にも関わらず",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>全く<rt>まったく</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>ない【　　】、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したいと<ruby>言って<rt>いって</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>全く<rt>まったく</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>ないにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したいと<ruby>言って<rt>いって</rt></ruby>いる。"
   },
   {
     "id": 872,
@@ -18311,7 +20052,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にも関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>校則<rt>こうそく</rt></ruby>で<ruby>禁止<rt>きんし</rt></ruby>されている【　　】、<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にスマホを<ruby>使う<rt>つかう</rt></ruby><ruby>学生<rt>がくせい</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>校則<rt>こうそく</rt></ruby>で<ruby>禁止<rt>きんし</rt></ruby>されているにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にスマホを<ruby>使う<rt>つかう</rt></ruby><ruby>学生<rt>がくせい</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>。"
   },
   {
     "id": 873,
@@ -18332,7 +20075,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にも関わらず",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>である【　　】、<ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>する<ruby>時<rt>とき</rt></ruby>はいつも<ruby>英語<rt>えいご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>であるにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>する<ruby>時<rt>とき</rt></ruby>はいつも<ruby>英語<rt>えいご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>。"
   },
   {
     "id": 874,
@@ -18353,7 +20098,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にも関わらず",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>友<rt>とも</rt></ruby>だちは<ruby>高橋<rt>たかはし</rt></ruby>さんより<ruby>成績<rt>せいせき</rt></ruby>が<ruby>良か<rt>よか</rt></ruby>った【　　】、<ruby>試験<rt>しけん</rt></ruby>で<ruby>実力<rt>じつりょく</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>ずに、<ruby>不合格<rt>ふごうかく</rt></ruby>になった。",
+    "sentence_jp_ruby": "<ruby>友<rt>とも</rt></ruby>だちは<ruby>高橋<rt>たかはし</rt></ruby>さんより<ruby>成績<rt>せいせき</rt></ruby>が<ruby>良か<rt>よか</rt></ruby>ったにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>試験<rt>しけん</rt></ruby>で<ruby>実力<rt>じつりょく</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>ずに、<ruby>不合格<rt>ふごうかく</rt></ruby>になった。"
   },
   {
     "id": 875,
@@ -18374,7 +20121,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にも関わらず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ずっと<ruby>待っ<rt>まっ</rt></ruby>ていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>【　　】、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ずっと<ruby>待っ<rt>まっ</rt></ruby>ていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。"
   },
   {
     "id": 876,
@@ -18395,7 +20144,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>駅前<rt>えきまえ</rt></ruby>【　　】<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>駅前<rt>えきまえ</rt></ruby>にて<ruby>行い<rt>おこない</rt></ruby>ます。"
   },
   {
     "id": 877,
@@ -18416,7 +20167,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>質問<rt>しつもん</rt></ruby>があれば<ruby>電話<rt>でんわ</rt></ruby>かメール【　　】<ruby>連絡<rt>れんらく</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>質問<rt>しつもん</rt></ruby>があれば<ruby>電話<rt>でんわ</rt></ruby>かメールにて<ruby>連絡<rt>れんらく</rt></ruby>ください。"
   },
   {
     "id": 878,
@@ -18437,7 +20190,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>資料<rt>しりょう</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>なものですので、<ruby>書留<rt>かきとめ</rt></ruby><ruby>便<rt>びん</rt></ruby>【　　】<ruby>送り<rt>おくり</rt></ruby>ます。",
+    "sentence_jp_ruby": "その<ruby>資料<rt>しりょう</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>なものですので、<ruby>書留<rt>かきとめ</rt></ruby><ruby>便<rt>びん</rt></ruby>にて<ruby>送り<rt>おくり</rt></ruby>ます。"
   },
   {
     "id": 879,
@@ -18458,7 +20213,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>だと、<ruby>体育館<rt>たいいくかん</rt></ruby>【　　】<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>だと、<ruby>体育館<rt>たいいくかん</rt></ruby>にて<ruby>行い<rt>おこない</rt></ruby>ます。"
   },
   {
     "id": 880,
@@ -18479,7 +20236,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にて",
-    "notes": "人名「安田さん」→「小林さん」; 階数「3階」→「4階」"
+    "notes": "人名「安田さん」→「小林さん」; 階数「3階」→「4階」",
+    "question_ruby": "こちらへどうぞ!<ruby>小林<rt>こばやし</rt></ruby>さんは4<ruby>階<rt>かい</rt></ruby>の<ruby>会議室<rt>かいぎしつ</rt></ruby>【　　】お<ruby>待ち<rt>まち</rt></ruby>しております。",
+    "sentence_jp_ruby": "こちらへどうぞ!<ruby>小林<rt>こばやし</rt></ruby>さんは4<ruby>階<rt>かい</rt></ruby>の<ruby>会議室<rt>かいぎしつ</rt></ruby>にてお<ruby>待ち<rt>まち</rt></ruby>しております。"
   },
   {
     "id": 881,
@@ -18500,7 +20259,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最後<rt>さいご</rt></ruby>のシーンは<ruby>京都<rt>きょうと</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>【　　】<ruby>撮影<rt>さつえい</rt></ruby>されたそうです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最後<rt>さいご</rt></ruby>のシーンは<ruby>京都<rt>きょうと</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>にて<ruby>撮影<rt>さつえい</rt></ruby>されたそうです。"
   },
   {
     "id": 882,
@@ -18521,7 +20282,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にて",
-    "notes": "時刻「7時」→「6時」"
+    "notes": "時刻「7時」→「6時」",
+    "question_ruby": "<ruby>報告会<rt>ほうこくかい</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>【　　】6<ruby>時<rt>とき</rt></ruby>より<ruby>行わ<rt>おこなわ</rt></ruby>れます。",
+    "sentence_jp_ruby": "<ruby>報告会<rt>ほうこくかい</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>にて6<ruby>時<rt>とき</rt></ruby>より<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
   },
   {
     "id": 883,
@@ -18542,7 +20305,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のももっともだ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るのももっともだ。"
   },
   {
     "id": 884,
@@ -18563,7 +20328,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のももっともだ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>毎日<rt>まいにち</rt></ruby><ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>している。N2に<ruby>合格<rt>ごうかく</rt></ruby>した【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>毎日<rt>まいにち</rt></ruby><ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>している。N2に<ruby>合格<rt>ごうかく</rt></ruby>したのももっともだ。"
   },
   {
     "id": 885,
@@ -18584,7 +20351,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のももっともだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたはよく<ruby>嘘<rt>うそ</rt></ruby>ついたから、みんなが<ruby>信用<rt>しんよう</rt></ruby>しない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたはよく<ruby>嘘<rt>うそ</rt></ruby>ついたから、みんなが<ruby>信用<rt>しんよう</rt></ruby>しないのももっともだ。"
   },
   {
     "id": 886,
@@ -18605,7 +20374,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のももっともだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったから、<ruby>落ち込む<rt>おちこむ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>にん</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったから、<ruby>落ち込む<rt>おちこむ</rt></ruby>のももっともだ。"
   },
   {
     "id": 887,
@@ -18626,7 +20397,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のももっともだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby><ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>をするから、<ruby>親<rt>おや</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>が<ruby>初めて<rt>はじめて</rt></ruby><ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>をするから、<ruby>親<rt>おや</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>するのももっともだ。"
   },
   {
     "id": 888,
@@ -18647,7 +20420,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のももっともだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたが<ruby>浮気<rt>うわき</rt></ruby>したから、<ruby>奥さん<rt>おくさん</rt></ruby>が<ruby>許さ<rt>ゆるさ</rt></ruby>ない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたが<ruby>浮気<rt>うわき</rt></ruby>したから、<ruby>奥さん<rt>おくさん</rt></ruby>が<ruby>許さ<rt>ゆるさ</rt></ruby>ないのももっともだ。"
   },
   {
     "id": 889,
@@ -18668,7 +20443,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のももっともだ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>無駄遣い<rt>むだづかい</rt></ruby>ばかりしている。<ruby>貯金<rt>ちょきん</rt></ruby>できない【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>無駄遣い<rt>むだづかい</rt></ruby>ばかりしている。<ruby>貯金<rt>ちょきん</rt></ruby>できないのももっともだ。"
   },
   {
     "id": 890,
@@ -18689,7 +20466,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のももっともだ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "あなたが<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たのだから、<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>怒る<rt>いかる</rt></ruby>【　　】と<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "あなたが<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たのだから、<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>怒る<rt>いかる</rt></ruby>のももっともだと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 891,
@@ -18710,7 +20489,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の下で",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するなら<ruby>英語<rt>えいご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>る<ruby>指導員<rt>しどういん</rt></ruby>【　　】<ruby>勉強<rt>べんきょう</rt></ruby>したいです。",
+    "sentence_jp_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するなら<ruby>英語<rt>えいご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>る<ruby>指導員<rt>しどういん</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>したいです。"
   },
   {
     "id": 892,
@@ -18731,7 +20512,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の下で",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>小さい<rt>ちーさい</rt></ruby><ruby>時に<rt>ときに</rt></ruby>それを<ruby>母<rt>はは</rt></ruby>【　　】<ruby>教わ<rt>おそわ</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>小さい<rt>ちーさい</rt></ruby><ruby>時に<rt>ときに</rt></ruby>それを<ruby>母<rt>はは</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>教わ<rt>おそわ</rt></ruby>った。"
   },
   {
     "id": 893,
@@ -18752,7 +20535,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の下で",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはいつも<ruby>木<rt>き</rt></ruby>と<ruby>太陽<rt>たいよう</rt></ruby>【　　】<ruby>過ご<rt>すご</rt></ruby>しています。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはいつも<ruby>木<rt>き</rt></ruby>と<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>しています。"
   },
   {
     "id": 894,
@@ -18773,7 +20558,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の下で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>法<rt>ほう</rt></ruby>【　　】は<ruby>全て<rt>すべて</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は<ruby>平等<rt>びょうどう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>法<rt>ほう</rt></ruby>の<ruby>下<rt>した</rt></ruby>では<ruby>全て<rt>すべて</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は<ruby>平等<rt>びょうどう</rt></ruby>だ。"
   },
   {
     "id": 895,
@@ -18794,7 +20581,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の下で",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>規則<rt>きそく</rt></ruby>は<ruby>特定<rt>とくてい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>【　　】は<ruby>適用<rt>てきよう</rt></ruby>されない。",
+    "sentence_jp_ruby": "その<ruby>規則<rt>きそく</rt></ruby>は<ruby>特定<rt>とくてい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>下<rt>した</rt></ruby>では<ruby>適用<rt>てきよう</rt></ruby>されない。"
   },
   {
     "id": 896,
@@ -18815,7 +20604,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の下で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>たちが⻘<ruby>空<rt>そら</rt></ruby>【　　】<ruby>元気<rt>げんき</rt></ruby>に<ruby>遊んで<rt>あそんで</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>たちが⻘<ruby>空<rt>そら</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>元気<rt>げんき</rt></ruby>に<ruby>遊んで<rt>あそんで</rt></ruby>いる。"
   },
   {
     "id": 897,
@@ -18836,7 +20627,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の下で",
-    "notes": "期間「3年間」→「4年間」"
+    "notes": "期間「3年間」→「4年間」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>なデザイナー【　　】、4<ruby>年間<rt>ねんかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>してきたそうだ。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>なデザイナーの<ruby>下<rt>した</rt></ruby>で、4<ruby>年間<rt>ねんかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>してきたそうだ。"
   },
   {
     "id": 898,
@@ -18857,7 +20650,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "の下で",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>のご<ruby>指導<rt>しどう</rt></ruby>【　　】、<ruby>研究論文<rt>けんきゅうろんぶん</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>ています。",
+    "sentence_jp_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>のご<ruby>指導<rt>しどう</rt></ruby>の<ruby>下<rt>した</rt></ruby>、<ruby>研究論文<rt>けんきゅうろんぶん</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>ています。"
   },
   {
     "id": 899,
@@ -18878,7 +20673,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の下で",
-    "notes": "家族「祖父」→「祖母」"
+    "notes": "家族「祖父」→「祖母」",
+    "question_ruby": "<ruby>地震<rt>じしん</rt></ruby>で<ruby>親<rt>おや</rt></ruby>を<ruby>亡く<rt>なく</rt></ruby>なった<ruby>彼は<rt>かれは</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby><ruby>母<rt>はは</rt></ruby>【　　】<ruby>育て<rt>そだて</rt></ruby>られた。",
+    "sentence_jp_ruby": "<ruby>地震<rt>じしん</rt></ruby>で<ruby>親<rt>おや</rt></ruby>を<ruby>亡く<rt>なく</rt></ruby>なった<ruby>彼は<rt>かれは</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby><ruby>母<rt>はは</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>育て<rt>そだて</rt></ruby>られた。"
   },
   {
     "id": 900,
@@ -18899,7 +20696,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "の上では",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>規則<rt>きそく</rt></ruby>【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんはまだ<ruby>学生<rt>がくせい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんはまだ<ruby>学生<rt>がくせい</rt></ruby>だ。"
   },
   {
     "id": 901,
@@ -18920,7 +20719,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の上では",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>【　　】<ruby>私<rt>わたし</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>だ。"
   },
   {
     "id": 902,
@@ -18941,7 +20742,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>健康<rt>けんこう</rt></ruby>【　　】の<ruby>理由<rt>りゆう</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>をやめた。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>健康上<rt>けんこうじょう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>をやめた。"
   },
   {
     "id": 903,
@@ -18962,7 +20765,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上",
-    "notes": "年齢「20歳」→「25歳」"
+    "notes": "年齢「20歳」→「25歳」",
+    "question_ruby": "<ruby>法律<rt>ほうりつ</rt></ruby>【　　】、<ruby>日本人<rt>にほんじん</rt></ruby>は25<ruby>歳<rt>とし</rt></ruby>にならないとタバコを<ruby>吸っ<rt>すっ</rt></ruby>たり、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だりできない。",
+    "sentence_jp_ruby": "<ruby>法律上<rt>ほうりつじょう</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>は25<ruby>歳<rt>とし</rt></ruby>にならないとタバコを<ruby>吸っ<rt>すっ</rt></ruby>たり、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だりできない。"
   },
   {
     "id": 904,
@@ -18983,7 +20788,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の上では",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ニュース【　　】、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>な<ruby>事故<rt>じこ</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ニュースの<ruby>上で<rt>うえで</rt></ruby>は、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>な<ruby>事故<rt>じこ</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った。"
   },
   {
     "id": 905,
@@ -19004,7 +20811,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の上では",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>図<rt>ず</rt></ruby>【　　】、<ruby>去年<rt>きょねん</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>たら<ruby>今年<rt>こんねん</rt></ruby>の<ruby>売上が<rt>うりあが</rt></ruby><ruby>下が<rt>さが</rt></ruby>っています。",
+    "sentence_jp_ruby": "その<ruby>図<rt>ず</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>たら<ruby>今年<rt>こんねん</rt></ruby>の<ruby>売上が<rt>うりあが</rt></ruby><ruby>下が<rt>さが</rt></ruby>っています。"
   },
   {
     "id": 906,
@@ -19025,7 +20834,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>本<rt>ほん</rt></ruby>のすべての<ruby>登場人物<rt>とうじょうじんぶつ</rt></ruby>は<ruby>想像<rt>そうぞう</rt></ruby>【　　】のものです。",
+    "sentence_jp_ruby": "その<ruby>本<rt>ほん</rt></ruby>のすべての<ruby>登場人物<rt>とうじょうじんぶつ</rt></ruby>は<ruby>想像<rt>そうぞう</rt></ruby><ruby>上の<rt>うえの</rt></ruby>ものです。"
   },
   {
     "id": 907,
@@ -19046,7 +20857,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>の<ruby>教育<rt>きょういく</rt></ruby>【　　】よくない。",
+    "sentence_jp_ruby": "そのテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>の<ruby>教育上<rt>きょういくじょう</rt></ruby>よくない。"
   },
   {
     "id": 908,
@@ -19067,7 +20880,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のみならず",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>【　　】、スペイン<ruby>語<rt>ご</rt></ruby>も<ruby>話せ<rt>はなせ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>のみならず、スペイン<ruby>語<rt>ご</rt></ruby>も<ruby>話せ<rt>はなせ</rt></ruby>る。"
   },
   {
     "id": 909,
@@ -19088,7 +20903,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のみならず",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんのアニメは<ruby>国内<rt>こくない</rt></ruby>【　　】、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんのアニメは<ruby>国内<rt>こくない</rt></ruby>のみならず、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>がある。"
   },
   {
     "id": 910,
@@ -19109,7 +20926,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のみならず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>のためには、<ruby>食事<rt>しょくじ</rt></ruby>【　　】、<ruby>生活<rt>せいかつ</rt></ruby>リズムも<ruby>重要<rt>じゅうよう</rt></ruby>になってくる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>のためには、<ruby>食事<rt>しょくじ</rt></ruby>のみならず、<ruby>生活<rt>せいかつ</rt></ruby>リズムも<ruby>重要<rt>じゅうよう</rt></ruby>になってくる。"
   },
   {
     "id": 911,
@@ -19130,7 +20949,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のみならず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>【　　】、<ruby>教師<rt>きょうし</rt></ruby>もスポーツ<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>することになっている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>のみならず、<ruby>教師<rt>きょうし</rt></ruby>もスポーツ<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>することになっている。"
   },
   {
     "id": 912,
@@ -19151,7 +20972,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のみならず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こちらの<ruby>製品<rt>せいひん</rt></ruby>は<ruby>日本国内<rt>にほんこくない</rt></ruby>【　　】、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>広く<rt>ひろく</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>いただいています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こちらの<ruby>製品<rt>せいひん</rt></ruby>は<ruby>日本国内<rt>にほんこくない</rt></ruby>のみならず、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>広く<rt>ひろく</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>いただいています。"
   },
   {
     "id": 913,
@@ -19172,7 +20995,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のみならず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>不景気<rt>ふけいき</rt></ruby>では<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>【　　】、<ruby>大企業<rt>だいきぎょう</rt></ruby>でも<ruby>経費<rt>けいひ</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>をしている。",
+    "sentence_jp_ruby": "その<ruby>不景気<rt>ふけいき</rt></ruby>では<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>のみならず、<ruby>大企業<rt>だいきぎょう</rt></ruby>でも<ruby>経費<rt>けいひ</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>をしている。"
   },
   {
     "id": 914,
@@ -19193,7 +21018,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のみならず",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>目の前<rt>めのまえ</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た<ruby>事故<rt>じこ</rt></ruby>を、<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】、<ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>もカメラで<ruby>撮影<rt>さつえい</rt></ruby>していた。",
+    "sentence_jp_ruby": "<ruby>目の前<rt>めのまえ</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た<ruby>事故<rt>じこ</rt></ruby>を、<ruby>高橋<rt>たかはし</rt></ruby>さんのみならず、<ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>もカメラで<ruby>撮影<rt>さつえい</rt></ruby>していた。"
   },
   {
     "id": 915,
@@ -19214,7 +21041,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>知ら<rt>しら</rt></ruby>【　　】が<ruby>仏<rt>ほとけ</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>知ら<rt>しら</rt></ruby>ぬが<ruby>仏<rt>ほとけ</rt></ruby>。"
   },
   {
     "id": 916,
@@ -19235,7 +21064,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぬ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何<rt>なに</rt></ruby>にも<ruby>知ら<rt>しら</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何<rt>なに</rt></ruby>にも<ruby>知ら<rt>しら</rt></ruby>ぬ。"
   },
   {
     "id": 917,
@@ -19256,7 +21087,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どの<ruby>本<rt>ほん</rt></ruby>も<ruby>気に入ら<rt>きにいら</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どの<ruby>本<rt>ほん</rt></ruby>も<ruby>気に入ら<rt>きにいら</rt></ruby>ぬ。"
   },
   {
     "id": 918,
@@ -19277,7 +21110,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>働か<rt>はたらか</rt></ruby>ねばなら【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>は<ruby>働か<rt>はたらか</rt></ruby>ねばならぬ。"
   },
   {
     "id": 919,
@@ -19298,7 +21133,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>是非<rt>ぜひ</rt></ruby>そうでなければなら【　　】ぜひそうでなければならぬ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>是非<rt>ぜひ</rt></ruby>そうでなければならぬぜひそうでなければならぬ。"
   },
   {
     "id": 920,
@@ -19319,7 +21156,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いら【　　】お<ruby>世話<rt>せわ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いらぬお<ruby>世話<rt>せわ</rt></ruby>だ。"
   },
   {
     "id": 921,
@@ -19340,7 +21179,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>四人<rt>よにん</rt></ruby>の<ruby>旅人<rt>たびびと</rt></ruby>たちは<ruby>眠れ<rt>ねむれ</rt></ruby>【　　】<ruby>夜<rt>よる</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>四人<rt>よにん</rt></ruby>の<ruby>旅人<rt>たびびと</rt></ruby>たちは<ruby>眠れ<rt>ねむれ</rt></ruby>ぬ<ruby>夜<rt>よる</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しました。"
   },
   {
     "id": 922,
@@ -19361,7 +21202,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ぬ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>身の程<rt>みのほど</rt></ruby>を<ruby>知ら<rt>しら</rt></ruby>【　　】<ruby>奴<rt>やつ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>身の程<rt>みのほど</rt></ruby>を<ruby>知ら<rt>しら</rt></ruby>ぬ<ruby>奴<rt>やつ</rt></ruby>だ。"
   },
   {
     "id": 923,
@@ -19382,7 +21225,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "抜きにして",
-    "notes": "食べ物「ハンバーガー」→「サンドイッチ」; 調味料「マスタード」→「マヨネーズ」"
+    "notes": "食べ物「ハンバーガー」→「サンドイッチ」; 調味料「マスタード」→「マヨネーズ」",
+    "question_ruby": "サンドイッチはマヨネーズ【　　】でお<ruby>願い<rt>ねがい</rt></ruby>します。",
+    "sentence_jp_ruby": "サンドイッチはマヨネーズ<ruby>抜き<rt>ぬき</rt></ruby>でお<ruby>願い<rt>ねがい</rt></ruby>します。"
   },
   {
     "id": 924,
@@ -19403,7 +21248,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "抜きにして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>冗談<rt>じょうだん</rt></ruby>【　　】で<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>考え<rt>かんがえ</rt></ruby>ってください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>冗談抜<rt>じょうだんぬき</rt></ruby>きで<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>考え<rt>かんがえ</rt></ruby>ってください。"
   },
   {
     "id": 925,
@@ -19424,7 +21271,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "抜きにして",
-    "notes": "時相「今夜」→「明晩」"
+    "notes": "時相「今夜」→「明晩」",
+    "question_ruby": "<ruby>明晩<rt>みょうばん</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>は【　　】<ruby>楽しく<rt>たのしく</rt></ruby><ruby>飲み<rt>のみ</rt></ruby>ましょう!",
+    "sentence_jp_ruby": "<ruby>明晩<rt>みょうばん</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>は<ruby>抜き<rt>ぬき</rt></ruby>にして<ruby>楽しく<rt>たのしく</rt></ruby><ruby>飲み<rt>のみ</rt></ruby>ましょう!"
   },
   {
     "id": 926,
@@ -19445,7 +21294,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜きにして",
-    "notes": "食材「チーズ」→「オリーブ」"
+    "notes": "食材「チーズ」→「オリーブ」",
+    "question_ruby": "すみません、オリーブ【　　】でお<ruby>願い<rt>ねがい</rt></ruby>できますか。",
+    "sentence_jp_ruby": "すみません、オリーブ<ruby>抜き<rt>ぬき</rt></ruby>でお<ruby>願い<rt>ねがい</rt></ruby>できますか。"
   },
   {
     "id": 927,
@@ -19466,7 +21317,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "抜きにして",
-    "notes": "人名「トムさん」→「中村さん」"
+    "notes": "人名「トムさん」→「中村さん」",
+    "question_ruby": "<ruby>毎回<rt>まいかい</rt></ruby><ruby>遅刻<rt>ちこく</rt></ruby>してくるし、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>中村<rt>なかむら</rt></ruby>さん【　　】でやろうか。",
+    "sentence_jp_ruby": "<ruby>毎回<rt>まいかい</rt></ruby><ruby>遅刻<rt>ちこく</rt></ruby>してくるし、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>中村<rt>なかむら</rt></ruby>さん<ruby>抜き<rt>ぬき</rt></ruby>でやろうか。"
   },
   {
     "id": 928,
@@ -19487,7 +21340,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "抜きにして",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さん【　　】では、このプロジェクトは<ruby>成功<rt>せいこう</rt></ruby>しなかっただろう。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さん<ruby>抜き<rt>ぬき</rt></ruby>では、このプロジェクトは<ruby>成功<rt>せいこう</rt></ruby>しなかっただろう。"
   },
   {
     "id": 929,
@@ -19508,7 +21363,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "抜く",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>何<rt>なに</rt></ruby>においても<ruby>頑張り<rt>がんばり</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>何<rt>なに</rt></ruby>においても<ruby>頑張り<rt>がんばり</rt></ruby><ruby>抜く<rt>ぬく</rt></ruby>。"
   },
   {
     "id": 930,
@@ -19529,7 +21386,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "抜く",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "あなたはその<ruby>仕事<rt>しごと</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>までやり【　　】ことができますか。",
+    "sentence_jp_ruby": "あなたはその<ruby>仕事<rt>しごと</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>までやり<ruby>抜く<rt>ぬく</rt></ruby>ことができますか。"
   },
   {
     "id": 931,
@@ -19550,7 +21409,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "抜く",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>苦しく<rt>くるしく</rt></ruby>ても<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走り<rt>はしり</rt></ruby>【　　】つもりだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>苦しく<rt>くるしく</rt></ruby>ても<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走り<rt>はしり</rt></ruby><ruby>抜く<rt>ぬく</rt></ruby>つもりだ。"
   },
   {
     "id": 932,
@@ -19571,7 +21432,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "抜く",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>決め<rt>きめ</rt></ruby>たことは<ruby>守り<rt>まもり</rt></ruby>【　　】でしょう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>決め<rt>きめ</rt></ruby>たことは<ruby>守り<rt>まもり</rt></ruby><ruby>抜く<rt>ぬく</rt></ruby>でしょう。"
   },
   {
     "id": 933,
@@ -19592,7 +21455,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜く",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大変<rt>たいへん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>でも、やり【　　】<ruby>自信<rt>じしん</rt></ruby>があります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大変<rt>たいへん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>でも、やり<ruby>抜く<rt>ぬく</rt></ruby><ruby>自信<rt>じしん</rt></ruby>があります。"
   },
   {
     "id": 934,
@@ -19613,7 +21478,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜いた",
-    "notes": "期間「10年間」→「5年間」"
+    "notes": "期間「10年間」→「5年間」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>5<ruby>年間<rt>ねんかん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も<ruby>風<rt>かぜ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>もジョギングを【　　】。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby>5<ruby>年間<rt>ねんかん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も<ruby>風<rt>かぜ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>もジョギングをやり<ruby>抜い<rt>ぬい</rt></ruby>た。"
   },
   {
     "id": 935,
@@ -19634,7 +21501,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜きました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、フルマラソンはとても⻑く<ruby>辛か<rt>つらか</rt></ruby>ったのですが、なんとか<ruby>最後<rt>さいご</rt></ruby>まで【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、フルマラソンはとても⻑く<ruby>辛か<rt>つらか</rt></ruby>ったのですが、なんとか<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走り<rt>はしり</rt></ruby><ruby>抜き<rt>ぬき</rt></ruby>ました。"
   },
   {
     "id": 936,
@@ -19655,7 +21524,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜いて",
-    "notes": "試合数「5つ試合」→「3試合」"
+    "notes": "試合数「5つ試合」→「3試合」",
+    "question_ruby": "<ruby>優勝<rt>ゆうしょう</rt></ruby>するには、これから3<ruby>試合<rt>しあい</rt></ruby>を【　　】いかなければならない。",
+    "sentence_jp_ruby": "<ruby>優勝<rt>ゆうしょう</rt></ruby>するには、これから3<ruby>試合<rt>しあい</rt></ruby>を<ruby>勝ち<rt>かち</rt></ruby><ruby>抜い<rt>ぬい</rt></ruby>ていかなければならない。"
   },
   {
     "id": 937,
@@ -19676,7 +21547,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入院<rt>にゅういん</rt></ruby>【　　】、<ruby>今後<rt>こんご</rt></ruby>はできるだけ<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思った<rt>おもった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入院<rt>にゅういん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に、<ruby>今後<rt>こんご</rt></ruby>はできるだけ<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思った<rt>おもった</rt></ruby>。"
   },
   {
     "id": 938,
@@ -19697,7 +21570,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入社試験<rt>にゅうしゃしけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>たの【　　】<ruby>英会話<rt>えいかいわ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入社試験<rt>にゅうしゃしけん</rt></ruby>に<ruby>落ち<rt>おち</rt></ruby>たのを<ruby>契機<rt>けいき</rt></ruby>に<ruby>英会話<rt>えいかいわ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 939,
@@ -19718,7 +21593,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>【　　】お<ruby>酒<rt>さけ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>にお<ruby>酒<rt>さけ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ました。"
   },
   {
     "id": 940,
@@ -19739,7 +21616,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を契機として",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>【　　】、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>強化<rt>きょうか</rt></ruby>された。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>として、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>強化<rt>きょうか</rt></ruby>された。"
   },
   {
     "id": 941,
@@ -19760,7 +21639,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もうすぐタバコの<ruby>値上がり<rt>ねあがり</rt></ruby>になるので、これ【　　】<ruby>辞め<rt>やめ</rt></ruby>ることにしました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もうすぐタバコの<ruby>値上がり<rt>ねあがり</rt></ruby>になるので、これを<ruby>契機<rt>けいき</rt></ruby>に<ruby>辞め<rt>やめ</rt></ruby>ることにしました。"
   },
   {
     "id": 942,
@@ -19781,7 +21662,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夫<rt>おっと</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>【　　】<ruby>食生活<rt>しょくせいかつ</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>たり、<ruby>運動<rt>うんどう</rt></ruby>したりするようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>夫<rt>おっと</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に<ruby>食生活<rt>しょくせいかつ</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>たり、<ruby>運動<rt>うんどう</rt></ruby>したりするようになった。"
   },
   {
     "id": 943,
@@ -19802,7 +21685,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を契機に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>になったの【　　】、<ruby>健康管理<rt>けんこうかんり</rt></ruby>をもっと<ruby>注意<rt>ちゅうい</rt></ruby>するようにします。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>になったのを<ruby>契機<rt>けいき</rt></ruby>に、<ruby>健康管理<rt>けんこうかんり</rt></ruby>をもっと<ruby>注意<rt>ちゅうい</rt></ruby>するようにします。"
   },
   {
     "id": 944,
@@ -19823,7 +21708,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を契機に",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>勤め<rt>つとめ</rt></ruby>ていた<ruby>職場<rt>しょくば</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>したの【　　】<ruby>独立<rt>どくりつ</rt></ruby>することにしました。",
+    "sentence_jp_ruby": "<ruby>勤め<rt>つとめ</rt></ruby>ていた<ruby>職場<rt>しょくば</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>したのを<ruby>契機<rt>けいき</rt></ruby>に<ruby>独立<rt>どくりつ</rt></ruby>することにしました。"
   },
   {
     "id": 945,
@@ -19844,7 +21731,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をめぐって",
-    "notes": "主語「弟」→「妹」; 主語「兄」→「姉」"
+    "notes": "主語「弟」→「妹」; 主語「兄」→「姉」",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>【　　】、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。",
+    "sentence_jp_ruby": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>をめぐって、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。"
   },
   {
     "id": 946,
@@ -19865,7 +21754,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をめぐって",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>では、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>【　　】、<ruby>様々な<rt>さまざまな</rt></ruby><ruby>意見<rt>いけん</rt></ruby>が<ruby>出さ<rt>ださ</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>では、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>をめぐって、<ruby>様々な<rt>さまざまな</rt></ruby><ruby>意見<rt>いけん</rt></ruby>が<ruby>出さ<rt>ださ</rt></ruby>れた。"
   },
   {
     "id": 947,
@@ -19886,7 +21777,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をめぐって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、オリンピックの<ruby>代表<rt>だいひょう</rt></ruby>【　　】、<ruby>最後<rt>さいご</rt></ruby>のレースが<ruby>行わ<rt>おこなわ</rt></ruby>れます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、オリンピックの<ruby>代表<rt>だいひょう</rt></ruby>をめぐって、<ruby>最後<rt>さいご</rt></ruby>のレースが<ruby>行わ<rt>おこなわ</rt></ruby>れます。"
   },
   {
     "id": 948,
@@ -19907,7 +21800,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をめぐって",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あのドラマは、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>【　　】、<ruby>三人<rt>さんにん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>戦う<rt>たたかう</rt></ruby><ruby>話<rt>はなし</rt></ruby>です。",
+    "sentence_jp_ruby": "あのドラマは、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>をめぐって、<ruby>三人<rt>さんにん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>戦う<rt>たたかう</rt></ruby><ruby>話<rt>はなし</rt></ruby>です。"
   },
   {
     "id": 949,
@@ -19928,7 +21823,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をめぐって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>【　　】<ruby>多く<rt>おおく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>が<ruby>出さ<rt>ださ</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>をめぐって<ruby>多く<rt>おおく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>が<ruby>出さ<rt>ださ</rt></ruby>れた。"
   },
   {
     "id": 950,
@@ -19949,7 +21846,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をめぐって",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>問題<rt>もんだい</rt></ruby>【　　】、みんなが<ruby>方策<rt>ほうさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ようとして、<ruby>少し<rt>すこし</rt></ruby><ruby>間<rt>かん</rt></ruby>があった。",
+    "sentence_jp_ruby": "あの<ruby>問題<rt>もんだい</rt></ruby>をめぐって、みんなが<ruby>方策<rt>ほうさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ようとして、<ruby>少し<rt>すこし</rt></ruby><ruby>間<rt>かん</rt></ruby>があった。"
   },
   {
     "id": 951,
@@ -19970,7 +21869,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をめぐって",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人事<rt>じんじ</rt></ruby><ruby>削減<rt>さくげん</rt></ruby>【　　】、<ruby>社内<rt>しゃない</rt></ruby>は<ruby>険悪<rt>けんあく</rt></ruby>な<ruby>雰囲気<rt>ふんいき</rt></ruby>となった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人事<rt>じんじ</rt></ruby><ruby>削減<rt>さくげん</rt></ruby>をめぐって、<ruby>社内<rt>しゃない</rt></ruby>は<ruby>険悪<rt>けんあく</rt></ruby>な<ruby>雰囲気<rt>ふんいき</rt></ruby>となった。"
   },
   {
     "id": 952,
@@ -19991,7 +21892,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をもとにして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>【　　】クラス<ruby>分け<rt>わけ</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>をもとにしてクラス<ruby>分け<rt>わけ</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。"
   },
   {
     "id": 953,
@@ -20012,7 +21915,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をもとに",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>映画<rt>えいが</rt></ruby>は<ruby>実際に<rt>じっさいに</rt></ruby>あった<ruby>話<rt>はなし</rt></ruby>【　　】<ruby>作ら<rt>つくら</rt></ruby>れた。",
+    "sentence_jp_ruby": "その<ruby>映画<rt>えいが</rt></ruby>は<ruby>実際に<rt>じっさいに</rt></ruby>あった<ruby>話<rt>はなし</rt></ruby>をもとに<ruby>作ら<rt>つくら</rt></ruby>れた。"
   },
   {
     "id": 954,
@@ -20033,7 +21938,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をもとに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友<rt>とも</rt></ruby>だちのアドバイス【　　】、<ruby>新しい<rt>あたらしい</rt></ruby>ビジネスを<ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友<rt>とも</rt></ruby>だちのアドバイスをもとに、<ruby>新しい<rt>あたらしい</rt></ruby>ビジネスを<ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 955,
@@ -20054,7 +21961,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をもとにして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>だけ【　　】<ruby>人<rt>にん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>するのは<ruby>良く<rt>よく</rt></ruby>ないだと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>だけをもとにして<ruby>人<rt>にん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>するのは<ruby>良く<rt>よく</rt></ruby>ないだと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 956,
@@ -20075,7 +21984,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をもとに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>調査団<rt>ちょうさだん</rt></ruby>からの<ruby>報告<rt>ほうこく</rt></ruby>【　　】<ruby>救援物資<rt>きゅうえんぶっし</rt></ruby>の<ruby>調達<rt>ちょうたつ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>調査団<rt>ちょうさだん</rt></ruby>からの<ruby>報告<rt>ほうこく</rt></ruby>をもとに<ruby>救援物資<rt>きゅうえんぶっし</rt></ruby>の<ruby>調達<rt>ちょうたつ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れた。"
   },
   {
     "id": 957,
@@ -20096,7 +22007,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をもとに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby>あった<ruby>事件<rt>じけん</rt></ruby>【　　】<ruby>映画化<rt>えいがか</rt></ruby>して<ruby>大ヒット<rt>だいひっと</rt></ruby>した<ruby>作品<rt>さくひん</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>実際に<rt>じっさいに</rt></ruby>あった<ruby>事件<rt>じけん</rt></ruby>をもとに<ruby>映画化<rt>えいがか</rt></ruby>して<ruby>大ヒット<rt>だいひっと</rt></ruby>した<ruby>作品<rt>さくひん</rt></ruby>です。"
   },
   {
     "id": 958,
@@ -20117,7 +22030,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をもとに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ファンの<ruby>人気投票<rt>にんきとうひょう</rt></ruby>【　　】、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>のベストテンが<ruby>決ま<rt>きま</rt></ruby>ります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ファンの<ruby>人気投票<rt>にんきとうひょう</rt></ruby>をもとに、<ruby>今年<rt>こんねん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>のベストテンが<ruby>決ま<rt>きま</rt></ruby>ります。"
   },
   {
     "id": 959,
@@ -20138,7 +22053,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を除いて",
-    "notes": "曜日「日曜日」→「土曜日」"
+    "notes": "曜日「日曜日」→「土曜日」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>【　　】<ruby>毎日<rt>まいにち</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>て<ruby>毎日<rt>まいにち</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>ている。"
   },
   {
     "id": 960,
@@ -20159,7 +22076,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を除いて",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>本<rt>ほん</rt></ruby>は2,3の<ruby>間違い<rt>まちがい</rt></ruby>【　　】、とてもよい<ruby>本<rt>ほん</rt></ruby>です。",
+    "sentence_jp_ruby": "その<ruby>本<rt>ほん</rt></ruby>は2,3の<ruby>間違い<rt>まちがい</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>て、とてもよい<ruby>本<rt>ほん</rt></ruby>です。"
   },
   {
     "id": 961,
@@ -20180,7 +22099,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を除いて",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "うちの<ruby>息子<rt>むすこ</rt></ruby>は<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>【　　】ずっと<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>にいる。",
+    "sentence_jp_ruby": "うちの<ruby>息子<rt>むすこ</rt></ruby>は<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>てずっと<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>にいる。"
   },
   {
     "id": 962,
@@ -20201,7 +22122,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を除いては",
-    "notes": "曜日「火曜日」→「木曜日」"
+    "notes": "曜日「火曜日」→「木曜日」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>木曜日<rt>もくようび</rt></ruby>【　　】いつでも<ruby>空い<rt>あい</rt></ruby>ています。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>木曜日<rt>もくようび</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>てはいつでも<ruby>空い<rt>あい</rt></ruby>ています。"
   },
   {
     "id": 963,
@@ -20222,7 +22145,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を除いて",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】、この<ruby>部屋<rt>へや</rt></ruby>には<ruby>誰も<rt>だれも</rt></ruby>いませんでした。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんを<ruby>除い<rt>のぞい</rt></ruby>て、この<ruby>部屋<rt>へや</rt></ruby>には<ruby>誰も<rt>だれも</rt></ruby>いませんでした。"
   },
   {
     "id": 964,
@@ -20243,7 +22168,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を除いて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はいちばん<ruby>難しい<rt>むずかしい</rt></ruby>もの【　　】すべての<ruby>問題<rt>もんだい</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はいちばん<ruby>難しい<rt>むずかしい</rt></ruby>ものを<ruby>除い<rt>のぞい</rt></ruby>てすべての<ruby>問題<rt>もんだい</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>た。"
   },
   {
     "id": 965,
@@ -20264,7 +22191,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を除けば",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>仕事<rt>しごと</rt></ruby>は<ruby>楽<rt>らく</rt></ruby>だし、<ruby>給料<rt>きゅうりょう</rt></ruby>もいいし、<ruby>通勤時間<rt>つうきんじかん</rt></ruby>が⻑いこと【　　】<ruby>文句<rt>もんく</rt></ruby>ない。",
+    "sentence_jp_ruby": "その<ruby>仕事<rt>しごと</rt></ruby>は<ruby>楽<rt>らく</rt></ruby>だし、<ruby>給料<rt>きゅうりょう</rt></ruby>もいいし、<ruby>通勤時間<rt>つうきんじかん</rt></ruby>が⻑いことを<ruby>除け<rt>のぞけ</rt></ruby>ば<ruby>文句<rt>もんく</rt></ruby>ない。"
   },
   {
     "id": 966,
@@ -20285,7 +22214,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を問わず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>公園<rt>こうえん</rt></ruby>では<ruby>季節<rt>きせつ</rt></ruby>【　　】<ruby>美しい<rt>うつくしい</rt></ruby><ruby>花<rt>はな</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。",
+    "sentence_jp_ruby": "その<ruby>公園<rt>こうえん</rt></ruby>では<ruby>季節<rt>きせつ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず<ruby>美しい<rt>うつくしい</rt></ruby><ruby>花<rt>はな</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。"
   },
   {
     "id": 967,
@@ -20306,7 +22237,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を問わず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのスポーツクラブは<ruby>年齢<rt>ねんれい</rt></ruby>【　　】<ruby>誰<rt>だれ</rt></ruby>でも<ruby>入れ<rt>いれ</rt></ruby>ます。",
+    "sentence_jp_ruby": "そのスポーツクラブは<ruby>年齢<rt>ねんれい</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず<ruby>誰<rt>だれ</rt></ruby>でも<ruby>入れ<rt>いれ</rt></ruby>ます。"
   },
   {
     "id": 968,
@@ -20327,7 +22260,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を問わず",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高い<rt>たかい</rt></ruby><ruby>安い<rt>やすい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんはいいものを<ruby>買い<rt>かい</rt></ruby>たいです。",
+    "sentence_jp_ruby": "<ruby>高い<rt>たかい</rt></ruby><ruby>安い<rt>やすい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず、<ruby>高橋<rt>たかはし</rt></ruby>さんはいいものを<ruby>買い<rt>かい</rt></ruby>たいです。"
   },
   {
     "id": 969,
@@ -20348,7 +22283,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を問わず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学歴<rt>がくれき</rt></ruby>、<ruby>経験<rt>けいけん</rt></ruby>【　　】、やる<ruby>気が<rt>きが</rt></ruby>ある<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学歴<rt>がくれき</rt></ruby>、<ruby>経験<rt>けいけん</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず、やる<ruby>気が<rt>きが</rt></ruby>ある<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>します。"
   },
   {
     "id": 970,
@@ -20369,7 +22306,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を問わず",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>島<rt>しま</rt></ruby>には、<ruby>季節<rt>きせつ</rt></ruby>【　　】、<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>る。",
+    "sentence_jp_ruby": "その<ruby>島<rt>しま</rt></ruby>には、<ruby>季節<rt>きせつ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず、<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>る。"
   },
   {
     "id": 971,
@@ -20390,7 +22329,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を問わず",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、インターネットが<ruby>発達<rt>はったつ</rt></ruby>したことで、<ruby>場所<rt>ばしょ</rt></ruby>【　　】どこでも<ruby>仕事<rt>しごと</rt></ruby>ができるようになった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、インターネットが<ruby>発達<rt>はったつ</rt></ruby>したことで、<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ずどこでも<ruby>仕事<rt>しごと</rt></ruby>ができるようになった。"
   },
   {
     "id": 972,
@@ -20411,7 +22352,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を問わず",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>国籍<rt>こくせき</rt></ruby>【　　】、どんな<ruby>人<rt>にん</rt></ruby>とでもコミュニケーションを<ruby>取る<rt>とる</rt></ruby>ことができる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>国籍<rt>こくせき</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず、どんな<ruby>人<rt>にん</rt></ruby>とでもコミュニケーションを<ruby>取る<rt>とる</rt></ruby>ことができる。"
   },
   {
     "id": 973,
@@ -20432,7 +22375,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "お",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、しばらく【　　】<ruby>待ち<rt>まち</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、しばらくお<ruby>待ち<rt>まち</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>ます。"
   },
   {
     "id": 974,
@@ -20453,7 +22398,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "お",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>では<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>で【　　】<ruby>話し<rt>はなし</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>では<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>でお<ruby>話し<rt>はなし</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>ます。"
   },
   {
     "id": 975,
@@ -20474,7 +22421,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "お",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>提案<rt>ていあん</rt></ruby>の<ruby>詳細<rt>しょうさい</rt></ruby>について【　　】<ruby>聞か<rt>きか</rt></ruby>せ<ruby>願え<rt>ねがえ</rt></ruby>ますか?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>提案<rt>ていあん</rt></ruby>の<ruby>詳細<rt>しょうさい</rt></ruby>についてお<ruby>聞か<rt>きか</rt></ruby>せ<ruby>願え<rt>ねがえ</rt></ruby>ますか?"
   },
   {
     "id": 976,
@@ -20495,7 +22444,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "お",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>自分<rt>じぶん</rt></ruby>のシートベルトが<ruby>安全<rt>あんぜん</rt></ruby>にかかっているか【　　】<ruby>確か<rt>たしか</rt></ruby>め<ruby>願い<rt>ねがい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>自分<rt>じぶん</rt></ruby>のシートベルトが<ruby>安全<rt>あんぜん</rt></ruby>にかかっているかお<ruby>確か<rt>たしか</rt></ruby>め<ruby>願い<rt>ねがい</rt></ruby>ます。"
   },
   {
     "id": 977,
@@ -20516,7 +22467,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "お",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>明日<rt>あした</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>ますと、<ruby>安田<rt>やすだ</rt></ruby><ruby>課<rt>か</rt></ruby>⻑に【　　】<ruby>伝え<rt>つたえ</rt></ruby><ruby>願え<rt>ねがえ</rt></ruby>ますか。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>明日<rt>あした</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>ますと、<ruby>安田<rt>やすだ</rt></ruby><ruby>課<rt>か</rt></ruby>⻑にお<ruby>伝え<rt>つたえ</rt></ruby><ruby>願え<rt>ねがえ</rt></ruby>ますか。"
   },
   {
     "id": 978,
@@ -20537,7 +22490,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ご確認願います",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>したので【　　】。",
+    "sentence_jp_ruby": "あの<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>したのでご<ruby>確認願い<rt>かくにんねがい</rt></ruby>ます。"
   },
   {
     "id": 979,
@@ -20558,7 +22513,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ご確認願います",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そちらでも<ruby>再度<rt>さいど</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そちらでも<ruby>再度<rt>さいど</rt></ruby>ご<ruby>確認願い<rt>かくにんねがい</rt></ruby>ます。"
   },
   {
     "id": 980,
@@ -20579,7 +22536,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ご出席願いたい",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>次の<rt>つぎの</rt></ruby><ruby>機会<rt>きかい</rt></ruby>があれば、ぜひ【　　】ですね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>次の<rt>つぎの</rt></ruby><ruby>機会<rt>きかい</rt></ruby>があれば、ぜひご<ruby>出席<rt>しゅっせき</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>たいですね。"
   },
   {
     "id": 981,
@@ -20600,7 +22559,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おまけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>寒く<rt>さむく</rt></ruby>て【　　】<ruby>風<rt>かぜ</rt></ruby>も<ruby>強か<rt>つよか</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>寒く<rt>さむく</rt></ruby>ておまけに<ruby>風<rt>かぜ</rt></ruby>も<ruby>強か<rt>つよか</rt></ruby>った。"
   },
   {
     "id": 982,
@@ -20621,7 +22582,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おまけに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんには<ruby>大きす<rt>おおきす</rt></ruby>ぎる。【　　】<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高す<rt>たかす</rt></ruby>ぎる。",
+    "sentence_jp_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんには<ruby>大きす<rt>おおきす</rt></ruby>ぎる。おまけに<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高す<rt>たかす</rt></ruby>ぎる。"
   },
   {
     "id": 983,
@@ -20642,7 +22605,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おまけに",
-    "notes": "日数「3連休」→「4連休」"
+    "notes": "日数「3連休」→「4連休」",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>から4<ruby>連休<rt>れんきゅう</rt></ruby>だ。【　　】<ruby>宿題<rt>しゅくだい</rt></ruby>もない、<ruby>最高<rt>さいこう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>から4<ruby>連休<rt>れんきゅう</rt></ruby>だ。おまけに<ruby>宿題<rt>しゅくだい</rt></ruby>もない、<ruby>最高<rt>さいこう</rt></ruby>だ。"
   },
   {
     "id": 984,
@@ -20663,7 +22628,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おまけに",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>役に立つ<rt>やくにたつ</rt></ruby>し、【　　】<ruby>高く<rt>たかく</rt></ruby>ない。",
+    "sentence_jp_ruby": "あの<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>役に立つ<rt>やくにたつ</rt></ruby>し、おまけに<ruby>高く<rt>たかく</rt></ruby>ない。"
   },
   {
     "id": 985,
@@ -20684,7 +22651,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おまけに",
-    "notes": "食べ物「ラーメン」→「うどん」"
+    "notes": "食べ物「ラーメン」→「うどん」",
+    "question_ruby": "お<ruby>腹<rt>はら</rt></ruby>がすいたが<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>は<ruby>空<rt>そら</rt></ruby>だ。【　　】インスタントうどんもない。",
+    "sentence_jp_ruby": "お<ruby>腹<rt>はら</rt></ruby>がすいたが<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>は<ruby>空<rt>そら</rt></ruby>だ。おまけにインスタントうどんもない。"
   },
   {
     "id": 986,
@@ -20705,7 +22674,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おまけに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>朝寝坊<rt>あさねぼう</rt></ruby>して<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby>のが<ruby>遅く<rt>おそく</rt></ruby>なった。【　　】<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>朝寝坊<rt>あさねぼう</rt></ruby>して<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby>のが<ruby>遅く<rt>おそく</rt></ruby>なった。おまけに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。"
   },
   {
     "id": 987,
@@ -20726,7 +22697,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おまけに",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>試合<rt>しあい</rt></ruby>はテンポが<ruby>遅く<rt>おそく</rt></ruby>て、【　　】<ruby>退屈<rt>たいくつ</rt></ruby>だった。",
+    "sentence_jp_ruby": "あの<ruby>試合<rt>しあい</rt></ruby>はテンポが<ruby>遅く<rt>おそく</rt></ruby>て、おまけに<ruby>退屈<rt>たいくつ</rt></ruby>だった。"
   },
   {
     "id": 988,
@@ -20747,7 +22720,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "おまけに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>奥さん<rt>おくさん</rt></ruby>は<ruby>優し<rt>やさし</rt></ruby>くて<ruby>美人<rt>びじん</rt></ruby>で、【　　】<ruby>料理<rt>りょうり</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>なんですよ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>奥さん<rt>おくさん</rt></ruby>は<ruby>優し<rt>やさし</rt></ruby>くて<ruby>美人<rt>びじん</rt></ruby>で、おまけに<ruby>料理<rt>りょうり</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>なんですよ。"
   },
   {
     "id": 989,
@@ -20768,7 +22743,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "恐らく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは【　　】<ruby>間違い<rt>まちがい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>間違い<rt>まちがい</rt></ruby>です。"
   },
   {
     "id": 990,
@@ -20789,7 +22766,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "恐らく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】パーティーには<ruby>来ない<rt>こない</rt></ruby>だろう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>恐ら<rt>おそら</rt></ruby>くパーティーには<ruby>来ない<rt>こない</rt></ruby>だろう。"
   },
   {
     "id": 991,
@@ -20810,7 +22789,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "恐らく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>は【　　】<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>は<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>でしょう。"
   },
   {
     "id": 992,
@@ -20831,7 +22812,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おそらく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは【　　】<ruby>可能<rt>かのう</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それはおそらく<ruby>可能<rt>かのう</rt></ruby>です。"
   },
   {
     "id": 993,
@@ -20852,7 +22835,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "恐らく",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>承知<rt>しょうち</rt></ruby>しないでしょう。",
+    "sentence_jp_ruby": "<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>承知<rt>しょうち</rt></ruby>しないでしょう。"
   },
   {
     "id": 994,
@@ -20873,7 +22858,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "恐らく",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>事<rt>こと</rt></ruby>は【　　】<ruby>君<rt>くん</rt></ruby>のいうとおりでしょう。",
+    "sentence_jp_ruby": "あの<ruby>事<rt>こと</rt></ruby>は<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>君<rt>くん</rt></ruby>のいうとおりでしょう。"
   },
   {
     "id": 995,
@@ -20894,7 +22881,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "恐らく",
-    "notes": "年齢「35歳」→「40歳」; 年齢「50歳」→「55歳」"
+    "notes": "年齢「35歳」→「40歳」; 年齢「50歳」→「55歳」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だと<ruby>言う<rt>いう</rt></ruby>が,【　　】55<ruby>歳<rt>とし</rt></ruby><ruby>近い<rt>ちかい</rt></ruby>だろう。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だと<ruby>言う<rt>いう</rt></ruby>が,<ruby>恐ら<rt>おそら</rt></ruby>く55<ruby>歳<rt>とし</rt></ruby><ruby>近い<rt>ちかい</rt></ruby>だろう。"
   },
   {
     "id": 996,
@@ -20915,7 +22904,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>てからほとんど<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていない。そのまま<ruby>降ら<rt>ふら</rt></ruby>ないと、<ruby>水不足<rt>みずぶそく</rt></ruby>になる【　　】。",
+    "sentence_jp_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>てからほとんど<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていない。そのまま<ruby>降ら<rt>ふら</rt></ruby>ないと、<ruby>水不足<rt>みずぶそく</rt></ruby>になる<ruby>恐れ<rt>おそれ</rt></ruby>がある。"
   },
   {
     "id": 997,
@@ -20936,7 +22927,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>大きい<rt>おおきい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>来た<rt>きた</rt></ruby>ら、その<ruby>建物<rt>たてもの</rt></ruby>は<ruby>倒れ<rt>たおれ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>大きい<rt>おおきい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>来た<rt>きた</rt></ruby>ら、その<ruby>建物<rt>たてもの</rt></ruby>は<ruby>倒れ<rt>たおれ</rt></ruby>る<ruby>恐れ<rt>おそれ</rt></ruby>がある。"
   },
   {
     "id": 998,
@@ -20957,7 +22950,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>に<ruby>悪い<rt>わるい</rt></ruby><ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>に<ruby>悪い<rt>わるい</rt></ruby><ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>る<ruby>恐れ<rt>おそれ</rt></ruby>がある。"
   },
   {
     "id": 999,
@@ -20978,7 +22973,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>がそのまま<ruby>北上<rt>きたかみ</rt></ruby>すると、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "<ruby>台風<rt>たいふう</rt></ruby>がそのまま<ruby>北上<rt>きたかみ</rt></ruby>すると、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>がある。"
   },
   {
     "id": 1000,
@@ -20999,7 +22996,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのまま<ruby>手術<rt>しゅじゅつ</rt></ruby>をしなければ、<ruby>眼<rt>め</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>なくなる【　　】と<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>言わ<rt>いわ</rt></ruby>れた。",
+    "sentence_jp_ruby": "そのまま<ruby>手術<rt>しゅじゅつ</rt></ruby>をしなければ、<ruby>眼<rt>め</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>なくなる<ruby>恐れ<rt>おそれ</rt></ruby>があると<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>言わ<rt>いわ</rt></ruby>れた。"
   },
   {
     "id": 1001,
@@ -21020,7 +23019,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "こんなに<ruby>赤字<rt>あかじ</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>の【　　】。",
+    "sentence_jp_ruby": "こんなに<ruby>赤字<rt>あかじ</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>と、その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>の<ruby>恐れ<rt>おそれ</rt></ruby>がある。"
   },
   {
     "id": 1002,
@@ -21041,7 +23042,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "恐れがある",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>原料<rt>げんりょう</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>に<ruby>害<rt>がい</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>る【　　】ので<ruby>使用<rt>しよう</rt></ruby>が<ruby>禁止<rt>きんし</rt></ruby>された。",
+    "sentence_jp_ruby": "その<ruby>原料<rt>げんりょう</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>に<ruby>害<rt>がい</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>る<ruby>恐れ<rt>おそれ</rt></ruby>があるので<ruby>使用<rt>しよう</rt></ruby>が<ruby>禁止<rt>きんし</rt></ruby>された。"
   },
   {
     "id": 1003,
@@ -21062,7 +23065,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "恐れがある",
-    "notes": "名称修正「ピザの斜塔」→「ピサの斜塔」"
+    "notes": "名称修正「ピザの斜塔」→「ピサの斜塔」",
+    "question_ruby": "イタリアのピサの<ruby>斜塔<rt>しゃとう</rt></ruby>は<ruby>観光地<rt>かんこうち</rt></ruby>として<ruby>有名<rt>ゆうめい</rt></ruby>だが、そのまま<ruby>何も<rt>なにも</rt></ruby>しないと、<ruby>倒れ<rt>たおれ</rt></ruby>る【　　】ということで、<ruby>補強<rt>ほきょう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れた。",
+    "sentence_jp_ruby": "イタリアのピサの<ruby>斜塔<rt>しゃとう</rt></ruby>は<ruby>観光地<rt>かんこうち</rt></ruby>として<ruby>有名<rt>ゆうめい</rt></ruby>だが、そのまま<ruby>何も<rt>なにも</rt></ruby>しないと、<ruby>倒れ<rt>たおれ</rt></ruby>る<ruby>恐れ<rt>おそれ</rt></ruby>があるということで、<ruby>補強<rt>ほきょう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れた。"
   },
   {
     "id": 1004,
@@ -21083,7 +23088,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "及び",
-    "notes": "文房具「鉛筆」→「ボールペン」"
+    "notes": "文房具「鉛筆」→「ボールペン」",
+    "question_ruby": "ボールペン【　　】<ruby>紙<rt>かみ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てきてください。",
+    "sentence_jp_ruby": "ボールペン<ruby>及び<rt>および</rt></ruby><ruby>紙<rt>かみ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てきてください。"
   },
   {
     "id": 1005,
@@ -21104,7 +23111,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "及び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教室<rt>きょうしつ</rt></ruby><ruby>内<rt>ない</rt></ruby>での<ruby>飲食<rt>いんしょく</rt></ruby>【　　】<ruby>喫煙<rt>きつえん</rt></ruby>はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教室<rt>きょうしつ</rt></ruby><ruby>内<rt>ない</rt></ruby>での<ruby>飲食<rt>いんしょく</rt></ruby><ruby>及び<rt>および</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby>はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。"
   },
   {
     "id": 1006,
@@ -21125,7 +23134,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "及び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>観光<rt>かんこう</rt></ruby>する<ruby>時<rt>とき</rt></ruby>、<ruby>地図<rt>ちず</rt></ruby>【　　】ホテルの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていたほうがいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>観光<rt>かんこう</rt></ruby>する<ruby>時<rt>とき</rt></ruby>、<ruby>地図<rt>ちず</rt></ruby><ruby>及び<rt>および</rt></ruby>ホテルの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていたほうがいい。"
   },
   {
     "id": 1007,
@@ -21146,7 +23157,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "及び",
-    "notes": "主語「兄」→「姉」"
+    "notes": "主語「兄」→「姉」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>姉<rt>あね</rt></ruby>と<ruby>外見<rt>がいけん</rt></ruby>【　　】<ruby>性格<rt>せいかく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>異なる<rt>ことなる</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>姉<rt>あね</rt></ruby>と<ruby>外見<rt>がいけん</rt></ruby><ruby>及び<rt>および</rt></ruby><ruby>性格<rt>せいかく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby><ruby>異なる<rt>ことなる</rt></ruby>。"
   },
   {
     "id": 1008,
@@ -21167,7 +23180,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "および",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験中<rt>しけんちゅう</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>【　　】<ruby>他の<rt>ほかの</rt></ruby><ruby>電子機器<rt>でんしきき</rt></ruby>が<ruby>使用禁止<rt>しようきんし</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験中<rt>しけんちゅう</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>および<ruby>他の<rt>ほかの</rt></ruby><ruby>電子機器<rt>でんしきき</rt></ruby>が<ruby>使用禁止<rt>しようきんし</rt></ruby>です。"
   },
   {
     "id": 1009,
@@ -21188,7 +23203,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "及び",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>【　　】ゲーム<ruby>機械<rt>きかい</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>はいけません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>携帯電話<rt>けいたいでんわ</rt></ruby><ruby>及び<rt>および</rt></ruby>ゲーム<ruby>機械<rt>きかい</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>はいけません。"
   },
   {
     "id": 1010,
@@ -21209,7 +23226,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "および",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>祭り<rt>まつり</rt></ruby>の<ruby>前日<rt>ぜんじつ</rt></ruby>【　　】<ruby>前々日<rt>ぜんぜんじつ</rt></ruby>は<ruby>準備<rt>じゅんび</rt></ruby>のため、<ruby>休業<rt>きゅうぎょう</rt></ruby>させていただきます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>祭り<rt>まつり</rt></ruby>の<ruby>前日<rt>ぜんじつ</rt></ruby>および<ruby>前々日<rt>ぜんぜんじつ</rt></ruby>は<ruby>準備<rt>じゅんび</rt></ruby>のため、<ruby>休業<rt>きゅうぎょう</rt></ruby>させていただきます。"
   },
   {
     "id": 1011,
@@ -21230,7 +23249,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "および",
-    "notes": "人名「山本氏」→「木村氏」"
+    "notes": "人名「山本氏」→「木村氏」",
+    "question_ruby": "<ruby>木村<rt>きむら</rt></ruby><ruby>氏<rt>し</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>【　　】<ruby>雑誌<rt>ざっし</rt></ruby>に<ruby>多く<rt>おおく</rt></ruby>のコラムを<ruby>書い<rt>かい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>木村<rt>きむら</rt></ruby><ruby>氏<rt>し</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>および<ruby>雑誌<rt>ざっし</rt></ruby>に<ruby>多く<rt>おおく</rt></ruby>のコラムを<ruby>書い<rt>かい</rt></ruby>ている。"
   },
   {
     "id": 1012,
@@ -21251,7 +23272,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ろくに",
-    "notes": "時相「昨夜」→「先日の夜」"
+    "notes": "時相「昨夜」→「先日の夜」",
+    "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は【　　】<ruby>寝な<rt>ねな</rt></ruby>かった。",
+    "sentence_jp_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はろくに<ruby>寝な<rt>ねな</rt></ruby>かった。"
   },
   {
     "id": 1013,
@@ -21272,7 +23295,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ろくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんとは【　　】<ruby>話<rt>はなし</rt></ruby>をしたことも<ruby>無い<rt>ない</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんとはろくに<ruby>話<rt>はなし</rt></ruby>をしたことも<ruby>無い<rt>ない</rt></ruby>。"
   },
   {
     "id": 1014,
@@ -21293,7 +23318,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ろくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>字<rt>じ</rt></ruby>は<ruby>汚く<rt>ぎたなく</rt></ruby>て、【　　】<ruby>読め<rt>よめ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>字<rt>じ</rt></ruby>は<ruby>汚く<rt>ぎたなく</rt></ruby>て、ろくに<ruby>読め<rt>よめ</rt></ruby>ない。"
   },
   {
     "id": 1015,
@@ -21314,7 +23341,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ろくに",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一昨日<rt>いっさくじつ</rt></ruby>から【　　】<ruby>何も<rt>なにも</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>一昨日<rt>いっさくじつ</rt></ruby>からろくに<ruby>何も<rt>なにも</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>なかった。"
   },
   {
     "id": 1016,
@@ -21335,7 +23364,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ろくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>若い<rt>わかい</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>をたくさん<ruby>学ん<rt>まなん</rt></ruby>だが、<ruby>今<rt>いま</rt></ruby>は【　　】<ruby>覚え<rt>おぼえ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>若い<rt>わかい</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>をたくさん<ruby>学ん<rt>まなん</rt></ruby>だが、<ruby>今<rt>いま</rt></ruby>はろくに<ruby>覚え<rt>おぼえ</rt></ruby>ない。"
   },
   {
     "id": 1017,
@@ -21356,7 +23387,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ろくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】<ruby>働か<rt>はたらか</rt></ruby>ないくせに<ruby>給料<rt>きゅうりょう</rt></ruby>のことに<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>います。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはろくに<ruby>働か<rt>はたらか</rt></ruby>ないくせに<ruby>給料<rt>きゅうりょう</rt></ruby>のことに<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>います。"
   },
   {
     "id": 1018,
@@ -21377,7 +23410,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ろくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>したことがないから、<ruby>掃除<rt>そうじ</rt></ruby>と<ruby>洗濯<rt>せんたく</rt></ruby>するのは【　　】できない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>したことがないから、<ruby>掃除<rt>そうじ</rt></ruby>と<ruby>洗濯<rt>せんたく</rt></ruby>するのはろくにできない。"
   },
   {
     "id": 1019,
@@ -21398,7 +23433,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ろくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>入学試験<rt>にゅうがくしけん</rt></ruby>が<ruby>近い<rt>ちかい</rt></ruby>のに、<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】<ruby>勉強<rt>べんきょう</rt></ruby>しないんだ。",
+    "sentence_jp_ruby": "<ruby>入学試験<rt>にゅうがくしけん</rt></ruby>が<ruby>近い<rt>ちかい</rt></ruby>のに、<ruby>鈴木<rt>すずき</rt></ruby>さんはろくに<ruby>勉強<rt>べんきょう</rt></ruby>しないんだ。"
   },
   {
     "id": 1020,
@@ -21419,7 +23456,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ろくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あいつは【　　】<ruby>仕事<rt>しごと</rt></ruby>をしないくせに、<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は<ruby>人<rt>にん</rt></ruby>の<ruby>二倍<rt>にばい</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あいつはろくに<ruby>仕事<rt>しごと</rt></ruby>をしないくせに、<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は<ruby>人<rt>にん</rt></ruby>の<ruby>二倍<rt>にばい</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>。"
   },
   {
     "id": 1021,
@@ -21440,7 +23479,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "幸い",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>気づ<rt>きづ</rt></ruby>かなかった。",
+    "sentence_jp_ruby": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>気づ<rt>きづ</rt></ruby>かなかった。"
   },
   {
     "id": 1022,
@@ -21461,7 +23502,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "幸い",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>締切<rt>しめきり</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>締切<rt>しめきり</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。"
   },
   {
     "id": 1023,
@@ -21482,7 +23525,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "幸いなことに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>母<rt>はは</rt></ruby>の<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>手術<rt>しゅじゅつ</rt></ruby>はうまくいった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>幸い<rt>さいわい</rt></ruby>なことに、<ruby>母<rt>はは</rt></ruby>の<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>手術<rt>しゅじゅつ</rt></ruby>はうまくいった。"
   },
   {
     "id": 1024,
@@ -21503,7 +23548,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "幸いなことに",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>にすぐに<ruby>慣れ<rt>なれ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>幸い<rt>さいわい</rt></ruby>なことに、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>にすぐに<ruby>慣れ<rt>なれ</rt></ruby>た。"
   },
   {
     "id": 1025,
@@ -21524,7 +23571,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "幸いなことに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんたちは<ruby>事故<rt>じこ</rt></ruby>を<ruby>避け<rt>さけ</rt></ruby>ることができた。",
+    "sentence_jp_ruby": "<ruby>幸い<rt>さいわい</rt></ruby>なことに<ruby>高橋<rt>たかはし</rt></ruby>さんたちは<ruby>事故<rt>じこ</rt></ruby>を<ruby>避け<rt>さけ</rt></ruby>ることができた。"
   },
   {
     "id": 1026,
@@ -21545,7 +23594,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "幸い",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>近所<rt>きんじょ</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たが、あの<ruby>家<rt>いえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは【　　】<ruby>無事<rt>ぶじ</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>近所<rt>きんじょ</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>たが、あの<ruby>家<rt>いえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは<ruby>幸い<rt>さいわい</rt></ruby><ruby>無事<rt>ぶじ</rt></ruby>だった。"
   },
   {
     "id": 1027,
@@ -21566,7 +23617,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "幸い",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>大過<rt>たいか</rt></ruby>なく<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終わ<rt>おわ</rt></ruby>らせることができた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>幸い<rt>さいわい</rt></ruby><ruby>大過<rt>たいか</rt></ruby>なく<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終わ<rt>おわ</rt></ruby>らせることができた。"
   },
   {
     "id": 1028,
@@ -21587,7 +23640,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "幸い",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたのお<ruby>役に立て<rt>やくにたて</rt></ruby>れば【　　】です。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたのお<ruby>役に立て<rt>やくにたて</rt></ruby>れば<ruby>幸い<rt>さいわい</rt></ruby>です。"
   },
   {
     "id": 1029,
@@ -21608,7 +23663,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさん<ruby>仕事<rt>しごと</rt></ruby>をした【　　】、<ruby>病気<rt>びょうき</rt></ruby>になってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさん<ruby>仕事<rt>しごと</rt></ruby>をしたせいか、<ruby>病気<rt>びょうき</rt></ruby>になってしまった。"
   },
   {
     "id": 1030,
@@ -21629,7 +23686,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ【　　】<ruby>頭痛<rt>ずつう</rt></ruby>が<ruby>治っ<rt>なおっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だせいか<ruby>頭痛<rt>ずつう</rt></ruby>が<ruby>治っ<rt>なおっ</rt></ruby>た。"
   },
   {
     "id": 1031,
@@ -21650,7 +23709,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>天気<rt>てんき</rt></ruby>がよい【　　】、とても<ruby>眠たい<rt>ねぶたい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>天気<rt>てんき</rt></ruby>がよいせいか、とても<ruby>眠たい<rt>ねぶたい</rt></ruby>です。"
   },
   {
     "id": 1032,
@@ -21671,7 +23732,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>年<rt>ねん</rt></ruby>の【　　】、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>色んな<rt>いろんな</rt></ruby>ことをよく<ruby>忘れ<rt>わすれ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>年<rt>ねん</rt></ruby>のせいか、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>色んな<rt>いろんな</rt></ruby>ことをよく<ruby>忘れ<rt>わすれ</rt></ruby>た。"
   },
   {
     "id": 1033,
@@ -21692,7 +23755,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>睡眠不足<rt>すいみんぶそく</rt></ruby>の【　　】、<ruby>目<rt>め</rt></ruby>まいがした。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>睡眠不足<rt>すいみんぶそく</rt></ruby>のせいか、<ruby>目<rt>め</rt></ruby>まいがした。"
   },
   {
     "id": 1034,
@@ -21713,7 +23778,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ストレスがいっぱいある【　　】、<ruby>胃<rt>い</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ストレスがいっぱいあるせいか、<ruby>胃<rt>い</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>です。"
   },
   {
     "id": 1035,
@@ -21734,7 +23801,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ【　　】、<ruby>眠たく<rt>ねぶたく</rt></ruby>なった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だせいか、<ruby>眠たく<rt>ねぶたく</rt></ruby>なった。"
   },
   {
     "id": 1036,
@@ -21755,7 +23824,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>暑い<rt>あつい</rt></ruby>【　　】、<ruby>食欲<rt>しょくよく</rt></ruby>がないです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>暑い<rt>あつい</rt></ruby>せいか、<ruby>食欲<rt>しょくよく</rt></ruby>がないです。"
   },
   {
     "id": 1037,
@@ -21776,7 +23847,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいか",
-    "notes": "時相「昨夜」→「先日の夜」"
+    "notes": "時相「昨夜」→「先日の夜」",
+    "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>だ【　　】、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>をたくさん<ruby>飲ん<rt>のん</rt></ruby>だせいか、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>。"
   },
   {
     "id": 1038,
@@ -21797,7 +23870,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>のテストがある【　　】、<ruby>何だ<rt>なんだ</rt></ruby>か<ruby>落ち着か<rt>おちつか</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>のテストがあるせいか、<ruby>何だ<rt>なんだ</rt></ruby>か<ruby>落ち着か<rt>おちつか</rt></ruby>ない。"
   },
   {
     "id": 1039,
@@ -21818,7 +23893,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>勉強<rt>べんきょう</rt></ruby>したのに<ruby>合格<rt>ごうかく</rt></ruby>できなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかく<ruby>勉強<rt>べんきょう</rt></ruby>したのに<ruby>合格<rt>ごうかく</rt></ruby>できなかった。"
   },
   {
     "id": 1040,
@@ -21839,7 +23916,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】レポートを<ruby>書い<rt>かい</rt></ruby>たのに<ruby>提出<rt>ていしゅつ</rt></ruby>しなくてもよくなった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかくレポートを<ruby>書い<rt>かい</rt></ruby>たのに<ruby>提出<rt>ていしゅつ</rt></ruby>しなくてもよくなった。"
   },
   {
     "id": 1041,
@@ -21860,7 +23939,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>母<rt>はは</rt></ruby>がお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てくれたのに<ruby>家<rt>いえ</rt></ruby>に<ruby>忘れ<rt>わすれ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかく<ruby>母<rt>はは</rt></ruby>がお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てくれたのに<ruby>家<rt>いえ</rt></ruby>に<ruby>忘れ<rt>わすれ</rt></ruby>てしまった。"
   },
   {
     "id": 1042,
@@ -21881,7 +23962,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】のお<ruby>志<rt>こころざし</rt></ruby>ですがお<ruby>断り<rt>ことわり</rt></ruby><ruby>致し<rt>いたし</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかくのお<ruby>志<rt>こころざし</rt></ruby>ですがお<ruby>断り<rt>ことわり</rt></ruby><ruby>致し<rt>いたし</rt></ruby>ます。"
   },
   {
     "id": 1043,
@@ -21902,7 +23985,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>来た<rt>きた</rt></ruby>のだから<ruby>楽し<rt>たのし</rt></ruby>まなきゃ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかく<ruby>来た<rt>きた</rt></ruby>のだから<ruby>楽し<rt>たのし</rt></ruby>まなきゃ。"
   },
   {
     "id": 1044,
@@ -21923,7 +24008,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>日本<rt>にっぽん</rt></ruby>にいるのですから、<ruby>色んな<rt>いろんな</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>みたいです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せっかく<ruby>日本<rt>にっぽん</rt></ruby>にいるのですから、<ruby>色んな<rt>いろんな</rt></ruby><ruby>所<rt>ところ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>みたいです。"
   },
   {
     "id": 1045,
@@ -21944,7 +24031,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せっかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんまり<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>から、よっぽど<ruby>食べ<rt>たべ</rt></ruby>ずに<ruby>帰ろ<rt>かえろ</rt></ruby>うと<ruby>思った<rt>おもった</rt></ruby>が、【　　】<ruby>注文<rt>ちゅうもん</rt></ruby>したから<ruby>食べ<rt>たべ</rt></ruby>ることにした。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんまり<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>から、よっぽど<ruby>食べ<rt>たべ</rt></ruby>ずに<ruby>帰ろ<rt>かえろ</rt></ruby>うと<ruby>思った<rt>おもった</rt></ruby>が、せっかく<ruby>注文<rt>ちゅうもん</rt></ruby>したから<ruby>食べ<rt>たべ</rt></ruby>ることにした。"
   },
   {
     "id": 1046,
@@ -21965,7 +24054,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せっかく",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんが【　　】<ruby>作っ<rt>つくっ</rt></ruby>てくれたから、<ruby>甘い<rt>あまい</rt></ruby>ものが<ruby>嫌い<rt>きらい</rt></ruby>なんて、とても<ruby>言え<rt>いえ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんがせっかく<ruby>作っ<rt>つくっ</rt></ruby>てくれたから、<ruby>甘い<rt>あまい</rt></ruby>ものが<ruby>嫌い<rt>きらい</rt></ruby>なんて、とても<ruby>言え<rt>いえ</rt></ruby>ない。"
   },
   {
     "id": 1047,
@@ -21986,7 +24077,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】あと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。"
   },
   {
     "id": 1048,
@@ -22007,7 +24100,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一日<rt>ついたち</rt></ruby>に【　　】<ruby>二回<rt>にかい</rt></ruby>は⻭を<ruby>磨く<rt>みがく</rt></ruby>べきだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>一日<rt>ついたち</rt></ruby>にせめて<ruby>二回<rt>にかい</rt></ruby>は⻭を<ruby>磨く<rt>みがく</rt></ruby>べきだ。"
   },
   {
     "id": 1049,
@@ -22028,7 +24123,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、じゃ、【　　】テーブルの<ruby>準備<rt>じゅんび</rt></ruby>でもしましょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、じゃ、せめてテーブルの<ruby>準備<rt>じゅんび</rt></ruby>でもしましょう。"
   },
   {
     "id": 1050,
@@ -22049,7 +24146,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>優勝<rt>ゆうしょう</rt></ruby>するのは<ruby>無理<rt>むり</rt></ruby>だとしても、【　　】<ruby>入賞<rt>にゅうしょう</rt></ruby>はしたい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>優勝<rt>ゆうしょう</rt></ruby>するのは<ruby>無理<rt>むり</rt></ruby>だとしても、せめて<ruby>入賞<rt>にゅうしょう</rt></ruby>はしたい。"
   },
   {
     "id": 1051,
@@ -22070,7 +24169,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せめて",
-    "notes": "曜日「日曜」→「土曜」"
+    "notes": "曜日「日曜」→「土曜」",
+    "question_ruby": "【　　】<ruby>土曜<rt>どよう</rt></ruby>だけも<ruby>遊ぶ<rt>あそぶ</rt></ruby>がよい。",
+    "sentence_jp_ruby": "せめて<ruby>土曜<rt>どよう</rt></ruby>だけも<ruby>遊ぶ<rt>あそぶ</rt></ruby>がよい。"
   },
   {
     "id": 1052,
@@ -22091,7 +24192,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>百円<rt>ひゃくえん</rt></ruby>なら<ruby>売る<rt>うる</rt></ruby>けれども。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せめて<ruby>百円<rt>ひゃくえん</rt></ruby>なら<ruby>売る<rt>うる</rt></ruby>けれども。"
   },
   {
     "id": 1053,
@@ -22112,7 +24215,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>皆さん<rt>みなさん</rt></ruby>のために<ruby>努力<rt>どりょく</rt></ruby>をしたい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、せめて<ruby>皆さん<rt>みなさん</rt></ruby>のために<ruby>努力<rt>どりょく</rt></ruby>をしたい。"
   },
   {
     "id": 1054,
@@ -22133,7 +24238,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せめて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>禁煙<rt>きんえん</rt></ruby>が<ruby>無理<rt>むり</rt></ruby>なら,【　　】<ruby>量<rt>りょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>しては?",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>禁煙<rt>きんえん</rt></ruby>が<ruby>無理<rt>むり</rt></ruby>なら,せめて<ruby>量<rt>りょう</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>しては?"
   },
   {
     "id": 1055,
@@ -22154,7 +24261,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>ができ【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>ができ<ruby>次第<rt>しだい</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます。"
   },
   {
     "id": 1056,
@@ -22175,7 +24284,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>がやみ【　　】、<ruby>出発<rt>しゅっぱつ</rt></ruby>することにしましょう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>がやみ<ruby>次第<rt>しだい</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>することにしましょう。"
   },
   {
     "id": 1057,
@@ -22196,7 +24307,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>詳しい<rt>くわしい</rt></ruby>ことは<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>入り<rt>いり</rt></ruby>【　　】、お<ruby>伝え<rt>つたえ</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>詳しい<rt>くわしい</rt></ruby>ことは<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>入り<rt>いり</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、お<ruby>伝え<rt>つたえ</rt></ruby>します。"
   },
   {
     "id": 1058,
@@ -22217,7 +24330,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>式<rt>しき</rt></ruby>が<ruby>終了<rt>しゅうりょう</rt></ruby>【　　】、ロビーに<ruby>集合<rt>しゅうごう</rt></ruby>してください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>式<rt>しき</rt></ruby>が<ruby>終了<rt>しゅうりょう</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、ロビーに<ruby>集合<rt>しゅうごう</rt></ruby>してください。"
   },
   {
     "id": 1059,
@@ -22238,7 +24353,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールが<ruby>決ま<rt>きま</rt></ruby>り【　　】、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールが<ruby>決ま<rt>きま</rt></ruby>り<ruby>次第<rt>しだい</rt></ruby>、<ruby>連絡<rt>れんらく</rt></ruby>してください。"
   },
   {
     "id": 1060,
@@ -22259,7 +24376,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>参加者<rt>さんかしゃ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>がわかり【　　】、<ruby>教え<rt>おしえ</rt></ruby>ていただけませんか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>参加者<rt>さんかしゃ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>がわかり<ruby>次第<rt>しだい</rt></ruby>、<ruby>教え<rt>おしえ</rt></ruby>ていただけませんか。"
   },
   {
     "id": 1061,
@@ -22280,7 +24399,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>議<rt>ぎ</rt></ruby>⻑が<ruby>到着<rt>とうちゃく</rt></ruby>【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ますので、もうしばらくお<ruby>待ち<rt>まち</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>議<rt>ぎ</rt></ruby>⻑が<ruby>到着次第<rt>とうちゃくしだい</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ますので、もうしばらくお<ruby>待ち<rt>まち</rt></ruby>ください。"
   },
   {
     "id": 1062,
@@ -22301,7 +24422,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見つ<rt>みつ</rt></ruby>かり【　　】、ご<ruby>連絡差<rt>れんらくさ</rt></ruby>し<ruby>上げ<rt>あげ</rt></ruby>ますから、ここに<ruby>連絡先<rt>れんらくさき</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見つ<rt>みつ</rt></ruby>かり<ruby>次第<rt>しだい</rt></ruby>、ご<ruby>連絡差<rt>れんらくさ</rt></ruby>し<ruby>上げ<rt>あげ</rt></ruby>ますから、ここに<ruby>連絡先<rt>れんらくさき</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>てください。"
   },
   {
     "id": 1063,
@@ -22322,7 +24445,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "次第だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君<rt>くん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君次<rt>きみじ</rt></ruby><ruby>第<rt>だい</rt></ruby>だ。"
   },
   {
     "id": 1064,
@@ -22343,7 +24468,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>【　　】<ruby>中止<rt>ちゅうし</rt></ruby>になる<ruby>場合<rt>ばあい</rt></ruby>もあります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>になる<ruby>場合<rt>ばあい</rt></ruby>もあります。"
   },
   {
     "id": 1065,
@@ -22364,7 +24491,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "次第で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>した<ruby>相手<rt>あいて</rt></ruby>【　　】<ruby>人生<rt>じんせい</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>ってしまうこともある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>した<ruby>相手次第<rt>あいてしだい</rt></ruby>で<ruby>人生<rt>じんせい</rt></ruby>が<ruby>決ま<rt>きま</rt></ruby>ってしまうこともある。"
   },
   {
     "id": 1066,
@@ -22385,7 +24514,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビアガーデンに<ruby>客<rt>きゃく</rt></ruby>がたくさんいるかどうかは<ruby>天気<rt>てんき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ビアガーデンに<ruby>客<rt>きゃく</rt></ruby>がたくさんいるかどうかは<ruby>天気<rt>てんき</rt></ruby><ruby>次第<rt>しだい</rt></ruby>だ。"
   },
   {
     "id": 1067,
@@ -22406,7 +24537,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "次第だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>紹介<rt>しょうかい</rt></ruby>するが、うまくいくかどうかは<ruby>本人<rt>ほんにん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>紹介<rt>しょうかい</rt></ruby>するが、うまくいくかどうかは<ruby>本人次第<rt>ほんにんしだい</rt></ruby>だ。"
   },
   {
     "id": 1068,
@@ -22427,7 +24560,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第で",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>【　　】、<ruby>相手<rt>あいて</rt></ruby>を<ruby>喜ば<rt>よろこば</rt></ruby>せるもあるし、<ruby>怒ら<rt>いから</rt></ruby>せることもある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で、<ruby>相手<rt>あいて</rt></ruby>を<ruby>喜ば<rt>よろこば</rt></ruby>せるもあるし、<ruby>怒ら<rt>いから</rt></ruby>せることもある。"
   },
   {
     "id": 1069,
@@ -22448,7 +24583,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "次第で",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>会社<rt>かいしゃ</rt></ruby>では<ruby>年齢<rt>ねんれい</rt></ruby>は<ruby>関係<rt>かんけい</rt></ruby>ない。<ruby>実力<rt>じつりょく</rt></ruby>【　　】<ruby>年収<rt>ねんしゅう</rt></ruby>もアップする。",
+    "sentence_jp_ruby": "その<ruby>会社<rt>かいしゃ</rt></ruby>では<ruby>年齢<rt>ねんれい</rt></ruby>は<ruby>関係<rt>かんけい</rt></ruby>ない。<ruby>実力<rt>じつりょく</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で<ruby>年収<rt>ねんしゅう</rt></ruby>もアップする。"
   },
   {
     "id": 1070,
@@ -22469,7 +24606,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "次第では",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す。<ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>【　　】<ruby>退院<rt>たいいん</rt></ruby>できるかもしれません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す。<ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果次第<rt>けっかしだい</rt></ruby>では<ruby>退院<rt>たいいん</rt></ruby>できるかもしれません。"
   },
   {
     "id": 1071,
@@ -22490,7 +24629,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>は【　　】おさまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>風<rt>かぜ</rt></ruby>は<ruby>次第<rt>しだい</rt></ruby>におさまった。"
   },
   {
     "id": 1072,
@@ -22511,7 +24652,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "次第に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは【　　】<ruby>消え<rt>きえ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>次第<rt>しだい</rt></ruby>に<ruby>消え<rt>きえ</rt></ruby>た。"
   },
   {
     "id": 1073,
@@ -22532,7 +24675,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "次第に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは【　　】<ruby>仲良く<rt>なかよく</rt></ruby>なっていった。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>次第<rt>しだい</rt></ruby>に<ruby>仲良く<rt>なかよく</rt></ruby>なっていった。"
   },
   {
     "id": 1074,
@@ -22553,7 +24698,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "次第に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でしたが、<ruby>午後<rt>ごご</rt></ruby>から【　　】<ruby>天気<rt>てんき</rt></ruby>は<ruby>回復<rt>かいふく</rt></ruby>してきました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でしたが、<ruby>午後<rt>ごご</rt></ruby>から<ruby>次第<rt>しだい</rt></ruby>に<ruby>天気<rt>てんき</rt></ruby>は<ruby>回復<rt>かいふく</rt></ruby>してきました。"
   },
   {
     "id": 1075,
@@ -22574,7 +24721,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>れば、【　　】<ruby>結果<rt>けっか</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>ようになりますよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>れば、<ruby>次第<rt>しだい</rt></ruby>に<ruby>結果<rt>けっか</rt></ruby>が<ruby>出る<rt>でる</rt></ruby>ようになりますよ。"
   },
   {
     "id": 1076,
@@ -22595,7 +24744,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "次第に",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>戦争<rt>せんそう</rt></ruby>によってあの<ruby>国<rt>くに</rt></ruby>は<ruby>資源<rt>しげん</rt></ruby>を【　　】<ruby>失っ<rt>うっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>戦争<rt>せんそう</rt></ruby>によってあの<ruby>国<rt>くに</rt></ruby>は<ruby>資源<rt>しげん</rt></ruby>を<ruby>次第<rt>しだい</rt></ruby>に<ruby>失っ<rt>うっ</rt></ruby>た。"
   },
   {
     "id": 1077,
@@ -22616,7 +24767,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第に",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは【　　】この<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>慣れ<rt>なれ</rt></ruby>てきている。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>次第<rt>しだい</rt></ruby>にこの<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>慣れ<rt>なれ</rt></ruby>てきている。"
   },
   {
     "id": 1078,
@@ -22637,7 +24790,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "次第に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>手当た<rt>てあた</rt></ruby>り【　　】<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>手当たり次第<rt>てあたりしだい</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>。"
   },
   {
     "id": 1079,
@@ -22658,7 +24813,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しかも",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>はわかりやすくて、【　　】<ruby>詳しい<rt>くわしい</rt></ruby> 。",
+    "sentence_jp_ruby": "その<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>はわかりやすくて、しかも<ruby>詳しい<rt>くわしい</rt></ruby> 。"
   },
   {
     "id": 1080,
@@ -22679,7 +24836,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しかも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>とても<ruby>暑い<rt>あつい</rt></ruby>。【　　】、<ruby>湿度<rt>しつど</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>ので<ruby>何も<rt>なにも</rt></ruby>したくないだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>とても<ruby>暑い<rt>あつい</rt></ruby>。しかも、<ruby>湿度<rt>しつど</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>ので<ruby>何も<rt>なにも</rt></ruby>したくないだ。"
   },
   {
     "id": 1081,
@@ -22700,7 +24859,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しかも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>がとても<ruby>早い<rt>はやい</rt></ruby>。【　　】、<ruby>正確<rt>せいかく</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>だから<ruby>安心し<rt>あんしんし</rt></ruby>て<ruby>任せ<rt>まかせ</rt></ruby>られる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>がとても<ruby>早い<rt>はやい</rt></ruby>。しかも、<ruby>正確<rt>せいかく</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>だから<ruby>安心し<rt>あんしんし</rt></ruby>て<ruby>任せ<rt>まかせ</rt></ruby>られる。"
   },
   {
     "id": 1082,
@@ -22721,7 +24882,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "しかも",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>がいい。【　　】<ruby>性格<rt>せいかく</rt></ruby>もいいですから<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>のことが<ruby>好き<rt>すき</rt></ruby>になる。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>がいい。しかも<ruby>性格<rt>せいかく</rt></ruby>もいいですから<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>のことが<ruby>好き<rt>すき</rt></ruby>になる。"
   },
   {
     "id": 1083,
@@ -22742,7 +24905,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しかも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外食<rt>がいしょく</rt></ruby>は<ruby>高く<rt>たかく</rt></ruby>て。【　　】、<ruby>栄養<rt>えいよう</rt></ruby>がかたよるので、なるべく<ruby>自炊<rt>じすい</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外食<rt>がいしょく</rt></ruby>は<ruby>高く<rt>たかく</rt></ruby>て。しかも、<ruby>栄養<rt>えいよう</rt></ruby>がかたよるので、なるべく<ruby>自炊<rt>じすい</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いる。"
   },
   {
     "id": 1084,
@@ -22763,7 +24928,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しかも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読み方<rt>よみかた</rt></ruby>は<ruby>一つ<rt>ひとつ</rt></ruby>だけではなく。【　　】、<ruby>似た<rt>にた</rt></ruby>ようなものがたくさんあるので<ruby>覚え<rt>おぼえ</rt></ruby>るのが<ruby>大変<rt>たいへん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読み方<rt>よみかた</rt></ruby>は<ruby>一つ<rt>ひとつ</rt></ruby>だけではなく。しかも、<ruby>似た<rt>にた</rt></ruby>ようなものがたくさんあるので<ruby>覚え<rt>おぼえ</rt></ruby>るのが<ruby>大変<rt>たいへん</rt></ruby>だ。"
   },
   {
     "id": 1085,
@@ -22784,7 +24951,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しかも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先日<rt>せんじつ</rt></ruby><ruby>泊ま<rt>とま</rt></ruby>ったホテルは、<ruby>古く<rt>ふるく</rt></ruby>て<ruby>高かっ<rt>たかっ</rt></ruby>た。【　　】サービスが<ruby>悪か<rt>わるか</rt></ruby>ったので、もう<ruby>二度<rt>にど</rt></ruby>と<ruby>行か<rt>いか</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先日<rt>せんじつ</rt></ruby><ruby>泊ま<rt>とま</rt></ruby>ったホテルは、<ruby>古く<rt>ふるく</rt></ruby>て<ruby>高かっ<rt>たかっ</rt></ruby>た。しかもサービスが<ruby>悪か<rt>わるか</rt></ruby>ったので、もう<ruby>二度<rt>にど</rt></ruby>と<ruby>行か<rt>いか</rt></ruby>ない。"
   },
   {
     "id": 1086,
@@ -22805,7 +24974,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "その上",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】、そのレストランは<ruby>高橋<rt>たかはし</rt></ruby>さんたちのホテルからとても<ruby>近い<rt>ちかい</rt></ruby>。",
+    "sentence_jp_ruby": "その<ruby>上<rt>うえ</rt></ruby>、そのレストランは<ruby>高橋<rt>たかはし</rt></ruby>さんたちのホテルからとても<ruby>近い<rt>ちかい</rt></ruby>。"
   },
   {
     "id": 1087,
@@ -22826,7 +24997,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>高い<rt>たかい</rt></ruby>、【　　】デザインも<ruby>良く<rt>よく</rt></ruby>ない。",
+    "sentence_jp_ruby": "この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>高い<rt>たかい</rt></ruby>、その<ruby>上<rt>うえ</rt></ruby>デザインも<ruby>良く<rt>よく</rt></ruby>ない。"
   },
   {
     "id": 1088,
@@ -22847,7 +25020,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>です。【　　】<ruby>湿度<rt>しつど</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>です。その<ruby>上<rt>うえ</rt></ruby><ruby>湿度<rt>しつど</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。"
   },
   {
     "id": 1089,
@@ -22868,7 +25043,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>面白い<rt>おもしろい</rt></ruby>し、【　　】<ruby>給料<rt>きゅうりょう</rt></ruby>がいいのです。",
+    "sentence_jp_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>面白い<rt>おもしろい</rt></ruby>し、その<ruby>上<rt>うえ</rt></ruby><ruby>給料<rt>きゅうりょう</rt></ruby>がいいのです。"
   },
   {
     "id": 1090,
@@ -22889,7 +25066,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "その上",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>を<ruby>出来る<rt>できる</rt></ruby>し、【　　】<ruby>日本語<rt>にほんご</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>を<ruby>出来る<rt>できる</rt></ruby>し、その<ruby>上日<rt>じょうじつ</rt></ruby><ruby>本語<rt>ほんご</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>だ。"
   },
   {
     "id": 1091,
@@ -22910,7 +25089,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "【　　】、あなたは<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>も<ruby>受ける<rt>うける</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があるよ。",
+    "sentence_jp_ruby": "その<ruby>上<rt>うえ</rt></ruby>、あなたは<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>も<ruby>受ける<rt>うける</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があるよ。"
   },
   {
     "id": 1092,
@@ -22931,7 +25112,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "サイクリングはいい<ruby>運動<rt>うんどう</rt></ruby>になる。【　　】<ruby>空気<rt>くうき</rt></ruby>を<ruby>汚染<rt>おせん</rt></ruby>することもない。",
+    "sentence_jp_ruby": "サイクリングはいい<ruby>運動<rt>うんどう</rt></ruby>になる。その<ruby>上空<rt>じょうくう</rt></ruby><ruby>気を<rt>きを</rt></ruby><ruby>汚染<rt>おせん</rt></ruby>することもない。"
   },
   {
     "id": 1093,
@@ -22952,7 +25135,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "その上",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>にん</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、【　　】チケットのお<ruby>金<rt>きん</rt></ruby>もくれた。",
+    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>にん</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、その<ruby>上<rt>うえ</rt></ruby>チケットのお<ruby>金<rt>きん</rt></ruby>もくれた。"
   },
   {
     "id": 1094,
@@ -22973,7 +25158,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それなのに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。【　　】<ruby>給料<rt>きゅうりょう</rt></ruby>がまだ<ruby>少ない<rt>すくない</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに<ruby>給料<rt>きゅうりょう</rt></ruby>がまだ<ruby>少ない<rt>すくない</rt></ruby>。"
   },
   {
     "id": 1095,
@@ -22994,7 +25181,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それなのに",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>間に<rt>まに</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>た<ruby>時計<rt>とけい</rt></ruby>は<ruby>高かっ<rt>たかっ</rt></ruby>た。【　　】すぐに<ruby>壊れ<rt>こわれ</rt></ruby>た。",
+    "sentence_jp_ruby": "その<ruby>間に<rt>まに</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>た<ruby>時計<rt>とけい</rt></ruby>は<ruby>高かっ<rt>たかっ</rt></ruby>た。それなのにすぐに<ruby>壊れ<rt>こわれ</rt></ruby>た。"
   },
   {
     "id": 1096,
@@ -23015,7 +25204,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それなのに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>よりも<ruby>学校<rt>がっこう</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>。【　　】いつも<ruby>遅刻<rt>ちこく</rt></ruby>する。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>よりも<ruby>学校<rt>がっこう</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>。それなのにいつも<ruby>遅刻<rt>ちこく</rt></ruby>する。"
   },
   {
     "id": 1097,
@@ -23036,7 +25227,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それなのに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>している。【　　】<ruby>成績<rt>せいせき</rt></ruby>はよくならない。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>している。それなのに<ruby>成績<rt>せいせき</rt></ruby>はよくならない。"
   },
   {
     "id": 1098,
@@ -23057,7 +25250,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それなのに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。【　　】、お<ruby>金<rt>きん</rt></ruby>がちっともたまらない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。それなのに、お<ruby>金<rt>きん</rt></ruby>がちっともたまらない。"
   },
   {
     "id": 1099,
@@ -23078,7 +25273,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それなのに",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>時に<rt>ときに</rt></ruby>バイクで<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>。【　　】<ruby>休館日<rt>きゅうかんび</rt></ruby>だった。<ruby>調べ<rt>しらべ</rt></ruby>てから<ruby>行け<rt>いけ</rt></ruby>ばよかった。",
+    "sentence_jp_ruby": "こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>時に<rt>ときに</rt></ruby>バイクで<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>。それなのに<ruby>休館日<rt>きゅうかんび</rt></ruby>だった。<ruby>調べ<rt>しらべ</rt></ruby>てから<ruby>行け<rt>いけ</rt></ruby>ばよかった。"
   },
   {
     "id": 1100,
@@ -23099,7 +25296,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それなのに",
-    "notes": "時相「昨晩」→「先日の夜」"
+    "notes": "時相「昨晩」→「先日の夜」",
+    "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>勉強<rt>べんきょう</rt></ruby>をした。【　　】<ruby>試験<rt>しけん</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>て、よい<ruby>点<rt>てん</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>勉強<rt>べんきょう</rt></ruby>をした。それなのに<ruby>試験<rt>しけん</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>て、よい<ruby>点<rt>てん</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>なかった。"
   },
   {
     "id": 1101,
@@ -23120,7 +25319,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それなのに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>早起き<rt>はやおき</rt></ruby>するために<ruby>目覚ま<rt>めざま</rt></ruby>し<ruby>時計<rt>とけい</rt></ruby>を2つセットした。【　　】<ruby>止め<rt>とめ</rt></ruby>て<ruby>寝て<rt>ねて</rt></ruby>しまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>早起き<rt>はやおき</rt></ruby>するために<ruby>目覚ま<rt>めざま</rt></ruby>し<ruby>時計<rt>とけい</rt></ruby>を2つセットした。それなのに<ruby>止め<rt>とめ</rt></ruby>て<ruby>寝て<rt>ねて</rt></ruby>しまった。"
   },
   {
     "id": 1102,
@@ -23141,7 +25342,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>朝<rt>あさ</rt></ruby>から、<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>です。」 じつは、「【　　】、<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>て<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>ほうがいいですよ。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>朝<rt>あさ</rt></ruby>から、<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>です。」 じつは、「それなら、<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>て<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行った<rt>いった</rt></ruby>ほうがいいですよ。」"
   },
   {
     "id": 1103,
@@ -23162,7 +25365,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>道<rt>みち</rt></ruby>がすごく<ruby>渋滞<rt>じゅうたい</rt></ruby>しているようだよ。」 じつは、「【　　】、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行き<rt>いき</rt></ruby>ましょう。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>道<rt>みち</rt></ruby>がすごく<ruby>渋滞<rt>じゅうたい</rt></ruby>しているようだよ。」 じつは、「それなら、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行き<rt>いき</rt></ruby>ましょう。」"
   },
   {
     "id": 1104,
@@ -23183,7 +25388,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>何か<rt>なにか</rt></ruby><ruby>甘い<rt>あまい</rt></ruby>ものを<ruby>食べた<rt>たべた</rt></ruby>い。」 じつは、「【　　】、<ruby>冷凍庫<rt>れいとうこ</rt></ruby>にアイスクリームがあるから<ruby>食べ<rt>たべ</rt></ruby>る?」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>何か<rt>なにか</rt></ruby><ruby>甘い<rt>あまい</rt></ruby>ものを<ruby>食べた<rt>たべた</rt></ruby>い。」 じつは、「それなら、<ruby>冷凍庫<rt>れいとうこ</rt></ruby>にアイスクリームがあるから<ruby>食べ<rt>たべ</rt></ruby>る?」"
   },
   {
     "id": 1105,
@@ -23204,7 +25411,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どこか<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行こ<rt>いこ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>んだけど。」 じつは、「【　　】、<ruby>京都<rt>きょうと</rt></ruby>がいいよ。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「どこか<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行こ<rt>いこ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>んだけど。」 じつは、「それなら、<ruby>京都<rt>きょうと</rt></ruby>がいいよ。」"
   },
   {
     "id": 1106,
@@ -23225,7 +25434,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>新しい<rt>あたらしい</rt></ruby>スマホが<ruby>欲しい<rt>ほしい</rt></ruby>んだけど、<ruby>買っ<rt>かっ</rt></ruby>てくれない?」 じつは、「【　　】、アルバイトをして<ruby>自分<rt>じぶん</rt></ruby>で<ruby>買い<rt>かい</rt></ruby>なさい。」\"「あたらしいスマホがほしいんだけど、かってくれない?」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>新しい<rt>あたらしい</rt></ruby>スマホが<ruby>欲しい<rt>ほしい</rt></ruby>んだけど、<ruby>買っ<rt>かっ</rt></ruby>てくれない?」 じつは、「それなら、アルバイトをして<ruby>自分<rt>じぶん</rt></ruby>で<ruby>買い<rt>かい</rt></ruby>なさい。」\"「あたらしいスマホがほしいんだけど、かってくれない?」"
   },
   {
     "id": 1107,
@@ -23246,7 +25457,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それなら",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "「そのままだと、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>できないと<ruby>思う<rt>おもう</rt></ruby>。」 「【　　】、ゲームばかりせず、もっと<ruby>勉強<rt>べんきょう</rt></ruby>しなさい。」",
+    "sentence_jp_ruby": "「そのままだと、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>できないと<ruby>思う<rt>おもう</rt></ruby>。」 「それなら、ゲームばかりせず、もっと<ruby>勉強<rt>べんきょう</rt></ruby>しなさい。」"
   },
   {
     "id": 1108,
@@ -23267,7 +25480,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "それなら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>最近<rt>さいきん</rt></ruby>、<ruby>太っ<rt>ふとっ</rt></ruby>てきたから<ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いるんだ。」 じつは、「【　　】、あそこのジムがいいらしいよ。」",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、「<ruby>最近<rt>さいきん</rt></ruby>、<ruby>太っ<rt>ふとっ</rt></ruby>てきたから<ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いるんだ。」 じつは、「それなら、あそこのジムがいいらしいよ。」"
   },
   {
     "id": 1109,
@@ -23288,7 +25503,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それにしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】あなたは<ruby>絵<rt>え</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ですね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それにしてもあなたは<ruby>絵<rt>え</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ですね。"
   },
   {
     "id": 1110,
@@ -23309,7 +25526,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それにしても",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたが<ruby>優秀<rt>ゆうしゅう</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "それにしても<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたが<ruby>優秀<rt>ゆうしゅう</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 1111,
@@ -23330,7 +25549,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それにしても",
-    "notes": "時刻「8時半」→「9時半」; 時刻「9時」→「10時」; 時刻「10時」→「11時」"
+    "notes": "時刻「8時半」→「9時半」; 時刻「9時」→「10時」; 時刻「10時」→「11時」",
+    "question_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰る<rt>かえる</rt></ruby>と<ruby>言った<rt>いった</rt></ruby>が、【　　】11<ruby>時半<rt>じはん</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰る<rt>かえる</rt></ruby>と<ruby>言った<rt>いった</rt></ruby>が、それにしても11<ruby>時半<rt>じはん</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>した。"
   },
   {
     "id": 1112,
@@ -23351,7 +25572,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それにしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】あなたは<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>働く<rt>はたらく</rt></ruby>つもりですか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それにしてもあなたは<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>働く<rt>はたらく</rt></ruby>つもりですか。"
   },
   {
     "id": 1113,
@@ -23372,7 +25595,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それにしても",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんがちょっと<ruby>遅刻<rt>ちこく</rt></ruby>すると<ruby>言った<rt>いった</rt></ruby>が、【　　】<ruby>遅く<rt>おそく</rt></ruby>ない?",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんがちょっと<ruby>遅刻<rt>ちこく</rt></ruby>すると<ruby>言った<rt>いった</rt></ruby>が、それにしても<ruby>遅く<rt>おそく</rt></ruby>ない?"
   },
   {
     "id": 1114,
@@ -23393,7 +25618,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それにしても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はいつも<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですよ。【　　】<ruby>今年<rt>こんねん</rt></ruby>はずいぶん<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はいつも<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですよ。それにしても<ruby>今年<rt>こんねん</rt></ruby>はずいぶん<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですね。"
   },
   {
     "id": 1115,
@@ -23414,7 +25641,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それにしても",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てねと<ruby>伝え<rt>つたえ</rt></ruby>たけど、【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんがいつも<ruby>同じ<rt>おなじ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てねと<ruby>伝え<rt>つたえ</rt></ruby>たけど、それにしても<ruby>鈴木<rt>すずき</rt></ruby>さんがいつも<ruby>同じ<rt>おなじ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>た。"
   },
   {
     "id": 1116,
@@ -23435,7 +25664,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それにしても",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>彼<rt>かれ</rt></ruby>がそれを<ruby>解決<rt>かいけつ</rt></ruby>するのに<ruby>手<rt>て</rt></ruby>を<ruby>貸し<rt>かし</rt></ruby>ているが、【　　】<ruby>難問<rt>なんもん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>彼<rt>かれ</rt></ruby>がそれを<ruby>解決<rt>かいけつ</rt></ruby>するのに<ruby>手<rt>て</rt></ruby>を<ruby>貸し<rt>かし</rt></ruby>ているが、それにしても<ruby>難問<rt>なんもん</rt></ruby>だ。"
   },
   {
     "id": 1117,
@@ -23456,7 +25687,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そういえば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】、<ruby>子供<rt>こども</rt></ruby>のころ、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>ここに<ruby>来た<rt>きた</rt></ruby>ことを<ruby>覚え<rt>おぼえ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そういえば、<ruby>子供<rt>こども</rt></ruby>のころ、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>ここに<ruby>来た<rt>きた</rt></ruby>ことを<ruby>覚え<rt>おぼえ</rt></ruby>ている。"
   },
   {
     "id": 1118,
@@ -23477,7 +25710,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そういえば",
-    "notes": "主語「兄」→「姉」"
+    "notes": "主語「兄」→「姉」",
+    "question_ruby": "いい<ruby>家<rt>いえ</rt></ruby>ですね。【　　】、お<ruby>姉さん<rt>ねえさん</rt></ruby>は<ruby>建築家<rt>けんちくか</rt></ruby>さんでしたよね。",
+    "sentence_jp_ruby": "いい<ruby>家<rt>いえ</rt></ruby>ですね。そういえば、お<ruby>姉さん<rt>ねえさん</rt></ruby>は<ruby>建築家<rt>けんちくか</rt></ruby>さんでしたよね。"
   },
   {
     "id": 1119,
@@ -23498,7 +25733,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そういえば",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "【　　】、<ruby>一昨日<rt>いっさくじつ</rt></ruby>のテストはどうでしたか? よくできましたか?",
+    "sentence_jp_ruby": "そういえば、<ruby>一昨日<rt>いっさくじつ</rt></ruby>のテストはどうでしたか? よくできましたか?"
   },
   {
     "id": 1120,
@@ -23519,7 +25756,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そういえば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あれ、<ruby>雨<rt>あめ</rt></ruby>?【　　】、<ruby>天気予報<rt>てんきよほう</rt></ruby>で<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>って<ruby>言って<rt>いって</rt></ruby>たね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あれ、<ruby>雨<rt>あめ</rt></ruby>?そういえば、<ruby>天気予報<rt>てんきよほう</rt></ruby>で<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降る<rt>ふる</rt></ruby>って<ruby>言って<rt>いって</rt></ruby>たね。"
   },
   {
     "id": 1121,
@@ -23540,7 +25779,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そういえば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>売り場<rt>うりば</rt></ruby>が<ruby>混ん<rt>こん</rt></ruby>でいると<ruby>思った<rt>おもった</rt></ruby>ら、チョコレートか。ああ、【　　】、<ruby>明日<rt>あした</rt></ruby>はバレンタインデーだった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>売り場<rt>うりば</rt></ruby>が<ruby>混ん<rt>こん</rt></ruby>でいると<ruby>思った<rt>おもった</rt></ruby>ら、チョコレートか。ああ、そういえば、<ruby>明日<rt>あした</rt></ruby>はバレンタインデーだった。"
   },
   {
     "id": 1122,
@@ -23561,7 +25802,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そう言えば",
-    "notes": "店舗「ケーキ屋」→「洋菓子店」"
+    "notes": "店舗「ケーキ屋」→「洋菓子店」",
+    "question_ruby": "<ruby>今度<rt>こんど</rt></ruby>、<ruby>美味しい<rt>おいしい</rt></ruby>スイーツを<ruby>食べ<rt>たべ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいですね。【　　】、あそこに<ruby>新しい<rt>あたらしい</rt></ruby><ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>ができていましたよ。",
+    "sentence_jp_ruby": "<ruby>今度<rt>こんど</rt></ruby>、<ruby>美味しい<rt>おいしい</rt></ruby>スイーツを<ruby>食べ<rt>たべ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいですね。そう<ruby>言え<rt>いえ</rt></ruby>ば、あそこに<ruby>新しい<rt>あたらしい</rt></ruby><ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>ができていましたよ。"
   },
   {
     "id": 1123,
@@ -23582,7 +25825,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そう言えば",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>、<ruby>遅刻<rt>ちこく</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですね。【　　】、<ruby>事故<rt>じこ</rt></ruby>で<ruby>渋滞<rt>じゅうたい</rt></ruby>しているとラジオで<ruby>言って<rt>いって</rt></ruby>いました。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>、<ruby>遅刻<rt>ちこく</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですね。そう<ruby>言え<rt>いえ</rt></ruby>ば、<ruby>事故<rt>じこ</rt></ruby>で<ruby>渋滞<rt>じゅうたい</rt></ruby>しているとラジオで<ruby>言って<rt>いって</rt></ruby>いました。"
   },
   {
     "id": 1124,
@@ -23603,7 +25848,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そうすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、まだ<ruby>出発<rt>しゅっぱつ</rt></ruby>しないの?【　　】、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合わ<rt>まにあわ</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、まだ<ruby>出発<rt>しゅっぱつ</rt></ruby>しないの?そうすると、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合わ<rt>まにあわ</rt></ruby>ないよ。"
   },
   {
     "id": 1125,
@@ -23624,7 +25871,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そうすると",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>を<ruby>早く<rt>はやく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>したいです。【　　】、<ruby>仕事<rt>しごと</rt></ruby>をやって<ruby>親<rt>おや</rt></ruby>に<ruby>返報<rt>へんぽう</rt></ruby>できます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>を<ruby>早く<rt>はやく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>したいです。そうすると、<ruby>仕事<rt>しごと</rt></ruby>をやって<ruby>親<rt>おや</rt></ruby>に<ruby>返報<rt>へんぽう</rt></ruby>できます。"
   },
   {
     "id": 1126,
@@ -23645,7 +25894,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そうすると",
-    "notes": "曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; スポーツ「テニス」→「サッカー」"
+    "notes": "曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; スポーツ「テニス」→「サッカー」",
+    "question_ruby": "サッカーの<ruby>練習<rt>れんしゅう</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>にしよう。【　　】、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>は、<ruby>時間<rt>じかん</rt></ruby>ができる。",
+    "sentence_jp_ruby": "サッカーの<ruby>練習<rt>れんしゅう</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>にしよう。そうすると、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>は、<ruby>時間<rt>じかん</rt></ruby>ができる。"
   },
   {
     "id": 1127,
@@ -23666,7 +25917,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そうすると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>帰る<rt>かえる</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回っ<rt>まわっ</rt></ruby>てみた。【　　】、トイレの<ruby>電気<rt>でんき</rt></ruby>がまだついて、<ruby>気づ<rt>きづ</rt></ruby>いた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>帰る<rt>かえる</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回っ<rt>まわっ</rt></ruby>てみた。そうすると、トイレの<ruby>電気<rt>でんき</rt></ruby>がまだついて、<ruby>気づ<rt>きづ</rt></ruby>いた。"
   },
   {
     "id": 1128,
@@ -23687,7 +25940,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そうすると",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>目の前<rt>めのまえ</rt></ruby>にあったペンを<ruby>手に<rt>てに</rt></ruby>とってなにやらメモし<ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "そうすると<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>目の前<rt>めのまえ</rt></ruby>にあったペンを<ruby>手に<rt>てに</rt></ruby>とってなにやらメモし<ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 1129,
@@ -23708,7 +25963,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そうすると",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>の?【　　】、<ruby>地下鉄<rt>ちかてつ</rt></ruby>よりお<ruby>金<rt>きん</rt></ruby>が3<ruby>倍<rt>ばい</rt></ruby>にかかるよ。",
+    "sentence_jp_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>の?そうすると、<ruby>地下鉄<rt>ちかてつ</rt></ruby>よりお<ruby>金<rt>きん</rt></ruby>が3<ruby>倍<rt>ばい</rt></ruby>にかかるよ。"
   },
   {
     "id": 1130,
@@ -23729,7 +25986,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そうすると",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>方法<rt>ほうほう</rt></ruby>はいいかもしれない。【　　】、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>楽<rt>らく</rt></ruby>になる。",
+    "sentence_jp_ruby": "あの<ruby>方法<rt>ほうほう</rt></ruby>はいいかもしれない。そうすると、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>楽<rt>らく</rt></ruby>になる。"
   },
   {
     "id": 1131,
@@ -23750,7 +26009,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "末に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た【　　】、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。"
   },
   {
     "id": 1132,
@@ -23771,7 +26032,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "末",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>激しい<rt>はげしい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の【　　】、ようやく<ruby>意見<rt>いけん</rt></ruby>がまとまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>激しい<rt>はげしい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>、ようやく<ruby>意見<rt>いけん</rt></ruby>がまとまった。"
   },
   {
     "id": 1133,
@@ -23792,7 +26055,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "末に",
-    "notes": "期間「3年間」→「4年間」"
+    "notes": "期間「3年間」→「4年間」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>4<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>闘病生活<rt>とうびょうせいかつ</rt></ruby>の【　　】、<ruby>亡く<rt>なく</rt></ruby>なった。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby>4<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>闘病生活<rt>とうびょうせいかつ</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>に、<ruby>亡く<rt>なく</rt></ruby>なった。"
   },
   {
     "id": 1134,
@@ -23813,7 +26078,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "末に",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>考え<rt>かんがえ</rt></ruby>た【　　】、<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>て<ruby>独立<rt>どくりつ</rt></ruby>することにしました。",
+    "sentence_jp_ruby": "<ruby>考え<rt>かんがえ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>に、<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>て<ruby>独立<rt>どくりつ</rt></ruby>することにしました。"
   },
   {
     "id": 1135,
@@ -23834,7 +26101,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "末",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>住<rt>じゅう</rt></ruby>⺠と<ruby>話し合い<rt>はなしあい</rt></ruby>の【　　】、あの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>となった。",
+    "sentence_jp_ruby": "<ruby>住<rt>じゅう</rt></ruby>⺠と<ruby>話し合い<rt>はなしあい</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>、あの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>となった。"
   },
   {
     "id": 1136,
@@ -23855,7 +26124,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "末に",
-    "notes": "数値「8時間」→「6時間」"
+    "notes": "数値「8時間」→「6時間」",
+    "question_ruby": "6<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>話し合い<rt>はなしあい</rt></ruby>の【　　】、やっと<ruby>契約<rt>けいやく</rt></ruby>を<ruby>結ん<rt>むすん</rt></ruby>だ。",
+    "sentence_jp_ruby": "6<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>話し合い<rt>はなしあい</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>に、やっと<ruby>契約<rt>けいやく</rt></ruby>を<ruby>結ん<rt>むすん</rt></ruby>だ。"
   },
   {
     "id": 1137,
@@ -23876,7 +26147,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "末",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>た【　　】、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら<ruby>国<rt>くに</rt></ruby>へ<ruby>帰る<rt>かえる</rt></ruby>ことにした。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら<ruby>国<rt>くに</rt></ruby>へ<ruby>帰る<rt>かえる</rt></ruby>ことにした。"
   },
   {
     "id": 1138,
@@ -23897,7 +26170,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "末",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>悩ん<rt>なやん</rt></ruby>だ【　　】、<ruby>進学<rt>しんがく</rt></ruby>ではなく<ruby>就職<rt>しゅうしょく</rt></ruby>することにした。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>悩ん<rt>なやん</rt></ruby>だ<ruby>末<rt>まつ</rt></ruby>、<ruby>進学<rt>しんがく</rt></ruby>ではなく<ruby>就職<rt>しゅうしょく</rt></ruby>することにした。"
   },
   {
     "id": 1139,
@@ -23918,7 +26193,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "少しも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>でピクニックするなんて、【　　】<ruby>楽しく<rt>たのしく</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>でピクニックするなんて、<ruby>少し<rt>すこし</rt></ruby>も<ruby>楽しく<rt>たのしく</rt></ruby>ないよ。"
   },
   {
     "id": 1140,
@@ -23939,7 +26216,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "少しも",
-    "notes": "期間「10年」→「5年」"
+    "notes": "期間「10年」→「5年」",
+    "question_ruby": "この<ruby>町<rt>まち</rt></ruby>は5<ruby>年前<rt>ねんまえ</rt></ruby>と【　　】<ruby>変わ<rt>かわ</rt></ruby>らない。",
+    "sentence_jp_ruby": "この<ruby>町<rt>まち</rt></ruby>は5<ruby>年前<rt>ねんまえ</rt></ruby>と<ruby>少し<rt>すこし</rt></ruby>も<ruby>変わ<rt>かわ</rt></ruby>らない。"
   },
   {
     "id": 1141,
@@ -23960,7 +26239,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少しも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたは【　　】<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>読め<rt>よめ</rt></ruby>ないのですか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたは<ruby>少し<rt>すこし</rt></ruby>も<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>読め<rt>よめ</rt></ruby>ないのですか。"
   },
   {
     "id": 1142,
@@ -23981,7 +26262,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少しも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことは【　　】<ruby>理解<rt>りかい</rt></ruby>できなかった。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことは<ruby>少し<rt>すこし</rt></ruby>も<ruby>理解<rt>りかい</rt></ruby>できなかった。"
   },
   {
     "id": 1143,
@@ -24002,7 +26285,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "少しも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>冗談<rt>じょうだん</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>には【　　】<ruby>面白く<rt>おもしろく</rt></ruby>ないよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>冗談<rt>じょうだん</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>には<ruby>少し<rt>すこし</rt></ruby>も<ruby>面白く<rt>おもしろく</rt></ruby>ないよ。"
   },
   {
     "id": 1144,
@@ -24023,7 +26308,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "少しも",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "その<ruby>薬<rt>くすり</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんには【　　】<ruby>効か<rt>きか</rt></ruby>なかった。",
+    "sentence_jp_ruby": "その<ruby>薬<rt>くすり</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>さんには<ruby>少し<rt>すこし</rt></ruby>も<ruby>効か<rt>きか</rt></ruby>なかった。"
   },
   {
     "id": 1145,
@@ -24044,7 +26331,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "少しも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>刑事<rt>けいじ</rt></ruby>になった<ruby>事<rt>こと</rt></ruby>は【　　】<ruby>不思議<rt>ふしぎ</rt></ruby>でない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>刑事<rt>けいじ</rt></ruby>になった<ruby>事<rt>こと</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>も<ruby>不思議<rt>ふしぎ</rt></ruby>でない。"
   },
   {
     "id": 1146,
@@ -24065,7 +26354,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少しも",
-    "notes": "時相「昨日」→「一昨日」"
+    "notes": "時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>手術<rt>しゅじゅつ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>に【　　】<ruby>苦痛<rt>くつう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>手術<rt>しゅじゅつ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby>も<ruby>苦痛<rt>くつう</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>ない。"
   },
   {
     "id": 1147,
@@ -24086,7 +26377,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "少なくとも",
-    "notes": "年齢「30歳」→「35歳」; 年齢「35歳」→「40歳」"
+    "notes": "年齢「30歳」→「35歳」; 年齢「35歳」→「40歳」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は【　　】40<ruby>歳<rt>とし</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>少なくとも<rt>すくなくとも</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だ。"
   },
   {
     "id": 1148,
@@ -24107,7 +26400,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少なくとも",
-    "notes": "数値「10時間」→「8時間」; 時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」"
+    "notes": "数値「10時間」→「8時間」; 時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」",
+    "question_ruby": "<ruby>彼は<rt>かれは</rt></ruby>【　　】1<ruby>日<rt>にち</rt></ruby>に11<ruby>時間<rt>じかん</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>彼は<rt>かれは</rt></ruby><ruby>少なくとも<rt>すくなくとも</rt></ruby>1<ruby>日<rt>にち</rt></ruby>に11<ruby>時間<rt>じかん</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>た。"
   },
   {
     "id": 1149,
@@ -24128,7 +26423,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "少なくとも",
-    "notes": "人数「3人」→「4人」"
+    "notes": "人数「3人」→「4人」",
+    "question_ruby": "<ruby>人数<rt>にんずう</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ませんね。【　　】あと4<ruby>人<rt>にん</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>人数<rt>にんずう</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ませんね。<ruby>少なくとも<rt>すくなくとも</rt></ruby>あと4<ruby>人<rt>にん</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>です。"
   },
   {
     "id": 1150,
@@ -24149,7 +26446,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "少なくとも",
-    "notes": "時刻「10時」→「11時」"
+    "notes": "時刻「10時」→「11時」",
+    "question_ruby": "あなたは【　　】11<ruby>時に<rt>ときに</rt></ruby>は<ruby>寝る<rt>ねる</rt></ruby>べきだ。",
+    "sentence_jp_ruby": "あなたは<ruby>少なくとも<rt>すくなくとも</rt></ruby>11<ruby>時に<rt>ときに</rt></ruby>は<ruby>寝る<rt>ねる</rt></ruby>べきだ。"
   },
   {
     "id": 1151,
@@ -24170,7 +26469,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "少なくとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>週<rt>しゅう</rt></ruby>に1<ruby>度<rt>ど</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しなさい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>週<rt>しゅう</rt></ruby>に1<ruby>度<rt>ど</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しなさい。"
   },
   {
     "id": 1152,
@@ -24191,7 +26492,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少なくとも",
-    "notes": "数値「1時間」→「2時間」"
+    "notes": "数値「1時間」→「2時間」",
+    "question_ruby": "その<ruby>肉<rt>にく</rt></ruby>は【　　】2<ruby>時間<rt>じかん</rt></ruby>は<ruby>火<rt>ひ</rt></ruby>にかける<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+    "sentence_jp_ruby": "その<ruby>肉<rt>にく</rt></ruby>は<ruby>少なくとも<rt>すくなくとも</rt></ruby>2<ruby>時間<rt>じかん</rt></ruby>は<ruby>火<rt>ひ</rt></ruby>にかける<ruby>必要<rt>ひつよう</rt></ruby>がある。"
   },
   {
     "id": 1153,
@@ -24212,7 +26515,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "少なくとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今一<rt>いまいち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>暮らし<rt>くらし</rt></ruby>をしていますが、<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>生活費<rt>せいかつひ</rt></ruby>のうち、【　　】5<ruby>万円<rt>まんえん</rt></ruby>は<ruby>食費<rt>しょくひ</rt></ruby>で<ruby>消え<rt>きえ</rt></ruby>ますね。<ruby>外食<rt>がいしょく</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですから。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今一<rt>いまいち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>暮らし<rt>くらし</rt></ruby>をしていますが、<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>生活費<rt>せいかつひ</rt></ruby>のうち、<ruby>少なくとも<rt>すくなくとも</rt></ruby>5<ruby>万円<rt>まんえん</rt></ruby>は<ruby>食費<rt>しょくひ</rt></ruby>で<ruby>消え<rt>きえ</rt></ruby>ますね。<ruby>外食<rt>がいしょく</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですから。"
   },
   {
     "id": 1154,
@@ -24233,7 +26538,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "少なくとも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>なら、<ruby>現地<rt>げんち</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のうち、【　　】<ruby>挨拶<rt>あいさつ</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>ぐらいは<ruby>覚え<rt>おぼえ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>なら、<ruby>現地<rt>げんち</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のうち、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>ぐらいは<ruby>覚え<rt>おぼえ</rt></ruby>ておいた<ruby>方が<rt>ほうが</rt></ruby>いい。"
   },
   {
     "id": 1155,
@@ -24254,7 +26561,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直ちに",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>彼ら<rt>かれら</rt></ruby>は【　　】<ruby>佐藤<rt>さとう</rt></ruby>さんに<ruby>手術<rt>しゅじゅつ</rt></ruby>をしなければならないだろう。",
+    "sentence_jp_ruby": "<ruby>彼ら<rt>かれら</rt></ruby>は<ruby>直ち<rt>ただち</rt></ruby>に<ruby>佐藤<rt>さとう</rt></ruby>さんに<ruby>手術<rt>しゅじゅつ</rt></ruby>をしなければならないだろう。"
   },
   {
     "id": 1156,
@@ -24275,7 +26584,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "直ちに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>仕事<rt>しごと</rt></ruby>を【　　】しなければならない。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはこの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>直ち<rt>ただち</rt></ruby>にしなければならない。"
   },
   {
     "id": 1157,
@@ -24296,7 +26607,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "直ちに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>万一<rt>まんいち</rt></ruby><ruby>間違い<rt>まちがい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けたら、【　　】<ruby>知らせ<rt>しらせ</rt></ruby>てください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>万一<rt>まんいち</rt></ruby><ruby>間違い<rt>まちがい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けたら、<ruby>直ち<rt>ただち</rt></ruby>に<ruby>知らせ<rt>しらせ</rt></ruby>てください。"
   },
   {
     "id": 1158,
@@ -24317,7 +26630,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直ちに",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って【　　】<ruby>事務所<rt>じむしょ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って<ruby>直ち<rt>ただち</rt></ruby>に<ruby>事務所<rt>じむしょ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>。"
   },
   {
     "id": 1159,
@@ -24338,7 +26653,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "直ちに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "【　　】<ruby>出発<rt>しゅっぱつ</rt></ruby>しないと、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>約束<rt>やくそく</rt></ruby>に<ruby>遅れ<rt>おくれ</rt></ruby>るだろう。",
+    "sentence_jp_ruby": "<ruby>直ち<rt>ただち</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>しないと、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>約束<rt>やくそく</rt></ruby>に<ruby>遅れ<rt>おくれ</rt></ruby>るだろう。"
   },
   {
     "id": 1160,
@@ -24359,7 +26676,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "直ちに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>様子<rt>ようす</rt></ruby>はよくないから、【　　】<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連れ<rt>つれ</rt></ruby>ていこう!",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>様子<rt>ようす</rt></ruby>はよくないから、<ruby>直ち<rt>ただち</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連れ<rt>つれ</rt></ruby>ていこう!"
   },
   {
     "id": 1161,
@@ -24380,7 +26699,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直ちに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらはその<ruby>計画<rt>けいかく</rt></ruby>を【　　】<ruby>実行<rt>じっこう</rt></ruby>に<ruby>移す<rt>うつす</rt></ruby>べきだと<ruby>提案<rt>ていあん</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらはその<ruby>計画<rt>けいかく</rt></ruby>を<ruby>直ち<rt>ただち</rt></ruby>に<ruby>実行<rt>じっこう</rt></ruby>に<ruby>移す<rt>うつす</rt></ruby>べきだと<ruby>提案<rt>ていあん</rt></ruby>した。"
   },
   {
     "id": 1162,
@@ -24401,7 +26722,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直ちに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスに<ruby>感染<rt>かんせん</rt></ruby>した<ruby>人<rt>にん</rt></ruby>は【　　】<ruby>隔離<rt>かくり</rt></ruby>された。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスに<ruby>感染<rt>かんせん</rt></ruby>した<ruby>人<rt>にん</rt></ruby>は<ruby>直ち<rt>ただち</rt></ruby>に<ruby>隔離<rt>かくり</rt></ruby>された。"
   },
   {
     "id": 1163,
@@ -24422,7 +26745,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入り<rt>いり</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>入り<rt>いり</rt></ruby>たまえ。"
   },
   {
     "id": 1164,
@@ -24443,7 +26768,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>分か<rt>わか</rt></ruby>らない<ruby>事<rt>こと</rt></ruby>があったら<ruby>何で<rt>なんで</rt></ruby>も<ruby>聞き<rt>きき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>分か<rt>わか</rt></ruby>らない<ruby>事<rt>こと</rt></ruby>があったら<ruby>何で<rt>なんで</rt></ruby>も<ruby>聞き<rt>きき</rt></ruby>たまえ。"
   },
   {
     "id": 1165,
@@ -24464,7 +26791,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たまえ",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>たまえ。"
   },
   {
     "id": 1166,
@@ -24485,7 +26814,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>洗い<rt>あらい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>洗い<rt>あらい</rt></ruby>たまえ。"
   },
   {
     "id": 1167,
@@ -24506,7 +26837,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>静か<rt>しずか</rt></ruby>に!ちゃんと<ruby>上司<rt>じょうし</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞き<rt>きき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>静か<rt>しずか</rt></ruby>に!ちゃんと<ruby>上司<rt>じょうし</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞き<rt>きき</rt></ruby>たまえ。"
   },
   {
     "id": 1168,
@@ -24527,7 +26860,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たまえ",
-    "notes": "時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」"
+    "notes": "時刻「8時」→「9時」; 時刻「9時」→「10時」; 時刻「10時」→「11時」",
+    "question_ruby": "もう11<ruby>時<rt>とき</rt></ruby>だよ。<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "もう11<ruby>時<rt>とき</rt></ruby>だよ。<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>たまえ。"
   },
   {
     "id": 1169,
@@ -24548,7 +26883,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにし【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにしたまえ。"
   },
   {
     "id": 1170,
@@ -24569,7 +26906,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たまえ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>まだ<ruby>仕事<rt>しごと</rt></ruby>が<ruby>残っ<rt>のこっ</rt></ruby>ているから, <ruby>先に<rt>さきに</rt></ruby><ruby>帰り<rt>かえり</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>まだ<ruby>仕事<rt>しごと</rt></ruby>が<ruby>残っ<rt>のこっ</rt></ruby>ているから, <ruby>先に<rt>さきに</rt></ruby><ruby>帰り<rt>かえり</rt></ruby>たまえ。"
   },
   {
     "id": 1171,
@@ -24590,7 +26929,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てばかりもいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>辛く<rt>つらく</rt></ruby>ても、<ruby>泣い<rt>ない</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなに<ruby>辛く<rt>つらく</rt></ruby>ても、<ruby>泣い<rt>ない</rt></ruby>てばかりもいられない。"
   },
   {
     "id": 1172,
@@ -24611,7 +26952,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てばかりはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>てばかりはいられない。"
   },
   {
     "id": 1173,
@@ -24632,7 +26975,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てばかりはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>【　　】。<ruby>自分<rt>じぶん</rt></ruby>でできるようにならないと。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>てばかりはいられない。<ruby>自分<rt>じぶん</rt></ruby>でできるようにならないと。"
   },
   {
     "id": 1174,
@@ -24653,7 +26998,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝っ<rt>かっ</rt></ruby>たからといって<ruby>喜んで<rt>よろこんで</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝っ<rt>かっ</rt></ruby>たからといって<ruby>喜んで<rt>よろこんで</rt></ruby>ばかりはいられない。"
   },
   {
     "id": 1175,
@@ -24674,7 +27021,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりはいられない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>からといって、そのまま<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>で【　　】。",
+    "sentence_jp_ruby": "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>からといって、そのまま<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>でばかりはいられない。"
   },
   {
     "id": 1176,
@@ -24695,7 +27044,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかりもいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なった。しかし、<ruby>悲し<rt>かなし</rt></ruby>んで【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なった。しかし、<ruby>悲し<rt>かなし</rt></ruby>んでばかりもいられない。"
   },
   {
     "id": 1177,
@@ -24716,7 +27067,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てでも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>し【　　】<ruby>痩せ<rt>やせ</rt></ruby>たい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>してでも<ruby>痩せ<rt>やせ</rt></ruby>たい。"
   },
   {
     "id": 1178,
@@ -24737,7 +27090,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てでも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>手<rt>て</rt></ruby>を<ruby>使っ<rt>つかっ</rt></ruby>【　　】<ruby>勝ち<rt>かち</rt></ruby>とってみせる。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>手<rt>て</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>でも<ruby>勝ち<rt>かち</rt></ruby>とってみせる。"
   },
   {
     "id": 1179,
@@ -24758,7 +27113,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てでも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>し【　　】<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>何と<rt>なんと</rt></ruby>してでも<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。"
   },
   {
     "id": 1180,
@@ -24779,7 +27136,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てでも",
-    "notes": "金額「100万円」→「150万円」; 金額「150万円」→「180万円」"
+    "notes": "金額「100万円」→「150万円」; 金額「150万円」→「180万円」",
+    "question_ruby": "<ruby>芸能人<rt>げいのうじん</rt></ruby>とデートできるなら、180<ruby>万円<rt>まんえん</rt></ruby><ruby>払っ<rt>はらっ</rt></ruby>【　　】したい。",
+    "sentence_jp_ruby": "<ruby>芸能人<rt>げいのうじん</rt></ruby>とデートできるなら、180<ruby>万円<rt>まんえん</rt></ruby><ruby>払っ<rt>はらっ</rt></ruby>てでもしたい。"
   },
   {
     "id": 1181,
@@ -24800,7 +27159,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てでも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>何と<rt>なんと</rt></ruby>し【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんを<ruby>説得<rt>せっとく</rt></ruby>しなくてはならない。",
+    "sentence_jp_ruby": "<ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>何と<rt>なんと</rt></ruby>してでも<ruby>鈴木<rt>すずき</rt></ruby>さんを<ruby>説得<rt>せっとく</rt></ruby>しなくてはならない。"
   },
   {
     "id": 1182,
@@ -24821,7 +27182,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てでも",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>捨て<rt>すて</rt></ruby>【　　】<ruby>好き<rt>すき</rt></ruby>な<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>したいです。",
+    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>捨て<rt>すて</rt></ruby>てでも<ruby>好き<rt>すき</rt></ruby>な<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>したいです。"
   },
   {
     "id": 1183,
@@ -24842,7 +27205,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "て以来",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>らい</rt></ruby>【　　】、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。"
   },
   {
     "id": 1184,
@@ -24863,7 +27228,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以来",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>入学<rt>にゅうがく</rt></ruby>【　　】、<ruby>一度<rt>いちど</rt></ruby>も<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>でいない。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>入学<rt>にゅうがく</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>も<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>でいない。"
   },
   {
     "id": 1185,
@@ -24884,7 +27251,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "て以来",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>【　　】、ずっと<ruby>外食<rt>がいしょく</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>て<ruby>以来<rt>いらい</rt></ruby>、ずっと<ruby>外食<rt>がいしょく</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。"
   },
   {
     "id": 1186,
@@ -24905,7 +27274,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "て以来",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>寿司屋<rt>すしや</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>【　　】、ずっとそのお<ruby>店<rt>みせ</rt></ruby>のファンです。",
+    "sentence_jp_ruby": "あの<ruby>寿司屋<rt>すしや</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、ずっとそのお<ruby>店<rt>みせ</rt></ruby>のファンです。"
   },
   {
     "id": 1187,
@@ -24926,7 +27297,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "以来",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>【　　】、<ruby>生活<rt>せいかつ</rt></ruby>のために<ruby>毎日<rt>まいにち</rt></ruby>バイトしている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>生活<rt>せいかつ</rt></ruby>のために<ruby>毎日<rt>まいにち</rt></ruby>バイトしている。"
   },
   {
     "id": 1188,
@@ -24947,7 +27320,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "て以来",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>子<rt>こ</rt></ruby>は、<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なっ【　　】、<ruby>笑わ<rt>わらわ</rt></ruby>なくなってしまった。",
+    "sentence_jp_ruby": "あの<ruby>子<rt>こ</rt></ruby>は、<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>で<ruby>亡く<rt>なく</rt></ruby>なって<ruby>以来<rt>いらい</rt></ruby>、<ruby>笑わ<rt>わらわ</rt></ruby>なくなってしまった。"
   },
   {
     "id": 1189,
@@ -24968,7 +27343,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなに<ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べ<rt>たべ</rt></ruby>【　　】、<ruby>太り<rt>ふとり</rt></ruby>ますよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなに<ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べて<rt>たべて</rt></ruby>いては、<ruby>太り<rt>ふとり</rt></ruby>ますよ。"
   },
   {
     "id": 1190,
@@ -24989,7 +27366,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "でいては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>暗い<rt>くらい</rt></ruby>ところで<ruby>本<rt>ほん</rt></ruby>を<ruby>読ん<rt>よん</rt></ruby>【　　】<ruby>目<rt>め</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なってしまうよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんな<ruby>暗い<rt>くらい</rt></ruby>ところで<ruby>本<rt>ほん</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>いては<ruby>目<rt>め</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なってしまうよ。"
   },
   {
     "id": 1191,
@@ -25010,7 +27389,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いつも<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>【　　】、<ruby>成<rt>せい</rt></ruby>⻑が<ruby>出来な<rt>できな</rt></ruby>いよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いつも<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>ていては、<ruby>成<rt>せい</rt></ruby>⻑が<ruby>出来な<rt>できな</rt></ruby>いよ。"
   },
   {
     "id": 1192,
@@ -25031,7 +27412,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>そんなに<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>をし【　　】<ruby>体<rt>からだ</rt></ruby>を<ruby>壊し<rt>こわし</rt></ruby>ますよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>そんなに<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>をしていては<ruby>体<rt>からだ</rt></ruby>を<ruby>壊し<rt>こわし</rt></ruby>ますよ。"
   },
   {
     "id": 1193,
@@ -25052,7 +27435,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなに<ruby>毎日<rt>まいにち</rt></ruby><ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>虫<rt>むし</rt></ruby>⻭になりますよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そんなに<ruby>毎日<rt>まいにち</rt></ruby><ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べて<rt>たべて</rt></ruby>いては<ruby>虫<rt>むし</rt></ruby>⻭になりますよ。"
   },
   {
     "id": 1194,
@@ -25073,7 +27458,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>男<rt>おとこ</rt></ruby>の<ruby>金<rt>きん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby>のを<ruby>待っ<rt>まっ</rt></ruby>【　　】きりが<ruby>無い<rt>ない</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>男<rt>おとこ</rt></ruby>の<ruby>金<rt>きん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby>のを<ruby>待っ<rt>まっ</rt></ruby>ていてはきりが<ruby>無い<rt>ない</rt></ruby>。"
   },
   {
     "id": 1195,
@@ -25094,7 +27481,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>睡眠薬<rt>すいみんやく</rt></ruby>を<ruby>使っ<rt>つかっ</rt></ruby>【　　】、<ruby>体<rt>からだ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>るよ。<ruby>早く<rt>はやく</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ほうがいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>睡眠薬<rt>すいみんやく</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>いては、<ruby>体<rt>からだ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>るよ。<ruby>早く<rt>はやく</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ほうがいい。"
   },
   {
     "id": 1196,
@@ -25115,7 +27504,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ていては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上昇<rt>じょうしょう</rt></ruby>し【　　】、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>苦しく<rt>くるしく</rt></ruby>なるばかりです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上昇<rt>じょうしょう</rt></ruby>していては、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>苦しく<rt>くるしく</rt></ruby>なるばかりです。"
   },
   {
     "id": 1197,
@@ -25136,7 +27527,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>になっ【　　】、<ruby>親<rt>おや</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>や<ruby>気持ち<rt>きもち</rt></ruby>がわかるものだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親<rt>おや</rt></ruby>になってこそ、<ruby>親<rt>おや</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>や<ruby>気持ち<rt>きもち</rt></ruby>がわかるものだ。"
   },
   {
     "id": 1198,
@@ -25157,7 +27550,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "でこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼い<rt>かせい</rt></ruby>【　　】、<ruby>自立<rt>じりつ</rt></ruby>していると<ruby>言え<rt>いえ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼い<rt>かせい</rt></ruby>でこそ、<ruby>自立<rt>じりつ</rt></ruby>していると<ruby>言え<rt>いえ</rt></ruby>ます。"
   },
   {
     "id": 1199,
@@ -25178,7 +27573,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会話<rt>かいわ</rt></ruby>は、<ruby>相手<rt>あいて</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>してくれ【　　】<ruby>成功<rt>せいこう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>会話<rt>かいわ</rt></ruby>は、<ruby>相手<rt>あいて</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>してくれてこそ<ruby>成功<rt>せいこう</rt></ruby>します。"
   },
   {
     "id": 1200,
@@ -25199,7 +27596,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>し【　　】<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>るというものだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>してこそ<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>るというものだ。"
   },
   {
     "id": 1201,
@@ -25220,7 +27619,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>た<ruby>時に<rt>ときに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>【　　】<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>た<ruby>時に<rt>ときに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>てこそ<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>です。"
   },
   {
     "id": 1202,
@@ -25241,7 +27642,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>でやってみ【　　】それがいいか<ruby>悪い<rt>わるい</rt></ruby>か<ruby>分か<rt>わか</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>でやってみてこそそれがいいか<ruby>悪い<rt>わるい</rt></ruby>か<ruby>分か<rt>わか</rt></ruby>る。"
   },
   {
     "id": 1203,
@@ -25262,7 +27665,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てこそ",
-    "notes": "文法修正「大変のは分かるです」→「大変さが分かるのです」"
+    "notes": "文法修正「大変のは分かるです」→「大変さが分かるのです」",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>【　　】、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分か<rt>わか</rt></ruby>るのです。",
+    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>てこそ、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分か<rt>わか</rt></ruby>るのです。"
   },
   {
     "id": 1204,
@@ -25283,7 +27688,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>た<ruby>単語<rt>たんご</rt></ruby>は<ruby>使っ<rt>つかっ</rt></ruby>【　　】、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>覚え<rt>おぼえ</rt></ruby>たと<ruby>言え<rt>いえ</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>た<ruby>単語<rt>たんご</rt></ruby>は<ruby>使って<rt>つかって</rt></ruby>こそ、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>覚え<rt>おぼえ</rt></ruby>たと<ruby>言え<rt>いえ</rt></ruby>ます。"
   },
   {
     "id": 1205,
@@ -25304,7 +27711,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てこそ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>料理<rt>りょうり</rt></ruby>でも、<ruby>材料<rt>ざいりょう</rt></ruby>が<ruby>新鮮<rt>しんせん</rt></ruby>であっ【　　】、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>味を<rt>あじを</rt></ruby><ruby>引き出す<rt>ひきだす</rt></ruby>ことができます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんな<ruby>料理<rt>りょうり</rt></ruby>でも、<ruby>材料<rt>ざいりょう</rt></ruby>が<ruby>新鮮<rt>しんせん</rt></ruby>であってこそ、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>味を<rt>あじを</rt></ruby><ruby>引き出す<rt>ひきだす</rt></ruby>ことができます。"
   },
   {
     "id": 1206,
@@ -25325,7 +27734,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てまで",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>頭<rt>あたま</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>【　　】<ruby>金<rt>きん</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>たくない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>頭<rt>あたま</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>てまで<ruby>金<rt>きん</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>たくない。"
   },
   {
     "id": 1207,
@@ -25346,7 +27757,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てまで",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>借金<rt>しゃっきん</rt></ruby>をし【　　】、<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>つもりはない。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>借金<rt>しゃっきん</rt></ruby>をしてまで、<ruby>家<rt>いえ</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>つもりはない。"
   },
   {
     "id": 1208,
@@ -25367,7 +27780,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "までして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、なぜそう【　　】<ruby>嘘<rt>うそ</rt></ruby>をつくのだろうか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、なぜそうまでして<ruby>嘘<rt>うそ</rt></ruby>をつくのだろうか。"
   },
   {
     "id": 1209,
@@ -25388,7 +27803,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "までして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どれだけ<ruby>欲し<rt>ほっし</rt></ruby>くても、<ruby>借金<rt>しゃっきん</rt></ruby>【　　】<ruby>買い<rt>かい</rt></ruby>たいとは<ruby>思わ<rt>おもわ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どれだけ<ruby>欲し<rt>ほっし</rt></ruby>くても、<ruby>借金<rt>しゃっきん</rt></ruby>までして<ruby>買い<rt>かい</rt></ruby>たいとは<ruby>思わ<rt>おもわ</rt></ruby>ない。"
   },
   {
     "id": 1210,
@@ -25409,7 +27826,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てまで",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>父<rt>ちち</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>し【　　】<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>味方<rt>みかた</rt></ruby>になった。",
+    "sentence_jp_ruby": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>父<rt>ちち</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>してまで<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>味方<rt>みかた</rt></ruby>になった。"
   },
   {
     "id": 1211,
@@ -25430,7 +27849,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "までして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、カンニング【　　】テストでいい<ruby>点<rt>てん</rt></ruby>を<ruby>取り<rt>とり</rt></ruby>たいとは<ruby>思わ<rt>おもわ</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、カンニングまでしてテストでいい<ruby>点<rt>てん</rt></ruby>を<ruby>取り<rt>とり</rt></ruby>たいとは<ruby>思わ<rt>おもわ</rt></ruby>ない。"
   },
   {
     "id": 1212,
@@ -25451,7 +27872,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "までして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>【　　】<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>きん</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>までして<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>きん</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。"
   },
   {
     "id": 1213,
@@ -25472,7 +27895,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てまで",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>健康<rt>けんこう</rt></ruby>を<ruby>犠牲<rt>ぎせい</rt></ruby>にし【　　】<ruby>成功<rt>せいこう</rt></ruby>したいと<ruby>思った<rt>おもった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>健康<rt>けんこう</rt></ruby>を<ruby>犠牲<rt>ぎせい</rt></ruby>にしてまで<ruby>成功<rt>せいこう</rt></ruby>したいと<ruby>思った<rt>おもった</rt></ruby>。"
   },
   {
     "id": 1214,
@@ -25493,7 +27918,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てならない",
-    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加"
+    "notes": "主語「息子」→「娘」; 主語「娘」→「息子」; 文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うちの<ruby>息子<rt>むすこ</rt></ruby>が<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>して、うれしく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うちの<ruby>息子<rt>むすこ</rt></ruby>が<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>して、うれしくてならない。"
   },
   {
     "id": 1215,
@@ -25514,7 +27941,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "でならなかった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国<rt>がいこく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>した<ruby>時<rt>とき</rt></ruby>、<ruby>不安<rt>ふあん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国<rt>がいこく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>した<ruby>時<rt>とき</rt></ruby>、<ruby>不安<rt>ふあん</rt></ruby>でならなかった。"
   },
   {
     "id": 1216,
@@ -25535,7 +27964,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>はどうして<ruby>離婚<rt>りこん</rt></ruby>したのか、<ruby>知り<rt>しり</rt></ruby>たく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>二人<rt>ふたり</rt></ruby>はどうして<ruby>離婚<rt>りこん</rt></ruby>したのか、<ruby>知り<rt>しり</rt></ruby>たくてならない。"
   },
   {
     "id": 1217,
@@ -25556,7 +27987,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "でならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親友<rt>しんゆう</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>できないのが<ruby>残念<rt>ざんねん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>親友<rt>しんゆう</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>できないのが<ruby>残念<rt>ざんねん</rt></ruby>でならない。"
   },
   {
     "id": 1218,
@@ -25577,7 +28010,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てならない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>は、<ruby>悪い<rt>わるい</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>から、<ruby>危なく<rt>あぶなく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>駅<rt>えき</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>は、<ruby>悪い<rt>わるい</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>から、<ruby>危なく<rt>あぶなく</rt></ruby>てならない。"
   },
   {
     "id": 1219,
@@ -25598,7 +28033,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby><ruby>受け<rt>うけ</rt></ruby>たテストで、<ruby>何点<rt>なんてん</rt></ruby>を<ruby>取れ<rt>とれ</rt></ruby>たか、<ruby>気に<rt>きに</rt></ruby>なっ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby><ruby>受け<rt>うけ</rt></ruby>たテストで、<ruby>何点<rt>なんてん</rt></ruby>を<ruby>取れ<rt>とれ</rt></ruby>たか、<ruby>気に<rt>きに</rt></ruby>なってならない。"
   },
   {
     "id": 1220,
@@ -25619,7 +28056,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てならない",
-    "notes": "期間「10年間」→「5年間」"
+    "notes": "期間「10年間」→「5年間」",
+    "question_ruby": "もう5<ruby>年間<rt>ねんかん</rt></ruby>くらい<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>ていないので、<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>会い<rt>あい</rt></ruby>たく【　　】。",
+    "sentence_jp_ruby": "もう5<ruby>年間<rt>ねんかん</rt></ruby>くらい<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>ていないので、<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>会い<rt>あい</rt></ruby>たくてならない。"
   },
   {
     "id": 1221,
@@ -25640,7 +28079,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てならなかった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でつまずいてこけたので、<ruby>恥ずかしく<rt>はずかしく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でつまずいてこけたので、<ruby>恥ずかしく<rt>はずかしく</rt></ruby>てならなかった。"
   },
   {
     "id": 1222,
@@ -25661,7 +28102,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てたまらない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたに<ruby>会い<rt>あい</rt></ruby>たく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あなたに<ruby>会い<rt>あい</rt></ruby>たくてたまらない。"
   },
   {
     "id": 1223,
@@ -25682,7 +28125,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てたまらない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑す<rt>あつす</rt></ruby>ぎ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑す<rt>あつす</rt></ruby>ぎてたまらない。"
   },
   {
     "id": 1224,
@@ -25703,7 +28148,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てたまらない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たく【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>たくてたまらない。"
   },
   {
     "id": 1225,
@@ -25724,7 +28171,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "でたまらない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>のことが<ruby>心配<rt>しんぱい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>子ども<rt>こども</rt></ruby>のことが<ruby>心配<rt>しんぱい</rt></ruby>でたまらない。"
   },
   {
     "id": 1226,
@@ -25745,7 +28194,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てたまらない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>目<rt>め</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>目<rt>め</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>てたまらない。"
   },
   {
     "id": 1227,
@@ -25766,7 +28217,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てたまらない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>出来て<rt>できて</rt></ruby><ruby>嬉しく<rt>うれしく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんが<ruby>出来て<rt>できて</rt></ruby><ruby>嬉しく<rt>うれしく</rt></ruby>てたまらない。"
   },
   {
     "id": 1228,
@@ -25787,7 +28240,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てたまらない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>新しい<rt>あたらしい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>を<ruby>観た<rt>みた</rt></ruby>く【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>新しい<rt>あたらしい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>を<ruby>観た<rt>みた</rt></ruby>くてたまらない。"
   },
   {
     "id": 1229,
@@ -25808,7 +28263,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "て当然だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>遅く<rt>おそく</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>しているから、<ruby>疲れ<rt>つかれ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby><ruby>遅く<rt>おそく</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>しているから、<ruby>疲れ<rt>つかれ</rt></ruby>て<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 1230,
@@ -25829,7 +28286,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "て当然です",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人間<rt>にんげん</rt></ruby>だから<ruby>間違い<rt>まちがい</rt></ruby>があっ【　　】。そんなに<ruby>落ち込ま<rt>おちこま</rt></ruby>ないでください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人間<rt>にんげん</rt></ruby>だから<ruby>間違い<rt>まちがい</rt></ruby>があって<ruby>当然<rt>とうぜん</rt></ruby>です。そんなに<ruby>落ち込ま<rt>おちこま</rt></ruby>ないでください。"
   },
   {
     "id": 1231,
@@ -25850,7 +28309,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "て当たり前だ",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "マンションの<ruby>近く<rt>ちかく</rt></ruby>に<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>走っ<rt>はしっ</rt></ruby>ているから、うるさく【　　】。",
+    "sentence_jp_ruby": "マンションの<ruby>近く<rt>ちかく</rt></ruby>に<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>走っ<rt>はしっ</rt></ruby>ているから、うるさくて<ruby>当たり前<rt>あたりまえ</rt></ruby>だ。"
   },
   {
     "id": 1232,
@@ -25871,7 +28332,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "て当然です",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のテストはとても<ruby>簡単<rt>かんたん</rt></ruby>なので<ruby>満点<rt>まんてん</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のテストはとても<ruby>簡単<rt>かんたん</rt></ruby>なので<ruby>満点<rt>まんてん</rt></ruby>が<ruby>取れ<rt>とれ</rt></ruby>て<ruby>当然<rt>とうぜん</rt></ruby>です。"
   },
   {
     "id": 1233,
@@ -25892,7 +28355,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "て当たり前だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>だから<ruby>料理<rt>りょうり</rt></ruby>ができ【　　】と<ruby>思わ<rt>おもわ</rt></ruby>ないでください。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>だから<ruby>料理<rt>りょうり</rt></ruby>ができて<ruby>当たり前<rt>あたりまえ</rt></ruby>だと<ruby>思わ<rt>おもわ</rt></ruby>ないでください。"
   },
   {
     "id": 1234,
@@ -25913,7 +28378,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "て当然だ",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはいつも<ruby>人<rt>にん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>ばかり<ruby>言って<rt>いって</rt></ruby>いるので、みんなに<ruby>嫌わ<rt>きらわ</rt></ruby>れ【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはいつも<ruby>人<rt>にん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>ばかり<ruby>言って<rt>いって</rt></ruby>いるので、みんなに<ruby>嫌わ<rt>きらわ</rt></ruby>れて<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 1235,
@@ -25934,7 +28401,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "て当たり前です",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あのお<ruby>店<rt>みせ</rt></ruby>は<ruby>安く<rt>やすく</rt></ruby>て<ruby>美味しい<rt>おいしい</rt></ruby>ので<ruby>人気<rt>にんき</rt></ruby>があっ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あのお<ruby>店<rt>みせ</rt></ruby>は<ruby>安く<rt>やすく</rt></ruby>て<ruby>美味しい<rt>おいしい</rt></ruby>ので<ruby>人気<rt>にんき</rt></ruby>があって<ruby>当たり前<rt>あたりまえ</rt></ruby>です。"
   },
   {
     "id": 1236,
@@ -25955,7 +28424,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "て当然だ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をなくしたんだから、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>をなくしたんだから、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れて<ruby>当然<rt>とうぜん</rt></ruby>だ。"
   },
   {
     "id": 1237,
@@ -25976,7 +28447,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>【　　】、<ruby>買い物<rt>かいもの</rt></ruby>ができないな。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんなに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ては、<ruby>買い物<rt>かいもの</rt></ruby>ができないな。"
   },
   {
     "id": 1238,
@@ -25997,7 +28470,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ては",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>成績<rt>せいせき</rt></ruby>がこんなに<ruby>悪く<rt>わるく</rt></ruby>【　　】、<ruby>卒業<rt>そつぎょう</rt></ruby>もできないだろう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>成績<rt>せいせき</rt></ruby>がこんなに<ruby>悪く<rt>わるく</rt></ruby>ては、<ruby>卒業<rt>そつぎょう</rt></ruby>もできないだろう。"
   },
   {
     "id": 1239,
@@ -26018,7 +28493,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "では",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>相手<rt>あいて</rt></ruby>【　　】<ruby>勝て<rt>かて</rt></ruby>るわけがない。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>相手<rt>あいて</rt></ruby>では<ruby>勝て<rt>かて</rt></ruby>るわけがない。"
   },
   {
     "id": 1240,
@@ -26039,7 +28516,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずく【　　】<ruby>誰も<rt>だれも</rt></ruby><ruby>来ま<rt>きま</rt></ruby>せんよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずくては<ruby>誰も<rt>だれも</rt></ruby><ruby>来ま<rt>きま</rt></ruby>せんよ。"
   },
   {
     "id": 1241,
@@ -26060,7 +28539,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ては",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>任せ<rt>まかせ</rt></ruby>【　　】いかがでしょう?",
+    "sentence_jp_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>任せ<rt>まかせ</rt></ruby>てはいかがでしょう?"
   },
   {
     "id": 1242,
@@ -26081,7 +28562,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>静か<rt>しずか</rt></ruby>に!<ruby>大き<rt>おおき</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>【　　】<ruby>魚<rt>さかな</rt></ruby>が<ruby>逃げ<rt>にげ</rt></ruby>てしまう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>静か<rt>しずか</rt></ruby>に!<ruby>大き<rt>おおき</rt></ruby>な<ruby>声<rt>こえ</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>ては<ruby>魚<rt>さかな</rt></ruby>が<ruby>逃げ<rt>にげ</rt></ruby>てしまう。"
   },
   {
     "id": 1243,
@@ -26102,7 +28585,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ては",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>らい</rt></ruby>【　　】、お<ruby>土産<rt>みやげ</rt></ruby>でスーツケースをいっぱいにして<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>は、お<ruby>土産<rt>みやげ</rt></ruby>でスーツケースをいっぱいにして<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>。"
   },
   {
     "id": 1244,
@@ -26123,7 +28608,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ては",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>亡く<rt>なく</rt></ruby>した<ruby>子ども<rt>こども</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>けん</rt></ruby>【　　】<ruby>泣い<rt>ない</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>亡く<rt>なく</rt></ruby>した<ruby>子ども<rt>こども</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>は<ruby>泣い<rt>ない</rt></ruby>た。"
   },
   {
     "id": 1245,
@@ -26144,7 +28631,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ては",
-    "notes": "主語「娘」→「息子」"
+    "notes": "主語「娘」→「息子」",
+    "question_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はニキビに<ruby>悩ん<rt>なやん</rt></ruby>でいて、<ruby>鏡<rt>かがみ</rt></ruby>を<ruby>見<rt>けん</rt></ruby>【　　】ため<ruby>息<rt>いき</rt></ruby>をついている。",
+    "sentence_jp_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はニキビに<ruby>悩ん<rt>なやん</rt></ruby>でいて、<ruby>鏡<rt>かがみ</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>はため<ruby>息<rt>いき</rt></ruby>をついている。"
   },
   {
     "id": 1246,
@@ -26165,7 +28654,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ては",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>をサボっ【　　】<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れたりしたあの<ruby>頃の<rt>ごろの</rt></ruby>ことが<ruby>懐かしく<rt>なつかしく</rt></ruby><ruby>思わ<rt>おもわ</rt></ruby>れる。",
+    "sentence_jp_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>をサボっては<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>叱ら<rt>しから</rt></ruby>れたりしたあの<ruby>頃の<rt>ごろの</rt></ruby>ことが<ruby>懐かしく<rt>なつかしく</rt></ruby><ruby>思わ<rt>おもわ</rt></ruby>れる。"
   },
   {
     "id": 1247,
@@ -26186,7 +28677,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ぐずぐずし【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ぐずぐずしてはいられない。"
   },
   {
     "id": 1248,
@@ -26207,7 +28700,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>泣か<rt>なか</rt></ruby>ない【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>泣か<rt>なか</rt></ruby>ないではいられない。"
   },
   {
     "id": 1249,
@@ -26228,7 +28723,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ではいられない",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことを<ruby>信じ<rt>しんじ</rt></ruby>ない【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>言う<rt>いう</rt></ruby>ことを<ruby>信じ<rt>しんじ</rt></ruby>ないではいられない。"
   },
   {
     "id": 1250,
@@ -26249,7 +28746,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もうすぐ<ruby>試験<rt>しけん</rt></ruby>だから<ruby>遊ん<rt>あそん</rt></ruby>【　　】。<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>しなきゃ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もうすぐ<ruby>試験<rt>しけん</rt></ruby>だから<ruby>遊んで<rt>あそんで</rt></ruby>はいられない。<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>しなきゃ。"
   },
   {
     "id": 1251,
@@ -26270,7 +28769,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>から<ruby>大学生<rt>だいがくせい</rt></ruby>になるから、いつまでも<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>から<ruby>大学生<rt>だいがくせい</rt></ruby>になるから、いつまでも<ruby>親<rt>おや</rt></ruby>に<ruby>頼っ<rt>たよっ</rt></ruby>てはいられない。"
   },
   {
     "id": 1252,
@@ -26291,7 +28792,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ではいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>るので、いつものように<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>本<rt>ほん</rt></ruby>を<ruby>読ん<rt>よん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>るので、いつものように<ruby>遅く<rt>おそく</rt></ruby>まで<ruby>本<rt>ほん</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>はいられない。"
   },
   {
     "id": 1253,
@@ -26312,7 +28815,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはいられない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やると<ruby>決め<rt>きめ</rt></ruby>たら、のんびりし【　　】。<ruby>今す<rt>います</rt></ruby>ぐ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>よう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やると<ruby>決め<rt>きめ</rt></ruby>たら、のんびりしてはいられない。<ruby>今す<rt>います</rt></ruby>ぐ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>よう。"
   },
   {
     "id": 1254,
@@ -26333,7 +28838,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはいられない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "あんなひどいことを<ruby>言わ<rt>いわ</rt></ruby>れて、<ruby>高橋<rt>たかはし</rt></ruby>さんも<ruby>黙っ<rt>だまっ</rt></ruby>【　　】いられなかった。",
+    "sentence_jp_ruby": "あんなひどいことを<ruby>言わ<rt>いわ</rt></ruby>れて、<ruby>高橋<rt>たかはし</rt></ruby>さんも<ruby>黙っ<rt>だまっ</rt></ruby>てはいられなかった。"
   },
   {
     "id": 1255,
@@ -26354,7 +28861,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ではいられない",
-    "notes": "曜日「日曜日」→「土曜日」"
+    "notes": "曜日「日曜日」→「土曜日」",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>予定<rt>よてい</rt></ruby>より<ruby>遅れ<rt>おくれ</rt></ruby>ているから、<ruby>今度<rt>こんど</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>は、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>予定<rt>よてい</rt></ruby>より<ruby>遅れ<rt>おくれ</rt></ruby>ているから、<ruby>今度<rt>こんど</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>は、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>ではいられない。"
   },
   {
     "id": 1256,
@@ -26375,7 +28884,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはいられない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>試験終了<rt>しけんしゅうりょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>まであと<ruby>数分<rt>すうふん</rt></ruby>だから、その<ruby>問題<rt>もんだい</rt></ruby>にそんなに<ruby>時間<rt>じかん</rt></ruby>をかけ【　　】。",
+    "sentence_jp_ruby": "<ruby>試験終了<rt>しけんしゅうりょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>まであと<ruby>数分<rt>すうふん</rt></ruby>だから、その<ruby>問題<rt>もんだい</rt></ruby>にそんなに<ruby>時間<rt>じかん</rt></ruby>をかけてはいられない。"
   },
   {
     "id": 1257,
@@ -26396,7 +28907,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>過去<rt>かこ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>過去<rt>かこ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>てはならない。"
   },
   {
     "id": 1258,
@@ -26417,7 +28930,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教師<rt>きょうし</rt></ruby>はいじめを<ruby>見逃し<rt>みのがし</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>教師<rt>きょうし</rt></ruby>はいじめを<ruby>見逃し<rt>みのがし</rt></ruby>てはならない。"
   },
   {
     "id": 1259,
@@ -26438,7 +28953,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>水<rt>みず</rt></ruby>は<ruby>生き<rt>いき</rt></ruby>るためになく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>水<rt>みず</rt></ruby>は<ruby>生き<rt>いき</rt></ruby>るためになくてはならない。"
   },
   {
     "id": 1260,
@@ -26459,7 +28976,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなことでも<ruby>失敗<rt>しっぱい</rt></ruby>したら、<ruby>人<rt>にん</rt></ruby>のせいにし【　　】なりません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、どんなことでも<ruby>失敗<rt>しっぱい</rt></ruby>したら、<ruby>人<rt>にん</rt></ruby>のせいにしてはなりません。"
   },
   {
     "id": 1261,
@@ -26480,7 +28999,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>したから、<ruby>秘密<rt>ひみつ</rt></ruby>を<ruby>漏ら<rt>もら</rt></ruby>し【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>したから、<ruby>秘密<rt>ひみつ</rt></ruby>を<ruby>漏ら<rt>もら</rt></ruby>してはならない。"
   },
   {
     "id": 1262,
@@ -26501,7 +29022,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>のために<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>違反<rt>いはん</rt></ruby>することがあっ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>のために<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>違反<rt>いはん</rt></ruby>することがあってはならない。"
   },
   {
     "id": 1263,
@@ -26522,7 +29045,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはならない",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>で<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>なく【　　】と<ruby>学校<rt>がっこう</rt></ruby>で<ruby>指導員<rt>しどういん</rt></ruby>によく<ruby>言わ<rt>いわ</rt></ruby>れる。",
+    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>で<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>なくてはならないと<ruby>学校<rt>がっこう</rt></ruby>で<ruby>指導員<rt>しどういん</rt></ruby>によく<ruby>言わ<rt>いわ</rt></ruby>れる。"
   },
   {
     "id": 1264,
@@ -26543,7 +29068,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはならない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>で<ruby>色んな<rt>いろんな</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>食べ物<rt>たべもの</rt></ruby>がないから、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>捨て<rt>すて</rt></ruby>【　　】!と<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ごろ</rt></ruby>から<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>教え<rt>おしえ</rt></ruby>てくれた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>で<ruby>色んな<rt>いろんな</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>食べ物<rt>たべもの</rt></ruby>がないから、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>捨て<rt>すて</rt></ruby>てはならない!と<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ごろ</rt></ruby>から<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>教え<rt>おしえ</rt></ruby>てくれた。"
   },
   {
     "id": 1265,
@@ -26564,7 +29091,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>立っ<rt>たっ</rt></ruby>【　　】<ruby>座り<rt>すわり</rt></ruby>、<ruby>座っ<rt>すわっ</rt></ruby>ては<ruby>立ち<rt>たち</rt></ruby>、<ruby>気分<rt>きぶん</rt></ruby>が<ruby>落ち着か<rt>おちつか</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>立っ<rt>たっ</rt></ruby>ては<ruby>座り<rt>すわり</rt></ruby>、<ruby>座っ<rt>すわっ</rt></ruby>ては<ruby>立ち<rt>たち</rt></ruby>、<ruby>気分<rt>きぶん</rt></ruby>が<ruby>落ち着か<rt>おちつか</rt></ruby>ない。"
   },
   {
     "id": 1266,
@@ -26585,7 +29114,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>寝て<rt>ねて</rt></ruby>、<ruby>寝て<rt>ねて</rt></ruby>は<ruby>食べ<rt>たべ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>必ず<rt>かならず</rt></ruby><ruby>太る<rt>ふとる</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食べて<rt>たべて</rt></ruby>は<ruby>寝て<rt>ねて</rt></ruby>、<ruby>寝て<rt>ねて</rt></ruby>は<ruby>食べ<rt>たべ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>必ず<rt>かならず</rt></ruby><ruby>太る<rt>ふとる</rt></ruby>。"
   },
   {
     "id": 1267,
@@ -26606,7 +29137,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>【　　】やんで<ruby>降っ<rt>ふっ</rt></ruby>てはやんでの<ruby>日<rt>にち</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てはやんで<ruby>降っ<rt>ふっ</rt></ruby>てはやんでの<ruby>日<rt>にち</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。"
   },
   {
     "id": 1268,
@@ -26627,7 +29160,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学ん<rt>まなん</rt></ruby>だことを<ruby>覚え<rt>おぼえ</rt></ruby>【　　】<ruby>忘れ<rt>わすれ</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>ては<ruby>忘れ<rt>わすれ</rt></ruby>を<ruby>繰り返し<rt>くりかえし</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学ん<rt>まなん</rt></ruby>だことを<ruby>覚え<rt>おぼえ</rt></ruby>ては<ruby>忘れ<rt>わすれ</rt></ruby>、<ruby>覚え<rt>おぼえ</rt></ruby>ては<ruby>忘れ<rt>わすれ</rt></ruby>を<ruby>繰り返し<rt>くりかえし</rt></ruby>ている。"
   },
   {
     "id": 1269,
@@ -26648,7 +29183,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ては",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>し【　　】<ruby>離婚<rt>りこん</rt></ruby>して、<ruby>離婚<rt>りこん</rt></ruby>しては<ruby>結婚<rt>けっこん</rt></ruby>している<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>信用<rt>しんよう</rt></ruby>できない。",
+    "sentence_jp_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>しては<ruby>離婚<rt>りこん</rt></ruby>して、<ruby>離婚<rt>りこん</rt></ruby>しては<ruby>結婚<rt>けっこん</rt></ruby>している<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>信用<rt>しんよう</rt></ruby>できない。"
   },
   {
     "id": 1270,
@@ -26669,7 +29206,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ては",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>山登り<rt>やまのぼり</rt></ruby>をした。<ruby>歩い<rt>あるい</rt></ruby>【　　】<ruby>休み<rt>やすみ</rt></ruby>、していたので、<ruby>頂上<rt>ちょうじょう</rt></ruby>までたどり<ruby>着く<rt>つく</rt></ruby>のはずいぶん⻑い<ruby>時間<rt>じかん</rt></ruby>かかってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>山登り<rt>やまのぼり</rt></ruby>をした。<ruby>歩い<rt>あるい</rt></ruby>ては<ruby>休み<rt>やすみ</rt></ruby>、していたので、<ruby>頂上<rt>ちょうじょう</rt></ruby>までたどり<ruby>着く<rt>つく</rt></ruby>のはずいぶん⻑い<ruby>時間<rt>じかん</rt></ruby>かかってしまった。"
   },
   {
     "id": 1271,
@@ -26690,7 +29229,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ては",
-    "notes": "重量「5キロ」→「3キロ」; 期間「1ヶ月」→「2ヶ月」"
+    "notes": "重量「5キロ」→「3キロ」; 期間「1ヶ月」→「2ヶ月」",
+    "question_ruby": "<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>寝て<rt>ねて</rt></ruby>、<ruby>食べて<rt>たべて</rt></ruby>は<ruby>寝て<rt>ねて</rt></ruby>という<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていたら、この2ヶ<ruby>月<rt>がつ</rt></ruby>の<ruby>夏休み<rt>なつやすみ</rt></ruby>で3キロも<ruby>太っ<rt>ふとっ</rt></ruby>てしまった。",
+    "sentence_jp_ruby": "<ruby>食べて<rt>たべて</rt></ruby>は<ruby>寝て<rt>ねて</rt></ruby>、<ruby>食べて<rt>たべて</rt></ruby>は<ruby>寝て<rt>ねて</rt></ruby>という<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていたら、この2ヶ<ruby>月<rt>がつ</rt></ruby>の<ruby>夏休み<rt>なつやすみ</rt></ruby>で3キロも<ruby>太っ<rt>ふとっ</rt></ruby>てしまった。"
   },
   {
     "id": 1272,
@@ -26711,7 +29252,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "と同時に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>笑う<rt>わらう</rt></ruby>【　　】<ruby>泣い<rt>ない</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>笑う<rt>わらう</rt></ruby>と<ruby>同時に<rt>どうじに</rt></ruby><ruby>泣い<rt>ない</rt></ruby>た。"
   },
   {
     "id": 1273,
@@ -26732,7 +29275,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と同時に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>する【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんはアルバイトを<ruby>始め<rt>はじめ</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>すると<ruby>同時に<rt>どうじに</rt></ruby>、<ruby>高橋<rt>たかはし</rt></ruby>さんはアルバイトを<ruby>始め<rt>はじめ</rt></ruby>ました。"
   },
   {
     "id": 1274,
@@ -26753,7 +29298,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と同時に",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>店<rt>みせ</rt></ruby>は<ruby>開店<rt>かいてん</rt></ruby>【　　】<ruby>満席<rt>まんせき</rt></ruby>になった。",
+    "sentence_jp_ruby": "あの<ruby>店<rt>みせ</rt></ruby>は<ruby>開店<rt>かいてん</rt></ruby>と<ruby>同時に<rt>どうじに</rt></ruby><ruby>満席<rt>まんせき</rt></ruby>になった。"
   },
   {
     "id": 1275,
@@ -26774,7 +29321,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と同時に",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>乗り<rt>のり</rt></ruby><ruby>込む<rt>こむ</rt></ruby>【　　】<ruby>地下鉄<rt>ちかてつ</rt></ruby>のドアが<ruby>閉ま<rt>しま</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>乗り<rt>のり</rt></ruby><ruby>込む<rt>こむ</rt></ruby>と<ruby>同時に<rt>どうじに</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>のドアが<ruby>閉ま<rt>しま</rt></ruby>った。"
   },
   {
     "id": 1276,
@@ -26795,7 +29344,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と同時に",
-    "notes": "都市名「大阪」→「名古屋」; 時相「昨日」→「一昨日」"
+    "notes": "都市名「大阪」→「名古屋」; 時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>のニュースは<ruby>名古屋<rt>なごや</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>【　　】<ruby>火事<rt>かじ</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>のニュースは<ruby>名古屋<rt>なごや</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>と<ruby>同時に<rt>どうじに</rt></ruby><ruby>火事<rt>かじ</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った。"
   },
   {
     "id": 1277,
@@ -26816,7 +29367,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と同時に",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "ドアを<ruby>開け<rt>ひらけ</rt></ruby>る【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>電話<rt>でんわ</rt></ruby>のベルがなりました。",
+    "sentence_jp_ruby": "ドアを<ruby>開け<rt>ひらけ</rt></ruby>ると<ruby>同時に<rt>どうじに</rt></ruby><ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>電話<rt>でんわ</rt></ruby>のベルがなりました。"
   },
   {
     "id": 1278,
@@ -26837,7 +29390,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と同時に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>をしている【　　】<ruby>小説<rt>しょうせつ</rt></ruby>も<ruby>書い<rt>かい</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>をしていると<ruby>同時に<rt>どうじに</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>も<ruby>書い<rt>かい</rt></ruby>ている。"
   },
   {
     "id": 1279,
@@ -26858,7 +29413,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と同時に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>する【　　】<ruby>経済<rt>けいざい</rt></ruby>も<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>すると<ruby>同時に<rt>どうじに</rt></ruby><ruby>経済<rt>けいざい</rt></ruby>も<ruby>勉強<rt>べんきょう</rt></ruby>します。"
   },
   {
     "id": 1280,
@@ -26879,7 +29436,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と同時に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>扉<rt>とびら</rt></ruby>がバタンと<ruby>閉ま<rt>しま</rt></ruby>る【　　】、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>が、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>響い<rt>ひびい</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>扉<rt>とびら</rt></ruby>がバタンと<ruby>閉ま<rt>しま</rt></ruby>ると<ruby>同時に<rt>どうじに</rt></ruby>、<ruby>大き<rt>おおき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>が、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>響い<rt>ひびい</rt></ruby>た。"
   },
   {
     "id": 1281,
@@ -26900,7 +29459,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、バスケットボール、サッカー【　　】スポーツは<ruby>大学生<rt>だいがくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、バスケットボール、サッカーといったスポーツは<ruby>大学生<rt>だいがくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>がある。"
   },
   {
     "id": 1282,
@@ -26921,7 +29482,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とんかつや<ruby>天ぷら<rt>てんぷら</rt></ruby>【　　】<ruby>揚げ物<rt>あげもの</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、とんかつや<ruby>天ぷら<rt>てんぷら</rt></ruby>といった<ruby>揚げ物<rt>あげもの</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>です。"
   },
   {
     "id": 1283,
@@ -26942,7 +29505,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といった",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはアイスクリームやチョコレート【　　】<ruby>甘い<rt>あまい</rt></ruby><ruby>物<rt>もの</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはアイスクリームやチョコレートといった<ruby>甘い<rt>あまい</rt></ruby><ruby>物<rt>もの</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だ。"
   },
   {
     "id": 1284,
@@ -26963,7 +29528,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といった",
-    "notes": "企業名変更"
+    "notes": "企業名変更",
+    "question_ruby": "ソニーやパナソニック【　　】<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
+    "sentence_jp_ruby": "ソニーやパナソニックといった<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>だ。"
   },
   {
     "id": 1285,
@@ -26984,7 +29551,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といった",
-    "notes": "国名「ベトナム」→「タイ」"
+    "notes": "国名「ベトナム」→「タイ」",
+    "question_ruby": "この<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>校<rt>こう</rt></ruby>にはタイ、タイ【　　】<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>からの<ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>。",
+    "sentence_jp_ruby": "この<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>校<rt>こう</rt></ruby>にはタイ、タイといった<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>からの<ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>。"
   },
   {
     "id": 1286,
@@ -27005,7 +29574,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といった",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは、「こんにちは」「さようなら」【　　】<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>ます。 たかはしさんは、「こんにちは」「さようなら」といったかんたんなことばをはなせます。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは、「こんにちは」「さようなら」といった<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>ます。 たかはしさんは、「こんにちは」「さようなら」といったかんたんなことばをはなせます。"
   },
   {
     "id": 1287,
@@ -27026,7 +29597,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うどんや<ruby>寿司<rt>すし</rt></ruby>【　　】<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>好む<rt>このむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>てきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、うどんや<ruby>寿司<rt>すし</rt></ruby>といった<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>好む<rt>このむ</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>てきた。"
   },
   {
     "id": 1288,
@@ -27047,7 +29620,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といった",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>店<rt>みせ</rt></ruby>では<ruby>古い<rt>ふるい</rt></ruby><ruby>洗濯機<rt>せんたくき</rt></ruby>やテレビ【　　】<ruby>電子<rt>でんし</rt></ruby><ruby>品<rt>ひん</rt></ruby>がたくさん<ruby>売っ<rt>うっ</rt></ruby>ています。",
+    "sentence_jp_ruby": "その<ruby>店<rt>みせ</rt></ruby>では<ruby>古い<rt>ふるい</rt></ruby><ruby>洗濯機<rt>せんたくき</rt></ruby>やテレビといった<ruby>電子<rt>でんし</rt></ruby><ruby>品<rt>ひん</rt></ruby>がたくさん<ruby>売っ<rt>うっ</rt></ruby>ています。"
   },
   {
     "id": 1289,
@@ -27068,7 +29643,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というふうに",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信じ<rt>しんじ</rt></ruby>られない【　　】<ruby>頭<rt>あたま</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信じ<rt>しんじ</rt></ruby>られないというふうに<ruby>頭<rt>あたま</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。"
   },
   {
     "id": 1290,
@@ -27089,7 +29666,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というふうに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいつも<ruby>自分<rt>じぶん</rt></ruby>が<ruby>天才<rt>てんさい</rt></ruby>だ【　　】<ruby>思い込ん<rt>おもいこん</rt></ruby>でいた。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいつも<ruby>自分<rt>じぶん</rt></ruby>が<ruby>天才<rt>てんさい</rt></ruby>だというふうに<ruby>思い込ん<rt>おもいこん</rt></ruby>でいた。"
   },
   {
     "id": 1291,
@@ -27110,7 +29689,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "という風に",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>なことだ【　　】<ruby>思って<rt>おもって</rt></ruby>おります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは<ruby>非常に<rt>ひじょうに</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>なことだという<ruby>風<rt>かぜ</rt></ruby>に<ruby>思って<rt>おもって</rt></ruby>おります。"
   },
   {
     "id": 1292,
@@ -27131,7 +29712,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>にはどういう<ruby>影響<rt>えいきょう</rt></ruby>がある【　　】<ruby>見て<rt>みて</rt></ruby>いますか。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>にはどういう<ruby>影響<rt>えいきょう</rt></ruby>があるというふうに<ruby>見て<rt>みて</rt></ruby>いますか。"
   },
   {
     "id": 1293,
@@ -27152,7 +29735,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "という風に",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはどうしようもない【　　】<ruby>首<rt>くび</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはどうしようもないという<ruby>風<rt>かぜ</rt></ruby>に<ruby>首<rt>くび</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。"
   },
   {
     "id": 1294,
@@ -27173,7 +29758,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というふうに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ぜひ<ruby>皆様<rt>みなさま</rt></ruby>のご<ruby>協力<rt>きょうりょく</rt></ruby>、ご<ruby>指導<rt>しどう</rt></ruby>も<ruby>頂き<rt>いただき</rt></ruby>たい【　　】<ruby>思って<rt>おもって</rt></ruby>います。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ぜひ<ruby>皆様<rt>みなさま</rt></ruby>のご<ruby>協力<rt>きょうりょく</rt></ruby>、ご<ruby>指導<rt>しどう</rt></ruby>も<ruby>頂き<rt>いただき</rt></ruby>たいというふうに<ruby>思って<rt>おもって</rt></ruby>います。"
   },
   {
     "id": 1295,
@@ -27194,7 +29781,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "という風に",
-    "notes": "曜日「火曜日」→「木曜日」"
+    "notes": "曜日「火曜日」→「木曜日」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>月曜日<rt>げつようび</rt></ruby>、あなたは<ruby>木曜日<rt>もくようび</rt></ruby>【　　】<ruby>交代<rt>こうたい</rt></ruby>で<ruby>当番<rt>とうばん</rt></ruby>になったらどうですか?",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>月曜日<rt>げつようび</rt></ruby>、あなたは<ruby>木曜日<rt>もくようび</rt></ruby>という<ruby>風<rt>かぜ</rt></ruby>に<ruby>交代<rt>こうたい</rt></ruby>で<ruby>当番<rt>とうばん</rt></ruby>になったらどうですか?"
   },
   {
     "id": 1296,
@@ -27215,7 +29804,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というふうに",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>総理<rt>そうり</rt></ruby>のお<ruby>考え<rt>かんがえ</rt></ruby>をお<ruby>聞き<rt>きき</rt></ruby>した<ruby>上で<rt>うえで</rt></ruby>、その<ruby>問題<rt>もんだい</rt></ruby>を<ruby>判断<rt>はんだん</rt></ruby>したい【　　】<ruby>思って<rt>おもって</rt></ruby>おります。",
+    "sentence_jp_ruby": "<ruby>総理<rt>そうり</rt></ruby>のお<ruby>考え<rt>かんがえ</rt></ruby>をお<ruby>聞き<rt>きき</rt></ruby>した<ruby>上で<rt>うえで</rt></ruby>、その<ruby>問題<rt>もんだい</rt></ruby>を<ruby>判断<rt>はんだん</rt></ruby>したいというふうに<ruby>思って<rt>おもって</rt></ruby>おります。"
   },
   {
     "id": 1297,
@@ -27236,7 +29827,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ということは",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "あなたが<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>る【　　】<ruby>本当<rt>ほんとう</rt></ruby>ですか。",
+    "sentence_jp_ruby": "あなたが<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るということは<ruby>本当<rt>ほんとう</rt></ruby>ですか。"
   },
   {
     "id": 1298,
@@ -27257,7 +29850,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ということは",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、まだ<ruby>来ま<rt>きま</rt></ruby>せんね。【　　】、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>欠席<rt>けっせき</rt></ruby>ですね。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、まだ<ruby>来ま<rt>きま</rt></ruby>せんね。ということは、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>欠席<rt>けっせき</rt></ruby>ですね。"
   },
   {
     "id": 1299,
@@ -27278,7 +29873,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ということは",
-    "notes": "金額「2万円」→「3万円」; 金額「6千円」→「9千円」; 割合「30%」→「25%」"
+    "notes": "金額「2万円」→「3万円」; 金額「6千円」→「9千円」; 割合「30%」→「25%」",
+    "question_ruby": "25%<ruby>割引き<rt>わりびき</rt></ruby>【　　】、3<ruby>万円<rt>まんえん</rt></ruby>なら9<ruby>千円<rt>せんえん</rt></ruby><ruby>安く<rt>やすく</rt></ruby>なるんですね。",
+    "sentence_jp_ruby": "25%<ruby>割引き<rt>わりびき</rt></ruby>ということは、3<ruby>万円<rt>まんえん</rt></ruby>なら9<ruby>千円<rt>せんえん</rt></ruby><ruby>安く<rt>やすく</rt></ruby>なるんですね。"
   },
   {
     "id": 1300,
@@ -27299,7 +29896,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ということは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>家<rt>いえ</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>た【　　】、おそらく<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>したのだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>家<rt>いえ</rt></ruby>を<ruby>売っ<rt>うっ</rt></ruby>たということは、おそらく<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>したのだろう。"
   },
   {
     "id": 1301,
@@ -27320,7 +29919,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ということは",
-    "notes": "数値「8時間」→「6時間」; 曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」"
+    "notes": "数値「8時間」→「6時間」; 曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」",
+    "question_ruby": "<ruby>一日<rt>ついたち</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>土曜日<rt>どようび</rt></ruby>まで<ruby>働く<rt>はたらく</rt></ruby>【　　】、<ruby>一週間<rt>いっしゅうかん</rt></ruby>で46<ruby>時間<rt>じかん</rt></ruby>の<ruby>労働<rt>ろうどう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>一日<rt>ついたち</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>土曜日<rt>どようび</rt></ruby>まで<ruby>働く<rt>はたらく</rt></ruby>ということは、<ruby>一週間<rt>いっしゅうかん</rt></ruby>で46<ruby>時間<rt>じかん</rt></ruby>の<ruby>労働<rt>ろうどう</rt></ruby>だ。"
   },
   {
     "id": 1302,
@@ -27341,7 +29942,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ということは",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "バイクが<ruby>二台<rt>にだい</rt></ruby>しかない【　　】、<ruby>俺<rt>おれ</rt></ruby>たちは<ruby>誰か<rt>だれか</rt></ruby>が<ruby>歩か<rt>あるか</rt></ruby>なければならないということだ。",
+    "sentence_jp_ruby": "バイクが<ruby>二台<rt>にだい</rt></ruby>しかないということは、<ruby>俺<rt>おれ</rt></ruby>たちは<ruby>誰か<rt>だれか</rt></ruby>が<ruby>歩か<rt>あるか</rt></ruby>なければならないということだ。"
   },
   {
     "id": 1303,
@@ -27362,7 +29965,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ということは",
-    "notes": "年齢「20歳」→「25歳」"
+    "notes": "年齢「20歳」→「25歳」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はもうお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲め<rt>のめ</rt></ruby>る【　　】、25<ruby>歳<rt>とし</rt></ruby>を<ruby>過ぎ<rt>すぎ</rt></ruby>てるんだね。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はもうお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲め<rt>のめ</rt></ruby>るということは、25<ruby>歳<rt>とし</rt></ruby>を<ruby>過ぎ<rt>すぎ</rt></ruby>てるんだね。"
   },
   {
     "id": 1304,
@@ -27383,7 +29988,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ということは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><ruby>場合<rt>ばあい</rt></ruby>は<ruby>注意<rt>ちゅうい</rt></ruby>しすぎる【　　】ない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>海外<rt>かいがい</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby><ruby>場合<rt>ばあい</rt></ruby>は<ruby>注意<rt>ちゅうい</rt></ruby>しすぎるということはない。"
   },
   {
     "id": 1305,
@@ -27404,7 +30011,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "というものです",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これがいわゆる「<ruby>天ぷら<rt>てんぷら</rt></ruby>」【　　】。 じつは、これがいわゆる「てんぷら」というものです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これがいわゆる「<ruby>天ぷら<rt>てんぷら</rt></ruby>」というものです。 じつは、これがいわゆる「てんぷら」というものです。"
   },
   {
     "id": 1306,
@@ -27425,7 +30034,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>辛い<rt>つらい</rt></ruby><ruby>時に<rt>ときに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby>てくれるのが、<ruby>親友<rt>しんゆう</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>辛い<rt>つらい</rt></ruby><ruby>時に<rt>ときに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby>てくれるのが、<ruby>親友<rt>しんゆう</rt></ruby>というものだ。"
   },
   {
     "id": 1307,
@@ -27446,7 +30057,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それがまさに<ruby>愛<rt>あい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それがまさに<ruby>愛<rt>あい</rt></ruby>というものだ。"
   },
   {
     "id": 1308,
@@ -27467,7 +30080,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>はみんな<ruby>平等<rt>びょうどう</rt></ruby>ではない。それが<ruby>人生<rt>じんせい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人<rt>にん</rt></ruby>はみんな<ruby>平等<rt>びょうどう</rt></ruby>ではない。それが<ruby>人生<rt>じんせい</rt></ruby>というものだ。"
   },
   {
     "id": 1309,
@@ -27488,7 +30103,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "というものです",
-    "notes": "人名「山田ケン」→「佐藤健」"
+    "notes": "人名「山田ケン」→「佐藤健」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby><ruby>健<rt>たけし</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby><ruby>健<rt>たけし</rt></ruby>というものです。"
   },
   {
     "id": 1310,
@@ -27509,7 +30126,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "というものだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>無理<rt>むり</rt></ruby><ruby>押し<rt>おし</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、それは<ruby>無理<rt>むり</rt></ruby><ruby>押し<rt>おし</rt></ruby>というものだ。"
   },
   {
     "id": 1311,
@@ -27530,7 +30149,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というもの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>にでも<ruby>好み<rt>このみ</rt></ruby>【　　】はあります。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>にでも<ruby>好み<rt>このみ</rt></ruby>というものはあります。"
   },
   {
     "id": 1312,
@@ -27551,7 +30172,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というもの",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人間<rt>にんげん</rt></ruby>には<ruby>理性<rt>りせい</rt></ruby>【　　】がある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>人間<rt>にんげん</rt></ruby>には<ruby>理性<rt>りせい</rt></ruby>というものがある。"
   },
   {
     "id": 1313,
@@ -27572,7 +30195,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "というものでもない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。"
   },
   {
     "id": 1314,
@@ -27593,7 +30218,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というものではない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でもできる【　　】!",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でもできるというものではない!"
   },
   {
     "id": 1315,
@@ -27614,7 +30241,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "というものでもない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>すれば、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>すれば、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になるというものでもない。"
   },
   {
     "id": 1316,
@@ -27635,7 +30264,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>多け<rt>おおけ</rt></ruby>れば<ruby>判断<rt>はんだん</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>多け<rt>おおけ</rt></ruby>れば<ruby>判断<rt>はんだん</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>というものではない。"
   },
   {
     "id": 1317,
@@ -27656,7 +30287,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国語<rt>がいこくご</rt></ruby>はただ<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>れば<ruby>話せ<rt>はなせ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>外国語<rt>がいこくご</rt></ruby>はただ<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>れば<ruby>話せ<rt>はなせ</rt></ruby>るというものではない。"
   },
   {
     "id": 1318,
@@ -27677,7 +30310,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というものでもない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高け<rt>たかけ</rt></ruby>れば<ruby>良い<rt>よい</rt></ruby><ruby>品物<rt>しなもの</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高け<rt>たかけ</rt></ruby>れば<ruby>良い<rt>よい</rt></ruby><ruby>品物<rt>しなもの</rt></ruby>だというものでもない。"
   },
   {
     "id": 1319,
@@ -27698,7 +30333,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "というものではない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>のためにはただ<ruby>食べ<rt>たべ</rt></ruby>ればよい【　　】うものではなく、<ruby>運動<rt>うんどう</rt></ruby>もしなければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>のためにはただ<ruby>食べ<rt>たべ</rt></ruby>ればよいというものではなく、<ruby>運動<rt>うんどう</rt></ruby>もしなければならない。"
   },
   {
     "id": 1320,
@@ -27719,7 +30356,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というものではない",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>早け<rt>はやけ</rt></ruby>ればいい【　　】、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>安全<rt>あんぜん</rt></ruby>は<ruby>第一<rt>だいいち</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>早け<rt>はやけ</rt></ruby>ればいいというものではない、お<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>安全<rt>あんぜん</rt></ruby>は<ruby>第一<rt>だいいち</rt></ruby>だ。"
   },
   {
     "id": 1321,
@@ -27740,7 +30379,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "と考えられている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
   },
   {
     "id": 1322,
@@ -27761,7 +30402,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と考えられる",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>死ん<rt>しん</rt></ruby>だ<ruby>原因<rt>げんいん</rt></ruby>は<ruby>事故<rt>じこ</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>死ん<rt>しん</rt></ruby>だ<ruby>原因<rt>げんいん</rt></ruby>は<ruby>事故<rt>じこ</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られる。"
   },
   {
     "id": 1323,
@@ -27782,7 +30425,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と考えられている",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>優秀<rt>ゆうしゅう</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>である【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>優秀<rt>ゆうしゅう</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>であると<ruby>考え<rt>かんがえ</rt></ruby>られている。"
   },
   {
     "id": 1324,
@@ -27803,7 +30448,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と考えられる",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのデータは<ruby>今後<rt>こんご</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>役に立つ<rt>やくにたつ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "そのデータは<ruby>今後<rt>こんご</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>役に立つ<rt>やくにたつ</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られる。"
   },
   {
     "id": 1325,
@@ -27824,7 +30471,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と考えられる",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>事故<rt>じこ</rt></ruby>はスピードの<ruby>出し<rt>だし</rt></ruby>すぎのせいだ【　　】。",
+    "sentence_jp_ruby": "あの<ruby>事故<rt>じこ</rt></ruby>はスピードの<ruby>出し<rt>だし</rt></ruby>すぎのせいだと<ruby>考え<rt>かんがえ</rt></ruby>られる。"
   },
   {
     "id": 1326,
@@ -27845,7 +30494,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と考えられる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本製品<rt>にほんせいひん</rt></ruby>【　　】と、イメージはアップしている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本製品<rt>にほんせいひん</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>られると、イメージはアップしている。"
   },
   {
     "id": 1327,
@@ -27866,7 +30517,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と考えられる",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>は<ruby>礼儀正し<rt>れいぎただし</rt></ruby>い【　　】えられています。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本人<rt>にほんじん</rt></ruby>は<ruby>礼儀正し<rt>れいぎただし</rt></ruby>いと<ruby>考え<rt>かんがえ</rt></ruby>られています。"
   },
   {
     "id": 1328,
@@ -27887,7 +30540,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と考えられている",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>低脂<rt>ていし</rt></ruby><ruby>肪<rt>ぼう</rt></ruby><ruby>食<rt>しょく</rt></ruby>が⻑<ruby>寿<rt>ひさし</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>低脂<rt>ていし</rt></ruby><ruby>肪<rt>ぼう</rt></ruby><ruby>食<rt>しょく</rt></ruby>が⻑<ruby>寿<rt>ひさし</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
   },
   {
     "id": 1329,
@@ -27908,7 +30563,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とかで",
-    "notes": "国名「アメリカ」→「カナダ」"
+    "notes": "国名「アメリカ」→「カナダ」",
+    "question_ruby": "カナダで<ruby>育っ<rt>そだっ</rt></ruby>た【　　】。",
+    "sentence_jp_ruby": "カナダで<ruby>育っ<rt>そだっ</rt></ruby>たとかで。"
   },
   {
     "id": 1330,
@@ -27929,7 +30586,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とかで",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はかなり<ruby>難しい<rt>むずかしい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>はかなり<ruby>難しい<rt>むずかしい</rt></ruby>とかで。"
   },
   {
     "id": 1331,
@@ -27950,7 +30609,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とかで",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>事故<rt>じこ</rt></ruby>があった【　　】、<ruby>今<rt>いま</rt></ruby>、<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>っています。",
+    "sentence_jp_ruby": "<ruby>事故<rt>じこ</rt></ruby>があったとかで、<ruby>今<rt>いま</rt></ruby>、<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>っています。"
   },
   {
     "id": 1332,
@@ -27971,7 +30632,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とかで",
-    "notes": "人名「安田さん」→「小林さん」; 時相「今夜」→「明晩」"
+    "notes": "人名「安田さん」→「小林さん」; 時相「今夜」→「明晩」",
+    "question_ruby": "<ruby>小林<rt>こばやし</rt></ruby>さんは<ruby>忙しい<rt>いそがしい</rt></ruby>【　　】<ruby>明晩<rt>みょうばん</rt></ruby>の<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>来れ<rt>これ</rt></ruby>ないそう。",
+    "sentence_jp_ruby": "<ruby>小林<rt>こばやし</rt></ruby>さんは<ruby>忙しい<rt>いそがしい</rt></ruby>とかで<ruby>明晩<rt>みょうばん</rt></ruby>の<ruby>飲み会<rt>のみかい</rt></ruby>に<ruby>来れ<rt>これ</rt></ruby>ないそう。"
   },
   {
     "id": 1333,
@@ -27992,7 +30655,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とか",
-    "notes": "時相「今夜」→「明晩」"
+    "notes": "時相「今夜」→「明晩」",
+    "question_ruby": "<ruby>明晩<rt>みょうばん</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "<ruby>明晩<rt>みょうばん</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>だとか。"
   },
   {
     "id": 1334,
@@ -28013,7 +30678,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とか",
-    "notes": "人名「田中さん」→「鈴木さん」"
+    "notes": "人名「田中さん」→「鈴木さん」",
+    "question_ruby": "さっき<ruby>聞い<rt>きい</rt></ruby>たんだけど、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>来年<rt>らいねん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>る【　　】。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>辞め<rt>やめ</rt></ruby>るんだろう。",
+    "sentence_jp_ruby": "さっき<ruby>聞い<rt>きい</rt></ruby>たんだけど、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>来年<rt>らいねん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るとか。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>辞め<rt>やめ</rt></ruby>るんだろう。"
   },
   {
     "id": 1335,
@@ -28034,7 +30701,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とかで",
-    "notes": "人名「山田さん」→「佐藤さん」"
+    "notes": "人名「山田さん」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>熱<rt>ねつ</rt></ruby>がある【　　】、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>休む<rt>やすむ</rt></ruby>そうです。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>熱<rt>ねつ</rt></ruby>があるとかで、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>休む<rt>やすむ</rt></ruby>そうです。"
   },
   {
     "id": 1336,
@@ -28055,7 +30724,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とっくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】<ruby>帰り<rt>かえり</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはとっくに<ruby>帰り<rt>かえり</rt></ruby>ました。"
   },
   {
     "id": 1337,
@@ -28076,7 +30747,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とっくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もう【　　】<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>出か<rt>でか</rt></ruby>けている<ruby>時間<rt>じかん</rt></ruby>じゃないの。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、もうとっくに<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>出か<rt>でか</rt></ruby>けている<ruby>時間<rt>じかん</rt></ruby>じゃないの。"
   },
   {
     "id": 1338,
@@ -28097,7 +30770,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とっくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>寝る<rt>ねる</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は【　　】<ruby>過ぎ<rt>すぎ</rt></ruby>ているよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>寝る<rt>ねる</rt></ruby><ruby>時間<rt>じかん</rt></ruby>はとっくに<ruby>過ぎ<rt>すぎ</rt></ruby>ているよ。"
   },
   {
     "id": 1339,
@@ -28118,7 +30793,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とっくに",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あのお<ruby>菓子<rt>かし</rt></ruby>は【　　】<ruby>賞味期限<rt>しょうみきげん</rt></ruby>を<ruby>過ぎ<rt>すぎ</rt></ruby>ていた。",
+    "sentence_jp_ruby": "あのお<ruby>菓子<rt>かし</rt></ruby>はとっくに<ruby>賞味期限<rt>しょうみきげん</rt></ruby>を<ruby>過ぎ<rt>すぎ</rt></ruby>ていた。"
   },
   {
     "id": 1340,
@@ -28139,7 +30816,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とっくに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>子供<rt>こども</rt></ruby>が<ruby>出来た<rt>できた</rt></ruby>から、<ruby>鈴木<rt>すずき</rt></ruby>さんはタバコを【　　】<ruby>辞め<rt>やめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>子供<rt>こども</rt></ruby>が<ruby>出来た<rt>できた</rt></ruby>から、<ruby>鈴木<rt>すずき</rt></ruby>さんはタバコをとっくに<ruby>辞め<rt>やめ</rt></ruby>た。"
   },
   {
     "id": 1341,
@@ -28160,7 +30839,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とっくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そうしていなかったら、<ruby>僕は<rt>ぼくは</rt></ruby>【　　】<ruby>死ん<rt>しん</rt></ruby>でいたよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そうしていなかったら、<ruby>僕は<rt>ぼくは</rt></ruby>とっくに<ruby>死ん<rt>しん</rt></ruby>でいたよ。"
   },
   {
     "id": 1342,
@@ -28181,7 +30862,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とっくに",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>でバイクがパンクして<ruby>学校<rt>がっこう</rt></ruby>まで<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>行った<rt>いった</rt></ruby>がベルは【　　】<ruby>鳴っ<rt>なっ</rt></ruby>ていた。",
+    "sentence_jp_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>でバイクがパンクして<ruby>学校<rt>がっこう</rt></ruby>まで<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>行った<rt>いった</rt></ruby>がベルはとっくに<ruby>鳴っ<rt>なっ</rt></ruby>ていた。"
   },
   {
     "id": 1343,
@@ -28202,7 +30885,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とっくに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>は<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>していたら、【　　】プロになってただろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>君<rt>くん</rt></ruby>は<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>していたら、とっくにプロになってただろう。"
   },
   {
     "id": 1344,
@@ -28223,7 +30908,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところだった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>危ない<rt>あぶない</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>危ない<rt>あぶない</rt></ruby>ところだった。"
   },
   {
     "id": 1345,
@@ -28244,7 +30931,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところだった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ちょうど<ruby>寝る<rt>ねる</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ちょうど<ruby>寝る<rt>ねる</rt></ruby>ところだった。"
   },
   {
     "id": 1346,
@@ -28265,7 +30954,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところだった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ああ, もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>忘れ<rt>わすれ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ああ, もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>忘れ<rt>わすれ</rt></ruby>るところだった。"
   },
   {
     "id": 1347,
@@ -28286,7 +30977,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところだった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>太陽<rt>たいよう</rt></ruby>がまさに<ruby>沈む<rt>しずむ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>太陽<rt>たいよう</rt></ruby>がまさに<ruby>沈む<rt>しずむ</rt></ruby>ところだった。"
   },
   {
     "id": 1348,
@@ -28307,7 +31000,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところだった",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>ける【　　】、ちょうどよいところだった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>出か<rt>でか</rt></ruby>けるところだった、ちょうどよいところだった。"
   },
   {
     "id": 1349,
@@ -28328,7 +31023,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところだった",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗り<rt>のり</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗り<rt>のり</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>るところだった。"
   },
   {
     "id": 1350,
@@ -28349,7 +31046,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところだった",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはもう<ruby>少し<rt>すこし</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんはもう<ruby>少し<rt>すこし</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るところだった。"
   },
   {
     "id": 1351,
@@ -28370,7 +31069,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うと<ruby>思って<rt>おもって</rt></ruby>いる【　　】、<ruby>小雨<rt>こさめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うと<ruby>思って<rt>おもって</rt></ruby>いるところに、<ruby>小雨<rt>こさめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
   },
   {
     "id": 1352,
@@ -28391,7 +31092,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>た【　　】<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>たことに<ruby>気づ<rt>きづ</rt></ruby>いた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>たところに<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>たことに<ruby>気づ<rt>きづ</rt></ruby>いた。"
   },
   {
     "id": 1353,
@@ -28412,7 +31115,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>いる【　　】、<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>いるところに、<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。"
   },
   {
     "id": 1354,
@@ -28433,7 +31138,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところを",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>に<ruby>居眠り<rt>いねむり</rt></ruby>している【　　】<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>見つ<rt>みつ</rt></ruby>かってしまった。",
+    "sentence_jp_ruby": "<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>に<ruby>居眠り<rt>いねむり</rt></ruby>しているところを<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>見つ<rt>みつ</rt></ruby>かってしまった。"
   },
   {
     "id": 1355,
@@ -28454,7 +31161,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところへ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道<rt>みち</rt></ruby>に<ruby>迷っ<rt>まよっ</rt></ruby>て<ruby>困っ<rt>こまっ</rt></ruby>ていた【　　】、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>通り<rt>とうり</rt></ruby>かかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道<rt>みち</rt></ruby>に<ruby>迷っ<rt>まよっ</rt></ruby>て<ruby>困っ<rt>こまっ</rt></ruby>ていたところへ、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>通り<rt>とうり</rt></ruby>かかった。"
   },
   {
     "id": 1356,
@@ -28475,7 +31184,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところに",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>電話<rt>でんわ</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いた【　　】、ちょうどあの<ruby>相手<rt>あいて</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。",
+    "sentence_jp_ruby": "<ruby>電話<rt>でんわ</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いたところに、ちょうどあの<ruby>相手<rt>あいて</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。"
   },
   {
     "id": 1357,
@@ -28496,7 +31207,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>食事中<rt>しょくじちゅう</rt></ruby>の【　　】、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>がきて、すぐに<ruby>出か<rt>でか</rt></ruby>けた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>食事中<rt>しょくじちゅう</rt></ruby>のところに、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>がきて、すぐに<ruby>出か<rt>でか</rt></ruby>けた。"
   },
   {
     "id": 1358,
@@ -28517,7 +31230,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところを見ると",
-    "notes": "食べ物「ラーメン」→「うどん」"
+    "notes": "食べ物「ラーメン」→「うどん」",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はうどんを<ruby>食べて<rt>たべて</rt></ruby>いる【　　】、ダイエットはやめたんだね。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はうどんを<ruby>食べて<rt>たべて</rt></ruby>いるところを<ruby>見る<rt>みる</rt></ruby>と、ダイエットはやめたんだね。"
   },
   {
     "id": 1359,
@@ -28538,7 +31253,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところを見ると",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>顔<rt>かお</rt></ruby>が<ruby>赤く<rt>あかく</rt></ruby>なっている【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>言った<rt>いった</rt></ruby>ことは<ruby>本当<rt>ほんとう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>顔<rt>かお</rt></ruby>が<ruby>赤く<rt>あかく</rt></ruby>なっているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>言った<rt>いった</rt></ruby>ことは<ruby>本当<rt>ほんとう</rt></ruby>だ。"
   },
   {
     "id": 1360,
@@ -28559,7 +31276,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところを見ると",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby><ruby>顔<rt>かお</rt></ruby>をしている【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんはN2を<ruby>合格<rt>ごうかく</rt></ruby>しただろう。",
+    "sentence_jp_ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby><ruby>顔<rt>かお</rt></ruby>をしているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>佐藤<rt>さとう</rt></ruby>さんはN2を<ruby>合格<rt>ごうかく</rt></ruby>しただろう。"
   },
   {
     "id": 1361,
@@ -28580,7 +31299,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところを見ると",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>怖が<rt>こわが</rt></ruby>ることなく<ruby>近づ<rt>ちかづ</rt></ruby>いていく【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>犬<rt>いぬ</rt></ruby><ruby>好き<rt>すき</rt></ruby>かもしれない。",
+    "sentence_jp_ruby": "<ruby>怖が<rt>こわが</rt></ruby>ることなく<ruby>近づ<rt>ちかづ</rt></ruby>いていくところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>犬<rt>いぬ</rt></ruby><ruby>好き<rt>すき</rt></ruby>かもしれない。"
   },
   {
     "id": 1362,
@@ -28601,7 +31322,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところを見ると",
-    "notes": "店舗「ケーキ屋」→「洋菓子店」"
+    "notes": "店舗「ケーキ屋」→「洋菓子店」",
+    "question_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>が<ruby>行列<rt>ぎょうれつ</rt></ruby>している【　　】、<ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>ようだ。",
+    "sentence_jp_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>が<ruby>行列<rt>ぎょうれつ</rt></ruby>しているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>洋菓子<rt>ようがし</rt></ruby><ruby>店<rt>みせ</rt></ruby>はとても<ruby>美味しい<rt>おいしい</rt></ruby>ようだ。"
   },
   {
     "id": 1363,
@@ -28622,7 +31345,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところを見ると",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>会社<rt>かいしゃ</rt></ruby>、いつも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>している【　　】、<ruby>人<rt>にん</rt></ruby>がすぐに<ruby>辞め<rt>やめ</rt></ruby>てしまうのかなあ。",
+    "sentence_jp_ruby": "あの<ruby>会社<rt>かいしゃ</rt></ruby>、いつも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>しているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>人<rt>にん</rt></ruby>がすぐに<ruby>辞め<rt>やめ</rt></ruby>てしまうのかなあ。"
   },
   {
     "id": 1364,
@@ -28643,7 +31368,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところを見ると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>売れ<rt>うれ</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ている【　　】、<ruby>人気<rt>にんき</rt></ruby>がないらしい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>売れ<rt>うれ</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>人気<rt>にんき</rt></ruby>がないらしい。"
   },
   {
     "id": 1365,
@@ -28664,7 +31391,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところを見ると",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>叱ら<rt>しから</rt></ruby>れて<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ない【　　】、やっぱり<ruby>反省<rt>はんせい</rt></ruby>しているんだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>叱ら<rt>しから</rt></ruby>れて<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ないところを<ruby>見る<rt>みる</rt></ruby>と、やっぱり<ruby>反省<rt>はんせい</rt></ruby>しているんだろう。"
   },
   {
     "id": 1366,
@@ -28685,7 +31414,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、え、そうです【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、え、そうですとも。"
   },
   {
     "id": 1367,
@@ -28706,7 +31437,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>辛く<rt>つらく</rt></ruby>【　　】、<ruby>頑張る<rt>がんばる</rt></ruby>!",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>辛く<rt>つらく</rt></ruby>とも、<ruby>頑張る<rt>がんばる</rt></ruby>!"
   },
   {
     "id": 1368,
@@ -28727,7 +31460,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>言わ<rt>いわ</rt></ruby>なく【　　】<ruby>分か<rt>わか</rt></ruby>るはず。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>言わ<rt>いわ</rt></ruby>なくとも<ruby>分か<rt>わか</rt></ruby>るはず。"
   },
   {
     "id": 1369,
@@ -28748,7 +31483,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅く<rt>おそく</rt></ruby>【　　】<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>終わ<rt>おわ</rt></ruby>らせます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅く<rt>おそく</rt></ruby>とも<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>終わ<rt>おわ</rt></ruby>らせます。"
   },
   {
     "id": 1370,
@@ -28769,7 +31506,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とも",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんがいなく【　　】けっこう<ruby>間に合う<rt>まにあう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんがいなくともけっこう<ruby>間に合う<rt>まにあう</rt></ruby>。"
   },
   {
     "id": 1371,
@@ -28790,7 +31529,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>竹田<rt>たけだ</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>助け<rt>たすけ</rt></ruby>がなく【　　】<ruby>自分<rt>じぶん</rt></ruby>の<ruby>面倒<rt>めんどう</rt></ruby>ぐらいみれるよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>竹田<rt>たけだ</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>助け<rt>たすけ</rt></ruby>がなくとも<ruby>自分<rt>じぶん</rt></ruby>の<ruby>面倒<rt>めんどう</rt></ruby>ぐらいみれるよ。"
   },
   {
     "id": 1372,
@@ -28811,7 +31552,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とも",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>少なく<rt>すくなく</rt></ruby>【　　】<ruby>僕は<rt>ぼくは</rt></ruby>そう<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>少なくとも<rt>すくなくとも</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>そう<ruby>思い<rt>おもい</rt></ruby>ます。"
   },
   {
     "id": 1373,
@@ -28832,7 +31575,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "としても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>で<ruby>不合格<rt>ふごうかく</rt></ruby>になった【　　】、<ruby>諦め<rt>あきらめ</rt></ruby>ずに<ruby>次回<rt>じかい</rt></ruby>も<ruby>受験<rt>じゅけん</rt></ruby>するつもりです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>で<ruby>不合格<rt>ふごうかく</rt></ruby>になったとしても、<ruby>諦め<rt>あきらめ</rt></ruby>ずに<ruby>次回<rt>じかい</rt></ruby>も<ruby>受験<rt>じゅけん</rt></ruby>するつもりです。"
   },
   {
     "id": 1374,
@@ -28853,7 +31598,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "としても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たとえ<ruby>買え<rt>かえ</rt></ruby>る【　　】,そんな<ruby>家<rt>いえ</rt></ruby>は<ruby>買わ<rt>かわ</rt></ruby>ないだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たとえ<ruby>買え<rt>かえ</rt></ruby>るとしても,そんな<ruby>家<rt>いえ</rt></ruby>は<ruby>買わ<rt>かわ</rt></ruby>ないだろう。"
   },
   {
     "id": 1375,
@@ -28874,7 +31621,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "としても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業後<rt>そつぎょうご</rt></ruby>、<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>た【　　】、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>は<ruby>続け<rt>つづけ</rt></ruby>るつもりです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業後<rt>そつぎょうご</rt></ruby>、<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>たとしても、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>は<ruby>続け<rt>つづけ</rt></ruby>るつもりです。"
   },
   {
     "id": 1376,
@@ -28895,7 +31644,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "としても",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>金持ち<rt>かねもち</rt></ruby>になった【　　】、<ruby>今<rt>いま</rt></ruby>と<ruby>変わ<rt>かわ</rt></ruby>らない<ruby>生活<rt>せいかつ</rt></ruby>をするでしょう。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>金持ち<rt>かねもち</rt></ruby>になったとしても、<ruby>今<rt>いま</rt></ruby>と<ruby>変わ<rt>かわ</rt></ruby>らない<ruby>生活<rt>せいかつ</rt></ruby>をするでしょう。"
   },
   {
     "id": 1377,
@@ -28916,7 +31667,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "としても",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんを<ruby>説得<rt>せっとく</rt></ruby>しよう【　　】<ruby>無駄<rt>むだ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんを<ruby>説得<rt>せっとく</rt></ruby>しようとしても<ruby>無駄<rt>むだ</rt></ruby>だ。"
   },
   {
     "id": 1378,
@@ -28937,7 +31690,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "としても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ジョギングに<ruby>行く<rt>いく</rt></ruby>と<ruby>決め<rt>きめ</rt></ruby>ていた<ruby>日<rt>にち</rt></ruby>に、たとえ<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>た【　　】、<ruby>決行<rt>けっこう</rt></ruby>するのだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ジョギングに<ruby>行く<rt>いく</rt></ruby>と<ruby>決め<rt>きめ</rt></ruby>ていた<ruby>日<rt>にち</rt></ruby>に、たとえ<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たとしても、<ruby>決行<rt>けっこう</rt></ruby>するのだ。"
   },
   {
     "id": 1379,
@@ -28958,7 +31713,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "としても",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たとえ<ruby>失敗<rt>しっぱい</rt></ruby>した【　　】、またチャレンジすればいい。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たとえ<ruby>失敗<rt>しっぱい</rt></ruby>したとしても、またチャレンジすればいい。"
   },
   {
     "id": 1380,
@@ -28979,7 +31736,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つつ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>時々<rt>ときどき</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>し【　　】、<ruby>電話<rt>でんわ</rt></ruby>をする。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>時々<rt>ときどき</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>しつつ、<ruby>電話<rt>でんわ</rt></ruby>をする。"
   },
   {
     "id": 1381,
@@ -29000,7 +31759,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つつ",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>忙しい<rt>いそがしい</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>【　　】、⻑<ruby>電話<rt>でんわ</rt></ruby>をしている。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>忙しい<rt>いそがしい</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>つつ、⻑<ruby>電話<rt>でんわ</rt></ruby>をしている。"
   },
   {
     "id": 1382,
@@ -29021,7 +31782,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つつ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>良く<rt>よく</rt></ruby>ないとは<ruby>知り<rt>しり</rt></ruby>【　　】、タバコがやめられない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>良く<rt>よく</rt></ruby>ないとは<ruby>知り<rt>しり</rt></ruby>つつ、タバコがやめられない。"
   },
   {
     "id": 1383,
@@ -29042,7 +31805,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つつ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ダイエットしようと<ruby>思い<rt>おもい</rt></ruby>【　　】、<ruby>甘い<rt>あまい</rt></ruby>ものを<ruby>見る<rt>みる</rt></ruby>と<ruby>食べて<rt>たべて</rt></ruby>しまう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ダイエットしようと<ruby>思い<rt>おもい</rt></ruby>つつ、<ruby>甘い<rt>あまい</rt></ruby>ものを<ruby>見る<rt>みる</rt></ruby>と<ruby>食べて<rt>たべて</rt></ruby>しまう。"
   },
   {
     "id": 1384,
@@ -29063,7 +31828,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つつ",
-    "notes": "名詞「先生」→「指導員」"
+    "notes": "名詞「先生」→「指導員」",
+    "question_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>し【　　】、<ruby>進路<rt>しんろ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>たいと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>しつつ、<ruby>進路<rt>しんろ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>たいと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 1385,
@@ -29084,7 +31851,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つつ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いけないと<ruby>知り<rt>しり</rt></ruby>【　　】も、ゴミを<ruby>分別<rt>ふんべつ</rt></ruby>せずに<ruby>捨て<rt>すて</rt></ruby>てしまう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いけないと<ruby>知り<rt>しり</rt></ruby>つつも、ゴミを<ruby>分別<rt>ふんべつ</rt></ruby>せずに<ruby>捨て<rt>すて</rt></ruby>てしまう。"
   },
   {
     "id": 1386,
@@ -29105,7 +31874,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つつ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>こそ<ruby>頑張ろ<rt>がんばろ</rt></ruby>うと<ruby>思い<rt>おもい</rt></ruby>【　　】、また<ruby>運動<rt>うんどう</rt></ruby>しなかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>こそ<ruby>頑張ろ<rt>がんばろ</rt></ruby>うと<ruby>思い<rt>おもい</rt></ruby>つつ、また<ruby>運動<rt>うんどう</rt></ruby>しなかった。"
   },
   {
     "id": 1387,
@@ -29126,7 +31897,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つつある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、スマホの<ruby>登場<rt>とうじょう</rt></ruby>で、デジタルカメラの<ruby>人気<rt>にんき</rt></ruby>がなくなり【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、スマホの<ruby>登場<rt>とうじょう</rt></ruby>で、デジタルカメラの<ruby>人気<rt>にんき</rt></ruby>がなくなりつつある。"
   },
   {
     "id": 1388,
@@ -29147,7 +31920,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つつあります",
-    "notes": "スポーツ「ゴルフ」→「テニス」"
+    "notes": "スポーツ「ゴルフ」→「テニス」",
+    "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>はテニスをしていないので、<ruby>下手<rt>へた</rt></ruby>になり【　　】。",
+    "sentence_jp_ruby": "<ruby>最近<rt>さいきん</rt></ruby>はテニスをしていないので、<ruby>下手<rt>へた</rt></ruby>になりつつあります。"
   },
   {
     "id": 1389,
@@ -29168,7 +31943,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つつある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>高齢化<rt>こうれいか</rt></ruby>が<ruby>進み<rt>すすみ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>高齢化<rt>こうれいか</rt></ruby>が<ruby>進み<rt>すすみ</rt></ruby>つつある。"
   },
   {
     "id": 1390,
@@ -29189,7 +31966,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つつある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>から<ruby>一週間<rt>いっしゅうかん</rt></ruby>が<ruby>経ち<rt>へち</rt></ruby>、<ruby>原因<rt>げんいん</rt></ruby>などが<ruby>明らか<rt>あきらか</rt></ruby>になり【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>事故<rt>じこ</rt></ruby>から<ruby>一週間<rt>いっしゅうかん</rt></ruby>が<ruby>経ち<rt>へち</rt></ruby>、<ruby>原因<rt>げんいん</rt></ruby>などが<ruby>明らか<rt>あきらか</rt></ruby>になりつつある。"
   },
   {
     "id": 1391,
@@ -29210,7 +31989,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つつあります",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最近<rt>さいきん</rt></ruby>、<ruby>買い物<rt>かいもの</rt></ruby>をしすぎてお<ruby>金<rt>きん</rt></ruby>がなくなり【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最近<rt>さいきん</rt></ruby>、<ruby>買い物<rt>かいもの</rt></ruby>をしすぎてお<ruby>金<rt>きん</rt></ruby>がなくなりつつあります。"
   },
   {
     "id": 1392,
@@ -29231,7 +32012,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つつある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、コスプレ<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>に<ruby>広ま<rt>ひろま</rt></ruby>り【　　】ようだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、コスプレ<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>に<ruby>広ま<rt>ひろま</rt></ruby>りつつあるようだ。"
   },
   {
     "id": 1393,
@@ -29252,7 +32035,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つつある",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>中級<rt>ちゅうきゅう</rt></ruby>になって、「は」と「が」の<ruby>違い<rt>ちがい</rt></ruby>がわかり【　　】。 じつは、ちゅうきゅうになって、「は」と「が」のちがいがわかりつつある。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>中級<rt>ちゅうきゅう</rt></ruby>になって、「は」と「が」の<ruby>違い<rt>ちがい</rt></ruby>がわかりつつある。 じつは、ちゅうきゅうになって、「は」と「が」のちがいがわかりつつある。"
   },
   {
     "id": 1394,
@@ -29273,7 +32058,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>した【　　】、どんなことがあっても<ruby>守り<rt>まもり</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>は、どんなことがあっても<ruby>守り<rt>まもり</rt></ruby>ます。"
   },
   {
     "id": 1395,
@@ -29294,7 +32081,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、プロ<ruby>選手<rt>せんしゅ</rt></ruby>になると<ruby>決め<rt>きめ</rt></ruby>た【　　】、<ruby>苦しく<rt>くるしく</rt></ruby>ても<ruby>頑張ら<rt>がんばら</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、プロ<ruby>選手<rt>せんしゅ</rt></ruby>になると<ruby>決め<rt>きめ</rt></ruby>た<ruby>上<rt>うえ</rt></ruby>は、<ruby>苦しく<rt>くるしく</rt></ruby>ても<ruby>頑張ら<rt>がんばら</rt></ruby>なければならない。"
   },
   {
     "id": 1396,
@@ -29315,7 +32104,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2を<ruby>受験<rt>じゅけん</rt></ruby>する【　　】、<ruby>高得点<rt>こうとくてん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>したいです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、N2を<ruby>受験<rt>じゅけん</rt></ruby>する<ruby>上<rt>うえ</rt></ruby>は、<ruby>高得点<rt>こうとくてん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>したいです。"
   },
   {
     "id": 1397,
@@ -29336,7 +32127,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>を<ruby>離れ<rt>はなれ</rt></ruby>て<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働く<rt>はたらく</rt></ruby>【　　】、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>覚悟<rt>かくご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>を<ruby>離れ<rt>はなれ</rt></ruby>て<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働く<rt>はたらく</rt></ruby><ruby>上<rt>うえ</rt></ruby>は、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>覚悟<rt>かくご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。"
   },
   {
     "id": 1398,
@@ -29357,7 +32150,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上は",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>を<ruby>引き受け<rt>ひきうけ</rt></ruby>た【　　】いつも<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽くし<rt>つくし</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>を<ruby>引き受け<rt>ひきうけ</rt></ruby>た<ruby>上<rt>うえ</rt></ruby>はいつも<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽くし<rt>つくし</rt></ruby>ます。"
   },
   {
     "id": 1399,
@@ -29378,7 +32173,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上は",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "そのプロジェクトは<ruby>失敗<rt>しっぱい</rt></ruby>した。こうなった【　　】<ruby>言い訳<rt>いいわけ</rt></ruby>をしても<ruby>無駄<rt>むだ</rt></ruby>だ。",
+    "sentence_jp_ruby": "そのプロジェクトは<ruby>失敗<rt>しっぱい</rt></ruby>した。こうなった<ruby>上<rt>うえ</rt></ruby>は<ruby>言い訳<rt>いいわけ</rt></ruby>をしても<ruby>無駄<rt>むだ</rt></ruby>だ。"
   },
   {
     "id": 1400,
@@ -29399,7 +32196,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上は",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>を<ruby>決心<rt>けっしん</rt></ruby>した【　　】、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>留学<rt>りゅうがく</rt></ruby>の<ruby>代金<rt>だいきん</rt></ruby>を<ruby>貯金<rt>ちょきん</rt></ruby>すべきだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>を<ruby>決心<rt>けっしん</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>は、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>留学<rt>りゅうがく</rt></ruby>の<ruby>代金<rt>だいきん</rt></ruby>を<ruby>貯金<rt>ちょきん</rt></ruby>すべきだ。"
   },
   {
     "id": 1401,
@@ -29420,7 +32219,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "上は",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "<ruby>高い<rt>たかい</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>旅行<rt>りょこう</rt></ruby>する【　　】、たくさんの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>して、あの<ruby>土地<rt>とち</rt></ruby>のおいしい<ruby>物<rt>もの</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>いです。",
+    "sentence_jp_ruby": "<ruby>高い<rt>たかい</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>上<rt>うえ</rt></ruby>は、たくさんの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>して、あの<ruby>土地<rt>とち</rt></ruby>のおいしい<ruby>物<rt>もの</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>いです。"
   },
   {
     "id": 1402,
@@ -29441,7 +32242,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はもとより",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>【　　】バイクもないんです。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>はもとよりバイクもないんです。"
   },
   {
     "id": 1403,
@@ -29462,7 +32265,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はもとより",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>村<rt>むら</rt></ruby>は、<ruby>地下鉄<rt>ちかてつ</rt></ruby>【　　】、バスも<ruby>全然<rt>ぜんぜん</rt></ruby>ない。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>村<rt>むら</rt></ruby>は、<ruby>地下鉄<rt>ちかてつ</rt></ruby>はもとより、バスも<ruby>全然<rt>ぜんぜん</rt></ruby>ない。"
   },
   {
     "id": 1404,
@@ -29483,7 +32288,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はもとより",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、キャベツはサラダで<ruby>食べ<rt>たべ</rt></ruby>るの【　　】、<ruby>炒め<rt>いため</rt></ruby>ても<ruby>美味しい<rt>おいしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、キャベツはサラダで<ruby>食べ<rt>たべ</rt></ruby>るのはもとより、<ruby>炒め<rt>いため</rt></ruby>ても<ruby>美味しい<rt>おいしい</rt></ruby>。"
   },
   {
     "id": 1405,
@@ -29504,7 +32311,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はもとより",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見た目<rt>みため</rt></ruby>【　　】<ruby>味<rt>あじ</rt></ruby>も<ruby>最高<rt>さいこう</rt></ruby>ですよ!",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>見た目<rt>みため</rt></ruby>はもとより<ruby>味<rt>あじ</rt></ruby>も<ruby>最高<rt>さいこう</rt></ruby>ですよ!"
   },
   {
     "id": 1406,
@@ -29525,7 +32334,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はもとより",
-    "notes": "国名「イギリス」→「オーストラリア」; 曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; 曜日「金曜」→「月曜」"
+    "notes": "国名「イギリス」→「オーストラリア」; 曜日「土曜日」→「日曜日」; 曜日「日曜日」→「土曜日」; 曜日「金曜」→「月曜」",
+    "question_ruby": "オーストラリアでは<ruby>土曜日<rt>どようび</rt></ruby>【　　】<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>にしている<ruby>会社<rt>かいしゃ</rt></ruby>もある。",
+    "sentence_jp_ruby": "オーストラリアでは<ruby>土曜日<rt>どようび</rt></ruby>はもとより<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>にしている<ruby>会社<rt>かいしゃ</rt></ruby>もある。"
   },
   {
     "id": 1407,
@@ -29546,7 +32357,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はもとより",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>【　　】<ruby>知って<rt>しって</rt></ruby>いた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>もとより<ruby>知って<rt>しって</rt></ruby>いた。"
   },
   {
     "id": 1408,
@@ -29567,7 +32380,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はもとより",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>【　　】<ruby>賛成<rt>さんせい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby>もとより<ruby>賛成<rt>さんせい</rt></ruby>だ。"
   },
   {
     "id": 1409,
@@ -29588,7 +32403,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>行く<rt>いく</rt></ruby>か<ruby>行か<rt>いか</rt></ruby>ないか【　　】、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>行く<rt>いく</rt></ruby>か<ruby>行か<rt>いか</rt></ruby>ないかはともかく、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。"
   },
   {
     "id": 1410,
@@ -29609,7 +32426,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はともかく",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>店<rt>みせ</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>は、<ruby>質<rt>しつ</rt></ruby>【　　】<ruby>種類<rt>しゅるい</rt></ruby>は<ruby>多い<rt>おおい</rt></ruby>。",
+    "sentence_jp_ruby": "その<ruby>店<rt>みせ</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>は、<ruby>質<rt>しつ</rt></ruby>はともかく<ruby>種類<rt>しゅるい</rt></ruby>は<ruby>多い<rt>おおい</rt></ruby>。"
   },
   {
     "id": 1411,
@@ -29630,7 +32449,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>は<ruby>見た目<rt>みため</rt></ruby>【　　】<ruby>味<rt>あじ</rt></ruby>は<ruby>美味しい<rt>おいしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>は<ruby>見た目<rt>みため</rt></ruby>はともかく<ruby>味<rt>あじ</rt></ruby>は<ruby>美味しい<rt>おいしい</rt></ruby>。"
   },
   {
     "id": 1412,
@@ -29651,7 +32472,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>こと【　　】、<ruby>書く<rt>かく</rt></ruby>ことは<ruby>苦手<rt>にがて</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>ことはともかく、<ruby>書く<rt>かく</rt></ruby>ことは<ruby>苦手<rt>にがて</rt></ruby>だ。"
   },
   {
     "id": 1413,
@@ -29672,7 +32495,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はともかくとして",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>俳優<rt>はいゆう</rt></ruby>は、<ruby>顔<rt>かお</rt></ruby>【　　】<ruby>演技<rt>えんぎ</rt></ruby>が<ruby>素晴らしい<rt>すばらしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あの<ruby>俳優<rt>はいゆう</rt></ruby>は、<ruby>顔<rt>かお</rt></ruby>はともかくとして<ruby>演技<rt>えんぎ</rt></ruby>が<ruby>素晴らしい<rt>すばらしい</rt></ruby>。"
   },
   {
     "id": 1414,
@@ -29693,7 +32518,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>無事<rt>ぶじ</rt></ruby>でよかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ともかく<ruby>無事<rt>ぶじ</rt></ruby>でよかった。"
   },
   {
     "id": 1415,
@@ -29714,7 +32541,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>【　　】、<ruby>今晩<rt>こんばん</rt></ruby><ruby>泊ま<rt>とま</rt></ruby>れるホテルが<ruby>見つ<rt>みつ</rt></ruby>かってよかった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>はともかく、<ruby>今晩<rt>こんばん</rt></ruby><ruby>泊ま<rt>とま</rt></ruby>れるホテルが<ruby>見つ<rt>みつ</rt></ruby>かってよかった。"
   },
   {
     "id": 1416,
@@ -29735,7 +32564,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はともかく",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚相手<rt>けっこんあいて</rt></ruby>は、<ruby>顔<rt>かお</rt></ruby>【　　】、<ruby>料理<rt>りょうり</rt></ruby>ができる<ruby>人<rt>にん</rt></ruby>がいいなぁ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>結婚相手<rt>けっこんあいて</rt></ruby>は、<ruby>顔<rt>かお</rt></ruby>はともかく、<ruby>料理<rt>りょうり</rt></ruby>ができる<ruby>人<rt>にん</rt></ruby>がいいなぁ。"
   },
   {
     "id": 1417,
@@ -29756,7 +32587,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わずかに",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>が【　　】<ruby>遅れ<rt>おくれ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>がわずかに<ruby>遅れ<rt>おくれ</rt></ruby>ている。"
   },
   {
     "id": 1418,
@@ -29777,7 +32610,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わずかに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道<rt>みち</rt></ruby>はここで【　　】<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲がっ<rt>まがっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>道<rt>みち</rt></ruby>はここでわずかに<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲がっ<rt>まがっ</rt></ruby>ている。"
   },
   {
     "id": 1419,
@@ -29798,7 +32633,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わずかに",
-    "notes": "金額「500円」→「1,000円」"
+    "notes": "金額「500円」→「1,000円」",
+    "question_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>きん</rt></ruby>は【　　】1,000<ruby>円<rt>えん</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>きん</rt></ruby>はわずかに1,000<ruby>円<rt>えん</rt></ruby>だった。"
   },
   {
     "id": 1420,
@@ -29819,7 +32656,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わずかに",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>学校<rt>がっこう</rt></ruby>へ【　　】<ruby>二ヶ月<rt>にかげつ</rt></ruby>しか<ruby>行って<rt>いって</rt></ruby>いません。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>学校<rt>がっこう</rt></ruby>へわずかに<ruby>二ヶ月<rt>にかげつ</rt></ruby>しか<ruby>行って<rt>いって</rt></ruby>いません。"
   },
   {
     "id": 1421,
@@ -29840,7 +32679,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "わずかに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】4<ruby>日間<rt>にちかん</rt></ruby>でそんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>をしたとは<ruby>驚き<rt>おどろき</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、わずかに4<ruby>日間<rt>にちかん</rt></ruby>でそんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>をしたとは<ruby>驚き<rt>おどろき</rt></ruby>だ。"
   },
   {
     "id": 1422,
@@ -29861,7 +32702,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わずかに",
-    "notes": "人数「5人」→「4人」"
+    "notes": "人数「5人」→「4人」",
+    "question_ruby": "バスの<ruby>中に<rt>なかに</rt></ruby>は【　　】4<ruby>人<rt>にん</rt></ruby>しか<ruby>居な<rt>いな</rt></ruby>かった。",
+    "sentence_jp_ruby": "バスの<ruby>中に<rt>なかに</rt></ruby>はわずかに4<ruby>人<rt>にん</rt></ruby>しか<ruby>居な<rt>いな</rt></ruby>かった。"
   },
   {
     "id": 1423,
@@ -29882,7 +32725,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わずかに",
-    "notes": "人数「6人」→「8人」"
+    "notes": "人数「6人」→「8人」",
+    "question_ruby": "そのコンサートの<ruby>出席者<rt>しゅっせきしゃ</rt></ruby>は【　　】8<ruby>人<rt>にん</rt></ruby>だった。",
+    "sentence_jp_ruby": "そのコンサートの<ruby>出席者<rt>しゅっせきしゃ</rt></ruby>はわずかに8<ruby>人<rt>にん</rt></ruby>だった。"
   },
   {
     "id": 1424,
@@ -29903,7 +32748,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "わずかに",
-    "notes": "期間「3年」→「4年」"
+    "notes": "期間「3年」→「4年」",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は4<ruby>年前<rt>ねんまえ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>ると、【　　】<ruby>減っ<rt>へっ</rt></ruby>た 。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は4<ruby>年前<rt>ねんまえ</rt></ruby>と<ruby>比べ<rt>くらべ</rt></ruby>ると、わずかに<ruby>減っ<rt>へっ</rt></ruby>た 。"
   },
   {
     "id": 1425,
@@ -29924,7 +32771,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やがて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>真っ暗<rt>まっくら</rt></ruby>になった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やがて<ruby>真っ暗<rt>まっくら</rt></ruby>になった。"
   },
   {
     "id": 1426,
@@ -29945,7 +32794,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やがて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>考え<rt>かんがえ</rt></ruby>がまとまってきた。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やがて<ruby>考え<rt>かんがえ</rt></ruby>がまとまってきた。"
   },
   {
     "id": 1427,
@@ -29966,7 +32817,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やがて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>空<rt>そら</rt></ruby>は<ruby>曇っ<rt>くもっ</rt></ruby>てきた。【　　】<ruby>雨<rt>あめ</rt></ruby>になるかもしれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>空<rt>そら</rt></ruby>は<ruby>曇っ<rt>くもっ</rt></ruby>てきた。やがて<ruby>雨<rt>あめ</rt></ruby>になるかもしれない。"
   },
   {
     "id": 1428,
@@ -29987,7 +32840,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "やがて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】うちの<ruby>近く<rt>ちかく</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>は<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲き<rt>さき</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、やがてうちの<ruby>近く<rt>ちかく</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>は<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲き<rt>さき</rt></ruby>ます。"
   },
   {
     "id": 1429,
@@ -30008,7 +32863,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "やがて",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>親<rt>おや</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>から【　　】<ruby>三年<rt>さんねん</rt></ruby>になる。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>親<rt>おや</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby>からやがて<ruby>三年<rt>さんねん</rt></ruby>になる。"
   },
   {
     "id": 1430,
@@ -30029,7 +32886,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やがて",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>現実<rt>げんじつ</rt></ruby>を<ruby>受け入れ<rt>うけいれ</rt></ruby>るようになった。",
+    "sentence_jp_ruby": "やがて、<ruby>鈴木<rt>すずき</rt></ruby>さんらは<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>現実<rt>げんじつ</rt></ruby>を<ruby>受け入れ<rt>うけいれ</rt></ruby>るようになった。"
   },
   {
     "id": 1431,
@@ -30050,7 +32909,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "やがて",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>来る<rt>くる</rt></ruby><ruby>途中<rt>とちゅう</rt></ruby>ですから、【　　】<ruby>到着<rt>とうちゃく</rt></ruby>するでしょう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>来る<rt>くる</rt></ruby><ruby>途中<rt>とちゅう</rt></ruby>ですから、やがて<ruby>到着<rt>とうちゃく</rt></ruby>するでしょう。"
   },
   {
     "id": 1432,
@@ -30071,7 +32932,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "やがて",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>はとてもよくなったから、【　　】<ruby>退院<rt>たいいん</rt></ruby>できるだろう。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>はとてもよくなったから、やがて<ruby>退院<rt>たいいん</rt></ruby>できるだろう。"
   },
   {
     "id": 1433,
@@ -30092,7 +32955,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "やら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>宿題<rt>しゅくだい</rt></ruby>【　　】アルバイトやらで<ruby>忙しい<rt>いそがしい</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>宿題<rt>しゅくだい</rt></ruby>やらアルバイトやらで<ruby>忙しい<rt>いそがしい</rt></ruby>。"
   },
   {
     "id": 1434,
@@ -30113,7 +32978,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "やら",
-    "notes": "食べ物「おにぎり」→「サンドイッチ」"
+    "notes": "食べ物「おにぎり」→「サンドイッチ」",
+    "question_ruby": "さっきコンビニでサンドイッチ【　　】お<ruby>茶<rt>ちゃ</rt></ruby>やらを<ruby>買っ<rt>かっ</rt></ruby>た。",
+    "sentence_jp_ruby": "さっきコンビニでサンドイッチやらお<ruby>茶<rt>ちゃ</rt></ruby>やらを<ruby>買っ<rt>かっ</rt></ruby>た。"
   },
   {
     "id": 1435,
@@ -30134,7 +33001,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やら",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>疲れ<rt>つかれ</rt></ruby>【　　】<ruby>空腹<rt>くうふく</rt></ruby>やらで、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>死ん<rt>しん</rt></ruby>だように<ruby>倒れ<rt>たおれ</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>疲れ<rt>つかれ</rt></ruby>やら<ruby>空腹<rt>くうふく</rt></ruby>やらで、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>死ん<rt>しん</rt></ruby>だように<ruby>倒れ<rt>たおれ</rt></ruby>た。"
   },
   {
     "id": 1436,
@@ -30155,7 +33024,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、サイクリングをする<ruby>時<rt>とき</rt></ruby>は<ruby>嬉しい<rt>うれしい</rt></ruby>【　　】<ruby>楽しい<rt>たのしい</rt></ruby>やら、とてもいい<ruby>気分<rt>きぶん</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、サイクリングをする<ruby>時<rt>とき</rt></ruby>は<ruby>嬉しい<rt>うれしい</rt></ruby>やら<ruby>楽しい<rt>たのしい</rt></ruby>やら、とてもいい<ruby>気分<rt>きぶん</rt></ruby>だ。"
   },
   {
     "id": 1437,
@@ -30176,7 +33047,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、カバンにはパソコン【　　】ノートやら<ruby>教科書<rt>きょうかしょ</rt></ruby>やらが<ruby>入っ<rt>いっっ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、カバンにはパソコンやらノートやら<ruby>教科書<rt>きょうかしょ</rt></ruby>やらが<ruby>入っ<rt>いっっ</rt></ruby>ている。"
   },
   {
     "id": 1438,
@@ -30197,7 +33070,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>両親<rt>りょうしん</rt></ruby>からの<ruby>仕送り<rt>しおくり</rt></ruby>は、<ruby>家賃<rt>やちん</rt></ruby>【　　】<ruby>食費<rt>しょくひ</rt></ruby>やらでほとんどなくなってしまった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>両親<rt>りょうしん</rt></ruby>からの<ruby>仕送り<rt>しおくり</rt></ruby>は、<ruby>家賃<rt>やちん</rt></ruby>やら<ruby>食費<rt>しょくひ</rt></ruby>やらでほとんどなくなってしまった。"
   },
   {
     "id": 1439,
@@ -30218,7 +33093,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やら",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさんの<ruby>蚊<rt>か</rt></ruby>に<ruby>食わ<rt>くわ</rt></ruby>れて、かゆい【　　】<ruby>痛い<rt>いたい</rt></ruby>やらで<ruby>大変<rt>たいへん</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、たくさんの<ruby>蚊<rt>か</rt></ruby>に<ruby>食わ<rt>くわ</rt></ruby>れて、かゆいやら<ruby>痛い<rt>いたい</rt></ruby>やらで<ruby>大変<rt>たいへん</rt></ruby>だった。"
   },
   {
     "id": 1440,
@@ -30239,7 +33116,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よほど",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、よほど<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。"
   },
   {
     "id": 1441,
@@ -30260,7 +33139,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よほど",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そこはここから【　　】<ruby>離れ<rt>はなれ</rt></ruby>ている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、そこはここからよほど<ruby>離れ<rt>はなれ</rt></ruby>ている。"
   },
   {
     "id": 1442,
@@ -30281,7 +33162,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よほど",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはこれまでより【　　】よく<ruby>働い<rt>はたらい</rt></ruby>ております。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはこれまでよりよほどよく<ruby>働い<rt>はたらい</rt></ruby>ております。"
   },
   {
     "id": 1443,
@@ -30302,7 +33185,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よほど",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは【　　】のことがなければ<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ないだろう。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはよほどのことがなければ<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ないだろう。"
   },
   {
     "id": 1444,
@@ -30323,7 +33208,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よほど",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>言って<rt>いって</rt></ruby>やろうかと<ruby>思った<rt>おもった</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、よほど<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>言って<rt>いって</rt></ruby>やろうかと<ruby>思った<rt>おもった</rt></ruby>。"
   },
   {
     "id": 1445,
@@ -30344,7 +33231,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よっぽど",
-    "notes": "名詞「会社」→「職場」"
+    "notes": "名詞「会社」→「職場」",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>があまりにもきついから、【　　】<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ようかと<ruby>思って<rt>おもって</rt></ruby>いる。",
+    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>があまりにもきついから、よっぽど<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ようかと<ruby>思って<rt>おもって</rt></ruby>いる。"
   },
   {
     "id": 1446,
@@ -30365,7 +33254,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よっぽど",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>正社員<rt>せいしゃいん</rt></ruby>よりアルバイトの<ruby>方が<rt>ほうが</rt></ruby>【　　】しっかりしている。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>正社員<rt>せいしゃいん</rt></ruby>よりアルバイトの<ruby>方が<rt>ほうが</rt></ruby>よっぽどしっかりしている。"
   },
   {
     "id": 1447,
@@ -30386,7 +33277,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "よっぽど",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんまり<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>から、【　　】<ruby>食べ<rt>たべ</rt></ruby>ずに<ruby>帰ろ<rt>かえろ</rt></ruby>うと<ruby>思った<rt>おもった</rt></ruby>が、せっかく<ruby>注文<rt>ちゅうもん</rt></ruby>したから<ruby>食べ<rt>たべ</rt></ruby>ることにした。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、あんまり<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>から、よっぽど<ruby>食べ<rt>たべ</rt></ruby>ずに<ruby>帰ろ<rt>かえろ</rt></ruby>うと<ruby>思った<rt>おもった</rt></ruby>が、せっかく<ruby>注文<rt>ちゅうもん</rt></ruby>したから<ruby>食べ<rt>たべ</rt></ruby>ることにした。"
   },
   {
     "id": 1448,
@@ -30407,7 +33300,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "より",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>【　　】、<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>より、<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。"
   },
   {
     "id": 1449,
@@ -30428,7 +33323,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "より",
-    "notes": "人名「山田さん」→「佐藤さん」; 時相「昨日」→「一昨日」"
+    "notes": "人名「山田さん」→「佐藤さん」; 時相「昨日」→「一昨日」",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、<ruby>佐藤<rt>さとう</rt></ruby>さん【　　】お<ruby>電話<rt>でんわ</rt></ruby>を<ruby>頂き<rt>いただき</rt></ruby>ました。",
+    "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、<ruby>佐藤<rt>さとう</rt></ruby>さんよりお<ruby>電話<rt>でんわ</rt></ruby>を<ruby>頂き<rt>いただき</rt></ruby>ました。"
   },
   {
     "id": 1450,
@@ -30449,7 +33346,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "より",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>心<rt>こころ</rt></ruby>【　　】<ruby>感謝し<rt>かんしゃし</rt></ruby>ます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝し<rt>かんしゃし</rt></ruby>ます。"
   },
   {
     "id": 1451,
@@ -30470,7 +33369,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "より",
-    "notes": "日付「9月1日」→「4月1日」; 日付「4月1日」→「10月1日」"
+    "notes": "日付「9月1日」→「4月1日」; 日付「4月1日」→「10月1日」",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>【　　】<ruby>開始<rt>かいし</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は10<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>より<ruby>開始<rt>かいし</rt></ruby>です。"
   },
   {
     "id": 1452,
@@ -30491,7 +33392,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "より",
-    "notes": "都市名「大阪」→「名古屋」; 曜日「水曜日」→「金曜日」; 曜日「金曜」→「月曜」"
+    "notes": "都市名「大阪」→「名古屋」; 曜日「水曜日」→「金曜日」; 曜日「金曜」→「月曜」",
+    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>【　　】、<ruby>名古屋<rt>なごや</rt></ruby>に<ruby>出張<rt>しゅっちょう</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>より、<ruby>名古屋<rt>なごや</rt></ruby>に<ruby>出張<rt>しゅっちょう</rt></ruby>します。"
   },
   {
     "id": 1453,
@@ -30512,7 +33415,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "より",
-    "notes": "日付「4月1日」→「10月1日」"
+    "notes": "日付「4月1日」→「10月1日」",
+    "question_ruby": "10<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>【　　】<ruby>試験<rt>しけん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sentence_jp_ruby": "10<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>より<ruby>試験<rt>しけん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。"
   },
   {
     "id": 1454,
@@ -30533,7 +33438,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "より",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>【　　】<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりましたね。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりましたね。"
   },
   {
     "id": 1455,
@@ -30554,7 +33461,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よりほかはない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>仕事<rt>しごと</rt></ruby>は<ruby>君<rt>くん</rt></ruby>に<ruby>信頼<rt>しんらい</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "その<ruby>仕事<rt>しごと</rt></ruby>は<ruby>君<rt>くん</rt></ruby>に<ruby>信頼<rt>しんらい</rt></ruby>するよりほかはない。"
   },
   {
     "id": 1456,
@@ -30575,7 +33484,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よりほか仕方がない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、バスがないので、<ruby>歩い<rt>あるい</rt></ruby>ていく【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、バスがないので、<ruby>歩い<rt>あるい</rt></ruby>ていくよりほか<ruby>仕方<rt>しかた</rt></ruby>がない。"
   },
   {
     "id": 1457,
@@ -30596,7 +33507,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "よりほか仕方がない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>頼れ<rt>たよれ</rt></ruby>る<ruby>人<rt>にん</rt></ruby>はいないから、<ruby>自分<rt>じぶん</rt></ruby>がやる【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>頼れ<rt>たよれ</rt></ruby>る<ruby>人<rt>にん</rt></ruby>はいないから、<ruby>自分<rt>じぶん</rt></ruby>がやるよりほか<ruby>仕方<rt>しかた</rt></ruby>がない。"
   },
   {
     "id": 1458,
@@ -30617,7 +33530,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "よりほかはない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby><ruby>学力<rt>がくりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ないから<ruby>勉強<rt>べんきょう</rt></ruby>で<ruby>補う<rt>おぎなう</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>僕は<rt>ぼくは</rt></ruby><ruby>学力<rt>がくりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>ないから<ruby>勉強<rt>べんきょう</rt></ruby>で<ruby>補う<rt>おぎなう</rt></ruby>よりほかはない。"
   },
   {
     "id": 1459,
@@ -30638,7 +33553,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よりほか仕方がない",
-    "notes": "乗り物「自転車」→「バイク」"
+    "notes": "乗り物「自転車」→「バイク」",
+    "question_ruby": "バイクが<ruby>壊れ<rt>こわれ</rt></ruby>てしまった。<ruby>学校<rt>がっこう</rt></ruby>へバスで<ruby>行く<rt>いく</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "バイクが<ruby>壊れ<rt>こわれ</rt></ruby>てしまった。<ruby>学校<rt>がっこう</rt></ruby>へバスで<ruby>行く<rt>いく</rt></ruby>よりほか<ruby>仕方<rt>しかた</rt></ruby>がない。"
   },
   {
     "id": 1460,
@@ -30659,7 +33576,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "よりほかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>ので、<ruby>残念<rt>ざんねん</rt></ruby>だが<ruby>明日<rt>あした</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>する【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>ので、<ruby>残念<rt>ざんねん</rt></ruby>だが<ruby>明日<rt>あした</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>するよりほかない。"
   },
   {
     "id": 1461,
@@ -30680,7 +33599,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よりほかない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>経営<rt>けいえい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>ようであれば、<ruby>店<rt>みせ</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby>る【　　】ですよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、こんな<ruby>経営<rt>けいえい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>ようであれば、<ruby>店<rt>みせ</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby>るよりほかないですよ。"
   },
   {
     "id": 1462,
@@ -30701,7 +33622,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よりほか仕方がない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>は<ruby>嫌い<rt>きらい</rt></ruby>だが、<ruby>飲ま<rt>のま</rt></ruby>ないと<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治せ<rt>なおせ</rt></ruby>ないから、<ruby>飲む<rt>のむ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>薬<rt>くすり</rt></ruby>は<ruby>嫌い<rt>きらい</rt></ruby>だが、<ruby>飲ま<rt>のま</rt></ruby>ないと<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治せ<rt>なおせ</rt></ruby>ないから、<ruby>飲む<rt>のむ</rt></ruby>よりほか<ruby>仕方<rt>しかた</rt></ruby>がない。"
   },
   {
     "id": 1463,
@@ -30722,7 +33645,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようでは",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らない【　　】N2には<ruby>合格<rt>ごうかく</rt></ruby>できないよ。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>らないようではN2には<ruby>合格<rt>ごうかく</rt></ruby>できないよ。"
   },
   {
     "id": 1464,
@@ -30743,7 +33668,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る【　　】、<ruby>合格<rt>ごうかく</rt></ruby>はできない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試験<rt>しけん</rt></ruby>の<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>るようでは、<ruby>合格<rt>ごうかく</rt></ruby>はできない。"
   },
   {
     "id": 1465,
@@ -30764,7 +33691,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようでは",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>解決<rt>かいけつ</rt></ruby>できない【　　】<ruby>困る<rt>こまる</rt></ruby>よ。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>解決<rt>かいけつ</rt></ruby>できないようでは<ruby>困る<rt>こまる</rt></ruby>よ。"
   },
   {
     "id": 1466,
@@ -30785,7 +33714,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>から、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>する【　　】<ruby>悪い<rt>わるい</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>になるよ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>から、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>するようでは<ruby>悪い<rt>わるい</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>になるよ。"
   },
   {
     "id": 1467,
@@ -30806,7 +33737,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがある【　　】、<ruby>君<rt>くん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがあるようでは、<ruby>君<rt>くん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。"
   },
   {
     "id": 1468,
@@ -30827,7 +33760,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>もできない【　　】、<ruby>人<rt>にん</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>立つ<rt>たつ</rt></ruby>こともできない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>もできないようでは、<ruby>人<rt>にん</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>立つ<rt>たつ</rt></ruby>こともできない。"
   },
   {
     "id": 1469,
@@ -30848,7 +33783,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>敬語<rt>けいご</rt></ruby>がちゃんと<ruby>使え<rt>つかえ</rt></ruby>ない【　　】、<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はできない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>敬語<rt>けいご</rt></ruby>がちゃんと<ruby>使え<rt>つかえ</rt></ruby>ないようでは、<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はできない。"
   },
   {
     "id": 1470,
@@ -30869,7 +33806,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようでは",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>勝負<rt>しょうぶ</rt></ruby>において、<ruby>相手<rt>あいて</rt></ruby>のミスを<ruby>願う<rt>ねがう</rt></ruby>【　　】プロにはなれない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>勝負<rt>しょうぶ</rt></ruby>において、<ruby>相手<rt>あいて</rt></ruby>のミスを<ruby>願う<rt>ねがう</rt></ruby>ようではプロにはなれない。"
   },
   {
     "id": 1471,
@@ -30890,7 +33829,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようではないか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>た<ruby>時<rt>とき</rt></ruby>はお<ruby>互いに<rt>たがいに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>て【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>困っ<rt>こまっ</rt></ruby>た<ruby>時<rt>とき</rt></ruby>はお<ruby>互いに<rt>たがいに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>ていこうではありませんか。"
   },
   {
     "id": 1472,
@@ -30911,7 +33852,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようではないか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>身に<rt>みに</rt></ruby>つけるために【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>身に<rt>みに</rt></ruby>つけるために<ruby>頑張ろ<rt>がんばろ</rt></ruby>うではないか。"
   },
   {
     "id": 1473,
@@ -30932,7 +33875,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようではないか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>祝い<rt>いわい</rt></ruby>だ。みんなで【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日は<rt>こんにちは</rt></ruby>お<ruby>祝い<rt>いわい</rt></ruby>だ。みんなで<ruby>飲も<rt>のも</rt></ruby>うではないか。"
   },
   {
     "id": 1474,
@@ -30953,7 +33898,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "じゃないか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰も<rt>だれも</rt></ruby>やらないなら、<ruby>僕<rt>ぼく</rt></ruby>がやってみよう【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>誰も<rt>だれも</rt></ruby>やらないなら、<ruby>僕<rt>ぼく</rt></ruby>がやってみようじゃないか。"
   },
   {
     "id": 1475,
@@ -30974,7 +33921,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようではないか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>については、もっと【　　】。",
+    "sentence_jp_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>については、もっと<ruby>話し合お<rt>はなしあお</rt></ruby>うではないか。"
   },
   {
     "id": 1476,
@@ -30995,7 +33944,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようではありませんか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "その<ruby>町<rt>まち</rt></ruby>を<ruby>人気<rt>にんき</rt></ruby>になる<ruby>方法<rt>ほうほう</rt></ruby>について、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>町<rt>まち</rt></ruby>を<ruby>人気<rt>にんき</rt></ruby>になる<ruby>方法<rt>ほうほう</rt></ruby>について、<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>ようではありませんか。"
   },
   {
     "id": 1477,
@@ -31016,7 +33967,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようではないか",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "みんなで<ruby>力<rt>ちから</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて、その<ruby>島<rt>しま</rt></ruby>の<ruby>自然<rt>しぜん</rt></ruby>を【　　】。",
+    "sentence_jp_ruby": "みんなで<ruby>力<rt>ちから</rt></ruby>を<ruby>合わ<rt>あわ</rt></ruby>せて、その<ruby>島<rt>しま</rt></ruby>の<ruby>自然<rt>しぜん</rt></ruby>を<ruby>守っ<rt>まもっ</rt></ruby>ていこうではないか。"
   },
   {
     "id": 1478,
@@ -31037,7 +33990,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようか～まいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>だ。<ruby>買い物<rt>かいもの</rt></ruby>をしに【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>だ。<ruby>買い物<rt>かいもの</rt></ruby>をしに<ruby>行こ<rt>いこ</rt></ruby>うか、<ruby>行く<rt>いく</rt></ruby>まいか。"
   },
   {
     "id": 1479,
@@ -31058,7 +34013,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようか～まいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>のことを【　　】<ruby>迷っ<rt>まよっ</rt></ruby>たが、<ruby>結局<rt>けっきょく</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>話し<rt>はなし</rt></ruby>た。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>話そ<rt>はなそ</rt></ruby>うか<ruby>話す<rt>はなす</rt></ruby>まいか<ruby>迷っ<rt>まよっ</rt></ruby>たが、<ruby>結局<rt>けっきょく</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>話し<rt>はなし</rt></ruby>た。"
   },
   {
     "id": 1480,
@@ -31079,7 +34036,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようか",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>し【　　】するまいか<ruby>悩む<rt>なやむ</rt></ruby>くらいなら、やめたほうがいいと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>しようかするまいか<ruby>悩む<rt>なやむ</rt></ruby>くらいなら、やめたほうがいいと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 1481,
@@ -31100,7 +34059,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようかすまいか",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>新聞記者<rt>しんぶんきしゃ</rt></ruby>は、<ruby>記事<rt>きじ</rt></ruby>を<ruby>掲載<rt>けいさい</rt></ruby>し【　　】<ruby>悩ん<rt>なやん</rt></ruby>だあげく、<ruby>掲載<rt>けいさい</rt></ruby>をやめた。",
+    "sentence_jp_ruby": "あの<ruby>新聞記者<rt>しんぶんきしゃ</rt></ruby>は、<ruby>記事<rt>きじ</rt></ruby>を<ruby>掲載<rt>けいさい</rt></ruby>しようかすまいか<ruby>悩ん<rt>なやん</rt></ruby>だあげく、<ruby>掲載<rt>けいさい</rt></ruby>をやめた。"
   },
   {
     "id": 1482,
@@ -31121,7 +34082,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようかすまいか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>し【　　】<ruby>迷う<rt>まよう</rt></ruby>こと<ruby>自体<rt>じたい</rt></ruby><ruby>働か<rt>はたらか</rt></ruby>なければならない<ruby>者<rt>もの</rt></ruby>から<ruby>見れ<rt>みれ</rt></ruby>ば<ruby>幸せ<rt>しあわせ</rt></ruby>なことだと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>しようかすまいか<ruby>迷う<rt>まよう</rt></ruby>こと<ruby>自体<rt>じたい</rt></ruby><ruby>働か<rt>はたらか</rt></ruby>なければならない<ruby>者<rt>もの</rt></ruby>から<ruby>見れ<rt>みれ</rt></ruby>ば<ruby>幸せ<rt>しあわせ</rt></ruby>なことだと<ruby>思う<rt>おもう</rt></ruby>。"
   },
   {
     "id": 1483,
@@ -31142,7 +34105,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようか",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食べた<rt>たべた</rt></ruby>いけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>食べた<rt>たべた</rt></ruby>いけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>ようか<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。"
   },
   {
     "id": 1484,
@@ -31163,7 +34128,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "要するに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、【　　】<ruby>時<rt>とき</rt></ruby>と<ruby>金<rt>きん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>要す<rt>ようす</rt></ruby>るに<ruby>時<rt>とき</rt></ruby>と<ruby>金<rt>きん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>だ。"
   },
   {
     "id": 1485,
@@ -31184,7 +34151,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "要するに",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "【　　】、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>行き<rt>いき</rt></ruby>たくないって<ruby>言った<rt>いった</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>要す<rt>ようす</rt></ruby>るに、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>行き<rt>いき</rt></ruby>たくないって<ruby>言った<rt>いった</rt></ruby>でしょう。"
   },
   {
     "id": 1486,
@@ -31205,7 +34174,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "要するに",
-    "notes": "指示詞「その」→「あの」"
+    "notes": "指示詞「その」→「あの」",
+    "question_ruby": "あの<ruby>会合<rt>かいごう</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>にならない。【　　】<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>だった。",
+    "sentence_jp_ruby": "あの<ruby>会合<rt>かいごう</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>にならない。<ruby>要す<rt>ようす</rt></ruby>るに<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>だった。"
   },
   {
     "id": 1487,
@@ -31226,7 +34197,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "要するに",
-    "notes": "乗り物「電車」→「地下鉄」"
+    "notes": "乗り物「電車」→「地下鉄」",
+    "question_ruby": "<ruby>終電<rt>しゅうでん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>しまった。【　　】、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>帰れ<rt>かえれ</rt></ruby>ないということだ。",
+    "sentence_jp_ruby": "<ruby>終電<rt>しゅうでん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>しまった。<ruby>要す<rt>ようす</rt></ruby>るに、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>帰れ<rt>かえれ</rt></ruby>ないということだ。"
   },
   {
     "id": 1488,
@@ -31247,7 +34220,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "要するに",
-    "notes": "点数「10点」→「5点」"
+    "notes": "点数「10点」→「5点」",
+    "question_ruby": "<ruby>合格点<rt>ごうかくてん</rt></ruby>に5<ruby>点<rt>てん</rt></ruby><ruby>足り<rt>たり</rt></ruby>ず、<ruby>不合格<rt>ふごうかく</rt></ruby>でした。【　　】、まだまだ<ruby>努力<rt>どりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なかった。",
+    "sentence_jp_ruby": "<ruby>合格点<rt>ごうかくてん</rt></ruby>に5<ruby>点<rt>てん</rt></ruby><ruby>足り<rt>たり</rt></ruby>ず、<ruby>不合格<rt>ふごうかく</rt></ruby>でした。<ruby>要す<rt>ようす</rt></ruby>るに、まだまだ<ruby>努力<rt>どりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なかった。"
   },
   {
     "id": 1489,
@@ -31268,7 +34243,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "要するに",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一度<rt>いちど</rt></ruby>も<ruby>入賞<rt>にゅうしょう</rt></ruby>しなかった。【　　】<ruby>才能<rt>さいのう</rt></ruby>がなかったということだ。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>一度<rt>いちど</rt></ruby>も<ruby>入賞<rt>にゅうしょう</rt></ruby>しなかった。<ruby>要す<rt>ようす</rt></ruby>るに<ruby>才能<rt>さいのう</rt></ruby>がなかったということだ。"
   },
   {
     "id": 1490,
@@ -31289,7 +34266,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "要するに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試合<rt>しあい</rt></ruby>に<ruby>大<rt>だい</rt></ruby><ruby>負け<rt>まけ</rt></ruby>した。【　　】、<ruby>相手<rt>あいて</rt></ruby>のチームと<ruby>力<rt>ちから</rt></ruby>の<ruby>差が<rt>さが</rt></ruby>あったということだ。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>試合<rt>しあい</rt></ruby>に<ruby>大<rt>だい</rt></ruby><ruby>負け<rt>まけ</rt></ruby>した。<ruby>要す<rt>ようす</rt></ruby>るに、<ruby>相手<rt>あいて</rt></ruby>のチームと<ruby>力<rt>ちから</rt></ruby>の<ruby>差が<rt>さが</rt></ruby>あったということだ。"
   },
   {
     "id": 1491,
@@ -31310,7 +34289,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "要するに",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>のスピーチは<ruby>緊張し<rt>きんちょうし</rt></ruby>て<ruby>間違え<rt>まちがえ</rt></ruby>てしまいました。【　　】、<ruby>練習不足<rt>れんしゅうぶそく</rt></ruby>ということです。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今日<rt>きょう</rt></ruby>のスピーチは<ruby>緊張し<rt>きんちょうし</rt></ruby>て<ruby>間違え<rt>まちがえ</rt></ruby>てしまいました。<ruby>要す<rt>ようす</rt></ruby>るに、<ruby>練習不足<rt>れんしゅうぶそく</rt></ruby>ということです。"
   },
   {
     "id": 1492,
@@ -31331,7 +34312,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ざるを得ない",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそうせ【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはそうせざるを<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 1493,
@@ -31352,7 +34335,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ざるを得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いやな<ruby>仕事<rt>しごと</rt></ruby>でも、<ruby>生活<rt>せいかつ</rt></ruby>のためには<ruby>続け<rt>つづけ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、いやな<ruby>仕事<rt>しごと</rt></ruby>でも、<ruby>生活<rt>せいかつ</rt></ruby>のためには<ruby>続け<rt>つづけ</rt></ruby>ざるを<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 1494,
@@ -31373,7 +34358,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ざるを得なかった",
-    "notes": "主語「彼」→「鈴木さん」"
+    "notes": "主語「彼」→「鈴木さん」",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>受験<rt>じゅけん</rt></ruby>のため、サークル<ruby>活動<rt>かつどう</rt></ruby>を<ruby>休ま<rt>やすま</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>受験<rt>じゅけん</rt></ruby>のため、サークル<ruby>活動<rt>かつどう</rt></ruby>を<ruby>休ま<rt>やすま</rt></ruby>ざるを<ruby>得な<rt>えな</rt></ruby>かった。"
   },
   {
     "id": 1495,
@@ -31394,7 +34381,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ざるを得ない",
-    "notes": "主語「彼女」→「佐藤さん」"
+    "notes": "主語「彼女」→「佐藤さん」",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>進学<rt>しんがく</rt></ruby>したいが、<ruby>家族<rt>かぞく</rt></ruby>が<ruby>学費<rt>がくひ</rt></ruby>を<ruby>払え<rt>はらえ</rt></ruby>る<ruby>状況<rt>じょうきょう</rt></ruby>でもないので、<ruby>諦め<rt>あきらめ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>進学<rt>しんがく</rt></ruby>したいが、<ruby>家族<rt>かぞく</rt></ruby>が<ruby>学費<rt>がくひ</rt></ruby>を<ruby>払え<rt>はらえ</rt></ruby>る<ruby>状況<rt>じょうきょう</rt></ruby>でもないので、<ruby>諦め<rt>あきらめ</rt></ruby>ざるを<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 1496,
@@ -31415,7 +34404,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ざるを得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>を<ruby>楽しみ<rt>たのしみ</rt></ruby>にしていたが、<ruby>母<rt>はは</rt></ruby>が<ruby>急に<rt>きゅうに</rt></ruby><ruby>入院<rt>にゅういん</rt></ruby>したので、<ruby>行く<rt>いく</rt></ruby>のをキャンセルせ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>を<ruby>楽しみ<rt>たのしみ</rt></ruby>にしていたが、<ruby>母<rt>はは</rt></ruby>が<ruby>急に<rt>きゅうに</rt></ruby><ruby>入院<rt>にゅういん</rt></ruby>したので、<ruby>行く<rt>いく</rt></ruby>のをキャンセルせざるを<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 1497,
@@ -31436,7 +34427,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ざるを得ない",
-    "notes": "指示詞「この」→「その」"
+    "notes": "指示詞「この」→「その」",
+    "question_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>したい<ruby>気持ち<rt>きもち</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>るが、その<ruby>病状<rt>びょうじょう</rt></ruby>では、<ruby>延期<rt>えんき</rt></ruby>せ【　　】だろう。",
+    "sentence_jp_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>したい<ruby>気持ち<rt>きもち</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>るが、その<ruby>病状<rt>びょうじょう</rt></ruby>では、<ruby>延期<rt>えんき</rt></ruby>せざるを<ruby>得な<rt>えな</rt></ruby>いだろう。"
   },
   {
     "id": 1498,
@@ -31457,7 +34450,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ざるを得ない",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>のテストの<ruby>成績<rt>せいせき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>と、<ruby>留年<rt>りゅうねん</rt></ruby>が<ruby>決定<rt>けってい</rt></ruby>するので、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>徹夜<rt>てつや</rt></ruby>でも<ruby>勉強<rt>べんきょう</rt></ruby>せ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>のテストの<ruby>成績<rt>せいせき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>と、<ruby>留年<rt>りゅうねん</rt></ruby>が<ruby>決定<rt>けってい</rt></ruby>するので、<ruby>今日は<rt>こんにちは</rt></ruby><ruby>徹夜<rt>てつや</rt></ruby>でも<ruby>勉強<rt>べんきょう</rt></ruby>せざるを<ruby>得な<rt>えな</rt></ruby>い。"
   },
   {
     "id": 1499,
@@ -31478,7 +34473,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ざるを得ない",
-    "notes": "期間「3年」→「4年」; 割合「3%」→「5%」"
+    "notes": "期間「3年」→「4年」; 割合「3%」→「5%」",
+    "question_ruby": "<ruby>高校<rt>こうこう</rt></ruby>4<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>約<rt>やく</rt></ruby>5%が、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>苦しい<rt>くるしい</rt></ruby>ので、<ruby>大学進学<rt>だいがくしんがく</rt></ruby>を<ruby>諦め<rt>あきらめ</rt></ruby>【　　】そうです。",
+    "sentence_jp_ruby": "<ruby>高校<rt>こうこう</rt></ruby>4<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>約<rt>やく</rt></ruby>5%が、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>苦しい<rt>くるしい</rt></ruby>ので、<ruby>大学進学<rt>だいがくしんがく</rt></ruby>を<ruby>諦め<rt>あきらめ</rt></ruby>ざるを<ruby>得な<rt>えな</rt></ruby>いそうです。"
   },
   {
     "id": 1500,
@@ -31499,7 +34496,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずに済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 1501,
@@ -31520,7 +34519,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずに済む",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ここでは1<ruby>日中<rt>にっちゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>【　　】ことはほとんどない。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、ここでは1<ruby>日中<rt>にっちゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ずに<ruby>済む<rt>すむ</rt></ruby>ことはほとんどない。"
   },
   {
     "id": 1502,
@@ -31541,7 +34542,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずに済んだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>損を<rt>そこなを</rt></ruby>せ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>損を<rt>そこなを</rt></ruby>せずに<ruby>済ん<rt>すん</rt></ruby>だ。"
   },
   {
     "id": 1503,
@@ -31562,7 +34565,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずに済んだ",
-    "notes": "主語「私」→「高橋さん」"
+    "notes": "主語「私」→「高橋さん」",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>のアパートに<ruby>泊め<rt>とめ</rt></ruby>てくれたのでホテルに<ruby>泊ま<rt>とま</rt></ruby>ら【　　】。",
+    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>のアパートに<ruby>泊め<rt>とめ</rt></ruby>てくれたのでホテルに<ruby>泊ま<rt>とま</rt></ruby>らずに<ruby>済ん<rt>すん</rt></ruby>だ。"
   },
   {
     "id": 1504,
@@ -31583,7 +34588,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずに済んだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>死な<rt>しな</rt></ruby>【　　】のはまったくの<ruby>幸運<rt>こううん</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>死な<rt>しな</rt></ruby>ずに<ruby>済ん<rt>すん</rt></ruby>だのはまったくの<ruby>幸運<rt>こううん</rt></ruby>だった。"
   },
   {
     "id": 1505,
@@ -31604,7 +34611,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずに済む",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>金<rt>きん</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>【　　】なら<ruby>借り<rt>かり</rt></ruby>はしません。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>金<rt>きん</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ずに<ruby>済む<rt>すむ</rt></ruby>なら<ruby>借り<rt>かり</rt></ruby>はしません。"
   },
   {
     "id": 1506,
@@ -31625,7 +34634,9 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずに済みました",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby>しておいたおかげで、<ruby>待た<rt>また</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby>しておいたおかげで、<ruby>待た<rt>また</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
   },
   {
     "id": 1507,
@@ -31646,6 +34657,8 @@ window.JLPT_N2_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずに済んだ",
-    "notes": "文頭に「実は、」を追加"
+    "notes": "文頭に「実は、」を追加",
+    "question_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅刻<rt>ちこく</rt></ruby>してしまったが、きちんと<ruby>理由<rt>りゆう</rt></ruby>を<ruby>説明し<rt>せつめいし</rt></ruby>たら<ruby>怒ら<rt>いから</rt></ruby>れ【　　】。",
+    "sentence_jp_ruby": "<ruby>実は<rt>じつは</rt></ruby>、<ruby>遅刻<rt>ちこく</rt></ruby>してしまったが、きちんと<ruby>理由<rt>りゆう</rt></ruby>を<ruby>説明し<rt>せつめいし</rt></ruby>たら<ruby>怒ら<rt>いから</rt></ruby>れずに<ruby>済ん<rt>すん</rt></ruby>だ。"
   }
 ];
