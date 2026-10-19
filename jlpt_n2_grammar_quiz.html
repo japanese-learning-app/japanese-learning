@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JLPT N2 文法穴埋めマスター — 全1,507問 4択練習道場</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Noto+Serif+JP:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* カラーパレット：スモーキーシアン × サクラピンク（BOTANIST風の上質な透明感） */
+    --primary-blue: #468297;
+    --primary-blue-dark: #326475;
+    --primary-blue-light: #5E9AB0;
+    --primary-blue-pale: #EDF5F8;
+    
+    --sakura-pink-bg: #FAF1F3;
+    --sakura-pink-soft: #FDF7F8;
+    --sakura-pink-accent: #E8A4B2;
+    --sakura-pink-deep: #B8596E;
+    --sakura-pink-border: #F2D5DB;
+
+    --mint-cyan: #78B1BF;
+    --mint-cyan-light: #EEF7FA;
+    
+    --text-primary: #2C3E48;
+    --text-secondary: #5E727D;
+    --text-muted: #8FA2AD;
+    
+    --card-bg: #FFFFFF;
+    --card-border: #E8EEF1;
+    --card-shadow: 0 10px 30px rgba(70, 130, 151, 0.08);
+
+    --correct-bg: #E8F5E9;
+    --correct-border: #81C784;
+    --correct-text: #2E7D32;
+
+    --wrong-bg: #FFEBEE;
+    --wrong-border: #E57373;
+    --wrong-text: #C62828;
+
+    --font-serif: 'Noto Serif JP', '游明朝', 'Yu Mincho', 'YuMincho', serif;
+    --font-en-serif: 'Cormorant Garamond', serif;
+    --font-sans: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: var(--sakura-pink-bg);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    line-height: 1.7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: 
+      radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+    background-attachment: fixed;
+  }
+
+  /* Header */
+  .site-header {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+    color: #FFFFFF;
+    padding: 24px 20px 20px;
+    box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .brand-area {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-en {
+    font-family: var(--font-en-serif);
+    font-size: 26px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    line-height: 1.1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .brand-en span.badge-n2 {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+
+  .brand-sub {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.85);
+    margin-top: 3px;
+    letter-spacing: 0.5px;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* Toggle Pill Switch */
+  .furigana-toggle {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 30px;
+    padding: 4px 6px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    user-select: none;
+  }
+
+  .furigana-toggle:hover {
+    background: rgba(255, 255, 255, 0.28);
+  }
+
+  .toggle-label {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    transition: all 0.25s ease;
+  }
+
+  .toggle-label.active {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
+  .toggle-label.inactive {
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  .header-btn {
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    color: #FFFFFF;
+    padding: 7px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    text-decoration: none;
+  }
+
+  .header-btn:hover {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+  }
+
+  /* Main Container */
+  .main-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 28px auto 40px;
+    padding: 0 20px;
+    flex: 1;
+  }
+
+  /* Filter & Control Bar */
+  .control-bar {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    padding: 14px 20px;
+    margin-bottom: 24px;
+    box-shadow: var(--card-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .filter-select {
+    padding: 7px 12px;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 10px;
+    background: var(--sakura-pink-soft);
+    color: var(--text-primary);
+    font-size: 13px;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+    transition: border 0.2s;
+    max-width: 280px;
+  }
+
+  .filter-select:focus {
+    border-color: var(--primary-blue);
+  }
+
+  .jump-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--text-secondary);
+  }
+
+  .jump-input {
+    width: 68px;
+    padding: 6px 8px;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 8px;
+    font-size: 13px;
+    text-align: center;
+    outline: none;
+    background: var(--sakura-pink-soft);
+  }
+
+  .jump-input:focus {
+    border-color: var(--primary-blue);
+  }
+
+  .jump-btn {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .jump-btn:hover {
+    background: var(--primary-blue-dark);
+  }
+
+  /* Progress Bar */
+  .progress-wrap {
+    margin-bottom: 20px;
+  }
+
+  .progress-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+
+  .progress-bar-bg {
+    height: 7px;
+    background: rgba(70, 130, 151, 0.12);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--mint-cyan), var(--primary-blue));
+    border-radius: 10px;
+    transition: width 0.3s ease;
+  }
+
+  /* Question Card */
+  .question-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 24px;
+    padding: 36px 36px 30px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 24px;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+
+  .card-top-badges {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .badge-category {
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .badge-qnum {
+    font-family: var(--font-en-serif);
+    font-size: 20px;
+    color: var(--primary-blue);
+    font-weight: 600;
+  }
+
+  .bookmark-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+    line-height: 1;
+  }
+
+  .bookmark-btn.active {
+    color: var(--sakura-pink-deep);
+  }
+
+  /* Question Text Area */
+  .sentence-area {
+    margin-bottom: 18px;
+  }
+
+  .sentence-jp {
+    font-family: var(--font-serif);
+    font-size: 24px;
+    line-height: 1.8;
+    color: var(--text-primary);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+
+  .sentence-jp .blank-box {
+    display: inline-block;
+    min-width: 90px;
+    padding: 0 10px;
+    margin: 0 4px;
+    border-bottom: 3px solid var(--primary-blue);
+    color: var(--primary-blue-dark);
+    text-align: center;
+    font-weight: 700;
+    background: var(--primary-blue-pale);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+  }
+
+  .sentence-jp .blank-box.filled-correct {
+    border-bottom-color: var(--correct-border);
+    background: var(--correct-bg);
+    color: var(--correct-text);
+  }
+
+  .sentence-jp .blank-box.filled-wrong {
+    border-bottom-color: var(--wrong-border);
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+  }
+
+  .sentence-furigana {
+    font-size: 15px;
+    color: var(--text-muted);
+    margin-top: 6px;
+    display: none;
+    letter-spacing: 0.5px;
+  }
+
+  .sentence-furigana.show {
+    display: block;
+  }
+
+  .sentence-en {
+    font-family: var(--font-en-serif);
+    font-size: 18px;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px dashed var(--sakura-pink-border);
+    line-height: 1.5;
+  }
+
+  /* Choices Grid */
+  .choices-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+    margin: 30px 0 20px;
+  }
+
+  @media (max-width: 640px) {
+    .choices-grid {
+      grid-template-columns: 1fr;
+    }
+    .question-card {
+      padding: 24px 20px 20px;
+    }
+    .sentence-jp {
+      font-size: 20px;
+    }
+  }
+
+  .choice-btn {
+    background: #FFFFFF;
+    border: 1.5px solid var(--card-border);
+    border-radius: 14px;
+    padding: 16px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+    cursor: pointer;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+    position: relative;
+    user-select: none;
+  }
+
+  .choice-btn:hover:not(:disabled) {
+    border-color: var(--primary-blue-light);
+    background: var(--primary-blue-pale);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(70, 130, 151, 0.12);
+  }
+
+  .choice-btn:disabled {
+    cursor: default;
+  }
+
+  .choice-num {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 700;
+    flex-shrink: 0;
+    transition: all 0.2s;
+  }
+
+  .choice-text {
+    flex: 1;
+    font-size: 16px;
+  }
+
+  /* Choice States */
+  .choice-btn.correct {
+    background: var(--correct-bg) !important;
+    border-color: var(--correct-border) !important;
+    color: var(--correct-text) !important;
+  }
+
+  .choice-btn.correct .choice-num {
+    background: var(--correct-border);
+    color: #FFFFFF;
+    border-color: var(--correct-border);
+  }
+
+  .choice-btn.wrong {
+    background: var(--wrong-bg) !important;
+    border-color: var(--wrong-border) !important;
+    color: var(--wrong-text) !important;
+  }
+
+  .choice-btn.wrong .choice-num {
+    background: var(--wrong-border);
+    color: #FFFFFF;
+    border-color: var(--wrong-border);
+  }
+
+  /* Feedback / Explanation Box */
+  .explanation-box {
+    margin-top: 24px;
+    padding: 22px 24px;
+    border-radius: 16px;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    display: none;
+    animation: fadeIn 0.3s ease;
+  }
+
+  .explanation-box.show {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .exp-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+
+  .exp-status-badge {
+    font-size: 13px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+
+  .exp-status-badge.correct {
+    background: var(--correct-bg);
+    color: var(--correct-text);
+    border: 1px solid var(--correct-border);
+  }
+
+  .exp-status-badge.wrong {
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+    border: 1px solid var(--wrong-border);
+  }
+
+  .exp-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--primary-blue-dark);
+  }
+
+  .exp-reading {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-left: 6px;
+  }
+
+  .exp-meaning {
+    font-size: 14px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    font-family: var(--font-en-serif);
+    font-style: italic;
+  }
+
+  .exp-similar-box {
+    background: #FFFFFF;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+
+  .exp-similar-label {
+    font-weight: 700;
+    color: var(--sakura-pink-deep);
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .exp-similar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 6px;
+  }
+
+  .sim-tag {
+    background: var(--sakura-pink-bg);
+    color: var(--sakura-pink-deep);
+    border: 1px solid var(--sakura-pink-border);
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  /* Navigation Buttons */
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 24px;
+    gap: 16px;
+  }
+
+  .nav-btn {
+    background: var(--card-bg);
+    border: 1.5px solid var(--primary-blue);
+    color: var(--primary-blue);
+    padding: 12px 28px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 12px rgba(70, 130, 151, 0.08);
+  }
+
+  .nav-btn:hover:not(:disabled) {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(70, 130, 151, 0.2);
+  }
+
+  .nav-btn.primary {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  .nav-btn.primary:hover:not(:disabled) {
+    background: var(--primary-blue-dark);
+  }
+
+  .nav-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+  }
+
+  /* Footer */
+  .site-footer {
+    text-align: center;
+    padding: 24px 20px;
+    font-size: 13px;
+    color: var(--text-muted);
+    border-top: 1px solid var(--sakura-pink-border);
+    background: rgba(255, 255, 255, 0.6);
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand-area">
+      <div class="brand-en">
+        JLPT Grammar Master
+        <span class="badge-n2">N2 レベル</span>
+      </div>
+      <div class="brand-sub">全195文法項目・厳選1,507問 穴埋め4択クイズ</div>
+    </div>
+    <div class="header-actions">
+      <!-- ふりがな ON/OFF スイッチ -->
+      <div class="furigana-toggle" id="furiganaToggle" title="ふりがな（読み）の表示を切り替えます">
+        <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
+        <span class="toggle-label active" id="toggleOn">ON</span>
+      </div>
+      <button class="header-btn" id="randomBtn" title="ランダムな問題を出題します">
+        🎲 ランダム
+      </button>
+      <a href="index.html" class="header-btn" title="アプリのトップページへ戻る">
+        🏠 TOP
+      </a>
+    </div>
+  </div>
+</header>
+
+<main class="main-container">
+  <!-- Control Bar -->
+  <div class="control-bar">
+    <div class="filter-group">
+      <label for="grammarFilter" style="font-size: 13px; font-weight: 600; color: var(--text-secondary);">文法で絞り込み:</label>
+      <select id="grammarFilter" class="filter-select">
+        <option value="all">全195文法（全1,507問）</option>
+      </select>
+    </div>
+    <div class="jump-group">
+      <span>第</span>
+      <input type="number" id="jumpInput" class="jump-input" min="1" max="1507" value="1">
+      <span>問 / 1507</span>
+      <button id="jumpBtn" class="jump-btn">移動</button>
+    </div>
+  </div>
+
+  <!-- Progress Bar -->
+  <div class="progress-wrap">
+    <div class="progress-meta">
+      <span id="progressText">第 1 問 / 1,507 問</span>
+      <span id="scoreText">正解率: 0% (0 / 0)</span>
+    </div>
+    <div class="progress-bar-bg">
+      <div id="progressBarFill" class="progress-bar-fill"></div>
+    </div>
+  </div>
+
+  <!-- Question Card -->
+  <div class="question-card">
+    <div class="card-top-badges">
+      <div class="badge-category" id="badgeGrammar">
+        文法 #1: あげく
+      </div>
+      <div style="display: flex; align-items: center; gap: 14px;">
+        <div class="badge-qnum" id="badgeQNum">Q. 0001</div>
+        <button class="bookmark-btn" id="bookmarkBtn" title="この問題をブックマーク">★</button>
+      </div>
+    </div>
+
+    <!-- Sentence Area -->
+    <div class="sentence-area">
+      <div class="sentence-jp" id="sentenceJp">
+        読み込み中...
+      </div>
+      <div class="sentence-furigana show" id="sentenceFurigana">
+        <!-- ふりがな文 -->
+      </div>
+      <div class="sentence-en" id="sentenceEn">
+        <!-- 英語訳 -->
+      </div>
+    </div>
+
+    <!-- 4 Choices Grid -->
+    <div class="choices-grid" id="choicesGrid">
+      <!-- 4 choices generated via JS -->
+    </div>
+
+    <!-- Explanation Box -->
+    <div class="explanation-box" id="explanationBox">
+      <div class="exp-header">
+        <span class="exp-status-badge" id="expStatusBadge">正解！</span>
+        <div class="exp-title">
+          <span id="expGrammarName">あげく</span>
+          <span class="exp-reading" id="expGrammarReading">(ageku)</span>
+        </div>
+      </div>
+      <div class="exp-meaning" id="expGrammarMeaning">
+        to end up; in the end; finally; after all~
+      </div>
+      <div class="exp-similar-box">
+        <div class="exp-similar-label">
+          <span>💡 似ている文法・関連表現:</span>
+        </div>
+        <div class="exp-similar-tags" id="expSimilarTags">
+          <!-- Tags -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navigation Bar -->
+  <div class="nav-bar">
+    <button class="nav-btn" id="prevBtn" disabled>
+      ← 前に戻る
+    </button>
+    <div style="font-size: 13px; color: var(--text-muted);">
+      ショートカット: [←] 前へ / [→] 次へ
+    </div>
+    <button class="nav-btn primary" id="nextBtn">
+      次へ行く →
+    </button>
+  </div>
+</main>
+
+<footer class="site-footer">
+  JLPT N2 Grammar Master Study App &bull; Powered by Antigravity
+</footer>
+
+<!-- 1,507 Questions Dataset -->
+<script src="database/jlpt_n2_grammar_quiz_data.js"></script>
+
+<script>
+(function() {
+  const data = window.JLPT_N2_QUIZ_DATA || [];
+  if (!data || data.length === 0) {
+    document.getElementById('sentenceJp').innerText = "問題データの読み込みに失敗しました。";
+    return;
+  }
+
+  let currentIndex = 0;
+  let filteredIndices = data.map((_, i) => i);
+  let showFurigana = true;
+  let userStats = {
+    answered: 0,
+    correct: 0,
+    answers: {} // index: { selected: number, isCorrect: boolean }
+  };
+  let bookmarks = JSON.parse(localStorage.getItem('jlpt_n2_bookmarks') || '[]');
+
+  // DOM Elements
+  const grammarFilter = document.getElementById('grammarFilter');
+  const jumpInput = document.getElementById('jumpInput');
+  const jumpBtn = document.getElementById('jumpBtn');
+  const progressText = document.getElementById('progressText');
+  const scoreText = document.getElementById('scoreText');
+  const progressBarFill = document.getElementById('progressBarFill');
+  const badgeGrammar = document.getElementById('badgeGrammar');
+  const badgeQNum = document.getElementById('badgeQNum');
+  const bookmarkBtn = document.getElementById('bookmarkBtn');
+  const sentenceJp = document.getElementById('sentenceJp');
+  const sentenceFurigana = document.getElementById('sentenceFurigana');
+  const sentenceEn = document.getElementById('sentenceEn');
+  const choicesGrid = document.getElementById('choicesGrid');
+  const explanationBox = document.getElementById('explanationBox');
+  const expStatusBadge = document.getElementById('expStatusBadge');
+  const expGrammarName = document.getElementById('expGrammarName');
+  const expGrammarReading = document.getElementById('expGrammarReading');
+  const expGrammarMeaning = document.getElementById('expGrammarMeaning');
+  const expSimilarTags = document.getElementById('expSimilarTags');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const furiganaToggle = document.getElementById('furiganaToggle');
+  const toggleOn = document.getElementById('toggleOn');
+  const toggleOff = document.getElementById('toggleOff');
+  const randomBtn = document.getElementById('randomBtn');
+
+  // Populate Grammar Dropdown
+  const grammarMap = new Map();
+  data.forEach((q) => {
+    if (!grammarMap.has(q.grammar_id)) {
+      grammarMap.set(q.grammar_id, q.grammar);
+    }
+  });
+
+  grammarMap.forEach((name, id) => {
+    const opt = document.createElement('option');
+    opt.value = id;
+    opt.textContent = `#${id} ${name}`;
+    grammarFilter.appendChild(opt);
+  });
+
+  // Filter change
+  grammarFilter.addEventListener('change', (e) => {
+    const val = e.target.value;
+    if (val === 'all') {
+      filteredIndices = data.map((_, i) => i);
+    } else {
+      const gid = parseInt(val, 10);
+      filteredIndices = [];
+      data.forEach((q, i) => {
+        if (q.grammar_id === gid) {
+          filteredIndices.push(i);
+        }
+      });
+    }
+    currentIndex = 0;
+    renderQuestion();
+  });
+
+  // Furigana Toggle
+  furiganaToggle.addEventListener('click', () => {
+    showFurigana = !showFurigana;
+    if (showFurigana) {
+      toggleOn.className = 'toggle-label active';
+      toggleOff.className = 'toggle-label inactive';
+      sentenceFurigana.classList.add('show');
+    } else {
+      toggleOn.className = 'toggle-label inactive';
+      toggleOff.className = 'toggle-label active';
+      sentenceFurigana.classList.remove('show');
+    }
+  });
+
+  // Bookmark Toggle
+  bookmarkBtn.addEventListener('click', () => {
+    const realIndex = filteredIndices[currentIndex];
+    const qid = data[realIndex].id;
+    const pos = bookmarks.indexOf(qid);
+    if (pos >= 0) {
+      bookmarks.splice(pos, 1);
+      bookmarkBtn.classList.remove('active');
+    } else {
+      bookmarks.push(qid);
+      bookmarkBtn.classList.add('active');
+    }
+    localStorage.setItem('jlpt_n2_bookmarks', JSON.stringify(bookmarks));
+  });
+
+  // Jump Button
+  jumpBtn.addEventListener('click', () => {
+    const val = parseInt(jumpInput.value, 10);
+    if (val >= 1 && val <= filteredIndices.length) {
+      currentIndex = val - 1;
+      renderQuestion();
+    }
+  });
+
+  jumpInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      jumpBtn.click();
+    }
+  });
+
+  // Random Button
+  randomBtn.addEventListener('click', () => {
+    if (filteredIndices.length > 1) {
+      let r = currentIndex;
+      while (r === currentIndex) {
+        r = Math.floor(Math.random() * filteredIndices.length);
+      }
+      currentIndex = r;
+      renderQuestion();
+    }
+  });
+
+  // Next & Prev
+  prevBtn.addEventListener('click', () => {
+    if (currentIndex > 0) {
+      currentIndex--;
+      renderQuestion();
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentIndex < filteredIndices.length - 1) {
+      currentIndex++;
+      renderQuestion();
+    }
+  });
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (e.key === 'ArrowRight') {
+      nextBtn.click();
+    } else if (e.key === 'ArrowLeft') {
+      prevBtn.click();
+    } else if (['1', '2', '3', '4'].includes(e.key)) {
+      const idx = parseInt(e.key, 10) - 1;
+      const btns = choicesGrid.querySelectorAll('.choice-btn');
+      if (btns[idx] && !btns[idx].disabled) {
+        btns[idx].click();
+      }
+    }
+  });
+
+  function renderQuestion() {
+    if (filteredIndices.length === 0) {
+      sentenceJp.innerHTML = "該当する問題がありません。";
+      choicesGrid.innerHTML = "";
+      explanationBox.classList.remove('show');
+      return;
+    }
+
+    const realIndex = filteredIndices[currentIndex];
+    const q = data[realIndex];
+
+    // Meta & badges
+    badgeGrammar.textContent = `文法 #${q.grammar_id}: ${q.grammar}`;
+    badgeQNum.textContent = `Q. ${String(q.id).padStart(4, '0')}`;
+    jumpInput.value = currentIndex + 1;
+    jumpInput.max = filteredIndices.length;
+
+    // Bookmarked state
+    if (bookmarks.includes(q.id)) {
+      bookmarkBtn.classList.add('active');
+    } else {
+      bookmarkBtn.classList.remove('active');
+    }
+
+    // Progress text
+    progressText.textContent = `第 ${currentIndex + 1} 問 / ${filteredIndices.length} 問`;
+    const pct = ((currentIndex + 1) / filteredIndices.length) * 100;
+    progressBarFill.style.width = `${pct}%`;
+
+    // Score text
+    const acc = userStats.answered > 0 ? Math.round((userStats.correct / userStats.answered) * 100) : 0;
+    scoreText.textContent = `正解率: ${acc}% (${userStats.correct} / ${userStats.answered})`;
+
+    // Check if previously answered
+    const previousAns = userStats.answers[realIndex];
+
+    // Question Sentence with blank box
+    let qHtml = q.question;
+    if (previousAns !== undefined) {
+      const isRight = previousAns.isCorrect;
+      const fillClass = isRight ? 'blank-box filled-correct' : 'blank-box filled-wrong';
+      qHtml = qHtml.replace('【　　】', `<span class="${fillClass}">${q.correct_text}</span>`);
+    } else {
+      qHtml = qHtml.replace('【　　】', `<span class="blank-box">（ ？ ）</span>`);
+    }
+    sentenceJp.innerHTML = qHtml;
+
+    // Furigana
+    sentenceFurigana.textContent = q.sentence_furigana || "";
+    if (showFurigana) {
+      sentenceFurigana.classList.add('show');
+    } else {
+      sentenceFurigana.classList.remove('show');
+    }
+
+    // English
+    sentenceEn.textContent = q.sentence_en || "";
+
+    // Choices
+    choicesGrid.innerHTML = "";
+    q.choices.forEach((choiceText, cIdx) => {
+      const btn = document.createElement('button');
+      btn.className = 'choice-btn';
+      btn.innerHTML = `
+        <span class="choice-num">${cIdx + 1}</span>
+        <span class="choice-text">${choiceText}</span>
+      `;
+
+      if (previousAns !== undefined) {
+        btn.disabled = true;
+        if (cIdx === q.answer) {
+          btn.classList.add('correct');
+        } else if (cIdx === previousAns.selected) {
+          btn.classList.add('wrong');
+        }
+      } else {
+        btn.addEventListener('click', () => handleChoiceSelect(realIndex, cIdx));
+      }
+
+      choicesGrid.appendChild(btn);
+    });
+
+    // Explanation Box
+    if (previousAns !== undefined) {
+      showExplanation(q, previousAns.isCorrect);
+    } else {
+      explanationBox.classList.remove('show');
+    }
+
+    // Nav Buttons State
+    prevBtn.disabled = (currentIndex === 0);
+    nextBtn.disabled = (currentIndex === filteredIndices.length - 1);
+  }
+
+  function handleChoiceSelect(realIndex, selectedIdx) {
+    const q = data[realIndex];
+    const isCorrect = (selectedIdx === q.answer);
+
+    userStats.answered++;
+    if (isCorrect) {
+      userStats.correct++;
+    }
+    userStats.answers[realIndex] = {
+      selected: selectedIdx,
+      isCorrect: isCorrect
+    };
+
+    renderQuestion();
+  }
+
+  function showExplanation(q, isCorrect) {
+    if (isCorrect) {
+      expStatusBadge.className = 'exp-status-badge correct';
+      expStatusBadge.textContent = '◯ 正解！素晴らしい！';
+    } else {
+      expStatusBadge.className = 'exp-status-badge wrong';
+      expStatusBadge.textContent = '✕ 不正解（正解: ' + q.correct_text + '）';
+    }
+
+    expGrammarName.textContent = q.grammar;
+    expGrammarReading.textContent = q.reading ? `(${q.reading})` : '';
+    expGrammarMeaning.textContent = q.meaning_en || '';
+
+    // Similar tags
+    expSimilarTags.innerHTML = "";
+    if (q.similar) {
+      const items = q.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
+      items.forEach(item => {
+        const span = document.createElement('span');
+        span.className = 'sim-tag';
+        span.textContent = item;
+        expSimilarTags.appendChild(span);
+      });
+    }
+
+    explanationBox.classList.add('show');
+  }
+
+  // Initial Render
+  renderQuestion();
+})();
+</script>
+
+</body>
+</html>
