@@ -97,7 +97,15 @@
     'card_midori_kougeki', 'card_midori_tsuuchi', 'card_midori_shitsurei', 'card_midori_shitauchi',
     'card_midori_kazoekirenai', 'card_midori_iyanaomoi', 'card_midori_ekiin', 'card_midori_taidogawarui',
     'card_midori_eikyou', 'card_midori_tanseina', 'card_midori_kaodachi', 'card_midori_soudanninoru',
-    'card_midori_furinosuru', 'card_midori_nisemono', 'card_midori_honmono', 'card_midori_sagi', 'card_midori_kuyashii', 'card_midori_kiriganai', 'card_midori_haragatatsu', 'card_midori_mukatsuku', 'card_midori_sewawosuru', 'card_midori_shugyou', 'card_midori_mukiau'
+    'card_midori_furinosuru', 'card_midori_nisemono', 'card_midori_honmono', 'card_midori_sagi',
+    'card_midori_kuyashii', 'card_midori_kiriganai', 'card_midori_haragatatsu', 'card_midori_mukatsuku',
+    'card_midori_sewawosuru', 'card_midori_shugyou', 'card_midori_mukiau', 'card_midori_ajitsuke',
+    'card_midori_mukumu', 'card_midori_panpan', 'card_midori_jojoni', 'card_midori_fuyasu',
+    'card_midori_kobushi', 'card_midori_bai', 'card_midori_hiwotoosu', 'card_midori_atsukau',
+    'card_midori_komugiko', 'card_midori_mezurashii', 'card_midori_ijou', 'card_midori_ika',
+    'card_midori_enki', 'card_midori_teiji', 'card_midori_idensuru', 'card_midori_nenreikakunin',
+    'card_midori_mibunshou', 'card_midori_kaoiro', 'card_midori_saikon', 'card_midori_burikko',
+    'card_midori_tsukiai', 'card_midori_toshigahanareteiru'
   ];
 
     const MIDORI_CURATED_CARDS = [
@@ -806,6 +814,627 @@
       "fr": "A: Il faut avoir le courage d'affronter la réalité sans fuir.<br/>B: Oui, avançons pas à pas sans fermer les yeux sur les difficultés."
     },
     "category": "授業で習った言葉",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_ajitsuke",
+    "word": "味付け",
+    "reading": "あじつけ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "seasoning, flavoring",
+      "ja": "味付け",
+      "zh_TW": "調味、調味方式",
+      "zh_CN": "調味、調味方式",
+      "ko": "seasoning, flavoring",
+      "zh_HK": "調味、調味方式",
+      "fr": "seasoning, flavoring"
+    },
+    "example": {
+      "ja": "<ruby>素材<rt>そざい</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>を<ruby>生<rt>い</rt></ruby>かすために、うす<ruby>味<rt>あじ</rt></ruby>に<ruby>味付<rt>あじつ</rt></ruby>けした。",
+      "en": "seasoning, flavoring",
+      "zh_TW": "為了發揮食材本身的味道，做了清淡的調味。",
+      "zh_CN": "為了發揮食材本身的味道，做了清淡的調味。",
+      "ko": "為了發揮食材本身的味道，做了清淡的調味。",
+      "zh_HK": "為了發揮食材本身的味道，做了清淡的調味。",
+      "fr": "為了發揮食材本身的味道，做了清淡的調味。"
+    },
+    "related": "あじつけ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_mukumu",
+    "word": "浮腫む",
+    "reading": "むくむ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to swell, to become swollen",
+      "ja": "浮腫む",
+      "zh_TW": "水腫、浮腫",
+      "zh_CN": "水腫、浮腫",
+      "ko": "to swell, to become swollen",
+      "zh_HK": "水腫、浮腫",
+      "fr": "to swell, to become swollen"
+    },
+    "example": {
+      "ja": "<ruby>塩分<rt>えんぶん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りすぎると、<ruby>翌朝<rt>よくあさ</rt></ruby><ruby>顔<rt>かお</rt></ruby>が<ruby>浮腫<rt>むく</rt></ruby>みやすい。",
+      "en": "to swell, to become swollen",
+      "zh_TW": "攝取過多鹽分的話，隔天早上臉部容易水腫。",
+      "zh_CN": "攝取過多鹽分的話，隔天早上臉部容易水腫。",
+      "ko": "攝取過多鹽分的話，隔天早上臉部容易水腫。",
+      "zh_HK": "攝取過多鹽分的話，隔天早上臉部容易水腫。",
+      "fr": "攝取過多鹽分的話，隔天早上臉部容易水腫。"
+    },
+    "related": "むくむ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_panpan",
+    "word": "パンパン",
+    "reading": "ぱんぱん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "swollen tight, packed full",
+      "ja": "パンパン",
+      "zh_TW": "腫脹得緊繃、塞得滿滿的",
+      "zh_CN": "腫脹得緊繃、塞得滿滿的",
+      "ko": "swollen tight, packed full",
+      "zh_HK": "腫脹得緊繃、塞得滿滿的",
+      "fr": "swollen tight, packed full"
+    },
+    "example": {
+      "ja": "<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>立<rt>た</rt></ruby>ち<ruby>仕事<rt>しごと</rt></ruby>をして、<ruby>足<rt>あし</rt></ruby>がパンパンになった。",
+      "en": "swollen tight, packed full",
+      "zh_TW": "站著工作了一整天，雙腳腫脹得緊繃。",
+      "zh_CN": "站著工作了一整天，雙腳腫脹得緊繃。",
+      "ko": "站著工作了一整天，雙腳腫脹得緊繃。",
+      "zh_HK": "站著工作了一整天，雙腳腫脹得緊繃。",
+      "fr": "站著工作了一整天，雙腳腫脹得緊繃。"
+    },
+    "related": "ぱんぱん（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_jojoni",
+    "word": "徐々に",
+    "reading": "じょじょに",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "gradually, step by step",
+      "ja": "徐々に",
+      "zh_TW": "逐漸、逐步、慢慢地",
+      "zh_CN": "逐漸、逐步、慢慢地",
+      "ko": "gradually, step by step",
+      "zh_HK": "逐漸、逐步、慢慢地",
+      "fr": "gradually, step by step"
+    },
+    "example": {
+      "ja": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだら、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>下<rt>さ</rt></ruby>がってきた。",
+      "en": "gradually, step by step",
+      "zh_TW": "吃了藥之後，體溫逐漸退了下來。",
+      "zh_CN": "吃了藥之後，體溫逐漸退了下來。",
+      "ko": "吃了藥之後，體溫逐漸退了下來。",
+      "zh_HK": "吃了藥之後，體溫逐漸退了下來。",
+      "fr": "吃了藥之後，體溫逐漸退了下來。"
+    },
+    "related": "じょじょに（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_fuyasu",
+    "word": "増やす",
+    "reading": "ふやす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to increase, to add to",
+      "ja": "増やす",
+      "zh_TW": "增加、增添",
+      "zh_CN": "增加、增添",
+      "ko": "to increase, to add to",
+      "zh_HK": "增加、增添",
+      "fr": "to increase, to add to"
+    },
+    "example": {
+      "ja": "<ruby>将来<rt>しょうらい</rt></ruby>のために、<ruby>貯金<rt>ちょきん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたい。",
+      "en": "to increase, to add to",
+      "zh_TW": "為了將來，我想增加儲蓄。",
+      "zh_CN": "為了將來，我想增加儲蓄。",
+      "ko": "為了將來，我想增加儲蓄。",
+      "zh_HK": "為了將來，我想增加儲蓄。",
+      "fr": "為了將來，我想增加儲蓄。"
+    },
+    "related": "ふやす（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kobushi",
+    "word": "拳",
+    "reading": "こぶし",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "fist",
+      "ja": "拳",
+      "zh_TW": "拳頭",
+      "zh_CN": "拳頭",
+      "ko": "fist",
+      "zh_HK": "拳頭",
+      "fr": "fist"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>怒<rt>いか</rt></ruby>りに<ruby>震<rt>ふる</rt></ruby>えながら、ぎゅっと<ruby>拳<rt>こぶし</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめた。",
+      "en": "fist",
+      "zh_TW": "他因憤怒而顫抖，緊緊握住了拳頭。",
+      "zh_CN": "他因憤怒而顫抖，緊緊握住了拳頭。",
+      "ko": "他因憤怒而顫抖，緊緊握住了拳頭。",
+      "zh_HK": "他因憤怒而顫抖，緊緊握住了拳頭。",
+      "fr": "他因憤怒而顫抖，緊緊握住了拳頭。"
+    },
+    "related": "こぶし（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_bai",
+    "word": "〜倍",
+    "reading": "〜ばい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "... times, -fold",
+      "ja": "〜倍",
+      "zh_TW": "……倍",
+      "zh_CN": "……倍",
+      "ko": "... times, -fold",
+      "zh_HK": "……倍",
+      "fr": "... times, -fold"
+    },
+    "example": {
+      "ja": "このスマホのバッテリーは、<ruby>従来<rt>じゅうらい</rt></ruby>の2<ruby>倍<rt>ばい</rt></ruby><ruby>長持<rt>ながも</rt></ruby>ちする。",
+      "en": "... times, -fold",
+      "zh_TW": "這款智慧型手機的電池，比以往的耐用兩倍。",
+      "zh_CN": "這款智慧型手機的電池，比以往的耐用兩倍。",
+      "ko": "這款智慧型手機的電池，比以往的耐用兩倍。",
+      "zh_HK": "這款智慧型手機的電池，比以往的耐用兩倍。",
+      "fr": "這款智慧型手機的電池，比以往的耐用兩倍。"
+    },
+    "related": "〜ばい（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_hiwotoosu",
+    "word": "火を通す",
+    "reading": "ひをとおす",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to cook thoroughly, to heat through",
+      "ja": "火を通す",
+      "zh_TW": "加熱煮熟、煮透",
+      "zh_CN": "加熱煮熟、煮透",
+      "ko": "to cook thoroughly, to heat through",
+      "zh_HK": "加熱煮熟、煮透",
+      "fr": "to cook thoroughly, to heat through"
+    },
+    "example": {
+      "ja": "お<ruby>腹<rt>なか</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>さないように、<ruby>肉<rt>にく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>までしっかり<ruby>火<rt>ひ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>してください。",
+      "en": "to cook thoroughly, to heat through",
+      "zh_TW": "為了不吃壞肚子，請務必將肉的中心徹底加熱煮熟。",
+      "zh_CN": "為了不吃壞肚子，請務必將肉的中心徹底加熱煮熟。",
+      "ko": "為了不吃壞肚子，請務必將肉的中心徹底加熱煮熟。",
+      "zh_HK": "為了不吃壞肚子，請務必將肉的中心徹底加熱煮熟。",
+      "fr": "為了不吃壞肚子，請務必將肉的中心徹底加熱煮熟。"
+    },
+    "related": "ひをとおす（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_atsukau",
+    "word": "扱う",
+    "reading": "あつかう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to handle, to deal with",
+      "ja": "扱う",
+      "zh_TW": "拿取、對待、販售、處理",
+      "zh_CN": "拿取、對待、販售、處理",
+      "ko": "to handle, to deal with",
+      "zh_HK": "拿取、對待、販售、處理",
+      "fr": "to handle, to deal with"
+    },
+    "example": {
+      "ja": "ガラス<ruby>製品<rt>せいひん</rt></ruby>は<ruby>壊<rt>こわ</rt></ruby>れやすいので、<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>ってください。",
+      "en": "to handle, to deal with",
+      "zh_TW": "玻璃製品容易破損，請小心拿取。",
+      "zh_CN": "玻璃製品容易破損，請小心拿取。",
+      "ko": "玻璃製品容易破損，請小心拿取。",
+      "zh_HK": "玻璃製品容易破損，請小心拿取。",
+      "fr": "玻璃製品容易破損，請小心拿取。"
+    },
+    "related": "あつかう（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_komugiko",
+    "word": "小麦粉",
+    "reading": "こむぎこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "flour, wheat flour",
+      "ja": "小麦粉",
+      "zh_TW": "麵粉",
+      "zh_CN": "麵粉",
+      "ko": "flour, wheat flour",
+      "zh_HK": "麵粉",
+      "fr": "flour, wheat flour"
+    },
+    "example": {
+      "ja": "<ruby>小麦粉<rt>こむぎこ</rt></ruby>と<ruby>卵<rt>たまご</rt></ruby>を<ruby>混<rt>ま</rt></ruby>ぜて、パンの<ruby>生地<rt>きじ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る。",
+      "en": "flour, wheat flour",
+      "zh_TW": "將麵粉和雞蛋混合，製作麵包麵團。",
+      "zh_CN": "將麵粉和雞蛋混合，製作麵包麵團。",
+      "ko": "將麵粉和雞蛋混合，製作麵包麵團。",
+      "zh_HK": "將麵粉和雞蛋混合，製作麵包麵團。",
+      "fr": "將麵粉和雞蛋混合，製作麵包麵團。"
+    },
+    "related": "こむぎこ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_mezurashii",
+    "word": "珍しい",
+    "reading": "めずらしい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "rare, unusual",
+      "ja": "珍しい",
+      "zh_TW": "罕見的、稀奇的",
+      "zh_CN": "罕見的、稀奇的",
+      "ko": "rare, unusual",
+      "zh_HK": "罕見的、稀奇的",
+      "fr": "rare, unusual"
+    },
+    "example": {
+      "ja": "この<ruby>地域<rt>ちいき</rt></ruby>で<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るのはとても<ruby>珍<rt>めずら</rt></ruby>しい。",
+      "en": "rare, unusual",
+      "zh_TW": "這個地區下雪是非常罕見的。",
+      "zh_CN": "這個地區下雪是非常罕見的。",
+      "ko": "這個地區下雪是非常罕見的。",
+      "zh_HK": "這個地區下雪是非常罕見的。",
+      "fr": "這個地區下雪是非常罕見的。"
+    },
+    "related": "めずらしい（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_ijou",
+    "word": "以上",
+    "reading": "いじょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "more than, at least",
+      "ja": "以上",
+      "zh_TW": "以上（含基準）、既然……就……",
+      "zh_CN": "以上（含基準）、既然……就……",
+      "ko": "more than, at least",
+      "zh_HK": "以上（含基準）、既然……就……",
+      "fr": "more than, at least"
+    },
+    "example": {
+      "ja": "18<ruby>歳以上<rt>さいいじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>だけが、この<ruby>映画<rt>えいが</rt></ruby>を<ruby>観<rt>み</rt></ruby>ることができます。",
+      "en": "more than, at least",
+      "zh_TW": "只有年滿18歲以上的人才能觀看這部電影。",
+      "zh_CN": "只有年滿18歲以上的人才能觀看這部電影。",
+      "ko": "只有年滿18歲以上的人才能觀看這部電影。",
+      "zh_HK": "只有年滿18歲以上的人才能觀看這部電影。",
+      "fr": "只有年滿18歲以上的人才能觀看這部電影。"
+    },
+    "related": "いじょう（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_ika",
+    "word": "以下",
+    "reading": "いか",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "less than, below",
+      "ja": "以下",
+      "zh_TW": "以下（含基準）、如下",
+      "zh_CN": "以下（含基準）、如下",
+      "ko": "less than, below",
+      "zh_HK": "以下（含基準）、如下",
+      "fr": "less than, below"
+    },
+    "example": {
+      "ja": "<ruby>小学生以下<rt>しょうがくせいいか</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は、<ruby>入場料<rt>にゅうじょうりょう</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>です。",
+      "en": "less than, below",
+      "zh_TW": "小學生以下的孩童免收門票。",
+      "zh_CN": "小學生以下的孩童免收門票。",
+      "ko": "小學生以下的孩童免收門票。",
+      "zh_HK": "小學生以下的孩童免收門票。",
+      "fr": "小學生以下的孩童免收門票。"
+    },
+    "related": "いか（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_enki",
+    "word": "延期",
+    "reading": "えんき",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "postponement, delay",
+      "ja": "延期",
+      "zh_TW": "延期、延後",
+      "zh_CN": "延期、延後",
+      "ko": "postponement, delay",
+      "zh_HK": "延期、延後",
+      "fr": "postponement, delay"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>のため、<ruby>運動会<rt>うんどうかい</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>に<ruby>延期<rt>えんき</rt></ruby>された。",
+      "en": "postponement, delay",
+      "zh_TW": "因為下雨，運動會延期至下週舉行。",
+      "zh_CN": "因為下雨，運動會延期至下週舉行。",
+      "ko": "因為下雨，運動會延期至下週舉行。",
+      "zh_HK": "因為下雨，運動會延期至下週舉行。",
+      "fr": "因為下雨，運動會延期至下週舉行。"
+    },
+    "related": "えんき（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_teiji",
+    "word": "定時",
+    "reading": "ていじ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "regular time, closing time",
+      "ja": "定時",
+      "zh_TW": "表定下班時間、規定的時間",
+      "zh_CN": "表定下班時間、規定的時間",
+      "ko": "regular time, closing time",
+      "zh_HK": "表定下班時間、規定的時間",
+      "fr": "regular time, closing time"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わったので、<ruby>定時<rt>ていじ</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>ります。",
+      "en": "regular time, closing time",
+      "zh_TW": "今天工作早早就做完了，所以要準時下班。",
+      "zh_CN": "今天工作早早就做完了，所以要準時下班。",
+      "ko": "今天工作早早就做完了，所以要準時下班。",
+      "zh_HK": "今天工作早早就做完了，所以要準時下班。",
+      "fr": "今天工作早早就做完了，所以要準時下班。"
+    },
+    "related": "ていじ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_idensuru",
+    "word": "遺伝する",
+    "reading": "いでんする",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "to be inherited, to inherit",
+      "ja": "遺伝する",
+      "zh_TW": "遺傳",
+      "zh_CN": "遺傳",
+      "ko": "to be inherited, to inherit",
+      "zh_HK": "遺傳",
+      "fr": "to be inherited, to inherit"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>身長<rt>しんちょう</rt></ruby>は、<ruby>両親<rt>りょうしん</rt></ruby>から<ruby>遺伝<rt>いでん</rt></ruby>したようだ。",
+      "en": "to be inherited, to inherit",
+      "zh_TW": "他高挑的身高似乎是遺傳自父母。",
+      "zh_CN": "他高挑的身高似乎是遺傳自父母。",
+      "ko": "他高挑的身高似乎是遺傳自父母。",
+      "zh_HK": "他高挑的身高似乎是遺傳自父母。",
+      "fr": "他高挑的身高似乎是遺傳自父母。"
+    },
+    "related": "いでんする（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_nenreikakunin",
+    "word": "年齢確認",
+    "reading": "ねんれいかくにん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "age verification",
+      "ja": "年齢確認",
+      "zh_TW": "年齡確認、查驗年齡",
+      "zh_CN": "年齡確認、查驗年齡",
+      "ko": "age verification",
+      "zh_HK": "年齡確認、查驗年齡",
+      "fr": "age verification"
+    },
+    "example": {
+      "ja": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>際<rt>さい</rt></ruby>に、レジで<ruby>年齢確認<rt>ねんれいかくにん</rt></ruby>をされた。",
+      "en": "age verification",
+      "zh_TW": "買酒時在收銀檯被查驗了年齡。",
+      "zh_CN": "買酒時在收銀檯被查驗了年齡。",
+      "ko": "買酒時在收銀檯被查驗了年齡。",
+      "zh_HK": "買酒時在收銀檯被查驗了年齡。",
+      "fr": "買酒時在收銀檯被查驗了年齡。"
+    },
+    "related": "ねんれいかくにん（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_mibunshou",
+    "word": "身分証",
+    "reading": "みぶんしょう",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "identification, ID card",
+      "ja": "身分証",
+      "zh_TW": "身分證明文件、證件",
+      "zh_CN": "身分證明文件、證件",
+      "ko": "identification, ID card",
+      "zh_HK": "身分證明文件、證件",
+      "fr": "identification, ID card"
+    },
+    "example": {
+      "ja": "<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>を<ruby>開設<rt>かいせつ</rt></ruby>するために、<ruby>身分証<rt>みぶんしょう</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>した。",
+      "en": "identification, ID card",
+      "zh_TW": "為了開立銀行帳戶，出示了身分證件。",
+      "zh_CN": "為了開立銀行帳戶，出示了身分證件。",
+      "ko": "為了開立銀行帳戶，出示了身分證件。",
+      "zh_HK": "為了開立銀行帳戶，出示了身分證件。",
+      "fr": "為了開立銀行帳戶，出示了身分證件。"
+    },
+    "related": "みぶんしょう（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_kaoiro",
+    "word": "顔色",
+    "reading": "かおいろ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "complexion, facial expression",
+      "ja": "顔色",
+      "zh_TW": "臉色、氣色、神色",
+      "zh_CN": "臉色、氣色、神色",
+      "ko": "complexion, facial expression",
+      "zh_HK": "臉色、氣色、神色",
+      "fr": "complexion, facial expression"
+    },
+    "example": {
+      "ja": "<ruby>顔色<rt>かおいろ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いようですが、どこか<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いのですか。",
+      "en": "complexion, facial expression",
+      "zh_TW": "你的臉色看起來不太好，是哪裡不舒服嗎？",
+      "zh_CN": "你的臉色看起來不太好，是哪裡不舒服嗎？",
+      "ko": "你的臉色看起來不太好，是哪裡不舒服嗎？",
+      "zh_HK": "你的臉色看起來不太好，是哪裡不舒服嗎？",
+      "fr": "你的臉色看起來不太好，是哪裡不舒服嗎？"
+    },
+    "related": "かおいろ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_saikon",
+    "word": "再婚",
+    "reading": "さいこん",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "remarriage",
+      "ja": "再婚",
+      "zh_TW": "再婚",
+      "zh_CN": "再婚",
+      "ko": "remarriage",
+      "zh_HK": "再婚",
+      "fr": "remarriage"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>離婚<rt>りこん</rt></ruby>してから5<ruby>年後<rt>ねんご</rt></ruby>に、<ruby>優<rt>やさ</rt></ruby>しい<ruby>男性<rt>だんせい</rt></ruby>と<ruby>再婚<rt>さいこん</rt></ruby>した。",
+      "en": "remarriage",
+      "zh_TW": "母親離婚五年後，與一位溫柔的男士再婚了。",
+      "zh_CN": "母親離婚五年後，與一位溫柔的男士再婚了。",
+      "ko": "母親離婚五年後，與一位溫柔的男士再婚了。",
+      "zh_HK": "母親離婚五年後，與一位溫柔的男士再婚了。",
+      "fr": "母親離婚五年後，與一位溫柔的男士再婚了。"
+    },
+    "related": "さいこん（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_burikko",
+    "word": "ぶりっ子",
+    "reading": "ぶりっこ",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "girl playing dumb/cute, coquette",
+      "ja": "ぶりっ子",
+      "zh_TW": "裝可愛、裝無辜造作的女孩",
+      "zh_CN": "裝可愛、裝無辜造作的女孩",
+      "ko": "girl playing dumb/cute, coquette",
+      "zh_HK": "裝可愛、裝無辜造作的女孩",
+      "fr": "girl playing dumb/cute, coquette"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。",
+      "en": "girl playing dumb/cute, coquette",
+      "zh_TW": "她一到男生面前，就突然變得很愛裝可愛。",
+      "zh_CN": "她一到男生面前，就突然變得很愛裝可愛。",
+      "ko": "她一到男生面前，就突然變得很愛裝可愛。",
+      "zh_HK": "她一到男生面前，就突然變得很愛裝可愛。",
+      "fr": "她一到男生面前，就突然變得很愛裝可愛。"
+    },
+    "related": "ぶりっこ（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_tsukiai",
+    "word": "付き合い",
+    "reading": "つきあい",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "socializing, association",
+      "ja": "付き合い",
+      "zh_TW": "交際、人際應酬、交往",
+      "zh_CN": "交際、人際應酬、交往",
+      "ko": "socializing, association",
+      "zh_HK": "交際、人際應酬、交往",
+      "fr": "socializing, association"
+    },
+    "example": {
+      "ja": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>後<rt>あと</rt></ruby>の<ruby>付<rt>つ</rt></ruby>き<ruby>合<rt>あ</rt></ruby>いで、<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>った。",
+      "en": "socializing, association",
+      "zh_TW": "下班後因為人際應酬，和同事去喝了一杯。",
+      "zh_CN": "下班後因為人際應酬，和同事去喝了一杯。",
+      "ko": "下班後因為人際應酬，和同事去喝了一杯。",
+      "zh_HK": "下班後因為人際應酬，和同事去喝了一杯。",
+      "fr": "下班後因為人際應酬，和同事去喝了一杯。"
+    },
+    "related": "つきあい（みどりさんの重要表現）",
+    "studentId": "0012",
+    "isCustom": true
+  },
+  {
+    "id": "card_midori_toshigahanareteiru",
+    "word": "年が離れている",
+    "reading": "としがはなれている",
+    "category": "授業で習った言葉",
+    "meaning": {
+      "en": "far apart in age, large age gap",
+      "ja": "年が離れている",
+      "zh_TW": "年齡差距大、年紀差很多",
+      "zh_CN": "年齡差距大、年紀差很多",
+      "ko": "far apart in age, large age gap",
+      "zh_HK": "年齡差距大、年紀差很多",
+      "fr": "far apart in age, large age gap"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>たち<ruby>夫婦<rt>ふうふ</rt></ruby>は10<ruby>歳<rt>さい</rt></ruby>も<ruby>年<rt>とし</rt></ruby>が<ruby>離<rt>はな</rt></ruby>れている。",
+      "en": "far apart in age, large age gap",
+      "zh_TW": "我們夫妻倆年齡相差了十歲之多。",
+      "zh_CN": "我們夫妻倆年齡相差了十歲之多。",
+      "ko": "我們夫妻倆年齡相差了十歲之多。",
+      "zh_HK": "我們夫妻倆年齡相差了十歲之多。",
+      "fr": "我們夫妻倆年齡相差了十歲之多。"
+    },
+    "related": "としがはなれている（みどりさんの重要表現）",
+    "studentId": "0012",
     "isCustom": true
   }
 ];
@@ -10464,7 +11093,6 @@
       }
 
       document.getElementById('adminImportText').value = '';
-      populateCategoryTabs();
       updateActiveDeck();
 
       const targetName = (target && target !== 'all' && targetStudentObj) ? targetStudentObj.name : '全員共有デッキ';
