@@ -24,13 +24,17 @@
             jp: ['"Yu Gothic"', 'YuGothic', '"Hiragino Kaku Gothic ProN"', '"Noto Sans JP"', 'sans-serif']
           },
           colors: {
-            deepNavy: '#1E557E',
-            lightBlueBg: '#D5EDF8',
-            coralPink: '#CE5A73',
-            coralPinkHover: '#B84A62',
-            softBorder: '#BDE0F2',
+            deepNavy: '#468297',
+            primaryDark: '#326475',
+            primaryLight: '#5E9AB0',
+            lightBlueBg: '#EEF7FA',
+            coralPink: '#B8596E',
+            coralPinkHover: '#A04558',
+            softBorder: '#E8EEF1',
             cardBg: '#FFFFFF',
-            darkNavyText: '#103956'
+            darkNavyText: '#2C3E48',
+            sakuraBg: '#FAF1F3',
+            sakuraBorder: '#F2D5DB'
           }
         }
       }
@@ -54,7 +58,7 @@
     rt {
       font-size: 0.62em;
       font-weight: 700;
-      color: #CE5A73;
+      color: #B8596E;
       line-height: 1;
       user-select: none !important;
       -webkit-user-select: none !important;
@@ -62,8 +66,13 @@
     body {
       -webkit-tap-highlight-color: transparent;
       font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-      background: #F4F8FC;
-      color: #103956;
+      background-color: #FAF1F3;
+      color: #2C3E48;
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+      background-attachment: fixed;
+      -webkit-font-smoothing: antialiased;
     }
     .jp-font {
       font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
@@ -90,8 +99,8 @@
       border: 1px solid #CBD5E1;
     }
     .toggle-pill-track.active {
-      background: #CE5A73;
-      border-color: #B84A62;
+      background: #B8596E;
+      border-color: #A04558;
     }
     .toggle-pill-thumb {
       position: absolute;
@@ -112,11 +121,11 @@
     .category-group-header {
       font-size: 11px;
       font-weight: 800;
-      color: #64748B;
+      color: #5E727D;
       text-transform: uppercase;
       letter-spacing: 0.5px;
       padding: 8px 12px 4px;
-      border-top: 1px solid #E2ECF2;
+      border-top: 1px solid #E8EEF1;
       margin-top: 6px;
     }
     .category-group-header:first-child {
@@ -130,18 +139,18 @@
       border-radius: 10px;
       font-size: 12.5px;
       font-weight: 600;
-      color: #334155;
+      color: #2C3E48;
       display: flex;
       align-items: center;
       justify-content: space-between;
       transition: all 0.15s;
     }
     .cat-btn:hover {
-      background: #EEF6FB;
-      color: #1E557E;
+      background: #EEF7FA;
+      color: #468297;
     }
     .cat-btn.active {
-      background: #1E557E;
+      background: #468297;
       color: #FFFFFF;
       font-weight: 700;
     }
@@ -164,18 +173,18 @@
       border-radius: 9999px;
       border: 1px solid #CBD5E1;
       background: #FFFFFF;
-      color: #475569;
+      color: #5E727D;
       cursor: pointer;
       transition: all 0.15s;
       white-space: nowrap;
     }
     .unit-pill:hover {
-      border-color: #1E557E;
-      color: #1E557E;
+      border-color: #468297;
+      color: #468297;
     }
     .unit-pill.active {
-      background: #1E557E;
-      border-color: #1E557E;
+      background: #468297;
+      border-color: #468297;
       color: #FFFFFF;
     }
 
@@ -232,36 +241,36 @@
 <body class="min-h-screen flex flex-col justify-between">
 
   <!-- TOP APP NAVIGATION BAR -->
-  <header class="bg-white border-b border-softBorder shadow-2xs sticky top-0 z-40">
+  <header class="text-white sticky top-0 z-40 shadow-sm" style="background: linear-gradient(135deg, #468297 0%, #326475 100%);">
     <div class="max-w-6xl mx-auto px-3 sm:px-5 py-2.5 flex items-center justify-between gap-3">
       
       <!-- Left: Back Button & Title -->
       <div class="flex items-center space-x-2.5">
-        <a href="jlpt_practice.html" class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1 text-xs font-bold" title="演習道場に戻る">
+        <a href="jlpt_practice.html" class="p-2 rounded-xl bg-white/15 hover:bg-white/25 text-white transition flex items-center gap-1 text-xs font-bold" title="演習道場に戻る">
           <i data-lucide="arrow-left" class="w-4 h-4"></i>
           <span class="hidden sm:inline">演習に戻る</span>
         </a>
         <div>
           <div class="flex items-center gap-2">
-            <span class="text-xs font-black px-2 py-0.5 rounded-full bg-deepNavy text-white">N2</span>
-            <h1 class="text-sm sm:text-base font-extrabold text-darkNavyText">文字・語彙 マスター フラッシュカード</h1>
+            <span class="text-xs font-black px-2 py-0.5 rounded-full bg-white/20 text-white border border-white/30">N2</span>
+            <h1 class="text-sm sm:text-base font-extrabold text-white">文字・語彙 マスター フラッシュカード</h1>
           </div>
-          <p class="text-[10px] sm:text-xs text-slate-400 font-medium">全3,412語・全25カテゴリ完全網羅</p>
+          <p class="text-[10px] sm:text-xs text-white/80 font-medium">全3,412語・全25カテゴリ完全網羅</p>
         </div>
       </div>
 
-      <!-- Right: Toggles (Furigana, TTS voice, Mobile Drawer Trigger) -->
+      <!-- Right: Toggles (Furigana, Mobile Drawer Trigger) -->
       <div class="flex items-center space-x-2 sm:space-x-3">
         <!-- Furigana Toggle -->
-        <div class="flex items-center space-x-1.5 bg-slate-50 border border-slate-200 px-2.5 py-1 rounded-full">
-          <span class="text-[11px] font-bold text-slate-600">ルビ</span>
+        <div class="flex items-center space-x-1.5 bg-white/15 border border-white/25 px-2.5 py-1 rounded-full text-white">
+          <span class="text-[11px] font-bold">ルビ</span>
           <div id="furiganaTogglePill" class="toggle-pill-track active" onclick="toggleFurigana()" title="ふりがな ON/OFF">
             <div class="toggle-pill-thumb"></div>
           </div>
         </div>
 
         <!-- Mobile Drawer Trigger Button -->
-        <button onclick="toggleMobileDrawer()" class="md:hidden p-2 rounded-xl bg-deepNavy text-white shadow-xs" title="カテゴリ一覧">
+        <button onclick="toggleMobileDrawer()" class="md:hidden p-2 rounded-xl bg-white/20 text-white" title="カテゴリ一覧">
           <i data-lucide="layers" class="w-4 h-4"></i>
         </button>
       </div>
@@ -440,7 +449,7 @@
         </button>
 
         <!-- Next Button -->
-        <button id="btnNext" onclick="nextCard()" class="flex-1 md:flex-none py-3 px-4 rounded-full bg-coralPink hover:bg-coralPinkHover text-white font-bold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm">
+        <button id="btnNext" onclick="nextCard()" class="flex-1 md:flex-none py-3 px-4 rounded-full bg-deepNavy hover:bg-primaryDark text-white font-bold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm">
           <span>次の単語 [→]</span>
           <i data-lucide="chevron-right" class="w-4 h-4"></i>
         </button>

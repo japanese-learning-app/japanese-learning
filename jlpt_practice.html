@@ -9,36 +9,36 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    /* ---- アプリ標準ライトデザインシステム（游ゴシック体 × Inter、赤色完全禁止） ---- */
-    --bg-page: #F4F8FC;
+    /* ---- カラーパレット：スモーキーシアン × サクラピンク（BOTANIST風の上質な透明感） ---- */
+    --bg-page: #FAF1F3;
     --card-bg: #FFFFFF;
-    --card-hover-bg: #FAFDFE;
-    --border-soft: #E2ECF2;
-    --border-light: #EBF1F5;
+    --card-hover-bg: #FDF7F8;
+    --border-soft: #E8EEF1;
+    --border-light: #F2D5DB;
     
-    --text-main: #2A3644;
-    --text-muted: #607284;
-    --text-dim: #8FA2B5;
+    --text-main: #2C3E48;
+    --text-muted: #5E727D;
+    --text-dim: #8FA2AD;
     
-    /* 神戸女子大ブルー＆ネイビー */
-    --navy-main: #1E5989;
-    --navy-dark: #143D5E;
-    --kobe-blue: #1486AD;
-    --kobe-blue-sub: #4AA7D7;
-    --kobe-blue-light: #EEF7FB;
-    --kobe-blue-border: #80BFE0;
+    /* スモーキーシアン＆ダークシアン */
+    --navy-main: #468297;
+    --navy-dark: #326475;
+    --kobe-blue: #468297;
+    --kobe-blue-sub: #5E9AB0;
+    --kobe-blue-light: #EDF5F8;
+    --kobe-blue-border: #78B1BF;
     
-    /* ニュアンスパステル */
-    --accent-pink: #C4688A;
-    --accent-pink-hover: #D88B9D;
-    --accent-pink-bg: #FDF2F5;
-    --accent-pink-border: #E8B4C4;
-    --accent-pink-text: #8E3A4F;
+    /* サクラピンク / ダスティローズ */
+    --accent-pink: #B8596E;
+    --accent-pink-hover: #CE5A73;
+    --accent-pink-bg: #FAF1F3;
+    --accent-pink-border: #F2D5DB;
+    --accent-pink-text: #B8596E;
     
-    --accent-teal: #1486AD;
-    --accent-teal-hover: #196168;
-    --accent-teal-bg: #EEF7FB;
-    --accent-teal-border: #80BFE0;
+    --accent-teal: #468297;
+    --accent-teal-hover: #326475;
+    --accent-teal-bg: #EDF5F8;
+    --accent-teal-border: #78B1BF;
     
     --accent-gold: #C87D18;
     --accent-gold-hover: #8C6500;
@@ -49,15 +49,15 @@
     --accent-purple-bg: #F4F1FA;
     --accent-purple-border: #BDB4DC;
     
-    /* 正解・不正解表示（赤色不使用） */
-    --success-green: #128068;
-    --success-bg: #EBF6F3;
-    --success-border: #92D4C6;
+    /* 正解・不正解表示 */
+    --success-green: #2E7D32;
+    --success-bg: #E8F5E9;
+    --success-border: #81C784;
     
-    --error-pink: #C4688A;
-    --error-bg: #FDF2F5;
-    --error-border: #E8B4C4;
-    --error-text: #8E3A4F;
+    --error-pink: #B8596E;
+    --error-bg: #FAF1F3;
+    --error-border: #F2D5DB;
+    --error-text: #B8596E;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -69,17 +69,22 @@
     display: flex;
     flex-direction: column;
     line-height: 1.6;
+    background-image: 
+      radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
   }
 
   /* ---- Header ---- */
   header {
-    background: var(--navy-main);
+    background: linear-gradient(135deg, var(--navy-main) 0%, var(--navy-dark) 100%);
     color: white;
     padding: 14px 24px;
     position: sticky;
     top: 0;
     z-index: 100;
-    box-shadow: 0 4px 16px rgba(30, 89, 137, 0.15);
+    box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
   }
   .header-inner {
     max-width: 1140px;
@@ -101,12 +106,13 @@
     width: 38px;
     height: 38px;
     border-radius: 10px;
-    background: linear-gradient(135deg, var(--kobe-blue), #0E5E7A);
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.35);
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
   .brand-text h1 {
     font-size: 1.15rem;
@@ -388,8 +394,8 @@
 
   /* ---- Level Hero Banner ---- */
   .hero-banner {
-    background: linear-gradient(135deg, #FFFFFF 0%, #F6FAFD 100%);
-    border: 1.5px solid var(--border-soft);
+    background: linear-gradient(135deg, var(--navy-main) 0%, var(--navy-dark) 100%);
+    border: none;
     border-radius: 18px;
     padding: 22px 26px;
     margin-bottom: 26px;
@@ -398,7 +404,8 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 16px;
-    box-shadow: 0 4px 18px rgba(20, 134, 173, 0.05);
+    box-shadow: 0 8px 24px rgba(50, 100, 117, 0.15);
+    color: white;
   }
   .hero-info {
     display: flex;
@@ -409,25 +416,26 @@
     width: 56px;
     height: 56px;
     border-radius: 14px;
-    background: linear-gradient(135deg, var(--kobe-blue), #0E5E7A);
+    background: rgba(255, 255, 255, 0.2);
+    border: 1.5px solid rgba(255, 255, 255, 0.35);
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1.6rem;
     font-weight: 800;
     color: white;
-    box-shadow: 0 4px 12px rgba(20, 134, 173, 0.2);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   }
   .hero-title h2 {
     font-size: 1.35rem;
     font-weight: 800;
-    color: var(--text-main);
+    color: #FFFFFF !important;
     letter-spacing: -0.3px;
     margin-bottom: 4px;
   }
   .hero-title p {
     font-size: 0.86rem;
-    color: var(--text-muted);
+    color: rgba(255, 255, 255, 0.88) !important;
   }
   .hero-counts {
     display: flex;
@@ -1510,11 +1518,11 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
         マイリスト (<span id="header-mylist-count">0</span>)
       </button>
-      <a href="jlpt_n2_vocab_cards.html" class="nav-btn" style="background:#FDF2F5; color:#8E3A4F; border-color:#E8B4C4; font-weight:700;">
+      <a href="jlpt_n2_vocab_cards.html" class="nav-btn" style="background:rgba(232, 164, 178, 0.22); color:#FFFFFF; border-color:rgba(232, 164, 178, 0.45); font-weight:700;">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
         N2語彙カード (3,412語)
       </a>
-      <a href="jlpt_n2_grammar_quiz.html" class="nav-btn" style="background:#EDF5F8; color:#1E5989; border-color:#80BFE0; font-weight:700;">
+      <a href="jlpt_n2_grammar_quiz.html" class="nav-btn" style="background:rgba(255, 255, 255, 0.2); color:#FFFFFF; border-color:rgba(255, 255, 255, 0.4); font-weight:700;">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
         N2文法穴埋め (1,507問)
       </a>
@@ -1572,7 +1580,7 @@
   <!-- Sections View (Choose a Section) -->
   <div id="sections-view">
     <!-- Hero Banner -->
-    <div class="hero-banner" style="background: linear-gradient(135deg, #1E5989 0%, #1486AD 100%);">
+    <div class="hero-banner">
       <div class="hero-info">
         <div class="hero-badge" id="banner-badge">N2</div>
         <div class="hero-title">
