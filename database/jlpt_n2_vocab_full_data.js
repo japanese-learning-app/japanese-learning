@@ -2314,8 +2314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんけい（する）",
     "ruby": "<ruby>関係<rt>かんけい</rt></ruby>",
     "meaning": "relationship",
-    "ex_ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。",
-    "ex_en": "It is nothing to me."
+    "ex_ja": "取引先と長年にわたって良好な信頼<ruby>関係<rt>かんけい</rt></ruby>を築くことが、事業の安定的な成長につながる。",
+    "ex_en": "Building good relationships of trust with clients over many years leads to stable business growth."
   },
   {
     "id": "n2_v_0133",
@@ -5914,8 +5914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とうちゃく（する）",
     "ruby": "<ruby>到着<rt>とうちゃく</rt></ruby>",
     "meaning": "arrival",
-    "ex_ja": "<ruby>到着<rt>とうちゃく</rt></ruby>します。",
-    "ex_en": "We have arrived."
+    "ex_ja": "台風による激しい風雨の影響で交通機関が乱れ、空港への<ruby>到着<rt>とうちゃく</rt></ruby>が大幅に遅れた。",
+    "ex_en": "Due to transportation disruptions caused by severe wind and rain from the typhoon, our arrival at the airport was significantly delayed."
   },
   {
     "id": "n2_v_0358",
@@ -6906,8 +6906,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むりょう",
     "ruby": "<ruby>無料<rt>むりょう</rt></ruby>",
     "meaning": "free, no charge",
-    "ex_ja": "これ<ruby>無料<rt>むりょう</rt></ruby>です。",
-    "ex_en": "This is for free."
+    "ex_ja": "市内にお住まいの方であれば、この近代的な公共施設をいつでも<ruby>無料<rt>むりょう</rt></ruby>で利用できる。",
+    "ex_en": "Residents of the city can use this modern public facility free of charge at any time."
   },
   {
     "id": "n2_v_0420",
@@ -7514,8 +7514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "るす",
     "ruby": "<ruby>留守<rt>るす</rt></ruby>",
     "meaning": "absence",
-    "ex_ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>留守<rt>るす</rt></ruby>です。",
-    "ex_en": "Mother is away from home."
+    "ex_ja": "旅行で数日間家を<ruby>留守<rt>るす</rt></ruby>にする間、郵便物が溜まらないよう隣人に受け取りを頼んだ。",
+    "ex_en": "While away from home for a few days on a trip, I asked my neighbor to collect my mail so it wouldn't pile up."
   },
   {
     "id": "n2_v_0458",
@@ -8106,8 +8106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くもり",
     "ruby": "<ruby>曇<rt>くも</rt></ruby>り",
     "meaning": "cloudy weather",
-    "ex_ja": "<ruby>曇<rt>くも</rt></ruby>りの<ruby>日<rt>にち</rt></ruby>です。",
-    "ex_en": "It's a cloudy day."
+    "ex_ja": "明日の天気予報によると、朝のうちは<ruby>曇り<rt>くもり</rt></ruby>で午後から次第に雨が降り出す見通しだ。",
+    "ex_en": "According to tomorrow's weather forecast, it is expected to be cloudy during the morning, gradually turning to rain in the afternoon."
   },
   {
     "id": "n2_v_0495",
@@ -8650,8 +8650,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんにゅうしゃいん",
     "ruby": "<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>",
     "meaning": "新入社員 (しんにゅうしゃいん)",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>のホームで<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>案内<rt>あんない</rt></ruby>してくれた。",
-    "ex_en": "A kind 新入社員 (しんにゅうしゃいん) on the train platform guided me politely."
+    "ex_ja": "春に入社した<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>たちは、配属先での実践的なビジネスマナー研修に励んでいる。",
+    "ex_en": "The new employees who joined in spring are working hard on practical business etiquette training at their assigned departments."
   },
   {
     "id": "n2_v_0529",
@@ -8906,8 +8906,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あける",
     "ruby": "<ruby>空<rt>あ</rt></ruby>ける",
     "meaning": "空ける (あける)",
-    "ex_ja": "<ruby>空<rt>あ</rt></ruby>けることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 空ける (あける)."
+    "ex_ja": "来週の金曜日にクライアントとの重要な商談が入る予定なので、午後のスケジュールを<ruby>空ける<rt>あける</rt></ruby>必要がある。",
+    "ex_en": "An important negotiation with a client is scheduled for next Friday, so it is necessary to keep the afternoon schedule open."
   },
   {
     "id": "n2_v_0545",
@@ -9578,8 +9578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きく",
     "ruby": "<ruby>聴<rt>き</rt></ruby>く",
     "meaning": "聴く (きく)",
-    "ex_ja": "<ruby>聴<rt>き</rt></ruby>くことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 聴く (きく)."
+    "ex_ja": "業務の効率を高めるには、同僚や部下の率直な意見に真摯に耳を傾けて<ruby>聴く<rt>きく</rt></ruby>姿勢が求められる。",
+    "ex_en": "To improve operational efficiency, an attitude of listening sincerely to the candid opinions of colleagues and subordinates is required."
   },
   {
     "id": "n2_v_0587",
@@ -10474,8 +10474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とめる",
     "ruby": "<ruby>停<rt>と</rt></ruby>める",
     "meaning": "停める (とめる)",
-    "ex_ja": "<ruby>停<rt>と</rt></ruby>めることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 停める (とめる)."
+    "ex_ja": "周辺の道路はすべて駐車禁止となっているため、お車でお越しの際は有料駐車場に<ruby>停める<rt>とめる</rt></ruby>決まりになっている。",
+    "ex_en": "Because all surrounding streets are no-parking zones, it is the rule to park in a paid parking lot if arriving by car."
   },
   {
     "id": "n2_v_0643",
@@ -11338,8 +11338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おもいつく",
     "ruby": "<ruby>思<rt>おも</rt></ruby>いつく",
     "meaning": "思いつく (おもいつく)",
-    "ex_ja": "<ruby>思<rt>おも</rt></ruby>いつくことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 思いつく (おもいつく)."
+    "ex_ja": "公園を散歩しながらあれこれ構想を練っているときに、長年の課題を打開する妙案を<ruby>思いつく<rt>おもいつく</rt></ruby>ことが多い。",
+    "ex_en": "While pacing through the park developing concepts, I often hit upon ingenious ideas to resolve long-standing challenges."
   },
   {
     "id": "n2_v_0697",
@@ -11370,8 +11370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいかえる",
     "ruby": "<ruby>買い替<rt>かいか</rt></ruby>える",
     "meaning": "買い替える (かいかえる)",
-    "ex_ja": "<ruby>買い替<rt>かいか</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 買い替える (かいかえる)."
+    "ex_ja": "長年使ってきた冷蔵庫の冷却機能が落ちて電気代もかさむため、省エネ性能の高い新型に<ruby>買い替える<rt>かいかえる</rt></ruby>ことにした。",
+    "ex_en": "Because the cooling performance of my longtime refrigerator had declined and electricity costs were rising, I decided to replace it with a new high-efficiency model."
   },
   {
     "id": "n2_v_0699",
@@ -11386,8 +11386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つくりなおす",
     "ruby": "<ruby>作り直<rt>つくりなお</rt></ruby>す",
     "meaning": "作り直す (つくりなおす)",
-    "ex_ja": "<ruby>作り直<rt>つくりなお</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 作り直す (つくりなおす)."
+    "ex_ja": "提出した設計図に構造上の不備が見つかったため、安全基準に適合するよう一から<ruby>作り直す<rt>つくりなおす</rt></ruby>ことになった。",
+    "ex_en": "Because structural flaws were found in the submitted blueprints, it was decided to remake them from scratch to comply with safety standards."
   },
   {
     "id": "n2_v_0700",
@@ -11546,8 +11546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むかいあう",
     "ruby": "<ruby>向かい合<rt>むかいあ</rt></ruby>う",
     "meaning": "向かい合う (むかいあう)",
-    "ex_ja": "<ruby>向かい合<rt>むかいあ</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 向かい合う (むかいあう)."
+    "ex_ja": "困難な状況から目を背けず、自らの課題と真正面から<ruby>向かい合う<rt>むかいあう</rt></ruby>ことで着実な成長が期待できる。",
+    "ex_en": "Steady personal growth can be expected by confronting one's own challenges head-on rather than turning away from difficult situations."
   },
   {
     "id": "n2_v_0710",
@@ -11722,8 +11722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くるしい",
     "ruby": "<ruby>苦<rt>くる</rt></ruby>しい",
     "meaning": "painful, difficult",
-    "ex_ja": "<ruby>息苦<rt>いきぐる</rt></ruby>しいです。",
-    "ex_en": "It's hard to breathe."
+    "ex_ja": "相次ぐ原材料の高騰により採算が合わなくなり、多くの中小企業が<ruby>苦しい<rt>くるしい</rt></ruby>経営状況に直面している。",
+    "ex_en": "Due to successive surges in raw material prices eroding profitability, many small and medium-sized enterprises are facing difficult financial circumstances."
   },
   {
     "id": "n2_v_0721",
@@ -12154,8 +12154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いがいな",
     "ruby": "<ruby>意外<rt>いがい</rt></ruby>な",
     "meaning": "意外な (いがいな)",
-    "ex_ja": "とても<ruby>意外<rt>いがい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 意外な (いがいな)."
+    "ex_ja": "普段は控えめで物静かな彼がマラソン大会で優勝を果たしたことは、周囲にとって<ruby>意外な<rt>いがいな</rt></ruby>結末だった。",
+    "ex_en": "That he, normally reserved and quiet, won the marathon championship was an unexpected outcome to those around him."
   },
   {
     "id": "n2_v_0748",
@@ -12170,8 +12170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんせんな",
     "ruby": "<ruby>新鮮<rt>しんせん</rt></ruby>な",
     "meaning": "新鮮な (しんせんな)",
-    "ex_ja": "とても<ruby>新鮮<rt>しんせん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 新鮮な (しんせんな)."
+    "ex_ja": "港町の朝市では、その日の未明に水揚げされたばかりの<ruby>新鮮な<rt>しんせんな</rt></ruby>魚介類を手頃な価格で購入できる。",
+    "ex_en": "At the morning market in the port town, you can purchase fresh seafood landed just before dawn at reasonable prices."
   },
   {
     "id": "n2_v_0749",
@@ -12186,8 +12186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いじわるな",
     "ruby": "<ruby>意地悪<rt>いじわる</rt></ruby>な",
     "meaning": "意地悪な (いじわるな)",
-    "ex_ja": "とても<ruby>意地悪<rt>いじわる</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 意地悪な (いじわるな)."
+    "ex_ja": "記者会見で<ruby>意地悪な<rt>いじわるな</rt></ruby>質問を投げかけられたが、市長は感情的にならず冷静かつ理路整然と返答した。",
+    "ex_en": "Although subjected to tricky and spiteful questions at the press conference, the mayor answered calmly and logically without becoming emotional."
   },
   {
     "id": "n2_v_0750",
@@ -12202,8 +12202,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じみな",
     "ruby": "<ruby>地味<rt>じみ</rt></ruby>な",
     "meaning": "地味な (じみな)",
-    "ex_ja": "とても<ruby>地味<rt>じみ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 地味な (じみな)."
+    "ex_ja": "<ruby>地味な<rt>じみな</rt></ruby>データ入力の作業であっても、根気強く積み重ねることでプロジェクト全体の成功を支える基盤となる。",
+    "ex_en": "Even modest data-entry work forms the foundation supporting the overall success of the project when carried out patiently."
   },
   {
     "id": "n2_v_0751",
@@ -12218,8 +12218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっぱんてきな",
     "ruby": "<ruby>一般的<rt>いっぱんてき</rt></ruby>な",
     "meaning": "一般的な (いっぱんてきな)",
-    "ex_ja": "とても<ruby>一般的<rt>いっぱんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 一般的な (いっぱんてきな)."
+    "ex_ja": "かつては珍しかった在宅勤務も、情報通信技術の普及に伴い<ruby>一般的な<rt>いっぱんてきな</rt></ruby>働き方として社会に定着した。",
+    "ex_en": "Telecommuting, once rare, has become established in society as a common work style alongside the spread of information technology."
   },
   {
     "id": "n2_v_0752",
@@ -12234,8 +12234,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゆうな",
     "ruby": "<ruby>自由<rt>じゆう</rt></ruby>な",
     "meaning": "自由な (じゆうな)",
-    "ex_ja": "とても<ruby>自由<rt>じゆう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 自由な (じゆうな)."
+    "ex_ja": "この研究機関では若手研究者の<ruby>自由な<rt>じゆうな</rt></ruby>発想を重んじており、独創的な成果が次々と生まれている。",
+    "ex_en": "This research institute values the free thinking of young researchers, continuously producing creative achievements."
   },
   {
     "id": "n2_v_0753",
@@ -12250,8 +12250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いろんな",
     "ruby": "いろんな",
     "meaning": "色んな[adn]various",
-    "ex_ja": "とてもいろんなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 色んな[adn]various."
+    "ex_ja": "学生時代にいろんな分野の専門書を読み漁った経験が、現在の多角的な企画立案に大きく役立っている。",
+    "ex_en": "The experience of reading through specialized books in various fields during my student days has greatly aided my current multifaceted project planning."
   },
   {
     "id": "n2_v_0754",
@@ -12266,8 +12266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうような",
     "ruby": "<ruby>重要<rt>じゅうよう</rt></ruby>な",
     "meaning": "重要な (じゅうような)",
-    "ex_ja": "とても<ruby>重要<rt>じゅうよう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 重要な (じゅうような)."
+    "ex_ja": "来期の事業拡大に向けた戦略を策定するため、各部門の責任者を集めて<ruby>重要な<rt>じゅうような</rt></ruby>方針説明会を開いた。",
+    "ex_en": "An important policy briefing was held with department heads to formulate strategies for expanding operations in the coming fiscal term."
   },
   {
     "id": "n2_v_0755",
@@ -12282,8 +12282,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おしゃれな",
     "ruby": "お<ruby>洒落な<rt>しゃれな</rt></ruby>",
     "meaning": "お洒落な (おしゃれな)",
-    "ex_ja": "とてもお<ruby>洒落な<rt>しゃれな</rt></ruby>と<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very お洒落な (おしゃれな)."
+    "ex_ja": "路地裏の静かな一角に佇む<ruby>お洒落な<rt>おしゃれな</rt></ruby>レストランは、落ち着いた内装と洗練された料理で評判を呼んでいる。",
+    "ex_en": "The stylish restaurant tucked away in a quiet corner of the backstreets enjoys a great reputation for its tranquil interior and sophisticated cuisine."
   },
   {
     "id": "n2_v_0756",
@@ -12298,8 +12298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうひんな",
     "ruby": "<ruby>上品<rt>じょうひん</rt></ruby>な",
     "meaning": "上品な (じょうひんな)",
-    "ex_ja": "とても<ruby>上品<rt>じょうひん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 上品な (じょうひんな)."
+    "ex_ja": "伝統工芸の技が光るこの器は、控えめな金箔の装飾が<ruby>上品な<rt>じょうひんな</rt></ruby>美しさを醸し出している。",
+    "ex_en": "This bowl showcasing traditional artisanal skills radiates elegant beauty with its understated gold leaf decoration."
   },
   {
     "id": "n2_v_0757",
@@ -12314,8 +12314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくじつな",
     "ruby": "<ruby>確実<rt>かくじつ</rt></ruby>な",
     "meaning": "確実な (かくじつな)",
-    "ex_ja": "とても<ruby>確実<rt>かくじつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 確実な (かくじつな)."
+    "ex_ja": "不確かな憶測に惑わされることなく、現地で採取された<ruby>確実な<rt>かくじつな</rt></ruby>証拠に基づいて事故の原因を究明すべきだ。",
+    "ex_en": "Without being swayed by uncertain speculation, we must determine the cause of the accident based on reliable evidence gathered on site."
   },
   {
     "id": "n2_v_0758",
@@ -12330,8 +12330,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいじょうな",
     "ruby": "<ruby>正常<rt>せいじょう</rt></ruby>な",
     "meaning": "正常な (せいじょうな)",
-    "ex_ja": "とても<ruby>正常<rt>せいじょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 正常な (せいじょうな)."
+    "ex_ja": "定期的なメンテナンスと摩耗部品の交換を実施したことで、工場の製造ラインは<ruby>正常な<rt>せいじょうな</rt></ruby>稼働状態を維持している。",
+    "ex_en": "By carrying out regular maintenance and replacing worn components, the plant's production line has maintained normal operating conditions."
   },
   {
     "id": "n2_v_0759",
@@ -12346,8 +12346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かのうな",
     "ruby": "<ruby>可能<rt>かのう</rt></ruby>な",
     "meaning": "可能な (かのうな)",
-    "ex_ja": "とても<ruby>可能<rt>かのう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 可能な (かのうな)."
+    "ex_ja": "納期を厳守するため、業務の段取りを見直し<ruby>可能な<rt>かのうな</rt></ruby>限りの効率化を図って作業を進めている。",
+    "ex_en": "To strictly adhere to the deadline, we are reviewing work arrangements and maximizing operational efficiency to the fullest extent possible."
   },
   {
     "id": "n2_v_0760",
@@ -12362,8 +12362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せっきょくてきな",
     "ruby": "<ruby>積極的<rt>せっきょくてき</rt></ruby>な",
     "meaning": "積極的な (せっきょくてきな)",
-    "ex_ja": "とても<ruby>積極的<rt>せっきょくてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 積極的な (せっきょくてきな)."
+    "ex_ja": "海外市場への展開を加速させるため、語学力と行動力を兼ね備えた人材を<ruby>積極的な<rt>せっきょくてきな</rt></ruby>姿勢で採用している。",
+    "ex_en": "To accelerate expansion into overseas markets, the company is actively and proactively hiring personnel who possess both language skills and dynamism."
   },
   {
     "id": "n2_v_0761",
@@ -12378,8 +12378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かわいそうな",
     "ruby": "かわいそうな",
     "meaning": "かわいそうな (かわいそうな)",
-    "ex_ja": "とてもかわいそうなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very かわいそうな (かわいそうな)."
+    "ex_ja": "真冬の冷たい風が吹きつける歩道で震えている捨て犬を見かけ、本当にかわいそうな思いに駆られた。",
+    "ex_en": "Seeing an abandoned dog shivering on a sidewalk exposed to the biting midwinter wind, I was overcome with pity."
   },
   {
     "id": "n2_v_0762",
@@ -12394,8 +12394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいくつな",
     "ruby": "<ruby>退屈<rt>たいくつ</rt></ruby>な",
     "meaning": "退屈な (たいくつな)",
-    "ex_ja": "とても<ruby>退屈<rt>たいくつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 退屈な (たいくつな)."
+    "ex_ja": "単調な数値の羅列ばかりが続く<ruby>退屈な<rt>たいくつな</rt></ruby>説明に、聴衆の多くが集中力を欠いて眠気を催していた。",
+    "ex_en": "During the tedious presentation consisting of nothing but a monotonous string of numbers, many in the audience lost focus and grew drowsy."
   },
   {
     "id": "n2_v_0763",
@@ -12410,8 +12410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんたんな",
     "ruby": "<ruby>簡単<rt>かんたん</rt></ruby>な",
     "meaning": "簡単な (かんたんな)",
-    "ex_ja": "とても<ruby>簡単<rt>かんたん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 簡単な (かんたんな)."
+    "ex_ja": "最新のスマートフォンアプリを活用すれば、複雑な書類を作成することなく<ruby>簡単な<rt>かんたんな</rt></ruby>手順で行政手続きを完了できる。",
+    "ex_en": "Using the latest smartphone app, administrative procedures can be completed through simple steps without creating complicated paperwork."
   },
   {
     "id": "n2_v_0764",
@@ -12426,8 +12426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だいじな",
     "ruby": "<ruby>大事<rt>だいじ</rt></ruby>な",
     "meaning": "大事な (だいじな)",
-    "ex_ja": "とても<ruby>大事<rt>だいじ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 大事な (だいじな)."
+    "ex_ja": "どんなに多忙を極めていても、家族とともに食卓を囲む穏やかな時間は何よりも<ruby>大事な<rt>だいじな</rt></ruby>ひとときだ。",
+    "ex_en": "No matter how extremely busy life gets, peaceful time spent gathered around the dinner table with family is the most precious moment of all."
   },
   {
     "id": "n2_v_0765",
@@ -12442,8 +12442,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きけんな",
     "ruby": "<ruby>危険<rt>きけん</rt></ruby>な",
     "meaning": "危険な (きけんな)",
-    "ex_ja": "とても<ruby>危険<rt>きけん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 危険な (きけんな)."
+    "ex_ja": "台風が接近している荒れた海に近づく行為は、高波にさらわれる恐れがあり極めて<ruby>危険な<rt>きけんな</rt></ruby>判断だ。",
+    "ex_en": "Approaching a rough sea while a typhoon is nearing carries the risk of being swept away by high waves and is an extremely dangerous decision."
   },
   {
     "id": "n2_v_0766",
@@ -12458,8 +12458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たしかな",
     "ruby": "<ruby>確<rt>たし</rt></ruby>かな",
     "meaning": "確かな (たしかな)",
-    "ex_ja": "とても<ruby>確<rt>たし</rt></ruby>かなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 確かな (たしかな)."
+    "ex_ja": "長年の厳しい修行によって培われた<ruby>確かな<rt>たしかな</rt></ruby>技術を持つ職人が、手作業で精巧な時計を組み上げていく。",
+    "ex_en": "A craftsman possessing solid skills honed through years of rigorous training assembles intricate watches entirely by hand."
   },
   {
     "id": "n2_v_0767",
@@ -12474,8 +12474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きそてきな",
     "ruby": "<ruby>基礎的<rt>きそてき</rt></ruby>な",
     "meaning": "基礎的な (きそてきな)",
-    "ex_ja": "とても<ruby>基礎的<rt>きそてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 基礎的な (きそてきな)."
+    "ex_ja": "高度な応用研究に着手する前に、まずは実験器具の正しい扱い方など<ruby>基礎的な<rt>きそてきな</rt></ruby>手順を習得しておく必要がある。",
+    "ex_en": "Before embarking on advanced applied research, it is necessary to master fundamental procedures such as the proper handling of laboratory equipment."
   },
   {
     "id": "n2_v_0768",
@@ -12490,8 +12490,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんきな",
     "ruby": "<ruby>短気<rt>たんき</rt></ruby>な",
     "meaning": "短気な (たんきな)",
-    "ex_ja": "とても<ruby>短気<rt>たんき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 短気な (たんきな)."
+    "ex_ja": "彼は<ruby>短気な<rt>たんきな</rt></ruby>気質のせいで、他人の些細なミスに対してすぐに感情を荒らげてしまい周囲を困惑させる。",
+    "ex_en": "Due to his short-tempered nature, he quickly loses his temper over others' trivial mistakes, causing distress to those around him."
   },
   {
     "id": "n2_v_0769",
@@ -12506,8 +12506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きのどくな",
     "ruby": "<ruby>気の毒<rt>きのどく</rt></ruby>な",
     "meaning": "気の毒な (きのどくな)",
-    "ex_ja": "とても<ruby>気の毒<rt>きのどく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 気の毒な (きのどくな)."
+    "ex_ja": "入念な準備を重ねて臨んだコンクールの当日に高熱で棄権せざるを得なかった彼女の<ruby>気の毒な<rt>きのどくな</rt></ruby>境遇に、誰もが同情した。",
+    "ex_en": "Everyone sympathized with her unfortunate plight, having prepared meticulously for the competition only to be forced to withdraw due to a high fever on the day of the event."
   },
   {
     "id": "n2_v_0770",
@@ -12522,8 +12522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんじゅんな",
     "ruby": "<ruby>単純<rt>たんじゅん</rt></ruby>な",
     "meaning": "単純な (たんじゅんな)",
-    "ex_ja": "とても<ruby>単純<rt>たんじゅん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 単純な (たんじゅんな)."
+    "ex_ja": "基本機能に絞った<ruby>単純な<rt>たんじゅんな</rt></ruby>構造の製品だからこそ、操作が直感的で故障のリスクも極めて低い。",
+    "ex_en": "Precisely because this product has a simple structure focused on basic functions, operation is intuitive and the risk of malfunction is extremely low."
   },
   {
     "id": "n2_v_0771",
@@ -12538,8 +12538,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きほんてきな",
     "ruby": "<ruby>基本的<rt>きほんてき</rt></ruby>な",
     "meaning": "基本的な (きほんてきな)",
-    "ex_ja": "とても<ruby>基本的<rt>きほんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 基本的な (きほんてきな)."
+    "ex_ja": "挨拶や約束の時間を守ることなど、社会人として<ruby>基本的な<rt>きほんてきな</rt></ruby>行動規範を徹底することが信頼構築の土台となる。",
+    "ex_en": "Strictly observing basic codes of conduct as a working adult, such as greeting others and keeping appointments, forms the cornerstone of building trust."
   },
   {
     "id": "n2_v_0772",
@@ -12554,8 +12554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ていねいな",
     "ruby": "<ruby>丁寧<rt>ていねい</rt></ruby>な",
     "meaning": "丁寧な (ていねいな)",
-    "ex_ja": "とても<ruby>丁寧<rt>ていねい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 丁寧な (ていねいな)."
+    "ex_ja": "顧客からの問い合わせに対して迅速かつ<ruby>丁寧な<rt>ていねいな</rt></ruby>メールで返答したことで、相手方から高い評価を得た。",
+    "ex_en": "By responding to customer inquiries with prompt and polite emails, we earned high marks from clients."
   },
   {
     "id": "n2_v_0773",
@@ -12570,8 +12570,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぐたいてきな",
     "ruby": "<ruby>具体的<rt>ぐたいてき</rt></ruby>な",
     "meaning": "具体的な (ぐたいてきな)",
-    "ex_ja": "とても<ruby>具体的<rt>ぐたいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 具体的な (ぐたいてきな)."
+    "ex_ja": "単なるスローガンにとどまらず、二酸化炭素排出量を半減させるための<ruby>具体的な<rt>ぐたいてきな</rt></ruby>ロードマップを提示した。",
+    "ex_en": "Rather than stopping at a mere slogan, a concrete roadmap to halve carbon dioxide emissions was presented."
   },
   {
     "id": "n2_v_0774",
@@ -12586,8 +12586,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とくいな",
     "ruby": "<ruby>得意<rt>とくい</rt></ruby>な",
     "meaning": "得意な (とくいな)",
-    "ex_ja": "とても<ruby>得意<rt>とくい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 得意な (とくいな)."
+    "ex_ja": "彼女は数学的な分析が<ruby>得意な<rt>とくいな</rt></ruby>強みを活かし、市場動向の予測モデルの構築で中心的な役割を果たしている。",
+    "ex_en": "Leveraging her strength in mathematical analysis, she plays a central role in constructing market trend forecasting models."
   },
   {
     "id": "n2_v_0775",
@@ -12602,8 +12602,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さかんな",
     "ruby": "<ruby>盛<rt>さか</rt></ruby>んな",
     "meaning": "盛んな (さかんな)",
-    "ex_ja": "とても<ruby>盛<rt>さか</rt></ruby>んなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 盛んな (さかんな)."
+    "ex_ja": "この港町は江戸時代から酒造りが<ruby>盛んな<rt>さかんな</rt></ruby>地域として知られ、現在でも鑑評会で数々の金賞を受賞している。",
+    "ex_en": "This port town is known as a region where sake brewing has flourished since the Edo period, continuing to win numerous gold medals at competitions today."
   },
   {
     "id": "n2_v_0776",
@@ -12618,8 +12618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にがてな",
     "ruby": "<ruby>苦手<rt>にがて</rt></ruby>な",
     "meaning": "苦手な (にがてな)",
-    "ex_ja": "とても<ruby>苦手<rt>にがて</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 苦手な (にがてな)."
+    "ex_ja": "初対面の人と打ち解けて会話をするのが<ruby>苦手な<rt>にがてな</rt></ruby>ため、面接の前には入念な模擬練習を重ねた。",
+    "ex_en": "Because I am uncomfortable breaking the ice with people I meet for the first time, I conducted thorough mock interviews before the real one."
   },
   {
     "id": "n2_v_0777",
@@ -12634,8 +12634,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さまざまな",
     "ruby": "<ruby>様々<rt>さまざま</rt></ruby>な",
     "meaning": "様々な (さまざまな)",
-    "ex_ja": "とても<ruby>様々<rt>さまざま</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 様々な (さまざまな)."
+    "ex_ja": "都市への人口集中に伴い、住宅不足や交通渋滞など<ruby>様々な<rt>さまざまな</rt></ruby>社会問題が深刻化している。",
+    "ex_en": "With population concentration in urban centers, diverse social issues such as housing shortages and traffic congestion are becoming increasingly severe."
   },
   {
     "id": "n2_v_0778",
@@ -12650,8 +12650,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ねっしんな",
     "ruby": "<ruby>熱心<rt>ねっしん</rt></ruby>な",
     "meaning": "熱心な (ねっしんな)",
-    "ex_ja": "とても<ruby>熱心<rt>ねっしん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 熱心な (ねっしんな)."
+    "ex_ja": "熟練指導員による<ruby>熱心な<rt>ねっしんな</rt></ruby>技術指導のおかげで、若手社員の技能水準が短期間で著しく向上した。",
+    "ex_en": "Thanks to passionate technical instruction from seasoned instructors, junior employees' skill levels improved remarkably in a short timeframe."
   },
   {
     "id": "n2_v_0779",
@@ -12666,8 +12666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ざんねんな",
     "ruby": "<ruby>残念<rt>ざんねん</rt></ruby>な",
     "meaning": "残念な (ざんねんな)",
-    "ex_ja": "とても<ruby>残念<rt>ざんねん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 残念な (ざんねんな)."
+    "ex_ja": "選手全員が全力を尽くして最後まで粘り強く戦い抜いたものの、延長戦の末にわずか一歩及ばず<ruby>残念な<rt>ざんねんな</rt></ruby>結果となった。",
+    "ex_en": "Although every player gave their utmost and fought tenaciously to the end, falling just short after extra time was a disappointing result."
   },
   {
     "id": "n2_v_0780",
@@ -12682,8 +12682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はでな",
     "ruby": "<ruby>派手<rt>はで</rt></ruby>な",
     "meaning": "派手な (はでな)",
-    "ex_ja": "とても<ruby>派手<rt>はで</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 派手な (はでな)."
+    "ex_ja": "厳粛な式典の場においては、周囲の雰囲気を損なわないよう<ruby>派手な<rt>はでな</rt></ruby>装飾や目立つ衣装は控えるべきだ。",
+    "ex_en": "In solemn ceremonial settings, flashy decorations and conspicuous attire should be avoided so as not to disrupt the ambiance."
   },
   {
     "id": "n2_v_0781",
@@ -12698,8 +12698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅような",
     "ruby": "<ruby>主要<rt>しゅよう</rt></ruby>な",
     "meaning": "主要な (しゅような)",
-    "ex_ja": "とても<ruby>主要<rt>しゅよう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 主要な (しゅような)."
+    "ex_ja": "世界各地の<ruby>主要な<rt>しゅような</rt></ruby>証券取引所において株価が大幅に下落し、世界経済の先行きに対する警戒感が強まっている。",
+    "ex_en": "Share prices fell sharply across the world's major stock exchanges, intensifying wariness regarding the future of the global economy."
   },
   {
     "id": "n2_v_0782",
@@ -12714,8 +12714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はなしじょうずな",
     "ruby": "<ruby>話し上手<rt>はなしじょうず</rt></ruby>な",
     "meaning": "話し上手な (はなしじょうずな)",
-    "ex_ja": "とても<ruby>話し上手<rt>はなしじょうず</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 話し上手な (はなしじょうずな)."
+    "ex_ja": "<ruby>話し上手な<rt>はなしじょうずな</rt></ruby>司会者がユーモアを交えて軽快に場を盛り上げたため、会場は終始和やかな笑いに包まれた。",
+    "ex_en": "Because the articulate host livened up the event with humor and wit, the venue was filled with pleasant laughter from start to finish."
   },
   {
     "id": "n2_v_0783",
@@ -12730,8 +12730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうじきな",
     "ruby": "<ruby>正直<rt>しょうじき</rt></ruby>な",
     "meaning": "正直な (しょうじきな)",
-    "ex_ja": "とても<ruby>正直<rt>しょうじき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 正直な (しょうじきな)."
+    "ex_ja": "失敗を隠蔽することなく初期の段階で<ruby>正直な<rt>しょうじきな</rt></ruby>報告を行ったことが、かえって取引先からの厚い信頼につながった。",
+    "ex_en": "Delivering an honest report early on without attempting to cover up the mistake actually led to deeper trust from the client."
   },
   {
     "id": "n2_v_0784",
@@ -12746,8 +12746,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふあんな",
     "ruby": "<ruby>不安<rt>ふあん</rt></ruby>な",
     "meaning": "不安な (ふあんな)",
-    "ex_ja": "とても<ruby>不安<rt>ふあん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 不安な (ふあんな)."
+    "ex_ja": "未知の感染症が拡大する中で、市民は日々の生活や雇用の維持に対して強い<ruby>不安な<rt>ふあんな</rt></ruby>思いを抱えている。",
+    "ex_en": "Amid the spread of an unknown infectious disease, citizens harbor deep feelings of anxiety regarding their daily lives and job security."
   },
   {
     "id": "n2_v_0785",
@@ -12762,8 +12762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふくざつな",
     "ruby": "<ruby>複雑<rt>ふくざつ</rt></ruby>な",
     "meaning": "複雑な (ふくざつな)",
-    "ex_ja": "とても<ruby>複雑<rt>ふくざつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 複雑な (ふくざつな)."
+    "ex_ja": "税制の優遇措置を受けるためには、<ruby>複雑な<rt>ふくざつな</rt></ruby>条件を満たした上で大量の証明書類を揃えなければならない。",
+    "ex_en": "To qualify for tax incentives, one must fulfill complex requirements and gather extensive supporting documentation."
   },
   {
     "id": "n2_v_0786",
@@ -12778,8 +12778,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みぢかな",
     "ruby": "<ruby>身近<rt>みぢか</rt></ruby>な",
     "meaning": "身近な (みぢかな)",
-    "ex_ja": "とても<ruby>身近<rt>みぢか</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 身近な (みぢかな)."
+    "ex_ja": "地球温暖化の防止に向け、冷暖房の設定温度の調整や買い物の際のマイバッグ持参といった<ruby>身近な<rt>みぢかな</rt></ruby>行動を実践している。",
+    "ex_en": "To combat global warming, I put familiar everyday practices into action, such as adjusting thermostat settings and bringing reusable shopping bags."
   },
   {
     "id": "n2_v_0787",
@@ -12794,8 +12794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふしぎな",
     "ruby": "<ruby>不思議<rt>ふしぎ</rt></ruby>な",
     "meaning": "不思議な (ふしぎな)",
-    "ex_ja": "とても<ruby>不思議<rt>ふしぎ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 不思議な (ふしぎな)."
+    "ex_ja": "古くから語り継がれるその山には、磁石が狂ったり霧が晴れなくなったりする<ruby>不思議な<rt>ふしぎな</rt></ruby>現象が報告されている。",
+    "ex_en": "On that mountain shrouded in legend, mysterious phenomena such as compasses malfunctioning and persistent unyielding fog have been reported."
   },
   {
     "id": "n2_v_0788",
@@ -12810,8 +12810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めいわくな",
     "ruby": "<ruby>迷惑<rt>めいわく</rt></ruby>な",
     "meaning": "迷惑な (めいわくな)",
-    "ex_ja": "とても<ruby>迷惑<rt>めいわく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 迷惑な (めいわくな)."
+    "ex_ja": "深夜の住宅街でバイクの空ぶかしを繰り返すような<ruby>迷惑な<rt>めいわくな</rt></ruby>行為は、近隣住民の平穏な生活を著しく脅かす。",
+    "ex_en": "Troublesome behavior such as repeatedly revving motorcycle engines in residential neighborhoods late at night severely threatens the peaceful lives of residents."
   },
   {
     "id": "n2_v_0789",
@@ -12826,8 +12826,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふべんな",
     "ruby": "<ruby>不便<rt>ふべん</rt></ruby>な",
     "meaning": "不便な (ふべんな)",
-    "ex_ja": "とても<ruby>不便<rt>ふべん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 不便な (ふべんな)."
+    "ex_ja": "最寄り駅からバスで三十分以上かかる<ruby>不便な<rt>ふべんな</rt></ruby>地域だが、豊かな自然と広大な敷地を求めて移住する人が増えている。",
+    "ex_en": "Although it is an inconvenient area located more than thirty minutes by bus from the nearest station, more people are relocating there seeking abundant nature and spacious grounds."
   },
   {
     "id": "n2_v_0790",
@@ -12842,8 +12842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めんどうな",
     "ruby": "<ruby>面倒<rt>めんどう</rt></ruby>な",
     "meaning": "面倒な (めんどうな)",
-    "ex_ja": "とても<ruby>面倒<rt>めんどう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 面倒な (めんどうな)."
+    "ex_ja": "海外へ長期滞在する際には、ビザの申請や現地での外国人登録など<ruby>面倒な<rt>めんどうな</rt></ruby>行政手続きを順序立てて進める必要がある。",
+    "ex_en": "When planning a long-term stay abroad, one must methodically tackle troublesome administrative procedures such as visa applications and alien registration."
   },
   {
     "id": "n2_v_0791",
@@ -12858,8 +12858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まじめな",
     "ruby": "<ruby>真面目<rt>まじめ</rt></ruby>な",
     "meaning": "真面目な (まじめな)",
-    "ex_ja": "とても<ruby>真面目<rt>まじめ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 真面目な (まじめな)."
+    "ex_ja": "地道な努力を惜しまない彼の<ruby>真面目な<rt>まじめな</rt></ruby>勤務態度は、創業以来培われてきた当社の社風をまさに体現している。",
+    "ex_en": "His diligent work ethic, sparing no steady effort, truly embodies the corporate culture nurtured by our company since its founding."
   },
   {
     "id": "n2_v_0792",
@@ -12874,8 +12874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "らくな",
     "ruby": "<ruby>楽<rt>らく</rt></ruby>な",
     "meaning": "楽な (らくな)",
-    "ex_ja": "とても<ruby>楽<rt>らく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 楽な (らくな)."
+    "ex_ja": "全自動の家電を導入したことで日々の家事負担が大幅に減り、以前よりもずっと<ruby>楽な<rt>らくな</rt></ruby>生活を送れるようになった。",
+    "ex_en": "With the introduction of fully automatic home appliances, the daily burden of housework was significantly reduced, allowing for a much easier and more comfortable life than before."
   },
   {
     "id": "n2_v_0793",
@@ -13978,8 +13978,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "サンプル",
     "ruby": "サンプル",
     "meaning": "sample",
-    "ex_ja": "これはサンプルです。",
-    "ex_en": "This is a sample."
+    "ex_ja": "新製品の発売に先立ち、百貨店の化粧品売り場で来店客にスキンケア商品の無料サンプルを配布した。",
+    "ex_en": "Prior to the launch of the new product, free samples of skincare items were distributed to visitors at department store cosmetics counters."
   },
   {
     "id": "n2_v_0862",
@@ -20122,8 +20122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしん",
     "ruby": "<ruby>最新<rt>さいしん</rt></ruby>",
     "meaning": "latest, newest, late-breaking (news)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最新<rt>さいしん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最新 above all else."
+    "ex_ja": "医療分野において、<ruby>最新<rt>さいしん</rt></ruby>の画像認識技術を駆使して早期がんの病変を発見する診断支援システムが導入された。",
+    "ex_en": "In the medical field, a diagnostic support system utilizing the latest image recognition technology was introduced to detect early cancerous lesions."
   },
   {
     "id": "n2_v_1246",
@@ -20250,8 +20250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいちょう",
     "ruby": "<ruby>最長<rt>さいちょう</rt></ruby>",
     "meaning": "longest, oldest",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最長<rt>さいちょう</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最長 above all else."
+    "ex_ja": "山岳地帯を貫くこの新幹線トンネルは、国内の鉄道用トンネルとして国内<ruby>最長<rt>さいちょう</rt></ruby>の総延長を誇っている。",
+    "ex_en": "Piercing the mountainous terrain, this bullet train tunnel boasts the longest total distance in the country among domestic railway tunnels."
   },
   {
     "id": "n2_v_1254",
@@ -20410,8 +20410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいらい（する）",
     "ruby": "<ruby>再来<rt>さいらい</rt></ruby>",
     "meaning": "return, coming back, second coming (e.g. of Christ)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再来<rt>さいらい</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再来 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "往年の名選手たちがスタジアムに再結集し、昭和の黄金時代の<ruby>再来<rt>さいらい</rt></ruby>を思わせる白熱した試合を繰り広げた。",
+    "ex_en": "Legendary players of yesteryear reunited at the stadium, staging a thrilling match reminiscent of the resurgence of the Showa era's golden age."
   },
   {
     "id": "n2_v_1264",
@@ -20682,8 +20682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいかい（する）",
     "ruby": "<ruby>再開<rt>さいかい</rt></ruby>",
     "meaning": "reopening, resumption, restarting",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再開<rt>さいかい</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再開 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "落雷に伴う送電トラブルにより運転を見合わせていた私鉄各線は、安全確認を経て午後三時に運行を<ruby>再開<rt>さいかい</rt></ruby>した。",
+    "ex_en": "Private railway lines that had suspended operations due to power transmission issues caused by lightning strikes resumed service at 3:00 PM following safety inspections."
   },
   {
     "id": "n2_v_1281",
@@ -20746,8 +20746,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいきょう",
     "ruby": "<ruby>最強<rt>さいきょう</rt></ruby>",
     "meaning": "strongest",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最強<rt>さいきょう</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最強 above all else."
+    "ex_ja": "世界選手権を三連覇したそのチームは、攻守ともに隙のない圧倒的な実力で世界<ruby>最強<rt>さいきょう</rt></ruby>の称号を手に入れた。",
+    "ex_en": "Having won three consecutive world championships, the team captured the title of world's strongest with overwhelming capability showing no vulnerability in offense or defense."
   },
   {
     "id": "n2_v_1285",
@@ -22266,8 +22266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゃま（する）",
     "ruby": "<ruby>邪魔<rt>じゃま</rt></ruby>",
     "meaning": "hindrance, intrusion",
-    "ex_ja": "<ruby>邪魔<rt>じゃま</rt></ruby>なのです。",
-    "ex_en": "It is in the way."
+    "ex_ja": "非常階段の踊り場に段ボール箱を積み上げておくと、火災時の避難行動の<ruby>邪魔<rt>じゃま</rt></ruby>になるため直ちに撤去してください。",
+    "ex_en": "Stacking cardboard boxes on emergency stair landings obstructs evacuation during a fire, so please remove them immediately."
   },
   {
     "id": "n2_v_1380",
@@ -28970,8 +28970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ようじ",
     "ruby": "<ruby>幼児<rt>ようじ</rt></ruby>",
     "meaning": "infant, baby, child",
-    "ex_ja": "トムは<ruby>幼児<rt>ようじ</rt></ruby>です。",
-    "ex_en": "Tom is a little kid."
+    "ex_ja": "共働き世帯の増加を背景に、自治体では<ruby>幼児<rt>ようじ</rt></ruby>期の教育環境の整備と待機児童の解消に最優先で取り組んでいる。",
+    "ex_en": "Against the backdrop of an increasing number of dual-income households, local governments are prioritizing the enhancement of early childhood educational environments and the elimination of daycare waiting lists."
   },
   {
     "id": "n2_v_1799",
@@ -29498,8 +29498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あくてんこう",
     "ruby": "<ruby>悪天候<rt>あくてんこう</rt></ruby>",
     "meaning": "bad weather",
-    "ex_ja": "<ruby>悪天候<rt>あくてんこう</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるため、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>対策<rt>たいさく</rt></ruby>を<ruby>講<rt>こう</rt></ruby>じた。",
-    "ex_en": "To avoid 悪天候, we took sufficient measures in advance."
+    "ex_ja": "台風の接近に伴う<ruby>悪天候<rt>あくてんこう</rt></ruby>に見舞われたため、週末に予定されていた野外音楽フェスティバルは全面中止となった。",
+    "ex_en": "Due to adverse weather conditions accompanying the approaching typhoon, the outdoor music festival scheduled for the weekend was completely canceled."
   },
   {
     "id": "n2_v_1832",
@@ -29722,8 +29722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いきぬき（する）",
     "ruby": "<ruby>息抜<rt>いきぬ</rt></ruby>き",
     "meaning": "息抜き (いきぬき（する）)",
-    "ex_ja": "たまには<ruby>息抜<rt>いきぬ</rt></ruby>きも<ruby>必要<rt>ひつよう</rt></ruby>です。",
-    "ex_en": "Listen to the explanation about 息抜き (いきぬき（する）)."
+    "ex_ja": "根詰めて作業を続けると集中力が途切れてしまうため、一時間ごとに軽い体操をして適度な<ruby>息抜き<rt>いきぬき</rt></ruby>を入れている。",
+    "ex_en": "Because working continuously without breaks causes concentration to lapse, I take moderate breathers every hour with light stretching."
   },
   {
     "id": "n2_v_1846",
@@ -30170,8 +30170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おていれ（する）",
     "ruby": "お<ruby>手入れ<rt>ていれ</rt></ruby>",
     "meaning": "お手入れ (おていれ（する）)",
-    "ex_ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>肌<rt>はだ</rt></ruby>のお<ruby>手入<rt>てい</rt></ruby>れを<ruby>欠<rt>か</rt></ruby>かさない。",
-    "ex_en": "Listen to the explanation about お手入れ (おていれ（する）)."
+    "ex_ja": "天然木で作られた高級家具は、定期的なオイル塗布などの<ruby>お手入れ<rt>おていれ</rt></ruby>を欠かさなければ世代を超えて美しさを保ち続ける。",
+    "ex_en": "Fine furniture crafted from natural wood will maintain its beauty across generations if regular care, such as periodic oiling, is not neglected."
   },
   {
     "id": "n2_v_1874",
@@ -30426,8 +30426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいとうしゃ",
     "ruby": "<ruby>回答者<rt>かいとうしゃ</rt></ruby>",
     "meaning": "回答者 (かいとうしゃ)",
-    "ex_ja": "イベントの<ruby>回答者<rt>かいとうしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 回答者 (かいとうしゃ) of the event."
+    "ex_ja": "働き方に関する意識調査において、<ruby>回答者<rt>かいとうしゃ</rt></ruby>の七割以上がフレックスタイム制の導入に賛成の意向を示した。",
+    "ex_en": "In the attitude survey on work styles, more than 70% of respondents expressed support for introducing flextime systems."
   },
   {
     "id": "n2_v_1890",
@@ -30794,8 +30794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしゅうだんかい",
     "ruby": "<ruby>最終段階<rt>さいしゅうだんかい</rt></ruby>",
     "meaning": "最終段階 (さいしゅうだんかい)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最終段階<rt>さいしゅうだんかい</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最終段階 above all else."
+    "ex_ja": "新薬の臨床試験はついに<ruby>最終段階<rt>さいしゅうだんかい</rt></ruby>を迎え、厚生労働省への承認申請に向けたデータ分析が急ピッチで進められている。",
+    "ex_en": "Clinical trials for the new drug have finally entered their final stage, with data analysis progressing rapidly toward an application for regulatory approval."
   },
   {
     "id": "n2_v_1913",
@@ -30826,8 +30826,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしょうげん",
     "ruby": "<ruby>最小限<rt>さいしょうげん</rt></ruby>",
     "meaning": "minimum, lowest, minimal",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最小限 above all else."
+    "ex_ja": "工場で発生したボイラー火災に対し初期消火が迅速に行われたため、設備の損害を<ruby>最小限<rt>さいしょうげん</rt></ruby>に食い止めることができた。",
+    "ex_en": "Because initial firefighting was carried out swiftly against the factory boiler fire, equipment damage was kept to a bare minimum."
   },
   {
     "id": "n2_v_1915",
@@ -30842,8 +30842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんだいしゃかい",
     "ruby": "<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>",
     "meaning": "modern society",
-    "ex_ja": "<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現代社会."
+    "ex_ja": "情報通信網が高度に発達した<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>では、真偽の定かでないフェイクニュースの拡散が深刻な脅威となっている。",
+    "ex_en": "In modern society where information and telecommunication networks are highly advanced, the spread of unverified fake news poses a serious threat."
   },
   {
     "id": "n2_v_1916",
@@ -30858,8 +30858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしんきしゅ",
     "ruby": "<ruby>最新機種<rt>さいしんきしゅ</rt></ruby>",
     "meaning": "最新機種 (さいしんきしゅ)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最新機種<rt>さいしんきしゅ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最新機種 above all else."
+    "ex_ja": "各社が競い合うスマートフォン市場では、人工知能による写真補正機能を前面に押し出した<ruby>最新機種<rt>さいしんきしゅ</rt></ruby>が続々と発表されている。",
+    "ex_en": "In the fiercely competitive smartphone market, manufacturers are consecutively unveiling the latest models showcasing AI-driven photo correction features."
   },
   {
     "id": "n2_v_1917",
@@ -30874,8 +30874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんだいじん",
     "ruby": "<ruby>現代人<rt>げんだいじん</rt></ruby>",
     "meaning": "現代人 (げんだいじん)",
-    "ex_ja": "<ruby>現代人<rt>げんだいじん</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現代人."
+    "ex_ja": "不規則な食生活や運動不足に陥りがちな<ruby>現代人<rt>げんだいじん</rt></ruby>にとって、日々の健康管理を意識的に見直すことが不可欠だ。",
+    "ex_en": "For modern people prone to irregular dietary habits and insufficient exercise, consciously reassessing daily health management is indispensable."
   },
   {
     "id": "n2_v_1918",
@@ -30890,8 +30890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしんさく",
     "ruby": "<ruby>最新作<rt>さいしんさく</rt></ruby>",
     "meaning": "最新作 (さいしんさく)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最新作<rt>さいしんさく</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最新作 above all else."
+    "ex_ja": "世界的巨匠と呼ばれる映画監督の三年ぶりとなる<ruby>最新作<rt>さいしんさく</rt></ruby>が公開され、全国の劇場は連日多くの観客で賑わっている。",
+    "ex_en": "The latest film from the world-renowned master director—his first in three years—was released, and theaters nationwide are bustling with large crowds day after day."
   },
   {
     "id": "n2_v_1919",
@@ -30922,8 +30922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいていきおん",
     "ruby": "<ruby>最低気温<rt>さいていきおん</rt></ruby>",
     "meaning": "最低気温 (さいていきおん)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最低<rt>さいてい</rt></ruby><ruby>気温<rt>きおん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最低気温 above all else."
+    "ex_ja": "日本列島を強い寒波が覆った影響で、北部の内陸部では観測史上初となる氷点下二十度の<ruby>最低気温<rt>さいていきおん</rt></ruby>を記録した。",
+    "ex_en": "As a severe cold wave engulfed the Japanese archipelago, northern inland areas recorded an all-time record-low minimum temperature of minus twenty degrees Celsius."
   },
   {
     "id": "n2_v_1921",
@@ -30938,8 +30938,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうこうじだい",
     "ruby": "<ruby>高校時代<rt>こうこうじだい</rt></ruby>",
     "meaning": "高校時代 (こうこうじだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>高校時代<rt>こうこうじだい</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 高校時代 (こうこうじだい) down."
+    "ex_ja": "<ruby>高校時代<rt>こうこうじだい</rt></ruby>に野球部の厳しい練習を共に乗り越えたチームメイトとは、三十代になった今でも親交が続いている。",
+    "ex_en": "I maintain close friendships even now in my thirties with the teammates who endured grueling baseball practice together during our high school days."
   },
   {
     "id": "n2_v_1922",
@@ -30954,8 +30954,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいてんげん",
     "ruby": "<ruby>最低限<rt>さいてんげん</rt></ruby>",
     "meaning": "minimum, at the very least",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最低限<rt>さいていげん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最低限 above all else."
+    "ex_ja": "海外出張に出発する前に、現地の商習慣やビジネスマナーに関する<ruby>最低限<rt>さいてんげん</rt></ruby>の知識を頭に入れておくべきだ。",
+    "ex_en": "Before departing on an overseas business trip, one should acquire at least the bare minimum knowledge of local business practices and etiquette."
   },
   {
     "id": "n2_v_1923",
@@ -31082,8 +31082,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さしいれ（する）",
     "ruby": "<ruby>差し入<rt>さしい</rt></ruby>れ",
     "meaning": "差し入れ (さしいれ（する）)",
-    "ex_ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：<ruby>差し入<rt>さしい</rt></ruby>れ",
-    "ex_en": "Listen to the explanation about 差し入れ (さしいれ（する）)."
+    "ex_ja": "連日夜遅くまで選挙準備を進めるスタッフを労おうと、後援会の方々から温かい夜食の<ruby>差し入れ<rt>さしいれ</rt></ruby>が届いた。",
+    "ex_en": "To encourage the campaign staff preparing late into the night every day, supporters delivered a thoughtful refreshment of warm late-night meals."
   },
   {
     "id": "n2_v_1931",
@@ -31498,8 +31498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じっこういいん",
     "ruby": "<ruby>実行委員<rt>じっこういいん</rt></ruby>",
     "meaning": "実行委員 (じっこういいん)",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>のホームで<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>実行委員<rt>じっこういいん</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>案内<rt>あんない</rt></ruby>してくれた。",
-    "ex_en": "A kind 実行委員 (じっこういいん) on the train platform guided me politely."
+    "ex_ja": "国際文化祭の<ruby>実行委員<rt>じっこういいん</rt></ruby>を務めた学生たちが半年間綿密な準備を重ねたおかげで、イベントは大盛況のうちに幕を閉じた。",
+    "ex_en": "Thanks to six months of meticulous preparation by students serving as executive committee members for the international cultural festival, the event concluded with tremendous success."
   },
   {
     "id": "n2_v_1957",
@@ -32026,8 +32026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんしゅじだい",
     "ruby": "<ruby>選手時代<rt>せんしゅじだい</rt></ruby>",
     "meaning": "選手時代 (せんしゅじだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby><ruby>時代<rt>じだい</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 選手時代 (せんしゅじだい) down."
+    "ex_ja": "指導者として数々の名選手を育て上げた彼だが、自身の<ruby>選手時代<rt>せんしゅじだい</rt></ruby>には度重なる膝の故障に泣かされた苦い経験を持つ。",
+    "ex_en": "Although he nurtured numerous star athletes as a coach, he possesses bitter memories of suffering through repeated knee injuries during his own playing career."
   },
   {
     "id": "n2_v_1990",
@@ -32186,8 +32186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうごうぶんか",
     "ruby": "<ruby>総合文化<rt>そうごうぶんか</rt></ruby>",
     "meaning": "総合文化 (そうごうぶんか)",
-    "ex_ja": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>総合<rt>そうごう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>への<ruby>対策<rt>たいさく</rt></ruby>が<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>となっている。",
-    "ex_en": "Countermeasures for the rapid 総合文化 (そうごうぶんか) have become a social issue."
+    "ex_ja": "市が駅前に新設した<ruby>総合文化<rt>そうごうぶんか</rt></ruby>施設は、大規模なコンサートホールや市立図書館を備え、市民の憩いの場として親しまれている。",
+    "ex_en": "The comprehensive cultural facility newly built by the city near the station features a large concert hall and a municipal library, serving as a cherished gathering spot for residents."
   },
   {
     "id": "n2_v_2000",
@@ -32362,8 +32362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てわたし（する）",
     "ruby": "<ruby>手渡<rt>てわた</rt></ruby>し",
     "meaning": "手渡し (てわたし（する）)",
-    "ex_ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：<ruby>手渡<rt>てわた</rt></ruby>し",
-    "ex_en": "Listen to the explanation about 手渡し (てわたし（する）)."
+    "ex_ja": "個人情報の流出や郵便事故を防ぐため、秘密保持契約書は郵送を避け担当者が直接先方を訪問して<ruby>手渡し<rt>てわたし</rt></ruby>した。",
+    "ex_en": "To prevent leaks of personal information or mailing mishaps, the representative visited the client directly to deliver the non-disclosure agreement by hand rather than mailing it."
   },
   {
     "id": "n2_v_2011",
@@ -32698,8 +32698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうねんだい",
     "ruby": "<ruby>同年代<rt>どうねんだい</rt></ruby>",
     "meaning": "同年代 (どうねんだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>同年代<rt>どうねんだい</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 同年代 (どうねんだい) down."
+    "ex_ja": "<ruby>同年代<rt>どうねんだい</rt></ruby>の仲間が次々と起業して成功を収めている姿を目の当たりにし、自分も新たな挑戦へ踏み出す勇気をもらった。",
+    "ex_en": "Witnessing peers of my own age starting businesses one after another and achieving success gave me the courage to take the leap into a new challenge myself."
   },
   {
     "id": "n2_v_2032",
@@ -32922,8 +32922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にゅうがくよていしゃ",
     "ruby": "<ruby>入学予定者<rt>にゅうがくよていしゃ</rt></ruby>",
     "meaning": "入学予定者 (にゅうがくよていしゃ)",
-    "ex_ja": "イベントの<ruby>入学<rt>にゅうがく</rt></ruby><ruby>予定者<rt>よていしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 入学予定者 (にゅうがくよていしゃ) of the event."
+    "ex_ja": "大学の講堂において、四月からキャンパスに通う<ruby>入学予定者<rt>にゅうがくよていしゃ</rt></ruby>とその保護者を対象とした履修ガイダンスが開催された。",
+    "ex_en": "A course enrollment guidance session was held in the university auditorium for prospective incoming students attending campus from April and their guardians."
   },
   {
     "id": "n2_v_2046",
@@ -33210,8 +33210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はきけ",
     "ruby": "<ruby>吐き気<rt>はきけ</rt></ruby>",
     "meaning": "nausea, sickness in the stomach",
-    "ex_ja": "<ruby>吐き気<rt>はきけ</rt></ruby>がします。",
-    "ex_en": "I feel like throwing up."
+    "ex_ja": "荒波に揺られる小型船の船内で激しい<ruby>吐き気<rt>はきけ</rt></ruby>と目まいに襲われ、手すりにつかまったまま動けなくなってしまった。",
+    "ex_en": "Assailed by violent nausea and dizziness aboard the small ship rocking in rough seas, I clung to the railing, completely unable to move."
   },
   {
     "id": "n2_v_2064",
@@ -33290,8 +33290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほんねんど",
     "ruby": "<ruby>本年度<rt>ほんねんど</rt></ruby>",
     "meaning": "本年度 (ほんねんど)",
-    "ex_ja": "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>本年度<rt>ほんねんど</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>したところ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>が<ruby>得<rt>え</rt></ruby>られた。",
-    "ex_en": "When investigating users' 本年度 (ほんねんど), very favorable results were obtained."
+    "ex_ja": "<ruby>本年度<rt>ほんねんど</rt></ruby>の業績は、主力事業の海外展開が好調に推移したことにより当初の年間売上目標を大きく上回る見通しだ。",
+    "ex_en": "This fiscal year's business performance is projected to substantially exceed the initial annual sales target thanks to robust overseas expansion in core operations."
   },
   {
     "id": "n2_v_2069",
@@ -33402,8 +33402,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まんぞくど",
     "ruby": "<ruby>満足度<rt>まんぞくど</rt></ruby>",
     "meaning": "満足度 (まんぞくど)",
-    "ex_ja": "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>満足度<rt>まんぞくど</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>したところ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>が<ruby>得<rt>え</rt></ruby>られた。",
-    "ex_en": "When investigating users' 満足度 (まんぞくど), very favorable results were obtained."
+    "ex_ja": "宿泊客を対象としたアンケート調査において、伝統的な日本料理と細やかな接客が高く評価され顧客<ruby>満足度<rt>まんぞくど</rt></ruby>が大幅に上昇した。",
+    "ex_en": "In a survey targeting hotel guests, traditional Japanese cuisine and attentive customer service received high marks, resulting in a significant rise in customer satisfaction."
   },
   {
     "id": "n2_v_2076",
@@ -34074,8 +34074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あばく",
     "ruby": "<ruby>暴<rt>あば</rt></ruby>く",
     "meaning": "暴く (あばく)",
-    "ex_ja": "<ruby>暴<rt>あば</rt></ruby>くことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 暴く (あばく)."
+    "ex_ja": "報道記者の使命は、権力の背後に潜む深刻な不正の真相を白日の下に<ruby>暴く<rt>あばく</rt></ruby>ことにある。",
+    "ex_en": "The mission of an investigative reporter lies in exposing the truth of grave misconduct lurking behind power to the light of day."
   },
   {
     "id": "n2_v_2118",
@@ -34362,8 +34362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いかす",
     "ruby": "<ruby>活<rt>い</rt></ruby>かす",
     "meaning": "活かす (いかす)",
-    "ex_ja": "<ruby>活<rt>い</rt></ruby>かすことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 活かす (いかす)."
+    "ex_ja": "大学院での研究活動を通じて培ったデータ分析の知見を存分に<ruby>活かす<rt>いかす</rt></ruby>ことで、新たなマーケティング戦略の立案を主導した。",
+    "ex_en": "Making full use of the data analysis expertise cultivated through graduate research, she spearheaded the planning of new marketing strategies."
   },
   {
     "id": "n2_v_2136",
@@ -34458,8 +34458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いたむ",
     "ruby": "<ruby>傷<rt>いた</rt></ruby>む",
     "meaning": "傷む (いたむ)",
-    "ex_ja": "<ruby>傷<rt>いた</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 傷む (いたむ)."
+    "ex_ja": "夏場は生鮮食品が<ruby>傷む<rt>いたむ</rt></ruby>のが早いため、買い物を済ませたら速やかに冷蔵庫に保管しなければならない。",
+    "ex_en": "Because perishable food spoils quickly during summer, it must be stored in the refrigerator promptly after shopping."
   },
   {
     "id": "n2_v_2142",
@@ -35146,8 +35146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こしかける",
     "ruby": "<ruby>腰<rt>こし</rt></ruby>かける",
     "meaning": "腰かける (こしかける)",
-    "ex_ja": "<ruby>腰<rt>こし</rt></ruby>かけることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 腰かける (こしかける)."
+    "ex_ja": "急な山道を何時間も登り続けて疲労が限界に達したため、木陰の平らな岩に<ruby>腰かける<rt>こしかける</rt></ruby>ことにした。",
+    "ex_en": "Having climbed steep mountain trails for hours until fatigue reached its limit, I decided to take a seat on a flat rock in the shade of a tree."
   },
   {
     "id": "n2_v_2185",
@@ -35162,8 +35162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かす",
     "ruby": "<ruby>課<rt>か</rt></ruby>す",
     "meaning": "課す (かす)",
-    "ex_ja": "<ruby>課<rt>か</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 課す (かす)."
+    "ex_ja": "地球温暖化対策の一環として、政府は二酸化炭素の排出量に応じた新たな環境税を企業に<ruby>課す<rt>かす</rt></ruby>方針を固めた。",
+    "ex_en": "As part of countermeasures against global warming, the government formalized a policy to impose a new environmental tax on businesses according to their carbon dioxide emissions."
   },
   {
     "id": "n2_v_2186",
@@ -35674,8 +35674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しまる",
     "ruby": "<ruby>絞<rt>し</rt></ruby>まる",
     "meaning": "絞まる (しまる)",
-    "ex_ja": "<ruby>絞<rt>し</rt></ruby>まることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 絞まる (しまる)."
+    "ex_ja": "資金繰りの悪化に加えて取引先の倒産が重なり、毎月の返済負担によって自らの首が<ruby>絞まる<rt>しまる</rt></ruby>厳しい局面に追い込まれた。",
+    "ex_en": "Worsening cash flow compounded by the bankruptcy of a key client drove the company into a harsh corner where monthly debt obligations strangled its own survival."
   },
   {
     "id": "n2_v_2218",
@@ -36122,8 +36122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つくる",
     "ruby": "<ruby>創<rt>つく</rt></ruby>る",
     "meaning": "創る (つくる)",
-    "ex_ja": "<ruby>創<rt>つく</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 創る (つくる)."
+    "ex_ja": "過去の慣習や固定概念にとらわれず、持続可能で誰もが暮らしやすい未来の社会を<ruby>創る<rt>つくる</rt></ruby>ための産学共同プロジェクトが始動した。",
+    "ex_en": "An industry-academia joint project was launched to create a sustainable future society where everyone can thrive, free from past conventions and preconceived notions."
   },
   {
     "id": "n2_v_2246",
@@ -36858,8 +36858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひく",
     "ruby": "<ruby>惹<rt>ひ</rt></ruby>く",
     "meaning": "惹く (ひく)",
-    "ex_ja": "<ruby>惹<rt>ひ</rt></ruby>くことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 惹く (ひく)."
+    "ex_ja": "彼女の透き通るような歌声は、初めて耳にする人の心をも強く<ruby>惹く<rt>ひく</rt></ruby>不思議な魅力を持っている。",
+    "ex_en": "Her crystal-clear singing voice possesses a wondrous charm that deeply captivates the hearts of even first-time listeners."
   },
   {
     "id": "n2_v_2292",
@@ -37498,8 +37498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うつしかえる",
     "ruby": "<ruby>移し替<rt>うつしか</rt></ruby>える",
     "meaning": "移し替える (うつしかえる)",
-    "ex_ja": "<ruby>移し替<rt>うつしか</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 移し替える (うつしかえる)."
+    "ex_ja": "手作りした季節の果実酒は、雑菌の繁殖を防ぐために清潔な保存用ガラス瓶に<ruby>移し替える<rt>うつしかえる</rt></ruby>のが基本だ。",
+    "ex_en": "As a rule, homemade seasonal fruit liquor should be transferred into clean glass storage bottles to prevent the proliferation of bacteria."
   },
   {
     "id": "n2_v_2332",
@@ -37514,8 +37514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あふれだす",
     "ruby": "<ruby>溢れ出<rt>あふれだ</rt></ruby>す",
     "meaning": "溢れ出す (あふれだす)",
-    "ex_ja": "<ruby>溢れ出<rt>あふれだ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 溢れ出す (あふれだす)."
+    "ex_ja": "優勝が決まった瞬間、彼女の目から大粒の涙が溢れ出した。",
+    "ex_en": "The moment victory was decided, large teardrops overflowed from her eyes."
   },
   {
     "id": "n2_v_2333",
@@ -37530,8 +37530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うつしこむ",
     "ruby": "<ruby>映し込<rt>うつしこ</rt></ruby>む",
     "meaning": "映し込む (うつしこむ)",
-    "ex_ja": "<ruby>映し込<rt>うつしこ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 映し込む (うつしこむ)."
+    "ex_ja": "雨上がりの水たまりに夕焼け空を映し込んで、幻想的な写真を撮影した。",
+    "ex_en": "I took a mystical photo capturing the sunset sky reflected in a rain puddle."
   },
   {
     "id": "n2_v_2334",
@@ -37578,8 +37578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あらいだす",
     "ruby": "<ruby>洗い出<rt>あらいだ</rt></ruby>す",
     "meaning": "洗い出す (あらいだす)",
-    "ex_ja": "<ruby>洗い出<rt>あらいだ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 洗い出す (あらいだす)."
+    "ex_ja": "システムの改修に向けて、現状の業務フローにおける問題点をすべて洗い出した。",
+    "ex_en": "Ahead of the system overhaul, we identified and listed all the issues in our current workflow."
   },
   {
     "id": "n2_v_2337",
@@ -37626,8 +37626,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うりあげる",
     "ruby": "<ruby>売り上<rt>うりあ</rt></ruby>げる",
     "meaning": "売り上げる (うりあげる)",
-    "ex_ja": "<ruby>売り上<rt>うりあ</rt></ruby>げることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 売り上げる (うりあげる)."
+    "ex_ja": "その新商品は発売からわずか一週間で、目標を大幅に上回る一億円を売り上げた。",
+    "ex_en": "Within just one week of its release, the new product generated over 100 million yen in sales, far exceeding the target."
   },
   {
     "id": "n2_v_2340",
@@ -37642,8 +37642,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いいわすれる",
     "ruby": "<ruby>言い忘<rt>いいわす</rt></ruby>れる",
     "meaning": "言い忘れる (いいわすれる)",
-    "ex_ja": "<ruby>言い忘<rt>いいわす</rt></ruby>れることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 言い忘れる (いいわすれる)."
+    "ex_ja": "大事な連絡を言い忘れていましたが、明日の会議の開始時間は30分繰り上がります。",
+    "ex_en": "I forgot to mention an important update: tomorrow's meeting will start thirty minutes earlier."
   },
   {
     "id": "n2_v_2341",
@@ -37674,8 +37674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いきつく",
     "ruby": "<ruby>行き着<rt>いきつ</rt></ruby>く",
     "meaning": "行き着く (いきつく)",
-    "ex_ja": "<ruby>行き着<rt>いきつ</rt></ruby>くことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 行き着く (いきつく)."
+    "ex_ja": "何度も議論を重ねた末に、コストを削減するより品質を最優先すべきだという結論に行き着いた。",
+    "ex_en": "After repeated discussions, we finally arrived at the conclusion that we should prioritize quality above all else rather than cutting costs."
   },
   {
     "id": "n2_v_2343",
@@ -37722,8 +37722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えらびだす",
     "ruby": "<ruby>選び出<rt>えらびだ</rt></ruby>す",
     "meaning": "選び出す (えらびだす)",
-    "ex_ja": "<ruby>選び出<rt>えらびだ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 選び出す (えらびだす)."
+    "ex_ja": "応募者数百名のエントリーシートを精査し、最終面接に進む候補者を十名だけ選び出した。",
+    "ex_en": "After scrutinizing several hundred entry sheets, we selected just ten candidates to advance to the final interview."
   },
   {
     "id": "n2_v_2346",
@@ -37738,8 +37738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いれかわる",
     "ruby": "<ruby>入れ替<rt>いれか</rt></ruby>わる",
     "meaning": "入れ替わる (いれかわる)",
-    "ex_ja": "<ruby>入れ替<rt>いれか</rt></ruby>わることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 入れ替わる (いれかわる)."
+    "ex_ja": "午後からの時間帯はスタッフが入れ替わり、新しい担当者がサポート窓口に立ちます。",
+    "ex_en": "In the afternoon, the staff changes shifts, and a new representative will be at the support desk."
   },
   {
     "id": "n2_v_2347",
@@ -37754,8 +37754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おいかえす",
     "ruby": "<ruby>追い返<rt>おいかえ</rt></ruby>す",
     "meaning": "追い返す (おいかえす)",
-    "ex_ja": "<ruby>追い返<rt>おいかえ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 追い返す (おいかえす)."
+    "ex_ja": "契約を結ぶつもりは一切なかったので、しつこい訪問販売の営業マンをきっぱりと追い返した。",
+    "ex_en": "Having no intention of signing a contract, I firmly turned away the persistent door-to-door salesman."
   },
   {
     "id": "n2_v_2348",
@@ -37802,8 +37802,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うけこたえる",
     "ruby": "<ruby>受け答<rt>うけこた</rt></ruby>える",
     "meaning": "受け答える (うけこたえる)",
-    "ex_ja": "<ruby>受け答<rt>うけこた</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 受け答える (うけこたえる)."
+    "ex_ja": "彼女は面接官からの厳しい質問に対しても、落ち着いた様子で的確に受け答えた。",
+    "ex_en": "She responded calmly and accurately, even to the interviewer's tough questions."
   },
   {
     "id": "n2_v_2351",
@@ -37818,8 +37818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おいもとめる",
     "ruby": "<ruby>追い求<rt>おいもと</rt></ruby>める",
     "meaning": "追い求める (おいもとめる)",
-    "ex_ja": "<ruby>追い求<rt>おいもと</rt></ruby>めることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 追い求める (おいもとめる)."
+    "ex_ja": "彼は理想の料理を追い求め、全国各地の厳選された食材を探し歩いている。",
+    "ex_en": "In pursuit of his ideal cuisine, he travels all over the country seeking carefully selected ingredients."
   },
   {
     "id": "n2_v_2352",
@@ -37850,8 +37850,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おぎないあう",
     "ruby": "<ruby>補い合<rt>おぎないあ</rt></ruby>う",
     "meaning": "補い合う (おぎないあう)",
-    "ex_ja": "<ruby>補い合<rt>おぎないあ</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 補い合う (おぎないあう)."
+    "ex_ja": "私たちのチームは、お互いの得意分野を活かして短所を補い合いながらプロジェクトを進めている。",
+    "ex_en": "Our team advances the project by leveraging each other's strengths and complementing each other's shortcomings."
   },
   {
     "id": "n2_v_2354",
@@ -37866,8 +37866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うけわたす",
     "ruby": "<ruby>受け渡<rt>うけわた</rt></ruby>す",
     "meaning": "受け渡す (うけわたす)",
-    "ex_ja": "<ruby>受け渡<rt>うけわた</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 受け渡す (うけわたす)."
+    "ex_ja": "契約書にサインを交わした後、不動産会社の担当者が新居の鍵を正式に受け渡した。",
+    "ex_en": "After signing the contracts, the real estate agent formally handed over the keys to the new house."
   },
   {
     "id": "n2_v_2355",
@@ -37962,8 +37962,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うちなおす",
     "ruby": "<ruby>打ち直<rt>うちなお</rt></ruby>す",
     "meaning": "打ち直す (うちなおす)",
-    "ex_ja": "<ruby>打ち直<rt>うちなお</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 打ち直す (うちなおす)."
+    "ex_ja": "パソコンがフリーズして未保存のデータが消えてしまったので、レポートを最初から打ち直した。",
+    "ex_en": "Since my computer froze and the unsaved data was lost, I had to retype the report from the beginning."
   },
   {
     "id": "n2_v_2361",
@@ -37978,8 +37978,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おもいたつ",
     "ruby": "<ruby>思い立<rt>おもいた</rt></ruby>つ",
     "meaning": "思い立つ (おもいたつ)",
-    "ex_ja": "<ruby>思い立<rt>おもいた</rt></ruby>つことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 思い立つ (おもいたつ)."
+    "ex_ja": "週末にふと思い立って、日帰りで山あいの温泉地へドライブに出かけた。",
+    "ex_en": "On a whim over the weekend, I decided to go on a day drive to a hot spring village in the mountains."
   },
   {
     "id": "n2_v_2362",
@@ -38026,8 +38026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おりたたむ",
     "ruby": "<ruby>折り畳<rt>おりたた</rt></ruby>む",
     "meaning": "折り畳む (おりたたむ)",
-    "ex_ja": "<ruby>折り畳<rt>おりたた</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 折り畳む (おりたたむ)."
+    "ex_ja": "混雑した電車に乗る前に濡れた傘を素早く折り畳み、専用のケースに収納した。",
+    "ex_en": "Before boarding the crowded train, I quickly folded up my wet umbrella and stored it in its case."
   },
   {
     "id": "n2_v_2365",
@@ -38090,8 +38090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かきくわえる",
     "ruby": "<ruby>書き加<rt>かきくわ</rt></ruby>える",
     "meaning": "書き加える (かきくわえる)",
-    "ex_ja": "<ruby>書き加<rt>かきくわ</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 書き加える (かきくわえる)."
+    "ex_ja": "先方の担当者から追加の要望があったため、見積書の備考欄に条件を書き加えた。",
+    "ex_en": "Because the client had an additional request, I added the conditions to the remarks section of the quotation."
   },
   {
     "id": "n2_v_2369",
@@ -38154,8 +38154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かきまちがえる",
     "ruby": "<ruby>書き間違<rt>かきまちが</rt></ruby>える",
     "meaning": "書き間違える (かきまちがえる)",
-    "ex_ja": "<ruby>書き間違<rt>かきまちが</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 書き間違える (かきまちがえる)."
+    "ex_ja": "住民票の申請書類で住所の番地を書き間違えてしまったため、新しい用紙に書き直した。",
+    "ex_en": "Since I wrote down the wrong street number on the resident certificate application form, I rewrote it on a new sheet."
   },
   {
     "id": "n2_v_2373",
@@ -38170,8 +38170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つかいわける",
     "ruby": "<ruby>使い分<rt>つかいわ</rt></ruby>ける",
     "meaning": "使い分ける (つかいわける)",
-    "ex_ja": "<ruby>使い分<rt>つかいわ</rt></ruby>けることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 使い分ける (つかいわける)."
+    "ex_ja": "彼女は相手との関係性や状況に応じて、丁寧な敬語と親しみやすい言葉遣いを上手に使い分けている。",
+    "ex_en": "She skillfully switches between polite honorifics and friendly language depending on her relationship with the person and the context."
   },
   {
     "id": "n2_v_2374",
@@ -38186,8 +38186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かけあがる",
     "ruby": "<ruby>駆け上<rt>かけあ</rt></ruby>がる",
     "meaning": "駆け上がる (かけあがる)",
-    "ex_ja": "<ruby>駆け上<rt>かけあ</rt></ruby>がることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 駆け上がる (かけあがる)."
+    "ex_ja": "電車の発車ベルがホームに鳴り響く中、彼は階段を一気に駆け上がった。",
+    "ex_en": "With the train's departure melody ringing on the platform, he dashed up the stairs in one breath."
   },
   {
     "id": "n2_v_2375",
@@ -38218,8 +38218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かたりかける",
     "ruby": "<ruby>語<rt>かた</rt></ruby>りかける",
     "meaning": "語りかける (かたりかける)",
-    "ex_ja": "<ruby>語<rt>かた</rt></ruby>りかけることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 語りかける (かたりかける)."
+    "ex_ja": "母親は不安そうに泣いている幼い子どもを抱きしめ、優しい声で静かに語りかけた。",
+    "ex_en": "The mother hugged her anxiously crying child and spoke softly and gently to soothe them."
   },
   {
     "id": "n2_v_2377",
@@ -38250,8 +38250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんがえだす",
     "ruby": "<ruby>考え出<rt>かんがえだ</rt></ruby>す",
     "meaning": "考え出す (かんがえだす)",
-    "ex_ja": "<ruby>考え出<rt>かんがえだ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 考え出す (かんがえだす)."
+    "ex_ja": "開発チームは限られた開発期間と予算の中で、画期的な省エネシステムを考え出した。",
+    "ex_en": "Within a limited development schedule and budget, the engineering team came up with a groundbreaking energy-saving system."
   },
   {
     "id": "n2_v_2379",
@@ -38266,8 +38266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つみかさなる",
     "ruby": "<ruby>積み重<rt>つみかさ</rt></ruby>なる",
     "meaning": "積み重なる (つみかさなる)",
-    "ex_ja": "<ruby>積み重<rt>つみかさ</rt></ruby>なることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 積み重なる (つみかさなる)."
+    "ex_ja": "繁忙期の連日の残業による疲労が積み重なり、週末には起き上がれないほどだった。",
+    "ex_en": "Fatigue from consecutive days of overtime during the peak season accumulated to the point where I could barely get out of bed over the weekend."
   },
   {
     "id": "n2_v_2380",
@@ -38314,8 +38314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きりあげる",
     "ruby": "<ruby>切り上<rt>きりあ</rt></ruby>げる",
     "meaning": "切り上げる (きりあげる)",
-    "ex_ja": "<ruby>切り上<rt>きりあ</rt></ruby>げることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 切り上げる (きりあげる)."
+    "ex_ja": "今日は予定していた業務が順調に進んだので、少し早めに仕事を切り上げて帰宅した。",
+    "ex_en": "Since today's planned tasks progressed smoothly, I wrapped up work a bit early and headed home."
   },
   {
     "id": "n2_v_2383",
@@ -38346,8 +38346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きりとる",
     "ruby": "<ruby>切り取<rt>きりと</rt></ruby>る",
     "meaning": "切り取る (きりとる)",
-    "ex_ja": "<ruby>切り取<rt>きりと</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 切り取る (きりとる)."
+    "ex_ja": "新聞の朝刊を読んでいて気になった料理レシピのコラムを、ハサミで丁寧に切り取って保存した。",
+    "ex_en": "While reading the morning newspaper, I carefully cut out an interesting recipe column with scissors and saved it."
   },
   {
     "id": "n2_v_2385",
@@ -38394,8 +38394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とどけでる",
     "ruby": "<ruby>届け出<rt>とどけで</rt></ruby>る",
     "meaning": "届け出る (とどけでる)",
-    "ex_ja": "<ruby>届け出<rt>とどけで</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 届け出る (とどけでる)."
+    "ex_ja": "結婚して名字や住所が変わったため、会社の人事部に必要書類を添えて変更を届け出た。",
+    "ex_en": "Because my surname and address changed after getting married, I officially reported the changes to the company's human resources department along with the required documents."
   },
   {
     "id": "n2_v_2388",
@@ -38410,8 +38410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くりあがる",
     "ruby": "<ruby>繰り上<rt>くりあ</rt></ruby>がる",
     "meaning": "繰り上がる (くりあがる)",
-    "ex_ja": "<ruby>繰り上<rt>くりあ</rt></ruby>がることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 繰り上がる (くりあがる)."
+    "ex_ja": "前の発表者が欠席したため、午後のプレゼンテーションの開始予定時刻が30分繰り上がった。",
+    "ex_en": "Because the previous presenter was absent, the scheduled start time for the afternoon presentation was moved up by thirty minutes."
   },
   {
     "id": "n2_v_2389",
@@ -38474,8 +38474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さがしだす",
     "ruby": "<ruby>探し出<rt>さがしだ</rt></ruby>す",
     "meaning": "探し出す (さがしだす)",
-    "ex_ja": "<ruby>探し出<rt>さがしだ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 探し出す (さがしだす)."
+    "ex_ja": "倉庫の奥にある段ボール箱をひとつずつ確認し、何年も行方不明になっていた契約書を探し出した。",
+    "ex_en": "I checked the cardboard boxes in the back of the storage room one by one and tracked down the contract that had been missing for years."
   },
   {
     "id": "n2_v_2393",
@@ -38490,8 +38490,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とびたつ",
     "ruby": "<ruby>飛び立<rt>とびた</rt></ruby>つ",
     "meaning": "飛び立つ (とびたつ)",
-    "ex_ja": "<ruby>飛び立<rt>とびた</rt></ruby>つことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 飛び立つ (とびたつ)."
+    "ex_ja": "滑走路を勢いよく加速した大型旅客機は、夕焼けに染まる大空へ力強く飛び立った。",
+    "ex_en": "Accelerating powerfully down the runway, the large passenger plane took off gracefully into the sunset sky."
   },
   {
     "id": "n2_v_2394",
@@ -38506,8 +38506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さがしもとめる",
     "ruby": "<ruby>探し求<rt>さがしもと</rt></ruby>める",
     "meaning": "探し求める (さがしもとめる)",
-    "ex_ja": "<ruby>探し求<rt>さがしもと</rt></ruby>めることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 探し求める (さがしもとめる)."
+    "ex_ja": "彼は何年も探し求めていた幻の絶版本を、神保町の古書店街の片隅でようやく手に入れた。",
+    "ex_en": "He finally obtained the legendary out-of-print book he had been seeking for years in a corner of the Jinbocho used-bookstore district."
   },
   {
     "id": "n2_v_2395",
@@ -38522,8 +38522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とびちる",
     "ruby": "<ruby>飛び散<rt>とびち</rt></ruby>る",
     "meaning": "飛び散る (とびちる)",
-    "ex_ja": "<ruby>飛び散<rt>とびち</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 飛び散る (とびちる)."
+    "ex_ja": "陶器のマグカップが硬い床に落ちて粉々に割れ、破片がキッチンの隅まで飛び散った。",
+    "ex_en": "The ceramic mug fell onto the hard floor and shattered into pieces, sending shards scattering across the kitchen."
   },
   {
     "id": "n2_v_2396",
@@ -38554,8 +38554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とびまわる",
     "ruby": "<ruby>飛び回<rt>とびまわ</rt></ruby>る",
     "meaning": "飛び回る (とびまわる)",
-    "ex_ja": "<ruby>飛び回<rt>とびまわ</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 飛び回る (とびまわる)."
+    "ex_ja": "海外営業部の担当者は、新製品の販路拡大を目指してアジア各国の主要都市を忙しく飛び回っている。",
+    "ex_en": "The representative from the overseas sales department is busily flying around major Asian cities to expand distribution channels for the new product."
   },
   {
     "id": "n2_v_2398",
@@ -38586,8 +38586,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とらえなおす",
     "ruby": "<ruby>捉え直<rt>とらえなお</rt></ruby>す",
     "meaning": "捉え直す (とらえなおす)",
-    "ex_ja": "<ruby>捉え直<rt>とらえなお</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 捉え直す (とらえなおす)."
+    "ex_ja": "彼女は今回のプロジェクトでの失敗を挫折ではなく、貴重な成長のステップとして捉え直した。",
+    "ex_en": "She reframed the setback in this project not as a defeat, but as a valuable stepping stone for growth."
   },
   {
     "id": "n2_v_2400",
@@ -38602,8 +38602,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しみこむ",
     "ruby": "<ruby>染み込<rt>しみこ</rt></ruby>む",
     "meaning": "染み込む (しみこむ)",
-    "ex_ja": "<ruby>染み込<rt>しみこ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 染み込む (しみこむ)."
+    "ex_ja": "弱火でじっくり煮込んだ大根と豚肉には、だしの深い旨味が芯までしっかりと染み込んでいる。",
+    "ex_en": "The daikon radish and pork, simmered slowly over low heat, have the rich umami of the broth thoroughly soaked in right to the center."
   },
   {
     "id": "n2_v_2401",
@@ -38618,8 +38618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とりあう",
     "ruby": "<ruby>取り合<rt>とりあ</rt></ruby>う",
     "meaning": "取り合う (とりあう)",
-    "ex_ja": "<ruby>取り合<rt>とりあ</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 取り合う (とりあう)."
+    "ex_ja": "彼は同僚からの真剣な忠告を根拠のない噂だと決めつけ、まったく取り合おうとしなかった。",
+    "ex_en": "He dismissed his colleague's serious warning as an unfounded rumor and refused to pay any heed to it."
   },
   {
     "id": "n2_v_2402",
@@ -38634,8 +38634,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんじこむ",
     "ruby": "<ruby>信じ込<rt>しんじこ</rt></ruby>む",
     "meaning": "信じ込む (しんじこむ)",
-    "ex_ja": "<ruby>信じ込<rt>しんじこ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 信じ込む (しんじこむ)."
+    "ex_ja": "彼はSNSに投稿された真偽不明の情報を完全に信じ込み、友人たちに注意喚起のメッセージを送った。",
+    "ex_en": "He completely fell for the unverified information posted on social media and sent warning messages to his friends."
   },
   {
     "id": "n2_v_2403",
@@ -38762,8 +38762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひきとめる",
     "ruby": "<ruby>引き留<rt>ひきと</rt></ruby>める",
     "meaning": "引き留める (ひきとめる)",
-    "ex_ja": "<ruby>引き留<rt>ひきと</rt></ruby>めることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 引き留める (ひきとめる)."
+    "ex_ja": "突然の転職を切り出してきた優秀な部下を、上司は今後のキャリア展望を語りながら必死に引き留めた。",
+    "ex_en": "When the talented subordinate suddenly announced plans to switch jobs, the manager desperately tried to persuade them to stay by discussing future career opportunities."
   },
   {
     "id": "n2_v_2411",
@@ -38794,8 +38794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とりこわす",
     "ruby": "<ruby>取り壊<rt>とりこわ</rt></ruby>す",
     "meaning": "取り壊す (とりこわす)",
-    "ex_ja": "<ruby>取り壊<rt>とりこわ</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 取り壊す (とりこわす)."
+    "ex_ja": "地震への耐震基準を満たしていない築五十年のビルを取り壊し、最新鋭の防災タワーへ建て替えることになった。",
+    "ex_en": "They decided to demolish the fifty-year-old building that did not meet earthquake safety standards and replace it with a state-of-the-art disaster-resilient tower."
   },
   {
     "id": "n2_v_2413",
@@ -38922,8 +38922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ながれさる",
     "ruby": "<ruby>流れ去<rt>ながれさ</rt></ruby>る",
     "meaning": "流れ去る (ながれさる)",
-    "ex_ja": "<ruby>流れ去<rt>ながれさ</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 流れ去る (ながれさる)."
+    "ex_ja": "川沿いのベンチに座り、秋の風に揺られながら川面を静かに<ruby>流れ去る<rt>ながれさる</rt></ruby>色鮮やかな落ち葉を眺めた。",
+    "ex_en": "Sitting on a bench along the river, I watched the colorful fallen leaves quietly floating away on the water's surface in the autumn breeze."
   },
   {
     "id": "n2_v_2421",
@@ -38986,8 +38986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ならべかえる",
     "ruby": "<ruby>並べ替<rt>ならべか</rt></ruby>える",
     "meaning": "並べ替える (ならべかえる)",
-    "ex_ja": "<ruby>並べ替<rt>ならべか</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 並べ替える (ならべかえる)."
+    "ex_ja": "顧客リストの分析をスムーズに行うため、氏名の五十音順から年間の購入総額順へとデータを並べ替えた。",
+    "ex_en": "To facilitate the analysis of the customer list, I rearranged the data from Japanese alphabetical order of names to the order of annual total purchases."
   },
   {
     "id": "n2_v_2425",
@@ -39002,8 +39002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みつもる",
     "ruby": "<ruby>見積<rt>みつ</rt></ruby>もる",
     "meaning": "見積もる (みつもる)",
-    "ex_ja": "<ruby>見積<rt>みつ</rt></ruby>もることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 見積もる (みつもる)."
+    "ex_ja": "自宅のキッチンを改修するにあたり、複数の工事業者にリフォーム費用を詳細に見積もってもらった。",
+    "ex_en": "When renovating my home kitchen, I had multiple contractors provide detailed cost estimates for the remodeling."
   },
   {
     "id": "n2_v_2426",
@@ -39050,8 +39050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なれしたしむ",
     "ruby": "<ruby>慣れ親<rt>なれした</rt></ruby>しむ",
     "meaning": "慣れ親しむ (なれしたしむ)",
-    "ex_ja": "<ruby>慣れ親<rt>なれした</rt></ruby>しむことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 慣れ親しむ (なれしたしむ)."
+    "ex_ja": "子どもの頃から慣れ親しんだ地元の祭りの囃子を聞くと、今でも故郷への懐かしさが込み上げてくる。",
+    "ex_en": "Hearing the festival music I grew up with since childhood still fills me with deep nostalgia for my hometown."
   },
   {
     "id": "n2_v_2429",
@@ -39082,8 +39082,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ねころがる",
     "ruby": "<ruby>寝転<rt>ねころ</rt></ruby>がる",
     "meaning": "寝転がる (ねころがる)",
-    "ex_ja": "<ruby>寝転<rt>ねころ</rt></ruby>がることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 寝転がる (ねころがる)."
+    "ex_ja": "雲ひとつない青空の下、満開の桜の木の下にシートを敷いて寝転がり、心地よい春の風を感じた。",
+    "ex_en": "Under a cloudless blue sky, I spread a picnic mat under the blooming cherry trees, lay down, and felt the pleasant spring breeze."
   },
   {
     "id": "n2_v_2431",
@@ -39194,8 +39194,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むきあう",
     "ruby": "<ruby>向き合<rt>むきあ</rt></ruby>う",
     "meaning": "向き合う (むきあう)",
-    "ex_ja": "<ruby>向き合<rt>むきあ</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 向き合う (むきあう)."
+    "ex_ja": "困難な課題に直面したときは問題を先送りにせず、チーム全員で正面から<ruby>向き合う<rt>むきあう</rt></ruby>ことが解決への近道だ。",
+    "ex_en": "When facing a difficult challenge, confronting the issue head-on as a whole team rather than postponing it is the shortest path to a solution."
   },
   {
     "id": "n2_v_2438",
@@ -39210,8 +39210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "のりつぐ",
     "ruby": "<ruby>乗り継<rt>のりつ</rt></ruby>ぐ",
     "meaning": "乗り継ぐ (のりつぐ)",
-    "ex_ja": "<ruby>乗り継<rt>のりつ</rt></ruby>ぐことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 乗り継ぐ (のりつぐ)."
+    "ex_ja": "ヨーロッパの地方都市へ向かうため、羽田空港からフランクフルトを経由して現地の国内線に乗り継いだ。",
+    "ex_en": "To reach a regional European city, I flew from Haneda Airport via Frankfurt and connected to a local domestic flight."
   },
   {
     "id": "n2_v_2439",
@@ -39242,8 +39242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はこびいれる",
     "ruby": "<ruby>運び入<rt>はこびい</rt></ruby>れる",
     "meaning": "運び入れる (はこびいれる)",
-    "ex_ja": "<ruby>運び入<rt>はこびい</rt></ruby>れることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 運び入れる (はこびいれる)."
+    "ex_ja": "新しい実験室の開設に伴い、専門の業者が大型の高精度分析機器を慎重に室内へ運び入れた。",
+    "ex_en": "Following the opening of the new laboratory, specialized movers carefully carried the large, high-precision analytical instruments inside."
   },
   {
     "id": "n2_v_2441",
@@ -39290,8 +39290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もちはこぶ",
     "ruby": "<ruby>持ち運<rt>もちはこ</rt></ruby>ぶ",
     "meaning": "持ち運ぶ (もちはこぶ)",
-    "ex_ja": "<ruby>持ち運<rt>もちはこ</rt></ruby>ぶことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 持ち運ぶ (もちはこぶ)."
+    "ex_ja": "この折りたたみ式のタブレットスタンドは軽量でかさばらないため、外出先へ手軽に<ruby>持ち運ぶ<rt>もちはこぶ</rt></ruby>ことができる。",
+    "ex_en": "This folding tablet stand is lightweight and compact, making it easy to carry around on the go."
   },
   {
     "id": "n2_v_2444",
@@ -39322,8 +39322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もちよる",
     "ruby": "<ruby>持ち寄<rt>もちよ</rt></ruby>る",
     "meaning": "持ち寄る (もちよる)",
-    "ex_ja": "<ruby>持ち寄<rt>もちよ</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 持ち寄る (もちよる)."
+    "ex_ja": "部署の親睦会では、メンバーが各地の出張先や帰省先で買ってきた名物のお菓子を持ち寄った。",
+    "ex_en": "At the department social gathering, members brought along specialty snacks they had bought on business trips or visits back home."
   },
   {
     "id": "n2_v_2446",
@@ -39450,8 +39450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よみこむ",
     "ruby": "<ruby>読み込<rt>よみこ</rt></ruby>む",
     "meaning": "読み込む (よみこむ)",
-    "ex_ja": "<ruby>読み込<rt>よみこ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 読み込む (よみこむ)."
+    "ex_ja": "スマートフォンの決済アプリでレジのバーコードを瞬時に読み込み、支払いを完了させた。",
+    "ex_en": "I instantly scanned the checkout barcode with my smartphone payment app and completed the payment."
   },
   {
     "id": "n2_v_2454",
@@ -39466,8 +39466,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よびこむ",
     "ruby": "<ruby>呼び込<rt>よびこ</rt></ruby>む",
     "meaning": "呼び込む (よびこむ)",
-    "ex_ja": "<ruby>呼び込<rt>よびこ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "It is important to 呼び込む (よびこむ)."
+    "ex_ja": "地元の名産品を使った期間限定メニューの開発が成功し、遠方からも多くの観光客を呼び込んでいる。",
+    "ex_en": "The development of a limited-time menu using local specialties succeeded, drawing in many tourists from afar."
   },
   {
     "id": "n2_v_2455",
@@ -39514,8 +39514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こわい",
     "ruby": "<ruby>恐<rt>こわ</rt></ruby>い",
     "meaning": "恐い (こわい)",
-    "ex_ja": "とても<ruby>恐<rt>こわ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 恐い (こわい)."
+    "ex_ja": "普段は温厚で滅多に声を荒らげない父だが、本気で叱るときの表情は本当に<ruby>恐い<rt>こわい</rt></ruby>。",
+    "ex_en": "My father is usually mild-mannered and rarely raises his voice, but when he gets genuinely angry, the look on his face is truly frightening."
   },
   {
     "id": "n2_v_2458",
@@ -39658,8 +39658,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おこりっぽい",
     "ruby": "<ruby>怒<rt>おこ</rt></ruby>りっぽい",
     "meaning": "怒りっぽい (おこりっぽい)",
-    "ex_ja": "とても<ruby>怒<rt>おこ</rt></ruby>りっぽいと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 怒りっぽい (おこりっぽい)."
+    "ex_ja": "最近の彼は連日の激務によるストレスが溜まっているせいか、普段よりずっと<ruby>怒りっぽい<rt>おこりっぽい</rt></ruby>。",
+    "ex_en": "Perhaps because stress has accumulated from consecutive days of intense work, he has been much more short-tempered than usual lately."
   },
   {
     "id": "n2_v_2467",
@@ -39786,8 +39786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かかせない",
     "ruby": "<ruby>欠<rt>か</rt></ruby>かせない",
     "meaning": "欠かせない (かかせない)",
-    "ex_ja": "とても<ruby>欠<rt>か</rt></ruby>かせないと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 欠かせない (かかせない)."
+    "ex_ja": "毎朝淹れたてのブラックコーヒーを飲むことは、私の一日を前向きにスタートさせるために<ruby>欠かせない<rt>かかせない</rt></ruby>習慣だ。",
+    "ex_en": "Drinking a cup of freshly brewed black coffee every morning is an indispensable ritual for starting my day on a positive note."
   },
   {
     "id": "n2_v_2475",
@@ -39818,8 +39818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かぞえきれない",
     "ruby": "<ruby>数え切<rt>かぞえき</rt></ruby>れない",
     "meaning": "数え切れない (かぞえきれない)",
-    "ex_ja": "とても<ruby>数え切<rt>かぞえき</rt></ruby>れないと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 数え切れない (かぞえきれない)."
+    "ex_ja": "標高の高い山頂から見上げた冬の夜空には、<ruby>数え切れない<rt>かぞえきれない</rt></ruby>ほどの無数の星が瞬いていた。",
+    "ex_en": "Looking up at the winter night sky from the high-altitude mountain summit, innumerable stars were twinkling endlessly."
   },
   {
     "id": "n2_v_2477",
@@ -39834,8 +39834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちっちゃい",
     "ruby": "ちっちゃい",
     "meaning": "ちっちゃい (ちっちゃい)",
-    "ex_ja": "とてもちっちゃいと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very ちっちゃい (ちっちゃい)."
+    "ex_ja": "妹が連れてきた生まれたばかりの子猫は、手のひらにすっぽり収まるほどちっちゃい体をしていた。",
+    "ex_en": "The newborn kitten my sister brought home had such a tiny body that it fit snugly in the palm of my hand."
   },
   {
     "id": "n2_v_2478",
@@ -40058,8 +40058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よわよわしい",
     "ruby": "<ruby>弱々<rt>よわよわ</rt></ruby>しい",
     "meaning": "弱々しい (よわよわしい)",
-    "ex_ja": "とても<ruby>弱々<rt>よわよわ</rt></ruby>しいと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 弱々しい (よわよわしい)."
+    "ex_ja": "手術を終えたばかりの友人はまだ顔色が悪く、ベッドの上から<ruby>弱々しい<rt>よわよわしい</rt></ruby>声で「無事に終わったよ」と微笑んだ。",
+    "ex_en": "Having just finished surgery, my friend was still pale and whispered \"It went well\" with a faint, weak smile from the hospital bed."
   },
   {
     "id": "n2_v_2492",
@@ -40106,8 +40106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あいまいな",
     "ruby": "<ruby>曖昧<rt>あいまい</rt></ruby>な",
     "meaning": "曖昧な (あいまいな)",
-    "ex_ja": "とても<ruby>曖昧<rt>あいまい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 曖昧な (あいまいな)."
+    "ex_ja": "取引先からの仕様変更に関する質問に対して<ruby>曖昧な<rt>あいまいな</rt></ruby>回答をしてしまい、後日大きな誤解を生む原因となった。",
+    "ex_en": "Giving a vague response to the client's inquiry regarding specification changes led to a major misunderstanding later."
   },
   {
     "id": "n2_v_2495",
@@ -40122,8 +40122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいてきな",
     "ruby": "<ruby>快適<rt>かいてき</rt></ruby>な",
     "meaning": "快適な (かいてきな)",
-    "ex_ja": "とても<ruby>快適<rt>かいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 快適な (かいてきな)."
+    "ex_ja": "人間工学に基づいて設計された新しいオフィスチェアのおかげで、長時間のデスクワークでも<ruby>快適な<rt>かいてきな</rt></ruby>姿勢を保てる。",
+    "ex_en": "Thanks to the new ergonomic office chair, I can maintain a comfortable posture even during long hours of desk work."
   },
   {
     "id": "n2_v_2496",
@@ -40138,8 +40138,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あざやかな",
     "ruby": "<ruby>鮮<rt>あざ</rt></ruby>やかな",
     "meaning": "鮮やかな (あざやかな)",
-    "ex_ja": "とても<ruby>鮮<rt>あざ</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 鮮やかな (あざやかな)."
+    "ex_ja": "晴れ渡った秋空を背景に、山肌を彩る紅葉の<ruby>鮮やかな<rt>あざやかな</rt></ruby>赤や黄色が眩しいほどに輝いていた。",
+    "ex_en": "Against the backdrop of the clear autumn sky, the vivid reds and yellows of the autumn leaves adorning the mountainside shone brilliantly."
   },
   {
     "id": "n2_v_2497",
@@ -40154,8 +40154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいほうてきな",
     "ruby": "<ruby>開放的<rt>かいほうてき</rt></ruby>な",
     "meaning": "開放的な (かいほうてきな)",
-    "ex_ja": "とても<ruby>開放的<rt>かいほうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 開放的な (かいほうてきな)."
+    "ex_ja": "海に面したそのリゾートホテルは、大きなガラス窓から心地よい潮風が入り込む<ruby>開放的な<rt>かいほうてきな</rt></ruby>空間が魅力的だ。",
+    "ex_en": "The oceanfront resort hotel is charming for its open, airy space where pleasant sea breezes drift in through large glass windows."
   },
   {
     "id": "n2_v_2498",
@@ -40170,8 +40170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あっとうてきな",
     "ruby": "<ruby>圧倒的<rt>あっとうてき</rt></ruby>な",
     "meaning": "圧倒的な (あっとうてきな)",
-    "ex_ja": "とても<ruby>圧倒的<rt>あっとうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 圧倒的な (あっとうてきな)."
+    "ex_ja": "その新鋭企業は画期的な技術力と<ruby>圧倒的な<rt>あっとうてきな</rt></ruby>スピード感で、従来の市場シェアを瞬く間に奪い取った。",
+    "ex_en": "With groundbreaking technical capabilities and an overwhelming sense of speed, the emerging startup quickly seized conventional market share."
   },
   {
     "id": "n2_v_2499",
@@ -40186,8 +40186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくべつな",
     "ruby": "<ruby>格別<rt>かくべつ</rt></ruby>な",
     "meaning": "格別な (かくべつな)",
-    "ex_ja": "とても<ruby>格別<rt>かくべつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 格別な (かくべつな)."
+    "ex_ja": "炎天下での厳しい農作業を終えた後に木陰でいただく冷たい麦茶は、何ものにも代えがたい<ruby>格別な<rt>かくべつな</rt></ruby>美味しさだった。",
+    "ex_en": "The cold barley tea enjoyed in the shade of a tree after arduous farm work under the scorching sun tasted exceptionally delicious beyond compare."
   },
   {
     "id": "n2_v_2500",
@@ -40202,8 +40202,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あらたな",
     "ruby": "<ruby>新<rt>あら</rt></ruby>たな",
     "meaning": "新たな (あらたな)",
-    "ex_ja": "とても<ruby>新<rt>あら</rt></ruby>たなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 新たな (あらたな)."
+    "ex_ja": "長年培った営業経験を活かし、来期から立ち上がる新規事業プロジェクトで<ruby>新たな<rt>あらたな</rt></ruby>挑戦を始めることにした。",
+    "ex_en": "Leveraging the sales experience gained over many years, I decided to take on a fresh challenge in the new business project launching next term."
   },
   {
     "id": "n2_v_2501",
@@ -40218,8 +40218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かげきな",
     "ruby": "<ruby>過激<rt>かげき</rt></ruby>な",
     "meaning": "過激な (かげきな)",
-    "ex_ja": "とても<ruby>過激<rt>かげき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 過激な (かげきな)."
+    "ex_ja": "注目を集めたいからといってSNS上に<ruby>過激な<rt>かげきな</rt></ruby>投稿を繰り返すと、社会的信用を一瞬で失う恐れがある。",
+    "ex_en": "Repeatedly making extreme posts on social media simply to attract attention carries the risk of losing social credibility in an instant."
   },
   {
     "id": "n2_v_2502",
@@ -40234,8 +40234,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ありがちな",
     "ruby": "ありがちな",
     "meaning": "ありがちな (ありがちな)",
-    "ex_ja": "とてもありがちなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very ありがちな (ありがちな)."
+    "ex_ja": "締切直前に慌てて作業したせいで添付ファイルを送り忘れるのは、多忙なビジネスパーソンにありがちな失敗だ。",
+    "ex_en": "Forgetting to attach a file due to rushing right before a deadline is a common mistake typical of busy business professionals."
   },
   {
     "id": "n2_v_2503",
@@ -40250,8 +40250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かじょうな",
     "ruby": "<ruby>過剰<rt>かじょう</rt></ruby>な",
     "meaning": "過剰な (かじょうな)",
-    "ex_ja": "とても<ruby>過剰<rt>かじょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 過剰な (かじょうな)."
+    "ex_ja": "消費者の環境意識が高まる中、多くの小売店がプラスチック包装などの<ruby>過剰な<rt>かじょうな</rt></ruby>資材を削減する取り組みを進めている。",
+    "ex_en": "As consumer environmental awareness rises, many retailers are advancing initiatives to cut down on excessive packaging materials such as plastics."
   },
   {
     "id": "n2_v_2504",
@@ -40266,8 +40266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あわれな",
     "ruby": "あわれな",
     "meaning": "あわれな (あわれな)",
-    "ex_ja": "とてもあわれなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very あわれな (あわれな)."
+    "ex_ja": "大雨に濡れて段ボール箱の中で震えていたあわれな捨て猫を見かねて、家族と相談して引き取ることにした。",
+    "ex_en": "Unable to ignore the pitiful abandoned cat shivering in a cardboard box soaked by heavy rain, I consulted with my family and decided to adopt it."
   },
   {
     "id": "n2_v_2505",
@@ -40282,8 +40282,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かすかな",
     "ruby": "かすかな",
     "meaning": "かすかな (かすかな)",
-    "ex_ja": "とてもかすかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very かすかな (かすかな)."
+    "ex_ja": "深夜の静まり返った書斎で作業をしていると、遠くの線路を走る貨物列車のかすかな走行音が耳に届いた。",
+    "ex_en": "Working in the silent study late at night, the faint sound of a distant freight train running along the tracks reached my ears."
   },
   {
     "id": "n2_v_2506",
@@ -40298,8 +40298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あんいな",
     "ruby": "<ruby>安易<rt>あんい</rt></ruby>な",
     "meaning": "安易な (あんいな)",
-    "ex_ja": "とても<ruby>安易<rt>あんい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 安易な (あんいな)."
+    "ex_ja": "十分な裏付け調査もせずに<ruby>安易な<rt>あんいな</rt></ruby>判断を下してしまうと、将来的に会社全体へ深刻な損害をもたらしかねない。",
+    "ex_en": "Making an easy, ill-considered decision without sufficient background research could lead to serious damage to the entire company in the long run."
   },
   {
     "id": "n2_v_2507",
@@ -40314,8 +40314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かってな",
     "ruby": "<ruby>勝手<rt>かって</rt></ruby>な",
     "meaning": "勝手な (かってな)",
-    "ex_ja": "とても<ruby>勝手<rt>かって</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 勝手な (かってな)."
+    "ex_ja": "共同で進めている研究開発において、チームの合意を得ずに個人の<ruby>勝手な<rt>かってな</rt></ruby>都合で計画を変更してはならない。",
+    "ex_en": "In joint research and development, one must not alter plans for selfish personal convenience without obtaining the team's agreement."
   },
   {
     "id": "n2_v_2508",
@@ -40330,8 +40330,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あんかな",
     "ruby": "<ruby>安価<rt>あんか</rt></ruby>な",
     "meaning": "安価な (あんかな)",
-    "ex_ja": "とても<ruby>安価<rt>あんか</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 安価な (あんかな)."
+    "ex_ja": "海外のサプライヤーから<ruby>安価な<rt>あんかな</rt></ruby>部品を安定して調達できたことで、新製品の製造コストを大幅に引き下げることができた。",
+    "ex_en": "Securing a stable supply of inexpensive parts from an overseas supplier allowed us to significantly lower the manufacturing cost of the new product."
   },
   {
     "id": "n2_v_2509",
@@ -40346,8 +40346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かっぱつな",
     "ruby": "<ruby>活発<rt>かっぱつ</rt></ruby>な",
     "meaning": "活発な (かっぱつな)",
-    "ex_ja": "とても<ruby>活発<rt>かっぱつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 活発な (かっぱつな)."
+    "ex_ja": "新規サービスの企画会議では若手社員からもユニークな意見が次々と飛び出し、終始<ruby>活発な<rt>かっぱつな</rt></ruby>議論が繰り広げられた。",
+    "ex_en": "At the planning meeting for the new service, young employees brought forth unique ideas one after another, generating a lively and spirited discussion throughout."
   },
   {
     "id": "n2_v_2510",
@@ -40362,8 +40362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっぽうてきな",
     "ruby": "<ruby>一方的<rt>いっぽうてき</rt></ruby>な",
     "meaning": "一方的な (いっぽうてきな)",
-    "ex_ja": "とても<ruby>一方的<rt>いっぽうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 一方的な (いっぽうてきな)."
+    "ex_ja": "十分な話し合いの機会も持たずに<ruby>一方的な<rt>いっぽうてきな</rt></ruby>通告だけで契約を解除するのは、長年の信頼関係を損なう行為だ。",
+    "ex_en": "Terminating a contract with merely a unilateral notice without providing an opportunity for thorough discussions undermines a long-standing trust relationship."
   },
   {
     "id": "n2_v_2511",
@@ -40378,8 +40378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かどな",
     "ruby": "<ruby>過度<rt>かど</rt></ruby>な",
     "meaning": "過度な (かどな)",
-    "ex_ja": "とても<ruby>過度<rt>かど</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 過度な (かどな)."
+    "ex_ja": "完璧を目指すあまり<ruby>過度な<rt>かどな</rt></ruby>プレッシャーを自分自身にかけ続けると、精神的な負担から体調を崩してしまう。",
+    "ex_en": "Constantly placing excessive pressure on yourself in pursuit of perfection can take a mental toll and harm your health."
   },
   {
     "id": "n2_v_2512",
@@ -40394,8 +40394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いとてきな",
     "ruby": "<ruby>意図的<rt>いとてき</rt></ruby>な",
     "meaning": "意図的な (いとてきな)",
-    "ex_ja": "とても<ruby>意図的<rt>いとてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 意図的な (いとてきな)."
+    "ex_ja": "財務諸表における売上データの食い違いは単純な計算ミスではなく、税金を逃れるための<ruby>意図的な<rt>いとてきな</rt></ruby>隠蔽工作だった。",
+    "ex_en": "The discrepancy in sales figures on the financial statements was not a simple calculation error, but a deliberate cover-up to evade taxes."
   },
   {
     "id": "n2_v_2513",
@@ -40410,8 +40410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんけつな",
     "ruby": "<ruby>簡潔<rt>かんけつ</rt></ruby>な",
     "meaning": "簡潔な (かんけつな)",
-    "ex_ja": "とても<ruby>簡潔<rt>かんけつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 簡潔な (かんけつな)."
+    "ex_ja": "多忙な経営陣に迅速な意思決定を促すため、数十ページに及ぶ調査結果をA4用紙一枚の<ruby>簡潔な<rt>かんけつな</rt></ruby>要約にまとめた。",
+    "ex_en": "To facilitate prompt decision-making by busy executives, I distilled the dozen-page survey results into a concise one-page summary."
   },
   {
     "id": "n2_v_2514",
@@ -40426,8 +40426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えんまんな",
     "ruby": "<ruby>円満<rt>えんまん</rt></ruby>な",
     "meaning": "円満な (えんまんな)",
-    "ex_ja": "とても<ruby>円満<rt>えんまん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 円満な (えんまんな)."
+    "ex_ja": "後任への丁寧な業務引き継ぎとクライアントへの挨拶を済ませ、周囲に温かく見送られて<ruby>円満な<rt>えんまんな</rt></ruby>退職を迎えた。",
+    "ex_en": "Having completed a thorough handover to my successor and farewell visits to clients, I achieved an amicable departure warmly sent off by colleagues."
   },
   {
     "id": "n2_v_2515",
@@ -40442,8 +40442,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんぺきな",
     "ruby": "<ruby>完璧<rt>かんぺき</rt></ruby>な",
     "meaning": "完璧な (かんぺきな)",
-    "ex_ja": "とても<ruby>完璧<rt>かんぺき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 完璧な (かんぺきな)."
+    "ex_ja": "何ヶ月も前から入念に準備を進めてきたおかげで、国際会議の運営はトラブルもなく<ruby>完璧な<rt>かんぺきな</rt></ruby>成功を収めた。",
+    "ex_en": "Thanks to meticulous preparations made months in advance, the organization of the international conference achieved flawless success without any issues."
   },
   {
     "id": "n2_v_2516",
@@ -40458,8 +40458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おおげさな",
     "ruby": "<ruby>大<rt>おお</rt></ruby>げさな",
     "meaning": "大げさな (おおげさな)",
-    "ex_ja": "とても<ruby>大<rt>おお</rt></ruby>げさなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 大げさな (おおげさな)."
+    "ex_ja": "彼は指先に小さな擦り傷を負っただけなのに、まるで大怪我でもしたかのように<ruby>大げさな<rt>おおげさな</rt></ruby>包帯を巻いて出社した。",
+    "ex_en": "Despite having only a minor scratch on his fingertip, he came to work sporting an exaggerated bandage as if he had suffered a major injury."
   },
   {
     "id": "n2_v_2517",
@@ -40474,8 +40474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がんじょうな",
     "ruby": "<ruby>頑丈<rt>がんじょう</rt></ruby>な",
     "meaning": "頑丈な (がんじょうな)",
-    "ex_ja": "とても<ruby>頑丈<rt>がんじょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 頑丈な (がんじょうな)."
+    "ex_ja": "このアウトドア用バックパックは特殊な<ruby>頑丈な<rt>がんじょうな</rt></ruby>ナイロン生地で縫製されており、過酷な登山環境でも破れる心配がない。",
+    "ex_en": "This outdoor backpack is sewn from a special, sturdy nylon fabric, leaving no fear of tearing even in harsh mountaineering conditions."
   },
   {
     "id": "n2_v_2518",
@@ -40490,8 +40490,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おおはばな",
     "ruby": "<ruby>大幅<rt>おおはば</rt></ruby>な",
     "meaning": "大幅な (おおはばな)",
-    "ex_ja": "とても<ruby>大幅<rt>おおはば</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 大幅な (おおはばな)."
+    "ex_ja": "物流管理システムの自動化を全面的に導入した結果、出荷作業にかかる時間の<ruby>大幅な<rt>おおはばな</rt></ruby>短縮を実現した。",
+    "ex_en": "As a result of fully introducing an automated logistics management system, we achieved a substantial reduction in shipping processing time."
   },
   {
     "id": "n2_v_2519",
@@ -40506,8 +40506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きばつな",
     "ruby": "<ruby>奇抜<rt>きばつ</rt></ruby>な",
     "meaning": "奇抜な (きばつな)",
-    "ex_ja": "とても<ruby>奇抜<rt>きばつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 奇抜な (きばつな)."
+    "ex_ja": "その現代美術の展示会では、日常の廃材を組み合わせた<ruby>奇抜な<rt>きばつな</rt></ruby>デザインの彫刻が来場者の注目を集めていた。",
+    "ex_en": "At the contemporary art exhibition, unconventional sculptures combining discarded everyday materials attracted visitors' attention."
   },
   {
     "id": "n2_v_2520",
@@ -40522,8 +40522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おおまかな",
     "ruby": "<ruby>大<rt>おお</rt></ruby>まかな",
     "meaning": "大まかな (おおまかな)",
-    "ex_ja": "とても<ruby>大<rt>おお</rt></ruby>まかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 大まかな (おおまかな)."
+    "ex_ja": "詳細な設計書を作成する前に、まずはクライアントにシステム全体の構成と<ruby>大まかな<rt>おおまかな</rt></ruby>費用の見積もりを提示した。",
+    "ex_en": "Before drawing up detailed design specifications, we first presented the overall system architecture and a rough cost estimate to the client."
   },
   {
     "id": "n2_v_2521",
@@ -40538,8 +40538,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きびんな",
     "ruby": "<ruby>機敏<rt>きびん</rt></ruby>な",
     "meaning": "機敏な (きびんな)",
-    "ex_ja": "とても<ruby>機敏<rt>きびん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 機敏な (きびんな)."
+    "ex_ja": "突然の地震発生時にも館内アナウンスの担当者は<ruby>機敏な<rt>きびんな</rt></ruby>対応を取り、館内の来場者を安全な広場へと速やかに誘導した。",
+    "ex_en": "When the sudden earthquake struck, the announcer took prompt, agile action, swiftly guiding visitors inside the venue to a safe plaza."
   },
   {
     "id": "n2_v_2522",
@@ -40554,8 +40554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おくびょうな",
     "ruby": "<ruby>臆病<rt>おくびょう</rt></ruby>な",
     "meaning": "臆病な (おくびょうな)",
-    "ex_ja": "とても<ruby>臆病<rt>おくびょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 臆病な (おくびょうな)."
+    "ex_ja": "彼は新しい事業への挑戦に対して<ruby>臆病な<rt>おくびょうな</rt></ruby>態度を崩さず、前例のない試みにはなかなか踏み出そうとしない。",
+    "ex_en": "He maintains a timid attitude toward taking on new business ventures and is hesitant to embark on unprecedented initiatives."
   },
   {
     "id": "n2_v_2523",
@@ -40570,8 +40570,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゃっかんてきな",
     "ruby": "<ruby>客観的<rt>きゃっかんてき</rt></ruby>な",
     "meaning": "客観的な (きゃっかんてきな)",
-    "ex_ja": "とても<ruby>客観的<rt>きゃっかんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 客観的な (きゃっかんてきな)."
+    "ex_ja": "感情的な意見に惑わされることなく、アンケート調査から得られた<ruby>客観的な<rt>きゃっかんてきな</rt></ruby>データに基づいて新商品の改善策を検討した。",
+    "ex_en": "Without being swayed by emotional opinions, we examined improvement plans for the new product based on objective data gathered from surveys."
   },
   {
     "id": "n2_v_2524",
@@ -40586,8 +40586,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おだやかな",
     "ruby": "<ruby>穏<rt>おだ</rt></ruby>やかな",
     "meaning": "穏やかな (おだやかな)",
-    "ex_ja": "とても<ruby>穏<rt>おだ</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 穏やかな (おだやかな)."
+    "ex_ja": "海風が心地よい<ruby>穏やかな<rt>おだやかな</rt></ruby>春の午後、波打ち際を散歩しながらのんびりと水平線を眺めて過ごした。",
+    "ex_en": "On a calm, gentle spring afternoon with a pleasant sea breeze, I spent time strolling along the water's edge and peacefully gazing at the horizon."
   },
   {
     "id": "n2_v_2525",
@@ -40602,8 +40602,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうげきな",
     "ruby": "<ruby>急激<rt>きゅうげき</rt></ruby>な",
     "meaning": "急激な (きゅうげきな)",
-    "ex_ja": "とても<ruby>急激<rt>きゅうげき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 急激な (きゅうげきな)."
+    "ex_ja": "外為市場での<ruby>急激な<rt>きゅうげきな</rt></ruby>円高の進行により、輸出を中心とする製造業の業績に一時的な影響が出ている。",
+    "ex_en": "Due to the sharp, rapid appreciation of the yen in the foreign exchange market, export-oriented manufacturers have seen a temporary impact on their performance."
   },
   {
     "id": "n2_v_2526",
@@ -40618,8 +40618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おとくな",
     "ruby": "お<ruby>得な<rt>とくな</rt></ruby>",
     "meaning": "お得な (おとくな)",
-    "ex_ja": "とてもお<ruby>得な<rt>とくな</rt></ruby>と<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very お得な (おとくな)."
+    "ex_ja": "平日のランチタイム限定で提供されるセットメニューは、メイン料理にスープとサラダがついて非常に安価で<ruby>お得な<rt>おとくな</rt></ruby>内容だ。",
+    "ex_en": "The set menu offered exclusively during weekday lunch hours includes soup and salad with the main dish, making it exceptionally economical and great value."
   },
   {
     "id": "n2_v_2527",
@@ -40634,8 +40634,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうそくな",
     "ruby": "<ruby>急速<rt>きゅうそく</rt></ruby>な",
     "meaning": "急速な (きゅうそくな)",
-    "ex_ja": "とても<ruby>急速<rt>きゅうそく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 急速な (きゅうそくな)."
+    "ex_ja": "生成AIをはじめとするテクノロジーの<ruby>急速な<rt>きゅうそくな</rt></ruby>普及は、従来のビジネスモデルを根底から塗り替えつつある。",
+    "ex_en": "The rapid spread of technologies such as generative AI is fundamentally transforming conventional business models."
   },
   {
     "id": "n2_v_2528",
@@ -40650,8 +40650,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おんだんな",
     "ruby": "<ruby>温暖<rt>おんだん</rt></ruby>な",
     "meaning": "温暖な (おんだんな)",
-    "ex_ja": "とても<ruby>温暖<rt>おんだん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 温暖な (おんだんな)."
+    "ex_ja": "瀬戸内海沿岸の地域は年間を通じて雨が少なく<ruby>温暖な<rt>おんだんな</rt></ruby>気候に恵まれており、オリーブの栽培に適している。",
+    "ex_en": "The coastal regions along the Seto Inland Sea enjoy a mild, temperate climate with little rainfall throughout the year, making them well-suited for olive cultivation."
   },
   {
     "id": "n2_v_2529",
@@ -40666,8 +40666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょうりょくな",
     "ruby": "<ruby>強力<rt>きょうりょく</rt></ruby>な",
     "meaning": "強力な (きょうりょくな)",
-    "ex_ja": "とても<ruby>強力<rt>きょうりょく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 強力な (きょうりょくな)."
+    "ex_ja": "業界トップの研究機関と<ruby>強力な<rt>きょうりょくな</rt></ruby>パートナーシップを結んだことで、新薬の共同開発が飛躍的に加速した。",
+    "ex_en": "By establishing a powerful partnership with a leading research institution, the joint development of the new medication accelerated dramatically."
   },
   {
     "id": "n2_v_2530",
@@ -40682,8 +40682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょだいな",
     "ruby": "<ruby>巨大<rt>きょだい</rt></ruby>な",
     "meaning": "巨大な (きょだいな)",
-    "ex_ja": "とても<ruby>巨大<rt>きょだい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 巨大な (きょだいな)."
+    "ex_ja": "都心のウォーターフロント地区に、最新の商業施設と高層オフィスを備えた<ruby>巨大な<rt>きょだいな</rt></ruby>複合ビルが建設された。",
+    "ex_en": "In the downtown waterfront district, a massive multi-use complex featuring state-of-the-art commercial facilities and high-rise offices was constructed."
   },
   {
     "id": "n2_v_2531",
@@ -40698,8 +40698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じじてきな",
     "ruby": "<ruby>時事的<rt>じじてき</rt></ruby>な",
     "meaning": "時事的な (じじてきな)",
-    "ex_ja": "とても<ruby>時事的<rt>じじてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 時事的な (じじてきな)."
+    "ex_ja": "朝の読書会では、国際政治や環境問題といった<ruby>時事的な<rt>じじてきな</rt></ruby>ニュースを取り上げ、各自の視点から意見を交換している。",
+    "ex_en": "At the morning reading group, we select topical news stories concerning international politics and environmental issues to exchange views from our respective perspectives."
   },
   {
     "id": "n2_v_2532",
@@ -40714,8 +40714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きらくな",
     "ruby": "<ruby>気楽<rt>きらく</rt></ruby>な",
     "meaning": "気楽な (きらくな)",
-    "ex_ja": "とても<ruby>気楽<rt>きらく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 気楽な (きらくな)."
+    "ex_ja": "会社の肩書きを忘れて本音で語り合える昔からの親友とは、何でも相談できる<ruby>気楽な<rt>きらくな</rt></ruby>関係が続いている。",
+    "ex_en": "With my old friend with whom I can speak candidly without corporate titles, I have maintained an easygoing relationship where we can consult each other about anything."
   },
   {
     "id": "n2_v_2533",
@@ -40730,8 +40730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうなんな",
     "ruby": "<ruby>柔軟<rt>じゅうなん</rt></ruby>な",
     "meaning": "柔軟な (じゅうなんな)",
-    "ex_ja": "とても<ruby>柔軟<rt>じゅうなん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 柔軟な (じゅうなんな)."
+    "ex_ja": "刻一刻と変化する市場環境の中で生き残るためには、固定観念にとらわれない<ruby>柔軟な<rt>じゅうなんな</rt></ruby>発想と迅速な行動が欠かせない。",
+    "ex_en": "In order to survive in an ever-changing market environment, flexible thinking free from preconceived notions and swift action are indispensable."
   },
   {
     "id": "n2_v_2534",
@@ -40746,8 +40746,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんきょな",
     "ruby": "<ruby>謙虚<rt>けんきょ</rt></ruby>な",
     "meaning": "謙虚な (けんきょな)",
-    "ex_ja": "とても<ruby>謙虚<rt>けんきょ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 謙虚な (けんきょな)."
+    "ex_ja": "彼は大きなコンテストで最優秀賞を獲得した後も少しも威張ることなく、周囲のアドバイスに耳を傾ける<ruby>謙虚な<rt>けんきょな</rt></ruby>姿勢を保っている。",
+    "ex_en": "Even after winning the top award in a major competition, he does not act boastful in the least and maintains a humble attitude of listening to feedback from those around him."
   },
   {
     "id": "n2_v_2535",
@@ -40762,8 +40762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうぶんな",
     "ruby": "<ruby>充分<rt>じゅうぶん</rt></ruby>な",
     "meaning": "充分な (じゅうぶんな)",
-    "ex_ja": "とても<ruby>充分<rt>じゅうぶん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 充分な (じゅうぶんな)."
+    "ex_ja": "重要な試験の前夜は夜更かしを避け、翌日に頭が冴えた状態で臨めるよう<ruby>充分な<rt>じゅうぶんな</rt></ruby>睡眠時間を確保した。",
+    "ex_en": "On the night before the crucial exam, I avoided staying up late and secured sufficient sleep to tackle it with a clear head the next day."
   },
   {
     "id": "n2_v_2536",
@@ -40778,8 +40778,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうちょうな",
     "ruby": "<ruby>好調<rt>こうちょう</rt></ruby>な",
     "meaning": "好調な (こうちょうな)",
-    "ex_ja": "とても<ruby>好調<rt>こうちょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 好調な (こうちょうな)."
+    "ex_ja": "欧米市場における新型ハイブリッド車の<ruby>好調な<rt>こうちょうな</rt></ruby>販売に支えられ、自動車メーカーの今期決算は大幅な増益となった。",
+    "ex_en": "Backed by strong sales of the new hybrid model in European and North American markets, the automaker's financial results for this term showed a significant profit increase."
   },
   {
     "id": "n2_v_2537",
@@ -40794,8 +40794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すいちょくな",
     "ruby": "<ruby>垂直<rt>すいちょく</rt></ruby>な",
     "meaning": "垂直な (すいちょくな)",
-    "ex_ja": "とても<ruby>垂直<rt>すいちょく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 垂直な (すいちょくな)."
+    "ex_ja": "目の前に立ちはだかる高さ五十メートルの<ruby>垂直な<rt>すいちょくな</rt></ruby>岩壁を見上げ、クライマーたちは入念に登攀ルートを確認した。",
+    "ex_en": "Looking up at the fifty-meter-high vertical rock face towering directly before them, the climbers carefully reviewed their ascent route."
   },
   {
     "id": "n2_v_2538",
@@ -40810,8 +40810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうていてきな",
     "ruby": "<ruby>肯定的<rt>こうていてき</rt></ruby>な",
     "meaning": "肯定的な (こうていてきな)",
-    "ex_ja": "とても<ruby>肯定的<rt>こうていてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 肯定的な (こうていてきな)."
+    "ex_ja": "新規事業の立ち上げに関する提案は、役員会でも<ruby>肯定的な<rt>こうていてきな</rt></ruby>評価を得た。",
+    "ex_en": "The proposal for launching a new business received positive evaluations even from the board of directors."
   },
   {
     "id": "n2_v_2539",
@@ -40826,8 +40826,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すなおな",
     "ruby": "<ruby>素直<rt>すなお</rt></ruby>な",
     "meaning": "素直な (すなおな)",
-    "ex_ja": "とても<ruby>素直<rt>すなお</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 素直な (すなおな)."
+    "ex_ja": "先輩からの厳しい指摘にも反発せず、<ruby>素直な<rt>すなおな</rt></ruby>態度で耳を傾けた。",
+    "ex_en": "Rather than reacting defensively, he listened to the senior colleague's harsh feedback with an open and receptive attitude."
   },
   {
     "id": "n2_v_2540",
@@ -40842,8 +40842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうふくな",
     "ruby": "<ruby>幸福<rt>こうふく</rt></ruby>な",
     "meaning": "幸福な (こうふくな)",
-    "ex_ja": "とても<ruby>幸福<rt>こうふく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 幸福な (こうふくな)."
+    "ex_ja": "家族とともに穏やかな日々を過ごすことこそが、最も<ruby>幸福な<rt>こうふくな</rt></ruby>時間だと実感した。",
+    "ex_en": "She realized that spending peaceful days with her family was truly the happiest time of all."
   },
   {
     "id": "n2_v_2541",
@@ -40858,8 +40858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいかくな",
     "ruby": "<ruby>正確<rt>せいかく</rt></ruby>な",
     "meaning": "正確な (せいかくな)",
-    "ex_ja": "とても<ruby>正確<rt>せいかく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 正確な (せいかくな)."
+    "ex_ja": "事故の原因を究明するためには、現場の状況に関する<ruby>正確な<rt>せいかくな</rt></ruby>情報が欠かせない。",
+    "ex_en": "Accurate information regarding conditions at the scene is essential to determine the cause of the accident."
   },
   {
     "id": "n2_v_2542",
@@ -40874,8 +40874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こせいてきな",
     "ruby": "<ruby>個性的<rt>こせいてき</rt></ruby>な",
     "meaning": "個性的な (こせいてきな)",
-    "ex_ja": "とても<ruby>個性的<rt>こせいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 個性的な (こせいてきな)."
+    "ex_ja": "彼は<ruby>個性的な<rt>こせいてきな</rt></ruby>デザインの家具を次々と生み出し、海外のバイヤーからも高く評価されている。",
+    "ex_en": "He produces furniture with distinctive designs one after another, earning high praise from overseas buyers."
   },
   {
     "id": "n2_v_2543",
@@ -40890,8 +40890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいしきな",
     "ruby": "<ruby>正式<rt>せいしき</rt></ruby>な",
     "meaning": "正式な (せいしきな)",
-    "ex_ja": "とても<ruby>正式<rt>せいしき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 正式な (せいしきな)."
+    "ex_ja": "契約内容の最終調整が終わり次第、両社から<ruby>正式な<rt>せいしきな</rt></ruby>発表が行われる予定だ。",
+    "ex_en": "A formal announcement is scheduled to be made by both companies as soon as the final terms of the agreement are settled."
   },
   {
     "id": "n2_v_2544",
@@ -40906,8 +40906,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こまやかな",
     "ruby": "<ruby>細<rt>こま</rt></ruby>やかな",
     "meaning": "細やかな (こまやかな)",
-    "ex_ja": "とても<ruby>細<rt>こま</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 細やかな (こまやかな)."
+    "ex_ja": "その老舗旅館は、宿泊客の要望に先回りした<ruby>細やかな<rt>こまやかな</rt></ruby>気配りで高い評価を得ている。",
+    "ex_en": "The historic inn has earned high praise for its attentive hospitality, anticipating the needs of its guests."
   },
   {
     "id": "n2_v_2545",
@@ -40922,8 +40922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいしんてきな",
     "ruby": "<ruby>精神的<rt>せいしんてき</rt></ruby>な",
     "meaning": "精神的な (せいしんてきな)",
-    "ex_ja": "とても<ruby>精神的<rt>せいしんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 精神的な (せいしんてきな)."
+    "ex_ja": "納期に追われる激務が続き、肉体だけでなく<ruby>精神的な<rt>せいしんてきな</rt></ruby>負担も限界に近づいていた。",
+    "ex_en": "Under relentless pressure to meet tight deadlines, his mental stress approached its limit along with physical exhaustion."
   },
   {
     "id": "n2_v_2546",
@@ -40938,8 +40938,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こんなんな",
     "ruby": "<ruby>困難<rt>こんなん</rt></ruby>な",
     "meaning": "困難な (こんなんな)",
-    "ex_ja": "とても<ruby>困難<rt>こんなん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 困難な (こんなんな)."
+    "ex_ja": "厳しい予算制限のなかで工期を短縮するのは、極めて<ruby>困難な<rt>こんなんな</rt></ruby>挑戦だった。",
+    "ex_en": "Shortening the construction period under strict budget constraints was an extremely challenging undertaking."
   },
   {
     "id": "n2_v_2547",
@@ -40954,8 +40954,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぜんとたなんな",
     "ruby": "<ruby>前途多難<rt>ぜんとたなん</rt></ruby>な",
     "meaning": "前途多難な (ぜんとたなんな)",
-    "ex_ja": "とても<ruby>前途多難<rt>ぜんとたなん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 前途多難な (ぜんとたなんな)."
+    "ex_ja": "立ち上げ初日から主要メンバーが離脱するなど、新プロジェクトは<ruby>前途多難な<rt>ぜんとたなんな</rt></ruby>船出となった。",
+    "ex_en": "With key members dropping out from day one, the new project got off to a turbulent start full of obstacles ahead."
   },
   {
     "id": "n2_v_2548",
@@ -40970,8 +40970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごういんな",
     "ruby": "<ruby>強引<rt>ごういん</rt></ruby>な",
     "meaning": "強引な (ごういんな)",
-    "ex_ja": "とても<ruby>強引<rt>ごういん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 強引な (ごういんな)."
+    "ex_ja": "相手の都合を無視した<ruby>強引な<rt>ごういんな</rt></ruby>勧誘方法は、企業の信用を失う原因となる。",
+    "ex_en": "Aggressive sales tactics that ignore the customer's wishes will only damage a company's credibility."
   },
   {
     "id": "n2_v_2549",
@@ -40986,8 +40986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぜんめんてきな",
     "ruby": "<ruby>全面的<rt>ぜんめんてき</rt></ruby>な",
     "meaning": "全面的な (ぜんめんてきな)",
-    "ex_ja": "とても<ruby>全面的<rt>ぜんめんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 全面的な (ぜんめんてきな)."
+    "ex_ja": "新システムの導入を成功させるには、現場スタッフの<ruby>全面的な<rt>ぜんめんてきな</rt></ruby>協力が不可欠だ。",
+    "ex_en": "Full cooperation from frontline staff is indispensable to the successful rollout of the new system."
   },
   {
     "id": "n2_v_2550",
@@ -41002,8 +41002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごうかな",
     "ruby": "<ruby>豪華<rt>ごうか</rt></ruby>な",
     "meaning": "豪華な (ごうかな)",
-    "ex_ja": "とても<ruby>豪華<rt>ごうか</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 豪華な (ごうかな)."
+    "ex_ja": "創業記念パーティーでは、一流シェフの手による<ruby>豪華な<rt>ごうかな</rt></ruby>コース料理が振る舞われた。",
+    "ex_en": "A luxurious multi-course meal prepared by top chefs was served at the anniversary celebration."
   },
   {
     "id": "n2_v_2551",
@@ -41018,8 +41018,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうたいてきな",
     "ruby": "<ruby>相対的<rt>そうたいてき</rt></ruby>な",
     "meaning": "相対的な (そうたいてきな)",
-    "ex_ja": "とても<ruby>相対的<rt>そうたいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 相対的な (そうたいてきな)."
+    "ex_ja": "自社製品の強みを正確に把握するには、競合他社との<ruby>相対的な<rt>そうたいてきな</rt></ruby>比較が欠かせない。",
+    "ex_en": "A relative comparison with competitors is essential to accurately identify the strengths of our own products."
   },
   {
     "id": "n2_v_2552",
@@ -41034,8 +41034,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいあくな",
     "ruby": "<ruby>最悪<rt>さいあく</rt></ruby>な",
     "meaning": "最悪な (さいあくな)",
-    "ex_ja": "とても<ruby>最悪<rt>さいあく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 最悪な (さいあくな)."
+    "ex_ja": "交通渋滞に巻き込まれたうえに大雨に見舞われ、出張の滑り出しとしては<ruby>最悪な<rt>さいあくな</rt></ruby>状況だった。",
+    "ex_en": "Caught in heavy traffic and hit by a downpour, it was the worst possible start to the business trip."
   },
   {
     "id": "n2_v_2553",
@@ -41050,8 +41050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そっちょくな",
     "ruby": "<ruby>率直<rt>そっちょく</rt></ruby>な",
     "meaning": "率直な (そっちょくな)",
-    "ex_ja": "とても<ruby>率直<rt>そっちょく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 率直な (そっちょくな)."
+    "ex_ja": "会議では遠慮せず、試作品に対する<ruby>率直な<rt>そっちょくな</rt></ruby>感想を聞かせてほしい。",
+    "ex_en": "Please don't hold back in the meeting and give us your candid impressions of the prototype."
   },
   {
     "id": "n2_v_2554",
@@ -41066,8 +41066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいてきな",
     "ruby": "<ruby>最適<rt>さいてき</rt></ruby>な",
     "meaning": "最適な (さいてきな)",
-    "ex_ja": "とても<ruby>最適<rt>さいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 最適な (さいてきな)."
+    "ex_ja": "顧客の利用頻度や予算に合わせて、<ruby>最適な<rt>さいてきな</rt></ruby>料金プランを提案した。",
+    "ex_en": "We proposed an optimal pricing plan tailored to the customer's usage frequency and budget."
   },
   {
     "id": "n2_v_2555",
@@ -41082,8 +41082,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいらな",
     "ruby": "<ruby>平<rt>たい</rt></ruby>らな",
     "meaning": "平らな (たいらな)",
-    "ex_ja": "とても<ruby>平<rt>たい</rt></ruby>らなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 平らな (たいらな)."
+    "ex_ja": "テントを設営する際は、石を取り除いて地面が<ruby>平らな<rt>たいらな</rt></ruby>場所を選ぶ必要がある。",
+    "ex_en": "When pitching a tent, you need to clear away stones and choose a flat patch of ground."
   },
   {
     "id": "n2_v_2556",
@@ -41098,8 +41098,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ささやかな",
     "ruby": "ささやかな",
     "meaning": "ささやかな (ささやかな)",
-    "ex_ja": "とてもささやかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very ささやかな (ささやかな)."
+    "ex_ja": "日頃お世話になっている同僚へ、感謝の印としてささやかな贈り物を手渡した。",
+    "ex_en": "She handed a modest gift to a colleague as a small token of appreciation for their daily support."
   },
   {
     "id": "n2_v_2557",
@@ -41114,8 +41114,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たさいな",
     "ruby": "<ruby>多彩<rt>たさい</rt></ruby>な",
     "meaning": "多彩な (たさいな)",
-    "ex_ja": "とても<ruby>多彩<rt>たさい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 多彩な (たさいな)."
+    "ex_ja": "そのフェスティバルでは、世界各国から集まった<ruby>多彩な<rt>たさいな</rt></ruby>アーティストが演奏を披露した。",
+    "ex_en": "At the festival, a diverse lineup of artists from around the world gave performances."
   },
   {
     "id": "n2_v_2558",
@@ -41130,8 +41130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さわやかな",
     "ruby": "<ruby>爽<rt>さわ</rt></ruby>やかな",
     "meaning": "爽やかな (さわやかな)",
-    "ex_ja": "とても<ruby>爽<rt>さわ</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 爽やかな (さわやかな)."
+    "ex_ja": "朝の澄んだ空気のなか、<ruby>爽やかな<rt>さわやかな</rt></ruby>風を感じながら湖の周りをジョギングした。",
+    "ex_en": "In the crisp morning air, I jogged around the lake while feeling the refreshing breeze."
   },
   {
     "id": "n2_v_2559",
@@ -41146,8 +41146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たしゅたような",
     "ruby": "<ruby>多種多様<rt>たしゅたよう</rt></ruby>な",
     "meaning": "多種多様な (たしゅたような)",
-    "ex_ja": "とても<ruby>多種多様<rt>たしゅたよう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 多種多様な (たしゅたような)."
+    "ex_ja": "サンゴ礁の周辺には、<ruby>多種多様な<rt>たしゅたような</rt></ruby>海洋生物が生息している。",
+    "ex_en": "A wide variety of marine life inhabits the area surrounding the coral reef."
   },
   {
     "id": "n2_v_2560",
@@ -41162,8 +41162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しつてきな",
     "ruby": "<ruby>質的<rt>しつてき</rt></ruby>な",
     "meaning": "質的な (しつてきな)",
-    "ex_ja": "とても<ruby>質的<rt>しつてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 質的な (しつてきな)."
+    "ex_ja": "単に生産量を増やすだけでなく、サービスの<ruby>質的な<rt>しつてきな</rt></ruby>向上にも注力すべきだ。",
+    "ex_en": "Rather than merely increasing production volume, we should focus on the qualitative improvement of our services."
   },
   {
     "id": "n2_v_2561",
@@ -41178,8 +41178,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たような",
     "ruby": "<ruby>多様<rt>たよう</rt></ruby>な",
     "meaning": "多様な (たような)",
-    "ex_ja": "とても<ruby>多様<rt>たよう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 多様な (たような)."
+    "ex_ja": "社員のワークライフバランスを守るため、リモートワークなど<ruby>多様な<rt>たような</rt></ruby>働き方を導入した。",
+    "ex_en": "To protect employees' work-life balance, the company introduced diverse working styles such as remote work."
   },
   {
     "id": "n2_v_2562",
@@ -41194,8 +41194,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅうちゅうてきな",
     "ruby": "<ruby>集中的<rt>しゅうちゅうてき</rt></ruby>な",
     "meaning": "集中的な (しゅうちゅうてきな)",
-    "ex_ja": "とても<ruby>集中的<rt>しゅうちゅうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 集中的な (しゅうちゅうてきな)."
+    "ex_ja": "短期間で会話力を身につけるため、夏休みに<ruby>集中的な<rt>しゅうちゅうてきな</rt></ruby>語学トレーニングを受けた。",
+    "ex_en": "In order to acquire conversational fluency in a short period, he took an intensive language training course over the summer break."
   },
   {
     "id": "n2_v_2563",
@@ -41210,8 +41210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たりょうな",
     "ruby": "<ruby>多量<rt>たりょう</rt></ruby>な",
     "meaning": "多量な (たりょうな)",
-    "ex_ja": "とても<ruby>多量<rt>たりょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 多量な (たりょうな)."
+    "ex_ja": "震災の復旧現場では、毎日<ruby>多量な<rt>たりょうな</rt></ruby>瓦礫を分別して撤去する作業が続いている。",
+    "ex_en": "At the earthquake recovery site, the work of sorting and removing massive amounts of debris continues every day."
   },
   {
     "id": "n2_v_2564",
@@ -41226,8 +41226,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅたいてきな",
     "ruby": "<ruby>主体的<rt>しゅたいてき</rt></ruby>な",
     "meaning": "主体的な (しゅたいてきな)",
-    "ex_ja": "とても<ruby>主体的<rt>しゅたいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 主体的な (しゅたいてきな)."
+    "ex_ja": "指示を待つだけでなく、自ら課題を見つけて解決に向かう<ruby>主体的な<rt>しゅたいてきな</rt></ruby>姿勢が求められる。",
+    "ex_en": "Rather than just waiting for instructions, one is expected to take a proactive stance in identifying and solving problems on their own."
   },
   {
     "id": "n2_v_2565",
@@ -41242,8 +41242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんきてきな",
     "ruby": "<ruby>短期的<rt>たんきてき</rt></ruby>な",
     "meaning": "短期的な (たんきてきな)",
-    "ex_ja": "とても<ruby>短期的<rt>たんきてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 短期的な (たんきてきな)."
+    "ex_ja": "<ruby>短期的な<rt>たんきてきな</rt></ruby>利益ばかりを追い求めていると、企業の長期的な成長を見失ってしまう。",
+    "ex_en": "Chasing only short-term profits causes a company to lose sight of its long-term growth."
   },
   {
     "id": "n2_v_2566",
@@ -41258,8 +41258,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうきょくてきな",
     "ruby": "<ruby>消極的<rt>しょうきょくてき</rt></ruby>な",
     "meaning": "消極的な (しょうきょくてきな)",
-    "ex_ja": "とても<ruby>消極的<rt>しょうきょくてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 消極的な (しょうきょくてきな)."
+    "ex_ja": "失敗を恐れるあまり、新しい挑戦に対して<ruby>消極的な<rt>しょうきょくてきな</rt></ruby>態度をとってしまう社員が目立つ。",
+    "ex_en": "There is a notable number of employees who take a passive stance toward new challenges out of excessive fear of failure."
   },
   {
     "id": "n2_v_2567",
@@ -41274,8 +41274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だとうな",
     "ruby": "<ruby>妥当<rt>だとう</rt></ruby>な",
     "meaning": "妥当な (だとうな)",
-    "ex_ja": "とても<ruby>妥当<rt>だとう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 妥当な (だとうな)."
+    "ex_ja": "提供されるサービスの質と周辺相場を考慮すれば、この家賃設定は<ruby>妥当な<rt>だとうな</rt></ruby>ものだ。",
+    "ex_en": "Considering the quality of the service provided and local market rates, this rent is quite reasonable."
   },
   {
     "id": "n2_v_2568",
@@ -41290,8 +41290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうちょうてきな",
     "ruby": "<ruby>象徴的<rt>しょうちょうてき</rt></ruby>な",
     "meaning": "象徴的な (しょうちょうてきな)",
-    "ex_ja": "とても<ruby>象徴的<rt>しょうちょうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 象徴的な (しょうちょうてきな)."
+    "ex_ja": "歴史的な条約の調印式は、両国の関係改善を世界に示す<ruby>象徴的な<rt>しょうちょうてきな</rt></ruby>出来事となった。",
+    "ex_en": "The signing ceremony for the historic treaty was a symbolic event that demonstrated the improved relations between the two countries to the world."
   },
   {
     "id": "n2_v_2569",
@@ -41306,8 +41306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だんかいてきな",
     "ruby": "<ruby>段階的<rt>だんかいてき</rt></ruby>な",
     "meaning": "段階的な (だんかいてきな)",
-    "ex_ja": "とても<ruby>段階的<rt>だんかいてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 段階的な (だんかいてきな)."
+    "ex_ja": "住民の混乱を避けるため、新制度への移行は３年かけて<ruby>段階的な<rt>だんかいてきな</rt></ruby>形で行われる。",
+    "ex_en": "To avoid confusing residents, the transition to the new system will be carried out in a phased manner over three years."
   },
   {
     "id": "n2_v_2570",
@@ -41322,8 +41322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんこくな",
     "ruby": "<ruby>深刻<rt>しんこく</rt></ruby>な",
     "meaning": "深刻な (しんこくな)",
-    "ex_ja": "とても<ruby>深刻<rt>しんこく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 深刻な (しんこくな)."
+    "ex_ja": "地方の製造業では、若年層の流出による<ruby>深刻な<rt>しんこくな</rt></ruby>人手不足が続いている。",
+    "ex_en": "In regional manufacturing, a serious labor shortage continues due to the outflow of younger workers."
   },
   {
     "id": "n2_v_2571",
@@ -41338,8 +41338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゃくじつな",
     "ruby": "<ruby>着実<rt>ちゃくじつ</rt></ruby>な",
     "meaning": "着実な (ちゃくじつな)",
-    "ex_ja": "とても<ruby>着実<rt>ちゃくじつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 着実な (ちゃくじつな)."
+    "ex_ja": "基礎練習を毎日地道に積み重ねることで、彼女の演奏技術は<ruby>着実な<rt>ちゃくじつな</rt></ruby>進歩を遂げた。",
+    "ex_en": "By diligently building up daily practice fundamentals, her playing technique made steady progress."
   },
   {
     "id": "n2_v_2572",
@@ -41354,8 +41354,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じこちゅうしんてきな",
     "ruby": "<ruby>自己中心的<rt>じこちゅうしんてき</rt></ruby>な",
     "meaning": "自己中心的な (じこちゅうしんてきな)",
-    "ex_ja": "とても<ruby>自己中心的<rt>じこちゅうしんてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 自己中心的な (じこちゅうしんてきな)."
+    "ex_ja": "チーム全体の利益を考えず、自分勝手な都合ばかりを主張する<ruby>自己中心的な<rt>じこちゅうしんてきな</rt></ruby>振る舞いは許されない。",
+    "ex_en": "Self-centered behavior that disregards the team's shared interests and pushes only personal convenience cannot be tolerated."
   },
   {
     "id": "n2_v_2573",
@@ -41370,8 +41370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゅうしょうてきな",
     "ruby": "<ruby>抽象的<rt>ちゅうしょうてき</rt></ruby>な",
     "meaning": "抽象的な (ちゅうしょうてきな)",
-    "ex_ja": "とても<ruby>抽象的<rt>ちゅうしょうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 抽象的な (ちゅうしょうてきな)."
+    "ex_ja": "<ruby>抽象的な<rt>ちゅうしょうてきな</rt></ruby>議論ばかりでは理解しにくいため、具体的な事例を挙げて説明してほしい。",
+    "ex_en": "Purely abstract arguments make it difficult to follow, so please explain using concrete examples."
   },
   {
     "id": "n2_v_2574",
@@ -41386,8 +41386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てがるな",
     "ruby": "<ruby>手軽<rt>てがる</rt></ruby>な",
     "meaning": "手軽な (てがるな)",
-    "ex_ja": "とても<ruby>手軽<rt>てがる</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 手軽な (てがるな)."
+    "ex_ja": "電子レンジで温めるだけで栄養バランスの取れた食事ができる、<ruby>手軽な<rt>てがるな</rt></ruby>冷凍食品が人気を集めている。",
+    "ex_en": "Convenient frozen meals that offer balanced nutrition just by microwaving have been gaining popularity."
   },
   {
     "id": "n2_v_2575",
@@ -41402,8 +41402,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "びみょうな",
     "ruby": "<ruby>微妙<rt>びみょう</rt></ruby>な",
     "meaning": "微妙な (びみょうな)",
-    "ex_ja": "とても<ruby>微妙<rt>びみょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 微妙な (びみょうな)."
+    "ex_ja": "翻訳の際には、単語の持つ<ruby>微妙な<rt>びみょうな</rt></ruby>ニュアンスの違いを慎重に汲み取らなければならない。",
+    "ex_en": "When translating, you must carefully grasp the subtle differences in nuance that words carry."
   },
   {
     "id": "n2_v_2576",
@@ -41418,8 +41418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てきかくな",
     "ruby": "<ruby>的確<rt>てきかく</rt></ruby>な",
     "meaning": "的確な (てきかくな)",
-    "ex_ja": "とても<ruby>的確<rt>てきかく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 的確な (てきかくな)."
+    "ex_ja": "予期せぬトラブルが発生した際、リーダーの<ruby>的確な<rt>てきかくな</rt></ruby>指示によって被害を最小限に抑えられた。",
+    "ex_en": "When unexpected trouble arose, the leader's precise instructions helped keep the damage to a minimum."
   },
   {
     "id": "n2_v_2577",
@@ -41434,8 +41434,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "びんかんな",
     "ruby": "<ruby>敏感<rt>びんかん</rt></ruby>な",
     "meaning": "敏感な (びんかんな)",
-    "ex_ja": "とても<ruby>敏感<rt>びんかん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 敏感な (びんかんな)."
+    "ex_ja": "彼女は流行に<ruby>敏感な<rt>びんかんな</rt></ruby>若い世代に向けて、SNSを活用した新しいマーケティング手法を打ち出した。",
+    "ex_en": "She launched a new social media marketing approach aimed at the younger generation, who are highly sensitive to the latest trends."
   },
   {
     "id": "n2_v_2578",
@@ -41450,8 +41450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てきせつな",
     "ruby": "<ruby>適切<rt>てきせつ</rt></ruby>な",
     "meaning": "適切な (てきせつな)",
-    "ex_ja": "とても<ruby>適切<rt>てきせつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 適切な (てきせつな)."
+    "ex_ja": "クレームの連絡を受けた際は、初動で<ruby>適切な<rt>てきせつな</rt></ruby>対応を取ることが二次被害の防止につながる。",
+    "ex_en": "When receiving a customer complaint, taking appropriate action in the initial response helps prevent further escalation."
   },
   {
     "id": "n2_v_2579",
@@ -41466,8 +41466,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふちょうな",
     "ruby": "<ruby>不調<rt>ふちょう</rt></ruby>な",
     "meaning": "不調な (ふちょうな)",
-    "ex_ja": "とても<ruby>不調<rt>ふちょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 不調な (ふちょうな)."
+    "ex_ja": "エース打者が<ruby>不調な<rt>ふちょうな</rt></ruby>時期を乗り越え、チーム全員の粘り強い守備で勝利を掴み取った。",
+    "ex_en": "Weathering the period when their star batter was in a slump, the team seized victory through tenacious defense by all players."
   },
   {
     "id": "n2_v_2580",
@@ -41482,8 +41482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てきとうな",
     "ruby": "<ruby>適当<rt>てきとう</rt></ruby>な",
     "meaning": "適当な (てきとうな)",
-    "ex_ja": "とても<ruby>適当<rt>てきとう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 適当な (てきとうな)."
+    "ex_ja": "海外進出にあたっては、現地の事情に詳しい<ruby>適当な<rt>てきとうな</rt></ruby>パートナーを見つけることが成功への鍵となる。",
+    "ex_en": "When expanding overseas, finding a suitable local partner familiar with local conditions is the key to success."
   },
   {
     "id": "n2_v_2581",
@@ -41498,8 +41498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふまんな",
     "ruby": "<ruby>不満<rt>ふまん</rt></ruby>な",
     "meaning": "不満な (ふまんな)",
-    "ex_ja": "とても<ruby>不満<rt>ふまん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 不満な (ふまんな)."
+    "ex_ja": "彼は納得のいかない審査結果に対して、<ruby>不満な<rt>ふまんな</rt></ruby>表情を隠そうともしなかった。",
+    "ex_en": "He made no attempt to conceal his dissatisfied expression regarding the baffling judging results."
   },
   {
     "id": "n2_v_2582",
@@ -41514,8 +41514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てごろな",
     "ruby": "<ruby>手頃<rt>てごろ</rt></ruby>な",
     "meaning": "手頃な (てごろな)",
-    "ex_ja": "とても<ruby>手頃<rt>てごろ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 手頃な (てごろな)."
+    "ex_ja": "その店は<ruby>手頃な<rt>てごろな</rt></ruby>価格で本格的なイタリア料理が味わえるとあって、連日行列ができている。",
+    "ex_en": "The restaurant draws long lines every day because customers can enjoy authentic Italian cuisine at an affordable price."
   },
   {
     "id": "n2_v_2583",
@@ -41530,8 +41530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶっそうな",
     "ruby": "<ruby>物騒<rt>ぶっそう</rt></ruby>な",
     "meaning": "物騒な (ぶっそうな)",
-    "ex_ja": "とても<ruby>物騒<rt>ぶっそう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 物騒な (ぶっそうな)."
+    "ex_ja": "最近この近辺で空き巣が多発しているため、夜間の外出を控えるなど<ruby>物騒な<rt>ぶっそうな</rt></ruby>世情を警戒している。",
+    "ex_en": "With frequent burglaries occurring in the neighborhood recently, residents are on guard against the dangerous conditions and avoid going out at night."
   },
   {
     "id": "n2_v_2584",
@@ -41546,8 +41546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "でたらめな",
     "ruby": "でたらめな",
     "meaning": "でたらめな (でたらめな)",
-    "ex_ja": "とてもでたらめなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very でたらめな (でたらめな)."
+    "ex_ja": "根拠のないでたらめな噂をSNSに書き込んで他人の名誉を傷つける行為は、法的な責任を問われる。",
+    "ex_en": "Posting groundless, nonsensical rumors on social media to damage someone's reputation can lead to legal liability."
   },
   {
     "id": "n2_v_2585",
@@ -41562,8 +41562,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "へいぼんな",
     "ruby": "<ruby>平凡<rt>へいぼん</rt></ruby>な",
     "meaning": "平凡な (へいぼんな)",
-    "ex_ja": "とても<ruby>平凡<rt>へいぼん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 平凡な (へいぼんな)."
+    "ex_ja": "一見すると<ruby>平凡な<rt>へいぼんな</rt></ruby>日常の中にこそ、かけがえのない大切な幸せが隠されている。",
+    "ex_en": "Irreplaceable and precious happiness is often hidden within what appears at first glance to be an ordinary daily life."
   },
   {
     "id": "n2_v_2586",
@@ -41578,8 +41578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "でんとうてきな",
     "ruby": "<ruby>伝統的<rt>でんとうてき</rt></ruby>な",
     "meaning": "伝統的な (でんとうてきな)",
-    "ex_ja": "とても<ruby>伝統的<rt>でんとうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 伝統的な (でんとうてきな)."
+    "ex_ja": "この工房では、職人たちが何世代にもわたって<ruby>伝統的な<rt>でんとうてきな</rt></ruby>製法を守り続けている。",
+    "ex_en": "In this workshop, artisans have preserved traditional manufacturing techniques passed down through generations."
   },
   {
     "id": "n2_v_2587",
@@ -41594,8 +41594,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうてきな",
     "ruby": "<ruby>法的<rt>ほうてき</rt></ruby>な",
     "meaning": "法的な (ほうてきな)",
-    "ex_ja": "とても<ruby>法的<rt>ほうてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 法的な (ほうてきな)."
+    "ex_ja": "契約違反による損害が発生した場合、相手企業に対して<ruby>法的な<rt>ほうてきな</rt></ruby>措置を講じる方針を固めた。",
+    "ex_en": "The company established a policy to take legal action against the partner firm should damages arise from breach of contract."
   },
   {
     "id": "n2_v_2588",
@@ -41610,8 +41610,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とうめいな",
     "ruby": "<ruby>透明<rt>とうめい</rt></ruby>な",
     "meaning": "透明な (とうめいな)",
-    "ex_ja": "とても<ruby>透明<rt>とうめい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 透明な (とうめいな)."
+    "ex_ja": "山奥の渓流には底の小石まではっきりと見える<ruby>透明な<rt>とうめいな</rt></ruby>水が流れ、イワナが泳いでいた。",
+    "ex_en": "Transparent water flowed through the mountain stream so clearly that pebbles on the bottom were visible, with char swimming within."
   },
   {
     "id": "n2_v_2589",
@@ -41626,8 +41626,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうふな",
     "ruby": "<ruby>豊富<rt>ほうふ</rt></ruby>な",
     "meaning": "豊富な (ほうふな)",
-    "ex_ja": "とても<ruby>豊富<rt>ほうふ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 豊富な (ほうふな)."
+    "ex_ja": "彼女は海外勤務での<ruby>豊富な<rt>ほうふな</rt></ruby>経験を生かし、新規の国際プロジェクトを力強く牽引している。",
+    "ex_en": "Drawing on her wealth of experience working overseas, she is forcefully spearheading the new international project."
   },
   {
     "id": "n2_v_2590",
@@ -41642,8 +41642,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とくしゅな",
     "ruby": "<ruby>特殊<rt>とくしゅ</rt></ruby>な",
     "meaning": "特殊な (とくしゅな)",
-    "ex_ja": "とても<ruby>特殊<rt>とくしゅ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 特殊な (とくしゅな)."
+    "ex_ja": "深海調査を行うには、凄まじい水圧に耐えられる<ruby>特殊な<rt>とくしゅな</rt></ruby>素材で作られた探査艇が必要だ。",
+    "ex_en": "Deep-sea exploration requires submersible research vessels made of special materials capable of withstanding tremendous water pressure."
   },
   {
     "id": "n2_v_2591",
@@ -41658,8 +41658,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほんかくてきな",
     "ruby": "<ruby>本格的<rt>ほんかくてき</rt></ruby>な",
     "meaning": "本格的な (ほんかくてきな)",
-    "ex_ja": "とても<ruby>本格的<rt>ほんかくてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 本格的な (ほんかくてきな)."
+    "ex_ja": "気温が氷点下まで下がり始め、北国にもいよいよ<ruby>本格的な<rt>ほんかくてきな</rt></ruby>冬が訪れた。",
+    "ex_en": "As temperatures began dropping below freezing, full-fledged winter finally arrived in the northern region."
   },
   {
     "id": "n2_v_2592",
@@ -41674,8 +41674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どういつな",
     "ruby": "<ruby>同一<rt>どういつ</rt></ruby>な",
     "meaning": "同一な (どういつな)",
-    "ex_ja": "とても<ruby>同一<rt>どういつ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 同一な (どういつな)."
+    "ex_ja": "実験結果の信頼性を担保するため、すべての検査を完全に<ruby>同一な<rt>どういつな</rt></ruby>条件下で実施した。",
+    "ex_en": "To ensure the reliability of experimental results, all tests were conducted under completely identical conditions."
   },
   {
     "id": "n2_v_2593",
@@ -41690,8 +41690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぼうだいな",
     "ruby": "<ruby>膨大<rt>ぼうだい</rt></ruby>な",
     "meaning": "膨大な (ぼうだいな)",
-    "ex_ja": "とても<ruby>膨大<rt>ぼうだい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 膨大な (ぼうだいな)."
+    "ex_ja": "研究チームは何年もの歳月をかけて、<ruby>膨大な<rt>ぼうだいな</rt></ruby>量の文献資料を丹念に読み解いた。",
+    "ex_en": "The research team spent years painstakingly analyzing and deciphering an enormous volume of historical documents."
   },
   {
     "id": "n2_v_2594",
@@ -41706,8 +41706,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうとうな",
     "ruby": "<ruby>同等<rt>どうとう</rt></ruby>な",
     "meaning": "同等な (どうとうな)",
-    "ex_ja": "とても<ruby>同等<rt>どうとう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 同等な (どうとうな)."
+    "ex_ja": "転職市場においては、実務経験が学歴と<ruby>同等な<rt>どうとうな</rt></ruby>価値を持つ場合も少なくない。",
+    "ex_en": "In the job change market, practical work experience often carries value equivalent to academic credentials."
   },
   {
     "id": "n2_v_2595",
@@ -41722,8 +41722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まぢかな",
     "ruby": "<ruby>間近<rt>まぢか</rt></ruby>な",
     "meaning": "間近な (まぢかな)",
-    "ex_ja": "とても<ruby>間近<rt>まぢか</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 間近な (まぢかな)."
+    "ex_ja": "国家試験の本番が<ruby>間近な<rt>まぢかな</rt></ruby>受験生たちは、連日夜遅くまで自習室で机に向かっている。",
+    "ex_en": "With the national examination just around the corner, candidates sit at their desks in the study room late into the night every day."
   },
   {
     "id": "n2_v_2596",
@@ -41738,8 +41738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうような",
     "ruby": "<ruby>同様<rt>どうよう</rt></ruby>な",
     "meaning": "同様な (どうような)",
-    "ex_ja": "とても<ruby>同様<rt>どうよう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 同様な (どうような)."
+    "ex_ja": "再発防止に向けて検証を進めた結果、過去にも<ruby>同様な<rt>どうような</rt></ruby>トラブルが起きていたことが判明した。",
+    "ex_en": "As the investigation into recurrence prevention progressed, it was revealed that similar troubles had occurred in the past as well."
   },
   {
     "id": "n2_v_2597",
@@ -41754,8 +41754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まっかな",
     "ruby": "<ruby>真っ赤<rt>まっか</rt></ruby>な",
     "meaning": "真っ赤な (まっかな)",
-    "ex_ja": "とても<ruby>真っ赤<rt>まっか</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 真っ赤な (まっかな)."
+    "ex_ja": "彼は自分のミスを隠すために、その場ですぐにばれるような<ruby>真っ赤な<rt>まっかな</rt></ruby>嘘をついた。",
+    "ex_en": "To cover up his own mistake, he told a blatant lie on the spot that was immediately seen through."
   },
   {
     "id": "n2_v_2598",
@@ -41770,8 +41770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どくとくな",
     "ruby": "<ruby>独特<rt>どくとく</rt></ruby>な",
     "meaning": "独特な (どくとくな)",
-    "ex_ja": "とても<ruby>独特<rt>どくとく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 独特な (どくとくな)."
+    "ex_ja": "その作家の小説は、<ruby>独特な<rt>どくとくな</rt></ruby>リズムを持つ文体と緻密な心理描写で多くの読者を魅了している。",
+    "ex_en": "The author's novels captivate many readers with their distinctive rhythmic prose and meticulous psychological depictions."
   },
   {
     "id": "n2_v_2599",
@@ -41786,8 +41786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まっしろな",
     "ruby": "<ruby>真っ白<rt>まっしろ</rt></ruby>な",
     "meaning": "真っ白な (まっしろな)",
-    "ex_ja": "とても<ruby>真っ白<rt>まっしろ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 真っ白な (まっしろな)."
+    "ex_ja": "大勢の聴衆の前に立った瞬間、極度の緊張から頭の中が<ruby>真っ白な<rt>まっしろな</rt></ruby>状態になってしまった。",
+    "ex_en": "The moment he stood before the large audience, his mind went completely blank from extreme nervousness."
   },
   {
     "id": "n2_v_2600",
@@ -41802,8 +41802,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どんかんな",
     "ruby": "<ruby>鈍感<rt>どんかん</rt></ruby>な",
     "meaning": "鈍感な (どんかんな)",
-    "ex_ja": "とても<ruby>鈍感<rt>どんかん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 鈍感な (どんかんな)."
+    "ex_ja": "彼は他人の心の痛みに<ruby>鈍感な<rt>どんかんな</rt></ruby>ところがあり、悪気はなくても不用意な一言で相手を傷つけてしまう。",
+    "ex_en": "He can be insensitive to other people's feelings, occasionally hurting others with careless remarks without intending to."
   },
   {
     "id": "n2_v_2601",
@@ -41818,8 +41818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みごとな",
     "ruby": "<ruby>見事<rt>みごと</rt></ruby>な",
     "meaning": "見事な (みごとな)",
-    "ex_ja": "とても<ruby>見事<rt>みごと</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 見事な (みごとな)."
+    "ex_ja": "後半戦で３点差をひっくり返し、チームは<ruby>見事な<rt>みごとな</rt></ruby>逆転勝利を収めた。",
+    "ex_en": "Overturning a three-run deficit in the latter half of the game, the team pulled off a splendid comeback victory."
   },
   {
     "id": "n2_v_2602",
@@ -41834,8 +41834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なごやかな",
     "ruby": "<ruby>和<rt>なご</rt></ruby>やかな",
     "meaning": "和やかな (なごやかな)",
-    "ex_ja": "とても<ruby>和<rt>なご</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 和やかな (なごやかな)."
+    "ex_ja": "初対面の参加者が多かったものの、アイスブレイクのおかげで<ruby>和やかな<rt>なごやかな</rt></ruby>雰囲気の中で対話が進んだ。",
+    "ex_en": "Although many participants were meeting for the first time, the dialogue proceeded in a warm and amicable atmosphere thanks to the icebreaker."
   },
   {
     "id": "n2_v_2603",
@@ -41850,8 +41850,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みょうな",
     "ruby": "<ruby>妙<rt>みょう</rt></ruby>な",
     "meaning": "妙な (みょうな)",
-    "ex_ja": "とても<ruby>妙<rt>みょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 妙な (みょうな)."
+    "ex_ja": "深夜のオフィスで残業していたとき、誰もいないはずの給湯室から<ruby>妙な<rt>みょうな</rt></ruby>物音が聞こえた。",
+    "ex_en": "While working overtime in the late-night office, I heard an odd noise coming from the kitchen area where no one should have been."
   },
   {
     "id": "n2_v_2604",
@@ -41866,8 +41866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なだらかな",
     "ruby": "なだらかな",
     "meaning": "なだらかな (なだらかな)",
-    "ex_ja": "とてもなだらかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very なだらかな (なだらかな)."
+    "ex_ja": "山頂へと続く登山道はなだらかな傾斜になっており、初心者や子供連れでも安心して歩ける。",
+    "ex_en": "The trail leading up to the summit features a gentle slope, allowing even beginners and families with children to hike comfortably."
   },
   {
     "id": "n2_v_2605",
@@ -41882,8 +41882,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みりょくてきな",
     "ruby": "<ruby>魅力的<rt>みりょくてき</rt></ruby>な",
     "meaning": "魅力的な (みりょくてきな)",
-    "ex_ja": "とても<ruby>魅力的<rt>みりょくてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 魅力的な (みりょくてきな)."
+    "ex_ja": "給与水準の高さだけでなく、柔軟な勤務形態も求職者にとって<ruby>魅力的な<rt>みりょくてきな</rt></ruby>条件となっている。",
+    "ex_en": "Along with high salary levels, flexible working arrangements are an attractive condition for job seekers."
   },
   {
     "id": "n2_v_2606",
@@ -41898,8 +41898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なめらかな",
     "ruby": "<ruby>滑<rt>なめ</rt></ruby>らかな",
     "meaning": "滑らかな (なめらかな)",
-    "ex_ja": "とても<ruby>滑<rt>なめ</rt></ruby>らかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 滑らかな (なめらかな)."
+    "ex_ja": "上質なシルクで作られたそのドレスは、肌に吸い付くような<ruby>滑らかな<rt>なめらかな</rt></ruby>手触りが特徴だ。",
+    "ex_en": "The dress crafted from high-grade silk features a smooth texture that feels luxurious against the skin."
   },
   {
     "id": "n2_v_2607",
@@ -41914,8 +41914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みんしゅてきな",
     "ruby": "<ruby>民主的<rt>みんしゅてき</rt></ruby>な",
     "meaning": "民主的な (みんしゅてきな)",
-    "ex_ja": "とても<ruby>民主的<rt>みんしゅてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 民主的な (みんしゅてきな)."
+    "ex_ja": "部員全員が対等に意見を出し合えるよう、部活動の運営方針を<ruby>民主的な<rt>みんしゅてきな</rt></ruby>手続きで見直した。",
+    "ex_en": "To allow all club members to share opinions equally, they revised the club's management policies through democratic procedures."
   },
   {
     "id": "n2_v_2608",
@@ -41930,8 +41930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "のうこうな",
     "ruby": "<ruby>濃厚<rt>のうこう</rt></ruby>な",
     "meaning": "濃厚な (のうこうな)",
-    "ex_ja": "とても<ruby>濃厚<rt>のうこう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 濃厚な (のうこうな)."
+    "ex_ja": "じっくりと時間をかけて煮込んだスープは、素材の旨味が凝縮されて非常に<ruby>濃厚な<rt>のうこうな</rt></ruby>味わいだった。",
+    "ex_en": "The slowly simmered soup had an exceptionally rich flavor, packed with the concentrated essence of its ingredients."
   },
   {
     "id": "n2_v_2609",
@@ -41946,8 +41946,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むえんな",
     "ruby": "<ruby>無縁<rt>むえん</rt></ruby>な",
     "meaning": "無縁な (むえんな)",
-    "ex_ja": "とても<ruby>無縁<rt>むえん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 無縁な (むえんな)."
+    "ex_ja": "都会の喧騒から離れた山里に移住し、満員電車のストレスとは<ruby>無縁な<rt>むえんな</rt></ruby>暮らしを手に入れた。",
+    "ex_en": "Moving to a mountain village away from the hustle and bustle of the city, he attained a lifestyle completely free from the stress of crowded commuter trains."
   },
   {
     "id": "n2_v_2610",
@@ -41962,8 +41962,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひきょうな",
     "ruby": "<ruby>卑怯<rt>ひきょう</rt></ruby>な",
     "meaning": "卑怯な (ひきょうな)",
-    "ex_ja": "とても<ruby>卑怯<rt>ひきょう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 卑怯な (ひきょうな)."
+    "ex_ja": "正々堂々と勝負せず、相手の弱みにつけ込んで罠に陥れるような<ruby>卑怯な<rt>ひきょうな</rt></ruby>やり方は許せない。",
+    "ex_en": "Rather than competing fairly, resorting to cowardly tactics that exploit an opponent's vulnerabilities to trap them is unforgivable."
   },
   {
     "id": "n2_v_2611",
@@ -41978,8 +41978,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むくちな",
     "ruby": "<ruby>無口<rt>むくち</rt></ruby>な",
     "meaning": "無口な (むくちな)",
-    "ex_ja": "とても<ruby>無口<rt>むくち</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 無口な (むくちな)."
+    "ex_ja": "普段は<ruby>無口な<rt>むくちな</rt></ruby>父親だが、娘の結婚式では涙を浮かべながら心のこもった祝辞を述べた。",
+    "ex_en": "While his father was usually a quiet and reticent man, he delivered a heartfelt congratulatory speech with tears in his eyes at his daughter's wedding."
   },
   {
     "id": "n2_v_2612",
@@ -41994,8 +41994,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひっしな",
     "ruby": "<ruby>必死<rt>ひっし</rt></ruby>な",
     "meaning": "必死な (ひっしな)",
-    "ex_ja": "とても<ruby>必死<rt>ひっし</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 必死な (ひっしな)."
+    "ex_ja": "救助隊員たちは悪天候のなか、行方不明者の手がかりを掴もうと<ruby>必死な<rt>ひっしな</rt></ruby>捜索を続けた。",
+    "ex_en": "Rescue workers carried on a desperate search through harsh weather to find any clues about the missing person."
   },
   {
     "id": "n2_v_2613",
@@ -42010,8 +42010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むちゅうな",
     "ruby": "<ruby>夢中<rt>むちゅう</rt></ruby>な",
     "meaning": "夢中な (むちゅうな)",
-    "ex_ja": "とても<ruby>夢中<rt>むちゅう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 夢中な (むちゅうな)."
+    "ex_ja": "最新のパズルゲームに<ruby>夢中な<rt>むちゅうな</rt></ruby>子どもたちは、呼んでも返事をしないほど集中していた。",
+    "ex_en": "Absorbed in the latest puzzle game, the children were so focused that they didn't even respond when called."
   },
   {
     "id": "n2_v_2614",
@@ -42026,8 +42026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひていてきな",
     "ruby": "<ruby>否定的<rt>ひていてき</rt></ruby>な",
     "meaning": "否定的な (ひていてきな)",
-    "ex_ja": "とても<ruby>否定的<rt>ひていてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 否定的な (ひていてきな)."
+    "ex_ja": "新しい施策に対して現場からは<ruby>否定的な<rt>ひていてきな</rt></ruby>見解が多く、導入にはさらなる議論が必要だ。",
+    "ex_en": "There are many negative opinions from frontline staff regarding the new measure, so further discussion will be required before implementation."
   },
   {
     "id": "n2_v_2615",
@@ -42042,8 +42042,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むりょくな",
     "ruby": "<ruby>無力<rt>むりょく</rt></ruby>な",
     "meaning": "無力な (むりょくな)",
-    "ex_ja": "とても<ruby>無力<rt>むりょく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 無力な (むりょくな)."
+    "ex_ja": "猛威を振るう自然災害を目の当たりにして、人間の技術がいかに<ruby>無力な<rt>むりょくな</rt></ruby>ものであるかを痛感した。",
+    "ex_en": "Witnessing the sheer ferocity of the natural disaster, I acutely felt how powerless human technology truly is."
   },
   {
     "id": "n2_v_2616",
@@ -42058,8 +42058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひぼんな",
     "ruby": "<ruby>非凡<rt>ひぼん</rt></ruby>な",
     "meaning": "非凡な (ひぼんな)",
-    "ex_ja": "とても<ruby>非凡<rt>ひぼん</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 非凡な (ひぼんな)."
+    "ex_ja": "彼は若くして複雑な数式を難なく解き明かし、早くから<ruby>非凡な<rt>ひぼんな</rt></ruby>才能の片鱗を見せていた。",
+    "ex_en": "Solving complex mathematical formulas effortlessly at a young age, he showed glimpses of extraordinary talent early on."
   },
   {
     "id": "n2_v_2617",
@@ -42074,8 +42074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めいかくな",
     "ruby": "<ruby>明確<rt>めいかく</rt></ruby>な",
     "meaning": "明確な (めいかくな)",
-    "ex_ja": "とても<ruby>明確<rt>めいかく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 明確な (めいかくな)."
+    "ex_ja": "プロジェクトを滞りなく進めるには、各メンバーの役割分担と<ruby>明確な<rt>めいかくな</rt></ruby>目標設定が欠かせない。",
+    "ex_en": "In order to keep the project moving smoothly, assigning specific roles to each member and setting clear goals are essential."
   },
   {
     "id": "n2_v_2618",
@@ -42090,8 +42090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "やわらかな",
     "ruby": "<ruby>柔<rt>やわ</rt></ruby>らかな",
     "meaning": "柔らかな (やわらかな)",
-    "ex_ja": "とても<ruby>柔<rt>やわ</rt></ruby>らかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 柔らかな (やわらかな)."
+    "ex_ja": "春の<ruby>柔らかな<rt>やわらかな</rt></ruby>日差しが差し込むリビングで、温かい紅茶を飲みながら読書を楽しんだ。",
+    "ex_en": "In the living room bathed in soft spring sunlight, I enjoyed reading a book while sipping hot tea."
   },
   {
     "id": "n2_v_2619",
@@ -42106,8 +42106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よういな",
     "ruby": "<ruby>容易<rt>ようい</rt></ruby>な",
     "meaning": "容易な (よういな)",
-    "ex_ja": "とても<ruby>容易<rt>ようい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 容易な (よういな)."
+    "ex_ja": "長年染み付いた生活習慣を一人で変えるのは、決して<ruby>容易な<rt>よういな</rt></ruby>ことではない。",
+    "ex_en": "Breaking long-ingrained lifestyle habits completely on your own is by no means an easy task."
   },
   {
     "id": "n2_v_2620",
@@ -42122,8 +42122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆういぎな",
     "ruby": "<ruby>有意義<rt>ゆういぎ</rt></ruby>な",
     "meaning": "有意義な (ゆういぎな)",
-    "ex_ja": "とても<ruby>有意義<rt>ゆういぎ</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 有意義な (ゆういぎな)."
+    "ex_ja": "専門家を交えたシンポジウムでは、環境問題の解決に向けて極めて<ruby>有意義な<rt>ゆういぎな</rt></ruby>意見交換が行われた。",
+    "ex_en": "At the symposium with specialists, an extremely meaningful exchange of views took place toward solving environmental problems."
   },
   {
     "id": "n2_v_2621",
@@ -42138,8 +42138,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ようきな",
     "ruby": "<ruby>陽気<rt>ようき</rt></ruby>な",
     "meaning": "陽気な (ようきな)",
-    "ex_ja": "とても<ruby>陽気<rt>ようき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 陽気な (ようきな)."
+    "ex_ja": "彼の<ruby>陽気な<rt>ようきな</rt></ruby>人柄のおかげで、緊張していた新入社員たちも次第に笑顔を見せるようになった。",
+    "ex_en": "Thanks to his cheerful and jovial personality, the nervous new employees gradually began to relax and smile."
   },
   {
     "id": "n2_v_2622",
@@ -42154,8 +42154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうこうな",
     "ruby": "<ruby>有効<rt>ゆうこう</rt></ruby>な",
     "meaning": "有効な (ゆうこうな)",
-    "ex_ja": "とても<ruby>有効<rt>ゆうこう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 有効な (ゆうこうな)."
+    "ex_ja": "インフルエンザの感染拡大を防ぐためには、手洗いやうがいの徹底が<ruby>有効な<rt>ゆうこうな</rt></ruby>手段とされる。",
+    "ex_en": "Thorough handwashing and gargling are considered effective means to prevent the spread of influenza."
   },
   {
     "id": "n2_v_2623",
@@ -42170,8 +42170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よくばりな",
     "ruby": "<ruby>欲張<rt>よくば</rt></ruby>りな",
     "meaning": "欲張りな (よくばりな)",
-    "ex_ja": "とても<ruby>欲張<rt>よくば</rt></ruby>りなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 欲張りな (よくばりな)."
+    "ex_ja": "一日で観光名所を十か所も回ろうとするのは、いくらなんでも<ruby>欲張りな<rt>よくばりな</rt></ruby>計画だ。",
+    "ex_en": "Trying to tour ten sightseeing spots in a single day is far too greedy an itinerary by any standard."
   },
   {
     "id": "n2_v_2624",
@@ -42186,8 +42186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうしゅうな",
     "ruby": "<ruby>優秀<rt>ゆうしゅう</rt></ruby>な",
     "meaning": "優秀な (ゆうしゅうな)",
-    "ex_ja": "とても<ruby>優秀<rt>ゆうしゅう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 優秀な (ゆうしゅうな)."
+    "ex_ja": "その研究所には国内外から<ruby>優秀な<rt>ゆうしゅうな</rt></ruby>若手研究者が集まり、先端医療の開発に取り組んでいる。",
+    "ex_en": "Talented young researchers from Japan and abroad have gathered at the institute to work on the development of cutting-edge medicine."
   },
   {
     "id": "n2_v_2625",
@@ -42202,8 +42202,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よけいな",
     "ruby": "<ruby>余計<rt>よけい</rt></ruby>な",
     "meaning": "余計な (よけいな)",
-    "ex_ja": "とても<ruby>余計<rt>よけい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 余計な (よけいな)."
+    "ex_ja": "相手のプライベートに<ruby>余計な<rt>よけいな</rt></ruby>口出しをすると、良好だった人間関係を損ねる恐れがある。",
+    "ex_en": "Unnecessary meddling in someone else's personal life risks damaging what was once a good relationship."
   },
   {
     "id": "n2_v_2626",
@@ -42218,8 +42218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうりな",
     "ruby": "<ruby>有利<rt>ゆうり</rt></ruby>な",
     "meaning": "有利な (ゆうりな)",
-    "ex_ja": "とても<ruby>有利<rt>ゆうり</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 有利な (ゆうりな)."
+    "ex_ja": "外国語を流暢に操るスキルは、外資系企業への転職活動において極めて<ruby>有利な<rt>ゆうりな</rt></ruby>武器となる。",
+    "ex_en": "The skill to speak foreign languages fluently serves as an extremely advantageous asset when job-hunting at foreign-affiliated firms."
   },
   {
     "id": "n2_v_2627",
@@ -42234,8 +42234,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よわきな",
     "ruby": "<ruby>弱気<rt>よわき</rt></ruby>な",
     "meaning": "弱気な (よわきな)",
-    "ex_ja": "とても<ruby>弱気<rt>よわき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 弱気な (よわきな)."
+    "ex_ja": "試合前に<ruby>弱気な<rt>よわきな</rt></ruby>発言をしていては、実力を発揮する前に相手の勢いに呑まれてしまう。",
+    "ex_en": "If you make timid remarks before the match, you will be overwhelmed by the opponent's momentum before you can even show what you are capable of."
   },
   {
     "id": "n2_v_2628",
@@ -42250,8 +42250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうりょくな",
     "ruby": "<ruby>有力<rt>ゆうりょく</rt></ruby>な",
     "meaning": "有力な (ゆうりょくな)",
-    "ex_ja": "とても<ruby>有力<rt>ゆうりょく</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 有力な (ゆうりょくな)."
+    "ex_ja": "現場に残された指紋が、犯人の身元を特定するための最も<ruby>有力な<rt>ゆうりょくな</rt></ruby>手がかりとなった。",
+    "ex_en": "The fingerprints left at the scene served as the most promising clue for identifying the suspect."
   },
   {
     "id": "n2_v_2629",
@@ -42266,8 +42266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りこうな",
     "ruby": "<ruby>利口<rt>りこう</rt></ruby>な",
     "meaning": "利口な (りこうな)",
-    "ex_ja": "とても<ruby>利口<rt>りこう</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 利口な (りこうな)."
+    "ex_ja": "その警察犬は非常に<ruby>利口な<rt>りこうな</rt></ruby>動物で、トレーナーのわずかな合図も見逃さずに指示通り動く。",
+    "ex_en": "That police dog is an extraordinarily clever animal, following instructions without missing even the slightest signal from its handler."
   },
   {
     "id": "n2_v_2630",
@@ -42282,8 +42282,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆかいな",
     "ruby": "<ruby>愉快<rt>ゆかい</rt></ruby>な",
     "meaning": "愉快な (ゆかいな)",
-    "ex_ja": "とても<ruby>愉快<rt>ゆかい</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 愉快な (ゆかいな)."
+    "ex_ja": "学生時代の<ruby>愉快な<rt>ゆかいな</rt></ruby>仲間たちと久しぶりに集まり、思い出話に花を咲かせた。",
+    "ex_en": "Gathering with my delightful friends from school days for the first time in a while, we had a wonderful time reminiscing about old memories."
   },
   {
     "id": "n2_v_2631",
@@ -42298,8 +42298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ろんりてきな",
     "ruby": "<ruby>論理的<rt>ろんりてき</rt></ruby>な",
     "meaning": "論理的な (ろんりてきな)",
-    "ex_ja": "とても<ruby>論理的<rt>ろんりてき</rt></ruby>なと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 論理的な (ろんりてきな)."
+    "ex_ja": "複雑なデータを整理し、誰にでも納得できるように<ruby>論理的な<rt>ろんりてきな</rt></ruby>構成で報告書をまとめた。",
+    "ex_en": "She organized the complex data and compiled the report with a logical structure so that anyone could understand and accept it."
   },
   {
     "id": "n2_v_2632",
@@ -42314,8 +42314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆたかな",
     "ruby": "<ruby>豊<rt>ゆた</rt></ruby>かな",
     "meaning": "豊かな (ゆたかな)",
-    "ex_ja": "とても<ruby>豊<rt>ゆた</rt></ruby>かなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 豊かな (ゆたかな)."
+    "ex_ja": "幼少期からたくさんの本に触れさせることは、子どもの<ruby>豊かな<rt>ゆたかな</rt></ruby>感性や想像力を育む。",
+    "ex_en": "Exposing children to many books from an early age nurtures their rich sensitivity and imagination."
   },
   {
     "id": "n2_v_2633",
@@ -42330,8 +42330,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "わがままな",
     "ruby": "わがままな",
     "meaning": "わがままな (わがままな)",
-    "ex_ja": "とてもわがままなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very わがままな (わがままな)."
+    "ex_ja": "自分の思い通りにならないからといって大声で泣き叫ぶような、わがままな振る舞いは見過ごせない。",
+    "ex_en": "Selfish behavior like crying and screaming loudly just because things don't go one's way cannot be overlooked."
   },
   {
     "id": "n2_v_2634",
@@ -42346,8 +42346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆるやかな",
     "ruby": "<ruby>緩<rt>ゆる</rt></ruby>やかな",
     "meaning": "緩やかな (ゆるやかな)",
-    "ex_ja": "とても<ruby>緩<rt>ゆる</rt></ruby>やかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very 緩やかな (ゆるやかな)."
+    "ex_ja": "長期的な不況を脱し、国内景気は個人消費の持ち直しを背景に<ruby>緩やかな<rt>ゆるやかな</rt></ruby>回復基調にある。",
+    "ex_en": "Emerging from a prolonged recession, the domestic economy is in a gradual recovery trend backed by a rebound in personal consumption."
   },
   {
     "id": "n2_v_2635",
@@ -42362,8 +42362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "わずかな",
     "ruby": "わずかな",
     "meaning": "わずかな (わずかな)",
-    "ex_ja": "とてもわずかなと<ruby>思<rt>おも</rt></ruby>います。",
-    "ex_en": "I think it is very わずかな (わずかな)."
+    "ex_ja": "わずかな計算ミスが宇宙ロケットの軌道に大きな狂いを生じさせるため、念入りな確認が繰り返された。",
+    "ex_en": "Because even a slight calculation error can cause a major deviation in a rocket's trajectory, meticulous checks were repeated over and over."
   },
   {
     "id": "n2_v_2636",
@@ -42522,8 +42522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いまいち",
     "ruby": "いまいち",
     "meaning": "いまいち (いまいち)",
-    "ex_ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：いまいち",
-    "ex_en": "Listen to the explanation about いまいち (いまいち)."
+    "ex_ja": "評判のラーメン屋に足を運んでみたが、期待が大きすぎたせいか味はいまいちパッとしなかった。",
+    "ex_en": "I visited that highly-rated ramen shop, but perhaps because my expectations were too high, the flavor left something to be desired."
   },
   {
     "id": "n2_v_2646",
@@ -42762,8 +42762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かりに",
     "ruby": "<ruby>仮<rt>かり</rt></ruby>に",
     "meaning": "supposing, even if, granting that",
-    "ex_ja": "<ruby>自動車学校<rt>じどうしゃがっこう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>し、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>仮<rt>かり</rt></ruby>にを<ruby>手に入<rt>てにい</rt></ruby>れた。",
-    "ex_en": "Passing the driving school test, I safely obtained the 仮に."
+    "ex_ja": "<ruby>仮に<rt>かりに</rt></ruby>この計画が失敗したとしても、得られた実験データは次の開発に必ず役立つはずだ。",
+    "ex_en": "Even if this plan were to fail, the experimental data gathered would surely prove useful for the next development phase."
   },
   {
     "id": "n2_v_2661",
@@ -42810,8 +42810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゃくちゃくと",
     "ruby": "<ruby>着々<rt>ちゃくちゃく</rt></ruby>と",
     "meaning": "着々と (ちゃくちゃくと)",
-    "ex_ja": "イベントの<ruby>準備<rt>じゅんび</rt></ruby>は、<ruby>着々<rt>ちゃくちゃく</rt></ruby>と<ruby>進<rt>すす</rt></ruby>んでいる。",
-    "ex_en": "Listen to the explanation about 着々と (ちゃくちゃくと)."
+    "ex_ja": "新しいスタジアムの建設工事は、予定通り<ruby>着々と<rt>ちゃくちゃくと</rt></ruby>進んでいる。",
+    "ex_en": "The construction of the new stadium is progressing steadily according to schedule."
   },
   {
     "id": "n2_v_2664",
@@ -45242,8 +45242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "シート",
     "ruby": "シート",
     "meaning": "seat, sheet",
-    "ex_ja": "これがレシートです。",
-    "ex_en": "Here's my receipt."
+    "ex_ja": "車のシートの位置を自分の体格に合わせて細かく調整した。",
+    "ex_en": "I adjusted the car seat position carefully to fit my build."
   },
   {
     "id": "n2_v_2816",
@@ -46682,8 +46682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ブーム",
     "ruby": "ブーム",
     "meaning": "boom",
-    "ex_ja": "<ruby>大<rt>だい</rt></ruby>ブームです。",
-    "ex_en": "It's all the rage."
+    "ex_ja": "健康志向の高まりを背景に、サウナや筋トレのブームが続いている。",
+    "ex_en": "Driven by a growing interest in health, the boom in saunas and workout routines continues."
   },
   {
     "id": "n2_v_2906",
@@ -47178,8 +47178,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あくえいきょう",
     "ruby": "<ruby>悪影響<rt>あくえいきょう</rt></ruby>",
     "meaning": "bad influence, negative influence",
-    "ex_ja": "<ruby>悪影響<rt>あくえいきょう</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるため、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>対策<rt>たいさく</rt></ruby>を<ruby>講<rt>こう</rt></ruby>じた。",
-    "ex_en": "To avoid 悪影響, we took sufficient measures in advance."
+    "ex_ja": "長時間のスマートフォンの使用は、睡眠の質に<ruby>悪影響<rt>あくえいきょう</rt></ruby>を及ぼす恐れがある。",
+    "ex_en": "Prolonged smartphone use risks having an adverse effect on sleep quality."
   },
   {
     "id": "n2_v_2937",
@@ -47194,8 +47194,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あくじょうけん",
     "ruby": "<ruby>悪条件<rt>あくじょうけん</rt></ruby>",
     "meaning": "悪条件 (あくじょうけん)",
-    "ex_ja": "<ruby>悪条件<rt>あくじょうけん</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるため、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>対策<rt>たいさく</rt></ruby>を<ruby>講<rt>こう</rt></ruby>じた。",
-    "ex_en": "To avoid 悪条件, we took sufficient measures in advance."
+    "ex_ja": "強い風と大雨という<ruby>悪条件<rt>あくじょうけん</rt></ruby>にもかかわらず、選手たちは最後まで走り抜いた。",
+    "ex_en": "Despite the adverse conditions of heavy rain and strong winds, the runners persevered until the finish line."
   },
   {
     "id": "n2_v_2938",
@@ -47210,8 +47210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いせかい",
     "ruby": "<ruby>異世界<rt>いせかい</rt></ruby>",
     "meaning": "異世界 (いせかい)",
-    "ex_ja": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>実績<rt>じっせき</rt></ruby>が<ruby>評価<rt>ひょうか</rt></ruby>され、<ruby>異世界<rt>いせかい</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
-    "ex_en": "Achievements were evaluated, attracting great attention in the 異世界 (いせかい)."
+    "ex_ja": "都会の喧騒から離れた古い山村に足を踏み入れると、まるで<ruby>異世界<rt>いせかい</rt></ruby>に迷い込んだかのような錯覚を覚えた。",
+    "ex_en": "Stepping into the old mountain village away from the hustle and bustle of the city, I felt as if I had wandered into another world."
   },
   {
     "id": "n2_v_2939",
@@ -47226,8 +47226,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いぶんか",
     "ruby": "<ruby>異文化<rt>いぶんか</rt></ruby>",
     "meaning": "異文化 (いぶんか)",
-    "ex_ja": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>異文化<rt>いぶんか</rt></ruby>への<ruby>対策<rt>たいさく</rt></ruby>が<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>となっている。",
-    "ex_en": "Countermeasures for the rapid 異文化 (いぶんか) have become a social issue."
+    "ex_ja": "留学先では<ruby>異文化<rt>いぶんか</rt></ruby>を体験することで、自らの視野を大きく広げることができた。",
+    "ex_en": "Experiencing a different culture while studying abroad allowed me to broaden my horizons significantly."
   },
   {
     "id": "n2_v_2940",
@@ -47290,8 +47290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくか",
     "ruby": "<ruby>各課<rt>かくか</rt></ruby>",
     "meaning": "各課 (かくか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>各課<rt>かくか</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 各課 (かくか)."
+    "ex_ja": "社長からの通達を受け、社内の<ruby>各課<rt>かくか</rt></ruby>で業務の見直しが進められている。",
+    "ex_en": "Following the president's notice, each department within the company is currently reviewing its operations."
   },
   {
     "id": "n2_v_2944",
@@ -47306,8 +47306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくかてい",
     "ruby": "<ruby>各家庭<rt>かくかてい</rt></ruby>",
     "meaning": "各家庭 (かくかてい)",
-    "ex_ja": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>各家庭<rt>かくかてい</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>見回<rt>みまわ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>う。",
-    "ex_en": "To protect local safety, we cooperate at 各家庭 to patrol."
+    "ex_ja": "災害時に備えて、<ruby>各家庭<rt>かくかてい</rt></ruby>で最低3日分の食料や飲料水を備蓄しておくことが推奨されている。",
+    "ex_en": "To prepare for disasters, each household is encouraged to stockpile at least three days' worth of food and drinking water."
   },
   {
     "id": "n2_v_2945",
@@ -47322,8 +47322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくぐるーぷ",
     "ruby": "<ruby>各グループ<rt>かくぐるーぷ</rt></ruby>",
     "meaning": "各グループ (かくぐるーぷ)",
-    "ex_ja": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>各<rt>かく</rt></ruby>グループで<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>見回<rt>みまわ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>う。",
-    "ex_en": "To protect local safety, we cooperate at 各グループ to patrol."
+    "ex_ja": "研修の後半では、<ruby>各グループ<rt>かくぐるーぷ</rt></ruby>に分かれて新規事業の提案について話し合った。",
+    "ex_en": "In the second half of the training, we split into groups and discussed proposals for new business ventures."
   },
   {
     "id": "n2_v_2946",
@@ -47338,8 +47338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくしせつ",
     "ruby": "<ruby>各施設<rt>かくしせつ</rt></ruby>",
     "meaning": "各施設 (かくしせつ)",
-    "ex_ja": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>各施設<rt>かくしせつ</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>見回<rt>みまわ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>う。",
-    "ex_en": "To protect local safety, we cooperate at 各施設 to patrol."
+    "ex_ja": "市内の<ruby>各施設<rt>かくしせつ</rt></ruby>では、週末になると地域住民に向けた様々な文化イベントが開催されている。",
+    "ex_en": "At each facility throughout the city, various cultural events for local residents are held on weekends."
   },
   {
     "id": "n2_v_2947",
@@ -47354,8 +47354,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくしてん",
     "ruby": "<ruby>各支店<rt>かくしてん</rt></ruby>",
     "meaning": "各支店 (かくしてん)",
-    "ex_ja": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>各<rt>かく</rt></ruby><ruby>支店<rt>してん</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>見回<rt>みまわ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>う。",
-    "ex_en": "To protect local safety, we cooperate at 各支店 to patrol."
+    "ex_ja": "本社から<ruby>各支店<rt>かくしてん</rt></ruby>に向けて、新しい販売方針に関する指示が一斉に出された。",
+    "ex_en": "Instructions regarding the new sales policy were issued simultaneously from headquarters to each branch."
   },
   {
     "id": "n2_v_2948",
@@ -47370,8 +47370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくじょうけん",
     "ruby": "<ruby>各条件<rt>かくじょうけん</rt></ruby>",
     "meaning": "各条件 (かくじょうけん)",
-    "ex_ja": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>各条<rt>かくじょう</rt></ruby><ruby>件<rt>けん</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>見回<rt>みまわ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>う。",
-    "ex_en": "To protect local safety, we cooperate at 各条件 to patrol."
+    "ex_ja": "契約書に記載された<ruby>各条件<rt>かくじょうけん</rt></ruby>を一つひとつ入念に確認してから署名した。",
+    "ex_en": "I carefully reviewed each of the terms specified in the contract one by one before signing."
   },
   {
     "id": "n2_v_2949",
@@ -47386,8 +47386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かりさいよう",
     "ruby": "<ruby>仮採用<rt>かりさいよう</rt></ruby>",
     "meaning": "仮採用 (かりさいよう)",
-    "ex_ja": "<ruby>自動車学校<rt>じどうしゃがっこう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>し、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>仮<rt>かり</rt></ruby><ruby>採用<rt>さいよう</rt></ruby>を<ruby>手に入<rt>てにい</rt></ruby>れた。",
-    "ex_en": "Passing the driving school test, I safely obtained the 仮採用."
+    "ex_ja": "3か月の<ruby>仮採用<rt>かりさいよう</rt></ruby>期間を経て、勤務態度や適性が認められれば本採用となる。",
+    "ex_en": "After a three-month probationary period, candidates are hired as permanent employees if their work attitude and aptitude are recognized."
   },
   {
     "id": "n2_v_2950",
@@ -47402,8 +47402,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かりめんきょ",
     "ruby": "<ruby>仮免許<rt>かりめんきょ</rt></ruby>",
     "meaning": "仮免許 (かりめんきょ)",
-    "ex_ja": "<ruby>自動車学校<rt>じどうしゃがっこう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>し、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>仮免許<rt>かりめんきょ</rt></ruby>を<ruby>手に入<rt>てにい</rt></ruby>れた。",
-    "ex_en": "Passing the driving school test, I safely obtained the 仮免許."
+    "ex_ja": "自動車教習所で学科と技能の試験に合格し、ようやく<ruby>仮免許<rt>かりめんきょ</rt></ruby>を取得した。",
+    "ex_en": "After passing the written and practical exams at the driving school, I finally obtained my learner's permit."
   },
   {
     "id": "n2_v_2951",
@@ -47418,8 +47418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かりよやく",
     "ruby": "<ruby>仮予約<rt>かりよやく</rt></ruby>",
     "meaning": "仮予約 (かりよやく)",
-    "ex_ja": "<ruby>自動車学校<rt>じどうしゃがっこう</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>し、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>仮予約<rt>かりよやく</rt></ruby>を<ruby>手に入<rt>てにい</rt></ruby>れた。",
-    "ex_en": "Passing the driving school test, I safely obtained the 仮予約."
+    "ex_ja": "人気のホテルなので、旅行の日程が確定する前にひとまず<ruby>仮予約<rt>かりよやく</rt></ruby>を入れておいた。",
+    "ex_en": "Since it is a popular hotel, I made a tentative reservation for now before our travel schedule was fully finalized."
   },
   {
     "id": "n2_v_2952",
@@ -47434,8 +47434,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうこうしゃ",
     "ruby": "<ruby>旧校舎<rt>きゅうこうしゃ</rt></ruby>",
     "meaning": "旧校舎 (きゅうこうしゃ)",
-    "ex_ja": "<ruby>歴史<rt>れきし</rt></ruby>のある<ruby>旧<rt>きゅう</rt></ruby><ruby>校舎<rt>こうしゃ</rt></ruby>が<ruby>改装<rt>かいそう</rt></ruby>され、<ruby>新<rt>あら</rt></ruby>たな<ruby>観光名所<rt>かんこうめいしょ</rt></ruby>となった。",
-    "ex_en": "The historic 旧校舎 was renovated and became a new tourist spot."
+    "ex_ja": "老朽化が進んだ<ruby>旧校舎<rt>きゅうこうしゃ</rt></ruby>は解体され、来年には最新の設備を備えた新校舎が完成する。",
+    "ex_en": "The deteriorating old school building will be demolished, and a new building with state-of-the-art facilities will be completed next year."
   },
   {
     "id": "n2_v_2953",
@@ -47450,8 +47450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうしょうがつ",
     "ruby": "<ruby>旧正月<rt>きゅうしょうがつ</rt></ruby>",
     "meaning": "lunar New Year (esp. the Chinese New Year)",
-    "ex_ja": "<ruby>歴史<rt>れきし</rt></ruby>のある<ruby>旧<rt>きゅう</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>が<ruby>改装<rt>かいそう</rt></ruby>され、<ruby>新<rt>あら</rt></ruby>たな<ruby>観光名所<rt>かんこうめいしょ</rt></ruby>となった。",
-    "ex_en": "The historic 旧正月 was renovated and became a new tourist spot."
+    "ex_ja": "中華街では<ruby>旧正月<rt>きゅうしょうがつ</rt></ruby>を迎えると、色鮮やかな飾り付けが施され、伝統的な獅子舞などで賑わう。",
+    "ex_en": "When the Lunar New Year arrives, Chinatown is adorned with colorful decorations and comes alive with traditional lion dances."
   },
   {
     "id": "n2_v_2954",
@@ -47466,8 +47466,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうせいど",
     "ruby": "<ruby>旧制度<rt>きゅうせいど</rt></ruby>",
     "meaning": "旧制度 (きゅうせいど)",
-    "ex_ja": "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>旧制<rt>きゅうせい</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>したところ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>が<ruby>得<rt>え</rt></ruby>られた。",
-    "ex_en": "When investigating users' 旧制度 (きゅうせいど), very favorable results were obtained."
+    "ex_ja": "<ruby>旧制度<rt>きゅうせいど</rt></ruby>では手続きに膨大な書類が必要だったが、新制度への移行によって大幅に簡素化された。",
+    "ex_en": "Under the old system, procedures required a huge amount of paperwork, but the transition to the new system significantly streamlined everything."
   },
   {
     "id": "n2_v_2955",
@@ -47482,8 +47482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんじてん",
     "ruby": "<ruby>現時点<rt>げんじてん</rt></ruby>",
     "meaning": "present point (i.e. in history), at the present time",
-    "ex_ja": "<ruby>現時点<rt>げんじてん</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現時点."
+    "ex_ja": "<ruby>現時点<rt>げんじてん</rt></ruby>では被害の全体像を把握できておらず、警察と消防が確認を急いでいる。",
+    "ex_en": "At the present moment, the full extent of the damage has not been determined, and police and firefighters are hurrying to assess the situation."
   },
   {
     "id": "n2_v_2956",
@@ -47498,8 +47498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんじゅうしょ",
     "ruby": "<ruby>現住所<rt>げんじゅうしょ</rt></ruby>",
     "meaning": "(present) address",
-    "ex_ja": "<ruby>現住所<rt>げんじゅうしょ</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現住所."
+    "ex_ja": "引っ越しを済ませた後は、速やかに区役所で<ruby>現住所<rt>げんじゅうしょ</rt></ruby>の変更手続きを行わなければならない。",
+    "ex_en": "After moving, you must promptly update your current address at the ward office."
   },
   {
     "id": "n2_v_2957",
@@ -47514,8 +47514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんだんかい",
     "ruby": "<ruby>現段階<rt>げんだんかい</rt></ruby>",
     "meaning": "present stage, current phase, current rank",
-    "ex_ja": "<ruby>現段階<rt>げんだんかい</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現段階."
+    "ex_ja": "プロジェクトは<ruby>現段階<rt>げんだんかい</rt></ruby>では順調に推移しており、予定通りのリリースが見込まれている。",
+    "ex_en": "The project is progressing smoothly at the current stage, and a release according to schedule is expected."
   },
   {
     "id": "n2_v_2958",
@@ -47530,8 +47530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こういんしょう",
     "ruby": "<ruby>好印象<rt>こういんしょう</rt></ruby>",
     "meaning": "好印象 (こういんしょう)",
-    "ex_ja": "<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>笑顔<rt>えがお</rt></ruby>と<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>挨拶<rt>あいさつ</rt></ruby>で、<ruby>相手<rt>あいて</rt></ruby>に<ruby>好<rt>こう</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えた。",
-    "ex_en": "With a refreshing smile and polite greeting, gave a 好印象 (こういんしょう) to the other party."
+    "ex_ja": "彼は面接で明るい笑顔とハキハキとした受け答えを見せ、面接官に<ruby>好印象<rt>こういんしょう</rt></ruby>を与えた。",
+    "ex_en": "With his bright smile and crisp responses during the interview, he made a favorable impression on the interviewers."
   },
   {
     "id": "n2_v_2959",
@@ -47626,8 +47626,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいかいはつ",
     "ruby": "<ruby>再開発<rt>さいかいはつ</rt></ruby>",
     "meaning": "redevelopment",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再開発<rt>さいかいはつ</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再開発 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "駅前の<ruby>再開発<rt>さいかいはつ</rt></ruby>が進み、古い商店街があった場所には大型複合施設が誕生した。",
+    "ex_en": "As redevelopment around the station progressed, a large multi-purpose complex was built where the old shopping street used to be."
   },
   {
     "id": "n2_v_2965",
@@ -47642,8 +47642,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいけんとう",
     "ruby": "<ruby>再検討<rt>さいけんとう</rt></ruby>",
     "meaning": "re-examination, review, reconsideration",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再検討<rt>さいけんとう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再検討 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "予算オーバーが判明したため、プロジェクトの規模や設計を<ruby>再検討<rt>さいけんとう</rt></ruby>せざるを得なくなった。",
+    "ex_en": "Because we exceeded our budget, we were forced to reconsider the scale and design of the project."
   },
   {
     "id": "n2_v_2966",
@@ -47658,8 +47658,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしゅうしょく",
     "ruby": "<ruby>再就職<rt>さいしゅうしょく</rt></ruby>",
     "meaning": "再就職 (さいしゅうしょく)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再就職<rt>さいしゅうしょく</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再就職 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "定年退職を迎えた後も、培った経験を活かして別の企業へ<ruby>再就職<rt>さいしゅうしょく</rt></ruby>する人が増えている。",
+    "ex_en": "Even after reaching retirement age, more and more people are finding new employment at other companies by leveraging their accumulated experience."
   },
   {
     "id": "n2_v_2967",
@@ -47674,8 +47674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしゅうり",
     "ruby": "<ruby>再修理<rt>さいしゅうり</rt></ruby>",
     "meaning": "再修理 (さいしゅうり)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再修理<rt>さいしゅうり</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再修理 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "修理から戻ってきたばかりのスマートフォンが再び故障したため、無償での<ruby>再修理<rt>さいしゅうり</rt></ruby>を依頼した。",
+    "ex_en": "Because my smartphone broke down again right after being repaired, I requested a free re-repair."
   },
   {
     "id": "n2_v_2968",
@@ -47690,8 +47690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいせってい",
     "ruby": "<ruby>再設定<rt>さいせってい</rt></ruby>",
     "meaning": "再設定 (さいせってい)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再設定<rt>さいせってい</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再設定 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "パスワードを忘れてしまった場合は、登録したメールアドレス宛てに<ruby>再設定<rt>さいせってい</rt></ruby>用のリンクが届きます。",
+    "ex_en": "If you forget your password, a reset link will be sent to your registered email address."
   },
   {
     "id": "n2_v_2969",
@@ -47706,8 +47706,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいちょうさ",
     "ruby": "<ruby>再調査<rt>さいちょうさ</rt></ruby>",
     "meaning": "再調査 (さいちょうさ)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再調査<rt>さいちょうさ</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再調査 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "初期の検査結果に不審な点が見つかったため、専門の第三者委員会による<ruby>再調査<rt>さいちょうさ</rt></ruby>が行われることになった。",
+    "ex_en": "Because discrepancies were found in the initial inspection results, a re-investigation by an independent third-party committee was ordered."
   },
   {
     "id": "n2_v_2970",
@@ -47722,8 +47722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいていしゅつ",
     "ruby": "<ruby>再提出<rt>さいていしゅつ</rt></ruby>",
     "meaning": "再提出 (さいていしゅつ)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再提出<rt>さいていしゅつ</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再提出 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "書類に記入漏れや誤記があったため、担当部署から修正のうえ<ruby>再提出<rt>さいていしゅつ</rt></ruby>を求められた。",
+    "ex_en": "Because there were omissions and clerical errors in the documents, the department in charge requested that I correct and resubmit them."
   },
   {
     "id": "n2_v_2971",
@@ -47738,8 +47738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいほうそう",
     "ruby": "<ruby>再放送<rt>さいほうそう</rt></ruby>",
     "meaning": "再放送 (さいほうそう)",
-    "ex_ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再放送<rt>さいほうそう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、<ruby>街並<rt>まちなみ</rt></ruby>みが<ruby>美<rt>うつく</rt></ruby>しく<ruby>一新<rt>いっしん</rt></ruby>された。",
-    "ex_en": "With 再放送 around the station advancing, the streetscape was beautifully renewed."
+    "ex_ja": "視聴者からの強い要望に応えて、昨年末に話題となった特別ドラマの<ruby>再放送<rt>さいほうそう</rt></ruby>が決まった。",
+    "ex_en": "In response to strong viewer demand, a rerun of the special drama that caused a sensation late last year has been scheduled."
   },
   {
     "id": "n2_v_2972",
@@ -47754,8 +47754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいこうきゅう",
     "ruby": "<ruby>最高級<rt>さいこうきゅう</rt></ruby>",
     "meaning": "highest grade, top class",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最高級<rt>さいこうきゅう</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最高級 above all else."
+    "ex_ja": "記念日のディナーとして、<ruby>最高級<rt>さいこうきゅう</rt></ruby>の国産牛を取り扱う老舗レストランを予約した。",
+    "ex_en": "For our anniversary dinner, I booked a long-established restaurant that serves top-grade domestic beef."
   },
   {
     "id": "n2_v_2973",
@@ -47770,8 +47770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいねんしょう",
     "ruby": "<ruby>最年少<rt>さいねんしょう</rt></ruby>",
     "meaning": "youngest",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最年少<rt>さいねんしょう</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最年少 above all else."
+    "ex_ja": "彼女は若干15歳でプロ棋士となり、史上<ruby>最年少<rt>さいねんしょう</rt></ruby>でのタイトル獲得という快挙を成し遂げた。",
+    "ex_en": "She became a professional player at just 15 years old and accomplished the remarkable feat of winning a title as the youngest player in history."
   },
   {
     "id": "n2_v_2974",
@@ -47786,8 +47786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいゆうせん",
     "ruby": "<ruby>最優先<rt>さいゆうせん</rt></ruby>",
     "meaning": "最優先 (さいゆうせん)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最優先<rt>さいゆうせん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最優先 above all else."
+    "ex_ja": "災害発生直後の現場では、人命救助が何よりも<ruby>最優先<rt>さいゆうせん</rt></ruby>とされる。",
+    "ex_en": "In the immediate aftermath of a disaster, saving lives is treated as the absolute top priority."
   },
   {
     "id": "n2_v_2975",
@@ -47802,8 +47802,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅげんりょう",
     "ruby": "<ruby>主原料<rt>しゅげんりょう</rt></ruby>",
     "meaning": "主原料 (しゅげんりょう)",
-    "ex_ja": "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>所定<rt>しょてい</rt></ruby>の<ruby>主原料<rt>しゅげんりょう</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>ってから<ruby>入場<rt>にゅうじょう</rt></ruby>した。",
-    "ex_en": "After paying the required 主原料 (しゅげんりょう) at the reception, I entered."
+    "ex_ja": "このビールは、厳選された国産の麦芽とホップを<ruby>主原料<rt>しゅげんりょう</rt></ruby>として醸造されている。",
+    "ex_en": "This beer is brewed using carefully selected domestic malt and hops as its primary ingredients."
   },
   {
     "id": "n2_v_2976",
@@ -47882,8 +47882,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょがいこく",
     "ruby": "<ruby>諸外国<rt>しょがいこく</rt></ruby>",
     "meaning": "諸外国 (しょがいこく)",
-    "ex_ja": "<ruby>諸外国<rt>しょがいこく</rt></ruby>を<ruby>考慮<rt>こうりょ</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>延期<rt>えんき</rt></ruby>することにした。",
-    "ex_en": "Considering 諸外国, we decided to postpone this event."
+    "ex_ja": "日本の少子高齢化の傾向は、欧米の<ruby>諸外国<rt>しょがいこく</rt></ruby>と比べても急速に進んでいる。",
+    "ex_en": "The trend of Japan's declining birthrate and aging population is progressing at a faster pace compared to various Western countries."
   },
   {
     "id": "n2_v_2981",
@@ -47898,8 +47898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょじじょう",
     "ruby": "<ruby>諸事情<rt>しょじじょう</rt></ruby>",
     "meaning": "諸事情 (しょじじょう)",
-    "ex_ja": "<ruby>諸事情<rt>しょじじょう</rt></ruby>を<ruby>考慮<rt>こうりょ</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>延期<rt>えんき</rt></ruby>することにした。",
-    "ex_en": "Considering 諸事情, we decided to postpone this event."
+    "ex_ja": "本日のセミナーは<ruby>諸事情<rt>しょじじょう</rt></ruby>により急遽中止となり、参加者へのお詫びの連絡が入った。",
+    "ex_en": "Today's seminar was abruptly canceled due to various circumstances, and an apology was sent to all participants."
   },
   {
     "id": "n2_v_2982",
@@ -47914,8 +47914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょもんだい",
     "ruby": "<ruby>諸問題<rt>しょもんだい</rt></ruby>",
     "meaning": "諸問題 (しょもんだい)",
-    "ex_ja": "<ruby>諸問題<rt>しょもんだい</rt></ruby>を<ruby>考慮<rt>こうりょ</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>、<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>延期<rt>えんき</rt></ruby>することにした。",
-    "ex_en": "Considering 諸問題, we decided to postpone this event."
+    "ex_ja": "地球温暖化に伴う環境破壊や気候変動など、現代社会は多くの<ruby>諸問題<rt>しょもんだい</rt></ruby>を抱えている。",
+    "ex_en": "Modern society faces numerous problems, including environmental destruction and climate change associated with global warming."
   },
   {
     "id": "n2_v_2983",
@@ -47930,8 +47930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょねんど",
     "ruby": "<ruby>初年度<rt>しょねんど</rt></ruby>",
     "meaning": "初年度 (しょねんど)",
-    "ex_ja": "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>初年度<rt>しょねんど</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>したところ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>が<ruby>得<rt>え</rt></ruby>られた。",
-    "ex_en": "When investigating users' 初年度 (しょねんど), very favorable results were obtained."
+    "ex_ja": "新規事業を立ち上げた<ruby>初年度<rt>しょねんど</rt></ruby>は赤字だったものの、2年目以降は順調に黒字へと転換した。",
+    "ex_en": "Although the new business ran a deficit in its initial year, it successfully turned a profit from the second year onward."
   },
   {
     "id": "n2_v_2984",
@@ -48010,8 +48010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんじだい",
     "ruby": "<ruby>新時代<rt>しんじだい</rt></ruby>",
     "meaning": "新時代 (しんじだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>新時代<rt>しんじだい</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 新時代 (しんじだい) down."
+    "ex_ja": "人工知能の目覚ましい発展により、産業構造が劇的に変化する<ruby>新時代<rt>しんじだい</rt></ruby>が幕を開けた。",
+    "ex_en": "With the remarkable development of artificial intelligence, a new era of dramatic shifts in industrial structure has dawned."
   },
   {
     "id": "n2_v_2989",
@@ -48282,8 +48282,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんとうめい",
     "ruby": "<ruby>半透明<rt>はんとうめい</rt></ruby>",
     "meaning": "半透明 (はんとうめい)",
-    "ex_ja": "<ruby>半透明<rt>はんとうめい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みになっており、<ruby>大忙<rt>おおいそが</rt></ruby>しだ。",
-    "ex_en": "With 半透明, work has piled up and I am very busy."
+    "ex_ja": "指定のゴミ袋は中身が適度に確認できる<ruby>半透明<rt>はんとうめい</rt></ruby>のものが義務付けられている。",
+    "ex_en": "The designated trash bags are required to be translucent so that their contents can be moderately visible."
   },
   {
     "id": "n2_v_3006",
@@ -48810,8 +48810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "らいねんど",
     "ruby": "<ruby>来年度<rt>らいねんど</rt></ruby>",
     "meaning": "来年度 (らいねんど)",
-    "ex_ja": "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>来年度<rt>らいねんど</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>したところ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>が<ruby>得<rt>え</rt></ruby>られた。",
-    "ex_en": "When investigating users' 来年度 (らいねんど), very favorable results were obtained."
+    "ex_ja": "<ruby>来年度<rt>らいねんど</rt></ruby>の予算案が閣議決定され、教育関連や福祉への配分が増額される見通しとなった。",
+    "ex_en": "Next fiscal year's budget proposal was approved by the Cabinet, and allocations for education and welfare are expected to increase."
   },
   {
     "id": "n2_v_3039",
@@ -48826,8 +48826,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てつやあけ",
     "ruby": "<ruby>徹夜明<rt>てつやあ</rt></ruby>け",
     "meaning": "徹夜明け (てつやあけ)",
-    "ex_ja": "<ruby>徹夜明<rt>てつやあ</rt></ruby>けで<ruby>仕事<rt>しごと</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みになっており、<ruby>大忙<rt>おおいそが</rt></ruby>しだ。",
-    "ex_en": "With 徹夜明け, work has piled up and I am very busy."
+    "ex_ja": "<ruby>徹夜明け<rt>てつやあけ</rt></ruby>の重い体を引きずりながら、なんとか締め切り直前にレポートを提出した。",
+    "ex_en": "Dragging my exhausted body after pulling an all-nighter, I somehow managed to submit my report right before the deadline."
   },
   {
     "id": "n2_v_3040",
@@ -48842,8 +48842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "としあけ",
     "ruby": "<ruby>年明<rt>としあ</rt></ruby>け",
     "meaning": "beginning of the year, early in the New Year",
-    "ex_ja": "<ruby>年明<rt>としあ</rt></ruby>けで<ruby>仕事<rt>しごと</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みになっており、<ruby>大忙<rt>おおいそが</rt></ruby>しだ。",
-    "ex_en": "With 年明け, work has piled up and I am very busy."
+    "ex_ja": "<ruby>年明け<rt>としあけ</rt></ruby>早々に重要なプレゼンテーションを控えているため、年末年始も落ち着いて休めない。",
+    "ex_en": "Since I have an important presentation coming up right after the start of the new year, I can't really relax even during the holidays."
   },
   {
     "id": "n2_v_3041",
@@ -48858,8 +48858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なつやすみあけ",
     "ruby": "<ruby>夏休み明<rt>なつやすみあ</rt></ruby>け",
     "meaning": "夏休み明け (なつやすみあけ)",
-    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>み<ruby>明<rt>あ</rt></ruby>けで<ruby>仕事<rt>しごと</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みになっており、<ruby>大忙<rt>おおいそが</rt></ruby>しだ。",
-    "ex_en": "With 夏休み明け, work has piled up and I am very busy."
+    "ex_ja": "<ruby>夏休み明け<rt>なつやすみあけ</rt></ruby>の教室には、日焼けした生徒たちが久しぶりの再会を喜ぶ声が響いていた。",
+    "ex_en": "Right after the summer break, the classroom resonated with the voices of sun-tanned students happily catching up with one another."
   },
   {
     "id": "n2_v_3042",
@@ -48938,8 +48938,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いちにちおきに",
     "ruby": "<ruby>一日<rt>いちにち</rt></ruby>おきに",
     "meaning": "一日おきに (いちにちおきに)",
-    "ex_ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のため、<ruby>一日<rt>いちにち</rt></ruby>おきにジョギングをする<ruby>習慣<rt>しゅうかん</rt></ruby>をつけている。",
-    "ex_en": "To maintain health, I make a habit of jogging 一日おきに."
+    "ex_ja": "体力を無理なくつけるため、<ruby>一日おきに<rt>いちにちおきに</rt></ruby>近所の公園を30分ジョギングしている。",
+    "ex_en": "To build stamina without overexerting myself, I jog in the neighborhood park for thirty minutes every other day."
   },
   {
     "id": "n2_v_3047",
@@ -48954,8 +48954,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっしゅうかんおきに",
     "ruby": "<ruby>一週間<rt>いっしゅうかん</rt></ruby>おきに",
     "meaning": "一週間おきに (いっしゅうかんおきに)",
-    "ex_ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のため、<ruby>一週間<rt>いっしゅうかん</rt></ruby>おきにジョギングをする<ruby>習慣<rt>しゅうかん</rt></ruby>をつけている。",
-    "ex_en": "To maintain health, I make a habit of jogging 一週間おきに."
+    "ex_ja": "植物の健全な成長を促すため、夏場は<ruby>一週間おきに<rt>いっしゅうかんおきに</rt></ruby>液体肥料を与えるようにしている。",
+    "ex_en": "To encourage healthy plant growth, I give them liquid fertilizer every other week during the summer."
   },
   {
     "id": "n2_v_3048",
@@ -48970,8 +48970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よねんおきに",
     "ruby": "<ruby>4年<rt>よねん</rt></ruby>おきに",
     "meaning": "4年おきに (よねんおきに)",
-    "ex_ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のため、4<ruby>年<rt>ねん</rt></ruby>おきにジョギングをする<ruby>習慣<rt>しゅうかん</rt></ruby>をつけている。",
-    "ex_en": "To maintain health, I make a habit of jogging 4年おきに."
+    "ex_ja": "世界的なスポーツの祭典であるオリンピックは、<ruby>4年おきに<rt>よねんおきに</rt></ruby>開催される。",
+    "ex_en": "The Olympic Games, a worldwide festival of sports, are held every four years."
   },
   {
     "id": "n2_v_3049",
@@ -49002,8 +49002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうれいか",
     "ruby": "<ruby>高齢化<rt>こうれいか</rt></ruby>",
     "meaning": "高齢化 (こうれいか)",
-    "ex_ja": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>高齢化<rt>こうれいか</rt></ruby>への<ruby>対策<rt>たいさく</rt></ruby>が<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>となっている。",
-    "ex_en": "Countermeasures for the rapid 高齢化 (こうれいか) have become a social issue."
+    "ex_ja": "農村地域では急速な<ruby>高齢化<rt>こうれいか</rt></ruby>と後継者不足が原因で、耕作放棄地が増加している。",
+    "ex_en": "In rural areas, abandoned farmland is increasing due to rapid population aging and a shortage of successors."
   },
   {
     "id": "n2_v_3051",
@@ -49034,8 +49034,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうほうか",
     "ruby": "<ruby>情報化<rt>じょうほうか</rt></ruby>",
     "meaning": "情報化 (じょうほうか)",
-    "ex_ja": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>情報化<rt>じょうほうか</rt></ruby>への<ruby>対策<rt>たいさく</rt></ruby>が<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>となっている。",
-    "ex_en": "Countermeasures for the rapid 情報化 (じょうほうか) have become a social issue."
+    "ex_ja": "社会全体の<ruby>情報化<rt>じょうほうか</rt></ruby>が進んだことで、リモートワークやオンライン診療が日常的に普及した。",
+    "ex_en": "As informatization across society progressed, remote work and online medical consultations became widespread everyday practices."
   },
   {
     "id": "n2_v_3053",
@@ -49050,8 +49050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいようか",
     "ruby": "<ruby>西洋化<rt>せいようか</rt></ruby>",
     "meaning": "西洋化 (せいようか)",
-    "ex_ja": "<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>西洋<rt>せいよう</rt></ruby><ruby>化<rt>か</rt></ruby>への<ruby>対策<rt>たいさく</rt></ruby>が<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>となっている。",
-    "ex_en": "Countermeasures for the rapid 西洋化 (せいようか) have become a social issue."
+    "ex_ja": "明治維新以降、日本の食文化や建築様式は急速に<ruby>西洋化<rt>せいようか</rt></ruby>の道をたどった。",
+    "ex_en": "Following the Meiji Restoration, Japanese dietary culture and architectural styles rapidly underwent Westernization."
   },
   {
     "id": "n2_v_3054",
@@ -49146,8 +49146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちょうこくか",
     "ruby": "<ruby>彫刻家<rt>ちょうこくか</rt></ruby>",
     "meaning": "彫刻家 (ちょうこくか)",
-    "ex_ja": "<ruby>世界的<rt>せかいてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>彫刻家<rt>ちょうこくか</rt></ruby>の<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>作品<rt>さくひん</rt></ruby>を<ruby>鑑賞<rt>かんしょう</rt></ruby>した。",
-    "ex_en": "I admired the wonderful work of the world-famous 彫刻家 (ちょうこくか)."
+    "ex_ja": "その<ruby>彫刻家<rt>ちょうこくか</rt></ruby>は大理石の塊から力強い人体像を削り出し、世界的な名声を得た。",
+    "ex_en": "The sculptor gained worldwide renown by carving a powerful human figure out of a block of marble."
   },
   {
     "id": "n2_v_3060",
@@ -49162,8 +49162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とざんか",
     "ruby": "<ruby>登山家<rt>とざんか</rt></ruby>",
     "meaning": "登山家 (とざんか)",
-    "ex_ja": "<ruby>世界的<rt>せかいてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>登山<rt>とざん</rt></ruby><ruby>家<rt>いえ</rt></ruby>の<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>作品<rt>さくひん</rt></ruby>を<ruby>鑑賞<rt>かんしょう</rt></ruby>した。",
-    "ex_en": "I admired the wonderful work of the world-famous 登山家 (とざんか)."
+    "ex_ja": "厳しい気象条件を乗り越え、ベテランの<ruby>登山家<rt>とざんか</rt></ruby>たちがヒマラヤの難関ルートの登頂に成功した。",
+    "ex_en": "Overcoming harsh weather conditions, veteran mountaineers successfully reached the summit of a challenging Himalayan route."
   },
   {
     "id": "n2_v_3061",
@@ -49242,8 +49242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいけいか",
     "ruby": "<ruby>会計課<rt>かいけいか</rt></ruby>",
     "meaning": "会計課 (かいけいか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>会計<rt>かいけい</rt></ruby><ruby>課<rt>か</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 会計課 (かいけいか)."
+    "ex_ja": "出張旅費の精算書に領収書を添えて、総務ビルの<ruby>会計課<rt>かいけいか</rt></ruby>へ提出した。",
+    "ex_en": "I attached the receipts to my business trip expense report and submitted them to the accounting department in the administration building."
   },
   {
     "id": "n2_v_3066",
@@ -49258,8 +49258,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がくせいか",
     "ruby": "<ruby>学生課<rt>がくせいか</rt></ruby>",
     "meaning": "学生課 (がくせいか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>学生課<rt>がくせいか</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 学生課 (がくせいか)."
+    "ex_ja": "奨学金の申請手続きに関する詳しい案内をもらうため、キャンパスの<ruby>学生課<rt>がくせいか</rt></ruby>を訪ねた。",
+    "ex_en": "I visited the student affairs office on campus to get detailed guidance regarding scholarship application procedures."
   },
   {
     "id": "n2_v_3067",
@@ -49274,8 +49274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こくさいこうりゅうか",
     "ruby": "<ruby>国際交流課<rt>こくさいこうりゅうか</rt></ruby>",
     "meaning": "国際交流課 (こくさいこうりゅうか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>国際交流<rt>こくさいこうりゅう</rt></ruby><ruby>課<rt>か</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 国際交流課 (こくさいこうりゅうか)."
+    "ex_ja": "留学先での生活サポートやビザの手続きについて、大学の<ruby>国際交流課<rt>こくさいこうりゅうか</rt></ruby>に相談した。",
+    "ex_en": "I consulted the university's international exchange division regarding living support and visa procedures for my study abroad."
   },
   {
     "id": "n2_v_3068",
@@ -49290,8 +49290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうむか",
     "ruby": "<ruby>総務課<rt>そうむか</rt></ruby>",
     "meaning": "総務課 (そうむか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>総務課<rt>そうむか</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 総務課 (そうむか)."
+    "ex_ja": "社員証を紛失してしまったので、再発行の手続きのために<ruby>総務課<rt>そうむか</rt></ruby>へ向かった。",
+    "ex_en": "Having misplaced my employee ID card, I went to the general affairs department to handle the reissuance procedure."
   },
   {
     "id": "n2_v_3069",
@@ -49306,8 +49306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひしょか",
     "ruby": "<ruby>秘書課<rt>ひしょか</rt></ruby>",
     "meaning": "秘書課 (ひしょか)",
-    "ex_ja": "<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>し、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>秘書課<rt>ひしょか</rt></ruby>へ<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
-    "ex_en": "I prepared the documents and submitted them to the 秘書課 (ひしょか)."
+    "ex_ja": "役員との面談日程を調整してもらうため、まず<ruby>秘書課<rt>ひしょか</rt></ruby>に連絡を入れた。",
+    "ex_en": "In order to schedule an appointment with the executive, I first contacted the secretarial department."
   },
   {
     "id": "n2_v_3070",
@@ -49498,8 +49498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いがくかい",
     "ruby": "<ruby>医学界<rt>いがくかい</rt></ruby>",
     "meaning": "医学界 (いがくかい)",
-    "ex_ja": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>実績<rt>じっせき</rt></ruby>が<ruby>評価<rt>ひょうか</rt></ruby>され、<ruby>医学界<rt>いがくかい</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
-    "ex_en": "Achievements were evaluated, attracting great attention in the 医学界 (いがくかい)."
+    "ex_ja": "新しいがん治療法の発見は、国内外の<ruby>医学界<rt>いがくかい</rt></ruby>に大きな衝撃と希望を与えた。",
+    "ex_en": "The discovery of the new cancer treatment brought great excitement and hope to the medical community both at home and abroad."
   },
   {
     "id": "n2_v_3082",
@@ -49562,8 +49562,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けっこんかん",
     "ruby": "<ruby>結婚観<rt>けっこんかん</rt></ruby>",
     "meaning": "結婚観 (けっこんかん)",
-    "ex_ja": "<ruby>海外<rt>かいがい</rt></ruby>での<ruby>体験<rt>たいけん</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて、<ruby>自身<rt>じしん</rt></ruby>の<ruby>結婚観<rt>けっこんかん</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>広<rt>ひろ</rt></ruby>がった。",
-    "ex_en": "Through experiences abroad, my 結婚観 (けっこんかん) broadened greatly."
+    "ex_ja": "世代が交代するにつれて、家柄を重視する伝統的な<ruby>結婚観<rt>けっこんかん</rt></ruby>は大きく変化してきた。",
+    "ex_en": "As generations have shifted, traditional views on marriage that prioritize family lineage have changed significantly."
   },
   {
     "id": "n2_v_3086",
@@ -49674,8 +49674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いったいかん",
     "ruby": "<ruby>一体感<rt>いったいかん</rt></ruby>",
     "meaning": "一体感 (いったいかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>一体感<rt>いったいかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 一体感 (いったいかん), I fulfilled my role to the end."
+    "ex_ja": "観客全員が同じ歌を合唱した瞬間、会場全体に素晴らしい<ruby>一体感<rt>いったいかん</rt></ruby>が生まれた。",
+    "ex_en": "The moment the entire audience sang along to the same song, a wonderful sense of unity emerged throughout the venue."
   },
   {
     "id": "n2_v_3093",
@@ -49690,8 +49690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいほうかん",
     "ruby": "<ruby>開放感<rt>かいほうかん</rt></ruby>",
     "meaning": "開放感 (かいほうかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>開放感<rt>かいほうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 開放感 (かいほうかん), I fulfilled my role to the end."
+    "ex_ja": "山頂に立ち、視界いっぱいに広がる青空と山並みを眺めていると、圧倒的な<ruby>開放感<rt>かいほうかん</rt></ruby>を味わえた。",
+    "ex_en": "Standing at the mountain summit and gazing out at the endless blue sky and mountain range, I felt an overwhelming sense of openness."
   },
   {
     "id": "n2_v_3094",
@@ -49706,8 +49706,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きんちょうかん",
     "ruby": "<ruby>緊張感<rt>きんちょうかん</rt></ruby>",
     "meaning": "緊張感 (きんちょうかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>緊張感<rt>きんちょうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 緊張感 (きんちょうかん), I fulfilled my role to the end."
+    "ex_ja": "本番直前の舞台裏には、出演者たちのピンと張り詰めた<ruby>緊張感<rt>きんちょうかん</rt></ruby>が漂っていた。",
+    "ex_en": "Backstage right before the performance, an unmistakable air of tension hung over the performers."
   },
   {
     "id": "n2_v_3095",
@@ -49722,8 +49722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうきゅうかん",
     "ruby": "<ruby>高級感<rt>こうきゅうかん</rt></ruby>",
     "meaning": "高級感 (こうきゅうかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>高級感<rt>こうきゅうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 高級感 (こうきゅうかん), I fulfilled my role to the end."
+    "ex_ja": "このホテルは落ち着いた照明と本革のインテリアで統一され、随所に<ruby>高級感<rt>こうきゅうかん</rt></ruby>が漂っている。",
+    "ex_en": "With understated lighting and genuine leather interior furnishings throughout, this hotel exudes a sense of luxury in every detail."
   },
   {
     "id": "n2_v_3096",
@@ -49738,8 +49738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうふくかん",
     "ruby": "<ruby>幸福感<rt>こうふくかん</rt></ruby>",
     "meaning": "幸福感 (こうふくかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>幸福感<rt>こうふくかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 幸福感 (こうふくかん), I fulfilled my role to the end."
+    "ex_ja": "温かい湯船に浸かって一日の疲れを癒やすとき、何物にも代えがたい<ruby>幸福感<rt>こうふくかん</rt></ruby>に包まれる。",
+    "ex_en": "Soaking in a warm bath to relieve the fatigue of the day envelops me in an irreplaceable sense of happiness."
   },
   {
     "id": "n2_v_3097",
@@ -49754,8 +49754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうじつかん",
     "ruby": "<ruby>充実感<rt>じゅうじつかん</rt></ruby>",
     "meaning": "充実感 (じゅうじつかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>充実感<rt>じゅうじつかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 充実感 (じゅうじつかん), I fulfilled my role to the end."
+    "ex_ja": "数か月に及ぶ大規模なプロジェクトを無事にやり遂げ、チーム全員が深い<ruby>充実感<rt>じゅうじつかん</rt></ruby>を味わった。",
+    "ex_en": "Having successfully completed a large-scale project spanning several months, the entire team felt a deep sense of fulfillment."
   },
   {
     "id": "n2_v_3098",
@@ -49770,8 +49770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たっせいかん",
     "ruby": "<ruby>達成感<rt>たっせいかん</rt></ruby>",
     "meaning": "達成感 (たっせいかん)",
-    "ex_ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>達成感<rt>たっせいかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
-    "ex_en": "With a strong sense of 達成感 (たっせいかん), I fulfilled my role to the end."
+    "ex_ja": "何度も挫折しそうになりながらフルマラソンを完走した瞬間、言葉にできないほどの<ruby>達成感<rt>たっせいかん</rt></ruby>が湧き上がった。",
+    "ex_en": "The moment I crossed the finish line of the full marathon after nearly giving up many times, an indescribable sense of achievement welled up inside me."
   },
   {
     "id": "n2_v_3099",
@@ -49914,8 +49914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしんがた",
     "ruby": "<ruby>最新型<rt>さいしんがた</rt></ruby>",
     "meaning": "最新型 (さいしんがた)",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>よりも<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>最新型<rt>さいしんがた</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めてください。",
-    "ex_en": "Please proceed with work, prioritizing 最新型 above all else."
+    "ex_ja": "今回発売された<ruby>最新型<rt>さいしんがた</rt></ruby>のスマートフォンは、省電力性能とカメラの画質が飛躍的に向上している。",
+    "ex_en": "The latest model smartphone released this time features dramatically improved battery efficiency and camera image quality."
   },
   {
     "id": "n2_v_3108",
@@ -50666,8 +50666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいがいざいじゅうしゃ",
     "ruby": "<ruby>海外在住者<rt>かいがいざいじゅうしゃ</rt></ruby>",
     "meaning": "海外在住者 (かいがいざいじゅうしゃ)",
-    "ex_ja": "イベントの<ruby>海外<rt>かいがい</rt></ruby><ruby>在住者<rt>ざいじゅうしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 海外在住者 (かいがいざいじゅうしゃ) of the event."
+    "ex_ja": "国政選挙では、在外公館を通じて<ruby>海外在住者<rt>かいがいざいじゅうしゃ</rt></ruby>も投票に参加することができる。",
+    "ex_en": "In national elections, residents living abroad can also participate in voting through overseas diplomatic missions."
   },
   {
     "id": "n2_v_3155",
@@ -50698,8 +50698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さくせいしゃ",
     "ruby": "<ruby>作成者<rt>さくせいしゃ</rt></ruby>",
     "meaning": "作成者 (さくせいしゃ)",
-    "ex_ja": "イベントの<ruby>作成者<rt>さくせいしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 作成者 (さくせいしゃ) of the event."
+    "ex_ja": "報告書の内容に不明な点があったため、記載の<ruby>作成者<rt>さくせいしゃ</rt></ruby>連絡先へ直接問い合わせた。",
+    "ex_en": "Because there were unclear points in the report, I inquired directly using the contact details of the document's author."
   },
   {
     "id": "n2_v_3157",
@@ -50714,8 +50714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅつえんしゃ",
     "ruby": "<ruby>出演者<rt>しゅつえんしゃ</rt></ruby>",
     "meaning": "出演者 (しゅつえんしゃ)",
-    "ex_ja": "イベントの<ruby>出演者<rt>しゅつえんしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 出演者 (しゅつえんしゃ) of the event."
+    "ex_ja": "生放送の番組が始まる前に、ディレクターが<ruby>出演者<rt>しゅつえんしゃ</rt></ruby>全員を集めて進行手順を確認した。",
+    "ex_en": "Before the live broadcast began, the director gathered all the cast members to review the schedule and cues."
   },
   {
     "id": "n2_v_3158",
@@ -50730,8 +50730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうきゅうしゃ",
     "ruby": "<ruby>上級者<rt>じょうきゅうしゃ</rt></ruby>",
     "meaning": "上級者 (じょうきゅうしゃ)",
-    "ex_ja": "イベントの<ruby>上級者<rt>じょうきゅうしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 上級者 (じょうきゅうしゃ) of the event."
+    "ex_ja": "このスキー場の<ruby>上級者<rt>じょうきゅうしゃ</rt></ruby>向けコースは傾斜が非常に急で、確かな技術が求められる。",
+    "ex_en": "The advanced course at this ski resort is extremely steep and requires solid technical skill."
   },
   {
     "id": "n2_v_3159",
@@ -50762,8 +50762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せっけいしゃ",
     "ruby": "<ruby>設計者<rt>せっけいしゃ</rt></ruby>",
     "meaning": "設計者 (せっけいしゃ)",
-    "ex_ja": "イベントの<ruby>設計者<rt>せっけいしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 設計者 (せっけいしゃ) of the event."
+    "ex_ja": "建物の安全性を確保するため、構造<ruby>設計者<rt>せっけいしゃ</rt></ruby>が現場に立ち会って耐震強度の確認を行った。",
+    "ex_en": "To ensure the safety of the building, the structural designer visited the site to verify earthquake resistance."
   },
   {
     "id": "n2_v_3161",
@@ -50778,8 +50778,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいしょうしゃ",
     "ruby": "<ruby>対象者<rt>たいしょうしゃ</rt></ruby>",
     "meaning": "対象者 (たいしょうしゃ)",
-    "ex_ja": "イベントの<ruby>対象者<rt>たいしょうしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 対象者 (たいしょうしゃ) of the event."
+    "ex_ja": "市の定期健康診断の案内通知が、今年度に<ruby>対象者<rt>たいしょうしゃ</rt></ruby>となる市民へ郵送された。",
+    "ex_en": "Notice of the municipal regular health screening was mailed to eligible residents for this fiscal year."
   },
   {
     "id": "n2_v_3162",
@@ -50826,8 +50826,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうどうかんけいしゃ",
     "ruby": "<ruby>報道関係者<rt>ほうどうかんけいしゃ</rt></ruby>",
     "meaning": "報道関係者 (ほうどうかんけいしゃ)",
-    "ex_ja": "イベントの<ruby>報道<rt>ほうどう</rt></ruby><ruby>関係者<rt>かんけいしゃ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>案内状<rt>あんないじょう</rt></ruby>が<ruby>発送<rt>はっそう</rt></ruby>された。",
-    "ex_en": "Detailed invitations were sent out to the 報道関係者 (ほうどうかんけいしゃ) of the event."
+    "ex_ja": "新製品の記者発表会場には、テレビ局や新聞社など多数の<ruby>報道関係者<rt>ほうどうかんけいしゃ</rt></ruby>が詰めかけた。",
+    "ex_en": "Numerous members of the press, including TV networks and newspaper publishers, packed the new product press conference venue."
   },
   {
     "id": "n2_v_3165",
@@ -51562,8 +51562,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あんぜんせい",
     "ruby": "<ruby>安全性<rt>あんぜんせい</rt></ruby>",
     "meaning": "安全性 (あんぜんせい)",
-    "ex_ja": "<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>分析<rt>ぶんせき</rt></ruby>によって、この<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>安全性<rt>あんぜんせい</rt></ruby>が<ruby>証明<rt>しょうめい</rt></ruby>された。",
-    "ex_en": "Through expert analysis, the 安全性 (あんぜんせい) of this technology was proven."
+    "ex_ja": "新しい医薬品を市場に投入する前に、臨床試験を通じてその有効性と<ruby>安全性<rt>あんぜんせい</rt></ruby>を徹底的に検証する。",
+    "ex_en": "Before releasing a new pharmaceutical product to the market, its efficacy and safety are thoroughly verified through clinical trials."
   },
   {
     "id": "n2_v_3211",
@@ -51610,8 +51610,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうなんせい",
     "ruby": "<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>",
     "meaning": "柔軟性 (じゅうなんせい)",
-    "ex_ja": "<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>分析<rt>ぶんせき</rt></ruby>によって、この<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>が<ruby>証明<rt>しょうめい</rt></ruby>された。",
-    "ex_en": "Through expert analysis, the 柔軟性 (じゅうなんせい) of this technology was proven."
+    "ex_ja": "予期せぬトラブルが発生した際、状況に応じて計画を修正できる<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>がリーダーには求められる。",
+    "ex_en": "When unexpected problems arise, leaders are expected to possess the flexibility to modify plans according to the situation."
   },
   {
     "id": "n2_v_3214",
@@ -51690,8 +51690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうこうせい",
     "ruby": "<ruby>方向性<rt>ほうこうせい</rt></ruby>",
     "meaning": "方向性 (ほうこうせい)",
-    "ex_ja": "<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>分析<rt>ぶんせき</rt></ruby>によって、この<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>方向性<rt>ほうこうせい</rt></ruby>が<ruby>証明<rt>しょうめい</rt></ruby>された。",
-    "ex_en": "Through expert analysis, the 方向性 (ほうこうせい) of this technology was proven."
+    "ex_ja": "役員会議において激しい議論が交わされ、今後の事業展開に関する明確な<ruby>方向性<rt>ほうこうせい</rt></ruby>が示された。",
+    "ex_en": "Heated discussions were held at the board meeting, and a clear direction for future business development was established."
   },
   {
     "id": "n2_v_3219",
@@ -51802,8 +51802,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょうかしょだい",
     "ruby": "<ruby>教科書代<rt>きょうかしょだい</rt></ruby>",
     "meaning": "教科書代 (きょうかしょだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>教科書<rt>きょうかしょ</rt></ruby><ruby>代<rt>か</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 教科書代 (きょうかしょだい) down."
+    "ex_ja": "大学の新学期が始まると、授業料だけでなく専門書の<ruby>教科書代<rt>きょうかしょだい</rt></ruby>もかなりの出費となる。",
+    "ex_en": "When the university's new semester begins, textbook expenses for specialized books become quite costly in addition to tuition."
   },
   {
     "id": "n2_v_3226",
@@ -51818,8 +51818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "でんきだい",
     "ruby": "<ruby>電気代<rt>でんきだい</rt></ruby>",
     "meaning": "電気代 (でんきだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>電気代<rt>でんきだい</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly 電気代 (でんきだい) down."
+    "ex_ja": "エアコンの使用頻度が増える夏場は、毎月の<ruby>電気代<rt>でんきだい</rt></ruby>が普段の倍近くに跳ね上がる。",
+    "ex_en": "In the summer when air conditioner use increases, monthly electricity bills jump to nearly double their usual amount."
   },
   {
     "id": "n2_v_3227",
@@ -51834,8 +51834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぷれぜんとだい",
     "ruby": "<ruby>プレゼント代<rt>ぷれぜんとだい</rt></ruby>",
     "meaning": "プレゼント代 (ぷれぜんとだい)",
-    "ex_ja": "<ruby>毎月<rt>まいつき</rt></ruby>のプレゼント<ruby>代<rt>か</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えられるよう、<ruby>日々<rt>ひび</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
-    "ex_en": "I try to save daily so as to keep monthly プレゼント代 (ぷれぜんとだい) down."
+    "ex_ja": "友人の結婚祝いを用意するため、同期の仲間たちとお金を出し合って<ruby>プレゼント代<rt>ぷれぜんとだい</rt></ruby>を集めた。",
+    "ex_en": "To arrange a wedding gift for our friend, my peers and I pooled our money together to cover the gift expense."
   },
   {
     "id": "n2_v_3228",
@@ -51930,8 +51930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんざいち",
     "ruby": "<ruby>現在地<rt>げんざいち</rt></ruby>",
     "meaning": "現在地 (げんざいち)",
-    "ex_ja": "<ruby>現在地<rt>げんざいち</rt></ruby>における<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現在地."
+    "ex_ja": "地図アプリのGPS機能を使って<ruby>現在地<rt>げんざいち</rt></ruby>を確認しながら、初めて訪れた観光地を散策した。",
+    "ex_en": "While checking my current location using the map app's GPS feature, I strolled around the tourist spot I was visiting for the first time."
   },
   {
     "id": "n2_v_3234",
@@ -52554,8 +52554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんじつばなれ",
     "ruby": "<ruby>現実離<rt>げんじつばな</rt></ruby>れ",
     "meaning": "現実離れ (げんじつばなれ)",
-    "ex_ja": "<ruby>現実<rt>げんじつ</rt></ruby><ruby>離<rt>はな</rt></ruby>れにおける<ruby>最新<rt>さいしん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>した。",
-    "ex_en": "We published the latest research results at the 現実離れ."
+    "ex_ja": "その映画で描かれた富裕層の贅沢な生活様式は、あまりにも<ruby>現実離れ<rt>げんじつばなれ</rt></ruby>していて現実感が湧かなかった。",
+    "ex_en": "The lavish lifestyle of the wealthy depicted in that movie was so detached from reality that it felt unreal."
   },
   {
     "id": "n2_v_3273",
@@ -52634,8 +52634,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんせつひ",
     "ruby": "<ruby>建設費<rt>けんせつひ</rt></ruby>",
     "meaning": "建設費 (けんせつひ)",
-    "ex_ja": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>建設費<rt>けんせつひ</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するために、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>支出<rt>ししゅつ</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>した。",
-    "ex_en": "In order to save on this month's 建設費 (けんせつひ), I reviewed unnecessary expenses."
+    "ex_ja": "資材価格の高騰や人件費の上昇により、新工場の<ruby>建設費<rt>けんせつひ</rt></ruby>が当初の見積もりを大幅に上回った。",
+    "ex_en": "Due to rising material prices and labor costs, the construction cost of the new factory significantly exceeded the initial estimate."
   },
   {
     "id": "n2_v_3278",
@@ -52666,8 +52666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ざいりょうひ",
     "ruby": "<ruby>材料費<rt>ざいりょうひ</rt></ruby>",
     "meaning": "材料費 (ざいりょうひ)",
-    "ex_ja": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>材料費<rt>ざいりょうひ</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するために、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>支出<rt>ししゅつ</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>した。",
-    "ex_en": "In order to save on this month's 材料費 (ざいりょうひ), I reviewed unnecessary expenses."
+    "ex_ja": "原油価格の上昇に伴ってプラスチックなどの原<ruby>材料費<rt>ざいりょうひ</rt></ruby>が膨らみ、企業の利益を圧迫している。",
+    "ex_en": "Driven by rising crude oil prices, raw material costs for plastics and other supplies have expanded, squeezing corporate profit margins."
   },
   {
     "id": "n2_v_3280",
@@ -52682,8 +52682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅうりひ",
     "ruby": "<ruby>修理費<rt>しゅうりひ</rt></ruby>",
     "meaning": "修理費 (しゅうりひ)",
-    "ex_ja": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>修理費<rt>しゅうりひ</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するために、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>支出<rt>ししゅつ</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>した。",
-    "ex_en": "In order to save on this month's 修理費 (しゅうりひ), I reviewed unnecessary expenses."
+    "ex_ja": "車をガードレールに擦ってしまい、板金塗装の<ruby>修理費<rt>しゅうりひ</rt></ruby>として予想以上の出費がかかってしまった。",
+    "ex_en": "I scraped my car against a guardrail, ending up with an unexpectedly large expense for body repair and repainting."
   },
   {
     "id": "n2_v_3281",
@@ -52714,8 +52714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうそうひ",
     "ruby": "<ruby>郵送費<rt>ゆうそうひ</rt></ruby>",
     "meaning": "郵送費 (ゆうそうひ)",
-    "ex_ja": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>郵送費<rt>ゆうそうひ</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するために、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>支出<rt>ししゅつ</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>した。",
-    "ex_en": "In order to save on this month's 郵送費 (ゆうそうひ), I reviewed unnecessary expenses."
+    "ex_ja": "契約書類を海外の支社へ至急送る必要があったため、国際スピード郵便の<ruby>郵送費<rt>ゆうそうひ</rt></ruby>が高くついた。",
+    "ex_en": "Because I needed to send the contract documents overseas urgently, the express mail postage turned out to be quite expensive."
   },
   {
     "id": "n2_v_3283",
@@ -52730,8 +52730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りょうひ",
     "ruby": "<ruby>寮費<rt>りょうひ</rt></ruby>",
     "meaning": "寮費 (りょうひ)",
-    "ex_ja": "<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>少<rt>すこ</rt></ruby>し<ruby>遠<rt>とお</rt></ruby>いけど、りょうひは<ruby>無料<rt>むりょう</rt></ruby>です。",
-    "ex_en": "Listen to the explanation about 寮費 (りょうひ)."
+    "ex_ja": "学生寮は毎月の<ruby>寮費<rt>りょうひ</rt></ruby>に水道光熱費が含まれているため、一人暮らしよりも生活費を大幅に抑えられる。",
+    "ex_en": "Because the dormitory's monthly board includes utilities, living expenses can be kept much lower than living alone."
   },
   {
     "id": "n2_v_3284",
@@ -52794,8 +52794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいしゃいんふう",
     "ruby": "<ruby>会社員風<rt>かいしゃいんふう</rt></ruby>",
     "meaning": "会社員風 (かいしゃいんふう)",
-    "ex_ja": "<ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>会社員<rt>かいしゃいん</rt></ruby><ruby>風<rt>かぜ</rt></ruby>のインテリアで<ruby>統一<rt>とういつ</rt></ruby>された<ruby>心地<rt>ここち</rt></ruby>よい<ruby>空間<rt>くうかん</rt></ruby>。",
-    "ex_en": "A comfortable space unified with calm 会社員風 (かいしゃいんふう) interior design."
+    "ex_ja": "喫茶店の隅で、<ruby>会社員風<rt>かいしゃいんふう</rt></ruby>の落ち着いたスーツ姿の男性が手帳を開いて熱心にメモを取っていた。",
+    "ex_en": "In the corner of the coffee shop, a man dressed in a neat business suit with the appearance of an office worker was intently jotting down notes in his planner."
   },
   {
     "id": "n2_v_3288",
@@ -52810,8 +52810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "びじねすまんふう",
     "ruby": "<ruby>ビジネスマン風<rt>びじねすまんふう</rt></ruby>",
     "meaning": "ビジネスマン風 (びじねすまんふう)",
-    "ex_ja": "<ruby>落ち着<rt>おちつ</rt></ruby>いたビジネスマン<ruby>風<rt>かぜ</rt></ruby>のインテリアで<ruby>統一<rt>とういつ</rt></ruby>された<ruby>心地<rt>ここち</rt></ruby>よい<ruby>空間<rt>くうかん</rt></ruby>。",
-    "ex_en": "A comfortable space unified with calm ビジネスマン風 (びじねすまんふう) interior design."
+    "ex_ja": "ホテルのロビーには、上質なトレンチコートを着こなした<ruby>ビジネスマン風<rt>びじねすまんふう</rt></ruby>の外国人客が待機していた。",
+    "ex_en": "In the hotel lobby, a foreign customer with a businessman-like appearance and a stylish high-quality trench coat was waiting."
   },
   {
     "id": "n2_v_3289",
@@ -52970,8 +52970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がくねんべつ",
     "ruby": "<ruby>学年別<rt>がくねんべつ</rt></ruby>",
     "meaning": "学年別 (がくねんべつ)",
-    "ex_ja": "<ruby>集<rt>あつ</rt></ruby>めたデータを<ruby>学年<rt>がくねん</rt></ruby><ruby>別<rt>べつ</rt></ruby>に<ruby>整理<rt>せいり</rt></ruby>し、<ruby>分<rt>わ</rt></ruby>かりやすい<ruby>表<rt>おもて</rt></ruby>にまとめた。",
-    "ex_en": "I organized the collected data by 学年別 (がくねんべつ) into an easy-to-understand table."
+    "ex_ja": "運動会では会場の混雑を避けるため、<ruby>学年別<rt>がくねんべつ</rt></ruby>に時間をずらして競技を実施することになった。",
+    "ex_en": "At the sports festival, events were scheduled at staggered times by grade level to avoid overcrowding at the venue."
   },
   {
     "id": "n2_v_3299",
@@ -52986,8 +52986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅるいべつ",
     "ruby": "<ruby>種類別<rt>しゅるいべつ</rt></ruby>",
     "meaning": "種類別 (しゅるいべつ)",
-    "ex_ja": "<ruby>集<rt>あつ</rt></ruby>めたデータを<ruby>種類別<rt>しゅるいべつ</rt></ruby>に<ruby>整理<rt>せいり</rt></ruby>し、<ruby>分<rt>わ</rt></ruby>かりやすい<ruby>表<rt>おもて</rt></ruby>にまとめた。",
-    "ex_en": "I organized the collected data by 種類別 (しゅるいべつ) into an easy-to-understand table."
+    "ex_ja": "図書館の書架には、膨大な蔵書が文学や歴史といった<ruby>種類別<rt>しゅるいべつ</rt></ruby>に分かりやすく分類されている。",
+    "ex_en": "On the library shelves, a vast collection of books is clearly categorized by genre, such as literature and history."
   },
   {
     "id": "n2_v_3300",
@@ -53002,8 +53002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちいきべつ",
     "ruby": "<ruby>地域別<rt>ちいきべつ</rt></ruby>",
     "meaning": "地域別 (ちいきべつ)",
-    "ex_ja": "<ruby>集<rt>あつ</rt></ruby>めたデータを<ruby>地域別<rt>ちいきべつ</rt></ruby>に<ruby>整理<rt>せいり</rt></ruby>し、<ruby>分<rt>わ</rt></ruby>かりやすい<ruby>表<rt>おもて</rt></ruby>にまとめた。",
-    "ex_en": "I organized the collected data by 地域別 (ちいきべつ) into an easy-to-understand table."
+    "ex_ja": "気象庁は、降雪量や警戒レベルを<ruby>地域別<rt>ちいきべつ</rt></ruby>に細かく色分けした警戒マップを公開した。",
+    "ex_en": "The Meteorological Agency published a warning map with detailed color-coding by region showing snowfall amounts and alert levels."
   },
   {
     "id": "n2_v_3301",
@@ -53434,8 +53434,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きおくりょく",
     "ruby": "<ruby>記憶力<rt>きおくりょく</rt></ruby>",
     "meaning": "記憶力 (きおくりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>記憶力<rt>きおくりょく</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 記憶力 (きおくりょく)."
+    "ex_ja": "彼は一度会った人の名前や顔を決して忘れないほど、並外れた<ruby>記憶力<rt>きおくりょく</rt></ruby>を持っている。",
+    "ex_en": "He has an extraordinary memory, never forgetting the name or face of anyone he has met once."
   },
   {
     "id": "n2_v_3328",
@@ -53450,8 +53450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごがくりょく",
     "ruby": "<ruby>語学力<rt>ごがくりょく</rt></ruby>",
     "meaning": "語学力 (ごがくりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>語学力<rt>ごがくりょく</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 語学力 (ごがくりょく)."
+    "ex_ja": "留学で培った高い<ruby>語学力<rt>ごがくりょく</rt></ruby>を活かして、海外企業との商談をスムーズに通訳した。",
+    "ex_en": "Leveraging the strong language skills developed while studying abroad, she smoothly interpreted the business negotiations with the overseas firm."
   },
   {
     "id": "n2_v_3329",
@@ -53482,8 +53482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅせんりょく",
     "ruby": "<ruby>主戦力<rt>しゅせんりょく</rt></ruby>",
     "meaning": "主戦力 (しゅせんりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>主戦<rt>しゅせん</rt></ruby><ruby>力<rt>ちから</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 主戦力 (しゅせんりょく)."
+    "ex_ja": "彼は入社3年目にして大型プロジェクトを任され、すでにチームの<ruby>主戦力<rt>しゅせんりょく</rt></ruby>として活躍している。",
+    "ex_en": "Entrusted with a major project in his third year at the company, he is already playing an active role as a key contributor to the team."
   },
   {
     "id": "n2_v_3331",
@@ -53530,8 +53530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どっかいりょく",
     "ruby": "<ruby>読解力<rt>どっかいりょく</rt></ruby>",
     "meaning": "読解力 (どっかいりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>読解力<rt>どっかいりょく</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 読解力 (どっかいりょく)."
+    "ex_ja": "難解な学術論文を正確に読み解くには、専門知識だけでなく深い<ruby>読解力<rt>どっかいりょく</rt></ruby>が求められる。",
+    "ex_en": "Accurately interpreting complex academic papers requires not only specialized knowledge but also strong reading comprehension."
   },
   {
     "id": "n2_v_3334",
@@ -53546,8 +53546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひょうげんりょく",
     "ruby": "<ruby>表現力<rt>ひょうげんりょく</rt></ruby>",
     "meaning": "表現力 (ひょうげんりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>表現力<rt>ひょうげんりょく</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 表現力 (ひょうげんりょく)."
+    "ex_ja": "その若手俳優は繊細な心理描写を見事に演じ分け、豊かな<ruby>表現力<rt>ひょうげんりょく</rt></ruby>で観客を魅了した。",
+    "ex_en": "The young actor skillfully portrayed subtle emotional shifts, captivating the audience with rich expressive ability."
   },
   {
     "id": "n2_v_3335",
@@ -53562,8 +53562,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りかいりょく",
     "ruby": "<ruby>理解力<rt>りかいりょく</rt></ruby>",
     "meaning": "理解力 (りかいりょく)",
-    "ex_ja": "<ruby>日々<rt>ひび</rt></ruby>の<ruby>継続的<rt>けいぞくてき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>によって、<ruby>確<rt>たし</rt></ruby>かな<ruby>理解力<rt>りかいりょく</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけた。",
-    "ex_en": "Through daily persistent effort, I acquired reliable 理解力 (りかいりょく)."
+    "ex_ja": "複雑な指示であっても即座に本質を捉える彼の優れた<ruby>理解力<rt>りかいりょく</rt></ruby>には、上司も一目置いている。",
+    "ex_en": "Even with complex instructions, his superior grasp allows him to immediately capture the essence, earning high praise from his supervisor."
   },
   {
     "id": "n2_v_3336",

@@ -1,8 +1,7 @@
-// JLPT N2 文字・語彙 徹底演習道場 完全データベース (全896問)
 window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 1,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "証明",
     "question": "支払いを【証明】できるものをお持ちください。",
@@ -67,11 +66,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 2,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "集める",
     "question": "教室に人を【集める】。",
-    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>人<rt>にん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【集める】</span><rt class=\"target-reading-spoiler\">あつめる</rt></ruby>。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【集める】</span><rt class=\"target-reading-spoiler\">あつめる</rt></ruby>。",
     "choices": [
       "もとめる",
       "まとめる",
@@ -116,7 +115,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 3,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "賞",
     "question": "彼の作品は必ず【賞】を取るだろう。",
@@ -165,7 +164,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 4,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "札",
     "question": "彼はミスをしないように、注意してお【札】を数えた。",
@@ -214,7 +213,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 5,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "姿",
     "question": "彼女が歩いている【姿】が窓から見えた。",
@@ -263,7 +262,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 6,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "根",
     "question": "草は【根】から抜かないと、すぐに生えてきてしまう。",
@@ -312,7 +311,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 7,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "劇",
     "question": "週末、彼女と【劇】を観に行く予定だ。",
@@ -361,7 +360,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 8,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "木造",
     "question": "【木造】のマンションは家賃が安い。",
@@ -426,7 +425,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 9,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "目印",
     "question": "自分のかさがどれかわかるように【目印】をつけた。",
@@ -491,7 +490,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 10,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "候補",
     "question": "彼女はオリンピック出場選手の【候補】に選ばれた。",
@@ -556,7 +555,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 11,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "破片",
     "question": "ガラスの【破片】で指を切ってしまった。",
@@ -621,7 +620,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 12,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "予防",
     "question": "かぜを【予防】するために、マスクを買った。",
@@ -686,7 +685,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 13,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "公共",
     "question": "【公共】の場ではマナーを守りましょう。",
@@ -751,7 +750,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 14,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "情景",
     "question": "昔聴いていた曲を聴くと、そのころの【情景】が目に浮かぶ。",
@@ -816,7 +815,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 15,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "装置",
     "question": "飛行機には安全を守るための【装置】がある。",
@@ -881,7 +880,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 16,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "気配",
     "question": "涼しい日が続き、秋の【気配】が感じられる。",
@@ -946,7 +945,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 17,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "民家",
     "question": "使われていない【民家】をレストランとして利用する。",
@@ -1011,7 +1010,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 18,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "現状",
     "question": "上司に仕事の【現状】を報告した。",
@@ -1076,7 +1075,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 19,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "入居",
     "question": "すぐ【入居】できる部屋を探しています。",
@@ -1141,7 +1140,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 20,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "封筒",
     "question": "お金が入った【封筒】を彼に渡した。",
@@ -1206,7 +1205,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 21,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "対象",
     "question": "この調査は女性を【対象】に行っています。",
@@ -1271,7 +1270,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 22,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "火災",
     "question": "家の近くで【火災】が起きたようだ。",
@@ -1336,7 +1335,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 23,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "専攻",
     "question": "大学では文学を【専攻】していました。",
@@ -1401,7 +1400,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 24,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "受診",
     "question": "おなかの調子が悪いので、内科を【受診】した。",
@@ -1466,7 +1465,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 25,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "視察",
     "question": "新しく研究所を建てる場所へ【視察】に行った。",
@@ -1531,7 +1530,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 26,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "持参",
     "question": "昼食は【持参】してください。",
@@ -1596,7 +1595,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 27,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "警告された",
     "question": "スピードの出しすぎは危険だと【警告された】。",
@@ -1661,7 +1660,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 28,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "製造",
     "question": "彼女は小さな部品を【製造】する研究所で働いている。",
@@ -1726,7 +1725,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 29,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "講演",
     "question": "新しい働き方について【講演】する。",
@@ -1791,7 +1790,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 30,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "増加",
     "question": "国の人口が【増加】している。",
@@ -1856,7 +1855,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 31,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "参照",
     "question": "次のページにあるグラフを【参照】してください。",
@@ -1921,7 +1920,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 32,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "収納",
     "question": "寒くなってきたので夏服を箱に【収納】する。",
@@ -1986,7 +1985,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 33,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "張る",
     "question": "二人で協力してテントを【張る】。",
@@ -2035,7 +2034,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 34,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "補う",
     "question": "運動しているときは、十分な水分を【補う】と良い。",
@@ -2084,7 +2083,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 35,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "破れて",
     "question": "お気に入りの服が【破れて】しまった。",
@@ -2133,7 +2132,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 36,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "防ぐ",
     "question": "事故を【防ぐ】ための方法を考える。",
@@ -2182,7 +2181,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 37,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "除いて",
     "question": "この内容は一部を【除いて】全て真実です。",
@@ -2231,7 +2230,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 38,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "汚して",
     "question": "うっかり服を【汚して】しまった。",
@@ -2280,7 +2279,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 39,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "限り",
     "question": "小学生に【限り】、入場料は無料です。",
@@ -2329,7 +2328,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 40,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "催す",
     "question": "部長の送別会を【催す】。",
@@ -2378,7 +2377,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 41,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "配って",
     "question": "駅前でチラシを【配って】いる。",
@@ -2427,7 +2426,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 42,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "勧められて",
     "question": "友達に【勧められて】、ランニングを始めた。",
@@ -2476,7 +2475,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 43,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "基づいて",
     "question": "事実に【基づいて】記事を書く。",
@@ -2525,7 +2524,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 44,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "応える",
     "question": "親の期待に【応える】ために努力する。",
@@ -2574,7 +2573,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 45,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "異なる",
     "question": "私と妹は、顔はそっくりだが性格は【異なる】。",
@@ -2623,7 +2622,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 46,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "改める",
     "question": "組織のルールを【改める】。",
@@ -2672,7 +2671,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 47,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "納める",
     "question": "国に税金を【納める】。",
@@ -2721,7 +2720,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 48,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "荒い",
     "question": "彼は言葉づかいが【荒い】。",
@@ -2770,7 +2769,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 49,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "硬く",
     "question": "ストレッチをしないと体が【硬く】なる。",
@@ -2819,7 +2818,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 50,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "渋くて",
     "question": "このお茶は【渋くて】飲めない。",
@@ -2868,7 +2867,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 51,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "怖い",
     "question": "最近【怖い】夢ばかり見る。",
@@ -2917,7 +2916,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 52,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "薄くて",
     "question": "資料を印刷したが、文字が【薄くて】読めない。",
@@ -2966,7 +2965,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 53,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "激しく",
     "question": "頭が【激しく】痛むので、病院へ行った。",
@@ -3015,11 +3014,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 54,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "相応しい",
     "question": "彼女ほどリーダーに【相応しい】人はいない。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>ほどリーダーに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【相応しい】</span><rt class=\"target-reading-spoiler\">ふさわしい</rt></ruby><ruby>人<rt>にん</rt></ruby>はいない。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>ほどリーダーに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【相応しい】</span><rt class=\"target-reading-spoiler\">ふさわしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>はいない。",
     "choices": [
       "くわしい",
       "ふさわしい",
@@ -3080,7 +3079,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 55,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "著しく",
     "question": "チームの面々はこの一年で【著しく】成長した。",
@@ -3129,7 +3128,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 56,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "厳しい",
     "question": "今週は【厳しい】暑さが続くでしょう。",
@@ -3178,7 +3177,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 57,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "苦しい",
     "question": "全力で走ったので、息が【苦しい】。",
@@ -3227,7 +3226,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 58,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "柔軟に",
     "question": "スタッフが【柔軟に】対応してくれた。",
@@ -3292,7 +3291,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 59,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "率直",
     "question": "皆様の【率直】な意見を聞かせてください。",
@@ -3357,7 +3356,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 60,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "欲張り",
     "question": "そばもラーメンも食べたいなんて、【欲張り】なことを言うな。",
@@ -3422,7 +3421,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 61,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "濃厚",
     "question": "このラーメン屋さんは【濃厚】なスープが有名らしい。",
@@ -3487,7 +3486,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 62,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "単純な",
     "question": "こんな【単純な】計算も間違えるなんて恥ずかしい。",
@@ -3552,7 +3551,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 63,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "大幅",
     "question": "出発時間が、【大幅】に変更された。",
@@ -3617,7 +3616,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 64,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "深刻",
     "question": "今年は雨が少なく、【深刻】な水不足となった。",
@@ -3682,7 +3681,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 65,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "巨大",
     "question": "海で遊んでいたら、【巨大】なたこが現れた。",
@@ -3747,7 +3746,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 66,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "豊富",
     "question": "この地域は、魚や貝が【豊富】にとれることで有名だ。",
@@ -3812,7 +3811,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 67,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "安価",
     "question": "【安価】な食材を使って、おいしい料理を作るのが得意だ。",
@@ -3877,7 +3876,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 68,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "存分",
     "question": "久しぶりの旅行を【存分】に楽しみたい。",
@@ -3942,7 +3941,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 69,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "全く",
     "question": "小林さんは、食べ物に【全く】関心がない。",
@@ -3991,7 +3990,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 70,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "実におもしろい",
     "question": "今回の調査で、【実におもしろい】発見があった。",
@@ -4040,7 +4039,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 71,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "早速",
     "question": "では【早速】、作業を始めましょう。",
@@ -4105,7 +4104,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 72,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "常に",
     "question": "祖母からもらった指輪を【常に】身に着けている。",
@@ -4154,7 +4153,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 73,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "企画",
     "question": "新しい【きかく】を考えた。",
@@ -4219,7 +4218,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 74,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "迷い",
     "question": "自分でやると決めたからには、もう【まよい】はない。",
@@ -4268,7 +4267,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 75,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "恵み",
     "question": "この卵は大自然の【めぐみ】の中で育ちました。",
@@ -4317,7 +4316,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 76,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "お腹",
     "question": "たくさん食べて【おなか】がいっぱいになった。",
@@ -4366,7 +4365,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 77,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "乱れ",
     "question": "食生活の【みだれ】は、様々な体調不良を引き起こす。",
@@ -4415,7 +4414,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 78,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "足腰",
     "question": "【あしこし】を強くするために、毎日5キロ歩いている。",
@@ -4480,7 +4479,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 79,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "市販",
     "question": "かぜをひいたので、【しはん】の薬を飲んだ。",
@@ -4545,7 +4544,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 80,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "距離",
     "question": "家から研修所までの【きょり】はどのくらいですか。",
@@ -4610,7 +4609,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 81,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "企業",
     "question": "有名な【きぎょう】に就職することになった。",
@@ -4675,7 +4674,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 82,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "地域",
     "question": "この【ちいき】には、めずらしい動物がたくさんいる。",
@@ -4740,7 +4739,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 83,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "評判",
     "question": "新しくできたケーキ屋さんは【ひょうばん】が良い。",
@@ -4805,7 +4804,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 84,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "被害",
     "question": "台風の【ひがい】はそれほど受けなかった。",
@@ -4870,7 +4869,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 85,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "筋肉",
     "question": "【きんにく】をつけるため、ジムに通っている。",
@@ -4935,7 +4934,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 86,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "環境",
     "question": "勉強に集中できる【かんきょう】を整える。",
@@ -5000,7 +4999,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 87,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "栄養",
     "question": "【えいよう】をたくさんとって、たくさん寝ましょう。",
@@ -5065,11 +5064,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 88,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "態度",
     "question": "うそをついている人は、【たいど】でわかる。",
-    "question_ruby": "うそをついている<ruby>人<rt>にん</rt></ruby>は、【たいど】でわかる。",
+    "question_ruby": "うそをついている<ruby>人<rt>ひと</rt></ruby>は、【たいど】でわかる。",
     "choices": [
       "態度",
       "熊度",
@@ -5130,7 +5129,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 89,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "年齢",
     "question": "ここに名前と【ねんれい】を書いてください。",
@@ -5195,7 +5194,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 90,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "声援",
     "question": "クラスメイトの【せいえん】が聞こえる。",
@@ -5260,7 +5259,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 91,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "目標",
     "question": "毎日5キロ走ることが【もくひょう】だ。",
@@ -5325,7 +5324,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 92,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "健康",
     "question": "何をするにも、【けんこう】が一番大切だ。",
@@ -5390,7 +5389,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 93,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "伝統",
     "question": "この研修所の【でんとう】は今も守られている。",
@@ -5455,7 +5454,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 94,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "周囲",
     "question": "この島の【しゅうい】は砂浜で囲まれている。",
@@ -5520,7 +5519,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 95,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "医療",
     "question": "研究者のおかげで、【いりょう】が進歩した。",
@@ -5585,7 +5584,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 96,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "資源",
     "question": "地球上の【しげん】は限られている。",
@@ -5650,7 +5649,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 97,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "警察",
     "question": "歩いていたら、【けいさつ】に声をかけられた。",
@@ -5715,7 +5714,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 98,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "記憶",
     "question": "昨日、薬を飲んだ【きおく】がない。",
@@ -5775,7 +5774,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 99,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "寮費",
     "question": "会社から少し遠いけど、【りょうひ】は無料です。",
@@ -5835,7 +5834,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 100,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "幸福",
     "question": "家で犬と遊んでいるとき、【こうふく】を感じる。",
@@ -5900,7 +5899,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 101,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "総務",
     "question": "会社で【そうむ】として4年間勤務した。",
@@ -5965,7 +5964,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 102,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "視点",
     "question": "様々な【してん】から、物事を考えてみる。",
@@ -6030,7 +6029,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 103,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "金額",
     "question": "商品の【きんがく】を確認する。",
@@ -6095,7 +6094,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 104,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "比較",
     "question": "兄と自分の給料を【ひかく】する。",
@@ -6150,7 +6149,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 105,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "精算",
     "question": "使ったお金を全て【せいさん】する。",
@@ -6215,7 +6214,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 106,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "勤務",
     "question": "神戸支社で【きんむ】しています。",
@@ -6280,7 +6279,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 107,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "想像",
     "question": "相手の気持ちを【そうぞう】する。",
@@ -6345,7 +6344,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 108,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "信頼",
     "question": "部長はみんなから【しんらい】されている。",
@@ -6410,7 +6409,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 109,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "雇う",
     "question": "新しい社員を【やとう】ことにした。",
@@ -6459,7 +6458,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 110,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "響いた",
     "question": "先生の言葉が心に【ひびいた】。",
@@ -6508,7 +6507,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 111,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "就きたい",
     "question": "良い大学を卒業して良い仕事に【つきたい】。",
@@ -6557,7 +6556,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 112,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "頼って",
     "question": "困ったらいつでも【たよって】ください。",
@@ -6606,7 +6605,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 113,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "掃く",
     "question": "家の前の落ち葉をほうきで【はく】。",
@@ -6655,7 +6654,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 114,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "含む",
     "question": "いちごはビタミンを多く【ふくむ】果物だ。",
@@ -6704,7 +6703,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 115,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "招かれた",
     "question": "誕生日パーティーに【まねかれた】。",
@@ -6753,7 +6752,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 116,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "従う",
     "question": "上司の命令には【したがう】べきだ。",
@@ -6802,7 +6801,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 117,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "競う",
     "question": "友達とテストの点数を【きそう】。",
@@ -6851,7 +6850,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 118,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "寄る",
     "question": "研修所帰りに駅前のカフェに【よる】。",
@@ -6900,7 +6899,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 119,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "間違う",
     "question": "日本人でも漢字を【まちがう】ことはよくある。",
@@ -6965,7 +6964,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 120,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "過ぎる",
     "question": "時間が【すぎる】のは早いものですね。",
@@ -7014,7 +7013,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 121,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "慣れて",
     "question": "外国での生活にやっと【なれて】きた。",
@@ -7063,7 +7062,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 122,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "勤めて",
     "question": "年以上、同じ会社に【つとめて】いる。",
@@ -7112,7 +7111,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 123,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "乾かない",
     "question": "雨の日は服がなかなか【かわかない】。",
@@ -7161,11 +7160,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 124,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "求めた",
     "question": "近くの人に助けを【もとめた】。",
-    "question_ruby": "<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>助け<rt>たすけ</rt></ruby>を【もとめた】。",
+    "question_ruby": "<ruby>近く<rt>ちかく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>助け<rt>たすけ</rt></ruby>を【もとめた】。",
     "choices": [
       "救めた",
       "求めた",
@@ -7210,7 +7209,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 125,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "減らす",
     "question": "体重を【へらす】ために運動を始めた。",
@@ -7259,7 +7258,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 126,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "枯れて",
     "question": "大切に育てていた花が【かれて】しまった。",
@@ -7308,7 +7307,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 127,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "抜けて",
     "question": "虫歯になって、歯が【ぬけて】しまった。",
@@ -7357,7 +7356,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 128,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "増えた",
     "question": "この一年で、社員が二倍に【ふえた】。",
@@ -7406,7 +7405,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 129,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "甘い",
     "question": "【あまい】ものを食べすぎて太ってしまった。",
@@ -7455,7 +7454,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 130,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "賢い",
     "question": "犬は【かしこい】動物だ。",
@@ -7504,7 +7503,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 131,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "辛い",
     "question": "【つらい】ことがあったら相談してね。",
@@ -7553,7 +7552,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 132,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "恐ろしい",
     "question": "家の近くで【おそろしい】事件が起きた。",
@@ -7602,7 +7601,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 133,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "頼もしい",
     "question": "彼女は困ったときに助けてくれる【たのもしい】存在だ。",
@@ -7651,7 +7650,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 134,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "快適",
     "question": "この部屋は広くて【かいてき】だ。",
@@ -7716,7 +7715,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 135,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "複雑",
     "question": "娘が実家を出ることになり、【ふくざつ】な気持ちになった。",
@@ -7781,7 +7780,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 136,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "得意",
     "question": "私は泳ぐのが【とくい】です。",
@@ -7846,7 +7845,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 137,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "過激",
     "question": "子どもの前で【かげき】な発言はしないでください。",
@@ -7911,11 +7910,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 138,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "完璧",
     "question": "彼は頭も良くて性格も良い【かんぺき】な人だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>も<ruby>良く<rt>よく</rt></ruby>て<ruby>性格<rt>せいかく</rt></ruby>も<ruby>良い<rt>よい</rt></ruby>【かんぺき】な<ruby>人<rt>にん</rt></ruby>だ。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>も<ruby>良く<rt>よく</rt></ruby>て<ruby>性格<rt>せいかく</rt></ruby>も<ruby>良い<rt>よい</rt></ruby>【かんぺき】な<ruby>人<rt>ひと</rt></ruby>だ。",
     "choices": [
       "完璧",
       "完壁",
@@ -7966,7 +7965,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 139,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "一層",
     "question": "より【いっそう】努力して参ります。",
@@ -8031,7 +8030,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 140,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "普段",
     "question": "パーティーなので、【ふだん】は着ない服を着た。",
@@ -8096,7 +8095,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 141,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "割",
     "question": "値段の【わり】に良い商品だ。",
@@ -8145,7 +8144,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 142,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "即座",
     "question": "が起きたら、【そくざ】に対応するべきだ。",
@@ -8210,7 +8209,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 143,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "仮",
     "question": "【かり】に今回うまくいったとしても、次も成功するとは限らない。",
@@ -8259,14 +8258,14 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 144,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
-    "target_word": "無",
-    "question": "リサイクルショップで（　　　）使用の携帯を買う。",
+    "target_word": "未",
+    "question": "フリマアプリで、（　　　）使用のスマートフォンを購入した。",
     "question_ruby": "リサイクルショップで（　　　）<ruby>使用<rt>しよう</rt></ruby>の<ruby>携帯<rt>けいたい</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>。",
     "choices": [
-      "無",
       "未",
+      "無",
       "非",
       "準"
     ],
@@ -8277,7 +8276,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>準<rt>じゅん</rt></ruby>"
     ],
     "answer": 0,
-    "correct_text": "無",
+    "correct_text": "未",
     "meaning_en": "nothing; naught",
     "explanation": "",
     "kanji_info": [
@@ -8308,16 +8307,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 145,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
-    "target_word": "古",
-    "question": "職員会議で（　　　）校舎を取り壊すことが決まった。",
+    "target_word": "旧",
+    "question": "安全対策のため、（　　　）校舎を取り壊すことが決まった。",
     "question_ruby": "<ruby>職員<rt>しょくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>で（　　　）<ruby>校舎<rt>こうしゃ</rt></ruby>を<ruby>取り<rt>とり</rt></ruby><ruby>壊す<rt>こわす</rt></ruby>ことが<ruby>決ま<rt>きま</rt></ruby>った。",
     "choices": [
-      "古",
       "旧",
-      "昔",
-      "去"
+      "古",
+      "前",
+      "元"
     ],
     "choices_ruby": [
       "<ruby>古<rt>こ</rt></ruby>",
@@ -8326,7 +8325,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>去<rt>きょ</rt></ruby>"
     ],
     "answer": 0,
-    "correct_text": "古",
+    "correct_text": "旧",
     "meaning_en": "antiquity; ancient times",
     "explanation": "",
     "kanji_info": [
@@ -8357,7 +8356,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 146,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "主",
     "question": "卵の（　　　）成分はタンパク質である。",
@@ -8406,10 +8405,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 147,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "前",
-    "question": "町長は町のみんなから愛されていた。（　　　）",
+    "question": "（　　　）町長は市民のみんなから深く愛されていた。",
     "question_ruby": "<ruby>町長<rt>ちょうちょう</rt></ruby>は<ruby>町<rt>まち</rt></ruby>のみんなから<ruby>愛さ<rt>あいさ</rt></ruby>れていた。（　　　）",
     "choices": [
       "古",
@@ -8455,7 +8454,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 148,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "再",
     "question": "レポートを修正して（　　　）提出してください。",
@@ -8504,7 +8503,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 149,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "真",
     "question": "彼女は（　　　）新しい服を着て、うれしそうに出かけて行った。",
@@ -8553,7 +8552,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 150,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "未",
     "question": "この仕事は、（　　　）経験の方でも簡単にできる仕事です。",
@@ -8602,7 +8601,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 151,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "好",
     "question": "彼が遅刻してきたことは、私にとって（　　　）都合だった。",
@@ -8651,10 +8650,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 152,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "準",
-    "question": "決勝で去年の優勝チームと戦うことになっている。（　　　）",
+    "question": "（　　　）決勝で去年の優勝チームと対戦することになっている。",
     "question_ruby": "<ruby>決勝<rt>けっしょう</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>チームと<ruby>戦う<rt>たたかう</rt></ruby>ことになっている。（　　　）",
     "choices": [
       "前",
@@ -8700,10 +8699,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 153,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "来",
-    "question": "学期もオンライン授業が続くそうだ。（　　　）",
+    "question": "（　　　）学期も一部の講義はオンライン形式が続くそうだ。",
     "question_ruby": "<ruby>学期<rt>がっき</rt></ruby>もオンライン<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>続く<rt>つづく</rt></ruby>そうだ。（　　　）",
     "choices": [
       "来",
@@ -8749,7 +8748,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 154,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "最",
     "question": "彼はこの日本語クラスで（　　　）年少だが成績はトップだ。",
@@ -8798,11 +8797,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 155,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "総",
     "question": "この村の（　　　）人口は約1000人だ。",
-    "question_ruby": "この<ruby>村<rt>むら</rt></ruby>の（　　　）<ruby>人口<rt>じんこう</rt></ruby>は<ruby>約<rt>やく</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>だ。",
+    "question_ruby": "この<ruby>村<rt>むら</rt></ruby>の（　　　）<ruby>人口<rt>じんこう</rt></ruby>は<ruby>約<rt>やく</rt></ruby>1000<ruby>人<rt>ひと</rt></ruby>だ。",
     "choices": [
       "高",
       "総",
@@ -8847,7 +8846,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 156,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "非",
     "question": "この動画は昨日から（　　　）公開になっている。",
@@ -8896,10 +8895,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 157,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "現",
-    "question": "段階ではイベントを中止する予定です。（　　　）",
+    "question": "（　　　）段階ではイベントの開催を見合わせる予定です。",
     "question_ruby": "<ruby>段階<rt>だんかい</rt></ruby>ではイベントを<ruby>中止<rt>ちゅうし</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。（　　　）",
     "choices": [
       "先",
@@ -8945,10 +8944,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 158,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "全",
-    "question": "自動の洗濯機を買ってから、家事が楽になった。（　　　）",
+    "question": "（　　　）自動の洗濯乾燥機を導入してから、家事が格段に楽になった。",
     "question_ruby": "<ruby>自動<rt>じどう</rt></ruby>の<ruby>洗濯機<rt>せんたくき</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てから、<ruby>家事<rt>かじ</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>になった。（　　　）",
     "choices": [
       "全",
@@ -8994,7 +8993,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 159,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "半",
     "question": "寝ているとき、目が（　　　）開きになってしまう。",
@@ -9043,10 +9042,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 160,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "元",
-    "question": "医師の先生が講演会を開いてくださった。（　　　）",
+    "question": "（　　　）医師の先生が地域医療についての特別講演会を開いてくださった。",
     "question_ruby": "<ruby>医師<rt>いし</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>講演会<rt>こうえんかい</rt></ruby>を<ruby>開い<rt>ひらい</rt></ruby>てくださった。（　　　）",
     "choices": [
       "前",
@@ -9092,7 +9091,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 161,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "薄",
     "question": "彼は（　　　）笑いを浮かべてこちらを見ている。",
@@ -9141,7 +9140,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 162,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "初",
     "question": "このカフェは、先月日本に（　　　）上陸した。",
@@ -9190,7 +9189,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 163,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "低",
     "question": "健康のために（　　　）カロリーの食品を買うようにしている。",
@@ -9239,7 +9238,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 164,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "異",
     "question": "このアニメは、主人公が（　　　）世界に行ってしまうという物語だ。",
@@ -9288,7 +9287,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 165,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "先",
     "question": "こちらに勤務（　　　）の住所をご記入ください。",
@@ -9337,7 +9336,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 166,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "元",
     "question": "資料には、データの引用（　　　）を必ず書いてください。",
@@ -9386,7 +9385,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 167,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "式",
     "question": "組み立て（　　　）のベッドを買った。",
@@ -9435,7 +9434,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 168,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "費",
     "question": "節約したおかげで、今月の光熱（　　　）を抑えることができた。",
@@ -9484,7 +9483,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 169,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "類",
     "question": "割れないように、食器（　　　）は包装してこの箱に入れてください。",
@@ -9533,7 +9532,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 170,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "風",
     "question": "このレストランは店の雰囲気も味も和（　　　）だ。",
@@ -9582,7 +9581,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 171,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "差",
     "question": "遊びのルールには、多少の地域（　　　）がある。",
@@ -9631,7 +9630,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 172,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "状",
     "question": "液体（　　　）のものは、飛行機の中に持ち込むことはできない。",
@@ -9680,7 +9679,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 173,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "代",
     "question": "電気（　　　）を払い忘れて、電気を止められてしまった。",
@@ -9729,7 +9728,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 174,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "順",
     "question": "ここにある本はアルファベット（　　　）に並んでいる。",
@@ -9778,7 +9777,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 175,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "金",
     "question": "奨学 （　　　）をもらいながら大学に通っている。",
@@ -9827,7 +9826,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 176,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "点",
     "question": "変更（　　　）をいくつかお伝えします。",
@@ -9876,7 +9875,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 177,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "着",
     "question": "部屋（　　　）のまま駅前のカフェへ行っておにぎりを買った。",
@@ -9925,7 +9924,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 178,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "流",
     "question": "彼の仕事の進め方は、いかにも日本（　　　）だ。",
@@ -9974,7 +9973,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 179,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "証",
     "question": "この建物に入るときは、入場許可（　　　）を提示してください。",
@@ -10023,7 +10022,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 180,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "書",
     "question": "一週間以内に見積（　　　）をお送りします。",
@@ -10072,7 +10071,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 181,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "別",
     "question": "全国の駅前のカフェの数を地域（　　　）にグラフにした。",
@@ -10121,7 +10120,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 182,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "手",
     "question": "聞き（　　　）の興味がわくような話をする。",
@@ -10170,7 +10169,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 183,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "型",
     "question": "参加（　　　）のイベントの方が盛り上がる。",
@@ -10219,7 +10218,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 184,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "制",
     "question": "この美容院は予約（　　　）となっています。",
@@ -10268,7 +10267,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 185,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "上",
     "question": "彼は病気で活動を休むと発表したが、これは事実（　　　）の引退だろう。",
@@ -10317,7 +10316,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 186,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "下",
     "question": "生徒は教師の管理（　　　）で、安全に登校しています。",
@@ -10366,7 +10365,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 187,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "量",
     "question": "奈良府は日本で最もコーヒーの消費（　　　）が多いところです。",
@@ -10415,7 +10414,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 188,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "内",
     "question": "彼と決勝で戦うのは想定（　　　）だ。",
@@ -10464,11 +10463,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 189,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "観",
     "question": "価値（　　　）が合う人と結婚したい。",
-    "question_ruby": "<ruby>価値<rt>かち</rt></ruby>（　　　）が<ruby>合う<rt>あう</rt></ruby><ruby>人<rt>にん</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>したい。",
+    "question_ruby": "<ruby>価値<rt>かち</rt></ruby>（　　　）が<ruby>合う<rt>あう</rt></ruby><ruby>人<rt>ひと</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>したい。",
     "choices": [
       "感",
       "点",
@@ -10513,7 +10512,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 190,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "切れ",
     "question": "新しく入ってきたばかりなのに、もう売り（　　　）になってしまった。",
@@ -10562,7 +10561,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 191,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "気味",
     "question": "昨日からかぜ（　　　）で、食欲もない。",
@@ -10627,7 +10626,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 192,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "離れ",
     "question": "インターネットの発達による若者の読書（　　　）が問題になっている。",
@@ -10676,7 +10675,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 193,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "明 け",
     "question": "宿題をしなかったので、夏休み（　　　）から先生にしかられてしまった。",
@@ -10725,7 +10724,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 194,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "沿 い",
     "question": "海岸（　　　）に新しいレストランができた。",
@@ -10774,16 +10773,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 195,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "味方",
-    "question": "改めて仕事の（　　　）とやり方を考え直す。",
+    "target_word": "方針",
+    "question": "新年度を迎えるにあたり、チーム全体の活動（　　　）と具体的な目標を改めて話し合った。",
     "question_ruby": "<ruby>改め<rt>あらため</rt></ruby>て<ruby>仕事<rt>しごと</rt></ruby>の（　　　）とやり<ruby>方<rt>ほう</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby><ruby>直す<rt>なおす</rt></ruby>。",
     "choices": [
-      "味方",
+      "方針",
       "方面",
       "方角",
-      "方針"
+      "味方"
     ],
     "choices_ruby": [
       "<ruby>味方<rt>みかた</rt></ruby>",
@@ -10792,7 +10791,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>方針<rt>ほうしん</rt></ruby>"
     ],
     "answer": 0,
-    "correct_text": "味方",
+    "correct_text": "方針",
     "meaning_en": "friend; ally",
     "explanation": "",
     "kanji_info": [
@@ -10839,7 +10838,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 196,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "家計",
     "question": "プロのサッカー選手になって（　　　）を立てるのが私の夢だ。",
@@ -10904,7 +10903,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 197,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "専属",
     "question": "芸能人には（　　　）のマネージャーがいることが一般的だ。",
@@ -10969,7 +10968,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 198,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "土台",
     "question": "健康の（　　　）を作るためには、食事と運動が欠かせない。",
@@ -11034,7 +11033,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 199,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "詳細",
     "question": "警察に事件の（　　　）について聞いた。",
@@ -11099,7 +11098,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 200,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "代理",
     "question": "社長は体調不良で外出できないため、私が（　　　）で会議に参加した。",
@@ -11164,10 +11163,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 201,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "悪意",
-    "question": "を込めて言ったわけではないことはわかっているが、彼の一言で私は落ち込んだ。（　　　）",
+    "question": "（　　　）を込めて言ったわけではないことは分かっているが、彼の一言で私はひどく落ち込んだ。",
     "question_ruby": "を<ruby>込め<rt>こめ</rt></ruby>て<ruby>言った<rt>いった</rt></ruby>わけではないことはわかっているが、<ruby>彼<rt>かれ</rt></ruby>の<ruby>一言<rt>ひとこと</rt></ruby>で<ruby>私<rt>わたし</rt></ruby>は<ruby>落ち込ん<rt>おちこん</rt></ruby>だ。（　　　）",
     "choices": [
       "悪意",
@@ -11229,11 +11228,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 202,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "教養",
-    "question": "を身につけることは、いろんな人と関わる上で必要なことだと思う。（　　　）",
-    "question_ruby": "を<ruby>身に<rt>みに</rt></ruby>つけることは、いろんな<ruby>人<rt>にん</rt></ruby>と<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>上<rt>うえ</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>なことだと<ruby>思う<rt>おもう</rt></ruby>。（　　　）",
+    "question": "社会人として適切な（　　　）を身につけることは、多様な人々と信頼関係を築く上で欠かせない。",
+    "question_ruby": "を<ruby>身に<rt>みに</rt></ruby>つけることは、いろんな<ruby>人<rt>ひと</rt></ruby>と<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>上<rt>うえ</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>なことだと<ruby>思う<rt>おもう</rt></ruby>。（　　　）",
     "choices": [
       "栄養",
       "教養",
@@ -11294,7 +11293,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 203,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "成果",
     "question": "この会社では、仕事の（　　　）に応じて給料を決めています。",
@@ -11359,11 +11358,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 204,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "実績",
     "question": "これまでの（　　　）がなくても、やる気がある人を採用しよう。",
-    "question_ruby": "これまでの（　　　）がなくても、やる<ruby>気<rt>き</rt></ruby>がある<ruby>人<rt>にん</rt></ruby>を<ruby>採用<rt>さいよう</rt></ruby>しよう。",
+    "question_ruby": "これまでの（　　　）がなくても、やる<ruby>気<rt>き</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>を<ruby>採用<rt>さいよう</rt></ruby>しよう。",
     "choices": [
       "実績",
       "相性",
@@ -11424,11 +11423,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 205,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "以後",
     "question": "頭の良さと性格の良さはどちらも大切だが、（　　　）の方が人として大切な要素だと思う。",
-    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>の<ruby>良さ<rt>よさ</rt></ruby>と<ruby>性格<rt>せいかく</rt></ruby>の<ruby>良さ<rt>よさ</rt></ruby>はどちらも<ruby>大切<rt>たいせつ</rt></ruby>だが、（　　　）の<ruby>方<rt>ほう</rt></ruby>が<ruby>人<rt>にん</rt></ruby>として<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
+    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>の<ruby>良さ<rt>よさ</rt></ruby>と<ruby>性格<rt>せいかく</rt></ruby>の<ruby>良さ<rt>よさ</rt></ruby>はどちらも<ruby>大切<rt>たいせつ</rt></ruby>だが、（　　　）の<ruby>方<rt>ほう</rt></ruby>が<ruby>人<rt>ひと</rt></ruby>として<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
     "choices": [
       "以後",
       "後方",
@@ -11489,7 +11488,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 206,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "仕様",
     "question": "新作のスマホは、以前のものと（　　　）が少し変わっている。",
@@ -11554,7 +11553,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 207,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "欠陥",
     "question": "あの問題があった会社は、（　　　）がある商品を全て回収し返金すると発表した。",
@@ -11619,11 +11618,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 208,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "活気",
     "question": "若い人は少ないがこの村の住人はみんな元気で、なんだか街に（　　　）がある。",
-    "question_ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>少ない<rt>すくない</rt></ruby>がこの<ruby>村<rt>むら</rt></ruby>の<ruby>住人<rt>じゅうにん</rt></ruby>はみんな<ruby>元気<rt>げんき</rt></ruby>で、なんだか<ruby>街<rt>まち</rt></ruby>に（　　　）がある。",
+    "question_ruby": "<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>は<ruby>少ない<rt>すくない</rt></ruby>がこの<ruby>村<rt>むら</rt></ruby>の<ruby>住人<rt>じゅうにん</rt></ruby>はみんな<ruby>元気<rt>げんき</rt></ruby>で、なんだか<ruby>街<rt>まち</rt></ruby>に（　　　）がある。",
     "choices": [
       "活気",
       "活用",
@@ -11684,10 +11683,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 209,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "地元",
-    "question": "でとれた野菜を使った母の料理が一番おいしい。（　　　）",
+    "question": "（　　　）で採れた旬の新鮮な野菜を使った料理が一番おいしい。",
     "question_ruby": "でとれた<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使った<rt>つかった</rt></ruby><ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>おいしい。（　　　）",
     "choices": [
       "地面",
@@ -11749,7 +11748,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 210,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "生態",
     "question": "大学でねずみの（　　　）について研究しています。",
@@ -11814,7 +11813,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 211,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "最善",
     "question": "が起きたときは、チームみんなで話し合って（　　　）の解決方法を探すべきだ。",
@@ -11879,7 +11878,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 212,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "視界",
     "question": "天気が悪い日は（　　　）が悪く、事故が起きる可能性が高くなる。",
@@ -11944,7 +11943,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 213,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "段階",
     "question": "入社して3か月の彼は、まだ一人で営業に回れる（　　　）ではないと思います。",
@@ -12009,7 +12008,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 214,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "入会",
     "question": "新しいウイルスが流行しているため、病院での（　　　）をお断りしています。",
@@ -12074,7 +12073,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 215,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "苦戦",
     "question": "今回の試合はなかなか（　　　）したが、なんとか勝つことができた。",
@@ -12139,7 +12138,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 216,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "延長",
     "question": "歌い足りないので、カラオケの利用時間を一時間（　　　）した。",
@@ -12204,7 +12203,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 217,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "解消",
     "question": "ストレスを（　　　）するために、毎晩軽い運動をしている。",
@@ -12269,7 +12268,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 218,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "引退",
     "question": "彼は今シーズンで、プロ野球選手を（　　　）することを発表した。",
@@ -12334,11 +12333,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 219,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "実感",
     "question": "外国人のコメントを見て初めて、自分の動画が世界中の人に見られているということを （　　　）した。",
-    "question_ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>のコメントを<ruby>見て<rt>みて</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>動画<rt>どうが</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>見ら<rt>みら</rt></ruby>れているということを （　　　）した。",
+    "question_ruby": "<ruby>外国人<rt>がいこくじん</rt></ruby>のコメントを<ruby>見て<rt>みて</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>動画<rt>どうが</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>見ら<rt>みら</rt></ruby>れているということを （　　　）した。",
     "choices": [
       "反応",
       "伝達",
@@ -12399,7 +12398,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 220,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "覚悟",
     "question": "反対されるのを（　　　）して、恋人を両親に紹介した。",
@@ -12464,7 +12463,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 221,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "回復",
     "question": "けががだいぶ（　　　）し、補助なしでも歩けるようになった。",
@@ -12529,11 +12528,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 222,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "支持",
     "question": "彼はまじめな人なので、多くの人からリーダーとして（　　　）されている。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はまじめな<ruby>人<rt>にん</rt></ruby>なので、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>にん</rt></ruby>からリーダーとして（　　　）されている。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はまじめな<ruby>人<rt>ひと</rt></ruby>なので、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>からリーダーとして（　　　）されている。",
     "choices": [
       "批評",
       "支持",
@@ -12594,7 +12593,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 223,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "進歩",
     "question": "これまでの製品を（　　　）し、新しいモデルとして発売することになった。",
@@ -12659,7 +12658,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 224,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "獲得",
     "question": "初めて出場したテニスの試合で、賞金を（　　　）することができた。",
@@ -12724,7 +12723,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 225,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "用心",
     "question": "この辺りは事件が多いので、夜は特に（　　　）して歩かなければならない。",
@@ -12789,7 +12788,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 226,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "一致",
     "question": "彼は言っていることとやっていることが（　　　）していないので信用できない。",
@@ -12854,7 +12853,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 227,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "運営",
     "question": "マラソン大会を（　　　）するために必要なお金を企業から集める。",
@@ -12919,7 +12918,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 228,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "返却",
     "question": "図書館で借りた本は、2週間以内に（　　　）してください。",
@@ -12984,7 +12983,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 229,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "回収",
     "question": "古新聞を（　　　）するトラックは、毎週土曜日の午前中に来る。",
@@ -13049,7 +13048,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 230,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "志望",
     "question": "営業部を（　　　）した理由は、この商品の良さを広めたいと思ったからです。",
@@ -13114,7 +13113,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 231,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "加速",
     "question": "新しいウイルスが流行したことにより、学生の学習環境のオンライン化が（　　　） した。",
@@ -13179,7 +13178,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 232,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "さびる",
     "question": "髪を染めたり、パーマをかけたりすると、髪が（　　　）。",
@@ -13233,7 +13232,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 233,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "せまって",
     "question": "レポートの提出期限が明日に（　　　）いるので、徹夜で終わらせる。",
@@ -13275,7 +13274,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 234,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "効いた",
     "question": "薬が（　　　）のか、すっかり熱が下がった。",
@@ -13324,7 +13323,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 235,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "おとる",
     "question": "母が作ってくれる料理は、見た目は（　　　）が味はおいしい。",
@@ -13373,7 +13372,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 236,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "あやつる",
     "question": "彼は英語だけでなく他に3か国語を（　　　）ことができる。",
@@ -13422,7 +13421,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 237,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "塗 っている",
     "question": "日焼けをしないように、毎日肌にクリームを（　　　）。",
@@ -13471,7 +13470,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 238,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "区切って",
     "question": "集中できないときは、時間を（　　　）勉強してみるとよい。",
@@ -13536,7 +13535,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 239,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "収まる",
     "question": "このかばんには、定期券が（　　　）サイズのポケットが付いていて便利だ。",
@@ -13585,7 +13584,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 240,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "抱 えて",
     "question": "借金を（　　　）しまうなんて、予想もしていなかった。",
@@ -13634,7 +13633,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 241,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "味 わう",
     "question": "奈良の映画村では、まるで違う世界に行ったような気分を（　　　）ことができるそうだ。",
@@ -13683,7 +13682,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 242,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "占めている",
     "question": "日本の約7割を森林が（　　　）。",
@@ -13732,7 +13731,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 243,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "挙げる",
     "question": "次の旅行先の候補をいくつか（　　　）。",
@@ -13781,7 +13780,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 244,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "上回る",
     "question": "オープン初日は、予想を（　　　）人数の客が水族館に訪れた。",
@@ -13846,11 +13845,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 245,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "思いやる",
     "question": "周りの人のことを（　　　）ことができる人になりたい。",
-    "question_ruby": "<ruby>周り<rt>まわり</rt></ruby>の<ruby>人<rt>にん</rt></ruby>のことを（　　　）ことができる<ruby>人<rt>にん</rt></ruby>になりたい。",
+    "question_ruby": "<ruby>周り<rt>まわり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のことを（　　　）ことができる<ruby>人<rt>ひと</rt></ruby>になりたい。",
     "choices": [
       "思いつく",
       "思い立つ",
@@ -13895,7 +13894,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 246,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "裏切る",
     "question": "勝つと思っていたチームが一回戦で負け、予想を（　　　）結果となった。",
@@ -13960,7 +13959,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 247,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "こだわって",
     "question": "当店のメニューはどれも、店長が素材から（　　　）作りました。",
@@ -14002,7 +14001,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 248,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うなずき",
     "question": "学生たちは、先生の話を（　　　）ながら聞いている。",
@@ -14044,7 +14043,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 249,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うつむいた",
     "question": "不合格の通知を見て、彼はがっかりして（　　　）。",
@@ -14086,7 +14085,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 250,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "すれ違う",
     "question": "めがねをかけた少年と、いつも同じ時間に同じ場所で（　　　）。",
@@ -14135,7 +14134,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 251,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "打ち消す",
     "question": "不安を（　　　）ために、大きな声でさけんでみた。",
@@ -14200,10 +14199,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 252,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "思い立って",
-    "question": "空港まで来たが、どこへ行くのかまだ決めていない。（　　　）",
+    "question": "（　　　）空港まで来てみたものの、どこへ向かうかまだ決めていない。",
     "question_ruby": "<ruby>空港<rt>くうこう</rt></ruby>まで<ruby>来た<rt>きた</rt></ruby>が、どこへ<ruby>行く<rt>いく</rt></ruby>のかまだ<ruby>決め<rt>きめ</rt></ruby>ていない。（　　　）",
     "choices": [
       "駆け上がって",
@@ -14265,7 +14264,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 253,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "生き残る",
     "question": "このゲームでは、（　　　）ために戦わずに相手から逃げることも必要だ。",
@@ -14330,7 +14329,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 254,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "詰め込んだ",
     "question": "大きなかばんに一週間分の荷物を（　　　）。",
@@ -14395,7 +14394,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 255,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "移し替える",
     "question": "新しく買った容器に洗剤を（　　　）。",
@@ -14460,7 +14459,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 256,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "使い分ける",
     "question": "か国語を話せる彼は、相手によって言葉を（　　　）ことができる。",
@@ -14525,7 +14524,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 257,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "差し引く",
     "question": "給料から光熱費と家賃を（　　　）と自由に使えるお金はあまり残らない。",
@@ -14590,7 +14589,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 258,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "取りかかる",
     "question": "夏休みの宿題に（　　　）のが遅すぎて、登校日までに宿題を終わらせることができなかった。",
@@ -14639,7 +14638,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 259,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "情 けない",
     "question": "たくさん練習したのに、一回戦で負けてしまうなんて（　　　）。",
@@ -14688,7 +14687,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 260,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "濃い",
     "question": "父は味が（　　　）料理が好みで、何にでもしょうゆをかける。",
@@ -14737,7 +14736,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 261,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "もったいない",
     "question": "この紙袋を捨てるのは（　　　）ので、取っておいて後で何かに使おう。",
@@ -14802,7 +14801,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 262,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "快 く",
     "question": "友達に結婚式のスピーチをお願いしたら、（　　　）引き受けてくれた。",
@@ -14851,11 +14850,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 263,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "あやしい",
     "question": "今回の事件で、犯人と思われる（　　　）人が3人出てきた。",
-    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>事件<rt>じけん</rt></ruby>で、<ruby>犯人<rt>はんにん</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>れる（　　　）<ruby>人<rt>にん</rt></ruby>が3<ruby>人出<rt>ひとで</rt></ruby>てきた。",
+    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>事件<rt>じけん</rt></ruby>で、<ruby>犯人<rt>はんにん</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>れる（　　　）<ruby>人<rt>ひと</rt></ruby>が3<ruby>人出<rt>ひとで</rt></ruby>てきた。",
     "choices": [
       "興味深 い",
       "うらやましい",
@@ -14900,7 +14899,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 264,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "望 ましい",
     "question": "明日の全体会議は、全員参加が（　　　）。",
@@ -14949,11 +14948,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 265,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "だらしない",
     "question": "彼女はお金に（　　　）人なので、お金を貸さない方が良い。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はお<ruby>金<rt>きん</rt></ruby>に（　　　）<ruby>人<rt>にん</rt></ruby>なので、お<ruby>金<rt>きん</rt></ruby>を<ruby>貸さ<rt>かさ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>が<ruby>良い<rt>よい</rt></ruby>。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はお<ruby>金<rt>きん</rt></ruby>に（　　　）<ruby>人<rt>ひと</rt></ruby>なので、お<ruby>金<rt>きん</rt></ruby>を<ruby>貸さ<rt>かさ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>が<ruby>良い<rt>よい</rt></ruby>。",
     "choices": [
       "しょうがない",
       "荒い",
@@ -14998,7 +14997,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 266,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "若々しく",
     "question": "いくつになっても（　　　）いるために、毎日運動している。",
@@ -15047,7 +15046,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 267,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "騒 がしい",
     "question": "夜遅い時間なのに、子どもたちの（　　　）声が聞こえる。",
@@ -15096,7 +15095,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 268,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "本格的",
     "question": "実際にイタリアに行って、（　　　）なイタリア料理を食べてみたい。",
@@ -15167,10 +15166,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 269,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "安易",
-    "question": "な考えで今の会社に入ってしまったことを後悔している。（　　　）",
+    "question": "（　　　）な考えで転職先を決めてしまったことを、今になって深く後悔している。",
     "question_ruby": "な<ruby>考え<rt>かんがえ</rt></ruby>で<ruby>今<rt>いま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってしまったことを<ruby>後悔<rt>こうかい</rt></ruby>している。（　　　）",
     "choices": [
       "安価",
@@ -15232,7 +15231,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 270,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ささやか",
     "question": "両親の結婚記念日に、（　　　）なプレゼントをあげた。",
@@ -15274,7 +15273,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 271,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "全面的",
     "question": "両親の（　　　）なサポートがあったからこそ、彼はオリンピック選手に選ばれた。",
@@ -15345,7 +15344,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 272,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ありがち",
     "question": "これくらいのミスは（　　　）なことですから、心配しなくていいですよ。",
@@ -15394,7 +15393,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 273,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "抽象的",
     "question": "この文章は（　　　）だから、何を伝えたいのかはっきりわからない。",
@@ -15465,7 +15464,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 274,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "大 げさ",
     "question": "ちょっと転んで血が出ただけなのに、病院に行くなんて（　　　）ですよ。",
@@ -15514,7 +15513,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 275,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "強引",
     "question": "嫌がる息子を（　　　）に病院に連れて行った。",
@@ -15579,11 +15578,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 276,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "短気",
     "question": "店長は（　　　）な人なので、忙しいとすぐに怒りだす。",
-    "question_ruby": "<ruby>店長<rt>てんちょう</rt></ruby>は（　　　）な<ruby>人<rt>にん</rt></ruby>なので、<ruby>忙しい<rt>いそがしい</rt></ruby>とすぐに<ruby>怒り<rt>いかり</rt></ruby>だす。",
+    "question_ruby": "<ruby>店長<rt>てんちょう</rt></ruby>は（　　　）な<ruby>人<rt>ひと</rt></ruby>なので、<ruby>忙しい<rt>いそがしい</rt></ruby>とすぐに<ruby>怒り<rt>いかり</rt></ruby>だす。",
     "choices": [
       "気楽",
       "短気",
@@ -15644,7 +15643,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 277,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "存分 に",
     "question": "森に入ったとたん、鳥が（　　　）飛び立った。",
@@ -15709,7 +15708,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 278,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "とっくに",
     "question": "母「ゲームをする前に、今日の宿題を終わらせなさい。」 子「今日の宿題はもう（　　　）終わらせたよ。」",
@@ -15758,7 +15757,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 279,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "一気 に",
     "question": "ドラマがおもしろかったので、最終話まで（　　　）観てしまった。",
@@ -15823,7 +15822,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 280,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "一体",
     "question": "こんな遅くまで教室にいるなんて、君たちは（　　　）何をしていたんだ。",
@@ -15888,7 +15887,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 281,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "いずれ",
     "question": "今は家族と暮らしているが、（　　　）一人暮らしをしようと思っている。",
@@ -15937,7 +15936,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 282,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "つい",
     "question": "集中して作業をしていると、（　　　）時間が経つのを忘れてしまう。",
@@ -15979,7 +15978,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 283,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "あいにく",
     "question": "今日は天気が良かったらピクニックに行こうと思っていたのに、（　　　）の雨になってしまった。",
@@ -16044,7 +16043,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 284,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "あえて",
     "question": "便利な世の中だが、たまにキャンプに行って（　　　）不便さを体験するのも良い。",
@@ -16093,7 +16092,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 285,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "かつて",
     "question": "この街は今は人口が減って何もないが、（　　　）は工業都市としてにぎやかな街だった。",
@@ -16147,7 +16146,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 286,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うきうき",
     "question": "明日は待ちに待った旅行の日なので、（　　　）している。",
@@ -16206,11 +16205,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 287,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ぎゅうぎゅう",
     "question": "通勤時間の電車の中は人が多くて（　　　）だ。",
-    "question_ruby": "<ruby>通勤時間<rt>つうきんじかん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>人<rt>にん</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て（　　　）だ。",
+    "question_ruby": "<ruby>通勤時間<rt>つうきんじかん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て（　　　）だ。",
     "choices": [
       "ぎゅうぎゅう",
       "ぎりぎり",
@@ -16248,7 +16247,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 288,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ぴかぴか",
     "question": "ずっとふいていなかった窓を（　　　）になるまで磨いた。",
@@ -16290,7 +16289,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 289,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ごちゃごちゃ",
     "question": "同時にたくさんの仕事を頼まれると、頭の中が（　　　）してしまう。",
@@ -16332,7 +16331,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 290,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うとうと",
     "question": "校長先生の話が長くて、集会中に（　　　）してしまった。",
@@ -16374,7 +16373,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 291,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ばたばた",
     "question": "今日は一日中（　　　）していて、お昼ご飯を食べる時間もなかった。",
@@ -16416,7 +16415,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 292,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "じっくり",
     "question": "将来の計画について、（　　　）考える時間が必要だ。",
@@ -16458,7 +16457,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 293,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ぱったり",
     "question": "先週まで山田くんから何度もしつこく連絡が来ていたが、今週に入って（　　　）と連絡が来なくなった。",
@@ -16500,7 +16499,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 294,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ばっちり",
     "question": "何度もくりかえし復習したので、明日のテストは（　　　）できるはずだ。",
@@ -16542,7 +16541,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 295,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "エネルギー",
     "question": "すみません、電話しているのでテレビの（　　　）を下げてもらえませんか。",
@@ -16584,7 +16583,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 296,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "コンテスト",
     "question": "子どものころ、研修所で開催された絵の（　　　）で優勝した。",
@@ -16626,7 +16625,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 297,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "アレンジ",
     "question": "昨日のおかずを少し（　　　）して、今日の夕食を作る。",
@@ -16668,7 +16667,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 298,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ギャップ",
     "question": "若い社員と好きなドラマについて話したときに、世代の（　　　）を感じた。",
@@ -16710,10 +16709,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 299,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "プライバシー",
-    "question": "を守るため、SNSに住所が特定できる写真はアップしないようにしている。（　　　）",
+    "question": "個人の（　　　）を守るため、SNSに自宅周辺が特定できる写真を投稿しないようにしている。",
     "question_ruby": "を<ruby>守る<rt>まもる</rt></ruby>ため、SNSに<ruby>住所<rt>じゅうしょ</rt></ruby>が<ruby>特定<rt>とくてい</rt></ruby>できる<ruby>写真<rt>しゃしん</rt></ruby>はアップしないようにしている。（　　　）",
     "choices": [
       "セルフ",
@@ -16752,7 +16751,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 300,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "プレッシャー",
     "question": "「絶対に失敗するなよ。」と、上司に（　　　）をかけられて、緊張している。",
@@ -16794,7 +16793,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 301,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "フェア",
     "question": "月末まで、当店ではいちごを使った商品の（　　　）を行っております。",
@@ -16836,7 +16835,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 302,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "スムーズ",
     "question": "今日の会議はもっと時間がかかると思っていたが、思ったより（　　　）に進んだ。",
@@ -16878,7 +16877,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 303,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ニーズ",
     "question": "消費者の（　　　）に合った商品を開発する。",
@@ -16920,7 +16919,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 304,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "飽きて",
     "question": "毎日のようにカップラーメンを食べているので【飽きて】しまった。",
@@ -16969,7 +16968,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 305,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "お手入れ",
     "question": "毎日肌の【お手入れ】を欠かさない。",
@@ -17034,7 +17033,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 306,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "最寄り",
     "question": "【最寄り】のセレクトショップでお菓子を買った。",
@@ -17099,11 +17098,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 307,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "気配り",
     "question": "彼はいつも【気配り】を忘れない人だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はいつも【<ruby>気配り<rt>きくばり</rt></ruby>】を<ruby>忘れ<rt>わすれ</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>だ。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はいつも【<ruby>気配り<rt>きくばり</rt></ruby>】を<ruby>忘れ<rt>わすれ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>だ。",
     "choices": [
       "笑顔",
       "心配",
@@ -17164,7 +17163,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 308,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "勘違い",
     "question": "彼女のことを日本人だと【勘違い】していた。",
@@ -17229,7 +17228,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 309,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "息抜き",
     "question": "たまには【息抜き】も必要です。",
@@ -17294,7 +17293,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 310,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "日頃",
     "question": "【日頃】から大きな声であいさつするようにしている。",
@@ -17359,7 +17358,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 311,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "素人",
     "question": "彼のすごさは、【素人】にはわからないだろう。",
@@ -17424,7 +17423,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 312,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "容姿",
     "question": "妹は最近【容姿】に気を使うようになった。",
@@ -17489,7 +17488,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 313,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "規模",
     "question": "研修所の【規模】は地域によって大きく違う。",
@@ -17554,7 +17553,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 314,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "方針",
     "question": "会社の【方針】を固める。",
@@ -17619,7 +17618,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 315,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "説得",
     "question": "上司をがんばって【説得】する。",
@@ -17684,7 +17683,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 316,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "加減",
     "question": "部屋の温度を【加減】する。",
@@ -17749,7 +17748,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 317,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "後押し",
     "question": "この企画が会議で通ったのは、部長が【後押し】してくれたおかげです。",
@@ -17814,7 +17813,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 318,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "通用する",
     "question": "どの会社でも【通用する】人間になりたい。",
@@ -17879,7 +17878,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 319,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "検討",
     "question": "一度、会社に戻って【検討】する。",
@@ -17944,7 +17943,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 320,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "克服",
     "question": "つらい過去を【克服】した。",
@@ -18009,7 +18008,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 321,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "倒産",
     "question": "彼が社長になって数年後、会社が【倒産】した。",
@@ -18074,7 +18073,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 322,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "依頼",
     "question": "知り合いに仕事を【依頼】した。",
@@ -18139,7 +18138,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 323,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "出世",
     "question": "【出世】するためなら何でもやります。",
@@ -18204,7 +18203,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 324,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ずらして",
     "question": "会議の時間を【ずらして】もらった。",
@@ -18246,7 +18245,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 325,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "たばねる",
     "question": "髪の毛を【たばねる】。",
@@ -18295,7 +18294,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 326,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "あわてる",
     "question": "何事も【あわてる】とうまくいかない。",
@@ -18344,7 +18343,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 327,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "つとめて",
     "question": "品質向上に【つとめて】います。",
@@ -18393,7 +18392,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 328,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "寄せる",
     "question": "ほこりを部屋の隅に【寄せる】。",
@@ -18442,7 +18441,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 329,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "もちいる",
     "question": "生産数向上のために、新しい機械を【もちいる】。",
@@ -18491,7 +18490,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 330,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "わく",
     "question": "彼の話を聞くと、やる気が【わく】。",
@@ -18540,7 +18539,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 331,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "縮める",
     "question": "練習してマラソンのタイムを【縮める】。",
@@ -18589,7 +18588,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 332,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "含める",
     "question": "新入社員を【含める】と100名の社員がいます。",
@@ -18638,7 +18637,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 333,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "埋まっている",
     "question": "週末は予定が【埋まっている】。",
@@ -18687,7 +18686,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 334,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "問い合わせる",
     "question": "携帯電話の料金について、メールで【問い合わせる】 。",
@@ -18752,7 +18751,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 335,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "洗い出す",
     "question": "チーム全員で問題点を【洗い出す】。",
@@ -18817,7 +18816,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 336,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "追い返した",
     "question": "文句ばかり言う客を【追い返した】。",
@@ -18882,7 +18881,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 337,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "引き返した",
     "question": "研修所へ行く途中で、忘れ物に気付いて【引き返した】。",
@@ -18947,7 +18946,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 338,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "たくましい",
     "question": "彼は【たくましい】体をしている。",
@@ -19001,11 +19000,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 339,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "くどい",
     "question": "私の上司は【くどい】話し方をする人だ。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>は【くどい】<ruby>話し方<rt>はなしかた</rt></ruby>をする<ruby>人<rt>にん</rt></ruby>だ。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>は【くどい】<ruby>話し方<rt>はなしかた</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>だ。",
     "choices": [
       "ひどい",
       "しつこい",
@@ -19055,7 +19054,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 340,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "思いがけない",
     "question": "【思いがけない】出来事があった。",
@@ -19104,7 +19103,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 341,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "おとなしい",
     "question": "犬より【おとなしい】猫の方が好きだ。",
@@ -19169,7 +19168,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 342,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ものたりない",
     "question": "このラーメンは、なんだか【ものたりない】味だ。",
@@ -19234,7 +19233,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 343,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "非凡",
     "question": "彼の言語能力は【非凡】だ。",
@@ -19299,7 +19298,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 344,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "あいまい",
     "question": "日本語には【あいまい】な表現が多い。",
@@ -19359,7 +19358,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 345,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "的確な",
     "question": "部長はいつも【的確な】指示をくれる。",
@@ -19424,7 +19423,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 346,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "余計な",
     "question": "【余計な】ことを言って彼女を怒らせてしまった。",
@@ -19489,7 +19488,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 347,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "物騒な",
     "question": "【物騒な】世の中になってしまった。",
@@ -19554,7 +19553,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 348,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "深刻な",
     "question": "彼は【深刻な】表情をして座っている。",
@@ -19619,7 +19618,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 349,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "円満な",
     "question": "将来は【円満な】家庭を築きたい。",
@@ -19684,7 +19683,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 350,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "見事な",
     "question": "観客の前で【見事な】演技を見せた。",
@@ -19749,7 +19748,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 351,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "あわれな",
     "question": "【あわれな】子犬を拾って家に連れて帰った。",
@@ -19791,7 +19790,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 352,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "わずかな",
     "question": "彼は【わずかな】変化も見逃さない。",
@@ -19833,7 +19832,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 353,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "のんびり",
     "question": "仕事を辞めて、【のんびり】したい。",
@@ -19875,7 +19874,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 354,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "よほど",
     "question": "彼女の様子からして、【よほど】嫌なことがあったのだろう。",
@@ -19917,7 +19916,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 355,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "着々と",
     "question": "イベントの準備は、【着々と】進んでいる。",
@@ -19966,7 +19965,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 356,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "おそらく",
     "question": "この作業は【おそらく】今日中に終えることができると思う。",
@@ -20015,7 +20014,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 357,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "当分",
     "question": "【当分】、研修所を休むことにした。",
@@ -20080,7 +20079,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 358,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "あらゆる",
     "question": "【あらゆる】方法を使って目的を達成する。",
@@ -20129,7 +20128,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 359,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "案外",
     "question": "宿泊先のホテルは、【案外】良い部屋だった。",
@@ -20194,7 +20193,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 360,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "たまたま",
     "question": "ショッピングセンターで【たまたま】先生と会った。",
@@ -20243,7 +20242,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 361,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "要するに",
     "question": "【要するに】、私は必要ないということですね。",
@@ -20292,7 +20291,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 362,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "しばしば",
     "question": "日本人でも【しばしば】漢字を忘れてしまう。",
@@ -20346,7 +20345,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 363,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ほっと",
     "question": "息子の元気な姿を見て【ほっと】した。",
@@ -20388,7 +20387,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 364,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ばったり",
     "question": "セレクトショップで、高校の同級生と【ばったり】会った。",
@@ -20430,7 +20429,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 365,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "じたばた",
     "question": "いまさら、【じたばた】しても仕方がない。",
@@ -20472,7 +20471,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 366,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "はらはら",
     "question": "昨日、車を運転していたときに【はらはら】する出来事があった。",
@@ -20514,7 +20513,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 367,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ざっと",
     "question": "資料に【ざっと】目を通してください。",
@@ -20556,7 +20555,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 368,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "プロセス",
     "question": "もっと利益を出すために、業務の【プロセス】を見直した。",
@@ -20598,7 +20597,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 369,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ムード",
     "question": "結婚記念日に、良い【ムード】のレストランを予約した。",
@@ -20640,7 +20639,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 370,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "ナイター",
     "question": "金曜日は家族で【ナイター】を見に行く予定だ。",
@@ -20682,7 +20681,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 371,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "スペース",
     "question": "家の中で運動できる【スペース】を作った。",
@@ -20724,7 +20723,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 372,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "類義語",
     "target_word": "フレッシュな",
     "question": "あそこのセレクトショップはいつも【フレッシュな】食材を置いている。",
@@ -20766,7 +20765,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 373,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "到着",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【到着】",
@@ -20783,8 +20782,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>長い<rt>ながい</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>がおわり、やっと<ruby>春<rt>はる</rt></ruby>が<ruby>到着<rt>とうちゃく</rt></ruby>した。",
       "テレビで<ruby>紹介<rt>しょうかい</rt></ruby>された<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>到着<rt>とうちゃく</rt></ruby>した。"
     ],
-    "answer": 2,
-    "correct_text": "長い冬がおわり、やっと春が到着した。",
+    "answer": 1,
+    "correct_text": "この飛行機は、後30分ほどで目的地に到着する予定です。",
     "meaning_en": "arrival",
     "explanation": "",
     "kanji_info": [
@@ -20831,7 +20830,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 374,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "愛着",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【愛着】",
@@ -20848,8 +20847,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>夫<rt>おっと</rt></ruby>に<ruby>愛着<rt>あいちゃく</rt></ruby>がいることがわかり、<ruby>離婚<rt>りこん</rt></ruby>することになった。",
       "<ruby>彼女<rt>かのじょ</rt></ruby>はあまり<ruby>美人<rt>びじん</rt></ruby>ではないが、<ruby>愛着<rt>あいちゃく</rt></ruby>があるので<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人気者<rt>にんきもの</rt></ruby>だ。"
     ],
-    "answer": 2,
-    "correct_text": "夫に愛着がいることがわかり、離婚することになった。",
+    "answer": 0,
+    "correct_text": "彼にもらったかばんはあまりかわいくないけど、使っているうちに愛着がわいてきた。",
     "meaning_en": "attachment (esp. to things); love",
     "explanation": "",
     "kanji_info": [
@@ -20896,7 +20895,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 375,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "大手",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【大手】",
@@ -20913,8 +20912,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "この<ruby>店<rt>みせ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>はどれも<ruby>大手<rt>おおて</rt></ruby> で、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>食べ<rt>たべ</rt></ruby><ruby>切る<rt>きる</rt></ruby>ことができない。",
       "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>大手<rt>おおて</rt></ruby> なので、どんなに<ruby>重い<rt>おもい</rt></ruby>ものも<ruby>軽々<rt>かるがる</rt></ruby>と<ruby>持ち<rt>もち</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>ることができる。"
     ],
-    "answer": 0,
-    "correct_text": "いつも私の手を握ってくれた、父の大手 を思い出す。",
+    "answer": 2,
+    "correct_text": "この店の料理はどれも大手 で、一人では食べ切ることができない。",
     "meaning_en": "major company; big company",
     "explanation": "",
     "kanji_info": [
@@ -20961,7 +20960,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 376,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "生地",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【生地】",
@@ -20978,8 +20977,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "パンを<ruby>手作り<rt>てづくり</rt></ruby>するときは、<ruby>生地<rt>きじ</rt></ruby>をしっかりとこねることが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
       "<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>時<rt>とき</rt></ruby>は、まず<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>生地<rt>きじ</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>学ぶ<rt>まなぶ</rt></ruby>べきだ。"
     ],
-    "answer": 0,
-    "correct_text": "家を建てるときは、強い生地を作らなければならない。",
+    "answer": 2,
+    "correct_text": "パンを手作りするときは、生地をしっかりとこねることが大切だ。",
     "meaning_en": "birthplace",
     "explanation": "",
     "kanji_info": [
@@ -21026,7 +21025,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 377,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "現地",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【現地】",
@@ -21043,8 +21042,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>教科書<rt>きょうかしょ</rt></ruby>で<ruby>学ぶ<rt>まなぶ</rt></ruby><ruby>英語<rt>えいご</rt></ruby>と、<ruby>現地<rt>げんち</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>話す<rt>はなす</rt></ruby><ruby>英語<rt>えいご</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>違う<rt>ちがう</rt></ruby>ようだ。",
       "<ruby>祖父<rt>そふ</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>現地<rt>げんち</rt></ruby>は、この<ruby>辺り<rt>あたり</rt></ruby>はりんご<ruby>畑<rt>はたけ</rt></ruby>だったそうだ。"
     ],
-    "answer": 0,
-    "correct_text": "事故 の現地には人がたくさん集まっていて、警察官が取り調べを行っていた。",
+    "answer": 1,
+    "correct_text": "正月は現地に帰って、家族とのんびり過ごしたいと思っている。",
     "meaning_en": "actual place; local",
     "explanation": "",
     "kanji_info": [
@@ -21091,7 +21090,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 378,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "作法",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【作法】",
@@ -21108,8 +21107,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>作法<rt>さほう</rt></ruby>について<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>厳しく<rt>いかめしく</rt></ruby><ruby>教え<rt>おしえ</rt></ruby>られた。",
       "この<ruby>料理<rt>りょうり</rt></ruby>の<ruby>作法<rt>さほう</rt></ruby>は<ruby>難しく<rt>むずかしく</rt></ruby>て、<ruby>子<rt>こ</rt></ruby>どもには<ruby>作れ<rt>つくれ</rt></ruby>ないだろう。"
     ],
-    "answer": 0,
-    "correct_text": "会社の作法を破ることは、社員として許されることではない。",
+    "answer": 1,
+    "correct_text": "彼女は料理教室に通っていただけあって、料理を作る作法がとても良い。",
     "meaning_en": "manners; etiquette",
     "explanation": "",
     "kanji_info": [
@@ -21156,7 +21155,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 379,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "先方",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【先方】",
@@ -21221,7 +21220,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 380,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "性能",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【性能】",
@@ -21238,8 +21237,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>兄<rt>あに</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>と<ruby>違っ<rt>ちがっ</rt></ruby>て<ruby>生まれ<rt>うまれ</rt></ruby>たときから<ruby>性能<rt>せいのう</rt></ruby>があるので、<ruby>何<rt>なに</rt></ruby>をやってもうまくできる。",
       "ライオンとチンパンジーは、<ruby>性能<rt>せいのう</rt></ruby>の<ruby>高い<rt>たかい</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby>として<ruby>有名<rt>ゆうめい</rt></ruby>である。"
     ],
-    "answer": 1,
-    "correct_text": "できるだけ性能が高く、性格が良い人を雇いたいと思っている。",
+    "answer": 2,
+    "correct_text": "兄は私と違って生まれたときから性能があるので、何をやってもうまくできる。",
     "meaning_en": "ability; efficiency",
     "explanation": "",
     "kanji_info": [
@@ -21286,7 +21285,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 381,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "手元",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【手元】",
@@ -21303,8 +21302,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>私<rt>わたし</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>から<ruby>手元<rt>てもと</rt></ruby>が<ruby>器用<rt>きよう</rt></ruby>で、だいたいのものは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作る<rt>つくる</rt></ruby>ことができる。",
       "<ruby>給料<rt>きゅうりょう</rt></ruby>をもらっても、<ruby>家賃<rt>やちん</rt></ruby>と<ruby>借金<rt>しゃっきん</rt></ruby>の<ruby>返済<rt>へんさい</rt></ruby>で<ruby>手元<rt>てもと</rt></ruby>に<ruby>残る<rt>のこる</rt></ruby>お<ruby>金<rt>きん</rt></ruby>はあまり<ruby>多く<rt>おおく</rt></ruby>ない。"
     ],
-    "answer": 2,
-    "correct_text": "私は昔から手元が器用で、だいたいのものは自分で作ることができる。",
+    "answer": 1,
+    "correct_text": "彼女はどんな作業をやらせてみても、とにかく手元が良い。",
     "meaning_en": "on hand; at hand",
     "explanation": "",
     "kanji_info": [
@@ -21351,7 +21350,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 382,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "人前",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【人前】",
@@ -21368,8 +21367,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座っ<rt>すわっ</rt></ruby>たら、<ruby>人前<rt>ひとまえ</rt></ruby>に<ruby>背<rt>せ</rt></ruby>の<ruby>高い<rt>たかい</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>座っ<rt>すわっ</rt></ruby>ていたので<ruby>画面<rt>がめん</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>にくかった。",
       "この<ruby>居酒屋<rt>いざかや</rt></ruby>には、いつもビールを<ruby>一杯<rt>いっぱい</rt></ruby>サービスしてくれる<ruby>人前<rt>ひとまえ</rt></ruby>が<ruby>良い<rt>よい</rt></ruby><ruby>店長<rt>てんちょう</rt></ruby>がいる。"
     ],
-    "answer": 2,
-    "correct_text": "映画館の席に座ったら、人前に背の高い人が座っていたので画面が見えにくかった。",
+    "answer": 0,
+    "correct_text": "こんな簡単な仕事もできないようでは、まだまだ人前だな。",
     "meaning_en": "portion of food",
     "explanation": "",
     "kanji_info": [
@@ -21416,7 +21415,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 383,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "手間",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【手間】",
@@ -21433,8 +21432,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>も<ruby>私生活<rt>しせいかつ</rt></ruby>も<ruby>忙しく<rt>いそがしく</rt></ruby>て、<ruby>人<rt>にん</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>をするような<ruby>手間<rt>てま</rt></ruby>は<ruby>全く<rt>まったく</rt></ruby>ない。",
       "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てきてから<ruby>手間<rt>てま</rt></ruby>のかかる<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>のは<ruby>面倒<rt>めんどう</rt></ruby>だ。"
     ],
-    "answer": 3,
-    "correct_text": "仕事が終わって家に帰ってきてから手間のかかる料理を作るのは面倒だ。",
+    "answer": 1,
+    "correct_text": "一時間くらい手間が空いたので、同僚 の仕事を少し手伝うことにした。",
     "meaning_en": "time; labour",
     "explanation": "",
     "kanji_info": [
@@ -21481,7 +21480,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 384,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "障害",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【障害】",
@@ -21498,8 +21497,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>化学物質<rt>かがくぶっしつ</rt></ruby>によって<ruby>汚さ<rt>よごさ</rt></ruby>れた<ruby>水<rt>みず</rt></ruby>や<ruby>空気<rt>くうき</rt></ruby>には、<ruby>障害<rt>しょうがい</rt></ruby> が<ruby>入<rt>はい</rt></ruby>っている。",
       "<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>正しく<rt>ただしく</rt></ruby><ruby>動か<rt>うごか</rt></ruby>ないという<ruby>障害<rt>しょうがい</rt></ruby> がたくさん<ruby>入<rt>はい</rt></ruby>ったので、お<ruby>客様<rt>きゃくさま</rt></ruby>に<ruby>謝っ<rt>あやまっ</rt></ruby>た。"
     ],
-    "answer": 0,
-    "correct_text": "大きな教室の真ん中に障害 を立てて、部屋を二つに分ける。",
+    "answer": 1,
+    "correct_text": "支払いシステムに障害 があって、うまくお金を支払うことができなかった。",
     "meaning_en": "obstacle; impediment (fault)",
     "explanation": "",
     "kanji_info": [
@@ -21546,7 +21545,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 385,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "不平",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【不平】",
@@ -21611,7 +21610,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 386,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "目上",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【目上】",
@@ -21628,8 +21627,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>が<ruby>優秀<rt>ゆうしゅう</rt></ruby> で、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>からも<ruby>信頼<rt>しんらい</rt></ruby>されている<ruby>彼<rt>かれ</rt></ruby>のことを<ruby>目上<rt>めうえ</rt></ruby>に<ruby>見て<rt>みて</rt></ruby>いる。",
       "<ruby>疲れ<rt>つかれ</rt></ruby>ているせいか、<ruby>目上<rt>めうえ</rt></ruby>がぼんやりするので<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>ことにした。"
     ],
-    "answer": 0,
-    "correct_text": "彼は私よりも一年目上だから、いくら仲が良くても敬語で話さなければならない。",
+    "answer": 1,
+    "correct_text": "社会人にもなって目上の人に敬語を使えないなんてありえない。",
     "meaning_en": "superior(s); senior",
     "explanation": "",
     "kanji_info": [
@@ -21676,7 +21675,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 387,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "やりがい",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【やりがい】",
@@ -21693,8 +21692,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>全く<rt>まったく</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>してもらえないと、やりがいが<ruby>出な<rt>でな</rt></ruby>くなってしまう。",
       "やりがいのある<ruby>仕事<rt>しごと</rt></ruby>に<ruby>出会う<rt>であう</rt></ruby>まで、<ruby>何度<rt>なんど</rt></ruby>も<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>た。"
     ],
-    "answer": 0,
-    "correct_text": "しばらく会社を休んでいて仕事のやりがいを忘れてしまったので、同僚 に教えて",
+    "answer": 3,
+    "correct_text": "やりがいのある仕事に出会うまで、何度も転職を続けた。",
     "meaning_en": "遣り甲斐[n]worthwhile",
     "explanation": "",
     "kanji_info": [
@@ -21747,7 +21746,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 388,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "日当たり",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【日当たり】",
@@ -21764,8 +21763,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>今す<rt>います</rt></ruby>ぐお<ruby>金<rt>きん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なので、<ruby>日当たり<rt>ひあたり</rt></ruby>で<ruby>給料<rt>きゅうりょう</rt></ruby>がもらえる<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>ている。",
       "<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>強い<rt>つよい</rt></ruby>ので、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>ようと<ruby>思って<rt>おもって</rt></ruby>いる。"
     ],
-    "answer": 3,
-    "correct_text": "上司からの日当たりが強いので、仕事を辞めようと思っている。",
+    "answer": 1,
+    "correct_text": "日当たりの良い部屋に住むと、気持ちが前向きになるらしい。",
     "meaning_en": "exposure to the sun; sunny place",
     "explanation": "",
     "kanji_info": [
@@ -21812,7 +21811,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 389,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "目当て",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【目当て】",
@@ -21829,8 +21828,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>投げ<rt>なげ</rt></ruby>たボールが<ruby>目当て<rt>めあて</rt></ruby>になって、しばらく<ruby>入院<rt>にゅういん</rt></ruby>することになった。",
       "<ruby>目当て<rt>めあて</rt></ruby>が<ruby>全て<rt>すべて</rt></ruby><ruby>当た<rt>あた</rt></ruby>って、ギャンブルでたくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>手に入れ<rt>てにいれ</rt></ruby>た。"
     ],
-    "answer": 1,
-    "correct_text": "成績が優秀 な彼を目当てにして、日々の勉強に取り組む。",
+    "answer": 0,
+    "correct_text": "お金目当てでビジネスをしても、うまくいくとは限らない。",
     "meaning_en": "mark; guide",
     "explanation": "",
     "kanji_info": [
@@ -21877,7 +21876,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 390,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "手入れ",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【手入れ】",
@@ -21942,7 +21941,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 391,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "段取 り",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【段取 り】",
@@ -21959,8 +21958,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "イベントがうまく<ruby>進む<rt>すすむ</rt></ruby>ように、<ruby>段取<rt>だんどり</rt></ruby> りしてください。",
       "<ruby>車<rt>くるま</rt></ruby>いすに<ruby>乗って<rt>のって</rt></ruby>いる<ruby>人<rt>にん</rt></ruby>にとって、<ruby>段取<rt>だんどり</rt></ruby> りがある<ruby>場所<rt>ばしょ</rt></ruby>はとても<ruby>不便<rt>ふべん</rt></ruby>だ。"
     ],
-    "answer": 1,
-    "correct_text": "大学内の全ての段取 りするために、大きな工事が行われた。",
+    "answer": 2,
+    "correct_text": "イベントがうまく進むように、段取 りしてください。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -22007,7 +22006,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 392,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "手渡し",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【手渡し】",
@@ -22024,8 +22023,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから3か<ruby>月間<rt>げっかん</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>手渡し<rt>てわたし</rt></ruby>されます。",
       "ずっとなぞに<ruby>包ま<rt>つつま</rt></ruby>れていた<ruby>担任<rt>たんにん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の<ruby>過去<rt>かこ</rt></ruby>が<ruby>手渡し<rt>てわたし</rt></ruby>され、<ruby>驚<rt>きょう</rt></ruby> いた。"
     ],
-    "answer": 1,
-    "correct_text": "服を入れてから、洗濯機に洗剤 を手渡ししてください。",
+    "answer": 2,
+    "correct_text": "入社してから3か月間は、給料は手渡しされます。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -22072,7 +22071,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 393,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "遠回り",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【遠回り】",
@@ -22089,8 +22088,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "プールで<ruby>事故<rt>じこ</rt></ruby> が<ruby>起こ<rt>おこ</rt></ruby>らないように、スタッフが<ruby>常に<rt>つねに</rt></ruby><ruby>遠回り<rt>とおまわり</rt></ruby>している。",
       "<ruby>仕事<rt>しごと</rt></ruby><ruby>帰り<rt>かえり</rt></ruby>に<ruby>近く<rt>ちかく</rt></ruby>のスーパーへ<ruby>遠回り<rt>とおまわり</rt></ruby>して、<ruby>夕飯<rt>ゆうはん</rt></ruby>の<ruby>材料<rt>ざいりょう</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た。"
     ],
-    "answer": 3,
-    "correct_text": "仕事帰りに近くのスーパーへ遠回りして、夕飯の材料を買った。",
+    "answer": 0,
+    "correct_text": "初めて行く場所だったので、道を間違えて遠回りしてしまった。",
     "meaning_en": "detour; roundabout way",
     "explanation": "",
     "kanji_info": [
@@ -22137,7 +22136,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 394,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "差し入れ",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【差し入れ】",
@@ -22154,8 +22153,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>電子<rt>でんし</rt></ruby>マネーを<ruby>使う<rt>つかう</rt></ruby>ようになって、ATMからお<ruby>金<rt>きん</rt></ruby>を<ruby>差し入れ<rt>さしいれ</rt></ruby>することも<ruby>少なく<rt>すくなく</rt></ruby>",
       "もう<ruby>少し<rt>すこし</rt></ruby>で<ruby>妻<rt>つま</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>なので、<ruby>何<rt>なに</rt></ruby>を<ruby>差し入れ<rt>さしいれ</rt></ruby>しようか<ruby>迷っ<rt>まよっ</rt></ruby>ている。"
     ],
-    "answer": 0,
-    "correct_text": "会議は予定よりかなり長くなり、12時に差し入れしても終わらない。",
+    "answer": 1,
+    "correct_text": "イベント会場まで部長がわざわざお菓子を差し入れしてくれた。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -22202,7 +22201,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 395,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "繁盛",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【繁盛】",
@@ -22219,8 +22218,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "この<ruby>和菓子屋<rt>わがしや</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>まで<ruby>繁盛<rt>はんじょう</rt></ruby> している<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>店<rt>みせ</rt></ruby>だそうだ。",
       "おなかが<ruby>空い<rt>あい</rt></ruby>ていたので、<ruby>店長<rt>てんちょう</rt></ruby>にご<ruby>飯<rt>めし</rt></ruby>を<ruby>繁盛<rt>はんじょう</rt></ruby> してもらった。"
     ],
-    "answer": 0,
-    "correct_text": "かつて京都 は長い間、日本の首都として繁盛 していた。",
+    "answer": 2,
+    "correct_text": "この和菓子屋さんは、朝から夜まで繁盛 している有名なお店だそうだ。",
     "meaning_en": "prosperity; flourishing",
     "explanation": "",
     "kanji_info": [
@@ -22267,7 +22266,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 396,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "発生",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【発生】",
@@ -22332,7 +22331,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 397,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "廃止",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【廃止】",
@@ -22349,8 +22348,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>花火大会<rt>はなびたいかい</rt></ruby>のため、<ruby>明日<rt>あした</rt></ruby>の10<ruby>時<rt>とき</rt></ruby>までこの<ruby>道路<rt>どうろ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>通行<rt>つうこう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby> いたします。",
       "<ruby>明日<rt>あした</rt></ruby>は<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来る<rt>くる</rt></ruby><ruby>予報<rt>よほう</rt></ruby>なので、<ruby>遠足<rt>えんそく</rt></ruby>は<ruby>廃止<rt>はいし</rt></ruby> になるだろう。"
     ],
-    "answer": 2,
-    "correct_text": "花火大会のため、明日の10時までこの道路の車の通行を廃止 いたします。",
+    "answer": 1,
+    "correct_text": "日本では、水泳の授業を廃止 する小学校が増えているそうだ。",
     "meaning_en": "abolition; repeal",
     "explanation": "",
     "kanji_info": [
@@ -22397,7 +22396,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 398,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "導入",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【導入】",
@@ -22462,7 +22461,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 399,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "団結",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【団結】",
@@ -22479,8 +22478,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>入場料<rt>にゅうじょうりょう</rt></ruby><ruby>金<rt>きん</rt></ruby>は1<ruby>人<rt>にん</rt></ruby>300<ruby>円<rt>えん</rt></ruby>で、10<ruby>人以上<rt>ひといじょう</rt></ruby>の<ruby>団結<rt>だんけつ</rt></ruby>ですと1<ruby>人<rt>にん</rt></ruby>250<ruby>円<rt>えん</rt></ruby>です。",
       "<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>で、<ruby>高校<rt>こうこう</rt></ruby>のとき<ruby>親しか<rt>したしか</rt></ruby>った<ruby>仲間<rt>なかま</rt></ruby>が<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>地元<rt>じもと</rt></ruby>に<ruby>団結<rt>だんけつ</rt></ruby>した。"
     ],
-    "answer": 1,
-    "correct_text": "荷物が落ちないように、車の上にしっかりひもで団結した。",
+    "answer": 0,
+    "correct_text": "今回優勝できたのは、何よりもチームが団結することができたからだと思います。",
     "meaning_en": "unity; union",
     "explanation": "",
     "kanji_info": [
@@ -22527,7 +22526,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 400,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "洗練",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【洗練】",
@@ -22544,8 +22543,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>洗練<rt>せんれん</rt></ruby>するために、<ruby>日本<rt>にっぽん</rt></ruby>のアニメやドラマを<ruby>見て<rt>みて</rt></ruby>いる。",
       "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>汗<rt>あせ</rt></ruby>をかいたので、<ruby>髪<rt>かみ</rt></ruby>を<ruby>洗練<rt>せんれん</rt></ruby>した。"
     ],
-    "answer": 2,
-    "correct_text": "日本語を洗練するために、日本のアニメやドラマを見ている。",
+    "answer": 1,
+    "correct_text": "彼が作る時計は、機能性はもちろんだが、洗練されたデザインが魅力的 だ。",
     "meaning_en": "refinement; polish",
     "explanation": "",
     "kanji_info": [
@@ -22592,7 +22591,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 401,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "焦る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【焦る】",
@@ -22609,8 +22608,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>考え<rt>かんがえ</rt></ruby><ruby>事<rt>こと</rt></ruby>をしながら<ruby>料理<rt>りょうり</rt></ruby>をしていたら、ハンバーグが<ruby>焦<rt>しょう</rt></ruby> ってしまった。",
       "<ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>会議室<rt>かいぎしつ</rt></ruby>にお<ruby>見え<rt>みえ</rt></ruby>ですので、<ruby>焦<rt>しょう</rt></ruby> って<ruby>来て<rt>きて</rt></ruby>ください。"
     ],
-    "answer": 3,
-    "correct_text": "社長が会議室にお見えですので、焦 って来てください。",
+    "answer": 1,
+    "correct_text": "時間がないときに焦 って準備をすると、必ず何か忘れ物をしてしまう。",
     "meaning_en": "to be in a hurry; to be impatient",
     "explanation": "",
     "kanji_info": [
@@ -22641,7 +22640,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 402,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "湿る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【湿る】",
@@ -22658,8 +22657,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>湿っ<rt>しめっ</rt></ruby>て、<ruby>疲れ<rt>つかれ</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>取れ<rt>とれ</rt></ruby>た。",
       "<ruby>雨<rt>あめ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はいくら<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干し<rt>ほし</rt></ruby>ても、<ruby>服<rt>ふく</rt></ruby>が<ruby>乾か<rt>かわか</rt></ruby>ず<ruby>湿っ<rt>しめっ</rt></ruby>たままで<ruby>困る<rt>こまる</rt></ruby>。"
     ],
-    "answer": 0,
-    "correct_text": "酔っ払っていたせいで、コップからビールが全部湿ってしまった。",
+    "answer": 3,
+    "correct_text": "雨の時期はいくら洗濯物を干しても、服が乾かず湿ったままで困る。",
     "meaning_en": "to be wet; to become wet",
     "explanation": "",
     "kanji_info": [
@@ -22690,7 +22689,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 403,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "至る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【至る】",
@@ -22739,7 +22738,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 404,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "潜る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【潜る】",
@@ -22756,8 +22755,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>締め<rt>しめ</rt></ruby><ruby>切<rt>せつ</rt></ruby> りが<ruby>近い<rt>ちかい</rt></ruby>ので、<ruby>部屋<rt>へや</rt></ruby>に<ruby>潜<rt>せん</rt></ruby> って<ruby>新しい<rt>あたらしい</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>原稿<rt>げんこう</rt></ruby> を<ruby>書き<rt>かき</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>ている。",
       "<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>睡眠<rt>すいみん</rt></ruby> も<ruby>忘れ<rt>わすれ</rt></ruby>てしまうほど、<ruby>日本<rt>にっぽん</rt></ruby>のアニメに<ruby>潜<rt>せん</rt></ruby> ってしまった。"
     ],
-    "answer": 0,
-    "correct_text": "昔から泳ぐのが苦手だった私は、海水浴に行ってすぐに潜 ってしまった。",
+    "answer": 1,
+    "correct_text": "南の島のきれいな海に潜 って、自分の手で魚をつかまえてみたい。",
     "meaning_en": "(1) to drive; to pass through",
     "explanation": "",
     "kanji_info": [
@@ -22788,7 +22787,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 405,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "暴く",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【暴く】",
@@ -22805,8 +22804,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>先生<rt>せんせい</rt></ruby>でも<ruby>解け<rt>とけ</rt></ruby>なかった<ruby>数学<rt>すうがく</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を、<ruby>彼<rt>かれ</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>暴い<rt>あばい</rt></ruby>てしまった。",
       "どんな<ruby>理由<rt>りゆう</rt></ruby>があったとしても、<ruby>人<rt>にん</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>を<ruby>強く<rt>つよく</rt></ruby><ruby>暴く<rt>あばく</rt></ruby>ことは<ruby>許さ<rt>ゆるさ</rt></ruby>れることではない。"
     ],
-    "answer": 0,
-    "correct_text": "おとなしかった馬が突然暴いて、周りにいた人たちがけがを負ってしまった。",
+    "answer": 1,
+    "correct_text": "政治家の不正を暴くために、証拠 を集めているところだ。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -22837,7 +22836,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 406,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "略す",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【略す】",
@@ -22854,8 +22853,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "「<ruby>筋<rt>すじ</rt></ruby>トレ」という<ruby>言葉<rt>ことば</rt></ruby>は「<ruby>筋力<rt>きんりょく</rt></ruby>トレーニング」を<ruby>略し<rt>りゃくし</rt></ruby>た<ruby>言い方<rt>いいかた</rt></ruby>だ。",
       "<ruby>買っ<rt>かっ</rt></ruby>たズボンが<ruby>少し<rt>すこし</rt></ruby><ruby>長く<rt>ながく</rt></ruby>てはきにくいので、<ruby>母<rt>はは</rt></ruby>に<ruby>略し<rt>りゃくし</rt></ruby>てもらった。"
     ],
-    "answer": 3,
-    "correct_text": "買ったズボンが少し長くてはきにくいので、母に略してもらった。",
+    "answer": 2,
+    "correct_text": "「筋トレ」という言葉は「筋力トレーニング」を略した言い方だ。",
     "meaning_en": "to abbreviate",
     "explanation": "",
     "kanji_info": [
@@ -22886,7 +22885,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 407,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "妨 げる",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【妨 げる】",
@@ -22903,8 +22902,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "ゲームのやりすぎは、<ruby>子<rt>こ</rt></ruby>どもの<ruby>成長<rt>せいちょう</rt></ruby>を<ruby>妨<rt>ぼう</rt></ruby> げることにつながる。",
       "このストーブには、<ruby>火事<rt>かじ</rt></ruby>を<ruby>妨<rt>ぼう</rt></ruby> げるための<ruby>様々な<rt>さまざまな</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>付い<rt>つい</rt></ruby>ている。"
     ],
-    "answer": 3,
-    "correct_text": "このストーブには、火事を妨 げるための様々な機能が付いている。",
+    "answer": 2,
+    "correct_text": "ゲームのやりすぎは、子どもの成長を妨 げることにつながる。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -22935,7 +22934,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 408,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "高まる",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【高まる】",
@@ -22952,8 +22951,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>新型<rt>しんがた</rt></ruby>ウイルスの<ruby>流行と<rt>はやと</rt></ruby>ともに、<ruby>各国<rt>かっこく</rt></ruby>の<ruby>対策方法<rt>たいさくほうほう</rt></ruby>への<ruby>関心<rt>かんしん</rt></ruby>が<ruby>高ま<rt>たかま</rt></ruby>っている。",
       "<ruby>夏<rt>なつ</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby>クーラーをつけているので、<ruby>電気代<rt>でんきだい</rt></ruby>が<ruby>高ま<rt>たかま</rt></ruby>ってしまう。"
     ],
-    "answer": 0,
-    "correct_text": "息子の背がどんどん高まって、ついに私の身長を越した。",
+    "answer": 2,
+    "correct_text": "新型ウイルスの流行とともに、各国の対策方法への関心が高まっている。",
     "meaning_en": "to rise; to swell",
     "explanation": "",
     "kanji_info": [
@@ -22984,7 +22983,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 409,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "目立つ",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【目立つ】",
@@ -23001,8 +23000,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>夜<rt>よる</rt></ruby>にコーヒーを<ruby>二杯<rt>にはい</rt></ruby>も<ruby>飲ん<rt>のん</rt></ruby>だので、<ruby>目立っ<rt>めだっ</rt></ruby>てなかなか<ruby>眠れ<rt>ねむれ</rt></ruby>なくなってしまった。",
       "ゼミの<ruby>先生<rt>せんせい</rt></ruby>は<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>人<rt>にん</rt></ruby>なので、<ruby>目立っ<rt>めだっ</rt></ruby>て<ruby>私<rt>わたし</rt></ruby>のレポートをチェックしてくれた。"
     ],
-    "answer": 1,
-    "correct_text": "少し遅刻したくらいで、そんなに目立たないでください。",
+    "answer": 0,
+    "correct_text": "スタイルが良くて美人の彼女は、教室の中でも特に目立っている。",
     "meaning_en": "to be conspicuous; to stand out",
     "explanation": "",
     "kanji_info": [
@@ -23049,7 +23048,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 410,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "言い切る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【言い切る】",
@@ -23066,8 +23065,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>犯人<rt>はんにん</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>彼<rt>かれ</rt></ruby>だと<ruby>言い切る<rt>いいきる</rt></ruby>ことはできませんが、<ruby>可能性<rt>かのうせい</rt></ruby>は<ruby>高い<rt>たかい</rt></ruby>です。",
       "ずっと<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>言え<rt>いえ</rt></ruby>ずにいたが、ついに<ruby>明日<rt>あした</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>言い切ろ<rt>いいきろ</rt></ruby>うと<ruby>思って<rt>おもって</rt></ruby>いる。"
     ],
-    "answer": 3,
-    "correct_text": "ずっと気持ちを言えずにいたが、ついに明日彼女に言い切ろうと思っている。",
+    "answer": 2,
+    "correct_text": "犯人は絶対に彼だと言い切ることはできませんが、可能性は高いです。",
     "meaning_en": "to declare; to assert",
     "explanation": "",
     "kanji_info": [
@@ -23114,7 +23113,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 411,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "埋め込む",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【埋め込む】",
@@ -23131,8 +23130,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>息子<rt>むすこ</rt></ruby>はかばんに<ruby>一週間分<rt>いっしゅうかんぶん</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>埋め込ん<rt>うめこん</rt></ruby>で、<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby><ruby>行った<rt>いった</rt></ruby>。",
       "<ruby>専門<rt>せんもん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>頼ん<rt>たのん</rt></ruby>で、スピーカーを<ruby>壁<rt>かべ</rt></ruby>に<ruby>埋め込む<rt>うめこむ</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>をした。"
     ],
-    "answer": 0,
-    "correct_text": "この桃 の木は、私が生まれたときに祖母が埋め込んでくれた大切なものです。",
+    "answer": 3,
+    "correct_text": "専門の会社に頼んで、スピーカーを壁に埋め込む工事をした。",
     "meaning_en": "to bury",
     "explanation": "",
     "kanji_info": [
@@ -23179,7 +23178,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 412,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "落ち込む",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【落ち込む】",
@@ -23196,8 +23195,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>仕事<rt>しごと</rt></ruby><ruby>続き<rt>つづき</rt></ruby>で<ruby>疲れ<rt>つかれ</rt></ruby>ているので、<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>肩<rt>かた</rt></ruby>まで<ruby>落ち込み<rt>おちこみ</rt></ruby>たい。",
       "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ながら<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>ちょう</rt></ruby> いて、<ruby>気持ち<rt>きもち</rt></ruby>を<ruby>落ち込ま<rt>おちこま</rt></ruby>せる。"
     ],
-    "answer": 0,
-    "correct_text": "ペンがなくなったと思っていたら、ベッドの下に落ち込んでいた。",
+    "answer": 1,
+    "correct_text": "彼はテストの点数が予想より悪かったようで、ひどく落ち込んでいる。",
     "meaning_en": "to fall into; to feel down (sad)",
     "explanation": "",
     "kanji_info": [
@@ -23244,7 +23243,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 413,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "信じ込む",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【信じ込む】",
@@ -23309,7 +23308,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 414,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "取り寄せる",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【取り寄せる】",
@@ -23326,8 +23325,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>雑誌<rt>ざっし</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>のおいしいチーズケーキを、わざわざ<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>取り寄せ<rt>とりよせ</rt></ruby>た。",
       "<ruby>道路<rt>どうろ</rt></ruby>に<ruby>飛び出そ<rt>とびだそ</rt></ruby>うとしていた<ruby>子<rt>こ</rt></ruby>どもの<ruby>腕<rt>うで</rt></ruby>を、ぐっとつかんで<ruby>取り寄せ<rt>とりよせ</rt></ruby>た。"
     ],
-    "answer": 0,
-    "correct_text": "荷物を全て部屋の隅に取り寄せれば、みんな座ることができると思います。",
+    "answer": 2,
+    "correct_text": "雑誌で話題のおいしいチーズケーキを、わざわざ北海道から取り寄せた。",
     "meaning_en": "to order; to send away for",
     "explanation": "",
     "kanji_info": [
@@ -23374,7 +23373,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 415,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "見積もる",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【見積もる】",
@@ -23439,7 +23438,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 416,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "歩み寄る",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【歩み寄る】",
@@ -23456,8 +23455,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>彼<rt>かれ</rt></ruby>のことはよく<ruby>知ら<rt>しら</rt></ruby>なかったけれど、<ruby>話<rt>はなし</rt></ruby>をするうちに<ruby>彼<rt>かれ</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>がだんだん<ruby>歩み<rt>あゆみ</rt></ruby><ruby>寄っ<rt>よっ</rt></ruby>て",
       "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ったらスーパーに<ruby>歩み<rt>あゆみ</rt></ruby><ruby>寄っ<rt>よっ</rt></ruby>て、ビールとおつまみを<ruby>買う<rt>かう</rt></ruby>つもりだ。"
     ],
-    "answer": 3,
-    "correct_text": "仕事が終わったらスーパーに歩み寄って、ビールとおつまみを買うつもりだ。",
+    "answer": 0,
+    "correct_text": "どんなに言い合いになっても、歩み寄って問題を解決するのが夫婦というものです。",
     "meaning_en": "to compromise; to meet halfway",
     "explanation": "",
     "kanji_info": [
@@ -23504,7 +23503,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 417,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "追い抜く",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【追い抜く】",
@@ -23521,8 +23520,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "こちらの<ruby>料理<rt>りょうり</rt></ruby>は、<ruby>数<rt>かず</rt></ruby>ある<ruby>野菜<rt>やさい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>追い抜い<rt>おいぬい</rt></ruby>た<ruby>新鮮<rt>しんせん</rt></ruby>なものだけを<ruby>使って<rt>つかって</rt></ruby>います。",
       "<ruby>怒っ<rt>いかっ</rt></ruby>て<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby><ruby>行った<rt>いった</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>追い抜い<rt>おいぬい</rt></ruby>たが、<ruby>見つ<rt>みつ</rt></ruby>からなかった。"
     ],
-    "answer": 1,
-    "correct_text": "数々の厳しい試合を追い抜いて、ついに決勝戦の舞台に立った。",
+    "answer": 0,
+    "correct_text": "高校生になってから急に背が伸びてきて、兄の身長を追い抜いた。",
     "meaning_en": "to pass (a car); to overtake",
     "explanation": "",
     "kanji_info": [
@@ -23569,7 +23568,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 418,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "呼びかける",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【呼びかける】",
@@ -23586,8 +23585,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "イベント<ruby>会場内<rt>かいじょうない</rt></ruby>で、<ruby>警備員<rt>けいびいん</rt></ruby>が<ruby>必死<rt>ひっし</rt></ruby>にマスクの<ruby>着用<rt>ちゃくよう</rt></ruby>を<ruby>呼び<rt>よび</rt></ruby>かけている。",
       "<ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>誕生日<rt>たんじょうび</rt></ruby>パーティーに<ruby>呼び<rt>よび</rt></ruby>かけたが、<ruby>忙しい<rt>いそがしい</rt></ruby>という<ruby>理由<rt>りゆう</rt></ruby>で<ruby>断ら<rt>ことわら</rt></ruby>れてしまった。"
     ],
-    "answer": 0,
-    "correct_text": "自分の名前を呼びかけられたら、大きな声で返事をしてください。",
+    "answer": 2,
+    "correct_text": "イベント会場内で、警備員が必死にマスクの着用を呼びかけている。",
     "meaning_en": "to call out to; to hail",
     "explanation": "",
     "kanji_info": [
@@ -23618,7 +23617,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 419,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "ずるい",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【ずるい】",
@@ -23635,8 +23634,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>彼<rt>かれ</rt></ruby>はお<ruby>金<rt>きん</rt></ruby>に<ruby>厳しく<rt>いかめしく</rt></ruby>てずるいので、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>割引<rt>わりびき</rt></ruby>されたものしか<ruby>買わ<rt>かわ</rt></ruby>ない。",
       "<ruby>遅刻<rt>ちこく</rt></ruby>して<ruby>一時間<rt>いちじかん</rt></ruby>も<ruby>待た<rt>また</rt></ruby>せてしまうなんて、<ruby>彼女<rt>かのじょ</rt></ruby>には<ruby>本当<rt>ほんとう</rt></ruby>にずるいことをしてしまった。"
     ],
-    "answer": 3,
-    "correct_text": "遅刻して一時間も待たせてしまうなんて、彼女には本当にずるいことをしてしまった。",
+    "answer": 0,
+    "correct_text": "彼女はいつも上司が見ているときだけ仕事をしている、とてもずるい人だ。",
     "meaning_en": "狡い[a]sly",
     "explanation": "",
     "kanji_info": [
@@ -23657,7 +23656,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 420,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "騒々しい",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【騒々しい】",
@@ -23674,8 +23673,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のやることにいちいち<ruby>反対<rt>はんたい</rt></ruby>してくるので、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>騒々しい<rt>そーぞーしい</rt></ruby>。",
       "なんだか<ruby>騒々しい<rt>そーぞーしい</rt></ruby>ので<ruby>外<rt>そと</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>みると、<ruby>車<rt>くるま</rt></ruby>が<ruby>建物<rt>たてもの</rt></ruby>にぶつかっていた。"
     ],
-    "answer": 0,
-    "correct_text": "就職してからは騒々しい日々を送っているが、仕事も私生活も充実している。",
+    "answer": 3,
+    "correct_text": "なんだか騒々しいので外を見てみると、車が建物にぶつかっていた。",
     "meaning_en": "noisy; boisterous",
     "explanation": "",
     "kanji_info": [
@@ -23706,7 +23705,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 421,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "厚かましい",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【厚かましい】",
@@ -23723,8 +23722,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "ラーメンの<ruby>中<rt>なか</rt></ruby>でも、<ruby>特<rt>とく</rt></ruby>に<ruby>厚かましい<rt>あつかましい</rt></ruby><ruby>味<rt>あじ</rt></ruby>のみそラーメンが<ruby>大好き<rt>だいすき</rt></ruby>だ。",
       "そんなに<ruby>厚かましい<rt>あつかましい</rt></ruby><ruby>言い方<rt>いいかた</rt></ruby>はせずに、<ruby>言い<rt>いい</rt></ruby>たいことをはっきり<ruby>言って<rt>いって</rt></ruby>ください。"
     ],
-    "answer": 0,
-    "correct_text": "大学4年間で書いたレポートを一つにまとめると、厚かましい一冊の本になった。",
+    "answer": 1,
+    "correct_text": "厚かましいお願いですが、一度工場を見学させていただけないでしょうか。",
     "meaning_en": "impudent; shameless",
     "explanation": "",
     "kanji_info": [
@@ -23755,7 +23754,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 422,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "欠かせない",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【欠かせない】",
@@ -23804,7 +23803,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 423,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "くだらない",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【くだらない】",
@@ -23853,7 +23852,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 424,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "一方的",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【一方的】",
@@ -23870,8 +23869,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "この<ruby>道<rt>みち</rt></ruby>は<ruby>午前中<rt>ごぜんちゅう</rt></ruby>だけ<ruby>一方的<rt>いっぽうてき</rt></ruby>になって、<ruby>車<rt>くるま</rt></ruby>があまり<ruby>通ら<rt>とうら</rt></ruby>なくなる。",
       "のどが<ruby>乾い<rt>かわい</rt></ruby>ていたので、カフェでコーヒーを<ruby>一方的<rt>いっぽうてき</rt></ruby>に<ruby>飲ん<rt>のん</rt></ruby>でしまった。"
     ],
-    "answer": 3,
-    "correct_text": "のどが乾いていたので、カフェでコーヒーを一方的に飲んでしまった。",
+    "answer": 0,
+    "correct_text": "自分の意見を一方的に押し付けないで、相手の意見を尊重できる人になりたい。",
     "meaning_en": "one-sided; unilateral",
     "explanation": "",
     "kanji_info": [
@@ -23924,7 +23923,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 425,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "手頃",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【手頃】",
@@ -23941,8 +23940,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "このパソコンは<ruby>性能<rt>せいのう</rt></ruby>が<ruby>良く<rt>よく</rt></ruby><ruby>手頃<rt>てごろ</rt></ruby>な<ruby>価格<rt>かかく</rt></ruby>なので、<ruby>学生<rt>がくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>だ。",
       "<ruby>自然災害<rt>しぜんさいがい</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>非常時<rt>ひじょうじ</rt></ruby>に<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>をする<ruby>能力<rt>のうりょく</rt></ruby>が<ruby>政府<rt>せいふ</rt></ruby>に<ruby>求め<rt>もとめ</rt></ruby>られている。"
     ],
-    "answer": 3,
-    "correct_text": "自然災害が多い日本では、非常時に手頃な判断をする能力が政府に求められている。",
+    "answer": 2,
+    "correct_text": "このパソコンは性能が良く手頃な価格なので、学生に人気だ。",
     "meaning_en": "moderate; handy",
     "explanation": "",
     "kanji_info": [
@@ -23989,7 +23988,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 426,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "さわやか",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【さわやか】",
@@ -24033,7 +24032,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 427,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "和やか",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【和やか】",
@@ -24050,8 +24049,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>西<rt>にし</rt></ruby><ruby>駅<rt>えき</rt></ruby>と<ruby>西<rt>にし</rt></ruby><ruby>一丁目<rt>いっちょうめ</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>間<rt>かん</rt></ruby>は、<ruby>和や<rt>なごや</rt></ruby>かな<ruby>坂<rt>さか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。",
       "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>自宅<rt>じたく</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>毎日<rt>まいにち</rt></ruby><ruby>和や<rt>なごや</rt></ruby>かな<ruby>服装<rt>ふくそう</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>している。"
     ],
-    "answer": 0,
-    "correct_text": "買ったばかりの和やかなタオルを使うと、気分が良い。",
+    "answer": 1,
+    "correct_text": "社長の誕生日パーティは、和やかな雰囲気 で行われた。",
     "meaning_en": "mild; calm",
     "explanation": "",
     "kanji_info": [
@@ -24082,7 +24081,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 428,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "いまいち",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【いまいち】",
@@ -24099,8 +24098,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>勧め<rt>すすめ</rt></ruby>された<ruby>映画<rt>えいが</rt></ruby>を<ruby>観に<rt>みに</rt></ruby><ruby>行った<rt>いった</rt></ruby>が、いまいちだった。",
       "このイチゴケーキは<ruby>夏<rt>なつ</rt></ruby>の<ruby>期間限定<rt>きかんげんてい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>なので、いまいち<ruby>買っ<rt>かっ</rt></ruby>た<ruby>方<rt>ほう</rt></ruby>が<ruby>良い<rt>よい</rt></ruby>ですよ。"
     ],
-    "answer": 0,
-    "correct_text": "けがをしないように、いまいちに安全を考えてヘルメットをかぶって作業してくだ",
+    "answer": 2,
+    "correct_text": "友達にお勧めされた映画を観に行ったが、いまいちだった。",
     "meaning_en": "",
     "explanation": "",
     "kanji_info": [
@@ -24147,7 +24146,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 429,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "なかなか",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【なかなか】",
@@ -24196,7 +24195,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 430,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "直に",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【直に】",
@@ -24213,8 +24212,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>信号<rt>しんごう</rt></ruby>を<ruby>曲がっ<rt>まがっ</rt></ruby>て、<ruby>直<rt>ちょく</rt></ruby> に<ruby>一<rt>いち</rt></ruby>キロ<ruby>進む<rt>すすむ</rt></ruby>と<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>があります。",
       "たくさん<ruby>汗<rt>あせ</rt></ruby>をかいたので、<ruby>帰宅<rt>きたく</rt></ruby>したら<ruby>直<rt>ちょく</rt></ruby> にシャワーを<ruby>浴び<rt>あび</rt></ruby>た。"
     ],
-    "answer": 0,
-    "correct_text": "加藤 さんは受験に向けて一日も休まず、直 に勉強を頑張っている。",
+    "answer": 1,
+    "correct_text": "肌に直 に触れるものだから下着の素材 にはこだわっている。",
     "meaning_en": "immediately; readily",
     "explanation": "",
     "kanji_info": [
@@ -24245,7 +24244,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 431,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "一段と",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【一段と】",
@@ -24310,7 +24309,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 432,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "たびたび",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【たびたび】",
@@ -24327,8 +24326,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>最近<rt>さいきん</rt></ruby>すごくやせたので、<ruby>持っ<rt>もっ</rt></ruby>ているスーツがたびたびになってしまった。",
       "<ruby>私<rt>わたし</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいるアパートは、<ruby>雷<rt>かみなり</rt></ruby> のせいでたびたび<ruby>停電<rt>ていでん</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>る。"
     ],
-    "answer": 0,
-    "correct_text": "間違えた問題は、できるようになるまでたびたび解くことが大切です。",
+    "answer": 3,
+    "correct_text": "私が住んでいるアパートは、雷 のせいでたびたび停電が起こる。",
     "meaning_en": "often; repeatedly",
     "explanation": "",
     "kanji_info": [
@@ -24359,7 +24358,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 433,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "明らか",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【明らか】",
@@ -24376,8 +24375,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>彼<rt>かれ</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>てどう<ruby>思って<rt>おもって</rt></ruby>いるのか、<ruby>明らか<rt>あきらか</rt></ruby>に<ruby>話し<rt>はなし</rt></ruby>てくれた。",
       "パソコンの<ruby>画面<rt>がめん</rt></ruby>が<ruby>明らか<rt>あきらか</rt></ruby>なので、<ruby>目<rt>め</rt></ruby>が<ruby>疲れ<rt>つかれ</rt></ruby>てきた。"
     ],
-    "answer": 2,
-    "correct_text": "彼は今の仕事に対してどう思っているのか、明らかに話してくれた。",
+    "answer": 1,
+    "correct_text": "ずっとなぞに包まれていた犯人の姿が明らかになった。",
     "meaning_en": "obvious; evident",
     "explanation": "",
     "kanji_info": [
@@ -24408,7 +24407,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 434,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "きっぱり",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【きっぱり】",
@@ -24425,8 +24424,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>佐藤<rt>さとう</rt></ruby> さんの<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>は、きっぱり<ruby>整理<rt>せいり</rt></ruby>されていてきれいだ。",
       "<ruby>大自然<rt>だいしぜん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でキャンプをして、<ruby>夜<rt>よる</rt></ruby>にきっぱりと<ruby>輝く<rt>かがやく</rt></ruby><ruby>星空<rt>ほしぞら</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>みたい。"
     ],
-    "answer": 0,
-    "correct_text": "彼は待ち合わせ時間の3時きっぱりに到着した。",
+    "answer": 1,
+    "correct_text": "次の大学受験に落ちたら、きっぱりあきらめて就職することに決めた。",
     "meaning_en": "clearly; plainly",
     "explanation": "",
     "kanji_info": [],
@@ -24434,7 +24433,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 435,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "ぐったり",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【ぐったり】",
@@ -24451,8 +24450,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>連休<rt>れんきゅう</rt></ruby>はどこにも<ruby>遊び<rt>あそび</rt></ruby>に<ruby>行<rt>い</rt></ruby>かず、<ruby>実家<rt>じっか</rt></ruby>でぐったり<ruby>過ご<rt>すご</rt></ruby>しました。",
       "そんなにぐったり<ruby>準備<rt>じゅんび</rt></ruby>していたら、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>するよ。"
     ],
-    "answer": 1,
-    "correct_text": "一週間ずっと雨が降り続いていて、もう雨にはぐったりだ。",
+    "answer": 0,
+    "correct_text": "今日は人の多いところに出かけたので、疲れてぐったりしてしまった。",
     "meaning_en": "wearily",
     "explanation": "",
     "kanji_info": [],
@@ -24460,7 +24459,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 436,
-    "source": "合格するN2 (徹底演習編)",
+    "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語彙用法",
     "target_word": "ぐんぐん",
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【ぐんぐん】",
@@ -24477,8 +24476,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>一度<rt>いちど</rt></ruby><ruby>話せ<rt>はなせ</rt></ruby>るようになった<ruby>言語<rt>げんご</rt></ruby>も、<ruby>使わ<rt>つかわ</rt></ruby>ないとぐんぐん<ruby>忘れ<rt>わすれ</rt></ruby>てしまう。",
       "<ruby>今年<rt>こんねん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>がぐんぐん<ruby>伸び<rt>のび</rt></ruby>ている。"
     ],
-    "answer": 0,
-    "correct_text": "うちのマンションは、上の階に住んでいる人の足音がぐんぐん響いてうるさい。",
+    "answer": 3,
+    "correct_text": "今年に入って、会社の売り上げがぐんぐん伸びている。",
     "meaning_en": "rapidly",
     "explanation": "",
     "kanji_info": [],
@@ -24486,8 +24485,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 437,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "述べた",
     "question": "フランスの大統領は、日本の印象を次のように【述べた】。",
     "question_ruby": "フランスの<ruby>大統領<rt>だいとうりょう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>次の<rt>つぎの</rt></ruby>ように<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【述べた】</span><rt class=\"target-reading-spoiler\">のべた</rt></ruby>。",
@@ -24535,8 +24534,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 438,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ありふれた",
     "question": "電子レンジは、50年前は珍しかったが、今ではどこの家にでもある（　　　）電化製品です。",
     "question_ruby": "<ruby>電子レンジ<rt>でんしれんじ</rt></ruby>は、50<ruby>年前<rt>ねんまえ</rt></ruby>は<ruby>珍しか<rt>めずらしか</rt></ruby>ったが、<ruby>今<rt>いま</rt></ruby>ではどこの<ruby>家<rt>いえ</rt></ruby>にでもある（　　　）<ruby>電化製品<rt>でんかせいひん</rt></ruby>です。",
@@ -24600,16 +24599,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 439,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 1）",
-    "target_word": "がち",
-    "question": "風邪（　　　）ぎみ なので、今日は早く寝よう。",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
+    "target_word": "ぎみ",
+    "question": "少し風邪（　　　）なので、今夜は無理をせず早めに寝ることにしよう。",
     "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>（　　　）ぎみ なので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>寝よ<rt>ねよ</rt></ruby>う。",
     "choices": [
-      "げ",
+      "ぎみ",
       "がち",
-      "め",
-      "ぎみ"
+      "げ",
+      "め"
     ],
     "choices_ruby": [
       "げ",
@@ -24617,8 +24616,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "め",
       "ぎみ"
     ],
-    "answer": 1,
-    "correct_text": "がち",
+    "answer": 0,
+    "correct_text": "ぎみ",
     "meaning_en": "|will go to bed early tonight because I kind of feel sick.",
     "explanation": "",
     "kanji_info": [
@@ -24665,8 +24664,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 440,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "家賃",
     "question": "【やちん】はいくらですか。",
     "question_ruby": "【やちん】はいくらですか。",
@@ -24730,8 +24729,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 441,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "だるい",
     "question": "風邪を引いたのか熱っぽいし体が（　　　）。",
     "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引い<rt>ひい</rt></ruby>たのか<ruby>熱っ<rt>あつっ</rt></ruby>ぽいし<ruby>体<rt>からだ</rt></ruby>が（　　　）。",
@@ -24779,8 +24778,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 442,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "行ったきり",
     "question": "奈良へは、中学の修学旅行で（　　　）行っていない。",
     "question_ruby": "<ruby>奈良<rt>なら</rt></ruby>へは、<ruby>中学<rt>ちゅうがく</rt></ruby>の<ruby>修学旅行<rt>しゅうがくりょこう</rt></ruby>で（　　　）<ruby>行って<rt>いって</rt></ruby>いない。",
@@ -24828,8 +24827,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 443,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "薄めた",
     "question": "コーヒーが濃過ぎたので、お湯で【薄めた】。 うすめたさめた",
     "question_ruby": "コーヒーが<ruby>濃<rt>のう</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>たので、お<ruby>湯<rt>ゆ</rt></ruby>で<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【薄めた】</span><rt class=\"target-reading-spoiler\">うすめた</rt></ruby>。 うすめたさめた",
@@ -24877,8 +24876,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 444,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ふざけて",
     "question": "（　　　）ばかりいると、そのうちにけがをするから、おとなしく座っていなさい。",
     "question_ruby": "（　　　）ばかりいると、そのうちにけがをするから、おとなしく<ruby>座っ<rt>すわっ</rt></ruby>ていなさい。",
@@ -24919,8 +24918,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 445,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "につき",
     "question": "高橋さんの結婚祝いを買いますから、一人（　　　）1,000円ずつ集めます。",
     "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>結婚<rt>けっこん</rt></ruby><ruby>祝い<rt>いわい</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>ますから、<ruby>一人<rt>ひとり</rt></ruby>（　　　）1,000<ruby>円<rt>えん</rt></ruby>ずつ<ruby>集め<rt>あつめ</rt></ruby>ます。",
@@ -24968,8 +24967,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 446,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "骨折",
     "question": "スキーで足を【こっせつ】した。",
     "question_ruby": "スキーで<ruby>足<rt>あし</rt></ruby>を【こっせつ】した。",
@@ -25033,8 +25032,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 447,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "なぐさめて",
     "question": "私が失恋したとき、佐藤さんが、 うれしかった。（　　　）なぐさめて くれて",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>が<ruby>失恋<rt>しつれん</rt></ruby>したとき、<ruby>佐藤<rt>さとう</rt></ruby>さんが、 うれしかった。（　　　）なぐさめて くれて",
@@ -25075,8 +25074,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 448,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をはじめ",
     "question": "その新しい商品は、京（　　　）、金の素な都市で売られている。",
     "question_ruby": "その<ruby>新しい<rt>あたらしい</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>は、<ruby>京<rt>きょう</rt></ruby>（　　　）、<ruby>金<rt>きん</rt></ruby>の<ruby>素<rt>もと</rt></ruby>な<ruby>都市<rt>とし</rt></ruby>で<ruby>売ら<rt>うら</rt></ruby>れている。",
@@ -25117,8 +25116,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 449,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "承ります",
     "question": "破れた靴や折れた傘などの修理、【承ります】。お気軽にご相談ください。",
     "question_ruby": "<ruby>破れ<rt>やぶれ</rt></ruby>た<ruby>靴<rt>くつ</rt></ruby>や<ruby>折れ<rt>おれ</rt></ruby>た<ruby>傘<rt>かさ</rt></ruby>などの<ruby>修理<rt>しゅうり</rt></ruby>、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【承ります】</span><rt class=\"target-reading-spoiler\">うけたまわります</rt></ruby>。お<ruby>気軽<rt>きがる</rt></ruby>にご<ruby>相談<rt>そうだん</rt></ruby>ください。",
@@ -25166,8 +25165,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 450,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "なさけない",
     "question": "こんな結果になって と思う。（　　　）なさけない 。努力が足りなかった",
     "question_ruby": "こんな<ruby>結果<rt>けっか</rt></ruby>になって と<ruby>思う<rt>おもう</rt></ruby>。（　　　）なさけない 。<ruby>努力<rt>どりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なかった",
@@ -25231,8 +25230,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 451,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "かゆくてたまらない",
     "question": "虫に刺されたところが、（　　　）。",
     "question_ruby": "<ruby>虫<rt>むし</rt></ruby>に<ruby>刺さ<rt>ささ</rt></ruby>れたところが、（　　　）。",
@@ -25263,8 +25262,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 452,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "祝い",
     "question": "娘は七歳の誕生日のお【祝い】に貯金箱をもらいました。",
     "question_ruby": "<ruby>娘<rt>むすめ</rt></ruby>は<ruby>七歳<rt>ななさい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>のお<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【祝い】</span><rt class=\"target-reading-spoiler\">おいわい</rt></ruby>に<ruby>貯金箱<rt>ちょきんばこ</rt></ruby>をもらいました。",
@@ -25312,8 +25311,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 453,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あせった",
     "question": "A「試験、どうだった？」 B「時間がなくて 書いたよ。」（　　　）あせった さわいだ _けれど、何とか全部",
     "question_ruby": "A「<ruby>試験<rt>しけん</rt></ruby>、どうだった？」 B「<ruby>時間<rt>じかん</rt></ruby>がなくて <ruby>書い<rt>かい</rt></ruby>たよ。」（　　　）あせった さわいだ _けれど、<ruby>何とか<rt>なんとか</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby>",
@@ -25354,8 +25353,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 454,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "飲まずにはいられない",
     "question": "会話で嫌なことがあると、酒を（　　　）。",
     "question_ruby": "<ruby>会話<rt>かいわ</rt></ruby>で<ruby>嫌な<rt>いやな</rt></ruby>ことがあると、<ruby>酒<rt>さけ</rt></ruby>を（　　　）。",
@@ -25403,8 +25402,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 455,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "黒板",
     "question": "【こくばん】にチョークで字を書いた。 黒販黒坂黒版黒板",
     "question_ruby": "【こくばん】にチョークで<ruby>字<rt>じ</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>た。 <ruby>黒<rt>くろ</rt></ruby><ruby>販<rt>はん</rt></ruby><ruby>黒坂<rt>くろさか</rt></ruby><ruby>黒<rt>くろ</rt></ruby><ruby>版<rt>はん</rt></ruby><ruby>黒板<rt>こくばん</rt></ruby>",
@@ -25468,8 +25467,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 456,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あこがれて",
     "question": "都会での生活に_ も物価も高くて大変だ。（　　　）あこがれて 横浜に出てきたが、家賃",
     "question_ruby": "<ruby>都会<rt>とかい</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>に_ も<ruby>物価<rt>ぶっか</rt></ruby>も<ruby>高く<rt>たかく</rt></ruby>て<ruby>大変<rt>たいへん</rt></ruby>だ。（　　　）あこがれて <ruby>横浜<rt>よこはま</rt></ruby>に<ruby>出て<rt>でて</rt></ruby>きたが、<ruby>家賃<rt>やちん</rt></ruby>",
@@ -25510,8 +25509,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 457,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "だけに",
     "question": "理由さんは、音楽の装生（　　　）、歌がうまい。",
     "question_ruby": "<ruby>理由<rt>りゆう</rt></ruby>さんは、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>装<rt>そう</rt></ruby><ruby>生<rt>なま</rt></ruby>（　　　）、<ruby>歌<rt>うた</rt></ruby>がうまい。",
@@ -25559,8 +25558,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 458,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "迷子",
     "question": "祭りで【迷子】になった児童を保護しています。 まいこ",
     "question_ruby": "<ruby>祭り<rt>まつり</rt></ruby>で<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【迷子】</span><rt class=\"target-reading-spoiler\">まいご</rt></ruby>になった<ruby>児童<rt>じどう</rt></ruby>を<ruby>保護<rt>ほご</rt></ruby>しています。 まいこ",
@@ -25624,8 +25623,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 459,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "目がない",
     "question": "歩き始めの幼児は（　　　）目がない 目がきかない _ので、親は大変だ。",
     "question_ruby": "<ruby>歩き<rt>あるき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>の<ruby>幼児<rt>ようじ</rt></ruby>は（　　　）<ruby>目<rt>め</rt></ruby>がない <ruby>目<rt>め</rt></ruby>がきかない _ので、<ruby>親<rt>おや</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>だ。",
@@ -25673,8 +25672,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 460,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にあたって",
     "question": "栄する（　　　）、注意すべきことは何でしょう。",
     "question_ruby": "<ruby>栄<rt>さかえ</rt></ruby>する（　　　）、<ruby>注意<rt>ちゅうい</rt></ruby>すべきことは<ruby>何<rt>なん</rt></ruby>でしょう。",
@@ -25722,8 +25721,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 461,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "署名",
     "question": "金額を確認して、ここに【しょめい】してください。",
     "question_ruby": "<ruby>金額<rt>きんがく</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>て、ここに【しょめい】してください。",
@@ -25787,8 +25786,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 462,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "様子",
     "question": "今急いで結論を出さないで、尖し（　　　）を見てからにしましょう。",
     "question_ruby": "<ruby>今<rt>いま</rt></ruby><ruby>急い<rt>いそい</rt></ruby>で<ruby>結論<rt>けつろん</rt></ruby>を<ruby>出さ<rt>ださ</rt></ruby>ないで、<ruby>尖<rt>せん</rt></ruby>し（　　　）を<ruby>見て<rt>みて</rt></ruby>からにしましょう。",
@@ -25852,8 +25851,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 463,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "につき",
     "question": "馬事由（　　　）、通行止めとなっております。",
     "question_ruby": "<ruby>馬事<rt>ばじ</rt></ruby><ruby>由<rt>ゆ</rt></ruby>（　　　）、<ruby>通行止<rt>つうこうどめ</rt></ruby>めとなっております。",
@@ -25901,8 +25900,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 464,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "珍しく",
     "question": "人前で話すのは慣れているのに、今回は【珍しく】胃が痛くなって、逃げ出したい気持ちだった。",
     "question_ruby": "<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>話す<rt>はなす</rt></ruby>のは<ruby>慣れ<rt>なれ</rt></ruby>ているのに、<ruby>今回<rt>こんかい</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【珍しく】</span><rt class=\"target-reading-spoiler\">めずらしく</rt></ruby><ruby>胃<rt>い</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なって、<ruby>逃げ出し<rt>にげだし</rt></ruby>たい<ruby>気持ち<rt>きもち</rt></ruby>だった。",
@@ -25950,8 +25949,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 465,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ついて",
     "question": "もうあなたには（　　　）いけない。",
     "question_ruby": "もうあなたには（　　　）いけない。",
@@ -25992,8 +25991,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 466,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "につれて",
     "question": "土地開発が準む（　　　）、緑が少なくなってきた。",
     "question_ruby": "<ruby>土地<rt>とち</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>が<ruby>準<rt>じゅん</rt></ruby>む（　　　）、<ruby>緑<rt>みどり</rt></ruby>が<ruby>少なく<rt>すくなく</rt></ruby>なってきた。",
@@ -26034,11 +26033,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 467,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "倒れ",
     "question": "建設中のビルのパネルが歩道に【倒れ】、歩いていた人が死亡した。",
-    "question_ruby": "<ruby>建設中<rt>けんせつちゅう</rt></ruby>のビルのパネルが<ruby>歩道<rt>ほどう</rt></ruby>に<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【倒れ】</span><rt class=\"target-reading-spoiler\">たおれ</rt></ruby>、<ruby>歩い<rt>あるい</rt></ruby>ていた<ruby>人<rt>にん</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>した。",
+    "question_ruby": "<ruby>建設中<rt>けんせつちゅう</rt></ruby>のビルのパネルが<ruby>歩道<rt>ほどう</rt></ruby>に<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【倒れ】</span><rt class=\"target-reading-spoiler\">たおれ</rt></ruby>、<ruby>歩い<rt>あるい</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>した。",
     "choices": [
       "たおれ",
       "こわれ",
@@ -26083,8 +26082,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 468,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あわてる",
     "question": "電車が遅れていたせいか、あまりの混雑に乗車する のを くらいだった。（　　　）あせる あわてる",
     "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅れ<rt>おくれ</rt></ruby>ていたせいか、あまりの<ruby>混雑<rt>こんざつ</rt></ruby>に<ruby>乗車<rt>じょうしゃ</rt></ruby>する のを くらいだった。（　　　）あせる あわてる",
@@ -26132,8 +26131,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 469,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にしたら",
     "question": "タバコの無は、吸わない（　　　）迷惑だ。",
     "question_ruby": "タバコの<ruby>無<rt>む</rt></ruby>は、<ruby>吸わ<rt>すわ</rt></ruby>ない（　　　）<ruby>迷惑<rt>めいわく</rt></ruby>だ。",
@@ -26174,11 +26173,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 470,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "怒らない",
     "question": "あの人はめったに【怒らない】。",
-    "question_ruby": "あの<ruby>人<rt>にん</rt></ruby>はめったに【<ruby>怒ら<rt>いから</rt></ruby>ない】。",
+    "question_ruby": "あの<ruby>人<rt>ひと</rt></ruby>はめったに【<ruby>怒ら<rt>いから</rt></ruby>ない】。",
     "choices": [
       "怒らない",
       "努らない",
@@ -26223,8 +26222,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 471,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ろくな",
     "question": "癒気になったり、事故にあったりと、最浜（　　　）ことがない。",
     "question_ruby": "<ruby>癒<rt>ゆ</rt></ruby><ruby>気<rt>き</rt></ruby>になったり、<ruby>事故<rt>じこ</rt></ruby>にあったりと、<ruby>最<rt>さい</rt></ruby><ruby>浜<rt>はま</rt></ruby>（　　　）ことがない。",
@@ -26277,8 +26276,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 472,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "における",
     "question": "教育（　　　）讃問題について煮えよう。",
     "question_ruby": "<ruby>教育<rt>きょういく</rt></ruby>（　　　）<ruby>讃<rt>さん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>について<ruby>煮え<rt>にえ</rt></ruby>よう。",
@@ -26326,8 +26325,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 473,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "捕まった",
     "question": "泥棒はすぐに【捕まった】。",
     "question_ruby": "<ruby>泥棒<rt>どろぼう</rt></ruby>はすぐに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【捕まった】</span><rt class=\"target-reading-spoiler\">つかまった</rt></ruby>。",
@@ -26375,8 +26374,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 474,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "余裕",
     "question": "A「車を買い換えようか。」 B「そんな。 はないよ。」（　　　）都合 sM",
     "question_ruby": "A「<ruby>車<rt>くるま</rt></ruby>を<ruby>買い換え<rt>かいかえ</rt></ruby>ようか。」 B「そんな。 はないよ。」（　　　）<ruby>都合<rt>つごう</rt></ruby> sM",
@@ -26440,8 +26439,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 475,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "っこない",
     "question": "こんな難しい問題、でき（　　　）。",
     "question_ruby": "こんな<ruby>難しい<rt>むずかしい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>、でき（　　　）。",
@@ -26482,8 +26481,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 476,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "季節",
     "question": "【きせつ】の中で、いつが一番好きですか。",
     "question_ruby": "【きせつ】の<ruby>中<rt>なか</rt></ruby>で、いつが<ruby>一番好き<rt>いちばんすき</rt></ruby>ですか。",
@@ -26547,8 +26546,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 477,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "コンセント",
     "question": "コードが（　　　）にかないから、延長コードを使おう。",
     "question_ruby": "コードが（　　　）にかないから、<ruby>延長<rt>えんちょう</rt></ruby>コードを<ruby>使お<rt>つかお</rt></ruby>う。",
@@ -26589,8 +26588,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 478,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にしろ",
     "question": "結局はあきらめる べきだ。（　　　）、一度はやってみる",
     "question_ruby": "<ruby>結局<rt>けっきょく</rt></ruby>はあきらめる べきだ。（　　　）、<ruby>一度<rt>いちど</rt></ruby>はやってみる",
@@ -26631,8 +26630,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 479,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "刺される",
     "question": "この虫に近づくと、毒の針で【刺される】。",
     "question_ruby": "この<ruby>虫<rt>むし</rt></ruby>に<ruby>近づ<rt>ちかづ</rt></ruby>くと、<ruby>毒<rt>どく</rt></ruby>の<ruby>針<rt>はり</rt></ruby>で<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【刺される】</span><rt class=\"target-reading-spoiler\">さされる</rt></ruby>。",
@@ -26680,8 +26679,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 480,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ついた",
     "question": "ネットショッピングで客く買ったと思ったが、送料がかかってかえって高く（　　　）。",
     "question_ruby": "ネットショッピングで<ruby>客<rt>きゃく</rt></ruby>く<ruby>買っ<rt>かっ</rt></ruby>たと<ruby>思った<rt>おもった</rt></ruby>が、<ruby>送料<rt>そうりょう</rt></ruby>がかかってかえって<ruby>高く<rt>たかく</rt></ruby>（　　　）。",
@@ -26722,10 +26721,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 481,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "しかない",
-    "question": "あなたの言っていることは、言い訳（　　　）",
+    "question": "彼が並べ立てている主張は、単なる言い訳（　　　）。",
     "question_ruby": "あなたの<ruby>言って<rt>いって</rt></ruby>いることは、<ruby>言い訳<rt>いいわけ</rt></ruby>（　　　）",
     "choices": [
       "にすぎない",
@@ -26739,8 +26738,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "ということだ",
       "にかぎる"
     ],
-    "answer": 1,
-    "correct_text": "しかない",
+    "answer": 0,
+    "correct_text": "にすぎない",
     "meaning_en": "What you say is just an excuse.",
     "explanation": "",
     "kanji_info": [
@@ -26771,8 +26770,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 482,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "灰皿",
     "question": "タバコを吸いたいんですが、【灰皿】はありますか。",
     "question_ruby": "タバコを<ruby>吸い<rt>すい</rt></ruby>たいんですが、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【灰皿】</span><rt class=\"target-reading-spoiler\">はいざら</rt></ruby>はありますか。",
@@ -26836,8 +26835,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 483,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もらして",
     "question": "私はあなたの秘密を（　　　）いません。",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>はあなたの<ruby>秘密<rt>ひみつ</rt></ruby>を（　　　）いません。",
@@ -26878,8 +26877,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 484,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ことに",
     "question": "うれしい（　　　）、希望の太学に食べしました。",
     "question_ruby": "うれしい（　　　）、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>太<rt>た</rt></ruby><ruby>学に<rt>まなに</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>しました。",
@@ -26927,8 +26926,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 485,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "汗",
     "question": "【あせ】が出てきた。",
     "question_ruby": "【あせ】が<ruby>出て<rt>でて</rt></ruby>きた。",
@@ -26976,8 +26975,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 486,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "くつろいで",
     "question": "体目なので家で（　　　）いたのに、電話で会社に呼び出されてしまった。",
     "question_ruby": "<ruby>体<rt>からだ</rt></ruby><ruby>目な<rt>めな</rt></ruby>ので<ruby>家<rt>いえ</rt></ruby>で（　　　）いたのに、<ruby>電話<rt>でんわ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>呼び出さ<rt>よびださ</rt></ruby>れてしまった。",
@@ -27018,8 +27017,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 487,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "応じて",
     "question": "日本語の能力に（　　　）クラスが選べます。",
     "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>に（　　　）クラスが<ruby>選べ<rt>えらべ</rt></ruby>ます。",
@@ -27067,8 +27066,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 488,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "紅葉",
     "question": "ここは新緑も【紅葉】もきれいだし、春には桜が咲きます。",
     "question_ruby": "ここは<ruby>新緑<rt>しんりょく</rt></ruby>も<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【紅葉】</span><rt class=\"target-reading-spoiler\">こうよう</rt></ruby>もきれいだし、<ruby>春<rt>はる</rt></ruby>には<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲き<rt>さき</rt></ruby>ます。",
@@ -27132,8 +27131,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 489,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "よしましょう",
     "question": "B「今、ここでその話は、（　　　）。",
     "question_ruby": "B「<ruby>今<rt>いま</rt></ruby>、ここでその<ruby>話<rt>はなし</rt></ruby>は、（　　　）。",
@@ -27174,8 +27173,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 490,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にそって",
     "question": "この道路（　　　）行けば、目的地に着きます。",
     "question_ruby": "この<ruby>道路<rt>どうろ</rt></ruby>（　　　）<ruby>行け<rt>いけ</rt></ruby>ば、<ruby>目的地<rt>もくてきち</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。",
@@ -27216,8 +27215,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 491,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "浮かんで",
     "question": "湖にボートが【うかんで】いる。",
     "question_ruby": "<ruby>湖<rt>みずうみ</rt></ruby>にボートが【うかんで】いる。",
@@ -27265,8 +27264,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 492,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "やりがい",
     "question": "A「新しい仕事はどう？」 B「きついけれど、、（　　　）がありますよ。」",
     "question_ruby": "A「<ruby>新しい<rt>あたらしい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>はどう？」 B「きついけれど、、（　　　）がありますよ。」",
@@ -27336,8 +27335,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 493,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "に反して",
     "question": "の 3 専門家の予測（　　　）景気は悪くなった。",
     "question_ruby": "の 3 <ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>（　　　）<ruby>景気<rt>けいき</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なった。",
@@ -27385,8 +27384,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 494,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "床",
     "question": "週に一度、【床】を磨く。",
     "question_ruby": "<ruby>週<rt>しゅう</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby>、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【床】</span><rt class=\"target-reading-spoiler\">ゆか</rt></ruby>を<ruby>磨く<rt>みがく</rt></ruby>。",
@@ -27434,8 +27433,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 495,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "体がもたない",
     "question": "そろそろ休みをもらわないと（　　　）よ。",
     "question_ruby": "そろそろ<ruby>休み<rt>やすみ</rt></ruby>をもらわないと（　　　）よ。",
@@ -27483,8 +27482,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 496,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にかぎって",
     "question": "いつも持っているのに、今日（　　　）傘がない。",
     "question_ruby": "いつも<ruby>持っ<rt>もっ</rt></ruby>ているのに、<ruby>今日<rt>きょう</rt></ruby>（　　　）<ruby>傘<rt>かさ</rt></ruby>がない。",
@@ -27532,8 +27531,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 497,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "囲まれて",
     "question": "祖父は子供や孫たちに【囲まれて】、幸せそうです。 うとまれて",
     "question_ruby": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>や<ruby>孫<rt>まご</rt></ruby>たちに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【囲まれて】</span><rt class=\"target-reading-spoiler\">かこまれて</rt></ruby>、<ruby>幸せ<rt>しあわせ</rt></ruby>そうです。 うとまれて",
@@ -27581,8 +27580,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 498,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "たえず",
     "question": "妹はあめやらガムやら（　　　）何かを口に入れている。",
     "question_ruby": "<ruby>妹<rt>いもうと</rt></ruby>はあめやらガムやら（　　　）<ruby>何<rt>なに</rt></ruby>かを<ruby>口<rt>くち</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ている。",
@@ -27630,8 +27629,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 499,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のもとで",
     "question": "この映画は、事実（　　　）制作された。 ぶ",
     "question_ruby": "この<ruby>映画<rt>えいが</rt></ruby>は、<ruby>事実<rt>じじつ</rt></ruby>（　　　）<ruby>制作<rt>せいさく</rt></ruby>された。 ぶ",
@@ -27672,8 +27671,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 500,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "沸いた",
     "question": "お母さん、お湯が【沸いた】よ。",
     "question_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>、お<ruby>湯<rt>ゆ</rt></ruby>が【<ruby>沸<rt>ふつ</rt></ruby>いた】よ。",
@@ -27721,8 +27720,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 501,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もうかる",
     "question": "ネットの賃料はけっこう（　　　）らしい。",
     "question_ruby": "ネットの<ruby>賃料<rt>ちんりょう</rt></ruby>はけっこう（　　　）らしい。",
@@ -27770,8 +27769,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 502,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にもかかわらず",
     "question": "体調が悪い（　　　）、働き続けた。",
     "question_ruby": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>（　　　）、<ruby>働き<rt>はたらき</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>た。",
@@ -27819,8 +27818,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 503,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "列車",
     "question": "「九州一周【列車】の旅」を1名様にプレゼントします。",
     "question_ruby": "「<ruby>九州<rt>きゅうしゅう</rt></ruby><ruby>一周<rt>いっしゅう</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【列車】</span><rt class=\"target-reading-spoiler\">れっしゃ</rt></ruby>の<ruby>旅<rt>たび</rt></ruby>」を1<ruby>名様<rt>めいさま</rt></ruby>にプレゼントします。",
@@ -27884,8 +27883,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 504,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "こなしている",
     "question": "携黃電話の機態を使い（　　　）♪がどれだけいるだろうか。",
     "question_ruby": "<ruby>携<rt>けい</rt></ruby><ruby>黃<rt></rt></ruby><ruby>話<rt>はなし</rt></ruby>の<ruby>機<rt>き</rt></ruby><ruby>態<rt>たい</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>（　　　）♪がどれだけいるだろうか。",
@@ -27926,8 +27925,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 505,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "つけて",
     "question": "彼は周囲の期待に（　　　）すれば つけて がんばった。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>に（　　　）すれば つけて がんばった。",
@@ -27968,8 +27967,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 506,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "磨きましょう",
     "question": "食べたら歯を【みがきましょう】。",
     "question_ruby": "<ruby>食べた<rt>たべた</rt></ruby>ら<ruby>歯を<rt>はを</rt></ruby>【みがきましょう】。",
@@ -28017,10 +28016,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 507,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "取りつぐ",
-    "question": "竜話の応対といっても、上司や先薬に、 だけの仕事なので楽です。（　　　）",
+    "question": "電話応対といっても、担当の上司や先輩に（　　　）だけの業務なので安心だ。",
     "question_ruby": "<ruby>竜<rt>りゅう</rt></ruby><ruby>話<rt>はなし</rt></ruby>の<ruby>応対<rt>おうたい</rt></ruby>といっても、<ruby>上司<rt>じょうし</rt></ruby>や<ruby>先<rt>さき</rt></ruby><ruby>薬<rt>くすり</rt></ruby>に、 だけの<ruby>仕事<rt>しごと</rt></ruby>なので<ruby>楽<rt>らく</rt></ruby>です。（　　　）",
     "choices": [
       "取りこむ",
@@ -28066,8 +28065,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 508,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にわたって",
     "question": "年（　　　）を問わず を中心に 研究を続けた。",
     "question_ruby": "<ruby>年<rt>ねん</rt></ruby>（　　　）を<ruby>問わ<rt>とわ</rt></ruby>ず を<ruby>中心<rt>ちゅうしん</rt></ruby>に <ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>た。",
@@ -28115,8 +28114,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 509,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "触れないでください",
     "question": "やけどの恐れがありますから、絶対に手を【触れないでください】。 さわれないで",
     "question_ruby": "やけどの<ruby>恐れ<rt>おそれ</rt></ruby>がありますから、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【触れないでください】</span><rt class=\"target-reading-spoiler\">ふれないで</rt></ruby>。 さわれないで",
@@ -28164,8 +28163,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 510,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "クレーム",
     "question": "買ったところに（　　　）を言った方がいいんじゃない？",
     "question_ruby": "<ruby>買っ<rt>かっ</rt></ruby>たところに（　　　）を<ruby>言った<rt>いった</rt></ruby><ruby>方<rt>ほう</rt></ruby>がいいんじゃない？",
@@ -28206,8 +28205,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 511,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をめぐって",
     "question": "家族の協力（　　　）のせいで のおかげで をぬきに をめぐって 私の成功はなかった。",
     "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>協力<rt>きょうりょく</rt></ruby>（　　　）のせいで のおかげで をぬきに をめぐって <ruby>私<rt>わたし</rt></ruby>の<ruby>成功<rt>せいこう</rt></ruby>はなかった。",
@@ -28248,8 +28247,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 512,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "筆",
     "question": "【筆】で漢字を書きました。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【筆】</span><rt class=\"target-reading-spoiler\">ふで</rt></ruby>で<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書き<rt>かき</rt></ruby>ました。",
@@ -28297,8 +28296,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 513,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "こっている",
     "question": "この椅子、デザインは（　　　）けれど、すわり心地があんまりよくないね。",
     "question_ruby": "この<ruby>椅子<rt>いす</rt></ruby>、デザインは（　　　）けれど、すわり<ruby>心地<rt>ここち</rt></ruby>があんまりよくないね。",
@@ -28339,8 +28338,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 514,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "つけ",
     "question": "何かに（　　　）、浜所の♪にはお世話になっている。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>かに（　　　）、<ruby>浜<rt>はま</rt></ruby><ruby>所<rt>ところ</rt></ruby>の♪にはお<ruby>世話<rt>せわ</rt></ruby>になっている。",
@@ -28388,11 +28387,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 515,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "救った",
     "question": "犬が人の命を【すくった】という記事を読んだ。",
-    "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>人<rt>にん</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>を【すくった】という<ruby>記事<rt>きじ</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>。",
+    "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>人<rt>ひと</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>を【すくった】という<ruby>記事<rt>きじ</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>。",
     "choices": [
       "助った",
       "救った",
@@ -28437,8 +28436,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 516,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "やり取り",
     "question": "彼とは無賀状の（　　　）だけで、もう何も会っていない。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>とは<ruby>無<rt>む</rt></ruby><ruby>賀状<rt>がじょう</rt></ruby>の（　　　）だけで、もう<ruby>何<rt>なに</rt></ruby>も<ruby>会っ<rt>あっ</rt></ruby>ていない。",
@@ -28486,8 +28485,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 517,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ほかならない",
     "question": "食できたのは、日々の努力の結果に（　　　）。",
     "question_ruby": "<ruby>食<rt>しょく</rt></ruby>できたのは、<ruby>日々<rt>ひび</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>に（　　　）。",
@@ -28528,8 +28527,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 518,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "景色",
     "question": "郊外の【景色】のいい住宅地で暮らしたい。",
     "question_ruby": "<ruby>郊外<rt>こうがい</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【景色】</span><rt class=\"target-reading-spoiler\">けしき</rt></ruby>のいい<ruby>住宅地<rt>じゅうたくち</rt></ruby>で<ruby>暮らし<rt>くらし</rt></ruby>たい。",
@@ -28593,8 +28592,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 519,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "リストラ",
     "question": "同僚が（　　　）されてしまった。",
     "question_ruby": "<ruby>同僚<rt>どうりょう</rt></ruby>が（　　　）されてしまった。",
@@ -28635,8 +28634,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 520,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "やら／やら",
     "question": "赤 いる。 黄（　　　）、いろんな色の花が咲いて",
     "question_ruby": "<ruby>赤<rt>あか</rt></ruby> いる。 <ruby>黄<rt>き</rt></ruby>（　　　）、いろんな<ruby>色<rt>いろ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲い<rt>さい</rt></ruby>て",
@@ -28677,8 +28676,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 521,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "恵まれた",
     "question": "この地方は温泉もあり、豊かな自然に【めぐまれた】所です。 恵まれた",
     "question_ruby": "この<ruby>地方<rt>ちほう</rt></ruby>は<ruby>温泉<rt>おんせん</rt></ruby>もあり、<ruby>豊か<rt>ゆたか</rt></ruby>な<ruby>自然<rt>しぜん</rt></ruby>に【めぐまれた】<ruby>所<rt>ところ</rt></ruby>です。 <ruby>恵ま<rt>めぐま</rt></ruby>れた",
@@ -28726,8 +28725,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 522,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "みじめな",
     "question": "結婚していないというだけで、 ことがある。（　　　）「思いをする",
     "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>していないというだけで、 ことがある。（　　　）「<ruby>思い<rt>おもい</rt></ruby>をする",
@@ -28768,8 +28767,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 523,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "通った",
     "question": "そこを（　　　）ばかりに、事故に巻き込まれた。",
     "question_ruby": "そこを（　　　）ばかりに、<ruby>事故<rt>じこ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れた。",
@@ -28817,8 +28816,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 524,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "盗まれた",
     "question": "警察は【盗まれた】絵画と犯人を捜している。",
     "question_ruby": "<ruby>警察<rt>けいさつ</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【盗まれた】</span><rt class=\"target-reading-spoiler\">ぬすまれた</rt></ruby><ruby>絵画<rt>かいが</rt></ruby>と<ruby>犯人<rt>はんにん</rt></ruby>を<ruby>捜し<rt>さがし</rt></ruby>ている。",
@@ -28866,8 +28865,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 525,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "こもって",
     "question": "試験が添いので家に（　　　）勉強しないと。",
     "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>が<ruby>添い<rt>そい</rt></ruby>ので<ruby>家<rt>いえ</rt></ruby>に（　　　）<ruby>勉強<rt>べんきょう</rt></ruby>しないと。",
@@ -28908,8 +28907,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 526,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 1 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のもとで",
     "question": "彼は、親の薬境（　　　）素せに育った。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby>親<rt>おや</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby><ruby>境<rt>さかい</rt></ruby>（　　　）<ruby>素<rt>もと</rt></ruby>せに<ruby>育っ<rt>そだっ</rt></ruby>た。",
@@ -28950,8 +28949,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 527,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "被害",
     "question": "地震による【被害】の状況が伝えられた。 きがい",
     "question_ruby": "<ruby>地震<rt>じしん</rt></ruby>による<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【被害】</span><rt class=\"target-reading-spoiler\">ひがい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>伝え<rt>つたえ</rt></ruby>られた。 きがい",
@@ -29015,10 +29014,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 528,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "気が進まない",
-    "question": "A「今度の日曜日、デパートに付き合ってよね。」 B「混んでいるから、1 けれど仕方ないね。」（　　　）",
+    "question": "A「今度の日曜日、バーゲンに付き合ってよ。」 B「休日はどこも混んでいるから、あまり（　　　）けれど、約束だから行くよ。」",
     "question_ruby": "A「<ruby>今度<rt>こんど</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、デパートに<ruby>付き合っ<rt>つきあっ</rt></ruby>てよね。」 B「<ruby>混ん<rt>こん</rt></ruby>でいるから、1 けれど<ruby>仕方ない<rt>しかたない</rt></ruby>ね。」（　　　）",
     "choices": [
       "気がしない",
@@ -29080,8 +29079,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 529,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "だらけ",
     "question": "この店の料理は、量が少ないから女性（　　　）だ。",
     "question_ruby": "この<ruby>店<rt>みせ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>は、<ruby>量<rt>りょう</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>から<ruby>女性<rt>じょせい</rt></ruby>（　　　）だ。",
@@ -29122,8 +29121,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 530,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "秒",
     "question": "1分は60【びょう】です。",
     "question_ruby": "1<ruby>分<rt>ふん</rt></ruby>は60【びょう】です。",
@@ -29166,8 +29165,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 531,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "しみ",
     "question": "新しいクリームにしてから、肌の がよく なった気がする。高かったけど、買ってよかった。（　　　）ご い",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby>クリームにしてから、<ruby>肌<rt>はだ</rt></ruby>の がよく なった<ruby>気<rt>き</rt></ruby>がする。<ruby>高かっ<rt>たかっ</rt></ruby>たけど、<ruby>買っ<rt>かっ</rt></ruby>てよかった。（　　　）ご い",
@@ -29215,8 +29214,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 532,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "なら",
     "question": "このバッグは魚もきれい（　　　）、形もいい。",
     "question_ruby": "このバッグは<ruby>魚<rt>さかな</rt></ruby>もきれい（　　　）、<ruby>形<rt>かたち</rt></ruby>もいい。",
@@ -29280,8 +29279,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 533,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "帯",
     "question": "浴衣には簡単な【帯】をします。足袋は普通、はきません。 。",
     "question_ruby": "<ruby>浴衣<rt>ゆかた</rt></ruby>には<ruby>簡単<rt>かんたん</rt></ruby>な<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【帯】</span><rt class=\"target-reading-spoiler\">おび</rt></ruby>をします。<ruby>足袋<rt>たび</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>、はきません。 。",
@@ -29329,8 +29328,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 534,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "薬を飲まないようにしていたが、どうしても痛みを",
     "question": "（　　　）こらえられず、痛み止めの薬を飲んだ。",
     "question_ruby": "（　　　）こらえられず、<ruby>痛み止め<rt>いたみどめ</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ。",
@@ -29400,8 +29399,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 535,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "かまわず",
     "question": "彼は服が汚れるのも（　　　）、本を抱きしめた。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>服<rt>ふく</rt></ruby>が<ruby>汚れ<rt>よごれ</rt></ruby>るのも（　　　）、<ruby>本<rt>ほん</rt></ruby>を<ruby>抱き<rt>だき</rt></ruby>しめた。",
@@ -29442,8 +29441,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 536,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "綿",
     "question": "このシャツは【めん】100%です。",
     "question_ruby": "このシャツは【めん】100%です。",
@@ -29491,8 +29490,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 537,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "さからって",
     "question": "親の言うことに（　　　）、長男は家を出て行ってしまった。",
     "question_ruby": "<ruby>親<rt>おや</rt></ruby>の<ruby>言う<rt>いう</rt></ruby>ことに（　　　）、<ruby>長男<rt>ちょうなん</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby><ruby>行って<rt>いって</rt></ruby>しまった。",
@@ -29533,8 +29532,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 538,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "買う",
     "question": "あんなまずいもの、三度と（　　　）ものか。",
     "question_ruby": "あんなまずいもの、<ruby>三度<rt>さんど</rt></ruby>と（　　　）ものか。",
@@ -29582,8 +29581,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 539,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "募集",
     "question": "パート【募集】。やる気のある方を求む。勤務時間は相談に応じます。 もじ",
     "question_ruby": "パート<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【募集】</span><rt class=\"target-reading-spoiler\">ぼしゅう</rt></ruby>。やる<ruby>気の<rt>きの</rt></ruby>ある<ruby>方<rt>ほう</rt></ruby>を<ruby>求む<rt>もとむ</rt></ruby>。<ruby>勤務時間<rt>きんむじかん</rt></ruby>は<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>ます。 もじ",
@@ -29647,8 +29646,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 540,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "インフレ",
     "question": "第三次世界戦真後、日本は邀しい（　　　）になった。",
     "question_ruby": "<ruby>第三<rt>だいさん</rt></ruby><ruby>次<rt>つぎ</rt></ruby><ruby>世界戦<rt>せかいせん</rt></ruby><ruby>真後<rt>まうしろ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>邀<rt>よう</rt></ruby>しい（　　　）になった。",
@@ -29689,8 +29688,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 541,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "できる",
     "question": "出席（　　　）ものならしたいが、どうしても都合がつかない。",
     "question_ruby": "<ruby>出席<rt>しゅっせき</rt></ruby>（　　　）ものならしたいが、どうしても<ruby>都合<rt>つごう</rt></ruby>がつかない。",
@@ -29754,8 +29753,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 542,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "勇気",
     "question": "その警官は、人々から頼られる、【勇気】のある男性でした。",
     "question_ruby": "その<ruby>警官<rt>けいかん</rt></ruby>は、<ruby>人々<rt>ひとびと</rt></ruby>から<ruby>頼ら<rt>たよら</rt></ruby>れる、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【勇気】</span><rt class=\"target-reading-spoiler\">ゆうき</rt></ruby>のある<ruby>男性<rt>だんせい</rt></ruby>でした。",
@@ -29819,8 +29818,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 543,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いばって",
     "question": "その上司は仕事もできないのに、 いるので部下から嫌われている。（　　　）うらぎって さけて ばかり",
     "question_ruby": "その<ruby>上司<rt>じょうし</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>もできないのに、 いるので<ruby>部下<rt>ぶか</rt></ruby>から<ruby>嫌わ<rt>きらわ</rt></ruby>れている。（　　　）うらぎって さけて ばかり",
@@ -29861,8 +29860,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 544,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "しようがない",
     "question": "状況を説明したいのだが、電話では説明（　　　）。",
     "question_ruby": "<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>説明し<rt>せつめいし</rt></ruby>たいのだが、<ruby>電話<rt>でんわ</rt></ruby>では<ruby>説明<rt>せつめい</rt></ruby>（　　　）。",
@@ -29903,8 +29902,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 545,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "券",
     "question": "乗車【けん】を拝見します。",
     "question_ruby": "<ruby>乗車<rt>じょうしゃ</rt></ruby>【けん】を<ruby>拝見<rt>はいけん</rt></ruby>します。",
@@ -29952,8 +29951,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 546,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "せっかく",
     "question": "A「ジョンがまたゴミ箱をひっくり返してるよ。」 B「えーっ、今朝、_ きれいに掃除したのに。」（　　　）ご い",
     "question_ruby": "A「ジョンがまたゴミ<ruby>箱<rt>はこ</rt></ruby>をひっくり<ruby>返し<rt>かえし</rt></ruby>てるよ。」 B「えーっ、<ruby>今朝<rt>けさ</rt></ruby>、_ きれいに<ruby>掃除<rt>そうじ</rt></ruby>したのに。」（　　　）ご い",
@@ -30017,8 +30016,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 547,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "借りた",
     "question": "袋生に読むように言われた本は、（　　　）ものの、まだ読んでいない。",
     "question_ruby": "<ruby>袋<rt>ふくろ</rt></ruby><ruby>生に<rt>うに</rt></ruby><ruby>読む<rt>よむ</rt></ruby>ように<ruby>言わ<rt>いわ</rt></ruby>れた<ruby>本<rt>ほん</rt></ruby>は、（　　　）ものの、まだ<ruby>読んで<rt>よんで</rt></ruby>いない。",
@@ -30066,8 +30065,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 548,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "改善",
     "question": "労働条件を【改善】する。",
     "question_ruby": "<ruby>労働条件<rt>ろうどうじょうけん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【改善】</span><rt class=\"target-reading-spoiler\">かいぜん</rt></ruby>する。",
@@ -30131,8 +30130,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 549,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "つりあった",
     "question": "彼女は自分の収入に_ 借金だらけになった。（　　　）ちかづいた 生活をしなかったので、",
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>に_ <ruby>借金<rt>しゃっきん</rt></ruby>だらけになった。（　　　）ちかづいた <ruby>生活<rt>せいかつ</rt></ruby>をしなかったので、",
@@ -30173,8 +30172,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 550,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "どころか",
     "question": "もう1時を過ぎたが、冥御飯（　　　）、朝も食べていない。",
     "question_ruby": "もう1<ruby>時<rt>とき</rt></ruby>を<ruby>過ぎ<rt>すぎ</rt></ruby>たが、<ruby>冥<rt>めい</rt></ruby><ruby>御飯<rt>ごはん</rt></ruby>（　　　）、<ruby>朝<rt>あさ</rt></ruby>も<ruby>食べて<rt>たべて</rt></ruby>いない。",
@@ -30215,8 +30214,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 551,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "燃やせる",
     "question": "今日は【もやせる】ゴミの日です。",
     "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は【もやせる】ゴミの<ruby>日<rt>にち</rt></ruby>です。",
@@ -30264,10 +30263,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 552,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "人なつっこい",
-    "question": "私は、だれにでも抱っこされる だったらしい。（　　　）赤ちゃん N",
+    "question": "私は幼いころ、だれにでも抱っこされる（　　　）赤ちゃんだったらしい。",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は、だれにでも<ruby>抱っこ<rt>だっこ</rt></ruby>される だったらしい。（　　　）<ruby>赤ちゃん<rt>あかちゃん</rt></ruby> N",
     "choices": [
       "甘やかされた",
@@ -30313,8 +30312,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 553,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をもとに",
     "question": "月に行われる試験_ をします。（　　　）に先だって _、 10月に模擬試験",
     "question_ruby": "<ruby>月<rt>がつ</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れる<ruby>試験<rt>しけん</rt></ruby>_ をします。（　　　）に<ruby>先<rt>さき</rt></ruby>だって _、 10<ruby>月<rt>がつ</rt></ruby>に<ruby>模擬試験<rt>もぎしけん</rt></ruby>",
@@ -30355,8 +30354,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 554,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "幼い",
     "question": "【幼い】子供が真似をするから、乱暴な言葉を使わないでください。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【幼い】</span><rt class=\"target-reading-spoiler\">おさない</rt></ruby><ruby>子供<rt>こども</rt></ruby>が<ruby>真似<rt>まね</rt></ruby>をするから、<ruby>乱暴<rt>らんぼう</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
@@ -30404,8 +30403,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 555,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "やっかいな",
     "question": "装目の悩みは解したが、（　　　）問題がまた。",
     "question_ruby": "<ruby>装<rt>そう</rt></ruby><ruby>目の<rt>めの</rt></ruby><ruby>悩み<rt>なやみ</rt></ruby>は<ruby>解し<rt>かいし</rt></ruby>たが、（　　　）<ruby>問題<rt>もんだい</rt></ruby>がまた。",
@@ -30446,8 +30445,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 556,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にあたって",
     "question": "駅 小さい店が建ち並んでいる。（　　　）をめぐって を中心に",
     "question_ruby": "<ruby>駅<rt>えき</rt></ruby> <ruby>小さい<rt>ちーさい</rt></ruby><ruby>店<rt>みせ</rt></ruby>が<ruby>建ち<rt>たち</rt></ruby><ruby>並ん<rt>ならん</rt></ruby>でいる。（　　　）をめぐって を<ruby>中心<rt>ちゅうしん</rt></ruby>に",
@@ -30495,8 +30494,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 557,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "候補者",
     "question": "どの【候補者】に投票するか、演説を聞いて決める。",
     "question_ruby": "どの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【候補者】</span><rt class=\"target-reading-spoiler\">こうほしゃ</rt></ruby>に<ruby>投票<rt>とうひょう</rt></ruby>するか、<ruby>演説<rt>えんぜつ</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て<ruby>決め<rt>きめ</rt></ruby>る。",
@@ -30566,11 +30565,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 558,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "しゃがんで",
-    "question": "： 家の人がホームで（　　　）いる。",
-    "question_ruby": "： <ruby>家<rt>いえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>がホームで（　　　）いる。",
+    "question": "気分が悪くなった人が、駅のホームで（　　　）いる。",
+    "question_ruby": "： <ruby>家<rt>いえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がホームで（　　　）いる。",
     "choices": [
       "またいで",
       "しゃがんで",
@@ -30608,8 +30607,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 559,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "親切な彼女の",
     "question": "（　　　）ことには 、引き受けてくれるだろう。",
     "question_ruby": "（　　　）ことには 、<ruby>引き受け<rt>ひきうけ</rt></ruby>てくれるだろう。",
@@ -30685,8 +30684,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 560,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "腕",
     "question": "部長はさっきから【うで】を組んで何か考えているようだ。",
     "question_ruby": "<ruby>部長<rt>ぶちょう</rt></ruby>はさっきから【うで】を<ruby>組ん<rt>くん</rt></ruby>で<ruby>何<rt>なに</rt></ruby>か<ruby>考え<rt>かんがえ</rt></ruby>ているようだ。",
@@ -30734,8 +30733,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 561,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "なんとか",
     "question": "この仕事を（　　　）しないと、落ち着いて食事もできない。",
     "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>を（　　　）しないと、<ruby>落ち着い<rt>おちつい</rt></ruby>て<ruby>食事<rt>しょくじ</rt></ruby>もできない。",
@@ -30783,8 +30782,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 562,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をめぐって",
     "question": "テレビ番組での知事の発言（　　　）、市長から世の電話が鳴り続けた。",
     "question_ruby": "テレビ<ruby>番組<rt>ばんぐみ</rt></ruby>での<ruby>知事<rt>ちじ</rt></ruby>の<ruby>発言<rt>はつげん</rt></ruby>（　　　）、<ruby>市長<rt>しちょう</rt></ruby>から<ruby>世の<rt>よの</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴り<rt>なり</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>た。",
@@ -30825,8 +30824,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 563,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "雇おう",
     "question": "もう一人、社員を【雇おう】。",
     "question_ruby": "もう<ruby>一人<rt>ひとり</rt></ruby>、<ruby>社員<rt>しゃいん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【雇おう】</span><rt class=\"target-reading-spoiler\">やとおう</rt></ruby>。",
@@ -30874,8 +30873,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 564,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "なめられて",
     "question": "本に顔を（　　　）、べとべとになった。",
     "question_ruby": "<ruby>本<rt>ほん</rt></ruby>に<ruby>顔<rt>かお</rt></ruby>を（　　　）、べとべとになった。",
@@ -30916,8 +30915,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 565,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "みないことには",
     "question": "いくら品物のよさを強調されても、表際に手にとって（　　　）本当にいいかどうかはわかりません。",
     "question_ruby": "いくら<ruby>品物<rt>しなもの</rt></ruby>のよさを<ruby>強調<rt>きょうちょう</rt></ruby>されても、<ruby>表<rt>おもて</rt></ruby><ruby>際に<rt>さいに</rt></ruby><ruby>手<rt>て</rt></ruby>にとって（　　　）<ruby>本当<rt>ほんとう</rt></ruby>にいいかどうかはわかりません。",
@@ -30958,8 +30957,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 566,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "漁師",
     "question": "大人になったら、【りょうし】になって海で働きたい。",
     "question_ruby": "<ruby>大人<rt>おとな</rt></ruby>になったら、【りょうし】になって<ruby>海<rt>うみ</rt></ruby>で<ruby>働き<rt>はたらき</rt></ruby>たい。",
@@ -31023,8 +31022,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 567,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ぐっと",
     "question": "このところ（　　　）冷えてきたね。",
     "question_ruby": "このところ（　　　）<ruby>冷え<rt>ひえ</rt></ruby>てきたね。",
@@ -31065,8 +31064,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 568,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ことなく",
     "question": "品親は、鼻子の書いた絵を無無きる（　　　）眺めた。",
     "question_ruby": "<ruby>品<rt>ひん</rt></ruby><ruby>親<rt>おや</rt></ruby>は、<ruby>鼻子<rt>はなこ</rt></ruby>の<ruby>書い<rt>かい</rt></ruby>た<ruby>絵<rt>え</rt></ruby>を<ruby>無<rt>む</rt></ruby><ruby>無き<rt>なき</rt></ruby>る（　　　）<ruby>眺め<rt>ながめ</rt></ruby>た。",
@@ -31107,8 +31106,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 569,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "戻してください",
     "question": "本を棚に【戻してください】。 もどして",
     "question_ruby": "<ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【戻してください】</span><rt class=\"target-reading-spoiler\">もどして</rt></ruby>。 もどして",
@@ -31156,8 +31155,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 570,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あらい",
     "question": "A「トイレの掃除、お願いね。洗濯物も入れて おいてね。」 B「人使いが ねえ。」（　　　）あらい くどい きつい",
     "question_ruby": "A「トイレの<ruby>掃除<rt>そうじ</rt></ruby>、お<ruby>願い<rt>ねがい</rt></ruby>ね。<ruby>洗濯物<rt>せんたくもの</rt></ruby>も<ruby>入れ<rt>いれ</rt></ruby>て おいてね。」 B「<ruby>人使い<rt>ひとづかい</rt></ruby>が ねえ。」（　　　）あらい くどい きつい",
@@ -31205,8 +31204,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 571,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をとわず",
     "question": "社員募集。年齢・性別・経験の有無（　　　）採用します。",
     "question_ruby": "<ruby>社員<rt>しゃいん</rt></ruby><ruby>募集<rt>ぼしゅう</rt></ruby>。<ruby>年齢<rt>ねんれい</rt></ruby>・<ruby>性別<rt>せいべつ</rt></ruby>・<ruby>経験<rt>けいけん</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>（　　　）<ruby>採用<rt>さいよう</rt></ruby>します。",
@@ -31247,8 +31246,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 572,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "包みます",
     "question": "材料をギョーザの皮で【包みます】。",
     "question_ruby": "<ruby>材料<rt>ざいりょう</rt></ruby>をギョーザの<ruby>皮<rt>かわ</rt></ruby>で<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【包みます】</span><rt class=\"target-reading-spoiler\">つつみます</rt></ruby>。",
@@ -31296,8 +31295,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 573,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "からかわないで",
     "question": "A「高橋さんは、美人でスタイルもいいし、もてて 困るでしょう。」 B「そんなことないですよ。 ください。」（　　　）なぐさめないで",
     "question_ruby": "A「<ruby>高橋<rt>たかはし</rt></ruby>さんは、<ruby>美人<rt>びじん</rt></ruby>でスタイルもいいし、もてて <ruby>困る<rt>こまる</rt></ruby>でしょう。」 B「そんなことないですよ。 ください。」（　　　）なぐさめないで",
@@ -31338,8 +31337,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 574,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "だからといって",
     "question": "有魚なんの作品（　　　）、すばらしいとは限らない。",
     "question_ruby": "<ruby>有<rt>あり</rt></ruby><ruby>魚<rt>さかな</rt></ruby>なんの<ruby>作品<rt>さくひん</rt></ruby>（　　　）、すばらしいとは<ruby>限ら<rt>かぎら</rt></ruby>ない。",
@@ -31387,8 +31386,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 575,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "旧姓",
     "question": "田中は夫の名字で、私の【きゅうせい】は中村です。",
     "question_ruby": "<ruby>田中<rt>たなか</rt></ruby>は<ruby>夫<rt>おっと</rt></ruby>の<ruby>名字<rt>みょうじ</rt></ruby>で、<ruby>私<rt>わたし</rt></ruby>の【きゅうせい】は<ruby>中村<rt>なかむら</rt></ruby>です。",
@@ -31452,8 +31451,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 576,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "つもり",
     "question": "そんな（　　　）はなかったのに、田忠さんを怒らせてしまった。",
     "question_ruby": "そんな（　　　）はなかったのに、<ruby>田<rt>た</rt></ruby><ruby>忠<rt>ただし</rt></ruby>さんを<ruby>怒ら<rt>いから</rt></ruby>せてしまった。",
@@ -31501,8 +31500,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 577,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "こめて",
     "question": "心を（　　　）作った料理は何でもおいしいものだ。",
     "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもおいしいものだ。",
@@ -31543,8 +31542,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 578,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "途中",
     "question": "A「御両親へお土産を買って行きたいんですが。」 B「じゃ、【途中】でデパートに寄りましょう。」",
     "question_ruby": "A「<ruby>御両親<rt>ごりょうしん</rt></ruby>へお<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て<ruby>行き<rt>いき</rt></ruby>たいんですが。」 B「じゃ、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【途中】</span><rt class=\"target-reading-spoiler\">とちゅう</rt></ruby>でデパートに<ruby>寄り<rt>より</rt></ruby>ましょう。」",
@@ -31608,8 +31607,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 579,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "かついで",
     "question": "自転車が故障したので、肩に（　　　）どけて はさんで 「運んだ。",
     "question_ruby": "<ruby>自転車<rt>じてんしゃ</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>したので、<ruby>肩<rt>かた</rt></ruby>に（　　　）どけて はさんで 「<ruby>運ん<rt>はこん</rt></ruby>だ。",
@@ -31650,8 +31649,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 580,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "食事をして",
     "question": "この薬は（　　　）からでないと、飲んではいけません。",
     "question_ruby": "この<ruby>薬<rt>くすり</rt></ruby>は（　　　）からでないと、<ruby>飲ん<rt>のん</rt></ruby>ではいけません。",
@@ -31715,8 +31714,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 581,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "輪",
     "question": "みんなで【わ】になって、踊りましょう。",
     "question_ruby": "みんなで【わ】になって、<ruby>踊り<rt>おどり</rt></ruby>ましょう。",
@@ -31764,8 +31763,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 582,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "悪くした",
     "question": "用忠さん、私の言ったことで気を（　　　）らしく、品をきいてくれないの。",
     "question_ruby": "<ruby>用<rt>よう</rt></ruby><ruby>忠<rt>ただし</rt></ruby>さん、<ruby>私<rt>わたし</rt></ruby>の<ruby>言った<rt>いった</rt></ruby>ことで<ruby>気<rt>き</rt></ruby>を（　　　）らしく、<ruby>品<rt>ひん</rt></ruby>をきいてくれないの。",
@@ -31813,8 +31812,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 583,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のをきっかけに",
     "question": "彼の定期券を拾った（　　　）、私たちは達になった。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>定期券<rt>ていきけん</rt></ruby>を<ruby>拾っ<rt>ひろっ</rt></ruby>た（　　　）、<ruby>私たち<rt>わたしたち</rt></ruby>は<ruby>達<rt>とおる</rt></ruby>になった。",
@@ -31855,8 +31854,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 584,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "環境問題について",
     "question": "総理大臣は米国を訪問し、【環境問題について】語った。 かんきゅう",
     "question_ruby": "<ruby>総理大臣<rt>そうりだいじん</rt></ruby>は<ruby>米国<rt>べいこく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【環境問題について】</span><rt class=\"target-reading-spoiler\">かんきょう</rt></ruby><ruby>語っ<rt>かたっ</rt></ruby>た。 かんきゅう",
@@ -31932,8 +31931,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 585,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "さっそく",
     "question": "近くに新しいレストランができたので、、 行ってみた。（　　　）さっそく",
     "question_ruby": "<ruby>近く<rt>ちかく</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>レストランができたので、、 <ruby>行って<rt>いって</rt></ruby>みた。（　　　）さっそく",
@@ -31997,8 +31996,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 586,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "頭のよさにかけては",
     "question": "出本君はスポーツはできないが、（　　　）研修所ですも香だ。",
     "question_ruby": "<ruby>出本<rt>でもと</rt></ruby><ruby>君<rt>くん</rt></ruby>はスポーツはできないが、（　　　）<ruby>研修所<rt>けんしゅうじょ</rt></ruby>ですも<ruby>香<rt>かおり</rt></ruby>だ。",
@@ -32046,8 +32045,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 587,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "狭い",
     "question": "【狭い】部屋でも構いません。安いほうがいいです。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【狭い】</span><rt class=\"target-reading-spoiler\">せまい</rt></ruby><ruby>部屋<rt>へや</rt></ruby>でも<ruby>構い<rt>かまい</rt></ruby>ません。<ruby>安い<rt>やすい</rt></ruby>ほうがいいです。",
@@ -32095,8 +32094,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 588,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "しだいに",
     "question": "今日の午後、雨は、（　　　）ただちに _強くなるでしょう。 ご い",
     "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>は、（　　　）ただちに _<ruby>強く<rt>つよく</rt></ruby>なるでしょう。 ご い",
@@ -32160,10 +32159,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 589,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "行かない",
-    "question": "台風で家が飛ばされそうになり、みな、研修所や仕事 に どころではなかった。（　　　）",
+    "question": "大型台風の直撃で停電が続き、とても仕事に（　　　）どころではなかった。",
     "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>が<ruby>飛ば<rt>とば</rt></ruby>されそうになり、みな、<ruby>研修所<rt>けんしゅうじょ</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby> に どころではなかった。（　　　）",
     "choices": [
       "行って",
@@ -32177,8 +32176,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>行<rt>い</rt></ruby>かない",
       "<ruby>行った<rt>いった</rt></ruby>"
     ],
-    "answer": 2,
-    "correct_text": "行かない",
+    "answer": 1,
+    "correct_text": "行く",
     "meaning_en": "Because their houses were in danger of being blown away by the typhoon, no one",
     "explanation": "",
     "kanji_info": [
@@ -32209,8 +32208,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 590,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "畑",
     "question": "【はたけ】を耕し、種をまいた。",
     "question_ruby": "【はたけ】を<ruby>耕し<rt>たがやし</rt></ruby>、<ruby>種<rt>たね</rt></ruby>をまいた。",
@@ -32258,11 +32257,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 591,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "おおぜい",
     "question": "どうしたんだろう。家の前に人が（　　　）いるよ。",
-    "question_ruby": "どうしたんだろう。<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>にん</rt></ruby>が（　　　）いるよ。",
+    "question_ruby": "どうしたんだろう。<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が（　　　）いるよ。",
     "choices": [
       "おおぜい",
       "おおいに",
@@ -32323,8 +32322,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 592,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "とした",
     "question": "C02を減らすことを具（　　　）運動が盛んに行われている。",
     "question_ruby": "C02を<ruby>減ら<rt>へら</rt></ruby>すことを<ruby>具<rt>ぐ</rt></ruby>（　　　）<ruby>運動<rt>うんどう</rt></ruby>が<ruby>盛ん<rt>さかん</rt></ruby>に<ruby>行わ<rt>おこなわ</rt></ruby>れている。",
@@ -32365,8 +32364,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 593,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "整い",
     "question": "準備が【整い】次第、運転を再開します。",
     "question_ruby": "<ruby>準備<rt>じゅんび</rt></ruby>が<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【整い】</span><rt class=\"target-reading-spoiler\">ととのい</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、<ruby>運転<rt>うんてん</rt></ruby>を<ruby>再開<rt>さいかい</rt></ruby>します。",
@@ -32414,11 +32413,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 594,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "たよらずに",
-    "question": "そういう問題は、人を ことが重要です。（　　　）ためさずに 自分で解決する N",
-    "question_ruby": "そういう<ruby>問題<rt>もんだい</rt></ruby>は、<ruby>人<rt>にん</rt></ruby>を ことが<ruby>重要<rt>じゅうよう</rt></ruby>です。（　　　）ためさずに <ruby>自分<rt>じぶん</rt></ruby>で<ruby>解決<rt>かいけつ</rt></ruby>する N",
+    "question": "複雑な課題に直面したときは、他人に（　　　）まずは自分の頭で解決策を模索することが大切だ。",
+    "question_ruby": "そういう<ruby>問題<rt>もんだい</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>を ことが<ruby>重要<rt>じゅうよう</rt></ruby>です。（　　　）ためさずに <ruby>自分<rt>じぶん</rt></ruby>で<ruby>解決<rt>かいけつ</rt></ruby>する N",
     "choices": [
       "たよらずに",
       "ためさずに",
@@ -32456,8 +32455,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 595,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にかけては",
     "question": "客いものを上手に買うこと（　　　）、彼をに勝てるはいない。",
     "question_ruby": "<ruby>客<rt>きゃく</rt></ruby>いものを<ruby>上手<rt>じょうず</rt></ruby>に<ruby>買う<rt>かう</rt></ruby>こと（　　　）、<ruby>彼<rt>かれ</rt></ruby>をに<ruby>勝て<rt>かて</rt></ruby>るはいない。",
@@ -32498,8 +32497,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 596,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "干そう",
     "question": "今日は天気がいいから、布団を【干そう】。",
     "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいから、<ruby>布団<rt>ふとん</rt></ruby>を【<ruby>干そ<rt>ほそ</rt></ruby>う】。",
@@ -32547,8 +32546,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 597,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "とっくに",
     "question": "A「サッカーの試合、何時から？」 B「もう 始まってるよ。」（　　　）とつぜん",
     "question_ruby": "A「サッカーの<ruby>試合<rt>しあい</rt></ruby>、<ruby>何時<rt>なんじ</rt></ruby>から？」 B「もう <ruby>始ま<rt>はじま</rt></ruby>ってるよ。」（　　　）とつぜん",
@@ -32596,8 +32595,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 598,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "からには",
     "question": "たとえ無理な約表でも、約表した（　　　）、どんなことがあっても守るつもりだ。",
     "question_ruby": "たとえ<ruby>無理<rt>むり</rt></ruby>な<ruby>約<rt>やく</rt></ruby><ruby>表<rt>おもて</rt></ruby>でも、<ruby>約<rt>やく</rt></ruby><ruby>表し<rt>あらわし</rt></ruby>た（　　　）、どんなことがあっても<ruby>守る<rt>まもる</rt></ruby>つもりだ。",
@@ -32638,8 +32637,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 599,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "伸びたので",
     "question": "髪が【伸びたので】、床屋へ行くつもりだったが、風邪で延期した。",
     "question_ruby": "<ruby>髪<rt>かみ</rt></ruby>が<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【伸びたので】</span><rt class=\"target-reading-spoiler\">のびた</rt></ruby>、<ruby>床屋<rt>とこや</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby>つもりだったが、<ruby>風邪<rt>かぜ</rt></ruby>で<ruby>延期<rt>えんき</rt></ruby>した。",
@@ -32687,8 +32686,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 600,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "追いかけた",
     "question": "本が逃げたので（　　　）けれど、捕まえることができなかった。",
     "question_ruby": "<ruby>本<rt>ほん</rt></ruby>が<ruby>逃げ<rt>にげ</rt></ruby>たので（　　　）けれど、<ruby>捕ま<rt>つかま</rt></ruby>えることができなかった。",
@@ -32736,8 +32735,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 601,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "をもとに",
     "question": "このドラマは、表際にあった話（　　　）制作されました。",
     "question_ruby": "このドラマは、<ruby>表<rt>おもて</rt></ruby><ruby>際に<rt>さいに</rt></ruby>あった<ruby>話<rt>はなし</rt></ruby>（　　　）<ruby>制作<rt>せいさく</rt></ruby>されました。",
@@ -32778,8 +32777,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 602,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "翌日",
     "question": "その爆発事故のニュースは、【翌日】の朝刊に大きく取り上げられた。 。",
     "question_ruby": "その<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>事故<rt>じこ</rt></ruby>のニュースは、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【翌日】</span><rt class=\"target-reading-spoiler\">よくじつ</rt></ruby>の<ruby>朝刊<rt>ちょうかん</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>取り上げ<rt>とりあげ</rt></ruby>られた。 。",
@@ -32843,8 +32842,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 603,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "案",
     "question": "この件を解決するために、何かいい。 あったら出してください。（　　　）案 が",
     "question_ruby": "この<ruby>件<rt>けん</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するために、<ruby>何<rt>なに</rt></ruby>かいい。 あったら<ruby>出し<rt>だし</rt></ruby>てください。（　　　）<ruby>案<rt>あん</rt></ruby> が",
@@ -32892,8 +32891,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 604,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "からして",
     "question": "この植物には表があるというが、確かに魚（　　　）普通ではない。",
     "question_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby>には<ruby>表<rt>おもて</rt></ruby>があるというが、<ruby>確かに<rt>たしかに</rt></ruby><ruby>魚<rt>さかな</rt></ruby>（　　　）<ruby>普通<rt>ふつう</rt></ruby>ではない。",
@@ -32934,8 +32933,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 605,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "登録",
     "question": "名前や住所を【とうろく】した。",
     "question_ruby": "<ruby>名前<rt>なまえ</rt></ruby>や<ruby>住所<rt>じゅうしょ</rt></ruby>を【とうろく】した。",
@@ -32999,8 +32998,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 606,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いっせいに",
     "question": "演奏が終わると、観客は えんそう 拍手した。 はくじゅ（　　　）立ち上がって",
     "question_ruby": "<ruby>演奏<rt>えんそう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ると、<ruby>観客<rt>かんきゃく</rt></ruby>は えんそう <ruby>拍手<rt>はくしゅ</rt></ruby>した。 はくじゅ（　　　）<ruby>立ち上が<rt>たちあが</rt></ruby>って",
@@ -33064,8 +33063,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 607,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "便利な",
     "question": "コンピューターは（　　　）ものの、故障したりすると本当に困る。",
     "question_ruby": "コンピューターは（　　　）ものの、<ruby>故障<rt>こしょう</rt></ruby>したりすると<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>困る<rt>こまる</rt></ruby>。",
@@ -33129,8 +33128,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 608,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "悩み",
     "question": "彼女には健康上の【悩み】があるようだ。 にらみ",
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>には<ruby>健康上<rt>けんこうじょう</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【悩み】</span><rt class=\"target-reading-spoiler\">なやみ</rt></ruby>があるようだ。 にらみ",
@@ -33178,11 +33177,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 609,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "害",
     "question": "タバコは吸っている本人だけではなく、近くに いる人にも になる。（　　　）罪 害 ご い",
-    "question_ruby": "タバコは<ruby>吸っ<rt>すっ</rt></ruby>ている<ruby>本人<rt>ほんにん</rt></ruby>だけではなく、<ruby>近く<rt>ちかく</rt></ruby>に いる<ruby>人<rt>にん</rt></ruby>にも になる。（　　　）<ruby>罪<rt>つみ</rt></ruby> <ruby>害<rt>がい</rt></ruby> ご い",
+    "question_ruby": "タバコは<ruby>吸っ<rt>すっ</rt></ruby>ている<ruby>本人<rt>ほんにん</rt></ruby>だけではなく、<ruby>近く<rt>ちかく</rt></ruby>に いる<ruby>人<rt>ひと</rt></ruby>にも になる。（　　　）<ruby>罪<rt>つみ</rt></ruby> <ruby>害<rt>がい</rt></ruby> ご い",
     "choices": [
       "罪",
       "害",
@@ -33227,8 +33226,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 610,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "の際には",
     "question": "非常（　　　）このボタンを押してください。",
     "question_ruby": "<ruby>非常<rt>ひじょう</rt></ruby>（　　　）このボタンを<ruby>押し<rt>おし</rt></ruby>てください。",
@@ -33276,8 +33275,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 611,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "責任",
     "question": "この事故に関して、会社は【せきにん】を負うべきだ。",
     "question_ruby": "この<ruby>事故<rt>じこ</rt></ruby>に<ruby>関し<rt>かんし</rt></ruby>て、<ruby>会社<rt>かいしゃ</rt></ruby>は【せきにん】を<ruby>負う<rt>おう</rt></ruby>べきだ。",
@@ -33341,8 +33340,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 612,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "休暇",
     "question": "この夏の（　　　）に、ヨーロッパ旅行をしようと思っています。",
     "question_ruby": "この<ruby>夏<rt>なつ</rt></ruby>の（　　　）に、ヨーロッパ<ruby>旅行<rt>りょこう</rt></ruby>をしようと<ruby>思って<rt>おもって</rt></ruby>います。",
@@ -33406,8 +33405,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 613,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のあげく",
     "question": "さんざん迷った ことにした。（　　　）とたんに 、進学せずに就職する しゅうしょく",
     "question_ruby": "さんざん<ruby>迷っ<rt>まよっ</rt></ruby>た ことにした。（　　　）とたんに 、<ruby>進学<rt>しんがく</rt></ruby>せずに<ruby>就職<rt>しゅうしょく</rt></ruby>する しゅうしょく",
@@ -33448,8 +33447,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 614,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "児童",
     "question": "老人や【児童】をねらった犯罪が増えている。",
     "question_ruby": "<ruby>老人<rt>ろうじん</rt></ruby>や<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【児童】</span><rt class=\"target-reading-spoiler\">じどう</rt></ruby>をねらった<ruby>犯罪<rt>はんざい</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている。",
@@ -33513,8 +33512,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 615,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ようするに",
     "question": "あなたの言いたいことは、私に責任が あるということですね。（　　　）ようするに ようやく せめて",
     "question_ruby": "あなたの<ruby>言い<rt>いい</rt></ruby>たいことは、<ruby>私<rt>わたし</rt></ruby>に<ruby>責任<rt>せきにん</rt></ruby>が あるということですね。（　　　）ようするに ようやく せめて",
@@ -33562,8 +33561,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 616,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 2 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "見る",
     "question": "この検査結果を（　　　）限り、どこも異常はなさそうです。",
     "question_ruby": "この<ruby>検査結果<rt>けんさけっか</rt></ruby>を（　　　）<ruby>限り<rt>かぎり</rt></ruby>、どこも<ruby>異常<rt>いじょう</rt></ruby>はなさそうです。",
@@ -33611,8 +33610,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 617,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "偉大",
     "question": "展覧会に行った。【偉大】な芸術家の作品が並んでいた。",
     "question_ruby": "<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>。<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【偉大】</span><rt class=\"target-reading-spoiler\">いだい</rt></ruby>な<ruby>芸術家<rt>げいじゅつか</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>が<ruby>並ん<rt>ならん</rt></ruby>でいた。",
@@ -33676,10 +33675,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 618,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ひきょう",
-    "question": "音を立ててスープを飲んだら、娘に、 言われた。（　　　）げひん みにくい きよう だと N",
+    "question": "音を立ててスープを飲んだら、同席していた娘に（　　　）だと言われて注意された。",
     "question_ruby": "<ruby>音<rt>おと</rt></ruby>を<ruby>立て<rt>たて</rt></ruby>てスープを<ruby>飲ん<rt>のん</rt></ruby>だら、<ruby>娘<rt>むすめ</rt></ruby>に、 <ruby>言わ<rt>いわ</rt></ruby>れた。（　　　）げひん みにくい きよう だと N",
     "choices": [
       "げひん",
@@ -33693,8 +33692,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "きよう",
       "ひきょう"
     ],
-    "answer": 3,
-    "correct_text": "ひきょう",
+    "answer": 0,
+    "correct_text": "げひん",
     "meaning_en": "My daughter told me | was rude when I slurped my soup.",
     "explanation": "",
     "kanji_info": [
@@ -33736,8 +33735,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 619,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "許し",
     "question": "弱い煮いじめは（　　　）難い行為だ。",
     "question_ruby": "<ruby>弱い<rt>よわい</rt></ruby><ruby>煮<rt>に</rt></ruby>いじめは（　　　）<ruby>難い<rt>がたい</rt></ruby><ruby>行為<rt>こうい</rt></ruby>だ。",
@@ -33785,8 +33784,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 620,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "招く",
     "question": "そういう行動は誤解を【まねく】。",
     "question_ruby": "そういう<ruby>行動<rt>こうどう</rt></ruby>は<ruby>誤解<rt>ごかい</rt></ruby>を【まねく】。",
@@ -33834,8 +33833,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 621,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いずれ",
     "question": "ゲームに熱中していたら、（　　　）朝になっていた。",
     "question_ruby": "ゲームに<ruby>熱中<rt>ねっちゅう</rt></ruby>していたら、（　　　）<ruby>朝<rt>あさ</rt></ruby>になっていた。",
@@ -33883,8 +33882,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 622,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "お教えし",
     "question": "お客様の個会報は、（　　　）かねます。",
     "question_ruby": "お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>個<rt>こ</rt></ruby><ruby>会報<rt>かいほう</rt></ruby>は、（　　　）かねます。",
@@ -33932,8 +33931,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 623,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "お互い",
     "question": "【お互い】に頑張って目標を達成しよう。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【お互い】</span><rt class=\"target-reading-spoiler\">おたがい</rt></ruby>に<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>しよう。",
@@ -33981,10 +33980,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 624,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "代",
-    "question": "買い物をしすぎて、帰りのバス いない。（　　　）しか残って N",
+    "question": "旅先で買い物をしすぎてしまい、帰りのバス（　　　）しか財布に残っていない。",
     "question_ruby": "<ruby>買い物<rt>かいもの</rt></ruby>をしすぎて、<ruby>帰り<rt>かえり</rt></ruby>のバス いない。（　　　）しか<ruby>残っ<rt>のこっ</rt></ruby>て N",
     "choices": [
       "金",
@@ -34030,8 +34029,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 625,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "かのように",
     "question": "初めて来た場所なのに、まるで来たことがある（　　　）懐かしく思った。",
     "question_ruby": "<ruby>初めて<rt>はじめて</rt></ruby><ruby>来た<rt>きた</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>なのに、まるで<ruby>来た<rt>きた</rt></ruby>ことがある（　　　）<ruby>懐かしく<rt>なつかしく</rt></ruby><ruby>思った<rt>おもった</rt></ruby>。",
@@ -34072,8 +34071,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 626,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "底",
     "question": "両替機は、【そこ】のすみにあります。",
     "question_ruby": "<ruby>両替機<rt>りょうがえき</rt></ruby>は、【そこ】のすみにあります。",
@@ -34121,8 +34120,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 627,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もしかすると",
     "question": "株は、、 上がったり下がったりすることがある。（　　　）あっというまに もうすこしで ご い",
     "question_ruby": "<ruby>株<rt>かぶ</rt></ruby>は、、 <ruby>上<rt>あ</rt></ruby>がったり<ruby>下<rt>さ</rt></ruby>がったりすることがある。（　　　）あっというまに もうすこしで ご い",
@@ -34170,8 +34169,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 628,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のあまり",
     "question": "彼は怖（　　　）、髪が、腰にしてっ自になってしまった。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>怖<rt>ふ</rt></ruby>（　　　）、<ruby>髪<rt>かみ</rt></ruby>が、<ruby>腰<rt>こし</rt></ruby>にしてっ<ruby>自<rt>じ</rt></ruby>になってしまった。",
@@ -34212,8 +34211,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 629,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "航空",
     "question": "【航空】事故の大半は離陸と着陸の際に起こるし、耳が痛くなるし、とても「快適な空の旅」とは言えない。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【航空】</span><rt class=\"target-reading-spoiler\">こうくう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>の<ruby>大半<rt>たいはん</rt></ruby>は<ruby>離陸<rt>りりく</rt></ruby>と<ruby>着陸<rt>ちゃくりく</rt></ruby>の<ruby>際に<rt>さいに</rt></ruby><ruby>起こ<rt>おこ</rt></ruby>るし、<ruby>耳<rt>みみ</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なるし、とても「<ruby>快適<rt>かいてき</rt></ruby>な<ruby>空<rt>そら</rt></ruby>の<ruby>旅<rt>たび</rt></ruby>」とは<ruby>言え<rt>いえ</rt></ruby>ない。",
@@ -34277,8 +34276,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 630,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "現象",
     "question": "地球温暖化によって、さまざまな（　　　）が起きている。",
     "question_ruby": "<ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby>によって、さまざまな（　　　）が<ruby>起き<rt>おき</rt></ruby>ている。",
@@ -34342,10 +34341,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 631,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "言い",
-    "question": "A「そんなひどいこと、言うかしら。」 B「あいつなら かねないよ。」（　　　）",
+    "question": "A「彼がそんな無責任なことを言うでしょうか。」 B「あの性格なら、平気で（　　　）かねないよ。」",
     "question_ruby": "A「そんなひどいこと、<ruby>言う<rt>いう</rt></ruby>かしら。」 B「あいつなら かねないよ。」（　　　）",
     "choices": [
       "言い",
@@ -34391,8 +34390,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 632,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "異なる",
     "question": "ゴミの処理や収集の規則は地域によって【異なる】。",
     "question_ruby": "ゴミの<ruby>処理<rt>しょり</rt></ruby>や<ruby>収集<rt>しゅうしゅう</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>は<ruby>地域<rt>ちいき</rt></ruby>によって<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【異なる】</span><rt class=\"target-reading-spoiler\">ことなる</rt></ruby>。",
@@ -34440,8 +34439,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 633,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ざっと",
     "question": "この会場には、（　　　）教えたところ100点はいるようだ。",
     "question_ruby": "この<ruby>会場<rt>かいじょう</rt></ruby>には、（　　　）<ruby>教え<rt>おしえ</rt></ruby>たところ100<ruby>点<rt>てん</rt></ruby>はいるようだ。",
@@ -34482,10 +34481,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 634,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "せざるをえない",
-    "question": "したくないことも、仕事だから（　　　）",
+    "question": "気が進まない業務であっても、組織の一員である以上は（　　　）。",
     "question_ruby": "したくないことも、<ruby>仕事<rt>しごと</rt></ruby>だから（　　　）",
     "choices": [
       "さざるをえない",
@@ -34531,8 +34530,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 635,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "氷",
     "question": "水は零度Cで【こおり】になります。",
     "question_ruby": "<ruby>水<rt>みず</rt></ruby>は<ruby>零度<rt>れいど</rt></ruby>Cで【こおり】になります。",
@@ -34580,8 +34579,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 636,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "思いつかず",
     "question": "横浜駅で（　　　）思いつかず 思い切り 思いがけず 高校時代の友人に会った。",
     "question_ruby": "<ruby>横浜駅<rt>よこはまえき</rt></ruby>で（　　　）<ruby>思い<rt>おもい</rt></ruby>つかず <ruby>思い切り<rt>おもいきり</rt></ruby> <ruby>思い<rt>おもい</rt></ruby>がけず <ruby>高校時代<rt>こうこうじだい</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>会っ<rt>あっ</rt></ruby>た。",
@@ -34629,8 +34628,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 637,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ながら",
     "question": "不本意（　　　）、進学を諦めた。",
     "question_ruby": "<ruby>不本意<rt>ふほんい</rt></ruby>（　　　）、<ruby>進学<rt>しんがく</rt></ruby>を<ruby>諦め<rt>あきらめ</rt></ruby>た。",
@@ -34683,8 +34682,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 638,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "詰め込む",
     "question": "知識を【詰め込む】教育と考える力をつける教育とを比較する。 うめこむきめこむ",
     "question_ruby": "<ruby>知識<rt>ちしき</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【詰め込む】</span><rt class=\"target-reading-spoiler\">つめこむ</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>と<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>をつける<ruby>教育<rt>きょういく</rt></ruby>とを<ruby>比較<rt>ひかく</rt></ruby>する。 うめこむきめこむ",
@@ -34748,8 +34747,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 639,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "コントロール",
     "question": "僕はお酒が入ると、自分の感憶を（　　　）できなくなる。",
     "question_ruby": "<ruby>僕<rt>ぼく</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ると、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>感<rt>かん</rt></ruby><ruby>憶を<rt>おぼを</rt></ruby>（　　　）できなくなる。",
@@ -34790,8 +34789,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 640,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "一方で",
     "question": "このアニメは子供に気がある（　　　）、本人からは批判されている。",
     "question_ruby": "このアニメは<ruby>子供<rt>こども</rt></ruby>に<ruby>気<rt>き</rt></ruby>がある（　　　）、<ruby>本人<rt>ほんにん</rt></ruby>からは<ruby>批判<rt>ひはん</rt></ruby>されている。",
@@ -34855,8 +34854,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 641,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "採る",
     "question": "この山で、きのこを【とる】には許可が必要です。",
     "question_ruby": "この<ruby>山<rt>やま</rt></ruby>で、きのこを【とる】には<ruby>許可<rt>きょか</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
@@ -34904,8 +34903,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 642,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あと",
     "question": "足に、子供の頃けがをした（　　　）が残っている。",
     "question_ruby": "<ruby>足<rt>あし</rt></ruby>に、<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ごろ</rt></ruby>けがをした（　　　）が<ruby>残っ<rt>のこっ</rt></ruby>ている。",
@@ -34953,8 +34952,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 643,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "以上は",
     "question": "引き受けた（　　　）、太変でも最後までやり遂げます。",
     "question_ruby": "<ruby>引き受け<rt>ひきうけ</rt></ruby>た（　　　）、<ruby>太<rt>た</rt></ruby><ruby>変で<rt>へんで</rt></ruby>も<ruby>最後<rt>さいご</rt></ruby>までやり<ruby>遂げ<rt>とげ</rt></ruby>ます。",
@@ -35018,8 +35017,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 644,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "宇宙",
     "question": "【宇宙】飛行士になりたい。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【宇宙】</span><rt class=\"target-reading-spoiler\">うちゅう</rt></ruby><ruby>飛行士<rt>ひこうし</rt></ruby>になりたい。",
@@ -35083,8 +35082,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 645,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "かたむいて",
     "question": "先日の地震で家が（　　　）かたむいて 、住むことができない。",
     "question_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>が（　　　）かたむいて 、<ruby>住む<rt>すむ</rt></ruby>ことができない。",
@@ -35125,8 +35124,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 646,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "からみると",
     "question": "西洋医学（　　　）を問わず にかけては からみると をめぐって 、東洋医学は不可解かもしれない。",
     "question_ruby": "<ruby>西洋医学<rt>せいよういがく</rt></ruby>（　　　）を<ruby>問わ<rt>とわ</rt></ruby>ず にかけては からみると をめぐって 、<ruby>東洋医学<rt>とうよういがく</rt></ruby>は<ruby>不可解<rt>ふかかい</rt></ruby>かもしれない。",
@@ -35167,8 +35166,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 647,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "治療",
     "question": "高血圧の【治療】に効く体操があるらしい。",
     "question_ruby": "<ruby>高血圧<rt>こうけつあつ</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【治療】</span><rt class=\"target-reading-spoiler\">ちりょう</rt></ruby>に<ruby>効く<rt>きく</rt></ruby><ruby>体操<rt>たいそう</rt></ruby>があるらしい。",
@@ -35232,8 +35231,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 648,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "どうしても",
     "question": "お金持ちが幸せとは限らない。（　　　）あいかわらず さすがに",
     "question_ruby": "お<ruby>金持ち<rt>かねもち</rt></ruby>が<ruby>幸せ<rt>しあわせ</rt></ruby>とは<ruby>限ら<rt>かぎら</rt></ruby>ない。（　　　）あいかわらず さすがに",
@@ -35297,8 +35296,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 649,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "決まり",
     "question": "日程が（　　　）次第、ご終申し上げます。",
     "question_ruby": "<ruby>日程<rt>にってい</rt></ruby>が（　　　）<ruby>次第<rt>しだい</rt></ruby>、ご<ruby>終<rt>おわり</rt></ruby><ruby>申し上げ<rt>もうしあげ</rt></ruby>ます。",
@@ -35346,8 +35345,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 650,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "副詞",
     "question": "今日は、接続詞と【ふくし】を勉強した。",
     "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は、<ruby>接続詞<rt>せつぞくし</rt></ruby>と【ふくし】を<ruby>勉強<rt>べんきょう</rt></ruby>した。",
@@ -35411,8 +35410,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 651,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "実行",
     "question": "その計画を 考えたほうがいい。 に移す前に、もう一度よく（　　　）実現 実行",
     "question_ruby": "その<ruby>計画<rt>けいかく</rt></ruby>を <ruby>考え<rt>かんがえ</rt></ruby>たほうがいい。 に<ruby>移す<rt>うつす</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、もう<ruby>一度<rt>いちど</rt></ruby>よく（　　　）<ruby>実現<rt>じつげん</rt></ruby> <ruby>実行<rt>じっこう</rt></ruby>",
@@ -35476,8 +35475,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 652,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のうちに",
     "question": "袋は無、夜が明けるか明けないか（　　　）、家を出る。",
     "question_ruby": "<ruby>袋<rt>ふくろ</rt></ruby>は<ruby>無<rt>む</rt></ruby>、<ruby>夜<rt>よる</rt></ruby>が<ruby>明け<rt>あけ</rt></ruby>るか<ruby>明け<rt>あけ</rt></ruby>ないか（　　　）、<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby>。",
@@ -35518,8 +35517,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 653,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "欧州",
     "question": "【欧州】旅行で建築物として価値のある建物をたくさん見たい。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【欧州】</span><rt class=\"target-reading-spoiler\">おうしゅう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>で<ruby>建築物<rt>けんちくぶつ</rt></ruby>として<ruby>価値<rt>かち</rt></ruby>のある<ruby>建物<rt>たてもの</rt></ruby>をたくさん<ruby>見た<rt>みた</rt></ruby>い。",
@@ -35583,8 +35582,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 654,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "はぶきます",
     "question": "時間がないので、詳しい説明は（　　　）。",
     "question_ruby": "<ruby>時間<rt>じかん</rt></ruby>がないので、<ruby>詳しい<rt>くわしい</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>は（　　　）。",
@@ -35625,8 +35624,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 655,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にある",
     "question": "医療や年金など、国民の生活を支える制度が崩壊 しつつ（　　　）ある ない",
     "question_ruby": "<ruby>医療<rt>いりょう</rt></ruby>や<ruby>年金<rt>ねんきん</rt></ruby>など、<ruby>国民<rt>こくみん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>る<ruby>制度<rt>せいど</rt></ruby>が<ruby>崩壊<rt>ほうかい</rt></ruby> しつつ（　　　）ある ない",
@@ -35667,8 +35666,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 656,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "気象",
     "question": "【きしょう】庁は自然現象の観測をする。",
     "question_ruby": "【きしょう】<ruby>庁<rt>ちょう</rt></ruby>は<ruby>自然現象<rt>しぜんげんしょう</rt></ruby>の<ruby>観測<rt>かんそく</rt></ruby>をする。",
@@ -35732,8 +35731,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 657,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いったん",
     "question": "今年になって きびしくなった。（　　　）物価が上がり、生活がより",
     "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>になって きびしくなった。（　　　）<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がり、<ruby>生活<rt>せいかつ</rt></ruby>がより",
@@ -35797,8 +35796,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 658,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "一方だ",
     "question": "地球温暖化は進む（　　　）。",
     "question_ruby": "<ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby>は<ruby>進む<rt>すすむ</rt></ruby>（　　　）。",
@@ -35862,11 +35861,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 659,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "法律",
     "question": "【法律】の文章は複雑で、一般の人にはわかりにくい。",
-    "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【法律】</span><rt class=\"target-reading-spoiler\">ほうりつ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>一般の<rt>いっぱんの</rt></ruby><ruby>人<rt>にん</rt></ruby>にはわかりにくい。",
+    "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【法律】</span><rt class=\"target-reading-spoiler\">ほうりつ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>一般の<rt>いっぱんの</rt></ruby><ruby>人<rt>ひと</rt></ruby>にはわかりにくい。",
     "choices": [
       "ほりつ",
       "ほうりち",
@@ -35927,8 +35926,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 660,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "タイミング",
     "question": "春へのお見舞いに行ったが、（　　　）が悪く、由で病害にいなかった。",
     "question_ruby": "<ruby>春<rt>はる</rt></ruby>へのお<ruby>見舞い<rt>みまい</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>が、（　　　）が<ruby>悪く<rt>わるく</rt></ruby>、<ruby>由<rt>ゆ</rt></ruby>で<ruby>病害<rt>びょうがい</rt></ruby>にいなかった。",
@@ -35969,8 +35968,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 661,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "からには",
     "question": "消費者の立場 いいに決まっている。（　　　）からには 、価格は安ければ安いほど",
     "question_ruby": "<ruby>消費者<rt>しょうひしゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby> いいに<ruby>決ま<rt>きま</rt></ruby>っている。（　　　）からには 、<ruby>価格<rt>かかく</rt></ruby>は<ruby>安け<rt>やすけ</rt></ruby>れば<ruby>安い<rt>やすい</rt></ruby>ほど",
@@ -36011,8 +36010,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 662,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "封筒",
     "question": "申込書は例を参考に記入し、【封筒】に入れて担当者に渡して下さい。",
     "question_ruby": "<ruby>申込書<rt>もうしこみしょ</rt></ruby>は<ruby>例<rt>れい</rt></ruby>を<ruby>参考<rt>さんこう</rt></ruby>に<ruby>記入<rt>きにゅう</rt></ruby>し、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【封筒】</span><rt class=\"target-reading-spoiler\">ふうとう</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>て<ruby>担当者<rt>たんとうしゃ</rt></ruby>に<ruby>渡し<rt>わたし</rt></ruby>て<ruby>下さい<rt>ください</rt></ruby>。",
@@ -36076,8 +36075,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 663,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "至急",
     "question": "田忠さんに（　　　）この書類を届けてください。",
     "question_ruby": "<ruby>田<rt>た</rt></ruby><ruby>忠<rt>ただし</rt></ruby>さんに（　　　）この<ruby>書類<rt>しょるい</rt></ruby>を<ruby>届け<rt>とどけ</rt></ruby>てください。",
@@ -36141,8 +36140,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 664,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "からすると",
     "question": "この値段（　　　）、本物の手席ではないだろう。",
     "question_ruby": "この<ruby>値段<rt>ねだん</rt></ruby>（　　　）、<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>手<rt>て</rt></ruby><ruby>席<rt>せき</rt></ruby>ではないだろう。",
@@ -36183,8 +36182,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 665,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "曇り",
     "question": "空が【くもり】、波も高くなってきた。",
     "question_ruby": "<ruby>空<rt>そら</rt></ruby>が【くもり】、<ruby>波<rt>なみ</rt></ruby>も<ruby>高く<rt>たかく</rt></ruby>なってきた。",
@@ -36237,8 +36236,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 666,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "しはらい",
     "question": "家賃の については、直接大家さんに持って いくように言われている。（　　　）ふりこみ",
     "question_ruby": "<ruby>家賃<rt>やちん</rt></ruby>の については、<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>大家<rt>おおや</rt></ruby>さんに<ruby>持っ<rt>もっ</rt></ruby>て いくように<ruby>言わ<rt>いわ</rt></ruby>れている。（　　　）ふりこみ",
@@ -36302,8 +36301,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 667,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "がちだ",
     "question": "最浜、外食が多くて栄養が偏り（　　　）。",
     "question_ruby": "<ruby>最<rt>さい</rt></ruby><ruby>浜<rt>はま</rt></ruby>、<ruby>外食<rt>がいしょく</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<ruby>栄養<rt>えいよう</rt></ruby>が<ruby>偏り<rt>かたより</rt></ruby>（　　　）。",
@@ -36344,8 +36343,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 668,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "戸",
     "question": "A「裏口の【戸】を閉め忘れたから、閉めといて。」 B「了解。」",
     "question_ruby": "A「<ruby>裏口<rt>うらぐち</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【戸】</span><rt class=\"target-reading-spoiler\">と</rt></ruby>を<ruby>閉め<rt>しめ</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>たから、<ruby>閉め<rt>しめ</rt></ruby>といて。」 B「<ruby>了解<rt>りょうかい</rt></ruby>。」",
@@ -36393,8 +36392,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 669,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "引退して",
     "question": "彼はオリンピックが終わった後、選手を（　　　）コーチになった。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はオリンピックが<ruby>終わ<rt>おわ</rt></ruby>った<ruby>後<rt>のち</rt></ruby>、<ruby>選手<rt>せんしゅ</rt></ruby>を（　　　）コーチになった。",
@@ -36458,8 +36457,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 670,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "日本へ来て",
     "question": "（　　　）以来、黒へ帰っていない。",
     "question_ruby": "（　　　）<ruby>以来<rt>いらい</rt></ruby>、<ruby>黒<rt>くろ</rt></ruby>へ<ruby>帰っ<rt>かえっ</rt></ruby>ていない。",
@@ -36529,8 +36528,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 671,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "訓練",
     "question": "私は職業【くんれん】の指導員として、農業を教えています。 訓練運練",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>職業<rt>しょくぎょう</rt></ruby>【くんれん】の<ruby>指導員<rt>しどういん</rt></ruby>として、<ruby>農業<rt>のうぎょう</rt></ruby>を<ruby>教え<rt>おしえ</rt></ruby>ています。 <ruby>訓練<rt>くんれん</rt></ruby><ruby>運<rt>うん</rt></ruby><ruby>練<rt>れん</rt></ruby>",
@@ -36594,8 +36593,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 672,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "くどい",
     "question": "タバコをやめろと（　　　）ほど注意しているのに、鳥子はまだやめない。",
     "question_ruby": "タバコをやめろと（　　　）ほど<ruby>注意<rt>ちゅうい</rt></ruby>しているのに、<ruby>鳥子<rt>とりこ</rt></ruby>はまだやめない。",
@@ -36648,8 +36647,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 673,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "しあおう",
     "question": "大いに議論（　　　）ではないか。",
     "question_ruby": "<ruby>大い<rt>おおい</rt></ruby>に<ruby>議論<rt>ぎろん</rt></ruby>（　　　）ではないか。",
@@ -36690,8 +36689,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 674,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "食欲",
     "question": "【食欲】はないが、疲れたから、ちょっと喫茶店で休もう。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【食欲】</span><rt class=\"target-reading-spoiler\">しょくよく</rt></ruby>はないが、<ruby>疲れ<rt>つかれ</rt></ruby>たから、ちょっと<ruby>喫茶店<rt>きっさてん</rt></ruby>で<ruby>休も<rt>やすも</rt></ruby>う。",
@@ -36755,8 +36754,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 675,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "重要",
     "question": "この研修所では、試験の成績より授業に出席する ことのほうが _だとされる。（　　　）重要 重体",
     "question_ruby": "この<ruby>研修所<rt>けんしゅうじょ</rt></ruby>では、<ruby>試験<rt>しけん</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>より<ruby>授業<rt>じゅぎょう</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>する ことのほうが _だとされる。（　　　）<ruby>重要<rt>じゅうよう</rt></ruby> <ruby>重体<rt>じゅうたい</rt></ruby>",
@@ -36820,8 +36819,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 676,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "次第だ",
     "question": "明日の行事が行われるかどうかは、天気（　　　）。",
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>が<ruby>行わ<rt>おこなわ</rt></ruby>れるかどうかは、<ruby>天気<rt>てんき</rt></ruby>（　　　）。",
@@ -36885,8 +36884,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 677,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "敬え",
     "question": "上司を【敬え】。",
     "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【敬え】</span><rt class=\"target-reading-spoiler\">うやまう</rt></ruby>。",
@@ -36934,8 +36933,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 678,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ばったり",
     "question": "会社に行く塗由で、本学時代のみと（　　　）出会った。",
     "question_ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby><ruby>塗<rt>ぬり</rt></ruby><ruby>由<rt>ゆ</rt></ruby>で、<ruby>本学<rt>ほんがく</rt></ruby><ruby>時代<rt>じだい</rt></ruby>のみと（　　　）<ruby>出会っ<rt>であっ</rt></ruby>た。",
@@ -36976,8 +36975,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 679,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "豊かな",
     "question": "理由さんは経験が（　　　）上に、知識も深い。",
     "question_ruby": "<ruby>理由<rt>りゆう</rt></ruby>さんは<ruby>経験<rt>けいけん</rt></ruby>が（　　　）<ruby>上<rt>うえ</rt></ruby>に、<ruby>知識<rt>ちしき</rt></ruby>も<ruby>深い<rt>ふかい</rt></ruby>。",
@@ -37025,8 +37024,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 680,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "命",
     "question": "【いのち】の大切さを学ぶ。",
     "question_ruby": "【いのち】の<ruby>大切<rt>たいせつ</rt></ruby>さを<ruby>学ぶ<rt>まなぶ</rt></ruby>。",
@@ -37074,10 +37073,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 681,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "はでに",
-    "question": "給料は上がったけれど、なかなか生活は なりません。（　　　）はでに N",
+    "question": "昇給したとはいえ物価の上昇が激しく、家計のやりくりはなかなか（　　　）なりません。",
     "question_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>上<rt>あ</rt></ruby>がったけれど、なかなか<ruby>生活<rt>せいかつ</rt></ruby>は なりません。（　　　）はでに N",
     "choices": [
       "はでに",
@@ -37091,8 +37090,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "らくに",
       "ゆっくり"
     ],
-    "answer": 0,
-    "correct_text": "はでに",
+    "answer": 2,
+    "correct_text": "らくに",
     "meaning_en": "Although my pay has gone up, I am still having trouble making ends meet.",
     "explanation": "",
     "kanji_info": [],
@@ -37116,8 +37115,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 682,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "とともに",
     "question": "構電話の普及（　　　）、利用者のマナーが問題となってきている。",
     "question_ruby": "<ruby>構<rt>こう</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>の<ruby>普及<rt>ふきゅう</rt></ruby>（　　　）、<ruby>利用者<rt>りようしゃ</rt></ruby>のマナーが<ruby>問題<rt>もんだい</rt></ruby>となってきている。",
@@ -37165,8 +37164,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 683,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "貿易",
     "question": "【貿易】の専門学校に行きたいと言うと、両親は賛成してくれた。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【貿易】</span><rt class=\"target-reading-spoiler\">ぼうえき</rt></ruby>の<ruby>専門学校<rt>せんもんがっこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいと<ruby>言う<rt>いう</rt></ruby>と、<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>賛成<rt>さんせい</rt></ruby>してくれた。",
@@ -37220,8 +37219,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 684,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "要領が悪い",
     "question": "私は（　　　）から、何をするにも時間がかかる。",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は（　　　）から、<ruby>何<rt>なに</rt></ruby>をするにも<ruby>時間<rt>じかん</rt></ruby>がかかる。",
@@ -37291,8 +37290,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 685,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "おそれ",
     "question": "このタイプの電池は、発火の 回収にご協力ください。（　　　）があります。",
     "question_ruby": "このタイプの<ruby>電池<rt>でんち</rt></ruby>は、<ruby>発火<rt>はっか</rt></ruby>の <ruby>回収<rt>かいしゅう</rt></ruby>にご<ruby>協力<rt>きょうりょく</rt></ruby>ください。（　　　）があります。",
@@ -37340,8 +37339,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 686,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "面倒",
     "question": "庭の木を切るのはいいが、切った枝を片付けるのが【めんどう】だ。",
     "question_ruby": "<ruby>庭<rt>にわ</rt></ruby>の<ruby>木<rt>き</rt></ruby>を<ruby>切る<rt>きる</rt></ruby>のはいいが、<ruby>切っ<rt>きっ</rt></ruby>た<ruby>枝<rt>えだ</rt></ruby>を<ruby>片付け<rt>かたづけ</rt></ruby>るのが【めんどう】だ。",
@@ -37405,8 +37404,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 687,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いままで",
     "question": "大雨が続いて、川が、（　　　）あふれそうだ。",
     "question_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>て、<ruby>川<rt>かわ</rt></ruby>が、（　　　）あふれそうだ。",
@@ -37454,8 +37453,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 688,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "思い",
     "question": "いけないと（　　　）つつ、ついしゃべってしまった。",
     "question_ruby": "いけないと（　　　）つつ、ついしゃべってしまった。",
@@ -37503,8 +37502,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 689,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "壁",
     "question": "家具が倒れないように専用の器具を【壁】に突き刺して固定する。",
     "question_ruby": "<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒れ<rt>たおれ</rt></ruby>ないように<ruby>専用<rt>せんよう</rt></ruby>の<ruby>器具<rt>きぐ</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【壁】</span><rt class=\"target-reading-spoiler\">かべ</rt></ruby>に<ruby>突き<rt>つき</rt></ruby><ruby>刺し<rt>さし</rt></ruby>て<ruby>固定<rt>こてい</rt></ruby>する。",
@@ -37552,8 +37551,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 690,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "目を通し",
     "question": "私は、朝起きて、番に新聞に（　　　）、それから出かける支度をする。",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は、<ruby>朝起き<rt>あさおき</rt></ruby>て、<ruby>番<rt>ばん</rt></ruby>に<ruby>新聞<rt>しんぶん</rt></ruby>に（　　　）、それから<ruby>出<rt>で</rt></ruby>かける<ruby>支度<rt>したく</rt></ruby>をする。",
@@ -37617,8 +37616,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 691,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "というものではない",
     "question": "謝れば済む（　　　）。",
     "question_ruby": "<ruby>謝れ<rt>あやまれ</rt></ruby>ば<ruby>済む<rt>すむ</rt></ruby>（　　　）。",
@@ -37659,8 +37658,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 692,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "含まれておりません",
     "question": "この食品には小麦粉は【含まれておりません】。",
     "question_ruby": "この<ruby>食品<rt>しょくひん</rt></ruby>には<ruby>小麦粉<rt>こむぎこ</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【含まれておりません】</span><rt class=\"target-reading-spoiler\">ふくまれて</rt></ruby>。",
@@ -37708,8 +37707,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 693,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "くれぐれも",
     "question": "その書類には、はんこが必要です。 忘れないように。（　　　）くれぐれも",
     "question_ruby": "その<ruby>書類<rt>しょるい</rt></ruby>には、はんこが<ruby>必要<rt>ひつよう</rt></ruby>です。 <ruby>忘れ<rt>わすれ</rt></ruby>ないように。（　　　）くれぐれも",
@@ -37762,8 +37761,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 694,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "教育上",
     "question": "この漫画の内容は、（　　　）よくない。",
     "question_ruby": "この<ruby>漫画<rt>まんが</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>は、（　　　）よくない。",
@@ -37833,8 +37832,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 695,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "清書",
     "question": "これに「日本語の諸問題」という題をつけ、 【せいしょ】して印刷する。",
     "question_ruby": "これに「<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>諸問題<rt>しょもんだい</rt></ruby>」という<ruby>題<rt>だい</rt></ruby>をつけ、 【せいしょ】して<ruby>印刷<rt>いんさつ</rt></ruby>する。",
@@ -37898,8 +37897,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 696,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "食欲",
     "question": "日本でも しれない。（　　　）食ン 食費 が不足するという時代が来るかも",
     "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でも しれない。（　　　）<ruby>食<rt>しょく</rt></ruby>ン <ruby>食費<rt>しょくひ</rt></ruby> が<ruby>不足<rt>ふそく</rt></ruby>するという<ruby>時代<rt>じだい</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>かも",
@@ -37963,8 +37962,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 697,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "次第です",
     "question": "このたび、閉することとなり、これまでのお礼とご挨拶に参った（　　　）。",
     "question_ruby": "このたび、<ruby>閉す<rt>とざす</rt></ruby>ることとなり、これまでのお<ruby>礼<rt>れい</rt></ruby>とご<ruby>挨拶<rt>あいさつ</rt></ruby>に<ruby>参っ<rt>まいっ</rt></ruby>た（　　　）。",
@@ -38028,8 +38027,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 698,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "群がる",
     "question": "彼は、【群がる】記者たちに対して、「私はそれについて肯定も否定もしない。」とコメントした。 ぶらさがる",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【群がる】</span><rt class=\"target-reading-spoiler\">むらがる</rt></ruby><ruby>記者<rt>きしゃ</rt></ruby>たちに<ruby>対し<rt>たいし</rt></ruby>て、「<ruby>私<rt>わたし</rt></ruby>はそれについて<ruby>肯定<rt>こうてい</rt></ruby>も<ruby>否定<rt>ひてい</rt></ruby>もしない。」とコメントした。 ぶらさがる",
@@ -38077,8 +38076,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 699,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "なんとなく",
     "question": "一生懸命走ったので、一（　　　）なんでも なんとか なんとなく 電車に間に合った。",
     "question_ruby": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>たので、<ruby>一<rt>いち</rt></ruby>（　　　）なんでも なんとか なんとなく <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。",
@@ -38126,8 +38125,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 700,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "した上で",
     "question": "家族と相談（　　　）、お返事いたします。",
     "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>（　　　）、お<ruby>返事<rt>へんじ</rt></ruby>いたします。",
@@ -38175,8 +38174,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 701,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "辺り",
     "question": "この【あたり】は高層マンションが多い。",
     "question_ruby": "この【あたり】は<ruby>高層<rt>こうそう</rt></ruby>マンションが<ruby>多い<rt>おおい</rt></ruby>。",
@@ -38224,8 +38223,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 702,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "目印",
     "question": "私の家のまわりには、一 になるような建物が 何もないので、見つけにくいかもしれません。（　　　）目印 合図",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>のまわりには、<ruby>一<rt>いち</rt></ruby> になるような<ruby>建物<rt>たてもの</rt></ruby>が <ruby>何<rt>なに</rt></ruby>もないので、<ruby>見つ<rt>みつ</rt></ruby>けにくいかもしれません。（　　　）<ruby>目印<rt>めじるし</rt></ruby> <ruby>合図<rt>あいず</rt></ruby>",
@@ -38289,10 +38288,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 703,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "来るのではあるまいか",
-    "question": "小さい地震が続いている。大地震が（　　　）",
+    "question": "ここ最近、小さな群発地震が連続して起きている。近い将来、大地震が（　　　）。",
     "question_ruby": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。<ruby>大地震<rt>だいじしん</rt></ruby>が（　　　）",
     "choices": [
       "来るに決まらない",
@@ -38338,8 +38337,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 704,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "刻んで",
     "question": "ゆで卵を【刻んで】マヨネーズで混ぜたものや、 ハムなどをパンに挟んで、お召し上がりください。 きざんで",
     "question_ruby": "ゆで<ruby>卵<rt>たまご</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【刻んで】</span><rt class=\"target-reading-spoiler\">きざんで</rt></ruby>マヨネーズで<ruby>混ぜ<rt>まぜ</rt></ruby>たものや、 ハムなどをパンに<ruby>挟ん<rt>はさん</rt></ruby>で、お<ruby>召し<rt>めし</rt></ruby><ruby>上<rt>あ</rt></ruby>がりください。 きざんで",
@@ -38387,8 +38386,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 705,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "切れて",
     "question": "太量にコピーしたので、紙が（　　　）しまった。",
     "question_ruby": "<ruby>太<rt>た</rt></ruby><ruby>量<rt>りょう</rt></ruby>にコピーしたので、<ruby>紙<rt>かみ</rt></ruby>が（　　　）しまった。",
@@ -38436,8 +38435,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 706,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 3 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "降ろうが降るまいが",
     "question": "震が（　　　）、行かなければならない。",
     "question_ruby": "<ruby>震<rt>しん</rt></ruby>が（　　　）、<ruby>行<rt>い</rt></ruby>かなければならない。",
@@ -38495,8 +38494,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 707,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "抱え",
     "question": "劇場には【抱え】きれないほどの花束や贈り物が届いていた。",
     "question_ruby": "<ruby>劇場<rt>げきじょう</rt></ruby>には<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【抱え】</span><rt class=\"target-reading-spoiler\">かかえ</rt></ruby>きれないほどの<ruby>花束<rt>はなたば</rt></ruby>や<ruby>贈り物<rt>おくりもの</rt></ruby>が<ruby>届い<rt>とどい</rt></ruby>ていた。",
@@ -38544,8 +38543,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 708,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "年間",
     "question": "これは、 です。（　　　）年度 のガソリン消費量を表したグラフ",
     "question_ruby": "これは、 です。（　　　）<ruby>年度<rt>ねんど</rt></ruby> のガソリン<ruby>消費量<rt>しょうひりょう</rt></ruby>を<ruby>表し<rt>あらわし</rt></ruby>たグラフ",
@@ -38609,8 +38608,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 709,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のところ",
     "question": "お食事中（　　　）、お邪魔してすみません。",
     "question_ruby": "お<ruby>食事中<rt>しょくじちゅう</rt></ruby>（　　　）、お<ruby>邪魔<rt>じゃま</rt></ruby>してすみません。",
@@ -38651,8 +38650,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 710,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "天才",
     "question": "この映画はノーベル賞を受賞した【てんさい】数学者の栄光と苦しみの物語である。 点才",
     "question_ruby": "この<ruby>映画<rt>えいが</rt></ruby>はノーベル<ruby>賞<rt>しょう</rt></ruby>を<ruby>受賞<rt>じゅしょう</rt></ruby>した【てんさい】<ruby>数学者<rt>すうがくしゃ</rt></ruby>の<ruby>栄光<rt>えいこう</rt></ruby>と<ruby>苦し<rt>くるし</rt></ruby>みの<ruby>物語<rt>ものがたり</rt></ruby>である。 <ruby>点<rt>てん</rt></ruby><ruby>才<rt>さい</rt></ruby>",
@@ -38716,8 +38715,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 711,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "マスコミ",
     "question": "その事件は、（　　　）できく取り上げられた。",
     "question_ruby": "その<ruby>事件<rt>じけん</rt></ruby>は、（　　　）できく<ruby>取り上げ<rt>とりあげ</rt></ruby>られた。",
@@ -38758,8 +38757,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 712,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にかかわらず",
     "question": "経験のあるなし（　　　）、パートタイマーを募集します。",
     "question_ruby": "<ruby>経験<rt>けいけん</rt></ruby>のあるなし（　　　）、パートタイマーを<ruby>募集<rt>ぼしゅう</rt></ruby>します。",
@@ -38800,8 +38799,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 713,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "暴れ",
     "question": "男は、酒を飲んで【暴れ】、仲間を殺すと叫んでいた。 あばれ",
     "question_ruby": "<ruby>男<rt>おとこ</rt></ruby>は、<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>で<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【暴れ】</span><rt class=\"target-reading-spoiler\">あばれ</rt></ruby>、<ruby>仲間<rt>なかま</rt></ruby>を<ruby>殺す<rt>ころす</rt></ruby>と<ruby>叫ん<rt>さけん</rt></ruby>でいた。 あばれ",
@@ -38849,8 +38848,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 714,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ふさわしい",
     "question": "彼は首想に（　　　）人物だ。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>首<rt>くび</rt></ruby><ruby>想<rt>そう</rt></ruby>に（　　　）<ruby>人物<rt>じんぶつ</rt></ruby>だ。",
@@ -38914,8 +38913,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 715,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "にかかわるものだ",
     "question": "大臣の発言は、党の用 上がった。（　　　）と批判の声が",
     "question_ruby": "<ruby>大臣<rt>だいじん</rt></ruby>の<ruby>発言<rt>はつげん</rt></ruby>は、<ruby>党<rt>とう</rt></ruby>の<ruby>用<rt>よう</rt></ruby> <ruby>上<rt>あ</rt></ruby>がった。（　　　）と<ruby>批判<rt>ひはん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が",
@@ -38956,8 +38955,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 716,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "地域",
     "question": "【ちいき】の行事に積極的に参加しましょう。",
     "question_ruby": "【ちいき】の<ruby>行事<rt>ぎょうじ</rt></ruby>に<ruby>積極的に<rt>せっきょくてきに</rt></ruby><ruby>参加<rt>さんか</rt></ruby>しましょう。",
@@ -39021,8 +39020,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 717,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ぼうっと",
     "question": "あ、また計算を間違えた。今日はなんだか頭が（　　　）するなあ。",
     "question_ruby": "あ、また<ruby>計算<rt>けいさん</rt></ruby>を<ruby>間違え<rt>まちがえ</rt></ruby>た。<ruby>今日<rt>きょう</rt></ruby>はなんだか<ruby>頭<rt>あたま</rt></ruby>が（　　　）するなあ。",
@@ -39063,8 +39062,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 718,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "集まるまい",
     "question": "委気が悪いので、は（　　　）と思いきや、会場は満員になった。",
     "question_ruby": "<ruby>委<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ので、は（　　　）と<ruby>思い<rt>おもい</rt></ruby>きや、<ruby>会場<rt>かいじょう</rt></ruby>は<ruby>満員<rt>まんいん</rt></ruby>になった。",
@@ -39112,8 +39111,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 719,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "硬水",
     "question": "水には軟水、【硬水】、炭酸水がある。",
     "question_ruby": "<ruby>水<rt>みず</rt></ruby>には<ruby>軟水<rt>なんすい</rt></ruby>、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【硬水】</span><rt class=\"target-reading-spoiler\">こうすい</rt></ruby>、<ruby>炭酸水<rt>たんさんすい</rt></ruby>がある。",
@@ -39177,8 +39176,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 720,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "にきび",
     "question": "子供の いきました。（　　　）が多いのが気になり、眼科に連れて",
     "question_ruby": "<ruby>子供<rt>こども</rt></ruby>の いきました。（　　　）が<ruby>多い<rt>おおい</rt></ruby>のが<ruby>気<rt>き</rt></ruby>になり、<ruby>眼科<rt>がんか</rt></ruby>に<ruby>連れ<rt>つれ</rt></ruby>て",
@@ -39237,8 +39236,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 721,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 1）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "のみならず",
     "question": "あの合は他会に厳しい（　　　）、自分にも厳しい。",
     "question_ruby": "あの<ruby>合は<rt>あは</rt></ruby><ruby>他<rt>ほか</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby>（　　　）、<ruby>自分<rt>じぶん</rt></ruby>にも<ruby>厳しい<rt>いかめしい</rt></ruby>。",
@@ -39279,8 +39278,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 722,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "湾",
     "question": "横浜【わん】で巨大魚が発見された。",
     "question_ruby": "<ruby>横浜<rt>よこはま</rt></ruby>【わん】で<ruby>巨大<rt>きょだい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>が<ruby>発見<rt>はっけん</rt></ruby>された。",
@@ -39328,8 +39327,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 723,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "かびて",
     "question": "萬のジャケットを押し入れにしまったままにしていたら、（　　　）しまった。",
     "question_ruby": "<ruby>萬<rt>まん</rt></ruby>のジャケットを<ruby>押し入れ<rt>おしいれ</rt></ruby>にしまったままにしていたら、（　　　）しまった。",
@@ -39370,8 +39369,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 724,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "向かい",
     "question": "このところ、熱のに（　　　）っぱなしで運動不展だ。",
     "question_ruby": "このところ、<ruby>熱<rt>ねつ</rt></ruby>のに（　　　）っぱなしで<ruby>運動<rt>うんどう</rt></ruby><ruby>不<rt>ふ</rt></ruby><ruby>展<rt>てん</rt></ruby>だ。",
@@ -39419,8 +39418,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 725,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "国境",
     "question": "平和という考えには、国と国を分ける【こっきょう】はない。",
     "question_ruby": "<ruby>平和<rt>へいわ</rt></ruby>という<ruby>考え<rt>かんがえ</rt></ruby>には、<ruby>国<rt>くに</rt></ruby>と<ruby>国<rt>くに</rt></ruby>を<ruby>分け<rt>わけ</rt></ruby>る【こっきょう】はない。",
@@ -39484,8 +39483,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 726,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "おでこ",
     "question": "（　　　）に貼り付けて熱を冷ますというシートがある。",
     "question_ruby": "（　　　）に<ruby>貼り付け<rt>はりつけ</rt></ruby>て<ruby>熱<rt>ねつ</rt></ruby>を<ruby>冷ま<rt>さま</rt></ruby>すというシートがある。",
@@ -39533,8 +39532,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 727,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "なり／なり",
     "question": "困ったときは、先生_ ほうがいい。（　　　）なり／なり 親 に相談した",
     "question_ruby": "<ruby>困っ<rt>こまっ</rt></ruby>たときは、<ruby>先生<rt>せんせい</rt></ruby>_ ほうがいい。（　　　）なり／なり <ruby>親<rt>おや</rt></ruby> に<ruby>相談<rt>そうだん</rt></ruby>した",
@@ -39575,8 +39574,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 728,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "鼻",
     "question": "君たちのような将来有望な若者がいて、私たち町民は【鼻】が高い。町の宝だ。 みみくび",
     "question_ruby": "<ruby>君<rt>くん</rt></ruby>たちのような<ruby>将来<rt>しょうらい</rt></ruby><ruby>有望<rt>ゆうぼう</rt></ruby>な<ruby>若者<rt>わかもの</rt></ruby>がいて、<ruby>私たち<rt>わたしたち</rt></ruby><ruby>町民<rt>ちょうみん</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【鼻】</span><rt class=\"target-reading-spoiler\">はな</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>。<ruby>町<rt>まち</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>だ。 みみくび",
@@ -39624,8 +39623,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 729,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もどす",
     "question": "傷口が きずぐち（　　　）もどす まとまる ふさがる まで、少し時間がかかりますよ。",
     "question_ruby": "<ruby>傷口<rt>きずぐち</rt></ruby>が きずぐち（　　　）もどす まとまる ふさがる まで、<ruby>少し<rt>すこし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>がかかりますよ。",
@@ -39673,8 +39672,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 730,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "会う",
     "question": "彼をは（　　　）なり私に文句を言い始めた。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>をは（　　　）なり<ruby>私<rt>わたし</rt></ruby>に<ruby>文句<rt>もんく</rt></ruby>を<ruby>言い<rt>いい</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
@@ -39722,8 +39721,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 731,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "略して",
     "question": "その政党の名前は長いので【りゃくして】呼んでいます。",
     "question_ruby": "その<ruby>政党<rt>せいとう</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は<ruby>長い<rt>ながい</rt></ruby>ので【りゃくして】<ruby>呼ん<rt>よん</rt></ruby>でいます。",
@@ -39771,8 +39770,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 732,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "あて",
     "question": "当施設 し せっ のメールは、このアドレスをお使い いただきますよう、お願いいたします。（　　　）ご い",
     "question_ruby": "<ruby>当<rt>とう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby> し せっ のメールは、このアドレスをお<ruby>使い<rt>つかい</rt></ruby> いただきますよう、お<ruby>願い<rt>ねがい</rt></ruby>いたします。（　　　）ご い",
@@ -39820,10 +39819,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 733,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "かぎり",
-    "question": "休暇を取って海外旅行ですか。うらやましい です。（　　　）",
+    "question": "長期休暇を取得して北欧へオーロラを見に行けるなんて、実にうらやましい（　　　）です。",
     "question_ruby": "<ruby>休暇<rt>きゅうか</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>ですか。うらやましい です。（　　　）",
     "choices": [
       "わけ",
@@ -39869,8 +39868,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 734,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "喜んで",
     "question": "招待状ありがとう。【喜んで】伺います。服装についてお聞きしたいんですが…・。",
     "question_ruby": "<ruby>招待状<rt>しょうたいじょう</rt></ruby>ありがとう。<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【喜んで】</span><rt class=\"target-reading-spoiler\">よろこんで</rt></ruby><ruby>伺い<rt>うかがい</rt></ruby>ます。<ruby>服装<rt>ふくそう</rt></ruby>についてお<ruby>聞き<rt>きき</rt></ruby>したいんですが…・。",
@@ -39918,8 +39917,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 735,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ずれて",
     "question": "この照買ったサングラスが、鼻の形に合わないのか、（　　　）困る。",
     "question_ruby": "この<ruby>照<rt>しょう</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たサングラスが、<ruby>鼻<rt>はな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>ないのか、（　　　）<ruby>困る<rt>こまる</rt></ruby>。",
@@ -39960,8 +39959,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 736,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 2）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "かぎり",
     "question": "短い生涯だったが、その詩人は命の。（　　　）かぎり 生きた。",
     "question_ruby": "<ruby>短い<rt>みじかい</rt></ruby><ruby>生涯<rt>しょうがい</rt></ruby>だったが、その<ruby>詩人<rt>しじん</rt></ruby>は<ruby>命<rt>いのち</rt></ruby>の。（　　　）かぎり <ruby>生き<rt>いき</rt></ruby>た。",
@@ -40009,8 +40008,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 737,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "権利",
     "question": "第 4週教育を受ける【権利】は国民が国に対して持つ基本的人権の一つです。",
     "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【権利】</span><rt class=\"target-reading-spoiler\">けんり</rt></ruby>は<ruby>国民<rt>こくみん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て<ruby>持つ<rt>もつ</rt></ruby><ruby>基本的人権<rt>きほんてきじんけん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。",
@@ -40074,8 +40073,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 738,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "いっそ",
     "question": "絶対に使わないものなら、（　　　）捨ててしまったほうがいいと思う。",
     "question_ruby": "<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>ないものなら、（　　　）<ruby>捨て<rt>すて</rt></ruby>てしまったほうがいいと<ruby>思う<rt>おもう</rt></ruby>。",
@@ -40116,8 +40115,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 739,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "であって",
     "question": "健康（　　　）こそ、仕事も勉強も運動もすることができるのだ。",
     "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>（　　　）こそ、<ruby>仕事<rt>しごと</rt></ruby>も<ruby>勉強<rt>べんきょう</rt></ruby>も<ruby>運動<rt>うんどう</rt></ruby>もすることができるのだ。",
@@ -40158,8 +40157,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 740,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "一粒",
     "question": "第 4週この薬を【ひとつぶ】飲んだら腹痛が治まった。",
     "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>この<ruby>薬<rt>くすり</rt></ruby>を【ひとつぶ】<ruby>飲ん<rt>のん</rt></ruby>だら<ruby>腹痛<rt>ふくつう</rt></ruby>が<ruby>治ま<rt>おさま</rt></ruby>った。",
@@ -40223,8 +40222,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 741,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "入れれば",
     "question": "この家は築50無だが、尖し手を（　　　）まだまだ住める。",
     "question_ruby": "この<ruby>家<rt>いえ</rt></ruby>は<ruby>築<rt>ちく</rt></ruby>50<ruby>無<rt>む</rt></ruby>だが、<ruby>尖<rt>せん</rt></ruby>し<ruby>手<rt>て</rt></ruby>を（　　　）まだまだ<ruby>住め<rt>すめ</rt></ruby>る。",
@@ -40272,8 +40271,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 742,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "お越しの折には",
     "question": "專家に（　　　）、ぜひお辛ち寄りください。",
     "question_ruby": "<ruby>專<rt>せん</rt></ruby><ruby>家<rt>いえ</rt></ruby>に（　　　）、ぜひお<ruby>辛<rt>しん</rt></ruby>ち<ruby>寄り<rt>より</rt></ruby>ください。",
@@ -40337,8 +40336,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 743,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "損",
     "question": "評判を信じて買った商品が期待外れで、【損】をした。",
     "question_ruby": "<ruby>評判<rt>ひょうばん</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>て<ruby>買っ<rt>かっ</rt></ruby>た<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>期待外<rt>きたいがい</rt></ruby>れで、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【損】</span><rt class=\"target-reading-spoiler\">そん</rt></ruby>をした。",
@@ -40386,8 +40385,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 744,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "うっとうしい",
     "question": "このところ、雨が降ったりやんだりと、（　　　）気が纏いている。",
     "question_ruby": "このところ、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たりやんだりと、（　　　）<ruby>気<rt>き</rt></ruby>が<ruby>纏<rt>まとい</rt></ruby>いている。",
@@ -40451,10 +40450,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 745,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "並んだかいがあった",
-    "question": "A「このラーメン、おいしいね。」 B「うん、1時間も ね。」（　　　）",
+    "question": "A「このラーメン、スープに深いコクがあって本当においしいね。」 B「うん、行列に1時間も（　　　）ね。」",
     "question_ruby": "A「このラーメン、おいしいね。」 B「うん、1<ruby>時間<rt>じかん</rt></ruby>も ね。」（　　　）",
     "choices": [
       "並んだかいがあった",
@@ -40500,8 +40499,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 746,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "枯れて",
     "question": "第 4週この植物は、あまり太陽に当てると【かれて】しまう。",
     "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>この<ruby>植物<rt>しょくぶつ</rt></ruby>は、あまり<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>当て<rt>あて</rt></ruby>ると【かれて】しまう。",
@@ -40549,8 +40548,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 747,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ひび",
     "question": "A「足、どうしたの？ B「いや、少し …。」（　　　）ひだ 骨折？」 が入っただけなんだけど",
     "question_ruby": "A「<ruby>足<rt>あし</rt></ruby>、どうしたの？ B「いや、<ruby>少し<rt>すこし</rt></ruby> …。」（　　　）ひだ <ruby>骨折<rt>こっせつ</rt></ruby>？」 が<ruby>入<rt>はい</rt></ruby>っただけなんだけど",
@@ -40598,8 +40597,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 748,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ぶり",
     "question": "あんなに不募面目だったのに、今の彼の働き（　　　）には誰もが驚いている。",
     "question_ruby": "あんなに<ruby>不<rt>ふ</rt></ruby><ruby>募<rt>ぼ</rt></ruby><ruby>面目<rt>めんぼく</rt></ruby>だったのに、<ruby>今<rt>いま</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>（　　　）には<ruby>誰<rt>だれ</rt></ruby>もが<ruby>驚い<rt>おどろい</rt></ruby>ている。",
@@ -40640,8 +40639,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 749,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "荒れた",
     "question": "この化粧水2、3滴で、【荒れた】肌がすべすべになります。",
     "question_ruby": "この<ruby>化粧水<rt>けしょうすい</rt></ruby>2、3<ruby>滴<rt>しずく</rt></ruby>で、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【荒れた】</span><rt class=\"target-reading-spoiler\">あれた</rt></ruby><ruby>肌<rt>はだ</rt></ruby>がすべすべになります。",
@@ -40689,8 +40688,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 750,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "まけて",
     "question": "お黒を8枚まとめて買ったら、1枚分（　　　）くれた。",
     "question_ruby": "お<ruby>黒<rt>くろ</rt></ruby>を8<ruby>枚<rt>まい</rt></ruby>まとめて<ruby>買っ<rt>かっ</rt></ruby>たら、1<ruby>枚<rt>まい</rt></ruby><ruby>分<rt>ふん</rt></ruby>（　　　）くれた。",
@@ -40731,8 +40730,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 751,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 3）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "私なりに",
     "question": "（　　　）鳥煮えた結果、黒に帰ることにしました。",
     "question_ruby": "（　　　）<ruby>鳥<rt>とり</rt></ruby><ruby>煮え<rt>にえ</rt></ruby>た<ruby>結果<rt>けっか</rt></ruby>、<ruby>黒<rt>くろ</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>ことにしました。",
@@ -40780,8 +40779,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 752,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "仏像",
     "question": "この塔も、中の【仏像】も、9世紀に完成したものらしい。",
     "question_ruby": "この<ruby>塔<rt>とう</rt></ruby>も、<ruby>中<rt>なか</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【仏像】</span><rt class=\"target-reading-spoiler\">ぶつぞう</rt></ruby>も、9<ruby>世紀<rt>せいき</rt></ruby>に<ruby>完成し<rt>かんせいし</rt></ruby>たものらしい。",
@@ -40845,8 +40844,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 753,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "入学金",
     "question": "いったん納入された_ のうにゅう ご了承ください。（　　　）入学料 は返還しませんので、",
     "question_ruby": "いったん<ruby>納入<rt>のうにゅう</rt></ruby>された_ のうにゅう ご<ruby>了承<rt>りょうしょう</rt></ruby>ください。（　　　）<ruby>入学料<rt>にゅうがくりょう</rt></ruby> は<ruby>返還<rt>へんかん</rt></ruby>しませんので、",
@@ -40916,8 +40915,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 754,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "思えばこそ",
     "question": "あなたのことを（　　　）、厳しく注意しているんですよ。",
     "question_ruby": "あなたのことを（　　　）、<ruby>厳しく<rt>いかめしく</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>しているんですよ。",
@@ -40965,8 +40964,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 755,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "講義",
     "question": "日程表によれば、午前中は【こうぎ】、午後はゼミです。 講議 。",
     "question_ruby": "<ruby>日程表<rt>にっていひょう</rt></ruby>によれば、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>は【こうぎ】、<ruby>午後<rt>ごご</rt></ruby>はゼミです。 <ruby>講議<rt>こうぎ</rt></ruby> 。",
@@ -41030,8 +41029,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 756,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "うぬぼれている",
     "question": "彼は美人だが、（　　　）ので嫌われている。",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>美人<rt>びじん</rt></ruby>だが、（　　　）ので<ruby>嫌わ<rt>きらわ</rt></ruby>れている。",
@@ -41072,8 +41071,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 757,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "くらいなら",
     "question": "そんなに喜いお金をかけて修理する（　　　）、新しいのに買い換えたほうがいい。",
     "question_ruby": "そんなに<ruby>喜<rt>き</rt></ruby>いお<ruby>金<rt>きん</rt></ruby>をかけて<ruby>修理<rt>しゅうり</rt></ruby>する（　　　）、<ruby>新しい<rt>あたらしい</rt></ruby>のに<ruby>買い換え<rt>かいかえ</rt></ruby>たほうがいい。",
@@ -41114,8 +41113,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 758,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "看板",
     "question": "中央改札口は込み合いますから、その少し横のほうでお名前を書いた【看板】を持って立っています。",
     "question_ruby": "<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>改札口<rt>かいさつぐち</rt></ruby>は<ruby>込み<rt>こみ</rt></ruby><ruby>合い<rt>あい</rt></ruby>ますから、その<ruby>少し<rt>すこし</rt></ruby><ruby>横<rt>よこ</rt></ruby>のほうでお<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書い<rt>かい</rt></ruby>た<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【看板】</span><rt class=\"target-reading-spoiler\">かんばん</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て<ruby>立っ<rt>たっ</rt></ruby>ています。",
@@ -41179,8 +41178,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 759,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もたらされた",
     "question": "電子レンジの普及によって、食生活にきい変化が（　　　）。",
     "question_ruby": "<ruby>電子レンジ<rt>でんしれんじ</rt></ruby>の<ruby>普及<rt>ふきゅう</rt></ruby>によって、<ruby>食生活<rt>しょくせいかつ</rt></ruby>にきい<ruby>変化<rt>へんか</rt></ruby>が（　　　）。",
@@ -41221,8 +41220,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 760,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ぐらいのものだ",
     "question": "私たちが買えるのは、このマンション（　　　）。",
     "question_ruby": "<ruby>私たち<rt>わたしたち</rt></ruby>が<ruby>買え<rt>かえ</rt></ruby>るのは、このマンション（　　　）。",
@@ -41263,8 +41262,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 761,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "湿度",
     "question": "このグラフは、気温の上昇により【しつど】が低下する過程を表したものです。",
     "question_ruby": "このグラフは、<ruby>気温<rt>きおん</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>により【しつど】が<ruby>低下<rt>ていか</rt></ruby>する<ruby>過程<rt>かてい</rt></ruby>を<ruby>表し<rt>あらわし</rt></ruby>たものです。",
@@ -41328,8 +41327,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 762,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "すそ",
     "question": "最浜の若煮は、ズボンの（　　　）がについていても気にしないようだ。",
     "question_ruby": "<ruby>最<rt>さい</rt></ruby><ruby>浜<rt>はま</rt></ruby>の<ruby>若<rt>じゃく</rt></ruby><ruby>煮<rt>に</rt></ruby>は、ズボンの（　　　）がについていても<ruby>気<rt>き</rt></ruby>にしないようだ。",
@@ -41377,8 +41376,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 763,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "というか/というか",
     "question": "彼の作品は面白い」 とても目立っていた。（　　　）変わっている",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>は<ruby>面白い<rt>おもしろい</rt></ruby>」 とても<ruby>目立っ<rt>めだっ</rt></ruby>ていた。（　　　）<ruby>変わ<rt>かわ</rt></ruby>っている",
@@ -41409,11 +41408,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 764,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "尊重",
     "question": "率直に言って、君はもっと人の意見を【尊重】し、柔軟に受け入れるべきだ。",
-    "question_ruby": "<ruby>率直<rt>そっちょく</rt></ruby>に<ruby>言って<rt>いって</rt></ruby>、<ruby>君<rt>くん</rt></ruby>はもっと<ruby>人<rt>にん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【尊重】</span><rt class=\"target-reading-spoiler\">そんちょう</rt></ruby>し、<ruby>柔軟に<rt>じゅうなんに</rt></ruby><ruby>受け入れ<rt>うけいれ</rt></ruby>るべきだ。",
+    "question_ruby": "<ruby>率直<rt>そっちょく</rt></ruby>に<ruby>言って<rt>いって</rt></ruby>、<ruby>君<rt>くん</rt></ruby>はもっと<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【尊重】</span><rt class=\"target-reading-spoiler\">そんちょう</rt></ruby>し、<ruby>柔軟に<rt>じゅうなんに</rt></ruby><ruby>受け入れ<rt>うけいれ</rt></ruby>るべきだ。",
     "choices": [
       "そんけい",
       "そんじゅう",
@@ -41474,8 +41473,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 765,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "すすいで",
     "question": "食器に洗剤が残らないように、ちゃんと（　　　）ください。",
     "question_ruby": "<ruby>食器<rt>しょっき</rt></ruby>に<ruby>洗剤<rt>せんざい</rt></ruby>が<ruby>残ら<rt>のこら</rt></ruby>ないように、ちゃんと（　　　）ください。",
@@ -41516,8 +41515,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 766,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 4）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "事実だとすれば",
     "question": "その話が（　　　）、彼が会社をクビになるのは当然だ。",
     "question_ruby": "その<ruby>話<rt>はなし</rt></ruby>が（　　　）、<ruby>彼<rt>かれ</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby>をクビになるのは<ruby>当然<rt>とうぜん</rt></ruby>だ。",
@@ -41581,8 +41580,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 767,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "舞台",
     "question": "【舞台】で踊るなんて、恥ずかしくてできない。 ぶたい",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【舞台】</span><rt class=\"target-reading-spoiler\">ぶたい</rt></ruby>で<ruby>踊る<rt>おどる</rt></ruby>なんて、<ruby>恥ずかしく<rt>はずかしく</rt></ruby>てできない。 ぶたい",
@@ -41646,10 +41645,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 768,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "かけば",
-    "question": "：度恥を（　　　）、同じ失敗はしなくなるだろう。",
+    "question": "誰でも一度手痛い恥を（　　　）ば、次は二度と同じような失敗をしなくなるだろう。",
     "question_ruby": "：<ruby>度<rt>ど</rt></ruby><ruby>恥<rt>はじ</rt></ruby>を（　　　）、<ruby>同じ<rt>おなじ</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>はしなくなるだろう。",
     "choices": [
       "つけば",
@@ -41688,8 +41687,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 769,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "間に合いそうもない",
     "question": "A「あと30分しかない。タクシーで行く？」 B「いやあ、タクシーで行っても、とても よ。」（　　　）間に合いかねる 間に合いがたい l 間に合うわけもない",
     "question_ruby": "A「あと30<ruby>分<rt>ふん</rt></ruby>しかない。タクシーで<ruby>行く<rt>いく</rt></ruby>？」 B「いやあ、タクシーで<ruby>行って<rt>いって</rt></ruby>も、とても よ。」（　　　）<ruby>間に合い<rt>まにあい</rt></ruby>かねる <ruby>間に合い<rt>まにあい</rt></ruby>がたい l <ruby>間に合う<rt>まにあう</rt></ruby>わけもない",
@@ -41753,8 +41752,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 770,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "双子",
     "question": "【ふたご】のどちらが兄または姉かは、生まれた順によって決められるのでしょうか。 。",
     "question_ruby": "【ふたご】のどちらが<ruby>兄<rt>あに</rt></ruby>または<ruby>姉<rt>あね</rt></ruby>かは、<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>順に<rt>じゅんに</rt></ruby>よって<ruby>決め<rt>きめ</rt></ruby>られるのでしょうか。 。",
@@ -41818,8 +41817,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 771,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "下取り",
     "question": "点い事を（　　　）に出して、新しい車を買った。",
     "question_ruby": "<ruby>点<rt>てん</rt></ruby>い<ruby>事<rt>こと</rt></ruby>を（　　　）に<ruby>出し<rt>だし</rt></ruby>て、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た。",
@@ -41883,8 +41882,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 772,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "せずに済み",
     "question": "書類はメールに添付してれるので、たいていの資料は悪（　　　）、助かっている。",
     "question_ruby": "<ruby>書類<rt>しょるい</rt></ruby>はメールに<ruby>添付<rt>てんぷ</rt></ruby>してれるので、たいていの<ruby>資料<rt>しりょう</rt></ruby>は<ruby>悪<rt>あく</rt></ruby>（　　　）、<ruby>助か<rt>たすか</rt></ruby>っている。",
@@ -41932,8 +41931,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 773,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "鋭い",
     "question": "彼の漫画は、【鋭い】政治批評で読者の共感を呼んだ。 にぶい",
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>は、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【鋭い】</span><rt class=\"target-reading-spoiler\">するどい</rt></ruby><ruby>政治<rt>せいじ</rt></ruby><ruby>批評<rt>ひひょう</rt></ruby>で<ruby>読者<rt>どくしゃ</rt></ruby>の<ruby>共感<rt>きょうかん</rt></ruby>を<ruby>呼ん<rt>よん</rt></ruby>だ。 にぶい",
@@ -41981,8 +41980,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 774,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "生きがい",
     "question": "仕事が私の（　　　）です。",
     "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の（　　　）です。",
@@ -42030,10 +42029,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 775,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ならないものだろうか",
-    "question": "頭痛がひどい。薬も効かない。何とか（　　　）",
+    "question": "朝から激しい偏頭痛が続いて市販の薬も効かない。何とか（　　　）ものだろうか。",
     "question_ruby": "<ruby>頭痛<rt>ずつう</rt></ruby>がひどい。<ruby>薬<rt>くすり</rt></ruby>も<ruby>効か<rt>きか</rt></ruby>ない。<ruby>何とか<rt>なんとか</rt></ruby>（　　　）",
     "choices": [
       "ならないことだろうか",
@@ -42067,11 +42066,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 776,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "鈍感",
     "question": "その博士はすばらしい頭脳を持っているが、人の気持ちに関しては【どんかん】だ。",
-    "question_ruby": "その<ruby>博士<rt>はかせ</rt></ruby>はすばらしい<ruby>頭脳<rt>ずのう</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ているが、<ruby>人<rt>にん</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>に<ruby>関し<rt>かんし</rt></ruby>ては【どんかん】だ。",
+    "question_ruby": "その<ruby>博士<rt>はかせ</rt></ruby>はすばらしい<ruby>頭脳<rt>ずのう</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ているが、<ruby>人<rt>ひと</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>に<ruby>関し<rt>かんし</rt></ruby>ては【どんかん】だ。",
     "choices": [
       "銅感",
       "憎感",
@@ -42132,11 +42131,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 777,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "けなして",
     "question": "人を（　　　）ばかりいないで、たまには良いところをほめたらどう？",
-    "question_ruby": "<ruby>人<rt>にん</rt></ruby>を（　　　）ばかりいないで、たまには<ruby>良い<rt>よい</rt></ruby>ところをほめたらどう？",
+    "question_ruby": "<ruby>人<rt>ひと</rt></ruby>を（　　　）ばかりいないで、たまには<ruby>良い<rt>よい</rt></ruby>ところをほめたらどう？",
     "choices": [
       "思いやって",
       "なぐさめて",
@@ -42174,8 +42173,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 778,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "だとされている",
     "question": "※素が起こった時に、水の確保が一番の問題（　　　）。",
     "question_ruby": "※<ruby>素<rt>もと</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に、<ruby>水<rt>みず</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>（　　　）。",
@@ -42216,11 +42215,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 779,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "賢い",
     "question": "単純な手続きミスで志望校を受験する機会を逃すなんて、【賢い】人のやることだろうか。",
-    "question_ruby": "<ruby>単純な<rt>たんじゅんな</rt></ruby><ruby>手続き<rt>てつづき</rt></ruby>ミスで<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>受験<rt>じゅけん</rt></ruby>する<ruby>機会<rt>きかい</rt></ruby>を<ruby>逃す<rt>のがす</rt></ruby>なんて、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【賢い】</span><rt class=\"target-reading-spoiler\">かしこい</rt></ruby><ruby>人<rt>にん</rt></ruby>のやることだろうか。",
+    "question_ruby": "<ruby>単純な<rt>たんじゅんな</rt></ruby><ruby>手続き<rt>てつづき</rt></ruby>ミスで<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>受験<rt>じゅけん</rt></ruby>する<ruby>機会<rt>きかい</rt></ruby>を<ruby>逃す<rt>のがす</rt></ruby>なんて、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【賢い】</span><rt class=\"target-reading-spoiler\">かしこい</rt></ruby><ruby>人<rt>ひと</rt></ruby>のやることだろうか。",
     "choices": [
       "かしこい",
       "あやうい",
@@ -42265,8 +42264,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 780,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ずらっと",
     "question": "サッカー選手が（　　　）並んでいる。",
     "question_ruby": "サッカー<ruby>選手<rt>せんしゅ</rt></ruby>が（　　　）<ruby>並ん<rt>ならん</rt></ruby>でいる。",
@@ -42307,8 +42306,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 781,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 5）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "思い出される",
     "question": "この歌を聴くと、広くなったのことが（　　　）。",
     "question_ruby": "この<ruby>歌を<rt>うたを</rt></ruby><ruby>聴く<rt>きく</rt></ruby>と、<ruby>広く<rt>ひろく</rt></ruby>なったのことが（　　　）。",
@@ -42372,8 +42371,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 782,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "編んで",
     "question": "母は居間で毛糸の帽子を【編んで】います。 くんで第 4週",
     "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>居間<rt>いま</rt></ruby>で<ruby>毛糸<rt>けいと</rt></ruby>の<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【編んで】</span><rt class=\"target-reading-spoiler\">あんで</rt></ruby>います。 くんで<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>",
@@ -42421,8 +42420,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 783,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "もめた",
     "question": "谷が亡くなったとき、財産の相袋で兄弟と（　　　）。",
     "question_ruby": "<ruby>谷<rt>たに</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったとき、<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>相<rt>そう</rt></ruby><ruby>袋<rt>ふくろ</rt></ruby>で<ruby>兄弟<rt>きょうだい</rt></ruby>と（　　　）。",
@@ -42463,8 +42462,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 784,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "悩まされている",
     "question": "どこの地域もゴミの分別に（　　　）ようだ。",
     "question_ruby": "どこの<ruby>地域<rt>ちいき</rt></ruby>もゴミの<ruby>分別<rt>ふんべつ</rt></ruby>に（　　　）ようだ。",
@@ -42512,8 +42511,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 785,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "偶然",
     "question": "店の拡張工事で、地面を掘ったら、【ぐうぜん】、 温泉が出てきたそうです。 必然",
     "question_ruby": "<ruby>店<rt>みせ</rt></ruby>の<ruby>拡張工事<rt>かくちょうこうじ</rt></ruby>で、<ruby>地面<rt>じめん</rt></ruby>を<ruby>掘っ<rt>ほっ</rt></ruby>たら、【ぐうぜん】、 <ruby>温泉<rt>おんせん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>きたそうです。 <ruby>必然<rt>ひつぜん</rt></ruby>",
@@ -42577,8 +42576,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 786,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ぎっしり",
     "question": "上司に怒鳴られる毎日に 辞めたい。（　　　）ぎっしり だ。会社を",
     "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>に<ruby>怒鳴ら<rt>どなら</rt></ruby>れる<ruby>毎日<rt>まいにち</rt></ruby>に <ruby>辞め<rt>やめ</rt></ruby>たい。（　　　）ぎっしり だ。<ruby>会社<rt>かいしゃ</rt></ruby>を",
@@ -42619,8 +42618,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 787,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "ところで",
     "question": "頭が痛かったので薬を飲んだ。 痛みがなくなった。（　　　）ところで 、すぐに",
     "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛か<rt>いたか</rt></ruby>ったので<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ。 <ruby>痛み<rt>いたみ</rt></ruby>がなくなった。（　　　）ところで 、すぐに",
@@ -42668,8 +42667,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 788,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "皮膚",
     "question": "内臓が悪いと【皮膚】に異常が現れるが、同様に、赤ん坊にマッサージをすると内臓の働きがよくなる。",
     "question_ruby": "<ruby>内臓<rt>ないぞう</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>と<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【皮膚】</span><rt class=\"target-reading-spoiler\">ひふ</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>が<ruby>現れ<rt>あらわれ</rt></ruby>るが、<ruby>同様<rt>どうよう</rt></ruby>に、<ruby>赤ん坊<rt>あかんぼう</rt></ruby>にマッサージをすると<ruby>内臓<rt>ないぞう</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>がよくなる。",
@@ -42733,8 +42732,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 789,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "事務職は、パソコンができないと",
     "question": "（　　　）話にならない。",
     "question_ruby": "（　　　）<ruby>話<rt>はなし</rt></ruby>にならない。",
@@ -42804,8 +42803,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 790,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "したがって",
     "question": "クラスの大半は中国出身です。 台湾からきました。（　　　）私は、",
     "question_ruby": "クラスの<ruby>大半<rt>たいはん</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>です。 <ruby>台湾<rt>たいわん</rt></ruby>からきました。（　　　）<ruby>私<rt>わたし</rt></ruby>は、",
@@ -42853,8 +42852,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 791,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "匹",
     "question": "第 4週伯父の家には犬が5【ひき】います。",
     "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby><ruby>伯父<rt>おじ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>には<ruby>犬<rt>いぬ</rt></ruby>が5【ひき】います。",
@@ -42897,8 +42896,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 792,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "手当て",
     "question": "お忙しいところ、お ありませんでした。（　　　）手当て をおかけして申し訳",
     "question_ruby": "お<ruby>忙しい<rt>いそがしい</rt></ruby>ところ、お ありませんでした。（　　　）<ruby>手当て<rt>てあて</rt></ruby> をおかけして<ruby>申し訳<rt>もうしわけ</rt></ruby>",
@@ -42962,8 +42961,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 793,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "そこで",
     "question": "来月、ニューヨークに出張するんだってね。 お願いがあるんだけど・・・。買ってきて ほしいものがあるんだ。（　　　）そういえば それはそうと",
     "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>、ニューヨークに<ruby>出張<rt>しゅっちょう</rt></ruby>するんだってね。 お<ruby>願い<rt>ねがい</rt></ruby>があるんだけど・・・。<ruby>買っ<rt>かっ</rt></ruby>てきて ほしいものがあるんだ。（　　　）そういえば それはそうと",
@@ -43027,8 +43026,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 794,
-    "source": "新にほんご500問 N2",
-    "category": "文字（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "良好",
     "question": "検査項目はすべて平均的な数値で、健康状態は【良好】です。 。",
     "question_ruby": "<ruby>検査項目<rt>けんさこうもく</rt></ruby>はすべて<ruby>平均的<rt>へいきんてき</rt></ruby>な<ruby>数値<rt>すうち</rt></ruby>で、<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【良好】</span><rt class=\"target-reading-spoiler\">りょうこう</rt></ruby>です。 。",
@@ -43092,8 +43091,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 795,
-    "source": "新にほんご500問 N2",
-    "category": "語彙（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "取り入れた",
     "question": "新しくエネシステムを（　　　）ことにより、熱費が幅に削減できた。",
     "question_ruby": "<ruby>新しく<rt>あたらしく</rt></ruby>エネシステムを（　　　）ことにより、<ruby>熱<rt>ねつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>が<ruby>幅<rt>はば</rt></ruby>に<ruby>削減<rt>さくげん</rt></ruby>できた。",
@@ -43157,8 +43156,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 796,
-    "source": "新にほんご500問 N2",
-    "category": "文法（Week 4 Day 6）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文法形式の判断",
     "target_word": "さて",
     "question": "来週の日曜日に避難訓練を行います。 雨天の場合は中止です。（　　　）さて",
     "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>避難訓練<rt>ひなんくんれん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。 <ruby>雨天<rt>うてん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>です。（　　　）さて",
@@ -43206,8 +43205,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 797,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "島",
     "question": "夏休みに瀬戸内海の美しい（　　　）へ旅行に行きました。",
     "question_ruby": "<ruby>夏休み<rt>なつやすみ</rt></ruby>に<ruby>瀬戸内海<rt>せとないかい</rt></ruby>の<ruby>美しい<rt>うつくしい</rt></ruby>（　　　）へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました。",
@@ -43255,8 +43254,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 798,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "膝",
     "question": "長時間のウォーキングで少し【膝】が痛くなりました。",
     "question_ruby": "<ruby>長時間<rt>ちょうじかん</rt></ruby>のウォーキングで<ruby>少し<rt>すこし</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【膝】</span><rt class=\"target-reading-spoiler\">ひざ</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なりました。",
@@ -43309,8 +43308,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 799,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "裏",
     "question": "この書類の【うら】にアンケートがありますのでご記入ください。",
     "question_ruby": "この<ruby>書類<rt>しょるい</rt></ruby>の【うら】にアンケートがありますのでご<ruby>記入<rt>きにゅう</rt></ruby>ください。",
@@ -43358,8 +43357,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 800,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "城",
     "question": "歴史ある日本の（　　　）を見学しに行きませんか。",
     "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>日本<rt>にっぽん</rt></ruby>の（　　　）を<ruby>見学<rt>けんがく</rt></ruby>しに<ruby>行き<rt>いき</rt></ruby>ませんか。",
@@ -43407,8 +43406,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 801,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "袋",
     "question": "お買い上げいただいた商品を【袋】にお入れしますか。",
     "question_ruby": "お<ruby>買い<rt>かい</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>いただいた<ruby>商品<rt>しょうひん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【袋】</span><rt class=\"target-reading-spoiler\">ふくろ</rt></ruby>にお<ruby>入れ<rt>いれ</rt></ruby>しますか。",
@@ -43456,8 +43455,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 802,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "噂",
     "question": "駅前に新しいベーカリーができるという【うわさ】を聞きましたよ。",
     "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>ベーカリーができるという【うわさ】を<ruby>聞き<rt>きき</rt></ruby>ましたよ。",
@@ -43489,8 +43488,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 803,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "隅",
     "question": "部屋の（　　　）にある本棚を整理しましょうか。",
     "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>の（　　　）にある<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しましょうか。",
@@ -43538,8 +43537,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 804,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "骨",
     "question": "魚を食べる時は小【骨】に気をつけてくださいね。",
     "question_ruby": "<ruby>魚<rt>さかな</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は<ruby>小<rt>しょう</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【骨】</span><rt class=\"target-reading-spoiler\">ほね</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてくださいね。",
@@ -43587,8 +43586,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 805,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "咳",
     "question": "少し【せき】が出ていますが、風邪を引かれたのですか。",
     "question_ruby": "<ruby>少し<rt>すこし</rt></ruby>【せき】が<ruby>出て<rt>でて</rt></ruby>いますが、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引か<rt>ひか</rt></ruby>れたのですか。",
@@ -43620,8 +43619,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 806,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "棒",
     "question": "体操で使う木の（　　　）はどこに置いてありますか。",
     "question_ruby": "<ruby>体操<rt>たいそう</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>木<rt>き</rt></ruby>の（　　　）はどこに<ruby>置い<rt>おい</rt></ruby>てありますか。",
@@ -43669,8 +43668,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 807,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "枝",
     "question": "庭の木の【枝】が伸びてきたので少し剪定しましょうか。",
     "question_ruby": "<ruby>庭<rt>にわ</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【枝】</span><rt class=\"target-reading-spoiler\">えだ</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>てきたので<ruby>少し<rt>すこし</rt></ruby><ruby>剪定<rt>せんてい</rt></ruby>しましょうか。",
@@ -43718,8 +43717,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 808,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "底",
     "question": "深い鍋の【そこ】を焦げ付かせないように気をつけてくださいね。",
     "question_ruby": "<ruby>深い<rt>ふかい</rt></ruby><ruby>鍋<rt>なべ</rt></ruby>の【そこ】を<ruby>焦げ<rt>こげ</rt></ruby><ruby>付か<rt>つか</rt></ruby>せないように<ruby>気<rt>き</rt></ruby>をつけてくださいね。",
@@ -43767,8 +43766,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 809,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "孫",
     "question": "お（　　　）さんが今度小学校に入学されるそうですね。",
     "question_ruby": "お（　　　）さんが<ruby>今度<rt>こんど</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>されるそうですね。",
@@ -43816,8 +43815,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 810,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "襟",
     "question": "シャツの【襟】が少し曲がっていますよ。",
     "question_ruby": "シャツの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【襟】</span><rt class=\"target-reading-spoiler\">えり</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>曲がっ<rt>まがっ</rt></ruby>ていますよ。",
@@ -43865,8 +43864,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 811,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "像",
     "question": "駅前にある有名な銅【ぞう】の前で待ち合わせをしましょう。",
     "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>銅<rt>どう</rt></ruby>【ぞう】の<ruby>前<rt>まえ</rt></ruby>で<ruby>待ち合わせ<rt>まちあわせ</rt></ruby>をしましょう。",
@@ -43914,8 +43913,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 812,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "街",
     "question": "この（　　　）は緑が多くてとても住みやすそうですね。",
     "question_ruby": "この（　　　）は<ruby>緑<rt>みどり</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>てとても<ruby>住み<rt>すみ</rt></ruby>やすそうですね。",
@@ -43963,8 +43962,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 813,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "奥",
     "question": "どうぞ【奥】のソファ席へお掛けになってください。",
     "question_ruby": "どうぞ<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【奥】</span><rt class=\"target-reading-spoiler\">おく</rt></ruby>のソファ<ruby>席<rt>せき</rt></ruby>へお<ruby>掛け<rt>かけ</rt></ruby>になってください。",
@@ -44012,8 +44011,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 814,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "旅",
     "question": "今回の京都への一人【たび】はいかがでしたか。",
     "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>への<ruby>一人<rt>ひとり</rt></ruby>【たび】はいかがでしたか。",
@@ -44061,8 +44060,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 815,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "湖",
     "question": "山の上にある（　　　）の水が鏡のように澄んでいますね。",
     "question_ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にある（　　　）の<ruby>水<rt>みず</rt></ruby>が<ruby>鏡<rt>かがみ</rt></ruby>のように<ruby>澄ん<rt>すん</rt></ruby>でいますね。",
@@ -44110,8 +44109,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 816,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "親",
     "question": "週末はご両【親】と一緒に食事をされるそうですね。",
     "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>はご<ruby>両<rt>りょう</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【親】</span><rt class=\"target-reading-spoiler\">おや</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>をされるそうですね。",
@@ -44159,8 +44158,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 817,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "課",
     "question": "総務【か】のオフィスはどちらのフロアでしょうか。",
     "question_ruby": "<ruby>総務<rt>そうむ</rt></ruby>【か】のオフィスはどちらのフロアでしょうか。",
@@ -44208,8 +44207,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 818,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "毒",
     "question": "山でキノコを採る時は（　　　）キノコに十分気をつけてください。",
     "question_ruby": "<ruby>山<rt>やま</rt></ruby>でキノコを<ruby>採る<rt>とる</rt></ruby><ruby>時<rt>とき</rt></ruby>は（　　　）キノコに<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけてください。",
@@ -44257,8 +44256,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 819,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "胸",
     "question": "素晴らしい演奏を聴いて【胸】がいっぱいになりました。",
     "question_ruby": "<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>演奏<rt>えんそう</rt></ruby>を<ruby>聴い<rt>きい</rt></ruby>て<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【胸】</span><rt class=\"target-reading-spoiler\">むね</rt></ruby>がいっぱいになりました。",
@@ -44306,8 +44305,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 820,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "数",
     "question": "参加者の【かず】を事前に確認しておきましょう。",
     "question_ruby": "<ruby>参加者<rt>さんかしゃ</rt></ruby>の【かず】を<ruby>事前<rt>じぜん</rt></ruby>に<ruby>確認し<rt>かくにんし</rt></ruby>ておきましょう。",
@@ -44355,8 +44354,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 821,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "謎",
     "question": "このミステリー小説の最後の（　　　）解きがとても見事でしたよ。",
     "question_ruby": "このミステリー<ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の（　　　）<ruby>解き<rt>とき</rt></ruby>がとても<ruby>見事<rt>みごと</rt></ruby>でしたよ。",
@@ -44399,8 +44398,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 822,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "床",
     "question": "ピカピカに【床】を磨いたのでとても気持ちがいいですね。",
     "question_ruby": "ピカピカに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【床】</span><rt class=\"target-reading-spoiler\">ゆか</rt></ruby>を<ruby>磨い<rt>みがい</rt></ruby>たのでとても<ruby>気持ち<rt>きもち</rt></ruby>がいいですね。",
@@ -44448,8 +44447,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 823,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "形",
     "question": "このクッキーはいろんな動物の【かたち】をしていて可愛いですね。",
     "question_ruby": "このクッキーはいろんな<ruby>動物<rt>どうぶつ</rt></ruby>の【かたち】をしていて<ruby>可愛い<rt>かわい</rt></ruby>ですね。",
@@ -44497,8 +44496,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 824,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "鍋",
     "question": "寒い夜はみんなで温かいお（　　　）を囲むのが一番ですね。",
     "question_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>夜<rt>よる</rt></ruby>はみんなで<ruby>温かい<rt>あたたかい</rt></ruby>お（　　　）を<ruby>囲む<rt>かこむ</rt></ruby>のが<ruby>一番<rt>いちばん</rt></ruby>ですね。",
@@ -44546,8 +44545,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 825,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "夢",
     "question": "将来、自分のカフェを開くのが昔からの【夢】なんです。",
     "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>のカフェを<ruby>開く<rt>ひらく</rt></ruby>のが<ruby>昔<rt>むかし</rt></ruby>からの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【夢】</span><rt class=\"target-reading-spoiler\">ゆめ</rt></ruby>なんです。",
@@ -44595,8 +44594,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 826,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "壁",
     "question": "このお部屋の【かべ】の色、とても明るくて落ち着きますね。",
     "question_ruby": "このお<ruby>部屋<rt>へや</rt></ruby>の【かべ】の<ruby>色<rt>いろ</rt></ruby>、とても<ruby>明るく<rt>あかるく</rt></ruby>て<ruby>落ち着き<rt>おちつき</rt></ruby>ますね。",
@@ -44644,8 +44643,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 827,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "波",
     "question": "海岸で静かな（　　　）の音を聞いていると心が落ち着きますね。",
     "question_ruby": "<ruby>海岸<rt>かいがん</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かな（　　　）の<ruby>音<rt>おと</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>ていると<ruby>心<rt>こころ</rt></ruby>が<ruby>落ち着き<rt>おちつき</rt></ruby>ますね。",
@@ -44693,8 +44692,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 828,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "寮",
     "question": "大学の【寮】生活にはもう慣れましたか。",
     "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【寮】</span><rt class=\"target-reading-spoiler\">りょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>にはもう<ruby>慣れ<rt>なれ</rt></ruby>ましたか。",
@@ -44747,8 +44746,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 829,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "雷",
     "question": "遠くでゴロゴロと【かみなり】の音が聞こえてきましたね。",
     "question_ruby": "<ruby>遠く<rt>とおく</rt></ruby>でゴロゴロと【かみなり】の<ruby>音<rt>おと</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えてきましたね。",
@@ -44796,8 +44795,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 830,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "涙",
     "question": "感動的な映画を見て思わず（　　　）がこぼれました。",
     "question_ruby": "<ruby>感動的<rt>かんどうてき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>思わず<rt>おもわず</rt></ruby>（　　　）がこぼれました。",
@@ -44845,8 +44844,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 831,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "量",
     "question": "この定食はご飯の【量】がたっぷりあって大満足ですね。",
     "question_ruby": "この<ruby>定食<rt>ていしょく</rt></ruby>はご<ruby>飯<rt>めし</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【量】</span><rt class=\"target-reading-spoiler\">りょう</rt></ruby>がたっぷりあって<ruby>大満足<rt>だいまんぞく</rt></ruby>ですね。",
@@ -44894,8 +44893,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 832,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "皮",
     "question": "リンゴの【かわ】を綺麗に剥くのは少しコツがいりますね。",
     "question_ruby": "リンゴの【かわ】を<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>剥く<rt>むく</rt></ruby>のは<ruby>少し<rt>すこし</rt></ruby>コツがいりますね。",
@@ -44943,8 +44942,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 833,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "庭",
     "question": "お（　　　）に色とりどりの季節の花が咲いていて見事ですね。",
     "question_ruby": "お（　　　）に<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>季節<rt>きせつ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲い<rt>さい</rt></ruby>ていて<ruby>見事<rt>みごと</rt></ruby>ですね。",
@@ -44992,8 +44991,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 834,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "列",
     "question": "人気のアトラクションに乗るため長い【列】に並びました。",
     "question_ruby": "<ruby>人気<rt>にんき</rt></ruby>のアトラクションに<ruby>乗る<rt>のる</rt></ruby>ため<ruby>長い<rt>ながい</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【列】</span><rt class=\"target-reading-spoiler\">れつ</rt></ruby>に<ruby>並び<rt>ならび</rt></ruby>ました。",
@@ -45041,8 +45040,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 835,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "缶",
     "question": "空き【かん】はリサイクルボックスに分別して捨てましょうね。",
     "question_ruby": "<ruby>空き<rt>あき</rt></ruby>【かん】はリサイクルボックスに<ruby>分別<rt>ふんべつ</rt></ruby>して<ruby>捨て<rt>すて</rt></ruby>ましょうね。",
@@ -45090,8 +45089,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 836,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "熱",
     "question": "少し（　　　）があるようですので、無理をせず休んでくださいね。",
     "question_ruby": "<ruby>少し<rt>すこし</rt></ruby>（　　　）があるようですので、<ruby>無理<rt>むり</rt></ruby>をせず<ruby>休ん<rt>やすん</rt></ruby>でくださいね。",
@@ -45139,8 +45138,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 837,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "曲",
     "question": "このクラシックの【曲】は心がとても安らぎますね。",
     "question_ruby": "このクラシックの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【曲】</span><rt class=\"target-reading-spoiler\">きょく</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>がとても<ruby>安ら<rt>やすら</rt></ruby>ぎますね。",
@@ -45188,8 +45187,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 838,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "箸",
     "question": "正しいお【はし】の持ち方を子どもに教えています。",
     "question_ruby": "<ruby>正しい<rt>ただしい</rt></ruby>お【はし】の<ruby>持ち方<rt>もちかた</rt></ruby>を<ruby>子<rt>こ</rt></ruby>どもに<ruby>教え<rt>おしえ</rt></ruby>ています。",
@@ -45227,8 +45226,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 839,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "各地",
     "question": "（　　　）に新しい資料を配布していただけますか。",
     "question_ruby": "（　　　）に<ruby>新しい<rt>あたらしい</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>を<ruby>配布<rt>はいふ</rt></ruby>していただけますか。",
@@ -45292,8 +45291,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 840,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "各国",
     "question": "【各国】に新しい資料を配布していただけますか。",
     "question_ruby": "<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【各国】</span><rt class=\"target-reading-spoiler\">かっこく</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>を<ruby>配布<rt>はいふ</rt></ruby>していただけますか。",
@@ -45357,8 +45356,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 841,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "消費",
     "question": "今月の【しょうひ（する）】について内訳を確認しておきましょう。",
     "question_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>の【しょうひ（する）】について<ruby>内訳<rt>うちわけ</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>ておきましょう。",
@@ -45422,8 +45421,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 842,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "女性",
     "question": "この計画が成功する（　　　）についてどう考えますか。",
     "question_ruby": "この<ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>する（　　　）についてどう<ruby>考え<rt>かんがえ</rt></ruby>ますか。",
@@ -45487,8 +45486,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 843,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "不足",
     "question": "何か【不足】な点がございましたら、いつでもお知らせください。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>か<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【不足】</span><rt class=\"target-reading-spoiler\">ふそく（する）</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>知らせ<rt>しらせ</rt></ruby>ください。",
@@ -45552,8 +45551,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 844,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "変化",
     "question": "最近、社会の【へんか（する）】が急速に進んでいますね。",
     "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>社会<rt>しゃかい</rt></ruby>の【へんか（する）】が<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>進ん<rt>すすん</rt></ruby>でいますね。",
@@ -45617,8 +45616,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 845,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "不動産",
     "question": "何か（　　　）な点がございましたら、いつでもお知らせください。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>か（　　　）な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>知らせ<rt>しらせ</rt></ruby>ください。",
@@ -45688,8 +45687,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 846,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "新入生",
     "question": "来月登場する【新入生】について注目が集まっていますね。",
     "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby><ruby>登場<rt>とうじょう</rt></ruby>する<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【新入生】</span><rt class=\"target-reading-spoiler\">しんにゅうせい</rt></ruby>について<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っていますね。",
@@ -45759,8 +45758,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 847,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "新鮮な",
     "question": "来月登場する【しんせんな】について注目が集まっていますね。",
     "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby><ruby>登場<rt>とうじょう</rt></ruby>する【しんせんな】について<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っていますね。",
@@ -45824,8 +45823,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 848,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "不安な",
     "question": "何か（　　　）な点がございましたら、いつでもお知らせください。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>か（　　　）な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>知らせ<rt>しらせ</rt></ruby>ください。",
@@ -45889,8 +45888,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 849,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字読み（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字読み",
     "target_word": "不思議な",
     "question": "何か【不思議な】な点がございましたら、いつでもお知らせください。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>か<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【不思議な】</span><rt class=\"target-reading-spoiler\">ふしぎな</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>知らせ<rt>しらせ</rt></ruby>ください。",
@@ -45960,8 +45959,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 850,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "不便な",
     "question": "何か【ふべんな】な点がございましたら、いつでもお知らせください。",
     "question_ruby": "<ruby>何<rt>なに</rt></ruby>か【ふべんな】な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>知らせ<rt>しらせ</rt></ruby>ください。",
@@ -46025,8 +46024,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 851,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "アイデア",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46067,8 +46066,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 852,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ウイルス",
     "question": "新しい企画の【ウイルス】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ウイルス】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46109,8 +46108,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 853,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "クラブ",
     "question": "新しい企画の【クラブ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【クラブ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46180,8 +46179,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 854,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "エネルギー",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46222,8 +46221,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 855,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "グラウンド",
     "question": "新しい企画の【グラウンド】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【グラウンド】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46264,8 +46263,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 856,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "アジア",
     "question": "新しい企画の【アジア】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【アジア】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46329,8 +46328,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 857,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "エプロン",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46371,8 +46370,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 858,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "グループ",
     "question": "新しい企画の【グループ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【グループ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46413,8 +46412,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 859,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "コマーシャル",
     "question": "新しい企画の【コマーシャル】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【コマーシャル】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46455,8 +46454,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 860,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "オフィス",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46497,8 +46496,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 861,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "コンビニ",
     "question": "新しい企画の【コンビニ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【コンビニ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46539,8 +46538,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 862,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "アナウンサー",
     "question": "新しい企画の【アナウンサー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【アナウンサー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46581,8 +46580,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 863,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "オリンピック",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46623,8 +46622,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 864,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "カップ",
     "question": "新しい企画の【カップ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【カップ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46665,8 +46664,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 865,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "サークル",
     "question": "新しい企画の【サークル】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【サークル】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46707,8 +46706,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 866,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "カフェ",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46754,8 +46753,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 867,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "サイト",
     "question": "新しい企画の【サイト】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【サイト】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46796,8 +46795,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 868,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "アレルギー",
     "question": "新しい企画の【アレルギー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【アレルギー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46838,8 +46837,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 869,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "カラオケ",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46887,8 +46886,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 870,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "サンプル",
     "question": "新しい企画の【サンプル】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【サンプル】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46929,8 +46928,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 871,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "アンケート",
     "question": "新しい企画の【アンケート】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【アンケート】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -46971,8 +46970,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 872,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "カルチャー",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47013,8 +47012,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 873,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ジャケット",
     "question": "新しい企画の【ジャケット】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ジャケット】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47055,8 +47054,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 874,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "イベント",
     "question": "新しい企画の【イベント】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【イベント】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47097,8 +47096,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 875,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "カロリー",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47139,8 +47138,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 876,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ジャム",
     "question": "新しい企画の【ジャム】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ジャム】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47181,8 +47180,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 877,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "スープ",
     "question": "新しい企画の【スープ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【スープ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47223,8 +47222,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 878,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "インク",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47265,8 +47264,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 879,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "クイズ",
     "question": "新しい企画の【クイズ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【クイズ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47307,8 +47306,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 880,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ストーリー",
     "question": "新しい企画の【ストーリー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ストーリー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47349,8 +47348,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 881,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "クッキー",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47391,8 +47390,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 882,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "セール",
     "question": "新しい企画の【セール】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【セール】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47433,8 +47432,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 883,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ピクニック",
     "question": "新しい企画の【ピクニック】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ピクニック】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47475,8 +47474,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 884,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ホール",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47517,8 +47516,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 885,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "セミナー",
     "question": "新しい企画の【セミナー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【セミナー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47559,8 +47558,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 886,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ファスナー",
     "question": "新しい企画の【ファスナー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ファスナー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47601,8 +47600,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 887,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ポイント",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47643,8 +47642,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 888,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "センター",
     "question": "新しい企画の【センター】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【センター】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47685,8 +47684,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 889,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ポスター",
     "question": "新しい企画の【ポスター】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ポスター】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47727,8 +47726,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 890,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ゼミ",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47769,8 +47768,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 891,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "ファッション",
     "question": "新しい企画の【ファッション】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【ファッション】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47811,8 +47810,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 892,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "マイク",
     "question": "新しい企画の【マイク】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【マイク】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47853,8 +47852,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 893,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ファン",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47895,8 +47894,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 894,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "マナー",
     "question": "新しい企画の【マナー】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【マナー】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47937,8 +47936,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 895,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "漢字表記（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "漢字表記",
     "target_word": "チラシ",
     "question": "新しい企画の【チラシ】について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の【チラシ】について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",
@@ -47979,8 +47978,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   },
   {
     "id": 896,
-    "source": "新にほんご500問 N2 (総復習実戦編)",
-    "category": "語彙（実戦演習）",
+    "source": "JLPT N2 実戦オリジナル問題集",
+    "category": "文脈規定",
     "target_word": "ブランコ",
     "question": "新しい企画の（　　　）について確認していただけますか。",
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）について<ruby>確認し<rt>かくにんし</rt></ruby>ていただけますか。",

@@ -1539,7 +1539,6 @@
   <div class="control-bar">
     <div class="filter-group">
       <!-- Category Filter Dropdown -->
-      <select class="filter-select" id="categoryFilter">
         <option value="all">全カテゴリー対象（全896問）</option>
         <option value="漢字読み">漢字の読み方（漢字読み）</option>
         <option value="漢字表記">漢字の書き方（表記）</option>
@@ -1547,8 +1546,7 @@
         <option value="文脈規定">文脈規定・穴埋め</option>
         <option value="類義語">類義語・言い換え表現</option>
         <option value="語彙用法">語彙の正しい用法</option>
-        <option value="合格するN2">出典：合格するN2 (徹底演習編)</option>
-        <option value="新にほんご500問">出典：新にほんご500問 N2</option>
+        <option value="文法形式の判断">文法形式の判断（実戦演習）</option>
       </select>
 
       <!-- Question Count Limit -->
@@ -2020,12 +2018,8 @@
     const val = e.target.value;
     if (val === 'all') {
       masterIndices = data.map((_, i) => i);
-    } else if (val === '合格するN2') {
-      masterIndices = data.map((q, i) => q.source.includes('合格するN2') ? i : -1).filter(i => i !== -1);
-    } else if (val === '新にほんご500問') {
-      masterIndices = data.map((q, i) => q.source.includes('新にほんご500問') ? i : -1).filter(i => i !== -1);
     } else {
-      masterIndices = data.map((q, i) => q.category.includes(val) ? i : -1).filter(i => i !== -1);
+      masterIndices = data.map((q, i) => (q.category && q.category.includes(val)) ? i : -1).filter(i => i !== -1);
     }
     applyCountLimit();
     currentIndex = 0;
