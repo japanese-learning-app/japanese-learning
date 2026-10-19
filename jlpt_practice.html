@@ -1510,6 +1510,10 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
         マイリスト (<span id="header-mylist-count">0</span>)
       </button>
+      <a href="jlpt_n2_vocab_cards.html" class="nav-btn" style="background:#FDF2F5; color:#8E3A4F; border-color:#E8B4C4; font-weight:700;">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
+        N2語彙カード (3,412語)
+      </a>
       <a href="jlpt_n2_grammar_quiz.html" class="nav-btn" style="background:#EDF5F8; color:#1E5989; border-color:#80BFE0; font-weight:700;">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
         N2文法穴埋め (1,507問)
@@ -1573,12 +1577,12 @@
         <div class="hero-badge" id="banner-badge">N2</div>
         <div class="hero-title">
           <h2 id="banner-title">JLPT N2 実戦練習道場</h2>
-          <p id="banner-desc">全195文法項目・全1,507問 穴埋め4択演習 ＆ 文字・語彙</p>
+          <p id="banner-desc">全195文法項目・全1,507問 穴埋め4択演習 ＆ 全3,412語フラッシュカード</p>
         </div>
       </div>
       <div class="hero-counts">
         <div class="hero-count-item pink">
-          <div class="hero-count-num" id="vocab-count">500 問</div>
+          <div class="hero-count-num" id="vocab-count">3,412 語</div>
           <div class="hero-count-lbl">文字・語彙</div>
         </div>
         <div class="hero-count-item">
@@ -1603,25 +1607,25 @@
     <div class="section-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 24px;">
       
       <!-- Card 1: 文字・語彙 -->
-      <div class="card-box">
+      <div class="card-box" style="border: 2px solid var(--accent-pink-border); position: relative; overflow: visible;">
+        <span style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, var(--accent-pink), #8E3A4F); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(196,104,138,0.3);">全25カテゴリ完全網羅</span>
         <div>
           <div class="card-top-row">
-            <div class="card-icon-square">文</div>
-            <span class="card-badge-count" id="card-vocab-badge">500 問</span>
+            <div class="card-icon-square" style="background:var(--accent-pink-bg); color:var(--accent-pink); border-color:var(--accent-pink-border);">語</div>
+            <span class="card-badge-count" id="card-vocab-badge" style="background:var(--accent-pink); color:white; font-weight:800;">3,412 語</span>
           </div>
-          <div class="card-title-main">1. 文字・語彙</div>
-          <div class="card-subtitle-reading">文字・語彙（もじ・ごい）</div>
+          <div class="card-title-main" style="color:var(--accent-pink-text);">1. 文字・語彙</div>
+          <div class="card-subtitle-reading">語彙フラッシュカード ＆ 穴埋め演習（もじ・ごい）</div>
           <ul class="card-feature-list">
-            <li>漢字の読み · Kanji Reading</li>
-            <li>漢字の表記 · Kanji Writing</li>
-            <li>文脈規定 · Context-based Vocabulary</li>
-            <li>言い換え類義 · Synonyms</li>
-            <li>用法演習 · Correct Word Usage</li>
+            <li>PDF完全準拠：全25カテゴリ・3,412語収録</li>
+            <li>3D両面カード（表面：単語 / 裏面：意味・例文）</li>
+            <li>ルビ表示（ふりがな ON/OFF） ＆ 音声再生</li>
+            <li>穴埋め問題版（※ 近日公開）</li>
           </ul>
         </div>
-        <button class="card-btn-action" onclick="openStartQuizModal('vocabulary')">
-          練習を始める →
-        </button>
+        <a href="jlpt_n2_vocab_cards.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:var(--accent-pink); color:white; font-weight:800; margin-top:14px; box-shadow: 0 4px 16px rgba(196,104,138,0.25);">
+          🎴 フラッシュカードを始める →
+        </a>
       </div>
 
       <!-- Card 2: 文法（1,507問！） -->
@@ -2014,6 +2018,7 @@
 <script src="database/jlpt_questions_data.js"></script>
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
 <script src="database/jlpt_similar_grammar_dict.js"></script>
+<script src="database/jlpt_n2_vocab_full_data.js"></script>
 <script src="database/jlpt_explanation_translator.js"></script>
 <script src="database/jlpt_option_helper.js"></script>
 
@@ -2180,20 +2185,28 @@
     if (titleEl) titleEl.textContent = info.title;
     if (descEl) descEl.textContent = info.desc;
 
-    const vocabCount = (window.JLPT_QUESTIONS_DATA && window.JLPT_QUESTIONS_DATA[currentLevel] && window.JLPT_QUESTIONS_DATA[currentLevel].vocabulary)
-      ? window.JLPT_QUESTIONS_DATA[currentLevel].vocabulary.length : 500;
+    let vocabCount = 500;
+    let vocabLabel = '問';
+    if (currentLevel === 'n2') {
+      vocabCount = (window.JLPT_N2_VOCAB_DATA && Array.isArray(window.JLPT_N2_VOCAB_DATA)) 
+        ? window.JLPT_N2_VOCAB_DATA.length : 3412;
+      vocabLabel = '語';
+    } else if (window.JLPT_QUESTIONS_DATA && window.JLPT_QUESTIONS_DATA[currentLevel] && window.JLPT_QUESTIONS_DATA[currentLevel].vocabulary) {
+      vocabCount = window.JLPT_QUESTIONS_DATA[currentLevel].vocabulary.length;
+    }
+
     const grammarCount = (window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) 
       ? window.JLPT_N2_QUIZ_DATA.length : 1507;
 
     const vcEl = document.getElementById('vocab-count');
-    if (vcEl) vcEl.textContent = `${vocabCount} 問`;
+    if (vcEl) vcEl.textContent = `${vocabCount.toLocaleString()} ${vocabLabel}`;
     const gcEl = document.getElementById('grammar-count');
-    if (gcEl) gcEl.textContent = `${grammarCount} 問`;
+    if (gcEl) gcEl.textContent = `${grammarCount.toLocaleString()} 問`;
 
     const cardVBadge = document.getElementById('card-vocab-badge');
-    if (cardVBadge) cardVBadge.textContent = `${vocabCount} 問`;
+    if (cardVBadge) cardVBadge.textContent = `${vocabCount.toLocaleString()} ${vocabLabel}`;
     const cardGBadge = document.getElementById('card-grammar-badge');
-    if (cardGBadge) cardGBadge.textContent = `${grammarCount} 問`;
+    if (cardGBadge) cardGBadge.textContent = `${grammarCount.toLocaleString()} 問`;
 
     updateMyListBadges();
   }

@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>JLPT N2 文字・語彙 マスター フラッシュカード（全3,412語・全25カテゴリ完全網羅）</title>
+  
+  <!-- Google Fonts: Inter & Noto Sans JP -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ["'Inter'", '"Yu Gothic"', 'YuGothic', '"Hiragino Kaku Gothic ProN"', '"Noto Sans JP"', 'sans-serif'],
+            jp: ['"Yu Gothic"', 'YuGothic', '"Hiragino Kaku Gothic ProN"', '"Noto Sans JP"', 'sans-serif']
+          },
+          colors: {
+            deepNavy: '#1E557E',
+            lightBlueBg: '#D5EDF8',
+            coralPink: '#CE5A73',
+            coralPinkHover: '#B84A62',
+            softBorder: '#BDE0F2',
+            cardBg: '#FFFFFF',
+            darkNavyText: '#103956'
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* 3D Card Flip styles */
+    .perspective-1000 { perspective: 1000px; }
+    .transform-style-3d { transform-style: preserve-3d; }
+    .backface-hidden { backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+    .rotate-y-180 { transform: rotateY(180deg); }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+    /* Ruby Furigana styling */
+    ruby {
+      ruby-align: center;
+      ruby-position: over;
+    }
+    rt {
+      font-size: 0.62em;
+      font-weight: 700;
+      color: #CE5A73;
+      line-height: 1;
+      user-select: none !important;
+      -webkit-user-select: none !important;
+    }
+    body {
+      -webkit-tap-highlight-color: transparent;
+      font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      background: #F4F8FC;
+      color: #103956;
+    }
+    .jp-font {
+      font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    }
+
+    /* Furigana OFF Mode */
+    body.furigana-off rt {
+      display: none !important;
+    }
+    body.furigana-off #frontReading {
+      display: none !important;
+    }
+    body.furigana-off #backReadingHeader {
+      display: none !important;
+    }
+
+    /* 3D Skeuomorphic Toggle Switch (中ピンク & ぷっくり立体感) */
+    .toggle-pill-track {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      background: #E2E8F0;
+      border-radius: 9999px;
+      cursor: pointer;
+      transition: background 0.25s ease;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.12);
+      border: 1px solid #CBD5E1;
+    }
+    .toggle-pill-track.active {
+      background: #CE5A73;
+      border-color: #B84A62;
+    }
+    .toggle-pill-thumb {
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 18px;
+      height: 18px;
+      background: #FFFFFF;
+      border-radius: 9999px;
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.25);
+    }
+    .toggle-pill-track.active .toggle-pill-thumb {
+      transform: translateX(20px);
+    }
+
+    /* Sidebar category accordion */
+    .category-group-header {
+      font-size: 11px;
+      font-weight: 800;
+      color: #64748B;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 8px 12px 4px;
+      border-top: 1px solid #E2ECF2;
+      margin-top: 6px;
+    }
+    .category-group-header:first-child {
+      border-top: none;
+      margin-top: 0;
+    }
+    .cat-btn {
+      width: 100%;
+      text-align: left;
+      padding: 7px 10px;
+      border-radius: 10px;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: #334155;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: all 0.15s;
+    }
+    .cat-btn:hover {
+      background: #EEF6FB;
+      color: #1E557E;
+    }
+    .cat-btn.active {
+      background: #1E557E;
+      color: #FFFFFF;
+      font-weight: 700;
+    }
+    .cat-btn .badge {
+      font-size: 10.5px;
+      padding: 2px 6px;
+      border-radius: 9999px;
+      background: rgba(0,0,0,0.06);
+    }
+    .cat-btn.active .badge {
+      background: rgba(255,255,255,0.25);
+      color: #FFFFFF;
+    }
+
+    /* Unit pill buttons */
+    .unit-pill {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 9999px;
+      border: 1px solid #CBD5E1;
+      background: #FFFFFF;
+      color: #475569;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .unit-pill:hover {
+      border-color: #1E557E;
+      color: #1E557E;
+    }
+    .unit-pill.active {
+      background: #1E557E;
+      border-color: #1E557E;
+      color: #FFFFFF;
+    }
+
+    /* Swipe badges */
+    .swipe-badge-review, .swipe-badge-learned {
+      position: absolute;
+      top: 20px;
+      font-size: 14px;
+      font-weight: 900;
+      padding: 6px 14px;
+      border-radius: 12px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s;
+      z-index: 30;
+    }
+    .swipe-badge-review {
+      left: 20px;
+      background: #FEF3C7;
+      color: #92400E;
+      border: 2px solid #F59E0B;
+    }
+    .swipe-badge-learned {
+      right: 20px;
+      background: #D1FAE5;
+      color: #065F46;
+      border: 2px solid #10B981;
+    }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: rgba(20, 45, 68, 0.94);
+      color: white;
+      padding: 10px 20px;
+      border-radius: 14px;
+      font-size: 13.5px;
+      font-weight: 700;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+      opacity: 0;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      z-index: 9999;
+      pointer-events: none;
+    }
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- TOP APP NAVIGATION BAR -->
+  <header class="bg-white border-b border-softBorder shadow-2xs sticky top-0 z-40">
+    <div class="max-w-6xl mx-auto px-3 sm:px-5 py-2.5 flex items-center justify-between gap-3">
+      
+      <!-- Left: Back Button & Title -->
+      <div class="flex items-center space-x-2.5">
+        <a href="jlpt_practice.html" class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1 text-xs font-bold" title="演習道場に戻る">
+          <i data-lucide="arrow-left" class="w-4 h-4"></i>
+          <span class="hidden sm:inline">演習に戻る</span>
+        </a>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-black px-2 py-0.5 rounded-full bg-deepNavy text-white">N2</span>
+            <h1 class="text-sm sm:text-base font-extrabold text-darkNavyText">文字・語彙 マスター フラッシュカード</h1>
+          </div>
+          <p class="text-[10px] sm:text-xs text-slate-400 font-medium">全3,412語・全25カテゴリ完全網羅</p>
+        </div>
+      </div>
+
+      <!-- Right: Toggles (Furigana, TTS voice, Mobile Drawer Trigger) -->
+      <div class="flex items-center space-x-2 sm:space-x-3">
+        <!-- Furigana Toggle -->
+        <div class="flex items-center space-x-1.5 bg-slate-50 border border-slate-200 px-2.5 py-1 rounded-full">
+          <span class="text-[11px] font-bold text-slate-600">ルビ</span>
+          <div id="furiganaTogglePill" class="toggle-pill-track active" onclick="toggleFurigana()" title="ふりがな ON/OFF">
+            <div class="toggle-pill-thumb"></div>
+          </div>
+        </div>
+
+        <!-- Mobile Drawer Trigger Button -->
+        <button onclick="toggleMobileDrawer()" class="md:hidden p-2 rounded-xl bg-deepNavy text-white shadow-xs" title="カテゴリ一覧">
+          <i data-lucide="layers" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER (2 COLUMNS) -->
+  <main class="max-w-6xl mx-auto px-3 sm:px-5 py-3 w-full flex-1 flex flex-col md:flex-row gap-4 items-start">
+    
+    <!-- LEFT COLUMN: CATEGORIES & UNITS SIDEBAR (Desktop) -->
+    <aside id="desktopSidebar" class="hidden md:flex flex-col w-72 lg:w-80 shrink-0 bg-white rounded-2xl border border-softBorder p-3 shadow-xs max-h-[calc(100vh-85px)] overflow-hidden">
+      <!-- Search input -->
+      <div class="relative mb-2.5">
+        <i data-lucide="search" class="w-3.5 h-3.5 absolute left-3 top-2.5 text-slate-400"></i>
+        <input type="text" id="searchInput" placeholder="単語・読み・意味を検索..." oninput="handleSearch(this.value)" class="w-full pl-8 pr-3 py-1.5 text-xs rounded-xl border border-slate-200 bg-slate-50 focus:bg-white focus:outline-none focus:border-deepNavy transition">
+      </div>
+
+      <!-- Category Filter Tabs -->
+      <div class="flex items-center justify-between pb-1.5 border-b border-slate-100 mb-1">
+        <span class="text-xs font-bold text-darkNavyText">カテゴリ選択</span>
+        <button onclick="shuffleActiveDeck()" class="text-[10px] font-bold text-coralPink hover:underline flex items-center gap-1">
+          <i data-lucide="shuffle" class="w-3 h-3"></i>
+          <span>シャッフル</span>
+        </button>
+      </div>
+
+      <!-- Categories List Scrollable -->
+      <div class="flex-1 overflow-y-auto pr-1 space-y-0.5 no-scrollbar" id="categoriesListContainer">
+        <!-- Generated by JS -->
+      </div>
+    </aside>
+
+    <!-- RIGHT / MAIN COLUMN: FLASHCARD ARENA -->
+    <section class="flex-1 w-full min-w-0 flex flex-col justify-between min-h-[560px]">
+      
+      <!-- Top Unit Selector & Current Info Bar -->
+      <div class="bg-white rounded-2xl p-3 border border-softBorder shadow-2xs space-y-2 mb-2">
+        <div class="flex items-center justify-between flex-wrap gap-2">
+          <div class="flex items-center gap-2">
+            <span id="currentGroupBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-lightBlueBg text-deepNavy">基礎編</span>
+            <h2 id="currentCategoryTitle" class="text-xs sm:text-sm font-black text-darkNavyText">1. 名詞(1文字) (55語)</h2>
+          </div>
+          
+          <!-- Filter buttons: All / Starred -->
+          <div class="inline-flex p-0.5 bg-slate-100 rounded-full border border-slate-200">
+            <button id="btnFilterAll" onclick="setFilterMode('all')" class="px-2.5 py-0.5 rounded-full bg-deepNavy text-white font-bold text-[11px] transition">全単語</button>
+            <button id="btnFilterStarred" onclick="setFilterMode('starred')" class="px-2.5 py-0.5 rounded-full text-slate-600 font-semibold text-[11px] transition flex items-center gap-1">
+              <i data-lucide="star" class="w-3 h-3 text-amber-500 fill-amber-500"></i>
+              <span>マイリスト</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Unit Pills Scroll Container -->
+        <div class="flex items-center space-x-1.5 overflow-x-auto pb-0.5 no-scrollbar" id="unitPillsContainer">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <!-- FLASHCARD TOOLBAR: PROGRESS & ACTIONS -->
+      <div class="flex items-center justify-between text-xs text-slate-600 font-medium px-1 mb-1">
+        <div class="flex items-center gap-2">
+          <span id="cardProgressText" class="font-black text-darkNavyText text-sm">1 / 55</span>
+          <span id="cardProgressPercent" class="text-[11px] text-slate-400 font-semibold">(2%)</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <!-- Star Toggle -->
+          <button id="btnStarCurrent" onclick="toggleCurrentWordStar()" title="マイリストに追加 / 削除" class="p-1.5 rounded-full bg-white hover:bg-slate-100 border border-slate-200 text-slate-300 transition shadow-2xs">
+            <i data-lucide="star" class="w-4 h-4"></i>
+          </button>
+          <!-- Shuffle Button -->
+          <button onclick="shuffleActiveDeck()" title="並び順をシャッフル" class="p-1.5 rounded-full bg-white hover:bg-slate-100 border border-slate-200 text-slate-600 transition shadow-2xs flex items-center gap-1 text-[11px] font-bold">
+            <i data-lucide="shuffle" class="w-3.5 h-3.5 text-deepNavy"></i>
+            <span class="hidden sm:inline">シャッフル</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- 3D FLIP FLASHCARD CONTAINER -->
+      <div class="perspective-1000 flex-1 min-h-[350px] flex items-center justify-center my-1 cursor-pointer relative select-none" onclick="flipCard()">
+        <!-- Swipe Feedback Badges -->
+        <div id="swipeBadgeReview" class="swipe-badge-review">もう一回！ ⟲</div>
+        <div id="swipeBadgeLearned" class="swipe-badge-learned">覚えた！ ✓</div>
+
+        <!-- THE 3D CARD -->
+        <div id="flashcardElement" class="relative w-full h-[370px] rounded-3xl transition-transform duration-500 transform-style-3d shadow-md border-2 border-coralPink bg-white select-none">
+          
+          <!-- ================= FRONT FACE ================= -->
+          <div id="cardFront" class="absolute inset-0 w-full h-full rounded-3xl p-5 bg-white flex flex-col justify-between backface-hidden">
+            <div class="flex items-center justify-between">
+              <span id="frontCatBadge" class="text-xs px-2.5 py-0.5 rounded-full font-bold bg-lightBlueBg text-deepNavy">名詞(1文字)</span>
+              <button onclick="event.stopPropagation(); speakWord()" class="p-2.5 rounded-full bg-deepNavy text-white shadow-sm hover:opacity-90 active:scale-95 transition" title="音声を発音">
+                <i data-lucide="volume-2" class="w-5 h-5"></i>
+              </button>
+            </div>
+
+            <!-- Front Center Content -->
+            <div class="my-auto text-center px-2">
+              <p id="frontReading" class="text-base sm:text-lg font-bold text-coralPink tracking-wider mb-1 font-jp min-h-[1.5rem]">あな</p>
+              <h2 id="frontWord" class="text-4xl sm:text-5xl font-extrabold text-darkNavyText tracking-tight leading-snug font-jp select-text">穴</h2>
+              <p class="text-xs text-slate-400 mt-3">タップして意味・例文を確認 ⟳</p>
+            </div>
+
+            <div class="text-center">
+              <span class="inline-flex items-center text-[11px] text-slate-400 space-x-1">
+                <i data-lucide="rotate-cw" class="w-3 h-3"></i>
+                <span>タップで裏返す</span>
+              </span>
+            </div>
+          </div>
+
+          <!-- ================= BACK FACE ================= -->
+          <div id="cardBack" class="absolute inset-0 w-full h-full rounded-3xl p-5 bg-white flex flex-col justify-between rotate-y-180 backface-hidden overflow-y-auto no-scrollbar border-2 border-deepNavy">
+            <div class="flex items-center justify-between pb-1.5 border-b border-slate-100">
+              <div>
+                <span id="backCatBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-lightBlueBg text-deepNavy">名詞(1文字)</span>
+                <span id="backWordHeader" class="text-sm font-bold text-darkNavyText ml-1.5 font-jp">穴</span>
+                <span id="backReadingHeader" class="text-xs text-slate-400 ml-1 font-jp">（あな）</span>
+              </div>
+              <button onclick="event.stopPropagation(); speakWord()" class="p-2 rounded-full bg-slate-100 text-deepNavy hover:bg-slate-200 active:scale-95 transition" title="音声を発音">
+                <i data-lucide="volume-2" class="w-4 h-4"></i>
+              </button>
+            </div>
+
+            <!-- Meaning Section -->
+            <div class="my-2">
+              <span class="text-[10px] font-bold uppercase tracking-wider text-deepNavy block mb-0.5">意味・解説 (Meaning)</span>
+              <p id="backMeaning" class="text-lg font-extrabold text-darkNavyText leading-snug">hole</p>
+            </div>
+
+            <!-- Example Section with Ruby -->
+            <div class="p-3 rounded-2xl bg-lightBlueBg/40 border border-softBorder my-1 text-left select-text" onclick="event.stopPropagation()">
+              <div class="flex items-center justify-between mb-1">
+                <span class="text-[10px] font-bold text-deepNavy flex items-center space-x-1">
+                  <i data-lucide="message-square" class="w-3.5 h-3.5 text-deepNavy"></i>
+                  <span>実戦例文 (Example)</span>
+                </span>
+                <button onclick="speakExample()" class="p-1 rounded-full text-deepNavy hover:bg-white/60 active:scale-95 transition" title="例文の音声">
+                  <i data-lucide="volume-2" class="w-4 h-4"></i>
+                </button>
+              </div>
+              <p id="backExampleJa" class="text-sm font-bold text-slate-800 leading-relaxed font-jp mb-1 select-text">
+                <ruby>彼<rt>かれ</rt></ruby>は<ruby>穴<rt>あな</rt></ruby>を<ruby>掘<rt>ほ</rt></ruby>った。
+              </p>
+              <p id="backExampleEn" class="text-xs text-slate-500 leading-normal border-t border-slate-200/60 pt-1 mt-1 font-sans select-text">
+                He dug a hole.
+              </p>
+            </div>
+
+            <div class="text-center pt-1">
+              <span class="text-[10px] text-slate-400">タップして表面に戻す</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- BOTTOM CONTROL BUTTONS -->
+      <div class="mt-3 flex items-center justify-between gap-2">
+        <!-- Prev Button -->
+        <button id="btnPrev" onclick="prevCard()" class="flex-1 md:flex-none py-3 px-4 rounded-full bg-white border border-softBorder hover:border-deepNavy text-darkNavyText font-bold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm">
+          <i data-lucide="chevron-left" class="w-4 h-4"></i>
+          <span>前の単語 [←]</span>
+        </button>
+
+        <!-- もう一度！ (Review Button) -->
+        <button onclick="markCard(false)" class="flex-1 py-3 px-3 rounded-full bg-amber-50 hover:bg-amber-100 border-2 border-amber-400 text-amber-800 font-extrabold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm" title="もう一度復習する [1]">
+          <i data-lucide="rotate-ccw" class="w-4 h-4 text-amber-600"></i>
+          <span>もう一回！</span>
+        </button>
+
+        <!-- 覚えた！ (Learned Button) -->
+        <button onclick="markCard(true)" class="flex-1 py-3 px-3 rounded-full bg-emerald-50 hover:bg-emerald-100 border-2 border-emerald-500 text-emerald-800 font-extrabold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm" title="覚えた！ [2]">
+          <i data-lucide="check" class="w-4 h-4 text-emerald-600"></i>
+          <span>覚えた！</span>
+        </button>
+
+        <!-- Next Button -->
+        <button id="btnNext" onclick="nextCard()" class="flex-1 md:flex-none py-3 px-4 rounded-full bg-coralPink hover:bg-coralPinkHover text-white font-bold flex items-center justify-center space-x-1 transition shadow-xs active:scale-95 text-xs sm:text-sm">
+          <span>次の単語 [→]</span>
+          <i data-lucide="chevron-right" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- MOBILE CATEGORY DRAWER MODAL -->
+  <div id="mobileDrawer" class="fixed inset-0 bg-black/40 backdrop-blur-xs z-50 hidden" onclick="closeMobileDrawerOnBg(event)">
+    <div class="absolute bottom-0 inset-x-0 bg-white rounded-t-3xl max-h-[80vh] flex flex-col p-4 shadow-2xl">
+      <div class="flex items-center justify-between pb-2 border-b border-slate-100">
+        <h3 class="font-extrabold text-sm text-darkNavyText">カテゴリを選択 (全25カテゴリ)</h3>
+        <button onclick="closeMobileDrawer()" class="p-1 rounded-full text-slate-400 hover:text-slate-600">✕</button>
+      </div>
+      <div class="flex-1 overflow-y-auto py-2 space-y-1" id="mobileCategoriesContainer">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST NOTIFICATION -->
+  <div id="toast" class="toast">マイリストに保存しました！</div>
+
+  <!-- FOOTER -->
+  <footer class="py-3 text-center text-xs text-slate-400 border-t border-slate-200/60 bg-white">
+    JLPT N2 Vocabulary Master Flashcards &bull; Authentic Pedagogical Standard
+  </footer>
+
+  <!-- AUTH, USER PROGRESS & DATABASE SCRIPTS -->
+  <script src="auth.js"></script>
+  <script src="user_progress.js"></script>
+  <script src="database/jlpt_n2_vocab_full_data.js"></script>
+
+  <!-- FLASHCARD APPLICATION LOGIC -->
+  <script>
+  (function() {
+    const categories = window.JLPT_N2_VOCAB_CATEGORIES || [];
+    const allWords = window.JLPT_N2_VOCAB_DATA || [];
+
+    let currentCatId = 1;
+    let currentUnitIdx = 0; // 0 = all, 1 = Unit 1 (1-50), etc.
+    let filterMode = 'all'; // 'all' or 'starred'
+    let currentDeck = [];
+    let currentIndex = 0;
+    let isFlipped = false;
+    let isFuriganaOn = true;
+
+    // Elements
+    const cardEl = document.getElementById('flashcardElement');
+    const frontCatBadge = document.getElementById('frontCatBadge');
+    const frontReading = document.getElementById('frontReading');
+    const frontWord = document.getElementById('frontWord');
+    const backCatBadge = document.getElementById('backCatBadge');
+    const backWordHeader = document.getElementById('backWordHeader');
+    const backReadingHeader = document.getElementById('backReadingHeader');
+    const backMeaning = document.getElementById('backMeaning');
+    const backExampleJa = document.getElementById('backExampleJa');
+    const backExampleEn = document.getElementById('backExampleEn');
+    const cardProgressText = document.getElementById('cardProgressText');
+    const cardProgressPercent = document.getElementById('cardProgressPercent');
+    const btnStarCurrent = document.getElementById('btnStarCurrent');
+    const toast = document.getElementById('toast');
+
+    // Storage for starred words & learned status
+    function getStarredWords() {
+      try {
+        if (typeof UserProgress !== 'undefined') {
+          return UserProgress.getSavedVocabList().map(v => v.word);
+        }
+        return JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      } catch(e) {
+        return [];
+      }
+    }
+
+    function isWordStarred(word) {
+      return getStarredWords().includes(word);
+    }
+
+    function showToast(msg) {
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+
+    // Init Sidebar Categories
+    function renderSidebar() {
+      const container = document.getElementById('categoriesListContainer');
+      const mobileContainer = document.getElementById('mobileCategoriesContainer');
+      if (!container) return;
+
+      container.innerHTML = '';
+      if (mobileContainer) mobileContainer.innerHTML = '';
+
+      let lastGroup = '';
+
+      categories.forEach(cat => {
+        if (cat.group !== lastGroup) {
+          lastGroup = cat.group;
+          const grpHeader = document.createElement('div');
+          grpHeader.className = 'category-group-header';
+          grpHeader.textContent = cat.group;
+          container.appendChild(grpHeader);
+
+          if (mobileContainer) {
+            const mHeader = grpHeader.cloneNode(true);
+            mobileContainer.appendChild(mHeader);
+          }
+        }
+
+        const btn = document.createElement('button');
+        btn.className = `cat-btn ${cat.id === currentCatId ? 'active' : ''}`;
+        btn.id = `cat-btn-${cat.id}`;
+        btn.onclick = () => selectCategory(cat.id);
+        btn.innerHTML = `
+          <span>${cat.id}. ${cat.short}</span>
+          <span class="badge">${cat.count}語</span>
+        `;
+        container.appendChild(btn);
+
+        if (mobileContainer) {
+          const mBtn = btn.cloneNode(true);
+          mBtn.onclick = () => {
+            selectCategory(cat.id);
+            closeMobileDrawer();
+          };
+          mobileContainer.appendChild(mBtn);
+        }
+      });
+    }
+
+    function selectCategory(catId) {
+      currentCatId = catId;
+      currentUnitIdx = 0;
+      updateActiveCategoryHeader();
+      renderSidebar();
+      renderUnitPills();
+      buildActiveDeck();
+    }
+
+    function updateActiveCategoryHeader() {
+      const cat = categories.find(c => c.id === currentCatId);
+      if (!cat) return;
+      document.getElementById('currentGroupBadge').textContent = cat.group.split(' ')[0];
+      document.getElementById('currentCategoryTitle').textContent = `${cat.id}. ${cat.name} (${cat.count}語)`;
+    }
+
+    // Unit Pills (Chunking into units of 50 words)
+    function renderUnitPills() {
+      const container = document.getElementById('unitPillsContainer');
+      if (!container) return;
+      container.innerHTML = '';
+
+      const catWords = allWords.filter(w => w.cat_id === currentCatId);
+      const totalWords = catWords.length;
+      const unitSize = 50;
+      const numUnits = Math.ceil(totalWords / unitSize);
+
+      // "All" pill
+      const allPill = document.createElement('button');
+      allPill.className = `unit-pill ${currentUnitIdx === 0 ? 'active' : ''}`;
+      allPill.textContent = `全${totalWords}語`;
+      allPill.onclick = () => selectUnit(0);
+      container.appendChild(allPill);
+
+      if (numUnits > 1) {
+        for (let i = 1; i <= numUnits; i++) {
+          const start = (i - 1) * unitSize + 1;
+          const end = Math.min(i * unitSize, totalWords);
+          const pill = document.createElement('button');
+          pill.className = `unit-pill ${currentUnitIdx === i ? 'active' : ''}`;
+          pill.textContent = `Unit ${i} (${start}〜${end})`;
+          pill.onclick = () => selectUnit(i);
+          container.appendChild(pill);
+        }
+      }
+    }
+
+    function selectUnit(unitIdx) {
+      currentUnitIdx = unitIdx;
+      renderUnitPills();
+      buildActiveDeck();
+    }
+
+    // Build the Active Deck based on category, unit, filter, and search
+    function buildActiveDeck() {
+      let pool = allWords.filter(w => w.cat_id === currentCatId);
+
+      // Unit filter
+      if (currentUnitIdx > 0) {
+        const unitSize = 50;
+        const start = (currentUnitIdx - 1) * unitSize;
+        pool = pool.slice(start, start + unitSize);
+      }
+
+      // Starred filter
+      if (filterMode === 'starred') {
+        const starred = getStarredWords();
+        pool = pool.filter(w => starred.includes(w.word));
+      }
+
+      currentDeck = pool;
+      currentIndex = 0;
+      isFlipped = false;
+      renderCard();
+    }
+
+    // Render current flashcard
+    function renderCard() {
+      if (cardEl.classList.contains('rotate-y-180')) {
+        cardEl.classList.remove('rotate-y-180');
+      }
+      isFlipped = false;
+
+      if (!currentDeck || currentDeck.length === 0) {
+        frontCatBadge.textContent = 'なし';
+        frontReading.textContent = '';
+        frontWord.textContent = filterMode === 'starred' ? 'マイリストに単語がありません' : '該当する単語がありません';
+        cardProgressText.textContent = '0 / 0';
+        cardProgressPercent.textContent = '(0%)';
+        return;
+      }
+
+      const item = currentDeck[currentIndex];
+      const isStarred = isWordStarred(item.word);
+
+      // Front
+      frontCatBadge.textContent = item.cat_short || item.cat_name;
+      frontReading.textContent = (item.reading && item.reading !== item.word) ? item.reading : '';
+      frontWord.innerHTML = item.ruby || item.word;
+
+      // Back
+      backCatBadge.textContent = item.cat_short || item.cat_name;
+      backWordHeader.textContent = item.word;
+      backReadingHeader.textContent = (item.reading && item.reading !== item.word) ? `（${item.reading}）` : '';
+      backMeaning.textContent = item.meaning || '';
+      backExampleJa.innerHTML = item.ex_ja || '';
+      backExampleEn.textContent = item.ex_en || '';
+
+      // Progress
+      cardProgressText.textContent = `${currentIndex + 1} / ${currentDeck.length}`;
+      const pct = Math.round(((currentIndex + 1) / currentDeck.length) * 100);
+      cardProgressPercent.textContent = `(${pct}%)`;
+
+      // Star button state
+      btnStarCurrent.classList.toggle('text-amber-500', isStarred);
+      btnStarCurrent.classList.toggle('fill-amber-500', isStarred);
+      btnStarCurrent.classList.toggle('text-slate-300', !isStarred);
+    }
+
+    // Card interactions
+    window.flipCard = function() {
+      if (!currentDeck || currentDeck.length === 0) return;
+      isFlipped = !isFlipped;
+      cardEl.classList.toggle('rotate-y-180', isFlipped);
+    };
+
+    window.prevCard = function() {
+      if (currentDeck.length === 0) return;
+      currentIndex = (currentIndex - 1 + currentDeck.length) % currentDeck.length;
+      renderCard();
+    };
+
+    window.nextCard = function() {
+      if (currentDeck.length === 0) return;
+      currentIndex = (currentIndex + 1) % currentDeck.length;
+      renderCard();
+    };
+
+    window.markCard = function(known) {
+      if (currentDeck.length === 0) return;
+      const badge = document.getElementById(known ? 'swipeBadgeLearned' : 'swipeBadgeReview');
+      if (badge) {
+        badge.style.opacity = '1';
+        setTimeout(() => badge.style.opacity = '0', 400);
+      }
+      setTimeout(() => nextCard(), 180);
+    };
+
+    window.shuffleActiveDeck = function() {
+      if (currentDeck.length === 0) return;
+      for (let i = currentDeck.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [currentDeck[i], currentDeck[j]] = [currentDeck[j], currentDeck[i]];
+      }
+      currentIndex = 0;
+      renderCard();
+      showToast('単語をシャッフルしました 🎲');
+    };
+
+    window.setFilterMode = function(mode) {
+      filterMode = mode;
+      document.getElementById('btnFilterAll').className = `px-2.5 py-0.5 rounded-full ${mode === 'all' ? 'bg-deepNavy text-white' : 'text-slate-600'} font-bold text-[11px] transition`;
+      document.getElementById('btnFilterStarred').className = `px-2.5 py-0.5 rounded-full ${mode === 'starred' ? 'bg-deepNavy text-white' : 'text-slate-600'} font-bold text-[11px] transition flex items-center gap-1`;
+      buildActiveDeck();
+    };
+
+    window.toggleCurrentWordStar = function() {
+      if (currentDeck.length === 0) return;
+      const item = currentDeck[currentIndex];
+      const isStarred = isWordStarred(item.word);
+
+      if (isStarred) {
+        if (typeof UserProgress !== 'undefined') {
+          UserProgress.removeSavedVocab(item.word);
+        }
+        try {
+          let list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+          list = list.filter(w => w !== item.word);
+          localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(list));
+        } catch(e) {}
+        showToast(`「${item.word}」をマイリストから削除しました`);
+      } else {
+        if (typeof UserProgress !== 'undefined') {
+          UserProgress.toggleSaveVocab({
+            word: item.word,
+            reading: item.reading,
+            meaning: item.meaning,
+            level: 'N2語彙'
+          });
+        }
+        try {
+          let list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+          if (!list.includes(item.word)) list.push(item.word);
+          localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(list));
+        } catch(e) {}
+        showToast(`「${item.word}」をマイリストに追加しました！⭐`);
+      }
+
+      renderCard();
+    };
+
+    // Furigana ON/OFF
+    window.toggleFurigana = function() {
+      isFuriganaOn = !isFuriganaOn;
+      const pill = document.getElementById('furiganaTogglePill');
+      if (isFuriganaOn) {
+        document.body.classList.remove('furigana-off');
+        pill.classList.add('active');
+      } else {
+        document.body.classList.add('furigana-off');
+        pill.classList.remove('active');
+      }
+    };
+
+    // Speech Audio TTS
+    window.speakWord = function() {
+      if (!currentDeck || currentDeck.length === 0) return;
+      const item = currentDeck[currentIndex];
+      const textToSpeak = item.word.replace(/（する）/g, 'する').split('/')[0].trim();
+      speakText(textToSpeak);
+    };
+
+    window.speakExample = function() {
+      if (!currentDeck || currentDeck.length === 0) return;
+      const item = currentDeck[currentIndex];
+      const plainText = (item.ex_ja || '').replace(/<[^>]+>/g, '');
+      speakText(plainText);
+    };
+
+    function speakText(txt) {
+      if (!('speechSynthesis' in window)) return;
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(txt);
+      u.lang = 'ja-JP';
+      u.rate = 0.95;
+      window.speechSynthesis.speak(u);
+    }
+
+    // Search
+    window.handleSearch = function(query) {
+      const q = query.trim().toLowerCase();
+      if (!q) {
+        buildActiveDeck();
+        return;
+      }
+      currentDeck = allWords.filter(w => 
+        w.word.toLowerCase().includes(q) || 
+        w.reading.toLowerCase().includes(q) || 
+        w.meaning.toLowerCase().includes(q)
+      );
+      currentIndex = 0;
+      renderCard();
+    };
+
+    // Mobile Drawer
+    window.toggleMobileDrawer = function() {
+      document.getElementById('mobileDrawer').classList.toggle('hidden');
+    };
+    window.closeMobileDrawer = function() {
+      document.getElementById('mobileDrawer').classList.add('hidden');
+    };
+    window.closeMobileDrawerOnBg = function(e) {
+      if (e.target.id === 'mobileDrawer') closeMobileDrawer();
+    };
+
+    // Keyboard Shortcuts
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'INPUT') return;
+      if (e.key === 'ArrowRight') {
+        nextCard();
+      } else if (e.key === 'ArrowLeft') {
+        prevCard();
+      } else if (e.key === ' ' || e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        flipCard();
+      } else if (e.key === '1') {
+        markCard(false);
+      } else if (e.key === '2') {
+        markCard(true);
+      }
+    });
+
+    // Touch Swipe Detection
+    let touchStartX = 0;
+    let touchStartY = 0;
+    const cardContainer = document.querySelector('.perspective-1000');
+    if (cardContainer) {
+      cardContainer.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+        touchStartY = e.changedTouches[0].screenY;
+      }, { passive: true });
+
+      cardContainer.addEventListener('touchend', e => {
+        const dx = e.changedTouches[0].screenX - touchStartX;
+        const dy = e.changedTouches[0].screenY - touchStartY;
+        if (Math.abs(dx) > 50 && Math.abs(dy) < 60) {
+          if (dx < 0) nextCard();
+          else prevCard();
+        }
+      }, { passive: true });
+    }
+
+    // Initialize
+    renderSidebar();
+    updateActiveCategoryHeader();
+    renderUnitPills();
+    buildActiveDeck();
+
+    // Render Lucide icons
+    if (window.lucide) {
+      window.lucide.createIcons();
+    }
+  })();
+  </script>
+
+</body>
+</html>
