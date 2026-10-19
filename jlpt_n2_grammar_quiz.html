@@ -897,14 +897,242 @@
     color: var(--text-primary);
   }
 
-  /* Footer */
-  .site-footer {
+  /* Result & Review View */
+  .result-view {
+    background: var(--card-bg);
+    border-radius: 24px;
+    border: 1.5px solid var(--sakura-pink-border);
+    padding: 38px 30px;
+    box-shadow: var(--card-shadow);
+    animation: fadeIn 0.3s ease;
+  }
+  .result-hero {
     text-align: center;
-    padding: 22px 20px;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }
+  .result-score-big {
+    font-size: 3.8rem;
+    font-weight: 800;
+    color: var(--primary-blue);
+    line-height: 1;
+    margin: 14px 0 6px;
+  }
+  .result-eval-badge {
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13.5px;
+    font-weight: 800;
+    margin-bottom: 14px;
+  }
+  .result-eval-badge.gold {
+    background: #FEF3C7;
+    color: #92400E;
+    border: 1px solid #FCD34D;
+  }
+  .result-eval-badge.pass {
+    background: #E8F5E9;
+    color: #2E7D32;
+    border: 1px solid #A5D6A7;
+  }
+  .result-eval-badge.retry {
+    background: #FFF0F3;
+    color: #B8596E;
+    border: 1px solid #F2D5DB;
+  }
+  .result-actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+  }
+  .btn-retry-wrong {
+    background: linear-gradient(135deg, #B8596E 0%, #8E3A4F 100%);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(184, 89, 110, 0.28);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-wrong:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(184, 89, 110, 0.38);
+  }
+  .btn-retry-all {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(70, 130, 151, 0.25);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-all:hover {
+    background: var(--primary-blue-dark);
+    transform: translateY(-2px);
+  }
+  .btn-return-portal {
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    border: 1.5px solid var(--primary-blue-light);
+    padding: 11px 20px;
+    border-radius: 14px;
+    font-size: 0.92rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+  }
+  .btn-return-portal:hover {
+    background: white;
+  }
+
+  /* Review Section */
+  .review-section {
+    margin-top: 36px;
+    padding-top: 28px;
+    border-top: 1.5px dashed var(--sakura-pink-border);
+  }
+  .review-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .review-filter-group {
+    display: flex;
+    gap: 6px;
+    background: var(--sakura-pink-soft);
+    padding: 4px;
+    border-radius: 12px;
+    border: 1px solid var(--sakura-pink-border);
+  }
+  .rev-filter-btn {
+    border: none;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 8px;
     font-size: 12.5px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .rev-filter-btn.active {
+    background: white;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 6px rgba(70, 130, 151, 0.12);
+  }
+  .review-cards-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .rev-card {
+    background: white;
+    border: 1.5px solid var(--card-border);
+    border-radius: 18px;
+    padding: 20px 22px;
+    transition: all 0.2s;
+  }
+  .rev-card.is-wrong {
+    border-color: #F8B4C0;
+    background: #FFFDFD;
+  }
+  .rev-card.is-correct {
+    border-color: #C8E6C9;
+    background: #FAFCFA;
+  }
+  .rev-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  .rev-tag-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 3px 12px;
+    border-radius: 20px;
+  }
+  .rev-tag-status.correct {
+    background: var(--correct-bg);
+    color: var(--correct-text);
+    border: 1px solid var(--correct-border);
+  }
+  .rev-tag-status.wrong {
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+    border: 1px solid var(--wrong-border);
+  }
+  .rev-sentence {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 2.1;
+    color: var(--text-primary);
+    margin-bottom: 14px;
+  }
+  .rev-choice-comparison {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: var(--sakura-pink-soft);
+    font-size: 13.5px;
+    margin-bottom: 12px;
+  }
+  .rev-row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .rev-row-label {
+    min-width: 75px;
+    font-size: 11.5px;
+    font-weight: 800;
     color: var(--text-muted);
-    border-top: 1px solid var(--sakura-pink-border);
-    background: rgba(255, 255, 255, 0.6);
+  }
+  .rev-row-val.wrong {
+    color: var(--wrong-text);
+    font-weight: 700;
+    text-decoration: line-through;
+  }
+  .rev-row-val.correct {
+    color: var(--correct-text);
+    font-weight: 800;
+  }
+  .rev-exp-box {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    padding: 10px 14px;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid var(--card-border);
   }
 </style>
 </head>
@@ -962,7 +1190,10 @@
     </div>
 
     <!-- 前回の続きから再開ボタン -->
-    <div style="display:flex; align-items:center; gap:8px;">
+    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+      <a href="jlpt_practice.html" class="header-btn" style="text-decoration:none; padding:6px 14px; border-radius:20px; font-size:12px; font-weight:700;" title="演習を終了してJLPTポータルへ戻る">
+        ← 終了して戻る
+      </a>
       <button id="btnResume" class="resume-btn" style="display:none;" title="前回の学習の続きから再開します">
         ▶ 前回の続きからする (<span id="resumeQuestionNum">1</span>問目〜)
       </button>
@@ -1060,6 +1291,49 @@
     <button class="nav-btn primary" id="nextBtn">
       次へ行く →
     </button>
+  </div>
+
+  <!-- Result View (スコア・復習・答え一覧) -->
+  <div class="result-view" id="resultView" style="display:none;">
+    <div class="result-hero">
+      <div style="font-size:46px; margin-bottom:10px;">🏆</div>
+      <h2 style="font-size:26px; font-weight:800; color:var(--text-primary); margin-bottom:6px;">演習完了！お疲れ様でした</h2>
+      <div class="result-eval-badge gold" id="resultEvalBadge">🌟 素晴らしい結果です！</div>
+      <div class="result-score-big" id="resultScorePct">80%</div>
+      <p style="font-size:16px; font-weight:700; color:var(--text-secondary);" id="resultScoreText">10問中 8問正解</p>
+      
+      <div class="result-actions">
+        <button class="btn-retry-wrong" id="btnRetryWrong" style="display:none;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+          <span>間違えた問題だけを復習 (<span id="resultWrongCount">0</span>問)</span>
+        </button>
+        <button class="btn-retry-all" id="btnRetryAll">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
+          <span>もう一度解く</span>
+        </button>
+        <a href="jlpt_practice.html" class="btn-return-portal">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+          <span>演習ポータルへ戻る</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Review Section -->
+    <div class="review-section" id="reviewSection">
+      <div class="review-header-row">
+        <h3 style="font-size:18px; font-weight:800; color:var(--primary-blue-dark); display:flex; align-items:center; gap:8px;">
+          <span>📋 解答・解説一覧（復習リスト）</span>
+        </h3>
+        <div class="review-filter-group">
+          <button class="rev-filter-btn active" data-filter="all" id="tabFilterAll">すべて (<span id="badgeCountAll">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="wrong" id="tabFilterWrong">❌ 不正解 (<span id="badgeCountWrong">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="correct" id="tabFilterCorrect">✓ 正解 (<span id="badgeCountCorrect">0</span>)</button>
+        </div>
+      </div>
+      <div class="review-cards-list" id="reviewCardsContainer">
+        <!-- Dynamically rendered review cards -->
+      </div>
+    </div>
   </div>
 </main>
 
@@ -1348,6 +1622,8 @@
     if (currentIndex < filteredIndices.length - 1) {
       currentIndex++;
       renderQuestion();
+    } else {
+      showGrammarResultView();
     }
   });
 
@@ -1466,7 +1742,13 @@
 
     // Nav Buttons State
     prevBtn.disabled = (currentIndex === 0);
-    nextBtn.disabled = (currentIndex === filteredIndices.length - 1);
+    if (currentIndex === filteredIndices.length - 1) {
+      nextBtn.textContent = '結果を見る 🏆';
+      nextBtn.disabled = false;
+    } else {
+      nextBtn.textContent = '次へ行く →';
+      nextBtn.disabled = false;
+    }
   }
 
   function handleChoiceSelect(realIndex, selectedIdx) {
@@ -1641,6 +1923,205 @@
     const url = `dictionary.html?search=${encodeURIComponent(activeModalTerm)}`;
     window.open(url, '_blank');
   });
+
+  // Result View Elements
+  const resultView = document.getElementById('resultView');
+  const questionCard = document.querySelector('.question-card');
+  const navBar = document.querySelector('.nav-bar');
+  const controlBar = document.querySelector('.control-bar');
+  const progressWrap = document.querySelector('.progress-wrap');
+
+  const resultEvalBadge = document.getElementById('resultEvalBadge');
+  const resultScorePct = document.getElementById('resultScorePct');
+  const resultScoreText = document.getElementById('resultScoreText');
+  const btnRetryWrong = document.getElementById('btnRetryWrong');
+  const resultWrongCount = document.getElementById('resultWrongCount');
+  const btnRetryAll = document.getElementById('btnRetryAll');
+  const reviewCardsContainer = document.getElementById('reviewCardsContainer');
+  const badgeCountAll = document.getElementById('badgeCountAll');
+  const badgeCountWrong = document.getElementById('badgeCountWrong');
+  const badgeCountCorrect = document.getElementById('badgeCountCorrect');
+
+  let grammarReviewFilter = 'all';
+
+  function showGrammarResultView() {
+    questionCard.style.display = 'none';
+    navBar.style.display = 'none';
+    controlBar.style.display = 'none';
+    progressWrap.style.display = 'none';
+    resultView.style.display = 'block';
+
+    const total = filteredIndices.length;
+    let correctCount = 0;
+    const wrongList = [];
+
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (ans && ans.isCorrect) {
+        correctCount++;
+      } else {
+        wrongList.push(dataIdx);
+      }
+    });
+
+    const pct = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+    resultScorePct.textContent = `${pct}%`;
+    resultScoreText.textContent = `${total}問中 ${correctCount}問正解 (正解: ${correctCount} / 不正解: ${total - correctCount})`;
+
+    if (pct === 100) {
+      resultEvalBadge.className = 'result-eval-badge gold';
+      resultEvalBadge.textContent = '🌟 パーフェクト達成！全問正解です！';
+    } else if (pct >= 80) {
+      resultEvalBadge.className = 'result-eval-badge pass';
+      resultEvalBadge.textContent = '🎉 合格ライン突破！素晴らしい理解度です！';
+    } else if (pct >= 60) {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '👍 あと少し！間違えた問題を復習して弱点を克服しよう！';
+    } else {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '💪 復習タイム！間違えた問題をじっくり確認しましょう！';
+    }
+
+    if (wrongList.length > 0) {
+      resultWrongCount.textContent = wrongList.length;
+      btnRetryWrong.style.display = 'inline-flex';
+    } else {
+      btnRetryWrong.style.display = 'none';
+    }
+
+    renderGrammarReviewCards(grammarReviewFilter);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function hideGrammarResultView() {
+    resultView.style.display = 'none';
+    questionCard.style.display = 'block';
+    navBar.style.display = 'flex';
+    controlBar.style.display = 'flex';
+    progressWrap.style.display = 'block';
+  }
+
+  btnRetryWrong.addEventListener('click', () => {
+    const wrongList = [];
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+    if (wrongList.length === 0) return;
+    filteredIndices = wrongList;
+    currentIndex = 0;
+    hideGrammarResultView();
+    renderQuestion();
+    showToast(`間違えた ${wrongList.length} 問の復習を開始します！`);
+  });
+
+  btnRetryAll.addEventListener('click', () => {
+    filteredIndices.forEach((dataIdx) => {
+      delete userStats.answers[dataIdx];
+    });
+    currentIndex = 0;
+    hideGrammarResultView();
+    renderQuestion();
+    showToast('最初から解き直します！');
+  });
+
+  document.querySelectorAll('.rev-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.rev-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      grammarReviewFilter = btn.dataset.filter;
+      renderGrammarReviewCards(grammarReviewFilter);
+    });
+  });
+
+  function renderGrammarReviewCards(filter) {
+    if (!reviewCardsContainer) return;
+    reviewCardsContainer.innerHTML = '';
+
+    const wrongList = [];
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+
+    const total = filteredIndices.length;
+    const countWrong = wrongList.length;
+    const countCorrect = total - countWrong;
+
+    if (badgeCountAll) badgeCountAll.textContent = total;
+    if (badgeCountWrong) badgeCountWrong.textContent = countWrong;
+    if (badgeCountCorrect) badgeCountCorrect.textContent = countCorrect;
+
+    filteredIndices.forEach((dataIdx, qIdx) => {
+      const q = data[dataIdx];
+      const ans = userStats.answers[dataIdx];
+      const isCorrect = ans && ans.isCorrect;
+
+      if (filter === 'wrong' && isCorrect) return;
+      if (filter === 'correct' && !isCorrect) return;
+
+      const card = document.createElement('div');
+      card.className = `rev-card ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+
+      const choices = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+      const userSelectedText = (ans && ans.selected !== undefined && choices[ans.selected]) ? choices[ans.selected] : '未回答';
+      const correctText = choices[q.answer] || q.correct_text;
+
+      const statusTag = isCorrect
+        ? `<span class="rev-tag-status correct"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg> 正解</span>`
+        : `<span class="rev-tag-status wrong"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> 不正解</span>`;
+
+      const fullSentenceHtml = q.sentence_jp_ruby || q.sentence_jp;
+
+      card.innerHTML = `
+        <div class="rev-card-top">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span style="font-size:12.5px; font-weight:800; color:var(--primary-blue);">問 ${qIdx + 1}</span>
+            <span style="font-size:11px; font-weight:700; background:var(--primary-blue-pale); color:var(--primary-blue-dark); padding:2px 8px; border-radius:10px;">${q.grammar}</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            ${statusTag}
+            <button class="icon-btn" style="width:28px; height:28px; padding:0; background:none; border:none; cursor:pointer;" onclick="window.toggleReviewGrammarBookmark(${q.id}, this)">
+              <span style="font-size:16px; color:${bookmarks.includes(q.id) ? 'var(--sakura-pink-deep)' : 'var(--text-muted)'};">★</span>
+            </button>
+          </div>
+        </div>
+        <div class="rev-sentence">${fullSentenceHtml}</div>
+        <div class="rev-choice-comparison">
+          <div class="rev-row">
+            <span class="rev-row-label">あなたの回答:</span>
+            <span class="rev-row-val ${isCorrect ? 'correct' : 'wrong'}">${userSelectedText}</span>
+          </div>
+          ${!isCorrect ? `
+          <div class="rev-row">
+            <span class="rev-row-label">正解:</span>
+            <span class="rev-row-val correct">${correctText}</span>
+          </div>` : ''}
+        </div>
+        <div class="rev-exp-box">
+          <div style="font-weight:700; color:var(--primary-blue); margin-bottom:4px;">💡 文法意味: ${q.grammar} ${q.reading ? `(${q.reading})` : ''}</div>
+          <div>${q.meaning_en || ''}</div>
+          ${q.sentence_en ? `<div style="margin-top:4px; font-style:italic; color:var(--text-secondary);">${q.sentence_en}</div>` : ''}
+        </div>
+      `;
+
+      reviewCardsContainer.appendChild(card);
+    });
+  }
+
+  window.toggleReviewGrammarBookmark = function(qid, btn) {
+    const pos = bookmarks.indexOf(qid);
+    if (pos >= 0) {
+      bookmarks.splice(pos, 1);
+      btn.querySelector('span').style.color = 'var(--text-muted)';
+      showToast('マイリストから解除しました');
+    } else {
+      bookmarks.push(qid);
+      btn.querySelector('span').style.color = 'var(--sakura-pink-deep)';
+      showToast('マイリストに保存しました！★');
+    }
+    localStorage.setItem('jlpt_n2_bookmarks', JSON.stringify(bookmarks));
+  };
 
   // Initial Render
   renderQuestion();
