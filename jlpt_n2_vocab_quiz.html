@@ -83,6 +83,29 @@
     display: none !important;
   }
 
+  /* Anti-spoiler for Kanji Reading questions */
+  .target-reading-spoiler {
+    display: none !important;
+  }
+  #questionSentence.revealed .target-reading-spoiler,
+  .rev-sentence .target-reading-spoiler {
+    display: inline-block !important;
+    color: var(--primary-blue-dark);
+    font-weight: 800;
+  }
+  .target-word {
+    color: var(--primary-blue-dark);
+    font-weight: 800;
+    border-bottom: 2px dashed var(--primary-blue);
+    padding-bottom: 1px;
+  }
+  .pill-reading {
+    font-size: 11px;
+    opacity: 0.82;
+    font-weight: normal;
+    margin-left: 2px;
+  }
+
   /* Header */
   .site-header {
     background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
@@ -689,6 +712,123 @@
     background: var(--primary-blue-pale);
   }
 
+  /* Tag Action Modal Styles */
+  .tag-modal-box {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 420px;
+    width: 92%;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+    text-align: center;
+  }
+  .modal-term-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 2px;
+  }
+  .modal-term-reading {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-weight: 600;
+    margin-bottom: 14px;
+  }
+  .modal-meaning-box {
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    text-align: left;
+  }
+  .modal-meaning-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--primary-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .modal-meaning-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+  .modal-btn-mylist {
+    width: 100%;
+    border: 1.5px solid #F0D488;
+    background: #FFF8E8;
+    color: #8C6500;
+    padding: 13px 16px;
+    border-radius: 14px;
+    font-size: 14.5px;
+    font-weight: 800;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.2s;
+    box-shadow: 0 3px 10px rgba(200,125,24,0.12);
+    margin-bottom: 10px;
+  }
+  .modal-btn-mylist:hover {
+    background: #FFF2D1;
+    transform: translateY(-1px);
+  }
+  .modal-btn-mylist.saved {
+    background: #FFF5DE;
+    color: #B27200;
+    border-color: #F0C760;
+  }
+  .modal-sub-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .modal-sub-btn {
+    border: 1px solid var(--card-border);
+    background: #FFFFFF;
+    color: var(--text-primary);
+    padding: 10px 12px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }
+  .modal-sub-btn:hover {
+    background: var(--primary-blue-pale);
+    border-color: var(--primary-blue);
+    color: var(--primary-blue-dark);
+  }
+  .modal-close-btn {
+    width: 100%;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-secondary);
+    padding: 9px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .modal-close-btn:hover {
+    background: #E8EEF1;
+    color: var(--text-primary);
+  }
+
   /* Toast Notification */
   .toast {
     position: fixed;
@@ -1163,6 +1303,37 @@
   </div>
 </div>
 
+<!-- Action Modal for Word / Tag Details -->
+<div class="modal-overlay" id="tagActionModal">
+  <div class="tag-modal-box">
+    <div class="modal-term-title" id="modalTermTitle">言葉</div>
+    <div class="modal-term-reading" id="modalTermReading">（よみ）</div>
+    
+    <div class="modal-meaning-box">
+      <div class="modal-meaning-label">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        意味・用法
+      </div>
+      <div class="modal-meaning-text" id="modalTermMeaning">意味が登録されていません。</div>
+    </div>
+
+    <button class="modal-btn-mylist" id="btnSaveToMylist">
+      ⭐ マイリストに追加
+    </button>
+
+    <div class="modal-sub-actions">
+      <button class="modal-sub-btn" id="btnSearchDict">
+        📖 辞書で検索
+      </button>
+      <button class="modal-sub-btn" id="btnCopyTerm">
+        📋 コピー
+      </button>
+    </div>
+
+    <button class="modal-close-btn" id="btnCloseModal">✕ 閉じる</button>
+  </div>
+</div>
+
 <!-- Toast -->
 <div class="toast" id="toast"></div>
 
@@ -1393,6 +1564,7 @@
 
     const q = data[activeIndices[currentIndex]];
     cardCategoryName.textContent = q.category;
+    questionSentence.classList.remove('revealed');
     questionSentence.innerHTML = q.question_ruby || q.question;
 
     // Save resume index when user is progressing
@@ -1433,6 +1605,9 @@
     const buttons = choicesGrid.querySelectorAll('.choice-btn');
     const isCorrect = (selectedIndex === q.answer);
 
+    // Reveal target word reading in question sentence
+    questionSentence.classList.add('revealed');
+
     if (isCorrect) {
       correctCount++;
       buttons[selectedIndex].classList.add('correct');
@@ -1460,15 +1635,20 @@
     
     // Generate Similar / Collocation Pills
     similarItems.innerHTML = '';
-    const terms = [q.target_word, q.correct_text].filter(Boolean);
-    terms.forEach(term => {
+    const simList = (q.similar && Array.isArray(q.similar) && q.similar.length > 0)
+      ? q.similar
+      : [{ term: q.target_word || q.correct_text, reading: '', meaning: '' }];
+
+    simList.forEach(item => {
       const pill = document.createElement('span');
       pill.className = 'similar-pill';
-      pill.innerHTML = `🔍 ${term}`;
+      const rPart = (item.reading && item.reading !== item.term)
+        ? `<span class="pill-reading">（${item.reading}）</span>`
+        : '';
+      pill.innerHTML = `🔍 ${item.term}${rPart}`;
       pill.title = '内蔵辞書で検索＆マイリストに保存';
       pill.addEventListener('click', () => {
-        navigator.clipboard.writeText(term);
-        showToast(`「${term}」をコピーしました。マイリストにも追加可能です！`);
+        openTagActionModal(item);
       });
       similarItems.appendChild(pill);
     });
@@ -1480,6 +1660,106 @@
     const scorePct = Math.round((correctCount / answeredCount) * 100);
     scoreText.textContent = `正解率: ${scorePct}% (${correctCount} / ${answeredCount})`;
   }
+
+  // Tag Action Modal Elements & Logic
+  const tagActionModal = document.getElementById('tagActionModal');
+  const modalTermTitle = document.getElementById('modalTermTitle');
+  const modalTermReading = document.getElementById('modalTermReading');
+  const modalTermMeaning = document.getElementById('modalTermMeaning');
+  const btnSaveToMylist = document.getElementById('btnSaveToMylist');
+  const btnSearchDict = document.getElementById('btnSearchDict');
+  const btnCopyTerm = document.getElementById('btnCopyTerm');
+  const btnCloseModal = document.getElementById('btnCloseModal');
+
+  let activeModalTerm = "";
+  let activeModalItem = null;
+
+  function isTermSavedInMylist(term) {
+    try {
+      const list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+      return list.includes(term);
+    } catch(e) {
+      return false;
+    }
+  }
+
+  function updateMylistButton(isSaved) {
+    if (isSaved) {
+      btnSaveToMylist.classList.add('saved');
+      btnSaveToMylist.innerHTML = `⭐ マイリスト保存済み（クリックで解除）`;
+    } else {
+      btnSaveToMylist.classList.remove('saved');
+      btnSaveToMylist.innerHTML = `⭐ マイリストに追加`;
+    }
+  }
+
+  function openTagActionModal(item) {
+    activeModalItem = item;
+    activeModalTerm = item.term;
+    modalTermTitle.textContent = item.term;
+    if (item.reading && item.reading !== item.term) {
+      modalTermReading.textContent = `（${item.reading}）`;
+      modalTermReading.style.display = 'block';
+    } else {
+      modalTermReading.textContent = '';
+      modalTermReading.style.display = 'none';
+    }
+    modalTermMeaning.textContent = item.meaning || '意味・解説が登録されていません。';
+
+    updateMylistButton(isTermSavedInMylist(item.term));
+    tagActionModal.style.display = 'flex';
+  }
+
+  function closeTagActionModal() {
+    tagActionModal.style.display = 'none';
+  }
+
+  btnCloseModal.addEventListener('click', closeTagActionModal);
+  tagActionModal.addEventListener('click', (e) => {
+    if (e.target === tagActionModal) closeTagActionModal();
+  });
+
+  // Action 1: Toggle Save to MyList
+  btnSaveToMylist.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    const isSaved = isTermSavedInMylist(activeModalTerm);
+    try {
+      let customList = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+      if (isSaved) {
+        customList = customList.filter(t => t !== activeModalTerm);
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        updateMylistButton(false);
+        showToast(`「${activeModalTerm}」をマイリストから削除しました`);
+      } else {
+        if (!customList.includes(activeModalTerm)) {
+          customList.push(activeModalTerm);
+        }
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        updateMylistButton(true);
+        showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
+      }
+    } catch(e) {
+      showToast(`保存に失敗しました`);
+    }
+  });
+
+  // Action 2: Copy to Clipboard
+  btnCopyTerm.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    navigator.clipboard.writeText(activeModalTerm).then(() => {
+      showToast(`「${activeModalTerm}」をコピーしました！`);
+    }).catch(() => {
+      showToast(`コピーに失敗しました`);
+    });
+  });
+
+  // Action 3: Search in Built-in Dictionary
+  btnSearchDict.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    closeTagActionModal();
+    const url = `dictionary.html?q=${encodeURIComponent(activeModalTerm)}`;
+    window.open(url, '_blank');
+  });
 
   // Next Button
   btnNext.addEventListener('click', () => {
@@ -1663,11 +1943,24 @@
         <div class="rev-exp-box">
           <strong>【意味】</strong> ${q.meaning_en}<br>
           <strong>【解説】</strong> ${q.explanation}
+          ${q.similar && q.similar.length > 0 ? `
+          <div style="margin-top:10px; display:flex; flex-wrap:wrap; gap:6px;">
+            ${q.similar.map((s, sIdx) => `
+              <span class="similar-pill" onclick="openReviewSimilar(${dataIdx}, ${sIdx})">
+                🔍 ${s.term}${s.reading && s.reading !== s.term ? `<span class="pill-reading">（${s.reading}）</span>` : ''}
+              </span>
+            `).join('')}
+          </div>` : ''}
         </div>
       `;
       reviewCardsContainer.appendChild(card);
     });
   }
+
+  window.openReviewSimilar = function(dataIdx, sIdx) {
+    const item = data[dataIdx] && data[dataIdx].similar ? data[dataIdx].similar[sIdx] : null;
+    if (item) openTagActionModal(item);
+  };
 
   window.speakReviewSentence = function(encoded) {
     speak(decodeURIComponent(encoded));
