@@ -22,27 +22,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しょうめい",
     "meaning_en": "proof; verification",
-    "explanation": "正解は「しょうめい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "証",
+        "onyomi": "ショウ",
+        "kunyomi": "あかし",
+        "meaning": "Evidence, Proof, Certificate"
+      },
+      {
+        "kanji": "明",
+        "onyomi": "メイ・ミョウ・ミン",
+        "kunyomi": "あかり・あかるい・あかるむ・あからむ・あきらか・あける・-あけ・あく・あくる・あかす",
+        "meaning": "Bright, Light"
+      }
+    ],
     "similar": [
       {
-        "term": "証明",
-        "reading": "しょうめい",
-        "meaning": "proof; verification"
+        "term": "保証",
+        "reading": "ほしょう",
+        "meaning": "guarantee; security"
       },
       {
-        "term": "せめい",
-        "reading": "せめい",
-        "meaning": ""
+        "term": "証人",
+        "reading": "しょうにん",
+        "meaning": "witness"
       },
       {
-        "term": "せいめい",
-        "reading": "",
-        "meaning": "姓名[n]full name"
+        "term": "証拠",
+        "reading": "しょうこ",
+        "meaning": "evidence; proof"
       },
       {
-        "term": "しょめい",
-        "reading": "",
-        "meaning": "署名[n|vs]sign"
+        "term": "明い",
+        "reading": "あかるい",
+        "meaning": "bright"
+      },
+      {
+        "term": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow"
       }
     ]
   },
@@ -68,27 +87,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あつめる",
     "meaning_en": "to collect something",
-    "explanation": "正解は「あつめる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "集",
+        "onyomi": "シュウ",
+        "kunyomi": "あつまる・あつめる・つどう",
+        "meaning": "Gather, Meet, Congregate"
+      }
+    ],
     "similar": [
       {
-        "term": "集める",
-        "reading": "あつめる",
-        "meaning": "to collect something"
+        "term": "集る",
+        "reading": "あつまる",
+        "meaning": "to gather"
       },
       {
-        "term": "もとめる",
-        "reading": "",
-        "meaning": "求める[vi]request"
+        "term": "集まり",
+        "reading": "あつまり",
+        "meaning": "gathering; meeting"
       },
       {
-        "term": "まとめる",
-        "reading": "",
-        "meaning": "to put in order, to collect, to bring to a conclusion"
-      },
-      {
-        "term": "おさめる",
-        "reading": "",
-        "meaning": "治める[vi]to calm down"
+        "term": "集中",
+        "reading": "しゅうちゅう",
+        "meaning": "concentration; focusing the mind"
       }
     ]
   },
@@ -114,27 +136,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "しょう",
     "meaning_en": "prize; award",
-    "explanation": "正解は「しょう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "賞",
+        "onyomi": "ショウ",
+        "kunyomi": "ほめる",
+        "meaning": "Prize, Reward, Praise"
+      }
+    ],
     "similar": [
       {
-        "term": "賞",
-        "reading": "しょう",
-        "meaning": "prize; award"
+        "term": "賞品",
+        "reading": "しょうひん",
+        "meaning": "prize; trophy"
       },
       {
-        "term": "じょう",
-        "reading": "",
-        "meaning": "錠[n]lock"
+        "term": "賞金",
+        "reading": "しょうきん",
+        "meaning": "prize; monetary award"
       },
       {
-        "term": "しょ",
-        "reading": "しょ",
-        "meaning": ""
-      },
-      {
-        "term": "じょ",
-        "reading": "じょ",
-        "meaning": ""
+        "term": "鑑賞",
+        "reading": "かんしょう",
+        "meaning": "appreciation"
       }
     ]
   },
@@ -160,27 +185,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "さつ",
     "meaning_en": "(1) token; label",
-    "explanation": "正解は「さつ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "札",
+        "onyomi": "サツ",
+        "kunyomi": "ふだ",
+        "meaning": "Tag, Paper Money, Counter For Bonds"
+      }
+    ],
     "similar": [
       {
-        "term": "札",
-        "reading": "さつ",
-        "meaning": "(1) token; label"
+        "term": "改札",
+        "reading": "かいさつ",
+        "meaning": "examination of tickets"
       },
       {
-        "term": "ざつ",
-        "reading": "",
-        "meaning": "雑[an]messy"
+        "term": "名札",
+        "reading": "なふだ",
+        "meaning": "name plate; name tag"
       },
       {
-        "term": "れい",
-        "reading": "",
-        "meaning": "霊[n]soul"
-      },
-      {
-        "term": "らい",
-        "reading": "らい",
-        "meaning": ""
+        "term": "お札",
+        "reading": "おさつ",
+        "meaning": "banknote; bill"
       }
     ]
   },
@@ -206,27 +234,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "すがた",
     "meaning_en": "figure; shape",
-    "explanation": "正解は「すがた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "姿",
+        "onyomi": "シ",
+        "kunyomi": "すがた",
+        "meaning": "Figure, Form, Shape"
+      }
+    ],
     "similar": [
       {
-        "term": "姿",
-        "reading": "すがた",
-        "meaning": "figure; shape"
+        "term": "姿勢",
+        "reading": "しせい",
+        "meaning": "attitude; posture"
       },
       {
-        "term": "すかた",
-        "reading": "すかた",
-        "meaning": ""
+        "term": "容姿",
+        "reading": "ようし",
+        "meaning": "(physical) appearance (of a person); one's face and figure"
       },
       {
-        "term": "すがだ",
-        "reading": "すがだ",
-        "meaning": ""
-      },
-      {
-        "term": "すかだ",
-        "reading": "すかだ",
-        "meaning": ""
+        "term": "後ろ姿",
+        "reading": "うしろすがた",
+        "meaning": "(a person's) appearance from behind; person as seen from behind"
       }
     ]
   },
@@ -252,22 +283,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ね",
     "meaning_en": "root",
-    "explanation": "正解は「ね」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "根",
+        "onyomi": "コン",
+        "kunyomi": "ね・-ね",
+        "meaning": "Root, Radical, Head (pimple)"
+      }
+    ],
     "similar": [
       {
-        "term": "根",
-        "reading": "ね",
-        "meaning": "root"
+        "term": "屋根",
+        "reading": "やね",
+        "meaning": "roof"
       },
       {
-        "term": "みき",
-        "reading": "",
-        "meaning": "幹[n]trunk"
+        "term": "垣根",
+        "reading": "かきね",
+        "meaning": "hedge"
       },
       {
-        "term": "くき",
-        "reading": "",
-        "meaning": "茎[n]stem"
+        "term": "羽根",
+        "reading": "はね",
+        "meaning": "shuttlecock"
       }
     ]
   },
@@ -293,27 +332,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "げき",
     "meaning_en": "drama; play",
-    "explanation": "正解は「げき」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "劇",
+        "onyomi": "ゲキ",
+        "kunyomi": "-",
+        "meaning": "Drama, Play"
+      }
+    ],
     "similar": [
       {
-        "term": "劇",
-        "reading": "げき",
-        "meaning": "drama; play"
+        "term": "劇場",
+        "reading": "げきじょう",
+        "meaning": "theatre; playhouse"
       },
       {
-        "term": "げぐ",
-        "reading": "げぐ",
-        "meaning": ""
+        "term": "悲劇",
+        "reading": "ひげき",
+        "meaning": "tragedy"
       },
       {
-        "term": "げく",
-        "reading": "げく",
-        "meaning": ""
-      },
-      {
-        "term": "げぎ",
-        "reading": "げぎ",
-        "meaning": ""
+        "term": "演劇",
+        "reading": "えんげき",
+        "meaning": "play (theatrical)"
       }
     ]
   },
@@ -339,27 +381,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もくぞう",
     "meaning_en": "wooden; made of wood",
-    "explanation": "正解は「もくぞう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "木",
+        "onyomi": "ボク・モク",
+        "kunyomi": "き・こ-",
+        "meaning": "Tree, Wood"
+      },
+      {
+        "kanji": "造",
+        "onyomi": "ゾウ",
+        "kunyomi": "つくる・つくり・-づくり",
+        "meaning": "Create, Make, Structure"
+      }
+    ],
     "similar": [
       {
-        "term": "木造",
-        "reading": "もくぞう",
-        "meaning": "wooden; made of wood"
+        "term": "木曜日",
+        "reading": "もくようび",
+        "meaning": "Thursday"
       },
       {
-        "term": "もくそう",
-        "reading": "",
-        "meaning": "目送[n|vs]to follow with one's eyes"
+        "term": "木綿",
+        "reading": "もめん",
+        "meaning": "cotton"
       },
       {
-        "term": "きぞう",
-        "reading": "",
-        "meaning": "寄贈[n|vs]donate"
+        "term": "木曜",
+        "reading": "もくよう",
+        "meaning": "Thursday"
       },
       {
-        "term": "きそう",
-        "reading": "",
-        "meaning": "競う[vg]compete"
+        "term": "製造",
+        "reading": "せいぞう",
+        "meaning": "manufacture; production"
+      },
+      {
+        "term": "人造",
+        "reading": "じんぞう",
+        "meaning": "man-made; synthetic"
       }
     ]
   },
@@ -385,27 +446,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "めじるし",
     "meaning_en": "mark; sign",
-    "explanation": "正解は「めじるし」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "印",
+        "onyomi": "イン",
+        "kunyomi": "しるし・-じるし・しるす",
+        "meaning": "Stamp, Seal, Mark"
+      }
+    ],
     "similar": [
       {
-        "term": "目印",
-        "reading": "めじるし",
-        "meaning": "mark; sign"
-      },
-      {
-        "term": "めしるし",
-        "reading": "めしるし",
+        "term": "お目に掛",
+        "reading": "おめにかかる",
         "meaning": ""
       },
       {
-        "term": "もくいん",
-        "reading": "もくいん",
-        "meaning": ""
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
       },
       {
-        "term": "ぼくいん",
-        "reading": "ぼくいん",
-        "meaning": ""
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
+      },
+      {
+        "term": "印刷",
+        "reading": "いんさつ",
+        "meaning": "printing"
+      },
+      {
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
       }
     ]
   },
@@ -431,27 +511,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "こうほ",
     "meaning_en": "candidacy",
-    "explanation": "正解は「こうほ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "候",
+        "onyomi": "コウ",
+        "kunyomi": "そうろう",
+        "meaning": "Climate, Season, Weather"
+      },
+      {
+        "kanji": "補",
+        "onyomi": "ホ",
+        "kunyomi": "おぎなう",
+        "meaning": "Supplement, Supply, Make Good"
+      }
+    ],
     "similar": [
       {
-        "term": "候補",
-        "reading": "こうほ",
-        "meaning": "candidacy"
+        "term": "天候",
+        "reading": "てんこう",
+        "meaning": "weather"
       },
       {
-        "term": "こうほう",
-        "reading": "",
-        "meaning": "後方[n]rear"
+        "term": "気候",
+        "reading": "きこう",
+        "meaning": "climate"
       },
       {
-        "term": "こほう",
-        "reading": "こほう",
-        "meaning": ""
+        "term": "候補者",
+        "reading": "こうほしゃ",
+        "meaning": "candidate; applicant"
       },
       {
-        "term": "こほ",
-        "reading": "こほ",
-        "meaning": ""
+        "term": "補う",
+        "reading": "おぎなう",
+        "meaning": "to compensate for"
+      },
+      {
+        "term": "補償",
+        "reading": "ほしょう",
+        "meaning": "compensation; reparation"
       }
     ]
   },
@@ -477,27 +576,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "はっぺん",
     "meaning_en": "fragment; splinter",
-    "explanation": "正解は「はっぺん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "破",
+        "onyomi": "ハ",
+        "kunyomi": "やぶる・やぶれる・われる",
+        "meaning": "Rend, Rip, Tear"
+      },
+      {
+        "kanji": "片",
+        "onyomi": "ヘン",
+        "kunyomi": "かた-・かた",
+        "meaning": "One-sided, Leaf, Sheet"
+      }
+    ],
     "similar": [
       {
-        "term": "破片",
-        "reading": "はへん",
-        "meaning": "fragment; splinter"
+        "term": "破る",
+        "reading": "やぶる",
+        "meaning": "to tear; to violate"
       },
       {
-        "term": "はぺん",
-        "reading": "はぺん",
-        "meaning": ""
+        "term": "破産",
+        "reading": "はさん",
+        "meaning": "(personal) bankruptcy"
       },
       {
-        "term": "はべん",
-        "reading": "はべん",
-        "meaning": ""
+        "term": "破く",
+        "reading": "やぶく",
+        "meaning": "to tear"
       },
       {
-        "term": "はへん",
-        "reading": "",
-        "meaning": "破片[n]fragment"
+        "term": "片付ける",
+        "reading": "かたづける",
+        "meaning": "to tidy up"
+      },
+      {
+        "term": "片付く",
+        "reading": "かたづく",
+        "meaning": "to put in order; to dispose of"
       }
     ]
   },
@@ -523,27 +641,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "よぼう",
     "meaning_en": "prevention; precaution",
-    "explanation": "正解は「よぼう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "予",
+        "onyomi": "ヨ・シャ",
+        "kunyomi": "あらかじめ",
+        "meaning": "Beforehand, Previous, Myself"
+      },
+      {
+        "kanji": "防",
+        "onyomi": "ボウ",
+        "kunyomi": "ふせぐ",
+        "meaning": "Ward Off, Defend, Protect"
+      }
+    ],
     "similar": [
       {
-        "term": "予防",
-        "reading": "よぼう",
-        "meaning": "prevention; precaution"
+        "term": "予定",
+        "reading": "よてい",
+        "meaning": "arrangement"
       },
       {
-        "term": "ようほう",
-        "reading": "",
-        "meaning": "用法[n]rules of use"
+        "term": "予約",
+        "reading": "よやく",
+        "meaning": "reservation"
       },
       {
-        "term": "よほう",
-        "reading": "",
-        "meaning": "予報[n|vs]forecast"
+        "term": "予習",
+        "reading": "よしゅう",
+        "meaning": "preparation for a lesson"
       },
       {
-        "term": "ようぼう",
-        "reading": "",
-        "meaning": "要望[n|vs]demand"
+        "term": "消防",
+        "reading": "しょうぼう",
+        "meaning": "fire fighting; fire department"
+      },
+      {
+        "term": "防ぐ",
+        "reading": "ふせぐ",
+        "meaning": "to defend (against); to protect"
       }
     ]
   },
@@ -569,27 +706,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こうきょう",
     "meaning_en": "public; community",
-    "explanation": "正解は「こうきょう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "公",
+        "onyomi": "コウ・ク",
+        "kunyomi": "おおやけ",
+        "meaning": "Public, Prince, Official"
+      },
+      {
+        "kanji": "共",
+        "onyomi": "キョウ",
+        "kunyomi": "とも・ともに・-ども",
+        "meaning": "Together, Both, Neither"
+      }
+    ],
     "similar": [
       {
-        "term": "公共",
-        "reading": "こうきょう",
-        "meaning": "public; community"
+        "term": "公園",
+        "reading": "こうえん",
+        "meaning": "park"
       },
       {
-        "term": "こきょう",
-        "reading": "",
-        "meaning": "故郷[n]hometown"
+        "term": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
       },
       {
-        "term": "こうきょ",
-        "reading": "",
-        "meaning": "抗拒[n|vs]resist"
+        "term": "公平",
+        "reading": "こうへい",
+        "meaning": "fairness; impartial"
       },
       {
-        "term": "こきょ",
-        "reading": "こきょ",
-        "meaning": ""
+        "term": "共に",
+        "reading": "ともに",
+        "meaning": "sharing with; participate in"
+      },
+      {
+        "term": "共同",
+        "reading": "きょうどう",
+        "meaning": "cooperation; association"
       }
     ]
   },
@@ -615,27 +771,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "じょうけい",
     "meaning_en": "spectacle; sight",
-    "explanation": "正解は「じょうけい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "情",
+        "onyomi": "ジョウ・セイ",
+        "kunyomi": "なさけ",
+        "meaning": "Feelings, Emotion, Passion"
+      },
+      {
+        "kanji": "景",
+        "onyomi": "ケイ",
+        "kunyomi": "-",
+        "meaning": "Scenery, View"
+      }
+    ],
     "similar": [
       {
-        "term": "情景",
-        "reading": "じょうけい",
-        "meaning": "spectacle; sight"
+        "term": "事情",
+        "reading": "じじょう",
+        "meaning": "circumstances; consideration"
       },
       {
-        "term": "じょけ",
-        "reading": "じょけ",
-        "meaning": ""
+        "term": "友情",
+        "reading": "ゆうじょう",
+        "meaning": "friendship; fellowship"
       },
       {
-        "term": "じょうけ",
-        "reading": "じょうけ",
-        "meaning": ""
+        "term": "情報",
+        "reading": "じょうほう",
+        "meaning": "information; (military) intelligence"
       },
       {
-        "term": "じょけい",
-        "reading": "",
-        "meaning": "女系[n]matrilinear"
+        "term": "景色",
+        "reading": "けしき",
+        "meaning": "scene; landscape"
+      },
+      {
+        "term": "光景",
+        "reading": "こうけい",
+        "meaning": "scene; spectacle"
       }
     ]
   },
@@ -661,27 +836,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "そうち",
     "meaning_en": "equipment; installation",
-    "explanation": "正解は「そうち」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "装",
+        "onyomi": "ソウ・ショウ",
+        "kunyomi": "よそおう・よそおい",
+        "meaning": "Attire, Dress, Pretend"
+      },
+      {
+        "kanji": "置",
+        "onyomi": "チ",
+        "kunyomi": "おく・-おき",
+        "meaning": "Placement, Put, Set"
+      }
+    ],
     "similar": [
       {
-        "term": "装置",
-        "reading": "そうち",
-        "meaning": "equipment; installation"
+        "term": "服装",
+        "reading": "ふくそう",
+        "meaning": "garments"
       },
       {
-        "term": "そち",
-        "reading": "",
-        "meaning": "措置[n|vs]measure"
+        "term": "包装",
+        "reading": "ほうそう",
+        "meaning": "packing; wrapping"
       },
       {
-        "term": "そうぢ",
-        "reading": "そうぢ",
-        "meaning": ""
+        "term": "武装",
+        "reading": "ぶそう",
+        "meaning": "arms; armament"
       },
       {
-        "term": "そぢ",
-        "reading": "そぢ",
-        "meaning": ""
+        "term": "置く",
+        "reading": "おく",
+        "meaning": "to put"
+      },
+      {
+        "term": "位置",
+        "reading": "いち",
+        "meaning": "place; situation"
       }
     ]
   },
@@ -707,27 +901,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "けはい",
     "meaning_en": "indication; market trend",
-    "explanation": "正解は「けはい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      },
+      {
+        "kanji": "配",
+        "onyomi": "ハイ",
+        "kunyomi": "くばる",
+        "meaning": "Distribute, Spouse, Exile"
+      }
+    ],
     "similar": [
       {
-        "term": "気配",
-        "reading": "けはい",
-        "meaning": "indication; market trend"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
       },
       {
-        "term": "きはい",
-        "reading": "",
-        "meaning": "気配[n]sign"
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       },
       {
-        "term": "きくばり",
-        "reading": "",
-        "meaning": "気配り[n|vs]to pay careful attention to"
+        "term": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
       },
       {
-        "term": "けくばり",
-        "reading": "けくばり",
-        "meaning": ""
+        "term": "心配",
+        "reading": "しんぱいする",
+        "meaning": "to worry"
+      },
+      {
+        "term": "支配",
+        "reading": "しはい",
+        "meaning": "rule; control"
       }
     ]
   },
@@ -753,27 +966,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "みんか",
     "meaning_en": "private house",
-    "explanation": "正解は「みんか」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "民",
+        "onyomi": "ミン",
+        "kunyomi": "たみ",
+        "meaning": "People, Nation, Subjects"
+      },
+      {
+        "kanji": "家",
+        "onyomi": "カ・ケ",
+        "kunyomi": "いえ・や・うち",
+        "meaning": "House, Home, Family"
+      }
+    ],
     "similar": [
       {
-        "term": "民家",
-        "reading": "みんか",
-        "meaning": "private house"
+        "term": "市民",
+        "reading": "しみん",
+        "meaning": "citizen"
       },
       {
-        "term": "たみいえ",
-        "reading": "たみいえ",
-        "meaning": ""
+        "term": "住民",
+        "reading": "じゅうみん",
+        "meaning": "citizens; inhabitants"
       },
       {
-        "term": "みんけ",
-        "reading": "みんけ",
-        "meaning": ""
+        "term": "国民",
+        "reading": "こくみん",
+        "meaning": "national; people"
       },
       {
-        "term": "たみか",
-        "reading": "たみか",
-        "meaning": ""
+        "term": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
+      },
+      {
+        "term": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
       }
     ]
   },
@@ -799,27 +1031,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "げんじょう",
     "meaning_en": "present condition; existing state",
-    "explanation": "正解は「げんじょう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "現",
+        "onyomi": "ゲン",
+        "kunyomi": "あらわれる・あらわす・うつつ・うつつ",
+        "meaning": "Present, Existing, Actual"
+      },
+      {
+        "kanji": "状",
+        "onyomi": "ジョウ",
+        "kunyomi": "-",
+        "meaning": "Status Quo, Conditions, Circumstances"
+      }
+    ],
     "similar": [
       {
-        "term": "現状",
-        "reading": "げんじょう",
-        "meaning": "present condition; existing state"
+        "term": "実現",
+        "reading": "じつげん",
+        "meaning": "implementation; materialization"
       },
       {
-        "term": "げんしょう",
-        "reading": "",
-        "meaning": "現象[n]phenomenon"
+        "term": "現す",
+        "reading": "あらわす",
+        "meaning": "to show; to indicate"
       },
       {
-        "term": "げんじょ",
-        "reading": "げんじょ",
-        "meaning": ""
+        "term": "現れ",
+        "reading": "あらわれ",
+        "meaning": "embodiment; materialization"
       },
       {
-        "term": "げんしょ",
-        "reading": "",
-        "meaning": "原書[n]original book"
+        "term": "状態",
+        "reading": "じょうたい",
+        "meaning": "condition; situation"
+      },
+      {
+        "term": "状況",
+        "reading": "じょうきょう",
+        "meaning": "state of affairs; situation"
       }
     ]
   },
@@ -845,27 +1096,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にゅうきょ",
     "meaning_en": "moving in (to a house, apartment, etc.); taking up residence",
-    "explanation": "正解は「にゅうきょ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      },
+      {
+        "kanji": "居",
+        "onyomi": "キョ・コ",
+        "kunyomi": "いる・-い・おる",
+        "meaning": "Reside, To Be, Exist"
+      }
+    ],
     "similar": [
       {
-        "term": "入居",
-        "reading": "にゅうきょ",
-        "meaning": "moving in (to a house, apartment, etc.); taking up residence"
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
       },
       {
-        "term": "にゅうこ",
-        "reading": "",
-        "meaning": "入庫[n|vs]to store in a warehouse"
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       },
       {
-        "term": "にゅきょ",
-        "reading": "にゅきょ",
-        "meaning": ""
+        "term": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
       },
       {
-        "term": "にゅこ",
-        "reading": "にゅこ",
-        "meaning": ""
+        "term": "居る",
+        "reading": "いる",
+        "meaning": "to be; to have (used for people and animals)"
+      },
+      {
+        "term": "居眠り",
+        "reading": "いねむり",
+        "meaning": "dozing; nodding off"
       }
     ]
   },
@@ -891,27 +1161,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ふうとう",
     "meaning_en": "envelope",
-    "explanation": "正解は「ふうとう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "封",
+        "onyomi": "フウ・ホウ",
+        "kunyomi": "-",
+        "meaning": "Seal, Closing"
+      },
+      {
+        "kanji": "筒",
+        "onyomi": "トウ",
+        "kunyomi": "つつ",
+        "meaning": "Cylinder, Pipe, Tube"
+      }
+    ],
     "similar": [
       {
-        "term": "封筒",
-        "reading": "ふうとう",
-        "meaning": "envelope"
+        "term": "同封",
+        "reading": "どうふう",
+        "meaning": "enclosure (e.g. in a letter)"
       },
       {
-        "term": "ふとう",
-        "reading": "",
-        "meaning": "埠頭[n]pier"
+        "term": "封建",
+        "reading": "ほうけん",
+        "meaning": "feudalistic"
       },
       {
-        "term": "ほうとう",
-        "reading": "",
-        "meaning": "砲塔[n]gun turret"
+        "term": "封鎖",
+        "reading": "ふうさ",
+        "meaning": "blockade; freezing (funds)"
       },
       {
-        "term": "ほと",
-        "reading": "ほと",
-        "meaning": ""
+        "term": "水筒",
+        "reading": "すいとう",
+        "meaning": "canteen; flask"
+      },
+      {
+        "term": "円筒",
+        "reading": "えんとう",
+        "meaning": "cylinder"
       }
     ]
   },
@@ -937,27 +1226,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "たいしょう",
     "meaning_en": "target; object (of worship",
-    "explanation": "正解は「たいしょう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "対",
+        "onyomi": "タイ・ツイ",
+        "kunyomi": "あいて・こたえる・そろい・つれあい・ならぶ・むかう",
+        "meaning": "Vis-a-vis, Opposite, Even"
+      },
+      {
+        "kanji": "象",
+        "onyomi": "ショウ・ゾウ",
+        "kunyomi": "かたどる",
+        "meaning": "Elephant, Pattern After, Imitate"
+      }
+    ],
     "similar": [
       {
-        "term": "対象",
-        "reading": "たいしょう",
-        "meaning": "target; object (of worship"
+        "term": "反対",
+        "reading": "はんたい",
+        "meaning": "opposition"
       },
       {
-        "term": "だいしょ",
-        "reading": "だいしょ",
-        "meaning": ""
+        "term": "対する",
+        "reading": "たいする",
+        "meaning": "to face; to confront"
       },
       {
-        "term": "たいしょ",
-        "reading": "",
-        "meaning": "対蹠[n]antipode"
+        "term": "絶対",
+        "reading": "ぜったい",
+        "meaning": "absolute; unconditional"
       },
       {
-        "term": "だいしょう",
-        "reading": "",
-        "meaning": "代将[n]brigadier general"
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
+      },
+      {
+        "term": "現象",
+        "reading": "げんしょう",
+        "meaning": "phenomenon"
       }
     ]
   },
@@ -983,27 +1291,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かさい",
     "meaning_en": "conflagration; fire",
-    "explanation": "正解は「かさい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "火",
+        "onyomi": "カ",
+        "kunyomi": "ひ・-び・ほ-",
+        "meaning": "Fire"
+      },
+      {
+        "kanji": "災",
+        "onyomi": "サイ",
+        "kunyomi": "わざわい",
+        "meaning": "Disaster, Calamity, Woe"
+      }
+    ],
     "similar": [
       {
-        "term": "火災",
-        "reading": "かさい",
-        "meaning": "conflagration; fire"
+        "term": "火曜日",
+        "reading": "かようび",
+        "meaning": "Tuesday"
       },
       {
-        "term": "かざい",
-        "reading": "",
-        "meaning": "家財[n]household belongings"
+        "term": "火事",
+        "reading": "かじ",
+        "meaning": "fire"
       },
       {
-        "term": "ひさい",
-        "reading": "",
-        "meaning": "被災[n|vs]to suffer from from a disaster"
+        "term": "火曜",
+        "reading": "かよう",
+        "meaning": "(abbr) Tuesday"
       },
       {
-        "term": "ひざい",
-        "reading": "ひざい",
-        "meaning": ""
+        "term": "災難",
+        "reading": "さいなん",
+        "meaning": "calamity; misfortune"
+      },
+      {
+        "term": "天災",
+        "reading": "てんさい",
+        "meaning": "natural calamity; disaster"
       }
     ]
   },
@@ -1029,27 +1356,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "せんこう",
     "meaning_en": "major subject; special study",
-    "explanation": "正解は「せんこう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "専",
+        "onyomi": "セン",
+        "kunyomi": "もっぱら",
+        "meaning": "Specialty, Exclusive, Mainly"
+      },
+      {
+        "kanji": "攻",
+        "onyomi": "コウ",
+        "kunyomi": "せめる",
+        "meaning": "Aggression, Attack, Criticize"
+      }
+    ],
     "similar": [
       {
-        "term": "専攻",
-        "reading": "せんこう",
-        "meaning": "major subject; special study"
+        "term": "専門",
+        "reading": "せんもん",
+        "meaning": "major; speciality"
       },
       {
-        "term": "すんこう",
-        "reading": "すんこう",
-        "meaning": ""
+        "term": "専制",
+        "reading": "せんせい",
+        "meaning": "despotism; autocracy"
       },
       {
-        "term": "せんこ",
-        "reading": "",
-        "meaning": "千古[n]all ages"
+        "term": "専ら",
+        "reading": "もっぱら",
+        "meaning": "wholly; solely"
       },
       {
-        "term": "すんこ",
-        "reading": "すんこ",
-        "meaning": ""
+        "term": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack; strike"
+      },
+      {
+        "term": "攻める",
+        "reading": "せめる",
+        "meaning": "to attack; to assault"
       }
     ]
   },
@@ -1075,27 +1421,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "じゅしん",
     "meaning_en": "having a medical examination; seeing a doctor",
-    "explanation": "正解は「じゅしん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "受",
+        "onyomi": "ジュ",
+        "kunyomi": "うける・-うけ・うかる",
+        "meaning": "Accept, Undergo, Answer (phone)"
+      },
+      {
+        "kanji": "診",
+        "onyomi": "シン",
+        "kunyomi": "みる",
+        "meaning": "Checkup, Seeing, Diagnose"
+      }
+    ],
     "similar": [
       {
-        "term": "受診",
-        "reading": "じゅしん",
-        "meaning": "having a medical examination; seeing a doctor"
+        "term": "受ける",
+        "reading": "うける",
+        "meaning": "to take a lesson or test"
       },
       {
-        "term": "しゅじん",
-        "reading": "",
-        "meaning": "主人[n]host"
+        "term": "受付",
+        "reading": "うけつけ",
+        "meaning": "receipt"
       },
       {
-        "term": "じゅうしん",
-        "reading": "",
-        "meaning": "重心[n]center of gravity"
+        "term": "受け取る",
+        "reading": "うけとる",
+        "meaning": "to receive; to get"
       },
       {
-        "term": "しゅうじん",
-        "reading": "",
-        "meaning": "囚人[n]prisoner"
+        "term": "診察",
+        "reading": "しんさつ",
+        "meaning": "medical examination"
+      },
+      {
+        "term": "診る",
+        "reading": "みる",
+        "meaning": "to examine (medical)"
       }
     ]
   },
@@ -1121,27 +1486,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しさつ",
     "meaning_en": "inspection; observation",
-    "explanation": "正解は「しさつ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "視",
+        "onyomi": "シ",
+        "kunyomi": "みる",
+        "meaning": "Inspection, Regard As, See"
+      },
+      {
+        "kanji": "察",
+        "onyomi": "サツ",
+        "kunyomi": "-",
+        "meaning": "Guess, Presume, Surmise"
+      }
+    ],
     "similar": [
       {
-        "term": "視察",
-        "reading": "しさつ",
-        "meaning": "inspection; observation"
+        "term": "無視",
+        "reading": "むし",
+        "meaning": "disregard; ignore"
       },
       {
-        "term": "しさい",
-        "reading": "",
-        "meaning": "市債[n]municipal bond"
+        "term": "重視",
+        "reading": "じゅうし",
+        "meaning": "importance; stress"
       },
       {
-        "term": "けんさつ",
-        "reading": "",
-        "meaning": "検札[n|vs]ticket inspection"
+        "term": "監視",
+        "reading": "かんし",
+        "meaning": "observation; guarding"
       },
       {
-        "term": "けんさい",
-        "reading": "",
-        "meaning": "賢才[n]gifted man"
+        "term": "警察",
+        "reading": "けいさつ",
+        "meaning": "police"
+      },
+      {
+        "term": "観察",
+        "reading": "かんさつ",
+        "meaning": "observation; survey"
       }
     ]
   },
@@ -1167,27 +1551,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "じさん",
     "meaning_en": "bringing; taking",
-    "explanation": "正解は「じさん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "持",
+        "onyomi": "ジ",
+        "kunyomi": "もつ・-もち・もてる",
+        "meaning": "Hold, Have"
+      },
+      {
+        "kanji": "参",
+        "onyomi": "サン・シン",
+        "kunyomi": "まいる・まい-・まじわる・みつ",
+        "meaning": "Nonplussed, Three (in Documents), Going"
+      }
+    ],
     "similar": [
       {
-        "term": "持参",
-        "reading": "じさん",
-        "meaning": "bringing; taking"
+        "term": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold"
       },
       {
-        "term": "じせん",
-        "reading": "",
-        "meaning": "自選[n|vs]one's own selection"
+        "term": "お・金持ち",
+        "reading": "かねもち",
+        "meaning": ""
       },
       {
-        "term": "たいさん",
-        "reading": "",
-        "meaning": "退散[n|vs]disperse"
+        "term": "お金持ち",
+        "reading": "かねもち/おかねもち",
+        "meaning": "rich man"
       },
       {
-        "term": "たいせん",
-        "reading": "",
-        "meaning": "苔癬[n]lichen"
+        "term": "参る",
+        "reading": "まいる",
+        "meaning": "(humble) to go; to come"
+      },
+      {
+        "term": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
       }
     ]
   },
@@ -1212,28 +1615,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "けいこく",
-    "meaning_en": "Meaning: けいこく",
-    "explanation": "正解は「けいこく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "警",
+        "onyomi": "ケイ",
+        "kunyomi": "いましめる",
+        "meaning": "Admonish, Commandment"
+      },
+      {
+        "kanji": "告",
+        "onyomi": "コク",
+        "kunyomi": "つげる",
+        "meaning": "Revelation, Tell, Inform"
+      }
+    ],
     "similar": [
       {
-        "term": "警告された",
-        "reading": "けいこくされた",
-        "meaning": ""
+        "term": "警官",
+        "reading": "けいかん",
+        "meaning": "policeman"
       },
       {
-        "term": "かんこく",
-        "reading": "",
-        "meaning": "韓国[n]South Korea"
+        "term": "警察",
+        "reading": "けいさつ",
+        "meaning": "police"
       },
       {
-        "term": "けいごく",
-        "reading": "けいごく",
-        "meaning": ""
+        "term": "警告",
+        "reading": "けいこく",
+        "meaning": "warning; advice"
       },
       {
-        "term": "かんごく",
-        "reading": "",
-        "meaning": "監獄[n]prison"
+        "term": "報告",
+        "reading": "ほうこく",
+        "meaning": "report; information"
+      },
+      {
+        "term": "広告",
+        "reading": "こうこく",
+        "meaning": "advertisement"
       }
     ]
   },
@@ -1259,27 +1681,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "せいぞう",
     "meaning_en": "manufacture; production",
-    "explanation": "正解は「せいぞう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "製",
+        "onyomi": "セイ",
+        "kunyomi": "-",
+        "meaning": "Made In..., Manufacture"
+      },
+      {
+        "kanji": "造",
+        "onyomi": "ゾウ",
+        "kunyomi": "つくる・つくり・-づくり",
+        "meaning": "Create, Make, Structure"
+      }
+    ],
     "similar": [
       {
-        "term": "製造",
-        "reading": "せいぞう",
+        "term": "製品",
+        "reading": "せいひん",
+        "meaning": "manufactured goods; finished goods"
+      },
+      {
+        "term": "作製",
+        "reading": "さくせい",
+        "meaning": "manufacture"
+      },
+      {
+        "term": "製作",
+        "reading": "せいさく",
         "meaning": "manufacture; production"
       },
       {
-        "term": "せいぞ",
-        "reading": "せいぞ",
-        "meaning": ""
+        "term": "人造",
+        "reading": "じんぞう",
+        "meaning": "man-made; synthetic"
       },
       {
-        "term": "せぞ",
-        "reading": "せぞ",
-        "meaning": ""
-      },
-      {
-        "term": "せぞう",
-        "reading": "せぞう",
-        "meaning": ""
+        "term": "作る/造る",
+        "reading": "つくる",
+        "meaning": "to make; to create"
       }
     ]
   },
@@ -1305,27 +1746,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "こうえん",
     "meaning_en": "lecture; address",
-    "explanation": "正解は「こうえん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "講",
+        "onyomi": "コウ",
+        "kunyomi": "-",
+        "meaning": "Lecture, Club, Association"
+      },
+      {
+        "kanji": "演",
+        "onyomi": "エン",
+        "kunyomi": "-",
+        "meaning": "Performance, Act, Play"
+      }
+    ],
     "similar": [
       {
-        "term": "講演",
-        "reading": "こうえん",
-        "meaning": "lecture; address"
+        "term": "講堂",
+        "reading": "こうどう",
+        "meaning": "auditorium"
       },
       {
-        "term": "こえん",
-        "reading": "こえん",
-        "meaning": ""
+        "term": "講義",
+        "reading": "こうぎ",
+        "meaning": "lecture"
       },
       {
-        "term": "ごうえん",
-        "reading": "ごうえん",
-        "meaning": ""
+        "term": "休講",
+        "reading": "きゅうこう",
+        "meaning": "lecture cancelled"
       },
       {
-        "term": "ごえん",
-        "reading": "ごえん",
-        "meaning": ""
+        "term": "演奏",
+        "reading": "えんそう",
+        "meaning": "musical performance"
+      },
+      {
+        "term": "演技",
+        "reading": "えんぎ",
+        "meaning": "acting; performance"
       }
     ]
   },
@@ -1351,27 +1811,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ぞうか",
     "meaning_en": "increase; addition",
-    "explanation": "正解は「ぞうか」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "増",
+        "onyomi": "ゾウ",
+        "kunyomi": "ます・まし・ふえる・ふやす",
+        "meaning": "Increase, Add, Augment"
+      },
+      {
+        "kanji": "加",
+        "onyomi": "カ",
+        "kunyomi": "くわえる・くわわる",
+        "meaning": "Add, Addition, Increase"
+      }
+    ],
     "similar": [
       {
-        "term": "増加",
-        "reading": "ぞうか",
-        "meaning": "increase; addition"
+        "term": "増える",
+        "reading": "ふえる",
+        "meaning": "to increase"
       },
       {
-        "term": "じょうか",
-        "reading": "",
-        "meaning": "上下[n]upper and lower"
+        "term": "増す",
+        "reading": "ます",
+        "meaning": "to increase; to grow"
       },
       {
-        "term": "ぞか",
-        "reading": "ぞか",
-        "meaning": ""
+        "term": "増やす",
+        "reading": "ふやす",
+        "meaning": "to increase; to add to"
       },
       {
-        "term": "じょか",
-        "reading": "じょか",
-        "meaning": ""
+        "term": "加える",
+        "reading": "くわえる",
+        "meaning": "to append; to sum up"
+      },
+      {
+        "term": "加わる",
+        "reading": "くわわる",
+        "meaning": "to join in; to accede to"
       }
     ]
   },
@@ -1397,27 +1876,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "さんしょう",
     "meaning_en": "reference; consultation",
-    "explanation": "正解は「さんしょう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "参",
+        "onyomi": "サン・シン",
+        "kunyomi": "まいる・まい-・まじわる・みつ",
+        "meaning": "Nonplussed, Three (in Documents), Going"
+      },
+      {
+        "kanji": "照",
+        "onyomi": "ショウ",
+        "kunyomi": "てる・てらす・てれる",
+        "meaning": "Illuminate, Shine, Compare"
+      }
+    ],
     "similar": [
       {
-        "term": "参照",
-        "reading": "さんしょう",
+        "term": "参る",
+        "reading": "まいる",
+        "meaning": "(humble) to go; to come"
+      },
+      {
+        "term": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
+      },
+      {
+        "term": "参考",
+        "reading": "さんこう",
         "meaning": "reference; consultation"
       },
       {
-        "term": "さんじょ",
-        "reading": "",
-        "meaning": "賛助[n|vs]patronize"
+        "term": "対照",
+        "reading": "たいしょう",
+        "meaning": "contrast; antithesis"
       },
       {
-        "term": "さんしょ",
-        "reading": "さんしょ",
-        "meaning": ""
-      },
-      {
-        "term": "さんじょう",
-        "reading": "",
-        "meaning": "山上[n]mountain top"
+        "term": "照らす",
+        "reading": "てらす",
+        "meaning": "to shine on; to illuminate"
       }
     ]
   },
@@ -1443,27 +1941,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しゅうのう",
     "meaning_en": "storage; putting away",
-    "explanation": "正解は「しゅうのう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "収",
+        "onyomi": "シュウ",
+        "kunyomi": "おさめる・おさまる",
+        "meaning": "Income, Obtain, Reap"
+      },
+      {
+        "kanji": "納",
+        "onyomi": "ノウ・ナッ・ナ・ナン・トウ",
+        "kunyomi": "おさめる・-おさめる・おさまる",
+        "meaning": "Settlement, Obtain, Reap"
+      }
+    ],
     "similar": [
       {
-        "term": "収納",
-        "reading": "しゅうのう",
-        "meaning": "storage; putting away"
+        "term": "収める",
+        "reading": "おさめる",
+        "meaning": "to obtain; to reap"
       },
       {
-        "term": "しゅうの",
-        "reading": "しゅうの",
-        "meaning": ""
+        "term": "収入",
+        "reading": "しゅうにゅう",
+        "meaning": "income; receipts"
       },
       {
-        "term": "しゅのう",
-        "reading": "",
-        "meaning": "首脳[n]leader"
+        "term": "収穫",
+        "reading": "しゅうかく",
+        "meaning": "harvest; crop"
       },
       {
-        "term": "しゅの",
-        "reading": "しゅの",
-        "meaning": ""
+        "term": "納得",
+        "reading": "なっとく",
+        "meaning": "consent; assent"
+      },
+      {
+        "term": "納める",
+        "reading": "おさめる",
+        "meaning": "to obtain; to reap"
       }
     ]
   },
@@ -1489,27 +2006,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "はる",
     "meaning_en": "to stick; to paste",
-    "explanation": "正解は「はる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "張",
+        "onyomi": "チョウ",
+        "kunyomi": "はる・-はり・-ばり",
+        "meaning": "Lengthen, Counter For Bows & Stringed Instruments, Stretch"
+      }
+    ],
     "similar": [
       {
-        "term": "張る",
-        "reading": "はる",
-        "meaning": "to stick; to paste"
+        "term": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to try one's best, to try hard, to persist"
       },
       {
-        "term": "きる",
-        "reading": "",
-        "meaning": "nevertheless, to carry through"
+        "term": "主張",
+        "reading": "しゅちょう",
+        "meaning": "claim; request"
       },
       {
-        "term": "ふる",
-        "reading": "",
-        "meaning": "降る[vg]fall"
-      },
-      {
-        "term": "おる",
-        "reading": "",
-        "meaning": "-- extra-modest expression for いる --"
+        "term": "引っ張る",
+        "reading": "ひっぱる",
+        "meaning": "(1) to pull; to draw"
       }
     ]
   },
@@ -1535,27 +2055,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "おぎなう",
     "meaning_en": "to compensate for",
-    "explanation": "正解は「おぎなう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "補",
+        "onyomi": "ホ",
+        "kunyomi": "おぎなう",
+        "meaning": "Supplement, Supply, Make Good"
+      }
+    ],
     "similar": [
       {
-        "term": "補う",
-        "reading": "おぎなう",
-        "meaning": "to compensate for"
+        "term": "候補",
+        "reading": "こうほ",
+        "meaning": "candidacy"
       },
       {
-        "term": "うしなう",
-        "reading": "",
-        "meaning": "失う[vg]lose"
+        "term": "補償",
+        "reading": "ほしょう",
+        "meaning": "compensation; reparation"
       },
       {
-        "term": "まかなう",
-        "reading": "",
-        "meaning": "賄う[vg]supply"
-      },
-      {
-        "term": "やしなう",
-        "reading": "",
-        "meaning": "養う[vg]maintain"
+        "term": "補充",
+        "reading": "ほじゅう",
+        "meaning": "supplementation; supplement"
       }
     ]
   },
@@ -1580,28 +2103,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やぶれて",
-    "meaning_en": "Meaning: やぶれて",
-    "explanation": "正解は「やぶれて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "破",
+        "onyomi": "ハ",
+        "kunyomi": "やぶる・やぶれる・われる",
+        "meaning": "Rend, Rip, Tear"
+      }
+    ],
     "similar": [
       {
-        "term": "破れて",
-        "reading": "やぶれて",
-        "meaning": ""
+        "term": "破る",
+        "reading": "やぶる",
+        "meaning": "to tear; to violate"
       },
       {
-        "term": "こわれて",
-        "reading": "こわれて",
-        "meaning": ""
+        "term": "破産",
+        "reading": "はさん",
+        "meaning": "(personal) bankruptcy"
       },
       {
-        "term": "よごれて",
-        "reading": "よごれて",
-        "meaning": ""
-      },
-      {
-        "term": "みだれて",
-        "reading": "みだれて",
-        "meaning": ""
+        "term": "破く",
+        "reading": "やぶく",
+        "meaning": "to tear"
       }
     ]
   },
@@ -1627,27 +2153,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ふせぐ",
     "meaning_en": "to defend (against); to protect",
-    "explanation": "正解は「ふせぐ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "防",
+        "onyomi": "ボウ",
+        "kunyomi": "ふせぐ",
+        "meaning": "Ward Off, Defend, Protect"
+      }
+    ],
     "similar": [
       {
-        "term": "防ぐ",
-        "reading": "ふせぐ",
-        "meaning": "to defend (against); to protect"
+        "term": "予防",
+        "reading": "よぼう",
+        "meaning": "prevention; precaution"
       },
       {
-        "term": "ふさぐ",
-        "reading": "",
-        "meaning": "塞ぐ[vg]block"
+        "term": "消防",
+        "reading": "しょうぼう",
+        "meaning": "fire fighting; fire department"
       },
       {
-        "term": "つなぐ",
-        "reading": "",
-        "meaning": "繋ぐ[vg]tie"
-      },
-      {
-        "term": "かせぐ",
-        "reading": "",
-        "meaning": "稼ぐ[vg]labor"
+        "term": "消防署",
+        "reading": "しょうぼうしょ",
+        "meaning": "fire station"
       }
     ]
   },
@@ -1673,27 +2202,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "のぞいて",
     "meaning_en": "except; save",
-    "explanation": "正解は「のぞいて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "除",
+        "onyomi": "ジョ・ジ",
+        "kunyomi": "のぞく・-よけ",
+        "meaning": "Exclude, Division (x/3), Remove"
+      }
+    ],
     "similar": [
       {
-        "term": "除いて",
-        "reading": "のぞいて",
-        "meaning": "except; save"
+        "term": "掃除",
+        "reading": "そうじする",
+        "meaning": "to clean; to sweep"
       },
       {
-        "term": "はぶいて",
-        "reading": "はぶいて",
-        "meaning": ""
+        "term": "除く",
+        "reading": "のぞく",
+        "meaning": "to remove; to exclude"
       },
       {
-        "term": "のいて",
-        "reading": "のいて",
-        "meaning": ""
-      },
-      {
-        "term": "ぬいて",
-        "reading": "ぬいて",
-        "meaning": ""
+        "term": "削除",
+        "reading": "さくじょ",
+        "meaning": "elimination; cancellation"
       }
     ]
   },
@@ -1718,28 +2250,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よごして",
-    "meaning_en": "Meaning: よごして",
-    "explanation": "正解は「よごして」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "汚",
+        "onyomi": "オ",
+        "kunyomi": "けがす・けがれる・けがらわしい・よごす・よごれる・きたない",
+        "meaning": "Dirty, Pollute, Disgrace"
+      }
+    ],
     "similar": [
       {
-        "term": "汚して",
-        "reading": "よごして",
-        "meaning": ""
+        "term": "汚い",
+        "reading": "きたない",
+        "meaning": "dirty"
       },
       {
-        "term": "なくして",
-        "reading": "なくして",
-        "meaning": ""
+        "term": "汚れる",
+        "reading": "よごれる",
+        "meaning": "to get dirty"
       },
       {
-        "term": "つぶして",
-        "reading": "つぶして",
-        "meaning": ""
-      },
-      {
-        "term": "はなして",
-        "reading": "",
-        "meaning": "話し手[n]speaker"
+        "term": "汚染",
+        "reading": "おせん",
+        "meaning": "pollution; contamination"
       }
     ]
   },
@@ -1765,27 +2300,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "かぎり",
     "meaning_en": "limit(s), as far as possible",
-    "explanation": "正解は「かぎり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "限",
+        "onyomi": "ゲン",
+        "kunyomi": "かぎる・かぎり・-かぎり",
+        "meaning": "Limit, Restrict, To Best Of Ability"
+      }
+    ],
     "similar": [
       {
-        "term": "限り",
-        "reading": "かぎり",
-        "meaning": "limit(s), as far as possible"
+        "term": "制限",
+        "reading": "せいげん",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "くぎり",
-        "reading": "くぎり",
-        "meaning": ""
+        "term": "限る",
+        "reading": "かぎる",
+        "meaning": "to restrict; to limit"
       },
       {
-        "term": "はまり",
-        "reading": "はまり",
-        "meaning": ""
-      },
-      {
-        "term": "わたり",
-        "reading": "わたり",
-        "meaning": ""
+        "term": "限界",
+        "reading": "げんかい",
+        "meaning": "limit; bound"
       }
     ]
   },
@@ -1811,27 +2349,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もよおす",
     "meaning_en": "to hold (a meeting); to give (a dinner)",
-    "explanation": "正解は「もよおす」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "催",
+        "onyomi": "サイ",
+        "kunyomi": "もようす・もよおす",
+        "meaning": "Sponsor, Hold (a Meeting), Give (a Dinner)"
+      }
+    ],
     "similar": [
       {
-        "term": "催す",
-        "reading": "もよおす",
-        "meaning": "to hold (a meeting); to give (a dinner)"
+        "term": "催し",
+        "reading": "もよおし",
+        "meaning": "event; festivities"
       },
       {
-        "term": "しるす",
-        "reading": "",
-        "meaning": "印す[vg]mark"
+        "term": "催促",
+        "reading": "さいそく",
+        "meaning": "request; demand"
       },
       {
-        "term": "ためす",
-        "reading": "",
-        "meaning": "試す[vg]try"
-      },
-      {
-        "term": "はなす",
-        "reading": "",
-        "meaning": "離す[vg]separate"
+        "term": "主催",
+        "reading": "しゅさい",
+        "meaning": "organization; sponsorship"
       }
     ]
   },
@@ -1856,28 +2397,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "くばって",
-    "meaning_en": "Meaning: くばって",
-    "explanation": "正解は「くばって」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "配",
+        "onyomi": "ハイ",
+        "kunyomi": "くばる",
+        "meaning": "Distribute, Spouse, Exile"
+      }
+    ],
     "similar": [
       {
-        "term": "配って",
-        "reading": "くばって",
-        "meaning": ""
+        "term": "心配",
+        "reading": "しんぱいする",
+        "meaning": "to worry"
       },
       {
-        "term": "やぶって",
-        "reading": "やぶって",
-        "meaning": ""
+        "term": "支配",
+        "reading": "しはい",
+        "meaning": "rule; control"
       },
       {
-        "term": "しまって",
-        "reading": "しまって",
-        "meaning": ""
-      },
-      {
-        "term": "はらって",
-        "reading": "はらって",
-        "meaning": ""
+        "term": "配達",
+        "reading": "はいたつ",
+        "meaning": "delivery; distribution"
       }
     ]
   },
@@ -1902,28 +2446,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "すすめられて",
-    "meaning_en": "Meaning: すすめられて",
-    "explanation": "正解は「すすめられて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "勧",
+        "onyomi": "カン・ケン",
+        "kunyomi": "すすめる",
+        "meaning": "Persuade, Recommend, Advise"
+      }
+    ],
     "similar": [
       {
-        "term": "勧められて",
-        "reading": "すすめられて",
-        "meaning": ""
+        "term": "勧める",
+        "reading": "すすめる",
+        "meaning": "to recommend; to advise"
       },
       {
-        "term": "みとめられて",
-        "reading": "みとめられて",
-        "meaning": ""
+        "term": "勧め",
+        "reading": "すすめ",
+        "meaning": "recommendation; advice"
       },
       {
-        "term": "ほめられて",
-        "reading": "ほめられて",
-        "meaning": ""
-      },
-      {
-        "term": "もとめられて",
-        "reading": "もとめられて",
-        "meaning": ""
+        "term": "勧告",
+        "reading": "かんこく",
+        "meaning": "advice; counsel"
       }
     ]
   },
@@ -1948,28 +2495,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もとづいて",
-    "meaning_en": "Meaning: もとづいて",
-    "explanation": "正解は「もとづいて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "基",
+        "onyomi": "キ",
+        "kunyomi": "もと・もとい",
+        "meaning": "Fundamentals, Radical (chem), Counter For Machines"
+      }
+    ],
     "similar": [
       {
-        "term": "基づいて",
-        "reading": "もとづいて",
-        "meaning": ""
+        "term": "基づく",
+        "reading": "もとづく",
+        "meaning": "to be grounded on; to be based on"
       },
       {
-        "term": "かんづいて",
-        "reading": "かんづいて",
-        "meaning": ""
+        "term": "基本",
+        "reading": "きほん",
+        "meaning": "foundation; basis"
       },
       {
-        "term": "ひもづいて",
-        "reading": "ひもづいて",
-        "meaning": ""
-      },
-      {
-        "term": "きづいて",
-        "reading": "きづいて",
-        "meaning": ""
+        "term": "基地",
+        "reading": "きち",
+        "meaning": "base"
       }
     ]
   },
@@ -1995,27 +2545,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "こたえる",
     "meaning_en": "to respond; to answer",
-    "explanation": "正解は「こたえる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "応",
+        "onyomi": "オウ・ヨウ・-ノウ",
+        "kunyomi": "あたる・まさに・こたえる",
+        "meaning": "Apply, Answer, Yes"
+      }
+    ],
     "similar": [
       {
-        "term": "応える",
-        "reading": "こたえる",
-        "meaning": "to respond; to answer"
+        "term": "応じる",
+        "reading": "おうじる",
+        "meaning": "to respond; to satisfy"
       },
       {
-        "term": "そえる",
-        "reading": "",
-        "meaning": "添える[vi]attach"
+        "term": "一応",
+        "reading": "いちおう",
+        "meaning": "once; tentatively"
       },
       {
-        "term": "たえる",
-        "reading": "",
-        "meaning": "堪える[vi]endure"
-      },
-      {
-        "term": "ひかえる",
-        "reading": "",
-        "meaning": "控える[vi]①refrain②wait"
+        "term": "応ずる",
+        "reading": "おうずる",
+        "meaning": "to answer; to respond"
       }
     ]
   },
@@ -2041,27 +2594,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ことなる",
     "meaning_en": "to differ; to vary",
-    "explanation": "正解は「ことなる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "異",
+        "onyomi": "イ",
+        "kunyomi": "こと・ことなる・け",
+        "meaning": "Uncommon, Different, Queerness"
+      }
+    ],
     "similar": [
       {
-        "term": "異なる",
-        "reading": "ことなる",
-        "meaning": "to differ; to vary"
+        "term": "異常",
+        "reading": "いじょう",
+        "meaning": "strangeness; abnormality"
       },
       {
-        "term": "つらなる",
-        "reading": "",
-        "meaning": "連なる[vg]to stand in a row"
+        "term": "差異",
+        "reading": "さい",
+        "meaning": "difference; disparity"
       },
       {
-        "term": "かさなる",
-        "reading": "",
-        "meaning": "重なる[vg]overlap"
-      },
-      {
-        "term": "さらなる",
-        "reading": "",
-        "meaning": "更なる[adn]further"
+        "term": "異動",
+        "reading": "いどう",
+        "meaning": "a change"
       }
     ]
   },
@@ -2087,27 +2643,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あらためる",
     "meaning_en": "to change; to alter",
-    "explanation": "正解は「あらためる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "改",
+        "onyomi": "カイ",
+        "kunyomi": "あらためる・あらたまる",
+        "meaning": "Reformation, Change, Modify"
+      }
+    ],
     "similar": [
       {
-        "term": "改める",
-        "reading": "あらためる",
-        "meaning": "to change; to alter"
+        "term": "改善",
+        "reading": "かいぜん",
+        "meaning": "betterment; improvement"
       },
       {
-        "term": "あつめる",
-        "reading": "",
-        "meaning": "集める[vi]gather"
+        "term": "改めて",
+        "reading": "あらためて",
+        "meaning": "another time; again"
       },
       {
-        "term": "さだめる",
-        "reading": "",
-        "meaning": "定める[vi]decide"
-      },
-      {
-        "term": "まとめる",
-        "reading": "",
-        "meaning": "to put in order, to collect, to bring to a conclusion"
+        "term": "改札",
+        "reading": "かいさつ",
+        "meaning": "examination of tickets"
       }
     ]
   },
@@ -2133,27 +2692,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "おさめる",
     "meaning_en": "to obtain; to reap",
-    "explanation": "正解は「おさめる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "納",
+        "onyomi": "ノウ・ナッ・ナ・ナン・トウ",
+        "kunyomi": "おさめる・-おさめる・おさまる",
+        "meaning": "Settlement, Obtain, Reap"
+      }
+    ],
     "similar": [
       {
-        "term": "納める",
-        "reading": "おさめる",
-        "meaning": "to obtain; to reap"
+        "term": "納得",
+        "reading": "なっとく",
+        "meaning": "consent; assent"
       },
       {
-        "term": "ためる",
-        "reading": "",
-        "meaning": "溜める[vi]collect"
+        "term": "滞納",
+        "reading": "たいのう",
+        "meaning": "non-payment; default"
       },
       {
-        "term": "もとめる",
-        "reading": "",
-        "meaning": "求める[vi]request"
-      },
-      {
-        "term": "ふくめる",
-        "reading": "",
-        "meaning": "含める[vi]include"
+        "term": "納まる",
+        "reading": "おさまる",
+        "meaning": "to be obtained; to end"
       }
     ]
   },
@@ -2179,27 +2741,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あらい",
     "meaning_en": "rough; rude",
-    "explanation": "正解は「あらい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "荒",
+        "onyomi": "コウ",
+        "kunyomi": "あらい・あら-・あれる・あらす・-あらし・すさむ",
+        "meaning": "Laid Waste, Rough, Rude"
+      }
+    ],
     "similar": [
       {
-        "term": "荒い",
-        "reading": "あらい",
+        "term": "荒れる",
+        "reading": "あれる",
+        "meaning": "to be stormy, to be rough, to be ruined"
+      },
+      {
+        "term": "荒っぽい",
+        "reading": "あらっぽい",
         "meaning": "rough; rude"
       },
       {
-        "term": "つよい",
-        "reading": "",
-        "meaning": "強い[a]strong"
-      },
-      {
-        "term": "わるい",
-        "reading": "",
-        "meaning": "悪い[a]bad"
-      },
-      {
-        "term": "きつい",
-        "reading": "きつい",
-        "meaning": "tight; close"
+        "term": "荒らす",
+        "reading": "あらす",
+        "meaning": "to lay waste; to devastate"
       }
     ]
   },
@@ -2224,28 +2789,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かたく",
-    "meaning_en": "Meaning: かたく",
-    "explanation": "正解は「かたく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "硬",
+        "onyomi": "コウ",
+        "kunyomi": "かたい",
+        "meaning": "Stiff, Hard"
+      }
+    ],
     "similar": [
       {
-        "term": "硬く",
-        "reading": "かたく",
-        "meaning": ""
+        "term": "堅/硬/固い",
+        "reading": "かたい",
+        "meaning": "hard"
       },
       {
-        "term": "にぶく",
-        "reading": "にぶく",
-        "meaning": ""
+        "term": "硬い",
+        "reading": "かたい",
+        "meaning": "solid; hard (esp. metal"
       },
       {
-        "term": "つらく",
-        "reading": "つらく",
-        "meaning": ""
-      },
-      {
-        "term": "おもく",
-        "reading": "おもく",
-        "meaning": ""
+        "term": "硬貨",
+        "reading": "こうか",
+        "meaning": "coin"
       }
     ]
   },
@@ -2270,28 +2838,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しぶくて",
-    "meaning_en": "Meaning: しぶくて",
-    "explanation": "正解は「しぶくて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "渋",
+        "onyomi": "ジュウ・シュウ",
+        "kunyomi": "しぶ・しぶい・しぶる",
+        "meaning": "Astringent, Hesitate, Reluctant"
+      }
+    ],
     "similar": [
       {
-        "term": "渋くて",
-        "reading": "しぶくて",
-        "meaning": ""
+        "term": "渋滞",
+        "reading": "じゅうたい",
+        "meaning": "congestion (e.g. traffic); delay"
       },
       {
-        "term": "あまくて",
-        "reading": "あまくて",
-        "meaning": ""
+        "term": "渋い",
+        "reading": "しぶい",
+        "meaning": "1.  tasteful (clothing); cool"
       },
       {
-        "term": "くどくて",
-        "reading": "くどくて",
-        "meaning": ""
-      },
-      {
-        "term": "まずくて",
-        "reading": "まずくて",
-        "meaning": ""
+        "term": "渋る",
+        "reading": "しぶる",
+        "meaning": "to be reluctant (to do); to be unwilling (to do)"
       }
     ]
   },
@@ -2317,27 +2888,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こわい",
     "meaning_en": "frightening",
-    "explanation": "正解は「こわい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "怖",
+        "onyomi": "フ・ホ",
+        "kunyomi": "こわい・こわがる・おじる・おそれる",
+        "meaning": "Dreadful, Be Frightened, Fearful"
+      }
+    ],
     "similar": [
       {
-        "term": "怖い",
-        "reading": "こわい",
-        "meaning": "frightening"
+        "term": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "be afraid; dread"
       },
       {
-        "term": "わるい",
-        "reading": "",
-        "meaning": "悪い[a]bad"
+        "term": "怖がる",
+        "reading": "こわがる",
+        "meaning": "to be afraid (of); to fear"
       },
       {
-        "term": "くらい",
-        "reading": "",
-        "meaning": "approximately"
-      },
-      {
-        "term": "ひどい",
-        "reading": "",
-        "meaning": "awful"
+        "term": "恐怖症",
+        "reading": "きょうふしょう",
+        "meaning": "phobia; morbid fear"
       }
     ]
   },
@@ -2362,28 +2936,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "うすくて",
-    "meaning_en": "Meaning: うすくて",
-    "explanation": "正解は「うすくて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "薄",
+        "onyomi": "ハク",
+        "kunyomi": "うすい・うす-・-うす・うすめる・うすまる・うすらぐ・うすら-・うすれる・すすき",
+        "meaning": "Dilute, Thin, Weak (tea)"
+      }
+    ],
     "similar": [
       {
-        "term": "薄くて",
-        "reading": "うすくて",
-        "meaning": ""
+        "term": "薄い",
+        "reading": "うすい",
+        "meaning": "thin; weak"
       },
       {
-        "term": "あさくて",
-        "reading": "あさくて",
-        "meaning": ""
+        "term": "薄める",
+        "reading": "うすめる",
+        "meaning": "to dilute; to water down"
       },
       {
-        "term": "ほそくて",
-        "reading": "ほそくて",
-        "meaning": ""
-      },
-      {
-        "term": "よわくて",
-        "reading": "よわくて",
-        "meaning": ""
+        "term": "薄暗い",
+        "reading": "うすぐらい",
+        "meaning": "dim; gloomy"
       }
     ]
   },
@@ -2408,28 +2985,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はげしく",
-    "meaning_en": "Meaning: はげしく",
-    "explanation": "正解は「はげしく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "激",
+        "onyomi": "ゲキ",
+        "kunyomi": "はげしい",
+        "meaning": "Violent, Get Excited, Enraged"
+      }
+    ],
     "similar": [
       {
-        "term": "激しく",
-        "reading": "はげしく",
-        "meaning": ""
+        "term": "刺激",
+        "reading": "しげき",
+        "meaning": "stimulus; impetus"
       },
       {
-        "term": "めずらしく",
-        "reading": "めずらしく",
-        "meaning": ""
+        "term": "急激",
+        "reading": "きゅうげき",
+        "meaning": "sudden; precipitous"
       },
       {
-        "term": "あやしく",
-        "reading": "あやしく",
-        "meaning": ""
-      },
-      {
-        "term": "いそがしく",
-        "reading": "いそがしく",
-        "meaning": ""
+        "term": "激しい",
+        "reading": "はげしい",
+        "meaning": "violent; vehement"
       }
     ]
   },
@@ -2455,27 +3035,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ふさわしい",
     "meaning_en": "appropriate",
-    "explanation": "正解は「ふさわしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "相",
+        "onyomi": "ソウ・ショウ",
+        "kunyomi": "あい-",
+        "meaning": "Inter-, Mutual, Together"
+      },
+      {
+        "kanji": "応",
+        "onyomi": "オウ・ヨウ・-ノウ",
+        "kunyomi": "あたる・まさに・こたえる",
+        "meaning": "Apply, Answer, Yes"
+      }
+    ],
     "similar": [
       {
-        "term": "相応しい",
-        "reading": "ふさわしい",
-        "meaning": "appropriate"
+        "term": "相談",
+        "reading": "そうだんする",
+        "meaning": "to discuss"
       },
       {
-        "term": "くわしい",
-        "reading": "",
-        "meaning": "詳しい[a]detailed"
+        "term": "相当",
+        "reading": "そうとう",
+        "meaning": "suitable; fair"
       },
       {
-        "term": "したしい",
-        "reading": "",
-        "meaning": "親しい[a]intimate"
+        "term": "相手",
+        "reading": "あいて",
+        "meaning": "companion; partner"
       },
       {
-        "term": "このましい",
-        "reading": "",
-        "meaning": "好ましい[a]agreeable"
+        "term": "応じる",
+        "reading": "おうじる",
+        "meaning": "to respond; to satisfy"
+      },
+      {
+        "term": "一応",
+        "reading": "いちおう",
+        "meaning": "once; tentatively"
       }
     ]
   },
@@ -2500,28 +3099,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いちじるしく",
-    "meaning_en": "Meaning: いちじるしく",
-    "explanation": "正解は「いちじるしく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "著",
+        "onyomi": "チョ・チャク",
+        "kunyomi": "あらわす・いちじるしい",
+        "meaning": "Renowned, Publish, Write"
+      }
+    ],
     "similar": [
       {
-        "term": "著しく",
-        "reading": "いちじるしく",
-        "meaning": ""
+        "term": "著者",
+        "reading": "ちょしゃ",
+        "meaning": "author; writer"
       },
       {
-        "term": "かわいらしく",
-        "reading": "かわいらしく",
-        "meaning": ""
+        "term": "著す",
+        "reading": "あらわす",
+        "meaning": "to write; to publish"
       },
       {
-        "term": "うらやましく",
-        "reading": "うらやましく",
-        "meaning": ""
-      },
-      {
-        "term": "すばらしく",
-        "reading": "すばらしく",
-        "meaning": ""
+        "term": "著しい",
+        "reading": "いちじるしい",
+        "meaning": "remarkable; considerable"
       }
     ]
   },
@@ -2547,27 +3149,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "きびしい",
     "meaning_en": "strict",
-    "explanation": "正解は「きびしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "厳",
+        "onyomi": "ゲン・ゴン",
+        "kunyomi": "おごそか・きびしい・いかめしい・いつくし",
+        "meaning": "Stern, Strictness, Severity"
+      }
+    ],
     "similar": [
       {
-        "term": "厳しい",
-        "reading": "きびしい",
-        "meaning": "strict"
+        "term": "厳重",
+        "reading": "げんじゅう",
+        "meaning": "strict; rigour"
       },
       {
-        "term": "くるしい",
-        "reading": "",
-        "meaning": "苦しい[a]painful"
+        "term": "厳か",
+        "reading": "おごそか",
+        "meaning": "austere; majestic"
       },
       {
-        "term": "おかしい",
-        "reading": "",
-        "meaning": "strange or funny"
-      },
-      {
-        "term": "めずらしい",
-        "reading": "",
-        "meaning": "珍しい[a]rare"
+        "term": "厳密",
+        "reading": "げんみつ",
+        "meaning": "strict; close"
       }
     ]
   },
@@ -2593,27 +3198,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "くるしい",
     "meaning_en": "painful; difficult",
-    "explanation": "正解は「くるしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "苦",
+        "onyomi": "ク",
+        "kunyomi": "くるしい・-ぐるしい・くるしむ・くるしめる・にがい・にがる",
+        "meaning": "Suffering, Trial, Worry"
+      }
+    ],
     "similar": [
       {
-        "term": "苦しい",
-        "reading": "くるしい",
-        "meaning": "painful; difficult"
+        "term": "苦い",
+        "reading": "にがい",
+        "meaning": "bitter"
       },
       {
-        "term": "まずしい",
-        "reading": "",
-        "meaning": "貧しい[a]poor"
+        "term": "苦しむ",
+        "reading": "くるしむ",
+        "meaning": "to suffer; to groan"
       },
       {
-        "term": "とぼしい",
-        "reading": "",
-        "meaning": "乏しい[a]scanty"
-      },
-      {
-        "term": "あやしい",
-        "reading": "",
-        "meaning": "怪しい[a]doubtful"
+        "term": "苦労",
+        "reading": "くろう",
+        "meaning": "troubles; hardships"
       }
     ]
   },
@@ -2638,28 +3246,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "じゅうなん",
-    "meaning_en": "Meaning: じゅうなん",
-    "explanation": "正解は「じゅうなん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "柔",
+        "onyomi": "ジュウ・ニュウ",
+        "kunyomi": "やわらか・やわらかい・やわ・やわら",
+        "meaning": "Tender, Weakness, Gentleness"
+      },
+      {
+        "kanji": "軟",
+        "onyomi": "ナン",
+        "kunyomi": "やわらか・やわらかい",
+        "meaning": "Soft"
+      }
+    ],
     "similar": [
       {
-        "term": "柔軟に",
-        "reading": "じゅうなんに",
-        "meaning": ""
+        "term": "柔らかい",
+        "reading": "やわらかい",
+        "meaning": "soft"
       },
       {
-        "term": "じょうねん",
-        "reading": "",
-        "meaning": "情念[n]sentiment"
+        "term": "柔道",
+        "reading": "じゅうどう",
+        "meaning": "judo"
       },
       {
-        "term": "じょうなん",
-        "reading": "じょうなん",
-        "meaning": ""
+        "term": "柔軟",
+        "reading": "じゅうなん",
+        "meaning": "flexible; lithe"
       },
       {
-        "term": "じゅうねん",
-        "reading": "",
-        "meaning": "十年[n]decade"
+        "term": "軟らかい",
+        "reading": "やわらかい",
+        "meaning": "soft; tender"
+      },
+      {
+        "term": "軟化",
+        "reading": "なんか",
+        "meaning": "softening; softening (of attitude)"
       }
     ]
   },
@@ -2685,27 +3312,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "そっちょく",
     "meaning_en": "frankness; candour",
-    "explanation": "正解は「そっちょく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "率",
+        "onyomi": "ソツ・リツ・シュツ",
+        "kunyomi": "ひきいる",
+        "meaning": "Ratio, Rate, Proportion"
+      },
+      {
+        "kanji": "直",
+        "onyomi": "チョク・ジキ・ジカ",
+        "kunyomi": "ただちに・なおす・-なおす・なおる・なおき・すぐ",
+        "meaning": "Straightaway, Honesty, Frankness"
+      }
+    ],
     "similar": [
       {
-        "term": "率直",
-        "reading": "そっちょく",
-        "meaning": "frankness; candour"
+        "term": "確率",
+        "reading": "かくりつ",
+        "meaning": "probability"
       },
       {
-        "term": "そっちく",
-        "reading": "そっちく",
-        "meaning": ""
+        "term": "能率",
+        "reading": "のうりつ",
+        "meaning": "efficiency"
       },
       {
-        "term": "りっちょく",
-        "reading": "りっちょく",
-        "meaning": ""
+        "term": "倍率",
+        "reading": "ばいりつ",
+        "meaning": "diameter; magnification"
       },
       {
-        "term": "りっちく",
-        "reading": "りっちく",
-        "meaning": ""
+        "term": "直す",
+        "reading": "なおす",
+        "meaning": "to fix; to repair"
+      },
+      {
+        "term": "直る",
+        "reading": "なおる",
+        "meaning": "to be fixed; to be repaired"
       }
     ]
   },
@@ -2731,27 +3377,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "よくばり",
     "meaning_en": "avarice; covetousness",
-    "explanation": "正解は「よくばり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "欲",
+        "onyomi": "ヨク",
+        "kunyomi": "ほっする・ほしい",
+        "meaning": "Longing, Covetousness, Greed"
+      },
+      {
+        "kanji": "張",
+        "onyomi": "チョウ",
+        "kunyomi": "はる・-はり・-ばり",
+        "meaning": "Lengthen, Counter For Bows & Stringed Instruments, Stretch"
+      }
+    ],
     "similar": [
       {
-        "term": "欲張り",
-        "reading": "よくばり",
-        "meaning": "avarice; covetousness"
+        "term": "欲しい",
+        "reading": "ほしい",
+        "meaning": "want"
       },
       {
-        "term": "ようばり",
-        "reading": "ようばり",
-        "meaning": ""
+        "term": "食欲",
+        "reading": "しょくよく",
+        "meaning": "appetite (for food)"
       },
       {
-        "term": "よくはり",
-        "reading": "よくはり",
-        "meaning": ""
+        "term": "意欲",
+        "reading": "いよく",
+        "meaning": "will; desire"
       },
       {
-        "term": "ようはり",
-        "reading": "ようはり",
-        "meaning": ""
+        "term": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to try one's best, to try hard, to persist"
+      },
+      {
+        "term": "主張",
+        "reading": "しゅちょう",
+        "meaning": "claim; request"
       }
     ]
   },
@@ -2777,27 +3442,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "のうこう",
     "meaning_en": "rich (flavor, color, etc.); strong (e.g. odor)",
-    "explanation": "正解は「のうこう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "濃",
+        "onyomi": "ノウ",
+        "kunyomi": "こい",
+        "meaning": "Concentrated, Thick, Dark"
+      },
+      {
+        "kanji": "厚",
+        "onyomi": "コウ",
+        "kunyomi": "あつい・あか",
+        "meaning": "Thick, Heavy, Rich"
+      }
+    ],
     "similar": [
       {
-        "term": "濃厚",
-        "reading": "のうこう",
-        "meaning": "rich (flavor, color, etc.); strong (e.g. odor)"
+        "term": "濃い",
+        "reading": "こい",
+        "meaning": "thick (as of color; liquid)"
       },
       {
-        "term": "のこう",
-        "reading": "のこう",
-        "meaning": ""
+        "term": "濃度",
+        "reading": "のうど",
+        "meaning": "concentration; brightness"
       },
       {
-        "term": "のうごう",
-        "reading": "のうごう",
-        "meaning": ""
+        "term": "濃淡",
+        "reading": "のうたん",
+        "meaning": "light and shade; shade (of colour, color)"
       },
       {
-        "term": "のごう",
-        "reading": "のごう",
-        "meaning": ""
+        "term": "厚い",
+        "reading": "あつい",
+        "meaning": "kind; deep"
+      },
+      {
+        "term": "厚かましい",
+        "reading": "あつかましい",
+        "meaning": "impudent; shameless"
       }
     ]
   },
@@ -2822,28 +3506,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たんじゅん",
-    "meaning_en": "Meaning: たんじゅん",
-    "explanation": "正解は「たんじゅん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "単",
+        "onyomi": "タン",
+        "kunyomi": "ひとえ",
+        "meaning": "Simple, One, Single"
+      },
+      {
+        "kanji": "純",
+        "onyomi": "ジュン",
+        "kunyomi": "-",
+        "meaning": "Genuine, Purity, Innocence"
+      }
+    ],
     "similar": [
       {
-        "term": "単純な",
-        "reading": "たんじゅんな",
-        "meaning": ""
+        "term": "簡単",
+        "reading": "かんたん",
+        "meaning": "simple"
       },
       {
-        "term": "だんじゅん",
-        "reading": "だんじゅん",
-        "meaning": ""
+        "term": "単なる",
+        "reading": "たんなる",
+        "meaning": "mere; simple"
       },
       {
-        "term": "たんじゅ",
-        "reading": "たんじゅ",
-        "meaning": ""
+        "term": "単に",
+        "reading": "たんに",
+        "meaning": "simply; merely"
       },
       {
-        "term": "だんじゅ",
-        "reading": "だんじゅ",
-        "meaning": ""
+        "term": "単純",
+        "reading": "たんじゅん",
+        "meaning": "simplicity"
+      },
+      {
+        "term": "純情",
+        "reading": "じゅんじょう",
+        "meaning": "pure heart; naivete"
       }
     ]
   },
@@ -2869,27 +3572,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "おおはば",
     "meaning_en": "full width; large scale",
-    "explanation": "正解は「おおはば」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      },
+      {
+        "kanji": "幅",
+        "onyomi": "フク",
+        "kunyomi": "はば",
+        "meaning": "Hanging Scroll, Width"
+      }
+    ],
     "similar": [
       {
-        "term": "大幅",
-        "reading": "おおはば",
-        "meaning": "full width; large scale"
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
       },
       {
-        "term": "だいふく",
-        "reading": "だいふく",
-        "meaning": ""
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       },
       {
-        "term": "だいはば",
-        "reading": "だいはば",
-        "meaning": ""
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
       },
       {
-        "term": "おおふく",
-        "reading": "おおふく",
-        "meaning": ""
+        "term": "小幅",
+        "reading": "こはば",
+        "meaning": "small; narrow"
+      },
+      {
+        "term": "幅広",
+        "reading": "はばびろ",
+        "meaning": "wide (esp. of clothing); broad"
       }
     ]
   },
@@ -2915,27 +3637,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "しんこく",
     "meaning_en": "serious",
-    "explanation": "正解は「しんこく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "深",
+        "onyomi": "シン",
+        "kunyomi": "ふかい・-ぶかい・ふかまる・ふかめる・み-",
+        "meaning": "Deep, Heighten, Intensify"
+      },
+      {
+        "kanji": "刻",
+        "onyomi": "コク",
+        "kunyomi": "きざむ・きざみ",
+        "meaning": "Engrave, Cut Fine, Chop"
+      }
+    ],
     "similar": [
       {
-        "term": "深刻",
-        "reading": "しんこく",
-        "meaning": "serious"
+        "term": "深い",
+        "reading": "ふかい",
+        "meaning": "deep"
       },
       {
-        "term": "じんこく",
-        "reading": "じんこく",
-        "meaning": ""
+        "term": "深まる",
+        "reading": "ふかまる",
+        "meaning": "to deepen; to heighten"
       },
       {
-        "term": "しんごく",
-        "reading": "しんごく",
-        "meaning": ""
+        "term": "深夜",
+        "reading": "しんや",
+        "meaning": "late at night"
       },
       {
-        "term": "じんごく",
-        "reading": "じんごく",
-        "meaning": ""
+        "term": "時刻",
+        "reading": "じこく",
+        "meaning": "instant; time"
+      },
+      {
+        "term": "遅刻",
+        "reading": "ちこく",
+        "meaning": "lateness; late coming"
       }
     ]
   },
@@ -2961,27 +3702,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "きょだい",
     "meaning_en": "huge; gigantic",
-    "explanation": "正解は「きょだい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "巨",
+        "onyomi": "キョ",
+        "kunyomi": "-",
+        "meaning": "Gigantic, Big, Large"
+      },
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      }
+    ],
     "similar": [
       {
-        "term": "巨大",
-        "reading": "きょだい",
-        "meaning": "huge; gigantic"
+        "term": "巨人",
+        "reading": "きょじん",
+        "meaning": "giant; great man"
       },
       {
-        "term": "きょうだい",
-        "reading": "",
-        "meaning": "兄弟[n]brother"
+        "term": "巨体",
+        "reading": "きょたい",
+        "meaning": "huge body; large build"
       },
       {
-        "term": "きょうたい",
-        "reading": "",
-        "meaning": "狂態[n]crazy behavior"
+        "term": "巨匠",
+        "reading": "きょしょう",
+        "meaning": "master; masterhand"
       },
       {
-        "term": "きょたい",
-        "reading": "",
-        "meaning": "巨体[n]large build"
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
+      },
+      {
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       }
     ]
   },
@@ -3007,27 +3767,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ほうふ",
     "meaning_en": "abundance; wealth",
-    "explanation": "正解は「ほうふ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "豊",
+        "onyomi": "ホウ・ブ",
+        "kunyomi": "ゆたか・とよ",
+        "meaning": "Bountiful, Excellent, Rich"
+      },
+      {
+        "kanji": "富",
+        "onyomi": "フ・フウ",
+        "kunyomi": "とむ・とみ",
+        "meaning": "Wealth, Enrich, Abundant"
+      }
+    ],
     "similar": [
       {
-        "term": "豊富",
-        "reading": "ほうふ",
-        "meaning": "abundance; wealth"
+        "term": "豊か",
+        "reading": "ゆたか",
+        "meaning": "abundant; wealthy"
       },
       {
-        "term": "ほうぶ",
-        "reading": "",
-        "meaning": "邦舞[n]Japanese dance"
+        "term": "豊作",
+        "reading": "ほうさく",
+        "meaning": "abundant harvest; bumper crop"
       },
       {
-        "term": "ほふ",
-        "reading": "ほふ",
-        "meaning": ""
+        "term": "種類豊富",
+        "reading": "しゅるいほうふ",
+        "meaning": "rich in variety; diverse"
       },
       {
-        "term": "ほぶ",
-        "reading": "ほぶ",
-        "meaning": ""
+        "term": "富む",
+        "reading": "とむ",
+        "meaning": "to be rich; to become rich"
+      },
+      {
+        "term": "富豪",
+        "reading": "ふごう",
+        "meaning": "wealthy person; millionaire"
       }
     ]
   },
@@ -3053,27 +3832,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "あんか",
     "meaning_en": "low-priced; cheap",
-    "explanation": "正解は「あんか」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "安",
+        "onyomi": "アン",
+        "kunyomi": "やすい・やすまる・やす・やすらか",
+        "meaning": "Relax, Cheap, Low"
+      },
+      {
+        "kanji": "価",
+        "onyomi": "カ・ケ",
+        "kunyomi": "あたい",
+        "meaning": "Value, Price"
+      }
+    ],
     "similar": [
       {
-        "term": "安価",
-        "reading": "あんか",
-        "meaning": "low-priced; cheap"
+        "term": "安い",
+        "reading": "やすい",
+        "meaning": "cheap"
       },
       {
-        "term": "やすね",
-        "reading": "",
-        "meaning": "安値[n]low price"
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
       },
       {
-        "term": "やすか",
-        "reading": "やすか",
-        "meaning": ""
+        "term": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
       },
       {
-        "term": "あんね",
-        "reading": "あんね",
-        "meaning": ""
+        "term": "価値",
+        "reading": "かち",
+        "meaning": "value; worth"
+      },
+      {
+        "term": "価格",
+        "reading": "かかく",
+        "meaning": "price; value"
       }
     ]
   },
@@ -3099,27 +3897,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ぞんぶん",
     "meaning_en": "to one's heart's content; as much as one likes",
-    "explanation": "正解は「ぞんぶん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "存",
+        "onyomi": "ソン・ゾン",
+        "kunyomi": "ながらえる・ある・たもつ・とう",
+        "meaning": "Exist, Suppose, Be Aware Of"
+      },
+      {
+        "kanji": "分",
+        "onyomi": "ブン・フン・ブ",
+        "kunyomi": "わける・わけ・わかれる・わかる・わかつ",
+        "meaning": "Part, Minute Of Time, Segment"
+      }
+    ],
     "similar": [
       {
-        "term": "存分",
-        "reading": "ぞんぶん",
-        "meaning": "to one's heart's content; as much as one likes"
+        "term": "ご存じ",
+        "reading": "ごぞんじ",
+        "meaning": "knowing; acquaintance"
       },
       {
-        "term": "そんぶん",
-        "reading": "そんぶん",
-        "meaning": ""
+        "term": "保存",
+        "reading": "ほぞん",
+        "meaning": "preservation; conservation"
       },
       {
-        "term": "ぞんふん",
-        "reading": "ぞんふん",
-        "meaning": ""
+        "term": "存在",
+        "reading": "そんざい",
+        "meaning": "existence; being"
       },
       {
-        "term": "そんふん",
-        "reading": "そんふん",
-        "meaning": ""
+        "term": "分かる",
+        "reading": "わかる",
+        "meaning": "to be understood"
+      },
+      {
+        "term": "半分",
+        "reading": "はんぶん",
+        "meaning": "half minute"
       }
     ]
   },
@@ -3145,27 +3962,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "まったく",
     "meaning_en": "really; truly",
-    "explanation": "正解は「まったく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "全",
+        "onyomi": "ゼン",
+        "kunyomi": "まったく・すべて",
+        "meaning": "Whole, Entire, All"
+      }
+    ],
     "similar": [
       {
-        "term": "全く",
-        "reading": "まったく",
-        "meaning": "really; truly"
+        "term": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all"
       },
       {
-        "term": "しばらく",
-        "reading": "",
-        "meaning": "little while"
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
       },
       {
-        "term": "ひどく",
-        "reading": "ひどく",
-        "meaning": ""
-      },
-      {
-        "term": "あいにく",
-        "reading": "",
-        "meaning": "unfortunately; Sorry"
+        "term": "全て",
+        "reading": "すべて",
+        "meaning": "all; the whole"
       }
     ]
   },
@@ -3190,18 +4010,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "じつ",
-    "meaning_en": "Meaning: じつ",
-    "explanation": "正解は「じつ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "実",
+        "onyomi": "ジツ・シツ",
+        "kunyomi": "み・みのる・まこと・みの・みちる",
+        "meaning": "Reality, Truth"
+      }
+    ],
     "similar": [
       {
-        "term": "実におもしろい",
-        "reading": "じつにおもしろい",
-        "meaning": ""
+        "term": "事実",
+        "reading": "じじつ",
+        "meaning": "fact; truth"
       },
       {
-        "term": "みつ",
-        "reading": "",
-        "meaning": "蜜[n]honey"
+        "term": "実に",
+        "reading": "じつに",
+        "meaning": "indeed; truly"
+      },
+      {
+        "term": "実は",
+        "reading": "じつは",
+        "meaning": "as a matter of fact; by the way"
       }
     ]
   },
@@ -3227,27 +4060,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "さっそく",
     "meaning_en": "at once; immediately",
-    "explanation": "正解は「さっそく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "早",
+        "onyomi": "ソウ・サッ",
+        "kunyomi": "はやい・はや・はや-・はやまる・はやめる・さ-",
+        "meaning": "Early, Fast"
+      },
+      {
+        "kanji": "速",
+        "onyomi": "ソク",
+        "kunyomi": "はやい・はや-・はやめる・すみやか",
+        "meaning": "Quick, Fast"
+      }
+    ],
     "similar": [
       {
-        "term": "早速",
-        "reading": "さっそく",
-        "meaning": "at once; immediately"
+        "term": "早い",
+        "reading": "はやい",
+        "meaning": "early"
       },
       {
-        "term": "そっそく",
-        "reading": "そっそく",
-        "meaning": ""
+        "term": "早口",
+        "reading": "はやくち",
+        "meaning": "fast-talking"
       },
       {
-        "term": "そっそう",
-        "reading": "そっそう",
-        "meaning": ""
+        "term": "お早う",
+        "reading": "おはよう",
+        "meaning": "Good morning"
       },
       {
-        "term": "さっそう",
-        "reading": "",
-        "meaning": "颯爽[adt]gallantly"
+        "term": "速い",
+        "reading": "はやい",
+        "meaning": "quick"
+      },
+      {
+        "term": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid (e.g. progress)"
       }
     ]
   },
@@ -3273,27 +4125,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "つね",
     "meaning_en": "always; constantly",
-    "explanation": "正解は「つね」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "常",
+        "onyomi": "ジョウ",
+        "kunyomi": "つね・とこ-",
+        "meaning": "Usual, Ordinary, Normal"
+      }
+    ],
     "similar": [
       {
-        "term": "常に",
-        "reading": "つねに",
-        "meaning": "always; constantly"
+        "term": "非常に",
+        "reading": "ひじょうに",
+        "meaning": "extremely"
       },
       {
-        "term": "じょう",
-        "reading": "",
-        "meaning": "錠[n]lock"
+        "term": "常識",
+        "reading": "じょうしき",
+        "meaning": "common sense"
       },
       {
-        "term": "じゅう",
-        "reading": "",
-        "meaning": "十[num]ten"
-      },
-      {
-        "term": "づね",
-        "reading": "づね",
-        "meaning": ""
+        "term": "日常",
+        "reading": "にちじょう",
+        "meaning": "ordinary; regular"
       }
     ]
   },
@@ -3319,27 +4174,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "企画",
     "meaning_en": "planning; project",
-    "explanation": "正解は「企画」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "企",
+        "onyomi": "キ",
+        "kunyomi": "くわだてる・たくらむ",
+        "meaning": "Undertake, Scheme, Design"
+      },
+      {
+        "kanji": "画",
+        "onyomi": "ガ・カク・エ・カイ",
+        "kunyomi": "えがく・かくする・かぎる・はかりごと・はかる",
+        "meaning": "Brush-stroke, Picture"
+      }
+    ],
     "similar": [
       {
-        "term": "企画",
-        "reading": "きかく",
-        "meaning": "planning; project"
+        "term": "企業",
+        "reading": "きぎょう",
+        "meaning": "enterprise; undertaking"
       },
       {
-        "term": "止画",
-        "reading": "しが",
-        "meaning": ""
+        "term": "中小企業",
+        "reading": "ちゅうしょうきぎょう",
+        "meaning": "small and medium-sized enterprises; small and medium-sized businesses"
       },
       {
-        "term": "企各",
-        "reading": "きかく",
-        "meaning": ""
+        "term": "企てる",
+        "reading": "くわだてる",
+        "meaning": "to plan; to plot"
       },
       {
-        "term": "止各",
-        "reading": "しかく",
-        "meaning": ""
+        "term": "映画",
+        "reading": "えいが",
+        "meaning": "movie"
+      },
+      {
+        "term": "映画館",
+        "reading": "えいがかん",
+        "meaning": "cinema"
       }
     ]
   },
@@ -3365,27 +4239,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "迷い",
     "meaning_en": "hesitation; bewilderment",
-    "explanation": "正解は「迷い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "迷",
+        "onyomi": "メイ",
+        "kunyomi": "まよう",
+        "meaning": "Astray, Be Perplexed, In Doubt"
+      }
+    ],
     "similar": [
       {
-        "term": "迷い",
-        "reading": "まよい",
-        "meaning": "hesitation; bewilderment"
+        "term": "迷う",
+        "reading": "まよう",
+        "meaning": "to be puzzled, to be perplexed, to lose one's way"
       },
       {
-        "term": "避い",
-        "reading": "ひい",
-        "meaning": ""
+        "term": "迷子",
+        "reading": "まいご",
+        "meaning": "lost (stray) child"
       },
       {
-        "term": "運い",
-        "reading": "うんい",
-        "meaning": ""
-      },
-      {
-        "term": "追い",
-        "reading": "おい",
-        "meaning": ""
+        "term": "迷惑",
+        "reading": "めいわく",
+        "meaning": "trouble; bother"
       }
     ]
   },
@@ -3411,27 +4288,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "恵み",
     "meaning_en": "blessing",
-    "explanation": "正解は「恵み」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "恵",
+        "onyomi": "ケイ・エ",
+        "kunyomi": "めぐむ・めぐみ",
+        "meaning": "Favor, Blessing, Grace"
+      }
+    ],
     "similar": [
       {
-        "term": "恵み",
-        "reading": "めぐみ",
-        "meaning": "blessing"
+        "term": "知恵",
+        "reading": "ちえ",
+        "meaning": "wisdom; wit"
       },
       {
-        "term": "怠み",
-        "reading": "たいみ",
-        "meaning": ""
+        "term": "恩恵",
+        "reading": "おんけい",
+        "meaning": "grace; favor"
       },
       {
-        "term": "志み",
-        "reading": "こころざしみ",
-        "meaning": ""
-      },
-      {
-        "term": "患み",
-        "reading": "かんみ",
-        "meaning": ""
+        "term": "恵まれる",
+        "reading": "めぐまれる",
+        "meaning": "to be blessed with; to be rich in"
       }
     ]
   },
@@ -3457,27 +4337,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "お腹",
     "meaning_en": "stomach",
-    "explanation": "正解は「お腹」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "腹",
+        "onyomi": "フク",
+        "kunyomi": "はら",
+        "meaning": "Abdomen, Belly, Stomach"
+      }
+    ],
     "similar": [
       {
-        "term": "お腹",
-        "reading": "おなか",
-        "meaning": "stomach"
+        "term": "中腹",
+        "reading": "ちゅうっぱら",
+        "meaning": "irritated; offended"
       },
       {
-        "term": "お復",
-        "reading": "おふく",
-        "meaning": ""
+        "term": "山腹",
+        "reading": "さんぷく",
+        "meaning": "hillside; mountainside"
       },
       {
-        "term": "お福",
-        "reading": "おふく",
-        "meaning": ""
-      },
-      {
-        "term": "お服",
-        "reading": "おふく",
-        "meaning": ""
+        "term": "空腹",
+        "reading": "くうふく",
+        "meaning": "hunger"
       }
     ]
   },
@@ -3503,27 +4386,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "乱れ",
     "meaning_en": "disorder; disturbance",
-    "explanation": "正解は「乱れ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "乱",
+        "onyomi": "ラン・ロン",
+        "kunyomi": "みだれる・みだる・みだす・みだ・おさめる・わたる",
+        "meaning": "Riot, War, Disorder"
+      }
+    ],
     "similar": [
       {
-        "term": "乱れ",
-        "reading": "みだれ",
-        "meaning": "disorder; disturbance"
+        "term": "混乱",
+        "reading": "こんらん",
+        "meaning": "disorder; chaos"
       },
       {
-        "term": "舐れ",
-        "reading": "ねぶれ",
-        "meaning": ""
+        "term": "乱暴",
+        "reading": "らんぼう",
+        "meaning": "rude; violent"
       },
       {
-        "term": "礼れ",
-        "reading": "れいれ",
-        "meaning": ""
-      },
-      {
-        "term": "舌れ",
-        "reading": "したれ",
-        "meaning": ""
+        "term": "乱す",
+        "reading": "みだす",
+        "meaning": "to throw out of order; to disarrange"
       }
     ]
   },
@@ -3549,27 +4435,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "足腰",
     "meaning_en": "legs and loins; lower body",
-    "explanation": "正解は「足腰」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "足",
+        "onyomi": "ソク",
+        "kunyomi": "あし・たりる・たる・たす",
+        "meaning": "Leg, Foot, Be Sufficient"
+      },
+      {
+        "kanji": "腰",
+        "onyomi": "ヨウ",
+        "kunyomi": "こし",
+        "meaning": "Loins, Hips, Waist"
+      }
+    ],
     "similar": [
       {
-        "term": "足腰",
-        "reading": "あしこし",
-        "meaning": "legs and loins; lower body"
+        "term": "足; 脚",
+        "reading": "あし",
+        "meaning": "foot; leg"
       },
       {
-        "term": "足脚",
-        "reading": "あしあし",
-        "meaning": ""
+        "term": "足す",
+        "reading": "たす",
+        "meaning": "to add a number"
       },
       {
-        "term": "足腕",
-        "reading": "あしうで",
-        "meaning": ""
+        "term": "足りる",
+        "reading": "たりる",
+        "meaning": "to be enough"
       },
       {
-        "term": "足腹",
-        "reading": "あしはら",
-        "meaning": ""
+        "term": "腰掛け",
+        "reading": "こしかけ",
+        "meaning": "seat; bench"
+      },
+      {
+        "term": "腰掛ける",
+        "reading": "こしかける",
+        "meaning": "to sit (down)"
       }
     ]
   },
@@ -3595,27 +4500,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "市販",
     "meaning_en": "putting on the market; putting on sale",
-    "explanation": "正解は「市販」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "市",
+        "onyomi": "シ",
+        "kunyomi": "いち",
+        "meaning": "Market, City, Town"
+      },
+      {
+        "kanji": "販",
+        "onyomi": "ハン",
+        "kunyomi": "-",
+        "meaning": "Marketing, Sell, Trade"
+      }
+    ],
     "similar": [
       {
-        "term": "市販",
-        "reading": "しはん",
-        "meaning": "putting on the market; putting on sale"
+        "term": "市民",
+        "reading": "しみん",
+        "meaning": "citizen"
       },
       {
-        "term": "市版",
-        "reading": "しはん",
-        "meaning": ""
+        "term": "市場",
+        "reading": "いちば",
+        "meaning": "(the) market (as a concept)"
       },
       {
-        "term": "市反",
-        "reading": "しはん",
-        "meaning": ""
+        "term": "都市",
+        "reading": "とし",
+        "meaning": "town; city"
       },
       {
-        "term": "市阪",
-        "reading": "しさか",
-        "meaning": ""
+        "term": "販売",
+        "reading": "はんばい",
+        "meaning": "sale; selling"
+      },
+      {
+        "term": "信販会社",
+        "reading": "しんぱんがいしゃ",
+        "meaning": "credit company"
       }
     ]
   },
@@ -3641,27 +4565,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "距離",
     "meaning_en": "distance; range",
-    "explanation": "正解は「距離」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "距",
+        "onyomi": "キョ",
+        "kunyomi": "へだたる・けづめ",
+        "meaning": "Long-distance, Spur, Fetlock"
+      },
+      {
+        "kanji": "離",
+        "onyomi": "リ",
+        "kunyomi": "はなれる・はなす",
+        "meaning": "Detach, Separation, Disjoin"
+      }
+    ],
     "similar": [
       {
-        "term": "距離",
-        "reading": "きょり",
-        "meaning": "distance; range"
+        "term": "短距離",
+        "reading": "たんきょり",
+        "meaning": "short distance; short range"
       },
       {
-        "term": "距里",
-        "reading": "きょさと",
-        "meaning": ""
+        "term": "近距離",
+        "reading": "きんきょり",
+        "meaning": "short distance; close range"
       },
       {
-        "term": "拒離",
-        "reading": "きょり",
-        "meaning": ""
+        "term": "遠距離",
+        "reading": "えんきょり",
+        "meaning": "long distance; long range"
       },
       {
-        "term": "拒里",
-        "reading": "きょさと",
-        "meaning": ""
+        "term": "離す",
+        "reading": "はなす",
+        "meaning": "to part; divide"
+      },
+      {
+        "term": "離れる",
+        "reading": "はなれる",
+        "meaning": "to be separated from; to leave"
       }
     ]
   },
@@ -3687,27 +4630,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "企業",
     "meaning_en": "enterprise; undertaking",
-    "explanation": "正解は「企業」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "企",
+        "onyomi": "キ",
+        "kunyomi": "くわだてる・たくらむ",
+        "meaning": "Undertake, Scheme, Design"
+      },
+      {
+        "kanji": "業",
+        "onyomi": "ギョウ・ゴウ",
+        "kunyomi": "わざ",
+        "meaning": "Business, Vocation, Arts"
+      }
+    ],
     "similar": [
       {
-        "term": "企業",
-        "reading": "きぎょう",
-        "meaning": "enterprise; undertaking"
+        "term": "企画",
+        "reading": "きかく",
+        "meaning": "planning; project"
       },
       {
-        "term": "企行",
-        "reading": "きぎょう",
-        "meaning": ""
+        "term": "中小企業",
+        "reading": "ちゅうしょうきぎょう",
+        "meaning": "small and medium-sized enterprises; small and medium-sized businesses"
       },
       {
-        "term": "企迎",
-        "reading": "きげい",
-        "meaning": ""
+        "term": "企てる",
+        "reading": "くわだてる",
+        "meaning": "to plan; to plot"
       },
       {
-        "term": "企形",
-        "reading": "きかたち",
-        "meaning": ""
+        "term": "授業",
+        "reading": "じゅぎょう",
+        "meaning": "lesson; class work"
+      },
+      {
+        "term": "卒業",
+        "reading": "そつぎょう",
+        "meaning": "graduation"
       }
     ]
   },
@@ -3733,27 +4695,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "地域",
     "meaning_en": "area; region",
-    "explanation": "正解は「地域」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      },
+      {
+        "kanji": "域",
+        "onyomi": "イキ",
+        "kunyomi": "-",
+        "meaning": "Range, Region, Limits"
+      }
+    ],
     "similar": [
       {
-        "term": "地域",
-        "reading": "ちいき",
-        "meaning": "area; region"
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       },
       {
-        "term": "池或",
-        "reading": "いけある",
-        "meaning": ""
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       },
       {
-        "term": "地或",
-        "reading": "ちある",
-        "meaning": ""
+        "term": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
       },
       {
-        "term": "池域",
-        "reading": "いけいき",
-        "meaning": ""
+        "term": "区域",
+        "reading": "くいき",
+        "meaning": "limits; boundary"
+      },
+      {
+        "term": "流域",
+        "reading": "りゅういき",
+        "meaning": "(river) basin"
       }
     ]
   },
@@ -3779,27 +4760,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "評判",
     "meaning_en": "fame; reputation",
-    "explanation": "正解は「評判」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "評",
+        "onyomi": "ヒョウ",
+        "kunyomi": "-",
+        "meaning": "Evaluate, Criticism, Comment"
+      },
+      {
+        "kanji": "判",
+        "onyomi": "ハン・バン",
+        "kunyomi": "わかる",
+        "meaning": "Judgement, Signature, Stamp"
+      }
+    ],
     "similar": [
       {
-        "term": "評判",
-        "reading": "ひょうばん",
-        "meaning": "fame; reputation"
+        "term": "批評",
+        "reading": "ひひょう",
+        "meaning": "criticism; review"
       },
       {
-        "term": "評半",
-        "reading": "ひょうはん",
-        "meaning": ""
+        "term": "評価",
+        "reading": "ひょうか",
+        "meaning": "valuation; estimation"
       },
       {
-        "term": "平半",
-        "reading": "たいらはん",
-        "meaning": ""
+        "term": "評論",
+        "reading": "ひょうろん",
+        "meaning": "criticism; critique"
       },
       {
-        "term": "平判",
-        "reading": "たいらはん",
-        "meaning": ""
+        "term": "判断",
+        "reading": "はんだん",
+        "meaning": "judgement; decision"
+      },
+      {
+        "term": "審判",
+        "reading": "しんぱん",
+        "meaning": "refereeing; trial"
       }
     ]
   },
@@ -3825,27 +4825,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "被害",
     "meaning_en": "damage",
-    "explanation": "正解は「被害」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "被",
+        "onyomi": "ヒ",
+        "kunyomi": "こうむる・おおう・かぶる・かぶせる",
+        "meaning": "Incur, Cover, Veil"
+      },
+      {
+        "kanji": "害",
+        "onyomi": "ガイ",
+        "kunyomi": "-",
+        "meaning": "Harm, Injury"
+      }
+    ],
     "similar": [
       {
-        "term": "被害",
-        "reading": "ひがい",
-        "meaning": "damage"
+        "term": "被る",
+        "reading": "かぶる",
+        "meaning": "to suffer"
       },
       {
-        "term": "被割",
-        "reading": "ひわり",
-        "meaning": ""
+        "term": "被せる",
+        "reading": "かぶせる",
+        "meaning": "to cover (with something)"
       },
       {
-        "term": "費害",
-        "reading": "ひがい",
-        "meaning": ""
+        "term": "被保険者",
+        "reading": "ひほけんしゃ",
+        "meaning": "insured person"
       },
       {
-        "term": "費割",
-        "reading": "ひわり",
-        "meaning": ""
+        "term": "損害",
+        "reading": "そんがい",
+        "meaning": "damage; injury"
+      },
+      {
+        "term": "障害",
+        "reading": "しょうがい",
+        "meaning": "obstacle; impediment (fault)"
       }
     ]
   },
@@ -3871,27 +4890,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "筋肉",
     "meaning_en": "muscle; sinew",
-    "explanation": "正解は「筋肉」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "筋",
+        "onyomi": "キン",
+        "kunyomi": "すじ",
+        "meaning": "Muscle, Sinew, Tendon"
+      },
+      {
+        "kanji": "肉",
+        "onyomi": "ニク",
+        "kunyomi": "しし",
+        "meaning": "Meat"
+      }
+    ],
     "similar": [
       {
-        "term": "筋肉",
-        "reading": "きんにく",
-        "meaning": "muscle; sinew"
+        "term": "一筋",
+        "reading": "ひとすき",
+        "meaning": "a line; earnestly"
       },
       {
-        "term": "肋肉",
-        "reading": "あばらにく",
-        "meaning": ""
+        "term": "大筋",
+        "reading": "おおすじ",
+        "meaning": "outline; summary"
       },
       {
-        "term": "肌肉",
-        "reading": "はだにく",
-        "meaning": ""
+        "term": "粗筋",
+        "reading": "あらすじ",
+        "meaning": "outline; summary"
       },
       {
-        "term": "節肉",
-        "reading": "ふしにく",
-        "meaning": ""
+        "term": "とり肉",
+        "reading": "とりにく",
+        "meaning": "chicken meat"
+      },
+      {
+        "term": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef"
       }
     ]
   },
@@ -3917,27 +4955,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "環境",
     "meaning_en": "environment; circumstance",
-    "explanation": "正解は「環境」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "環",
+        "onyomi": "カン",
+        "kunyomi": "わ",
+        "meaning": "Ring, Circle, Link"
+      },
+      {
+        "kanji": "境",
+        "onyomi": "キョウ・ケイ",
+        "kunyomi": "さかい",
+        "meaning": "Boundary, Border, Region"
+      }
+    ],
     "similar": [
       {
-        "term": "環境",
-        "reading": "かんきょう",
-        "meaning": "environment; circumstance"
+        "term": "循環",
+        "reading": "じゅんかん",
+        "meaning": "circulation; rotation"
       },
       {
-        "term": "観境",
-        "reading": "かんさかい",
-        "meaning": ""
+        "term": "一環",
+        "reading": "いっかん",
+        "meaning": "link (e.g. in a chain of events); part (of a plan, campaign, activities, etc.)"
       },
       {
-        "term": "環響",
-        "reading": "かんきょう",
-        "meaning": ""
+        "term": "作業環境",
+        "reading": "さぎょうかんきょう",
+        "meaning": "work environment"
       },
       {
-        "term": "観響",
-        "reading": "かんきょう",
-        "meaning": ""
+        "term": "国境",
+        "reading": "こっきょう",
+        "meaning": "national or state border"
+      },
+      {
+        "term": "境界",
+        "reading": "きょうかい",
+        "meaning": "boundary"
       }
     ]
   },
@@ -3963,27 +5020,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "栄養",
     "meaning_en": "nutrition; nourishment",
-    "explanation": "正解は「栄養」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "栄",
+        "onyomi": "エイ・ヨウ",
+        "kunyomi": "さかえる・はえ・-ばえ・はえる・え",
+        "meaning": "Flourish, Prosperity, Honor"
+      },
+      {
+        "kanji": "養",
+        "onyomi": "ヨウ・リョウ",
+        "kunyomi": "やしなう",
+        "meaning": "Foster, Bring Up, Rear"
+      }
+    ],
     "similar": [
       {
-        "term": "栄養",
-        "reading": "えいよう",
-        "meaning": "nutrition; nourishment"
+        "term": "栄える",
+        "reading": "さかえる",
+        "meaning": "to prosper; to flourish"
       },
       {
-        "term": "蛍養",
-        "reading": "ほたるよう",
-        "meaning": ""
+        "term": "繁栄",
+        "reading": "はんえい",
+        "meaning": "prospering; prosperity"
       },
       {
-        "term": "栄義",
-        "reading": "さかえぎ",
-        "meaning": ""
+        "term": "光栄",
+        "reading": "こうえい",
+        "meaning": "honour; honor"
       },
       {
-        "term": "蛍義",
-        "reading": "ほたるぎ",
-        "meaning": ""
+        "term": "休養",
+        "reading": "きゅうよう",
+        "meaning": "rest; break"
+      },
+      {
+        "term": "教養",
+        "reading": "きょうよう",
+        "meaning": "culture; education"
       }
     ]
   },
@@ -4009,27 +5085,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "態度",
     "meaning_en": "attitude; manner",
-    "explanation": "正解は「態度」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "態",
+        "onyomi": "タイ",
+        "kunyomi": "わざと",
+        "meaning": "Attitude, Condition, Figure"
+      },
+      {
+        "kanji": "度",
+        "onyomi": "ド・ト・タク",
+        "kunyomi": "たび・-たい",
+        "meaning": "Degrees, Occurrence, Time"
+      }
+    ],
     "similar": [
       {
-        "term": "態度",
-        "reading": "たいど",
-        "meaning": "attitude; manner"
+        "term": "事態",
+        "reading": "じたい",
+        "meaning": "situation; present state of affairs"
       },
       {
-        "term": "熊度",
-        "reading": "くまど",
-        "meaning": ""
+        "term": "状態",
+        "reading": "じょうたい",
+        "meaning": "condition; situation"
       },
       {
-        "term": "態渡",
-        "reading": "たいわたり",
-        "meaning": ""
+        "term": "実態",
+        "reading": "じったい",
+        "meaning": "truth; fact"
       },
       {
-        "term": "熊渡",
-        "reading": "くまわたり",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "丁度",
+        "reading": "ちょうど",
+        "meaning": "just, right, exactly"
       }
     ]
   },
@@ -4055,27 +5150,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "年齢",
     "meaning_en": "age; years",
-    "explanation": "正解は「年齢」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "年",
+        "onyomi": "ネン",
+        "kunyomi": "とし",
+        "meaning": "Year, Counter For Years"
+      },
+      {
+        "kanji": "齢",
+        "onyomi": "レイ",
+        "kunyomi": "よわい・とし",
+        "meaning": "Age"
+      }
+    ],
     "similar": [
       {
-        "term": "年齢",
-        "reading": "ねんれい",
-        "meaning": "age; years"
+        "term": "さ来年",
+        "reading": "さらいねん",
+        "meaning": "year after next"
       },
       {
-        "term": "年例",
-        "reading": "ねんれい",
-        "meaning": ""
+        "term": "一昨年",
+        "reading": "おととし",
+        "meaning": "year before last"
       },
       {
-        "term": "年令",
-        "reading": "ねんれい",
-        "meaning": ""
+        "term": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "fountain pen"
       },
       {
-        "term": "年列",
-        "reading": "ねんれつ",
-        "meaning": ""
+        "term": "学齢",
+        "reading": "がくれい",
+        "meaning": "school age"
+      },
+      {
+        "term": "年齢層",
+        "reading": "ねんれいそう",
+        "meaning": "age range; age-group"
       }
     ]
   },
@@ -4101,27 +5215,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "声援",
     "meaning_en": "(shout of) encouragement; cheering",
-    "explanation": "正解は「声援」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "声",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "こえ・こわ-",
+        "meaning": "Voice"
+      },
+      {
+        "kanji": "援",
+        "onyomi": "エン",
+        "kunyomi": "-",
+        "meaning": "Abet, Help, Save"
+      }
+    ],
     "similar": [
       {
-        "term": "声援",
-        "reading": "せいえん",
-        "meaning": "(shout of) encouragement; cheering"
+        "term": "声明",
+        "reading": "せいめい",
+        "meaning": "declaration; statement"
       },
       {
-        "term": "声暖",
-        "reading": "こえだん",
-        "meaning": ""
+        "term": "歓声",
+        "reading": "かんせい",
+        "meaning": "cheer; shout of joy"
       },
       {
-        "term": "声授",
-        "reading": "こえじゅ",
-        "meaning": ""
+        "term": "叫び声",
+        "reading": "さけびごえ",
+        "meaning": "shout; yell"
       },
       {
-        "term": "声緩",
-        "reading": "こえかん",
-        "meaning": ""
+        "term": "援助",
+        "reading": "えんじょ",
+        "meaning": "assistance; aid"
+      },
+      {
+        "term": "応援",
+        "reading": "おうえん",
+        "meaning": "aid; assistance"
       }
     ]
   },
@@ -4147,27 +5280,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "目標",
     "meaning_en": "mark; objective",
-    "explanation": "正解は「目標」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "標",
+        "onyomi": "ヒョウ",
+        "kunyomi": "しるべ・しるし",
+        "meaning": "Signpost, Seal, Mark"
+      }
+    ],
     "similar": [
       {
-        "term": "目標",
-        "reading": "もくひょう",
-        "meaning": "mark; objective"
-      },
-      {
-        "term": "目評",
-        "reading": "めひょう",
+        "term": "お目に掛",
+        "reading": "おめにかかる",
         "meaning": ""
       },
       {
-        "term": "目票",
-        "reading": "めひょう",
-        "meaning": ""
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
       },
       {
-        "term": "目表",
-        "reading": "めおもて",
-        "meaning": ""
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
+      },
+      {
+        "term": "標本",
+        "reading": "ひょうほん",
+        "meaning": "example; specimen"
+      },
+      {
+        "term": "標準",
+        "reading": "ひょうじゅん",
+        "meaning": "standard; level"
       }
     ]
   },
@@ -4193,27 +5345,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "健康",
     "meaning_en": "health; sound",
-    "explanation": "正解は「健康」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "健",
+        "onyomi": "ケン",
+        "kunyomi": "すこやか",
+        "meaning": "Healthy, Health, Strength"
+      },
+      {
+        "kanji": "康",
+        "onyomi": "コウ",
+        "kunyomi": "-",
+        "meaning": "Ease, Peace"
+      }
+    ],
     "similar": [
       {
-        "term": "健康",
-        "reading": "けんこう",
-        "meaning": "health; sound"
+        "term": "保健",
+        "reading": "ほけん",
+        "meaning": "health preservation; hygiene"
       },
       {
-        "term": "健糠",
-        "reading": "たけしぬか",
-        "meaning": ""
+        "term": "健やか",
+        "reading": "すこやか",
+        "meaning": "vigorous; healthy"
       },
       {
-        "term": "建康",
-        "reading": "けんこう",
-        "meaning": ""
+        "term": "健全",
+        "reading": "けんぜん",
+        "meaning": "health; soundness"
       },
       {
-        "term": "建糠",
-        "reading": "けんぬか",
-        "meaning": ""
+        "term": "不健康",
+        "reading": "ふけんこう",
+        "meaning": "poor health; ill health"
+      },
+      {
+        "term": "健康保険",
+        "reading": "けんこうほけん",
+        "meaning": "health insurance"
       }
     ]
   },
@@ -4239,27 +5410,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "伝統",
     "meaning_en": "tradition; convention",
-    "explanation": "正解は「伝統」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "伝",
+        "onyomi": "デン・テン",
+        "kunyomi": "つたわる・つたえる・つたう・つだう・-づたい・つて",
+        "meaning": "Transmit, Go Along, Walk Along"
+      },
+      {
+        "kanji": "統",
+        "onyomi": "トウ",
+        "kunyomi": "すべる・ほびる",
+        "meaning": "Overall, Relationship, Ruling"
+      }
+    ],
     "similar": [
       {
-        "term": "伝統",
-        "reading": "でんとう",
-        "meaning": "tradition; convention"
+        "term": "伝える",
+        "reading": "つたえる",
+        "meaning": "to report"
       },
       {
-        "term": "伝承",
-        "reading": "でんしょう",
-        "meaning": "handing down (information); legend"
+        "term": "手伝う",
+        "reading": "てつだう",
+        "meaning": "to assist"
       },
       {
-        "term": "云統",
-        "reading": "うんとう",
-        "meaning": ""
+        "term": "手伝い",
+        "reading": "てつだい",
+        "meaning": "help; helper"
       },
       {
-        "term": "云承",
-        "reading": "うんしょう",
-        "meaning": ""
+        "term": "大統領",
+        "reading": "だいとうりょう",
+        "meaning": "president; chief executive"
+      },
+      {
+        "term": "系統",
+        "reading": "けいとう",
+        "meaning": "system; family line"
       }
     ]
   },
@@ -4285,27 +5475,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "周囲",
     "meaning_en": "surroundings; circumference",
-    "explanation": "正解は「周囲」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "周",
+        "onyomi": "シュウ",
+        "kunyomi": "まわり",
+        "meaning": "Circumference, Circuit, Lap"
+      },
+      {
+        "kanji": "囲",
+        "onyomi": "イ",
+        "kunyomi": "かこむ・かこう・かこい",
+        "meaning": "Surround, Besiege, Store"
+      }
+    ],
     "similar": [
       {
-        "term": "周囲",
-        "reading": "しゅうい",
-        "meaning": "surroundings; circumference"
+        "term": "周り",
+        "reading": "まわり",
+        "meaning": "surroundings"
       },
       {
-        "term": "週井",
-        "reading": "しゅうい",
-        "meaning": ""
+        "term": "円周",
+        "reading": "えんしゅう",
+        "meaning": "circumference"
       },
       {
-        "term": "週囲",
-        "reading": "しゅうい",
-        "meaning": ""
+        "term": "周辺",
+        "reading": "しゅうへん",
+        "meaning": "circumference; outskirts"
       },
       {
-        "term": "周井",
-        "reading": "しゅうい",
-        "meaning": ""
+        "term": "囲む",
+        "reading": "かこむ",
+        "meaning": "to surround; to encircle"
+      },
+      {
+        "term": "範囲",
+        "reading": "はんい",
+        "meaning": "extent; scope"
       }
     ]
   },
@@ -4331,27 +5540,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "医療",
     "meaning_en": "medical care; medical treatment",
-    "explanation": "正解は「医療」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "医",
+        "onyomi": "イ",
+        "kunyomi": "いやす・いする・くすし",
+        "meaning": "Doctor, Medicine"
+      },
+      {
+        "kanji": "療",
+        "onyomi": "リョウ",
+        "kunyomi": "-",
+        "meaning": "Heal, Cure"
+      }
+    ],
     "similar": [
       {
-        "term": "医療",
-        "reading": "いりょう",
-        "meaning": "medical care; medical treatment"
+        "term": "医者",
+        "reading": "いしゃ",
+        "meaning": "medical doctor"
       },
       {
-        "term": "医僚",
-        "reading": "いりょう",
-        "meaning": ""
+        "term": "医学",
+        "reading": "いがく",
+        "meaning": "medical science"
       },
       {
-        "term": "医寮",
-        "reading": "いりょう",
-        "meaning": ""
+        "term": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentist"
       },
       {
-        "term": "医潦",
-        "reading": "いろう",
-        "meaning": ""
+        "term": "治療",
+        "reading": "ちりょう",
+        "meaning": "medical treatment"
+      },
+      {
+        "term": "診療",
+        "reading": "しんりょう",
+        "meaning": "medical examination and treatment; diagnosis"
       }
     ]
   },
@@ -4377,27 +5605,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "資源",
     "meaning_en": "resources",
-    "explanation": "正解は「資源」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "資",
+        "onyomi": "シ",
+        "kunyomi": "-",
+        "meaning": "Assets, Resources, Capital"
+      },
+      {
+        "kanji": "源",
+        "onyomi": "ゲン",
+        "kunyomi": "みなもと",
+        "meaning": "Source, Origin"
+      }
+    ],
     "similar": [
       {
-        "term": "資源",
-        "reading": "しげん",
-        "meaning": "resources"
+        "term": "資本",
+        "reading": "しほん",
+        "meaning": "funds; capital"
       },
       {
-        "term": "賢原",
-        "reading": "さとしはら",
-        "meaning": ""
+        "term": "資料",
+        "reading": "しりょう",
+        "meaning": "materials; data"
       },
       {
-        "term": "資原",
-        "reading": "しはら",
-        "meaning": ""
+        "term": "投資",
+        "reading": "とうし",
+        "meaning": "investment"
       },
       {
-        "term": "賢源",
-        "reading": "さとしげん",
-        "meaning": ""
+        "term": "水源",
+        "reading": "すいげん",
+        "meaning": "source of river; fountainhead"
+      },
+      {
+        "term": "語源",
+        "reading": "ごげん",
+        "meaning": "word root; word derivation"
       }
     ]
   },
@@ -4423,27 +5670,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "警察",
     "meaning_en": "police",
-    "explanation": "正解は「警察」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "警",
+        "onyomi": "ケイ",
+        "kunyomi": "いましめる",
+        "meaning": "Admonish, Commandment"
+      },
+      {
+        "kanji": "察",
+        "onyomi": "サツ",
+        "kunyomi": "-",
+        "meaning": "Guess, Presume, Surmise"
+      }
+    ],
     "similar": [
       {
-        "term": "警察",
-        "reading": "けいさつ",
-        "meaning": "police"
+        "term": "警官",
+        "reading": "けいかん",
+        "meaning": "policeman"
       },
       {
-        "term": "警擦",
-        "reading": "けいさつ",
-        "meaning": ""
+        "term": "警告",
+        "reading": "けいこく",
+        "meaning": "warning; advice"
       },
       {
-        "term": "刑察",
-        "reading": "けいさつ",
-        "meaning": ""
+        "term": "警備",
+        "reading": "けいび",
+        "meaning": "defense; guard"
       },
       {
-        "term": "刑擦",
-        "reading": "けいさつ",
-        "meaning": ""
+        "term": "観察",
+        "reading": "かんさつ",
+        "meaning": "observation; survey"
+      },
+      {
+        "term": "診察",
+        "reading": "しんさつ",
+        "meaning": "medical examination"
       }
     ]
   },
@@ -4469,27 +5735,41 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "記憶",
     "meaning_en": "memory; recollection",
-    "explanation": "正解は「記憶」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "記",
+        "onyomi": "キ",
+        "kunyomi": "しるす",
+        "meaning": "Scribe, Account, Narrative"
+      },
+      {
+        "kanji": "憶",
+        "onyomi": "オク",
+        "kunyomi": "-",
+        "meaning": "Recollection, Think, Remember"
+      }
+    ],
     "similar": [
       {
-        "term": "記憶",
-        "reading": "きおく",
-        "meaning": "memory; recollection"
+        "term": "日記",
+        "reading": "にっき",
+        "meaning": "journal"
       },
       {
-        "term": "気憶",
-        "reading": "きおく",
-        "meaning": ""
+        "term": "暗記",
+        "reading": "あんき",
+        "meaning": "memorization; learning by heart"
       },
       {
-        "term": "気億",
-        "reading": "きおく",
-        "meaning": ""
+        "term": "記事",
+        "reading": "きじ",
+        "meaning": "article; news story"
       },
       {
-        "term": "記億",
-        "reading": "きおく",
-        "meaning": ""
+        "term": "憶測",
+        "reading": "おくそく",
+        "meaning": "guess; speculation"
       }
     ]
   },
@@ -4514,28 +5794,42 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "寮費",
-    "meaning_en": "Meaning: 寮費",
-    "explanation": "正解は「寮費」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "寮",
+        "onyomi": "リョウ",
+        "kunyomi": "-",
+        "meaning": "Dormitory, Hostel, Villa"
+      },
+      {
+        "kanji": "費",
+        "onyomi": "ヒ",
+        "kunyomi": "ついやす・ついえる",
+        "meaning": "Expense, Cost, Spend"
+      }
+    ],
     "similar": [
       {
-        "term": "寮費",
-        "reading": "りょうひ",
-        "meaning": ""
+        "term": "寮生",
+        "reading": "りょうせい",
+        "meaning": "boarder; boarding student"
       },
       {
-        "term": "寮批",
-        "reading": "りょうひ",
-        "meaning": ""
+        "term": "消費",
+        "reading": "しょうひ",
+        "meaning": "consumption; expenditure"
       },
       {
-        "term": "僚批",
-        "reading": "りょうひ",
-        "meaning": ""
+        "term": "費用",
+        "reading": "ひよう",
+        "meaning": "cost; expense"
       },
       {
-        "term": "僚費",
-        "reading": "りょうひ",
-        "meaning": ""
+        "term": "光熱費",
+        "reading": "こうねつひ",
+        "meaning": "cost of fuel and light"
       }
     ]
   },
@@ -4561,27 +5855,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "幸福",
     "meaning_en": "happiness; blessedness",
-    "explanation": "正解は「幸福」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "幸",
+        "onyomi": "コウ",
+        "kunyomi": "さいわい・さち・しあわせ",
+        "meaning": "Happiness, Blessing, Fortune"
+      },
+      {
+        "kanji": "福",
+        "onyomi": "フク",
+        "kunyomi": "-",
+        "meaning": "Blessing, Fortune, Luck"
+      }
+    ],
     "similar": [
       {
-        "term": "幸福",
-        "reading": "こうふく",
+        "term": "不幸",
+        "reading": "ふこう",
+        "meaning": "unhappiness; sorrow"
+      },
+      {
+        "term": "幸い",
+        "reading": "さいわい",
         "meaning": "happiness; blessedness"
       },
       {
-        "term": "幸副",
-        "reading": "さちふく",
-        "meaning": ""
+        "term": "幸せ",
+        "reading": "しあわせ",
+        "meaning": "happiness; good fortune"
       },
       {
-        "term": "辛福",
-        "reading": "しんふく",
-        "meaning": ""
+        "term": "福祉",
+        "reading": "ふくし",
+        "meaning": "welfare; well-being"
       },
       {
-        "term": "辛副",
-        "reading": "しんふく",
-        "meaning": ""
+        "term": "七福神",
+        "reading": "しちふくじん",
+        "meaning": "Seven Gods of Fortune; Seven Deities of Good Luck"
       }
     ]
   },
@@ -4607,27 +5920,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "総務",
     "meaning_en": "general affairs; general business",
-    "explanation": "正解は「総務」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "総",
+        "onyomi": "ソウ",
+        "kunyomi": "すべて・すべて・ふさ",
+        "meaning": "General, Whole, All"
+      },
+      {
+        "kanji": "務",
+        "onyomi": "ム",
+        "kunyomi": "つとめる",
+        "meaning": "Task, Duties"
+      }
+    ],
     "similar": [
       {
-        "term": "総務",
-        "reading": "そうむ",
-        "meaning": "general affairs; general business"
+        "term": "総理大臣",
+        "reading": "そうりだいじん",
+        "meaning": "Prime Minister"
       },
       {
-        "term": "装努",
-        "reading": "そうつとむ",
-        "meaning": ""
+        "term": "総会",
+        "reading": "そうかい",
+        "meaning": "general meeting"
       },
       {
-        "term": "装務",
-        "reading": "そうつとむ",
-        "meaning": ""
+        "term": "総合",
+        "reading": "そうごう",
+        "meaning": "synthesis; coordination"
       },
       {
-        "term": "総努",
-        "reading": "そうつとむ",
-        "meaning": ""
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
+      },
+      {
+        "term": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
       }
     ]
   },
@@ -4653,27 +5985,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "視点",
     "meaning_en": "opinion; point of view",
-    "explanation": "正解は「視点」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "視",
+        "onyomi": "シ",
+        "kunyomi": "みる",
+        "meaning": "Inspection, Regard As, See"
+      },
+      {
+        "kanji": "点",
+        "onyomi": "テン",
+        "kunyomi": "つける・つく・たてる・さす・とぼす・ともす・ぼち",
+        "meaning": "Spot, Point, Mark"
+      }
+    ],
     "similar": [
       {
-        "term": "視点",
-        "reading": "してん",
-        "meaning": "opinion; point of view"
+        "term": "無視",
+        "reading": "むし",
+        "meaning": "disregard; ignore"
       },
       {
-        "term": "規点",
-        "reading": "きてん",
-        "meaning": ""
+        "term": "重視",
+        "reading": "じゅうし",
+        "meaning": "importance; stress"
       },
       {
-        "term": "親点",
-        "reading": "おやてん",
-        "meaning": ""
+        "term": "監視",
+        "reading": "かんし",
+        "meaning": "observation; guarding"
       },
       {
-        "term": "観点",
-        "reading": "かんてん",
-        "meaning": "point of view"
+        "term": "交差点",
+        "reading": "こうさてん",
+        "meaning": "intersection"
+      },
+      {
+        "term": "欠点",
+        "reading": "けってん",
+        "meaning": "faults; defect"
       }
     ]
   },
@@ -4699,27 +6050,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "金額",
     "meaning_en": "amount of money",
-    "explanation": "正解は「金額」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "金",
+        "onyomi": "キン・コン・ゴン",
+        "kunyomi": "かね・かな-・-がね",
+        "meaning": "Gold"
+      },
+      {
+        "kanji": "額",
+        "onyomi": "ガク",
+        "kunyomi": "ひたい",
+        "meaning": "Forehead, Tablet, Plaque"
+      }
+    ],
     "similar": [
       {
-        "term": "金額",
-        "reading": "きんがく",
-        "meaning": "amount of money"
+        "term": "お金",
+        "reading": "おかね",
+        "meaning": "money"
       },
       {
-        "term": "金格",
-        "reading": "きんかく",
+        "term": "金曜日",
+        "reading": "きんようび",
+        "meaning": "Friday"
+      },
+      {
+        "term": "お・金持ち",
+        "reading": "かねもち",
         "meaning": ""
       },
       {
-        "term": "金閣",
-        "reading": "きんかく",
-        "meaning": ""
+        "term": "差額",
+        "reading": "さがく",
+        "meaning": "balance; difference"
       },
       {
-        "term": "金絡",
-        "reading": "きんらく",
-        "meaning": ""
+        "term": "全額",
+        "reading": "ぜんがく",
+        "meaning": "total; full amount"
       }
     ]
   },
@@ -4745,27 +6115,36 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "比較",
     "meaning_en": "comparison",
-    "explanation": "正解は「比較」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "比",
+        "onyomi": "ヒ",
+        "kunyomi": "くらべる",
+        "meaning": "Compare, Race, Ratio"
+      },
+      {
+        "kanji": "較",
+        "onyomi": "カク・コウ",
+        "kunyomi": "くらべる",
+        "meaning": "Contrast, Compare"
+      }
+    ],
     "similar": [
       {
-        "term": "比較",
-        "reading": "ひかく",
-        "meaning": "comparison"
+        "term": "比べる",
+        "reading": "くらべる",
+        "meaning": "to compare"
       },
       {
-        "term": "批較",
-        "reading": "ひかく",
-        "meaning": ""
+        "term": "比較的",
+        "reading": "ひかくてき",
+        "meaning": "comparatively; relatively"
       },
       {
-        "term": "比絞",
-        "reading": "ひこう",
-        "meaning": ""
-      },
-      {
-        "term": "批絞",
-        "reading": "ひこう",
-        "meaning": ""
+        "term": "対比",
+        "reading": "たいひ",
+        "meaning": "contrast; comparison"
       }
     ]
   },
@@ -4791,27 +6170,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "精算",
     "meaning_en": "exact calculation, adjustment",
-    "explanation": "正解は「精算」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "精",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "しらげる・くわしい",
+        "meaning": "Refined, Ghost, Fairy"
+      },
+      {
+        "kanji": "算",
+        "onyomi": "サン",
+        "kunyomi": "そろ",
+        "meaning": "Calculate, Divining, Number"
+      }
+    ],
     "similar": [
       {
-        "term": "精算",
-        "reading": "せいさん",
-        "meaning": "exact calculation, adjustment"
+        "term": "精々",
+        "reading": "せいぜい",
+        "meaning": "at the most; at best"
       },
       {
-        "term": "静算",
-        "reading": "せいさん",
-        "meaning": ""
+        "term": "精神",
+        "reading": "せいしん",
+        "meaning": "mind; soul"
       },
       {
-        "term": "情算",
-        "reading": "じょうさん",
-        "meaning": ""
+        "term": "精密",
+        "reading": "せいみつ",
+        "meaning": "precise; exact"
       },
       {
-        "term": "請算",
-        "reading": "せいさん",
-        "meaning": ""
+        "term": "予算",
+        "reading": "よさん",
+        "meaning": "estimate; budget"
+      },
+      {
+        "term": "計算",
+        "reading": "けいさん",
+        "meaning": "calculation; reckoning"
       }
     ]
   },
@@ -4837,27 +6235,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "勤務",
     "meaning_en": "service; duty",
-    "explanation": "正解は「勤務」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "勤",
+        "onyomi": "キン・ゴン",
+        "kunyomi": "つとめる・-づとめ・つとまる・いそしむ",
+        "meaning": "Diligence, Become Employed, Serve"
+      },
+      {
+        "kanji": "務",
+        "onyomi": "ム",
+        "kunyomi": "つとめる",
+        "meaning": "Task, Duties"
+      }
+    ],
     "similar": [
       {
-        "term": "勤務",
-        "reading": "きんむ",
-        "meaning": "service; duty"
+        "term": "勤める",
+        "reading": "つとめる",
+        "meaning": "to work for someone"
       },
       {
-        "term": "働矛",
-        "reading": "どうほこ",
-        "meaning": ""
+        "term": "勤め",
+        "reading": "つとめ",
+        "meaning": "(1) service; duty"
       },
       {
-        "term": "働務",
-        "reading": "どうつとむ",
-        "meaning": ""
+        "term": "出勤",
+        "reading": "しゅっきん",
+        "meaning": "going to work; at work"
       },
       {
-        "term": "勤矛",
-        "reading": "つとむほこ",
-        "meaning": ""
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
+      },
+      {
+        "term": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
       }
     ]
   },
@@ -4883,27 +6300,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "想像",
     "meaning_en": "imagination; guess",
-    "explanation": "正解は「想像」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "想",
+        "onyomi": "ソウ・ソ",
+        "kunyomi": "おもう",
+        "meaning": "Concept, Think, Idea"
+      },
+      {
+        "kanji": "像",
+        "onyomi": "ゾウ",
+        "kunyomi": "-",
+        "meaning": "Statue, Picture, Image"
+      }
+    ],
     "similar": [
       {
-        "term": "想像",
-        "reading": "そうぞう",
-        "meaning": "imagination; guess"
+        "term": "思想",
+        "reading": "しそう",
+        "meaning": "thought; idea"
       },
       {
-        "term": "相像",
-        "reading": "そうぞう",
-        "meaning": ""
+        "term": "理想",
+        "reading": "りそう",
+        "meaning": "ideal"
       },
       {
-        "term": "想象",
-        "reading": "そうぞう",
-        "meaning": ""
+        "term": "連想",
+        "reading": "れんそう",
+        "meaning": "association (of ideas); suggestion"
       },
       {
-        "term": "相象",
-        "reading": "そうぞう",
-        "meaning": ""
+        "term": "仏像",
+        "reading": "ぶつぞう",
+        "meaning": "Buddhist image (statue)"
+      },
+      {
+        "term": "映像",
+        "reading": "えいぞう",
+        "meaning": "reflection; image"
       }
     ]
   },
@@ -4929,27 +6365,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "信頼",
     "meaning_en": "reliance; trust",
-    "explanation": "正解は「信頼」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "信",
+        "onyomi": "シン",
+        "kunyomi": "-",
+        "meaning": "Faith, Truth, Fidelity"
+      },
+      {
+        "kanji": "頼",
+        "onyomi": "ライ",
+        "kunyomi": "たのむ・たのもしい・たよる",
+        "meaning": "Trust, Request"
+      }
+    ],
     "similar": [
       {
-        "term": "信頼",
-        "reading": "しんらい",
-        "meaning": "reliance; trust"
+        "term": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe; to place trust in"
       },
       {
-        "term": "信瀬",
-        "reading": "しんせ",
-        "meaning": ""
+        "term": "信仰",
+        "reading": "しんこう",
+        "meaning": "(religious) faith; belief"
       },
       {
-        "term": "価頼",
-        "reading": "あたいらい",
-        "meaning": ""
+        "term": "信号",
+        "reading": "しんごう",
+        "meaning": "traffic lights; signal"
       },
       {
-        "term": "価瀬",
-        "reading": "あたいせ",
-        "meaning": ""
+        "term": "頼む",
+        "reading": "たのむ",
+        "meaning": "to ask"
+      },
+      {
+        "term": "依頼",
+        "reading": "いらい",
+        "meaning": "(1) request; commission"
       }
     ]
   },
@@ -4975,27 +6430,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "雇う",
     "meaning_en": "to employ; to hire",
-    "explanation": "正解は「雇う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "雇",
+        "onyomi": "コ",
+        "kunyomi": "やとう",
+        "meaning": "Employ, Hire"
+      }
+    ],
     "similar": [
       {
-        "term": "雇う",
-        "reading": "やとう",
-        "meaning": "to employ; to hire"
+        "term": "雇用",
+        "reading": "こよう",
+        "meaning": "employment (long term); hire"
       },
       {
-        "term": "顧う",
-        "reading": "こう",
-        "meaning": ""
+        "term": "解雇",
+        "reading": "かいこ",
+        "meaning": "dismissal (of an employee); discharge"
       },
       {
-        "term": "遍う",
-        "reading": "へんう",
-        "meaning": ""
-      },
-      {
-        "term": "偏う",
-        "reading": "へんう",
-        "meaning": ""
+        "term": "雇い主",
+        "reading": "やといぬし",
+        "meaning": "employer"
       }
     ]
   },
@@ -5020,28 +6478,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "響いた",
-    "meaning_en": "Meaning: 響いた",
-    "explanation": "正解は「響いた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "響",
+        "onyomi": "キョウ",
+        "kunyomi": "ひびく",
+        "meaning": "Echo, Sound, Resound"
+      }
+    ],
     "similar": [
       {
-        "term": "響いた",
-        "reading": "ひびいた",
-        "meaning": ""
+        "term": "影響",
+        "reading": "えいきょう",
+        "meaning": "influence; effect"
       },
       {
-        "term": "韻いた",
-        "reading": "いんいた",
-        "meaning": ""
+        "term": "響き",
+        "reading": "ひびき",
+        "meaning": "echo; sound"
       },
       {
-        "term": "鳴いた",
-        "reading": "ないた",
-        "meaning": ""
-      },
-      {
-        "term": "吹いた",
-        "reading": "ふいた",
-        "meaning": ""
+        "term": "響く",
+        "reading": "ひびく",
+        "meaning": "to resound"
       }
     ]
   },
@@ -5066,28 +6527,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "就きたい",
-    "meaning_en": "Meaning: 就きたい",
-    "explanation": "正解は「就きたい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "就",
+        "onyomi": "シュウ・ジュ",
+        "kunyomi": "つく・つける",
+        "meaning": "Concerning, Settle, Take Position"
+      }
+    ],
     "similar": [
       {
-        "term": "就きたい",
-        "reading": "つきたい",
-        "meaning": ""
+        "term": "就く",
+        "reading": "つく",
+        "meaning": "to settle in (place); to take (seat"
       },
       {
-        "term": "仕きたい",
-        "reading": "しきたい",
-        "meaning": ""
+        "term": "就職",
+        "reading": "しゅうしょく",
+        "meaning": "finding employment; inauguration"
       },
       {
-        "term": "職きたい",
-        "reading": "しょくきたい",
-        "meaning": ""
-      },
-      {
-        "term": "従きたい",
-        "reading": "じゅうきたい",
-        "meaning": ""
+        "term": "就任",
+        "reading": "しゅうにん",
+        "meaning": "inauguration; assumption of office"
       }
     ]
   },
@@ -5112,28 +6576,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "頼って",
-    "meaning_en": "Meaning: 頼って",
-    "explanation": "正解は「頼って」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "頼",
+        "onyomi": "ライ",
+        "kunyomi": "たのむ・たのもしい・たよる",
+        "meaning": "Trust, Request"
+      }
+    ],
     "similar": [
       {
-        "term": "頼って",
-        "reading": "たよって",
-        "meaning": ""
+        "term": "頼む",
+        "reading": "たのむ",
+        "meaning": "to ask"
       },
       {
-        "term": "額って",
-        "reading": "ひたいって",
-        "meaning": ""
+        "term": "依頼",
+        "reading": "いらい",
+        "meaning": "(1) request; commission"
       },
       {
-        "term": "項って",
-        "reading": "こうって",
-        "meaning": ""
-      },
-      {
-        "term": "預って",
-        "reading": "あずって",
-        "meaning": ""
+        "term": "信頼",
+        "reading": "しんらい",
+        "meaning": "reliance; trust"
       }
     ]
   },
@@ -5159,27 +6626,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "掃く",
     "meaning_en": "to sweep; to brush",
-    "explanation": "正解は「掃く」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "掃",
+        "onyomi": "ソウ・シュ",
+        "kunyomi": "はく",
+        "meaning": "Sweep, Brush"
+      }
+    ],
     "similar": [
       {
-        "term": "掃く",
-        "reading": "はく",
-        "meaning": "to sweep; to brush"
+        "term": "掃除",
+        "reading": "そうじする",
+        "meaning": "to clean; to sweep"
       },
       {
-        "term": "払く",
-        "reading": "ふつく",
-        "meaning": ""
+        "term": "清掃",
+        "reading": "せいそう",
+        "meaning": "cleaning"
       },
       {
-        "term": "拭く",
-        "reading": "ふく",
-        "meaning": "to wipe; to dry"
-      },
-      {
-        "term": "拍く",
-        "reading": "はくく",
-        "meaning": ""
+        "term": "一掃",
+        "reading": "いっそう",
+        "meaning": "clean sweep; purging"
       }
     ]
   },
@@ -5205,27 +6675,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "含む",
     "meaning_en": "to hold in the mouth; to bear in mind",
-    "explanation": "正解は「含む」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "含",
+        "onyomi": "ガン",
+        "kunyomi": "ふくむ・ふくめる",
+        "meaning": "Contain, Include, Hold In The Mouth"
+      }
+    ],
     "similar": [
       {
-        "term": "含む",
-        "reading": "ふくむ",
-        "meaning": "to hold in the mouth; to bear in mind"
+        "term": "含める",
+        "reading": "ふくめる",
+        "meaning": "to include; to instruct"
       },
       {
-        "term": "加む",
-        "reading": "かむ",
-        "meaning": ""
+        "term": "含嗽",
+        "reading": "うがい",
+        "meaning": "gargle; rinse mouth"
       },
       {
-        "term": "込む",
-        "reading": "こむ",
-        "meaning": "to be crowded"
-      },
-      {
-        "term": "混む",
-        "reading": "こむ",
-        "meaning": "to be crowded"
+        "term": "包含",
+        "reading": "ほうがん",
+        "meaning": "inclusion; comprehension"
       }
     ]
   },
@@ -5250,28 +6723,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "招かれた",
-    "meaning_en": "Meaning: 招かれた",
-    "explanation": "正解は「招かれた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "招",
+        "onyomi": "ショウ",
+        "kunyomi": "まねく",
+        "meaning": "Beckon, Invite, Summon"
+      }
+    ],
     "similar": [
       {
-        "term": "招かれた",
-        "reading": "まねかれた",
-        "meaning": ""
+        "term": "招待",
+        "reading": "しょうたいする",
+        "meaning": "to invite"
       },
       {
-        "term": "昭かれた",
-        "reading": "あきらかれた",
-        "meaning": ""
+        "term": "招く",
+        "reading": "まねく",
+        "meaning": "to invite"
       },
       {
-        "term": "召かれた",
-        "reading": "しょうかれた",
-        "meaning": ""
-      },
-      {
-        "term": "紹かれた",
-        "reading": "しょうかれた",
-        "meaning": ""
+        "term": "招き",
+        "reading": "まねき",
+        "meaning": "invitation"
       }
     ]
   },
@@ -5297,27 +6773,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "従う",
     "meaning_en": "to abide (by the rules); to obey",
-    "explanation": "正解は「従う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "従",
+        "onyomi": "ジュウ・ショウ・ジュ",
+        "kunyomi": "したがう・したがえる・より",
+        "meaning": "Accompany, Obey, Submit To"
+      }
+    ],
     "similar": [
       {
-        "term": "従う",
-        "reading": "したがう",
-        "meaning": "to abide (by the rules); to obey"
+        "term": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)"
       },
       {
-        "term": "徒う",
-        "reading": "とう",
-        "meaning": ""
+        "term": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "cousin (female)"
       },
       {
-        "term": "促う",
-        "reading": "そくう",
-        "meaning": ""
-      },
-      {
-        "term": "縦う",
-        "reading": "たてう",
-        "meaning": ""
+        "term": "従って",
+        "reading": "したがって",
+        "meaning": "therefore; consequently"
       }
     ]
   },
@@ -5343,27 +6822,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "競う",
     "meaning_en": "to compete; to contend",
-    "explanation": "正解は「競う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "競",
+        "onyomi": "キョウ・ケイ",
+        "kunyomi": "きそう・せる・くらべる",
+        "meaning": "Emulate, Compete With, Bid"
+      }
+    ],
     "similar": [
       {
-        "term": "競う",
-        "reading": "きそう",
-        "meaning": "to compete; to contend"
+        "term": "競争",
+        "reading": "きょうそう",
+        "meaning": "competition"
       },
       {
-        "term": "争う",
-        "reading": "あらそう",
-        "meaning": "to dispute; to argue"
+        "term": "競技",
+        "reading": "きょうぎ",
+        "meaning": "game; match"
       },
       {
-        "term": "戦う",
-        "reading": "たたかう",
-        "meaning": "to fight; to battle"
-      },
-      {
-        "term": "抗う",
-        "reading": "あらがう",
-        "meaning": ""
+        "term": "競馬",
+        "reading": "けいば",
+        "meaning": "horse racing"
       }
     ]
   },
@@ -5389,27 +6871,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "寄る",
     "meaning_en": "to visit",
-    "explanation": "正解は「寄る」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "寄",
+        "onyomi": "キ",
+        "kunyomi": "よる・-より・よせる",
+        "meaning": "Draw Near, Stop In, Bring Near"
+      }
+    ],
     "similar": [
       {
-        "term": "寄る",
-        "reading": "よる",
-        "meaning": "to visit"
+        "term": "寄付",
+        "reading": "きふ",
+        "meaning": "contribution; donation"
       },
       {
-        "term": "拠る",
-        "reading": "よる",
-        "meaning": ""
+        "term": "年寄",
+        "reading": "としより",
+        "meaning": "old people; the aged"
       },
       {
-        "term": "奇る",
-        "reading": "きる",
-        "meaning": ""
-      },
-      {
-        "term": "処る",
-        "reading": "ところる",
-        "meaning": ""
+        "term": "寄せる",
+        "reading": "よせる",
+        "meaning": "to collect; to gather"
       }
     ]
   },
@@ -5435,27 +6920,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "間違う",
     "meaning_en": "to make a mistake; to be incorrect",
-    "explanation": "正解は「間違う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "間",
+        "onyomi": "カン・ケン",
+        "kunyomi": "あいだ・ま・あい",
+        "meaning": "Interval, Space"
+      },
+      {
+        "kanji": "違",
+        "onyomi": "イ",
+        "kunyomi": "ちがう・ちがい・ちがえる・-ちがえる・たがう・たがえる",
+        "meaning": "Difference, Differ"
+      }
+    ],
     "similar": [
       {
-        "term": "間違う",
-        "reading": "まちがう",
-        "meaning": "to make a mistake; to be incorrect"
+        "term": "時間",
+        "reading": "じかん",
+        "meaning": "time"
       },
       {
-        "term": "間偉う",
-        "reading": "かんいう",
-        "meaning": ""
+        "term": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime; during the day"
       },
       {
-        "term": "問違う",
-        "reading": "とんちがう",
-        "meaning": ""
+        "term": "間に合う",
+        "reading": "まにあう",
+        "meaning": "to be in time for"
       },
       {
-        "term": "問偉う",
-        "reading": "とんいう",
-        "meaning": ""
+        "term": "違う",
+        "reading": "ちがう",
+        "meaning": "to differ"
+      },
+      {
+        "term": "間違える",
+        "reading": "まちがえる",
+        "meaning": "to make a mistake"
       }
     ]
   },
@@ -5481,27 +6985,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "過ぎる",
     "meaning_en": "to exceed",
-    "explanation": "正解は「過ぎる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "過",
+        "onyomi": "カ",
+        "kunyomi": "すぎる・-すぎる・-すぎ・すごす・あやまつ・あやまち・よぎる",
+        "meaning": "Overdo, Exceed, Go Beyond"
+      }
+    ],
     "similar": [
       {
-        "term": "過ぎる",
-        "reading": "すぎる",
-        "meaning": "to exceed"
-      },
-      {
-        "term": "通ぎる",
-        "reading": "とおりぎる",
+        "term": "通り過ぎ",
+        "reading": "とおりすぎる",
         "meaning": ""
       },
       {
-        "term": "込ぎる",
-        "reading": "こみぎる",
-        "meaning": ""
+        "term": "通り過ぎる",
+        "reading": "とおりすぎる",
+        "meaning": "to pass; to pass through"
       },
       {
-        "term": "道ぎる",
-        "reading": "みちぎる",
-        "meaning": ""
+        "term": "通過",
+        "reading": "つうか",
+        "meaning": "passage through; passing"
       }
     ]
   },
@@ -5526,28 +7033,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "慣れて",
-    "meaning_en": "Meaning: 慣れて",
-    "explanation": "正解は「慣れて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "慣",
+        "onyomi": "カン",
+        "kunyomi": "なれる・ならす",
+        "meaning": "Accustomed, Get Used To, Become Experienced"
+      }
+    ],
     "similar": [
       {
-        "term": "慣れて",
-        "reading": "なれて",
-        "meaning": ""
+        "term": "慣れる",
+        "reading": "なれる",
+        "meaning": "to grow accustomed to"
       },
       {
-        "term": "慢れて",
-        "reading": "まんれて",
-        "meaning": ""
+        "term": "習慣",
+        "reading": "しゅうかん",
+        "meaning": "custom; manners"
       },
       {
-        "term": "惰れて",
-        "reading": "だれて",
-        "meaning": ""
-      },
-      {
-        "term": "情れて",
-        "reading": "じょうれて",
-        "meaning": ""
+        "term": "見慣れる",
+        "reading": "みなれる",
+        "meaning": "to become used to seeing; to be familiar with"
       }
     ]
   },
@@ -5572,28 +7082,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "勤めて",
-    "meaning_en": "Meaning: 勤めて",
-    "explanation": "正解は「勤めて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "勤",
+        "onyomi": "キン・ゴン",
+        "kunyomi": "つとめる・-づとめ・つとまる・いそしむ",
+        "meaning": "Diligence, Become Employed, Serve"
+      }
+    ],
     "similar": [
       {
-        "term": "勤めて",
-        "reading": "つとめて",
-        "meaning": ""
+        "term": "勤める",
+        "reading": "つとめる",
+        "meaning": "to work for someone"
       },
       {
-        "term": "労めて",
-        "reading": "ろうめて",
-        "meaning": ""
+        "term": "勤め",
+        "reading": "つとめ",
+        "meaning": "(1) service; duty"
       },
       {
-        "term": "働めて",
-        "reading": "どうめて",
-        "meaning": ""
-      },
-      {
-        "term": "仕めて",
-        "reading": "しめて",
-        "meaning": ""
+        "term": "出勤",
+        "reading": "しゅっきん",
+        "meaning": "going to work; at work"
       }
     ]
   },
@@ -5618,28 +7131,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "乾かない",
-    "meaning_en": "Meaning: 乾かない",
-    "explanation": "正解は「乾かない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "乾",
+        "onyomi": "カン・ケン",
+        "kunyomi": "かわく・かわかす・ほす・ひる・いぬい",
+        "meaning": "Drought, Dry, Dessicate"
+      }
+    ],
     "similar": [
       {
-        "term": "乾かない",
-        "reading": "かわかない",
-        "meaning": ""
+        "term": "乾く",
+        "reading": "かわく",
+        "meaning": "to get dry"
       },
       {
-        "term": "干かない",
-        "reading": "かんかない",
-        "meaning": ""
+        "term": "乾かす",
+        "reading": "かわかす",
+        "meaning": "to dry (clothes; etc.)"
       },
       {
-        "term": "幹かない",
-        "reading": "かんかない",
-        "meaning": ""
-      },
-      {
-        "term": "汗かない",
-        "reading": "あせかない",
-        "meaning": ""
+        "term": "乾杯",
+        "reading": "かんぱい",
+        "meaning": "toast (drink)"
       }
     ]
   },
@@ -5664,28 +7180,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "求めた",
-    "meaning_en": "Meaning: 求めた",
-    "explanation": "正解は「求めた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "求",
+        "onyomi": "キュウ・グ",
+        "kunyomi": "もとめる",
+        "meaning": "Request, Want, Wish For"
+      }
+    ],
     "similar": [
       {
-        "term": "求めた",
-        "reading": "もとめた",
-        "meaning": ""
+        "term": "求める",
+        "reading": "もとめる",
+        "meaning": "to seek; to request"
       },
       {
-        "term": "救めた",
-        "reading": "きゅうめた",
-        "meaning": ""
+        "term": "要求",
+        "reading": "ようきゅう",
+        "meaning": "request; demand"
       },
       {
-        "term": "氷めた",
-        "reading": "こおりめた",
-        "meaning": ""
-      },
-      {
-        "term": "泳めた",
-        "reading": "えいめた",
-        "meaning": ""
+        "term": "請求",
+        "reading": "せいきゅう",
+        "meaning": "claim; demand"
       }
     ]
   },
@@ -5711,27 +7230,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "減らす",
     "meaning_en": "to abate; to decrease",
-    "explanation": "正解は「減らす」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "減",
+        "onyomi": "ゲン",
+        "kunyomi": "へる・へらす",
+        "meaning": "Dwindle, Decrease, Reduce"
+      }
+    ],
     "similar": [
       {
-        "term": "減らす",
-        "reading": "へらす",
-        "meaning": "to abate; to decrease"
+        "term": "加減",
+        "reading": "かげん",
+        "meaning": "addition and subtraction; allowance for"
       },
       {
-        "term": "誠らす",
-        "reading": "まことらす",
-        "meaning": ""
+        "term": "減る",
+        "reading": "へる",
+        "meaning": "to decrease (in size or number); to diminish"
       },
       {
-        "term": "滅らす",
-        "reading": "めつらす",
-        "meaning": ""
-      },
-      {
-        "term": "憾らす",
-        "reading": "かんらす",
-        "meaning": ""
+        "term": "増減",
+        "reading": "ぞうげん",
+        "meaning": "increase and decrease; fluctuation"
       }
     ]
   },
@@ -5756,28 +7278,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "枯れて",
-    "meaning_en": "Meaning: 枯れて",
-    "explanation": "正解は「枯れて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "枯",
+        "onyomi": "コ",
+        "kunyomi": "かれる・からす",
+        "meaning": "Wither, Die, Dry Up"
+      }
+    ],
     "similar": [
       {
-        "term": "枯れて",
-        "reading": "かれて",
-        "meaning": ""
+        "term": "枯れる",
+        "reading": "かれる",
+        "meaning": "to wither; to die (plant)"
       },
       {
-        "term": "杯れて",
-        "reading": "はいれて",
-        "meaning": ""
+        "term": "木枯らし",
+        "reading": "こがらし",
+        "meaning": "cold wintry wind"
       },
       {
-        "term": "朽れて",
-        "reading": "きゅうれて",
-        "meaning": ""
-      },
-      {
-        "term": "朴れて",
-        "reading": "ぼくれて",
-        "meaning": ""
+        "term": "枯れ木",
+        "reading": "かれき",
+        "meaning": "dead tree; withered tree"
       }
     ]
   },
@@ -5802,28 +7327,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抜けて",
-    "meaning_en": "Meaning: 抜けて",
-    "explanation": "正解は「抜けて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "抜",
+        "onyomi": "バツ・ハツ・ハイ",
+        "kunyomi": "ぬく・-ぬく・ぬき・ぬける・ぬかす・ぬかる",
+        "meaning": "Slip Out, Extract, Pull Out"
+      }
+    ],
     "similar": [
       {
-        "term": "抜けて",
-        "reading": "ぬけて",
-        "meaning": ""
+        "term": "抜く",
+        "reading": "ぬく",
+        "meaning": "to extract; to omit"
       },
       {
-        "term": "打けて",
-        "reading": "だけて",
-        "meaning": ""
+        "term": "抜ける",
+        "reading": "ぬける",
+        "meaning": "to come out; to fall out"
       },
       {
-        "term": "扱けて",
-        "reading": "こけて",
-        "meaning": ""
-      },
-      {
-        "term": "技けて",
-        "reading": "わざけて",
-        "meaning": ""
+        "term": "抜かす",
+        "reading": "ぬかす",
+        "meaning": "to omit; to leave out"
       }
     ]
   },
@@ -5848,28 +7376,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "増えた",
-    "meaning_en": "Meaning: 増えた",
-    "explanation": "正解は「増えた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "増",
+        "onyomi": "ゾウ",
+        "kunyomi": "ます・まし・ふえる・ふやす",
+        "meaning": "Increase, Add, Augment"
+      }
+    ],
     "similar": [
       {
-        "term": "増えた",
-        "reading": "ふえた",
-        "meaning": ""
+        "term": "増える",
+        "reading": "ふえる",
+        "meaning": "to increase"
       },
       {
-        "term": "憎えた",
-        "reading": "ぞうえた",
-        "meaning": ""
+        "term": "増す",
+        "reading": "ます",
+        "meaning": "to increase; to grow"
       },
       {
-        "term": "僧えた",
-        "reading": "そうえた",
-        "meaning": ""
-      },
-      {
-        "term": "贈えた",
-        "reading": "ぞうえた",
-        "meaning": ""
+        "term": "増加",
+        "reading": "ぞうか",
+        "meaning": "increase; addition"
       }
     ]
   },
@@ -5895,27 +7426,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "甘い",
     "meaning_en": "sweet",
-    "explanation": "正解は「甘い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "甘",
+        "onyomi": "カン",
+        "kunyomi": "あまい・あまえる・あまやかす・うまい",
+        "meaning": "Sweet, Coax, Pamper"
+      }
+    ],
     "similar": [
       {
-        "term": "甘い",
-        "reading": "あまい",
-        "meaning": "sweet"
+        "term": "甘やかす",
+        "reading": "あまやかす",
+        "meaning": "to pamper; to spoil"
       },
       {
-        "term": "苦い",
-        "reading": "にがい",
-        "meaning": "bitter"
+        "term": "甘える",
+        "reading": "あまえる",
+        "meaning": "to behave like a spoiled child; to fawn on"
       },
       {
-        "term": "渋い",
-        "reading": "しぶい",
-        "meaning": "1.  tasteful (clothing); cool"
-      },
-      {
-        "term": "濃い",
-        "reading": "こい",
-        "meaning": "thick (as of color; liquid)"
+        "term": "甘口",
+        "reading": "あまくち",
+        "meaning": "sweet flavour; mildness"
       }
     ]
   },
@@ -5941,27 +7475,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "賢い",
     "meaning_en": "wise; clever",
-    "explanation": "正解は「賢い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "賢",
+        "onyomi": "ケン",
+        "kunyomi": "かしこい",
+        "meaning": "Intelligent, Wise, Wisdom"
+      }
+    ],
     "similar": [
       {
-        "term": "賢い",
-        "reading": "かしこい",
-        "meaning": "wise; clever"
+        "term": "賢明",
+        "reading": "けんめい",
+        "meaning": "wisdom; intelligence"
       },
       {
-        "term": "貢い",
-        "reading": "みつい",
-        "meaning": ""
+        "term": "悪賢い",
+        "reading": "わるがしこい",
+        "meaning": "cunning; crafty"
       },
       {
-        "term": "賀い",
-        "reading": "がい",
-        "meaning": ""
-      },
-      {
-        "term": "貨い",
-        "reading": "かい",
-        "meaning": ""
+        "term": "普賢",
+        "reading": "ふげん",
+        "meaning": "Samantabhadra (bodhisattva); Universal Compassion"
       }
     ]
   },
@@ -5987,27 +7524,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "辛い",
     "meaning_en": "spicy",
-    "explanation": "正解は「辛い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "辛",
+        "onyomi": "シン",
+        "kunyomi": "からい・つらい・-づらい・かのと",
+        "meaning": "Spicy, Bitter, Hot"
+      }
+    ],
     "similar": [
       {
-        "term": "辛い",
-        "reading": "からい",
-        "meaning": "spicy"
+        "term": "塩辛い",
+        "reading": "しおからい",
+        "meaning": "salty (taste)"
       },
       {
-        "term": "卓い",
-        "reading": "すぐるい",
-        "meaning": ""
+        "term": "辛うじて",
+        "reading": "かろうじて",
+        "meaning": "barely; narrowly"
       },
       {
-        "term": "幸い",
-        "reading": "さいわい",
-        "meaning": "happiness; blessedness"
-      },
-      {
-        "term": "章い",
-        "reading": "しょうい",
-        "meaning": ""
+        "term": "辛抱",
+        "reading": "しんぼう",
+        "meaning": "patience; endurance"
       }
     ]
   },
@@ -6033,27 +7573,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "恐ろしい",
     "meaning_en": "terrible; dreadful",
-    "explanation": "正解は「恐ろしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "恐",
+        "onyomi": "キョウ",
+        "kunyomi": "おそれる・おそる・おそろしい・こわい・こわがる",
+        "meaning": "Fear, Dread, Awe"
+      }
+    ],
     "similar": [
       {
-        "term": "恐ろしい",
-        "reading": "おそろしい",
-        "meaning": "terrible; dreadful"
+        "term": "恐れる",
+        "reading": "おそれる",
+        "meaning": "to fear; to be afraid of"
       },
       {
-        "term": "怠ろしい",
-        "reading": "おこたろしい",
-        "meaning": ""
+        "term": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "be afraid; dread"
       },
       {
-        "term": "忌ろしい",
-        "reading": "きろしい",
-        "meaning": ""
-      },
-      {
-        "term": "惑ろしい",
-        "reading": "わくろしい",
-        "meaning": ""
+        "term": "恐縮",
+        "reading": "きょうしゅく",
+        "meaning": "shame; very kind of you"
       }
     ]
   },
@@ -6079,27 +7622,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "頼もしい",
     "meaning_en": "reliable; trustworthy",
-    "explanation": "正解は「頼もしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "頼",
+        "onyomi": "ライ",
+        "kunyomi": "たのむ・たのもしい・たよる",
+        "meaning": "Trust, Request"
+      }
+    ],
     "similar": [
       {
-        "term": "頼もしい",
-        "reading": "たのもしい",
-        "meaning": "reliable; trustworthy"
+        "term": "頼む",
+        "reading": "たのむ",
+        "meaning": "to ask"
       },
       {
-        "term": "預もしい",
-        "reading": "よもしい",
-        "meaning": ""
+        "term": "依頼",
+        "reading": "いらい",
+        "meaning": "(1) request; commission"
       },
       {
-        "term": "頂もしい",
-        "reading": "いただきもしい",
-        "meaning": ""
-      },
-      {
-        "term": "題もしい",
-        "reading": "だいもしい",
-        "meaning": ""
+        "term": "信頼",
+        "reading": "しんらい",
+        "meaning": "reliance; trust"
       }
     ]
   },
@@ -6125,27 +7671,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "快適",
     "meaning_en": "pleasant; agreeable",
-    "explanation": "正解は「快適」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "快",
+        "onyomi": "カイ",
+        "kunyomi": "こころよい",
+        "meaning": "Cheerful, Pleasant, Agreeable"
+      },
+      {
+        "kanji": "適",
+        "onyomi": "テキ",
+        "kunyomi": "かなう",
+        "meaning": "Suitable, Occasional, Rare"
+      }
+    ],
     "similar": [
       {
-        "term": "快適",
-        "reading": "かいてき",
-        "meaning": "pleasant; agreeable"
+        "term": "愉快",
+        "reading": "ゆかい",
+        "meaning": "pleasant; happy"
       },
       {
-        "term": "決適",
-        "reading": "けつてき",
-        "meaning": ""
+        "term": "快晴",
+        "reading": "かいせい",
+        "meaning": "good weather"
       },
       {
-        "term": "決滴",
-        "reading": "けつしずく",
-        "meaning": ""
+        "term": "全快",
+        "reading": "ぜんかい",
+        "meaning": "complete recovery of health"
       },
       {
-        "term": "快滴",
-        "reading": "かいしずく",
-        "meaning": ""
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
+      },
+      {
+        "term": "適する",
+        "reading": "てきする",
+        "meaning": "to fit; to suit"
       }
     ]
   },
@@ -6171,27 +7736,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "複雑",
     "meaning_en": "complexity; complication",
-    "explanation": "正解は「複雑」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "複",
+        "onyomi": "フク",
+        "kunyomi": "-",
+        "meaning": "Duplicate, Double, Compound"
+      },
+      {
+        "kanji": "雑",
+        "onyomi": "ザツ・ゾウ",
+        "kunyomi": "まじえる・まじる",
+        "meaning": "Miscellaneous"
+      }
+    ],
     "similar": [
       {
-        "term": "複雑",
-        "reading": "ふくざつ",
-        "meaning": "complexity; complication"
+        "term": "複写",
+        "reading": "ふくしゃ",
+        "meaning": "copy; duplicate"
       },
       {
-        "term": "復雑",
-        "reading": "ふくざつ",
-        "meaning": ""
+        "term": "複数",
+        "reading": "ふくすう",
+        "meaning": "plural; multiple"
       },
       {
-        "term": "複酔",
-        "reading": "ふくすい",
-        "meaning": ""
+        "term": "複合",
+        "reading": "ふくごう",
+        "meaning": "composite; complex"
       },
       {
-        "term": "復酔",
-        "reading": "ふくすい",
-        "meaning": ""
+        "term": "雑誌",
+        "reading": "ざっし",
+        "meaning": "magazine"
+      },
+      {
+        "term": "混雑",
+        "reading": "こんざつ",
+        "meaning": "confusion; congestion"
       }
     ]
   },
@@ -6217,27 +7801,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "得意",
     "meaning_en": "pride; triumph",
-    "explanation": "正解は「得意」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "得",
+        "onyomi": "トク",
+        "kunyomi": "える・うる",
+        "meaning": "Gain, Get, Find"
+      },
+      {
+        "kanji": "意",
+        "onyomi": "イ",
+        "kunyomi": "-",
+        "meaning": "Idea, Mind, Heart"
+      }
+    ],
     "similar": [
       {
-        "term": "得意",
-        "reading": "とくい",
-        "meaning": "pride; triumph"
+        "term": "得る",
+        "reading": "える",
+        "meaning": "to get; to gain"
       },
       {
-        "term": "得億",
-        "reading": "えおく",
-        "meaning": ""
+        "term": "納得",
+        "reading": "なっとく",
+        "meaning": "consent; assent"
       },
       {
-        "term": "特意",
-        "reading": "とくい",
-        "meaning": ""
+        "term": "心得る",
+        "reading": "こころえる",
+        "meaning": "to be informed; to have thorough knowledge"
       },
       {
-        "term": "特億",
-        "reading": "とくおく",
-        "meaning": ""
+        "term": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "term": "意見",
+        "reading": "いけん",
+        "meaning": "opinion"
       }
     ]
   },
@@ -6263,27 +7866,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "過激",
     "meaning_en": "extreme (measure, idea, etc.); radical",
-    "explanation": "正解は「過激」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "過",
+        "onyomi": "カ",
+        "kunyomi": "すぎる・-すぎる・-すぎ・すごす・あやまつ・あやまち・よぎる",
+        "meaning": "Overdo, Exceed, Go Beyond"
+      },
+      {
+        "kanji": "激",
+        "onyomi": "ゲキ",
+        "kunyomi": "はげしい",
+        "meaning": "Violent, Get Excited, Enraged"
+      }
+    ],
     "similar": [
       {
-        "term": "過激",
-        "reading": "かげき",
-        "meaning": "extreme (measure, idea, etc.); radical"
+        "term": "過ぎる",
+        "reading": "すぎる",
+        "meaning": "to exceed"
       },
       {
-        "term": "過劇",
-        "reading": "かげき",
+        "term": "通り過ぎ",
+        "reading": "とおりすぎる",
         "meaning": ""
       },
       {
-        "term": "渦劇",
-        "reading": "うずげき",
-        "meaning": ""
+        "term": "通り過ぎる",
+        "reading": "とおりすぎる",
+        "meaning": "to pass; to pass through"
       },
       {
-        "term": "渦激",
-        "reading": "うずげき",
-        "meaning": ""
+        "term": "刺激",
+        "reading": "しげき",
+        "meaning": "stimulus; impetus"
+      },
+      {
+        "term": "急激",
+        "reading": "きゅうげき",
+        "meaning": "sudden; precipitous"
       }
     ]
   },
@@ -6309,27 +7931,36 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "完璧",
     "meaning_en": "perfection; completeness",
-    "explanation": "正解は「完璧」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "完",
+        "onyomi": "カン",
+        "kunyomi": "-",
+        "meaning": "Perfect, Completion, End"
+      },
+      {
+        "kanji": "璧",
+        "onyomi": "ヘキ",
+        "kunyomi": "たま",
+        "meaning": "Sphere, Ball"
+      }
+    ],
     "similar": [
       {
-        "term": "完璧",
-        "reading": "かんぺき",
+        "term": "完了",
+        "reading": "かんりょう",
+        "meaning": "completion; conclusion"
+      },
+      {
+        "term": "完全",
+        "reading": "かんぜん",
         "meaning": "perfection; completeness"
       },
       {
-        "term": "完壁",
-        "reading": "かんぺき",
-        "meaning": ""
-      },
-      {
-        "term": "完避",
-        "reading": "かんひ",
-        "meaning": ""
-      },
-      {
-        "term": "完癖",
-        "reading": "かんくせ",
-        "meaning": ""
+        "term": "完成",
+        "reading": "かんせい",
+        "meaning": "(1) complete; completion"
       }
     ]
   },
@@ -6355,27 +7986,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "一層",
     "meaning_en": "much more; still more",
-    "explanation": "正解は「一層」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "層",
+        "onyomi": "ソウ",
+        "kunyomi": "-",
+        "meaning": "Stratum, Social Class, Layer"
+      }
+    ],
     "similar": [
       {
-        "term": "一層",
-        "reading": "いっそう",
-        "meaning": "much more; still more"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "一憎",
-        "reading": "いちぞう",
-        "meaning": ""
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "一増",
-        "reading": "いちぞう",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "一贈",
-        "reading": "いちぞう",
-        "meaning": ""
+        "term": "大層",
+        "reading": "たいそう",
+        "meaning": "very much; exaggerated"
+      },
+      {
+        "term": "高層",
+        "reading": "こうそう",
+        "meaning": "upper"
       }
     ]
   },
@@ -6401,27 +8051,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "普段",
     "meaning_en": "usually; habitually",
-    "explanation": "正解は「普段」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "普",
+        "onyomi": "フ",
+        "kunyomi": "あまねく・あまねし",
+        "meaning": "Universal, Wide(ly), Generally"
+      },
+      {
+        "kanji": "段",
+        "onyomi": "ダン・タン",
+        "kunyomi": "-",
+        "meaning": "Grade, Steps, Stairs"
+      }
+    ],
     "similar": [
       {
-        "term": "普段",
-        "reading": "ふだん",
-        "meaning": "usually; habitually"
+        "term": "普通",
+        "reading": "ふつう",
+        "meaning": "usually; or a train that stops at every station"
       },
       {
-        "term": "昔投",
-        "reading": "むかしとう",
-        "meaning": ""
+        "term": "普及",
+        "reading": "ふきゅう",
+        "meaning": "diffusion; spread"
       },
       {
-        "term": "普投",
-        "reading": "ふとう",
-        "meaning": ""
+        "term": "普遍",
+        "reading": "ふへん",
+        "meaning": "universality; ubiquity"
       },
       {
-        "term": "昔段",
-        "reading": "むかしだん",
-        "meaning": ""
+        "term": "階段",
+        "reading": "かいだん",
+        "meaning": "stairs"
+      },
+      {
+        "term": "値段",
+        "reading": "ねだん",
+        "meaning": "price; cost"
       }
     ]
   },
@@ -6447,12 +8116,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "割",
     "meaning_en": "divide; cut",
-    "explanation": "正解は「割」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "割",
+        "onyomi": "カツ",
+        "kunyomi": "わる・わり・わり・われる・さく",
+        "meaning": "Proportion, Comparatively, Divide"
+      }
+    ],
     "similar": [
       {
-        "term": "割",
-        "reading": "かつ",
-        "meaning": "divide; cut"
+        "term": "割れる",
+        "reading": "われる",
+        "meaning": "to break"
+      },
+      {
+        "term": "割合",
+        "reading": "わりあい",
+        "meaning": "rate; ratio"
+      },
+      {
+        "term": "割る",
+        "reading": "わる",
+        "meaning": "to divide; to cut"
       }
     ]
   },
@@ -6478,27 +8165,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "即座",
     "meaning_en": "immediate; right there on the spot",
-    "explanation": "正解は「即座」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "即",
+        "onyomi": "ソク",
+        "kunyomi": "つく・つける・すなわち",
+        "meaning": "Instant, Namely, As Is"
+      },
+      {
+        "kanji": "座",
+        "onyomi": "ザ",
+        "kunyomi": "すわる",
+        "meaning": "Squat, Seat, Cushion"
+      }
+    ],
     "similar": [
       {
-        "term": "即座",
-        "reading": "そくざ",
-        "meaning": "immediate; right there on the spot"
+        "term": "即する",
+        "reading": "そくする",
+        "meaning": "to conform to; to agree with"
       },
       {
-        "term": "印座",
-        "reading": "いんざ",
-        "meaning": ""
+        "term": "即ち",
+        "reading": "すなわち",
+        "meaning": "that is; namely"
       },
       {
-        "term": "即底",
-        "reading": "そくそこ",
-        "meaning": ""
+        "term": "即座に",
+        "reading": "そくざに",
+        "meaning": "immediately; right away"
       },
       {
-        "term": "印底",
-        "reading": "いんそこ",
-        "meaning": ""
+        "term": "座る",
+        "reading": "すわる",
+        "meaning": "to sit"
+      },
+      {
+        "term": "座席",
+        "reading": "ざせき",
+        "meaning": "seat"
       }
     ]
   },
@@ -6524,12 +8230,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "仮",
     "meaning_en": "tentative; provisional",
-    "explanation": "正解は「仮」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "仮",
+        "onyomi": "カ・ケ",
+        "kunyomi": "かり・かり-",
+        "meaning": "Sham, Temporary, Interim"
+      }
+    ],
     "similar": [
       {
-        "term": "仮",
-        "reading": "か",
-        "meaning": "tentative; provisional"
+        "term": "仮名",
+        "reading": "かな",
+        "meaning": "(n) alias; pseudonym"
+      },
+      {
+        "term": "仮名遣い",
+        "reading": "かなづかい",
+        "meaning": "kana orthography; syllabary spelling"
+      },
+      {
+        "term": "仮定",
+        "reading": "かてい",
+        "meaning": "assumption; supposition"
       }
     ]
   },
@@ -6555,12 +8279,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "無",
     "meaning_en": "nothing; naught",
-    "explanation": "正解は「無」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "無",
+        "onyomi": "ム・ブ",
+        "kunyomi": "ない",
+        "meaning": "Nothingness, None, Ain't"
+      }
+    ],
     "similar": [
       {
-        "term": "無",
-        "reading": "ぶ",
-        "meaning": "nothing; naught"
+        "term": "無くす",
+        "reading": "なくす",
+        "meaning": "to lose something"
+      },
+      {
+        "term": "無くなる",
+        "reading": "なくなる",
+        "meaning": "to disappear; to get lost"
+      },
+      {
+        "term": "無理",
+        "reading": "むり",
+        "meaning": "impossible"
       }
     ]
   },
@@ -6586,12 +8328,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "古",
     "meaning_en": "antiquity; ancient times",
-    "explanation": "正解は「古」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "古",
+        "onyomi": "コ",
+        "kunyomi": "ふるい・ふる-・-ふるす",
+        "meaning": "Old"
+      }
+    ],
     "similar": [
       {
-        "term": "古",
-        "reading": "いにしえ",
-        "meaning": "antiquity; ancient times"
+        "term": "古い",
+        "reading": "ふるい",
+        "meaning": "old (not used for people)"
+      },
+      {
+        "term": "中古",
+        "reading": "ちゅうこ",
+        "meaning": "(1) used; second-hand"
+      },
+      {
+        "term": "古典",
+        "reading": "こてん",
+        "meaning": "old book; classics"
       }
     ]
   },
@@ -6617,12 +8377,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "主",
     "meaning_en": "owner, master, god",
-    "explanation": "正解は「主」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "主",
+        "onyomi": "シュ・ス・シュウ",
+        "kunyomi": "ぬし・おも・あるじ",
+        "meaning": "Lord, Chief, Master"
+      }
+    ],
     "similar": [
       {
-        "term": "主",
-        "reading": "ぬし",
-        "meaning": "owner, master, god"
+        "term": "ご主人",
+        "reading": "ごしゅじん",
+        "meaning": "(your, her) husband"
+      },
+      {
+        "term": "御主人",
+        "reading": "ごしゅじん",
+        "meaning": "(honorable) your husband"
+      },
+      {
+        "term": "主に",
+        "reading": "おもに",
+        "meaning": "mainly; primarily"
       }
     ]
   },
@@ -6648,12 +8426,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "前",
     "meaning_en": "before",
-    "explanation": "正解は「前」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "前",
+        "onyomi": "ゼン",
+        "kunyomi": "まえ・-まえ",
+        "meaning": "In Front, Before"
+      }
+    ],
     "similar": [
       {
-        "term": "前",
-        "reading": "まえ",
-        "meaning": "before"
+        "term": "午前",
+        "reading": "ごぜん",
+        "meaning": "morning"
+      },
+      {
+        "term": "名前",
+        "reading": "なまえ",
+        "meaning": "name"
+      },
+      {
+        "term": "お前",
+        "reading": "おまえ",
+        "meaning": "you (sing), presence (of a high personage)"
       }
     ]
   },
@@ -6679,12 +8475,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "再",
     "meaning_en": "re-; again",
-    "explanation": "正解は「再」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "再",
+        "onyomi": "サイ・サ",
+        "kunyomi": "ふたたび",
+        "meaning": "Again, Twice, Second Time"
+      }
+    ],
     "similar": [
       {
-        "term": "再",
-        "reading": "さい",
-        "meaning": "re-; again"
+        "term": "再び",
+        "reading": "ふたたび",
+        "meaning": "again; once more"
+      },
+      {
+        "term": "再三",
+        "reading": "さいさん",
+        "meaning": "again and again; repeatedly"
+      },
+      {
+        "term": "再来年",
+        "reading": "さらいねん",
+        "meaning": "year after next"
       }
     ]
   },
@@ -6710,12 +8524,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "真",
     "meaning_en": "truth; reality",
-    "explanation": "正解は「真」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "真",
+        "onyomi": "シン",
+        "kunyomi": "ま・ま-・まこと",
+        "meaning": "True, Reality, Buddhist Sect"
+      }
+    ],
     "similar": [
       {
-        "term": "真",
-        "reading": "しん",
-        "meaning": "truth; reality"
+        "term": "写真",
+        "reading": "しゃしん",
+        "meaning": "photograph"
+      },
+      {
+        "term": "真中",
+        "reading": "まんなか",
+        "meaning": "middle"
+      },
+      {
+        "term": "真っ直ぐ",
+        "reading": "まっすぐ",
+        "meaning": "straight (ahead); direct"
       }
     ]
   },
@@ -6741,12 +8573,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "未",
     "meaning_en": "eighth sign of Chinese zodiac (The Ram  1pm-3pm  south-southwest  June)",
-    "explanation": "正解は「未」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "未",
+        "onyomi": "ミ・ビ",
+        "kunyomi": "いまだ・まだ・ひつじ",
+        "meaning": "Un-, Not Yet, Hitherto"
+      }
+    ],
     "similar": [
       {
-        "term": "未",
-        "reading": "ひつじ",
-        "meaning": "eighth sign of Chinese zodiac (The Ram  1pm-3pm  south-southwest  June)"
+        "term": "未だ",
+        "reading": "まだ",
+        "meaning": "yet; still"
+      },
+      {
+        "term": "未来",
+        "reading": "みらい",
+        "meaning": "future (life; tense)"
+      },
+      {
+        "term": "未満",
+        "reading": "みまん",
+        "meaning": "less than; insufficient"
       }
     ]
   },
@@ -6771,13 +8621,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "好",
-    "meaning_en": "Meaning: 好",
-    "explanation": "正解は「好」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "好",
+        "onyomi": "コウ",
+        "kunyomi": "このむ・すく・よい・いい",
+        "meaning": "Fond, Pleasing, Like Something"
+      }
+    ],
     "similar": [
       {
-        "term": "好",
-        "reading": "こう",
-        "meaning": ""
+        "term": "大好き",
+        "reading": "だいすき",
+        "meaning": "to be very likeable"
+      },
+      {
+        "term": "好き",
+        "reading": "すき",
+        "meaning": "likeable"
+      },
+      {
+        "term": "好み",
+        "reading": "このみ",
+        "meaning": "liking; taste"
       }
     ]
   },
@@ -6803,12 +8671,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "準",
     "meaning_en": "semi-; quasi-",
-    "explanation": "正解は「準」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "準",
+        "onyomi": "ジュン",
+        "kunyomi": "じゅんじる・じゅんずる・なぞらえる・のり・ひとしい・みずもり",
+        "meaning": "Semi-, Correspond To, Proportionate To"
+      }
+    ],
     "similar": [
       {
-        "term": "準",
-        "reading": "じゅん",
-        "meaning": "semi-; quasi-"
+        "term": "準備",
+        "reading": "じゅんびする",
+        "meaning": "to prepare"
+      },
+      {
+        "term": "水準",
+        "reading": "すいじゅん",
+        "meaning": "(1) water level; (2) level"
+      },
+      {
+        "term": "基準",
+        "reading": "きじゅん",
+        "meaning": "standard; basis"
       }
     ]
   },
@@ -6834,12 +8720,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "来",
     "meaning_en": "for (10 days); next (year)",
-    "explanation": "正解は「来」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "来",
+        "onyomi": "ライ・タイ",
+        "kunyomi": "くる・きたる・きたす・きたす・きたる・き・こ",
+        "meaning": "Come, Due, Next"
+      }
+    ],
     "similar": [
       {
-        "term": "来",
-        "reading": "らい",
-        "meaning": "for (10 days); next (year)"
+        "term": "さ来年",
+        "reading": "さらいねん",
+        "meaning": "year after next"
+      },
+      {
+        "term": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "term": "来年",
+        "reading": "らいねん",
+        "meaning": "next year"
       }
     ]
   },
@@ -6865,12 +8769,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "最",
     "meaning_en": "the most ~",
-    "explanation": "正解は「最」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "最",
+        "onyomi": "サイ・シュ",
+        "kunyomi": "もっとも・つま",
+        "meaning": "Utmost, Most, Extreme"
+      }
+    ],
     "similar": [
       {
-        "term": "最",
-        "reading": "さい",
-        "meaning": "the most ~"
+        "term": "最初",
+        "reading": "さいしょ",
+        "meaning": "beginning; first"
+      },
+      {
+        "term": "最後",
+        "reading": "さいご",
+        "meaning": "last; end"
+      },
+      {
+        "term": "最近",
+        "reading": "さいきん",
+        "meaning": "latest; nowadays"
       }
     ]
   },
@@ -6896,12 +8818,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "総",
     "meaning_en": "whole; all",
-    "explanation": "正解は「総」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "総",
+        "onyomi": "ソウ",
+        "kunyomi": "すべて・すべて・ふさ",
+        "meaning": "General, Whole, All"
+      }
+    ],
     "similar": [
       {
-        "term": "総",
-        "reading": "そう",
-        "meaning": "whole; all"
+        "term": "総理大臣",
+        "reading": "そうりだいじん",
+        "meaning": "Prime Minister"
+      },
+      {
+        "term": "総会",
+        "reading": "そうかい",
+        "meaning": "general meeting"
+      },
+      {
+        "term": "総合",
+        "reading": "そうごう",
+        "meaning": "synthesis; coordination"
       }
     ]
   },
@@ -6927,12 +8867,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "非",
     "meaning_en": "faulty-; non-",
-    "explanation": "正解は「非」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "非",
+        "onyomi": "ヒ",
+        "kunyomi": "あらず",
+        "meaning": "Un-, Mistake, Negative"
+      }
+    ],
     "similar": [
       {
-        "term": "非",
-        "reading": "ひ",
-        "meaning": "faulty-; non-"
+        "term": "非常に",
+        "reading": "ひじょうに",
+        "meaning": "extremely"
+      },
+      {
+        "term": "是非",
+        "reading": "ぜひ",
+        "meaning": "certainly; without fail"
+      },
+      {
+        "term": "非常",
+        "reading": "ひじょう",
+        "meaning": "emergency; extraordinary"
       }
     ]
   },
@@ -6958,12 +8916,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "現",
     "meaning_en": "present, incumbent",
-    "explanation": "正解は「現」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "現",
+        "onyomi": "ゲン",
+        "kunyomi": "あらわれる・あらわす・うつつ・うつつ",
+        "meaning": "Present, Existing, Actual"
+      }
+    ],
     "similar": [
       {
-        "term": "現",
-        "reading": "げん",
-        "meaning": "present, incumbent"
+        "term": "実現",
+        "reading": "じつげん",
+        "meaning": "implementation; materialization"
+      },
+      {
+        "term": "現す",
+        "reading": "あらわす",
+        "meaning": "to show; to indicate"
+      },
+      {
+        "term": "現れ",
+        "reading": "あらわれ",
+        "meaning": "embodiment; materialization"
       }
     ]
   },
@@ -6989,12 +8965,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "全",
     "meaning_en": "all; whole",
-    "explanation": "正解は「全」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "全",
+        "onyomi": "ゼン",
+        "kunyomi": "まったく・すべて",
+        "meaning": "Whole, Entire, All"
+      }
+    ],
     "similar": [
       {
-        "term": "全",
-        "reading": "ぜん",
-        "meaning": "all; whole"
+        "term": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all"
+      },
+      {
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
+      },
+      {
+        "term": "全く",
+        "reading": "まったく",
+        "meaning": "really; truly"
       }
     ]
   },
@@ -7020,12 +9014,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "半",
     "meaning_en": "half",
-    "explanation": "正解は「半」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "半",
+        "onyomi": "ハン",
+        "kunyomi": "なかば",
+        "meaning": "Half, Middle, Odd Number"
+      }
+    ],
     "similar": [
       {
-        "term": "半",
-        "reading": "はん",
-        "meaning": "half"
+        "term": "半分",
+        "reading": "はんぶん",
+        "meaning": "half minute"
+      },
+      {
+        "term": "半ば",
+        "reading": "なかば",
+        "meaning": "middle; half"
+      },
+      {
+        "term": "大半",
+        "reading": "たいはん",
+        "meaning": "majority; mostly"
       }
     ]
   },
@@ -7051,12 +9063,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "元",
     "meaning_en": "(1) origin; original",
-    "explanation": "正解は「元」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "元",
+        "onyomi": "ゲン・ガン",
+        "kunyomi": "もと",
+        "meaning": "Beginning, Former Time, Origin"
+      }
+    ],
     "similar": [
       {
-        "term": "元",
-        "reading": "もと",
-        "meaning": "(1) origin; original"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "お元気で",
+        "reading": "おげんきで",
+        "meaning": "Take care'"
+      },
+      {
+        "term": "元々",
+        "reading": "もともと",
+        "meaning": "originally; by nature"
       }
     ]
   },
@@ -7081,13 +9111,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "薄",
-    "meaning_en": "Meaning: 薄",
-    "explanation": "正解は「薄」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "薄",
+        "onyomi": "ハク",
+        "kunyomi": "うすい・うす-・-うす・うすめる・うすまる・うすらぐ・うすら-・うすれる・すすき",
+        "meaning": "Dilute, Thin, Weak (tea)"
+      }
+    ],
     "similar": [
       {
-        "term": "薄",
-        "reading": "はく",
-        "meaning": ""
+        "term": "薄い",
+        "reading": "うすい",
+        "meaning": "thin; weak"
+      },
+      {
+        "term": "薄める",
+        "reading": "うすめる",
+        "meaning": "to dilute; to water down"
+      },
+      {
+        "term": "薄暗い",
+        "reading": "うすぐらい",
+        "meaning": "dim; gloomy"
       }
     ]
   },
@@ -7113,12 +9161,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "初",
     "meaning_en": "first; new",
-    "explanation": "正解は「初」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "初",
+        "onyomi": "ショ",
+        "kunyomi": "はじめ・はじめて・はつ・はつ-・うい-・-そめる・-ぞめ",
+        "meaning": "First Time, Beginning"
+      }
+    ],
     "similar": [
       {
-        "term": "初",
-        "reading": "はつ",
-        "meaning": "first; new"
+        "term": "初め",
+        "reading": "はじめ",
+        "meaning": ""
+      },
+      {
+        "term": "初め/始め",
+        "reading": "はじめ",
+        "meaning": "beginning"
+      },
+      {
+        "term": "初め; 始め",
+        "reading": "はじめ",
+        "meaning": "beginning, start"
       }
     ]
   },
@@ -7144,12 +9210,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "低",
     "meaning_en": "low ~",
-    "explanation": "正解は「低」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "低",
+        "onyomi": "テイ",
+        "kunyomi": "ひくい・ひくめる・ひくまる",
+        "meaning": "Lower, Short, Humble"
+      }
+    ],
     "similar": [
       {
-        "term": "低",
-        "reading": "てい",
-        "meaning": "low ~"
+        "term": "低い",
+        "reading": "ひくい",
+        "meaning": "short; low"
+      },
+      {
+        "term": "最低",
+        "reading": "さいてい",
+        "meaning": "least; lowest"
+      },
+      {
+        "term": "低下",
+        "reading": "ていか",
+        "meaning": "fall; decline"
       }
     ]
   },
@@ -7175,12 +9259,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "異",
     "meaning_en": "objection",
-    "explanation": "正解は「異」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "異",
+        "onyomi": "イ",
+        "kunyomi": "こと・ことなる・け",
+        "meaning": "Uncommon, Different, Queerness"
+      }
+    ],
     "similar": [
       {
-        "term": "異",
-        "reading": "い",
-        "meaning": "objection"
+        "term": "異なる",
+        "reading": "ことなる",
+        "meaning": "to differ; to vary"
+      },
+      {
+        "term": "異常",
+        "reading": "いじょう",
+        "meaning": "strangeness; abnormality"
+      },
+      {
+        "term": "差異",
+        "reading": "さい",
+        "meaning": "difference; disparity"
       }
     ]
   },
@@ -7206,12 +9308,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "先",
     "meaning_en": "the future; previous",
-    "explanation": "正解は「先」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "先",
+        "onyomi": "セン",
+        "kunyomi": "さき・まず",
+        "meaning": "Before, Ahead, Previous"
+      }
+    ],
     "similar": [
       {
-        "term": "先",
-        "reading": "さき",
-        "meaning": "the future; previous"
+        "term": "先月",
+        "reading": "せんげつ",
+        "meaning": "last month"
+      },
+      {
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
+      },
+      {
+        "term": "先週",
+        "reading": "せんしゅう",
+        "meaning": "last week"
       }
     ]
   },
@@ -7237,12 +9357,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "元",
     "meaning_en": "(1) origin; original",
-    "explanation": "正解は「元」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "元",
+        "onyomi": "ゲン・ガン",
+        "kunyomi": "もと",
+        "meaning": "Beginning, Former Time, Origin"
+      }
+    ],
     "similar": [
       {
-        "term": "元",
-        "reading": "もと",
-        "meaning": "(1) origin; original"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "お元気で",
+        "reading": "おげんきで",
+        "meaning": "Take care'"
+      },
+      {
+        "term": "元々",
+        "reading": "もともと",
+        "meaning": "originally; by nature"
       }
     ]
   },
@@ -7268,12 +9406,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "式",
     "meaning_en": "equation; formula",
-    "explanation": "正解は「式」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "式",
+        "onyomi": "シキ",
+        "kunyomi": "-",
+        "meaning": "Style, Ceremony, Rite"
+      }
+    ],
     "similar": [
       {
-        "term": "式",
+        "term": "正式",
+        "reading": "せいしき",
+        "meaning": "due form; official"
+      },
+      {
+        "term": "〜 式",
         "reading": "しき",
-        "meaning": "equation; formula"
+        "meaning": "custom,"
+      },
+      {
+        "term": "儀式",
+        "reading": "ぎしき",
+        "meaning": "ceremony; rite"
       }
     ]
   },
@@ -7299,12 +9455,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "費",
     "meaning_en": "cost; expense",
-    "explanation": "正解は「費」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "費",
+        "onyomi": "ヒ",
+        "kunyomi": "ついやす・ついえる",
+        "meaning": "Expense, Cost, Spend"
+      }
+    ],
     "similar": [
       {
-        "term": "費",
-        "reading": "ひ",
+        "term": "消費",
+        "reading": "しょうひ",
+        "meaning": "consumption; expenditure"
+      },
+      {
+        "term": "費用",
+        "reading": "ひよう",
         "meaning": "cost; expense"
+      },
+      {
+        "term": "光熱費",
+        "reading": "こうねつひ",
+        "meaning": "cost of fuel and light"
       }
     ]
   },
@@ -7330,12 +9504,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "類",
     "meaning_en": "a kind",
-    "explanation": "正解は「類」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "類",
+        "onyomi": "ルイ",
+        "kunyomi": "たぐい",
+        "meaning": "Sort, Kind, Variety"
+      }
+    ],
     "similar": [
       {
-        "term": "類",
-        "reading": "たぐい",
-        "meaning": "a kind"
+        "term": "人類",
+        "reading": "じんるい",
+        "meaning": "mankind; humanity"
+      },
+      {
+        "term": "書類",
+        "reading": "しょるい",
+        "meaning": "documents; official papers"
+      },
+      {
+        "term": "種類",
+        "reading": "しゅるい",
+        "meaning": "variety; kind"
       }
     ]
   },
@@ -7361,12 +9553,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "風",
     "meaning_en": "wind",
-    "explanation": "正解は「風」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "風",
+        "onyomi": "フウ・フ",
+        "kunyomi": "かぜ・かざ-・-かぜ",
+        "meaning": "Wind, Air, Style"
+      }
+    ],
     "similar": [
       {
-        "term": "風",
+        "term": "お風呂",
+        "reading": "おふろ",
+        "meaning": "bath"
+      },
+      {
+        "term": "風邪",
         "reading": "かぜ",
-        "meaning": "wind"
+        "meaning": "a cold"
+      },
+      {
+        "term": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
       }
     ]
   },
@@ -7392,12 +9602,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "差",
     "meaning_en": "difference; variation",
-    "explanation": "正解は「差」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "差",
+        "onyomi": "サ",
+        "kunyomi": "さす・さし",
+        "meaning": "Distinction, Difference, Variation"
+      }
+    ],
     "similar": [
       {
-        "term": "差",
-        "reading": "さ",
-        "meaning": "difference; variation"
+        "term": "交差点",
+        "reading": "こうさてん",
+        "meaning": "intersection"
+      },
+      {
+        "term": "差す",
+        "reading": "さす",
+        "meaning": "to stretch out hands; to raise an umbrella"
+      },
+      {
+        "term": "差し上げる",
+        "reading": "さしあげる",
+        "meaning": "(polite) to give"
       }
     ]
   },
@@ -7423,12 +9651,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "状",
     "meaning_en": "shape",
-    "explanation": "正解は「状」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "状",
+        "onyomi": "ジョウ",
+        "kunyomi": "-",
+        "meaning": "Status Quo, Conditions, Circumstances"
+      }
+    ],
     "similar": [
       {
-        "term": "状",
-        "reading": "じょう",
-        "meaning": "shape"
+        "term": "状態",
+        "reading": "じょうたい",
+        "meaning": "condition; situation"
+      },
+      {
+        "term": "状況",
+        "reading": "じょうきょう",
+        "meaning": "state of affairs; situation"
+      },
+      {
+        "term": "現状",
+        "reading": "げんじょう",
+        "meaning": "present condition; existing state"
       }
     ]
   },
@@ -7454,12 +9700,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "代",
     "meaning_en": "price; materials",
-    "explanation": "正解は「代」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "代",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "かわる・かわる・かわり・かわり・-がわり・-がわり・かえる・よ・しろ",
+        "meaning": "Substitute, Change, Convert"
+      }
+    ],
     "similar": [
       {
-        "term": "代",
-        "reading": "しろ",
-        "meaning": "price; materials"
+        "term": "代わり",
+        "reading": "かわり",
+        "meaning": "substitute; alternate"
+      },
+      {
+        "term": "時代",
+        "reading": "じだい",
+        "meaning": "era"
+      },
+      {
+        "term": "代理",
+        "reading": "だいり",
+        "meaning": "representation; agency"
       }
     ]
   },
@@ -7485,12 +9749,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "順",
     "meaning_en": "order; turn",
-    "explanation": "正解は「順」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "順",
+        "onyomi": "ジュン",
+        "kunyomi": "-",
+        "meaning": "Obey, Order, Turn"
+      }
+    ],
     "similar": [
       {
-        "term": "順",
-        "reading": "じゅん",
-        "meaning": "order; turn"
+        "term": "順番",
+        "reading": "じゅんばん",
+        "meaning": "turn (in line); order of things"
+      },
+      {
+        "term": "順調",
+        "reading": "じゅんちょう",
+        "meaning": "favourable; doing well"
+      },
+      {
+        "term": "道順",
+        "reading": "みちじゅん",
+        "meaning": "itinerary; route"
       }
     ]
   },
@@ -7516,12 +9798,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "金",
     "meaning_en": "(1) gold; (2) gold general (shogi) (abbr)",
-    "explanation": "正解は「金」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "金",
+        "onyomi": "キン・コン・ゴン",
+        "kunyomi": "かね・かな-・-がね",
+        "meaning": "Gold"
+      }
+    ],
     "similar": [
       {
-        "term": "金",
-        "reading": "かね",
-        "meaning": "(1) gold; (2) gold general (shogi) (abbr)"
+        "term": "お金",
+        "reading": "おかね",
+        "meaning": "money"
+      },
+      {
+        "term": "金曜日",
+        "reading": "きんようび",
+        "meaning": "Friday"
+      },
+      {
+        "term": "お・金持ち",
+        "reading": "かねもち",
+        "meaning": ""
       }
     ]
   },
@@ -7547,12 +9847,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "点",
     "meaning_en": "point; dot",
-    "explanation": "正解は「点」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "点",
+        "onyomi": "テン",
+        "kunyomi": "つける・つく・たてる・さす・とぼす・ともす・ぼち",
+        "meaning": "Spot, Point, Mark"
+      }
+    ],
     "similar": [
       {
-        "term": "点",
-        "reading": "てん",
-        "meaning": "point; dot"
+        "term": "交差点",
+        "reading": "こうさてん",
+        "meaning": "intersection"
+      },
+      {
+        "term": "欠点",
+        "reading": "けってん",
+        "meaning": "faults; defect"
+      },
+      {
+        "term": "要点",
+        "reading": "ようてん",
+        "meaning": "gist; main point"
       }
     ]
   },
@@ -7578,12 +9896,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "着",
     "meaning_en": "counter for suits of clothing; arriving at ..",
-    "explanation": "正解は「着」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "着",
+        "onyomi": "チャク・ジャク",
+        "kunyomi": "きる・-ぎ・きせる・-きせ・つく・つける",
+        "meaning": "Don, Arrive, Wear"
+      }
+    ],
     "similar": [
       {
-        "term": "着",
-        "reading": "ちゃく",
-        "meaning": "counter for suits of clothing; arriving at .."
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
+      },
+      {
+        "term": "着く",
+        "reading": "つく",
+        "meaning": "to arrive at"
+      },
+      {
+        "term": "着る",
+        "reading": "きる",
+        "meaning": "to put on from the shoulders down"
       }
     ]
   },
@@ -7609,12 +9945,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "流",
     "meaning_en": "styleof; method of",
-    "explanation": "正解は「流」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "流",
+        "onyomi": "リュウ・ル",
+        "kunyomi": "ながれる・ながれ・ながす・-ながす",
+        "meaning": "Current, A Sink, Flow"
+      }
+    ],
     "similar": [
       {
-        "term": "流",
-        "reading": "りゅう",
-        "meaning": "styleof; method of"
+        "term": "流す",
+        "reading": "ながす",
+        "meaning": "to drain; to float"
+      },
+      {
+        "term": "流れ",
+        "reading": "ながれ",
+        "meaning": "stream; current"
+      },
+      {
+        "term": "流れる",
+        "reading": "ながれる",
+        "meaning": "to stream; to flow"
       }
     ]
   },
@@ -7640,12 +9994,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "証",
     "meaning_en": "proof; evidence",
-    "explanation": "正解は「証」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "証",
+        "onyomi": "ショウ",
+        "kunyomi": "あかし",
+        "meaning": "Evidence, Proof, Certificate"
+      }
+    ],
     "similar": [
       {
-        "term": "証",
-        "reading": "あかし",
-        "meaning": "proof; evidence"
+        "term": "保証",
+        "reading": "ほしょう",
+        "meaning": "guarantee; security"
+      },
+      {
+        "term": "証明",
+        "reading": "しょうめい",
+        "meaning": "proof; verification"
+      },
+      {
+        "term": "証人",
+        "reading": "しょうにん",
+        "meaning": "witness"
       }
     ]
   },
@@ -7670,13 +10042,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "書",
-    "meaning_en": "Meaning: 書",
-    "explanation": "正解は「書」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "書",
+        "onyomi": "ショ",
+        "kunyomi": "かく・-がき・-がき",
+        "meaning": "Write"
+      }
+    ],
     "similar": [
       {
-        "term": "書",
-        "reading": "かき",
-        "meaning": ""
+        "term": "図書館",
+        "reading": "としょかん",
+        "meaning": "library"
+      },
+      {
+        "term": "書く",
+        "reading": "かく",
+        "meaning": "to write"
+      },
+      {
+        "term": "葉書",
+        "reading": "はがき",
+        "meaning": "postcard"
       }
     ]
   },
@@ -7702,12 +10092,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "別",
     "meaning_en": "different",
-    "explanation": "正解は「別」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "別",
+        "onyomi": "ベツ",
+        "kunyomi": "わかれる・わける",
+        "meaning": "Separate, Branch Off, Diverge"
+      }
+    ],
     "similar": [
       {
-        "term": "別",
-        "reading": "べつ",
-        "meaning": "different"
+        "term": "別れる",
+        "reading": "わかれる",
+        "meaning": "to separate"
+      },
+      {
+        "term": "特別",
+        "reading": "とくべつ",
+        "meaning": "special"
+      },
+      {
+        "term": "別に",
+        "reading": "べつに",
+        "meaning": "(not) particularly; nothing"
       }
     ]
   },
@@ -7733,12 +10141,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "手",
     "meaning_en": "hand",
-    "explanation": "正解は「手」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      }
+    ],
     "similar": [
       {
-        "term": "手",
-        "reading": "て",
-        "meaning": "hand"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
       }
     ]
   },
@@ -7764,12 +10190,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "型",
     "meaning_en": "mold; model",
-    "explanation": "正解は「型」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "型",
+        "onyomi": "ケイ",
+        "kunyomi": "かた・-がた",
+        "meaning": "Mould, Type, Model"
+      }
+    ],
     "similar": [
       {
-        "term": "型",
-        "reading": "かた",
-        "meaning": "mold; model"
+        "term": "典型",
+        "reading": "てんけい",
+        "meaning": "type; pattern"
+      },
+      {
+        "term": "原型",
+        "reading": "げんけい",
+        "meaning": "prototype, model, archetypal"
+      },
+      {
+        "term": "模型",
+        "reading": "もけい",
+        "meaning": "model; dummy"
       }
     ]
   },
@@ -7795,12 +10239,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "制",
     "meaning_en": "system; organization",
-    "explanation": "正解は「制」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "制",
+        "onyomi": "セイ",
+        "kunyomi": "-",
+        "meaning": "System, Law, Rule"
+      }
+    ],
     "similar": [
       {
-        "term": "制",
-        "reading": "せい",
-        "meaning": "system; organization"
+        "term": "制度",
+        "reading": "せいど",
+        "meaning": "system; institution"
+      },
+      {
+        "term": "制限",
+        "reading": "せいげん",
+        "meaning": "restriction; restraint"
+      },
+      {
+        "term": "体制",
+        "reading": "たいせい",
+        "meaning": "order; system"
       }
     ]
   },
@@ -7826,12 +10288,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "上",
     "meaning_en": "on top of",
-    "explanation": "正解は「上」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      }
+    ],
     "similar": [
       {
-        "term": "上",
-        "reading": "うえ",
-        "meaning": "on top of"
+        "term": "上げる",
+        "reading": "あげる",
+        "meaning": "to give"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
       }
     ]
   },
@@ -7857,12 +10337,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "下",
     "meaning_en": "below",
-    "explanation": "正解は「下」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "下",
+        "onyomi": "カ・ゲ",
+        "kunyomi": "した・しも・もと・さげる・さがる・くだる・くだり・くだす・-くだす・くださる・おろす・おりる",
+        "meaning": "Below, Down, Descend"
+      }
+    ],
     "similar": [
       {
-        "term": "下",
-        "reading": "した",
-        "meaning": "below"
+        "term": "下さい",
+        "reading": "ください",
+        "meaning": "(with te-form verb) please do for me"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       }
     ]
   },
@@ -7888,12 +10386,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "量",
     "meaning_en": "quantity; amount",
-    "explanation": "正解は「量」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "量",
+        "onyomi": "リョウ",
+        "kunyomi": "はかる",
+        "meaning": "Quantity, Measure, Weight"
+      }
+    ],
     "similar": [
       {
-        "term": "量",
-        "reading": "りょう",
-        "meaning": "quantity; amount"
+        "term": "分量",
+        "reading": "ぶんりょう",
+        "meaning": "amount; quantity"
+      },
+      {
+        "term": "測量",
+        "reading": "そくりょう",
+        "meaning": "measurement; surveying"
+      },
+      {
+        "term": "重量",
+        "reading": "じゅうりょう",
+        "meaning": "(1) weight; (2) heavyweight boxer"
       }
     ]
   },
@@ -7919,12 +10435,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "内",
     "meaning_en": "inside",
-    "explanation": "正解は「内」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "内",
+        "onyomi": "ナイ・ダイ",
+        "kunyomi": "うち",
+        "meaning": "Inside, Within, Between"
+      }
+    ],
     "similar": [
       {
-        "term": "内",
-        "reading": "うち",
-        "meaning": "inside"
+        "term": "以内",
+        "reading": "いない",
+        "meaning": "within"
+      },
+      {
+        "term": "家内",
+        "reading": "かない",
+        "meaning": "housewife"
+      },
+      {
+        "term": "案内",
+        "reading": "あんないする",
+        "meaning": "to guide"
       }
     ]
   },
@@ -7950,12 +10484,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "観",
     "meaning_en": "look; appearance",
-    "explanation": "正解は「観」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "観",
+        "onyomi": "カン",
+        "kunyomi": "みる・しめす",
+        "meaning": "Outlook, Look, Appearance"
+      }
+    ],
     "similar": [
       {
-        "term": "観",
-        "reading": "かん",
-        "meaning": "look; appearance"
+        "term": "見る 観る",
+        "reading": "みる",
+        "meaning": "to see; to watch"
+      },
+      {
+        "term": "観光",
+        "reading": "かんこう",
+        "meaning": "sightseeing"
+      },
+      {
+        "term": "観客",
+        "reading": "かんきゃく",
+        "meaning": "audience; spectator(s)"
       }
     ]
   },
@@ -7981,27 +10533,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "切れ",
     "meaning_en": "cloth; piece",
-    "explanation": "正解は「切れ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "切れ",
-        "reading": "きれ",
-        "meaning": "cloth; piece"
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
       },
       {
-        "term": "消え",
-        "reading": "きえ",
-        "meaning": ""
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       },
       {
-        "term": "去り",
-        "reading": "さり",
-        "meaning": ""
-      },
-      {
-        "term": "飛び",
-        "reading": "とび",
-        "meaning": ""
+        "term": "切符",
+        "reading": "きっぷ",
+        "meaning": "ticket"
       }
     ]
   },
@@ -8027,27 +10582,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "気味",
     "meaning_en": "-like; -looking",
-    "explanation": "正解は「気味」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      },
+      {
+        "kanji": "味",
+        "onyomi": "ミ",
+        "kunyomi": "あじ・あじわう",
+        "meaning": "Flavor, Taste"
+      }
+    ],
     "similar": [
       {
-        "term": "気味",
-        "reading": "きみ",
-        "meaning": "-like; -looking"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
       },
       {
-        "term": "がち",
-        "reading": "",
-        "meaning": "tend to do ~"
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       },
       {
-        "term": "ぎれ",
-        "reading": "ぎれ",
-        "meaning": ""
+        "term": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
       },
       {
-        "term": "一色",
-        "reading": "いっしょく",
-        "meaning": "one color; one kind"
+        "term": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "term": "味噌",
+        "reading": "みそ",
+        "meaning": "bean paste"
       }
     ]
   },
@@ -8072,28 +10646,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "離れ",
-    "meaning_en": "Meaning: 離れ",
-    "explanation": "正解は「離れ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "離",
+        "onyomi": "リ",
+        "kunyomi": "はなれる・はなす",
+        "meaning": "Detach, Separation, Disjoin"
+      }
+    ],
     "similar": [
       {
-        "term": "離れ",
-        "reading": "はなれ",
-        "meaning": ""
+        "term": "離す",
+        "reading": "はなす",
+        "meaning": "to part; divide"
       },
       {
-        "term": "忘れ",
-        "reading": "わすれ",
-        "meaning": ""
+        "term": "離れる",
+        "reading": "はなれる",
+        "meaning": "to be separated from; to leave"
       },
       {
-        "term": "別れ",
-        "reading": "わかれ",
-        "meaning": "parting; separation"
-      },
-      {
-        "term": "逃げ",
-        "reading": "にげ",
-        "meaning": "escape; getaway"
+        "term": "離婚",
+        "reading": "りこん",
+        "meaning": "divorce"
       }
     ]
   },
@@ -8118,28 +10695,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "明 け",
-    "meaning_en": "Meaning: 明 け",
-    "explanation": "正解は「明 け」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "明",
+        "onyomi": "メイ・ミョウ・ミン",
+        "kunyomi": "あかり・あかるい・あかるむ・あからむ・あきらか・あける・-あけ・あく・あくる・あかす",
+        "meaning": "Bright, Light"
+      }
+    ],
     "similar": [
       {
-        "term": "明 け",
-        "reading": "めい け",
-        "meaning": ""
+        "term": "明い",
+        "reading": "あかるい",
+        "meaning": "bright"
       },
       {
-        "term": "入り",
-        "reading": "いり",
-        "meaning": "entering; entrance"
+        "term": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow"
       },
       {
-        "term": "開け",
-        "reading": "ひらけ",
-        "meaning": ""
-      },
-      {
-        "term": "出し",
-        "reading": "だし",
-        "meaning": "dashi; Japanese soup stock made from fish and kelp"
+        "term": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
       }
     ]
   },
@@ -8164,28 +10744,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "沿 い",
-    "meaning_en": "Meaning: 沿 い",
-    "explanation": "正解は「沿 い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "沿",
+        "onyomi": "エン",
+        "kunyomi": "そう・-ぞい",
+        "meaning": "Run Alongside, Follow Along, Run Along"
+      }
+    ],
     "similar": [
       {
-        "term": "沿 い",
-        "reading": "えん い",
-        "meaning": ""
+        "term": "沿い",
+        "reading": "ぞい",
+        "meaning": "along"
       },
       {
-        "term": "並み",
-        "reading": "なみ",
-        "meaning": "average; medium"
+        "term": "沿う",
+        "reading": "そう",
+        "meaning": "to run along; to follow"
       },
       {
-        "term": "付き",
-        "reading": "つき",
-        "meaning": "attached to; impression"
-      },
-      {
-        "term": "過ぎ",
-        "reading": "すぎ",
-        "meaning": "past; after"
+        "term": "沿岸",
+        "reading": "えんがん",
+        "meaning": "coast; shore"
       }
     ]
   },
@@ -8211,27 +10794,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "味方",
     "meaning_en": "friend; ally",
-    "explanation": "正解は「味方」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "味",
+        "onyomi": "ミ",
+        "kunyomi": "あじ・あじわう",
+        "meaning": "Flavor, Taste"
+      },
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      }
+    ],
     "similar": [
       {
-        "term": "味方",
-        "reading": "みかた",
-        "meaning": "friend; ally"
+        "term": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
       },
       {
-        "term": "方面",
-        "reading": "ほうめん",
-        "meaning": "direction; district"
+        "term": "味噌",
+        "reading": "みそ",
+        "meaning": "bean paste"
       },
       {
-        "term": "方角",
-        "reading": "ほうがく",
-        "meaning": "direction; way"
+        "term": "興味",
+        "reading": "きょうみ",
+        "meaning": "an interest"
       },
       {
-        "term": "方針",
-        "reading": "ほうしん",
-        "meaning": "objective; plan"
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       }
     ]
   },
@@ -8257,27 +10859,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "家計",
     "meaning_en": "household economy; family finances",
-    "explanation": "正解は「家計」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "家",
+        "onyomi": "カ・ケ",
+        "kunyomi": "いえ・や・うち",
+        "meaning": "House, Home, Family"
+      },
+      {
+        "kanji": "計",
+        "onyomi": "ケイ",
+        "kunyomi": "はかる・はからう",
+        "meaning": "Plot, Plan, Scheme"
+      }
+    ],
     "similar": [
       {
-        "term": "家計",
-        "reading": "かけい",
-        "meaning": "household economy; family finances"
+        "term": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
       },
       {
-        "term": "生活",
-        "reading": "せいかつする",
-        "meaning": "to live"
+        "term": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
       },
       {
-        "term": "設計",
-        "reading": "せっけい",
-        "meaning": "plan; design"
+        "term": "家内",
+        "reading": "かない",
+        "meaning": "housewife"
       },
       {
-        "term": "生計",
-        "reading": "せいけい",
-        "meaning": "livelihood; living"
+        "term": "時計",
+        "reading": "とけい",
+        "meaning": "watch; clock"
+      },
+      {
+        "term": "計画",
+        "reading": "けいかくする",
+        "meaning": "to plan"
       }
     ]
   },
@@ -8303,27 +10924,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "専属",
     "meaning_en": "exclusive; attached to",
-    "explanation": "正解は「専属」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "専",
+        "onyomi": "セン",
+        "kunyomi": "もっぱら",
+        "meaning": "Specialty, Exclusive, Mainly"
+      },
+      {
+        "kanji": "属",
+        "onyomi": "ゾク・ショク",
+        "kunyomi": "さかん・つく・やから",
+        "meaning": "Belong, Genus, Subordinate Official"
+      }
+    ],
     "similar": [
       {
-        "term": "専属",
-        "reading": "せんぞく",
-        "meaning": "exclusive; attached to"
+        "term": "専門",
+        "reading": "せんもん",
+        "meaning": "major; speciality"
       },
       {
-        "term": "選出",
-        "reading": "せんしゅつ",
-        "meaning": "election; selection"
+        "term": "専攻",
+        "reading": "せんこう",
+        "meaning": "major subject; special study"
       },
       {
-        "term": "所属",
-        "reading": "しょぞく",
-        "meaning": "attached to; belong to"
+        "term": "専制",
+        "reading": "せんせい",
+        "meaning": "despotism; autocracy"
       },
       {
-        "term": "関連",
-        "reading": "かんれん",
-        "meaning": "relation; connection"
+        "term": "金属",
+        "reading": "きんぞく",
+        "meaning": "metal"
+      },
+      {
+        "term": "属する",
+        "reading": "ぞくする",
+        "meaning": "to belong to; to come under"
       }
     ]
   },
@@ -8349,27 +10989,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "土台",
     "meaning_en": "foundation; base",
-    "explanation": "正解は「土台」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "土",
+        "onyomi": "ド・ト",
+        "kunyomi": "つち",
+        "meaning": "Soil, Earth, Ground"
+      },
+      {
+        "kanji": "台",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "うてな・われ・つかさ",
+        "meaning": "Pedestal, A Stand, Counter For Machines And Vehicles"
+      }
+    ],
     "similar": [
       {
-        "term": "土台",
-        "reading": "どだい",
-        "meaning": "foundation; base"
+        "term": "土曜日",
+        "reading": "どようび",
+        "meaning": "Saturday"
       },
       {
-        "term": "屋根",
-        "reading": "やね",
-        "meaning": "roof"
+        "term": "お土産",
+        "reading": "おみやげ",
+        "meaning": "souvenir"
       },
       {
-        "term": "姿勢",
-        "reading": "しせい",
-        "meaning": "attitude; posture"
+        "term": "土地",
+        "reading": "とち",
+        "meaning": "plot of land; lot"
       },
       {
-        "term": "外見",
-        "reading": "がいけん",
-        "meaning": "outward appearance; looks"
+        "term": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
+      },
+      {
+        "term": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
       }
     ]
   },
@@ -8395,27 +11054,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "詳細",
     "meaning_en": "detail; particulars",
-    "explanation": "正解は「詳細」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "詳",
+        "onyomi": "ショウ",
+        "kunyomi": "くわしい・つまびらか",
+        "meaning": "Detailed, Full, Minute"
+      },
+      {
+        "kanji": "細",
+        "onyomi": "サイ",
+        "kunyomi": "ほそい・ほそる・こまか・こまかい",
+        "meaning": "Dainty, Get Thin, Taper"
+      }
+    ],
     "similar": [
       {
-        "term": "詳細",
-        "reading": "しょうさい",
-        "meaning": "detail; particulars"
+        "term": "詳しい",
+        "reading": "くわしい",
+        "meaning": "knowing very well; detailed"
       },
       {
-        "term": "設計",
-        "reading": "せっけい",
-        "meaning": "plan; design"
+        "term": "不詳",
+        "reading": "ふしょう",
+        "meaning": "unknown; unidentified"
       },
       {
-        "term": "専門",
-        "reading": "せんもん",
-        "meaning": "major; speciality"
+        "term": "詳報",
+        "reading": "しょうほう",
+        "meaning": "detailed report; full report"
       },
       {
-        "term": "現象",
-        "reading": "げんしょう",
-        "meaning": "phenomenon"
+        "term": "細い",
+        "reading": "ほそい",
+        "meaning": "thin"
+      },
+      {
+        "term": "細かい",
+        "reading": "こまかい",
+        "meaning": "small; fine"
       }
     ]
   },
@@ -8441,27 +11119,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "代理",
     "meaning_en": "representation; agency",
-    "explanation": "正解は「代理」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "代",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "かわる・かわる・かわり・かわり・-がわり・-がわり・かえる・よ・しろ",
+        "meaning": "Substitute, Change, Convert"
+      },
+      {
+        "kanji": "理",
+        "onyomi": "リ",
+        "kunyomi": "ことわり",
+        "meaning": "Logic, Arrangement, Reason"
+      }
+    ],
     "similar": [
       {
-        "term": "代理",
-        "reading": "だいり",
-        "meaning": "representation; agency"
+        "term": "代わり",
+        "reading": "かわり",
+        "meaning": "substitute; alternate"
       },
       {
-        "term": "変化",
-        "reading": "へんか",
-        "meaning": "goblin; ghost"
+        "term": "時代",
+        "reading": "じだい",
+        "meaning": "era"
       },
       {
-        "term": "移行",
-        "reading": "いこう",
-        "meaning": "switching over to"
+        "term": "代表",
+        "reading": "だいひょう",
+        "meaning": "representative; representation"
       },
       {
-        "term": "代用",
-        "reading": "だいよう",
-        "meaning": "substitution"
+        "term": "料理",
+        "reading": "りょうり",
+        "meaning": "cuisine"
+      },
+      {
+        "term": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
       }
     ]
   },
@@ -8487,27 +11184,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "悪意",
     "meaning_en": "ill will; spite",
-    "explanation": "正解は「悪意」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "悪",
+        "onyomi": "アク・オ",
+        "kunyomi": "わるい・わる-・あし・にくい・-にくい・ああ・いずくに・いずくんぞ・にくむ",
+        "meaning": "Bad, Vice, Rascal"
+      },
+      {
+        "kanji": "意",
+        "onyomi": "イ",
+        "kunyomi": "-",
+        "meaning": "Idea, Mind, Heart"
+      }
+    ],
     "similar": [
       {
-        "term": "悪意",
-        "reading": "あくい",
-        "meaning": "ill will; spite"
+        "term": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
       },
       {
-        "term": "苦情",
-        "reading": "くじょう",
-        "meaning": "complaint; troubles"
+        "term": "悪口",
+        "reading": "わるくち",
+        "meaning": "abuse; insult"
       },
       {
-        "term": "機嫌",
-        "reading": "きげん",
-        "meaning": "humour; temper"
+        "term": "悪魔",
+        "reading": "あくま",
+        "meaning": "devil; demon"
       },
       {
-        "term": "欠点",
-        "reading": "けってん",
-        "meaning": "faults; defect"
+        "term": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "term": "意見",
+        "reading": "いけん",
+        "meaning": "opinion"
       }
     ]
   },
@@ -8533,12 +11249,36 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "教養",
     "meaning_en": "culture; education",
-    "explanation": "正解は「教養」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "教",
+        "onyomi": "キョウ",
+        "kunyomi": "おしえる・おそわる",
+        "meaning": "Teach, Faith, Doctrine"
+      },
+      {
+        "kanji": "養",
+        "onyomi": "ヨウ・リョウ",
+        "kunyomi": "やしなう",
+        "meaning": "Foster, Bring Up, Rear"
+      }
+    ],
     "similar": [
       {
-        "term": "教養",
-        "reading": "きょうよう",
-        "meaning": "culture; education"
+        "term": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach; to tell"
+      },
+      {
+        "term": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
+      },
+      {
+        "term": "教会",
+        "reading": "きょうかい",
+        "meaning": "church"
       },
       {
         "term": "栄養",
@@ -8546,14 +11286,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "nutrition; nourishment"
       },
       {
-        "term": "説教",
-        "reading": "せっきょう",
-        "meaning": "sermon; preaching"
-      },
-      {
-        "term": "教材",
-        "reading": "きょうざい",
-        "meaning": "teaching materials"
+        "term": "休養",
+        "reading": "きゅうよう",
+        "meaning": "rest; break"
       }
     ]
   },
@@ -8579,27 +11314,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "成果",
     "meaning_en": "results; fruits",
-    "explanation": "正解は「成果」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "成",
+        "onyomi": "セイ・ジョウ",
+        "kunyomi": "なる・なす・-なす",
+        "meaning": "Turn Into, Become, Get"
+      },
+      {
+        "kanji": "果",
+        "onyomi": "カ",
+        "kunyomi": "はたす・はたす・-はたす・はてる・-はてる・はて",
+        "meaning": "Fruit, Reward, Carry Out"
+      }
+    ],
     "similar": [
       {
-        "term": "成果",
-        "reading": "せいか",
-        "meaning": "results; fruits"
+        "term": "完成",
+        "reading": "かんせい",
+        "meaning": "(1) complete; completion"
+      },
+      {
+        "term": "成る",
+        "reading": "なる",
+        "meaning": "to become"
+      },
+      {
+        "term": "成人",
+        "reading": "せいじん",
+        "meaning": "adult"
+      },
+      {
+        "term": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit"
       },
       {
         "term": "効果",
         "reading": "こうか",
         "meaning": "effect; effectiveness"
-      },
-      {
-        "term": "安定",
-        "reading": "あんてい",
-        "meaning": "stability; equilibrium"
-      },
-      {
-        "term": "成立",
-        "reading": "せいりつ",
-        "meaning": "coming into existence; arrangements"
       }
     ]
   },
@@ -8625,27 +11379,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "実績",
     "meaning_en": "achievements; actual results",
-    "explanation": "正解は「実績」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "実",
+        "onyomi": "ジツ・シツ",
+        "kunyomi": "み・みのる・まこと・みの・みちる",
+        "meaning": "Reality, Truth"
+      },
+      {
+        "kanji": "績",
+        "onyomi": "セキ",
+        "kunyomi": "-",
+        "meaning": "Exploits, Achievements, Unreeling Cocoons"
+      }
+    ],
     "similar": [
       {
-        "term": "実績",
-        "reading": "じっせき",
-        "meaning": "achievements; actual results"
+        "term": "事実",
+        "reading": "じじつ",
+        "meaning": "fact; truth"
       },
       {
-        "term": "相性",
-        "reading": "あいしょう",
-        "meaning": "affinity; compatibility"
+        "term": "実に",
+        "reading": "じつに",
+        "meaning": "indeed; truly"
       },
       {
-        "term": "記録",
-        "reading": "きろく",
-        "meaning": "record; minutes"
+        "term": "実は",
+        "reading": "じつは",
+        "meaning": "as a matter of fact; by the way"
       },
       {
-        "term": "専門",
-        "reading": "せんもん",
-        "meaning": "major; speciality"
+        "term": "成績",
+        "reading": "せいせき",
+        "meaning": "results; record"
+      },
+      {
+        "term": "功績",
+        "reading": "こうせき",
+        "meaning": "achievements; merit"
       }
     ]
   },
@@ -8671,27 +11444,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "以後",
     "meaning_en": "after this; from now on",
-    "explanation": "正解は「以後」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "以",
+        "onyomi": "イ",
+        "kunyomi": "もって",
+        "meaning": "By Means Of, Because, In View Of"
+      },
+      {
+        "kanji": "後",
+        "onyomi": "ゴ・コウ",
+        "kunyomi": "のち・うしろ・うしろ・あと・おくれる",
+        "meaning": "Behind, Back, Later"
+      }
+    ],
     "similar": [
       {
-        "term": "以後",
-        "reading": "いご",
-        "meaning": "after this; from now on"
+        "term": "以上",
+        "reading": "いじょう",
+        "meaning": "more than; this is all"
       },
       {
-        "term": "後方",
-        "reading": "こうほう",
-        "meaning": "rear; back"
+        "term": "以下",
+        "reading": "いか",
+        "meaning": "less than"
       },
       {
-        "term": "後者",
-        "reading": "こうしゃ",
-        "meaning": "the latter"
+        "term": "以内",
+        "reading": "いない",
+        "meaning": "within"
       },
       {
-        "term": "以降",
-        "reading": "いこう",
-        "meaning": "on and after; hereafter"
+        "term": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon"
+      },
+      {
+        "term": "後ろ",
+        "reading": "うしろ",
+        "meaning": "behind"
       }
     ]
   },
@@ -8717,27 +11509,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "仕様",
     "meaning_en": "way; method",
-    "explanation": "正解は「仕様」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "仕",
+        "onyomi": "シ・ジ",
+        "kunyomi": "つかえる",
+        "meaning": "Attend, Doing, Official"
+      },
+      {
+        "kanji": "様",
+        "onyomi": "ヨウ・ショウ",
+        "kunyomi": "さま・さん",
+        "meaning": "Esq., Way, Manner"
+      }
+    ],
     "similar": [
       {
-        "term": "仕様",
-        "reading": "しよう",
-        "meaning": "way; method"
+        "term": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
       },
       {
-        "term": "衣装",
-        "reading": "いしょう",
-        "meaning": "clothing; costume"
+        "term": "仕方",
+        "reading": "しかた",
+        "meaning": "method"
       },
       {
-        "term": "様子",
-        "reading": "ようす",
-        "meaning": "aspect; state"
+        "term": "仕上がる",
+        "reading": "しあがる",
+        "meaning": "to be finished"
       },
       {
-        "term": "物質",
-        "reading": "ぶっしつ",
-        "meaning": "material; substance"
+        "term": "同様",
+        "reading": "どうよう",
+        "meaning": "identical; equal to"
+      },
+      {
+        "term": "様々",
+        "reading": "さまざま",
+        "meaning": "varied; various"
       }
     ]
   },
@@ -8763,27 +11574,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "欠陥",
     "meaning_en": "defect; fault",
-    "explanation": "正解は「欠陥」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "欠",
+        "onyomi": "ケツ・ケン",
+        "kunyomi": "かける・かく",
+        "meaning": "Lack, Gap, Fail"
+      },
+      {
+        "kanji": "陥",
+        "onyomi": "カン",
+        "kunyomi": "おちいる・おとしいれる",
+        "meaning": "Collapse, Fall Into, Cave In"
+      }
+    ],
     "similar": [
       {
-        "term": "欠陥",
-        "reading": "けっかん",
-        "meaning": "defect; fault"
+        "term": "欠ける",
+        "reading": "かける",
+        "meaning": "to be lacking"
       },
       {
-        "term": "油断",
-        "reading": "ゆだん",
-        "meaning": "negligence; unpreparedness"
+        "term": "欠席",
+        "reading": "けっせき",
+        "meaning": "absence; non-attendance"
       },
       {
-        "term": "減点",
-        "reading": "げんてん",
-        "meaning": "subtract; give a demerit"
+        "term": "欠点",
+        "reading": "けってん",
+        "meaning": "faults; defect"
       },
       {
-        "term": "反面",
-        "reading": "はんめん",
-        "meaning": "while; although"
+        "term": "陥る",
+        "reading": "おちいる",
+        "meaning": "to fall into (e.g. a hole); to fall into (chaos, depression, dilemma, illness, etc.)"
+      },
+      {
+        "term": "陥没",
+        "reading": "かんぼつ",
+        "meaning": "cave-in; collapse"
       }
     ]
   },
@@ -8809,17 +11639,26 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "活気",
     "meaning_en": "energy; liveliness",
-    "explanation": "正解は「活気」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "活気",
-        "reading": "かっき",
-        "meaning": "energy; liveliness"
+        "kanji": "活",
+        "onyomi": "カツ",
+        "kunyomi": "いきる・いかす・いける",
+        "meaning": "Lively, Resuscitation, Being Helped"
       },
       {
-        "term": "活用",
-        "reading": "かつよう",
-        "meaning": "conjugation; practical use"
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      }
+    ],
+    "similar": [
+      {
+        "term": "生活",
+        "reading": "せいかつする",
+        "meaning": "to live"
       },
       {
         "term": "活動",
@@ -8827,9 +11666,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "action; activity"
       },
       {
-        "term": "活躍",
-        "reading": "かつやく",
-        "meaning": "activity"
+        "term": "活用",
+        "reading": "かつよう",
+        "meaning": "conjugation; practical use"
+      },
+      {
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       }
     ]
   },
@@ -8855,27 +11704,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "地元",
     "meaning_en": "local",
-    "explanation": "正解は「地元」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      },
+      {
+        "kanji": "元",
+        "onyomi": "ゲン・ガン",
+        "kunyomi": "もと",
+        "meaning": "Beginning, Former Time, Origin"
+      }
+    ],
     "similar": [
       {
-        "term": "地元",
-        "reading": "じもと",
-        "meaning": "local"
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       },
       {
-        "term": "地面",
-        "reading": "じめん",
-        "meaning": "ground, earth's surface"
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       },
       {
-        "term": "温暖",
-        "reading": "おんだん",
-        "meaning": "warmth"
+        "term": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
       },
       {
-        "term": "根元",
-        "reading": "こんげん",
-        "meaning": ""
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "お元気で",
+        "reading": "おげんきで",
+        "meaning": "Take care'"
       }
     ]
   },
@@ -8901,27 +11769,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "生態",
     "meaning_en": "ecology; life and habits (of an animal)",
-    "explanation": "正解は「生態」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      },
+      {
+        "kanji": "態",
+        "onyomi": "タイ",
+        "kunyomi": "わざと",
+        "meaning": "Attitude, Condition, Figure"
+      }
+    ],
     "similar": [
       {
-        "term": "生態",
-        "reading": "せいたい",
-        "meaning": "ecology; life and habits (of an animal)"
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
       },
       {
-        "term": "現象",
-        "reading": "げんしょう",
-        "meaning": "phenomenon"
+        "term": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
       },
       {
-        "term": "生計",
-        "reading": "せいけい",
-        "meaning": "livelihood; living"
+        "term": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
       },
       {
-        "term": "人体",
-        "reading": "じんたい",
-        "meaning": "human body"
+        "term": "事態",
+        "reading": "じたい",
+        "meaning": "situation; present state of affairs"
+      },
+      {
+        "term": "態度",
+        "reading": "たいど",
+        "meaning": "attitude; manner"
       }
     ]
   },
@@ -8947,27 +11834,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "最善",
     "meaning_en": "the very best",
-    "explanation": "正解は「最善」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "最",
+        "onyomi": "サイ・シュ",
+        "kunyomi": "もっとも・つま",
+        "meaning": "Utmost, Most, Extreme"
+      },
+      {
+        "kanji": "善",
+        "onyomi": "ゼン",
+        "kunyomi": "よい・いい・よく・よしとする",
+        "meaning": "Virtuous, Good, Goodness"
+      }
+    ],
     "similar": [
       {
-        "term": "最善",
-        "reading": "さいぜん",
-        "meaning": "the very best"
+        "term": "最初",
+        "reading": "さいしょ",
+        "meaning": "beginning; first"
       },
       {
-        "term": "改良",
-        "reading": "かいりょう",
-        "meaning": "improvement; reform"
+        "term": "最後",
+        "reading": "さいご",
+        "meaning": "last; end"
       },
       {
-        "term": "大型",
-        "reading": "おおがた",
-        "meaning": "large; large-sized"
+        "term": "最近",
+        "reading": "さいきん",
+        "meaning": "latest; nowadays"
       },
       {
-        "term": "上位",
-        "reading": "じょうい",
-        "meaning": "superior (rank not class); higher order (e.g. byte)"
+        "term": "改善",
+        "reading": "かいぜん",
+        "meaning": "betterment; improvement"
+      },
+      {
+        "term": "善し悪し",
+        "reading": "よしあし",
+        "meaning": "good or bad; merits or demerits"
       }
     ]
   },
@@ -8993,27 +11899,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "視界",
     "meaning_en": "field of vision; visibility",
-    "explanation": "正解は「視界」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "視",
+        "onyomi": "シ",
+        "kunyomi": "みる",
+        "meaning": "Inspection, Regard As, See"
+      },
+      {
+        "kanji": "界",
+        "onyomi": "カイ",
+        "kunyomi": "-",
+        "meaning": "World, Boundary"
+      }
+    ],
     "similar": [
       {
-        "term": "視界",
-        "reading": "しかい",
-        "meaning": "field of vision; visibility"
+        "term": "無視",
+        "reading": "むし",
+        "meaning": "disregard; ignore"
       },
       {
-        "term": "視察",
-        "reading": "しさつ",
-        "meaning": "inspection; observation"
+        "term": "重視",
+        "reading": "じゅうし",
+        "meaning": "importance; stress"
       },
       {
-        "term": "視点",
-        "reading": "してん",
-        "meaning": "opinion; point of view"
+        "term": "監視",
+        "reading": "かんし",
+        "meaning": "observation; guarding"
       },
       {
-        "term": "視野",
-        "reading": "しや",
-        "meaning": "field of vision; outlook"
+        "term": "世界",
+        "reading": "せかい",
+        "meaning": "the world"
+      },
+      {
+        "term": "限界",
+        "reading": "げんかい",
+        "meaning": "limit; bound"
       }
     ]
   },
@@ -9039,27 +11964,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "段階",
     "meaning_en": "gradation; grade",
-    "explanation": "正解は「段階」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "段",
+        "onyomi": "ダン・タン",
+        "kunyomi": "-",
+        "meaning": "Grade, Steps, Stairs"
+      },
+      {
+        "kanji": "階",
+        "onyomi": "カイ",
+        "kunyomi": "きざはし",
+        "meaning": "Storey, Stair, Counter For Storeys Of A Building"
+      }
+    ],
     "similar": [
       {
-        "term": "段階",
-        "reading": "だんかい",
-        "meaning": "gradation; grade"
+        "term": "階段",
+        "reading": "かいだん",
+        "meaning": "stairs"
       },
       {
-        "term": "免許",
-        "reading": "めんきょ",
-        "meaning": "license; permit"
+        "term": "値段",
+        "reading": "ねだん",
+        "meaning": "price; cost"
       },
       {
-        "term": "設備",
-        "reading": "せつび",
-        "meaning": "equipment; device"
+        "term": "手段",
+        "reading": "しゅだん",
+        "meaning": "means; way"
       },
       {
-        "term": "知識",
-        "reading": "ちしき",
-        "meaning": "knowledge; information"
+        "term": "二階建て",
+        "reading": "にかいだて",
+        "meaning": "two storied"
+      },
+      {
+        "term": "階層",
+        "reading": "かいそう",
+        "meaning": "class; level"
       }
     ]
   },
@@ -9085,27 +12029,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "入会",
     "meaning_en": "admission (to a society, club, etc.); joining",
-    "explanation": "正解は「入会」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      },
+      {
+        "kanji": "会",
+        "onyomi": "カイ・エ",
+        "kunyomi": "あう・あわせる・あつまる",
+        "meaning": "Meeting, Meet, Party"
+      }
+    ],
     "similar": [
       {
-        "term": "入会",
-        "reading": "にゅうかい",
-        "meaning": "admission (to a society, club, etc.); joining"
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
       },
       {
-        "term": "訪問",
-        "reading": "ほうもん",
-        "meaning": "call; visit"
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       },
       {
-        "term": "面会",
-        "reading": "めんかい",
-        "meaning": "interview"
+        "term": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
       },
       {
-        "term": "来場",
-        "reading": "らいじょう",
-        "meaning": "attendance"
+        "term": "会う",
+        "reading": "あう",
+        "meaning": "to meet"
+      },
+      {
+        "term": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company"
       }
     ]
   },
@@ -9131,27 +12094,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "苦戦",
     "meaning_en": "hard fight; close game",
-    "explanation": "正解は「苦戦」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "苦",
+        "onyomi": "ク",
+        "kunyomi": "くるしい・-ぐるしい・くるしむ・くるしめる・にがい・にがる",
+        "meaning": "Suffering, Trial, Worry"
+      },
+      {
+        "kanji": "戦",
+        "onyomi": "セン",
+        "kunyomi": "いくさ・たたかう・おののく・そよぐ・わななく",
+        "meaning": "War, Battle, Match"
+      }
+    ],
     "similar": [
       {
-        "term": "苦戦",
-        "reading": "くせん",
-        "meaning": "hard fight; close game"
+        "term": "苦い",
+        "reading": "にがい",
+        "meaning": "bitter"
       },
       {
-        "term": "観戦",
-        "reading": "かんせん",
-        "meaning": "watching a (sports) game; spectating"
+        "term": "苦しい",
+        "reading": "くるしい",
+        "meaning": "painful; difficult"
       },
       {
-        "term": "検討",
-        "reading": "けんとう",
-        "meaning": "consideration; examination"
+        "term": "苦しむ",
+        "reading": "くるしむ",
+        "meaning": "to suffer; to groan"
       },
       {
-        "term": "克服",
-        "reading": "こくふく",
-        "meaning": "subjugation; conquest"
+        "term": "戦争",
+        "reading": "せんそう",
+        "meaning": "war"
+      },
+      {
+        "term": "大戦",
+        "reading": "たいせん",
+        "meaning": "great war; great battle"
       }
     ]
   },
@@ -9177,27 +12159,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "延長",
     "meaning_en": "extension; elongation",
-    "explanation": "正解は「延長」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "延長",
-        "reading": "えんちょう",
-        "meaning": "extension; elongation"
+        "kanji": "延",
+        "onyomi": "エン",
+        "kunyomi": "のびる・のべる・のべ・のばす",
+        "meaning": "Prolong, Stretching"
       },
+      {
+        "kanji": "長",
+        "onyomi": "チョウ",
+        "kunyomi": "ながい・おさ",
+        "meaning": "Long, Leader, Superior"
+      }
+    ],
+    "similar": [
       {
         "term": "延期",
         "reading": "えんき",
         "meaning": "postponement; adjournment"
       },
       {
-        "term": "拡大",
-        "reading": "かくだい",
-        "meaning": "magnification; enlargement"
+        "term": "延ばす",
+        "reading": "のばす",
+        "meaning": "to lengthen; to stretch"
       },
       {
-        "term": "拡張",
-        "reading": "かくちょう",
-        "meaning": "expansion; extension"
+        "term": "延びる",
+        "reading": "のびる",
+        "meaning": "to be prolonged"
+      },
+      {
+        "term": "長い",
+        "reading": "ながい",
+        "meaning": "long"
+      },
+      {
+        "term": "校長",
+        "reading": "こうちょう",
+        "meaning": "headmaster"
       }
     ]
   },
@@ -9223,27 +12224,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "解消",
     "meaning_en": "cancellation; liquidation",
-    "explanation": "正解は「解消」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "解",
+        "onyomi": "カイ・ゲ",
+        "kunyomi": "とく・とかす・とける・ほどく・ほどける・わかる・さとる",
+        "meaning": "Unravel, Notes, Key"
+      },
+      {
+        "kanji": "消",
+        "onyomi": "ショウ",
+        "kunyomi": "きえる・けす",
+        "meaning": "Extinguish, Blow Out, Turn Off"
+      }
+    ],
     "similar": [
       {
-        "term": "解消",
-        "reading": "かいしょう",
-        "meaning": "cancellation; liquidation"
+        "term": "理解",
+        "reading": "りかい",
+        "meaning": "understanding; comprehension"
       },
       {
-        "term": "減点",
-        "reading": "げんてん",
-        "meaning": "subtract; give a demerit"
+        "term": "見解",
+        "reading": "けんかい",
+        "meaning": "opinion; point of view"
       },
       {
-        "term": "発揮",
-        "reading": "はっき",
-        "meaning": "exhibition; demonstration"
+        "term": "解く",
+        "reading": "とく",
+        "meaning": "to unfasten"
       },
       {
-        "term": "消耗",
-        "reading": "しょうもう",
-        "meaning": "exhaustion; consumption"
+        "term": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear"
+      },
+      {
+        "term": "消す",
+        "reading": "けす",
+        "meaning": "to erase; to turn off power"
       }
     ]
   },
@@ -9269,27 +12289,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "引退",
     "meaning_en": "retire",
-    "explanation": "正解は「引退」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "引",
+        "onyomi": "イン",
+        "kunyomi": "ひく・ひき・ひき-・-びき・ひける",
+        "meaning": "Pull, Tug, Jerk"
+      },
+      {
+        "kanji": "退",
+        "onyomi": "タイ",
+        "kunyomi": "しりぞく・しりぞける・ひく・のく・のける・どく",
+        "meaning": "Retreat, Withdraw, Retire"
+      }
+    ],
     "similar": [
       {
-        "term": "引退",
-        "reading": "いんたい",
-        "meaning": "retire"
+        "term": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
       },
       {
-        "term": "退職",
-        "reading": "たいしょく",
-        "meaning": "retirement (from office)"
+        "term": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
       },
       {
-        "term": "引用",
-        "reading": "いんよう",
-        "meaning": "quotation; citation"
+        "term": "引き出し",
+        "reading": "ひきだし",
+        "meaning": "drawer; drawing out"
       },
       {
-        "term": "早退",
-        "reading": "そうたい",
-        "meaning": "leaving early"
+        "term": "退院",
+        "reading": "たいいんする",
+        "meaning": "to leave hospital"
+      },
+      {
+        "term": "退屈",
+        "reading": "たいくつ",
+        "meaning": "tedium; boredom"
       }
     ]
   },
@@ -9315,27 +12354,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "実感",
     "meaning_en": "feelings (actual; true)",
-    "explanation": "正解は「実感」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "実",
+        "onyomi": "ジツ・シツ",
+        "kunyomi": "み・みのる・まこと・みの・みちる",
+        "meaning": "Reality, Truth"
+      },
+      {
+        "kanji": "感",
+        "onyomi": "カン",
+        "kunyomi": "-",
+        "meaning": "Emotion, Feeling, Sensation"
+      }
+    ],
     "similar": [
       {
-        "term": "実感",
-        "reading": "じっかん",
-        "meaning": "feelings (actual; true)"
+        "term": "事実",
+        "reading": "じじつ",
+        "meaning": "fact; truth"
       },
       {
-        "term": "反応",
-        "reading": "はんのう",
-        "meaning": "reaction; response"
+        "term": "実に",
+        "reading": "じつに",
+        "meaning": "indeed; truly"
       },
       {
-        "term": "伝達",
-        "reading": "でんたつ",
-        "meaning": "transmission (e.g. news); communication"
+        "term": "実は",
+        "reading": "じつは",
+        "meaning": "as a matter of fact; by the way"
       },
       {
-        "term": "明示",
-        "reading": "めいじ",
-        "meaning": "elucidation; explicit statement"
+        "term": "感じ",
+        "reading": "かんじ",
+        "meaning": "feeling; sense"
+      },
+      {
+        "term": "感じる",
+        "reading": "かんじる",
+        "meaning": "to feel; to sense"
       }
     ]
   },
@@ -9361,27 +12419,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "覚悟",
     "meaning_en": "resolution; resignation",
-    "explanation": "正解は「覚悟」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "覚",
+        "onyomi": "カク",
+        "kunyomi": "おぼえる・さます・さめる・さとる",
+        "meaning": "Memorize, Learn, Remember"
+      },
+      {
+        "kanji": "悟",
+        "onyomi": "ゴ",
+        "kunyomi": "さとる",
+        "meaning": "Enlightenment, Perceive, Discern"
+      }
+    ],
     "similar": [
       {
-        "term": "覚悟",
-        "reading": "かくご",
-        "meaning": "resolution; resignation"
+        "term": "覚える",
+        "reading": "おぼえる",
+        "meaning": "to remember"
       },
       {
-        "term": "決着",
-        "reading": "けっちゃく",
-        "meaning": "conclusion; decision"
+        "term": "感覚",
+        "reading": "かんかく",
+        "meaning": "sense; sensation"
       },
       {
-        "term": "考察",
-        "reading": "こうさつ",
-        "meaning": "consideration; inquiry"
+        "term": "覚ます",
+        "reading": "さます",
+        "meaning": "to awaken"
       },
       {
-        "term": "決意",
-        "reading": "けつい",
-        "meaning": "decision; determination"
+        "term": "悟る",
+        "reading": "さとる",
+        "meaning": "to attain enlightenment; to perceive"
+      },
+      {
+        "term": "悟り",
+        "reading": "さとり",
+        "meaning": "comprehension; understanding"
       }
     ]
   },
@@ -9407,27 +12484,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "回復",
     "meaning_en": "recovery (from illness); improvement",
-    "explanation": "正解は「回復」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "回",
+        "onyomi": "カイ・エ",
+        "kunyomi": "まわる・-まわる・-まわり・まわす・-まわす・まわし-・-まわし・もとおる・かえる",
+        "meaning": "-times, Round, Game"
+      },
+      {
+        "kanji": "復",
+        "onyomi": "フク",
+        "kunyomi": "また",
+        "meaning": "Restore, Return To, Revert"
+      }
+    ],
     "similar": [
       {
-        "term": "回復",
-        "reading": "かいふく",
-        "meaning": "recovery (from illness); improvement"
+        "term": "回る",
+        "reading": "まわる",
+        "meaning": "to go around"
+      },
+      {
+        "term": "回る、回す",
+        "reading": "まわる、まわす",
+        "meaning": "to go around, to revolve"
+      },
+      {
+        "term": "今回",
+        "reading": "こんかい",
+        "meaning": "now; this time"
+      },
+      {
+        "term": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "revision"
       },
       {
         "term": "往復",
         "reading": "おうふく",
         "meaning": "(col) round trip; coming and going"
-      },
-      {
-        "term": "上達",
-        "reading": "じょうたつ",
-        "meaning": "improvement; advance"
-      },
-      {
-        "term": "展開",
-        "reading": "てんかい",
-        "meaning": "develop; expansion (opposite of compression)"
       }
     ]
   },
@@ -9453,27 +12549,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "支持",
     "meaning_en": "support; maintenance",
-    "explanation": "正解は「支持」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "支",
+        "onyomi": "シ",
+        "kunyomi": "ささえる・つかえる・かう",
+        "meaning": "Branch, Support, Sustain"
+      },
+      {
+        "kanji": "持",
+        "onyomi": "ジ",
+        "kunyomi": "もつ・-もち・もてる",
+        "meaning": "Hold, Have"
+      }
+    ],
     "similar": [
       {
-        "term": "支持",
-        "reading": "しじ",
-        "meaning": "support; maintenance"
+        "term": "支度",
+        "reading": "したくする",
+        "meaning": "to prepare"
       },
       {
-        "term": "批評",
-        "reading": "ひひょう",
-        "meaning": "criticism; review"
+        "term": "支える",
+        "reading": "ささえる",
+        "meaning": "to be blocked; to choke"
       },
       {
-        "term": "確認",
-        "reading": "かくにん",
-        "meaning": "affirmation; confirmation"
+        "term": "支出",
+        "reading": "ししゅつ",
+        "meaning": "expenditure; expenses"
       },
       {
-        "term": "証明",
-        "reading": "しょうめい",
-        "meaning": "proof; verification"
+        "term": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold"
+      },
+      {
+        "term": "お・金持ち",
+        "reading": "かねもち",
+        "meaning": ""
       }
     ]
   },
@@ -9499,27 +12614,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "進歩",
     "meaning_en": "progress; development",
-    "explanation": "正解は「進歩」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "進",
+        "onyomi": "シン",
+        "kunyomi": "すすむ・すすめる",
+        "meaning": "Advance, Proceed, Progress"
+      },
+      {
+        "kanji": "歩",
+        "onyomi": "ホ・ブ・フ",
+        "kunyomi": "あるく・あゆむ",
+        "meaning": "Walk, Counter For Steps"
+      }
+    ],
     "similar": [
       {
-        "term": "進歩",
-        "reading": "しんぽ",
-        "meaning": "progress; development"
+        "term": "進む",
+        "reading": "すすむ",
+        "meaning": "to make progress"
       },
       {
-        "term": "向上",
-        "reading": "こうじょう",
-        "meaning": "elevation; rise"
+        "term": "前進",
+        "reading": "ぜんしん",
+        "meaning": "advance; drive"
       },
       {
-        "term": "新設",
-        "reading": "しんせつ",
-        "meaning": "establishing; founding"
+        "term": "進める",
+        "reading": "すすめる",
+        "meaning": "to advance; to promote"
       },
       {
-        "term": "改良",
-        "reading": "かいりょう",
-        "meaning": "improvement; reform"
+        "term": "散歩",
+        "reading": "さんぽする",
+        "meaning": "to stroll"
+      },
+      {
+        "term": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
       }
     ]
   },
@@ -9545,27 +12679,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "獲得",
     "meaning_en": "acquisition; possession",
-    "explanation": "正解は「獲得」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "獲",
+        "onyomi": "カク",
+        "kunyomi": "える",
+        "meaning": "Seize, Get, Find"
+      },
+      {
+        "kanji": "得",
+        "onyomi": "トク",
+        "kunyomi": "える・うる",
+        "meaning": "Gain, Get, Find"
+      }
+    ],
     "similar": [
       {
-        "term": "獲得",
-        "reading": "かくとく",
-        "meaning": "acquisition; possession"
+        "term": "捕獲",
+        "reading": "ほかく",
+        "meaning": "capture; seizure"
       },
       {
-        "term": "収穫",
-        "reading": "しゅうかく",
-        "meaning": "harvest; crop"
+        "term": "獲物",
+        "reading": "えもの",
+        "meaning": "game; spoils"
       },
       {
-        "term": "取得",
-        "reading": "しゅとく",
-        "meaning": "obtaining (a qualification, right, object, etc.); acquisition (of land, property, etc.)"
+        "term": "乱獲",
+        "reading": "らんかく",
+        "meaning": "overfishing; overhunting"
       },
       {
-        "term": "募集",
-        "reading": "ぼしゅう",
-        "meaning": "recruiting; taking applications"
+        "term": "得る",
+        "reading": "える",
+        "meaning": "to get; to gain"
+      },
+      {
+        "term": "得意",
+        "reading": "とくい",
+        "meaning": "pride; triumph"
       }
     ]
   },
@@ -9591,27 +12744,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "用心",
     "meaning_en": "care; precaution",
-    "explanation": "正解は「用心」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "用",
+        "onyomi": "ヨウ",
+        "kunyomi": "もちいる",
+        "meaning": "Utilize, Business, Service"
+      },
+      {
+        "kanji": "心",
+        "onyomi": "シン",
+        "kunyomi": "こころ・-ごころ",
+        "meaning": "Heart, Mind, Spirit"
+      }
+    ],
     "similar": [
       {
-        "term": "用心",
-        "reading": "ようじん",
-        "meaning": "care; precaution"
+        "term": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
       },
       {
-        "term": "完備",
-        "reading": "かんび",
-        "meaning": ""
+        "term": "用事",
+        "reading": "ようじ",
+        "meaning": "things to do"
       },
       {
-        "term": "徹底",
-        "reading": "てってい",
-        "meaning": "thoroughness; completeness"
+        "term": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
       },
       {
-        "term": "抵抗",
-        "reading": "ていこう",
-        "meaning": "electrical resistance; resistance"
+        "term": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
+      },
+      {
+        "term": "心配",
+        "reading": "しんぱいする",
+        "meaning": "to worry"
       }
     ]
   },
@@ -9637,27 +12809,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "一致",
     "meaning_en": "(1) coincidence; agreement",
-    "explanation": "正解は「一致」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "致",
+        "onyomi": "チ",
+        "kunyomi": "いたす",
+        "meaning": "Doth, Do, Send"
+      }
+    ],
     "similar": [
       {
-        "term": "一致",
-        "reading": "いっち",
-        "meaning": "(1) coincidence; agreement"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "一転",
-        "reading": "いってん",
-        "meaning": ""
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "合唱",
-        "reading": "がっしょう",
-        "meaning": "chorus; singing in a chorus"
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "同意",
-        "reading": "どうい",
-        "meaning": "agreement; consent"
+        "term": "致す",
+        "reading": "いたす",
+        "meaning": "(humble) to do"
+      },
+      {
+        "term": "合致",
+        "reading": "がっち",
+        "meaning": "agreement; concurrence"
       }
     ]
   },
@@ -9683,27 +12874,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "運営",
     "meaning_en": "management; administration",
-    "explanation": "正解は「運営」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "運",
+        "onyomi": "ウン",
+        "kunyomi": "はこぶ",
+        "meaning": "Carry, Luck, Destiny"
+      },
+      {
+        "kanji": "営",
+        "onyomi": "エイ",
+        "kunyomi": "いとなむ・いとなみ",
+        "meaning": "Occupation, Camp, Perform"
+      }
+    ],
     "similar": [
       {
-        "term": "運営",
-        "reading": "うんえい",
+        "term": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "to transport"
+      },
+      {
+        "term": "運動",
+        "reading": "うんどうする",
+        "meaning": "to exercise"
+      },
+      {
+        "term": "運転",
+        "reading": "うんてんする",
+        "meaning": "to drive"
+      },
+      {
+        "term": "営業",
+        "reading": "えいぎょう",
+        "meaning": "business; trade"
+      },
+      {
+        "term": "経営",
+        "reading": "けいえい",
         "meaning": "management; administration"
-      },
-      {
-        "term": "建設",
-        "reading": "けんせつ",
-        "meaning": "construction; establishment"
-      },
-      {
-        "term": "発生",
-        "reading": "はっせい",
-        "meaning": "outbreak; spring forth"
-      },
-      {
-        "term": "支配",
-        "reading": "しはい",
-        "meaning": "rule; control"
       }
     ]
   },
@@ -9729,27 +12939,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "返却",
     "meaning_en": "return (of something borrowed or entrusted); returning",
-    "explanation": "正解は「返却」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "返",
+        "onyomi": "ヘン",
+        "kunyomi": "かえす・-かえす・かえる・-かえる",
+        "meaning": "Return, Answer, Fade"
+      },
+      {
+        "kanji": "却",
+        "onyomi": "キャク",
+        "kunyomi": "かえって・しりぞく・しりぞける",
+        "meaning": "Instead, On The Contrary, Rather"
+      }
+    ],
     "similar": [
       {
-        "term": "返却",
-        "reading": "へんきゃく",
-        "meaning": "return (of something borrowed or entrusted); returning"
+        "term": "返す",
+        "reading": "かえす",
+        "meaning": "to return something"
       },
       {
-        "term": "出版",
-        "reading": "しゅっぱん",
-        "meaning": "publication"
+        "term": "返事",
+        "reading": "へんじ",
+        "meaning": "reply"
       },
       {
-        "term": "納品",
-        "reading": "のうひん",
-        "meaning": ""
+        "term": "繰り返す",
+        "reading": "くりかえす",
+        "meaning": "to repeat; to do something over again"
       },
       {
-        "term": "帰宅",
-        "reading": "きたく",
-        "meaning": "returning home"
+        "term": "却って",
+        "reading": "かえって",
+        "meaning": "on the contrary; rather"
+      },
+      {
+        "term": "償却",
+        "reading": "しょうきゃく",
+        "meaning": "repayment; redemption"
       }
     ]
   },
@@ -9775,27 +13004,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "回収",
     "meaning_en": "collection; recovery",
-    "explanation": "正解は「回収」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "回",
+        "onyomi": "カイ・エ",
+        "kunyomi": "まわる・-まわる・-まわり・まわす・-まわす・まわし-・-まわし・もとおる・かえる",
+        "meaning": "-times, Round, Game"
+      },
+      {
+        "kanji": "収",
+        "onyomi": "シュウ",
+        "kunyomi": "おさめる・おさまる",
+        "meaning": "Income, Obtain, Reap"
+      }
+    ],
     "similar": [
       {
-        "term": "回収",
-        "reading": "かいしゅう",
-        "meaning": "collection; recovery"
+        "term": "回る",
+        "reading": "まわる",
+        "meaning": "to go around"
       },
       {
-        "term": "採集",
-        "reading": "さいしゅう",
-        "meaning": "collecting; gathering"
+        "term": "回る、回す",
+        "reading": "まわる、まわす",
+        "meaning": "to go around, to revolve"
       },
       {
-        "term": "獲得",
-        "reading": "かくとく",
-        "meaning": "acquisition; possession"
+        "term": "今回",
+        "reading": "こんかい",
+        "meaning": "now; this time"
       },
       {
-        "term": "収穫",
-        "reading": "しゅうかく",
-        "meaning": "harvest; crop"
+        "term": "収める",
+        "reading": "おさめる",
+        "meaning": "to obtain; to reap"
+      },
+      {
+        "term": "収入",
+        "reading": "しゅうにゅう",
+        "meaning": "income; receipts"
       }
     ]
   },
@@ -9821,27 +13069,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "志望",
     "meaning_en": "wish; desire",
-    "explanation": "正解は「志望」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "志",
+        "onyomi": "シ",
+        "kunyomi": "シリング・こころざす・こころざし",
+        "meaning": "Intention, Plan, Resolve"
+      },
+      {
+        "kanji": "望",
+        "onyomi": "ボウ・モウ",
+        "kunyomi": "のぞむ・もち",
+        "meaning": "Ambition, Full Moon, Hope"
+      }
+    ],
     "similar": [
       {
-        "term": "志望",
-        "reading": "しぼう",
-        "meaning": "wish; desire"
+        "term": "意志",
+        "reading": "いし",
+        "meaning": "will; volition"
       },
       {
-        "term": "追求",
-        "reading": "ついきゅう",
-        "meaning": "pursuit (of a goal, ideal, etc.); search"
+        "term": "同志",
+        "reading": "どうし",
+        "meaning": "same mind; comrade"
       },
       {
-        "term": "同情",
-        "reading": "どうじょう",
-        "meaning": "sympathy; compassion"
+        "term": "志す",
+        "reading": "こころざす",
+        "meaning": "to plan; to intend"
       },
       {
-        "term": "感心",
-        "reading": "かんしん",
-        "meaning": "admiration; Well done!"
+        "term": "失望",
+        "reading": "しつぼう",
+        "meaning": "disappointment; despair"
+      },
+      {
+        "term": "希望",
+        "reading": "きぼう",
+        "meaning": "hope; wish"
       }
     ]
   },
@@ -9867,27 +13134,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "加速",
     "meaning_en": "acceleration",
-    "explanation": "正解は「加速」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "加",
+        "onyomi": "カ",
+        "kunyomi": "くわえる・くわわる",
+        "meaning": "Add, Addition, Increase"
+      },
+      {
+        "kanji": "速",
+        "onyomi": "ソク",
+        "kunyomi": "はやい・はや-・はやめる・すみやか",
+        "meaning": "Quick, Fast"
+      }
+    ],
     "similar": [
       {
-        "term": "加速",
-        "reading": "かそく",
-        "meaning": "acceleration"
+        "term": "加える",
+        "reading": "くわえる",
+        "meaning": "to append; to sum up"
       },
       {
-        "term": "接近",
-        "reading": "せっきん",
-        "meaning": "getting closer; drawing nearer"
+        "term": "加わる",
+        "reading": "くわわる",
+        "meaning": "to join in; to accede to"
       },
       {
-        "term": "伝達",
-        "reading": "でんたつ",
-        "meaning": "transmission (e.g. news); communication"
+        "term": "加減",
+        "reading": "かげん",
+        "meaning": "addition and subtraction; allowance for"
       },
       {
-        "term": "加工",
-        "reading": "かこう",
-        "meaning": "manufacturing; processing"
+        "term": "速い",
+        "reading": "はやい",
+        "meaning": "quick"
+      },
+      {
+        "term": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid (e.g. progress)"
       }
     ]
   },
@@ -9913,12 +13199,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "さびる",
     "meaning_en": "錆びる[vi]rust",
-    "explanation": "正解は「さびる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "錆",
+        "onyomi": "ショウ・セイ",
+        "kunyomi": "さび・くわしい",
+        "meaning": "Rust, Tarnish"
+      }
+    ],
     "similar": [
       {
-        "term": "さびる",
-        "reading": "",
-        "meaning": "錆びる[vi]rust"
+        "term": "錆びる",
+        "reading": "さびる",
+        "meaning": "to rust; to become rusty"
+      },
+      {
+        "term": "錆び",
+        "reading": "さび",
+        "meaning": "rust (colour)"
       },
       {
         "term": "くさる",
@@ -9929,11 +13228,6 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "term": "いたむ",
         "reading": "",
         "meaning": "痛む[vg]to fee pain"
-      },
-      {
-        "term": "おとる",
-        "reading": "",
-        "meaning": "劣る[vg]to be inferior"
       }
     ]
   },
@@ -9958,14 +13252,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せまって",
-    "meaning_en": "Meaning: せまって",
-    "explanation": "正解は「せまって」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "せまって",
-        "reading": "せまって",
-        "meaning": ""
-      },
       {
         "term": "達して",
         "reading": "たっして",
@@ -10004,28 +13294,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "効いた",
-    "meaning_en": "Meaning: 効いた",
-    "explanation": "正解は「効いた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "効",
+        "onyomi": "コウ",
+        "kunyomi": "きく・ききめ・ならう",
+        "meaning": "Merit, Efficacy, Efficiency"
+      }
+    ],
     "similar": [
       {
-        "term": "効いた",
-        "reading": "きいた",
-        "meaning": ""
+        "term": "効く",
+        "reading": "きく",
+        "meaning": "to be effective"
       },
       {
-        "term": "そまった",
-        "reading": "そまった",
-        "meaning": ""
+        "term": "効果",
+        "reading": "こうか",
+        "meaning": "effect; effectiveness"
       },
       {
-        "term": "当たった",
-        "reading": "あたった",
-        "meaning": ""
-      },
-      {
-        "term": "わいた",
-        "reading": "わいた",
-        "meaning": ""
+        "term": "有効",
+        "reading": "ゆうこう",
+        "meaning": "validity; availability"
       }
     ]
   },
@@ -10051,27 +13344,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "おとる",
     "meaning_en": "劣る[vg]to be inferior",
-    "explanation": "正解は「おとる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "劣",
+        "onyomi": "レツ",
+        "kunyomi": "おとる",
+        "meaning": "Inferiority, Be Inferior To, Be Worse"
+      }
+    ],
     "similar": [
       {
-        "term": "おとる",
-        "reading": "",
-        "meaning": "劣る[vg]to be inferior"
+        "term": "劣る",
+        "reading": "おとる",
+        "meaning": "to fall behind; to be inferior to"
       },
       {
-        "term": "遅れる",
-        "reading": "おくれる",
-        "meaning": "to be late"
+        "term": "優劣",
+        "reading": "ゆうれつ",
+        "meaning": "(relative) merits; superiority or inferiority"
       },
       {
-        "term": "倒れる",
-        "reading": "たおれる",
-        "meaning": "to break down"
-      },
-      {
-        "term": "崩れる",
-        "reading": "くずれる",
-        "meaning": "to collapse; to crumble"
+        "term": "劣勢",
+        "reading": "れっせい",
+        "meaning": "inferiority (e.g. numerical); inferior position"
       }
     ]
   },
@@ -10097,27 +13393,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あやつる",
     "meaning_en": "操る[vg]manipulate",
-    "explanation": "正解は「あやつる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "操",
+        "onyomi": "ソウ・サン",
+        "kunyomi": "みさお・あやつる",
+        "meaning": "Maneuver, Manipulate, Operate"
+      }
+    ],
     "similar": [
       {
-        "term": "あやつる",
-        "reading": "",
-        "meaning": "操る[vg]manipulate"
+        "term": "操作",
+        "reading": "そうさ",
+        "meaning": "operation; management"
       },
       {
-        "term": "えがく",
-        "reading": "",
-        "meaning": "描く[vg]draw"
+        "term": "体操",
+        "reading": "たいそう",
+        "meaning": "gymnastics; physical exercises"
       },
       {
-        "term": "握る",
-        "reading": "にぎる",
-        "meaning": "to grasp; to seize"
-      },
-      {
-        "term": "満たす",
-        "reading": "みたす",
-        "meaning": "to satisfy; to ingratiate"
+        "term": "操る",
+        "reading": "あやつる",
+        "meaning": "to manipulate; to operate"
       }
     ]
   },
@@ -10142,28 +13441,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "塗 っている",
-    "meaning_en": "Meaning: 塗 っている",
-    "explanation": "正解は「塗 っている」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "塗",
+        "onyomi": "ト",
+        "kunyomi": "ぬる・ぬり・まみれる",
+        "meaning": "Paint, Plaster, Daub"
+      }
+    ],
     "similar": [
       {
-        "term": "塗 っている",
-        "reading": "ぬり っている",
-        "meaning": ""
+        "term": "塗る",
+        "reading": "ぬる",
+        "meaning": "to paint; to plaster"
       },
       {
-        "term": "放っている",
-        "reading": "ほうっっている",
-        "meaning": ""
+        "term": "塗り替える",
+        "reading": "ぬりかえる",
+        "meaning": "to repaint; to paint again"
       },
       {
-        "term": "履いている",
-        "reading": "はいている",
-        "meaning": ""
-      },
-      {
-        "term": "含んでいる",
-        "reading": "ふくんでいる",
-        "meaning": ""
+        "term": "塗布",
+        "reading": "とふ",
+        "meaning": "application (of ointment, etc.); coating"
       }
     ]
   },
@@ -10188,28 +13490,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "区切って",
-    "meaning_en": "Meaning: 区切って",
-    "explanation": "正解は「区切って」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "区",
+        "onyomi": "ク・オウ・コウ",
+        "kunyomi": "-",
+        "meaning": "Ward, District"
+      },
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "区切って",
-        "reading": "くぎって",
-        "meaning": ""
+        "term": "区別",
+        "reading": "くべつ",
+        "meaning": "distinction; differentiation"
       },
       {
-        "term": "裏切って",
-        "reading": "うらぎって",
-        "meaning": ""
+        "term": "地区",
+        "reading": "ちく",
+        "meaning": "district; section"
       },
       {
-        "term": "思い切って",
-        "reading": "おもいきって",
-        "meaning": "resolutely; boldly"
+        "term": "区分",
+        "reading": "くぶん",
+        "meaning": "division; section"
       },
       {
-        "term": "張り切って",
-        "reading": "はりきって",
-        "meaning": ""
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       }
     ]
   },
@@ -10235,27 +13556,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "収まる",
     "meaning_en": "to be obtained; to end",
-    "explanation": "正解は「収まる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "収",
+        "onyomi": "シュウ",
+        "kunyomi": "おさめる・おさまる",
+        "meaning": "Income, Obtain, Reap"
+      }
+    ],
     "similar": [
       {
-        "term": "収まる",
-        "reading": "おさまる",
-        "meaning": "to be obtained; to end"
+        "term": "収める",
+        "reading": "おさめる",
+        "meaning": "to obtain; to reap"
       },
       {
-        "term": "いたる",
-        "reading": "",
-        "meaning": "至る[vg]arrive"
+        "term": "収入",
+        "reading": "しゅうにゅう",
+        "meaning": "income; receipts"
       },
       {
-        "term": "関わる",
-        "reading": "かかわる",
-        "meaning": "to be involved (in); to get involved (in)"
-      },
-      {
-        "term": "重なる",
-        "reading": "かさなる",
-        "meaning": "to be piled up; lie on top of one another"
+        "term": "収穫",
+        "reading": "しゅうかく",
+        "meaning": "harvest; crop"
       }
     ]
   },
@@ -10280,28 +13604,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "抱 えて",
-    "meaning_en": "Meaning: 抱 えて",
-    "explanation": "正解は「抱 えて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "抱",
+        "onyomi": "ホウ",
+        "kunyomi": "だく・いだく・かかえる",
+        "meaning": "Embrace, Hug, Hold In Arms"
+      }
+    ],
     "similar": [
       {
-        "term": "抱 えて",
-        "reading": "ほう えて",
-        "meaning": ""
+        "term": "抱える",
+        "reading": "かかえる",
+        "meaning": "to hold or carry under or in the arms"
       },
       {
-        "term": "握って",
-        "reading": "にぎって",
-        "meaning": ""
+        "term": "抱く",
+        "reading": "いだく",
+        "meaning": "(sl) to embrace; to hug"
       },
       {
-        "term": "備えて",
-        "reading": "そなえて",
-        "meaning": ""
-      },
-      {
-        "term": "責めて",
-        "reading": "せめて",
-        "meaning": ""
+        "term": "介抱",
+        "reading": "かいほう",
+        "meaning": "nursing; looking after"
       }
     ]
   },
@@ -10326,28 +13653,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "味 わう",
-    "meaning_en": "Meaning: 味 わう",
-    "explanation": "正解は「味 わう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "味",
+        "onyomi": "ミ",
+        "kunyomi": "あじ・あじわう",
+        "meaning": "Flavor, Taste"
+      }
+    ],
     "similar": [
       {
-        "term": "味 わう",
-        "reading": "あじ わう",
-        "meaning": ""
+        "term": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
       },
       {
-        "term": "迎える",
-        "reading": "むかえる",
-        "meaning": "to go out to meet"
+        "term": "味噌",
+        "reading": "みそ",
+        "meaning": "bean paste"
       },
       {
-        "term": "用いる",
-        "reading": "もちいる",
-        "meaning": "to use; to make use of"
-      },
-      {
-        "term": "向ける",
-        "reading": "むける",
-        "meaning": "to turn towards; to point"
+        "term": "興味",
+        "reading": "きょうみ",
+        "meaning": "an interest"
       }
     ]
   },
@@ -10372,28 +13702,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "占めている",
-    "meaning_en": "Meaning: 占めている",
-    "explanation": "正解は「占めている」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "占",
+        "onyomi": "セン",
+        "kunyomi": "しめる・うらなう",
+        "meaning": "Fortune-telling, Divining, Forecasting"
+      }
+    ],
     "similar": [
       {
-        "term": "占めている",
-        "reading": "しめている",
-        "meaning": ""
+        "term": "占める",
+        "reading": "しめる",
+        "meaning": "(1) to comprise; to account for"
       },
       {
-        "term": "伸ばしている",
-        "reading": "のばしている",
-        "meaning": ""
+        "term": "占う",
+        "reading": "うらなう",
+        "meaning": "to forecast; to predict"
       },
       {
-        "term": "測っている",
-        "reading": "はかっている",
-        "meaning": ""
-      },
-      {
-        "term": "命じている",
-        "reading": "めいじている",
-        "meaning": ""
+        "term": "占領",
+        "reading": "せんりょう",
+        "meaning": "occupation; capture"
       }
     ]
   },
@@ -10419,27 +13752,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "挙げる",
     "meaning_en": "to raise; to fly",
-    "explanation": "正解は「挙げる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "挙",
+        "onyomi": "キョ",
+        "kunyomi": "あげる・あがる・こぞる",
+        "meaning": "Raise, Plan, Project"
+      }
+    ],
     "similar": [
       {
-        "term": "挙げる",
-        "reading": "あげる",
-        "meaning": "to raise; to fly"
+        "term": "一挙に",
+        "reading": "いっきょに",
+        "meaning": "at a stroke; with a single swoop"
       },
       {
-        "term": "積む",
-        "reading": "つむ",
-        "meaning": "to pile up; to stack"
+        "term": "選挙",
+        "reading": "せんきょ",
+        "meaning": "election"
       },
       {
-        "term": "放つ",
-        "reading": "はなつ",
-        "meaning": "to fire (gun, arrow, questions, etc.); to shoot"
-      },
-      {
-        "term": "はる",
-        "reading": "",
-        "meaning": "春[n]spring"
+        "term": "一挙",
+        "reading": "いっきょ",
+        "meaning": "one effort; one action"
       }
     ]
   },
@@ -10465,27 +13801,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "上回る",
     "meaning_en": "to exceed",
-    "explanation": "正解は「上回る」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      },
+      {
+        "kanji": "回",
+        "onyomi": "カイ・エ",
+        "kunyomi": "まわる・-まわる・-まわり・まわす・-まわす・まわし-・-まわし・もとおる・かえる",
+        "meaning": "-times, Round, Game"
+      }
+    ],
     "similar": [
       {
-        "term": "上回る",
-        "reading": "うわまわる",
-        "meaning": "to exceed"
+        "term": "上げる",
+        "reading": "あげる",
+        "meaning": "to give"
       },
       {
-        "term": "走り回る",
-        "reading": "はしりまわる",
-        "meaning": "to run around"
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       },
       {
-        "term": "飛び回る",
-        "reading": "とびまわる",
-        "meaning": ""
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
       },
       {
-        "term": "見回る",
-        "reading": "みまわる",
-        "meaning": ""
+        "term": "回る",
+        "reading": "まわる",
+        "meaning": "to go around"
+      },
+      {
+        "term": "回る、回す",
+        "reading": "まわる、まわす",
+        "meaning": "to go around, to revolve"
       }
     ]
   },
@@ -10511,27 +13866,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "思いやる",
     "meaning_en": "to sympathize with; to sympathise with",
-    "explanation": "正解は「思いやる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      }
+    ],
     "similar": [
       {
-        "term": "思いやる",
-        "reading": "おもいやる",
-        "meaning": "to sympathize with; to sympathise with"
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "思いつく",
-        "reading": "おもいつく",
-        "meaning": ""
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "思い立つ",
-        "reading": "おもいたつ",
-        "meaning": ""
-      },
-      {
-        "term": "思い込む",
-        "reading": "おもいこむ",
-        "meaning": "to be under impression that; to be convinced that"
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       }
     ]
   },
@@ -10557,27 +13915,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "裏切る",
     "meaning_en": "to betray; to turn traitor to",
-    "explanation": "正解は「裏切る」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "裏",
+        "onyomi": "リ",
+        "kunyomi": "うら",
+        "meaning": "Back, Amidst, In"
+      },
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "裏切る",
-        "reading": "うらぎる",
-        "meaning": "to betray; to turn traitor to"
+        "term": "裏口",
+        "reading": "うらぐち",
+        "meaning": "backdoor; rear entrance"
       },
       {
-        "term": "引っ張る",
-        "reading": "ひっぱる",
-        "meaning": "(1) to pull; to draw"
+        "term": "裏返す",
+        "reading": "うらがえす",
+        "meaning": "to turn inside out; to turn (something) over"
       },
       {
-        "term": "立て替える",
-        "reading": "たてかえる",
-        "meaning": "to pay in advance, to pay for another"
+        "term": "裏返し",
+        "reading": "うらがえし",
+        "meaning": "inside out; upside down"
       },
       {
-        "term": "追い抜く",
-        "reading": "おいぬく",
-        "meaning": "to pass (a car); to overtake"
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       }
     ]
   },
@@ -10602,14 +13979,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こだわって",
-    "meaning_en": "Meaning: こだわって",
-    "explanation": "正解は「こだわって」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "こだわって",
-        "reading": "こだわって",
-        "meaning": ""
-      },
       {
         "term": "かじって",
         "reading": "かじって",
@@ -10648,14 +14021,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "うなずき",
-    "meaning_en": "Meaning: うなずき",
-    "explanation": "正解は「うなずき」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "うなずき",
-        "reading": "うなずき",
-        "meaning": ""
-      },
       {
         "term": "とらえ",
         "reading": "とらえ",
@@ -10694,14 +14063,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "うつむいた",
-    "meaning_en": "Meaning: うつむいた",
-    "explanation": "正解は「うつむいた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "うつむいた",
-        "reading": "うつむいた",
-        "meaning": ""
-      },
       {
         "term": "きがすんだ",
         "reading": "きがすんだ",
@@ -10741,27 +14106,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "すれ違う",
     "meaning_en": "to pass by one another; to disagree",
-    "explanation": "正解は「すれ違う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "違",
+        "onyomi": "イ",
+        "kunyomi": "ちがう・ちがい・ちがえる・-ちがえる・たがう・たがえる",
+        "meaning": "Difference, Differ"
+      }
+    ],
     "similar": [
       {
-        "term": "すれ違う",
-        "reading": "すれちがう",
-        "meaning": "to pass by one another; to disagree"
+        "term": "違う",
+        "reading": "ちがう",
+        "meaning": "to differ"
       },
       {
-        "term": "流れ去る",
-        "reading": "ながれさる",
-        "meaning": ""
+        "term": "間違える",
+        "reading": "まちがえる",
+        "meaning": "to make a mistake"
       },
       {
-        "term": "くり返す",
-        "reading": "くりかえす",
-        "meaning": ""
-      },
-      {
-        "term": "見通す",
-        "reading": "みとおす",
-        "meaning": ""
+        "term": "違い",
+        "reading": "ちがい",
+        "meaning": "difference; discrepancy"
       }
     ]
   },
@@ -10787,27 +14155,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "打ち消す",
     "meaning_en": "to deny; to negate",
-    "explanation": "正解は「打ち消す」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "打",
+        "onyomi": "ダ・ダアス",
+        "kunyomi": "うつ・うち-・ぶつ",
+        "meaning": "Strike, Hit, Knock"
+      },
+      {
+        "kanji": "消",
+        "onyomi": "ショウ",
+        "kunyomi": "きえる・けす",
+        "meaning": "Extinguish, Blow Out, Turn Off"
+      }
+    ],
     "similar": [
       {
-        "term": "打ち消す",
-        "reading": "うちけす",
-        "meaning": "to deny; to negate"
+        "term": "打つ",
+        "reading": "うつ",
+        "meaning": "to hit"
       },
       {
-        "term": "見逃す",
-        "reading": "みのがす",
-        "meaning": "to miss; to overlook"
+        "term": "打合せ",
+        "reading": "うちあわせ",
+        "meaning": "business meeting; previous arrangement"
       },
       {
-        "term": "引き離す",
-        "reading": "ひきはなす",
-        "meaning": "to pull apart; to separate"
+        "term": "値打ち",
+        "reading": "ねうち",
+        "meaning": "value; worth"
       },
       {
-        "term": "流れ去る",
-        "reading": "ながれさる",
-        "meaning": ""
+        "term": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear"
+      },
+      {
+        "term": "消す",
+        "reading": "けす",
+        "meaning": "to erase; to turn off power"
       }
     ]
   },
@@ -10832,28 +14219,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "思い立って",
-    "meaning_en": "Meaning: 思い立って",
-    "explanation": "正解は「思い立って」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      },
+      {
+        "kanji": "立",
+        "onyomi": "リツ・リュウ・リットル",
+        "kunyomi": "たつ・-たつ・たち-・たてる・-たてる・たて-・たて-・-たて・-だて・-だてる",
+        "meaning": "Stand Up, Rise, Set Up"
+      }
+    ],
     "similar": [
       {
-        "term": "思い立って",
-        "reading": "おもいたって",
-        "meaning": ""
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "駆け上がって",
-        "reading": "かけあがって",
-        "meaning": ""
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "飛び上がって",
-        "reading": "とびあがって",
-        "meaning": ""
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       },
       {
-        "term": "立ち上がって",
-        "reading": "たちあがって",
-        "meaning": ""
+        "term": "立つ",
+        "reading": "たつ",
+        "meaning": "to stand"
+      },
+      {
+        "term": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be helpful"
       }
     ]
   },
@@ -10879,27 +14285,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "生き残る",
     "meaning_en": "to survive",
-    "explanation": "正解は「生き残る」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      },
+      {
+        "kanji": "残",
+        "onyomi": "ザン・サン",
+        "kunyomi": "のこる・のこす・そこなう・のこり",
+        "meaning": "Remainder, Leftover, Balance"
+      }
+    ],
     "similar": [
       {
-        "term": "生き残る",
-        "reading": "いきのこる",
-        "meaning": "to survive"
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
       },
       {
-        "term": "成り立つ",
-        "reading": "なりたつ",
-        "meaning": "to conclude; to consist of"
+        "term": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
       },
       {
-        "term": "くり上がる",
-        "reading": "くりあがる",
-        "meaning": ""
+        "term": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
       },
       {
-        "term": "打ち上げる",
-        "reading": "うちあげる",
-        "meaning": "to launch; to shoot up"
+        "term": "残る",
+        "reading": "のこる",
+        "meaning": "to remain"
+      },
+      {
+        "term": "残念",
+        "reading": "ざんねん",
+        "meaning": "disappointment"
       }
     ]
   },
@@ -10924,28 +14349,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "詰め込んだ",
-    "meaning_en": "Meaning: 詰め込んだ",
-    "explanation": "正解は「詰め込んだ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "詰",
+        "onyomi": "キツ・キチ",
+        "kunyomi": "つめる・つめ・-づめ・つまる・つむ",
+        "meaning": "Packed, Close, Pressed"
+      },
+      {
+        "kanji": "込",
+        "onyomi": "-",
+        "kunyomi": "-こむ・こむ・こみ・-こみ・こめる",
+        "meaning": "Crowded, Mixture, In Bulk"
+      }
+    ],
     "similar": [
       {
-        "term": "詰め込んだ",
-        "reading": "つめこんだ",
-        "meaning": ""
+        "term": "詰める",
+        "reading": "つめる",
+        "meaning": "to pack; to shorten"
       },
       {
-        "term": "持ち帰った",
-        "reading": "もちかえった",
-        "meaning": ""
+        "term": "瓶詰",
+        "reading": "びんづめ",
+        "meaning": "bottling; bottled"
       },
       {
-        "term": "埋め込んだ",
-        "reading": "うめこんだ",
-        "meaning": ""
+        "term": "缶詰",
+        "reading": "かんづめ",
+        "meaning": "packing (in cans); canning"
       },
       {
-        "term": "取り扱った",
-        "reading": "とりあつかった",
-        "meaning": ""
+        "term": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "term": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "crowd of people"
       }
     ]
   },
@@ -10970,28 +14414,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "移し替える",
-    "meaning_en": "Meaning: 移し替える",
-    "explanation": "正解は「移し替える」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "移",
+        "onyomi": "イ",
+        "kunyomi": "うつる・うつす",
+        "meaning": "Shift, Move, Change"
+      },
+      {
+        "kanji": "替",
+        "onyomi": "タイ",
+        "kunyomi": "かえる・かえ-・かわる",
+        "meaning": "Exchange, Spare, Substitute"
+      }
+    ],
     "similar": [
       {
-        "term": "移し替える",
-        "reading": "うつしかえる",
-        "meaning": ""
+        "term": "移る",
+        "reading": "うつる",
+        "meaning": "to move house or transfer"
       },
       {
-        "term": "取り入れる",
-        "reading": "とりいれる",
-        "meaning": "to harvest; to take in"
+        "term": "移す",
+        "reading": "うつす",
+        "meaning": "to remove; to transfer"
       },
       {
-        "term": "買い替える",
-        "reading": "かいかえる",
-        "meaning": ""
+        "term": "移動",
+        "reading": "いどう",
+        "meaning": "removal; migration"
       },
       {
-        "term": "受け入れる",
-        "reading": "うけいれる",
-        "meaning": "to accept; to receive"
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
+      },
+      {
+        "term": "両替",
+        "reading": "りょうがえ",
+        "meaning": "change; money exchange"
       }
     ]
   },
@@ -11016,28 +14479,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "使い分ける",
-    "meaning_en": "Meaning: 使い分ける",
-    "explanation": "正解は「使い分ける」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "使",
+        "onyomi": "シ",
+        "kunyomi": "つかう・つかい・-つかい・-づかい",
+        "meaning": "Use, Send On A Mission, Order"
+      },
+      {
+        "kanji": "分",
+        "onyomi": "ブン・フン・ブ",
+        "kunyomi": "わける・わけ・わかれる・わかる・わかつ",
+        "meaning": "Part, Minute Of Time, Segment"
+      }
+    ],
     "similar": [
       {
-        "term": "使い分ける",
-        "reading": "つかいわける",
-        "meaning": ""
+        "term": "使う",
+        "reading": "つかう",
+        "meaning": "to use"
       },
       {
-        "term": "身につける",
-        "reading": "みにつける",
-        "meaning": "to learn; to acquire knowledge"
+        "term": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embassy"
       },
       {
-        "term": "当てはめる",
-        "reading": "あてはめる",
-        "meaning": "to apply; to adapt"
+        "term": "使用",
+        "reading": "しよう",
+        "meaning": "use; application"
       },
       {
-        "term": "言い切る",
-        "reading": "いいきる",
-        "meaning": "to declare; to assert"
+        "term": "分かる",
+        "reading": "わかる",
+        "meaning": "to be understood"
+      },
+      {
+        "term": "半分",
+        "reading": "はんぶん",
+        "meaning": "half minute"
       }
     ]
   },
@@ -11063,27 +14545,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "差し引く",
     "meaning_en": "to deduct",
-    "explanation": "正解は「差し引く」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "差",
+        "onyomi": "サ",
+        "kunyomi": "さす・さし",
+        "meaning": "Distinction, Difference, Variation"
+      },
+      {
+        "kanji": "引",
+        "onyomi": "イン",
+        "kunyomi": "ひく・ひき・ひき-・-びき・ひける",
+        "meaning": "Pull, Tug, Jerk"
+      }
+    ],
     "similar": [
       {
-        "term": "差し引く",
-        "reading": "さしひく",
-        "meaning": "to deduct"
+        "term": "交差点",
+        "reading": "こうさてん",
+        "meaning": "intersection"
       },
       {
-        "term": "引っ張る",
-        "reading": "ひっぱる",
-        "meaning": "(1) to pull; to draw"
+        "term": "差す",
+        "reading": "さす",
+        "meaning": "to stretch out hands; to raise an umbrella"
       },
       {
-        "term": "取り除く",
-        "reading": "とりのぞく",
-        "meaning": "to remove; to take away"
+        "term": "差し上げる",
+        "reading": "さしあげる",
+        "meaning": "(polite) to give"
       },
       {
-        "term": "切り取る",
-        "reading": "きりとる",
-        "meaning": ""
+        "term": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
+      },
+      {
+        "term": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
       }
     ]
   },
@@ -11108,28 +14609,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "取りかかる",
-    "meaning_en": "Meaning: 取りかかる",
-    "explanation": "正解は「取りかかる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      }
+    ],
     "similar": [
       {
-        "term": "取りかかる",
-        "reading": "とりかかる",
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
+      },
+      {
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
+      },
+      {
+        "term": "取り上げ",
+        "reading": "とりあげる",
         "meaning": ""
-      },
-      {
-        "term": "割り込む",
-        "reading": "わりこむ",
-        "meaning": "to cut in; to thrust oneself into"
-      },
-      {
-        "term": "差し伸べる",
-        "reading": "さしのべる",
-        "meaning": "to hold out; to extend (e.g. one's hands)"
-      },
-      {
-        "term": "歩み寄る",
-        "reading": "あゆみよる",
-        "meaning": "to compromise; to meet halfway"
       }
     ]
   },
@@ -11154,28 +14658,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "情 けない",
-    "meaning_en": "Meaning: 情 けない",
-    "explanation": "正解は「情 けない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "情",
+        "onyomi": "ジョウ・セイ",
+        "kunyomi": "なさけ",
+        "meaning": "Feelings, Emotion, Passion"
+      }
+    ],
     "similar": [
       {
-        "term": "情 けない",
-        "reading": "じょう けない",
-        "meaning": ""
+        "term": "事情",
+        "reading": "じじょう",
+        "meaning": "circumstances; consideration"
       },
       {
-        "term": "相応しい",
-        "reading": "ふさわしい",
-        "meaning": "appropriate"
+        "term": "友情",
+        "reading": "ゆうじょう",
+        "meaning": "friendship; fellowship"
       },
       {
-        "term": "だらしない",
-        "reading": "",
-        "meaning": "slovenly; loose"
-      },
-      {
-        "term": "おとなしい",
-        "reading": "",
-        "meaning": "obedient; docile"
+        "term": "情報",
+        "reading": "じょうほう",
+        "meaning": "information; (military) intelligence"
       }
     ]
   },
@@ -11201,27 +14708,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "濃い",
     "meaning_en": "thick (as of color; liquid)",
-    "explanation": "正解は「濃い」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "濃",
+        "onyomi": "ノウ",
+        "kunyomi": "こい",
+        "meaning": "Concentrated, Thick, Dark"
+      }
+    ],
     "similar": [
       {
-        "term": "濃い",
-        "reading": "こい",
-        "meaning": "thick (as of color; liquid)"
+        "term": "濃度",
+        "reading": "のうど",
+        "meaning": "concentration; brightness"
       },
       {
-        "term": "太い",
-        "reading": "ふとい",
-        "meaning": "fat"
+        "term": "濃厚",
+        "reading": "のうこう",
+        "meaning": "rich (flavor, color, etc.); strong (e.g. odor)"
       },
       {
-        "term": "厚い",
-        "reading": "あつい",
-        "meaning": "kind; deep"
-      },
-      {
-        "term": "硬い",
-        "reading": "かたい",
-        "meaning": "solid; hard (esp. metal"
+        "term": "濃淡",
+        "reading": "のうたん",
+        "meaning": "light and shade; shade (of colour, color)"
       }
     ]
   },
@@ -11247,27 +14757,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "もったいない",
     "meaning_en": "too good; more than one deserves",
-    "explanation": "正解は「もったいない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "物",
+        "onyomi": "ブツ・モツ",
+        "kunyomi": "もの・もの-",
+        "meaning": "Thing, Object, Matter"
+      },
+      {
+        "kanji": "体",
+        "onyomi": "タイ・テイ",
+        "kunyomi": "からだ・かたち",
+        "meaning": "Body, Substance, Object"
+      }
+    ],
     "similar": [
       {
-        "term": "もったいない",
-        "reading": "",
-        "meaning": "too good; more than one deserves"
+        "term": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
       },
       {
-        "term": "騒々しい",
-        "reading": "そうぞうしい",
-        "meaning": "noisy; boisterous"
+        "term": "建物",
+        "reading": "たてもの",
+        "meaning": "building"
       },
       {
-        "term": "仕方ない",
-        "reading": "しかたない",
-        "meaning": "there's no (other) way; cannot be helped"
+        "term": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit"
       },
       {
-        "term": "情けない",
-        "reading": "なさけない",
-        "meaning": "miserable; pitiable"
+        "term": "大体",
+        "reading": "だいたい",
+        "meaning": "generally"
+      },
+      {
+        "term": "一体",
+        "reading": "いったい",
+        "meaning": "(1) one object; one body"
       }
     ]
   },
@@ -11292,28 +14821,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "快 く",
-    "meaning_en": "Meaning: 快 く",
-    "explanation": "正解は「快 く」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "快",
+        "onyomi": "カイ",
+        "kunyomi": "こころよい",
+        "meaning": "Cheerful, Pleasant, Agreeable"
+      }
+    ],
     "similar": [
       {
-        "term": "快 く",
-        "reading": "かい く",
-        "meaning": ""
+        "term": "快適",
+        "reading": "かいてき",
+        "meaning": "pleasant; agreeable"
       },
       {
-        "term": "素晴らしく",
-        "reading": "すばらしく",
-        "meaning": ""
+        "term": "愉快",
+        "reading": "ゆかい",
+        "meaning": "pleasant; happy"
       },
       {
-        "term": "易しく",
-        "reading": "やさしく",
-        "meaning": ""
-      },
-      {
-        "term": "好ましく",
-        "reading": "このましく",
-        "meaning": ""
+        "term": "快晴",
+        "reading": "かいせい",
+        "meaning": "good weather"
       }
     ]
   },
@@ -11339,27 +14871,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あやしい",
     "meaning_en": "怪しい[a]doubtful",
-    "explanation": "正解は「あやしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "怪",
+        "onyomi": "カイ・ケ",
+        "kunyomi": "あやしい・あやしむ",
+        "meaning": "Suspicious, Mystery, Apparition"
+      }
+    ],
     "similar": [
       {
-        "term": "あやしい",
-        "reading": "",
-        "meaning": "怪しい[a]doubtful"
+        "term": "怪我",
+        "reading": "けが",
+        "meaning": "injury (to animate object); hurt"
       },
       {
-        "term": "興味深い",
-        "reading": "きょうみぶかい",
-        "meaning": "very interesting; of great interest"
+        "term": "怪しい",
+        "reading": "あやしい",
+        "meaning": "suspicious; dubious"
       },
       {
-        "term": "うらやましい",
-        "reading": "",
-        "meaning": "羨ましい[a]envious"
-      },
-      {
-        "term": "厚かましい",
-        "reading": "あつかましい",
-        "meaning": "impudent; shameless"
+        "term": "怪獣",
+        "reading": "かいじゅう",
+        "meaning": "monster"
       }
     ]
   },
@@ -11384,28 +14919,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "望 ましい",
-    "meaning_en": "Meaning: 望 ましい",
-    "explanation": "正解は「望 ましい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "望",
+        "onyomi": "ボウ・モウ",
+        "kunyomi": "のぞむ・もち",
+        "meaning": "Ambition, Full Moon, Hope"
+      }
+    ],
     "similar": [
       {
-        "term": "望 ましい",
-        "reading": "ぼう ましい",
-        "meaning": ""
+        "term": "失望",
+        "reading": "しつぼう",
+        "meaning": "disappointment; despair"
       },
       {
-        "term": "快い",
-        "reading": "こころよい",
-        "meaning": "pleasant; agreeable"
+        "term": "希望",
+        "reading": "きぼう",
+        "meaning": "hope; wish"
       },
       {
-        "term": "等しい",
-        "reading": "ひとしい",
-        "meaning": "equal"
-      },
-      {
-        "term": "著しい",
-        "reading": "いちじるしい",
-        "meaning": "remarkable; considerable"
+        "term": "望み",
+        "reading": "のぞみ",
+        "meaning": "wish; desire"
       }
     ]
   },
@@ -11431,27 +14969,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "だらしない",
     "meaning_en": "slovenly; loose",
-    "explanation": "正解は「だらしない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "無",
+        "onyomi": "ム・ブ",
+        "kunyomi": "ない",
+        "meaning": "Nothingness, None, Ain't"
+      }
+    ],
     "similar": [
       {
-        "term": "だらしない",
-        "reading": "",
-        "meaning": "slovenly; loose"
+        "term": "無くす",
+        "reading": "なくす",
+        "meaning": "to lose something"
       },
       {
-        "term": "しょうがない",
-        "reading": "",
-        "meaning": "It is not worth ~"
+        "term": "無くなる",
+        "reading": "なくなる",
+        "meaning": "to disappear; to get lost"
       },
       {
-        "term": "荒い",
-        "reading": "あらい",
-        "meaning": "rough; rude"
-      },
-      {
-        "term": "ぬるい",
-        "reading": "",
-        "meaning": "温い[a]lukewarm"
+        "term": "無理",
+        "reading": "むり",
+        "meaning": "impossible"
       }
     ]
   },
@@ -11476,28 +15017,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "若々しく",
-    "meaning_en": "Meaning: 若々しく",
-    "explanation": "正解は「若々しく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "若",
+        "onyomi": "ジャク・ニャク・ニャ",
+        "kunyomi": "わかい・わか-・もしくわ・もし・もしくは・ごとし",
+        "meaning": "Young, If, Perhaps"
+      }
+    ],
     "similar": [
       {
-        "term": "若々しく",
-        "reading": "わかわかしく",
-        "meaning": ""
+        "term": "若い",
+        "reading": "わかい",
+        "meaning": "young"
       },
       {
-        "term": "弱々しく",
-        "reading": "よわよわしく",
-        "meaning": ""
+        "term": "若々しい",
+        "reading": "わかわかしい",
+        "meaning": "youthful; young"
       },
       {
-        "term": "そそっかしく",
-        "reading": "そそっかしく",
-        "meaning": ""
-      },
-      {
-        "term": "あわただしく",
-        "reading": "あわただしく",
-        "meaning": ""
+        "term": "若し",
+        "reading": "もし",
+        "meaning": "if; in case"
       }
     ]
   },
@@ -11522,28 +15066,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "騒 がしい",
-    "meaning_en": "Meaning: 騒 がしい",
-    "explanation": "正解は「騒 がしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "騒",
+        "onyomi": "ソウ",
+        "kunyomi": "さわぐ・うれい・さわがしい",
+        "meaning": "Boisterous, Make Noise, Clamor"
+      }
+    ],
     "similar": [
       {
-        "term": "騒 がしい",
-        "reading": "そう がしい",
-        "meaning": ""
+        "term": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "to make noise; to be excited"
       },
       {
-        "term": "著しい",
-        "reading": "いちじるしい",
-        "meaning": "remarkable; considerable"
+        "term": "騒ぎ",
+        "reading": "さわぎ",
+        "meaning": "uproar; disturbance"
       },
       {
-        "term": "大幅な",
-        "reading": "おおはばな",
-        "meaning": ""
-      },
-      {
-        "term": "膨大な",
-        "reading": "ぼうだいな",
-        "meaning": ""
+        "term": "騒音",
+        "reading": "そうおん",
+        "meaning": "noise"
       }
     ]
   },
@@ -11569,27 +15116,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "本格的",
     "meaning_en": "genuine; real",
-    "explanation": "正解は「本格的」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "本",
+        "onyomi": "ホン",
+        "kunyomi": "もと",
+        "meaning": "Book, Present, Main"
+      },
+      {
+        "kanji": "格",
+        "onyomi": "カク・コウ・キャク・ゴウ",
+        "kunyomi": "-",
+        "meaning": "Status, Rank, Capacity"
+      },
+      {
+        "kanji": "的",
+        "onyomi": "テキ",
+        "kunyomi": "まと",
+        "meaning": "Bull's Eye, Mark, Target"
+      }
+    ],
     "similar": [
       {
-        "term": "本格的",
-        "reading": "ほんかくてき",
-        "meaning": "genuine; real"
+        "term": "本棚",
+        "reading": "ほんだな",
+        "meaning": "bookshelves"
       },
       {
-        "term": "民主的",
-        "reading": "みんしゅてき",
-        "meaning": "democratic"
+        "term": "基本",
+        "reading": "きほん",
+        "meaning": "foundation; basis"
       },
       {
-        "term": "客観的",
-        "reading": "きゃっかんてき",
-        "meaning": "objective"
+        "term": "日本",
+        "reading": "にっぽん",
+        "meaning": "Japan"
       },
       {
-        "term": "相対的",
-        "reading": "そうたいてき",
-        "meaning": "relative"
+        "term": "価格",
+        "reading": "かかく",
+        "meaning": "price; value"
+      },
+      {
+        "term": "合格",
+        "reading": "ごうかく",
+        "meaning": "success; passing (e.g. exam)"
       }
     ]
   },
@@ -11615,27 +15187,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "安易",
     "meaning_en": "easy-going",
-    "explanation": "正解は「安易」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "安",
+        "onyomi": "アン",
+        "kunyomi": "やすい・やすまる・やす・やすらか",
+        "meaning": "Relax, Cheap, Low"
+      },
+      {
+        "kanji": "易",
+        "onyomi": "エキ・イ",
+        "kunyomi": "やさしい・やすい",
+        "meaning": "Easy, Ready To, Simple"
+      }
+    ],
     "similar": [
       {
-        "term": "安易",
-        "reading": "あんい",
-        "meaning": "easy-going"
+        "term": "安い",
+        "reading": "やすい",
+        "meaning": "cheap"
       },
       {
-        "term": "安価",
-        "reading": "あんか",
-        "meaning": "low-priced; cheap"
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
       },
       {
-        "term": "無力",
-        "reading": "むりょく",
-        "meaning": "powerlessness; helplessness"
+        "term": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
       },
       {
-        "term": "無縁",
-        "reading": "むえん",
-        "meaning": "unrelated; unconnected"
+        "term": "易しい",
+        "reading": "やさしい",
+        "meaning": "easy; simple"
+      },
+      {
+        "term": "貿易",
+        "reading": "ぼうえき",
+        "meaning": "trade"
       }
     ]
   },
@@ -11661,13 +15252,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ささやか",
     "meaning_en": "細やか[an]small",
-    "explanation": "正解は「ささやか」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ささやか",
-        "reading": "",
-        "meaning": "細やか[an]small"
-      },
       {
         "term": "かすか",
         "reading": "",
@@ -11707,27 +15294,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "全面的",
     "meaning_en": "total; complete",
-    "explanation": "正解は「全面的」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "全",
+        "onyomi": "ゼン",
+        "kunyomi": "まったく・すべて",
+        "meaning": "Whole, Entire, All"
+      },
+      {
+        "kanji": "面",
+        "onyomi": "メン・ベン",
+        "kunyomi": "おも・おもて・つら",
+        "meaning": "Mask, Face, Features"
+      },
+      {
+        "kanji": "的",
+        "onyomi": "テキ",
+        "kunyomi": "まと",
+        "meaning": "Bull's Eye, Mark, Target"
+      }
+    ],
     "similar": [
       {
-        "term": "全面的",
-        "reading": "ぜんめんてき",
-        "meaning": "total; complete"
+        "term": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all"
       },
       {
-        "term": "象徴的",
-        "reading": "しょうちょうてき",
-        "meaning": "symbolic; symbolical"
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
       },
       {
-        "term": "開放的",
-        "reading": "かいほうてき",
-        "meaning": ""
+        "term": "全く",
+        "reading": "まったく",
+        "meaning": "really; truly"
       },
       {
-        "term": "相対的",
-        "reading": "そうたいてき",
-        "meaning": "relative"
+        "term": "場面",
+        "reading": "ばめん",
+        "meaning": "scene; setting (e.g. of novel)"
+      },
+      {
+        "term": "真面目",
+        "reading": "まじめ",
+        "meaning": "diligent; serious"
       }
     ]
   },
@@ -11753,27 +15365,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ありがち",
     "meaning_en": "有り勝ち[an|n]common",
-    "explanation": "正解は「ありがち」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "有",
+        "onyomi": "ユウ・ウ",
+        "kunyomi": "ある",
+        "meaning": "Possess, Have, Exist"
+      }
+    ],
     "similar": [
       {
-        "term": "ありがち",
-        "reading": "",
-        "meaning": "有り勝ち[an|n]common"
+        "term": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famous"
       },
       {
-        "term": "なごやか",
-        "reading": "",
-        "meaning": "和やか[an]harmonious"
+        "term": "在る; 有る",
+        "reading": "ある",
+        "meaning": "to live, to be, to exist"
       },
       {
-        "term": "おだやか",
-        "reading": "",
-        "meaning": "穏やか[an]equable"
-      },
-      {
-        "term": "あわれ",
-        "reading": "",
-        "meaning": "哀れ[an|n]pitiful"
+        "term": "有る",
+        "reading": "ある",
+        "meaning": "to be; to have"
       }
     ]
   },
@@ -11799,27 +15414,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "抽象的",
     "meaning_en": "abstract",
-    "explanation": "正解は「抽象的」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "抽",
+        "onyomi": "チュウ",
+        "kunyomi": "ひき-",
+        "meaning": "Pluck, Pull, Extract"
+      },
+      {
+        "kanji": "象",
+        "onyomi": "ショウ・ゾウ",
+        "kunyomi": "かたどる",
+        "meaning": "Elephant, Pattern After, Imitate"
+      },
+      {
+        "kanji": "的",
+        "onyomi": "テキ",
+        "kunyomi": "まと",
+        "meaning": "Bull's Eye, Mark, Target"
+      }
+    ],
     "similar": [
       {
-        "term": "抽象的",
-        "reading": "ちゅうしょうてき",
+        "term": "抽象",
+        "reading": "ちゅうしょう",
         "meaning": "abstract"
       },
       {
-        "term": "比較的",
-        "reading": "ひかくてき",
-        "meaning": "comparatively; relatively"
+        "term": "抽選",
+        "reading": "ちゅうせん",
+        "meaning": "lottery; raffle"
       },
       {
-        "term": "積極的",
-        "reading": "せっきょくてき",
-        "meaning": "positive; active"
+        "term": "抽出",
+        "reading": "ちゅうしゅつ",
+        "meaning": "extraction; abstraction"
       },
       {
-        "term": "基礎的",
-        "reading": "きそてき",
-        "meaning": ""
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
+      },
+      {
+        "term": "対象",
+        "reading": "たいしょう",
+        "meaning": "target; object (of worship"
       }
     ]
   },
@@ -11844,28 +15484,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "大 げさ",
-    "meaning_en": "Meaning: 大 げさ",
-    "explanation": "正解は「大 げさ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      }
+    ],
     "similar": [
       {
-        "term": "大 げさ",
-        "reading": "だい げさ",
-        "meaning": ""
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
       },
       {
-        "term": "巨大",
-        "reading": "きょだい",
-        "meaning": "huge; gigantic"
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       },
       {
-        "term": "大まか",
-        "reading": "おおまか",
-        "meaning": "rough (estimate, outline, etc.); broad"
-      },
-      {
-        "term": "大幅",
-        "reading": "おおはば",
-        "meaning": "full width; large scale"
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
       }
     ]
   },
@@ -11891,27 +15534,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "強引",
     "meaning_en": "overbearing; coercive",
-    "explanation": "正解は「強引」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "強",
+        "onyomi": "キョウ・ゴウ",
+        "kunyomi": "つよい・つよまる・つよめる・しいる・こわい",
+        "meaning": "Strong"
+      },
+      {
+        "kanji": "引",
+        "onyomi": "イン",
+        "kunyomi": "ひく・ひき・ひき-・-びき・ひける",
+        "meaning": "Pull, Tug, Jerk"
+      }
+    ],
     "similar": [
       {
-        "term": "強引",
-        "reading": "ごういん",
-        "meaning": "overbearing; coercive"
+        "term": "勉強",
+        "reading": "べんきょうする",
+        "meaning": "to study"
       },
       {
-        "term": "頑丈",
-        "reading": "がんじょう",
-        "meaning": "solid; firm"
+        "term": "強い",
+        "reading": "つよい",
+        "meaning": "powerful"
       },
       {
-        "term": "有力",
-        "reading": "ゆうりょく",
-        "meaning": "1.  influence; prominence"
+        "term": "強力",
+        "reading": "きょうりょく",
+        "meaning": "herculean strength; mountain carrier-guide"
       },
       {
-        "term": "膨大",
-        "reading": "ぼうだい",
-        "meaning": "huge; bulky"
+        "term": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
+      },
+      {
+        "term": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
       }
     ]
   },
@@ -11937,27 +15599,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "短気",
     "meaning_en": "quick temper",
-    "explanation": "正解は「短気」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "短",
+        "onyomi": "タン",
+        "kunyomi": "みじかい",
+        "meaning": "Short, Brevity, Fault"
+      },
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      }
+    ],
     "similar": [
       {
-        "term": "短気",
+        "term": "短い",
+        "reading": "みじかい",
+        "meaning": "short"
+      },
+      {
+        "term": "短所",
+        "reading": "たんしょ",
+        "meaning": "(1) defect; demerit"
+      },
+      {
+        "term": "短期",
         "reading": "たんき",
-        "meaning": "quick temper"
+        "meaning": "short term"
       },
       {
-        "term": "気楽",
-        "reading": "きらく",
-        "meaning": "at ease; comfortable"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
       },
       {
-        "term": "不満",
-        "reading": "ふまん",
-        "meaning": "dissatisfaction; displeasure"
-      },
-      {
-        "term": "陽気",
-        "reading": "ようき",
-        "meaning": "season; weather"
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       }
     ]
   },
@@ -11982,28 +15663,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "存分 に",
-    "meaning_en": "Meaning: 存分 に",
-    "explanation": "正解は「存分 に」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "存",
+        "onyomi": "ソン・ゾン",
+        "kunyomi": "ながらえる・ある・たもつ・とう",
+        "meaning": "Exist, Suppose, Be Aware Of"
+      },
+      {
+        "kanji": "分",
+        "onyomi": "ブン・フン・ブ",
+        "kunyomi": "わける・わけ・わかれる・わかる・わかつ",
+        "meaning": "Part, Minute Of Time, Segment"
+      }
+    ],
     "similar": [
       {
-        "term": "存分 に",
-        "reading": "ぞんぶん に",
-        "meaning": ""
+        "term": "ご存じ",
+        "reading": "ごぞんじ",
+        "meaning": "knowing; acquaintance"
       },
       {
-        "term": "一斉に",
-        "reading": "いっせいに",
-        "meaning": "simultaneously; all at once"
+        "term": "保存",
+        "reading": "ほぞん",
+        "meaning": "preservation; conservation"
       },
       {
-        "term": "直ちに",
-        "reading": "ただちに",
-        "meaning": "at once; immediately"
+        "term": "存在",
+        "reading": "そんざい",
+        "meaning": "existence; being"
       },
       {
-        "term": "要するに",
-        "reading": "ようするに",
-        "meaning": "in a word; after all"
+        "term": "分かる",
+        "reading": "わかる",
+        "meaning": "to be understood"
+      },
+      {
+        "term": "半分",
+        "reading": "はんぶん",
+        "meaning": "half minute"
       }
     ]
   },
@@ -12029,27 +15729,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "とっくに",
     "meaning_en": "long ago; already",
-    "explanation": "正解は「とっくに」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "疾",
+        "onyomi": "シツ",
+        "kunyomi": "はやい",
+        "meaning": "Rapidly"
+      }
+    ],
     "similar": [
       {
-        "term": "とっくに",
-        "reading": "",
+        "term": "疾っくに",
+        "reading": "とっくに",
         "meaning": "long ago; already"
       },
       {
-        "term": "まさか",
-        "reading": "",
-        "meaning": "by no means"
+        "term": "疾患",
+        "reading": "しっかん",
+        "meaning": "disease; illness"
       },
       {
-        "term": "まるで",
-        "reading": "",
-        "meaning": "quite; entirely"
-      },
-      {
-        "term": "まれに",
-        "reading": "まれに",
-        "meaning": ""
+        "term": "疾病",
+        "reading": "しっぺい",
+        "meaning": "illness; disease"
       }
     ]
   },
@@ -12074,28 +15777,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "一気 に",
-    "meaning_en": "Meaning: 一気 に",
-    "explanation": "正解は「一気 に」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      }
+    ],
     "similar": [
       {
-        "term": "一気 に",
-        "reading": "いっき に",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "一段と",
-        "reading": "いちだんと",
-        "meaning": "greater; more"
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "はるかに",
-        "reading": "はるかに",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "着々と",
-        "reading": "ちゃくちゃくと",
-        "meaning": ""
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       }
     ]
   },
@@ -12121,27 +15843,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "一体",
     "meaning_en": "(1) one object; one body",
-    "explanation": "正解は「一体」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "体",
+        "onyomi": "タイ・テイ",
+        "kunyomi": "からだ・かたち",
+        "meaning": "Body, Substance, Object"
+      }
+    ],
     "similar": [
       {
-        "term": "一体",
-        "reading": "いったい",
-        "meaning": "(1) one object; one body"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "一層",
-        "reading": "いっそう",
-        "meaning": "much more; still more"
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "今一つ",
-        "reading": "いまひとつ",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "誠に",
-        "reading": "まことに",
-        "meaning": "indeed, really (very polite), absolutely"
+        "term": "大体",
+        "reading": "だいたい",
+        "meaning": "generally"
+      },
+      {
+        "term": "体温",
+        "reading": "たいおん",
+        "meaning": "temperature (body)"
       }
     ]
   },
@@ -12167,27 +15908,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "いずれ",
     "meaning_en": "where; which",
-    "explanation": "正解は「いずれ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "何",
+        "onyomi": "カ",
+        "kunyomi": "なに・なん・なに-・なん-",
+        "meaning": "What"
+      }
+    ],
     "similar": [
       {
-        "term": "いずれ",
-        "reading": "",
-        "meaning": "where; which"
+        "term": "何か",
+        "reading": "なにか",
+        "meaning": "something"
       },
       {
-        "term": "あらかじめ",
-        "reading": "",
-        "meaning": "予め[ad]beforehand"
+        "term": "何で",
+        "reading": "なんで",
+        "meaning": "Why?; What for?"
       },
       {
-        "term": "いつの間に",
-        "reading": "いつのまに",
-        "meaning": ""
-      },
-      {
-        "term": "よほど",
-        "reading": "",
-        "meaning": "余程[ad]very"
+        "term": "何でも",
+        "reading": "なんでも",
+        "meaning": "by all means; everything"
       }
     ]
   },
@@ -12213,13 +15957,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "つい",
     "meaning_en": "①just now②unintentionally",
-    "explanation": "正解は「つい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "つい",
-        "reading": "つい",
-        "meaning": "①just now②unintentionally"
-      },
       {
         "term": "いわば",
         "reading": "",
@@ -12259,27 +15999,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "あいにく",
     "meaning_en": "unfortunately; Sorry",
-    "explanation": "正解は「あいにく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "愛",
+        "onyomi": "アイ",
+        "kunyomi": "いとしい・かなしい・めでる・おしむ・まな",
+        "meaning": "Love, Affection, Favourite"
+      },
+      {
+        "kanji": "憎",
+        "onyomi": "ゾウ",
+        "kunyomi": "にくむ・にくい・にくらしい・にくしみ",
+        "meaning": "Hate, Detest"
+      }
+    ],
     "similar": [
       {
-        "term": "あいにく",
-        "reading": "",
-        "meaning": "unfortunately; Sorry"
+        "term": "可愛そう",
+        "reading": "かわいそう",
+        "meaning": "poor, pitiable, pathetic"
       },
       {
-        "term": "おそらく",
-        "reading": "",
-        "meaning": "perhaps"
+        "term": "愛する",
+        "reading": "あいする",
+        "meaning": "to love"
       },
       {
-        "term": "ともかく",
-        "reading": "",
-        "meaning": "anyhow; anyway"
+        "term": "愛情",
+        "reading": "あいじょう",
+        "meaning": "love; affection"
       },
       {
-        "term": "まったく",
-        "reading": "",
-        "meaning": "全く[ad]completely"
+        "term": "憎い",
+        "reading": "にくい",
+        "meaning": "hateful; abominable"
+      },
+      {
+        "term": "憎む",
+        "reading": "にくむ",
+        "meaning": "to hate; to detest"
       }
     ]
   },
@@ -12305,27 +16064,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "あえて",
     "meaning_en": "敢えて[ad]resolutely",
-    "explanation": "正解は「あえて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "敢",
+        "onyomi": "カン",
+        "kunyomi": "あえて・あえない・あえず",
+        "meaning": "Daring, Brave, Bold"
+      }
+    ],
     "similar": [
       {
-        "term": "あえて",
-        "reading": "",
-        "meaning": "敢えて[ad]resolutely"
+        "term": "勇敢",
+        "reading": "ゆうかん",
+        "meaning": "bravery; heroism"
       },
       {
-        "term": "せめて",
-        "reading": "せめて",
-        "meaning": "offense; method of attack"
+        "term": "敢えて",
+        "reading": "あえて",
+        "meaning": "dare (to do); challenge (to do)"
       },
       {
-        "term": "さらに",
-        "reading": "",
-        "meaning": "更に[ad]furthermore"
-      },
-      {
-        "term": "仮に",
-        "reading": "かりに",
-        "meaning": "supposing; even if"
+        "term": "敢然",
+        "reading": "かんぜん",
+        "meaning": "boldly; bravely"
       }
     ]
   },
@@ -12351,12 +16113,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かつて",
     "meaning_en": "once, before, formerly",
-    "explanation": "正解は「かつて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "嘗",
+        "onyomi": "ショウ・ジョウ",
+        "kunyomi": "かつて・こころみる・なめる",
+        "meaning": "Once, Before, Formerly"
+      }
+    ],
     "similar": [
       {
-        "term": "かつて",
-        "reading": "",
-        "meaning": "once, before, formerly"
+        "term": "嘗て",
+        "reading": "かつて",
+        "meaning": "once; ever"
+      },
+      {
+        "term": "嘗める",
+        "reading": "なめる",
+        "meaning": "to lick; to taste"
       },
       {
         "term": "いわば",
@@ -12367,11 +16142,6 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "term": "いずれ",
         "reading": "",
         "meaning": "where; which"
-      },
-      {
-        "term": "はるか",
-        "reading": "",
-        "meaning": "遥か[an]remote"
       }
     ]
   },
@@ -12397,27 +16167,40 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "うきうき",
     "meaning_en": "浮き浮き[adt|vs]excitedly",
-    "explanation": "正解は「うきうき」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "浮",
+        "onyomi": "フ",
+        "kunyomi": "うく・うかれる・うかぶ・む・うかべる",
+        "meaning": "Floating, Float, Rise To Surface"
+      }
+    ],
     "similar": [
       {
-        "term": "うきうき",
-        "reading": "",
-        "meaning": "浮き浮き[adt|vs]excitedly"
+        "term": "浮かべる",
+        "reading": "うかべる",
+        "meaning": "to float; to express"
       },
       {
-        "term": "ぴかぴか",
-        "reading": "",
-        "meaning": "glitter; sparkle"
+        "term": "浮く",
+        "reading": "うく",
+        "meaning": "to float; to become merry"
       },
       {
-        "term": "はらはら",
-        "reading": "",
-        "meaning": "feel nervous"
+        "term": "浮ぶ",
+        "reading": "うかぶ",
+        "meaning": "to float; to rise to surface"
       },
       {
-        "term": "ざわざわ",
-        "reading": "ざわざわ",
-        "meaning": "noisily"
+        "term": "浮かぶ",
+        "reading": "うかぶ",
+        "meaning": "to float; to rise to surface"
+      },
+      {
+        "term": "浮力",
+        "reading": "ふりょく",
+        "meaning": "buoyancy; floating power"
       }
     ]
   },
@@ -12443,13 +16226,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぎゅうぎゅう",
     "meaning_en": "squeakingly",
-    "explanation": "正解は「ぎゅうぎゅう」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぎゅうぎゅう",
-        "reading": "ぎゅうぎゅう",
-        "meaning": "squeakingly"
-      },
       {
         "term": "ぎりぎり",
         "reading": "",
@@ -12489,13 +16268,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ぴかぴか",
     "meaning_en": "glitter; sparkle",
-    "explanation": "正解は「ぴかぴか」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぴかぴか",
-        "reading": "",
-        "meaning": "glitter; sparkle"
-      },
       {
         "term": "きらきら",
         "reading": "",
@@ -12535,13 +16310,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ごちゃごちゃ",
     "meaning_en": "messily",
-    "explanation": "正解は「ごちゃごちゃ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ごちゃごちゃ",
-        "reading": "",
-        "meaning": "messily"
-      },
       {
         "term": "じたばた",
         "reading": "",
@@ -12581,13 +16352,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "うとうと",
     "meaning_en": "drowsily",
-    "explanation": "正解は「うとうと」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "うとうと",
-        "reading": "うとうと",
-        "meaning": "drowsily"
-      },
       {
         "term": "うきうき",
         "reading": "",
@@ -12627,13 +16394,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ばたばた",
     "meaning_en": "flappingly",
-    "explanation": "正解は「ばたばた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ばたばた",
-        "reading": "",
-        "meaning": "flappingly"
-      },
       {
         "term": "ぎりぎり",
         "reading": "",
@@ -12673,13 +16436,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "じっくり",
     "meaning_en": "deliberately; carefully",
-    "explanation": "正解は「じっくり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "じっくり",
-        "reading": "じっくり",
-        "meaning": "deliberately; carefully"
-      },
       {
         "term": "びっしょり",
         "reading": "びっしょり",
@@ -12719,13 +16478,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ぱったり",
     "meaning_en": "suddenly",
-    "explanation": "正解は「ぱったり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぱったり",
-        "reading": "",
-        "meaning": "suddenly"
-      },
       {
         "term": "ばっさり",
         "reading": "",
@@ -12765,13 +16520,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ばっちり",
     "meaning_en": "perfectly",
-    "explanation": "正解は「ばっちり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ばっちり",
-        "reading": "",
-        "meaning": "perfectly"
-      },
       {
         "term": "ぎっしり",
         "reading": "ぎっしり",
@@ -12811,13 +16562,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "エネルギー",
     "meaning_en": "(n) energy (de: Energie)",
-    "explanation": "正解は「エネルギー」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "エネルギー",
-        "reading": "エネルギー",
-        "meaning": "(n) energy (de: Energie)"
-      },
       {
         "term": "ボリューム",
         "reading": "ボリューム",
@@ -12857,13 +16604,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "コンテスト",
     "meaning_en": "contest",
-    "explanation": "正解は「コンテスト」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "コンテスト",
-        "reading": "コンテスト",
-        "meaning": "contest"
-      },
       {
         "term": "リクエスト",
         "reading": "リクエスト",
@@ -12903,13 +16646,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "アレンジ",
     "meaning_en": "arrange",
-    "explanation": "正解は「アレンジ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "アレンジ",
-        "reading": "アレンジ",
-        "meaning": "arrange"
-      },
       {
         "term": "ターゲット",
         "reading": "ターゲット",
@@ -12949,13 +16688,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ギャップ",
     "meaning_en": "gap",
-    "explanation": "正解は「ギャップ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ギャップ",
-        "reading": "ギャップ",
-        "meaning": "gap"
-      },
       {
         "term": "スペース",
         "reading": "スペース",
@@ -12995,13 +16730,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "プライバシー",
     "meaning_en": "privacy",
-    "explanation": "正解は「プライバシー」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "プライバシー",
-        "reading": "プライバシー",
-        "meaning": "privacy"
-      },
       {
         "term": "セルフ",
         "reading": "セルフ",
@@ -13041,13 +16772,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "プレッシャー",
     "meaning_en": "pressure",
-    "explanation": "正解は「プレッシャー」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "プレッシャー",
-        "reading": "プレッシャー",
-        "meaning": "pressure"
-      },
       {
         "term": "ダメージ",
         "reading": "ダメージ",
@@ -13087,13 +16814,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "フェア",
     "meaning_en": "fair; fair ball",
-    "explanation": "正解は「フェア」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "フェア",
-        "reading": "フェア",
-        "meaning": "fair; fair ball"
-      },
       {
         "term": "プレー",
         "reading": "",
@@ -13133,13 +16856,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "スムーズ",
     "meaning_en": "smooth (i.e. without problems)",
-    "explanation": "正解は「スムーズ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "スムーズ",
-        "reading": "スムーズ",
-        "meaning": "smooth (i.e. without problems)"
-      },
       {
         "term": "ステージ",
         "reading": "ステージ",
@@ -13179,13 +16898,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ニーズ",
     "meaning_en": "needs",
-    "explanation": "正解は「ニーズ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ニーズ",
-        "reading": "ニーズ",
-        "meaning": "needs"
-      },
       {
         "term": "プロセス",
         "reading": "プロセス",
@@ -13208,8 +16923,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "合格するN2 (徹底演習編)",
     "category": "類義語",
     "target_word": "飽きて",
-    "question": "言い換え類義問題 5 (例) 〇 毎日のようにカップラーメンを食べているので【飽きて】しまった。",
-    "question_ruby": "<ruby>言い換え<rt>いいかえ</rt></ruby><ruby>類義<rt>るいぎ</rt></ruby><ruby>問題<rt>もんだい</rt></ruby> 5 (<ruby>例<rt>れい</rt></ruby>) 〇 <ruby>毎日<rt>まいにち</rt></ruby>のようにカップラーメンを<ruby>食べて<rt>たべて</rt></ruby>いるので【<ruby>飽き<rt>あき</rt></ruby>て】しまった。",
+    "question": "毎日のようにカップラーメンを食べているので【飽きて】しまった。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>のようにカップラーメンを<ruby>食べて<rt>たべて</rt></ruby>いるので【<ruby>飽き<rt>あき</rt></ruby>て】しまった。",
     "choices": [
       "いやになって",
       "好きになって",
@@ -13224,28 +16939,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いやになって",
-    "meaning_en": "Meaning: いやになって",
-    "explanation": "正解は「いやになって」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "飽",
+        "onyomi": "ホウ",
+        "kunyomi": "あきる・あかす・あく",
+        "meaning": "Sated, Tired Of, Bored"
+      }
+    ],
     "similar": [
       {
-        "term": "飽きて",
-        "reading": "あきて",
-        "meaning": ""
+        "term": "飽きる",
+        "reading": "あきる",
+        "meaning": "to get tired of; to lose interest in"
       },
       {
-        "term": "好きになって",
-        "reading": "すきになって",
-        "meaning": ""
+        "term": "飽くまで",
+        "reading": "あくまで",
+        "meaning": "to the end; to the last"
       },
       {
-        "term": "やせて",
-        "reading": "やせて",
-        "meaning": ""
-      },
-      {
-        "term": "太って",
-        "reading": "ふとって",
-        "meaning": ""
+        "term": "飽和",
+        "reading": "ほうわ",
+        "meaning": "saturation"
       }
     ]
   },
@@ -13270,28 +16988,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ケア",
-    "meaning_en": "Meaning: ケア",
-    "explanation": "正解は「ケア」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "お手入れ",
-        "reading": "おていれ",
-        "meaning": ""
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
       },
       {
-        "term": "オープン",
-        "reading": "オープン",
-        "meaning": "open"
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       },
       {
-        "term": "サポート",
-        "reading": "サポート",
-        "meaning": "support"
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
       },
       {
-        "term": "セット",
-        "reading": "セット",
-        "meaning": "set"
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
+      },
+      {
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -13317,27 +17054,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "近所の",
     "meaning_en": "nearest; closest",
-    "explanation": "正解は「近所の」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "最",
+        "onyomi": "サイ・シュ",
+        "kunyomi": "もっとも・つま",
+        "meaning": "Utmost, Most, Extreme"
+      },
+      {
+        "kanji": "寄",
+        "onyomi": "キ",
+        "kunyomi": "よる・-より・よせる",
+        "meaning": "Draw Near, Stop In, Bring Near"
+      }
+    ],
     "similar": [
       {
-        "term": "最寄り",
-        "reading": "もより",
-        "meaning": "nearest; closest"
+        "term": "最初",
+        "reading": "さいしょ",
+        "meaning": "beginning; first"
       },
       {
-        "term": "大きな",
-        "reading": "おおきな",
-        "meaning": "big"
+        "term": "最後",
+        "reading": "さいご",
+        "meaning": "last; end"
       },
       {
-        "term": "最近の",
-        "reading": "さいきんの",
-        "meaning": ""
+        "term": "最近",
+        "reading": "さいきん",
+        "meaning": "latest; nowadays"
       },
       {
-        "term": "次の",
-        "reading": "つぎの",
-        "meaning": ""
+        "term": "寄る",
+        "reading": "よる",
+        "meaning": "to visit"
+      },
+      {
+        "term": "寄付",
+        "reading": "きふ",
+        "meaning": "contribution; donation"
       }
     ]
   },
@@ -13363,17 +17119,36 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "思いやり",
     "meaning_en": "care; attentiveness",
-    "explanation": "正解は「思いやり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "気配り",
-        "reading": "きくばり",
-        "meaning": "care; attentiveness"
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
       },
       {
-        "term": "笑顔",
-        "reading": "えがお",
-        "meaning": "smiling face"
+        "kanji": "配",
+        "onyomi": "ハイ",
+        "kunyomi": "くばる",
+        "meaning": "Distribute, Spouse, Exile"
+      }
+    ],
+    "similar": [
+      {
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
+      },
+      {
+        "term": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
       },
       {
         "term": "心配",
@@ -13381,9 +17156,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to worry"
       },
       {
-        "term": "感謝",
-        "reading": "かんしゃ",
-        "meaning": "thanks; gratitude"
+        "term": "支配",
+        "reading": "しはい",
+        "meaning": "rule; control"
       }
     ]
   },
@@ -13409,27 +17184,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "思い込んで",
     "meaning_en": "misunderstanding; wrong guess",
-    "explanation": "正解は「思い込んで」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "勘",
+        "onyomi": "カン",
+        "kunyomi": "-",
+        "meaning": "Intuition, Perception, Check"
+      },
+      {
+        "kanji": "違",
+        "onyomi": "イ",
+        "kunyomi": "ちがう・ちがい・ちがえる・-ちがえる・たがう・たがえる",
+        "meaning": "Difference, Differ"
+      }
+    ],
     "similar": [
       {
-        "term": "勘違い",
-        "reading": "かんちがい",
-        "meaning": "misunderstanding; wrong guess"
+        "term": "勘定",
+        "reading": "かんじょう",
+        "meaning": "calculation; counting"
       },
       {
-        "term": "聞かされて",
-        "reading": "きかされて",
-        "meaning": ""
+        "term": "勘弁",
+        "reading": "かんべん",
+        "meaning": "pardon; forgiveness"
       },
       {
-        "term": "想像して",
-        "reading": "そうぞうして",
-        "meaning": ""
+        "term": "割り勘",
+        "reading": "わりかん",
+        "meaning": "splitting the cost; splitting the bill"
       },
       {
-        "term": "知って",
-        "reading": "しって",
-        "meaning": ""
+        "term": "違う",
+        "reading": "ちがう",
+        "meaning": "to differ"
+      },
+      {
+        "term": "間違える",
+        "reading": "まちがえる",
+        "meaning": "to make a mistake"
       }
     ]
   },
@@ -13454,28 +17248,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "休むこと",
-    "meaning_en": "Meaning: 休むこと",
-    "explanation": "正解は「休むこと」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "息",
+        "onyomi": "ソク",
+        "kunyomi": "いき",
+        "meaning": "Breath, Respiration, Son"
+      },
+      {
+        "kanji": "抜",
+        "onyomi": "バツ・ハツ・ハイ",
+        "kunyomi": "ぬく・-ぬく・ぬき・ぬける・ぬかす・ぬかる",
+        "meaning": "Slip Out, Extract, Pull Out"
+      }
+    ],
     "similar": [
       {
-        "term": "息抜き",
-        "reading": "いきぬき",
-        "meaning": ""
+        "term": "息子",
+        "reading": "むすこ",
+        "meaning": "(humble) son"
       },
       {
-        "term": "安心すること",
-        "reading": "あんしんすること",
-        "meaning": ""
+        "term": "休息",
+        "reading": "きゅうそく",
+        "meaning": "rest; relief"
       },
       {
-        "term": "努力すること",
-        "reading": "どりょくすること",
-        "meaning": ""
+        "term": "溜息",
+        "reading": "ためいき",
+        "meaning": "a sigh"
       },
       {
-        "term": "待つこと",
-        "reading": "まつこと",
-        "meaning": ""
+        "term": "抜く",
+        "reading": "ぬく",
+        "meaning": "to extract; to omit"
+      },
+      {
+        "term": "抜ける",
+        "reading": "ぬける",
+        "meaning": "to come out; to fall out"
       }
     ]
   },
@@ -13501,27 +17314,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "普段",
     "meaning_en": "normally; habitually",
-    "explanation": "正解は「普段」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "日",
+        "onyomi": "ニチ・ジツ",
+        "kunyomi": "ひ・-び・-か",
+        "meaning": "Day, Sun, Japan"
+      },
+      {
+        "kanji": "頃",
+        "onyomi": "ケイ・キョウ",
+        "kunyomi": "ころ・ごろ・しばらく",
+        "meaning": "Time, About, Toward"
+      }
+    ],
     "similar": [
       {
-        "term": "日頃",
-        "reading": "ひごろ",
-        "meaning": "normally; habitually"
+        "term": "一日",
+        "reading": "いちにち",
+        "meaning": "(1) one day; (2) first of month"
       },
       {
-        "term": "生活",
-        "reading": "せいかつする",
-        "meaning": "to live"
+        "term": "一昨日",
+        "reading": "おととい",
+        "meaning": "day before yesterday"
       },
       {
-        "term": "小さいころ",
-        "reading": "ちーさいころ",
-        "meaning": ""
+        "term": "七日",
+        "reading": "なのか",
+        "meaning": "seven days; the seventh day"
       },
       {
-        "term": "昼間",
-        "reading": "ひるま",
-        "meaning": "daytime; during the day"
+        "term": "近頃",
+        "reading": "ちかごろ",
+        "meaning": "lately; recently"
+      },
+      {
+        "term": "手頃",
+        "reading": "てごろ",
+        "meaning": "moderate; handy"
       }
     ]
   },
@@ -13547,27 +17379,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "初心者",
     "meaning_en": "amateur; novice",
-    "explanation": "正解は「初心者」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "素",
+        "onyomi": "ソ・ス",
+        "kunyomi": "もと",
+        "meaning": "Elementary, Principle, Naked"
+      },
+      {
+        "kanji": "人",
+        "onyomi": "ジン・ニン",
+        "kunyomi": "ひと・-り・-と",
+        "meaning": "Person"
+      }
+    ],
     "similar": [
       {
-        "term": "素人",
-        "reading": "しろうと",
-        "meaning": "amateur; novice"
-      },
-      {
-        "term": "上級者",
-        "reading": "じょうきゅうしゃ",
+        "term": "素晴らし",
+        "reading": "すばらしい",
         "meaning": ""
       },
       {
-        "term": "子ども",
-        "reading": "こども",
-        "meaning": ""
+        "term": "素晴らしい",
+        "reading": "すばらしい",
+        "meaning": "wonderful; splendid"
       },
       {
-        "term": "関係ない人",
-        "reading": "かんけいないにん",
-        "meaning": ""
+        "term": "要素",
+        "reading": "ようそ",
+        "meaning": "element"
+      },
+      {
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "term": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
       }
     ]
   },
@@ -13593,27 +17444,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "見た目",
     "meaning_en": "(physical) appearance (of a person); one's face and figure",
-    "explanation": "正解は「見た目」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "容",
+        "onyomi": "ヨウ",
+        "kunyomi": "いれる",
+        "meaning": "Contain, Form, Looks"
+      },
+      {
+        "kanji": "姿",
+        "onyomi": "シ",
+        "kunyomi": "すがた",
+        "meaning": "Figure, Form, Shape"
+      }
+    ],
     "similar": [
       {
-        "term": "容姿",
-        "reading": "ようし",
-        "meaning": "(physical) appearance (of a person); one's face and figure"
+        "term": "内容",
+        "reading": "ないよう",
+        "meaning": "subject; contents"
       },
       {
-        "term": "態度",
-        "reading": "たいど",
-        "meaning": "attitude; manner"
+        "term": "容易",
+        "reading": "ようい",
+        "meaning": "easy; simple"
       },
       {
-        "term": "中身",
-        "reading": "なかみ",
-        "meaning": "contents; interior"
+        "term": "容器",
+        "reading": "ようき",
+        "meaning": "container; vessel"
       },
       {
-        "term": "印象",
-        "reading": "いんしょう",
-        "meaning": "impression"
+        "term": "姿勢",
+        "reading": "しせい",
+        "meaning": "attitude; posture"
+      },
+      {
+        "term": "後ろ姿",
+        "reading": "うしろすがた",
+        "meaning": "(a person's) appearance from behind; person as seen from behind"
       }
     ]
   },
@@ -13639,27 +17509,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "大きさ",
     "meaning_en": "scale; scope",
-    "explanation": "正解は「大きさ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "規",
+        "onyomi": "キ",
+        "kunyomi": "-",
+        "meaning": "Standard, Measure"
+      },
+      {
+        "kanji": "模",
+        "onyomi": "モ・ボ",
+        "kunyomi": "-",
+        "meaning": "Imitation, Copy, Mock"
+      }
+    ],
     "similar": [
       {
-        "term": "規模",
-        "reading": "きぼ",
-        "meaning": "scale; scope"
+        "term": "規則",
+        "reading": "きそく",
+        "meaning": "regulations"
       },
       {
-        "term": "大切さ",
-        "reading": "たいせつさ",
-        "meaning": ""
+        "term": "不規則",
+        "reading": "ふきそく",
+        "meaning": "irregularity; unsteadiness"
       },
       {
-        "term": "種類",
-        "reading": "しゅるい",
-        "meaning": "variety; kind"
+        "term": "定規",
+        "reading": "じょうぎ",
+        "meaning": "(measuring) ruler"
       },
       {
-        "term": "必要性",
-        "reading": "ひつようせい",
-        "meaning": "necessity; need"
+        "term": "模様",
+        "reading": "もよう",
+        "meaning": "pattern; figure"
+      },
+      {
+        "term": "模倣",
+        "reading": "もほう",
+        "meaning": "imitation; copying"
       }
     ]
   },
@@ -13685,27 +17574,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "進む方向",
     "meaning_en": "objective; plan",
-    "explanation": "正解は「進む方向」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      },
+      {
+        "kanji": "針",
+        "onyomi": "シン",
+        "kunyomi": "はり",
+        "meaning": "Needle, Pin, Staple"
+      }
+    ],
     "similar": [
       {
-        "term": "方針",
-        "reading": "ほうしん",
-        "meaning": "objective; plan"
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
       },
       {
-        "term": "場所",
-        "reading": "ばしょ",
-        "meaning": "location"
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       },
       {
-        "term": "人材",
-        "reading": "じんざい",
-        "meaning": "man of talent"
+        "term": "仕方",
+        "reading": "しかた",
+        "meaning": "method"
       },
       {
-        "term": "売り上げ",
-        "reading": "うりあげ",
-        "meaning": "amount sold; sales"
+        "term": "針路",
+        "reading": "しんろ",
+        "meaning": "course; direction"
+      },
+      {
+        "term": "針金",
+        "reading": "はりがね",
+        "meaning": "wire"
       }
     ]
   },
@@ -13731,27 +17639,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "納得 させる",
     "meaning_en": "persuasion",
-    "explanation": "正解は「納得 させる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "説",
+        "onyomi": "セツ・ゼイ",
+        "kunyomi": "とく",
+        "meaning": "Opinion, Theory, Explanation"
+      },
+      {
+        "kanji": "得",
+        "onyomi": "トク",
+        "kunyomi": "える・うる",
+        "meaning": "Gain, Get, Find"
+      }
+    ],
     "similar": [
       {
-        "term": "説得",
-        "reading": "せっとく",
-        "meaning": "persuasion"
+        "term": "小説",
+        "reading": "しょうせつ",
+        "meaning": "novel"
       },
       {
-        "term": "支える",
-        "reading": "ささえる",
-        "meaning": "to be blocked; to choke"
+        "term": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
       },
       {
-        "term": "油断させる",
-        "reading": "ゆだんさせる",
-        "meaning": ""
+        "term": "演説",
+        "reading": "えんぜつ",
+        "meaning": "speech; address"
       },
       {
-        "term": "理解する",
-        "reading": "りかいする",
-        "meaning": ""
+        "term": "得る",
+        "reading": "える",
+        "meaning": "to get; to gain"
+      },
+      {
+        "term": "得意",
+        "reading": "とくい",
+        "meaning": "pride; triumph"
       }
     ]
   },
@@ -13777,27 +17704,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "調整 する",
     "meaning_en": "addition and subtraction; allowance for",
-    "explanation": "正解は「調整 する」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "加",
+        "onyomi": "カ",
+        "kunyomi": "くわえる・くわわる",
+        "meaning": "Add, Addition, Increase"
+      },
+      {
+        "kanji": "減",
+        "onyomi": "ゲン",
+        "kunyomi": "へる・へらす",
+        "meaning": "Dwindle, Decrease, Reduce"
+      }
+    ],
     "similar": [
       {
-        "term": "加減",
-        "reading": "かげん",
-        "meaning": "addition and subtraction; allowance for"
+        "term": "加える",
+        "reading": "くわえる",
+        "meaning": "to append; to sum up"
       },
       {
-        "term": "測る",
-        "reading": "はかる",
-        "meaning": "to measure; to weigh"
+        "term": "加わる",
+        "reading": "くわわる",
+        "meaning": "to join in; to accede to"
       },
       {
-        "term": "上げる",
-        "reading": "あげる",
-        "meaning": "to give"
+        "term": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
       },
       {
-        "term": "下げる",
-        "reading": "さげる",
-        "meaning": "to hang; to lower"
+        "term": "減らす",
+        "reading": "へらす",
+        "meaning": "to abate; to decrease"
+      },
+      {
+        "term": "減る",
+        "reading": "へる",
+        "meaning": "to decrease (in size or number); to diminish"
       }
     ]
   },
@@ -13823,27 +17769,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "助けて",
     "meaning_en": "pushing; support",
-    "explanation": "正解は「助けて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "後",
+        "onyomi": "ゴ・コウ",
+        "kunyomi": "のち・うしろ・うしろ・あと・おくれる",
+        "meaning": "Behind, Back, Later"
+      },
+      {
+        "kanji": "押",
+        "onyomi": "オウ",
+        "kunyomi": "おす・おし-・おっ-・おさえる・おさえる",
+        "meaning": "Push, Stop, Check"
+      }
+    ],
     "similar": [
       {
-        "term": "後押し",
-        "reading": "あとおし",
-        "meaning": "pushing; support"
+        "term": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon"
       },
       {
-        "term": "任せて",
-        "reading": "まかせて",
-        "meaning": ""
+        "term": "後ろ",
+        "reading": "うしろ",
+        "meaning": "behind"
       },
       {
-        "term": "気に入って",
-        "reading": "きにいって",
-        "meaning": ""
+        "term": "最後",
+        "reading": "さいご",
+        "meaning": "last; end"
       },
       {
-        "term": "頑張って",
-        "reading": "がんばって",
-        "meaning": "do your best; go for it"
+        "term": "押す",
+        "reading": "おす",
+        "meaning": "to push; to stamp something"
+      },
+      {
+        "term": "押し入れ",
+        "reading": "おしいれ",
+        "meaning": "closet"
       }
     ]
   },
@@ -13868,28 +17833,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "役に立つ",
-    "meaning_en": "Meaning: 役に立つ",
-    "explanation": "正解は「役に立つ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "通",
+        "onyomi": "ツウ・ツ",
+        "kunyomi": "とおる・とおり・-とおり・-どおり・とおす・とおし・-どおし・かよう",
+        "meaning": "Traffic, Pass Through, Avenue"
+      },
+      {
+        "kanji": "用",
+        "onyomi": "ヨウ",
+        "kunyomi": "もちいる",
+        "meaning": "Utilize, Business, Service"
+      }
+    ],
     "similar": [
       {
-        "term": "通用する",
-        "reading": "つうようする",
-        "meaning": ""
+        "term": "交通",
+        "reading": "こうつう",
+        "meaning": "traffic; transportation"
       },
       {
-        "term": "有名な",
-        "reading": "ゆうめいな",
-        "meaning": ""
+        "term": "普通",
+        "reading": "ふつう",
+        "meaning": "usually; or a train that stops at every station"
       },
       {
-        "term": "便利な",
-        "reading": "べんりな",
-        "meaning": ""
+        "term": "通う",
+        "reading": "かよう",
+        "meaning": "to commute"
       },
       {
-        "term": "一番の",
-        "reading": "いちばんの",
-        "meaning": ""
+        "term": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
+      },
+      {
+        "term": "用事",
+        "reading": "ようじ",
+        "meaning": "things to do"
       }
     ]
   },
@@ -13915,27 +17899,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "よく考える",
     "meaning_en": "consideration; examination",
-    "explanation": "正解は「よく考える」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "検",
+        "onyomi": "ケン",
+        "kunyomi": "しらべる",
+        "meaning": "Examination, Investigate"
+      },
+      {
+        "kanji": "討",
+        "onyomi": "トウ",
+        "kunyomi": "うつ",
+        "meaning": "Chastise, Attack, Defeat"
+      }
+    ],
     "similar": [
       {
-        "term": "検討",
-        "reading": "けんとう",
-        "meaning": "consideration; examination"
+        "term": "検査",
+        "reading": "けんさ",
+        "meaning": "inspection (e.g. customs; factory)"
       },
       {
-        "term": "報告する",
-        "reading": "ほうこくする",
-        "meaning": ""
+        "term": "探検",
+        "reading": "たんけん",
+        "meaning": "exploration; expedition"
       },
       {
-        "term": "取り組む",
-        "reading": "とりくむ",
-        "meaning": "to tackle; to wrestle with"
+        "term": "検事",
+        "reading": "けんじ",
+        "meaning": "public prosecutor"
       },
       {
-        "term": "意見を聞く",
-        "reading": "いけんをきく",
-        "meaning": ""
+        "term": "討つ",
+        "reading": "うつ",
+        "meaning": "to attack; to avenge"
+      },
+      {
+        "term": "討論",
+        "reading": "とうろん",
+        "meaning": "debate; discussion"
       }
     ]
   },
@@ -13961,27 +17964,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "乗りこえた",
     "meaning_en": "subjugation; conquest",
-    "explanation": "正解は「乗りこえた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "克",
+        "onyomi": "コク",
+        "kunyomi": "かつ",
+        "meaning": "Overcome, Kindly, Skillfully"
+      },
+      {
+        "kanji": "服",
+        "onyomi": "フク",
+        "kunyomi": "-",
+        "meaning": "Clothing, Admit, Obey"
+      }
+    ],
     "similar": [
       {
-        "term": "克服",
-        "reading": "こくふく",
-        "meaning": "subjugation; conquest"
+        "term": "克明",
+        "reading": "こくめい",
+        "meaning": "detailed; scrupulous"
       },
       {
-        "term": "やり直した",
-        "reading": "やりなおした",
-        "meaning": ""
+        "term": "烏克蘭",
+        "reading": "ウクライナ",
+        "meaning": "Ukraine"
       },
       {
-        "term": "思い出した",
-        "reading": "おもいだした",
-        "meaning": ""
+        "term": "馬克",
+        "reading": "マルク",
+        "meaning": "mark (former currency of Germany)"
       },
       {
-        "term": "かくした",
-        "reading": "かくした",
-        "meaning": ""
+        "term": "洋服",
+        "reading": "ようふく",
+        "meaning": "western-style clothes"
+      },
+      {
+        "term": "服装",
+        "reading": "ふくそう",
+        "meaning": "garments"
       }
     ]
   },
@@ -14007,27 +18029,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "つぶれた",
     "meaning_en": "(corporate) bankruptcy; insolvency",
-    "explanation": "正解は「つぶれた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "倒",
+        "onyomi": "トウ",
+        "kunyomi": "たおれる・-だおれ・たおす・さかさま・さかさ・さかしま",
+        "meaning": "Overthrow, Fall, Collapse"
+      },
+      {
+        "kanji": "産",
+        "onyomi": "サン",
+        "kunyomi": "うむ・うまれる・うぶ-・むす",
+        "meaning": "Products, Bear, Give Birth"
+      }
+    ],
     "similar": [
       {
-        "term": "倒産",
-        "reading": "とうさん",
-        "meaning": "(corporate) bankruptcy; insolvency"
+        "term": "倒れる",
+        "reading": "たおれる",
+        "meaning": "to break down"
       },
       {
-        "term": "分かれた",
-        "reading": "わかれた",
-        "meaning": ""
+        "term": "倒す",
+        "reading": "たおす",
+        "meaning": "to throw down; to beat"
       },
       {
-        "term": "うまれた",
-        "reading": "うまれた",
-        "meaning": ""
+        "term": "面倒",
+        "reading": "めんどう",
+        "meaning": "trouble; difficulty"
       },
       {
-        "term": "買われた",
-        "reading": "かわれた",
-        "meaning": ""
+        "term": "お土産",
+        "reading": "おみやげ",
+        "meaning": "souvenir"
+      },
+      {
+        "term": "生産",
+        "reading": "せいさんする",
+        "meaning": "to produce"
       }
     ]
   },
@@ -14053,27 +18094,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "お願いした",
     "meaning_en": "(1) request; commission",
-    "explanation": "正解は「お願いした」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "依",
+        "onyomi": "イ・エ",
+        "kunyomi": "よる",
+        "meaning": "Reliant, Depend On, Consequently"
+      },
+      {
+        "kanji": "頼",
+        "onyomi": "ライ",
+        "kunyomi": "たのむ・たのもしい・たよる",
+        "meaning": "Trust, Request"
+      }
+    ],
     "similar": [
       {
-        "term": "依頼",
-        "reading": "いらい",
-        "meaning": "(1) request; commission"
+        "term": "依って",
+        "reading": "よって",
+        "meaning": "therefore; consequently"
       },
       {
-        "term": "教えた",
-        "reading": "おしえた",
-        "meaning": ""
+        "term": "依存",
+        "reading": "いそん",
+        "meaning": "dependence; dependent"
       },
       {
-        "term": "紹介した",
-        "reading": "しょうかいした",
-        "meaning": ""
+        "term": "依然",
+        "reading": "いぜん",
+        "meaning": "still; as yet"
       },
       {
-        "term": "分けた",
-        "reading": "わけた",
-        "meaning": ""
+        "term": "頼む",
+        "reading": "たのむ",
+        "meaning": "to ask"
+      },
+      {
+        "term": "信頼",
+        "reading": "しんらい",
+        "meaning": "reliance; trust"
       }
     ]
   },
@@ -14099,27 +18159,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "地位が上がる",
     "meaning_en": "promotion; successful career",
-    "explanation": "正解は「地位が上がる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "出",
+        "onyomi": "シュツ・スイ",
+        "kunyomi": "でる・-で・だす・-だす・いでる・いだす",
+        "meaning": "Exit, Leave, Go Out"
+      },
+      {
+        "kanji": "世",
+        "onyomi": "セイ・セ・ソウ",
+        "kunyomi": "よ",
+        "meaning": "Generation, World, Society"
+      }
+    ],
     "similar": [
       {
-        "term": "出世",
-        "reading": "しゅっせ",
-        "meaning": "promotion; successful career"
+        "term": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out"
       },
       {
-        "term": "社会に出る",
-        "reading": "しゃかいにでる",
-        "meaning": ""
+        "term": "出す",
+        "reading": "だす",
+        "meaning": "to put out"
       },
       {
-        "term": "会社を辞める",
-        "reading": "かいしゃをやめる",
-        "meaning": ""
+        "term": "出る",
+        "reading": "でる",
+        "meaning": "to appear; to leave"
       },
       {
-        "term": "悪いことをする",
-        "reading": "わるいことをする",
-        "meaning": ""
+        "term": "世界",
+        "reading": "せかい",
+        "meaning": "the world"
+      },
+      {
+        "term": "世話",
+        "reading": "せわする",
+        "meaning": "to look after"
       }
     ]
   },
@@ -14144,14 +18223,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "変更して",
-    "meaning_en": "Meaning: 変更して",
-    "explanation": "正解は「変更して」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ずらして",
-        "reading": "ずらして",
-        "meaning": ""
-      },
       {
         "term": "確認して",
         "reading": "かくにんして",
@@ -14191,27 +18266,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "まとめる",
     "meaning_en": "束ねる[vi]bind",
-    "explanation": "正解は「まとめる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "束",
+        "onyomi": "ソク",
+        "kunyomi": "たば・たばねる・つか・つかねる",
+        "meaning": "Bundle, Sheaf, Ream"
+      }
+    ],
     "similar": [
       {
-        "term": "たばねる",
-        "reading": "",
-        "meaning": "束ねる[vi]bind"
+        "term": "約束",
+        "reading": "やくそく",
+        "meaning": "promise"
       },
       {
-        "term": "きれいに洗う",
-        "reading": "きれいにあらう",
-        "meaning": ""
+        "term": "拘束",
+        "reading": "こうそく",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "短く切る",
-        "reading": "みじかくきる",
-        "meaning": ""
-      },
-      {
-        "term": "広げる",
-        "reading": "ひろげる",
-        "meaning": "to spread; to extend"
+        "term": "束ねる",
+        "reading": "たばねる",
+        "meaning": "to tie up in a bundle, to control"
       }
     ]
   },
@@ -14237,27 +18315,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "急いでする",
     "meaning_en": "to become confused",
-    "explanation": "正解は「急いでする」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "慌",
+        "onyomi": "コウ",
+        "kunyomi": "あわてる・あわただしい",
+        "meaning": "Disconcerted, Be Confused, Lose One's Head"
+      }
+    ],
     "similar": [
       {
-        "term": "あわてる",
-        "reading": "",
-        "meaning": "to become confused"
+        "term": "慌ただしい",
+        "reading": "あわただしい",
+        "meaning": "busy; hurried"
       },
       {
-        "term": "ゆっくりする",
-        "reading": "ゆっくりする",
-        "meaning": ""
+        "term": "慌てる",
+        "reading": "あわてる",
+        "meaning": "to become confused (disconcerted  disorganized)"
       },
       {
-        "term": "適当にする",
-        "reading": "てきとうにする",
-        "meaning": ""
-      },
-      {
-        "term": "まじめにする",
-        "reading": "まじめにする",
-        "meaning": ""
+        "term": "恐慌",
+        "reading": "きょうこう",
+        "meaning": "panic; scare"
       }
     ]
   },
@@ -14283,27 +18364,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "努力して",
     "meaning_en": "努めて[ad]as much as possible",
-    "explanation": "正解は「努力して」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "努",
+        "onyomi": "ド",
+        "kunyomi": "つとめる",
+        "meaning": "Toil, Diligent, As Much As Possible"
+      }
+    ],
     "similar": [
       {
-        "term": "つとめて",
-        "reading": "",
-        "meaning": "努めて[ad]as much as possible"
+        "term": "努力",
+        "reading": "どりょく",
+        "meaning": "great effort; exertion"
       },
       {
-        "term": "向かって",
-        "reading": "むかって",
-        "meaning": ""
+        "term": "努める",
+        "reading": "つとめる",
+        "meaning": "(1) to serve; to fill a post"
       },
       {
-        "term": "苦労して",
-        "reading": "くろうして",
-        "meaning": ""
-      },
-      {
-        "term": "従事して",
-        "reading": "じゅうじして",
-        "meaning": ""
+        "term": "努めて",
+        "reading": "つとめて",
+        "meaning": "make an effort!; work hard!"
       }
     ]
   },
@@ -14329,27 +18413,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "集める",
     "meaning_en": "to collect; to gather",
-    "explanation": "正解は「集める」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "寄",
+        "onyomi": "キ",
+        "kunyomi": "よる・-より・よせる",
+        "meaning": "Draw Near, Stop In, Bring Near"
+      }
+    ],
     "similar": [
       {
-        "term": "寄せる",
-        "reading": "よせる",
-        "meaning": "to collect; to gather"
+        "term": "寄る",
+        "reading": "よる",
+        "meaning": "to visit"
       },
       {
-        "term": "捨てる",
-        "reading": "すてる",
-        "meaning": "to throw away"
+        "term": "寄付",
+        "reading": "きふ",
+        "meaning": "contribution; donation"
       },
       {
-        "term": "ためる",
-        "reading": "",
-        "meaning": "溜める[vi]collect"
-      },
-      {
-        "term": "見つける",
-        "reading": "みつける",
-        "meaning": "to discover"
+        "term": "年寄",
+        "reading": "としより",
+        "meaning": "old people; the aged"
       }
     ]
   },
@@ -14375,27 +18462,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "使う",
     "meaning_en": "用いる[vi]use",
-    "explanation": "正解は「使う」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "用",
+        "onyomi": "ヨウ",
+        "kunyomi": "もちいる",
+        "meaning": "Utilize, Business, Service"
+      }
+    ],
     "similar": [
       {
-        "term": "もちいる",
-        "reading": "",
-        "meaning": "用いる[vi]use"
+        "term": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
       },
       {
-        "term": "増やす",
-        "reading": "ふやす",
-        "meaning": "to increase; to add to"
+        "term": "用事",
+        "reading": "ようじ",
+        "meaning": "things to do"
       },
       {
-        "term": "買う",
-        "reading": "かう",
-        "meaning": "to buy"
-      },
-      {
-        "term": "選ぶ",
-        "reading": "えらぶ",
-        "meaning": "to choose"
+        "term": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
       }
     ]
   },
@@ -14421,27 +18511,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "出る",
     "meaning_en": "枠[n]frame",
-    "explanation": "正解は「出る」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "沸",
+        "onyomi": "フツ",
+        "kunyomi": "わく・わかす",
+        "meaning": "Seethe, Boil, Ferment"
+      }
+    ],
     "similar": [
       {
-        "term": "わく",
-        "reading": "",
-        "meaning": "枠[n]frame"
+        "term": "沸かす",
+        "reading": "わかす",
+        "meaning": "to boil; to heat"
       },
       {
-        "term": "減る",
-        "reading": "へる",
-        "meaning": "to decrease (in size or number); to diminish"
+        "term": "沸く",
+        "reading": "わく",
+        "meaning": "to boil; to grow hot"
       },
       {
-        "term": "なくなる",
-        "reading": "",
-        "meaning": "無くなる[vg]to be lost"
-      },
-      {
-        "term": "見える",
-        "reading": "みえる",
-        "meaning": "to be in sight"
+        "term": "沸騰",
+        "reading": "ふっとう",
+        "meaning": "boiling; seething"
       }
     ]
   },
@@ -14467,27 +18560,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "短くする",
     "meaning_en": "to shorten; to reduce",
-    "explanation": "正解は「短くする」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "縮",
+        "onyomi": "シュク",
+        "kunyomi": "ちぢむ・ちぢまる・ちぢめる・ちぢれる・ちぢらす",
+        "meaning": "Shrink, Contract, Shrivel"
+      }
+    ],
     "similar": [
       {
-        "term": "縮める",
-        "reading": "ちぢめる",
-        "meaning": "to shorten; to reduce"
+        "term": "圧縮",
+        "reading": "あっしゅく",
+        "meaning": "compression; condensation"
       },
       {
-        "term": "競う",
-        "reading": "きそう",
-        "meaning": "to compete; to contend"
+        "term": "恐縮",
+        "reading": "きょうしゅく",
+        "meaning": "shame; very kind of you"
       },
       {
-        "term": "測る",
-        "reading": "はかる",
-        "meaning": "to measure; to weigh"
-      },
-      {
-        "term": "確かめる",
-        "reading": "たしかめる",
-        "meaning": "to ascertain"
+        "term": "縮む",
+        "reading": "ちぢむ",
+        "meaning": "to shrink; to be contracted"
       }
     ]
   },
@@ -14513,27 +18609,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "入れる",
     "meaning_en": "to include; to instruct",
-    "explanation": "正解は「入れる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "含",
+        "onyomi": "ガン",
+        "kunyomi": "ふくむ・ふくめる",
+        "meaning": "Contain, Include, Hold In The Mouth"
+      }
+    ],
     "similar": [
       {
-        "term": "含める",
-        "reading": "ふくめる",
-        "meaning": "to include; to instruct"
+        "term": "含む",
+        "reading": "ふくむ",
+        "meaning": "to hold in the mouth; to bear in mind"
       },
       {
-        "term": "除く",
-        "reading": "のぞく",
-        "meaning": "to remove; to exclude"
+        "term": "含嗽",
+        "reading": "うがい",
+        "meaning": "gargle; rinse mouth"
       },
       {
-        "term": "採用する",
-        "reading": "さいようする",
-        "meaning": ""
-      },
-      {
-        "term": "増やす",
-        "reading": "ふやす",
-        "meaning": "to increase; to add to"
+        "term": "包含",
+        "reading": "ほうがん",
+        "meaning": "inclusion; comprehension"
       }
     ]
   },
@@ -14558,28 +18657,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いっぱいだ",
-    "meaning_en": "Meaning: いっぱいだ",
-    "explanation": "正解は「いっぱいだ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "埋",
+        "onyomi": "マイ",
+        "kunyomi": "うめる・うまる・うもれる・うずめる・うずまる・いける",
+        "meaning": "Bury, Be Filled Up, Embedded"
+      }
+    ],
     "similar": [
       {
-        "term": "埋まっている",
-        "reading": "うまっている",
-        "meaning": ""
+        "term": "埋める",
+        "reading": "うめる",
+        "meaning": "to bury; to fill up"
       },
       {
-        "term": "なくなった",
-        "reading": "なくなった",
-        "meaning": ""
+        "term": "埋まる",
+        "reading": "うずまる",
+        "meaning": "to be buried; to be surrounded"
       },
       {
-        "term": "全くない",
-        "reading": "まったくない",
-        "meaning": ""
-      },
-      {
-        "term": "少しある",
-        "reading": "すこしある",
-        "meaning": ""
+        "term": "埋め込む",
+        "reading": "うめこむ",
+        "meaning": "to bury"
       }
     ]
   },
@@ -14605,27 +18707,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "確かめる",
     "meaning_en": "to enquire; to seek information",
-    "explanation": "正解は「確かめる」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "問",
+        "onyomi": "モン",
+        "kunyomi": "とう・とい・とん",
+        "meaning": "Question, Ask, Problem"
+      },
+      {
+        "kanji": "合",
+        "onyomi": "ゴウ・ガッ・カッ",
+        "kunyomi": "あう・-あう・あい・あい-・-あい・-あい・あわす・あわせる・-あわせる",
+        "meaning": "Fit, Suit, Join"
+      }
+    ],
     "similar": [
       {
-        "term": "問い合わせる",
-        "reading": "といあわせる",
-        "meaning": "to enquire; to seek information"
+        "term": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
       },
       {
-        "term": "教える",
-        "reading": "おしえる",
-        "meaning": "to teach; to tell"
+        "term": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
       },
       {
-        "term": "謝る",
-        "reading": "あやまる",
-        "meaning": "to apologize"
+        "term": "問い",
+        "reading": "とい",
+        "meaning": "question; query"
       },
       {
-        "term": "送る",
-        "reading": "おくる",
-        "meaning": "to send"
+        "term": "具合",
+        "reading": "ぐあい",
+        "meaning": "condition; health"
+      },
+      {
+        "term": "割合",
+        "reading": "わりあい",
+        "meaning": "rate; ratio"
       }
     ]
   },
@@ -14650,28 +18771,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あきらかにする",
-    "meaning_en": "Meaning: あきらかにする",
-    "explanation": "正解は「あきらかにする」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "洗",
+        "onyomi": "セン",
+        "kunyomi": "あらう",
+        "meaning": "Wash, Inquire Into, Probe"
+      },
+      {
+        "kanji": "出",
+        "onyomi": "シュツ・スイ",
+        "kunyomi": "でる・-で・だす・-だす・いでる・いだす",
+        "meaning": "Exit, Leave, Go Out"
+      }
+    ],
     "similar": [
       {
-        "term": "洗い出す",
-        "reading": "あらいだす",
-        "meaning": ""
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
       },
       {
-        "term": "改善する",
-        "reading": "かいぜんする",
-        "meaning": ""
+        "term": "洗う",
+        "reading": "あらう",
+        "meaning": "to wash"
       },
       {
-        "term": "してきする",
-        "reading": "してきする",
-        "meaning": ""
+        "term": "洗濯",
+        "reading": "せんたく",
+        "meaning": "washing"
       },
       {
-        "term": "言い合う",
-        "reading": "いいあう",
-        "meaning": ""
+        "term": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out"
+      },
+      {
+        "term": "出す",
+        "reading": "だす",
+        "meaning": "to put out"
       }
     ]
   },
@@ -14696,28 +18836,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "帰らせた",
-    "meaning_en": "Meaning: 帰らせた",
-    "explanation": "正解は「帰らせた」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "追",
+        "onyomi": "ツイ",
+        "kunyomi": "おう",
+        "meaning": "Chase, Drive Away, Follow"
+      },
+      {
+        "kanji": "返",
+        "onyomi": "ヘン",
+        "kunyomi": "かえす・-かえす・かえる・-かえる",
+        "meaning": "Return, Answer, Fade"
+      }
+    ],
     "similar": [
       {
-        "term": "追い返した",
-        "reading": "おいかえした",
-        "meaning": ""
+        "term": "追い付く",
+        "reading": "おいつく",
+        "meaning": "to overtake; to catch up (with)"
       },
       {
-        "term": "おいかけた",
-        "reading": "おいかけた",
-        "meaning": ""
+        "term": "追う",
+        "reading": "おう",
+        "meaning": "to chase; to run after"
       },
       {
-        "term": "うったえた",
-        "reading": "うったえた",
-        "meaning": ""
+        "term": "追いかける",
+        "reading": "おいかける",
+        "meaning": "to chase or run after someone"
       },
       {
-        "term": "説得した",
-        "reading": "せっとくした",
-        "meaning": ""
+        "term": "返す",
+        "reading": "かえす",
+        "meaning": "to return something"
+      },
+      {
+        "term": "返事",
+        "reading": "へんじ",
+        "meaning": "reply"
       }
     ]
   },
@@ -14742,28 +18901,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "来た道をもどった",
-    "meaning_en": "Meaning: 来た道をもどった",
-    "explanation": "正解は「来た道をもどった」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "引",
+        "onyomi": "イン",
+        "kunyomi": "ひく・ひき・ひき-・-びき・ひける",
+        "meaning": "Pull, Tug, Jerk"
+      },
+      {
+        "kanji": "返",
+        "onyomi": "ヘン",
+        "kunyomi": "かえす・-かえす・かえる・-かえる",
+        "meaning": "Return, Answer, Fade"
+      }
+    ],
     "similar": [
       {
-        "term": "引き返した",
-        "reading": "ひきかえした",
-        "meaning": ""
+        "term": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
       },
       {
-        "term": "声をかけた",
-        "reading": "こえをかけた",
-        "meaning": ""
+        "term": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
       },
       {
-        "term": "引き止めた",
-        "reading": "ひきとめた",
-        "meaning": ""
+        "term": "引き出し",
+        "reading": "ひきだし",
+        "meaning": "drawer; drawing out"
       },
       {
-        "term": "拾ってとどけた",
-        "reading": "ひろってとどけた",
-        "meaning": ""
+        "term": "返す",
+        "reading": "かえす",
+        "meaning": "to return something"
+      },
+      {
+        "term": "返事",
+        "reading": "へんじ",
+        "meaning": "reply"
       }
     ]
   },
@@ -14789,12 +18967,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "強そうな",
     "meaning_en": "burly, strong, sturdy",
-    "explanation": "正解は「強そうな」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "逞",
+        "onyomi": "テイ",
+        "kunyomi": "たくましい",
+        "meaning": "Sturdy, Brawny, Bold"
+      }
+    ],
     "similar": [
       {
-        "term": "たくましい",
-        "reading": "",
-        "meaning": "burly, strong, sturdy"
+        "term": "逞しい",
+        "reading": "たくましい",
+        "meaning": "burly; strong"
       },
       {
         "term": "健康そうな",
@@ -14835,11 +19021,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しつこい",
     "meaning_en": "verbose; importunate",
-    "explanation": "正解は「しつこい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "諄",
+        "onyomi": "シュン",
+        "kunyomi": "ひちくどい・くどい・くどくど・ねんごろ",
+        "meaning": "Tedious"
+      }
+    ],
     "similar": [
       {
-        "term": "くどい",
-        "reading": "",
+        "term": "諄い",
+        "reading": "くどい",
         "meaning": "verbose; importunate"
       },
       {
@@ -14881,27 +19075,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "意外な",
     "meaning_en": "unexpected; contrary to expectations",
-    "explanation": "正解は「意外な」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      }
+    ],
     "similar": [
       {
-        "term": "思いがけない",
-        "reading": "おもいがけない",
-        "meaning": "unexpected; contrary to expectations"
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "心配な",
-        "reading": "しんぱいな",
-        "meaning": ""
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "悲しい",
-        "reading": "かなしい",
-        "meaning": "sad"
-      },
-      {
-        "term": "苦しい",
-        "reading": "くるしい",
-        "meaning": "painful; difficult"
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       }
     ]
   },
@@ -14927,27 +19124,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しずかな",
     "meaning_en": "obedient; docile",
-    "explanation": "正解は「しずかな」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      },
+      {
+        "kanji": "人",
+        "onyomi": "ジン・ニン",
+        "kunyomi": "ひと・-り・-と",
+        "meaning": "Person"
+      }
+    ],
     "similar": [
       {
-        "term": "おとなしい",
-        "reading": "",
-        "meaning": "obedient; docile"
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
       },
       {
-        "term": "かわいい",
-        "reading": "",
-        "meaning": "cute"
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       },
       {
-        "term": "上品な",
-        "reading": "じょうひんな",
-        "meaning": ""
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
       },
       {
-        "term": "優しい",
-        "reading": "やさしい",
-        "meaning": "kind"
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "term": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
       }
     ]
   },
@@ -14973,27 +19189,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "満足できない",
     "meaning_en": "物足りない[a]unsatisfied in some way",
-    "explanation": "正解は「満足できない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "物",
+        "onyomi": "ブツ・モツ",
+        "kunyomi": "もの・もの-",
+        "meaning": "Thing, Object, Matter"
+      },
+      {
+        "kanji": "足",
+        "onyomi": "ソク",
+        "kunyomi": "あし・たりる・たる・たす",
+        "meaning": "Leg, Foot, Be Sufficient"
+      }
+    ],
     "similar": [
       {
-        "term": "ものたりない",
-        "reading": "",
-        "meaning": "物足りない[a]unsatisfied in some way"
+        "term": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
       },
       {
-        "term": "理解できない",
-        "reading": "りかいできない",
-        "meaning": ""
+        "term": "建物",
+        "reading": "たてもの",
+        "meaning": "building"
       },
       {
-        "term": "想像できない",
-        "reading": "そうぞうできない",
-        "meaning": ""
+        "term": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit"
       },
       {
-        "term": "説明できない",
-        "reading": "せつめいできない",
-        "meaning": ""
+        "term": "足; 脚",
+        "reading": "あし",
+        "meaning": "foot; leg"
+      },
+      {
+        "term": "足す",
+        "reading": "たす",
+        "meaning": "to add a number"
       }
     ]
   },
@@ -15018,28 +19253,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "すばらしい",
-    "meaning_en": "Meaning: すばらしい",
-    "explanation": "正解は「すばらしい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "非",
+        "onyomi": "ヒ",
+        "kunyomi": "あらず",
+        "meaning": "Un-, Mistake, Negative"
+      },
+      {
+        "kanji": "凡",
+        "onyomi": "ボン・ハン",
+        "kunyomi": "およそ・おうよそ・すべて",
+        "meaning": "Commonplace, Ordinary, Mediocre"
+      }
+    ],
     "similar": [
       {
-        "term": "非凡",
-        "reading": "ひぼん",
-        "meaning": ""
+        "term": "非常に",
+        "reading": "ひじょうに",
+        "meaning": "extremely"
       },
       {
-        "term": "まあまあだ",
-        "reading": "まあまあだ",
-        "meaning": ""
+        "term": "是非",
+        "reading": "ぜひ",
+        "meaning": "certainly; without fail"
       },
       {
-        "term": "とても低い",
-        "reading": "とてもひくい",
-        "meaning": ""
+        "term": "非常",
+        "reading": "ひじょう",
+        "meaning": "emergency; extraordinary"
       },
       {
-        "term": "普通だ",
-        "reading": "ふつうだ",
-        "meaning": ""
+        "term": "大凡",
+        "reading": "おおよそ",
+        "meaning": "about; roughly"
+      },
+      {
+        "term": "平凡",
+        "reading": "へいぼん",
+        "meaning": "common; commonplace"
       }
     ]
   },
@@ -15065,11 +19319,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "はっきりしない",
     "meaning_en": "vague; ambiguous",
-    "explanation": "正解は「はっきりしない」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "曖",
+        "onyomi": "アイ",
+        "kunyomi": "くらい",
+        "meaning": "Dark, Not Clear"
+      },
+      {
+        "kanji": "昧",
+        "onyomi": "マイ・バイ",
+        "kunyomi": "くらい・むさぼる",
+        "meaning": "Dark, Foolish"
+      }
+    ],
     "similar": [
       {
-        "term": "あいまい",
-        "reading": "",
+        "term": "曖昧",
+        "reading": "あいまい",
         "meaning": "vague; ambiguous"
       },
       {
@@ -15110,28 +19378,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "明確な",
-    "meaning_en": "Meaning: 明確な",
-    "explanation": "正解は「明確な」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "的",
+        "onyomi": "テキ",
+        "kunyomi": "まと",
+        "meaning": "Bull's Eye, Mark, Target"
+      },
+      {
+        "kanji": "確",
+        "onyomi": "カク・コウ",
+        "kunyomi": "たしか・たしかめる",
+        "meaning": "Assurance, Firm, Tight"
+      }
+    ],
     "similar": [
       {
-        "term": "的確な",
-        "reading": "てきかくな",
-        "meaning": ""
+        "term": "目的",
+        "reading": "もくてき",
+        "meaning": "purpose; goal"
       },
       {
-        "term": "詳細な",
-        "reading": "しょうさいな",
-        "meaning": ""
+        "term": "積極的",
+        "reading": "せっきょくてき",
+        "meaning": "positive; active"
       },
       {
-        "term": "はっきりしない",
-        "reading": "はっきりしない",
-        "meaning": ""
+        "term": "比較的",
+        "reading": "ひかくてき",
+        "meaning": "comparatively; relatively"
       },
       {
-        "term": "優しい",
-        "reading": "やさしい",
-        "meaning": "kind"
+        "term": "確か",
+        "reading": "たしか",
+        "meaning": "definite"
+      },
+      {
+        "term": "明確",
+        "reading": "めいかく",
+        "meaning": "clear up; clarify"
       }
     ]
   },
@@ -15156,28 +19443,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "不必要な",
-    "meaning_en": "Meaning: 不必要な",
-    "explanation": "正解は「不必要な」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "余",
+        "onyomi": "ヨ",
+        "kunyomi": "あまる・あまり・あます・あんまり",
+        "meaning": "Too Much, Myself, Surplus"
+      },
+      {
+        "kanji": "計",
+        "onyomi": "ケイ",
+        "kunyomi": "はかる・はからう",
+        "meaning": "Plot, Plan, Scheme"
+      }
+    ],
     "similar": [
       {
-        "term": "余計な",
-        "reading": "よけいな",
-        "meaning": ""
+        "term": "余り",
+        "reading": "あまり",
+        "meaning": "not very (used as adverb); not much"
       },
       {
-        "term": "面倒な",
-        "reading": "めんどうな",
-        "meaning": ""
+        "term": "余分",
+        "reading": "よぶん",
+        "meaning": "extra; excess"
       },
       {
-        "term": "適当な",
-        "reading": "てきとうな",
-        "meaning": ""
+        "term": "余裕",
+        "reading": "よゆう",
+        "meaning": "surplus; composure"
       },
       {
-        "term": "ばかな",
-        "reading": "ばかな",
-        "meaning": ""
+        "term": "時計",
+        "reading": "とけい",
+        "meaning": "watch; clock"
+      },
+      {
+        "term": "計画",
+        "reading": "けいかくする",
+        "meaning": "to plan"
       }
     ]
   },
@@ -15202,28 +19508,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "危険な",
-    "meaning_en": "Meaning: 危険な",
-    "explanation": "正解は「危険な」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "物",
+        "onyomi": "ブツ・モツ",
+        "kunyomi": "もの・もの-",
+        "meaning": "Thing, Object, Matter"
+      },
+      {
+        "kanji": "騒",
+        "onyomi": "ソウ",
+        "kunyomi": "さわぐ・うれい・さわがしい",
+        "meaning": "Boisterous, Make Noise, Clamor"
+      }
+    ],
     "similar": [
       {
-        "term": "物騒な",
-        "reading": "ぶっそうな",
-        "meaning": ""
+        "term": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
       },
       {
-        "term": "うるさい",
-        "reading": "",
-        "meaning": "noisy; loud"
+        "term": "建物",
+        "reading": "たてもの",
+        "meaning": "building"
       },
       {
-        "term": "忙しい",
-        "reading": "いそがしい",
-        "meaning": "busy; irritated"
+        "term": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit"
       },
       {
-        "term": "冷たい",
-        "reading": "つめたい",
-        "meaning": "cold to the touch"
+        "term": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "to make noise; to be excited"
+      },
+      {
+        "term": "騒ぎ",
+        "reading": "さわぎ",
+        "meaning": "uproar; disturbance"
       }
     ]
   },
@@ -15248,28 +19573,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "厳 しい",
-    "meaning_en": "Meaning: 厳 しい",
-    "explanation": "正解は「厳 しい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "深",
+        "onyomi": "シン",
+        "kunyomi": "ふかい・-ぶかい・ふかまる・ふかめる・み-",
+        "meaning": "Deep, Heighten, Intensify"
+      },
+      {
+        "kanji": "刻",
+        "onyomi": "コク",
+        "kunyomi": "きざむ・きざみ",
+        "meaning": "Engrave, Cut Fine, Chop"
+      }
+    ],
     "similar": [
       {
-        "term": "深刻な",
-        "reading": "しんこくな",
-        "meaning": ""
+        "term": "深い",
+        "reading": "ふかい",
+        "meaning": "deep"
       },
       {
-        "term": "眠そうな",
-        "reading": "ねむそうな",
-        "meaning": ""
+        "term": "深刻",
+        "reading": "しんこく",
+        "meaning": "serious"
       },
       {
-        "term": "よゆうな",
-        "reading": "よゆうな",
-        "meaning": ""
+        "term": "深まる",
+        "reading": "ふかまる",
+        "meaning": "to deepen; to heighten"
       },
       {
-        "term": "うれしそうな",
-        "reading": "うれしそうな",
-        "meaning": ""
+        "term": "時刻",
+        "reading": "じこく",
+        "meaning": "instant; time"
+      },
+      {
+        "term": "遅刻",
+        "reading": "ちこく",
+        "meaning": "lateness; late coming"
       }
     ]
   },
@@ -15294,28 +19638,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "おだやかな",
-    "meaning_en": "Meaning: おだやかな",
-    "explanation": "正解は「おだやかな」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "円",
+        "onyomi": "エン",
+        "kunyomi": "まるい・まる・まど・まどか・まろやか",
+        "meaning": "Circle, Yen, Round"
+      },
+      {
+        "kanji": "満",
+        "onyomi": "マン・バン",
+        "kunyomi": "みちる・みつ・みたす",
+        "meaning": "Full, Fullness, Enough"
+      }
+    ],
     "similar": [
       {
-        "term": "円満な",
-        "reading": "えんまんな",
-        "meaning": ""
+        "term": "丸い/円い",
+        "reading": "まるい",
+        "meaning": "round; circular"
       },
       {
-        "term": "大切な",
-        "reading": "たいせつな",
-        "meaning": ""
+        "term": "丸い; 円い",
+        "reading": "まるい",
+        "meaning": "round, circular"
       },
       {
-        "term": "おもしろい",
-        "reading": "",
-        "meaning": "interesting"
+        "term": "円い",
+        "reading": "まるい",
+        "meaning": "round; circular"
       },
       {
-        "term": "厳しい",
-        "reading": "きびしい",
-        "meaning": "strict"
+        "term": "不満",
+        "reading": "ふまん",
+        "meaning": "dissatisfaction; displeasure"
+      },
+      {
+        "term": "満ちる",
+        "reading": "みちる",
+        "meaning": "to be full; to rise (tide)"
       }
     ]
   },
@@ -15340,28 +19703,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "りっぱな",
-    "meaning_en": "Meaning: りっぱな",
-    "explanation": "正解は「りっぱな」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "見",
+        "onyomi": "ケン",
+        "kunyomi": "みる・みえる・みせる",
+        "meaning": "See, Hopes, Chances"
+      },
+      {
+        "kanji": "事",
+        "onyomi": "ジ・ズ",
+        "kunyomi": "こと・つかう・つかえる",
+        "meaning": "Matter, Thing, Fact"
+      }
+    ],
     "similar": [
       {
-        "term": "見事な",
-        "reading": "みごとな",
-        "meaning": ""
+        "term": "見せる",
+        "reading": "みせる",
+        "meaning": "to show"
       },
       {
-        "term": "あたらしい",
-        "reading": "",
-        "meaning": "新しい[a]new"
+        "term": "見る 観る",
+        "reading": "みる",
+        "meaning": "to see; to watch"
       },
       {
-        "term": "ひどい",
-        "reading": "",
-        "meaning": "awful"
+        "term": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "calling on someone who is ill; enquiry"
       },
       {
-        "term": "さんざんな",
-        "reading": "さんざんな",
-        "meaning": ""
+        "term": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
+      },
+      {
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
       }
     ]
   },
@@ -15386,14 +19768,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かわいそうな",
-    "meaning_en": "Meaning: かわいそうな",
-    "explanation": "正解は「かわいそうな」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "あわれな",
-        "reading": "あわれな",
-        "meaning": ""
-      },
       {
         "term": "汚い",
         "reading": "きたない",
@@ -15432,14 +19810,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "小さい",
-    "meaning_en": "Meaning: 小さい",
-    "explanation": "正解は「小さい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "わずかな",
-        "reading": "わずかな",
-        "meaning": ""
-      },
       {
         "term": "特別な",
         "reading": "とくべつな",
@@ -15479,13 +19853,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ゆっくりしたい",
     "meaning_en": "carefree; at leisure",
-    "explanation": "正解は「ゆっくりしたい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のんびり",
-        "reading": "のんびり",
-        "meaning": "carefree; at leisure"
-      },
       {
         "term": "眠りたい",
         "reading": "ねむりたい",
@@ -15525,13 +19895,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "とても",
     "meaning_en": "余程[ad]very",
-    "explanation": "正解は「とても」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "よほど",
-        "reading": "",
-        "meaning": "余程[ad]very"
-      },
       {
         "term": "ちょっと",
         "reading": "",
@@ -15570,28 +19936,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "止まらずに",
-    "meaning_en": "Meaning: 止まらずに",
-    "explanation": "正解は「止まらずに」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "着",
+        "onyomi": "チャク・ジャク",
+        "kunyomi": "きる・-ぎ・きせる・-きせ・つく・つける",
+        "meaning": "Don, Arrive, Wear"
+      }
+    ],
     "similar": [
       {
-        "term": "着々と",
-        "reading": "ちゃくちゃくと",
-        "meaning": ""
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
       },
       {
-        "term": "にぎやかに",
-        "reading": "にぎやかに",
-        "meaning": ""
+        "term": "着く",
+        "reading": "つく",
+        "meaning": "to arrive at"
       },
       {
-        "term": "ゆっくりと",
-        "reading": "",
-        "meaning": "slowly"
-      },
-      {
-        "term": "こっそりと",
-        "reading": "こっそりと",
-        "meaning": ""
+        "term": "着る",
+        "reading": "きる",
+        "meaning": "to put on from the shoulders down"
       }
     ]
   },
@@ -15617,27 +19986,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "たぶん",
     "meaning_en": "perhaps",
-    "explanation": "正解は「たぶん」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "恐",
+        "onyomi": "キョウ",
+        "kunyomi": "おそれる・おそる・おそろしい・こわい・こわがる",
+        "meaning": "Fear, Dread, Awe"
+      }
+    ],
     "similar": [
       {
-        "term": "おそらく",
-        "reading": "",
-        "meaning": "perhaps"
+        "term": "恐れる",
+        "reading": "おそれる",
+        "meaning": "to fear; to be afraid of"
       },
       {
-        "term": "ほぼ",
-        "reading": "",
-        "meaning": "almost; roughly"
+        "term": "恐ろしい",
+        "reading": "おそろしい",
+        "meaning": "terrible; dreadful"
       },
       {
-        "term": "絶対",
-        "reading": "ぜったい",
-        "meaning": "absolute; unconditional"
-      },
-      {
-        "term": "ぎりぎり",
-        "reading": "",
-        "meaning": "with gnashing sound"
+        "term": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "be afraid; dread"
       }
     ]
   },
@@ -15663,27 +20035,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しばらく",
     "meaning_en": "for the present; for the time being",
-    "explanation": "正解は「しばらく」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      },
+      {
+        "kanji": "分",
+        "onyomi": "ブン・フン・ブ",
+        "kunyomi": "わける・わけ・わかれる・わかる・わかつ",
+        "meaning": "Part, Minute Of Time, Segment"
+      }
+    ],
     "similar": [
       {
-        "term": "当分",
-        "reading": "とうぶん",
-        "meaning": "for the present; for the time being"
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
       },
       {
-        "term": "ずっと",
-        "reading": "ずっと",
-        "meaning": "consecutively; throughout"
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       },
       {
-        "term": "今だけ",
-        "reading": "いまだけ",
-        "meaning": ""
+        "term": "弁当",
+        "reading": "べんとう",
+        "meaning": "box lunch"
       },
       {
-        "term": "一応",
-        "reading": "いちおう",
-        "meaning": "once; tentatively"
+        "term": "分かる",
+        "reading": "わかる",
+        "meaning": "to be understood"
+      },
+      {
+        "term": "半分",
+        "reading": "はんぶん",
+        "meaning": "half minute"
       }
     ]
   },
@@ -15709,27 +20100,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "全ての",
     "meaning_en": "all; every",
-    "explanation": "正解は「全ての」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "凡",
+        "onyomi": "ボン・ハン",
+        "kunyomi": "およそ・おうよそ・すべて",
+        "meaning": "Commonplace, Ordinary, Mediocre"
+      }
+    ],
     "similar": [
       {
-        "term": "あらゆる",
-        "reading": "",
-        "meaning": "all; every"
+        "term": "大凡",
+        "reading": "おおよそ",
+        "meaning": "about; roughly"
       },
       {
-        "term": "意外な",
-        "reading": "いがいな",
-        "meaning": ""
+        "term": "平凡",
+        "reading": "へいぼん",
+        "meaning": "common; commonplace"
       },
       {
-        "term": "自分なりの",
-        "reading": "じぶんなりの",
-        "meaning": ""
-      },
-      {
-        "term": "特別な",
-        "reading": "とくべつな",
-        "meaning": ""
+        "term": "凡そ",
+        "reading": "およそ",
+        "meaning": "about; roughly"
       }
     ]
   },
@@ -15755,27 +20149,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "思ったより",
     "meaning_en": "unexpectedly",
-    "explanation": "正解は「思ったより」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "案",
+        "onyomi": "アン",
+        "kunyomi": "つくえ",
+        "meaning": "Plan, Suggestion, Draft"
+      },
+      {
+        "kanji": "外",
+        "onyomi": "ガイ・ゲ",
+        "kunyomi": "そと・ほか・はずす・はずれる・と-",
+        "meaning": "Outside"
+      }
+    ],
     "similar": [
       {
-        "term": "案外",
-        "reading": "あんがい",
-        "meaning": "unexpectedly"
+        "term": "案内",
+        "reading": "あんないする",
+        "meaning": "to guide"
       },
       {
-        "term": "まあまあ",
-        "reading": "まあまあ",
-        "meaning": "so-so"
+        "term": "提案",
+        "reading": "ていあん",
+        "meaning": "proposal; proposition"
       },
       {
-        "term": "いつもより",
-        "reading": "いつもより",
-        "meaning": ""
+        "term": "答案",
+        "reading": "とうあん",
+        "meaning": "examination paper; examination script"
       },
       {
-        "term": "他より",
-        "reading": "ほかより",
-        "meaning": ""
+        "term": "外国",
+        "reading": "がいこく",
+        "meaning": "foreign country"
+      },
+      {
+        "term": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
       }
     ]
   },
@@ -15801,27 +20214,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "偶然",
     "meaning_en": "偶偶[ad]accidentally",
-    "explanation": "正解は「偶然」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "偶",
+        "onyomi": "グウ",
+        "kunyomi": "たま",
+        "meaning": "Accidentally, Even Number, Couple"
+      }
+    ],
     "similar": [
       {
-        "term": "たまたま",
-        "reading": "",
-        "meaning": "偶偶[ad]accidentally"
+        "term": "偶々",
+        "reading": "たまたま",
+        "meaning": "casually; unexpectedly"
       },
       {
-        "term": "約束して",
-        "reading": "やくそくして",
-        "meaning": ""
+        "term": "偶然",
+        "reading": "ぐうぜん",
+        "meaning": "(by) chance; unexpectedly"
       },
       {
-        "term": "待ち合わせて",
-        "reading": "まちあわせて",
-        "meaning": ""
-      },
-      {
-        "term": "たまに",
-        "reading": "",
-        "meaning": "occasionally"
+        "term": "偶数",
+        "reading": "ぐうすう",
+        "meaning": "even number"
       }
     ]
   },
@@ -15847,27 +20263,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "つまり",
     "meaning_en": "in a word; after all",
-    "explanation": "正解は「つまり」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "要",
+        "onyomi": "ヨウ",
+        "kunyomi": "いる・かなめ",
+        "meaning": "Need, Main Point, Essence"
+      }
+    ],
     "similar": [
       {
-        "term": "要するに",
-        "reading": "ようするに",
-        "meaning": "in a word; after all"
+        "term": "要る",
+        "reading": "いる",
+        "meaning": "to need"
       },
       {
-        "term": "実は",
-        "reading": "じつは",
-        "meaning": "as a matter of fact; by the way"
+        "term": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
       },
       {
-        "term": "当然",
-        "reading": "とうぜん",
-        "meaning": "obvious; natural"
-      },
-      {
-        "term": "たぶん",
-        "reading": "",
-        "meaning": "probably"
+        "term": "主要",
+        "reading": "しゅよう",
+        "meaning": "chief; main"
       }
     ]
   },
@@ -15893,11 +20312,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "何度も",
     "meaning_en": "often; again and again",
-    "explanation": "正解は「何度も」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "屡",
+        "onyomi": "ル",
+        "kunyomi": "しばしば",
+        "meaning": "Often, Frequently"
+      }
+    ],
     "similar": [
       {
-        "term": "しばしば",
-        "reading": "",
+        "term": "屡々",
+        "reading": "しばしば",
         "meaning": "often; again and again"
       },
       {
@@ -15939,13 +20366,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "安心",
     "meaning_en": "feel relieved",
-    "explanation": "正解は「安心」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ほっと",
-        "reading": "ほっと",
-        "meaning": "feel relieved"
-      },
       {
         "term": "感心",
         "reading": "かんしん",
@@ -15985,13 +20408,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "偶然",
     "meaning_en": "with a clash (thud); with a bang",
-    "explanation": "正解は「偶然」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ばったり",
-        "reading": "",
-        "meaning": "with a clash (thud); with a bang"
-      },
       {
         "term": "突然",
         "reading": "とつぜん",
@@ -16031,13 +20450,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "あわてても",
     "meaning_en": "strugglingly",
-    "explanation": "正解は「あわてても」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "じたばた",
-        "reading": "",
-        "meaning": "strugglingly"
-      },
       {
         "term": "走っても",
         "reading": "はしっても",
@@ -16077,13 +20492,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "心配",
     "meaning_en": "feel nervous",
-    "explanation": "正解は「心配」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "はらはら",
-        "reading": "",
-        "meaning": "feel nervous"
-      },
       {
         "term": "苦労",
         "reading": "くろう",
@@ -16123,13 +20534,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "だいたい",
     "meaning_en": "roughly; in round numbers",
-    "explanation": "正解は「だいたい」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ざっと",
-        "reading": "ざっと",
-        "meaning": "roughly; in round numbers"
-      },
       {
         "term": "なるべく",
         "reading": "",
@@ -16169,13 +20576,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "過程",
     "meaning_en": "process",
-    "explanation": "正解は「過程」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "プロセス",
-        "reading": "プロセス",
-        "meaning": "process"
-      },
       {
         "term": "要点",
         "reading": "ようてん",
@@ -16215,13 +20618,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ふんいき",
     "meaning_en": "mood",
-    "explanation": "正解は「ふんいき」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ムード",
-        "reading": "ムード",
-        "meaning": "mood"
-      },
       {
         "term": "環境",
         "reading": "かんきょう",
@@ -16261,13 +20660,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "夜の試合",
     "meaning_en": "game under lights (e.g. baseball) (lit: nighter); night game",
-    "explanation": "正解は「夜の試合」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ナイター",
-        "reading": "ナイター",
-        "meaning": "game under lights (e.g. baseball) (lit: nighter); night game"
-      },
       {
         "term": "夜の市場",
         "reading": "よるのしじょう",
@@ -16307,13 +20702,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "空間",
     "meaning_en": "space",
-    "explanation": "正解は「空間」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "スペース",
-        "reading": "スペース",
-        "meaning": "space"
-      },
       {
         "term": "時間",
         "reading": "じかん",
@@ -16352,14 +20743,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "新鮮 な",
-    "meaning_en": "Meaning: 新鮮 な",
-    "explanation": "正解は「新鮮 な」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "フレッシュな",
-        "reading": "ふれっしゅな",
-        "meaning": ""
-      },
       {
         "term": "多様な",
         "reading": "たような",
@@ -16399,12 +20786,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "長い冬がおわり、やっと春が到着した。",
     "meaning_en": "arrival",
-    "explanation": "正解は「長い冬がおわり、やっと春が到着した。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "到",
+        "onyomi": "トウ",
+        "kunyomi": "いたる",
+        "meaning": "Arrival, Proceed, Reach"
+      },
+      {
+        "kanji": "着",
+        "onyomi": "チャク・ジャク",
+        "kunyomi": "きる・-ぎ・きせる・-きせ・つく・つける",
+        "meaning": "Don, Arrive, Wear"
+      }
+    ],
     "similar": [
       {
-        "term": "到着",
-        "reading": "とうちゃく",
-        "meaning": "arrival"
+        "term": "到底",
+        "reading": "とうてい",
+        "meaning": "(cannot) possibly"
+      },
+      {
+        "term": "到達",
+        "reading": "とうたつ",
+        "meaning": "reaching; attaining"
+      },
+      {
+        "term": "到来",
+        "reading": "とうらい",
+        "meaning": "arrival; coming"
+      },
+      {
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
+      },
+      {
+        "term": "着く",
+        "reading": "つく",
+        "meaning": "to arrive at"
       }
     ]
   },
@@ -16430,12 +20851,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "夫に愛着がいることがわかり、離婚することになった。",
     "meaning_en": "attachment (esp. to things); love",
-    "explanation": "正解は「夫に愛着がいることがわかり、離婚することになった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "愛",
+        "onyomi": "アイ",
+        "kunyomi": "いとしい・かなしい・めでる・おしむ・まな",
+        "meaning": "Love, Affection, Favourite"
+      },
+      {
+        "kanji": "着",
+        "onyomi": "チャク・ジャク",
+        "kunyomi": "きる・-ぎ・きせる・-きせ・つく・つける",
+        "meaning": "Don, Arrive, Wear"
+      }
+    ],
     "similar": [
       {
-        "term": "愛着",
-        "reading": "あいちゃく",
-        "meaning": "attachment (esp. to things); love"
+        "term": "可愛そう",
+        "reading": "かわいそう",
+        "meaning": "poor, pitiable, pathetic"
+      },
+      {
+        "term": "愛する",
+        "reading": "あいする",
+        "meaning": "to love"
+      },
+      {
+        "term": "愛情",
+        "reading": "あいじょう",
+        "meaning": "love; affection"
+      },
+      {
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
+      },
+      {
+        "term": "着く",
+        "reading": "つく",
+        "meaning": "to arrive at"
       }
     ]
   },
@@ -16461,17 +20916,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "いつも私の手を握ってくれた、父の大手 を思い出す。",
     "meaning_en": "major company; big company",
-    "explanation": "正解は「いつも私の手を握ってくれた、父の大手 を思い出す。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "大手",
-        "reading": "おおて",
-        "meaning": "major company; big company"
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
       },
       {
-        "term": "大手企業",
-        "reading": "おおてきぎょう",
-        "meaning": "big corporation; major firm"
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      }
+    ],
+    "similar": [
+      {
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
+      },
+      {
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
+      },
+      {
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
+      },
+      {
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       }
     ]
   },
@@ -16497,12 +20981,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "家を建てるときは、強い生地を作らなければならない。",
     "meaning_en": "birthplace",
-    "explanation": "正解は「家を建てるときは、強い生地を作らなければならない。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      },
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      }
+    ],
     "similar": [
       {
-        "term": "生地",
-        "reading": "きじ",
-        "meaning": "birthplace"
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
+      },
+      {
+        "term": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
+      },
+      {
+        "term": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
+      },
+      {
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
+      },
+      {
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       }
     ]
   },
@@ -16528,12 +21046,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "事故 の現地には人がたくさん集まっていて、警察官が取り調べを行っていた。",
     "meaning_en": "actual place; local",
-    "explanation": "正解は「事故 の現地には人がたくさん集まっていて、警察官が取り調べを行っていた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "現",
+        "onyomi": "ゲン",
+        "kunyomi": "あらわれる・あらわす・うつつ・うつつ",
+        "meaning": "Present, Existing, Actual"
+      },
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      }
+    ],
     "similar": [
       {
-        "term": "現地",
-        "reading": "げんち",
-        "meaning": "actual place; local"
+        "term": "実現",
+        "reading": "じつげん",
+        "meaning": "implementation; materialization"
+      },
+      {
+        "term": "現す",
+        "reading": "あらわす",
+        "meaning": "to show; to indicate"
+      },
+      {
+        "term": "現れ",
+        "reading": "あらわれ",
+        "meaning": "embodiment; materialization"
+      },
+      {
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
+      },
+      {
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       }
     ]
   },
@@ -16559,12 +21111,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "会社の作法を破ることは、社員として許されることではない。",
     "meaning_en": "manners; etiquette",
-    "explanation": "正解は「会社の作法を破ることは、社員として許されることではない。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "作",
+        "onyomi": "サク・サ",
+        "kunyomi": "つくる・つくり・-づくり",
+        "meaning": "Make, Production, Prepare"
+      },
+      {
+        "kanji": "法",
+        "onyomi": "ホウ・ハッ・ホッ・フラン",
+        "kunyomi": "のり",
+        "meaning": "Method, Law, Rule"
+      }
+    ],
     "similar": [
       {
-        "term": "作法",
-        "reading": "さほう",
-        "meaning": "manners; etiquette"
+        "term": "作る",
+        "reading": "つくる",
+        "meaning": "to make"
+      },
+      {
+        "term": "作文",
+        "reading": "さくぶん",
+        "meaning": "composition; writing"
+      },
+      {
+        "term": "作品",
+        "reading": "さくひん",
+        "meaning": "work; opus"
+      },
+      {
+        "term": "文法",
+        "reading": "ぶんぽう",
+        "meaning": "grammar"
+      },
+      {
+        "term": "法律",
+        "reading": "ほうりつ",
+        "meaning": "law"
       }
     ]
   },
@@ -16590,12 +21176,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "会議の日時変更について、先方に連絡を入れて許可をもらった。",
     "meaning_en": "other party; other side",
-    "explanation": "正解は「会議の日時変更について、先方に連絡を入れて許可をもらった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "先",
+        "onyomi": "セン",
+        "kunyomi": "さき・まず",
+        "meaning": "Before, Ahead, Previous"
+      },
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      }
+    ],
     "similar": [
       {
-        "term": "先方",
-        "reading": "せんぽう",
-        "meaning": "other party; other side"
+        "term": "先月",
+        "reading": "せんげつ",
+        "meaning": "last month"
+      },
+      {
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
+      },
+      {
+        "term": "先週",
+        "reading": "せんしゅう",
+        "meaning": "last week"
+      },
+      {
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       }
     ]
   },
@@ -16621,17 +21241,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "できるだけ性能が高く、性格が良い人を雇いたいと思っている。",
     "meaning_en": "ability; efficiency",
-    "explanation": "正解は「できるだけ性能が高く、性格が良い人を雇いたいと思っている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "性能",
-        "reading": "せいのう",
-        "meaning": "ability; efficiency"
+        "kanji": "性",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "さが",
+        "meaning": "Sex, Gender, Nature"
       },
       {
-        "term": "高性能",
-        "reading": "こうせいのう",
-        "meaning": "high efficiency; high performance"
+        "kanji": "能",
+        "onyomi": "ノウ",
+        "kunyomi": "よく",
+        "meaning": "Ability, Talent, Skill"
+      }
+    ],
+    "similar": [
+      {
+        "term": "女性",
+        "reading": "じょせい",
+        "meaning": "woman"
+      },
+      {
+        "term": "男性",
+        "reading": "だんせい",
+        "meaning": "male"
+      },
+      {
+        "term": "性格",
+        "reading": "せいかく",
+        "meaning": "character; personality"
+      },
+      {
+        "term": "可能",
+        "reading": "かのう",
+        "meaning": "possible; practicable"
+      },
+      {
+        "term": "才能",
+        "reading": "さいのう",
+        "meaning": "talent; ability"
       }
     ]
   },
@@ -16657,12 +21306,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "私は昔から手元が器用で、だいたいのものは自分で作ることができる。",
     "meaning_en": "on hand; at hand",
-    "explanation": "正解は「私は昔から手元が器用で、だいたいのものは自分で作ることができる。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "元",
+        "onyomi": "ゲン・ガン",
+        "kunyomi": "もと",
+        "meaning": "Beginning, Former Time, Origin"
+      }
+    ],
     "similar": [
       {
-        "term": "手元",
-        "reading": "てもと",
-        "meaning": "on hand; at hand"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "お元気で",
+        "reading": "おげんきで",
+        "meaning": "Take care'"
       }
     ]
   },
@@ -16688,22 +21371,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "映画館の席に座ったら、人前に背の高い人が座っていたので画面が見えにくかった。",
     "meaning_en": "portion of food",
-    "explanation": "正解は「映画館の席に座ったら、人前に背の高い人が座っていたので画面が見えにくかった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "人",
+        "onyomi": "ジン・ニン",
+        "kunyomi": "ひと・-り・-と",
+        "meaning": "Person"
+      },
+      {
+        "kanji": "前",
+        "onyomi": "ゼン",
+        "kunyomi": "まえ・-まえ",
+        "meaning": "In Front, Before"
+      }
+    ],
     "similar": [
       {
-        "term": "人前",
-        "reading": "にんまえ",
-        "meaning": "portion of food"
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "一人前",
-        "reading": "いちにんまえ",
-        "meaning": "one portion; one serving"
+        "term": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
       },
       {
-        "term": "二人前",
-        "reading": "ににんまえ",
-        "meaning": "for two people; (work) of two"
+        "term": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
+      },
+      {
+        "term": "午前",
+        "reading": "ごぜん",
+        "meaning": "morning"
+      },
+      {
+        "term": "名前",
+        "reading": "なまえ",
+        "meaning": "name"
       }
     ]
   },
@@ -16729,12 +21436,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "仕事が終わって家に帰ってきてから手間のかかる料理を作るのは面倒だ。",
     "meaning_en": "time; labour",
-    "explanation": "正解は「仕事が終わって家に帰ってきてから手間のかかる料理を作るのは面倒だ。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "間",
+        "onyomi": "カン・ケン",
+        "kunyomi": "あいだ・ま・あい",
+        "meaning": "Interval, Space"
+      }
+    ],
     "similar": [
       {
-        "term": "手間",
-        "reading": "てま",
-        "meaning": "time; labour"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "term": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime; during the day"
       }
     ]
   },
@@ -16760,22 +21501,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "大きな教室の真ん中に障害 を立てて、部屋を二つに分ける。",
     "meaning_en": "obstacle; impediment (fault)",
-    "explanation": "正解は「大きな教室の真ん中に障害 を立てて、部屋を二つに分ける。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "障",
+        "onyomi": "ショウ",
+        "kunyomi": "さわる",
+        "meaning": "Hinder, Hurt, Harm"
+      },
+      {
+        "kanji": "害",
+        "onyomi": "ガイ",
+        "kunyomi": "-",
+        "meaning": "Harm, Injury"
+      }
+    ],
     "similar": [
       {
-        "term": "障害",
-        "reading": "しょうがい",
-        "meaning": "obstacle; impediment (fault)"
+        "term": "故障",
+        "reading": "こしょうする",
+        "meaning": "to break-down"
       },
       {
-        "term": "精神障害",
-        "reading": "せいしんしょうがい",
-        "meaning": "mental disorder; mental disability"
+        "term": "障子",
+        "reading": "しょうじ",
+        "meaning": "paper sliding door"
       },
       {
-        "term": "障害者",
-        "reading": "しょうがいしゃ",
-        "meaning": "disabled person; person with a (physical or mental) disability"
+        "term": "保障",
+        "reading": "ほしょう",
+        "meaning": "guarantee; security"
+      },
+      {
+        "term": "損害",
+        "reading": "そんがい",
+        "meaning": "damage; injury"
+      },
+      {
+        "term": "被害",
+        "reading": "ひがい",
+        "meaning": "damage"
       }
     ]
   },
@@ -16801,17 +21566,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "同僚 から仕事を押し付けられることに対して、部下が不平を言っている。",
     "meaning_en": "complaint; discontent",
-    "explanation": "正解は「同僚 から仕事を押し付けられることに対して、部下が不平を言っている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "不平",
-        "reading": "ふへい",
-        "meaning": "complaint; discontent"
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
       },
       {
-        "term": "不平等",
-        "reading": "ふびょうどう",
-        "meaning": "inequality; unfairness"
+        "kanji": "平",
+        "onyomi": "ヘイ・ビョウ・ヒョウ",
+        "kunyomi": "たいら・-だいら・ひら・ひら-",
+        "meaning": "Even, Flat, Peace"
+      }
+    ],
+    "similar": [
+      {
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
+      },
+      {
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
+      },
+      {
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
+      },
+      {
+        "term": "公平",
+        "reading": "こうへい",
+        "meaning": "fairness; impartial"
+      },
+      {
+        "term": "地平線",
+        "reading": "ちへいせん",
+        "meaning": "horizon"
       }
     ]
   },
@@ -16837,12 +21631,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "彼は私よりも一年目上だから、いくら仲が良くても敬語で話さなければならない。",
     "meaning_en": "superior(s); senior",
-    "explanation": "正解は「彼は私よりも一年目上だから、いくら仲が良くても敬語で話さなければならない。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      }
+    ],
     "similar": [
       {
-        "term": "目上",
-        "reading": "めうえ",
-        "meaning": "superior(s); senior"
+        "term": "お目に掛",
+        "reading": "おめにかかる",
+        "meaning": ""
+      },
+      {
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
+      },
+      {
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
+      },
+      {
+        "term": "上げる",
+        "reading": "あげる",
+        "meaning": "to give"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       }
     ]
   },
@@ -16868,12 +21696,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しばらく会社を休んでいて仕事のやりがいを忘れてしまったので、同僚 に教えて",
     "meaning_en": "遣り甲斐[n]worthwhile",
-    "explanation": "正解は「しばらく会社を休んでいて仕事のやりがいを忘れてしまったので、同僚 に教えて」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "遣",
+        "onyomi": "ケン",
+        "kunyomi": "つかう・-つかい・-づかい・つかわす・やる",
+        "meaning": "Dispatch, Despatch, Send"
+      },
+      {
+        "kanji": "甲",
+        "onyomi": "コウ・カン",
+        "kunyomi": "きのえ",
+        "meaning": "Armor, High (voice), A Grade"
+      },
+      {
+        "kanji": "斐",
+        "onyomi": "ヒ・イ",
+        "kunyomi": "-",
+        "meaning": "Beautiful, Patterned"
+      }
+    ],
     "similar": [
       {
-        "term": "やりがい",
-        "reading": "",
-        "meaning": "遣り甲斐[n]worthwhile"
+        "term": "仮名遣い",
+        "reading": "かなづかい",
+        "meaning": "kana orthography; syllabary spelling"
+      },
+      {
+        "term": "小遣い",
+        "reading": "こづかい",
+        "meaning": "personal expenses; pocket money"
+      },
+      {
+        "term": "言葉遣い",
+        "reading": "ことばづかい",
+        "meaning": "speech; expression"
+      },
+      {
+        "term": "生き甲斐",
+        "reading": "いきがい",
+        "meaning": "something one lives for, very important"
+      },
+      {
+        "term": "甲乙",
+        "reading": "こうおつ",
+        "meaning": "first and second; A and B"
       }
     ]
   },
@@ -16899,12 +21767,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "上司からの日当たりが強いので、仕事を辞めようと思っている。",
     "meaning_en": "exposure to the sun; sunny place",
-    "explanation": "正解は「上司からの日当たりが強いので、仕事を辞めようと思っている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "日",
+        "onyomi": "ニチ・ジツ",
+        "kunyomi": "ひ・-び・-か",
+        "meaning": "Day, Sun, Japan"
+      },
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      }
+    ],
     "similar": [
       {
-        "term": "日当たり",
-        "reading": "ひあたり",
-        "meaning": "exposure to the sun; sunny place"
+        "term": "一日",
+        "reading": "いちにち",
+        "meaning": "(1) one day; (2) first of month"
+      },
+      {
+        "term": "一昨日",
+        "reading": "おととい",
+        "meaning": "day before yesterday"
+      },
+      {
+        "term": "七日",
+        "reading": "なのか",
+        "meaning": "seven days; the seventh day"
+      },
+      {
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
+      },
+      {
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       }
     ]
   },
@@ -16930,12 +21832,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "成績が優秀 な彼を目当てにして、日々の勉強に取り組む。",
     "meaning_en": "mark; guide",
-    "explanation": "正解は「成績が優秀 な彼を目当てにして、日々の勉強に取り組む。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      }
+    ],
     "similar": [
       {
-        "term": "目当て",
-        "reading": "めあて",
-        "meaning": "mark; guide"
+        "term": "お目に掛",
+        "reading": "おめにかかる",
+        "meaning": ""
+      },
+      {
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
+      },
+      {
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
+      },
+      {
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
+      },
+      {
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       }
     ]
   },
@@ -16961,12 +21897,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "庭が広いので、庭の手入れは専門の人に任せている。",
     "meaning_en": "repairs; maintenance",
-    "explanation": "正解は「庭が広いので、庭の手入れは専門の人に任せている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "手入れ",
-        "reading": "ていれ",
-        "meaning": "repairs; maintenance"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
+      },
+      {
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -16991,13 +21961,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "大学内の全ての段取 りするために、大きな工事が行われた。",
-    "meaning_en": "Meaning: 大学内の全ての段取 りするために、大きな工事が行われた。",
-    "explanation": "正解は「大学内の全ての段取 りするために、大きな工事が行われた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "段",
+        "onyomi": "ダン・タン",
+        "kunyomi": "-",
+        "meaning": "Grade, Steps, Stairs"
+      },
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      }
+    ],
     "similar": [
       {
-        "term": "段取 り",
-        "reading": "だんどり り",
-        "meaning": ""
+        "term": "階段",
+        "reading": "かいだん",
+        "meaning": "stairs"
+      },
+      {
+        "term": "値段",
+        "reading": "ねだん",
+        "meaning": "price; cost"
+      },
+      {
+        "term": "手段",
+        "reading": "しゅだん",
+        "meaning": "means; way"
+      },
+      {
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
+      },
+      {
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
       }
     ]
   },
@@ -17022,13 +22026,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "服を入れてから、洗濯機に洗剤 を手渡ししてください。",
-    "meaning_en": "Meaning: 服を入れてから、洗濯機に洗剤 を手渡ししてください。",
-    "explanation": "正解は「服を入れてから、洗濯機に洗剤 を手渡ししてください。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "渡",
+        "onyomi": "ト",
+        "kunyomi": "わたる・-わたる・わたす",
+        "meaning": "Transit, Ford, Ferry"
+      }
+    ],
     "similar": [
       {
-        "term": "手渡し",
-        "reading": "てわたし",
-        "meaning": ""
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "渡す",
+        "reading": "わたす",
+        "meaning": "to hand over"
+      },
+      {
+        "term": "渡る",
+        "reading": "わたる",
+        "meaning": "to go across"
       }
     ]
   },
@@ -17054,12 +22092,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "仕事帰りに近くのスーパーへ遠回りして、夕飯の材料を買った。",
     "meaning_en": "detour; roundabout way",
-    "explanation": "正解は「仕事帰りに近くのスーパーへ遠回りして、夕飯の材料を買った。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "遠",
+        "onyomi": "エン・オン",
+        "kunyomi": "とおい",
+        "meaning": "Distant, Far"
+      },
+      {
+        "kanji": "回",
+        "onyomi": "カイ・エ",
+        "kunyomi": "まわる・-まわる・-まわり・まわす・-まわす・まわし-・-まわし・もとおる・かえる",
+        "meaning": "-times, Round, Game"
+      }
+    ],
     "similar": [
       {
-        "term": "遠回り",
-        "reading": "とおまわり",
-        "meaning": "detour; roundabout way"
+        "term": "遠い",
+        "reading": "とおい",
+        "meaning": "far"
+      },
+      {
+        "term": "遠く",
+        "reading": "とおく",
+        "meaning": "distant"
+      },
+      {
+        "term": "遠慮",
+        "reading": "えんりょする",
+        "meaning": "to be reserved; to be restrained"
+      },
+      {
+        "term": "回る",
+        "reading": "まわる",
+        "meaning": "to go around"
+      },
+      {
+        "term": "回る、回す",
+        "reading": "まわる、まわす",
+        "meaning": "to go around, to revolve"
       }
     ]
   },
@@ -17084,13 +22156,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "会議は予定よりかなり長くなり、12時に差し入れしても終わらない。",
-    "meaning_en": "Meaning: 会議は予定よりかなり長くなり、12時に差し入れしても終わらない。",
-    "explanation": "正解は「会議は予定よりかなり長くなり、12時に差し入れしても終わらない。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "差",
+        "onyomi": "サ",
+        "kunyomi": "さす・さし",
+        "meaning": "Distinction, Difference, Variation"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "差し入れ",
-        "reading": "さしいれ",
-        "meaning": ""
+        "term": "交差点",
+        "reading": "こうさてん",
+        "meaning": "intersection"
+      },
+      {
+        "term": "差す",
+        "reading": "さす",
+        "meaning": "to stretch out hands; to raise an umbrella"
+      },
+      {
+        "term": "差し上げる",
+        "reading": "さしあげる",
+        "meaning": "(polite) to give"
+      },
+      {
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
+      },
+      {
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -17116,12 +22222,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かつて京都 は長い間、日本の首都として繁盛 していた。",
     "meaning_en": "prosperity; flourishing",
-    "explanation": "正解は「かつて京都 は長い間、日本の首都として繁盛 していた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "繁",
+        "onyomi": "ハン",
+        "kunyomi": "しげる・しげく",
+        "meaning": "Luxuriant, Thick, Overgrown"
+      },
+      {
+        "kanji": "盛",
+        "onyomi": "セイ・ジョウ",
+        "kunyomi": "もる・さかる・さかん",
+        "meaning": "Boom, Prosper, Copulate"
+      }
+    ],
     "similar": [
       {
-        "term": "繁盛",
-        "reading": "はんじょう",
-        "meaning": "prosperity; flourishing"
+        "term": "繁栄",
+        "reading": "はんえい",
+        "meaning": "prospering; prosperity"
+      },
+      {
+        "term": "繁殖",
+        "reading": "はんしょく",
+        "meaning": "breed; multiply"
+      },
+      {
+        "term": "頻繁",
+        "reading": "ひんぱん",
+        "meaning": "frequency"
+      },
+      {
+        "term": "盛ん",
+        "reading": "さかん",
+        "meaning": "popularity; prosperous"
+      },
+      {
+        "term": "盛り",
+        "reading": "さかり",
+        "meaning": "helping; serving"
       }
     ]
   },
@@ -17147,12 +22287,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "返却期限 に遅れると、追加料金が発生いたします。",
     "meaning_en": "outbreak; spring forth",
-    "explanation": "正解は「返却期限 に遅れると、追加料金が発生いたします。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "発",
+        "onyomi": "ハツ・ホツ",
+        "kunyomi": "たつ・あばく・おこる・つかわす・はなつ",
+        "meaning": "Departure, Discharge, Publish"
+      },
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      }
+    ],
     "similar": [
       {
-        "term": "発生",
-        "reading": "はっせい",
-        "meaning": "outbreak; spring forth"
+        "term": "出発",
+        "reading": "しゅっぱつする",
+        "meaning": "to depart"
+      },
+      {
+        "term": "発音",
+        "reading": "はつおん",
+        "meaning": "pronunciation"
+      },
+      {
+        "term": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "explosion; detonation"
+      },
+      {
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
+      },
+      {
+        "term": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
       }
     ]
   },
@@ -17178,12 +22352,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "花火大会のため、明日の10時までこの道路の車の通行を廃止 いたします。",
     "meaning_en": "abolition; repeal",
-    "explanation": "正解は「花火大会のため、明日の10時までこの道路の車の通行を廃止 いたします。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "廃",
+        "onyomi": "ハイ",
+        "kunyomi": "すたれる・すたる",
+        "meaning": "Abolish, Obsolete, Cessation"
+      },
+      {
+        "kanji": "止",
+        "onyomi": "シ",
+        "kunyomi": "とまる・-どまり・とめる・-とめる・-どめ・とどめる・とどめ・とどまる・やめる・やむ・-やむ・よす・-さす・-さし",
+        "meaning": "Stop, Halt"
+      }
+    ],
     "similar": [
       {
-        "term": "廃止",
-        "reading": "はいし",
-        "meaning": "abolition; repeal"
+        "term": "廃れる",
+        "reading": "すたれる",
+        "meaning": "to go out of use; to become obsolete"
+      },
+      {
+        "term": "廃棄",
+        "reading": "はいき",
+        "meaning": "annullment; disposal"
+      },
+      {
+        "term": "荒廃",
+        "reading": "こうはい",
+        "meaning": "ruin"
+      },
+      {
+        "term": "止まる",
+        "reading": "とまる",
+        "meaning": "to come to a halt"
+      },
+      {
+        "term": "止む",
+        "reading": "やむ",
+        "meaning": "to stop"
       }
     ]
   },
@@ -17209,12 +22417,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "会社に最新のパソコンを導入してから、仕事がしやすくなった。",
     "meaning_en": "introduction; bringing in",
-    "explanation": "正解は「会社に最新のパソコンを導入してから、仕事がしやすくなった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "導",
+        "onyomi": "ドウ",
+        "kunyomi": "みちびく",
+        "meaning": "Guidance, Leading, Conduct"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "導入",
-        "reading": "どうにゅう",
-        "meaning": "introduction; bringing in"
+        "term": "指導",
+        "reading": "しどう",
+        "meaning": "leadership; guidance"
+      },
+      {
+        "term": "主導",
+        "reading": "しゅどう",
+        "meaning": "main leadership"
+      },
+      {
+        "term": "導く",
+        "reading": "みちびく",
+        "meaning": "to be guided; to be shown"
+      },
+      {
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
+      },
+      {
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -17240,12 +22482,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "荷物が落ちないように、車の上にしっかりひもで団結した。",
     "meaning_en": "unity; union",
-    "explanation": "正解は「荷物が落ちないように、車の上にしっかりひもで団結した。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "団",
+        "onyomi": "ダン・トン",
+        "kunyomi": "かたまり・まるい",
+        "meaning": "Group, Association"
+      },
+      {
+        "kanji": "結",
+        "onyomi": "ケツ・ケチ",
+        "kunyomi": "むすぶ・ゆう・ゆわえる",
+        "meaning": "Tie, Bind, Contract"
+      }
+    ],
     "similar": [
       {
-        "term": "団結",
-        "reading": "だんけつ",
-        "meaning": "unity; union"
+        "term": "布団",
+        "reading": "ふとん",
+        "meaning": "Japanese bedding; futon"
+      },
+      {
+        "term": "団体",
+        "reading": "だんたい",
+        "meaning": "organization; association"
+      },
+      {
+        "term": "集団",
+        "reading": "しゅうだん",
+        "meaning": "group; mass"
+      },
+      {
+        "term": "結婚",
+        "reading": "けっこん",
+        "meaning": "marriage"
+      },
+      {
+        "term": "結構",
+        "reading": "けっこう",
+        "meaning": "splendid; enough"
       }
     ]
   },
@@ -17271,12 +22547,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "日本語を洗練するために、日本のアニメやドラマを見ている。",
     "meaning_en": "refinement; polish",
-    "explanation": "正解は「日本語を洗練するために、日本のアニメやドラマを見ている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "洗",
+        "onyomi": "セン",
+        "kunyomi": "あらう",
+        "meaning": "Wash, Inquire Into, Probe"
+      },
+      {
+        "kanji": "練",
+        "onyomi": "レン",
+        "kunyomi": "ねる・ねり",
+        "meaning": "Practice, Gloss, Train"
+      }
+    ],
     "similar": [
       {
-        "term": "洗練",
-        "reading": "せんれん",
-        "meaning": "refinement; polish"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "洗う",
+        "reading": "あらう",
+        "meaning": "to wash"
+      },
+      {
+        "term": "洗濯",
+        "reading": "せんたく",
+        "meaning": "washing"
+      },
+      {
+        "term": "練習",
+        "reading": "れんしゅうする",
+        "meaning": "to practice"
+      },
+      {
+        "term": "訓練",
+        "reading": "くんれん",
+        "meaning": "practice; training"
       }
     ]
   },
@@ -17302,12 +22612,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "社長が会議室にお見えですので、焦 って来てください。",
     "meaning_en": "to be in a hurry; to be impatient",
-    "explanation": "正解は「社長が会議室にお見えですので、焦 って来てください。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "焦",
+        "onyomi": "ショウ",
+        "kunyomi": "こげる・こがす・こがれる・あせる",
+        "meaning": "Char, Hurry, Impatient"
+      }
+    ],
     "similar": [
       {
-        "term": "焦る",
-        "reading": "あせる",
-        "meaning": "to be in a hurry; to be impatient"
+        "term": "焦がす",
+        "reading": "こがす",
+        "meaning": "to burn; to scorch"
+      },
+      {
+        "term": "焦げる",
+        "reading": "こげる",
+        "meaning": "to burn; to be burned"
+      },
+      {
+        "term": "焦点",
+        "reading": "しょうてん",
+        "meaning": "focus; point"
       }
     ]
   },
@@ -17333,12 +22661,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "酔っ払っていたせいで、コップからビールが全部湿ってしまった。",
     "meaning_en": "to be wet; to become wet",
-    "explanation": "正解は「酔っ払っていたせいで、コップからビールが全部湿ってしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "湿",
+        "onyomi": "シツ・シュウ",
+        "kunyomi": "しめる・しめす・うるおう・うるおす",
+        "meaning": "Damp, Wet, Moist"
+      }
+    ],
     "similar": [
       {
-        "term": "湿る",
-        "reading": "しめる",
-        "meaning": "to be wet; to become wet"
+        "term": "湿度",
+        "reading": "しつど",
+        "meaning": "level of humidity"
+      },
+      {
+        "term": "湿気",
+        "reading": "しっけ",
+        "meaning": "moisture; humidity"
+      },
+      {
+        "term": "湿気る",
+        "reading": "しける",
+        "meaning": "to be damp; to be moist"
       }
     ]
   },
@@ -17364,17 +22710,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "無職だった私が、会社を立ち上げるに至るまでのお話をいたします。",
     "meaning_en": "to come; to arrive",
-    "explanation": "正解は「無職だった私が、会社を立ち上げるに至るまでのお話をいたします。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "至",
+        "onyomi": "シ",
+        "kunyomi": "いたる",
+        "meaning": "Climax, Arrive, Proceed"
+      }
+    ],
     "similar": [
       {
-        "term": "至る",
-        "reading": "いたる",
-        "meaning": "to come; to arrive"
+        "term": "至急",
+        "reading": "しきゅう",
+        "meaning": "urgent; pressing"
       },
       {
-        "term": "至る所",
-        "reading": "いたるところ",
-        "meaning": "everywhere; all over"
+        "term": "乃至",
+        "reading": "ないし",
+        "meaning": "from...to; between...and"
+      },
+      {
+        "term": "至って",
+        "reading": "いたって",
+        "meaning": "very much; exceedingly"
       }
     ]
   },
@@ -17400,12 +22759,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "昔から泳ぐのが苦手だった私は、海水浴に行ってすぐに潜 ってしまった。",
     "meaning_en": "(1) to drive; to pass through",
-    "explanation": "正解は「昔から泳ぐのが苦手だった私は、海水浴に行ってすぐに潜 ってしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "潜",
+        "onyomi": "セン",
+        "kunyomi": "ひそむ・もぐる・かくれる・くぐる・ひそめる",
+        "meaning": "Submerge, Conceal, Hide"
+      }
+    ],
     "similar": [
       {
-        "term": "潜る",
-        "reading": "もぐる",
-        "meaning": "(1) to drive; to pass through"
+        "term": "潜入",
+        "reading": "せんにゅう",
+        "meaning": "infiltration; sneaking in"
+      },
+      {
+        "term": "潜水",
+        "reading": "せんすい",
+        "meaning": "diving"
+      },
+      {
+        "term": "原潜",
+        "reading": "げんせん",
+        "meaning": "nuclear submarine"
       }
     ]
   },
@@ -17430,13 +22807,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おとなしかった馬が突然暴いて、周りにいた人たちがけがを負ってしまった。",
-    "meaning_en": "Meaning: おとなしかった馬が突然暴いて、周りにいた人たちがけがを負ってしまった。",
-    "explanation": "正解は「おとなしかった馬が突然暴いて、周りにいた人たちがけがを負ってしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "暴",
+        "onyomi": "ボウ・バク",
+        "kunyomi": "あばく・あばれる",
+        "meaning": "Outburst, Rave, Fret"
+      }
+    ],
     "similar": [
       {
-        "term": "暴く",
-        "reading": "あばく",
-        "meaning": ""
+        "term": "乱暴",
+        "reading": "らんぼう",
+        "meaning": "rude; violent"
+      },
+      {
+        "term": "暴れる",
+        "reading": "あばれる",
+        "meaning": "to act violently; to rage"
+      },
+      {
+        "term": "暴力",
+        "reading": "ぼうりょく",
+        "meaning": "violence"
       }
     ]
   },
@@ -17462,12 +22857,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "買ったズボンが少し長くてはきにくいので、母に略してもらった。",
     "meaning_en": "to abbreviate",
-    "explanation": "正解は「買ったズボンが少し長くてはきにくいので、母に略してもらった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "略",
+        "onyomi": "リャク",
+        "kunyomi": "ほぼ・はぶく・おかす・おさめる・はかりごと・はかる",
+        "meaning": "Abbreviation, Omission, Outline"
+      }
+    ],
     "similar": [
       {
-        "term": "略す",
-        "reading": "りゃくす",
-        "meaning": "to abbreviate"
+        "term": "省略",
+        "reading": "しょうりゃく",
+        "meaning": "omission; abbreviation"
+      },
+      {
+        "term": "侵略",
+        "reading": "しんりゃく",
+        "meaning": "aggression; invasion"
+      },
+      {
+        "term": "概略",
+        "reading": "がいりゃく",
+        "meaning": "outline; summary"
       }
     ]
   },
@@ -17492,13 +22905,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "このストーブには、火事を妨 げるための様々な機能が付いている。",
-    "meaning_en": "Meaning: このストーブには、火事を妨 げるための様々な機能が付いている。",
-    "explanation": "正解は「このストーブには、火事を妨 げるための様々な機能が付いている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "妨",
+        "onyomi": "ボウ",
+        "kunyomi": "さまたげる",
+        "meaning": "Disturb, Prevent, Hamper"
+      }
+    ],
     "similar": [
       {
-        "term": "妨 げる",
-        "reading": "ぼう げる",
-        "meaning": ""
+        "term": "妨げる",
+        "reading": "さまたげる",
+        "meaning": "to disturb; to prevent"
+      },
+      {
+        "term": "妨害",
+        "reading": "ぼうがい",
+        "meaning": "disturbance; obstruction"
+      },
+      {
+        "term": "妨げ",
+        "reading": "さまたげ",
+        "meaning": "obstruction; hindrance"
       }
     ]
   },
@@ -17524,12 +22955,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "息子の背がどんどん高まって、ついに私の身長を越した。",
     "meaning_en": "to rise; to swell",
-    "explanation": "正解は「息子の背がどんどん高まって、ついに私の身長を越した。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "高",
+        "onyomi": "コウ",
+        "kunyomi": "たかい・たか・-だか・たかまる・たかめる",
+        "meaning": "Tall, High, Expensive"
+      }
+    ],
     "similar": [
       {
-        "term": "高まる",
-        "reading": "たかまる",
-        "meaning": "to rise; to swell"
+        "term": "高い",
+        "reading": "たかい",
+        "meaning": "tall; expensive"
+      },
+      {
+        "term": "高校",
+        "reading": "こうこう",
+        "meaning": "high school"
+      },
+      {
+        "term": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "high school student"
       }
     ]
   },
@@ -17555,12 +23004,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "少し遅刻したくらいで、そんなに目立たないでください。",
     "meaning_en": "to be conspicuous; to stand out",
-    "explanation": "正解は「少し遅刻したくらいで、そんなに目立たないでください。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "立",
+        "onyomi": "リツ・リュウ・リットル",
+        "kunyomi": "たつ・-たつ・たち-・たてる・-たてる・たて-・たて-・-たて・-だて・-だてる",
+        "meaning": "Stand Up, Rise, Set Up"
+      }
+    ],
     "similar": [
       {
-        "term": "目立つ",
-        "reading": "めだつ",
-        "meaning": "to be conspicuous; to stand out"
+        "term": "お目に掛",
+        "reading": "おめにかかる",
+        "meaning": ""
+      },
+      {
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
+      },
+      {
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
+      },
+      {
+        "term": "立つ",
+        "reading": "たつ",
+        "meaning": "to stand"
+      },
+      {
+        "term": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be helpful"
       }
     ]
   },
@@ -17586,12 +23069,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ずっと気持ちを言えずにいたが、ついに明日彼女に言い切ろうと思っている。",
     "meaning_en": "to declare; to assert",
-    "explanation": "正解は「ずっと気持ちを言えずにいたが、ついに明日彼女に言い切ろうと思っている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "言",
+        "onyomi": "ゲン・ゴン",
+        "kunyomi": "いう・こと",
+        "meaning": "Say, Word"
+      },
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "言い切る",
-        "reading": "いいきる",
-        "meaning": "to declare; to assert"
+        "term": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "term": "言葉",
+        "reading": "ことば",
+        "meaning": "word; language"
+      },
+      {
+        "term": "一言",
+        "reading": "ひとこと",
+        "meaning": "single word"
+      },
+      {
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       }
     ]
   },
@@ -17617,12 +23134,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "この桃 の木は、私が生まれたときに祖母が埋め込んでくれた大切なものです。",
     "meaning_en": "to bury",
-    "explanation": "正解は「この桃 の木は、私が生まれたときに祖母が埋め込んでくれた大切なものです。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "埋",
+        "onyomi": "マイ",
+        "kunyomi": "うめる・うまる・うもれる・うずめる・うずまる・いける",
+        "meaning": "Bury, Be Filled Up, Embedded"
+      },
+      {
+        "kanji": "込",
+        "onyomi": "-",
+        "kunyomi": "-こむ・こむ・こみ・-こみ・こめる",
+        "meaning": "Crowded, Mixture, In Bulk"
+      }
+    ],
     "similar": [
       {
-        "term": "埋め込む",
-        "reading": "うめこむ",
-        "meaning": "to bury"
+        "term": "埋める",
+        "reading": "うめる",
+        "meaning": "to bury; to fill up"
+      },
+      {
+        "term": "埋まる",
+        "reading": "うずまる",
+        "meaning": "to be buried; to be surrounded"
+      },
+      {
+        "term": "埋蔵",
+        "reading": "まいぞう",
+        "meaning": "buried property; treasure trove"
+      },
+      {
+        "term": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "term": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "crowd of people"
       }
     ]
   },
@@ -17648,12 +23199,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ペンがなくなったと思っていたら、ベッドの下に落ち込んでいた。",
     "meaning_en": "to fall into; to feel down (sad)",
-    "explanation": "正解は「ペンがなくなったと思っていたら、ベッドの下に落ち込んでいた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "落",
+        "onyomi": "ラク",
+        "kunyomi": "おちる・おち・おとす",
+        "meaning": "Fall, Drop, Come Down"
+      },
+      {
+        "kanji": "込",
+        "onyomi": "-",
+        "kunyomi": "-こむ・こむ・こみ・-こみ・こめる",
+        "meaning": "Crowded, Mixture, In Bulk"
+      }
+    ],
     "similar": [
       {
-        "term": "落ち込む",
-        "reading": "おちこむ",
-        "meaning": "to fall into; to feel down (sad)"
+        "term": "落す",
+        "reading": "おとす",
+        "meaning": "to drop"
+      },
+      {
+        "term": "落る",
+        "reading": "おちる",
+        "meaning": "to fall or drop"
+      },
+      {
+        "term": "洒落",
+        "reading": "しゃれ",
+        "meaning": "joke; pun"
+      },
+      {
+        "term": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "term": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "crowd of people"
       }
     ]
   },
@@ -17678,13 +23263,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "彼の言うことを信じ込んで、「命の水」という水を高額で買ってしまった。",
-    "meaning_en": "Meaning: 彼の言うことを信じ込んで、「命の水」という水を高額で買ってしまった。",
-    "explanation": "正解は「彼の言うことを信じ込んで、「命の水」という水を高額で買ってしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "信",
+        "onyomi": "シン",
+        "kunyomi": "-",
+        "meaning": "Faith, Truth, Fidelity"
+      },
+      {
+        "kanji": "込",
+        "onyomi": "-",
+        "kunyomi": "-こむ・こむ・こみ・-こみ・こめる",
+        "meaning": "Crowded, Mixture, In Bulk"
+      }
+    ],
     "similar": [
       {
-        "term": "信じ込む",
-        "reading": "しんじこむ",
-        "meaning": ""
+        "term": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe; to place trust in"
+      },
+      {
+        "term": "信仰",
+        "reading": "しんこう",
+        "meaning": "(religious) faith; belief"
+      },
+      {
+        "term": "信号",
+        "reading": "しんごう",
+        "meaning": "traffic lights; signal"
+      },
+      {
+        "term": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "term": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "crowd of people"
       }
     ]
   },
@@ -17710,12 +23329,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "荷物を全て部屋の隅に取り寄せれば、みんな座ることができると思います。",
     "meaning_en": "to order; to send away for",
-    "explanation": "正解は「荷物を全て部屋の隅に取り寄せれば、みんな座ることができると思います。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      },
+      {
+        "kanji": "寄",
+        "onyomi": "キ",
+        "kunyomi": "よる・-より・よせる",
+        "meaning": "Draw Near, Stop In, Bring Near"
+      }
+    ],
     "similar": [
       {
-        "term": "取り寄せる",
-        "reading": "とりよせる",
-        "meaning": "to order; to send away for"
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
+      },
+      {
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
+      },
+      {
+        "term": "取り上げ",
+        "reading": "とりあげる",
+        "meaning": ""
+      },
+      {
+        "term": "寄る",
+        "reading": "よる",
+        "meaning": "to visit"
+      },
+      {
+        "term": "寄付",
+        "reading": "きふ",
+        "meaning": "contribution; donation"
       }
     ]
   },
@@ -17740,13 +23393,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "部長に頼まれた仕事が多くて、終わらせるのに少なく見積もってもあと二時間は",
-    "meaning_en": "Meaning: 部長に頼まれた仕事が多くて、終わらせるのに少なく見積もってもあと二時間は",
-    "explanation": "正解は「部長に頼まれた仕事が多くて、終わらせるのに少なく見積もってもあと二時間は」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "見",
+        "onyomi": "ケン",
+        "kunyomi": "みる・みえる・みせる",
+        "meaning": "See, Hopes, Chances"
+      },
+      {
+        "kanji": "積",
+        "onyomi": "セキ",
+        "kunyomi": "つむ・-づみ・つもる・つもり",
+        "meaning": "Volume, Product (x*y), Acreage"
+      }
+    ],
     "similar": [
       {
-        "term": "見積もる",
-        "reading": "みつもる",
-        "meaning": ""
+        "term": "見せる",
+        "reading": "みせる",
+        "meaning": "to show"
+      },
+      {
+        "term": "見る 観る",
+        "reading": "みる",
+        "meaning": "to see; to watch"
+      },
+      {
+        "term": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "calling on someone who is ill; enquiry"
+      },
+      {
+        "term": "積もる",
+        "reading": "つもる",
+        "meaning": "to pile up"
+      },
+      {
+        "term": "積極的",
+        "reading": "せっきょくてき",
+        "meaning": "positive; active"
       }
     ]
   },
@@ -17772,12 +23459,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "仕事が終わったらスーパーに歩み寄って、ビールとおつまみを買うつもりだ。",
     "meaning_en": "to compromise; to meet halfway",
-    "explanation": "正解は「仕事が終わったらスーパーに歩み寄って、ビールとおつまみを買うつもりだ。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "歩",
+        "onyomi": "ホ・ブ・フ",
+        "kunyomi": "あるく・あゆむ",
+        "meaning": "Walk, Counter For Steps"
+      },
+      {
+        "kanji": "寄",
+        "onyomi": "キ",
+        "kunyomi": "よる・-より・よせる",
+        "meaning": "Draw Near, Stop In, Bring Near"
+      }
+    ],
     "similar": [
       {
-        "term": "歩み寄る",
-        "reading": "あゆみよる",
-        "meaning": "to compromise; to meet halfway"
+        "term": "散歩",
+        "reading": "さんぽする",
+        "meaning": "to stroll"
+      },
+      {
+        "term": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
+      },
+      {
+        "term": "歩道",
+        "reading": "ほどう",
+        "meaning": "footpath; walkway"
+      },
+      {
+        "term": "寄る",
+        "reading": "よる",
+        "meaning": "to visit"
+      },
+      {
+        "term": "寄付",
+        "reading": "きふ",
+        "meaning": "contribution; donation"
       }
     ]
   },
@@ -17803,12 +23524,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "数々の厳しい試合を追い抜いて、ついに決勝戦の舞台に立った。",
     "meaning_en": "to pass (a car); to overtake",
-    "explanation": "正解は「数々の厳しい試合を追い抜いて、ついに決勝戦の舞台に立った。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "追",
+        "onyomi": "ツイ",
+        "kunyomi": "おう",
+        "meaning": "Chase, Drive Away, Follow"
+      },
+      {
+        "kanji": "抜",
+        "onyomi": "バツ・ハツ・ハイ",
+        "kunyomi": "ぬく・-ぬく・ぬき・ぬける・ぬかす・ぬかる",
+        "meaning": "Slip Out, Extract, Pull Out"
+      }
+    ],
     "similar": [
       {
-        "term": "追い抜く",
-        "reading": "おいぬく",
-        "meaning": "to pass (a car); to overtake"
+        "term": "追い付く",
+        "reading": "おいつく",
+        "meaning": "to overtake; to catch up (with)"
+      },
+      {
+        "term": "追う",
+        "reading": "おう",
+        "meaning": "to chase; to run after"
+      },
+      {
+        "term": "追いかける",
+        "reading": "おいかける",
+        "meaning": "to chase or run after someone"
+      },
+      {
+        "term": "抜く",
+        "reading": "ぬく",
+        "meaning": "to extract; to omit"
+      },
+      {
+        "term": "抜ける",
+        "reading": "ぬける",
+        "meaning": "to come out; to fall out"
       }
     ]
   },
@@ -17834,12 +23589,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "自分の名前を呼びかけられたら、大きな声で返事をしてください。",
     "meaning_en": "to call out to; to hail",
-    "explanation": "正解は「自分の名前を呼びかけられたら、大きな声で返事をしてください。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "呼",
+        "onyomi": "コ",
+        "kunyomi": "よぶ",
+        "meaning": "Call, Call Out To, Invite"
+      }
+    ],
     "similar": [
       {
-        "term": "呼びかける",
-        "reading": "よびかける",
-        "meaning": "to call out to; to hail"
+        "term": "呼ぶ",
+        "reading": "よぶ",
+        "meaning": "to call out; to invite"
+      },
+      {
+        "term": "呼吸",
+        "reading": "こきゅう",
+        "meaning": "breath; respiration"
+      },
+      {
+        "term": "呼び出す",
+        "reading": "よびだす",
+        "meaning": "to summon; to call (e.g. phone)"
       }
     ]
   },
@@ -17865,12 +23638,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "遅刻して一時間も待たせてしまうなんて、彼女には本当にずるいことをしてしまった。",
     "meaning_en": "狡い[a]sly",
-    "explanation": "正解は「遅刻して一時間も待たせてしまうなんて、彼女には本当にずるいことをしてしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "狡",
+        "onyomi": "コウ・キョウ",
+        "kunyomi": "ずるい・こすい・わるがしこい",
+        "meaning": "Cunning, Sly, Crafty"
+      }
+    ],
     "similar": [
       {
-        "term": "ずるい",
-        "reading": "",
-        "meaning": "狡い[a]sly"
+        "term": "狡い",
+        "reading": "ずるい",
+        "meaning": "sly; cunning"
       }
     ]
   },
@@ -17896,12 +23677,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "就職してからは騒々しい日々を送っているが、仕事も私生活も充実している。",
     "meaning_en": "noisy; boisterous",
-    "explanation": "正解は「就職してからは騒々しい日々を送っているが、仕事も私生活も充実している。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "騒",
+        "onyomi": "ソウ",
+        "kunyomi": "さわぐ・うれい・さわがしい",
+        "meaning": "Boisterous, Make Noise, Clamor"
+      }
+    ],
     "similar": [
       {
-        "term": "騒々しい",
-        "reading": "そうぞうしい",
-        "meaning": "noisy; boisterous"
+        "term": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "to make noise; to be excited"
+      },
+      {
+        "term": "騒ぎ",
+        "reading": "さわぎ",
+        "meaning": "uproar; disturbance"
+      },
+      {
+        "term": "騒音",
+        "reading": "そうおん",
+        "meaning": "noise"
       }
     ]
   },
@@ -17927,12 +23726,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "大学4年間で書いたレポートを一つにまとめると、厚かましい一冊の本になった。",
     "meaning_en": "impudent; shameless",
-    "explanation": "正解は「大学4年間で書いたレポートを一つにまとめると、厚かましい一冊の本になった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "厚",
+        "onyomi": "コウ",
+        "kunyomi": "あつい・あか",
+        "meaning": "Thick, Heavy, Rich"
+      }
+    ],
     "similar": [
       {
-        "term": "厚かましい",
-        "reading": "あつかましい",
-        "meaning": "impudent; shameless"
+        "term": "厚い",
+        "reading": "あつい",
+        "meaning": "kind; deep"
+      },
+      {
+        "term": "厚さ",
+        "reading": "あつさ",
+        "meaning": "thickness"
+      },
+      {
+        "term": "厚み",
+        "reading": "あつみ",
+        "meaning": "thickness; profundity"
       }
     ]
   },
@@ -17957,13 +23774,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "早朝に散歩するのは、私にとって欠かせない習慣だ。",
-    "meaning_en": "Meaning: 早朝に散歩するのは、私にとって欠かせない習慣だ。",
-    "explanation": "正解は「早朝に散歩するのは、私にとって欠かせない習慣だ。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "欠",
+        "onyomi": "ケツ・ケン",
+        "kunyomi": "かける・かく",
+        "meaning": "Lack, Gap, Fail"
+      }
+    ],
     "similar": [
       {
-        "term": "欠かせない",
-        "reading": "かかせない",
-        "meaning": ""
+        "term": "欠ける",
+        "reading": "かける",
+        "meaning": "to be lacking"
+      },
+      {
+        "term": "欠席",
+        "reading": "けっせき",
+        "meaning": "absence; non-attendance"
+      },
+      {
+        "term": "欠点",
+        "reading": "けってん",
+        "meaning": "faults; defect"
       }
     ]
   },
@@ -17989,12 +23824,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "くだらない話をして仲間と笑い合う時間は、私にとって大切な時間だ。",
     "meaning_en": "good-for-nothing; stupid",
-    "explanation": "正解は「くだらない話をして仲間と笑い合う時間は、私にとって大切な時間だ。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "下",
+        "onyomi": "カ・ゲ",
+        "kunyomi": "した・しも・もと・さげる・さがる・くだる・くだり・くだす・-くだす・くださる・おろす・おりる",
+        "meaning": "Below, Down, Descend"
+      }
+    ],
     "similar": [
       {
-        "term": "くだらない",
-        "reading": "",
-        "meaning": "good-for-nothing; stupid"
+        "term": "下さい",
+        "reading": "ください",
+        "meaning": "(with te-form verb) please do for me"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       }
     ]
   },
@@ -18020,12 +23873,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "のどが乾いていたので、カフェでコーヒーを一方的に飲んでしまった。",
     "meaning_en": "one-sided; unilateral",
-    "explanation": "正解は「のどが乾いていたので、カフェでコーヒーを一方的に飲んでしまった。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      },
+      {
+        "kanji": "的",
+        "onyomi": "テキ",
+        "kunyomi": "まと",
+        "meaning": "Bull's Eye, Mark, Target"
+      }
+    ],
     "similar": [
       {
-        "term": "一方的",
-        "reading": "いっぽうてき",
-        "meaning": "one-sided; unilateral"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
+      },
+      {
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       }
     ]
   },
@@ -18051,12 +23944,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "自然災害が多い日本では、非常時に手頃な判断をする能力が政府に求められている。",
     "meaning_en": "moderate; handy",
-    "explanation": "正解は「自然災害が多い日本では、非常時に手頃な判断をする能力が政府に求められている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "頃",
+        "onyomi": "ケイ・キョウ",
+        "kunyomi": "ころ・ごろ・しばらく",
+        "meaning": "Time, About, Toward"
+      }
+    ],
     "similar": [
       {
-        "term": "手頃",
-        "reading": "てごろ",
-        "meaning": "moderate; handy"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
+      },
+      {
+        "term": "近頃",
+        "reading": "ちかごろ",
+        "meaning": "lately; recently"
+      },
+      {
+        "term": "この頃",
+        "reading": "このごろ",
+        "meaning": "recently"
       }
     ]
   },
@@ -18082,12 +24009,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "彼は清潔感があり、笑顔がさわやかなので、皆から好かれている。",
     "meaning_en": "fresh; refreshing",
-    "explanation": "正解は「彼は清潔感があり、笑顔がさわやかなので、皆から好かれている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "爽",
+        "onyomi": "ソウ",
+        "kunyomi": "あきらか・さわやか・たがう",
+        "meaning": "Refreshing, Bracing, Resonant"
+      }
+    ],
     "similar": [
       {
-        "term": "さわやか",
-        "reading": "",
+        "term": "爽やか",
+        "reading": "さわやか",
         "meaning": "fresh; refreshing"
+      },
+      {
+        "term": "爽快",
+        "reading": "そうかい",
+        "meaning": "refreshing; exhilarating"
       }
     ]
   },
@@ -18113,12 +24053,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "買ったばかりの和やかなタオルを使うと、気分が良い。",
     "meaning_en": "mild; calm",
-    "explanation": "正解は「買ったばかりの和やかなタオルを使うと、気分が良い。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "和",
+        "onyomi": "ワ・オ・カ",
+        "kunyomi": "やわらぐ・やわらげる・なごむ・なごやか・あえる",
+        "meaning": "Harmony, Japanese Style, Peace"
+      }
+    ],
     "similar": [
       {
-        "term": "和やか",
-        "reading": "なごやか",
-        "meaning": "mild; calm"
+        "term": "平和",
+        "reading": "へいわ",
+        "meaning": "peace; harmony"
+      },
+      {
+        "term": "和服",
+        "reading": "わふく",
+        "meaning": "Japanese clothes"
+      },
+      {
+        "term": "和英",
+        "reading": "わえい",
+        "meaning": "Japanese-English"
       }
     ]
   },
@@ -18143,13 +24101,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "けがをしないように、いまいちに安全を考えてヘルメットをかぶって作業してくだ",
-    "meaning_en": "Meaning: けがをしないように、いまいちに安全を考えてヘルメットをかぶって作業してくだ",
-    "explanation": "正解は「けがをしないように、いまいちに安全を考えてヘルメットをかぶって作業してくだ」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "今",
+        "onyomi": "コン・キン",
+        "kunyomi": "いま",
+        "meaning": "Now"
+      },
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      }
+    ],
     "similar": [
       {
-        "term": "いまいち",
-        "reading": "いまいち",
-        "meaning": ""
+        "term": "今年",
+        "reading": "ことし",
+        "meaning": "this year"
+      },
+      {
+        "term": "今日",
+        "reading": "きょう",
+        "meaning": "today"
+      },
+      {
+        "term": "今晩",
+        "reading": "こんばん",
+        "meaning": "this evening"
+      },
+      {
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       }
     ]
   },
@@ -18175,12 +24167,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "明日締め切 りのレポートがなかなか進まなくていらいらする。",
     "meaning_en": "very; considerably",
-    "explanation": "正解は「明日締め切 りのレポートがなかなか進まなくていらいらする。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "中",
+        "onyomi": "チュウ",
+        "kunyomi": "なか・うち・あたる",
+        "meaning": "In, Inside, Middle"
+      }
+    ],
     "similar": [
       {
-        "term": "なかなか",
-        "reading": "",
-        "meaning": "very; considerably"
+        "term": "中々",
+        "reading": "なかなか",
+        "meaning": "considerably"
+      },
+      {
+        "term": "中学校",
+        "reading": "ちゅうがっこう",
+        "meaning": "junior high school; middle school"
+      },
+      {
+        "term": "真中",
+        "reading": "まんなか",
+        "meaning": "middle"
       }
     ]
   },
@@ -18206,12 +24216,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "加藤 さんは受験に向けて一日も休まず、直 に勉強を頑張っている。",
     "meaning_en": "immediately; readily",
-    "explanation": "正解は「加藤 さんは受験に向けて一日も休まず、直 に勉強を頑張っている。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "直",
+        "onyomi": "チョク・ジキ・ジカ",
+        "kunyomi": "ただちに・なおす・-なおす・なおる・なおき・すぐ",
+        "meaning": "Straightaway, Honesty, Frankness"
+      }
+    ],
     "similar": [
       {
-        "term": "直に",
-        "reading": "じかに",
-        "meaning": "immediately; readily"
+        "term": "直す",
+        "reading": "なおす",
+        "meaning": "to fix; to repair"
+      },
+      {
+        "term": "直る",
+        "reading": "なおる",
+        "meaning": "to be fixed; to be repaired"
+      },
+      {
+        "term": "正直",
+        "reading": "しょうじき",
+        "meaning": "honesty; integrity"
       }
     ]
   },
@@ -18237,12 +24265,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "彼女は高校のときもきれいだったが、10年ぶりに会うと一段ときれいになっていた。",
     "meaning_en": "greater; more",
-    "explanation": "正解は「彼女は高校のときもきれいだったが、10年ぶりに会うと一段ときれいになっていた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "段",
+        "onyomi": "ダン・タン",
+        "kunyomi": "-",
+        "meaning": "Grade, Steps, Stairs"
+      }
+    ],
     "similar": [
       {
-        "term": "一段と",
-        "reading": "いちだんと",
-        "meaning": "greater; more"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
+      },
+      {
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "term": "階段",
+        "reading": "かいだん",
+        "meaning": "stairs"
+      },
+      {
+        "term": "値段",
+        "reading": "ねだん",
+        "meaning": "price; cost"
       }
     ]
   },
@@ -18268,12 +24330,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "間違えた問題は、できるようになるまでたびたび解くことが大切です。",
     "meaning_en": "often; repeatedly",
-    "explanation": "正解は「間違えた問題は、できるようになるまでたびたび解くことが大切です。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "度",
+        "onyomi": "ド・ト・タク",
+        "kunyomi": "たび・-たい",
+        "meaning": "Degrees, Occurrence, Time"
+      }
+    ],
     "similar": [
       {
-        "term": "たびたび",
-        "reading": "",
-        "meaning": "often; repeatedly"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "丁度",
+        "reading": "ちょうど",
+        "meaning": "just, right, exactly"
+      },
+      {
+        "term": "一度",
+        "reading": "いちど",
+        "meaning": "once"
       }
     ]
   },
@@ -18299,12 +24379,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "彼は今の仕事に対してどう思っているのか、明らかに話してくれた。",
     "meaning_en": "obvious; evident",
-    "explanation": "正解は「彼は今の仕事に対してどう思っているのか、明らかに話してくれた。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "明",
+        "onyomi": "メイ・ミョウ・ミン",
+        "kunyomi": "あかり・あかるい・あかるむ・あからむ・あきらか・あける・-あけ・あく・あくる・あかす",
+        "meaning": "Bright, Light"
+      }
+    ],
     "similar": [
       {
-        "term": "明らか",
-        "reading": "あきらか",
-        "meaning": "obvious; evident"
+        "term": "明い",
+        "reading": "あかるい",
+        "meaning": "bright"
+      },
+      {
+        "term": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow"
+      },
+      {
+        "term": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
       }
     ]
   },
@@ -18330,14 +24428,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "彼は待ち合わせ時間の3時きっぱりに到着した。",
     "meaning_en": "clearly; plainly",
-    "explanation": "正解は「彼は待ち合わせ時間の3時きっぱりに到着した。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
-      {
-        "term": "きっぱり",
-        "reading": "きっぱり",
-        "meaning": "clearly; plainly"
-      }
-    ]
+    "explanation": "",
+    "kanji_info": [],
+    "similar": []
   },
   {
     "id": 435,
@@ -18361,14 +24454,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "一週間ずっと雨が降り続いていて、もう雨にはぐったりだ。",
     "meaning_en": "wearily",
-    "explanation": "正解は「一週間ずっと雨が降り続いていて、もう雨にはぐったりだ。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
-      {
-        "term": "ぐったり",
-        "reading": "ぐったり",
-        "meaning": "wearily"
-      }
-    ]
+    "explanation": "",
+    "kanji_info": [],
+    "similar": []
   },
   {
     "id": 436,
@@ -18392,14 +24480,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "うちのマンションは、上の階に住んでいる人の足音がぐんぐん響いてうるさい。",
     "meaning_en": "rapidly",
-    "explanation": "正解は「うちのマンションは、上の階に住んでいる人の足音がぐんぐん響いてうるさい。」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
-    "similar": [
-      {
-        "term": "ぐんぐん",
-        "reading": "",
-        "meaning": "rapidly"
-      }
-    ]
+    "explanation": "",
+    "kanji_info": [],
+    "similar": []
   },
   {
     "id": 437,
@@ -18423,27 +24506,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "のべた",
     "meaning_en": "The president of country A expressed his impression of Japan thusly.",
-    "explanation": "正解は「のべた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "述",
+        "onyomi": "ジュツ",
+        "kunyomi": "のべる",
+        "meaning": "Mention, State, Speak"
+      }
+    ],
     "similar": [
       {
-        "term": "述べた",
-        "reading": "のべた",
-        "meaning": ""
+        "term": "述べる",
+        "reading": "のべる",
+        "meaning": "to state; to express"
       },
       {
-        "term": "もべた",
-        "reading": "もべた",
-        "meaning": ""
+        "term": "述語",
+        "reading": "じゅつご",
+        "meaning": "predicate"
       },
       {
-        "term": "ぬべた",
-        "reading": "ぬべた",
-        "meaning": ""
-      },
-      {
-        "term": "のべた",
-        "reading": "のべた",
-        "meaning": ""
+        "term": "口述",
+        "reading": "こうじゅつ",
+        "meaning": "verbal statement"
       }
     ]
   },
@@ -18469,27 +24555,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ありふれた",
     "meaning_en": "Microwaves were rare 50 years ago, but now, they are commonplace in house-",
-    "explanation": "正解は「ありふれた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "有",
+        "onyomi": "ユウ・ウ",
+        "kunyomi": "ある",
+        "meaning": "Possess, Have, Exist"
+      },
+      {
+        "kanji": "触",
+        "onyomi": "ショク",
+        "kunyomi": "ふれる・さわる・さわ",
+        "meaning": "Contact, Touch, Feel"
+      }
+    ],
     "similar": [
       {
-        "term": "ありふれた",
-        "reading": "ありふれた",
-        "meaning": ""
+        "term": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famous"
       },
       {
-        "term": "おだやかな",
-        "reading": "おだやかな",
-        "meaning": ""
+        "term": "在る; 有る",
+        "reading": "ある",
+        "meaning": "to live, to be, to exist"
       },
       {
-        "term": "なつかしい",
-        "reading": "",
-        "meaning": "懐かしい[a]longed-for"
+        "term": "有る",
+        "reading": "ある",
+        "meaning": "to be; to have"
       },
       {
-        "term": "ふさわしい",
-        "reading": "",
-        "meaning": "appropriate"
+        "term": "触る",
+        "reading": "さわる",
+        "meaning": "to touch"
+      },
+      {
+        "term": "触れる",
+        "reading": "ふれる",
+        "meaning": "to touch; to be touched"
       }
     ]
   },
@@ -18515,27 +24620,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "がち",
     "meaning_en": "|will go to bed early tonight because I kind of feel sick.",
-    "explanation": "正解は「がち」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "雅",
+        "onyomi": "ガ",
+        "kunyomi": "みやび",
+        "meaning": "Gracious, Elegant, Graceful"
+      },
+      {
+        "kanji": "致",
+        "onyomi": "チ",
+        "kunyomi": "いたす",
+        "meaning": "Doth, Do, Send"
+      }
+    ],
     "similar": [
       {
-        "term": "がち",
-        "reading": "",
-        "meaning": "tend to do ~"
+        "term": "雅致",
+        "reading": "がち",
+        "meaning": "artistry; good taste"
       },
       {
-        "term": "ぎみ",
-        "reading": "ぎみ",
-        "meaning": ""
+        "term": "優雅",
+        "reading": "ゆうが",
+        "meaning": "elegant; graceful"
       },
       {
-        "term": "あながち",
-        "reading": "",
-        "meaning": "強ち[ad]not necessarily"
+        "term": "雅楽",
+        "reading": "ががく",
+        "meaning": "gagaku; ceremonial Japanese court music"
       },
       {
-        "term": "あめがち",
-        "reading": "",
-        "meaning": "雨勝ち[an|n]rainy"
+        "term": "致す",
+        "reading": "いたす",
+        "meaning": "(humble) to do"
+      },
+      {
+        "term": "一致",
+        "reading": "いっち",
+        "meaning": "(1) coincidence; agreement"
       }
     ]
   },
@@ -18561,27 +24685,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "家賃",
     "meaning_en": "How much is the rent？／房是多少？",
-    "explanation": "正解は「家賃」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "家",
+        "onyomi": "カ・ケ",
+        "kunyomi": "いえ・や・うち",
+        "meaning": "House, Home, Family"
+      },
+      {
+        "kanji": "賃",
+        "onyomi": "チン",
+        "kunyomi": "-",
+        "meaning": "Fare, Fee, Hire"
+      }
+    ],
     "similar": [
       {
-        "term": "家賃",
-        "reading": "やちん",
-        "meaning": "rent"
+        "term": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
       },
       {
-        "term": "家貧",
-        "reading": "いえびん",
-        "meaning": ""
+        "term": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
       },
       {
-        "term": "家貨",
-        "reading": "いえか",
-        "meaning": ""
+        "term": "家内",
+        "reading": "かない",
+        "meaning": "housewife"
       },
       {
-        "term": "家費",
-        "reading": "いえひ",
-        "meaning": ""
+        "term": "賃金",
+        "reading": "ちんぎん",
+        "meaning": "wages"
+      },
+      {
+        "term": "運賃",
+        "reading": "うんちん",
+        "meaning": "freight rates; shipping expenses"
       }
     ]
   },
@@ -18607,27 +24750,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "だるい",
     "meaning_en": "Ithink I have a cold. 1 feel feverish and sluggish.",
-    "explanation": "正解は「だるい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "怠",
+        "onyomi": "タイ",
+        "kunyomi": "おこたる・なまける",
+        "meaning": "Neglect, Laziness"
+      }
+    ],
     "similar": [
       {
-        "term": "だるい",
-        "reading": "",
-        "meaning": "sluggish, feel heavy (tired), languid"
+        "term": "怠ける",
+        "reading": "なまける",
+        "meaning": "to be idle; to neglect"
       },
       {
-        "term": "みっともない",
-        "reading": "",
-        "meaning": "shameful; indecent"
+        "term": "怠る",
+        "reading": "おこたる",
+        "meaning": "to neglect; to be off guard"
       },
       {
-        "term": "やっかいだ",
-        "reading": "やっかいだ",
-        "meaning": ""
-      },
-      {
-        "term": "だらしない",
-        "reading": "",
-        "meaning": "slovenly; loose"
+        "term": "怠い",
+        "reading": "だるい",
+        "meaning": "sluggish; feel heavy"
       }
     ]
   },
@@ -18653,27 +24799,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "行ったきり",
     "meaning_en": "I have not been to Kyoto since | went there on a school trip when I was in junior",
-    "explanation": "正解は「行ったきり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "行",
+        "onyomi": "コウ・ギョウ・アン",
+        "kunyomi": "いく・ゆく・-ゆき・-ゆき・-いき・-いき・おこなう・おこなう",
+        "meaning": "Going, Journey, Carry Out"
+      }
+    ],
     "similar": [
       {
-        "term": "行ったきり",
-        "reading": "いったきり",
-        "meaning": ""
+        "term": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel"
       },
       {
-        "term": "行かないきり",
-        "reading": "いかないきり",
-        "meaning": ""
+        "term": "行く",
+        "reading": "いく",
+        "meaning": "to go"
       },
       {
-        "term": "行きっきり",
-        "reading": "いきっきり",
-        "meaning": ""
-      },
-      {
-        "term": "行ってきり",
-        "reading": "いってきり",
-        "meaning": ""
+        "term": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank"
       }
     ]
   },
@@ -18699,27 +24848,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "うすめた",
     "meaning_en": "The coffee was too strong so l diluted it with hot water.",
-    "explanation": "正解は「うすめた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "薄",
+        "onyomi": "ハク",
+        "kunyomi": "うすい・うす-・-うす・うすめる・うすまる・うすらぐ・うすら-・うすれる・すすき",
+        "meaning": "Dilute, Thin, Weak (tea)"
+      }
+    ],
     "similar": [
       {
-        "term": "薄めた",
-        "reading": "うすめた",
-        "meaning": ""
+        "term": "薄い",
+        "reading": "うすい",
+        "meaning": "thin; weak"
       },
       {
-        "term": "うすめた",
-        "reading": "うすめた",
-        "meaning": ""
+        "term": "薄める",
+        "reading": "うすめる",
+        "meaning": "to dilute; to water down"
       },
       {
-        "term": "うめた",
-        "reading": "うめた",
-        "meaning": ""
-      },
-      {
-        "term": "ぬるめた",
-        "reading": "ぬるめた",
-        "meaning": ""
+        "term": "薄暗い",
+        "reading": "うすぐらい",
+        "meaning": "dim; gloomy"
       }
     ]
   },
@@ -18745,13 +24897,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ふざけて",
     "meaning_en": "If you keep playing around, you will get hurt, so please just sit still.",
-    "explanation": "正解は「ふざけて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ふざけて",
-        "reading": "ふざけて",
-        "meaning": ""
-      },
       {
         "term": "はりきって",
         "reading": "はりきって",
@@ -18791,27 +24939,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "につき",
     "meaning_en": "We will collect 1,000 yen from each person to buy a wedding present for Mr. Tanaka.",
-    "explanation": "正解は「につき」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "付",
+        "onyomi": "フ",
+        "kunyomi": "つける・-つける・-づける・つけ・つけ-・-つけ・-づけ・-づけ・つく・-づく・つき・-つき・-つき・-づき・-づき",
+        "meaning": "Adhere, Attach, Refer To"
+      }
+    ],
     "similar": [
       {
-        "term": "につき",
-        "reading": "につき",
-        "meaning": ""
+        "term": "付く",
+        "reading": "つく",
+        "meaning": "to be attached"
       },
       {
-        "term": "にのみ",
-        "reading": "にのみ",
-        "meaning": ""
+        "term": "受付",
+        "reading": "うけつけ",
+        "meaning": "receipt"
       },
       {
-        "term": "でこそ",
-        "reading": "でこそ",
-        "meaning": ""
-      },
-      {
-        "term": "でさえ",
-        "reading": "でさえ",
-        "meaning": "even (e.g. even a child); as long as (it is, you are, etc.)"
+        "term": "片付ける",
+        "reading": "かたづける",
+        "meaning": "to tidy up"
       }
     ]
   },
@@ -18837,27 +24988,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "骨折",
     "meaning_en": "I broke my leg skiing.",
-    "explanation": "正解は「骨折」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "骨",
+        "onyomi": "コツ",
+        "kunyomi": "ほね",
+        "meaning": "Skeleton, Bone, Remains"
+      },
+      {
+        "kanji": "折",
+        "onyomi": "セツ・シャク",
+        "kunyomi": "おる・おり・おり・-おり・おれる",
+        "meaning": "Fold, Break, Fracture"
+      }
+    ],
     "similar": [
       {
-        "term": "骨折",
-        "reading": "こっせつ",
-        "meaning": "bone fracture"
+        "term": "露骨",
+        "reading": "ろこつ",
+        "meaning": "1.  frank; blunt"
       },
       {
-        "term": "背折",
-        "reading": "せおり",
-        "meaning": ""
+        "term": "骨董品",
+        "reading": "こっとうひん",
+        "meaning": "curio"
       },
       {
-        "term": "肩折",
-        "reading": "かたおり",
-        "meaning": ""
+        "term": "人骨",
+        "reading": "じんこつ",
+        "meaning": "human bones"
       },
       {
-        "term": "育折",
-        "reading": "いくおり",
-        "meaning": ""
+        "term": "折る",
+        "reading": "おる",
+        "meaning": "to break or to fold"
+      },
+      {
+        "term": "折れる",
+        "reading": "おれる",
+        "meaning": "to break or be folded"
       }
     ]
   },
@@ -18883,13 +25053,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "なぐさめて",
     "meaning_en": "｜was happy that Yamada-san consoled me when | was broken-hearted.",
-    "explanation": "正解は「なぐさめて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "なぐさめて",
-        "reading": "なぐさめて",
-        "meaning": ""
-      },
       {
         "term": "あこがれて",
         "reading": "あこがれて",
@@ -18929,13 +25095,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "をはじめ",
     "meaning_en": "That new product is sold in major cities all over Japan including Tokyo.",
-    "explanation": "正解は「をはじめ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をはじめ",
-        "reading": "をはじめ",
-        "meaning": ""
-      },
       {
         "term": "にはじめ",
         "reading": "にはじめ",
@@ -18975,27 +25137,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "うけたまわります",
     "meaning_en": "We repair things like worn shoes and broken umbrellas. Please feel free to come in.",
-    "explanation": "正解は「うけたまわります」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "承",
+        "onyomi": "ショウ・ジョウ",
+        "kunyomi": "うけたまわる・うける",
+        "meaning": "Acquiesce, Hear, Listen To"
+      }
+    ],
     "similar": [
       {
-        "term": "承ります",
-        "reading": "うけたまわります",
-        "meaning": ""
+        "term": "承知",
+        "reading": "しょうちする",
+        "meaning": "to consent"
       },
       {
-        "term": "うけたまわります",
-        "reading": "うけたまわります",
-        "meaning": ""
+        "term": "承認",
+        "reading": "しょうにん",
+        "meaning": "recognition; acknowledgement"
       },
       {
-        "term": "おけたまわります",
-        "reading": "おけたまわります",
-        "meaning": ""
-      },
-      {
-        "term": "ぬけたまわります",
-        "reading": "ぬけたまわります",
-        "meaning": ""
+        "term": "承る",
+        "reading": "うけたまわる",
+        "meaning": "(hum) to hear; to be told"
       }
     ]
   },
@@ -19021,27 +25186,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "なさけない",
     "meaning_en": "These results are pathetic. Ithink I did not put in enough effort.",
-    "explanation": "正解は「なさけない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "情",
+        "onyomi": "ジョウ・セイ",
+        "kunyomi": "なさけ",
+        "meaning": "Feelings, Emotion, Passion"
+      },
+      {
+        "kanji": "無",
+        "onyomi": "ム・ブ",
+        "kunyomi": "ない",
+        "meaning": "Nothingness, None, Ain't"
+      }
+    ],
     "similar": [
       {
-        "term": "なさけない",
-        "reading": "",
-        "meaning": "情けない[a]miserable"
+        "term": "事情",
+        "reading": "じじょう",
+        "meaning": "circumstances; consideration"
       },
       {
-        "term": "あやしい",
-        "reading": "",
-        "meaning": "怪しい[a]doubtful"
+        "term": "友情",
+        "reading": "ゆうじょう",
+        "meaning": "friendship; fellowship"
       },
       {
-        "term": "おしい",
-        "reading": "",
-        "meaning": "惜しい[a]regrettable"
+        "term": "情報",
+        "reading": "じょうほう",
+        "meaning": "information; (military) intelligence"
       },
       {
-        "term": "ばからしい",
-        "reading": "",
-        "meaning": "absurd"
+        "term": "無くす",
+        "reading": "なくす",
+        "meaning": "to lose something"
+      },
+      {
+        "term": "無くなる",
+        "reading": "なくなる",
+        "meaning": "to disappear; to get lost"
       }
     ]
   },
@@ -19067,23 +25251,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "かゆくてたまらない",
     "meaning_en": "The spot where the bug bit me is so itchy.",
-    "explanation": "正解は「かゆくてたまらない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かゆくてたまらない",
-        "reading": "かゆくてたまらない",
-        "meaning": ""
-      },
-      {
-        "term": "かゆいだけでならない",
-        "reading": "かゆいだけでならない",
-        "meaning": ""
-      },
-      {
-        "term": "かゆいしかならない",
-        "reading": "かゆいしかならない",
-        "meaning": ""
-      },
       {
         "term": "かゆくてしかない",
         "reading": "かゆくてしかない",
@@ -19113,27 +25283,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "おいわい",
     "meaning_en": "celebration; festival",
-    "explanation": "正解は「おいわい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "祝",
+        "onyomi": "シュク・シュウ",
+        "kunyomi": "いわう",
+        "meaning": "Celebrate, Congratulate"
+      }
+    ],
     "similar": [
       {
-        "term": "祝い",
-        "reading": "いわい",
-        "meaning": "celebration; festival"
-      },
-      {
-        "term": "おいわい",
+        "term": "お祝い",
         "reading": "おいわい",
-        "meaning": ""
+        "meaning": "congratulation"
       },
       {
-        "term": "おみあい",
-        "reading": "おみあい",
-        "meaning": ""
+        "term": "祝う",
+        "reading": "いわう",
+        "meaning": "to congratulate; to celebrate"
       },
       {
-        "term": "おゆわい",
-        "reading": "おゆわい",
-        "meaning": ""
+        "term": "祝日",
+        "reading": "しゅくじつ",
+        "meaning": "national holiday"
       }
     ]
   },
@@ -19159,13 +25332,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あせった",
     "meaning_en": "A： \"How was the test？” B： \"l rushed a bit because I did not have much time, but |",
-    "explanation": "正解は「あせった」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "あせった",
-        "reading": "あせった",
-        "meaning": ""
-      },
       {
         "term": "さわいだ",
         "reading": "さわいだ",
@@ -19205,27 +25374,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "飲まずにはいられない",
     "meaning_en": "I cannot help but drink alcohol when | have a bad day at work.",
-    "explanation": "正解は「飲まずにはいられない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "飲",
+        "onyomi": "イン・オン",
+        "kunyomi": "のむ・-のみ",
+        "meaning": "Drink, Smoke, Take"
+      }
+    ],
     "similar": [
       {
-        "term": "飲まずにはいられない",
-        "reading": "のまずにはいられない",
-        "meaning": ""
+        "term": "飲み物",
+        "reading": "のみもの",
+        "meaning": "a drink"
       },
       {
-        "term": "飲んでならない",
-        "reading": "のんでならない",
-        "meaning": ""
+        "term": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink"
       },
       {
-        "term": "飲むことはならない",
-        "reading": "のむことはならない",
-        "meaning": ""
-      },
-      {
-        "term": "飲まないことではない",
-        "reading": "のまないことではない",
-        "meaning": ""
+        "term": "湯飲み",
+        "reading": "ゆのみ",
+        "meaning": "teacup"
       }
     ]
   },
@@ -19251,27 +25423,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "黒板",
     "meaning_en": "｜wrote on the blackboard with chalk.",
-    "explanation": "正解は「黒板」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "黒",
+        "onyomi": "コク",
+        "kunyomi": "くろ・くろずむ・くろい",
+        "meaning": "Black"
+      },
+      {
+        "kanji": "板",
+        "onyomi": "ハン・バン",
+        "kunyomi": "いた",
+        "meaning": "Plank, Board, Plate"
+      }
+    ],
     "similar": [
       {
-        "term": "黒板",
-        "reading": "こくばん",
-        "meaning": "blackboard"
+        "term": "黒い",
+        "reading": "くろい",
+        "meaning": "black"
       },
       {
-        "term": "黒販",
-        "reading": "くろはん",
-        "meaning": ""
+        "term": "真っ黒",
+        "reading": "まっくろ",
+        "meaning": "pitch black"
       },
       {
-        "term": "黒坂",
-        "reading": "くろさか",
-        "meaning": ""
+        "term": "黒字",
+        "reading": "くろじ",
+        "meaning": "balance (figure) in the black"
       },
       {
-        "term": "黒版",
-        "reading": "くろはん",
-        "meaning": ""
+        "term": "看板",
+        "reading": "かんばん",
+        "meaning": "sign; signboard"
+      },
+      {
+        "term": "まな板",
+        "reading": "まないた",
+        "meaning": "chopping board; cutting board"
       }
     ]
   },
@@ -19297,13 +25488,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "あこがれて",
     "meaning_en": "I moved to Tokyo because | was enamored with city life, bent rent and the cost of",
-    "explanation": "正解は「あこがれて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "あこがれて",
-        "reading": "あこがれて",
-        "meaning": ""
-      },
       {
         "term": "ねがって",
         "reading": "ねがって",
@@ -19343,27 +25530,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "だけに",
     "meaning_en": "Tanaka-san sings so well because he is a music teacher.",
-    "explanation": "正解は「だけに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "丈",
+        "onyomi": "ジョウ",
+        "kunyomi": "たけ・だけ",
+        "meaning": "Length, Ten Shaku, Measure"
+      }
+    ],
     "similar": [
       {
-        "term": "だけに",
-        "reading": "だけに",
-        "meaning": ""
+        "term": "丈夫",
+        "reading": "じょうぶ",
+        "meaning": "strong; durable"
       },
       {
-        "term": "ように",
-        "reading": "ように",
-        "meaning": ""
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
       },
       {
-        "term": "ほどに",
-        "reading": "ほどに",
-        "meaning": ""
-      },
-      {
-        "term": "くらいに",
-        "reading": "くらいに",
-        "meaning": ""
+        "term": "成る丈",
+        "reading": "なるたけ",
+        "meaning": "as much as possible; if possible"
       }
     ]
   },
@@ -19389,27 +25579,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "まいご",
     "meaning_en": "We take care of children who get lost at festivals.",
-    "explanation": "正解は「まいご」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "迷",
+        "onyomi": "メイ",
+        "kunyomi": "まよう",
+        "meaning": "Astray, Be Perplexed, In Doubt"
+      },
+      {
+        "kanji": "子",
+        "onyomi": "シ・ス・ツ",
+        "kunyomi": "こ・-こ・ね",
+        "meaning": "Child, Sign Of The Rat, 11pm-1am"
+      }
+    ],
     "similar": [
       {
-        "term": "迷子",
-        "reading": "まいご",
-        "meaning": "lost (stray) child"
+        "term": "迷う",
+        "reading": "まよう",
+        "meaning": "to be puzzled, to be perplexed, to lose one's way"
       },
       {
-        "term": "まいこ",
-        "reading": "まいこ",
-        "meaning": ""
+        "term": "迷惑",
+        "reading": "めいわく",
+        "meaning": "trouble; bother"
       },
       {
-        "term": "まいご",
-        "reading": "",
-        "meaning": "迷子[n]lost child"
+        "term": "迷信",
+        "reading": "めいしん",
+        "meaning": "superstition"
       },
       {
-        "term": "めいご",
-        "reading": "めいご",
-        "meaning": ""
+        "term": "お菓子",
+        "reading": "おかし",
+        "meaning": "sweets; candy"
+      },
+      {
+        "term": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl"
       }
     ]
   },
@@ -19435,27 +25644,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "目がない",
     "meaning_en": "An infant that has just learned to walk is worrisome for parents because they have",
-    "explanation": "正解は「目がない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      }
+    ],
     "similar": [
       {
-        "term": "目がない",
-        "reading": "めがない",
+        "term": "お目に掛",
+        "reading": "おめにかかる",
         "meaning": ""
       },
       {
-        "term": "目がきかない",
-        "reading": "めがきかない",
-        "meaning": ""
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
       },
       {
-        "term": "目が回らない",
-        "reading": "めがまわらない",
-        "meaning": ""
-      },
-      {
-        "term": "目がはなせない",
-        "reading": "めがはなせない",
-        "meaning": ""
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
       }
     ]
   },
@@ -19481,27 +25693,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "にあたって",
     "meaning_en": "What should I be careful of when I go abroad to study？",
-    "explanation": "正解は「にあたって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      }
+    ],
     "similar": [
       {
-        "term": "にあたって",
-        "reading": "にあたって",
-        "meaning": ""
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
       },
       {
-        "term": "にわたり",
-        "reading": "にわたり",
-        "meaning": ""
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       },
       {
-        "term": "にとって",
-        "reading": "にとって",
-        "meaning": ""
-      },
-      {
-        "term": "にしても",
-        "reading": "にしても",
-        "meaning": "even if"
+        "term": "弁当",
+        "reading": "べんとう",
+        "meaning": "box lunch"
       }
     ]
   },
@@ -19527,27 +25742,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "署名",
     "meaning_en": "Please sign here after checking the final amount.",
-    "explanation": "正解は「署名」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "署",
+        "onyomi": "ショ",
+        "kunyomi": "-",
+        "meaning": "Signature, Govt Office, Police Station"
+      },
+      {
+        "kanji": "名",
+        "onyomi": "メイ・ミョウ",
+        "kunyomi": "な・-な",
+        "meaning": "Name, Noted, Distinguished"
+      }
+    ],
     "similar": [
       {
-        "term": "署名",
-        "reading": "しょめい",
-        "meaning": "signature"
+        "term": "消防署",
+        "reading": "しょうぼうしょ",
+        "meaning": "fire station"
       },
       {
-        "term": "著名",
-        "reading": "ちょめい",
-        "meaning": "well-known; noted"
+        "term": "税務署",
+        "reading": "ぜいむしょ",
+        "meaning": "tax office"
       },
       {
-        "term": "暑名",
-        "reading": "しょめい",
-        "meaning": ""
+        "term": "署員",
+        "reading": "しょいん",
+        "meaning": "staff member; station employee"
       },
       {
-        "term": "書名",
-        "reading": "しょめい",
-        "meaning": "book title"
+        "term": "名前",
+        "reading": "なまえ",
+        "meaning": "name"
+      },
+      {
+        "term": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famous"
       }
     ]
   },
@@ -19573,27 +25807,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "様子",
     "meaning_en": "Let's not rush to conclusions, and instead take a look at things and then decide.",
-    "explanation": "正解は「様子」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "様",
+        "onyomi": "ヨウ・ショウ",
+        "kunyomi": "さま・さん",
+        "meaning": "Esq., Way, Manner"
+      },
+      {
+        "kanji": "子",
+        "onyomi": "シ・ス・ツ",
+        "kunyomi": "こ・-こ・ね",
+        "meaning": "Child, Sign Of The Rat, 11pm-1am"
+      }
+    ],
     "similar": [
       {
-        "term": "様子",
-        "reading": "ようす",
-        "meaning": "aspect; state"
+        "term": "同様",
+        "reading": "どうよう",
+        "meaning": "identical; equal to"
       },
       {
-        "term": "時間",
-        "reading": "じかん",
-        "meaning": "time"
+        "term": "様々",
+        "reading": "さまざま",
+        "meaning": "varied; various"
       },
       {
-        "term": "程度",
-        "reading": "ていど",
-        "meaning": "degree; amount"
+        "term": "模様",
+        "reading": "もよう",
+        "meaning": "pattern; figure"
       },
       {
-        "term": "都合",
-        "reading": "つごう",
-        "meaning": "circumstances; convenience"
+        "term": "お菓子",
+        "reading": "おかし",
+        "meaning": "sweets; candy"
+      },
+      {
+        "term": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl"
       }
     ]
   },
@@ -19619,27 +25872,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "につき",
     "meaning_en": "Due to construction, this road is closed.",
-    "explanation": "正解は「につき」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "付",
+        "onyomi": "フ",
+        "kunyomi": "つける・-つける・-づける・つけ・つけ-・-つけ・-づけ・-づけ・つく・-づく・つき・-つき・-つき・-づき・-づき",
+        "meaning": "Adhere, Attach, Refer To"
+      }
+    ],
     "similar": [
       {
-        "term": "につき",
-        "reading": "につき",
-        "meaning": ""
+        "term": "付く",
+        "reading": "つく",
+        "meaning": "to be attached"
       },
       {
-        "term": "にさえ",
-        "reading": "にさえ",
-        "meaning": ""
+        "term": "受付",
+        "reading": "うけつけ",
+        "meaning": "receipt"
       },
       {
-        "term": "について",
-        "reading": "",
-        "meaning": "concerning"
-      },
-      {
-        "term": "によると",
-        "reading": "によると",
-        "meaning": ""
+        "term": "片付ける",
+        "reading": "かたづける",
+        "meaning": "to tidy up"
       }
     ]
   },
@@ -19665,27 +25921,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "めずらしく",
     "meaning_en": "Even though Im used to talking in front of people, this time my stomach strangely",
-    "explanation": "正解は「めずらしく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "珍",
+        "onyomi": "チン",
+        "kunyomi": "めずらしい・たから",
+        "meaning": "Rare, Curious, Strange"
+      }
+    ],
     "similar": [
       {
-        "term": "珍しく",
-        "reading": "めずらしく",
-        "meaning": ""
+        "term": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "rare"
       },
       {
-        "term": "はずかしく",
-        "reading": "はずかしく",
-        "meaning": ""
+        "term": "珍味",
+        "reading": "ちんみ",
+        "meaning": "delicacy; dainties"
       },
       {
-        "term": "めずらしく",
-        "reading": "めずらしく",
-        "meaning": ""
-      },
-      {
-        "term": "おとなしく",
-        "reading": "おとなしく",
-        "meaning": ""
+        "term": "珍品",
+        "reading": "ちんぴん",
+        "meaning": "curio; rare article"
       }
     ]
   },
@@ -19711,13 +25970,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ついて",
     "meaning_en": "l just cannot keep up with you anymore. Let's break up.",
-    "explanation": "正解は「ついて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ついて",
-        "reading": "",
-        "meaning": "about, concerning"
-      },
       {
         "term": "やって",
         "reading": "やって",
@@ -19757,13 +26012,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "につれて",
     "meaning_en": "As land development progresses, there is less and less greenery left.",
-    "explanation": "正解は「につれて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "につれて",
-        "reading": "につれて",
-        "meaning": ""
-      },
       {
         "term": "せいか",
         "reading": "",
@@ -19803,27 +26054,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "たおれ",
     "meaning_en": "collapse; collapsing",
-    "explanation": "正解は「たおれ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "倒",
+        "onyomi": "トウ",
+        "kunyomi": "たおれる・-だおれ・たおす・さかさま・さかさ・さかしま",
+        "meaning": "Overthrow, Fall, Collapse"
+      }
+    ],
     "similar": [
       {
-        "term": "倒れ",
-        "reading": "たおれ",
-        "meaning": "collapse; collapsing"
+        "term": "倒れる",
+        "reading": "たおれる",
+        "meaning": "to break down"
       },
       {
-        "term": "たおれ",
-        "reading": "たおれ",
-        "meaning": ""
+        "term": "倒す",
+        "reading": "たおす",
+        "meaning": "to throw down; to beat"
       },
       {
-        "term": "こわれ",
-        "reading": "こわれ",
-        "meaning": ""
-      },
-      {
-        "term": "われ",
-        "reading": "",
-        "meaning": "我[p]I"
+        "term": "面倒",
+        "reading": "めんどう",
+        "meaning": "trouble; difficulty"
       }
     ]
   },
@@ -19849,27 +26103,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "あわてる",
     "meaning_en": "Perhaps due to the train being late, it was so crowded that | was hesitant to get on.",
-    "explanation": "正解は「あわてる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "慌",
+        "onyomi": "コウ",
+        "kunyomi": "あわてる・あわただしい",
+        "meaning": "Disconcerted, Be Confused, Lose One's Head"
+      }
+    ],
     "similar": [
       {
-        "term": "あわてる",
-        "reading": "",
-        "meaning": "to become confused"
+        "term": "慌ただしい",
+        "reading": "あわただしい",
+        "meaning": "busy; hurried"
       },
       {
-        "term": "あせる",
-        "reading": "",
-        "meaning": "to fade, to discolor"
+        "term": "慌てる",
+        "reading": "あわてる",
+        "meaning": "to become confused (disconcerted  disorganized)"
       },
       {
-        "term": "ためらう",
-        "reading": "",
-        "meaning": "to hesitate"
-      },
-      {
-        "term": "こらえる",
-        "reading": "",
-        "meaning": "to bear; to stand"
+        "term": "恐慌",
+        "reading": "きょうこう",
+        "meaning": "panic; scare"
       }
     ]
   },
@@ -19895,13 +26152,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にしたら",
     "meaning_en": "Cigarette smoke is annoying for those who do not smoke.",
-    "explanation": "正解は「にしたら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にしたら",
-        "reading": "にしたら",
-        "meaning": ""
-      },
       {
         "term": "でさえ",
         "reading": "でさえ",
@@ -19940,28 +26193,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "怒らない",
-    "meaning_en": "Target: 怒らない",
-    "explanation": "正解は「怒らない」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "怒",
+        "onyomi": "ド・ヌ",
+        "kunyomi": "いかる・おこる",
+        "meaning": "Angry, Be Offended"
+      }
+    ],
     "similar": [
       {
-        "term": "怒らない",
-        "reading": "いからない",
-        "meaning": ""
+        "term": "怒る",
+        "reading": "おこる",
+        "meaning": "to get angry; to be angry"
       },
       {
-        "term": "努らない",
-        "reading": "つとむらない",
-        "meaning": ""
+        "term": "怒り",
+        "reading": "いかり",
+        "meaning": "anger; hatred"
       },
       {
-        "term": "起こらない",
-        "reading": "おこらない",
-        "meaning": ""
-      },
-      {
-        "term": "怖こらない",
-        "reading": "こわこらない",
-        "meaning": ""
+        "term": "怒鳴る",
+        "reading": "どなる",
+        "meaning": "to shout; to yell"
       }
     ]
   },
@@ -19987,12 +26243,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ろくな",
     "meaning_en": "Between me getting sick and getting into a car accident, nothing has been going",
-    "explanation": "正解は「ろくな」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "碌",
+        "onyomi": "ロク",
+        "kunyomi": "ろくな",
+        "meaning": "Satisfactory"
+      }
+    ],
     "similar": [
       {
-        "term": "ろくな",
-        "reading": "",
-        "meaning": "satisfactory, decent"
+        "term": "碌な",
+        "reading": "ろくな",
+        "meaning": "satisfactory; decent"
+      },
+      {
+        "term": "碌に",
+        "reading": "ろくに",
+        "meaning": "well; enough"
       },
       {
         "term": "らくな",
@@ -20028,27 +26297,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "における",
     "meaning_en": "Let us think about various problems related to education.",
-    "explanation": "正解は「における」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "於",
+        "onyomi": "オ・ヨ",
+        "kunyomi": "おいて・おける・ああ・より",
+        "meaning": "At, In, On"
+      }
+    ],
     "similar": [
       {
-        "term": "における",
+        "term": "於いて",
+        "reading": "おいて",
+        "meaning": "at; in"
+      },
+      {
+        "term": "に於いて",
+        "reading": "において",
+        "meaning": "at (a time or place); in"
+      },
+      {
+        "term": "に於ける",
         "reading": "における",
-        "meaning": ""
-      },
-      {
-        "term": "にかける",
-        "reading": "にかける",
-        "meaning": ""
-      },
-      {
-        "term": "にわたる",
-        "reading": "にわたる",
-        "meaning": ""
-      },
-      {
-        "term": "にあたる",
-        "reading": "にあたる",
-        "meaning": ""
+        "meaning": "in; at"
       }
     ]
   },
@@ -20074,27 +26346,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "つかまった",
     "meaning_en": "The robber was caught immediately.",
-    "explanation": "正解は「つかまった」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "捕",
+        "onyomi": "ホ",
+        "kunyomi": "とらえる・とらわれる・とる・とらえる・とらわれる・つかまえる・つかまる",
+        "meaning": "Catch, Capture"
+      }
+    ],
     "similar": [
       {
-        "term": "捕まった",
-        "reading": "つかまった",
-        "meaning": ""
+        "term": "捕まえる",
+        "reading": "つかまえる",
+        "meaning": "to seize"
       },
       {
-        "term": "つかまった",
-        "reading": "つかまった",
-        "meaning": ""
+        "term": "捕まる",
+        "reading": "つかまる",
+        "meaning": "to be caught; to be arrested"
       },
       {
-        "term": "とまった",
-        "reading": "とまった",
-        "meaning": ""
-      },
-      {
-        "term": "はさまった",
-        "reading": "はさまった",
-        "meaning": ""
+        "term": "逮捕",
+        "reading": "たいほ",
+        "meaning": "arrest; apprehension"
       }
     ]
   },
@@ -20120,27 +26395,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "余裕",
     "meaning_en": "A： “Maybe we should buy a new car\" B： “We cannot afford something like that.\"",
-    "explanation": "正解は「余裕」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "余",
+        "onyomi": "ヨ",
+        "kunyomi": "あまる・あまり・あます・あんまり",
+        "meaning": "Too Much, Myself, Surplus"
+      },
+      {
+        "kanji": "裕",
+        "onyomi": "ユウ",
+        "kunyomi": "-",
+        "meaning": "Abundant, Rich, Fertile"
+      }
+    ],
     "similar": [
       {
-        "term": "余裕",
-        "reading": "よゆう",
-        "meaning": "surplus; composure"
+        "term": "余り",
+        "reading": "あまり",
+        "meaning": "not very (used as adverb); not much"
       },
       {
-        "term": "都合",
-        "reading": "つごう",
-        "meaning": "circumstances; convenience"
+        "term": "余分",
+        "reading": "よぶん",
+        "meaning": "extra; excess"
       },
       {
-        "term": "暮らし",
-        "reading": "くらし",
-        "meaning": "living; livelihood"
+        "term": "余る",
+        "reading": "あまる",
+        "meaning": "to remain; to be left over"
       },
       {
-        "term": "気分",
-        "reading": "きぶん",
-        "meaning": "mood"
+        "term": "富裕",
+        "reading": "ふゆう",
+        "meaning": "wealthy; rich"
+      },
+      {
+        "term": "裕福",
+        "reading": "ゆうふく",
+        "meaning": "wealthy; rich"
       }
     ]
   },
@@ -20166,13 +26460,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "っこない",
     "meaning_en": "There is no way I can do such a difficult problem.",
-    "explanation": "正解は「っこない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "っこない",
-        "reading": "っこない",
-        "meaning": ""
-      },
       {
         "term": "わけがない",
         "reading": "わけがない",
@@ -20212,27 +26502,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "季節",
     "meaning_en": "What season do you like the most？",
-    "explanation": "正解は「季節」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "季",
+        "onyomi": "キ",
+        "kunyomi": "-",
+        "meaning": "Seasons"
+      },
+      {
+        "kanji": "節",
+        "onyomi": "セツ・セチ",
+        "kunyomi": "ふし・-ぶし・のっと",
+        "meaning": "Node, Season, Period"
+      }
+    ],
     "similar": [
       {
-        "term": "季節",
-        "reading": "きせつ",
-        "meaning": "season"
+        "term": "四季",
+        "reading": "しき",
+        "meaning": "four seasons"
       },
       {
-        "term": "気節",
-        "reading": "きせつ",
-        "meaning": ""
+        "term": "季刊",
+        "reading": "きかん",
+        "meaning": "quarterly (e.g. magazine)"
       },
       {
-        "term": "委節",
-        "reading": "いふし",
-        "meaning": ""
+        "term": "乾季",
+        "reading": "かんき",
+        "meaning": "dry season"
       },
       {
-        "term": "李節",
-        "reading": "すももふし",
-        "meaning": ""
+        "term": "節約",
+        "reading": "せつやく",
+        "meaning": "economising; saving"
+      },
+      {
+        "term": "調節",
+        "reading": "ちょうせつ",
+        "meaning": "regulation; adjustment"
       }
     ]
   },
@@ -20258,13 +26567,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "コンセント",
     "meaning_en": "This cord will not reach the plug so let's use an extension cord.",
-    "explanation": "正解は「コンセント」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "コンセント",
-        "reading": "コンセント",
-        "meaning": "(1) consent; (2) concentric"
-      },
       {
         "term": "スイッチ",
         "reading": "スイッチ",
@@ -20304,13 +26609,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "にしろ",
     "meaning_en": "Even if you do eventually give up, you should still try at least once.",
-    "explanation": "正解は「にしろ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にしろ",
-        "reading": "",
-        "meaning": "even if"
-      },
       {
         "term": "たびに",
         "reading": "たびに",
@@ -20350,27 +26651,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "さされる",
     "meaning_en": "If you come close to one of these bugs, it will sting you with its stinger.",
-    "explanation": "正解は「さされる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "刺",
+        "onyomi": "シ",
+        "kunyomi": "さす・ささる・さし・さし・とげ",
+        "meaning": "Thorn, Pierce, Stab"
+      }
+    ],
     "similar": [
       {
-        "term": "刺される",
-        "reading": "さされる",
-        "meaning": ""
+        "term": "刺激",
+        "reading": "しげき",
+        "meaning": "stimulus; impetus"
       },
       {
-        "term": "しされる",
-        "reading": "しされる",
-        "meaning": ""
+        "term": "刺さる",
+        "reading": "ささる",
+        "meaning": "to stick; to be stuck"
       },
       {
-        "term": "すされる",
-        "reading": "すされる",
-        "meaning": ""
-      },
-      {
-        "term": "せされる",
-        "reading": "せされる",
-        "meaning": ""
+        "term": "刺す",
+        "reading": "さす",
+        "meaning": "to pierce; to stab"
       }
     ]
   },
@@ -20396,13 +26700,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ついた",
     "meaning_en": "I thought | had bought something on the Internet at a low price, but shipping ended",
-    "explanation": "正解は「ついた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ついた",
-        "reading": "ついた",
-        "meaning": ""
-      },
       {
         "term": "かけた",
         "reading": "かけた",
@@ -20442,27 +26742,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しかない",
     "meaning_en": "What you say is just an excuse.",
-    "explanation": "正解は「しかない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "無",
+        "onyomi": "ム・ブ",
+        "kunyomi": "ない",
+        "meaning": "Nothingness, None, Ain't"
+      }
+    ],
     "similar": [
       {
-        "term": "しかない",
-        "reading": "しかない",
-        "meaning": ""
+        "term": "無くす",
+        "reading": "なくす",
+        "meaning": "to lose something"
       },
       {
-        "term": "にすぎない",
-        "reading": "にすぎない",
-        "meaning": ""
+        "term": "無くなる",
+        "reading": "なくなる",
+        "meaning": "to disappear; to get lost"
       },
       {
-        "term": "ということだ",
-        "reading": "ということだ",
-        "meaning": ""
-      },
-      {
-        "term": "にかぎる",
-        "reading": "にかぎる",
-        "meaning": ""
+        "term": "無理",
+        "reading": "むり",
+        "meaning": "impossible"
       }
     ]
   },
@@ -20488,27 +26791,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "はいざら",
     "meaning_en": "I would like to have a smoke. Do you have an ashtray？",
-    "explanation": "正解は「はいざら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "灰",
+        "onyomi": "カイ",
+        "kunyomi": "はい",
+        "meaning": "Ashes, Puckery Juice, Cremate"
+      },
+      {
+        "kanji": "皿",
+        "onyomi": "ベイ",
+        "kunyomi": "さら",
+        "meaning": "Dish, A Helping, Plate"
+      }
+    ],
     "similar": [
       {
-        "term": "灰皿",
-        "reading": "はいざら",
-        "meaning": "ashtray"
+        "term": "灰色",
+        "reading": "はいいろ",
+        "meaning": "grey; gray"
       },
       {
-        "term": "かいざら",
-        "reading": "かいざら",
-        "meaning": ""
+        "term": "火山灰",
+        "reading": "かざんばい",
+        "meaning": "volcanic ash"
       },
       {
-        "term": "ひざら",
-        "reading": "",
-        "meaning": "火皿[n]pipe bowl"
+        "term": "石灰",
+        "reading": "せっかい",
+        "meaning": "lime; quicklime"
       },
       {
-        "term": "はいざら",
-        "reading": "",
-        "meaning": "灰皿[n]ashtray"
+        "term": "お皿",
+        "reading": "おさら",
+        "meaning": "plate; dish"
+      },
+      {
+        "term": "受け皿",
+        "reading": "うけざら",
+        "meaning": "saucer; person (group, institution, etc.) to take over a position or matter"
       }
     ]
   },
@@ -20534,13 +26856,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "もらして",
     "meaning_en": "Ihave not shared your secret.",
-    "explanation": "正解は「もらして」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "もらして",
-        "reading": "もらして",
-        "meaning": ""
-      },
       {
         "term": "もれて",
         "reading": "もれて",
@@ -20580,27 +26898,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ことに",
     "meaning_en": "lam happy that I got into the university | wanted to.",
-    "explanation": "正解は「ことに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "殊",
+        "onyomi": "シュ",
+        "kunyomi": "こと",
+        "meaning": "Particularly, Especially, Exceptionally"
+      }
+    ],
     "similar": [
       {
-        "term": "ことに",
-        "reading": "",
-        "meaning": "殊に[ad]especially"
+        "term": "特殊",
+        "reading": "とくしゅ",
+        "meaning": "special; unique"
       },
       {
-        "term": "ことは",
-        "reading": "ことは",
-        "meaning": ""
+        "term": "殊に",
+        "reading": "ことに",
+        "meaning": "especially; above all"
       },
       {
-        "term": "というと",
-        "reading": "",
-        "meaning": "when it comes to"
-      },
-      {
-        "term": "ことだから",
-        "reading": "ことだから",
-        "meaning": ""
+        "term": "殊勝",
+        "reading": "しゅしょう",
+        "meaning": "admirable; laudable"
       }
     ]
   },
@@ -20626,12 +26947,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "汗",
     "meaning_en": "sweat; perspiration",
-    "explanation": "正解は「汗」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "汗",
+        "onyomi": "カン",
+        "kunyomi": "あせ",
+        "meaning": "Sweat, Perspire"
+      }
+    ],
     "similar": [
       {
-        "term": "汗",
-        "reading": "あせ",
-        "meaning": "sweat; perspiration"
+        "term": "冷や汗",
+        "reading": "ひやあせ",
+        "meaning": "cold sweat"
+      },
+      {
+        "term": "成吉思汗",
+        "reading": "ジンギスカン",
+        "meaning": "jingisukan; grilled mutton and vegetable dish"
+      },
+      {
+        "term": "発汗",
+        "reading": "はっかん",
+        "meaning": "sweating; perspiration"
       }
     ]
   },
@@ -20657,13 +26996,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "くつろいで",
     "meaning_en": "1 got a phone call to come to the office even though it was a holiday and | was at",
-    "explanation": "正解は「くつろいで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "くつろいで",
-        "reading": "くつろいで",
-        "meaning": ""
-      },
       {
         "term": "くらして",
         "reading": "くらして",
@@ -20703,27 +27038,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "応じて",
     "meaning_en": "You can choose a course that suits the level of your Japanese.",
-    "explanation": "正解は「応じて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "応",
+        "onyomi": "オウ・ヨウ・-ノウ",
+        "kunyomi": "あたる・まさに・こたえる",
+        "meaning": "Apply, Answer, Yes"
+      }
+    ],
     "similar": [
       {
-        "term": "応じて",
-        "reading": "おうじて",
-        "meaning": ""
+        "term": "応じる",
+        "reading": "おうじる",
+        "meaning": "to respond; to satisfy"
       },
       {
-        "term": "関して",
-        "reading": "かんして",
-        "meaning": ""
+        "term": "一応",
+        "reading": "いちおう",
+        "meaning": "once; tentatively"
       },
       {
-        "term": "際して",
-        "reading": "さいして",
-        "meaning": ""
-      },
-      {
-        "term": "反して",
-        "reading": "はんして",
-        "meaning": ""
+        "term": "応ずる",
+        "reading": "おうずる",
+        "meaning": "to answer; to respond"
       }
     ]
   },
@@ -20749,27 +27087,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こうよう",
     "meaning_en": "This place is beautiful when new leaves start to sprout and when they turn colors",
-    "explanation": "正解は「こうよう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "紅",
+        "onyomi": "コウ・ク",
+        "kunyomi": "べに・くれない・あかい",
+        "meaning": "Crimson, Deep Red"
+      },
+      {
+        "kanji": "葉",
+        "onyomi": "ヨウ",
+        "kunyomi": "は",
+        "meaning": "Leaf, Plane, Lobe"
+      }
+    ],
     "similar": [
       {
-        "term": "紅葉",
-        "reading": "こうよう",
-        "meaning": "(1) (Japanese) maple"
+        "term": "紅茶",
+        "reading": "こうちゃ",
+        "meaning": "black tea"
       },
       {
-        "term": "こよう",
-        "reading": "",
-        "meaning": "小用[n]①trifling matter②urination"
+        "term": "口紅",
+        "reading": "くちべに",
+        "meaning": "lipstick"
       },
       {
-        "term": "こうよう",
-        "reading": "",
-        "meaning": "効用[n]utility"
+        "term": "紅梅",
+        "reading": "こうばい",
+        "meaning": "red-blossomed plum tree; red Japanese apricot"
       },
       {
-        "term": "くうよう",
-        "reading": "くうよう",
-        "meaning": ""
+        "term": "葉書",
+        "reading": "はがき",
+        "meaning": "postcard"
+      },
+      {
+        "term": "言葉",
+        "reading": "ことば",
+        "meaning": "word; language"
       }
     ]
   },
@@ -20795,13 +27152,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "よしましょう",
     "meaning_en": "A： \"| want to talk about the new product we have been discussing” B： \"Let's not talk",
-    "explanation": "正解は「よしましょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "よしましょう",
-        "reading": "よしましょう",
-        "meaning": ""
-      },
       {
         "term": "はがしましょう",
         "reading": "はがしましょう",
@@ -20841,13 +27194,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "にそって",
     "meaning_en": "You will get to your destination if you follow this road.",
-    "explanation": "正解は「にそって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にそって",
-        "reading": "にそって",
-        "meaning": ""
-      },
       {
         "term": "にわたって",
         "reading": "にわたって",
@@ -20887,27 +27236,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "浮かんで",
     "meaning_en": "There is a boat on the lake.",
-    "explanation": "正解は「浮かんで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "浮",
+        "onyomi": "フ",
+        "kunyomi": "うく・うかれる・うかぶ・む・うかべる",
+        "meaning": "Floating, Float, Rise To Surface"
+      }
+    ],
     "similar": [
       {
-        "term": "浮かんで",
-        "reading": "うかんで",
-        "meaning": ""
+        "term": "浮かべる",
+        "reading": "うかべる",
+        "meaning": "to float; to express"
       },
       {
-        "term": "沈かんで",
-        "reading": "ちんかんで",
-        "meaning": ""
+        "term": "浮く",
+        "reading": "うく",
+        "meaning": "to float; to become merry"
       },
       {
-        "term": "流かんで",
-        "reading": "りゅうかんで",
-        "meaning": ""
-      },
-      {
-        "term": "注かんで",
-        "reading": "ちゅうかんで",
-        "meaning": ""
+        "term": "浮ぶ",
+        "reading": "うかぶ",
+        "meaning": "to float; to rise to surface"
       }
     ]
   },
@@ -20933,27 +27285,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "やりがい",
     "meaning_en": "A： \"How is your new job？” B： \"lt is a lot of hard work, but it is worth it.\"",
-    "explanation": "正解は「やりがい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "遣",
+        "onyomi": "ケン",
+        "kunyomi": "つかう・-つかい・-づかい・つかわす・やる",
+        "meaning": "Dispatch, Despatch, Send"
+      },
+      {
+        "kanji": "甲",
+        "onyomi": "コウ・カン",
+        "kunyomi": "きのえ",
+        "meaning": "Armor, High (voice), A Grade"
+      },
+      {
+        "kanji": "斐",
+        "onyomi": "ヒ・イ",
+        "kunyomi": "-",
+        "meaning": "Beautiful, Patterned"
+      }
+    ],
     "similar": [
       {
-        "term": "やりがい",
-        "reading": "",
-        "meaning": "遣り甲斐[n]worthwhile"
+        "term": "仮名遣い",
+        "reading": "かなづかい",
+        "meaning": "kana orthography; syllabary spelling"
       },
       {
-        "term": "あこがれ",
-        "reading": "あこがれ",
-        "meaning": ""
+        "term": "小遣い",
+        "reading": "こづかい",
+        "meaning": "personal expenses; pocket money"
       },
       {
-        "term": "いじめ",
-        "reading": "いじめ",
-        "meaning": ""
+        "term": "言葉遣い",
+        "reading": "ことばづかい",
+        "meaning": "speech; expression"
       },
       {
-        "term": "こだわり",
-        "reading": "こだわり",
-        "meaning": ""
+        "term": "生き甲斐",
+        "reading": "いきがい",
+        "meaning": "something one lives for, very important"
+      },
+      {
+        "term": "甲乙",
+        "reading": "こうおつ",
+        "meaning": "first and second; A and B"
       }
     ]
   },
@@ -20979,27 +27356,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "に反して",
     "meaning_en": "Contrary to the analysts' predictions, the economic situation has deteriorated.",
-    "explanation": "正解は「に反して」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "反",
+        "onyomi": "ハン・ホン・タン・ホ",
+        "kunyomi": "そる・そらす・かえす・かえる・-かえる",
+        "meaning": "Anti-"
+      }
+    ],
     "similar": [
       {
-        "term": "に反して",
-        "reading": "にはんして",
-        "meaning": "against; contrary to"
+        "term": "反対",
+        "reading": "はんたい",
+        "meaning": "opposition"
       },
       {
-        "term": "に基づいて",
-        "reading": "にもとづいて",
-        "meaning": "based on; on the basis of"
+        "term": "反抗",
+        "reading": "はんこう",
+        "meaning": "opposition; resistance"
       },
       {
-        "term": "に応えて",
-        "reading": "にこたえて",
-        "meaning": ""
-      },
-      {
-        "term": "によって",
-        "reading": "によって",
-        "meaning": ""
+        "term": "違反",
+        "reading": "いはん",
+        "meaning": "violation (of law); transgression"
       }
     ]
   },
@@ -21025,27 +27405,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ゆか",
     "meaning_en": "| wipe the floor once a week.",
-    "explanation": "正解は「ゆか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "床",
+        "onyomi": "ショウ",
+        "kunyomi": "とこ・ゆか",
+        "meaning": "Bed, Counter For Beds, Floor"
+      }
+    ],
     "similar": [
       {
-        "term": "床",
-        "reading": "ゆか",
-        "meaning": "floor"
+        "term": "床の間",
+        "reading": "とこのま",
+        "meaning": "alcove"
       },
       {
-        "term": "ゆか",
-        "reading": "",
-        "meaning": "床[n]floor"
+        "term": "床屋",
+        "reading": "とこや",
+        "meaning": "barber"
       },
       {
-        "term": "はしら",
-        "reading": "",
-        "meaning": "柱[n]pillar"
-      },
-      {
-        "term": "のき",
-        "reading": "",
-        "meaning": "軒[n]eaves"
+        "term": "起床",
+        "reading": "きしょう",
+        "meaning": "rising; getting out of bed"
       }
     ]
   },
@@ -21071,27 +27454,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "体がもたない",
     "meaning_en": "IfI do not take a vacation soon, my body is going to fall apart.",
-    "explanation": "正解は「体がもたない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "体",
+        "onyomi": "タイ・テイ",
+        "kunyomi": "からだ・かたち",
+        "meaning": "Body, Substance, Object"
+      }
+    ],
     "similar": [
       {
-        "term": "体がもたない",
-        "reading": "からだがもたない",
-        "meaning": ""
+        "term": "大体",
+        "reading": "だいたい",
+        "meaning": "generally"
       },
       {
-        "term": "やる気にならない",
-        "reading": "やるきにならない",
-        "meaning": ""
+        "term": "一体",
+        "reading": "いったい",
+        "meaning": "(1) one object; one body"
       },
       {
-        "term": "まともにならない",
-        "reading": "まともにならない",
-        "meaning": ""
-      },
-      {
-        "term": "手が空かない",
-        "reading": "てがあかない",
-        "meaning": ""
+        "term": "体温",
+        "reading": "たいおん",
+        "meaning": "temperature (body)"
       }
     ]
   },
@@ -21117,27 +27503,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にかぎって",
     "meaning_en": "I always carry an umbrella but today of all days, I forgot it.",
-    "explanation": "正解は「にかぎって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "限",
+        "onyomi": "ゲン",
+        "kunyomi": "かぎる・かぎり・-かぎり",
+        "meaning": "Limit, Restrict, To Best Of Ability"
+      }
+    ],
     "similar": [
       {
-        "term": "にかぎって",
-        "reading": "にかぎって",
-        "meaning": ""
+        "term": "制限",
+        "reading": "せいげん",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "にかぎらず",
-        "reading": "にかぎらず",
-        "meaning": ""
+        "term": "限る",
+        "reading": "かぎる",
+        "meaning": "to restrict; to limit"
       },
       {
-        "term": "かぎりで",
-        "reading": "かぎりで",
-        "meaning": ""
-      },
-      {
-        "term": "をかぎりに",
-        "reading": "をかぎりに",
-        "meaning": ""
+        "term": "限界",
+        "reading": "げんかい",
+        "meaning": "limit; bound"
       }
     ]
   },
@@ -21163,27 +27552,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かこまれて",
     "meaning_en": "My grandfather looks happy surrounded by his children and grandchildren.",
-    "explanation": "正解は「かこまれて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "囲",
+        "onyomi": "イ",
+        "kunyomi": "かこむ・かこう・かこい",
+        "meaning": "Surround, Besiege, Store"
+      }
+    ],
     "similar": [
       {
-        "term": "囲まれて",
-        "reading": "かこまれて",
-        "meaning": ""
+        "term": "周囲",
+        "reading": "しゅうい",
+        "meaning": "surroundings; circumference"
       },
       {
-        "term": "はさまれて",
-        "reading": "はさまれて",
-        "meaning": ""
+        "term": "囲む",
+        "reading": "かこむ",
+        "meaning": "to surround; to encircle"
       },
       {
-        "term": "めぐまれて",
-        "reading": "めぐまれて",
-        "meaning": ""
-      },
-      {
-        "term": "うとまれて",
-        "reading": "うとまれて",
-        "meaning": ""
+        "term": "範囲",
+        "reading": "はんい",
+        "meaning": "extent; scope"
       }
     ]
   },
@@ -21209,27 +27601,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "たえず",
     "meaning_en": "絶えず[ad]continuously",
-    "explanation": "正解は「たえず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "絶",
+        "onyomi": "ゼツ",
+        "kunyomi": "たえる・たやす・たつ",
+        "meaning": "Discontinue, Sever, Cut Off"
+      }
+    ],
     "similar": [
       {
-        "term": "たえず",
-        "reading": "",
-        "meaning": "絶えず[ad]continuously"
+        "term": "絶対",
+        "reading": "ぜったい",
+        "meaning": "absolute; unconditional"
       },
       {
-        "term": "うんと",
-        "reading": "",
-        "meaning": "a great deal; very much"
+        "term": "絶滅",
+        "reading": "ぜつめつ",
+        "meaning": "destruction; extinction"
       },
       {
-        "term": "じょじょに",
-        "reading": "",
-        "meaning": "徐徐に[ad]slowly"
-      },
-      {
-        "term": "ぞくぞくと",
-        "reading": "ぞくぞくと",
-        "meaning": ""
+        "term": "絶えず",
+        "reading": "たえず",
+        "meaning": "constantly"
       }
     ]
   },
@@ -21255,13 +27650,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "のもとで",
     "meaning_en": "This movie is based on a true story.",
-    "explanation": "正解は「のもとで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のもとで",
-        "reading": "のもとで",
-        "meaning": ""
-      },
       {
         "term": "につれて",
         "reading": "につれて",
@@ -21300,28 +27691,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "沸いた",
-    "meaning_en": "Target: 沸いた",
-    "explanation": "正解は「沸いた」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "沸",
+        "onyomi": "フツ",
+        "kunyomi": "わく・わかす",
+        "meaning": "Seethe, Boil, Ferment"
+      }
+    ],
     "similar": [
       {
-        "term": "沸いた",
-        "reading": "ふついた",
-        "meaning": ""
+        "term": "沸かす",
+        "reading": "わかす",
+        "meaning": "to boil; to heat"
       },
       {
-        "term": "浮いた",
-        "reading": "ういた",
-        "meaning": ""
+        "term": "沸く",
+        "reading": "わく",
+        "meaning": "to boil; to grow hot"
       },
       {
-        "term": "乾いた",
-        "reading": "かわいた",
-        "meaning": ""
-      },
-      {
-        "term": "蒸いた",
-        "reading": "じょういた",
-        "meaning": ""
+        "term": "沸騰",
+        "reading": "ふっとう",
+        "meaning": "boiling; seething"
       }
     ]
   },
@@ -21347,27 +27741,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "もうかる",
     "meaning_en": "Online advertising is pretty profitable.",
-    "explanation": "正解は「もうかる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "儲",
+        "onyomi": "チョ",
+        "kunyomi": "もうける・もうかる・もうけ・たくわえる",
+        "meaning": "Be Profitable, Yield Profit"
+      }
+    ],
     "similar": [
       {
-        "term": "もうかる",
-        "reading": "",
-        "meaning": "儲かる[vg]to be profitable"
+        "term": "儲かる",
+        "reading": "もうかる",
+        "meaning": "to be profitable; to yield a profit"
       },
       {
-        "term": "かせぐ",
-        "reading": "",
-        "meaning": "稼ぐ[vg]labor"
+        "term": "儲ける",
+        "reading": "もうける",
+        "meaning": "to get; to earn"
       },
       {
-        "term": "まかせる",
-        "reading": "",
-        "meaning": "任せる[vi]①entrust②leave"
-      },
-      {
-        "term": "つながる",
-        "reading": "",
-        "meaning": "繋がる[vg]to be tied"
+        "term": "儲け",
+        "reading": "もうけ",
+        "meaning": "profit; earnings"
       }
     ]
   },
@@ -21393,27 +27790,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にもかかわらず",
     "meaning_en": "I kept working even though I was not feeling well.",
-    "explanation": "正解は「にもかかわらず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "拘",
+        "onyomi": "コウ",
+        "kunyomi": "かかわる",
+        "meaning": "Arrest, Seize, Concerned"
+      }
+    ],
     "similar": [
       {
-        "term": "にもかかわらず",
-        "reading": "",
-        "meaning": "(1+0)にも拘らず[c]nonetheless"
+        "term": "にも拘らず",
+        "reading": "にもかかわらず",
+        "meaning": "in spite of; nevertheless"
       },
       {
-        "term": "に反して",
-        "reading": "にはんして",
-        "meaning": "against; contrary to"
+        "term": "拘束",
+        "reading": "こうそく",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "のに加えて",
-        "reading": "のにくわえて",
-        "meaning": ""
-      },
-      {
-        "term": "のを問わず",
-        "reading": "のをとわず",
-        "meaning": ""
+        "term": "拘り",
+        "reading": "こだわり",
+        "meaning": "obsession; fixation"
       }
     ]
   },
@@ -21439,27 +27839,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "れっしゃ",
     "meaning_en": "We will be giving one person a train trip through Kyushu.",
-    "explanation": "正解は「れっしゃ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "列",
+        "onyomi": "レツ・レ",
+        "kunyomi": "-",
+        "meaning": "File, Row, Rank"
+      },
+      {
+        "kanji": "車",
+        "onyomi": "シャ",
+        "kunyomi": "くるま",
+        "meaning": "Car"
+      }
+    ],
     "similar": [
       {
-        "term": "列車",
-        "reading": "れっしゃ",
-        "meaning": "train (ordinary)"
+        "term": "列島",
+        "reading": "れっとう",
+        "meaning": "chain of islands"
       },
       {
-        "term": "でんしゃ",
-        "reading": "",
-        "meaning": "電車[n]electric train"
+        "term": "行列",
+        "reading": "ぎょうれつ",
+        "meaning": "(1) line; procession"
       },
       {
-        "term": "れいしや",
-        "reading": "れいしや",
-        "meaning": ""
+        "term": "並列",
+        "reading": "へいれつ",
+        "meaning": "arrangement; parallel"
       },
       {
-        "term": "れっしゃ",
-        "reading": "",
-        "meaning": "列車[n]train"
+        "term": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automobile"
+      },
+      {
+        "term": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
       }
     ]
   },
@@ -21485,13 +27904,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こなしている",
     "meaning_en": "| wonder how many people have mastered how to use the functions of their cellu-",
-    "explanation": "正解は「こなしている」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "こなしている",
-        "reading": "こなしている",
-        "meaning": ""
-      },
       {
         "term": "こんでいる",
         "reading": "こんでいる",
@@ -21531,13 +27946,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "つけて",
     "meaning_en": "He worked hard to live up to the expectations of the people around him.",
-    "explanation": "正解は「つけて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "つけて",
-        "reading": "つけて",
-        "meaning": ""
-      },
       {
         "term": "すれば",
         "reading": "すれば",
@@ -21577,27 +27988,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "磨きましょう",
     "meaning_en": "We should brush our teeth after eating.",
-    "explanation": "正解は「磨きましょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "磨",
+        "onyomi": "マ",
+        "kunyomi": "みがく・する",
+        "meaning": "Grind, Polish, Scour"
+      }
+    ],
     "similar": [
       {
-        "term": "磨きましょう",
-        "reading": "みがきましょう",
-        "meaning": ""
+        "term": "磨く",
+        "reading": "みがく",
+        "meaning": "to brush teeth; to polish"
       },
       {
-        "term": "省きましょう",
-        "reading": "はぶきましょう",
-        "meaning": ""
+        "term": "歯磨き",
+        "reading": "はみがき",
+        "meaning": "dentifrice; toothpaste"
       },
       {
-        "term": "抜きましょう",
-        "reading": "ぬきましょう",
-        "meaning": ""
-      },
-      {
-        "term": "除きましょう",
-        "reading": "のぞきましょう",
-        "meaning": ""
+        "term": "歯磨",
+        "reading": "はみがき",
+        "meaning": "dentifrice; toothpaste"
       }
     ]
   },
@@ -21623,26 +28037,29 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "取りつぐ",
     "meaning_en": "You could say I handle phone calls, but really it is just an easy job of transferring",
-    "explanation": "正解は「取りつぐ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      }
+    ],
     "similar": [
       {
-        "term": "取りつぐ",
-        "reading": "とりつぐ",
-        "meaning": ""
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
       },
       {
-        "term": "取りこむ",
-        "reading": "とりこむ",
-        "meaning": ""
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
       },
       {
-        "term": "取りくむ",
-        "reading": "とりくむ",
-        "meaning": ""
-      },
-      {
-        "term": "取りあつかう",
-        "reading": "とりあつかう",
+        "term": "取り上げ",
+        "reading": "とりあげる",
         "meaning": ""
       }
     ]
@@ -21669,27 +28086,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "にわたって",
     "meaning_en": "Idid 30 years of research. 130年来一直持研究。1305012対2子2。",
-    "explanation": "正解は「にわたって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "渡",
+        "onyomi": "ト",
+        "kunyomi": "わたる・-わたる・わたす",
+        "meaning": "Transit, Ford, Ferry"
+      }
+    ],
     "similar": [
       {
-        "term": "にわたって",
-        "reading": "にわたって",
-        "meaning": ""
+        "term": "渡す",
+        "reading": "わたす",
+        "meaning": "to hand over"
       },
       {
-        "term": "を問わず",
-        "reading": "をとわず",
-        "meaning": ""
+        "term": "渡る",
+        "reading": "わたる",
+        "meaning": "to go across"
       },
       {
-        "term": "にかけて",
-        "reading": "にかけて",
-        "meaning": "till; to"
-      },
-      {
-        "term": "を中心に",
-        "reading": "をちゅうしんに",
-        "meaning": ""
+        "term": "橋渡し",
+        "reading": "はしわたし",
+        "meaning": "bridge building; mediation"
       }
     ]
   },
@@ -21715,27 +28135,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ふれないで",
     "meaning_en": "Please do not touch because you might get burned.",
-    "explanation": "正解は「ふれないで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "触",
+        "onyomi": "ショク",
+        "kunyomi": "ふれる・さわる・さわ",
+        "meaning": "Contact, Touch, Feel"
+      }
+    ],
     "similar": [
       {
-        "term": "触れないでください",
-        "reading": "ふれないでください",
-        "meaning": ""
+        "term": "触る",
+        "reading": "さわる",
+        "meaning": "to touch"
       },
       {
-        "term": "さわれないで",
-        "reading": "さわれないで",
-        "meaning": ""
+        "term": "触れる",
+        "reading": "ふれる",
+        "meaning": "to touch; to be touched"
       },
       {
-        "term": "ふれないで",
-        "reading": "ふれないで",
-        "meaning": ""
-      },
-      {
-        "term": "すれないで",
-        "reading": "すれないで",
-        "meaning": ""
+        "term": "感触",
+        "reading": "かんしょく",
+        "meaning": "sense of touch; feeling"
       }
     ]
   },
@@ -21761,13 +28184,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "クレーム",
     "meaning_en": "claim",
-    "explanation": "正解は「クレーム」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "クレーム",
-        "reading": "クレーム",
-        "meaning": "claim"
-      },
       {
         "term": "コメント",
         "reading": "コメント",
@@ -21807,13 +28226,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "をめぐって",
     "meaning_en": "| would never have succeeded without my family's support.",
-    "explanation": "正解は「をめぐって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をめぐって",
-        "reading": "をめぐって",
-        "meaning": ""
-      },
       {
         "term": "のせいで",
         "reading": "のせいで",
@@ -21853,27 +28268,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ふで",
     "meaning_en": "|wrote kanji with a writing brush.",
-    "explanation": "正解は「ふで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "筆",
+        "onyomi": "ヒツ",
+        "kunyomi": "ふで",
+        "meaning": "Writing Brush, Writing, Painting Brush"
+      }
+    ],
     "similar": [
       {
-        "term": "筆",
-        "reading": "ふで",
-        "meaning": "writing brush"
+        "term": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "fountain pen"
       },
       {
-        "term": "たけ",
-        "reading": "",
-        "meaning": "丈[n]stature"
+        "term": "鉛筆",
+        "reading": "えんぴつ",
+        "meaning": "pencil"
       },
       {
-        "term": "はね",
-        "reading": "",
-        "meaning": "羽根[n]shuttlecock"
-      },
-      {
-        "term": "ふで",
-        "reading": "",
-        "meaning": "筆[n]writing brush"
+        "term": "執筆",
+        "reading": "しっぴつ",
+        "meaning": "writing"
       }
     ]
   },
@@ -21898,14 +28316,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こっている",
-    "meaning_en": "Target: こっている",
-    "explanation": "正解は「こっている」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "こっている",
-        "reading": "こっている",
-        "meaning": ""
-      },
       {
         "term": "けっている",
         "reading": "けっている",
@@ -21945,27 +28359,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "つけ",
     "meaning_en": "We rely on our neighbors whenever we need help.",
-    "explanation": "正解は「つけ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "付",
+        "onyomi": "フ",
+        "kunyomi": "つける・-つける・-づける・つけ・つけ-・-つけ・-づけ・-づけ・つく・-づく・つき・-つき・-つき・-づき・-づき",
+        "meaning": "Adhere, Attach, Refer To"
+      }
+    ],
     "similar": [
       {
-        "term": "つけ",
-        "reading": "つけ",
-        "meaning": ""
+        "term": "付く",
+        "reading": "つく",
+        "meaning": "to be attached"
       },
       {
-        "term": "しろ",
-        "reading": "",
-        "meaning": "白[n]white"
+        "term": "受付",
+        "reading": "うけつけ",
+        "meaning": "receipt"
       },
       {
-        "term": "やら",
-        "reading": "",
-        "meaning": "such things as A and B"
-      },
-      {
-        "term": "せよ",
-        "reading": "",
-        "meaning": "施与[n|vs]almsgiving"
+        "term": "片付ける",
+        "reading": "かたづける",
+        "meaning": "to tidy up"
       }
     ]
   },
@@ -21991,27 +28408,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "救った",
     "meaning_en": "Iread an article about a dog that saved a person.",
-    "explanation": "正解は「救った」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "救",
+        "onyomi": "キュウ",
+        "kunyomi": "すくう",
+        "meaning": "Salvation, Save, Help"
+      }
+    ],
     "similar": [
       {
-        "term": "救った",
-        "reading": "すくった",
-        "meaning": ""
+        "term": "救う",
+        "reading": "すくう",
+        "meaning": "to rescue from; to help out of"
       },
       {
-        "term": "助った",
-        "reading": "たすった",
-        "meaning": ""
+        "term": "救助",
+        "reading": "きゅうじょ",
+        "meaning": "relief; aid"
       },
       {
-        "term": "探った",
-        "reading": "さがった",
-        "meaning": ""
-      },
-      {
-        "term": "触った",
-        "reading": "さわった",
-        "meaning": ""
+        "term": "救い",
+        "reading": "すくい",
+        "meaning": "help; aid"
       }
     ]
   },
@@ -22037,27 +28457,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "やり取り",
     "meaning_en": "Ihave only been exchanging New Year's greeting cards with her; we have not",
-    "explanation": "正解は「やり取り」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      }
+    ],
     "similar": [
       {
-        "term": "やり取り",
-        "reading": "やりとり",
-        "meaning": "giving and taking; exchange (of letters)"
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
       },
       {
-        "term": "あげもらい",
-        "reading": "あげもらい",
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
+      },
+      {
+        "term": "取り上げ",
+        "reading": "とりあげる",
         "meaning": ""
-      },
-      {
-        "term": "行き帰り",
-        "reading": "いきかえり",
-        "meaning": ""
-      },
-      {
-        "term": "受け取り",
-        "reading": "うけとり",
-        "meaning": "receipt"
       }
     ]
   },
@@ -22083,13 +28506,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ほかならない",
     "meaning_en": "Only because of my hard work was | able to pass the exam.",
-    "explanation": "正解は「ほかならない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ほかならない",
-        "reading": "ほかならない",
-        "meaning": ""
-      },
       {
         "term": "しかない",
         "reading": "しかない",
@@ -22129,27 +28548,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "けしき",
     "meaning_en": "I would like to live somewhere in the country with a nice view.",
-    "explanation": "正解は「けしき」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "景",
+        "onyomi": "ケイ",
+        "kunyomi": "-",
+        "meaning": "Scenery, View"
+      },
+      {
+        "kanji": "色",
+        "onyomi": "ショク・シキ",
+        "kunyomi": "いろ",
+        "meaning": "Color"
+      }
+    ],
     "similar": [
       {
-        "term": "景色",
-        "reading": "けしき",
-        "meaning": "scene; landscape"
+        "term": "光景",
+        "reading": "こうけい",
+        "meaning": "scene; spectacle"
       },
       {
-        "term": "けいろ",
-        "reading": "",
-        "meaning": "経路[n]path"
+        "term": "景気",
+        "reading": "けいき",
+        "meaning": "condition; state"
       },
       {
-        "term": "けいしき",
-        "reading": "",
-        "meaning": "形式[n]form"
+        "term": "風景",
+        "reading": "ふうけい",
+        "meaning": "scenery"
       },
       {
-        "term": "けしき",
-        "reading": "",
-        "meaning": "気色[n]sign"
+        "term": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "brown"
+      },
+      {
+        "term": "黄色",
+        "reading": "きいろ",
+        "meaning": "yellow"
       }
     ]
   },
@@ -22175,13 +28613,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "リストラ",
     "meaning_en": "My coworker was let go due to company downsizing.",
-    "explanation": "正解は「リストラ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "リストラ",
-        "reading": "リストラ",
-        "meaning": "restructure"
-      },
       {
         "term": "ストレス",
         "reading": "ストレス",
@@ -22221,13 +28655,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "やら／やら",
     "meaning_en": "There are many flowers blooming, including red and yellow ones.",
-    "explanation": "正解は「やら／やら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "やら／やら",
-        "reading": "やら／やら",
-        "meaning": ""
-      },
       {
         "term": "なり／なり",
         "reading": "なり／なり",
@@ -22267,27 +28697,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "恵まれた",
     "meaning_en": "This area is endowed with hot springs and beautiful natural surroundings.",
-    "explanation": "正解は「恵まれた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "恵",
+        "onyomi": "ケイ・エ",
+        "kunyomi": "めぐむ・めぐみ",
+        "meaning": "Favor, Blessing, Grace"
+      }
+    ],
     "similar": [
       {
-        "term": "恵まれた",
-        "reading": "めぐまれた",
-        "meaning": ""
+        "term": "知恵",
+        "reading": "ちえ",
+        "meaning": "wisdom; wit"
       },
       {
-        "term": "治まれた",
-        "reading": "おさまれた",
-        "meaning": ""
+        "term": "恩恵",
+        "reading": "おんけい",
+        "meaning": "grace; favor"
       },
       {
-        "term": "囲まれた",
-        "reading": "かこまれた",
-        "meaning": ""
-      },
-      {
-        "term": "営まれた",
-        "reading": "いとなまれた",
-        "meaning": ""
+        "term": "恵まれる",
+        "reading": "めぐまれる",
+        "meaning": "to be blessed with; to be rich in"
       }
     ]
   },
@@ -22313,13 +28746,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "みじめな",
     "meaning_en": "Sometimes | feel miserable just because | am not married.",
-    "explanation": "正解は「みじめな」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "みじめな",
-        "reading": "みじめな",
-        "meaning": ""
-      },
       {
         "term": "あわれな",
         "reading": "あわれな",
@@ -22359,27 +28788,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "通った",
     "meaning_en": "Igot into an accident just because | happened to take that route.",
-    "explanation": "正解は「通った」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "通",
+        "onyomi": "ツウ・ツ",
+        "kunyomi": "とおる・とおり・-とおり・-どおり・とおす・とおし・-どおし・かよう",
+        "meaning": "Traffic, Pass Through, Avenue"
+      }
+    ],
     "similar": [
       {
-        "term": "通った",
-        "reading": "かよった",
-        "meaning": ""
+        "term": "交通",
+        "reading": "こうつう",
+        "meaning": "traffic; transportation"
       },
       {
-        "term": "通り",
-        "reading": "とおり",
-        "meaning": "in accordance with ~; following ~"
+        "term": "普通",
+        "reading": "ふつう",
+        "meaning": "usually; or a train that stops at every station"
       },
       {
-        "term": "通ろう",
-        "reading": "とうろう",
-        "meaning": ""
-      },
-      {
-        "term": "通って",
-        "reading": "とおって",
-        "meaning": ""
+        "term": "通う",
+        "reading": "かよう",
+        "meaning": "to commute"
       }
     ]
   },
@@ -22404,28 +28836,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ぬすまれた",
-    "meaning_en": "Target: ぬすまれた",
-    "explanation": "正解は「ぬすまれた」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "盗",
+        "onyomi": "トウ",
+        "kunyomi": "ぬすむ・ぬすみ",
+        "meaning": "Steal, Rob, Pilfer"
+      }
+    ],
     "similar": [
       {
-        "term": "盗まれた",
-        "reading": "ぬすまれた",
-        "meaning": ""
+        "term": "盗む",
+        "reading": "ぬすむ",
+        "meaning": "to steal"
       },
       {
-        "term": "ねすまれた",
-        "reading": "ねすまれた",
-        "meaning": ""
+        "term": "強盗",
+        "reading": "ごうとう",
+        "meaning": "robbery; burglary"
       },
       {
-        "term": "ぬすまれた",
-        "reading": "ぬすまれた",
-        "meaning": ""
-      },
-      {
-        "term": "なすまれた",
-        "reading": "なすまれた",
-        "meaning": ""
+        "term": "盗難",
+        "reading": "とうなん",
+        "meaning": "theft; robbery"
       }
     ]
   },
@@ -22451,13 +28886,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こもって",
     "meaning_en": "Ihave a test coming up, so I need to lock myself in my house and study.",
-    "explanation": "正解は「こもって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "こもって",
-        "reading": "こもって",
-        "meaning": ""
-      },
       {
         "term": "こめて",
         "reading": "こめて",
@@ -22497,13 +28928,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "のもとで",
     "meaning_en": "She was raised happily by very loving parents.",
-    "explanation": "正解は「のもとで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のもとで",
-        "reading": "のもとで",
-        "meaning": ""
-      },
       {
         "term": "をこめて",
         "reading": "をこめて",
@@ -22543,27 +28970,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ひがい",
     "meaning_en": "The extent of the damage caused by the earthquake was conveyed.",
-    "explanation": "正解は「ひがい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "被",
+        "onyomi": "ヒ",
+        "kunyomi": "こうむる・おおう・かぶる・かぶせる",
+        "meaning": "Incur, Cover, Veil"
+      },
+      {
+        "kanji": "害",
+        "onyomi": "ガイ",
+        "kunyomi": "-",
+        "meaning": "Harm, Injury"
+      }
+    ],
     "similar": [
       {
-        "term": "被害",
-        "reading": "ひがい",
-        "meaning": "damage"
+        "term": "被る",
+        "reading": "かぶる",
+        "meaning": "to suffer"
       },
       {
-        "term": "きがい",
-        "reading": "",
-        "meaning": "機外[n]outside an airplane"
+        "term": "被せる",
+        "reading": "かぶせる",
+        "meaning": "to cover (with something)"
       },
       {
-        "term": "ひがい",
-        "reading": "",
-        "meaning": "被害[n]be injured"
+        "term": "被保険者",
+        "reading": "ひほけんしゃ",
+        "meaning": "insured person"
       },
       {
-        "term": "へいがい",
-        "reading": "",
-        "meaning": "弊害[n]evil practice"
+        "term": "損害",
+        "reading": "そんがい",
+        "meaning": "damage; injury"
+      },
+      {
+        "term": "障害",
+        "reading": "しょうがい",
+        "meaning": "obstacle; impediment (fault)"
       }
     ]
   },
@@ -22589,27 +29035,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "気が進まない",
     "meaning_en": "A： \"Come with me to the department store this weekend.” B： \" do not really want to since it will",
-    "explanation": "正解は「気が進まない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      },
+      {
+        "kanji": "進",
+        "onyomi": "シン",
+        "kunyomi": "すすむ・すすめる",
+        "meaning": "Advance, Proceed, Progress"
+      }
+    ],
     "similar": [
       {
-        "term": "気が進まない",
-        "reading": "きがすすまない",
-        "meaning": ""
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
       },
       {
-        "term": "気がしない",
-        "reading": "きがしない",
-        "meaning": ""
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       },
       {
-        "term": "気があわない",
-        "reading": "きがあわない",
-        "meaning": ""
+        "term": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
       },
       {
-        "term": "気がきかない",
-        "reading": "きがきかない",
-        "meaning": ""
+        "term": "進む",
+        "reading": "すすむ",
+        "meaning": "to make progress"
+      },
+      {
+        "term": "前進",
+        "reading": "ぜんしん",
+        "meaning": "advance; drive"
       }
     ]
   },
@@ -22635,13 +29100,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "だらけ",
     "meaning_en": "This restaurant is good for women because the portions are small.",
-    "explanation": "正解は「だらけ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "だらけ",
-        "reading": "だらけ",
-        "meaning": "implying (negatively) that something is full of  e.g. mistakes"
-      },
       {
         "term": "むき",
         "reading": "",
@@ -22681,12 +29142,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "秒",
     "meaning_en": "second (60th min)",
-    "explanation": "正解は「秒」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "秒",
+        "onyomi": "ビョウ",
+        "kunyomi": "-",
+        "meaning": "Second (1/60 Minute)"
+      }
+    ],
     "similar": [
       {
-        "term": "秒",
-        "reading": "びょう",
-        "meaning": "second (60th min)"
+        "term": "秒読み",
+        "reading": "びょうよみ",
+        "meaning": "countdown"
+      },
+      {
+        "term": "秒速",
+        "reading": "びょうそく",
+        "meaning": "speed per second; velocity per second"
       }
     ]
   },
@@ -22712,27 +29186,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しみ",
     "meaning_en": "Since switching to a new cream, I feel like the luster of my skin has go improved. lt was",
-    "explanation": "正解は「しみ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "染",
+        "onyomi": "セン",
+        "kunyomi": "そめる・-ぞめ・-ぞめ・そまる・しみる・-じみる・しみ・-しめる",
+        "meaning": "Dye, Color, Paint"
+      }
+    ],
     "similar": [
       {
-        "term": "しみ",
-        "reading": "",
-        "meaning": "紙魚[n]bristletail"
+        "term": "汚染",
+        "reading": "おせん",
+        "meaning": "pollution; contamination"
       },
       {
-        "term": "しわ",
-        "reading": "",
-        "meaning": "wrinkles, creases"
+        "term": "伝染",
+        "reading": "でんせん",
+        "meaning": "contagion"
       },
       {
-        "term": "つや",
-        "reading": "",
-        "meaning": "通夜[n]wake"
-      },
-      {
-        "term": "ほくろ",
-        "reading": "",
-        "meaning": "黒子[n]mole"
+        "term": "感染",
+        "reading": "かんせん",
+        "meaning": "infection; contagion"
       }
     ]
   },
@@ -22758,22 +29235,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "なら",
     "meaning_en": "The bag has a nice shape as well as nice color.",
-    "explanation": "正解は「なら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "奈",
+        "onyomi": "ナ・ナイ・ダイ",
+        "kunyomi": "いかん・からなし",
+        "meaning": "Nara, What?"
+      },
+      {
+        "kanji": "良",
+        "onyomi": "リョウ",
+        "kunyomi": "よい・-よい・いい・-いい",
+        "meaning": "Good, Pleasing, Skilled"
+      }
+    ],
     "similar": [
       {
-        "term": "なら",
+        "term": "加奈陀",
+        "reading": "カナダ",
+        "meaning": "Canada"
+      },
+      {
+        "term": "奈良",
         "reading": "なら",
-        "meaning": "奈良[n]Nara"
+        "meaning": "Nara (city, prefecture)"
       },
       {
-        "term": "とか",
-        "reading": "とか",
-        "meaning": "渡河[n|vs]to cross a river"
+        "term": "巴奈馬",
+        "reading": "パナマ",
+        "meaning": "Panama"
       },
       {
-        "term": "やら",
-        "reading": "",
-        "meaning": "such things as A and B"
+        "term": "仲良し",
+        "reading": "なかよし",
+        "meaning": "intimate friend; bosom buddy"
+      },
+      {
+        "term": "不良",
+        "reading": "ふりょう",
+        "meaning": "badness; delinquent"
       }
     ]
   },
@@ -22799,27 +29300,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "おび",
     "meaning_en": "A simple obi is worn with yukata. Usually, no socks are worn.",
-    "explanation": "正解は「おび」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "帯",
+        "onyomi": "タイ",
+        "kunyomi": "おびる・おび",
+        "meaning": "Sash, Belt, Obi"
+      }
+    ],
     "similar": [
       {
-        "term": "帯",
-        "reading": "おび",
-        "meaning": "band (e.g. conduction; valence)"
+        "term": "熱帯",
+        "reading": "ねったい",
+        "meaning": "tropics"
       },
       {
-        "term": "たび",
-        "reading": "",
-        "meaning": "旅[n]travel"
+        "term": "包帯",
+        "reading": "ほうたい",
+        "meaning": "bandage; dressing"
       },
       {
-        "term": "ひも",
-        "reading": "",
-        "meaning": "紐[n]cord"
-      },
-      {
-        "term": "げた",
-        "reading": "",
-        "meaning": "下駄[n]clog"
+        "term": "地帯",
+        "reading": "ちたい",
+        "meaning": "area; zone"
       }
     ]
   },
@@ -22845,27 +29349,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "薬を飲まないようにしていたが、どうしても痛みを",
     "meaning_en": "| was trying not to take any medicine, but l just could not take the pain, so | took a",
-    "explanation": "正解は「薬を飲まないようにしていたが、どうしても痛みを」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "薬",
+        "onyomi": "ヤク",
+        "kunyomi": "くすり",
+        "meaning": "Medicine, Chemical, Enamel"
+      },
+      {
+        "kanji": "飲",
+        "onyomi": "イン・オン",
+        "kunyomi": "のむ・-のみ",
+        "meaning": "Drink, Smoke, Take"
+      },
+      {
+        "kanji": "痛",
+        "onyomi": "ツウ",
+        "kunyomi": "いたい・いたむ・いたましい・いためる",
+        "meaning": "Pain, Hurt, Damage"
+      }
+    ],
     "similar": [
       {
-        "term": "薬を飲まないようにしていたが、どうしても痛みを",
-        "reading": "くすりをのまないようにしていたが、どうしてもいたみを",
-        "meaning": ""
+        "term": "薬品",
+        "reading": "やくひん",
+        "meaning": "medicine(s); chemical(s)"
       },
       {
-        "term": "こらえられず",
-        "reading": "こらえられず",
-        "meaning": ""
+        "term": "薬局",
+        "reading": "やっきょく",
+        "meaning": "pharmacy; drugstore"
       },
       {
-        "term": "がまんせず",
-        "reading": "がまんせず",
-        "meaning": ""
+        "term": "薬指",
+        "reading": "くすりゆび",
+        "meaning": "ring finger"
       },
       {
-        "term": "おさえず",
-        "reading": "おさえず",
-        "meaning": ""
+        "term": "飲み物",
+        "reading": "のみもの",
+        "meaning": "a drink"
+      },
+      {
+        "term": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink"
       }
     ]
   },
@@ -22891,13 +29420,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "かまわず",
     "meaning_en": "He hugged the dog without worrying about his clothes getting dirty.",
-    "explanation": "正解は「かまわず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かまわず",
-        "reading": "かまわず",
-        "meaning": ""
-      },
       {
         "term": "とわず",
         "reading": "",
@@ -22937,12 +29462,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "綿",
     "meaning_en": "cotton; padding",
-    "explanation": "正解は「綿」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "綿",
+        "onyomi": "メン",
+        "kunyomi": "わた",
+        "meaning": "Cotton"
+      }
+    ],
     "similar": [
       {
-        "term": "綿",
-        "reading": "めん",
-        "meaning": "cotton; padding"
+        "term": "木綿",
+        "reading": "もめん",
+        "meaning": "cotton"
+      },
+      {
+        "term": "綿密",
+        "reading": "めんみつ",
+        "meaning": "minute; detailed"
+      },
+      {
+        "term": "綿布",
+        "reading": "めんぷ",
+        "meaning": "cotton cloth; cotton material"
       }
     ]
   },
@@ -22967,14 +29510,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "さからって",
-    "meaning_en": "Target: さからって",
-    "explanation": "正解は「さからって」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "さからって",
-        "reading": "さからって",
-        "meaning": ""
-      },
       {
         "term": "せめて",
         "reading": "せめて",
@@ -23014,27 +29553,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "買う",
     "meaning_en": "| will never buy anything that tastes that awful again.",
-    "explanation": "正解は「買う」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "買",
+        "onyomi": "バイ",
+        "kunyomi": "かう",
+        "meaning": "Buy"
+      }
+    ],
     "similar": [
       {
-        "term": "買う",
-        "reading": "かう",
-        "meaning": "to buy"
+        "term": "買い物",
+        "reading": "かいもの",
+        "meaning": "shopping"
       },
       {
-        "term": "買い",
-        "reading": "かい",
-        "meaning": "buying; shopping"
+        "term": "売買",
+        "reading": "ばいばい",
+        "meaning": "trade; buying and selling"
       },
       {
-        "term": "買った",
-        "reading": "かった",
-        "meaning": ""
-      },
-      {
-        "term": "買わない",
-        "reading": "かわない",
-        "meaning": ""
+        "term": "購買",
+        "reading": "こうばい",
+        "meaning": "purchase; buy"
       }
     ]
   },
@@ -23060,27 +29602,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ぼしゅう",
     "meaning_en": "Part-time help wanted. Enthusiastic workers welcome. Work hours are flexible.",
-    "explanation": "正解は「ぼしゅう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "募",
+        "onyomi": "ボ",
+        "kunyomi": "つのる",
+        "meaning": "Recruit, Campaign, Gather (contributions)"
+      },
+      {
+        "kanji": "集",
+        "onyomi": "シュウ",
+        "kunyomi": "あつまる・あつめる・つどう",
+        "meaning": "Gather, Meet, Congregate"
+      }
+    ],
     "similar": [
       {
-        "term": "募集",
-        "reading": "ぼしゅう",
-        "meaning": "recruiting; taking applications"
+        "term": "公募",
+        "reading": "こうぼ",
+        "meaning": "public appeal; public contribution"
       },
       {
-        "term": "もしゅう",
-        "reading": "もしゅう",
-        "meaning": ""
+        "term": "募る",
+        "reading": "つのる",
+        "meaning": "to invite; to solicit help  participation  etc"
       },
       {
-        "term": "ぶしゅう",
-        "reading": "ぶしゅう",
-        "meaning": ""
+        "term": "募金",
+        "reading": "ぼきん",
+        "meaning": "fund-raising; collection of funds"
       },
       {
-        "term": "ぼしゅう",
-        "reading": "",
-        "meaning": "募集[n|vs]recruit"
+        "term": "集める",
+        "reading": "あつめる",
+        "meaning": "to collect something"
+      },
+      {
+        "term": "集る",
+        "reading": "あつまる",
+        "meaning": "to gather"
       }
     ]
   },
@@ -23106,13 +29667,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "インフレ",
     "meaning_en": "Just after the Second World War, Japan faced severe inflation.",
-    "explanation": "正解は「インフレ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "インフレ",
-        "reading": "インフレ",
-        "meaning": "inflation"
-      },
       {
         "term": "ダウン",
         "reading": "ダウン",
@@ -23152,27 +29709,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "できる",
     "meaning_en": "|would attend if l could, but I cannot.",
-    "explanation": "正解は「できる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "出",
+        "onyomi": "シュツ・スイ",
+        "kunyomi": "でる・-で・だす・-だす・いでる・いだす",
+        "meaning": "Exit, Leave, Go Out"
+      },
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "できる",
-        "reading": "",
-        "meaning": "to be able to"
+        "term": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out"
       },
       {
-        "term": "する",
-        "reading": "",
-        "meaning": "to do"
+        "term": "出す",
+        "reading": "だす",
+        "meaning": "to put out"
       },
       {
-        "term": "した",
-        "reading": "",
-        "meaning": "舌[n]tongue"
+        "term": "出る",
+        "reading": "でる",
+        "meaning": "to appear; to leave"
       },
       {
-        "term": "しよう",
-        "reading": "",
-        "meaning": "子葉[n]cotyledon"
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       }
     ]
   },
@@ -23198,27 +29774,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ゆうき",
     "meaning_en": "courage; bravery",
-    "explanation": "正解は「ゆうき」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "勇",
+        "onyomi": "ユウ",
+        "kunyomi": "いさむ",
+        "meaning": "Courage, Cheer Up, Be In High Spirits"
+      },
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      }
+    ],
     "similar": [
       {
-        "term": "勇気",
-        "reading": "ゆうき",
-        "meaning": "courage; bravery"
+        "term": "勇ましい",
+        "reading": "いさましい",
+        "meaning": "brave; valiant"
       },
       {
-        "term": "ゆうき",
-        "reading": "",
-        "meaning": "誘起[n|vs]evoke"
+        "term": "勇敢",
+        "reading": "ゆうかん",
+        "meaning": "bravery; heroism"
       },
       {
-        "term": "ようき",
-        "reading": "",
-        "meaning": "容器[n]receptacle"
+        "term": "勇み足",
+        "reading": "いさみあし",
+        "meaning": "overeagerness; rashness"
       },
       {
-        "term": "にんき",
-        "reading": "",
-        "meaning": "任期[n]term of office"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
+      },
+      {
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       }
     ]
   },
@@ -23244,13 +29839,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "いばって",
     "meaning_en": "That superior is hated by his subordinates because he acts important even though",
-    "explanation": "正解は「いばって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "いばって",
-        "reading": "いばって",
-        "meaning": ""
-      },
       {
         "term": "だまって",
         "reading": "だまって",
@@ -23290,13 +29881,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しようがない",
     "meaning_en": "仕様がない[a]there's no other way",
-    "explanation": "正解は「しようがない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "しようがない",
-        "reading": "",
-        "meaning": "仕様がない[a]there's no other way"
-      },
       {
         "term": "ほかない",
         "reading": "ほかない",
@@ -23336,12 +29923,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "券",
     "meaning_en": "（May I see） your ticket， please?",
-    "explanation": "正解は「券」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "券",
+        "onyomi": "ケン",
+        "kunyomi": "-",
+        "meaning": "Ticket"
+      }
+    ],
     "similar": [
       {
-        "term": "券",
-        "reading": "けん",
-        "meaning": "ticket; coupon"
+        "term": "回数券",
+        "reading": "かいすうけん",
+        "meaning": "book of tickets"
+      },
+      {
+        "term": "定期券",
+        "reading": "ていきけん",
+        "meaning": "commuter pass; season ticket"
+      },
+      {
+        "term": "旅券",
+        "reading": "りょけん",
+        "meaning": "passport"
       }
     ]
   },
@@ -23367,27 +29972,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "せっかく",
     "meaning_en": "A： \"John knocked over the trash can again.\" B： \"Aww， and Ijust cleaned it up this",
-    "explanation": "正解は「せっかく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "折",
+        "onyomi": "セツ・シャク",
+        "kunyomi": "おる・おり・おり・-おり・おれる",
+        "meaning": "Fold, Break, Fracture"
+      },
+      {
+        "kanji": "角",
+        "onyomi": "カク",
+        "kunyomi": "かど・つの",
+        "meaning": "Angle, Corner, Square"
+      }
+    ],
     "similar": [
       {
-        "term": "せっかく",
-        "reading": "",
-        "meaning": "折角[ad]specially"
+        "term": "折る",
+        "reading": "おる",
+        "meaning": "to break or to fold"
       },
       {
-        "term": "さらに",
-        "reading": "",
-        "meaning": "更に[ad]furthermore"
+        "term": "折れる",
+        "reading": "おれる",
+        "meaning": "to break or be folded"
       },
       {
-        "term": "さっそく",
-        "reading": "",
-        "meaning": "早速[ad]immediately"
+        "term": "骨折",
+        "reading": "こっせつ",
+        "meaning": "bone fracture"
       },
       {
-        "term": "やがて",
-        "reading": "",
-        "meaning": "before long; soon"
+        "term": "三角",
+        "reading": "さんかく",
+        "meaning": "triangle; triangular"
+      },
+      {
+        "term": "四つ角",
+        "reading": "よつかど",
+        "meaning": "four corners; crossroads"
       }
     ]
   },
@@ -23413,27 +30037,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "借りた",
     "meaning_en": "Although I borrowed the book my teacher told me to read, I have not read it yet.",
-    "explanation": "正解は「借りた」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "借りた",
-        "reading": "かりた",
-        "meaning": ""
-      },
+        "kanji": "借",
+        "onyomi": "シャク",
+        "kunyomi": "かりる",
+        "meaning": "Borrow, Rent"
+      }
+    ],
+    "similar": [
       {
         "term": "借りる",
         "reading": "かりる",
         "meaning": "to borrow"
       },
       {
-        "term": "借りない",
-        "reading": "かりない",
-        "meaning": ""
+        "term": "借金",
+        "reading": "しゃっきん",
+        "meaning": "debt; loan"
       },
       {
-        "term": "借りよう",
-        "reading": "かりよう",
-        "meaning": ""
+        "term": "借り",
+        "reading": "かり",
+        "meaning": "borrowing; debt"
       }
     ]
   },
@@ -23459,27 +30086,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かいぜん",
     "meaning_en": "We are going to improve working conditions.",
-    "explanation": "正解は「かいぜん」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "改",
+        "onyomi": "カイ",
+        "kunyomi": "あらためる・あらたまる",
+        "meaning": "Reformation, Change, Modify"
+      },
+      {
+        "kanji": "善",
+        "onyomi": "ゼン",
+        "kunyomi": "よい・いい・よく・よしとする",
+        "meaning": "Virtuous, Good, Goodness"
+      }
+    ],
     "similar": [
       {
-        "term": "改善",
-        "reading": "かいぜん",
-        "meaning": "betterment; improvement"
+        "term": "改めて",
+        "reading": "あらためて",
+        "meaning": "another time; again"
       },
       {
-        "term": "かいぜん",
-        "reading": "",
-        "meaning": "改善[n|vs]ameliorate"
+        "term": "改める",
+        "reading": "あらためる",
+        "meaning": "to change; to alter"
       },
       {
-        "term": "かいざん",
-        "reading": "",
-        "meaning": "改竄[n|vs]falsify"
+        "term": "改札",
+        "reading": "かいさつ",
+        "meaning": "examination of tickets"
       },
       {
-        "term": "かいせん",
-        "reading": "",
-        "meaning": "開戦[n|vs]outbreak of the war"
+        "term": "善し悪し",
+        "reading": "よしあし",
+        "meaning": "good or bad; merits or demerits"
+      },
+      {
+        "term": "善良",
+        "reading": "ぜんりょう",
+        "meaning": "goodness; excellence"
       }
     ]
   },
@@ -23505,13 +30151,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "つりあった",
     "meaning_en": "She has a lot of debt because she did not live within her means.",
-    "explanation": "正解は「つりあった」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "つりあった",
-        "reading": "つりあった",
-        "meaning": ""
-      },
       {
         "term": "ちかづいた",
         "reading": "ちかづいた",
@@ -23551,13 +30193,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "どころか",
     "meaning_en": "It is already past 1:00 and | have not yet had breakfast, let alone lunch.",
-    "explanation": "正解は「どころか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "どころか",
-        "reading": "",
-        "meaning": "rather, far from"
-      },
       {
         "term": "ところが",
         "reading": "",
@@ -23597,27 +30235,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "燃やせる",
     "meaning_en": "Today is the day to put out burnable garbage.",
-    "explanation": "正解は「燃やせる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "燃",
+        "onyomi": "ネン",
+        "kunyomi": "もえる・もやす・もす",
+        "meaning": "Burn, Blaze, Glow"
+      }
+    ],
     "similar": [
       {
-        "term": "燃やせる",
-        "reading": "もやせる",
-        "meaning": ""
+        "term": "燃える",
+        "reading": "もえる",
+        "meaning": "to burn"
       },
       {
-        "term": "鉱やせる",
-        "reading": "こうやせる",
-        "meaning": ""
+        "term": "燃やす",
+        "reading": "もやす",
+        "meaning": "to burn"
       },
       {
-        "term": "燥やせる",
-        "reading": "そうやせる",
-        "meaning": ""
-      },
-      {
-        "term": "灰やせる",
-        "reading": "はいやせる",
-        "meaning": ""
+        "term": "燃料",
+        "reading": "ねんりょう",
+        "meaning": "fuel"
       }
     ]
   },
@@ -23643,27 +30284,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "人なつっこい",
     "meaning_en": "Apparently, I was the type of friendly baby who did not mind being held by anyone.",
-    "explanation": "正解は「人なつっこい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "人",
+        "onyomi": "ジン・ニン",
+        "kunyomi": "ひと・-り・-と",
+        "meaning": "Person"
+      }
+    ],
     "similar": [
       {
-        "term": "人なつっこい",
-        "reading": "にんなつっこい",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "甘やかされた",
-        "reading": "あまやかされた",
-        "meaning": ""
+        "term": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
       },
       {
-        "term": "ほがらかな",
-        "reading": "ほがらかな",
-        "meaning": ""
-      },
-      {
-        "term": "落ち着いている",
-        "reading": "おちついている",
-        "meaning": ""
+        "term": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
       }
     ]
   },
@@ -23689,13 +30333,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "をもとに",
     "meaning_en": "Prior to the examination in December, there will be a practice test in October.",
-    "explanation": "正解は「をもとに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をもとに",
-        "reading": "をもとに",
-        "meaning": ""
-      },
       {
         "term": "に先だって",
         "reading": "にさきだって",
@@ -23735,27 +30375,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "おさない",
     "meaning_en": "Please do not use bad language because the children might imitate you.",
-    "explanation": "正解は「おさない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "幼",
+        "onyomi": "ヨウ",
+        "kunyomi": "おさない",
+        "meaning": "Infancy, Childhood"
+      }
+    ],
     "similar": [
       {
-        "term": "幼い",
-        "reading": "おさない",
-        "meaning": "very young; childish"
+        "term": "幼児",
+        "reading": "ようじ",
+        "meaning": "infant; baby"
       },
       {
-        "term": "あやうい",
-        "reading": "",
-        "meaning": "危うい[a]dangerous"
+        "term": "幼稚",
+        "reading": "ようち",
+        "meaning": "infancy; childish"
       },
       {
-        "term": "おさない",
-        "reading": "",
-        "meaning": "幼い[a]infantile"
-      },
-      {
-        "term": "あどけない",
-        "reading": "",
-        "meaning": "naive"
+        "term": "幼稚園",
+        "reading": "ようちえん",
+        "meaning": "kindergarten"
       }
     ]
   },
@@ -23781,13 +30424,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "やっかいな",
     "meaning_en": "I solved what was bothering me the other day, but now I have another problem",
-    "explanation": "正解は「やっかいな」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "やっかいな",
-        "reading": "やっかいな",
-        "meaning": ""
-      },
       {
         "term": "くどい",
         "reading": "",
@@ -23827,27 +30466,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "にあたって",
     "meaning_en": "There are small shops surrounding the station.",
-    "explanation": "正解は「にあたって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      }
+    ],
     "similar": [
       {
-        "term": "にあたって",
-        "reading": "にあたって",
-        "meaning": ""
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
       },
       {
-        "term": "をめぐって",
-        "reading": "をめぐって",
-        "meaning": ""
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       },
       {
-        "term": "を中心に",
-        "reading": "をちゅうしんに",
-        "meaning": ""
-      },
-      {
-        "term": "につれて",
-        "reading": "につれて",
-        "meaning": ""
+        "term": "弁当",
+        "reading": "べんとう",
+        "meaning": "box lunch"
       }
     ]
   },
@@ -23873,27 +30515,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "こうほしゃ",
     "meaning_en": "I am going to decide who to vote for after listening to candidates' speeches.",
-    "explanation": "正解は「こうほしゃ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "候",
+        "onyomi": "コウ",
+        "kunyomi": "そうろう",
+        "meaning": "Climate, Season, Weather"
+      },
+      {
+        "kanji": "補",
+        "onyomi": "ホ",
+        "kunyomi": "おぎなう",
+        "meaning": "Supplement, Supply, Make Good"
+      },
+      {
+        "kanji": "者",
+        "onyomi": "シャ",
+        "kunyomi": "もの",
+        "meaning": "Someone, Person"
+      }
+    ],
     "similar": [
       {
-        "term": "候補者",
-        "reading": "こうほしゃ",
-        "meaning": "candidate; applicant"
+        "term": "候補",
+        "reading": "こうほ",
+        "meaning": "candidacy"
       },
       {
-        "term": "こうぼしゃ",
-        "reading": "こうぼしゃ",
-        "meaning": ""
+        "term": "天候",
+        "reading": "てんこう",
+        "meaning": "weather"
       },
       {
-        "term": "こうほうしゃ",
-        "reading": "こうほうしゃ",
-        "meaning": ""
+        "term": "気候",
+        "reading": "きこう",
+        "meaning": "climate"
       },
       {
-        "term": "こうほしゃ",
-        "reading": "",
-        "meaning": "候補者[n]candidate"
+        "term": "補う",
+        "reading": "おぎなう",
+        "meaning": "to compensate for"
+      },
+      {
+        "term": "補償",
+        "reading": "ほしょう",
+        "meaning": "compensation; reparation"
       }
     ]
   },
@@ -23919,13 +30586,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しゃがんで",
     "meaning_en": "That woman is crouching on the train platform. | wonder what is the matter.",
-    "explanation": "正解は「しゃがんで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "しゃがんで",
-        "reading": "しゃがんで",
-        "meaning": ""
-      },
       {
         "term": "またいで",
         "reading": "またいで",
@@ -23965,27 +30628,58 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "親切な彼女の",
     "meaning_en": "Because she is always kind, she will probably take care of it for you.",
-    "explanation": "正解は「親切な彼女の」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "親",
+        "onyomi": "シン",
+        "kunyomi": "おや・おや-・したしい・したしむ",
+        "meaning": "Parent, Intimacy, Relative"
+      },
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      },
+      {
+        "kanji": "彼",
+        "onyomi": "ヒ",
+        "kunyomi": "かれ・かの・かの",
+        "meaning": "He, That, The"
+      },
+      {
+        "kanji": "女",
+        "onyomi": "ジョ・ニョ・ニョウ",
+        "kunyomi": "おんな・め",
+        "meaning": "Woman, Female"
+      }
+    ],
     "similar": [
       {
-        "term": "親切な彼女の",
-        "reading": "しんせつなかのじょの",
-        "meaning": ""
+        "term": "両親",
+        "reading": "りょうしん",
+        "meaning": "both parents"
       },
       {
-        "term": "ことには",
-        "reading": "ことには",
-        "meaning": ""
+        "term": "親切",
+        "reading": "しんせつ",
+        "meaning": "kindness"
       },
       {
-        "term": "ことから",
-        "reading": "ことから",
-        "meaning": ""
+        "term": "母親",
+        "reading": "ははおや",
+        "meaning": "mother"
       },
       {
-        "term": "ことだから",
-        "reading": "ことだから",
-        "meaning": ""
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       }
     ]
   },
@@ -24011,12 +30705,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "腕",
     "meaning_en": "My boss has had his arms crossed for a while and it looks he is thinking about",
-    "explanation": "正解は「腕」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "腕",
+        "onyomi": "ワン",
+        "kunyomi": "うで",
+        "meaning": "Arm, Ability, Talent"
+      }
+    ],
     "similar": [
       {
-        "term": "腕",
-        "reading": "うで",
-        "meaning": "arm"
+        "term": "腕前",
+        "reading": "うでまえ",
+        "meaning": "ability; skill"
+      },
+      {
+        "term": "両腕",
+        "reading": "りょううで",
+        "meaning": "both arms"
+      },
+      {
+        "term": "右腕",
+        "reading": "みぎうで",
+        "meaning": "right arm; right-hand man"
       }
     ]
   },
@@ -24042,27 +30754,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "なんとか",
     "meaning_en": "何とか[ad]somehow",
-    "explanation": "正解は「なんとか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "何",
+        "onyomi": "カ",
+        "kunyomi": "なに・なん・なに-・なん-",
+        "meaning": "What"
+      }
+    ],
     "similar": [
       {
-        "term": "なんとか",
-        "reading": "",
-        "meaning": "何とか[ad]somehow"
+        "term": "何か",
+        "reading": "なにか",
+        "meaning": "something"
       },
       {
-        "term": "なんとも",
-        "reading": "",
-        "meaning": "nothing (with neg. verb); quite"
+        "term": "何で",
+        "reading": "なんで",
+        "meaning": "Why?; What for?"
       },
       {
-        "term": "なにかと",
-        "reading": "",
-        "meaning": "何かと[ad]in various ways"
-      },
-      {
-        "term": "なにより",
-        "reading": "",
-        "meaning": "most, best"
+        "term": "何でも",
+        "reading": "なんでも",
+        "meaning": "by all means; everything"
       }
     ]
   },
@@ -24088,13 +30803,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "をめぐって",
     "meaning_en": "Phones rang continuously with people calling to complain about the governor's",
-    "explanation": "正解は「をめぐって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をめぐって",
-        "reading": "をめぐって",
-        "meaning": ""
-      },
       {
         "term": "にもかかわらず",
         "reading": "",
@@ -24133,28 +30844,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "やとおう",
-    "meaning_en": "Target: やとおう",
-    "explanation": "正解は「やとおう」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "雇",
+        "onyomi": "コ",
+        "kunyomi": "やとう",
+        "meaning": "Employ, Hire"
+      }
+    ],
     "similar": [
       {
-        "term": "雇おう",
-        "reading": "こおう",
-        "meaning": ""
+        "term": "雇う",
+        "reading": "やとう",
+        "meaning": "to employ; to hire"
       },
       {
-        "term": "やとおう",
-        "reading": "やとおう",
-        "meaning": ""
+        "term": "雇用",
+        "reading": "こよう",
+        "meaning": "employment (long term); hire"
       },
       {
-        "term": "すくおう",
-        "reading": "すくおう",
-        "meaning": ""
-      },
-      {
-        "term": "うらなおう",
-        "reading": "うらなおう",
-        "meaning": ""
+        "term": "解雇",
+        "reading": "かいこ",
+        "meaning": "dismissal (of an employee); discharge"
       }
     ]
   },
@@ -24180,13 +30894,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "なめられて",
     "meaning_en": "The dog licked my face, and it got sticky.",
-    "explanation": "正解は「なめられて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "なめられて",
-        "reading": "なめられて",
-        "meaning": ""
-      },
       {
         "term": "しゃぶられて",
         "reading": "しゃぶられて",
@@ -24226,13 +30936,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "みないことには",
     "meaning_en": "No matter how much I am told that it is a good product， | will not really know",
-    "explanation": "正解は「みないことには」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "みないことには",
-        "reading": "みないことには",
-        "meaning": ""
-      },
       {
         "term": "みることだから",
         "reading": "みることだから",
@@ -24272,22 +30978,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "漁師",
     "meaning_en": "When I grow up， | want to become a fisherman and work at sea.",
-    "explanation": "正解は「漁師」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "漁",
+        "onyomi": "ギョ・リョウ",
+        "kunyomi": "あさる",
+        "meaning": "Fishing, Fishery"
+      },
+      {
+        "kanji": "師",
+        "onyomi": "シ",
+        "kunyomi": "いくさ",
+        "meaning": "Expert, Teacher, Master"
+      }
+    ],
     "similar": [
       {
-        "term": "漁師",
-        "reading": "りょうし",
-        "meaning": "fisherman"
+        "term": "漁業",
+        "reading": "ぎょぎょう",
+        "meaning": "fishing (industry)"
       },
       {
-        "term": "武士",
-        "reading": "ぶし",
-        "meaning": "warrior; samurai"
+        "term": "漁村",
+        "reading": "ぎょそん",
+        "meaning": "fishing village"
       },
       {
-        "term": "理容師",
-        "reading": "りようし",
-        "meaning": ""
+        "term": "漁船",
+        "reading": "ぎょせん",
+        "meaning": "fishing boat"
+      },
+      {
+        "term": "医師",
+        "reading": "いし",
+        "meaning": "doctor; physician"
+      },
+      {
+        "term": "技師",
+        "reading": "ぎし",
+        "meaning": "engineer; technician"
       }
     ]
   },
@@ -24313,13 +31043,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ぐっと",
     "meaning_en": "It has suddenly gotten cold recently. I need to get out my heater.",
-    "explanation": "正解は「ぐっと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぐっと",
-        "reading": "",
-        "meaning": "firmly; fast"
-      },
       {
         "term": "ざっと",
         "reading": "ざっと",
@@ -24359,13 +31085,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ことなく",
     "meaning_en": "She never got tired of looking at her son's painting.",
-    "explanation": "正解は「ことなく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ことなく",
-        "reading": "",
-        "meaning": "事無く[ad]uneventfully"
-      },
       {
         "term": "ばかりに",
         "reading": "",
@@ -24405,27 +31127,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "もどして",
     "meaning_en": "Please put the books back on the shelf.",
-    "explanation": "正解は「もどして」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "戻",
+        "onyomi": "レイ",
+        "kunyomi": "もどす・もどる",
+        "meaning": "Re-, Return, Revert"
+      }
+    ],
     "similar": [
       {
-        "term": "戻してください",
-        "reading": "もどしてください",
-        "meaning": ""
+        "term": "戻る",
+        "reading": "もどる",
+        "meaning": "to turn back"
       },
       {
-        "term": "もどして",
-        "reading": "もどして",
-        "meaning": ""
+        "term": "戻す",
+        "reading": "もどす",
+        "meaning": "to restore; to put back"
       },
       {
-        "term": "かえして",
-        "reading": "かえして",
-        "meaning": ""
-      },
-      {
-        "term": "とかして",
-        "reading": "とかして",
-        "meaning": ""
+        "term": "払い戻す",
+        "reading": "はらいもどす",
+        "meaning": "to repay; to pay back"
       }
     ]
   },
@@ -24451,27 +31176,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あらい",
     "meaning_en": "A： “Please clean the bathroom. Also, bring in the laundry” B： “You are asking a lot",
-    "explanation": "正解は「あらい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "粗",
+        "onyomi": "ソ",
+        "kunyomi": "あらい・あら-",
+        "meaning": "Coarse, Rough, Rugged"
+      }
+    ],
     "similar": [
       {
-        "term": "あらい",
-        "reading": "",
-        "meaning": "粗い[a]coarse"
+        "term": "粗末",
+        "reading": "そまつ",
+        "meaning": "crude; rough"
       },
       {
-        "term": "くどい",
-        "reading": "",
-        "meaning": "verbose; importunate"
+        "term": "粗い",
+        "reading": "あらい",
+        "meaning": "coarse; rough"
       },
       {
-        "term": "きつい",
-        "reading": "きつい",
-        "meaning": "tight; close"
-      },
-      {
-        "term": "つらい",
-        "reading": "",
-        "meaning": "辛い[a]painful"
+        "term": "粗筋",
+        "reading": "あらすじ",
+        "meaning": "outline; summary"
       }
     ]
   },
@@ -24496,14 +31224,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をとわず",
-    "meaning_en": "Target: をとわず",
-    "explanation": "正解は「をとわず」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をとわず",
-        "reading": "をとわず",
-        "meaning": ""
-      },
       {
         "term": "をきっかけに",
         "reading": "をきっかけに",
@@ -24543,27 +31267,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "つつみます",
     "meaning_en": "Wrap the ingredients in the gyoza wraps.",
-    "explanation": "正解は「つつみます」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "包",
+        "onyomi": "ホウ",
+        "kunyomi": "つつむ・くるむ",
+        "meaning": "Wrap, Pack Up, Cover"
+      }
+    ],
     "similar": [
       {
-        "term": "包みます",
-        "reading": "つつみます",
-        "meaning": ""
+        "term": "包む",
+        "reading": "つつむ",
+        "meaning": "to wrap"
       },
       {
-        "term": "たたみます",
-        "reading": "たたみます",
-        "meaning": ""
+        "term": "包み",
+        "reading": "つつみ",
+        "meaning": "bundle; package"
       },
       {
-        "term": "はさみます",
-        "reading": "はさみます",
-        "meaning": ""
-      },
-      {
-        "term": "つつみます",
-        "reading": "つつみます",
-        "meaning": ""
+        "term": "小包",
+        "reading": "こづつみ",
+        "meaning": "parcel; package"
       }
     ]
   },
@@ -24589,13 +31316,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "からかわないで",
     "meaning_en": "A： “Tanaka-san, you are so pretty and stylish that you must have guys running",
-    "explanation": "正解は「からかわないで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からかわないで",
-        "reading": "からかわないで",
-        "meaning": ""
-      },
       {
         "term": "なぐさめないで",
         "reading": "なぐさめないで",
@@ -24635,27 +31358,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "だからといって",
     "meaning_en": "Just because it is made by a famous artist does not mean that it is great.",
-    "explanation": "正解は「だからといって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "言",
+        "onyomi": "ゲン・ゴン",
+        "kunyomi": "いう・こと",
+        "meaning": "Say, Word"
+      }
+    ],
     "similar": [
       {
-        "term": "だからといって",
-        "reading": "だからといって",
-        "meaning": ""
+        "term": "言う",
+        "reading": "いう",
+        "meaning": "to say"
       },
       {
-        "term": "だけあって",
-        "reading": "だけあって",
-        "meaning": "as one would expect from ...; given that ... (naturally ...)"
+        "term": "言葉",
+        "reading": "ことば",
+        "meaning": "word; language"
       },
       {
-        "term": "のことだから",
-        "reading": "のことだから",
-        "meaning": ""
-      },
-      {
-        "term": "にもかかわらず",
-        "reading": "",
-        "meaning": "(1+0)にも拘らず[c]nonetheless"
+        "term": "一言",
+        "reading": "ひとこと",
+        "meaning": "single word"
       }
     ]
   },
@@ -24681,27 +31407,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "旧姓",
     "meaning_en": "Tanaka is my husband's last name, and Nakamura is my maiden name.",
-    "explanation": "正解は「旧姓」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "旧",
+        "onyomi": "キュウ",
+        "kunyomi": "ふるい・もと",
+        "meaning": "Old Times, Old Things, Old Friend"
+      },
+      {
+        "kanji": "姓",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "-",
+        "meaning": "Surname"
+      }
+    ],
     "similar": [
       {
-        "term": "旧姓",
-        "reading": "きゅうせい",
-        "meaning": "one's original family name; maiden name"
+        "term": "復旧",
+        "reading": "ふくきゅう",
+        "meaning": "restoration; restitution"
       },
       {
-        "term": "元姓",
-        "reading": "げんせい",
-        "meaning": ""
+        "term": "旧事",
+        "reading": "くじ",
+        "meaning": "past events; bygones"
       },
       {
-        "term": "臣姓",
-        "reading": "おみせい",
-        "meaning": ""
+        "term": "旧知",
+        "reading": "きゅうち",
+        "meaning": "old friend; old friendship"
       },
       {
-        "term": "久姓",
-        "reading": "きゅうせい",
-        "meaning": ""
+        "term": "姓名",
+        "reading": "せいめい",
+        "meaning": "full name"
+      },
+      {
+        "term": "同姓",
+        "reading": "どうせい",
+        "meaning": "same surname"
       }
     ]
   },
@@ -24727,27 +31472,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "つもり",
     "meaning_en": "Even though that was not my intention， | made Tanaka-san angry.",
-    "explanation": "正解は「つもり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "積",
+        "onyomi": "セキ",
+        "kunyomi": "つむ・-づみ・つもる・つもり",
+        "meaning": "Volume, Product (x*y), Acreage"
+      }
+    ],
     "similar": [
       {
-        "term": "つもり",
-        "reading": "",
-        "meaning": "intention"
+        "term": "積もる",
+        "reading": "つもる",
+        "meaning": "to pile up"
       },
       {
-        "term": "心配",
-        "reading": "しんぱいする",
-        "meaning": "to worry"
+        "term": "積極的",
+        "reading": "せっきょくてき",
+        "meaning": "positive; active"
       },
       {
-        "term": "計画",
-        "reading": "けいかくする",
-        "meaning": "to plan"
-      },
-      {
-        "term": "ようす",
-        "reading": "",
-        "meaning": "様子[n]situation"
+        "term": "体積",
+        "reading": "たいせき",
+        "meaning": "capacity; volume"
       }
     ]
   },
@@ -24773,13 +31521,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "こめて",
     "meaning_en": "Food tastes better when someone puts their heart into making it.",
-    "explanation": "正解は「こめて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "こめて",
-        "reading": "こめて",
-        "meaning": ""
-      },
       {
         "term": "とわず",
         "reading": "",
@@ -24819,27 +31563,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "とちゅう",
     "meaning_en": "A： \"| would like to buy a gift for your parents.” B： “Then let's stop by a department",
-    "explanation": "正解は「とちゅう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "途",
+        "onyomi": "ト",
+        "kunyomi": "みち",
+        "meaning": "Route, Way, Road"
+      },
+      {
+        "kanji": "中",
+        "onyomi": "チュウ",
+        "kunyomi": "なか・うち・あたる",
+        "meaning": "In, Inside, Middle"
+      }
+    ],
     "similar": [
       {
-        "term": "途中",
-        "reading": "とちゅう",
-        "meaning": "on the way"
+        "term": "途端",
+        "reading": "とたん",
+        "meaning": "just (now; at the moment"
       },
       {
-        "term": "とうちゅう",
-        "reading": "",
-        "meaning": "頭注[n]headnote"
+        "term": "中途",
+        "reading": "ちゅうと",
+        "meaning": "in the middle; half-way"
       },
       {
-        "term": "とちゅう",
-        "reading": "",
-        "meaning": "途中[n]on the way"
+        "term": "用途",
+        "reading": "ようと",
+        "meaning": "use; usefulness"
       },
       {
-        "term": "どうちゅう",
-        "reading": "",
-        "meaning": "道中[n]during the journey"
+        "term": "中々",
+        "reading": "なかなか",
+        "meaning": "considerably"
+      },
+      {
+        "term": "中学校",
+        "reading": "ちゅうがっこう",
+        "meaning": "junior high school; middle school"
       }
     ]
   },
@@ -24865,13 +31628,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かついで",
     "meaning_en": "My bike got broken in an accident， so I carried it on my shoulder.",
-    "explanation": "正解は「かついで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かついで",
-        "reading": "かついで",
-        "meaning": ""
-      },
       {
         "term": "どけて",
         "reading": "どけて",
@@ -24911,27 +31670,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "食事をして",
     "meaning_en": "Do not take this medicine unless you have eaten a meal.",
-    "explanation": "正解は「食事をして」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "食",
+        "onyomi": "ショク・ジキ",
+        "kunyomi": "くう・くらう・たべる・はむ",
+        "meaning": "Eat, Food"
+      },
+      {
+        "kanji": "事",
+        "onyomi": "ジ・ズ",
+        "kunyomi": "こと・つかう・つかえる",
+        "meaning": "Matter, Thing, Fact"
+      }
+    ],
     "similar": [
       {
-        "term": "食事をして",
-        "reading": "しょくじをして",
-        "meaning": ""
+        "term": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat"
       },
       {
-        "term": "食事をしない",
-        "reading": "しょくじをしない",
-        "meaning": ""
+        "term": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food"
       },
       {
-        "term": "食事をする",
-        "reading": "しょくじをする",
-        "meaning": ""
+        "term": "食堂",
+        "reading": "しょくどう",
+        "meaning": "dining hall"
       },
       {
-        "term": "食事をした",
-        "reading": "しょくじをした",
-        "meaning": ""
+        "term": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
+      },
+      {
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
       }
     ]
   },
@@ -24957,12 +31735,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "輪",
     "meaning_en": "Let's all form a circle and dance.",
-    "explanation": "正解は「輪」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "輪",
+        "onyomi": "リン",
+        "kunyomi": "わ",
+        "meaning": "Wheel, Ring, Circle"
+      }
+    ],
     "similar": [
       {
-        "term": "輪",
-        "reading": "わ",
-        "meaning": "ring; hoop"
+        "term": "指輪",
+        "reading": "ゆびわ",
+        "meaning": "finger ring"
+      },
+      {
+        "term": "車輪",
+        "reading": "しゃりん",
+        "meaning": "(car) wheel"
+      },
+      {
+        "term": "年輪",
+        "reading": "ねんりん",
+        "meaning": "annual tree ring"
       }
     ]
   },
@@ -24988,27 +31784,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "悪くした",
     "meaning_en": "It looks like what | said upset Tanaka-san, and now she will not talk to me.",
-    "explanation": "正解は「悪くした」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "悪",
+        "onyomi": "アク・オ",
+        "kunyomi": "わるい・わる-・あし・にくい・-にくい・ああ・いずくに・いずくんぞ・にくむ",
+        "meaning": "Bad, Vice, Rascal"
+      }
+    ],
     "similar": [
       {
-        "term": "悪くした",
-        "reading": "わるくした",
-        "meaning": ""
+        "term": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
       },
       {
-        "term": "落とした",
-        "reading": "おとした",
-        "meaning": ""
+        "term": "悪口",
+        "reading": "わるくち",
+        "meaning": "abuse; insult"
       },
       {
-        "term": "さわった",
-        "reading": "さわった",
-        "meaning": ""
-      },
-      {
-        "term": "かかった",
-        "reading": "かかった",
-        "meaning": ""
+        "term": "悪魔",
+        "reading": "あくま",
+        "meaning": "devil; demon"
       }
     ]
   },
@@ -25034,13 +31833,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "のをきっかけに",
     "meaning_en": "I found her commuter's pass, and that was the beginning of our friendship.",
-    "explanation": "正解は「のをきっかけに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のをきっかけに",
-        "reading": "のをきっかけに",
-        "meaning": ""
-      },
       {
         "term": "からといって",
         "reading": "",
@@ -25080,27 +31875,58 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かんきょう",
     "meaning_en": "The prime minister visited America and discussed environmental issues.",
-    "explanation": "正解は「かんきょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "環",
+        "onyomi": "カン",
+        "kunyomi": "わ",
+        "meaning": "Ring, Circle, Link"
+      },
+      {
+        "kanji": "境",
+        "onyomi": "キョウ・ケイ",
+        "kunyomi": "さかい",
+        "meaning": "Boundary, Border, Region"
+      },
+      {
+        "kanji": "問",
+        "onyomi": "モン",
+        "kunyomi": "とう・とい・とん",
+        "meaning": "Question, Ask, Problem"
+      },
+      {
+        "kanji": "題",
+        "onyomi": "ダイ",
+        "kunyomi": "-",
+        "meaning": "Topic, Subject"
+      }
+    ],
     "similar": [
       {
-        "term": "環境問題について",
-        "reading": "かんきょうもんだいについて",
-        "meaning": ""
+        "term": "環境",
+        "reading": "かんきょう",
+        "meaning": "environment; circumstance"
       },
       {
-        "term": "かんきゅう",
-        "reading": "",
-        "meaning": "緩急[n]degree of urgency"
+        "term": "循環",
+        "reading": "じゅんかん",
+        "meaning": "circulation; rotation"
       },
       {
-        "term": "けんきゅう",
-        "reading": "",
-        "meaning": "研究[n|vs]research"
+        "term": "一環",
+        "reading": "いっかん",
+        "meaning": "link (e.g. in a chain of events); part (of a plan, campaign, activities, etc.)"
       },
       {
-        "term": "けんきょう",
-        "reading": "",
-        "meaning": "顕教[n]exoteric Buddhism"
+        "term": "国境",
+        "reading": "こっきょう",
+        "meaning": "national or state border"
+      },
+      {
+        "term": "境界",
+        "reading": "きょうかい",
+        "meaning": "boundary"
       }
     ]
   },
@@ -25126,27 +31952,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "さっそく",
     "meaning_en": "|went to the new restaurant near my house just after it opened.",
-    "explanation": "正解は「さっそく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "早",
+        "onyomi": "ソウ・サッ",
+        "kunyomi": "はやい・はや・はや-・はやまる・はやめる・さ-",
+        "meaning": "Early, Fast"
+      },
+      {
+        "kanji": "速",
+        "onyomi": "ソク",
+        "kunyomi": "はやい・はや-・はやめる・すみやか",
+        "meaning": "Quick, Fast"
+      }
+    ],
     "similar": [
       {
-        "term": "さっそく",
-        "reading": "",
-        "meaning": "早速[ad]immediately"
+        "term": "早い",
+        "reading": "はやい",
+        "meaning": "early"
       },
       {
-        "term": "いずれ",
-        "reading": "",
-        "meaning": "where; which"
+        "term": "早口",
+        "reading": "はやくち",
+        "meaning": "fast-talking"
       },
       {
-        "term": "たびたび",
-        "reading": "",
-        "meaning": "often; repeatedly"
+        "term": "早速",
+        "reading": "さっそく",
+        "meaning": "at once; immediately"
       },
       {
-        "term": "とうとう",
-        "reading": "",
-        "meaning": "finally; after all"
+        "term": "速い",
+        "reading": "はやい",
+        "meaning": "quick"
+      },
+      {
+        "term": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid (e.g. progress)"
       }
     ]
   },
@@ -25172,27 +32017,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "頭のよさにかけては",
     "meaning_en": "school.",
-    "explanation": "正解は「頭のよさにかけては」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "頭",
+        "onyomi": "トウ・ズ・ト",
+        "kunyomi": "あたま・かしら・-がしら・かぶり",
+        "meaning": "Head, Counter For Large Animals"
+      }
+    ],
     "similar": [
       {
-        "term": "頭のよさにかけては",
-        "reading": "あたまのよさにかけては",
-        "meaning": ""
+        "term": "頭痛",
+        "reading": "ずつう",
+        "meaning": "headache"
       },
       {
-        "term": "頭がいいからといって",
-        "reading": "あたまがいいからといって",
-        "meaning": ""
+        "term": "先頭",
+        "reading": "せんとう",
+        "meaning": "head; lead"
       },
       {
-        "term": "頭がいいどころか",
-        "reading": "あたまがいいどころか",
-        "meaning": ""
-      },
-      {
-        "term": "頭のよさをぬきにして",
-        "reading": "あたまのよさをぬきにして",
-        "meaning": ""
+        "term": "頭脳",
+        "reading": "ずのう",
+        "meaning": "head; brains"
       }
     ]
   },
@@ -25218,27 +32066,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "せまい",
     "meaning_en": "Ido not mind a small room. Cheaper is better.",
-    "explanation": "正解は「せまい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "狭",
+        "onyomi": "キョウ・コウ",
+        "kunyomi": "せまい・せばめる・せばまる・さ",
+        "meaning": "Cramped, Narrow, Contract"
+      }
+    ],
     "similar": [
       {
-        "term": "狭い",
-        "reading": "せまい",
-        "meaning": "narrow"
+        "term": "偏狭",
+        "reading": "へんきょう",
+        "meaning": "narrow-mindedness; intolerance"
       },
       {
-        "term": "あさい",
-        "reading": "",
-        "meaning": "浅い[a]shallow"
+        "term": "狭まる",
+        "reading": "せばまる",
+        "meaning": "to narrow; to contract"
       },
       {
-        "term": "ひろい",
-        "reading": "",
-        "meaning": "広い[a]wide"
-      },
-      {
-        "term": "せまい",
-        "reading": "",
-        "meaning": "狭い[a]narrow"
+        "term": "狭める",
+        "reading": "せばめる",
+        "meaning": "to narrow; to reduce"
       }
     ]
   },
@@ -25264,27 +32115,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しだいに",
     "meaning_en": "The rain will get stronger in the afternoon.",
-    "explanation": "正解は「しだいに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "次",
+        "onyomi": "ジ・シ",
+        "kunyomi": "つぐ・つぎ",
+        "meaning": "Next, Order, Sequence"
+      },
+      {
+        "kanji": "第",
+        "onyomi": "ダイ・テイ",
+        "kunyomi": "-",
+        "meaning": "No., Residence"
+      }
+    ],
     "similar": [
       {
-        "term": "しだいに",
-        "reading": "",
-        "meaning": "次第に[ad]gradually"
+        "term": "次々",
+        "reading": "つぎつぎ",
+        "meaning": "in succession; one by one"
       },
       {
-        "term": "ただちに",
-        "reading": "",
-        "meaning": "直ちに[ad]immediately"
+        "term": "次第",
+        "reading": "しだい",
+        "meaning": "(1) order; precedence"
       },
       {
-        "term": "すでに",
-        "reading": "",
-        "meaning": "既に[ad]already"
+        "term": "次ぐ",
+        "reading": "つぐ",
+        "meaning": "to rank next to; to come after"
       },
       {
-        "term": "ひとりでに",
-        "reading": "",
-        "meaning": "by itself; automatically"
+        "term": "落第",
+        "reading": "らくだい",
+        "meaning": "failure; dropping out of a class"
+      },
+      {
+        "term": "第一",
+        "reading": "だいいち",
+        "meaning": "first; foremost"
       }
     ]
   },
@@ -25310,17 +32180,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "行かない",
     "meaning_en": "Because their houses were in danger of being blown away by the typhoon, no one",
-    "explanation": "正解は「行かない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "行",
+        "onyomi": "コウ・ギョウ・アン",
+        "kunyomi": "いく・ゆく・-ゆき・-ゆき・-いき・-いき・おこなう・おこなう",
+        "meaning": "Going, Journey, Carry Out"
+      }
+    ],
     "similar": [
       {
-        "term": "行かない",
-        "reading": "いかない",
-        "meaning": ""
-      },
-      {
-        "term": "行って",
-        "reading": "いって",
-        "meaning": ""
+        "term": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel"
       },
       {
         "term": "行く",
@@ -25328,9 +32201,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to go"
       },
       {
-        "term": "行った",
-        "reading": "いった",
-        "meaning": ""
+        "term": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank"
       }
     ]
   },
@@ -25356,12 +32229,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "畑",
     "meaning_en": "Iploughed the field and planted seeds.",
-    "explanation": "正解は「畑」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "畑",
+        "onyomi": "-",
+        "kunyomi": "はた・はたけ・-ばたけ",
+        "meaning": "Farm, Field, Garden"
+      }
+    ],
     "similar": [
       {
-        "term": "畑",
-        "reading": "はたけ",
-        "meaning": "field"
+        "term": "桑畑",
+        "reading": "くわばたけ",
+        "meaning": "mulberry field; mulberry plantation"
+      },
+      {
+        "term": "田畑",
+        "reading": "たはた",
+        "meaning": "fields (of rice and other crops)"
+      },
+      {
+        "term": "麦畑",
+        "reading": "むぎばたけ",
+        "meaning": "wheat field; barley field"
       }
     ]
   },
@@ -25387,27 +32278,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "おおぜい",
     "meaning_en": "大勢[n]many people",
-    "explanation": "正解は「おおぜい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      },
+      {
+        "kanji": "勢",
+        "onyomi": "セイ・ゼイ",
+        "kunyomi": "いきおい・はずみ",
+        "meaning": "Forces, Energy, Military Strength"
+      }
+    ],
     "similar": [
       {
-        "term": "おおぜい",
-        "reading": "",
-        "meaning": "大勢[n]many people"
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
       },
       {
-        "term": "おおいに",
-        "reading": "",
-        "meaning": "大いに[ad]greatly"
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       },
       {
-        "term": "おおよそ",
-        "reading": "",
-        "meaning": "大凡[ad]about"
+        "term": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "all right"
       },
       {
-        "term": "おおくに",
-        "reading": "おおくに",
-        "meaning": ""
+        "term": "大勢",
+        "reading": "おおぜい",
+        "meaning": "great number of people"
+      },
+      {
+        "term": "勢い",
+        "reading": "いきおい",
+        "meaning": "force; vigor"
       }
     ]
   },
@@ -25433,13 +32343,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "とした",
     "meaning_en": "More and more activities are focusing on CO2 reduction.",
-    "explanation": "正解は「とした」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "とした",
-        "reading": "とした",
-        "meaning": ""
-      },
       {
         "term": "による",
         "reading": "による",
@@ -25478,28 +32384,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ととのい",
-    "meaning_en": "Target: ととのい",
-    "explanation": "正解は「ととのい」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "整",
+        "onyomi": "セイ",
+        "kunyomi": "ととのえる・ととのう",
+        "meaning": "Organize, Arranging, Tune"
+      }
+    ],
     "similar": [
       {
-        "term": "整い",
-        "reading": "ととのい",
-        "meaning": ""
+        "term": "整理",
+        "reading": "せいり",
+        "meaning": "sorting; arrangement"
       },
       {
-        "term": "ととのい",
-        "reading": "ととのい",
-        "meaning": ""
+        "term": "整う",
+        "reading": "ととのう",
+        "meaning": "to be prepared; to be in order"
       },
       {
-        "term": "いきおい",
-        "reading": "",
-        "meaning": "勢い[n]momentum"
-      },
-      {
-        "term": "おこない",
-        "reading": "おこない",
-        "meaning": ""
+        "term": "整備",
+        "reading": "せいび",
+        "meaning": "adjustment; completion"
       }
     ]
   },
@@ -25525,13 +32434,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "たよらずに",
     "meaning_en": "It is important to solve problems like that on your own without depending on oth-",
-    "explanation": "正解は「たよらずに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "たよらずに",
-        "reading": "たよらずに",
-        "meaning": ""
-      },
       {
         "term": "ためさずに",
         "reading": "ためさずに",
@@ -25571,13 +32476,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "にかけては",
     "meaning_en": "She is the best when it comes to shopping around for good deals.",
-    "explanation": "正解は「にかけては」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にかけては",
-        "reading": "にかけては",
-        "meaning": ""
-      },
       {
         "term": "にわたっては",
         "reading": "にわたっては",
@@ -25616,28 +32517,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "干そう",
-    "meaning_en": "Target: 干そう",
-    "explanation": "正解は「干そう」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "干",
+        "onyomi": "カン",
+        "kunyomi": "ほす・ほし-・-ぼし・ひる",
+        "meaning": "Dry, Parch, Ebb"
+      }
+    ],
     "similar": [
       {
-        "term": "干そう",
-        "reading": "ほそう",
-        "meaning": ""
+        "term": "干す",
+        "reading": "ほす",
+        "meaning": "to air; to dry"
       },
       {
-        "term": "放そう",
-        "reading": "はなそう",
-        "meaning": ""
+        "term": "干し",
+        "reading": "ほし",
+        "meaning": "dried ~"
       },
       {
-        "term": "超そう",
-        "reading": "ちょうそう",
-        "meaning": ""
-      },
-      {
-        "term": "戻そう",
-        "reading": "もどそう",
-        "meaning": ""
+        "term": "干し物",
+        "reading": "ほしもの",
+        "meaning": "dried washing (clothes)"
       }
     ]
   },
@@ -25663,27 +32567,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "とっくに",
     "meaning_en": "A： “What time does the soccer game start at？\" B： \"lt started a while ago\"",
-    "explanation": "正解は「とっくに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "疾",
+        "onyomi": "シツ",
+        "kunyomi": "はやい",
+        "meaning": "Rapidly"
+      }
+    ],
     "similar": [
       {
-        "term": "とっくに",
-        "reading": "",
+        "term": "疾っくに",
+        "reading": "とっくに",
         "meaning": "long ago; already"
       },
       {
-        "term": "とつぜん",
-        "reading": "",
-        "meaning": "突然[ad]suddenly"
+        "term": "疾患",
+        "reading": "しっかん",
+        "meaning": "disease; illness"
       },
       {
-        "term": "ついに",
-        "reading": "",
-        "meaning": "遂に[ad]finally"
-      },
-      {
-        "term": "やっと",
-        "reading": "",
-        "meaning": "at last"
+        "term": "疾病",
+        "reading": "しっぺい",
+        "meaning": "illness; disease"
       }
     ]
   },
@@ -25709,13 +32616,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "からには",
     "meaning_en": "No matter how difficult it may be, I will definitely keep my promise.",
-    "explanation": "正解は「からには」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からには",
-        "reading": "からには",
-        "meaning": "now that"
-      },
       {
         "term": "からといって",
         "reading": "",
@@ -25755,27 +32658,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "のびた",
     "meaning_en": "My hair has grown so I had intended to go to the barber shop, but I put it off be-",
-    "explanation": "正解は「のびた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "伸",
+        "onyomi": "シン",
+        "kunyomi": "のびる・のばす・のべる・のす",
+        "meaning": "Expand, Stretch, Extend"
+      }
+    ],
     "similar": [
       {
-        "term": "伸びたので",
-        "reading": "のびたので",
-        "meaning": ""
+        "term": "伸ばす",
+        "reading": "のばす",
+        "meaning": "to lengthen; to stretch"
       },
       {
-        "term": "のびた",
-        "reading": "のびた",
-        "meaning": ""
+        "term": "伸びる",
+        "reading": "のびる",
+        "meaning": "to stretch; to extend"
       },
       {
-        "term": "さびた",
-        "reading": "さびた",
-        "meaning": ""
-      },
-      {
-        "term": "あびた",
-        "reading": "あびた",
-        "meaning": ""
+        "term": "伸し",
+        "reading": "のし",
+        "meaning": "stretching; sidestroke (swimming)"
       }
     ]
   },
@@ -25801,27 +32707,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "追いかけた",
     "meaning_en": "The dog got away so I chased it, but I could not catch it.",
-    "explanation": "正解は「追いかけた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "追",
+        "onyomi": "ツイ",
+        "kunyomi": "おう",
+        "meaning": "Chase, Drive Away, Follow"
+      }
+    ],
     "similar": [
       {
-        "term": "追いかけた",
-        "reading": "おいかけた",
-        "meaning": ""
+        "term": "追い付く",
+        "reading": "おいつく",
+        "meaning": "to overtake; to catch up (with)"
       },
       {
-        "term": "追い越した",
-        "reading": "おいこした",
-        "meaning": ""
+        "term": "追う",
+        "reading": "おう",
+        "meaning": "to chase; to run after"
       },
       {
-        "term": "引きとめた",
-        "reading": "ひきとめた",
-        "meaning": ""
-      },
-      {
-        "term": "引き返した",
-        "reading": "ひきかえした",
-        "meaning": ""
+        "term": "追いかける",
+        "reading": "おいかける",
+        "meaning": "to chase or run after someone"
       }
     ]
   },
@@ -25847,13 +32756,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "をもとに",
     "meaning_en": "This drama is based on a true story.",
-    "explanation": "正解は「をもとに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "をもとに",
-        "reading": "をもとに",
-        "meaning": ""
-      },
       {
         "term": "のもとで",
         "reading": "のもとで",
@@ -25893,27 +32798,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "よくじつ",
     "meaning_en": "The news of that explosion was heavily featured in the morning newspaper the",
-    "explanation": "正解は「よくじつ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "翌",
+        "onyomi": "ヨク",
+        "kunyomi": "-",
+        "meaning": "The Following, Next"
+      },
+      {
+        "kanji": "日",
+        "onyomi": "ニチ・ジツ",
+        "kunyomi": "ひ・-び・-か",
+        "meaning": "Day, Sun, Japan"
+      }
+    ],
     "similar": [
       {
-        "term": "翌日",
-        "reading": "よくじつ",
-        "meaning": "next day"
+        "term": "翌年",
+        "reading": "よくねん",
+        "meaning": "following year"
       },
       {
-        "term": "よくじつ",
-        "reading": "",
-        "meaning": "翌日[n]following day"
+        "term": "翌月",
+        "reading": "よくげつ",
+        "meaning": "following month"
       },
       {
-        "term": "よくにち",
-        "reading": "よくにち",
-        "meaning": ""
+        "term": "翌朝",
+        "reading": "よくあさ",
+        "meaning": "next morning"
       },
       {
-        "term": "あくるひ",
-        "reading": "",
-        "meaning": "明くる日[n]next day"
+        "term": "一日",
+        "reading": "いちにち",
+        "meaning": "(1) one day; (2) first of month"
+      },
+      {
+        "term": "一昨日",
+        "reading": "おととい",
+        "meaning": "day before yesterday"
       }
     ]
   },
@@ -25939,12 +32863,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "案",
     "meaning_en": "Please think of a good suggestion to solve this problem.",
-    "explanation": "正解は「案」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "案",
+        "onyomi": "アン",
+        "kunyomi": "つくえ",
+        "meaning": "Plan, Suggestion, Draft"
+      }
+    ],
     "similar": [
       {
-        "term": "案",
-        "reading": "あん",
-        "meaning": "plan; suffix meaning draft"
+        "term": "案内",
+        "reading": "あんないする",
+        "meaning": "to guide"
+      },
+      {
+        "term": "提案",
+        "reading": "ていあん",
+        "meaning": "proposal; proposition"
+      },
+      {
+        "term": "答案",
+        "reading": "とうあん",
+        "meaning": "examination paper; examination script"
       }
     ]
   },
@@ -25970,13 +32912,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "からして",
     "meaning_en": "I have heard this plant is poisonous. It is true that you can tell from the color that it",
-    "explanation": "正解は「からして」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からして",
-        "reading": "からして",
-        "meaning": ""
-      },
       {
         "term": "からこそ",
         "reading": "からこそ",
@@ -26016,27 +32954,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "登録",
     "meaning_en": "registration; register",
-    "explanation": "正解は「登録」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "登",
+        "onyomi": "トウ・ト・ドウ・ショウ・チョウ",
+        "kunyomi": "のぼる・あがる",
+        "meaning": "Ascend, Climb Up"
+      },
+      {
+        "kanji": "録",
+        "onyomi": "ロク",
+        "kunyomi": "しるす・とる",
+        "meaning": "Record"
+      }
+    ],
     "similar": [
       {
-        "term": "登録",
-        "reading": "とうろく",
-        "meaning": "registration; register"
+        "term": "登る",
+        "reading": "のぼる",
+        "meaning": "to climb"
       },
       {
-        "term": "依頼",
-        "reading": "いらい",
-        "meaning": "(1) request; commission"
+        "term": "登山",
+        "reading": "とざん",
+        "meaning": "mountain-climbing"
       },
       {
-        "term": "変更",
-        "reading": "へんこう",
-        "meaning": "change; modification"
+        "term": "登場",
+        "reading": "とうじょう",
+        "meaning": "entry (on stage)"
       },
       {
-        "term": "申告",
-        "reading": "しんこく",
-        "meaning": "report; statement"
+        "term": "記録",
+        "reading": "きろく",
+        "meaning": "record; minutes"
+      },
+      {
+        "term": "録音",
+        "reading": "ろくおん",
+        "meaning": "(audio) recording"
       }
     ]
   },
@@ -26062,27 +33019,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "いっせいに",
     "meaning_en": "After the performance, the audience rose at once and gave them a standing ova-",
-    "explanation": "正解は「いっせいに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "斉",
+        "onyomi": "セイ・サイ",
+        "kunyomi": "そろう・ひとしい・ひとしく・あたる・はやい",
+        "meaning": "Adjusted, Alike, Equal"
+      }
+    ],
     "similar": [
       {
-        "term": "いっせいに",
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
+      },
+      {
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "term": "一斉",
+        "reading": "いっせい",
+        "meaning": "simultaneous; all at once"
+      },
+      {
+        "term": "一斉に",
         "reading": "いっせいに",
-        "meaning": ""
-      },
-      {
-        "term": "いまにも",
-        "reading": "",
-        "meaning": "今にも[ad]soon"
-      },
-      {
-        "term": "かってに",
-        "reading": "かってに",
-        "meaning": ""
-      },
-      {
-        "term": "ひっしに",
-        "reading": "ひっしに",
-        "meaning": ""
+        "meaning": "simultaneously; all at once"
       }
     ]
   },
@@ -26108,27 +33084,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "便利な",
     "meaning_en": "Computers are convenient but, by that same token, can cause huge problems",
-    "explanation": "正解は「便利な」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "便利な",
-        "reading": "べんりな",
-        "meaning": ""
+        "kanji": "便",
+        "onyomi": "ベン・ビン",
+        "kunyomi": "たより",
+        "meaning": "Convenience, Facility, Excrement"
       },
+      {
+        "kanji": "利",
+        "onyomi": "リ",
+        "kunyomi": "きく",
+        "meaning": "Profit, Advantage, Benefit"
+      }
+    ],
+    "similar": [
       {
         "term": "便利",
         "reading": "べんり",
         "meaning": "useful; convenient"
       },
       {
-        "term": "便利だ",
-        "reading": "べんりだ",
-        "meaning": ""
+        "term": "郵便局",
+        "reading": "ゆうびんきょく",
+        "meaning": "post office"
       },
       {
-        "term": "便利じゃない",
-        "reading": "べんりじゃない",
-        "meaning": ""
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
+      },
+      {
+        "term": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
+      },
+      {
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       }
     ]
   },
@@ -26154,27 +33149,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "なやみ",
     "meaning_en": "It seems that she has some health concerns.",
-    "explanation": "正解は「なやみ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "悩",
+        "onyomi": "ノウ",
+        "kunyomi": "なやむ・なやます・なやましい・なやみ",
+        "meaning": "Trouble, Worry, In Pain"
+      }
+    ],
     "similar": [
       {
-        "term": "悩み",
-        "reading": "なやみ",
-        "meaning": "trouble(s); worry"
+        "term": "悩む",
+        "reading": "なやむ",
+        "meaning": "to be worried; to be troubled"
       },
       {
-        "term": "にらみ",
-        "reading": "にらみ",
-        "meaning": ""
+        "term": "悩ましい",
+        "reading": "なやましい",
+        "meaning": "seductive; melancholy"
       },
       {
-        "term": "いやみ",
-        "reading": "",
-        "meaning": "嫌味[an|n]disagreeable"
-      },
-      {
-        "term": "ひがみ",
-        "reading": "ひがみ",
-        "meaning": ""
+        "term": "悩ます",
+        "reading": "なやます",
+        "meaning": "to afflict; to torment"
       }
     ]
   },
@@ -26200,12 +33198,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "害",
     "meaning_en": "Cigarettes harm not only those smoking them, but those around them as well.",
-    "explanation": "正解は「害」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "害",
+        "onyomi": "ガイ",
+        "kunyomi": "-",
+        "meaning": "Harm, Injury"
+      }
+    ],
     "similar": [
       {
-        "term": "害",
-        "reading": "がい",
-        "meaning": "injury; harm"
+        "term": "損害",
+        "reading": "そんがい",
+        "meaning": "damage; injury"
+      },
+      {
+        "term": "被害",
+        "reading": "ひがい",
+        "meaning": "damage"
+      },
+      {
+        "term": "障害",
+        "reading": "しょうがい",
+        "meaning": "obstacle; impediment (fault)"
       }
     ]
   },
@@ -26231,27 +33247,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "の際には",
     "meaning_en": "Press this button in case of emergency.",
-    "explanation": "正解は「の際には」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "際",
+        "onyomi": "サイ",
+        "kunyomi": "きわ・-ぎわ",
+        "meaning": "Occasion, Side, Edge"
+      }
+    ],
     "similar": [
       {
-        "term": "の際には",
-        "reading": "のさいには",
-        "meaning": ""
+        "term": "国際",
+        "reading": "こくさい",
+        "meaning": "international"
       },
       {
-        "term": "に際して",
-        "reading": "にさいして",
-        "meaning": "on the occasion of; at the time of"
+        "term": "交際",
+        "reading": "こうさい",
+        "meaning": "company; friendship"
       },
       {
-        "term": "の最中に",
-        "reading": "のさいちゅうに",
-        "meaning": ""
-      },
-      {
-        "term": "の中を",
-        "reading": "のなかを",
-        "meaning": ""
+        "term": "実際",
+        "reading": "じっさい",
+        "meaning": "practical; actual condition"
       }
     ]
   },
@@ -26277,27 +33296,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "責任",
     "meaning_en": "The company should take responsibility for this accident.",
-    "explanation": "正解は「責任」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "責",
+        "onyomi": "セキ",
+        "kunyomi": "せめる",
+        "meaning": "Blame, Condemn, Censure"
+      },
+      {
+        "kanji": "任",
+        "onyomi": "ニン",
+        "kunyomi": "まかせる・まかす",
+        "meaning": "Responsibility, Duty, Term"
+      }
+    ],
     "similar": [
       {
-        "term": "責任",
-        "reading": "せきにん",
-        "meaning": "duty; responsibility"
+        "term": "責める",
+        "reading": "せめる",
+        "meaning": "to condemn; to blame"
       },
       {
-        "term": "青任",
-        "reading": "あおにん",
-        "meaning": ""
+        "term": "責務",
+        "reading": "せきむ",
+        "meaning": "duty; obligation"
       },
       {
-        "term": "績任",
-        "reading": "せきにん",
-        "meaning": ""
+        "term": "免責",
+        "reading": "めんせき",
+        "meaning": "exemption from responsibility"
       },
       {
-        "term": "積任",
-        "reading": "せきにん",
-        "meaning": ""
+        "term": "任せる",
+        "reading": "まかせる",
+        "meaning": "to entrust to another; to leave to"
+      },
+      {
+        "term": "就任",
+        "reading": "しゅうにん",
+        "meaning": "inauguration; assumption of office"
       }
     ]
   },
@@ -26323,27 +33361,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "休暇",
     "meaning_en": "holiday; day off",
-    "explanation": "正解は「休暇」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "休",
+        "onyomi": "キュウ",
+        "kunyomi": "やすむ・やすまる・やすめる",
+        "meaning": "Rest, Day Off, Retire"
+      },
+      {
+        "kanji": "暇",
+        "onyomi": "カ",
+        "kunyomi": "ひま・いとま",
+        "meaning": "Spare Time, Rest, Leisure"
+      }
+    ],
     "similar": [
       {
-        "term": "休暇",
-        "reading": "きゅうか",
-        "meaning": "holiday; day off"
+        "term": "休み",
+        "reading": "やすみ",
+        "meaning": "rest; holiday"
       },
       {
-        "term": "休養",
-        "reading": "きゅうよう",
-        "meaning": "rest; break"
+        "term": "休む",
+        "reading": "やすむ",
+        "meaning": "to rest"
       },
       {
-        "term": "休憩",
-        "reading": "きゅうけい",
-        "meaning": "rest; break"
+        "term": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "summer holiday"
       },
       {
-        "term": "休息",
-        "reading": "きゅうそく",
-        "meaning": "rest; relief"
+        "term": "余暇",
+        "reading": "よか",
+        "meaning": "leisure; leisure time"
+      },
+      {
+        "term": "寸暇",
+        "reading": "すんか",
+        "meaning": "moment's leisure; free minute"
       }
     ]
   },
@@ -26369,13 +33426,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "のあげく",
     "meaning_en": "After a lot of debate and hesitation, I decided to work instead of going on to the",
-    "explanation": "正解は「のあげく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のあげく",
-        "reading": "のあげく",
-        "meaning": ""
-      },
       {
         "term": "すえに",
         "reading": "すえに",
@@ -26415,27 +33468,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "じどう",
     "meaning_en": "children; juvenile",
-    "explanation": "正解は「じどう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "児",
+        "onyomi": "ジ・ニ・ゲイ",
+        "kunyomi": "こ・-こ・-っこ",
+        "meaning": "Newborn Babe, Child, Young Of Animals"
+      },
+      {
+        "kanji": "童",
+        "onyomi": "ドウ",
+        "kunyomi": "わらべ",
+        "meaning": "Juvenile, Child"
+      }
+    ],
     "similar": [
       {
-        "term": "児童",
-        "reading": "じどう",
-        "meaning": "children; juvenile"
+        "term": "幼児",
+        "reading": "ようじ",
+        "meaning": "infant; baby"
       },
       {
-        "term": "じどう",
-        "reading": "",
-        "meaning": "児童[n]child"
+        "term": "育児",
+        "reading": "いくじ",
+        "meaning": "childcare; nursing"
       },
       {
-        "term": "にどう",
-        "reading": "にどう",
-        "meaning": ""
+        "term": "孤児",
+        "reading": "こじ",
+        "meaning": "orphan"
       },
       {
-        "term": "ようじ",
-        "reading": "",
-        "meaning": "幼時[n]infancy"
+        "term": "童謡",
+        "reading": "どうよう",
+        "meaning": "children's song, nursery rhyme"
+      },
+      {
+        "term": "童話",
+        "reading": "どうわ",
+        "meaning": "fairy tale"
       }
     ]
   },
@@ -26461,27 +33533,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ようするに",
     "meaning_en": "So what you want to say is that l am the one who is responsible. Right？",
-    "explanation": "正解は「ようするに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "要",
+        "onyomi": "ヨウ",
+        "kunyomi": "いる・かなめ",
+        "meaning": "Need, Main Point, Essence"
+      }
+    ],
     "similar": [
       {
-        "term": "ようするに",
-        "reading": "",
-        "meaning": "要するに[ad]in short"
+        "term": "要る",
+        "reading": "いる",
+        "meaning": "to need"
       },
       {
-        "term": "ようやく",
-        "reading": "",
-        "meaning": "要約[n|vs]summarize"
+        "term": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
       },
       {
-        "term": "はたして",
-        "reading": "",
-        "meaning": "果たして[ad]as expected"
-      },
-      {
-        "term": "せめて",
-        "reading": "せめて",
-        "meaning": "offense; method of attack"
+        "term": "主要",
+        "reading": "しゅよう",
+        "meaning": "chief; main"
       }
     ]
   },
@@ -26507,27 +33582,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "見る",
     "meaning_en": "As far as the test results show, there seems to be no problem.",
-    "explanation": "正解は「見る」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "見",
+        "onyomi": "ケン",
+        "kunyomi": "みる・みえる・みせる",
+        "meaning": "See, Hopes, Chances"
+      }
+    ],
     "similar": [
       {
-        "term": "見る",
+        "term": "見せる",
+        "reading": "みせる",
+        "meaning": "to show"
+      },
+      {
+        "term": "見る 観る",
         "reading": "みる",
         "meaning": "to see; to watch"
       },
       {
-        "term": "見て",
-        "reading": "みて",
-        "meaning": ""
-      },
-      {
-        "term": "見ない",
-        "reading": "みない",
-        "meaning": ""
-      },
-      {
-        "term": "見よう",
-        "reading": "みよう",
-        "meaning": ""
+        "term": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "calling on someone who is ill; enquiry"
       }
     ]
   },
@@ -26553,27 +33631,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "いだい",
     "meaning_en": "| went to an exhibition. There were many paintings by great artists.",
-    "explanation": "正解は「いだい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "偉",
+        "onyomi": "イ",
+        "kunyomi": "えらい",
+        "meaning": "Admirable, Greatness, Remarkable"
+      },
+      {
+        "kanji": "大",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "おお-・おおきい・-おおいに",
+        "meaning": "Large, Big"
+      }
+    ],
     "similar": [
       {
-        "term": "偉大",
-        "reading": "いだい",
-        "meaning": "greatness"
+        "term": "偉い",
+        "reading": "えらい",
+        "meaning": "great; celebrated"
       },
       {
-        "term": "いだい",
-        "reading": "",
-        "meaning": "医大[n]medical university"
+        "term": "偉人",
+        "reading": "いじん",
+        "meaning": "great person; eminent figure"
       },
       {
-        "term": "えだい",
-        "reading": "えだい",
-        "meaning": ""
+        "term": "偉業",
+        "reading": "いぎょう",
+        "meaning": "great achievement; great feat"
       },
       {
-        "term": "ぼうだい",
-        "reading": "",
-        "meaning": "膨大[an|n,n|vs]huge,swell"
+        "term": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
+      },
+      {
+        "term": "大きな",
+        "reading": "おおきな",
+        "meaning": "big"
       }
     ]
   },
@@ -26599,27 +33696,41 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ひきょう",
     "meaning_en": "My daughter told me | was rude when I slurped my soup.",
-    "explanation": "正解は「ひきょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "卑",
+        "onyomi": "ヒ",
+        "kunyomi": "いやしい・いやしむ・いやしめる",
+        "meaning": "Lowly, Base, Vile"
+      },
+      {
+        "kanji": "怯",
+        "onyomi": "キョウ・コウ",
+        "kunyomi": "ひるむ・おびえる・おじる・おびえる・おそれる",
+        "meaning": "Cowardice, Wince, Flinch"
+      }
+    ],
     "similar": [
       {
-        "term": "ひきょう",
-        "reading": "",
-        "meaning": "秘境[n]unexplored region"
+        "term": "卑怯",
+        "reading": "ひきょう",
+        "meaning": "cowardice; meanness"
       },
       {
-        "term": "げひん",
-        "reading": "",
-        "meaning": "下品[an|n]vulgar"
+        "term": "卑しい",
+        "reading": "いやしい",
+        "meaning": "greedy; vulgar"
       },
       {
-        "term": "みにくい",
-        "reading": "",
-        "meaning": "見難い[a]difficult to see"
+        "term": "卑劣",
+        "reading": "ひれつ",
+        "meaning": "mean; contemptible"
       },
       {
-        "term": "きよう",
-        "reading": "",
-        "meaning": "器用[an|n]adroit"
+        "term": "怯える",
+        "reading": "おびえる",
+        "meaning": "to become frightened; to have a nightmare"
       }
     ]
   },
@@ -26645,17 +33756,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "許し",
     "meaning_en": "Bullying is an unforgivable act.",
-    "explanation": "正解は「許し」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "許",
+        "onyomi": "キョ",
+        "kunyomi": "ゆるす・もと",
+        "meaning": "Permit, Approve"
+      }
+    ],
     "similar": [
       {
-        "term": "許し",
-        "reading": "ゆるし",
-        "meaning": "pardon; forgiveness"
-      },
-      {
-        "term": "許さ",
-        "reading": "ゆるさ",
-        "meaning": ""
+        "term": "免許",
+        "reading": "めんきょ",
+        "meaning": "license; permit"
       },
       {
         "term": "許す",
@@ -26663,9 +33777,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to permit; to allow"
       },
       {
-        "term": "許せ",
-        "reading": "ゆるせ",
-        "meaning": ""
+        "term": "許可",
+        "reading": "きょか",
+        "meaning": "permission; approval"
       }
     ]
   },
@@ -26691,27 +33805,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "招く",
     "meaning_en": "That kind of behavior leads to misunderstandings.",
-    "explanation": "正解は「招く」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "招",
+        "onyomi": "ショウ",
+        "kunyomi": "まねく",
+        "meaning": "Beckon, Invite, Summon"
+      }
+    ],
     "similar": [
       {
-        "term": "招く",
-        "reading": "まねく",
+        "term": "招待",
+        "reading": "しょうたいする",
         "meaning": "to invite"
       },
       {
-        "term": "省く",
-        "reading": "はぶく",
-        "meaning": "to omit; to eliminate"
+        "term": "招き",
+        "reading": "まねき",
+        "meaning": "invitation"
       },
       {
-        "term": "傾く",
-        "reading": "かたむく",
-        "meaning": "to incline toward; to slant"
-      },
-      {
-        "term": "抱く",
-        "reading": "いだく",
-        "meaning": "(sl) to embrace; to hug"
+        "term": "手招き",
+        "reading": "てまねき",
+        "meaning": "beckoning"
       }
     ]
   },
@@ -26737,27 +33854,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "いずれ",
     "meaning_en": "｜was so into playing the game that, before 1 knew it, it was already morning.",
-    "explanation": "正解は「いずれ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "何",
+        "onyomi": "カ",
+        "kunyomi": "なに・なん・なに-・なん-",
+        "meaning": "What"
+      }
+    ],
     "similar": [
       {
-        "term": "いずれ",
-        "reading": "",
-        "meaning": "where; which"
+        "term": "何か",
+        "reading": "なにか",
+        "meaning": "something"
       },
       {
-        "term": "いまだに",
-        "reading": "",
-        "meaning": "未だに[ad]yet"
+        "term": "何で",
+        "reading": "なんで",
+        "meaning": "Why?; What for?"
       },
       {
-        "term": "たったいま",
-        "reading": "",
-        "meaning": "たった今[ad]just now"
-      },
-      {
-        "term": "いつのまにか",
-        "reading": "",
-        "meaning": "before one knows; unnoticed"
+        "term": "何でも",
+        "reading": "なんでも",
+        "meaning": "by all means; everything"
       }
     ]
   },
@@ -26783,27 +33903,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "お教えし",
     "meaning_en": "We are unable to divulge personal information about our customers.",
-    "explanation": "正解は「お教えし」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "教",
+        "onyomi": "キョウ",
+        "kunyomi": "おしえる・おそわる",
+        "meaning": "Teach, Faith, Doctrine"
+      }
+    ],
     "similar": [
       {
-        "term": "お教えし",
-        "reading": "おおしえし",
-        "meaning": ""
+        "term": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach; to tell"
       },
       {
-        "term": "お教え",
-        "reading": "おおしえ",
-        "meaning": ""
+        "term": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
       },
       {
-        "term": "お教えて",
-        "reading": "おおしえて",
-        "meaning": ""
-      },
-      {
-        "term": "お教えに",
-        "reading": "おおしえに",
-        "meaning": ""
+        "term": "教会",
+        "reading": "きょうかい",
+        "meaning": "church"
       }
     ]
   },
@@ -26829,27 +33952,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "おたがい",
     "meaning_en": "mutual; reciprocal",
-    "explanation": "正解は「おたがい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "互",
+        "onyomi": "ゴ",
+        "kunyomi": "たがい・かたみに",
+        "meaning": "Mutually, Reciprocally, Together"
+      }
+    ],
     "similar": [
       {
-        "term": "お互い",
-        "reading": "おたがい",
+        "term": "互い",
+        "reading": "たがい",
         "meaning": "mutual; reciprocal"
       },
       {
-        "term": "おたがい",
-        "reading": "",
-        "meaning": "お互い[n]each other"
+        "term": "相互",
+        "reading": "そうご",
+        "meaning": "mutual; reciprocal"
       },
       {
-        "term": "おかだい",
-        "reading": "おかだい",
-        "meaning": ""
-      },
-      {
-        "term": "おがない",
-        "reading": "おがない",
-        "meaning": ""
+        "term": "交互",
+        "reading": "こうご",
+        "meaning": "mutual; reciprocal"
       }
     ]
   },
@@ -26875,12 +34001,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "代",
     "meaning_en": "I bought so much, all | have left is the bus fare to get home.",
-    "explanation": "正解は「代」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "代",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "かわる・かわる・かわり・かわり・-がわり・-がわり・かえる・よ・しろ",
+        "meaning": "Substitute, Change, Convert"
+      }
+    ],
     "similar": [
       {
-        "term": "代",
-        "reading": "しろ",
-        "meaning": "price; materials"
+        "term": "代わり",
+        "reading": "かわり",
+        "meaning": "substitute; alternate"
+      },
+      {
+        "term": "時代",
+        "reading": "じだい",
+        "meaning": "era"
+      },
+      {
+        "term": "代理",
+        "reading": "だいり",
+        "meaning": "representation; agency"
       }
     ]
   },
@@ -26906,13 +34050,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かのように",
     "meaning_en": "Although I had never been there before, it felt as if I had.",
-    "explanation": "正解は「かのように」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かのように",
-        "reading": "かのように",
-        "meaning": ""
-      },
       {
         "term": "とおりに",
         "reading": "とおりに",
@@ -26952,12 +34092,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "底",
     "meaning_en": "The money-changing machine is over in that corner.",
-    "explanation": "正解は「底」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "底",
+        "onyomi": "テイ",
+        "kunyomi": "そこ",
+        "meaning": "Bottom, Sole, Depth"
+      }
+    ],
     "similar": [
       {
-        "term": "底",
-        "reading": "そこ",
-        "meaning": "bottom; sole"
+        "term": "徹底",
+        "reading": "てってい",
+        "meaning": "thoroughness; completeness"
+      },
+      {
+        "term": "到底",
+        "reading": "とうてい",
+        "meaning": "(cannot) possibly"
+      },
+      {
+        "term": "根底",
+        "reading": "こんてい",
+        "meaning": "root; basis"
       }
     ]
   },
@@ -26983,27 +34141,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "もしかすると",
     "meaning_en": "Stocks rise and fall before you know it.",
-    "explanation": "正解は「もしかすると」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "若",
+        "onyomi": "ジャク・ニャク・ニャ",
+        "kunyomi": "わかい・わか-・もしくわ・もし・もしくは・ごとし",
+        "meaning": "Young, If, Perhaps"
+      }
+    ],
     "similar": [
       {
-        "term": "もしかすると",
-        "reading": "",
-        "meaning": "perhaps; maybe"
+        "term": "若い",
+        "reading": "わかい",
+        "meaning": "young"
       },
       {
-        "term": "あっというまに",
-        "reading": "あっというまに",
-        "meaning": ""
+        "term": "若々しい",
+        "reading": "わかわかしい",
+        "meaning": "youthful; young"
       },
       {
-        "term": "もうすこしで",
-        "reading": "もうすこしで",
-        "meaning": ""
-      },
-      {
-        "term": "まっさきに",
-        "reading": "まっさきに",
-        "meaning": ""
+        "term": "若し",
+        "reading": "もし",
+        "meaning": "if; in case"
       }
     ]
   },
@@ -27029,13 +34190,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "のあまり",
     "meaning_en": "She was so terrified that her hair suddenly turned white.",
-    "explanation": "正解は「のあまり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のあまり",
-        "reading": "のあまり",
-        "meaning": ""
-      },
       {
         "term": "のかぎり",
         "reading": "のかぎり",
@@ -27075,27 +34232,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "こうくう",
     "meaning_en": "The majority of airplane accidents occur during takeoff and landing, flying hurts",
-    "explanation": "正解は「こうくう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "航",
+        "onyomi": "コウ",
+        "kunyomi": "-",
+        "meaning": "Navigate, Sail, Cruise"
+      },
+      {
+        "kanji": "空",
+        "onyomi": "クウ",
+        "kunyomi": "そら・あく・あき・あける・から・すく・すかす・むなしい",
+        "meaning": "Empty, Sky, Void"
+      }
+    ],
     "similar": [
       {
-        "term": "航空",
-        "reading": "こうくう",
-        "meaning": "aviation; flying"
+        "term": "航海",
+        "reading": "こうかい",
+        "meaning": "sail; voyage"
       },
       {
-        "term": "こうこう",
-        "reading": "",
-        "meaning": "硬膏[n]plaster"
+        "term": "密航",
+        "reading": "みっこう",
+        "meaning": "stowing away; smuggling oneself"
       },
       {
-        "term": "こうくう",
-        "reading": "",
-        "meaning": "口腔[n]oral cavity"
+        "term": "就航",
+        "reading": "しゅうこう",
+        "meaning": "entering service (on a route; of a plane or ship); going into commission"
       },
       {
-        "term": "くうこう",
-        "reading": "",
-        "meaning": "空港[n]airport"
+        "term": "空く",
+        "reading": "あく",
+        "meaning": "to open; to become empty"
+      },
+      {
+        "term": "空気",
+        "reading": "くうき",
+        "meaning": "air; atmosphere"
       }
     ]
   },
@@ -27121,27 +34297,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "現象",
     "meaning_en": "Various phenomena related to global warming have been observed.",
-    "explanation": "正解は「現象」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "現",
+        "onyomi": "ゲン",
+        "kunyomi": "あらわれる・あらわす・うつつ・うつつ",
+        "meaning": "Present, Existing, Actual"
+      },
+      {
+        "kanji": "象",
+        "onyomi": "ショウ・ゾウ",
+        "kunyomi": "かたどる",
+        "meaning": "Elephant, Pattern After, Imitate"
+      }
+    ],
     "similar": [
       {
-        "term": "現象",
-        "reading": "げんしょう",
-        "meaning": "phenomenon"
+        "term": "実現",
+        "reading": "じつげん",
+        "meaning": "implementation; materialization"
       },
       {
-        "term": "現状",
-        "reading": "げんじょう",
-        "meaning": "present condition; existing state"
+        "term": "現す",
+        "reading": "あらわす",
+        "meaning": "to show; to indicate"
       },
       {
-        "term": "現実",
-        "reading": "げんじつ",
-        "meaning": "reality"
+        "term": "現れ",
+        "reading": "あらわれ",
+        "meaning": "embodiment; materialization"
       },
       {
-        "term": "現在",
-        "reading": "げんざい",
-        "meaning": "present; up to now"
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
+      },
+      {
+        "term": "対象",
+        "reading": "たいしょう",
+        "meaning": "target; object (of worship"
       }
     ]
   },
@@ -27167,27 +34362,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "言い",
     "meaning_en": "A： “Would he really say something so terrible？ \" B： \"lt would not be unlikely for him ”",
-    "explanation": "正解は「言い」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "言い",
-        "reading": "いい",
-        "meaning": ""
-      },
+        "kanji": "言",
+        "onyomi": "ゲン・ゴン",
+        "kunyomi": "いう・こと",
+        "meaning": "Say, Word"
+      }
+    ],
+    "similar": [
       {
         "term": "言う",
         "reading": "いう",
         "meaning": "to say"
       },
       {
-        "term": "言え",
-        "reading": "いえ",
-        "meaning": ""
+        "term": "言葉",
+        "reading": "ことば",
+        "meaning": "word; language"
       },
       {
-        "term": "言って",
-        "reading": "いって",
-        "meaning": ""
+        "term": "一言",
+        "reading": "ひとこと",
+        "meaning": "single word"
       }
     ]
   },
@@ -27213,27 +34411,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ことなる",
     "meaning_en": "Garbage collection regulations differ depending on the area.",
-    "explanation": "正解は「ことなる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "異",
+        "onyomi": "イ",
+        "kunyomi": "こと・ことなる・け",
+        "meaning": "Uncommon, Different, Queerness"
+      }
+    ],
     "similar": [
       {
-        "term": "異なる",
-        "reading": "ことなる",
-        "meaning": "to differ; to vary"
+        "term": "異常",
+        "reading": "いじょう",
+        "meaning": "strangeness; abnormality"
       },
       {
-        "term": "ことなる",
-        "reading": "",
-        "meaning": "異なる[vg]differ"
+        "term": "差異",
+        "reading": "さい",
+        "meaning": "difference; disparity"
       },
       {
-        "term": "こそなる",
-        "reading": "こそなる",
-        "meaning": ""
-      },
-      {
-        "term": "とこなる",
-        "reading": "とこなる",
-        "meaning": ""
+        "term": "異動",
+        "reading": "いどう",
+        "meaning": "a change"
       }
     ]
   },
@@ -27259,13 +34460,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ざっと",
     "meaning_en": "In this hall, there are roughly 100 people.",
-    "explanation": "正解は「ざっと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ざっと",
-        "reading": "ざっと",
-        "meaning": "roughly; in round numbers"
-      },
       {
         "term": "どっと",
         "reading": "どっと",
@@ -27305,27 +34502,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "せざるをえない",
     "meaning_en": "Ihave no choice but to do it because it is my job.",
-    "explanation": "正解は「せざるをえない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "得",
+        "onyomi": "トク",
+        "kunyomi": "える・うる",
+        "meaning": "Gain, Get, Find"
+      }
+    ],
     "similar": [
       {
-        "term": "せざるをえない",
-        "reading": "せざるをえない",
-        "meaning": ""
+        "term": "得る",
+        "reading": "える",
+        "meaning": "to get; to gain"
       },
       {
-        "term": "さざるをえない",
-        "reading": "さざるをえない",
-        "meaning": ""
+        "term": "得意",
+        "reading": "とくい",
+        "meaning": "pride; triumph"
       },
       {
-        "term": "しざるをえない",
-        "reading": "しざるをえない",
-        "meaning": ""
-      },
-      {
-        "term": "すざるをえない",
-        "reading": "すざるをえない",
-        "meaning": ""
+        "term": "納得",
+        "reading": "なっとく",
+        "meaning": "consent; assent"
       }
     ]
   },
@@ -27351,12 +34551,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "氷",
     "meaning_en": "Water freezes at zero degrees centigrade.",
-    "explanation": "正解は「氷」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "氷",
+        "onyomi": "ヒョウ",
+        "kunyomi": "こおり・ひ・こおる",
+        "meaning": "Icicle, Ice, Hail"
+      }
+    ],
     "similar": [
       {
-        "term": "氷",
-        "reading": "こおり",
-        "meaning": "ice; hail"
+        "term": "かき氷",
+        "reading": "かきごおり",
+        "meaning": "shaved ice (usually served with flavored simple syrup); Italian ice"
+      },
+      {
+        "term": "南氷洋",
+        "reading": "なんひょうよう",
+        "meaning": "Antarctic Ocean"
+      },
+      {
+        "term": "氷山",
+        "reading": "ひょうざん",
+        "meaning": "iceberg"
       }
     ]
   },
@@ -27382,27 +34600,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "思いつかず",
     "meaning_en": "I unexpectedly met a senior high school friend in Tokyo station.",
-    "explanation": "正解は「思いつかず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      }
+    ],
     "similar": [
       {
-        "term": "思いつかず",
-        "reading": "おもいつかず",
-        "meaning": ""
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "思い切り",
-        "reading": "おもいきり",
-        "meaning": "with all one's strength (heart), resignation, resolution"
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "思いがけず",
-        "reading": "おもいがけず",
-        "meaning": ""
-      },
-      {
-        "term": "思い切って",
-        "reading": "おもいきって",
-        "meaning": "resolutely; boldly"
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       }
     ]
   },
@@ -27428,12 +34649,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ながら",
     "meaning_en": "Against my will, I gave up on continuing my education.",
-    "explanation": "正解は「ながら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "乍",
+        "onyomi": "サ・サク",
+        "kunyomi": "-ながら・たちまち",
+        "meaning": "Though, Notwithstanding, While"
+      }
+    ],
     "similar": [
       {
-        "term": "ながら",
-        "reading": "",
-        "meaning": "while"
+        "term": "乍ら",
+        "reading": "ながら",
+        "meaning": "while; during"
+      },
+      {
+        "term": "乍らも",
+        "reading": "ながらも",
+        "meaning": "though; although"
       },
       {
         "term": "にはんして",
@@ -27444,11 +34678,6 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "term": "にかかわらず",
         "reading": "にかかわらず",
         "meaning": ""
-      },
-      {
-        "term": "ものの",
-        "reading": "ものの",
-        "meaning": "物の[ad]only"
       }
     ]
   },
@@ -27474,27 +34703,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "つめこむ",
     "meaning_en": "|will compare forms of education that cram knowledge into students and those",
-    "explanation": "正解は「つめこむ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "詰",
+        "onyomi": "キツ・キチ",
+        "kunyomi": "つめる・つめ・-づめ・つまる・つむ",
+        "meaning": "Packed, Close, Pressed"
+      },
+      {
+        "kanji": "込",
+        "onyomi": "-",
+        "kunyomi": "-こむ・こむ・こみ・-こみ・こめる",
+        "meaning": "Crowded, Mixture, In Bulk"
+      }
+    ],
     "similar": [
       {
-        "term": "詰め込む",
-        "reading": "つめこむ",
-        "meaning": "to cram; to stuff"
+        "term": "詰める",
+        "reading": "つめる",
+        "meaning": "to pack; to shorten"
       },
       {
-        "term": "うめこむ",
-        "reading": "",
-        "meaning": "埋め込む[vg]bury"
+        "term": "瓶詰",
+        "reading": "びんづめ",
+        "meaning": "bottling; bottled"
       },
       {
-        "term": "つめこむ",
-        "reading": "",
-        "meaning": "詰め込む[vg]cram"
+        "term": "缶詰",
+        "reading": "かんづめ",
+        "meaning": "packing (in cans); canning"
       },
       {
-        "term": "ためこむ",
-        "reading": "",
-        "meaning": "溜め込む[vg]to save up"
+        "term": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "term": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "crowd of people"
       }
     ]
   },
@@ -27520,13 +34768,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "コントロール",
     "meaning_en": "Once | start drinking， | am unable to control my emotions.",
-    "explanation": "正解は「コントロール」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "コントロール",
-        "reading": "コントロール",
-        "meaning": "control"
-      },
       {
         "term": "チェンジ",
         "reading": "チェンジ",
@@ -27566,27 +34810,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "一方で",
     "meaning_en": "While this cartoon is popular among young kids, it is criticized by adults.",
-    "explanation": "正解は「一方で」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      }
+    ],
     "similar": [
       {
-        "term": "一方で",
-        "reading": "いっぽうで",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "ものを",
-        "reading": "ものを",
-        "meaning": ""
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "ばかりに",
-        "reading": "",
-        "meaning": "simply because of"
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "だけに",
-        "reading": "だけに",
-        "meaning": ""
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       }
     ]
   },
@@ -27612,27 +34875,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "採る",
     "meaning_en": "You need permission to pick mushrooms on this mountain.",
-    "explanation": "正解は「採る」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "採",
+        "onyomi": "サイ",
+        "kunyomi": "とる",
+        "meaning": "Pick, Take, Fetch"
+      }
+    ],
     "similar": [
       {
-        "term": "採る",
-        "reading": "とる",
-        "meaning": "(1) to adopt (measure; proposal)"
+        "term": "採点",
+        "reading": "さいてん",
+        "meaning": "marking; grading"
       },
       {
-        "term": "折る",
-        "reading": "おる",
-        "meaning": "to break or to fold"
+        "term": "採択",
+        "reading": "さいたく",
+        "meaning": "adoption; selection"
       },
       {
-        "term": "捕る",
-        "reading": "とる",
-        "meaning": "to take; to catch (fish)"
-      },
-      {
-        "term": "得る",
-        "reading": "える",
-        "meaning": "to get; to gain"
+        "term": "採掘",
+        "reading": "さいくつ",
+        "meaning": "mining"
       }
     ]
   },
@@ -27658,22 +34924,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "あと",
     "meaning_en": "Ihave a scar on my leg from when | was a child.",
-    "explanation": "正解は「あと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "後",
+        "onyomi": "ゴ・コウ",
+        "kunyomi": "のち・うしろ・うしろ・あと・おくれる",
+        "meaning": "Behind, Back, Later"
+      }
+    ],
     "similar": [
       {
-        "term": "あと",
-        "reading": "",
-        "meaning": "(1) trace; tracks"
+        "term": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon"
       },
       {
-        "term": "かたち",
-        "reading": "",
-        "meaning": "形[n]shape"
+        "term": "後ろ",
+        "reading": "うしろ",
+        "meaning": "behind"
       },
       {
-        "term": "しるし",
-        "reading": "",
-        "meaning": "印[n]mark"
+        "term": "最後",
+        "reading": "さいご",
+        "meaning": "last; end"
       }
     ]
   },
@@ -27699,27 +34973,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "以上は",
     "meaning_en": "As Itake on the job， | will see things through to the end no matter what.",
-    "explanation": "正解は「以上は」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "以",
+        "onyomi": "イ",
+        "kunyomi": "もって",
+        "meaning": "By Means Of, Because, In View Of"
+      },
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      }
+    ],
     "similar": [
       {
-        "term": "以上は",
-        "reading": "いじょうは",
-        "meaning": ""
+        "term": "以上",
+        "reading": "いじょう",
+        "meaning": "more than; this is all"
       },
       {
-        "term": "からして",
-        "reading": "からして",
-        "meaning": ""
+        "term": "以下",
+        "reading": "いか",
+        "meaning": "less than"
       },
       {
-        "term": "からといって",
-        "reading": "",
-        "meaning": "(1+0)からと言って[c]because"
+        "term": "以内",
+        "reading": "いない",
+        "meaning": "within"
       },
       {
-        "term": "こそは",
-        "reading": "こそは",
-        "meaning": ""
+        "term": "上げる",
+        "reading": "あげる",
+        "meaning": "to give"
+      },
+      {
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       }
     ]
   },
@@ -27745,27 +35038,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "うちゅう",
     "meaning_en": "| want to be an astronaut.",
-    "explanation": "正解は「うちゅう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "宇",
+        "onyomi": "ウ",
+        "kunyomi": "-",
+        "meaning": "Eaves, Roof, House"
+      },
+      {
+        "kanji": "宙",
+        "onyomi": "チュウ",
+        "kunyomi": "-",
+        "meaning": "Mid-air, Air, Space"
+      }
+    ],
     "similar": [
       {
-        "term": "宇宙",
-        "reading": "うちゅう",
-        "meaning": "universe; cosmos"
+        "term": "大宇宙",
+        "reading": "だいうちゅう",
+        "meaning": "macrocosmos; macrocosm"
       },
       {
-        "term": "いちゅう",
-        "reading": "",
-        "meaning": "意中[n]intention"
+        "term": "宇宙空間",
+        "reading": "うちゅうくうかん",
+        "meaning": "(outer) space"
       },
       {
-        "term": "ふちゅう",
-        "reading": "",
-        "meaning": "付注[n]annotation"
+        "term": "宇宙開発",
+        "reading": "うちゅうかいはつ",
+        "meaning": "space development; space exploration"
       },
       {
-        "term": "うちゅう",
-        "reading": "",
-        "meaning": "雨中[n]in the rain"
+        "term": "宙返り",
+        "reading": "ちゅうがえり",
+        "meaning": "somersault; looping-the-loop"
+      },
+      {
+        "term": "宇宙飛行士",
+        "reading": "うちゅうひこうし",
+        "meaning": "astronaut"
       }
     ]
   },
@@ -27791,13 +35103,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かたむいて",
     "meaning_en": "I can no longer live in my house because it has been leaning to one side since the",
-    "explanation": "正解は「かたむいて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かたむいて",
-        "reading": "かたむいて",
-        "meaning": ""
-      },
       {
         "term": "かたづいて",
         "reading": "かたづいて",
@@ -27837,13 +35145,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "からみると",
     "meaning_en": "From the viewpoint of Western medicine， Eastern medicine may be dificult to",
-    "explanation": "正解は「からみると」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からみると",
-        "reading": "からみると",
-        "meaning": ""
-      },
       {
         "term": "を問わず",
         "reading": "をとわず",
@@ -27883,27 +35187,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ちりょう",
     "meaning_en": "Apparently, there is a type of exercise that can be used as a treatment for high",
-    "explanation": "正解は「ちりょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "治",
+        "onyomi": "ジ・チ",
+        "kunyomi": "おさめる・おさまる・なおる・なおす",
+        "meaning": "Reign, Be At Peace, Calm Down"
+      },
+      {
+        "kanji": "療",
+        "onyomi": "リョウ",
+        "kunyomi": "-",
+        "meaning": "Heal, Cure"
+      }
+    ],
     "similar": [
       {
-        "term": "治療",
-        "reading": "ちりょう",
-        "meaning": "medical treatment"
+        "term": "政治",
+        "reading": "せいじ",
+        "meaning": "politics; government"
       },
       {
-        "term": "じりょう",
-        "reading": "じりょう",
-        "meaning": ""
+        "term": "治る",
+        "reading": "なおる",
+        "meaning": "to be cured; to heal"
       },
       {
-        "term": "ちりょう",
-        "reading": "",
-        "meaning": "治療[n|vs]treat"
+        "term": "治す",
+        "reading": "なおす",
+        "meaning": "to cure; to heal"
       },
       {
-        "term": "ちりゅう",
-        "reading": "ちりゅう",
-        "meaning": ""
+        "term": "医療",
+        "reading": "いりょう",
+        "meaning": "medical care; medical treatment"
+      },
+      {
+        "term": "診療",
+        "reading": "しんりょう",
+        "meaning": "medical examination and treatment; diagnosis"
       }
     ]
   },
@@ -27929,27 +35252,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "どうしても",
     "meaning_en": "Rich people are not necessarily happy.",
-    "explanation": "正解は「どうしても」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "如",
+        "onyomi": "ジョ・ニョ",
+        "kunyomi": "ごとし",
+        "meaning": "Likeness, Like, Such As"
+      },
+      {
+        "kanji": "何",
+        "onyomi": "カ",
+        "kunyomi": "なに・なん・なに-・なん-",
+        "meaning": "What"
+      }
+    ],
     "similar": [
       {
-        "term": "どうしても",
-        "reading": "",
+        "term": "如何",
+        "reading": "いかが",
+        "meaning": "how; in what way"
+      },
+      {
+        "term": "如何して",
+        "reading": "どうして",
+        "meaning": "why?; for what reason"
+      },
+      {
+        "term": "如何しても",
+        "reading": "どうしても",
         "meaning": "by all means; at any cost"
       },
       {
-        "term": "あいかわらず",
-        "reading": "",
-        "meaning": "as ever; as usual"
+        "term": "何か",
+        "reading": "なにか",
+        "meaning": "something"
       },
       {
-        "term": "さすがに",
-        "reading": "さすがに",
-        "meaning": ""
-      },
-      {
-        "term": "かならずしも",
-        "reading": "",
-        "meaning": "必ずしも[ad]not necessarily"
+        "term": "何で",
+        "reading": "なんで",
+        "meaning": "Why?; What for?"
       }
     ]
   },
@@ -27975,27 +35317,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "決まり",
     "meaning_en": "As soon as the date is fixed, we will let you know.",
-    "explanation": "正解は「決まり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "決",
+        "onyomi": "ケツ",
+        "kunyomi": "きめる・-ぎめ・きまる・さく",
+        "meaning": "Decide, Fix, Agree Upon"
+      }
+    ],
     "similar": [
       {
-        "term": "決まり",
-        "reading": "きまり",
-        "meaning": "settlement; conclusion"
+        "term": "決して",
+        "reading": "けっして",
+        "meaning": "never"
       },
       {
-        "term": "決まって",
-        "reading": "きまって",
-        "meaning": "always; without fail"
+        "term": "決める",
+        "reading": "きめる",
+        "meaning": "to decide"
       },
       {
-        "term": "決まる",
+        "term": "決る",
         "reading": "きまる",
-        "meaning": "to be decided; to be settled"
-      },
-      {
-        "term": "決まった",
-        "reading": "きまった",
-        "meaning": ""
+        "meaning": "to be decided"
       }
     ]
   },
@@ -28021,27 +35366,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "副詞",
     "meaning_en": "I studied conjunctions and adverbs today.",
-    "explanation": "正解は「副詞」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "副",
+        "onyomi": "フク",
+        "kunyomi": "-",
+        "meaning": "Vice-, Assistant, Aide"
+      },
+      {
+        "kanji": "詞",
+        "onyomi": "シ",
+        "kunyomi": "ことば",
+        "meaning": "Part Of Speech, Words, Poetry"
+      }
+    ],
     "similar": [
       {
-        "term": "副詞",
-        "reading": "ふくし",
-        "meaning": "adverb"
+        "term": "副作用",
+        "reading": "ふくさよう",
+        "meaning": "side effect; adverse reaction"
       },
       {
-        "term": "幅詞",
-        "reading": "はばし",
-        "meaning": ""
+        "term": "副反応",
+        "reading": "ふくはんのう",
+        "meaning": "side effect (of a vaccine); side reaction"
       },
       {
-        "term": "福詞",
-        "reading": "ふくし",
-        "meaning": ""
+        "term": "副業",
+        "reading": "ふくぎょう",
+        "meaning": "side job; sideline"
       },
       {
-        "term": "復詞",
-        "reading": "ふくし",
-        "meaning": ""
+        "term": "動詞",
+        "reading": "どうし",
+        "meaning": "verb"
+      },
+      {
+        "term": "代名詞",
+        "reading": "だいめいし",
+        "meaning": "pronoun"
       }
     ]
   },
@@ -28067,27 +35431,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "実行",
     "meaning_en": "You should think that plan over before you actually put it into action.",
-    "explanation": "正解は「実行」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "実",
+        "onyomi": "ジツ・シツ",
+        "kunyomi": "み・みのる・まこと・みの・みちる",
+        "meaning": "Reality, Truth"
+      },
+      {
+        "kanji": "行",
+        "onyomi": "コウ・ギョウ・アン",
+        "kunyomi": "いく・ゆく・-ゆき・-ゆき・-いき・-いき・おこなう・おこなう",
+        "meaning": "Going, Journey, Carry Out"
+      }
+    ],
     "similar": [
       {
-        "term": "実行",
-        "reading": "じっこう",
-        "meaning": "practice; performance"
+        "term": "事実",
+        "reading": "じじつ",
+        "meaning": "fact; truth"
       },
       {
-        "term": "実現",
-        "reading": "じつげん",
-        "meaning": "implementation; materialization"
+        "term": "実に",
+        "reading": "じつに",
+        "meaning": "indeed; truly"
       },
       {
-        "term": "実際",
-        "reading": "じっさい",
-        "meaning": "practical; actual condition"
+        "term": "実は",
+        "reading": "じつは",
+        "meaning": "as a matter of fact; by the way"
       },
       {
-        "term": "実習",
-        "reading": "じっしゅう",
-        "meaning": "practice; training"
+        "term": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel"
+      },
+      {
+        "term": "行く",
+        "reading": "いく",
+        "meaning": "to go"
       }
     ]
   },
@@ -28113,13 +35496,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "のうちに",
     "meaning_en": "My father leaves home around dawn.",
-    "explanation": "正解は「のうちに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のうちに",
-        "reading": "のうちに",
-        "meaning": ""
-      },
       {
         "term": "のように",
         "reading": "のように",
@@ -28159,27 +35538,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "おうしゅう",
     "meaning_en": "On my trip to Europe， | would like to see a lot of buildings that have architectural",
-    "explanation": "正解は「おうしゅう」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "欧州",
-        "reading": "おうしゅう",
+        "kanji": "欧",
+        "onyomi": "オウ",
+        "kunyomi": "うたう・はく",
         "meaning": "Europe"
       },
       {
-        "term": "おうしゅう",
-        "reading": "",
-        "meaning": "欧州[n]Europe"
+        "kanji": "州",
+        "onyomi": "シュウ・ス",
+        "kunyomi": "す",
+        "meaning": "State, Province"
+      }
+    ],
+    "similar": [
+      {
+        "term": "欧米",
+        "reading": "おうべい",
+        "meaning": "Europe and America; the West"
       },
       {
-        "term": "くうしゅう",
-        "reading": "",
-        "meaning": "空襲[n|vs]air raid"
+        "term": "中欧",
+        "reading": "ちゅうおう",
+        "meaning": "Central Europe"
       },
       {
-        "term": "こうしゅう",
-        "reading": "",
-        "meaning": "口臭[n]halitosis"
+        "term": "北欧",
+        "reading": "ほくおう",
+        "meaning": "Northern Europe; Nordic countries"
+      },
+      {
+        "term": "九州",
+        "reading": "きゅうしゅう",
+        "meaning": "Kyūshū (southernmost of the four main islands of Japan)"
+      },
+      {
+        "term": "北九州",
+        "reading": "きたきゅうしゅう",
+        "meaning": "Kitakyushu (city)"
       }
     ]
   },
@@ -28204,14 +35602,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はぶきます",
-    "meaning_en": "Target: はぶきます",
-    "explanation": "正解は「はぶきます」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "はぶきます",
-        "reading": "はぶきます",
-        "meaning": ""
-      },
       {
         "term": "うしないます",
         "reading": "うしないます",
@@ -28251,13 +35645,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "にある",
     "meaning_en": "The medical and pension systems, which are crucial to our life, are about to fall",
-    "explanation": "正解は「にある」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にある",
-        "reading": "にある",
-        "meaning": ""
-      },
       {
         "term": "ある",
         "reading": "",
@@ -28297,27 +35687,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "気象",
     "meaning_en": "The Meteorological Agency observes natural phenomena.",
-    "explanation": "正解は「気象」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "気",
+        "onyomi": "キ・ケ",
+        "kunyomi": "いき",
+        "meaning": "Spirit, Mind, Air"
+      },
+      {
+        "kanji": "象",
+        "onyomi": "ショウ・ゾウ",
+        "kunyomi": "かたどる",
+        "meaning": "Elephant, Pattern After, Imitate"
+      }
+    ],
     "similar": [
       {
-        "term": "気象",
-        "reading": "きしょう",
-        "meaning": "weather; climate"
+        "term": "元気",
+        "reading": "げんき",
+        "meaning": "health; vitality"
       },
       {
-        "term": "気像",
-        "reading": "きぞう",
-        "meaning": ""
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       },
       {
-        "term": "気性",
-        "reading": "きしょう",
-        "meaning": "disposition; temperament"
+        "term": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
       },
       {
-        "term": "気相",
-        "reading": "きそう",
-        "meaning": ""
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
+      },
+      {
+        "term": "対象",
+        "reading": "たいしょう",
+        "meaning": "target; object (of worship"
       }
     ]
   },
@@ -28343,27 +35752,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "いったん",
     "meaning_en": "The cost of living has gone up again since the year started, so life has become harder.",
-    "explanation": "正解は「いったん」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "旦",
+        "onyomi": "タン・ダン",
+        "kunyomi": "あきらか・あきら・ただし・あさ・あした",
+        "meaning": "Daybreak, Dawn, Morning"
+      }
+    ],
     "similar": [
       {
-        "term": "いったん",
-        "reading": "",
-        "meaning": "一端[n]end"
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "いちだんと",
-        "reading": "",
-        "meaning": "一段と[ad]much more"
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "いっそうに",
-        "reading": "いっそうに",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "いちおう",
-        "reading": "",
-        "meaning": "一応[ad]one time"
+        "term": "一旦",
+        "reading": "いったん",
+        "meaning": "once; for a moment"
+      },
+      {
+        "term": "旦那",
+        "reading": "だんな",
+        "meaning": "master (of house); husband (informal)"
       }
     ]
   },
@@ -28389,27 +35817,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "一方だ",
     "meaning_en": "Global warming is increasing more and more.",
-    "explanation": "正解は「一方だ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "方",
+        "onyomi": "ホウ",
+        "kunyomi": "かた・-かた・-がた",
+        "meaning": "Direction, Person, Alternative"
+      }
+    ],
     "similar": [
       {
-        "term": "一方だ",
-        "reading": "いっぽうだ",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "かねない",
-        "reading": "かねない",
-        "meaning": ""
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "相違ない",
-        "reading": "そういない",
-        "meaning": ""
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "をえない",
-        "reading": "をえない",
-        "meaning": ""
+        "term": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "term": "両方",
+        "reading": "りょうほう",
+        "meaning": "both sides"
       }
     ]
   },
@@ -28435,27 +35882,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ほうりつ",
     "meaning_en": "Legal terms are too complex for ordinary people to understand.",
-    "explanation": "正解は「ほうりつ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "法",
+        "onyomi": "ホウ・ハッ・ホッ・フラン",
+        "kunyomi": "のり",
+        "meaning": "Method, Law, Rule"
+      },
+      {
+        "kanji": "律",
+        "onyomi": "リツ・リチ・レツ",
+        "kunyomi": "-",
+        "meaning": "Rhythm, Law, Regulation"
+      }
+    ],
     "similar": [
       {
-        "term": "法律",
-        "reading": "ほうりつ",
-        "meaning": "law"
+        "term": "文法",
+        "reading": "ぶんぽう",
+        "meaning": "grammar"
       },
       {
-        "term": "ほりつ",
-        "reading": "ほりつ",
-        "meaning": ""
+        "term": "作法",
+        "reading": "さほう",
+        "meaning": "manners; etiquette"
       },
       {
-        "term": "ほうりち",
-        "reading": "ほうりち",
-        "meaning": ""
+        "term": "憲法",
+        "reading": "けんぽう",
+        "meaning": "constitution"
       },
       {
-        "term": "ほうりつ",
-        "reading": "",
-        "meaning": "法律[n]law"
+        "term": "規律",
+        "reading": "きりつ",
+        "meaning": "order; rules"
+      },
+      {
+        "term": "一律",
+        "reading": "いちりつ",
+        "meaning": "evenness; uniformity"
       }
     ]
   },
@@ -28481,13 +35947,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "タイミング",
     "meaning_en": "I went to see a friend of mine in the hospital, but unfortunately he had left his room",
-    "explanation": "正解は「タイミング」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "タイミング",
-        "reading": "タイミング",
-        "meaning": "timing"
-      },
       {
         "term": "リズム",
         "reading": "リズム",
@@ -28527,13 +35989,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "からには",
     "meaning_en": "From the standpoint of the consumer, it is definitely better that prices are as cheap",
-    "explanation": "正解は「からには」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からには",
-        "reading": "からには",
-        "meaning": "now that"
-      },
       {
         "term": "からして",
         "reading": "からして",
@@ -28573,27 +36031,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ふうとう",
     "meaning_en": "envelope",
-    "explanation": "正解は「ふうとう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "封",
+        "onyomi": "フウ・ホウ",
+        "kunyomi": "-",
+        "meaning": "Seal, Closing"
+      },
+      {
+        "kanji": "筒",
+        "onyomi": "トウ",
+        "kunyomi": "つつ",
+        "meaning": "Cylinder, Pipe, Tube"
+      }
+    ],
     "similar": [
       {
-        "term": "封筒",
-        "reading": "ふうとう",
-        "meaning": "envelope"
+        "term": "同封",
+        "reading": "どうふう",
+        "meaning": "enclosure (e.g. in a letter)"
       },
       {
-        "term": "ふうとう",
-        "reading": "",
-        "meaning": "封筒[n]envelope"
+        "term": "封建",
+        "reading": "ほうけん",
+        "meaning": "feudalistic"
       },
       {
-        "term": "ふっとう",
-        "reading": "",
-        "meaning": "沸騰[n|vs]boil"
+        "term": "封鎖",
+        "reading": "ふうさ",
+        "meaning": "blockade; freezing (funds)"
       },
       {
-        "term": "ふうどう",
-        "reading": "ふうどう",
-        "meaning": ""
+        "term": "水筒",
+        "reading": "すいとう",
+        "meaning": "canteen; flask"
+      },
+      {
+        "term": "円筒",
+        "reading": "えんとう",
+        "meaning": "cylinder"
       }
     ]
   },
@@ -28619,27 +36096,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "至急",
     "meaning_en": "Please deliver these papers to Mr. Tanaka as soon as possible.",
-    "explanation": "正解は「至急」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "至",
+        "onyomi": "シ",
+        "kunyomi": "いたる",
+        "meaning": "Climax, Arrive, Proceed"
+      },
+      {
+        "kanji": "急",
+        "onyomi": "キュウ",
+        "kunyomi": "いそぐ・いそぎ・せく",
+        "meaning": "Hurry, Emergency, Sudden"
+      }
+    ],
     "similar": [
       {
-        "term": "至急",
-        "reading": "しきゅう",
-        "meaning": "urgent; pressing"
+        "term": "至る",
+        "reading": "いたる",
+        "meaning": "to come; to arrive"
       },
       {
-        "term": "特急",
-        "reading": "とっきゅう",
-        "meaning": "limited express train (faster than an express train)"
+        "term": "乃至",
+        "reading": "ないし",
+        "meaning": "from...to; between...and"
       },
       {
-        "term": "急速",
-        "reading": "きゅうそく",
-        "meaning": "rapid (e.g. progress)"
+        "term": "至って",
+        "reading": "いたって",
+        "meaning": "very much; exceedingly"
       },
       {
-        "term": "急激",
-        "reading": "きゅうげき",
-        "meaning": "sudden; precipitous"
+        "term": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry"
+      },
+      {
+        "term": "急行",
+        "reading": "きゅうこう",
+        "meaning": "speedy; express"
       }
     ]
   },
@@ -28665,13 +36161,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "からすると",
     "meaning_en": "Considering the price tag, this fur cannot be real.",
-    "explanation": "正解は「からすると」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "からすると",
-        "reading": "からすると",
-        "meaning": ""
-      },
       {
         "term": "にしては",
         "reading": "",
@@ -28711,12 +36203,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "曇り",
     "meaning_en": "The sky is getting dark and the waves are getting high.",
-    "explanation": "正解は「曇り」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "曇",
+        "onyomi": "ドン",
+        "kunyomi": "くもる",
+        "meaning": "Cloudy Weather, Cloud Up"
+      }
+    ],
     "similar": [
       {
-        "term": "曇り",
-        "reading": "くもり",
-        "meaning": "cloudy weather"
+        "term": "曇る",
+        "reading": "くもる",
+        "meaning": "to become cloudy; to become dim"
       },
       {
         "term": "雲り",
@@ -28757,27 +36257,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しはらい",
     "meaning_en": "I have been told to pay my rent directly to the landlord",
-    "explanation": "正解は「しはらい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "支",
+        "onyomi": "シ",
+        "kunyomi": "ささえる・つかえる・かう",
+        "meaning": "Branch, Support, Sustain"
+      },
+      {
+        "kanji": "払",
+        "onyomi": "フツ・ヒツ・ホツ",
+        "kunyomi": "はらう・-はらい・-ばらい",
+        "meaning": "Pay, Clear Out, Prune"
+      }
+    ],
     "similar": [
       {
-        "term": "しはらい",
+        "term": "支度",
+        "reading": "したくする",
+        "meaning": "to prepare"
+      },
+      {
+        "term": "支える",
+        "reading": "ささえる",
+        "meaning": "to be blocked; to choke"
+      },
+      {
+        "term": "支出",
+        "reading": "ししゅつ",
+        "meaning": "expenditure; expenses"
+      },
+      {
+        "term": "払う",
+        "reading": "はらう",
+        "meaning": "to pay"
+      },
+      {
+        "term": "支払",
         "reading": "しはらい",
-        "meaning": ""
-      },
-      {
-        "term": "ひきだし",
-        "reading": "",
-        "meaning": "引き出し[n]drawer"
-      },
-      {
-        "term": "ふりこみ",
-        "reading": "ふりこみ",
-        "meaning": ""
-      },
-      {
-        "term": "かしだし",
-        "reading": "かしだし",
-        "meaning": ""
+        "meaning": "payment"
       }
     ]
   },
@@ -28803,13 +36322,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "がちだ",
     "meaning_en": "I have been eating out recently so my diet tends to be not very well-balanced.",
-    "explanation": "正解は「がちだ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "がちだ",
-        "reading": "がちだ",
-        "meaning": ""
-      },
       {
         "term": "げだ",
         "reading": "げだ",
@@ -28849,12 +36364,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "と",
     "meaning_en": "Japanese style door",
-    "explanation": "正解は「と」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "戸",
+        "onyomi": "コ",
+        "kunyomi": "と",
+        "meaning": "Door, Counter For Houses, Door Radical (no. 63)"
+      }
+    ],
     "similar": [
       {
-        "term": "戸",
-        "reading": "と",
-        "meaning": "Japanese style door"
+        "term": "井戸",
+        "reading": "いど",
+        "meaning": "water well"
+      },
+      {
+        "term": "戸棚",
+        "reading": "とだな",
+        "meaning": "cupboard; locker"
+      },
+      {
+        "term": "瀬戸物",
+        "reading": "せともの",
+        "meaning": "earthenware; crockery"
       }
     ]
   },
@@ -28880,27 +36413,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "引退して",
     "meaning_en": "He retired after the Olympics and became a coach.",
-    "explanation": "正解は「引退して」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "引",
+        "onyomi": "イン",
+        "kunyomi": "ひく・ひき・ひき-・-びき・ひける",
+        "meaning": "Pull, Tug, Jerk"
+      },
+      {
+        "kanji": "退",
+        "onyomi": "タイ",
+        "kunyomi": "しりぞく・しりぞける・ひく・のく・のける・どく",
+        "meaning": "Retreat, Withdraw, Retire"
+      }
+    ],
     "similar": [
       {
-        "term": "引退して",
-        "reading": "いんたいして",
-        "meaning": ""
+        "term": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
       },
       {
-        "term": "退職して",
-        "reading": "たいしょくして",
-        "meaning": ""
+        "term": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
       },
       {
-        "term": "退院して",
-        "reading": "たいいんして",
-        "meaning": ""
+        "term": "引き出し",
+        "reading": "ひきだし",
+        "meaning": "drawer; drawing out"
       },
       {
-        "term": "就職して",
-        "reading": "しゅうしょくして",
-        "meaning": ""
+        "term": "退院",
+        "reading": "たいいんする",
+        "meaning": "to leave hospital"
+      },
+      {
+        "term": "引退",
+        "reading": "いんたい",
+        "meaning": "retire"
       }
     ]
   },
@@ -28926,27 +36478,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "日本へ来て",
     "meaning_en": "Since I came to Japan, I have not gone back to my home country.",
-    "explanation": "正解は「日本へ来て」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "日",
+        "onyomi": "ニチ・ジツ",
+        "kunyomi": "ひ・-び・-か",
+        "meaning": "Day, Sun, Japan"
+      },
+      {
+        "kanji": "本",
+        "onyomi": "ホン",
+        "kunyomi": "もと",
+        "meaning": "Book, Present, Main"
+      },
+      {
+        "kanji": "来",
+        "onyomi": "ライ・タイ",
+        "kunyomi": "くる・きたる・きたす・きたす・きたる・き・こ",
+        "meaning": "Come, Due, Next"
+      }
+    ],
     "similar": [
       {
-        "term": "日本へ来て",
-        "reading": "にっぽんへきて",
-        "meaning": ""
+        "term": "一日",
+        "reading": "いちにち",
+        "meaning": "(1) one day; (2) first of month"
       },
       {
-        "term": "来日の",
-        "reading": "らいにちの",
-        "meaning": ""
+        "term": "一昨日",
+        "reading": "おととい",
+        "meaning": "day before yesterday"
       },
       {
-        "term": "日本へ来る",
-        "reading": "にっぽんへくる",
-        "meaning": ""
+        "term": "七日",
+        "reading": "なのか",
+        "meaning": "seven days; the seventh day"
       },
       {
-        "term": "日本へ来た",
-        "reading": "にっぽんへきた",
-        "meaning": ""
+        "term": "本棚",
+        "reading": "ほんだな",
+        "meaning": "bookshelves"
+      },
+      {
+        "term": "基本",
+        "reading": "きほん",
+        "meaning": "foundation; basis"
       }
     ]
   },
@@ -28972,27 +36549,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "訓練",
     "meaning_en": "Iteach agriculture as a vocational school instructor.",
-    "explanation": "正解は「訓練」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "訓",
+        "onyomi": "クン・キン",
+        "kunyomi": "おしえる・よむ・くんずる",
+        "meaning": "Instruction, Japanese Character Reading, Explanation"
+      },
+      {
+        "kanji": "練",
+        "onyomi": "レン",
+        "kunyomi": "ねる・ねり",
+        "meaning": "Practice, Gloss, Train"
+      }
+    ],
     "similar": [
       {
-        "term": "訓練",
-        "reading": "くんれん",
-        "meaning": "practice; training"
+        "term": "教訓",
+        "reading": "きょうくん",
+        "meaning": "lesson; precept"
       },
       {
-        "term": "軍練",
-        "reading": "ぐんれん",
-        "meaning": ""
+        "term": "特訓",
+        "reading": "とっくん",
+        "meaning": "special training; intensive training"
       },
       {
-        "term": "君練",
-        "reading": "くんれん",
-        "meaning": ""
+        "term": "訓令",
+        "reading": "くんれい",
+        "meaning": "directive; instructions"
       },
       {
-        "term": "運練",
-        "reading": "うんれん",
-        "meaning": ""
+        "term": "練習",
+        "reading": "れんしゅうする",
+        "meaning": "to practice"
+      },
+      {
+        "term": "未練",
+        "reading": "みれん",
+        "meaning": "lingering affection; attachment"
       }
     ]
   },
@@ -29018,11 +36614,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "くどい",
     "meaning_en": "I have told my son to quit smoking numerous times but he does not listen.",
-    "explanation": "正解は「くどい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "諄",
+        "onyomi": "シュン",
+        "kunyomi": "ひちくどい・くどい・くどくど・ねんごろ",
+        "meaning": "Tedious"
+      }
+    ],
     "similar": [
       {
-        "term": "くどい",
-        "reading": "",
+        "term": "諄い",
+        "reading": "くどい",
         "meaning": "verbose; importunate"
       },
       {
@@ -29064,13 +36668,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しあおう",
     "meaning_en": "Let us discuss the issue freely.",
-    "explanation": "正解は「しあおう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "しあおう",
-        "reading": "しあおう",
-        "meaning": ""
-      },
       {
         "term": "しあって",
         "reading": "しあって",
@@ -29110,27 +36710,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "しょくよく",
     "meaning_en": "Ido not have much of an appetite, but I am going to rest a bit at a coffee shop",
-    "explanation": "正解は「しょくよく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "食",
+        "onyomi": "ショク・ジキ",
+        "kunyomi": "くう・くらう・たべる・はむ",
+        "meaning": "Eat, Food"
+      },
+      {
+        "kanji": "欲",
+        "onyomi": "ヨク",
+        "kunyomi": "ほっする・ほしい",
+        "meaning": "Longing, Covetousness, Greed"
+      }
+    ],
     "similar": [
       {
-        "term": "食欲",
-        "reading": "しょくよく",
-        "meaning": "appetite (for food)"
+        "term": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat"
       },
       {
-        "term": "しょくよく",
-        "reading": "",
-        "meaning": "食欲[n]appetite"
+        "term": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food"
       },
       {
-        "term": "しょくおく",
-        "reading": "しょくおく",
-        "meaning": ""
+        "term": "食堂",
+        "reading": "しょくどう",
+        "meaning": "dining hall"
       },
       {
-        "term": "しょくゆく",
-        "reading": "しょくゆく",
-        "meaning": ""
+        "term": "欲しい",
+        "reading": "ほしい",
+        "meaning": "want"
+      },
+      {
+        "term": "欲張り",
+        "reading": "よくばり",
+        "meaning": "avarice; covetousness"
       }
     ]
   },
@@ -29156,27 +36775,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "重要",
     "meaning_en": "At this school, it is more important to attend classes than to get good marks on tests.",
-    "explanation": "正解は「重要」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "重",
+        "onyomi": "ジュウ・チョウ",
+        "kunyomi": "え・おもい・おもり・おもなう・かさねる・かさなる・おも",
+        "meaning": "Heavy, Important, Esteem"
+      },
+      {
+        "kanji": "要",
+        "onyomi": "ヨウ",
+        "kunyomi": "いる・かなめ",
+        "meaning": "Need, Main Point, Essence"
+      }
+    ],
     "similar": [
       {
-        "term": "重要",
-        "reading": "じゅうよう",
-        "meaning": "important; momentous"
+        "term": "重い",
+        "reading": "おもい",
+        "meaning": "heavy"
       },
       {
-        "term": "重体",
-        "reading": "じゅうたい",
-        "meaning": "seriously ill; serious condition"
+        "term": "体重",
+        "reading": "たいじゅう",
+        "meaning": "(body) weight"
       },
       {
-        "term": "強化",
-        "reading": "きょうか",
-        "meaning": "strengthen; intensify"
+        "term": "尊重",
+        "reading": "そんちょう",
+        "meaning": "respect; esteem"
       },
       {
-        "term": "強力",
-        "reading": "きょうりょく",
-        "meaning": "herculean strength; mountain carrier-guide"
+        "term": "要る",
+        "reading": "いる",
+        "meaning": "to need"
+      },
+      {
+        "term": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
       }
     ]
   },
@@ -29201,28 +36839,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "次第だ",
-    "meaning_en": "Target: 次第だ",
-    "explanation": "正解は「次第だ」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "次",
+        "onyomi": "ジ・シ",
+        "kunyomi": "つぐ・つぎ",
+        "meaning": "Next, Order, Sequence"
+      },
+      {
+        "kanji": "第",
+        "onyomi": "ダイ・テイ",
+        "kunyomi": "-",
+        "meaning": "No., Residence"
+      }
+    ],
     "similar": [
       {
-        "term": "次第だ",
-        "reading": "しだいだ",
-        "meaning": ""
+        "term": "次々",
+        "reading": "つぎつぎ",
+        "meaning": "in succession; one by one"
       },
       {
-        "term": "に応じる",
-        "reading": "におうじる",
-        "meaning": ""
+        "term": "次第",
+        "reading": "しだい",
+        "meaning": "(1) order; precedence"
       },
       {
-        "term": "に伴う",
-        "reading": "にともなう",
-        "meaning": ""
+        "term": "次ぐ",
+        "reading": "つぐ",
+        "meaning": "to rank next to; to come after"
       },
       {
-        "term": "限りだ",
-        "reading": "かぎりだ",
-        "meaning": ""
+        "term": "落第",
+        "reading": "らくだい",
+        "meaning": "failure; dropping out of a class"
+      },
+      {
+        "term": "第一",
+        "reading": "だいいち",
+        "meaning": "first; foremost"
       }
     ]
   },
@@ -29247,28 +36904,31 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "うやまう",
-    "meaning_en": "Target: うやまう",
-    "explanation": "正解は「うやまう」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "敬",
+        "onyomi": "ケイ・キョウ",
+        "kunyomi": "うやまう",
+        "meaning": "Awe, Respect, Honor"
+      }
+    ],
     "similar": [
       {
-        "term": "敬え",
-        "reading": "たかしえ",
-        "meaning": ""
+        "term": "尊敬",
+        "reading": "そんけい",
+        "meaning": "respect; esteem"
       },
       {
-        "term": "うやまう",
-        "reading": "",
-        "meaning": "敬う[vg]respect"
+        "term": "敬意",
+        "reading": "けいい",
+        "meaning": "respect; honour"
       },
       {
-        "term": "きそう",
-        "reading": "",
-        "meaning": "競う[vg]compete"
-      },
-      {
-        "term": "あらそう",
-        "reading": "",
-        "meaning": "争う[vg]dispute"
+        "term": "敬う",
+        "reading": "うやまう",
+        "meaning": "to show respect; to honour"
       }
     ]
   },
@@ -29294,13 +36954,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ばったり",
     "meaning_en": "Ibumped into a friend from university on the way to work.",
-    "explanation": "正解は「ばったり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ばったり",
-        "reading": "",
-        "meaning": "with a clash (thud); with a bang"
-      },
       {
         "term": "こっそり",
         "reading": "こっそり",
@@ -29340,27 +36996,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "豊かな",
     "meaning_en": "Tanaka-san has a lot of experience on top of having a great deal of knowledge.",
-    "explanation": "正解は「豊かな」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "豊",
+        "onyomi": "ホウ・ブ",
+        "kunyomi": "ゆたか・とよ",
+        "meaning": "Bountiful, Excellent, Rich"
+      }
+    ],
     "similar": [
       {
-        "term": "豊かな",
-        "reading": "ゆたかな",
-        "meaning": ""
+        "term": "豊か",
+        "reading": "ゆたか",
+        "meaning": "abundant; wealthy"
       },
       {
-        "term": "豊かで",
-        "reading": "ゆたかで",
-        "meaning": ""
+        "term": "豊富",
+        "reading": "ほうふ",
+        "meaning": "abundance; wealth"
       },
       {
-        "term": "豊かだ",
-        "reading": "ゆたかだ",
-        "meaning": ""
-      },
-      {
-        "term": "豊かの",
-        "reading": "ゆたかの",
-        "meaning": ""
+        "term": "豊作",
+        "reading": "ほうさく",
+        "meaning": "abundant harvest; bumper crop"
       }
     ]
   },
@@ -29386,12 +37045,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "命",
     "meaning_en": "Learn the importance of life.",
-    "explanation": "正解は「命」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "命",
+        "onyomi": "メイ・ミョウ",
+        "kunyomi": "いのち",
+        "meaning": "Fate, Command, Decree"
+      }
+    ],
     "similar": [
       {
-        "term": "命",
-        "reading": "いのち",
-        "meaning": "command; decree"
+        "term": "一生懸命",
+        "reading": "いっしょうけんめい",
+        "meaning": "with utmost effort"
+      },
+      {
+        "term": "命じる",
+        "reading": "めいじる",
+        "meaning": "to order; to command"
+      },
+      {
+        "term": "命令",
+        "reading": "めいれい",
+        "meaning": "order; command"
       }
     ]
   },
@@ -29417,13 +37094,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "はでに",
     "meaning_en": "Although my pay has gone up, I am still having trouble making ends meet.",
-    "explanation": "正解は「はでに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "はでに",
-        "reading": "はでに",
-        "meaning": ""
-      },
       {
         "term": "のんきに",
         "reading": "のんきに",
@@ -29463,27 +37136,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "とともに",
     "meaning_en": "As cell phones have become more established, the manners of those using them",
-    "explanation": "正解は「とともに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "共",
+        "onyomi": "キョウ",
+        "kunyomi": "とも・ともに・-ども",
+        "meaning": "Together, Both, Neither"
+      }
+    ],
     "similar": [
       {
-        "term": "とともに",
-        "reading": "とともに",
-        "meaning": ""
+        "term": "共に",
+        "reading": "ともに",
+        "meaning": "sharing with; participate in"
       },
       {
-        "term": "一方で",
-        "reading": "いっぽうで",
-        "meaning": ""
+        "term": "共同",
+        "reading": "きょうどう",
+        "meaning": "cooperation; association"
       },
       {
-        "term": "ながら",
-        "reading": "",
-        "meaning": "while"
-      },
-      {
-        "term": "あまり",
-        "reading": "",
-        "meaning": "not very"
+        "term": "共通",
+        "reading": "きょうつう",
+        "meaning": "commonness; community"
       }
     ]
   },
@@ -29509,27 +37185,36 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぼうえき",
     "meaning_en": "trade",
-    "explanation": "正解は「ぼうえき」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "貿",
+        "onyomi": "ボウ",
+        "kunyomi": "-",
+        "meaning": "Trade, Exchange"
+      },
+      {
+        "kanji": "易",
+        "onyomi": "エキ・イ",
+        "kunyomi": "やさしい・やすい",
+        "meaning": "Easy, Ready To, Simple"
+      }
+    ],
     "similar": [
       {
-        "term": "貿易",
-        "reading": "ぼうえき",
-        "meaning": "trade"
+        "term": "易しい",
+        "reading": "やさしい",
+        "meaning": "easy; simple"
       },
       {
-        "term": "ぼうえき",
-        "reading": "",
-        "meaning": "貿易[n|vs]trade"
+        "term": "容易",
+        "reading": "ようい",
+        "meaning": "easy; simple"
       },
       {
-        "term": "ぼえき",
-        "reading": "ぼえき",
-        "meaning": ""
-      },
-      {
-        "term": "ぼいき",
-        "reading": "ぼいき",
-        "meaning": ""
+        "term": "安易",
+        "reading": "あんい",
+        "meaning": "easy-going"
       }
     ]
   },
@@ -29554,28 +37239,53 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "要領が悪い",
-    "meaning_en": "Target: 要領が悪い",
-    "explanation": "正解は「要領が悪い」です。文脈に最も適した自然な日本語表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "要",
+        "onyomi": "ヨウ",
+        "kunyomi": "いる・かなめ",
+        "meaning": "Need, Main Point, Essence"
+      },
+      {
+        "kanji": "領",
+        "onyomi": "リョウ",
+        "kunyomi": "えり",
+        "meaning": "Jurisdiction, Dominion, Territory"
+      },
+      {
+        "kanji": "悪",
+        "onyomi": "アク・オ",
+        "kunyomi": "わるい・わる-・あし・にくい・-にくい・ああ・いずくに・いずくんぞ・にくむ",
+        "meaning": "Bad, Vice, Rascal"
+      }
+    ],
     "similar": [
       {
-        "term": "要領が悪い",
-        "reading": "ようりょうがわるい",
-        "meaning": ""
+        "term": "要る",
+        "reading": "いる",
+        "meaning": "to need"
       },
       {
-        "term": "納得がいかない",
-        "reading": "なっとくがいかない",
-        "meaning": ""
+        "term": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
       },
       {
-        "term": "手間になる",
-        "reading": "てまになる",
-        "meaning": ""
+        "term": "主要",
+        "reading": "しゅよう",
+        "meaning": "chief; main"
       },
       {
-        "term": "まねをする",
-        "reading": "まねをする",
-        "meaning": ""
+        "term": "大統領",
+        "reading": "だいとうりょう",
+        "meaning": "president; chief executive"
+      },
+      {
+        "term": "要領",
+        "reading": "ようりょう",
+        "meaning": "point; gist"
       }
     ]
   },
@@ -29601,27 +37311,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "おそれ",
     "meaning_en": "We are recalling this type of battery because of the danger of combustion.",
-    "explanation": "正解は「おそれ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "恐",
+        "onyomi": "キョウ",
+        "kunyomi": "おそれる・おそる・おそろしい・こわい・こわがる",
+        "meaning": "Fear, Dread, Awe"
+      }
+    ],
     "similar": [
       {
-        "term": "おそれ",
-        "reading": "おそれ",
-        "meaning": ""
+        "term": "恐れる",
+        "reading": "おそれる",
+        "meaning": "to fear; to be afraid of"
       },
       {
-        "term": "がち",
-        "reading": "",
-        "meaning": "tend to do ~"
+        "term": "恐ろしい",
+        "reading": "おそろしい",
+        "meaning": "terrible; dreadful"
       },
       {
-        "term": "かぎり",
-        "reading": "",
-        "meaning": "限り[n]limit"
-      },
-      {
-        "term": "きっかけ",
-        "reading": "",
-        "meaning": "chance; start"
+        "term": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "be afraid; dread"
       }
     ]
   },
@@ -29647,27 +37360,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "面倒",
     "meaning_en": "trouble; difficulty",
-    "explanation": "正解は「面倒」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "面",
+        "onyomi": "メン・ベン",
+        "kunyomi": "おも・おもて・つら",
+        "meaning": "Mask, Face, Features"
+      },
+      {
+        "kanji": "倒",
+        "onyomi": "トウ",
+        "kunyomi": "たおれる・-だおれ・たおす・さかさま・さかさ・さかしま",
+        "meaning": "Overthrow, Fall, Collapse"
+      }
+    ],
     "similar": [
       {
-        "term": "面倒",
-        "reading": "めんどう",
-        "meaning": "trouble; difficulty"
+        "term": "場面",
+        "reading": "ばめん",
+        "meaning": "scene; setting (e.g. of novel)"
       },
       {
-        "term": "面到",
-        "reading": "めんとう",
-        "meaning": ""
+        "term": "真面目",
+        "reading": "まじめ",
+        "meaning": "diligent; serious"
       },
       {
-        "term": "面堂",
-        "reading": "めんどう",
-        "meaning": ""
+        "term": "表面",
+        "reading": "ひょうめん",
+        "meaning": "surface; outside"
       },
       {
-        "term": "面道",
-        "reading": "めんみち",
-        "meaning": ""
+        "term": "倒れる",
+        "reading": "たおれる",
+        "meaning": "to break down"
+      },
+      {
+        "term": "倒す",
+        "reading": "たおす",
+        "meaning": "to throw down; to beat"
       }
     ]
   },
@@ -29693,27 +37425,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "いままで",
     "meaning_en": "The river is about to overflow from the prolonged heavy rain.",
-    "explanation": "正解は「いままで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "今",
+        "onyomi": "コン・キン",
+        "kunyomi": "いま",
+        "meaning": "Now"
+      }
+    ],
     "similar": [
       {
-        "term": "いままで",
-        "reading": "",
-        "meaning": "今迄[ad]until now"
+        "term": "今年",
+        "reading": "ことし",
+        "meaning": "this year"
       },
       {
-        "term": "いまに",
-        "reading": "",
-        "meaning": "今に[ad]soon"
+        "term": "今日",
+        "reading": "きょう",
+        "meaning": "today"
       },
       {
-        "term": "いまでも",
-        "reading": "いまでも",
-        "meaning": ""
-      },
-      {
-        "term": "いまにも",
-        "reading": "",
-        "meaning": "今にも[ad]soon"
+        "term": "今晩",
+        "reading": "こんばん",
+        "meaning": "this evening"
       }
     ]
   },
@@ -29739,12 +37474,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "思い",
     "meaning_en": "Although I knew I should not, I talked about it.",
-    "explanation": "正解は「思い」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      }
+    ],
     "similar": [
       {
-        "term": "思い",
-        "reading": "おもい",
-        "meaning": "thought; imagination"
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
         "term": "思う",
@@ -29752,14 +37495,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to think; to feel"
       },
       {
-        "term": "思え",
-        "reading": "おもえ",
-        "meaning": ""
-      },
-      {
-        "term": "思わ",
-        "reading": "おもわ",
-        "meaning": ""
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       }
     ]
   },
@@ -29785,27 +37523,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "かべ",
     "meaning_en": "To make sure the furniture does not fall over, it is held in place by inserting special",
-    "explanation": "正解は「かべ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "壁",
+        "onyomi": "ヘキ",
+        "kunyomi": "かべ",
+        "meaning": "Wall, Lining (stomach), Fence"
+      }
+    ],
     "similar": [
       {
-        "term": "壁",
-        "reading": "かべ",
-        "meaning": "wall"
+        "term": "壁画",
+        "reading": "へきが",
+        "meaning": "fresco; mural"
       },
       {
-        "term": "かび",
-        "reading": "",
-        "meaning": "mold, mildew"
+        "term": "壁紙",
+        "reading": "かべがみ",
+        "meaning": "wallpaper; wallpaper"
       },
       {
-        "term": "かべ",
-        "reading": "",
-        "meaning": "壁[n]wall"
-      },
-      {
-        "term": "かぶ",
-        "reading": "",
-        "meaning": "下部[n]lower part"
+        "term": "壁面",
+        "reading": "へきめん",
+        "meaning": "surface of a wall"
       }
     ]
   },
@@ -29831,27 +37572,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "目を通し",
     "meaning_en": "The first thing I do in the morning is look through the newspaper, then I get ready",
-    "explanation": "正解は「目を通し」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "通",
+        "onyomi": "ツウ・ツ",
+        "kunyomi": "とおる・とおり・-とおり・-どおり・とおす・とおし・-どおし・かよう",
+        "meaning": "Traffic, Pass Through, Avenue"
+      }
+    ],
     "similar": [
       {
-        "term": "目を通し",
-        "reading": "めをとうし",
+        "term": "お目に掛",
+        "reading": "おめにかかる",
         "meaning": ""
       },
       {
-        "term": "目をかけ",
-        "reading": "めをかけ",
-        "meaning": ""
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
       },
       {
-        "term": "目を引き",
-        "reading": "めをひき",
-        "meaning": ""
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
       },
       {
-        "term": "目をつけ",
-        "reading": "めをつけ",
-        "meaning": ""
+        "term": "交通",
+        "reading": "こうつう",
+        "meaning": "traffic; transportation"
+      },
+      {
+        "term": "普通",
+        "reading": "ふつう",
+        "meaning": "usually; or a train that stops at every station"
       }
     ]
   },
@@ -29877,13 +37637,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "というものではない",
     "meaning_en": "It is not always the case that you can just apologize.",
-    "explanation": "正解は「というものではない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "というものではない",
-        "reading": "というものではない",
-        "meaning": ""
-      },
       {
         "term": "わけにはいかない",
         "reading": "",
@@ -29923,27 +37679,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ふくまれて",
     "meaning_en": "This foodstuff does not contain wheat flour.",
-    "explanation": "正解は「ふくまれて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "含",
+        "onyomi": "ガン",
+        "kunyomi": "ふくむ・ふくめる",
+        "meaning": "Contain, Include, Hold In The Mouth"
+      }
+    ],
     "similar": [
       {
-        "term": "含まれておりません",
-        "reading": "ふくまれておりません",
-        "meaning": ""
+        "term": "含む",
+        "reading": "ふくむ",
+        "meaning": "to hold in the mouth; to bear in mind"
       },
       {
-        "term": "つかまれて",
-        "reading": "つかまれて",
-        "meaning": ""
+        "term": "含める",
+        "reading": "ふくめる",
+        "meaning": "to include; to instruct"
       },
       {
-        "term": "かこまれて",
-        "reading": "かこまれて",
-        "meaning": ""
-      },
-      {
-        "term": "ふくまれて",
-        "reading": "ふくまれて",
-        "meaning": ""
+        "term": "含嗽",
+        "reading": "うがい",
+        "meaning": "gargle; rinse mouth"
       }
     ]
   },
@@ -29969,27 +37728,35 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "くれぐれも",
     "meaning_en": "You will need to place your personal seal on that document. Please be sure not to forget.",
-    "explanation": "正解は「くれぐれも」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "呉",
+        "onyomi": "ゴ",
+        "kunyomi": "くれる・くれ",
+        "meaning": "Give, Do Something For, Kingdom Of Wu"
+      }
+    ],
     "similar": [
       {
-        "term": "くれぐれも",
-        "reading": "",
+        "term": "呉れる",
+        "reading": "くれる",
+        "meaning": "to give; to let one have"
+      },
+      {
+        "term": "呉れ呉れも",
+        "reading": "くれぐれも",
         "meaning": "repeatedly; sincerely"
       },
       {
-        "term": "いつまでも",
-        "reading": "",
-        "meaning": "forever; for good"
+        "term": "呉服",
+        "reading": "ごふく",
+        "meaning": "cloth (for Japanese clothes); kimono fabrics"
       },
       {
-        "term": "すこしも",
-        "reading": "",
-        "meaning": "少しも[ad]not at all"
-      },
-      {
-        "term": "ちっとも",
-        "reading": "",
-        "meaning": "not at all (used with a negative verb)"
+        "term": "呉越同舟",
+        "reading": "ごえつどうしゅう",
+        "meaning": "bitter enemies in the same boat; rivals finding themselves together by chance"
       }
     ]
   },
@@ -30015,27 +37782,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "教育上",
     "meaning_en": "The content of this comic book is not good from an educational standpoint.",
-    "explanation": "正解は「教育上」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "教",
+        "onyomi": "キョウ",
+        "kunyomi": "おしえる・おそわる",
+        "meaning": "Teach, Faith, Doctrine"
+      },
+      {
+        "kanji": "育",
+        "onyomi": "イク",
+        "kunyomi": "そだつ・そだち・そだてる・はぐくむ",
+        "meaning": "Bring Up, Grow Up, Raise"
+      },
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      }
+    ],
     "similar": [
       {
-        "term": "教育上",
-        "reading": "きょういくじょう",
-        "meaning": ""
+        "term": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach; to tell"
       },
       {
-        "term": "教育の上に",
-        "reading": "きょういくのうえに",
-        "meaning": ""
+        "term": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
       },
       {
-        "term": "教育の上",
-        "reading": "きょういくのうえ",
-        "meaning": ""
+        "term": "教会",
+        "reading": "きょうかい",
+        "meaning": "church"
       },
       {
-        "term": "教育以上",
-        "reading": "きょういくいじょう",
-        "meaning": ""
+        "term": "教育",
+        "reading": "きょういく",
+        "meaning": "education"
+      },
+      {
+        "term": "育てる",
+        "reading": "そだてる",
+        "meaning": "to rear; to bring up"
       }
     ]
   },
@@ -30061,27 +37853,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "清書",
     "meaning_en": "I am going to put the title “The Many Problems of Japanese\" on this and print out a",
-    "explanation": "正解は「清書」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "清",
+        "onyomi": "セイ・ショウ・シン",
+        "kunyomi": "きよい・きよまる・きよめる",
+        "meaning": "Pure, Purify, Cleanse"
+      },
+      {
+        "kanji": "書",
+        "onyomi": "ショ",
+        "kunyomi": "かく・-がき・-がき",
+        "meaning": "Write"
+      }
+    ],
     "similar": [
       {
-        "term": "清書",
-        "reading": "せいしょ",
-        "meaning": "clean copy"
+        "term": "清む",
+        "reading": "すむ",
+        "meaning": "to clear (e.g., weather), to become transparent"
       },
       {
-        "term": "精書",
-        "reading": "せいかき",
-        "meaning": ""
+        "term": "清潔",
+        "reading": "せいけつ",
+        "meaning": "clean"
       },
       {
-        "term": "正書",
-        "reading": "せいしょ",
-        "meaning": ""
+        "term": "清い",
+        "reading": "きよい",
+        "meaning": "clear; pure"
       },
       {
-        "term": "情書",
-        "reading": "じょうかき",
-        "meaning": ""
+        "term": "図書館",
+        "reading": "としょかん",
+        "meaning": "library"
+      },
+      {
+        "term": "書く",
+        "reading": "かく",
+        "meaning": "to write"
       }
     ]
   },
@@ -30107,27 +37918,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "食欲",
     "meaning_en": "A time might come when there will be a shortage of food in Japan.",
-    "explanation": "正解は「食欲」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "食",
+        "onyomi": "ショク・ジキ",
+        "kunyomi": "くう・くらう・たべる・はむ",
+        "meaning": "Eat, Food"
+      },
+      {
+        "kanji": "欲",
+        "onyomi": "ヨク",
+        "kunyomi": "ほっする・ほしい",
+        "meaning": "Longing, Covetousness, Greed"
+      }
+    ],
     "similar": [
       {
-        "term": "食欲",
-        "reading": "しょくよく",
-        "meaning": "appetite (for food)"
+        "term": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat"
       },
       {
-        "term": "食ン",
-        "reading": "しょくん",
-        "meaning": ""
+        "term": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food"
       },
       {
-        "term": "食費",
-        "reading": "しょくひ",
-        "meaning": "food expenses; money for food"
+        "term": "食堂",
+        "reading": "しょくどう",
+        "meaning": "dining hall"
       },
       {
-        "term": "食事",
-        "reading": "しょくじする",
-        "meaning": "to have a meal"
+        "term": "欲しい",
+        "reading": "ほしい",
+        "meaning": "want"
+      },
+      {
+        "term": "欲張り",
+        "reading": "よくばり",
+        "meaning": "avarice; covetousness"
       }
     ]
   },
@@ -30153,27 +37983,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "次第です",
     "meaning_en": "I came to cordially thank you for your patronage as we are closing the shop.",
-    "explanation": "正解は「次第です」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "次",
+        "onyomi": "ジ・シ",
+        "kunyomi": "つぐ・つぎ",
+        "meaning": "Next, Order, Sequence"
+      },
+      {
+        "kanji": "第",
+        "onyomi": "ダイ・テイ",
+        "kunyomi": "-",
+        "meaning": "No., Residence"
+      }
+    ],
     "similar": [
       {
-        "term": "次第です",
-        "reading": "しだいです",
-        "meaning": ""
+        "term": "次々",
+        "reading": "つぎつぎ",
+        "meaning": "in succession; one by one"
       },
       {
-        "term": "ざるをえません",
-        "reading": "ざるをえません",
-        "meaning": ""
+        "term": "次第",
+        "reading": "しだい",
+        "meaning": "(1) order; precedence"
       },
       {
-        "term": "以上です",
-        "reading": "いじょうです",
-        "meaning": ""
+        "term": "次ぐ",
+        "reading": "つぐ",
+        "meaning": "to rank next to; to come after"
       },
       {
-        "term": "よりほかありません",
-        "reading": "よりほかありません",
-        "meaning": ""
+        "term": "落第",
+        "reading": "らくだい",
+        "meaning": "failure; dropping out of a class"
+      },
+      {
+        "term": "第一",
+        "reading": "だいいち",
+        "meaning": "first; foremost"
       }
     ]
   },
@@ -30199,27 +38048,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "むらがる",
     "meaning_en": "He commented to the swarming reporters， \"| will neither confirm nor deny that.\"",
-    "explanation": "正解は「むらがる」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "群",
+        "onyomi": "グン",
+        "kunyomi": "むれる・むれ・むら・むらがる",
+        "meaning": "Flock, Group, Crowd"
+      }
+    ],
     "similar": [
       {
-        "term": "群がる",
-        "reading": "むらがる",
-        "meaning": "to swarm; to gather"
+        "term": "群れ",
+        "reading": "むれ",
+        "meaning": "group; crowd"
       },
       {
-        "term": "もりあがる",
-        "reading": "",
-        "meaning": "盛り上がる[vg]swell"
+        "term": "群衆",
+        "reading": "ぐんしゅう",
+        "meaning": "(social) group, crowd, mob"
       },
       {
-        "term": "むれがる",
-        "reading": "むれがる",
-        "meaning": ""
-      },
-      {
-        "term": "ぶらさがる",
-        "reading": "",
-        "meaning": "ぶら下がる[vg]to be hung"
+        "term": "群集",
+        "reading": "ぐんしゅう",
+        "meaning": "(social) group; crowd"
       }
     ]
   },
@@ -30245,27 +38097,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "なんとなく",
     "meaning_en": "ljust made the train because | ran as fast as | could.",
-    "explanation": "正解は「なんとなく」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "何",
+        "onyomi": "カ",
+        "kunyomi": "なに・なん・なに-・なん-",
+        "meaning": "What"
+      }
+    ],
     "similar": [
       {
-        "term": "なんとなく",
-        "reading": "",
-        "meaning": "somehow or other; for some reason or another"
+        "term": "何か",
+        "reading": "なにか",
+        "meaning": "something"
       },
       {
-        "term": "なんでも",
-        "reading": "",
-        "meaning": "何でも[ad]whatever"
+        "term": "何で",
+        "reading": "なんで",
+        "meaning": "Why?; What for?"
       },
       {
-        "term": "なんとか",
-        "reading": "",
-        "meaning": "何とか[ad]somehow"
-      },
-      {
-        "term": "なんとも",
-        "reading": "",
-        "meaning": "nothing (with neg. verb); quite"
+        "term": "何でも",
+        "reading": "なんでも",
+        "meaning": "by all means; everything"
       }
     ]
   },
@@ -30291,27 +38146,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "した上で",
     "meaning_en": "|will respond after I discuss it with my family.",
-    "explanation": "正解は「した上で」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "上",
+        "onyomi": "ジョウ・ショウ・シャン",
+        "kunyomi": "うえ・-うえ・うわ-・かみ・あげる・-あげる・あがる・-あがる・あがり・-あがり・のぼる・のぼり・のぼせる・のぼす・たてまつる",
+        "meaning": "Above, Up"
+      }
+    ],
     "similar": [
       {
-        "term": "した上で",
-        "reading": "したうえで",
-        "meaning": ""
+        "term": "上げる",
+        "reading": "あげる",
+        "meaning": "to give"
       },
       {
-        "term": "する上で",
-        "reading": "するうえで",
-        "meaning": ""
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       },
       {
-        "term": "上で",
-        "reading": "うえで",
-        "meaning": ""
-      },
-      {
-        "term": "上は",
-        "reading": "うえは",
-        "meaning": ""
+        "term": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
       }
     ]
   },
@@ -30337,27 +38195,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "辺り",
     "meaning_en": "There are many high-rise apartment buildings in this area.",
-    "explanation": "正解は「辺り」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "辺",
+        "onyomi": "ヘン",
+        "kunyomi": "あたり・ほとり・-べ",
+        "meaning": "Environs, Boundary, Border"
+      }
+    ],
     "similar": [
       {
-        "term": "辺り",
-        "reading": "あたり",
-        "meaning": "vicinity; nearby"
+        "term": "周辺",
+        "reading": "しゅうへん",
+        "meaning": "circumference; outskirts"
       },
       {
-        "term": "与り",
-        "reading": "より",
-        "meaning": ""
+        "term": "対辺",
+        "reading": "たいへん",
+        "meaning": "(geometrical) opposite side"
       },
       {
-        "term": "周り",
-        "reading": "まわり",
-        "meaning": "surroundings"
-      },
-      {
-        "term": "測り",
-        "reading": "はかり",
-        "meaning": ""
+        "term": "浜辺",
+        "reading": "はまべ",
+        "meaning": "beach; foreshore"
       }
     ]
   },
@@ -30383,27 +38244,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "目印",
     "meaning_en": "There are no landmarks near my house so you might have trouble finding it.",
-    "explanation": "正解は「目印」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "目",
+        "onyomi": "モク・ボク",
+        "kunyomi": "め・-め・ま-",
+        "meaning": "Eye, Class, Look"
+      },
+      {
+        "kanji": "印",
+        "onyomi": "イン",
+        "kunyomi": "しるし・-じるし・しるす",
+        "meaning": "Stamp, Seal, Mark"
+      }
+    ],
     "similar": [
       {
-        "term": "目印",
-        "reading": "めじるし",
-        "meaning": "mark; sign"
+        "term": "お目に掛",
+        "reading": "おめにかかる",
+        "meaning": ""
       },
       {
-        "term": "合図",
-        "reading": "あいず",
-        "meaning": "sign; signal"
+        "term": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "meet ~, see ~"
       },
       {
-        "term": "目的",
-        "reading": "もくてき",
-        "meaning": "purpose; goal"
+        "term": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice; attention"
       },
       {
-        "term": "道順",
-        "reading": "みちじゅん",
-        "meaning": "itinerary; route"
+        "term": "印刷",
+        "reading": "いんさつ",
+        "meaning": "printing"
+      },
+      {
+        "term": "印象",
+        "reading": "いんしょう",
+        "meaning": "impression"
       }
     ]
   },
@@ -30429,27 +38309,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "来るのではあるまいか",
     "meaning_en": "Small earthquakes continue to occur. | wonder if the big one will be coming soon.",
-    "explanation": "正解は「来るのではあるまいか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "来",
+        "onyomi": "ライ・タイ",
+        "kunyomi": "くる・きたる・きたす・きたす・きたる・き・こ",
+        "meaning": "Come, Due, Next"
+      }
+    ],
     "similar": [
       {
-        "term": "来るのではあるまいか",
-        "reading": "くるのではあるまいか",
-        "meaning": ""
+        "term": "さ来年",
+        "reading": "さらいねん",
+        "meaning": "year after next"
       },
       {
-        "term": "来るに決まらない",
-        "reading": "くるにきまらない",
-        "meaning": ""
+        "term": "来る",
+        "reading": "くる",
+        "meaning": "to come"
       },
       {
-        "term": "来るに決まってない",
-        "reading": "くるにきまってない",
-        "meaning": ""
-      },
-      {
-        "term": "来るのではあるまい",
-        "reading": "くるのではあるまい",
-        "meaning": ""
+        "term": "来年",
+        "reading": "らいねん",
+        "meaning": "next year"
       }
     ]
   },
@@ -30475,27 +38358,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "きざんで",
     "meaning_en": "Please enjoy it with sliced boiled egg mixed with mayonnaise or ham sandwiched",
-    "explanation": "正解は「きざんで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "刻",
+        "onyomi": "コク",
+        "kunyomi": "きざむ・きざみ",
+        "meaning": "Engrave, Cut Fine, Chop"
+      }
+    ],
     "similar": [
       {
-        "term": "刻んで",
-        "reading": "きざんで",
-        "meaning": ""
+        "term": "時刻",
+        "reading": "じこく",
+        "meaning": "instant; time"
       },
       {
-        "term": "かこんで",
-        "reading": "かこんで",
-        "meaning": ""
+        "term": "深刻",
+        "reading": "しんこく",
+        "meaning": "serious"
       },
       {
-        "term": "きざんで",
-        "reading": "きざんで",
-        "meaning": ""
-      },
-      {
-        "term": "つつんで",
-        "reading": "つつんで",
-        "meaning": ""
+        "term": "遅刻",
+        "reading": "ちこく",
+        "meaning": "lateness; late coming"
       }
     ]
   },
@@ -30521,27 +38407,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "切れて",
     "meaning_en": "I made so many copies that l ran out of paper.",
-    "explanation": "正解は「切れて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "切",
+        "onyomi": "セツ・サイ",
+        "kunyomi": "きる・-きる・きり・-きり・-ぎり・きれる・-きれる・きれ・-きれ・-ぎれ",
+        "meaning": "Cut, Cutoff, Be Sharp"
+      }
+    ],
     "similar": [
       {
-        "term": "切れて",
-        "reading": "きれて",
-        "meaning": ""
+        "term": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
       },
       {
-        "term": "済んで",
-        "reading": "すんで",
-        "meaning": ""
+        "term": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
       },
       {
-        "term": "破れて",
-        "reading": "やぶれて",
-        "meaning": ""
-      },
-      {
-        "term": "抜けて",
-        "reading": "ぬけて",
-        "meaning": ""
+        "term": "切符",
+        "reading": "きっぷ",
+        "meaning": "ticket"
       }
     ]
   },
@@ -30567,17 +38456,40 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "降ろうが降るまいが",
     "meaning_en": "Whether it snows or not, I still have to go.",
-    "explanation": "正解は「降ろうが降るまいが」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "降",
+        "onyomi": "コウ・ゴ",
+        "kunyomi": "おりる・おろす・ふる・ふり・くだる・くだす",
+        "meaning": "Descend, Precipitate, Fall"
+      }
+    ],
     "similar": [
       {
-        "term": "降ろうが降るまいが",
-        "reading": "ふろうがふるまいが",
-        "meaning": ""
+        "term": "降りる",
+        "reading": "おりる",
+        "meaning": "to get off; to descend"
       },
       {
-        "term": "降ろうか降るまいか",
-        "reading": "ふろうかふるまいか",
-        "meaning": ""
+        "term": "降る",
+        "reading": "ふる",
+        "meaning": "to fall; e.g. rain or snow"
+      },
+      {
+        "term": "降り出す",
+        "reading": "ふりだす",
+        "meaning": "to start to rain"
+      },
+      {
+        "term": "降ろす",
+        "reading": "おろす",
+        "meaning": "to take down; to launch"
+      },
+      {
+        "term": "下降",
+        "reading": "かこう",
+        "meaning": "downward; descent"
       }
     ]
   },
@@ -30603,27 +38515,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かかえ",
     "meaning_en": "armful; employee",
-    "explanation": "正解は「かかえ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "抱",
+        "onyomi": "ホウ",
+        "kunyomi": "だく・いだく・かかえる",
+        "meaning": "Embrace, Hug, Hold In Arms"
+      }
+    ],
     "similar": [
       {
-        "term": "抱え",
-        "reading": "かかえ",
-        "meaning": "armful; employee"
+        "term": "抱える",
+        "reading": "かかえる",
+        "meaning": "to hold or carry under or in the arms"
       },
       {
-        "term": "かかえ",
-        "reading": "かかえ",
-        "meaning": ""
+        "term": "抱く",
+        "reading": "いだく",
+        "meaning": "(sl) to embrace; to hug"
       },
       {
-        "term": "ささえ",
-        "reading": "ささえ",
-        "meaning": ""
-      },
-      {
-        "term": "たたえ",
-        "reading": "たたえ",
-        "meaning": ""
+        "term": "介抱",
+        "reading": "かいほう",
+        "meaning": "nursing; looking after"
       }
     ]
   },
@@ -30649,27 +38564,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "年間",
     "meaning_en": "This is a graph of the annual gasoline consumption.",
-    "explanation": "正解は「年間」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "年",
+        "onyomi": "ネン",
+        "kunyomi": "とし",
+        "meaning": "Year, Counter For Years"
+      },
+      {
+        "kanji": "間",
+        "onyomi": "カン・ケン",
+        "kunyomi": "あいだ・ま・あい",
+        "meaning": "Interval, Space"
+      }
+    ],
     "similar": [
       {
-        "term": "年間",
-        "reading": "ねんかん",
-        "meaning": "year"
+        "term": "さ来年",
+        "reading": "さらいねん",
+        "meaning": "year after next"
       },
       {
-        "term": "年度",
-        "reading": "ねんど",
-        "meaning": "year; fiscal year"
+        "term": "一昨年",
+        "reading": "おととし",
+        "meaning": "year before last"
       },
       {
-        "term": "年月",
-        "reading": "としつき",
-        "meaning": "months and years"
+        "term": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "fountain pen"
       },
       {
-        "term": "年代",
-        "reading": "ねんだい",
-        "meaning": "age; era"
+        "term": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "term": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime; during the day"
       }
     ]
   },
@@ -30695,13 +38629,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "のところ",
     "meaning_en": "Excuse me for interrupting your meal.",
-    "explanation": "正解は「のところ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のところ",
-        "reading": "のところ",
-        "meaning": ""
-      },
       {
         "term": "のあげく",
         "reading": "のあげく",
@@ -30741,27 +38671,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "天才",
     "meaning_en": "This movie tells the tale of a Nobel Prize-winning genius mathematician's glory",
-    "explanation": "正解は「天才」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "天",
+        "onyomi": "テン",
+        "kunyomi": "あまつ・あめ・あま-",
+        "meaning": "Heavens, Sky, Imperial"
+      },
+      {
+        "kanji": "才",
+        "onyomi": "サイ",
+        "kunyomi": "-",
+        "meaning": "Genius, Years Old, Cubic Shaku"
+      }
+    ],
     "similar": [
       {
-        "term": "天才",
-        "reading": "てんさい",
-        "meaning": "genius; prodigy"
+        "term": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
       },
       {
-        "term": "点才",
-        "reading": "てんさい",
-        "meaning": ""
+        "term": "天気予報",
+        "reading": "てんきよほう",
+        "meaning": "weather forecast"
       },
       {
-        "term": "展才",
-        "reading": "てんさい",
-        "meaning": ""
+        "term": "天候",
+        "reading": "てんこう",
+        "meaning": "weather"
       },
       {
-        "term": "転才",
-        "reading": "てんさい",
-        "meaning": ""
+        "term": "才能",
+        "reading": "さいのう",
+        "meaning": "talent; ability"
+      },
+      {
+        "term": "多才",
+        "reading": "たさい",
+        "meaning": "talented"
       }
     ]
   },
@@ -30787,13 +38736,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "マスコミ",
     "meaning_en": "The incident received a lot of media coverage.",
-    "explanation": "正解は「マスコミ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "マスコミ",
-        "reading": "マスコミ",
-        "meaning": "mass communication"
-      },
       {
         "term": "ジャンル",
         "reading": "ジャンル",
@@ -30833,13 +38778,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "にかかわらず",
     "meaning_en": "Part-time worker wanted. Experience not necessary.",
-    "explanation": "正解は「にかかわらず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にかかわらず",
-        "reading": "にかかわらず",
-        "meaning": ""
-      },
       {
         "term": "いかんでは",
         "reading": "いかんでは",
@@ -30879,27 +38820,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あばれ",
     "meaning_en": "The man got drunk and lashed out, screaming that he would kill his friend.",
-    "explanation": "正解は「あばれ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "暴",
+        "onyomi": "ボウ・バク",
+        "kunyomi": "あばく・あばれる",
+        "meaning": "Outburst, Rave, Fret"
+      }
+    ],
     "similar": [
       {
-        "term": "暴れ",
-        "reading": "あばれ",
-        "meaning": ""
+        "term": "乱暴",
+        "reading": "らんぼう",
+        "meaning": "rude; violent"
       },
       {
-        "term": "あばれ",
-        "reading": "あばれ",
-        "meaning": ""
+        "term": "暴れる",
+        "reading": "あばれる",
+        "meaning": "to act violently; to rage"
       },
       {
-        "term": "あわれ",
-        "reading": "",
-        "meaning": "哀れ[an|n]pitiful"
-      },
-      {
-        "term": "あらわれ",
-        "reading": "あらわれ",
-        "meaning": ""
+        "term": "暴力",
+        "reading": "ぼうりょく",
+        "meaning": "violence"
       }
     ]
   },
@@ -30925,27 +38869,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ふさわしい",
     "meaning_en": "He would be a suitable person to be prime minister.",
-    "explanation": "正解は「ふさわしい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "相",
+        "onyomi": "ソウ・ショウ",
+        "kunyomi": "あい-",
+        "meaning": "Inter-, Mutual, Together"
+      },
+      {
+        "kanji": "応",
+        "onyomi": "オウ・ヨウ・-ノウ",
+        "kunyomi": "あたる・まさに・こたえる",
+        "meaning": "Apply, Answer, Yes"
+      }
+    ],
     "similar": [
       {
-        "term": "ふさわしい",
-        "reading": "",
-        "meaning": "appropriate"
+        "term": "相談",
+        "reading": "そうだんする",
+        "meaning": "to discuss"
       },
       {
-        "term": "やかましい",
-        "reading": "",
-        "meaning": "(1) noisy; (2) strict"
+        "term": "相当",
+        "reading": "そうとう",
+        "meaning": "suitable; fair"
       },
       {
-        "term": "たのもしい",
-        "reading": "",
-        "meaning": "頼もしい[a]reliable"
+        "term": "相手",
+        "reading": "あいて",
+        "meaning": "companion; partner"
       },
       {
-        "term": "ひとしい",
-        "reading": "",
-        "meaning": "等しい[a]equal"
+        "term": "応じる",
+        "reading": "おうじる",
+        "meaning": "to respond; to satisfy"
+      },
+      {
+        "term": "一応",
+        "reading": "いちおう",
+        "meaning": "once; tentatively"
       }
     ]
   },
@@ -30971,13 +38934,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にかかわるものだ",
     "meaning_en": "The minister's remark was criticized for putting a stain on the party's reputation.",
-    "explanation": "正解は「にかかわるものだ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "にかかわるものだ",
-        "reading": "にかかわるものだ",
-        "meaning": ""
-      },
       {
         "term": "ではあるまいし",
         "reading": "ではあるまいし",
@@ -31017,27 +38976,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "地域",
     "meaning_en": "Let's be proactive about participating in local activities.",
-    "explanation": "正解は「地域」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      },
+      {
+        "kanji": "域",
+        "onyomi": "イキ",
+        "kunyomi": "-",
+        "meaning": "Range, Region, Limits"
+      }
+    ],
     "similar": [
       {
-        "term": "地域",
-        "reading": "ちいき",
-        "meaning": "area; region"
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       },
       {
-        "term": "地城",
-        "reading": "ちしろ",
-        "meaning": ""
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       },
       {
-        "term": "知職",
-        "reading": "ちしょく",
-        "meaning": ""
+        "term": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
       },
       {
-        "term": "知識",
-        "reading": "ちしき",
-        "meaning": "knowledge; information"
+        "term": "区域",
+        "reading": "くいき",
+        "meaning": "limits; boundary"
+      },
+      {
+        "term": "流域",
+        "reading": "りゅういき",
+        "meaning": "(river) basin"
       }
     ]
   },
@@ -31063,13 +39041,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぼうっと",
     "meaning_en": "vaguely",
-    "explanation": "正解は「ぼうっと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぼうっと",
-        "reading": "",
-        "meaning": "vaguely"
-      },
       {
         "term": "しいんと",
         "reading": "",
@@ -31109,27 +39083,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "集まるまい",
     "meaning_en": "| was not expecting so many people but, despite the weather, the hall was filed.",
-    "explanation": "正解は「集まるまい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "集",
+        "onyomi": "シュウ",
+        "kunyomi": "あつまる・あつめる・つどう",
+        "meaning": "Gather, Meet, Congregate"
+      }
+    ],
     "similar": [
       {
-        "term": "集まるまい",
-        "reading": "あつまるまい",
-        "meaning": ""
+        "term": "集める",
+        "reading": "あつめる",
+        "meaning": "to collect something"
       },
       {
-        "term": "集まった",
-        "reading": "あつまった",
-        "meaning": ""
+        "term": "集る",
+        "reading": "あつまる",
+        "meaning": "to gather"
       },
       {
-        "term": "集まろう",
-        "reading": "あつまろう",
-        "meaning": ""
-      },
-      {
-        "term": "集まりつつ",
-        "reading": "あつまりつつ",
-        "meaning": ""
+        "term": "集まり",
+        "reading": "あつまり",
+        "meaning": "gathering; meeting"
       }
     ]
   },
@@ -31155,27 +39132,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "こうすい",
     "meaning_en": "There are three types of water: soft water, hard water, and carbonated water.",
-    "explanation": "正解は「こうすい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "硬",
+        "onyomi": "コウ",
+        "kunyomi": "かたい",
+        "meaning": "Stiff, Hard"
+      },
+      {
+        "kanji": "水",
+        "onyomi": "スイ",
+        "kunyomi": "みず・みず-",
+        "meaning": "Water"
+      }
+    ],
     "similar": [
       {
-        "term": "硬水",
-        "reading": "こうすい",
-        "meaning": ""
+        "term": "堅/硬/固い",
+        "reading": "かたい",
+        "meaning": "hard"
       },
       {
-        "term": "かっすい",
-        "reading": "",
-        "meaning": "渇水[n|vs]shortage of water"
+        "term": "硬い",
+        "reading": "かたい",
+        "meaning": "solid; hard (esp. metal"
       },
       {
-        "term": "こうずい",
-        "reading": "",
-        "meaning": "洪水[n]flood"
+        "term": "硬貨",
+        "reading": "こうか",
+        "meaning": "coin"
       },
       {
-        "term": "ぎょうずい",
-        "reading": "",
-        "meaning": "行水[n|vs]ablution"
+        "term": "水曜日",
+        "reading": "すいようび",
+        "meaning": "Wednesday"
+      },
+      {
+        "term": "水泳",
+        "reading": "すいえい",
+        "meaning": "swimming"
       }
     ]
   },
@@ -31201,27 +39197,41 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にきび",
     "meaning_en": "|was concerned about my child blinking so many times, so I took him to the eye",
-    "explanation": "正解は「にきび」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "面",
+        "onyomi": "メン・ベン",
+        "kunyomi": "おも・おもて・つら",
+        "meaning": "Mask, Face, Features"
+      },
+      {
+        "kanji": "皰",
+        "onyomi": "ホウ・ビョウ",
+        "kunyomi": "にきび",
+        "meaning": "Pimple"
+      }
+    ],
     "similar": [
       {
-        "term": "にきび",
-        "reading": "",
-        "meaning": "pimple, acne"
+        "term": "場面",
+        "reading": "ばめん",
+        "meaning": "scene; setting (e.g. of novel)"
       },
       {
-        "term": "あざ",
-        "reading": "",
-        "meaning": "birthmark, bruise"
+        "term": "真面目",
+        "reading": "まじめ",
+        "meaning": "diligent; serious"
       },
       {
-        "term": "まばたき",
-        "reading": "まばたき",
-        "meaning": ""
+        "term": "表面",
+        "reading": "ひょうめん",
+        "meaning": "surface; outside"
       },
       {
-        "term": "しみ",
-        "reading": "",
-        "meaning": "紙魚[n]bristletail"
+        "term": "面皰",
+        "reading": "にきび",
+        "meaning": "pimple; acne"
       }
     ]
   },
@@ -31247,13 +39257,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "のみならず",
     "meaning_en": "He is not only hard on other people, he is hard on himself.",
-    "explanation": "正解は「のみならず」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "のみならず",
-        "reading": "",
-        "meaning": "not only,furthermore"
-      },
       {
         "term": "ばかりに",
         "reading": "",
@@ -31293,12 +39299,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "湾",
     "meaning_en": "A gigantic fish was discovered in Tokyo Bay.",
-    "explanation": "正解は「湾」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "湾",
+        "onyomi": "ワン",
+        "kunyomi": "いりえ",
+        "meaning": "Gulf, Bay, Inlet"
+      }
+    ],
     "similar": [
       {
-        "term": "湾",
-        "reading": "わん",
-        "meaning": "bay; gulf"
+        "term": "メキシコ湾",
+        "reading": "メキシコわん",
+        "meaning": "Gulf of Mexico"
+      },
+      {
+        "term": "台湾",
+        "reading": "たいわん",
+        "meaning": "Taiwan"
+      },
+      {
+        "term": "港湾",
+        "reading": "こうわん",
+        "meaning": "harbour; harbor"
       }
     ]
   },
@@ -31324,13 +39348,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "かびて",
     "meaning_en": "Because I left my leather jacket in the closet for so long, it was covered in mold.",
-    "explanation": "正解は「かびて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かびて",
-        "reading": "かびて",
-        "meaning": ""
-      },
       {
         "term": "さびて",
         "reading": "さびて",
@@ -31370,12 +39390,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "向かい",
     "meaning_en": "Ihave recently just been sitting at my desk. I should get some exercise.",
-    "explanation": "正解は「向かい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "向",
+        "onyomi": "コウ",
+        "kunyomi": "むく・むい・-むき・むける・-むけ・むかう・むかい・むこう・むこう-・むこ・むかい",
+        "meaning": "Yonder, Facing, Beyond"
+      }
+    ],
     "similar": [
       {
-        "term": "向かい",
-        "reading": "むかい",
-        "meaning": "facing; opposite"
+        "term": "向こう",
+        "reading": "むこう",
+        "meaning": "over there"
       },
       {
         "term": "向かう",
@@ -31383,14 +39411,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to face"
       },
       {
-        "term": "向かわ",
-        "reading": "むかわ",
-        "meaning": ""
-      },
-      {
-        "term": "向かえ",
-        "reading": "むかえ",
-        "meaning": ""
+        "term": "傾向",
+        "reading": "けいこう",
+        "meaning": "tendency; trend"
       }
     ]
   },
@@ -31416,27 +39439,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "国境",
     "meaning_en": "In the theory of peace, there are no borders to divide countries.",
-    "explanation": "正解は「国境」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "国",
+        "onyomi": "コク",
+        "kunyomi": "くに",
+        "meaning": "Country"
+      },
+      {
+        "kanji": "境",
+        "onyomi": "キョウ・ケイ",
+        "kunyomi": "さかい",
+        "meaning": "Boundary, Border, Region"
+      }
+    ],
     "similar": [
       {
-        "term": "国境",
-        "reading": "こっきょう",
-        "meaning": "national or state border"
+        "term": "外国",
+        "reading": "がいこく",
+        "meaning": "foreign country"
       },
       {
-        "term": "国共",
-        "reading": "こっきょう",
-        "meaning": ""
+        "term": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
       },
       {
-        "term": "国況",
-        "reading": "くにきょう",
-        "meaning": ""
+        "term": "国際",
+        "reading": "こくさい",
+        "meaning": "international"
       },
       {
-        "term": "国橋",
-        "reading": "くにはし",
-        "meaning": ""
+        "term": "環境",
+        "reading": "かんきょう",
+        "meaning": "environment; circumstance"
+      },
+      {
+        "term": "境界",
+        "reading": "きょうかい",
+        "meaning": "boundary"
       }
     ]
   },
@@ -31462,27 +39504,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "おでこ",
     "meaning_en": "They have a sheet that goes on the forehead to help reduce a fever.",
-    "explanation": "正解は「おでこ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "凸",
+        "onyomi": "トツ",
+        "kunyomi": "でこ",
+        "meaning": "Convex, Beetle Brow, Uneven"
+      }
+    ],
     "similar": [
       {
-        "term": "おでこ",
-        "reading": "",
-        "meaning": "forehead"
+        "term": "凸凹",
+        "reading": "でこぼこ",
+        "meaning": "unevenness; roughness"
       },
       {
-        "term": "あご",
-        "reading": "",
-        "meaning": "顎[n]chin"
+        "term": "お凸",
+        "reading": "おでこ",
+        "meaning": "brow; forehead"
       },
       {
-        "term": "かかと",
-        "reading": "",
-        "meaning": "shoe heel"
-      },
-      {
-        "term": "まゆげ",
-        "reading": "",
-        "meaning": "眉毛[n]eyebrow"
+        "term": "凸版",
+        "reading": "とっぱん",
+        "meaning": "letterpress; relief printing"
       }
     ]
   },
@@ -31508,13 +39553,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "なり／なり",
     "meaning_en": "When you have a problem, you should discuss it with your teacher or parents.",
-    "explanation": "正解は「なり／なり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "なり／なり",
-        "reading": "なり／なり",
-        "meaning": ""
-      },
       {
         "term": "たり／たり",
         "reading": "たり／たり",
@@ -31554,27 +39595,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "はな",
     "meaning_en": "We townsfolk are proud to have such young people with promising futures like",
-    "explanation": "正解は「はな」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "鼻",
+        "onyomi": "ビ",
+        "kunyomi": "はな",
+        "meaning": "Nose, Snout"
+      }
+    ],
     "similar": [
       {
-        "term": "鼻",
-        "reading": "はな",
-        "meaning": "nose"
+        "term": "耳鼻科",
+        "reading": "じびか",
+        "meaning": "otolaryngology"
       },
       {
-        "term": "みみ",
-        "reading": "",
-        "meaning": "耳[n]ear"
+        "term": "鼻先",
+        "reading": "はなさき",
+        "meaning": "tip of nose; before one's eyes"
       },
       {
-        "term": "くび",
-        "reading": "",
-        "meaning": "首[n]neck"
-      },
-      {
-        "term": "まゆ",
-        "reading": "",
-        "meaning": "眉[n]eyebrow"
+        "term": "鼻息",
+        "reading": "はないき",
+        "meaning": "nasal breathing; breathing through one's nose"
       }
     ]
   },
@@ -31600,27 +39644,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "もどす",
     "meaning_en": "It will take some time for the wound to close.",
-    "explanation": "正解は「もどす」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "戻",
+        "onyomi": "レイ",
+        "kunyomi": "もどす・もどる",
+        "meaning": "Re-, Return, Revert"
+      }
+    ],
     "similar": [
       {
-        "term": "もどす",
-        "reading": "",
-        "meaning": "戻す[vg]to turn back"
+        "term": "戻る",
+        "reading": "もどる",
+        "meaning": "to turn back"
       },
       {
-        "term": "まとまる",
-        "reading": "",
-        "meaning": "to be collected, to be settled, to be in order"
+        "term": "戻す",
+        "reading": "もどす",
+        "meaning": "to restore; to put back"
       },
       {
-        "term": "ふさがる",
-        "reading": "",
-        "meaning": "塞がる[vg]to be blocked"
-      },
-      {
-        "term": "はがす",
-        "reading": "",
-        "meaning": "剥がす[vg]peel off"
+        "term": "払い戻す",
+        "reading": "はらいもどす",
+        "meaning": "to repay; to pay back"
       }
     ]
   },
@@ -31646,27 +39693,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "会う",
     "meaning_en": "As soon as we met, she started complaining.",
-    "explanation": "正解は「会う」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "会",
+        "onyomi": "カイ・エ",
+        "kunyomi": "あう・あわせる・あつまる",
+        "meaning": "Meeting, Meet, Party"
+      }
+    ],
     "similar": [
       {
-        "term": "会う",
-        "reading": "あう",
-        "meaning": "to meet"
+        "term": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company"
       },
       {
-        "term": "会い",
-        "reading": "あい",
-        "meaning": ""
+        "term": "会場",
+        "reading": "かいじょう",
+        "meaning": "assembly hall or meeting place"
       },
       {
-        "term": "会った",
-        "reading": "あった",
-        "meaning": ""
-      },
-      {
-        "term": "会って",
-        "reading": "あって",
-        "meaning": ""
+        "term": "会話",
+        "reading": "かいわ",
+        "meaning": "conversation"
       }
     ]
   },
@@ -31692,27 +39742,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "略して",
     "meaning_en": "That political party's name is long, so we refer to them using an abbreviated name.",
-    "explanation": "正解は「略して」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "略",
+        "onyomi": "リャク",
+        "kunyomi": "ほぼ・はぶく・おかす・おさめる・はかりごと・はかる",
+        "meaning": "Abbreviation, Omission, Outline"
+      }
+    ],
     "similar": [
       {
-        "term": "略して",
-        "reading": "りゃくして",
-        "meaning": ""
+        "term": "略す",
+        "reading": "りゃくす",
+        "meaning": "to abbreviate"
       },
       {
-        "term": "逆して",
-        "reading": "さかして",
-        "meaning": ""
+        "term": "省略",
+        "reading": "しょうりゃく",
+        "meaning": "omission; abbreviation"
       },
       {
-        "term": "圧して",
-        "reading": "おして",
-        "meaning": ""
-      },
-      {
-        "term": "短して",
-        "reading": "みじかして",
-        "meaning": ""
+        "term": "侵略",
+        "reading": "しんりゃく",
+        "meaning": "aggression; invasion"
       }
     ]
   },
@@ -31738,27 +39791,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あて",
     "meaning_en": "Please use this e-mail address for mail addressed to this facility.",
-    "explanation": "正解は「あて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "宛",
+        "onyomi": "エン",
+        "kunyomi": "あてる・-あて・-づつ・あたかも",
+        "meaning": "Address, Just Like, Fortunately"
+      }
+    ],
     "similar": [
       {
-        "term": "あて",
-        "reading": "",
-        "meaning": "当て[n]aim"
+        "term": "宛名",
+        "reading": "あてな",
+        "meaning": "address; direction"
       },
       {
-        "term": "いき",
-        "reading": "",
-        "meaning": "閾[n]threshold"
+        "term": "宛てる",
+        "reading": "あてる",
+        "meaning": "to address"
       },
       {
-        "term": "より",
-        "reading": "より",
-        "meaning": "twist; ply"
-      },
-      {
-        "term": "だし",
-        "reading": "",
-        "meaning": "山車[n]parade float"
+        "term": "宛先",
+        "reading": "あてさき",
+        "meaning": "address; destination"
       }
     ]
   },
@@ -31784,27 +39840,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かぎり",
     "meaning_en": "You are taking time off work to go on a holiday abroad? l am so envious.",
-    "explanation": "正解は「かぎり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "限",
+        "onyomi": "ゲン",
+        "kunyomi": "かぎる・かぎり・-かぎり",
+        "meaning": "Limit, Restrict, To Best Of Ability"
+      }
+    ],
     "similar": [
       {
-        "term": "かぎり",
-        "reading": "",
-        "meaning": "限り[n]limit"
+        "term": "制限",
+        "reading": "せいげん",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "わけ",
-        "reading": "",
-        "meaning": "訳[n]①meaning②reason"
+        "term": "限る",
+        "reading": "かぎる",
+        "meaning": "to restrict; to limit"
       },
       {
-        "term": "あまり",
-        "reading": "",
-        "meaning": "not very"
-      },
-      {
-        "term": "一方",
-        "reading": "いっぽう",
-        "meaning": "(1) on the other hand; (2) meanwhile"
+        "term": "限界",
+        "reading": "げんかい",
+        "meaning": "limit; bound"
       }
     ]
   },
@@ -31830,27 +39889,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "よろこんで",
     "meaning_en": "Thank you for the invitation. | will be happy to attend. | would like to ask about the",
-    "explanation": "正解は「よろこんで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "喜",
+        "onyomi": "キ",
+        "kunyomi": "よろこぶ・よろこばす",
+        "meaning": "Rejoice, Take Pleasure In"
+      }
+    ],
     "similar": [
       {
-        "term": "喜んで",
-        "reading": "よろこんで",
-        "meaning": "with pleasure; gladly"
+        "term": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning": "to be delighted"
       },
       {
-        "term": "つつしんで",
-        "reading": "",
-        "meaning": "謹んで[ad]respectfully"
+        "term": "喜び",
+        "reading": "よろこび",
+        "meaning": "(a) joy; (a) delight"
       },
       {
-        "term": "すすんで",
-        "reading": "",
-        "meaning": "進んで[ad]voluntarily"
-      },
-      {
-        "term": "よろこんで",
-        "reading": "よろこんで",
-        "meaning": ""
+        "term": "喜劇",
+        "reading": "きげき",
+        "meaning": "comedy; funny show"
       }
     ]
   },
@@ -31876,13 +39938,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ずれて",
     "meaning_en": "The sunglasses | recently bought do not seem to fit the shape of my nose and slip",
-    "explanation": "正解は「ずれて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ずれて",
-        "reading": "ずれて",
-        "meaning": ""
-      },
       {
         "term": "ゆがんで",
         "reading": "ゆがんで",
@@ -31922,27 +39980,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かぎり",
     "meaning_en": "That poet did not live a long life, but he made the best of it.",
-    "explanation": "正解は「かぎり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "限",
+        "onyomi": "ゲン",
+        "kunyomi": "かぎる・かぎり・-かぎり",
+        "meaning": "Limit, Restrict, To Best Of Ability"
+      }
+    ],
     "similar": [
       {
-        "term": "かぎり",
-        "reading": "",
-        "meaning": "限り[n]limit"
+        "term": "制限",
+        "reading": "せいげん",
+        "meaning": "restriction; restraint"
       },
       {
-        "term": "たりとも",
-        "reading": "たりとも",
-        "meaning": ""
+        "term": "限る",
+        "reading": "かぎる",
+        "meaning": "to restrict; to limit"
       },
       {
-        "term": "ごとく",
-        "reading": "ごとく",
-        "meaning": ""
-      },
-      {
-        "term": "いたるまで",
-        "reading": "いたるまで",
-        "meaning": ""
+        "term": "限界",
+        "reading": "げんかい",
+        "meaning": "limit; bound"
       }
     ]
   },
@@ -31968,27 +40029,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "けんり",
     "meaning_en": "The right to education is a basic human right of citizens received from the government.",
-    "explanation": "正解は「けんり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "権",
+        "onyomi": "ケン・ゴン",
+        "kunyomi": "おもり・かり・はかる",
+        "meaning": "Authority, Power, Rights"
+      },
+      {
+        "kanji": "利",
+        "onyomi": "リ",
+        "kunyomi": "きく",
+        "meaning": "Profit, Advantage, Benefit"
+      }
+    ],
     "similar": [
       {
-        "term": "権利",
-        "reading": "けんり",
-        "meaning": "right; privilege"
+        "term": "主権",
+        "reading": "しゅけん",
+        "meaning": "sovereignty; supremacy"
       },
       {
-        "term": "かんり",
-        "reading": "",
-        "meaning": "監理[n|vs]superintend"
+        "term": "政権",
+        "reading": "せいけん",
+        "meaning": "administration; political power"
       },
       {
-        "term": "けんり",
-        "reading": "",
-        "meaning": "権利[n]right"
+        "term": "棄権",
+        "reading": "きけん",
+        "meaning": "abstain from voting; renunciation of a right"
       },
       {
-        "term": "こんり",
-        "reading": "こんり",
-        "meaning": ""
+        "term": "便利",
+        "reading": "べんり",
+        "meaning": "useful; convenient"
+      },
+      {
+        "term": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
       }
     ]
   },
@@ -32014,13 +40094,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "いっそ",
     "meaning_en": "I think you might as well throw away the stuff you will never use.",
-    "explanation": "正解は「いっそ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "いっそ",
-        "reading": "いっそ",
-        "meaning": "rather; sooner"
-      },
       {
         "term": "いまさら",
         "reading": "",
@@ -32060,13 +40136,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "であって",
     "meaning_en": "You can only work, study, and get exercise when you are healthy.",
-    "explanation": "正解は「であって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "であって",
-        "reading": "であって",
-        "meaning": ""
-      },
       {
         "term": "であると",
         "reading": "であると",
@@ -32106,27 +40178,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "一粒",
     "meaning_en": "My stomachache stopped once | took one of these pills.",
-    "explanation": "正解は「一粒」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "一",
+        "onyomi": "イチ・イツ",
+        "kunyomi": "ひと-・ひとつ",
+        "meaning": "One, One Radical (no.1)"
+      },
+      {
+        "kanji": "粒",
+        "onyomi": "リュウ",
+        "kunyomi": "つぶ",
+        "meaning": "Grains, Drop, Counter For Tiny Particles"
+      }
+    ],
     "similar": [
       {
-        "term": "一粒",
-        "reading": "ひとつぶ",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
       },
       {
-        "term": "一袋",
-        "reading": "ひとふくろ",
-        "meaning": ""
+        "term": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one"
       },
       {
-        "term": "一位",
-        "reading": "いちい",
-        "meaning": "first place; first rank"
+        "term": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
       },
       {
-        "term": "一服",
-        "reading": "いっぷく",
-        "meaning": ""
+        "term": "大粒",
+        "reading": "おおつぶ",
+        "meaning": "large drop (of rain, sweat, tears, etc.); large grain-like object (e.g. grape, cherry)"
+      },
+      {
+        "term": "米粒",
+        "reading": "こめつぶ",
+        "meaning": "grain of rice"
       }
     ]
   },
@@ -32152,27 +40243,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "入れれば",
     "meaning_en": "This house is 50 years old but, with a little fixing-up, it would be livable.",
-    "explanation": "正解は「入れれば」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "入れれば",
-        "reading": "いれれば",
-        "meaning": ""
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
       },
       {
-        "term": "貸せば",
-        "reading": "かせば",
-        "meaning": ""
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       },
       {
-        "term": "抜けば",
-        "reading": "ぬけば",
-        "meaning": ""
-      },
-      {
-        "term": "つければ",
-        "reading": "つければ",
-        "meaning": ""
+        "term": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
       }
     ]
   },
@@ -32198,27 +40292,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "お越しの折には",
     "meaning_en": "Please come by the next time you come to Tokyo.",
-    "explanation": "正解は「お越しの折には」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "越",
+        "onyomi": "エツ・オツ",
+        "kunyomi": "こす・-こす・-ごし・こえる・-ごえ",
+        "meaning": "Surpass, Cross Over, Move To"
+      },
+      {
+        "kanji": "折",
+        "onyomi": "セツ・シャク",
+        "kunyomi": "おる・おり・おり・-おり・おれる",
+        "meaning": "Fold, Break, Fracture"
+      }
+    ],
     "similar": [
       {
-        "term": "お越しの折には",
-        "reading": "おこしのおりには",
-        "meaning": ""
+        "term": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "to move house"
       },
       {
-        "term": "お越しの上",
-        "reading": "おこしのうえ",
-        "meaning": ""
+        "term": "越える",
+        "reading": "こえる",
+        "meaning": "to exceed; to cross over"
       },
       {
-        "term": "お越しの際で",
-        "reading": "おこしのきわで",
-        "meaning": ""
+        "term": "越す",
+        "reading": "こす",
+        "meaning": "to go over (e.g. with audience)"
       },
       {
-        "term": "お越しの中を",
-        "reading": "おこしのなかを",
-        "meaning": ""
+        "term": "折る",
+        "reading": "おる",
+        "meaning": "to break or to fold"
+      },
+      {
+        "term": "折れる",
+        "reading": "おれる",
+        "meaning": "to break or be folded"
       }
     ]
   },
@@ -32244,27 +40357,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "そん",
     "meaning_en": "loss; disadvantage",
-    "explanation": "正解は「そん」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "損",
+        "onyomi": "ソン",
+        "kunyomi": "そこなう・そこなう・-そこなう・そこねる・-そこねる",
+        "meaning": "Damage, Loss, Disadvantage"
+      }
+    ],
     "similar": [
       {
-        "term": "損",
-        "reading": "そん",
-        "meaning": "loss; disadvantage"
+        "term": "損害",
+        "reading": "そんがい",
+        "meaning": "damage; injury"
       },
       {
-        "term": "そん",
-        "reading": "",
-        "meaning": "損[n]loss"
+        "term": "損得",
+        "reading": "そんとく",
+        "meaning": "loss and gain; advantage and disadvantage"
       },
       {
-        "term": "いん",
-        "reading": "",
-        "meaning": "陰[n]moon"
-      },
-      {
-        "term": "けん",
-        "reading": "",
-        "meaning": "腱[n]tendon"
+        "term": "損う",
+        "reading": "そこなう",
+        "meaning": "to harm, to hurt"
       }
     ]
   },
@@ -32290,27 +40406,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "うっとうしい",
     "meaning_en": "The weather is gloomy these days, what with it raining on and off.",
-    "explanation": "正解は「うっとうしい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "鬱",
+        "onyomi": "ウツ",
+        "kunyomi": "うっする・ふさぐ・しげる",
+        "meaning": "Gloom, Depression, Melancholy"
+      },
+      {
+        "kanji": "陶",
+        "onyomi": "トウ",
+        "kunyomi": "すえ",
+        "meaning": "Pottery, Porcelain"
+      }
+    ],
     "similar": [
       {
-        "term": "うっとうしい",
-        "reading": "",
-        "meaning": "weary, annoying"
+        "term": "憂鬱",
+        "reading": "ゆううつ",
+        "meaning": "depression; melancholy"
       },
       {
-        "term": "おだやかな",
-        "reading": "おだやかな",
-        "meaning": ""
+        "term": "鬱陶しい",
+        "reading": "うっとうしい",
+        "meaning": "gloomy; depressing"
       },
       {
-        "term": "みっともない",
-        "reading": "",
-        "meaning": "shameful; indecent"
+        "term": "陶器",
+        "reading": "とうき",
+        "meaning": "pottery; ceramics"
       },
       {
-        "term": "そうぞうしい",
-        "reading": "",
-        "meaning": "騒騒しい[a]noisy"
+        "term": "陶工",
+        "reading": "とうこう",
+        "meaning": "potter; ceramist"
+      },
+      {
+        "term": "陶磁器",
+        "reading": "とうじき",
+        "meaning": "ceramics; pottery and porcelain"
       }
     ]
   },
@@ -32336,22 +40471,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "並んだかいがあった",
     "meaning_en": "A： \"This ramen is great.\" B： \"Yeah, it was worth waiting in line for an hour.\"",
-    "explanation": "正解は「並んだかいがあった」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "並",
+        "onyomi": "ヘイ・ホウ",
+        "kunyomi": "なみ・なみ・ならべる・ならぶ・ならびに",
+        "meaning": "Row, And, Besides"
+      }
+    ],
     "similar": [
       {
-        "term": "並んだかいがあった",
-        "reading": "ならんだかいがあった",
-        "meaning": ""
+        "term": "並ぶ",
+        "reading": "ならぶ",
+        "meaning": "to line up; to stand in a line"
       },
       {
-        "term": "並ぶまでしてよかった",
-        "reading": "ならぶまでしてよかった",
-        "meaning": ""
+        "term": "並べる",
+        "reading": "ならべる",
+        "meaning": "to line up; to set up"
       },
       {
-        "term": "並びぬいてよかった",
-        "reading": "ならびぬいてよかった",
-        "meaning": ""
+        "term": "並木",
+        "reading": "なみき",
+        "meaning": "roadside tree; row of trees"
       }
     ]
   },
@@ -32377,27 +40520,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "枯れて",
     "meaning_en": "This plant will die if you give it too much sunlight.",
-    "explanation": "正解は「枯れて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "枯",
+        "onyomi": "コ",
+        "kunyomi": "かれる・からす",
+        "meaning": "Wither, Die, Dry Up"
+      }
+    ],
     "similar": [
       {
-        "term": "枯れて",
-        "reading": "かれて",
-        "meaning": ""
+        "term": "枯れる",
+        "reading": "かれる",
+        "meaning": "to wither; to die (plant)"
       },
       {
-        "term": "固れて",
-        "reading": "これて",
-        "meaning": ""
+        "term": "木枯らし",
+        "reading": "こがらし",
+        "meaning": "cold wintry wind"
       },
       {
-        "term": "過れて",
-        "reading": "かれて",
-        "meaning": ""
-      },
-      {
-        "term": "塗れて",
-        "reading": "ぬれて",
-        "meaning": ""
+        "term": "枯れ木",
+        "reading": "かれき",
+        "meaning": "dead tree; withered tree"
       }
     ]
   },
@@ -32423,27 +40569,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ひび",
     "meaning_en": "A： \"What happen to your leg? Did you break it？\" B： \"No, its just a small crack.\"",
-    "explanation": "正解は「ひび」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "日",
+        "onyomi": "ニチ・ジツ",
+        "kunyomi": "ひ・-び・-か",
+        "meaning": "Day, Sun, Japan"
+      }
+    ],
     "similar": [
       {
-        "term": "ひび",
-        "reading": "",
-        "meaning": "crack, fissure, flaw"
+        "term": "一日",
+        "reading": "いちにち",
+        "meaning": "(1) one day; (2) first of month"
       },
       {
-        "term": "ひだ",
-        "reading": "",
-        "meaning": "襞[n]pleat"
+        "term": "一昨日",
+        "reading": "おととい",
+        "meaning": "day before yesterday"
       },
       {
-        "term": "びら",
-        "reading": "",
-        "meaning": "handout, leaflet"
-      },
-      {
-        "term": "びり",
-        "reading": "",
-        "meaning": "last on the list; at the bottom"
+        "term": "七日",
+        "reading": "なのか",
+        "meaning": "seven days; the seventh day"
       }
     ]
   },
@@ -32469,13 +40618,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ぶり",
     "meaning_en": "He was such an irresponsible person before, but now his commitment to work has",
-    "explanation": "正解は「ぶり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぶり",
-        "reading": "",
-        "meaning": "振り[suf]after"
-      },
       {
         "term": "がい",
         "reading": "がい",
@@ -32515,27 +40660,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "あれた",
     "meaning_en": "This skin lotion makes your skin smooth with just two or three drops.",
-    "explanation": "正解は「あれた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "荒",
+        "onyomi": "コウ",
+        "kunyomi": "あらい・あら-・あれる・あらす・-あらし・すさむ",
+        "meaning": "Laid Waste, Rough, Rude"
+      }
+    ],
     "similar": [
       {
-        "term": "荒れた",
-        "reading": "あれた",
-        "meaning": ""
+        "term": "荒い",
+        "reading": "あらい",
+        "meaning": "rough; rude"
       },
       {
-        "term": "はれた",
-        "reading": "はれた",
-        "meaning": ""
+        "term": "荒れる",
+        "reading": "あれる",
+        "meaning": "to be stormy, to be rough, to be ruined"
       },
       {
-        "term": "あれた",
-        "reading": "あれた",
-        "meaning": ""
-      },
-      {
-        "term": "かれた",
-        "reading": "かれた",
-        "meaning": ""
+        "term": "荒っぽい",
+        "reading": "あらっぽい",
+        "meaning": "rough; rude"
       }
     ]
   },
@@ -32561,13 +40709,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "まけて",
     "meaning_en": "I bought eight dishes and got one of them free.",
-    "explanation": "正解は「まけて」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "まけて",
-        "reading": "まけて",
-        "meaning": ""
-      },
       {
         "term": "よけて",
         "reading": "よけて",
@@ -32607,27 +40751,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "私なりに",
     "meaning_en": "After thinking about things as best as | could, I have decided to return to my own",
-    "explanation": "正解は「私なりに」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "私",
+        "onyomi": "シ",
+        "kunyomi": "わたくし・わたし",
+        "meaning": "Private, I, Me"
+      }
+    ],
     "similar": [
       {
-        "term": "私なりに",
-        "reading": "わたしなりに",
-        "meaning": ""
+        "term": "私立",
+        "reading": "しりつ",
+        "meaning": "private (establishment)"
       },
       {
-        "term": "私からすると",
-        "reading": "わたしからすると",
-        "meaning": ""
+        "term": "私鉄",
+        "reading": "してつ",
+        "meaning": "private railway"
       },
       {
-        "term": "私のことだから",
-        "reading": "わたしのことだから",
-        "meaning": ""
-      },
-      {
-        "term": "私らしく",
-        "reading": "わたしらしく",
-        "meaning": ""
+        "term": "私有",
+        "reading": "しゆう",
+        "meaning": "private ownership"
       }
     ]
   },
@@ -32653,27 +40800,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぶつぞう",
     "meaning_en": "Buddhist image (statue)",
-    "explanation": "正解は「ぶつぞう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "仏",
+        "onyomi": "ブツ・フツ",
+        "kunyomi": "ほとけ",
+        "meaning": "Buddha, The Dead, France"
+      },
+      {
+        "kanji": "像",
+        "onyomi": "ゾウ",
+        "kunyomi": "-",
+        "meaning": "Statue, Picture, Image"
+      }
+    ],
     "similar": [
       {
-        "term": "仏像",
-        "reading": "ぶつぞう",
-        "meaning": "Buddhist image (statue)"
+        "term": "仏壇",
+        "reading": "ぶつだん",
+        "meaning": "Buddhist (household) altar"
       },
       {
-        "term": "ぶつぞう",
-        "reading": "",
-        "meaning": "仏像[n]Buddhist image"
+        "term": "仏教",
+        "reading": "ぶっきょう",
+        "meaning": "Buddhism"
       },
       {
-        "term": "ふつぞう",
-        "reading": "ふつぞう",
-        "meaning": ""
+        "term": "仏文",
+        "reading": "ふつぶん",
+        "meaning": "French; French writing"
       },
       {
-        "term": "ぶっしょう",
-        "reading": "",
-        "meaning": "物証[n]physical evidence"
+        "term": "想像",
+        "reading": "そうぞう",
+        "meaning": "imagination; guess"
+      },
+      {
+        "term": "映像",
+        "reading": "えいぞう",
+        "meaning": "reflection; image"
       }
     ]
   },
@@ -32699,27 +40865,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "入学金",
     "meaning_en": "Please be aware that the admission fee is non-refundable.",
-    "explanation": "正解は「入学金」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      },
+      {
+        "kanji": "学",
+        "onyomi": "ガク",
+        "kunyomi": "まなぶ",
+        "meaning": "Study, Learning, Science"
+      },
+      {
+        "kanji": "金",
+        "onyomi": "キン・コン・ゴン",
+        "kunyomi": "かね・かな-・-がね",
+        "meaning": "Gold"
+      }
+    ],
     "similar": [
       {
-        "term": "入学金",
-        "reading": "にゅうがくきん",
-        "meaning": ""
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
       },
       {
-        "term": "入学費",
-        "reading": "にゅうがくひ",
-        "meaning": ""
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       },
       {
-        "term": "入学賃",
-        "reading": "にゅうがくちん",
-        "meaning": ""
+        "term": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
       },
       {
-        "term": "入学料",
-        "reading": "にゅうがくりょう",
-        "meaning": ""
+        "term": "大学",
+        "reading": "だいがく",
+        "meaning": "university"
+      },
+      {
+        "term": "学校",
+        "reading": "がっこう",
+        "meaning": "school"
       }
     ]
   },
@@ -32745,27 +40936,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "思えばこそ",
     "meaning_en": "lam being so stern with you because I care for you.",
-    "explanation": "正解は「思えばこそ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      }
+    ],
     "similar": [
       {
-        "term": "思えばこそ",
-        "reading": "おもえばこそ",
-        "meaning": ""
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "思ってさえ",
-        "reading": "おもってさえ",
-        "meaning": ""
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "思えばさえ",
-        "reading": "おもえばさえ",
-        "meaning": ""
-      },
-      {
-        "term": "思うばかりで",
-        "reading": "おもうばかりで",
-        "meaning": ""
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       }
     ]
   },
@@ -32791,27 +40985,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "講義",
     "meaning_en": "According to the schedule, there is a meeting in the morning and a seminar in the",
-    "explanation": "正解は「講義」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "講",
+        "onyomi": "コウ",
+        "kunyomi": "-",
+        "meaning": "Lecture, Club, Association"
+      },
+      {
+        "kanji": "義",
+        "onyomi": "ギ",
+        "kunyomi": "-",
+        "meaning": "Righteousness, Justice, Morality"
+      }
+    ],
     "similar": [
       {
-        "term": "講義",
-        "reading": "こうぎ",
-        "meaning": "lecture"
+        "term": "講堂",
+        "reading": "こうどう",
+        "meaning": "auditorium"
       },
       {
-        "term": "講議",
-        "reading": "こうぎ",
-        "meaning": ""
+        "term": "講演",
+        "reading": "こうえん",
+        "meaning": "lecture; address"
       },
       {
-        "term": "構義",
-        "reading": "こうぎ",
-        "meaning": ""
+        "term": "休講",
+        "reading": "きゅうこう",
+        "meaning": "lecture cancelled"
       },
       {
-        "term": "構議",
-        "reading": "こうぎ",
-        "meaning": ""
+        "term": "主義",
+        "reading": "しゅぎ",
+        "meaning": "doctrine; rule"
+      },
+      {
+        "term": "義務",
+        "reading": "ぎむ",
+        "meaning": "duty; obligation"
       }
     ]
   },
@@ -32837,13 +41050,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "うぬぼれている",
     "meaning_en": "She is beautiful but not much liked because she is full of herself.",
-    "explanation": "正解は「うぬぼれている」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "うぬぼれている",
-        "reading": "うぬぼれている",
-        "meaning": ""
-      },
       {
         "term": "くつろいでいる",
         "reading": "くつろいでいる",
@@ -32883,13 +41092,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "くらいなら",
     "meaning_en": "If it is that expensive to repair it, then it would be better to just replace it with a new one.",
-    "explanation": "正解は「くらいなら」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "くらいなら",
-        "reading": "くらいなら",
-        "meaning": ""
-      },
       {
         "term": "ようであれ",
         "reading": "ようであれ",
@@ -32929,27 +41134,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かんばん",
     "meaning_en": "sign; signboard",
-    "explanation": "正解は「かんばん」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "看",
+        "onyomi": "カン",
+        "kunyomi": "みる",
+        "meaning": "Watch Over, See"
+      },
+      {
+        "kanji": "板",
+        "onyomi": "ハン・バン",
+        "kunyomi": "いた",
+        "meaning": "Plank, Board, Plate"
+      }
+    ],
     "similar": [
       {
-        "term": "看板",
-        "reading": "かんばん",
-        "meaning": "sign; signboard"
+        "term": "看護婦",
+        "reading": "かんごふ",
+        "meaning": "female nurse"
       },
       {
-        "term": "かんばん",
-        "reading": "",
-        "meaning": "乾板[n]dry plate"
+        "term": "看病",
+        "reading": "かんびょう",
+        "meaning": "nursing (a patient)"
       },
       {
-        "term": "かんぱん",
-        "reading": "",
-        "meaning": "甲板[n]deck"
+        "term": "看護",
+        "reading": "かんご",
+        "meaning": "nursing; (army) nurse"
       },
       {
-        "term": "まないた",
-        "reading": "",
-        "meaning": "俎[n]chopping board"
+        "term": "黒板",
+        "reading": "こくばん",
+        "meaning": "blackboard"
+      },
+      {
+        "term": "まな板",
+        "reading": "まないた",
+        "meaning": "chopping board; cutting board"
       }
     ]
   },
@@ -32975,13 +41199,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "もたらされた",
     "meaning_en": "The spread of the microwave oven has brought about great changes in our eating habits.",
-    "explanation": "正解は「もたらされた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "もたらされた",
-        "reading": "もたらされた",
-        "meaning": ""
-      },
       {
         "term": "もよおされた",
         "reading": "もよおされた",
@@ -33021,13 +41241,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ぐらいのものだ",
     "meaning_en": "This apartment is about all we can buy.",
-    "explanation": "正解は「ぐらいのものだ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぐらいのものだ",
-        "reading": "ぐらいのものだ",
-        "meaning": ""
-      },
       {
         "term": "のようなものだ",
         "reading": "のようなものだ",
@@ -33067,27 +41283,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "湿度",
     "meaning_en": "This graph shows how the humidity falls as the temperature rises.",
-    "explanation": "正解は「湿度」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "湿",
+        "onyomi": "シツ・シュウ",
+        "kunyomi": "しめる・しめす・うるおう・うるおす",
+        "meaning": "Damp, Wet, Moist"
+      },
+      {
+        "kanji": "度",
+        "onyomi": "ド・ト・タク",
+        "kunyomi": "たび・-たい",
+        "meaning": "Degrees, Occurrence, Time"
+      }
+    ],
     "similar": [
       {
-        "term": "湿度",
-        "reading": "しつど",
-        "meaning": "level of humidity"
+        "term": "湿る",
+        "reading": "しめる",
+        "meaning": "to be wet; to become wet"
       },
       {
-        "term": "失度",
-        "reading": "しつど",
-        "meaning": ""
+        "term": "湿気",
+        "reading": "しっけ",
+        "meaning": "moisture; humidity"
       },
       {
-        "term": "室度",
-        "reading": "しつど",
-        "meaning": ""
+        "term": "湿気る",
+        "reading": "しける",
+        "meaning": "to be damp; to be moist"
       },
       {
-        "term": "質度",
-        "reading": "しつど",
-        "meaning": ""
+        "term": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "term": "丁度",
+        "reading": "ちょうど",
+        "meaning": "just, right, exactly"
       }
     ]
   },
@@ -33113,13 +41348,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "すそ",
     "meaning_en": "Young people nowadays do not care if they walk on the backs of their pants.",
-    "explanation": "正解は「すそ」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "すそ",
-        "reading": "",
-        "meaning": "裾[n]hem"
-      },
+        "kanji": "裾",
+        "onyomi": "キョ・コ",
+        "kunyomi": "すそ",
+        "meaning": "Cuff, Hem, Foot Of Mountain"
+      }
+    ],
+    "similar": [
       {
         "term": "ずれ",
         "reading": "",
@@ -33159,18 +41397,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "というか/というか",
     "meaning_en": "It is difficult to say if his works are interesting or just strange, but they sure do",
-    "explanation": "正解は「というか/というか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "というか/というか",
-        "reading": "というか/というか",
-        "meaning": ""
-      },
-      {
-        "term": "といわず/といわず",
-        "reading": "といわず/といわず",
-        "meaning": ""
-      },
       {
         "term": "といい/といい",
         "reading": "といい/といい",
@@ -33200,27 +41429,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "そんちょう",
     "meaning_en": "To put it plainly， you should be more respectful of others opinions and receive",
-    "explanation": "正解は「そんちょう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "尊",
+        "onyomi": "ソン",
+        "kunyomi": "たっとい・とうとい・たっとぶ・とうとぶ",
+        "meaning": "Revered, Valuable, Precious"
+      },
+      {
+        "kanji": "重",
+        "onyomi": "ジュウ・チョウ",
+        "kunyomi": "え・おもい・おもり・おもなう・かさねる・かさなる・おも",
+        "meaning": "Heavy, Important, Esteem"
+      }
+    ],
     "similar": [
       {
-        "term": "尊重",
-        "reading": "そんちょう",
+        "term": "尊敬",
+        "reading": "そんけい",
         "meaning": "respect; esteem"
       },
       {
-        "term": "そんけい",
-        "reading": "",
-        "meaning": "尊敬[n|vs]respect"
+        "term": "尊い",
+        "reading": "たっとい",
+        "meaning": "precious; valuable"
       },
       {
-        "term": "そんじゅう",
-        "reading": "そんじゅう",
-        "meaning": ""
+        "term": "尊ぶ",
+        "reading": "たっとぶ",
+        "meaning": "to value; to prize"
       },
       {
-        "term": "そんちゅう",
-        "reading": "そんちゅう",
-        "meaning": ""
+        "term": "重い",
+        "reading": "おもい",
+        "meaning": "heavy"
+      },
+      {
+        "term": "体重",
+        "reading": "たいじゅう",
+        "meaning": "(body) weight"
       }
     ]
   },
@@ -33246,13 +41494,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "すすいで",
     "meaning_en": "Please rinse the dishes well so that there is no soap left on them.",
-    "explanation": "正解は「すすいで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "すすいで",
-        "reading": "すすいで",
-        "meaning": ""
-      },
       {
         "term": "そそいで",
         "reading": "そそいで",
@@ -33292,27 +41536,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "事実だとすれば",
     "meaning_en": "If that story is true, he will of course be fired from the company.",
-    "explanation": "正解は「事実だとすれば」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "事",
+        "onyomi": "ジ・ズ",
+        "kunyomi": "こと・つかう・つかえる",
+        "meaning": "Matter, Thing, Fact"
+      },
+      {
+        "kanji": "実",
+        "onyomi": "ジツ・シツ",
+        "kunyomi": "み・みのる・まこと・みの・みちる",
+        "meaning": "Reality, Truth"
+      }
+    ],
     "similar": [
       {
-        "term": "事実だとすれば",
-        "reading": "じじつだとすれば",
-        "meaning": ""
+        "term": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
       },
       {
-        "term": "事実だけあって",
-        "reading": "じじつだけあって",
-        "meaning": ""
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
       },
       {
-        "term": "事実どおりに",
-        "reading": "じじつどおりに",
-        "meaning": ""
+        "term": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
       },
       {
-        "term": "事実のままに",
-        "reading": "じじつのままに",
-        "meaning": ""
+        "term": "事実",
+        "reading": "じじつ",
+        "meaning": "fact; truth"
+      },
+      {
+        "term": "実に",
+        "reading": "じつに",
+        "meaning": "indeed; truly"
       }
     ]
   },
@@ -33338,27 +41601,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぶたい",
     "meaning_en": "Dancing on a stage would be too embarrassing for me.",
-    "explanation": "正解は「ぶたい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "舞",
+        "onyomi": "ブ",
+        "kunyomi": "まう・-まう・まい",
+        "meaning": "Dance, Flit, Circle"
+      },
+      {
+        "kanji": "台",
+        "onyomi": "ダイ・タイ",
+        "kunyomi": "うてな・われ・つかさ",
+        "meaning": "Pedestal, A Stand, Counter For Machines And Vehicles"
+      }
+    ],
     "similar": [
       {
-        "term": "舞台",
-        "reading": "ぶたい",
-        "meaning": "stage (theatre)"
+        "term": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "calling on someone who is ill; enquiry"
       },
       {
-        "term": "ぶたい",
-        "reading": "",
-        "meaning": "舞台[n]stage"
+        "term": "見舞い",
+        "reading": "みまい",
+        "meaning": "enquiry; expression of sympathy"
       },
       {
-        "term": "ぶだい",
-        "reading": "ぶだい",
-        "meaning": ""
+        "term": "振舞う",
+        "reading": "ふるまう",
+        "meaning": "to behave; to conduct oneself"
       },
       {
-        "term": "むたい",
-        "reading": "",
-        "meaning": "無体[an|n]intangible"
+        "term": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
+      },
+      {
+        "term": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
       }
     ]
   },
@@ -33384,13 +41666,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "かけば",
     "meaning_en": "Once he experiences being embarrassed, he will not repeat the mistake again.",
-    "explanation": "正解は「かけば」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "かけば",
-        "reading": "かけば",
-        "meaning": ""
-      },
       {
         "term": "つけば",
         "reading": "つけば",
@@ -33430,22 +41708,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "間に合いそうもない",
     "meaning_en": "A： “We only have 30 minutes left. Should we take a taxi？” B： \"No, I do not think we",
-    "explanation": "正解は「間に合いそうもない」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "間",
+        "onyomi": "カン・ケン",
+        "kunyomi": "あいだ・ま・あい",
+        "meaning": "Interval, Space"
+      },
+      {
+        "kanji": "合",
+        "onyomi": "ゴウ・ガッ・カッ",
+        "kunyomi": "あう・-あう・あい・あい-・-あい・-あい・あわす・あわせる・-あわせる",
+        "meaning": "Fit, Suit, Join"
+      }
+    ],
     "similar": [
       {
-        "term": "間に合いそうもない",
-        "reading": "まにあいそうもない",
-        "meaning": ""
+        "term": "時間",
+        "reading": "じかん",
+        "meaning": "time"
       },
       {
-        "term": "間に合いかねる",
-        "reading": "まにあいかねる",
-        "meaning": ""
+        "term": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime; during the day"
       },
       {
-        "term": "間に合いがたい",
-        "reading": "まにあいがたい",
-        "meaning": ""
+        "term": "間に合う",
+        "reading": "まにあう",
+        "meaning": "to be in time for"
+      },
+      {
+        "term": "具合",
+        "reading": "ぐあい",
+        "meaning": "condition; health"
+      },
+      {
+        "term": "割合",
+        "reading": "わりあい",
+        "meaning": "rate; ratio"
       }
     ]
   },
@@ -33471,27 +41773,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "双子",
     "meaning_en": "Perhaps the way to tell which twin is the older brother or sister is by their order of",
-    "explanation": "正解は「双子」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "双",
+        "onyomi": "ソウ",
+        "kunyomi": "ふた・たぐい・ならぶ・ふたつ",
+        "meaning": "Pair, Set, Comparison"
+      },
+      {
+        "kanji": "子",
+        "onyomi": "シ・ス・ツ",
+        "kunyomi": "こ・-こ・ね",
+        "meaning": "Child, Sign Of The Rat, 11pm-1am"
+      }
+    ],
     "similar": [
       {
-        "term": "双子",
-        "reading": "ふたご",
-        "meaning": "twins; a twin"
+        "term": "双方",
+        "reading": "そうほう",
+        "meaning": "both parties; both sides"
       },
       {
-        "term": "ニ子",
-        "reading": "にこ",
-        "meaning": ""
+        "term": "双生児",
+        "reading": "そうせいじ",
+        "meaning": "twins"
       },
       {
-        "term": "両子",
-        "reading": "りょうこ",
-        "meaning": ""
+        "term": "双眼鏡",
+        "reading": "そうがんきょう",
+        "meaning": "binoculars; field glasses"
       },
       {
-        "term": "富子",
-        "reading": "とみこ",
-        "meaning": ""
+        "term": "お菓子",
+        "reading": "おかし",
+        "meaning": "sweets; candy"
+      },
+      {
+        "term": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl"
       }
     ]
   },
@@ -33517,27 +41838,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "下取り",
     "meaning_en": "Itraded in my old car and bought a new one.",
-    "explanation": "正解は「下取り」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "下",
+        "onyomi": "カ・ゲ",
+        "kunyomi": "した・しも・もと・さげる・さがる・くだる・くだり・くだす・-くだす・くださる・おろす・おりる",
+        "meaning": "Below, Down, Descend"
+      },
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      }
+    ],
     "similar": [
       {
-        "term": "下取り",
-        "reading": "したどり",
-        "meaning": "trade in; part exchange"
+        "term": "下さい",
+        "reading": "ください",
+        "meaning": "(with te-form verb) please do for me"
       },
       {
-        "term": "値引き",
-        "reading": "ねびき",
-        "meaning": "price reduction; discount"
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
       },
       {
-        "term": "立て替え",
-        "reading": "たてかえ",
-        "meaning": ""
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
       },
       {
-        "term": "値打ち",
-        "reading": "ねうち",
-        "meaning": "value; worth"
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
+      },
+      {
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
       }
     ]
   },
@@ -33563,27 +41903,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "せずに済み",
     "meaning_en": "Most documents can be sent as email attachments, so we can thankfully get by",
-    "explanation": "正解は「せずに済み」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "済",
+        "onyomi": "サイ・セイ",
+        "kunyomi": "すむ・-ずみ・-ずみ・すまない・すます・-すます・すくう・なす・わたし・わたる",
+        "meaning": "Settle (debt, Etc.), Relieve (burden), Finish"
+      }
+    ],
     "similar": [
       {
-        "term": "せずに済み",
-        "reading": "せずにすみ",
-        "meaning": ""
+        "term": "済む",
+        "reading": "すむ",
+        "meaning": "to finish"
       },
       {
-        "term": "せざるを得なく",
-        "reading": "せざるをえなく",
-        "meaning": ""
+        "term": "経済",
+        "reading": "けいざい",
+        "meaning": "finance; economy"
       },
       {
-        "term": "すべきではなく",
-        "reading": "すべきではなく",
-        "meaning": ""
-      },
-      {
-        "term": "するにすぎず",
-        "reading": "するにすぎず",
-        "meaning": ""
+        "term": "済ませる",
+        "reading": "すませる",
+        "meaning": "to be finished"
       }
     ]
   },
@@ -33609,27 +41952,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "するどい",
     "meaning_en": "His sharp political cartoons captured the readers' sentiment.",
-    "explanation": "正解は「するどい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "鋭",
+        "onyomi": "エイ",
+        "kunyomi": "するどい",
+        "meaning": "Pointed, Sharpness, Edge"
+      }
+    ],
     "similar": [
       {
-        "term": "鋭い",
-        "reading": "するどい",
-        "meaning": "pointed; sharp"
+        "term": "新鋭",
+        "reading": "しんえい",
+        "meaning": "young and energetic; up-and-coming"
       },
       {
-        "term": "にぶい",
-        "reading": "",
-        "meaning": "鈍い[a]blunt"
+        "term": "最新鋭",
+        "reading": "さいしんえい",
+        "meaning": "state-of-the-art; cutting-edge"
       },
       {
-        "term": "するどい",
-        "reading": "",
-        "meaning": "鋭い[a]sharp"
-      },
-      {
-        "term": "ひどい",
-        "reading": "",
-        "meaning": "awful"
+        "term": "気鋭",
+        "reading": "きえい",
+        "meaning": "spirited; energetic"
       }
     ]
   },
@@ -33655,27 +42001,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "生きがい",
     "meaning_en": "Work is my life.",
-    "explanation": "正解は「生きがい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      }
+    ],
     "similar": [
       {
-        "term": "生きがい",
-        "reading": "いきがい",
-        "meaning": "reason for living; something one lives for"
+        "term": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; doctor"
       },
       {
-        "term": "なっとく",
-        "reading": "",
-        "meaning": "納得[n|vs]understand"
+        "term": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
       },
       {
-        "term": "あこがれ",
-        "reading": "あこがれ",
-        "meaning": ""
-      },
-      {
-        "term": "やりがい",
-        "reading": "",
-        "meaning": "遣り甲斐[n]worthwhile"
+        "term": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
       }
     ]
   },
@@ -33701,18 +42050,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ならないものだろうか",
     "meaning_en": "I have a terrible headache. No medicine helps. | wonder if there is nothing I can do.",
-    "explanation": "正解は「ならないものだろうか」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ならないものだろうか",
-        "reading": "ならないものだろうか",
-        "meaning": ""
-      },
-      {
-        "term": "ならないことだろうか",
-        "reading": "ならないことだろうか",
-        "meaning": ""
-      },
       {
         "term": "なりそうもないか",
         "reading": "なりそうもないか",
@@ -33747,27 +42087,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "鈍感",
     "meaning_en": "That scientist has a brilliant mind, but is insensitive to people's feelings.",
-    "explanation": "正解は「鈍感」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "鈍",
+        "onyomi": "ドン",
+        "kunyomi": "にぶい・にぶる・にぶ-・なまる・なまくら",
+        "meaning": "Dull, Slow, Foolish"
+      },
+      {
+        "kanji": "感",
+        "onyomi": "カン",
+        "kunyomi": "-",
+        "meaning": "Emotion, Feeling, Sensation"
+      }
+    ],
     "similar": [
       {
-        "term": "鈍感",
-        "reading": "どんかん",
-        "meaning": "thickheadedness; stolidity"
+        "term": "鈍い",
+        "reading": "にぶい",
+        "meaning": "dull (e.g. a knife); thickheaded"
       },
       {
-        "term": "銅感",
-        "reading": "どうかん",
-        "meaning": ""
+        "term": "鈍る",
+        "reading": "なまる",
+        "meaning": "to become less capable; to grow dull"
       },
       {
-        "term": "憎感",
-        "reading": "ぞうかん",
-        "meaning": ""
+        "term": "鈍化",
+        "reading": "どんか",
+        "meaning": "becoming dull; slowing down"
       },
       {
-        "term": "鋭感",
-        "reading": "えいかん",
-        "meaning": ""
+        "term": "感じ",
+        "reading": "かんじ",
+        "meaning": "feeling; sense"
+      },
+      {
+        "term": "感じる",
+        "reading": "かんじる",
+        "meaning": "to feel; to sense"
       }
     ]
   },
@@ -33793,13 +42152,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "けなして",
     "meaning_en": "Don't keep speaking ill of others. How about praising them for a change？",
-    "explanation": "正解は「けなして」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "けなして",
-        "reading": "けなして",
-        "meaning": ""
-      },
       {
         "term": "思いやって",
         "reading": "おもいやって",
@@ -33839,13 +42194,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "だとされている",
     "meaning_en": "In the event of a disaster, procuring water is said to be the biggest problem.",
-    "explanation": "正解は「だとされている」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "だとされている",
-        "reading": "だとされている",
-        "meaning": ""
-      },
       {
         "term": "であるべきだ",
         "reading": "であるべきだ",
@@ -33885,27 +42236,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "かしこい",
     "meaning_en": "wise; clever",
-    "explanation": "正解は「かしこい」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "賢",
+        "onyomi": "ケン",
+        "kunyomi": "かしこい",
+        "meaning": "Intelligent, Wise, Wisdom"
+      }
+    ],
     "similar": [
       {
-        "term": "賢い",
-        "reading": "かしこい",
-        "meaning": "wise; clever"
+        "term": "賢明",
+        "reading": "けんめい",
+        "meaning": "wisdom; intelligence"
       },
       {
-        "term": "かしこい",
-        "reading": "",
-        "meaning": "賢い[a]clever"
+        "term": "悪賢い",
+        "reading": "わるがしこい",
+        "meaning": "cunning; crafty"
       },
       {
-        "term": "あやうい",
-        "reading": "",
-        "meaning": "危うい[a]dangerous"
-      },
-      {
-        "term": "おさない",
-        "reading": "",
-        "meaning": "幼い[a]infantile"
+        "term": "普賢",
+        "reading": "ふげん",
+        "meaning": "Samantabhadra (bodhisattva); Universal Compassion"
       }
     ]
   },
@@ -33931,13 +42285,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ずらっと",
     "meaning_en": "The soccer players are all lined up.",
-    "explanation": "正解は「ずらっと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ずらっと",
-        "reading": "",
-        "meaning": "in a line; in a row"
-      },
       {
         "term": "ちらっと",
         "reading": "ちらっと",
@@ -33977,27 +42327,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "思い出される",
     "meaning_en": "Whenever I hear this song, it reminds me of my mother who passed away.",
-    "explanation": "正解は「思い出される」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      },
+      {
+        "kanji": "出",
+        "onyomi": "シュツ・スイ",
+        "kunyomi": "でる・-で・だす・-だす・いでる・いだす",
+        "meaning": "Exit, Leave, Go Out"
+      }
+    ],
     "similar": [
       {
-        "term": "思い出される",
-        "reading": "おもいだされる",
-        "meaning": ""
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
       },
       {
-        "term": "思い出す限りだ",
-        "reading": "おもいだすかぎりだ",
-        "meaning": ""
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       },
       {
-        "term": "思い出すものだ",
-        "reading": "おもいだすものだ",
-        "meaning": ""
+        "term": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "mystery; curiosity"
       },
       {
-        "term": "思い出すまいか",
-        "reading": "おもいだすまいか",
-        "meaning": ""
+        "term": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out"
+      },
+      {
+        "term": "出す",
+        "reading": "だす",
+        "meaning": "to put out"
       }
     ]
   },
@@ -34023,27 +42392,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あんで",
     "meaning_en": "Mother is knitting a wool hat in the living room.",
-    "explanation": "正解は「あんで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "編",
+        "onyomi": "ヘン",
+        "kunyomi": "あむ・-あみ",
+        "meaning": "Compilation, Knit, Plait"
+      }
+    ],
     "similar": [
       {
-        "term": "編んで",
-        "reading": "あんで",
-        "meaning": ""
+        "term": "短編",
+        "reading": "たんぺん",
+        "meaning": "short (e.g. story; film)"
       },
       {
-        "term": "くんで",
-        "reading": "くんで",
-        "meaning": ""
+        "term": "編み物",
+        "reading": "あみもの",
+        "meaning": "knitting"
       },
       {
-        "term": "もんで",
-        "reading": "もんで",
-        "meaning": ""
-      },
-      {
-        "term": "あんで",
-        "reading": "あんで",
-        "meaning": ""
+        "term": "編む",
+        "reading": "あむ",
+        "meaning": "to knit"
       }
     ]
   },
@@ -34069,13 +42441,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もめた",
     "meaning_en": "After our father passed away, I had a fight with my brothers over the inheritance.",
-    "explanation": "正解は「もめた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "もめた",
-        "reading": "もめた",
-        "meaning": ""
-      },
       {
         "term": "あせった",
         "reading": "あせった",
@@ -34115,27 +42483,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "悩まされている",
     "meaning_en": "It seems that most every area is struggling with waste separation.",
-    "explanation": "正解は「悩まされている」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "悩",
+        "onyomi": "ノウ",
+        "kunyomi": "なやむ・なやます・なやましい・なやみ",
+        "meaning": "Trouble, Worry, In Pain"
+      }
+    ],
     "similar": [
       {
-        "term": "悩まされている",
-        "reading": "なやまされている",
-        "meaning": ""
+        "term": "悩む",
+        "reading": "なやむ",
+        "meaning": "to be worried; to be troubled"
       },
       {
-        "term": "悩まれている",
-        "reading": "なやまれている",
-        "meaning": ""
+        "term": "悩ましい",
+        "reading": "なやましい",
+        "meaning": "seductive; melancholy"
       },
       {
-        "term": "悩みにほかならない",
-        "reading": "なやみにほかならない",
-        "meaning": ""
-      },
-      {
-        "term": "悩むよりほかない",
-        "reading": "なやむよりほかない",
-        "meaning": ""
+        "term": "悩ます",
+        "reading": "なやます",
+        "meaning": "to afflict; to torment"
       }
     ]
   },
@@ -34161,27 +42532,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "偶然",
     "meaning_en": "When they were digging into the ground for construction to expand the store, they",
-    "explanation": "正解は「偶然」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "偶",
+        "onyomi": "グウ",
+        "kunyomi": "たま",
+        "meaning": "Accidentally, Even Number, Couple"
+      },
+      {
+        "kanji": "然",
+        "onyomi": "ゼン・ネン",
+        "kunyomi": "しか・しかり・しかし・さ",
+        "meaning": "Sort Of Thing, So, If So"
+      }
+    ],
     "similar": [
       {
-        "term": "偶然",
-        "reading": "ぐうぜん",
-        "meaning": "(by) chance; unexpectedly"
+        "term": "偶々",
+        "reading": "たまたま",
+        "meaning": "casually; unexpectedly"
+      },
+      {
+        "term": "偶数",
+        "reading": "ぐうすう",
+        "meaning": "even number"
+      },
+      {
+        "term": "偶に",
+        "reading": "たまに",
+        "meaning": "occasionally; once in a while"
+      },
+      {
+        "term": "全然",
+        "reading": "ぜんぜん",
+        "meaning": "(1) wholly; entirely"
       },
       {
         "term": "天然",
         "reading": "てんねん",
         "meaning": "nature; spontaneity"
-      },
-      {
-        "term": "肖然",
-        "reading": "しょうぜん",
-        "meaning": ""
-      },
-      {
-        "term": "必然",
-        "reading": "ひつぜん",
-        "meaning": "inevitable; necessary"
       }
     ]
   },
@@ -34207,13 +42597,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぎっしり",
     "meaning_en": "Iget yelled at by my boss every day. I have had enough of it. I want to quit.",
-    "explanation": "正解は「ぎっしり」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ぎっしり",
-        "reading": "ぎっしり",
-        "meaning": "tightly; fully"
-      },
       {
         "term": "たっぷり",
         "reading": "たっぷり",
@@ -34253,27 +42639,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ところで",
     "meaning_en": "I had a headache so I took some medicine and the pain went away soon after.",
-    "explanation": "正解は「ところで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "所",
+        "onyomi": "ショ",
+        "kunyomi": "ところ・-ところ・どころ・とこ",
+        "meaning": "Place, Extent"
+      }
+    ],
     "similar": [
       {
-        "term": "ところで",
-        "reading": "",
-        "meaning": "by the way; even if"
+        "term": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
       },
       {
-        "term": "すなわち",
-        "reading": "",
-        "meaning": "that is; namely"
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
       },
       {
-        "term": "すると",
-        "reading": "すると",
-        "meaning": "then"
-      },
-      {
-        "term": "というと",
-        "reading": "",
-        "meaning": "when it comes to"
+        "term": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "an address; a residence"
       }
     ]
   },
@@ -34299,27 +42688,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ひふ",
     "meaning_en": "If there is a problem with its internal organs, it may show up as skin disorders. At",
-    "explanation": "正解は「ひふ」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "皮",
+        "onyomi": "ヒ",
+        "kunyomi": "かわ",
+        "meaning": "Pelt, Skin, Hide"
+      },
+      {
+        "kanji": "膚",
+        "onyomi": "フ",
+        "kunyomi": "はだ",
+        "meaning": "Skin, Body, Grain"
+      }
+    ],
     "similar": [
       {
-        "term": "皮膚",
-        "reading": "ひふ",
-        "meaning": "skin"
+        "term": "毛皮",
+        "reading": "けがわ",
+        "meaning": "fur; skin"
       },
       {
-        "term": "はだ",
-        "reading": "",
-        "meaning": "肌[n]skin"
+        "term": "皮肉",
+        "reading": "ひにく",
+        "meaning": "cynicism; sarcasm"
       },
       {
-        "term": "ひだ",
-        "reading": "",
-        "meaning": "襞[n]pleat"
+        "term": "樹皮",
+        "reading": "じゅひ",
+        "meaning": "bark (of a tree, etc.)"
       },
       {
-        "term": "はふ",
-        "reading": "",
-        "meaning": "破風[n]gable"
+        "term": "皮膚病",
+        "reading": "ひふびょう",
+        "meaning": "skin disease"
+      },
+      {
+        "term": "皮膚科",
+        "reading": "ひふか",
+        "meaning": "dermatology"
       }
     ]
   },
@@ -34345,27 +42753,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "事務職は、パソコンができないと",
     "meaning_en": "Clerical staff who cannot use computers are out of the question.",
-    "explanation": "正解は「事務職は、パソコンができないと」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "事",
+        "onyomi": "ジ・ズ",
+        "kunyomi": "こと・つかう・つかえる",
+        "meaning": "Matter, Thing, Fact"
+      },
+      {
+        "kanji": "務",
+        "onyomi": "ム",
+        "kunyomi": "つとめる",
+        "meaning": "Task, Duties"
+      },
+      {
+        "kanji": "職",
+        "onyomi": "ショク・ソク",
+        "kunyomi": "-",
+        "meaning": "Post, Employment, Work"
+      }
+    ],
     "similar": [
       {
-        "term": "事務職は、パソコンができないと",
-        "reading": "じむしょくは、ぱそこんができないと",
-        "meaning": ""
+        "term": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
       },
       {
-        "term": "話がわからない",
-        "reading": "はなしがわからない",
-        "meaning": ""
+        "term": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
       },
       {
-        "term": "話がつかない",
-        "reading": "はなしがつかない",
-        "meaning": ""
+        "term": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
       },
       {
-        "term": "話にのらない",
-        "reading": "はなしにのらない",
-        "meaning": ""
+        "term": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
+      },
+      {
+        "term": "事務",
+        "reading": "じむ",
+        "meaning": "business; office work"
       }
     ]
   },
@@ -34391,27 +42824,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "したがって",
     "meaning_en": "The majority of the class is from China. Incidentally, I am from Taiwan.",
-    "explanation": "正解は「したがって」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "従",
+        "onyomi": "ジュウ・ショウ・ジュ",
+        "kunyomi": "したがう・したがえる・より",
+        "meaning": "Accompany, Obey, Submit To"
+      }
+    ],
     "similar": [
       {
-        "term": "したがって",
-        "reading": "したがって",
-        "meaning": "therefore; consequently"
+        "term": "従う",
+        "reading": "したがう",
+        "meaning": "to abide (by the rules); to obey"
       },
       {
-        "term": "ちなみに",
-        "reading": "",
-        "meaning": "因みに[c]by the way"
+        "term": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)"
       },
       {
-        "term": "それが",
-        "reading": "それが",
-        "meaning": ""
-      },
-      {
-        "term": "ようするに",
-        "reading": "",
-        "meaning": "要するに[ad]in short"
+        "term": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "cousin (female)"
       }
     ]
   },
@@ -34437,12 +42873,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "匹",
     "meaning_en": "My uncle has five dogs in his house.",
-    "explanation": "正解は「匹」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "匹",
+        "onyomi": "ヒツ",
+        "kunyomi": "ひき",
+        "meaning": "Equal, Head, Counter For Small Animals"
+      }
+    ],
     "similar": [
       {
-        "term": "匹",
-        "reading": "ひき",
-        "meaning": "head; small animal counter"
+        "term": "匹敵",
+        "reading": "ひってき",
+        "meaning": "comparing with; match"
+      },
+      {
+        "term": "一匹",
+        "reading": "いっぴき",
+        "meaning": "one (small animal); two-tan bolt of cloth"
       }
     ]
   },
@@ -34468,27 +42917,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "手当て",
     "meaning_en": "lam sorry to trouble you when you are so busy.",
-    "explanation": "正解は「手当て」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "手",
+        "onyomi": "シュ・ズ",
+        "kunyomi": "て・て-・-て・た-",
+        "meaning": "Hand"
+      },
+      {
+        "kanji": "当",
+        "onyomi": "トウ",
+        "kunyomi": "あたる・あたり・あてる・あて・まさに・まさにべし",
+        "meaning": "Hit, Right, Appropriate"
+      }
+    ],
     "similar": [
       {
-        "term": "手当て",
-        "reading": "てあて",
-        "meaning": "allowance; compensation"
+        "term": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
       },
       {
-        "term": "手入れ",
-        "reading": "ていれ",
-        "meaning": "repairs; maintenance"
+        "term": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
       },
       {
-        "term": "手数",
-        "reading": "てかず",
-        "meaning": "number of moves; trouble"
+        "term": "下手",
+        "reading": "へた",
+        "meaning": "unskillful"
       },
       {
-        "term": "手配",
-        "reading": "てはい",
-        "meaning": "arrangement; search (by police)"
+        "term": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch"
+      },
+      {
+        "term": "適当",
+        "reading": "てきとう",
+        "meaning": "suitability"
       }
     ]
   },
@@ -34514,27 +42982,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "そこで",
     "meaning_en": "I heard you are going to go on a business trip to New York next month. So, there",
-    "explanation": "正解は「そこで」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "其",
+        "onyomi": "キ・ギ・ゴ",
+        "kunyomi": "それ・その",
+        "meaning": "That"
+      },
+      {
+        "kanji": "処",
+        "onyomi": "ショ",
+        "kunyomi": "ところ・-こ・おる",
+        "meaning": "Dispose, Manage, Deal With"
+      }
+    ],
     "similar": [
       {
-        "term": "そこで",
-        "reading": "",
-        "meaning": "so (conj); accordingly"
+        "term": "其の儘",
+        "reading": "そのまま",
+        "meaning": "without change; as it is (i.e. now)"
       },
       {
-        "term": "そういえば",
-        "reading": "",
-        "meaning": "which reminds me .."
+        "term": "其れ",
+        "reading": "それ",
+        "meaning": "it; that"
       },
       {
-        "term": "それはそうと",
-        "reading": "",
-        "meaning": "by the way"
+        "term": "其れから",
+        "reading": "それから",
+        "meaning": "and then; after that"
       },
       {
-        "term": "もっとも",
-        "reading": "",
-        "meaning": "extremely"
+        "term": "処理",
+        "reading": "しょり",
+        "meaning": "processing; dealing with"
+      },
+      {
+        "term": "何処",
+        "reading": "どこ",
+        "meaning": "where; what place"
       }
     ]
   },
@@ -34560,27 +43047,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "りょうこう",
     "meaning_en": "The results of your medical exam are all about average, so you are in good health.",
-    "explanation": "正解は「りょうこう」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "良",
+        "onyomi": "リョウ",
+        "kunyomi": "よい・-よい・いい・-いい",
+        "meaning": "Good, Pleasing, Skilled"
+      },
+      {
+        "kanji": "好",
+        "onyomi": "コウ",
+        "kunyomi": "このむ・すく・よい・いい",
+        "meaning": "Fond, Pleasing, Like Something"
+      }
+    ],
     "similar": [
       {
-        "term": "良好",
-        "reading": "りょうこう",
-        "meaning": "favorable; satisfactory"
+        "term": "仲良し",
+        "reading": "なかよし",
+        "meaning": "intimate friend; bosom buddy"
       },
       {
-        "term": "りょうこう",
-        "reading": "",
-        "meaning": "良好[an|n]good"
+        "term": "不良",
+        "reading": "ふりょう",
+        "meaning": "badness; delinquent"
       },
       {
-        "term": "りゅうこう",
-        "reading": "",
-        "meaning": "流行[n|vs]to be popular l"
+        "term": "善良",
+        "reading": "ぜんりょう",
+        "meaning": "goodness; excellence"
       },
       {
-        "term": "りょこう",
-        "reading": "",
-        "meaning": "旅行[n|vs]travel"
+        "term": "大好き",
+        "reading": "だいすき",
+        "meaning": "to be very likeable"
+      },
+      {
+        "term": "好き",
+        "reading": "すき",
+        "meaning": "likeable"
       }
     ]
   },
@@ -34606,27 +43112,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "取り入れた",
     "meaning_en": "By introducing the new energy saving system, we have been able to drastically cut",
-    "explanation": "正解は「取り入れた」です。文脈に最も適した自然な日本語表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "取",
+        "onyomi": "シュ",
+        "kunyomi": "とる・とり・とり-・とり・-どり",
+        "meaning": "Take, Fetch, Take Up"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      }
+    ],
     "similar": [
       {
-        "term": "取り入れた",
-        "reading": "とりいれた",
+        "term": "取る",
+        "reading": "とる",
+        "meaning": "to take something"
+      },
+      {
+        "term": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "to exchange"
+      },
+      {
+        "term": "取り上げ",
+        "reading": "とりあげる",
         "meaning": ""
       },
       {
-        "term": "取り組んだ",
-        "reading": "とりくんだ",
-        "meaning": ""
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
       },
       {
-        "term": "取り込んだ",
-        "reading": "とりこんだ",
-        "meaning": ""
-      },
-      {
-        "term": "取り上げた",
-        "reading": "とりあげた",
-        "meaning": ""
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -34652,13 +43177,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "さて",
     "meaning_en": "There will be an evacuation drill next Sunday. However, it will be cancelled in the",
-    "explanation": "正解は「さて」です。文脈に最も適した自然な日本語表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "さて",
-        "reading": "",
-        "meaning": "well; now"
-      },
+        "kanji": "偖",
+        "onyomi": "シャ",
+        "kunyomi": "さて",
+        "meaning": "Well, Now"
+      }
+    ],
+    "similar": [
       {
         "term": "しかも",
         "reading": "",
@@ -34698,12 +43226,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "島",
     "meaning_en": "island",
-    "explanation": "正解は「島」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "島",
+        "onyomi": "トウ",
+        "kunyomi": "しま",
+        "meaning": "Island"
+      }
+    ],
     "similar": [
       {
-        "term": "島",
-        "reading": "しま",
-        "meaning": "island"
+        "term": "列島",
+        "reading": "れっとう",
+        "meaning": "chain of islands"
+      },
+      {
+        "term": "半島",
+        "reading": "はんとう",
+        "meaning": "peninsula"
+      },
+      {
+        "term": "中島",
+        "reading": "なかじま",
+        "meaning": "island in a pond or river"
       }
     ]
   },
@@ -34729,13 +43275,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ひざ",
     "meaning_en": "knee; lap",
-    "explanation": "正解は「ひざ」です。文脈および語彙の用法に最も適した表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "膝",
-        "reading": "ひざ",
-        "meaning": "knee; lap"
-      },
+        "kanji": "膝",
+        "onyomi": "シツ",
+        "kunyomi": "ひざ",
+        "meaning": "Knee, Lap"
+      }
+    ],
+    "similar": [
       {
         "term": "うつる",
         "reading": "",
@@ -34750,6 +43299,11 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "term": "シーン",
         "reading": "シーン",
         "meaning": "scene"
+      },
+      {
+        "term": "ひざ",
+        "reading": "",
+        "meaning": "膝[n]knee"
       }
     ]
   },
@@ -34775,12 +43329,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "裏",
     "meaning_en": "reverse side",
-    "explanation": "正解は「裏」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "裏",
+        "onyomi": "リ",
+        "kunyomi": "うら",
+        "meaning": "Back, Amidst, In"
+      }
+    ],
     "similar": [
       {
-        "term": "裏",
-        "reading": "うら",
-        "meaning": "reverse side"
+        "term": "裏切る",
+        "reading": "うらぎる",
+        "meaning": "to betray; to turn traitor to"
+      },
+      {
+        "term": "裏口",
+        "reading": "うらぐち",
+        "meaning": "backdoor; rear entrance"
+      },
+      {
+        "term": "裏返す",
+        "reading": "うらがえす",
+        "meaning": "to turn inside out; to turn (something) over"
       }
     ]
   },
@@ -34806,12 +43378,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "城",
     "meaning_en": "castle",
-    "explanation": "正解は「城」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "城",
+        "onyomi": "ジョウ・セイ",
+        "kunyomi": "しろ",
+        "meaning": "Castle"
+      }
+    ],
     "similar": [
       {
-        "term": "城",
-        "reading": "しろ",
-        "meaning": "castle"
+        "term": "城下",
+        "reading": "じょうか",
+        "meaning": "land near the castle"
+      },
+      {
+        "term": "古城",
+        "reading": "こじょう",
+        "meaning": "old castle; old fortress"
+      },
+      {
+        "term": "城下町",
+        "reading": "じょうかまち",
+        "meaning": "castle town; city in Japan that developed around the castle of a feudal lord"
       }
     ]
   },
@@ -34837,27 +43427,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ふくろ",
     "meaning_en": "bag; sack",
-    "explanation": "正解は「ふくろ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "袋",
+        "onyomi": "タイ・ダイ",
+        "kunyomi": "ふくろ",
+        "meaning": "Sack, Bag, Pouch"
+      }
+    ],
     "similar": [
       {
-        "term": "袋",
-        "reading": "ふくろ",
-        "meaning": "bag; sack"
+        "term": "手袋",
+        "reading": "てぶくろ",
+        "meaning": "glove"
       },
       {
-        "term": "ぐっすり",
-        "reading": "ぐっすり",
-        "meaning": "sound asleep; fast asleep"
+        "term": "足袋",
+        "reading": "たび",
+        "meaning": "tabi; Japanese socks (with split toe)"
       },
       {
-        "term": "かすかな",
-        "reading": "かすかな",
-        "meaning": ""
-      },
-      {
-        "term": "すなわち",
-        "reading": "",
-        "meaning": "that is; namely"
+        "term": "お袋",
+        "reading": "おふくろ",
+        "meaning": "mother"
       }
     ]
   },
@@ -34883,14 +43476,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "噂",
     "meaning_en": "rumour; report",
-    "explanation": "正解は「噂」です。文脈および語彙の用法に最も適した表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "噂",
-        "reading": "うわさ",
-        "meaning": "rumour; report"
+        "kanji": "噂",
+        "onyomi": "ソン",
+        "kunyomi": "うわさ",
+        "meaning": "Rumor, Gossip, Hearsay"
       }
-    ]
+    ],
+    "similar": []
   },
   {
     "id": 803,
@@ -34914,11 +43509,29 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "隅",
     "meaning_en": "corner; nook",
-    "explanation": "正解は「隅」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "隅",
+        "onyomi": "グウ",
+        "kunyomi": "すみ",
+        "meaning": "Corner, Nook"
+      }
+    ],
     "similar": [
       {
-        "term": "隅",
-        "reading": "すみ",
+        "term": "一隅",
+        "reading": "いちぐう",
+        "meaning": "corner; nook"
+      },
+      {
+        "term": "四隅",
+        "reading": "よすみ",
+        "meaning": "four corners; four ordinal directions"
+      },
+      {
+        "term": "片隅",
+        "reading": "かたすみ",
         "meaning": "corner; nook"
       }
     ]
@@ -34945,27 +43558,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ほね",
     "meaning_en": "bone",
-    "explanation": "正解は「ほね」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "骨",
+        "onyomi": "コツ",
+        "kunyomi": "ほね",
+        "meaning": "Skeleton, Bone, Remains"
+      }
+    ],
     "similar": [
       {
-        "term": "骨",
-        "reading": "ほね",
-        "meaning": "bone"
+        "term": "骨折",
+        "reading": "こっせつ",
+        "meaning": "bone fracture"
       },
       {
-        "term": "ほんの",
-        "reading": "",
-        "meaning": "mere, just"
+        "term": "露骨",
+        "reading": "ろこつ",
+        "meaning": "1.  frank; blunt"
       },
       {
-        "term": "ほね",
-        "reading": "",
-        "meaning": "骨[n]bone"
-      },
-      {
-        "term": "えり",
-        "reading": "",
-        "meaning": "襟[n]collar"
+        "term": "骨董品",
+        "reading": "こっとうひん",
+        "meaning": "curio"
       }
     ]
   },
@@ -34991,14 +43607,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "咳",
     "meaning_en": "cough",
-    "explanation": "正解は「咳」です。文脈および語彙の用法に最も適した表現です。",
-    "similar": [
+    "explanation": "",
+    "kanji_info": [
       {
-        "term": "咳",
-        "reading": "せき",
-        "meaning": "cough"
+        "kanji": "咳",
+        "onyomi": "カイ・ガイ",
+        "kunyomi": "せく・しわぶく・せき・しわぶき",
+        "meaning": "Cough, Clear Throat"
       }
-    ]
+    ],
+    "similar": []
   },
   {
     "id": 806,
@@ -35022,12 +43640,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "棒",
     "meaning_en": "pole; rod",
-    "explanation": "正解は「棒」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "棒",
+        "onyomi": "ボウ",
+        "kunyomi": "-",
+        "meaning": "Rod, Stick, Cane"
+      }
+    ],
     "similar": [
       {
-        "term": "棒",
-        "reading": "ぼう",
-        "meaning": "pole; rod"
+        "term": "泥棒",
+        "reading": "どろぼう",
+        "meaning": "thief"
+      },
+      {
+        "term": "鉄棒",
+        "reading": "かなぼう",
+        "meaning": "iron rod; crowbar"
+      },
+      {
+        "term": "ぶっきら棒",
+        "reading": "ぶっきらぼう",
+        "meaning": "curt; blunt"
       }
     ]
   },
@@ -35053,27 +43689,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "えだ",
     "meaning_en": "branch; twig",
-    "explanation": "正解は「えだ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "枝",
+        "onyomi": "シ",
+        "kunyomi": "えだ",
+        "meaning": "Bough, Branch, Twig"
+      }
+    ],
     "similar": [
       {
-        "term": "枝",
-        "reading": "えだ",
-        "meaning": "branch; twig"
+        "term": "大枝",
+        "reading": "おおえだ",
+        "meaning": "large branch; bough"
       },
       {
-        "term": "よる",
-        "reading": "",
-        "meaning": "夜[n]night"
+        "term": "小枝",
+        "reading": "こえだ",
+        "meaning": "twig; spray"
       },
       {
-        "term": "なみ",
-        "reading": "",
-        "meaning": "波[n]wave"
-      },
-      {
-        "term": "えだ",
-        "reading": "",
-        "meaning": "枝[n]branch"
+        "term": "枝葉",
+        "reading": "えだは",
+        "meaning": "branches and leaves; foliage"
       }
     ]
   },
@@ -35099,12 +43738,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "底",
     "meaning_en": "bottom; sole",
-    "explanation": "正解は「底」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "底",
+        "onyomi": "テイ",
+        "kunyomi": "そこ",
+        "meaning": "Bottom, Sole, Depth"
+      }
+    ],
     "similar": [
       {
-        "term": "底",
-        "reading": "そこ",
-        "meaning": "bottom; sole"
+        "term": "徹底",
+        "reading": "てってい",
+        "meaning": "thoroughness; completeness"
+      },
+      {
+        "term": "到底",
+        "reading": "とうてい",
+        "meaning": "(cannot) possibly"
+      },
+      {
+        "term": "根底",
+        "reading": "こんてい",
+        "meaning": "root; basis"
       }
     ]
   },
@@ -35130,12 +43787,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "孫",
     "meaning_en": "grandchild",
-    "explanation": "正解は「孫」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "孫",
+        "onyomi": "ソン",
+        "kunyomi": "まご",
+        "meaning": "Grandchild, Descendants"
+      }
+    ],
     "similar": [
       {
-        "term": "孫",
-        "reading": "まご",
+        "term": "子孫",
+        "reading": "しそん",
+        "meaning": "descendants; posterity"
+      },
+      {
+        "term": "お孫さん",
+        "reading": "おまごさん",
         "meaning": "grandchild"
+      },
+      {
+        "term": "孫娘",
+        "reading": "まごむすめ",
+        "meaning": "granddaughter"
       }
     ]
   },
@@ -35161,27 +43836,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "えり",
     "meaning_en": "neck; collar",
-    "explanation": "正解は「えり」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "襟",
+        "onyomi": "キン",
+        "kunyomi": "えり",
+        "meaning": "Collar, Neck, Lapel"
+      }
+    ],
     "similar": [
       {
-        "term": "襟",
-        "reading": "えり",
-        "meaning": "neck; collar"
+        "term": "胸襟",
+        "reading": "きょうきん",
+        "meaning": "one's heart"
       },
       {
-        "term": "まく",
-        "reading": "",
-        "meaning": "蒔く[vg]sow"
+        "term": "襟元",
+        "reading": "えりもと",
+        "meaning": "(around the) neck; nape"
       },
       {
-        "term": "こえる",
-        "reading": "",
-        "meaning": "肥える[vi]to be fertilized"
-      },
-      {
-        "term": "えり",
-        "reading": "",
-        "meaning": "襟[n]collar"
+        "term": "襟巻き",
+        "reading": "えりまき",
+        "meaning": "scarf (esp. one worn for warmth); muffler"
       }
     ]
   },
@@ -35207,12 +43885,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "像",
     "meaning_en": "statue; image",
-    "explanation": "正解は「像」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "像",
+        "onyomi": "ゾウ",
+        "kunyomi": "-",
+        "meaning": "Statue, Picture, Image"
+      }
+    ],
     "similar": [
       {
-        "term": "像",
-        "reading": "ぞう",
-        "meaning": "statue; image"
+        "term": "想像",
+        "reading": "そうぞう",
+        "meaning": "imagination; guess"
+      },
+      {
+        "term": "仏像",
+        "reading": "ぶつぞう",
+        "meaning": "Buddhist image (statue)"
+      },
+      {
+        "term": "映像",
+        "reading": "えいぞう",
+        "meaning": "reflection; image"
       }
     ]
   },
@@ -35238,12 +43934,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "街",
     "meaning_en": "(1) town; (2) street",
-    "explanation": "正解は「街」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "街",
+        "onyomi": "ガイ・カイ",
+        "kunyomi": "まち",
+        "meaning": "Boulevard, Street, Town"
+      }
+    ],
     "similar": [
       {
-        "term": "街",
-        "reading": "まち",
-        "meaning": "(1) town; (2) street"
+        "term": "街角",
+        "reading": "まちかど",
+        "meaning": "street corner"
+      },
+      {
+        "term": "市街",
+        "reading": "しがい",
+        "meaning": "urban areas; the streets"
+      },
+      {
+        "term": "街道",
+        "reading": "かいどう",
+        "meaning": "highway"
       }
     ]
   },
@@ -35269,27 +43983,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "おく",
     "meaning_en": "interior; inner part",
-    "explanation": "正解は「おく」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "奥",
+        "onyomi": "オウ",
+        "kunyomi": "おく・おくまる・くま",
+        "meaning": "Heart, Interior"
+      }
+    ],
     "similar": [
       {
-        "term": "奥",
-        "reading": "おく",
-        "meaning": "interior; inner part"
+        "term": "奥さん",
+        "reading": "おくさん",
+        "meaning": "(honorable) wife"
       },
       {
-        "term": "とおす",
-        "reading": "",
-        "meaning": "通す[vg]let pass"
+        "term": "奥地",
+        "reading": "おくち",
+        "meaning": "interior; backwoods"
       },
       {
-        "term": "もどす",
-        "reading": "",
-        "meaning": "戻す[vg]to turn back"
-      },
-      {
-        "term": "おく",
-        "reading": "",
-        "meaning": "億[num]one hundred million"
+        "term": "奥山",
+        "reading": "おくやま",
+        "meaning": "remote mountain; mountain recesses"
       }
     ]
   },
@@ -35315,12 +44032,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "旅",
     "meaning_en": "travel; trip",
-    "explanation": "正解は「旅」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "旅",
+        "onyomi": "リョ",
+        "kunyomi": "たび",
+        "meaning": "Trip, Travel"
+      }
+    ],
     "similar": [
       {
-        "term": "旅",
-        "reading": "たび",
-        "meaning": "travel; trip"
+        "term": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel"
+      },
+      {
+        "term": "旅館",
+        "reading": "りょかん",
+        "meaning": "Japanese hotel"
+      },
+      {
+        "term": "旅券",
+        "reading": "りょけん",
+        "meaning": "passport"
       }
     ]
   },
@@ -35346,12 +44081,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "湖",
     "meaning_en": "lake",
-    "explanation": "正解は「湖」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "湖",
+        "onyomi": "コ",
+        "kunyomi": "みずうみ",
+        "meaning": "Lake"
+      }
+    ],
     "similar": [
       {
-        "term": "湖",
-        "reading": "みずうみ",
-        "meaning": "lake"
+        "term": "湖水",
+        "reading": "こすい",
+        "meaning": "lake; lake water"
+      },
+      {
+        "term": "湖沼",
+        "reading": "こしょう",
+        "meaning": "lake; marsh"
+      },
+      {
+        "term": "湖畔",
+        "reading": "こはん",
+        "meaning": "lakeside; lakeshore"
       }
     ]
   },
@@ -35377,27 +44130,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "おや",
     "meaning_en": "parents",
-    "explanation": "正解は「おや」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "親",
+        "onyomi": "シン",
+        "kunyomi": "おや・おや-・したしい・したしむ",
+        "meaning": "Parent, Intimacy, Relative"
+      }
+    ],
     "similar": [
       {
-        "term": "親",
-        "reading": "おや",
-        "meaning": "parents"
+        "term": "両親",
+        "reading": "りょうしん",
+        "meaning": "both parents"
       },
       {
-        "term": "むげん",
-        "reading": "",
-        "meaning": "無限[an|n]infinite"
+        "term": "親切",
+        "reading": "しんせつ",
+        "meaning": "kindness"
       },
       {
-        "term": "ホール",
-        "reading": "ホール",
-        "meaning": "hall; hole"
-      },
-      {
-        "term": "おや",
-        "reading": "おや",
-        "meaning": "parents"
+        "term": "母親",
+        "reading": "ははおや",
+        "meaning": "mother"
       }
     ]
   },
@@ -35423,12 +44179,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "課",
     "meaning_en": "counter for chapters (of a book)",
-    "explanation": "正解は「課」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "課",
+        "onyomi": "カ",
+        "kunyomi": "-",
+        "meaning": "Chapter, Lesson, Section"
+      }
+    ],
     "similar": [
       {
-        "term": "課",
-        "reading": "か",
-        "meaning": "counter for chapters (of a book)"
+        "term": "課長",
+        "reading": "かちょう",
+        "meaning": "section manager"
+      },
+      {
+        "term": "日課",
+        "reading": "にっか",
+        "meaning": "daily lesson; daily work"
+      },
+      {
+        "term": "課程",
+        "reading": "かてい",
+        "meaning": "course; curriculum"
       }
     ]
   },
@@ -35454,12 +44228,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "毒",
     "meaning_en": "poison; toxicant",
-    "explanation": "正解は「毒」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "毒",
+        "onyomi": "ドク",
+        "kunyomi": "-",
+        "meaning": "Poison, Virus, Venom"
+      }
+    ],
     "similar": [
       {
-        "term": "毒",
-        "reading": "どく",
-        "meaning": "poison; toxicant"
+        "term": "気の毒",
+        "reading": "きのどく",
+        "meaning": "pitiful; a pity"
+      },
+      {
+        "term": "お気の毒に",
+        "reading": "おきのどくに",
+        "meaning": "I'm sorry to hear that…"
+      },
+      {
+        "term": "消毒",
+        "reading": "しょうどく",
+        "meaning": "disinfection; sterilization"
       }
     ]
   },
@@ -35485,27 +44277,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "むね",
     "meaning_en": "breast; chest",
-    "explanation": "正解は「むね」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "胸",
+        "onyomi": "キョウ",
+        "kunyomi": "むね・むな-",
+        "meaning": "Bosom, Breast, Chest"
+      }
+    ],
     "similar": [
       {
-        "term": "胸",
-        "reading": "むね",
-        "meaning": "breast; chest"
+        "term": "度胸",
+        "reading": "どきょう",
+        "meaning": "courage; bravery"
       },
       {
-        "term": "まねく",
-        "reading": "",
-        "meaning": "招く[vg]invite"
+        "term": "胸中",
+        "reading": "きょうちゅう",
+        "meaning": "one's heart; one's mind"
       },
       {
-        "term": "むね",
-        "reading": "",
-        "meaning": "旨[n]intention"
-      },
-      {
-        "term": "しるす",
-        "reading": "",
-        "meaning": "印す[vg]mark"
+        "term": "胸像",
+        "reading": "きょうぞう",
+        "meaning": "bust (sculpture); half-length portrait"
       }
     ]
   },
@@ -35531,12 +44326,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "数",
     "meaning_en": "number; figure",
-    "explanation": "正解は「数」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "数",
+        "onyomi": "スウ・ス・サク・ソク・シュ",
+        "kunyomi": "かず・かぞえる・しばしば・せめる・わずらわしい",
+        "meaning": "Number, Strength, Fate"
+      }
+    ],
     "similar": [
       {
-        "term": "数",
-        "reading": "かず",
-        "meaning": "number; figure"
+        "term": "数学",
+        "reading": "すうがく",
+        "meaning": "mathematics; arithmetic"
+      },
+      {
+        "term": "数える",
+        "reading": "かぞえる",
+        "meaning": "to count"
+      },
+      {
+        "term": "数字",
+        "reading": "すうじ",
+        "meaning": "numeral; figure"
       }
     ]
   },
@@ -35562,11 +44375,24 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "謎",
     "meaning_en": "riddle; puzzle",
-    "explanation": "正解は「謎」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "謎",
+        "onyomi": "メイ・ベイ",
+        "kunyomi": "なぞ",
+        "meaning": "Riddle, Puzzle, Enigma"
+      }
+    ],
     "similar": [
       {
-        "term": "謎",
-        "reading": "なぞ",
+        "term": "謎謎",
+        "reading": "なぞなぞ",
+        "meaning": "riddle; puzzle"
+      },
+      {
+        "term": "謎々",
+        "reading": "なぞなぞ",
         "meaning": "riddle; puzzle"
       }
     ]
@@ -35593,27 +44419,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ゆか",
     "meaning_en": "floor",
-    "explanation": "正解は「ゆか」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "床",
+        "onyomi": "ショウ",
+        "kunyomi": "とこ・ゆか",
+        "meaning": "Bed, Counter For Beds, Floor"
+      }
+    ],
     "similar": [
       {
-        "term": "床",
-        "reading": "ゆか",
-        "meaning": "floor"
+        "term": "床の間",
+        "reading": "とこのま",
+        "meaning": "alcove"
       },
       {
-        "term": "へらす",
-        "reading": "",
-        "meaning": "減らす[vg]decrease"
+        "term": "床屋",
+        "reading": "とこや",
+        "meaning": "barber"
       },
       {
-        "term": "ゆか",
-        "reading": "",
-        "meaning": "床[n]floor"
-      },
-      {
-        "term": "ゲスト",
-        "reading": "ゲスト",
-        "meaning": "guest"
+        "term": "起床",
+        "reading": "きしょう",
+        "meaning": "rising; getting out of bed"
       }
     ]
   },
@@ -35639,12 +44468,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "形",
     "meaning_en": "shape",
-    "explanation": "正解は「形」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "形",
+        "onyomi": "ケイ・ギョウ",
+        "kunyomi": "かた・-がた・かたち・なり",
+        "meaning": "Shape, Form, Style"
+      }
+    ],
     "similar": [
       {
-        "term": "形",
-        "reading": "かたち",
-        "meaning": "shape"
+        "term": "人形",
+        "reading": "にんぎょう",
+        "meaning": "doll; figure"
+      },
+      {
+        "term": "図形",
+        "reading": "ずけい",
+        "meaning": "figure"
+      },
+      {
+        "term": "形容動詞",
+        "reading": "けいようどうし",
+        "meaning": "adjectival noun; quasi-adjective"
       }
     ]
   },
@@ -35670,12 +44517,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "鍋",
     "meaning_en": "saucepan; pot",
-    "explanation": "正解は「鍋」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "鍋",
+        "onyomi": "カ",
+        "kunyomi": "なべ",
+        "meaning": "Pot, Pan, Kettle"
+      }
+    ],
     "similar": [
       {
-        "term": "鍋",
-        "reading": "なべ",
-        "meaning": "saucepan; pot"
+        "term": "お鍋",
+        "reading": "おなべ",
+        "meaning": "pan; pot"
+      },
+      {
+        "term": "ちゃんこ鍋",
+        "reading": "ちゃんこなべ",
+        "meaning": "chankonabe; fish, meat, and vegetable stew traditionally served to wrestlers"
+      },
+      {
+        "term": "もつ鍋",
+        "reading": "もつなべ",
+        "meaning": "hot pot stew made with offal, vegetables and (often) miso"
       }
     ]
   },
@@ -35701,27 +44566,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ゆめ",
     "meaning_en": "dream",
-    "explanation": "正解は「ゆめ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "夢",
+        "onyomi": "ム・ボウ",
+        "kunyomi": "ゆめ・ゆめみる・くらい",
+        "meaning": "Dream, Vision, Illusion"
+      }
+    ],
     "similar": [
       {
-        "term": "夢",
-        "reading": "ゆめ",
-        "meaning": "dream"
+        "term": "夢中",
+        "reading": "むちゅう",
+        "meaning": "daze; (in a) trance"
       },
       {
-        "term": "うめる",
-        "reading": "",
-        "meaning": "埋める[vi]bury"
+        "term": "初夢",
+        "reading": "はつゆめ",
+        "meaning": "first dream of the New year (believed to foretell one's luck); dream on the night of setsubun"
       },
       {
-        "term": "ゆめ",
-        "reading": "",
-        "meaning": "夢[n]dream"
-      },
-      {
-        "term": "このむ",
-        "reading": "",
-        "meaning": "好む[vg]like"
+        "term": "夢にも",
+        "reading": "ゆめにも",
+        "meaning": "(not) in the slightest; (not) at all"
       }
     ]
   },
@@ -35747,12 +44615,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "壁",
     "meaning_en": "wall",
-    "explanation": "正解は「壁」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "壁",
+        "onyomi": "ヘキ",
+        "kunyomi": "かべ",
+        "meaning": "Wall, Lining (stomach), Fence"
+      }
+    ],
     "similar": [
       {
-        "term": "壁",
-        "reading": "かべ",
-        "meaning": "wall"
+        "term": "壁画",
+        "reading": "へきが",
+        "meaning": "fresco; mural"
+      },
+      {
+        "term": "壁紙",
+        "reading": "かべがみ",
+        "meaning": "wallpaper; wallpaper"
+      },
+      {
+        "term": "壁面",
+        "reading": "へきめん",
+        "meaning": "surface of a wall"
       }
     ]
   },
@@ -35778,12 +44664,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "波",
     "meaning_en": "wave",
-    "explanation": "正解は「波」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "波",
+        "onyomi": "ハ",
+        "kunyomi": "なみ",
+        "meaning": "Waves, Billows, Poland"
+      }
+    ],
     "similar": [
       {
-        "term": "波",
-        "reading": "なみ",
-        "meaning": "wave"
+        "term": "電波",
+        "reading": "でんぱ",
+        "meaning": "electro-magnetic wave"
+      },
+      {
+        "term": "津波",
+        "reading": "つなみ",
+        "meaning": "tsunami; tidal wave"
+      },
+      {
+        "term": "短波",
+        "reading": "たんぱ",
+        "meaning": "short wave"
       }
     ]
   },
@@ -35809,12 +44713,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "りょう",
     "meaning_en": "hostel; dormitory",
-    "explanation": "正解は「りょう」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "寮",
+        "onyomi": "リョウ",
+        "kunyomi": "-",
+        "meaning": "Dormitory, Hostel, Villa"
+      }
+    ],
     "similar": [
       {
-        "term": "寮",
-        "reading": "りょう",
-        "meaning": "hostel; dormitory"
+        "term": "寮生",
+        "reading": "りょうせい",
+        "meaning": "boarder; boarding student"
       },
       {
         "term": "きりとる",
@@ -35855,12 +44767,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "雷",
     "meaning_en": "thunder",
-    "explanation": "正解は「雷」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "雷",
+        "onyomi": "ライ",
+        "kunyomi": "かみなり・いかずち・いかづち",
+        "meaning": "Thunder, Lightning Bolt"
+      }
+    ],
     "similar": [
       {
-        "term": "雷",
-        "reading": "かみなり",
-        "meaning": "thunder"
+        "term": "地雷",
+        "reading": "じらい",
+        "meaning": "land mine; topic that sets someone off"
+      },
+      {
+        "term": "機雷",
+        "reading": "きらい",
+        "meaning": "(sea) mine"
+      },
+      {
+        "term": "落雷",
+        "reading": "らくらい",
+        "meaning": "lightning strike; lightning bolt"
       }
     ]
   },
@@ -35886,12 +44816,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "涙",
     "meaning_en": "tear",
-    "explanation": "正解は「涙」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "涙",
+        "onyomi": "ルイ・レイ",
+        "kunyomi": "なみだ",
+        "meaning": "Tears, Sympathy"
+      }
+    ],
     "similar": [
       {
-        "term": "涙",
-        "reading": "なみだ",
-        "meaning": "tear"
+        "term": "催涙",
+        "reading": "さいるい",
+        "meaning": "tear-inducing"
+      },
+      {
+        "term": "感涙",
+        "reading": "かんるい",
+        "meaning": "tears (from being deeply moved); tears of gratitude"
+      },
+      {
+        "term": "涙ぐましい",
+        "reading": "なみだぐましい",
+        "meaning": "touching; moving"
       }
     ]
   },
@@ -35917,27 +44865,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "りょう",
     "meaning_en": "quantity; amount",
-    "explanation": "正解は「りょう」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "量",
+        "onyomi": "リョウ",
+        "kunyomi": "はかる",
+        "meaning": "Quantity, Measure, Weight"
+      }
+    ],
     "similar": [
       {
-        "term": "量",
-        "reading": "りょう",
-        "meaning": "quantity; amount"
+        "term": "分量",
+        "reading": "ぶんりょう",
+        "meaning": "amount; quantity"
       },
       {
-        "term": "たんきな",
-        "reading": "たんきな",
-        "meaning": ""
+        "term": "測量",
+        "reading": "そくりょう",
+        "meaning": "measurement; surveying"
       },
       {
-        "term": "とりあう",
-        "reading": "",
-        "meaning": "取り合う[vg]to struggle for"
-      },
-      {
-        "term": "りょう",
-        "reading": "",
-        "meaning": "寮[n]dormitory"
+        "term": "重量",
+        "reading": "じゅうりょう",
+        "meaning": "(1) weight; (2) heavyweight boxer"
       }
     ]
   },
@@ -35963,12 +44914,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "皮",
     "meaning_en": "skin; hide",
-    "explanation": "正解は「皮」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "皮",
+        "onyomi": "ヒ",
+        "kunyomi": "かわ",
+        "meaning": "Pelt, Skin, Hide"
+      }
+    ],
     "similar": [
       {
-        "term": "皮",
-        "reading": "かわ",
-        "meaning": "skin; hide"
+        "term": "毛皮",
+        "reading": "けがわ",
+        "meaning": "fur; skin"
+      },
+      {
+        "term": "皮肉",
+        "reading": "ひにく",
+        "meaning": "cynicism; sarcasm"
+      },
+      {
+        "term": "皮膚",
+        "reading": "ひふ",
+        "meaning": "skin"
       }
     ]
   },
@@ -35994,12 +44963,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "庭",
     "meaning_en": "garden",
-    "explanation": "正解は「庭」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "庭",
+        "onyomi": "テイ",
+        "kunyomi": "にわ",
+        "meaning": "Courtyard, Garden, Yard"
+      }
+    ],
     "similar": [
       {
-        "term": "庭",
-        "reading": "にわ",
-        "meaning": "garden"
+        "term": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
+      },
+      {
+        "term": "校庭",
+        "reading": "こうてい",
+        "meaning": "campus"
+      },
+      {
+        "term": "中庭",
+        "reading": "なかにわ",
+        "meaning": "courtyard; quadrangle"
       }
     ]
   },
@@ -36025,27 +45012,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "れつ",
     "meaning_en": "queue; line",
-    "explanation": "正解は「れつ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "列",
+        "onyomi": "レツ・レ",
+        "kunyomi": "-",
+        "meaning": "File, Row, Rank"
+      }
+    ],
     "similar": [
       {
-        "term": "列",
-        "reading": "れつ",
-        "meaning": "queue; line"
+        "term": "列車",
+        "reading": "れっしゃ",
+        "meaning": "train (ordinary)"
       },
       {
-        "term": "つきる",
-        "reading": "",
-        "meaning": "尽きる[vi]to be exhausted"
+        "term": "列島",
+        "reading": "れっとう",
+        "meaning": "chain of islands"
       },
       {
-        "term": "はかる",
-        "reading": "",
-        "meaning": "図る[vg]plot"
-      },
-      {
-        "term": "れつ",
-        "reading": "",
-        "meaning": "列[n]row"
+        "term": "行列",
+        "reading": "ぎょうれつ",
+        "meaning": "(1) line; procession"
       }
     ]
   },
@@ -36071,12 +45061,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "缶",
     "meaning_en": "can; tin",
-    "explanation": "正解は「缶」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "缶",
+        "onyomi": "カン",
+        "kunyomi": "かま",
+        "meaning": "Tin Can, Container, Jar Radical (no. 121)"
+      }
+    ],
     "similar": [
       {
-        "term": "缶",
-        "reading": "かん",
-        "meaning": "can; tin"
+        "term": "缶詰",
+        "reading": "かんづめ",
+        "meaning": "packing (in cans); canning"
+      },
+      {
+        "term": "薬缶",
+        "reading": "やかん",
+        "meaning": "kettle"
+      },
+      {
+        "term": "ドラム缶",
+        "reading": "ドラムかん",
+        "meaning": "drum (e.g. oil, gasoline); metal barrel"
       }
     ]
   },
@@ -36102,12 +45110,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "熱",
     "meaning_en": "fever",
-    "explanation": "正解は「熱」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "熱",
+        "onyomi": "ネツ",
+        "kunyomi": "あつい",
+        "meaning": "Heat, Temperature, Fever"
+      }
+    ],
     "similar": [
       {
-        "term": "熱",
-        "reading": "ねつ",
-        "meaning": "fever"
+        "term": "熱い",
+        "reading": "あつい",
+        "meaning": "hot to the touch"
+      },
+      {
+        "term": "熱中",
+        "reading": "ねっちゅう",
+        "meaning": "nuts!; enthusiasm"
+      },
+      {
+        "term": "熱帯",
+        "reading": "ねったい",
+        "meaning": "tropics"
       }
     ]
   },
@@ -36133,27 +45159,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "きょく",
     "meaning_en": "tune; piece of music",
-    "explanation": "正解は「きょく」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "曲",
+        "onyomi": "キョク",
+        "kunyomi": "まがる・まげる・くま",
+        "meaning": "Bend, Music, Melody"
+      }
+    ],
     "similar": [
       {
-        "term": "曲",
-        "reading": "きょく",
-        "meaning": "tune; piece of music"
+        "term": "曲る",
+        "reading": "まがる",
+        "meaning": "to turn; to bend"
       },
       {
-        "term": "じぜんに",
-        "reading": "じぜんに",
-        "meaning": ""
+        "term": "作曲",
+        "reading": "さっきょく",
+        "meaning": "composition; setting (of music)"
       },
       {
-        "term": "だいぶ",
-        "reading": "",
-        "meaning": "大分[ad]very"
-      },
-      {
-        "term": "とうぶん",
-        "reading": "",
-        "meaning": "糖分[n]sugar content"
+        "term": "曲げる",
+        "reading": "まげる",
+        "meaning": "to bend; to crook"
       }
     ]
   },
@@ -36179,12 +45208,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "箸",
     "meaning_en": "chopsticks",
-    "explanation": "正解は「箸」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "箸",
+        "onyomi": "チョ・チャク",
+        "kunyomi": "はし",
+        "meaning": "Chopsticks"
+      }
+    ],
     "similar": [
       {
-        "term": "箸",
-        "reading": "はし",
-        "meaning": "chopsticks"
+        "term": "割り箸",
+        "reading": "わりばし",
+        "meaning": "dispensable chopsticks; throwaway chopsticks"
       }
     ]
   },
@@ -36210,27 +45247,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "各地",
     "meaning_en": "every place; various places",
-    "explanation": "正解は「各地」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "各",
+        "onyomi": "カク",
+        "kunyomi": "おのおの",
+        "meaning": "Each, Every, Either"
+      },
+      {
+        "kanji": "地",
+        "onyomi": "チ・ジ",
+        "kunyomi": "-",
+        "meaning": "Ground, Earth"
+      }
+    ],
     "similar": [
       {
-        "term": "各地",
-        "reading": "かくち",
-        "meaning": "every place; various places"
+        "term": "各々",
+        "reading": "おのおの",
+        "meaning": "each; every"
       },
       {
-        "term": "無視",
-        "reading": "むし",
-        "meaning": "disregard; ignore"
+        "term": "各自",
+        "reading": "かくじ",
+        "meaning": "individual; each"
       },
       {
-        "term": "政府",
-        "reading": "せいふ",
-        "meaning": "government; administration"
+        "term": "各種",
+        "reading": "かくしゅ",
+        "meaning": "every kind; all sorts"
       },
       {
-        "term": "悪化",
-        "reading": "あっか",
-        "meaning": "deterioration; growing worse"
+        "term": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
+      },
+      {
+        "term": "地図",
+        "reading": "ちず",
+        "meaning": "map"
       }
     ]
   },
@@ -36256,27 +45312,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "かっこく",
     "meaning_en": "each country; every country",
-    "explanation": "正解は「かっこく」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "各",
+        "onyomi": "カク",
+        "kunyomi": "おのおの",
+        "meaning": "Each, Every, Either"
+      },
+      {
+        "kanji": "国",
+        "onyomi": "コク",
+        "kunyomi": "くに",
+        "meaning": "Country"
+      }
+    ],
     "similar": [
       {
-        "term": "各国",
-        "reading": "かっこく",
-        "meaning": "each country; every country"
+        "term": "各々",
+        "reading": "おのおの",
+        "meaning": "each; every"
       },
       {
-        "term": "ユニーク",
-        "reading": "ユニーク",
-        "meaning": "unique"
+        "term": "各地",
+        "reading": "かくち",
+        "meaning": "every place; various places"
       },
       {
-        "term": "むかう",
-        "reading": "",
-        "meaning": "向かう[vg]face"
+        "term": "各自",
+        "reading": "かくじ",
+        "meaning": "individual; each"
       },
       {
-        "term": "おりたたむ",
-        "reading": "",
-        "meaning": "折り畳む[vg]to fold into layers"
+        "term": "外国",
+        "reading": "がいこく",
+        "meaning": "foreign country"
+      },
+      {
+        "term": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
       }
     ]
   },
@@ -36302,27 +45377,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "消費",
     "meaning_en": "consumption; expenditure",
-    "explanation": "正解は「消費」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "消",
+        "onyomi": "ショウ",
+        "kunyomi": "きえる・けす",
+        "meaning": "Extinguish, Blow Out, Turn Off"
+      },
+      {
+        "kanji": "費",
+        "onyomi": "ヒ",
+        "kunyomi": "ついやす・ついえる",
+        "meaning": "Expense, Cost, Spend"
+      }
+    ],
     "similar": [
       {
-        "term": "消費",
-        "reading": "しょうひ",
-        "meaning": "consumption; expenditure"
+        "term": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear"
       },
       {
-        "term": "不足",
-        "reading": "ふそく",
-        "meaning": "insufficiency; shortage"
+        "term": "消す",
+        "reading": "けす",
+        "meaning": "to erase; to turn off power"
       },
       {
-        "term": "当分",
-        "reading": "とうぶん",
-        "meaning": "for the present; for the time being"
+        "term": "消しゴム",
+        "reading": "けしゴム",
+        "meaning": "eraser"
       },
       {
-        "term": "無視",
-        "reading": "むし",
-        "meaning": "disregard; ignore"
+        "term": "費用",
+        "reading": "ひよう",
+        "meaning": "cost; expense"
+      },
+      {
+        "term": "光熱費",
+        "reading": "こうねつひ",
+        "meaning": "cost of fuel and light"
       }
     ]
   },
@@ -36348,27 +45442,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "女性",
     "meaning_en": "woman",
-    "explanation": "正解は「女性」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "女",
+        "onyomi": "ジョ・ニョ・ニョウ",
+        "kunyomi": "おんな・め",
+        "meaning": "Woman, Female"
+      },
+      {
+        "kanji": "性",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "さが",
+        "meaning": "Sex, Gender, Nature"
+      }
+    ],
     "similar": [
       {
-        "term": "女性",
-        "reading": "じょせい",
-        "meaning": "woman"
+        "term": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl"
       },
       {
-        "term": "新品",
-        "reading": "しんぴん",
-        "meaning": "brand-new article; new item"
+        "term": "彼女",
+        "reading": "かのじょ",
+        "meaning": "she; girlfriend"
       },
       {
-        "term": "相性",
-        "reading": "あいしょう",
-        "meaning": "affinity; compatibility"
+        "term": "女優",
+        "reading": "じょゆう",
+        "meaning": "actress"
       },
       {
-        "term": "不平",
-        "reading": "ふへい",
-        "meaning": "complaint; discontent"
+        "term": "男性",
+        "reading": "だんせい",
+        "meaning": "male"
+      },
+      {
+        "term": "性格",
+        "reading": "せいかく",
+        "meaning": "character; personality"
       }
     ]
   },
@@ -36394,27 +45507,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ふそく（する）",
     "meaning_en": "insufficiency; shortage",
-    "explanation": "正解は「ふそく（する）」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
+      },
+      {
+        "kanji": "足",
+        "onyomi": "ソク",
+        "kunyomi": "あし・たりる・たる・たす",
+        "meaning": "Leg, Foot, Be Sufficient"
+      }
+    ],
     "similar": [
       {
-        "term": "不足",
-        "reading": "ふそく",
-        "meaning": "insufficiency; shortage"
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
       },
       {
-        "term": "せっきょくてきな",
-        "reading": "せっきょくてきな",
-        "meaning": ""
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       },
       {
-        "term": "はなしがあう",
-        "reading": "はなしがあう",
-        "meaning": ""
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
       },
       {
-        "term": "ふそくする",
-        "reading": "ふそくする",
-        "meaning": ""
+        "term": "足; 脚",
+        "reading": "あし",
+        "meaning": "foot; leg"
+      },
+      {
+        "term": "足す",
+        "reading": "たす",
+        "meaning": "to add a number"
       }
     ]
   },
@@ -36440,27 +45572,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "変化",
     "meaning_en": "goblin; ghost",
-    "explanation": "正解は「変化」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "変",
+        "onyomi": "ヘン",
+        "kunyomi": "かわる・かわり・かえる",
+        "meaning": "Unusual, Change, Strange"
+      },
+      {
+        "kanji": "化",
+        "onyomi": "カ・ケ",
+        "kunyomi": "ばける・ばかす・ふける・けする",
+        "meaning": "Change, Take The Form Of, Influence"
+      }
+    ],
     "similar": [
       {
-        "term": "変化",
-        "reading": "へんか",
-        "meaning": "goblin; ghost"
+        "term": "変える",
+        "reading": "かえる",
+        "meaning": "to change"
       },
       {
-        "term": "選挙",
-        "reading": "せんきょ",
-        "meaning": "election"
+        "term": "変わる",
+        "reading": "かわる",
+        "meaning": "to change"
       },
       {
-        "term": "憲法",
-        "reading": "けんぽう",
-        "meaning": "constitution"
+        "term": "変更",
+        "reading": "へんこう",
+        "meaning": "change; modification"
       },
       {
-        "term": "貴店",
-        "reading": "きてん",
-        "meaning": ""
+        "term": "文化",
+        "reading": "ぶんか",
+        "meaning": "culture"
+      },
+      {
+        "term": "化学",
+        "reading": "かがく",
+        "meaning": "chemistry"
       }
     ]
   },
@@ -36486,27 +45637,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "不動産",
     "meaning_en": "real estate",
-    "explanation": "正解は「不動産」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
+      },
+      {
+        "kanji": "動",
+        "onyomi": "ドウ",
+        "kunyomi": "うごく・うごかす",
+        "meaning": "Move, Motion, Change"
+      },
+      {
+        "kanji": "産",
+        "onyomi": "サン",
+        "kunyomi": "うむ・うまれる・うぶ-・むす",
+        "meaning": "Products, Bear, Give Birth"
+      }
+    ],
     "similar": [
       {
-        "term": "不動産",
-        "reading": "ふどうさん",
-        "meaning": "real estate"
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
       },
       {
-        "term": "困難な",
-        "reading": "こんなんな",
-        "meaning": ""
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       },
       {
-        "term": "揃える",
-        "reading": "そろえる",
-        "meaning": "to put things in order; to arrange"
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
       },
       {
-        "term": "起こす",
-        "reading": "おこす",
-        "meaning": "to raise; to cause"
+        "term": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
+      },
+      {
+        "term": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automobile"
       }
     ]
   },
@@ -36532,27 +45708,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しんにゅうせい",
     "meaning_en": "freshman; first-year student",
-    "explanation": "正解は「しんにゅうせい」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "新",
+        "onyomi": "シン",
+        "kunyomi": "あたらしい・あらた・あら-・にい-",
+        "meaning": "New"
+      },
+      {
+        "kanji": "入",
+        "onyomi": "ニュウ・ジュ",
+        "kunyomi": "いる・-いる・-いり・いれる・-いれ・はいる",
+        "meaning": "Enter, Insert"
+      },
+      {
+        "kanji": "生",
+        "onyomi": "セイ・ショウ",
+        "kunyomi": "いきる・いかす・いける・うまれる・うまれる・うまれ・うまれ・うむ・おう・はえる・はやす・き・なま・なま-・なる・なす・むす・-う",
+        "meaning": "Life, Genuine, Birth"
+      }
+    ],
     "similar": [
       {
-        "term": "新入生",
-        "reading": "しんにゅうせい",
-        "meaning": "freshman; first-year student"
+        "term": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new"
       },
       {
-        "term": "せいじょうな",
-        "reading": "せいじょうな",
-        "meaning": ""
+        "term": "新聞",
+        "reading": "しんぶん",
+        "meaning": "newspaper"
       },
       {
-        "term": "こうきゅうかん",
-        "reading": "こうきゅうかん",
-        "meaning": ""
+        "term": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "newspaper company"
       },
       {
-        "term": "そそっかしい",
-        "reading": "そそっかしい",
-        "meaning": "careless; thoughtless"
+        "term": "入る",
+        "reading": "はいる",
+        "meaning": "to enter; to contain"
+      },
+      {
+        "term": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in"
       }
     ]
   },
@@ -36577,28 +45778,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "新鮮な",
-    "meaning_en": "JLPT N2: 新鮮な",
-    "explanation": "正解は「新鮮な」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "新",
+        "onyomi": "シン",
+        "kunyomi": "あたらしい・あらた・あら-・にい-",
+        "meaning": "New"
+      },
+      {
+        "kanji": "鮮",
+        "onyomi": "セン",
+        "kunyomi": "あざやか",
+        "meaning": "Fresh, Vivid, Clear"
+      }
+    ],
     "similar": [
       {
-        "term": "新鮮な",
-        "reading": "しんせんな",
-        "meaning": ""
+        "term": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new"
       },
       {
-        "term": "手早い",
-        "reading": "てばやい",
-        "meaning": "nimble; quick"
+        "term": "新聞",
+        "reading": "しんぶん",
+        "meaning": "newspaper"
       },
       {
-        "term": "おごる",
-        "reading": "",
-        "meaning": "to give (someone) a treat"
+        "term": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "newspaper company"
       },
       {
-        "term": "揺れる",
-        "reading": "ゆれる",
-        "meaning": "to shake; to sway"
+        "term": "新鮮",
+        "reading": "しんせん",
+        "meaning": "fresh"
+      },
+      {
+        "term": "鮮やか",
+        "reading": "あざやか",
+        "meaning": "vivid; clear"
       }
     ]
   },
@@ -36623,28 +45843,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "不安な",
-    "meaning_en": "JLPT N2: 不安な",
-    "explanation": "正解は「不安な」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
+      },
+      {
+        "kanji": "安",
+        "onyomi": "アン",
+        "kunyomi": "やすい・やすまる・やす・やすらか",
+        "meaning": "Relax, Cheap, Low"
+      }
+    ],
     "similar": [
       {
-        "term": "不安な",
-        "reading": "ふあんな",
-        "meaning": ""
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
       },
       {
-        "term": "かゆい",
-        "reading": "",
-        "meaning": "itchy; itching"
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       },
       {
-        "term": "パスタ",
-        "reading": "パスタ",
-        "meaning": "pasta"
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
       },
       {
-        "term": "命じる",
-        "reading": "めいじる",
-        "meaning": "to order; to command"
+        "term": "安い",
+        "reading": "やすい",
+        "meaning": "cheap"
+      },
+      {
+        "term": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
       }
     ]
   },
@@ -36669,28 +45908,53 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ふしぎな",
-    "meaning_en": "JLPT N2: 不思議な",
-    "explanation": "正解は「ふしぎな」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
+      },
+      {
+        "kanji": "思",
+        "onyomi": "シ",
+        "kunyomi": "おもう・おもえらく・おぼす",
+        "meaning": "Think"
+      },
+      {
+        "kanji": "議",
+        "onyomi": "ギ",
+        "kunyomi": "-",
+        "meaning": "Deliberation, Consultation, Debate"
+      }
+    ],
     "similar": [
       {
-        "term": "不思議な",
-        "reading": "ふしぎな",
-        "meaning": ""
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
       },
       {
-        "term": "ぎりぎり",
-        "reading": "",
-        "meaning": "with gnashing sound"
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       },
       {
-        "term": "ふしぎな",
-        "reading": "ふしぎな",
-        "meaning": ""
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
       },
       {
-        "term": "たたむ",
-        "reading": "",
-        "meaning": "畳む[vg]fold"
+        "term": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
+      },
+      {
+        "term": "思う",
+        "reading": "おもう",
+        "meaning": "to think; to feel"
       }
     ]
   },
@@ -36715,28 +45979,47 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "不便な",
-    "meaning_en": "JLPT N2: 不便な",
-    "explanation": "正解は「不便な」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "不",
+        "onyomi": "フ・ブ",
+        "kunyomi": "-",
+        "meaning": "Negative, Non-, Bad"
+      },
+      {
+        "kanji": "便",
+        "onyomi": "ベン・ビン",
+        "kunyomi": "たより",
+        "meaning": "Convenience, Facility, Excrement"
+      }
+    ],
     "similar": [
       {
-        "term": "不便な",
-        "reading": "ふべんな",
-        "meaning": ""
+        "term": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
       },
       {
-        "term": "目指す",
-        "reading": "めざす",
-        "meaning": "to aim at; to have an eye on"
+        "term": "不利",
+        "reading": "ふり",
+        "meaning": "disadvantage; handicap"
       },
       {
-        "term": "適切な",
-        "reading": "てきせつな",
-        "meaning": ""
+        "term": "不可",
+        "reading": "ふか",
+        "meaning": "wrong; bad"
       },
       {
-        "term": "新たな",
-        "reading": "あらたな",
-        "meaning": ""
+        "term": "便利",
+        "reading": "べんり",
+        "meaning": "useful; convenient"
+      },
+      {
+        "term": "郵便局",
+        "reading": "ゆうびんきょく",
+        "meaning": "post office"
       }
     ]
   },
@@ -36762,13 +46045,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "アイデア",
     "meaning_en": "idea",
-    "explanation": "正解は「アイデア」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "アイデア",
-        "reading": "アイデア",
-        "meaning": "idea"
-      },
       {
         "term": "アシスタント",
         "reading": "アシスタント",
@@ -36808,13 +46087,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ウイルス",
     "meaning_en": "virus",
-    "explanation": "正解は「ウイルス」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ウイルス",
-        "reading": "ウイルス",
-        "meaning": "virus"
-      },
       {
         "term": "ダイナミック",
         "reading": "ダイナミック",
@@ -36854,27 +46129,52 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "クラブ",
     "meaning_en": "club; crab",
-    "explanation": "正解は「クラブ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "倶",
+        "onyomi": "グ・ク",
+        "kunyomi": "ともに",
+        "meaning": "Both"
+      },
+      {
+        "kanji": "楽",
+        "onyomi": "ガク・ラク・ゴウ",
+        "kunyomi": "たのしい・たのしむ・このむ",
+        "meaning": "Music, Comfort, Ease"
+      },
+      {
+        "kanji": "部",
+        "onyomi": "ブ",
+        "kunyomi": "-べ",
+        "meaning": "Section, Bureau, Dept"
+      }
+    ],
     "similar": [
       {
-        "term": "クラブ",
+        "term": "ファン倶楽部",
+        "reading": "ファンクラブ",
+        "meaning": "fan club"
+      },
+      {
+        "term": "倶楽部",
         "reading": "クラブ",
-        "meaning": "club; crab"
+        "meaning": "club; fraternity"
       },
       {
-        "term": "シーン",
-        "reading": "シーン",
-        "meaning": "scene"
+        "term": "楽しい",
+        "reading": "たのしい",
+        "meaning": "enjoyable"
       },
       {
-        "term": "ホール",
-        "reading": "ホール",
-        "meaning": "hall; hole"
+        "term": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
       },
       {
-        "term": "レッスン",
-        "reading": "レッスン",
-        "meaning": "lesson"
+        "term": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "joy"
       }
     ]
   },
@@ -36900,13 +46200,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "エネルギー",
     "meaning_en": "(n) energy (de: Energie)",
-    "explanation": "正解は「エネルギー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "エネルギー",
-        "reading": "エネルギー",
-        "meaning": "(n) energy (de: Energie)"
-      },
       {
         "term": "イラスト",
         "reading": "イラスト",
@@ -36946,13 +46242,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "グラウンド",
     "meaning_en": "sports ground",
-    "explanation": "正解は「グラウンド」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "グラウンド",
-        "reading": "グラウンド",
-        "meaning": "sports ground"
-      },
       {
         "term": "メーカー",
         "reading": "メーカー",
@@ -36992,27 +46284,46 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "アジア",
     "meaning_en": "Asia",
-    "explanation": "正解は「アジア」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "亜",
+        "onyomi": "ア",
+        "kunyomi": "つぐ",
+        "meaning": "Asia, Rank Next, Come After"
+      },
+      {
+        "kanji": "細",
+        "onyomi": "サイ",
+        "kunyomi": "ほそい・ほそる・こまか・こまかい",
+        "meaning": "Dainty, Get Thin, Taper"
+      }
+    ],
     "similar": [
       {
-        "term": "アジア",
-        "reading": "",
-        "meaning": "Asia"
+        "term": "亜科",
+        "reading": "あか",
+        "meaning": "suborder; subfamily"
       },
       {
-        "term": "プレッシャー",
-        "reading": "プレッシャー",
-        "meaning": "pressure"
+        "term": "亜熱帯",
+        "reading": "あねったい",
+        "meaning": "subtropics"
       },
       {
-        "term": "セミナー",
-        "reading": "セミナー",
-        "meaning": "seminar"
+        "term": "亜爾加里",
+        "reading": "アルカリ",
+        "meaning": "alkali"
       },
       {
-        "term": "スープ",
-        "reading": "スープ",
-        "meaning": "(Western) soup"
+        "term": "細い",
+        "reading": "ほそい",
+        "meaning": "thin"
+      },
+      {
+        "term": "細かい",
+        "reading": "こまかい",
+        "meaning": "small; fine"
       }
     ]
   },
@@ -37038,13 +46349,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "エプロン",
     "meaning_en": "apron",
-    "explanation": "正解は「エプロン」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "エプロン",
-        "reading": "エプロン",
-        "meaning": "apron"
-      },
       {
         "term": "ゼミ",
         "reading": "ゼミ",
@@ -37084,13 +46391,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "グループ",
     "meaning_en": "group",
-    "explanation": "正解は「グループ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "グループ",
-        "reading": "グループ",
-        "meaning": "group"
-      },
       {
         "term": "ビュッフェ",
         "reading": "ビュッフェ",
@@ -37130,13 +46433,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "コマーシャル",
     "meaning_en": "a commercial",
-    "explanation": "正解は「コマーシャル」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "コマーシャル",
-        "reading": "コマーシャル",
-        "meaning": "a commercial"
-      },
       {
         "term": "サークル",
         "reading": "サークル",
@@ -37176,13 +46475,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "オフィス",
     "meaning_en": "office",
-    "explanation": "正解は「オフィス」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "オフィス",
-        "reading": "オフィス",
-        "meaning": "office"
-      },
       {
         "term": "ロケット",
         "reading": "ロケット",
@@ -37222,13 +46517,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "コンビニ",
     "meaning_en": "convenience store",
-    "explanation": "正解は「コンビニ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "コンビニ",
-        "reading": "コンビニ",
-        "meaning": "convenience store"
-      },
       {
         "term": "バーコード",
         "reading": "バーコード",
@@ -37268,13 +46559,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "アナウンサー",
     "meaning_en": "announcer",
-    "explanation": "正解は「アナウンサー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "アナウンサー",
-        "reading": "アナウンサー",
-        "meaning": "announcer"
-      },
       {
         "term": "トンネル",
         "reading": "トンネル",
@@ -37314,13 +46601,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "オリンピック",
     "meaning_en": "Olympics",
-    "explanation": "正解は「オリンピック」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "オリンピック",
-        "reading": "オリンピック",
-        "meaning": "Olympics"
-      },
       {
         "term": "ソフトウェア",
         "reading": "ソフトウェア",
@@ -37360,13 +46643,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "カップ",
     "meaning_en": "cup",
-    "explanation": "正解は「カップ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "カップ",
-        "reading": "カップ",
-        "meaning": "cup"
-      },
       {
         "term": "コンビニ",
         "reading": "コンビニ",
@@ -37406,13 +46685,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "サークル",
     "meaning_en": "circle; sports club (i.e. at a company)",
-    "explanation": "正解は「サークル」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "サークル",
-        "reading": "サークル",
-        "meaning": "circle; sports club (i.e. at a company)"
-      },
       {
         "term": "パスタ",
         "reading": "パスタ",
@@ -37452,18 +46727,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "カフェ",
     "meaning_en": "café; cafe",
-    "explanation": "正解は「カフェ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "カフェ",
-        "reading": "カフェ",
-        "meaning": "café; cafe"
-      },
-      {
-        "term": "オリエンテーション",
-        "reading": "オリエンテーション",
-        "meaning": "orientation"
-      },
       {
         "term": "フルーツ",
         "reading": "フルーツ",
@@ -37473,6 +46739,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "term": "トンネル",
         "reading": "トンネル",
         "meaning": "tunnel"
+      },
+      {
+        "term": "カフェイン",
+        "reading": "カフェイン",
+        "meaning": "caffeine"
+      },
+      {
+        "term": "カフェテリア",
+        "reading": "カフェテリア",
+        "meaning": "cafeteria"
       }
     ]
   },
@@ -37498,13 +46774,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "サイト",
     "meaning_en": "site",
-    "explanation": "正解は「サイト」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "サイト",
-        "reading": "サイト",
-        "meaning": "site"
-      },
       {
         "term": "ムード",
         "reading": "ムード",
@@ -37544,13 +46816,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "アレルギー",
     "meaning_en": "allergy",
-    "explanation": "正解は「アレルギー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "アレルギー",
-        "reading": "アレルギー",
-        "meaning": "allergy"
-      },
       {
         "term": "ブランコ",
         "reading": "ぶらんこ",
@@ -37590,27 +46858,30 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "カラオケ",
     "meaning_en": "空オケ[n]karaoke",
-    "explanation": "正解は「カラオケ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [
+      {
+        "kanji": "空",
+        "onyomi": "クウ",
+        "kunyomi": "そら・あく・あき・あける・から・すく・すかす・むなしい",
+        "meaning": "Empty, Sky, Void"
+      }
+    ],
     "similar": [
       {
-        "term": "カラオケ",
-        "reading": "",
-        "meaning": "空オケ[n]karaoke"
+        "term": "空く",
+        "reading": "あく",
+        "meaning": "to open; to become empty"
       },
       {
-        "term": "ファッション",
-        "reading": "ファッション",
-        "meaning": "fashion"
+        "term": "空気",
+        "reading": "くうき",
+        "meaning": "air; atmosphere"
       },
       {
-        "term": "リズム",
-        "reading": "リズム",
-        "meaning": "rhythm"
-      },
-      {
-        "term": "ヒント",
-        "reading": "ヒント",
-        "meaning": "hint"
+        "term": "空港",
+        "reading": "くうこう",
+        "meaning": "airport"
       }
     ]
   },
@@ -37636,13 +46907,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "サンプル",
     "meaning_en": "sample",
-    "explanation": "正解は「サンプル」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "サンプル",
-        "reading": "サンプル",
-        "meaning": "sample"
-      },
       {
         "term": "ツアーガイド",
         "reading": "つあーがいど",
@@ -37682,13 +46949,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "アンケート",
     "meaning_en": "(fr:) (n) questionnaire (fr: enquete); survey",
-    "explanation": "正解は「アンケート」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "アンケート",
-        "reading": "アンケート",
-        "meaning": "(fr:) (n) questionnaire (fr: enquete); survey"
-      },
       {
         "term": "ポット",
         "reading": "ポット",
@@ -37728,13 +46991,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "カルチャー",
     "meaning_en": "culture",
-    "explanation": "正解は「カルチャー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "カルチャー",
-        "reading": "カルチャー",
-        "meaning": "culture"
-      },
       {
         "term": "カルシウム",
         "reading": "カルシウム",
@@ -37774,13 +47033,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ジャケット",
     "meaning_en": "jacket",
-    "explanation": "正解は「ジャケット」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ジャケット",
-        "reading": "ジャケット",
-        "meaning": "jacket"
-      },
       {
         "term": "ボランティア",
         "reading": "ボランティア",
@@ -37820,13 +47075,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "イベント",
     "meaning_en": "event",
-    "explanation": "正解は「イベント」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "イベント",
-        "reading": "イベント",
-        "meaning": "event"
-      },
       {
         "term": "ペンキ",
         "reading": "",
@@ -37866,13 +47117,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "カロリー",
     "meaning_en": "calorie",
-    "explanation": "正解は「カロリー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "カロリー",
-        "reading": "カロリー",
-        "meaning": "calorie"
-      },
       {
         "term": "インク",
         "reading": "インク",
@@ -37912,13 +47159,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ジャム",
     "meaning_en": "jam",
-    "explanation": "正解は「ジャム」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ジャム",
-        "reading": "ジャム",
-        "meaning": "jam"
-      },
       {
         "term": "シンプル",
         "reading": "シンプル",
@@ -37958,13 +47201,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "スープ",
     "meaning_en": "(Western) soup",
-    "explanation": "正解は「スープ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "スープ",
-        "reading": "スープ",
-        "meaning": "(Western) soup"
-      },
       {
         "term": "ハンバーグ",
         "reading": "ハンバーグ",
@@ -38004,13 +47243,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "インク",
     "meaning_en": "ink",
-    "explanation": "正解は「インク」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "インク",
-        "reading": "インク",
-        "meaning": "ink"
-      },
       {
         "term": "コーヒーカップ",
         "reading": "コーヒーカップ",
@@ -38050,13 +47285,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "クイズ",
     "meaning_en": "quiz",
-    "explanation": "正解は「クイズ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "クイズ",
-        "reading": "クイズ",
-        "meaning": "quiz"
-      },
       {
         "term": "プレッシャー",
         "reading": "プレッシャー",
@@ -38096,13 +47327,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ストーリー",
     "meaning_en": "story",
-    "explanation": "正解は「ストーリー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ストーリー",
-        "reading": "ストーリー",
-        "meaning": "story"
-      },
       {
         "term": "モデル",
         "reading": "モデル",
@@ -38142,13 +47369,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "クッキー",
     "meaning_en": "cookie",
-    "explanation": "正解は「クッキー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "クッキー",
-        "reading": "クッキー",
-        "meaning": "cookie"
-      },
       {
         "term": "ショック",
         "reading": "ショック",
@@ -38188,13 +47411,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "セール",
     "meaning_en": "sale",
-    "explanation": "正解は「セール」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "セール",
-        "reading": "セール",
-        "meaning": "sale"
-      },
       {
         "term": "チラシ",
         "reading": "ちらし",
@@ -38234,13 +47453,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ピクニック",
     "meaning_en": "picnic",
-    "explanation": "正解は「ピクニック」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ピクニック",
-        "reading": "ピクニック",
-        "meaning": "picnic"
-      },
       {
         "term": "アウト",
         "reading": "",
@@ -38280,13 +47495,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ホール",
     "meaning_en": "hall; hole",
-    "explanation": "正解は「ホール」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ホール",
-        "reading": "ホール",
-        "meaning": "hall; hole"
-      },
       {
         "term": "プロセス",
         "reading": "プロセス",
@@ -38326,13 +47537,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "セミナー",
     "meaning_en": "seminar",
-    "explanation": "正解は「セミナー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "セミナー",
-        "reading": "セミナー",
-        "meaning": "seminar"
-      },
       {
         "term": "マナー",
         "reading": "マナー",
@@ -38372,13 +47579,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ファスナー",
     "meaning_en": "fastener; zipper",
-    "explanation": "正解は「ファスナー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ファスナー",
-        "reading": "ファスナー",
-        "meaning": "fastener; zipper"
-      },
       {
         "term": "ボウリング",
         "reading": "ボウリング",
@@ -38418,13 +47621,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ポイント",
     "meaning_en": "point",
-    "explanation": "正解は「ポイント」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ポイント",
-        "reading": "ポイント",
-        "meaning": "point"
-      },
       {
         "term": "プリンター",
         "reading": "",
@@ -38464,13 +47663,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "センター",
     "meaning_en": "a center",
-    "explanation": "正解は「センター」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "センター",
-        "reading": "センター",
-        "meaning": "a center"
-      },
       {
         "term": "タイヤ",
         "reading": "タイヤ",
@@ -38510,13 +47705,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ポスター",
     "meaning_en": "poster",
-    "explanation": "正解は「ポスター」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ポスター",
-        "reading": "ポスター",
-        "meaning": "poster"
-      },
       {
         "term": "ショルダーバッグ",
         "reading": "ショルダーバッグ",
@@ -38556,13 +47747,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ゼミ",
     "meaning_en": "(n) seminar",
-    "explanation": "正解は「ゼミ」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ゼミ",
-        "reading": "ゼミ",
-        "meaning": "(n) seminar"
-      },
       {
         "term": "ポイント",
         "reading": "ポイント",
@@ -38602,13 +47789,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ファッション",
     "meaning_en": "fashion",
-    "explanation": "正解は「ファッション」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ファッション",
-        "reading": "ファッション",
-        "meaning": "fashion"
-      },
       {
         "term": "バスケット",
         "reading": "バスケット",
@@ -38648,13 +47831,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "マイク",
     "meaning_en": "mike",
-    "explanation": "正解は「マイク」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "マイク",
-        "reading": "マイク",
-        "meaning": "mike"
-      },
       {
         "term": "クッキー",
         "reading": "クッキー",
@@ -38694,13 +47873,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ファン",
     "meaning_en": "fan; fun",
-    "explanation": "正解は「ファン」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ファン",
-        "reading": "ファン",
-        "meaning": "fan; fun"
-      },
       {
         "term": "ランニング",
         "reading": "ランニング",
@@ -38740,13 +47915,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "マナー",
     "meaning_en": "manner",
-    "explanation": "正解は「マナー」です。文脈および語彙の用法に最も適した表現です。",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "マナー",
-        "reading": "マナー",
-        "meaning": "manner"
-      },
       {
         "term": "ランチタイム",
         "reading": "らんちたいむ",
@@ -38785,14 +47956,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "チラシ",
-    "meaning_en": "JLPT N2: チラシ",
-    "explanation": "正解は「チラシ」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "チラシ",
-        "reading": "ちらし",
-        "meaning": ""
-      },
       {
         "term": "ボウリング",
         "reading": "ボウリング",
@@ -38831,14 +47998,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ブランコ",
-    "meaning_en": "JLPT N2: ブランコ",
-    "explanation": "正解は「ブランコ」です。文脈および語彙の用法に最も適した表現です。",
+    "meaning_en": "",
+    "explanation": "",
+    "kanji_info": [],
     "similar": [
-      {
-        "term": "ブランコ",
-        "reading": "ぶらんこ",
-        "meaning": ""
-      },
       {
         "term": "リットル",
         "reading": "リットル",

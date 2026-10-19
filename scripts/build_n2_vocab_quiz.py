@@ -29,6 +29,12 @@ for entry in dict_raw:
 
 print(f"Dictionary loaded: {len(dict_map)} entries.")
 
+# Load master kanji database (13,000+ kanji with on/kun readings and meanings)
+print("Loading master kanji database...")
+with open('database/kanji_master.json', 'r', encoding='utf-8') as f:
+    kanji_master = json.load(f)
+print(f"Master kanji database loaded: {len(kanji_master)} kanji.")
+
 def lookup_dict_info(term):
     if not term:
         return {"term": "", "reading": "", "meaning": ""}
@@ -45,37 +51,89 @@ def lookup_dict_info(term):
     hira = ''.join(x['hira'] for x in conv)
     return {"term": clean_term, "reading": hira, "meaning": ""}
 
+def get_kanji_details(text):
+    if not text:
+        return []
+    clean_t = re.sub(r'[【】（）()\s]', '', text)
+    kanjis = [c for c in clean_t if '\u4e00' <= c <= '\u9fff']
+    if not kanjis and len(clean_t) >= 2:
+        for item in dict_raw:
+            r = item.get('r', '')
+            w = item.get('w', '')
+            if r == clean_t and any('\u4e00' <= c <= '\u9fff' for c in w):
+                kanjis = [c for c in w if '\u4e00' <= c <= '\u9fff']
+                break
+    seen = set()
+    res = []
+    for k in kanjis:
+        if k in seen:
+            continue
+        seen.add(k)
+        kd = kanji_master.get(k)
+        if kd:
+            on = kd.get('readings_on', [])
+            on_kat = [''.join(chr(ord(c) + 96) if 'ぁ' <= c <= 'ん' else c for c in r) for r in on]
+            kun = [r.replace('.', '') for r in kd.get('readings_kun', []) if not r.startswith('!')]
+            meanings = kd.get('meanings', [])
+            res.append({
+                'kanji': k,
+                'onyomi': '・'.join(on_kat) if on_kat else '-',
+                'kunyomi': '・'.join(kun) if kun else '-',
+                'meaning': ', '.join(meanings[:3]) if meanings else ''
+            })
+    return res
+
 def get_similar_list(target_term, extra_terms=None):
     clean_target = re.sub(r'[【】（）()]', '', target_term).strip()
     similars = []
     seen = set()
 
-    # 1. Target term itself
-    t_info = lookup_dict_info(clean_target)
-    if t_info["term"] and t_info["term"] not in seen:
-        similars.append(t_info)
-        seen.add(t_info["term"])
+    # Extract kanji in target_term
+    target_kanjis = [c for c in clean_target if '\u4e00' <= c <= '\u9fff']
+    if not target_kanjis and len(clean_target) >= 2:
+        for item in dict_raw:
+            r = item.get('r', '')
+            w = item.get('w', '')
+            if r == clean_target and any('\u4e00' <= c <= '\u9fff' for c in w):
+                target_kanjis = [c for c in w if '\u4e00' <= c <= '\u9fff']
+                break
+    
+    # Priority 1: Words USING that kanji ("その漢字を使った単語")
+    if target_kanjis:
+        for k in target_kanjis:
+            count_for_k = 0
+            for w, entry in dict_map.items():
+                if k in w and w != clean_target and 2 <= len(w) <= 6 and w not in seen:
+                    r = entry.get('r', '')
+                    m = '; '.join(entry.get('m', [])[:2]) if entry.get('m') else ''
+                    similars.append({"term": w, "reading": r, "meaning": m})
+                    seen.add(w)
+                    count_for_k += 1
+                    if count_for_k >= 3 or len(similars) >= 5:
+                        break
+            if len(similars) >= 5:
+                break
 
-    # 2. Extra terms
-    if extra_terms:
+    # Priority 2: Extra terms (collocations, choices)
+    if len(similars) < 3 and extra_terms:
         for et in extra_terms:
             c_et = re.sub(r'[【】（）()◆・:\s]', '', et).strip()
-            if c_et and c_et not in seen and 2 <= len(c_et) <= 10 and not c_et.startswith('選択肢'):
+            if c_et and c_et != clean_target and c_et not in seen and 2 <= len(c_et) <= 8 and not c_et.startswith('選択肢'):
                 e_info = lookup_dict_info(c_et)
-                similars.append(e_info)
-                seen.add(c_et)
-                if len(similars) >= 4:
-                    break
+                if e_info["term"]:
+                    similars.append(e_info)
+                    seen.add(c_et)
+                    if len(similars) >= 4:
+                        break
 
-    # 3. Compounds from dictionary
+    # Priority 3: Compounds starting or ending with target
     if len(similars) < 3 and len(clean_target) >= 2:
         for w, entry in dict_map.items():
             if len(similars) >= 4:
                 break
             if w != clean_target and (w.startswith(clean_target) or w.endswith(clean_target)) and 2 <= len(w) <= 6:
                 if w not in seen:
-                    meanings = entry.get('m', [])
-                    m_str = '; '.join(meanings[:2]) if meanings else ""
+                    m_str = '; '.join(entry.get('m', [])[:2]) if entry.get('m') else ''
                     r_str = entry.get('r', '')
                     similars.append({"term": w, "reading": r_str, "meaning": m_str})
                     seen.add(w)
@@ -151,6 +209,8 @@ def clean_sentence_text(s):
     s = re.sub(r'^[〇\d\.\s\-\–\—\(\)（）]+', '', s)
     s = re.sub(r'https?://\S+', '', s)
     s = re.sub(r'^\s*(もんだい|問題|第\d+週|\d+日目)\s*', '', s)
+    s = re.sub(r'^言\s*い換え.*?[〇○]\s*', '', s)
+    s = re.sub(r'^\s*言い換え類義問題\s*\d*\s*[\(（]?[例れ]?[\)）]?\s*[〇○]?\s*', '', s)
     s = re.sub(r'[ロ\u30ed]{2,}', '', s)
     s = re.sub(r'→.*$', '', s)
     s = re.sub(r'[\s\-]+[soN\d]+\s*$', '', s)
@@ -429,7 +489,8 @@ for idx, it in enumerate(doc1_items):
     similar_data = get_similar_list(target_word or corr_choice, extra_terms)
 
     dict_info = lookup_dict_info(target_word or corr_choice)
-    meaning_en = dict_info["meaning"] or f"Meaning: {corr_choice}"
+    meaning_en = dict_info.get("meaning", "")
+    kanji_details = get_kanji_details(target_word or corr_choice)
     
     all_quiz_questions.append({
         "id": len(all_quiz_questions) + 1,
@@ -443,7 +504,8 @@ for idx, it in enumerate(doc1_items):
         "answer": ans_0b,
         "correct_text": corr_choice,
         "meaning_en": meaning_en,
-        "explanation": f"正解は「{corr_choice}」です。文脈および語彙の用法に最も合致する適切な選択肢です。",
+        "explanation": "",
+        "kanji_info": kanji_details,
         "similar": similar_data
     })
 
@@ -659,7 +721,8 @@ for idx, box in enumerate(doc2_boxes):
     similar_data = get_similar_list(target_word or corr_choice, choices)
 
     dict_info = lookup_dict_info(target_word or corr_choice)
-    meaning_en = eng_trans or dict_info["meaning"] or f"Target: {corr_choice}"
+    meaning_en = eng_trans or dict_info.get("meaning", "")
+    kanji_details = get_kanji_details(target_word or corr_choice)
 
     all_quiz_questions.append({
         "id": len(all_quiz_questions) + 1,
@@ -673,7 +736,8 @@ for idx, box in enumerate(doc2_boxes):
         "answer": ans_0b,
         "correct_text": corr_choice,
         "meaning_en": meaning_en,
-        "explanation": f"正解は「{corr_choice}」です。文脈に最も適した自然な日本語表現です。",
+        "explanation": "",
+        "kanji_info": kanji_details,
         "similar": similar_data
     })
 
@@ -816,7 +880,9 @@ while added_curated < needed_count and vocab_cursor < len(genuine_vocab):
     choices_ruby = [to_ruby_protected(c) for c in choices]
 
     dict_info = lookup_dict_info(w)
+    meaning_en = m_en or dict_info.get("meaning", "")
     similar_data = get_similar_list(w, choices)
+    kanji_details = get_kanji_details(target_word or corr_choice)
 
     all_quiz_questions.append({
         "id": len(all_quiz_questions) + 1,
@@ -829,8 +895,9 @@ while added_curated < needed_count and vocab_cursor < len(genuine_vocab):
         "choices_ruby": choices_ruby,
         "answer": ans_0b,
         "correct_text": corr_choice,
-        "meaning_en": m_en or dict_info["meaning"] or f"JLPT N2: {w}",
-        "explanation": f"正解は「{corr_choice}」です。文脈および語彙の用法に最も適した表現です。",
+        "meaning_en": meaning_en,
+        "explanation": "",
+        "kanji_info": kanji_details,
         "similar": similar_data
     })
     added_curated += 1

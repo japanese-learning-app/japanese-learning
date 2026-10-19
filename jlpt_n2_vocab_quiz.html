@@ -437,6 +437,111 @@
     color: var(--sakura-pink-deep);
   }
 
+  /* Instruction Banner */
+  .quiz-instruction-banner {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(135deg, rgba(70, 130, 151, 0.08) 0%, rgba(255, 183, 197, 0.12) 100%);
+    border: 1px solid rgba(70, 130, 151, 0.22);
+    border-left: 4px solid var(--primary-blue);
+    border-radius: 12px;
+    padding: 10px 16px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+  }
+
+  .quiz-instruction-banner .inst-icon {
+    font-size: 18px;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  /* Blank Box for Fill-in-the-blank */
+  .quiz-blank-box {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #FFFBE6;
+    border: 2px dashed #E5A100;
+    border-radius: 10px;
+    padding: 2px 12px;
+    margin: 0 4px;
+    font-weight: 800;
+    color: #9E6B00;
+    vertical-align: middle;
+    box-shadow: 0 2px 6px rgba(229, 161, 0, 0.12);
+    transition: all 0.25s ease;
+  }
+
+  .quiz-blank-box .blank-icon {
+    font-size: 14px;
+  }
+
+  .quiz-blank-box.revealed.correct {
+    background: var(--correct-bg);
+    border: 2px solid var(--correct-border);
+    color: var(--correct-text);
+    box-shadow: 0 2px 8px rgba(27, 127, 75, 0.15);
+  }
+
+  .quiz-blank-box.revealed.wrong {
+    background: var(--wrong-bg);
+    border: 2px solid var(--wrong-border);
+    color: var(--wrong-text);
+    box-shadow: 0 2px 8px rgba(197, 48, 48, 0.15);
+  }
+
+  /* Target Chips for Kanji Reading / Writing / Synonyms */
+  .quiz-target-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(70, 130, 151, 0.08);
+    border: 2px solid var(--primary-blue);
+    border-radius: 10px;
+    padding: 2px 10px;
+    margin: 0 4px;
+    font-weight: 800;
+    color: var(--text-primary);
+    vertical-align: middle;
+    transition: all 0.25s ease;
+  }
+
+  .quiz-target-chip .chip-badge {
+    font-size: 11px;
+    font-weight: 900;
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+  }
+
+  .quiz-target-chip.reading .chip-badge {
+    background: var(--primary-blue);
+  }
+
+  .quiz-target-chip.writing .chip-badge {
+    background: #B85B78;
+  }
+
+  .quiz-target-chip.synonym .chip-badge {
+    background: #5078A0;
+  }
+
+  .quiz-target-chip.revealed {
+    background: #E8F8F0;
+    border-color: #27AE60;
+  }
+
+  .quiz-target-chip.revealed .chip-badge {
+    background: #27AE60;
+  }
+
   .question-sentence {
     font-size: 19px;
     font-weight: 700;
@@ -582,6 +687,107 @@
     color: var(--text-secondary);
     margin-bottom: 12px;
     line-height: 1.6;
+  }
+
+  /* Kanji Breakdown Section & Cards */
+  .kanji-breakdown-section {
+    margin: 14px 0 12px 0;
+  }
+
+  .kanji-section-title {
+    font-size: 13px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .kanji-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 10px;
+  }
+
+  .kanji-detail-card {
+    display: flex;
+    align-items: stretch;
+    background: #FFFFFF;
+    border: 1.5px solid var(--primary-blue-light);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(70, 130, 151, 0.08);
+  }
+
+  .kanji-char-box {
+    width: 66px;
+    min-width: 66px;
+    background: linear-gradient(135deg, var(--primary-blue-pale) 0%, rgba(255, 183, 197, 0.25) 100%);
+    border-right: 1px solid var(--primary-blue-light);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: var(--primary-blue-dark);
+  }
+
+  .kanji-char-sub {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    margin-top: 1px;
+  }
+
+  .kanji-readings-box {
+    padding: 8px 12px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+  }
+
+  .kanji-reading-row {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    font-size: 12.5px;
+    line-height: 1.4;
+  }
+
+  .kanji-reading-lbl {
+    font-size: 10px;
+    font-weight: 800;
+    color: #FFFFFF;
+    background: var(--primary-blue);
+    padding: 1px 5px;
+    border-radius: 4px;
+    min-width: 28px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .kanji-reading-lbl.kun {
+    background: #D85A7F;
+  }
+
+  .kanji-reading-lbl.mean {
+    background: #5A6B7C;
+  }
+
+  .kanji-reading-val {
+    font-weight: 700;
+    color: var(--text-primary);
+    word-break: break-word;
+  }
+
+  .kanji-reading-val.meaning {
+    font-size: 11.5px;
+    color: var(--text-secondary);
+    font-weight: 600;
   }
 
   .similar-box {
@@ -1209,6 +1415,12 @@
       </div>
     </div>
 
+    <!-- Instruction Banner -->
+    <div class="quiz-instruction-banner" id="quizInstructionBanner">
+      <span class="inst-icon" id="quizInstIcon">📖</span>
+      <span class="inst-text" id="quizInstText">【　】の言葉の「読み方」を選んでください</span>
+    </div>
+
     <!-- Question Sentence -->
     <div class="question-sentence" id="questionSentence">
       お支払いの事実を（　　　）できる領収書をお持ちいただけますか。
@@ -1230,10 +1442,22 @@
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
         </button>
       </div>
-      <p class="meaning-text" id="explanationText">解説文がここに表示されます。</p>
+      <p class="meaning-text" id="explanationText" style="display:none;"></p>
+      
+      <!-- Kanji Breakdown Section -->
+      <div class="kanji-breakdown-section" id="kanjiBreakdownSection" style="display:none;">
+        <div class="kanji-section-title">
+          <span>🈴 漢字の構成・読み方（音読み・訓読み・意味）</span>
+        </div>
+        <div class="kanji-cards-grid" id="kanjiCardsGrid">
+          <!-- Dynamically generated -->
+        </div>
+      </div>
+
+      <!-- Related Compounds Section -->
       <div class="similar-box" id="similarBox">
-        <div class="similar-title">
-          <span>💡 関連表現・類義語（タップで辞書検索＆保存）</span>
+        <div class="similar-title" id="similarBoxTitle">
+          <span>💡 この漢字を使った単語・関連語（タップで辞書検索＆保存）</span>
         </div>
         <div class="similar-items" id="similarItems">
           <!-- Dynamically generated -->
@@ -1368,11 +1592,18 @@
   const scoreText = document.getElementById('scoreText');
   const progressBar = document.getElementById('progressBar');
   const cardCategoryName = document.getElementById('cardCategoryName');
+  const quizInstructionBanner = document.getElementById('quizInstructionBanner');
+  const quizInstIcon = document.getElementById('quizInstIcon');
+  const quizInstText = document.getElementById('quizInstText');
   const questionSentence = document.getElementById('questionSentence');
   const choicesGrid = document.getElementById('choicesGrid');
   const explanationCard = document.getElementById('explanationCard');
   const resultTag = document.getElementById('resultTag');
   const explanationText = document.getElementById('explanationText');
+  const kanjiBreakdownSection = document.getElementById('kanjiBreakdownSection');
+  const kanjiCardsGrid = document.getElementById('kanjiCardsGrid');
+  const similarBox = document.getElementById('similarBox');
+  const similarBoxTitle = document.getElementById('similarBoxTitle');
   const similarItems = document.getElementById('similarItems');
   const btnNext = document.getElementById('btnNext');
   const btnBookmark = document.getElementById('btnBookmark');
@@ -1385,6 +1616,111 @@
   const btnSpeakQuestion = document.getElementById('btnSpeakQuestion');
   const btnSpeakExplanation = document.getElementById('btnSpeakExplanation');
   const toast = document.getElementById('toast');
+
+  // Utility: Escape HTML
+  function escapeHtml(str) {
+    if (!str) return '';
+    return str.toString()
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // Question Instruction Banner Generator
+  function getQuestionInstruction(q) {
+    const cat = q.category || '';
+    if (cat === '漢字読み' || cat.startsWith('漢字読み')) {
+      return { icon: '📖', text: '【　】の言葉の「読み方」を選んでください' };
+    }
+    if (cat === '漢字表記' || cat.startsWith('漢字表記')) {
+      return { icon: '✏️', text: '【　】の言葉の「正しい漢字」を選んでください' };
+    }
+    if (cat === '語形成') {
+      return { icon: '🧩', text: '（　）に入る最も適切な「接頭語・接尾語」を選んでください' };
+    }
+    if (cat === '文脈規定') {
+      return { icon: '📝', text: '（　）に入る最も適切な「言葉」を選んでください' };
+    }
+    if (cat === '類義語') {
+      return { icon: '🔄', text: '【　】の言葉と「最も意味が近い表現」を選んでください' };
+    }
+    if (cat === '語彙用法') {
+      return { icon: '🎯', text: '【　】の言葉の使い方が「最も適切な文」を選んでください' };
+    }
+    if (cat.includes('文字')) {
+      const isKana = q.choices && q.choices.some(c => /^[ぁ-んー]+$/.test(c));
+      return isKana
+        ? { icon: '📖', text: '【　】の言葉の「読み方」を選んでください' }
+        : { icon: '✏️', text: '【　】の言葉の「正しい漢字」を選んでください' };
+    }
+    if (cat.includes('語彙') || cat.includes('文法')) {
+      if (q.question && q.question.includes('【')) {
+        return { icon: '🎯', text: '【　】の言葉の用法として最も適切なものを選んでください' };
+      }
+      return { icon: '📝', text: '（　）に入る最も適切な言葉を選んでください' };
+    }
+    return { icon: '📝', text: '最も適切な選択肢を1つ選んでください' };
+  }
+
+  // Question Target Formatter (Blanks & Distinct Target Chips)
+  function formatQuestionSentence(q, isRevealed, isCorrect) {
+    let html = q.question_ruby || q.question;
+    const cat = q.category || '';
+    const corr = q.correct_text;
+
+    // 1. Fill in the blank (（　　　） or （　） or (   ))
+    const blankRegex = /[（\(]\s*[）\)]/g;
+    if (blankRegex.test(html)) {
+      const blankHtml = isRevealed
+        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-icon">${isCorrect ? '✓' : '✕'}</span><span class="blank-text">（ ${escapeHtml(corr)} ）</span></span>`
+        : `<span class="quiz-blank-box"><span class="blank-icon">❓</span><span class="blank-text">（　空欄　）</span></span>`;
+      return html.replace(blankRegex, blankHtml);
+    }
+
+    // 2. Protected kanji reading ruby: <ruby class="target-kanji-reading"><span class="target-word">【(.*?)】</span><rt class="target-reading-spoiler">(.*?)</rt></ruby>
+    const rubyTargetRegex = /<ruby class="target-kanji-reading"><span class="target-word">【(.*?)】<\/span><rt class="target-reading-spoiler">(.*?)<\/rt><\/ruby>/;
+    const mRuby = html.match(rubyTargetRegex);
+    if (mRuby) {
+      const kText = mRuby[1];
+      const rText = mRuby[2];
+      const chipHtml = isRevealed
+        ? `<span class="quiz-target-chip reading revealed"><span class="chip-badge">よみ：${escapeHtml(rText)}</span><span class="chip-body">【${escapeHtml(kText)}】</span></span>`
+        : `<span class="quiz-target-chip reading"><span class="chip-badge">よみ：❓</span><span class="chip-body">【${escapeHtml(kText)}】</span></span>`;
+      return html.replace(rubyTargetRegex, chipHtml);
+    }
+
+    // 3. Regular brackets 【...】
+    const bracketRegex = /【(.*?)】/;
+    const mBracket = html.match(bracketRegex);
+    if (mBracket) {
+      const inner = mBracket[1];
+      let chipClass = 'reading';
+      let tagText = 'よみ：❓';
+      let revTag = `よみ：${escapeHtml(corr)}`;
+
+      if (cat.includes('表記') || (!cat.includes('読み') && /[\u4e00-\u9fff]/.test(corr) && !/[\u4e00-\u9fff]/.test(inner))) {
+        chipClass = 'writing';
+        tagText = '漢字：❓';
+        revTag = `漢字：${escapeHtml(corr)}`;
+      } else if (cat.includes('類義') || cat.includes('類語')) {
+        chipClass = 'synonym';
+        tagText = '類語：❓';
+        revTag = `類語：${escapeHtml(corr)}`;
+      } else if (cat.includes('用法')) {
+        chipClass = 'usage';
+        tagText = '対象語';
+        revTag = '対象語';
+      }
+
+      const chipHtml = isRevealed
+        ? `<span class="quiz-target-chip ${chipClass} revealed"><span class="chip-badge">${revTag}</span><span class="chip-body">【${escapeHtml(inner)}】</span></span>`
+        : `<span class="quiz-target-chip ${chipClass}"><span class="chip-badge">${tagText}</span><span class="chip-body">【${escapeHtml(inner)}】</span></span>`;
+      return html.replace(bracketRegex, chipHtml);
+    }
+
+    return html;
+  }
 
   // Load MyList from LocalStorage
   let myList = [];
@@ -1463,7 +1799,7 @@
 
   btnSpeakExplanation.addEventListener('click', () => {
     const q = data[activeIndices[currentIndex]];
-    if (q) speak(`${q.correct_text}。${q.explanation}`);
+    if (q) speak(`${q.correct_text}。${q.meaning_en || ''}`);
   });
 
   // Filter & Limit Logic
@@ -1565,7 +1901,14 @@
     const q = data[activeIndices[currentIndex]];
     cardCategoryName.textContent = q.category;
     questionSentence.classList.remove('revealed');
-    questionSentence.innerHTML = q.question_ruby || q.question;
+
+    // Update Instruction Banner
+    const inst = getQuestionInstruction(q);
+    quizInstIcon.textContent = inst.icon;
+    quizInstText.textContent = inst.text;
+
+    // Render formatted question with distinct target chips & blank box
+    questionSentence.innerHTML = formatQuestionSentence(q, false, false);
 
     // Save resume index when user is progressing
     if (currentIndex > 0) {
@@ -1605,21 +1948,22 @@
     const buttons = choicesGrid.querySelectorAll('.choice-btn');
     const isCorrect = (selectedIndex === q.answer);
 
-    // Reveal target word reading in question sentence
+    // Reveal target word reading / blank in question sentence
     questionSentence.classList.add('revealed');
+    questionSentence.innerHTML = formatQuestionSentence(q, true, isCorrect);
 
     if (isCorrect) {
       correctCount++;
       buttons[selectedIndex].classList.add('correct');
       resultTag.className = 'result-tag correct';
-      resultTag.innerHTML = `✓ 正解！ (${q.correct_text})`;
+      resultTag.innerHTML = `✓ 正解！ (${escapeHtml(q.correct_text)})`;
     } else {
       buttons[selectedIndex].classList.add('wrong');
       if (q.answer >= 0 && q.answer < buttons.length) {
         buttons[q.answer].classList.add('correct');
       }
       resultTag.className = 'result-tag wrong';
-      resultTag.innerHTML = `✕ 不正解（正解: ${q.answer + 1}. ${q.correct_text}）`;
+      resultTag.innerHTML = `✕ 不正解（正解: ${q.answer + 1}. ${escapeHtml(q.correct_text)}）`;
     }
 
     userAnswersMap[currentIndex] = {
@@ -1630,8 +1974,47 @@
 
     buttons.forEach(b => b.disabled = true);
 
-    // Show Explanation
-    explanationText.innerHTML = `<strong>【意味】</strong> ${q.meaning_en}<br><br><strong>【解説】</strong> ${q.explanation}`;
+    // Show Meaning (if available)
+    if (q.meaning_en) {
+      explanationText.style.display = 'block';
+      explanationText.innerHTML = `<strong>【意味】</strong> ${escapeHtml(q.meaning_en)}`;
+    } else {
+      explanationText.style.display = 'none';
+      explanationText.innerHTML = '';
+    }
+
+    // Kanji Breakdown Cards (漢字, 音読み, 訓読み, 意味)
+    if (q.kanji_info && Array.isArray(q.kanji_info) && q.kanji_info.length > 0) {
+      kanjiCardsGrid.innerHTML = q.kanji_info.map(ki => `
+        <div class="kanji-detail-card">
+          <div class="kanji-char-box">
+            <span>${escapeHtml(ki.kanji)}</span>
+            <span class="kanji-char-sub">漢字</span>
+          </div>
+          <div class="kanji-readings-box">
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl">音</span>
+              <span class="kanji-reading-val">${escapeHtml(ki.onyomi || '-')}</span>
+            </div>
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl kun">訓</span>
+              <span class="kanji-reading-val">${escapeHtml(ki.kunyomi || '-')}</span>
+            </div>
+            ${ki.meaning ? `
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl mean">意</span>
+              <span class="kanji-reading-val meaning">${escapeHtml(ki.meaning)}</span>
+            </div>` : ''}
+          </div>
+        </div>
+      `).join('');
+      kanjiBreakdownSection.style.display = 'block';
+      similarBoxTitle.innerHTML = '<span>💡 この漢字を使った単語・関連語（タップで辞書検索＆保存）</span>';
+    } else {
+      kanjiBreakdownSection.style.display = 'none';
+      kanjiCardsGrid.innerHTML = '';
+      similarBoxTitle.innerHTML = '<span>💡 関連する表現・重要語彙（タップで辞書検索＆保存）</span>';
+    }
     
     // Generate Similar / Collocation Pills
     similarItems.innerHTML = '';
@@ -1643,9 +2026,9 @@
       const pill = document.createElement('span');
       pill.className = 'similar-pill';
       const rPart = (item.reading && item.reading !== item.term)
-        ? `<span class="pill-reading">（${item.reading}）</span>`
+        ? `<span class="pill-reading">（${escapeHtml(item.reading)}）</span>`
         : '';
-      pill.innerHTML = `🔍 ${item.term}${rPart}`;
+      pill.innerHTML = `🔍 ${escapeHtml(item.term)}${rPart}`;
       pill.title = '内蔵辞書で検索＆マイリストに保存';
       pill.addEventListener('click', () => {
         openTagActionModal(item);
@@ -1928,26 +2311,54 @@
             </button>
           </div>
         </div>
-        <div class="rev-sentence">${q.question_ruby || q.question}</div>
+        <div class="rev-sentence">${formatQuestionSentence(q, true, isCorrect)}</div>
         <div class="rev-choice-comparison">
           ${!isCorrect ? `
           <div class="rev-row">
             <span class="rev-row-label">あなたの回答:</span>
-            <span class="rev-row-val wrong">${userSelectedText} ✕</span>
+            <span class="rev-row-val wrong">${escapeHtml(userSelectedText)} ✕</span>
           </div>` : ''}
           <div class="rev-row">
             <span class="rev-row-label">正しい答え:</span>
-            <span class="rev-row-val correct">${correctText} ✓</span>
+            <span class="rev-row-val correct">${escapeHtml(correctText)} ✓</span>
           </div>
         </div>
         <div class="rev-exp-box">
-          <strong>【意味】</strong> ${q.meaning_en}<br>
-          <strong>【解説】</strong> ${q.explanation}
+          ${q.meaning_en ? `<div><strong>【意味】</strong> ${escapeHtml(q.meaning_en)}</div>` : ''}
+          ${q.kanji_info && q.kanji_info.length > 0 ? `
+          <div class="kanji-cards-grid" style="margin-top:10px;">
+            ${q.kanji_info.map(ki => `
+              <div class="kanji-detail-card">
+                <div class="kanji-char-box">
+                  <span>${escapeHtml(ki.kanji)}</span>
+                  <span class="kanji-char-sub">漢字</span>
+                </div>
+                <div class="kanji-readings-box">
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl">音</span>
+                    <span class="kanji-reading-val">${escapeHtml(ki.onyomi || '-')}</span>
+                  </div>
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl kun">訓</span>
+                    <span class="kanji-reading-val">${escapeHtml(ki.kunyomi || '-')}</span>
+                  </div>
+                  ${ki.meaning ? `
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl mean">意</span>
+                    <span class="kanji-reading-val meaning">${escapeHtml(ki.meaning)}</span>
+                  </div>` : ''}
+                </div>
+              </div>
+            `).join('')}
+          </div>` : ''}
           ${q.similar && q.similar.length > 0 ? `
-          <div style="margin-top:10px; display:flex; flex-wrap:wrap; gap:6px;">
+          <div style="margin-top:10px; font-size:11.5px; font-weight:800; color:var(--primary-blue-dark);">
+            💡 この漢字を使った単語・関連語:
+          </div>
+          <div style="margin-top:6px; display:flex; flex-wrap:wrap; gap:6px;">
             ${q.similar.map((s, sIdx) => `
               <span class="similar-pill" onclick="openReviewSimilar(${dataIdx}, ${sIdx})">
-                🔍 ${s.term}${s.reading && s.reading !== s.term ? `<span class="pill-reading">（${s.reading}）</span>` : ''}
+                🔍 ${escapeHtml(s.term)}${s.reading && s.reading !== s.term ? `<span class="pill-reading">（${escapeHtml(s.reading)}）</span>` : ''}
               </span>
             `).join('')}
           </div>` : ''}
