@@ -927,8 +927,10 @@
     background: #FFFFFF;
     border-radius: 20px;
     padding: 24px;
-    max-width: 420px;
-    width: 92%;
+    max-width: 480px;
+    width: 94%;
+    max-height: 88vh;
+    overflow-y: auto;
     box-shadow: 0 16px 40px rgba(0,0,0,0.18);
     text-align: center;
   }
@@ -1037,6 +1039,195 @@
   .modal-close-btn:hover {
     background: #E8EEF1;
     color: var(--text-primary);
+  }
+
+  /* 内蔵辞書検索パネル（モーダル内そのまま展開） */
+  .modal-dict-panel {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1.5px dashed #D5E5F2;
+    text-align: left;
+    animation: fadeIn 0.25s ease;
+  }
+
+  .modal-dict-search-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .modal-dict-input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1.5px solid var(--primary-blue);
+    border-radius: 10px;
+    font-size: 13.5px;
+    font-family: inherit;
+    outline: none;
+    background: #F8FBFE;
+  }
+
+  .modal-dict-input:focus {
+    background: #FFFFFF;
+    box-shadow: 0 0 0 3px rgba(25, 149, 173, 0.15);
+  }
+
+  .modal-dict-search-btn {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 0 14px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .modal-dict-search-btn:hover {
+    background: var(--primary-blue-dark);
+  }
+
+  .modal-dict-card {
+    background: #F8FBFE;
+    border: 1px solid #D0E1F9;
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+
+  .modal-dict-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .modal-dict-card-word {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .modal-dict-card-reading {
+    font-size: 13px;
+    color: var(--point-navy);
+    font-weight: 600;
+  }
+
+  .modal-dict-card-badge {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 6px;
+  }
+
+  .modal-dict-card-meaning {
+    font-size: 14px;
+    color: var(--text-primary);
+    line-height: 1.55;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+
+  .modal-dict-card-ex-box {
+    background: #FFFFFF;
+    border-left: 3.5px solid var(--primary-blue);
+    border-radius: 6px;
+    padding: 8px 12px;
+    margin-top: 8px;
+  }
+
+  .modal-dict-card-ex-ja {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.6;
+    margin-bottom: 3px;
+  }
+
+  .modal-dict-card-ex-ja ruby rt {
+    font-size: 0.65em;
+    color: var(--primary-blue-dark);
+  }
+
+  .modal-dict-card-ex-en {
+    font-size: 12px;
+    color: var(--point-navy);
+    line-height: 1.4;
+  }
+
+  .modal-dict-similar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .modal-dict-similar-tag {
+    background: #FFFFFF;
+    border: 1px solid #D0E1F9;
+    color: var(--point-navy);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .modal-dict-similar-tag:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border-color: var(--primary-blue);
+  }
+
+  .modal-dict-tts-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 2px 4px;
+    border-radius: 6px;
+    line-height: 1;
+    color: var(--primary-blue);
+    transition: transform 0.15s;
+  }
+
+  .modal-dict-tts-btn:hover {
+    transform: scale(1.15);
+  }
+
+  .modal-dict-footer-links {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8px;
+  }
+
+  .modal-dict-link-btn {
+    font-size: 12px;
+    color: var(--point-navy);
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background: #EBF3F8;
+    transition: all 0.15s;
+  }
+
+  .modal-dict-link-btn:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
   }
 
   /* Toast Notification */
@@ -1558,6 +1749,20 @@
       </button>
     </div>
 
+    <!-- 内蔵クイック辞書パネル（画面を離れずにその場で表示） -->
+    <div class="modal-dict-panel" id="modalDictPanel" style="display:none;">
+      <div class="modal-dict-search-row">
+        <input type="text" class="modal-dict-input" id="modalDictSearchInput" placeholder="辞書内を直接検索..." />
+        <button type="button" class="modal-dict-search-btn" id="btnModalDictSearch">検索</button>
+      </div>
+      <div id="modalDictResultContent"></div>
+      <div class="modal-dict-footer-links">
+        <a href="dictionary.html" target="_blank" class="modal-dict-link-btn" id="linkExternalDict">
+          ↗ フル辞書ページを開く
+        </a>
+      </div>
+    </div>
+
     <button class="modal-close-btn" id="btnCloseModal">✕ 閉じる</button>
   </div>
 </div>
@@ -1567,6 +1772,10 @@
 
 <!-- Load Database -->
 <script src="database/jlpt_n2_vocab_quiz_data.js"></script>
+<script src="database/jlpt_n2_vocab_full_data.js" defer></script>
+<script src="database/dict_examples_map.js" defer></script>
+<script src="database/dictionary_data.js" defer></script>
+<script src="database/jlpt_n2_data.js" defer></script>
 
 <script>
   // State
@@ -2057,6 +2266,11 @@
   const btnSearchDict = document.getElementById('btnSearchDict');
   const btnCopyTerm = document.getElementById('btnCopyTerm');
   const btnCloseModal = document.getElementById('btnCloseModal');
+  const modalDictPanel = document.getElementById('modalDictPanel');
+  const modalDictSearchInput = document.getElementById('modalDictSearchInput');
+  const btnModalDictSearch = document.getElementById('btnModalDictSearch');
+  const modalDictResultContent = document.getElementById('modalDictResultContent');
+  const linkExternalDict = document.getElementById('linkExternalDict');
 
   let activeModalTerm = "";
   let activeModalItem = null;
@@ -2094,11 +2308,13 @@
     modalTermMeaning.textContent = item.meaning || '意味・解説が登録されていません。';
 
     updateMylistButton(isTermSavedInMylist(item.term));
+    if (modalDictPanel) modalDictPanel.style.display = 'none';
     tagActionModal.style.display = 'flex';
   }
 
   function closeTagActionModal() {
     tagActionModal.style.display = 'none';
+    if (modalDictPanel) modalDictPanel.style.display = 'none';
   }
 
   btnCloseModal.addEventListener('click', closeTagActionModal);
@@ -2140,13 +2356,260 @@
     });
   });
 
-  // Action 3: Search in Built-in Dictionary
+  // Built-in Dictionary & Audio Logic
+  function speakJapaneseText(text) {
+    if (!text) return;
+    const clean = text.replace(/<[^>]+>/g, '').trim();
+    if (!clean) return;
+    try {
+      const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
+      const audio = new Audio(url);
+      audio.play().catch(e => {
+        if ('speechSynthesis' in window) {
+          const utter = new SpeechSynthesisUtterance(clean);
+          utter.lang = 'ja-JP';
+          window.speechSynthesis.speak(utter);
+        }
+      });
+    } catch(err) {
+      if ('speechSynthesis' in window) {
+        const utter = new SpeechSynthesisUtterance(clean);
+        utter.lang = 'ja-JP';
+        window.speechSynthesis.speak(utter);
+      }
+    }
+  }
+
+  function cleanSearchWord(word) {
+    if (!word) return "";
+    return word
+      .replace(/^[〜~]/, '')
+      .replace(/（.*?）|\(.*?\)/g, '')
+      .replace(/[・「」]/g, '')
+      .trim();
+  }
+
+  function searchDictionaryOnPage(query) {
+    if (!query) return null;
+    const cleanQ = cleanSearchWord(query);
+
+    // 1. Search in Vocab Quiz Data
+    let vocabQuizMatch = null;
+    if (window.JLPT_N2_VOCAB_QUIZ_DATA && Array.isArray(window.JLPT_N2_VOCAB_QUIZ_DATA)) {
+      const qm = window.JLPT_N2_VOCAB_QUIZ_DATA.find(q => {
+        const twClean = cleanSearchWord(q.target_word);
+        return twClean === cleanQ || q.target_word === query || (q.target_reading && cleanSearchWord(q.target_reading) === cleanQ);
+      });
+      if (qm) {
+        vocabQuizMatch = {
+          term: qm.target_word,
+          reading: qm.target_reading || '',
+          ruby: qm.target_ruby || '',
+          meaning: qm.target_meaning || '',
+          level: 'N2 語彙',
+          example_ja: qm.sentence_ruby || qm.sentence || '',
+          example_en: qm.sentence_en || ''
+        };
+      }
+    }
+
+    // 2. Search in Vocab Full Data
+    let vocabMatch = null;
+    if (window.JLPT_N2_VOCAB_DATA && Array.isArray(window.JLPT_N2_VOCAB_DATA)) {
+      const vMatch = window.JLPT_N2_VOCAB_DATA.find(v => {
+        const vClean = cleanSearchWord(v.word);
+        return vClean === cleanQ || v.word === query || (v.reading && cleanSearchWord(v.reading) === cleanQ);
+      });
+      if (vMatch) {
+        vocabMatch = {
+          term: vMatch.word,
+          reading: vMatch.reading || '',
+          ruby: vMatch.ruby || '',
+          meaning: vMatch.meaning || '',
+          level: vMatch.cat_name || 'N2 語彙',
+          example_ja: vMatch.ex_ja || '',
+          example_en: vMatch.ex_en || ''
+        };
+      }
+    }
+
+    // 3. Search in Grammar Data
+    let grammarMatch = null;
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      for (const k in window.JLPT_SIMILAR_GRAMMAR_DICT) {
+        const cleanK = cleanSearchWord(k);
+        if (cleanK === cleanQ || k === query) {
+          grammarMatch = {
+            term: k,
+            reading: '',
+            meaning: window.JLPT_SIMILAR_GRAMMAR_DICT[k].meaning || '',
+            similar: window.JLPT_SIMILAR_GRAMMAR_DICT[k].similar || '',
+            level: 'N2 文法'
+          };
+          break;
+        }
+      }
+    }
+
+    // 4. Search in Dictionary Data
+    let dictMatch = null;
+    if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+      const dMatch = window.DICT_DATA.find(d => {
+        return d.w === cleanQ || d.r === cleanQ || (d.w && d.w.includes(cleanQ));
+      });
+      if (dMatch) {
+        dictMatch = {
+          term: dMatch.w,
+          reading: dMatch.r || '',
+          meaning: Array.isArray(dMatch.m) ? dMatch.m.join('; ') : (dMatch.m || ''),
+          level: dMatch.l ? `JLPT ${dMatch.l}` : '語彙'
+        };
+      }
+    }
+
+    // 5. Example Sentence Resolution
+    let ex_ja = '';
+    let ex_en = '';
+    if (vocabMatch && vocabMatch.example_ja) {
+      ex_ja = vocabMatch.example_ja;
+      ex_en = vocabMatch.example_en;
+    } else if (vocabQuizMatch && vocabQuizMatch.example_ja) {
+      ex_ja = vocabQuizMatch.example_ja;
+      ex_en = vocabQuizMatch.example_en;
+    } else if (grammarMatch && grammarMatch.example_ja) {
+      ex_ja = grammarMatch.example_ja;
+      ex_en = grammarMatch.example_en;
+    } else if (window.DICT_EXAMPLES_MAP) {
+      const ex = window.DICT_EXAMPLES_MAP[cleanQ] || (dictMatch && window.DICT_EXAMPLES_MAP[dictMatch.term]);
+      if (ex) {
+        ex_ja = ex.ja || '';
+        ex_en = ex.en || '';
+      }
+    }
+
+    const primary = vocabMatch || vocabQuizMatch || grammarMatch || dictMatch || {
+      term: query,
+      reading: '',
+      meaning: '意味・解説が見つかりませんでした。',
+      level: '辞書検索'
+    };
+
+    return {
+      term: primary.term || cleanQ,
+      reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
+      level: primary.level || 'JLPT N2',
+      meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
+      example_ja: ex_ja,
+      example_en: ex_en,
+      similar: (grammarMatch && grammarMatch.similar) ? grammarMatch.similar : ''
+    };
+  }
+
+  function renderDictLookup(query) {
+    if (!modalDictResultContent) return;
+    const cleanQ = cleanSearchWord(query);
+    const result = searchDictionaryOnPage(query);
+    if (!result) {
+      modalDictResultContent.innerHTML = `<div style="padding:12px;color:#718096;text-align:center;">該当する単語が見つかりませんでした。</div>`;
+      return;
+    }
+
+    const escapedTerm = result.term.replace(/'/g, "\\'");
+    const readingPart = (result.reading && result.reading !== result.term)
+      ? `<span class="modal-dict-card-reading">（${result.reading}）</span>`
+      : '';
+
+    let exHtml = '';
+    if (result.example_ja) {
+      const plainEx = result.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\\'");
+      exHtml = `
+        <div class="modal-dict-card-ex-box">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+            <div class="modal-dict-card-ex-ja">${result.example_ja}</div>
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
+          </div>
+          ${result.example_en ? `<div class="modal-dict-card-ex-en">${result.example_en}</div>` : ''}
+        </div>
+      `;
+    }
+
+    let similarHtml = '';
+    if (result.similar) {
+      const tags = result.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
+      if (tags.length > 0) {
+        similarHtml = `
+          <div style="margin-top:10px;">
+            <div style="font-size:11px;font-weight:700;color:#4D648D;margin-bottom:4px;">関連表現・類語（タップで検索）:</div>
+            <div class="modal-dict-similar-tags">
+              ${tags.map(t => `<button type="button" class="modal-dict-similar-tag" onclick="window.quickDictSearch('${t.replace(/'/g, "\\'")}')">🔍 ${t}</button>`).join('')}
+            </div>
+          </div>
+        `;
+      }
+    }
+
+    modalDictResultContent.innerHTML = `
+      <div class="modal-dict-card">
+        <div class="modal-dict-card-header">
+          <div class="modal-dict-card-word">
+            <span>${result.term}</span>
+            ${readingPart}
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+          </div>
+          <span class="modal-dict-card-badge">${result.level}</span>
+        </div>
+        <div class="modal-dict-card-meaning">${result.meaning}</div>
+        ${exHtml}
+        ${similarHtml}
+      </div>
+    `;
+
+    if (linkExternalDict) {
+      linkExternalDict.href = `dictionary.html?search=${encodeURIComponent(cleanQ)}`;
+    }
+  }
+
+  function openDictPanelOnPage(term) {
+    if (!modalDictPanel) return;
+    const cleanQ = cleanSearchWord(term);
+    modalDictPanel.style.display = 'block';
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanQ;
+    }
+    renderDictLookup(cleanQ);
+    // Smooth scroll down to dict panel
+    setTimeout(() => {
+      modalDictPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }, 50);
+  }
+
+  window.quickDictSearch = function(word) {
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanSearchWord(word);
+    }
+    renderDictLookup(word);
+  };
+
   btnSearchDict.addEventListener('click', () => {
     if (!activeModalTerm) return;
-    closeTagActionModal();
-    const url = `dictionary.html?q=${encodeURIComponent(activeModalTerm)}`;
-    window.open(url, '_blank');
+    openDictPanelOnPage(activeModalTerm);
   });
+
+  if (btnModalDictSearch) {
+    btnModalDictSearch.addEventListener('click', () => {
+      const q = modalDictSearchInput ? modalDictSearchInput.value.trim() : '';
+      if (q) renderDictLookup(q);
+    });
+  }
+
+  if (modalDictSearchInput) {
+    modalDictSearchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const q = modalDictSearchInput.value.trim();
+        if (q) renderDictLookup(q);
+      }
+    });
+  }
 
   // Next Button
   btnNext.addEventListener('click', () => {
