@@ -9,36 +9,40 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    /* カラーパレット：スモーキーシアン × サクラピンク（BOTANIST風の上質な透明感） */
-    --primary-blue: #468297;
-    --primary-blue-dark: #326475;
-    --primary-blue-light: #5E9AB0;
-    --primary-blue-pale: #EDF5F8;
+    /* カラーパレット：メイン青 #1995AD × サクラピンク × ポイント #4D648D / #D0E1F9 */
+    --primary-blue: #1995AD;
+    --primary-blue-dark: #127285;
+    --primary-blue-light: #43B0C4;
+    --primary-blue-pale: #EDF7F9;
     
+    --point-navy: #4D648D;
+    --point-ice: #D0E1F9;
+
     --sakura-pink-bg: #FAF1F3;
     --sakura-pink-soft: #FDF7F8;
     --sakura-pink-accent: #E8A4B2;
     --sakura-pink-deep: #B8596E;
     --sakura-pink-border: #F2D5DB;
 
-    --mint-cyan: #78B1BF;
-    --mint-cyan-light: #EEF7FA;
+    --mint-cyan: #1995AD;
+    --mint-cyan-light: #EDF7F9;
     
-    --text-primary: #2C3E48;
-    --text-secondary: #5E727D;
-    --text-muted: #8FA2AD;
+    --text-primary: #1F2D3D;
+    --text-secondary: #4D648D;
+    --text-muted: #7E92A2;
     
     --card-bg: #FFFFFF;
-    --card-border: #E8EEF1;
-    --card-shadow: 0 10px 30px rgba(70, 130, 151, 0.08);
+    --card-border: #E2ECF2;
+    --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
 
     --correct-bg: #E8F5E9;
     --correct-border: #81C784;
     --correct-text: #2E7D32;
 
-    --wrong-bg: #FFEBEE;
-    --wrong-border: #E57373;
-    --wrong-text: #C62828;
+    /* ポイントカラー：赤ではなく #4D648D / #D0E1F9 を使用 */
+    --wrong-bg: #EEF4FC;
+    --wrong-border: #B8D1F5;
+    --wrong-text: #4D648D;
 
     --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
   }
@@ -526,11 +530,11 @@
   }
 
   .quiz-target-chip.writing .chip-badge {
-    background: #B85B78;
+    background: var(--point-navy);
   }
 
   .quiz-target-chip.synonym .chip-badge {
-    background: #5078A0;
+    background: var(--point-navy);
   }
 
   .quiz-target-chip.revealed {
@@ -775,7 +779,7 @@
   }
 
   .kanji-reading-lbl.mean {
-    background: #5A6B7C;
+    background: var(--point-navy);
   }
 
   .kanji-reading-val {
@@ -1111,7 +1115,7 @@
     margin-top: 24px;
   }
   .btn-retry-wrong {
-    background: linear-gradient(135deg, #B8596E 0%, #8E3A4F 100%);
+    background: linear-gradient(135deg, #4D648D 0%, #354968 100%);
     color: #FFFFFF;
     border: none;
     padding: 12px 24px;
@@ -1119,7 +1123,7 @@
     font-size: 0.95rem;
     font-weight: 800;
     cursor: pointer;
-    box-shadow: 0 4px 16px rgba(184, 89, 110, 0.28);
+    box-shadow: 0 4px 16px rgba(77, 100, 141, 0.28);
     transition: all 0.2s;
     display: inline-flex;
     align-items: center;
@@ -1127,7 +1131,7 @@
   }
   .btn-retry-wrong:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(184, 89, 110, 0.38);
+    box-shadow: 0 6px 20px rgba(77, 100, 141, 0.38);
   }
   .btn-retry-all {
     background: var(--primary-blue);

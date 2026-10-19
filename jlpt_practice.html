@@ -20,13 +20,17 @@
     --text-muted: #5E727D;
     --text-dim: #8FA2AD;
     
-    /* スモーキーシアン＆ダークシアン */
-    --navy-main: #468297;
-    --navy-dark: #326475;
-    --kobe-blue: #468297;
-    --kobe-blue-sub: #5E9AB0;
-    --kobe-blue-light: #EDF5F8;
-    --kobe-blue-border: #78B1BF;
+    /* メイン青 #1995AD ＆ ダークシアン */
+    --navy-main: #1995AD;
+    --navy-dark: #127285;
+    --kobe-blue: #1995AD;
+    --kobe-blue-sub: #43B0C4;
+    --kobe-blue-light: #EDF7F9;
+    --kobe-blue-border: #A1D6E2;
+
+    /* ポイントカラー：#4D648D / #D0E1F9 */
+    --point-navy: #4D648D;
+    --point-ice: #D0E1F9;
     
     /* サクラピンク / ダスティローズ */
     --accent-pink: #B8596E;
@@ -35,29 +39,30 @@
     --accent-pink-border: #F2D5DB;
     --accent-pink-text: #B8596E;
     
-    --accent-teal: #468297;
-    --accent-teal-hover: #326475;
-    --accent-teal-bg: #EDF5F8;
-    --accent-teal-border: #78B1BF;
+    --accent-teal: #1995AD;
+    --accent-teal-hover: #127285;
+    --accent-teal-bg: #EDF7F9;
+    --accent-teal-border: #A1D6E2;
     
     --accent-gold: #C87D18;
     --accent-gold-hover: #8C6500;
     --accent-gold-bg: #FFF8E8;
     --accent-gold-border: #F0D488;
     
-    --accent-purple: #6B5B95;
-    --accent-purple-bg: #F4F1FA;
-    --accent-purple-border: #BDB4DC;
+    --accent-purple: #4D648D;
+    --accent-purple-bg: #EEF4FC;
+    --accent-purple-border: #D0E1F9;
     
     /* 正解・不正解表示 */
     --success-green: #2E7D32;
     --success-bg: #E8F5E9;
     --success-border: #81C784;
     
-    --error-pink: #B8596E;
-    --error-bg: #FAF1F3;
-    --error-border: #F2D5DB;
-    --error-text: #B8596E;
+    /* ポイントカラー：赤ではなく #4D648D / #D0E1F9 */
+    --error-pink: #4D648D;
+    --error-bg: #EEF4FC;
+    --error-border: #B8D1F5;
+    --error-text: #4D648D;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1347,9 +1352,9 @@
     border: 1px solid #A5D6A7;
   }
   .review-status-tag.wrong {
-    background: #FFEBEE;
-    color: #C62828;
-    border: 1px solid #EF9A9A;
+    background: #EEF4FC;
+    color: #4D648D;
+    border: 1px solid #B8D1F5;
   }
   .review-q-text {
     font-size: 16px;
@@ -1380,7 +1385,7 @@
     color: var(--text-muted);
   }
   .review-ans-val.wrong {
-    color: #C62828;
+    color: #4D648D;
     font-weight: 700;
     text-decoration: line-through;
   }
@@ -2955,7 +2960,7 @@
 
     if (prevAns !== undefined) {
       const fillClass = prevAns.isCorrect ? 'blank-box filled-correct' : 'blank-box filled-wrong';
-      qText = qText.replace('【　　】', `<span class="${fillClass}" style="padding:0 8px; border-radius:4px; font-weight:800; background:${prevAns.isCorrect ? '#E8F5E9' : '#FFEBEE'}; color:${prevAns.isCorrect ? '#2E7D32' : '#C62828'}; border-bottom:2px solid currentColor;">${correctRuby}</span>`);
+      qText = qText.replace('【　　】', `<span class="${fillClass}" style="padding:0 8px; border-radius:4px; font-weight:800; background:${prevAns.isCorrect ? '#E8F5E9' : '#EEF4FC'}; color:${prevAns.isCorrect ? '#2E7D32' : '#4D648D'}; border-bottom:2px solid currentColor;">${correctRuby}</span>`);
     } else {
       qText = qText.replace('【　　】', `<span class="blank-box" style="display:inline-block; min-width:60px; text-align:center; border-bottom:2px solid var(--kobe-blue); background:var(--kobe-blue-light); padding:0 6px; border-radius:4px; font-weight:700; color:var(--navy-main);">（ ？ ）</span>`);
     }
