@@ -1900,7 +1900,7 @@
       const fillClass = isRight ? 'blank-box filled-correct' : 'blank-box filled-wrong';
       qRuby = qRuby.replace('【　　】', `<span class="${fillClass}">${correctRuby}</span>`);
     } else {
-      qRuby = qRuby.replace('【　　】', `<span class="blank-box">（ ？ ）</span>`);
+      qRuby = qRuby.replace('【　　】', `<span class="blank-box">（　　　）</span>`);
     }
     sentenceJp.innerHTML = qRuby;
 

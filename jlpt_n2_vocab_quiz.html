@@ -467,16 +467,15 @@
   .quiz-blank-box {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
-    background: #FFFBE6;
-    border: 2px dashed #E5A100;
-    border-radius: 10px;
-    padding: 2px 12px;
+    justify-content: center;
+    background: #FFFDF5;
+    border: 2px dashed #D4A017;
+    border-radius: 8px;
+    padding: 1px 8px;
     margin: 0 4px;
     font-weight: 800;
-    color: #9E6B00;
+    color: #8C6200;
     vertical-align: middle;
-    box-shadow: 0 2px 6px rgba(229, 161, 0, 0.12);
     transition: all 0.25s ease;
   }
 
@@ -1865,8 +1864,8 @@
     const blankRegex = /[（\(]\s*[）\)]/g;
     if (blankRegex.test(html)) {
       const blankHtml = isRevealed
-        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-icon">${isCorrect ? '✓' : '✕'}</span><span class="blank-text">（ ${escapeHtml(corr)} ）</span></span>`
-        : `<span class="quiz-blank-box"><span class="blank-icon">❓</span><span class="blank-text">（　空欄　）</span></span>`;
+        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-text">（ ${escapeHtml(corr)} ）</span></span>`
+        : `<span class="quiz-blank-box"><span class="blank-text">（　　　）</span></span>`;
       return html.replace(blankRegex, blankHtml);
     }
 
