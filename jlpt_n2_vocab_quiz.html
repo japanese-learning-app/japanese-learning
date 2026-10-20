@@ -1874,7 +1874,7 @@
     const mRuby = html.match(rubyTargetRegex);
     if (mRuby) {
       const kText = mRuby[1];
-      const chipHtml = `<span class="quiz-target-chip reading ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${escapeHtml(kText)}】</span></span>`;
+      const chipHtml = `<span class="quiz-target-chip reading ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${kText}】</span></span>`;
       return html.replace(rubyTargetRegex, chipHtml);
     }
 
@@ -1882,7 +1882,7 @@
     const bracketRegex = /【(.*?)】/;
     const mBracket = html.match(bracketRegex);
     if (mBracket) {
-      const inner = mBracket[1];
+      let inner = mBracket[1];
       let chipClass = 'reading';
       if (cat.includes('表記') || (!cat.includes('読み') && /[\u4e00-\u9fff]/.test(corr) && !/[\u4e00-\u9fff]/.test(inner))) {
         chipClass = 'writing';
@@ -1892,7 +1892,12 @@
         chipClass = 'usage';
       }
 
-      const chipHtml = `<span class="quiz-target-chip ${chipClass} ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${escapeHtml(inner)}】</span></span>`;
+      // 読み問題の場合は対象語からルビを取り除き、ネタバレを防止
+      if (cat.includes('読み')) {
+        inner = inner.replace(/<ruby[^>]*>([^<]+)<rt>[^<]*<\/rt><\/ruby>/g, '$1');
+      }
+
+      const chipHtml = `<span class="quiz-target-chip ${chipClass} ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${inner}】</span></span>`;
       return html.replace(bracketRegex, chipHtml);
     }
 
