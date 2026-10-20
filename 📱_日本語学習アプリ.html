@@ -43,6 +43,7 @@
       if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('quiz');
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
+      if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
     } catch(err) {
       console.warn('Sub-initializer warning for ' + name + ':', err);
     }
@@ -2617,6 +2618,13 @@ rt {
     <button class="sidebar-close-btn" onclick="closeSidebar()">✕</button>
   </div>
 
+  <div style="padding:12px 18px; background:#EEF7FB; border-bottom:1px solid #BDE0F2; display:flex; align-items:center; justify-content:space-between;">
+    <div class="unified-student-badge" style="cursor:pointer; display:inline-flex; align-items:center; gap:6px;" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null">
+      <span>🔑</span> <span style="font-weight:700; font-size:0.88rem;">ログイン</span>
+    </div>
+    <button onclick="if(window.AppAuth) window.AppAuth.openLoginModal();" style="background:#1486AD; color:white; border:none; padding:4px 10px; border-radius:8px; font-size:0.75rem; font-weight:700; cursor:pointer;">切替</button>
+  </div>
+
   <div class="sidebar-body">
     <div>
       <div class="nav-group-label">ポータル機能</div>
@@ -2782,6 +2790,10 @@ rt {
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>
           7日連続
         </div>
+        <button type="button" class="top-user-chip unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="display:inline-flex; align-items:center; gap:6px; background:#F8FAFC; border:1px solid #CBD5E1; color:#0F172A; font-weight:700; cursor:pointer;" title="生徒ログイン・切替">
+          <span>🔑</span>
+          <span>ログイン</span>
+        </button>
         <a href="mypage.html" class="top-user-chip" id="top-user-chip">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
           <span id="header-user-name">マイページ</span>
@@ -3051,38 +3063,53 @@ rt {
 
 <!-- ================= MODALS ================= -->
 
-<!-- モーダル: マイリスト -->
+<!-- モーダル: マイリスト（総合一元管理） -->
 <div class="app-modal-overlay" id="modal-mylist" onclick="closeModalOnBg(event, 'mylist')">
-  <div class="app-modal-box">
-    <div class="app-modal-header">
-      <div class="app-modal-title">マイリスト（復習・一元管理）</div>
-      <button class="app-modal-close" onclick="closeModal('mylist')">✕</button>
-    </div>
-    <div class="app-modal-body">
-      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
-        <div style="font-size:0.9rem; color:var(--text-sub);">保存した学習アイテムを整理・復習できます。</div>
-        <button class="top-user-chip" style="background:var(--kobe-blue); color:white; border:none; cursor:pointer;" onclick="alert('新しいフォルダ作成ダイアログ: \nフォルダ名を入力して「作成」を押してください。')">
-          ＋ 新しいフォルダを作成
-        </button>
-      </div>
-
-      <div class="modal-tab-bar">
-        <button class="modal-tab-btn active">単語・フレーズ帳</button>
-        <button class="modal-tab-btn">漢字</button>
-        <button class="modal-tab-btn">JLPT弱点問題</button>
-        <button class="modal-tab-btn">例文</button>
-      </div>
-
-      <div style="background:#F8FBFE; border:1.5px dashed var(--kobe-blue-border); border-radius:16px; padding:30px; text-align:center;">
-        <div style="font-size:2rem; margin-bottom:10px;">📂</div>
-        <div style="font-weight:700; font-size:1.05rem; color:var(--text-main); margin-bottom:6px;">
-          総合マイページと完全連動中
+  <div class="app-modal-box" style="max-width:880px; width:95%; max-height:92vh; display:flex; flex-direction:column; overflow:hidden; border-radius:20px; box-shadow:0 25px 60px rgba(0,0,0,0.25);">
+    <div class="app-modal-header" style="display:flex; justify-content:space-between; align-items:center; flex-shrink:0; background:linear-gradient(135deg, #1E557E 0%, #103956 100%); color:white; padding:14px 20px;">
+      <div style="display:flex; align-items:center; gap:10px;">
+        <span style="font-size:1.4rem;">🔖</span>
+        <div>
+          <div class="app-modal-title" style="color:white; font-size:1.15rem; font-weight:800;">総合マイリスト（復習・一元管理）</div>
+          <div style="font-size:0.75rem; color:rgba(255,255,255,0.85); margin-top:2px;">フラッシュカード・JLPT・会話・例文の全アイテムを完全同期</div>
         </div>
-        <p style="font-size:0.88rem; margin-bottom:16px; color:var(--text-sub);">保存したすべての単語や3段階フレーズ（タメ口・丁寧語・敬語）はマイページでいつでも一括管理・復習できます。</p>
-        <a href="mypage.html" class="top-user-chip" style="background:var(--kobe-blue); color:white; padding:10px 24px; font-size:0.9rem;">
-          総合マイページを開く →
-        </a>
       </div>
+      <button class="app-modal-close" onclick="closeModal('mylist')" style="color:white; font-size:1.4rem;">✕</button>
+    </div>
+
+    <!-- 検索バー ＆ カテゴリタブ -->
+    <div style="background:#F8FBFE; padding:12px 18px; border-bottom:1px solid #E2ECF2; display:flex; flex-direction:column; gap:10px; flex-shrink:0;">
+      <div style="display:flex; gap:10px; align-items:center;">
+        <div style="position:relative; flex:1;">
+          <input type="text" id="unified-mylist-search" placeholder="単語・読み・意味で絞り込み..." oninput="filterUnifiedMylist()" style="width:100%; padding:9px 14px 9px 36px; border:1.5px solid #CBD5E1; border-radius:12px; font-size:0.9rem; outline:none; box-sizing:border-box;">
+          <span style="position:absolute; left:12px; top:50%; transform:translateY(-50%); color:#94A3B8; font-size:1rem;">🔍</span>
+        </div>
+        <div style="font-size:0.85rem; font-weight:700; color:#475569; white-space:nowrap; background:white; padding:8px 14px; border-radius:12px; border:1px solid #CBD5E1;">
+          全 <span id="unified-mylist-count" style="color:#1486AD; font-size:1rem; font-weight:800;">0</span> 件
+        </div>
+      </div>
+
+      <div class="modal-tab-bar" style="margin:0; overflow-x:auto; gap:6px;">
+        <button class="modal-tab-btn active" id="um-tab-all" onclick="switchUnifiedMylistTab('all', this)">🌟 すべて (<span id="tab-cnt-all">0</span>)</button>
+        <button class="modal-tab-btn" id="um-tab-flashcard" onclick="switchUnifiedMylistTab('flashcard', this)">🎴 フラッシュカード (<span id="tab-cnt-flashcard">0</span>)</button>
+        <button class="modal-tab-btn" id="um-tab-jlpt" onclick="switchUnifiedMylistTab('jlpt', this)">🎯 JLPT単語 (<span id="tab-cnt-jlpt">0</span>)</button>
+        <button class="modal-tab-btn" id="um-tab-phrase" onclick="switchUnifiedMylistTab('phrase', this)">💬 会話・例文 (<span id="tab-cnt-phrase">0</span>)</button>
+      </div>
+    </div>
+
+    <!-- リスト本文エリア -->
+    <div class="app-modal-body" id="unified-mylist-items-container" style="flex:1; overflow-y:auto; padding:16px 20px; display:flex; flex-direction:column; gap:12px; background:#F4F8FC;">
+      <div style="text-align:center; padding:40px; color:#64748B;">読み込み中...</div>
+    </div>
+
+    <!-- フッターアクション -->
+    <div style="background:white; border-top:1px solid #E2ECF2; padding:12px 20px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; flex-shrink:0;">
+      <a href="index.html" class="top-user-chip" style="background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; font-weight:700; text-decoration:none; padding:8px 16px; border-radius:10px;">
+        🎴 フラッシュカードで特訓する →
+      </a>
+      <a href="mypage.html" class="top-user-chip" style="background:#1486AD; color:white; border:none; font-weight:700; text-decoration:none; padding:8px 16px; border-radius:10px;">
+        📊 総合マイページを開く →
+      </a>
     </div>
   </div>
 </div>
@@ -4064,8 +4091,8 @@ rt {
 <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js"></script>
-<script src="auth.js"></script>
-<script src="user_progress.js"></script>
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
 
 <script src="database/kanji_practice_sheets_data.js"></script>
 <script src="database/kanji_writing_quiz_data.js"></script>
@@ -4228,6 +4255,7 @@ rt {
       if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('quiz');
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
+      if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
     } catch(err) {
       console.warn('Sub-initializer warning for ' + name + ':', err);
     }
@@ -13014,6 +13042,165 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     if (!w.exampleJp) return;
     playAppAudio(w.exampleJp);
   }
+
+  // ================= 🌟 総合マイリスト一元管理システム =================
+  let currentUnifiedMylistTab = 'all';
+  let cachedUnifiedMylist = [];
+
+  function renderUnifiedMylistModal() {
+    if (!window.UserProgress) return;
+    cachedUnifiedMylist = window.UserProgress.getUnifiedMylist();
+    updateUnifiedMylistTabCounts();
+    filterUnifiedMylist();
+  }
+
+  function updateUnifiedMylistTabCounts() {
+    const list = cachedUnifiedMylist || [];
+    const countAll = list.length;
+    const countFc = list.filter(i => i.source === 'flashcard' || i.isFlashcard).length;
+    const countJlpt = list.filter(i => i.source === 'jlpt' || (i.level && i.level.startsWith('N'))).length;
+    const countPhrase = list.filter(i => i.source === 'portal' || i.source === 'phrase' || (!i.isFlashcard && !(i.level && i.level.startsWith('N')))).length;
+
+    const elAll = document.getElementById('tab-cnt-all');
+    const elFc = document.getElementById('tab-cnt-flashcard');
+    const elJlpt = document.getElementById('tab-cnt-jlpt');
+    const elPhrase = document.getElementById('tab-cnt-phrase');
+    const elTotal = document.getElementById('unified-mylist-count');
+    const headerSavedCount = document.getElementById('header-saved-count');
+    const heroSavedCount = document.getElementById('hero-saved-vocab');
+
+    if (elAll) elAll.textContent = countAll;
+    if (elFc) elFc.textContent = countFc;
+    if (elJlpt) elJlpt.textContent = countJlpt;
+    if (elPhrase) elPhrase.textContent = countPhrase;
+    if (elTotal) elTotal.textContent = countAll;
+    if (headerSavedCount) headerSavedCount.textContent = countAll;
+    if (heroSavedCount) heroSavedCount.textContent = countAll;
+  }
+
+  function switchUnifiedMylistTab(tabKey, btnEl) {
+    currentUnifiedMylistTab = tabKey;
+    document.querySelectorAll('#modal-mylist .modal-tab-btn').forEach(b => b.classList.remove('active'));
+    if (btnEl) btnEl.classList.add('active');
+    filterUnifiedMylist();
+  }
+
+  function filterUnifiedMylist() {
+    const query = (document.getElementById('unified-mylist-search')?.value || '').trim().toLowerCase();
+    const container = document.getElementById('unified-mylist-items-container');
+    if (!container) return;
+
+    let items = cachedUnifiedMylist || [];
+
+    // タブフィルター
+    if (currentUnifiedMylistTab === 'flashcard') {
+      items = items.filter(i => i.source === 'flashcard' || i.isFlashcard);
+    } else if (currentUnifiedMylistTab === 'jlpt') {
+      items = items.filter(i => i.source === 'jlpt' || (i.level && i.level.startsWith('N')));
+    } else if (currentUnifiedMylistTab === 'phrase') {
+      items = items.filter(i => i.source === 'portal' || i.source === 'phrase' || (!i.isFlashcard && !(i.level && i.level.startsWith('N'))));
+    }
+
+    // 検索語フィルター
+    if (query) {
+      items = items.filter(i => 
+        (i.word && i.word.toLowerCase().includes(query)) ||
+        (i.reading && i.reading.toLowerCase().includes(query)) ||
+        (i.meaning && i.meaning.toLowerCase().includes(query)) ||
+        (i.exampleJa && i.exampleJa.toLowerCase().includes(query))
+      );
+    }
+
+    if (items.length === 0) {
+      container.innerHTML = `
+        <div style="text-align:center; padding:50px 20px; color:#64748B;">
+          <div style="font-size:2.4rem; margin-bottom:12px;">📂</div>
+          <div style="font-weight:700; font-size:1.05rem; color:#1E293B; margin-bottom:6px;">
+            ${query ? '該当する保存アイテムは見つかりませんでした' : '保存されたマイリストがありません'}
+          </div>
+          <p style="font-size:0.85rem; color:#64748B; max-width:400px; margin:0 auto 18px;">
+            フラッシュカード、総合ポータル、JLPT問題から「マイリストに保存」を押すと、ここに自動でまとまります。
+          </p>
+          <a href="index.html" class="top-user-chip" style="background:#1486AD; color:white; padding:8px 20px; font-weight:700; text-decoration:none; display:inline-block; border-radius:10px;">
+            フラッシュカードを開く →
+          </a>
+        </div>
+      `;
+      return;
+    }
+
+    container.innerHTML = items.map((item, idx) => {
+      const isFc = item.source === 'flashcard' || item.isFlashcard;
+      const isJlpt = item.source === 'jlpt' || (item.level && item.level.startsWith('N'));
+      const badgeText = isFc ? '🎴 フラッシュカード' : (isJlpt ? `🎯 JLPT ${item.level || ''}` : '💬 会話・例文');
+      const badgeBg = isFc ? '#EFF6FF' : (isJlpt ? '#FEF3C7' : '#F0FDF4');
+      const badgeColor = isFc ? '#1D4ED8' : (isJlpt ? '#B45309' : '#15803D');
+
+      const cleanSpeechWord = extractCleanTextForSpeech(item.word);
+      const cleanSpeechEx = item.exampleJa ? extractCleanTextForSpeech(item.exampleJa) : '';
+
+      return `
+        <div style="background:white; border:1px solid #E2ECF2; border-radius:14px; padding:14px 18px; box-shadow:0 1px 4px rgba(0,0,0,0.03); transition:all 0.15s; display:flex; flex-direction:column; gap:8px;" onmouseover="this.style.boxShadow='0 4px 12px rgba(20,134,173,0.1)'" onmouseout="this.style.boxShadow='0 1px 4px rgba(0,0,0,0.03)'">
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:10px;">
+            <div style="display:flex; align-items:baseline; gap:8px; flex-wrap:wrap;">
+              <span style="font-size:1.25rem; font-weight:800; color:#1E557E;" class="jp-font">${item.word}</span>
+              ${item.reading ? `<span style="font-size:0.88rem; font-weight:700; color:#64748B;">（${escapeHtml(item.reading)}）</span>` : ''}
+              <span style="background:${badgeBg}; color:${badgeColor}; font-size:0.72rem; font-weight:800; padding:2px 8px; border-radius:6px;">${badgeText}</span>
+            </div>
+            
+            <div style="display:flex; align-items:center; gap:6px;">
+              <button onclick="playAppAudio('${escapeJs(cleanSpeechWord)}')" style="background:#EEF7FB; border:1px solid #BDE0F2; color:#1486AD; width:34px; height:34px; border-radius:50%; font-size:15px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background 0.15s;" title="単語の発音を再生" onmouseover="this.style.background='#D5EDF8'" onmouseout="this.style.background='#EEF7FB'">
+                🔊
+              </button>
+              <button onclick="deleteUnifiedMylistItem('${escapeJs(item.word)}')" style="background:#FFF1F2; border:1px solid #FECDD3; color:#E11D48; width:34px; height:34px; border-radius:50%; font-size:14px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background 0.15s;" title="マイリストから削除" onmouseover="this.style.background='#FFE4E6'" onmouseout="this.style.background='#FFF1F2'">
+                🗑️
+              </button>
+            </div>
+          </div>
+
+          <!-- 意味 -->
+          <div style="font-size:0.92rem; color:#1E293B; font-weight:600; line-height:1.4;">
+            ${escapeHtml(item.meaning || '（意味なし）')}
+          </div>
+
+          <!-- 例文エリア -->
+          ${item.exampleJa ? `
+            <div style="background:#F8FAFC; border-left:3px solid #1486AD; border-radius:0 8px 8px 0; padding:8px 12px; margin-top:4px;">
+              <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">
+                <div style="font-size:0.9rem; color:#0F172A; line-height:1.6;" class="jp-font">
+                  ${item.exampleJa}
+                </div>
+                <button onclick="playAppAudio('${escapeJs(cleanSpeechEx)}')" style="background:none; border:none; color:#1486AD; font-size:14px; cursor:pointer; padding:2px; flex-shrink:0;" title="例文の音声を再生">
+                  🔊
+                </button>
+              </div>
+              ${item.exampleNative ? `
+                <div style="font-size:0.8rem; color:#64748B; margin-top:4px; line-height:1.4;">
+                  ${escapeHtml(item.exampleNative)}
+                </div>
+              ` : ''}
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }).join('');
+  }
+
+  function deleteUnifiedMylistItem(word) {
+    if (!confirm(`「${word}」をマイリストから削除しますか？`)) return;
+    if (window.UserProgress) {
+      window.UserProgress.removeSavedVocab(word);
+      cachedUnifiedMylist = window.UserProgress.getUnifiedMylist();
+      updateUnifiedMylistTabCounts();
+      filterUnifiedMylist();
+      if (typeof showToast === 'function') showToast(`「${word}」をマイリストから削除しました`);
+    }
+  }
+
+  // 初期化時に件数カウントを反映
+  document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(updateUnifiedMylistTabCounts, 200);
+  });
 
   // キーボード操作対応
   window.addEventListener('keydown', (e) => {

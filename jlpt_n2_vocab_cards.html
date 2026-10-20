@@ -267,6 +267,14 @@
 
       <!-- Right: Toggles (Direction, Furigana, Mobile Drawer Trigger) -->
       <div class="flex items-center space-x-2 sm:space-x-2.5">
+        <button type="button" class="unified-student-badge flex items-center gap-1.5 bg-white/20 hover:bg-white/30 border border-white/30 px-2.5 sm:px-3 py-1 rounded-full text-white text-[11px] font-extrabold transition shadow-xs cursor-pointer active:scale-95" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" title="生徒ログイン・切替">
+          <span>🔑</span>
+          <span>ログイン</span>
+        </button>
+        <a href="index.html" class="hidden sm:flex items-center gap-1 bg-white/20 hover:bg-white/30 border border-white/30 px-2.5 py-1 rounded-full text-white text-[11px] font-extrabold transition shadow-xs" title="単語帳フラッシュカードを開く">
+          <span>🎴 単語帳</span>
+        </a>
+
         <!-- Study Direction Switcher (日→英 / 英→日) -->
         <button id="btnStudyDirectionHeader" onclick="toggleStudyDirection()" class="flex items-center gap-1.5 bg-white/20 hover:bg-white/30 border border-white/30 px-2.5 sm:px-3 py-1 rounded-full text-white text-[11px] font-extrabold transition shadow-xs cursor-pointer active:scale-95" title="出題の向きを切り替え（日→英 / 英→日）">
           <i data-lucide="arrow-left-right" class="w-3.5 h-3.5"></i>
@@ -646,8 +654,8 @@
   </footer>
 
   <!-- AUTH, USER PROGRESS & DATABASE SCRIPTS -->
-  <script src="auth.js"></script>
-  <script src="user_progress.js"></script>
+  <script src="auth.js?v=20261021_0110"></script>
+  <script src="user_progress.js?v=20261021_0110"></script>
   <script src="database/jlpt_n2_vocab_full_data.js"></script>
 
   <!-- FLASHCARD APPLICATION LOGIC -->

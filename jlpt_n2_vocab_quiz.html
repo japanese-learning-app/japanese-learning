@@ -1504,6 +1504,14 @@
       <div class="brand-sub">PDF完全準拠（この1冊で合格する ＆ 新にほんご500問）演習道場</div>
     </div>
     <div class="header-actions">
+      <!-- 生徒認証バッジ -->
+      <button type="button" class="header-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="cursor:pointer;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="header-btn" title="単語帳フラッシュカードを開く">
+        🎴 単語帳
+      </a>
       <!-- ふりがな ON/OFF Toggle -->
       <div class="furigana-toggle" id="furiganaToggle" title="漢字の上のふりがなON/OFF">
         <span class="toggle-label active" id="furiOnLabel">ふりがな ON</span>
@@ -1765,6 +1773,8 @@
 <div class="toast" id="toast"></div>
 
 <!-- Load Database -->
+<script src="auth.js"></script>
+<script src="user_progress.js"></script>
 <script src="database/jlpt_n2_vocab_quiz_data.js"></script>
 <script src="database/jlpt_n2_vocab_full_data.js" defer></script>
 <script src="database/dict_examples_map.js" defer></script>
@@ -1923,16 +1933,47 @@
     return html;
   }
 
+  function getMyListStorageKey() {
+    const sId = (window.AppAuth && window.AppAuth.getCurrentStudent()?.id) || localStorage.getItem('haku_current_student_id') || 'guest';
+    return `n2_vocab_quiz_mylist_${sId}`;
+  }
+
   // Load MyList from LocalStorage
   let myList = [];
-  try {
-    const raw = localStorage.getItem(STORAGE_MYLIST_KEY);
-    if (raw) myList = JSON.parse(raw);
-  } catch(e) { myList = []; }
+  function loadMyListFromStorage() {
+    try {
+      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n2_vocab_quiz_mylist');
+      myList = raw ? JSON.parse(raw) : [];
+    } catch(e) { myList = []; }
+  }
+  loadMyListFromStorage();
 
   function saveMyList() {
-    localStorage.setItem(STORAGE_MYLIST_KEY, JSON.stringify(myList));
+    localStorage.setItem(getMyListStorageKey(), JSON.stringify(myList));
     updateMyListUI();
+    // 総合ポータルのマイリストにも同期
+    if (window.UserProgress && activeIndices.length > 0) {
+      const q = data[activeIndices[currentIndex]];
+      if (q && q.correctAnswer) {
+        if (myList.includes(q.id)) {
+          window.UserProgress.addSavedVocab({
+            id: `jlpt_vocab_q_${q.id}`,
+            word: q.correctAnswer,
+            reading: q.reading || '',
+            meaning: q.meaning || q.questionText || '',
+            level: 'N2',
+            source: 'jlpt'
+          });
+        }
+      }
+    }
+  }
+
+  if (window.AppAuth) {
+    window.AppAuth.onAuthStateChanged(() => {
+      loadMyListFromStorage();
+      updateMyListUI();
+    });
   }
 
   function updateMyListUI() {

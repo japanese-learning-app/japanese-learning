@@ -7485,6 +7485,10 @@
 
     if (student) {
       localStorage.setItem('haku_current_student_id', student.id);
+      if (window.AppAuth && typeof window.AppAuth.refreshCurrentStudent === 'function') {
+        window.AppAuth.refreshCurrentStudent();
+        window.AppAuth.updateAllHeaderUI();
+      }
       document.getElementById('headerStudentBadge').textContent = isTeacher ? 'ハク先生 🌸' : `Student: ${student.name}`;
       // Update drawer student display
       if (drawerName) drawerName.textContent = student.name;
@@ -7520,6 +7524,10 @@
       updateActiveDeck();
     } else {
       localStorage.removeItem('haku_current_student_id');
+      if (window.AppAuth && typeof window.AppAuth.refreshCurrentStudent === 'function') {
+        window.AppAuth.refreshCurrentStudent();
+        window.AppAuth.updateAllHeaderUI();
+      }
       document.getElementById('headerStudentBadge').textContent = 'Student: Guest';
       if (drawerName) drawerName.textContent = 'Guest';
       if (drawerStatus) drawerStatus.textContent = 'Not logged in';

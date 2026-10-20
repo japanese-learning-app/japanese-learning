@@ -417,6 +417,13 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
         ホームに戻る
       </a>
+      <button type="button" class="header-mypage-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="cursor:pointer; display:inline-flex; align-items:center; gap:5px;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="header-mypage-btn" title="単語帳フラッシュカードを開く">
+        🎴 フラッシュカード
+      </a>
       <a href="mypage.html" class="header-mypage-btn">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
         マイページ
@@ -542,8 +549,8 @@
   </div>
 </div>
 
-<script src="auth.js"></script>
-<script src="user_progress.js"></script>
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
 <script src="database/jlpt_vocab_all.js"></script>
 <script>
   const LEVEL_INFO = {

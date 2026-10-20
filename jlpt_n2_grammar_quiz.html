@@ -1349,6 +1349,14 @@
       <div class="brand-sub">全195文法項目・全1,507問 穴埋め4択道場</div>
     </div>
     <div class="header-actions">
+      <!-- 生徒認証バッジ -->
+      <button type="button" class="header-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="cursor:pointer;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="header-btn" title="単語帳フラッシュカードを開く">
+        🎴 単語帳
+      </a>
       <!-- ふりがな ON/OFF スイッチ（漢字の真上のルビ制御） -->
       <div class="furigana-toggle" id="furiganaToggle" title="問題文と選択肢の漢字の上のふりがな（ルビ）を切り替えます">
         <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
@@ -1594,6 +1602,8 @@
 </footer>
 
 <!-- 1,507 Questions Dataset (Ruby付き) & Similar Grammar Dictionary -->
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
 <script src="database/jlpt_similar_grammar_dict.js"></script>
 <script src="database/jlpt_n2_vocab_full_data.js" defer></script>

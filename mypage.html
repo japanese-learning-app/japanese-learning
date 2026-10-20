@@ -559,6 +559,14 @@
       </div>
     </a>
     <div class="header-nav">
+      <button type="button" class="nav-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="background:#EEF7FB; border:1.5px solid #80BFE0; color:#1486AD; font-weight:700; cursor:pointer;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="nav-btn" title="単語帳フラッシュカードを開く">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+        フラッシュカード
+      </a>
       <a href="app.html" class="nav-btn primary">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
         ホームへ戻る
@@ -669,8 +677,8 @@
 </footer>
 
 <!-- Scripts -->
-<script src="auth.js"></script>
-<script src="user_progress.js"></script>
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
 <script src="database/jlpt_questions_data.js"></script>
 
 <script>
@@ -818,29 +826,46 @@
 
     const list = window.UserProgress.getSavedVocabList();
     const filtered = query.trim() 
-      ? list.filter(v => (v.word + v.reading + v.meaning).toLowerCase().includes(query.trim().toLowerCase()))
+      ? list.filter(v => (v.word + (v.reading || '') + (v.meaning || '') + (v.exampleJa || '')).toLowerCase().includes(query.trim().toLowerCase()))
       : list;
 
     if (filtered.length === 0) {
-      container.innerHTML = '<div style="grid-column:1/-1; padding:40px; text-align:center; color:var(--text-muted);"><p>マイ単語帳に保存された単語はありません。</p><p style="font-size:0.85rem; margin-top:6px;">「単語リスト（jlpt_vocab.html）」で保存した単語がここに表示されます。</p></div>';
+      container.innerHTML = '<div style="grid-column:1/-1; padding:40px; text-align:center; color:var(--text-muted);"><p style="font-size:1.05rem; font-weight:700;">マイ単語帳に保存された単語はありません。</p><p style="font-size:0.85rem; margin-top:6px;">フラッシュカード、総合ポータル、JLPTで保存したすべての単語がここに自動集約されます。</p></div>';
       return;
     }
 
     filtered.forEach(v => {
       const card = document.createElement('div');
       card.className = 'vocab-saved-card';
+      const isFc = v.source === 'flashcard' || v.isFlashcard;
+      const isJlpt = v.source === 'jlpt' || (v.level && v.level.startsWith('N'));
+      const badgeText = isFc ? '🎴 フラッシュカード' : (isJlpt ? `🎯 JLPT ${v.level || ''}` : '💬 会話・例文');
+      const badgeBg = isFc ? '#EFF6FF' : (isJlpt ? '#FEF3C7' : '#F0FDF4');
+      const badgeColor = isFc ? '#1D4ED8' : (isJlpt ? '#B45309' : '#15803D');
+
+      const cleanWord = (v.word || '').replace(/<rt>.*?<\/rt>/g, '').replace(/<[^>]+>/g, '').trim();
+
       card.innerHTML = `
         <div>
-          <div class="vocab-card-head">
+          <div class="vocab-card-head" style="align-items:flex-start;">
             <div>
-              <div class="vocab-word-main">${v.word}</div>
-              <div class="vocab-reading-sub">${v.reading}</div>
+              <div class="vocab-word-main" style="display:flex; align-items:center; gap:8px;">
+                <span>${v.word}</span>
+                <button type="button" onclick="playMypageAudio('${escapeJs(cleanWord)}')" style="background:#EEF7FB; border:1px solid #80BFE0; color:#1486AD; width:28px; height:28px; border-radius:50%; font-size:13px; cursor:pointer; display:inline-flex; align-items:center; justify-content:center;" title="音声を再生">🔊</button>
+              </div>
+              ${v.reading ? `<div class="vocab-reading-sub">（${v.reading}）</div>` : ''}
             </div>
-            <span class="vocab-lvl-badge">${v.level || 'JLPT'}</span>
+            <span class="vocab-lvl-badge" style="background:${badgeBg}; color:${badgeColor}; font-weight:800;">${badgeText}</span>
           </div>
-          <div class="vocab-meaning-text">${v.meaning}</div>
+          <div class="vocab-meaning-text" style="margin-top:6px; font-weight:600; color:#1E293B;">${v.meaning || ''}</div>
+          ${v.exampleJa ? `
+            <div style="background:#F8FAFC; border-left:3px solid #1486AD; padding:6px 10px; margin-top:8px; border-radius:0 6px 6px 0; font-size:0.85rem; line-height:1.5;">
+              <div style="color:#0F172A;">${v.exampleJa}</div>
+              ${v.exampleNative ? `<div style="font-size:0.75rem; color:#64748B; margin-top:2px;">${v.exampleNative}</div>` : ''}
+            </div>
+          ` : ''}
         </div>
-        <div class="vocab-card-bottom">
+        <div class="vocab-card-bottom" style="margin-top:12px;">
           <button class="btn-remove-vocab" onclick="removeVocab('${v.word}')">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
             単語帳から削除
@@ -849,6 +874,23 @@
       `;
       container.appendChild(card);
     });
+  }
+
+  function playMypageAudio(text) {
+    if (!text) return;
+    try {
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = 'ja-JP';
+      u.rate = 0.9;
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(u);
+    } catch(e) {
+      console.warn('Audio notice:', e);
+    }
+  }
+
+  function escapeJs(str) {
+    return (str || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
   }
 
   function removeVocab(word) {

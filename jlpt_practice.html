@@ -1711,18 +1711,23 @@
     <div class="header-nav">
       <!-- Auth Status Box -->
       <div id="auth-nav-logged-out">
-        <button class="nav-btn" onclick="openAuthModal()">
+        <button class="nav-btn" onclick="window.AppAuth.openLoginModal()">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-          ログイン / 登録
+          生徒ログイン
         </button>
       </div>
-      <div id="auth-nav-logged-in" class="auth-user-wrap" style="display:none;">
+      <div id="auth-nav-logged-in" class="auth-user-wrap" style="display:none; cursor:pointer;" onclick="window.AppAuth.openUserMenu()">
         <span class="user-badge">
           <span class="user-avatar" id="header-user-avatar">ユ</span>
           <span id="header-user-name">ユーザー</span>
         </span>
-        <button class="btn-logout" onclick="window.AppAuth.logout()">ログアウト</button>
+        <button class="btn-logout" onclick="event.stopPropagation(); window.AppAuth.promptLogout()">ログアウト</button>
       </div>
+
+      <a href="index.html" class="nav-btn" style="background:#EFF6FF; color:#1D4ED8; border-color:#BFDBFE; font-weight:700;">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+        フラッシュカード
+      </a>
 
       <a href="jlpt_n2_vocab_cards.html" class="nav-btn" style="background:rgba(232, 164, 178, 0.22); color:#FFFFFF; border-color:rgba(232, 164, 178, 0.45); font-weight:700;">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
@@ -2298,8 +2303,8 @@
 </footer>
 
 <!-- Auth Client, User Progress & Questions Database -->
-<script src="auth.js"></script>
-<script src="user_progress.js"></script>
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
 <script src="database/jlpt_vocab_all.js"></script>
 <script src="database/jlpt_questions_data.js"></script>
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
@@ -2381,6 +2386,10 @@
   let authMode = 'login'; // 'login' or 'register'
 
   function openAuthModal(mode = 'login') {
+    if (window.AppAuth && typeof window.AppAuth.openLoginModal === 'function') {
+      window.AppAuth.openLoginModal();
+      return;
+    }
     switchAuthTab(mode);
     document.getElementById('auth-modal').classList.add('open');
     document.getElementById('auth-error-box').style.display = 'none';
