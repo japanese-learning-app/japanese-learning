@@ -1356,14 +1356,27 @@
     window.speakWord = function() {
       if (!currentDeck || currentDeck.length === 0) return;
       const item = currentDeck[currentIndex];
-      const textToSpeak = item.word.replace(/（する）/g, 'する').replace(/\(する\)/g, 'する').split('/')[0].trim();
+      // 読み間違いを防ぐため reading があれば reading を優先
+      const base = item.reading || item.word || '';
+      const textToSpeak = base
+        .replace(/（する）/g, '')
+        .replace(/\(する\)/g, '')
+        .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+        .replace(/<[^>]+>/g, '')
+        .split('/')[0]
+        .trim();
       speakText(textToSpeak, 'ja');
     };
 
     window.speakExample = function() {
       if (!currentDeck || currentDeck.length === 0) return;
       const item = currentDeck[currentIndex];
-      const plainText = (item.ex_ja || '').replace(/<[^>]+>/g, '').trim();
+      // <rt>タグ（ふりがな）を完全除去してからHTMLタグを消し、純粋な自然な日本語文にする（ルビとの二重読み上げを完全防止）
+      const plainText = (item.ex_ja || '')
+        .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+        .replace(/<[^>]+>/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
       speakText(plainText, 'ja');
     };
 

@@ -218,7 +218,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あな",
     "ruby": "<ruby>穴<rt>あな</rt></ruby>",
     "meaning": "hole",
-    "ex_ja": "<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>のあちこちに<ruby>大<rt>おお</rt></ruby>きな<ruby>穴<rt>あな</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>き、<ruby>通行止<rt>つうこうどめ</rt></ruby>めになっている。",
+    "ex_ja": "<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>のあちこちに<ruby>大<rt>おお</rt></ruby>きな<ruby>穴<rt>あな</rt></ruby>が<ruby>開<rt>あ</rt></ruby>き、<ruby>通行止<rt>つうこうどめ</rt></ruby>めになっている。",
     "ex_en": "Due to the heavy rain, large holes opened up in several places on the road, causing it to be closed to traffic."
   },
   {
@@ -234,7 +234,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くも",
     "ruby": "<ruby>雲<rt>くも</rt></ruby>",
     "meaning": "cloud",
-    "ex_ja": "<ruby>午後<rt>ごご</rt></ruby>になると<ruby>空<rt>そら</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>厚<rt>あつ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がり、<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しそうな<ruby>天気<rt>てんき</rt></ruby>になった。",
+    "ex_ja": "<ruby>午後<rt>ごご</rt></ruby>になると<ruby>空<rt>そら</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>厚<rt>あつ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がり、<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しそうな<ruby>天気<rt>てんき</rt></ruby>になった。",
     "ex_en": "In the afternoon, thick clouds spread across the entire sky, and it looked as though it could start raining at any moment."
   },
   {
@@ -890,7 +890,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かべ",
     "ruby": "<ruby>壁<rt>かべ</rt></ruby>",
     "meaning": "wall",
-    "ex_ja": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>揺<rt>ゆ</rt></ruby>れによって<ruby>部屋<rt>へや</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さなひびが<ruby>入<rt>いっ</rt></ruby>ってしまったので、<ruby>修繕<rt>しゅうぜん</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>した。",
+    "ex_ja": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>揺<rt>ゆ</rt></ruby>れによって<ruby>部屋<rt>へや</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さなひびが<ruby>入<rt>はい</rt></ruby>ってしまったので、<ruby>修繕<rt>しゅうぜん</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>した。",
     "ex_en": "Because small cracks appeared in the room's wall due to the earthquake tremors, I requested repairs."
   },
   {
@@ -3658,7 +3658,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうはん",
     "ruby": "<ruby>後半<rt>こうはん</rt></ruby>",
     "meaning": "second half, latter half",
-    "ex_ja": "<ruby>前半<rt>ぜんはん</rt></ruby>は<ruby>相手<rt>あいて</rt></ruby>チームに<ruby>先制<rt>せんせい</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>したものの、<ruby>後半<rt>こうはん</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>って<ruby>怒涛<rt>どとう</rt></ruby>の<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>仕掛<rt>しか</rt></ruby>けて<ruby>見事<rt>みごと</rt></ruby>に<ruby>逆転<rt>ぎゃくてん</rt></ruby>した。",
+    "ex_ja": "<ruby>前半<rt>ぜんはん</rt></ruby>は<ruby>相手<rt>あいて</rt></ruby>チームに<ruby>先制<rt>せんせい</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>したものの、<ruby>後半<rt>こうはん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>怒涛<rt>どとう</rt></ruby>の<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>仕掛<rt>しか</rt></ruby>けて<ruby>見事<rt>みごと</rt></ruby>に<ruby>逆転<rt>ぎゃくてん</rt></ruby>した。",
     "ex_en": "Although we conceded the opening goal to the opposing team in the first half, we mounted a fierce attack in the second half and pulled off a stunning comeback."
   },
   {
@@ -8698,7 +8698,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほいくえん",
     "ruby": "<ruby>保育園<rt>ほいくえん</rt></ruby>",
     "meaning": "nursery school, day nursery, day care center",
-    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>残業<rt>ざんぎょう</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>ってしまったため、<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>保育園<rt>ほいくえん</rt></ruby>の<ruby>延長<rt>えんちょう</rt></ruby><ruby>保育<rt>ほいく</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>し、<ruby>急<rt>いそ</rt></ruby>いで<ruby>子供<rt>こども</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えに<ruby>向<rt>む</rt></ruby>かった。",
+    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>残業<rt>ざんぎょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってしまったため、<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>保育園<rt>ほいくえん</rt></ruby>の<ruby>延長<rt>えんちょう</rt></ruby><ruby>保育<rt>ほいく</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>し、<ruby>急<rt>いそ</rt></ruby>いで<ruby>子供<rt>こども</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えに<ruby>向<rt>む</rt></ruby>かった。",
     "ex_en": "Because unexpected overtime arose, I notified the nursery school to use extended daycare and rushed over to pick up my child."
   },
   {
@@ -10074,7 +10074,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たのむ",
     "ruby": "<ruby>頼<rt>たの</rt></ruby>む",
     "meaning": "to ask",
-    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>出張<rt>しゅっちょう</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>って<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>会合<rt>かいごう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>できなくなったため、<ruby>代理<rt>だいり</rt></ruby>として<ruby>同僚<rt>どうりょう</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>発表資料<rt>はっぴょうしりょう</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>んだ。",
+    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>出張<rt>しゅっちょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>会合<rt>かいごう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>できなくなったため、<ruby>代理<rt>だいり</rt></ruby>として<ruby>同僚<rt>どうりょう</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>発表資料<rt>はっぴょうしりょう</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>んだ。",
     "ex_en": "Because a sudden business trip came up preventing me from attending the weekend meeting, I asked a colleague to present my briefing materials as a proxy."
   },
   {
@@ -11466,7 +11466,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とりけす",
     "ruby": "<ruby>取り消<rt>とりけ</rt></ruby>す",
     "meaning": "to cancel",
-    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>出張<rt>しゅっちょう</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>ってしまったため、<ruby>来週末<rt>らいしゅうまつ</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>していたホテルを<ruby>取り消<rt>とりけ</rt></ruby>した。",
+    "ex_ja": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>出張<rt>しゅっちょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってしまったため、<ruby>来週末<rt>らいしゅうまつ</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>していたホテルを<ruby>取り消<rt>とりけ</rt></ruby>した。",
     "ex_en": "Because a sudden business trip came up, I cancelled the hotel reservation I had made for next weekend."
   },
   {
@@ -13418,7 +13418,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すっかり",
     "ruby": "すっかり",
     "meaning": "completely",
-    "ex_ja": "<ruby>十月<rt>じゅうがつ</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>って<ruby>朝晩<rt>あさばん</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり、<ruby>街<rt>まち</rt></ruby>の<ruby>木々<rt>きぎ</rt></ruby>も<ruby>色<rt>いろ</rt></ruby>づいてすっかり<ruby>秋<rt>あき</rt></ruby>らしい<ruby>気候<rt>きこう</rt></ruby>になった。",
+    "ex_ja": "<ruby>十月<rt>じゅうがつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>朝晩<rt>あさばん</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり、<ruby>街<rt>まち</rt></ruby>の<ruby>木々<rt>きぎ</rt></ruby>も<ruby>色<rt>いろ</rt></ruby>づいてすっかり<ruby>秋<rt>あき</rt></ruby>らしい<ruby>気候<rt>きこう</rt></ruby>になった。",
     "ex_en": "Entering October, temperatures dropped in the morning and evening, the town's trees changed color, and the climate became completely autumnal."
   },
   {
@@ -13530,7 +13530,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぐっすり",
     "ruby": "ぐっすり",
     "meaning": "sound asleep, fast asleep",
-    "ex_ja": "ぬるめのお<ruby>風呂<rt>ふろ</rt></ruby>にゆっくり<ruby>浸<rt>しん</rt></ruby>かってからベッドに<ruby>入<rt>いっ</rt></ruby>ったので、<ruby>朝<rt>あさ</rt></ruby>まで<ruby>一度<rt>いちど</rt></ruby>も<ruby>起<rt>お</rt></ruby>きずにぐっすり<ruby>眠<rt>ねむ</rt></ruby>れた。",
+    "ex_ja": "ぬるめのお<ruby>風呂<rt>ふろ</rt></ruby>にゆっくり<ruby>浸<rt>しん</rt></ruby>かってからベッドに<ruby>入<rt>はい</rt></ruby>ったので、<ruby>朝<rt>あさ</rt></ruby>まで<ruby>一度<rt>いちど</rt></ruby>も<ruby>起<rt>お</rt></ruby>きずにぐっすり<ruby>眠<rt>ねむ</rt></ruby>れた。",
     "ex_en": "Because I soaked comfortably in a lukewarm bath before going to bed, I was able to sleep soundly until morning without waking up once."
   },
   {
@@ -14474,7 +14474,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "チラシ",
     "ruby": "チラシ",
     "meaning": "チラシ (loanword)",
-    "ex_ja": "<ruby>郵便受<rt>ゆうびんう</rt></ruby>けに<ruby>入<rt>いっ</rt></ruby>っていた<ruby>近所<rt>きんじょ</rt></ruby>のスーパーの<ruby>特売<rt>とくばい</rt></ruby>チラシを<ruby>見<rt>み</rt></ruby>て、<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>の<ruby>献立<rt>こんだて</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた。",
+    "ex_ja": "<ruby>郵便受<rt>ゆうびんう</rt></ruby>けに<ruby>入<rt>はい</rt></ruby>っていた<ruby>近所<rt>きんじょ</rt></ruby>のスーパーの<ruby>特売<rt>とくばい</rt></ruby>チラシを<ruby>見<rt>み</rt></ruby>て、<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>の<ruby>献立<rt>こんだて</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた。",
     "ex_en": "Seeing the special sale flyer from the nearby supermarket in the mailbox, I decided on the dinner menu."
   },
   {
@@ -20266,7 +20266,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こさめ",
     "ruby": "<ruby>小雨<rt>こさめ</rt></ruby>",
     "meaning": "light rain, drizzle",
-    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>からしとしとと<ruby>小雨<rt>こさめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>いていたが、<ruby>風<rt>かぜ</rt></ruby>が<ruby>全<rt>まった</rt></ruby>くなかったため<ruby>傘<rt>かさ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>さずに<ruby>近所<rt>きんじょ</rt></ruby>のカフェまで<ruby>散歩<rt>さんぽ</rt></ruby>した。",
+    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>からしとしとと<ruby>小雨<rt>こさめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>いていたが、<ruby>風<rt>かぜ</rt></ruby>が<ruby>全<rt>まった</rt></ruby>くなかったため<ruby>傘<rt>かさ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>さずに<ruby>近所<rt>きんじょ</rt></ruby>のカフェまで<ruby>散歩<rt>さんぽ</rt></ruby>した。",
     "ex_en": "Although a light drizzle had been falling continuously since morning, there was no wind at all, so I strolled to the neighborhood cafe without an umbrella."
   },
   {
@@ -25018,7 +25018,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てまえ",
     "ruby": "<ruby>手前<rt>てまえ</rt></ruby>",
     "meaning": "before, this side, we",
-    "ex_ja": "<ruby>手前<rt>てまえ</rt></ruby>にひいて<ruby>開<rt>ひら</rt></ruby>けてください。",
+    "ex_ja": "<ruby>手前<rt>てまえ</rt></ruby>にひいて<ruby>開<rt>あ</rt></ruby>けてください。",
     "ex_en": "Pull it open."
   },
   {
@@ -27162,7 +27162,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶんぐ",
     "ruby": "<ruby>文具<rt>ぶんぐ</rt></ruby>",
     "meaning": "stationery",
-    "ex_ja": "この<ruby>筆箱<rt>ふでばこ</rt></ruby>には、<ruby>消しゴム<rt>けしごむ</rt></ruby>や<ruby>定規<rt>じょうぎ</rt></ruby>など<ruby>普段<rt>ふだん</rt></ruby>よく<ruby>使<rt>つか</rt></ruby>う<ruby>文具<rt>ぶんぐ</rt></ruby>が<ruby>一通<rt>ひととお</rt></ruby>り<ruby>入<rt>いっ</rt></ruby>っている。",
+    "ex_ja": "この<ruby>筆箱<rt>ふでばこ</rt></ruby>には、<ruby>消しゴム<rt>けしごむ</rt></ruby>や<ruby>定規<rt>じょうぎ</rt></ruby>など<ruby>普段<rt>ふだん</rt></ruby>よく<ruby>使<rt>つか</rt></ruby>う<ruby>文具<rt>ぶんぐ</rt></ruby>が<ruby>一通<rt>ひととお</rt></ruby>り<ruby>入<rt>はい</rt></ruby>っている。",
     "ex_en": "This pencil case holds a full set of everyday stationery such as erasers and rulers."
   },
   {
@@ -29786,7 +29786,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いそぎ",
     "ruby": "<ruby>急<rt>いそ</rt></ruby>ぎ",
     "meaning": "haste, hurry, urgency",
-    "ex_ja": "<ruby>急<rt>いそ</rt></ruby>ぎの<ruby>案件<rt>あんけん</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>ったため、<ruby>予定<rt>よてい</rt></ruby>していたランチをキャンセルして<ruby>作業<rt>さぎょう</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>した。",
+    "ex_ja": "<ruby>急<rt>いそ</rt></ruby>ぎの<ruby>案件<rt>あんけん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったため、<ruby>予定<rt>よてい</rt></ruby>していたランチをキャンセルして<ruby>作業<rt>さぎょう</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>した。",
     "ex_en": "Because an urgent matter came up, I canceled my scheduled lunch and immersed myself in the work."
   },
   {
@@ -29962,7 +29962,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かしぶくろ",
     "ruby": "<ruby>菓子袋<rt>かしぶくろ</rt></ruby>",
     "meaning": "菓子袋 (かしぶくろ)",
-    "ex_ja": "<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが<ruby>開<rt>ひら</rt></ruby>けやすいように、<ruby>菓子<rt>かし</rt></ruby><ruby>袋<rt>ふくろ</rt></ruby>の<ruby>端<rt>はじ</rt></ruby>には<ruby>切<rt>き</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みが<ruby>入<rt>いっ</rt></ruby>っている。",
+    "ex_ja": "<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが<ruby>開<rt>あ</rt></ruby>けやすいように、<ruby>菓子<rt>かし</rt></ruby><ruby>袋<rt>ふくろ</rt></ruby>の<ruby>端<rt>はじ</rt></ruby>には<ruby>切<rt>き</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みが<ruby>入<rt>はい</rt></ruby>っている。",
     "ex_en": "To make it easy for small children to open, there is a notch on the edge of the snack bag."
   },
   {
@@ -30698,7 +30698,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごうかくつうち",
     "ruby": "<ruby>合格通知<rt>ごうかくつうち</rt></ruby>",
     "meaning": "合格通知 (ごうかくつうち)",
-    "ex_ja": "ポストに<ruby>届<rt>とど</rt></ruby>いた<ruby>分厚<rt>ぶあつ</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けると、<ruby>第一<rt>だいいち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>からの<ruby>合格通知<rt>ごうかくつうち</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>っていて<ruby>歓喜<rt>かんき</rt></ruby>した。",
+    "ex_ja": "ポストに<ruby>届<rt>とど</rt></ruby>いた<ruby>分厚<rt>ぶあつ</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>第一<rt>だいいち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>からの<ruby>合格通知<rt>ごうかくつうち</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていて<ruby>歓喜<rt>かんき</rt></ruby>した。",
     "ex_en": "Opening the thick envelope delivered to my mailbox, I was thrilled to find an acceptance notice from my top-choice university."
   },
   {
@@ -44154,7 +44154,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぱったり",
     "ruby": "ぱったり",
     "meaning": "suddenly",
-    "ex_ja": "<ruby>先週<rt>せんしゅう</rt></ruby>まで<ruby>山田<rt>やまだ</rt></ruby>くんから<ruby>何度<rt>なんど</rt></ruby>もしつこく<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ていたが、<ruby>今週<rt>こんしゅう</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>って（　　　）と<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>こ</rt></ruby>なくなった。",
+    "ex_ja": "<ruby>先週<rt>せんしゅう</rt></ruby>まで<ruby>山田<rt>やまだ</rt></ruby>くんから<ruby>何度<rt>なんど</rt></ruby>もしつこく<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ていたが、<ruby>今週<rt>こんしゅう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って（　　　）と<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>こ</rt></ruby>なくなった。",
     "ex_en": "suddenly"
   },
   {
@@ -48058,7 +48058,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんせいひん",
     "ruby": "<ruby>新製品<rt>しんせいひん</rt></ruby>",
     "meaning": "new product",
-    "ex_ja": "ライバル<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>画期的<rt>かっきてき</rt></ruby>な<ruby>新製品<rt>しんせいひん</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>したことを<ruby>受<rt>う</rt></ruby>け、<ruby>開発<rt>かいはつ</rt></ruby>チームは<ruby>対抗策<rt>たいこうさく</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>った。",
+    "ex_ja": "ライバル<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>画期的<rt>かっきてき</rt></ruby>な<ruby>新製品<rt>しんせいひん</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>したことを<ruby>受<rt>う</rt></ruby>け、<ruby>開発<rt>かいはつ</rt></ruby>チームは<ruby>対抗策<rt>たいこうさく</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
     "ex_en": "In response to the rival company announcing a groundbreaking new product, the R&D team began examining countermeasures."
   },
   {
@@ -48298,7 +48298,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんびらき",
     "ruby": "<ruby>半開<rt>はんびら</rt></ruby>き",
     "meaning": "半開き (はんびらき)",
-    "ex_ja": "<ruby>窓<rt>まど</rt></ruby>が<ruby>半開<rt>はんかい</rt></ruby>きのままだったため、<ruby>激<rt>はげ</rt></ruby>しい<ruby>吹<rt>ふ</rt></ruby>き<ruby>降<rt>お</rt></ruby>りの<ruby>雨<rt>あめ</rt></ruby>でカーテンがぐっしょり<ruby>濡<rt>ぬ</rt></ruby>れてしまった。",
+    "ex_ja": "<ruby>窓<rt>まど</rt></ruby>が<ruby>半開<rt>はんかい</rt></ruby>きのままだったため、<ruby>激<rt>はげ</rt></ruby>しい<ruby>吹<rt>ふ</rt></ruby>き<ruby>降<rt>ぶ</rt></ruby>りの<ruby>雨<rt>あめ</rt></ruby>でカーテンがぐっしょり<ruby>濡<rt>ぬ</rt></ruby>れてしまった。",
     "ex_en": "Because the window was left half-open, the curtains got thoroughly soaked by the torrential wind-driven rain."
   },
   {
@@ -49226,7 +49226,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しきか",
     "ruby": "<ruby>指揮下<rt>しきか</rt></ruby>",
     "meaning": "指揮下 (しきか)",
-    "ex_ja": "<ruby>経験豊富<rt>けいけんほうふ</rt></ruby>な<ruby>名<rt>めい</rt></ruby><ruby>指揮官<rt>しきかん</rt></ruby>の<ruby>指揮下<rt>しきか</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>った<ruby>部隊<rt>ぶたい</rt></ruby>は、<ruby>乱<rt>みだ</rt></ruby>れることなく<ruby>整然<rt>せいぜん</rt></ruby>と<ruby>救助<rt>きゅうじょ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めた。",
+    "ex_ja": "<ruby>経験豊富<rt>けいけんほうふ</rt></ruby>な<ruby>名<rt>めい</rt></ruby><ruby>指揮官<rt>しきかん</rt></ruby>の<ruby>指揮下<rt>しきか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>部隊<rt>ぶたい</rt></ruby>は、<ruby>乱<rt>みだ</rt></ruby>れることなく<ruby>整然<rt>せいぜん</rt></ruby>と<ruby>救助<rt>きゅうじょ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めた。",
     "ex_en": "The unit placed under the command of the experienced commander carried out rescue operations in an orderly manner without confusion."
   },
   {
@@ -49322,7 +49322,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えんそうかい",
     "ruby": "<ruby>演奏会<rt>えんそうかい</rt></ruby>",
     "meaning": "concert, recital",
-    "ex_ja": "<ruby>世界的<rt>せかいてき</rt></ruby>なピアニストを<ruby>迎<rt>むか</rt></ruby>えて<ruby>開<rt>ひら</rt></ruby>かれた<ruby>演奏会<rt>えんそうかい</rt></ruby>では、<ruby>満員<rt>まんいん</rt></ruby>の<ruby>聴衆<rt>ちょうしゅう</rt></ruby>が<ruby>息<rt>いき</rt></ruby>を<ruby>呑<rt>の</rt></ruby>んでその<ruby>調<rt>しら</rt></ruby>べに<ruby>聴<rt>き</rt></ruby>き<ruby>入<rt>いっ</rt></ruby>った。",
+    "ex_ja": "<ruby>世界的<rt>せかいてき</rt></ruby>なピアニストを<ruby>迎<rt>むか</rt></ruby>えて<ruby>開<rt>ひら</rt></ruby>かれた<ruby>演奏会<rt>えんそうかい</rt></ruby>では、<ruby>満員<rt>まんいん</rt></ruby>の<ruby>聴衆<rt>ちょうしゅう</rt></ruby>が<ruby>息<rt>いき</rt></ruby>を<ruby>呑<rt>の</rt></ruby>んでその<ruby>調<rt>しら</rt></ruby>べに<ruby>聴<rt>き</rt></ruby>き<ruby>入<rt>い</rt></ruby>った。",
     "ex_en": "At the recital hosted with a world-renowned pianist, the packed audience listened breathlessly to the melodies."
   },
   {
@@ -49370,7 +49370,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうえんかい",
     "ruby": "<ruby>講演会<rt>こうえんかい</rt></ruby>",
     "meaning": "lecture (esp. special engagement by noted speaker), lecture meeting (event with one or more lectures)",
-    "ex_ja": "<ruby>著名<rt>ちょめい</rt></ruby>な<ruby>宇宙物理<rt>うちゅうぶつり</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>を<ruby>招<rt>まね</rt></ruby>いた<ruby>講演会<rt>こうえんかい</rt></ruby>では、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>起源<rt>きげん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>興味深<rt>きょうみぶか</rt></ruby>いエピソードに<ruby>会場全体<rt>かいじょうぜんたい</rt></ruby>が<ruby>聞<rt>き</rt></ruby>き<ruby>入<rt>いっ</rt></ruby>った。",
+    "ex_ja": "<ruby>著名<rt>ちょめい</rt></ruby>な<ruby>宇宙物理<rt>うちゅうぶつり</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>を<ruby>招<rt>まね</rt></ruby>いた<ruby>講演会<rt>こうえんかい</rt></ruby>では、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>起源<rt>きげん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>興味深<rt>きょうみぶか</rt></ruby>いエピソードに<ruby>会場全体<rt>かいじょうぜんたい</rt></ruby>が<ruby>聞<rt>き</rt></ruby>き<ruby>入<rt>い</rt></ruby>った。",
     "ex_en": "At the lecture meeting inviting a prominent astrophysicist, the entire venue listened attentively to fascinating stories about the origins of the universe."
   },
   {
@@ -50186,7 +50186,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かぜぎみ",
     "ruby": "<ruby>かぜ気味<rt>かぜぎみ</rt></ruby>",
     "meaning": "かぜ気味 (かぜぎみ)",
-    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>喉<rt>のど</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>痛<rt>いた</rt></ruby>くてかぜ<ruby>気味<rt>きみ</rt></ruby>だったので、<ruby>温<rt>あたた</rt></ruby>かい<ruby>生姜<rt>しょうが</rt></ruby><ruby>湯<rt>ゆ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>早<rt>はや</rt></ruby>めに<ruby>布団<rt>ふとん</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>った。",
+    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>喉<rt>のど</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>痛<rt>いた</rt></ruby>くてかぜ<ruby>気味<rt>きみ</rt></ruby>だったので、<ruby>温<rt>あたた</rt></ruby>かい<ruby>生姜<rt>しょうが</rt></ruby><ruby>湯<rt>ゆ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>早<rt>はや</rt></ruby>めに<ruby>布団<rt>ふとん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
     "ex_en": "My throat has been slightly sore and I felt a slight cold coming on since morning, so I drank warm ginger tea and went to bed early."
   },
   {
@@ -50634,7 +50634,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんさつしつ",
     "ruby": "<ruby>診察室<rt>しんさつしつ</rt></ruby>",
     "meaning": "診察室 (しんさつしつ)",
-    "ex_ja": "<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばれ、<ruby>緊張<rt>きんちょう</rt></ruby>しながら<ruby>医師<rt>いし</rt></ruby>が<ruby>待<rt>ま</rt></ruby>つ<ruby>第１<rt>だいいち</rt></ruby><ruby>診察室<rt>しんさつしつ</rt></ruby>のドアを<ruby>開<rt>ひら</rt></ruby>けた。",
+    "ex_ja": "<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばれ、<ruby>緊張<rt>きんちょう</rt></ruby>しながら<ruby>医師<rt>いし</rt></ruby>が<ruby>待<rt>ま</rt></ruby>つ<ruby>第１<rt>だいいち</rt></ruby><ruby>診察室<rt>しんさつしつ</rt></ruby>のドアを<ruby>開<rt>あ</rt></ruby>けた。",
     "ex_en": "Called by the nurse, I nervously opened the door to Consultation Room 1 where the physician was waiting."
   },
   {
@@ -52218,7 +52218,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かぞくづれ",
     "ruby": "<ruby>家族連<rt>かぞくづ</rt></ruby>れ",
     "meaning": "家族連れ (かぞくづれ)",
-    "ex_ja": "<ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>ったショッピングモールは、<ruby>映画<rt>えいが</rt></ruby>や<ruby>買い物<rt>かいもの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>家族連<rt>かぞくづ</rt></ruby>れで<ruby>朝<rt>あさ</rt></ruby>から<ruby>賑<rt>にぎ</rt></ruby>わっていた。",
+    "ex_ja": "<ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったショッピングモールは、<ruby>映画<rt>えいが</rt></ruby>や<ruby>買い物<rt>かいもの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>家族連<rt>かぞくづ</rt></ruby>れで<ruby>朝<rt>あさ</rt></ruby>から<ruby>賑<rt>にぎ</rt></ruby>わっていた。",
     "ex_en": "Entering the long holiday period, the shopping mall bustled from morning with family groups enjoying movies and shopping."
   },
   {
@@ -53306,7 +53306,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さぎょうりょう",
     "ruby": "<ruby>作業量<rt>さぎょうりょう</rt></ruby>",
     "meaning": "作業量 (さぎょうりょう)",
-    "ex_ja": "<ruby>繁忙期<rt>はんぼうき</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>って<ruby>現場<rt>げんば</rt></ruby>の<ruby>作業量<rt>さぎょうりょう</rt></ruby>が<ruby>急増<rt>きゅうぞう</rt></ruby>したため、<ruby>臨時<rt>りんじ</rt></ruby>スタッフを<ruby>数名<rt>すうめい</rt></ruby><ruby>雇<rt>やと</rt></ruby>って<ruby>負担<rt>ふたん</rt></ruby>の<ruby>分散<rt>ぶんさん</rt></ruby>を<ruby>図<rt>はか</rt></ruby>った。",
+    "ex_ja": "<ruby>繁忙期<rt>はんぼうき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>現場<rt>げんば</rt></ruby>の<ruby>作業量<rt>さぎょうりょう</rt></ruby>が<ruby>急増<rt>きゅうぞう</rt></ruby>したため、<ruby>臨時<rt>りんじ</rt></ruby>スタッフを<ruby>数名<rt>すうめい</rt></ruby><ruby>雇<rt>やと</rt></ruby>って<ruby>負担<rt>ふたん</rt></ruby>の<ruby>分散<rt>ぶんさん</rt></ruby>を<ruby>図<rt>はか</rt></ruby>った。",
     "ex_en": "As the busy season began and the on-site workload surged, we hired several temporary workers to disperse the burden."
   },
   {
@@ -53738,7 +53738,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あたまにはいる",
     "ruby": "<ruby>頭に入<rt>あたまにはい</rt></ruby>る",
     "meaning": "頭に入る (あたまにはいる)",
-    "ex_ja": "<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>机<rt>つくえ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>眺<rt>なが</rt></ruby>めても、<ruby>眠気<rt>ねむけ</rt></ruby>のせいで<ruby>内容<rt>ないよう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>ってこない。",
+    "ex_ja": "<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>机<rt>つくえ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>眺<rt>なが</rt></ruby>めても、<ruby>眠気<rt>ねむけ</rt></ruby>のせいで<ruby>内容<rt>ないよう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってこない。",
     "ex_en": "Even if I sit at my desk pulling an all-nighter staring at the textbook, the content simply doesn't stick in my head due to drowsiness."
   },
   {
@@ -54522,7 +54522,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みみにはいる",
     "ruby": "<ruby>耳に入<rt>みみにはい</rt></ruby>る",
     "meaning": "耳に入る (みみにはいる)",
-    "ex_ja": "カフェで<ruby>読書<rt>どくしょ</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>しようとしていたが、<ruby>隣<rt>となり</rt></ruby>のテーブルから<ruby>聞<rt>き</rt></ruby>こえてくる<ruby>生々<rt>なまなま</rt></ruby>しい<ruby>離婚<rt>りこん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>がどうしても<ruby>耳<rt>みみ</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>ってしまった。",
+    "ex_ja": "カフェで<ruby>読書<rt>どくしょ</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>しようとしていたが、<ruby>隣<rt>となり</rt></ruby>のテーブルから<ruby>聞<rt>き</rt></ruby>こえてくる<ruby>生々<rt>なまなま</rt></ruby>しい<ruby>離婚<rt>りこん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>がどうしても<ruby>耳<rt>みみ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってしまった。",
     "ex_en": "I tried to immerse myself in reading at the cafe, but the vivid gossip about a divorce from the neighboring table inevitably caught my ear."
   },
   {

@@ -2156,7 +2156,11 @@
   let globalGoogleAudioInstance = null;
   window.speakJapaneseText = function(text) {
     if (!text) return;
-    const clean = text.replace(/<[^>]+>/g, '').trim();
+    const clean = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
     if (globalGoogleAudioInstance) {
       try {
         globalGoogleAudioInstance.pause();

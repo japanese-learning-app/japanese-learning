@@ -2356,7 +2356,11 @@
   // Built-in Dictionary & Audio Logic
   function speakJapaneseText(text) {
     if (!text) return;
-    const clean = text.replace(/<[^>]+>/g, '').trim();
+    const clean = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
     if (!clean) return;
     try {
       const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
