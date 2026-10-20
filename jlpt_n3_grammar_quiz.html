@@ -1,0 +1,2646 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JLPT N3 文法穴埋めマスター — 全182問 4択練習道場</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- 日本語アプリと同一のフォント指定（Inter × 游ゴシック × Noto Sans JP） -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* カラーパレット：メイン青 #1995AD × サクラピンク × ポイント #4D648D / #D0E1F9 */
+    --primary-blue: #1995AD;
+    --primary-blue-dark: #127285;
+    --primary-blue-light: #43B0C4;
+    --primary-blue-pale: #EDF7F9;
+    
+    --point-navy: #4D648D;
+    --point-ice: #D0E1F9;
+
+    --sakura-pink-bg: #FAF1F3;
+    --sakura-pink-soft: #FDF7F8;
+    --sakura-pink-accent: #E8A4B2;
+    --sakura-pink-deep: #B8596E;
+    --sakura-pink-border: #F2D5DB;
+
+    --mint-cyan: #1995AD;
+    --mint-cyan-light: #EDF7F9;
+    
+    --text-primary: #1F2D3D;
+    --text-secondary: #4D648D;
+    --text-muted: #7E92A2;
+    
+    --card-bg: #FFFFFF;
+    --card-border: #E2ECF2;
+    --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
+
+    --correct-bg: #E8F5E9;
+    --correct-border: #81C784;
+    --correct-text: #2E7D32;
+
+    /* ポイントカラー：赤ではなく #4D648D / #D0E1F9 を使用 */
+    --wrong-bg: #EEF4FC;
+    --wrong-border: #B8D1F5;
+    --wrong-text: #4D648D;
+
+    --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: var(--sakura-pink-bg);
+    color: var(--text-primary);
+    font-family: var(--app-font);
+    line-height: 1.7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: 
+      radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ふりがな（ルビ）表示制御：漢字の真上に配置 */
+  ruby {
+    ruby-position: over;
+  }
+
+  ruby rt {
+    font-size: 0.52em;
+    color: var(--primary-blue-dark);
+    font-weight: 600;
+    user-select: none;
+    letter-spacing: 0;
+    line-height: 1;
+    transform: translateY(-2px);
+  }
+
+  /* ふりがなOFF時はrtを完全に非表示 */
+  body.hide-furigana ruby rt {
+    display: none !important;
+  }
+
+  /* Header */
+  .site-header {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+    color: #FFFFFF;
+    padding: 18px 20px 16px;
+    box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .brand-area {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-en {
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    line-height: 1.2;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .brand-en span.badge-n3 {
+    background: #3B82F6;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: 800;
+    padding: 3px 9px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    font-size: 11px;
+    font-weight: 800;
+    padding: 3px 9px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+
+  .brand-sub {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.88);
+    margin-top: 3px;
+    font-weight: 500;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* Toggle Pill Switch (ふりがな ON/OFF) */
+  .furigana-toggle {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 30px;
+    padding: 3px 5px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    user-select: none;
+  }
+
+  .furigana-toggle:hover {
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  .toggle-label {
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 20px;
+    transition: all 0.25s ease;
+  }
+
+  .toggle-label.active {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
+  .toggle-label.inactive {
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  .header-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: #FFFFFF;
+    padding: 6px 13px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    user-select: none;
+  }
+
+  .header-btn:hover {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+  }
+
+  /* Main Container */
+  .main-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 24px auto 40px;
+    padding: 0 20px;
+    flex: 1;
+  }
+
+  /* Control Bar */
+  .control-bar {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    padding: 12px 18px;
+    margin-bottom: 20px;
+    box-shadow: var(--card-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .filter-select {
+    padding: 7px 12px;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 10px;
+    background: var(--sakura-pink-soft);
+    color: var(--text-primary);
+    font-family: var(--app-font);
+    font-size: 13px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    transition: border 0.2s;
+    max-width: 260px;
+  }
+
+  .filter-select:focus {
+    border-color: var(--primary-blue);
+  }
+
+  /* 演習問題数セレクター */
+  .count-selector-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .count-btn {
+    border: 1px solid var(--card-border);
+    background: #FFFFFF;
+    color: var(--text-secondary);
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 11.5px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .count-btn:hover {
+    border-color: var(--primary-blue-light);
+    color: var(--primary-blue-dark);
+  }
+
+  .count-btn.active {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border-color: var(--primary-blue);
+  }
+
+  .resume-btn {
+    background: linear-gradient(135deg, #E8A4B2, #B8596E);
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(184, 89, 110, 0.25);
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: transform 0.2s;
+  }
+
+  .resume-btn:hover {
+    transform: scale(1.03);
+  }
+
+  /* Progress Bar */
+  .progress-wrap {
+    margin-bottom: 20px;
+  }
+
+  .progress-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+
+  .progress-bar-bg {
+    height: 7px;
+    background: rgba(70, 130, 151, 0.12);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--mint-cyan), var(--primary-blue));
+    border-radius: 10px;
+    transition: width 0.3s ease;
+  }
+
+  /* Question Card */
+  .question-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 24px;
+    padding: 32px 32px 28px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 20px;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+
+  .card-top-badges {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+  }
+
+  .badge-category {
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 20px;
+    letter-spacing: 0.3px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .badge-qnum {
+    font-size: 16px;
+    color: var(--primary-blue);
+    font-weight: 800;
+  }
+
+  .bookmark-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+    line-height: 1;
+  }
+
+  .bookmark-btn.active {
+    color: var(--sakura-pink-deep);
+  }
+
+  /* Question Sentence Area */
+  .sentence-area {
+    margin-bottom: 16px;
+  }
+
+  .sentence-jp {
+    font-size: 22px;
+    line-height: 2.2;
+    color: var(--text-primary);
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+
+  .sentence-jp .blank-box {
+    display: inline-block;
+    min-width: 90px;
+    padding: 0 10px;
+    margin: 0 4px;
+    border-bottom: 3px solid var(--primary-blue);
+    color: var(--primary-blue-dark);
+    text-align: center;
+    font-weight: 700;
+    background: var(--primary-blue-pale);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    vertical-align: baseline;
+  }
+
+  .sentence-jp .blank-box.filled-correct {
+    border-bottom-color: var(--correct-border);
+    background: var(--correct-bg);
+    color: var(--correct-text);
+  }
+
+  .sentence-jp .blank-box.filled-wrong {
+    border-bottom-color: var(--wrong-border);
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+  }
+
+  .sentence-en {
+    font-size: 15px;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px dashed var(--sakura-pink-border);
+    line-height: 1.6;
+    font-weight: 500;
+  }
+
+  /* Choices Grid */
+  .choices-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin: 26px 0 18px;
+  }
+
+  .choices-grid.single-column {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .choices-grid.single-column .choice-btn {
+    padding: 14px 20px;
+    width: 100%;
+  }
+
+  .choices-grid.single-column .choice-text {
+    font-size: 16px;
+    line-height: 1.6;
+    word-break: break-word;
+  }
+
+  @media (max-width: 640px) {
+    .choices-grid {
+      grid-template-columns: 1fr;
+    }
+    .question-card {
+      padding: 22px 18px 20px;
+    }
+    .sentence-jp {
+      font-size: 19px;
+      line-height: 2.1;
+    }
+  }
+
+  .choice-btn {
+    background: #FFFFFF;
+    border: 1.5px solid var(--card-border);
+    border-radius: 14px;
+    padding: 15px 18px;
+    font-family: var(--app-font);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+    cursor: pointer;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+    position: relative;
+    user-select: none;
+    line-height: 1.6;
+  }
+
+  .choice-btn:hover:not(:disabled) {
+    border-color: var(--primary-blue-light);
+    background: var(--primary-blue-pale);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(70, 130, 151, 0.12);
+  }
+
+  .choice-btn:disabled {
+    cursor: default;
+  }
+
+  .choice-num {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    flex-shrink: 0;
+    transition: all 0.2s;
+  }
+
+  .choice-text {
+    flex: 1;
+    font-size: 16px;
+  }
+
+  /* Choice States */
+  .choice-btn.correct {
+    background: var(--correct-bg) !important;
+    border-color: var(--correct-border) !important;
+    color: var(--correct-text) !important;
+  }
+
+  .choice-btn.correct .choice-num {
+    background: var(--correct-border);
+    color: #FFFFFF;
+    border-color: var(--correct-border);
+  }
+
+  .choice-btn.wrong {
+    background: var(--wrong-bg) !important;
+    border-color: var(--wrong-border) !important;
+    color: var(--wrong-text) !important;
+  }
+
+  .choice-btn.wrong .choice-num {
+    background: var(--wrong-border);
+    color: #FFFFFF;
+    border-color: var(--wrong-border);
+  }
+
+  /* Feedback / Explanation Box */
+  .explanation-box {
+    margin-top: 22px;
+    padding: 20px 22px;
+    border-radius: 16px;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    display: none;
+    animation: fadeIn 0.3s ease;
+  }
+
+  .explanation-box.show {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .exp-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+
+  .exp-status-badge {
+    font-size: 12.5px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+
+  .exp-status-badge.correct {
+    background: var(--correct-bg);
+    color: var(--correct-text);
+    border: 1px solid var(--correct-border);
+  }
+
+  .exp-status-badge.wrong {
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+    border: 1px solid var(--wrong-border);
+  }
+
+  .exp-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--primary-blue-dark);
+  }
+
+  .exp-reading {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-left: 6px;
+    font-weight: 500;
+  }
+
+  .exp-meaning {
+    font-size: 14px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    font-style: italic;
+  }
+
+  /* Complete Example Sentence with Ruby */
+  .exp-full-sentence-box {
+    background: #FFFFFF;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 12px;
+    padding: 12px 16px;
+    margin-bottom: 12px;
+  }
+
+  .exp-full-sentence-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--primary-blue);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .exp-full-sentence-text {
+    font-size: 16px;
+    line-height: 2.1;
+    color: var(--text-primary);
+    font-weight: 600;
+  }
+
+  /* 似ている文法・関連表現エリア */
+  .exp-similar-box {
+    background: #FFFFFF;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    font-size: 13px;
+  }
+
+  .exp-similar-label {
+    font-weight: 700;
+    color: var(--sakura-pink-deep);
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .exp-similar-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    font-weight: normal;
+  }
+
+  .exp-similar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .sim-tag-btn {
+    background: var(--sakura-pink-bg);
+    color: var(--sakura-pink-deep);
+    border: 1px solid var(--sakura-pink-border);
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 12.5px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .sim-tag-btn:hover {
+    background: var(--sakura-pink-deep);
+    color: #FFFFFF;
+    border-color: var(--sakura-pink-deep);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(184, 89, 110, 0.2);
+  }
+
+  /* Navigation Buttons */
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    gap: 16px;
+  }
+
+  .nav-btn {
+    background: var(--card-bg);
+    border: 1.5px solid var(--primary-blue);
+    color: var(--primary-blue);
+    font-family: var(--app-font);
+    padding: 11px 26px;
+    border-radius: 30px;
+    font-size: 14.5px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 12px rgba(70, 130, 151, 0.08);
+  }
+
+  .nav-btn:hover:not(:disabled) {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(70, 130, 151, 0.2);
+  }
+
+  .nav-btn.primary {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  .nav-btn.primary:hover:not(:disabled) {
+    background: var(--primary-blue-dark);
+  }
+
+  .nav-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+  }
+
+  /* Toast Notification */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(50px);
+    background: rgba(44, 62, 72, 0.95);
+    color: #FFFFFF;
+    padding: 10px 22px;
+    border-radius: 30px;
+    font-size: 13.5px;
+    font-weight: 600;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    z-index: 9999;
+    pointer-events: none;
+  }
+
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+
+  /* Tag Action Modal */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    backdrop-filter: blur(3px);
+  }
+
+  .modal-overlay.open {
+    display: flex;
+  }
+
+  .modal-box {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 480px;
+    width: 94%;
+    max-height: 88vh;
+    overflow-y: auto;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+    text-align: center;
+  }
+
+  /* 内蔵辞書検索パネル（モーダル内そのまま展開） */
+  .modal-dict-panel {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1.5px dashed #D5E5F2;
+    text-align: left;
+    animation: fadeIn 0.25s ease;
+  }
+
+  .modal-dict-search-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .modal-dict-input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1.5px solid var(--primary-blue);
+    border-radius: 10px;
+    font-size: 13.5px;
+    font-family: inherit;
+    outline: none;
+    background: #F8FBFE;
+  }
+
+  .modal-dict-input:focus {
+    background: #FFFFFF;
+    box-shadow: 0 0 0 3px rgba(25, 149, 173, 0.15);
+  }
+
+  .modal-dict-search-btn {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 0 14px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .modal-dict-search-btn:hover {
+    background: var(--primary-blue-dark);
+  }
+
+  .modal-dict-card {
+    background: #F8FBFE;
+    border: 1px solid #D0E1F9;
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+
+  .modal-dict-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .modal-dict-card-word {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .modal-dict-card-reading {
+    font-size: 13px;
+    font-weight: 600;
+    color: #4D648D;
+  }
+
+  .modal-dict-card-badge {
+    background: #D0E1F9;
+    color: #4D648D;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 12px;
+  }
+
+  .modal-dict-tts-btn {
+    background: #E8F4F8;
+    border: 1px solid var(--primary-blue);
+    color: var(--primary-blue);
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.15s;
+    margin-left: 4px;
+  }
+
+  .modal-dict-tts-btn:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    transform: scale(1.05);
+  }
+
+  .modal-dict-card-meaning {
+    font-size: 13.5px;
+    color: #2D3748;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+
+  .modal-dict-card-ex-box {
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 10px;
+    padding: 10px 12px;
+    margin-top: 6px;
+  }
+
+  .modal-dict-card-ex-ja {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1A202C;
+    line-height: 1.8;
+  }
+
+  .modal-dict-card-ex-en {
+    font-size: 12px;
+    color: #718096;
+    margin-top: 4px;
+  }
+
+  .modal-dict-similar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .modal-dict-similar-tag {
+    background: #FFFFFF;
+    border: 1px solid #D0E1F9;
+    color: #4D648D;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .modal-dict-similar-tag:hover {
+    background: #4D648D;
+    color: #FFFFFF;
+  }
+
+  .modal-dict-external-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 11.5px;
+    color: #4D648D;
+    text-decoration: none;
+    margin-top: 6px;
+    font-weight: 600;
+  }
+
+  .modal-dict-external-link:hover {
+    color: var(--primary-blue);
+    text-decoration: underline;
+  }
+
+  .modal-term-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 2px;
+  }
+
+  .modal-term-reading {
+    font-size: 13px;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin-bottom: 14px;
+  }
+
+  .modal-meaning-box {
+    background: #F8FBFE;
+    border: 1px solid #D5E5F2;
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    text-align: left;
+  }
+
+  .modal-meaning-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--primary-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .modal-meaning-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+
+  .modal-btn-mylist {
+    width: 100%;
+    border: 1.5px solid #F0D488;
+    background: #FFF8E8;
+    color: #8C6500;
+    padding: 13px 16px;
+    border-radius: 14px;
+    font-size: 14.5px;
+    font-weight: 800;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.2s;
+    box-shadow: 0 3px 10px rgba(200,125,24,0.12);
+    margin-bottom: 10px;
+  }
+
+  .modal-btn-mylist:hover {
+    background: #FFF2D1;
+    transform: translateY(-1px);
+  }
+
+  .modal-btn-mylist.saved {
+    background: #FFF5DE;
+    color: #B27200;
+    border-color: #F0C760;
+  }
+
+  .modal-sub-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .modal-sub-btn {
+    border: 1px solid #E2ECF2;
+    background: #FFFFFF;
+    color: var(--text-primary);
+    padding: 9px 12px;
+    border-radius: 10px;
+    font-size: 12.5px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }
+
+  .modal-sub-btn:hover {
+    background: #F4F8FC;
+    border-color: var(--primary-blue-light);
+  }
+
+  .modal-close-btn {
+    width: 100%;
+    background: #F4F8FC;
+    border: 1px solid #E2ECF2;
+    color: var(--text-muted);
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 12px;
+    transition: all 0.2s;
+  }
+
+  .modal-close-btn:hover {
+    background: #E8EFF5;
+    color: var(--text-primary);
+  }
+
+  /* Result & Review View */
+  .result-view {
+    background: var(--card-bg);
+    border-radius: 24px;
+    border: 1.5px solid var(--sakura-pink-border);
+    padding: 38px 30px;
+    box-shadow: var(--card-shadow);
+    animation: fadeIn 0.3s ease;
+  }
+  .result-hero {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }
+  .result-score-big {
+    font-size: 3.8rem;
+    font-weight: 800;
+    color: var(--primary-blue);
+    line-height: 1;
+    margin: 14px 0 6px;
+  }
+  .result-eval-badge {
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13.5px;
+    font-weight: 800;
+    margin-bottom: 14px;
+  }
+  .result-eval-badge.gold {
+    background: #FEF3C7;
+    color: #92400E;
+    border: 1px solid #FCD34D;
+  }
+  .result-eval-badge.pass {
+    background: #E8F5E9;
+    color: #2E7D32;
+    border: 1px solid #A5D6A7;
+  }
+  .result-eval-badge.retry {
+    background: #FFF0F3;
+    color: #B8596E;
+    border: 1px solid #F2D5DB;
+  }
+  .result-actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+  }
+  .btn-retry-wrong {
+    background: linear-gradient(135deg, #4D648D 0%, #354968 100%);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(77, 100, 141, 0.28);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-wrong:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(77, 100, 141, 0.38);
+  }
+  .btn-retry-all {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(70, 130, 151, 0.25);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-all:hover {
+    background: var(--primary-blue-dark);
+    transform: translateY(-2px);
+  }
+  .btn-return-portal {
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    border: 1.5px solid var(--primary-blue-light);
+    padding: 11px 20px;
+    border-radius: 14px;
+    font-size: 0.92rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+  }
+  .btn-return-portal:hover {
+    background: white;
+  }
+
+  /* Review Section */
+  .review-section {
+    margin-top: 36px;
+    padding-top: 28px;
+    border-top: 1.5px dashed var(--sakura-pink-border);
+  }
+  .review-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .review-filter-group {
+    display: flex;
+    gap: 6px;
+    background: var(--sakura-pink-soft);
+    padding: 4px;
+    border-radius: 12px;
+    border: 1px solid var(--sakura-pink-border);
+  }
+  .rev-filter-btn {
+    border: none;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 8px;
+    font-size: 12.5px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .rev-filter-btn.active {
+    background: white;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 6px rgba(70, 130, 151, 0.12);
+  }
+  .review-cards-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .rev-card {
+    background: white;
+    border: 1.5px solid var(--card-border);
+    border-radius: 18px;
+    padding: 20px 22px;
+    transition: all 0.2s;
+  }
+  .rev-card.is-wrong {
+    border-color: #F8B4C0;
+    background: #FFFDFD;
+  }
+  .rev-card.is-correct {
+    border-color: #C8E6C9;
+    background: #FAFCFA;
+  }
+  .rev-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  .rev-tag-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 3px 12px;
+    border-radius: 20px;
+  }
+  .rev-tag-status.correct {
+    background: var(--correct-bg);
+    color: var(--correct-text);
+    border: 1px solid var(--correct-border);
+  }
+  .rev-tag-status.wrong {
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+    border: 1px solid var(--wrong-border);
+  }
+  .rev-sentence {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 2.1;
+    color: var(--text-primary);
+    margin-bottom: 14px;
+  }
+  .rev-choice-comparison {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: var(--sakura-pink-soft);
+    font-size: 13.5px;
+    margin-bottom: 12px;
+  }
+  .rev-row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .rev-row-label {
+    min-width: 75px;
+    font-size: 11.5px;
+    font-weight: 800;
+    color: var(--text-muted);
+  }
+  .rev-row-val.wrong {
+    color: var(--wrong-text);
+    font-weight: 700;
+    text-decoration: line-through;
+  }
+  .rev-row-val.correct {
+    color: var(--correct-text);
+    font-weight: 800;
+  }
+  .rev-exp-box {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    padding: 10px 14px;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid var(--card-border);
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand-area">
+      <div class="brand-en">
+        JLPT Grammar Master
+        <span class="badge-n3">N3 レベル</span>
+      </div>
+      <div class="brand-sub">全182文法項目・全182問 穴埋め4択道場</div>
+    </div>
+    <div class="header-actions">
+      <!-- 生徒認証バッジ -->
+      <button type="button" class="header-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="cursor:pointer;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="header-btn" title="単語帳フラッシュカードを開く">
+        🎴 単語帳
+      </a>
+      <!-- ふりがな ON/OFF スイッチ（漢字の真上のルビ制御） -->
+      <div class="furigana-toggle" id="furiganaToggle" title="問題文と選択肢の漢字の上のふりがな（ルビ）を切り替えます">
+        <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
+        <span class="toggle-label active" id="toggleOn">ON</span>
+      </div>
+      <button class="header-btn" id="reshuffleBtn" title="全問をもう一度シャッフルして最初から解きます">
+        🎲 再シャッフル
+      </button>
+      <a href="jlpt_n2_grammar_quiz.html" class="header-btn" title="N2文法穴埋め演習道場へ">
+        📝 語彙穴埋め (896問)
+      </a>
+      <a href="jlpt_n2_vocab_cards.html" class="header-btn" title="N2語彙フラッシュカード（全3,412語）へ">
+        🎴 語彙カード
+      </a>
+      <a href="jlpt_practice.html" class="header-btn" title="JLPT実戦練習センターへ戻る">
+        📚 JLPTポータル
+      </a>
+      <a href="app.html" class="header-btn" title="アプリの総合トップページ（ホーム）へ戻る">
+        🏠 ホーム
+      </a>
+    </div>
+  </div>
+</header>
+
+<main class="main-container">
+  <!-- Control Bar -->
+  <div class="control-bar">
+    <div class="filter-group">
+      <select id="grammarFilter" class="filter-select">
+        <option value="all">全182文法（全182問）</option>
+      </select>
+      
+      <!-- 演習数選択ピル -->
+      <div class="count-selector-group">
+        <button class="count-btn" data-count="10">10問</button>
+        <button class="count-btn" data-count="30">30問</button>
+        <button class="count-btn" data-count="50">50問</button>
+        <button class="count-btn active" data-count="0">全問</button>
+      </div>
+    </div>
+
+    <!-- 前回の続きから再開ボタン -->
+    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+      <a href="jlpt_practice.html" class="header-btn" style="text-decoration:none; padding:6px 14px; border-radius:20px; font-size:12px; font-weight:700;" title="演習を終了してJLPTポータルへ戻る">
+        ← 終了して戻る
+      </a>
+      <button id="btnResume" class="resume-btn" style="display:none;" title="前回の学習の続きから再開します">
+        ▶ 前回の続きからする (<span id="resumeQuestionNum">1</span>問目〜)
+      </button>
+      <div class="jump-group">
+        <span>第</span>
+        <input type="number" id="jumpInput" class="jump-input" min="1" max="1507" value="1">
+        <span>問</span>
+        <button id="jumpBtn" class="jump-btn">移動</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Progress Bar -->
+  <div class="progress-wrap">
+    <div class="progress-meta">
+      <span id="progressText">第 1 問 / 1,507 問</span>
+      <span id="scoreText">正解率: 0% (0 / 0)</span>
+    </div>
+    <div class="progress-bar-bg">
+      <div id="progressBarFill" class="progress-bar-fill"></div>
+    </div>
+  </div>
+
+  <!-- Question Card -->
+  <div class="question-card">
+    <div class="card-top-badges">
+      <div class="badge-category" id="badgeGrammar">
+        文法 #1: あげく
+      </div>
+      <div style="display: flex; align-items: center; gap: 14px;">
+        <div class="badge-qnum" id="badgeQNum">Q. 0001</div>
+        <button class="bookmark-btn" id="bookmarkBtn" title="この問題をマイリストに保存">★</button>
+      </div>
+    </div>
+
+    <!-- Sentence Area -->
+    <div class="sentence-area">
+      <!-- 漢字の真上にルビが配置された穴埋め問題文 -->
+      <div class="sentence-jp" id="sentenceJp">
+        読み込み中...
+      </div>
+      <!-- 英語の対訳（問題文の下に配置） -->
+      <div class="sentence-en" id="sentenceEn">
+        <!-- 英語訳 -->
+      </div>
+    </div>
+
+    <!-- 4 Choices Grid (選択肢の漢字の上にもルビ表示) -->
+    <div class="choices-grid" id="choicesGrid">
+      <!-- 4 choices generated via JS -->
+    </div>
+
+    <!-- Explanation Box -->
+    <div class="explanation-box" id="explanationBox">
+      <div class="exp-header">
+        <span class="exp-status-badge" id="expStatusBadge">正解！</span>
+        <div class="exp-title">
+          <span id="expGrammarName">あげく</span>
+          <span class="exp-reading" id="expGrammarReading">(ageku)</span>
+        </div>
+      </div>
+      <div class="exp-meaning" id="expGrammarMeaning">
+        to end up; in the end; finally; after all~
+      </div>
+
+      <!-- 完成した例文（漢字の上にふりがな付き） -->
+      <div class="exp-full-sentence-box">
+        <div class="exp-full-sentence-label">正解の完成例文:</div>
+        <div class="exp-full-sentence-text" id="expFullSentence">
+          <!-- Full sentence with ruby -->
+        </div>
+      </div>
+
+      <!-- 似ている文法・関連表現（意味確認・マイリスト追加対応） -->
+      <div class="exp-similar-box">
+        <div class="exp-similar-label">
+          <span>💡 似ている文法・関連表現:</span>
+          <span class="exp-similar-hint">（タップで意味確認・マイリスト追加）</span>
+        </div>
+        <div class="exp-similar-tags" id="expSimilarTags">
+          <!-- Tags -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navigation Bar -->
+  <div class="nav-bar">
+    <button class="nav-btn" id="prevBtn" disabled>
+      ← 前に戻る
+    </button>
+    <div style="font-size: 13px; color: var(--text-muted); font-weight: 500;">
+      ショートカット: [←] 前へ / [→] 次へ / [1]〜[4] 選択
+    </div>
+    <button class="nav-btn primary" id="nextBtn">
+      次へ行く →
+    </button>
+  </div>
+
+  <!-- Result View (スコア・復習・答え一覧) -->
+  <div class="result-view" id="resultView" style="display:none;">
+    <div class="result-hero">
+      <div style="font-size:46px; margin-bottom:10px;">🏆</div>
+      <h2 style="font-size:26px; font-weight:800; color:var(--text-primary); margin-bottom:6px;">演習完了！お疲れ様でした</h2>
+      <div class="result-eval-badge gold" id="resultEvalBadge">🌟 素晴らしい結果です！</div>
+      <div class="result-score-big" id="resultScorePct">80%</div>
+      <p style="font-size:16px; font-weight:700; color:var(--text-secondary);" id="resultScoreText">10問中 8問正解</p>
+      
+      <div class="result-actions">
+        <button class="btn-retry-wrong" id="btnRetryWrong" style="display:none;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+          <span>間違えた問題だけを復習 (<span id="resultWrongCount">0</span>問)</span>
+        </button>
+        <button class="btn-retry-all" id="btnRetryAll">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
+          <span>もう一度解く</span>
+        </button>
+        <a href="jlpt_practice.html" class="btn-return-portal">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+          <span>演習ポータルへ戻る</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Review Section -->
+    <div class="review-section" id="reviewSection">
+      <div class="review-header-row">
+        <h3 style="font-size:18px; font-weight:800; color:var(--primary-blue-dark); display:flex; align-items:center; gap:8px;">
+          <span>📋 解答・解説一覧（復習リスト）</span>
+        </h3>
+        <div class="review-filter-group">
+          <button class="rev-filter-btn active" data-filter="all" id="tabFilterAll">すべて (<span id="badgeCountAll">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="wrong" id="tabFilterWrong">❌ 不正解 (<span id="badgeCountWrong">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="correct" id="tabFilterCorrect">✓ 正解 (<span id="badgeCountCorrect">0</span>)</button>
+        </div>
+      </div>
+      <div class="review-cards-list" id="reviewCardsContainer">
+        <!-- Dynamically rendered review cards -->
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- Action Modal for Similar Grammar Tag -->
+<div class="modal-overlay" id="tagActionModal">
+  <div class="modal-box">
+    <div class="modal-term-title" id="modalTermTitle">末に</div>
+    <div class="modal-term-reading" id="modalTermReading">（すえに）</div>
+    
+    <!-- 意味・ニュアンス表示エリア -->
+    <div class="modal-meaning-box">
+      <div class="modal-meaning-label">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        意味・ニュアンス
+      </div>
+      <div class="modal-meaning-text" id="modalTermMeaning">
+        苦労や長い時間の果てに。(after, in the end)
+      </div>
+    </div>
+
+    <!-- マイリストに追加ボタン (メイン) -->
+    <button class="modal-btn-mylist" id="btnSaveToMylist">
+      ⭐ マイリストに追加
+    </button>
+
+    <!-- サブアクション（コピー & 内蔵辞書検索） -->
+    <div class="modal-sub-actions">
+      <button class="modal-sub-btn" id="btnCopyTerm">
+        📋 コピー
+      </button>
+      <button class="modal-sub-btn" id="btnSearchDict">
+        📖 辞書で検索
+      </button>
+    </div>
+
+    <!-- 内蔵辞書検索結果パネル（その場でそのまま展開） -->
+    <div class="modal-dict-panel" id="modalDictPanel" style="display: none;">
+      <div class="modal-dict-search-row">
+        <input type="text" id="modalDictSearchInput" class="modal-dict-input" placeholder="辞書で別の言葉を検索..." />
+        <button id="btnModalDictSearch" class="modal-dict-search-btn">🔍 検索</button>
+      </div>
+      <div id="modalDictResultContent" class="modal-dict-result-content"></div>
+      <div style="text-align: right; margin-top: 6px;">
+        <a id="linkExternalDict" href="#" target="_blank" class="modal-dict-external-link">外部フル辞書で開く ↗</a>
+      </div>
+    </div>
+
+    <button class="modal-close-btn" id="btnCloseModal">閉じる</button>
+  </div>
+</div>
+
+<!-- Toast Notification -->
+<div class="toast" id="toast">コピーしました！</div>
+
+<footer class="site-footer">
+  JLPT N3 Grammar Master Study App &bull; Japanese Learning Center
+</footer>
+
+<!-- 1,507 Questions Dataset (Ruby付き) & Similar Grammar Dictionary -->
+<script src="auth.js?v=20261021_0110"></script>
+<script src="user_progress.js?v=20261021_0110"></script>
+<script src="database/jlpt_n3_grammar_quiz_data.js"></script>
+<script src="database/jlpt_similar_grammar_dict.js"></script>
+<script src="database/jlpt_n2_vocab_full_data.js" defer></script>
+<script src="database/dict_examples_map.js" defer></script>
+<script src="database/dictionary_data.js" defer></script>
+
+<script>
+(function() {
+  const data = window.JLPT_N3_QUIZ_DATA || [];
+  if (!data || data.length === 0) {
+    document.getElementById('sentenceJp').innerText = "問題データの読み込みに失敗しました。";
+    return;
+  }
+
+  // Fisher-Yates shuffle helper
+  function shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // 最初から182問すべてをランダムにシャッフル！
+  let masterIndices = shuffleArray(data.map((_, i) => i));
+  let filteredIndices = [...masterIndices];
+  let currentIndex = 0;
+  let showFurigana = true;
+  let selectedLimit = 0; // 0 = all
+
+  let userStats = {
+    answered: 0,
+    correct: 0,
+    answers: {} // realIndex: { selected: number, isCorrect: boolean }
+  };
+  let bookmarks = JSON.parse(localStorage.getItem('jlpt_n3_bookmarks') || '[]');
+
+  // Check saved progress
+  const savedProgress = JSON.parse(localStorage.getItem('jlpt_n3_grammar_progress') || 'null');
+  const btnResume = document.getElementById('btnResume');
+  const resumeQuestionNum = document.getElementById('resumeQuestionNum');
+
+  if (savedProgress && savedProgress.lastIndex !== undefined && savedProgress.lastIndex > 0) {
+    btnResume.style.display = 'inline-flex';
+    resumeQuestionNum.textContent = (savedProgress.lastIndex + 1);
+    if (savedProgress.masterIndices && savedProgress.masterIndices.length === data.length) {
+      masterIndices = savedProgress.masterIndices;
+      filteredIndices = [...masterIndices];
+    }
+    if (savedProgress.userStats) {
+      userStats = savedProgress.userStats;
+    }
+  }
+
+  // DOM Elements
+  const grammarFilter = document.getElementById('grammarFilter');
+  const jumpInput = document.getElementById('jumpInput');
+  const jumpBtn = document.getElementById('jumpBtn');
+  const progressText = document.getElementById('progressText');
+  const scoreText = document.getElementById('scoreText');
+  const progressBarFill = document.getElementById('progressBarFill');
+  const badgeGrammar = document.getElementById('badgeGrammar');
+  const badgeQNum = document.getElementById('badgeQNum');
+  const bookmarkBtn = document.getElementById('bookmarkBtn');
+  const sentenceJp = document.getElementById('sentenceJp');
+  const sentenceEn = document.getElementById('sentenceEn');
+  const choicesGrid = document.getElementById('choicesGrid');
+  const explanationBox = document.getElementById('explanationBox');
+  const expStatusBadge = document.getElementById('expStatusBadge');
+  const expGrammarName = document.getElementById('expGrammarName');
+  const expGrammarReading = document.getElementById('expGrammarReading');
+  const expGrammarMeaning = document.getElementById('expGrammarMeaning');
+  const expFullSentence = document.getElementById('expFullSentence');
+  const expSimilarTags = document.getElementById('expSimilarTags');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const furiganaToggle = document.getElementById('furiganaToggle');
+  const toggleOn = document.getElementById('toggleOn');
+  const toggleOff = document.getElementById('toggleOff');
+  const reshuffleBtn = document.getElementById('reshuffleBtn');
+  const toast = document.getElementById('toast');
+  const tagActionModal = document.getElementById('tagActionModal');
+  const modalTermTitle = document.getElementById('modalTermTitle');
+  const modalTermReading = document.getElementById('modalTermReading');
+  const modalTermMeaning = document.getElementById('modalTermMeaning');
+  const btnCopyTerm = document.getElementById('btnCopyTerm');
+  const btnSearchDict = document.getElementById('btnSearchDict');
+  const btnSaveToMylist = document.getElementById('btnSaveToMylist');
+  const btnCloseModal = document.getElementById('btnCloseModal');
+
+  let activeModalTerm = "";
+  let activeModalData = null;
+
+  function showToast(msg) {
+    toast.textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2000);
+  }
+
+  // Populate Grammar Dropdown
+  const grammarMap = new Map();
+  data.forEach((q) => {
+    if (!grammarMap.has(q.grammar_id)) {
+      grammarMap.set(q.grammar_id, q.grammar);
+    }
+  });
+
+  grammarMap.forEach((name, id) => {
+    const opt = document.createElement('option');
+    opt.value = id;
+    opt.textContent = `#${id} ${name}`;
+    grammarFilter.appendChild(opt);
+  });
+
+  // Filter change
+  grammarFilter.addEventListener('change', (e) => {
+    const val = e.target.value;
+    if (val === 'all') {
+      applyQuestionLimit(masterIndices, selectedLimit);
+    } else {
+      const gid = parseInt(val, 10);
+      const matches = masterIndices.filter(i => data[i].grammar_id === gid);
+      applyQuestionLimit(matches, selectedLimit);
+    }
+    currentIndex = 0;
+    renderQuestion();
+  });
+
+  // Question count selector pills
+  function applyQuestionLimit(baseIndices, limit) {
+    if (limit > 0 && baseIndices.length > limit) {
+      filteredIndices = baseIndices.slice(0, limit);
+    } else {
+      filteredIndices = [...baseIndices];
+    }
+  }
+
+  document.querySelectorAll('.count-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.count-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedLimit = parseInt(btn.dataset.count, 10);
+      
+      const val = grammarFilter.value;
+      let base = masterIndices;
+      if (val !== 'all') {
+        const gid = parseInt(val, 10);
+        base = masterIndices.filter(i => data[i].grammar_id === gid);
+      }
+      applyQuestionLimit(base, selectedLimit);
+      currentIndex = 0;
+      renderQuestion();
+      showToast(selectedLimit === 0 ? `全 ${filteredIndices.length} 問を設定しました` : `${selectedLimit} 問演習を開始します`);
+    });
+  });
+
+  // Resume Button Click
+  btnResume.addEventListener('click', () => {
+    if (savedProgress && savedProgress.lastIndex !== undefined) {
+      currentIndex = Math.min(savedProgress.lastIndex, filteredIndices.length - 1);
+      renderQuestion();
+      showToast(`前回の続き（第 ${currentIndex + 1} 問）から再開しました！`);
+    }
+  });
+
+  // Furigana Toggle (漢字の真上のルビ制御)
+  furiganaToggle.addEventListener('click', () => {
+    showFurigana = !showFurigana;
+    if (showFurigana) {
+      document.body.classList.remove('hide-furigana');
+      toggleOn.className = 'toggle-label active';
+      toggleOff.className = 'toggle-label inactive';
+      showToast('ふりがなをONにしました');
+    } else {
+      document.body.classList.add('hide-furigana');
+      toggleOn.className = 'toggle-label inactive';
+      toggleOff.className = 'toggle-label active';
+      showToast('ふりがなをOFFにしました');
+    }
+  });
+
+  // Reshuffle Button
+  reshuffleBtn.addEventListener('click', () => {
+    masterIndices = shuffleArray(data.map((_, i) => i));
+    const val = grammarFilter.value;
+    let base = masterIndices;
+    if (val !== 'all') {
+      const gid = parseInt(val, 10);
+      base = masterIndices.filter(i => data[i].grammar_id === gid);
+    }
+    applyQuestionLimit(base, selectedLimit);
+    currentIndex = 0;
+    saveProgress();
+    renderQuestion();
+    showToast('全問題を再シャッフルしました！');
+  });
+
+  // Bookmark Toggle
+  bookmarkBtn.addEventListener('click', () => {
+    const realIndex = filteredIndices[currentIndex];
+    const qid = data[realIndex].id;
+    const pos = bookmarks.indexOf(qid);
+    if (pos >= 0) {
+      bookmarks.splice(pos, 1);
+      bookmarkBtn.classList.remove('active');
+      showToast('マイリストから解除しました');
+    } else {
+      bookmarks.push(qid);
+      bookmarkBtn.classList.add('active');
+      showToast('マイリストに保存しました！');
+    }
+    localStorage.setItem('jlpt_n3_bookmarks', JSON.stringify(bookmarks));
+  });
+
+  // Jump Button
+  jumpBtn.addEventListener('click', () => {
+    const val = parseInt(jumpInput.value, 10);
+    if (val >= 1 && val <= filteredIndices.length) {
+      currentIndex = val - 1;
+      renderQuestion();
+    }
+  });
+
+  jumpInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      jumpBtn.click();
+    }
+  });
+
+  // Next & Prev
+  prevBtn.addEventListener('click', () => {
+    if (currentIndex > 0) {
+      currentIndex--;
+      renderQuestion();
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentIndex < filteredIndices.length - 1) {
+      currentIndex++;
+      renderQuestion();
+    } else {
+      showGrammarResultView();
+    }
+  });
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (e.key === 'ArrowRight') {
+      nextBtn.click();
+    } else if (e.key === 'ArrowLeft') {
+      prevBtn.click();
+    } else if (['1', '2', '3', '4'].includes(e.key)) {
+      const idx = parseInt(e.key, 10) - 1;
+      const btns = choicesGrid.querySelectorAll('.choice-btn');
+      if (btns[idx] && !btns[idx].disabled) {
+        btns[idx].click();
+      }
+    }
+  });
+
+  function saveProgress() {
+    localStorage.setItem('jlpt_n3_grammar_progress', JSON.stringify({
+      lastIndex: currentIndex,
+      masterIndices: masterIndices,
+      userStats: userStats,
+      timestamp: Date.now()
+    }));
+  }
+
+  function renderQuestion() {
+    if (filteredIndices.length === 0) {
+      sentenceJp.innerHTML = "該当する問題がありません。";
+      choicesGrid.innerHTML = "";
+      explanationBox.classList.remove('show');
+      return;
+    }
+
+    const realIndex = filteredIndices[currentIndex];
+    const q = data[realIndex];
+
+    // Save progress on view
+    saveProgress();
+
+    // Meta & badges
+    badgeGrammar.textContent = `文法 #${q.grammar_id}: ${q.grammar}`;
+    badgeQNum.textContent = `Q. ${String(q.id).padStart(4, '0')}`;
+    jumpInput.value = currentIndex + 1;
+    jumpInput.max = filteredIndices.length;
+
+    // Bookmarked state
+    if (bookmarks.includes(q.id)) {
+      bookmarkBtn.classList.add('active');
+    } else {
+      bookmarkBtn.classList.remove('active');
+    }
+
+    // Progress text
+    progressText.textContent = `第 ${currentIndex + 1} 問 / ${filteredIndices.length} 問`;
+    const pct = ((currentIndex + 1) / filteredIndices.length) * 100;
+    progressBarFill.style.width = `${pct}%`;
+
+    // Score text
+    const acc = userStats.answered > 0 ? Math.round((userStats.correct / userStats.answered) * 100) : 0;
+    scoreText.textContent = `正解率: ${acc}% (${userStats.correct} / ${userStats.answered})`;
+
+    // Check if previously answered
+    const previousAns = userStats.answers[realIndex];
+
+    // Question Sentence with ruby and blank box
+    let qRuby = q.question_ruby || q.question;
+    const correctRuby = q.correct_text_ruby || q.correct_text;
+
+    if (previousAns !== undefined) {
+      const isRight = previousAns.isCorrect;
+      const fillClass = isRight ? 'blank-box filled-correct' : 'blank-box filled-wrong';
+      qRuby = qRuby.replace('【　　】', `<span class="${fillClass}">${correctRuby}</span>`);
+    } else {
+      qRuby = qRuby.replace('【　　】', `<span class="blank-box">（　　　）</span>`);
+    }
+    sentenceJp.innerHTML = qRuby;
+
+    // English
+    sentenceEn.textContent = q.sentence_en || "";
+
+    // Choices with Ruby on Kanji!
+    choicesGrid.innerHTML = "";
+    const choicesList = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+    
+    // 長い選択肢（文が含まれる、または10文字以上）の場合は1列4行にする
+    const isLongChoice = choicesList.some(c => {
+      const plain = (c || '').replace(/<[^>]+>/g, '').trim();
+      return plain.includes('。') || plain.length >= 10;
+    });
+    choicesGrid.classList.toggle('single-column', isLongChoice);
+
+    choicesList.forEach((choiceHtml, cIdx) => {
+      const btn = document.createElement('button');
+      btn.className = 'choice-btn';
+      btn.innerHTML = `
+        <span class="choice-num">${cIdx + 1}</span>
+        <span class="choice-text">${choiceHtml}</span>
+      `;
+
+      if (previousAns !== undefined) {
+        btn.disabled = true;
+        if (cIdx === q.answer) {
+          btn.classList.add('correct');
+        } else if (cIdx === previousAns.selected) {
+          btn.classList.add('wrong');
+        }
+      } else {
+        btn.addEventListener('click', () => handleChoiceSelect(realIndex, cIdx));
+      }
+
+      choicesGrid.appendChild(btn);
+    });
+
+    // Explanation Box
+    if (previousAns !== undefined) {
+      showExplanation(q, previousAns.isCorrect);
+    } else {
+      explanationBox.classList.remove('show');
+    }
+
+    // Nav Buttons State
+    prevBtn.disabled = (currentIndex === 0);
+    if (currentIndex === filteredIndices.length - 1) {
+      nextBtn.textContent = '結果を見る 🏆';
+      nextBtn.disabled = false;
+    } else {
+      nextBtn.textContent = '次へ行く →';
+      nextBtn.disabled = false;
+    }
+  }
+
+  function handleChoiceSelect(realIndex, selectedIdx) {
+    const q = data[realIndex];
+    const isCorrect = (selectedIdx === q.answer);
+
+    userStats.answered++;
+    if (isCorrect) {
+      userStats.correct++;
+    }
+    userStats.answers[realIndex] = {
+      selected: selectedIdx,
+      isCorrect: isCorrect
+    };
+
+    saveProgress();
+    renderQuestion();
+  }
+
+  function showExplanation(q, isCorrect) {
+    if (isCorrect) {
+      expStatusBadge.className = 'exp-status-badge correct';
+      expStatusBadge.textContent = '◯ 正解！素晴らしい！';
+    } else {
+      expStatusBadge.className = 'exp-status-badge wrong';
+      expStatusBadge.textContent = '✕ 不正解（正解: ' + q.correct_text + '）';
+    }
+
+    expGrammarName.textContent = q.grammar;
+    expGrammarReading.textContent = q.reading ? `(${q.reading})` : '';
+    expGrammarMeaning.textContent = q.meaning_en || '';
+
+    // Full sentence with ruby on kanji
+    expFullSentence.innerHTML = q.sentence_jp_ruby || q.sentence_jp;
+
+    // Similar tags (Clickable with actions)
+    expSimilarTags.innerHTML = "";
+    if (q.similar) {
+      const items = q.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
+      items.forEach(item => {
+        const btn = document.createElement('button');
+        btn.className = 'sim-tag-btn';
+        btn.innerHTML = `<span>${item}</span><span style="font-size:10px; opacity:0.7;">▾</span>`;
+        btn.addEventListener('click', () => openTagActionModal(item));
+        expSimilarTags.appendChild(btn);
+      });
+    }
+
+    explanationBox.classList.add('show');
+  }
+
+  // Tag Action Modal logic (意味・マイリスト追加)
+  function lookupSimilarTerm(term) {
+    if (!term) return { term: '', reading: '', meaning: '' };
+    const raw = term.trim();
+    const clean = raw.replace(/^[〜~]+|[〜~]+$/g, '').trim();
+
+    // 1. Check window.JLPT_SIMILAR_GRAMMAR_DICT
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[raw]) return window.JLPT_SIMILAR_GRAMMAR_DICT[raw];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT[clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT[clean];
+      if (window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean]) return window.JLPT_SIMILAR_GRAMMAR_DICT['〜' + clean];
+    }
+
+    // 2. Check current dataset
+    if (data && Array.isArray(data)) {
+      const match = data.find(q => q.grammar === raw || q.grammar === clean || q.grammar === ('〜' + clean));
+      if (match) {
+        return {
+          term: match.grammar,
+          reading: match.reading || '',
+          meaning: match.meaning_en || 'JLPT N3 文法表現'
+        };
+      }
+    }
+
+    return {
+      term: raw,
+      reading: '',
+      meaning: '類似・関連表現（文法・語彙）'
+    };
+  }
+
+  function isTermSavedInMylist(term) {
+    try {
+      const list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      return list.includes(term);
+    } catch(e) {
+      return false;
+    }
+  }
+
+  function updateMylistButton(isSaved) {
+    if (!btnSaveToMylist) return;
+    if (isSaved) {
+      btnSaveToMylist.className = 'modal-btn-mylist saved';
+      btnSaveToMylist.innerHTML = `<span>★ マイリストに追加済み</span>`;
+    } else {
+      btnSaveToMylist.className = 'modal-btn-mylist';
+      btnSaveToMylist.innerHTML = `<span>⭐ マイリストに追加</span>`;
+    }
+  }
+
+  function openTagActionModal(term) {
+    activeModalTerm = term;
+    activeModalData = lookupSimilarTerm(term);
+
+    modalTermTitle.textContent = activeModalData.term;
+    if (modalTermReading) {
+      if (activeModalData.reading && activeModalData.reading !== activeModalData.term) {
+        modalTermReading.textContent = `（${activeModalData.reading}）`;
+        modalTermReading.style.display = 'block';
+      } else {
+        modalTermReading.textContent = '';
+        modalTermReading.style.display = 'none';
+      }
+    }
+
+    if (modalTermMeaning) {
+      modalTermMeaning.textContent = activeModalData.meaning || '意味・解説が登録されていません。';
+    }
+
+    updateMylistButton(isTermSavedInMylist(term));
+    // Reset dict panel on initial tag click
+    const dictPanel = document.getElementById('modalDictPanel');
+    if (dictPanel) dictPanel.style.display = 'none';
+    tagActionModal.classList.add('open');
+  }
+
+  function closeTagActionModal() {
+    tagActionModal.classList.remove('open');
+    const dictPanel = document.getElementById('modalDictPanel');
+    if (dictPanel) dictPanel.style.display = 'none';
+  }
+
+  btnCloseModal.addEventListener('click', closeTagActionModal);
+  tagActionModal.addEventListener('click', (e) => {
+    if (e.target === tagActionModal) closeTagActionModal();
+  });
+
+  // Action 1: Toggle Save to MyList (Main Action)
+  btnSaveToMylist.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    const isSaved = isTermSavedInMylist(activeModalTerm);
+    try {
+      let customMylist = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+      if (isSaved) {
+        customMylist = customMylist.filter(t => t !== activeModalTerm);
+        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        updateMylistButton(false);
+        showToast(`「${activeModalTerm}」をマイリストから削除しました`);
+      } else {
+        if (!customMylist.includes(activeModalTerm)) {
+          customMylist.push(activeModalTerm);
+        }
+        localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        updateMylistButton(true);
+        showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
+      }
+    } catch(e) {
+      showToast(`保存に失敗しました`);
+    }
+  });
+
+  // Action 2: Copy to clipboard
+  btnCopyTerm.addEventListener('click', () => {
+    navigator.clipboard.writeText(activeModalTerm).then(() => {
+      showToast(`「${activeModalTerm}」をコピーしました！`);
+    }).catch(() => {
+      showToast(`コピーに失敗しました`);
+    });
+  });
+
+  // Action 3: Search in built-in dictionary (ON-PAGE DIRECT LOOKUP)
+  const modalDictPanel = document.getElementById('modalDictPanel');
+  const modalDictSearchInput = document.getElementById('modalDictSearchInput');
+  const btnModalDictSearch = document.getElementById('btnModalDictSearch');
+  const modalDictResultContent = document.getElementById('modalDictResultContent');
+  const linkExternalDict = document.getElementById('linkExternalDict');
+
+  // Google TTS helper with Web Speech fallback
+  let globalGoogleAudioInstance = null;
+  window.speakJapaneseText = function(text) {
+    if (!text) return;
+    const clean = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (globalGoogleAudioInstance) {
+      try {
+        globalGoogleAudioInstance.pause();
+        globalGoogleAudioInstance.currentTime = 0;
+      } catch(e) {}
+    }
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
+    if (clean.length <= 200) {
+      try {
+        const encoded = encodeURIComponent(clean);
+        const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
+        const audio = new Audio(url);
+        globalGoogleAudioInstance = audio;
+        const p = audio.play();
+        if (p !== undefined) {
+          p.catch(err => {
+            console.warn('Google TTS audio playback blocked, falling back:', err);
+            fallbackSpeech(clean);
+          });
+        }
+        return;
+      } catch (e) {
+        console.warn('Google TTS instantiation error:', e);
+      }
+    }
+    fallbackSpeech(clean);
+  };
+
+  function fallbackSpeech(txt) {
+    if (!('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(txt);
+    u.lang = 'ja-JP';
+    u.rate = 0.95;
+    window.speechSynthesis.speak(u);
+  }
+
+  function cleanSearchWord(w) {
+    if (!w) return '';
+    return w.replace(/^[〜~]/, '').replace(/（.*?）|\(.*?\)/g, '').replace(/（する）|\(する\)/g, '').split('/')[0].trim();
+  }
+
+  function searchDictionaryOnPage(query) {
+    const cleanQ = cleanSearchWord(query);
+    if (!cleanQ) return null;
+
+    // 1. Search in Similar Grammar Dict
+    let grammarMatch = null;
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      for (let k in window.JLPT_SIMILAR_GRAMMAR_DICT) {
+        const cleanK = cleanSearchWord(k);
+        if (cleanK === cleanQ || k === query) {
+          grammarMatch = {
+            term: k,
+            reading: '',
+            meaning: window.JLPT_SIMILAR_GRAMMAR_DICT[k].meaning || '',
+            similar: window.JLPT_SIMILAR_GRAMMAR_DICT[k].similar || '',
+            level: 'N3 文法'
+          };
+          break;
+        }
+      }
+    }
+
+    // 2. Search in Grammar Quiz Data
+    if (window.JLPT_N3_QUIZ_DATA && Array.isArray(window.JLPT_N3_QUIZ_DATA)) {
+      const qMatch = window.JLPT_N3_QUIZ_DATA.find(q => {
+        const gClean = cleanSearchWord(q.grammar);
+        return gClean === cleanQ || q.grammar === query;
+      });
+      if (qMatch) {
+        if (!grammarMatch) grammarMatch = { term: qMatch.grammar, level: 'N3 文法' };
+        grammarMatch.reading = grammarMatch.reading || qMatch.reading || '';
+        grammarMatch.meaning = grammarMatch.meaning || qMatch.meaning_en || '';
+        grammarMatch.example_ja = qMatch.sentence_ruby || qMatch.sentence || '';
+        grammarMatch.example_en = qMatch.sentence_en || '';
+        grammarMatch.similar = grammarMatch.similar || qMatch.similar || '';
+      }
+    }
+
+    // 3. Search in Vocab Data
+    let vocabMatch = null;
+    if (window.JLPT_N2_VOCAB_DATA && Array.isArray(window.JLPT_N2_VOCAB_DATA)) {
+      const vMatch = window.JLPT_N2_VOCAB_DATA.find(v => {
+        const vClean = cleanSearchWord(v.word);
+        return vClean === cleanQ || v.word === query || (v.reading && cleanSearchWord(v.reading) === cleanQ);
+      });
+      if (vMatch) {
+        vocabMatch = {
+          term: vMatch.word,
+          reading: vMatch.reading || '',
+          ruby: vMatch.ruby || '',
+          meaning: vMatch.meaning || '',
+          level: vMatch.cat_name || 'N2 語彙',
+          example_ja: vMatch.ex_ja || '',
+          example_en: vMatch.ex_en || ''
+        };
+      }
+    }
+
+    // 4. Search in Dictionary Data
+    let dictMatch = null;
+    if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+      const dMatch = window.DICT_DATA.find(d => {
+        return d.w === cleanQ || d.r === cleanQ || (d.w && d.w.includes(cleanQ));
+      });
+      if (dMatch) {
+        dictMatch = {
+          term: dMatch.w,
+          reading: dMatch.r || '',
+          meaning: Array.isArray(dMatch.m) ? dMatch.m.join('; ') : (dMatch.m || ''),
+          level: dMatch.l ? `JLPT ${dMatch.l}` : '語彙'
+        };
+      }
+    }
+
+    // 5. Example Sentence Resolution
+    let ex_ja = '';
+    let ex_en = '';
+    if (grammarMatch && grammarMatch.example_ja) {
+      ex_ja = grammarMatch.example_ja;
+      ex_en = grammarMatch.example_en;
+    } else if (vocabMatch && vocabMatch.example_ja) {
+      ex_ja = vocabMatch.example_ja;
+      ex_en = vocabMatch.example_en;
+    } else if (window.DICT_EXAMPLES_MAP) {
+      const ex = window.DICT_EXAMPLES_MAP[cleanQ] || (dictMatch && window.DICT_EXAMPLES_MAP[dictMatch.term]);
+      if (ex) {
+        ex_ja = ex.ja || '';
+        ex_en = ex.en || '';
+      }
+    }
+
+    const primary = grammarMatch || vocabMatch || dictMatch || {
+      term: query,
+      reading: '',
+      meaning: '意味・解説が見つかりませんでした。',
+      level: '辞書検索'
+    };
+
+    return {
+      term: primary.term || cleanQ,
+      reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
+      level: primary.level || 'JLPT N3',
+      meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
+      example_ja: ex_ja,
+      example_en: ex_en,
+      similar: (grammarMatch && grammarMatch.similar) ? grammarMatch.similar : ''
+    };
+  }
+
+  function renderDictLookup(query) {
+    if (!modalDictResultContent) return;
+    const cleanQ = cleanSearchWord(query);
+    const result = searchDictionaryOnPage(query);
+    if (!result) {
+      modalDictResultContent.innerHTML = `<div style="padding:12px;color:#718096;text-align:center;">該当する単語が見つかりませんでした。</div>`;
+      return;
+    }
+
+    const escapedTerm = result.term.replace(/'/g, "\\'");
+    const readingPart = (result.reading && result.reading !== result.term)
+      ? `<span class="modal-dict-card-reading">（${result.reading}）</span>`
+      : '';
+
+    let exHtml = '';
+    if (result.example_ja) {
+      const plainEx = result.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\\'");
+      exHtml = `
+        <div class="modal-dict-card-ex-box">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+            <div class="modal-dict-card-ex-ja">${result.example_ja}</div>
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
+          </div>
+          ${result.example_en ? `<div class="modal-dict-card-ex-en">${result.example_en}</div>` : ''}
+        </div>
+      `;
+    }
+
+    let similarHtml = '';
+    if (result.similar) {
+      const tags = result.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
+      if (tags.length > 0) {
+        similarHtml = `
+          <div style="margin-top:10px;">
+            <div style="font-size:11px;font-weight:700;color:#4D648D;margin-bottom:4px;">関連表現・類語（タップで検索）:</div>
+            <div class="modal-dict-similar-tags">
+              ${tags.map(t => `<button type="button" class="modal-dict-similar-tag" onclick="window.quickDictSearch('${t.replace(/'/g, "\\'")}')">🔍 ${t}</button>`).join('')}
+            </div>
+          </div>
+        `;
+      }
+    }
+
+    modalDictResultContent.innerHTML = `
+      <div class="modal-dict-card">
+        <div class="modal-dict-card-header">
+          <div class="modal-dict-card-word">
+            <span>${result.term}</span>
+            ${readingPart}
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+          </div>
+          <span class="modal-dict-card-badge">${result.level}</span>
+        </div>
+        <div class="modal-dict-card-meaning">${result.meaning}</div>
+        ${exHtml}
+        ${similarHtml}
+      </div>
+    `;
+
+    if (linkExternalDict) {
+      linkExternalDict.href = `dictionary.html?search=${encodeURIComponent(cleanQ)}`;
+    }
+  }
+
+  function openDictPanelOnPage(term) {
+    if (!modalDictPanel) return;
+    const cleanQ = cleanSearchWord(term);
+    modalDictPanel.style.display = 'block';
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanQ;
+    }
+    renderDictLookup(cleanQ);
+    // Smooth scroll down to dict panel
+    setTimeout(() => {
+      modalDictPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }, 50);
+  }
+
+  window.quickDictSearch = function(word) {
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanSearchWord(word);
+    }
+    renderDictLookup(word);
+  };
+
+  btnSearchDict.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    openDictPanelOnPage(activeModalTerm);
+  });
+
+  if (btnModalDictSearch) {
+    btnModalDictSearch.addEventListener('click', () => {
+      const q = modalDictSearchInput ? modalDictSearchInput.value.trim() : '';
+      if (q) renderDictLookup(q);
+    });
+  }
+
+  if (modalDictSearchInput) {
+    modalDictSearchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const q = modalDictSearchInput.value.trim();
+        if (q) renderDictLookup(q);
+      }
+    });
+  }
+
+  // Result View Elements
+  const resultView = document.getElementById('resultView');
+  const questionCard = document.querySelector('.question-card');
+  const navBar = document.querySelector('.nav-bar');
+  const controlBar = document.querySelector('.control-bar');
+  const progressWrap = document.querySelector('.progress-wrap');
+
+  const resultEvalBadge = document.getElementById('resultEvalBadge');
+  const resultScorePct = document.getElementById('resultScorePct');
+  const resultScoreText = document.getElementById('resultScoreText');
+  const btnRetryWrong = document.getElementById('btnRetryWrong');
+  const resultWrongCount = document.getElementById('resultWrongCount');
+  const btnRetryAll = document.getElementById('btnRetryAll');
+  const reviewCardsContainer = document.getElementById('reviewCardsContainer');
+  const badgeCountAll = document.getElementById('badgeCountAll');
+  const badgeCountWrong = document.getElementById('badgeCountWrong');
+  const badgeCountCorrect = document.getElementById('badgeCountCorrect');
+
+  let grammarReviewFilter = 'all';
+
+  function showGrammarResultView() {
+    questionCard.style.display = 'none';
+    navBar.style.display = 'none';
+    controlBar.style.display = 'none';
+    progressWrap.style.display = 'none';
+    resultView.style.display = 'block';
+
+    const total = filteredIndices.length;
+    let correctCount = 0;
+    const wrongList = [];
+
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (ans && ans.isCorrect) {
+        correctCount++;
+      } else {
+        wrongList.push(dataIdx);
+      }
+    });
+
+    const pct = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+    resultScorePct.textContent = `${pct}%`;
+    resultScoreText.textContent = `${total}問中 ${correctCount}問正解 (正解: ${correctCount} / 不正解: ${total - correctCount})`;
+
+    if (pct === 100) {
+      resultEvalBadge.className = 'result-eval-badge gold';
+      resultEvalBadge.textContent = '🌟 パーフェクト達成！全問正解です！';
+    } else if (pct >= 80) {
+      resultEvalBadge.className = 'result-eval-badge pass';
+      resultEvalBadge.textContent = '🎉 合格ライン突破！素晴らしい理解度です！';
+    } else if (pct >= 60) {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '👍 あと少し！間違えた問題を復習して弱点を克服しよう！';
+    } else {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '💪 復習タイム！間違えた問題をじっくり確認しましょう！';
+    }
+
+    if (wrongList.length > 0) {
+      resultWrongCount.textContent = wrongList.length;
+      btnRetryWrong.style.display = 'inline-flex';
+    } else {
+      btnRetryWrong.style.display = 'none';
+    }
+
+    renderGrammarReviewCards(grammarReviewFilter);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function hideGrammarResultView() {
+    resultView.style.display = 'none';
+    questionCard.style.display = 'block';
+    navBar.style.display = 'flex';
+    controlBar.style.display = 'flex';
+    progressWrap.style.display = 'block';
+  }
+
+  btnRetryWrong.addEventListener('click', () => {
+    const wrongList = [];
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+    if (wrongList.length === 0) return;
+    filteredIndices = wrongList;
+    currentIndex = 0;
+    hideGrammarResultView();
+    renderQuestion();
+    showToast(`間違えた ${wrongList.length} 問の復習を開始します！`);
+  });
+
+  btnRetryAll.addEventListener('click', () => {
+    filteredIndices.forEach((dataIdx) => {
+      delete userStats.answers[dataIdx];
+    });
+    currentIndex = 0;
+    hideGrammarResultView();
+    renderQuestion();
+    showToast('最初から解き直します！');
+  });
+
+  document.querySelectorAll('.rev-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.rev-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      grammarReviewFilter = btn.dataset.filter;
+      renderGrammarReviewCards(grammarReviewFilter);
+    });
+  });
+
+  function renderGrammarReviewCards(filter) {
+    if (!reviewCardsContainer) return;
+    reviewCardsContainer.innerHTML = '';
+
+    const wrongList = [];
+    filteredIndices.forEach((dataIdx) => {
+      const ans = userStats.answers[dataIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+
+    const total = filteredIndices.length;
+    const countWrong = wrongList.length;
+    const countCorrect = total - countWrong;
+
+    if (badgeCountAll) badgeCountAll.textContent = total;
+    if (badgeCountWrong) badgeCountWrong.textContent = countWrong;
+    if (badgeCountCorrect) badgeCountCorrect.textContent = countCorrect;
+
+    filteredIndices.forEach((dataIdx, qIdx) => {
+      const q = data[dataIdx];
+      const ans = userStats.answers[dataIdx];
+      const isCorrect = ans && ans.isCorrect;
+
+      if (filter === 'wrong' && isCorrect) return;
+      if (filter === 'correct' && !isCorrect) return;
+
+      const card = document.createElement('div');
+      card.className = `rev-card ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+
+      const choices = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+      const userSelectedText = (ans && ans.selected !== undefined && choices[ans.selected]) ? choices[ans.selected] : '未回答';
+      const correctText = choices[q.answer] || q.correct_text;
+
+      const statusTag = isCorrect
+        ? `<span class="rev-tag-status correct"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg> 正解</span>`
+        : `<span class="rev-tag-status wrong"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> 不正解</span>`;
+
+      const fullSentenceHtml = q.sentence_jp_ruby || q.sentence_jp;
+
+      card.innerHTML = `
+        <div class="rev-card-top">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span style="font-size:12.5px; font-weight:800; color:var(--primary-blue);">問 ${qIdx + 1}</span>
+            <span style="font-size:11px; font-weight:700; background:var(--primary-blue-pale); color:var(--primary-blue-dark); padding:2px 8px; border-radius:10px;">${q.grammar}</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            ${statusTag}
+            <button class="icon-btn" style="width:28px; height:28px; padding:0; background:none; border:none; cursor:pointer;" onclick="window.toggleReviewGrammarBookmark(${q.id}, this)">
+              <span style="font-size:16px; color:${bookmarks.includes(q.id) ? 'var(--sakura-pink-deep)' : 'var(--text-muted)'};">★</span>
+            </button>
+          </div>
+        </div>
+        <div class="rev-sentence">${fullSentenceHtml}</div>
+        <div class="rev-choice-comparison">
+          <div class="rev-row">
+            <span class="rev-row-label">あなたの回答:</span>
+            <span class="rev-row-val ${isCorrect ? 'correct' : 'wrong'}">${userSelectedText}</span>
+          </div>
+          ${!isCorrect ? `
+          <div class="rev-row">
+            <span class="rev-row-label">正解:</span>
+            <span class="rev-row-val correct">${correctText}</span>
+          </div>` : ''}
+        </div>
+        <div class="rev-exp-box">
+          <div style="font-weight:700; color:var(--primary-blue); margin-bottom:4px;">💡 文法意味: ${q.grammar} ${q.reading ? `(${q.reading})` : ''}</div>
+          <div>${q.meaning_en || ''}</div>
+          ${q.sentence_en ? `<div style="margin-top:4px; font-style:italic; color:var(--text-secondary);">${q.sentence_en}</div>` : ''}
+        </div>
+      `;
+
+      reviewCardsContainer.appendChild(card);
+    });
+  }
+
+  window.toggleReviewGrammarBookmark = function(qid, btn) {
+    const pos = bookmarks.indexOf(qid);
+    if (pos >= 0) {
+      bookmarks.splice(pos, 1);
+      btn.querySelector('span').style.color = 'var(--text-muted)';
+      showToast('マイリストから解除しました');
+    } else {
+      bookmarks.push(qid);
+      btn.querySelector('span').style.color = 'var(--sakura-pink-deep)';
+      showToast('マイリストに保存しました！★');
+    }
+    localStorage.setItem('jlpt_n3_bookmarks', JSON.stringify(bookmarks));
+  };
+
+  // Initial Render
+  renderQuestion();
+})();
+</script>
+
+</body>
+</html>

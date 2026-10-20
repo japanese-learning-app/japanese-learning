@@ -1737,6 +1737,10 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
         語彙穴埋め (896問)
       </a>
+      <a href="jlpt_n3_grammar_quiz.html" class="nav-btn" style="background:rgba(59, 130, 246, 0.4); color:#FFFFFF; border-color:rgba(147, 197, 253, 0.7); font-weight:800;">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
+        N3 文法演習 (182問)
+      </a>
       <a href="jlpt_n2_grammar_quiz.html" class="nav-btn" style="background:rgba(255, 255, 255, 0.2); color:#FFFFFF; border-color:rgba(255, 255, 255, 0.4); font-weight:700;">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
         文法穴埋め (1,507問)
@@ -1791,7 +1795,7 @@
   <div class="level-tabs-wrap">
     <button class="level-tab" onclick="switchLevel('n5')">N5 <span class="badge-lvl" style="background:#E2E8F0; color:#64748B;">準備中</span></button>
     <button class="level-tab" onclick="switchLevel('n4')">N4 <span class="badge-lvl" style="background:#E2E8F0; color:#64748B;">準備中</span></button>
-    <button class="level-tab" onclick="switchLevel('n3')">N3 <span class="badge-lvl" style="background:#E2E8F0; color:#64748B;">準備中</span></button>
+    <button class="level-tab" onclick="switchLevel('n3')">N3 <span class="badge-lvl" style="background:var(--kobe-blue); color:#fff; font-weight:800;">公開中</span></button>
     <button class="level-tab active" onclick="switchLevel('n2')">N2 <span class="badge-lvl" style="background:var(--kobe-blue); color:#fff; font-weight:800;">公開中</span></button>
     <button class="level-tab" onclick="switchLevel('n1')">N1 <span class="badge-lvl" style="background:#E2E8F0; color:#64748B;">準備中</span></button>
   </div>
@@ -2308,6 +2312,7 @@
 <script src="database/jlpt_vocab_all.js"></script>
 <script src="database/jlpt_questions_data.js"></script>
 <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
+<script src="database/jlpt_n3_grammar_quiz_data.js"></script>
 <script src="database/jlpt_similar_grammar_dict.js"></script>
 <script src="database/jlpt_n2_vocab_full_data.js"></script>
 <script src="database/jlpt_explanation_translator.js"></script>
@@ -2453,13 +2458,13 @@
   const LEVEL_INFO = {
     n5: { badge: 'N5', title: 'JLPT N5 実戦練習道場', desc: '初級レベル総合演習（現在準備中）' },
     n4: { badge: 'N4', title: 'JLPT N4 実戦練習道場', desc: '初中級レベル総合演習（現在準備中）' },
-    n3: { badge: 'N3', title: 'JLPT N3 実戦練習道場', desc: '中級レベル総合演習（現在準備中）' },
+    n3: { badge: 'N3', title: 'JLPT N3 実戦練習道場', desc: '全182文法項目 穴埋め4択演習道場（完全公開中）' },
     n2: { badge: 'N2', title: 'JLPT N2 実戦練習道場', desc: '全195文法項目・全1,507問 穴埋め4択演習 ＆ 文字・語彙' },
     n1: { badge: 'N1', title: 'JLPT N1 実戦練習道場', desc: '最上級レベル総合演習（現在準備中）' }
   };
 
   function switchLevel(lvl) {
-    if (lvl !== 'n2') {
+    if (lvl !== 'n2' && lvl !== 'n3') {
       showToast(`${lvl.toUpperCase()} は現在準備中です。現在はN2をご利用いただけます。`);
       return;
     }
@@ -2490,8 +2495,9 @@
       vocabCount = window.JLPT_QUESTIONS_DATA[currentLevel].vocabulary.length;
     }
 
-    const grammarCount = (window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) 
-      ? window.JLPT_N2_QUIZ_DATA.length : 1507;
+    const grammarCount = currentLevel === 'n3'
+      ? ((window.JLPT_N3_QUIZ_DATA && Array.isArray(window.JLPT_N3_QUIZ_DATA)) ? window.JLPT_N3_QUIZ_DATA.length : 182)
+      : ((window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) ? window.JLPT_N2_QUIZ_DATA.length : 1507);
 
     const vcEl = document.getElementById('vocab-count');
     if (vcEl) vcEl.textContent = `${vocabCount.toLocaleString()} ${vocabLabel}`;
@@ -2507,12 +2513,31 @@
   }
 
   function checkGrammarResumeButton() {
+    const storageKey = currentLevel === 'n3' ? 'jlpt_n3_grammar_progress' : 'jlpt_n2_grammar_progress';
+    const targetUrl = currentLevel === 'n3' ? 'jlpt_n3_grammar_quiz.html' : 'jlpt_n2_grammar_quiz.html';
+    const totalQ = currentLevel === 'n3' ? 182 : 1507;
+
+    const grammarLink = document.querySelector('a.card-btn-action.teal');
+    if (grammarLink) {
+      grammarLink.href = targetUrl;
+      grammarLink.textContent = `📝 文法穴埋め演習を解く (全${totalQ.toLocaleString()}問) →`;
+    }
+
+    const featCount = document.querySelector('.card-feature-list li:first-child');
+    if (featCount) {
+      if (currentLevel === 'n3') {
+        featCount.textContent = '全182文法項目を完全網羅 (全182問)';
+      } else {
+        featCount.textContent = '全195文法項目を完全網羅 (全1,507問)';
+      }
+    }
+
     const resumeBtn = document.getElementById('card-resume-btn');
     const resumeNum = document.getElementById('card-resume-num');
     if (!resumeBtn) return;
 
     try {
-      const saved = localStorage.getItem('jlpt_n2_grammar_progress');
+      const saved = localStorage.getItem(storageKey);
       if (saved) {
         const prog = JSON.parse(saved);
         if (prog && typeof prog.lastIndex === 'number' && prog.lastIndex > 0) {
