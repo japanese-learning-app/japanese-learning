@@ -1539,6 +1539,7 @@
   <div class="control-bar">
     <div class="filter-group">
       <!-- Category Filter Dropdown -->
+      <select class="filter-select" id="categoryFilter">
         <option value="all">全カテゴリー対象（全896問）</option>
         <option value="漢字読み">漢字の読み方（漢字読み）</option>
         <option value="漢字表記">漢字の書き方（表記）</option>
@@ -1616,15 +1617,12 @@
 
     <!-- Question Sentence -->
     <div class="question-sentence" id="questionSentence">
-      お支払いの事実を（　　　）できる領収書をお持ちいただけますか。
+      問題を読み込み中...
     </div>
 
     <!-- 4 Choices Grid -->
     <div class="choices-grid" id="choicesGrid">
-      <button class="choice-btn" data-index="0"><span class="choice-num">1</span><span class="choice-text">選択肢1</span></button>
-      <button class="choice-btn" data-index="1"><span class="choice-num">2</span><span class="choice-text">選択肢2</span></button>
-      <button class="choice-btn" data-index="2"><span class="choice-num">3</span><span class="choice-text">選択肢3</span></button>
-      <button class="choice-btn" data-index="3"><span class="choice-num">4</span><span class="choice-text">選択肢4</span></button>
+      <!-- 選択肢が動的に生成されます -->
     </div>
 
     <!-- Explanation Card -->

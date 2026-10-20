@@ -585,12 +585,24 @@
     }
 
     // Storage for starred words & learned status
+    const STORAGE_VOCAB_TERMS_KEY = 'jlpt_custom_vocab_terms';
+
     function getStarredWords() {
       try {
         if (typeof UserProgress !== 'undefined') {
           return UserProgress.getSavedVocabList().map(v => v.word);
         }
-        return JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+        let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
+        // Backwards compatibility migration
+        const oldGrammarNotes = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+        if (oldGrammarNotes.length > 0) {
+          const merged = Array.from(new Set([...list, ...oldGrammarNotes]));
+          if (merged.length !== list.length) {
+            list = merged;
+            localStorage.setItem(STORAGE_VOCAB_TERMS_KEY, JSON.stringify(list));
+          }
+        }
+        return list;
       } catch(e) {
         return [];
       }
@@ -860,9 +872,9 @@
           UserProgress.removeSavedVocab(item.word);
         }
         try {
-          let list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+          let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
           list = list.filter(w => w !== item.word);
-          localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(list));
+          localStorage.setItem(STORAGE_VOCAB_TERMS_KEY, JSON.stringify(list));
         } catch(e) {}
         showToast(`「${item.word}」をマイリストから削除しました`);
       } else {
@@ -875,9 +887,9 @@
           });
         }
         try {
-          let list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
+          let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
           if (!list.includes(item.word)) list.push(item.word);
-          localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(list));
+          localStorage.setItem(STORAGE_VOCAB_TERMS_KEY, JSON.stringify(list));
         } catch(e) {}
         showToast(`「${item.word}」をマイリストに追加しました！⭐`);
       }
