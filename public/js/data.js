@@ -17942,7 +17942,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "sweet potato"
     },
     "example": {
-      "ja": "<ruby>秋<rt>あき</rt></ruby>の<ruby>焼き芋<rt>やきいも</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで、ホクホクに<ruby>焼<rt>や</rt></ruby>けた<ruby>甘<rt>あま</rt></ruby>い<ruby>さつまいも<rt>さつまいも</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "ja": "<ruby>秋<rt>あき</rt></ruby>の<ruby>焼き芋<rt>やきいも</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで、ホクホクに<ruby>焼<rt>や</rt></ruby>けた<ruby>甘<rt>あま</rt></ruby>いさつまいもを<ruby>買<rt>か</rt></ruby>いました。",
       "en": "At an autumn roasted sweet potato stand, I bought steaming, sweet satsumaimo.",
       "zh_TW": "在秋天的烤地瓜攤上，買了熱騰騰香甜鬆軟的烤地瓜。",
       "zh_CN": "在秋天的烤红薯摊上，买了热腾腾香甜松软的烤红薯。",
@@ -18026,7 +18026,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "Christmas"
     },
     "example": {
-      "ja": "12<ruby>月<rt>がつ</rt></ruby>になると<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>がイルミネーションで<ruby>輝<rt>かがや</rt></ruby>き、<ruby>クリスマス<rt>クリスマス</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれます。",
+      "ja": "12<ruby>月<rt>がつ</rt></ruby>になると<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>がイルミネーションで<ruby>輝<rt>かがや</rt></ruby>き、クリスマスの<ruby>雰囲気<rt>ふんいき</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれます。",
       "en": "In December, the town glitters with illuminations and is enveloped in a Christmas atmosphere.",
       "zh_TW": "一到12月整座城市就被聖誕燈飾點亮，洋溢著浪漫的聖誕節氛圍。",
       "zh_CN": "一到12月整座城市就被圣诞灯饰点亮，洋溢着浪漫的圣诞节氛围。",
@@ -18866,7 +18866,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "swimming pool"
     },
     "example": {
-      "ja": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏休<rt>なつやす</rt></ruby>みには、<ruby>市民<rt>しみん</rt></ruby><ruby>プール<rt>プール</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>と<ruby>思い切<rt>おもいき</rt></ruby>り<ruby>泳<rt>およ</rt></ruby>ぎます。",
+      "ja": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏休<rt>なつやす</rt></ruby>みには、<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>行<rt>い</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>と<ruby>思い切<rt>おもいき</rt></ruby>り<ruby>泳<rt>およ</rt></ruby>ぎます。",
       "en": "During the hot summer vacation, I go to the public pool and swim to my heart's content with friends.",
       "zh_TW": "炎熱的暑假裡，我和朋友會去市民游泳池痛痛快快地游泳。",
       "zh_CN": "炎热的暑假里，我和朋友会去市民游泳池痛痛快快地游泳。",

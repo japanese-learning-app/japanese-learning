@@ -8708,12 +8708,37 @@
     updateActiveDeck();
   }
 
+  function makeSafeRubyWord(word, reading) {
+    if (!word) return '';
+    const hasKanji = /[\u4e00-\u9faf\u3400-\u4dbf]/.test(word);
+    if (!hasKanji || !reading || reading === word) {
+      return word;
+    }
+    return `<ruby>${word}<rt>${reading}</rt></ruby>`;
+  }
+
+  function getNaturalDefaultDialogue(word, reading) {
+    const rw = makeSafeRubyWord(word, reading);
+    return {
+      ja: `A: 「${rw}」はどういう<ruby>意味<rt>いみ</rt></ruby>ですか？<br/>B: <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>でもよく<ruby>使<rt>つか</rt></ruby>われる<ruby>表現<rt>ひょうげん</rt></ruby>ですよ。`,
+      en: `A: What does "${word}" mean?<br/>B: It is a common expression used in daily conversation.`,
+      zh_TW: `A: 「${word}」是什麼意思呢？<br/>B: 這是日常生活中非常常用的表達方式喔。`,
+      zh_CN: `A: 「${word}」是什么意思呢？<br/>B: 这是日常生活中非常常用的表达方式哦。`,
+      ko: `A: "${word}"은(는) 무슨 뜻인가요?<br/>B: 일상 대화에서도 자주 쓰이는 표현이에요.`,
+      zh_HK: `A: 「${word}」係咩意思呢？<br/>B: 呢個係日常生活好常用嘅表達嚟㗎。`,
+      fr: `A: Que signifie « ${word} » ?<br/>B: C'est une expression couramment utilisée dans la conversation quotidienne.`
+    };
+  }
+
   function updateActiveDeck() {
     if (currentDeckFilter === 'jlpt') {
       const lvl = currentJlptDeckLevel || 'N5';
       const jlptList = (window.JLPT_VOCAB && window.JLPT_VOCAB[lvl]) || [];
+      const dictMap = window.DICT_EXAMPLES_MAP || {};
       activeDeck = jlptList.map((entry, idx) => {
-        const ex = (entry.examples && entry.examples[0]) ? entry.examples[0] : null;
+        const dictEx = dictMap[entry.word] || (entry.reading && dictMap[entry.reading]);
+        const ex = (entry.examples && entry.examples[0]) ? entry.examples[0] : (dictEx || null);
+        const fallbackDlg = getNaturalDefaultDialogue(entry.word, entry.reading || entry.k);
         const meaningText = (entry.meanings || []).join(', ') || '—';
         return {
           id: `jlpt_${entry.level || lvl}_${idx}_${entry.word}`,
@@ -8732,8 +8757,8 @@
             fr: meaningText
           },
           example: {
-            ja: ex ? ex.ja : `A: <ruby>${entry.word}<rt>${entry.reading || entry.word}</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/>B: 頑張りましょう！`,
-            en: ex ? (ex.en || '') : `A: Let's study "${entry.word}".<br/>B: Let's do our best!`
+            ja: ex ? ex.ja : fallbackDlg.ja,
+            en: ex ? (ex.en || '') : fallbackDlg.en
           },
           related: `【JLPT】${entry.level || lvl} / 【行】${entry.row || '—'}`,
           isJlpt: true
@@ -9868,6 +9893,7 @@
       if (entry) {
         const exMap = window.DICT_EXAMPLES_MAP || {};
         const matchedEx = exMap[entry.w] || (entry.r ? exMap[entry.r] : null);
+        const fallbackDlg = getNaturalDefaultDialogue(entry.w, entry.r);
         return {
           id: cardId,
           word: entry.w,
@@ -9884,8 +9910,8 @@
             fr: (entry.fr && entry.fr.join(', ')) || (entry.m && entry.m.join(', ')) || '—'
           },
           example: {
-            ja: matchedEx ? matchedEx.ja : `A: <ruby>${entry.w}<rt>${entry.r || entry.w}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`,
-            en: matchedEx ? (matchedEx.en || '') : `A: Let's talk about "${entry.w}".<br/>B: Yes, understood!`
+            ja: matchedEx ? matchedEx.ja : fallbackDlg.ja,
+            en: matchedEx ? (matchedEx.en || '') : fallbackDlg.en
           },
           related: `【品詞】${entry.p || '一般'} / 【JLPT】${entry.l || '一般'}`,
           isDict: true
@@ -9906,7 +9932,10 @@
         const list = window.JLPT_VOCAB[lvl] || [];
         const entry = list.find(w => w.word === jlptWordToFind || w.word === cardId);
         if (entry) {
-          const ex = (entry.examples && entry.examples[0]) ? entry.examples[0] : null;
+          const dictMap = window.DICT_EXAMPLES_MAP || {};
+          const dictEx = dictMap[entry.word] || (entry.reading && dictMap[entry.reading]);
+          const ex = (entry.examples && entry.examples[0]) ? entry.examples[0] : (dictEx || null);
+          const fallbackDlg = getNaturalDefaultDialogue(entry.word, entry.reading || entry.k);
           const meaningText = (entry.meanings || []).join(', ') || '—';
           return {
             id: cardId,
@@ -9924,8 +9953,8 @@
               fr: meaningText
             },
             example: {
-              ja: ex ? ex.ja : `A: <ruby>${entry.word}<rt>${entry.reading || entry.word}</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/>B: 頑張りましょう！`,
-              en: ex ? (ex.en || '') : `A: Let's study "${entry.word}".<br/>B: Let's do our best!`
+              ja: ex ? ex.ja : fallbackDlg.ja,
+              en: ex ? (ex.en || '') : fallbackDlg.en
             },
             related: `【JLPT】${entry.level || lvl} / 【行】${entry.row || '—'}`,
             isJlpt: true
@@ -9945,10 +9974,11 @@
       }
       const online = getOnlineDictCache()[nameInfo.w];
       if (online && online.en) {
+        const fallbackDlg = getNaturalDefaultDialogue(nameInfo.w, nameInfo.r);
         const resolved = {
           id: cardId, word: nameInfo.w, reading: nameInfo.r || '', category: '授業で習った言葉',
           meaning: { en: online.en, ja: nameInfo.w, zh_TW: online.en, zh_CN: online.en, ko: online.en, zh_HK: online.en, fr: online.en },
-          example: { ja: `A: <ruby>${nameInfo.w}<rt>${nameInfo.r || nameInfo.w}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`, en: `A: Let's talk about "${nameInfo.w}".<br/>B: Yes, understood!` },
+          example: { ja: fallbackDlg.ja, en: fallbackDlg.en },
           related: '', isRebuilt: true
         };
         if (!vocabList.find(c => c.id === cardId)) vocabList.push(resolved);
@@ -9958,10 +9988,11 @@
       const looking = onlineLookupFailed.has(nameInfo.w)
         ? { en: 'Meaning could not be loaded (check connection)', ja: '意味を読み込めませんでした（通信を確認）', zh_TW: '無法載入意思（請檢查網路）', zh_CN: '无法加载意思（请检查网络）', ko: '뜻을 불러오지 못했습니다 (연결 확인)', zh_HK: '載入唔到意思（請檢查網絡）', fr: 'Sens indisponible (vérifiez la connexion)' }
         : { en: 'Looking up meaning…', ja: '意味を調べています…', zh_TW: '正在查詢意思…', zh_CN: '正在查询意思…', ko: '뜻을 찾는 중…', zh_HK: '正在查意思…', fr: 'Recherche du sens…' };
+      const fallbackDlg = getNaturalDefaultDialogue(nameInfo.w, nameInfo.r);
       const resolved = {
         id: cardId, word: nameInfo.w, reading: nameInfo.r || '', category: '授業で習った言葉',
         meaning: looking,
-        example: { ja: `A: <ruby>${nameInfo.w}<rt>${nameInfo.r || nameInfo.w}</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`, en: `A: Let's talk about "${nameInfo.w}".<br/>B: Yes, understood!` },
+        example: { ja: fallbackDlg.ja, en: fallbackDlg.en },
         related: '', isRebuilt: true, isNameOnly: true
       };
       if (!vocabList.find(c => c.id === cardId)) vocabList.push(resolved);
@@ -10918,7 +10949,7 @@
             }
 
             cleanExJa = cleanExJa.replace(/\s*[（\(][\u3040-\u309F\u30A0-\u30FF・ー\s、。]+[）\)]\s*$/, '').trim();
-            cleanExJa = cleanExJa.replace(/([\u4e00-\u9faf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
+            cleanExJa = cleanExJa.replace(/([\u4e00-\u9faf\u3400-\u4dbf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
 
             resolvedJa = cleanExJa;
             if (extractedExTrans) {
@@ -10950,14 +10981,14 @@
               resolvedZhHK = matchedEx.zh_HK || matchedEx.en || matchedEx.ja;
               resolvedFr = matchedEx.fr || matchedEx.en || matchedEx.ja;
             } else {
-              const rubyWord = reading && reading !== word ? `<ruby>${word}<rt>${reading}</rt></ruby>` : word;
-              resolvedJa = `A: ${rubyWord}について<ruby>話<rt>はな</rt></ruby>しましょう。<br/>B: はい、わかりました！`;
-              resolvedEn = `A: Let's talk about "${word}".<br/>B: Yes, understood!`;
-              resolvedZhTW = `A: 我們來聊聊關於「${word}」的話題吧。<br/>B: 好的，明白了！`;
-              resolvedZhCN = `A: 我们来聊聊关于「${word}」的话题吧。<br/>B: 好的，明白了！`;
-              resolvedKo = `A: "${word}"에 대해 이야기해 봅시다.<br/>B: 네, 알겠습니다!`;
-              resolvedZhHK = `A: 我哋嚟傾下關於「${word}」嘅話題啦。<br/>B: 好呀，明白！`;
-              resolvedFr = `A: Parlons de « ${word} ».<br/>B: Oui, d'accord !`;
+              const fallbackDlg = getNaturalDefaultDialogue(word, reading);
+              resolvedJa = fallbackDlg.ja;
+              resolvedEn = fallbackDlg.en;
+              resolvedZhTW = fallbackDlg.zh_TW;
+              resolvedZhCN = fallbackDlg.zh_CN;
+              resolvedKo = fallbackDlg.ko;
+              resolvedZhHK = fallbackDlg.zh_HK;
+              resolvedFr = fallbackDlg.fr;
             }
           }
 
@@ -13821,10 +13852,10 @@
               <span class="text-[9px] font-bold text-slate-400 block">${isJa ? '会話例文と対訳' : 'Real Dialogue & Translation'}</span>
               <p class="text-[11px] font-bold text-slate-800 leading-tight font-jp">
                 A: 明日、図書館へ行きませんか？<br/>
-                B: いいですね、一緒に勉強しましょう！
+                B: いいですね、一緒に行きましょう！
               </p>
               <p class="text-[9px] text-slate-500 font-medium leading-tight">
-                A: Shall we go to the library tomorrow? B: Sounds great!
+                A: Shall we go to the library tomorrow? B: Sounds great, let's go together!
               </p>
             </div>
 

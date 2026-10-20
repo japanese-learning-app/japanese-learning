@@ -20258,7 +20258,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "a diminué (intransitif)"
     },
     "example": {
-      "ja": "A: <ruby>最近<rt>さいきん</rt></ruby>、このパン<ruby>屋<rt>や</rt></ruby>さんのお<ruby>客<rt>きゃく</rt></ruby><ruby>さん<rt>さん</rt></ruby>が<ruby>減<rt>へ</rt></ruby>ったみたい。<br/>B: <ruby>近<rt>ちか</rt></ruby>くに<ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>ができたからかな。",
+      "ja": "A: <ruby>最近<rt>さいきん</rt></ruby>、このパン<ruby>屋<rt>や</rt></ruby>さんのお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>減<rt>へ</rt></ruby>ったみたい。<br/>B: <ruby>近<rt>ちか</rt></ruby>くに<ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>ができたからかな。",
       "en": "A: It seems the number of customers at this bakery has decreased recently.<br/>B: Maybe because a new store opened nearby.",
       "zh_TW": "A: 最近這家麵包店的客人好像變少了。<br/>B: 可能是因為附近開了新店吧。",
       "zh_CN": "A: 最近这家面包店的客人好像变少了。<br/>B: 可能是因为附近开了新店吧。",
@@ -47735,7 +47735,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Maintenant que tu le dis... / En y repensant..."
     },
     "example": {
-      "ja": "A: <ruby>あれ<rt>あれ</rt></ruby>？このケーキ、<ruby>少<rt>すこ</rt></ruby>し<ruby>味<rt>あじ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わった？<br/>B: <ruby>言<rt>い</rt></ruby>われてみれば、<ruby>前<rt>まえ</rt></ruby>より<ruby>甘<rt>あま</rt></ruby>さ<ruby>控<rt>ひか</rt></ruby>えめかも。",
+      "ja": "A: あれ？このケーキ、<ruby>少<rt>すこ</rt></ruby>し<ruby>味<rt>あじ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わった？<br/>B: <ruby>言<rt>い</rt></ruby>われてみれば、<ruby>前<rt>まえ</rt></ruby>より<ruby>甘<rt>あま</rt></ruby>さ<ruby>控<rt>ひか</rt></ruby>えめかも。",
       "en": "A: Huh? Did the taste of this cake change a bit?<br/>B: Now that you mention it, it might be less sweet than before.",
       "zh_TW": "A: 咦？這個蛋糕的味道是不是變了一點？<br/>B: 你這麼一說，好像真的比以前不那麼甜了。",
       "zh_CN": "A: 咦？这个蛋糕的味道是不是变了一点？<br/>B: 你这么一说，好像真的比以前不那么甜了。",
