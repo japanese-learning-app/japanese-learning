@@ -14796,6 +14796,31 @@
     document.addEventListener('touchstart', resumeSpeechAudio, { passive: true });
     document.addEventListener('touchend', resumeSpeechAudio, { passive: true });
     document.addEventListener('click', resumeSpeechAudio, { passive: true });
+    // 📱 端末間同期: 別端末（スマホ・他PC）で保存・更新された後、この画面に戻ってきた瞬間に自動PULL同期！
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden && currentStudent && currentStudent.id !== 'guest') {
+        syncStudentFromCloud(currentStudent.id).then(changed => {
+          if (changed) {
+            loadMylistForCurrentStudent();
+            updateActiveDeck();
+            if (currentView === 'mylist') renderMylistGrid();
+          }
+        }).catch(() => {});
+      }
+    });
+
+    window.addEventListener('focus', () => {
+      if (currentStudent && currentStudent.id !== 'guest') {
+        syncStudentFromCloud(currentStudent.id).then(changed => {
+          if (changed) {
+            loadMylistForCurrentStudent();
+            updateActiveDeck();
+            if (currentView === 'mylist') renderMylistGrid();
+          }
+        }).catch(() => {});
+      }
+    });
+
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.get('view')) {
       switchView(urlParams.get('view'));

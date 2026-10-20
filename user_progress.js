@@ -40,12 +40,14 @@
       
       initFirebase();
       this.syncFromCloud();
+      this.setupRealtimeListener();
 
       // ログイン状態変更の監視
       if (window.AppAuth) {
         window.AppAuth.onAuthStateChanged(() => {
           this.init();
           this.syncFromCloud();
+          this.setupRealtimeListener();
           this.notify();
         });
       }
@@ -56,6 +58,20 @@
           this.notify();
         }
       });
+
+      // 📱 端末間リアルタイム同期: 別端末で保存された後、この画面に戻ってきた瞬間に最新データを自動PULL
+      if (typeof document !== 'undefined') {
+        document.addEventListener('visibilitychange', () => {
+          if (!document.hidden) {
+            this.syncFromCloud();
+          }
+        });
+      }
+      if (typeof window !== 'undefined') {
+        window.addEventListener('focus', () => {
+          this.syncFromCloud();
+        });
+      }
     }
 
     getCurrentStudentId() {
@@ -162,6 +178,78 @@
         }
       } catch(err) {
         console.warn('Cloud sync pull notice:', err.message);
+      }
+    }
+
+    setupRealtimeListener() {
+      if (!isFirebaseReady || !fbDb) initFirebase();
+      if (!isFirebaseReady || !fbDb) return;
+      const studentId = this.getCurrentStudentId();
+      if (!studentId || studentId === 'guest') {
+        if (this.unsubscribeRealtime) {
+          this.unsubscribeRealtime();
+          this.unsubscribeRealtime = null;
+        }
+        return;
+      }
+
+      if (this.currentSubscribedStudentId === studentId && this.unsubscribeRealtime) {
+        return; // Already listening
+      }
+
+      if (this.unsubscribeRealtime) {
+        this.unsubscribeRealtime();
+      }
+
+      try {
+        const docRef = fbDb.collection('students').doc(studentId);
+        this.currentSubscribedStudentId = studentId;
+        this.unsubscribeRealtime = docRef.onSnapshot((snap) => {
+          if (!snap || !snap.exists) return;
+          const cloudData = snap.data();
+          let modified = false;
+
+          if (cloudData && Array.isArray(cloudData.savedVocab)) {
+            const localMap = new Map((this.data.savedVocab || []).map(v => [v.word, v]));
+            cloudData.savedVocab.forEach(v => {
+              if (v && v.word && !localMap.has(v.word)) {
+                localMap.set(v.word, v);
+                modified = true;
+              }
+            });
+            this.data.savedVocab = Array.from(localMap.values());
+          }
+
+          if (cloudData && Array.isArray(cloudData.mylist)) {
+            const fcKey = `haku_mylist_${studentId}`;
+            const localFcMylist = JSON.parse(localStorage.getItem(fcKey) || '[]');
+            const mergedFc = Array.from(new Set([...localFcMylist, ...cloudData.mylist]));
+            localStorage.setItem(fcKey, JSON.stringify(mergedFc));
+          }
+
+          if (cloudData && Array.isArray(cloudData.customCards)) {
+            const ccKey = `haku_custom_cards_${studentId}`;
+            const localCc = JSON.parse(localStorage.getItem(ccKey) || '[]');
+            const localMap = new Map(localCc.map(c => [c.id, c]));
+            cloudData.customCards.forEach(c => {
+              if (c && c.id && !localMap.has(c.id)) {
+                localMap.set(c.id, c);
+              }
+            });
+            localStorage.setItem(ccKey, JSON.stringify(Array.from(localMap.values())));
+          }
+
+          if (modified) {
+            const key = this.getStorageKey();
+            localStorage.setItem(key, JSON.stringify(this.data));
+            this.notify();
+            console.log(`📡 [Realtime Sync] Other device saved new items! Updated student ${studentId} data.`);
+          }
+        }, (err) => {
+          console.warn('Realtime listener notice:', err.message);
+        });
+      } catch(err) {
+        console.warn('setupRealtimeListener note:', err);
       }
     }
 
