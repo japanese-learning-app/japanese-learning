@@ -27267,8 +27267,8 @@
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "やりがい",
-    "question": "A「新しい仕事はどう？」 B「きついけれど、、（　　　）がありますよ。」",
-    "question_ruby": "A「<ruby>新しい<rt>あたらしい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>はどう？」 B「きついけれど、、（　　　）がありますよ。」",
+    "question": "A「新しい仕事はどう？」 B「きついけれど、（　　　）がありますよ。」",
+    "question_ruby": "A「<ruby>新しい<rt>あたらしい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>はどう？」 B「きついけれど、（　　　）がありますよ。」",
     "choices": [
       "あこがれ",
       "いじめ",

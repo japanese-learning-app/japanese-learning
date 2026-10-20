@@ -1984,9 +1984,32 @@
 
   // TTS Speech
   function speak(text) {
+    if (!text) return;
+    const cleanText = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]*>/g, '')
+      .replace(/（\s*）|\(　*\)|（　*）/g, '、')
+      .replace(/[【】]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!cleanText) return;
+
+    if (cleanText.length <= 150) {
+      try {
+        const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(cleanText)}`;
+        const audio = new Audio(url);
+        audio.play().catch(() => {
+          fallbackSpeech(cleanText);
+        });
+        return;
+      } catch (e) {}
+    }
+    fallbackSpeech(cleanText);
+  }
+
+  function fallbackSpeech(cleanText) {
     if (!('speechSynthesis' in window)) return;
     window.speechSynthesis.cancel();
-    const cleanText = text.replace(/<[^>]*>/g, '').replace(/[【】（）()]/g, '');
     const utter = new SpeechSynthesisUtterance(cleanText);
     utter.lang = 'ja-JP';
     utter.rate = 0.95;

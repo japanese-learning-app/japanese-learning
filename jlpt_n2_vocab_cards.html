@@ -924,10 +924,11 @@
         backWordHeader.textContent = '';
         backReadingHeader.textContent = '';
         if (backMeaningLabel) backMeaningLabel.textContent = '日本語の正解 (Japanese Answer)';
+        const cleanReadingEn = (item.reading || '').replace(/（する）|\(する\)/g, '').trim();
         backMeaning.innerHTML = `
           <div class="py-1">
             <div class="text-3xl sm:text-4xl font-black text-darkNavyText font-jp mb-1">${item.ruby || item.word}</div>
-            ${(item.reading && item.reading !== item.word) ? `<div class="text-sm font-bold text-deepNavy font-jp">読み：${item.reading}</div>` : ''}
+            ${(cleanReadingEn && cleanReadingEn !== item.word) ? `<div class="text-sm font-bold text-deepNavy font-jp">読み：${cleanReadingEn}</div>` : ''}
           </div>
         `;
       } else {
@@ -943,7 +944,8 @@
         // BACK: Meaning
         backCatBadge.textContent = item.cat_short || item.cat_name;
         backWordHeader.textContent = item.word;
-        backReadingHeader.textContent = (item.reading && item.reading !== item.word) ? `（${item.reading}）` : '';
+        const cleanReading = (item.reading || '').replace(/（する）|\(する\)/g, '').trim();
+        backReadingHeader.textContent = (cleanReading && cleanReading !== item.word) ? `（${cleanReading}）` : '';
         if (backMeaningLabel) backMeaningLabel.textContent = '意味・解説 (Meaning)';
         backMeaning.textContent = item.meaning || '';
       }
