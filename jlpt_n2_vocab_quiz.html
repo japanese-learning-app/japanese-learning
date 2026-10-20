@@ -553,6 +553,22 @@
     margin-bottom: 24px;
   }
 
+  .choices-grid.single-column {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .choices-grid.single-column .choice-btn {
+    padding: 14px 20px;
+    width: 100%;
+  }
+
+  .choices-grid.single-column .choice-text {
+    font-size: 16px;
+    line-height: 1.6;
+    word-break: break-word;
+  }
+
   @media (max-width: 640px) {
     .choices-grid {
       grid-template-columns: 1fr;
@@ -2104,6 +2120,15 @@
     // Render Choices
     choicesGrid.innerHTML = '';
     const choices = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+
+    // 長い選択肢（用法問題、文が含まれる、または10文字以上）の場合は1列4行にする
+    const isLongChoice = choices.some(c => {
+      const plain = (c || '').replace(/<[^>]+>/g, '').trim();
+      return plain.includes('。') || plain.length >= 10;
+    }) || (q.category && (q.category.includes('用法') || q.category.includes('適切な文')));
+
+    choicesGrid.classList.toggle('single-column', isLongChoice);
+
     choices.forEach((cText, idx) => {
       const btn = document.createElement('button');
       btn.className = 'choice-btn';
