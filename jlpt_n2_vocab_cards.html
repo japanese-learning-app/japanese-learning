@@ -343,6 +343,75 @@
         </div>
       </div>
 
+      <!-- RANDOM TEST BAR (10問 / 30問 / 50問 実力テスト) -->
+      <div id="randomTestBar" class="bg-gradient-to-r from-teal-500/10 via-emerald-500/10 to-sky-500/10 rounded-2xl p-2.5 sm:p-3 border border-teal-200/80 shadow-2xs mb-2 transition-all">
+        <!-- 通常時: テスト開始コントロール -->
+        <div id="testStartControls" class="flex items-center justify-between flex-wrap gap-2">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-xl bg-teal-600 text-white flex items-center justify-center shadow-xs shrink-0">
+              <i data-lucide="zap" class="w-4 h-4"></i>
+            </span>
+            <div>
+              <div class="flex items-center gap-1.5">
+                <span class="text-xs font-black text-slate-800">ランダム実力テスト</span>
+                <span class="text-[10px] font-extrabold px-1.5 py-0.2 rounded-md bg-teal-100 text-teal-800">スピード判定</span>
+              </div>
+              <p class="text-[10px] text-slate-500 font-medium">指定問数をランダム抽出してカードで自己判定</p>
+            </div>
+          </div>
+
+          <!-- 出題範囲切替 & 出題数ボタン -->
+          <div class="flex items-center gap-1.5 sm:gap-2 flex-wrap">
+            <!-- 範囲切替ピル -->
+            <div class="inline-flex p-0.5 bg-white/80 rounded-full border border-teal-200 text-[10px] font-bold">
+              <button id="btnScopeAll" onclick="setTestScope('all')" class="px-2 py-0.5 rounded-full bg-teal-600 text-white transition cursor-pointer">全3,412語</button>
+              <button id="btnScopeCat" onclick="setTestScope('category')" class="px-2 py-0.5 rounded-full text-slate-600 hover:text-teal-700 transition cursor-pointer">このカテゴリ</button>
+            </div>
+
+            <!-- 出題数ボタン 10問 / 30問 / 50問 -->
+            <div class="flex items-center gap-1">
+              <button onclick="startRandomTest(10)" class="px-2.5 sm:px-3 py-1 rounded-full bg-white hover:bg-teal-600 hover:text-white border border-teal-300 text-teal-800 font-extrabold text-xs shadow-xs transition active:scale-95 flex items-center gap-1 cursor-pointer" title="ランダム10問テスト">
+                <i data-lucide="zap" class="w-3 h-3 text-amber-500"></i>
+                <span>10問</span>
+              </button>
+              <button onclick="startRandomTest(30)" class="px-2.5 sm:px-3 py-1 rounded-full bg-white hover:bg-teal-600 hover:text-white border border-teal-300 text-teal-800 font-extrabold text-xs shadow-xs transition active:scale-95 flex items-center gap-1 cursor-pointer" title="ランダム30問テスト">
+                <i data-lucide="flame" class="w-3 h-3 text-orange-500"></i>
+                <span>30問</span>
+              </button>
+              <button onclick="startRandomTest(50)" class="px-2.5 sm:px-3 py-1 rounded-full bg-white hover:bg-teal-600 hover:text-white border border-teal-300 text-teal-800 font-extrabold text-xs shadow-xs transition active:scale-95 flex items-center gap-1 cursor-pointer" title="ランダム50問テスト">
+                <i data-lucide="trophy" class="w-3 h-3 text-rose-500"></i>
+                <span>50問</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- テスト実施中の表示バー（アクティブ時） -->
+        <div id="testActiveControls" class="hidden flex items-center justify-between flex-wrap gap-2">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-xl bg-coralPink text-white flex items-center justify-center shadow-xs shrink-0 animate-pulse">
+              <i data-lucide="crosshair" class="w-4 h-4"></i>
+            </span>
+            <div>
+              <div class="flex items-center gap-1.5">
+                <span class="text-xs font-black text-slate-800" id="testModeBannerTitle">🎲 ランダムテスト中 (1 / 10問)</span>
+                <span id="testScoreBadge" class="text-[10px] font-black px-2 py-0.2 rounded-full bg-emerald-100 text-emerald-800">覚えた 0 / 0回答</span>
+              </div>
+              <!-- プログレスバー -->
+              <div class="w-36 sm:w-48 bg-slate-200 rounded-full h-1.5 mt-1 overflow-hidden">
+                <div id="testProgressBar" class="bg-gradient-to-r from-teal-500 to-emerald-500 h-1.5 rounded-full transition-all duration-300" style="width: 10%"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex items-center gap-2">
+            <button onclick="abortTest()" class="px-2.5 py-1 rounded-full bg-white/90 hover:bg-rose-50 border border-rose-300 text-rose-600 text-[11px] font-bold shadow-xs transition cursor-pointer">
+              ✕ テスト終了
+            </button>
+          </div>
+        </div>
+      </div>
+
       <!-- FLASHCARD TOOLBAR: PROGRESS & ACTIONS -->
       <div class="flex items-center justify-between text-xs text-slate-600 font-medium px-1 mb-1">
         <div class="flex items-center gap-2">
@@ -505,6 +574,69 @@
     </div>
   </div>
 
+  <!-- TEST RESULT MODAL (実力テスト結果モーダル) -->
+  <div id="testResultModal" class="fixed inset-0 bg-black/60 backdrop-blur-xs z-50 hidden flex items-center justify-center p-3 sm:p-4" onclick="if(event.target === this) closeTestResultModal()">
+    <div class="bg-white rounded-3xl max-w-md w-full p-5 sm:p-6 shadow-2xl border border-softBorder text-center animate-in fade-in zoom-in duration-200 flex flex-col max-h-[90vh]">
+      
+      <!-- アイコン & ヘッダー -->
+      <div class="w-14 h-14 mx-auto mb-2.5 rounded-2xl bg-gradient-to-tr from-amber-400 to-amber-200 flex items-center justify-center text-3xl shadow-md shrink-0">
+        🏆
+      </div>
+      <h3 class="text-lg sm:text-xl font-black text-slate-800 mb-0.5">実力テスト完了！</h3>
+      <p id="testResultMessage" class="text-xs text-slate-500 mb-3 font-medium">全10問の自己判定が完了しました</p>
+      
+      <!-- スコアバッジ グリッド -->
+      <div class="grid grid-cols-3 gap-2 p-2.5 rounded-2xl bg-slate-50 border border-slate-200/80 mb-3 shrink-0">
+        <div class="text-center">
+          <span class="text-[10px] font-bold text-slate-400 block">出題数</span>
+          <span id="resTotalCount" class="text-base sm:text-lg font-black text-slate-700">10</span>
+        </div>
+        <div class="text-center">
+          <span class="text-[10px] font-bold text-emerald-600 block">覚えた！</span>
+          <span id="resLearnedCount" class="text-base sm:text-lg font-black text-emerald-600">8</span>
+        </div>
+        <div class="text-center">
+          <span class="text-[10px] font-bold text-amber-600 block">もう一回</span>
+          <span id="resReviewCount" class="text-base sm:text-lg font-black text-amber-600">2</span>
+        </div>
+      </div>
+
+      <!-- 達成率プログレスバー -->
+      <div class="mb-3 shrink-0">
+        <div class="flex items-center justify-between text-xs font-extrabold mb-1">
+          <span class="text-slate-600">定着率スコア</span>
+          <span id="resAccuracyRate" class="text-coralPink font-black">80%</span>
+        </div>
+        <div class="w-full bg-slate-100 rounded-full h-2.5 overflow-hidden">
+          <div id="resAccuracyBar" class="bg-gradient-to-r from-teal-500 via-emerald-500 to-coralPink h-2.5 rounded-full transition-all duration-500" style="width: 80%"></div>
+        </div>
+      </div>
+
+      <!-- 要復習リスト（スクロール可能） -->
+      <div id="resReviewListContainer" class="text-left mb-3.5 flex-1 overflow-y-auto pr-1 no-scrollbar space-y-1.5 min-h-[60px] max-h-48 border-t border-slate-100 pt-2">
+        <!-- JSで生成 -->
+      </div>
+
+      <!-- アクションボタン群 -->
+      <div class="flex flex-col gap-2 shrink-0 pt-1 border-t border-slate-100">
+        <div class="flex items-center gap-2">
+          <button onclick="retryCurrentTest()" class="flex-1 py-2.5 px-3 rounded-xl bg-teal-600 hover:bg-teal-700 active:scale-95 text-white font-extrabold text-xs transition shadow-xs flex items-center justify-center gap-1.5 cursor-pointer">
+            <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
+            <span>もう一度テスト</span>
+          </button>
+          <button id="btnRetryWrongOnly" onclick="retryWrongWordsOnly()" class="flex-1 py-2.5 px-3 rounded-xl bg-amber-500 hover:bg-amber-600 active:scale-95 text-white font-extrabold text-xs transition shadow-xs flex items-center justify-center gap-1.5 cursor-pointer">
+            <i data-lucide="flame" class="w-3.5 h-3.5"></i>
+            <span>要復習を再特訓</span>
+          </button>
+        </div>
+        <button onclick="closeTestResultModal()" class="w-full py-2.5 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 active:scale-95 text-slate-700 font-bold text-xs transition cursor-pointer">
+          カード学習に戻る
+        </button>
+      </div>
+
+    </div>
+  </div>
+
   <!-- TOAST NOTIFICATION -->
   <div id="toast" class="toast">マイリストに保存しました！</div>
 
@@ -532,6 +664,17 @@
     let isFlipped = false;
     let isFuriganaOn = true;
     let studyDirection = localStorage.getItem('jlpt_n2_card_direction') || 'ja-to-en'; // 'ja-to-en' or 'en-to-ja'
+
+    // Test Mode State
+    let testState = {
+      active: false,
+      totalCount: 0,
+      currentIndex: 0,
+      deck: [],
+      answers: [], // Array of { item, known: boolean }
+      scope: 'all', // 'all' or 'category'
+      lastWrongDeck: [] // 復習用
+    };
 
     // Elements
     const cardEl = document.getElementById('flashcardElement');
@@ -665,6 +808,10 @@
     }
 
     function selectCategory(catId) {
+      if (testState.active) {
+        if (!confirm('実力テストを中断してカテゴリを切り替えますか？')) return;
+        exitTestMode();
+      }
       currentCatId = catId;
       currentUnitIdx = 0;
       updateActiveCategoryHeader();
@@ -805,9 +952,15 @@
       backExampleEn.textContent = item.ex_en || '';
 
       // Progress
-      cardProgressText.textContent = `${currentIndex + 1} / ${currentDeck.length}`;
-      const pct = Math.round(((currentIndex + 1) / currentDeck.length) * 100);
-      cardProgressPercent.textContent = `(${pct}%)`;
+      if (testState.active) {
+        cardProgressText.textContent = `🎲 テスト ${currentIndex + 1} / ${currentDeck.length}`;
+        const pct = Math.round(((currentIndex + 1) / currentDeck.length) * 100);
+        cardProgressPercent.textContent = `(${pct}%)`;
+      } else {
+        cardProgressText.textContent = `${currentIndex + 1} / ${currentDeck.length}`;
+        const pct = Math.round(((currentIndex + 1) / currentDeck.length) * 100);
+        cardProgressPercent.textContent = `(${pct}%)`;
+      }
 
       // Star button state
       btnStarCurrent.classList.toggle('text-amber-500', isStarred);
@@ -824,14 +977,30 @@
 
     window.prevCard = function() {
       if (currentDeck.length === 0) return;
-      currentIndex = (currentIndex - 1 + currentDeck.length) % currentDeck.length;
-      renderCard();
+      if (testState.active) {
+        if (currentIndex > 0) {
+          currentIndex--;
+          renderCard();
+          updateTestActiveUI();
+        }
+      } else {
+        currentIndex = (currentIndex - 1 + currentDeck.length) % currentDeck.length;
+        renderCard();
+      }
     };
 
     window.nextCard = function() {
       if (currentDeck.length === 0) return;
-      currentIndex = (currentIndex + 1) % currentDeck.length;
-      renderCard();
+      if (testState.active) {
+        if (currentIndex + 1 < currentDeck.length) {
+          currentIndex++;
+          renderCard();
+          updateTestActiveUI();
+        }
+      } else {
+        currentIndex = (currentIndex + 1) % currentDeck.length;
+        renderCard();
+      }
     };
 
     window.markCard = function(known) {
@@ -841,7 +1010,263 @@
         badge.style.opacity = '1';
         setTimeout(() => badge.style.opacity = '0', 400);
       }
-      setTimeout(() => nextCard(), 180);
+
+      if (testState.active) {
+        // テストモード：回答記録
+        testState.answers[currentIndex] = {
+          item: currentDeck[currentIndex],
+          known: known
+        };
+        updateTestActiveUI();
+
+        // 最終問題判定
+        if (currentIndex + 1 >= testState.totalCount) {
+          setTimeout(() => {
+            finishTest();
+          }, 350);
+          return;
+        }
+
+        // 次の問題へ
+        setTimeout(() => {
+          currentIndex++;
+          renderCard();
+          updateTestActiveUI();
+        }, 180);
+      } else {
+        setTimeout(() => nextCard(), 180);
+      }
+    };
+
+    // ==========================================
+    // RANDOM TEST MODE FUNCTIONS (10問 / 30問 / 50問)
+    // ==========================================
+    window.setTestScope = function(scope) {
+      testState.scope = scope;
+      const btnAll = document.getElementById('btnScopeAll');
+      const btnCat = document.getElementById('btnScopeCat');
+      if (btnAll && btnCat) {
+        if (scope === 'all') {
+          btnAll.className = 'px-2 py-0.5 rounded-full bg-teal-600 text-white transition cursor-pointer';
+          btnCat.className = 'px-2 py-0.5 rounded-full text-slate-600 hover:text-teal-700 transition cursor-pointer';
+        } else {
+          btnAll.className = 'px-2 py-0.5 rounded-full text-slate-600 hover:text-teal-700 transition cursor-pointer';
+          btnCat.className = 'px-2 py-0.5 rounded-full bg-teal-600 text-white transition cursor-pointer';
+        }
+      }
+    };
+
+    window.startRandomTest = function(count, customDeck = null) {
+      let pool = [];
+      if (customDeck && customDeck.length > 0) {
+        pool = [...customDeck];
+      } else if (testState.scope === 'category') {
+        pool = allWords.filter(w => w.cat_id === currentCatId);
+        if (pool.length === 0) pool = [...allWords];
+      } else {
+        pool = [...allWords];
+      }
+
+      if (pool.length === 0) {
+        showToast('出題可能な単語がありません');
+        return;
+      }
+
+      // Fisher-Yates Shuffle
+      for (let i = pool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [pool[i], pool[j]] = [pool[j], pool[i]];
+      }
+
+      const actualCount = Math.min(count, pool.length);
+      const sliced = pool.slice(0, actualCount);
+
+      testState.active = true;
+      testState.totalCount = actualCount;
+      testState.currentIndex = 0;
+      testState.deck = sliced;
+      testState.answers = [];
+
+      currentDeck = testState.deck;
+      currentIndex = 0;
+
+      // UI Switch
+      const startControls = document.getElementById('testStartControls');
+      const activeControls = document.getElementById('testActiveControls');
+      if (startControls) startControls.classList.add('hidden');
+      if (activeControls) activeControls.classList.remove('hidden');
+
+      updateTestActiveUI();
+      renderCard();
+      showToast(`🎲 ランダム${actualCount}問テストを開始しました！`);
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+
+    function updateTestActiveUI() {
+      if (!testState.active) return;
+      const title = document.getElementById('testModeBannerTitle');
+      const badge = document.getElementById('testScoreBadge');
+      const pbar = document.getElementById('testProgressBar');
+
+      const answered = testState.answers.filter(a => a !== undefined).length;
+      const known = testState.answers.filter(a => a && a.known).length;
+
+      if (title) title.textContent = `🎲 ランダムテスト中 (${currentIndex + 1} / ${testState.totalCount}問)`;
+      if (badge) badge.textContent = `覚えた ${known} / ${answered}回答済`;
+      if (pbar) {
+        const pct = Math.round(((currentIndex + 1) / testState.totalCount) * 100);
+        pbar.style.width = `${pct}%`;
+      }
+    }
+
+    window.abortTest = function() {
+      if (testState.active && testState.answers.length > 0) {
+        if (!confirm('実力テストを終了して通常のカード学習に戻りますか？')) {
+          return;
+        }
+      }
+      exitTestMode();
+      showToast('テストを終了しました');
+    };
+
+    function exitTestMode() {
+      testState.active = false;
+      const startControls = document.getElementById('testStartControls');
+      const activeControls = document.getElementById('testActiveControls');
+      if (startControls) startControls.classList.remove('hidden');
+      if (activeControls) activeControls.classList.add('hidden');
+
+      buildActiveDeck();
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    function finishTest() {
+      const total = testState.totalCount;
+      const known = testState.answers.filter(a => a && a.known).length;
+      const reviewAnswers = testState.answers.filter(a => a && !a.known);
+      const reviewCount = reviewAnswers.length;
+      const rate = Math.round((known / total) * 100);
+
+      testState.lastWrongDeck = reviewAnswers.map(a => a.item);
+
+      // Modal elements
+      const modal = document.getElementById('testResultModal');
+      const msgEl = document.getElementById('testResultMessage');
+      const resTotal = document.getElementById('resTotalCount');
+      const resLearned = document.getElementById('resLearnedCount');
+      const resReview = document.getElementById('resReviewCount');
+      const resRate = document.getElementById('resAccuracyRate');
+      const resBar = document.getElementById('resAccuracyBar');
+      const listContainer = document.getElementById('resReviewListContainer');
+      const btnRetryWrong = document.getElementById('btnRetryWrongOnly');
+
+      if (resTotal) resTotal.textContent = total;
+      if (resLearned) resLearned.textContent = known;
+      if (resReview) resReview.textContent = reviewCount;
+      if (resRate) resRate.textContent = `${rate}%`;
+      if (resBar) resBar.style.width = `${rate}%`;
+
+      if (msgEl) {
+        if (rate === 100) {
+          msgEl.textContent = '🎉 パーフェクト達成！素晴らしい語彙力です！';
+        } else if (rate >= 80) {
+          msgEl.textContent = '✨ 大変素晴らしい成績です！N2合格ライン突破！';
+        } else if (rate >= 60) {
+          msgEl.textContent = '👍 よく頑張りました！要復習の単語をチェックしましょう！';
+        } else {
+          msgEl.textContent = '💪 ファイト！復習を繰り返して着実に定着させましょう！';
+        }
+      }
+
+      // Review list
+      if (listContainer) {
+        if (reviewCount === 0) {
+          listContainer.innerHTML = `
+            <div class="p-3 rounded-xl bg-emerald-50 border border-emerald-200 text-center text-emerald-800 text-xs font-bold">
+              全問「覚えた！」を達成しました！復習が必要な単語はありません👏
+            </div>
+          `;
+          if (btnRetryWrong) btnRetryWrong.classList.add('hidden');
+        } else {
+          if (btnRetryWrong) {
+            btnRetryWrong.classList.remove('hidden');
+            btnRetryWrong.innerHTML = `<i data-lucide="flame" class="w-3.5 h-3.5"></i> <span>要復習(${reviewCount}語)を再特訓</span>`;
+          }
+          let html = '<div class="text-[11px] font-black text-amber-800 mb-1.5 flex items-center gap-1"><i data-lucide="alert-circle" class="w-3.5 h-3.5 text-amber-600"></i> 要復習の単語リスト:</div>';
+          reviewAnswers.forEach(({ item }) => {
+            const isStarred = isWordStarred(item.word);
+            html += `
+              <div class="p-2 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-200 flex items-center justify-between text-xs transition">
+                <div class="min-w-0 pr-2">
+                  <span class="font-extrabold text-slate-800 font-jp">${item.word}</span>
+                  ${item.reading && item.reading !== item.word ? `<span class="text-slate-400 text-[10px] ml-1 font-jp">(${item.reading})</span>` : ''}
+                  <span class="text-slate-600 text-[11px] block truncate">${item.meaning || ''}</span>
+                </div>
+                <button onclick="toggleStarFromList('${item.word.replace(/'/g, "\\'")}', this)" class="p-1.5 rounded-lg border border-slate-200 bg-white text-slate-300 hover:text-amber-500 transition shrink-0 ${isStarred ? 'text-amber-500 fill-amber-500' : ''}" title="マイリストに追加">
+                  <i data-lucide="star" class="w-3.5 h-3.5 ${isStarred ? 'fill-amber-500' : ''}"></i>
+                </button>
+              </div>
+            `;
+          });
+          listContainer.innerHTML = html;
+        }
+      }
+
+      if (modal) modal.classList.remove('hidden');
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    window.retryCurrentTest = function() {
+      closeTestResultModal();
+      startRandomTest(testState.totalCount);
+    };
+
+    window.retryWrongWordsOnly = function() {
+      if (!testState.lastWrongDeck || testState.lastWrongDeck.length === 0) return;
+      const count = testState.lastWrongDeck.length;
+      const custom = [...testState.lastWrongDeck];
+      closeTestResultModal();
+      startRandomTest(count, custom);
+    };
+
+    window.closeTestResultModal = function() {
+      const modal = document.getElementById('testResultModal');
+      if (modal) modal.classList.add('hidden');
+      exitTestMode();
+    };
+
+    window.toggleStarFromList = function(word, btn) {
+      const item = allWords.find(w => w.word === word);
+      if (!item) return;
+      const isStarred = isWordStarred(word);
+      if (isStarred) {
+        if (typeof UserProgress !== 'undefined') UserProgress.removeSavedVocab(word);
+        try {
+          let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
+          list = list.filter(w => w !== word);
+          localStorage.setItem(STORAGE_VOCAB_TERMS_KEY, JSON.stringify(list));
+        } catch(e) {}
+        if (btn) {
+          btn.classList.remove('text-amber-500', 'fill-amber-500');
+          btn.classList.add('text-slate-300');
+        }
+        showToast(`「${word}」をマイリストから削除しました`);
+      } else {
+        if (typeof UserProgress !== 'undefined') {
+          UserProgress.toggleSaveVocab({ word: item.word, reading: item.reading, meaning: item.meaning, level: 'N2語彙' });
+        }
+        try {
+          let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
+          if (!list.includes(word)) list.push(word);
+          localStorage.setItem(STORAGE_VOCAB_TERMS_KEY, JSON.stringify(list));
+        } catch(e) {}
+        if (btn) {
+          btn.classList.add('text-amber-500', 'fill-amber-500');
+          btn.classList.remove('text-slate-300');
+        }
+        showToast(`「${word}」をマイリストに追加しました！⭐`);
+      }
+      if (typeof lucide !== 'undefined') lucide.createIcons();
     };
 
     window.shuffleActiveDeck = function() {
@@ -856,6 +1281,10 @@
     };
 
     window.setFilterMode = function(mode) {
+      if (testState.active) {
+        if (!confirm('実力テストを中断して切り替えますか？')) return;
+        exitTestMode();
+      }
       filterMode = mode;
       document.getElementById('btnFilterAll').className = `px-2.5 py-0.5 rounded-full ${mode === 'all' ? 'bg-deepNavy text-white' : 'text-slate-600'} font-bold text-[11px] transition`;
       document.getElementById('btnFilterStarred').className = `px-2.5 py-0.5 rounded-full ${mode === 'starred' ? 'bg-deepNavy text-white' : 'text-slate-600'} font-bold text-[11px] transition flex items-center gap-1`;
@@ -985,6 +1414,9 @@
 
     // Search
     window.handleSearch = function(query) {
+      if (testState.active) {
+        exitTestMode();
+      }
       const q = query.trim().toLowerCase();
       if (!q) {
         buildActiveDeck();
