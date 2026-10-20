@@ -53,7 +53,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "evidence; proof"
       },
       {
-        "term": "明い",
+        "term": "明るい",
         "reading": "あかるい",
         "meaning": "bright"
       },
@@ -2800,7 +2800,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "similar": [
       {
-        "term": "堅/硬/固い",
+        "term": "固い",
         "reading": "かたい",
         "meaning": "hard"
       },
@@ -10706,7 +10706,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "similar": [
       {
-        "term": "明い",
+        "term": "明るい",
         "reading": "あかるい",
         "meaning": "bright"
       },
@@ -19655,12 +19655,12 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "similar": [
       {
-        "term": "丸い/円い",
+        "term": "丸い",
         "reading": "まるい",
         "meaning": "round; circular"
       },
       {
-        "term": "丸い; 円い",
+        "term": "丸い",
         "reading": "まるい",
         "meaning": "round, circular"
       },
@@ -24389,7 +24389,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "similar": [
       {
-        "term": "明い",
+        "term": "明るい",
         "reading": "あかるい",
         "meaning": "bright"
       },
@@ -39148,7 +39148,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "similar": [
       {
-        "term": "堅/硬/固い",
+        "term": "固い",
         "reading": "かたい",
         "meaning": "hard"
       },

@@ -3108,7 +3108,7 @@ window.JLPT_QUESTIONS_DATA = {
       {
         "category": "kanji_reading",
         "categoryJa": "漢字の読み",
-        "question": "発言を許していただけるなら、すべてをご説<u>明い</u>たします。",
+        "question": "この部屋は南向きの大きな窓があって、とても<u>明るい</u>です。",
         "options": [
           "あかるえ",
           "あかるい",
@@ -3116,8 +3116,8 @@ window.JLPT_QUESTIONS_DATA = {
           "あかる"
         ],
         "correct": 1,
-        "explanation": "「明い」の正しい読み方は【あかるい】です。（意味：）",
-        "translationEn": "If you permit me to speak, I can explain everything.",
+        "explanation": "「明るい」の正しい読み方は【あかるい】です。（意味：bright）",
+        "translationEn": "This room has a large south-facing window, so it is very bright.",
         "id": "n5-v-0193",
         "level": "N5"
       },

@@ -498,52 +498,35 @@
     box-shadow: 0 2px 8px rgba(197, 48, 48, 0.15);
   }
 
-  /* Target Chips for Kanji Reading / Writing / Synonyms */
+  /* Target Chips for Kanji Reading / Writing / Synonyms (Clean Boxed Word) */
   .quiz-target-chip {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
-    background: rgba(70, 130, 151, 0.08);
+    background: rgba(25, 149, 173, 0.08);
     border: 2px solid var(--primary-blue);
-    border-radius: 10px;
-    padding: 2px 10px;
+    border-radius: 8px;
+    padding: 1px 8px;
     margin: 0 4px;
     font-weight: 800;
-    color: var(--text-primary);
-    vertical-align: middle;
+    color: var(--primary-blue);
+    vertical-align: baseline;
     transition: all 0.25s ease;
   }
 
   .quiz-target-chip .chip-badge {
-    font-size: 11px;
-    font-weight: 900;
-    background: var(--primary-blue);
-    color: #FFFFFF;
-    padding: 2px 8px;
-    border-radius: 6px;
-    letter-spacing: 0.5px;
-    white-space: nowrap;
+    display: none !important;
   }
 
-  .quiz-target-chip.reading .chip-badge {
-    background: var(--primary-blue);
-  }
-
-  .quiz-target-chip.writing .chip-badge {
-    background: var(--point-navy);
-  }
-
-  .quiz-target-chip.synonym .chip-badge {
-    background: var(--point-navy);
+  .quiz-target-chip.writing {
+    border-color: var(--point-navy);
+    background: rgba(77, 100, 141, 0.08);
+    color: var(--point-navy);
   }
 
   .quiz-target-chip.revealed {
     background: #E8F8F0;
     border-color: #27AE60;
-  }
-
-  .quiz-target-chip.revealed .chip-badge {
-    background: #27AE60;
+    color: #1E7E44;
   }
 
   .question-sentence {
@@ -1892,10 +1875,7 @@
     const mRuby = html.match(rubyTargetRegex);
     if (mRuby) {
       const kText = mRuby[1];
-      const rText = mRuby[2];
-      const chipHtml = isRevealed
-        ? `<span class="quiz-target-chip reading revealed"><span class="chip-badge">よみ：${escapeHtml(rText)}</span><span class="chip-body">【${escapeHtml(kText)}】</span></span>`
-        : `<span class="quiz-target-chip reading"><span class="chip-badge">よみ：❓</span><span class="chip-body">【${escapeHtml(kText)}】</span></span>`;
+      const chipHtml = `<span class="quiz-target-chip reading ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${escapeHtml(kText)}】</span></span>`;
       return html.replace(rubyTargetRegex, chipHtml);
     }
 
@@ -1905,26 +1885,15 @@
     if (mBracket) {
       const inner = mBracket[1];
       let chipClass = 'reading';
-      let tagText = 'よみ：❓';
-      let revTag = `よみ：${escapeHtml(corr)}`;
-
       if (cat.includes('表記') || (!cat.includes('読み') && /[\u4e00-\u9fff]/.test(corr) && !/[\u4e00-\u9fff]/.test(inner))) {
         chipClass = 'writing';
-        tagText = '漢字：❓';
-        revTag = `漢字：${escapeHtml(corr)}`;
       } else if (cat.includes('類義') || cat.includes('類語')) {
         chipClass = 'synonym';
-        tagText = '類語：❓';
-        revTag = `類語：${escapeHtml(corr)}`;
       } else if (cat.includes('用法')) {
         chipClass = 'usage';
-        tagText = '対象語';
-        revTag = '対象語';
       }
 
-      const chipHtml = isRevealed
-        ? `<span class="quiz-target-chip ${chipClass} revealed"><span class="chip-badge">${revTag}</span><span class="chip-body">【${escapeHtml(inner)}】</span></span>`
-        : `<span class="quiz-target-chip ${chipClass}"><span class="chip-badge">${tagText}</span><span class="chip-body">【${escapeHtml(inner)}】</span></span>`;
+      const chipHtml = `<span class="quiz-target-chip ${chipClass} ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${escapeHtml(inner)}】</span></span>`;
       return html.replace(bracketRegex, chipHtml);
     }
 

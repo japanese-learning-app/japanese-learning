@@ -40,13 +40,9 @@ window.DICT_EXAMPLES_MAP = {
     "ja": "<ruby>顔<rt>かお</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>いよ。",
     "en": "Your face is red."
   },
-  "明い": {
-    "ja": "<ruby>発言<rt>はつげん</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>していただけるなら、すべてをご<ruby>説明<rt>せつめい</rt></ruby>いたします。",
-    "en": "If you permit me to speak, I can explain everything."
-  },
   "あかるい": {
-    "ja": "<ruby>発言<rt>はつげん</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>していただけるなら、すべてをご<ruby>説明<rt>せつめい</rt></ruby>いたします。",
-    "en": "If you permit me to speak, I can explain everything."
+    "ja": "<ruby>南向<rt>みなみむ</rt></ruby>きの<ruby>窓<rt>まど</rt></ruby>から<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んで、<ruby>部屋<rt>へや</rt></ruby>がとても<ruby>明<rt>あか</rt></ruby>るい。",
+    "en": "Sunlight pours in through the south-facing window, making the room very bright."
   },
   "秋": {
     "ja": "<ruby>男心<rt>おとこごころ</rt></ruby>と<ruby>秋<rt>あき</rt></ruby>の<ruby>空<rt>そら</rt></ruby>。",
@@ -31565,8 +31561,8 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He was explicit in his instruction."
   },
   "明るい": {
-    "ja": "<ruby>月<rt>がつ</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るい。",
-    "en": "The moon is bright."
+    "ja": "<ruby>南向<rt>みなみむ</rt></ruby>きの<ruby>窓<rt>まど</rt></ruby>から<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んで、<ruby>部屋<rt>へや</rt></ruby>がとても<ruby>明<rt>あか</rt></ruby>るい。",
+    "en": "Sunlight pours in through the south-facing window, making the room very bright."
   },
   "上がり": {
     "ja": "<ruby>物価<rt>ぶっか</rt></ruby><ruby>上<rt>あ</rt></ruby>がりすぎ。",
