@@ -5796,7 +5796,20 @@
     if (!meaningObj) return '—';
     const targetLang = lang || currentLang;
     let nativeMeaning = (meaningObj[targetLang]) || '';
-    const enMeaning = meaningObj.en || '';
+    let enMeaning = meaningObj.en || '';
+
+    // 英語訳が空の場合、辞書・JLPTマスターから自動補完
+    if (!enMeaning && cardWord) {
+      const cleanW = (cardWord || '').replace(/<[^>]+>/g, '').trim();
+      const dictMatch = (window.DICT_DATA || []).find(d => d.w === cleanW) || (window.JLPT_VOCAB_ALL || []).find(d => d.word === cleanW || d.w === cleanW);
+      if (dictMatch) {
+        if (Array.isArray(dictMatch.m) && dictMatch.m.length) {
+          enMeaning = dictMatch.m.slice(0, 2).join(', ');
+        } else if (Array.isArray(dictMatch.meanings) && dictMatch.meanings.length) {
+          enMeaning = dictMatch.meanings.slice(0, 2).join(', ');
+        }
+      }
+    }
 
     // If native meaning is missing or identical to English, attempt fallback dictionary lookup
     if ((!nativeMeaning || nativeMeaning === enMeaning) && targetLang !== 'en' && targetLang !== 'ja') {
@@ -5814,8 +5827,14 @@
       return nativeMeaning || enMeaning || Object.values(meaningObj)[0] || '—';
     }
     // For foreign language learners (zh_TW, ko, fr, zh_HK, zh_CN, etc.)
-    if (nativeMeaning && enMeaning && nativeMeaning !== enMeaning) {
-      return `${nativeMeaning} (${enMeaning})`;
+    // 必ず母国語と英語を併記！(すでに括弧英語が含まれている場合は二重付与を防ぐ)
+    if (nativeMeaning) {
+      if (/\([A-Za-z\s,/-]+\)/.test(nativeMeaning)) {
+        return nativeMeaning;
+      }
+      if (enMeaning && nativeMeaning !== enMeaning) {
+        return `${nativeMeaning} (${enMeaning})`;
+      }
     }
     return nativeMeaning || enMeaning || Object.values(meaningObj)[0] || '—';
   }
@@ -8828,6 +8847,24 @@
     const card = activeDeck[currentIndex];
     document.getElementById('cardProgressText').textContent = `${currentIndex + 1} / ${activeDeck.length}`;
 
+    // 🛡️ カード表裏整合ガード: もし word が外国語で meaning に日本語がある場合は自動スワップ
+    let jpWord = card.word;
+    let readingText = card.reading || '';
+    let meaningObj = card.meaning || {};
+    let exampleObj = card.example || {};
+
+    const hasJpInWord = /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(card.word);
+    if (!hasJpInWord && typeof card.meaning === 'object') {
+      const candidateJp = card.meaning.ja || Object.values(card.meaning).find(v => typeof v === 'string' && /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(v));
+      if (candidateJp) {
+        jpWord = candidateJp;
+        meaningObj = { ...card.meaning, [currentLang]: card.word };
+        if (!readingText || readingText === card.word) {
+          readingText = '';
+        }
+      }
+    }
+
     // Check Star / Mylist state
     const btnStar = document.getElementById('btnStarCurrent');
     if (mylistSet.has(card.id)) {
@@ -8838,25 +8875,25 @@
     lucide.createIcons({ root: btnStar });
 
     // Multi-language translation lookup (必ず母国語 & 英語)
-    const targetMeaning = getBilingualMeaning(card.meaning, currentLang, card.word);
-    const targetExTrans = getBilingualExampleTrans(card.example, currentLang);
+    const targetMeaning = getBilingualMeaning(meaningObj, currentLang, jpWord);
+    const targetExTrans = getBilingualExampleTrans(exampleObj, currentLang);
 
     // Reverse Mode handling: 日本語 ⇄ 母国語
     if (!isReverseMode) {
       // Normal: Front is Japanese, Back is Native & English Meaning
-      document.getElementById('frontWord').textContent = card.word;
+      document.getElementById('frontWord').textContent = jpWord;
       document.getElementById('frontWord').className = 'text-3xl sm:text-4xl font-extrabold text-darkNavyText tracking-tight leading-snug';
-      const hasKanji = /[\u4e00-\u9faf]/.test(card.word);
-      const showReading = hasKanji || (card.reading && card.reading !== card.word);
-      document.getElementById('frontReading').textContent = showReading ? (card.reading || '') : '';
+      const hasKanji = /[\u4e00-\u9faf]/.test(jpWord);
+      const showReading = hasKanji || (readingText && readingText !== jpWord);
+      document.getElementById('frontReading').textContent = showReading ? readingText : '';
       document.getElementById('frontReading').className = 'text-base sm:text-lg font-bold text-coralPink tracking-wider mb-1 font-jp min-h-[1.5rem]';
       document.getElementById('frontReading').classList.remove('hidden');
       document.getElementById('backMeaning').textContent = targetMeaning;
     } else {
       // Reverse: Front is Native & English Meaning, Back is Japanese
       const targetLang = currentLang;
-      let nativeMeaning = card.meaning ? (card.meaning[targetLang] || '') : '';
-      let enMeaning = card.meaning ? (card.meaning.en || '') : '';
+      let nativeMeaning = meaningObj ? (meaningObj[targetLang] || '') : '';
+      let enMeaning = meaningObj ? (meaningObj.en || '') : '';
 
       if (Array.isArray(card.meanings)) {
         enMeaning = card.meanings.join(', ');
@@ -8864,7 +8901,7 @@
 
       // If nativeMeaning is missing or identical to English, search fallback dictionary
       if ((!nativeMeaning || nativeMeaning === enMeaning) && targetLang !== 'en' && targetLang !== 'ja') {
-        const fallback = getFallbackMeaningForWord(card.word, targetLang);
+        const fallback = getFallbackMeaningForWord(jpWord, targetLang);
         if (fallback) nativeMeaning = fallback;
       }
 
@@ -8872,13 +8909,13 @@
         // English-only student or no native translation available: show English
         document.getElementById('frontReading').textContent = '';
         document.getElementById('frontReading').classList.add('hidden');
-        document.getElementById('frontWord').textContent = enMeaning || nativeMeaning || card.word;
+        document.getElementById('frontWord').textContent = enMeaning || nativeMeaning || jpWord;
         document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
       } else {
         // Non-English student: show Native language prominently AND English together!
         document.getElementById('frontWord').textContent = nativeMeaning;
         document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
-        if (enMeaning) {
+        if (enMeaning && !nativeMeaning.includes(`(${enMeaning})`)) {
           document.getElementById('frontReading').textContent = `(${enMeaning})`;
           document.getElementById('frontReading').className = 'text-sm sm:text-base font-bold text-slate-500 mb-1.5 tracking-normal';
           document.getElementById('frontReading').classList.remove('hidden');
@@ -8888,7 +8925,7 @@
         }
       }
 
-      document.getElementById('backMeaning').textContent = `${card.word} (${card.reading || ''})`;
+      document.getElementById('backMeaning').textContent = `${jpWord}${readingText ? ` （${readingText}）` : ''}`;
     }
 
     let currentCardCategory = card.category || '一般';
@@ -8897,17 +8934,30 @@
     }
     document.getElementById('frontCategoryBadge').textContent = currentCardCategory;
     document.getElementById('backCategoryBadge').textContent = currentCardCategory;
-    document.getElementById('backWordHeader').textContent = card.word;
-    document.getElementById('backReadingHeader').textContent = card.reading ? `（${card.reading}）` : '';
+    document.getElementById('backWordHeader').textContent = jpWord;
+    document.getElementById('backReadingHeader').textContent = readingText ? `（${readingText}）` : '';
 
     // Example sentence & Translation (Render HTML <ruby> tags for furigana and <br> for dialogues)
-    if (card.example && card.example.ja) {
-      document.getElementById('backExampleJa').innerHTML = card.example.ja;
-      document.getElementById('backExampleTranslation').innerHTML = targetExTrans;
+    let exJa = (card.example && card.example.ja) || '';
+    let exTrans = targetExTrans;
+
+    // 🛡️ 例文表裏ガード: もし exJa が外国語で始まっていて括弧内に日本語がある場合、日本語を抽出
+    if (exJa && !/^[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF<]/.test(exJa) && /[（(]([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF].+?)[）)]/.test(exJa)) {
+      const match = exJa.match(/[（(]([\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF].+?)[）)]/);
+      if (match) {
+        const foreignPart = exJa.replace(match[0], '').trim();
+        exJa = match[1];
+        if (!exTrans) exTrans = foreignPart;
+      }
+    }
+
+    if (exJa) {
+      document.getElementById('backExampleJa').innerHTML = exJa;
+      document.getElementById('backExampleTranslation').innerHTML = exTrans;
       document.getElementById('backExampleJa').parentElement.classList.remove('hidden');
       // ★ 例文から単語辞書ボタンチップを自動抽出して描画
       if (typeof renderExampleWordChips === 'function') {
-        renderExampleWordChips(card.example.ja);
+        renderExampleWordChips(exJa);
       }
     } else {
       document.getElementById('backExampleJa').parentElement.classList.add('hidden');
@@ -10784,13 +10834,16 @@
           let cols = parts.slice(1);
 
           // Safeguard 1: Reverse order detection!
-          // If col 0 has Roman letters/Hangul or non-Japanese, but col 1 has Japanese characters, swap them!
+          // If word has NO Japanese kana or kanji, and any col has Japanese, automatically swap them!
           const hasKanaOrKanji = (s) => /[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/.test(s);
           const hasRomanOrForeign = (s) => /[a-zA-Z\uac00-\ud7a3āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(s);
-          if (cols.length >= 1 && hasRomanOrForeign(word) && !/[\u3040-\u309f]/.test(word) && hasKanaOrKanji(cols[0])) {
-            const temp = cols[0];
-            cols[0] = word;
-            word = temp;
+          if (cols.length >= 1 && !hasKanaOrKanji(word)) {
+            const jpColIdx = cols.findIndex(c => hasKanaOrKanji(c));
+            if (jpColIdx >= 0) {
+              const temp = cols[jpColIdx];
+              cols[jpColIdx] = word;
+              word = temp;
+            }
           }
 
           const match = word.match(/^(.*?)[（\(](.*?)[）\)]/);
