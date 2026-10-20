@@ -12130,12 +12130,12 @@
       const studentIdInput = document.getElementById('loginStudentId').value.trim();
       const passcodeInput = document.getElementById('loginPasscode').value.trim();
 
-      // Check if user is logging in as Haku-sensei / Admin using the passcode ppooii0099
+      // Check if user is logging in as Haku-sensei / Admin using the passcode ppooiillkk
       const isTeacherId = (!studentIdInput || studentIdInput.toLowerCase() === 'haku' || studentIdInput === 'ハク' || studentIdInput.toLowerCase() === 'admin' || studentIdInput === '先生');
-      if (passcodeInput === 'ppooii0099' && isTeacherId) {
+      if (passcodeInput === 'ppooiillkk' && isTeacherId) {
         let teacherUser = students.find(s => s.id === 'haku');
         if (!teacherUser) {
-          teacherUser = { id: 'haku', name: 'ハク先生', lang: 'ja', passcode: 'ppooii0099' };
+          teacherUser = { id: 'haku', name: 'ハク先生', lang: 'ja', passcode: 'ppooiillkk' };
           students.unshift(teacherUser);
           localStorage.setItem('haku_students', JSON.stringify(students));
         }
