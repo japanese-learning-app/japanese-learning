@@ -2122,7 +2122,11 @@
 
     // Render Choices
     choicesGrid.innerHTML = '';
-    const choices = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+
+    // 漢字表記問題（ひらがなから正しい漢字を選ぶ問題）は、選択肢にふりがなを振るとネタバレになるため、プレーンな漢字（q.choices）を使用する
+    const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+      (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
+    const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
 
     // 長い選択肢（用法問題、文が含まれる、または10文字以上）の場合は1列4行にする
     const isLongChoice = choices.some(c => {
@@ -2747,7 +2751,9 @@
       const card = document.createElement('div');
       card.className = `rev-card ${isCorrect ? 'is-correct' : 'is-wrong'}`;
 
-      const choices = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : q.choices;
+      const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+        (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
+      const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
       const userSelectedText = (ans && ans.selectedIndex !== undefined && choices[ans.selectedIndex]) ? choices[ans.selectedIndex] : '未回答';
       const correctText = choices[q.answer] || q.correct_text;
 
