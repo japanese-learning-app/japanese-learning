@@ -1913,6 +1913,9 @@
         inner = inner.replace(/<ruby[^>]*>([^<]+)<rt>[^<]*<\/rt><\/ruby>/g, '$1');
       }
 
+      // （する）や（な）などの不要な品詞注記を自動除去
+      inner = inner.replace(/\s*[（\(]\s*(?:する|な|だ)\s*[）\)]/g, '');
+
       const chipHtml = `<span class="quiz-target-chip ${chipClass} ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${inner}】</span></span>`;
       return html.replace(bracketRegex, chipHtml);
     }
