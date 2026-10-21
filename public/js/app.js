@@ -7680,10 +7680,14 @@
       }
       if (currentStudent && currentStudent.id === '0014') {
         DANIEL_NEW_CARD_IDS.forEach(id => {
-          mylistSet.delete(id);
-          mylistSet.add(id);
-          mylistCardFolderMap[id] = CLASS_FOLDER_ID;
-          needsSave = true;
+          if (!mylistSet.has(id)) {
+            mylistSet.add(id);
+            needsSave = true;
+          }
+          if (!mylistCardFolderMap[id]) {
+            mylistCardFolderMap[id] = CLASS_FOLDER_ID;
+            needsSave = true;
+          }
         });
       }
 
@@ -7810,20 +7814,6 @@
       }
     });
 
-    // 3. Universal: Any custom/newly imported cards added by teacher must appear at the ABSOLUTE TOP of newest sort
-    const dynamicCustomCards = Array.from(mylistSet).filter(id => {
-      return !id.startsWith('class_word_') && 
-             !(typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) &&
-             !(typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) &&
-             !(typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id));
-    });
-    if (dynamicCustomCards.length > 0) {
-      dynamicCustomCards.forEach(id => {
-        mylistSet.delete(id);
-        mylistSet.add(id);
-      });
-      needsCleanSave = true;
-    }
 
     if (needsCleanSave) {
       localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
@@ -9982,7 +9972,9 @@
       let jlptWordToFind = cardId;
       if (cardId.startsWith('jlpt_')) {
         const parts = cardId.split('_');
-        if (parts.length >= 3) {
+        if (parts.length >= 4) {
+          jlptWordToFind = parts.slice(3).join('_');
+        } else if (parts.length >= 3) {
           jlptWordToFind = parts.slice(1, parts.length - 1).join('_');
         }
       }
@@ -10215,18 +10207,54 @@
     return toHiragana(clean);
   }
 
+  // Helper to extract a numerical timestamp for strict chronological sorting of cards
+  function getCardSortTimestamp(card, originalIndex) {
+    if (!card) return originalIndex != null ? originalIndex : 0;
+
+    // 1. Explicit timestamp fields
+    if (typeof card.createdAt === 'number' && card.createdAt > 0) return card.createdAt;
+    if (card.createdAt) {
+      const t = new Date(card.createdAt).getTime();
+      if (!isNaN(t) && t > 0) return t;
+    }
+    if (typeof card.addedAt === 'number' && card.addedAt > 0) return card.addedAt;
+    if (card.addedAt) {
+      const t = new Date(card.addedAt).getTime();
+      if (!isNaN(t) && t > 0) return t;
+    }
+
+    // 2. Embedded 13-digit Unix millisecond timestamp in ID (e.g. card_1792595245476_... or custom_ex_word_1792...)
+    if (card.id && typeof card.id === 'string') {
+      const m = card.id.match(/(?:card_|custom_|dict_|_|^)(\d{13})(?:_|$)/) || card.id.match(/(\d{13})/);
+      if (m) {
+        const val = Number(m[1]);
+        if (val >= 1500000000000 && val <= 3000000000000) {
+          return val;
+        }
+      }
+    }
+
+    // 3. Curriculum / preset seed cards (class_word_*, card_midori_*, card_daniel_*, seed_*)
+    // Baseline introduction sequence (older than dynamic custom cards, preserving relative index)
+    return 1000000000000 + (originalIndex != null ? originalIndex : 0);
+  }
+
   // Sorts My List cards according to selected sort order
   function sortMylistCards(cards, order) {
     if (!cards || cards.length <= 1) return cards ? cards.slice() : [];
     const list = cards.slice();
 
     if (order === 'oldest') {
-      // Default Set iteration order (first added = first)
-      return list;
+      // Oldest first: lowest timestamp / earliest introduction first
+      return list.map((card, idx) => ({ card, idx, ts: getCardSortTimestamp(card, idx) }))
+        .sort((a, b) => (a.ts !== b.ts ? a.ts - b.ts : a.idx - b.idx))
+        .map(item => item.card);
     }
     if (order === 'newest') {
-      // Latest added = first
-      return list.reverse();
+      // Latest added = first (highest timestamp first; tie-breaker: later insertion index first)
+      return list.map((card, idx) => ({ card, idx, ts: getCardSortTimestamp(card, idx) }))
+        .sort((a, b) => (b.ts !== a.ts ? b.ts - a.ts : b.idx - a.idx))
+        .map(item => item.card);
     }
     if (order === 'gojuon') {
       // Japanese alphabetical (あ〜ん) by reading/word
@@ -10238,10 +10266,12 @@
     }
     if (order === 'unlearned') {
       // Needs review / Unlearned first, then learned (secondary sort: newest first)
-      const reversed = list.reverse();
+      const sortedNewest = list.map((card, idx) => ({ card, idx, ts: getCardSortTimestamp(card, idx) }))
+        .sort((a, b) => (b.ts !== a.ts ? b.ts - a.ts : b.idx - a.idx))
+        .map(item => item.card);
       const unlearned = [];
       const learned = [];
-      reversed.forEach(c => {
+      sortedNewest.forEach(c => {
         const isLearned = knownSet.has(c.id) || mylistCardFolderMap[c.id] === 'folder_learned';
         if (isLearned) {
           learned.push(c);
@@ -10260,7 +10290,9 @@
       }
       return shuffled;
     }
-    return list.reverse();
+    return list.map((card, idx) => ({ card, idx, ts: getCardSortTimestamp(card, idx) }))
+      .sort((a, b) => (b.ts !== a.ts ? b.ts - a.ts : b.idx - a.idx))
+      .map(item => item.card);
   }
 
   // --- Mylist View Rendering with Custom Folders ---
@@ -11078,7 +11110,8 @@
               zh_HK: resolvedZhHK || resolvedJa,
               fr: resolvedFr || resolvedJa
             },
-            related: related || (reading ? `${reading}` : '重要表現')
+            related: related || (reading ? `${reading}` : '重要表現'),
+            createdAt: Date.now()
           };
 
           try {
