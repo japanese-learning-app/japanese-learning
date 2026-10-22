@@ -3016,6 +3016,7 @@
     optContainer.innerHTML = '';
     
     const optionsList = q.choices_ruby && q.choices_ruby.length === 4 ? q.choices_ruby : (q.choices || q.options || []);
+    const targetAns = (q.answer !== undefined) ? q.answer : q.correct;
     
     optionsList.forEach((optHtml, i) => {
       const btn = document.createElement('button');
@@ -3024,7 +3025,7 @@
       
       if (prevAns !== undefined) {
         btn.disabled = true;
-        if (i === q.answer) {
+        if (i === targetAns) {
           btn.classList.add('correct');
         } else if (i === prevAns.selected) {
           btn.classList.add('wrong');
@@ -3046,7 +3047,8 @@
 
   function selectOption(selectedIdx) {
     const q = currentQuestions[currentIndex];
-    const isCorrect = (selectedIdx === q.answer);
+    const targetAns = (q.answer !== undefined) ? q.answer : q.correct;
+    const isCorrect = (selectedIdx === targetAns);
     
     if (currentQuestionAnswers[currentIndex] === undefined) {
       answeredCount++;
