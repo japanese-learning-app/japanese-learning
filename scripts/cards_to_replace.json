@@ -1,0 +1,2782 @@
+[
+  {
+    "id": "card_0023_burikko",
+    "word": "ぶりっ子",
+    "meaning": {
+      "ja": "ぶりっ子",
+      "en": "girl playing dumb/cute, feigning innocence",
+      "zh_TW": "裝可愛的女生、做作女",
+      "ko": "귀여운 척하는 사람, 내숭쟁이"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。"
+  },
+  {
+    "id": "card_midori_burikko",
+    "word": "ぶりっ子",
+    "meaning": {
+      "ja": "ぶりっ子",
+      "en": "girl playing dumb/cute, coquette",
+      "zh_TW": "裝可愛、裝無辜造作的女孩",
+      "ko": "girl playing dumb/cute, coquette"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。"
+  },
+  {
+    "id": "class_word_0002",
+    "word": "音楽",
+    "meaning": {
+      "en": "music",
+      "zh_TW": "音樂",
+      "zh_CN": "音樂",
+      "ko": "음악",
+      "zh_HK": "音樂",
+      "fr": "musique"
+    },
+    "current_ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？"
+  },
+  {
+    "id": "class_word_0003",
+    "word": "楽器",
+    "meaning": {
+      "en": "musical instrument",
+      "zh_TW": "樂器",
+      "zh_CN": "樂器",
+      "ko": "악기",
+      "zh_HK": "樂器",
+      "fr": "instrument de musique"
+    },
+    "current_ja": "<ruby>楽器<rt>がっき</rt></ruby>は<ruby>弾<rt>ひ</rt></ruby>ける？"
+  },
+  {
+    "id": "class_word_0009",
+    "word": "方言",
+    "meaning": {
+      "en": "dialect",
+      "zh_TW": "方言",
+      "zh_CN": "方言",
+      "ko": "방언",
+      "zh_HK": "方言",
+      "fr": "dialecte"
+    },
+    "current_ja": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>は<ruby>聞き取<rt>ききと</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0012",
+    "word": "全員",
+    "meaning": {
+      "en": "all members",
+      "zh_TW": "所有成員",
+      "zh_CN": "所有成員",
+      "ko": "모든 회원",
+      "zh_HK": "所有成員",
+      "fr": "tous les membres"
+    },
+    "current_ja": "<ruby>全員<rt>ぜんいん</rt></ruby><ruby>出席<rt>しゅっせき</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0013",
+    "word": "会員",
+    "meaning": {
+      "en": "member, membership",
+      "zh_TW": "會員，會員",
+      "zh_CN": "會員，會員",
+      "ko": "회원, 회원",
+      "zh_HK": "會員，會員",
+      "fr": "membre, adhésion"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>会員<rt>かいいん</rt></ruby>でした。"
+  },
+  {
+    "id": "class_word_0015",
+    "word": "湿気",
+    "meaning": {
+      "en": "moisture, dampness",
+      "zh_TW": "濕氣，濕氣",
+      "zh_CN": "濕氣，濕氣",
+      "ko": "습기, 습기",
+      "zh_HK": "濕氣，濕氣",
+      "fr": "humidité, humidité"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>湿気<rt>しっけ</rt></ruby>が<ruby>我慢<rt>がまん</rt></ruby>できない。"
+  },
+  {
+    "id": "class_word_0016",
+    "word": "都道府県",
+    "meaning": {
+      "en": "prefectures (the administrative divisions of Japan)",
+      "zh_TW": "都道府縣（日本的行政區劃）",
+      "zh_CN": "都道府縣（日本的行政區劃）",
+      "ko": "현(일본의 행정구역)",
+      "zh_HK": "都道府縣（日本的行政區劃）",
+      "fr": "préfectures (les divisions administratives du Japon)"
+    },
+    "current_ja": "A: <ruby>日本<rt>にほん</rt></ruby>の47<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、どこに<ruby>行<rt>い</rt></ruby>ってみたいですか？<br/>B: <ruby>北海道<rt>ほっかいどう</rt></ruby>と<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>をゆっくり<ruby>旅<rt>たび</rt></ruby>してみたいです。"
+  },
+  {
+    "id": "class_word_0017",
+    "word": "歌",
+    "meaning": {
+      "en": "song",
+      "zh_TW": "歌曲",
+      "zh_CN": "歌曲",
+      "ko": "노래",
+      "zh_HK": "歌曲",
+      "fr": "chanson"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>歌<rt>うた</rt></ruby>う。"
+  },
+  {
+    "id": "class_word_0018",
+    "word": "歌う",
+    "meaning": {
+      "en": "to sing",
+      "zh_TW": "唱歌",
+      "zh_CN": "唱歌",
+      "ko": "노래하다",
+      "zh_HK": "唱歌",
+      "fr": "chanter"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>歌<rt>うた</rt></ruby>う。"
+  },
+  {
+    "id": "class_word_0019",
+    "word": "尻尾",
+    "meaning": {
+      "en": "tail (animal)",
+      "zh_TW": "尾巴（動物）",
+      "zh_CN": "尾巴（動物）",
+      "ko": "꼬리 (동물)",
+      "zh_HK": "尾巴（動物）",
+      "fr": "queue (animal)"
+    },
+    "current_ja": "<ruby>牛<rt>うし</rt></ruby>の<ruby>尻尾<rt>しっぽ</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0020",
+    "word": "趣味",
+    "meaning": {
+      "en": "hobby",
+      "zh_TW": "嗜好",
+      "zh_CN": "嗜好",
+      "ko": "취미",
+      "zh_HK": "嗜好",
+      "fr": "passe-temps"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多趣味<rt>たしゅみ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0021",
+    "word": "隣",
+    "meaning": {
+      "en": "next to",
+      "zh_TW": "旁邊",
+      "zh_CN": "旁邊",
+      "ko": "옆에",
+      "zh_HK": "旁邊",
+      "fr": "à côté"
+    },
+    "current_ja": "<ruby>隣<rt>となり</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って。"
+  },
+  {
+    "id": "class_word_0023",
+    "word": "本棚",
+    "meaning": {
+      "en": "bookshelf / bookcase",
+      "zh_TW": "書櫃",
+      "zh_CN": "書櫃",
+      "ko": "책장",
+      "zh_HK": "書架",
+      "fr": "bibliothèque / bibliothèque"
+    },
+    "current_ja": "ジョンは<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0024",
+    "word": "大盛り",
+    "meaning": {
+      "en": "large serving / extra large portion",
+      "zh_TW": "大份",
+      "zh_CN": "大份",
+      "ko": "곱빼기 / 대(大)사이즈",
+      "zh_HK": "加量",
+      "fr": "grande portion / très grande portion"
+    },
+    "current_ja": "A: すみません、このラーメンを<ruby>大盛<rt>おおも</rt></ruby>りにできますか？<br/>B: はい、かしこまりました！<ruby>麺<rt>めん</rt></ruby>の<ruby>大盛<rt>おおも</rt></ruby>り<ruby>無料<rt>むりょう</rt></ruby>ですよ。"
+  },
+  {
+    "id": "class_word_0025",
+    "word": "定食",
+    "meaning": {
+      "en": "set meal / fixed meal",
+      "zh_TW": "套餐",
+      "zh_CN": "套餐",
+      "ko": "정식",
+      "zh_HK": "定食",
+      "fr": "repas fixe / repas fixe"
+    },
+    "current_ja": "<ruby>日替<rt>ひが</rt></ruby>わり<ruby>定食<rt>ていしょく</rt></ruby>にしませんか。"
+  },
+  {
+    "id": "class_word_0026",
+    "word": "身長",
+    "meaning": {
+      "en": "height (of a person)",
+      "zh_TW": "身高",
+      "zh_CN": "身高",
+      "ko": "키",
+      "zh_HK": "身高",
+      "fr": "taille (d'une personne)"
+    },
+    "current_ja": "<ruby>身長<rt>しんちょう</rt></ruby><ruby>何<rt>なん</rt></ruby>センチ？"
+  },
+  {
+    "id": "class_word_0031",
+    "word": "おしゃれ",
+    "meaning": {
+      "en": "stylish / fashionable / having good taste",
+      "zh_TW": "時髦",
+      "zh_CN": "時髦",
+      "ko": "세련되다 / 멋있다 / 패셔너블하다",
+      "zh_HK": "有品味 / 時尚",
+      "fr": "élégant / à la mode / ayant bon goût"
+    },
+    "current_ja": "おしゃれな<ruby>手袋<rt>てぶくろ</rt></ruby>ですね。"
+  },
+  {
+    "id": "class_word_0036",
+    "word": "誕生日",
+    "meaning": {
+      "en": "birthday",
+      "zh_TW": "生日",
+      "zh_CN": "生日",
+      "ko": "생일",
+      "zh_HK": "生日",
+      "fr": "anniversaire"
+    },
+    "current_ja": "<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>いつ？"
+  },
+  {
+    "id": "class_word_0039",
+    "word": "消える",
+    "meaning": {
+      "en": "to disappear / to vanish / to go out",
+      "zh_TW": "消失",
+      "zh_CN": "消失",
+      "ko": "사라지다 / 없어지다",
+      "zh_HK": "不見",
+      "fr": "disparaître / disparaître / sortir"
+    },
+    "current_ja": "<ruby>雪<rt>ゆき</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えるだろう。"
+  },
+  {
+    "id": "class_word_0040",
+    "word": "記念日",
+    "meaning": {
+      "en": "anniversary / commemorative day",
+      "zh_TW": "紀念日",
+      "zh_CN": "紀念日",
+      "ko": "기념일",
+      "zh_HK": "紀念日",
+      "fr": "anniversaire / journée commémorative"
+    },
+    "current_ja": "A: <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>はレストランでお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>予定<rt>よてい</rt></ruby>ですか？<br/>B: はい、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>なので<ruby>静<rt>しず</rt></ruby>かなお<ruby>店<rt>みせ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。"
+  },
+  {
+    "id": "class_word_0043",
+    "word": "双子",
+    "meaning": {
+      "en": "twins",
+      "zh_TW": "雙胞胎",
+      "zh_CN": "雙胞胎",
+      "ko": "쌍둥이",
+      "zh_HK": "雙胞胎",
+      "fr": "jumeaux"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>双子<rt>ふたご</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0044",
+    "word": "地獄",
+    "meaning": {
+      "en": "hell / inferno",
+      "zh_TW": "地獄",
+      "zh_CN": "地獄",
+      "ko": "지옥",
+      "zh_HK": "地獄",
+      "fr": "enfer / enfer"
+    },
+    "current_ja": "<ruby>地獄<rt>じごく</rt></ruby>も<ruby>住<rt>じゅう</rt></ruby><ruby>家<rt>か</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0045",
+    "word": "特殊",
+    "meaning": {
+      "en": "special / unique / unusual",
+      "zh_TW": "特殊",
+      "zh_CN": "特殊",
+      "ko": "특수 / 특별한",
+      "zh_HK": "特別",
+      "fr": "spécial / unique / insolite"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>特殊<rt>とくしゅ</rt></ruby><ruby>部隊<rt>ぶたい</rt></ruby>に<ruby>勤務<rt>きんむ</rt></ruby>する。"
+  },
+  {
+    "id": "class_word_0050",
+    "word": "お金がかかる",
+    "meaning": {
+      "en": "to cost (money)",
+      "zh_TW": "花錢",
+      "zh_CN": "花錢",
+      "ko": "돈이 들다",
+      "zh_HK": "花費",
+      "fr": "coûter (de l'argent)"
+    },
+    "current_ja": "A: <ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、やはり<ruby>色々<rt>いろいろ</rt></ruby>とお<ruby>金<rt>かね</rt></ruby>がかかりますか？<br/>B: そうですね、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>で<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。"
+  },
+  {
+    "id": "class_word_0055",
+    "word": "少しずつ",
+    "meaning": {
+      "en": "little by little / gradually",
+      "zh_TW": "一點一點地",
+      "zh_CN": "一點一點地",
+      "ko": "조금씩",
+      "zh_HK": "慢慢地",
+      "fr": "petit à petit / progressivement"
+    },
+    "current_ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>がなかなか<ruby>覚<rt>おぼ</rt></ruby>えられなくて<ruby>焦<rt>あせ</rt></ruby>っています。<br/>B: <ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。"
+  },
+  {
+    "id": "class_word_0056",
+    "word": "覚える",
+    "meaning": {
+      "en": "to memorize / to learn / to remember",
+      "zh_TW": "記住",
+      "zh_CN": "記住",
+      "ko": "외우다 / 기억하다",
+      "zh_HK": "背下來",
+      "fr": "mémoriser / apprendre / se souvenir"
+    },
+    "current_ja": "<ruby>覚<rt>おぼ</rt></ruby>えるの、<ruby>簡単<rt>かんたん</rt></ruby>よ。"
+  },
+  {
+    "id": "class_word_0057",
+    "word": "ど忘れ",
+    "meaning": {
+      "en": "tip-of-the-tongue moment / sudden memory blank",
+      "zh_TW": "一時想不起來",
+      "zh_CN": "一時想不起來",
+      "ko": "깜빡하다 / 순간 기억이 안 나다",
+      "zh_HK": "腦中一片空白",
+      "fr": "moment sur le bout de la langue / vide soudain de mémoire"
+    },
+    "current_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>度忘<rt>どわす</rt></ruby>れした。"
+  },
+  {
+    "id": "class_word_0058",
+    "word": "星座",
+    "meaning": {
+      "en": "zodiac sign / star sign / constellation",
+      "zh_TW": "星座",
+      "zh_CN": "星座",
+      "ko": "별자리",
+      "zh_HK": "星座",
+      "fr": "signe du zodiaque / signe astrologique / constellation"
+    },
+    "current_ja": "<ruby>星座<rt>せいざ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？"
+  },
+  {
+    "id": "class_word_0061",
+    "word": "同い年",
+    "meaning": {
+      "en": "same age / born the same year",
+      "zh_TW": "同齡",
+      "zh_CN": "同齡",
+      "ko": "동갑",
+      "zh_HK": "同年紀",
+      "fr": "même âge / né la même année"
+    },
+    "current_ja": "<ruby>同い年<rt>おないどし</rt></ruby>だよ。"
+  },
+  {
+    "id": "class_word_0076",
+    "word": "早い—時間",
+    "meaning": {
+      "en": "early",
+      "zh_TW": "早",
+      "zh_CN": "早",
+      "ko": "이르다",
+      "zh_HK": "早到",
+      "fr": "tôt"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>素早<rt>すばや</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0080",
+    "word": "踊る",
+    "meaning": {
+      "en": "to dance",
+      "zh_TW": "跳舞",
+      "zh_CN": "跳舞",
+      "ko": "춤추다",
+      "zh_HK": "跳舞",
+      "fr": "danser"
+    },
+    "current_ja": "<ruby>踊<rt>おど</rt></ruby>るのが<ruby>大<rt>だい</rt></ruby>っ<ruby>嫌<rt>きら</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0082",
+    "word": "音",
+    "meaning": {
+      "en": "sound / noise",
+      "zh_TW": "聲音",
+      "zh_CN": "聲音",
+      "ko": "소리",
+      "zh_HK": "音",
+      "fr": "son/bruit"
+    },
+    "current_ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？"
+  },
+  {
+    "id": "class_word_0083",
+    "word": "声",
+    "meaning": {
+      "en": "voice",
+      "zh_TW": "聲音",
+      "zh_CN": "聲音",
+      "ko": "목소리",
+      "zh_HK": "嗓音",
+      "fr": "voix"
+    },
+    "current_ja": "<ruby>声援<rt>せいえん</rt></ruby>がやんだ。"
+  },
+  {
+    "id": "class_word_0084",
+    "word": "料理をする",
+    "meaning": {
+      "en": "to cook / to prepare food",
+      "zh_TW": "做料理",
+      "zh_CN": "做料理",
+      "ko": "요리하다",
+      "zh_HK": "煮飯",
+      "fr": "cuisiner / préparer à manger"
+    },
+    "current_ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>にはよく<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしますか？<br/>B: はい、<ruby>得意<rt>とくい</rt></ruby>なパスタやカレーを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。"
+  },
+  {
+    "id": "class_word_0095",
+    "word": "見学",
+    "meaning": {
+      "en": "visit / tour",
+      "zh_TW": "参观",
+      "zh_CN": "参观",
+      "ko": "견학",
+      "zh_HK": "參觀",
+      "fr": "visite / visite"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_0098",
+    "word": "虫歯",
+    "meaning": {
+      "en": "cavity / tooth decay",
+      "zh_TW": "蛀牙",
+      "zh_CN": "蛀牙",
+      "ko": "충치",
+      "zh_HK": "蛀牙",
+      "fr": "carie / carie dentaire"
+    },
+    "current_ja": "<ruby>虫歯<rt>むしば</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>しろ。"
+  },
+  {
+    "id": "class_word_0104",
+    "word": "普段",
+    "meaning": {
+      "en": "usually / normally / on a regular basis",
+      "zh_TW": "平常",
+      "zh_CN": "平常",
+      "ko": "평소에 / 보통",
+      "zh_HK": "平時",
+      "fr": "habituellement / normalement / régulièrement"
+    },
+    "current_ja": "<ruby>普段<rt>ふだん</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>きなんだ。"
+  },
+  {
+    "id": "class_word_0105",
+    "word": "計画",
+    "meaning": {
+      "en": "plan / project",
+      "zh_TW": "計畫",
+      "zh_CN": "計畫",
+      "ko": "계획",
+      "zh_HK": "計劃",
+      "fr": "plan/projet"
+    },
+    "current_ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。"
+  },
+  {
+    "id": "class_word_0106",
+    "word": "予定",
+    "meaning": {
+      "en": "schedule / plan / arrangement",
+      "zh_TW": "預定",
+      "zh_CN": "預定",
+      "ko": "예정",
+      "zh_HK": "行程",
+      "fr": "calendrier / plan / arrangement"
+    },
+    "current_ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>は？"
+  },
+  {
+    "id": "class_word_0109",
+    "word": "平日",
+    "meaning": {
+      "en": "weekday",
+      "zh_TW": "平日",
+      "zh_CN": "平日",
+      "ko": "평일",
+      "zh_HK": "工作日",
+      "fr": "jour de la semaine"
+    },
+    "current_ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0110",
+    "word": "ところで",
+    "meaning": {
+      "en": "by the way / changing the subject",
+      "zh_TW": "話說",
+      "zh_CN": "話說",
+      "ko": "그런데 / 그나저나",
+      "zh_HK": "對了",
+      "fr": "au fait / changeant de sujet"
+    },
+    "current_ja": "<ruby>登校<rt>とうこう</rt></ruby>するところです。"
+  },
+  {
+    "id": "class_word_0111",
+    "word": "少しずつ・ちょっとずつ",
+    "meaning": {
+      "en": "little by little / gradually",
+      "zh_TW": "一點一點地",
+      "zh_CN": "一點一點地",
+      "ko": "조금씩",
+      "zh_HK": "慢慢地",
+      "fr": "petit à petit / progressivement"
+    },
+    "current_ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>がなかなか<ruby>覚<rt>おぼ</rt></ruby>えられなくて<ruby>焦<rt>あせ</rt></ruby>っています。<br/>B: <ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。"
+  },
+  {
+    "id": "class_word_0113",
+    "word": "持ち帰り",
+    "meaning": {
+      "en": "takeout / to go",
+      "zh_TW": "外帶",
+      "zh_CN": "外帶",
+      "ko": "포장 / 테이크아웃",
+      "zh_HK": "外帶",
+      "fr": "à emporter / à emporter"
+    },
+    "current_ja": "A: ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？<br/>B: いいえ、<ruby>持ち帰<rt>もちかえ</rt></ruby>りでお<ruby>願<rt>ねが</rt></ruby>いします。"
+  },
+  {
+    "id": "class_word_0116",
+    "word": "家賃",
+    "meaning": {
+      "en": "rent (monthly)",
+      "zh_TW": "房租",
+      "zh_CN": "房租",
+      "ko": "집세 / 월세",
+      "zh_HK": "房租",
+      "fr": "loyer (mensuel)"
+    },
+    "current_ja": "<ruby>家賃<rt>やちん</rt></ruby>は<ruby>払<rt>はら</rt></ruby>った？"
+  },
+  {
+    "id": "class_word_0117",
+    "word": "今のところ",
+    "meaning": {
+      "en": "for now / so far / as of now",
+      "zh_TW": "目前為止",
+      "zh_CN": "目前為止",
+      "ko": "지금으로서는 / 아직까지는",
+      "zh_HK": "到目前為止",
+      "fr": "pour l'instant / jusqu'à présent / pour l'instant"
+    },
+    "current_ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>はありますか？<br/>B: <ruby>今<rt>いま</rt></ruby>のところ<ruby>晴<rt>は</rt></ruby>れの<ruby>予報<rt>よほう</rt></ruby>だから、<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りピクニックに<ruby>行<rt>い</rt></ruby>けそうだね。"
+  },
+  {
+    "id": "class_word_0118",
+    "word": "筋肉痛",
+    "meaning": {
+      "en": "muscle soreness / DOMS",
+      "zh_TW": "肌肉痠痛",
+      "zh_CN": "肌肉痠痛",
+      "ko": "근육통",
+      "zh_HK": "肌肉痠痛",
+      "fr": "douleurs musculaires / DOMS"
+    },
+    "current_ja": "A: <ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しぎこちないけど、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？<br/>B: <ruby>昨日<rt>きのう</rt></ruby>ジムで<ruby>筋<rt>きん</rt></ruby>トレを<ruby>頑張<rt>がんば</rt></ruby>りすぎて、<ruby>足<rt>あし</rt></ruby>がひどい<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>なんだ。"
+  },
+  {
+    "id": "class_word_0120",
+    "word": "急ぐ",
+    "meaning": {
+      "en": "to hurry / to rush",
+      "zh_TW": "趕快",
+      "zh_CN": "趕快",
+      "ko": "서두르다 / 빨리하다",
+      "zh_HK": "趕緊",
+      "fr": "se dépêcher / se précipiter"
+    },
+    "current_ja": "<ruby>急<rt>いそ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>はないよ。"
+  },
+  {
+    "id": "class_word_0122",
+    "word": "短い",
+    "meaning": {
+      "en": "short",
+      "zh_TW": "短",
+      "zh_CN": "短",
+      "ko": "짧다",
+      "zh_HK": "短",
+      "fr": "court"
+    },
+    "current_ja": "<ruby>人生<rt>じんせい</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0123",
+    "word": "長い",
+    "meaning": {
+      "en": "long",
+      "zh_TW": "長",
+      "zh_CN": "長",
+      "ko": "길다",
+      "zh_HK": "長",
+      "fr": "longtemps"
+    },
+    "current_ja": "<ruby>人生<rt>じんせい</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0131",
+    "word": "道",
+    "meaning": {
+      "en": "road; way; path",
+      "zh_TW": "路",
+      "zh_CN": "路",
+      "ko": "도로; 방법; 경로",
+      "zh_HK": "路",
+      "fr": "route; façon; chemin"
+    },
+    "current_ja": "<ruby>旅<rt>たび</rt></ruby>は<ruby>道連<rt>みちづ</rt></ruby>れ。"
+  },
+  {
+    "id": "class_word_0133",
+    "word": "噛む",
+    "meaning": {
+      "en": "to bite; to chew",
+      "zh_TW": "咬",
+      "zh_CN": "咬",
+      "ko": "물다; 씹다",
+      "zh_HK": "咬",
+      "fr": "mordre; mâcher"
+    },
+    "current_ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。"
+  },
+  {
+    "id": "class_word_0135",
+    "word": "満点",
+    "meaning": {
+      "en": "perfect score",
+      "zh_TW": "滿分",
+      "zh_CN": "滿分",
+      "ko": "만점",
+      "zh_HK": "滿分",
+      "fr": "note parfaite"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0139",
+    "word": "順調",
+    "meaning": {
+      "en": "going smoothly; on track",
+      "zh_TW": "順利",
+      "zh_CN": "順利",
+      "ko": "순조롭게 진행되고 있습니다. 궤도에",
+      "zh_HK": "順利",
+      "fr": "ça se passe bien; en bonne voie"
+    },
+    "current_ja": "<ruby>万事<rt>ばんじ</rt></ruby><ruby>順調<rt>じゅんちょう</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0140",
+    "word": "持ち帰り",
+    "meaning": {
+      "en": "takeout; to go",
+      "zh_TW": "外帶",
+      "zh_CN": "外帶",
+      "ko": "테이크아웃; 가다",
+      "zh_HK": "外賣",
+      "fr": "plats à emporter; aller"
+    },
+    "current_ja": "A: ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？<br/>B: いいえ、<ruby>持ち帰<rt>もちかえ</rt></ruby>りでお<ruby>願<rt>ねが</rt></ruby>いします。"
+  },
+  {
+    "id": "class_word_0148",
+    "word": "青春",
+    "meaning": {
+      "en": "youth; one's younger days",
+      "zh_TW": "青春",
+      "zh_CN": "青春",
+      "ko": "청소년; 어린 시절",
+      "zh_HK": "青春",
+      "fr": "la jeunesse; sa jeunesse"
+    },
+    "current_ja": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>青春<rt>せいしゅん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>せ！"
+  },
+  {
+    "id": "class_word_0149",
+    "word": "ことわざ",
+    "meaning": {
+      "en": "proverb; saying",
+      "zh_TW": "諺語",
+      "zh_CN": "諺語",
+      "ko": "속담; 말하는",
+      "zh_HK": "諺語",
+      "fr": "proverbe; disant"
+    },
+    "current_ja": "<ruby>好<rt>す</rt></ruby>きな<ruby>諺<rt>ことわざ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？"
+  },
+  {
+    "id": "class_word_0151",
+    "word": "逆（反対の意味）",
+    "meaning": {
+      "en": "opposite; reverse; the other way",
+      "zh_TW": "相反・反過來",
+      "zh_CN": "相反・反過來",
+      "ko": "반대; 뒤집다; 다른 방법으로",
+      "zh_HK": "相反・反過來",
+      "fr": "ci-contre; inverse; dans l'autre sens"
+    },
+    "current_ja": "<ruby>帝国<rt>ていこく</rt></ruby>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0154",
+    "word": "橋",
+    "meaning": {
+      "en": "bridge",
+      "zh_TW": "橋",
+      "zh_CN": "橋",
+      "ko": "다리",
+      "zh_HK": "橋",
+      "fr": "pont"
+    },
+    "current_ja": "<ruby>橋<rt>はし</rt></ruby>は<ruby>石造<rt>いしづく</rt></ruby>りだ。"
+  },
+  {
+    "id": "class_word_0156",
+    "word": "渋滞",
+    "meaning": {
+      "en": "traffic jam; congestion",
+      "zh_TW": "塞車",
+      "zh_CN": "塞車",
+      "ko": "교통 체증; 혼잡",
+      "zh_HK": "塞車",
+      "fr": "embouteillage; embouteillage"
+    },
+    "current_ja": "<ruby>渋滞<rt>じゅうたい</rt></ruby>はないです。"
+  },
+  {
+    "id": "class_word_0157",
+    "word": "部分",
+    "meaning": {
+      "en": "part; portion; section",
+      "zh_TW": "部分",
+      "zh_CN": "部分",
+      "ko": "부분; 부분; 섹션",
+      "zh_HK": "部分",
+      "fr": "partie; partie; section"
+    },
+    "current_ja": "<ruby>部分<rt>ぶぶん</rt></ruby><ruby>的<rt>てき</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>だよ。"
+  },
+  {
+    "id": "class_word_0161",
+    "word": "特に",
+    "meaning": {
+      "en": "especially; particularly",
+      "zh_TW": "特別・尤其",
+      "zh_CN": "特別・尤其",
+      "ko": "특히; 특히",
+      "zh_HK": "特別・尤其",
+      "fr": "en particulier; particulièrement"
+    },
+    "current_ja": "<ruby>特<rt>とく</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだ。"
+  },
+  {
+    "id": "class_word_0162",
+    "word": "日焼け",
+    "meaning": {
+      "en": "sunburn; suntan",
+      "zh_TW": "曬傷・曬黑",
+      "zh_CN": "曬傷・曬黑",
+      "ko": "햇볕에 탐; 선탠",
+      "zh_HK": "曬親・曬黑",
+      "fr": "coup de soleil; bronzage"
+    },
+    "current_ja": "<ruby>日焼<rt>ひや</rt></ruby>けが<ruby>痛<rt>いた</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0166",
+    "word": "家事",
+    "meaning": {
+      "en": "housework; household chores",
+      "zh_TW": "家事",
+      "zh_CN": "家事",
+      "ko": "집안일; 집안일",
+      "zh_HK": "家務",
+      "fr": "travaux ménagers; tâches ménagères"
+    },
+    "current_ja": "<ruby>家事<rt>かじ</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0172",
+    "word": "夕日",
+    "meaning": {
+      "en": "sunset",
+      "zh_TW": "夕陽・日落",
+      "zh_CN": "夕陽・日落",
+      "ko": "일몰",
+      "zh_HK": "夕陽・日落",
+      "fr": "coucher de soleil"
+    },
+    "current_ja": "あの<ruby>夕日<rt>ゆうひ</rt></ruby>を<ruby>見<rt>み</rt></ruby>て。"
+  },
+  {
+    "id": "class_word_0174",
+    "word": "周り",
+    "meaning": {
+      "en": "surrounding area; around (one's vicinity)",
+      "zh_TW": "周圍・身邊",
+      "zh_CN": "周圍・身邊",
+      "ko": "주변 지역; 주변 (사람의 근처)",
+      "zh_HK": "周圍・身邊",
+      "fr": "les environs; autour (de son voisinage)"
+    },
+    "current_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>周<rt>まわ</rt></ruby>りを<ruby>見回<rt>みまわ</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_0178",
+    "word": "汁",
+    "meaning": {
+      "en": "broth; gravy; sauce",
+      "zh_TW": "湯汁・汁",
+      "zh_CN": "湯汁・汁",
+      "ko": "국물; 육수; 소스",
+      "zh_HK": "汁",
+      "fr": "bouillon; sauce; sauce"
+    },
+    "current_ja": "お<ruby>出汁<rt>だし</rt></ruby>、<ruby>熱<rt>あつ</rt></ruby>いよ。"
+  },
+  {
+    "id": "class_word_0180",
+    "word": "お酒",
+    "meaning": {
+      "en": "alcohol; alcoholic drink",
+      "zh_TW": "酒",
+      "zh_CN": "酒",
+      "ko": "알코올; 알코올 음료",
+      "zh_HK": "酒",
+      "fr": "alcool; boisson alcoolisée"
+    },
+    "current_ja": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>もうよ。"
+  },
+  {
+    "id": "class_word_0181",
+    "word": "アルコール",
+    "meaning": {
+      "en": "alcohol (substance)",
+      "zh_TW": "酒精",
+      "zh_CN": "酒精",
+      "ko": "알코올(물질)",
+      "zh_HK": "酒精",
+      "fr": "alcool (substance)"
+    },
+    "current_ja": "アルコールは<ruby>薬物<rt>やくぶつ</rt></ruby>だよ。"
+  },
+  {
+    "id": "class_word_0183",
+    "word": "橋",
+    "meaning": {
+      "en": "bridge",
+      "zh_TW": "橋",
+      "zh_CN": "橋",
+      "ko": "다리",
+      "zh_HK": "橋",
+      "fr": "pont"
+    },
+    "current_ja": "<ruby>橋<rt>はし</rt></ruby>は<ruby>石造<rt>いしづく</rt></ruby>りだ。"
+  },
+  {
+    "id": "class_word_0184",
+    "word": "不足",
+    "meaning": {
+      "en": "shortage; lack",
+      "zh_TW": "不足",
+      "zh_CN": "不足",
+      "ko": "부족; 부족하다",
+      "zh_HK": "不足",
+      "fr": "pénurie; manque"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0193",
+    "word": "勇気",
+    "meaning": {
+      "en": "courage",
+      "zh_TW": "勇氣",
+      "zh_CN": "勇氣",
+      "ko": "용기",
+      "zh_HK": "勇氣",
+      "fr": "courage"
+    },
+    "current_ja": "<ruby>勇気<rt>ゆうき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して。"
+  },
+  {
+    "id": "class_word_0195",
+    "word": "祝日",
+    "meaning": {
+      "en": "public holiday",
+      "zh_TW": "國定假日",
+      "zh_CN": "國定假日",
+      "ko": "공휴일",
+      "zh_HK": "公眾假期",
+      "fr": "jour férié"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0209",
+    "word": "原因",
+    "meaning": {
+      "en": "cause; reason",
+      "zh_TW": "原因",
+      "zh_CN": "原因",
+      "ko": "원인; 이유",
+      "zh_HK": "原因",
+      "fr": "cause; raison"
+    },
+    "current_ja": "<ruby>何<rt>なに</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>ですか。"
+  },
+  {
+    "id": "class_word_0210",
+    "word": "骨",
+    "meaning": {
+      "en": "bone",
+      "zh_TW": "骨頭・骨",
+      "zh_CN": "骨頭・骨",
+      "ko": "뼈",
+      "zh_HK": "骨",
+      "fr": "os"
+    },
+    "current_ja": "<ruby>骨<rt>ほね</rt></ruby>が<ruby>折<rt>お</rt></ruby>れてます。"
+  },
+  {
+    "id": "class_word_0211",
+    "word": "骨折",
+    "meaning": {
+      "en": "fracture; broken bone",
+      "zh_TW": "骨折",
+      "zh_CN": "骨折",
+      "ko": "골절; 부러진 뼈",
+      "zh_HK": "骨折",
+      "fr": "fracture; os cassé"
+    },
+    "current_ja": "<ruby>骨折<rt>こっせつ</rt></ruby>はしてない。"
+  },
+  {
+    "id": "class_word_0216",
+    "word": "お大事に",
+    "meaning": {
+      "en": "take care; get well soon",
+      "zh_TW": "保重",
+      "zh_CN": "保重",
+      "ko": "조심하세요; 빨리 나으세요",
+      "zh_HK": "保重",
+      "fr": "prends soin de toi; guéris bientôt"
+    },
+    "current_ja": "どうぞお<ruby>大事<rt>だいじ</rt></ruby>に。"
+  },
+  {
+    "id": "class_word_0232",
+    "word": "怒る",
+    "meaning": {
+      "en": "to get angry",
+      "zh_TW": "生氣",
+      "zh_CN": "生氣",
+      "ko": "화를 내다",
+      "zh_HK": "嬲・生氣",
+      "fr": "se mettre en colère"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>はすぐ<ruby>怒<rt>おこ</rt></ruby>る。"
+  },
+  {
+    "id": "class_word_0234",
+    "word": "噛む",
+    "meaning": {
+      "en": "to bite; to chew",
+      "zh_TW": "咬",
+      "zh_CN": "咬",
+      "ko": "물다; 씹다",
+      "zh_HK": "咬",
+      "fr": "mordre; mâcher"
+    },
+    "current_ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。"
+  },
+  {
+    "id": "class_word_0238",
+    "word": "臭い",
+    "meaning": {
+      "en": "smelly; stinky",
+      "zh_TW": "臭",
+      "zh_CN": "臭",
+      "ko": "냄새나는; 냄새나는",
+      "zh_HK": "臭",
+      "fr": "malodorant; puant"
+    },
+    "current_ja": "<ruby>面倒臭<rt>めんどうくさ</rt></ruby>いよ。"
+  },
+  {
+    "id": "class_word_0243",
+    "word": "履く",
+    "meaning": {
+      "en": "to put on (shoes / pants)",
+      "zh_TW": "穿",
+      "zh_CN": "穿",
+      "ko": "(신발/바지를) 입다",
+      "zh_HK": "著",
+      "fr": "mettre (chaussures / pantalons)"
+    },
+    "current_ja": "<ruby>木靴<rt>きぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きだ。"
+  },
+  {
+    "id": "class_word_0244",
+    "word": "巻く",
+    "meaning": {
+      "en": "to wrap; to wear (scarf / turban)",
+      "zh_TW": "纏・圍",
+      "zh_CN": "纏・圍",
+      "ko": "포장하다; (스카프/터번)을 쓰다",
+      "zh_HK": "纏・圍",
+      "fr": "envelopper; porter (écharpe / turban)"
+    },
+    "current_ja": "ヘビがとぐろを<ruby>巻<rt>ま</rt></ruby>く。"
+  },
+  {
+    "id": "class_word_0245",
+    "word": "被る",
+    "meaning": {
+      "en": "to put on (hat / helmet)",
+      "zh_TW": "戴",
+      "zh_CN": "戴",
+      "ko": "(모자/헬멧을) 쓰다",
+      "zh_HK": "戴",
+      "fr": "mettre (chapeau / casque)"
+    },
+    "current_ja": "<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>こうむ</rt></ruby>るべきではない。"
+  },
+  {
+    "id": "class_word_0259",
+    "word": "柔らかい",
+    "meaning": {
+      "en": "soft",
+      "zh_TW": "軟",
+      "zh_CN": "軟",
+      "ko": "부드러운",
+      "zh_HK": "軟",
+      "fr": "doux"
+    },
+    "current_ja": "<ruby>体<rt>からだ</rt></ruby><ruby>柔<rt>やわ</rt></ruby>らかいね。"
+  },
+  {
+    "id": "class_word_0260",
+    "word": "硬い",
+    "meaning": {
+      "en": "hard; firm",
+      "zh_TW": "硬",
+      "zh_CN": "硬",
+      "ko": "어렵다; 확고한",
+      "zh_HK": "硬",
+      "fr": "dur; ferme"
+    },
+    "current_ja": "<ruby>体<rt>からだ</rt></ruby>が<ruby>硬<rt>かた</rt></ruby>いね。"
+  },
+  {
+    "id": "class_word_0265",
+    "word": "鏡",
+    "meaning": {
+      "en": "mirror",
+      "zh_TW": "鏡子",
+      "zh_CN": "鏡子",
+      "ko": "거울",
+      "zh_HK": "鏡・鏡子",
+      "fr": "miroir"
+    },
+    "current_ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0269",
+    "word": "最前（列）",
+    "meaning": {
+      "en": "front row; very front",
+      "zh_TW": "最前排",
+      "zh_CN": "最前排",
+      "ko": "앞줄; 아주 앞쪽",
+      "zh_HK": "最前排",
+      "fr": "première rangée; très devant"
+    },
+    "current_ja": "<ruby>正直<rt>しょうじき</rt></ruby>は<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>策<rt>さく</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0272",
+    "word": "政府",
+    "meaning": {
+      "en": "government",
+      "zh_TW": "政府",
+      "zh_CN": "政府",
+      "ko": "정부",
+      "zh_HK": "政府",
+      "fr": "gouvernement"
+    },
+    "current_ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>された。"
+  },
+  {
+    "id": "class_word_0294",
+    "word": "先週",
+    "meaning": {
+      "en": "last week / la semaine dernière",
+      "zh_TW": "上週/上週",
+      "zh_CN": "上週/上週",
+      "ko": "지난주 / 지난주",
+      "zh_HK": "上週/上週",
+      "fr": "last week / la semaine dernière"
+    },
+    "current_ja": "<ruby>先週<rt>せんしゅう</rt></ruby>でした。"
+  },
+  {
+    "id": "class_word_0296",
+    "word": "来週",
+    "meaning": {
+      "en": "next week / la semaine prochaine",
+      "zh_TW": "下週/下週",
+      "zh_CN": "下週/下週",
+      "ko": "다음주 / 다음주",
+      "zh_HK": "下週/下週",
+      "fr": "next week / la semaine prochaine"
+    },
+    "current_ja": "また<ruby>再来週<rt>さらいしゅう</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0299",
+    "word": "来月",
+    "meaning": {
+      "en": "next month / le mois prochain",
+      "zh_TW": "下個月/下個月",
+      "zh_CN": "下個月/下個月",
+      "ko": "다음 달 / 다음 달",
+      "zh_HK": "下個月/下個月",
+      "fr": "next month / le mois prochain"
+    },
+    "current_ja": "<ruby>再来月<rt>さらいげつ</rt></ruby>は<ruby>１２月<rt>じゅうにがつ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0304",
+    "word": "城",
+    "meaning": {
+      "en": "castle / château",
+      "zh_TW": "城堡/城堡",
+      "zh_CN": "城堡/城堡",
+      "ko": "성 / 성",
+      "zh_HK": "城堡/城堡",
+      "fr": "castle / château"
+    },
+    "current_ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_0312",
+    "word": "料理をする",
+    "meaning": {
+      "en": "to cook / faire la cuisine",
+      "zh_TW": "做飯/做飯",
+      "zh_CN": "做飯/做飯",
+      "ko": "요리하다 / 요리하다",
+      "zh_HK": "做飯/做飯",
+      "fr": "to cook / faire la cuisine"
+    },
+    "current_ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>にはよく<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしますか？<br/>B: はい、<ruby>得意<rt>とくい</rt></ruby>なパスタやカレーを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。"
+  },
+  {
+    "id": "class_word_0318",
+    "word": "大変",
+    "meaning": {
+      "en": "tough / hard (situation) / difficile (situation) / pénible",
+      "zh_TW": "困難/困難（情境）/困難（情境）/痛苦",
+      "zh_CN": "困難/困難（情境）/困難（情境）/痛苦",
+      "ko": "힘든 / 힘든 (상황) / 어려운 (상황) / 고통스러운",
+      "zh_HK": "困難/困難（情境）/困難（情境）/痛苦",
+      "fr": "tough / hard (situation) / difficile (situation) / pénible"
+    },
+    "current_ja": "<ruby>大変<rt>たいへん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れた。"
+  },
+  {
+    "id": "class_word_0343",
+    "word": "梅雨",
+    "meaning": {
+      "en": "rainy season / saison des pluies",
+      "zh_TW": "雨季/雨季",
+      "zh_CN": "雨季/雨季",
+      "ko": "장마철/장마철",
+      "zh_HK": "雨季/雨季",
+      "fr": "rainy season / saison des pluies"
+    },
+    "current_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0344",
+    "word": "暑い",
+    "meaning": {
+      "en": "hot (weather) / chaud (temps)",
+      "zh_TW": "熱（天氣）/ chaud（溫度）",
+      "zh_CN": "熱（天氣）/ chaud（溫度）",
+      "ko": "더운 (날씨) / chaud (온도)",
+      "zh_HK": "熱（天氣）/ chaud（溫度）",
+      "fr": "hot (weather) / chaud (temps)"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0348",
+    "word": "逆",
+    "meaning": {
+      "en": "reverse / opposite / inverse / contraire",
+      "zh_TW": "反向/相反/相反/相反",
+      "zh_CN": "反向/相反/相反/相反",
+      "ko": "반대/반대/반대/반대",
+      "zh_HK": "反向/相反/相反/相反",
+      "fr": "reverse / opposite / inverse / contraire"
+    },
+    "current_ja": "<ruby>帝国<rt>ていこく</rt></ruby>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0352",
+    "word": "牛肉",
+    "meaning": {
+      "en": "beef / bœuf",
+      "zh_TW": "牛肉/牛肉",
+      "zh_CN": "牛肉/牛肉",
+      "ko": "쇠고기 / 쇠고기",
+      "zh_HK": "牛肉/牛肉",
+      "fr": "beef / bœuf"
+    },
+    "current_ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0353",
+    "word": "豚肉",
+    "meaning": {
+      "en": "pork / porc (viande)",
+      "zh_TW": "豬肉/豬肉（肉）",
+      "zh_CN": "豬肉/豬肉（肉）",
+      "ko": "돼지고기 / 돼지고기 (고기)",
+      "zh_HK": "豬肉/豬肉（肉）",
+      "fr": "pork / porc (viande)"
+    },
+    "current_ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。"
+  },
+  {
+    "id": "class_word_0358",
+    "word": "筋肉痛",
+    "meaning": {
+      "en": "muscle soreness / courbatures",
+      "zh_TW": "肌肉酸痛/疼痛",
+      "zh_CN": "肌肉酸痛/疼痛",
+      "ko": "근육통 / 통증",
+      "zh_HK": "肌肉酸痛/疼痛",
+      "fr": "muscle soreness / courbatures"
+    },
+    "current_ja": "A: <ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しぎこちないけど、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？<br/>B: <ruby>昨日<rt>きのう</rt></ruby>ジムで<ruby>筋<rt>きん</rt></ruby>トレを<ruby>頑張<rt>がんば</rt></ruby>りすぎて、<ruby>足<rt>あし</rt></ruby>がひどい<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>なんだ。"
+  },
+  {
+    "id": "class_word_0366",
+    "word": "大盛り",
+    "meaning": {
+      "en": "large portion / extra large serving / grande portion",
+      "zh_TW": "大份量/特大份量/大份量",
+      "zh_CN": "大份量/特大份量/大份量",
+      "ko": "큰 부분 / 특대형 / 큰 부분",
+      "zh_HK": "大份量/特大份量/大份量",
+      "fr": "large portion / extra large serving / grande portion"
+    },
+    "current_ja": "A: すみません、このラーメンを<ruby>大盛<rt>おおも</rt></ruby>りにできますか？<br/>B: はい、かしこまりました！<ruby>麺<rt>めん</rt></ruby>の<ruby>大盛<rt>おおも</rt></ruby>り<ruby>無料<rt>むりょう</rt></ruby>ですよ。"
+  },
+  {
+    "id": "class_word_0373",
+    "word": "成績",
+    "meaning": {
+      "en": "grades / results / notes / résultats",
+      "zh_TW": "成績/結果/筆記/結果",
+      "zh_CN": "成績/結果/筆記/結果",
+      "ko": "성적/결과/메모/결과",
+      "zh_HK": "成績/結果/筆記/結果",
+      "fr": "grades / results / notes / résultats"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。"
+  },
+  {
+    "id": "class_word_0383",
+    "word": "曲",
+    "meaning": {
+      "en": "song / music track / chanson / morceau de musique",
+      "zh_TW": "歌曲/音樂曲目/歌曲/音樂片段",
+      "zh_CN": "歌曲/音樂曲目/歌曲/音樂片段",
+      "ko": "노래/음악 트랙/노래/음악 작품",
+      "zh_HK": "歌曲/音樂曲目/歌曲/音樂片段",
+      "fr": "song / music track / chanson / morceau de musique"
+    },
+    "current_ja": "<ruby>一<rt>いち</rt></ruby><ruby>曲<rt>きょく</rt></ruby><ruby>聞<rt>き</rt></ruby>くか。"
+  },
+  {
+    "id": "class_word_0392",
+    "word": "外国人",
+    "meaning": {
+      "en": "foreigner / foreign national / étranger / étrangère",
+      "zh_TW": "外國人/外國人",
+      "zh_CN": "外國人/外國人",
+      "ko": "외국인 / 외국인",
+      "zh_HK": "外國人/外國人",
+      "fr": "foreigner / foreign national / étranger / étrangère"
+    },
+    "current_ja": "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>って<ruby>面白<rt>おもしろ</rt></ruby>いなあ。"
+  },
+  {
+    "id": "class_word_0398",
+    "word": "借りる",
+    "meaning": {
+      "en": "to borrow / to rent / emprunter / louer",
+      "zh_TW": "借/租",
+      "zh_CN": "借/租",
+      "ko": "빌리다 / 임대하다",
+      "zh_HK": "借/租",
+      "fr": "to borrow / to rent / emprunter / louer"
+    },
+    "current_ja": "<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りる<ruby>事<rt>こと</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ますか。"
+  },
+  {
+    "id": "class_word_0405",
+    "word": "記念日",
+    "meaning": {
+      "en": "anniversary / commemoration day / anniversaire / jour commémoratif",
+      "zh_TW": "週年紀念日/紀念日/生日/紀念日",
+      "zh_CN": "週年紀念日/紀念日/生日/紀念日",
+      "ko": "기념일/기념일/생일/기념일",
+      "zh_HK": "週年紀念日/紀念日/生日/紀念日",
+      "fr": "anniversary / commemoration day / anniversaire / jour commémoratif"
+    },
+    "current_ja": "A: <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>はレストランでお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>予定<rt>よてい</rt></ruby>ですか？<br/>B: はい、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>なので<ruby>静<rt>しず</rt></ruby>かなお<ruby>店<rt>みせ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。"
+  },
+  {
+    "id": "class_word_0446",
+    "word": "忙しい",
+    "meaning": {
+      "en": "busy / occupé(e)",
+      "zh_TW": "忙碌/佔用",
+      "zh_CN": "忙碌/佔用",
+      "ko": "바쁘다 / 바쁘다",
+      "zh_HK": "忙碌/佔用",
+      "fr": "busy / occupé(e)"
+    },
+    "current_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_0450",
+    "word": "入学する",
+    "meaning": {
+      "en": "to enter school / to enroll / s'inscrire / entrer à l'école",
+      "zh_TW": "進入學校/註冊",
+      "zh_CN": "進入學校/註冊",
+      "ko": "학교에 입학하다 / 입학하다",
+      "zh_HK": "進入學校/註冊",
+      "fr": "to enter school / to enroll / s'inscrire / entrer à l'école"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>裏口<rt>うらぐち</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_0460",
+    "word": "健康",
+    "meaning": {
+      "en": "health / healthy / santé / en bonne santé",
+      "zh_TW": "健康 / 健康 / santé / en bonne santé",
+      "zh_CN": "健康 / 健康 / santé / en bonne santé",
+      "ko": "건강 / 건강 / santé / en bonne santé",
+      "zh_HK": "健康 / 健康 / santé / en bonne santé",
+      "fr": "health / healthy / santé / en bonne santé"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0464",
+    "word": "進歩",
+    "meaning": {
+      "en": "progress / advancement / progrès / avancement",
+      "zh_TW": "進步/進步/進步/進步",
+      "zh_CN": "進步/進步/進步/進步",
+      "ko": "진보하다 / 진보하다 / 진보하다 / 진보하다",
+      "zh_HK": "進步/進步/進步/進步",
+      "fr": "progress / advancement / progrès / avancement"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>思想<rt>しそう</rt></ruby>は<ruby>進歩<rt>しんぽ</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0477",
+    "word": "特徴",
+    "meaning": {
+      "en": "characteristic / feature / trait / caractéristique / trait distinctif",
+      "zh_TW": "特徵/特徵/特徵/特徵/顯著特徵",
+      "zh_CN": "特徵/特徵/特徵/特徵/顯著特徵",
+      "ko": "특성 / 특성 / 특성 / 특성 / 독특한 특성",
+      "zh_HK": "特徵/特徵/特徵/特徵/顯著特徵",
+      "fr": "characteristic / feature / trait / caractéristique / trait distinctif"
+    },
+    "current_ja": "<ruby>熱情<rt>ねつじょう</rt></ruby>が<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。"
+  },
+  {
+    "id": "class_word_0487",
+    "word": "成績",
+    "meaning": {
+      "en": "grades, results (notes, résultats)",
+      "zh_TW": "成績、結果（註釋、結果）",
+      "zh_CN": "成績、結果（註釋、結果）",
+      "ko": "성적, 결과(메모, 결과)",
+      "zh_HK": "成績、結果（註釋、結果）",
+      "fr": "notes, résultats (notes, résultats)"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。"
+  },
+  {
+    "id": "class_word_0506",
+    "word": "彼女",
+    "meaning": {
+      "en": "girlfriend",
+      "zh_TW": "女朋友",
+      "zh_CN": "女朋友",
+      "ko": "여자친구",
+      "zh_HK": "女朋友",
+      "fr": "petite amie"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。"
+  },
+  {
+    "id": "class_word_0509",
+    "word": "試験",
+    "meaning": {
+      "en": "examination / test / exam",
+      "zh_TW": "考試/測驗/考試",
+      "zh_CN": "考試/測驗/考試",
+      "ko": "시험/시험/시험",
+      "zh_HK": "考試/測驗/考試",
+      "fr": "examen / test / examen"
+    },
+    "current_ja": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0513",
+    "word": "豚肉",
+    "meaning": {
+      "en": "pork",
+      "zh_TW": "豬肉",
+      "zh_CN": "豬肉",
+      "ko": "돼지고기",
+      "zh_HK": "豬肉",
+      "fr": "porc"
+    },
+    "current_ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。"
+  },
+  {
+    "id": "class_word_0516",
+    "word": "都道府県",
+    "meaning": {
+      "en": "prefectures of Japan",
+      "zh_TW": "都道府縣",
+      "zh_CN": "都道府縣",
+      "ko": "도도부현",
+      "zh_HK": "都道府縣",
+      "fr": "préfectures du Japon"
+    },
+    "current_ja": "A: <ruby>日本<rt>にほん</rt></ruby>の47<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、どこに<ruby>行<rt>い</rt></ruby>ってみたいですか？<br/>B: <ruby>北海道<rt>ほっかいどう</rt></ruby>と<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>をゆっくり<ruby>旅<rt>たび</rt></ruby>してみたいです。"
+  },
+  {
+    "id": "class_word_0521",
+    "word": "音楽",
+    "meaning": {
+      "en": "music",
+      "zh_TW": "音樂",
+      "zh_CN": "音樂",
+      "ko": "음악",
+      "zh_HK": "音樂",
+      "fr": "musique"
+    },
+    "current_ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？"
+  },
+  {
+    "id": "class_word_0526",
+    "word": "身長",
+    "meaning": {
+      "en": "height (measurement)",
+      "zh_TW": "身高",
+      "zh_CN": "身高",
+      "ko": "신장(측정)",
+      "zh_HK": "身高",
+      "fr": "hauteur (mesure)"
+    },
+    "current_ja": "<ruby>身長<rt>しんちょう</rt></ruby><ruby>何<rt>なん</rt></ruby>センチ？"
+  },
+  {
+    "id": "class_word_0529",
+    "word": "地元",
+    "meaning": {
+      "en": "hometown; where one is from",
+      "zh_TW": "家鄉・故鄉",
+      "zh_CN": "家鄉・故鄉",
+      "ko": "고향; 어디서 왔는지",
+      "zh_HK": "老家・家鄉",
+      "fr": "ville natale; d'où l'on vient"
+    },
+    "current_ja": "<ruby>地元<rt>じもと</rt></ruby>のチームは<ruby>勝<rt>か</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0547",
+    "word": "借りる",
+    "meaning": {
+      "en": "to borrow",
+      "zh_TW": "借",
+      "zh_CN": "借",
+      "ko": "빌리다",
+      "zh_HK": "借",
+      "fr": "emprunter"
+    },
+    "current_ja": "<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りる<ruby>事<rt>こと</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ますか。"
+  },
+  {
+    "id": "class_word_0549",
+    "word": "経験",
+    "meaning": {
+      "en": "experience",
+      "zh_TW": "經驗",
+      "zh_CN": "經驗",
+      "ko": "경험",
+      "zh_HK": "經驗",
+      "fr": "expérience"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0555",
+    "word": "教科書",
+    "meaning": {
+      "en": "textbook",
+      "zh_TW": "課本",
+      "zh_CN": "課本",
+      "ko": "교과서",
+      "zh_HK": "課本",
+      "fr": "manuel"
+    },
+    "current_ja": "<ruby>教科書<rt>きょうかしょ</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0557",
+    "word": "踊る",
+    "meaning": {
+      "en": "to dance",
+      "zh_TW": "跳舞",
+      "zh_CN": "跳舞",
+      "ko": "춤을 추다",
+      "zh_HK": "跳舞",
+      "fr": "danser"
+    },
+    "current_ja": "<ruby>踊<rt>おど</rt></ruby>るのが<ruby>大<rt>だい</rt></ruby>っ<ruby>嫌<rt>きら</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0558",
+    "word": "関係",
+    "meaning": {
+      "en": "relation, connection",
+      "zh_TW": "關係，聯繫",
+      "zh_CN": "關係，聯繫",
+      "ko": "관계, 연결",
+      "zh_HK": "關係，聯繫",
+      "fr": "relation, connexion"
+    },
+    "current_ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0566",
+    "word": "見学",
+    "meaning": {
+      "en": "to visit and tour a place",
+      "zh_TW": "參觀和遊覽一個地方",
+      "zh_CN": "參觀和遊覽一個地方",
+      "ko": "장소를 방문하고 둘러보다",
+      "zh_HK": "參觀和遊覽一個地方",
+      "fr": "visiter et visiter un lieu"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_0571",
+    "word": "平日",
+    "meaning": {
+      "en": "weekday",
+      "zh_TW": "工作日",
+      "zh_CN": "工作日",
+      "ko": "평일",
+      "zh_HK": "工作日",
+      "fr": "jour de la semaine"
+    },
+    "current_ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0572",
+    "word": "方言",
+    "meaning": {
+      "en": "dialect",
+      "zh_TW": "方言",
+      "zh_CN": "方言",
+      "ko": "방언",
+      "zh_HK": "方言",
+      "fr": "dialecte"
+    },
+    "current_ja": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>は<ruby>聞き取<rt>ききと</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0583",
+    "word": "地獄",
+    "meaning": {
+      "en": "hell",
+      "zh_TW": "地獄",
+      "zh_CN": "地獄",
+      "ko": "지옥",
+      "zh_HK": "地獄",
+      "fr": "enfer"
+    },
+    "current_ja": "<ruby>地獄<rt>じごく</rt></ruby>も<ruby>住<rt>じゅう</rt></ruby><ruby>家<rt>か</rt></ruby>。"
+  },
+  {
+    "id": "class_word_0584",
+    "word": "隠れる",
+    "meaning": {
+      "en": "to hide",
+      "zh_TW": "隱藏",
+      "zh_CN": "隱藏",
+      "ko": "숨기다",
+      "zh_HK": "隱藏",
+      "fr": "se cacher"
+    },
+    "current_ja": "スタジオはとても<ruby>狭<rt>せま</rt></ruby>くて、<ruby>隠<rt>かく</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>はない。"
+  },
+  {
+    "id": "class_word_0589",
+    "word": "城",
+    "meaning": {
+      "en": "castle / fortress",
+      "zh_TW": "城",
+      "zh_CN": "城",
+      "ko": "성",
+      "zh_HK": "城",
+      "fr": "château / forteresse"
+    },
+    "current_ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_0596",
+    "word": "扇風機",
+    "meaning": {
+      "en": "electric fan",
+      "zh_TW": "電風扇",
+      "zh_CN": "電風扇",
+      "ko": "선풍기",
+      "zh_HK": "電風扇",
+      "fr": "ventilateur électrique"
+    },
+    "current_ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。"
+  },
+  {
+    "id": "class_word_0597",
+    "word": "今のところ",
+    "meaning": {
+      "en": "for now / so far / at this point",
+      "zh_TW": "目前為止",
+      "zh_CN": "目前為止",
+      "ko": "지금으로서는 / 아직까지는",
+      "zh_HK": "到目前為止",
+      "fr": "pour l'instant / jusqu'à présent / à ce stade"
+    },
+    "current_ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>はありますか？<br/>B: <ruby>今<rt>いま</rt></ruby>のところ<ruby>晴<rt>は</rt></ruby>れの<ruby>予報<rt>よほう</rt></ruby>だから、<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りピクニックに<ruby>行<rt>い</rt></ruby>けそうだね。"
+  },
+  {
+    "id": "class_word_0608",
+    "word": "扇風機",
+    "meaning": {
+      "en": "electric fan",
+      "zh_TW": "電風扇",
+      "zh_CN": "電風扇",
+      "ko": "선풍기",
+      "zh_HK": "電風扇",
+      "fr": "ventilateur électrique"
+    },
+    "current_ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。"
+  },
+  {
+    "id": "class_word_0609",
+    "word": "梅雨",
+    "meaning": {
+      "en": "rainy season / monsoon season",
+      "zh_TW": "梅雨季",
+      "zh_CN": "梅雨季",
+      "ko": "장마",
+      "zh_HK": "梅雨",
+      "fr": "saison des pluies / saison de la mousson"
+    },
+    "current_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0620",
+    "word": "成績",
+    "meaning": {
+      "en": "grades / results / academic record",
+      "zh_TW": "成績",
+      "zh_CN": "成績",
+      "ko": "성적",
+      "zh_HK": "成績",
+      "fr": "notes / résultats / dossier académique"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。"
+  },
+  {
+    "id": "class_word_0623",
+    "word": "お金がかかる",
+    "meaning": {
+      "en": "to cost money / to be expensive",
+      "zh_TW": "花錢",
+      "zh_CN": "花錢",
+      "ko": "돈이 들다",
+      "zh_HK": "要花很多錢",
+      "fr": "coûter de l'argent / être cher"
+    },
+    "current_ja": "A: <ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、やはり<ruby>色々<rt>いろいろ</rt></ruby>とお<ruby>金<rt>かね</rt></ruby>がかかりますか？<br/>B: そうですね、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>で<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。"
+  },
+  {
+    "id": "class_word_0624",
+    "word": "本棚",
+    "meaning": {
+      "en": "bookshelf / bookcase",
+      "zh_TW": "書櫃",
+      "zh_CN": "書櫃",
+      "ko": "책장",
+      "zh_HK": "書架",
+      "fr": "bibliothèque / bibliothèque"
+    },
+    "current_ja": "ジョンは<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0658",
+    "word": "履く",
+    "meaning": {
+      "en": "to put on shoes / socks / pants (feet & legs)",
+      "zh_TW": "穿鞋/襪子/褲子（腳和腿）",
+      "zh_CN": "穿鞋/襪子/褲子（腳和腿）",
+      "ko": "to put on shoes / socks / pants (feet & legs)",
+      "zh_HK": "穿鞋/襪子/褲子（腳和腿）",
+      "fr": "mettre des chaussures / chaussettes / pantalons (pieds et jambes)"
+    },
+    "current_ja": "<ruby>木靴<rt>きぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きだ。"
+  },
+  {
+    "id": "class_word_0669",
+    "word": "円満",
+    "meaning": {
+      "en": "harmonious / amicable / peaceful",
+      "zh_TW": "和諧/友善/平和",
+      "zh_CN": "和諧/友善/平和",
+      "ko": "harmonious / amicable / peaceful",
+      "zh_HK": "和諧/友善/平和",
+      "fr": "harmonieux / amical / paisible"
+    },
+    "current_ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0674",
+    "word": "譲る",
+    "meaning": {
+      "en": "to give way / to yield / to hand over",
+      "zh_TW": "讓路/屈服/移交",
+      "zh_CN": "讓路/屈服/移交",
+      "ko": "to give way / to yield / to hand over",
+      "zh_HK": "讓路/屈服/移交",
+      "fr": "céder / céder / céder"
+    },
+    "current_ja": "<ruby>若者<rt>わかもの</rt></ruby>は<ruby>老人<rt>ろうじん</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るべきだ。"
+  },
+  {
+    "id": "class_word_0675",
+    "word": "被る",
+    "meaning": {
+      "en": "to wear on the head / to overlap / to clash",
+      "zh_TW": "戴在頭上/重疊/碰撞",
+      "zh_CN": "戴在頭上/重疊/碰撞",
+      "ko": "to wear on the head / to overlap / to clash",
+      "zh_HK": "戴在頭上/重疊/碰撞",
+      "fr": "porter sur la tête / se chevaucher / se heurter"
+    },
+    "current_ja": "<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>こうむ</rt></ruby>るべきではない。"
+  },
+  {
+    "id": "class_word_0852",
+    "word": "円満",
+    "meaning": {
+      "en": "harmonious / peaceful",
+      "zh_TW": "圓滿",
+      "zh_CN": "圓滿",
+      "ko": "원만하다",
+      "zh_HK": "圓滿",
+      "fr": "harmonieux / paisible"
+    },
+    "current_ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0879",
+    "word": "接客",
+    "meaning": {
+      "en": "손님 응대 / 서비스 / 접객",
+      "zh_TW": "客戶服務/服務/接待",
+      "zh_CN": "客戶服務/服務/接待",
+      "ko": "손님 응대 / 서비스 / 접객",
+      "zh_HK": "客戶服務/服務/接待",
+      "fr": "Service client / service / hospitalité"
+    },
+    "current_ja": "A: カフェでのアルバイトは<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>になりますか？<br/>B: はい、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるとお<ruby>客様<rt>きゃくさま</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>んでくれます。"
+  },
+  {
+    "id": "class_word_0893",
+    "word": "城",
+    "meaning": {
+      "en": "castle / fortress",
+      "zh_TW": "城堡",
+      "zh_CN": "城堡",
+      "ko": "성 / 성곽",
+      "zh_HK": "城",
+      "fr": "château / forteresse"
+    },
+    "current_ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_0898",
+    "word": "渋滞",
+    "meaning": {
+      "en": "traffic jam / congestion",
+      "zh_TW": "塞車",
+      "zh_CN": "塞車",
+      "ko": "교통체증 / 정체",
+      "zh_HK": "交通堵塞",
+      "fr": "embouteillage / embouteillage"
+    },
+    "current_ja": "<ruby>渋滞<rt>じゅうたい</rt></ruby>はないです。"
+  },
+  {
+    "id": "class_word_0906",
+    "word": "暴力",
+    "meaning": {
+      "en": "violence",
+      "zh_TW": "暴力",
+      "zh_CN": "暴力",
+      "ko": "폭력",
+      "zh_HK": "暴力",
+      "fr": "violence"
+    },
+    "current_ja": "<ruby>暴力<rt>ぼうりょく</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>のガンだ。"
+  },
+  {
+    "id": "class_word_0918",
+    "word": "洪水",
+    "meaning": {
+      "en": "flood / flooding",
+      "zh_TW": "洪水",
+      "zh_CN": "洪水",
+      "ko": "홍수",
+      "zh_HK": "水災",
+      "fr": "inondation / inondation"
+    },
+    "current_ja": "<ruby>洪水<rt>こうずい</rt></ruby>で<ruby>橋<rt>はし</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた。"
+  },
+  {
+    "id": "class_word_0919",
+    "word": "飛ばす—スキップする",
+    "meaning": {
+      "en": "to skip / to jump over",
+      "zh_TW": "跳過",
+      "zh_CN": "跳過",
+      "ko": "건너뛰다 / 스킵하다",
+      "zh_HK": "略過",
+      "fr": "sauter / sauter par-dessus"
+    },
+    "current_ja": "テストで<ruby>解<rt>わか</rt></ruby>らないところは<ruby>飛<rt>と</rt></ruby>ばす。"
+  },
+  {
+    "id": "class_word_0920",
+    "word": "飛ばす—飛行機などを飛ばす",
+    "meaning": {
+      "en": "to fly / to launch / to send through the air",
+      "zh_TW": "放飛",
+      "zh_CN": "放飛",
+      "ko": "날리다 / 띄우다",
+      "zh_HK": "讓⋯飛",
+      "fr": "voler / lancer / envoyer dans les airs"
+    },
+    "current_ja": "テストで<ruby>解<rt>わか</rt></ruby>らないところは<ruby>飛<rt>と</rt></ruby>ばす。"
+  },
+  {
+    "id": "class_word_0925",
+    "word": "梅雨",
+    "meaning": {
+      "en": "rainy season / monsoon season",
+      "zh_TW": "梅雨季",
+      "zh_CN": "梅雨季",
+      "ko": "장마",
+      "zh_HK": "梅雨",
+      "fr": "saison des pluies / saison de la mousson"
+    },
+    "current_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_0928",
+    "word": "日焼け",
+    "meaning": {
+      "en": "suntan / sunburn",
+      "zh_TW": "曬傷",
+      "zh_CN": "曬傷",
+      "ko": "햇볕에 탐 / 일광화상",
+      "zh_HK": "曬黑",
+      "fr": "bronzage / coup de soleil"
+    },
+    "current_ja": "<ruby>日焼<rt>ひや</rt></ruby>けが<ruby>痛<rt>いた</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1051",
+    "word": "末っ子",
+    "meaning": {
+      "en": "막내 / youngest child / youngest sibling",
+      "zh_TW": "最小的/最小的孩子/最小的兄弟姊妹",
+      "zh_CN": "最小的/最小的孩子/最小的兄弟姊妹",
+      "ko": "막내 / youngest child / youngest sibling",
+      "zh_HK": "最小的/最小的孩子/最小的兄弟姊妹",
+      "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1052",
+    "word": "礼儀",
+    "meaning": {
+      "en": "예의 / 예절 / manners / etiquette / courtesy",
+      "zh_TW": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "zh_CN": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "ko": "예의 / 예절 / manners / etiquette / courtesy",
+      "zh_HK": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_1053",
+    "word": "大家",
+    "meaning": {
+      "en": "집주인 / 건물주 / landlord / property owner",
+      "zh_TW": "房東 / 業主 / 房東 / 業主",
+      "zh_CN": "房東 / 業主 / 房東 / 業主",
+      "ko": "집주인 / 건물주 / landlord / property owner",
+      "zh_HK": "房東 / 業主 / 房東 / 業主",
+      "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
+    },
+    "current_ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？"
+  },
+  {
+    "id": "class_word_1057",
+    "word": "接客",
+    "meaning": {
+      "en": "접객 / 손님 응대 / customer service / serving customers",
+      "zh_TW": "款待/服務客戶/客戶服務/服務客戶",
+      "zh_CN": "款待/服務客戶/客戶服務/服務客戶",
+      "ko": "접객 / 손님 응대 / customer service / serving customers",
+      "zh_HK": "款待/服務客戶/客戶服務/服務客戶",
+      "fr": "Hôtellerie / servir les clients / service client / servir les clients"
+    },
+    "current_ja": "A: カフェでのアルバイトは<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>になりますか？<br/>B: はい、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるとお<ruby>客様<rt>きゃくさま</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>んでくれます。"
+  },
+  {
+    "id": "class_word_1065",
+    "word": "以降",
+    "meaning": {
+      "en": "이후 / after / from〜 onwards",
+      "zh_TW": "之後/之後/從〜開始",
+      "zh_CN": "之後/之後/從〜開始",
+      "ko": "이후 / after / from〜 onwards",
+      "zh_HK": "之後/之後/從〜開始",
+      "fr": "Après / après / à partir de〜"
+    },
+    "current_ja": "<ruby>昼<rt>ひる</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るの？"
+  },
+  {
+    "id": "class_word_1070",
+    "word": "平日",
+    "meaning": {
+      "en": "평일 / weekday / weekdays",
+      "zh_TW": "平日/平日/平日",
+      "zh_CN": "平日/平日/平日",
+      "ko": "평일 / weekday / weekdays",
+      "zh_HK": "平日/平日/平日",
+      "fr": "jours de la semaine / jour de la semaine / jours de la semaine"
+    },
+    "current_ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1073",
+    "word": "外国人",
+    "meaning": {
+      "en": "외국인 / foreigner / non-native",
+      "zh_TW": "外國人/外國人/非本地人",
+      "zh_CN": "外國人/外國人/非本地人",
+      "ko": "외국인 / foreigner / non-native",
+      "zh_HK": "外國人/外國人/非本地人",
+      "fr": "étranger / étranger / non-autochtone"
+    },
+    "current_ja": "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>って<ruby>面白<rt>おもしろ</rt></ruby>いなあ。"
+  },
+  {
+    "id": "class_word_1078",
+    "word": "末っ子",
+    "meaning": {
+      "en": "막내 / youngest child / youngest sibling",
+      "zh_TW": "最小的/最小的孩子/最小的兄弟姊妹",
+      "zh_CN": "最小的/最小的孩子/最小的兄弟姊妹",
+      "ko": "막내 / youngest child / youngest sibling",
+      "zh_HK": "最小的/最小的孩子/最小的兄弟姊妹",
+      "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1079",
+    "word": "礼儀",
+    "meaning": {
+      "en": "예의 / 예절 / manners / etiquette / courtesy",
+      "zh_TW": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "zh_CN": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "ko": "예의 / 예절 / manners / etiquette / courtesy",
+      "zh_HK": "禮貌/禮儀/禮貌/禮儀/禮貌",
+      "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_1080",
+    "word": "大家",
+    "meaning": {
+      "en": "집주인 / 건물주 / landlord / property owner",
+      "zh_TW": "房東 / 業主 / 房東 / 業主",
+      "zh_CN": "房東 / 業主 / 房東 / 業主",
+      "ko": "집주인 / 건물주 / landlord / property owner",
+      "zh_HK": "房東 / 業主 / 房東 / 業主",
+      "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
+    },
+    "current_ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？"
+  },
+  {
+    "id": "class_word_1085",
+    "word": "扇風機",
+    "meaning": {
+      "en": "선풍기 / electric fan / fan",
+      "zh_TW": "電風扇/電風扇/風扇",
+      "zh_CN": "電風扇/電風扇/風扇",
+      "ko": "선풍기 / electric fan / fan",
+      "zh_HK": "電風扇/電風扇/風扇",
+      "fr": "ventilateur électrique / ventilateur électrique / ventilateur"
+    },
+    "current_ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。"
+  },
+  {
+    "id": "class_word_1111",
+    "word": "曲",
+    "meaning": {
+      "en": "곡 / 노래 / song / track / piece of music",
+      "zh_TW": "歌曲/歌曲/歌曲/曲目/音樂片段",
+      "zh_CN": "歌曲/歌曲/歌曲/曲目/音樂片段",
+      "ko": "곡 / 노래 / song / track / piece of music",
+      "zh_HK": "歌曲/歌曲/歌曲/曲目/音樂片段",
+      "fr": "chanson / chanson / chanson / piste / morceau de musique"
+    },
+    "current_ja": "<ruby>一<rt>いち</rt></ruby><ruby>曲<rt>きょく</rt></ruby><ruby>聞<rt>き</rt></ruby>くか。"
+  },
+  {
+    "id": "class_word_1121",
+    "word": "見学",
+    "meaning": {
+      "en": "견학 / 구경 / field trip / tour / visit",
+      "zh_TW": "實地考察/遊覽/參觀",
+      "zh_CN": "實地考察/遊覽/參觀",
+      "ko": "견학 / 구경 / field trip / tour / visit",
+      "zh_HK": "實地考察/遊覽/參觀",
+      "fr": "excursion / visite / visite"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_1127",
+    "word": "譲る",
+    "meaning": {
+      "en": "양보하다 / 넘겨주다 / 물러서다 / to give way / to hand over / to yield",
+      "zh_TW": "讓步/移交/讓步/讓步/移交/讓步",
+      "zh_CN": "讓步/移交/讓步/讓步/移交/讓步",
+      "ko": "양보하다 / 넘겨주다 / 물러서다 / to give way / to hand over / to yield",
+      "zh_HK": "讓步/移交/讓步/讓步/移交/讓步",
+      "fr": "céder / céder / se retirer / céder / céder / céder"
+    },
+    "current_ja": "<ruby>若者<rt>わかもの</rt></ruby>は<ruby>老人<rt>ろうじん</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るべきだ。"
+  },
+  {
+    "id": "class_word_1139",
+    "word": "以降",
+    "meaning": {
+      "en": "이후 / after / from〜 onwards",
+      "zh_TW": "之後/之後/從〜開始",
+      "zh_CN": "之後/之後/從〜開始",
+      "ko": "이후 / after / from〜 onwards",
+      "zh_HK": "之後/之後/從〜開始",
+      "fr": "Après / après / à partir de〜"
+    },
+    "current_ja": "<ruby>昼<rt>ひる</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るの？"
+  },
+  {
+    "id": "class_word_1149",
+    "word": "地下鉄",
+    "meaning": {
+      "en": "subway",
+      "zh_TW": "捷運",
+      "zh_CN": "捷運",
+      "ko": "지하철",
+      "zh_HK": "捷運",
+      "fr": "métro"
+    },
+    "current_ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろう。"
+  },
+  {
+    "id": "class_word_1157",
+    "word": "教科",
+    "meaning": {
+      "en": "subject / school subject",
+      "zh_TW": "科目",
+      "zh_CN": "科目",
+      "ko": "교과 / 과목",
+      "zh_HK": "學科",
+      "fr": "matière / matière scolaire"
+    },
+    "current_ja": "<ruby>教科書<rt>きょうかしょ</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1164",
+    "word": "声",
+    "meaning": {
+      "en": "voice",
+      "zh_TW": "聲音",
+      "zh_CN": "聲音",
+      "ko": "목소리 / 소리",
+      "zh_HK": "嗓音",
+      "fr": "voix"
+    },
+    "current_ja": "<ruby>声援<rt>せいえん</rt></ruby>がやんだ。"
+  },
+  {
+    "id": "class_word_1209",
+    "word": "祝日",
+    "meaning": {
+      "en": "공휴일 / 빨간날 / public holiday / national holiday",
+      "zh_TW": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+      "zh_CN": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+      "ko": "공휴일 / 빨간날 / public holiday / national holiday",
+      "zh_HK": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+      "fr": "jour férié / jour rouge / jour férié / fête nationale"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1219",
+    "word": "末っ子",
+    "meaning": {
+      "en": "youngest child",
+      "zh_TW": "最小的孩子",
+      "zh_CN": "最小的孩子",
+      "ko": "막내",
+      "zh_HK": "最小的孩子",
+      "fr": "le plus jeune enfant"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1225",
+    "word": "試験",
+    "meaning": {
+      "en": "exam / test",
+      "zh_TW": "考試/測試",
+      "zh_CN": "考試/測試",
+      "ko": "시험/시험",
+      "zh_HK": "考試/測試",
+      "fr": "examen / test"
+    },
+    "current_ja": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1229",
+    "word": "牛肉",
+    "meaning": {
+      "en": "beef",
+      "zh_TW": "牛肉",
+      "zh_CN": "牛肉",
+      "ko": "쇠고기",
+      "zh_HK": "牛肉",
+      "fr": "boeuf"
+    },
+    "current_ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1230",
+    "word": "豚肉",
+    "meaning": {
+      "en": "pork",
+      "zh_TW": "豬肉",
+      "zh_CN": "豬肉",
+      "ko": "돼지고기",
+      "zh_HK": "豬肉",
+      "fr": "porc"
+    },
+    "current_ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。"
+  },
+  {
+    "id": "class_word_1235",
+    "word": "僕",
+    "meaning": {
+      "en": "I / me — casual male first person",
+      "zh_TW": "我/我－休閒男性第一人稱",
+      "zh_CN": "我/我－休閒男性第一人稱",
+      "ko": "나（남성 캐주얼）",
+      "zh_HK": "我/我－休閒男性第一人稱",
+      "fr": "Je / moi – homme occasionnel à la première personne"
+    },
+    "current_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。"
+  },
+  {
+    "id": "class_word_1244",
+    "word": "家族",
+    "meaning": {
+      "en": "family",
+      "zh_TW": "家人",
+      "zh_CN": "家人",
+      "ko": "가족",
+      "zh_HK": "家族",
+      "fr": "famille"
+    },
+    "current_ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？"
+  },
+  {
+    "id": "class_word_1245",
+    "word": "彼女",
+    "meaning": {
+      "en": "girlfriend / she / her",
+      "zh_TW": "女朋友（彼女）",
+      "zh_CN": "女朋友（彼女）",
+      "ko": "여자친구（彼女） / 그녀（she）",
+      "zh_HK": "她（she）",
+      "fr": "petite amie/elle/elle"
+    },
+    "current_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。"
+  },
+  {
+    "id": "class_word_1249",
+    "word": "心",
+    "meaning": {
+      "en": "heart / mind / feelings",
+      "zh_TW": "心",
+      "zh_CN": "心",
+      "ko": "마음",
+      "zh_HK": "心情",
+      "fr": "cœur/esprit/sentiments"
+    },
+    "current_ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。"
+  },
+  {
+    "id": "class_word_1254",
+    "word": "先週",
+    "meaning": {
+      "en": "last week",
+      "zh_TW": "上週",
+      "zh_CN": "上週",
+      "ko": "지난주",
+      "zh_HK": "上個禮拜",
+      "fr": "la semaine dernière"
+    },
+    "current_ja": "<ruby>先週<rt>せんしゅう</rt></ruby>でした。"
+  },
+  {
+    "id": "class_word_1255",
+    "word": "来月",
+    "meaning": {
+      "en": "next month",
+      "zh_TW": "下個月",
+      "zh_CN": "下個月",
+      "ko": "다음 달",
+      "zh_HK": "下個月",
+      "fr": "le mois prochain"
+    },
+    "current_ja": "<ruby>再来月<rt>さらいげつ</rt></ruby>は<ruby>１２月<rt>じゅうにがつ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1276",
+    "word": "地下鉄",
+    "meaning": {
+      "en": "subway / metro",
+      "zh_TW": "捷運",
+      "zh_CN": "捷運",
+      "ko": "지하철",
+      "zh_HK": "地鐵",
+      "fr": "métro / métro"
+    },
+    "current_ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろう。"
+  },
+  {
+    "id": "class_word_1278",
+    "word": "計画",
+    "meaning": {
+      "en": "plan / schedule",
+      "zh_TW": "計畫",
+      "zh_CN": "計畫",
+      "ko": "계획",
+      "zh_HK": "計劃",
+      "fr": "plan / calendrier"
+    },
+    "current_ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。"
+  },
+  {
+    "id": "class_word_1279",
+    "word": "末っ子",
+    "meaning": {
+      "en": "youngest child",
+      "zh_TW": "老么",
+      "zh_CN": "老么",
+      "ko": "막내",
+      "zh_HK": "最小的孩子",
+      "fr": "le plus jeune enfant"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1289",
+    "word": "暑い",
+    "meaning": {
+      "en": "덥다 / hot (weather) / to be hot",
+      "zh_TW": "熱/熱（天氣）/很熱",
+      "zh_CN": "熱/熱（天氣）/很熱",
+      "ko": "덥다 / hot (weather) / to be hot",
+      "zh_HK": "熱/熱（天氣）/很熱",
+      "fr": "덥다 / chaud (temps) / avoir chaud"
+    },
+    "current_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1292",
+    "word": "多い",
+    "meaning": {
+      "en": "많다 / many / a lot / to be a lot",
+      "zh_TW": "很多/很多/很多/很多",
+      "zh_CN": "很多/很多/很多/很多",
+      "ko": "많다 / many / a lot / to be a lot",
+      "zh_HK": "很多/很多/很多/很多",
+      "fr": "많다 / beaucoup / beaucoup / être beaucoup"
+    },
+    "current_ja": "<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1338",
+    "word": "牛肉",
+    "meaning": {
+      "en": "beef",
+      "zh_TW": "牛肉",
+      "zh_CN": "牛肉",
+      "ko": "소고기",
+      "zh_HK": "牛肉",
+      "fr": "boeuf"
+    },
+    "current_ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1339",
+    "word": "豚肉",
+    "meaning": {
+      "en": "pork",
+      "zh_TW": "豬肉",
+      "zh_CN": "豬肉",
+      "ko": "돼지고기",
+      "zh_HK": "豬肉",
+      "fr": "porc"
+    },
+    "current_ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。"
+  },
+  {
+    "id": "class_word_1363",
+    "word": "関係",
+    "meaning": {
+      "en": "relationship / connection",
+      "zh_TW": "關係",
+      "zh_CN": "關係",
+      "ko": "관계",
+      "zh_HK": "關係",
+      "fr": "relation / connexion"
+    },
+    "current_ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1364",
+    "word": "庭",
+    "meaning": {
+      "en": "garden / yard",
+      "zh_TW": "庭院",
+      "zh_CN": "庭院",
+      "ko": "정원 / 마당",
+      "zh_HK": "院子",
+      "fr": "jardin / cour"
+    },
+    "current_ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1366",
+    "word": "手入れ",
+    "meaning": {
+      "en": "maintenance / upkeep / care",
+      "zh_TW": "保養",
+      "zh_CN": "保養",
+      "ko": "관리 / 손질",
+      "zh_HK": "維護",
+      "fr": "entretien / entretien / entretien"
+    },
+    "current_ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>手入<rt>てい</rt></ruby>れしないと。"
+  },
+  {
+    "id": "class_word_1369",
+    "word": "平日",
+    "meaning": {
+      "en": "weekday",
+      "zh_TW": "平日",
+      "zh_CN": "平日",
+      "ko": "평일",
+      "zh_HK": "工作日",
+      "fr": "jour de la semaine"
+    },
+    "current_ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1384",
+    "word": "社会",
+    "meaning": {
+      "en": "society",
+      "zh_TW": "社會",
+      "zh_CN": "社會",
+      "ko": "사회",
+      "zh_HK": "社會",
+      "fr": "société"
+    },
+    "current_ja": "<ruby>暴力<rt>ぼうりょく</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>のガンだ。"
+  },
+  {
+    "id": "class_word_1392",
+    "word": "多い",
+    "meaning": {
+      "en": "many / a lot",
+      "zh_TW": "很多/很多",
+      "zh_CN": "很多/很多",
+      "ko": "많다/많다",
+      "zh_HK": "很多/很多",
+      "fr": "beaucoup / beaucoup"
+    },
+    "current_ja": "<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1399",
+    "word": "地元",
+    "meaning": {
+      "en": "local area / one's own neighborhood",
+      "zh_TW": "當地",
+      "zh_CN": "當地",
+      "ko": "동네 / 지역",
+      "zh_HK": "住的地方",
+      "fr": "territoire / son propre quartier"
+    },
+    "current_ja": "<ruby>地元<rt>じもと</rt></ruby>のチームは<ruby>勝<rt>か</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_1403",
+    "word": "大変",
+    "meaning": {
+      "en": "tough / hard / a lot",
+      "zh_TW": "辛苦",
+      "zh_CN": "辛苦",
+      "ko": "힘들다 / 대단하다",
+      "zh_HK": "不容易 / 很多",
+      "fr": "dur / dur / beaucoup"
+    },
+    "current_ja": "<ruby>大変<rt>たいへん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れた。"
+  },
+  {
+    "id": "class_word_1406",
+    "word": "暗い—光",
+    "meaning": {
+      "en": "dark (light)",
+      "zh_TW": "昏暗",
+      "zh_CN": "昏暗",
+      "ko": "어둡다",
+      "zh_HK": "黑暗",
+      "fr": "sombre (clair)"
+    },
+    "current_ja": "<ruby>戸外<rt>こがい</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1407",
+    "word": "暗い—性格",
+    "meaning": {
+      "en": "gloomy / introverted",
+      "zh_TW": "陰沉",
+      "zh_CN": "陰沉",
+      "ko": "어둡다 / 내성적이다",
+      "zh_HK": "消極",
+      "fr": "sombre / introverti"
+    },
+    "current_ja": "<ruby>戸外<rt>こがい</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1451",
+    "word": "健康",
+    "meaning": {
+      "en": "healthy / good health",
+      "zh_TW": "健康",
+      "zh_CN": "健康",
+      "ko": "건강하다",
+      "zh_HK": "健康",
+      "fr": "en bonne santé / bonne santé"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1459",
+    "word": "梅雨",
+    "meaning": {
+      "en": "rainy season / monsoon season",
+      "zh_TW": "梅雨季",
+      "zh_CN": "梅雨季",
+      "ko": "장마",
+      "zh_HK": "梅雨",
+      "fr": "saison des pluies / saison de la mousson"
+    },
+    "current_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_1476",
+    "word": "隠れる",
+    "meaning": {
+      "en": "to hide / to be hidden",
+      "zh_TW": "躲藏",
+      "zh_CN": "躲藏",
+      "ko": "숨다",
+      "zh_HK": "隱藏",
+      "fr": "se cacher / être caché"
+    },
+    "current_ja": "スタジオはとても<ruby>狭<rt>せま</rt></ruby>くて、<ruby>隠<rt>かく</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>はない。"
+  },
+  {
+    "id": "class_word_1482",
+    "word": "政府",
+    "meaning": {
+      "en": "government",
+      "zh_TW": "政府",
+      "zh_CN": "政府",
+      "ko": "정부",
+      "zh_HK": "政府",
+      "fr": "gouvernement"
+    },
+    "current_ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>された。"
+  },
+  {
+    "id": "class_word_1492",
+    "word": "趣味",
+    "meaning": {
+      "en": "hobby",
+      "zh_TW": "興趣",
+      "zh_CN": "興趣",
+      "ko": "취미",
+      "zh_HK": "嗜好",
+      "fr": "passe-temps"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多趣味<rt>たしゅみ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1502",
+    "word": "手入れ",
+    "meaning": {
+      "en": "grooming; upkeep; care",
+      "zh_TW": "保養・整理",
+      "zh_CN": "保養・整理",
+      "ko": "손질; 유리; 배려",
+      "zh_HK": "保養・打理",
+      "fr": "toilettage; entretien; prendre soin"
+    },
+    "current_ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>手入<rt>てい</rt></ruby>れしないと。"
+  },
+  {
+    "id": "class_word_1516",
+    "word": "環境",
+    "meaning": {
+      "en": "environment",
+      "zh_TW": "環境",
+      "zh_CN": "環境",
+      "ko": "환경",
+      "zh_HK": "環境",
+      "fr": "environnement"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>順応<rt>じゅんのう</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_1527",
+    "word": "進歩",
+    "meaning": {
+      "en": "progress; advancement",
+      "zh_TW": "進步",
+      "zh_CN": "進步",
+      "ko": "진행; 발전",
+      "zh_HK": "進步",
+      "fr": "progrès; avancement"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>思想<rt>しそう</rt></ruby>は<ruby>進歩<rt>しんぽ</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1544",
+    "word": "洪水",
+    "meaning": {
+      "en": "flood",
+      "zh_TW": "洪水",
+      "zh_CN": "洪水",
+      "ko": "홍수",
+      "zh_HK": "洪水",
+      "fr": "inondation"
+    },
+    "current_ja": "<ruby>洪水<rt>こうずい</rt></ruby>で<ruby>橋<rt>はし</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた。"
+  },
+  {
+    "id": "class_word_1550",
+    "word": "環境",
+    "meaning": {
+      "en": "environment",
+      "zh_TW": "環境",
+      "zh_CN": "環境",
+      "ko": "환경",
+      "zh_HK": "環境",
+      "fr": "environnement"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>順応<rt>じゅんのう</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_1553",
+    "word": "特徴",
+    "meaning": {
+      "en": "characteristic; feature",
+      "zh_TW": "特徵・特點",
+      "zh_CN": "特徵・特點",
+      "ko": "특성; 특징",
+      "zh_HK": "特徵・特點",
+      "fr": "caractéristique ; fonctionnalité"
+    },
+    "current_ja": "<ruby>熱情<rt>ねつじょう</rt></ruby>が<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。"
+  },
+  {
+    "id": "class_word_1576",
+    "word": "正直（な人）",
+    "meaning": {
+      "en": "honest; sincere",
+      "zh_TW": "誠實・老實",
+      "zh_CN": "誠實・老實",
+      "ko": "솔직한; 성실한",
+      "zh_HK": "誠實",
+      "fr": "honnête; sincère"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1577",
+    "word": "正直（に言うと）",
+    "meaning": {
+      "en": "honestly; to be frank",
+      "zh_TW": "老實說・坦白說",
+      "zh_CN": "老實說・坦白說",
+      "ko": "솔직히; 솔직하게 말해서",
+      "zh_HK": "老實講",
+      "fr": "honnêtement ; pour être franc"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1588",
+    "word": "〜ようとする",
+    "meaning": {
+      "en": "to try to ~",
+      "zh_TW": "打算～・正要～",
+      "zh_CN": "打算～・正要～",
+      "ko": "~을 시도하다",
+      "zh_HK": "打算～・正要～",
+      "fr": "essayer de ~"
+    },
+    "current_ja": "A: <ruby>転<rt>ころ</rt></ruby>びそうになった<ruby>子供<rt>こども</rt></ruby>を<ruby>咄嗟<rt>とっさ</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けようとしました。<br/>B: <ruby>素早<rt>すばや</rt></ruby>い<ruby>判断<rt>はんだん</rt></ruby>で<ruby>怪我<rt>けが</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>げて<ruby>良<rt>よ</rt></ruby>かったですね。"
+  },
+  {
+    "id": "class_word_1686",
+    "word": "正直",
+    "meaning": {
+      "en": "Honest / honesty",
+      "ja": "正直",
+      "zh_TW": "Honest / honesty",
+      "zh_CN": "Honest / honesty",
+      "ko": "Honest / honesty",
+      "zh_HK": "Honest / honesty",
+      "fr": "honnêteté"
+    },
+    "current_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1712",
+    "word": "フラれる",
+    "meaning": {
+      "en": "To be rejected / to be dumped",
+      "ja": "フラれる",
+      "zh_TW": "To be rejected / to be dumped",
+      "zh_CN": "To be rejected / to be dumped",
+      "ko": "To be rejected / to be dumped",
+      "zh_HK": "To be rejected / to be dumped",
+      "fr": "To be rejected / to be dumped"
+    },
+    "current_ja": "A: <ruby>勇気<rt>ゆうき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>告白<rt>こくはく</rt></ruby>したけれど、フラれてしまいました……。<br/>B: <ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えた<ruby>勇気<rt>ゆうき</rt></ruby>は<ruby>素晴<rt>すば</rt></ruby>らしいよ！<ruby>次<rt>つぎ</rt></ruby>はもっといい<ruby>出会<rt>であ</rt></ruby>いがあるよ。"
+  }
+]

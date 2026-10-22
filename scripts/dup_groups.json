@@ -1,0 +1,2075 @@
+{
+  "音楽は好き？": [
+    {
+      "id": "class_word_0002",
+      "word": "音楽",
+      "meaning": {
+        "en": "music",
+        "zh_TW": "音樂",
+        "zh_CN": "音樂",
+        "ko": "음악",
+        "zh_HK": "音樂",
+        "fr": "musique"
+      }
+    },
+    {
+      "id": "class_word_0082",
+      "word": "音",
+      "meaning": {
+        "en": "sound / noise",
+        "zh_TW": "聲音",
+        "zh_CN": "聲音",
+        "ko": "소리",
+        "zh_HK": "音",
+        "fr": "son/bruit"
+      }
+    },
+    {
+      "id": "class_word_0521",
+      "word": "音楽",
+      "meaning": {
+        "en": "music",
+        "zh_TW": "音樂",
+        "zh_CN": "音樂",
+        "ko": "음악",
+        "zh_HK": "音樂",
+        "fr": "musique"
+      }
+    }
+  ],
+  "大阪の方言は聞き取り難い。": [
+    {
+      "id": "class_word_0009",
+      "word": "方言",
+      "meaning": {
+        "en": "dialect",
+        "zh_TW": "方言",
+        "zh_CN": "方言",
+        "ko": "방언",
+        "zh_HK": "方言",
+        "fr": "dialecte"
+      }
+    },
+    {
+      "id": "class_word_0572",
+      "word": "方言",
+      "meaning": {
+        "en": "dialect",
+        "zh_TW": "方言",
+        "zh_CN": "方言",
+        "ko": "방언",
+        "zh_HK": "方言",
+        "fr": "dialecte"
+      }
+    }
+  ],
+  "A: 日本の47都道府県の中で、どこに行ってみたいですか？B: 北海道と沖縄の都道府県をゆっくり旅してみたいです。": [
+    {
+      "id": "class_word_0016",
+      "word": "都道府県",
+      "meaning": {
+        "en": "prefectures (the administrative divisions of Japan)",
+        "zh_TW": "都道府縣（日本的行政區劃）",
+        "zh_CN": "都道府縣（日本的行政區劃）",
+        "ko": "현(일본의 행정구역)",
+        "zh_HK": "都道府縣（日本的行政區劃）",
+        "fr": "préfectures (les divisions administratives du Japon)"
+      }
+    },
+    {
+      "id": "class_word_0516",
+      "word": "都道府県",
+      "meaning": {
+        "en": "prefectures of Japan",
+        "zh_TW": "都道府縣",
+        "zh_CN": "都道府縣",
+        "ko": "도도부현",
+        "zh_HK": "都道府縣",
+        "fr": "préfectures du Japon"
+      }
+    }
+  ],
+  "私は今歌う。": [
+    {
+      "id": "class_word_0017",
+      "word": "歌",
+      "meaning": {
+        "en": "song",
+        "zh_TW": "歌曲",
+        "zh_CN": "歌曲",
+        "ko": "노래",
+        "zh_HK": "歌曲",
+        "fr": "chanson"
+      }
+    },
+    {
+      "id": "class_word_0018",
+      "word": "歌う",
+      "meaning": {
+        "en": "to sing",
+        "zh_TW": "唱歌",
+        "zh_CN": "唱歌",
+        "ko": "노래하다",
+        "zh_HK": "唱歌",
+        "fr": "chanter"
+      }
+    }
+  ],
+  "彼は多趣味だ。": [
+    {
+      "id": "class_word_0020",
+      "word": "趣味",
+      "meaning": {
+        "en": "hobby",
+        "zh_TW": "嗜好",
+        "zh_CN": "嗜好",
+        "ko": "취미",
+        "zh_HK": "嗜好",
+        "fr": "passe-temps"
+      }
+    },
+    {
+      "id": "class_word_1492",
+      "word": "趣味",
+      "meaning": {
+        "en": "hobby",
+        "zh_TW": "興趣",
+        "zh_CN": "興趣",
+        "ko": "취미",
+        "zh_HK": "嗜好",
+        "fr": "passe-temps"
+      }
+    }
+  ],
+  "ジョンは本棚を作った。": [
+    {
+      "id": "class_word_0023",
+      "word": "本棚",
+      "meaning": {
+        "en": "bookshelf / bookcase",
+        "zh_TW": "書櫃",
+        "zh_CN": "書櫃",
+        "ko": "책장",
+        "zh_HK": "書架",
+        "fr": "bibliothèque / bibliothèque"
+      }
+    },
+    {
+      "id": "class_word_0624",
+      "word": "本棚",
+      "meaning": {
+        "en": "bookshelf / bookcase",
+        "zh_TW": "書櫃",
+        "zh_CN": "書櫃",
+        "ko": "책장",
+        "zh_HK": "書架",
+        "fr": "bibliothèque / bibliothèque"
+      }
+    }
+  ],
+  "A: すみません、このラーメンを大盛りにできますか？B: はい、かしこまりました！麺の大盛り無料ですよ。": [
+    {
+      "id": "class_word_0024",
+      "word": "大盛り",
+      "meaning": {
+        "en": "large serving / extra large portion",
+        "zh_TW": "大份",
+        "zh_CN": "大份",
+        "ko": "곱빼기 / 대(大)사이즈",
+        "zh_HK": "加量",
+        "fr": "grande portion / très grande portion"
+      }
+    },
+    {
+      "id": "class_word_0366",
+      "word": "大盛り",
+      "meaning": {
+        "en": "large portion / extra large serving / grande portion",
+        "zh_TW": "大份量/特大份量/大份量",
+        "zh_CN": "大份量/特大份量/大份量",
+        "ko": "큰 부분 / 특대형 / 큰 부분",
+        "zh_HK": "大份量/特大份量/大份量",
+        "fr": "large portion / extra large serving / grande portion"
+      }
+    }
+  ],
+  "身長何センチ？": [
+    {
+      "id": "class_word_0026",
+      "word": "身長",
+      "meaning": {
+        "en": "height (of a person)",
+        "zh_TW": "身高",
+        "zh_CN": "身高",
+        "ko": "키",
+        "zh_HK": "身高",
+        "fr": "taille (d'une personne)"
+      }
+    },
+    {
+      "id": "class_word_0526",
+      "word": "身長",
+      "meaning": {
+        "en": "height (measurement)",
+        "zh_TW": "身高",
+        "zh_CN": "身高",
+        "ko": "신장(측정)",
+        "zh_HK": "身高",
+        "fr": "hauteur (mesure)"
+      }
+    }
+  ],
+  "A: 来週の結婚記念日はレストランでお祝いする予定ですか？B: はい、特別な記念日なので静かなお店を予約しました。": [
+    {
+      "id": "class_word_0040",
+      "word": "記念日",
+      "meaning": {
+        "en": "anniversary / commemorative day",
+        "zh_TW": "紀念日",
+        "zh_CN": "紀念日",
+        "ko": "기념일",
+        "zh_HK": "紀念日",
+        "fr": "anniversaire / journée commémorative"
+      }
+    },
+    {
+      "id": "class_word_0405",
+      "word": "記念日",
+      "meaning": {
+        "en": "anniversary / commemoration day / anniversaire / jour commémoratif",
+        "zh_TW": "週年紀念日/紀念日/生日/紀念日",
+        "zh_CN": "週年紀念日/紀念日/生日/紀念日",
+        "ko": "기념일/기념일/생일/기념일",
+        "zh_HK": "週年紀念日/紀念日/生日/紀念日",
+        "fr": "anniversary / commemoration day / anniversaire / jour commémoratif"
+      }
+    }
+  ],
+  "地獄も住家。": [
+    {
+      "id": "class_word_0044",
+      "word": "地獄",
+      "meaning": {
+        "en": "hell / inferno",
+        "zh_TW": "地獄",
+        "zh_CN": "地獄",
+        "ko": "지옥",
+        "zh_HK": "地獄",
+        "fr": "enfer / enfer"
+      }
+    },
+    {
+      "id": "class_word_0583",
+      "word": "地獄",
+      "meaning": {
+        "en": "hell",
+        "zh_TW": "地獄",
+        "zh_CN": "地獄",
+        "ko": "지옥",
+        "zh_HK": "地獄",
+        "fr": "enfer"
+      }
+    }
+  ],
+  "A: 一人暮らしを始めると、やはり色々とお金がかかりますか？B: そうですね、家賃や生活費で思った以上にお金がかかります。": [
+    {
+      "id": "class_word_0050",
+      "word": "お金がかかる",
+      "meaning": {
+        "en": "to cost (money)",
+        "zh_TW": "花錢",
+        "zh_CN": "花錢",
+        "ko": "돈이 들다",
+        "zh_HK": "花費",
+        "fr": "coûter (de l'argent)"
+      }
+    },
+    {
+      "id": "class_word_0623",
+      "word": "お金がかかる",
+      "meaning": {
+        "en": "to cost money / to be expensive",
+        "zh_TW": "花錢",
+        "zh_CN": "花錢",
+        "ko": "돈이 들다",
+        "zh_HK": "要花很多錢",
+        "fr": "coûter de l'argent / être cher"
+      }
+    }
+  ],
+  "A: 日本語の単語がなかなか覚えられなくて焦っています。B: 焦らなくても大丈夫ですよ。毎日少しずつ覚えていきましょう。": [
+    {
+      "id": "class_word_0055",
+      "word": "少しずつ",
+      "meaning": {
+        "en": "little by little / gradually",
+        "zh_TW": "一點一點地",
+        "zh_CN": "一點一點地",
+        "ko": "조금씩",
+        "zh_HK": "慢慢地",
+        "fr": "petit à petit / progressivement"
+      }
+    },
+    {
+      "id": "class_word_0111",
+      "word": "少しずつ・ちょっとずつ",
+      "meaning": {
+        "en": "little by little / gradually",
+        "zh_TW": "一點一點地",
+        "zh_CN": "一點一點地",
+        "ko": "조금씩",
+        "zh_HK": "慢慢地",
+        "fr": "petit à petit / progressivement"
+      }
+    }
+  ],
+  "踊るのが大っ嫌い。": [
+    {
+      "id": "class_word_0080",
+      "word": "踊る",
+      "meaning": {
+        "en": "to dance",
+        "zh_TW": "跳舞",
+        "zh_CN": "跳舞",
+        "ko": "춤추다",
+        "zh_HK": "跳舞",
+        "fr": "danser"
+      }
+    },
+    {
+      "id": "class_word_0557",
+      "word": "踊る",
+      "meaning": {
+        "en": "to dance",
+        "zh_TW": "跳舞",
+        "zh_CN": "跳舞",
+        "ko": "춤을 추다",
+        "zh_HK": "跳舞",
+        "fr": "danser"
+      }
+    }
+  ],
+  "声援がやんだ。": [
+    {
+      "id": "class_word_0083",
+      "word": "声",
+      "meaning": {
+        "en": "voice",
+        "zh_TW": "聲音",
+        "zh_CN": "聲音",
+        "ko": "목소리",
+        "zh_HK": "嗓音",
+        "fr": "voix"
+      }
+    },
+    {
+      "id": "class_word_1164",
+      "word": "声",
+      "meaning": {
+        "en": "voice",
+        "zh_TW": "聲音",
+        "zh_CN": "聲音",
+        "ko": "목소리 / 소리",
+        "zh_HK": "嗓音",
+        "fr": "voix"
+      }
+    }
+  ],
+  "A: 週末にはよく家で料理をしますか？B: はい、得意なパスタやカレーを料理するのが好きです。": [
+    {
+      "id": "class_word_0084",
+      "word": "料理をする",
+      "meaning": {
+        "en": "to cook / to prepare food",
+        "zh_TW": "做料理",
+        "zh_CN": "做料理",
+        "ko": "요리하다",
+        "zh_HK": "煮飯",
+        "fr": "cuisiner / préparer à manger"
+      }
+    },
+    {
+      "id": "class_word_0312",
+      "word": "料理をする",
+      "meaning": {
+        "en": "to cook / faire la cuisine",
+        "zh_TW": "做飯/做飯",
+        "zh_CN": "做飯/做飯",
+        "ko": "요리하다 / 요리하다",
+        "zh_HK": "做飯/做飯",
+        "fr": "to cook / faire la cuisine"
+      }
+    }
+  ],
+  "今日の午後この町を見学した。": [
+    {
+      "id": "class_word_0095",
+      "word": "見学",
+      "meaning": {
+        "en": "visit / tour",
+        "zh_TW": "参观",
+        "zh_CN": "参观",
+        "ko": "견학",
+        "zh_HK": "參觀",
+        "fr": "visite / visite"
+      }
+    },
+    {
+      "id": "class_word_0566",
+      "word": "見学",
+      "meaning": {
+        "en": "to visit and tour a place",
+        "zh_TW": "參觀和遊覽一個地方",
+        "zh_CN": "參觀和遊覽一個地方",
+        "ko": "장소를 방문하고 둘러보다",
+        "zh_HK": "參觀和遊覽一個地方",
+        "fr": "visiter et visiter un lieu"
+      }
+    },
+    {
+      "id": "class_word_1121",
+      "word": "見学",
+      "meaning": {
+        "en": "견학 / 구경 / field trip / tour / visit",
+        "zh_TW": "實地考察/遊覽/參觀",
+        "zh_CN": "實地考察/遊覽/參觀",
+        "ko": "견학 / 구경 / field trip / tour / visit",
+        "zh_HK": "實地考察/遊覽/參觀",
+        "fr": "excursion / visite / visite"
+      }
+    }
+  ],
+  "計画はできた。": [
+    {
+      "id": "class_word_0105",
+      "word": "計画",
+      "meaning": {
+        "en": "plan / project",
+        "zh_TW": "計畫",
+        "zh_CN": "計畫",
+        "ko": "계획",
+        "zh_HK": "計劃",
+        "fr": "plan/projet"
+      }
+    },
+    {
+      "id": "class_word_1278",
+      "word": "計画",
+      "meaning": {
+        "en": "plan / schedule",
+        "zh_TW": "計畫",
+        "zh_CN": "計畫",
+        "ko": "계획",
+        "zh_HK": "計劃",
+        "fr": "plan / calendrier"
+      }
+    }
+  ],
+  "平日は、月火水木金です。": [
+    {
+      "id": "class_word_0109",
+      "word": "平日",
+      "meaning": {
+        "en": "weekday",
+        "zh_TW": "平日",
+        "zh_CN": "平日",
+        "ko": "평일",
+        "zh_HK": "工作日",
+        "fr": "jour de la semaine"
+      }
+    },
+    {
+      "id": "class_word_0571",
+      "word": "平日",
+      "meaning": {
+        "en": "weekday",
+        "zh_TW": "工作日",
+        "zh_CN": "工作日",
+        "ko": "평일",
+        "zh_HK": "工作日",
+        "fr": "jour de la semaine"
+      }
+    },
+    {
+      "id": "class_word_1070",
+      "word": "平日",
+      "meaning": {
+        "en": "평일 / weekday / weekdays",
+        "zh_TW": "平日/平日/平日",
+        "zh_CN": "平日/平日/平日",
+        "ko": "평일 / weekday / weekdays",
+        "zh_HK": "平日/平日/平日",
+        "fr": "jours de la semaine / jour de la semaine / jours de la semaine"
+      }
+    },
+    {
+      "id": "class_word_1369",
+      "word": "平日",
+      "meaning": {
+        "en": "weekday",
+        "zh_TW": "平日",
+        "zh_CN": "平日",
+        "ko": "평일",
+        "zh_HK": "工作日",
+        "fr": "jour de la semaine"
+      }
+    }
+  ],
+  "A: ご注文は店内でお召し上がりですか？B: いいえ、持ち帰りでお願いします。": [
+    {
+      "id": "class_word_0113",
+      "word": "持ち帰り",
+      "meaning": {
+        "en": "takeout / to go",
+        "zh_TW": "外帶",
+        "zh_CN": "外帶",
+        "ko": "포장 / 테이크아웃",
+        "zh_HK": "外帶",
+        "fr": "à emporter / à emporter"
+      }
+    },
+    {
+      "id": "class_word_0140",
+      "word": "持ち帰り",
+      "meaning": {
+        "en": "takeout; to go",
+        "zh_TW": "外帶",
+        "zh_CN": "外帶",
+        "ko": "테이크아웃; 가다",
+        "zh_HK": "外賣",
+        "fr": "plats à emporter; aller"
+      }
+    }
+  ],
+  "A: 明日の天気予報、雨の心配はありますか？B: 今のところ晴れの予報だから、予定通りピクニックに行けそうだね。": [
+    {
+      "id": "class_word_0117",
+      "word": "今のところ",
+      "meaning": {
+        "en": "for now / so far / as of now",
+        "zh_TW": "目前為止",
+        "zh_CN": "目前為止",
+        "ko": "지금으로서는 / 아직까지는",
+        "zh_HK": "到目前為止",
+        "fr": "pour l'instant / jusqu'à présent / pour l'instant"
+      }
+    },
+    {
+      "id": "class_word_0597",
+      "word": "今のところ",
+      "meaning": {
+        "en": "for now / so far / at this point",
+        "zh_TW": "目前為止",
+        "zh_CN": "目前為止",
+        "ko": "지금으로서는 / 아직까지는",
+        "zh_HK": "到目前為止",
+        "fr": "pour l'instant / jusqu'à présent / à ce stade"
+      }
+    }
+  ],
+  "A: 歩き方が少しぎこちないけど、大丈夫？B: 昨日ジムで筋トレを頑張りすぎて、足がひどい筋肉痛なんだ。": [
+    {
+      "id": "class_word_0118",
+      "word": "筋肉痛",
+      "meaning": {
+        "en": "muscle soreness / DOMS",
+        "zh_TW": "肌肉痠痛",
+        "zh_CN": "肌肉痠痛",
+        "ko": "근육통",
+        "zh_HK": "肌肉痠痛",
+        "fr": "douleurs musculaires / DOMS"
+      }
+    },
+    {
+      "id": "class_word_0358",
+      "word": "筋肉痛",
+      "meaning": {
+        "en": "muscle soreness / courbatures",
+        "zh_TW": "肌肉酸痛/疼痛",
+        "zh_CN": "肌肉酸痛/疼痛",
+        "ko": "근육통 / 통증",
+        "zh_HK": "肌肉酸痛/疼痛",
+        "fr": "muscle soreness / courbatures"
+      }
+    }
+  ],
+  "窮鼠猫を噛む。": [
+    {
+      "id": "class_word_0133",
+      "word": "噛む",
+      "meaning": {
+        "en": "to bite; to chew",
+        "zh_TW": "咬",
+        "zh_CN": "咬",
+        "ko": "물다; 씹다",
+        "zh_HK": "咬",
+        "fr": "mordre; mâcher"
+      }
+    },
+    {
+      "id": "class_word_0234",
+      "word": "噛む",
+      "meaning": {
+        "en": "to bite; to chew",
+        "zh_TW": "咬",
+        "zh_CN": "咬",
+        "ko": "물다; 씹다",
+        "zh_HK": "咬",
+        "fr": "mordre; mâcher"
+      }
+    }
+  ],
+  "帝国の逆襲。": [
+    {
+      "id": "class_word_0151",
+      "word": "逆（反対の意味）",
+      "meaning": {
+        "en": "opposite; reverse; the other way",
+        "zh_TW": "相反・反過來",
+        "zh_CN": "相反・反過來",
+        "ko": "반대; 뒤집다; 다른 방법으로",
+        "zh_HK": "相反・反過來",
+        "fr": "ci-contre; inverse; dans l'autre sens"
+      }
+    },
+    {
+      "id": "class_word_0348",
+      "word": "逆",
+      "meaning": {
+        "en": "reverse / opposite / inverse / contraire",
+        "zh_TW": "反向/相反/相反/相反",
+        "zh_CN": "反向/相反/相反/相反",
+        "ko": "반대/반대/반대/반대",
+        "zh_HK": "反向/相反/相反/相反",
+        "fr": "reverse / opposite / inverse / contraire"
+      }
+    }
+  ],
+  "橋は石造りだ。": [
+    {
+      "id": "class_word_0154",
+      "word": "橋",
+      "meaning": {
+        "en": "bridge",
+        "zh_TW": "橋",
+        "zh_CN": "橋",
+        "ko": "다리",
+        "zh_HK": "橋",
+        "fr": "pont"
+      }
+    },
+    {
+      "id": "class_word_0183",
+      "word": "橋",
+      "meaning": {
+        "en": "bridge",
+        "zh_TW": "橋",
+        "zh_CN": "橋",
+        "ko": "다리",
+        "zh_HK": "橋",
+        "fr": "pont"
+      }
+    }
+  ],
+  "渋滞はないです。": [
+    {
+      "id": "class_word_0156",
+      "word": "渋滞",
+      "meaning": {
+        "en": "traffic jam; congestion",
+        "zh_TW": "塞車",
+        "zh_CN": "塞車",
+        "ko": "교통 체증; 혼잡",
+        "zh_HK": "塞車",
+        "fr": "embouteillage; embouteillage"
+      }
+    },
+    {
+      "id": "class_word_0898",
+      "word": "渋滞",
+      "meaning": {
+        "en": "traffic jam / congestion",
+        "zh_TW": "塞車",
+        "zh_CN": "塞車",
+        "ko": "교통체증 / 정체",
+        "zh_HK": "交通堵塞",
+        "fr": "embouteillage / embouteillage"
+      }
+    }
+  ],
+  "日焼けが痛い。": [
+    {
+      "id": "class_word_0162",
+      "word": "日焼け",
+      "meaning": {
+        "en": "sunburn; suntan",
+        "zh_TW": "曬傷・曬黑",
+        "zh_CN": "曬傷・曬黑",
+        "ko": "햇볕에 탐; 선탠",
+        "zh_HK": "曬親・曬黑",
+        "fr": "coup de soleil; bronzage"
+      }
+    },
+    {
+      "id": "class_word_0928",
+      "word": "日焼け",
+      "meaning": {
+        "en": "suntan / sunburn",
+        "zh_TW": "曬傷",
+        "zh_CN": "曬傷",
+        "ko": "햇볕에 탐 / 일광화상",
+        "zh_HK": "曬黑",
+        "fr": "bronzage / coup de soleil"
+      }
+    }
+  ],
+  "彼は経験不足だ。": [
+    {
+      "id": "class_word_0184",
+      "word": "不足",
+      "meaning": {
+        "en": "shortage; lack",
+        "zh_TW": "不足",
+        "zh_CN": "不足",
+        "ko": "부족; 부족하다",
+        "zh_HK": "不足",
+        "fr": "pénurie; manque"
+      }
+    },
+    {
+      "id": "class_word_0549",
+      "word": "経験",
+      "meaning": {
+        "en": "experience",
+        "zh_TW": "經驗",
+        "zh_CN": "經驗",
+        "ko": "경험",
+        "zh_HK": "經驗",
+        "fr": "expérience"
+      }
+    }
+  ],
+  "今日は祝日です。": [
+    {
+      "id": "class_word_0195",
+      "word": "祝日",
+      "meaning": {
+        "en": "public holiday",
+        "zh_TW": "國定假日",
+        "zh_CN": "國定假日",
+        "ko": "공휴일",
+        "zh_HK": "公眾假期",
+        "fr": "jour férié"
+      }
+    },
+    {
+      "id": "class_word_1209",
+      "word": "祝日",
+      "meaning": {
+        "en": "공휴일 / 빨간날 / public holiday / national holiday",
+        "zh_TW": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+        "zh_CN": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+        "ko": "공휴일 / 빨간날 / public holiday / national holiday",
+        "zh_HK": "公眾假期 / 紅色情人節 / 公眾假期 / 國定假日",
+        "fr": "jour férié / jour rouge / jour férié / fête nationale"
+      }
+    }
+  ],
+  "木靴を履くのが好きだ。": [
+    {
+      "id": "class_word_0243",
+      "word": "履く",
+      "meaning": {
+        "en": "to put on (shoes / pants)",
+        "zh_TW": "穿",
+        "zh_CN": "穿",
+        "ko": "(신발/바지를) 입다",
+        "zh_HK": "著",
+        "fr": "mettre (chaussures / pantalons)"
+      }
+    },
+    {
+      "id": "class_word_0658",
+      "word": "履く",
+      "meaning": {
+        "en": "to put on shoes / socks / pants (feet & legs)",
+        "zh_TW": "穿鞋/襪子/褲子（腳和腿）",
+        "zh_CN": "穿鞋/襪子/褲子（腳和腿）",
+        "ko": "to put on shoes / socks / pants (feet & legs)",
+        "zh_HK": "穿鞋/襪子/褲子（腳和腿）",
+        "fr": "mettre des chaussures / chaussettes / pantalons (pieds et jambes)"
+      }
+    }
+  ],
+  "教室では帽子を被るべきではない。": [
+    {
+      "id": "class_word_0245",
+      "word": "被る",
+      "meaning": {
+        "en": "to put on (hat / helmet)",
+        "zh_TW": "戴",
+        "zh_CN": "戴",
+        "ko": "(모자/헬멧을) 쓰다",
+        "zh_HK": "戴",
+        "fr": "mettre (chapeau / casque)"
+      }
+    },
+    {
+      "id": "class_word_0675",
+      "word": "被る",
+      "meaning": {
+        "en": "to wear on the head / to overlap / to clash",
+        "zh_TW": "戴在頭上/重疊/碰撞",
+        "zh_CN": "戴在頭上/重疊/碰撞",
+        "ko": "to wear on the head / to overlap / to clash",
+        "zh_HK": "戴在頭上/重疊/碰撞",
+        "fr": "porter sur la tête / se chevaucher / se heurter"
+      }
+    }
+  ],
+  "目は心の鏡。": [
+    {
+      "id": "class_word_0265",
+      "word": "鏡",
+      "meaning": {
+        "en": "mirror",
+        "zh_TW": "鏡子",
+        "zh_CN": "鏡子",
+        "ko": "거울",
+        "zh_HK": "鏡・鏡子",
+        "fr": "miroir"
+      }
+    },
+    {
+      "id": "class_word_1249",
+      "word": "心",
+      "meaning": {
+        "en": "heart / mind / feelings",
+        "zh_TW": "心",
+        "zh_CN": "心",
+        "ko": "마음",
+        "zh_HK": "心情",
+        "fr": "cœur/esprit/sentiments"
+      }
+    }
+  ],
+  "政府は倒された。": [
+    {
+      "id": "class_word_0272",
+      "word": "政府",
+      "meaning": {
+        "en": "government",
+        "zh_TW": "政府",
+        "zh_CN": "政府",
+        "ko": "정부",
+        "zh_HK": "政府",
+        "fr": "gouvernement"
+      }
+    },
+    {
+      "id": "class_word_1482",
+      "word": "政府",
+      "meaning": {
+        "en": "government",
+        "zh_TW": "政府",
+        "zh_CN": "政府",
+        "ko": "정부",
+        "zh_HK": "政府",
+        "fr": "gouvernement"
+      }
+    }
+  ],
+  "先週でした。": [
+    {
+      "id": "class_word_0294",
+      "word": "先週",
+      "meaning": {
+        "en": "last week / la semaine dernière",
+        "zh_TW": "上週/上週",
+        "zh_CN": "上週/上週",
+        "ko": "지난주 / 지난주",
+        "zh_HK": "上週/上週",
+        "fr": "last week / la semaine dernière"
+      }
+    },
+    {
+      "id": "class_word_1254",
+      "word": "先週",
+      "meaning": {
+        "en": "last week",
+        "zh_TW": "上週",
+        "zh_CN": "上週",
+        "ko": "지난주",
+        "zh_HK": "上個禮拜",
+        "fr": "la semaine dernière"
+      }
+    }
+  ],
+  "再来月は１２月だ。": [
+    {
+      "id": "class_word_0299",
+      "word": "来月",
+      "meaning": {
+        "en": "next month / le mois prochain",
+        "zh_TW": "下個月/下個月",
+        "zh_CN": "下個月/下個月",
+        "ko": "다음 달 / 다음 달",
+        "zh_HK": "下個月/下個月",
+        "fr": "next month / le mois prochain"
+      }
+    },
+    {
+      "id": "class_word_1255",
+      "word": "来月",
+      "meaning": {
+        "en": "next month",
+        "zh_TW": "下個月",
+        "zh_CN": "下個月",
+        "ko": "다음 달",
+        "zh_HK": "下個月",
+        "fr": "le mois prochain"
+      }
+    }
+  ],
+  "あの城は美しい。": [
+    {
+      "id": "class_word_0304",
+      "word": "城",
+      "meaning": {
+        "en": "castle / château",
+        "zh_TW": "城堡/城堡",
+        "zh_CN": "城堡/城堡",
+        "ko": "성 / 성",
+        "zh_HK": "城堡/城堡",
+        "fr": "castle / château"
+      }
+    },
+    {
+      "id": "class_word_0589",
+      "word": "城",
+      "meaning": {
+        "en": "castle / fortress",
+        "zh_TW": "城",
+        "zh_CN": "城",
+        "ko": "성",
+        "zh_HK": "城",
+        "fr": "château / forteresse"
+      }
+    },
+    {
+      "id": "class_word_0893",
+      "word": "城",
+      "meaning": {
+        "en": "castle / fortress",
+        "zh_TW": "城堡",
+        "zh_CN": "城堡",
+        "ko": "성 / 성곽",
+        "zh_HK": "城",
+        "fr": "château / forteresse"
+      }
+    }
+  ],
+  "大変疲れた。": [
+    {
+      "id": "class_word_0318",
+      "word": "大変",
+      "meaning": {
+        "en": "tough / hard (situation) / difficile (situation) / pénible",
+        "zh_TW": "困難/困難（情境）/困難（情境）/痛苦",
+        "zh_CN": "困難/困難（情境）/困難（情境）/痛苦",
+        "ko": "힘든 / 힘든 (상황) / 어려운 (상황) / 고통스러운",
+        "zh_HK": "困難/困難（情境）/困難（情境）/痛苦",
+        "fr": "tough / hard (situation) / difficile (situation) / pénible"
+      }
+    },
+    {
+      "id": "class_word_1403",
+      "word": "大変",
+      "meaning": {
+        "en": "tough / hard / a lot",
+        "zh_TW": "辛苦",
+        "zh_CN": "辛苦",
+        "ko": "힘들다 / 대단하다",
+        "zh_HK": "不容易 / 很多",
+        "fr": "dur / dur / beaucoup"
+      }
+    }
+  ],
+  "梅雨に入った。": [
+    {
+      "id": "class_word_0343",
+      "word": "梅雨",
+      "meaning": {
+        "en": "rainy season / saison des pluies",
+        "zh_TW": "雨季/雨季",
+        "zh_CN": "雨季/雨季",
+        "ko": "장마철/장마철",
+        "zh_HK": "雨季/雨季",
+        "fr": "rainy season / saison des pluies"
+      }
+    },
+    {
+      "id": "class_word_0609",
+      "word": "梅雨",
+      "meaning": {
+        "en": "rainy season / monsoon season",
+        "zh_TW": "梅雨季",
+        "zh_CN": "梅雨季",
+        "ko": "장마",
+        "zh_HK": "梅雨",
+        "fr": "saison des pluies / saison de la mousson"
+      }
+    },
+    {
+      "id": "class_word_0925",
+      "word": "梅雨",
+      "meaning": {
+        "en": "rainy season / monsoon season",
+        "zh_TW": "梅雨季",
+        "zh_CN": "梅雨季",
+        "ko": "장마",
+        "zh_HK": "梅雨",
+        "fr": "saison des pluies / saison de la mousson"
+      }
+    },
+    {
+      "id": "class_word_1459",
+      "word": "梅雨",
+      "meaning": {
+        "en": "rainy season / monsoon season",
+        "zh_TW": "梅雨季",
+        "zh_CN": "梅雨季",
+        "ko": "장마",
+        "zh_HK": "梅雨",
+        "fr": "saison des pluies / saison de la mousson"
+      }
+    }
+  ],
+  "今日は暑い。": [
+    {
+      "id": "class_word_0344",
+      "word": "暑い",
+      "meaning": {
+        "en": "hot (weather) / chaud (temps)",
+        "zh_TW": "熱（天氣）/ chaud（溫度）",
+        "zh_CN": "熱（天氣）/ chaud（溫度）",
+        "ko": "더운 (날씨) / chaud (온도)",
+        "zh_HK": "熱（天氣）/ chaud（溫度）",
+        "fr": "hot (weather) / chaud (temps)"
+      }
+    },
+    {
+      "id": "class_word_1289",
+      "word": "暑い",
+      "meaning": {
+        "en": "덥다 / hot (weather) / to be hot",
+        "zh_TW": "熱/熱（天氣）/很熱",
+        "zh_CN": "熱/熱（天氣）/很熱",
+        "ko": "덥다 / hot (weather) / to be hot",
+        "zh_HK": "熱/熱（天氣）/很熱",
+        "fr": "덥다 / chaud (temps) / avoir chaud"
+      }
+    }
+  ],
+  "牛肉は高い。": [
+    {
+      "id": "class_word_0352",
+      "word": "牛肉",
+      "meaning": {
+        "en": "beef / bœuf",
+        "zh_TW": "牛肉/牛肉",
+        "zh_CN": "牛肉/牛肉",
+        "ko": "쇠고기 / 쇠고기",
+        "zh_HK": "牛肉/牛肉",
+        "fr": "beef / bœuf"
+      }
+    },
+    {
+      "id": "class_word_1229",
+      "word": "牛肉",
+      "meaning": {
+        "en": "beef",
+        "zh_TW": "牛肉",
+        "zh_CN": "牛肉",
+        "ko": "쇠고기",
+        "zh_HK": "牛肉",
+        "fr": "boeuf"
+      }
+    },
+    {
+      "id": "class_word_1338",
+      "word": "牛肉",
+      "meaning": {
+        "en": "beef",
+        "zh_TW": "牛肉",
+        "zh_CN": "牛肉",
+        "ko": "소고기",
+        "zh_HK": "牛肉",
+        "fr": "boeuf"
+      }
+    }
+  ],
+  "豚肉は私には合わない。": [
+    {
+      "id": "class_word_0353",
+      "word": "豚肉",
+      "meaning": {
+        "en": "pork / porc (viande)",
+        "zh_TW": "豬肉/豬肉（肉）",
+        "zh_CN": "豬肉/豬肉（肉）",
+        "ko": "돼지고기 / 돼지고기 (고기)",
+        "zh_HK": "豬肉/豬肉（肉）",
+        "fr": "pork / porc (viande)"
+      }
+    },
+    {
+      "id": "class_word_0513",
+      "word": "豚肉",
+      "meaning": {
+        "en": "pork",
+        "zh_TW": "豬肉",
+        "zh_CN": "豬肉",
+        "ko": "돼지고기",
+        "zh_HK": "豬肉",
+        "fr": "porc"
+      }
+    },
+    {
+      "id": "class_word_1230",
+      "word": "豚肉",
+      "meaning": {
+        "en": "pork",
+        "zh_TW": "豬肉",
+        "zh_CN": "豬肉",
+        "ko": "돼지고기",
+        "zh_HK": "豬肉",
+        "fr": "porc"
+      }
+    },
+    {
+      "id": "class_word_1339",
+      "word": "豚肉",
+      "meaning": {
+        "en": "pork",
+        "zh_TW": "豬肉",
+        "zh_CN": "豬肉",
+        "ko": "돼지고기",
+        "zh_HK": "豬肉",
+        "fr": "porc"
+      }
+    }
+  ],
+  "彼は学校の成績がいい。": [
+    {
+      "id": "class_word_0373",
+      "word": "成績",
+      "meaning": {
+        "en": "grades / results / notes / résultats",
+        "zh_TW": "成績/結果/筆記/結果",
+        "zh_CN": "成績/結果/筆記/結果",
+        "ko": "성적/결과/메모/결과",
+        "zh_HK": "成績/結果/筆記/結果",
+        "fr": "grades / results / notes / résultats"
+      }
+    },
+    {
+      "id": "class_word_0487",
+      "word": "成績",
+      "meaning": {
+        "en": "grades, results (notes, résultats)",
+        "zh_TW": "成績、結果（註釋、結果）",
+        "zh_CN": "成績、結果（註釋、結果）",
+        "ko": "성적, 결과(메모, 결과)",
+        "zh_HK": "成績、結果（註釋、結果）",
+        "fr": "notes, résultats (notes, résultats)"
+      }
+    },
+    {
+      "id": "class_word_0620",
+      "word": "成績",
+      "meaning": {
+        "en": "grades / results / academic record",
+        "zh_TW": "成績",
+        "zh_CN": "成績",
+        "ko": "성적",
+        "zh_HK": "成績",
+        "fr": "notes / résultats / dossier académique"
+      }
+    }
+  ],
+  "一曲聞くか。": [
+    {
+      "id": "class_word_0383",
+      "word": "曲",
+      "meaning": {
+        "en": "song / music track / chanson / morceau de musique",
+        "zh_TW": "歌曲/音樂曲目/歌曲/音樂片段",
+        "zh_CN": "歌曲/音樂曲目/歌曲/音樂片段",
+        "ko": "노래/음악 트랙/노래/음악 작품",
+        "zh_HK": "歌曲/音樂曲目/歌曲/音樂片段",
+        "fr": "song / music track / chanson / morceau de musique"
+      }
+    },
+    {
+      "id": "class_word_1111",
+      "word": "曲",
+      "meaning": {
+        "en": "곡 / 노래 / song / track / piece of music",
+        "zh_TW": "歌曲/歌曲/歌曲/曲目/音樂片段",
+        "zh_CN": "歌曲/歌曲/歌曲/曲目/音樂片段",
+        "ko": "곡 / 노래 / song / track / piece of music",
+        "zh_HK": "歌曲/歌曲/歌曲/曲目/音樂片段",
+        "fr": "chanson / chanson / chanson / piste / morceau de musique"
+      }
+    }
+  ],
+  "外国人って面白いなあ。": [
+    {
+      "id": "class_word_0392",
+      "word": "外国人",
+      "meaning": {
+        "en": "foreigner / foreign national / étranger / étrangère",
+        "zh_TW": "外國人/外國人",
+        "zh_CN": "外國人/外國人",
+        "ko": "외국인 / 외국인",
+        "zh_HK": "外國人/外國人",
+        "fr": "foreigner / foreign national / étranger / étrangère"
+      }
+    },
+    {
+      "id": "class_word_1073",
+      "word": "外国人",
+      "meaning": {
+        "en": "외국인 / foreigner / non-native",
+        "zh_TW": "外國人/外國人/非本地人",
+        "zh_CN": "外國人/外國人/非本地人",
+        "ko": "외국인 / foreigner / non-native",
+        "zh_HK": "外國人/外國人/非本地人",
+        "fr": "étranger / étranger / non-autochtone"
+      }
+    }
+  ],
+  "道具を借りる事が出来ますか。": [
+    {
+      "id": "class_word_0398",
+      "word": "借りる",
+      "meaning": {
+        "en": "to borrow / to rent / emprunter / louer",
+        "zh_TW": "借/租",
+        "zh_CN": "借/租",
+        "ko": "빌리다 / 임대하다",
+        "zh_HK": "借/租",
+        "fr": "to borrow / to rent / emprunter / louer"
+      }
+    },
+    {
+      "id": "class_word_0547",
+      "word": "借りる",
+      "meaning": {
+        "en": "to borrow",
+        "zh_TW": "借",
+        "zh_CN": "借",
+        "ko": "빌리다",
+        "zh_HK": "借",
+        "fr": "emprunter"
+      }
+    }
+  ],
+  "僕は忙しい。": [
+    {
+      "id": "class_word_0446",
+      "word": "忙しい",
+      "meaning": {
+        "en": "busy / occupé(e)",
+        "zh_TW": "忙碌/佔用",
+        "zh_CN": "忙碌/佔用",
+        "ko": "바쁘다 / 바쁘다",
+        "zh_HK": "忙碌/佔用",
+        "fr": "busy / occupé(e)"
+      }
+    },
+    {
+      "id": "class_word_1235",
+      "word": "僕",
+      "meaning": {
+        "en": "I / me — casual male first person",
+        "zh_TW": "我/我－休閒男性第一人稱",
+        "zh_CN": "我/我－休閒男性第一人稱",
+        "ko": "나（남성 캐주얼）",
+        "zh_HK": "我/我－休閒男性第一人稱",
+        "fr": "Je / moi – homme occasionnel à la première personne"
+      }
+    }
+  ],
+  "彼は健康だ。": [
+    {
+      "id": "class_word_0460",
+      "word": "健康",
+      "meaning": {
+        "en": "health / healthy / santé / en bonne santé",
+        "zh_TW": "健康 / 健康 / santé / en bonne santé",
+        "zh_CN": "健康 / 健康 / santé / en bonne santé",
+        "ko": "건강 / 건강 / santé / en bonne santé",
+        "zh_HK": "健康 / 健康 / santé / en bonne santé",
+        "fr": "health / healthy / santé / en bonne santé"
+      }
+    },
+    {
+      "id": "class_word_1451",
+      "word": "健康",
+      "meaning": {
+        "en": "healthy / good health",
+        "zh_TW": "健康",
+        "zh_CN": "健康",
+        "ko": "건강하다",
+        "zh_HK": "健康",
+        "fr": "en bonne santé / bonne santé"
+      }
+    }
+  ],
+  "彼の思想は進歩的だ。": [
+    {
+      "id": "class_word_0464",
+      "word": "進歩",
+      "meaning": {
+        "en": "progress / advancement / progrès / avancement",
+        "zh_TW": "進步/進步/進步/進步",
+        "zh_CN": "進步/進步/進步/進步",
+        "ko": "진보하다 / 진보하다 / 진보하다 / 진보하다",
+        "zh_HK": "進步/進步/進步/進步",
+        "fr": "progress / advancement / progrès / avancement"
+      }
+    },
+    {
+      "id": "class_word_1527",
+      "word": "進歩",
+      "meaning": {
+        "en": "progress; advancement",
+        "zh_TW": "進步",
+        "zh_CN": "進步",
+        "ko": "진행; 발전",
+        "zh_HK": "進步",
+        "fr": "progrès; avancement"
+      }
+    }
+  ],
+  "熱情が彼女の特徴の一つだ。": [
+    {
+      "id": "class_word_0477",
+      "word": "特徴",
+      "meaning": {
+        "en": "characteristic / feature / trait / caractéristique / trait distinctif",
+        "zh_TW": "特徵/特徵/特徵/特徵/顯著特徵",
+        "zh_CN": "特徵/特徵/特徵/特徵/顯著特徵",
+        "ko": "특성 / 특성 / 특성 / 특성 / 독특한 특성",
+        "zh_HK": "特徵/特徵/特徵/特徵/顯著特徵",
+        "fr": "characteristic / feature / trait / caractéristique / trait distinctif"
+      }
+    },
+    {
+      "id": "class_word_1553",
+      "word": "特徴",
+      "meaning": {
+        "en": "characteristic; feature",
+        "zh_TW": "特徵・特點",
+        "zh_CN": "特徵・特點",
+        "ko": "특성; 특징",
+        "zh_HK": "特徵・特點",
+        "fr": "caractéristique ; fonctionnalité"
+      }
+    }
+  ],
+  "彼女は歩く。": [
+    {
+      "id": "class_word_0506",
+      "word": "彼女",
+      "meaning": {
+        "en": "girlfriend",
+        "zh_TW": "女朋友",
+        "zh_CN": "女朋友",
+        "ko": "여자친구",
+        "zh_HK": "女朋友",
+        "fr": "petite amie"
+      }
+    },
+    {
+      "id": "class_word_1245",
+      "word": "彼女",
+      "meaning": {
+        "en": "girlfriend / she / her",
+        "zh_TW": "女朋友（彼女）",
+        "zh_CN": "女朋友（彼女）",
+        "ko": "여자친구（彼女） / 그녀（she）",
+        "zh_HK": "她（she）",
+        "fr": "petite amie/elle/elle"
+      }
+    }
+  ],
+  "来週は試験だ。": [
+    {
+      "id": "class_word_0509",
+      "word": "試験",
+      "meaning": {
+        "en": "examination / test / exam",
+        "zh_TW": "考試/測驗/考試",
+        "zh_CN": "考試/測驗/考試",
+        "ko": "시험/시험/시험",
+        "zh_HK": "考試/測驗/考試",
+        "fr": "examen / test / examen"
+      }
+    },
+    {
+      "id": "class_word_1225",
+      "word": "試験",
+      "meaning": {
+        "en": "exam / test",
+        "zh_TW": "考試/測試",
+        "zh_CN": "考試/測試",
+        "ko": "시험/시험",
+        "zh_HK": "考試/測試",
+        "fr": "examen / test"
+      }
+    }
+  ],
+  "地元のチームは勝った。": [
+    {
+      "id": "class_word_0529",
+      "word": "地元",
+      "meaning": {
+        "en": "hometown; where one is from",
+        "zh_TW": "家鄉・故鄉",
+        "zh_CN": "家鄉・故鄉",
+        "ko": "고향; 어디서 왔는지",
+        "zh_HK": "老家・家鄉",
+        "fr": "ville natale; d'où l'on vient"
+      }
+    },
+    {
+      "id": "class_word_1399",
+      "word": "地元",
+      "meaning": {
+        "en": "local area / one's own neighborhood",
+        "zh_TW": "當地",
+        "zh_CN": "當地",
+        "ko": "동네 / 지역",
+        "zh_HK": "住的地方",
+        "fr": "territoire / son propre quartier"
+      }
+    }
+  ],
+  "教科書は、高い。": [
+    {
+      "id": "class_word_0555",
+      "word": "教科書",
+      "meaning": {
+        "en": "textbook",
+        "zh_TW": "課本",
+        "zh_CN": "課本",
+        "ko": "교과서",
+        "zh_HK": "課本",
+        "fr": "manuel"
+      }
+    },
+    {
+      "id": "class_word_1157",
+      "word": "教科",
+      "meaning": {
+        "en": "subject / school subject",
+        "zh_TW": "科目",
+        "zh_CN": "科目",
+        "ko": "교과 / 과목",
+        "zh_HK": "學科",
+        "fr": "matière / matière scolaire"
+      }
+    }
+  ],
+  "無関係です。": [
+    {
+      "id": "class_word_0558",
+      "word": "関係",
+      "meaning": {
+        "en": "relation, connection",
+        "zh_TW": "關係，聯繫",
+        "zh_CN": "關係，聯繫",
+        "ko": "관계, 연결",
+        "zh_HK": "關係，聯繫",
+        "fr": "relation, connexion"
+      }
+    },
+    {
+      "id": "class_word_1363",
+      "word": "関係",
+      "meaning": {
+        "en": "relationship / connection",
+        "zh_TW": "關係",
+        "zh_CN": "關係",
+        "ko": "관계",
+        "zh_HK": "關係",
+        "fr": "relation / connexion"
+      }
+    }
+  ],
+  "スタジオはとても狭くて、隠れる場所はない。": [
+    {
+      "id": "class_word_0584",
+      "word": "隠れる",
+      "meaning": {
+        "en": "to hide",
+        "zh_TW": "隱藏",
+        "zh_CN": "隱藏",
+        "ko": "숨기다",
+        "zh_HK": "隱藏",
+        "fr": "se cacher"
+      }
+    },
+    {
+      "id": "class_word_1476",
+      "word": "隠れる",
+      "meaning": {
+        "en": "to hide / to be hidden",
+        "zh_TW": "躲藏",
+        "zh_CN": "躲藏",
+        "ko": "숨다",
+        "zh_HK": "隱藏",
+        "fr": "se cacher / être caché"
+      }
+    }
+  ],
+  "扇風機がほしいな。": [
+    {
+      "id": "class_word_0596",
+      "word": "扇風機",
+      "meaning": {
+        "en": "electric fan",
+        "zh_TW": "電風扇",
+        "zh_CN": "電風扇",
+        "ko": "선풍기",
+        "zh_HK": "電風扇",
+        "fr": "ventilateur électrique"
+      }
+    },
+    {
+      "id": "class_word_0608",
+      "word": "扇風機",
+      "meaning": {
+        "en": "electric fan",
+        "zh_TW": "電風扇",
+        "zh_CN": "電風扇",
+        "ko": "선풍기",
+        "zh_HK": "電風扇",
+        "fr": "ventilateur électrique"
+      }
+    },
+    {
+      "id": "class_word_1085",
+      "word": "扇風機",
+      "meaning": {
+        "en": "선풍기 / electric fan / fan",
+        "zh_TW": "電風扇/電風扇/風扇",
+        "zh_CN": "電風扇/電風扇/風扇",
+        "ko": "선풍기 / electric fan / fan",
+        "zh_HK": "電風扇/電風扇/風扇",
+        "fr": "ventilateur électrique / ventilateur électrique / ventilateur"
+      }
+    }
+  ],
+  "家庭は円満だ。": [
+    {
+      "id": "class_word_0669",
+      "word": "円満",
+      "meaning": {
+        "en": "harmonious / amicable / peaceful",
+        "zh_TW": "和諧/友善/平和",
+        "zh_CN": "和諧/友善/平和",
+        "ko": "harmonious / amicable / peaceful",
+        "zh_HK": "和諧/友善/平和",
+        "fr": "harmonieux / amical / paisible"
+      }
+    },
+    {
+      "id": "class_word_0852",
+      "word": "円満",
+      "meaning": {
+        "en": "harmonious / peaceful",
+        "zh_TW": "圓滿",
+        "zh_CN": "圓滿",
+        "ko": "원만하다",
+        "zh_HK": "圓滿",
+        "fr": "harmonieux / paisible"
+      }
+    },
+    {
+      "id": "class_word_1364",
+      "word": "庭",
+      "meaning": {
+        "en": "garden / yard",
+        "zh_TW": "庭院",
+        "zh_CN": "庭院",
+        "ko": "정원 / 마당",
+        "zh_HK": "院子",
+        "fr": "jardin / cour"
+      }
+    }
+  ],
+  "若者は老人に席を譲るべきだ。": [
+    {
+      "id": "class_word_0674",
+      "word": "譲る",
+      "meaning": {
+        "en": "to give way / to yield / to hand over",
+        "zh_TW": "讓路/屈服/移交",
+        "zh_CN": "讓路/屈服/移交",
+        "ko": "to give way / to yield / to hand over",
+        "zh_HK": "讓路/屈服/移交",
+        "fr": "céder / céder / céder"
+      }
+    },
+    {
+      "id": "class_word_1127",
+      "word": "譲る",
+      "meaning": {
+        "en": "양보하다 / 넘겨주다 / 물러서다 / to give way / to hand over / to yield",
+        "zh_TW": "讓步/移交/讓步/讓步/移交/讓步",
+        "zh_CN": "讓步/移交/讓步/讓步/移交/讓步",
+        "ko": "양보하다 / 넘겨주다 / 물러서다 / to give way / to hand over / to yield",
+        "zh_HK": "讓步/移交/讓步/讓步/移交/讓步",
+        "fr": "céder / céder / se retirer / céder / céder / céder"
+      }
+    }
+  ],
+  "A: カフェでのアルバイトは接客の勉強になりますか？B: はい、笑顔で丁寧な接客を心がけるとお客様も喜んでくれます。": [
+    {
+      "id": "class_word_0879",
+      "word": "接客",
+      "meaning": {
+        "en": "손님 응대 / 서비스 / 접객",
+        "zh_TW": "客戶服務/服務/接待",
+        "zh_CN": "客戶服務/服務/接待",
+        "ko": "손님 응대 / 서비스 / 접객",
+        "zh_HK": "客戶服務/服務/接待",
+        "fr": "Service client / service / hospitalité"
+      }
+    },
+    {
+      "id": "class_word_1057",
+      "word": "接客",
+      "meaning": {
+        "en": "접객 / 손님 응대 / customer service / serving customers",
+        "zh_TW": "款待/服務客戶/客戶服務/服務客戶",
+        "zh_CN": "款待/服務客戶/客戶服務/服務客戶",
+        "ko": "접객 / 손님 응대 / customer service / serving customers",
+        "zh_HK": "款待/服務客戶/客戶服務/服務客戶",
+        "fr": "Hôtellerie / servir les clients / service client / servir les clients"
+      }
+    }
+  ],
+  "暴力は社会のガンだ。": [
+    {
+      "id": "class_word_0906",
+      "word": "暴力",
+      "meaning": {
+        "en": "violence",
+        "zh_TW": "暴力",
+        "zh_CN": "暴力",
+        "ko": "폭력",
+        "zh_HK": "暴力",
+        "fr": "violence"
+      }
+    },
+    {
+      "id": "class_word_1384",
+      "word": "社会",
+      "meaning": {
+        "en": "society",
+        "zh_TW": "社會",
+        "zh_CN": "社會",
+        "ko": "사회",
+        "zh_HK": "社會",
+        "fr": "société"
+      }
+    }
+  ],
+  "洪水で橋が壊れた。": [
+    {
+      "id": "class_word_0918",
+      "word": "洪水",
+      "meaning": {
+        "en": "flood / flooding",
+        "zh_TW": "洪水",
+        "zh_CN": "洪水",
+        "ko": "홍수",
+        "zh_HK": "水災",
+        "fr": "inondation / inondation"
+      }
+    },
+    {
+      "id": "class_word_1544",
+      "word": "洪水",
+      "meaning": {
+        "en": "flood",
+        "zh_TW": "洪水",
+        "zh_CN": "洪水",
+        "ko": "홍수",
+        "zh_HK": "洪水",
+        "fr": "inondation"
+      }
+    }
+  ],
+  "テストで解らないところは飛ばす。": [
+    {
+      "id": "class_word_0919",
+      "word": "飛ばす—スキップする",
+      "meaning": {
+        "en": "to skip / to jump over",
+        "zh_TW": "跳過",
+        "zh_CN": "跳過",
+        "ko": "건너뛰다 / 스킵하다",
+        "zh_HK": "略過",
+        "fr": "sauter / sauter par-dessus"
+      }
+    },
+    {
+      "id": "class_word_0920",
+      "word": "飛ばす—飛行機などを飛ばす",
+      "meaning": {
+        "en": "to fly / to launch / to send through the air",
+        "zh_TW": "放飛",
+        "zh_CN": "放飛",
+        "ko": "날리다 / 띄우다",
+        "zh_HK": "讓⋯飛",
+        "fr": "voler / lancer / envoyer dans les airs"
+      }
+    }
+  ],
+  "彼は末っ子だ。": [
+    {
+      "id": "class_word_1051",
+      "word": "末っ子",
+      "meaning": {
+        "en": "막내 / youngest child / youngest sibling",
+        "zh_TW": "最小的/最小的孩子/最小的兄弟姊妹",
+        "zh_CN": "最小的/最小的孩子/最小的兄弟姊妹",
+        "ko": "막내 / youngest child / youngest sibling",
+        "zh_HK": "最小的/最小的孩子/最小的兄弟姊妹",
+        "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
+      }
+    },
+    {
+      "id": "class_word_1078",
+      "word": "末っ子",
+      "meaning": {
+        "en": "막내 / youngest child / youngest sibling",
+        "zh_TW": "最小的/最小的孩子/最小的兄弟姊妹",
+        "zh_CN": "最小的/最小的孩子/最小的兄弟姊妹",
+        "ko": "막내 / youngest child / youngest sibling",
+        "zh_HK": "最小的/最小的孩子/最小的兄弟姊妹",
+        "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
+      }
+    },
+    {
+      "id": "class_word_1219",
+      "word": "末っ子",
+      "meaning": {
+        "en": "youngest child",
+        "zh_TW": "最小的孩子",
+        "zh_CN": "最小的孩子",
+        "ko": "막내",
+        "zh_HK": "最小的孩子",
+        "fr": "le plus jeune enfant"
+      }
+    },
+    {
+      "id": "class_word_1279",
+      "word": "末っ子",
+      "meaning": {
+        "en": "youngest child",
+        "zh_TW": "老么",
+        "zh_CN": "老么",
+        "ko": "막내",
+        "zh_HK": "最小的孩子",
+        "fr": "le plus jeune enfant"
+      }
+    }
+  ],
+  "彼女は礼儀正しい。": [
+    {
+      "id": "class_word_1052",
+      "word": "礼儀",
+      "meaning": {
+        "en": "예의 / 예절 / manners / etiquette / courtesy",
+        "zh_TW": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "zh_CN": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "ko": "예의 / 예절 / manners / etiquette / courtesy",
+        "zh_HK": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
+      }
+    },
+    {
+      "id": "class_word_1079",
+      "word": "礼儀",
+      "meaning": {
+        "en": "예의 / 예절 / manners / etiquette / courtesy",
+        "zh_TW": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "zh_CN": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "ko": "예의 / 예절 / manners / etiquette / courtesy",
+        "zh_HK": "禮貌/禮儀/禮貌/禮儀/禮貌",
+        "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
+      }
+    }
+  ],
+  "大家族なの？": [
+    {
+      "id": "class_word_1053",
+      "word": "大家",
+      "meaning": {
+        "en": "집주인 / 건물주 / landlord / property owner",
+        "zh_TW": "房東 / 業主 / 房東 / 業主",
+        "zh_CN": "房東 / 業主 / 房東 / 業主",
+        "ko": "집주인 / 건물주 / landlord / property owner",
+        "zh_HK": "房東 / 業主 / 房東 / 業主",
+        "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
+      }
+    },
+    {
+      "id": "class_word_1080",
+      "word": "大家",
+      "meaning": {
+        "en": "집주인 / 건물주 / landlord / property owner",
+        "zh_TW": "房東 / 業主 / 房東 / 業主",
+        "zh_CN": "房東 / 業主 / 房東 / 業主",
+        "ko": "집주인 / 건물주 / landlord / property owner",
+        "zh_HK": "房東 / 業主 / 房東 / 業主",
+        "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
+      }
+    },
+    {
+      "id": "class_word_1244",
+      "word": "家族",
+      "meaning": {
+        "en": "family",
+        "zh_TW": "家人",
+        "zh_CN": "家人",
+        "ko": "가족",
+        "zh_HK": "家族",
+        "fr": "famille"
+      }
+    }
+  ],
+  "昼以降に雪が降るの？": [
+    {
+      "id": "class_word_1065",
+      "word": "以降",
+      "meaning": {
+        "en": "이후 / after / from〜 onwards",
+        "zh_TW": "之後/之後/從〜開始",
+        "zh_CN": "之後/之後/從〜開始",
+        "ko": "이후 / after / from〜 onwards",
+        "zh_HK": "之後/之後/從〜開始",
+        "fr": "Après / après / à partir de〜"
+      }
+    },
+    {
+      "id": "class_word_1139",
+      "word": "以降",
+      "meaning": {
+        "en": "이후 / after / from〜 onwards",
+        "zh_TW": "之後/之後/從〜開始",
+        "zh_CN": "之後/之後/從〜開始",
+        "ko": "이후 / after / from〜 onwards",
+        "zh_HK": "之後/之後/從〜開始",
+        "fr": "Après / après / à partir de〜"
+      }
+    }
+  ],
+  "地下鉄に乗ろう。": [
+    {
+      "id": "class_word_1149",
+      "word": "地下鉄",
+      "meaning": {
+        "en": "subway",
+        "zh_TW": "捷運",
+        "zh_CN": "捷運",
+        "ko": "지하철",
+        "zh_HK": "捷運",
+        "fr": "métro"
+      }
+    },
+    {
+      "id": "class_word_1276",
+      "word": "地下鉄",
+      "meaning": {
+        "en": "subway / metro",
+        "zh_TW": "捷運",
+        "zh_CN": "捷運",
+        "ko": "지하철",
+        "zh_HK": "地鐵",
+        "fr": "métro / métro"
+      }
+    }
+  ],
+  "疑問が多い。": [
+    {
+      "id": "class_word_1292",
+      "word": "多い",
+      "meaning": {
+        "en": "많다 / many / a lot / to be a lot",
+        "zh_TW": "很多/很多/很多/很多",
+        "zh_CN": "很多/很多/很多/很多",
+        "ko": "많다 / many / a lot / to be a lot",
+        "zh_HK": "很多/很多/很多/很多",
+        "fr": "많다 / beaucoup / beaucoup / être beaucoup"
+      }
+    },
+    {
+      "id": "class_word_1392",
+      "word": "多い",
+      "meaning": {
+        "en": "many / a lot",
+        "zh_TW": "很多/很多",
+        "zh_CN": "很多/很多",
+        "ko": "많다/많다",
+        "zh_HK": "很多/很多",
+        "fr": "beaucoup / beaucoup"
+      }
+    }
+  ],
+  "家の手入れしないと。": [
+    {
+      "id": "class_word_1366",
+      "word": "手入れ",
+      "meaning": {
+        "en": "maintenance / upkeep / care",
+        "zh_TW": "保養",
+        "zh_CN": "保養",
+        "ko": "관리 / 손질",
+        "zh_HK": "維護",
+        "fr": "entretien / entretien / entretien"
+      }
+    },
+    {
+      "id": "class_word_1502",
+      "word": "手入れ",
+      "meaning": {
+        "en": "grooming; upkeep; care",
+        "zh_TW": "保養・整理",
+        "zh_CN": "保養・整理",
+        "ko": "손질; 유리; 배려",
+        "zh_HK": "保養・打理",
+        "fr": "toilettage; entretien; prendre soin"
+      }
+    }
+  ],
+  "戸外は暗い。": [
+    {
+      "id": "class_word_1406",
+      "word": "暗い—光",
+      "meaning": {
+        "en": "dark (light)",
+        "zh_TW": "昏暗",
+        "zh_CN": "昏暗",
+        "ko": "어둡다",
+        "zh_HK": "黑暗",
+        "fr": "sombre (clair)"
+      }
+    },
+    {
+      "id": "class_word_1407",
+      "word": "暗い—性格",
+      "meaning": {
+        "en": "gloomy / introverted",
+        "zh_TW": "陰沉",
+        "zh_CN": "陰沉",
+        "ko": "어둡다 / 내성적이다",
+        "zh_HK": "消極",
+        "fr": "sombre / introverti"
+      }
+    }
+  ],
+  "彼は環境に順応した。": [
+    {
+      "id": "class_word_1516",
+      "word": "環境",
+      "meaning": {
+        "en": "environment",
+        "zh_TW": "環境",
+        "zh_CN": "環境",
+        "ko": "환경",
+        "zh_HK": "環境",
+        "fr": "environnement"
+      }
+    },
+    {
+      "id": "class_word_1550",
+      "word": "環境",
+      "meaning": {
+        "en": "environment",
+        "zh_TW": "環境",
+        "zh_CN": "環境",
+        "ko": "환경",
+        "zh_HK": "環境",
+        "fr": "environnement"
+      }
+    }
+  ],
+  "彼は正直者だ。": [
+    {
+      "id": "class_word_1576",
+      "word": "正直（な人）",
+      "meaning": {
+        "en": "honest; sincere",
+        "zh_TW": "誠實・老實",
+        "zh_CN": "誠實・老實",
+        "ko": "솔직한; 성실한",
+        "zh_HK": "誠實",
+        "fr": "honnête; sincère"
+      }
+    },
+    {
+      "id": "class_word_1577",
+      "word": "正直（に言うと）",
+      "meaning": {
+        "en": "honestly; to be frank",
+        "zh_TW": "老實說・坦白說",
+        "zh_CN": "老實說・坦白說",
+        "ko": "솔직히; 솔직하게 말해서",
+        "zh_HK": "老實講",
+        "fr": "honnêtement ; pour être franc"
+      }
+    },
+    {
+      "id": "class_word_1686",
+      "word": "正直",
+      "meaning": {
+        "en": "Honest / honesty",
+        "ja": "正直",
+        "zh_TW": "Honest / honesty",
+        "zh_CN": "Honest / honesty",
+        "ko": "Honest / honesty",
+        "zh_HK": "Honest / honesty",
+        "fr": "honnêteté"
+      }
+    }
+  ],
+  "彼女は男性の前に行くと、急にぶりっ子になる。": [
+    {
+      "id": "card_0023_burikko",
+      "word": "ぶりっ子",
+      "meaning": {
+        "ja": "ぶりっ子",
+        "en": "girl playing dumb/cute, feigning innocence",
+        "zh_TW": "裝可愛的女生、做作女",
+        "ko": "귀여운 척하는 사람, 내숭쟁이"
+      }
+    },
+    {
+      "id": "card_midori_burikko",
+      "word": "ぶりっ子",
+      "meaning": {
+        "ja": "ぶりっ子",
+        "en": "girl playing dumb/cute, coquette",
+        "zh_TW": "裝可愛、裝無辜造作的女孩",
+        "ko": "girl playing dumb/cute, coquette"
+      }
+    }
+  ]
+}

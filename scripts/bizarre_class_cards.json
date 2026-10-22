@@ -1,0 +1,698 @@
+[
+  {
+    "id": "class_word_0029",
+    "word": "信じる",
+    "reading": "しんじる",
+    "current_ex": "<ruby>信<rt>しん</rt></ruby>じるとこよ。"
+  },
+  {
+    "id": "class_word_0030",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "current_ex": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。"
+  },
+  {
+    "id": "class_word_0073",
+    "word": "もちろん",
+    "reading": "もちろん",
+    "current_ex": "もちろんさ。"
+  },
+  {
+    "id": "class_word_0078",
+    "word": "遅い—時間",
+    "reading": "おそい",
+    "current_ex": "トムは<ruby>遅<rt>おそ</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0079",
+    "word": "遅い—スピード",
+    "reading": "おそい",
+    "current_ex": "トムは<ruby>遅<rt>おそ</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_0089",
+    "word": "着く",
+    "reading": "つく",
+    "current_ex": "いつ<ruby>着<rt>つ</rt></ruby>くの？"
+  },
+  {
+    "id": "class_word_0092",
+    "word": "薬",
+    "reading": "くすり",
+    "current_ex": "<ruby>薬<rt>くすり</rt></ruby>が<ruby>効<rt>き</rt></ruby>いた。"
+  },
+  {
+    "id": "class_word_0094",
+    "word": "運動",
+    "reading": "うんどう",
+    "current_ex": "<ruby>運動<rt>うんどう</rt></ruby>します。"
+  },
+  {
+    "id": "class_word_0102",
+    "word": "蚊",
+    "reading": "か",
+    "current_ex": "<ruby>蚊<rt>か</rt></ruby>が<ruby>刺<rt>さ</rt></ruby>した。"
+  },
+  {
+    "id": "class_word_0112",
+    "word": "日記",
+    "reading": "にっき",
+    "current_ex": "<ruby>日記<rt>にっき</rt></ruby>をつける。"
+  },
+  {
+    "id": "class_word_0114",
+    "word": "結婚",
+    "reading": "けっこん",
+    "current_ex": "<ruby>結婚<rt>けっこん</rt></ruby>しよう。"
+  },
+  {
+    "id": "class_word_0125",
+    "word": "試す",
+    "reading": "ためす",
+    "current_ex": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby>試<rt>ため</rt></ruby>す。"
+  },
+  {
+    "id": "class_word_0127",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "current_ex": "<ruby>散歩<rt>さんぽ</rt></ruby>をした。"
+  },
+  {
+    "id": "class_word_0138",
+    "word": "飴",
+    "reading": "あめ",
+    "current_ex": "<ruby>飴<rt>あめ</rt></ruby>がほしい。"
+  },
+  {
+    "id": "class_word_0143",
+    "word": "懐かしい",
+    "reading": "なつかしい",
+    "current_ex": "<ruby>懐<rt>なつ</rt></ruby>かしいな。"
+  },
+  {
+    "id": "class_word_0159",
+    "word": "お皿",
+    "reading": "おさら",
+    "current_ex": "お<ruby>皿<rt>さら</rt></ruby><ruby>洗<rt>あら</rt></ruby>って。"
+  },
+  {
+    "id": "class_word_0160",
+    "word": "肌",
+    "reading": "はだ",
+    "current_ex": "<ruby>肌寒<rt>はださむ</rt></ruby>いです。"
+  },
+  {
+    "id": "class_word_0198",
+    "word": "ぜひ",
+    "reading": "ぜひ",
+    "current_ex": "ぜひそうしよう。"
+  },
+  {
+    "id": "class_word_0261",
+    "word": "床",
+    "reading": "ゆか",
+    "current_ex": "<ruby>床<rt>ゆか</rt></ruby>に<ruby>伏<rt>ふ</rt></ruby>せろ！"
+  },
+  {
+    "id": "class_word_0321",
+    "word": "時計",
+    "reading": "とけい",
+    "current_ex": "<ruby>時計<rt>とけい</rt></ruby>してる？"
+  },
+  {
+    "id": "class_word_0325",
+    "word": "いっぱい",
+    "reading": "いっぱい",
+    "current_ex": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？"
+  },
+  {
+    "id": "class_word_0329",
+    "word": "時計",
+    "reading": "とけい",
+    "current_ex": "<ruby>時計<rt>とけい</rt></ruby>してる？"
+  },
+  {
+    "id": "class_word_0345",
+    "word": "寒い",
+    "reading": "さむい",
+    "current_ex": "<ruby>肌寒<rt>はださむ</rt></ruby>いです。"
+  },
+  {
+    "id": "class_word_0346",
+    "word": "一杯",
+    "reading": "いっぱい",
+    "current_ex": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？"
+  },
+  {
+    "id": "class_word_0364",
+    "word": "大学院",
+    "reading": "だいがくいん",
+    "current_ex": "トムは<ruby>大学院生<rt>だいがくいんせい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0403",
+    "word": "離婚",
+    "reading": "りこん",
+    "current_ex": "<ruby>離婚<rt>りこん</rt></ruby>するの？"
+  },
+  {
+    "id": "class_word_0406",
+    "word": "火事",
+    "reading": "かじ",
+    "current_ex": "<ruby>家<rt>いえ</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0433",
+    "word": "久しぶり",
+    "reading": "ひさしぶり",
+    "current_ex": "お<ruby>久<rt>ひさ</rt></ruby>しぶり。"
+  },
+  {
+    "id": "class_word_0449",
+    "word": "大学院",
+    "reading": "だいがくいん",
+    "current_ex": "トムは<ruby>大学院生<rt>だいがくいんせい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0462",
+    "word": "孫",
+    "reading": "まご",
+    "current_ex": "<ruby>孫<rt>まご</rt></ruby>はいないよ。"
+  },
+  {
+    "id": "class_word_0479",
+    "word": "演技",
+    "reading": "えんぎ",
+    "current_ex": "<ruby>演技<rt>えんぎ</rt></ruby>はじめ！"
+  },
+  {
+    "id": "class_word_0505",
+    "word": "少し",
+    "reading": "すこし",
+    "current_ex": "<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れた。"
+  },
+  {
+    "id": "class_word_0525",
+    "word": "近く",
+    "reading": "ちかく",
+    "current_ex": "７<ruby>時<rt>じ</rt></ruby><ruby>近<rt>ちか</rt></ruby>くだ。"
+  },
+  {
+    "id": "class_word_0551",
+    "word": "夏",
+    "reading": "なつ",
+    "current_ex": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>過<rt>す</rt></ruby>ぎた。"
+  },
+  {
+    "id": "class_word_0552",
+    "word": "春",
+    "reading": "はる",
+    "current_ex": "<ruby>春<rt>はる</rt></ruby>になった。"
+  },
+  {
+    "id": "class_word_0561",
+    "word": "送る",
+    "reading": "おくる",
+    "current_ex": "<ruby>誰<rt>だれ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>るの？"
+  },
+  {
+    "id": "class_word_0564",
+    "word": "駄目",
+    "reading": "だめ",
+    "current_ex": "いや<ruby>駄目<rt>だめ</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_0576",
+    "word": "冬",
+    "reading": "ふゆ",
+    "current_ex": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れる。"
+  },
+  {
+    "id": "class_word_0586",
+    "word": "飼う",
+    "reading": "かう",
+    "current_ex": "がちょうを<ruby>飼<rt>か</rt></ruby>う。"
+  },
+  {
+    "id": "class_word_0598",
+    "word": "頭痛",
+    "reading": "ずつう",
+    "current_ex": "<ruby>頭痛<rt>ずつう</rt></ruby>がする。"
+  },
+  {
+    "id": "class_word_0605",
+    "word": "なる",
+    "reading": "なる",
+    "current_ex": "なるほどね。"
+  },
+  {
+    "id": "class_word_0607",
+    "word": "停電",
+    "reading": "ていでん",
+    "current_ex": "あ、<ruby>停電<rt>ていでん</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_0851",
+    "word": "くしゃみ",
+    "reading": "くしゃみ",
+    "current_ex": "くしゃみしっぱなし。"
+  },
+  {
+    "id": "class_word_0910",
+    "word": "わがまま",
+    "reading": "わがまま",
+    "current_ex": "わがままね。"
+  },
+  {
+    "id": "class_word_1063",
+    "word": "派手",
+    "reading": "はで",
+    "current_ex": "<ruby>派手<rt>はで</rt></ruby>すぎるよ。"
+  },
+  {
+    "id": "class_word_1098",
+    "word": "逃げる",
+    "reading": "にげる",
+    "current_ex": "<ruby>逃<rt>に</rt></ruby>げるが<ruby>勝<rt>か</rt></ruby>ち。"
+  },
+  {
+    "id": "class_word_1103",
+    "word": "演技",
+    "reading": "えんぎ",
+    "current_ex": "<ruby>演技<rt>えんぎ</rt></ruby>はじめ！"
+  },
+  {
+    "id": "class_word_1153",
+    "word": "持つ",
+    "reading": "もつ",
+    "current_ex": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>持<rt>も</rt></ruby>つよ。"
+  },
+  {
+    "id": "class_word_1154",
+    "word": "花",
+    "reading": "はな",
+    "current_ex": "<ruby>言<rt>い</rt></ruby>わぬが<ruby>花<rt>はな</rt></ruby>。"
+  },
+  {
+    "id": "class_word_1156",
+    "word": "喉",
+    "reading": "のど",
+    "current_ex": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いた。"
+  },
+  {
+    "id": "class_word_1162",
+    "word": "体育",
+    "reading": "たいいく",
+    "current_ex": "トムは<ruby>体育<rt>たいいく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1168",
+    "word": "手紙",
+    "reading": "てがみ",
+    "current_ex": "はい、<ruby>手紙<rt>てがみ</rt></ruby>。"
+  },
+  {
+    "id": "class_word_1169",
+    "word": "出る",
+    "reading": "でる",
+    "current_ex": "<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る？"
+  },
+  {
+    "id": "class_word_1193",
+    "word": "飴",
+    "reading": "あめ",
+    "current_ex": "<ruby>飴<rt>あめ</rt></ruby>がほしい。"
+  },
+  {
+    "id": "class_word_1201",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "current_ex": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。"
+  },
+  {
+    "id": "class_word_1204",
+    "word": "服",
+    "reading": "ふく",
+    "current_ex": "<ruby>一服<rt>いっぷく</rt></ruby>させて。"
+  },
+  {
+    "id": "class_word_1212",
+    "word": "いっぱい",
+    "reading": "いっぱい",
+    "current_ex": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？"
+  },
+  {
+    "id": "class_word_1224",
+    "word": "旦那",
+    "reading": "だんな",
+    "current_ex": "うちの<ruby>旦那<rt>だんな</rt></ruby>。"
+  },
+  {
+    "id": "class_word_1234",
+    "word": "友達",
+    "reading": "ともだち",
+    "current_ex": "<ruby>友達<rt>ともだち</rt></ruby>でしょ？"
+  },
+  {
+    "id": "class_word_1253",
+    "word": "まだ",
+    "reading": "まだ",
+    "current_ex": "まだ<ruby>怖<rt>こわ</rt></ruby>いの？"
+  },
+  {
+    "id": "class_word_1261",
+    "word": "いつ",
+    "reading": "いつ",
+    "current_ex": "いつ<ruby>着<rt>つ</rt></ruby>くの？"
+  },
+  {
+    "id": "class_word_1262",
+    "word": "どこ",
+    "reading": "どこ",
+    "current_ex": "ジムはどこ？"
+  },
+  {
+    "id": "class_word_1264",
+    "word": "何",
+    "reading": "なに・なん",
+    "current_ex": "<ruby>何<rt>なに</rt></ruby>してるの？"
+  },
+  {
+    "id": "class_word_1277",
+    "word": "車",
+    "reading": "くるま",
+    "current_ex": "<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って。"
+  },
+  {
+    "id": "class_word_1290",
+    "word": "いい",
+    "reading": "いい",
+    "current_ex": "<ruby>運<rt>うん</rt></ruby>がいいね。"
+  },
+  {
+    "id": "class_word_1293",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "current_ex": "それ<ruby>美味<rt>おい</rt></ruby>しい？"
+  },
+  {
+    "id": "class_word_1331",
+    "word": "運動",
+    "reading": "うんどう",
+    "current_ex": "<ruby>運動<rt>うんどう</rt></ruby>します。"
+  },
+  {
+    "id": "class_word_1341",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "current_ex": "<ruby>散歩<rt>さんぽ</rt></ruby>をした。"
+  },
+  {
+    "id": "class_word_1354",
+    "word": "頭痛",
+    "reading": "ずつう",
+    "current_ex": "<ruby>頭痛<rt>ずつう</rt></ruby>がする。"
+  },
+  {
+    "id": "class_word_1359",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "current_ex": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。"
+  },
+  {
+    "id": "class_word_1360",
+    "word": "悲しい",
+    "reading": "かなしい",
+    "current_ex": "<ruby>悲<rt>かな</rt></ruby>しいです。"
+  },
+  {
+    "id": "class_word_1420",
+    "word": "金庫",
+    "reading": "きんこ",
+    "current_ex": "<ruby>金庫<rt>きんこ</rt></ruby>はどこ？"
+  },
+  {
+    "id": "class_word_1429",
+    "word": "賭け",
+    "reading": "かけ",
+    "current_ex": "<ruby>大<rt>おお</rt></ruby>きな<ruby>賭<rt>か</rt></ruby>けだ。"
+  },
+  {
+    "id": "class_word_1434",
+    "word": "登る",
+    "reading": "のぼる",
+    "current_ex": "<ruby>塀<rt>へい</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るな。"
+  },
+  {
+    "id": "class_word_1437",
+    "word": "戻る—元の場所へ",
+    "reading": "もどる",
+    "current_ex": "すぐに<ruby>戻<rt>もど</rt></ruby>るよ。"
+  },
+  {
+    "id": "class_word_1438",
+    "word": "戻る—こちらへ",
+    "reading": "もどる",
+    "current_ex": "すぐに<ruby>戻<rt>もど</rt></ruby>るよ。"
+  },
+  {
+    "id": "class_word_1447",
+    "word": "最近",
+    "reading": "さいきん",
+    "current_ex": "<ruby>最近<rt>さいきん</rt></ruby>どうだ？"
+  },
+  {
+    "id": "class_word_1450",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "current_ex": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。"
+  },
+  {
+    "id": "class_word_1461",
+    "word": "品質",
+    "reading": "ひんしつ",
+    "current_ex": "<ruby>品質<rt>ひんしつ</rt></ruby>がいい。"
+  },
+  {
+    "id": "class_word_1474",
+    "word": "間に合う",
+    "reading": "まにあう",
+    "current_ex": "まだ<ruby>間に合<rt>まにあ</rt></ruby>う。"
+  },
+  {
+    "id": "class_word_1493",
+    "word": "勝つ",
+    "reading": "かつ",
+    "current_ex": "<ruby>戦<rt>たたか</rt></ruby>いに<ruby>勝<rt>か</rt></ruby>つ。"
+  },
+  {
+    "id": "class_word_1499",
+    "word": "運動",
+    "reading": "うんどう",
+    "current_ex": "<ruby>運動<rt>うんどう</rt></ruby>します。"
+  },
+  {
+    "id": "class_word_1519",
+    "word": "飼う",
+    "reading": "かう",
+    "current_ex": "がちょうを<ruby>飼<rt>か</rt></ruby>う。"
+  },
+  {
+    "id": "class_word_1525",
+    "word": "怪我",
+    "reading": "けが",
+    "current_ex": "<ruby>怪我<rt>けが</rt></ruby>はない？"
+  },
+  {
+    "id": "class_word_1530",
+    "word": "複合",
+    "reading": "ふくごう",
+    "current_ex": "トムは<ruby>新<rt>あたら</rt></ruby>しい<ruby>複合<rt>ふくごう</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。"
+  },
+  {
+    "id": "class_word_1559",
+    "word": "限界",
+    "reading": "げんかい",
+    "current_ex": "もう<ruby>限界<rt>げんかい</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1574",
+    "word": "いくつ",
+    "reading": "いくつ",
+    "current_ex": "いくつですか？"
+  },
+  {
+    "id": "class_word_1575",
+    "word": "いくら",
+    "reading": "いくら",
+    "current_ex": "いくらですか？"
+  },
+  {
+    "id": "class_word_1596",
+    "word": "間違い",
+    "reading": "まちがい",
+    "current_ex": "<ruby>間違<rt>まちが</rt></ruby>いない！"
+  },
+  {
+    "id": "class_word_1603",
+    "word": "連絡",
+    "reading": "れんらく",
+    "current_ex": "<ruby>連絡<rt>れんらく</rt></ruby>してね。"
+  },
+  {
+    "id": "class_word_1606",
+    "word": "遠い",
+    "reading": "とおい",
+    "current_ex": "ここから<ruby>遠<rt>とお</rt></ruby>いの？"
+  },
+  {
+    "id": "class_word_1618",
+    "word": "行く",
+    "reading": "いく",
+    "current_ex": "<ruby>誰<rt>だれ</rt></ruby>と<ruby>行<rt>い</rt></ruby>くの。"
+  },
+  {
+    "id": "class_word_1625",
+    "word": "詐欺",
+    "reading": "さぎ",
+    "current_ex": "<ruby>詐欺<rt>さぎ</rt></ruby><ruby>臭<rt>くさ</rt></ruby>いな。"
+  },
+  {
+    "id": "class_word_1638",
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "current_ex": "ゆっくり<ruby>歩<rt>ある</rt></ruby>け。"
+  },
+  {
+    "id": "class_word_1688",
+    "word": "のんびり",
+    "reading": "のんびり",
+    "current_ex": "のんびり<ruby>行<rt>い</rt></ruby>こう。"
+  },
+  {
+    "id": "class_word_1691",
+    "word": "行き",
+    "reading": "いき",
+    "current_ex": "<ruby>行<rt>い</rt></ruby>きなさい。"
+  },
+  {
+    "id": "class_word_1703",
+    "word": "自由",
+    "reading": "じゆう",
+    "current_ex": "<ruby>自由<rt>じゆう</rt></ruby>の<ruby>身<rt>み</rt></ruby>ね。"
+  },
+  {
+    "id": "class_word_1705",
+    "word": "世代",
+    "reading": "せだい",
+    "current_ex": "トムは<ruby>私<rt>わたし</rt></ruby>と<ruby>同<rt>どう</rt></ruby><ruby>世代<rt>せだい</rt></ruby>よ。"
+  },
+  {
+    "id": "class_word_1708",
+    "word": "自動",
+    "reading": "じどう",
+    "current_ex": "<ruby>自動<rt>じどう</rt></ruby>ドアです。"
+  },
+  {
+    "id": "class_word_1724",
+    "word": "重い",
+    "reading": "おもい",
+    "current_ex": "トムは<ruby>重<rt>おも</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1739",
+    "word": "結果",
+    "reading": "けっか",
+    "current_ex": "<ruby>結果<rt>けっか</rt></ruby>は<ruby>良<rt>よ</rt></ruby>い。"
+  },
+  {
+    "id": "class_word_1770",
+    "word": "先輩",
+    "reading": "せんぱい",
+    "current_ex": "トムは<ruby>高校<rt>こうこう</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1771",
+    "word": "後輩",
+    "reading": "こうはい",
+    "current_ex": "トムは<ruby>高校<rt>こうこう</rt></ruby>の<ruby>後輩<rt>こうはい</rt></ruby>です。"
+  },
+  {
+    "id": "class_word_1775",
+    "word": "後悔",
+    "reading": "こうかい",
+    "current_ex": "<ruby>後悔<rt>こうかい</rt></ruby>するよ。"
+  },
+  {
+    "id": "class_word_1776",
+    "word": "手遅れ",
+    "reading": "ておくれ",
+    "current_ex": "<ruby>手遅<rt>ておく</rt></ruby>れだね。"
+  },
+  {
+    "id": "class_word_1797",
+    "word": "癖",
+    "reading": "くせ",
+    "current_ex": "<ruby>癖<rt>くせ</rt></ruby>になった。"
+  },
+  {
+    "id": "class_word_1827",
+    "word": "焦る",
+    "reading": "あせる",
+    "current_ex": "そんなに<ruby>焦<rt>あせ</rt></ruby>るな。"
+  },
+  {
+    "id": "class_word_1828",
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "current_ex": "<ruby>恥<rt>は</rt></ruby>ずかしいなぁ！"
+  },
+  {
+    "id": "class_word_1870",
+    "word": "予約",
+    "reading": "よやく",
+    "current_ex": "<ruby>予約<rt>よやく</rt></ruby>してある。"
+  },
+  {
+    "id": "class_word_1882",
+    "word": "地震",
+    "reading": "じしん",
+    "current_ex": "<ruby>地震<rt>じしん</rt></ruby>だった？"
+  },
+  {
+    "id": "class_word_1884",
+    "word": "めまい",
+    "reading": "めまい",
+    "current_ex": "めまいがします。"
+  },
+  {
+    "id": "class_word_1908",
+    "word": "毛",
+    "reading": "け",
+    "current_ex": "はい、<ruby>毛布<rt>もうふ</rt></ruby>。"
+  },
+  {
+    "id": "class_word_1910",
+    "word": "財布",
+    "reading": "さいふ",
+    "current_ex": "ほら<ruby>財布<rt>さいふ</rt></ruby>だ。"
+  },
+  {
+    "id": "class_word_1946",
+    "word": "直す",
+    "reading": "なおす",
+    "current_ex": "かけ<ruby>直<rt>なお</rt></ruby>すよ。"
+  },
+  {
+    "id": "class_word_1993",
+    "word": "想像",
+    "reading": "そうぞう",
+    "current_ex": "<ruby>想像<rt>そうぞう</rt></ruby>つくよ。"
+  },
+  {
+    "id": "class_word_1995",
+    "word": "姿",
+    "reading": "すがた",
+    "current_ex": "<ruby>姿<rt>すがた</rt></ruby>をあらわせ！"
+  }
+]

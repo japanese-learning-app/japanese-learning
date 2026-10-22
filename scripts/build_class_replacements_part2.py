@@ -1,0 +1,897 @@
+# -*- coding: utf-8 -*-
+"""
+Class Vocab Replacements Builder (Part 2/2)
+Generates high quality, natural, conversational Japanese sentences
+with correct furigana and 6-language translations for the remaining 94 cards in CLASS_VOCAB_DATA.
+"""
+
+import json
+
+REPLACEMENTS = {}
+
+def add_card(cid, ja, en, zh_tw, zh_cn, ko, zh_hk, fr):
+    REPLACEMENTS[cid] = {
+        "ja": ja,
+        "en": en,
+        "zh_TW": zh_tw,
+        "zh_CN": zh_cn,
+        "ko": ko,
+        "zh_HK": zh_hk,
+        "fr": fr
+    }
+
+# --- お金がかかる (2 cards) ---
+add_card("class_word_0050",
+    "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>光熱<rt>こうねつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>など<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。",
+    "When you start living alone, it costs more money than expected for rent and utilities.",
+    "一旦開始一個人住，房租和水電費等開銷會比想像中還要花錢。",
+    "一旦开始一个人住，房租和水电费等开销会比想象中还要花钱。",
+    "혼자 살기 시작하면 집세와 공과금 등 생각보다 돈이 많이 듭니다.",
+    "自己搬出嚟一個人住，交租同水電煤開支比想像中要使多好多錢。",
+    "Quand on commence à vivre seul, le loyer et les charges coûtent plus cher que prévu.")
+
+add_card("class_word_0623",
+    "<ruby>海外<rt>かいがい</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby>には<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>がかかるため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>することにしました。",
+    "Studying abroad costs a lot of money for tuition and living expenses, so I decided to apply for a scholarship.",
+    "出國留學需要花費大筆學費和生活費，因此我決定申請獎學金。",
+    "出国留学需要花费大笔学费和生活费，因此我决定申请奖学金。",
+    "해외 유학은 학비와 생활비로 돈이 많이 들기 때문에 장학금을 신청하기로 했습니다.",
+    "去外國留學學費同生活費好貴要使好多錢，所以我決定申請獎學金。",
+    "Étudier à l'étranger coûte beaucoup d'argent en frais de scolarité et de vie, j'ai donc décidé de demander une bourse.")
+
+# --- 以降 (2 cards) ---
+add_card("class_word_1065",
+    "<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>までです。それ<ruby>以降<rt>いこう</rt></ruby>のお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせは<ruby>明日<rt>あした</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。",
+    "Counter reception today is until 5 PM. For any inquiries after that, please contact us tomorrow.",
+    "今天的臨櫃受理至下午5點截止。5點之後的洽詢請於明日再來電。",
+    "今天的临柜受理至下午5点截止。5点之后的洽询请于明日再来电。",
+    "오늘 창구 접수는 오후 5시까지입니다. 그 이후의 문의는 내일 부탁드립니다.",
+    "今日嘅櫃位辦事處開到下晝5點。之後嘅查詢請聽日再搵我哋。",
+    "L'accueil au guichet ferme aujourd'hui à 17h. Pour toute demande après cette heure, merci de nous contacter demain.")
+
+add_card("class_word_1139",
+    "<ruby>来月<rt>らいげつ</rt></ruby>の1<ruby>日<rt>ついたち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>料金<rt>りょうきん</rt></ruby>プランが<ruby>適用<rt>てきよう</rt></ruby>されますのでご<ruby>確認<rt>かくにん</rt></ruby>ください。",
+    "From the 1st of next month onward, the new pricing plan will apply, so please take a look.",
+    "下個月1日之後將開始實施新的收費方案，敬請查閱確認。",
+    "下个月1日之后将开始实施新的收费方案，敬请查阅确认。",
+    "다음 달 1일 이후로 새로운 요금제가 적용되오니 확인해 주시기 바랍니다.",
+    "由下個月1號起，就會實施新嘅收費計劃，請大家留意同確認。",
+    "À partir du 1er du mois prochain, la nouvelle formule tarifaire s'appliquera, veuillez vérifier.")
+
+# --- 地下鉄 (2 cards) ---
+add_card("class_word_1149",
+    "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>路線<rt>ろせん</rt></ruby>が<ruby>複雑<rt>ふくざつ</rt></ruby>ですが、どこへ<ruby>行<rt>い</rt></ruby>くにもとても<ruby>便利<rt>べんり</rt></ruby>です。",
+    "The Tokyo subway lines are intricate, but it is extremely convenient for going anywhere.",
+    "東京的地下鐵路網雖然複雜，但要前往任何地方都非常方便。",
+    "东京的地下铁路网虽然复杂，但要前往任何地方都非常方便。",
+    "도쿄의 지하철은 노선이 복잡하지만, 어디를 가든 무척 편리합니다.",
+    "東京嘅地下鐵路網雖然好複雜，但去邊度都非常方便快捷。",
+    "Le métro de Tokyo a des lignes complexes, mais il est extrêmement pratique pour aller n'importe où.")
+
+add_card("class_word_1276",
+    "<ruby>朝<rt>あさ</rt></ruby>のラッシュ<ruby>時<rt>じ</rt></ruby>は<ruby>地下鉄<rt>ちかてつ</rt></ruby>のホームがたくさんの<ruby>通勤客<rt>つうきんきゃく</rt></ruby>でたいへん<ruby>混雑<rt>こんざつ</rt></ruby>します。",
+    "During the morning rush hour, subway platforms are extremely crowded with many commuters.",
+    "早上的通勤尖峰時段，地下鐵月台上擠滿了大量趕著上班的人潮。",
+    "早上的通勤尖峰时段，地下铁月台上挤满了大量赶着上班的人潮。",
+    "아침 출근 시간에는 지하철 승강장이 수많은 통근 승객으로 매우 혼잡합니다.",
+    "朝早返工繁忙時間，地鐵月台擠滿咗趕住返工返學嘅乘客好迫人。",
+    "Pendant l'heure de pointe matinale, les quais du métro sont bondés de navetteurs.")
+
+# --- 地元 (2 cards) ---
+add_card("class_word_0529",
+    "<ruby>地元<rt>じもと</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>を使った<ruby>郷土<rt>きょうど</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>は、<ruby>観光客<rt>かんこうきゃく</rt></ruby>にも<ruby>大人気<rt>だいにんき</rt></ruby>です。",
+    "Local dishes made with fresh local vegetables are also wildly popular among tourists.",
+    "使用在地新鮮蔬菜烹煮的在地特色料理，在觀光客之間也非常受歡迎。",
+    "使用当地新鲜蔬菜烹煮的当地特色料理，在观光客之间也非常受欢迎。",
+    "현지의 신선한 채소로 만든 향토 요리는 관광객들에게도 인기가 아주 많습니다.",
+    "用本地新鮮時令蔬菜煮嘅地道鄉土菜，喺遊客心目中都好受歡迎。",
+    "Les spécialités régionales à base de légumes locaux frais sont également très prisées des touristes.")
+
+add_card("class_word_1399",
+    "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>都会<rt>とかい</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいますが、お<ruby>盆<rt>ぼん</rt></ruby>や<ruby>正月<rt>しょうがつ</rt></ruby>には<ruby>必<rt>かなら</rt></ruby>ず<ruby>地元<rt>じもと</rt></ruby>の<ruby>実家<rt>じっか</rt></ruby>に<ruby>帰省<rt>きせい</rt></ruby>します。",
+    "I live in the big city for work, but I always return to my hometown family home for Obon and New Year's.",
+    "雖然因為工作而居住在城市，但盂蘭盆節和過年時我一定會回老家探親。",
+    "虽然因为工作而居住在城市，但盂兰盆节和过年时我一定会回老家探亲。",
+    "일 때문에 도시에 살고 있지만, 명절에는 반드시 고향 본가로 귀성합니다.",
+    "雖然我喺大城市返工住，但大時大節一定會返鄉下老家同屋企人團聚。",
+    "J'habite en ville pour mon travail, mais je rentre toujours chez mes parents dans ma région natale pour les fêtes.")
+
+# --- 多い (2 cards) ---
+add_card("class_word_1292",
+    "この<ruby>観光地<rt>かんこうち</rt></ruby>は<ruby>自然<rt>しぜん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>景色<rt>けしき</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいため、<ruby>一年中<rt>いちねんじゅう</rt></ruby><ruby>訪<rt>おとず</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+    "This sightseeing spot is rich in nature with beautiful scenery, so visitors are numerous all year round.",
+    "這座觀光勝地大自然豐富且景色迷人，一整年造訪的遊客都非常多。",
+    "这座观光胜地大自然丰富且景色迷人，一整年造访的游客都非常多。",
+    "이 관광지는 자연이 풍요롭고 경치가 아름다워 연중 방문객이 많습니다.",
+    "呢個景點大自然風光秀麗景色好靚，一年四季都有好多遊客嚟參觀。",
+    "Ce site touristique est riche en nature et possède de superbes paysages, les visiteurs y sont donc nombreux toute l'année.")
+
+add_card("class_word_1392",
+    "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>には<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>が<ruby>複数<rt>ふくすう</rt></ruby>あるものが<ruby>多<rt>おお</rt></ruby>いので、じっくり<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。",
+    "Many Japanese kanji have multiple readings, so take your time learning them carefully.",
+    "日語漢字中有許多字擁有好幾種讀音，請沉著耐心地逐一記下來吧。",
+    "日语汉字中有许多字拥有好几种读音，请沉着耐心地逐一记下来吧。",
+    "일본어 한자에는 읽는 법이 여러 개인 것이 많으므로 차근차근 익혀 나갑시다.",
+    "日文漢字好多都有幾種唔同嘅讀法，慢慢一步步記熟佢啦。",
+    "Beaucoup de kanjis japonais ont plusieurs lectures, prenez donc le temps de les mémoriser posément.")
+
+# --- 大盛り (2 cards) ---
+add_card("class_word_0024",
+    "「お<ruby>腹<rt>なか</rt></ruby>がとてもすいたので、ご<ruby>飯<rt>はん</rt></ruby>を<ruby>大盛<rt>おおも</rt></ruby>りにしてもらえますか？」「はい、かしこまりました！」",
+    "'I'm very hungry, could you make my rice a large serving?' 'Certainly!'",
+    "「我肚子很餓，請問白飯可以幫我盛大碗的嗎？」「好的，沒問題！」",
+    "“我肚子很饿，请问白饭可以帮我盛大碗的吗？”“好的，没问题！”",
+    "'배가 너무 고파서 밥 곱빼기로 주실 수 있나요?' '네, 알겠습니다!'",
+    "「我好肚餓，可唔可以幫我將碗飯加大呀？」「好呀，冇問題！」",
+    "'J'ai très faim, pourriez-vous me servir une grande portion de riz ?' 'Certainement !'")
+
+add_card("class_word_0366",
+    "この定食屋さんはランチタイムに麺の<ruby>大盛<rt>おおも</rt></ruby>りを無料でサービスしてくれます。",
+    "This set-meal diner offers large portions of noodles free of charge during lunch hours.",
+    "這家定食餐廳在午餐時段免費提供加大麵量的貼心服務。",
+    "这家定食餐厅在午餐时段免费提供加大面量的贴心服务。",
+    "이 정식집은 점심시간에 면 곱빼기를 무료로 서비스해 줍니다.",
+    "呢間日式定食小店喺午市嗰陣，可以免費幫你將個麵加大。",
+    "Ce restaurant de menus propose gratuitement une grande portion de nouilles pendant le déjeuner.")
+
+# --- 少しずつ (2 cards) ---
+add_card("class_word_0055",
+    "<ruby>難<rt>むずか</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>も、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>勉強<rt>べんきょう</rt></ruby>すれば<ruby>必<rt>かなら</rt></ruby>ず<ruby>理解<rt>りかい</rt></ruby>できるようになります。",
+    "Even difficult Japanese grammar will surely become understandable if you study it little by little every day.",
+    "再難的日語文法，只要每天一點一滴學習，一定能融會貫通。",
+    "再难的日语语法，只要每天一点一滴学习，一定能融会贯通。",
+    "어려운 일본어 문법도 매일 조금씩 공부하면 반드시 이해할 수 있게 됩니다.",
+    "幾深奧嘅日文文法都好，只要每日少少噉溫習，遲早一定會明嘅。",
+    "Même la grammaire japonaise difficile deviendra compréhensible si vous l'étudiez petit à petit chaque jour.")
+
+add_card("class_word_0111",
+    "<ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>少<rt>すこ</rt></ruby>しずつ・ちょっとずつ<ruby>前進<rt>ぜんしん</rt></ruby>していきましょう。",
+    "Don't worry, there's no need to rush. Let's move forward little by little at your own pace.",
+    "不用著急沒關係的。照著自己的步調一點一點向前邁進吧。",
+    "不用着急没关系的。照着自己的步调一点一点向前迈进吧。",
+    "조급해하지 않아도 괜찮아요. 자신만의 페이스로 조금씩 조금씩 나아가 봅시다.",
+    "唔使心急㗎，照返自己嘅節奏慢慢一步一步向前行就得㗎喇。",
+    "Ne vous inquiétez pas, rien ne presse. Avançons petit à petit, à votre propre rythme.")
+
+# --- 彼女 (2 cards) ---
+add_card("class_word_0506",
+    "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>明<rt>あか</rt></ruby>るい<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>してくれるので、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>を元気にします。",
+    "She always greets everyone with a bright smile, which cheers up those around her.",
+    "她總是帶著開朗的笑容向大家打招呼，讓周圍的人都充滿了元氣。",
+    "她总是带着开朗的笑容向大家打招呼，让周围的人都充满了元气。",
+    "그녀는 언제나 밝은 미소로 인사해 주어서 주위 사람들에게 활력을 줍니다.",
+    "佢成日都帶住甜美開朗嘅笑容同人打招呼，令身邊嘅人都好有正能量。",
+    "Elle dit toujours bonjour avec un sourire éclatant, ce qui met tout le monde de bonne humeur.")
+
+add_card("class_word_1245",
+    "<ruby>来週末<rt>らいしゅうまつ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>なので、<ruby>素敵<rt>すてき</rt></ruby>なレストランを<ruby>予約<rt>よやく</rt></ruby>しました。",
+    "Next weekend is my girlfriend's birthday, so I booked a lovely restaurant.",
+    "下週末是我女朋友的生日，所以我預訂了一家非常棒的景觀餐廳。",
+    "下周末是我女朋友的生日，所以我预订了一家非常棒的景观餐厅。",
+    "다음 주말은 여자친구의 생일이라서 멋진 레스토랑을 예약해 두었습니다.",
+    "下個禮拜六日係我女朋友生日，我訂咗間好靚好浪漫嘅餐廳同佢慶祝。",
+    "Le week-end prochain, c'est l'anniversaire de ma petite amie, alors j'ai réservé une table dans un restaurant charmant.")
+
+# --- 手入れ (2 cards) ---
+add_card("class_word_1366",
+    "お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>革靴<rt>かわぐつ</rt></ruby>を<ruby>長<rt>なが</rt></ruby>く<ruby>履<rt>は</rt></ruby>くために、<ruby>週末<rt>しゅうまつ</rt></ruby>にクリームで<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>手入<rt>てい</rt></ruby>れをしています。",
+    "To wear my favorite leather shoes for a long time, I carefully maintain them with shoe cream on weekends.",
+    "為了讓愛惜的皮鞋能穿得長久，我週末都會用專用鞋油仔細保養打理。",
+    "为了让爱惜的皮鞋能穿得长久，我周末都会用专用鞋油仔细保养打理。",
+    "아끼는 가죽 구두를 오래 신기 위해 주말마다 가죽 크림으로 꼼꼼히 손질합니다.",
+    "為咗對心愛嘅皮鞋著得耐啲，我放假嗰陣都會用鞋油好細心噉保養打理。",
+    "Pour garder mes chaussures en cuir préférées longtemps, je les entretiens soigneusement avec du cirage le week-end.")
+
+add_card("class_word_1502",
+    "<ruby>庭<rt>にわ</rt></ruby>の<ruby>植木<rt>うえき</rt></ruby>や<ruby>芝生<rt>しばふ</rt></ruby>をきれいに<ruby>手入<rt>てい</rt></ruby>れしたおかげで、<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りがとてもすっきりしました。",
+    "Thanks to neatly pruning the yard plants and lawn, the area around the house looks very tidy.",
+    "多虧細心修剪照料庭院的草木與草坪，整座房子的周遭看起來非常清爽俐落。",
+    "多亏细心修剪照料庭院的草木与草坪，整座房子的周遭看起来非常清爽俐落。",
+    "정원의 나무와 잔디를 깔끔하게 다듬은 덕분에 집 주변이 아주 쾌적해졌습니다.",
+    "好好打理花園啲植物花草之後，成間屋出面睇起上嚟好整潔舒服。",
+    "Grâce à l'entretien soigné des arbustes et de la pelouse du jardin, les abords de la maison sont impeccables.")
+
+# --- 接客 (2 cards) ---
+add_card("class_word_0879",
+    "カフェでのアルバイトは、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>のスキルを<ruby>学<rt>まな</rt></ruby>ぶよい<ruby>経験<rt>けいけん</rt></ruby>になります。",
+    "A part-time job at a cafe is a great experience for learning polite customer service skills with a smile.",
+    "在咖啡店打工是學習帶著微笑與禮貌接待顧客的絕佳經驗。",
+    "在咖啡店打工是学习带着微笑与礼貌接待顾客的绝佳经验。",
+    "카페 아르바이트는 미소와 정중한 고객 응대 기술을 배울 수 있는 좋은 경험이 됩니다.",
+    "喺咖啡店做兼職，係學點樣親切微笑、有禮貌噉招待客人嘅好好機會。",
+    "Travailler dans un café est une excellente expérience pour apprendre le service client avec le sourire et courtoisie.")
+
+add_card("class_word_1057",
+    "このホテルのスタッフは<ruby>言葉遣<rt>ことばづか</rt></ruby>いが美しく、<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>がとても<ruby>高<rt>たか</rt></ruby>いです。",
+    "The hotel staff speak beautifully, and the quality of their customer service is exceptionally high.",
+    "這家飯店的員工說話用語典雅，接待客人的服務水準非常高。",
+    "这家饭店的员工说话用语典雅，接待客人的服务水准非常高。",
+    "이 호텔 직원들은 말씨가 바르고 고객 서비스의 품질이 매우 뛰어납니다.",
+    "呢間酒店嘅服務員講嘢斯文得體，服務客人嘅水準真係非常之高。",
+    "Le personnel de cet hôtel s'exprime très bien et la qualité du service client est remarquable.")
+
+# --- 教科書 (1 card) / 教科 (1 card) ---
+add_card("class_word_0555",
+    "<ruby>新学期<rt>しんがっき</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まったので、<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>しました。",
+    "Since the new semester started, I purchased a new Japanese textbook to use in class.",
+    "新學期開始了，我買了課堂上要用的全新日語教科書。",
+    "新学期开始了，我买了课堂上要用的全新日语教科书。",
+    "새 학기가 시작되어 수업에서 사용할 새로운 일본어 교과서를 구입했습니다.",
+    "新學期開學喇，我買咗上堂要用嘅全新日文書。",
+    "Comme le nouveau semestre commence, j'ai acheté le nouveau manuel de japonais pour le cours.")
+
+add_card("class_word_1157",
+    "<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>は<ruby>理科<rt>りか</rt></ruby>や<ruby>数学<rt>すうがく</rt></ruby>などの<ruby>理系<rt>りけい</rt></ruby><ruby>教科<rt>きょうか</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>実験<rt>じっけん</rt></ruby>がとても<ruby>好<rt>す</rt></ruby>きでした。",
+    "In my school days, I excelled in STEM subjects like science and math, and loved experiments.",
+    "學生時代我很擅長理科與數學等理組學科，非常喜歡做實驗。",
+    "学生时代我很擅长理科与数学等理科学科，非常喜欢做实验。",
+    "학창 시절에는 과학과 수학 같은 이과 교과목을 잘해서 실험을 아주 좋아했습니다.",
+    "我讀書嗰陣好擅長理科同數學，成日都好期待做科學實驗。",
+    "Quand j'étais étudiant, j'étais doué dans les matières scientifiques comme la physique-chimie et les maths.")
+
+# --- 料理をする (2 cards) ---
+add_card("class_word_0084",
+    "<ruby>週末<rt>しゅうまつ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>でパスタやスープなど、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなメニューを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>楽<rt>たの</rt></ruby>しみです。",
+    "On weekends I enjoy cooking my favorite dishes at home, such as pasta and soup.",
+    "週末在家煮義大利麵或濃湯等自己喜愛的菜餚，是我的一大樂趣。",
+    "周末在家煮意大利面或浓汤等自己喜爱的菜肴，是我的一大乐趣。",
+    "주말에는 집에서 파스타나 수프 등 좋아하는 메뉴를 직접 요리하는 것이 즐거움입니다.",
+    "逢禮拜六日，我最鍾意喺屋企煮意粉同滾湯等拿手家常菜。",
+    "Le week-end, j'aime cuisiner mes plats préférés à la maison, comme des pâtes ou des soupes.")
+
+add_card("class_word_0312",
+    "<ruby>健康<rt>けんこう</rt></ruby>的な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>るため、できるだけ外食を減らして<ruby>毎日<rt>まいにち</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしています。",
+    "To lead a healthy lifestyle, I cut down on eating out and cook for myself every day as much as possible.",
+    "為了維持健康生活，我盡量減少外食，每天都盡可能自己下廚做飯。",
+    "为了维持健康生活，我尽量减少外食，每天都尽可能自己下厨做饭。",
+    "건강한 생활을 위해 외식을 가급적 줄이고 매일 직접 요리해 먹고 있습니다.",
+    "為咗過得健康啲，我盡量少啲出去食外賣，日日自己煮飯。",
+    "Pour mener une vie saine, je réduis les sorties au restaurant et je cuisine moi-même chaque jour.")
+
+# --- 洪水 (2 cards) ---
+add_card("class_word_0918",
+    "<ruby>台風<rt>たいふう</rt></ruby>による<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>川<rt>かわ</rt></ruby>が<ruby>増水<rt>ぞうすい</rt></ruby>し、<ruby>洪水<rt>こうずい</rt></ruby><ruby>警報<rt>けいほう</rt></ruby>が<ruby>発令<rt>はつれい</rt></ruby>されました。",
+    "Record-setting rainfall from the typhoon caused the river to swell, and a flood warning was issued.",
+    "颱風帶來的破紀錄豪雨造成河川暴漲，氣象單位發布了洪水警報。",
+    "台风带来的破纪录豪雨造成河川暴涨，气象单位发布了洪水警报。",
+    "태풍으로 인한 기록적인 폭우로 하천이 불어나 홍수 경보가 발령되었습니다.",
+    "颱風帶嚟嘅破紀錄暴雨搞到河水暴漲，當局發出咗洪水警戒訊號。",
+    "Des pluies torrentielles record dues au typhon ont fait gonfler la rivière, et une alerte aux inondations a été émise.")
+
+add_card("class_word_1544",
+    "<ruby>洪水<rt>こうずい</rt></ruby>などの<ruby>自然<rt>しぜん</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>非常<rt>ひじょう</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>食料<rt>しょくりょう</rt></ruby>や<ruby>水<rt>みず</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておきましょう。",
+    "To prepare for natural disasters such as floods, let's keep emergency food and water stocked.",
+    "為了防範水災等自然災害，平時就應備妥應急的糧食與飲用水。",
+    "为了防范水灾等自然灾害，平时就应备妥应急的粮食与饮用水。",
+    "홍수 등 자연재해에 대비하여 비상식량과 식수를 미리 준비해 둡시다.",
+    "為咗預防洪水等自然災害，平時屋企要常備緊急乾糧同食水。",
+    "Pour parer aux catastrophes naturelles comme les crues, prévoyons toujours des vivres et de l'eau d'urgence.")
+
+# --- 特徴 (2 cards) ---
+add_card("class_word_0477",
+    "このスマートフォンの<ruby>大<rt>おお</rt></ruby>きな<ruby>特徴<rt>とくちょう</rt></ruby>は、<ruby>暗<rt>くら</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>でもクリアに<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるカメラです。",
+    "A major feature of this smartphone is its camera that takes crystal-clear photos even in dark places.",
+    "這款智慧型手機的一大特點，在於即使在暗處也能拍出清晰照片的優質相機。",
+    "这款智能手机的一大特点，在于即使在暗处也能拍出清晰照片的优质相机。",
+    "이 스마트폰의 가장 큰 특징은 어두운 곳에서도 선명한 사진을 찍을 수 있는 카메라입니다.",
+    "呢部智能電話嘅最大特色，就係喺好暗嘅地方都影得出好清嘅相片。",
+    "Le grand point fort de ce smartphone est son appareil photo qui prend des clichés très nets même dans l'obscurité.")
+
+add_card("class_word_1553",
+    "<ruby>日本<rt>にほん</rt></ruby><ruby>建築<rt>けんちく</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つは、<ruby>木材<rt>もくざい</rt></ruby>のぬくもりをいかした<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きのあるデザインです。",
+    "One characteristic of Japanese architecture is its calming design that showcases the warmth of wood.",
+    "日本傳統建築的特點之一，是善用木材溫潤質感所呈現的沉穩設計風格。",
+    "日本传统建筑的特点之一，是善用木材温润质感所呈现的沉稳设计风格。",
+    "일본 건축의 두드러진 특징 중 하나는 원목의 따스함을 살린 아늑한 디자인입니다.",
+    "傳統日本建築嘅特色之一，就係善用木材溫暖質感營造出寧靜舒適嘅空間。",
+    "L'une des caractéristiques de l'architecture japonaise est sa conception épurée qui met en valeur la chaleur du bois.")
+
+# --- 環境 (2 cards) ---
+add_card("class_word_1516",
+    "<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しい<ruby>自然<rt>しぜん</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、プラスチックごみの<ruby>削減<rt>さくげん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでいます。",
+    "To protect Earth's beautiful natural environment, we are working to reduce plastic waste.",
+    "為了守護地球美麗的自然環境，我們致力於減少塑膠垃圾。",
+    "为了守护地球美丽的自然环境，我们致力于减少塑料垃圾。",
+    "지구의 아름다운 자연환경을 지키기 위해 플라스틱 쓰레기 줄이기에 힘쓰고 있습니다.",
+    "為咗保護地球美麗嘅大自然環境，我哋好努力推行減塑減廢。",
+    "Pour protéger le bel environnement naturel de notre planète, nous nous efforçons de réduire les déchets plastiques.")
+
+add_card("class_word_1550",
+    "<ruby>新<rt>あたら</rt></ruby>しいオフィスは<ruby>日当<rt>ひあ</rt></ruby>たりがよく<ruby>静<rt>しず</rt></ruby>かで、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>環境<rt>かんきょう</rt></ruby>です。",
+    "The new office has great natural light and is quiet, offering a wonderful environment to focus on work.",
+    "新辦公室採光極佳且十分安靜，是能讓人專心辦公的絕佳環境。",
+    "新办公室采光极佳且十分安静，是能让人专心办公的绝佳环境。",
+    "새 사무실은 채광이 좋고 조용해서 일에 몰입할 수 있는 훌륭한 환경입니다.",
+    "新寫字樓陽光充足又夠靜，係個可以令人好專心做嘢嘅理想環境。",
+    "Le nouveau bureau est bien éclairé et très calme, c'est un cadre idéal pour se concentrer sur son travail.")
+
+# --- 礼儀 (2 cards) ---
+add_card("class_word_1052",
+    "<ruby>日本<rt>にほん</rt></ruby>のビジネスシーンでは、お<ruby>辞儀<rt>じぎ</rt></ruby>や<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉遣<rt>ことばづか</rt></ruby>いなどの<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>作法<rt>さほう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にされます。",
+    "In the Japanese business world, etiquette and manners like bowing and polite language are valued.",
+    "在日本的商業職場上，鞠躬行禮與禮貌用語等禮儀規矩受到高度重視。",
+    "在日本的商业职场上，鞠躬行礼与礼貌用语等礼仪规矩受到高度重视。",
+    "일본의 비즈니스 현장에서는 정중한 인사와 공손한 말씨 등 예절과 매너를 매우 중요하게 여깁니다.",
+    "喺日本職場文化入面，鞠躬禮節同有禮貌嘅說話用詞都非常受到重視。",
+    "Dans le monde des affaires au Japon, les règles de politesse comme les salutations inclinées et le langage courtois sont primordiales.")
+
+add_card("class_word_1079",
+    "どんなに<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、「<ruby>親<rt>した</rt></ruby>しき<ruby>仲<rt>なか</rt></ruby>にも<ruby>礼儀<rt>れいぎ</rt></ruby>あり」を<ruby>忘<rt>わす</rt></ruby>れてはいけません。",
+    "No matter how close you are, you must not forget that 'a hedge between keeps friendship green'.",
+    "無論彼此關係多麼親密，都絕不能忘記「熟不逾矩，親近亦要有禮貌」的道理。",
+    "无论彼此关系多么亲密，都绝不能忘记“熟不逾矩，亲近亦要有礼貌”的道理。",
+    "아무리 친한 사이라 하더라도 '가까운 사이일수록 예의를 지켜야 한다'는 말을 잊어서는 안 됩니다.",
+    "幾熟嘅朋友都好，切記要「熟絡歸熟絡，說話要有分寸同禮貌」。",
+    "Même entre personnes très proches, il ne faut jamais oublier le respect et la politesse.")
+
+# --- 記念日 (2 cards) ---
+add_card("class_word_0040",
+    "<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>に、<ruby>普段<rt>ふだん</rt></ruby>はなかなか<ruby>行<rt>い</rt></ruby>けない<ruby>特別<rt>とくべつ</rt></ruby>なレストランでディナーを<ruby>楽<rt>たの</rt></ruby>しみました。",
+    "On our wedding anniversary, we enjoyed dinner at a special restaurant we rarely get to go to.",
+    "在結婚紀念日這天，我們去了平時難得造訪的高級餐廳享受浪漫晚餐。",
+    "在结婚纪念日这天，我们去了平时难得造访的高级餐厅享受浪漫晚餐。",
+    "결혼기념일을 맞아 평소에는 가기 힘든 특별한 레스토랑에서 저녁 식사를 즐겼습니다.",
+    "喺結婚週年紀念日嗰日，我哋去咗間平時好少捨得去嘅高級情調餐廳食飯慶祝。",
+    "Pour notre anniversaire de mariage, nous avons partagé un dîner dans un restaurant d'exception où nous allons rarement.")
+
+add_card("class_word_0405",
+    "お<ruby>互<rt>たが</rt></ruby>いの<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>をカレンダーに<ruby>書<rt>か</rt></ruby>き<ruby>込<rt>こ</rt></ruby>んで、<ruby>毎年<rt>まいとし</rt></ruby><ruby>大切<rt>たいせつ</rt></ruby>にお<ruby>祝<rt>いわ</rt></ruby>いしています。",
+    "We write down our anniversaries on the calendar and celebrate them with care every year.",
+    "我們把彼此重要的紀念日都記在行事曆上，每一年都用心慶祝。",
+    "我们把彼此重要的纪念日都记在日历上，每一年都用心庆祝。",
+    "서로의 기념일을 달력에 적어두고 매년 소중하게 축하하고 있습니다.",
+    "我哋將大家嘅重要紀念日MARK定喺月曆上面，每年都好用心慶祝。",
+    "Nous notons nos anniversaires sur le calendrier et prenons soin de les célébrer chaleureusement chaque année.")
+
+# --- 試験 (2 cards) ---
+add_card("class_word_0509",
+    "JLPTの<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するため、<ruby>毎日<rt>まいにち</rt></ruby>2<ruby>時間<rt>じかん</rt></ruby>集中して<ruby>過去問<rt>かこもん</rt></ruby>を<ruby>解<rt>と</rt></ruby>いています。",
+    "To pass the JLPT exam, I focus on solving past test papers for two hours every day.",
+    "為了順利通過JLPT檢定考試，我每天都全神貫注花兩小時練習歷屆考古題。",
+    "为了顺利通过JLPT检定考试，我每天都全神贯注花两小时练习历届真题。",
+    "JLPT 시험에 합격하기 위해 매일 2시간씩 집중해서 기출문제를 풀고 있습니다.",
+    "為咗考到JLPT證書，我每日都好專心溫兩個鐘頭歷屆試題題庫。",
+    "Pour réussir l'examen du JLPT, je résous des annales d'examen de manière concentrée deux heures par jour.")
+
+add_card("class_word_1225",
+    "<ruby>明日<rt>あした</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>定期<rt>ていき</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があるので、<ruby>今夜<rt>こんや</rt></ruby>はしっかり<ruby>復習<rt>ふくしゅう</rt></ruby>してから<ruby>寝<rt>ね</rt></ruby>ます。",
+    "I have an important periodic exam tomorrow, so I will review thoroughly tonight before sleeping.",
+    "明天有很重要的定期期末考試，今晚我要好好複習完之後再去睡覺。",
+    "明天有很重要的定期期末考试，今晚我要好好复习完之后再去睡觉。",
+    "내일은 중요한 정기시험이 있어서 오늘 밤 꼼꼼히 복습하고 잘 예정입니다.",
+    "聽日有重要嘅期中試，今晚要溫熟書複習晒先去瞓覺。",
+    "Demain j'ai un examen partiel important, ce soir je vais donc bien réviser avant d'aller me coucher.")
+
+# --- 譲る (2 cards) ---
+add_card("class_word_0674",
+    "<ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>でお<ruby>年寄<rt>としよ</rt></ruby>りや<ruby>妊婦<rt>にんぷ</rt></ruby>さんを<ruby>見<rt>み</rt></ruby>かけたら、<ruby>進<rt>すす</rt></ruby>んで<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りましょう。",
+    "When you spot elderly people or pregnant women on a packed train, willingly give up your seat.",
+    "在客滿的電車上看見長輩或孕婦時，請主動親切地讓座。",
+    "在客满的电车上看看见长辈或孕妇时，请主动亲切地让座。",
+    "만원 전철에서 어르신이나 임산부를 보면 먼저 자리를 양보합시다.",
+    "喺迫爆嘅車廂見到長者或者大肚婆，應該主動讓座俾佢哋坐。",
+    "Quand vous voyez une personne âgée ou une femme enceinte dans un train bondé, cédez-lui volontiers votre place.")
+
+add_card("class_word_1127",
+    "<ruby>狭<rt>せま</rt></ruby>い<ruby>道<rt>みち</rt></ruby>で<ruby>向<rt>む</rt></ruby>かいから<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>たので、<ruby>脇<rt>わき</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>って<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+    "Someone was coming from the opposite direction on the narrow path, so I stepped aside to let them pass.",
+    "在狹窄的小徑上迎面有人走來，我便退到一旁禮貌地讓對方先過。",
+    "在狭窄的小径上迎面有人走来，我便退到一旁礼貌地让对方先过。",
+    "좁은 길에서 맞은편에서 사람이 와서 옆으로 비켜서 길을 양보했습니다.",
+    "條小路好窄，見到對面有人行過嚟，我就挨埋一邊讓路俾佢行先。",
+    "Sur le sentier étroit, quelqu'un arrivait en sens inverse, alors je me suis écarté sur le côté pour le laisser passer.")
+
+# --- 都道府県 (2 cards) ---
+add_card("class_word_0016",
+    "<ruby>日本<rt>にほん</rt></ruby>には47の<ruby>都道府県<rt>とどうふけん</rt></ruby>があり、それぞれに<ruby>独自<rt>どくじ</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>ある<ruby>名物<rt>めいぶつ</rt></ruby>や<ruby>名所<rt>めいしょ</rt></ruby>があります。",
+    "Japan has 47 prefectures, each boasting its own charming specialties and sights.",
+    "日本共有47個都道府縣，每個地方都有其獨特魅力的在地名產與觀光名勝。",
+    "日本共有47个都道府县，每个地方都有其独特魅力的当地名产与观光名胜。",
+    "일본에는 47개 도도부현이 있으며, 저마다 고유한 매력을 지닌 특산품과 명소가 있습니다.",
+    "日本有47個都道府縣，每個地方都有自己好吸引人嘅地道特產同景點。",
+    "Le Japon compte 47 préfectures, chacune dotée de ses propres spécialités et curiosités attrayantes.")
+
+add_card("class_word_0516",
+    "<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きで、これまでに<ruby>日本<rt>にほん</rt></ruby>の30<ruby>以上<rt>いじょう</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れたことがあります。",
+    "I love traveling, and so far I have visited more than 30 prefectures across Japan.",
+    "我非常熱愛旅行，到目前為止已經走訪過全日本30多個都道府縣了。",
+    "我非常热爱旅行，到目前为止已经走访过全日本30多个都道府县了。",
+    "여행을 좋아해서 지금까지 일본의 30곳이 넘는 도도부현을 방문해 보았습니다.",
+    "我好鍾意去旅行，到而家為止已經去過日本超過30個都道府縣玩過喇。",
+    "J'adore voyager et j'ai déjà visité plus de 30 préfectures différentes au Japon jusqu'à présent.")
+
+# --- 関係 (2 cards) ---
+add_card("class_word_0558",
+    "<ruby>職場<rt>しょくば</rt></ruby>のチームメンバーと<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>くことで、<ruby>仕事<rt>しごと</rt></ruby>がよりスムーズに<ruby>進<rt>すす</rt></ruby>みます。",
+    "Building good interpersonal relationships with team members at work makes tasks proceed much more smoothly.",
+    "與工作職場上的團隊同仁建立融洽良好的人際關係，能讓各項業務推展得更加順利。",
+    "与工作职场上的团队同仁建立融洽良好的人际关系，能让各项业务推展得更加顺利。",
+    "직장 동료들과 좋은 인간관계를 형성하면 업무가 훨씬 원활하게 진행됩니다.",
+    "同公司團隊成員建立良好嘅人際互動同互信，做起嘢上嚟都會順手好多。",
+    "Entretenir de bonnes relations avec ses collègues de travail permet de mener à bien les projets beaucoup plus facilement.")
+
+add_card("class_word_1363",
+    "<ruby>健康<rt>けんこう</rt></ruby>と<ruby>睡眠<rt>すいみん</rt></ruby>には<ruby>深<rt>ふか</rt></ruby>い<ruby>関係<rt>かんけい</rt></ruby>があるため、<ruby>毎日<rt>まいにち</rt></ruby>7<ruby>時間<rt>じかん</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>るようにしています。",
+    "Because health and sleep are deeply related, I make sure to sleep 7 hours every night.",
+    "由於身體健康與優質睡眠息息相關，我每天都盡量維持睡滿7小時。",
+    "由于身体健康与优质睡眠息息相关，我每天都尽量维持睡满7小时。",
+    "건강과 수면은 깊은 연관이 있기 때문에 매일 7시간은 자려고 노력합니다.",
+    "身體健康同瞓覺有密切關係，所以我每晚都堅持瞓夠7個鐘頭。",
+    "La santé et le sommeil étant étroitement liés, je veille à dormir au moins sept heures par nuit.")
+
+# --- 隠れる (2 cards) ---
+add_card("class_word_0584",
+    "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>隠<rt>かく</rt></ruby>れて、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>楽<rt>たの</rt></ruby>しそうにかくれんぼをしています。",
+    "Hiding behind the big tree in the park, children are merrily playing hide-and-seek.",
+    "孩子們躲在公園大樹的後方，開開心心地玩著捉迷藏。",
+    "孩子们躲在公园大树的后方，开开心心地玩着捉迷藏。",
+    "공원의 커다란 나무 뒤에 숨어서 아이들이 신나게 숨바꼭질을 하고 있습니다.",
+    "小朋友匿喺公園大樹後面，玩捉迷藏玩得好開心好興奮。",
+    "Les enfants s'amusent à jouer à cache-cache en se dissimulant derrière le grand arbre du parc.")
+
+add_card("class_word_1476",
+    "<ruby>突然<rt>とつぜん</rt></ruby>の<ruby>夕立<rt>ゆうだち</rt></ruby>に降られたので、<ruby>駅<rt>えき</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>屋根<rt>やね</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>急<rt>いそ</rt></ruby>いで<ruby>隠<rt>かく</rt></ruby>れて雨宿りをしました。",
+    "Caught in a sudden evening shower, I quickly ducked under the station's big roof to shelter from the rain.",
+    "突然遭遇傍晚雷陣雨，我急忙躲進車站寬闊的屋簷下避雨。",
+    "突然遭遇傍晚雷阵雨，我急忙躲进车站宽阔的屋檐下避雨。",
+    "갑작스러운 소나기를 만나 전철역의 큰 지붕 밑으로 서둘러 피해 비를 피했습니다.",
+    "突然落起一陣狂風暴雨，我即刻走入車站個大簷篷底避雨。",
+    "Surpris par une averse soudaine en fin d'après-midi, je me suis vite abrité sous l'auvent de la gare.")
+
+# --- 骨 (1 card) / 骨折 (1 card) ---
+add_card("class_word_0210",
+    "<ruby>階段<rt>かいだん</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>んで<ruby>手首<rt>てくび</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>にヒビが<ruby>入<rt>はい</rt></ruby>ってしまったので、<ruby>包帯<rt>ほうたい</rt></ruby>で<ruby>固定<rt>こてい</rt></ruby>しています。",
+    "I tripped on the stairs and got a hairline fracture in my wrist bone, so it's bandaged and immobilized.",
+    "我在樓梯跌倒導致手腕骨頭出現裂痕，目前用繃帶固定包紮著。",
+    "我在楼梯跌倒导致手腕骨头出现裂痕，目前用绷带固定包扎着。",
+    "계단에서 넘어져 손목 뼈에 금이 가는 바람에 붕대로 고정하고 있습니다.",
+    "喺樓梯差錯腳跌親整裂咗手腕舊骨，而家用繃帶固定住。",
+    "J'ai trébuché dans l'escalier et je me suis fêlé l'os du poignet, je porte donc un bandage pour l'immobiliser.")
+
+add_card("class_word_0211",
+    "スキーで<ruby>激<rt>はげ</rt></ruby>しく<ruby>転倒<rt>てんとう</rt></ruby>して<ruby>足<rt>あし</rt></ruby>を<ruby>骨折<rt>こっせつ</rt></ruby>してしまい、しばらくギプスで<ruby>生活<rt>せいかつ</rt></ruby>しています。",
+    "I took a hard fall skiing and fractured my leg, so I've been living in a cast for a while.",
+    "我滑雪時重重摔了一跤導致腿部骨折，這陣子都得打著石膏生活。",
+    "我滑雪时重重摔了一跤导致腿部骨折，这阵子都得打着石膏生活。",
+    "스키를 타다 심하게 넘어져 다리가 골절되는 바람에 당분간 깁스를 하고 지내고 있습니다.",
+    "去滑雪跌得好甘斷咗腳骨，呢段時間都要打住石膏過日子。",
+    "J'ai fait une lourde chute au ski et me suis fracturé la jambe, je dois donc garder un plâtre pendant un moment.")
+
+# --- Single items ---
+add_card("class_word_0012", # 全員
+    "<ruby>今日<rt>きょう</rt></ruby>のプロジェクト<ruby>会議<rt>かいぎ</rt></ruby>にはメンバーが<ruby>全員<rt>ぜんいん</rt></ruby><ruby>揃<rt>そろ</rt></ruby>い、<ruby>活発<rt>かっぱつ</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしました。",
+    "All members were present at today's project meeting and actively exchanged their views.",
+    "今天的專案會議所有成員全員到齊，十分熱烈踴躍地交換了意見。",
+    "今天的项目会议所有成员全员到齐，十分热烈踊跃地交换了意见。",
+    "오늘 프로젝트 회의에는 팀원 전원이 참석하여 활발하게 의견을 나누었습니다.",
+    "今日嘅項目會議全體成員齊人出席，大家交流意見氣氛好熱鬧踴躍。",
+    "Tous les membres étaient présents à la réunion de projet aujourd'hui et ont échangé leurs idées avec dynamisme.")
+
+add_card("class_word_0013", # 会員
+    "この<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>年間<rt>ねんかん</rt></ruby>パスポートを<ruby>購入<rt>こうにゅう</rt></ruby>して、プレミアム<ruby>会員<rt>かいいん</rt></ruby>になりました。",
+    "I bought an annual pass for this art museum and became a premium member.",
+    "我購買了這間美術館的年票，成為了尊榮會員。",
+    "我购买了这间美术馆的年票，成为了尊荣会员。",
+    "이 미술관의 연간 패스권을 구입하여 프리미엄 회원이 되었습니다.",
+    "我買咗呢間美術館嘅全年通行證，成為咗高級會員。",
+    "J'ai acheté un pass annuel pour ce musée d'art et suis devenu membre privilégié.")
+
+add_card("class_word_0015", # 湿気
+    "<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>湿気<rt>しっけ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くてジメジメするので、エアコンの<ruby>除湿<rt>じょしつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。",
+    "Japanese summers are muggy with high humidity, making the AC's dehumidify function indispensable.",
+    "日本的夏天濕氣很重且潮濕悶熱，冷氣的除濕功能不可或缺。",
+    "日本的夏天湿气很重且潮湿闷热，空调的除湿功能不可或缺。",
+    "일본의 여름은 습기가 많고 후텁지근해서 에어컨의 제습 기능이 필수적입니다.",
+    "日本夏天濕氣好重又焗又潮濕，冷氣機嘅抽濕功能真係唔少得。",
+    "L'été japonais est très humide et étouffant, la fonction déshumidificateur de la clim est donc essentielle.")
+
+add_card("class_word_0019", # 尻尾
+    "<ruby>飼<rt>か</rt></ruby>い<ruby>犬<rt>いぬ</rt></ruby>が<ruby>嬉<rt>うれ</rt></ruby>しそうに<ruby>尻尾<rt>しっぽ</rt></ruby>をブンブン<ruby>振<rt>ふ</rt></ruby>って、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>出迎<rt>でむか</rt></ruby>えてくれました。",
+    "My pet dog happily wagged its tail vigorously and welcomed me at the entrance.",
+    "家裡的愛犬開心地用力猛搖尾巴，在玄關熱情地迎接我回家。",
+    "家里的爱犬开心地用力猛摇尾巴，在玄关热情地迎接我回家。",
+    "반려견이 신나게 꼬리를 흔들며 현관에서 반갑게 맞이해 주었습니다.",
+    "屋企隻得意狗仔好興奮噉係咁fing尾，企喺玄關門口好熱情噉迎實我。",
+    "Mon chien a remué vigoureusement la queue avec joie pour m'accueillir dans l'entrée.")
+
+add_card("class_word_0021", # 隣
+    "「すみません、お<ruby>隣<rt>となり</rt></ruby>の<ruby>席<rt>せき</rt></ruby>は<ruby>空<rt>あ</rt></ruby>いていますか？」「はい、どうぞお<ruby>座<rt>すわ</rt></ruby>りください。」",
+    "'Excuse me, is this seat next to you free?' 'Yes, please take a seat.'",
+    "「不好意思，請問您旁邊的這個座位有人坐嗎？」「沒有，請隨意坐吧。」",
+    "“不好意思，请问您旁边的这个座位有人坐吗？”“没有，请随意坐吧。”",
+    "'실례지만 옆자리 비어 있나요?' '네, 앉으셔도 됩니다.'",
+    "「唔好意思，請問隔離個位有冇人坐㗎？」「冇呀，請坐啦。」",
+    "'Excusez-moi, la place à côté de vous est-elle libre ?' 'Oui, je vous en prie, asseyez-vous.'")
+
+add_card("class_word_0025", # 定食
+    "お<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>近<rt>ちか</rt></ruby>くの<ruby>和食<rt>わしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで、<ruby>焼<rt>や</rt></ruby>き<ruby>魚<rt>ざかな</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。",
+    "During my lunch break, I ordered a grilled fish set meal at a nearby Japanese restaurant.",
+    "午休時我在附近的日式家庭料理店點了一份烤魚定食。",
+    "午休时我在附近的日式家庭料理店点了一份烤鱼定食。",
+    "점심시간에 근처 일식집에서 생선구이 정식을 주문했습니다.",
+    "中午食晏嗰陣去咗附近嘅日本和食小店，叫咗份好正嘅日式煎魚定食。",
+    "Pendant ma pause déjeuner, j'ai commandé un menu avec du poisson grillé dans un restaurant japonais voisin.")
+
+add_card("class_word_0031", # おしゃれ
+    "<ruby>彼女<rt>かのじょ</rt></ruby>はいつもセンスがよくて、とてもおしゃれなコーディネートをしていますね。",
+    "She always has great taste and wears very stylish, chic outfits.",
+    "她的品味一向極佳，平時的穿搭打扮總是十分時髦有型。",
+    "她的品味一向极佳，平时的穿搭打扮总是十分时髦有型。",
+    "그녀는 항상 패션 감각이 뛰어나서 무척 세련된 스타일을 연출합니다.",
+    "佢嘅衣著品味一向好好，平時襯衫著衫真係好型好有時尚感。",
+    "Elle a toujours beaucoup de goût et porte des tenues particulièrement élégantes et soignées.")
+
+add_card("class_word_0036", # 誕生日
+    "「<ruby>田中<rt>たなか</rt></ruby>さん、お<ruby>誕生日<rt>たんじょうび</rt></ruby>おめでとうございます！」「ありがとうございます！」",
+    "'Happy birthday, Mr. Tanaka!' 'Thank you so much!'",
+    "「田中先生，祝您生日快樂！」「非常感謝您！」",
+    "“田中先生，祝您生日快乐！”“非常感谢您！”",
+    "'다나카 씨, 생일 축하드립니다!' '감사합니다!'",
+    "「田中生，祝你生日快樂！」「多謝晒你呀！」",
+    "'Joyeux anniversaire, M. Tanaka !' 'Merci infiniment !'")
+
+add_card("class_word_0039", # 消える
+    "<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>昇<rt>のぼ</rt></ruby>るにつれて、<ruby>朝方<rt>あさがた</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>い<ruby>霧<rt>きり</rt></ruby>がスッと<ruby>消<rt>き</rt></ruby>えていきました。",
+    "As the sun rose higher, the thick morning fog gradually dissipated and vanished.",
+    "隨著太陽高高升起，清晨濃重的晨霧漸漸消散得無影無蹤。",
+    "随着太阳高高升起，清晨浓重的晨雾渐渐消散得无影无踪。",
+    "태양이 높이 떠오르면서 아침의 짙은 안개가 말끔히 사라져 갔습니다.",
+    "隨住太陽慢慢升起，清晨原本好濃嘅大霧好快就散晒消退。",
+    "Au fur et à mesure que le soleil montait dans le ciel, la brume matinale épaisse s'est complètement dissipée.")
+
+add_card("class_word_0043", # 双子
+    "<ruby>隣<rt>となり</rt></ruby>のクラスの<ruby>兄弟<rt>きょうだい</rt></ruby>はそっくりな<ruby>双子<rt>ふたご</rt></ruby>で、<ruby>声<rt>こえ</rt></ruby>や仕草までよく似ています。",
+    "The brothers in the next class are identical twins; even their voices and gestures look alike.",
+    "隔壁班的那對兄弟是一對長得一模一樣的雙胞胎，連說話聲音和小動作都很相似。",
+    "隔壁班的那对兄弟是一对长得一模一样的双胞胎，连说话声音和小动作都很相似。",
+    "옆 반의 형제는 꼭 닮은 쌍둥이여서 목소리와 손짓까지 쏙 빼닮았습니다.",
+    "隔离班嗰對兄弟係生得好似樣嘅同卵雙胞胎，連把聲同小動作都好似。",
+    "Les frères de la classe voisine sont de vrais jumeaux, même leurs voix et leurs gestes se ressemblent.")
+
+add_card("class_word_0045", # 特殊
+    "この<ruby>精密<rt>せいみつ</rt></ruby><ruby>機器<rt>きき</rt></ruby>の<ruby>修理<rt>しゅうり</rt></ruby>には、<ruby>特殊<rt>とくしゅ</rt></ruby>な工具と専門知識が必要です。",
+    "Repairing this precision equipment requires specialized tools and expert knowledge.",
+    "維修這台精密儀器時，需要使用特殊的專用工具與專業知識。",
+    "维修这台精密仪器时，需要使用特殊的专用工具与专业知识。",
+    "이 정밀 기기를 수리하려면 특수한 공구와 전문적인 기술이 필요합니다.",
+    "要修理呢部精密儀器，一定要用特殊嘅專業工具同相關技術知識。",
+    "La réparation de cet appareil de précision exige des outils spéciaux et des connaissances pointues.")
+
+add_card("class_word_0056", # 覚える
+    "<ruby>新<rt>あたら</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>は、<ruby>例文<rt>れいぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>覚<rt>おぼ</rt></ruby>えると<ruby>忘<rt>わす</rt></ruby>れにくいです。",
+    "New Japanese vocabulary words are hard to forget if you memorize them out loud in full sentences.",
+    "記新的日語單字時，跟著例句一起大聲唸出來記憶，比較不容易忘記。",
+    "记新的日语单字时，跟着例句一起大声念出来记忆，比较不容易忘记。",
+    "새로운 일본어 단어는 예문과 함께 소리 내어 외우면 쉽게 잊어버리지 않습니다.",
+    "記日文新生字嗰陣，連埋例句大聲讀出聲去背，會記得牢好多。",
+    "Pour retenir le nouveau vocabulaire japonais, le prononcer à voix haute dans des exemples aide beaucoup à ne pas l'oublier.")
+
+add_card("class_word_0057", # ど忘れ
+    "<ruby>喉<rt>のど</rt></ruby>まで<ruby>出<rt>で</rt></ruby>かかっているのに、どうしても<ruby>彼<rt>かれ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>をど<ruby>忘<rt>わす</rt></ruby>れしてしまいました。",
+    "It was right on the tip of my tongue, but I completely blanked out on his name.",
+    "明明話都已經到嘴邊了，我卻怎麼也想不起來他的名字，一時腦袋一片空白。",
+    "明明话都已经到嘴边了，我却怎么也想不起来他的名字，一时脑袋一片空白。",
+    "입안에서 맴도는데 그의 이름이 순간 도무지 기억나지 않았습니다.",
+    "明明已經到嘴邊好熟，但偏偏一時疾掣醒唔起佢個名。",
+    "J'avais le mot sur le bout de la langue, mais j'ai eu un trou de mémoire complet sur son nom.")
+
+add_card("class_word_0058", # 星座
+    "<ruby>澄<rt>す</rt></ruby>み<ruby>切<rt>き</rt></ruby>った<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げると、オリオン<ruby>座<rt>ざ</rt></ruby>などの<ruby>美<rt>うつく</rt></ruby>しい<ruby>星座<rt>せいざ</rt></ruby>がはっきりと<ruby>見<rt>み</rt></ruby>えます。",
+    "Looking up at the clear winter night sky, you can clearly see beautiful constellations like Orion.",
+    "抬頭仰望澄澈清朗的冬日夜空，能清晰望見獵戶座等美麗璀璨的星座。",
+    "抬头仰望澄澈清朗的冬日夜空，能清晰望见猎户座等美丽璀璨的星座。",
+    "맑게 갠 겨울 밤하늘을 올려다보면 오리온자리 등 아름다운 별자리들이 또렷하게 보입니다.",
+    "望向晴朗嘅冬天夜空，可以好清楚見到獵戶座等好靚嘅星座。",
+    "En levant les yeux vers le ciel d'hiver bien dégagé, on aperçoit nettement de magnifiques constellations comme Orion.")
+
+add_card("class_word_0061", # 同い年
+    "「<ruby>私<rt>わたし</rt></ruby>たち、<ruby>生<rt>う</rt></ruby>まれ<ruby>年<rt>どし</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じで<ruby>同い年<rt>おないどし</rt></ruby>ですね！」「ほんとですね！<ruby>親近感<rt>しんきんかん</rt></ruby>がわきます。」",
+    "'We were born in the same year, so we are the exact same age!' 'Indeed! That makes me feel close to you.'",
+    "「我們出生年份相同，是同年齡的同輩呢！」「真的耶！感覺好親切喔。」",
+    "“我们出生年份相同，是同年龄的同辈呢！”“真的耶！感觉好亲切哦。”",
+    "'우리 태어난 해가 같아서 동갑이네요!' '정말이네요! 무척 친근감이 느껴져요.'",
+    "「原來我哋同年出世係同齡同死黨喎！」「真係喎！即刻覺得好有親切感。」",
+    "'Nous sommes nés la même année, nous avons donc exactement le même âge !' 'C'est vrai ! Ça crée tout de suite des affinités.'")
+
+add_card("class_word_0076", # 早い—時間
+    "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るため、<ruby>今夜<rt>こんや</rt></ruby>は10<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ることにします。",
+    "To catch an early morning flight tomorrow, I will go to bed at 10 PM tonight.",
+    "為了趕明天一大早的早班飛機，我今晚決定10點就上床睡覺。",
+    "为了赶明天一大早的早班飞机，我今晚决定10点就上床睡觉。",
+    "내일 이른 아침 비행기를 타야 해서 오늘은 밤 10시에 잠자리에 들기로 했습니다.",
+    "聽日要搭大清早嘅早機，今晚我打算10點鐘就上床瞓覺。",
+    "Pour prendre l'avion tôt demain matin, j'ai décidé d'aller me coucher à 22h ce soir.")
+
+add_card("class_word_0098", # 虫歯
+    "<ruby>毎食<rt>まいしょく</rt></ruby><ruby>後<rt>ご</rt></ruby>にしっかり<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>くことで、<ruby>虫歯<rt>むしば</rt></ruby>や<ruby>歯周病<rt>ししゅうびょう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>することができます。",
+    "By brushing thoroughly after every meal, you can prevent cavities and periodontal disease.",
+    "每餐飯後仔細刷牙，就能有效預防蛀牙與牙周病。",
+    "每餐饭后仔细刷牙，就能有效预防蛀牙与牙周病。",
+    "식후마다 양치질을 꼼꼼히 하면 충치와 잇몸병을 충분히 예방할 수 있습니다.",
+    "每次食完嘢都認真刷乾淨牙，就可以好有效噉預防蛀牙同牙周病。",
+    "En se brossant soigneusement les dents après chaque repas, on peut prévenir les caries et les maladies gingivales.")
+
+add_card("class_word_0104", # 普段
+    "<ruby>普段<rt>ふだん</rt></ruby>は<ruby>自炊<rt>じすい</rt></ruby>をしていますが、<ruby>金曜日<rt>きんようび</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>だけは<ruby>好<rt>す</rt></ruby>きなものを<ruby>外食<rt>がいしょく</rt></ruby>します。",
+    "Normally I cook for myself, but on Friday nights alone I eat out whatever I like.",
+    "平時我都自己開伙煮飯，只有在週五晚上會去外面餐廳吃喜歡的大餐。",
+    "平时我都自己做饭，只有在周五晚上会去外面餐厅吃喜欢的大餐。",
+    "평소에는 주로 집밥을 해 먹지만, 금요일 저녁만큼은 좋아하는 외식을 즐깁니다.",
+    "平時我通常都自己煮飯，淨係喺禮拜五晚先會出去食自己鍾意食嘅嘢獎勵下自己。",
+    "D'habitude je cuisine chez moi, mais le vendredi soir je m'accorde une sortie au restaurant pour manger ce qui me fait plaisir.")
+
+add_card("class_word_0106", # 予定
+    "<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して、カレンダーに<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>予定<rt>よてい</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>込<rt>こ</rt></ruby>みました。",
+    "I checked next week's schedule and wrote down important appointments on the calendar.",
+    "我確認了下星期的行程安排，並在行事曆上記下了重要的預定事項。",
+    "我确认了下星期的行程安排，并在日历上记下了重要的预定事项。",
+    "다음 주 일정을 확인하고 달력에 중요한 약속과 계획을 적어 두었습니다.",
+    "我check過下個禮拜嘅行程，將緊要嘅預約同計劃寫好喺個行事曆度。",
+    "J'ai vérifié mon emploi du temps pour la semaine prochaine et noté mes rendez-vous importants sur le calendrier.")
+
+add_card("class_word_0110", # ところで
+    "「ところで、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>受<rt>う</rt></ruby>けた<ruby>面接<rt>めんせつ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>はどうでしたか？」「<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました！」",
+    "'By the way, how was the outcome of the job interview you took last week?' 'I passed successfully!'",
+    "「話說回來，你上週去面試的結果如何呢？」「我順利被錄取了！」",
+    "“话说回来，你上周去面试的结果如何呢？”“我顺利被录取了！”",
+    "'그건 그렇고, 지난주에 본 면접 결과는 어떻게 되었나요?' '무사히 합격했습니다!'",
+    "「講開又講，你上個禮拜見嗰份工面試結果點呀？」「好順利pass咗錄取咗喇！」",
+    "'Au fait, quel a été le résultat de ton entretien d'embauche de la semaine dernière ?' 'J'ai été reçu avec succès !'")
+
+add_card("class_word_0116", # 家賃
+    "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>末日<rt>まつじつ</rt></ruby>までに、<ruby>指定<rt>してい</rt></ruby>された<ruby>口座<rt>こうざ</rt></ruby>へ<ruby>翌月<rt>よくげつ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>家賃<rt>やちん</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みます。",
+    "By the end of every month, I transfer the next month's rent into the designated bank account.",
+    "每個月底之前，我都會將次月份的房租轉帳匯入指定的銀行帳戶。",
+    "每个月底之前，我都会将次月份的房租转账汇入指定的银行账户。",
+    "매월 말일까지 지정된 계좌로 다음 달 분의 월세를 입금합니다.",
+    "每個月嘅月尾之前，我都要將下個月嘅租金轉帳入指定銀行戶口。",
+    "Avant la fin de chaque mois, je vire le loyer du mois suivant sur le compte bancaire désigné.")
+
+add_card("class_word_0120", # 急ぐ
+    "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>発車<rt>はっしゃ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>まであと5<ruby>分<rt>ふん</rt></ruby>しかないので、<ruby>急<rt>いそ</rt></ruby>いで<ruby>駅<rt>えき</rt></ruby>へ<ruby>走<rt>はし</rt></ruby>りました。",
+    "With only 5 minutes left until train departure, I hurriedly dashed to the station.",
+    "距離電車發車只剩下5分鐘，我心急如焚地一路狂奔衝向車站。",
+    "距离电车发车只剩下5分钟，我心急如焚地一路狂奔冲向车站。",
+    "열차 출발 시각까지 5분밖에 남지 않아서 서둘러 역으로 뛰어갔습니다.",
+    "架火車仲有5分鐘就開走，我要拿拿臨加快腳步衝去火車站。",
+    "Comme il ne restait que 5 minutes avant le départ du train, j'ai couru à la gare en toute hâte.")
+
+add_card("class_word_0122", # 短い
+    "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>日<rt>ひ</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れるのがとても<ruby>早<rt>はや</rt></ruby>く、<ruby>昼間<rt>ひるま</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられます。",
+    "In winter the sun sets very early, making daytime hours feel remarkably short.",
+    "冬天太陽下山得非常早，讓人覺得白天的時光格外短暫。",
+    "冬天太阳下山得非常早，让人觉得白天的时光格外短暂。",
+    "겨울에는 해가 일찍 져서 낮 시간이 무척 짧게 느껴집니다.",
+    "冬天好早天黑，硬係覺得朝早日照時間過得特別快、特別短。",
+    "En hiver, le soleil se couche très tôt et la journée semble particulièrement courte.")
+
+add_card("class_word_0123", # 長い
+    "<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>期間<rt>きかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いので、<ruby>普段<rt>ふだん</rt></ruby>なかなかできない<ruby>長編<rt>ちょうへん</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>をじっくり<ruby>読<rt>よ</rt></ruby>みました。",
+    "Summer vacation is a long break, so I took the time to read long novels I usually can't get to.",
+    "暑假假期時間很長，所以我好好利用時間，把平時沒空讀的長篇小說一口氣看完了。",
+    "暑假假期时间很长，所以我好好利用时间，把平时没空读的长篇小说一口气看完了。",
+    "여름방학은 기간이 길어서 평소 읽기 힘들었던 장편 소설을 여유롭게 읽었습니다.",
+    "暑假放咁長嘅假期，我終於有時間睇晒平時好想睇嘅長篇小說。",
+    "Les vacances d'été étant assez longues, j'ai pris le temps de lire des romans volumineux que je n'ai pas le temps d'ouvrir d'habitude.")
+
+add_card("class_word_0131", # 道
+    "<ruby>初<rt>はじ</rt></ruby>めて<ruby>来<rt>き</rt></ruby>た<ruby>街<rt>まち</rt></ruby>で<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ってしまったので、<ruby>交番<rt>こうばん</rt></ruby>で<ruby>親切<rt>しんせつ</rt></ruby>なお<ruby>巡<rt>まわ</rt></ruby>りさんに<ruby>道<rt>みち</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねました。",
+    "I got lost in an unfamiliar town, so I asked a friendly police officer at the box for directions.",
+    "在初次到訪的城鎮迷了路，所以我到派出所向親切的警員詢問了方向路線。",
+    "在初次到访的城镇迷了路，所以我到派出所向亲切的警员询问了方向路线。",
+    "처음 온 동네에서 길을 잃어 파출소에서 친절한 경찰관에게 길을 물어보았습니다.",
+    "喺個新地方蕩失路唔識行，於是我走去報案室搵個好心嘅警察問路。",
+    "Comme j'étais perdu dans cette ville inconnue, j'ai demandé mon chemin au poste de police à un agent très serviable.")
+
+add_card("class_word_0135", # 満点
+    "<ruby>何週間<rt>なんしゅうかん</rt></ruby>も<ruby>復習<rt>ふくしゅう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねたおかげで、<ruby>漢字<rt>かんじ</rt></ruby>テストで<ruby>見事<rt>みごと</rt></ruby>に<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れました。",
+    "Thanks to weeks of repeated reviews, I achieved a perfect score on the kanji test.",
+    "多虧連續好幾個星期的反覆複習，我在漢字測驗中漂亮地拿下了滿分。",
+    "多亏连续好几个星期的反复复习，我在汉字测验中漂亮地拿下了满分。",
+    "몇 주 동안 꾸준히 복습한 덕분에 한자 시험에서 훌륭하게 만점을 받았습니다.",
+    "溫習咗成幾個禮拜咁耐，終於喺漢字默書測驗攞到滿分100分好成績。",
+    "Grâce à des semaines de révisions assidues, j'ai obtenu la note maximale au contrôle de kanji.")
+
+add_card("class_word_0139", # 順調
+    "<ruby>新<rt>あたら</rt></ruby>しいオフィスの<ruby>準備<rt>じゅんび</rt></ruby>はすべて<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>んでおり、<ruby>来週<rt>らいしゅう</rt></ruby>には<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しできます。",
+    "Preparations for the new office are all going smoothly, and we can move in next week.",
+    "新辦公室的籌備一切進展順利，預計下週就能順利搬遷入駐。",
+    "新办公室的筹备一切进展顺利，预计下周就能顺利搬迁入驻。",
+    "새 사무실 입주 준비가 순조롭게 진행되고 있어 다음 주에 이사할 수 있을 것 같습니다.",
+    "新辦公室嘅籌備工作進行得好順利，下個禮拜就可以正式搬入去。",
+    "Les préparatifs du nouveau bureau avancent sans accroc, et nous pourrons emménager la semaine prochaine.")
+
+add_card("class_word_0148", # 青春
+    "<ruby>部活動<rt>ぶかつどう</rt></ruby>で<ruby>仲間<rt>なかま</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に<ruby>汗<rt>あせ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した日々は、かけがえのない<ruby>青春<rt>せいしゅん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>です。",
+    "The days of sweating together with teammates in club activities are an irreplaceable memory of youth.",
+    "在學校社團與隊友一起揮灑汗水的日子，是我無可取代的青春美好回憶。",
+    "在学校社团与队友一起挥洒汗水的日子，是我无可取代的青春美好回忆。",
+    "동아리 활동에서 친구들과 함께 땀 흘렸던 날들은 둘도 없는 소중한 청춘의 추억입니다.",
+    "以前讀書同班隊友一齊喺球隊練波流汗嘅日子，係無可替代嘅青春美好回憶。",
+    "Ces journées passées à suer avec mes camarades au club restent un souvenir inestimable de ma jeunesse.")
+
+add_card("class_word_0149", # ことわざ
+    "「<ruby>急<rt>いそ</rt></ruby>がば<ruby>回<rt>まわ</rt></ruby>れ」という日本の<ruby>ことわざ<rt>ことわざ</rt></ruby>は、<ruby>焦<rt>あせ</rt></ruby>らず<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めることの大切さを教えてくれます。",
+    "The Japanese proverb 'hasten slowly' teaches us the importance of moving steadily without rushing.",
+    "「欲速則不達」這句日本諺語，教導了我們凡事切莫心急、穩紮穩打的重要性。",
+    "“欲速则不达”这句日本谚语，教导了我们凡事切莫心急、稳扎稳打的重要性。",
+    "'급할수록 돌아가라'는 일본 속담은 서두르지 않고 착실하게 나아가는 것의 중요성을 가르쳐 줍니다.",
+    "日本有句俗語「急則繞道」，即係欲速則不達，教我哋做嘢要腳踏實地唔好太心急。",
+    "Le proverbe japonais 'qui va lentement va sûrement' enseigne l'importance d'avancer posément sans précipitation.")
+
+add_card("class_word_0157", # 部分
+    "レポートのこの<ruby>部分<rt>ぶぶん</rt></ruby>のグラフを<ruby>差<rt>さ</rt></ruby>し<ruby>替<rt>か</rt></ruby>えるだけで、ぐっと<ruby>説得力<rt>せっとくりょく</rt></ruby>が<ruby>増<rt>ま</rt></ruby>しますよ。",
+    "Simply replacing the chart in this part of the report will greatly increase its persuasiveness.",
+    "只要把報告中這個部分的圖表替換掉，整份資料的說服力就會大幅提升喔。",
+    "只要把报告中这个部分的图表替换掉，整份资料的说服力就会大幅提升哦。",
+    "보고서의 이 부분에 들어간 그래프만 교체해도 설득력이 한층 높아질 것입니다.",
+    "只要換咗份報告呢個部分張圖表，份報告嘅說服力就會即刻大增。",
+    "Il suffit de remplacer le graphique dans cette partie du rapport pour le rendre beaucoup plus convaincant.")
+
+add_card("class_word_0161", # 特に
+    "<ruby>和食<rt>わしょく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも、<ruby>特<rt>とく</rt></ruby>に<ruby>新鮮<rt>しんせん</rt></ruby>なサーモンやマグロのお<ruby>刺身<rt>さしみ</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
+    "Among Japanese cuisine, I particularly love fresh sashimi of salmon and tuna.",
+    "在各式日本料理當中，我尤其特別喜歡新鮮的鮭魚和鮪魚生魚片。",
+    "在各式日本料理当中，我尤其特别喜欢新鲜的三文鱼和金枪鱼生鱼片。",
+    "일식 중에서도 특히 신선한 연어와 참치 사시미를 매우 좋아합니다.",
+    "喺咁多款日本料理入面，我特別最鍾意食新鮮三文魚同吞拿魚刺身。",
+    "Parmi les plats japonais, j'aime tout particulièrement les sashimis frais de saumon et de thon.")
+
+add_card("class_word_0166", # 家事
+    "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>などの<ruby>家事<rt>かじ</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>して、<ruby>手早<rt>てばや</rt></ruby>く<ruby>片付<rt>かたづ</rt></ruby>けています。",
+    "On weekends, my spouse and I divide up household chores like cleaning and laundry to finish them quickly.",
+    "到了週末，我們夫妻倆會分工合作打掃、洗衣服等家事，俐落地整理完畢。",
+    "到了周末，我们夫妻俩会分工合作打扫、洗衣服等家事，俐落地整理完毕。",
+    "주말에는 부부가 청소와 빨래 등 집안일을 분담하여 빠르게 끝마칩니다.",
+    "到咗禮拜六日，我同伴侶會分工合作做吸塵同洗衫等家務，好快搞掂晒。",
+    "Le week-end, mon conjoint et moi nous partageons les tâches ménagères comme le ménage et la lessive pour aller vite.")
+
+add_card("class_word_0172", # 夕日
+    "<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>海辺<rt>うみべ</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しながら、オレンジ<ruby>色<rt>いろ</rt></ruby>に<ruby>輝<rt>かがや</rt></ruby>く<ruby>夕日<rt>ゆうひ</rt></ruby>をのんびり<ruby>眺<rt>なが</rt></ruby>めました。",
+    "Strolling along the beach in the evening, I leisurely watched the sunset glowing orange.",
+    "傍晚在海邊散步時，我悠閒地欣賞著閃耀橘紅色光芒的美麗夕陽。",
+    "傍晚在海边散步时，我悠闲地欣赏着闪耀橘红色光芒的美丽夕阳。",
+    "해질녘 해변을 산책하며 주황빛으로 빛나는 아름다운 저녁노을을 감상했습니다.",
+    "下晝黃昏去海灘散步，悠閒噉欣賞夕陽染到成個天空一片金橙色。",
+    "En me promenant sur la plage le soir, j'ai contemplé paisiblement le coucher de soleil flamboyant.")
+
+add_card("class_word_0174", # 周り
+    "<ruby>駅<rt>えき</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りにはスーパーやドラッグストアがたくさんあって、とても<ruby>生活<rt>せいかつ</rt></ruby>しやすいです。",
+    "Around the station there are many supermarkets and pharmacies, making daily life very convenient.",
+    "車站周圍有許多超級市場與藥妝店，生活機能非常便利。",
+    "车站周围有许多超级市场与药妆店，生活机能非常便利。",
+    "역 주변에 마트와 드럭스토어가 많아서 생활하기 아주 편리합니다.",
+    "火車站周圍有好多超級市場同藥妝店，平時生活買嘢真係非常方便。",
+    "Autour de la gare se trouvent de nombreux supermarchés et pharmacies, ce qui rend le quotidien très pratique.")
+
+add_card("class_word_0178", # 汁
+    "<ruby>野菜<rt>やさい</rt></ruby>とお<ruby>豆腐<rt>とうふ</rt></ruby>がたっぷり<ruby>入<rt>はい</rt></ruby>ったおみそ<ruby>汁<rt>しる</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと、<ruby>体<rt>からだ</rt></ruby>がポカポカ<ruby>温<rt>あたた</rt></ruby>まります。",
+    "Drinking miso soup packed with vegetables and tofu warms the whole body nicely.",
+    "喝一碗放滿了蔬菜與嫩豆腐的味噌湯，整個人身體都暖呼呼的。",
+    "喝一碗放满了蔬菜与嫩豆腐的味噌汤，整个人身体都暖呼呼的。",
+    "채소와 두부가 듬뿍 들어간 된장국을 마시면 온몸이 따뜻해집니다.",
+    "飲返碗有好多蔬菜同滑豆腐嘅熱辣辣味噌湯，個人成個身暖笠笠好舒服。",
+    "Boire une soupe miso bien garnie de légumes et de tofu réchauffe agréablement le corps.")
+
+add_card("class_word_0180", # お酒
+    "お<ruby>酒<rt>さけ</rt></ruby>は20<ruby>歳<rt>さい</rt></ruby>になってから。<ruby>友達<rt>ともだち</rt></ruby>の<ruby>成人<rt>せいじん</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いで、<ruby>初<rt>はじ</rt></ruby>めてお<ruby>酒<rt>さけ</rt></ruby>で<ruby>乾杯<rt>かんぱい</rt></ruby>しました。",
+    "Alcohol is for age 20 and up. At my friend's coming-of-age celebration, we toasted with alcohol for the first time.",
+    "日本滿20歲才能喝酒。在朋友的成年禮慶祝會上，我們第一次舉杯用酒乾杯。",
+    "日本满20岁才能喝酒。在朋友的成年礼庆祝会上，我们第一次举杯用酒干杯。",
+    "술은 20세가 되고 나서부터입니다. 친구의 성인 축하 파티에서 처음으로 술로 건배했습니다.",
+    "喺日本夠20歲先可以飲酒。琴日朋友嘅成年禮派對度，我哋第一次舉起酒杯乾杯。",
+    "L'alcool est permis à partir de 20 ans. Pour fêter la majorité d'un ami, nous avons trinqué à l'alcool pour la première fois.")
+
+add_card("class_word_0181", # アルコール
+    "<ruby>感染症<rt>かんせんしょう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するため、お<ruby>店<rt>みせ</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>でアルコール<ruby>消毒<rt>しょうどく</rt></ruby>をしっかり<ruby>行<rt>おこな</rt></ruby>いました。",
+    "To prevent infections, I thoroughly sanitized my hands with alcohol sanitizer at the store entrance.",
+    "為了預防傳染病，我在店門口用酒精消毒液仔細清潔了雙手。",
+    "为了预防传染病，我在店门口用酒精消毒液仔细清洁了双手。",
+    "감염병 예방을 위해 가게 입구에서 알코올 손 소독을 꼼꼼하게 했습니다.",
+    "為咗預防病菌感染，入舖頭之前我喺門口用酒精消毒搓手液消毒雙手。",
+    "Pour prévenir les infections, je me suis soigneusement désinfecté les mains avec du gel hydroalcoolique à l'entrée.")
+
+add_card("class_word_0193", # 勇気
+    "<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>むときは、ほんの<ruby>少<rt>すこ</rt></ruby>しの<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>背中<rt>せなか</rt></ruby>を<ruby>押<rt>お</rt></ruby>してくれます。",
+    "When leaping into a new environment, just a little courage gives you that supportive push.",
+    "每當要踏入陌生的新環境時，只要一點點勇氣就能成為推動自己前行的力量。",
+    "每当要踏入陌生的新环境时，只要一点点勇气就能成为推动自己前行的力量。",
+    "새로운 환경에 뛰어들 때는 아주 작은 용기가 등을 밀어주는 힘이 됩니다.",
+    "當踏入一個全新嘅環境，只要俾少少勇氣自己，就會有動力踏出第一步。",
+    "Quand on plonge dans un nouvel environnement, un simple brin de courage suffit pour nous donner l'élan.")
+
+add_card("class_word_0209", # 原因
+    "エンジニアのチームが、ネットワークが<ruby>切断<rt>せつだん</rt></ruby>された<ruby>根本的<rt>こんぽんてき</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>しています。",
+    "A team of engineers is investigating the root cause of why the network disconnected.",
+    "工程師團隊正在調查網路發生斷線的根本原因。",
+    "工程师团队正在调查网络发生断线的根本原因。",
+    "엔지니어 팀이 네트워크 연결이 끊긴 근본적인 원인을 조사하고 있습니다.",
+    "工程師團隊而家調查緊成個網絡斷線嘅根本原因。",
+    "L'équipe d'ingénieurs recherche la cause profonde de la coupure de réseau.")
+
+add_card("class_word_0216", # お大事に
+    "「<ruby>熱<rt>ねつ</rt></ruby>がまだ<ruby>下<rt>さ</rt></ruby>がらないので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早退<rt>そうたい</rt></ruby>します」「どうぞご<ruby>無理<rt>むり</rt></ruby>をなさらず、お<ruby>大事<rt>だいじ</rt></ruby>にしてくださいね。」",
+    "'My fever hasn't gone down yet, so I will leave early today.' 'Please take care of yourself and don't push it.'",
+    "「我的燒還沒退，今天先請假早退。」「請千萬別勉強，好好保重身體喔。」",
+    "“我的烧还没退，今天先请假早退。”“请千万别勉强，好好保重身体哦。”",
+    "'열이 아직 내리지 않아서 오늘은 조퇴하겠습니다.' '무리하지 마시고 몸조리 잘하세요.'",
+    "「我仲有啲發燒未退，今日早啲走先。」「千祈唔好頂硬上呀，返屋企好好休息保重身體啦。」",
+    "'Ma fièvre n'est pas encore tombée, je vais donc partir plus tôt aujourd'hui.' 'Ne forcez pas et prenez bien soin de vous.'")
+
+add_card("class_word_0232", # 怒る
+    "<ruby>相手<rt>あいて</rt></ruby>がミスをしたときも、すぐに<ruby>怒<rt>おこ</rt></ruby>るのではなく<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うようにしています。",
+    "Even when the other person makes a mistake, instead of getting angry right away, I try to talk calmly.",
+    "即使對方犯了錯，我也不會馬上發脾氣，而是試著冷靜溝通商討。",
+    "即使对方犯了错，我也不会马上发脾气，而是试着冷静沟通商讨。",
+    "상대방이 실수를 했을 때도 바로 화내지 않고 차분하게 대화하려 노력합니다.",
+    "就算對方做錯事，我都唔會即時鬧人，而係嘗試心平氣和噉好好傾下。",
+    "Même quand l'autre commet une faute, au lieu de m'énerver immédiatement, j'essaie d'en discuter calmement.")
+
+add_card("class_word_0238", # 臭い
+    "<ruby>生<rt>なま</rt></ruby>ゴミのイヤな<ruby>臭<rt>にお</rt></ruby>いを<ruby>防<rt>ふせ</rt></ruby>ぐため、しっかり<ruby>密閉<rt>みっぺい</rt></ruby>できるフタつきのゴミ<ruby>箱<rt>ばこ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+    "To prevent the unpleasant smell of food waste, I use a tightly sealing lidded trash can.",
+    "為了防止廚餘散發難聞的臭味，我使用能嚴密密封的加蓋垃圾桶。",
+    "为了防止厨余散发难闻的臭味，我使用能严密密封的加盖垃圾桶。",
+    "음식물 쓰레기의 불쾌한 냄새를 막기 위해 밀폐되는 뚜껑 달린 쓰레기통을 씁니다.",
+    "為咗防止廚餘發出難聞嘅臭味，我用緊個有密閉蓋嘅垃圾桶。",
+    "Pour éviter la mauvaise odeur des déchets organiques, j'utilise une poubelle munie d'un couvercle hermétique.")
+
+add_card("class_word_0244", # 巻く
+    "<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>首元<rt>くびもと</rt></ruby>に<ruby>温<rt>あたた</rt></ruby>かいウールのマフラーをぐるりと<ruby>巻<rt>ま</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。",
+    "On cold winter mornings, I wrap a warm wool scarf snugly around my neck before heading out.",
+    "在寒冷的冬日早晨，我在脖子上圍上溫暖的羊毛圍巾才出門。",
+    "在寒冷的冬日早晨，我在脖子上围上温暖的羊毛围巾才出门。",
+    "추운 겨울 아침에는 목에 따뜻한 울 목도리를 두르고 외출합니다.",
+    "喺寒冷嘅冬天朝早，我會喺條頸圍條暖笠笠嘅羊毛頸巾先出門口。",
+    "Par les froids matins d'hiver, j'enroule une chaude écharpe en laine autour de mon cou avant de sortir.")
+
+add_card("class_word_0259", # 柔らかい
+    "パン<ruby>屋<rt>や</rt></ruby>さんの<ruby>焼<rt>や</rt></ruby>きたて食パンは、ふわふわでとても<ruby>柔<rt>やわ</rt></ruby>らかくておいしいです。",
+    "Freshly baked bread from the bakery is fluffy, wonderfully soft, and delicious.",
+    "麵包店剛出爐的白吐司蓬鬆綿密，質地非常柔軟美味。",
+    "面包店刚出炉的白吐司蓬松绵密，质地非常柔软美味。",
+    "베이커리의 갓 구운 식빵은 폭신폭신하고 아주 부드러워서 맛있습니다.",
+    "麵包舖啱啱出爐嘅方包好鬆軟好綿密，食落軟淋淋真係好好食。",
+    "Le pain de mie tout juste sorti du four de la boulangerie est ultra moelleux, très tendre et délicieux.")
+
+add_card("class_word_0260", # 硬い
+    "お<ruby>風呂<rt>ふろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりにストレッチを<ruby>続<rt>つづ</rt></ruby>けていたら、<ruby>硬<rt>かた</rt></ruby>かった<ruby>体<rt>からだ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつほぐれてきました。",
+    "By continuing to stretch after taking a bath, my once-stiff body has loosened up bit by bit.",
+    "泡完澡持續做伸展拉筋運動後，原本僵硬的身體漸漸變得柔軟放鬆了。",
+    "泡完澡持续做伸展拉筋运动后，原本僵硬的身体渐渐变得柔软放松了。",
+    "목욕 후에 꾸준히 스트레칭을 했더니 뻣뻣했던 몸이 조금씩 유연해졌습니다.",
+    "沖完涼持之以恆拉筋拉伸之後，本來好硬嘅筋骨開始慢慢變得柔軟放鬆。",
+    "En m'étirant régulièrement après le bain, mon corps autrefois rigide s'assouplit peu à peu.")
+
+add_card("class_word_0269", # 最前（列）
+    "コンサートの<ruby>最前列<rt>さいぜんれつ</rt></ruby>のチケットが<ruby>当<rt>あ</rt></ruby>たり、アーティストの<ruby>表情<rt>ひょうじょう</rt></ruby>まで<ruby>間近<rt>まぢか</rt></ruby>で<ruby>見<rt>み</rt></ruby>られました！",
+    "I won front-row tickets to the concert, and was able to see the artist's expressions right up close!",
+    "我抽中了演唱會最前排座位的門票，近距離看清了歌手臉上的每一絲表情！",
+    "我抽中了演唱会最前排座位的门票，近距离看清了歌手脸上的每一丝表情！",
+    "콘서트 맨 앞줄 티켓에 당첨되어 아티스트의 표정까지 코앞에서 볼 수 있었습니다!",
+    "我抽中咗演唱會最頭第一行飛，近到睇得清清楚楚歌手嘅每個表情！",
+    "J'ai décroché des billets au tout premier rang pour le concert, j'ai pu voir les expressions de l'artiste de très près !")
+
+add_card("class_word_0296", # 来週
+    "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>なクライアントとの<ruby>商談<rt>しょうだん</rt></ruby>があるため、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておきます。",
+    "We have an important negotiation with a client next Tuesday, so I will prepare documents in advance.",
+    "下週二要與重要客戶進行商談，因此我提前準備好了各項簡報資料。",
+    "下周二要与重要客户进行商谈，因此我提前准备好了各项简报资料。",
+    "다음 주 화요일에 중요한 클라이언트와의 미팅이 있어서 미리 자료를 준비해 두고 있습니다.",
+    "下個禮拜二要同個好緊要嘅大客傾生意，我要預先印好同準備齊所有資料。",
+    "Nous avons une réunion commerciale importante avec un client mardi prochain, je prépare donc les documents à l'avance.")
+
+add_card("class_word_0450", # 入学する
+    "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したおかげで、<ruby>憧<rt>あこが</rt></ruby>れの<ruby>第一<rt>だいいち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>無事<rt>ぶじ</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>することができました。",
+    "Thanks to studying my hardest, I was successfully able to enter my dream first-choice university.",
+    "多虧付出了全心全力的努力讀書，我順利考進了夢寐以求的第一志願大學。",
+    "多亏付出了全心全力的努力读书，我顺利考进了梦寐以求的第一志愿大学。",
+    "열심히 공부한 덕분에 꿈에 그리던 제1지망 대학교에 무사히 입학할 수 있었습니다.",
+    "好彩平時搏命溫書，終於順利入讀我夢寐以求嘅第一志願大學。",
+    "Grâce à mon travail acharné, j'ai pu intégrer avec succès l'université de mes rêves, mon premier choix.")
+
+# Save part 2
+print(f"Part 2 created {len(REPLACEMENTS)} cards")
+with open("scripts/class_replacements_part2.json", "w", encoding="utf-8") as f:
+    json.dump(REPLACEMENTS, f, ensure_ascii=False, indent=2)
+print("Saved scripts/class_replacements_part2.json")

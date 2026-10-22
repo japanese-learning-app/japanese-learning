@@ -37,13 +37,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "musique"
     },
     "example": {
-      "ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？",
-      "en": "Are you fond of music?",
-      "zh_TW": "Are you fond of music?",
-      "zh_CN": "Are you fond of music?",
-      "ko": "Are you fond of music?",
-      "zh_HK": "Are you fond of music?",
-      "fr": "Are you fond of music?"
+      "ja": "<ruby>気分<rt>きぶん</rt></ruby>をリフレッシュしたい<ruby>時<rt>とき</rt></ruby>は、よく<ruby>明<rt>あか</rt></ruby>るい<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きます。",
+      "en": "When I want to refresh my mood, I often listen to upbeat music.",
+      "zh_TW": "想要轉換心情的時候，我常聽輕快開朗的音樂。",
+      "zh_CN": "想要转换心情的时候，我常听轻快开朗的音乐。",
+      "ko": "기분을 전환하고 싶을 때는 밝은 음악을 자주 듣습니다.",
+      "zh_HK": "想轉變下心情嗰陣，我通常會聽啲輕快開心嘅音樂。",
+      "fr": "Quand je veux me changer les idées, j'écoute souvent de la musique entraînante."
     },
     "related": "おんがく（授業の重要表現）"
   },
@@ -61,13 +61,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "instrument de musique"
     },
     "example": {
-      "ja": "<ruby>楽器<rt>がっき</rt></ruby>は<ruby>弾<rt>ひ</rt></ruby>ける？",
-      "en": "Can you play a musical instrument?",
-      "zh_TW": "Can you play a musical instrument?",
-      "zh_CN": "Can you play a musical instrument?",
-      "ko": "Can you play a musical instrument?",
-      "zh_HK": "Can you play a musical instrument?",
-      "fr": "Can you play a musical instrument?"
+      "ja": "<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>からピアノなどの<ruby>楽器<rt>がっき</rt></ruby>を<ruby>演奏<rt>えんそう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きでした。",
+      "en": "Ever since I was a child, I have loved playing musical instruments like the piano.",
+      "zh_TW": "我從小就很喜歡彈奏鋼琴等樂器。",
+      "zh_CN": "我从小就很喜欢弹奏钢琴等乐器。",
+      "ko": "어릴 적부터 피아노 등의 악기를 연주하는 것을 좋아했습니다.",
+      "zh_HK": "我自細就鍾意彈鋼琴之類嘅樂器。",
+      "fr": "Depuis mon enfance, j'ai toujours aimé jouer d'instruments de musique comme le piano."
     },
     "related": "がっき（授業の重要表現）"
   },
@@ -205,13 +205,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dialecte"
     },
     "example": {
-      "ja": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>は<ruby>聞き取<rt>ききと</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い。",
-      "en": "It's hard to catch words in the Osakan dialect.",
-      "zh_TW": "It's hard to catch words in the Osakan dialect.",
-      "zh_CN": "It's hard to catch words in the Osakan dialect.",
-      "ko": "It's hard to catch words in the Osakan dialect.",
-      "zh_HK": "It's hard to catch words in the Osakan dialect.",
-      "fr": "It's hard to catch words in the Osakan dialect."
+      "ja": "<ruby>関西<rt>かんさい</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>話<rt>はな</rt></ruby>していると、つられて<ruby>関西<rt>かんさい</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>が出てしまいます。",
+      "en": "When chatting with friends from Kansai, I inadvertently pick up and speak Kansai dialect.",
+      "zh_TW": "跟關西出身的朋友聊天時，不知不覺也被傳染說起關西方言了。",
+      "zh_CN": "跟关西出身的朋友聊天时，不知不觉也被传染说起关西方言了。",
+      "ko": "간사이 출신 친구와 이야기하다 보면 자연스레 간사이 방언을 따라 쓰게 됩니다.",
+      "zh_HK": "同關西嚟嘅朋友傾偈傾得多，自己都忍唔住學埋佢哋啲關西方言添。",
+      "fr": "En discutant avec mes amis originaires du Kansai, je finis par adopter sans m'en rendre compte leur dialecte."
     },
     "related": "ほうげん（授業の重要表現）"
   },
@@ -277,13 +277,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "tous les membres"
     },
     "example": {
-      "ja": "<ruby>全員<rt>ぜんいん</rt></ruby><ruby>出席<rt>しゅっせき</rt></ruby>です。",
-      "en": "All are present.",
-      "zh_TW": "All are present.",
-      "zh_CN": "All are present.",
-      "ko": "All are present.",
-      "zh_HK": "All are present.",
-      "fr": "All are present."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>のプロジェクト<ruby>会議<rt>かいぎ</rt></ruby>にはメンバーが<ruby>全員<rt>ぜんいん</rt></ruby><ruby>揃<rt>そろ</rt></ruby>い、<ruby>活発<rt>かっぱつ</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしました。",
+      "en": "All members were present at today's project meeting and actively exchanged their views.",
+      "zh_TW": "今天的專案會議所有成員全員到齊，十分熱烈踴躍地交換了意見。",
+      "zh_CN": "今天的项目会议所有成员全员到齐，十分热烈踊跃地交换了意见。",
+      "ko": "오늘 프로젝트 회의에는 팀원 전원이 참석하여 활발하게 의견을 나누었습니다.",
+      "zh_HK": "今日嘅項目會議全體成員齊人出席，大家交流意見氣氛好熱鬧踴躍。",
+      "fr": "Tous les membres étaient présents à la réunion de projet aujourd'hui et ont échangé leurs idées avec dynamisme."
     },
     "related": "ぜんいん（授業の重要表現）"
   },
@@ -301,13 +301,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "membre, adhésion"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>会員<rt>かいいん</rt></ruby>でした。",
-      "en": "I was a member.",
-      "zh_TW": "I was a member.",
-      "zh_CN": "I was a member.",
-      "ko": "I was a member.",
-      "zh_HK": "I was a member.",
-      "fr": "I was a member."
+      "ja": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>年間<rt>ねんかん</rt></ruby>パスポートを<ruby>購入<rt>こうにゅう</rt></ruby>して、プレミアム<ruby>会員<rt>かいいん</rt></ruby>になりました。",
+      "en": "I bought an annual pass for this art museum and became a premium member.",
+      "zh_TW": "我購買了這間美術館的年票，成為了尊榮會員。",
+      "zh_CN": "我购买了这间美术馆的年票，成为了尊荣会员。",
+      "ko": "이 미술관의 연간 패스권을 구입하여 프리미엄 회원이 되었습니다.",
+      "zh_HK": "我買咗呢間美術館嘅全年通行證，成為咗高級會員。",
+      "fr": "J'ai acheté un pass annuel pour ce musée d'art et suis devenu membre privilégié."
     },
     "related": "かいいん（授業の重要表現）"
   },
@@ -349,13 +349,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "humidité, humidité"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>湿気<rt>しっけ</rt></ruby>が<ruby>我慢<rt>がまん</rt></ruby>できない。",
-      "en": "I can't stand humidity.",
-      "zh_TW": "I can't stand humidity.",
-      "zh_CN": "I can't stand humidity.",
-      "ko": "I can't stand humidity.",
-      "zh_HK": "I can't stand humidity.",
-      "fr": "I can't stand humidity."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>湿気<rt>しっけ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くてジメジメするので、エアコンの<ruby>除湿<rt>じょしつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。",
+      "en": "Japanese summers are muggy with high humidity, making the AC's dehumidify function indispensable.",
+      "zh_TW": "日本的夏天濕氣很重且潮濕悶熱，冷氣的除濕功能不可或缺。",
+      "zh_CN": "日本的夏天湿气很重且潮湿闷热，空调的除湿功能不可或缺。",
+      "ko": "일본의 여름은 습기가 많고 후텁지근해서 에어컨의 제습 기능이 필수적입니다.",
+      "zh_HK": "日本夏天濕氣好重又焗又潮濕，冷氣機嘅抽濕功能真係唔少得。",
+      "fr": "L'été japonais est très humide et étouffant, la fonction déshumidificateur de la clim est donc essentielle."
     },
     "related": "しっけ（授業の重要表現）"
   },
@@ -373,13 +373,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "préfectures (les divisions administratives du Japon)"
     },
     "example": {
-      "ja": "A: <ruby>日本<rt>にほん</rt></ruby>の47<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、どこに<ruby>行<rt>い</rt></ruby>ってみたいですか？<br/>B: <ruby>北海道<rt>ほっかいどう</rt></ruby>と<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>をゆっくり<ruby>旅<rt>たび</rt></ruby>してみたいです。",
-      "en": "A: Which of Japan's 47 prefectures would you like to visit?<br/>B: I would like to travel slowly through the prefectures of Hokkaido and Okinawa.",
-      "zh_TW": "A：您想去日本 47 個都道府縣中的哪一個？<br/>B：我想慢慢地穿越北海道和沖繩縣。",
-      "zh_CN": "A：您想去日本 47 个都道府县中的哪一个？<br/>B：我想慢慢地穿越北海道和冲绳县。",
-      "ko": "A: 일본의 47도도부현 중 어디로 가보고 싶습니까?<br/>B: 홋카이도와 오키나와의 도도부현을 천천히 여행하고 싶습니다.",
-      "zh_HK": "A：您想去日本 47 個都道府縣中的哪一個？<br/>B：我想慢慢地穿越北海道和沖繩縣。",
-      "fr": "A : Laquelle des 47 préfectures du Japon aimeriez-vous visiter ?<br/>B : J'aimerais voyager lentement à travers les préfectures d'Hokkaido et d'Okinawa."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>には47の<ruby>都道府県<rt>とどうふけん</rt></ruby>があり、それぞれに<ruby>独自<rt>どくじ</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>ある<ruby>名物<rt>めいぶつ</rt></ruby>や<ruby>名所<rt>めいしょ</rt></ruby>があります。",
+      "en": "Japan has 47 prefectures, each boasting its own charming specialties and sights.",
+      "zh_TW": "日本共有47個都道府縣，每個地方都有其獨特魅力的在地名產與觀光名勝。",
+      "zh_CN": "日本共有47个都道府县，每个地方都有其独特魅力的当地名产与观光名胜。",
+      "ko": "일본에는 47개 도도부현이 있으며, 저마다 고유한 매력을 지닌 특산품과 명소가 있습니다.",
+      "zh_HK": "日本有47個都道府縣，每個地方都有自己好吸引人嘅地道特產同景點。",
+      "fr": "Le Japon compte 47 préfectures, chacune dotée de ses propres spécialités et curiosités attrayantes."
     },
     "related": "とどうふけん（授業の重要表現）"
   },
@@ -397,13 +397,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "chanson"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>歌<rt>うた</rt></ruby>う。",
-      "en": "I sing now.",
-      "zh_TW": "I sing now.",
-      "zh_CN": "I sing now.",
-      "ko": "I sing now.",
-      "zh_HK": "I sing now.",
-      "fr": "I sing now."
+      "ja": "この<ruby>歌<rt>うた</rt></ruby>を<ruby>聴<rt>き</rt></ruby>くと、<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>がよみがえります。",
+      "en": "Listening to this song brings back fond memories of my school days.",
+      "zh_TW": "一聽到這首歌，令人懷念的學生時代回憶就湧上心頭。",
+      "zh_CN": "一听到这首歌，令人怀念的学生时代回忆就涌上心头。",
+      "ko": "이 노래를 들으면 그리운 학창 시절의 추억이 되살아납니다.",
+      "zh_HK": "一聽親呢首歌，令人好懷念嘅學生時期回憶就浮現出嚟。",
+      "fr": "Quand j'écoute cette chanson, les souvenirs nostalgiques de mes années d'études me reviennent."
     },
     "related": "うた（授業の重要表現）"
   },
@@ -421,13 +421,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "chanter"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>歌<rt>うた</rt></ruby>う。",
-      "en": "I sing now.",
-      "zh_TW": "I sing now.",
-      "zh_CN": "I sing now.",
-      "ko": "I sing now.",
-      "zh_HK": "I sing now.",
-      "fr": "I sing now."
+      "ja": "カラオケで<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>好<rt>す</rt></ruby>きなアニメの<ruby>主題歌<rt>しゅだいか</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しく<ruby>歌<rt>うた</rt></ruby>いました。",
+      "en": "I had fun singing theme songs from favorite anime together with friends at karaoke.",
+      "zh_TW": "在KTV和朋友一起開心地唱了喜歡的動漫主題曲。",
+      "zh_CN": "在KTV和朋友一起开心地唱了喜欢的动漫主题曲。",
+      "ko": "노래방에서 친구들과 함께 좋아하는 애니메이션 주제가를 신나게 불렀습니다.",
+      "zh_HK": "喺卡拉OK同朋友一齊好開心噉唱咗鍾意嘅動漫主題曲。",
+      "fr": "Au karaoké, j'ai chanté avec plaisir les génériques d'anime préférés avec mes amis."
     },
     "related": "うたう（授業の重要表現）"
   },
@@ -445,13 +445,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "queue (animal)"
     },
     "example": {
-      "ja": "<ruby>牛<rt>うし</rt></ruby>の<ruby>尻尾<rt>しっぽ</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い。",
-      "en": "A cow has a long tail.",
-      "zh_TW": "A cow has a long tail.",
-      "zh_CN": "A cow has a long tail.",
-      "ko": "A cow has a long tail.",
-      "zh_HK": "A cow has a long tail.",
-      "fr": "A cow has a long tail."
+      "ja": "<ruby>飼<rt>か</rt></ruby>い<ruby>犬<rt>いぬ</rt></ruby>が<ruby>嬉<rt>うれ</rt></ruby>しそうに<ruby>尻尾<rt>しっぽ</rt></ruby>をブンブン<ruby>振<rt>ふ</rt></ruby>って、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>出迎<rt>でむか</rt></ruby>えてくれました。",
+      "en": "My pet dog happily wagged its tail vigorously and welcomed me at the entrance.",
+      "zh_TW": "家裡的愛犬開心地用力猛搖尾巴，在玄關熱情地迎接我回家。",
+      "zh_CN": "家里的爱犬开心地用力猛摇尾巴，在玄关热情地迎接我回家。",
+      "ko": "반려견이 신나게 꼬리를 흔들며 현관에서 반갑게 맞이해 주었습니다.",
+      "zh_HK": "屋企隻得意狗仔好興奮噉係咁fing尾，企喺玄關門口好熱情噉迎實我。",
+      "fr": "Mon chien a remué vigoureusement la queue avec joie pour m'accueillir dans l'entrée."
     },
     "related": "しっぽ（授業の重要表現）"
   },
@@ -469,13 +469,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "passe-temps"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多趣味<rt>たしゅみ</rt></ruby>だ。",
-      "en": "He has a lot of hobbies.",
-      "zh_TW": "He has a lot of hobbies.",
-      "zh_CN": "He has a lot of hobbies.",
-      "ko": "He has a lot of hobbies.",
-      "zh_HK": "He has a lot of hobbies.",
-      "fr": "He has a lot of hobbies."
+      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>にカメラを<ruby>持<rt>も</rt></ruby>って<ruby>街<rt>まち</rt></ruby>の<ruby>風景<rt>ふうけい</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>することです。",
+      "en": "My hobby is taking my camera on weekends to photograph city landscapes.",
+      "zh_TW": "我的興趣是週末帶著相機到處拍攝城市街景。",
+      "zh_CN": "我的兴趣是周末带着相机到处拍摄城市街景。",
+      "ko": "제 취미는 주말에 카메라를 들고 도시 풍경을 사진에 담는 것입니다.",
+      "zh_HK": "我平時嘅興趣係放假帶住部相機去影下街景。",
+      "fr": "Mon passe-temps consiste à emporter mon appareil photo le week-end pour photographier la ville."
     },
     "related": "しゅみ（授業の重要表現）"
   },
@@ -493,13 +493,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "à côté"
     },
     "example": {
-      "ja": "<ruby>隣<rt>となり</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って。",
-      "en": "Come sit next to me.",
-      "zh_TW": "Come sit next to me.",
-      "zh_CN": "Come sit next to me.",
-      "ko": "Come sit next to me.",
-      "zh_HK": "Come sit next to me.",
-      "fr": "Come sit next to me."
+      "ja": "「すみません、お<ruby>隣<rt>となり</rt></ruby>の<ruby>席<rt>せき</rt></ruby>は<ruby>空<rt>あ</rt></ruby>いていますか？」「はい、どうぞお<ruby>座<rt>すわ</rt></ruby>りください。」",
+      "en": "'Excuse me, is this seat next to you free?' 'Yes, please take a seat.'",
+      "zh_TW": "「不好意思，請問您旁邊的這個座位有人坐嗎？」「沒有，請隨意坐吧。」",
+      "zh_CN": "“不好意思，请问您旁边的这个座位有人坐吗？”“没有，请随意坐吧。”",
+      "ko": "'실례지만 옆자리 비어 있나요?' '네, 앉으셔도 됩니다.'",
+      "zh_HK": "「唔好意思，請問隔離個位有冇人坐㗎？」「冇呀，請坐啦。」",
+      "fr": "'Excusez-moi, la place à côté de vous est-elle libre ?' 'Oui, je vous en prie, asseyez-vous.'"
     },
     "related": "となり（授業の重要表現）"
   },
@@ -541,13 +541,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bibliothèque / bibliothèque"
     },
     "example": {
-      "ja": "ジョンは<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った。",
-      "en": "John built a bookcase.",
-      "zh_TW": "John built a bookcase.",
-      "zh_CN": "John built a bookcase.",
-      "ko": "John built a bookcase.",
-      "zh_HK": "John built a bookcase.",
-      "fr": "John built a bookcase."
+      "ja": "<ruby>散<rt>ち</rt></ruby>らかった<ruby>部屋<rt>へや</rt></ruby>をすっきり<ruby>片付<rt>かたづ</rt></ruby>けるために、<ruby>新<rt>あたら</rt></ruby>しい<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>しました。",
+      "en": "I bought a new bookshelf to neatly organize my cluttered room.",
+      "zh_TW": "為了好好整理凌亂的房間，我買了一個新的書架。",
+      "zh_CN": "为了好好整理凌乱的房间，我买了一个新的书架。",
+      "ko": "어질러진 방을 깔끔하게 정리하기 위해 새 책장을 구입했습니다.",
+      "zh_HK": "為咗執返好間亂糟糟嘅房，我買咗個新書櫃返嚟擺書。",
+      "fr": "J'ai acheté une nouvelle bibliothèque pour ranger ma chambre en désordre."
     },
     "related": "ほんだな（授業の重要表現）"
   },
@@ -565,13 +565,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "grande portion / très grande portion"
     },
     "example": {
-      "ja": "A: すみません、このラーメンを<ruby>大盛<rt>おおも</rt></ruby>りにできますか？<br/>B: はい、かしこまりました！<ruby>麺<rt>めん</rt></ruby>の<ruby>大盛<rt>おおも</rt></ruby>り<ruby>無料<rt>むりょう</rt></ruby>ですよ。",
-      "en": "A: Excuse me, can I have a larger portion of this ramen?<br/>B: Yes, it's cool! A large bowl of noodles is free.",
-      "zh_TW": "A：請問，這個拉麵能給我多一份嗎？<br/>B：是的，很酷！一大碗麵條免費。",
-      "zh_CN": "A：请问，这个拉面能给我多一份吗？<br/>B：是的，很酷！一大碗面条免费。",
-      "ko": "A : 죄송합니다,이라면을 담을 수 있습니까?<br/>B: 네, 멋지다! 국수가 가득 무료입니다.",
-      "zh_HK": "A：請問，這個拉麵能給我多一份嗎？<br/>B：是的，很酷！一大碗麵條免費。",
-      "fr": "A : Excusez-moi, puis-je avoir une plus grande portion de ce ramen ?<br/>B : Oui, c'est cool ! Un grand bol de nouilles est gratuit."
+      "ja": "「お<ruby>腹<rt>なか</rt></ruby>がとてもすいたので、ご<ruby>飯<rt>はん</rt></ruby>を<ruby>大盛<rt>おおも</rt></ruby>りにしてもらえますか？」「はい、かしこまりました！」",
+      "en": "'I'm very hungry, could you make my rice a large serving?' 'Certainly!'",
+      "zh_TW": "「我肚子很餓，請問白飯可以幫我盛大碗的嗎？」「好的，沒問題！」",
+      "zh_CN": "“我肚子很饿，请问白饭可以帮我盛大碗的吗？”“好的，没问题！”",
+      "ko": "'배가 너무 고파서 밥 곱빼기로 주실 수 있나요?' '네, 알겠습니다!'",
+      "zh_HK": "「我好肚餓，可唔可以幫我將碗飯加大呀？」「好呀，冇問題！」",
+      "fr": "'J'ai très faim, pourriez-vous me servir une grande portion de riz ?' 'Certainement !'"
     },
     "related": "おおもり（授業の重要表現）"
   },
@@ -589,13 +589,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "repas fixe / repas fixe"
     },
     "example": {
-      "ja": "<ruby>日替<rt>ひが</rt></ruby>わり<ruby>定食<rt>ていしょく</rt></ruby>にしませんか。",
-      "en": "How about getting the special of the day?",
-      "zh_TW": "How about getting the special of the day?",
-      "zh_CN": "How about getting the special of the day?",
-      "ko": "How about getting the special of the day?",
-      "zh_HK": "How about getting the special of the day?",
-      "fr": "How about getting the special of the day?"
+      "ja": "お<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>近<rt>ちか</rt></ruby>くの<ruby>和食<rt>わしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで、<ruby>焼<rt>や</rt></ruby>き<ruby>魚<rt>ざかな</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。",
+      "en": "During my lunch break, I ordered a grilled fish set meal at a nearby Japanese restaurant.",
+      "zh_TW": "午休時我在附近的日式家庭料理店點了一份烤魚定食。",
+      "zh_CN": "午休时我在附近的日式家庭料理店点了一份烤鱼定食。",
+      "ko": "점심시간에 근처 일식집에서 생선구이 정식을 주문했습니다.",
+      "zh_HK": "中午食晏嗰陣去咗附近嘅日本和食小店，叫咗份好正嘅日式煎魚定食。",
+      "fr": "Pendant ma pause déjeuner, j'ai commandé un menu avec du poisson grillé dans un restaurant japonais voisin."
     },
     "related": "ていしょく（授業の重要表現）"
   },
@@ -613,13 +613,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "taille (d'une personne)"
     },
     "example": {
-      "ja": "<ruby>身長<rt>しんちょう</rt></ruby><ruby>何<rt>なん</rt></ruby>センチ？",
-      "en": "How tall are you?",
-      "zh_TW": "How tall are you?",
-      "zh_CN": "How tall are you?",
-      "ko": "How tall are you?",
-      "zh_HK": "How tall are you?",
-      "fr": "How tall are you?"
+      "ja": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>高校生<rt>こうこうせい</rt></ruby>になってから<ruby>急<rt>きゅう</rt></ruby>に<ruby>身長<rt>しんちょう</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びて、<ruby>私<rt>わたし</rt></ruby>を<ruby>追<rt>お</rt></ruby>い<ruby>越<rt>こ</rt></ruby>しました。",
+      "en": "My younger brother had a sudden growth spurt in high school and grew taller than me.",
+      "zh_TW": "弟弟升上高中後身高暴抽，一下就比我還要高了。",
+      "zh_CN": "弟弟升上高中后身高暴抽，一下就比我还要高了。",
+      "ko": "남동생은 고등학생이 되고 나서 키가 쑥쑥 자라더니 저를 훌쩍 넘어섰습니다.",
+      "zh_HK": "細佬升咗高中之後突然飆高，而家仲高過我添。",
+      "fr": "Mon jeune frère a eu une poussée de croissance au lycée et m'a maintenant dépassé en taille."
     },
     "related": "しんちょう（授業の重要表現）"
   },
@@ -685,13 +685,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "croire / faire confiance"
     },
     "example": {
-      "ja": "<ruby>信<rt>しん</rt></ruby>じるとこよ。",
-      "en": "I almost believe you.",
-      "zh_TW": "I almost believe you.",
-      "zh_CN": "I almost believe you.",
-      "ko": "I almost believe you.",
-      "zh_HK": "I almost believe you.",
-      "fr": "I almost believe you."
+      "ja": "自分自身の力を<ruby>信<rt>しん</rt></ruby>じて、最後まで諦めずに挑戦します。",
+      "en": "I will believe in my own abilities and take on the challenge without giving up until the end.",
+      "zh_TW": "相信自己的力量，堅持到底絕不輕言放棄。",
+      "zh_CN": "相信自己的力量，坚持到底绝不轻言放弃。",
+      "ko": "자신의 힘을 믿고 끝까지 포기하지 않고 도전하겠습니다.",
+      "zh_HK": "相信自己嘅力量，堅持到底絕不放棄去挑戰。",
+      "fr": "Je croirai en mes propres forces et relèverai le défi sans abandonner jusqu’au bout."
     },
     "related": "しんじる（授業の重要表現）"
   },
@@ -709,13 +709,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "envieux / jaloux"
     },
     "example": {
-      "ja": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。",
-      "en": "I'm jealous.",
-      "zh_TW": "I'm jealous.",
-      "zh_CN": "I'm jealous.",
-      "ko": "I'm jealous.",
-      "zh_HK": "I'm jealous.",
-      "fr": "I'm jealous."
+      "ja": "同僚が夏休みにヨーロッパ旅行へ行くと聞いて、とても<ruby>羨<rt>うらや</rt></ruby>ましいです。",
+      "en": "Hearing that my colleague is going on a trip to Europe for summer vacation, I am very envious.",
+      "zh_TW": "聽說同事暑假要去歐洲旅行，真讓人非常羨慕。",
+      "zh_CN": "听说同事暑假要去欧洲旅行，真让人非常羡慕。",
+      "ko": "동료가 여름휴가에 유럽 여행을 간다는 말을 듣고 정말 부러웠습니다.",
+      "zh_HK": "聽講同事暑假去歐洲旅行，真係好羨慕。",
+      "fr": "En apprenant que mon collègue part en voyage en Europe pour les vacances d’été, je suis très envieux."
     },
     "related": "うらやましい（授業の重要表現）"
   },
@@ -733,13 +733,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "élégant / à la mode / ayant bon goût"
     },
     "example": {
-      "ja": "おしゃれな<ruby>手袋<rt>てぶくろ</rt></ruby>ですね。",
-      "en": "Those are nice gloves you have on.",
-      "zh_TW": "Those are nice gloves you have on.",
-      "zh_CN": "Those are nice gloves you have on.",
-      "ko": "Those are nice gloves you have on.",
-      "zh_HK": "Those are nice gloves you have on.",
-      "fr": "Those are nice gloves you have on."
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつもセンスがよくて、とてもおしゃれなコーディネートをしていますね。",
+      "en": "She always has great taste and wears very stylish, chic outfits.",
+      "zh_TW": "她的品味一向極佳，平時的穿搭打扮總是十分時髦有型。",
+      "zh_CN": "她的品味一向极佳，平时的穿搭打扮总是十分时髦有型。",
+      "ko": "그녀는 항상 패션 감각이 뛰어나서 무척 세련된 스타일을 연출합니다.",
+      "zh_HK": "佢嘅衣著品味一向好好，平時襯衫著衫真係好型好有時尚感。",
+      "fr": "Elle a toujours beaucoup de goût et porte des tenues particulièrement élégantes et soignées."
     },
     "related": "おしゃれ（授業の重要表現）"
   },
@@ -853,13 +853,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "anniversaire"
     },
     "example": {
-      "ja": "<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>いつ？",
-      "en": "When is your birthday?",
-      "zh_TW": "When is your birthday?",
-      "zh_CN": "When is your birthday?",
-      "ko": "When is your birthday?",
-      "zh_HK": "When is your birthday?",
-      "fr": "When is your birthday?"
+      "ja": "「<ruby>田中<rt>たなか</rt></ruby>さん、お<ruby>誕生日<rt>たんじょうび</rt></ruby>おめでとうございます！」「ありがとうございます！」",
+      "en": "'Happy birthday, Mr. Tanaka!' 'Thank you so much!'",
+      "zh_TW": "「田中先生，祝您生日快樂！」「非常感謝您！」",
+      "zh_CN": "“田中先生，祝您生日快乐！”“非常感谢您！”",
+      "ko": "'다나카 씨, 생일 축하드립니다!' '감사합니다!'",
+      "zh_HK": "「田中生，祝你生日快樂！」「多謝晒你呀！」",
+      "fr": "'Joyeux anniversaire, M. Tanaka !' 'Merci infiniment !'"
     },
     "related": "たんじょうび（授業の重要表現）"
   },
@@ -926,13 +926,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "disparaître / disparaître / sortir"
     },
     "example": {
-      "ja": "<ruby>雪<rt>ゆき</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えるだろう。",
-      "en": "The snow will soon disappear.",
-      "zh_TW": "The snow will soon disappear.",
-      "zh_CN": "The snow will soon disappear.",
-      "ko": "The snow will soon disappear.",
-      "zh_HK": "The snow will soon disappear.",
-      "fr": "The snow will soon disappear."
+      "ja": "<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>昇<rt>のぼ</rt></ruby>るにつれて、<ruby>朝方<rt>あさがた</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>い<ruby>霧<rt>きり</rt></ruby>がスッと<ruby>消<rt>き</rt></ruby>えていきました。",
+      "en": "As the sun rose higher, the thick morning fog gradually dissipated and vanished.",
+      "zh_TW": "隨著太陽高高升起，清晨濃重的晨霧漸漸消散得無影無蹤。",
+      "zh_CN": "随着太阳高高升起，清晨浓重的晨雾渐渐消散得无影无踪。",
+      "ko": "태양이 높이 떠오르면서 아침의 짙은 안개가 말끔히 사라져 갔습니다.",
+      "zh_HK": "隨住太陽慢慢升起，清晨原本好濃嘅大霧好快就散晒消退。",
+      "fr": "Au fur et à mesure que le soleil montait dans le ciel, la brume matinale épaisse s'est complètement dissipée."
     },
     "related": "きえる（授業の重要表現）"
   },
@@ -950,13 +950,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "anniversaire / journée commémorative"
     },
     "example": {
-      "ja": "A: <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>はレストランでお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>予定<rt>よてい</rt></ruby>ですか？<br/>B: はい、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>なので<ruby>静<rt>しず</rt></ruby>かなお<ruby>店<rt>みせ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。",
-      "en": "A: Are you planning to celebrate your wedding anniversary next week at a restaurant?<br/>B: Yes, it's a special anniversary, so I reserved a quiet restaurant.",
-      "zh_TW": "A：你打算下週在餐廳慶祝結婚紀念日嗎？<br/>B：是的，今天是一個特別的周年紀念日，所以我預訂了一家安靜的餐廳。",
-      "zh_CN": "A：你打算下周在餐馆庆祝结婚纪念日吗？<br/>B：是的，今天是一个特殊的周年纪念日，所以我预订了一家安静的餐厅。",
-      "ko": "A: 다음 주 결혼 기념일은 레스토랑에서 축하할 예정입니까?<br/>B : 네, 특별한 기념일이므로 조용한 가게를 예약했습니다.",
-      "zh_HK": "A：你打算下週在餐廳慶祝結婚紀念日嗎？<br/>B：是的，今天是一個特別的周年紀念日，所以我預訂了一家安靜的餐廳。",
-      "fr": "A : Envisagez-vous de célébrer votre anniversaire de mariage la semaine prochaine dans un restaurant ?<br/>B : Oui, c'est un anniversaire spécial, alors j'ai réservé un restaurant tranquille."
+      "ja": "<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>に、<ruby>普段<rt>ふだん</rt></ruby>はなかなか<ruby>行<rt>い</rt></ruby>けない<ruby>特別<rt>とくべつ</rt></ruby>なレストランでディナーを<ruby>楽<rt>たの</rt></ruby>しみました。",
+      "en": "On our wedding anniversary, we enjoyed dinner at a special restaurant we rarely get to go to.",
+      "zh_TW": "在結婚紀念日這天，我們去了平時難得造訪的高級餐廳享受浪漫晚餐。",
+      "zh_CN": "在结婚纪念日这天，我们去了平时难得造访的高级餐厅享受浪漫晚餐。",
+      "ko": "결혼기념일을 맞아 평소에는 가기 힘든 특별한 레스토랑에서 저녁 식사를 즐겼습니다.",
+      "zh_HK": "喺結婚週年紀念日嗰日，我哋去咗間平時好少捨得去嘅高級情調餐廳食飯慶祝。",
+      "fr": "Pour notre anniversaire de mariage, nous avons partagé un dîner dans un restaurant d'exception où nous allons rarement."
     },
     "related": "きねんび（授業の重要表現）"
   },
@@ -1022,13 +1022,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jumeaux"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>双子<rt>ふたご</rt></ruby>です。",
-      "en": "I'm a twin.",
-      "zh_TW": "I'm a twin.",
-      "zh_CN": "I'm a twin.",
-      "ko": "I'm a twin.",
-      "zh_HK": "I'm a twin.",
-      "fr": "I'm a twin."
+      "ja": "<ruby>隣<rt>となり</rt></ruby>のクラスの<ruby>兄弟<rt>きょうだい</rt></ruby>はそっくりな<ruby>双子<rt>ふたご</rt></ruby>で、<ruby>声<rt>こえ</rt></ruby>や仕草までよく似ています。",
+      "en": "The brothers in the next class are identical twins; even their voices and gestures look alike.",
+      "zh_TW": "隔壁班的那對兄弟是一對長得一模一樣的雙胞胎，連說話聲音和小動作都很相似。",
+      "zh_CN": "隔壁班的那对兄弟是一对长得一模一样的双胞胎，连说话声音和小动作都很相似。",
+      "ko": "옆 반의 형제는 꼭 닮은 쌍둥이여서 목소리와 손짓까지 쏙 빼닮았습니다.",
+      "zh_HK": "隔离班嗰對兄弟係生得好似樣嘅同卵雙胞胎，連把聲同小動作都好似。",
+      "fr": "Les frères de la classe voisine sont de vrais jumeaux, même leurs voix et leurs gestes se ressemblent."
     },
     "related": "ふたご（授業の重要表現）"
   },
@@ -1046,13 +1046,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "enfer / enfer"
     },
     "example": {
-      "ja": "<ruby>地獄<rt>じごく</rt></ruby>も<ruby>住<rt>じゅう</rt></ruby><ruby>家<rt>か</rt></ruby>。",
-      "en": "Even hell can be a nice place to live when you get used to it.",
-      "zh_TW": "Even hell can be a nice place to live when you get used to it.",
-      "zh_CN": "Even hell can be a nice place to live when you get used to it.",
-      "ko": "Even hell can be a nice place to live when you get used to it.",
-      "zh_HK": "Even hell can be a nice place to live when you get used to it.",
-      "fr": "Even hell can be a nice place to live when you get used to it."
+      "ja": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>炎天下<rt>えんてんか</rt></ruby>でエアコンが<ruby>故障<rt>こしょう</rt></ruby>してしまい、まるで<ruby>地獄<rt>じごく</rt></ruby>のような<ruby>暑<rt>あつ</rt></ruby>さでした。",
+      "en": "The air conditioning broke down under the scorching midsummer sun; it felt hellishly hot.",
+      "zh_TW": "在盛夏烈日下冷氣壞掉了，熱得簡直像身處地獄一樣。",
+      "zh_CN": "在盛夏烈日下空调坏掉了，热得简直像身处地狱一样。",
+      "ko": "한여름 뙤약볕 아래에서 에어컨이 고장 나 지옥 같은 무더위를 겪었습니다.",
+      "zh_HK": "大熱天時冷氣機壞咗，熱到好似喺地獄入面咁辛苦。",
+      "fr": "La clim est tombée en panne sous un soleil de plomb en plein été, la chaleur était infernale."
     },
     "related": "じごく（授業の重要表現）"
   },
@@ -1070,13 +1070,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "spécial / unique / insolite"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>特殊<rt>とくしゅ</rt></ruby><ruby>部隊<rt>ぶたい</rt></ruby>に<ruby>勤務<rt>きんむ</rt></ruby>する。",
-      "en": "I work in a special unit.",
-      "zh_TW": "I work in a special unit.",
-      "zh_CN": "I work in a special unit.",
-      "ko": "I work in a special unit.",
-      "zh_HK": "I work in a special unit.",
-      "fr": "I work in a special unit."
+      "ja": "この<ruby>精密<rt>せいみつ</rt></ruby><ruby>機器<rt>きき</rt></ruby>の<ruby>修理<rt>しゅうり</rt></ruby>には、<ruby>特殊<rt>とくしゅ</rt></ruby>な工具と専門知識が必要です。",
+      "en": "Repairing this precision equipment requires specialized tools and expert knowledge.",
+      "zh_TW": "維修這台精密儀器時，需要使用特殊的專用工具與專業知識。",
+      "zh_CN": "维修这台精密仪器时，需要使用特殊的专用工具与专业知识。",
+      "ko": "이 정밀 기기를 수리하려면 특수한 공구와 전문적인 기술이 필요합니다.",
+      "zh_HK": "要修理呢部精密儀器，一定要用特殊嘅專業工具同相關技術知識。",
+      "fr": "La réparation de cet appareil de précision exige des outils spéciaux et des connaissances pointues."
     },
     "related": "とくしゅ（授業の重要表現）"
   },
@@ -1190,13 +1190,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "coûter (de l'argent)"
     },
     "example": {
-      "ja": "A: <ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、やはり<ruby>色々<rt>いろいろ</rt></ruby>とお<ruby>金<rt>かね</rt></ruby>がかかりますか？<br/>B: そうですね、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>で<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。",
-      "en": "A: Does it cost a lot of money to start living alone?<br/>B: Well, it costs more than I expected due to rent and living expenses.",
-      "zh_TW": "A：開始獨居要花很多錢嗎？<br/>B：嗯，由於房租和生活費，它的花費比我預期的要高。",
-      "zh_CN": "A：开始独居要花很多钱吗？<br/>B：嗯，由于房租和生活费，它的花费比我预期的要高。",
-      "ko": "A: 혼자 생활을 시작하면 역시 여러가지 돈이 듭니까?<br/>B: 그렇네요, 집세나 생활비로 생각했던 것 이상으로 돈이 듭니다.",
-      "zh_HK": "A：開始獨居要花很多錢嗎？<br/>B：嗯，由於房租和生活費，它的花費比我預期的要高。",
-      "fr": "A : Est-ce que cela coûte beaucoup d’argent de commencer à vivre seul ?<br/>B : Eh bien, cela coûte plus cher que prévu à cause du loyer et des frais de subsistance."
+      "ja": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>光熱<rt>こうねつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>など<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。",
+      "en": "When you start living alone, it costs more money than expected for rent and utilities.",
+      "zh_TW": "一旦開始一個人住，房租和水電費等開銷會比想像中還要花錢。",
+      "zh_CN": "一旦开始一个人住，房租和水电费等开销会比想象中还要花钱。",
+      "ko": "혼자 살기 시작하면 집세와 공과금 등 생각보다 돈이 많이 듭니다.",
+      "zh_HK": "自己搬出嚟一個人住，交租同水電煤開支比想像中要使多好多錢。",
+      "fr": "Quand on commence à vivre seul, le loyer et les charges coûtent plus cher que prévu."
     },
     "related": "かかる—お金が（授業の重要表現）"
   },
@@ -1310,13 +1310,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "petit à petit / progressivement"
     },
     "example": {
-      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>がなかなか<ruby>覚<rt>おぼ</rt></ruby>えられなくて<ruby>焦<rt>あせ</rt></ruby>っています。<br/>B: <ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。",
-      "en": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_TW": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_CN": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "ko": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_HK": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "fr": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day."
+      "ja": "<ruby>難<rt>むずか</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>も、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>勉強<rt>べんきょう</rt></ruby>すれば<ruby>必<rt>かなら</rt></ruby>ず<ruby>理解<rt>りかい</rt></ruby>できるようになります。",
+      "en": "Even difficult Japanese grammar will surely become understandable if you study it little by little every day.",
+      "zh_TW": "再難的日語文法，只要每天一點一滴學習，一定能融會貫通。",
+      "zh_CN": "再难的日语语法，只要每天一点一滴学习，一定能融会贯通。",
+      "ko": "어려운 일본어 문법도 매일 조금씩 공부하면 반드시 이해할 수 있게 됩니다.",
+      "zh_HK": "幾深奧嘅日文文法都好，只要每日少少噉溫習，遲早一定會明嘅。",
+      "fr": "Même la grammaire japonaise difficile deviendra compréhensible si vous l'étudiez petit à petit chaque jour."
     },
     "related": "すこしずつ（授業の重要表現）"
   },
@@ -1334,13 +1334,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mémoriser / apprendre / se souvenir"
     },
     "example": {
-      "ja": "<ruby>覚<rt>おぼ</rt></ruby>えるの、<ruby>簡単<rt>かんたん</rt></ruby>よ。",
-      "en": "It's easy to learn.",
-      "zh_TW": "It's easy to learn.",
-      "zh_CN": "It's easy to learn.",
-      "ko": "It's easy to learn.",
-      "zh_HK": "It's easy to learn.",
-      "fr": "It's easy to learn."
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>は、<ruby>例文<rt>れいぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>覚<rt>おぼ</rt></ruby>えると<ruby>忘<rt>わす</rt></ruby>れにくいです。",
+      "en": "New Japanese vocabulary words are hard to forget if you memorize them out loud in full sentences.",
+      "zh_TW": "記新的日語單字時，跟著例句一起大聲唸出來記憶，比較不容易忘記。",
+      "zh_CN": "记新的日语单字时，跟着例句一起大声念出来记忆，比较不容易忘记。",
+      "ko": "새로운 일본어 단어는 예문과 함께 소리 내어 외우면 쉽게 잊어버리지 않습니다.",
+      "zh_HK": "記日文新生字嗰陣，連埋例句大聲讀出聲去背，會記得牢好多。",
+      "fr": "Pour retenir le nouveau vocabulaire japonais, le prononcer à voix haute dans des exemples aide beaucoup à ne pas l'oublier."
     },
     "related": "おぼえる（授業の重要表現）"
   },
@@ -1358,13 +1358,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "moment sur le bout de la langue / vide soudain de mémoire"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>度忘<rt>どわす</rt></ruby>れした。",
-      "en": "For a moment I forgot what her name was.",
-      "zh_TW": "For a moment I forgot what her name was.",
-      "zh_CN": "For a moment I forgot what her name was.",
-      "ko": "For a moment I forgot what her name was.",
-      "zh_HK": "For a moment I forgot what her name was.",
-      "fr": "For a moment I forgot what her name was."
+      "ja": "<ruby>喉<rt>のど</rt></ruby>まで<ruby>出<rt>で</rt></ruby>かかっているのに、どうしても<ruby>彼<rt>かれ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>をど<ruby>忘<rt>わす</rt></ruby>れしてしまいました。",
+      "en": "It was right on the tip of my tongue, but I completely blanked out on his name.",
+      "zh_TW": "明明話都已經到嘴邊了，我卻怎麼也想不起來他的名字，一時腦袋一片空白。",
+      "zh_CN": "明明话都已经到嘴边了，我却怎么也想不起来他的名字，一时脑袋一片空白。",
+      "ko": "입안에서 맴도는데 그의 이름이 순간 도무지 기억나지 않았습니다.",
+      "zh_HK": "明明已經到嘴邊好熟，但偏偏一時疾掣醒唔起佢個名。",
+      "fr": "J'avais le mot sur le bout de la langue, mais j'ai eu un trou de mémoire complet sur son nom."
     },
     "related": "どわすれ（授業の重要表現）"
   },
@@ -1382,13 +1382,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "signe du zodiaque / signe astrologique / constellation"
     },
     "example": {
-      "ja": "<ruby>星座<rt>せいざ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
-      "en": "What is your astrological sign?",
-      "zh_TW": "What is your astrological sign?",
-      "zh_CN": "What is your astrological sign?",
-      "ko": "What is your astrological sign?",
-      "zh_HK": "What is your astrological sign?",
-      "fr": "What is your astrological sign?"
+      "ja": "<ruby>澄<rt>す</rt></ruby>み<ruby>切<rt>き</rt></ruby>った<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げると、オリオン<ruby>座<rt>ざ</rt></ruby>などの<ruby>美<rt>うつく</rt></ruby>しい<ruby>星座<rt>せいざ</rt></ruby>がはっきりと<ruby>見<rt>み</rt></ruby>えます。",
+      "en": "Looking up at the clear winter night sky, you can clearly see beautiful constellations like Orion.",
+      "zh_TW": "抬頭仰望澄澈清朗的冬日夜空，能清晰望見獵戶座等美麗璀璨的星座。",
+      "zh_CN": "抬头仰望澄澈清朗的冬日夜空，能清晰望见猎户座等美丽璀璨的星座。",
+      "ko": "맑게 갠 겨울 밤하늘을 올려다보면 오리온자리 등 아름다운 별자리들이 또렷하게 보입니다.",
+      "zh_HK": "望向晴朗嘅冬天夜空，可以好清楚見到獵戶座等好靚嘅星座。",
+      "fr": "En levant les yeux vers le ciel d'hiver bien dégagé, on aperçoit nettement de magnifiques constellations comme Orion."
     },
     "related": "せいざ（授業の重要表現）"
   },
@@ -1454,13 +1454,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "même âge / né la même année"
     },
     "example": {
-      "ja": "<ruby>同い年<rt>おないどし</rt></ruby>だよ。",
-      "en": "I am the same age.",
-      "zh_TW": "I am the same age.",
-      "zh_CN": "I am the same age.",
-      "ko": "I am the same age.",
-      "zh_HK": "I am the same age.",
-      "fr": "I am the same age."
+      "ja": "「<ruby>私<rt>わたし</rt></ruby>たち、<ruby>生<rt>う</rt></ruby>まれ<ruby>年<rt>どし</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じで<ruby>同い年<rt>おないどし</rt></ruby>ですね！」「ほんとですね！<ruby>親近感<rt>しんきんかん</rt></ruby>がわきます。」",
+      "en": "'We were born in the same year, so we are the exact same age!' 'Indeed! That makes me feel close to you.'",
+      "zh_TW": "「我們出生年份相同，是同年齡的同輩呢！」「真的耶！感覺好親切喔。」",
+      "zh_CN": "“我们出生年份相同，是同年龄的同辈呢！”“真的耶！感觉好亲切哦。”",
+      "ko": "'우리 태어난 해가 같아서 동갑이네요!' '정말이네요! 무척 친근감이 느껴져요.'",
+      "zh_HK": "「原來我哋同年出世係同齡同死黨喎！」「真係喎！即刻覺得好有親切感。」",
+      "fr": "'Nous sommes nés la même année, nous avons donc exactement le même âge !' 'C'est vrai ! Ça crée tout de suite des affinités.'"
     },
     "related": "同いおないどし（授業の重要表現）"
   },
@@ -1742,13 +1742,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bien sûr/certainement"
     },
     "example": {
-      "ja": "もちろんさ。",
-      "en": "Of course.",
-      "zh_TW": "Of course.",
-      "zh_CN": "Of course.",
-      "ko": "Of course.",
-      "zh_HK": "Of course.",
-      "fr": "Of course."
+      "ja": "A: 明日のパーティー、参加してくれる？<br/>B: <ruby>もちろん<rt>もちろん</rt></ruby>！楽しみにしているよ。",
+      "en": "A: Will you join tomorrow's party?<br/>B: Of course! I'm looking forward to it.",
+      "zh_TW": "A：明天的派對你會來參加嗎？<br/>B：當然囉！我很期待呢。",
+      "zh_CN": "A：明天的派对你会来参加吗？<br/>B：当然啦！我很期待呢。",
+      "ko": "A: 내일 파티에 와 줄 거지?<br/>B: 물론이지! 기대하고 있어.",
+      "zh_HK": "A：聽日個Party你會嚟㗎可？<br/>B：梗係啦！好期待呀。",
+      "fr": "A : Tu viens à la fête demain ?<br/>B : Bien sûr ! J’ai hâte d’y être."
     },
     "related": "もちろん（授業の重要表現）"
   },
@@ -1814,13 +1814,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "tôt"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>素早<rt>すばや</rt></ruby>い。",
-      "en": "He moves quickly.",
-      "zh_TW": "He moves quickly.",
-      "zh_CN": "He moves quickly.",
-      "ko": "He moves quickly.",
-      "zh_HK": "He moves quickly.",
-      "fr": "He moves quickly."
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るため、<ruby>今夜<rt>こんや</rt></ruby>は10<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ることにします。",
+      "en": "To catch an early morning flight tomorrow, I will go to bed at 10 PM tonight.",
+      "zh_TW": "為了趕明天一大早的早班飛機，我今晚決定10點就上床睡覺。",
+      "zh_CN": "为了赶明天一大早的早班飞机，我今晚决定10点就上床睡觉。",
+      "ko": "내일 이른 아침 비행기를 타야 해서 오늘은 밤 10시에 잠자리에 들기로 했습니다.",
+      "zh_HK": "聽日要搭大清早嘅早機，今晚我打算10點鐘就上床瞓覺。",
+      "fr": "Pour prendre l'avion tôt demain matin, j'ai décidé d'aller me coucher à 22h ce soir."
     },
     "related": "はやい（授業の重要表現）"
   },
@@ -1863,13 +1863,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "en retard"
     },
     "example": {
-      "ja": "トムは<ruby>遅<rt>おそ</rt></ruby>い。",
-      "en": "Tom's late.",
-      "zh_TW": "Tom's late.",
-      "zh_CN": "Tom's late.",
-      "ko": "Tom's late.",
-      "zh_HK": "Tom's late.",
-      "fr": "Tom's late."
+      "ja": "残業で帰りが<ruby>遅<rt>おそ</rt></ruby>くなったので、駅前のコンビニで夜ご飯を買いました。",
+      "en": "Since I got home late due to overtime, I bought dinner at the convenience store in front of the station.",
+      "zh_TW": "因為加班回家變得很晚，所以在車站前的超商買了晚餐。",
+      "zh_CN": "因为加班回家变晚了，所以在车站前的便利店买了晚餐。",
+      "ko": "야근 때문에 귀가가 늦어져서 역 앞 편의점에서 저녁밥을 샀습니다.",
+      "zh_HK": "因為OT好夜先返到去，所以喺站前面嘅便利店買咗晚餐。",
+      "fr": "Comme je suis rentré tard à cause des heures supplémentaires, j’ai acheté à dîner à la supérette devant la gare."
     },
     "related": "おそい（授業の重要表現）"
   },
@@ -1887,13 +1887,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "lent"
     },
     "example": {
-      "ja": "トムは<ruby>遅<rt>おそ</rt></ruby>い。",
-      "en": "Tom's late.",
-      "zh_TW": "Tom's late.",
-      "zh_CN": "Tom's late.",
-      "ko": "Tom's late.",
-      "zh_HK": "Tom's late.",
-      "fr": "Tom's late."
+      "ja": "混雑した道路ではスピードが<ruby>遅<rt>おそ</rt></ruby>くなりますが、安全運転が一番大切です。",
+      "en": "Speed becomes slow on congested roads, but safe driving is what matters most.",
+      "zh_TW": "雖然在擁擠的道路上車速會變慢，但安全駕駛才是最重要的。",
+      "zh_CN": "虽然在拥挤的道路上车速会变慢，但安全驾驶才是最重要的。",
+      "ko": "혼잡한 도로에서는 속도가 느려지지만, 안전운전이 가장 중요합니다.",
+      "zh_HK": "塞車嗰陣雖然行得慢，但係安全駕駛先係最緊要。",
+      "fr": "Sur une route encombrée la vitesse ralentit, mais la conduite prudente est le plus important."
     },
     "related": "おそい（授業の重要表現）"
   },
@@ -1911,13 +1911,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "danser"
     },
     "example": {
-      "ja": "<ruby>踊<rt>おど</rt></ruby>るのが<ruby>大<rt>だい</rt></ruby>っ<ruby>嫌<rt>きら</rt></ruby>い。",
-      "en": "I hate dancing.",
-      "zh_TW": "I hate dancing.",
-      "zh_CN": "I hate dancing.",
-      "ko": "I hate dancing.",
-      "zh_HK": "I hate dancing.",
-      "fr": "I hate dancing."
+      "ja": "<ruby>夏祭<rt>なつまつ</rt></ruby>りでは、みんなで<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>盆踊<rt>ぼんおど</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しく<ruby>踊<rt>おど</rt></ruby>りました。",
+      "en": "At the summer festival, we all wore yukatas and danced the Bon dance merrily together.",
+      "zh_TW": "在夏日祭典上，大家換上浴衣一起開心地跳了盆踊舞。",
+      "zh_CN": "在夏日祭典上，大家换上浴衣一起开心地跳了盆踊舞。",
+      "ko": "여름 축제에서는 모두 유카타를 입고 흥겹게 봉오도리 춤을 추었습니다.",
+      "zh_HK": "喺夏天祭典嗰度，大家都換上浴衣好開心噉一齊跳盆踊舞。",
+      "fr": "Pendant le festival d'été, nous avons tous revêtu un yukata et dansé joyeusement la danse traditionnelle."
     },
     "related": "おどる（授業の重要表現）"
   },
@@ -1959,13 +1959,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "son/bruit"
     },
     "example": {
-      "ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？",
-      "en": "Are you fond of music?",
-      "zh_TW": "Are you fond of music?",
-      "zh_CN": "Are you fond of music?",
-      "ko": "Are you fond of music?",
-      "zh_HK": "Are you fond of music?",
-      "fr": "Are you fond of music?"
+      "ja": "<ruby>外<rt>そと</rt></ruby>からパタパタと<ruby>雨<rt>あめ</rt></ruby>の<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきたので、<ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めました。",
+      "en": "I heard the sound of rain pattering outside, so I closed the window.",
+      "zh_TW": "聽到外面傳來淅淅瀝瀝的雨聲，我就把窗戶關上了。",
+      "zh_CN": "听到外面传来淅淅沥沥的雨声，我就把窗户关上了。",
+      "ko": "밖에서 후두둑 비 내리는 소리가 들려와서 창문을 닫았습니다.",
+      "zh_HK": "聽到出面有滴滴嗒嗒嘅落雨聲，我就即刻閂咗隻窗。",
+      "fr": "J'ai entendu le bruit de la pluie tomber dehors, alors j'ai fermé la fenêtre."
     },
     "related": "おと（授業の重要表現）"
   },
@@ -1983,13 +1983,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "voix"
     },
     "example": {
-      "ja": "<ruby>声援<rt>せいえん</rt></ruby>がやんだ。",
-      "en": "The cheering ceased.",
-      "zh_TW": "The cheering ceased.",
-      "zh_CN": "The cheering ceased.",
-      "ko": "The cheering ceased.",
-      "zh_HK": "The cheering ceased.",
-      "fr": "The cheering ceased."
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>明<rt>あか</rt></ruby>るく<ruby>優<rt>やさ</rt></ruby>しい<ruby>声<rt>こえ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと、<ruby>授業<rt>じゅぎょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>して<ruby>安心<rt>あんしん</rt></ruby>できます。",
+      "en": "Hearing the teacher's bright and gentle voice makes me feel secure and helps me focus on the lesson.",
+      "zh_TW": "聽見老師開朗溫柔的聲音，就讓人感到安心並能專注上課。",
+      "zh_CN": "听见老师开朗温柔的声音，就让人感到安心并能专注听课。",
+      "ko": "선생님의 밝고 다정한 목소리를 들으면 수업에 안심하고 집중할 수 있습니다.",
+      "zh_HK": "聽見老師好開朗溫柔嘅說話聲，個人就會安心集中精神聽書。",
+      "fr": "Entendre la voix claire et douce de l'enseignant me rassure et m'aide à bien me concentrer sur le cours."
     },
     "related": "こえ（授業の重要表現）"
   },
@@ -2007,13 +2007,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cuisiner / préparer à manger"
     },
     "example": {
-      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>にはよく<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしますか？<br/>B: はい、<ruby>得意<rt>とくい</rt></ruby>なパスタやカレーを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。",
-      "en": "A: Do you often cook at home on the weekends?<br/>B: Yes, I like to cook pasta and curry.",
-      "zh_TW": "A：週末你常在家煮飯嗎？<br/>B：是的，我喜歡煮義大利麵和咖哩。",
-      "zh_CN": "A：周末你经常在家做饭吗？<br/>B：是的，我喜欢煮意大利面和咖喱。",
-      "ko": "A: 주말에는 잘 집에서 요리를 합니까?<br/>B : 네, 좋은 파스타와 카레를 요리하는 것을 좋아합니다.",
-      "zh_HK": "A：週末你常在家煮飯嗎？<br/>B：是的，我喜歡煮義大利麵和咖哩。",
-      "fr": "A : Cuisinez-vous souvent à la maison le week-end ?<br/>B : Oui, j'aime cuisiner des pâtes et du curry."
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>でパスタやスープなど、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなメニューを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>楽<rt>たの</rt></ruby>しみです。",
+      "en": "On weekends I enjoy cooking my favorite dishes at home, such as pasta and soup.",
+      "zh_TW": "週末在家煮義大利麵或濃湯等自己喜愛的菜餚，是我的一大樂趣。",
+      "zh_CN": "周末在家煮意大利面或浓汤等自己喜爱的菜肴，是我的一大乐趣。",
+      "ko": "주말에는 집에서 파스타나 수프 등 좋아하는 메뉴를 직접 요리하는 것이 즐거움입니다.",
+      "zh_HK": "逢禮拜六日，我最鍾意喺屋企煮意粉同滾湯等拿手家常菜。",
+      "fr": "Le week-end, j'aime cuisiner mes plats préférés à la maison, comme des pâtes ou des soupes."
     },
     "related": "りょうりをする（授業の重要表現）"
   },
@@ -2127,13 +2127,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "arriver / atteindre"
     },
     "example": {
-      "ja": "いつ<ruby>着<rt>つ</rt></ruby>くの？",
-      "en": "When do we arrive?",
-      "zh_TW": "When do we arrive?",
-      "zh_CN": "When do we arrive?",
-      "ko": "When do we arrive?",
-      "zh_HK": "When do we arrive?",
-      "fr": "When do we arrive?"
+      "ja": "飛行機が無事に空港へ<ruby>着<rt>つ</rt></ruby>いたら、すぐに家族にメッセージを送ります。",
+      "en": "Once the airplane arrives safely at the airport, I will send a message to my family right away.",
+      "zh_TW": "飛機平安抵達機場後，我會立刻發訊息給家人報平安。",
+      "zh_CN": "飞机平安抵达机场后，我会立刻发信息给家人报平安。",
+      "ko": "비행기가 무사히 공항에 도착하면 바로 가족에게 메시지를 보낼게요.",
+      "zh_HK": "飛機安全去到機場之後，我會即刻WhatsApp屋企人報平安。",
+      "fr": "Dès que l’avion sera arrivé sain et sauf à l’aéroport, j’enverrai un message à ma famille."
     },
     "related": "つく（授業の重要表現）"
   },
@@ -2199,13 +2199,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "médecine"
     },
     "example": {
-      "ja": "<ruby>薬<rt>くすり</rt></ruby>が<ruby>効<rt>き</rt></ruby>いた。",
-      "en": "The medicine has worked.",
-      "zh_TW": "The medicine has worked.",
-      "zh_CN": "The medicine has worked.",
-      "ko": "The medicine has worked.",
-      "zh_HK": "The medicine has worked.",
-      "fr": "The medicine has worked."
+      "ja": "お医者さんにもらった風邪<ruby>薬<rt>くすり</rt></ruby>を飲んだら、熱が下がって楽になりました。",
+      "en": "After taking the cold medicine given by the doctor, my fever went down and I felt much better.",
+      "zh_TW": "吃了醫生開的感冒藥之後，燒退了，感覺輕鬆多了。",
+      "zh_CN": "吃了医生开的感冒药之后，烧退了，感觉舒服多了。",
+      "ko": "의사 선생님이 처방해 준 감기약을 먹었더니 열이 내리고 한결 편해졌습니다.",
+      "zh_HK": "食咗醫生開嘅感冒藥之後退咗燒，舒服咗好多。",
+      "fr": "Après avoir pris le médicament prescrit par le médecin, ma fièvre est tombée et je me suis senti soulagé."
     },
     "related": "くすり（授業の重要表現）"
   },
@@ -2247,13 +2247,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "exercice / entraînement"
     },
     "example": {
-      "ja": "<ruby>運動<rt>うんどう</rt></ruby>します。",
-      "en": "I work out.",
-      "zh_TW": "I work out.",
-      "zh_CN": "I work out.",
-      "ko": "I work out.",
-      "zh_HK": "I work out.",
-      "fr": "I work out."
+      "ja": "健康のために、毎朝近所の公園で軽いランニングなどの<ruby>運動<rt>うんどう</rt></ruby>をしています。",
+      "en": "For my health, I exercise by doing light jogging in the neighborhood park every morning.",
+      "zh_TW": "為了健康，我每天早晨都會在附近的公園慢跑做運動。",
+      "zh_CN": "为了健康，我每天早晨都会在附近的公园慢跑做运动。",
+      "ko": "건강을 위해서 매일 아침 동네 공원에서 가벼운 러닝 등 운동을 하고 있습니다.",
+      "zh_HK": "為咗健康，我每日朝早都會喺附近嘅公園慢跑做下運動。",
+      "fr": "Pour ma santé, je fais du sport chaque matin en courant légèrement dans le parc du quartier."
     },
     "related": "うんどう（授業の重要表現）"
   },
@@ -2271,13 +2271,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "visite / visite"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。",
-      "en": "We saw the sights of the city this afternoon.",
-      "zh_TW": "We saw the sights of the city this afternoon.",
-      "zh_CN": "We saw the sights of the city this afternoon.",
-      "ko": "We saw the sights of the city this afternoon.",
-      "zh_HK": "We saw the sights of the city this afternoon.",
-      "fr": "We saw the sights of the city this afternoon."
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>で、<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>工房<rt>こうぼう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。",
+      "en": "Tomorrow, we plan to visit a traditional craft workshop on a school trip.",
+      "zh_TW": "明天是學校活動，我們預計去參觀製作傳統工藝品的工坊。",
+      "zh_CN": "明天是学校活动，我们预计去参观制作传统工艺品的工坊。",
+      "ko": "내일은 학교 행사로 전통 공예를 만드는 공방을 견학할 예정입니다.",
+      "zh_HK": "聽日學校有活動，我哋會去參觀整傳統手工藝嘅工作坊。",
+      "fr": "Demain, nous prévoyons de visiter un atelier d'artisanat traditionnel dans le cadre scolaire."
     },
     "related": "けんがく（授業の重要表現）"
   },
@@ -2343,13 +2343,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "carie / carie dentaire"
     },
     "example": {
-      "ja": "<ruby>虫歯<rt>むしば</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>しろ。",
-      "en": "Treat a decayed tooth.",
-      "zh_TW": "Treat a decayed tooth.",
-      "zh_CN": "Treat a decayed tooth.",
-      "ko": "Treat a decayed tooth.",
-      "zh_HK": "Treat a decayed tooth.",
-      "fr": "Treat a decayed tooth."
+      "ja": "<ruby>毎食<rt>まいしょく</rt></ruby><ruby>後<rt>ご</rt></ruby>にしっかり<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>くことで、<ruby>虫歯<rt>むしば</rt></ruby>や<ruby>歯周病<rt>ししゅうびょう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>することができます。",
+      "en": "By brushing thoroughly after every meal, you can prevent cavities and periodontal disease.",
+      "zh_TW": "每餐飯後仔細刷牙，就能有效預防蛀牙與牙周病。",
+      "zh_CN": "每餐饭后仔细刷牙，就能有效预防蛀牙与牙周病。",
+      "ko": "식후마다 양치질을 꼼꼼히 하면 충치와 잇몸병을 충분히 예방할 수 있습니다.",
+      "zh_HK": "每次食完嘢都認真刷乾淨牙，就可以好有效噉預防蛀牙同牙周病。",
+      "fr": "En se brossant soigneusement les dents après chaque repas, on peut prévenir les caries et les maladies gingivales."
     },
     "related": "むしば（授業の重要表現）"
   },
@@ -2439,13 +2439,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "moustique"
     },
     "example": {
-      "ja": "<ruby>蚊<rt>か</rt></ruby>が<ruby>刺<rt>さ</rt></ruby>した。",
-      "en": "A mosquito just bit me.",
-      "zh_TW": "A mosquito just bit me.",
-      "zh_CN": "A mosquito just bit me.",
-      "ko": "A mosquito just bit me.",
-      "zh_HK": "A mosquito just bit me.",
-      "fr": "A mosquito just bit me."
+      "ja": "夏に公園を散歩していたら、腕を<ruby>蚊<rt>か</rt></ruby>に刺されて痒くなってしまいました。",
+      "en": "While taking a walk in the park in summer, I was bitten by a mosquito on my arm and it became itchy.",
+      "zh_TW": "夏天在公園散步時，手臂被蚊子叮咬變得好癢。",
+      "zh_CN": "夏天在公园散步时，手臂被蚊子叮咬变得好痒。",
+      "ko": "여름에 공원을 산책하다가 팔을 모기에 물려 가려워졌습니다.",
+      "zh_HK": "夏天喺公園散步嗰陣，隻手畀蚊咬到好痕。",
+      "fr": "En me promenant dans le parc en été, je me suis fait piquer par un moustique au bras et ça me démange."
     },
     "related": "か（授業の重要表現）"
   },
@@ -2488,13 +2488,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "habituellement / normalement / régulièrement"
     },
     "example": {
-      "ja": "<ruby>普段<rt>ふだん</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>きなんだ。",
-      "en": "I usually walk.",
-      "zh_TW": "I usually walk.",
-      "zh_CN": "I usually walk.",
-      "ko": "I usually walk.",
-      "zh_HK": "I usually walk.",
-      "fr": "I usually walk."
+      "ja": "<ruby>普段<rt>ふだん</rt></ruby>は<ruby>自炊<rt>じすい</rt></ruby>をしていますが、<ruby>金曜日<rt>きんようび</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>だけは<ruby>好<rt>す</rt></ruby>きなものを<ruby>外食<rt>がいしょく</rt></ruby>します。",
+      "en": "Normally I cook for myself, but on Friday nights alone I eat out whatever I like.",
+      "zh_TW": "平時我都自己開伙煮飯，只有在週五晚上會去外面餐廳吃喜歡的大餐。",
+      "zh_CN": "平时我都自己做饭，只有在周五晚上会去外面餐厅吃喜欢的大餐。",
+      "ko": "평소에는 주로 집밥을 해 먹지만, 금요일 저녁만큼은 좋아하는 외식을 즐깁니다.",
+      "zh_HK": "平時我通常都自己煮飯，淨係喺禮拜五晚先會出去食自己鍾意食嘅嘢獎勵下自己。",
+      "fr": "D'habitude je cuisine chez moi, mais le vendredi soir je m'accorde une sortie au restaurant pour manger ce qui me fait plaisir."
     },
     "related": "ふだん（授業の重要表現）"
   },
@@ -2512,13 +2512,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "plan/projet"
     },
     "example": {
-      "ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。",
-      "en": "Our plan is made.",
-      "zh_TW": "Our plan is made.",
-      "zh_CN": "Our plan is made.",
-      "ko": "Our plan is made.",
-      "zh_HK": "Our plan is made.",
-      "fr": "Our plan is made."
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>のゴールデンウィークは、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>温泉<rt>おんせん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てています。",
+      "en": "For this year's Golden Week, we are planning a hot-spring vacation with the family.",
+      "zh_TW": "今年的日本黃金週，我們全家計畫去溫泉旅行。",
+      "zh_CN": "今年的日本黄金周，我们全家计划去温泉旅行。",
+      "ko": "올해 골든위크에는 온 가족이 함께 온천 여행을 갈 계획을 세우고 있습니다.",
+      "zh_HK": "今年黃金週長假期，我哋一家人計劃去浸溫泉旅行。",
+      "fr": "Pour la Golden Week de cette année, nous prévoyons de partir en voyage aux thermes en famille."
     },
     "related": "けいかく（授業の重要表現）"
   },
@@ -2536,13 +2536,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "calendrier / plan / arrangement"
     },
     "example": {
-      "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>は？",
-      "en": "What's next on the schedule?",
-      "zh_TW": "What's next on the schedule?",
-      "zh_CN": "What's next on the schedule?",
-      "ko": "What's next on the schedule?",
-      "zh_HK": "What's next on the schedule?",
-      "fr": "What's next on the schedule?"
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して、カレンダーに<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>予定<rt>よてい</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>込<rt>こ</rt></ruby>みました。",
+      "en": "I checked next week's schedule and wrote down important appointments on the calendar.",
+      "zh_TW": "我確認了下星期的行程安排，並在行事曆上記下了重要的預定事項。",
+      "zh_CN": "我确认了下星期的行程安排，并在日历上记下了重要的预定事项。",
+      "ko": "다음 주 일정을 확인하고 달력에 중요한 약속과 계획을 적어 두었습니다.",
+      "zh_HK": "我check過下個禮拜嘅行程，將緊要嘅預約同計劃寫好喺個行事曆度。",
+      "fr": "J'ai vérifié mon emploi du temps pour la semaine prochaine et noté mes rendez-vous importants sur le calendrier."
     },
     "related": "よてい（授業の重要表現）"
   },
@@ -2608,13 +2608,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour de la semaine"
     },
     "example": {
-      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。",
-      "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_TW": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_CN": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "ko": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_HK": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "fr": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday."
+      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>7<ruby>時<rt>じ</rt></ruby>までオフィスで<ruby>仕事<rt>しごと</rt></ruby>をしています。",
+      "en": "On weekdays, I work at the office from 8 AM to 7 PM.",
+      "zh_TW": "平日我從早上8點到晚上7點都在辦公室上班。",
+      "zh_CN": "平时我从早上8点到晚上7点都在办公室上班。",
+      "ko": "평일에는 아침 8시부터 저녁 7시까지 사무실에서 일합니다.",
+      "zh_HK": "平日我由朝早8點到夜晚7點都會喺辦公室返工。",
+      "fr": "En semaine, je travaille au bureau de 8h à 19h."
     },
     "related": "へいじつ（授業の重要表現）"
   },
@@ -2632,13 +2632,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "au fait / changeant de sujet"
     },
     "example": {
-      "ja": "<ruby>登校<rt>とうこう</rt></ruby>するところです。",
-      "en": "I am going to school.",
-      "zh_TW": "I am going to school.",
-      "zh_CN": "I am going to school.",
-      "ko": "I am going to school.",
-      "zh_HK": "I am going to school.",
-      "fr": "I am going to school."
+      "ja": "「ところで、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>受<rt>う</rt></ruby>けた<ruby>面接<rt>めんせつ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>はどうでしたか？」「<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました！」",
+      "en": "'By the way, how was the outcome of the job interview you took last week?' 'I passed successfully!'",
+      "zh_TW": "「話說回來，你上週去面試的結果如何呢？」「我順利被錄取了！」",
+      "zh_CN": "“话说回来，你上周去面试的结果如何呢？”“我顺利被录取了！”",
+      "ko": "'그건 그렇고, 지난주에 본 면접 결과는 어떻게 되었나요?' '무사히 합격했습니다!'",
+      "zh_HK": "「講開又講，你上個禮拜見嗰份工面試結果點呀？」「好順利pass咗錄取咗喇！」",
+      "fr": "'Au fait, quel a été le résultat de ton entretien d'embauche de la semaine dernière ?' 'J'ai été reçu avec succès !'"
     },
     "related": "ところで（授業の重要表現）"
   },
@@ -2656,13 +2656,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "petit à petit / progressivement"
     },
     "example": {
-      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>がなかなか<ruby>覚<rt>おぼ</rt></ruby>えられなくて<ruby>焦<rt>あせ</rt></ruby>っています。<br/>B: <ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。",
-      "en": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_TW": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_CN": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "ko": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "zh_HK": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day.",
-      "fr": "A: I'm getting impatient because I can't memorize Japanese words easily.<br/>B: No need to rush. Let's learn them little by little every day."
+      "ja": "<ruby>焦<rt>あせ</rt></ruby>らなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>少<rt>すこ</rt></ruby>しずつ・ちょっとずつ<ruby>前進<rt>ぜんしん</rt></ruby>していきましょう。",
+      "en": "Don't worry, there's no need to rush. Let's move forward little by little at your own pace.",
+      "zh_TW": "不用著急沒關係的。照著自己的步調一點一點向前邁進吧。",
+      "zh_CN": "不用着急没关系的。照着自己的步调一点一点向前迈进吧。",
+      "ko": "조급해하지 않아도 괜찮아요. 자신만의 페이스로 조금씩 조금씩 나아가 봅시다.",
+      "zh_HK": "唔使心急㗎，照返自己嘅節奏慢慢一步一步向前行就得㗎喇。",
+      "fr": "Ne vous inquiétez pas, rien ne presse. Avançons petit à petit, à votre propre rythme."
     },
     "related": "すこしずつ（授業の重要表現）"
   },
@@ -2680,13 +2680,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "journal / journal"
     },
     "example": {
-      "ja": "<ruby>日記<rt>にっき</rt></ruby>をつける。",
-      "en": "I keep a diary.",
-      "zh_TW": "I keep a diary.",
-      "zh_CN": "I keep a diary.",
-      "ko": "I keep a diary.",
-      "zh_HK": "I keep a diary.",
-      "fr": "I keep a diary."
+      "ja": "日本語の学習記録として、毎日寝る前に短い<ruby>日記<rt>にっき</rt></ruby>を書いています。",
+      "en": "As a Japanese study log, I write a short diary entry every day before going to bed.",
+      "zh_TW": "作為學習日語的紀錄，我每天睡前都會寫簡短的日記。",
+      "zh_CN": "作为学习日语的记录，我每天睡前都会写简短的日记。",
+      "ko": "일본어 학습 기록으로 매일 자기 전에 짧은 일기를 쓰고 있습니다.",
+      "zh_HK": "作為學日文嘅紀錄，我每日瞓覺前都會寫少少日記。",
+      "fr": "Pour suivre mon apprentissage du japonais, j’écris un court journal intime chaque soir avant de dormir."
     },
     "related": "にっき（授業の重要表現）"
   },
@@ -2704,13 +2704,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "à emporter / à emporter"
     },
     "example": {
-      "ja": "A: ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？<br/>B: いいえ、<ruby>持ち帰<rt>もちかえ</rt></ruby>りでお<ruby>願<rt>ねが</rt></ruby>いします。",
-      "en": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_TW": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_CN": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "ko": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_HK": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "fr": "A: Will you be dining in?<br/>B: No, takeout please."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れて<ruby>料理<rt>りょうり</rt></ruby>をする<ruby>元気<rt>げんき</rt></ruby>がないので、お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りにして<ruby>家<rt>いえ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "I'm too tired to cook today, so I'll buy takeout bento and eat it at home.",
+      "zh_TW": "今天太累沒力氣煮飯，所以外帶了便當回家吃。",
+      "zh_CN": "今天太累没力气做饭，所以外带了便当回家吃。",
+      "ko": "오늘은 너무 피곤해서 요리할 힘이 없어, 도시락을 포장해 집에서 먹으려고 합니다.",
+      "zh_HK": "今日攰到冇力煮飯，所以買咗外賣便當返屋企食。",
+      "fr": "Je suis trop fatigué pour cuisiner ce soir, je vais donc prendre un bento à emporter et le manger chez moi."
     },
     "related": "もちかえり（授業の重要表現）"
   },
@@ -2728,13 +2728,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mariage / mariage"
     },
     "example": {
-      "ja": "<ruby>結婚<rt>けっこん</rt></ruby>しよう。",
-      "en": "Let's get married.",
-      "zh_TW": "Let's get married.",
-      "zh_CN": "Let's get married.",
-      "ko": "Let's get married.",
-      "zh_HK": "Let's get married.",
-      "fr": "Let's get married."
+      "ja": "二人は長い交際を経て、今年の秋に<ruby>結婚<rt>けっこん</rt></ruby>式を挙げることになりました。",
+      "en": "After dating for a long time, the two decided to hold their wedding ceremony this autumn.",
+      "zh_TW": "兩個人經過長期的交往，決定在今年秋天舉行婚禮。",
+      "zh_CN": "两个人经过长期的交往，决定在今年秋天举行婚礼。",
+      "ko": "두 사람은 오랜 교제 끝에 올가을에 결혼식을 올리기로 했습니다.",
+      "zh_HK": "佢哋拍拖好多年之後，決定喺今年秋天擺酒結婚。",
+      "fr": "Après de longues années ensemble, ils ont décidé de célébrer leur mariage cet automne."
     },
     "related": "けっこん（授業の重要表現）"
   },
@@ -2776,13 +2776,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "loyer (mensuel)"
     },
     "example": {
-      "ja": "<ruby>家賃<rt>やちん</rt></ruby>は<ruby>払<rt>はら</rt></ruby>った？",
-      "en": "Have you paid the rent?",
-      "zh_TW": "Have you paid the rent?",
-      "zh_CN": "Have you paid the rent?",
-      "ko": "Have you paid the rent?",
-      "zh_HK": "Have you paid the rent?",
-      "fr": "Have you paid the rent?"
+      "ja": "<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>末日<rt>まつじつ</rt></ruby>までに、<ruby>指定<rt>してい</rt></ruby>された<ruby>口座<rt>こうざ</rt></ruby>へ<ruby>翌月<rt>よくげつ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>家賃<rt>やちん</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みます。",
+      "en": "By the end of every month, I transfer the next month's rent into the designated bank account.",
+      "zh_TW": "每個月底之前，我都會將次月份的房租轉帳匯入指定的銀行帳戶。",
+      "zh_CN": "每个月底之前，我都会将次月份的房租转账汇入指定的银行账户。",
+      "ko": "매월 말일까지 지정된 계좌로 다음 달 분의 월세를 입금합니다.",
+      "zh_HK": "每個月嘅月尾之前，我都要將下個月嘅租金轉帳入指定銀行戶口。",
+      "fr": "Avant la fin de chaque mois, je vire le loyer du mois suivant sur le compte bancaire désigné."
     },
     "related": "やちん（授業の重要表現）"
   },
@@ -2800,13 +2800,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pour l'instant / jusqu'à présent / pour l'instant"
     },
     "example": {
-      "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>はありますか？<br/>B: <ruby>今<rt>いま</rt></ruby>のところ<ruby>晴<rt>は</rt></ruby>れの<ruby>予報<rt>よほう</rt></ruby>だから、<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りピクニックに<ruby>行<rt>い</rt></ruby>けそうだね。",
-      "en": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_TW": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_CN": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "ko": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_HK": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "fr": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned."
+      "ja": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ましたが、<ruby>今<rt>いま</rt></ruby>のところ<ruby>週末<rt>しゅうまつ</rt></ruby>のピクニックは<ruby>晴<rt>は</rt></ruby>れそうです。",
+      "en": "I checked the weather forecast and so far it looks like it will be sunny for our weekend picnic.",
+      "zh_TW": "我看了天氣預報，目前看來週末的野餐應該會是晴天。",
+      "zh_CN": "我看了天气预报，目前看来周末的野餐应该会是晴天。",
+      "ko": "일기예보를 확인했는데, 현재로서는 주말 피크닉 날씨가 맑을 것 같습니다.",
+      "zh_HK": "睇過天氣預報，目前嚟睇今個禮拜六日嘅野餐應該會係好天。",
+      "fr": "J'ai regardé la météo et pour l'instant il semble qu'il fera beau pour le pique-nique ce week-end."
     },
     "related": "いまのところ（授業の重要表現）"
   },
@@ -2824,13 +2824,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "douleurs musculaires / DOMS"
     },
     "example": {
-      "ja": "A: <ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しぎこちないけど、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？<br/>B: <ruby>昨日<rt>きのう</rt></ruby>ジムで<ruby>筋<rt>きん</rt></ruby>トレを<ruby>頑張<rt>がんば</rt></ruby>りすぎて、<ruby>足<rt>あし</rt></ruby>がひどい<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>なんだ。",
-      "en": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_TW": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_CN": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "ko": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_HK": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "fr": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness."
+      "ja": "<ruby>久<rt>ひさ</rt></ruby>しぶりに10キロのジョギングをしたら、<ruby>翌日<rt>よくじつ</rt></ruby>足がひどい<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>になりました。",
+      "en": "After jogging 10 kilometers for the first time in a while, my legs were painfully sore the next day.",
+      "zh_TW": "久違地慢跑了10公里，隔天雙腿劇烈肌肉痠痛。",
+      "zh_CN": "久违地慢跑了10公里，隔天双腿剧烈肌肉酸痛。",
+      "ko": "오랜만에 10km 조깅을 했더니 다음 날 다리에 심한 근육통이 왔습니다.",
+      "zh_HK": "好耐冇跑過步，琴日跑咗10公里之後，今日對腳肌肉好痛。",
+      "fr": "Après avoir couru 10 kilomètres pour la première fois depuis longtemps, j'ai eu d'atroces courbatures aux jambes le lendemain."
     },
     "related": "きんにくつう（授業の重要表現）"
   },
@@ -2872,13 +2872,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "se dépêcher / se précipiter"
     },
     "example": {
-      "ja": "<ruby>急<rt>いそ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>はないよ。",
-      "en": "You don't have to hurry.",
-      "zh_TW": "You don't have to hurry.",
-      "zh_CN": "You don't have to hurry.",
-      "ko": "You don't have to hurry.",
-      "zh_HK": "You don't have to hurry.",
-      "fr": "You don't have to hurry."
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>発車<rt>はっしゃ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>まであと5<ruby>分<rt>ふん</rt></ruby>しかないので、<ruby>急<rt>いそ</rt></ruby>いで<ruby>駅<rt>えき</rt></ruby>へ<ruby>走<rt>はし</rt></ruby>りました。",
+      "en": "With only 5 minutes left until train departure, I hurriedly dashed to the station.",
+      "zh_TW": "距離電車發車只剩下5分鐘，我心急如焚地一路狂奔衝向車站。",
+      "zh_CN": "距离电车发车只剩下5分钟，我心急如焚地一路狂奔冲向车站。",
+      "ko": "열차 출발 시각까지 5분밖에 남지 않아서 서둘러 역으로 뛰어갔습니다.",
+      "zh_HK": "架火車仲有5分鐘就開走，我要拿拿臨加快腳步衝去火車站。",
+      "fr": "Comme il ne restait que 5 minutes avant le départ du train, j'ai couru à la gare en toute hâte."
     },
     "related": "いそぐ（授業の重要表現）"
   },
@@ -2920,13 +2920,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "court"
     },
     "example": {
-      "ja": "<ruby>人生<rt>じんせい</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>い。",
-      "en": "Life is short.",
-      "zh_TW": "Life is short.",
-      "zh_CN": "Life is short.",
-      "ko": "Life is short.",
-      "zh_HK": "Life is short.",
-      "fr": "Life is short."
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>日<rt>ひ</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れるのがとても<ruby>早<rt>はや</rt></ruby>く、<ruby>昼間<rt>ひるま</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられます。",
+      "en": "In winter the sun sets very early, making daytime hours feel remarkably short.",
+      "zh_TW": "冬天太陽下山得非常早，讓人覺得白天的時光格外短暫。",
+      "zh_CN": "冬天太阳下山得非常早，让人觉得白天的时光格外短暂。",
+      "ko": "겨울에는 해가 일찍 져서 낮 시간이 무척 짧게 느껴집니다.",
+      "zh_HK": "冬天好早天黑，硬係覺得朝早日照時間過得特別快、特別短。",
+      "fr": "En hiver, le soleil se couche très tôt et la journée semble particulièrement courte."
     },
     "related": "みじかい（授業の重要表現）"
   },
@@ -2944,13 +2944,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "longtemps"
     },
     "example": {
-      "ja": "<ruby>人生<rt>じんせい</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い。",
-      "en": "Life is good.",
-      "zh_TW": "Life is good.",
-      "zh_CN": "Life is good.",
-      "ko": "Life is good.",
-      "zh_HK": "Life is good.",
-      "fr": "Life is good."
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>期間<rt>きかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いので、<ruby>普段<rt>ふだん</rt></ruby>なかなかできない<ruby>長編<rt>ちょうへん</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>をじっくり<ruby>読<rt>よ</rt></ruby>みました。",
+      "en": "Summer vacation is a long break, so I took the time to read long novels I usually can't get to.",
+      "zh_TW": "暑假假期時間很長，所以我好好利用時間，把平時沒空讀的長篇小說一口氣看完了。",
+      "zh_CN": "暑假假期时间很长，所以我好好利用时间，把平时没空读的长篇小说一口气看完了。",
+      "ko": "여름방학은 기간이 길어서 평소 읽기 힘들었던 장편 소설을 여유롭게 읽었습니다.",
+      "zh_HK": "暑假放咁長嘅假期，我終於有時間睇晒平時好想睇嘅長篇小說。",
+      "fr": "Les vacances d'été étant assez longues, j'ai pris le temps de lire des romans volumineux que je n'ai pas le temps d'ouvrir d'habitude."
     },
     "related": "ながい（授業の重要表現）"
   },
@@ -2992,13 +2992,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "essayer / tenter / tester"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby>試<rt>ため</rt></ruby>す。",
-      "en": "He tries.",
-      "zh_TW": "He tries.",
-      "zh_CN": "He tries.",
-      "ko": "He tries.",
-      "zh_HK": "He tries.",
-      "fr": "He tries."
+      "ja": "新しいレシピをネットで見つけたので、今日の夕飯に実際に作って<ruby>試<rt>ため</rt></ruby>してみます。",
+      "en": "I found a new recipe online, so I will try making it for dinner tonight.",
+      "zh_TW": "在網路上找到了新食譜，今天晚餐打算實際做做看來試試味道。",
+      "zh_CN": "在网上找到了新食谱，今天晚餐打算实际做做看尝试一下。",
+      "ko": "인터넷에서 새로운 레시피를 찾아서 오늘 저녁으로 직접 시험 삼아 만들어 보려고 합니다.",
+      "zh_HK": "上網搵到個新食譜，今晚諗住跟住煮試下味。",
+      "fr": "J’ai trouvé une nouvelle recette sur internet, je vais essayer de la cuisiner pour le dîner de ce soir."
     },
     "related": "ためす（授業の重要表現）"
   },
@@ -3040,13 +3040,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "marcher / flâner"
     },
     "example": {
-      "ja": "<ruby>散歩<rt>さんぽ</rt></ruby>をした。",
-      "en": "I took a walk.",
-      "zh_TW": "I took a walk.",
-      "zh_CN": "I took a walk.",
-      "ko": "I took a walk.",
-      "zh_HK": "I took a walk.",
-      "fr": "I took a walk."
+      "ja": "休日の夕方に、愛犬と一緒に川沿いの道をのんびり<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
+      "en": "On a holiday evening, I took a leisurely walk along the river path with my dog.",
+      "zh_TW": "放假的傍晚，我和愛犬一起在河畔步道悠閒地散步。",
+      "zh_CN": "放假的傍晚，我和爱犬一起在河畔步道悠闲地散步。",
+      "ko": "휴일 저녁에 반려견과 함께 강변길을 여유롭게 산책했습니다.",
+      "zh_HK": "放假下晝同隻狗一齊喺河邊好悠閒咁散步。",
+      "fr": "Le soir pendant mon jour de congé, je me suis promené tranquillement le long de la rivière avec mon chien."
     },
     "related": "さんぽ（授業の重要表現）"
   },
@@ -3136,13 +3136,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "route; façon; chemin"
     },
     "example": {
-      "ja": "<ruby>旅<rt>たび</rt></ruby>は<ruby>道連<rt>みちづ</rt></ruby>れ。",
-      "en": "Good company on the road is the shortest cut.",
-      "zh_TW": "Good company on the road is the shortest cut.",
-      "zh_CN": "Good company on the road is the shortest cut.",
-      "ko": "Good company on the road is the shortest cut.",
-      "zh_HK": "Good company on the road is the shortest cut.",
-      "fr": "Good company on the road is the shortest cut."
+      "ja": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>来<rt>き</rt></ruby>た<ruby>街<rt>まち</rt></ruby>で<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ってしまったので、<ruby>交番<rt>こうばん</rt></ruby>で<ruby>親切<rt>しんせつ</rt></ruby>なお<ruby>巡<rt>まわ</rt></ruby>りさんに<ruby>道<rt>みち</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねました。",
+      "en": "I got lost in an unfamiliar town, so I asked a friendly police officer at the box for directions.",
+      "zh_TW": "在初次到訪的城鎮迷了路，所以我到派出所向親切的警員詢問了方向路線。",
+      "zh_CN": "在初次到访的城镇迷了路，所以我到派出所向亲切的警员询问了方向路线。",
+      "ko": "처음 온 동네에서 길을 잃어 파출소에서 친절한 경찰관에게 길을 물어보았습니다.",
+      "zh_HK": "喺個新地方蕩失路唔識行，於是我走去報案室搵個好心嘅警察問路。",
+      "fr": "Comme j'étais perdu dans cette ville inconnue, j'ai demandé mon chemin au poste de police à un agent très serviable."
     },
     "related": "道（授業の重要表現）"
   },
@@ -3184,13 +3184,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mordre; mâcher"
     },
     "example": {
-      "ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。",
-      "en": "A cornered rat will bite a cat.",
-      "zh_TW": "A cornered rat will bite a cat.",
-      "zh_CN": "A cornered rat will bite a cat.",
-      "ko": "A cornered rat will bite a cat.",
-      "zh_HK": "A cornered rat will bite a cat.",
-      "fr": "A cornered rat will bite a cat."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>な<ruby>消化<rt>しょうか</rt></ruby>のために、<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はよく<ruby>噛<rt>か</rt></ruby>んでゆっくり<ruby>食<rt>た</rt></ruby>べるようにしています。",
+      "en": "For healthy digestion, I try to chew thoroughly and eat slowly during meals.",
+      "zh_TW": "為了健康消化，用餐時我總是細嚼慢嚥。",
+      "zh_CN": "为了健康消化，用餐时我总是细嚼慢咽。",
+      "ko": "건강한 소화를 위해 식사할 때는 꼭꼭 씹어 천천히 먹으려 노력합니다.",
+      "zh_HK": "為咗消化得好啲，我食飯嗰陣都會嚼爛啲、慢慢食。",
+      "fr": "Pour une bonne digestion, je prends le temps de bien mâcher mes aliments et de manger lentement."
     },
     "related": "噛む（授業の重要表現）"
   },
@@ -3232,13 +3232,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "note parfaite"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>った。",
-      "en": "He got full marks.",
-      "zh_TW": "He got full marks.",
-      "zh_CN": "He got full marks.",
-      "ko": "He got full marks.",
-      "zh_HK": "He got full marks.",
-      "fr": "He got full marks."
+      "ja": "<ruby>何週間<rt>なんしゅうかん</rt></ruby>も<ruby>復習<rt>ふくしゅう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねたおかげで、<ruby>漢字<rt>かんじ</rt></ruby>テストで<ruby>見事<rt>みごと</rt></ruby>に<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れました。",
+      "en": "Thanks to weeks of repeated reviews, I achieved a perfect score on the kanji test.",
+      "zh_TW": "多虧連續好幾個星期的反覆複習，我在漢字測驗中漂亮地拿下了滿分。",
+      "zh_CN": "多亏连续好几个星期的反复复习，我在汉字测验中漂亮地拿下了满分。",
+      "ko": "몇 주 동안 꾸준히 복습한 덕분에 한자 시험에서 훌륭하게 만점을 받았습니다.",
+      "zh_HK": "溫習咗成幾個禮拜咁耐，終於喺漢字默書測驗攞到滿分100分好成績。",
+      "fr": "Grâce à des semaines de révisions assidues, j'ai obtenu la note maximale au contrôle de kanji."
     },
     "related": "まんてん（授業の重要表現）"
   },
@@ -3304,13 +3304,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bonbons; bonbons"
     },
     "example": {
-      "ja": "<ruby>飴<rt>あめ</rt></ruby>がほしい。",
-      "en": "I want a piece of candy.",
-      "zh_TW": "I want a piece of candy.",
-      "zh_CN": "I want a piece of candy.",
-      "ko": "I want a piece of candy.",
-      "zh_HK": "I want a piece of candy.",
-      "fr": "I want a piece of candy."
+      "ja": "喉が乾燥して少し痛いので、カバンから喉<ruby>飴<rt>あめ</rt></ruby>を取り出してなめました。",
+      "en": "My throat felt dry and a bit sore, so I took a cough drop from my bag and sucked on it.",
+      "zh_TW": "喉嚨有點乾燥發痛，我從包包裡拿了顆潤喉糖來吃。",
+      "zh_CN": "喉咙有点干燥发痛，我从包包里拿了颗润喉糖来吃。",
+      "ko": "목이 건조하고 따끔거려서 가방에서 목캔디를 꺼내 먹었습니다.",
+      "zh_HK": "喉嚨好乾有啲痛，喺袋度攞粒潤喉糖出嚟含。",
+      "fr": "Comme ma gorge était sèche et douloureuse, j’ai sorti un bonbon pour la gorge de mon sac."
     },
     "related": "あめ（授業の重要表現）"
   },
@@ -3328,13 +3328,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ça se passe bien; en bonne voie"
     },
     "example": {
-      "ja": "<ruby>万事<rt>ばんじ</rt></ruby><ruby>順調<rt>じゅんちょう</rt></ruby>だ。",
-      "en": "Everything is all right.",
-      "zh_TW": "Everything is all right.",
-      "zh_CN": "Everything is all right.",
-      "ko": "Everything is all right.",
-      "zh_HK": "Everything is all right.",
-      "fr": "Everything is all right."
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいオフィスの<ruby>準備<rt>じゅんび</rt></ruby>はすべて<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>んでおり、<ruby>来週<rt>らいしゅう</rt></ruby>には<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しできます。",
+      "en": "Preparations for the new office are all going smoothly, and we can move in next week.",
+      "zh_TW": "新辦公室的籌備一切進展順利，預計下週就能順利搬遷入駐。",
+      "zh_CN": "新办公室的筹备一切进展顺利，预计下周就能顺利搬迁入驻。",
+      "ko": "새 사무실 입주 준비가 순조롭게 진행되고 있어 다음 주에 이사할 수 있을 것 같습니다.",
+      "zh_HK": "新辦公室嘅籌備工作進行得好順利，下個禮拜就可以正式搬入去。",
+      "fr": "Les préparatifs du nouveau bureau avancent sans accroc, et nous pourrons emménager la semaine prochaine."
     },
     "related": "じゅんちょう（授業の重要表現）"
   },
@@ -3352,13 +3352,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "plats à emporter; aller"
     },
     "example": {
-      "ja": "A: ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？<br/>B: いいえ、<ruby>持ち帰<rt>もちかえ</rt></ruby>りでお<ruby>願<rt>ねが</rt></ruby>いします。",
-      "en": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_TW": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_CN": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "ko": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "zh_HK": "A: Will you be dining in?<br/>B: No, takeout please.",
-      "fr": "A: Will you be dining in?<br/>B: No, takeout please."
+      "ja": "「こちらのお<ruby>料理<rt>りょうり</rt></ruby>はお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りになさいますか？」「はい、テイクアウトでお<ruby>願<rt>ねが</rt></ruby>いします。」",
+      "en": "'Would you like this meal for takeout?' 'Yes, for takeout please.'",
+      "zh_TW": "「請問這道餐點需要外帶嗎？」「是的，請幫我做外帶，謝謝。」",
+      "zh_CN": "“请问这道餐点需要外带吗？”“是的，请帮我做外带，谢谢。”",
+      "ko": "'이 음식은 포장해 드릴까요?' '네, 테이크아웃으로 부탁드립니다.'",
+      "zh_HK": "「呢個餐需要外賣拎走嗎？」「係呀，唔該幫我打包外賣丫。」",
+      "fr": "'Souhaitez-vous emporter ce plat ?' 'Oui, à emporter s'il vous plaît.'"
     },
     "related": "もちかえり（授業の重要表現）"
   },
@@ -3424,13 +3424,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "nostalgique; ça me manque"
     },
     "example": {
-      "ja": "<ruby>懐<rt>なつ</rt></ruby>かしいな。",
-      "en": "It brings back memories.",
-      "zh_TW": "It brings back memories.",
-      "zh_CN": "It brings back memories.",
-      "ko": "It brings back memories.",
-      "zh_HK": "It brings back memories.",
-      "fr": "It brings back memories."
+      "ja": "昔住んでいた町を訪れると、子供の頃によく遊んだ公園がとても<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+      "en": "Visiting the town I used to live in, the park where I often played as a child brings back fond nostalgia.",
+      "zh_TW": "造訪以前住過的小鎮，小時候常去玩的公園讓人感到非常懷念。",
+      "zh_CN": "造访以前住过的小镇，小时候常去玩的公园让人感到非常怀念。",
+      "ko": "예전에 살던 동네를 방문하니 어릴 때 자주 놀던 공원이 무척 그립고 정답습니다.",
+      "zh_HK": "去返以前住過嘅地方，細個成日去玩嘅公園真係令人好懷念。",
+      "fr": "En visitant la ville où j’habitais autrefois, le parc où je jouais enfant m’a rendu très nostalgique."
     },
     "related": "なつかしい（授業の重要表現）"
   },
@@ -3544,13 +3544,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "la jeunesse; sa jeunesse"
     },
     "example": {
-      "ja": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>青春<rt>せいしゅん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>せ！",
-      "en": "Give me back my youth!",
-      "zh_TW": "Give me back my youth!",
-      "zh_CN": "Give me back my youth!",
-      "ko": "Give me back my youth!",
-      "zh_HK": "Give me back my youth!",
-      "fr": "Give me back my youth!"
+      "ja": "<ruby>部活動<rt>ぶかつどう</rt></ruby>で<ruby>仲間<rt>なかま</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に<ruby>汗<rt>あせ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した日々は、かけがえのない<ruby>青春<rt>せいしゅん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>です。",
+      "en": "The days of sweating together with teammates in club activities are an irreplaceable memory of youth.",
+      "zh_TW": "在學校社團與隊友一起揮灑汗水的日子，是我無可取代的青春美好回憶。",
+      "zh_CN": "在学校社团与队友一起挥洒汗水的日子，是我无可取代的青春美好回忆。",
+      "ko": "동아리 활동에서 친구들과 함께 땀 흘렸던 날들은 둘도 없는 소중한 청춘의 추억입니다.",
+      "zh_HK": "以前讀書同班隊友一齊喺球隊練波流汗嘅日子，係無可替代嘅青春美好回憶。",
+      "fr": "Ces journées passées à suer avec mes camarades au club restent un souvenir inestimable de ma jeunesse."
     },
     "related": "せいしゅん（授業の重要表現）"
   },
@@ -3568,13 +3568,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "proverbe; disant"
     },
     "example": {
-      "ja": "<ruby>好<rt>す</rt></ruby>きな<ruby>諺<rt>ことわざ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
-      "en": "What's your favorite proverb?",
-      "zh_TW": "What's your favorite proverb?",
-      "zh_CN": "What's your favorite proverb?",
-      "ko": "What's your favorite proverb?",
-      "zh_HK": "What's your favorite proverb?",
-      "fr": "What's your favorite proverb?"
+      "ja": "「<ruby>急<rt>いそ</rt></ruby>がば<ruby>回<rt>まわ</rt></ruby>れ」という日本の<ruby>ことわざ<rt>ことわざ</rt></ruby>は、<ruby>焦<rt>あせ</rt></ruby>らず<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めることの大切さを教えてくれます。",
+      "en": "The Japanese proverb 'hasten slowly' teaches us the importance of moving steadily without rushing.",
+      "zh_TW": "「欲速則不達」這句日本諺語，教導了我們凡事切莫心急、穩紮穩打的重要性。",
+      "zh_CN": "“欲速则不达”这句日本谚语，教导了我们凡事切莫心急、稳扎稳打的重要性。",
+      "ko": "'급할수록 돌아가라'는 일본 속담은 서두르지 않고 착실하게 나아가는 것의 중요성을 가르쳐 줍니다.",
+      "zh_HK": "日本有句俗語「急則繞道」，即係欲速則不達，教我哋做嘢要腳踏實地唔好太心急。",
+      "fr": "Le proverbe japonais 'qui va lentement va sûrement' enseigne l'importance d'avancer posément sans précipitation."
     },
     "related": "ことわざ（授業の重要表現）"
   },
@@ -3616,13 +3616,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ci-contre; inverse; dans l'autre sens"
     },
     "example": {
-      "ja": "<ruby>帝国<rt>ていこく</rt></ruby>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。",
-      "en": "The empire strikes back.",
-      "zh_TW": "The empire strikes back.",
-      "zh_CN": "The empire strikes back.",
-      "ko": "The empire strikes back.",
-      "zh_HK": "The empire strikes back.",
-      "fr": "The empire strikes back."
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>のホームを<ruby>間違<rt>まちが</rt></ruby>えて、<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってしまいました。",
+      "en": "I mistook the train platform and got on a train going in the opposite direction.",
+      "zh_TW": "我搞錯了電車月台，結果坐上了反方向的車。",
+      "zh_CN": "我搞错了电车月台，结果坐上了反方向的车。",
+      "ko": "전철 승강장을 착각해서 반대 방향으로 가는 열차를 타고 말았습니다.",
+      "zh_HK": "我搞錯咗火車月台，搭咗相反方向嘅列車添。",
+      "fr": "Je me suis trompé de quai et je suis monté dans un train qui allait dans la direction opposée."
     },
     "related": "ぎゃく（授業の重要表現）"
   },
@@ -3688,13 +3688,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pont"
     },
     "example": {
-      "ja": "<ruby>橋<rt>はし</rt></ruby>は<ruby>石造<rt>いしづく</rt></ruby>りだ。",
-      "en": "The bridge is made of stone.",
-      "zh_TW": "The bridge is made of stone.",
-      "zh_CN": "The bridge is made of stone.",
-      "ko": "The bridge is made of stone.",
-      "zh_HK": "The bridge is made of stone.",
-      "fr": "The bridge is made of stone."
+      "ja": "<ruby>大<rt>おお</rt></ruby>きな<ruby>川<rt>かわ</rt></ruby>にかかる<ruby>橋<rt>はし</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ると、<ruby>活気<rt>かっき</rt></ruby>ある<ruby>商店街<rt>しょうてんがい</rt></ruby>が<ruby>見<rt>み</rt></ruby>えてきます。",
+      "en": "When you cross the bridge over the large river, a lively shopping street comes into view.",
+      "zh_TW": "穿過橫跨大河的長橋，眼前就會出現一條熱鬧的商店街。",
+      "zh_CN": "穿过横跨大河的长桥，眼前就会出现一条热闹的商店街。",
+      "ko": "큰 강에 놓인 다리를 건너면 활기찬 상점가가 보이기 시작합니다.",
+      "zh_HK": "行過條橫跨大河嘅橋，就會見到好熱鬧嘅商店街。",
+      "fr": "En traversant le pont qui enjambe le grand fleuve, on aperçoit une rue commerçante très animée."
     },
     "related": "はし（授業の重要表現）"
   },
@@ -3736,13 +3736,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "embouteillage; embouteillage"
     },
     "example": {
-      "ja": "<ruby>渋滞<rt>じゅうたい</rt></ruby>はないです。",
-      "en": "There's no traffic jam.",
-      "zh_TW": "There's no traffic jam.",
-      "zh_CN": "There's no traffic jam.",
-      "ko": "There's no traffic jam.",
-      "zh_HK": "There's no traffic jam.",
-      "fr": "There's no traffic jam."
+      "ja": "<ruby>連休<rt>れんきゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>高速<rt>こうそく</rt></ruby><ruby>道路<rt>どうろ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby>されるので、<ruby>早朝<rt>そうちょう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。",
+      "en": "Heavy traffic jams were expected on the expressway during the holiday, so we departed early in the morning.",
+      "zh_TW": "連假期間高速公路預計會嚴重塞車，所以我們一早天還沒亮就出發了。",
+      "zh_CN": "连假期间高速公路预计会严重堵车，所以我们一大早就出发了。",
+      "ko": "연휴 기간 고속도로가 심하게 정체될 것으로 예상되어 이른 아침에 출발했습니다.",
+      "zh_HK": "長假期條高速公路預計會大塞車，所以我哋大清早就出發。",
+      "fr": "De gros embouteillages étant prévus sur l'autoroute pendant le long week-end, nous sommes partis très tôt le matin."
     },
     "related": "じゅうたい（授業の重要表現）"
   },
@@ -3760,13 +3760,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "partie; partie; section"
     },
     "example": {
-      "ja": "<ruby>部分<rt>ぶぶん</rt></ruby><ruby>的<rt>てき</rt></ruby>には<ruby>賛成<rt>さんせい</rt></ruby>だよ。",
-      "en": "I partly agree with you.",
-      "zh_TW": "I partly agree with you.",
-      "zh_CN": "I partly agree with you.",
-      "ko": "I partly agree with you.",
-      "zh_HK": "I partly agree with you.",
-      "fr": "I partly agree with you."
+      "ja": "レポートのこの<ruby>部分<rt>ぶぶん</rt></ruby>のグラフを<ruby>差<rt>さ</rt></ruby>し<ruby>替<rt>か</rt></ruby>えるだけで、ぐっと<ruby>説得力<rt>せっとくりょく</rt></ruby>が<ruby>増<rt>ま</rt></ruby>しますよ。",
+      "en": "Simply replacing the chart in this part of the report will greatly increase its persuasiveness.",
+      "zh_TW": "只要把報告中這個部分的圖表替換掉，整份資料的說服力就會大幅提升喔。",
+      "zh_CN": "只要把报告中这个部分的图表替换掉，整份资料的说服力就会大幅提升哦。",
+      "ko": "보고서의 이 부분에 들어간 그래프만 교체해도 설득력이 한층 높아질 것입니다.",
+      "zh_HK": "只要換咗份報告呢個部分張圖表，份報告嘅說服力就會即刻大增。",
+      "fr": "Il suffit de remplacer le graphique dans cette partie du rapport pour le rendre beaucoup plus convaincant."
     },
     "related": "ぶぶん（授業の重要表現）"
   },
@@ -3808,13 +3808,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "assiette; plat"
     },
     "example": {
-      "ja": "お<ruby>皿<rt>さら</rt></ruby><ruby>洗<rt>あら</rt></ruby>って。",
-      "en": "Wash the dishes.",
-      "zh_TW": "Wash the dishes.",
-      "zh_CN": "Wash the dishes.",
-      "ko": "Wash the dishes.",
-      "zh_HK": "Wash the dishes.",
-      "fr": "Wash the dishes."
+      "ja": "食事が終わった後、家族みんなで協力してお<ruby>皿<rt>さら</rt></ruby>をきれいに洗いました。",
+      "en": "After finishing the meal, our family cooperated together to wash the dishes cleanly.",
+      "zh_TW": "用餐結束後，全家人一起幫忙把盤子洗得乾乾淨淨。",
+      "zh_CN": "用餐结束后，全家人一起帮忙把盘子洗得干干净净。",
+      "ko": "식사가 끝난 후 가족 모두가 협력하여 접시를 깨끗이 설거지했습니다.",
+      "zh_HK": "食完飯之後，成家人一齊分工洗乾淨啲碗碟。",
+      "fr": "Après le repas, toute la famille a aidé à faire la vaisselle soigneusement."
     },
     "related": "おさら（授業の重要表現）"
   },
@@ -3832,13 +3832,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "peau"
     },
     "example": {
-      "ja": "<ruby>肌寒<rt>はださむ</rt></ruby>いです。",
-      "en": "It's chilly.",
-      "zh_TW": "It's chilly.",
-      "zh_CN": "It's chilly.",
-      "ko": "It's chilly.",
-      "zh_HK": "It's chilly.",
-      "fr": "It's chilly."
+      "ja": "冬場は空気が乾燥するので、化粧水やクリームを塗って<ruby>肌<rt>はだ</rt></ruby>を保湿しています。",
+      "en": "The air is dry in winter, so I apply lotion and cream to moisturize my skin.",
+      "zh_TW": "冬天空氣乾燥，我都會塗抹化妝水和乳霜來做好肌膚保濕。",
+      "zh_CN": "冬天空气干燥，我都会涂抹化妆水和乳霜来做好肌肤保湿。",
+      "ko": "겨울철에는 공기가 건조하므로 스킨과 크림을 발라 피부를 보습하고 있습니다.",
+      "zh_HK": "冬天好乾燥，所以會查爽膚水同面霜幫皮膚保濕。",
+      "fr": "L’air étant sec en hiver, j’applique de la lotion et de la crème pour hydrater ma peau."
     },
     "related": "はだ（授業の重要表現）"
   },
@@ -3856,13 +3856,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "en particulier; particulièrement"
     },
     "example": {
-      "ja": "<ruby>特<rt>とく</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだ。",
-      "en": "He loves dogs above all.",
-      "zh_TW": "He loves dogs above all.",
-      "zh_CN": "He loves dogs above all.",
-      "ko": "He loves dogs above all.",
-      "zh_HK": "He loves dogs above all.",
-      "fr": "He loves dogs above all."
+      "ja": "<ruby>和食<rt>わしょく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも、<ruby>特<rt>とく</rt></ruby>に<ruby>新鮮<rt>しんせん</rt></ruby>なサーモンやマグロのお<ruby>刺身<rt>さしみ</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
+      "en": "Among Japanese cuisine, I particularly love fresh sashimi of salmon and tuna.",
+      "zh_TW": "在各式日本料理當中，我尤其特別喜歡新鮮的鮭魚和鮪魚生魚片。",
+      "zh_CN": "在各式日本料理当中，我尤其特别喜欢新鲜的三文鱼和金枪鱼生鱼片。",
+      "ko": "일식 중에서도 특히 신선한 연어와 참치 사시미를 매우 좋아합니다.",
+      "zh_HK": "喺咁多款日本料理入面，我特別最鍾意食新鮮三文魚同吞拿魚刺身。",
+      "fr": "Parmi les plats japonais, j'aime tout particulièrement les sashimis frais de saumon et de thon."
     },
     "related": "とくに（授業の重要表現）"
   },
@@ -3880,13 +3880,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "coup de soleil; bronzage"
     },
     "example": {
-      "ja": "<ruby>日焼<rt>ひや</rt></ruby>けが<ruby>痛<rt>いた</rt></ruby>い。",
-      "en": "My sunburn hurts.",
-      "zh_TW": "My sunburn hurts.",
-      "zh_CN": "My sunburn hurts.",
-      "ko": "My sunburn hurts.",
-      "zh_HK": "My sunburn hurts.",
-      "fr": "My sunburn hurts."
+      "ja": "<ruby>海<rt>うみ</rt></ruby>で<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>泳<rt>およ</rt></ruby>いでいたら、<ruby>日焼<rt>ひや</rt></ruby>けで<ruby>背中<rt>せなか</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>くなってヒリヒリ<ruby>痛<rt>いた</rt></ruby>みます。",
+      "en": "After swimming at the beach all day, my back turned red and stings from sunburn.",
+      "zh_TW": "在海邊游泳游了一整天，曬傷的背部發紅而且刺痛難耐。",
+      "zh_CN": "在海边游泳游了一整天，晒伤的背部发红而且刺痛难耐。",
+      "ko": "바다에서 하루 종일 수영을 했더니 등이 햇볕에 타서 빨갛게 쓰라립니다.",
+      "zh_HK": "喺海灘游咗成日水，個背脊曬親紅晒又辣又痛。",
+      "fr": "Après avoir nagé toute la journée à la mer, mon dos est rouge et me brûle à cause du coup de soleil."
     },
     "related": "ひやけ（授業の重要表現）"
   },
@@ -3976,13 +3976,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "travaux ménagers; tâches ménagères"
     },
     "example": {
-      "ja": "<ruby>家事<rt>かじ</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>です。",
-      "en": "Housework is also an important job.",
-      "zh_TW": "Housework is also an important job.",
-      "zh_CN": "Housework is also an important job.",
-      "ko": "Housework is also an important job.",
-      "zh_HK": "Housework is also an important job.",
-      "fr": "Housework is also an important job."
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>などの<ruby>家事<rt>かじ</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>して、<ruby>手早<rt>てばや</rt></ruby>く<ruby>片付<rt>かたづ</rt></ruby>けています。",
+      "en": "On weekends, my spouse and I divide up household chores like cleaning and laundry to finish them quickly.",
+      "zh_TW": "到了週末，我們夫妻倆會分工合作打掃、洗衣服等家事，俐落地整理完畢。",
+      "zh_CN": "到了周末，我们夫妻俩会分工合作打扫、洗衣服等家事，俐落地整理完毕。",
+      "ko": "주말에는 부부가 청소와 빨래 등 집안일을 분담하여 빠르게 끝마칩니다.",
+      "zh_HK": "到咗禮拜六日，我同伴侶會分工合作做吸塵同洗衫等家務，好快搞掂晒。",
+      "fr": "Le week-end, mon conjoint et moi nous partageons les tâches ménagères comme le ménage et la lessive pour aller vite."
     },
     "related": "かじ（授業の重要表現）"
   },
@@ -4120,13 +4120,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "coucher de soleil"
     },
     "example": {
-      "ja": "あの<ruby>夕日<rt>ゆうひ</rt></ruby>を<ruby>見<rt>み</rt></ruby>て。",
-      "en": "Look at the setting sun.",
-      "zh_TW": "Look at the setting sun.",
-      "zh_CN": "Look at the setting sun.",
-      "ko": "Look at the setting sun.",
-      "zh_HK": "Look at the setting sun.",
-      "fr": "Look at the setting sun."
+      "ja": "<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>海辺<rt>うみべ</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しながら、オレンジ<ruby>色<rt>いろ</rt></ruby>に<ruby>輝<rt>かがや</rt></ruby>く<ruby>夕日<rt>ゆうひ</rt></ruby>をのんびり<ruby>眺<rt>なが</rt></ruby>めました。",
+      "en": "Strolling along the beach in the evening, I leisurely watched the sunset glowing orange.",
+      "zh_TW": "傍晚在海邊散步時，我悠閒地欣賞著閃耀橘紅色光芒的美麗夕陽。",
+      "zh_CN": "傍晚在海边散步时，我悠闲地欣赏着闪耀橘红色光芒的美丽夕阳。",
+      "ko": "해질녘 해변을 산책하며 주황빛으로 빛나는 아름다운 저녁노을을 감상했습니다.",
+      "zh_HK": "下晝黃昏去海灘散步，悠閒噉欣賞夕陽染到成個天空一片金橙色。",
+      "fr": "En me promenant sur la plage le soir, j'ai contemplé paisiblement le coucher de soleil flamboyant."
     },
     "related": "ゆうひ（授業の重要表現）"
   },
@@ -4168,13 +4168,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "les environs; autour (de son voisinage)"
     },
     "example": {
-      "ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>周<rt>まわ</rt></ruby>りを<ruby>見回<rt>みまわ</rt></ruby>した。",
-      "en": "I looked around me.",
-      "zh_TW": "I looked around me.",
-      "zh_CN": "I looked around me.",
-      "ko": "I looked around me.",
-      "zh_HK": "I looked around me.",
-      "fr": "I looked around me."
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りにはスーパーやドラッグストアがたくさんあって、とても<ruby>生活<rt>せいかつ</rt></ruby>しやすいです。",
+      "en": "Around the station there are many supermarkets and pharmacies, making daily life very convenient.",
+      "zh_TW": "車站周圍有許多超級市場與藥妝店，生活機能非常便利。",
+      "zh_CN": "车站周围有许多超级市场与药妆店，生活机能非常便利。",
+      "ko": "역 주변에 마트와 드럭스토어가 많아서 생활하기 아주 편리합니다.",
+      "zh_HK": "火車站周圍有好多超級市場同藥妝店，平時生活買嘢真係非常方便。",
+      "fr": "Autour de la gare se trouvent de nombreux supermarchés et pharmacies, ce qui rend le quotidien très pratique."
     },
     "related": "まわり（授業の重要表現）"
   },
@@ -4264,13 +4264,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bouillon; sauce; sauce"
     },
     "example": {
-      "ja": "お<ruby>出汁<rt>だし</rt></ruby>、<ruby>熱<rt>あつ</rt></ruby>いよ。",
-      "en": "The broth is hot.",
-      "zh_TW": "The broth is hot.",
-      "zh_CN": "The broth is hot.",
-      "ko": "The broth is hot.",
-      "zh_HK": "The broth is hot.",
-      "fr": "The broth is hot."
+      "ja": "<ruby>野菜<rt>やさい</rt></ruby>とお<ruby>豆腐<rt>とうふ</rt></ruby>がたっぷり<ruby>入<rt>はい</rt></ruby>ったおみそ<ruby>汁<rt>しる</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと、<ruby>体<rt>からだ</rt></ruby>がポカポカ<ruby>温<rt>あたた</rt></ruby>まります。",
+      "en": "Drinking miso soup packed with vegetables and tofu warms the whole body nicely.",
+      "zh_TW": "喝一碗放滿了蔬菜與嫩豆腐的味噌湯，整個人身體都暖呼呼的。",
+      "zh_CN": "喝一碗放满了蔬菜与嫩豆腐的味噌汤，整个人身体都暖呼呼的。",
+      "ko": "채소와 두부가 듬뿍 들어간 된장국을 마시면 온몸이 따뜻해집니다.",
+      "zh_HK": "飲返碗有好多蔬菜同滑豆腐嘅熱辣辣味噌湯，個人成個身暖笠笠好舒服。",
+      "fr": "Boire une soupe miso bien garnie de légumes et de tofu réchauffe agréablement le corps."
     },
     "related": "しる（授業の重要表現）"
   },
@@ -4312,13 +4312,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "alcool; boisson alcoolisée"
     },
     "example": {
-      "ja": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>もうよ。",
-      "en": "Let's have sake.",
-      "zh_TW": "Let's have sake.",
-      "zh_CN": "Let's have sake.",
-      "ko": "Let's have sake.",
-      "zh_HK": "Let's have sake.",
-      "fr": "Let's have sake."
+      "ja": "お<ruby>酒<rt>さけ</rt></ruby>は20<ruby>歳<rt>さい</rt></ruby>になってから。<ruby>友達<rt>ともだち</rt></ruby>の<ruby>成人<rt>せいじん</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いで、<ruby>初<rt>はじ</rt></ruby>めてお<ruby>酒<rt>さけ</rt></ruby>で<ruby>乾杯<rt>かんぱい</rt></ruby>しました。",
+      "en": "Alcohol is for age 20 and up. At my friend's coming-of-age celebration, we toasted with alcohol for the first time.",
+      "zh_TW": "日本滿20歲才能喝酒。在朋友的成年禮慶祝會上，我們第一次舉杯用酒乾杯。",
+      "zh_CN": "日本满20岁才能喝酒。在朋友的成年礼庆祝会上，我们第一次举杯用酒干杯。",
+      "ko": "술은 20세가 되고 나서부터입니다. 친구의 성인 축하 파티에서 처음으로 술로 건배했습니다.",
+      "zh_HK": "喺日本夠20歲先可以飲酒。琴日朋友嘅成年禮派對度，我哋第一次舉起酒杯乾杯。",
+      "fr": "L'alcool est permis à partir de 20 ans. Pour fêter la majorité d'un ami, nous avons trinqué à l'alcool pour la première fois."
     },
     "related": "おさけ（授業の重要表現）"
   },
@@ -4336,13 +4336,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "alcool (substance)"
     },
     "example": {
-      "ja": "アルコールは<ruby>薬物<rt>やくぶつ</rt></ruby>だよ。",
-      "en": "Alcohol is a drug.",
-      "zh_TW": "Alcohol is a drug.",
-      "zh_CN": "Alcohol is a drug.",
-      "ko": "Alcohol is a drug.",
-      "zh_HK": "Alcohol is a drug.",
-      "fr": "Alcohol is a drug."
+      "ja": "<ruby>感染症<rt>かんせんしょう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するため、お<ruby>店<rt>みせ</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>でアルコール<ruby>消毒<rt>しょうどく</rt></ruby>をしっかり<ruby>行<rt>おこな</rt></ruby>いました。",
+      "en": "To prevent infections, I thoroughly sanitized my hands with alcohol sanitizer at the store entrance.",
+      "zh_TW": "為了預防傳染病，我在店門口用酒精消毒液仔細清潔了雙手。",
+      "zh_CN": "为了预防传染病，我在店门口用酒精消毒液仔细清洁了双手。",
+      "ko": "감염병 예방을 위해 가게 입구에서 알코올 손 소독을 꼼꼼하게 했습니다.",
+      "zh_HK": "為咗預防病菌感染，入舖頭之前我喺門口用酒精消毒搓手液消毒雙手。",
+      "fr": "Pour prévenir les infections, je me suis soigneusement désinfecté les mains avec du gel hydroalcoolique à l'entrée."
     },
     "related": "アルコール（授業の重要表現）"
   },
@@ -4384,13 +4384,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pont"
     },
     "example": {
-      "ja": "<ruby>橋<rt>はし</rt></ruby>は<ruby>石造<rt>いしづく</rt></ruby>りだ。",
-      "en": "The bridge is made of stone.",
-      "zh_TW": "The bridge is made of stone.",
-      "zh_CN": "The bridge is made of stone.",
-      "ko": "The bridge is made of stone.",
-      "zh_HK": "The bridge is made of stone.",
-      "fr": "The bridge is made of stone."
+      "ja": "<ruby>夕暮<rt>ゆうぐ</rt></ruby>れ<ruby>時<rt>どき</rt></ruby>に<ruby>橋<rt>はし</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>から<ruby>見<rt>み</rt></ruby>る<ruby>夕日<rt>ゆうひ</rt></ruby>は、息をのむほど<ruby>美<rt>うつく</rt></ruby>しいです。",
+      "en": "The sunset viewed from atop the bridge at dusk is breathtakingly beautiful.",
+      "zh_TW": "傍晚時分從橋上眺望夕陽，美得令人屏息凝神。",
+      "zh_CN": "傍晚时分从桥上眺望夕阳，美得令人屏息凝神。",
+      "ko": "해질녘 다리 위에서 바라보는 저녁노을은 숨이 멎을 만큼 아름답습니다.",
+      "zh_HK": "黃昏嗰陣企喺橋上面睇日落，個景色真係靚到無話可說。",
+      "fr": "Au crépuscule, le coucher de soleil vu du pont est d'une beauté à couper le souffle."
     },
     "related": "はし（授業の重要表現）"
   },
@@ -4408,13 +4408,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pénurie; manque"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>だ。",
-      "en": "He is lacking in experience.",
-      "zh_TW": "He is lacking in experience.",
-      "zh_CN": "He is lacking in experience.",
-      "ko": "He is lacking in experience.",
-      "zh_HK": "He is lacking in experience.",
-      "fr": "He is lacking in experience."
+      "ja": "<ruby>最近<rt>さいきん</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくて<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>ぎみなので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>休<rt>やす</rt></ruby>みます。",
+      "en": "Lately work has been busy and I've been lacking sleep, so I will go to bed early tonight.",
+      "zh_TW": "最近工作忙碌有點睡眠不足，所以今晚打算早點就寢休息。",
+      "zh_CN": "最近工作忙碌有点睡眠不足，所以今晚打算早点就寝休息。",
+      "ko": "최근 일이 바빠 수면이 부족한 편이라 오늘은 일찍 쉬려고 합니다.",
+      "zh_HK": "最近返工好忙搞到瞓得唔係好夠，今晚要早啲瞓返覺好嘅。",
+      "fr": "Ces derniers temps le travail m'occupe beaucoup et je manque de sommeil, je vais donc me coucher tôt ce soir."
     },
     "related": "ふそく（授業の重要表現）"
   },
@@ -4625,13 +4625,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "courage"
     },
     "example": {
-      "ja": "<ruby>勇気<rt>ゆうき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して。",
-      "en": "Be brave.",
-      "zh_TW": "Be brave.",
-      "zh_CN": "Be brave.",
-      "ko": "Be brave.",
-      "zh_HK": "Be brave.",
-      "fr": "Be brave."
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>むときは、ほんの<ruby>少<rt>すこ</rt></ruby>しの<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>背中<rt>せなか</rt></ruby>を<ruby>押<rt>お</rt></ruby>してくれます。",
+      "en": "When leaping into a new environment, just a little courage gives you that supportive push.",
+      "zh_TW": "每當要踏入陌生的新環境時，只要一點點勇氣就能成為推動自己前行的力量。",
+      "zh_CN": "每当要踏入陌生的新环境时，只要一点点勇气就能成为推动自己前行的力量。",
+      "ko": "새로운 환경에 뛰어들 때는 아주 작은 용기가 등을 밀어주는 힘이 됩니다.",
+      "zh_HK": "當踏入一個全新嘅環境，只要俾少少勇氣自己，就會有動力踏出第一步。",
+      "fr": "Quand on plonge dans un nouvel environnement, un simple brin de courage suffit pour nous donner l'élan."
     },
     "related": "ゆうき（授業の重要表現）"
   },
@@ -4673,13 +4673,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour férié"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>です。",
-      "en": "We have a holiday today.",
-      "zh_TW": "We have a holiday today.",
-      "zh_CN": "We have a holiday today.",
-      "ko": "We have a holiday today.",
-      "zh_HK": "We have a holiday today.",
-      "fr": "We have a holiday today."
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>なので、<ruby>学校<rt>がっこう</rt></ruby>も<ruby>会社<rt>かいしゃ</rt></ruby>もお<ruby>休<rt>やす</rt></ruby>みで3<ruby>連休<rt>れんきゅう</rt></ruby>になります。",
+      "en": "Next Monday is a public holiday, so school and work are off, making a three-day weekend.",
+      "zh_TW": "下週一是國定假日，學校和公司都放假，因此有連續三天的假期。",
+      "zh_CN": "下周一是国定假日，学校和公司都放假，因此有连续三天的假期。",
+      "ko": "다음 주 월요일은 공휴일이어서 학교도 직장도 쉬어 3일 연휴가 됩니다.",
+      "zh_HK": "下個禮拜一是公眾假期，學校同公司都放假，連埋週末放三日長假。",
+      "fr": "Le lundi de la semaine prochaine étant un jour férié, l'école et le travail sont fermés, ce qui fait un week-end de trois jours."
     },
     "related": "しゅくじつ（授業の重要表現）"
   },
@@ -4745,13 +4745,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "par tous les moyens ; certainement"
     },
     "example": {
-      "ja": "ぜひそうしよう。",
-      "en": "Why not?",
-      "zh_TW": "Why not?",
-      "zh_CN": "Why not?",
-      "ko": "Why not?",
-      "zh_HK": "Why not?",
-      "fr": "Why not?"
+      "ja": "A: 今度の連休、一緒に京都へ旅行に行きませんか？<br/>B: <ruby>ぜひ<rt>ぜひ</rt></ruby>行きましょう！楽しみにしています。",
+      "en": "A: Shall we travel to Kyoto together on the upcoming long weekend?<br/>B: By all means, let's go! I'm really looking forward to it.",
+      "zh_TW": "A：這次連假要不要一起去京都旅行呢？<br/>B：請務必一起去！我很期待呢。",
+      "zh_CN": "A：这次小长假要不要一起去京都旅行呢？<br/>B：一定要去！我很期待呢。",
+      "ko": "A: 이번 연휴에 같이 교토로 여행 가지 않을래요?<br/>B: 꼭 가요! 정말 기대돼요.",
+      "zh_HK": "A：今次連假一唔一齊去京都旅行呀？<br/>B：一定要去啦！好期待。",
+      "fr": "A : Si on partait en voyage à Kyoto ensemble pendant le long week-end ?<br/>B : Absolument, allons-y ! J’ai vraiment hâte."
     },
     "related": "ぜひ（授業の重要表現）"
   },
@@ -5009,13 +5009,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cause; raison"
     },
     "example": {
-      "ja": "<ruby>何<rt>なに</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>ですか。",
-      "en": "What's the cause?",
-      "zh_TW": "What's the cause?",
-      "zh_CN": "What's the cause?",
-      "ko": "What's the cause?",
-      "zh_HK": "What's the cause?",
-      "fr": "What's the cause?"
+      "ja": "エンジニアのチームが、ネットワークが<ruby>切断<rt>せつだん</rt></ruby>された<ruby>根本的<rt>こんぽんてき</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>しています。",
+      "en": "A team of engineers is investigating the root cause of why the network disconnected.",
+      "zh_TW": "工程師團隊正在調查網路發生斷線的根本原因。",
+      "zh_CN": "工程师团队正在调查网络发生断线的根本原因。",
+      "ko": "엔지니어 팀이 네트워크 연결이 끊긴 근본적인 원인을 조사하고 있습니다.",
+      "zh_HK": "工程師團隊而家調查緊成個網絡斷線嘅根本原因。",
+      "fr": "L'équipe d'ingénieurs recherche la cause profonde de la coupure de réseau."
     },
     "related": "げんいん（授業の重要表現）"
   },
@@ -5033,13 +5033,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "os"
     },
     "example": {
-      "ja": "<ruby>骨<rt>ほね</rt></ruby>が<ruby>折<rt>お</rt></ruby>れてます。",
-      "en": "The bone is broken.",
-      "zh_TW": "The bone is broken.",
-      "zh_CN": "The bone is broken.",
-      "ko": "The bone is broken.",
-      "zh_HK": "The bone is broken.",
-      "fr": "The bone is broken."
+      "ja": "<ruby>階段<rt>かいだん</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>んで<ruby>手首<rt>てくび</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>にヒビが<ruby>入<rt>はい</rt></ruby>ってしまったので、<ruby>包帯<rt>ほうたい</rt></ruby>で<ruby>固定<rt>こてい</rt></ruby>しています。",
+      "en": "I tripped on the stairs and got a hairline fracture in my wrist bone, so it's bandaged and immobilized.",
+      "zh_TW": "我在樓梯跌倒導致手腕骨頭出現裂痕，目前用繃帶固定包紮著。",
+      "zh_CN": "我在楼梯跌倒导致手腕骨头出现裂痕，目前用绷带固定包扎着。",
+      "ko": "계단에서 넘어져 손목 뼈에 금이 가는 바람에 붕대로 고정하고 있습니다.",
+      "zh_HK": "喺樓梯差錯腳跌親整裂咗手腕舊骨，而家用繃帶固定住。",
+      "fr": "J'ai trébuché dans l'escalier et je me suis fêlé l'os du poignet, je porte donc un bandage pour l'immobiliser."
     },
     "related": "ほね（授業の重要表現）"
   },
@@ -5057,13 +5057,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "fracture; os cassé"
     },
     "example": {
-      "ja": "<ruby>骨折<rt>こっせつ</rt></ruby>はしてない。",
-      "en": "No bone was broken.",
-      "zh_TW": "No bone was broken.",
-      "zh_CN": "No bone was broken.",
-      "ko": "No bone was broken.",
-      "zh_HK": "No bone was broken.",
-      "fr": "No bone was broken."
+      "ja": "スキーで<ruby>激<rt>はげ</rt></ruby>しく<ruby>転倒<rt>てんとう</rt></ruby>して<ruby>足<rt>あし</rt></ruby>を<ruby>骨折<rt>こっせつ</rt></ruby>してしまい、しばらくギプスで<ruby>生活<rt>せいかつ</rt></ruby>しています。",
+      "en": "I took a hard fall skiing and fractured my leg, so I've been living in a cast for a while.",
+      "zh_TW": "我滑雪時重重摔了一跤導致腿部骨折，這陣子都得打著石膏生活。",
+      "zh_CN": "我滑雪时重重摔了一跤导致腿部骨折，这阵子都得打着石膏生活。",
+      "ko": "스키를 타다 심하게 넘어져 다리가 골절되는 바람에 당분간 깁스를 하고 지내고 있습니다.",
+      "zh_HK": "去滑雪跌得好甘斷咗腳骨，呢段時間都要打住石膏過日子。",
+      "fr": "J'ai fait une lourde chute au ski et me suis fracturé la jambe, je dois donc garder un plâtre pendant un moment."
     },
     "related": "こっせつ（授業の重要表現）"
   },
@@ -5177,13 +5177,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "prends soin de toi; guéris bientôt"
     },
     "example": {
-      "ja": "どうぞお<ruby>大事<rt>だいじ</rt></ruby>に。",
-      "en": "Please take care of yourself.",
-      "zh_TW": "Please take care of yourself.",
-      "zh_CN": "Please take care of yourself.",
-      "ko": "Please take care of yourself.",
-      "zh_HK": "Please take care of yourself.",
-      "fr": "Please take care of yourself."
+      "ja": "「<ruby>熱<rt>ねつ</rt></ruby>がまだ<ruby>下<rt>さ</rt></ruby>がらないので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早退<rt>そうたい</rt></ruby>します」「どうぞご<ruby>無理<rt>むり</rt></ruby>をなさらず、お<ruby>大事<rt>だいじ</rt></ruby>にしてくださいね。」",
+      "en": "'My fever hasn't gone down yet, so I will leave early today.' 'Please take care of yourself and don't push it.'",
+      "zh_TW": "「我的燒還沒退，今天先請假早退。」「請千萬別勉強，好好保重身體喔。」",
+      "zh_CN": "“我的烧还没退，今天先请假早退。”“请千万别勉强，好好保重身体哦。”",
+      "ko": "'열이 아직 내리지 않아서 오늘은 조퇴하겠습니다.' '무리하지 마시고 몸조리 잘하세요.'",
+      "zh_HK": "「我仲有啲發燒未退，今日早啲走先。」「千祈唔好頂硬上呀，返屋企好好休息保重身體啦。」",
+      "fr": "'Ma fièvre n'est pas encore tombée, je vais donc partir plus tôt aujourd'hui.' 'Ne forcez pas et prenez bien soin de vous.'"
     },
     "related": "おだいじに（授業の重要表現）"
   },
@@ -5561,13 +5561,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "se mettre en colère"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>はすぐ<ruby>怒<rt>おこ</rt></ruby>る。",
-      "en": "He gets mad very easily.",
-      "zh_TW": "He gets mad very easily.",
-      "zh_CN": "He gets mad very easily.",
-      "ko": "He gets mad very easily.",
-      "zh_HK": "He gets mad very easily.",
-      "fr": "He gets mad very easily."
+      "ja": "<ruby>相手<rt>あいて</rt></ruby>がミスをしたときも、すぐに<ruby>怒<rt>おこ</rt></ruby>るのではなく<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うようにしています。",
+      "en": "Even when the other person makes a mistake, instead of getting angry right away, I try to talk calmly.",
+      "zh_TW": "即使對方犯了錯，我也不會馬上發脾氣，而是試著冷靜溝通商討。",
+      "zh_CN": "即使对方犯了错，我也不会马上发脾气，而是试着冷静沟通商讨。",
+      "ko": "상대방이 실수를 했을 때도 바로 화내지 않고 차분하게 대화하려 노력합니다.",
+      "zh_HK": "就算對方做錯事，我都唔會即時鬧人，而係嘗試心平氣和噉好好傾下。",
+      "fr": "Même quand l'autre commet une faute, au lieu de m'énerver immédiatement, j'essaie d'en discuter calmement."
     },
     "related": "おこる（授業の重要表現）"
   },
@@ -5609,13 +5609,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mordre; mâcher"
     },
     "example": {
-      "ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。",
-      "en": "A cornered rat will bite a cat.",
-      "zh_TW": "A cornered rat will bite a cat.",
-      "zh_CN": "A cornered rat will bite a cat.",
-      "ko": "A cornered rat will bite a cat.",
-      "zh_HK": "A cornered rat will bite a cat.",
-      "fr": "A cornered rat will bite a cat."
+      "ja": "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でのスピーチで<ruby>緊張<rt>きんちょう</rt></ruby>してしまい、<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>言葉<rt>ことば</rt></ruby>を<ruby>噛<rt>か</rt></ruby>んでしまいました。",
+      "en": "I got nervous speaking in front of a large audience and stumbled over my words.",
+      "zh_TW": "在大家面前演講時太緊張，結果中途吃螺絲咬到舌頭了。",
+      "zh_CN": "在大家面前演讲时太紧张，结果中途说秃嚕嘴了。",
+      "ko": "많은 사람들 앞에서 연설하다가 긴장해서 그만 말을 더듬고 말았습니다.",
+      "zh_HK": "喺咁多人面前演講太過緊張，搞到中途講到咬親脷食螺絲。",
+      "fr": "J'étais tellement nerveux en parlant devant tout ce monde que j'ai bafouillé au milieu de mon discours."
     },
     "related": "かむ（授業の重要表現）"
   },
@@ -5705,13 +5705,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "malodorant; puant"
     },
     "example": {
-      "ja": "<ruby>面倒臭<rt>めんどうくさ</rt></ruby>いよ。",
-      "en": "I can't be bothered.",
-      "zh_TW": "I can't be bothered.",
-      "zh_CN": "I can't be bothered.",
-      "ko": "I can't be bothered.",
-      "zh_HK": "I can't be bothered.",
-      "fr": "I can't be bothered."
+      "ja": "<ruby>生<rt>なま</rt></ruby>ゴミのイヤな<ruby>臭<rt>にお</rt></ruby>いを<ruby>防<rt>ふせ</rt></ruby>ぐため、しっかり<ruby>密閉<rt>みっぺい</rt></ruby>できるフタつきのゴミ<ruby>箱<rt>ばこ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+      "en": "To prevent the unpleasant smell of food waste, I use a tightly sealing lidded trash can.",
+      "zh_TW": "為了防止廚餘散發難聞的臭味，我使用能嚴密密封的加蓋垃圾桶。",
+      "zh_CN": "为了防止厨余散发难闻的臭味，我使用能严密密封的加盖垃圾桶。",
+      "ko": "음식물 쓰레기의 불쾌한 냄새를 막기 위해 밀폐되는 뚜껑 달린 쓰레기통을 씁니다.",
+      "zh_HK": "為咗防止廚餘發出難聞嘅臭味，我用緊個有密閉蓋嘅垃圾桶。",
+      "fr": "Pour éviter la mauvaise odeur des déchets organiques, j'utilise une poubelle munie d'un couvercle hermétique."
     },
     "related": "くさい（授業の重要表現）"
   },
@@ -5825,13 +5825,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mettre (chaussures / pantalons)"
     },
     "example": {
-      "ja": "<ruby>木靴<rt>きぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きだ。",
-      "en": "I like to wear clogs.",
-      "zh_TW": "I like to wear clogs.",
-      "zh_CN": "I like to wear clogs.",
-      "ko": "I like to wear clogs.",
-      "zh_HK": "I like to wear clogs.",
-      "fr": "I like to wear clogs."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>歩<rt>ある</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>なので、<ruby>履<rt>は</rt></ruby>き<ruby>慣<rt>な</rt></ruby>れたスニーカーを<ruby>履<rt>は</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。",
+      "en": "I plan to walk a lot today, so I'll wear comfortable sneakers that I'm used to.",
+      "zh_TW": "今天打算走很多路，所以我穿了穿習慣的運動鞋出門。",
+      "zh_CN": "今天打算走很多路，所以我穿了穿习惯的运动鞋出门。",
+      "ko": "오늘은 많이 걸을 예정이어서 익숙하고 편한 운동화를 신고 나갑니다.",
+      "zh_HK": "今日預計要行好多路，所以我著咗對著開最舒服嘅波鞋出門口。",
+      "fr": "Comme je prévois de beaucoup marcher aujourd'hui, je mets des baskets confortables que j'ai l'habitude de porter."
     },
     "related": "はく（授業の重要表現）"
   },
@@ -5849,13 +5849,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "envelopper; porter (écharpe / turban)"
     },
     "example": {
-      "ja": "ヘビがとぐろを<ruby>巻<rt>ま</rt></ruby>く。",
-      "en": "The snake coils itself up.",
-      "zh_TW": "The snake coils itself up.",
-      "zh_CN": "The snake coils itself up.",
-      "ko": "The snake coils itself up.",
-      "zh_HK": "The snake coils itself up.",
-      "fr": "The snake coils itself up."
+      "ja": "<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>首元<rt>くびもと</rt></ruby>に<ruby>温<rt>あたた</rt></ruby>かいウールのマフラーをぐるりと<ruby>巻<rt>ま</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。",
+      "en": "On cold winter mornings, I wrap a warm wool scarf snugly around my neck before heading out.",
+      "zh_TW": "在寒冷的冬日早晨，我在脖子上圍上溫暖的羊毛圍巾才出門。",
+      "zh_CN": "在寒冷的冬日早晨，我在脖子上围上温暖的羊毛围巾才出门。",
+      "ko": "추운 겨울 아침에는 목에 따뜻한 울 목도리를 두르고 외출합니다.",
+      "zh_HK": "喺寒冷嘅冬天朝早，我會喺條頸圍條暖笠笠嘅羊毛頸巾先出門口。",
+      "fr": "Par les froids matins d'hiver, j'enroule une chaude écharpe en laine autour de mon cou avant de sortir."
     },
     "related": "まく（授業の重要表現）"
   },
@@ -5873,13 +5873,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mettre (chapeau / casque)"
     },
     "example": {
-      "ja": "<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>こうむ</rt></ruby>るべきではない。",
-      "en": "Your hat should not be worn in the classroom.",
-      "zh_TW": "Your hat should not be worn in the classroom.",
-      "zh_CN": "Your hat should not be worn in the classroom.",
-      "ko": "Your hat should not be worn in the classroom.",
-      "zh_HK": "Your hat should not be worn in the classroom.",
-      "fr": "Your hat should not be worn in the classroom."
+      "ja": "<ruby>日差<rt>ひざ</rt></ruby>しがとても<ruby>強<rt>つよ</rt></ruby>いので、<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>時<rt>とき</rt></ruby>は<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>かぶ</rt></ruby>ってくださいね。",
+      "en": "The sunlight is very strong, so please wear a hat when going out.",
+      "zh_TW": "陽光非常強烈，外出時請戴上帽子喔。",
+      "zh_CN": "阳光非常强烈，外出时请戴上帽子哦。",
+      "ko": "햇볕이 매우 강하니 외출할 때는 모자를 꼭 쓰세요.",
+      "zh_HK": "出面太陽好猛，出街記得戴頂帽呀。",
+      "fr": "Le soleil tape fort, alors pensez à mettre un chapeau en sortant."
     },
     "related": "かぶる（授業の重要表現）"
   },
@@ -6210,13 +6210,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "doux"
     },
     "example": {
-      "ja": "<ruby>体<rt>からだ</rt></ruby><ruby>柔<rt>やわ</rt></ruby>らかいね。",
-      "en": "Your body is soft.",
-      "zh_TW": "Your body is soft.",
-      "zh_CN": "Your body is soft.",
-      "ko": "Your body is soft.",
-      "zh_HK": "Your body is soft.",
-      "fr": "Your body is soft."
+      "ja": "パン<ruby>屋<rt>や</rt></ruby>さんの<ruby>焼<rt>や</rt></ruby>きたて食パンは、ふわふわでとても<ruby>柔<rt>やわ</rt></ruby>らかくておいしいです。",
+      "en": "Freshly baked bread from the bakery is fluffy, wonderfully soft, and delicious.",
+      "zh_TW": "麵包店剛出爐的白吐司蓬鬆綿密，質地非常柔軟美味。",
+      "zh_CN": "面包店刚出炉的白吐司蓬松绵密，质地非常柔软美味。",
+      "ko": "베이커리의 갓 구운 식빵은 폭신폭신하고 아주 부드러워서 맛있습니다.",
+      "zh_HK": "麵包舖啱啱出爐嘅方包好鬆軟好綿密，食落軟淋淋真係好好食。",
+      "fr": "Le pain de mie tout juste sorti du four de la boulangerie est ultra moelleux, très tendre et délicieux."
     },
     "related": "やわらかい（授業の重要表現）"
   },
@@ -6234,13 +6234,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dur; ferme"
     },
     "example": {
-      "ja": "<ruby>体<rt>からだ</rt></ruby>が<ruby>硬<rt>かた</rt></ruby>いね。",
-      "en": "Your body is stiff.",
-      "zh_TW": "Your body is stiff.",
-      "zh_CN": "Your body is stiff.",
-      "ko": "Your body is stiff.",
-      "zh_HK": "Your body is stiff.",
-      "fr": "Your body is stiff."
+      "ja": "お<ruby>風呂<rt>ふろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりにストレッチを<ruby>続<rt>つづ</rt></ruby>けていたら、<ruby>硬<rt>かた</rt></ruby>かった<ruby>体<rt>からだ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつほぐれてきました。",
+      "en": "By continuing to stretch after taking a bath, my once-stiff body has loosened up bit by bit.",
+      "zh_TW": "泡完澡持續做伸展拉筋運動後，原本僵硬的身體漸漸變得柔軟放鬆了。",
+      "zh_CN": "泡完澡持续做伸展拉筋运动后，原本僵硬的身体渐渐变得柔软放松了。",
+      "ko": "목욕 후에 꾸준히 스트레칭을 했더니 뻣뻣했던 몸이 조금씩 유연해졌습니다.",
+      "zh_HK": "沖完涼持之以恆拉筋拉伸之後，本來好硬嘅筋骨開始慢慢變得柔軟放鬆。",
+      "fr": "En m'étirant régulièrement après le bain, mon corps autrefois rigide s'assouplit peu à peu."
     },
     "related": "かたい（授業の重要表現）"
   },
@@ -6258,13 +6258,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "sol"
     },
     "example": {
-      "ja": "<ruby>床<rt>ゆか</rt></ruby>に<ruby>伏<rt>ふ</rt></ruby>せろ！",
-      "en": "Get down!",
-      "zh_TW": "Get down!",
-      "zh_CN": "Get down!",
-      "ko": "Get down!",
-      "zh_HK": "Get down!",
-      "fr": "Get down!"
+      "ja": "リビングのフローリングの<ruby>床<rt>ゆか</rt></ruby>をモップでピカピカに磨きました。",
+      "en": "I polished the wooden floor of the living room until it sparkled using a mop.",
+      "zh_TW": "用拖把將客廳的木質地板擦得閃閃發亮。",
+      "zh_CN": "用拖把将客厅的木质地板擦得闪闪发亮。",
+      "ko": "거실의 마루 바닥을 걸레로 반짝반짝 닦았습니다.",
+      "zh_HK": "用地拖將客廳嘅木地板抹到立立令。",
+      "fr": "J’ai astiqué le parquet ciré du salon avec une serpillière jusqu’à ce qu’il brille."
     },
     "related": "ゆか（授業の重要表現）"
   },
@@ -6354,13 +6354,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "miroir"
     },
     "example": {
-      "ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。",
-      "en": "The eye is the mirror of the soul.",
-      "zh_TW": "The eye is the mirror of the soul.",
-      "zh_CN": "The eye is the mirror of the soul.",
-      "ko": "The eye is the mirror of the soul.",
-      "zh_HK": "The eye is the mirror of the soul.",
-      "fr": "The eye is the mirror of the soul."
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、<ruby>玄関<rt>げんかん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>鏡<rt>かがみ</rt></ruby>で<ruby>服装<rt>ふくそう</rt></ruby>や<ruby>身<rt>み</rt></ruby>だしなみをチェックします。",
+      "en": "Before leaving in the morning, I check my outfit and appearance in the big mirror by the door.",
+      "zh_TW": "早上出門前，我都會在玄關的大全身鏡前檢查儀容穿搭。",
+      "zh_CN": "早上出门前，我都会在玄关的大全身镜前检查仪容穿搭。",
+      "ko": "아침에 외출하기 전, 현관의 큰 거울로 옷차림과 매무새를 확인합니다.",
+      "zh_HK": "朝早出門口之前，我都會企喺玄關塊大鏡面前照下儀容同著衫。",
+      "fr": "Avant de partir le matin, je vérifie ma tenue et mon allure dans le grand miroir de l'entrée."
     },
     "related": "かがみ（授業の重要表現）"
   },
@@ -6450,13 +6450,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "première rangée; très devant"
     },
     "example": {
-      "ja": "<ruby>正直<rt>しょうじき</rt></ruby>は<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>策<rt>さく</rt></ruby>。",
-      "en": "Honesty is the best policy.",
-      "zh_TW": "Honesty is the best policy.",
-      "zh_CN": "Honesty is the best policy.",
-      "ko": "Honesty is the best policy.",
-      "zh_HK": "Honesty is the best policy.",
-      "fr": "Honesty is the best policy."
+      "ja": "コンサートの<ruby>最前列<rt>さいぜんれつ</rt></ruby>のチケットが<ruby>当<rt>あ</rt></ruby>たり、アーティストの<ruby>表情<rt>ひょうじょう</rt></ruby>まで<ruby>間近<rt>まぢか</rt></ruby>で<ruby>見<rt>み</rt></ruby>られました！",
+      "en": "I won front-row tickets to the concert, and was able to see the artist's expressions right up close!",
+      "zh_TW": "我抽中了演唱會最前排座位的門票，近距離看清了歌手臉上的每一絲表情！",
+      "zh_CN": "我抽中了演唱会最前排座位的门票，近距离看清了歌手脸上的每一丝表情！",
+      "ko": "콘서트 맨 앞줄 티켓에 당첨되어 아티스트의 표정까지 코앞에서 볼 수 있었습니다!",
+      "zh_HK": "我抽中咗演唱會最頭第一行飛，近到睇得清清楚楚歌手嘅每個表情！",
+      "fr": "J'ai décroché des billets au tout premier rang pour le concert, j'ai pu voir les expressions de l'artiste de très près !"
     },
     "related": "さいぜん（授業の重要表現）"
   },
@@ -6522,13 +6522,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "gouvernement"
     },
     "example": {
-      "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>された。",
-      "en": "The government was overthrown.",
-      "zh_TW": "The government was overthrown.",
-      "zh_CN": "The government was overthrown.",
-      "ko": "The government was overthrown.",
-      "zh_HK": "The government was overthrown.",
-      "fr": "The government was overthrown."
+      "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>物価<rt>ぶっか</rt></ruby><ruby>高<rt>だか</rt></ruby>に<ruby>悩<rt>なや</rt></ruby>む<ruby>国民<rt>こくみん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えるため、<ruby>新<rt>あたら</rt></ruby>しい<ruby>経済<rt>けいざい</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+      "en": "The government announced a new economic package to support citizens struggling with rising prices.",
+      "zh_TW": "政府公布了新的經濟對策，以支援深受物價上漲所苦的國民生活。",
+      "zh_CN": "政府公布了新的经济对策，以支援深受物价上涨所苦的国民生活。",
+      "ko": "정부는 물가 상승으로 어려움을 겪는 국민 생활을 지원하기 위해 새로운 경제 대책을 발표했습니다.",
+      "zh_HK": "政府公佈咗新嘅經濟紓困措施，去支援面對通脹物價高嘅市民生活。",
+      "fr": "Le gouvernement a annoncé un nouveau plan économique pour soutenir le pouvoir d'achat des citoyens."
     },
     "related": "せいふ（授業の重要表現）"
   },
@@ -7050,13 +7050,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "last week / la semaine dernière"
     },
     "example": {
-      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby>でした。",
-      "en": "It was last week.",
-      "zh_TW": "It was last week.",
-      "zh_CN": "It was last week.",
-      "ko": "It was last week.",
-      "zh_HK": "It was last week.",
-      "fr": "It was last week."
+      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>日曜<rt>にちよう</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>新<rt>あたら</rt></ruby>しくオープンしたカフェへ<ruby>行<rt>い</rt></ruby>ってきました。",
+      "en": "Last Sunday, I went to a newly opened cafe with my friend.",
+      "zh_TW": "上週日我和朋友一起去了新開張的咖啡店。",
+      "zh_CN": "上周日我和朋友一起去了新开张的咖啡店。",
+      "ko": "지난주 일요일에 친구와 새로 문을 연 카페에 다녀왔습니다.",
+      "zh_HK": "上個禮拜日我同朋友去咗間新開嘅特色咖啡店坐下。",
+      "fr": "Dimanche dernier, je suis allé dans un café récemment ouvert avec un ami."
     },
     "related": "せんしゅう（授業の重要表現）"
   },
@@ -7098,13 +7098,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "next week / la semaine prochaine"
     },
     "example": {
-      "ja": "また<ruby>再来週<rt>さらいしゅう</rt></ruby>。",
-      "en": "See you the week after next week.",
-      "zh_TW": "See you the week after next week.",
-      "zh_CN": "See you the week after next week.",
-      "ko": "See you the week after next week.",
-      "zh_HK": "See you the week after next week.",
-      "fr": "See you the week after next week."
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>なクライアントとの<ruby>商談<rt>しょうだん</rt></ruby>があるため、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておきます。",
+      "en": "We have an important negotiation with a client next Tuesday, so I will prepare documents in advance.",
+      "zh_TW": "下週二要與重要客戶進行商談，因此我提前準備好了各項簡報資料。",
+      "zh_CN": "下周二要与重要客户进行商谈，因此我提前准备好了各项简报资料。",
+      "ko": "다음 주 화요일에 중요한 클라이언트와의 미팅이 있어서 미리 자료를 준비해 두고 있습니다.",
+      "zh_HK": "下個禮拜二要同個好緊要嘅大客傾生意，我要預先印好同準備齊所有資料。",
+      "fr": "Nous avons une réunion commerciale importante avec un client mardi prochain, je prépare donc les documents à l'avance."
     },
     "related": "らいしゅう（授業の重要表現）"
   },
@@ -7170,13 +7170,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "next month / le mois prochain"
     },
     "example": {
-      "ja": "<ruby>再来月<rt>さらいげつ</rt></ruby>は<ruby>１２月<rt>じゅうにがつ</rt></ruby>だ。",
-      "en": "The month after next is December.",
-      "zh_TW": "The month after next is December.",
-      "zh_CN": "The month after next is December.",
-      "ko": "The month after next is December.",
-      "zh_HK": "The month after next is December.",
-      "fr": "The month after next is December."
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しいプロジェクトが<ruby>始<rt>はじ</rt></ruby>まるので、しっかり<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めています。",
+      "en": "A new project starts next month, so I am moving forward with preparations.",
+      "zh_TW": "下個月將啟動一項新專案，我目前正在積極做好各項準備。",
+      "zh_CN": "下个月将启动一项新项目，我目前正在积极做好各项准备。",
+      "ko": "다음 달부터 새로운 프로젝트가 시작되므로 차근차근 준비를 진행하고 있습니다.",
+      "zh_HK": "下個月有個新project要開始，而家緊密籌備緊當中。",
+      "fr": "Un nouveau projet commence le mois prochain, alors j'avance activement dans les préparatifs."
     },
     "related": "らいげつ（授業の重要表現）"
   },
@@ -7290,13 +7290,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "castle / château"
     },
     "example": {
-      "ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。",
-      "en": "That castle is beautiful.",
-      "zh_TW": "That castle is beautiful.",
-      "zh_CN": "That castle is beautiful.",
-      "ko": "That castle is beautiful.",
-      "zh_HK": "That castle is beautiful.",
-      "fr": "That castle is beautiful."
+      "ja": "<ruby>春<rt>はる</rt></ruby>になると、お<ruby>城<rt>しろ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りにたくさんの<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き誇り、多くの花見客で賑わいます。",
+      "en": "In spring, cherry blossoms bloom in full glory around the castle, attracting many visitors.",
+      "zh_TW": "一到春天，城堡周邊櫻花盛開，吸引眾多賞櫻人潮熱鬧非凡。",
+      "zh_CN": "一到春天，城堡周边樱花盛开，吸引众多赏樱人潮热闹非凡。",
+      "ko": "봄이 되면 성 주변에 벚꽃이 만발하여 많은 벚꽃 구경객들로 붐빕니다.",
+      "zh_HK": "每逢春天，城堡周圍櫻花盛開，吸引好多人去賞花熱鬧非常。",
+      "fr": "Au printemps, de magnifiques cerisiers fleurissent tout autour du château, attirant beaucoup de promeneurs."
     },
     "related": "しろ（授業の重要表現）"
   },
@@ -7483,13 +7483,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "to cook / faire la cuisine"
     },
     "example": {
-      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>にはよく<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしますか？<br/>B: はい、<ruby>得意<rt>とくい</rt></ruby>なパスタやカレーを<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。",
-      "en": "A: Do you often cook at home on the weekends?<br/>B: Yes, I like to cook pasta and curry.",
-      "zh_TW": "A：週末你常在家煮飯嗎？<br/>B：是的，我喜歡煮義大利麵和咖哩。",
-      "zh_CN": "A：周末你经常在家做饭吗？<br/>B：是的，我喜欢煮意大利面和咖喱。",
-      "ko": "A: 주말에는 잘 집에서 요리를 합니까?<br/>B : 네, 좋은 파스타와 카레를 요리하는 것을 좋아합니다.",
-      "zh_HK": "A：週末你常在家煮飯嗎？<br/>B：是的，我喜歡煮義大利麵和咖哩。",
-      "fr": "A : Cuisinez-vous souvent à la maison le week-end ?<br/>B : Oui, j'aime cuisiner des pâtes et du curry."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>的な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>るため、できるだけ外食を減らして<ruby>毎日<rt>まいにち</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしています。",
+      "en": "To lead a healthy lifestyle, I cut down on eating out and cook for myself every day as much as possible.",
+      "zh_TW": "為了維持健康生活，我盡量減少外食，每天都盡可能自己下廚做飯。",
+      "zh_CN": "为了维持健康生活，我尽量减少外食，每天都尽可能自己下厨做饭。",
+      "ko": "건강한 생활을 위해 외식을 가급적 줄이고 매일 직접 요리해 먹고 있습니다.",
+      "zh_HK": "為咗過得健康啲，我盡量少啲出去食外賣，日日自己煮飯。",
+      "fr": "Pour mener une vie saine, je réduis les sorties au restaurant et je cuisine moi-même chaque jour."
     },
     "related": "りょうりをする（授業の重要表現）"
   },
@@ -7627,13 +7627,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "tough / hard (situation) / difficile (situation) / pénible"
     },
     "example": {
-      "ja": "<ruby>大変<rt>たいへん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れた。",
-      "en": "I'm exhausted.",
-      "zh_TW": "I'm exhausted.",
-      "zh_CN": "I'm exhausted.",
-      "ko": "I'm exhausted.",
-      "zh_HK": "I'm exhausted.",
-      "fr": "I'm exhausted."
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>大雪<rt>おおゆき</rt></ruby>で<ruby>止<rt>と</rt></ruby>まってしまい、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>るのが<ruby>大変<rt>たいへん</rt></ruby>でした。",
+      "en": "The train stopped due to heavy snow, so getting back home was terribly tough.",
+      "zh_TW": "電車因為大雪停駛，回家的一路上真是辛苦又折騰。",
+      "zh_CN": "电车因为大雪停驶，回家的一路上真是辛苦又折腾。",
+      "ko": "폭설로 전철이 멈추는 바람에 집에 돌아가는 길이 정말 힘들었습니다.",
+      "zh_HK": "落大雪搞到火車停駛，返屋企條路真係好艱辛波折。",
+      "fr": "Le train s'est arrêté à cause de la neige abondante, le retour à la maison a été très pénible."
     },
     "related": "たいへん（授業の重要表現）"
   },
@@ -7699,13 +7699,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "clock / watch / horloge / montre"
     },
     "example": {
-      "ja": "<ruby>時計<rt>とけい</rt></ruby>してる？",
-      "en": "Are you wearing a watch?",
-      "zh_TW": "Are you wearing a watch?",
-      "zh_CN": "Are you wearing a watch?",
-      "ko": "Are you wearing a watch?",
-      "zh_HK": "Are you wearing a watch?",
-      "fr": "Are you wearing a watch?"
+      "ja": "就職祝いに両親からプレゼントされた<ruby>時計<rt>とけい</rt></ruby>を、毎日大切に身につけています。",
+      "en": "I wear the watch my parents gave me as an employment gift with great care every day.",
+      "zh_TW": "每天我都非常珍惜地戴著父母送給我的就職賀禮手錶。",
+      "zh_CN": "每天我都非常珍惜地戴着父母送给我的就职贺礼手表。",
+      "ko": "취업 축하 선물로 부모님께 받은 시계를 매일 소중히 차고 다닙니다.",
+      "zh_HK": "每日都好錫住戴住父母送畀我嘅就職禮物手錶。",
+      "fr": "Je porte précieusement chaque jour la montre que mes parents m’ont offerte pour mon nouvel emploi."
     },
     "related": "とけい（授業の重要表現）"
   },
@@ -7795,13 +7795,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "a lot / full / plein / beaucoup"
     },
     "example": {
-      "ja": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？",
-      "en": "Are you full?",
-      "zh_TW": "Are you full?",
-      "zh_CN": "Are you full?",
-      "ko": "Are you full?",
-      "zh_HK": "Are you full?",
-      "fr": "Are you full?"
+      "ja": "美味しい料理をたくさん食べて、お腹が<ruby>いっぱい<rt>いっぱい</rt></ruby>になって大満足です。",
+      "en": "I ate a lot of delicious food, became completely full, and was very satisfied.",
+      "zh_TW": "吃了很多好吃的料理，肚子飽飽的好滿足。",
+      "zh_CN": "吃了很多好吃的美食，肚子饱饱的好满足。",
+      "ko": "맛있는 음식을 잔뜩 먹어서 배가 부르고 대만족입니다.",
+      "zh_HK": "食咗好多好嘢，飽到成個肚脹晒好滿足。",
+      "fr": "J’ai mangé plein de bonnes choses, j’ai le ventre plein et je suis comblé."
     },
     "related": "いっぱい（授業の重要表現）"
   },
@@ -7891,13 +7891,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "clock / watch / horloge / montre"
     },
     "example": {
-      "ja": "<ruby>時計<rt>とけい</rt></ruby>してる？",
-      "en": "Are you wearing a watch?",
-      "zh_TW": "Are you wearing a watch?",
-      "zh_CN": "Are you wearing a watch?",
-      "ko": "Are you wearing a watch?",
-      "zh_HK": "Are you wearing a watch?",
-      "fr": "Are you wearing a watch?"
+      "ja": "部屋の壁掛け<ruby>時計<rt>とけい</rt></ruby>が止まっていたので、新しい電池に取り替えました。",
+      "en": "The wall clock in the room had stopped, so I replaced it with a fresh battery.",
+      "zh_TW": "房間的掛鐘停住了，所以我換上了新的電池。",
+      "zh_CN": "房间的挂钟停住了，所以我换上了新的电池。",
+      "ko": "방의 벽시계가 멈춰 있어서 새 건전지로 교체했습니다.",
+      "zh_HK": "房入面個掛牆鐘停咗，所以我換咗粒新電。",
+      "fr": "L’horloge murale de la pièce s’étant arrêtée, j’ai remplacé la pile."
     },
     "related": "とけい（授業の重要表現）"
   },
@@ -8228,13 +8228,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "rainy season / saison des pluies"
     },
     "example": {
-      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
-      "en": "The rainy season has set in.",
-      "zh_TW": "The rainy season has set in.",
-      "zh_CN": "The rainy season has set in.",
-      "ko": "The rainy season has set in.",
-      "zh_HK": "The rainy season has set in.",
-      "fr": "The rainy season has set in."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>では6<ruby>月<rt>がつ</rt></ruby>になると<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り、しとしとと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。",
+      "en": "In Japan, the rainy season begins in June, bringing many drizzly days.",
+      "zh_TW": "在日本一到了6月就會進入梅雨季，陰雨綿綿的日子會變多。",
+      "zh_CN": "在日本一到了6月就会进入梅雨季，阴雨绵绵的日子会变多。",
+      "ko": "일본에서는 6월이 되면 장마철에 접어들어 비가 내리는 날이 많아집니다.",
+      "zh_HK": "喺日本一到咗6月就會入梅雨季節，落連場雨嘅日子會變多。",
+      "fr": "Au Japon, la saison des pluies commence en juin, avec de nombreux jours pluvieux."
     },
     "related": "つゆ（授業の重要表現）"
   },
@@ -8252,13 +8252,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "hot (weather) / chaud (temps)"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>い。",
-      "en": "It's hot today.",
-      "zh_TW": "It's hot today.",
-      "zh_CN": "It's hot today.",
-      "ko": "It's hot today.",
-      "zh_HK": "It's hot today.",
-      "fr": "It's hot today."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>気温<rt>きおん</rt></ruby>が35<ruby>度<rt>ど</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えてとても<ruby>暑<rt>あつ</rt></ruby>いので、こまめに<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>補給<rt>ほきゅう</rt></ruby>してください。",
+      "en": "The temperature exceeded 35 degrees today and it is very hot, so please hydrate frequently.",
+      "zh_TW": "今天氣溫超過了35度非常炎熱，請記得隨時補充水分。",
+      "zh_CN": "今天气温超过了35度非常炎热，请记得随时补充水分。",
+      "ko": "오늘은 기온이 35도를 넘어 몹시 더우니 자주 수분을 섭취해 주세요.",
+      "zh_HK": "今日氣溫過咗35度真係好熱，記得隨時飲多啲水補充水分呀。",
+      "fr": "La température a dépassé les 35 degrés aujourd'hui et il fait très chaud, pensez à vous hydrater régulièrement."
     },
     "related": "あつい（授業の重要表現）"
   },
@@ -8276,13 +8276,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cold (weather) / froid (temps)"
     },
     "example": {
-      "ja": "<ruby>肌寒<rt>はださむ</rt></ruby>いです。",
-      "en": "It's chilly.",
-      "zh_TW": "It's chilly.",
-      "zh_CN": "It's chilly.",
-      "ko": "It's chilly.",
-      "zh_HK": "It's chilly.",
-      "fr": "It's chilly."
+      "ja": "今朝は風が強くてとても<ruby>寒い<rt>さむい</rt></ruby>ので、厚手のマフラーを巻いて出掛けました。",
+      "en": "The wind was strong and very cold this morning, so I wrapped a thick scarf around me before heading out.",
+      "zh_TW": "今天早晨風很大非常寒冷，所以我圍了厚圍巾才出門。",
+      "zh_CN": "今天早晨风很大非常寒冷，所以我围了厚围巾才出门。",
+      "ko": "오늘 아침은 바람이 강해서 몹시 춥기 때문에 두꺼운 목도리를 두르고 외출했습니다.",
+      "zh_HK": "今朝好大風好凍，所以我圍咗條厚頸巾先出門口。",
+      "fr": "Le vent soufflait fort et il faisait très froid ce matin, alors j’ai mis une écharpe épaisse pour sortir."
     },
     "related": "さむい（授業の重要表現）"
   },
@@ -8300,13 +8300,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "one cup / one glass / une tasse / un verre"
     },
     "example": {
-      "ja": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？",
-      "en": "Are you full?",
-      "zh_TW": "Are you full?",
-      "zh_CN": "Are you full?",
-      "ko": "Are you full?",
-      "zh_HK": "Are you full?",
-      "fr": "Are you full?"
+      "ja": "カフェで美味しいブレンドコーヒーを<ruby>一杯<rt>いっぱい</rt></ruby>飲んで、ほっと一息つきました。",
+      "en": "I drank a cup of delicious blended coffee at the cafe and took a relaxing breather.",
+      "zh_TW": "在咖啡廳喝了一杯美味的特調咖啡，放鬆地休息了一下。",
+      "zh_CN": "在咖啡厅喝了一杯美味的特调咖啡，轻松地休息了一下。",
+      "ko": "카페에서 맛있는 블렌드 커피를 한 잔 마시며 한숨 돌렸습니다.",
+      "zh_HK": "喺Cafe飲咗杯好味嘅咖啡，好舒服咁抖咗一陣。",
+      "fr": "J’ai bu une tasse de bon café au salon de thé et j’ai pu souffler un instant."
     },
     "related": "いっぱい（授業の重要表現）"
   },
@@ -8348,13 +8348,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "reverse / opposite / inverse / contraire"
     },
     "example": {
-      "ja": "<ruby>帝国<rt>ていこく</rt></ruby>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。",
-      "en": "The empire strikes back.",
-      "zh_TW": "The empire strikes back.",
-      "zh_CN": "The empire strikes back.",
-      "ko": "The empire strikes back.",
-      "zh_HK": "The empire strikes back.",
-      "fr": "The empire strikes back."
+      "ja": "<ruby>地図<rt>ちず</rt></ruby>を<ruby>逆<rt>ぎゃく</rt></ruby>さまに<ruby>持<rt>も</rt></ruby>っていたため、<ruby>目的地<rt>もくてきち</rt></ruby>とは<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いていました。",
+      "en": "Because I was holding the map upside down, I was walking in the opposite direction of my destination.",
+      "zh_TW": "因為我把地圖拿反了，所以朝著目的地的相反方向走去。",
+      "zh_CN": "因为我把地图拿反了，所以朝着目的地的相反方向走去。",
+      "ko": "지도를 거꾸로 들고 있어서 목적지와는 반대 방향으로 걷고 있었습니다.",
+      "zh_HK": "因為我拎轉咗張地圖，行咗去同目的地完全相反嘅方向。",
+      "fr": "Comme je tenais le plan à l'envers, je marchais dans la direction opposée à ma destination."
     },
     "related": "ぎゃく（授業の重要表現）"
   },
@@ -8444,13 +8444,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "beef / bœuf"
     },
     "example": {
-      "ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。",
-      "en": "Beef is expensive.",
-      "zh_TW": "Beef is expensive.",
-      "zh_CN": "Beef is expensive.",
-      "ko": "Beef is expensive.",
-      "zh_HK": "Beef is expensive.",
-      "fr": "Beef is expensive."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>のすき<ruby>焼<rt>や</rt></ruby>きには、柔らかくて上質な国産の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を準備しました。",
+      "en": "For today's sukiyaki, we prepared soft, high-quality domestic beef.",
+      "zh_TW": "今天的壽喜燒，我們準備了軟嫩優質的日本國產牛肉。",
+      "zh_CN": "今天的寿喜烧，我们准备了软嫩优质的日本国产牛肉。",
+      "ko": "오늘 스키야키에는 부드럽고 질 좋은 일본산 소고기를 준비했습니다.",
+      "zh_HK": "今日嘅壽喜燒，我哋準備咗好軟熟高級嘅日本國產牛肉。",
+      "fr": "Pour le sukiyaki d'aujourd'hui, nous avons préparé du bœuf japonais tendre et de grande qualité."
     },
     "related": "ぎゅうにく（授業の重要表現）"
   },
@@ -8468,13 +8468,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pork / porc (viande)"
     },
     "example": {
-      "ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。",
-      "en": "Pork doesn't agree with me.",
-      "zh_TW": "Pork doesn't agree with me.",
-      "zh_CN": "Pork doesn't agree with me.",
-      "ko": "Pork doesn't agree with me.",
-      "zh_HK": "Pork doesn't agree with me.",
-      "fr": "Pork doesn't agree with me."
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>の夕飯は、新鮮な<ruby>豚肉<rt>ぶたにく</rt></ruby>と玉ねぎを使った生姜焼きを作ります。",
+      "en": "For dinner tonight, I'll make ginger pork using fresh pork and onions.",
+      "zh_TW": "今晚的晚餐，我要用新鮮豬肉和洋蔥來做日式薑汁燒肉。",
+      "zh_CN": "今晚的晚餐，我要用新鲜猪肉和洋葱来做日式姜汁烧肉。",
+      "ko": "오늘 저녁은 신선한 돼지고기와 양파를 넣은 생강구이를 만들 거예요.",
+      "zh_HK": "今晚晚飯，我會用新鮮豬肉同洋蔥煮日式生薑燒肉。",
+      "fr": "Ce soir pour le dîner, je vais préparer du porc au gingembre avec du porc frais et des oignons."
     },
     "related": "ぶたにく（授業の重要表現）"
   },
@@ -8588,13 +8588,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "muscle soreness / courbatures"
     },
     "example": {
-      "ja": "A: <ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しぎこちないけど、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？<br/>B: <ruby>昨日<rt>きのう</rt></ruby>ジムで<ruby>筋<rt>きん</rt></ruby>トレを<ruby>頑張<rt>がんば</rt></ruby>りすぎて、<ruby>足<rt>あし</rt></ruby>がひどい<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>なんだ。",
-      "en": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_TW": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_CN": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "ko": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "zh_HK": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness.",
-      "fr": "A: Your walking looks a bit stiff, are you okay?<br/>B: I worked out too hard at the gym yesterday, and my legs have terrible muscle soreness."
+      "ja": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しの<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>をたくさん<ruby>運<rt>はこ</rt></ruby>んだせいで、<ruby>腕<rt>うで</rt></ruby>や<ruby>腰<rt>こし</rt></ruby>が<ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>で痛みます。",
+      "en": "From hauling heavy moving boxes, my arms and lower back ache with muscle soreness.",
+      "zh_TW": "因為搬了很多沉重的搬家行李，手臂和腰部都在肌肉痠痛。",
+      "zh_CN": "因为搬了许多沉重的搬家行李，手臂和腰部都在肌肉酸痛。",
+      "ko": "이사할 때 무거운 짐을 많이 옮겨서 팔과 허리에 근육통이 생겼습니다.",
+      "zh_HK": "搬屋搬咗好多重嘢，搞到成條腰同對手都好痠痛。",
+      "fr": "À force de porter de lourds cartons de déménagement, j'ai des courbatures aux bras et au dos."
     },
     "related": "きんにくつう（授業の重要表現）"
   },
@@ -8732,13 +8732,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "graduate school / études supérieures (master/doctorat)"
     },
     "example": {
-      "ja": "トムは<ruby>大学院生<rt>だいがくいんせい</rt></ruby>です。",
-      "en": "Tom is a graduate student.",
-      "zh_TW": "Tom is a graduate student.",
-      "zh_CN": "Tom is a graduate student.",
-      "ko": "Tom is a graduate student.",
-      "zh_HK": "Tom is a graduate student.",
-      "fr": "Tom is a graduate student."
+      "ja": "大学を卒業した後は<ruby>大学院<rt>だいがくいん</rt></ruby>に進学して、人工知能の研究を深めたいです。",
+      "en": "After graduating from university, I want to proceed to graduate school to deepen my research in AI.",
+      "zh_TW": "大學畢業後我想升學到研究所（大學院），深入研究人工智慧。",
+      "zh_CN": "大学毕业后我想考研深造，深入研究人工智能。",
+      "ko": "대학을 졸업한 후에는 대학원에 진학하여 인공지능 연구를 심화하고 싶습니다.",
+      "zh_HK": "大學畢業之後想讀Master上去研究所，深入研究人工智能。",
+      "fr": "Après mes études universitaires, je souhaite poursuivre en école doctorale pour approfondir mes recherches en IA."
     },
     "related": "だいがくいん（授業の重要表現）"
   },
@@ -8780,13 +8780,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "large portion / extra large serving / grande portion"
     },
     "example": {
-      "ja": "A: すみません、このラーメンを<ruby>大盛<rt>おおも</rt></ruby>りにできますか？<br/>B: はい、かしこまりました！<ruby>麺<rt>めん</rt></ruby>の<ruby>大盛<rt>おおも</rt></ruby>り<ruby>無料<rt>むりょう</rt></ruby>ですよ。",
-      "en": "A: Excuse me, can I have a larger portion of this ramen?<br/>B: Yes, it's cool! A large bowl of noodles is free.",
-      "zh_TW": "A：請問，這個拉麵能給我多一份嗎？<br/>B：是的，很酷！一大碗麵條免費。",
-      "zh_CN": "A：请问，这个拉面能给我多一份吗？<br/>B：是的，很酷！一大碗面条免费。",
-      "ko": "A : 죄송합니다,이라면을 담을 수 있습니까?<br/>B: 네, 멋지다! 국수가 가득 무료입니다.",
-      "zh_HK": "A：請問，這個拉麵能給我多一份嗎？<br/>B：是的，很酷！一大碗麵條免費。",
-      "fr": "A : Excusez-moi, puis-je avoir une plus grande portion de ce ramen ?<br/>B : Oui, c'est cool ! Un grand bol de nouilles est gratuit."
+      "ja": "この定食屋さんはランチタイムに麺の<ruby>大盛<rt>おおも</rt></ruby>りを無料でサービスしてくれます。",
+      "en": "This set-meal diner offers large portions of noodles free of charge during lunch hours.",
+      "zh_TW": "這家定食餐廳在午餐時段免費提供加大麵量的貼心服務。",
+      "zh_CN": "这家定食餐厅在午餐时段免费提供加大面量的贴心服务。",
+      "ko": "이 정식집은 점심시간에 면 곱빼기를 무료로 서비스해 줍니다.",
+      "zh_HK": "呢間日式定食小店喺午市嗰陣，可以免費幫你將個麵加大。",
+      "fr": "Ce restaurant de menus propose gratuitement une grande portion de nouilles pendant le déjeuner."
     },
     "related": "おおもり（授業の重要表現）"
   },
@@ -8948,13 +8948,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "grades / results / notes / résultats"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。",
-      "en": "He is doing fine in school.",
-      "zh_TW": "He is doing fine in school.",
-      "zh_CN": "He is doing fine in school.",
-      "ko": "He is doing fine in school.",
-      "zh_HK": "He is doing fine in school.",
-      "fr": "He is doing fine in school."
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby>コツコツ<ruby>努力<rt>どりょく</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>のテストで<ruby>良<rt>よ</rt></ruby>い<ruby>成績<rt>せいせき</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることができました。",
+      "en": "As a result of steady daily effort, I was able to get good grades on my Japanese tests.",
+      "zh_TW": "每天堅持努力的結果，讓我在日語考試中拿到了優異的成績。",
+      "zh_CN": "每天坚持努力的结果，让我在日语考试中拿到了优异的成绩。",
+      "ko": "매일 꾸준히 노력한 결과, 일본어 시험에서 좋은 성적을 받을 수 있었습니다.",
+      "zh_HK": "每日持之以恆努力溫書，終於喺日文考試攞到好成績。",
+      "fr": "Grâce à mes efforts réguliers chaque jour, j'ai pu obtenir de bonnes notes au test de japonais."
     },
     "related": "せいせき（授業の重要表現）"
   },
@@ -9188,13 +9188,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "song / music track / chanson / morceau de musique"
     },
     "example": {
-      "ja": "<ruby>一<rt>いち</rt></ruby><ruby>曲<rt>きょく</rt></ruby><ruby>聞<rt>き</rt></ruby>くか。",
-      "en": "Will you listen to a piece of music?",
-      "zh_TW": "Will you listen to a piece of music?",
-      "zh_CN": "Will you listen to a piece of music?",
-      "ko": "Will you listen to a piece of music?",
-      "zh_HK": "Will you listen to a piece of music?",
-      "fr": "Will you listen to a piece of music?"
+      "ja": "ピアノの<ruby>発表会<rt>はっぴょうかい</rt></ruby>で、<ruby>何<rt>なん</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>も<ruby>練習<rt>れんしゅう</rt></ruby>した<ruby>大好<rt>だいす</rt></ruby>きな<ruby>曲<rt>きょく</rt></ruby>を<ruby>演奏<rt>えんそう</rt></ruby>しました。",
+      "en": "At the piano recital, I played my favorite piece that I had practiced for months.",
+      "zh_TW": "在鋼琴發表會上，我演奏了苦練好幾個月的拿手曲目。",
+      "zh_CN": "在钢琴发表会上，我演奏了苦练好几个月的拿手曲目。",
+      "ko": "피아노 발표회에서 몇 달 동안 연습한 정말 좋아하는 곡을 연주했습니다.",
+      "zh_HK": "喺鋼琴演奏會上面，我彈奏咗練習咗幾個月、自己最鍾意嘅曲目。",
+      "fr": "Lors du récital de piano, j'ai joué mon morceau préféré que j'avais répété pendant des mois."
     },
     "related": "きょく（授業の重要表現）"
   },
@@ -9404,13 +9404,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "foreigner / foreign national / étranger / étrangère"
     },
     "example": {
-      "ja": "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>って<ruby>面白<rt>おもしろ</rt></ruby>いなあ。",
-      "en": "Foreign people intrigue me.",
-      "zh_TW": "Foreign people intrigue me.",
-      "zh_CN": "Foreign people intrigue me.",
-      "ko": "Foreign people intrigue me.",
-      "zh_HK": "Foreign people intrigue me.",
-      "fr": "Foreign people intrigue me."
+      "ja": "<ruby>浅草<rt>あさくさ</rt></ruby>や<ruby>京都<rt>きょうと</rt></ruby>などの<ruby>観光地<rt>かんこうち</rt></ruby>では、<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>多<rt>おお</rt></ruby>くの<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>観光客<rt>かんこうきゃく</rt></ruby>を<ruby>見<rt>み</rt></ruby>かけます。",
+      "en": "At sights like Asakusa and Kyoto, you see many foreign tourists enjoying Japanese culture.",
+      "zh_TW": "在淺草和京都等觀光勝地，可以看到許多外國觀光客盡情體驗日本文化。",
+      "zh_CN": "在浅草和京都等观光胜地，可以看到许多外国观光客尽情体验日本文化。",
+      "ko": "아사쿠사나 교토 같은 관광지에서는 일본 문화를 즐기는 많은 외국인 관광객들을 볼 수 있습니다.",
+      "zh_HK": "喺淺草或者京都等旅遊景點，經常見到好多外國遊客體驗同欣賞日本文化。",
+      "fr": "Dans des sites touristiques comme Asakusa ou Kyoto, on croise de nombreux touristes étrangers qui découvrent la culture japonaise."
     },
     "related": "がいこくじん（授業の重要表現）"
   },
@@ -9548,13 +9548,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "to borrow / to rent / emprunter / louer"
     },
     "example": {
-      "ja": "<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りる<ruby>事<rt>こと</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ますか。",
-      "en": "Is it possible to rent equipment?",
-      "zh_TW": "Is it possible to rent equipment?",
-      "zh_CN": "Is it possible to rent equipment?",
-      "ko": "Is it possible to rent equipment?",
-      "zh_HK": "Is it possible to rent equipment?",
-      "fr": "Is it possible to rent equipment?"
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>にゆっくり<ruby>読<rt>よ</rt></ruby>むために、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>の<ruby>小説<rt>しょうせつ</rt></ruby>を3<ruby>冊<rt>さつ</rt></ruby><ruby>借<rt>か</rt></ruby>りました。",
+      "en": "To read at leisure over the weekend, I borrowed three popular novels from the local library.",
+      "zh_TW": "為了趁週末好好閱讀，我去附近的圖書館借了三本話題熱門的小說。",
+      "zh_CN": "为了趁周末好好阅读，我去附近的图书馆借了三本话题热门的小说。",
+      "ko": "주말에 느긋하게 읽기 위해 동네 도서관에서 화제의 소설 3권을 빌렸습니다.",
+      "zh_HK": "為咗放假可以好好睇書，我去咗附近圖書館借咗三本熱門小說返嚟睇。",
+      "fr": "Pour lire tranquillement ce week-end, j'ai emprunté trois romans populaires à la bibliothèque du quartier."
     },
     "related": "かりる（授業の重要表現）"
   },
@@ -9668,13 +9668,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "divorce / divorcer"
     },
     "example": {
-      "ja": "<ruby>離婚<rt>りこん</rt></ruby>するの？",
-      "en": "Are you getting divorced?",
-      "zh_TW": "Are you getting divorced?",
-      "zh_CN": "Are you getting divorced?",
-      "ko": "Are you getting divorced?",
-      "zh_HK": "Are you getting divorced?",
-      "fr": "Are you getting divorced?"
+      "ja": "お互いの将来のために話し合いを重ね、円満に<ruby>離婚<rt>りこん</rt></ruby>することに決めました。",
+      "en": "Through repeated discussions for each other's future, they decided to divorce amicably.",
+      "zh_TW": "為了彼此的未來反覆溝通討論，最後決定和平協議離婚。",
+      "zh_CN": "为了彼此的未来反复沟通讨论，最后决定和平协议离婚。",
+      "ko": "서로의 미래를 위해 대화를 거듭한 끝에 원만하게 이혼하기로 결정했습니다.",
+      "zh_HK": "為咗大家嘅將來傾過好多次，最後決定和平離婚。",
+      "fr": "Après de longues discussions pour l’avenir de chacun, ils ont décidé de divorcer à l’amiable."
     },
     "related": "りこん（授業の重要表現）"
   },
@@ -9716,13 +9716,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "anniversary / commemoration day / anniversaire / jour commémoratif"
     },
     "example": {
-      "ja": "A: <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>はレストランでお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>予定<rt>よてい</rt></ruby>ですか？<br/>B: はい、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>なので<ruby>静<rt>しず</rt></ruby>かなお<ruby>店<rt>みせ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。",
-      "en": "A: Are you planning to celebrate your wedding anniversary next week at a restaurant?<br/>B: Yes, it's a special anniversary, so I reserved a quiet restaurant.",
-      "zh_TW": "A：你打算下週在餐廳慶祝結婚紀念日嗎？<br/>B：是的，今天是一個特別的周年紀念日，所以我預訂了一家安靜的餐廳。",
-      "zh_CN": "A：你打算下周在餐馆庆祝结婚纪念日吗？<br/>B：是的，今天是一个特殊的周年纪念日，所以我预订了一家安静的餐厅。",
-      "ko": "A: 다음 주 결혼 기념일은 레스토랑에서 축하할 예정입니까?<br/>B : 네, 특별한 기념일이므로 조용한 가게를 예약했습니다.",
-      "zh_HK": "A：你打算下週在餐廳慶祝結婚紀念日嗎？<br/>B：是的，今天是一個特別的周年紀念日，所以我預訂了一家安靜的餐廳。",
-      "fr": "A : Envisagez-vous de célébrer votre anniversaire de mariage la semaine prochaine dans un restaurant ?<br/>B : Oui, c'est un anniversaire spécial, alors j'ai réservé un restaurant tranquille."
+      "ja": "お<ruby>互<rt>たが</rt></ruby>いの<ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>をカレンダーに<ruby>書<rt>か</rt></ruby>き<ruby>込<rt>こ</rt></ruby>んで、<ruby>毎年<rt>まいとし</rt></ruby><ruby>大切<rt>たいせつ</rt></ruby>にお<ruby>祝<rt>いわ</rt></ruby>いしています。",
+      "en": "We write down our anniversaries on the calendar and celebrate them with care every year.",
+      "zh_TW": "我們把彼此重要的紀念日都記在行事曆上，每一年都用心慶祝。",
+      "zh_CN": "我们把彼此重要的纪念日都记在日历上，每一年都用心庆祝。",
+      "ko": "서로의 기념일을 달력에 적어두고 매년 소중하게 축하하고 있습니다.",
+      "zh_HK": "我哋將大家嘅重要紀念日MARK定喺月曆上面，每年都好用心慶祝。",
+      "fr": "Nous notons nos anniversaires sur le calendrier et prenons soin de les célébrer chaleureusement chaque année."
     },
     "related": "きねんび（授業の重要表現）"
   },
@@ -9740,13 +9740,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "fire (accident) / incendie"
     },
     "example": {
-      "ja": "<ruby>家<rt>いえ</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>だ。",
-      "en": "The house is on fire!",
-      "zh_TW": "The house is on fire!",
-      "zh_CN": "The house is on fire!",
-      "ko": "The house is on fire!",
-      "zh_HK": "The house is on fire!",
-      "fr": "The house is on fire!"
+      "ja": "近所で<ruby>火事<rt>かじ</rt></ruby>が起きたときのために、消火器の場所を日頃から確認しています。",
+      "en": "In case a fire breaks out in the neighborhood, I regularly check where the fire extinguishers are.",
+      "zh_TW": "為了預防附近發生火災，平時我都會確認滅火器的擺放位置。",
+      "zh_CN": "为了预防附近发生火灾，平时我都会确认灭火器的摆放位置。",
+      "ko": "이웃에서 화재가 발생할 때를 대비해 평소에 소화기 위치를 확인해 두고 있습니다.",
+      "zh_HK": "為咗預防附近有火警，平時都有留意滅火筒放喺邊。",
+      "fr": "En cas d’incendie dans le quartier, je vérifie régulièrement où se trouvent les extincteurs."
     },
     "related": "かじ（授業の重要表現）"
   },
@@ -10389,13 +10389,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "long time no see / it's been a while / ça fait longtemps"
     },
     "example": {
-      "ja": "お<ruby>久<rt>ひさ</rt></ruby>しぶり。",
-      "en": "Long time, no see.",
-      "zh_TW": "Long time, no see.",
-      "zh_CN": "Long time, no see.",
-      "ko": "Long time, no see.",
-      "zh_HK": "Long time, no see.",
-      "fr": "Long time, no see."
+      "ja": "同窓会で高校時代の親友と<ruby>久しぶり<rt>ひさしぶり</rt></ruby>に再会して、昔話に花が咲きました。",
+      "en": "At the class reunion, I reunited with my high school best friend after a long time and chatted excitedly about old memories.",
+      "zh_TW": "在同學會上和高中時的摯友久別重逢，熱絡地聊起以前的往事。",
+      "zh_CN": "在同学会上和高中时的挚友久别重逢，热络地聊起以前的往事。",
+      "ko": "동창회에서 고등학교 시절 절친과 오랜만에 다시 만나 옛날이야기로 꽃을 피웠습니다.",
+      "zh_HK": "喺舊生聚會見返中學最好嘅朋友，大家講返以前啲嘢傾得好開心。",
+      "fr": "Lors de la réunion des anciens élèves, j’ai retrouvé après longtemps mon meilleur ami du lycée et nous avons évoqué nos souvenirs avec émotion."
     },
     "related": "ひさしぶり（授業の重要表現）"
   },
@@ -10702,13 +10702,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "busy / occupé(e)"
     },
     "example": {
-      "ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。",
-      "en": "I'm busy.",
-      "zh_TW": "I'm busy.",
-      "zh_CN": "I'm busy.",
-      "ko": "I'm busy.",
-      "zh_HK": "I'm busy.",
-      "fr": "I'm busy."
+      "ja": "<ruby>年末<rt>ねんまつ</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>の<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りが<ruby>重<rt>かさ</rt></ruby>なって<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>忙<rt>いそが</rt></ruby>しいですが、<ruby>体調<rt>たいちょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて<ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>ります。",
+      "en": "At year-end deadlines pile up and it's extremely busy, but I'll watch my health and do my best.",
+      "zh_TW": "年底各種工作期限接踵而至非常繁忙，但我會保重身體繼續加油。",
+      "zh_CN": "年底各种工作期限接踵而至非常繁忙，但我会保重身体继续加油。",
+      "ko": "연말에는 마감일이 겹쳐 무척 바쁘지만, 건강 관리에 유의하며 힘내고 있습니다.",
+      "zh_HK": "年尾啲deadline全部疊埋一齊好忙，不過我會睇實身體繼續頂住。",
+      "fr": "En fin d'année, les échéances s'accumulent et c'est très intense, mais je prends soin de ma santé et fais de mon mieux."
     },
     "related": "いそがしい（授業の重要表現）"
   },
@@ -10774,13 +10774,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "graduate school / études supérieures"
     },
     "example": {
-      "ja": "トムは<ruby>大学院生<rt>だいがくいんせい</rt></ruby>です。",
-      "en": "Tom is a graduate student.",
-      "zh_TW": "Tom is a graduate student.",
-      "zh_CN": "Tom is a graduate student.",
-      "ko": "Tom is a graduate student.",
-      "zh_HK": "Tom is a graduate student.",
-      "fr": "Tom is a graduate student."
+      "ja": "彼は働きながら夜間の<ruby>大学院<rt>だいがくいん</rt></ruby>に通い、MBAの学位を取得しました。",
+      "en": "While working, he attended night graduate school and earned an MBA degree.",
+      "zh_TW": "他一邊工作一邊就讀夜間研究所，順利取得了MBA企管碩士學位。",
+      "zh_CN": "他一边工作一边就读夜间研究所，顺利取得了MBA工商管理硕士学位。",
+      "ko": "그는 일하면서 야간 대학원에 다녀서 MBA 학위를 취득했습니다.",
+      "zh_HK": "佢一邊返工一邊讀夜校讀Master，順利攞咗個MBA學位。",
+      "fr": "Tout en travaillant, il a suivi des cours du soir à l’université et a obtenu un MBA."
     },
     "related": "だいがくいん（授業の重要表現）"
   },
@@ -10798,13 +10798,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "to enter school / to enroll / s'inscrire / entrer à l'école"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>裏口<rt>うらぐち</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>した。",
-      "en": "He bought his way into college.",
-      "zh_TW": "He bought his way into college.",
-      "zh_CN": "He bought his way into college.",
-      "ko": "He bought his way into college.",
-      "zh_HK": "He bought his way into college.",
-      "fr": "He bought his way into college."
+      "ja": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したおかげで、<ruby>憧<rt>あこが</rt></ruby>れの<ruby>第一<rt>だいいち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>無事<rt>ぶじ</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>することができました。",
+      "en": "Thanks to studying my hardest, I was successfully able to enter my dream first-choice university.",
+      "zh_TW": "多虧付出了全心全力的努力讀書，我順利考進了夢寐以求的第一志願大學。",
+      "zh_CN": "多亏付出了全心全力的努力读书，我顺利考进了梦寐以求的第一志愿大学。",
+      "ko": "열심히 공부한 덕분에 꿈에 그리던 제1지망 대학교에 무사히 입학할 수 있었습니다.",
+      "zh_HK": "好彩平時搏命溫書，終於順利入讀我夢寐以求嘅第一志願大學。",
+      "fr": "Grâce à mon travail acharné, j'ai pu intégrer avec succès l'université de mes rêves, mon premier choix."
     },
     "related": "にゅうがくする（授業の重要表現）"
   },
@@ -11038,13 +11038,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "health / healthy / santé / en bonne santé"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>だ。",
-      "en": "He enjoys good health.",
-      "zh_TW": "He enjoys good health.",
-      "zh_CN": "He enjoys good health.",
-      "ko": "He enjoys good health.",
-      "zh_HK": "He enjoys good health.",
-      "fr": "He enjoys good health."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、バランスのよい<ruby>食事<rt>しょくじ</rt></ruby>と<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>のウォーキングを<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "en": "To maintain my health, I keep in mind balanced meals and walking 30 minutes every day.",
+      "zh_TW": "為了維持身體健康，我平時注重均衡飲食，並堅持每天快走30分鐘。",
+      "zh_CN": "为了维持身体健康，我平时注重均衡饮食，并坚持每天快走30分钟。",
+      "ko": "건강을 유지하기 위해 균형 잡힌 식사와 매일 30분씩 걷기를 실천하고 있습니다.",
+      "zh_HK": "為咗保持健康，我平日飲食好均衡，仲堅持每日行路快步走半個鐘頭。",
+      "fr": "Pour garder la santé, je veille à avoir une alimentation équilibrée et je marche 30 minutes chaque jour."
     },
     "related": "けんこう（授業の重要表現）"
   },
@@ -11086,13 +11086,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "grandchild / petit-enfant"
     },
     "example": {
-      "ja": "<ruby>孫<rt>まご</rt></ruby>はいないよ。",
-      "en": "I don't have grandchildren.",
-      "zh_TW": "I don't have grandchildren.",
-      "zh_CN": "I don't have grandchildren.",
-      "ko": "I don't have grandchildren.",
-      "zh_HK": "I don't have grandchildren.",
-      "fr": "I don't have grandchildren."
+      "ja": "祖父母は週末に可愛い<ruby>孫<rt>まご</rt></ruby>たちが遊びに来るのを何より楽しみにしています。",
+      "en": "My grandparents look forward to their adorable grandchildren coming over to play on the weekend above all else.",
+      "zh_TW": "祖父母最期待的事情，莫過於週末看到可愛的孫子們來家裡玩了。",
+      "zh_CN": "祖父母最期待的事情，莫过于周末看到可爱的孙辈们来家里玩了。",
+      "ko": "조부모님은 주말에 귀여운 손주들이 놀러 오는 것을 무엇보다 기대하고 계십니다.",
+      "zh_HK": "阿爺阿嫲最期待就係週末見到啲得意乖孫過嚟玩。",
+      "fr": "Mes grands-parents attendent par-dessus tout que leurs adorables petits-enfants viennent jouer le week-end."
     },
     "related": "まご（授業の重要表現）"
   },
@@ -11134,13 +11134,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "progress / advancement / progrès / avancement"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>思想<rt>しそう</rt></ruby>は<ruby>進歩<rt>しんぽ</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。",
-      "en": "His thought is progressive.",
-      "zh_TW": "His thought is progressive.",
-      "zh_CN": "His thought is progressive.",
-      "ko": "His thought is progressive.",
-      "zh_HK": "His thought is progressive.",
-      "fr": "His thought is progressive."
+      "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>目覚<rt>めざ</rt></ruby>ましい<ruby>進歩<rt>しんぽ</rt></ruby>によって、<ruby>多<rt>おお</rt></ruby>くの<ruby>難病<rt>なんびょう</rt></ruby>が<ruby>治療<rt>ちりょう</rt></ruby>できるようになりました。",
+      "en": "Thanks to remarkable progress in medical technology, many intractable diseases can now be treated.",
+      "zh_TW": "隨著醫療技術的顯著進步，許多疑難雜症如今都能得到妥善治療。",
+      "zh_CN": "随着医疗技术的显著进步，许多疑难杂症如今都能得到妥善治疗。",
+      "ko": "의료 기술의 눈부신 진보로 인해 수많은 난치병을 치료할 수 있게 되었습니다.",
+      "zh_HK": "醫療科技日新月異嘅進步，令到好多以前難醫嘅病都可以醫得返。",
+      "fr": "Grâce aux progrès remarquables de la technologie médicale, de nombreuses maladies incurables peuvent désormais être soignées."
     },
     "related": "しんぽ（授業の重要表現）"
   },
@@ -11447,13 +11447,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "characteristic / feature / trait / caractéristique / trait distinctif"
     },
     "example": {
-      "ja": "<ruby>熱情<rt>ねつじょう</rt></ruby>が<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。",
-      "en": "Passion is one of her characteristics.",
-      "zh_TW": "Passion is one of her characteristics.",
-      "zh_CN": "Passion is one of her characteristics.",
-      "ko": "Passion is one of her characteristics.",
-      "zh_HK": "Passion is one of her characteristics.",
-      "fr": "Passion is one of her characteristics."
+      "ja": "このスマートフォンの<ruby>大<rt>おお</rt></ruby>きな<ruby>特徴<rt>とくちょう</rt></ruby>は、<ruby>暗<rt>くら</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>でもクリアに<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるカメラです。",
+      "en": "A major feature of this smartphone is its camera that takes crystal-clear photos even in dark places.",
+      "zh_TW": "這款智慧型手機的一大特點，在於即使在暗處也能拍出清晰照片的優質相機。",
+      "zh_CN": "这款智能手机的一大特点，在于即使在暗处也能拍出清晰照片的优质相机。",
+      "ko": "이 스마트폰의 가장 큰 특징은 어두운 곳에서도 선명한 사진을 찍을 수 있는 카메라입니다.",
+      "zh_HK": "呢部智能電話嘅最大特色，就係喺好暗嘅地方都影得出好清嘅相片。",
+      "fr": "Le grand point fort de ce smartphone est son appareil photo qui prend des clichés très nets même dans l'obscurité."
     },
     "related": "とくちょう（授業の重要表現）"
   },
@@ -11495,13 +11495,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "acting / performance / jeu d'acteur / performance"
     },
     "example": {
-      "ja": "<ruby>演技<rt>えんぎ</rt></ruby>はじめ！",
-      "en": "Action!",
-      "zh_TW": "Action!",
-      "zh_CN": "Action!",
-      "ko": "Action!",
-      "zh_HK": "Action!",
-      "fr": "Action!"
+      "ja": "劇団の舞台役者たちの迫真の<ruby>演技<rt>えんぎ</rt></ruby>に、会場全体が息を呑んで見入っていました。",
+      "en": "The entire audience held their breath and watched the theater actors' powerful, realistic performance.",
+      "zh_TW": "劇團舞台演員們逼真的精彩演技，讓全場觀眾都屏息凝神地看入迷了。",
+      "zh_CN": "剧团舞台演员们逼真的精彩演技，让全场观众都屏息凝神地看入迷了。",
+      "ko": "극단 배우들의 박진감 넘치는 연기에 온 객석이 숨을 죽이고 몰입했습니다.",
+      "zh_HK": "劇團演員逼真嘅演技，令全場觀眾都睇到停唔到口。",
+      "fr": "L’ensemble du public retenait son souffle, captivé par le jeu magistral des comédiens."
     },
     "related": "えんぎ（授業の重要表現）"
   },
@@ -11687,13 +11687,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "notes, résultats (notes, résultats)"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。",
-      "en": "He is doing fine in school.",
-      "zh_TW": "He is doing fine in school.",
-      "zh_CN": "He is doing fine in school.",
-      "ko": "He is doing fine in school.",
-      "zh_HK": "He is doing fine in school.",
-      "fr": "He is doing fine in school."
+      "ja": "<ruby>期末<rt>きまつ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>表が返ってきて、<ruby>苦手<rt>にがて</rt></ruby>だった科目の点数も上がっていました。",
+      "en": "When my final exam report card came back, my score in my weakest subject had improved as well.",
+      "zh_TW": "期末考成績單發下來了，連我原本不擅長的科目分數也進步了。",
+      "zh_CN": "期末考成绩单发下来了，连我原本不擅长的科目分数也提高了。",
+      "ko": "기말시험 성적표를 받았는데, 자신 없었던 과목의 점수도 올라 있었습니다.",
+      "zh_HK": "期末考成績單派返嚟喇，連平時最弱嗰科嘅分數都進步咗。",
+      "fr": "Le bulletin des examens finaux est arrivé et mes notes dans ma matière faible ont aussi augmenté."
     },
     "related": "せいせき（授業の重要表現）"
   },
@@ -12120,13 +12120,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "un peu / un peu"
     },
     "example": {
-      "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れた。",
-      "en": "I'm a bit tired.",
-      "zh_TW": "I'm a bit tired.",
-      "zh_CN": "I'm a bit tired.",
-      "ko": "I'm a bit tired.",
-      "zh_HK": "I'm a bit tired.",
-      "fr": "I'm a bit tired."
+      "ja": "長時間のパソコン作業で目が<ruby>少し<rt>すこし</rt></ruby>疲れたので、遠くの緑を眺めました。",
+      "en": "My eyes got a little tired from long computer work, so I gazed at the distant greenery.",
+      "zh_TW": "用電腦工作很久眼睛稍微有點累，所以我看向遠方的綠色植物放鬆一下。",
+      "zh_CN": "用电脑工作很久眼睛稍微有点累，所以我看向远方的绿色植物放松一下。",
+      "ko": "오랜 컴퓨터 작업으로 눈이 조금 피로해서 먼 곳의 초록빛 풍경을 바라보았습니다.",
+      "zh_HK": "用咗好耐電腦對眼有少少攰，所以望下遠處嘅綠色植物放鬆下。",
+      "fr": "Mes yeux étant un peu fatigués après avoir travaillé longtemps sur ordinateur, j’ai regardé la verdure au loin."
     },
     "related": "すこし（授業の重要表現）"
   },
@@ -12144,13 +12144,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "petite amie"
     },
     "example": {
-      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。",
-      "en": "She walks.",
-      "zh_TW": "She walks.",
-      "zh_CN": "She walks.",
-      "ko": "She walks.",
-      "zh_HK": "She walks.",
-      "fr": "She walks."
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>明<rt>あか</rt></ruby>るい<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>してくれるので、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>を元気にします。",
+      "en": "She always greets everyone with a bright smile, which cheers up those around her.",
+      "zh_TW": "她總是帶著開朗的笑容向大家打招呼，讓周圍的人都充滿了元氣。",
+      "zh_CN": "她总是带着开朗的笑容向大家打招呼，让周围的人都充满了元气。",
+      "ko": "그녀는 언제나 밝은 미소로 인사해 주어서 주위 사람들에게 활력을 줍니다.",
+      "zh_HK": "佢成日都帶住甜美開朗嘅笑容同人打招呼，令身邊嘅人都好有正能量。",
+      "fr": "Elle dit toujours bonjour avec un sourire éclatant, ce qui met tout le monde de bonne humeur."
     },
     "related": "かのじょ（授業の重要表現）"
   },
@@ -12216,13 +12216,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "examen / test / examen"
     },
     "example": {
-      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だ。",
-      "en": "The exam is coming up next week.",
-      "zh_TW": "The exam is coming up next week.",
-      "zh_CN": "The exam is coming up next week.",
-      "ko": "The exam is coming up next week.",
-      "zh_HK": "The exam is coming up next week.",
-      "fr": "The exam is coming up next week."
+      "ja": "JLPTの<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するため、<ruby>毎日<rt>まいにち</rt></ruby>2<ruby>時間<rt>じかん</rt></ruby>集中して<ruby>過去問<rt>かこもん</rt></ruby>を<ruby>解<rt>と</rt></ruby>いています。",
+      "en": "To pass the JLPT exam, I focus on solving past test papers for two hours every day.",
+      "zh_TW": "為了順利通過JLPT檢定考試，我每天都全神貫注花兩小時練習歷屆考古題。",
+      "zh_CN": "为了顺利通过JLPT检定考试，我每天都全神贯注花两小时练习历届真题。",
+      "ko": "JLPT 시험에 합격하기 위해 매일 2시간씩 집중해서 기출문제를 풀고 있습니다.",
+      "zh_HK": "為咗考到JLPT證書，我每日都好專心溫兩個鐘頭歷屆試題題庫。",
+      "fr": "Pour réussir l'examen du JLPT, je résous des annales d'examen de manière concentrée deux heures par jour."
     },
     "related": "しけん（授業の重要表現）"
   },
@@ -12313,13 +12313,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "porc"
     },
     "example": {
-      "ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。",
-      "en": "Pork doesn't agree with me.",
-      "zh_TW": "Pork doesn't agree with me.",
-      "zh_CN": "Pork doesn't agree with me.",
-      "ko": "Pork doesn't agree with me.",
-      "zh_HK": "Pork doesn't agree with me.",
-      "fr": "Pork doesn't agree with me."
+      "ja": "このラーメンのスープは、<ruby>豚肉<rt>ぶたにく</rt></ruby>の<ruby>旨味<rt>うまみ</rt></ruby>がしっかり<ruby>溶<rt>と</rt></ruby>け<ruby>込<rt>こ</rt></ruby>んでいてとても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "en": "The broth of this ramen is delicious, deeply infused with the savory flavors of pork.",
+      "zh_TW": "這碗拉麵的湯頭充分融入了豬肉的鮮甜旨味，非常美味。",
+      "zh_CN": "这碗拉面的汤头充分融入了猪肉的鲜甜旨味，非常美味。",
+      "ko": "이 라멘 국물은 돼지고기의 감칠맛이 듬뿍 우러나 아주 맛있습니다.",
+      "zh_HK": "呢碗拉麵嘅湯底有好濃郁嘅豬肉鮮甜味，真係好正。",
+      "fr": "Le bouillon de ce ramen est délicieux, imprégné de toute la saveur du porc."
     },
     "related": "ぶたにく（授業の重要表現）"
   },
@@ -12385,13 +12385,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "préfectures du Japon"
     },
     "example": {
-      "ja": "A: <ruby>日本<rt>にほん</rt></ruby>の47<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、どこに<ruby>行<rt>い</rt></ruby>ってみたいですか？<br/>B: <ruby>北海道<rt>ほっかいどう</rt></ruby>と<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>をゆっくり<ruby>旅<rt>たび</rt></ruby>してみたいです。",
-      "en": "A: Which of Japan's 47 prefectures would you like to visit?<br/>B: I would like to travel slowly through the prefectures of Hokkaido and Okinawa.",
-      "zh_TW": "A：您想去日本 47 個都道府縣中的哪一個？<br/>B：我想慢慢地穿越北海道和沖繩縣。",
-      "zh_CN": "A：您想去日本 47 个都道府县中的哪一个？<br/>B：我想慢慢地穿越北海道和冲绳县。",
-      "ko": "A: 일본의 47도도부현 중 어디로 가보고 싶습니까?<br/>B: 홋카이도와 오키나와의 도도부현을 천천히 여행하고 싶습니다.",
-      "zh_HK": "A：您想去日本 47 個都道府縣中的哪一個？<br/>B：我想慢慢地穿越北海道和沖繩縣。",
-      "fr": "A : Laquelle des 47 préfectures du Japon aimeriez-vous visiter ?<br/>B : J'aimerais voyager lentement à travers les préfectures d'Hokkaido et d'Okinawa."
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きで、これまでに<ruby>日本<rt>にほん</rt></ruby>の30<ruby>以上<rt>いじょう</rt></ruby>の<ruby>都道府県<rt>とどうふけん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れたことがあります。",
+      "en": "I love traveling, and so far I have visited more than 30 prefectures across Japan.",
+      "zh_TW": "我非常熱愛旅行，到目前為止已經走訪過全日本30多個都道府縣了。",
+      "zh_CN": "我非常热爱旅行，到目前为止已经走访过全日本30多个都道府县了。",
+      "ko": "여행을 좋아해서 지금까지 일본의 30곳이 넘는 도도부현을 방문해 보았습니다.",
+      "zh_HK": "我好鍾意去旅行，到而家為止已經去過日本超過30個都道府縣玩過喇。",
+      "fr": "J'adore voyager et j'ai déjà visité plus de 30 préfectures différentes au Japon jusqu'à présent."
     },
     "related": "とどうふけん（授業の重要表現）"
   },
@@ -12505,13 +12505,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "musique"
     },
     "example": {
-      "ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？",
-      "en": "Are you fond of music?",
-      "zh_TW": "Are you fond of music?",
-      "zh_CN": "Are you fond of music?",
-      "ko": "Are you fond of music?",
-      "zh_HK": "Are you fond of music?",
-      "fr": "Are you fond of music?"
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、スマートフォンでお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>いています。",
+      "en": "On the train during my morning commute, I listen to my favorite music on my smartphone.",
+      "zh_TW": "每天早上的通勤電車上，我都用手機聽著喜愛的音樂。",
+      "zh_CN": "每天早上的通勤电车上，我都用手机听着喜爱的音乐。",
+      "ko": "매일 아침 출근 전철 안에서 스마트폰으로 좋아하는 음악을 듣습니다.",
+      "zh_HK": "每日朝早搭車返工嗰陣，我都會用手機聽住我最鍾意嘅音樂。",
+      "fr": "Tous les matins dans le train pour aller au travail, j'écoute ma musique préférée sur mon smartphone."
     },
     "related": "おんがく（授業の重要表現）"
   },
@@ -12601,13 +12601,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "à proximité ; à proximité"
     },
     "example": {
-      "ja": "７<ruby>時<rt>じ</rt></ruby><ruby>近<rt>ちか</rt></ruby>くだ。",
-      "en": "It is close to seven o'clock.",
-      "zh_TW": "It is close to seven o'clock.",
-      "zh_CN": "It is close to seven o'clock.",
-      "ko": "It is close to seven o'clock.",
-      "zh_HK": "It is close to seven o'clock.",
-      "fr": "It is close to seven o'clock."
+      "ja": "駅の<ruby>近く<rt>ちかく</rt></ruby>に新しくできたスーパーは、品揃えが豊富でとても便利です。",
+      "en": "The new supermarket built near the station has a great selection and is very convenient.",
+      "zh_TW": "車站附近新開的超市商品種類豐富，非常方便。",
+      "zh_CN": "车站附近新开的超市商品种类丰富，非常方便。",
+      "ko": "역 근처에 새로 생긴 마트는 상품이 다양해서 아주 편리합니다.",
+      "zh_HK": "火車站附近新開嘅超級市場好多嘢買，好方便。",
+      "fr": "Le nouveau supermarché ouvert près de la gare offre un large choix et est très pratique."
     },
     "related": "ちかく（授業の重要表現）"
   },
@@ -12625,13 +12625,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "hauteur (mesure)"
     },
     "example": {
-      "ja": "<ruby>身長<rt>しんちょう</rt></ruby><ruby>何<rt>なん</rt></ruby>センチ？",
-      "en": "How tall are you?",
-      "zh_TW": "How tall are you?",
-      "zh_CN": "How tall are you?",
-      "ko": "How tall are you?",
-      "zh_HK": "How tall are you?",
-      "fr": "How tall are you?"
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>で、<ruby>体重<rt>たいじゅう</rt></ruby>だけでなく<ruby>正確<rt>せいかく</rt></ruby>な<ruby>身長<rt>しんちょう</rt></ruby>も<ruby>測<rt>はか</rt></ruby>ってもらいました。",
+      "en": "At my annual health checkup, they accurately measured not only my weight but my height as well.",
+      "zh_TW": "在每年的健康檢查中，除了體重之外也會測量準確的身高。",
+      "zh_CN": "在每年的健康检查中，除了体重之外也会测量准确的身高。",
+      "ko": "매년 정기 건강검진에서 몸무게뿐만 아니라 정확한 신장도 측정받았습니다.",
+      "zh_HK": "每年做全身身體檢查嗰陣，除咗量體重仲會精確噉度埋身高。",
+      "fr": "Lors de mon bilan de santé annuel, on a mesuré avec précision mon poids ainsi que ma taille."
     },
     "related": "しんちょう（授業の重要表現）"
   },
@@ -12697,13 +12697,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ville natale; d'où l'on vient"
     },
     "example": {
-      "ja": "<ruby>地元<rt>じもと</rt></ruby>のチームは<ruby>勝<rt>か</rt></ruby>った。",
-      "en": "The home team won.",
-      "zh_TW": "The home team won.",
-      "zh_CN": "The home team won.",
-      "ko": "The home team won.",
-      "zh_HK": "The home team won.",
-      "fr": "The home team won."
+      "ja": "<ruby>地元<rt>じもと</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>を使った<ruby>郷土<rt>きょうど</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>は、<ruby>観光客<rt>かんこうきゃく</rt></ruby>にも<ruby>大人気<rt>だいにんき</rt></ruby>です。",
+      "en": "Local dishes made with fresh local vegetables are also wildly popular among tourists.",
+      "zh_TW": "使用在地新鮮蔬菜烹煮的在地特色料理，在觀光客之間也非常受歡迎。",
+      "zh_CN": "使用当地新鲜蔬菜烹煮的当地特色料理，在观光客之间也非常受欢迎。",
+      "ko": "현지의 신선한 채소로 만든 향토 요리는 관광객들에게도 인기가 아주 많습니다.",
+      "zh_HK": "用本地新鮮時令蔬菜煮嘅地道鄉土菜，喺遊客心目中都好受歡迎。",
+      "fr": "Les spécialités régionales à base de légumes locaux frais sont également très prisées des touristes."
     },
     "related": "じもと（授業の重要表現）"
   },
@@ -13129,13 +13129,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "emprunter"
     },
     "example": {
-      "ja": "<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りる<ruby>事<rt>こと</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ますか。",
-      "en": "Is it possible to rent equipment?",
-      "zh_TW": "Is it possible to rent equipment?",
-      "zh_CN": "Is it possible to rent equipment?",
-      "ko": "Is it possible to rent equipment?",
-      "zh_HK": "Is it possible to rent equipment?",
-      "fr": "Is it possible to rent equipment?"
+      "ja": "「<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたので、<ruby>傘<rt>かさ</rt></ruby>を1<ruby>本<rt>ぽん</rt></ruby>お<ruby>借<rt>か</rt></ruby>りしてもいいですか？」「はい、どうぞ！」",
+      "en": "'It suddenly started raining, may I borrow an umbrella?' 'Yes, please go ahead!'",
+      "zh_TW": "「突然下起雨來了，請問可以向您借一把傘嗎？」「好的，請拿去用吧！」",
+      "zh_CN": "“突然下起雨来了，请问可以向您借一把伞吗？”“好的，请拿去用吧！”",
+      "ko": "'갑자기 비가 쏟아져서 그런데, 우산 하나 빌릴 수 있을까요?' '네, 여기 있습니다!'",
+      "zh_HK": "「突然落大雨，唔該可唔可以借把遮俾我用呀？」「好呀，拎去用啦！」",
+      "fr": "'Il s'est mis à pleuvoir tout à coup, puis-je vous emprunter un parapluie ?' 'Oui, bien sûr, prenez-le !'"
     },
     "related": "かりる（授業の重要表現）"
   },
@@ -13177,13 +13177,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "expérience"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>だ。",
-      "en": "He is lacking in experience.",
-      "zh_TW": "He is lacking in experience.",
-      "zh_CN": "He is lacking in experience.",
-      "ko": "He is lacking in experience.",
-      "zh_HK": "He is lacking in experience.",
-      "fr": "He is lacking in experience."
+      "ja": "<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>に<ruby>海外<rt>かいがい</rt></ruby>でボランティアをした<ruby>経験<rt>けいけん</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>です。",
+      "en": "The experience of volunteering overseas during my student days is my precious treasure.",
+      "zh_TW": "學生時代在海外擔任志工的經驗，是我人生中不可多得的珍貴寶物。",
+      "zh_CN": "学生时代在海外担任志愿者的经验，是我人生中不可多得的珍贵宝物。",
+      "ko": "학창 시절 해외에서 자원봉사를 했던 경험은 저에게 아주 소중한 보물입니다.",
+      "zh_HK": "讀書嗰陣去外國做義工嘅經歷，係我人生中最珍貴嘅寶物。",
+      "fr": "L'expérience de bénévolat à l'étranger pendant mes années d'études est un précieux trésor pour moi."
     },
     "related": "けいけん（授業の重要表現）"
   },
@@ -13225,13 +13225,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "été"
     },
     "example": {
-      "ja": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>過<rt>す</rt></ruby>ぎた。",
-      "en": "The summer is over.",
-      "zh_TW": "The summer is over.",
-      "zh_CN": "The summer is over.",
-      "ko": "The summer is over.",
-      "zh_HK": "The summer is over.",
-      "fr": "The summer is over."
+      "ja": "日本の<ruby>夏<rt>なつ</rt></ruby>は湿度が高くて蒸し暑いので、こまめに水分補給をします。",
+      "en": "Summer in Japan has high humidity and is muggy, so I hydrate frequently.",
+      "zh_TW": "日本的夏天濕度高又悶熱，要常常補充水分以防中暑。",
+      "zh_CN": "日本的夏天湿度高又闷热，要经常补充水分以防中暑。",
+      "ko": "일본의 여름은 습도가 높고 무더워서 수분을 자주 섭취합니다.",
+      "zh_HK": "日本嘅夏天濕氣好重又悶熱，要記得成日飲水。",
+      "fr": "L’été au Japon étant très humide et lourd, je m’hydrate fréquemment."
     },
     "related": "なつ（授業の重要表現）"
   },
@@ -13249,13 +13249,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "printemps"
     },
     "example": {
-      "ja": "<ruby>春<rt>はる</rt></ruby>になった。",
-      "en": "Spring is here.",
-      "zh_TW": "Spring is here.",
-      "zh_CN": "Spring is here.",
-      "ko": "Spring is here.",
-      "zh_HK": "Spring is here.",
-      "fr": "Spring is here."
+      "ja": "<ruby>春<rt>はる</rt></ruby>になると桜の花が満開になり、街全体が明るい雰囲気に包まれます。",
+      "en": "When spring arrives, cherry blossoms bloom in full, wrapping the whole town in a cheerful atmosphere.",
+      "zh_TW": "一到了春天櫻花便盛開，整個城鎮都洋溢著明亮的氣息。",
+      "zh_CN": "一到了春天樱花便盛开，整个城镇都洋溢着明快的气息。",
+      "ko": "봄이 되면 벚꽃이 만개하여 온 동네가 화사한 분위기로 감싸입니다.",
+      "zh_HK": "一到春天櫻花開得好靚，成個城市都好有朝氣。",
+      "fr": "Quand le printemps arrive, les cerisiers sont en pleine floraison et enveloppent la ville d’une atmosphère lumineuse."
     },
     "related": "はる（授業の重要表現）"
   },
@@ -13321,13 +13321,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "manuel"
     },
     "example": {
-      "ja": "<ruby>教科書<rt>きょうかしょ</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>い。",
-      "en": "Textbooks are expensive.",
-      "zh_TW": "Textbooks are expensive.",
-      "zh_CN": "Textbooks are expensive.",
-      "ko": "Textbooks are expensive.",
-      "zh_HK": "Textbooks are expensive.",
-      "fr": "Textbooks are expensive."
+      "ja": "<ruby>新学期<rt>しんがっき</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まったので、<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>しました。",
+      "en": "Since the new semester started, I purchased a new Japanese textbook to use in class.",
+      "zh_TW": "新學期開始了，我買了課堂上要用的全新日語教科書。",
+      "zh_CN": "新学期开始了，我买了课堂上要用的全新日语教科书。",
+      "ko": "새 학기가 시작되어 수업에서 사용할 새로운 일본어 교과서를 구입했습니다.",
+      "zh_HK": "新學期開學喇，我買咗上堂要用嘅全新日文書。",
+      "fr": "Comme le nouveau semestre commence, j'ai acheté le nouveau manuel de japonais pour le cours."
     },
     "related": "きょうかしょ（授業の重要表現）"
   },
@@ -13369,13 +13369,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "danser"
     },
     "example": {
-      "ja": "<ruby>踊<rt>おど</rt></ruby>るのが<ruby>大<rt>だい</rt></ruby>っ<ruby>嫌<rt>きら</rt></ruby>い。",
-      "en": "I hate dancing.",
-      "zh_TW": "I hate dancing.",
-      "zh_CN": "I hate dancing.",
-      "ko": "I hate dancing.",
-      "zh_HK": "I hate dancing.",
-      "fr": "I hate dancing."
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さい<ruby>頃<rt>ころ</rt></ruby>からクラシックバレエを<ruby>習<rt>なら</rt></ruby>っていて、とても<ruby>優雅<rt>ゆうが</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>ることができます。",
+      "en": "She has studied classical ballet since she was little and can dance with remarkable elegance.",
+      "zh_TW": "她從小學習古典芭蕾，舞姿非常優雅動人。",
+      "zh_CN": "她从小学习古典芭蕾，舞姿非常优雅动人。",
+      "ko": "그녀는 어릴 때부터 클래식 발레를 배워서 매우 우아하게 춤을 춥니다.",
+      "zh_HK": "佢由細就學芭蕾舞，跳起舞嚟姿態好優雅高貴。",
+      "fr": "Elle fait de la danse classique depuis toute petite et danse avec une grande élégance."
     },
     "related": "おどる（授業の重要表現）"
   },
@@ -13393,13 +13393,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "relation, connexion"
     },
     "example": {
-      "ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。",
-      "en": "It is nothing to me.",
-      "zh_TW": "It is nothing to me.",
-      "zh_CN": "It is nothing to me.",
-      "ko": "It is nothing to me.",
-      "zh_HK": "It is nothing to me.",
-      "fr": "It is nothing to me."
+      "ja": "<ruby>職場<rt>しょくば</rt></ruby>のチームメンバーと<ruby>良好<rt>りょうこう</rt></ruby>な<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>くことで、<ruby>仕事<rt>しごと</rt></ruby>がよりスムーズに<ruby>進<rt>すす</rt></ruby>みます。",
+      "en": "Building good interpersonal relationships with team members at work makes tasks proceed much more smoothly.",
+      "zh_TW": "與工作職場上的團隊同仁建立融洽良好的人際關係，能讓各項業務推展得更加順利。",
+      "zh_CN": "与工作职场上的团队同仁建立融洽良好的人际关系，能让各项业务推展得更加顺利。",
+      "ko": "직장 동료들과 좋은 인간관계를 형성하면 업무가 훨씬 원활하게 진행됩니다.",
+      "zh_HK": "同公司團隊成員建立良好嘅人際互動同互信，做起嘢上嚟都會順手好多。",
+      "fr": "Entretenir de bonnes relations avec ses collègues de travail permet de mener à bien les projets beaucoup plus facilement."
     },
     "related": "かんけい（授業の重要表現）"
   },
@@ -13466,13 +13466,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "envoyer"
     },
     "example": {
-      "ja": "<ruby>誰<rt>だれ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>るの？",
-      "en": "Who are they for?",
-      "zh_TW": "Who are they for?",
-      "zh_CN": "Who are they for?",
-      "ko": "Who are they for?",
-      "zh_HK": "Who are they for?",
-      "fr": "Who are they for?"
+      "ja": "遠くに住んでいる祖母の誕生日に、感謝の手紙とプレゼントを<ruby>送<rt>おく</rt></ruby>りました。",
+      "en": "For my grandmother who lives far away, I sent a thank-you letter and a birthday gift.",
+      "zh_TW": "在住在遠方的祖母生日時，我寄了感謝信和生日禮物給她。",
+      "zh_CN": "在住在远方的祖母生日时，我寄了感谢信和生日礼物给她。",
+      "ko": "멀리 사시는 할머니의 생신에 감사의 편지와 선물을 보냈습니다.",
+      "zh_HK": "趁住住喺外國嘅阿婆生日，我寄咗封感謝信同生日禮物畀佢。",
+      "fr": "Pour l’anniversaire de ma grand-mère qui habite loin, je lui ai envoyé une lettre de remerciement et un cadeau."
     },
     "related": "おくる（授業の重要表現）"
   },
@@ -13538,13 +13538,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pas bon"
     },
     "example": {
-      "ja": "いや<ruby>駄目<rt>だめ</rt></ruby>です。",
-      "en": "No, you may not.",
-      "zh_TW": "No, you may not.",
-      "zh_CN": "No, you may not.",
-      "ko": "No, you may not.",
-      "zh_HK": "No, you may not.",
-      "fr": "No, you may not."
+      "ja": "歩きながらスマホを操作するのは危険なので、絶対に<ruby>駄目<rt>だめ</rt></ruby>ですよ。",
+      "en": "Using your smartphone while walking is dangerous, so you really must not do it.",
+      "zh_TW": "邊走路邊滑手機非常危險，絕對不可以這樣做喔。",
+      "zh_CN": "边走路边看手机非常危险，绝对不可以这样做哦。",
+      "ko": "걸어가면서 스마트폰을 만지는 것은 위험하므로 절대 안 돼요.",
+      "zh_HK": "一路行一路玩電話好危險㗎，千祈唔好咁做。",
+      "fr": "Utiliser son téléphone en marchant est dangereux, c’est strictement interdit."
     },
     "related": "だめ（授業の重要表現）"
   },
@@ -13586,13 +13586,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "visiter et visiter un lieu"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。",
-      "en": "We saw the sights of the city this afternoon.",
-      "zh_TW": "We saw the sights of the city this afternoon.",
-      "zh_CN": "We saw the sights of the city this afternoon.",
-      "ko": "We saw the sights of the city this afternoon.",
-      "zh_HK": "We saw the sights of the city this afternoon.",
-      "fr": "We saw the sights of the city this afternoon."
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>から通う予定のスポーツジムの<ruby>施設<rt>しせつ</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>してきました。",
+      "en": "I toured the facilities of the gym that I plan to start attending next month.",
+      "zh_TW": "我去參觀了下個月打算開始去的健身房設施。",
+      "zh_CN": "我去参观了下个月打算开始去的健身房设施。",
+      "ko": "다음 달부터 다닐 예정인 피트니스센터 시설을 견학하고 왔습니다.",
+      "zh_HK": "我去咗睇下個月準備報名嗰間健身室嘅設施。",
+      "fr": "Je suis allé visiter les installations de la salle de sport où je compte m'inscrire le mois prochain."
     },
     "related": "けんがく（授業の重要表現）"
   },
@@ -13706,13 +13706,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour de la semaine"
     },
     "example": {
-      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。",
-      "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_TW": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_CN": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "ko": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_HK": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "fr": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday."
+      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>昼間<rt>ひるま</rt></ruby>はカフェが<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>空<rt>す</rt></ruby>いていて、ゆっくり<ruby>勉強<rt>べんきょう</rt></ruby>できます。",
+      "en": "On weekday afternoons, the cafe is relatively uncrowded, so I can study at my leisure.",
+      "zh_TW": "平日白天咖啡廳比較空，可以悠閒安靜地讀書。",
+      "zh_CN": "平时白天咖啡厅比较空，可以悠闲安静地学习。",
+      "ko": "평일 낮에는 카페가 비교적 한산해서 느긋하게 공부할 수 있습니다.",
+      "zh_HK": "平日下晝咖啡店通常都比較少人，可以好舒服噉溫書。",
+      "fr": "En semaine l'après-midi, le café est plutôt calme, ce qui permet d'étudier tranquillement."
     },
     "related": "へいじつ（授業の重要表現）"
   },
@@ -13730,13 +13730,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dialecte"
     },
     "example": {
-      "ja": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>は<ruby>聞き取<rt>ききと</rt></ruby>り<ruby>難<rt>がた</rt></ruby>い。",
-      "en": "It's hard to catch words in the Osakan dialect.",
-      "zh_TW": "It's hard to catch words in the Osakan dialect.",
-      "zh_CN": "It's hard to catch words in the Osakan dialect.",
-      "ko": "It's hard to catch words in the Osakan dialect.",
-      "zh_HK": "It's hard to catch words in the Osakan dialect.",
-      "fr": "It's hard to catch words in the Osakan dialect."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>には<ruby>地域<rt>ちいき</rt></ruby>ごとに<ruby>独自<rt>どくじ</rt></ruby>の<ruby>響<rt>ひび</rt></ruby>きや<ruby>温<rt>あたた</rt></ruby>かみがある<ruby>方言<rt>ほうげん</rt></ruby>がたくさん<ruby>存在<rt>そんざい</rt></ruby>します。",
+      "en": "In Japan, there are many regional dialects each possessing their own unique ring and warmth.",
+      "zh_TW": "在日本，每個地區都存在著擁有獨特語調與溫暖氣息的方言。",
+      "zh_CN": "在日本，每个地区都存在着拥有独特语调与温暖气息的方言。",
+      "ko": "일본에는 지역마다 고유한 억양과 따스함이 묻어나는 방언이 많이 존재합니다.",
+      "zh_HK": "日本各個地方都有自己獨特口音同人情味嘅方言。",
+      "fr": "Au Japon, il existe de nombreux dialectes régionaux avec des sonorités et une chaleur uniques."
     },
     "related": "ほうげん（授業の重要表現）"
   },
@@ -13827,13 +13827,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "hiver"
     },
     "example": {
-      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れる。",
-      "en": "I feel more tired in the wintertime.",
-      "zh_TW": "I feel more tired in the wintertime.",
-      "zh_CN": "I feel more tired in the wintertime.",
-      "ko": "I feel more tired in the wintertime.",
-      "zh_HK": "I feel more tired in the wintertime.",
-      "fr": "I feel more tired in the wintertime."
+      "ja": "厳しい<ruby>冬<rt>ふゆ</rt></ruby>の寒さの中、温泉に入って雪景色を眺めるのは格別です。",
+      "en": "In the bitter cold of winter, soaking in a hot spring while gazing at the snowscape is truly exceptional.",
+      "zh_TW": "在嚴寒的冬季裡，泡在溫泉中欣賞雪景真是格外享受。",
+      "zh_CN": "在严寒的冬季里，泡在温泉中欣赏雪景真是格外享受。",
+      "ko": "추운 겨울의 날씨 속에 온천에 몸을 담그고 설경을 바라보는 것은 각별합니다.",
+      "zh_HK": "喺凍冰冰嘅冬天一路浸溫泉一路睇雪景，真係頂級享受。",
+      "fr": "Dans le grand froid de l’hiver, se prélasser dans un onsen en admirant la neige est un plaisir unique."
     },
     "related": "ふゆ（授業の重要表現）"
   },
@@ -13995,13 +13995,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "enfer"
     },
     "example": {
-      "ja": "<ruby>地獄<rt>じごく</rt></ruby>も<ruby>住<rt>じゅう</rt></ruby><ruby>家<rt>か</rt></ruby>。",
-      "en": "Even hell can be a nice place to live when you get used to it.",
-      "zh_TW": "Even hell can be a nice place to live when you get used to it.",
-      "zh_CN": "Even hell can be a nice place to live when you get used to it.",
-      "ko": "Even hell can be a nice place to live when you get used to it.",
-      "zh_HK": "Even hell can be a nice place to live when you get used to it.",
-      "fr": "Even hell can be a nice place to live when you get used to it."
+      "ja": "<ruby>大分県<rt>おおいたけん</rt></ruby>の別府温泉には、「<ruby>海<rt>うみ</rt></ruby><ruby>地獄<rt>じごく</rt></ruby>」や「<ruby>血<rt>ち</rt></ruby>の<ruby>池<rt>いけ</rt></ruby><ruby>地獄<rt>じごく</rt></ruby>」など<ruby>有名<rt>ゆうめい</rt></ruby>な観光スポットがあります。",
+      "en": "In Beppu Onsen, Oita, there are famous sightseeing spots called 'Sea Hell' and 'Blood Pond Hell'.",
+      "zh_TW": "在大分縣的別府溫泉，有被稱為「海地獄」和「血池地獄」的著名觀光名勝。",
+      "zh_CN": "在大分县的别府温泉，有被称为“海地狱”和“血池地狱”的著名观光名胜。",
+      "ko": "오이타현 벳푸 온천에는 '바다 지옥'이나 '피의 연못 지옥' 같은 유명 온천 관광지가 있습니다.",
+      "zh_HK": "大分縣別府溫泉嗰度，有出名嘅「海地獄」同「血之池地獄」等景點。",
+      "fr": "Aux sources thermales de Beppu à Oita, on trouve des sites célèbres appelés 'Enfer de la Mer' et 'Enfer de la Mare de Sang'."
     },
     "related": "じごく（授業の重要表現）"
   },
@@ -14019,13 +14019,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "se cacher"
     },
     "example": {
-      "ja": "スタジオはとても<ruby>狭<rt>せま</rt></ruby>くて、<ruby>隠<rt>かく</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>はない。",
-      "en": "The studio is very small, with no place to hide.",
-      "zh_TW": "The studio is very small, with no place to hide.",
-      "zh_CN": "The studio is very small, with no place to hide.",
-      "ko": "The studio is very small, with no place to hide.",
-      "zh_HK": "The studio is very small, with no place to hide.",
-      "fr": "The studio is very small, with no place to hide."
+      "ja": "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>隠<rt>かく</rt></ruby>れて、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>楽<rt>たの</rt></ruby>しそうにかくれんぼをしています。",
+      "en": "Hiding behind the big tree in the park, children are merrily playing hide-and-seek.",
+      "zh_TW": "孩子們躲在公園大樹的後方，開開心心地玩著捉迷藏。",
+      "zh_CN": "孩子们躲在公园大树的后方，开开心心地玩着捉迷藏。",
+      "ko": "공원의 커다란 나무 뒤에 숨어서 아이들이 신나게 숨바꼭질을 하고 있습니다.",
+      "zh_HK": "小朋友匿喺公園大樹後面，玩捉迷藏玩得好開心好興奮。",
+      "fr": "Les enfants s'amusent à jouer à cache-cache en se dissimulant derrière le grand arbre du parc."
     },
     "related": "かくれる（授業の重要表現）"
   },
@@ -14067,13 +14067,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "posséder (un animal de compagnie)"
     },
     "example": {
-      "ja": "がちょうを<ruby>飼<rt>か</rt></ruby>う。",
-      "en": "I raise a goose.",
-      "zh_TW": "I raise a goose.",
-      "zh_CN": "I raise a goose.",
-      "ko": "I raise a goose.",
-      "zh_HK": "I raise a goose.",
-      "fr": "I raise a goose."
+      "ja": "子猫を新しくペットとして<ruby>飼<rt>か</rt></ruby>い始めたので、毎日のお世話が楽しいです。",
+      "en": "Since I started keeping a kitten as a new pet, taking care of it every day is so much fun.",
+      "zh_TW": "家裡新養了一隻小貓當寵物，每天照顧牠都覺得好開心。",
+      "zh_CN": "家里新养了一只小猫当宠物，每天照顾它都觉得好开心。",
+      "ko": "새로 아기 고양이를 반려동물로 키우기 시작해서 매일 돌보는 것이 즐겁습니다.",
+      "zh_HK": "屋企新養咗隻貓仔做寵物，每日照顧佢都好開心。",
+      "fr": "Depuis que j’ai adopté un chaton, c’est un plaisir de m’en occuper au quotidien."
     },
     "related": "かう（授業の重要表現）"
   },
@@ -14139,13 +14139,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "château / forteresse"
     },
     "example": {
-      "ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。",
-      "en": "That castle is beautiful.",
-      "zh_TW": "That castle is beautiful.",
-      "zh_CN": "That castle is beautiful.",
-      "ko": "That castle is beautiful.",
-      "zh_HK": "That castle is beautiful.",
-      "fr": "That castle is beautiful."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>には<ruby>何百年<rt>なんびゃくねん</rt></ruby>もの<ruby>長<rt>なが</rt></ruby>い<ruby>歴史<rt>れきし</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>城<rt>しろ</rt></ruby>がたくさん残されています。",
+      "en": "In Japan, many famous castles with hundreds of years of rich history are still preserved.",
+      "zh_TW": "日本保存了許多座擁有數百年悠久歷史的知名城堡。",
+      "zh_CN": "日本保存了许多座拥有数百年悠久历史的知名城堡。",
+      "ko": "일본에는 수백 년의 유구한 역사를 지닌 유명한 성들이 많이 보존되어 있습니다.",
+      "zh_HK": "日本保留咗好多座擁有幾百年悠久歷史嘅著名城堡。",
+      "fr": "Au Japon, de nombreux châteaux célèbres avec des siècles d'histoire sont encore préservés."
     },
     "related": "しろ（授業の重要表現）"
   },
@@ -14307,13 +14307,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ventilateur électrique"
     },
     "example": {
-      "ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。",
-      "en": "I want the fan.",
-      "zh_TW": "I want the fan.",
-      "zh_CN": "I want the fan.",
-      "ko": "I want the fan.",
-      "zh_HK": "I want the fan.",
-      "fr": "I want the fan."
+      "ja": "エアコンと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>扇風機<rt>せんぷうき</rt></ruby>を回すと、<ruby>部屋<rt>へや</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>が循環して涼しくなります。",
+      "en": "Running a fan along with the air conditioner circulates room air and makes it comfortably cool.",
+      "zh_TW": "吹冷氣的同時開電風扇，能讓室內空氣循環，變得更加涼爽。",
+      "zh_CN": "开空调的同时开电风扇，能让室内空气循环，变得更加凉爽。",
+      "ko": "에어컨과 함께 선풍기를 틀면 방 안의 공기가 순환되어 더 시원해집니다.",
+      "zh_HK": "開冷氣嘅同時開埋風扇，可以令室內空氣對流，涼快好多。",
+      "fr": "Faire tourner un ventilateur avec la clim permet de faire circuler l'air et de bien rafraîchir la pièce."
     },
     "related": "せんぷうき（授業の重要表現）"
   },
@@ -14331,13 +14331,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "pour l'instant / jusqu'à présent / à ce stade"
     },
     "example": {
-      "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>はありますか？<br/>B: <ruby>今<rt>いま</rt></ruby>のところ<ruby>晴<rt>は</rt></ruby>れの<ruby>予報<rt>よほう</rt></ruby>だから、<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りピクニックに<ruby>行<rt>い</rt></ruby>けそうだね。",
-      "en": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_TW": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_CN": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "ko": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "zh_HK": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned.",
-      "fr": "A: Is there any worry about rain in tomorrow's forecast?<br/>B: As of now, it's forecast to be sunny, so we can go on the picnic as planned."
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>は<ruby>覚<rt>おぼ</rt></ruby>えることが<ruby>多<rt>おお</rt></ruby>いですが、<ruby>今<rt>いま</rt></ruby>のところ順調に<ruby>進<rt>すす</rt></ruby>んでいます。",
+      "en": "There is a lot to learn in my new job, but for now everything is progressing smoothly.",
+      "zh_TW": "新工作雖然要學的事情很多，但目前為止都進行得很順利。",
+      "zh_CN": "新工作虽然要学的事情很多，但目前为止都进行得很顺利。",
+      "ko": "새로운 일은 배울 점이 많지만, 지금까지는 순조롭게 진행되고 있습니다.",
+      "zh_HK": "份新工雖然要記好多嘢，但目前為止都算幾順利。",
+      "fr": "Il y a beaucoup à apprendre dans mon nouvel emploi, mais pour l'instant tout se passe bien."
     },
     "related": "いまのところ（授業の重要表現）"
   },
@@ -14355,13 +14355,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mal de tête"
     },
     "example": {
-      "ja": "<ruby>頭痛<rt>ずつう</rt></ruby>がする。",
-      "en": "I have a headache.",
-      "zh_TW": "I have a headache.",
-      "zh_CN": "I have a headache.",
-      "ko": "I have a headache.",
-      "zh_HK": "I have a headache.",
-      "fr": "I have a headache."
+      "ja": "低気圧が近づいてひどい<ruby>頭痛<rt>ずつう</rt></ruby>がするので、暗い静かな部屋で横になります。",
+      "en": "As low pressure approaches I have a bad headache, so I will lie down in a dark, quiet room.",
+      "zh_TW": "低氣壓接近導致嚴重的頭痛，我打算在安靜昏暗的房間裡躺下休息。",
+      "zh_CN": "低气压接近导致严重的头痛，我打算在安静昏暗的房间里躺下休息。",
+      "ko": "기압이 낮아져 심한 두통이 오기 때문에 어둡고 조용한 방에서 눕겠습니다.",
+      "zh_HK": "天氣轉低氣壓搞到頭痛得好辛苦，我要喺間靜啲黑啲嘅房度瞓陣。",
+      "fr": "Avec la baisse de pression j’ai un violent mal de tête, je vais m’allonger dans une pièce sombre et calme."
     },
     "related": "ずつう（授業の重要表現）"
   },
@@ -14524,13 +14524,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "devenir / se transformer en"
     },
     "example": {
-      "ja": "なるほどね。",
-      "en": "I see.",
-      "zh_TW": "I see.",
-      "zh_CN": "I see.",
-      "ko": "I see.",
-      "zh_HK": "I see.",
-      "fr": "I see."
+      "ja": "努力を続ければ、苦手な日本語の会話も自然と上手に<ruby>なる<rt>なる</rt></ruby>はずです。",
+      "en": "If you keep up the effort, even difficult Japanese conversations will naturally become fluent.",
+      "zh_TW": "只要持續努力，原本不擅長的日語對話自然也會變得流利上手。",
+      "zh_CN": "只要持续努力，原本不擅长的日语对话自然也会变得熟练自如。",
+      "ko": "노력을 계속한다면 서툴렀던 일본어 회화도 자연스레 능숙해질 것입니다.",
+      "zh_HK": "只要肯繼續努力，原本唔熟嘅日文對話自然會講得越嚟越好。",
+      "fr": "Si l’on poursuit ses efforts, même la conversation en japonais finira par devenir naturelle."
     },
     "related": "なる（授業の重要表現）"
   },
@@ -14572,13 +14572,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "panne de courant / panne d'électricité"
     },
     "example": {
-      "ja": "あ、<ruby>停電<rt>ていでん</rt></ruby>だ。",
-      "en": "Oh, the lights went out.",
-      "zh_TW": "Oh, the lights went out.",
-      "zh_CN": "Oh, the lights went out.",
-      "ko": "Oh, the lights went out.",
-      "zh_HK": "Oh, the lights went out.",
-      "fr": "Oh, the lights went out."
+      "ja": "雷雨の影響で突然<ruby>停電<rt>ていでん</rt></ruby>になったので、懐中電灯とロウソクを探しました。",
+      "en": "Because the thunderstorm caused a sudden power outage, I looked for a flashlight and candles.",
+      "zh_TW": "受到雷雨的影響突然停電了，我趕忙找出手電筒和蠟燭。",
+      "zh_CN": "受雷雨影响突然停电了，我赶忙找出便携手电和蜡烛。",
+      "ko": "뇌우의 영향으로 갑자기 정전이 되어 손전등과 양초를 찾았습니다.",
+      "zh_HK": "雷暴影響突然之間停電，拿拿臨搵支電筒同蠟燭出嚟。",
+      "fr": "À cause de l’orage une coupure de courant s’est produite, j’ai donc cherché une lampe torche et des bougies."
     },
     "related": "ていでん（授業の重要表現）"
   },
@@ -14596,13 +14596,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ventilateur électrique"
     },
     "example": {
-      "ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。",
-      "en": "I want the fan.",
-      "zh_TW": "I want the fan.",
-      "zh_CN": "I want the fan.",
-      "ko": "I want the fan.",
-      "zh_HK": "I want the fan.",
-      "fr": "I want the fan."
+      "ja": "お<ruby>風呂<rt>ふろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりに<ruby>扇風機<rt>せんぷうき</rt></ruby>の<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たると、とてもさっぱりします。",
+      "en": "Basking in the gentle breeze of the fan after taking a bath feels very refreshing.",
+      "zh_TW": "洗完熱水澡後吹一吹電風扇舒服的微風，整個人特別神清氣爽。",
+      "zh_CN": "洗完热水澡后吹一吹电风扇舒服的微风，整个人特别神清气爽。",
+      "ko": "목욕 후에 선풍기의 기분 좋은 바람을 쐬면 아주 상쾌합니다.",
+      "zh_HK": "沖完涼出嚟吹下風扇嘅微風，感覺好爽快好舒服。",
+      "fr": "Profiter de la brise agréable du ventilateur après le bain est extrêmement rafraîchissant."
     },
     "related": "せんぷうき（授業の重要表現）"
   },
@@ -14620,13 +14620,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "saison des pluies / saison de la mousson"
     },
     "example": {
-      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
-      "en": "The rainy season has set in.",
-      "zh_TW": "The rainy season has set in.",
-      "zh_CN": "The rainy season has set in.",
-      "ko": "The rainy season has set in.",
-      "zh_HK": "The rainy season has set in.",
-      "fr": "The rainy season has set in."
+      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>の<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなるので、エアコンの<ruby>除湿<rt>じょしつ</rt></ruby>をかけています。",
+      "en": "During the rainy season humidity rises indoors, so I turn on the dehumidifier mode on the AC.",
+      "zh_TW": "梅雨季節房間裡的濕度很高，所以我會開冷氣的除濕功能。",
+      "zh_CN": "梅雨季节房间里的湿度很高，所以我都会开空调的除湿功能。",
+      "ko": "장마철에는 실내 습도가 높아지므로 에어컨의 제습 기능을 켭니다.",
+      "zh_HK": "梅雨季節屋企好潮濕，所以我會開冷氣嘅抽濕功能。",
+      "fr": "Pendant la saison des pluies, l'humidité augmente dans la pièce, j'utilise donc le mode déshumidificateur."
     },
     "related": "つゆ（授業の重要表現）"
   },
@@ -14884,13 +14884,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "notes / résultats / dossier académique"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>がいい。",
-      "en": "He is doing fine in school.",
-      "zh_TW": "He is doing fine in school.",
-      "zh_CN": "He is doing fine in school.",
-      "ko": "He is doing fine in school.",
-      "zh_HK": "He is doing fine in school.",
-      "fr": "He is doing fine in school."
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>学業<rt>がくぎょう</rt></ruby><ruby>成績<rt>せいせき</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>優秀<rt>ゆうしゅう</rt></ruby>で、<ruby>大学<rt>だいがく</rt></ruby>から<ruby>奨学金<rt>しょうがくきん</rt></ruby>をもらっています。",
+      "en": "Her academic records are exceptionally good, and she receives a scholarship from the university.",
+      "zh_TW": "她的學業成績非常優秀，獲得了大學頒發的獎學金。",
+      "zh_CN": "她的学业成绩非常优秀，获得了大学颁发的奖学金。",
+      "ko": "그녀는 학업 성적이 매우 우수하여 대학에서 장학금을 받고 있습니다.",
+      "zh_HK": "佢嘅讀書成績非常優秀，仲攞到大學頒發嘅獎學金添。",
+      "fr": "Ses résultats scolaires sont remarquables et elle bénéficie d'une bourse de l'université."
     },
     "related": "せいせき（授業の重要表現）"
   },
@@ -14958,13 +14958,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "coûter de l'argent / être cher"
     },
     "example": {
-      "ja": "A: <ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると、やはり<ruby>色々<rt>いろいろ</rt></ruby>とお<ruby>金<rt>かね</rt></ruby>がかかりますか？<br/>B: そうですね、<ruby>家賃<rt>やちん</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>で<ruby>思<rt>おも</rt></ruby>った<ruby>以上<rt>いじょう</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかかります。",
-      "en": "A: Does it cost a lot of money to start living alone?<br/>B: Well, it costs more than I expected due to rent and living expenses.",
-      "zh_TW": "A：開始獨居要花很多錢嗎？<br/>B：嗯，由於房租和生活費，它的花費比我預期的要高。",
-      "zh_CN": "A：开始独居要花很多钱吗？<br/>B：嗯，由于房租和生活费，它的花费比我预期的要高。",
-      "ko": "A: 혼자 생활을 시작하면 역시 여러가지 돈이 듭니까?<br/>B: 그렇네요, 집세나 생활비로 생각했던 것 이상으로 돈이 듭니다.",
-      "zh_HK": "A：開始獨居要花很多錢嗎？<br/>B：嗯，由於房租和生活費，它的花費比我預期的要高。",
-      "fr": "A : Est-ce que cela coûte beaucoup d’argent de commencer à vivre seul ?<br/>B : Eh bien, cela coûte plus cher que prévu à cause du loyer et des frais de subsistance."
+      "ja": "<ruby>海外<rt>かいがい</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby>には<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>がかかるため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>することにしました。",
+      "en": "Studying abroad costs a lot of money for tuition and living expenses, so I decided to apply for a scholarship.",
+      "zh_TW": "出國留學需要花費大筆學費和生活費，因此我決定申請獎學金。",
+      "zh_CN": "出国留学需要花费大笔学费和生活费，因此我决定申请奖学金。",
+      "ko": "해외 유학은 학비와 생활비로 돈이 많이 들기 때문에 장학금을 신청하기로 했습니다.",
+      "zh_HK": "去外國留學學費同生活費好貴要使好多錢，所以我決定申請獎學金。",
+      "fr": "Étudier à l'étranger coûte beaucoup d'argent en frais de scolarité et de vie, j'ai donc décidé de demander une bourse."
     },
     "related": "おかねがかかる（授業の重要表現）"
   },
@@ -14982,13 +14982,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bibliothèque / bibliothèque"
     },
     "example": {
-      "ja": "ジョンは<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った。",
-      "en": "John built a bookcase.",
-      "zh_TW": "John built a bookcase.",
-      "zh_CN": "John built a bookcase.",
-      "ko": "John built a bookcase.",
-      "zh_HK": "John built a bookcase.",
-      "fr": "John built a bookcase."
+      "ja": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>本棚<rt>ほんだな</rt></ruby>にお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>小説<rt>しょうせつ</rt></ruby>や<ruby>漫画<rt>まんが</rt></ruby>がずらりと<ruby>並<rt>なら</rt></ruby>んでいます。",
+      "en": "My favorite novels and manga are neatly lined up on the bookshelf in my room.",
+      "zh_TW": "我房間的書架上整齊地陳列著喜愛的小說與漫畫。",
+      "zh_CN": "我房间的书架上整齐地陈列着喜爱的小说与漫画。",
+      "ko": "내 방 책장에 좋아하는 소설과 만화책이 가지런히 꽂혀 있습니다.",
+      "zh_HK": "我房入面個書櫃整整齊齊排滿晒我最鍾意睇嘅小說同漫畫。",
+      "fr": "Dans ma chambre, mes romans et mangas préférés sont soigneusement alignés sur l'étagère."
     },
     "related": "ほんだな（授業の重要表現）"
   },
@@ -15810,13 +15810,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mettre des chaussures / chaussettes / pantalons (pieds et jambes)"
     },
     "example": {
-      "ja": "<ruby>木靴<rt>きぐつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きだ。",
-      "en": "I like to wear clogs.",
-      "zh_TW": "I like to wear clogs.",
-      "zh_CN": "I like to wear clogs.",
-      "ko": "I like to wear clogs.",
-      "zh_HK": "I like to wear clogs.",
-      "fr": "I like to wear clogs."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>では<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎ、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>ではスリッパを<ruby>履<rt>は</rt></ruby>く<ruby>習慣<rt>しゅうかん</rt></ruby>があります。",
+      "en": "In Japan, it is customary to take off shoes at the entrance and wear slippers inside.",
+      "zh_TW": "在日本有進玄關脫鞋、在室內換穿拖鞋的習慣。",
+      "zh_CN": "在日本有进玄关脱鞋、在室内换穿拖鞋的习惯。",
+      "ko": "일본에서는 현관에서 신발을 벗고 집 안에서는 슬리퍼를 신는 습관이 있습니다.",
+      "zh_HK": "喺日本，通常會喺玄關除鞋，入到屋就換上拖鞋著。",
+      "fr": "Au Japon, il est coutume d'enlever ses chaussures dans l'entrée et de porter des chaussons à l'intérieur."
     },
     "related": "はく（授業の重要表現）"
   },
@@ -16077,13 +16077,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "harmonieux / amical / paisible"
     },
     "example": {
-      "ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。",
-      "en": "I have peace at home.",
-      "zh_TW": "I have peace at home.",
-      "zh_CN": "I have peace at home.",
-      "ko": "I have peace at home.",
-      "zh_HK": "I have peace at home.",
-      "fr": "I have peace at home."
+      "ja": "<ruby>家族<rt>かぞく</rt></ruby>みんなでお<ruby>互<rt>たが</rt></ruby>いを<ruby>思<rt>おも</rt></ruby>いやり、いつも<ruby>円満<rt>えんまん</rt></ruby>な<ruby>家庭<rt>かてい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>いています。",
+      "en": "Everyone in the family cares for each other, building a harmonious and happy home.",
+      "zh_TW": "全家人互相關懷體諒，營造出和樂融融的圓滿家庭。",
+      "zh_CN": "全家人互相关怀体谅，营造出和乐融融的圆满家庭。",
+      "ko": "온 가족이 서로를 배려하며 항상 화목하고 원만한 가정을 가꾸고 있습니다.",
+      "zh_HK": "全家人互相關心包容，建立咗一個溫馨美滿嘅家庭。",
+      "fr": "Chaque membre de la famille prend soin des autres, créant ainsi un foyer harmonieux et paisible."
     },
     "related": "えんまん（授業の重要表現）"
   },
@@ -16198,13 +16198,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "céder / céder / céder"
     },
     "example": {
-      "ja": "<ruby>若者<rt>わかもの</rt></ruby>は<ruby>老人<rt>ろうじん</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るべきだ。",
-      "en": "The young should make room for the old.",
-      "zh_TW": "The young should make room for the old.",
-      "zh_CN": "The young should make room for the old.",
-      "ko": "The young should make room for the old.",
-      "zh_HK": "The young should make room for the old.",
-      "fr": "The young should make room for the old."
+      "ja": "<ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>でお<ruby>年寄<rt>としよ</rt></ruby>りや<ruby>妊婦<rt>にんぷ</rt></ruby>さんを<ruby>見<rt>み</rt></ruby>かけたら、<ruby>進<rt>すす</rt></ruby>んで<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りましょう。",
+      "en": "When you spot elderly people or pregnant women on a packed train, willingly give up your seat.",
+      "zh_TW": "在客滿的電車上看見長輩或孕婦時，請主動親切地讓座。",
+      "zh_CN": "在客满的电车上看看见长辈或孕妇时，请主动亲切地让座。",
+      "ko": "만원 전철에서 어르신이나 임산부를 보면 먼저 자리를 양보합시다.",
+      "zh_HK": "喺迫爆嘅車廂見到長者或者大肚婆，應該主動讓座俾佢哋坐。",
+      "fr": "Quand vous voyez une personne âgée ou une femme enceinte dans un train bondé, cédez-lui volontiers votre place."
     },
     "related": "ゆずる（授業の重要表現）"
   },
@@ -16222,13 +16222,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "porter sur la tête / se chevaucher / se heurter"
     },
     "example": {
-      "ja": "<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>こうむ</rt></ruby>るべきではない。",
-      "en": "Your hat should not be worn in the classroom.",
-      "zh_TW": "Your hat should not be worn in the classroom.",
-      "zh_CN": "Your hat should not be worn in the classroom.",
-      "ko": "Your hat should not be worn in the classroom.",
-      "zh_HK": "Your hat should not be worn in the classroom.",
-      "fr": "Your hat should not be worn in the classroom."
+      "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は、<ruby>安全<rt>あんぜん</rt></ruby>のためにヘルメットをしっかり<ruby>被<rt>かぶ</rt></ruby>りましょう。",
+      "en": "When riding a bicycle, be sure to wear a helmet securely for your safety.",
+      "zh_TW": "騎自行車時，為了自身安全請務必戴好安全帽。",
+      "zh_CN": "骑自行车时，为了自身安全请务必戴好安全帽。",
+      "ko": "자전거를 탈 때는 안전을 위해 헬멧을 꼭 착용합시다.",
+      "zh_HK": "踩單車嗰陣，為咗自身安全一定要戴好頭盔。",
+      "fr": "À vélo, pensez à toujours bien attacher votre casque pour votre sécurité."
     },
     "related": "かぶる（授業の重要表現）"
   },
@@ -20522,13 +20522,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "éternuer"
     },
     "example": {
-      "ja": "くしゃみしっぱなし。",
-      "en": "I'm always sneezing.",
-      "zh_TW": "I'm always sneezing.",
-      "zh_CN": "I'm always sneezing.",
-      "ko": "I'm always sneezing.",
-      "zh_HK": "I'm always sneezing.",
-      "fr": "I'm always sneezing."
+      "ja": "花粉の季節になると、目のかゆみや<ruby>くしゃみ<rt>くしゃみ</rt></ruby>が止まらなくなります。",
+      "en": "During the pollen season, my itchy eyes and sneezing won't stop.",
+      "zh_TW": "一到花粉季，眼睛發癢和打噴嚏就停不下來。",
+      "zh_CN": "一到花粉季，眼睛发痒和打喷嚏就停不下来。",
+      "ko": "꽃가루 철이 되면 눈 가려움과 재채기가 멈추지 않습니다.",
+      "zh_HK": "一到花粉季對眼好痕又係咁打乞嗤，停都停唔到。",
+      "fr": "Pendant la saison des pollens, les démangeaisons des yeux et les éternuements ne s’arrêtent plus."
     },
     "related": "くしゃみ（授業の重要表現）"
   },
@@ -20546,13 +20546,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "harmonieux / paisible"
     },
     "example": {
-      "ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。",
-      "en": "I have peace at home.",
-      "zh_TW": "I have peace at home.",
-      "zh_CN": "I have peace at home.",
-      "ko": "I have peace at home.",
-      "zh_HK": "I have peace at home.",
-      "fr": "I have peace at home."
+      "ja": "お<ruby>互<rt>たが</rt></ruby>いの<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>き<ruby>合<rt>あ</rt></ruby>ったおかげで、<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いは<ruby>円満<rt>えんまん</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>しました。",
+      "en": "Thanks to listening carefully to each other's opinions, the discussion was resolved amicably.",
+      "zh_TW": "多虧雙方都認真傾聽對方的想法，商談最終獲得了圓滿解決。",
+      "zh_CN": "多亏双方都认真倾听对方的想法，商谈最终获得了圆满解决。",
+      "ko": "서로의 의견을 잘 경청한 덕분에 논의가 원만하게 해결되었습니다.",
+      "zh_HK": "好在大家肯細心聽對方嘅諗法，成個傾談過程圓滿解決咗。",
+      "fr": "Grâce à une écoute mutuelle attentive, la discussion s'est conclue de manière amicale et harmonieuse."
     },
     "related": "えんまん（授業の重要表現）"
   },
@@ -21194,13 +21194,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Service client / service / hospitalité"
     },
     "example": {
-      "ja": "A: カフェでのアルバイトは<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>になりますか？<br/>B: はい、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるとお<ruby>客様<rt>きゃくさま</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>んでくれます。",
-      "en": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_TW": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_CN": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "ko": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_HK": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "fr": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care."
+      "ja": "カフェでのアルバイトは、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>のスキルを<ruby>学<rt>まな</rt></ruby>ぶよい<ruby>経験<rt>けいけん</rt></ruby>になります。",
+      "en": "A part-time job at a cafe is a great experience for learning polite customer service skills with a smile.",
+      "zh_TW": "在咖啡店打工是學習帶著微笑與禮貌接待顧客的絕佳經驗。",
+      "zh_CN": "在咖啡店打工是学习带着微笑与礼貌接待顾客的绝佳经验。",
+      "ko": "카페 아르바이트는 미소와 정중한 고객 응대 기술을 배울 수 있는 좋은 경험이 됩니다.",
+      "zh_HK": "喺咖啡店做兼職，係學點樣親切微笑、有禮貌噉招待客人嘅好好機會。",
+      "fr": "Travailler dans un café est une excellente expérience pour apprendre le service client avec le sourire et courtoisie."
     },
     "related": "せっきゃく（授業の重要表現）"
   },
@@ -21530,13 +21530,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "château / forteresse"
     },
     "example": {
-      "ja": "あの<ruby>城<rt>しろ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。",
-      "en": "That castle is beautiful.",
-      "zh_TW": "That castle is beautiful.",
-      "zh_CN": "That castle is beautiful.",
-      "ko": "That castle is beautiful.",
-      "zh_HK": "That castle is beautiful.",
-      "fr": "That castle is beautiful."
+      "ja": "<ruby>白鷺城<rt>しらさぎじょう</rt></ruby>とも<ruby>呼<rt>よ</rt></ruby>ばれる姫路<ruby>城<rt>じょう</rt></ruby>は、その美しい姿から<ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>に登録されています。",
+      "en": "Himeji Castle, also called White Heron Castle, is registered as a World Heritage site for its beauty.",
+      "zh_TW": "姬路城又稱白鷺城，因其壯麗優雅的姿態而被登錄為世界文化遺產。",
+      "zh_CN": "姬路城又称白鹭城，因其壮丽优雅的姿态而被登录为世界文化遗产。",
+      "ko": "백로성으로도 불리는 히메지성은 아름다운 모습으로 유네스코 세계유산에 등재되어 있습니다.",
+      "zh_HK": "姬路城又被叫做白鷺城，因為外型好靚，被列為世界文化遺產。",
+      "fr": "Le château de Himeji, aussi surnommé le Héron Blanc, est classé au patrimoine mondial pour sa beauté."
     },
     "related": "しろ・じょう（授業の重要表現）"
   },
@@ -21650,13 +21650,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "embouteillage / embouteillage"
     },
     "example": {
-      "ja": "<ruby>渋滞<rt>じゅうたい</rt></ruby>はないです。",
-      "en": "There's no traffic jam.",
-      "zh_TW": "There's no traffic jam.",
-      "zh_CN": "There's no traffic jam.",
-      "ko": "There's no traffic jam.",
-      "zh_HK": "There's no traffic jam.",
-      "fr": "There's no traffic jam."
+      "ja": "<ruby>事故<rt>じこ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>道<rt>みち</rt></ruby>がひどく<ruby>渋滞<rt>じゅうたい</rt></ruby>しており、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れそうです。",
+      "en": "Due to an accident, the road is heavily congested and I might be slightly late for our appointment.",
+      "zh_TW": "因為發生車禍導致道路嚴重塞車，我可能會比約定時間稍微遲到一點。",
+      "zh_CN": "因为发生车祸导致道路严重堵车，我可能会比约定时间稍微迟到一点。",
+      "ko": "사고의 영향으로 도로가 꽉 막혀 약속 시간에 조금 늦을 것 같습니다.",
+      "zh_HK": "因為前面有交通意外搞到大塞車，我可能會遲少少到。",
+      "fr": "En raison d'un accident, la route est très encombrée et je risque d'être légèrement en retard au rendez-vous."
     },
     "related": "じゅうたい（授業の重要表現）"
   },
@@ -21842,13 +21842,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "violence"
     },
     "example": {
-      "ja": "<ruby>暴力<rt>ぼうりょく</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>のガンだ。",
-      "en": "Violence is the cancer of our society.",
-      "zh_TW": "Violence is the cancer of our society.",
-      "zh_CN": "Violence is the cancer of our society.",
-      "ko": "Violence is the cancer of our society.",
-      "zh_HK": "Violence is the cancer of our society.",
-      "fr": "Violence is the cancer of our society."
+      "ja": "どんな<ruby>理由<rt>りゆう</rt></ruby>があっても、<ruby>人<rt>ひと</rt></ruby>に<ruby>暴力<rt>ぼうりょく</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>るうことは<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>許<rt>ゆる</rt></ruby>されません。",
+      "en": "No matter the reason, using violence against others is absolutely unacceptable.",
+      "zh_TW": "無論有任何理由，對他人施加暴力都是絕對不被允許的。",
+      "zh_CN": "无论有任何理由，对他人施加暴力都是绝对不被允许的。",
+      "ko": "어떤 이유가 있더라도 타인에게 폭력을 행사하는 것은 결코 용납될 수 없습니다.",
+      "zh_HK": "無論有咩原因，對其他人使用暴力都絕對係唔可以接受嘅。",
+      "fr": "Quelle qu'en soit la raison, user de violence envers autrui est formellement inadmissible."
     },
     "related": "ぼうりょく（授業の重要表現）"
   },
@@ -21938,13 +21938,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "égoïste / gâté / faire ce qu'il veut"
     },
     "example": {
-      "ja": "わがままね。",
-      "en": "You're selfish.",
-      "zh_TW": "You're selfish.",
-      "zh_CN": "You're selfish.",
-      "ko": "You're selfish.",
-      "zh_HK": "You're selfish.",
-      "fr": "You're selfish."
+      "ja": "自分の意見ばかり押し通そうとするのは、少し<ruby>わがまま<rt>わがまま</rt></ruby>に見えてしまいますよ。",
+      "en": "Insisting only on your own opinion can make you look a bit selfish.",
+      "zh_TW": "只顧著強加自己的意見，看起來會有點任性自私喔。",
+      "zh_CN": "只顾着强加自己的意见，看起来会有点任性自私哦。",
+      "ko": "자기 의견만 고집하는 것은 조금 제멋대로이고 이기적으로 보일 수 있어요.",
+      "zh_HK": "成日淨係堅持自己諗法，會畀人覺得你有啲任性㗎。",
+      "fr": "Ne vouloir imposer que son avis peut sembler un peu capricieux."
     },
     "related": "わがまま（授業の重要表現）"
   },
@@ -22130,13 +22130,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "inondation / inondation"
     },
     "example": {
-      "ja": "<ruby>洪水<rt>こうずい</rt></ruby>で<ruby>橋<rt>はし</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた。",
-      "en": "The bridge gave way because of the flood.",
-      "zh_TW": "The bridge gave way because of the flood.",
-      "zh_CN": "The bridge gave way because of the flood.",
-      "ko": "The bridge gave way because of the flood.",
-      "zh_HK": "The bridge gave way because of the flood.",
-      "fr": "The bridge gave way because of the flood."
+      "ja": "<ruby>台風<rt>たいふう</rt></ruby>による<ruby>記録的<rt>きろくてき</rt></ruby>な<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>川<rt>かわ</rt></ruby>が<ruby>増水<rt>ぞうすい</rt></ruby>し、<ruby>洪水<rt>こうずい</rt></ruby><ruby>警報<rt>けいほう</rt></ruby>が<ruby>発令<rt>はつれい</rt></ruby>されました。",
+      "en": "Record-setting rainfall from the typhoon caused the river to swell, and a flood warning was issued.",
+      "zh_TW": "颱風帶來的破紀錄豪雨造成河川暴漲，氣象單位發布了洪水警報。",
+      "zh_CN": "台风带来的破纪录豪雨造成河川暴涨，气象单位发布了洪水警报。",
+      "ko": "태풍으로 인한 기록적인 폭우로 하천이 불어나 홍수 경보가 발령되었습니다.",
+      "zh_HK": "颱風帶嚟嘅破紀錄暴雨搞到河水暴漲，當局發出咗洪水警戒訊號。",
+      "fr": "Des pluies torrentielles record dues au typhon ont fait gonfler la rivière, et une alerte aux inondations a été émise."
     },
     "related": "こうずい（授業の重要表現）"
   },
@@ -22154,13 +22154,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "sauter / sauter par-dessus"
     },
     "example": {
-      "ja": "テストで<ruby>解<rt>わか</rt></ruby>らないところは<ruby>飛<rt>と</rt></ruby>ばす。",
-      "en": "Skip the parts you don't understand on the test.",
-      "zh_TW": "Skip the parts you don't understand on the test.",
-      "zh_CN": "Skip the parts you don't understand on the test.",
-      "ko": "Skip the parts you don't understand on the test.",
-      "zh_HK": "Skip the parts you don't understand on the test.",
-      "fr": "Skip the parts you don't understand on the test."
+      "ja": "テストで<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>があったら、<ruby>一旦<rt>いったん</rt></ruby><ruby>飛<rt>と</rt></ruby>ばして<ruby>最後<rt>さいご</rt></ruby>にゆっくり<ruby>解<rt>と</rt></ruby>きましょう。",
+      "en": "If there is a difficult question on the exam, skip it for now and solve it at the end.",
+      "zh_TW": "考試時如果遇到難題，先跳過它，等到最後有時間再來慢慢解。",
+      "zh_CN": "考试时如果遇到难题，先跳过它，等到最后有时间再来慢慢解。",
+      "ko": "시험에서 어려운 문제가 나오면 일단 건너뛰고 마지막에 천천히 풉시다.",
+      "zh_HK": "考試遇到唔識嘅題目，最好跳過咗先，留到最後先慢慢諗。",
+      "fr": "Si vous tombez sur une question difficile à l'examen, sautez-la pour l'instant et faites-la à la fin."
     },
     "related": "とばす（授業の重要表現）"
   },
@@ -22178,13 +22178,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "voler / lancer / envoyer dans les airs"
     },
     "example": {
-      "ja": "テストで<ruby>解<rt>わか</rt></ruby>らないところは<ruby>飛<rt>と</rt></ruby>ばす。",
-      "en": "Skip the parts you don't understand on the test.",
-      "zh_TW": "Skip the parts you don't understand on the test.",
-      "zh_CN": "Skip the parts you don't understand on the test.",
-      "ko": "Skip the parts you don't understand on the test.",
-      "zh_HK": "Skip the parts you don't understand on the test.",
-      "fr": "Skip the parts you don't understand on the test."
+      "ja": "<ruby>晴<rt>は</rt></ruby>れた<ruby>広場<rt>ひろば</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもたちと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>手作<rt>てづく</rt></ruby>りの<ruby>紙飛行機<rt>かみひこうき</rt></ruby>を<ruby>高<rt>たか</rt></ruby>く<ruby>飛<rt>と</rt></ruby>ばしました。",
+      "en": "On the sunny open plaza, I flew handmade paper airplanes high into the sky with the children.",
+      "zh_TW": "在放晴的廣場上，我和孩子們一起將親手做的紙飛機射向高空。",
+      "zh_CN": "在放晴的广场上，我和孩子们一起将亲手做的纸飞机放飞到高空。",
+      "ko": "맑은 광장에서 아이들과 함께 직접 만든 종이비행기를 높이 날렸습니다.",
+      "zh_HK": "喺天氣晴朗嘅空地上，我同啲小朋友一齊將親手摺嘅紙飛機飛得好高。",
+      "fr": "Sur la place ensoleillée, nous avons fait voler des avions en papier faits main très haut avec les enfants."
     },
     "related": "とばす（授業の重要表現）"
   },
@@ -22298,13 +22298,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "saison des pluies / saison de la mousson"
     },
     "example": {
-      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
-      "en": "The rainy season has set in.",
-      "zh_TW": "The rainy season has set in.",
-      "zh_CN": "The rainy season has set in.",
-      "ko": "The rainy season has set in.",
-      "zh_HK": "The rainy season has set in.",
-      "fr": "The rainy season has set in."
+      "ja": "<ruby>長<rt>なが</rt></ruby>かった<ruby>梅雨<rt>つゆ</rt></ruby>が明けると、いよいよ<ruby>本格的<rt>ほんかくてき</rt></ruby>な<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>がやってきます。",
+      "en": "Once the long rainy season ends, the true hot summer finally arrives.",
+      "zh_TW": "漫長的梅雨一出梅結束，真正炎熱的夏天就即將來臨。",
+      "zh_CN": "漫长的梅雨一出梅结束，真正炎热的夏天就即将到来。",
+      "ko": "길었던 장마가 끝나면, 드디어 본격적으로 무더운 여름이 찾아옵니다.",
+      "zh_HK": "漫長嘅梅雨季節一完，真正炎熱嘅夏天就正式嚟到喇。",
+      "fr": "Une fois la longue saison des pluies terminée, la véritable chaleur estivale arrive enfin."
     },
     "related": "つゆ（授業の重要表現）"
   },
@@ -22370,13 +22370,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bronzage / coup de soleil"
     },
     "example": {
-      "ja": "<ruby>日焼<rt>ひや</rt></ruby>けが<ruby>痛<rt>いた</rt></ruby>い。",
-      "en": "My sunburn hurts.",
-      "zh_TW": "My sunburn hurts.",
-      "zh_CN": "My sunburn hurts.",
-      "ko": "My sunburn hurts.",
-      "zh_HK": "My sunburn hurts.",
-      "fr": "My sunburn hurts."
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>紫外線<rt>しがいせん</rt></ruby>から<ruby>肌<rt>はだ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>日焼<rt>ひや</rt></ruby>け<ruby>止<rt>ど</rt></ruby>めをしっかり<ruby>塗<rt>ぬ</rt></ruby>っています。",
+      "en": "To protect my skin from intense summer UV rays, I always apply sunscreen thoroughly before going out.",
+      "zh_TW": "為了保護皮膚不受夏天強烈紫外線傷害，出門前我都一定會仔細擦好防曬乳。",
+      "zh_CN": "为了保护皮肤不受夏天强烈紫外线伤害，出门前我都一定会仔细擦好防晒霜。",
+      "ko": "여름철 강한 자외선으로부터 피부를 보호하기 위해 외출 전 자외선 차단제를 꼼꼼히 바릅니다.",
+      "zh_HK": "為咗防範夏天猛烈嘅紫外線傷皮膚，出門口前我一定會查足防曬膏。",
+      "fr": "Pour protéger ma peau des forts rayons UV en été, j'applique soigneusement de la crème solaire avant de sortir."
     },
     "related": "ひやけ（授業の重要表現）"
   },
@@ -25372,13 +25372,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。",
-      "en": "He is the baby of the family.",
-      "zh_TW": "He is the baby of the family.",
-      "zh_CN": "He is the baby of the family.",
-      "ko": "He is the baby of the family.",
-      "zh_HK": "He is the baby of the family.",
-      "fr": "He is the baby of the family."
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は3<ruby>人<rt>にん</rt></ruby><ruby>兄弟<rt>きょうだい</rt></ruby>の<ruby>末っ子<rt>すえっこ</rt></ruby>で、<ruby>兄<rt>あに</rt></ruby>や<ruby>姉<rt>あね</rt></ruby>にとても<ruby>可愛<rt>かわい</rt></ruby>いがられて<ruby>育<rt>そだ</rt></ruby>ちました。",
+      "en": "I am the youngest of three siblings and grew up showered with love by my older brother and sister.",
+      "zh_TW": "我是三兄妹裡的老么，從小受到哥哥姊姊非常多的關愛。",
+      "zh_CN": "我是三兄妹里的老幺，从小受到哥哥姐姐非常多的关爱。",
+      "ko": "저는 3남매 중 막내로, 형과 누나의 많은 사랑을 받으며 자랐습니다.",
+      "zh_HK": "我係三兄弟姊妹入面最細嗰個老么，由細到大哥哥姐姐都好錫我。",
+      "fr": "Je suis le benjamin d'une fratrie de trois et j'ai été très choyé par mon frère et ma sœur aînés."
     },
     "related": "すえっこ（授業の重要表現）"
   },
@@ -25396,13 +25396,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
     },
     "example": {
-      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。",
-      "en": "She has fine manners.",
-      "zh_TW": "She has fine manners.",
-      "zh_CN": "She has fine manners.",
-      "ko": "She has fine manners.",
-      "zh_HK": "She has fine manners.",
-      "fr": "She has fine manners."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>のビジネスシーンでは、お<ruby>辞儀<rt>じぎ</rt></ruby>や<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉遣<rt>ことばづか</rt></ruby>いなどの<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>作法<rt>さほう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にされます。",
+      "en": "In the Japanese business world, etiquette and manners like bowing and polite language are valued.",
+      "zh_TW": "在日本的商業職場上，鞠躬行禮與禮貌用語等禮儀規矩受到高度重視。",
+      "zh_CN": "在日本的商业职场上，鞠躬行礼与礼貌用语等礼仪规矩受到高度重视。",
+      "ko": "일본의 비즈니스 현장에서는 정중한 인사와 공손한 말씨 등 예절과 매너를 매우 중요하게 여깁니다.",
+      "zh_HK": "喺日本職場文化入面，鞠躬禮節同有禮貌嘅說話用詞都非常受到重視。",
+      "fr": "Dans le monde des affaires au Japon, les règles de politesse comme les salutations inclinées et le langage courtois sont primordiales."
     },
     "related": "れいぎ（授業の重要表現）"
   },
@@ -25420,13 +25420,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
     },
     "example": {
-      "ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？",
-      "en": "Do you have a big family?",
-      "zh_TW": "Do you have a big family?",
-      "zh_CN": "Do you have a big family?",
-      "ko": "Do you have a big family?",
-      "zh_HK": "Do you have a big family?",
-      "fr": "Do you have a big family?"
+      "ja": "アパートの<ruby>大家<rt>おおや</rt></ruby>さんはとても<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>方<rt>かた</rt></ruby>で、<ruby>困<rt>こま</rt></ruby>ったときにすぐ<ruby>助<rt>たす</rt></ruby>けてくれます。",
+      "en": "The landlord of my apartment is a very kind person who helps me right away when I'm in trouble.",
+      "zh_TW": "公寓的房東人非常親切，遇到困難時總是立刻伸出援手。",
+      "zh_CN": "公寓的房东人非常亲切，遇到困难时总是立刻伸出援手。",
+      "ko": "아파트 집주인 분은 아주 친절하셔서 곤란한 일이 있을 때 바로 도와주십니다.",
+      "zh_HK": "我租緊嗰間公寓嘅房東人好熱心，一有問題就會即刻幫手搞掂。",
+      "fr": "Le propriétaire de mon appartement est quelqu'un de très gentil qui m'aide dès que j'ai un souci."
     },
     "related": "おおや（授業の重要表現）"
   },
@@ -25516,13 +25516,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Hôtellerie / servir les clients / service client / servir les clients"
     },
     "example": {
-      "ja": "A: カフェでのアルバイトは<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>になりますか？<br/>B: はい、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>接客<rt>せっきゃく</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるとお<ruby>客様<rt>きゃくさま</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>んでくれます。",
-      "en": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_TW": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_CN": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "ko": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "zh_HK": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care.",
-      "fr": "A: Does working part-time at a cafe teach you good customer service skills?<br/>B: Yes, customers appreciate it when you serve them with a smile and polite care."
+      "ja": "このホテルのスタッフは<ruby>言葉遣<rt>ことばづか</rt></ruby>いが美しく、<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>がとても<ruby>高<rt>たか</rt></ruby>いです。",
+      "en": "The hotel staff speak beautifully, and the quality of their customer service is exceptionally high.",
+      "zh_TW": "這家飯店的員工說話用語典雅，接待客人的服務水準非常高。",
+      "zh_CN": "这家饭店的员工说话用语典雅，接待客人的服务水准非常高。",
+      "ko": "이 호텔 직원들은 말씨가 바르고 고객 서비스의 품질이 매우 뛰어납니다.",
+      "zh_HK": "呢間酒店嘅服務員講嘢斯文得體，服務客人嘅水準真係非常之高。",
+      "fr": "Le personnel de cet hôtel s'exprime très bien et la qualité du service client est remarquable."
     },
     "related": "せっきゃく（授業の重要表現）"
   },
@@ -25660,13 +25660,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "flashy / flashy / flashy / voyant / flamboyant"
     },
     "example": {
-      "ja": "<ruby>派手<rt>はで</rt></ruby>すぎるよ。",
-      "en": "It's too loud.",
-      "zh_TW": "It's too loud.",
-      "zh_CN": "It's too loud.",
-      "ko": "It's too loud.",
-      "zh_HK": "It's too loud.",
-      "fr": "It's too loud."
+      "ja": "面接の場では、あまり<ruby>派手<rt>はで</rt></ruby>な色のスーツよりも落ち着いたネイビーが無難です。",
+      "en": "For interviews, a subdued navy suit is safer than an overly flashy colored one.",
+      "zh_TW": "面試場合與其穿太過花俏鮮豔的西裝，低調沉穩的深藍色比較穩妥。",
+      "zh_CN": "面试场合与其穿太过花哨鲜艳的西装，低调沉稳的深蓝色比较稳妥。",
+      "ko": "면접 자리에서는 너무 화려한 색의 정장보다는 차분한 네이비색이 무난합니다.",
+      "zh_HK": "去見工面試嗰陣，與其著咁花巧嘅西裝，不如著斯文嘅深藍色比較穩陣。",
+      "fr": "Pour un entretien, un costume bleu marine sobre est préférable à des couleurs trop voyantes."
     },
     "related": "はで（授業の重要表現）"
   },
@@ -25708,13 +25708,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Après / après / à partir de〜"
     },
     "example": {
-      "ja": "<ruby>昼<rt>ひる</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るの？",
-      "en": "Will it start snowing at noon or later?",
-      "zh_TW": "Will it start snowing at noon or later?",
-      "zh_CN": "Will it start snowing at noon or later?",
-      "ko": "Will it start snowing at noon or later?",
-      "zh_HK": "Will it start snowing at noon or later?",
-      "fr": "Will it start snowing at noon or later?"
+      "ja": "<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>までです。それ<ruby>以降<rt>いこう</rt></ruby>のお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせは<ruby>明日<rt>あした</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。",
+      "en": "Counter reception today is until 5 PM. For any inquiries after that, please contact us tomorrow.",
+      "zh_TW": "今天的臨櫃受理至下午5點截止。5點之後的洽詢請於明日再來電。",
+      "zh_CN": "今天的临柜受理至下午5点截止。5点之后的洽询请于明日再来电。",
+      "ko": "오늘 창구 접수는 오후 5시까지입니다. 그 이후의 문의는 내일 부탁드립니다.",
+      "zh_HK": "今日嘅櫃位辦事處開到下晝5點。之後嘅查詢請聽日再搵我哋。",
+      "fr": "L'accueil au guichet ferme aujourd'hui à 17h. Pour toute demande après cette heure, merci de nous contacter demain."
     },
     "related": "いこう（授業の重要表現）"
   },
@@ -25828,13 +25828,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jours de la semaine / jour de la semaine / jours de la semaine"
     },
     "example": {
-      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。",
-      "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_TW": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_CN": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "ko": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_HK": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "fr": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday."
+      "ja": "<ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>役所<rt>やくしょ</rt></ruby>の窓口は<ruby>平日<rt>へいじつ</rt></ruby>しか<ruby>開<rt>あ</rt></ruby>いていないので、<ruby>時間<rt>じかん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。",
+      "en": "Counters at banks and public offices are usually open only on weekdays, so please mind the time.",
+      "zh_TW": "銀行和公家機關的櫃台通常只有平日開放，請多注意時間。",
+      "zh_CN": "银行和政府部门的窗口通常只有平日开放，请多注意时间。",
+      "ko": "은행이나 관공서 창구는 평일에만 열리므로 시간을 주의하세요.",
+      "zh_HK": "銀行同政府機關嘅櫃位通常淨係平日先開，要留意時間呀。",
+      "fr": "Les guichets des banques et de la mairie ne sont ouverts qu'en semaine, faites attention aux horaires."
     },
     "related": "へいじつ（授業の重要表現）"
   },
@@ -25900,13 +25900,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "étranger / étranger / non-autochtone"
     },
     "example": {
-      "ja": "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>って<ruby>面白<rt>おもしろ</rt></ruby>いなあ。",
-      "en": "Foreign people intrigue me.",
-      "zh_TW": "Foreign people intrigue me.",
-      "zh_CN": "Foreign people intrigue me.",
-      "ko": "Foreign people intrigue me.",
-      "zh_HK": "Foreign people intrigue me.",
-      "fr": "Foreign people intrigue me."
+      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>にはさまざまな<ruby>国<rt>くに</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>がいて、とても<ruby>国際色<rt>こくさいしょく</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かです。",
+      "en": "My workplace has foreign coworkers from various countries, creating an international atmosphere.",
+      "zh_TW": "我的工作職場有來自各國的外籍同事，充滿著豐富多元的國際色彩。",
+      "zh_CN": "我的工作职场有来自各国的外籍同事，充满着丰富多元的国际色彩。",
+      "ko": "저희 직장에는 다양한 국가에서 온 외국인 동료들이 있어 무척 국제적입니다.",
+      "zh_HK": "我返工嗰度有好多嚟自世界各地嘅外國同事，氣氛好國際化好多元。",
+      "fr": "Sur mon lieu de travail, il y a des collègues étrangers venus de divers pays, ce qui crée une belle diversité internationale."
     },
     "related": "がいこくじん（授業の重要表現）"
   },
@@ -26020,13 +26020,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "le plus jeune / le plus jeune enfant / le plus jeune frère ou sœur"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。",
-      "en": "He is the baby of the family.",
-      "zh_TW": "He is the baby of the family.",
-      "zh_CN": "He is the baby of the family.",
-      "ko": "He is the baby of the family.",
-      "zh_HK": "He is the baby of the family.",
-      "fr": "He is the baby of the family."
+      "ja": "<ruby>末っ子<rt>すえっこ</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>甘<rt>あま</rt></ruby>え<ruby>上手<rt>じょうず</rt></ruby>で、いつもみんなを<ruby>笑顔<rt>えがお</rt></ruby>にします。",
+      "en": "My youngest sister is the best at charming others in the family, always making everyone smile.",
+      "zh_TW": "排行最小的老么妹妹最會撒嬌，總是能讓全家人開懷大笑。",
+      "zh_CN": "排行最小的老幺妹妹最会撒娇，总是能让全家人开怀大笑。",
+      "ko": "막내 여동생은 가족 중에서 가장 애교가 많아 항상 모두를 미소 짓게 합니다.",
+      "zh_HK": "排行最細嘅細妹最識嗲人，成日都逗到全家人好開心笑。",
+      "fr": "Ma petite sœur benjamine sait mieux que quiconque se faire cajoler et fait toujours sourire tout le monde."
     },
     "related": "すえっこ（授業の重要表現）"
   },
@@ -26044,13 +26044,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "courtoisie / étiquette / manières / étiquette / courtoisie"
     },
     "example": {
-      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。",
-      "en": "She has fine manners.",
-      "zh_TW": "She has fine manners.",
-      "zh_CN": "She has fine manners.",
-      "ko": "She has fine manners.",
-      "zh_HK": "She has fine manners.",
-      "fr": "She has fine manners."
+      "ja": "どんなに<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、「<ruby>親<rt>した</rt></ruby>しき<ruby>仲<rt>なか</rt></ruby>にも<ruby>礼儀<rt>れいぎ</rt></ruby>あり」を<ruby>忘<rt>わす</rt></ruby>れてはいけません。",
+      "en": "No matter how close you are, you must not forget that 'a hedge between keeps friendship green'.",
+      "zh_TW": "無論彼此關係多麼親密，都絕不能忘記「熟不逾矩，親近亦要有禮貌」的道理。",
+      "zh_CN": "无论彼此关系多么亲密，都绝不能忘记“熟不逾矩，亲近亦要有礼貌”的道理。",
+      "ko": "아무리 친한 사이라 하더라도 '가까운 사이일수록 예의를 지켜야 한다'는 말을 잊어서는 안 됩니다.",
+      "zh_HK": "幾熟嘅朋友都好，切記要「熟絡歸熟絡，說話要有分寸同禮貌」。",
+      "fr": "Même entre personnes très proches, il ne faut jamais oublier le respect et la politesse."
     },
     "related": "れいぎ（授業の重要表現）"
   },
@@ -26068,13 +26068,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "propriétaire / propriétaire d'immeuble / propriétaire / propriétaire d'immeuble"
     },
     "example": {
-      "ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？",
-      "en": "Do you have a big family?",
-      "zh_TW": "Do you have a big family?",
-      "zh_CN": "Do you have a big family?",
-      "ko": "Do you have a big family?",
-      "zh_HK": "Do you have a big family?",
-      "fr": "Do you have a big family?"
+      "ja": "<ruby>水漏<rt>みずも</rt></ruby>れなどのトラブルが起きたときは、まず<ruby>大家<rt>おおや</rt></ruby>さんに連絡して相談しましょう。",
+      "en": "If an issue like a water leak occurs, contact the landlord first to consult.",
+      "zh_TW": "萬一發生漏水等設備故障，請先聯絡房東進行商量。",
+      "zh_CN": "万一发生漏水等设备故障，请先联络房东进行商量。",
+      "ko": "누수 같은 문제가 발생했을 때는 먼저 집주인에게 연락해 상의합시다.",
+      "zh_HK": "如果有爆水喉漏水之類嘅問題，記得第一時間打俾房東傾點處理。",
+      "fr": "En cas de fuite d'eau ou autre problème, contactez d'abord le propriétaire pour lui en parler."
     },
     "related": "おおや（授業の重要表現）"
   },
@@ -26188,13 +26188,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ventilateur électrique / ventilateur électrique / ventilateur"
     },
     "example": {
-      "ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。",
-      "en": "I want the fan.",
-      "zh_TW": "I want the fan.",
-      "zh_CN": "I want the fan.",
-      "ko": "I want the fan.",
-      "zh_HK": "I want the fan.",
-      "fr": "I want the fan."
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったので、<ruby>扇風機<rt>せんぷうき</rt></ruby>の羽根を綺麗に掃除して押し入れに片付けました。",
+      "en": "Summer has ended, so I cleaned the fan blades nicely and put it away in the closet.",
+      "zh_TW": "夏天結束了，我把電風扇的扇葉擦拭乾淨後收進了壁櫥裡。",
+      "zh_CN": "夏天结束了，我把电风扇的扇叶擦拭干净后收进了壁橱里。",
+      "ko": "여름이 끝나서 선풍기 날개를 깨끗이 닦아 벽장에 정리해 넣었습니다.",
+      "zh_HK": "夏天過咗喇，我將風扇扇葉抹乾淨收返入櫃度。",
+      "fr": "L'été étant terminé, j'ai nettoyé les pales du ventilateur et je l'ai rangé dans le placard."
     },
     "related": "せんぷうき（授業の重要表現）"
   },
@@ -26500,13 +26500,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "s'enfuir / s'enfuir / s'enfuir / fuir / s'échapper"
     },
     "example": {
-      "ja": "<ruby>逃<rt>に</rt></ruby>げるが<ruby>勝<rt>か</rt></ruby>ち。",
-      "en": "Yielding is sometimes the best way of succeeding.",
-      "zh_TW": "Yielding is sometimes the best way of succeeding.",
-      "zh_CN": "Yielding is sometimes the best way of succeeding.",
-      "ko": "Yielding is sometimes the best way of succeeding.",
-      "zh_HK": "Yielding is sometimes the best way of succeeding.",
-      "fr": "Yielding is sometimes the best way of succeeding."
+      "ja": "困難な状況でも安易に<ruby>逃げる<rt>にげる</rt></ruby>のではなく、正面から立ち向かいたいです。",
+      "en": "Even in difficult situations, rather than easily running away, I want to face it head-on.",
+      "zh_TW": "即使身處逆境，我也不想輕易逃避，而是想正面勇敢迎擊。",
+      "zh_CN": "即使身处逆境，我也不想轻易逃避，而是想正面勇敢迎击。",
+      "ko": "어려운 상황에서도 쉽게 도망치지 않고 정면으로 맞서고 싶습니다.",
+      "zh_HK": "就算遇到困難都唔想求其逃避，想正面去面對。",
+      "fr": "Même dans les situations difficiles, plutôt que de fuir facilement, je veux faire face avec courage."
     },
     "related": "にげる（授業の重要表現）"
   },
@@ -26620,13 +26620,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jouer / jouer / performance"
     },
     "example": {
-      "ja": "<ruby>演技<rt>えんぎ</rt></ruby>はじめ！",
-      "en": "Action!",
-      "zh_TW": "Action!",
-      "zh_CN": "Action!",
-      "ko": "Action!",
-      "zh_HK": "Action!",
-      "fr": "Action!"
+      "ja": "映画のクライマックスでの主演女優の涙の<ruby>演技<rt>えんぎ</rt></ruby>に、深く心を打たれました。",
+      "en": "I was deeply touched by the lead actress's tearful acting at the climax of the film.",
+      "zh_TW": "電影高潮處女主角流淚的精湛演技，深深打動了我的心。",
+      "zh_CN": "电影高潮处女主角流泪的精湛演技，深深打动了我的心。",
+      "ko": "영화 클라이맥스에서 주연 여배우의 눈물 연기에 깊은 감동을 받았습니다.",
+      "zh_HK": "套戲去到高潮位個女主角喊嗰幕戲真係好逼真，好打動人心。",
+      "fr": "J’ai été profondément ému par le jeu en larmes de l’actrice principale lors du dénouement du film."
     },
     "related": "えんぎ（授業の重要表現）"
   },
@@ -26812,13 +26812,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "chanson / chanson / chanson / piste / morceau de musique"
     },
     "example": {
-      "ja": "<ruby>一<rt>いち</rt></ruby><ruby>曲<rt>きょく</rt></ruby><ruby>聞<rt>き</rt></ruby>くか。",
-      "en": "Will you listen to a piece of music?",
-      "zh_TW": "Will you listen to a piece of music?",
-      "zh_CN": "Will you listen to a piece of music?",
-      "ko": "Will you listen to a piece of music?",
-      "zh_HK": "Will you listen to a piece of music?",
-      "fr": "Will you listen to a piece of music?"
+      "ja": "ドライブの<ruby>途中<rt>とちゅう</rt></ruby>、ラジオから<ruby>懐<rt>なつ</rt></ruby>かしいヒット<ruby>曲<rt>きょく</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れてきました。",
+      "en": "During the drive, a nostalgic hit song came on the radio.",
+      "zh_TW": "兜風開車途中，收音機裡播出了懷舊的暢銷金曲。",
+      "zh_CN": "兜风开车途中，收音机里播出了怀旧的畅销金曲。",
+      "ko": "드라이브 도중 라디오에서 그리운 히트곡이 흘러나왔습니다.",
+      "zh_HK": "兜風揸車途中，收音機播咗首令人懷念嘅熱門經典金曲。",
+      "fr": "Pendant notre trajet en voiture, une chanson à succès nostalgique est passée à la radio."
     },
     "related": "きょく（授業の重要表現）"
   },
@@ -27052,13 +27052,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "excursion / visite / visite"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>この<ruby>町<rt>まち</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>した。",
-      "en": "We saw the sights of the city this afternoon.",
-      "zh_TW": "We saw the sights of the city this afternoon.",
-      "zh_CN": "We saw the sights of the city this afternoon.",
-      "ko": "We saw the sights of the city this afternoon.",
-      "zh_HK": "We saw the sights of the city this afternoon.",
-      "fr": "We saw the sights of the city this afternoon."
+      "ja": "<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>て<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>して、ロボット技術の進歩に驚きました。",
+      "en": "I toured an automobile assembly factory and was amazed by advances in robotics.",
+      "zh_TW": "參觀汽車組裝工廠時，機器人技術的先進令我大為驚嘆。",
+      "zh_CN": "参观汽车组装工厂时，机器人技术的先进令我大为惊叹。",
+      "ko": "자동차 조립 공장을 견학하며 로봇 기술의 눈부신 발전에 놀랐습니다.",
+      "zh_HK": "參觀完汽車裝嵌工廠，真係俾佢哋嘅機械人自動化技術震撼到。",
+      "fr": "J'ai visité une usine d'assemblage automobile et j'ai été émerveillé par les progrès de la robotique."
     },
     "related": "けんがく（授業の重要表現）"
   },
@@ -27196,13 +27196,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "céder / céder / se retirer / céder / céder / céder"
     },
     "example": {
-      "ja": "<ruby>若者<rt>わかもの</rt></ruby>は<ruby>老人<rt>ろうじん</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るべきだ。",
-      "en": "The young should make room for the old.",
-      "zh_TW": "The young should make room for the old.",
-      "zh_CN": "The young should make room for the old.",
-      "ko": "The young should make room for the old.",
-      "zh_HK": "The young should make room for the old.",
-      "fr": "The young should make room for the old."
+      "ja": "<ruby>狭<rt>せま</rt></ruby>い<ruby>道<rt>みち</rt></ruby>で<ruby>向<rt>む</rt></ruby>かいから<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>たので、<ruby>脇<rt>わき</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>って<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
+      "en": "Someone was coming from the opposite direction on the narrow path, so I stepped aside to let them pass.",
+      "zh_TW": "在狹窄的小徑上迎面有人走來，我便退到一旁禮貌地讓對方先過。",
+      "zh_CN": "在狭窄的小径上迎面有人走来，我便退到一旁礼貌地让对方先过。",
+      "ko": "좁은 길에서 맞은편에서 사람이 와서 옆으로 비켜서 길을 양보했습니다.",
+      "zh_HK": "條小路好窄，見到對面有人行過嚟，我就挨埋一邊讓路俾佢行先。",
+      "fr": "Sur le sentier étroit, quelqu'un arrivait en sens inverse, alors je me suis écarté sur le côté pour le laisser passer."
     },
     "related": "ゆずる（授業の重要表現）"
   },
@@ -27484,13 +27484,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Après / après / à partir de〜"
     },
     "example": {
-      "ja": "<ruby>昼<rt>ひる</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るの？",
-      "en": "Will it start snowing at noon or later?",
-      "zh_TW": "Will it start snowing at noon or later?",
-      "zh_CN": "Will it start snowing at noon or later?",
-      "ko": "Will it start snowing at noon or later?",
-      "zh_HK": "Will it start snowing at noon or later?",
-      "fr": "Will it start snowing at noon or later?"
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の1<ruby>日<rt>ついたち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>料金<rt>りょうきん</rt></ruby>プランが<ruby>適用<rt>てきよう</rt></ruby>されますのでご<ruby>確認<rt>かくにん</rt></ruby>ください。",
+      "en": "From the 1st of next month onward, the new pricing plan will apply, so please take a look.",
+      "zh_TW": "下個月1日之後將開始實施新的收費方案，敬請查閱確認。",
+      "zh_CN": "下个月1日之后将开始实施新的收费方案，敬请查阅确认。",
+      "ko": "다음 달 1일 이후로 새로운 요금제가 적용되오니 확인해 주시기 바랍니다.",
+      "zh_HK": "由下個月1號起，就會實施新嘅收費計劃，請大家留意同確認。",
+      "fr": "À partir du 1er du mois prochain, la nouvelle formule tarifaire s'appliquera, veuillez vérifier."
     },
     "related": "いこう（授業の重要表現）"
   },
@@ -27724,13 +27724,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "métro"
     },
     "example": {
-      "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろう。",
-      "en": "Let's take the subway.",
-      "zh_TW": "Let's take the subway.",
-      "zh_CN": "Let's take the subway.",
-      "ko": "Let's take the subway.",
-      "zh_HK": "Let's take the subway.",
-      "fr": "Let's take the subway."
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>路線<rt>ろせん</rt></ruby>が<ruby>複雑<rt>ふくざつ</rt></ruby>ですが、どこへ<ruby>行<rt>い</rt></ruby>くにもとても<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "The Tokyo subway lines are intricate, but it is extremely convenient for going anywhere.",
+      "zh_TW": "東京的地下鐵路網雖然複雜，但要前往任何地方都非常方便。",
+      "zh_CN": "东京的地下铁路网虽然复杂，但要前往任何地方都非常方便。",
+      "ko": "도쿄의 지하철은 노선이 복잡하지만, 어디를 가든 무척 편리합니다.",
+      "zh_HK": "東京嘅地下鐵路網雖然好複雜，但去邊度都非常方便快捷。",
+      "fr": "Le métro de Tokyo a des lignes complexes, mais il est extrêmement pratique pour aller n'importe où."
     },
     "related": "ちかてつ（授業の重要表現）"
   },
@@ -27820,13 +27820,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "avoir, posséder"
     },
     "example": {
-      "ja": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>持<rt>も</rt></ruby>つよ。",
-      "en": "Let me carry it for you.",
-      "zh_TW": "Let me carry it for you.",
-      "zh_CN": "Let me carry it for you.",
-      "ko": "Let me carry it for you.",
-      "zh_HK": "Let me carry it for you.",
-      "fr": "Let me carry it for you."
+      "ja": "重そうな旅行カバンですね。階段の上まで私が<ruby>持つ<rt>もつ</rt></ruby>ので貸してください。",
+      "en": "That looks like a heavy travel suitcase. Let me carry it for you to the top of the stairs.",
+      "zh_TW": "這個行李箱看起來很重呢。我幫你提到樓梯上方，請交給我吧。",
+      "zh_CN": "这个行李箱看起来很重呢。我帮你提到楼梯上方，请交给我吧。",
+      "ko": "무거워 보이는 캐리어네요. 계단 위까지 제가 들 테니 건네주세요.",
+      "zh_HK": "個旅行喼好似好重咁喎，等我幫你拎上去樓梯頂啦。",
+      "fr": "Cette valise a l’air lourde. Laissez-moi la porter pour vous jusqu’en haut des escaliers."
     },
     "related": "もつ（授業の重要表現）"
   },
@@ -27844,13 +27844,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "fleur"
     },
     "example": {
-      "ja": "<ruby>言<rt>い</rt></ruby>わぬが<ruby>花<rt>はな</rt></ruby>。",
-      "en": "Speech is silver, silence is gold.",
-      "zh_TW": "Speech is silver, silence is gold.",
-      "zh_CN": "Speech is silver, silence is gold.",
-      "ko": "Speech is silver, silence is gold.",
-      "zh_HK": "Speech is silver, silence is gold.",
-      "fr": "Speech is silver, silence is gold."
+      "ja": "春の庭に色鮮やかなチューリップの<ruby>花<rt>はな</rt></ruby>がたくさん咲いていて綺麗です。",
+      "en": "In the spring garden, lots of colorful tulips are blooming beautifully.",
+      "zh_TW": "春天的花園裡盛開著許多色彩繽紛的鬱金香花，真漂亮。",
+      "zh_CN": "春天的花园里盛开着许多色彩缤纷的郁金香花，真漂亮。",
+      "ko": "봄 정원에 다채로운 색상의 튤립 꽃이 가득 피어 있어 아름답습니다.",
+      "zh_HK": "春天嘅花園開咗好多五顏六色嘅鬱金香花，好靚。",
+      "fr": "Dans le jardin printanier, de nombreuses tulipes colorées fleurissent magnifiquement."
     },
     "related": "はな（授業の重要表現）"
   },
@@ -27892,13 +27892,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "gorge"
     },
     "example": {
-      "ja": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いた。",
-      "en": "I'm thirsty.",
-      "zh_TW": "I'm thirsty.",
-      "zh_CN": "I'm thirsty.",
-      "ko": "I'm thirsty.",
-      "zh_HK": "I'm thirsty.",
-      "fr": "I'm thirsty."
+      "ja": "夏場の運動中は、<ruby>喉<rt>のど</rt></ruby>が渇く前にこまめに冷たいお茶を飲んで熱中症を防ぎます。",
+      "en": "During summer exercise, drink cold tea frequently before getting thirsty to prevent heatstroke.",
+      "zh_TW": "夏天運動時要在口渴之前就頻繁補充冷茶，以防中暑。",
+      "zh_CN": "夏天运动时要在口渴之前就频繁补充冷茶，以防中暑。",
+      "ko": "여름철 운동 중에는 목이 마르기 전에 시원한 차를 자주 마셔 열사병을 예방합니다.",
+      "zh_HK": "夏天做運動嗰陣，趁口渴之前就要飲多啲凍茶預防中暑。",
+      "fr": "Pendant le sport en été, buvez souvent du thé frais avant d’avoir soif pour prévenir les coups de chaud."
     },
     "related": "のど（授業の重要表現）"
   },
@@ -27916,13 +27916,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "matière / matière scolaire"
     },
     "example": {
-      "ja": "<ruby>教科書<rt>きょうかしょ</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>い。",
-      "en": "Textbooks are expensive.",
-      "zh_TW": "Textbooks are expensive.",
-      "zh_CN": "Textbooks are expensive.",
-      "ko": "Textbooks are expensive.",
-      "zh_HK": "Textbooks are expensive.",
-      "fr": "Textbooks are expensive."
+      "ja": "<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>は<ruby>理科<rt>りか</rt></ruby>や<ruby>数学<rt>すうがく</rt></ruby>などの<ruby>理系<rt>りけい</rt></ruby><ruby>教科<rt>きょうか</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>実験<rt>じっけん</rt></ruby>がとても<ruby>好<rt>す</rt></ruby>きでした。",
+      "en": "In my school days, I excelled in STEM subjects like science and math, and loved experiments.",
+      "zh_TW": "學生時代我很擅長理科與數學等理組學科，非常喜歡做實驗。",
+      "zh_CN": "学生时代我很擅长理科与数学等理科学科，非常喜欢做实验。",
+      "ko": "학창 시절에는 과학과 수학 같은 이과 교과목을 잘해서 실험을 아주 좋아했습니다.",
+      "zh_HK": "我讀書嗰陣好擅長理科同數學，成日都好期待做科學實驗。",
+      "fr": "Quand j'étais étudiant, j'étais doué dans les matières scientifiques comme la physique-chimie et les maths."
     },
     "related": "きょうか（授業の重要表現）"
   },
@@ -28036,13 +28036,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "éducation physique / éducation physique"
     },
     "example": {
-      "ja": "トムは<ruby>体育<rt>たいいく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>だ。",
-      "en": "Tom is a gym teacher.",
-      "zh_TW": "Tom is a gym teacher.",
-      "zh_CN": "Tom is a gym teacher.",
-      "ko": "Tom is a gym teacher.",
-      "zh_HK": "Tom is a gym teacher.",
-      "fr": "Tom is a gym teacher."
+      "ja": "今日の午後は<ruby>体育<rt>たいいく</rt></ruby>の授業で、クラス対抗のバスケットボール大会がありました。",
+      "en": "This afternoon in physical education class, we had an inter-class basketball tournament.",
+      "zh_TW": "今天下午的體育課舉辦了班際籃球對抗賽。",
+      "zh_CN": "今天下午的体育课举办了班级篮球对抗赛。",
+      "ko": "오늘 오후는 체육 수업에서 반 대항 농구 대회가 열렸습니다.",
+      "zh_HK": "今日下晝體育堂搞咗個班際籃球比賽。",
+      "fr": "Cet après-midi en cours d’EPS, nous avons eu un tournoi de basket entre classes."
     },
     "related": "たいいく（授業の重要表現）"
   },
@@ -28084,13 +28084,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "voix"
     },
     "example": {
-      "ja": "<ruby>声援<rt>せいえん</rt></ruby>がやんだ。",
-      "en": "The cheering ceased.",
-      "zh_TW": "The cheering ceased.",
-      "zh_CN": "The cheering ceased.",
-      "ko": "The cheering ceased.",
-      "zh_HK": "The cheering ceased.",
-      "fr": "The cheering ceased."
+      "ja": "<ruby>大<rt>おお</rt></ruby>きな<ruby>会議<rt>かいぎ</rt></ruby>では、<ruby>部屋<rt>へや</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>までしっかり<ruby>届<rt>とど</rt></ruby>くように通る<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>しましょう。",
+      "en": "In a large meeting, speak with a resonant voice so it reaches the back of the room.",
+      "zh_TW": "在大型會議中發言時，請以響亮宏亮的聲音說話，讓聲音傳到會議室後方。",
+      "zh_CN": "在大型会议中发言时，请以响亮宏亮的声音说话，让声音传到会议室后方。",
+      "ko": "큰 회의실에서는 맨 뒤까지 잘 들릴 수 있도록 또렷하고 큰 목소리로 말합시다.",
+      "zh_HK": "喺大嘅會議室開會嗰陣，要用清晰響亮嘅把聲發言，等後面嘅人都聽得清楚。",
+      "fr": "Lors d'une grande réunion, parlez d'une voix bien claire et posée pour être entendu jusqu'au fond."
     },
     "related": "こえ（授業の重要表現）"
   },
@@ -28181,13 +28181,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "lettre/courrier"
     },
     "example": {
-      "ja": "はい、<ruby>手紙<rt>てがみ</rt></ruby>。",
-      "en": "Here's a letter for you.",
-      "zh_TW": "Here's a letter for you.",
-      "zh_CN": "Here's a letter for you.",
-      "ko": "Here's a letter for you.",
-      "zh_HK": "Here's a letter for you.",
-      "fr": "Here's a letter for you."
+      "ja": "遠くの友人に心を込めて手書きの<ruby>手紙<rt>てがみ</rt></ruby>を書き、ポストに投函しました。",
+      "en": "I heartfeltly wrote a handwritten letter to a friend far away and dropped it in the mailbox.",
+      "zh_TW": "用心為遠方的朋友寫了一封親筆信，並投遞進了郵筒。",
+      "zh_CN": "用心为远方的朋友写了一封手写信，并投递进了邮筒。",
+      "ko": "멀리 있는 친구에게 정성을 담아 손편지를 써서 우체통에 넣었습니다.",
+      "zh_HK": "好用心咁親手寫咗封信畀遠方嘅朋友，投咗入郵筒。",
+      "fr": "J’ai écrit avec soin une lettre manuscrite à un ami lointain et je l’ai postée."
     },
     "related": "てがみ（授業の重要表現）"
   },
@@ -28782,13 +28782,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bonbons"
     },
     "example": {
-      "ja": "<ruby>飴<rt>あめ</rt></ruby>がほしい。",
-      "en": "I want a piece of candy.",
-      "zh_TW": "I want a piece of candy.",
-      "zh_CN": "I want a piece of candy.",
-      "ko": "I want a piece of candy.",
-      "zh_HK": "I want a piece of candy.",
-      "fr": "I want a piece of candy."
+      "ja": "風邪で喉がイガイガするので、柑橘風味の美味しいのど<ruby>飴<rt>あめ</rt></ruby>を買いました。",
+      "en": "My throat feels scratchy from a cold, so I bought some tasty citrus-flavored lozenges.",
+      "zh_TW": "因為感冒喉嚨癢癢的，我買了好吃的柑橘風味潤喉糖。",
+      "zh_CN": "因为感冒喉咙干痒，我买了美味的柑橘风味润喉糖。",
+      "ko": "감기로 목이 칼칼해서 맛있는 감귤 맛 목캔디를 샀습니다.",
+      "zh_HK": "感冒搞到喉嚨好痕，所以買咗幾粒柑橘味嘅潤喉糖食。",
+      "fr": "Ayant la gorge qui gratte à cause d’un rhume, j’ai acheté de bonnes pastilles aux agrumes."
     },
     "related": "あめ（授業の重要表現）"
   },
@@ -29167,13 +29167,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour férié / jour rouge / jour férié / fête nationale"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>です。",
-      "en": "We have a holiday today.",
-      "zh_TW": "We have a holiday today.",
-      "zh_CN": "We have a holiday today.",
-      "ko": "We have a holiday today.",
-      "zh_HK": "We have a holiday today.",
-      "fr": "We have a holiday today."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>には「<ruby>海<rt>うみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」や「<ruby>山<rt>やま</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」など、<ruby>自然<rt>しぜん</rt></ruby>の<ruby>恵<rt>めぐ</rt></ruby>みに<ruby>感謝<rt>かんしゃ</rt></ruby>する<ruby>祝日<rt>しゅくじつ</rt></ruby>があります。",
+      "en": "In Japan, there are national holidays like 'Marine Day' and 'Mountain Day' that give thanks to nature.",
+      "zh_TW": "在日本有像是「海洋節」和「山之節」等感謝大自然恩賜的國定假日。",
+      "zh_CN": "在日本有像是“海洋节”和“山之节”等感谢大自然恩赐的国定假日。",
+      "ko": "일본에는 '바다의 날'이나 '산의 날'처럼 자연의 혜택에 감사하는 공휴일이 있습니다.",
+      "zh_HK": "日本有「海之日」同「山之日」等節日，專門用嚟感謝大自然恩賜嘅公眾假期。",
+      "fr": "Au Japon, il existe des jours fériés comme le 'Jour de la Mer' ou le 'Jour de la Montagne' pour remercier la nature."
     },
     "related": "しゅくじつ（授業の重要表現）"
   },
@@ -29407,13 +29407,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "le plus jeune enfant"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。",
-      "en": "He is the baby of the family.",
-      "zh_TW": "He is the baby of the family.",
-      "zh_CN": "He is the baby of the family.",
-      "ko": "He is the baby of the family.",
-      "zh_HK": "He is the baby of the family.",
-      "fr": "He is the baby of the family."
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>ですが、とてもしっかりしていて<ruby>職場<rt>しょくば</rt></ruby>でも<ruby>頼<rt>たよ</rt></ruby>りになります。",
+      "en": "Although he is the youngest child, he is very reliable and dependable in the workplace.",
+      "zh_TW": "雖然他是老么，但做事非常沉穩可靠，在職場上也深受信賴。",
+      "zh_CN": "虽然他是老幺，但做事非常沉稳可靠，在职场上也深受信赖。",
+      "ko": "그는 막내지만 아주 듬직해서 직장에서도 큰 힘이 됩니다.",
+      "zh_HK": "雖然佢係屋企最細，但做嘢好踏實，喺公司大家都好信賴佢。",
+      "fr": "Bien qu'il soit le cadet, il est très mûr et tout le monde compte sur lui au travail."
     },
     "related": "すえっこ（授業の重要表現）"
   },
@@ -29527,13 +29527,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mari (discours décontracté/quotidien)"
     },
     "example": {
-      "ja": "うちの<ruby>旦那<rt>だんな</rt></ruby>。",
-      "en": "He is my husband.",
-      "zh_TW": "He is my husband.",
-      "zh_CN": "He is my husband.",
-      "ko": "He is my husband.",
-      "zh_HK": "He is my husband.",
-      "fr": "He is my husband."
+      "ja": "うちの<ruby>旦那<rt>だんな</rt></ruby>は週末になると腕を振るって美味しいパスタを作ってくれます。",
+      "en": "My husband shows off his cooking skills and makes delicious pasta on weekends.",
+      "zh_TW": "我們家老公一到週末就會大展身手，煮好吃的義大利麵給全家人吃。",
+      "zh_CN": "我们家老公一到周末就会大显身手，做美味的意大利面给全家人吃。",
+      "ko": "우리 남편은 주말이 되면 솜씨를 발휘해 맛있는 파스타를 만들어 줍니다.",
+      "zh_HK": "我老公一到週末就會大顯身手，煮好味嘅意粉畀大家食。",
+      "fr": "Mon mari met la main à la pâte le week-end et nous prépare de délicieuses pâtes."
     },
     "related": "だんな（授業の重要表現）"
   },
@@ -29551,13 +29551,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "examen / test"
     },
     "example": {
-      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だ。",
-      "en": "The exam is coming up next week.",
-      "zh_TW": "The exam is coming up next week.",
-      "zh_CN": "The exam is coming up next week.",
-      "ko": "The exam is coming up next week.",
-      "zh_HK": "The exam is coming up next week.",
-      "fr": "The exam is coming up next week."
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>定期<rt>ていき</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があるので、<ruby>今夜<rt>こんや</rt></ruby>はしっかり<ruby>復習<rt>ふくしゅう</rt></ruby>してから<ruby>寝<rt>ね</rt></ruby>ます。",
+      "en": "I have an important periodic exam tomorrow, so I will review thoroughly tonight before sleeping.",
+      "zh_TW": "明天有很重要的定期期末考試，今晚我要好好複習完之後再去睡覺。",
+      "zh_CN": "明天有很重要的定期期末考试，今晚我要好好复习完之后再去睡觉。",
+      "ko": "내일은 중요한 정기시험이 있어서 오늘 밤 꼼꼼히 복습하고 잘 예정입니다.",
+      "zh_HK": "聽日有重要嘅期中試，今晚要溫熟書複習晒先去瞓覺。",
+      "fr": "Demain j'ai un examen partiel important, ce soir je vais donc bien réviser avant d'aller me coucher."
     },
     "related": "しけん（授業の重要表現）"
   },
@@ -29647,13 +29647,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "boeuf"
     },
     "example": {
-      "ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。",
-      "en": "Beef is expensive.",
-      "zh_TW": "Beef is expensive.",
-      "zh_CN": "Beef is expensive.",
-      "ko": "Beef is expensive.",
-      "zh_HK": "Beef is expensive.",
-      "fr": "Beef is expensive."
+      "ja": "カレーにじっくり煮込んだ<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を入れると、深いコクと旨味が広がります。",
+      "en": "Adding slowly simmered beef to curry creates a deep richness and savory flavor.",
+      "zh_TW": "在咖哩中加入慢火燉煮的牛肉，濃郁香醇的美味隨之蔓延。",
+      "zh_CN": "在咖喱中加入慢火炖煮的牛肉，浓郁香醇的美味随之蔓延。",
+      "ko": "카레에 푹 끓인 소고기를 넣으면 깊은 풍미와 감칠맛이 가득 퍼집니다.",
+      "zh_HK": "喺咖哩入面加慢火燉煮嘅牛肉，會令個汁更加濃郁惹味。",
+      "fr": "Ajouter du bœuf mijoté au curry apporte une saveur riche et profonde."
     },
     "related": "ぎゅうにく（授業の重要表現）"
   },
@@ -29671,13 +29671,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "porc"
     },
     "example": {
-      "ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。",
-      "en": "Pork doesn't agree with me.",
-      "zh_TW": "Pork doesn't agree with me.",
-      "zh_CN": "Pork doesn't agree with me.",
-      "ko": "Pork doesn't agree with me.",
-      "zh_HK": "Pork doesn't agree with me.",
-      "fr": "Pork doesn't agree with me."
+      "ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>にはビタミンB1が<ruby>豊富<rt>ほうふ</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれており、<ruby>疲労<rt>ひろう</rt></ruby><ruby>回復<rt>かいふく</rt></ruby>にとても<ruby>効果的<rt>こうかてき</rt></ruby>です。",
+      "en": "Pork is rich in vitamin B1, which is very effective for recovering from fatigue.",
+      "zh_TW": "豬肉富含維生素B1，對消除疲勞非常有效。",
+      "zh_CN": "猪肉富含维生素B1，对消除疲劳非常有效。",
+      "ko": "돼지고기에는 비타민 B1이 풍부하게 함유되어 있어 피로 회복에 아주 효과적입니다.",
+      "zh_HK": "豬肉含有豐富嘅維他命B1，對消除疲勞非常有幫助。",
+      "fr": "Le porc est riche en vitamine B1, ce qui est très efficace pour récupérer de la fatigue."
     },
     "related": "ぶたにく（授業の重要表現）"
   },
@@ -29791,13 +29791,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Je / moi – homme occasionnel à la première personne"
     },
     "example": {
-      "ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。",
-      "en": "I'm busy.",
-      "zh_TW": "I'm busy.",
-      "zh_CN": "I'm busy.",
-      "ko": "I'm busy.",
-      "zh_HK": "I'm busy.",
-      "fr": "I'm busy."
+      "ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さい<ruby>頃<rt>ころ</rt></ruby>から<ruby>星<rt>ほし</rt></ruby>や<ruby>宇宙<rt>うちゅう</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きで、<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>天文学者<rt>てんもんがくしゃ</rt></ruby>になりたいです。",
+      "en": "Ever since I was little I've loved observing stars and space, and I want to become an astronomer.",
+      "zh_TW": "我從小就很喜歡觀測星空與宇宙，未來的夢想是成為一名天文學家。",
+      "zh_CN": "我从小就很喜欢观测星空与宇宙，未来的梦想是成为一名天文学家。",
+      "ko": "저는 어릴 때부터 별과 우주를 관찰하는 것을 좋아해서, 장래에 천문학자가 되고 싶습니다.",
+      "zh_HK": "我細個嗰陣已經好鍾意睇星星同太空，大個之後嘅志願係做天文學家。",
+      "fr": "Depuis tout petit, j'adore observer les étoiles et l'univers, et j'aimerais devenir astronome plus tard."
     },
     "related": "ぼく（授業の重要表現）"
   },
@@ -30007,13 +30007,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "famille"
     },
     "example": {
-      "ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？",
-      "en": "Do you have a big family?",
-      "zh_TW": "Do you have a big family?",
-      "zh_CN": "Do you have a big family?",
-      "ko": "Do you have a big family?",
-      "zh_HK": "Do you have a big family?",
-      "fr": "Do you have a big family?"
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>そろって、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>公園<rt>こうえん</rt></ruby>へピクニックに<ruby>出<rt>で</rt></ruby>かけます。",
+      "en": "On weekends, our whole family goes on a picnic to a big nearby park.",
+      "zh_TW": "週末我們全家一起去附近的大公園野餐。",
+      "zh_CN": "周末我们全家一起去附近的大公园野餐。",
+      "ko": "주말에는 온 가족이 함께 근처 큰 공원으로 피크닉을 갑니다.",
+      "zh_HK": "逢禮拜六日，我哋全家人都會一齊去附近嘅大公園野餐。",
+      "fr": "Le week-end, toute la famille part en pique-nique dans un grand parc tout proche."
     },
     "related": "かぞく（授業の重要表現）"
   },
@@ -30031,13 +30031,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "petite amie/elle/elle"
     },
     "example": {
-      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。",
-      "en": "She walks.",
-      "zh_TW": "She walks.",
-      "zh_CN": "She walks.",
-      "ko": "She walks.",
-      "zh_HK": "She walks.",
-      "fr": "She walks."
+      "ja": "<ruby>来週末<rt>らいしゅうまつ</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>なので、<ruby>素敵<rt>すてき</rt></ruby>なレストランを<ruby>予約<rt>よやく</rt></ruby>しました。",
+      "en": "Next weekend is my girlfriend's birthday, so I booked a lovely restaurant.",
+      "zh_TW": "下週末是我女朋友的生日，所以我預訂了一家非常棒的景觀餐廳。",
+      "zh_CN": "下周末是我女朋友的生日，所以我预订了一家非常棒的景观餐厅。",
+      "ko": "다음 주말은 여자친구의 생일이라서 멋진 레스토랑을 예약해 두었습니다.",
+      "zh_HK": "下個禮拜六日係我女朋友生日，我訂咗間好靚好浪漫嘅餐廳同佢慶祝。",
+      "fr": "Le week-end prochain, c'est l'anniversaire de ma petite amie, alors j'ai réservé une table dans un restaurant charmant."
     },
     "related": "かのじょ（授業の重要表現）"
   },
@@ -30127,13 +30127,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cœur/esprit/sentiments"
     },
     "example": {
-      "ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。",
-      "en": "The eye is the mirror of the soul.",
-      "zh_TW": "The eye is the mirror of the soul.",
-      "zh_CN": "The eye is the mirror of the soul.",
-      "ko": "The eye is the mirror of the soul.",
-      "zh_HK": "The eye is the mirror of the soul.",
-      "fr": "The eye is the mirror of the soul."
+      "ja": "<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>にすぐに<ruby>手<rt>て</rt></ruby>をさしのべる<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しい<ruby>心<rt>こころ</rt></ruby>に、とても<ruby>感動<rt>かんどう</rt></ruby>しました。",
+      "en": "I was deeply touched by her kind heart that readily reaches out to anyone in trouble.",
+      "zh_TW": "她看見別人有困難就立刻伸出援手的善良心靈，讓我非常感動。",
+      "zh_CN": "她看见别人有困难就立刻伸出援手的善良心灵，让我非常感动。",
+      "ko": "어려움에 처한 사람을 보고 선뜻 도움의 손길을 내미는 그녀의 따뜻한 마음에 깊이 감동했습니다.",
+      "zh_HK": "佢見到人有困難就會主動幫手嘅善良愛心，真係令我好感動。",
+      "fr": "J'ai été profondément ému par son grand cœur, toujours prête à aider ceux qui en ont besoin."
     },
     "related": "こころ（授業の重要表現）"
   },
@@ -30247,13 +30247,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "la semaine dernière"
     },
     "example": {
-      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby>でした。",
-      "en": "It was last week.",
-      "zh_TW": "It was last week.",
-      "zh_CN": "It was last week.",
-      "ko": "It was last week.",
-      "zh_HK": "It was last week.",
-      "fr": "It was last week."
+      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>したレポートが<ruby>先生<rt>せんせい</rt></ruby>からとても<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されて、とても<ruby>嬉<rt>うれ</rt></ruby>しかったです。",
+      "en": "The report I submitted last week was highly praised by my teacher, which made me very happy.",
+      "zh_TW": "上星期繳交的報告得到了老師非常高的評價，讓我感到無比開心。",
+      "zh_CN": "上星期提交的报告得到了老师非常高的评价，让我感到无比开心。",
+      "ko": "지난주에 제출한 과제가 교수님께 좋은 평가를 받아서 정말 기뻤습니다.",
+      "zh_HK": "上個禮拜交嗰份報告得到老師好高分嘅評價，真係好開心。",
+      "fr": "Le rapport que j'ai rendu la semaine dernière a été très bien évalué par le professeur, j'en suis ravi."
     },
     "related": "せんしゅう（授業の重要表現）"
   },
@@ -30271,13 +30271,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "le mois prochain"
     },
     "example": {
-      "ja": "<ruby>再来月<rt>さらいげつ</rt></ruby>は<ruby>１２月<rt>じゅうにがつ</rt></ruby>だ。",
-      "en": "The month after next is December.",
-      "zh_TW": "The month after next is December.",
-      "zh_CN": "The month after next is December.",
-      "ko": "The month after next is December.",
-      "zh_HK": "The month after next is December.",
-      "fr": "The month after next is December."
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに<ruby>大学<rt>だいがく</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>親友<rt>しんゆう</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>するため、<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I'm going to Kyoto early next month to attend the wedding of my best friend from college.",
+      "zh_TW": "下個月初我要去京都參加大學時代摯友的婚禮。",
+      "zh_CN": "下个月初我要去京都参加大学时代挚友的婚礼。",
+      "ko": "다음 달 초에 대학 시절 절친의 결혼식에 참석하기 위해 교토에 갑니다.",
+      "zh_HK": "下個月頭我會去京都，參加大學死黨嘅結婚典禮。",
+      "fr": "Au début du mois prochain, je vais à Kyoto pour assister au mariage de mon meilleur ami d'université."
     },
     "related": "らいげつ（授業の重要表現）"
   },
@@ -30775,13 +30775,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "métro / métro"
     },
     "example": {
-      "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろう。",
-      "en": "Let's take the subway.",
-      "zh_TW": "Let's take the subway.",
-      "zh_CN": "Let's take the subway.",
-      "ko": "Let's take the subway.",
-      "zh_HK": "Let's take the subway.",
-      "fr": "Let's take the subway."
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>のラッシュ<ruby>時<rt>じ</rt></ruby>は<ruby>地下鉄<rt>ちかてつ</rt></ruby>のホームがたくさんの<ruby>通勤客<rt>つうきんきゃく</rt></ruby>でたいへん<ruby>混雑<rt>こんざつ</rt></ruby>します。",
+      "en": "During the morning rush hour, subway platforms are extremely crowded with many commuters.",
+      "zh_TW": "早上的通勤尖峰時段，地下鐵月台上擠滿了大量趕著上班的人潮。",
+      "zh_CN": "早上的通勤尖峰时段，地下铁月台上挤满了大量赶着上班的人潮。",
+      "ko": "아침 출근 시간에는 지하철 승강장이 수많은 통근 승객으로 매우 혼잡합니다.",
+      "zh_HK": "朝早返工繁忙時間，地鐵月台擠滿咗趕住返工返學嘅乘客好迫人。",
+      "fr": "Pendant l'heure de pointe matinale, les quais du métro sont bondés de navetteurs."
     },
     "related": "ちかてつ（授業の重要表現）"
   },
@@ -30823,13 +30823,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "plan / calendrier"
     },
     "example": {
-      "ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。",
-      "en": "Our plan is made.",
-      "zh_TW": "Our plan is made.",
-      "zh_CN": "Our plan is made.",
-      "ko": "Our plan is made.",
-      "zh_HK": "Our plan is made.",
-      "fr": "Our plan is made."
+      "ja": "プロジェクトを<ruby>期日<rt>きじつ</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>完成<rt>かんせい</rt></ruby>させるため、<ruby>詳細<rt>しょうさい</rt></ruby>な<ruby>進行<rt>しんこう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>成しました。",
+      "en": "To finish the project on schedule, we drew up a detailed progress plan.",
+      "zh_TW": "為了讓專案如期完成，我們制定了詳細的進度計畫。",
+      "zh_CN": "为了让项目如期完成，我们制定了详细的进度计划。",
+      "ko": "프로젝트를 기한 내에 완성하기 위해 상세한 진행 계획표를 작성했습니다.",
+      "zh_HK": "為咗個project可以準時搞掂，我哋制定咗份好詳細嘅進度計劃表。",
+      "fr": "Pour terminer le projet dans les délais, nous avons élaboré un plan de progression détaillé."
     },
     "related": "けいかく（授業の重要表現）"
   },
@@ -30847,13 +30847,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "le plus jeune enfant"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>末っ子<rt>すえっこ</rt></ruby>だ。",
-      "en": "He is the baby of the family.",
-      "zh_TW": "He is the baby of the family.",
-      "zh_CN": "He is the baby of the family.",
-      "ko": "He is the baby of the family.",
-      "zh_HK": "He is the baby of the family.",
-      "fr": "He is the baby of the family."
+      "ja": "<ruby>今年<rt>ことし</rt></ruby><ruby>末っ子<rt>すえっこ</rt></ruby>が<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>し、ようやく<ruby>子育<rt>こそだ</rt></ruby>てが一段落しました。",
+      "en": "My youngest child entered elementary school this year, so parenting has finally reached a milestone.",
+      "zh_TW": "今年老么上了小學，育兒的辛苦終於告了一段落。",
+      "zh_CN": "今年老幺上了小学，育儿的辛苦终于告了一段落。",
+      "ko": "올해 막내가 초등학교에 입학하면서 드디어 육아에 한숨을 돌릴 수 있게 되었습니다.",
+      "zh_HK": "今年我最細嗰個仔女升咗小學，湊仔嘅日子終於可以鬆一口氣。",
+      "fr": "Mon benjamin est entré à l'école primaire cette année, une étape importante est enfin franchie dans l'éducation."
     },
     "related": "末っすえっこ（授業の重要表現）"
   },
@@ -31087,13 +31087,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "덥다 / chaud (temps) / avoir chaud"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>い。",
-      "en": "It's hot today.",
-      "zh_TW": "It's hot today.",
-      "zh_CN": "It's hot today.",
-      "ko": "It's hot today.",
-      "zh_HK": "It's hot today.",
-      "fr": "It's hot today."
+      "ja": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にキンキンに<ruby>冷<rt>ひ</rt></ruby>えた<ruby>麦茶<rt>むぎちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと、すっきりと<ruby>生<rt>い</rt></ruby>き<ruby>返<rt>かえ</rt></ruby>るような<ruby>心地<rt>ここち</rt></ruby>がします。",
+      "en": "Drinking ice-cold barley tea on a hot summer day feels wonderfully refreshing and reviving.",
+      "zh_TW": "在炎熱夏日喝一杯冰涼透心的大麥茶，整個人彷彿瞬間活了過來。",
+      "zh_CN": "在炎热夏日喝一杯冰凉透心的大麦茶，整个人仿佛瞬间活了过来。",
+      "ko": "무더운 여름날 얼음처럼 차가운 보리차를 마시면 다시 살아나는 듯 상쾌합니다.",
+      "zh_HK": "喺熱辣辣嘅夏天飲返杯凍冰冰嘅麥茶，成個人舒服晒好似滿血復活咁。",
+      "fr": "Boire un thé d'orge glacé par une chaude journée d'été donne l'impression de revivre."
     },
     "related": "あつい（授業の重要表現）"
   },
@@ -31111,13 +31111,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "좋다 / bien / gentil / être bon"
     },
     "example": {
-      "ja": "<ruby>運<rt>うん</rt></ruby>がいいね。",
-      "en": "It's a godsend.",
-      "zh_TW": "It's a godsend.",
-      "zh_CN": "It's a godsend.",
-      "ko": "It's a godsend.",
-      "zh_HK": "It's a godsend.",
-      "fr": "It's a godsend."
+      "ja": "商店街の福引きで特等の温泉旅行券が当たって、本当に運が<ruby>いい<rt>いい</rt></ruby>です！",
+      "en": "I won the grand prize hot spring trip voucher in the shopping street lottery, I'm so lucky!",
+      "zh_TW": "在商店街的抽獎活動中抽中了特等獎溫泉旅行券，運氣真的太好了！",
+      "zh_CN": "在商业街的抽奖中抽中了特等奖温泉旅行券，运气真的太好了！",
+      "ko": "상점가 경품 추첨에서 특등 온천 여행권을 뽑아서 정말 운이 좋아요!",
+      "zh_HK": "喺商店街抽獎抽中咗特等獎溫泉旅行券，真係好夠運！",
+      "fr": "J’ai gagné le gros lot pour un voyage en onsen à la tombola du quartier, j’ai tellement de chance !"
     },
     "related": "いい（授業の重要表現）"
   },
@@ -31159,13 +31159,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "많다 / beaucoup / beaucoup / être beaucoup"
     },
     "example": {
-      "ja": "<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
-      "en": "I have many doubts.",
-      "zh_TW": "I have many doubts.",
-      "zh_CN": "I have many doubts.",
-      "ko": "I have many doubts.",
-      "zh_HK": "I have many doubts.",
-      "fr": "I have many doubts."
+      "ja": "この<ruby>観光地<rt>かんこうち</rt></ruby>は<ruby>自然<rt>しぜん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>景色<rt>けしき</rt></ruby>が<ruby>美<rt>うつく</rt></ruby>しいため、<ruby>一年中<rt>いちねんじゅう</rt></ruby><ruby>訪<rt>おとず</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "en": "This sightseeing spot is rich in nature with beautiful scenery, so visitors are numerous all year round.",
+      "zh_TW": "這座觀光勝地大自然豐富且景色迷人，一整年造訪的遊客都非常多。",
+      "zh_CN": "这座观光胜地大自然丰富且景色迷人，一整年造访的游客都非常多。",
+      "ko": "이 관광지는 자연이 풍요롭고 경치가 아름다워 연중 방문객이 많습니다.",
+      "zh_HK": "呢個景點大自然風光秀麗景色好靚，一年四季都有好多遊客嚟參觀。",
+      "fr": "Ce site touristique est riche en nature et possède de superbes paysages, les visiteurs y sont donc nombreux toute l'année."
     },
     "related": "おおい（授業の重要表現）"
   },
@@ -32271,13 +32271,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "boeuf"
     },
     "example": {
-      "ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。",
-      "en": "Beef is expensive.",
-      "zh_TW": "Beef is expensive.",
-      "zh_CN": "Beef is expensive.",
-      "ko": "Beef is expensive.",
-      "zh_HK": "Beef is expensive.",
-      "fr": "Beef is expensive."
+      "ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>のステーキをミディアムレアで香ばしくジューシーに焼き上げました。",
+      "en": "I grilled the beef steak medium-rare until it was fragrant and juicy.",
+      "zh_TW": "我將牛排煎至五分熟，香氣四溢且肉汁飽滿。",
+      "zh_CN": "我将牛排煎至五分熟，香气四溢且肉汁饱满。",
+      "ko": "소고기 스테이크를 미디엄 레어로 노릇하고 육즙 가득하게 구워냈습니다.",
+      "zh_HK": "我將塊牛扒煎到五成熟，香味四溢又非常多汁。",
+      "fr": "J'ai cuit le steak de bœuf à point, pour qu'il soit bien juteux et parfumé."
     },
     "related": "ぎゅうにく（授業の重要表現）"
   },
@@ -32295,13 +32295,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "porc"
     },
     "example": {
-      "ja": "<ruby>豚肉<rt>ぶたにく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。",
-      "en": "Pork doesn't agree with me.",
-      "zh_TW": "Pork doesn't agree with me.",
-      "zh_CN": "Pork doesn't agree with me.",
-      "ko": "Pork doesn't agree with me.",
-      "zh_HK": "Pork doesn't agree with me.",
-      "fr": "Pork doesn't agree with me."
+      "ja": "スーパーのタイムセールで<ruby>豚肉<rt>ぶたにく</rt></ruby>をまとめ<ruby>買<rt>か</rt></ruby>いして、小分けにして<ruby>冷凍<rt>れいとう</rt></ruby><ruby>保存<rt>ほぞん</rt></ruby>しました。",
+      "en": "I bought pork in bulk during the supermarket sale and froze it in small portions.",
+      "zh_TW": "我在超市特價時買了大量豬肉，分裝成小份冷凍保存起來。",
+      "zh_CN": "我在超市特价时买了大量猪肉，分装成小份冷冻保存起来。",
+      "ko": "마트 세일 때 돼지고기를 넉넉히 사서 소분하여 냉동 보관했습니다.",
+      "zh_HK": "我趁超市特價買咗好多豬肉，分裝好細包擺入雪櫃冰格保存。",
+      "fr": "J'ai acheté du porc en gros pendant la promo au supermarché et je l'ai congelé en portions."
     },
     "related": "ぶたにく（授業の重要表現）"
   },
@@ -32343,13 +32343,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "marcher / flâner"
     },
     "example": {
-      "ja": "<ruby>散歩<rt>さんぽ</rt></ruby>をした。",
-      "en": "I took a walk.",
-      "zh_TW": "I took a walk.",
-      "zh_CN": "I took a walk.",
-      "ko": "I took a walk.",
-      "zh_HK": "I took a walk.",
-      "fr": "I took a walk."
+      "ja": "気分転換のために近所の公園を<ruby>散歩<rt>さんぽ</rt></ruby>したら、爽やかな気持ちになりました。",
+      "en": "Walking in the nearby park for a change of pace made me feel refreshed.",
+      "zh_TW": "為了轉換心情而在附近的公園散步後，感覺神清氣爽。",
+      "zh_CN": "为了转换心情而在附近的公园散步后，感觉神清气爽。",
+      "ko": "기분 전환을 위해 근처 공원을 산책했더니 한결 상쾌해졌습니다.",
+      "zh_HK": "去附近公園散下步轉移下心情，個人即刻精神晒。",
+      "fr": "En me promenant dans le parc voisin pour me changer les idées, je me suis senti tout revigoré."
     },
     "related": "さんぽ（授業の重要表現）"
   },
@@ -32655,13 +32655,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mal de tête"
     },
     "example": {
-      "ja": "<ruby>頭痛<rt>ずつう</rt></ruby>がする。",
-      "en": "I have a headache.",
-      "zh_TW": "I have a headache.",
-      "zh_CN": "I have a headache.",
-      "ko": "I have a headache.",
-      "zh_HK": "I have a headache.",
-      "fr": "I have a headache."
+      "ja": "長時間のパソコン作業で目の奥とこめかみにズキズキと<ruby>頭痛<rt>ずつう</rt></ruby>がします。",
+      "en": "From long hours of computer work, I have a throbbing headache behind my eyes and temples.",
+      "zh_TW": "由於長時間盯著電腦工作，眼眶深處與太陽穴開始隱隱頭痛。",
+      "zh_CN": "由于长时间盯着电脑工作，眼眶深处与太阳穴开始隐隐头痛。",
+      "ko": "오랜 컴퓨터 작업으로 눈 안쪽과 관자놀이에 욱신욱신 두통이 옵니다.",
+      "zh_HK": "用咗成日電腦搞到眼同太陽穴冤冤痛，頭痛得好辛苦。",
+      "fr": "Après de longues heures devant l’ordinateur, j’ai un mal de tête lancinant derrière les yeux et aux tempes."
     },
     "related": "ずつう（授業の重要表現）"
   },
@@ -32775,13 +32775,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "envieux / jaloux"
     },
     "example": {
-      "ja": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。",
-      "en": "I'm jealous.",
-      "zh_TW": "I'm jealous.",
-      "zh_CN": "I'm jealous.",
-      "ko": "I'm jealous.",
-      "zh_HK": "I'm jealous.",
-      "fr": "I'm jealous."
+      "ja": "ネイティブのように流暢に日本語を話す留学生の姿を見て、とても<ruby>羨ましい<rt>うらやましい</rt></ruby>です。",
+      "en": "Seeing an exchange student speak Japanese fluently like a native, I am so envious.",
+      "zh_TW": "看到留學生像母語人士一樣流暢地講日語，真的非常羨慕。",
+      "zh_CN": "看到留学生像母语人士一样流利地讲日语，真的非常羡慕。",
+      "ko": "원어민처럼 유창하게 일본어를 구사하는 유학생의 모습을 보니 무척 부럽습니다.",
+      "zh_HK": "見到個留學生講日文講到好似日本人咁流利，真係好羨慕。",
+      "fr": "En voyant cet étudiant étranger parler japonais couramment comme un natif, je suis très envieux."
     },
     "related": "うらやましい（授業の重要表現）"
   },
@@ -32799,13 +32799,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "triste / triste"
     },
     "example": {
-      "ja": "<ruby>悲<rt>かな</rt></ruby>しいです。",
-      "en": "I'm sad.",
-      "zh_TW": "I'm sad.",
-      "zh_CN": "I'm sad.",
-      "ko": "I'm sad.",
-      "zh_HK": "I'm sad.",
-      "fr": "I'm sad."
+      "ja": "大切に育てていた植木鉢が強風で倒れて割れてしまい、とても<ruby>悲しい<rt>かなしい</rt></ruby>気持ちです。",
+      "en": "My cherished potted plant was knocked over and broken by strong winds, making me very sad.",
+      "zh_TW": "悉心照顧的盆栽被強風吹倒摔破了，心裡感到非常難過。",
+      "zh_CN": "精心照顾的盆栽被强风吹倒摔破了，心里感到非常难过。",
+      "ko": "소중히 기르던 화분이 강풍에 넘어져 깨져 버려서 너무 슬픕니다.",
+      "zh_HK": "悉心種嘅盆栽畀大風吹冧咗跌碎晒，好心痛好傷心。",
+      "fr": "La plante en pot que je soignais avec amour est tombée avec le vent fort et s’est brisée, je suis très triste."
     },
     "related": "かなしい（授業の重要表現）"
   },
@@ -32871,13 +32871,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "relation / connexion"
     },
     "example": {
-      "ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。",
-      "en": "It is nothing to me.",
-      "zh_TW": "It is nothing to me.",
-      "zh_CN": "It is nothing to me.",
-      "ko": "It is nothing to me.",
-      "zh_HK": "It is nothing to me.",
-      "fr": "It is nothing to me."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>と<ruby>睡眠<rt>すいみん</rt></ruby>には<ruby>深<rt>ふか</rt></ruby>い<ruby>関係<rt>かんけい</rt></ruby>があるため、<ruby>毎日<rt>まいにち</rt></ruby>7<ruby>時間<rt>じかん</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>るようにしています。",
+      "en": "Because health and sleep are deeply related, I make sure to sleep 7 hours every night.",
+      "zh_TW": "由於身體健康與優質睡眠息息相關，我每天都盡量維持睡滿7小時。",
+      "zh_CN": "由于身体健康与优质睡眠息息相关，我每天都尽量维持睡满7小时。",
+      "ko": "건강과 수면은 깊은 연관이 있기 때문에 매일 7시간은 자려고 노력합니다.",
+      "zh_HK": "身體健康同瞓覺有密切關係，所以我每晚都堅持瞓夠7個鐘頭。",
+      "fr": "La santé et le sommeil étant étroitement liés, je veille à dormir au moins sept heures par nuit."
     },
     "related": "かんけい（授業の重要表現）"
   },
@@ -32895,13 +32895,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jardin / cour"
     },
     "example": {
-      "ja": "<ruby>家庭<rt>かてい</rt></ruby>は<ruby>円満<rt>えんまん</rt></ruby>だ。",
-      "en": "I have peace at home.",
-      "zh_TW": "I have peace at home.",
-      "zh_CN": "I have peace at home.",
-      "ko": "I have peace at home.",
-      "zh_HK": "I have peace at home.",
-      "fr": "I have peace at home."
+      "ja": "<ruby>自宅<rt>じたく</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>に四季折々の花を植えて、休日にガーデニングを楽しんでいます。",
+      "en": "I plant flowers of all four seasons in my home garden and enjoy gardening on weekends.",
+      "zh_TW": "我在自家的庭院裡種植四季花草，假日時享受園藝的樂趣。",
+      "zh_CN": "我在自家的庭院里种植四季花草，假日本时享受园艺的乐趣。",
+      "ko": "집 마당에 사계절 꽃을 심고 주말마다 가드닝을 즐깁니다.",
+      "zh_HK": "我喺自己屋企嘅花園種滿四季花草，放假嗰陣好鍾意打理園藝。",
+      "fr": "Je plante des fleurs de saison dans mon jardin et j'aime jardiner pendant mes jours de congé."
     },
     "related": "にわ（授業の重要表現）"
   },
@@ -32943,13 +32943,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "entretien / entretien / entretien"
     },
     "example": {
-      "ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>手入<rt>てい</rt></ruby>れしないと。",
-      "en": "You need to take good care of your house.",
-      "zh_TW": "You need to take good care of your house.",
-      "zh_CN": "You need to take good care of your house.",
-      "ko": "You need to take good care of your house.",
-      "zh_HK": "You need to take good care of your house.",
-      "fr": "You need to take good care of your house."
+      "ja": "お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>革靴<rt>かわぐつ</rt></ruby>を<ruby>長<rt>なが</rt></ruby>く<ruby>履<rt>は</rt></ruby>くために、<ruby>週末<rt>しゅうまつ</rt></ruby>にクリームで<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>手入<rt>てい</rt></ruby>れをしています。",
+      "en": "To wear my favorite leather shoes for a long time, I carefully maintain them with shoe cream on weekends.",
+      "zh_TW": "為了讓愛惜的皮鞋能穿得長久，我週末都會用專用鞋油仔細保養打理。",
+      "zh_CN": "为了让爱惜的皮鞋能穿得长久，我周末都会用专用鞋油仔细保养打理。",
+      "ko": "아끼는 가죽 구두를 오래 신기 위해 주말마다 가죽 크림으로 꼼꼼히 손질합니다.",
+      "zh_HK": "為咗對心愛嘅皮鞋著得耐啲，我放假嗰陣都會用鞋油好細心噉保養打理。",
+      "fr": "Pour garder mes chaussures en cuir préférées longtemps, je les entretiens soigneusement avec du cirage le week-end."
     },
     "related": "ていれ（授業の重要表現）"
   },
@@ -33015,13 +33015,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour de la semaine"
     },
     "example": {
-      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は、<ruby>月<rt>つき</rt></ruby><ruby>火<rt>ひ</rt></ruby><ruby>水木<rt>みずき</rt></ruby><ruby>金<rt>きん</rt></ruby>です。",
-      "en": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_TW": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_CN": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "ko": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "zh_HK": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.",
-      "fr": "The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday."
+      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しくて<ruby>自炊<rt>じすい</rt></ruby>ができないため、<ruby>休日<rt>きゅうじつ</rt></ruby>にまとめてお弁当のおかずを<ruby>作<rt>つく</rt></ruby>り<ruby>置<rt>お</rt></ruby>きしています。",
+      "en": "Because I'm too busy to cook on weekdays, I prepare side dishes in advance on the weekend.",
+      "zh_TW": "因為平日太忙無法自己開伙，我都在週末提前做好常備菜。",
+      "zh_CN": "因为平日太忙无法自己做饭，我都在周末提前做好常备菜。",
+      "ko": "평일에는 바빠서 요리를 하기 어려워, 주말에 반찬을 한꺼번에 만들어 둡니다.",
+      "zh_HK": "因為平日太忙冇時間煮飯，我通常會趁週末整定幾份常備餸菜。",
+      "fr": "Comme je suis trop occupé pour cuisiner en semaine, je prépare des plats d'avance le week-end."
     },
     "related": "へいじつ（授業の重要表現）"
   },
@@ -33377,13 +33377,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "société"
     },
     "example": {
-      "ja": "<ruby>暴力<rt>ぼうりょく</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>のガンだ。",
-      "en": "Violence is the cancer of our society.",
-      "zh_TW": "Violence is the cancer of our society.",
-      "zh_CN": "Violence is the cancer of our society.",
-      "ko": "Violence is the cancer of our society.",
-      "zh_HK": "Violence is the cancer of our society.",
-      "fr": "Violence is the cancer of our society."
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>として<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>みます。",
+      "en": "After graduating from university, I will take on work responsibly as a member of society.",
+      "zh_TW": "大學畢業後，我將作為社會的一員負責任地面對各項工作。",
+      "zh_CN": "大学毕业后，我将作为社会的一员负责任地面对应当完成的工作。",
+      "ko": "대학교를 졸업한 후에는 사회의 일원으로서 책임감을 갖고 일에 임하겠습니다.",
+      "zh_HK": "大學畢業之後，我會作為社會嘅一分子，認真負責噉投入工作。",
+      "fr": "Après mes études universitaires, je m'investirai avec responsabilité dans mon travail en tant que membre de la société."
     },
     "related": "しゃかい（授業の重要表現）"
   },
@@ -33569,13 +33569,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "beaucoup / beaucoup"
     },
     "example": {
-      "ja": "<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
-      "en": "I have many doubts.",
-      "zh_TW": "I have many doubts.",
-      "zh_CN": "I have many doubts.",
-      "ko": "I have many doubts.",
-      "zh_HK": "I have many doubts.",
-      "fr": "I have many doubts."
+      "ja": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>には<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>が<ruby>複数<rt>ふくすう</rt></ruby>あるものが<ruby>多<rt>おお</rt></ruby>いので、じっくり<ruby>覚<rt>おぼ</rt></ruby>えていきましょう。",
+      "en": "Many Japanese kanji have multiple readings, so take your time learning them carefully.",
+      "zh_TW": "日語漢字中有許多字擁有好幾種讀音，請沉著耐心地逐一記下來吧。",
+      "zh_CN": "日语汉字中有许多字拥有好几种读音，请沉着耐心地逐一记下来吧。",
+      "ko": "일본어 한자에는 읽는 법이 여러 개인 것이 많으므로 차근차근 익혀 나갑시다.",
+      "zh_HK": "日文漢字好多都有幾種唔同嘅讀法，慢慢一步步記熟佢啦。",
+      "fr": "Beaucoup de kanjis japonais ont plusieurs lectures, prenez donc le temps de les mémoriser posément."
     },
     "related": "おおい（授業の重要表現）"
   },
@@ -33737,13 +33737,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "territoire / son propre quartier"
     },
     "example": {
-      "ja": "<ruby>地元<rt>じもと</rt></ruby>のチームは<ruby>勝<rt>か</rt></ruby>った。",
-      "en": "The home team won.",
-      "zh_TW": "The home team won.",
-      "zh_CN": "The home team won.",
-      "ko": "The home team won.",
-      "zh_HK": "The home team won.",
-      "fr": "The home team won."
+      "ja": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>都会<rt>とかい</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいますが、お<ruby>盆<rt>ぼん</rt></ruby>や<ruby>正月<rt>しょうがつ</rt></ruby>には<ruby>必<rt>かなら</rt></ruby>ず<ruby>地元<rt>じもと</rt></ruby>の<ruby>実家<rt>じっか</rt></ruby>に<ruby>帰省<rt>きせい</rt></ruby>します。",
+      "en": "I live in the big city for work, but I always return to my hometown family home for Obon and New Year's.",
+      "zh_TW": "雖然因為工作而居住在城市，但盂蘭盆節和過年時我一定會回老家探親。",
+      "zh_CN": "虽然因为工作而居住在城市，但盂兰盆节和过年时我一定会回老家探亲。",
+      "ko": "일 때문에 도시에 살고 있지만, 명절에는 반드시 고향 본가로 귀성합니다.",
+      "zh_HK": "雖然我喺大城市返工住，但大時大節一定會返鄉下老家同屋企人團聚。",
+      "fr": "J'habite en ville pour mon travail, mais je rentre toujours chez mes parents dans ma région natale pour les fêtes."
     },
     "related": "じもと（授業の重要表現）"
   },
@@ -33833,13 +33833,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dur / dur / beaucoup"
     },
     "example": {
-      "ja": "<ruby>大変<rt>たいへん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れた。",
-      "en": "I'm exhausted.",
-      "zh_TW": "I'm exhausted.",
-      "zh_CN": "I'm exhausted.",
-      "ko": "I'm exhausted.",
-      "zh_HK": "I'm exhausted.",
-      "fr": "I'm exhausted."
+      "ja": "<ruby>初<rt>はじ</rt></ruby>めての<ruby>海外<rt>かいがい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>は<ruby>言葉<rt>ことば</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いで<ruby>大変<rt>たいへん</rt></ruby>でしたが、とても<ruby>良<rt>よ</rt></ruby>い<ruby>経験<rt>けいけん</rt></ruby>になりました。",
+      "en": "My first time living abroad was tough due to language and cultural differences, but it was a great experience.",
+      "zh_TW": "第一次在國外生活雖然因語言與文化差異而十分辛苦，但成了極為寶貴的經驗。",
+      "zh_CN": "第一次在国外生活虽然因语言与文化差异而十分辛苦，但成了极为宝贵的经验。",
+      "ko": "첫 해외 생활은 언어와 문화 차이로 무척 힘들었지만, 정말 값진 경험이 되었습니다.",
+      "zh_HK": "第一次一個人喺外國生活，因為語言同文化唔同真係好辛苦，但係個好好嘅磨練同經歷。",
+      "fr": "Ma première expérience de vie à l'étranger a été difficile en raison des différences de langue et de culture, mais très enrichissante."
     },
     "related": "たいへん（授業の重要表現）"
   },
@@ -33907,13 +33907,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "sombre (clair)"
     },
     "example": {
-      "ja": "<ruby>戸外<rt>こがい</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>い。",
-      "en": "It is dark out of doors.",
-      "zh_TW": "It is dark out of doors.",
-      "zh_CN": "It is dark out of doors.",
-      "ko": "It is dark out of doors.",
-      "zh_HK": "It is dark out of doors.",
-      "fr": "It is dark out of doors."
+      "ja": "<ruby>夜道<rt>よみち</rt></ruby>は<ruby>街灯<rt>がいとう</rt></ruby>が少なくて<ruby>暗<rt>くら</rt></ruby>いので、<ruby>足元<rt>あしもと</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて<ruby>歩<rt>ある</rt></ruby>いてください。",
+      "en": "The night road is dark with few streetlights, so please watch your step as you walk.",
+      "zh_TW": "夜路上路燈很少非常昏暗，走路時請小心腳下步伐。",
+      "zh_CN": "夜路上路灯很少非常昏暗，走路时请小心脚下步伐。",
+      "ko": "밤길은 가로등이 적어 어두우므로 발밑을 조심해서 걸으세요.",
+      "zh_HK": "夜晚條路冇乜街燈好暗，行路嗰陣要睇路小心差錯腳呀。",
+      "fr": "La rue est sombre la nuit avec peu de lampadaires, faites attention où vous marchez."
     },
     "related": "くらい（授業の重要表現）"
   },
@@ -33931,13 +33931,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "sombre / introverti"
     },
     "example": {
-      "ja": "<ruby>戸外<rt>こがい</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>い。",
-      "en": "It is dark out of doors.",
-      "zh_TW": "It is dark out of doors.",
-      "zh_CN": "It is dark out of doors.",
-      "ko": "It is dark out of doors.",
-      "zh_HK": "It is dark out of doors.",
-      "fr": "It is dark out of doors."
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>物静<rt>ものしず</rt></ruby>かで<ruby>暗<rt>くら</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>たれがちですが、<ruby>話<rt>はな</rt></ruby>してみるととても<ruby>温<rt>あたた</rt></ruby>かい<ruby>人<rt>ひと</rt></ruby>です。",
+      "en": "He tends to be thought of as quiet and gloomy, but talking to him reveals he's very warm.",
+      "zh_TW": "他常給人安靜沉悶的印象，但一聊起天來會發現他人非常溫暖。",
+      "zh_CN": "他常给人安静沉闷的印象，但一聊起天来会发现他人非常温暖。",
+      "ko": "그는 말수가 적어 어두운 인상을 주기 쉽지만, 대화를 나눠보면 아주 따뜻한 사람입니다.",
+      "zh_HK": "佢平時好少出聲容易俾人覺得好沉鬱，但傾落會發覺他人好溫暖善良。",
+      "fr": "Il a tendance à paraître réservé et sombre, mais quand on discute avec lui, c'est quelqu'un de très chaleureux."
     },
     "related": "くらい（授業の重要表現）"
   },
@@ -34243,13 +34243,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "coffre-fort / coffre-fort"
     },
     "example": {
-      "ja": "<ruby>金庫<rt>きんこ</rt></ruby>はどこ？",
-      "en": "Where's the safe?",
-      "zh_TW": "Where's the safe?",
-      "zh_CN": "Where's the safe?",
-      "ko": "Where's the safe?",
-      "zh_HK": "Where's the safe?",
-      "fr": "Where's the safe?"
+      "ja": "ホテルの客室に備え付けの暗証番号式の<ruby>金庫<rt>きんこ</rt></ruby>に、パスポートと現金を保管しました。",
+      "en": "I kept my passport and cash in the digital safe provided in the hotel room.",
+      "zh_TW": "我將護照和現金保管在飯店客房內附設的密碼式保險箱裡。",
+      "zh_CN": "我将护照和现金保管在酒店客房内附带的密码保险箱里。",
+      "ko": "호텔 객실에 비치된 비밀번호 방식 금고에 여권과 현금을 보관했습니다.",
+      "zh_HK": "我將護照同現金放咗喺酒店房入面嘅密碼保險箱度。",
+      "fr": "J’ai rangé mon passeport et mon argent dans le coffre-fort à code de la chambre d’hôtel."
     },
     "related": "きんこ（授業の重要表現）"
   },
@@ -34459,13 +34459,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "parier / parier / risquer"
     },
     "example": {
-      "ja": "<ruby>大<rt>おお</rt></ruby>きな<ruby>賭<rt>か</rt></ruby>けだ。",
-      "en": "There's a lot at stake.",
-      "zh_TW": "There's a lot at stake.",
-      "zh_CN": "There's a lot at stake.",
-      "ko": "There's a lot at stake.",
-      "zh_HK": "There's a lot at stake.",
-      "fr": "There's a lot at stake."
+      "ja": "新しい事業に全資金を投入するのはリスクが高く、あまりに危険な<ruby>賭け<rt>かけ</rt></ruby>です。",
+      "en": "Investing all funds into a new venture is high risk and too dangerous a gamble.",
+      "zh_TW": "將所有資金投入新事業風險極高，是一場過於危險的賭博。",
+      "zh_CN": "将所有资金投入新事业风险极高，是一场过于危险的赌博。",
+      "ko": "새로운 사업에 모든 자금을 투입하는 것은 리스크가 크고 너무나 위험한 도박입니다.",
+      "zh_HK": "將所有錢掉晒落新業務風險好高，根本係一場好危險嘅賭博。",
+      "fr": "Investir tous ses fonds dans un nouveau projet comporte un risque élevé et s’avère un pari trop dangereux."
     },
     "related": "かけ（授業の重要表現）"
   },
@@ -34579,13 +34579,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "grimper / monter"
     },
     "example": {
-      "ja": "<ruby>塀<rt>へい</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るな。",
-      "en": "Don't climb up the wall.",
-      "zh_TW": "Don't climb up the wall.",
-      "zh_CN": "Don't climb up the wall.",
-      "ko": "Don't climb up the wall.",
-      "zh_HK": "Don't climb up the wall.",
-      "fr": "Don't climb up the wall."
+      "ja": "休日に天気の良い富士山を<ruby>登る<rt>のぼる</rt></ruby>ため、しっかりトレッキングシューズを準備しました。",
+      "en": "In order to climb Mt. Fuji on a sunny holiday, I properly prepared trekking shoes.",
+      "zh_TW": "為了趁放假晴天時攀登富士山，我認真準備好了登山健行鞋。",
+      "zh_CN": "为了趁放假晴天时攀登富士山，我认真准备好了登山鞋。",
+      "ko": "휴일에 날씨 좋은 후지산을 등반하기 위해 트레킹화를 꼼꼼히 준비했습니다.",
+      "zh_HK": "為咗趁放假好天去行富士山，我準備好晒行山鞋。",
+      "fr": "Pour gravir le mont Fuji par beau temps pendant le week-end, j’ai bien préparé mes chaussures de randonnée."
     },
     "related": "のぼる（授業の重要表現）"
   },
@@ -34651,13 +34651,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "revenir / revenir"
     },
     "example": {
-      "ja": "すぐに<ruby>戻<rt>もど</rt></ruby>るよ。",
-      "en": "I will be back soon.",
-      "zh_TW": "I will be back soon.",
-      "zh_CN": "I will be back soon.",
-      "ko": "I will be back soon.",
-      "zh_HK": "I will be back soon.",
-      "fr": "I will be back soon."
+      "ja": "休憩時間が終わったら、速やかに自分のオフィスデスクへ<ruby>戻る<rt>もどる</rt></ruby>ようにしています。",
+      "en": "When break time is over, I make sure to return promptly to my office desk.",
+      "zh_TW": "休息時間結束後，我都會迅速回到自己的辦公桌前。",
+      "zh_CN": "休息时间结束后，我都会迅速回到自己的办公桌前。",
+      "ko": "휴식 시간이 끝나면 신속하게 내 사무실 책상으로 복귀하고 있습니다.",
+      "zh_HK": "一到Break完，我就會拿拿臨返去自己個位度做嘢。",
+      "fr": "Dès que la pause est terminée, je regagne rapidement mon bureau de travail."
     },
     "related": "もどる（授業の重要表現）"
   },
@@ -34675,13 +34675,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "revenir"
     },
     "example": {
-      "ja": "すぐに<ruby>戻<rt>もど</rt></ruby>るよ。",
-      "en": "I will be back soon.",
-      "zh_TW": "I will be back soon.",
-      "zh_CN": "I will be back soon.",
-      "ko": "I will be back soon.",
-      "zh_HK": "I will be back soon.",
-      "fr": "I will be back soon."
+      "ja": "一度外出した後、忘れ物を取りに急いで家へ<ruby>戻る<rt>もどる</rt></ruby>ことになりました。",
+      "en": "After going out once, I had to hurry back home to pick up something I forgot.",
+      "zh_TW": "出門之後因為有東西忘了帶，只好急忙折返回家拿。",
+      "zh_CN": "出门之后因为有东西忘了带，只好急忙折返回家拿。",
+      "ko": "외출한 뒤 잊은 물건을 가지러 급히 집으로 되돌아오게 되었습니다.",
+      "zh_HK": "出咗門口之後發現唔記得帶嘢，唯有急急腳返屋企攞返。",
+      "fr": "Après être sorti, j’ai dû retourner chez moi en vitesse pour récupérer un oubli."
     },
     "related": "もどる（授業の重要表現）"
   },
@@ -34891,13 +34891,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "récemment / dernièrement"
     },
     "example": {
-      "ja": "<ruby>最近<rt>さいきん</rt></ruby>どうだ？",
-      "en": "How have you been recently?",
-      "zh_TW": "How have you been recently?",
-      "zh_CN": "How have you been recently?",
-      "ko": "How have you been recently?",
-      "zh_HK": "How have you been recently?",
-      "fr": "How have you been recently?"
+      "ja": "A: <ruby>最近<rt>さいきん</rt></ruby>、仕事の調子はどうですか？<br/>B: おかげさまで忙しいですが、とても充実しています。",
+      "en": "A: How have things been with work lately?<br/>B: Thanks to you, I'm busy, but it's very fulfilling.",
+      "zh_TW": "A：最近工作狀況如何呢？<br/>B：託您的福雖然忙碌，但過得非常充實。",
+      "zh_CN": "A：最近工作情况如何呢？<br/>B：托您的福虽然忙碌，但过得非常充实。",
+      "ko": "A: 최근 일은 어떠신가요?<br/>B: 덕분에 바쁘지만 아주 보람차게 지내고 있습니다.",
+      "zh_HK": "A：最近做嘢點呀？<br/>B：托賴雖然忙，但係過得好充實。",
+      "fr": "A : Comment ça se passe au travail ces derniers temps ?<br/>B : Grâce à vous je suis bien occupé, mais c’est très enrichissant."
     },
     "related": "さいきん（授業の重要表現）"
   },
@@ -34963,13 +34963,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "envieux / jaloux"
     },
     "example": {
-      "ja": "<ruby>羨<rt>うらや</rt></ruby>ましいなあ。",
-      "en": "I'm jealous.",
-      "zh_TW": "I'm jealous.",
-      "zh_CN": "I'm jealous.",
-      "ko": "I'm jealous.",
-      "zh_HK": "I'm jealous.",
-      "fr": "I'm jealous."
+      "ja": "世界中を旅しながらリモートで自由に働いている友人を見て、とても<ruby>羨ましい<rt>うらやましい</rt></ruby>です。",
+      "en": "Seeing my friend who works freely remotely while traveling the world, I am so envious.",
+      "zh_TW": "看到朋友一邊環遊世界一邊遠端自由工作，真讓人非常羨慕。",
+      "zh_CN": "看到朋友一边环游世界一边远程自由工作，真让人非常羡慕。",
+      "ko": "세계를 여행하며 원격으로 자유롭게 일하는 친구를 보니 너무나 부럽습니다.",
+      "zh_HK": "見到個朋友一邊環遊世界一邊Remote做嘢，真係好羨慕佢咁自由。",
+      "fr": "En voyant mon ami travailler librement à distance tout en voyageant à travers le monde, je suis tellement envieux."
     },
     "related": "うらやましい（授業の重要表現）"
   },
@@ -34987,13 +34987,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "en bonne santé / bonne santé"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>だ。",
-      "en": "He enjoys good health.",
-      "zh_TW": "He enjoys good health.",
-      "zh_CN": "He enjoys good health.",
-      "ko": "He enjoys good health.",
-      "zh_HK": "He enjoys good health.",
-      "fr": "He enjoys good health."
+      "ja": "<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>健康<rt>けんこう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることが、<ruby>病気<rt>びょうき</rt></ruby>の<ruby>早期<rt>そうき</rt></ruby><ruby>発見<rt>はっけん</rt></ruby>と<ruby>予防<rt>よぼう</rt></ruby>につながります。",
+      "en": "Undergoing regular health checkups leads to early detection and prevention of diseases.",
+      "zh_TW": "定期接受健康檢查，有助於疾病的早期發現與預防。",
+      "zh_CN": "定期接受健康检查，有助于疾病的早期发现与预防。",
+      "ko": "정기적으로 건강검진을 받는 것이 질병의 조기 발견과 예방에 큰 도움이 됩니다.",
+      "zh_HK": "定期去做身體檢查，可以及早發現同預防各種病痛。",
+      "fr": "Passer régulièrement un bilan de santé permet de détecter précocement et de prévenir les maladies."
     },
     "related": "けんこう（授業の重要表現）"
   },
@@ -35179,13 +35179,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "saison des pluies / saison de la mousson"
     },
     "example": {
-      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
-      "en": "The rainy season has set in.",
-      "zh_TW": "The rainy season has set in.",
-      "zh_CN": "The rainy season has set in.",
-      "ko": "The rainy season has set in.",
-      "zh_HK": "The rainy season has set in.",
-      "fr": "The rainy season has set in."
+      "ja": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>合間<rt>あいま</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がる<ruby>青空<rt>あおぞら</rt></ruby>は、とても<ruby>爽<rt>さわ</rt></ruby>やかで<ruby>気持<rt>きも</rt></ruby>ちがいいです。",
+      "en": "The blue sky that appears between rainy days during the monsoon feels very refreshing and pleasant.",
+      "zh_TW": "在梅雨放晴的間隙展現的藍天，顯得格外清爽宜人。",
+      "zh_CN": "在梅雨放晴的间歇展现的蓝天，显得格外清爽宜人。",
+      "ko": "장마철 틈틈이 드러나는 푸른 하늘은 아주 상쾌하고 기분이 좋습니다.",
+      "zh_HK": "梅雨天中間難得放晴見到嘅藍天，感覺特別清爽舒服。",
+      "fr": "Le ciel bleu qui apparaît entre deux averses pendant la saison des pluies est très revigorant."
     },
     "related": "つゆ（授業の重要表現）"
   },
@@ -35227,13 +35227,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "qualité"
     },
     "example": {
-      "ja": "<ruby>品質<rt>ひんしつ</rt></ruby>がいい。",
-      "en": "It’s nice quality.",
-      "zh_TW": "It’s nice quality.",
-      "zh_CN": "It’s nice quality.",
-      "ko": "It’s nice quality.",
-      "zh_HK": "It’s nice quality.",
-      "fr": "It’s nice quality."
+      "ja": "日本の伝統的な陶磁器は職人の技術が高く、耐久性と<ruby>品質<rt>ひんしつ</rt></ruby>が素晴らしいです。",
+      "en": "Japanese traditional ceramics reflect skilled craftsmanship, boasting wonderful durability and quality.",
+      "zh_TW": "日本傳統陶瓷展現了職人高超的技藝，耐用度與品質都極為出色。",
+      "zh_CN": "日本传统陶瓷展现了匠人高超的技艺，耐用度与品质都极为出色。",
+      "ko": "일본의 전통 도자기는 장인의 기술이 뛰어나 내구성과 품질이 대단히 훌륭합니다.",
+      "zh_HK": "日本傳統陶瓷工藝師傅手勢好好，耐用度同品質都好高。",
+      "fr": "La céramique traditionnelle japonaise témoigne d’un grand savoir-faire artisanal, avec une qualité et une durabilité remarquables."
     },
     "related": "ひんしつ（授業の重要表現）"
   },
@@ -35539,13 +35539,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "être à temps / arriver à temps"
     },
     "example": {
-      "ja": "まだ<ruby>間に合<rt>まにあ</rt></ruby>う。",
-      "en": "I can still make it.",
-      "zh_TW": "I can still make it.",
-      "zh_CN": "I can still make it.",
-      "ko": "I can still make it.",
-      "zh_HK": "I can still make it.",
-      "fr": "I can still make it."
+      "ja": "急いで駅へ走ったおかげで、発車直前の最終電車に何とか<ruby>間に合う<rt>まにあう</rt></ruby>ことができました。",
+      "en": "Thanks to running hastily to the station, I somehow managed to make it in time for the last train right before departure.",
+      "zh_TW": "多虧我快步跑向車站，總算及時趕上了發車前的末班車。",
+      "zh_CN": "多亏我快步跑向车站，总算及时赶上了发车前的末班车。",
+      "ko": "서둘러 역으로 달린 덕분에 발차 직전 막차에 간신히 맞출 수 있었습니다.",
+      "zh_HK": "好在跑去火車站，啱啱好趕得切開車前搭到尾班車。",
+      "fr": "Grâce à ma course rapide vers la gare, j’ai réussi à attraper le tout dernier train in extremis avant le départ."
     },
     "related": "まにあう（授業の重要表現）"
   },
@@ -35587,13 +35587,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "se cacher / être caché"
     },
     "example": {
-      "ja": "スタジオはとても<ruby>狭<rt>せま</rt></ruby>くて、<ruby>隠<rt>かく</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>はない。",
-      "en": "The studio is very small, with no place to hide.",
-      "zh_TW": "The studio is very small, with no place to hide.",
-      "zh_CN": "The studio is very small, with no place to hide.",
-      "ko": "The studio is very small, with no place to hide.",
-      "zh_HK": "The studio is very small, with no place to hide.",
-      "fr": "The studio is very small, with no place to hide."
+      "ja": "<ruby>突然<rt>とつぜん</rt></ruby>の<ruby>夕立<rt>ゆうだち</rt></ruby>に降られたので、<ruby>駅<rt>えき</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>屋根<rt>やね</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>急<rt>いそ</rt></ruby>いで<ruby>隠<rt>かく</rt></ruby>れて雨宿りをしました。",
+      "en": "Caught in a sudden evening shower, I quickly ducked under the station's big roof to shelter from the rain.",
+      "zh_TW": "突然遭遇傍晚雷陣雨，我急忙躲進車站寬闊的屋簷下避雨。",
+      "zh_CN": "突然遭遇傍晚雷阵雨，我急忙躲进车站宽阔的屋檐下避雨。",
+      "ko": "갑작스러운 소나기를 만나 전철역의 큰 지붕 밑으로 서둘러 피해 비를 피했습니다.",
+      "zh_HK": "突然落起一陣狂風暴雨，我即刻走入車站個大簷篷底避雨。",
+      "fr": "Surpris par une averse soudaine en fin d'après-midi, je me suis vite abrité sous l'auvent de la gare."
     },
     "related": "かくれる（授業の重要表現）"
   },
@@ -35731,13 +35731,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "gouvernement"
     },
     "example": {
-      "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>された。",
-      "en": "The government was overthrown.",
-      "zh_TW": "The government was overthrown.",
-      "zh_CN": "The government was overthrown.",
-      "ko": "The government was overthrown.",
-      "zh_HK": "The government was overthrown.",
-      "fr": "The government was overthrown."
+      "ja": "<ruby>地球<rt>ちきゅう</rt></ruby><ruby>温暖化<rt>おんだんか</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するため、<ruby>世界<rt>せかい</rt></ruby><ruby>各国<rt>かっこく</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>が<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでいます。",
+      "en": "Governments around the world are cooperating to tackle the problem of global warming.",
+      "zh_TW": "為了解決全球暖化問題，世界各國政府正攜手合作共同努力。",
+      "zh_CN": "为了解决全球变暖问题，世界各国政府正携手合作共同努力。",
+      "ko": "지구 온난화 문제를 해결하기 위해 세계 각국 정부가 긴밀히 협력하고 있습니다.",
+      "zh_HK": "為咗解決地球暖化嘅嚴重問題，世界各國政府都通力合作應對。",
+      "fr": "Pour résoudre le problème du réchauffement climatique, les gouvernements du monde entier collaborent étroitement."
     },
     "related": "せいふ（授業の重要表現）"
   },
@@ -35971,13 +35971,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "passe-temps"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多趣味<rt>たしゅみ</rt></ruby>だ。",
-      "en": "He has a lot of hobbies.",
-      "zh_TW": "He has a lot of hobbies.",
-      "zh_CN": "He has a lot of hobbies.",
-      "ko": "He has a lot of hobbies.",
-      "zh_HK": "He has a lot of hobbies.",
-      "fr": "He has a lot of hobbies."
+      "ja": "<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>仲間<rt>なかま</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>えて、<ruby>毎週末<rt>まいしゅうまつ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>がより<ruby>楽<rt>たの</rt></ruby>しくなりました。",
+      "en": "Meeting peers who share the same hobby has made my weekends even more enjoyable.",
+      "zh_TW": "結識了擁有共同愛好的夥伴，讓我的每個週末變得更加充實快樂。",
+      "zh_CN": "结识了拥有共同爱好的伙伴，让我的每个周末变得更加充实快乐。",
+      "ko": "공통의 취미를 가진 친구들을 만나 주말마다 더욱 즐거운 시간을 보내고 있습니다.",
+      "zh_HK": "識到有相同興趣嘅朋友仔，而家每個禮拜日都過得好開心。",
+      "fr": "Rencontrer des personnes partageant la même passion a rendu mes week-ends encore plus agréables."
     },
     "related": "しゅみ（授業の重要表現）"
   },
@@ -35995,13 +35995,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "gagner"
     },
     "example": {
-      "ja": "<ruby>戦<rt>たたか</rt></ruby>いに<ruby>勝<rt>か</rt></ruby>つ。",
-      "en": "We will win the day.",
-      "zh_TW": "We will win the day.",
-      "zh_CN": "We will win the day.",
-      "ko": "We will win the day.",
-      "zh_HK": "We will win the day.",
-      "fr": "We will win the day."
+      "ja": "チーム全員で力を合わせて最後まで粘り強く戦い、決勝戦に<ruby>勝つ<rt>かつ</rt></ruby>ことができました。",
+      "en": "All team members joined forces and fought persistently until the end, winning the final match.",
+      "zh_TW": "全隊上下齊心協力堅持奮戰到最後一刻，終於在冠軍決賽中獲勝。",
+      "zh_CN": "全队上下齐心协力坚持奋战到最后一刻，终于在冠军决赛中获胜。",
+      "ko": "팀 전원이 힘을 합쳐 끝까지 끈질기게 싸워서 결승전에서 승리할 수 있었습니다.",
+      "zh_HK": "全隊合力一齊搏到最後一刻，終於喺決賽贏咗。",
+      "fr": "En unissant leurs forces jusqu’au bout avec ténacité, tous les coéquipiers ont remporté la finale."
     },
     "related": "かつ（授業の重要表現）"
   },
@@ -36139,13 +36139,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "exercice"
     },
     "example": {
-      "ja": "<ruby>運動<rt>うんどう</rt></ruby>します。",
-      "en": "I work out.",
-      "zh_TW": "I work out.",
-      "zh_CN": "I work out.",
-      "ko": "I work out.",
-      "zh_HK": "I work out.",
-      "fr": "I work out."
+      "ja": "週末はスポーツジムに通って、水泳や筋トレなどの適度な<ruby>運動<rt>うんどう</rt></ruby>を楽しんでいます。",
+      "en": "On weekends I visit the gym and enjoy moderate exercise like swimming and weight training.",
+      "zh_TW": "週末我都會去健身房，享受游泳和重訓等適度運動的樂趣。",
+      "zh_CN": "周末我都会去健身房，享受游泳和力量训练等适度运动的乐趣。",
+      "ko": "주말에는 헬스장에 가서 수영이나 근력 운동 등 적당한 운동을 즐기고 있습니다.",
+      "zh_HK": "禮拜六日我會去Gym房游水做下Gym，做下適量運動。",
+      "fr": "Le week-end, je vais à la salle de sport pour faire un peu d’exercice comme la natation ou la musculation."
     },
     "related": "うんどう（授業の重要表現）"
   },
@@ -36211,13 +36211,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "toilettage; entretien; prendre soin"
     },
     "example": {
-      "ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>手入<rt>てい</rt></ruby>れしないと。",
-      "en": "You need to take good care of your house.",
-      "zh_TW": "You need to take good care of your house.",
-      "zh_CN": "You need to take good care of your house.",
-      "ko": "You need to take good care of your house.",
-      "zh_HK": "You need to take good care of your house.",
-      "fr": "You need to take good care of your house."
+      "ja": "<ruby>庭<rt>にわ</rt></ruby>の<ruby>植木<rt>うえき</rt></ruby>や<ruby>芝生<rt>しばふ</rt></ruby>をきれいに<ruby>手入<rt>てい</rt></ruby>れしたおかげで、<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りがとてもすっきりしました。",
+      "en": "Thanks to neatly pruning the yard plants and lawn, the area around the house looks very tidy.",
+      "zh_TW": "多虧細心修剪照料庭院的草木與草坪，整座房子的周遭看起來非常清爽俐落。",
+      "zh_CN": "多亏细心修剪照料庭院的草木与草坪，整座房子的周遭看起来非常清爽俐落。",
+      "ko": "정원의 나무와 잔디를 깔끔하게 다듬은 덕분에 집 주변이 아주 쾌적해졌습니다.",
+      "zh_HK": "好好打理花園啲植物花草之後，成間屋出面睇起上嚟好整潔舒服。",
+      "fr": "Grâce à l'entretien soigné des arbustes et de la pelouse du jardin, les abords de la maison sont impeccables."
     },
     "related": "ていれ（授業の重要表現）"
   },
@@ -36547,13 +36547,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "environnement"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>順応<rt>じゅんのう</rt></ruby>した。",
-      "en": "He adapted himself to circumstances.",
-      "zh_TW": "He adapted himself to circumstances.",
-      "zh_CN": "He adapted himself to circumstances.",
-      "ko": "He adapted himself to circumstances.",
-      "zh_HK": "He adapted himself to circumstances.",
-      "fr": "He adapted himself to circumstances."
+      "ja": "<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しい<ruby>自然<rt>しぜん</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、プラスチックごみの<ruby>削減<rt>さくげん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでいます。",
+      "en": "To protect Earth's beautiful natural environment, we are working to reduce plastic waste.",
+      "zh_TW": "為了守護地球美麗的自然環境，我們致力於減少塑膠垃圾。",
+      "zh_CN": "为了守护地球美丽的自然环境，我们致力于减少塑料垃圾。",
+      "ko": "지구의 아름다운 자연환경을 지키기 위해 플라스틱 쓰레기 줄이기에 힘쓰고 있습니다.",
+      "zh_HK": "為咗保護地球美麗嘅大自然環境，我哋好努力推行減塑減廢。",
+      "fr": "Pour protéger le bel environnement naturel de notre planète, nous nous efforçons de réduire les déchets plastiques."
     },
     "related": "かんきょう（授業の重要表現）"
   },
@@ -36619,13 +36619,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "garder (un animal de compagnie)"
     },
     "example": {
-      "ja": "がちょうを<ruby>飼<rt>か</rt></ruby>う。",
-      "en": "I raise a goose.",
-      "zh_TW": "I raise a goose.",
-      "zh_CN": "I raise a goose.",
-      "ko": "I raise a goose.",
-      "zh_HK": "I raise a goose.",
-      "fr": "I raise a goose."
+      "ja": "マンションでも暮らしやすい小型犬のトイプードルを大切に<ruby>飼<rt>か</rt></ruby>っています。",
+      "en": "I cherish keeping a toy poodle, a small dog that is easy to live with even in an apartment.",
+      "zh_TW": "我們家養了一隻在公寓大樓也很好照顧的小型貴賓犬。",
+      "zh_CN": "我们家养了一只在公寓楼也很好照顾的小型贵宾犬。",
+      "ko": "아파트에서도 키우기 편한 소형견인 토이푸들을 소중히 기르고 있습니다.",
+      "zh_HK": "我哋喺屋企大廈養咗隻好易相處嘅細狗貴婦狗。",
+      "fr": "J’élève avec amour un caniche toy, un petit chien facile à vivre même en appartement."
     },
     "related": "かう（授業の重要表現）"
   },
@@ -36763,13 +36763,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "blessure"
     },
     "example": {
-      "ja": "<ruby>怪我<rt>けが</rt></ruby>はない？",
-      "en": "Are you hurt?",
-      "zh_TW": "Are you hurt?",
-      "zh_CN": "Are you hurt?",
-      "ko": "Are you hurt?",
-      "zh_HK": "Are you hurt?",
-      "fr": "Are you hurt?"
+      "ja": "自転車で転んでしまいましたが、ヘルメットをかぶっていたので大きな<ruby>怪我<rt>けが</rt></ruby>はありませんでした。",
+      "en": "I fell off my bicycle, but because I was wearing a helmet, I didn't suffer any major injury.",
+      "zh_TW": "雖然騎腳踏車摔倒了，但因為有戴安全帽，所以沒有受大傷。",
+      "zh_CN": "虽然骑自行车摔倒了，但因为戴了头盔，所以没有受大伤。",
+      "ko": "자전거에서 넘어졌지만 헬멧을 쓰고 있어서 큰 부상은 없었습니다.",
+      "zh_HK": "踩單車跌親，不過好彩戴咗頭盔所以冇受大傷。",
+      "fr": "Je suis tombé à vélo, mais comme je portais un casque, je n’ai eu aucune blessure grave."
     },
     "related": "けが（授業の重要表現）"
   },
@@ -36811,13 +36811,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "progrès; avancement"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>思想<rt>しそう</rt></ruby>は<ruby>進歩<rt>しんぽ</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。",
-      "en": "His thought is progressive.",
-      "zh_TW": "His thought is progressive.",
-      "zh_CN": "His thought is progressive.",
-      "ko": "His thought is progressive.",
-      "zh_HK": "His thought is progressive.",
-      "fr": "His thought is progressive."
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby>フラッシュカードで<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたことで、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>語彙力<rt>ごいりょく</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>進歩<rt>しんぽ</rt></ruby>しました。",
+      "en": "By continuing to practice with flashcards every day, my Japanese vocabulary has progressed greatly.",
+      "zh_TW": "透過每天用單字卡堅持練習，我的日語字彙量有了大幅的進步。",
+      "zh_CN": "通过每天用单字卡坚持练习，我的日语词汇量有了大幅的进步。",
+      "ko": "매일 플래시카드로 연습을 꾸준히 이어간 덕분에 일본어 어휘력이 크게 향상되었습니다.",
+      "zh_HK": "靠住每日用單字卡溫習，我嘅日文詞彙量進步咗好多。",
+      "fr": "En continuant de m'entraîner chaque jour avec les cartes mémoire, mon vocabulaire en japonais a fait d'immenses progrès."
     },
     "related": "しんぽ（授業の重要表現）"
   },
@@ -36835,13 +36835,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "apparaître; se présenter"
     },
     "example": {
-      "ja": "<ruby>二度<rt>にど</rt></ruby>と<ruby>現<rt>あらわ</rt></ruby>れるな！",
-      "en": "Don't you ever darken my door again!",
-      "zh_TW": "Don't you ever darken my door again!",
-      "zh_CN": "Don't you ever darken my door again!",
-      "ko": "Don't you ever darken my door again!",
-      "zh_HK": "Don't you ever darken my door again!",
-      "fr": "Don't you ever darken my door again!"
+      "ja": "春の訪れとともに、雪解けの大地から可愛らしい草花の芽が次々と<ruby>現れる<rt>あらわれる</rt></ruby>季節になりました。",
+      "en": "With the arrival of spring, cute flower buds emerge one after another from the thawing earth.",
+      "zh_TW": "隨著春天的到來，從融雪的大地中冒出許多可愛花草新芽的季節來臨了。",
+      "zh_CN": "随着春天的到来，从融雪的大地中冒出许多可爱花草新芽的季节来临了。",
+      "ko": "봄의 도래와 함께 눈이 녹은 대지에서 귀여운 초목의 싹이 잇달아 돋아나는 계절이 되었습니다.",
+      "zh_HK": "隨住春天嚟到，溶雪嘅泥土上面生出好多好可愛嘅嫩芽。",
+      "fr": "Avec l’arrivée du printemps, de jolies pousses de fleurs émergent successivement de la terre dégelée."
     },
     "related": "あらわれる（授業の重要表現）"
   },
@@ -36883,13 +36883,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "complexe; composite"
     },
     "example": {
-      "ja": "トムは<ruby>新<rt>あたら</rt></ruby>しい<ruby>複合<rt>ふくごう</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。",
-      "en": "Tom bought a new multifunction printer.",
-      "zh_TW": "Tom bought a new multifunction printer.",
-      "zh_CN": "Tom bought a new multifunction printer.",
-      "ko": "Tom bought a new multifunction printer.",
-      "zh_HK": "Tom bought a new multifunction printer.",
-      "fr": "Tom bought a new multifunction printer."
+      "ja": "オフィスでスキャンや両面印刷が素早く行える最新型の<ruby>複合<rt>ふくごう</rt></ruby>機を導入しました。",
+      "en": "We introduced a modern multi-function printer in the office that allows quick scanning and two-sided printing.",
+      "zh_TW": "辦公室引進了能夠快速掃描與雙面列印的最新型多功能事務複合機。",
+      "zh_CN": "办公室引进了能够快速扫描与双面打印的最新型多功能复合机。",
+      "ko": "사무실에 스캔과 양면 인쇄를 빠르게 처리할 수 있는 최신형 복합기를 도입했습니다.",
+      "zh_HK": "公司買咗部最新款嘅多功能影印複合機，Scan同雙面印都快好多。",
+      "fr": "Nous avons installé au bureau une imprimante multifonction moderne permettant de numériser et d’imprimer recto-verso rapidement."
     },
     "related": "ふくごう（授業の重要表現）"
   },
@@ -37219,13 +37219,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "inondation"
     },
     "example": {
-      "ja": "<ruby>洪水<rt>こうずい</rt></ruby>で<ruby>橋<rt>はし</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた。",
-      "en": "The bridge gave way because of the flood.",
-      "zh_TW": "The bridge gave way because of the flood.",
-      "zh_CN": "The bridge gave way because of the flood.",
-      "ko": "The bridge gave way because of the flood.",
-      "zh_HK": "The bridge gave way because of the flood.",
-      "fr": "The bridge gave way because of the flood."
+      "ja": "<ruby>洪水<rt>こうずい</rt></ruby>などの<ruby>自然<rt>しぜん</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>非常<rt>ひじょう</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>食料<rt>しょくりょう</rt></ruby>や<ruby>水<rt>みず</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しておきましょう。",
+      "en": "To prepare for natural disasters such as floods, let's keep emergency food and water stocked.",
+      "zh_TW": "為了防範水災等自然災害，平時就應備妥應急的糧食與飲用水。",
+      "zh_CN": "为了防范水灾等自然灾害，平时就应备妥应急的粮食与饮用水。",
+      "ko": "홍수 등 자연재해에 대비하여 비상식량과 식수를 미리 준비해 둡시다.",
+      "zh_HK": "為咗預防洪水等自然災害，平時屋企要常備緊急乾糧同食水。",
+      "fr": "Pour parer aux catastrophes naturelles comme les crues, prévoyons toujours des vivres et de l'eau d'urgence."
     },
     "related": "こうずい（授業の重要表現）"
   },
@@ -37363,13 +37363,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "environnement"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>順応<rt>じゅんのう</rt></ruby>した。",
-      "en": "He adapted himself to circumstances.",
-      "zh_TW": "He adapted himself to circumstances.",
-      "zh_CN": "He adapted himself to circumstances.",
-      "ko": "He adapted himself to circumstances.",
-      "zh_HK": "He adapted himself to circumstances.",
-      "fr": "He adapted himself to circumstances."
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいオフィスは<ruby>日当<rt>ひあ</rt></ruby>たりがよく<ruby>静<rt>しず</rt></ruby>かで、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>環境<rt>かんきょう</rt></ruby>です。",
+      "en": "The new office has great natural light and is quiet, offering a wonderful environment to focus on work.",
+      "zh_TW": "新辦公室採光極佳且十分安靜，是能讓人專心辦公的絕佳環境。",
+      "zh_CN": "新办公室采光极佳且十分安静，是能让人专心办公的绝佳环境。",
+      "ko": "새 사무실은 채광이 좋고 조용해서 일에 몰입할 수 있는 훌륭한 환경입니다.",
+      "zh_HK": "新寫字樓陽光充足又夠靜，係個可以令人好專心做嘢嘅理想環境。",
+      "fr": "Le nouveau bureau est bien éclairé et très calme, c'est un cadre idéal pour se concentrer sur son travail."
     },
     "related": "かんきょう（授業の重要表現）"
   },
@@ -37435,13 +37435,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "caractéristique ; fonctionnalité"
     },
     "example": {
-      "ja": "<ruby>熱情<rt>ねつじょう</rt></ruby>が<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。",
-      "en": "Passion is one of her characteristics.",
-      "zh_TW": "Passion is one of her characteristics.",
-      "zh_CN": "Passion is one of her characteristics.",
-      "ko": "Passion is one of her characteristics.",
-      "zh_HK": "Passion is one of her characteristics.",
-      "fr": "Passion is one of her characteristics."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby><ruby>建築<rt>けんちく</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つは、<ruby>木材<rt>もくざい</rt></ruby>のぬくもりをいかした<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きのあるデザインです。",
+      "en": "One characteristic of Japanese architecture is its calming design that showcases the warmth of wood.",
+      "zh_TW": "日本傳統建築的特點之一，是善用木材溫潤質感所呈現的沉穩設計風格。",
+      "zh_CN": "日本传统建筑的特点之一，是善用木材温润质感所呈现的沉稳设计风格。",
+      "ko": "일본 건축의 두드러진 특징 중 하나는 원목의 따스함을 살린 아늑한 디자인입니다.",
+      "zh_HK": "傳統日本建築嘅特色之一，就係善用木材溫暖質感營造出寧靜舒適嘅空間。",
+      "fr": "L'une des caractéristiques de l'architecture japonaise est sa conception épurée qui met en valeur la chaleur du bois."
     },
     "related": "とくちょう（授業の重要表現）"
   },
@@ -37579,13 +37579,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "limite; frontière"
     },
     "example": {
-      "ja": "もう<ruby>限界<rt>げんかい</rt></ruby>だ。",
-      "en": "I have reached my limits.",
-      "zh_TW": "I have reached my limits.",
-      "zh_CN": "I have reached my limits.",
-      "ko": "I have reached my limits.",
-      "zh_HK": "I have reached my limits.",
-      "fr": "I have reached my limits."
+      "ja": "徹夜続きで体力の<ruby>限界<rt>げんかい</rt></ruby>を感じたので、今日は仕事を切り上げてたっぷり眠ります。",
+      "en": "Feeling at the limit of my physical stamina after continuous all-nighters, I will finish work early today and get plenty of sleep.",
+      "zh_TW": "連續熬夜讓我感覺體力已到達極限，今天打算早點結束工作好好睡一覺。",
+      "zh_CN": "连续熬夜让我感觉体力已到达极限，今天打算早点结束工作好好睡一觉。",
+      "ko": "연이은 밤샘으로 체력의 한계를 느꼈기 때문에 오늘은 일을 일찍 마치고 푹 자려고 합니다.",
+      "zh_HK": "連開幾晚通頂個人體力真係到咗極限，今日要早啲收工好好瞓一覺。",
+      "fr": "Ressentant la limite de mes forces après plusieurs nuits blanches, je vais m’arrêter tôt aujourd’hui pour bien dormir."
     },
     "related": "げんかい（授業の重要表現）"
   },
@@ -37939,13 +37939,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "combien?"
     },
     "example": {
-      "ja": "いくつですか？",
-      "en": "How old are you?",
-      "zh_TW": "How old are you?",
-      "zh_CN": "How old are you?",
-      "ko": "How old are you?",
-      "zh_HK": "How old are you?",
-      "fr": "How old are you?"
+      "ja": "A: 焼き鳥の盛り合わせは、一皿に<ruby>いくつ<rt>いくつ</rt></ruby>入っていますか？<br/>B: 全部で五本入っていますよ。",
+      "en": "A: How many pieces are in a yakitori platter plate?<br/>B: There are five skewers in total.",
+      "zh_TW": "A：請問這份綜合烤雞肉串一盤有幾個呢？<br/>B：總共盛有五串喔。",
+      "zh_CN": "A：请问这份烤鸡肉串拼盘一盘有几个呢？<br/>B：总共盛有五串哦。",
+      "ko": "A: 닭꼬치 모둠은 한 접시에 몇 개 들어 있나요?<br/>B: 총 다섯 꼬치 들어 있습니다.",
+      "zh_HK": "A：請問呢碟串燒拼盤有幾多件呀？<br/>B：總共會有五串㗎。",
+      "fr": "A : Combien de pièces contient une assiette d’assortiment de yakitori ?<br/>B : Il y a cinq brochettes au total."
     },
     "related": "数量・年齢（授業の重要表現）"
   },
@@ -37963,13 +37963,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "combien?"
     },
     "example": {
-      "ja": "いくらですか？",
-      "en": "How much is it?",
-      "zh_TW": "How much is it?",
-      "zh_CN": "How much is it?",
-      "ko": "How much is it?",
-      "zh_HK": "How much is it?",
-      "fr": "How much is it?"
+      "ja": "A: すみません、このイチゴのケーキはひとつ<ruby>いくら<rt>いくら</rt></ruby>ですか？<br/>B: 税込で550円となっております。",
+      "en": "A: Excuse me, how much is this strawberry cake each?<br/>B: It is 550 yen including tax.",
+      "zh_TW": "A：不好意思，請問這個草莓蛋糕一個多少錢呢？<br/>B：含稅是550日圓。",
+      "zh_CN": "A：不好意思，请问这个草莓蛋糕一个多少钱呢？<br/>B：含税是550日元。",
+      "ko": "A: 저기요, 이 딸기 케이크는 하나에 얼마인가요?<br/>B: 세금 포함 550엔입니다.",
+      "zh_HK": "A：唔該，請問呢個士多啤梨蛋糕幾多錢一件呀？<br/>B：連稅係550円。",
+      "fr": "A : Excusez-moi, combien coûte ce gâteau aux fraises à la pièce ?<br/>B : Il est à 550 yens taxes comprises."
     },
     "related": "いくら（授業の重要表現）"
   },
@@ -37987,13 +37987,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "honnête; sincère"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-      "en": "He is a square shooter.",
-      "zh_TW": "He is a square shooter.",
-      "zh_CN": "He is a square shooter.",
-      "ko": "He is a square shooter.",
-      "zh_HK": "He is a square shooter.",
-      "fr": "He is a square shooter."
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>をつかず<ruby>約束<rt>やくそく</rt></ruby>をしっかり<ruby>守<rt>まも</rt></ruby>る、とても<ruby>正直<rt>しょうじき</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。",
+      "en": "He never tells lies and always keeps his promises; he is a very honest person.",
+      "zh_TW": "他從不說謊且恪守約定，是個非常誠實正直的人。",
+      "zh_CN": "他从不说谎且恪守约定，是个非常诚实正直的人。",
+      "ko": "그는 거짓말을 하지 않고 약속을 잘 지키는 매우 정직한 사람입니다.",
+      "zh_HK": "佢從來唔講大話而且好守信用，係個好老實誠實嘅人。",
+      "fr": "C'est une personne très honnête qui ne ment jamais et tient toujours ses promesses."
     },
     "related": "しょうじき（授業の重要表現）"
   },
@@ -38011,13 +38011,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "honnêtement ; pour être franc"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-      "en": "He is a square shooter.",
-      "zh_TW": "He is a square shooter.",
-      "zh_CN": "He is a square shooter.",
-      "ko": "He is a square shooter.",
-      "zh_HK": "He is a square shooter.",
-      "fr": "He is a square shooter."
+      "ja": "<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、<ruby>今回<rt>こんかい</rt></ruby>のプレゼンテーションはかなり<ruby>緊張<rt>きんちょう</rt></ruby>しました。",
+      "en": "To be honest, I was quite nervous during this presentation.",
+      "zh_TW": "老實說，這次的簡報發表讓我相當緊張。",
+      "zh_CN": "老实说，这次的简报发表让我相当紧张。",
+      "ko": "솔직히 말하자면, 이번 발표는 꽤 긴장되었습니다.",
+      "zh_HK": "老實講句，今次呢個簡報匯報我真係幾緊張。",
+      "fr": "Pour être tout à fait honnête, j'étais particulièrement stressé pour cette présentation."
     },
     "related": "しょうじき（授業の重要表現）"
   },
@@ -38467,13 +38467,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "erreur; erreur"
     },
     "example": {
-      "ja": "<ruby>間違<rt>まちが</rt></ruby>いない！",
-      "en": "I'm absolutely sure!",
-      "zh_TW": "I'm absolutely sure!",
-      "zh_CN": "I'm absolutely sure!",
-      "ko": "I'm absolutely sure!",
-      "zh_HK": "I'm absolutely sure!",
-      "fr": "I'm absolutely sure!"
+      "ja": "テストの解答用紙を提出する前に、記入漏れや<ruby>間違い<rt>まちがい</rt></ruby>がないか慎重に見直しました。",
+      "en": "Before submitting my test answer sheet, I carefully reviewed it to see if there were any omissions or mistakes.",
+      "zh_TW": "在交出考卷答案紙之前，我仔細檢查了有沒有漏填或寫錯的地方。",
+      "zh_CN": "在交出考卷答案纸之前，我仔细检查了有没有漏填或写错的地方。",
+      "ko": "시험 답안지를 제출하기 전에 누락이나 실수가 없는지 신중하게 다시 검토했습니다.",
+      "zh_HK": "交試卷之前，好小心咁check清楚有冇填漏或者寫錯。",
+      "fr": "Avant de rendre ma copie d’examen, j’ai vérifié attentivement qu’il n’y avait ni oubli ni erreur."
     },
     "related": "まちがい（授業の重要表現）"
   },
@@ -38636,13 +38636,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "communication"
     },
     "example": {
-      "ja": "<ruby>連絡<rt>れんらく</rt></ruby>してね。",
-      "en": "Keep in touch.",
-      "zh_TW": "Keep in touch.",
-      "zh_CN": "Keep in touch.",
-      "ko": "Keep in touch.",
-      "zh_HK": "Keep in touch.",
-      "fr": "Keep in touch."
+      "ja": "駅に到着したら、改札口の前で待っているので携帯電話に<ruby>連絡<rt>れんらく</rt></ruby>してくださいね。",
+      "en": "When you arrive at the station, I'll be waiting in front of the ticket gate, so please contact my mobile phone.",
+      "zh_TW": "到了車站之後我會在剪票口前等你，請打電話跟我聯絡喔。",
+      "zh_CN": "到了车站之后我会在检票口前等你，请打电话跟我联系哦。",
+      "ko": "역에 도착하면 개찰구 앞에서 기다리고 있을 테니 휴대폰으로 연락해 주세요.",
+      "zh_HK": "去到火車站之後我會喺入閘口前面等，記得打我手機同我講。",
+      "fr": "Quand tu seras arrivé à la gare, je t’attendrai devant les portillons, alors appelle-moi sur mon portable."
     },
     "related": "Contact / communication — getting in touch with someone, or a message/notification sent to them. Used as a noun or する-ve"
   },
@@ -38711,13 +38711,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "distant"
     },
     "example": {
-      "ja": "ここから<ruby>遠<rt>とお</rt></ruby>いの？",
-      "en": "Is it far from here?",
-      "zh_TW": "Is it far from here?",
-      "zh_CN": "Is it far from here?",
-      "ko": "Is it far from here?",
-      "zh_HK": "Is it far from here?",
-      "fr": "Is it far from here?"
+      "ja": "自宅から最寄り駅までは歩いて25分ほどかかり、少し<ruby>遠い<rt>とおい</rt></ruby>ので自転車を使っています。",
+      "en": "It takes about 25 minutes on foot from my home to the nearest station, which is a bit far, so I use a bicycle.",
+      "zh_TW": "從家裡走到最近的車站要花大約25分鐘，有點遠，所以我平時都騎腳踏車。",
+      "zh_CN": "从家里走到最近的车站要花大约25分钟，有点远，所以我平时都骑自行车。",
+      "ko": "집에서 가장 가까운 역까지는 걸어서 25분 정도 걸려 조금 멀기 때문에 자전거를 이용합니다.",
+      "zh_HK": "由屋企行去最近嘅車站要差唔多25分鐘有啲遠，所以我平時踩單車去。",
+      "fr": "Il faut environ 25 minutes à pied de chez moi à la gare la plus proche, c’est un peu loin, alors j’utilise un vélo."
     },
     "related": "【遠い（とおい）】Far / distant — physically far away, or a distant relationship/memory."
   },
@@ -39011,13 +39011,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "aller"
     },
     "example": {
-      "ja": "<ruby>誰<rt>だれ</rt></ruby>と<ruby>行<rt>い</rt></ruby>くの。",
-      "en": "Who will you go with?",
-      "zh_TW": "Who will you go with?",
-      "zh_CN": "Who will you go with?",
-      "ko": "Who will you go with?",
-      "zh_HK": "Who will you go with?",
-      "fr": "Who will you go with?"
+      "ja": "天気の良い週末なので、電車に乗って家族みんなで鎌倉へ観光に<ruby>行く<rt>いく</rt></ruby>予定です。",
+      "en": "Since it's a sunny weekend, we plan to take the train and go sightseeing in Kamakura with the whole family.",
+      "zh_TW": "趁著週末天氣晴朗，我們打算全家人搭電車去鎌倉觀光。",
+      "zh_CN": "趁着周末天气晴朗，我们打算全家人坐电车去镰仓观光。",
+      "ko": "날씨 좋은 주말이라 전철을 타고 온 가족이 함께 가마쿠라로 관광을 갈 예정입니다.",
+      "zh_HK": "趁住週末好天，打算全家人一齊搭火車去鎌倉觀光行下。",
+      "fr": "Comme il fait beau ce week-end, nous prévoyons de prendre le train pour faire du tourisme à Kamakura en famille."
     },
     "related": "Both involve going somewhere, but 通う implies regularity and routine."
   },
@@ -39186,13 +39186,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "escroquerie"
     },
     "example": {
-      "ja": "<ruby>詐欺<rt>さぎ</rt></ruby><ruby>臭<rt>くさ</rt></ruby>いな。",
-      "en": "It sounds like a scam.",
-      "zh_TW": "It sounds like a scam.",
-      "zh_CN": "It sounds like a scam.",
-      "ko": "It sounds like a scam.",
-      "zh_HK": "It sounds like a scam.",
-      "fr": "It sounds like a scam."
+      "ja": "身に覚えのない不審なメールや電話は、振り込め<ruby>詐欺<rt>さぎ</rt></ruby>の手口の可能性があるので注意しましょう。",
+      "en": "Suspicious emails or phone calls you don't recognize may be scam tactics, so please be cautious.",
+      "zh_TW": "沒有印象的可疑電子郵件或電話很有可能是匯款詐騙手法，請務必提高警覺。",
+      "zh_CN": "没有印象的可疑邮件或电话很有可能是电信诈骗手法，请务必提高警觉。",
+      "ko": "기억에 없는 의심스러운 이메일이나 전화는 보이스피싱 사기 수법일 수 있으니 주의합시다.",
+      "zh_HK": "冇頭冇尾嘅古怪Email同電話好可能係騙案，千祈要小心。",
+      "fr": "Les e-mails ou appels suspects dont vous ne vous souvenez pas peuvent être des escroqueries, restez vigilant."
     },
     "related": "Fraud / scam — deliberately deceiving someone for money or personal gain"
   },
@@ -39511,13 +39511,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "lentement"
     },
     "example": {
-      "ja": "ゆっくり<ruby>歩<rt>ある</rt></ruby>け。",
-      "en": "Walk slowly.",
-      "zh_TW": "Walk slowly.",
-      "zh_CN": "Walk slowly.",
-      "ko": "Walk slowly.",
-      "zh_HK": "Walk slowly.",
-      "fr": "Walk slowly."
+      "ja": "焦らずに<ruby>ゆっくり<rt>ゆっくり</rt></ruby>時間をかけて、一つひとつの漢字の書き順を丁寧に覚えます。",
+      "en": "Without rushing, I take my time slowly and carefully learn the stroke order of each kanji.",
+      "zh_TW": "不疾不徐地花時間慢慢來，仔細地記好每一個漢字的筆順。",
+      "zh_CN": "不急不躁地花时间慢慢来，仔细地记好每一个汉字的笔顺。",
+      "ko": "서두르지 않고 천천히 시간을 들여 한 글자 한 글자 한자의 획순을 꼼꼼히 익힙니다.",
+      "zh_HK": "唔使心急慢慢嚟，好仔細咁記好每一個漢字嘅筆順。",
+      "fr": "Sans me presser, je prends mon temps pour apprendre soigneusement l’ordre des traits de chaque kanji."
     },
     "related": "Both suggest a slow, relaxed pace, but the feeling is different."
   },
@@ -40711,13 +40711,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "honnêteté"
     },
     "example": {
-      "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-      "en": "He is a square shooter.",
-      "zh_TW": "He is a square shooter.",
-      "zh_CN": "He is a square shooter.",
-      "ko": "He is a square shooter.",
-      "zh_HK": "He is a square shooter.",
-      "fr": "He is a square shooter."
+      "ja": "ミスをした<ruby>時<rt>とき</rt></ruby>は、<ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>をせずに<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>謝<rt>あやま</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "en": "When you make a mistake, it is important to apologize honestly without making excuses.",
+      "zh_TW": "犯錯的時候，不找藉口並誠實道歉是非常重要的。",
+      "zh_CN": "犯错的时候，不找借口并诚实道歉是非常重要的。",
+      "ko": "실수를 했을 때는 변명하지 않고 정직하게 사과하는 것이 중요합니다.",
+      "zh_HK": "做錯事嗰陣，唔好搵藉口，老老實實認錯同道歉係最緊要嘅。",
+      "fr": "Quand on fait une erreur, il est essentiel de s'excuser sincèrement sans chercher d'excuses."
     },
     "related": "Honest / honesty — describing a person who tells the truth, or used as an adverb meaning 'honestly speaking / to be fran"
   },
@@ -40761,13 +40761,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "à loisir"
     },
     "example": {
-      "ja": "のんびり<ruby>行<rt>い</rt></ruby>こう。",
-      "en": "Take it easy.",
-      "zh_TW": "Take it easy.",
-      "zh_CN": "Take it easy.",
-      "ko": "Take it easy.",
-      "zh_HK": "Take it easy.",
-      "fr": "Take it easy."
+      "ja": "週末の休日は予定を詰め込まず、温かいお茶を飲みながら家で<ruby>のんびり<rt>のんびり</rt></ruby>過ごしました。",
+      "en": "Without crowding my holiday with plans, I spent the weekend leisurely at home drinking warm tea.",
+      "zh_TW": "週末休假我不排滿行程，而是悠悠哉哉地待在家裡喝溫茶渡過。",
+      "zh_CN": "周末休假我不把行程排满，而是悠闲地待在家里喝温茶度过。",
+      "ko": "주말 휴일에는 일정을 빡빡하게 잡지 않고, 따뜻한 차를 마시며 집에서 느긋하게 보냈습니다.",
+      "zh_HK": "放假唔排滿晒啲Schedule，留喺屋企一路飲熱茶一路好舒服咁放鬆。",
+      "fr": "Pendant le week-end, sans surcharger mon emploi du temps, je me suis détendu tranquillement à la maison avec un thé chaud."
     },
     "related": "Relaxed / at a leisurely pace / taking it easy — an adverb describing a calm, unhurried state. Often implies freedom fro"
   },
@@ -40836,13 +40836,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "déplacement"
     },
     "example": {
-      "ja": "<ruby>行<rt>い</rt></ruby>きなさい。",
-      "en": "Go.",
-      "zh_TW": "Go.",
-      "zh_CN": "Go.",
-      "ko": "Go.",
-      "zh_HK": "Go.",
-      "fr": "Go."
+      "ja": "空港へ向かう<ruby>行き<rt>いき</rt></ruby>のバスの中で、パスポートと航空券が手元にあるか再確認しました。",
+      "en": "On the bus heading to the airport, I double-checked that I had my passport and airline tickets in hand.",
+      "zh_TW": "在前往機場的去程公車上，我再次確認護照和機票是否都有帶在身邊。",
+      "zh_CN": "在前往机场的去程公交车上，我再次确认护照和机票是否都有带在身边。",
+      "ko": "공항으로 향하는 가는 편 버스 안에서 여권과 항공권을 잘 챙겼는지 다시 확인했습니다.",
+      "zh_HK": "搭去機場架巴士上面，我check多次本護照同機票有冇帶齊。",
+      "fr": "Dans le bus en route vers l’aéroport, j’ai vérifié une nouvelle fois que j’avais bien mon passeport et mes billets d’avion."
     },
     "related": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting poin"
   },
@@ -41136,13 +41136,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "comme il vous plaît"
     },
     "example": {
-      "ja": "<ruby>自由<rt>じゆう</rt></ruby>の<ruby>身<rt>み</rt></ruby>ね。",
-      "en": "You're a free man.",
-      "zh_TW": "You're a free man.",
-      "zh_CN": "You're a free man.",
-      "ko": "You're a free man.",
-      "zh_HK": "You're a free man.",
-      "fr": "You're a free man."
+      "ja": "テストがすべて終わって、今週末はやっと自分の時間を<ruby>自由<rt>じゆう</rt></ruby>に満喫できます。",
+      "en": "All tests are finished, and this weekend I can finally enjoy my time freely.",
+      "zh_TW": "所有的考試都結束了，這個週末終於可以自由自在地享受屬於自己的時光。",
+      "zh_CN": "所有的考试都结束了，这个周末终于可以自由自在地享受属于自己的时光。",
+      "ko": "시험이 모두 끝나서 이번 주말에는 드디어 내 시간을 자유롭게 만끽할 수 있습니다.",
+      "zh_HK": "考完晒所有試，今個禮拜六日終於可以自由自在咁享受自己嘅時間。",
+      "fr": "Tous les examens sont terminés, je peux enfin profiter librement de mon temps ce week-end."
     },
     "related": "Freedom / liberty / free — the state of being free to act or choose as one wishes. Used as a noun or な-adjective."
   },
@@ -41186,13 +41186,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "génération"
     },
     "example": {
-      "ja": "トムは<ruby>私<rt>わたし</rt></ruby>と<ruby>同<rt>どう</rt></ruby><ruby>世代<rt>せだい</rt></ruby>よ。",
-      "en": "Tom and I are the same generation.",
-      "zh_TW": "Tom and I are the same generation.",
-      "zh_CN": "Tom and I are the same generation.",
-      "ko": "Tom and I are the same generation.",
-      "zh_HK": "Tom and I are the same generation.",
-      "fr": "Tom and I are the same generation."
+      "ja": "同じ時代に流行した音楽やアニメについて話していると、<ruby>世代<rt>せだい</rt></ruby>の近さを実感します。",
+      "en": "Talking about music and anime that were popular in the same era makes me truly feel how close our generations are.",
+      "zh_TW": "聊到同一個時代流行的音樂和動畫時，真切感受到我們世代非常相近。",
+      "zh_CN": "聊到同一个时代流行的音乐和动画时，真切感受到我们世代非常相近。",
+      "ko": "같은 시대에 유행했던 음악이나 애니메이션에 대해 이야기하다 보면 세대가 가깝다는 것을 실감합니다.",
+      "zh_HK": "講起同一年代興嘅歌同卡通片，真係即刻覺得大家係同一個世代嘅人。",
+      "fr": "En parlant des musiques et dessins animés populaires de la même époque, on ressent vraiment la proximité de nos générations."
     },
     "related": "Generation — a group of people born and living around the same time, or a single step in a family line."
   },
@@ -41261,13 +41261,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "automatique"
     },
     "example": {
-      "ja": "<ruby>自動<rt>じどう</rt></ruby>ドアです。",
-      "en": "The doors open automatically.",
-      "zh_TW": "The doors open automatically.",
-      "zh_CN": "The doors open automatically.",
-      "ko": "The doors open automatically.",
-      "zh_HK": "The doors open automatically.",
-      "fr": "The doors open automatically."
+      "ja": "スーパーの入口に近づくと、センサーが反応して<ruby>自動<rt>じどう</rt></ruby>でドアが静かに開きます。",
+      "en": "When you approach the supermarket entrance, the sensor reacts and the door opens automatically and quietly.",
+      "zh_TW": "走近超市入口時，感應器會偵測反應，電動門便會靜靜地自動開啟。",
+      "zh_CN": "走近超市入口时，传感器会感应反应，自动门便会静静地打开。",
+      "ko": "마트 입구에 다가가면 센서가 반응하여 자동으로 문이 조용히 열립니다.",
+      "zh_HK": "行近超市門口嗰陣，個感應器一感應到道自動門就會靜靜咁開。",
+      "fr": "Quand on s’approche de l’entrée du supermarché, le capteur se déclenche et la porte automatique s’ouvre en silence."
     },
     "related": "Automatic — operating by itself without human input. Used as a prefix in many compound words."
   },
@@ -41661,13 +41661,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "lourd"
     },
     "example": {
-      "ja": "トムは<ruby>重<rt>おも</rt></ruby>い。",
-      "en": "Tom is heavy.",
-      "zh_TW": "Tom is heavy.",
-      "zh_CN": "Tom is heavy.",
-      "ko": "Tom is heavy.",
-      "zh_HK": "Tom is heavy.",
-      "fr": "Tom is heavy."
+      "ja": "教科書やノートがたくさん入ったリュックサックは、ずっしりと肩に食い込むほど<ruby>重い<rt>おもい</rt></ruby>です。",
+      "en": "The backpack filled with textbooks and notebooks is heavy enough to dig into my shoulders.",
+      "zh_TW": "裝滿了教科書和筆記本的後背包沉甸甸的，重得都勒進肩膀裡了。",
+      "zh_CN": "装满了教科书和笔记本的背包沉甸甸的，重得都勒进肩膀里了。",
+      "ko": "교과서와 노트가 가득 들어 있는 백팩은 어깨를 짓누를 정도로 묵직하게 무겁습니다.",
+      "zh_HK": "裝滿教科書同筆記嘅背囊好重，重到壓住個膊頭。",
+      "fr": "Le sac à dos rempli de manuels et de cahiers est si lourd qu’il s’enfonce dans les épaules."
     },
     "related": "Heavy (in weight) / serious / burdensome — describes something with significant weight, or figuratively something seriou"
   },
@@ -42036,13 +42036,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "conséquence"
     },
     "example": {
-      "ja": "<ruby>結果<rt>けっか</rt></ruby>は<ruby>良<rt>よ</rt></ruby>い。",
-      "en": "The results are good.",
-      "zh_TW": "The results are good.",
-      "zh_CN": "The results are good.",
-      "ko": "The results are good.",
-      "zh_HK": "The results are good.",
-      "fr": "The results are good."
+      "ja": "毎日コツコツと勉強を積み重ねた<ruby>結果<rt>けっか</rt></ruby>、JLPTの合格通知を受け取ることができました。",
+      "en": "As a result of studying diligently every day, I was able to receive a passing notice for the JLPT.",
+      "zh_TW": "每天腳踏實地累積學習的成果，讓我順利收到了JLPT檢定的合格通知。",
+      "zh_CN": "每天脚踏实地积累学习的成果，让我顺利收到了JLPT检定的合格通知。",
+      "ko": "매일 꾸준히 공부를 쌓아 온 결과, JLPT 합격 통지서를 받을 수 있었습니다.",
+      "zh_HK": "每日好勤力讀書嘅成果，終於令我收到JLPT及格合格通知書。",
+      "fr": "Grâce à mes efforts réguliers au quotidien, j’ai pu recevoir mon attestation de réussite au JLPT."
     },
     "related": "Result / outcome — what happens as a consequence of an action, process, or event."
   },
@@ -42811,13 +42811,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "aîné"
     },
     "example": {
-      "ja": "トムは<ruby>高校<rt>こうこう</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>です。",
-      "en": "Tom and I went to the same high school.",
-      "zh_TW": "Tom and I went to the same high school.",
-      "zh_CN": "Tom and I went to the same high school.",
-      "ko": "Tom and I went to the same high school.",
-      "zh_HK": "Tom and I went to the same high school.",
-      "fr": "Tom and I went to the same high school."
+      "ja": "職場の頼もしい<ruby>先輩<rt>せんぱい</rt></ruby>が、業務の手順やビジネスメールの書き方を優しく教えてくれました。",
+      "en": "A reliable senior colleague at work kindly taught me work procedures and how to write business emails.",
+      "zh_TW": "職場上值得信賴的前輩非常溫柔親切地教導我業務流程與商務郵件的寫法。",
+      "zh_CN": "职场上值得信赖的前辈非常温和亲切地指导我业务流程与商务邮件的写法。",
+      "ko": "직장의 든든한 선배가 업무 절차와 비즈니스 이메일 작성법을 친절하게 가르쳐 주었습니다.",
+      "zh_HK": "公司入面好可靠嘅前輩好細心咁教我做嘢流程同寫Business Email。",
+      "fr": "Un collègue aîné très fiable m’a gentiment appris les procédures de travail et la rédaction d’e-mails professionnels."
     },
     "related": "Senior / upperclassman / someone more experienced — a person who is senior to you in school, club, or workplace. One of "
   },
@@ -42836,13 +42836,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cadet"
     },
     "example": {
-      "ja": "トムは<ruby>高校<rt>こうこう</rt></ruby>の<ruby>後輩<rt>こうはい</rt></ruby>です。",
-      "en": "Tom and I went to the same high school.",
-      "zh_TW": "Tom and I went to the same high school.",
-      "zh_CN": "Tom and I went to the same high school.",
-      "ko": "Tom and I went to the same high school.",
-      "zh_HK": "Tom and I went to the same high school.",
-      "fr": "Tom and I went to the same high school."
+      "ja": "新しく入社してきた熱心な<ruby>後輩<rt>こうはい</rt></ruby>に、パソコンの初期設定や社内ルールを案内しました。",
+      "en": "I guided the enthusiastic newly hired junior colleague through PC setup and internal company rules.",
+      "zh_TW": "我為新進公司的熱心後輩引導說明了電腦初始設定與公司內部規範。",
+      "zh_CN": "我为新进公司的热心后辈引导说明了电脑初始设置与公司内部规范。",
+      "ko": "새로 입사한 열정적인 후배에게 컴퓨터 초기 설정과 사내 규정을 안내했습니다.",
+      "zh_HK": "幫啱啱入職好勤力嘅後輩Set好部電腦同介紹公司嘅規矩。",
+      "fr": "J’ai guidé le jeune collègue enthousiaste nouvellement embauché pour la configuration de son ordinateur et les règles internes."
     },
     "related": "Junior / someone less experienced — a person who is junior to you in school, club, or workplace. The counterpart to 先輩."
   },
@@ -42936,13 +42936,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "regret"
     },
     "example": {
-      "ja": "<ruby>後悔<rt>こうかい</rt></ruby>するよ。",
-      "en": "You'll regret it.",
-      "zh_TW": "You'll regret it.",
-      "zh_CN": "You'll regret it.",
-      "ko": "You'll regret it.",
-      "zh_HK": "You'll regret it.",
-      "fr": "You'll regret it."
+      "ja": "あのとき自分の本音を伝えておけばよかったと、今でも深く<ruby>後悔<rt>こうかい</rt></ruby>しています。",
+      "en": "I still deeply regret that I should have conveyed my true feelings back then.",
+      "zh_TW": "要是當時能把自己的真心話說出口就好了，至今我依然深感後悔。",
+      "zh_CN": "要是当时能把自己的真心话说出口就好了，至今我依然深感后悔。",
+      "ko": "그때 내 진심을 전했더라면 좋았을 텐데 하고 지금도 깊이 후회하고 있습니다.",
+      "zh_HK": "如果嗰陣時同佢講自己嘅真心話就好喇，我到依家都仲好後悔。",
+      "fr": "Je regrette encore profondément de ne pas lui avoir exprimé mes sentiments sincères à ce moment-là."
     },
     "related": "Regret — the feeling of wishing you had done something differently; remorse over a past choice or action."
   },
@@ -42961,13 +42961,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "traitement tardif"
     },
     "example": {
-      "ja": "<ruby>手遅<rt>ておく</rt></ruby>れだね。",
-      "en": "It's too late.",
-      "zh_TW": "It's too late.",
-      "zh_CN": "It's too late.",
-      "ko": "It's too late.",
-      "zh_HK": "It's too late.",
-      "fr": "It's too late."
+      "ja": "病気が悪化して<ruby>手遅れ<rt>ておくれ</rt></ruby>になる前に、早めにクリニックを受診して検査を受けましょう。",
+      "en": "Before the illness worsens and it becomes too late, visit a clinic early and get examined.",
+      "zh_TW": "在病情惡化為時已晚之前，盡早去診所就診檢查吧。",
+      "zh_CN": "在病情恶化为时已晚之前，尽早就去诊所检查吧。",
+      "ko": "병이 악화되어 때를 놓치기 전에 일찍 병원을 방문하여 검사를 받읍시다.",
+      "zh_HK": "趁住病況仲未惡化到太遲之前，早啲去睇醫生驗身啦。",
+      "fr": "Avant que la maladie n’empire et qu’il ne soit trop tard, consultez rapidement un médecin pour faire des examens."
     },
     "related": "Too late / past the point of no return — the situation where action is no longer able to prevent or fix something becaus"
   },
@@ -43486,13 +43486,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "(mauvaise) habitude"
     },
     "example": {
-      "ja": "<ruby>癖<rt>くせ</rt></ruby>になった。",
-      "en": "It has become habit.",
-      "zh_TW": "It has become habit.",
-      "zh_CN": "It has become habit.",
-      "ko": "It has become habit.",
-      "zh_HK": "It has become habit.",
-      "fr": "It has become habit."
+      "ja": "緊張したときに無意識に髪の毛を触ってしまうのは、子供の頃からの<ruby>癖<rt>くせ</rt></ruby>です。",
+      "en": "Touching my hair unconsciously when nervous is a habit from my childhood.",
+      "zh_TW": "緊張時會無意識地摸頭髮，是我從小到大的習慣毛病。",
+      "zh_CN": "紧张时会无意识地摸头发，是我从小到大的习惯小动作。",
+      "ko": "긴장했을 때 무의식적으로 머리카락을 만지는 것은 어릴 적부터의 버릇입니다.",
+      "zh_HK": "緊張嗰陣會不由自主咁摸頭髮，係我由細到大嘅小動作慣性。",
+      "fr": "Me toucher inconsciemment les cheveux quand je suis stressé est une habitude qui remonte à mon enfance."
     },
     "related": "Habit / quirk / tendency — a habitual behaviour or characteristic, whether conscious or not. Can refer to personal manne"
   },
@@ -43611,13 +43611,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "devenir mauvais"
     },
     "example": {
-      "ja": "<ruby>金<rt>きむ</rt></ruby>が<ruby>腐<rt>くさ</rt></ruby>るほどある。",
-      "en": "He is rolling in riches.",
-      "zh_TW": "He is rolling in riches.",
-      "zh_CN": "He is rolling in riches.",
-      "ko": "He is rolling in riches.",
-      "zh_HK": "He is rolling in riches.",
-      "fr": "He is rolling in riches."
+      "ja": "冷蔵庫の奥に買った野菜を放置して<ruby>腐る<rt>くさる</rt></ruby>ことがないよう、こまめに消費しています。",
+      "en": "To avoid leaving purchased vegetables in the back of the fridge until they rot, I consume them regularly.",
+      "zh_TW": "為了不讓買來的蔬菜放在冰箱深處腐壞爛掉，我都會定期清點盡快吃完。",
+      "zh_CN": "为了不让买来的蔬菜放在冰箱深处腐烂，我都会定期清点尽快吃完。",
+      "ko": "사 온 채소를 냉장고 안쪽에 방치해 썩는 일이 없도록 자주 확인하며 소비하고 있습니다.",
+      "zh_HK": "為咗唔好擺到雪櫃深處啲菜爛晒，我成日都會留意住拿拿臨煮嚟食。",
+      "fr": "Pour éviter que les légumes achetés ne pourrissent au fond du réfrigérateur, je les consomme régulièrement."
     },
     "related": "To rot / to spoil / to go bad — food or organic matter decaying. Can also be used figuratively (spirit \"rotting,\" feelin"
   },
@@ -44236,13 +44236,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "être impatient"
     },
     "example": {
-      "ja": "そんなに<ruby>焦<rt>あせ</rt></ruby>るな。",
-      "en": "Don't be so impatient.",
-      "zh_TW": "Don't be so impatient.",
-      "zh_CN": "Don't be so impatient.",
-      "ko": "Don't be so impatient.",
-      "zh_HK": "Don't be so impatient.",
-      "fr": "Don't be so impatient."
+      "ja": "大事な試験の本番でも決して<ruby>焦る<rt>あせる</rt></ruby>ことなく、落ち着いて問題を解き進めました。",
+      "en": "Even during the important actual exam, without panicking at all, I solved the problems calmly.",
+      "zh_TW": "即便在重要考試的考場上也絕不慌張，冷靜沉著地一步步作答。",
+      "zh_CN": "即便在重要考试的考场上也绝不慌乱，冷静沉着地一步步作答。",
+      "ko": "중요한 실전 시험에서도 결코 조급해하지 않고 침착하게 문제를 풀어 나갔습니다.",
+      "zh_HK": "就算去到考大試嘅現場我都完全冇慌，好冷靜咁慢慢做卷。",
+      "fr": "Même pendant l’examen important, sans paniquer du tout, j’ai résolu les questions calmement."
     },
     "related": "To panic / to feel rushed or anxious — feeling flustered or impatient under time pressure or in an unexpected situation."
   },
@@ -44261,13 +44261,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "déshonorant"
     },
     "example": {
-      "ja": "<ruby>恥<rt>は</rt></ruby>ずかしいなぁ！",
-      "en": "How embarrassing!",
-      "zh_TW": "How embarrassing!",
-      "zh_CN": "How embarrassing!",
-      "ko": "How embarrassing!",
-      "zh_HK": "How embarrassing!",
-      "fr": "How embarrassing!"
+      "ja": "みんなの前で言い間違いをしてしまい、顔が真っ赤になるほど<ruby>恥ずかしい<rt>はずかしい</rt></ruby>思いをしました。",
+      "en": "I misspoke in front of everyone and felt so embarrassed that my face turned bright red.",
+      "zh_TW": "在大家面前說錯話口誤，讓我臉紅到極點，感到無比難為情。",
+      "zh_CN": "在大家面前说错话口误，让我脸红到极点，感到无比难为情。",
+      "ko": "모두 앞에서 말실수를 해 버려 얼굴이 새빨개질 정도로 부끄러운 경험을 했습니다.",
+      "zh_HK": "喺大庭廣眾面前講錯嘢，瘀到成塊面紅晒好尷尬。",
+      "fr": "J’ai fait un lapsus devant tout le monde et j’ai eu tellement honte que mon visage est devenu tout rouge."
     },
     "related": "Embarrassed / shy / ashamed — feeling self-conscious or awkward in front of others."
   },
@@ -45036,13 +45036,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "détester"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>を<ruby>憎<rt>にく</rt></ruby>むな！",
-      "en": "Don't hate me!",
-      "zh_TW": "Don't hate me!",
-      "zh_CN": "Don't hate me!",
-      "ko": "Don't hate me!",
-      "zh_HK": "Don't hate me!",
-      "fr": "Don't hate me!"
+      "ja": "人を恨んだり<ruby>憎む<rt>にくむ</rt></ruby>ことにエネルギーを使うより、自分の人生を前向きに楽しみたいです。",
+      "en": "Rather than using energy to resent or hate people, I want to enjoy my own life positively.",
+      "zh_TW": "與其把精力花在怨恨或憎恨他人上，我更想正面積極地享受自己的人生。",
+      "zh_CN": "与其把精力花在怨恨或憎恨他人上，我更想积极正向地享受自己的人生。",
+      "ko": "남을 원망하거나 증오하는 데 에너지를 쓰기보다는 내 삶을 긍정적으로 즐기고 싶습니다.",
+      "zh_HK": "與其嘥精力去憎人，不如積極啲享受自己嘅人生。",
+      "fr": "Plutôt que de gaspiller mon énergie à en vouloir aux autres ou à les haïr, je préfère profiter positivement de ma propre vie."
     },
     "related": "To hate / detest."
   },
@@ -45311,13 +45311,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "contrat"
     },
     "example": {
-      "ja": "<ruby>予約<rt>よやく</rt></ruby>してある。",
-      "en": "I have a reservation.",
-      "zh_TW": "I have a reservation.",
-      "zh_CN": "I have a reservation.",
-      "ko": "I have a reservation.",
-      "zh_HK": "I have a reservation.",
-      "fr": "I have a reservation."
+      "ja": "記念日のディナーをゆっくり過ごすため、1ヶ月前から人気レストランを<ruby>予約<rt>よやく</rt></ruby>しておきました。",
+      "en": "To spend a relaxing anniversary dinner, I reserved a popular restaurant a month in advance.",
+      "zh_TW": "為了悠閒地度過紀念日晚餐，我早在一個月前就預約好了人氣熱門餐廳。",
+      "zh_CN": "为了悠闲地度过纪念日晚餐，我早在一个月前就预订好了一家热门餐厅。",
+      "ko": "기념일 저녁 식사를 여유롭게 즐기기 위해 한 달 전부터 인기 레스토랑을 예약해 두었습니다.",
+      "zh_HK": "為咗慶祝紀念日食餐好嘅，我早喺一個月前就Book定咗好受歡迎嘅餐廳。",
+      "fr": "Pour profiter d’un dîner d’anniversaire paisible, j’ai réservé une table dans un restaurant réputé un mois à l’avance."
     },
     "related": "Reservation / booking."
   },
@@ -45610,13 +45610,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "séisme"
     },
     "example": {
-      "ja": "<ruby>地震<rt>じしん</rt></ruby>だった？",
-      "en": "Was it an earthquake?",
-      "zh_TW": "Was it an earthquake?",
-      "zh_CN": "Was it an earthquake?",
-      "ko": "Was it an earthquake?",
-      "zh_HK": "Was it an earthquake?",
-      "fr": "Was it an earthquake?"
+      "ja": "昨夜、震度3の<ruby>地震<rt>じしん</rt></ruby>がありましたが、物が倒れるような被害はなくて安心しました。",
+      "en": "There was a magnitude 3 earthquake last night, but thankfully there was no damage such as fallen items.",
+      "zh_TW": "昨晚發生了震度3級的地震，好在沒有物品倒塌掉落等災情，讓人鬆了一口氣。",
+      "zh_CN": "昨晚发生了3级地震，好在没有物品倒塌等损失，让人松了一口气。",
+      "ko": "어젯밤 진도 3의 지진이 있었지만 물건이 쓰러지는 등의 피해는 없어서 안심했습니다.",
+      "zh_HK": "琴晚有微震地震，好彩冇嘢冧落嚟冇人受傷，放心晒。",
+      "fr": "Il y a eu un séisme d’intensité 3 hier soir, mais heureusement aucun objet n’est tombé et il n’y a eu aucun dégât."
     },
     "related": "Earthquake."
   },
@@ -45660,13 +45660,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "étourdissement"
     },
     "example": {
-      "ja": "めまいがします。",
-      "en": "I feel dizzy.",
-      "zh_TW": "I feel dizzy.",
-      "zh_CN": "I feel dizzy.",
-      "ko": "I feel dizzy.",
-      "zh_HK": "I feel dizzy.",
-      "fr": "I feel dizzy."
+      "ja": "寝不足のまま急に立ち上がったら、目の前が暗くなってクラクラと<ruby>めまい<rt>めまい</rt></ruby>がしました。",
+      "en": "When I stood up abruptly with a lack of sleep, my vision went dark and I felt dizzy.",
+      "zh_TW": "在睡眠不足的情況下突然站起身，眼前瞬間一片黑並感到一陣頭暈目眩。",
+      "zh_CN": "在睡眠不足的情况下突然站起身，眼前瞬间一片黑并感到一阵头晕目眩。",
+      "ko": "수면 부족인 상태에서 갑자기 일어섰더니 눈앞이 캄캄해지며 핑 어지럼증이 돌았습니다.",
+      "zh_HK": "瞓唔夠企起身嗰下眼前一黑，個人突然之間好頭暈。",
+      "fr": "En me levant brusquement alors que je manquais de sommeil, j’ai eu un voile noir et de forts vertiges."
     },
     "related": "Dizziness."
   },
@@ -46260,13 +46260,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cheveu"
     },
     "example": {
-      "ja": "はい、<ruby>毛布<rt>もうふ</rt></ruby>。",
-      "en": "Here is a blanket.",
-      "zh_TW": "Here is a blanket.",
-      "zh_CN": "Here is a blanket.",
-      "ko": "Here is a blanket.",
-      "zh_HK": "Here is a blanket.",
-      "fr": "Here is a blanket."
+      "ja": "ブラッシングをしてあげたら、猫のふわふわした柔らかい<ruby>毛<rt>け</rt></ruby>がたくさん抜けました。",
+      "en": "When I brushed the cat, a lot of its soft, fluffy fur came off.",
+      "zh_TW": "幫貓咪梳毛的時候，梳下了好多蓬鬆柔軟的毛髮。",
+      "zh_CN": "帮猫咪梳毛的时候，梳下了好多蓬松柔软的毛发。",
+      "ko": "빗질을 해 주었더니 고양이의 푹신하고 부드러운 털이 많이 빠져나왔습니다.",
+      "zh_HK": "幫隻貓梳毛嗰陣，梳咗好多軟林林嘅毛出嚟。",
+      "fr": "En brossant mon chat, j’ai retiré beaucoup de ses poils doux et duveteux."
     },
     "related": "Hair / fur — a general term, broader than the more specific 髪 (head hair)."
   },
@@ -46310,13 +46310,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "bourse"
     },
     "example": {
-      "ja": "ほら<ruby>財布<rt>さいふ</rt></ruby>だ。",
-      "en": "Here's my wallet.",
-      "zh_TW": "Here's my wallet.",
-      "zh_CN": "Here's my wallet.",
-      "ko": "Here's my wallet.",
-      "zh_HK": "Here's my wallet.",
-      "fr": "Here's my wallet."
+      "ja": "お会計のときに<ruby>財布<rt>さいふ</rt></ruby>を家に忘れてきたことに気づき、とても焦ってしまいました。",
+      "en": "At checkout, I realized I had left my wallet at home and panicked very much.",
+      "zh_TW": "結帳買單時才發現把皮夾忘在家裡，讓我頓時慌張得不得了。",
+      "zh_CN": "结账买单时才发现把钱包忘在家里，让我顿时慌乱得不得了。",
+      "ko": "계산할 때 지갑을 집에 두고 온 것을 깨닫고 무척 당황했습니다.",
+      "zh_HK": "去到畀錢先發現自己冇帶銀包出門口，嗰下真係好騰雞好驚。",
+      "fr": "Au moment de payer l’addition, je me suis rendu compte que j’avais oublié mon portefeuille chez moi et j’ai paniqué."
     },
     "related": "Wallet / purse."
   },
@@ -47060,13 +47060,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "herbe"
     },
     "example": {
-      "ja": "<ruby>草草<rt>そうそう</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>ァ！",
-      "en": "LOLOLOLOL!",
-      "zh_TW": "LOLOLOLOL!",
-      "zh_CN": "LOLOLOLOL!",
-      "ko": "LOLOLOLOL!",
-      "zh_HK": "LOLOLOLOL!",
-      "fr": "LOLOLOLOL!"
+      "ja": "庭のあちこちに雑<ruby>草<rt>くさ</rt></ruby>が生えてきたので、週末に家族できれいに草むしりをしました。",
+      "en": "Weeds sprouted all over the garden, so on the weekend our family weeded it clean together.",
+      "zh_TW": "花園各處長出了雜草，所以週末時全家人一起把雜草拔得乾乾淨淨。",
+      "zh_CN": "花园各处长出了杂草，所以周末时全家人一起把杂草拔得干干净净。",
+      "ko": "마당 곳곳에 잡초가 자라나서 주말에 가족이 함께 깨끗하게 풀을 뽑았습니다.",
+      "zh_HK": "花園生咗好多雜草，禮拜六日全家人一齊拔乾淨啲草。",
+      "fr": "Des mauvaises herbes ayant poussé un peu partout dans le jardin, toute la famille s’est réunie ce week-end pour désherber soigneusement."
     },
     "related": "Grass / plant — but also a very common internet slang term meaning \"lol\" or \"haha,\" used to indicate something is funny."
   },
@@ -47210,13 +47210,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "corriger"
     },
     "example": {
-      "ja": "かけ<ruby>直<rt>なお</rt></ruby>すよ。",
-      "en": "I'll ring you back.",
-      "zh_TW": "I'll ring you back.",
-      "zh_CN": "I'll ring you back.",
-      "ko": "I'll ring you back.",
-      "zh_HK": "I'll ring you back.",
-      "fr": "I'll ring you back."
+      "ja": "先生に作文の文法ミスを優しく指摘してもらい、正しい表現に書き<ruby>直す<rt>なおす</rt></ruby>ことができました。",
+      "en": "The teacher kindly pointed out grammar mistakes in my essay, so I was able to rewrite them into correct expressions.",
+      "zh_TW": "老師親切地指出了我作文中的文法錯誤，讓我能改寫成正確道地的表達。",
+      "zh_CN": "老师亲切地指出了我作文中的语法错误，让我能改写成正确地道的表达。",
+      "ko": "선생님께서 작문의 문법 실수를 친절히 지적해 주셔서 올바른 표현으로 고쳐 쓸 수 있었습니다.",
+      "zh_HK": "老師好有耐性咁指出我作文入面嘅Grammar錯處，等我可以改返啱。",
+      "fr": "Le professeur m’a gentiment signalé les erreurs de grammaire dans ma rédaction, ce qui m’a permis de les corriger avec les bonnes expressions."
     },
     "related": "To fix / repair (an object) — transitive, used for non-living things like machines, objects, or abstract things like mis"
   },
@@ -48385,13 +48385,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "imagination"
     },
     "example": {
-      "ja": "<ruby>想像<rt>そうぞう</rt></ruby>つくよ。",
-      "en": "I can imagine.",
-      "zh_TW": "I can imagine.",
-      "zh_CN": "I can imagine.",
-      "ko": "I can imagine.",
-      "zh_HK": "I can imagine.",
-      "fr": "I can imagine."
+      "ja": "未来の街がどのように発展しているか、みんなでワクワクしながら自由に<ruby>想像<rt>そうぞう</rt></ruby>を膨らませました。",
+      "en": "We excitedly and freely expanded our imaginations about how future cities will develop.",
+      "zh_TW": "大家懷抱興奮的心情，自由發揮想像力，勾勒未來城市將如何發展。",
+      "zh_CN": "大家怀抱兴奋的心情，自由发挥想象力，勾勒未来城市将如何发展。",
+      "ko": "미래의 도시가 어떻게 발전해 있을지 모두 함께 설레며 자유롭게 상상을 펼쳤습니다.",
+      "zh_HK": "大家滿懷興奮咁發揮想像力，想像未來嘅城市會變成點樣。",
+      "fr": "Tout le monde laissait libre cours à son imagination avec enthousiasme en songeant à l’évolution des villes du futur."
     },
     "related": "Imagination."
   },
@@ -48435,13 +48435,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "apparence"
     },
     "example": {
-      "ja": "<ruby>姿<rt>すがた</rt></ruby>をあらわせ！",
-      "en": "Show yourself.",
-      "zh_TW": "Show yourself.",
-      "zh_CN": "Show yourself.",
-      "ko": "Show yourself.",
-      "zh_HK": "Show yourself.",
-      "fr": "Show yourself."
+      "ja": "霧の向こうから、遠くに見える富士山の雄大な<ruby>姿<rt>すがた</rt></ruby>がゆっくりと現れました。",
+      "en": "From beyond the mist, the majestic figure of Mt. Fuji visible in the distance slowly emerged.",
+      "zh_TW": "從濃霧的另一端，遠方富士山雄偉的身影緩緩浮現了出來。",
+      "zh_CN": "从浓雾的另一端，远方富士山雄伟的身影缓缓浮现了出来。",
+      "ko": "안개 너머로 멀리 보이는 후지산의 웅장한 자태가 서서히 모습을 드러냈습니다.",
+      "zh_HK": "喺薄霧後面，遠處富士山雄偉嘅身影慢慢浮現出嚟。",
+      "fr": "Au-delà de la brume, la silhouette majestueuse du mont Fuji au loin est apparue lentement."
     },
     "related": "A figure / form / appearance — often used for the visible shape or image of a person, sometimes with a poetic or formal "
   },
@@ -49753,20 +49753,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "exhibition",
       "ja": "展覧会",
-      "zh_TW": "exhibition",
-      "zh_CN": "exhibition",
-      "ko": "exhibition",
-      "zh_HK": "exhibition",
-      "fr": "exhibition"
+      "zh_TW": "展覽會",
+      "zh_CN": "展览会",
+      "ko": "전람회, 전시회",
+      "zh_HK": "展覽會",
+      "fr": "exposition"
     },
     "example": {
       "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
       "en": "I went to an exhibition at the art museum on the weekend.",
-      "zh_TW": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "zh_CN": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "ko": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "zh_HK": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "fr": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+      "zh_TW": "週末我去美術館看了一場展覽會。",
+      "zh_CN": "周末我去美术馆看了一场展览会。",
+      "ko": "주말에 미술관 전람회에 다녀왔습니다.",
+      "zh_HK": "禮拜六日我去咗美術館睇展覽會。",
+      "fr": "Je suis allé à une exposition au musée d'art ce week-end."
     },
     "related": "てんらんかい（授業の重要表現）"
   },
@@ -49778,20 +49778,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "salesman; sales representative",
       "ja": "営業マン",
-      "zh_TW": "salesman; sales representative",
-      "zh_CN": "salesman; sales representative",
-      "ko": "salesman; sales representative",
-      "zh_HK": "salesman; sales representative",
-      "fr": "salesman; sales representative"
+      "zh_TW": "業務員、銷售員",
+      "zh_CN": "业务员、销售员",
+      "ko": "영업사원",
+      "zh_HK": "營業員、Sell客",
+      "fr": "commercial, représentant commercial"
     },
     "example": {
       "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
       "en": "My older brother is a car salesman.",
-      "zh_TW": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
-      "zh_CN": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
-      "ko": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
-      "zh_HK": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。",
-      "fr": "<ruby>兄<rt>あに</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby>マンです。"
+      "zh_TW": "我哥哥是一位汽車銷售業務員。",
+      "zh_CN": "我哥哥是一位汽车销售业务员。",
+      "ko": "형은 자동차 영업사원입니다.",
+      "zh_HK": "我阿哥係賣車嘅業務員。",
+      "fr": "Mon grand frère est vendeur de voitures."
     },
     "related": "えいぎょうマン（授業の重要表現）"
   },
@@ -49803,20 +49803,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "business hours; opening hours",
       "ja": "営業時間",
-      "zh_TW": "business hours; opening hours",
-      "zh_CN": "business hours; opening hours",
-      "ko": "business hours; opening hours",
-      "zh_HK": "business hours; opening hours",
-      "fr": "business hours; opening hours"
+      "zh_TW": "營業時間",
+      "zh_CN": "营业时间",
+      "ko": "영업시간",
+      "zh_HK": "營業時間",
+      "fr": "heures d'ouverture"
     },
     "example": {
       "ja": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
       "en": "Until what time is this shop open?",
-      "zh_TW": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
-      "zh_CN": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
-      "ko": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
-      "zh_HK": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。",
-      "fr": "このお<ruby>店<rt>みせ</rt></ruby>の<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか。"
+      "zh_TW": "這家店的營業時間到幾點為止呢？",
+      "zh_CN": "这家店的营业时间到几点为止呢？",
+      "ko": "이 가게의 영업시간은 몇 시까지인가요?",
+      "zh_HK": "呢間舖頭嘅營業時間開到幾點㗎？",
+      "fr": "Jusqu'à quelle heure ce magasin est-il ouvert ?"
     },
     "related": "えいぎょうじかん（授業の重要表現）"
   },
@@ -49828,20 +49828,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "outside business hours",
       "ja": "営業時間外",
-      "zh_TW": "outside business hours",
-      "zh_CN": "outside business hours",
-      "ko": "outside business hours",
-      "zh_HK": "outside business hours",
-      "fr": "outside business hours"
+      "zh_TW": "非營業時間",
+      "zh_CN": "非营业时间",
+      "ko": "영업시간 외",
+      "zh_HK": "營業時間以外",
+      "fr": "en dehors des heures d'ouverture"
     },
     "example": {
       "ja": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
       "en": "The phone won't connect because it's outside business hours.",
-      "zh_TW": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
-      "zh_CN": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
-      "ko": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
-      "zh_HK": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。",
-      "fr": "<ruby>営業時間外<rt>えいぎょうじかんがい</rt></ruby>なので、<ruby>電話<rt>でんわ</rt></ruby>がつながりません。"
+      "zh_TW": "因為現在是非營業時間，所以電話打不通。",
+      "zh_CN": "因为现在是非营业时间，所以电话打不通。",
+      "ko": "영업시간 외라서 전화가 연결되지 않습니다.",
+      "zh_HK": "因為而家唔係營業時間，所以打唔通電話。",
+      "fr": "Le téléphone ne répond pas car c'est en dehors des heures d'ouverture."
     },
     "related": "えいぎょうじかんがい（授業の重要表現）"
   },
@@ -49853,20 +49853,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "founding (of a business)",
       "ja": "創業",
-      "zh_TW": "founding (of a business)",
-      "zh_CN": "founding (of a business)",
-      "ko": "founding (of a business)",
-      "zh_HK": "founding (of a business)",
-      "fr": "founding (of a business)"
+      "zh_TW": "創業、創立",
+      "zh_CN": "创业、创立",
+      "ko": "창업",
+      "zh_HK": "創業、開檔",
+      "fr": "fondation (d'entreprise)"
     },
     "example": {
       "ja": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
       "en": "This shop has been in business for 100 years.",
-      "zh_TW": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
-      "zh_CN": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
-      "ko": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
-      "zh_HK": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。",
-      "fr": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby>100<ruby>年<rt>ねん</rt></ruby>です。"
+      "zh_TW": "這家老店創業至今已有100年歷史。",
+      "zh_CN": "这家老店创业至今已有100年历史。",
+      "ko": "이 가게는 창업한 지 100년 되었습니다.",
+      "zh_HK": "呢間老字號開咗已經有成100年歷史。",
+      "fr": "Ce magasin est en activité depuis 100 ans."
     },
     "related": "そうぎょう（授業の重要表現）"
   },
@@ -49878,20 +49878,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to run; to manage (a business)",
       "ja": "経営する",
-      "zh_TW": "to run; to manage (a business)",
-      "zh_CN": "to run; to manage (a business)",
-      "ko": "to run; to manage (a business)",
-      "zh_HK": "to run; to manage (a business)",
-      "fr": "to run; to manage (a business)"
+      "zh_TW": "經營、管理",
+      "zh_CN": "经营、管理",
+      "ko": "경영하다, 운영하다",
+      "zh_HK": "經營、打理",
+      "fr": "gérer, diriger"
     },
     "example": {
       "ja": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
       "en": "My father runs a restaurant.",
-      "zh_TW": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
-      "zh_CN": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
-      "ko": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
-      "zh_HK": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。",
-      "fr": "<ruby>父<rt>ちち</rt></ruby>はレストランを<ruby>経営<rt>けいえい</rt></ruby>しています。"
+      "zh_TW": "家父經營著一家義大利餐廳。",
+      "zh_CN": "家父经营着一家意大利餐厅。",
+      "ko": "아버지는 레스토랑을 경영하고 계십니다.",
+      "zh_HK": "我爸爸經營緊一間西餐廳。",
+      "fr": "Mon père gère un restaurant."
     },
     "related": "けいえいする（授業の重要表現）"
   },
@@ -49903,20 +49903,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "family-run (business)",
       "ja": "家族経営",
-      "zh_TW": "family-run (business)",
-      "zh_CN": "family-run (business)",
-      "ko": "family-run (business)",
-      "zh_HK": "family-run (business)",
-      "fr": "family-run (business)"
+      "zh_TW": "家族經營、家族企業",
+      "zh_CN": "家族经营、家族企业",
+      "ko": "가족경영",
+      "zh_HK": "家庭式經營",
+      "fr": "entreprise familiale"
     },
     "example": {
       "ja": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
       "en": "This is a small family-run inn.",
-      "zh_TW": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
-      "zh_CN": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
-      "ko": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
-      "zh_HK": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。",
-      "fr": "ここは<ruby>家族経営<rt>かぞくけいえい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>旅館<rt>りょかん</rt></ruby>です。"
+      "zh_TW": "這是一間家族經營的小溫泉旅館。",
+      "zh_CN": "这是一间家族经营的小温泉旅馆。",
+      "ko": "이곳은 가족이 함께 운영하는 작은 여관입니다.",
+      "zh_HK": "呢度係一間家庭式經營嘅細溫泉旅館。",
+      "fr": "C'est une petite auberge familiale."
     },
     "related": "かぞくけいえい（授業の重要表現）"
   },
@@ -49928,20 +49928,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "large family",
       "ja": "大家族",
-      "zh_TW": "large family",
-      "zh_CN": "large family",
-      "ko": "large family",
-      "zh_HK": "large family",
-      "fr": "large family"
+      "zh_TW": "大家庭",
+      "zh_CN": "大家庭",
+      "ko": "대가족",
+      "zh_HK": "大家庭",
+      "fr": "famille nombreuse"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
       "en": "I grew up in a large family.",
-      "zh_TW": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "zh_CN": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "ko": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "zh_HK": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "fr": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大家族<rt>だいかぞく</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。"
+      "zh_TW": "我在一個熱鬧的大家庭中長大。",
+      "zh_CN": "我在一个热闹的大家庭中长大。",
+      "ko": "저는 대가족 속에서 자랐습니다.",
+      "zh_HK": "我喺一個好熱鬧嘅大家庭長大。",
+      "fr": "J'ai grandi au sein d'une grande famille."
     },
     "related": "だいかぞく（授業の重要表現）"
   },
@@ -49953,20 +49953,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to pass away",
       "ja": "亡くなる",
-      "zh_TW": "to pass away",
-      "zh_CN": "to pass away",
-      "ko": "to pass away",
-      "zh_HK": "to pass away",
-      "fr": "to pass away"
+      "zh_TW": "逝世、過世",
+      "zh_CN": "逝世、去世",
+      "ko": "돌아가시다",
+      "zh_HK": "過身、逝世",
+      "fr": "décéder, s'éteindre"
     },
     "example": {
       "ja": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
       "en": "My grandfather passed away last year.",
-      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
-      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
-      "ko": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
-      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。",
-      "fr": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。"
+      "zh_TW": "我的祖父在去年安詳過世了。",
+      "zh_CN": "我的祖父在去年安详去世了。",
+      "ko": "할아버지께서는 작년에 돌아가셨습니다.",
+      "zh_HK": "我爺爺喺舊年安詳過身喇。",
+      "fr": "Mon grand-père est décédé l'année dernière."
     },
     "related": "なくなる（授業の重要表現）"
   },
@@ -49978,20 +49978,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "physical labor; manual labor",
       "ja": "肉体労働",
-      "zh_TW": "physical labor; manual labor",
-      "zh_CN": "physical labor; manual labor",
-      "ko": "physical labor; manual labor",
-      "zh_HK": "physical labor; manual labor",
-      "fr": "physical labor; manual labor"
+      "zh_TW": "體力勞動",
+      "zh_CN": "体力劳动",
+      "ko": "육체노동",
+      "zh_HK": "體力勞動、勞力",
+      "fr": "travail manuel, travail physique"
     },
     "example": {
       "ja": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
       "en": "Manual labor is hard.",
-      "zh_TW": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "zh_CN": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "ko": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "zh_HK": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。",
-      "fr": "<ruby>肉体労働<rt>にくたいろうどう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。"
+      "zh_TW": "工地現場的體力勞動雖然辛苦，但非常有成就感。",
+      "zh_CN": "工地现场的体力劳动虽然辛苦，但非常有成就感。",
+      "ko": "육체노동은 힘들지만 보람이 있습니다.",
+      "zh_HK": "做體力勞動嘅工雖然好辛苦，但都好有成就感。",
+      "fr": "Le travail manuel est éprouvant mais apporte beaucoup de satisfaction."
     },
     "related": "にくたいろうどう（授業の重要表現）"
   },
@@ -50003,20 +50003,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "labor shortage; short-staffed",
       "ja": "人手不足",
-      "zh_TW": "labor shortage; short-staffed",
-      "zh_CN": "labor shortage; short-staffed",
-      "ko": "labor shortage; short-staffed",
-      "zh_HK": "labor shortage; short-staffed",
-      "fr": "labor shortage; short-staffed"
+      "zh_TW": "人手不足、缺工",
+      "zh_CN": "人手不足、用工短缺",
+      "ko": "일손 부족",
+      "zh_HK": "唔夠人手、缺人",
+      "fr": "pénurie de main-d'œuvre"
     },
     "example": {
       "ja": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
       "en": "Every company is short-staffed.",
-      "zh_TW": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
-      "zh_CN": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
-      "ko": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
-      "zh_HK": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。",
-      "fr": "どこの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>人手不足<rt>ひとでぶそく</rt></ruby>です。"
+      "zh_TW": "最近很多餐飲店都面臨著人手不足的困境。",
+      "zh_CN": "最近很多餐饮店都面临着人手不足的困境。",
+      "ko": "어느 회사나 일손 부족으로 고민하고 있습니다.",
+      "zh_HK": "而家周圍都好唔夠人手，周圍都請緊人。",
+      "fr": "Toutes les entreprises font face à un manque de personnel."
     },
     "related": "ひとでぶそく（授業の重要表現）"
   },
@@ -50028,20 +50028,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "not enough; insufficient",
       "ja": "足りない",
-      "zh_TW": "not enough; insufficient",
-      "zh_CN": "not enough; insufficient",
-      "ko": "not enough; insufficient",
-      "zh_HK": "not enough; insufficient",
-      "fr": "not enough; insufficient"
+      "zh_TW": "不夠、不足",
+      "zh_CN": "不够、不足",
+      "ko": "부족하다, 모자라다",
+      "zh_HK": "唔夠",
+      "fr": "insuffisant, manquer de"
     },
     "example": {
       "ja": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
       "en": "I'm a little short of money.",
-      "zh_TW": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
-      "zh_CN": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
-      "ko": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
-      "zh_HK": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。",
-      "fr": "お<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>りません。"
+      "zh_TW": "買這件衣服的錢還稍微差了一點點不夠。",
+      "zh_CN": "买这件衣服的钱还稍微差了一点点不够。",
+      "ko": "돈이 조금 모자랍니다.",
+      "zh_HK": "仲差少少錢先夠買呢件衫。",
+      "fr": "Il me manque un peu d'argent."
     },
     "related": "たりない（授業の重要表現）"
   },
@@ -50053,20 +50053,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to be lacking; to run short",
       "ja": "不足する",
-      "zh_TW": "to be lacking; to run short",
-      "zh_CN": "to be lacking; to run short",
-      "ko": "to be lacking; to run short",
-      "zh_HK": "to be lacking; to run short",
-      "fr": "to be lacking; to run short"
+      "zh_TW": "不足、缺乏",
+      "zh_CN": "不足、缺乏",
+      "ko": "부족하다",
+      "zh_HK": "唔夠、缺乏",
+      "fr": "manquer de, être insuffisant"
     },
     "example": {
       "ja": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
       "en": "Lately I haven't been getting enough sleep.",
-      "zh_TW": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
-      "zh_CN": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
-      "ko": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
-      "zh_HK": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。",
-      "fr": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しています。"
+      "zh_TW": "最近因為工作忙碌，睡眠時間相當不足。",
+      "zh_CN": "最近因为工作忙碌，睡眠时间相当不足。",
+      "ko": "요즘 수면이 많이 부족합니다.",
+      "zh_HK": "最近個人瞓得唔係好夠，睡眠嚴重不足。",
+      "fr": "Ces derniers temps, je manque cruellement de sommeil."
     },
     "related": "ふそくする（授業の重要表現）"
   },
@@ -50078,20 +50078,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "farm",
       "ja": "農場",
-      "zh_TW": "farm",
-      "zh_CN": "farm",
-      "ko": "farm",
-      "zh_HK": "farm",
-      "fr": "farm"
+      "zh_TW": "農場、農莊",
+      "zh_CN": "农场、农庄",
+      "ko": "농장",
+      "zh_HK": "農場",
+      "fr": "ferme, exploitation agricole"
     },
     "example": {
       "ja": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
       "en": "I work on a farm in Hokkaido.",
-      "zh_TW": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-      "zh_CN": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-      "ko": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-      "zh_HK": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-      "fr": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>農場<rt>のうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。"
+      "zh_TW": "我朋友在北海道遼闊的農場裡工作。",
+      "zh_CN": "我朋友在北海道辽阔的农场里工作。",
+      "ko": "홋카이도의 넓은 농장에서 일하고 있습니다.",
+      "zh_HK": "我朋友喺北海道嘅大農場嗰度返工。",
+      "fr": "Je travaille dans une ferme à Hokkaido."
     },
     "related": "のうじょう（授業の重要表現）"
   },
@@ -50103,20 +50103,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to expand into; to enter (a market)",
       "ja": "進出する",
-      "zh_TW": "to expand into; to enter (a market)",
-      "zh_CN": "to expand into; to enter (a market)",
-      "ko": "to expand into; to enter (a market)",
-      "zh_HK": "to expand into; to enter (a market)",
-      "fr": "to expand into; to enter (a market)"
+      "zh_TW": "拓展、進軍（市場）",
+      "zh_CN": "拓展、进军（市场）",
+      "ko": "진출하다",
+      "zh_HK": "進軍、拓展業務",
+      "fr": "s'implanter, pénétrer (un marché)"
     },
     "example": {
       "ja": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
       "en": "The company expanded overseas.",
-      "zh_TW": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
-      "zh_CN": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
-      "ko": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
-      "zh_HK": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。",
-      "fr": "その<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>に<ruby>進出<rt>しんしゅつ</rt></ruby>しました。"
+      "zh_TW": "那家知名日本拉麵店正式進軍海外市場了。",
+      "zh_CN": "那家知名日本拉面店正式进军海外市场了。",
+      "ko": "그 회사는 최근 해외 시장에 활발하게 진출하고 있습니다.",
+      "zh_HK": "嗰間日本連鎖拉麵店正式進軍海外市場。",
+      "fr": "Cette entreprise se développe activement sur les marchés étrangers."
     },
     "related": "しんしゅつする（授業の重要表現）"
   },
@@ -50128,20 +50128,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "counter for places/spots",
       "ja": "〜箇所",
-      "zh_TW": "counter for places/spots",
-      "zh_CN": "counter for places/spots",
-      "ko": "counter for places/spots",
-      "zh_HK": "counter for places/spots",
-      "fr": "counter for places/spots"
+      "zh_TW": "……處、……個地方（數量詞）",
+      "zh_CN": "……处、……个地方",
+      "ko": "~곳, ~군데",
+      "zh_HK": "……個位、……處",
+      "fr": "compteur pour les lieux/endroits"
     },
     "example": {
       "ja": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
       "en": "There are mistakes in three places.",
-      "zh_TW": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
-      "zh_CN": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
-      "ko": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
-      "zh_HK": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。",
-      "fr": "<ruby>間違<rt>まちが</rt></ruby>いが3<ruby>箇所<rt>かしょ</rt></ruby>あります。"
+      "zh_TW": "這份合約書上有3個地方需要修改。",
+      "zh_CN": "这份合同书上有3个地方需要修改。",
+      "ko": "계약서에 잘못된 부분이 3군데 있습니다.",
+      "zh_HK": "份合約有三處地方要改返啱佢。",
+      "fr": "Il y a 3 erreurs dans le document."
     },
     "related": "〜かしょ（授業の重要表現）"
   },
@@ -50153,20 +50153,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "rice paddy",
       "ja": "田んぼ",
-      "zh_TW": "rice paddy",
-      "zh_CN": "rice paddy",
-      "ko": "rice paddy",
-      "zh_HK": "rice paddy",
-      "fr": "rice paddy"
+      "zh_TW": "水田、稻田",
+      "zh_CN": "水田、稻田",
+      "ko": "논",
+      "zh_HK": "稻田、水田",
+      "fr": "rizière"
     },
     "example": {
       "ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
       "en": "There's nothing but rice paddies around my house.",
-      "zh_TW": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
-      "zh_CN": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
-      "ko": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
-      "zh_HK": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。",
-      "fr": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りは<ruby>田<rt>た</rt></ruby>んぼばかりです。"
+      "zh_TW": "鄉下老家的房子周圍全都是綠油油的稻田。",
+      "zh_CN": "乡下老家的房子周围全都是绿油油的稻田。",
+      "ko": "고향 집 주변은 온통 푸른 논뿐입니다.",
+      "zh_HK": "老家間屋周圍全部都係一大片綠油油嘅稻田。",
+      "fr": "Autour de la maison, il n'y a que des rizières."
     },
     "related": "たんぼ（授業の重要表現）"
   },
@@ -50178,20 +50178,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "waterfall",
       "ja": "滝",
-      "zh_TW": "waterfall",
-      "zh_CN": "waterfall",
-      "ko": "waterfall",
-      "zh_HK": "waterfall",
-      "fr": "waterfall"
+      "zh_TW": "瀑布",
+      "zh_CN": "瀑布",
+      "ko": "폭포",
+      "zh_HK": "瀑布",
+      "fr": "cascade, chute d'eau"
     },
     "example": {
       "ja": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
       "en": "This waterfall is very famous.",
-      "zh_TW": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
-      "zh_CN": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
-      "ko": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
-      "zh_HK": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。",
-      "fr": "この<ruby>滝<rt>たき</rt></ruby>はとても<ruby>有名<rt>ゆうめい</rt></ruby>です。"
+      "zh_TW": "這座瀑布水勢磅礡，是名聞遐邇的著名景點。",
+      "zh_CN": "这座瀑布水势磅礴，是名闻遐迩的著名景点。",
+      "ko": "이 폭포는 물줄기가 시원해서 매우 유명합니다.",
+      "zh_HK": "呢條瀑布水流好急好壯觀，係好出名嘅名勝。",
+      "fr": "Cette cascade est très célèbre."
     },
     "related": "たき（授業の重要表現）"
   },
@@ -50203,20 +50203,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "safe; safely; without incident",
       "ja": "無事",
-      "zh_TW": "safe; safely; without incident",
-      "zh_CN": "safe; safely; without incident",
-      "ko": "safe; safely; without incident",
-      "zh_HK": "safe; safely; without incident",
-      "fr": "safe; safely; without incident"
+      "zh_TW": "平安、無事",
+      "zh_CN": "平安、无事",
+      "ko": "무사히, 탈 없이",
+      "zh_HK": "平安、冇事",
+      "fr": "sain et sauf, sans encombre"
     },
     "example": {
       "ja": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
       "en": "I got home safely.",
-      "zh_TW": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
-      "zh_CN": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
-      "ko": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
-      "zh_HK": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
-      "fr": "<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。"
+      "zh_TW": "長途旅行結束後，平安順利地抵達了家中。",
+      "zh_CN": "长途旅行结束后，平安顺利地抵达了家中。",
+      "ko": "긴 여행을 마치고 무사히 집에 도착했습니다.",
+      "zh_HK": "去完長途旅行返嚟，平平安安返到屋企。",
+      "fr": "Je suis bien rentré à la maison sans problème."
     },
     "related": "ぶじ（授業の重要表現）"
   },
@@ -50228,20 +50228,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "subway",
       "ja": "地下鉄",
-      "zh_TW": "subway",
-      "zh_CN": "subway",
-      "ko": "subway",
-      "zh_HK": "subway",
-      "fr": "subway"
+      "zh_TW": "地下鐵、捷運",
+      "zh_CN": "地铁",
+      "ko": "지하철",
+      "zh_HK": "地鐵",
+      "fr": "métro"
     },
     "example": {
       "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
       "en": "I go to work by subway.",
-      "zh_TW": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_CN": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "ko": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_HK": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "fr": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+      "zh_TW": "我每天搭乘地下鐵通勤去公司上班。",
+      "zh_CN": "我每天搭乘地铁通勤去公司上班。",
+      "ko": "매일 지하철을 타고 회사에 출퇴근합니다.",
+      "zh_HK": "我每日都搭地鐵返工放工。",
+      "fr": "Je prends le métro pour aller au bureau."
     },
     "related": "ちかてつ（授業の重要表現）"
   },
@@ -50253,20 +50253,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "religion",
       "ja": "宗教",
-      "zh_TW": "religion",
-      "zh_CN": "religion",
-      "ko": "religion",
-      "zh_HK": "religion",
+      "zh_TW": "宗教",
+      "zh_CN": "宗教",
+      "ko": "종교",
+      "zh_HK": "宗教",
       "fr": "religion"
     },
     "example": {
       "ja": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
-      "en": "There are various religions in Japan.",
-      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
-      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
-      "ko": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
-      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。",
-      "fr": "<ruby>日本<rt>にほん</rt></ruby>にはいろいろな<ruby>宗教<rt>しゅうきょう</rt></ruby>があります。"
+      "en": "There are various religions in the world.",
+      "zh_TW": "世界上存在著各式各樣的宗教。",
+      "zh_CN": "世界上存在著各式各樣的宗教。",
+      "ko": "전 세계에는 다양한 종교가 존재합니다.",
+      "zh_HK": "世界各地有好多種唔同嘅宗教。",
+      "fr": "There are various religions in the world."
     },
     "related": "しゅうきょう（授業の重要表現）"
   },
@@ -50278,20 +50278,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "existence; presence",
       "ja": "存在",
-      "zh_TW": "existence; presence",
-      "zh_CN": "existence; presence",
-      "ko": "existence; presence",
-      "zh_HK": "existence; presence",
-      "fr": "existence; presence"
+      "zh_TW": "存在",
+      "zh_CN": "存在",
+      "ko": "존재",
+      "zh_HK": "存在",
+      "fr": "existence"
     },
     "example": {
       "ja": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
-      "en": "Do you believe in the existence of ghosts?",
-      "zh_TW": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
-      "zh_CN": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
-      "ko": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
-      "zh_HK": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。",
-      "fr": "<ruby>幽霊<rt>ゆうれい</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じますか。"
+      "en": "I feel the existence of invisible air.",
+      "zh_TW": "我能感受到無形空氣的存在。",
+      "zh_CN": "我能感受到無形空氣的存在。",
+      "ko": "눈에 보이지 않는 공기의 존재를 느낍니다.",
+      "zh_HK": "我感受到無形嘅空氣確實存在。",
+      "fr": "I feel the existence of invisible air."
     },
     "related": "そんざい（授業の重要表現）"
   },
@@ -50303,20 +50303,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "Buddhism",
       "ja": "仏教",
-      "zh_TW": "Buddhism",
-      "zh_CN": "Buddhism",
-      "ko": "Buddhism",
-      "zh_HK": "Buddhism",
-      "fr": "Buddhism"
+      "zh_TW": "佛教",
+      "zh_CN": "佛教",
+      "ko": "불교",
+      "zh_HK": "佛教",
+      "fr": "bouddhisme"
     },
     "example": {
       "ja": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
-      "en": "Buddhism originated in India.",
-      "zh_TW": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
-      "zh_CN": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
-      "ko": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
-      "zh_HK": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。",
-      "fr": "<ruby>仏教<rt>ぶっきょう</rt></ruby>はインドで<ruby>生<rt>う</rt></ruby>まれました。"
+      "en": "Japanese traditional culture is deeply influenced by Buddhism.",
+      "zh_TW": "日本傳統文化深受佛教的深遠影響。",
+      "zh_CN": "日本傳統文化深受佛教的深遠影響。",
+      "ko": "일본의 전통문화는 불교의 영향을 깊게 받았습니다.",
+      "zh_HK": "日本傳統文化深受佛教影響。",
+      "fr": "Japanese traditional culture is deeply influenced by Buddhism."
     },
     "related": "ぶっきょう（授業の重要表現）"
   },
@@ -50328,20 +50328,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "New Year (holidays)",
       "ja": "お正月",
-      "zh_TW": "New Year (holidays)",
-      "zh_CN": "New Year (holidays)",
-      "ko": "New Year (holidays)",
-      "zh_HK": "New Year (holidays)",
-      "fr": "New Year (holidays)"
+      "zh_TW": "新年、過年",
+      "zh_CN": "新年、過年",
+      "ko": "설날, 신정",
+      "zh_HK": "新年、過年",
+      "fr": "Nouvel An"
     },
     "example": {
       "ja": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "en": "I spend New Year's with my family.",
-      "zh_TW": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "zh_CN": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "ko": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "zh_HK": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。",
-      "fr": "お<ruby>正月<rt>しょうがつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごします。"
+      "en": "During New Year, we eat osechi with the whole family at my parents' home.",
+      "zh_TW": "過年時我們全家聚在老家吃年菜慶祝。",
+      "zh_CN": "過年時我們全家聚在老家吃年菜慶祝。",
+      "ko": "설날에는 본가에서 가족과 함께 명절 음식을 먹습니다.",
+      "zh_HK": "過年嗰陣我哋全家人一齊食賀年菜。",
+      "fr": "During New Year, we eat osechi with the whole family at my parents' home."
     },
     "related": "おしょうがつ（授業の重要表現）"
   },
@@ -50353,20 +50353,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to become cheaper",
       "ja": "安くなる",
-      "zh_TW": "to become cheaper",
-      "zh_CN": "to become cheaper",
-      "ko": "to become cheaper",
-      "zh_HK": "to become cheaper",
-      "fr": "to become cheaper"
+      "zh_TW": "變便宜",
+      "zh_CN": "變便宜",
+      "ko": "싸지다",
+      "zh_HK": "變便宜",
+      "fr": "devenir moins cher"
     },
     "example": {
       "ja": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
-      "en": "Bento boxes get cheaper at night.",
-      "zh_TW": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
-      "zh_CN": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
-      "ko": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
-      "zh_HK": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。",
-      "fr": "<ruby>夜<rt>よる</rt></ruby>になると、お<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなります。"
+      "en": "Clothes become cheaper at the end of the season.",
+      "zh_TW": "到了換季時，衣服就會降價變便宜。",
+      "zh_CN": "到了換季時，衣服就會降價變便宜。",
+      "ko": "계절이 바뀔 때가 되면 옷이 저렴해집니다.",
+      "zh_HK": "到咗換季嗰時，啲衫就會變平減價。",
+      "fr": "Clothes become cheaper at the end of the season."
     },
     "related": "やすくなる（授業の重要表現）"
   },
@@ -50378,20 +50378,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "sale",
       "ja": "セール",
-      "zh_TW": "sale",
-      "zh_CN": "sale",
-      "ko": "sale",
-      "zh_HK": "sale",
-      "fr": "sale"
+      "zh_TW": "特賣、促銷",
+      "zh_CN": "特賣、促銷",
+      "ko": "세일",
+      "zh_HK": "特賣、促銷",
+      "fr": "solde, promotion"
     },
     "example": {
-      "ja": "デパートでセールをしています。",
-      "en": "There's a sale at the department store.",
-      "zh_TW": "デパートでセールをしています。",
-      "zh_CN": "デパートでセールをしています。",
-      "ko": "デパートでセールをしています。",
-      "zh_HK": "デパートでセールをしています。",
-      "fr": "デパートでセールをしています。"
+      "ja": "デパートで冬のセールが始まりました。",
+      "en": "The winter sale has begun at the department store.",
+      "zh_TW": "百貨公司冬季特賣促銷開跑了。",
+      "zh_CN": "百貨公司冬季特賣促銷開跑了。",
+      "ko": "백화점에서 겨울 정기 세일이 시작되었습니다.",
+      "zh_HK": "百貨公司嘅冬季大減價開始咗喇。",
+      "fr": "The winter sale has begun at the department store."
     },
     "related": "セール（授業の重要表現）"
   },
@@ -50403,20 +50403,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "funeral",
       "ja": "お葬式",
-      "zh_TW": "funeral",
-      "zh_CN": "funeral",
-      "ko": "funeral",
-      "zh_HK": "funeral",
-      "fr": "funeral"
+      "zh_TW": "喪禮、葬禮",
+      "zh_CN": "喪禮、葬禮",
+      "ko": "장례식",
+      "zh_HK": "喪禮、葬禮",
+      "fr": "funérailles"
     },
     "example": {
       "ja": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
-      "en": "My grandmother's funeral is tomorrow.",
-      "zh_TW": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
-      "zh_CN": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
-      "ko": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
-      "zh_HK": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。",
-      "fr": "<ruby>明日<rt>あした</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>があります。"
+      "en": "I wore black clothes to attend a relative's funeral.",
+      "zh_TW": "為了參加親戚的喪禮，我穿上了整套黑色喪服。",
+      "zh_CN": "為了參加親戚的喪禮，我穿上了整套黑色喪服。",
+      "ko": "친척의 장례식에 참석하기 위해 검은 옷을 입었습니다.",
+      "zh_HK": "為咗去親戚嘅喪禮，我著咗一身黑色衫。",
+      "fr": "I wore black clothes to attend a relative's funeral."
     },
     "related": "おそうしき（授業の重要表現）"
   },
@@ -50428,20 +50428,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "(international) trade",
       "ja": "貿易",
-      "zh_TW": "(international) trade",
-      "zh_CN": "(international) trade",
-      "ko": "(international) trade",
-      "zh_HK": "(international) trade",
-      "fr": "(international) trade"
+      "zh_TW": "貿易",
+      "zh_CN": "貿易",
+      "ko": "무역",
+      "zh_HK": "貿易",
+      "fr": "commerce international"
     },
     "example": {
       "ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
-      "en": "Japan trades with many countries.",
-      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
-      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
-      "ko": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
-      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。",
-      "fr": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>と<ruby>貿易<rt>ぼうえき</rt></ruby>をしています。"
+      "en": "Japan actively conducts trade with many countries.",
+      "zh_TW": "日本與世界上許多國家保持著繁榮的貿易往來。",
+      "zh_CN": "日本與世界上許多國家保持著繁榮的貿易往來。",
+      "ko": "일본은 많은 나라와 활발하게 무역을 하고 있습니다.",
+      "zh_HK": "日本同世界好多國家都有密切嘅貿易往來。",
+      "fr": "Japan actively conducts trade with many countries."
     },
     "related": "ぼうえき（授業の重要表現）"
   },
@@ -50453,20 +50453,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "government",
       "ja": "政府",
-      "zh_TW": "government",
-      "zh_CN": "government",
-      "ko": "government",
-      "zh_HK": "government",
-      "fr": "government"
+      "zh_TW": "政府",
+      "zh_CN": "政府",
+      "ko": "정부",
+      "zh_HK": "政府",
+      "fr": "gouvernement"
     },
     "example": {
       "ja": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
-      "en": "The government announced a new policy.",
-      "zh_TW": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
-      "zh_CN": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
-      "ko": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
-      "zh_HK": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
-      "fr": "<ruby>政府<rt>せいふ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政策<rt>せいさく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。"
+      "en": "The government announced new measures against the falling birthrate.",
+      "zh_TW": "政府發布了應對少子化危機的新政策。",
+      "zh_CN": "政府發布了應對少子化危機的新政策。",
+      "ko": "정부가 새로운 저출산 대책을 발표했습니다.",
+      "zh_HK": "政府公佈咗應對少子化嘅新政策。",
+      "fr": "The government announced new measures against the falling birthrate."
     },
     "related": "せいふ（授業の重要表現）"
   },
@@ -50478,20 +50478,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "top priority",
       "ja": "最優先",
-      "zh_TW": "top priority",
-      "zh_CN": "top priority",
-      "ko": "top priority",
-      "zh_HK": "top priority",
-      "fr": "top priority"
+      "zh_TW": "最優先",
+      "zh_CN": "最優先",
+      "ko": "최우선",
+      "zh_HK": "最優先",
+      "fr": "priorité absolue"
     },
     "example": {
       "ja": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
-      "en": "Safety is the top priority.",
-      "zh_TW": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
-      "zh_CN": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
-      "ko": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
-      "zh_HK": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。",
-      "fr": "<ruby>安全<rt>あんぜん</rt></ruby>が<ruby>最優先<rt>さいゆうせん</rt></ruby>です。"
+      "en": "Workers' safety is the top priority at the construction site.",
+      "zh_TW": "在工程工地上，作業工人的安全是最優先事項。",
+      "zh_CN": "在工程工地上，作業工人的安全是最優先事項。",
+      "ko": "공사 현장에서는 작업자의 안전이 최우선입니다.",
+      "zh_HK": "喺工地入面，工人嘅人身安全係最優先考慮。",
+      "fr": "Workers' safety is the top priority at the construction site."
     },
     "related": "さいゆうせん（授業の重要表現）"
   },
@@ -50503,20 +50503,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "reincarnation",
       "ja": "転生",
-      "zh_TW": "reincarnation",
-      "zh_CN": "reincarnation",
-      "ko": "reincarnation",
-      "zh_HK": "reincarnation",
-      "fr": "reincarnation"
+      "zh_TW": "轉生、轉世",
+      "zh_CN": "轉生、轉世",
+      "ko": "환생, 전생",
+      "zh_HK": "轉生、轉世",
+      "fr": "réincarnation"
     },
     "example": {
       "ja": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
-      "en": "Anime about being reincarnated in another world is popular.",
-      "zh_TW": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
-      "zh_CN": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
-      "ko": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
-      "zh_HK": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。",
-      "fr": "<ruby>異世界<rt>いせかい</rt></ruby>に<ruby>転生<rt>てんせい</rt></ruby>するアニメが<ruby>人気<rt>にんき</rt></ruby>です。"
+      "en": "Anime where characters reincarnate into another world are very popular recently.",
+      "zh_TW": "異世界轉生題材的動漫最近非常受歡迎。",
+      "zh_CN": "異世界轉生題材的動漫最近非常受歡迎。",
+      "ko": "이세계로 환생하는 애니메이션이 요즘 아주 인기입니다.",
+      "zh_HK": "轉生去異世界嘅動漫最近好受歡迎。",
+      "fr": "Anime where characters reincarnate into another world are very popular recently."
     },
     "related": "てんせい（授業の重要表現）"
   },
@@ -50528,20 +50528,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to be reborn",
       "ja": "生まれ変わる",
-      "zh_TW": "to be reborn",
-      "zh_CN": "to be reborn",
-      "ko": "to be reborn",
-      "zh_HK": "to be reborn",
-      "fr": "to be reborn"
+      "zh_TW": "脫胎換骨、重生",
+      "zh_CN": "脫胎換骨、重生",
+      "ko": "다시 태어나다",
+      "zh_HK": "脫胎換骨、重生",
+      "fr": "renaître"
     },
     "example": {
       "ja": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
-      "en": "If I'm reborn, I want to be a bird.",
-      "zh_TW": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
-      "zh_CN": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
-      "ko": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
-      "zh_HK": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。",
-      "fr": "<ruby>生<rt>う</rt></ruby>まれ<ruby>変<rt>か</rt></ruby>わったら、<ruby>鳥<rt>とり</rt></ruby>になりたいです。"
+      "en": "The old room was renovated and beautifully reborn.",
+      "zh_TW": "經過重新裝潢修繕，老舊的房間煥然一新。",
+      "zh_CN": "經過重新裝潢修繕，老舊的房間煥然一新。",
+      "ko": "인테리어를 새로 해서 낡은 방이 몰라보게 새로워졌습니다.",
+      "zh_HK": "全屋翻新裝修之後，間舊屋好似重生咁靚。",
+      "fr": "The old room was renovated and beautifully reborn."
     },
     "related": "うまれかわる（授業の重要表現）"
   },
@@ -50553,20 +50553,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to save; to rescue",
       "ja": "救う",
-      "zh_TW": "to save; to rescue",
-      "zh_CN": "to save; to rescue",
-      "ko": "to save; to rescue",
-      "zh_HK": "to save; to rescue",
-      "fr": "to save; to rescue"
+      "zh_TW": "拯救、救助",
+      "zh_CN": "拯救、救助",
+      "ko": "구하다",
+      "zh_HK": "拯救、救助",
+      "fr": "sauver, secourir"
     },
     "example": {
       "ja": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
-      "en": "Doctors save many lives.",
-      "zh_TW": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
-      "zh_CN": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
-      "ko": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
-      "zh_HK": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。",
-      "fr": "<ruby>医者<rt>いしゃ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>命<rt>いのち</rt></ruby>を<ruby>救<rt>すく</rt></ruby>います。"
+      "en": "Doctors worked through the night to save the patient's precious life.",
+      "zh_TW": "醫師們徹夜奮戰，拯救了患者寶貴的生命。",
+      "zh_CN": "醫師們徹夜奮戰，拯救了患者寶貴的生命。",
+      "ko": "의사들이 밤을 새워 환자의 소중한 생명을 구했습니다.",
+      "zh_HK": "醫生通宵做手術救返病人條寶貴嘅命。",
+      "fr": "Doctors worked through the night to save the patient's precious life."
     },
     "related": "すくう（授業の重要表現）"
   },
@@ -50578,20 +50578,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "escape",
       "ja": "脱出",
-      "zh_TW": "escape",
-      "zh_CN": "escape",
-      "ko": "escape",
-      "zh_HK": "escape",
-      "fr": "escape"
+      "zh_TW": "脫離、逃脫",
+      "zh_CN": "脫離、逃脫",
+      "ko": "탈출",
+      "zh_HK": "脫離、逃脫",
+      "fr": "évasion, fuite"
     },
     "example": {
       "ja": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
-      "en": "They escaped from the burning building.",
-      "zh_TW": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
-      "zh_CN": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
-      "ko": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
-      "zh_HK": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。",
-      "fr": "<ruby>燃<rt>も</rt></ruby>えている<ruby>建物<rt>たてもの</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>しました。"
+      "en": "I escaped the traffic jam and took a different road.",
+      "zh_TW": "我脫離了壅塞的車陣，改走另一條替代道路。",
+      "zh_CN": "我脫離了壅塞的車陣，改走另一條替代道路。",
+      "ko": "꽉 막힌 도로에서 탈출하여 다른 길로 우회했습니다.",
+      "zh_HK": "我避開咗大塞車，行咗另一條路走。",
+      "fr": "I escaped the traffic jam and took a different road."
     },
     "related": "だっしゅつ（授業の重要表現）"
   },
@@ -50603,20 +50603,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to run away; to flee",
       "ja": "逃げる",
-      "zh_TW": "to run away; to flee",
-      "zh_CN": "to run away; to flee",
-      "ko": "to run away; to flee",
-      "zh_HK": "to run away; to flee",
-      "fr": "to run away; to flee"
+      "zh_TW": "逃跑、逃走",
+      "zh_CN": "逃跑、逃走",
+      "ko": "도망치다",
+      "zh_HK": "逃跑、逃走",
+      "fr": "s'enfuir"
     },
     "example": {
       "ja": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
-      "en": "The cat ran away.",
-      "zh_TW": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
-      "zh_CN": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
-      "ko": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
-      "zh_HK": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。",
-      "fr": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げてしまいました。"
+      "en": "The thief saw the police and quickly ran away.",
+      "zh_TW": "小偷一看見警察的身影，急急忙忙拔腿逃跑。",
+      "zh_CN": "小偷一看見警察的身影，急急忙忙拔腿逃跑。",
+      "ko": "도둑이 경찰의 모습을 보고 허둥지둥 도망쳤습니다.",
+      "zh_HK": "個賊一見到警察即刻拔足狂奔走咗。",
+      "fr": "The thief saw the police and quickly ran away."
     },
     "related": "にげる（授業の重要表現）"
   },
@@ -50628,20 +50628,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "luggage; baggage; package",
       "ja": "荷物",
-      "zh_TW": "luggage; baggage; package",
-      "zh_CN": "luggage; baggage; package",
-      "ko": "luggage; baggage; package",
-      "zh_HK": "luggage; baggage; package",
-      "fr": "luggage; baggage; package"
+      "zh_TW": "行李、包裹",
+      "zh_CN": "行李、包裹",
+      "ko": "짐, 수하물",
+      "zh_HK": "行李、包裹",
+      "fr": "bagage, colis"
     },
     "example": {
       "ja": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
-      "en": "My luggage is heavy.",
-      "zh_TW": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
-      "zh_CN": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
-      "ko": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
-      "zh_HK": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
-      "fr": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。"
+      "en": "I packed my travel luggage into the suitcase.",
+      "zh_TW": "我把旅行行李整齊地裝進了行李箱中。",
+      "zh_CN": "我把旅行行李整齊地裝進了行李箱中。",
+      "ko": "여행 짐을 여행용 가방에 차곡차곡 챙겼습니다.",
+      "zh_HK": "我將去旅行啲行李執好晒入個喼度。",
+      "fr": "I packed my travel luggage into the suitcase."
     },
     "related": "にもつ（授業の重要表現）"
   },
@@ -50653,20 +50653,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "multifunctional",
       "ja": "多機能",
-      "zh_TW": "multifunctional",
-      "zh_CN": "multifunctional",
-      "ko": "multifunctional",
-      "zh_HK": "multifunctional",
-      "fr": "multifunctional"
+      "zh_TW": "多功能",
+      "zh_CN": "多功能",
+      "ko": "다기능",
+      "zh_HK": "多功能",
+      "fr": "multifonctionnel"
     },
     "example": {
       "ja": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
-      "en": "This watch is very multifunctional.",
-      "zh_TW": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
-      "zh_CN": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
-      "ko": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
-      "zh_HK": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。",
-      "fr": "この<ruby>時計<rt>とけい</rt></ruby>はとても<ruby>多機能<rt>たきのう</rt></ruby>です。"
+      "en": "This latest smartwatch is very multifunctional.",
+      "zh_TW": "這款最新型的智慧手錶具備非常豐富的多功能。",
+      "zh_CN": "這款最新型的智慧手錶具備非常豐富的多功能。",
+      "ko": "이 최신 스마트워치는 매우 다양한 기능을 갖추고 있습니다.",
+      "zh_HK": "呢隻最新款智能手錶好多功能好齊全。",
+      "fr": "This latest smartwatch is very multifunctional."
     },
     "related": "たきのう（授業の重要表現）"
   },
@@ -50678,20 +50678,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "limited edition",
       "ja": "限定版",
-      "zh_TW": "limited edition",
-      "zh_CN": "limited edition",
-      "ko": "limited edition",
-      "zh_HK": "limited edition",
-      "fr": "limited edition"
+      "zh_TW": "限量版、限定版",
+      "zh_CN": "限量版、限定版",
+      "ko": "한정판",
+      "zh_HK": "限量版、限定版",
+      "fr": "édition limitée"
     },
     "example": {
       "ja": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
-      "en": "I bought the limited edition of the game.",
-      "zh_TW": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
-      "zh_CN": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
-      "ko": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
-      "zh_HK": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。",
-      "fr": "<ruby>限定版<rt>げんていばん</rt></ruby>のゲームを<ruby>買<rt>か</rt></ruby>いました。"
+      "en": "I reserved the limited edition package of my favorite game.",
+      "zh_TW": "我預購了心愛遊戲的豪華限量限定版。",
+      "zh_CN": "我預購了心愛遊戲的豪華限量限定版。",
+      "ko": "좋아하는 게임의 한정판 패키지를 미리 예약했습니다.",
+      "zh_HK": "我預訂咗最鍾意隻game嘅限定珍藏版。",
+      "fr": "I reserved the limited edition package of my favorite game."
     },
     "related": "げんていばん（授業の重要表現）"
   },
@@ -50703,20 +50703,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "local (person)",
       "ja": "現地人",
-      "zh_TW": "local (person)",
-      "zh_CN": "local (person)",
-      "ko": "local (person)",
-      "zh_HK": "local (person)",
-      "fr": "local (person)"
+      "zh_TW": "當地人",
+      "zh_CN": "當地人",
+      "ko": "현지인",
+      "zh_HK": "當地人",
+      "fr": "habitant local"
     },
     "example": {
       "ja": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "I went to a shop that only locals know about.",
-      "zh_TW": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "zh_CN": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "ko": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "zh_HK": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-      "fr": "<ruby>現地人<rt>げんちじん</rt></ruby>しか<ruby>知<rt>し</rt></ruby>らないお<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+      "en": "A kind local person taught me a delicious eatery while traveling.",
+      "zh_TW": "在旅途中，親切的當地人告訴了我好吃的道地餐廳。",
+      "zh_CN": "在旅途中，親切的當地人告訴了我好吃的道地餐廳。",
+      "ko": "여행지에서 친절한 현지인에게 맛있는 식당을 추천받았습니다.",
+      "zh_HK": "去旅行嗰陣，當地好心嘅街坊帶咗我去間地道好食嘅小館。",
+      "fr": "A kind local person taught me a delicious eatery while traveling."
     },
     "related": "げんちじん（授業の重要表現）"
   },
@@ -50728,20 +50728,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "wheel",
       "ja": "車輪",
-      "zh_TW": "wheel",
-      "zh_CN": "wheel",
-      "ko": "wheel",
-      "zh_HK": "wheel",
-      "fr": "wheel"
+      "zh_TW": "車輪、輪子",
+      "zh_CN": "車輪、輪子",
+      "ko": "바퀴",
+      "zh_HK": "車輪、輪子",
+      "fr": "roue"
     },
     "example": {
       "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
-      "en": "The bicycle wheel broke.",
-      "zh_TW": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
-      "zh_CN": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
-      "ko": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
-      "zh_HK": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。",
-      "fr": "<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。"
+      "en": "I pumped air securely into the bicycle wheels.",
+      "zh_TW": "我把自行車的車輪胎壓仔細打飽打滿了。",
+      "zh_CN": "我把自行車的車輪胎壓仔細打飽打滿了。",
+      "ko": "자전거 바퀴에 공기를 꼼꼼히 채워 넣었습니다.",
+      "zh_HK": "我幫部單車個車胎泵滿咗氣。",
+      "fr": "I pumped air securely into the bicycle wheels."
     },
     "related": "しゃりん（授業の重要表現）"
   },
@@ -50753,20 +50753,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "not to one's taste",
       "ja": "口に合わない",
-      "zh_TW": "not to one's taste",
-      "zh_CN": "not to one's taste",
-      "ko": "not to one's taste",
-      "zh_HK": "not to one's taste",
-      "fr": "not to one's taste"
+      "zh_TW": "不合口味",
+      "zh_CN": "不合口味",
+      "ko": "입에 맞지 않다",
+      "zh_HK": "不合口味",
+      "fr": "ne pas être à son goût"
     },
     "example": {
       "ja": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
-      "en": "This dish isn't to my taste.",
-      "zh_TW": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
-      "zh_CN": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
-      "ko": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
-      "zh_HK": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
-      "fr": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。"
+      "en": "It was a bit too spicy and not to my taste.",
+      "zh_TW": "味道稍微有點太辣了，不太合我的口味。",
+      "zh_CN": "味道稍微有點太辣了，不太合我的口味。",
+      "ko": "조금 너무 매워서 제 입맛에는 잘 맞지 않았습니다.",
+      "zh_HK": "個味太辣喇，唔係好啱我食。",
+      "fr": "It was a bit too spicy and not to my taste."
     },
     "related": "くちにあわない（授業の重要表現）"
   },
@@ -50778,20 +50778,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "conservative",
       "ja": "保守的",
-      "zh_TW": "conservative",
-      "zh_CN": "conservative",
-      "ko": "conservative",
-      "zh_HK": "conservative",
-      "fr": "conservative"
+      "zh_TW": "保守的",
+      "zh_CN": "保守的",
+      "ko": "보수적",
+      "zh_HK": "保守的",
+      "fr": "conservateur"
     },
     "example": {
       "ja": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
-      "en": "My grandfather has a conservative way of thinking.",
-      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
-      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
-      "ko": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
-      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。",
-      "fr": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>保守的<rt>ほしゅてき</rt></ruby>です。"
+      "en": "My grandfather is a bit conservative in thinking, but very caring.",
+      "zh_TW": "祖父的思想雖然有些傳統保守，但他非常關愛全家人。",
+      "zh_CN": "祖父的思想雖然有些傳統保守，但他非常關愛全家人。",
+      "ko": "할아버지는 생각이 다소 보수적이시지만 가족을 끔찍이 아끼십니다.",
+      "zh_HK": "爺爺思想雖然保守少少，但好錫我哋屋企人。",
+      "fr": "My grandfather is a bit conservative in thinking, but very caring."
     },
     "related": "ほしゅてき（授業の重要表現）"
   },
@@ -50803,20 +50803,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to restrict; to limit",
       "ja": "制限する",
-      "zh_TW": "to restrict; to limit",
-      "zh_CN": "to restrict; to limit",
-      "ko": "to restrict; to limit",
-      "zh_HK": "to restrict; to limit",
-      "fr": "to restrict; to limit"
+      "zh_TW": "限制",
+      "zh_CN": "限制",
+      "ko": "제한하다",
+      "zh_HK": "限制",
+      "fr": "limiter, restreindre"
     },
     "example": {
       "ja": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
-      "en": "I limit my child's gaming time.",
-      "zh_TW": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
-      "zh_CN": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
-      "ko": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
-      "zh_HK": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。",
-      "fr": "<ruby>子<rt>こ</rt></ruby>どものゲーム<ruby>時間<rt>じかん</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>しています。"
+      "en": "For my health, I limit my intake of sweet snacks.",
+      "zh_TW": "為了身體健康，我開始節制甜食的攝取量。",
+      "zh_CN": "為了身體健康，我開始節制甜食的攝取量。",
+      "ko": "건강을 위해 달콤한 과자 섭취를 제한하고 있습니다.",
+      "zh_HK": "為咗健康，我開始限制自己食甜品零食嘅份量。",
+      "fr": "For my health, I limit my intake of sweet snacks."
     },
     "related": "せいげんする（授業の重要表現）"
   },
@@ -50828,20 +50828,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "duck (domestic)",
       "ja": "あひる",
-      "zh_TW": "duck (domestic)",
-      "zh_CN": "duck (domestic)",
-      "ko": "duck (domestic)",
-      "zh_HK": "duck (domestic)",
-      "fr": "duck (domestic)"
+      "zh_TW": "鴨子",
+      "zh_CN": "鴨子",
+      "ko": "집오리",
+      "zh_HK": "鴨子",
+      "fr": "canard"
     },
     "example": {
       "ja": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
-      "en": "There are ducks in the pond.",
-      "zh_TW": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
-      "zh_CN": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
-      "ko": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
-      "zh_HK": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。",
-      "fr": "<ruby>池<rt>いけ</rt></ruby>にあひるがいます。"
+      "en": "I watched the cute ducks swimming leisurely in the pond.",
+      "zh_TW": "我看著池塘裡悠哉划水游著的可愛鴨子。",
+      "zh_CN": "我看著池塘裡悠哉划水游著的可愛鴨子。",
+      "ko": "연못에서 평화롭게 헤엄치는 귀여운 오리들을 바라보았습니다.",
+      "zh_HK": "我望住池塘入面悠閒游水嘅得意鴨仔。",
+      "fr": "I watched the cute ducks swimming leisurely in the pond."
     },
     "related": "あひる（授業の重要表現）"
   },
@@ -50853,20 +50853,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "traffic jam",
       "ja": "渋滞",
-      "zh_TW": "traffic jam",
-      "zh_CN": "traffic jam",
-      "ko": "traffic jam",
-      "zh_HK": "traffic jam",
-      "fr": "traffic jam"
+      "zh_TW": "塞車、塞車",
+      "zh_CN": "塞車、塞車",
+      "ko": "교통 체증",
+      "zh_HK": "塞車、塞車",
+      "fr": "embouteillage"
     },
     "example": {
       "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
-      "en": "The road is jammed with traffic.",
-      "zh_TW": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
-      "zh_CN": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
-      "ko": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
-      "zh_HK": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。",
-      "fr": "<ruby>道<rt>みち</rt></ruby>が<ruby>渋滞<rt>じゅうたい</rt></ruby>しています。"
+      "en": "Roads are always congested on rainy weekday mornings.",
+      "zh_TW": "每逢下雨天的早晨，道路總是容易嚴重塞車。",
+      "zh_CN": "每逢下雨天的早晨，道路總是容易嚴重塞車。",
+      "ko": "비 오는 날 아침에는 도로가 항상 꽉 막힙니다.",
+      "zh_HK": "一到落雨天嘅朝早，條路就實會大塞車。",
+      "fr": "Roads are always congested on rainy weekday mornings."
     },
     "related": "じゅうたい（授業の重要表現）"
   },
@@ -50878,20 +50878,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "elderly person",
       "ja": "お年寄り",
-      "zh_TW": "elderly person",
-      "zh_CN": "elderly person",
-      "ko": "elderly person",
-      "zh_HK": "elderly person",
-      "fr": "elderly person"
+      "zh_TW": "高齡者、長輩",
+      "zh_CN": "高齡者、長輩",
+      "ko": "어르신",
+      "zh_HK": "高齡者、長輩",
+      "fr": "personne âgée"
     },
     "example": {
       "ja": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
-      "en": "I gave my seat to an elderly person on the bus.",
-      "zh_TW": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
-      "zh_CN": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
-      "ko": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
-      "zh_HK": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。",
-      "fr": "バスでお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>りました。"
+      "en": "I helped an elderly person carry heavy luggage up the stairs.",
+      "zh_TW": "在樓梯間我主動幫老人家提了沉重的行李。",
+      "zh_CN": "在樓梯間我主動幫老人家提了沉重的行李。",
+      "ko": "계단에서 어르신의 무거운 짐을 대신 들어드렸습니다.",
+      "zh_HK": "見到長者上樓梯好辛苦，我幫佢拎重行李。",
+      "fr": "I helped an elderly person carry heavy luggage up the stairs."
     },
     "related": "おとしより（授業の重要表現）"
   },
@@ -50903,20 +50903,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "kind person",
       "ja": "優しい人",
-      "zh_TW": "kind person",
-      "zh_CN": "kind person",
-      "ko": "kind person",
-      "zh_HK": "kind person",
-      "fr": "kind person"
+      "zh_TW": "溫柔親切的人",
+      "zh_CN": "溫柔親切的人",
+      "ko": "다정한 사람",
+      "zh_HK": "溫柔親切的人",
+      "fr": "personne gentille"
     },
     "example": {
       "ja": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
-      "en": "He is a very kind person.",
-      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
-      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
-      "ko": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
-      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
-      "fr": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。"
+      "en": "He is a truly kind person who cannot leave anyone in trouble.",
+      "zh_TW": "他是個看見別人有難絕不會坐視不管、極其善良的人。",
+      "zh_CN": "他是個看見別人有難絕不會坐視不管、極其善良的人。",
+      "ko": "그는 곤란한 사람을 지나치지 못하는 참 다정한 사람입니다.",
+      "zh_HK": "佢見到人有困難一定會主動幫手，係個好善良嘅人。",
+      "fr": "He is a truly kind person who cannot leave anyone in trouble."
     },
     "related": "やさしいひと（授業の重要表現）"
   },
@@ -50928,20 +50928,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "soy milk",
       "ja": "豆乳",
-      "zh_TW": "soy milk",
-      "zh_CN": "soy milk",
-      "ko": "soy milk",
-      "zh_HK": "soy milk",
-      "fr": "soy milk"
+      "zh_TW": "豆漿、豆奶",
+      "zh_CN": "豆漿、豆奶",
+      "ko": "두유",
+      "zh_HK": "豆漿、豆奶",
+      "fr": "lait de soja"
     },
     "example": {
       "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "en": "I drink soy milk every morning.",
-      "zh_TW": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "zh_CN": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "ko": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "zh_HK": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
-      "fr": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>豆乳<rt>とうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+      "en": "I drink warm plain soy milk every morning for health.",
+      "zh_TW": "為了身體健康，我每天早晨都喝一杯溫熱的純豆漿。",
+      "zh_CN": "為了身體健康，我每天早晨都喝一杯溫熱的純豆漿。",
+      "ko": "매일 아침 건강을 위해 따뜻한 무가당 두유를 마십니다.",
+      "zh_HK": "為咗身體健康，我每日朝早飲杯熱嘅無糖豆漿。",
+      "fr": "I drink warm plain soy milk every morning for health."
     },
     "related": "とうにゅう（授業の重要表現）"
   },
@@ -50953,20 +50953,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "cold (weather, air)",
       "ja": "寒い",
-      "zh_TW": "cold (weather, air)",
-      "zh_CN": "cold (weather, air)",
-      "ko": "cold (weather, air)",
-      "zh_HK": "cold (weather, air)",
-      "fr": "cold (weather, air)"
+      "zh_TW": "寒冷",
+      "zh_CN": "寒冷",
+      "ko": "춥다",
+      "zh_HK": "寒冷",
+      "fr": "froid"
     },
     "example": {
       "ja": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "en": "It's very cold today.",
-      "zh_TW": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "zh_CN": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "ko": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "zh_HK": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
-      "fr": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。"
+      "en": "Tonight is chilly and very cold.",
+      "zh_TW": "今晚氣溫驟降，天氣非常寒冷。",
+      "zh_CN": "今晚氣溫驟降，天氣非常寒冷。",
+      "ko": "오늘 밤은 기온이 뚝 떨어져서 무척 춥습니다.",
+      "zh_HK": "今晚天氣轉涼，好凍呀。",
+      "fr": "Tonight is chilly and very cold."
     },
     "related": "さむい（授業の重要表現）"
   },
@@ -50978,20 +50978,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "cold (to the touch); cold-hearted",
       "ja": "冷たい",
-      "zh_TW": "cold (to the touch); cold-hearted",
-      "zh_CN": "cold (to the touch); cold-hearted",
-      "ko": "cold (to the touch); cold-hearted",
-      "zh_HK": "cold (to the touch); cold-hearted",
-      "fr": "cold (to the touch); cold-hearted"
+      "zh_TW": "冰涼的、冰冷的",
+      "zh_CN": "冰涼的、冰冷的",
+      "ko": "차갑다",
+      "zh_HK": "冰涼的、冰冷的",
+      "fr": "froid (au toucher)"
     },
     "example": {
       "ja": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
-      "en": "I want to drink cold water.",
-      "zh_TW": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
-      "zh_CN": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
-      "ko": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
-      "zh_HK": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。",
-      "fr": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>が<ruby>飲<rt>の</rt></ruby>みたいです。"
+      "en": "I drank cold mineral water after exercising.",
+      "zh_TW": "運動過後，我喝了一瓶冰涼清冽的礦泉水。",
+      "zh_CN": "運動過後，我喝了一瓶冰涼清冽的礦泉水。",
+      "ko": "운동 후에 시원하고 차가운 생수를 마셨습니다.",
+      "zh_HK": "做完運動之後，飲咗樽冰凍嘅礦泉水好解渴。",
+      "fr": "I drank cold mineral water after exercising."
     },
     "related": "つめたい（授業の重要表現）"
   },
@@ -51003,20 +51003,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to have a refined palate",
       "ja": "舌が肥える",
-      "zh_TW": "to have a refined palate",
-      "zh_CN": "to have a refined palate",
-      "ko": "to have a refined palate",
-      "zh_HK": "to have a refined palate",
-      "fr": "to have a refined palate"
+      "zh_TW": "嘴刁、懂吃、品味高",
+      "zh_CN": "嘴刁、懂吃、品味高",
+      "ko": "입맛이 까다롭다/고급이다",
+      "zh_HK": "嘴刁、懂吃、品味高",
+      "fr": "avoir le palais fin"
     },
     "example": {
       "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
-      "en": "He has a refined palate.",
-      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
-      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
-      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
-      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。",
-      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舌<rt>した</rt></ruby>が<ruby>肥<rt>こ</rt></ruby>えています。"
+      "en": "Visiting great restaurants has given me a refined palate.",
+      "zh_TW": "經常走訪各大美食名店，讓我的嘴變得非常懂吃挑剔。",
+      "zh_CN": "經常走訪各大美食名店，讓我的嘴變得非常懂吃挑剔。",
+      "ko": "맛집을 찾아다니다 보니 자연스레 입맛이 한층 고급스러워졌습니다.",
+      "zh_HK": "食得多好嘢，而家個人把嘴變得好刁好識食。",
+      "fr": "Visiting great restaurants has given me a refined palate."
     },
     "related": "したがこえる（授業の重要表現）"
   },
@@ -51028,20 +51028,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to steam; to be humid",
       "ja": "蒸す",
-      "zh_TW": "to steam; to be humid",
-      "zh_CN": "to steam; to be humid",
-      "ko": "to steam; to be humid",
-      "zh_HK": "to steam; to be humid",
-      "fr": "to steam; to be humid"
+      "zh_TW": "蒸、清蒸",
+      "zh_CN": "蒸、清蒸",
+      "ko": "찌다",
+      "zh_HK": "蒸、清蒸",
+      "fr": "cuire à la vapeur"
     },
     "example": {
       "ja": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
-      "en": "I steam vegetables to eat.",
-      "zh_TW": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
-      "zh_CN": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
-      "ko": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
-      "zh_HK": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。",
-      "fr": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>蒸<rt>む</rt></ruby>して<ruby>食<rt>た</rt></ruby>べます。"
+      "en": "I steam plenty of seasonal vegetables to eat healthily.",
+      "zh_TW": "將豐富的當季蔬菜清蒸，吃得健康又美味。",
+      "zh_CN": "將豐富的當季蔬菜清蒸，吃得健康又美味。",
+      "ko": "제철 채소를 듬뿍 쪄서 담백하고 건강하게 먹습니다.",
+      "zh_HK": "將時令蔬菜清蒸嚟食，清淡又健康。",
+      "fr": "I steam plenty of seasonal vegetables to eat healthily."
     },
     "related": "むす（授業の重要表現）"
   },
@@ -51053,20 +51053,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "steam (rising)",
       "ja": "湯気",
-      "zh_TW": "steam (rising)",
-      "zh_CN": "steam (rising)",
-      "ko": "steam (rising)",
-      "zh_HK": "steam (rising)",
-      "fr": "steam (rising)"
+      "zh_TW": "熱氣、水蒸氣",
+      "zh_CN": "熱氣、水蒸氣",
+      "ko": "김, 수증기",
+      "zh_HK": "熱氣、水蒸氣",
+      "fr": "vapeur"
     },
     "example": {
       "ja": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
-      "en": "Steam is rising from the ramen.",
-      "zh_TW": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
-      "zh_CN": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
-      "ko": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
-      "zh_HK": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。",
-      "fr": "ラーメンから<ruby>湯気<rt>ゆげ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。"
+      "en": "White steam is rising from freshly cooked rice.",
+      "zh_TW": "剛煮好的熱騰騰白飯正冒著裊裊白煙熱氣。",
+      "zh_CN": "剛煮好的熱騰騰白飯正冒著裊裊白煙熱氣。",
+      "ko": "갓 지은 밥에서 하얀 김이 모락모락 피어오릅니다.",
+      "zh_HK": "啱啱煲好嘅白飯冒出熱騰騰嘅白煙。",
+      "fr": "White steam is rising from freshly cooked rice."
     },
     "related": "ゆげ（授業の重要表現）"
   },
@@ -51078,20 +51078,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "seasonal tradition; something that evokes a season",
       "ja": "風物詩",
-      "zh_TW": "seasonal tradition; something that evokes a season",
-      "zh_CN": "seasonal tradition; something that evokes a season",
-      "ko": "seasonal tradition; something that evokes a season",
-      "zh_HK": "seasonal tradition; something that evokes a season",
-      "fr": "seasonal tradition; something that evokes a season"
+      "zh_TW": "季節風物詩、象徵風情",
+      "zh_CN": "季節風物詩、象徵風情",
+      "ko": "풍물시",
+      "zh_HK": "季節風物詩、象徵風情",
+      "fr": "tradition saisonnière"
     },
     "example": {
       "ja": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
-      "en": "Fireworks are a classic sign of summer.",
-      "zh_TW": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
-      "zh_CN": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
-      "ko": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
-      "zh_HK": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。",
-      "fr": "<ruby>花火<rt>はなび</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。"
+      "en": "Big fireworks blooming in night sky are a symbol of Japanese summer.",
+      "zh_TW": "在夜空中盛開的壯麗煙火，是日本夏天的代表風物詩。",
+      "zh_CN": "在夜空中盛開的壯麗煙火，是日本夏天的代表風物詩。",
+      "ko": "밤하늘을 수놓는 불꽃놀이는 일본 여름의 대표적인 풍물시입니다.",
+      "zh_HK": "夜空綻放嘅煙花，係日本夏天最具代表性嘅傳統風情。",
+      "fr": "Big fireworks blooming in night sky are a symbol of Japanese summer."
     },
     "related": "ふうぶつし（授業の重要表現）"
   },
@@ -51103,20 +51103,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "crowd",
       "ja": "人混み",
-      "zh_TW": "crowd",
-      "zh_CN": "crowd",
-      "ko": "crowd",
-      "zh_HK": "crowd",
-      "fr": "crowd"
+      "zh_TW": "擁擠人群、人潮",
+      "zh_CN": "擁擠人群、人潮",
+      "ko": "인파",
+      "zh_HK": "擁擠人群、人潮",
+      "fr": "foule"
     },
     "example": {
       "ja": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
-      "en": "I don't like crowds.",
-      "zh_TW": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
-      "zh_CN": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
-      "ko": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
-      "zh_HK": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。",
-      "fr": "<ruby>人混<rt>ひとご</rt></ruby>みが<ruby>苦手<rt>にがて</rt></ruby>です。"
+      "en": "I dislike crowds, so I shop during quiet weekday hours.",
+      "zh_TW": "我不太適應擁擠的人潮，所以都在平日安靜時去購物。",
+      "zh_CN": "我不太適應擁擠的人潮，所以都在平日安靜時去購物。",
+      "ko": "사람 많은 곳을 꺼려서 평일 한적한 시간에 쇼핑합니다.",
+      "zh_HK": "我好怕人逼人，所以鍾意趁平日少人嗰陣去買嘢。",
+      "fr": "I dislike crowds, so I shop during quiet weekday hours."
     },
     "related": "ひとごみ（授業の重要表現）"
   },
@@ -51128,20 +51128,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "calm; relaxed; subdued",
       "ja": "落ち着いた",
-      "zh_TW": "calm; relaxed; subdued",
-      "zh_CN": "calm; relaxed; subdued",
-      "ko": "calm; relaxed; subdued",
-      "zh_HK": "calm; relaxed; subdued",
-      "fr": "calm; relaxed; subdued"
+      "zh_TW": "沉著的、安詳的",
+      "zh_CN": "沉著的、安詳的",
+      "ko": "차분한",
+      "zh_HK": "沉著的、安詳的",
+      "fr": "calme, posé"
     },
     "example": {
       "ja": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
-      "en": "I like cafés with a calm atmosphere.",
-      "zh_TW": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
-      "zh_CN": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
-      "ko": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
-      "zh_HK": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。",
-      "fr": "<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>のカフェが<ruby>好<rt>す</rt></ruby>きです。"
+      "en": "Reading books in a calm, cozy cafe is pure bliss.",
+      "zh_TW": "在靜謐沉穩的咖啡廳裡讀書，是我最幸福的時光。",
+      "zh_CN": "在靜謐沉穩的咖啡廳裡讀書，是我最幸福的時光。",
+      "ko": "차분한 분위기의 카페에서 독서하는 시간이 가장 행복합니다.",
+      "zh_HK": "喺好清幽寧靜嘅咖啡小店睇書，係最享受嘅時光。",
+      "fr": "Reading books in a calm, cozy cafe is pure bliss."
     },
     "related": "おちついた（授業の重要表現）"
   },
@@ -51153,20 +51153,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to show off",
       "ja": "見せびらかす",
-      "zh_TW": "to show off",
-      "zh_CN": "to show off",
-      "ko": "to show off",
-      "zh_HK": "to show off",
-      "fr": "to show off"
+      "zh_TW": "炫耀、賣弄",
+      "zh_CN": "炫耀、賣弄",
+      "ko": "자랑하다",
+      "zh_HK": "炫耀、賣弄",
+      "fr": "exhiber, crâner"
     },
     "example": {
       "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
-      "en": "He's showing off his new watch.",
-      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
-      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
-      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
-      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。",
-      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せびらかしています。"
+      "en": "He happily showed off his new watch to his friends.",
+      "zh_TW": "他開心地向身邊的朋友炫耀他新買的帥氣手錶。",
+      "zh_CN": "他開心地向身邊的朋友炫耀他新買的帥氣手錶。",
+      "ko": "새로 산 시계를 신이 나서 친구들에게 자랑했습니다.",
+      "zh_HK": "佢好開心噉向朋友曬佢新買隻名錶。",
+      "fr": "He happily showed off his new watch to his friends."
     },
     "related": "みせびらかす（授業の重要表現）"
   },
@@ -51178,20 +51178,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "bookstore",
       "ja": "本屋",
-      "zh_TW": "bookstore",
-      "zh_CN": "bookstore",
-      "ko": "bookstore",
-      "zh_HK": "bookstore",
-      "fr": "bookstore"
+      "zh_TW": "書店",
+      "zh_CN": "書店",
+      "ko": "서점",
+      "zh_HK": "書店",
+      "fr": "librairie"
     },
     "example": {
       "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
-      "en": "There's a bookstore in front of the station.",
-      "zh_TW": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
-      "zh_CN": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
-      "ko": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
-      "zh_HK": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。",
-      "fr": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>本屋<rt>ほんや</rt></ruby>があります。"
+      "en": "I bought language study books at the large bookstore by the station.",
+      "zh_TW": "我在車站前的大書店買了幾本外語學習參考書。",
+      "zh_CN": "我在車站前的大書店買了幾本外語學習參考書。",
+      "ko": "역 앞 대형 서점에서 어학 학습 참고서를 샀습니다.",
+      "zh_HK": "喺火車站門口間大書店買咗本學日文嘅參考書。",
+      "fr": "I bought language study books at the large bookstore by the station."
     },
     "related": "ほんや（授業の重要表現）"
   },
@@ -51203,20 +51203,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "heaven; paradise",
       "ja": "天国",
-      "zh_TW": "heaven; paradise",
-      "zh_CN": "heaven; paradise",
-      "ko": "heaven; paradise",
-      "zh_HK": "heaven; paradise",
-      "fr": "heaven; paradise"
+      "zh_TW": "天堂",
+      "zh_CN": "天堂",
+      "ko": "천국",
+      "zh_HK": "天堂",
+      "fr": "paradis"
     },
     "example": {
       "ja": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
-      "en": "This place is heaven for cat lovers.",
-      "zh_TW": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
-      "zh_CN": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
-      "ko": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
-      "zh_HK": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。",
-      "fr": "ここは<ruby>猫好<rt>ねこず</rt></ruby>きには<ruby>天国<rt>てんごく</rt></ruby>です。"
+      "en": "Soaking in hot springs and eating fine food is pure paradise.",
+      "zh_TW": "一邊泡露天溫泉一邊享用佳餚，簡直就像身在天堂一樣。",
+      "zh_CN": "一邊泡露天溫泉一邊享用佳餚，簡直就像身在天堂一樣。",
+      "ko": "온천에 몸을 담그고 맛있는 요리를 먹으니 그야말로 천국입니다.",
+      "zh_HK": "一路浸溫泉一路食好嘢，真係好似上咗天堂咁嘆。",
+      "fr": "Soaking in hot springs and eating fine food is pure paradise."
     },
     "related": "てんごく（授業の重要表現）"
   },
@@ -51228,20 +51228,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "situation; circumstances",
       "ja": "状況",
-      "zh_TW": "situation; circumstances",
-      "zh_CN": "situation; circumstances",
-      "ko": "situation; circumstances",
-      "zh_HK": "situation; circumstances",
-      "fr": "situation; circumstances"
+      "zh_TW": "情況、現狀",
+      "zh_CN": "情況、現狀",
+      "ko": "상황",
+      "zh_HK": "情況、現狀",
+      "fr": "situation"
     },
     "example": {
       "ja": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "en": "Please tell me the current situation.",
-      "zh_TW": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "zh_CN": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "ko": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "zh_HK": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "fr": "<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。"
+      "en": "We are carefully monitoring the situation on site as it changes moment by moment.",
+      "zh_TW": "我們正密切關注著當地隨時在變化的最新情況。",
+      "zh_CN": "我們正密切關注著當地隨時在變化的最新情況。",
+      "ko": "시시각각 변하는 현지 상황을 주의 깊게 지켜보고 있습니다.",
+      "zh_HK": "我哋好密切噉留意住現場隨時變化嘅最新狀況。",
+      "fr": "We are carefully monitoring the situation on site as it changes moment by moment."
     },
     "related": "じょうきょう（授業の重要表現）"
   },
@@ -51253,20 +51253,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "center; hub",
       "ja": "中心地",
-      "zh_TW": "center; hub",
-      "zh_CN": "center; hub",
-      "ko": "center; hub",
-      "zh_HK": "center; hub",
-      "fr": "center; hub"
+      "zh_TW": "中心地帶、核心區域",
+      "zh_CN": "中心地帶、核心區域",
+      "ko": "중심지",
+      "zh_HK": "中心地帶、核心區域",
+      "fr": "centre-ville, cœur"
     },
     "example": {
       "ja": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
-      "en": "This is the center of town.",
-      "zh_TW": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
-      "zh_CN": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
-      "ko": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
-      "zh_HK": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。",
-      "fr": "ここは<ruby>町<rt>まち</rt></ruby>の<ruby>中心地<rt>ちゅうしんち</rt></ruby>です。"
+      "en": "This area has great transit and flourishes as commercial center.",
+      "zh_TW": "這裡交通四通八達，作為繁華的商業核心地帶十分興盛。",
+      "zh_CN": "這裡交通四通八達，作為繁華的商業核心地帶十分興盛。",
+      "ko": "이곳은 교통이 편리하여 상업의 중심지로 번영하고 있습니다.",
+      "zh_HK": "呢度交通四通八達，係好繁榮嘅商業核心地帶。",
+      "fr": "This area has great transit and flourishes as commercial center."
     },
     "related": "ちゅうしんち（授業の重要表現）"
   },
@@ -51278,20 +51278,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "(volcanic) eruption",
       "ja": "噴火",
-      "zh_TW": "(volcanic) eruption",
-      "zh_CN": "(volcanic) eruption",
-      "ko": "(volcanic) eruption",
-      "zh_HK": "(volcanic) eruption",
-      "fr": "(volcanic) eruption"
+      "zh_TW": "（火山）爆發、噴發",
+      "zh_CN": "（火山）爆發、噴發",
+      "ko": "분화",
+      "zh_HK": "（火山）爆發、噴發",
+      "fr": "éruption volcanique"
     },
     "example": {
       "ja": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
-      "en": "The volcano erupted.",
-      "zh_TW": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
-      "zh_CN": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
-      "ko": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
-      "zh_HK": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。",
-      "fr": "<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。"
+      "en": "I checked the hazard map in preparation for volcanic eruption.",
+      "zh_TW": "為了防範火山噴發災害，我事先確認了防災避難地圖。",
+      "zh_CN": "為了防範火山噴發災害，我事先確認了防災避難地圖。",
+      "ko": "화산 분화에 대비하여 방재 대피 지도를 미리 확인했습니다.",
+      "zh_HK": "為咗預防火山爆發，我上網check清楚避難防災地圖。",
+      "fr": "I checked the hazard map in preparation for volcanic eruption."
     },
     "related": "ふんか（授業の重要表現）"
   },
@@ -51303,20 +51303,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "mature-looking; grown-up",
       "ja": "大人っぽい",
-      "zh_TW": "mature-looking; grown-up",
-      "zh_CN": "mature-looking; grown-up",
-      "ko": "mature-looking; grown-up",
-      "zh_HK": "mature-looking; grown-up",
-      "fr": "mature-looking; grown-up"
+      "zh_TW": "成熟的、有大人味的",
+      "zh_CN": "成熟的、有大人味的",
+      "ko": "어른스러운",
+      "zh_HK": "成熟的、有大人味的",
+      "fr": "d'allure adulte"
     },
     "example": {
       "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
-      "en": "She looks mature for her age.",
-      "zh_TW": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
-      "zh_CN": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
-      "ko": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
-      "zh_HK": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。",
-      "fr": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>年<rt>とし</rt></ruby>のわりに<ruby>大人<rt>おとな</rt></ruby>っぽいです。"
+      "en": "Wearing a calm-colored dress makes you look much more mature.",
+      "zh_TW": "穿上沉穩色系的優雅禮服，看起來立刻顯得落落大方成熟許多。",
+      "zh_CN": "穿上沉穩色系的優雅禮服，看起來立刻顯得落落大方成熟許多。",
+      "ko": "차분한 색상의 원피스를 입으니 한결 어른스러워 보입니다.",
+      "zh_HK": "著咗條斯文大方嘅長裙，個人睇起上嚟成熟穩重好多。",
+      "fr": "Wearing a calm-colored dress makes you look much more mature."
     },
     "related": "おとなっぽい（授業の重要表現）"
   },
@@ -51328,20 +51328,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "childish",
       "ja": "子供っぽい",
-      "zh_TW": "childish",
-      "zh_CN": "childish",
-      "ko": "childish",
-      "zh_HK": "childish",
-      "fr": "childish"
+      "zh_TW": "孩子氣的、幼稚的",
+      "zh_CN": "孩子氣的、幼稚的",
+      "ko": "아이 같은",
+      "zh_HK": "孩子氣的、幼稚的",
+      "fr": "enfantin"
     },
     "example": {
       "ja": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
-      "en": "Getting angry over something like that is childish.",
-      "zh_TW": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
-      "zh_CN": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
-      "ko": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
-      "zh_HK": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。",
-      "fr": "そんなことで<ruby>怒<rt>おこ</rt></ruby>るなんて、<ruby>子供<rt>こども</rt></ruby>っぽいですね。"
+      "en": "Getting angry over trivial things is a bit childish behavior.",
+      "zh_TW": "因為雞毛蒜皮的小事發脾氣，是稍微有點孩子氣的舉動喔。",
+      "zh_CN": "因為雞毛蒜皮的小事發脾氣，是稍微有點孩子氣的舉動喔。",
+      "ko": "사소한 일로 토라지는 것은 조금 아이 같은 행동이에요.",
+      "zh_HK": "因為少少小事就發脾氣，咁樣做太細路仔氣喇。",
+      "fr": "Getting angry over trivial things is a bit childish behavior."
     },
     "related": "こどもっぽい（授業の重要表現）"
   },
@@ -51353,20 +51353,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "divorced once (colloquial)",
       "ja": "バツイチ",
-      "zh_TW": "divorced once (colloquial)",
-      "zh_CN": "divorced once (colloquial)",
-      "ko": "divorced once (colloquial)",
-      "zh_HK": "divorced once (colloquial)",
-      "fr": "divorced once (colloquial)"
+      "zh_TW": "離過一次婚",
+      "zh_CN": "離過一次婚",
+      "ko": "돌싱, 이혼 경험",
+      "zh_HK": "離過一次婚",
+      "fr": "divorcé"
     },
     "example": {
       "ja": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
-      "en": "He's been divorced once.",
-      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
-      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
-      "ko": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
-      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。",
-      "fr": "<ruby>彼<rt>かれ</rt></ruby>はバツイチです。"
+      "en": "She is divorced once, but lives her life positively and happily.",
+      "zh_TW": "她雖然離過一次婚，但依然樂觀開朗地享受著美好人生。",
+      "zh_CN": "她雖然離過一次婚，但依然樂觀開朗地享受著美好人生。",
+      "ko": "그녀는 이혼 경험이 있지만 긍정적으로 인생을 즐기고 있습니다.",
+      "zh_HK": "佢雖然結過婚離咗婚，但依然好積極樂觀噉過生活。",
+      "fr": "She is divorced once, but lives her life positively and happily."
     },
     "related": "バツイチ（授業の重要表現）"
   },
@@ -51378,20 +51378,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "healthy",
       "ja": "健康的",
-      "zh_TW": "healthy",
-      "zh_CN": "healthy",
-      "ko": "healthy",
-      "zh_HK": "healthy",
-      "fr": "healthy"
+      "zh_TW": "健康的",
+      "zh_CN": "健康的",
+      "ko": "건강한",
+      "zh_HK": "健康的",
+      "fr": "sain, équilibré"
     },
     "example": {
       "ja": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
-      "en": "I try to eat healthy meals.",
-      "zh_TW": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
-      "zh_CN": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
-      "ko": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
-      "zh_HK": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。",
-      "fr": "<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。"
+      "en": "I try to cook healthy meals packed with plenty of vegetables.",
+      "zh_TW": "我平時注重多吃蔬菜，用心烹調健康營養的自煮菜色。",
+      "zh_CN": "我平時注重多吃蔬菜，用心烹調健康營養的自煮菜色。",
+      "ko": "채소를 듬뿍 넣은 건강한 집밥 요리를 실천하고 있습니다.",
+      "zh_HK": "我平日煮飯好注重多食蔬菜，食得健康又有營養。",
+      "fr": "I try to cook healthy meals packed with plenty of vegetables."
     },
     "related": "けんこうてき（授業の重要表現）"
   },
@@ -51403,20 +51403,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "dishwashing",
       "ja": "皿洗い",
-      "zh_TW": "dishwashing",
-      "zh_CN": "dishwashing",
-      "ko": "dishwashing",
-      "zh_HK": "dishwashing",
-      "fr": "dishwashing"
+      "zh_TW": "洗碗",
+      "zh_CN": "洗碗",
+      "ko": "설거지",
+      "zh_HK": "洗碗",
+      "fr": "vaisselle"
     },
     "example": {
       "ja": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
-      "en": "I wash the dishes after dinner.",
-      "zh_TW": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
-      "zh_CN": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
-      "ko": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
-      "zh_HK": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。",
-      "fr": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>皿洗<rt>さらあら</rt></ruby>いをします。"
+      "en": "After delicious dinner, we cooperated as family to wash dishes.",
+      "zh_TW": "享用完美味的晚餐後，全家人同心協力把碗盤洗乾淨。",
+      "zh_CN": "享用完美味的晚餐後，全家人同心協力把碗盤洗乾淨。",
+      "ko": "맛있는 저녁 식사 후 온 가족이 힘을 모아 설거지를 했습니다.",
+      "zh_HK": "食完餐正嘅晚飯之後，一家人齊心合力洗好晒啲碗碟。",
+      "fr": "After delicious dinner, we cooperated as family to wash dishes."
     },
     "related": "さらあらい（授業の重要表現）"
   },
@@ -51428,20 +51428,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "plate; dish",
       "ja": "お皿",
-      "zh_TW": "plate; dish",
-      "zh_CN": "plate; dish",
-      "ko": "plate; dish",
-      "zh_HK": "plate; dish",
-      "fr": "plate; dish"
+      "zh_TW": "盤子、碟子",
+      "zh_CN": "盤子、碟子",
+      "ko": "접시",
+      "zh_HK": "盤子、碟子",
+      "fr": "assiette"
     },
     "example": {
       "ja": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
-      "en": "I broke a plate.",
-      "zh_TW": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
-      "zh_CN": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
-      "ko": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
-      "zh_HK": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。",
-      "fr": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまいました。"
+      "en": "I plated the food on pretty ceramic dishes to make it shine.",
+      "zh_TW": "為了讓菜餚更顯可口，我將食物盛裝在精美的陶瓷餐盤上。",
+      "zh_CN": "為了讓菜餚更顯可口，我將食物盛裝在精美的陶瓷餐盤上。",
+      "ko": "음식이 돋보이도록 예쁜 도자기 접시에 정갈하게 담았습니다.",
+      "zh_HK": "為咗碟餸睇起上嚟好吸引，我用隻靚陶瓷碟擺盤。",
+      "fr": "I plated the food on pretty ceramic dishes to make it shine."
     },
     "related": "おさら（授業の重要表現）"
   },
@@ -51453,20 +51453,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "picky eating; unbalanced diet",
       "ja": "偏食",
-      "zh_TW": "picky eating; unbalanced diet",
-      "zh_CN": "picky eating; unbalanced diet",
-      "ko": "picky eating; unbalanced diet",
-      "zh_HK": "picky eating; unbalanced diet",
-      "fr": "picky eating; unbalanced diet"
+      "zh_TW": "偏食、挑食",
+      "zh_CN": "偏食、挑食",
+      "ko": "편식",
+      "zh_HK": "偏食、挑食",
+      "fr": "alimentation déséquilibrée"
     },
     "example": {
       "ja": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
-      "en": "I'm struggling with my child's picky eating.",
-      "zh_TW": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
-      "zh_CN": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
-      "ko": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
-      "zh_HK": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。",
-      "fr": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>偏食<rt>へんしょく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っています。"
+      "en": "For my health, I fixed my picky eating and eat various foods.",
+      "zh_TW": "為了維持健康，我改掉了挑食的習慣，攝取多樣化食材。",
+      "zh_CN": "為了維持健康，我改掉了挑食的習慣，攝取多樣化食材。",
+      "ko": "건강을 위해 편식 습관을 고치고 다양한 식재료를 골고루 먹습니다.",
+      "zh_HK": "為咗身體健康，我戒咗挑食嘅壞習慣，乜嘢食物都均衡食啲。",
+      "fr": "For my health, I fixed my picky eating and eat various foods."
     },
     "related": "へんしょく（授業の重要表現）"
   },
@@ -51478,20 +51478,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "well water",
       "ja": "井戸水",
-      "zh_TW": "well water",
-      "zh_CN": "well water",
-      "ko": "well water",
-      "zh_HK": "well water",
-      "fr": "well water"
+      "zh_TW": "井水",
+      "zh_CN": "井水",
+      "ko": "우물물",
+      "zh_HK": "井水",
+      "fr": "eau de puits"
     },
     "example": {
       "ja": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
-      "en": "This village uses well water.",
-      "zh_TW": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
-      "zh_CN": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
-      "ko": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
-      "zh_HK": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
-      "fr": "この<ruby>村<rt>むら</rt></ruby>では<ruby>井戸水<rt>いどみず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。"
+      "en": "Traditional well water feels cool in summer and warm in winter.",
+      "zh_TW": "傳統的水井水冬暖夏涼，喝起來特別清涼甘甜。",
+      "zh_CN": "傳統的水井水冬暖夏涼，喝起來特別清涼甘甜。",
+      "ko": "예부터 내려온 우물물은 여름엔 시원하고 겨울엔 따뜻하게 느껴집니다.",
+      "zh_HK": "古老傳統嘅井水冬暖夏涼，飲落好清甜甘涼。",
+      "fr": "Traditional well water feels cool in summer and warm in winter."
     },
     "related": "いどみず（授業の重要表現）"
   },
@@ -51503,20 +51503,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "eating habits",
       "ja": "食習慣",
-      "zh_TW": "eating habits",
-      "zh_CN": "eating habits",
-      "ko": "eating habits",
-      "zh_HK": "eating habits",
-      "fr": "eating habits"
+      "zh_TW": "飲食習慣",
+      "zh_CN": "飲食習慣",
+      "ko": "식습관",
+      "zh_HK": "飲食習慣",
+      "fr": "habitudes alimentaires"
     },
     "example": {
       "ja": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
-      "en": "Eating habits differ from country to country.",
-      "zh_TW": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
-      "zh_CN": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
-      "ko": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
-      "zh_HK": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。",
-      "fr": "<ruby>国<rt>くに</rt></ruby>によって<ruby>食習慣<rt>しょくしゅうかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>います。"
+      "en": "Let's acquire balanced eating habits focused on vegetables.",
+      "zh_TW": "讓我們養成以蔬菜為主、營養均衡的優良飲食習慣吧。",
+      "zh_CN": "讓我們養成以蔬菜為主、營養均衡的優良飲食習慣吧。",
+      "ko": "채소 위주의 균형 잡힌 바른 식습관을 길러봅시다.",
+      "zh_HK": "養成多菜少肉、營養均衡嘅健康飲食好習慣。",
+      "fr": "Let's acquire balanced eating habits focused on vegetables."
     },
     "related": "しょくしゅうかん（授業の重要表現）"
   },
@@ -51528,20 +51528,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "lifestyle habits",
       "ja": "生活習慣",
-      "zh_TW": "lifestyle habits",
-      "zh_CN": "lifestyle habits",
-      "ko": "lifestyle habits",
-      "zh_HK": "lifestyle habits",
-      "fr": "lifestyle habits"
+      "zh_TW": "生活習慣",
+      "zh_CN": "生活習慣",
+      "ko": "생활 습관",
+      "zh_HK": "生活習慣",
+      "fr": "mode de vie"
     },
     "example": {
       "ja": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
-      "en": "Let's review our lifestyle habits.",
-      "zh_TW": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
-      "zh_CN": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
-      "ko": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
-      "zh_HK": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。",
-      "fr": "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>しましょう。"
+      "en": "Keeping healthy lifestyle habits like sleeping and waking early is key.",
+      "zh_TW": "保持早睡早起等規律正常的生活習慣，是健康的基石。",
+      "zh_CN": "保持早睡早起等規律正常的生活習慣，是健康的基石。",
+      "ko": "일찍 자고 일찍 일어나는 올바른 생활 습관을 유지하는 것이 중요합니다.",
+      "zh_HK": "早睡早起保持規律正常嘅作息生活習慣，係好緊要嘅。",
+      "fr": "Keeping healthy lifestyle habits like sleeping and waking early is key."
     },
     "related": "せいかつしゅうかん（授業の重要表現）"
   },
@@ -51553,20 +51553,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to grow up; to be raised",
       "ja": "育つ",
-      "zh_TW": "to grow up; to be raised",
-      "zh_CN": "to grow up; to be raised",
-      "ko": "to grow up; to be raised",
-      "zh_HK": "to grow up; to be raised",
-      "fr": "to grow up; to be raised"
+      "zh_TW": "成長、長大",
+      "zh_CN": "成長、長大",
+      "ko": "자라다",
+      "zh_HK": "成長、長大",
+      "fr": "grandir"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "en": "I grew up in Osaka.",
-      "zh_TW": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "zh_CN": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "ko": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "zh_HK": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。",
-      "fr": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。"
+      "en": "I grew up carefree in a rural town surrounded by rich nature.",
+      "zh_TW": "我在大自然環抱的鄉村小鎮裡無憂無慮、健康地長大。",
+      "zh_CN": "我在大自然環抱的鄉村小鎮裡無憂無慮、健康地長大。",
+      "ko": "아름다운 자연으로 둘러싸인 시골 마을에서 건강하게 자랐습니다.",
+      "zh_HK": "我喺被大自然環繞嘅鄉村小鎮無憂無慮長大成人。",
+      "fr": "I grew up carefree in a rural town surrounded by rich nature."
     },
     "related": "そだつ（授業の重要表現）"
   },
@@ -51578,20 +51578,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "child-rearing; parenting",
       "ja": "子育て",
-      "zh_TW": "child-rearing; parenting",
-      "zh_CN": "child-rearing; parenting",
-      "ko": "child-rearing; parenting",
-      "zh_HK": "child-rearing; parenting",
-      "fr": "child-rearing; parenting"
+      "zh_TW": "育兒、教養孩子",
+      "zh_CN": "育兒、教養孩子",
+      "ko": "육아",
+      "zh_HK": "育兒、教養孩子",
+      "fr": "éducation des enfants"
     },
     "example": {
       "ja": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
-      "en": "Raising children is hard but fun.",
-      "zh_TW": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
-      "zh_CN": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
-      "ko": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
-      "zh_HK": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。",
-      "fr": "<ruby>子育<rt>こそだ</rt></ruby>ては<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>楽<rt>たの</rt></ruby>しいです。"
+      "en": "Systems supporting working parents raising kids are increasing.",
+      "zh_TW": "支援職業父母邊工作邊帶小孩的育兒福利制度日益增加。",
+      "zh_CN": "支援職業父母邊工作邊帶小孩的育兒福利制度日益增加。",
+      "ko": "일과 육아를 병행하는 부모를 지원하는 복지 제도가 늘고 있습니다.",
+      "zh_HK": "而家越嚟越多支援在職父母邊返工邊照顧仔女嘅福利措施。",
+      "fr": "Systems supporting working parents raising kids are increasing."
     },
     "related": "こそだて（授業の重要表現）"
   },
@@ -51603,20 +51603,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "coast; seashore",
       "ja": "海岸",
-      "zh_TW": "coast; seashore",
-      "zh_CN": "coast; seashore",
-      "ko": "coast; seashore",
-      "zh_HK": "coast; seashore",
-      "fr": "coast; seashore"
+      "zh_TW": "海岸、海濱",
+      "zh_CN": "海岸、海濱",
+      "ko": "해안",
+      "zh_HK": "海岸、海濱",
+      "fr": "côte, rivage"
     },
     "example": {
       "ja": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
-      "en": "I took a walk along the coast.",
-      "zh_TW": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
-      "zh_CN": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
-      "ko": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
-      "zh_HK": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
-      "fr": "<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。"
+      "en": "Feeling the sea breeze, I drove slowly along the scenic coast.",
+      "zh_TW": "吹著舒適的宜人海風，我開著車沿著美麗的海岸線悠閒兜風。",
+      "zh_CN": "吹著舒適的宜人海風，我開著車沿著美麗的海岸線悠閒兜風。",
+      "ko": "시원한 바닷바람을 맞으며 아름다운 해안 도로를 드라이브했습니다.",
+      "zh_HK": "吹住舒服嘅海風，沿住風景好靚嘅海岸線慢慢兜風。",
+      "fr": "Feeling the sea breeze, I drove slowly along the scenic coast."
     },
     "related": "かいがん（授業の重要表現）"
   },
@@ -51628,20 +51628,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "talks; meeting (formal)",
       "ja": "会談",
-      "zh_TW": "talks; meeting (formal)",
-      "zh_CN": "talks; meeting (formal)",
-      "ko": "talks; meeting (formal)",
-      "zh_HK": "talks; meeting (formal)",
-      "fr": "talks; meeting (formal)"
+      "zh_TW": "會談、會晤",
+      "zh_CN": "會談、會晤",
+      "ko": "회담",
+      "zh_HK": "會談、會晤",
+      "fr": "pourparlers, sommet"
     },
     "example": {
       "ja": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
-      "en": "The leaders of the two countries held talks.",
-      "zh_TW": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
-      "zh_CN": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
-      "ko": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
-      "zh_HK": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。",
-      "fr": "<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>会談<rt>かいだん</rt></ruby>しました。"
+      "en": "Leaders of both nations met and held talks on economic cooperation.",
+      "zh_TW": "兩國領導人齊聚一堂，就經濟合作召開了重要的元首會談。",
+      "zh_CN": "兩國領導人齊聚一堂，就經濟合作召開了重要的元首會談。",
+      "ko": "양국 정상이 모여 경제 협력에 관한 중요한 회담을 가졌습니다.",
+      "zh_HK": "兩國元首聚首一堂，就經貿合作舉行咗好重要嘅高峰會談。",
+      "fr": "Leaders of both nations met and held talks on economic cooperation."
     },
     "related": "かいだん（授業の重要表現）"
   },
@@ -51653,20 +51653,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "laboratory; professor's office",
       "ja": "研究室",
-      "zh_TW": "laboratory; professor's office",
-      "zh_CN": "laboratory; professor's office",
-      "ko": "laboratory; professor's office",
-      "zh_HK": "laboratory; professor's office",
-      "fr": "laboratory; professor's office"
+      "zh_TW": "研究室、實驗室",
+      "zh_CN": "研究室、實驗室",
+      "ko": "연구실",
+      "zh_HK": "研究室、實驗室",
+      "fr": "laboratoire"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "en": "I'm going to the professor's lab.",
-      "zh_TW": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_CN": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "ko": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_HK": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "fr": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究室<rt>けんきゅうしつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+      "en": "In the university lab, I am dedicated to biotechnology research.",
+      "zh_TW": "在大學的專門研究室裡，我正努力鑽研全新的生物科技技術。",
+      "zh_CN": "在大學的專門研究室裡，我正努力鑽研全新的生物科技技術。",
+      "ko": "대학 연구실에서 새로운 생명공학 기술 연구에 매진하고 있습니다.",
+      "zh_HK": "喺大學研究室入面，我好努力鑽研新嘅生物科技項目。",
+      "fr": "In the university lab, I am dedicated to biotechnology research."
     },
     "related": "けんきゅうしつ（授業の重要表現）"
   },
@@ -51678,20 +51678,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to tidy up; to put away",
       "ja": "片付ける",
-      "zh_TW": "to tidy up; to put away",
-      "zh_CN": "to tidy up; to put away",
-      "ko": "to tidy up; to put away",
-      "zh_HK": "to tidy up; to put away",
-      "fr": "to tidy up; to put away"
+      "zh_TW": "整理、收拾",
+      "zh_CN": "整理、收拾",
+      "ko": "정리하다, 치우다",
+      "zh_HK": "整理、收拾",
+      "fr": "ranger"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
-      "en": "Please tidy up your room.",
-      "zh_TW": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
-      "zh_CN": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
-      "ko": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
-      "zh_HK": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。",
-      "fr": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けてください。"
+      "en": "I tidied up the cluttered desk and made the workspace spacious.",
+      "zh_TW": "我把堆滿雜物的書桌收拾乾淨，讓辦公空間變得開闊清爽。",
+      "zh_CN": "我把堆滿雜物的書桌收拾乾淨，讓辦公空間變得開闊清爽。",
+      "ko": "어질러진 책상 위를 깨끗이 치워 작업 공간을 넓혔습니다.",
+      "zh_HK": "將張亂糟糟嘅書枱執返好，多咗好多位做嘢。",
+      "fr": "I tidied up the cluttered desk and made the workspace spacious."
     },
     "related": "かたづける（授業の重要表現）"
   },
@@ -51703,20 +51703,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to tell a lie",
       "ja": "嘘をつく",
-      "zh_TW": "to tell a lie",
-      "zh_CN": "to tell a lie",
-      "ko": "to tell a lie",
-      "zh_HK": "to tell a lie",
-      "fr": "to tell a lie"
+      "zh_TW": "說謊、撒謊",
+      "zh_CN": "說謊、撒謊",
+      "ko": "거짓말을 하다",
+      "zh_HK": "說謊、撒謊",
+      "fr": "mentir"
     },
     "example": {
       "ja": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
-      "en": "You must not tell lies.",
-      "zh_TW": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
-      "zh_CN": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
-      "ko": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
-      "zh_HK": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。",
-      "fr": "<ruby>嘘<rt>うそ</rt></ruby>をついてはいけません。"
+      "en": "Never tell lies, as doing so destroys trust.",
+      "zh_TW": "說謊會徹底失去他人對自己的信任，千萬不要撒謊。",
+      "zh_CN": "說謊會徹底失去他人對自己的信任，千萬不要撒謊。",
+      "ko": "신뢰를 잃게 되므로 거짓말을 하는 것은 절대 피해야 합니다.",
+      "zh_HK": "講大話會冇人再信你，切記千祈唔好講謊言。",
+      "fr": "Never tell lies, as doing so destroys trust."
     },
     "related": "うそをつく（授業の重要表現）"
   },
@@ -51728,20 +51728,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "liar",
       "ja": "嘘つき",
-      "zh_TW": "liar",
-      "zh_CN": "liar",
-      "ko": "liar",
-      "zh_HK": "liar",
-      "fr": "liar"
+      "zh_TW": "騙子、說謊的人",
+      "zh_CN": "騙子、說謊的人",
+      "ko": "거짓말쟁이",
+      "zh_HK": "騙子、說謊的人",
+      "fr": "menteur"
     },
     "example": {
       "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
-      "en": "He is a liar.",
-      "zh_TW": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
-      "zh_CN": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
-      "ko": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
-      "zh_HK": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。",
-      "fr": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>嘘<rt>うそ</rt></ruby>つきです。"
+      "en": "Because he always breaks promises, he's known as a liar.",
+      "zh_TW": "他總是說話不算話違背約定，已經被大家當成了說謊的大騙子。",
+      "zh_CN": "他總是說話不算話違背約定，已經被大家當成了說謊的大騙子。",
+      "ko": "그는 매번 약속을 어겨서 완전히 거짓말쟁이로 불리고 있습니다.",
+      "zh_HK": "佢次次應承人做唔到失信，已經俾人當咗係大話精。",
+      "fr": "Because he always breaks promises, he's known as a liar."
     },
     "related": "うそつき（授業の重要表現）"
   },
@@ -51753,20 +51753,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "virus",
       "ja": "ウイルス",
-      "zh_TW": "virus",
-      "zh_CN": "virus",
-      "ko": "virus",
-      "zh_HK": "virus",
+      "zh_TW": "病毒",
+      "zh_CN": "病毒",
+      "ko": "바이러스",
+      "zh_HK": "病毒",
       "fr": "virus"
     },
     "example": {
       "ja": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
-      "en": "My computer got infected with a virus.",
-      "zh_TW": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
-      "zh_CN": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
-      "ko": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
-      "zh_HK": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。",
-      "fr": "パソコンがウイルスに<ruby>感染<rt>かんせん</rt></ruby>しました。"
+      "en": "Winter is a season when cold and flu viruses spread easily.",
+      "zh_TW": "冬季是感冒以及流感病毒非常容易廣泛流行的危險季節。",
+      "zh_CN": "冬季是感冒以及流感病毒非常容易廣泛流行的危險季節。",
+      "ko": "겨울은 감기와 독감 바이러스가 유행하기 쉬운 계절입니다.",
+      "zh_HK": "冬天係流感同傷風感冒病毒好容易傳播肆虐嘅季節。",
+      "fr": "Winter is a season when cold and flu viruses spread easily."
     },
     "related": "ウイルス（授業の重要表現）"
   },
@@ -51778,20 +51778,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "hot water",
       "ja": "お湯",
-      "zh_TW": "hot water",
-      "zh_CN": "hot water",
-      "ko": "hot water",
-      "zh_HK": "hot water",
-      "fr": "hot water"
+      "zh_TW": "熱水、溫水",
+      "zh_CN": "熱水、溫水",
+      "ko": "뜨거운 물",
+      "zh_HK": "熱水、溫水",
+      "fr": "eau chaude"
     },
     "example": {
       "ja": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
-      "en": "I'll boil some water.",
-      "zh_TW": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
-      "zh_CN": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
-      "ko": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
-      "zh_HK": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。",
-      "fr": "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かします。"
+      "en": "I boiled hot water in a kettle and brewed delicious hot black tea.",
+      "zh_TW": "我用熱水壺把水燒開，沖泡了一杯香濃好喝的熱紅茶。",
+      "zh_CN": "我用熱水壺把水燒開，沖泡了一杯香濃好喝的熱紅茶。",
+      "ko": "주전자에 물을 끓여서 향긋하고 따뜻한 홍차를 우려냈습니다.",
+      "zh_HK": "用個水煲煲好滾水，沖咗杯香濃嘅熱紅茶飲。",
+      "fr": "I boiled hot water in a kettle and brewed delicious hot black tea."
     },
     "related": "おゆ（授業の重要表現）"
   },
@@ -51803,20 +51803,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "landmark; marker",
       "ja": "目印",
-      "zh_TW": "landmark; marker",
-      "zh_CN": "landmark; marker",
-      "ko": "landmark; marker",
-      "zh_HK": "landmark; marker",
-      "fr": "landmark; marker"
+      "zh_TW": "路標、標誌物",
+      "zh_CN": "路標、標誌物",
+      "ko": "길잡이, 표식",
+      "zh_HK": "路標、標誌物",
+      "fr": "repère"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
-      "en": "The red building in front of the station is the landmark.",
-      "zh_TW": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
-      "zh_CN": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
-      "ko": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
-      "zh_HK": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。",
-      "fr": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>いビルが<ruby>目印<rt>めじるし</rt></ruby>です。"
+      "en": "Using the clock tower by the station as marker, I met with my friend.",
+      "zh_TW": "我們以車站前的顯眼鐘樓為路標集合地點，與朋友碰面。",
+      "zh_CN": "我們以車站前的顯眼鐘樓為路標集合地點，與朋友碰面。",
+      "ko": "역 앞 시계탑을 표식 삼아 친구와 약속 장소를 정했습니다.",
+      "zh_HK": "我哋以火車站出面座鐘樓做標記，約好喺嗰度等。",
+      "fr": "Using the clock tower by the station as marker, I met with my friend."
     },
     "related": "めじるし（授業の重要表現）"
   },
@@ -51828,20 +51828,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "visiting a family grave",
       "ja": "お墓参り",
-      "zh_TW": "visiting a family grave",
-      "zh_CN": "visiting a family grave",
-      "ko": "visiting a family grave",
-      "zh_HK": "visiting a family grave",
-      "fr": "visiting a family grave"
+      "zh_TW": "掃墓、祭祖",
+      "zh_CN": "掃墓、祭祖",
+      "ko": "성묘",
+      "zh_HK": "掃墓、祭祖",
+      "fr": "visite des tombes"
     },
     "example": {
       "ja": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
-      "en": "I visit the family grave during Obon.",
-      "zh_TW": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_CN": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
-      "ko": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_HK": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。",
-      "fr": "お<ruby>盆<rt>ぼん</rt></ruby>にお<ruby>墓参<rt>はかまい</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。"
+      "en": "During Obon vacation, our family visited our ancestors' graves.",
+      "zh_TW": "在盂蘭盆節長假中，我們全家一起去為列祖列宗掃墓祭拜。",
+      "zh_CN": "在盂蘭盆節長假中，我們全家一起去為列祖列宗掃墓祭拜。",
+      "ko": "추석 연휴에 온 가족이 다 함께 조상님 성묘를 다녀왔습니다.",
+      "zh_HK": "趁住節日假期，全家人一齊去拜山掃墓祭祀祖先。",
+      "fr": "During Obon vacation, our family visited our ancestors' graves."
     },
     "related": "おはかまいり（授業の重要表現）"
   },
@@ -51853,20 +51853,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "ancestor",
       "ja": "祖先",
-      "zh_TW": "ancestor",
-      "zh_CN": "ancestor",
-      "ko": "ancestor",
-      "zh_HK": "ancestor",
-      "fr": "ancestor"
+      "zh_TW": "祖先、先人",
+      "zh_CN": "祖先、先人",
+      "ko": "조상",
+      "zh_HK": "祖先、先人",
+      "fr": "ancêtre"
     },
     "example": {
       "ja": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "en": "We honor our ancestors.",
-      "zh_TW": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "zh_CN": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "ko": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "zh_HK": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。",
-      "fr": "<ruby>祖先<rt>そせん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。"
+      "en": "I treasure traditional Japanese customs that revere ancestors.",
+      "zh_TW": "我十分珍視日本尊敬慎終追遠、敬拜祖先的優良傳統習俗。",
+      "zh_CN": "我十分珍視日本尊敬慎終追遠、敬拜祖先的優良傳統習俗。",
+      "ko": "조상님을 소중히 모시는 일본의 전통 명절 문화를 소중히 여깁니다.",
+      "zh_HK": "我哋好重視傳統習俗，一直以來都好尊敬懷念先人。",
+      "fr": "I treasure traditional Japanese customs that revere ancestors."
     },
     "related": "そせん（授業の重要表現）"
   },
@@ -51878,20 +51878,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "grave; tomb",
       "ja": "墓",
-      "zh_TW": "grave; tomb",
-      "zh_CN": "grave; tomb",
-      "ko": "grave; tomb",
-      "zh_HK": "grave; tomb",
-      "fr": "grave; tomb"
+      "zh_TW": "墓、墳墓",
+      "zh_CN": "墓、墳墓",
+      "ko": "묘, 무덤",
+      "zh_HK": "墓、墳墓",
+      "fr": "tombe"
     },
     "example": {
       "ja": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
-      "en": "My grandfather's grave is on the mountain.",
-      "zh_TW": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
-      "zh_CN": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
-      "ko": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
-      "zh_HK": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。",
-      "fr": "<ruby>祖父<rt>そふ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。"
+      "en": "The family grave is in quiet spot on hill, cleaned regularly.",
+      "zh_TW": "家族的墓地位於山丘上的清幽寧靜處，我們定期前往打掃整理。",
+      "zh_CN": "家族的墓地位於山丘上的清幽寧靜處，我們定期前往打掃整理。",
+      "ko": "언덕 위 한적한 곳에 묘소가 있어 정기적으로 청소하고 있습니다.",
+      "zh_HK": "屋企個家族墓地喺個好清靜嘅山仔上面，定時都會去打掃。",
+      "fr": "The family grave is in quiet spot on hill, cleaned regularly."
     },
     "related": "はか（授業の重要表現）"
   },
@@ -51903,20 +51903,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "port; harbor",
       "ja": "港",
-      "zh_TW": "port; harbor",
-      "zh_CN": "port; harbor",
-      "ko": "port; harbor",
-      "zh_HK": "port; harbor",
-      "fr": "port; harbor"
+      "zh_TW": "港口、港灣",
+      "zh_CN": "港口、港灣",
+      "ko": "항구",
+      "zh_HK": "港口、港灣",
+      "fr": "port"
     },
     "example": {
       "ja": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
-      "en": "A big ship is docked at the port.",
-      "zh_TW": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
-      "zh_CN": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
-      "ko": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
-      "zh_HK": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。",
-      "fr": "<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まっています。"
+      "en": "Boats loaded with fresh catch returned to harbor at sunrise.",
+      "zh_TW": "朝陽升起的港灣中，滿載著剛捕撈鮮魚的漁船陸續進港靠岸。",
+      "zh_CN": "朝陽升起的港灣中，滿載著剛捕撈鮮魚的漁船陸續進港靠岸。",
+      "ko": "아침 해가 뜨는 항구로 갓 잡은 생선을 실은 배들이 속속 들어옵니다.",
+      "zh_HK": "清晨日出嘅海港度，一艘接一艘滿載海鮮嘅漁船陸續駛返入嚟。",
+      "fr": "Boats loaded with fresh catch returned to harbor at sunrise."
     },
     "related": "みなと（授業の重要表現）"
   },
@@ -51928,20 +51928,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "advertisement",
       "ja": "広告",
-      "zh_TW": "advertisement",
-      "zh_CN": "advertisement",
-      "ko": "advertisement",
-      "zh_HK": "advertisement",
-      "fr": "advertisement"
+      "zh_TW": "廣告",
+      "zh_CN": "廣告",
+      "ko": "광고",
+      "zh_HK": "廣告",
+      "fr": "publicité"
     },
     "example": {
       "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
-      "en": "There are many ads on the train.",
-      "zh_TW": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
-      "zh_CN": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
-      "ko": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
-      "zh_HK": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。",
-      "fr": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>がたくさんあります。"
+      "en": "Eye-catching ads were posted across town for new product launch.",
+      "zh_TW": "配合全新產品正式發售上市，市區各處刊登了許多吸睛的宣傳廣告。",
+      "zh_CN": "配合全新產品正式發售上市，市區各處刊登了許多吸睛的宣傳廣告。",
+      "ko": "신제품 출시에 맞춰 시내 곳곳에 매력적인 광고가 걸렸습니다.",
+      "zh_HK": "配合全新產品推出，成個市區周圍都貼滿晒好吸睛嘅宣傳廣告。",
+      "fr": "Eye-catching ads were posted across town for new product launch."
     },
     "related": "こうこく（授業の重要表現）"
   },
@@ -51953,20 +51953,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "population",
       "ja": "人口",
-      "zh_TW": "population",
-      "zh_CN": "population",
-      "ko": "population",
-      "zh_HK": "population",
+      "zh_TW": "人口",
+      "zh_CN": "人口",
+      "ko": "인구",
+      "zh_HK": "人口",
       "fr": "population"
     },
     "example": {
       "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
-      "en": "Japan's population is decreasing.",
-      "zh_TW": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
-      "zh_CN": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
-      "ko": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
-      "zh_HK": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。",
-      "fr": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。"
+      "en": "Because this city is so livable, its population increases yearly.",
+      "zh_TW": "由於這座城市極為宜居舒適，居民人口數逐年持續穩定成長。",
+      "zh_CN": "由於這座城市極為宜居舒適，居民人口數逐年持續穩定成長。",
+      "ko": "이 도시는 살기 좋아서 해마다 인구가 꾸준히 증가하고 있습니다.",
+      "zh_HK": "呢個城市好宜居環境又好，每一年嘅居住人口都穩步上升。",
+      "fr": "Because this city is so livable, its population increases yearly."
     },
     "related": "じんこう（授業の重要表現）"
   },
@@ -51978,20 +51978,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "candidate; option",
       "ja": "候補",
-      "zh_TW": "candidate; option",
-      "zh_CN": "candidate; option",
-      "ko": "candidate; option",
-      "zh_HK": "candidate; option",
-      "fr": "candidate; option"
+      "zh_TW": "候選人、候補選項",
+      "zh_CN": "候選人、候補選項",
+      "ko": "후보",
+      "zh_HK": "候選人、候補選項",
+      "fr": "candidat, option"
     },
     "example": {
       "ja": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
-      "en": "We have several possible travel destinations.",
-      "zh_TW": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
-      "zh_CN": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
-      "ko": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
-      "zh_HK": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。",
-      "fr": "<ruby>旅行先<rt>りょこうさき</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>がいくつかあります。"
+      "en": "As candidate destinations for next trip, we are considering Hokkaido and Okinawa.",
+      "zh_TW": "作為下一趟旅行的候選目的地，我們正認真考慮北海道與沖繩。",
+      "zh_CN": "作為下一趟旅行的候選目的地，我們正認真考慮北海道與沖繩。",
+      "ko": "다음 여행지 후보로 홋카이도와 오키나와를 적극 검토 중입니다.",
+      "zh_HK": "下一次旅行嘅候選目的地，我哋考慮緊去北海道定沖繩。",
+      "fr": "As candidate destinations for next trip, we are considering Hokkaido and Okinawa."
     },
     "related": "こうほ（授業の重要表現）"
   },
@@ -52003,20 +52003,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "bottom",
       "ja": "底",
-      "zh_TW": "bottom",
-      "zh_CN": "bottom",
-      "ko": "bottom",
-      "zh_HK": "bottom",
-      "fr": "bottom"
+      "zh_TW": "底部",
+      "zh_CN": "底部",
+      "ko": "바닥",
+      "zh_HK": "底部",
+      "fr": "fond"
     },
     "example": {
       "ja": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
-      "en": "The bottom of the pot got burned.",
-      "zh_TW": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
-      "zh_CN": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
-      "ko": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
-      "zh_HK": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。",
-      "fr": "<ruby>鍋<rt>なべ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>が<ruby>焦<rt>こ</rt></ruby>げました。"
+      "en": "Simmered on low heat so the pot bottom wouldn't burn.",
+      "zh_TW": "為了不讓鍋底燒焦黏鍋，我用文火小火慢燉細細熬煮。",
+      "zh_CN": "為了不讓鍋底燒焦黏鍋，我用文火小火慢燉細細熬煮。",
+      "ko": "냄비 바닥이 타지 않도록 약한 불로 뭉근하게 끓였습니다.",
+      "zh_HK": "為咗唔好煲燶個鍋底，我較咗慢火慢燉細煨。",
+      "fr": "Simmered on low heat so the pot bottom wouldn't burn."
     },
     "related": "そこ（授業の重要表現）"
   },
@@ -52028,20 +52028,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "customer; guest (polite)",
       "ja": "お客様",
-      "zh_TW": "customer; guest (polite)",
-      "zh_CN": "customer; guest (polite)",
-      "ko": "customer; guest (polite)",
-      "zh_HK": "customer; guest (polite)",
-      "fr": "customer; guest (polite)"
+      "zh_TW": "客人、顧客",
+      "zh_CN": "客人、顧客",
+      "ko": "고객님, 손님",
+      "zh_HK": "客人、顧客",
+      "fr": "client, invité"
     },
     "example": {
       "ja": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
-      "en": "This way, please.",
-      "zh_TW": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
-      "zh_CN": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
-      "ko": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
-      "zh_HK": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。",
-      "fr": "お<ruby>客様<rt>きゃくさま</rt></ruby>、こちらへどうぞ。"
+      "en": "'Welcome! Esteemed customer, please come this way to back seats.'",
+      "zh_TW": "「歡迎光臨！貴賓您好，請往裡面舒適的雅座入座。」",
+      "zh_CN": "「歡迎光臨！貴賓您好，請往裡面舒適的雅座入座。」",
+      "ko": "“어서 오십시오! 고객님, 이쪽 안쪽 자리로 안내해 드리겠습니다.”",
+      "zh_HK": "「歡迎光臨！貴賓你好，請行入少少坐呢邊嘅卡位啦。」",
+      "fr": "'Welcome! Esteemed customer, please come this way to back seats.'"
     },
     "related": "おきゃくさま（授業の重要表現）"
   },
@@ -52053,20 +52053,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "That's enough; sufficient",
       "ja": "十分です",
-      "zh_TW": "That's enough; sufficient",
-      "zh_CN": "That's enough; sufficient",
-      "ko": "That's enough; sufficient",
-      "zh_HK": "That's enough; sufficient",
-      "fr": "That's enough; sufficient"
+      "zh_TW": "十分充分了、夠了",
+      "zh_CN": "十分充分了、夠了",
+      "ko": "충분합니다",
+      "zh_HK": "十分充分了、夠了",
+      "fr": "c'est suffisant"
     },
     "example": {
       "ja": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
-      "en": "That's plenty, thank you.",
-      "zh_TW": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
-      "zh_CN": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
-      "ko": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
-      "zh_HK": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。",
-      "fr": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>です。ありがとうございます。"
+      "en": "'Would you like a refill?' 'Thank you, I've had plenty.'",
+      "zh_TW": "「要再來一碗添飯嗎？」「非常謝謝您，我已經吃得十分飽足了。」",
+      "zh_CN": "「要再來一碗添飯嗎？」「非常謝謝您，我已經吃得十分飽足了。」",
+      "ko": "“더 드시겠어요?” “감사합니다, 이미 충분히 배부릅니다.”",
+      "zh_HK": "「使唔使再添多碗飯呀？」「多謝你，我已經好飽好足夠喇。」",
+      "fr": "'Would you like a refill?' 'Thank you, I've had plenty.'"
     },
     "related": "じゅうぶんです（授業の重要表現）"
   },
@@ -52078,20 +52078,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "overnight bus",
       "ja": "夜行バス",
-      "zh_TW": "overnight bus",
-      "zh_CN": "overnight bus",
-      "ko": "overnight bus",
-      "zh_HK": "overnight bus",
-      "fr": "overnight bus"
+      "zh_TW": "夜間長途巴士",
+      "zh_CN": "夜間長途巴士",
+      "ko": "야간 버스",
+      "zh_HK": "夜間長途巴士",
+      "fr": "bus de nuit"
     },
     "example": {
       "ja": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "en": "I'm going to Tokyo by overnight bus.",
-      "zh_TW": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_CN": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "ko": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "zh_HK": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
-      "fr": "<ruby>夜行<rt>やこう</rt></ruby>バスで<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+      "en": "To save transit costs, I used an overnight bus to Tokyo.",
+      "zh_TW": "為了節省昂貴的交通旅費，我搭乘夜間長途巴士前往東京。",
+      "zh_CN": "為了節省昂貴的交通旅費，我搭乘夜間長途巴士前往東京。",
+      "ko": "교통비를 아끼기 위해 도쿄까지 야간 버스를 이용했습니다.",
+      "zh_HK": "為咗慳返啲交通費，我搭咗通宵夜行長途巴士去東京。",
+      "fr": "To save transit costs, I used an overnight bus to Tokyo."
     },
     "related": "やこうバス（授業の重要表現）"
   },
@@ -52103,20 +52103,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "horse-drawn carriage",
       "ja": "馬車",
-      "zh_TW": "horse-drawn carriage",
-      "zh_CN": "horse-drawn carriage",
-      "ko": "horse-drawn carriage",
-      "zh_HK": "horse-drawn carriage",
-      "fr": "horse-drawn carriage"
+      "zh_TW": "馬車",
+      "zh_CN": "馬車",
+      "ko": "마차",
+      "zh_HK": "馬車",
+      "fr": "calèche, fiacre"
     },
     "example": {
       "ja": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
-      "en": "People used to travel by horse-drawn carriage.",
-      "zh_TW": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
-      "zh_CN": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
-      "ko": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
-      "zh_HK": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。",
-      "fr": "<ruby>昔<rt>むかし</rt></ruby>は<ruby>馬車<rt>ばしゃ</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>していました。"
+      "en": "We elegantly toured historic European old town on a tourist carriage.",
+      "zh_TW": "我們搭乘觀光馬車，優雅悠閒地穿梭遊覽歐洲古意盎然的老城區。",
+      "zh_CN": "我們搭乘觀光馬車，優雅悠閒地穿梭遊覽歐洲古意盎然的老城區。",
+      "ko": "유서 깊은 유럽의 구시가지를 관광 마차로 우아하게 둘러보았습니다.",
+      "zh_HK": "我哋坐住觀光馬車，好優雅愜意噉遊覽歷史悠久嘅歐洲古城。",
+      "fr": "We elegantly toured historic European old town on a tourist carriage."
     },
     "related": "ばしゃ（授業の重要表現）"
   },
@@ -52128,20 +52128,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to be lost in thought",
       "ja": "考え事をする",
-      "zh_TW": "to be lost in thought",
-      "zh_CN": "to be lost in thought",
-      "ko": "to be lost in thought",
-      "zh_HK": "to be lost in thought",
-      "fr": "to be lost in thought"
+      "zh_TW": "思考事情、沉思",
+      "zh_CN": "思考事情、沉思",
+      "ko": "골똘히 생각하다",
+      "zh_HK": "思考事情、沉思",
+      "fr": "être absorbé dans ses pensées"
     },
     "example": {
       "ja": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
-      "en": "I was lost in thought and missed my stop.",
-      "zh_TW": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
-      "zh_CN": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
-      "ko": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
-      "zh_HK": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。",
-      "fr": "<ruby>考<rt>かんが</rt></ruby>え<ruby>事<rt>ごと</rt></ruby>をしていて、<ruby>駅<rt>えき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしました。"
+      "en": "Gazing out the window, I was lost in thought about my future career.",
+      "zh_TW": "我望著窗外發呆，若有所思地沉思起自己未來的職涯規劃。",
+      "zh_CN": "我望著窗外發呆，若有所思地沉思起自己未來的職涯規劃。",
+      "ko": "창밖을 멍하니 바라보며 앞으로의 진로에 대해 골똘히 생각했습니다.",
+      "zh_HK": "我望住隻窗發呆，靜靜思考緊自己未來嘅事業發展規劃。",
+      "fr": "Gazing out the window, I was lost in thought about my future career."
     },
     "related": "かんがえごとをする（授業の重要表現）"
   },
@@ -52153,20 +52153,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "strict; severe; harsh",
       "ja": "厳しい",
-      "zh_TW": "strict; severe; harsh",
-      "zh_CN": "strict; severe; harsh",
-      "ko": "strict; severe; harsh",
-      "zh_HK": "strict; severe; harsh",
-      "fr": "strict; severe; harsh"
+      "zh_TW": "嚴格的、嚴厲的",
+      "zh_CN": "嚴格的、嚴厲的",
+      "ko": "엄격하다",
+      "zh_HK": "嚴格的、嚴厲的",
+      "fr": "strict, sévère"
     },
     "example": {
       "ja": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "en": "My father is very strict.",
-      "zh_TW": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "zh_CN": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "ko": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "zh_HK": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。",
-      "fr": "<ruby>父<rt>ちち</rt></ruby>はとても<ruby>厳<rt>きび</rt></ruby>しいです。"
+      "en": "The advisor's guidance is strict, but that leads to solid growth.",
+      "zh_TW": "指導教授的要求雖然非常嚴格，但因此能讓自己的實力突飛猛進。",
+      "zh_CN": "指導教授的要求雖然非常嚴格，但因此能讓自己的實力突飛猛進。",
+      "ko": "지도 교수님의 지도는 엄격하지만, 그만큼 확실하게 실력을 키울 수 있습니다.",
+      "zh_HK": "導師嘅要求雖然好嚴格好嚴謹，但真係學到好多嘢進步神速。",
+      "fr": "The advisor's guidance is strict, but that leads to solid growth."
     },
     "related": "きびしい（授業の重要表現）"
   },
@@ -52178,20 +52178,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "minimum wage",
       "ja": "最低賃金",
-      "zh_TW": "minimum wage",
-      "zh_CN": "minimum wage",
-      "ko": "minimum wage",
-      "zh_HK": "minimum wage",
-      "fr": "minimum wage"
+      "zh_TW": "法定最低工資",
+      "zh_CN": "法定最低工資",
+      "ko": "최저임금",
+      "zh_HK": "法定最低工資",
+      "fr": "salaire minimum"
     },
     "example": {
       "ja": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "en": "The minimum wage went up.",
-      "zh_TW": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "zh_CN": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "ko": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "zh_HK": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。",
-      "fr": "<ruby>最低賃金<rt>さいていちんぎん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。"
+      "en": "Through legal revision, minimum wage nationwide will rise next month.",
+      "zh_TW": "隨著法律修訂通過，從下個月起全國法定最低工資將全面調漲。",
+      "zh_CN": "隨著法律修訂通過，從下個月起全國法定最低工資將全面調漲。",
+      "ko": "법 개정으로 다음 달부터 전국의 최저임금이 인상됩니다.",
+      "zh_HK": "隨住法例修訂，由下個月開始全國嘅法定最低工資會調高。",
+      "fr": "Through legal revision, minimum wage nationwide will rise next month."
     },
     "related": "さいていちんぎん（授業の重要表現）"
   },
@@ -52203,20 +52203,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to move (house)",
       "ja": "引っ越す",
-      "zh_TW": "to move (house)",
-      "zh_CN": "to move (house)",
-      "ko": "to move (house)",
-      "zh_HK": "to move (house)",
-      "fr": "to move (house)"
+      "zh_TW": "搬家、遷移",
+      "zh_CN": "搬家、遷移",
+      "ko": "이사하다",
+      "zh_HK": "搬家、遷移",
+      "fr": "déménager"
     },
     "example": {
       "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-      "en": "I'm moving to Osaka next month.",
-      "zh_TW": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-      "zh_CN": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-      "ko": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-      "zh_HK": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-      "fr": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。"
+      "en": "I moved to a quiet, livable apartment close to my workplace.",
+      "zh_TW": "我搬進了距離公司附近、環境清幽生活便利的高級電梯大樓公寓。",
+      "zh_CN": "我搬進了距離公司附近、環境清幽生活便利的高級電梯大樓公寓。",
+      "ko": "직장 근처의 조용하고 살기 편한 아파트로 이사했습니다.",
+      "zh_HK": "我搬咗去公司附近一間好安靜又住得好舒服嘅屋苑單位。",
+      "fr": "I moved to a quiet, livable apartment close to my workplace."
     },
     "related": "ひっこす（授業の重要表現）"
   },
@@ -52228,20 +52228,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "fresh",
       "ja": "新鮮な",
-      "zh_TW": "fresh",
-      "zh_CN": "fresh",
-      "ko": "fresh",
-      "zh_HK": "fresh",
-      "fr": "fresh"
+      "zh_TW": "新鮮的",
+      "zh_CN": "新鮮的",
+      "ko": "신선한",
+      "zh_HK": "新鮮的",
+      "fr": "frais"
     },
     "example": {
       "ja": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-      "en": "This fish is very fresh.",
-      "zh_TW": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-      "zh_CN": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-      "ko": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-      "zh_HK": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-      "fr": "この<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。"
+      "en": "I lavishly enjoyed fresh seafood delivered straight from market daily.",
+      "zh_TW": "我豪邁享受了每天清晨從魚市場產地直送的新鮮頂級海鮮。",
+      "zh_CN": "我豪邁享受了每天清晨從魚市場產地直送的新鮮頂級海鮮。",
+      "ko": "매일 아침 시장에서 직송되는 신선한 해산물을 맘껏 맛보았습니다.",
+      "zh_HK": "我好奢侈噉品嚐咗每日由魚市場直送嘅新鮮時令海鮮。",
+      "fr": "I lavishly enjoyed fresh seafood delivered straight from market daily."
     },
     "related": "しんせんな（授業の重要表現）"
   },
@@ -52253,20 +52253,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "especially; particularly",
       "ja": "特に",
-      "zh_TW": "especially; particularly",
-      "zh_CN": "especially; particularly",
-      "ko": "especially; particularly",
-      "zh_HK": "especially; particularly",
-      "fr": "especially; particularly"
+      "zh_TW": "特別、尤其",
+      "zh_CN": "特別、尤其",
+      "ko": "특히",
+      "zh_HK": "特別、尤其",
+      "fr": "particulièrement"
     },
     "example": {
       "ja": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
-      "en": "I like fruit, especially apples.",
-      "zh_TW": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
-      "zh_CN": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
-      "ko": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
-      "zh_HK": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。",
-      "fr": "<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<ruby>特<rt>とく</rt></ruby>にりんごが<ruby>好<rt>す</rt></ruby>きです。"
+      "en": "Japanese autumn is breathtakingly beautiful, especially Kyoto's red foliage.",
+      "zh_TW": "日本的秋天景色宜人，尤其是京都絢爛的紅楓美得令人屏息。",
+      "zh_CN": "日本的秋天景色宜人，尤其是京都絢爛的紅楓美得令人屏息。",
+      "ko": "일본의 가을은 특히 교토의 단풍이 숨 막힐 정도로 아름답습니다.",
+      "zh_HK": "日本嘅秋天風景好靚，特別係京都嘅紅葉真係靚到無得彈。",
+      "fr": "Japanese autumn is breathtakingly beautiful, especially Kyoto's red foliage."
     },
     "related": "とくに（授業の重要表現）"
   },
@@ -52278,20 +52278,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "to miss (seeing); to overlook",
       "ja": "見逃す",
-      "zh_TW": "to miss (seeing); to overlook",
-      "zh_CN": "to miss (seeing); to overlook",
-      "ko": "to miss (seeing); to overlook",
-      "zh_HK": "to miss (seeing); to overlook",
-      "fr": "to miss (seeing); to overlook"
+      "zh_TW": "錯過、漏看",
+      "zh_CN": "錯過、漏看",
+      "ko": "놓치다",
+      "zh_HK": "錯過、漏看",
+      "fr": "manquer, rater"
     },
     "example": {
       "ja": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
-      "en": "I missed my favorite drama.",
-      "zh_TW": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
-      "zh_CN": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
-      "ko": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
-      "zh_HK": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。",
-      "fr": "<ruby>好<rt>す</rt></ruby>きなドラマを<ruby>見逃<rt>みのが</rt></ruby>しました。"
+      "en": "I forgot to record and missed live broadcast of favorite anime finale.",
+      "zh_TW": "我忘了設定錄影，結果錯過了最愛動漫大結局的首播播出。",
+      "zh_CN": "我忘了設定錄影，結果錯過了最愛動漫大結局的首播播出。",
+      "ko": "녹화를 깜빡하는 바람에 좋아하는 애니메이션의 마지막 회 본방을 놓쳤습니다.",
+      "zh_HK": "我唔記得咗錄低，錯過咗最鍾意嗰套動漫大結局嘅電視直播。",
+      "fr": "I forgot to record and missed live broadcast of favorite anime finale."
     },
     "related": "みのがす（授業の重要表現）"
   },
@@ -52303,20 +52303,20 @@ window.CLASS_VOCAB_DATA = [
     "meaning": {
       "en": "bribe",
       "ja": "賄賂",
-      "zh_TW": "bribe",
-      "zh_CN": "bribe",
-      "ko": "bribe",
-      "zh_HK": "bribe",
-      "fr": "bribe"
+      "zh_TW": "賄賂、行賄",
+      "zh_CN": "賄賂、行賄",
+      "ko": "뇌물",
+      "zh_HK": "賄賂、行賄",
+      "fr": "pot-de-vin"
     },
     "example": {
       "ja": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "en": "A politician accepted a bribe.",
-      "zh_TW": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "zh_CN": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "ko": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "zh_HK": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。",
-      "fr": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。"
+      "en": "Any giving or receiving of bribes is crime destroying social trust.",
+      "zh_TW": "任何非法的收受賄賂行為，都是嚴重破壞社會公信力的重大犯罪。",
+      "zh_CN": "任何非法的收受賄賂行為，都是嚴重破壞社會公信力的重大犯罪。",
+      "ko": "어떠한 부정 청탁이나 뇌물 수수도 사회의 신뢰를 무너뜨리는 범죄 행위입니다.",
+      "zh_HK": "任何收受利益賄賂嘅行為，都係破壞社會誠信同法治嘅嚴重罪案。",
+      "fr": "Any giving or receiving of bribes is crime destroying social trust."
     },
     "related": "わいろ（授業の重要表現）"
   },
@@ -53234,13 +53234,19 @@ window.CLASS_VOCAB_DATA = [
       "ja": "ぶりっ子",
       "en": "girl playing dumb/cute, coquette",
       "zh_TW": "裝可愛、裝無辜造作的女孩",
-      "ko": "girl playing dumb/cute, coquette"
+      "zh_CN": "装可爱、装无辜造作的女孩",
+      "ko": "귀여운 척하는 여자, 내숭 떠는 여자",
+      "zh_HK": "好鍾意扮可愛裝無辜嘅女仔",
+      "fr": "fille minaudière, coquette"
     },
     "example": {
       "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>急<rt>きゅう</rt></ruby>にぶりっ<ruby>子<rt>こ</rt></ruby>になる。",
-      "en": "girl playing dumb/cute, coquette",
+      "en": "Whenever she is around men, she suddenly acts all cute and coquette.",
       "zh_TW": "她一到男生面前，就突然變得很愛裝可愛。",
-      "ko": "她一到男生面前，就突然變得很愛裝可愛。"
+      "zh_CN": "她一到男生面前，就突然变显得很爱装可爱。",
+      "ko": "그녀는 남자 앞에만 가면 갑자기 내숭을 떨며 애교를 부린다.",
+      "zh_HK": "佢一去到男仔面前，就突然間變得好造作好鍾意扮可愛。",
+      "fr": "Dès qu'elle se trouve devant des hommes, elle se met soudain à faire la fille mignonne et précieuse."
     },
     "related": "ぶりっこ（みどりさんの重要表現）"
   },
