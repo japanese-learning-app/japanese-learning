@@ -2,7 +2,7 @@
 // 1018 curated cards with 100% textbook accuracy
 // Full <ruby> furigana on ALL kanji, authentic conversational dialogues, top 10 surnames, explicit verb conjugations.
 
-window.INITIAL_VOCAB_DATA = [
+window.INITIAL_VOCAB_DATA =[
   {
     "id": "card_0001",
     "section_num": 0,
@@ -9170,23 +9170,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とお",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "ten",
+      "en": "ten (things)",
+      "ja": "とお（10個）",
       "zh_TW": "十個",
-      "zh_CN": "十個",
-      "ko": "열",
+      "zh_CN": "十个",
+      "ko": "열 개",
       "zh_HK": "十個",
-      "fr": "ten"
+      "fr": "dix (choses)"
     },
     "example": {
-      "ja": "A: すみません、とおをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, ten please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, ten please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, ten please.\nB: Certainly.",
-      "ko": "A: Excuse me, ten please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, ten please.\nB: Certainly.",
-      "fr": "A: Excuse me, ten please.\nB: Certainly."
+      "ja": "<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にドーナツがとお<ruby>入<rt>はい</rt></ruby>っています。みんなで<ruby>分<rt>わ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べましょう。",
+      "en": "There are ten donuts in the box. Let's share and eat them together.",
+      "zh_TW": "盒子裡裝了十個甜甜圈。大家一起分著吃吧。",
+      "zh_CN": "盒子里装了十个甜甜圈。大家一起分着吃吧。",
+      "ko": "상자 안에 도넛이 열 개 들어 있습니다. 다 같이 나눠 먹어요.",
+      "zh_HK": "盒子入便有十個冬甩。大家一齊分開食啦。",
+      "fr": "Il y a dix beignets dans la boîte. Partageons-les et mangeons-les ensemble."
     },
-    "related": "【名詞】とお (日常の生活用品・筆記用具)"
+    "related": "【数詞】とお（10個のものを数える和語の数え方）"
   },
   {
     "id": "card_0329",
@@ -9199,22 +9200,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "one piece / one item",
+      "ja": "一個",
       "zh_TW": "一個",
-      "zh_CN": "一個",
+      "zh_CN": "一个",
       "ko": "한 개",
       "zh_HK": "一個",
-      "fr": "one piece / one item"
+      "fr": "une pièce / un article"
     },
     "example": {
-      "ja": "A: すみません、いっこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, one piece / one item please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, one piece / one item please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, one piece / one item please.\nB: Certainly.",
-      "ko": "A: Excuse me, one piece / one item please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, one piece / one item please.\nB: Certainly.",
-      "fr": "A: Excuse me, one piece / one item please.\nB: Certainly."
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>ごはんに、おにぎりを<ruby>一個<rt>いっこ</rt></ruby><ruby>食<rt>た</rt></ruby>べてから<ruby>出掛<rt>でか</rt></ruby>けました。",
+      "en": "I ate one rice ball for breakfast before heading out.",
+      "zh_TW": "早餐吃了一顆飯糰之後就出門了。",
+      "zh_CN": "早餐吃了一个饭团之后就出门了。",
+      "ko": "아침 식사로 주먹밥을 한 개 먹고 나갔습니다.",
+      "zh_HK": "早餐食咗一個飯糰之後就出咗門。",
+      "fr": "J’ai mangé une boule de riz au petit-déjeuner avant de partir."
     },
-    "related": "【名詞】いっこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】いっこ（立体的な物・果物・おにぎりなどを数える）"
   },
   {
     "id": "card_0330",
@@ -9226,23 +9228,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "にこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "two pieces",
+      "en": "two pieces / two items",
+      "ja": "二個",
       "zh_TW": "兩個",
-      "zh_CN": "兩個",
+      "zh_CN": "两个",
       "ko": "두 개",
       "zh_HK": "兩個",
-      "fr": "two pieces"
+      "fr": "deux pièces / deux articles"
     },
     "example": {
-      "ja": "A: すみません、にこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, two pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, two pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, two pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, two pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, two pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, two pieces please.\nB: Certainly."
+      "ja": "パン<ruby>屋<rt>や</rt></ruby>さんでメロンパンを<ruby>二個<rt>にこ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。ひとつは<ruby>妹<rt>いもうと</rt></ruby>にあげます。",
+      "en": "I bought two melon buns at the bakery. I will give one to my younger sister.",
+      "zh_TW": "在麵包店買了兩個菠蘿麵包。一個要給我妹妹。",
+      "zh_CN": "在面包店买了两个菠萝面包。一个要给我妹妹。",
+      "ko": "빵집에서 멜론빵을 두 개 샀습니다. 하나는 여동생에게 줄 거예요.",
+      "zh_HK": "喺麵包店買咗兩個蜜瓜包。一個留畀我妹。",
+      "fr": "J’ai acheté deux pains melon à la boulangerie. J’en donnerai un à ma petite sœur."
     },
-    "related": "【名詞】にこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】にこ（小さな物や丸い物などを数える）"
   },
   {
     "id": "card_0331",
@@ -9254,23 +9257,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "さんこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "three pieces",
+      "en": "three pieces / three items",
+      "ja": "三個",
       "zh_TW": "三個",
-      "zh_CN": "三個",
+      "zh_CN": "三个",
       "ko": "세 개",
       "zh_HK": "三個",
-      "fr": "three pieces"
+      "fr": "trois pièces / trois articles"
     },
     "example": {
-      "ja": "A: すみません、さんこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, three pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, three pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, three pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, three pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, three pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, three pieces please.\nB: Certainly."
+      "ja": "このりんごは<ruby>三個<rt>さんこ</rt></ruby>で500<ruby>円<rt>えん</rt></ruby>なので、とてもお<ruby>得<rt>とく</rt></ruby>ですよ。",
+      "en": "These apples are 500 yen for three, so it's a great deal.",
+      "zh_TW": "這些蘋果三個只要500日圓，非常划算喔。",
+      "zh_CN": "这些苹果三个只要500日元，非常划算哦。",
+      "ko": "이 사과는 세 개에 500엔이라서 아주 알뜰해요.",
+      "zh_HK": "呢啲蘋果三個500円，好抵買㗎。",
+      "fr": "Ces pommes coûtent 500 yens les trois, c’est donc une très bonne affaire."
     },
-    "related": "【名詞】さんこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】さんこ（身の回りの小物・果物・卵などを数える）"
   },
   {
     "id": "card_0332",
@@ -9282,23 +9286,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "よんこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "four pieces",
+      "en": "four pieces / four items",
+      "ja": "四個",
       "zh_TW": "四個",
-      "zh_CN": "四個",
+      "zh_CN": "四个",
       "ko": "네 개",
       "zh_HK": "四個",
-      "fr": "four pieces"
+      "fr": "quatre pièces / quatre articles"
     },
     "example": {
-      "ja": "A: すみません、よんこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, four pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, four pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, four pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, four pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, four pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, four pieces please.\nB: Certainly."
+      "ja": "プリンが<ruby>四個<rt>よんこ</rt></ruby>あるので、<ruby>家族<rt>かぞく</rt></ruby>みんなでひとつずつ<ruby>食<rt>た</rt></ruby>べられますね。",
+      "en": "There are four puddings, so each person in our family can have one.",
+      "zh_TW": "這裡有四個布丁，剛好全家人可以一人吃一個呢。",
+      "zh_CN": "这里有四个布丁，正好全家人可以一人吃一个呢。",
+      "ko": "푸딩이 네 개 있어서 가족 모두가 하나씩 먹을 수 있겠네요.",
+      "zh_HK": "有四個布甸，成家人啱啱好一人食一個。",
+      "fr": "Il y a quatre flans, donc chacun dans la famille peut en manger un."
     },
-    "related": "【名詞】よんこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】よんこ（個数の単位。4個は「よんこ」と読む）"
   },
   {
     "id": "card_0333",
@@ -9310,23 +9315,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ごこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "five pieces",
+      "en": "five pieces / five items",
+      "ja": "五個",
       "zh_TW": "五個",
-      "zh_CN": "五個",
+      "zh_CN": "五个",
       "ko": "다섯 개",
       "zh_HK": "五個",
-      "fr": "five pieces"
+      "fr": "cinq pièces / cinq articles"
     },
     "example": {
-      "ja": "A: すみません、ごこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, five pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, five pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, five pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, five pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, five pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, five pieces please.\nB: Certainly."
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>のお<ruby>土産<rt>みやげ</rt></ruby>に、キーホルダーを<ruby>五個<rt>ごこ</rt></ruby><ruby>買<rt>か</rt></ruby>ってきました。",
+      "en": "I bought five keychains as souvenirs from my trip.",
+      "zh_TW": "我買了五個鑰匙圈當作旅行的伴手禮。",
+      "zh_CN": "我买了五个钥匙扣当作旅行的伴手礼。",
+      "ko": "여행 기념품으로 열쇠고리를 다섯 개 사 왔습니다.",
+      "zh_HK": "我買咗五個匙扣當旅行手信。",
+      "fr": "J’ai acheté cinq porte-clés en souvenir de mon voyage."
     },
-    "related": "【名詞】ごこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ごこ（5個の物を数える表現）"
   },
   {
     "id": "card_0334",
@@ -9338,23 +9344,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ろっこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "six pieces",
+      "en": "six pieces / six items",
+      "ja": "六個",
       "zh_TW": "六個",
-      "zh_CN": "六個",
+      "zh_CN": "六个",
       "ko": "여섯 개",
       "zh_HK": "六個",
-      "fr": "six pieces"
+      "fr": "six pièces / six articles"
     },
     "example": {
-      "ja": "A: すみません、ろっこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, six pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, six pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, six pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, six pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, six pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, six pieces please.\nB: Certainly."
+      "ja": "ギョーザを<ruby>一人前<rt>いちにんまえ</rt></ruby><ruby>頼<rt>たの</rt></ruby>んだら、お<ruby>皿<rt>さら</rt></ruby>に<ruby>六個<rt>ろっこ</rt></ruby>のっていました。",
+      "en": "When I ordered one portion of gyoza, there were six dumplings on the plate.",
+      "zh_TW": "點了一人份的煎餃，盤子裡盛了六個。",
+      "zh_CN": "点了一人份的煎饺，盘子里盛了六个。",
+      "ko": "교자 만두를 1인분 시켰더니 접시에 여섯 개가 담겨 나왔습니다.",
+      "zh_HK": "嗌咗一份餃子，碟上面有六隻。",
+      "fr": "Quand j’ai commandé une portion de gyoza, il y en avait six dans l’assiette."
     },
-    "related": "【名詞】ろっこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ろっこ（促音便「ろっこ」となる数え方）"
   },
   {
     "id": "card_0335",
@@ -9366,23 +9373,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ななこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "seven pieces",
+      "en": "seven pieces / seven items",
+      "ja": "七個",
       "zh_TW": "七個",
-      "zh_CN": "七個",
+      "zh_CN": "七个",
       "ko": "일곱 개",
       "zh_HK": "七個",
-      "fr": "seven pieces"
+      "fr": "sept pièces / sept articles"
     },
     "example": {
-      "ja": "A: すみません、ななこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, seven pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, seven pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, seven pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, seven pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, seven pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, seven pieces please.\nB: Certainly."
+      "ja": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>消<rt>け</rt></ruby>しゴムが<ruby>七個<rt>ななこ</rt></ruby>もあって、どれを<ruby>使<rt>つか</rt></ruby>うか<ruby>迷<rt>まよ</rt></ruby>います。",
+      "en": "There are seven erasers on the desk, so I wonder which one to use.",
+      "zh_TW": "書桌上有七個橡皮擦，我都不知道要用哪一個了。",
+      "zh_CN": "书桌上有七个橡皮擦，我都不知道要用哪一个了。",
+      "ko": "책상 위에 지우개가 일곱 개나 있어서 어느 것을 쓸지 망설여집니다.",
+      "zh_HK": "書枱上面有成七舊擦膠，都唔知用邊個好。",
+      "fr": "Il y a sept gommes sur le bureau, j’hésite sur laquelle utiliser."
     },
-    "related": "【名詞】ななこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ななこ（7個の物を数える表現）"
   },
   {
     "id": "card_0336",
@@ -9394,23 +9402,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はっこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "eight pieces",
+      "en": "eight pieces / eight items",
+      "ja": "八個",
       "zh_TW": "八個",
-      "zh_CN": "八個",
+      "zh_CN": "八个",
       "ko": "여덟 개",
       "zh_HK": "八個",
-      "fr": "eight pieces"
+      "fr": "huit pièces / huit articles"
     },
     "example": {
-      "ja": "A: すみません、はっこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, eight pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, eight pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, eight pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, eight pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, eight pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, eight pieces please.\nB: Certainly."
+      "ja": "パックのイチゴを<ruby>洗<rt>あら</rt></ruby>って、<ruby>八個<rt>はっこ</rt></ruby>お<ruby>皿<rt>さら</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べました。",
+      "en": "I washed the strawberries from the pack and lined up eight of them on a plate.",
+      "zh_TW": "把一整盒草莓洗乾淨，在盤子裡排了八顆。",
+      "zh_CN": "把一整盒草莓洗干净，在盘子里排了八颗。",
+      "ko": "딸기 한 팩을 씻어서 접시에 여덟 개를 가지런히 담았습니다.",
+      "zh_HK": "洗咗一盒士多啤梨，喺碟上面排咗八粒。",
+      "fr": "J’ai lavé les fraises de la barquette et j’en ai disposé huit sur une assiette."
     },
-    "related": "【名詞】はっこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】はっこ（促音便「はっこ」となる数え方）"
   },
   {
     "id": "card_0337",
@@ -9422,23 +9431,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きゅうこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "nine pieces",
+      "en": "nine pieces / nine items",
+      "ja": "九個",
       "zh_TW": "九個",
-      "zh_CN": "九個",
+      "zh_CN": "九个",
       "ko": "아홉 개",
       "zh_HK": "九個",
-      "fr": "nine pieces"
+      "fr": "neuf pièces / neuf articles"
     },
     "example": {
-      "ja": "A: すみません、きゅうこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, nine pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, nine pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, nine pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, nine pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, nine pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, nine pieces please.\nB: Certainly."
+      "ja": "チョコレートの<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>綺麗<rt>きれい</rt></ruby>なチョコが<ruby>九個<rt>きゅうこ</rt></ruby><ruby>並<rt>なら</rt></ruby>んでいました。",
+      "en": "When I opened the chocolate box, nine beautiful chocolates were arranged inside.",
+      "zh_TW": "打開巧克力盒子，裡面整齊排著九顆精緻的巧克力。",
+      "zh_CN": "打开巧克力盒子，里面整齐排着九颗精致的巧克力。",
+      "ko": "초콜릿 상자를 열었더니 예쁜 초콜릿이 아홉 개 나란히 놓여 있었습니다.",
+      "zh_HK": "打開朱古力盒，入面整整齊齊排咗九粒好靚嘅朱古力。",
+      "fr": "Quand j’ai ouvert la boîte de chocolats, neuf beaux chocolats étaient soigneusement alignés."
     },
-    "related": "【名詞】きゅうこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】きゅうこ（9個の物を数える表現）"
   },
   {
     "id": "card_0338",
@@ -9450,23 +9460,24 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "じゅっこ",
     "category": "もの/人の数え方",
     "meaning": {
-      "en": "ten pieces",
+      "en": "ten pieces / ten items",
+      "ja": "十個",
       "zh_TW": "十個",
-      "zh_CN": "十個",
+      "zh_CN": "十个",
       "ko": "열 개",
       "zh_HK": "十個",
-      "fr": "ten pieces"
+      "fr": "dix pièces / dix articles"
     },
     "example": {
-      "ja": "A: すみません、じゅっこをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, ten pieces please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, ten pieces please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, ten pieces please.\nB: Certainly.",
-      "ko": "A: Excuse me, ten pieces please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, ten pieces please.\nB: Certainly.",
-      "fr": "A: Excuse me, ten pieces please.\nB: Certainly."
+      "ja": "スーパーで<ruby>卵<rt>たまご</rt></ruby>が<ruby>十個<rt>じゅっこ</rt></ruby><ruby>入<rt>はい</rt></ruby>ったパックを<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I bought a 10-egg pack at the supermarket.",
+      "zh_TW": "我在超市買了一盒十顆裝的雞蛋。",
+      "zh_CN": "我在超市买了一盒十颗装的鸡蛋。",
+      "ko": "마트에서 계란이 열 개 들어 있는 팩을 샀습니다.",
+      "zh_HK": "喺超級市場買咗一盒十隻裝嘅雞蛋。",
+      "fr": "J’ai acheté une boîte de dix œufs au supermarché."
     },
-    "related": "【名詞】じゅっこ (日常の生活用品・筆記用具)"
+    "related": "【助数詞】じゅっこ／じっこ（10個の物を数える表現）"
   },
   {
     "id": "card_0339",
@@ -9494,7 +9505,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣，我鍾意一個人喺Cafe悠閒咁睇書。",
       "fr": "Pendant mes jours de repos, j'aime lire tranquillement tout seul dans un café."
     },
-    "related": "【名詞】ひとり (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ひとり（1人の人物を表す特別な読み方）"
   },
   {
     "id": "card_0340",
@@ -9522,7 +9533,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋約好咗週末兩個人一齊去睇戲。",
       "fr": "Nous avons convenu d'aller voir un film à deux ce week-end."
     },
-    "related": "【名詞】ふたり (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ふたり（2人の人物を表す特別な読み方）"
   },
   {
     "id": "card_0341",
@@ -9535,22 +9546,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "three people",
+      "ja": "三人",
       "zh_TW": "三個人",
-      "zh_CN": "三個人",
+      "zh_CN": "三个人",
       "ko": "세 명 / 세 사람",
       "zh_HK": "三個人",
-      "fr": "three people"
+      "fr": "trois personnes"
     },
     "example": {
-      "ja": "A: すみません、さんにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, three people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, three people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, three people please.\nB: Certainly.",
-      "ko": "A: Excuse me, three people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, three people please.\nB: Certainly.",
-      "fr": "A: Excuse me, three people please.\nB: Certainly."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>仲<rt>なか</rt></ruby>のいい<ruby>友達<rt>ともだち</rt></ruby><ruby>三人<rt>さんにん</rt></ruby>で、<ruby>話題<rt>わだい</rt></ruby>のカフェに<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "Today, the three of us good friends went to a popular cafe.",
+      "zh_TW": "今天我和兩位要好的朋友，三個人一起去了話題度很高的咖啡廳。",
+      "zh_CN": "今天我和两位要好的朋友，三个人一起去了话题度很高的咖啡厅。",
+      "ko": "오늘은 친한 친구 셋이서 화제의 카페에 갔습니다.",
+      "zh_HK": "今日同兩位好朋友三個人去咗好出名嘅Cafe。",
+      "fr": "Aujourd’hui, nous sommes allés tous les trois avec de bons amis dans un café branché."
     },
-    "related": "【名詞】さんにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】さんにん（3人の人物・人間を数える表現）"
   },
   {
     "id": "card_0342",
@@ -9563,22 +9575,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "four people",
+      "ja": "四人",
       "zh_TW": "四個人",
-      "zh_CN": "四個人",
+      "zh_CN": "四个人",
       "ko": "네 명 / 네 사람",
       "zh_HK": "四個人",
-      "fr": "four people"
+      "fr": "quatre personnes"
     },
     "example": {
-      "ja": "A: すみません、よにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, four people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, four people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, four people please.\nB: Certainly.",
-      "ko": "A: Excuse me, four people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, four people please.\nB: Certainly.",
-      "fr": "A: Excuse me, four people please.\nB: Certainly."
+      "ja": "うちの<ruby>家族<rt>かぞく</rt></ruby>は、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>姉<rt>あね</rt></ruby>と<ruby>私<rt>わたし</rt></ruby>の<ruby>四人<rt>よにん</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>です。",
+      "en": "My family is a family of four: my parents, my older sister, and me.",
+      "zh_TW": "我們家是四口之家，有父母、姐姐和我。",
+      "zh_CN": "我们家是四口之家，有父母、姐姐和我。",
+      "ko": "우리 가족은 부모님과 언니, 그리고 나까지 4인 가족입니다.",
+      "zh_HK": "我哋係四人家庭，有爸爸媽媽、家姐同埋我。",
+      "fr": "Ma famille compte quatre personnes : mes parents, ma sœur aînée et moi."
     },
-    "related": "【名詞】よにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】よにん（4人は「よにん」と読む。「よんにん」とは言わない）"
   },
   {
     "id": "card_0343",
@@ -9591,22 +9604,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "five people",
+      "ja": "五人",
       "zh_TW": "五個人",
-      "zh_CN": "五個人",
-      "ko": "다섯 개",
+      "zh_CN": "五个人",
+      "ko": "다섯 명 / 다섯 사람",
       "zh_HK": "五個人",
-      "fr": "five people"
+      "fr": "cinq personnes"
     },
     "example": {
-      "ja": "A: すみません、ごにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, five people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, five people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, five people please.\nB: Certainly.",
-      "ko": "A: Excuse me, five people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, five people please.\nB: Certainly.",
-      "fr": "A: Excuse me, five people please.\nB: Certainly."
+      "ja": "<ruby>今度<rt>こんど</rt></ruby>のプロジェクトは、<ruby>社内<rt>しゃない</rt></ruby>のメンバー<ruby>五人<rt>ごにん</rt></ruby>でチームを<ruby>組<rt>く</rt></ruby>んで<ruby>進<rt>すす</rt></ruby>めます。",
+      "en": "For the upcoming project, we will form a team of five company members to carry it out.",
+      "zh_TW": "這次的專案將由公司內部的五位成員組成團隊來進行。",
+      "zh_CN": "这次的项目将由公司内部的五位成员组成团队来进行。",
+      "ko": "이번 프로젝트는 사내 멤버 다섯 명이 팀을 이뤄 진행합니다.",
+      "zh_HK": "今次個Project會由公司入面五位成員組隊一齊做。",
+      "fr": "Pour ce projet, nous allons former une équipe de cinq personnes de l’entreprise pour le mener à bien."
     },
-    "related": "【名詞】ごにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ごにん（5人の人物を数える表現）"
   },
   {
     "id": "card_0344",
@@ -9619,22 +9633,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "six people",
+      "ja": "六人",
       "zh_TW": "六個人",
-      "zh_CN": "六個人",
-      "ko": "여섯 명",
+      "zh_CN": "六个人",
+      "ko": "여섯 명 / 여섯 사람",
       "zh_HK": "六個人",
-      "fr": "six people"
+      "fr": "six personnes"
     },
     "example": {
-      "ja": "A: すみません、ろくにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, six people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, six people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, six people please.\nB: Certainly.",
-      "ko": "A: Excuse me, six people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, six people please.\nB: Certainly.",
-      "fr": "A: Excuse me, six people please.\nB: Certainly."
+      "ja": "A: レストランの<ruby>予約<rt>よやく</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか？<br/>B: <ruby>同僚<rt>どうりょう</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>めて<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>六人<rt>ろくにん</rt></ruby>です。",
+      "en": "A: How many people is the restaurant reservation for?<br/>B: Six people in total, including colleagues.",
+      "zh_TW": "A：餐廳預約是幾位呢？<br/>B：包含同事在內總共是六個人。",
+      "zh_CN": "A：餐厅预约是几位呢？<br/>B：包含同事在内总共是六个人。",
+      "ko": "A: 식당 예약은 몇 명인가요?<br/>B: 동료를 포함해서 총 여섯 명입니다.",
+      "zh_HK": "A：餐廳訂位幾多位呀？<br/>B：包埋同事總共係六位。",
+      "fr": "A : La réservation au restaurant est pour combien de personnes ?<br/>B : Six personnes au total, collègues compris."
     },
-    "related": "【名詞】ろくにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】ろくにん（6人の人物を数える表現）"
   },
   {
     "id": "card_0345",
@@ -9647,22 +9662,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "seven people",
+      "ja": "七人",
       "zh_TW": "七個人",
-      "zh_CN": "七個人",
-      "ko": "일곱 명",
+      "zh_CN": "七个人",
+      "ko": "일곱 명 / 일곱 사람",
       "zh_HK": "七個人",
-      "fr": "seven people"
+      "fr": "sept personnes"
     },
     "example": {
-      "ja": "A: すみません、しちにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, seven people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, seven people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, seven people please.\nB: Certainly.",
-      "ko": "A: Excuse me, seven people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, seven people please.\nB: Certainly.",
-      "fr": "A: Excuse me, seven people please.\nB: Certainly."
+      "ja": "ゼミの<ruby>発表<rt>はっぴょう</rt></ruby>グループは、<ruby>七人<rt>しちにん</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>してスライドを<ruby>作<rt>つく</rt></ruby>りました。",
+      "en": "In our seminar presentation group, seven of us collaborated to create the slides.",
+      "zh_TW": "專題發表的小組中，我們七個人合力完成了簡報投影片。",
+      "zh_CN": "专题发表的小组中，我们七个人合力完成了演示文稿。",
+      "ko": "세미나 발표 조는 일곱 명이 협력하여 슬라이드를 만들었습니다.",
+      "zh_HK": "Seminar個小組發表，我哋七個人合力整好咗啲Slides。",
+      "fr": "Dans notre groupe de présentation de séminaire, nous avons collaboré à sept pour préparer les diapositives."
     },
-    "related": "【名詞】しちにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】しちにん／ななにん（7人の人物を数える表現）"
   },
   {
     "id": "card_0346",
@@ -9675,22 +9691,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "eight people",
+      "ja": "八人",
       "zh_TW": "八個人",
-      "zh_CN": "八個人",
-      "ko": "여덟 명",
+      "zh_CN": "八个人",
+      "ko": "여덟 명 / 여덟 사람",
       "zh_HK": "八個人",
-      "fr": "eight people"
+      "fr": "huit personnes"
     },
     "example": {
-      "ja": "A: すみません、はちにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, eight people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, eight people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, eight people please.\nB: Certainly.",
-      "ko": "A: Excuse me, eight people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, eight people please.\nB: Certainly.",
-      "fr": "A: Excuse me, eight people please.\nB: Certainly."
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>のサークルの<ruby>仲間<rt>なかま</rt></ruby><ruby>八人<rt>はちにん</rt></ruby>で、<ruby>夏休<rt>なつやす</rt></ruby>みにキャンプに<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "Eight of us from the university club went camping during summer vacation.",
+      "zh_TW": "大學社團的朋友一行八個人，在暑假時一起去露營了。",
+      "zh_CN": "大学社团的朋友一行八个人，在暑假时一起去露营了。",
+      "ko": "대학교 동아리 친구들 여덟 명이서 여름방학에 캠핑을 갔습니다.",
+      "zh_HK": "大學Soc嘅朋友一行八個人，趁住暑假一齊去咗Camping。",
+      "fr": "Nous sommes allés faire du camping à huit avec des amis du club universitaire pendant les vacances d’été."
     },
-    "related": "【名詞】はちにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】はちにん（8人の人物を数える表現）"
   },
   {
     "id": "card_0347",
@@ -9703,22 +9720,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "nine people",
+      "ja": "九人",
       "zh_TW": "九個人",
-      "zh_CN": "九個人",
-      "ko": "아홉 명",
+      "zh_CN": "九个人",
+      "ko": "아홉 명 / 아홉 사람",
       "zh_HK": "九個人",
-      "fr": "nine people"
+      "fr": "neuf personnes"
     },
     "example": {
-      "ja": "A: すみません、きゅうにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, nine people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, nine people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, nine people please.\nB: Certainly.",
-      "ko": "A: Excuse me, nine people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, nine people please.\nB: Certainly.",
-      "fr": "A: Excuse me, nine people please.\nB: Certainly."
+      "ja": "<ruby>野球<rt>やきゅう</rt></ruby>のチームは、グラウンドに<ruby>九人<rt>きゅうにん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+      "en": "In a baseball team, nine players take the field.",
+      "zh_TW": "棒球隊在球場上會有九位選手同時上場。",
+      "zh_CN": "棒球队在球场上会有九位选手同时上场。",
+      "ko": "야구 팀은 그라운드에 아홉 명의 선수가 출전합니다.",
+      "zh_HK": "棒球隊喺球場上面會有九位球員同時落場。",
+      "fr": "Dans une équipe de baseball, neuf joueurs entrent sur le terrain."
     },
-    "related": "【名詞】きゅうにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】きゅうにん／くにん（9人の人物を数える表現）"
   },
   {
     "id": "card_0348",
@@ -9731,22 +9749,23 @@ window.INITIAL_VOCAB_DATA = [
     "category": "もの/人の数え方",
     "meaning": {
       "en": "ten people",
+      "ja": "十人",
       "zh_TW": "十個人",
-      "zh_CN": "十個人",
-      "ko": "열 명",
+      "zh_CN": "十个人",
+      "ko": "열 명 / 열 사람",
       "zh_HK": "十個人",
-      "fr": "ten people"
+      "fr": "dix personnes"
     },
     "example": {
-      "ja": "A: すみません、じゅうにんをお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、かしこまりました。",
-      "en": "A: Excuse me, ten people please.\nB: Certainly.",
-      "zh_TW": "A: Excuse me, ten people please.\nB: Certainly.",
-      "zh_CN": "A: Excuse me, ten people please.\nB: Certainly.",
-      "ko": "A: Excuse me, ten people please.\nB: Certainly.",
-      "zh_HK": "A: Excuse me, ten people please.\nB: Certainly.",
-      "fr": "A: Excuse me, ten people please.\nB: Certainly."
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby>には<ruby>十人<rt>じゅうにん</rt></ruby>のメンバーが<ruby>集<rt>あつ</rt></ruby>まり、<ruby>新<rt>あたら</rt></ruby>しいアイデアを<ruby>出<rt>だ</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いました。",
+      "en": "Ten members gathered for the meeting and shared new ideas.",
+      "zh_TW": "會議上聚集了十位成員，大家互相提出新的構想。",
+      "zh_CN": "会议上聚集了十位成员，大家互相提出新的构想。",
+      "ko": "회의에는 열 명의 멤버가 모여 새로운 아이디어를 서로 냈습니다.",
+      "zh_HK": "開會嗰陣聚集咗十位成員，大家互相提出新嘅諗法。",
+      "fr": "Dix membres se sont réunis pour la réunion et ont échangé de nouvelles idées."
     },
-    "related": "【名詞】じゅうにん (日常の生活用品・筆記用具)"
+    "related": "【助数詞】じゅうにん（10人の人物を数える表現）"
   },
   {
     "id": "card_0349",

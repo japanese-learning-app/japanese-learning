@@ -3376,13 +3376,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Allez-vous dîner sur place ?"
     },
     "example": {
-      "ja": "A: すみません、お<ruby>召し上<rt>めしあ</rt></ruby>がりですか<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, would you like some food?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A: 打擾一下，您想吃點東西嗎？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A: 打扰一下，您想吃点东西吗？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A : 죄송합니다, 드세요?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A: 打擾一下，您想吃點東西嗎？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, voudriez-vous de la nourriture ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: 店内<rt>てんない</rt>でお召<rt>め</rt>し上<rt>あ</rt>がりですか？<br/>B: いいえ、テイクアウトでお願<rt>ねが</rt>いします。",
+      "en": "A: Will you be eating in?<br/>B: No, takeout please.",
+      "zh_TW": "A：請問要內用嗎？<br/>B：不，請幫我外帶。",
+      "zh_CN": "A：请问要内用吗？<br/>B：不，请帮我外带。",
+      "ko": "A: 매장에서 드시고 가시나요?<br/>B: 아니요, 포장해 주세요.",
+      "zh_HK": "A：請問堂食定係？<br/>B：唔該，我想外賣。",
+      "fr": "A : C’est pour consommer sur place ?<br/>B : Non, à emporter s’il vous plaît."
     },
     "related": "おめしあがりですか（授業の重要表現）"
   },
@@ -7675,13 +7675,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "How old are you? (polite) / Quel âge avez-vous ? (poli)"
     },
     "example": {
-      "ja": "A: すみません、おいくつですか？<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, how old are you?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A：請問，您今年幾歲？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A：请问，您今年几岁？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A: 죄송합니다, 얼마입니까?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A：請問，您今年幾歲？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, quel âge avez-vous ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: 失礼<rt>しつれい</rt>ですが、おいくつですか？<br/>B: 今月<rt>こんげつ</rt>で28歳<rt>さい</rt>になりました。",
+      "en": "A: If you don't mind me asking, how old are you?<br/>B: I turned 28 this month.",
+      "zh_TW": "A：冒昧請問一下，您幾歲呢？<br/>B：我這個月滿28歲了。",
+      "zh_CN": "A：冒昧请问一下，您几岁呢？<br/>B：我这个月满28岁了。",
+      "ko": "A: 실례지만 몇 살이신가요?<br/>B: 이번 달로 스물여덟 살이 되었습니다.",
+      "zh_HK": "A：唔好意思想問下，你今年幾多歲呀？<br/>B：我今個月啱啱好28歲。",
+      "fr": "A : Si ce n’est pas indiscret, quel âge avez-vous ?<br/>B : J’ai eu 28 ans ce mois-ci."
     },
     "related": "おいくつですか？（授業の重要表現）"
   },
@@ -8180,13 +8180,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "What temperature is it? / Quelle température fait-il ?"
     },
     "example": {
-      "ja": "A: すみません、<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>ですか？<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, how many times?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A：請問，第幾次了？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A：请问，第几次了？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A: 죄송합니다, 몇 번입니까?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A：請問，第幾次了？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, combien de fois ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: 今日<rt>きょう</rt>の東京<rt>とうきょう</rt>の最高<rt>さいこう</rt>気温<rt>きおん</rt>は何<rt>なん</rt>度<rt>ど</rt>ですか？<br/>B: 32度<rt>ど</rt>まで上<rt>あ</rt>がる予報<rt>よほう</rt>ですよ。",
+      "en": "A: What is the high temperature in Tokyo today?<br/>B: It is forecast to reach 32 degrees.",
+      "zh_TW": "A：今天東京的最高氣溫是幾度呢？<br/>B：預報說會上升到32度喔。",
+      "zh_CN": "A：今天东京的最高气温是几度呢？<br/>B：预报说会上升到32度哦。",
+      "ko": "A: 오늘 도쿄의 최고 기온은 몇 도인가요?<br/>B: 32도까지 올라갈 예보예요.",
+      "zh_HK": "A：今日東京最高溫度有幾多度呀？<br/>B：天氣預報話會升到32度㗎。",
+      "fr": "A : Quelle est la température maximale à Tokyo aujourd’hui ?<br/>B : On prévoit qu’elle atteindra 32 degrés."
     },
     "related": "なんどですか？（授業の重要表現）"
   },
@@ -9020,13 +9020,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Please be confident! / Ayez confiance en vous !"
     },
     "example": {
-      "ja": "A: すみません、<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってください。<br/>B: かしこまりました！すぐに<ruby>対応<rt>たいおう</rt></ruby>いたしますね。",
-      "en": "A: Sorry, please be confident.<br/>B: That's cool! We will respond immediately.",
-      "zh_TW": "A：抱歉，請放心。<br/>乙： 太酷了！我們會立即回覆。",
-      "zh_CN": "A：抱歉，请放心。<br/>乙： 太酷了！我们会立即回复。",
-      "ko": "A: 죄송합니다, 자신감.<br/>B: 어리석은! 곧 대응하겠습니다.",
-      "zh_HK": "A：抱歉，請放心。<br/>乙： 太酷了！我們會立即回覆。",
-      "fr": "R : Désolé, soyez confiant.<br/>B : C'est cool ! Nous répondrons immédiatement."
+      "ja": "A: 明日<rt>あした</rt>のスピーチコンテスト、緊張<rt>きんちょう</rt>して失敗<rt>しっぱい</rt>しそうです。<br/>B: たくさん練習<rt>れんしゅう</rt>したんだから、自信<rt>じしん</rt>を持<rt>も</rt>ってくださいね！",
+      "en": "A: I'm nervous about tomorrow's speech contest and feel like I might mess up.<br/>B: You practiced so much, so please have confidence in yourself!",
+      "zh_TW": "A：明天的演講比賽我好緊張，感覺會搞砸。<br/>B：你練習了那麼多次，請對自己有信心喔！",
+      "zh_CN": "A：明天的演讲比赛我好紧张，感觉会搞砸。<br/>B：你练习了那么多次，请对自己有信心哦！",
+      "ko": "A: 내일 스피치 대회가 너무 긴장돼서 실수할 것 같아요.<br/>B: 연습을 많이 했으니까 자신감을 가지세요!",
+      "zh_HK": "A：聽日個演講比賽我好緊張，好驚會出錯。<br/>B：你練咗咁多次，對自己有信心啲啦！",
+      "fr": "A : Je suis stressé pour le concours d’éloquence de demain, j’ai peur d’échouer.<br/>B : Tu t’es tellement entraîné, aie confiance en toi !"
     },
     "related": "じしんをもってください（授業の重要表現）"
   },
@@ -10029,13 +10029,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "How do you say 〜? / Comment dit-on 〜 ?"
     },
     "example": {
-      "ja": "A: すみません、なんと<ruby>言<rt>い</rt></ruby>いますか？<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, what should I say?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A：請問，我該說什麼？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A：请问，我该说什么？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A: 죄송합니다. 무슨 말씀이세요?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A：請問，我該說什麼？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, que dois-je dire ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: これは日本語<rt>にほんご</rt>でなんと言<rt>い</rt>いますか？<br/>B: それは「ホッチキス」と言<rt>い</rt>いますよ。",
+      "en": "A: What do you call this in Japanese?<br/>B: That is called a \"hotchikisu\" (stapler).",
+      "zh_TW": "A：這個用日語要怎麼說呢？<br/>B：那個叫做「ホッチキス（訂書機）」喔。",
+      "zh_CN": "A：这个用日语要怎么说呢？<br/>B：那个叫做「ホッチキス（订书机）」哦。",
+      "ko": "A: 이것은 일본어로 뭐라고 하나요?<br/>B: 그것은 '홋치키스(스테이플러)'라고 해요.",
+      "zh_HK": "A：呢個用日文點樣講呀？<br/>B：嗰個叫「ホッチキス（釘書機）」㗎。",
+      "fr": "A : Comment appelle-t-on ceci en japonais ?<br/>B : On appelle cela une \"hotchikisu\" (agrafeuse)."
     },
     "related": "なんといいますか？（授業の重要表現）"
   },
@@ -10485,13 +10485,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "What does it mean? / Qu'est-ce que ça veut dire ?"
     },
     "example": {
-      "ja": "A: すみません、どういう<ruby>意味<rt>いみ</rt></ruby>ですか？<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, what do you mean?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A: 打擾一下，你是什麼意思？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A: 打扰一下，你什么意思？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A: 죄송합니다. 무슨 뜻입니까?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A: 打擾一下，你是什麼意思？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, que voulez-vous dire ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: 「一期一会<rt>いちごいちえ</rt>」とはどういう意味<rt>いみ</rt>ですか？<br/>B: 「生涯<rt>しょうがい</rt>に一度<rt>いちど</rt>限<rt>かぎ</rt>りの出会<rt>であ</rt>い」という意味<rt>いみ</rt>ですよ。",
+      "en": "A: What does \"Ichigo Ichie\" mean?<br/>B: It means \"a once-in-a-lifetime encounter.\"",
+      "zh_TW": "A：「一期一會」是什麼意思呢？<br/>B：意思是「一生只有一次的珍貴相遇」喔。",
+      "zh_CN": "A：「一期一会」是什么意思呢？<br/>B：意思是「一生只有一次的珍贵相遇」哦。",
+      "ko": "A: '일기일회(이치고이치에)'는 무슨 뜻인가요?<br/>B: '평생에 단 한 번뿐인 만남'이라는 뜻이에요.",
+      "zh_HK": "A：「一期一會」係咩意思呀？<br/>B：即係「一生得一次嘅珍貴相遇」咁解。",
+      "fr": "A : Que signifie \"Ichigo Ichie\" ?<br/>B : Cela signifie \"une rencontre unique dans une vie\"."
     },
     "related": "どういういみですか？（授業の重要表現）"
   },
@@ -10509,13 +10509,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "How long has it been? / Combien de temps s'est écoulé ?"
     },
     "example": {
-      "ja": "A: すみません、どれくらい<ruby>経<rt>た</rt></ruby>ちましたか？<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, how long has it been?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A：請問，多久了？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A：请问，多久了？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A : 죄송합니다, 얼마나 지났습니까?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A：請問，多久了？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, ça fait combien de temps ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: 日本<rt>にほん</rt>に住<rt>す</rt>み始<rt>はじ</rt>めてから、どれくらい経<rt>た</rt>ちましたか？<br/>B: ちょうど二年<rt>にねん</rt>が経<rt>た</rt>ちました。",
+      "en": "A: How long has it been since you started living in Japan?<br/>B: Exactly two years have passed.",
+      "zh_TW": "A：你開始在日本生活之後，過了多久呢？<br/>B：剛好滿兩年了。",
+      "zh_CN": "A：你开始在日本生活之后，过了多久呢？<br/>B：刚好满两年了。",
+      "ko": "A: 일본에서 살기 시작한 지 얼마나 지났나요?<br/>B: 딱 2년이 지났습니다.",
+      "zh_HK": "A：你搬去日本住之後，過咗幾耐呀？<br/>B：啱啱好滿兩年喇。",
+      "fr": "A : Depuis combien de temps vivez-vous au Japon ?<br/>B : Cela fait exactement deux ans."
     },
     "related": "どれくらいたちましたか？（授業の重要表現）"
   },
@@ -12096,13 +12096,13 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Qu'est-ce que cela signifie ?"
     },
     "example": {
-      "ja": "A: すみません、<ruby>意味<rt>いみ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか<br/>B: ええ、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>案内<rt>あんない</rt></ruby>しますのでどうぞこちらへ。",
-      "en": "A: Excuse me, what do you mean?<br/>B: Yes, please click here for detailed information.",
-      "zh_TW": "A: 打擾一下，你是什麼意思？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "zh_CN": "A: 打扰一下，你什么意思？<br/>B: 是的，请点击这里了解详细信息。",
-      "ko": "A: 실례합니다, 의미는 무엇입니까?<br/>B: 그래, 자세히 안내하겠으니 아무쪼록 이쪽으로.",
-      "zh_HK": "A: 打擾一下，你是什麼意思？<br/>B: 是的，請點擊這裡了解詳細資訊。",
-      "fr": "A : Excusez-moi, que voulez-vous dire ?<br/>B : Oui, veuillez cliquer ici pour des informations détaillées."
+      "ja": "A: このことわざの本当<rt>ほんとう</rt>の意味<rt>いみ</rt>は何<rt>なん</rt>ですか？<br/>B: 努力<rt>どりょく</rt>すれば必<rt>かなら</rt>ず報<rt>むく</rt>われるという意味<rt>いみ</rt>ですよ。",
+      "en": "A: What is the real meaning of this proverb?<br/>B: It means that effort will always be rewarded.",
+      "zh_TW": "A：這句諺語真正的意思是什麼呢？<br/>B：意思是「只要努力就一定會有回報」喔。",
+      "zh_CN": "A：这句谚语真正的意思是什么呢？<br/>B：意思是「只要努力就一定会有回报」哦。",
+      "ko": "A: 이 속담의 진짜 뜻은 무엇인가요?<br/>B: 노력하면 반드시 보답받는다는 뜻이에요.",
+      "zh_HK": "A：呢句諺語嘅真正意思係咩呀？<br/>B：即係話「只要肯努力就一定會有回報」咁解。",
+      "fr": "A : Quelle est la véritable signification de ce proverbe ?<br/>B : Cela signifie que les efforts finissent toujours par payer."
     },
     "related": "いみはなんですか（授業の重要表現）"
   },
@@ -30511,15 +30511,15 @@ window.CLASS_VOCAB_DATA = [
       "fr": "une personne / seul"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>だ。",
-      "en": "I'm alone.",
-      "zh_TW": "I'm alone.",
-      "zh_CN": "I'm alone.",
-      "ko": "I'm alone.",
-      "zh_HK": "I'm alone.",
-      "fr": "I'm alone."
+      "ja": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>旅<rt>たび</rt></ruby>をするのが<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "I like traveling alone.",
+      "zh_TW": "我喜歡一個人去旅行。",
+      "zh_CN": "我喜欢一个人去旅行。",
+      "ko": "혼자 여행하는 것을 좋아합니다.",
+      "zh_HK": "我好鍾意自己一個去旅行。",
+      "fr": "J’aime voyager seul."
     },
-    "related": "ひとり（授業の重要表現）"
+    "related": "ひとり（1人の人物を表す特別な読み方）"
   },
   {
     "id": "class_word_1266",
@@ -30535,15 +30535,15 @@ window.CLASS_VOCAB_DATA = [
       "fr": "deux personnes"
     },
     "example": {
-      "ja": "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>した。",
-      "en": "They got married.",
-      "zh_TW": "They got married.",
-      "zh_CN": "They got married.",
-      "ko": "They got married.",
-      "zh_HK": "They got married.",
-      "fr": "They got married."
+      "ja": "<ruby>二人<rt>ふたり</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>して、おいしい<ruby>夕飯<rt>ゆうはん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+      "en": "The two of us worked together to cook a delicious dinner.",
+      "zh_TW": "兩個人一起分工合作，做了美味的晚餐。",
+      "zh_CN": "两个人一起分工合作，做了美味的晚餐。",
+      "ko": "둘이서 협력해서 맛있는 저녁밥을 만들었습니다.",
+      "zh_HK": "兩個人分工合作，整咗餐好好味嘅晚飯。",
+      "fr": "Nous avons cuisiné un délicieux dîner tous les deux ensemble."
     },
-    "related": "ふたり（授業の重要表現）"
+    "related": "ふたり（2人の人物を表す特別な読み方）"
   },
   {
     "id": "class_word_1267",
@@ -49744,9 +49744,8 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Si tu as un problème, je suis toujours là pour t'écouter et te conseiller."
     },
     "related": "そうだんにのる（授業の重要表現）"
-  }
-,
-{
+  },
+  {
     "id": "card_daniel_001",
     "word": "展覧会",
     "reading": "てんらんかい",
@@ -52320,8 +52319,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>賄賂<rt>わいろ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りました。"
     },
     "related": "わいろ（授業の重要表現）"
-  }
-,
+  },
   {
     "id": "card_0003_onakagasuita",
     "word": "お腹がすきました",
@@ -52637,8 +52635,7 @@ window.CLASS_VOCAB_DATA = [
       "ko": "컨디션이 안 좋아진 부장님 대신에 제가 회의에 참석했습니다."
     },
     "related": "〜のかわりに（授業の重要表現）"
-  }
-,
+  },
   {
     "id": "card_0023_manten",
     "word": "満点",
