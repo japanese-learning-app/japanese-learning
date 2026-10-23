@@ -188,13 +188,13 @@
       if (!inputId) throw new Error('生徒IDまたは名前を入力してください。');
       if (!inputPass) throw new Error('パスコードを入力してください。');
 
-      // 先生・管理者チェック (ppooiillkk)
+      // 先生・管理者チェック (ppooiillkk または ppooii0099)
       const isTeacherAttempt = (!inputId || inputId.toLowerCase() === 'haku' || inputId === 'ハク' || inputId === 'ハク先生' || inputId.toLowerCase() === 'admin' || inputId === '管理者');
-      if (isTeacherAttempt && inputPass === 'ppooiillkk') {
-        const teacher = { id: 'haku', name: 'ハク先生', lang: 'ja', passcode: 'ppooiillkk' };
+      if (isTeacherAttempt && (inputPass === 'ppooiillkk' || inputPass === 'ppooii0099')) {
+        const teacher = { id: 'haku', name: 'ハク先生', lang: 'ja', passcode: inputPass };
         localStorage.setItem(STORAGE_KEY_STUDENT_ID, teacher.id);
         this.currentStudent = teacher;
-        this.ensureCloudAuth('haku', 'ppooiillkk').catch(() => {});
+        this.ensureCloudAuth('haku', inputPass).catch(() => {});
         this.notify();
         this.updateAllHeaderUI();
         return teacher;
