@@ -5598,6 +5598,10 @@
     if (w.includes('面模仔') || r.includes('bīn') || exJa.includes('bīn-bôo-á') || exJa.includes('伊的面模仔')) return true;
     if (exJa.includes('他長著端正清秀的五官') || exJa.includes('かれはたんせいなかおかたち')) return true;
     if (/[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(w) || /[āēīōūáéíóúàèìòùâêîôûǎěǐǒǔ]/.test(r)) return true;
+    // Korean Hangul corruption check: word or reading must NOT be Hangul
+    if (/[\uAC00-\uD7AF]/.test(w) || /[\uAC00-\uD7AF]/.test(r)) return true;
+    // If meaning.ja is Korean Hangul, it is corrupted
+    if (c.meaning && typeof c.meaning.ja === 'string' && /[\uAC00-\uD7AF]/.test(c.meaning.ja)) return true;
     return false;
   };
 
@@ -6214,7 +6218,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v62_master_flashcards_comprehensive_audit';
+    const CURRENT_DATA_VERSION = 'v63_student_cards_purged_and_healed';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
@@ -6518,6 +6522,20 @@
         localStorage.setItem(key, JSON.stringify(Array.from(new Set(filteredSet))));
         localStorage.setItem(mapKey, JSON.stringify(stMap));
       });
+
+      // Purge any corrupted cards from local storage across custom cards and student mylists
+      try {
+        let storedCustom = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
+        if (Array.isArray(storedCustom)) {
+          storedCustom = storedCustom.filter(c => !isCorruptedCard(c));
+          localStorage.setItem('haku_all_custom_cards', JSON.stringify(storedCustom));
+        }
+        let storedVocab = JSON.parse(localStorage.getItem('haku_vocab_data') || '[]');
+        if (Array.isArray(storedVocab)) {
+          storedVocab = storedVocab.filter(c => !isCorruptedCard(c));
+          localStorage.setItem('haku_vocab_data', JSON.stringify(storedVocab));
+        }
+      } catch(e) {}
 
       localStorage.setItem('haku_vocab_version', CURRENT_DATA_VERSION);
     }
@@ -8849,7 +8867,7 @@
       if (candidateJp) {
         jpWord = candidateJp;
         meaningObj = { ...card.meaning, [currentLang]: card.word };
-        if (!readingText || readingText === card.word) {
+        if (!readingText || readingText === card.word || /[\uAC00-\uD7AF]/.test(readingText)) {
           readingText = '';
         }
       }
@@ -8887,6 +8905,11 @@
 
       if (Array.isArray(card.meanings)) {
         enMeaning = card.meanings.join(', ');
+      }
+
+      // Safeguard: Ensure enMeaning is NEVER Japanese kanji/kana
+      if (enMeaning && /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(enMeaning)) {
+        enMeaning = '';
       }
 
       // If nativeMeaning is missing or identical to English, search fallback dictionary
@@ -8939,6 +8962,11 @@
         exJa = match[1];
         if (!exTrans) exTrans = foreignPart;
       }
+    }
+
+    // Auto-convert Kanji(furigana) parentheses in exJa to <ruby> tags if not already ruby
+    if (exJa && !exJa.includes('<ruby>') && /([\u4e00-\u9faf\u3400-\u4dbf]+)[（\(]([\u3040-\u309f]+)[）\)]/.test(exJa)) {
+      exJa = exJa.replace(/([\u4e00-\u9faf\u3400-\u4dbf]+)[（\(]([\u3040-\u309f]+)[）\)]/g, '<ruby>$1<rt>$2</rt></ruby>');
     }
 
     if (exJa) {
@@ -10407,9 +10435,22 @@
     }
 
     displayedCards.forEach(card => {
+      let displayWord = card.word;
+      let displayReading = card.reading || '';
+      // Safeguard against inverted cards in list view
+      if (!/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(displayWord) && card.meaning && typeof card.meaning === 'object') {
+        const candidateJp = card.meaning.ja || Object.values(card.meaning).find(v => typeof v === 'string' && /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/.test(v));
+        if (candidateJp) {
+          displayWord = candidateJp;
+          if (!displayReading || /[\uAC00-\uD7AFa-zA-Z]/.test(displayReading)) displayReading = '';
+        }
+      }
+      if (displayReading && /[\uAC00-\uD7AF]/.test(displayReading)) {
+        displayReading = '';
+      }
       const item = document.createElement('div');
       item.className = 'p-3 rounded-2xl border border-slate-200 bg-slate-50 flex items-center justify-between transition hover:shadow-2xs';
-      const meaning = getBilingualMeaning(card.meaning, currentLang);
+      const meaning = getBilingualMeaning(card.meaning, currentLang, displayWord);
       const currentFolderId = mylistCardFolderMap[card.id] || '';
       const isLearned = knownSet.has(card.id) || mylistCardFolderMap[card.id] === 'folder_learned';
       const learnedBadgeHtml = isLearned
@@ -10425,8 +10466,8 @@
       item.innerHTML = `
         <div class="flex-1 pr-2 cursor-pointer btn-open-card-study">
           <div class="flex items-center space-x-1.5 flex-wrap">
-            <span class="font-bold text-slate-900 text-sm hover:text-deepNavy transition">${card.word}</span>
-            <span class="card-reading-text text-xs text-slate-400">（${card.reading || ''}）</span>
+            <span class="font-bold text-slate-900 text-sm hover:text-deepNavy transition">${displayWord}</span>
+            <span class="card-reading-text text-xs text-slate-400">（${displayReading}）</span>
             ${learnedBadgeHtml}
           </div>
           <p class="text-xs text-rose-600 font-medium mt-0.5">${meaning}</p>
