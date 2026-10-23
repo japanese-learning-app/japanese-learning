@@ -559,7 +559,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "破片",
     "question": "ガラスの【破片】で指を切ってしまった。",
-    "question_ruby": "ガラスの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【破片】</span><rt class=\"target-reading-spoiler\">はっぺん</rt></ruby>で<ruby>指<rt>ゆび</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>てしまった。",
+    "question_ruby": "ガラスの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【破片】</span><rt class=\"target-reading-spoiler\">はへん</rt></ruby>で<ruby>指<rt>ゆび</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>てしまった。",
     "choices": [
       "はぺん",
       "はべん",
@@ -572,8 +572,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "はっぺん",
       "はへん"
     ],
-    "answer": 2,
-    "correct_text": "はっぺん",
+    "answer": 3,
+    "correct_text": "はへん",
     "meaning_en": "fragment; splinter",
     "explanation": "",
     "kanji_info": [
@@ -1597,9 +1597,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 27,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "警告された",
-    "question": "スピードの出しすぎは危険だと【警告された】。",
-    "question_ruby": "スピードの<ruby>出し<rt>だし</rt></ruby>すぎは<ruby>危険<rt>きけん</rt></ruby>だと<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【警告された】</span><rt class=\"target-reading-spoiler\">けいこく</rt></ruby>。",
+    "target_word": "警告",
+    "question": "スピードの出しすぎは危険だと【警告】された。",
+    "question_ruby": "スピードの<ruby>出し<rt>だし</rt></ruby>すぎは<ruby>危険<rt>きけん</rt></ruby>だと<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【警告】</span><rt class=\"target-reading-spoiler\">けいこく</rt></ruby>された。",
     "choices": [
       "かんこく",
       "けいごく",
@@ -3228,9 +3228,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 58,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "柔軟に",
-    "question": "スタッフが【柔軟に】対応してくれた。",
-    "question_ruby": "スタッフが<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【柔軟に】</span><rt class=\"target-reading-spoiler\">じゅうなん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>してくれた。",
+    "target_word": "柔軟",
+    "question": "スタッフが【柔軟】に対応してくれた。",
+    "question_ruby": "スタッフが<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【柔軟】</span><rt class=\"target-reading-spoiler\">じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>してくれた。",
     "choices": [
       "じょうねん",
       "じゅうなん",
@@ -3488,9 +3488,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 62,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "単純な",
-    "question": "こんな【単純な】計算も間違えるなんて恥ずかしい。",
-    "question_ruby": "こんな<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【単純な】</span><rt class=\"target-reading-spoiler\">たんじゅん</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>も<ruby>間違え<rt>まちがえ</rt></ruby>るなんて<ruby>恥ずかしい<rt>はずかしい</rt></ruby>。",
+    "target_word": "単純",
+    "question": "こんな【単純】な計算も間違えるなんて恥ずかしい。",
+    "question_ruby": "こんな<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【単純】</span><rt class=\"target-reading-spoiler\">たんじゅん</rt></ruby>な<ruby>計算<rt>けいさん</rt></ruby>も<ruby>間違え<rt>まちがえ</rt></ruby>るなんて<ruby>恥ずかしい<rt>はずかしい</rt></ruby>。",
     "choices": [
       "だんじゅん",
       "たんじゅん",
@@ -3992,9 +3992,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 70,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "実におもしろい",
-    "question": "今回の調査で、【実におもしろい】発見があった。",
-    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【実におもしろい】</span><rt class=\"target-reading-spoiler\">じつ</rt></ruby><ruby>発見<rt>はっけん</rt></ruby>があった。",
+    "target_word": "実に",
+    "question": "今回の調査で、【実に】おもしろい発見があった。",
+    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【実に】</span><rt class=\"target-reading-spoiler\">じつ</rt></ruby>おもしろい<ruby>発見<rt>はっけん</rt></ruby>があった。",
     "choices": [
       "みつ",
       "じつ",
@@ -4106,9 +4106,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 72,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "常に",
-    "question": "祖母からもらった指輪を【常に】身に着けている。",
-    "question_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>からもらった<ruby>指輪<rt>ゆびわ</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【常に】</span><rt class=\"target-reading-spoiler\">つね</rt></ruby><ruby>身に<rt>みに</rt></ruby><ruby>着け<rt>つけ</rt></ruby>ている。",
+    "target_word": "常",
+    "question": "祖母からもらった指輪を【常】に身に着けている。",
+    "question_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>からもらった<ruby>指輪<rt>ゆびわ</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【常】</span><rt class=\"target-reading-spoiler\">つね</rt></ruby>に<ruby>身に<rt>みに</rt></ruby><ruby>着け<rt>つけ</rt></ruby>ている。",
     "choices": [
       "じょう",
       "づね",
@@ -8147,8 +8147,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "即座",
-    "question": "が起きたら、【そくざ】に対応するべきだ。",
-    "question_ruby": "が<ruby>起き<rt>おき</rt></ruby>たら、【そくざ】に<ruby>対応<rt>たいおう</rt></ruby>するべきだ。",
+    "question": "トラブルが起きたら、【そくざ】に対応するべきだ。",
+    "question_ruby": "トラブルが<ruby>起き<rt>おき</rt></ruby>たら、【そくざ】に<ruby>対応<rt>たいおう</rt></ruby>するべきだ。",
     "choices": [
       "印座",
       "即座",
@@ -11816,8 +11816,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "最善",
-    "question": "が起きたときは、チームみんなで話し合って（　　　）の解決方法を探すべきだ。",
-    "question_ruby": "が<ruby>起き<rt>おき</rt></ruby>たときは、チームみんなで<ruby>話し合っ<rt>はなしあっ</rt></ruby>て（　　　）の<ruby>解決方法<rt>かいけつほうほう</rt></ruby>を<ruby>探す<rt>さがす</rt></ruby>べきだ。",
+    "question": "トラブルが起きたときは、チームみんなで話し合って（　　　）の解決方法を探すべきだ。",
+    "question_ruby": "トラブルが<ruby>起き<rt>おき</rt></ruby>たときは、チームみんなで<ruby>話し合っ<rt>はなしあっ</rt></ruby>て（　　　）の<ruby>解決方法<rt>かいけつほうほう</rt></ruby>を<ruby>探す<rt>さがす</rt></ruby>べきだ。",
     "choices": [
       "改良",
       "大型",
@@ -14462,8 +14462,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "使い分ける",
-    "question": "か国語を話せる彼は、相手によって言葉を（　　　）ことができる。",
-    "question_ruby": "か<ruby>国語<rt>こくご</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>る<ruby>彼<rt>かれ</rt></ruby>は、<ruby>相手<rt>あいて</rt></ruby>によって<ruby>言葉<rt>ことば</rt></ruby>を（　　　）ことができる。",
+    "question": "数か国語を話せる彼は、相手によって言葉を（　　　）ことができる。",
+    "question_ruby": "<ruby>数<rt>かず</rt></ruby>か<ruby>国語<rt>こくご</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>る<ruby>彼<rt>かれ</rt></ruby>は、<ruby>相手<rt>あいて</rt></ruby>によって<ruby>言葉<rt>ことば</rt></ruby>を（　　　）ことができる。",
     "choices": [
       "言い切る",
       "身につける",
@@ -25264,9 +25264,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 452,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "祝い",
-    "question": "娘は七歳の誕生日のお【祝い】に貯金箱をもらいました。",
-    "question_ruby": "<ruby>娘<rt>むすめ</rt></ruby>は<ruby>七歳<rt>ななさい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>のお<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【祝い】</span><rt class=\"target-reading-spoiler\">おいわい</rt></ruby>に<ruby>貯金箱<rt>ちょきんばこ</rt></ruby>をもらいました。",
+    "target_word": "お祝い",
+    "question": "娘は七歳の誕生日の【お祝い】に貯金箱をもらいました。",
+    "question_ruby": "<ruby>娘<rt>むすめ</rt></ruby>は<ruby>七歳<rt>ななさい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【お祝い】</span><rt class=\"target-reading-spoiler\">おいわい</rt></ruby>に<ruby>貯金箱<rt>ちょきんばこ</rt></ruby>をもらいました。",
     "choices": [
       "おにあい",
       "おみあい",
@@ -25789,8 +25789,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "様子",
-    "question": "今急いで結論を出さないで、尖し（　　　）を見てからにしましょう。",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby><ruby>急い<rt>いそい</rt></ruby>で<ruby>結論<rt>けつろん</rt></ruby>を<ruby>出さ<rt>ださ</rt></ruby>ないで、<ruby>尖<rt>せん</rt></ruby>し（　　　）を<ruby>見て<rt>みて</rt></ruby>からにしましょう。",
+    "question": "今急いで結論を出さないで、少し（　　　）を見てからにしましょう。",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby><ruby>急い<rt>いそい</rt></ruby>で<ruby>結論<rt>けつろん</rt></ruby>を<ruby>出さ<rt>ださ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>（　　　）を<ruby>見て<rt>みて</rt></ruby>からにしましょう。",
     "choices": [
       "時間",
       "様子",
@@ -26176,8 +26176,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "怒らない",
-    "question": "あの人はめったに【怒らない】。",
-    "question_ruby": "あの<ruby>人<rt>ひと</rt></ruby>はめったに【<ruby>怒ら<rt>いから</rt></ruby>ない】。",
+    "question": "あの人はめったに【おこらない】。",
+    "question_ruby": "あの<ruby>人<rt>にん</rt></ruby>はめったに【おこらない】。",
     "choices": [
       "努らない",
       "怒らない",
@@ -27674,8 +27674,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "沸いた",
-    "question": "お母さん、お湯が【沸いた】よ。",
-    "question_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>、お<ruby>湯<rt>ゆ</rt></ruby>が【<ruby>沸<rt>ふつ</rt></ruby>いた】よ。",
+    "question": "お母さん、お湯が【わいた】よ。",
+    "question_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>、お<ruby>湯<rt>ゆ</rt></ruby>が【わいた】よ。",
     "choices": [
       "蒸いた",
       "浮いた",
@@ -28116,9 +28116,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 509,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "触れないでください",
-    "question": "やけどの恐れがありますから、絶対に手を【触れないでください】。",
-    "question_ruby": "やけどの<ruby>恐<rt>おそ</rt></ruby>れがありますから、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を【<ruby>触<rt>ふ</rt></ruby>れないでください】。",
+    "target_word": "触れないで",
+    "question": "やけどの恐れがありますから、絶対に手を【触れないで】ください。",
+    "question_ruby": "やけどの<ruby>恐れ<rt>おそれ</rt></ruby>がありますから、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【触れないで】</span><rt class=\"target-reading-spoiler\">ふれないで</rt></ruby>ください。",
     "choices": [
       "ふれないで",
       "さわれないで",
@@ -29282,8 +29282,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "帯",
-    "question": "浴衣には簡単な【帯】をします。足袋は普通、はきません。 。",
-    "question_ruby": "<ruby>浴衣<rt>ゆかた</rt></ruby>には<ruby>簡単<rt>かんたん</rt></ruby>な<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【帯】</span><rt class=\"target-reading-spoiler\">おび</rt></ruby>をします。<ruby>足袋<rt>たび</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>、はきません。 。",
+    "question": "浴衣には簡単な【帯】をします。足袋は普通、はきません。",
+    "question_ruby": "<ruby>浴衣<rt>ゆかた</rt></ruby>には<ruby>簡単<rt>かんたん</rt></ruby>な<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【帯】</span><rt class=\"target-reading-spoiler\">おび</rt></ruby>をします。<ruby>足袋<rt>たび</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>、はきません。",
     "choices": [
       "おび",
       "ひも",
@@ -31108,9 +31108,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 569,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "戻してください",
-    "question": "本を棚に【戻してください】。",
-    "question_ruby": "<ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に【<ruby>戻<rt>もど</rt></ruby>してください】。",
+    "target_word": "戻して",
+    "question": "本を棚に【戻して】ください。",
+    "question_ruby": "<ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【戻して】</span><rt class=\"target-reading-spoiler\">もどして</rt></ruby>ください。",
     "choices": [
       "もどして",
       "かえして",
@@ -31856,9 +31856,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 584,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "環境問題について",
-    "question": "総理大臣は米国を訪問し、【環境問題について】語った。",
-    "question_ruby": "<ruby>総理大臣<rt>そうりだいじん</rt></ruby>は<ruby>米国<rt>べいこく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し、【<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>について】<ruby>語<rt>かた</rt></ruby>った。",
+    "target_word": "環境",
+    "question": "総理大臣は米国を訪問し、【環境】問題について語った。",
+    "question_ruby": "<ruby>総理大臣<rt>そうりだいじん</rt></ruby>は<ruby>米国<rt>べいこく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【環境】</span><rt class=\"target-reading-spoiler\">かんきょう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>について<ruby>語っ<rt>かたっ</rt></ruby>た。",
     "choices": [
       "かんきゅう",
       "けんきゅう",
@@ -32500,8 +32500,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "干そう",
-    "question": "今日は天気がいいから、布団を【干そう】。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいから、<ruby>布団<rt>ふとん</rt></ruby>を【<ruby>干そ<rt>ほそ</rt></ruby>う】。",
+    "question": "今日は天気がいいから、布団を【ほそう】。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいから、<ruby>布団<rt>ふとん</rt></ruby>を【ほそう】。",
     "choices": [
       "戻そう",
       "放そう",
@@ -32639,9 +32639,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 599,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "伸びたので",
-    "question": "髪が【伸びたので】、床屋へ行くつもりだったが、風邪で延期した。",
-    "question_ruby": "<ruby>髪<rt>かみ</rt></ruby>が<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【伸びたので】</span><rt class=\"target-reading-spoiler\">のびた</rt></ruby>、<ruby>床屋<rt>とこや</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby>つもりだったが、<ruby>風邪<rt>かぜ</rt></ruby>で<ruby>延期<rt>えんき</rt></ruby>した。",
+    "target_word": "伸びた",
+    "question": "髪が【伸びた】ので、床屋へ行くつもりだったが、風邪で延期した。",
+    "question_ruby": "<ruby>髪<rt>かみ</rt></ruby>が<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【伸びた】</span><rt class=\"target-reading-spoiler\">のびた</rt></ruby>ので、<ruby>床屋<rt>とこや</rt></ruby>へ<ruby>行く<rt>いく</rt></ruby>つもりだったが、<ruby>風邪<rt>かぜ</rt></ruby>で<ruby>延期<rt>えんき</rt></ruby>した。",
     "choices": [
       "あびた",
       "さびた",
@@ -32780,8 +32780,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "翌日",
-    "question": "その爆発事故のニュースは、【翌日】の朝刊に大きく取り上げられた。 。",
-    "question_ruby": "その<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>事故<rt>じこ</rt></ruby>のニュースは、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【翌日】</span><rt class=\"target-reading-spoiler\">よくじつ</rt></ruby>の<ruby>朝刊<rt>ちょうかん</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>取り上げ<rt>とりあげ</rt></ruby>られた。 。",
+    "question": "その爆発事故のニュースは、【翌日】の朝刊に大きく取り上げられた。",
+    "question_ruby": "その<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>事故<rt>じこ</rt></ruby>のニュースは、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【翌日】</span><rt class=\"target-reading-spoiler\">よくじつ</rt></ruby>の<ruby>朝刊<rt>ちょうかん</rt></ruby>に<ruby>大きく<rt>おおきく</rt></ruby><ruby>取り上げ<rt>とりあげ</rt></ruby>られた。",
     "choices": [
       "よくにち",
       "よくじつ",
@@ -35299,8 +35299,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "決まり",
-    "question": "日程が（　　　）次第、ご終申し上げます。",
-    "question_ruby": "<ruby>日程<rt>にってい</rt></ruby>が（　　　）<ruby>次第<rt>しだい</rt></ruby>、ご<ruby>終<rt>おわり</rt></ruby><ruby>申し上げ<rt>もうしあげ</rt></ruby>ます。",
+    "question": "日程が（　　　）次第、ご連絡申し上げます。",
+    "question_ruby": "<ruby>日程<rt>にってい</rt></ruby>が（　　　）<ruby>次第<rt>しだい</rt></ruby>、ご<ruby>連絡<rt>れんらく</rt></ruby><ruby>申し上げ<rt>もうしあげ</rt></ruby>ます。",
     "choices": [
       "決まり",
       "決まって",
@@ -36886,9 +36886,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 677,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "敬え",
-    "question": "上司を【敬え】。",
-    "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【敬え】</span><rt class=\"target-reading-spoiler\">うやまう</rt></ruby>。",
+    "target_word": "敬う",
+    "question": "目上の人を【敬う】ことが大切だ。",
+    "question_ruby": "<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【敬う】</span><rt class=\"target-reading-spoiler\">うやまう</rt></ruby>ことが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "choices": [
       "うやまう",
       "きそう",
@@ -37660,9 +37660,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 692,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
-    "target_word": "含まれておりません",
-    "question": "この食品には小麦粉は【含まれておりません】。",
-    "question_ruby": "この<ruby>食品<rt>しょくひん</rt></ruby>には<ruby>小麦粉<rt>こむぎこ</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【含まれておりません】</span><rt class=\"target-reading-spoiler\">ふくまれて</rt></ruby>。",
+    "target_word": "含まれて",
+    "question": "この食品には小麦粉は【含まれて】おりません。",
+    "question_ruby": "この<ruby>食品<rt>しょくひん</rt></ruby>には<ruby>小麦粉<rt>こむぎこ</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【含まれて】</span><rt class=\"target-reading-spoiler\">ふくまれて</rt></ruby>おりません。",
     "choices": [
       "つかまれて",
       "かこまれて",
@@ -38389,8 +38389,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "切れて",
-    "question": "太量にコピーしたので、紙が（　　　）しまった。",
-    "question_ruby": "<ruby>太<rt>た</rt></ruby><ruby>量<rt>りょう</rt></ruby>にコピーしたので、<ruby>紙<rt>かみ</rt></ruby>が（　　　）しまった。",
+    "question": "大量にコピーしたので、紙が（　　　）しまった。",
+    "question_ruby": "<ruby>大量<rt>たいりょう</rt></ruby>にコピーしたので、<ruby>紙<rt>かみ</rt></ruby>が（　　　）しまった。",
     "choices": [
       "切れて",
       "済んで",
@@ -38438,8 +38438,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "降ろうが降るまいが",
-    "question": "震が（　　　）、行かなければならない。",
-    "question_ruby": "<ruby>震<rt>しん</rt></ruby>が（　　　）、<ruby>行<rt>い</rt></ruby>かなければならない。",
+    "question": "雨が（　　　）、行かなければならない。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が（　　　）、<ruby>行<rt>い</rt></ruby>かなければならない。",
     "choices": [
       "降ろうか降るまいか",
       "降ろうが降るまいが",
@@ -38718,8 +38718,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "マスコミ",
-    "question": "その事件は、（　　　）できく取り上げられた。",
-    "question_ruby": "その<ruby>事件<rt>じけん</rt></ruby>は、（　　　）できく<ruby>取り上げ<rt>とりあげ</rt></ruby>られた。",
+    "question": "その事件は、（　　　）で大きく取り上げられた。",
+    "question_ruby": "その<ruby>事件<rt>じけん</rt></ruby>は、（　　　）で<ruby>大きく<rt>おおきく</rt></ruby><ruby>取り上げ<rt>とりあげ</rt></ruby>られた。",
     "choices": [
       "ジャンル",
       "アンケート",
@@ -38851,8 +38851,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ふさわしい",
-    "question": "彼は首想に（　　　）人物だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>首<rt>くび</rt></ruby><ruby>想<rt>そう</rt></ruby>に（　　　）<ruby>人物<rt>じんぶつ</rt></ruby>だ。",
+    "question": "彼は首相に（　　　）人物だ。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>首相<rt>しゅしょう</rt></ruby>に（　　　）<ruby>人物<rt>じんぶつ</rt></ruby>だ。",
     "choices": [
       "やかましい",
       "ふさわしい",
@@ -38916,8 +38916,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "にかかわるものだ",
-    "question": "大臣の発言は、党の用 上がった。（　　　）と批判の声が",
-    "question_ruby": "<ruby>大臣<rt>だいじん</rt></ruby>の<ruby>発言<rt>はつげん</rt></ruby>は、<ruby>党<rt>とう</rt></ruby>の<ruby>用<rt>よう</rt></ruby> <ruby>上<rt>あ</rt></ruby>がった。（　　　）と<ruby>批判<rt>ひはん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が",
+    "question": "大臣の発言は、党の信用に（　　　）と批判の声が上がった。",
+    "question_ruby": "<ruby>大臣<rt>だいじん</rt></ruby>の<ruby>発言<rt>はつげん</rt></ruby>は、<ruby>党<rt>とう</rt></ruby>の<ruby>信用<rt>しんよう</rt></ruby>に（　　　）と<ruby>批判<rt>ひはん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がった。",
     "choices": [
       "といったところだ",
       "ではあるまいし",
@@ -39065,8 +39065,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "集まるまい",
-    "question": "委気が悪いので、は（　　　）と思いきや、会場は満員になった。",
-    "question_ruby": "<ruby>委<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ので、は（　　　）と<ruby>思い<rt>おもい</rt></ruby>きや、<ruby>会場<rt>かいじょう</rt></ruby>は<ruby>満員<rt>まんいん</rt></ruby>になった。",
+    "question": "天気が悪いので、客は（　　　）と思いきや、会場は満員になった。",
+    "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>ので、<ruby>客<rt>きゃく</rt></ruby>は（　　　）と<ruby>思い<rt>おもい</rt></ruby>きや、<ruby>会場<rt>かいじょう</rt></ruby>は<ruby>満員<rt>まんいん</rt></ruby>になった。",
     "choices": [
       "集まった",
       "集まるまい",
@@ -39178,23 +39178,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 720,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "にきび",
-    "question": "子供の いきました。（　　　）が多いのが気になり、眼科に連れて",
-    "question_ruby": "<ruby>子供<rt>こども</rt></ruby>の いきました。（　　　）が<ruby>多い<rt>おおい</rt></ruby>のが<ruby>気<rt>き</rt></ruby>になり、<ruby>眼科<rt>がんか</rt></ruby>に<ruby>連れ<rt>つれ</rt></ruby>て",
+    "target_word": "まばたき",
+    "question": "子供の（　　　）が多いのが気になり、眼科に連れていきました。",
+    "question_ruby": "<ruby>子供<rt>こども</rt></ruby>の（　　　）が<ruby>多い<rt>おおい</rt></ruby>のが<ruby>気<rt>き</rt></ruby>になり、<ruby>眼科<rt>がんか</rt></ruby>に<ruby>連れ<rt>つれ</rt></ruby>ていきました。",
     "choices": [
       "しみ",
       "あざ",
       "まばたき",
-      "にきび"
+      "かすみ"
     ],
     "choices_ruby": [
       "しみ",
       "あざ",
       "まばたき",
-      "にきび"
+      "かすみ"
     ],
-    "answer": 3,
-    "correct_text": "にきび",
+    "answer": 2,
+    "correct_text": "まばたき",
     "meaning_en": "|was concerned about my child blinking so many times, so I took him to the eye",
     "explanation": "",
     "kanji_info": [
@@ -39239,8 +39239,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "のみならず",
-    "question": "あの合は他会に厳しい（　　　）、自分にも厳しい。",
-    "question_ruby": "あの<ruby>合は<rt>あは</rt></ruby><ruby>他<rt>ほか</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby>（　　　）、<ruby>自分<rt>じぶん</rt></ruby>にも<ruby>厳しい<rt>いかめしい</rt></ruby>。",
+    "question": "あの人は他人に厳しい（　　　）、自分にも厳しい。",
+    "question_ruby": "あの<ruby>人<rt>にん</rt></ruby>は<ruby>他人<rt>たにん</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby>（　　　）、<ruby>自分<rt>じぶん</rt></ruby>にも<ruby>厳しい<rt>いかめしい</rt></ruby>。",
     "choices": [
       "のみならず",
       "によらず",
@@ -39284,13 +39284,13 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "横浜【わん】で巨大魚が発見された。",
     "question_ruby": "<ruby>横浜<rt>よこはま</rt></ruby>【わん】で<ruby>巨大<rt>きょだい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>が<ruby>発見<rt>はっけん</rt></ruby>された。",
     "choices": [
-      "東京わんで巨大魚が発見された。",
+      "港",
       "湾",
       "岸",
       "湖"
     ],
     "choices_ruby": [
-      "<ruby>東京<rt>とうきょう</rt></ruby>わんで<ruby>巨大<rt>きょだい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>が<ruby>発見<rt>はっけん</rt></ruby>された。",
+      "<ruby>港<rt>みなと</rt></ruby>",
       "<ruby>湾<rt>わん</rt></ruby>",
       "<ruby>岸<rt>きし</rt></ruby>",
       "<ruby>湖<rt>みずうみ</rt></ruby>"
@@ -39330,8 +39330,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "かびて",
-    "question": "萬のジャケットを押し入れにしまったままにしていたら、（　　　）しまった。",
-    "question_ruby": "<ruby>萬<rt>まん</rt></ruby>のジャケットを<ruby>押し入れ<rt>おしいれ</rt></ruby>にしまったままにしていたら、（　　　）しまった。",
+    "question": "革のジャケットを押し入れにしまったままにしていたら、（　　　）しまった。",
+    "question_ruby": "<ruby>革<rt>かわ</rt></ruby>のジャケットを<ruby>押し入れ<rt>おしいれ</rt></ruby>にしまったままにしていたら、（　　　）しまった。",
     "choices": [
       "さびて",
       "しぼんで",
@@ -39675,8 +39675,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "会う",
-    "question": "彼をは（　　　）なり私に文句を言い始めた。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>をは（　　　）なり<ruby>私<rt>わたし</rt></ruby>に<ruby>文句<rt>もんく</rt></ruby>を<ruby>言い<rt>いい</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "question": "彼は（　　　）なり私に文句を言い始めた。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は（　　　）なり<ruby>私<rt>わたし</rt></ruby>に<ruby>文句<rt>もんく</rt></ruby>を<ruby>言い<rt>いい</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
     "choices": [
       "会い",
       "会う",
@@ -39773,8 +39773,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "あて",
-    "question": "当施設 し せっ のメールは、このアドレスをお使い いただきますよう、お願いいたします。（　　　）ご い",
-    "question_ruby": "<ruby>当<rt>とう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby> し せっ のメールは、このアドレスをお<ruby>使い<rt>つかい</rt></ruby> いただきますよう、お<ruby>願い<rt>ねがい</rt></ruby>いたします。（　　　）ご い",
+    "question": "当施設（　　　）のメールは、このアドレスをお使いいただきますよう、お願いいたします。",
+    "question_ruby": "<ruby>当<rt>とう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>（　　　）のメールは、このアドレスをお<ruby>使い<rt>つかい</rt></ruby>いただきますよう、お<ruby>願い<rt>ねがい</rt></ruby>いたします。",
     "choices": [
       "だし",
       "いき",
@@ -39920,8 +39920,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "ずれて",
-    "question": "この照買ったサングラスが、鼻の形に合わないのか、（　　　）困る。",
-    "question_ruby": "この<ruby>照<rt>しょう</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たサングラスが、<ruby>鼻<rt>はな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>ないのか、（　　　）<ruby>困る<rt>こまる</rt></ruby>。",
+    "question": "この前買ったサングラスが、鼻の形に合わないのか、（　　　）困る。",
+    "question_ruby": "この<ruby>前<rt>まえ</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たサングラスが、<ruby>鼻<rt>はな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>ないのか、（　　　）<ruby>困る<rt>こまる</rt></ruby>。",
     "choices": [
       "ゆがんで",
       "ねじれて",
@@ -39961,23 +39961,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 736,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
-    "target_word": "かぎり",
-    "question": "短い生涯だったが、その詩人は命の。（　　　）かぎり 生きた。",
-    "question_ruby": "<ruby>短い<rt>みじかい</rt></ruby><ruby>生涯<rt>しょうがい</rt></ruby>だったが、その<ruby>詩人<rt>しじん</rt></ruby>は<ruby>命<rt>いのち</rt></ruby>の。（　　　）かぎり <ruby>生き<rt>いき</rt></ruby>た。",
+    "target_word": "あるかぎり",
+    "question": "短い生涯だったが、その詩人は命の（　　　）生きた。",
+    "question_ruby": "<ruby>短い<rt>みじかい</rt></ruby><ruby>生涯<rt>しょうがい</rt></ruby>だったが、その<ruby>詩人<rt>しじん</rt></ruby>は<ruby>命<rt>いのち</rt></ruby>の（　　　）<ruby>生き<rt>いき</rt></ruby>た。",
     "choices": [
       "いたるまで",
       "たりとも",
       "ごとく",
-      "かぎり"
+      "あるかぎり"
     ],
     "choices_ruby": [
       "いたるまで",
       "たりとも",
       "ごとく",
-      "かぎり"
+      "あるかぎり"
     ],
     "answer": 3,
-    "correct_text": "かぎり",
+    "correct_text": "あるかぎり",
     "meaning_en": "That poet did not live a long life, but he made the best of it.",
     "explanation": "",
     "kanji_info": [
@@ -40011,8 +40011,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "権利",
-    "question": "第 4週教育を受ける【権利】は国民が国に対して持つ基本的人権の一つです。",
-    "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【権利】</span><rt class=\"target-reading-spoiler\">けんり</rt></ruby>は<ruby>国民<rt>こくみん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て<ruby>持つ<rt>もつ</rt></ruby><ruby>基本的人権<rt>きほんてきじんけん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。",
+    "question": "教育を受ける【権利】は国民が国に対して持つ基本的人権の一つです。",
+    "question_ruby": "<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【権利】</span><rt class=\"target-reading-spoiler\">けんり</rt></ruby>は<ruby>国民<rt>こくみん</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て<ruby>持つ<rt>もつ</rt></ruby><ruby>基本的人権<rt>きほんてきじんけん</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。",
     "choices": [
       "けんり",
       "かんり",
@@ -40160,8 +40160,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "一粒",
-    "question": "第 4週この薬を【ひとつぶ】飲んだら腹痛が治まった。",
-    "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>この<ruby>薬<rt>くすり</rt></ruby>を【ひとつぶ】<ruby>飲ん<rt>のん</rt></ruby>だら<ruby>腹痛<rt>ふくつう</rt></ruby>が<ruby>治ま<rt>おさま</rt></ruby>った。",
+    "question": "この薬を【ひとつぶ】飲んだら腹痛が治まった。",
+    "question_ruby": "この<ruby>薬<rt>くすり</rt></ruby>を【ひとつぶ】<ruby>飲ん<rt>のん</rt></ruby>だら<ruby>腹痛<rt>ふくつう</rt></ruby>が<ruby>治ま<rt>おさま</rt></ruby>った。",
     "choices": [
       "一袋",
       "一位",
@@ -40225,8 +40225,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "入れれば",
-    "question": "この家は築50無だが、尖し手を（　　　）まだまだ住める。",
-    "question_ruby": "この<ruby>家<rt>いえ</rt></ruby>は<ruby>築<rt>ちく</rt></ruby>50<ruby>無<rt>む</rt></ruby>だが、<ruby>尖<rt>せん</rt></ruby>し<ruby>手<rt>て</rt></ruby>を（　　　）まだまだ<ruby>住め<rt>すめ</rt></ruby>る。",
+    "question": "この家は築50年だが、少し手を（　　　）まだまだ住める。",
+    "question_ruby": "この<ruby>家<rt>いえ</rt></ruby>は<ruby>築<rt>ちく</rt></ruby>50<ruby>年<rt>ねん</rt></ruby>だが、<ruby>少し<rt>すこし</rt></ruby><ruby>手<rt>て</rt></ruby>を（　　　）まだまだ<ruby>住め<rt>すめ</rt></ruby>る。",
     "choices": [
       "入れれば",
       "抜けば",
@@ -40274,8 +40274,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "お越しの折には",
-    "question": "專家に（　　　）、ぜひお辛ち寄りください。",
-    "question_ruby": "<ruby>專<rt>せん</rt></ruby><ruby>家<rt>いえ</rt></ruby>に（　　　）、ぜひお<ruby>辛<rt>しん</rt></ruby>ち<ruby>寄り<rt>より</rt></ruby>ください。",
+    "question": "お近くに（　　　）、ぜひお立ち寄りください。",
+    "question_ruby": "お<ruby>近く<rt>ちかく</rt></ruby>に（　　　）、ぜひお<ruby>立ち<rt>たち</rt></ruby><ruby>寄り<rt>より</rt></ruby>ください。",
     "choices": [
       "お越しの上",
       "お越しの折には",
@@ -40388,8 +40388,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うっとうしい",
-    "question": "このところ、雨が降ったりやんだりと、（　　　）気が纏いている。",
-    "question_ruby": "このところ、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たりやんだりと、（　　　）<ruby>気<rt>き</rt></ruby>が<ruby>纏<rt>まとい</rt></ruby>いている。",
+    "question": "このところ、雨が降ったりやんだりと、（　　　）天気が続いている。",
+    "question_ruby": "このところ、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たりやんだりと、（　　　）<ruby>天気<rt>てんき</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ている。",
     "choices": [
       "おだやかな",
       "そうぞうしい",
@@ -40502,8 +40502,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "枯れて",
-    "question": "第 4週この植物は、あまり太陽に当てると【かれて】しまう。",
-    "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>この<ruby>植物<rt>しょくぶつ</rt></ruby>は、あまり<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>当て<rt>あて</rt></ruby>ると【かれて】しまう。",
+    "question": "この植物は、あまり太陽に当てると【かれて】しまう。",
+    "question_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby>は、あまり<ruby>太陽<rt>たいよう</rt></ruby>に<ruby>当て<rt>あて</rt></ruby>ると【かれて】しまう。",
     "choices": [
       "固れて",
       "枯れて",
@@ -40600,8 +40600,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "ぶり",
-    "question": "あんなに不募面目だったのに、今の彼の働き（　　　）には誰もが驚いている。",
-    "question_ruby": "あんなに<ruby>不<rt>ふ</rt></ruby><ruby>募<rt>ぼ</rt></ruby><ruby>面目<rt>めんぼく</rt></ruby>だったのに、<ruby>今<rt>いま</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>（　　　）には<ruby>誰<rt>だれ</rt></ruby>もが<ruby>驚い<rt>おどろい</rt></ruby>ている。",
+    "question": "あんなに不真面目だったのに、今の彼の働き（　　　）には誰もが驚いている。",
+    "question_ruby": "あんなに<ruby>不真面目<rt>ふまじめ</rt></ruby>だったのに、<ruby>今<rt>いま</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>の<ruby>働き<rt>はたらき</rt></ruby>（　　　）には<ruby>誰<rt>だれ</rt></ruby>もが<ruby>驚い<rt>おどろい</rt></ruby>ている。",
     "choices": [
       "がい",
       "がち",
@@ -40691,8 +40691,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "まけて",
-    "question": "お黒を8枚まとめて買ったら、1枚分（　　　）くれた。",
-    "question_ruby": "お<ruby>黒<rt>くろ</rt></ruby>を8<ruby>枚<rt>まい</rt></ruby>まとめて<ruby>買っ<rt>かっ</rt></ruby>たら、1<ruby>枚<rt>まい</rt></ruby><ruby>分<rt>ふん</rt></ruby>（　　　）くれた。",
+    "question": "お皿を8枚まとめて買ったら、1枚分（　　　）くれた。",
+    "question_ruby": "お<ruby>皿<rt>さら</rt></ruby>を8<ruby>枚<rt>まい</rt></ruby>まとめて<ruby>買っ<rt>かっ</rt></ruby>たら、1<ruby>枚<rt>まい</rt></ruby><ruby>分<rt>ふん</rt></ruby>（　　　）くれた。",
     "choices": [
       "よけて",
       "まけて",
@@ -40733,8 +40733,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "私なりに",
-    "question": "（　　　）鳥煮えた結果、黒に帰ることにしました。",
-    "question_ruby": "（　　　）<ruby>鳥<rt>とり</rt></ruby><ruby>煮え<rt>にえ</rt></ruby>た<ruby>結果<rt>けっか</rt></ruby>、<ruby>黒<rt>くろ</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>ことにしました。",
+    "question": "（　　　）考え抜いた結果、国に帰ることにしました。",
+    "question_ruby": "（　　　）<ruby>考え<rt>かんがえ</rt></ruby><ruby>抜い<rt>ぬい</rt></ruby>た<ruby>結果<rt>けっか</rt></ruby>、<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>ことにしました。",
     "choices": [
       "私からすると",
       "私のことだから",
@@ -40967,8 +40967,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "講義",
-    "question": "日程表によれば、午前中は【こうぎ】、午後はゼミです。 講議 。",
-    "question_ruby": "<ruby>日程表<rt>にっていひょう</rt></ruby>によれば、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>は【こうぎ】、<ruby>午後<rt>ごご</rt></ruby>はゼミです。 <ruby>講議<rt>こうぎ</rt></ruby> 。",
+    "question": "日程表によれば、午前中は【こうぎ】、午後はゼミです。",
+    "question_ruby": "<ruby>日程表<rt>にっていひょう</rt></ruby>によれば、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>は【こうぎ】、<ruby>午後<rt>ごご</rt></ruby>はゼミです。",
     "choices": [
       "講議",
       "構義",
@@ -41032,8 +41032,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "うぬぼれている",
-    "question": "彼は美人だが、（　　　）ので嫌われている。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>美人<rt>びじん</rt></ruby>だが、（　　　）ので<ruby>嫌わ<rt>きらわ</rt></ruby>れている。",
+    "question": "彼女は美人だが、（　　　）ので嫌われている。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>美人<rt>びじん</rt></ruby>だが、（　　　）ので<ruby>嫌わ<rt>きらわ</rt></ruby>れている。",
     "choices": [
       "くつろいでいる",
       "にくんでいる",
@@ -41074,8 +41074,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "くらいなら",
-    "question": "そんなに喜いお金をかけて修理する（　　　）、新しいのに買い換えたほうがいい。",
-    "question_ruby": "そんなに<ruby>喜<rt>き</rt></ruby>いお<ruby>金<rt>きん</rt></ruby>をかけて<ruby>修理<rt>しゅうり</rt></ruby>する（　　　）、<ruby>新しい<rt>あたらしい</rt></ruby>のに<ruby>買い換え<rt>かいかえ</rt></ruby>たほうがいい。",
+    "question": "そんなに高いお金をかけて修理する（　　　）、新しいのに買い換えたほうがいい。",
+    "question_ruby": "そんなに<ruby>高い<rt>たかい</rt></ruby>お<ruby>金<rt>きん</rt></ruby>をかけて<ruby>修理<rt>しゅうり</rt></ruby>する（　　　）、<ruby>新しい<rt>あたらしい</rt></ruby>のに<ruby>買い換え<rt>かいかえ</rt></ruby>たほうがいい。",
     "choices": [
       "くらいなら",
       "ようであれ",
@@ -41755,8 +41755,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "双子",
-    "question": "【ふたご】のどちらが兄または姉かは、生まれた順によって決められるのでしょうか。 。",
-    "question_ruby": "【ふたご】のどちらが<ruby>兄<rt>あに</rt></ruby>または<ruby>姉<rt>あね</rt></ruby>かは、<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>順に<rt>じゅんに</rt></ruby>よって<ruby>決め<rt>きめ</rt></ruby>られるのでしょうか。 。",
+    "question": "【ふたご】のどちらが兄または姉かは、生まれた順によって決められるのでしょうか。",
+    "question_ruby": "【ふたご】のどちらが<ruby>兄<rt>あに</rt></ruby>または<ruby>姉<rt>あね</rt></ruby>かは、<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>順に<rt>じゅんに</rt></ruby>よって<ruby>決め<rt>きめ</rt></ruby>られるのでしょうか。",
     "choices": [
       "ニ子",
       "双子",
@@ -41820,8 +41820,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "下取り",
-    "question": "点い事を（　　　）に出して、新しい車を買った。",
-    "question_ruby": "<ruby>点<rt>てん</rt></ruby>い<ruby>事<rt>こと</rt></ruby>を（　　　）に<ruby>出し<rt>だし</rt></ruby>て、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た。",
+    "question": "古い車を（　　　）に出して、新しい車を買った。",
+    "question_ruby": "<ruby>古い<rt>ふるい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を（　　　）に<ruby>出し<rt>だし</rt></ruby>て、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た。",
     "choices": [
       "立て替え",
       "値引き",
@@ -41885,8 +41885,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "せずに済み",
-    "question": "書類はメールに添付してれるので、たいていの資料は悪（　　　）、助かっている。",
-    "question_ruby": "<ruby>書類<rt>しょるい</rt></ruby>はメールに<ruby>添付<rt>てんぷ</rt></ruby>してれるので、たいていの<ruby>資料<rt>しりょう</rt></ruby>は<ruby>悪<rt>あく</rt></ruby>（　　　）、<ruby>助か<rt>たすか</rt></ruby>っている。",
+    "question": "書類はメールに添付してくれるので、たいていの資料は印刷（　　　）、助かっている。",
+    "question_ruby": "<ruby>書類<rt>しょるい</rt></ruby>はメールに<ruby>添付<rt>てんぷ</rt></ruby>してくれるので、たいていの<ruby>資料<rt>しりょう</rt></ruby>は<ruby>印刷<rt>いんさつ</rt></ruby>（　　　）、<ruby>助か<rt>たすか</rt></ruby>っている。",
     "choices": [
       "するにすぎず",
       "せざるを得なく",
@@ -42176,8 +42176,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "だとされている",
-    "question": "※素が起こった時に、水の確保が一番の問題（　　　）。",
-    "question_ruby": "※<ruby>素<rt>もと</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に、<ruby>水<rt>みず</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>（　　　）。",
+    "question": "災害が起こった時に、水の確保が一番の問題（　　　）。",
+    "question_ruby": "<ruby>災害<rt>さいがい</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に、<ruby>水<rt>みず</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>（　　　）。",
     "choices": [
       "であるべきだ",
       "だとされている",
@@ -42309,8 +42309,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "思い出される",
-    "question": "この歌を聴くと、広くなったのことが（　　　）。",
-    "question_ruby": "この<ruby>歌を<rt>うたを</rt></ruby><ruby>聴く<rt>きく</rt></ruby>と、<ruby>広く<rt>ひろく</rt></ruby>なったのことが（　　　）。",
+    "question": "この歌を聴くと、亡くなった母のことが（　　　）。",
+    "question_ruby": "この<ruby>歌を<rt>うたを</rt></ruby><ruby>聴く<rt>きく</rt></ruby>と、<ruby>亡く<rt>なく</rt></ruby>なった<ruby>母<rt>はは</rt></ruby>のことが（　　　）。",
     "choices": [
       "思い出される",
       "思い出す限りだ",
@@ -42374,8 +42374,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "編んで",
-    "question": "母は居間で毛糸の帽子を【編んで】います。 くんで第 4週",
-    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>居間<rt>いま</rt></ruby>で<ruby>毛糸<rt>けいと</rt></ruby>の<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【編んで】</span><rt class=\"target-reading-spoiler\">あんで</rt></ruby>います。 くんで<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby>",
+    "question": "母は居間で毛糸の帽子を【編んで】います。",
+    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>居間<rt>いま</rt></ruby>で<ruby>毛糸<rt>けいと</rt></ruby>の<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【編んで】</span><rt class=\"target-reading-spoiler\">あんで</rt></ruby>います。",
     "choices": [
       "くんで",
       "あんで",
@@ -42423,8 +42423,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "もめた",
-    "question": "谷が亡くなったとき、財産の相袋で兄弟と（　　　）。",
-    "question_ruby": "<ruby>谷<rt>たに</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったとき、<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>相<rt>そう</rt></ruby><ruby>袋<rt>ふくろ</rt></ruby>で<ruby>兄弟<rt>きょうだい</rt></ruby>と（　　　）。",
+    "question": "父が亡くなったとき、財産の相続で兄弟と（　　　）。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>が<ruby>亡く<rt>なく</rt></ruby>なったとき、<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>相続<rt>そうぞく</rt></ruby>で<ruby>兄弟<rt>きょうだい</rt></ruby>と（　　　）。",
     "choices": [
       "あせった",
       "ひねった",
@@ -42578,7 +42578,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 786,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "ぎっしり",
+    "target_word": "うんざり",
     "question": "上司に怒鳴られる毎日に（　　　）だ。会社を辞めたい。",
     "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>に<ruby>怒鳴<rt>どな</rt></ruby>られる<ruby>毎日<rt>まいにち</rt></ruby>に（　　　）だ。<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めたい。",
     "choices": [
@@ -42593,8 +42593,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "うんざり",
       "じっくり"
     ],
-    "answer": 1,
-    "correct_text": "ぎっしり",
+    "answer": 2,
+    "correct_text": "うんざり",
     "meaning_en": "Iget yelled at by my boss every day. I have had enough of it. I want to quit.",
     "explanation": "",
     "kanji_info": [],
@@ -42620,9 +42620,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 787,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
-    "target_word": "ところで",
-    "question": "頭が痛かったので薬を飲んだ。 痛みがなくなった。（　　　）ところで 、すぐに",
-    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛か<rt>いたか</rt></ruby>ったので<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ。 <ruby>痛み<rt>いたみ</rt></ruby>がなくなった。（　　　）ところで 、すぐに",
+    "target_word": "すると",
+    "question": "頭が痛かったので薬を飲んだ。（　　　）、すぐに痛みがなくなった。",
+    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛か<rt>いたか</rt></ruby>ったので<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だ。（　　　）、すぐに<ruby>痛み<rt>いたみ</rt></ruby>がなくなった。",
     "choices": [
       "すなわち",
       "すると",
@@ -42635,8 +42635,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "ところで",
       "というと"
     ],
-    "answer": 2,
-    "correct_text": "ところで",
+    "answer": 1,
+    "correct_text": "すると",
     "meaning_en": "I had a headache so I took some medicine and the pain went away soon after.",
     "explanation": "",
     "kanji_info": [
@@ -42734,23 +42734,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 789,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "事務職は、パソコンができないと",
-    "question": "（　　　）話にならない。",
-    "question_ruby": "（　　　）<ruby>話<rt>はなし</rt></ruby>にならない。",
+    "target_word": "使えないと",
+    "question": "事務職なら、パソコンが（　　　）話にならない。",
+    "question_ruby": "<ruby>事務職<rt>じむしょく</rt></ruby>なら、パソコンが（　　　）<ruby>話<rt>はなし</rt></ruby>にならない。",
     "choices": [
-      "事務職は、パソコンができないと",
-      "話がわからない",
-      "話がつかない",
-      "話にのらない"
+      "使えないと",
+      "使えては",
+      "使えないので",
+      "使えないなら"
     ],
     "choices_ruby": [
-      "<ruby>事務職<rt>じむしょく</rt></ruby>は、パソコンができないと",
-      "<ruby>話<rt>はなし</rt></ruby>がわからない",
-      "<ruby>話<rt>はなし</rt></ruby>がつかない",
-      "<ruby>話<rt>はなし</rt></ruby>にのらない"
+      "<ruby>使<rt>つか</rt></ruby>えないと",
+      "<ruby>使<rt>つか</rt></ruby>えては",
+      "<ruby>使<rt>つか</rt></ruby>えないので",
+      "<ruby>使<rt>つか</rt></ruby>えないなら"
     ],
     "answer": 0,
-    "correct_text": "事務職は、パソコンができないと",
+    "correct_text": "使えないと",
     "meaning_en": "Clerical staff who cannot use computers are out of the question.",
     "explanation": "",
     "kanji_info": [
@@ -42805,23 +42805,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 790,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
-    "target_word": "したがって",
-    "question": "クラスの大半は中国出身です。 台湾からきました。（　　　）私は、",
-    "question_ruby": "クラスの<ruby>大半<rt>たいはん</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>です。 <ruby>台湾<rt>たいわん</rt></ruby>からきました。（　　　）<ruby>私<rt>わたし</rt></ruby>は、",
+    "target_word": "ちなみに",
+    "question": "クラスの大半は中国出身です。（　　　）、私は台湾から来ました。",
+    "question_ruby": "クラスの<ruby>大半<rt>たいはん</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>です。（　　　）、<ruby>私<rt>わたし</rt></ruby>は<ruby>台湾<rt>たいわん</rt></ruby>から<ruby>来ま<rt>きま</rt></ruby>した。",
     "choices": [
       "ちなみに",
-      "したがって",
-      "それが",
-      "ようするに"
+      "ところが",
+      "すなわち",
+      "そのうえ"
     ],
     "choices_ruby": [
       "ちなみに",
-      "したがって",
-      "それが",
-      "ようするに"
+      "ところが",
+      "すなわち",
+      "そのうえ"
     ],
-    "answer": 1,
-    "correct_text": "したがって",
+    "answer": 0,
+    "correct_text": "ちなみに",
     "meaning_en": "The majority of the class is from China. Incidentally, I am from Taiwan.",
     "explanation": "",
     "kanji_info": [
@@ -42855,21 +42855,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "匹",
-    "question": "第 4週伯父の家には犬が5【ひき】います。",
-    "question_ruby": "<ruby>第<rt>だい</rt></ruby> 4<ruby>週<rt>しゅう</rt></ruby><ruby>伯父<rt>おじ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>には<ruby>犬<rt>いぬ</rt></ruby>が5【ひき】います。",
+    "question": "伯父の家には犬が5【ひき】います。",
+    "question_ruby": "<ruby>伯父<rt>おじ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>には<ruby>犬<rt>いぬ</rt></ruby>が5【ひき】います。",
     "choices": [
-      "足",
-      "頭",
+      "羽",
       "匹",
-      "羽"
+      "本",
+      "頭"
     ],
     "choices_ruby": [
-      "<ruby>足<rt>あし</rt></ruby>",
-      "<ruby>頭<rt>あたま</rt></ruby>",
+      "<ruby>羽<rt>わ</rt></ruby>",
       "<ruby>匹<rt>ひき</rt></ruby>",
-      "<ruby>羽<rt>はね</rt></ruby>"
+      "<ruby>本<rt>ほん</rt></ruby>",
+      "<ruby>頭<rt>とう</rt></ruby>"
     ],
-    "answer": 2,
+    "answer": 1,
     "correct_text": "匹",
     "meaning_en": "My uncle has five dogs in his house.",
     "explanation": "",
@@ -42898,23 +42898,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 792,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "手当て",
-    "question": "お忙しいところ、お ありませんでした。（　　　）手当て をおかけして申し訳",
-    "question_ruby": "お<ruby>忙しい<rt>いそがしい</rt></ruby>ところ、お ありませんでした。（　　　）<ruby>手当て<rt>てあて</rt></ruby> をおかけして<ruby>申し訳<rt>もうしわけ</rt></ruby>",
+    "target_word": "お手数",
+    "question": "お忙しいところ、（　　　）をおかけして申し訳ありませんでした。",
+    "question_ruby": "お<ruby>忙しい<rt>いそがしい</rt></ruby>ところ、（　　　）をおかけして<ruby>申し訳<rt>もうしわけ</rt></ruby>ありませんでした。",
     "choices": [
-      "手配",
-      "手入れ",
-      "手数",
-      "手当て"
+      "お世話",
+      "お手本",
+      "お手入れ",
+      "お手数"
     ],
     "choices_ruby": [
-      "<ruby>手配<rt>てはい</rt></ruby>",
-      "<ruby>手入れ<rt>ていれ</rt></ruby>",
-      "<ruby>手数<rt>てすう</rt></ruby>",
-      "<ruby>手当て<rt>てあて</rt></ruby>"
+      "お<ruby>世話<rt>せわ</rt></ruby>",
+      "お<ruby>手本<rt>てほん</rt></ruby>",
+      "お<ruby>手入<rt>てい</rt></ruby>れ",
+      "お<ruby>手数<rt>てすう</rt></ruby>"
     ],
     "answer": 3,
-    "correct_text": "手当て",
+    "correct_text": "お手数",
     "meaning_en": "lam sorry to trouble you when you are so busy.",
     "explanation": "",
     "kanji_info": [
@@ -43029,8 +43029,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "良好",
-    "question": "検査項目はすべて平均的な数値で、健康状態は【良好】です。 。",
-    "question_ruby": "<ruby>検査項目<rt>けんさこうもく</rt></ruby>はすべて<ruby>平均的<rt>へいきんてき</rt></ruby>な<ruby>数値<rt>すうち</rt></ruby>で、<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【良好】</span><rt class=\"target-reading-spoiler\">りょうこう</rt></ruby>です。 。",
+    "question": "検査項目はすべて平均的な数値で、健康状態は【良好】です。",
+    "question_ruby": "<ruby>検査項目<rt>けんさこうもく</rt></ruby>はすべて<ruby>平均的<rt>へいきんてき</rt></ruby>な<ruby>数値<rt>すうち</rt></ruby>で、<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>は<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【良好】</span><rt class=\"target-reading-spoiler\">りょうこう</rt></ruby>です。",
     "choices": [
       "りゅうこう",
       "りょうこう",
@@ -43093,23 +43093,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 795,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "取り入れた",
-    "question": "新しくエネシステムを（　　　）ことにより、熱費が幅に削減できた。",
-    "question_ruby": "<ruby>新しく<rt>あたらしく</rt></ruby>エネシステムを（　　　）ことにより、<ruby>熱<rt>ねつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>が<ruby>幅<rt>はば</rt></ruby>に<ruby>削減<rt>さくげん</rt></ruby>できた。",
+    "target_word": "導入した",
+    "question": "新しく省エネシステムを（　　　）ことにより、光熱費が大幅に削減できた。",
+    "question_ruby": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>省エネ<rt>しょうえね</rt></ruby>システムを（　　　）ことにより、<ruby>光熱費<rt>こうねつひ</rt></ruby>が<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>削減<rt>さくげん</rt></ruby>できた。",
     "choices": [
-      "取り組んだ",
-      "取り込んだ",
-      "取り入れた",
-      "取り上げた"
+      "改修した",
+      "投資した",
+      "活用した",
+      "導入した"
     ],
     "choices_ruby": [
-      "<ruby>取り組んだ<rt>とりくんだ</rt></ruby>",
-      "<ruby>取り込ん<rt>とりこん</rt></ruby>だ",
-      "<ruby>取り入れ<rt>とりいれ</rt></ruby>た",
-      "<ruby>取り上げ<rt>とりあげ</rt></ruby>た"
+      "<ruby>改修<rt>かいしゅう</rt></ruby>した",
+      "<ruby>投資<rt>とうし</rt></ruby>した",
+      "<ruby>活用<rt>かつよう</rt></ruby>した",
+      "<ruby>導入<rt>どうにゅう</rt></ruby>した"
     ],
-    "answer": 2,
-    "correct_text": "取り入れた",
+    "answer": 3,
+    "correct_text": "導入した",
     "meaning_en": "By introducing the new energy saving system, we have been able to drastically cut",
     "explanation": "",
     "kanji_info": [
@@ -43157,32 +43157,32 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 796,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "文法形式の判断",
-    "target_word": "さて",
-    "question": "来週の日曜日に避難訓練を行います。（　　　）雨天の場合は中止です。",
-    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>避難訓練<rt>ひなんくんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。（　　　）<ruby>雨天<rt>うてん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>です。",
+    "category": "文脈規定",
+    "target_word": "なお",
+    "question": "来週の日曜日に避難訓練を行います。（　　　）、雨天の場合は中止です。",
+    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>避難訓練<rt>ひなんくんれん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。（　　　）、<ruby>雨天<rt>うてん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>です。",
     "choices": [
-      "しかも",
+      "なお",
       "ただし",
-      "それどころか",
-      "さて"
+      "それに",
+      "しかも"
     ],
     "choices_ruby": [
-      "しかも",
+      "なお",
       "ただし",
-      "それどころか",
-      "さて"
+      "それに",
+      "しかも"
     ],
-    "answer": 3,
-    "correct_text": "さて",
-    "meaning_en": "There will be an evacuation drill next Sunday. However, it will be cancelled in the",
+    "answer": 0,
+    "correct_text": "なお",
+    "meaning_en": "furthermore; in addition; note that",
     "explanation": "",
     "kanji_info": [
       {
-        "kanji": "偖",
-        "onyomi": "シャ",
-        "kunyomi": "さて",
-        "meaning": "Well, Now"
+        "kanji": "尚",
+        "onyomi": "ショウ",
+        "kunyomi": "なお",
+        "meaning": "Esteem, Furthermore, Still"
       }
     ],
     "similar": [
@@ -43211,18 +43211,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "夏休みに瀬戸内海の美しい（　　　）へ旅行に行きました。",
     "question_ruby": "<ruby>夏休み<rt>なつやすみ</rt></ruby>に<ruby>瀬戸内海<rt>せとないかい</rt></ruby>の<ruby>美しい<rt>うつくしい</rt></ruby>（　　　）へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました。",
     "choices": [
+      "谷",
+      "森",
       "島",
-      "雲",
-      "壁",
-      "塩"
+      "川"
     ],
     "choices_ruby": [
+      "<ruby>谷<rt>たに</rt></ruby>",
+      "<ruby>森<rt>もり</rt></ruby>",
       "<ruby>島<rt>しま</rt></ruby>",
-      "<ruby>雲<rt>くも</rt></ruby>",
-      "<ruby>壁<rt>かべ</rt></ruby>",
-      "<ruby>塩<rt>しお</rt></ruby>"
+      "<ruby>川<rt>かわ</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 2,
     "correct_text": "島",
     "meaning_en": "island",
     "explanation": "",
@@ -43260,20 +43260,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "長時間のウォーキングで少し【膝】が痛くなりました。",
     "question_ruby": "<ruby>長時間<rt>ちょうじかん</rt></ruby>のウォーキングで<ruby>少し<rt>すこし</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【膝】</span><rt class=\"target-reading-spoiler\">ひざ</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なりました。",
     "choices": [
-      "うつる",
+      "ひじ",
       "ひざ",
-      "シーン",
-      "かせぐ"
+      "もも",
+      "すね"
     ],
     "choices_ruby": [
-      "うつる",
+      "ひじ",
       "ひざ",
-      "シーン",
-      "かせぐ"
+      "もも",
+      "すね"
     ],
     "answer": 1,
     "correct_text": "ひざ",
-    "meaning_en": "knee; lap",
+    "meaning_en": "knee",
     "explanation": "",
     "kanji_info": [
       {
@@ -43314,20 +43314,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "この書類の【うら】にアンケートがありますのでご記入ください。",
     "question_ruby": "この<ruby>書類<rt>しょるい</rt></ruby>の【うら】にアンケートがありますのでご<ruby>記入<rt>きにゅう</rt></ruby>ください。",
     "choices": [
-      "羽",
-      "雲",
+      "表",
       "裏",
-      "畑"
+      "底",
+      "奥"
     ],
     "choices_ruby": [
-      "<ruby>羽<rt>はね</rt></ruby>",
-      "<ruby>雲<rt>くも</rt></ruby>",
+      "<ruby>表<rt>おもて</rt></ruby>",
       "<ruby>裏<rt>うら</rt></ruby>",
-      "<ruby>畑<rt>はたけ</rt></ruby>"
+      "<ruby>底<rt>そこ</rt></ruby>",
+      "<ruby>奥<rt>おく</rt></ruby>"
     ],
-    "answer": 2,
+    "answer": 1,
     "correct_text": "裏",
-    "meaning_en": "reverse side",
+    "meaning_en": "back; reverse side",
     "explanation": "",
     "kanji_info": [
       {
@@ -43360,21 +43360,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "城",
-    "question": "歴史ある日本の（　　　）を見学しに行きませんか。",
-    "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>日本<rt>にっぽん</rt></ruby>の（　　　）を<ruby>見学<rt>けんがく</rt></ruby>しに<ruby>行き<rt>いき</rt></ruby>ませんか。",
+    "question": "歴史ある日本の有名な（　　　）を見学しに行きませんか。",
+    "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な（　　　）を<ruby>見学<rt>けんがく</rt></ruby>しに<ruby>行き<rt>いき</rt></ruby>ませんか。",
     "choices": [
-      "裏",
-      "謎",
-      "量",
-      "城"
+      "寺",
+      "城",
+      "橋",
+      "門"
     ],
     "choices_ruby": [
-      "<ruby>裏<rt>うら</rt></ruby>",
-      "<ruby>謎<rt>なぞ</rt></ruby>",
-      "<ruby>量<rt>りょう</rt></ruby>",
-      "<ruby>城<rt>しろ</rt></ruby>"
+      "<ruby>寺<rt>てら</rt></ruby>",
+      "<ruby>城<rt>しろ</rt></ruby>",
+      "<ruby>橋<rt>はし</rt></ruby>",
+      "<ruby>門<rt>もん</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "城",
     "meaning_en": "castle",
     "explanation": "",
@@ -43413,15 +43413,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "お<ruby>買い<rt>かい</rt></ruby><ruby>上げ<rt>あげ</rt></ruby>いただいた<ruby>商品<rt>しょうひん</rt></ruby>を<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【袋】</span><rt class=\"target-reading-spoiler\">ふくろ</rt></ruby>にお<ruby>入れ<rt>いれ</rt></ruby>しますか。",
     "choices": [
       "ふくろ",
-      "かすかな",
-      "すなわち",
-      "ぐっすり"
+      "かご",
+      "つつみ",
+      "はこ"
     ],
     "choices_ruby": [
       "ふくろ",
-      "かすかな",
-      "すなわち",
-      "ぐっすり"
+      "かご",
+      "つつみ",
+      "はこ"
     ],
     "answer": 0,
     "correct_text": "ふくろ",
@@ -43458,23 +43458,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "噂",
-    "question": "駅前に新しいベーカリーができるという【うわさ】を聞きましたよ。",
-    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>ベーカリーができるという【うわさ】を<ruby>聞き<rt>きき</rt></ruby>ましたよ。",
+    "question": "駅前に新しい店ができるという【うわさ】を聞きました。",
+    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby><ruby>店<rt>みせ</rt></ruby>ができるという【うわさ】を<ruby>聞き<rt>きき</rt></ruby>ました。",
     "choices": [
-      "咳",
+      "嘘",
       "噂",
-      "息",
-      "孫"
+      "夢",
+      "話"
     ],
     "choices_ruby": [
-      "<ruby>咳<rt>せき</rt></ruby>",
+      "<ruby>嘘<rt>うそ</rt></ruby>",
       "<ruby>噂<rt>うわさ</rt></ruby>",
-      "<ruby>息<rt>いき</rt></ruby>",
-      "<ruby>孫<rt>まご</rt></ruby>"
+      "<ruby>夢<rt>ゆめ</rt></ruby>",
+      "<ruby>話<rt>はなし</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "噂",
-    "meaning_en": "rumour; report",
+    "meaning_en": "rumour; gossip",
     "explanation": "",
     "kanji_info": [
       {
@@ -43494,16 +43494,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "部屋の（　　　）にある本棚を整理しましょうか。",
     "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>の（　　　）にある<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しましょうか。",
     "choices": [
-      "羽",
-      "胃",
+      "端",
+      "側",
       "隅",
-      "街"
+      "奥"
     ],
     "choices_ruby": [
-      "<ruby>羽<rt>はね</rt></ruby>",
-      "<ruby>胃<rt>い</rt></ruby>",
+      "<ruby>端<rt>はじ</rt></ruby>",
+      "<ruby>側<rt>がわ</rt></ruby>",
       "<ruby>隅<rt>すみ</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>"
+      "<ruby>奥<rt>おく</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "隅",
@@ -43543,18 +43543,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "魚を食べる時は小【骨】に気をつけてくださいね。",
     "question_ruby": "<ruby>魚<rt>さかな</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は<ruby>小<rt>しょう</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【骨】</span><rt class=\"target-reading-spoiler\">ほね</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてくださいね。",
     "choices": [
-      "ほんの",
-      "スター",
-      "えり",
-      "ほね"
+      "ほね",
+      "すじ",
+      "かわ",
+      "ひれ"
     ],
     "choices_ruby": [
-      "ほんの",
-      "スター",
-      "えり",
-      "ほね"
+      "ほね",
+      "すじ",
+      "かわ",
+      "ひれ"
     ],
-    "answer": 3,
+    "answer": 0,
     "correct_text": "ほね",
     "meaning_en": "bone",
     "explanation": "",
@@ -43589,21 +43589,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "咳",
-    "question": "少し【せき】が出ていますが、風邪を引かれたのですか。",
-    "question_ruby": "<ruby>少し<rt>すこし</rt></ruby>【せき】が<ruby>出て<rt>でて</rt></ruby>いますが、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引か<rt>ひか</rt></ruby>れたのですか。",
+    "question": "朝から少し【せき】が出ていますが、風邪を引かれたのですか。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>少し<rt>すこし</rt></ruby>【せき】が<ruby>出て<rt>でて</rt></ruby>いますが、<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引か<rt>ひか</rt></ruby>れたのですか。",
     "choices": [
+      "熱",
       "咳",
-      "街",
-      "謎",
-      "羽"
+      "息",
+      "汗"
     ],
     "choices_ruby": [
+      "<ruby>熱<rt>ねつ</rt></ruby>",
       "<ruby>咳<rt>せき</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>",
-      "<ruby>謎<rt>なぞ</rt></ruby>",
-      "<ruby>羽<rt>はね</rt></ruby>"
+      "<ruby>息<rt>いき</rt></ruby>",
+      "<ruby>汗<rt>あせ</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 1,
     "correct_text": "咳",
     "meaning_en": "cough",
     "explanation": "",
@@ -43622,23 +43622,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "棒",
-    "question": "体操で使う木の（　　　）はどこに置いてありますか。",
-    "question_ruby": "<ruby>体操<rt>たいそう</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>木<rt>き</rt></ruby>の（　　　）はどこに<ruby>置い<rt>おい</rt></ruby>てありますか。",
+    "question": "体操で使う長い木の（　　　）はどこに置いてありますか。",
+    "question_ruby": "<ruby>体操<rt>たいそう</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby><ruby>長い<rt>ながい</rt></ruby><ruby>木<rt>き</rt></ruby>の（　　　）はどこに<ruby>置い<rt>おい</rt></ruby>てありますか。",
     "choices": [
-      "床",
+      "板",
       "棒",
-      "量",
-      "裏"
+      "箱",
+      "紐"
     ],
     "choices_ruby": [
-      "<ruby>床<rt>とこ</rt></ruby>",
+      "<ruby>板<rt>いた</rt></ruby>",
       "<ruby>棒<rt>ぼう</rt></ruby>",
-      "<ruby>量<rt>りょう</rt></ruby>",
-      "<ruby>裏<rt>うら</rt></ruby>"
+      "<ruby>箱<rt>はこ</rt></ruby>",
+      "<ruby>紐<rt>ひも</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "棒",
-    "meaning_en": "pole; rod",
+    "meaning_en": "pole; stick",
     "explanation": "",
     "kanji_info": [
       {
@@ -43671,23 +43671,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "枝",
-    "question": "庭の木の【枝】が伸びてきたので少し剪定しましょうか。",
-    "question_ruby": "<ruby>庭<rt>にわ</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【枝】</span><rt class=\"target-reading-spoiler\">えだ</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>てきたので<ruby>少し<rt>すこし</rt></ruby><ruby>剪定<rt>せんてい</rt></ruby>しましょうか。",
+    "question": "庭の木の【枝】が伸びてきたので少し剪定しましょう。",
+    "question_ruby": "<ruby>庭<rt>にわ</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【枝】</span><rt class=\"target-reading-spoiler\">えだ</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>てきたので<ruby>少し<rt>すこし</rt></ruby><ruby>剪定<rt>せんてい</rt></ruby>しましょう。",
     "choices": [
-      "よる",
-      "なみ",
       "えだ",
-      "ホット"
+      "みき",
+      "はっぱ",
+      "ねっこ"
     ],
     "choices_ruby": [
-      "よる",
-      "なみ",
       "えだ",
-      "ホット"
+      "みき",
+      "はっぱ",
+      "ねっこ"
     ],
-    "answer": 2,
+    "answer": 0,
     "correct_text": "えだ",
-    "meaning_en": "branch; twig",
+    "meaning_en": "branch; bough",
     "explanation": "",
     "kanji_info": [
       {
@@ -43720,23 +43720,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "底",
-    "question": "深い鍋の【そこ】を焦げ付かせないように気をつけてくださいね。",
-    "question_ruby": "<ruby>深い<rt>ふかい</rt></ruby><ruby>鍋<rt>なべ</rt></ruby>の【そこ】を<ruby>焦げ<rt>こげ</rt></ruby><ruby>付か<rt>つか</rt></ruby>せないように<ruby>気<rt>き</rt></ruby>をつけてくださいね。",
+    "question": "深い鍋の【そこ】を焦げ付かせないように気をつけてください。",
+    "question_ruby": "<ruby>深い<rt>ふかい</rt></ruby><ruby>鍋<rt>なべ</rt></ruby>の【そこ】を<ruby>焦げ<rt>こげ</rt></ruby><ruby>付か<rt>つか</rt></ruby>せないように<ruby>気<rt>き</rt></ruby>をつけてください。",
     "choices": [
-      "壁",
-      "骨",
-      "妻",
+      "奥",
+      "角",
+      "縁",
       "底"
     ],
     "choices_ruby": [
-      "<ruby>壁<rt>かべ</rt></ruby>",
-      "<ruby>骨<rt>ほね</rt></ruby>",
-      "<ruby>妻<rt>つま</rt></ruby>",
+      "<ruby>奥<rt>おく</rt></ruby>",
+      "<ruby>角<rt>かく</rt></ruby>",
+      "<ruby>縁<rt>へり</rt></ruby>",
       "<ruby>底<rt>そこ</rt></ruby>"
     ],
     "answer": 3,
     "correct_text": "底",
-    "meaning_en": "bottom; sole",
+    "meaning_en": "bottom",
     "explanation": "",
     "kanji_info": [
       {
@@ -43773,15 +43773,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "お（　　　）さんが<ruby>今度<rt>こんど</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>されるそうですね。",
     "choices": [
       "孫",
-      "襟",
-      "寮",
-      "城"
+      "甥",
+      "姪",
+      "従兄弟"
     ],
     "choices_ruby": [
       "<ruby>孫<rt>まご</rt></ruby>",
-      "<ruby>襟<rt>えり</rt></ruby>",
-      "<ruby>寮<rt>りょう</rt></ruby>",
-      "<ruby>城<rt>しろ</rt></ruby>"
+      "<ruby>甥<rt>おい</rt></ruby>",
+      "<ruby>姪<rt>めい</rt></ruby>",
+      "<ruby>従兄弟<rt>いとこ</rt></ruby>"
     ],
     "answer": 0,
     "correct_text": "孫",
@@ -43821,20 +43821,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "シャツの【襟】が少し曲がっていますよ。",
     "question_ruby": "シャツの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【襟】</span><rt class=\"target-reading-spoiler\">えり</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>曲がっ<rt>まがっ</rt></ruby>ていますよ。",
     "choices": [
-      "まく",
+      "そで",
       "えり",
-      "こえる",
-      "ひく"
+      "すそ",
+      "たけ"
     ],
     "choices_ruby": [
-      "まく",
+      "そで",
       "えり",
-      "こえる",
-      "ひく"
+      "すそ",
+      "たけ"
     ],
     "answer": 1,
     "correct_text": "えり",
-    "meaning_en": "neck; collar",
+    "meaning_en": "collar; lapel",
     "explanation": "",
     "kanji_info": [
       {
@@ -43870,18 +43870,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "駅前にある有名な銅【ぞう】の前で待ち合わせをしましょう。",
     "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>銅<rt>どう</rt></ruby>【ぞう】の<ruby>前<rt>まえ</rt></ruby>で<ruby>待ち合わせ<rt>まちあわせ</rt></ruby>をしましょう。",
     "choices": [
-      "骨",
-      "壁",
+      "造",
       "像",
-      "街"
+      "贈",
+      "増"
     ],
     "choices_ruby": [
-      "<ruby>骨<rt>ほね</rt></ruby>",
-      "<ruby>壁<rt>かべ</rt></ruby>",
+      "<ruby>造<rt>ぞう</rt></ruby>",
       "<ruby>像<rt>ぞう</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>"
+      "<ruby>贈<rt>ぞう</rt></ruby>",
+      "<ruby>増<rt>ぞう</rt></ruby>"
     ],
-    "answer": 2,
+    "answer": 1,
     "correct_text": "像",
     "meaning_en": "statue; image",
     "explanation": "",
@@ -43919,20 +43919,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "この（　　　）は緑が多くてとても住みやすそうですね。",
     "question_ruby": "この（　　　）は<ruby>緑<rt>みどり</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>てとても<ruby>住み<rt>すみ</rt></ruby>やすそうですね。",
     "choices": [
-      "袋",
-      "油",
-      "缶",
-      "街"
+      "道",
+      "街",
+      "国",
+      "港"
     ],
     "choices_ruby": [
-      "<ruby>袋<rt>ふくろ</rt></ruby>",
-      "<ruby>油<rt>あぶら</rt></ruby>",
-      "<ruby>缶<rt>かん</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>"
+      "<ruby>道<rt>みち</rt></ruby>",
+      "<ruby>街<rt>まち</rt></ruby>",
+      "<ruby>国<rt>くに</rt></ruby>",
+      "<ruby>港<rt>みなと</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "街",
-    "meaning_en": "(1) town; (2) street",
+    "meaning_en": "town; city; streets",
     "explanation": "",
     "kanji_info": [
       {
@@ -43969,19 +43969,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "どうぞ<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【奥】</span><rt class=\"target-reading-spoiler\">おく</rt></ruby>のソファ<ruby>席<rt>せき</rt></ruby>へお<ruby>掛け<rt>かけ</rt></ruby>になってください。",
     "choices": [
       "おく",
-      "もどす",
-      "とおす",
-      "かず"
+      "そこ",
+      "うら",
+      "まえ"
     ],
     "choices_ruby": [
       "おく",
-      "もどす",
-      "とおす",
-      "かず"
+      "そこ",
+      "うら",
+      "まえ"
     ],
     "answer": 0,
     "correct_text": "おく",
-    "meaning_en": "interior; inner part",
+    "meaning_en": "interior; inside; inner part",
     "explanation": "",
     "kanji_info": [
       {
@@ -44017,20 +44017,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "今回の京都への一人【たび】はいかがでしたか。",
     "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>への<ruby>一人<rt>ひとり</rt></ruby>【たび】はいかがでしたか。",
     "choices": [
-      "波",
+      "泊",
       "旅",
-      "妻",
-      "街"
+      "遊",
+      "訪"
     ],
     "choices_ruby": [
-      "<ruby>波<rt>なみ</rt></ruby>",
+      "<ruby>泊<rt>はく</rt></ruby>",
       "<ruby>旅<rt>たび</rt></ruby>",
-      "<ruby>妻<rt>つま</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>"
+      "<ruby>遊<rt>ゆう</rt></ruby>",
+      "<ruby>訪<rt>ほう</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "旅",
-    "meaning_en": "travel; trip",
+    "meaning_en": "trip; journey",
     "explanation": "",
     "kanji_info": [
       {
@@ -44066,16 +44066,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "山の上にある（　　　）の水が鏡のように澄んでいますね。",
     "question_ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にある（　　　）の<ruby>水<rt>みず</rt></ruby>が<ruby>鏡<rt>かがみ</rt></ruby>のように<ruby>澄ん<rt>すん</rt></ruby>でいますね。",
     "choices": [
-      "謎",
-      "噂",
+      "海",
+      "川",
       "湖",
-      "庭"
+      "池"
     ],
     "choices_ruby": [
-      "<ruby>謎<rt>なぞ</rt></ruby>",
-      "<ruby>噂<rt>うわさ</rt></ruby>",
+      "<ruby>海<rt>うみ</rt></ruby>",
+      "<ruby>川<rt>かわ</rt></ruby>",
       "<ruby>湖<rt>みずうみ</rt></ruby>",
-      "<ruby>庭<rt>にわ</rt></ruby>"
+      "<ruby>池<rt>いけ</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "湖",
@@ -44115,18 +44115,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "週末はご両【親】と一緒に食事をされるそうですね。",
     "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>はご<ruby>両<rt>りょう</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【親】</span><rt class=\"target-reading-spoiler\">おや</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>をされるそうですね。",
     "choices": [
-      "むげん",
-      "ホール",
-      "はかる",
-      "おや"
+      "しん",
+      "おや",
+      "ひと",
+      "なか"
     ],
     "choices_ruby": [
-      "むげん",
-      "ホール",
-      "はかる",
-      "おや"
+      "しん",
+      "おや",
+      "ひと",
+      "なか"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "おや",
     "meaning_en": "parents",
     "explanation": "",
@@ -44164,20 +44164,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "総務【か】のオフィスはどちらのフロアでしょうか。",
     "question_ruby": "<ruby>総務<rt>そうむ</rt></ruby>【か】のオフィスはどちらのフロアでしょうか。",
     "choices": [
+      "科",
+      "係",
       "課",
-      "列",
-      "油",
-      "羽"
+      "局"
     ],
     "choices_ruby": [
+      "<ruby>科<rt>か</rt></ruby>",
+      "<ruby>係<rt>かかり</rt></ruby>",
       "<ruby>課<rt>か</rt></ruby>",
-      "<ruby>列<rt>れつ</rt></ruby>",
-      "<ruby>油<rt>あぶら</rt></ruby>",
-      "<ruby>羽<rt>はね</rt></ruby>"
+      "<ruby>局<rt>きょく</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 2,
     "correct_text": "課",
-    "meaning_en": "counter for chapters (of a book)",
+    "meaning_en": "section; division",
     "explanation": "",
     "kanji_info": [
       {
@@ -44213,20 +44213,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "山でキノコを採る時は（　　　）キノコに十分気をつけてください。",
     "question_ruby": "<ruby>山<rt>やま</rt></ruby>でキノコを<ruby>採る<rt>とる</rt></ruby><ruby>時<rt>とき</rt></ruby>は（　　　）キノコに<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけてください。",
     "choices": [
-      "旅",
+      "害",
       "毒",
-      "熱",
-      "雷"
+      "痛",
+      "悪"
     ],
     "choices_ruby": [
-      "<ruby>旅<rt>たび</rt></ruby>",
+      "<ruby>害<rt>がい</rt></ruby>",
       "<ruby>毒<rt>どく</rt></ruby>",
-      "<ruby>熱<rt>ねつ</rt></ruby>",
-      "<ruby>雷<rt>かみなり</rt></ruby>"
+      "<ruby>痛<rt>つう</rt></ruby>",
+      "<ruby>悪<rt>あく</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "毒",
-    "meaning_en": "poison; toxicant",
+    "meaning_en": "poison",
     "explanation": "",
     "kanji_info": [
       {
@@ -44262,20 +44262,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "素晴らしい演奏を聴いて【胸】がいっぱいになりました。",
     "question_ruby": "<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>演奏<rt>えんそう</rt></ruby>を<ruby>聴い<rt>きい</rt></ruby>て<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【胸】</span><rt class=\"target-reading-spoiler\">むね</rt></ruby>がいっぱいになりました。",
     "choices": [
-      "まねく",
-      "しるす",
+      "かた",
+      "こし",
       "むね",
-      "くぎる"
+      "うで"
     ],
     "choices_ruby": [
-      "まねく",
-      "しるす",
+      "かた",
+      "こし",
       "むね",
-      "くぎる"
+      "うで"
     ],
     "answer": 2,
     "correct_text": "むね",
-    "meaning_en": "breast; chest",
+    "meaning_en": "chest; heart",
     "explanation": "",
     "kanji_info": [
       {
@@ -44308,23 +44308,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "数",
-    "question": "参加者の【かず】を事前に確認しておきましょう。",
-    "question_ruby": "<ruby>参加者<rt>さんかしゃ</rt></ruby>の【かず】を<ruby>事前<rt>じぜん</rt></ruby>に<ruby>確認し<rt>かくにんし</rt></ruby>ておきましょう。",
+    "question": "イベントの参加者の【かず】を事前に確認しておきましょう。",
+    "question_ruby": "イベントの<ruby>参加者<rt>さんかしゃ</rt></ruby>の【かず】を<ruby>事前<rt>じぜん</rt></ruby>に<ruby>確認し<rt>かくにんし</rt></ruby>ておきましょう。",
     "choices": [
-      "皮",
-      "雷",
-      "塩",
-      "数"
+      "量",
+      "数",
+      "員",
+      "計"
     ],
     "choices_ruby": [
-      "<ruby>皮<rt>かわ</rt></ruby>",
-      "<ruby>雷<rt>かみなり</rt></ruby>",
-      "<ruby>塩<rt>しお</rt></ruby>",
-      "<ruby>数<rt>かず</rt></ruby>"
+      "<ruby>量<rt>りょう</rt></ruby>",
+      "<ruby>数<rt>かず</rt></ruby>",
+      "<ruby>員<rt>いん</rt></ruby>",
+      "<ruby>計<rt>けい</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "数",
-    "meaning_en": "number; figure",
+    "meaning_en": "number; amount",
     "explanation": "",
     "kanji_info": [
       {
@@ -44360,20 +44360,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "このミステリー小説の最後の（　　　）解きがとても見事でしたよ。",
     "question_ruby": "このミステリー<ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の（　　　）<ruby>解き<rt>とき</rt></ruby>がとても<ruby>見事<rt>みごと</rt></ruby>でしたよ。",
     "choices": [
+      "嘘",
       "謎",
-      "咳",
-      "旅",
-      "塩"
+      "罠",
+      "夢"
     ],
     "choices_ruby": [
+      "<ruby>嘘<rt>うそ</rt></ruby>",
       "<ruby>謎<rt>なぞ</rt></ruby>",
-      "<ruby>咳<rt>せき</rt></ruby>",
-      "<ruby>旅<rt>たび</rt></ruby>",
-      "<ruby>塩<rt>しお</rt></ruby>"
+      "<ruby>罠<rt>わな</rt></ruby>",
+      "<ruby>夢<rt>ゆめ</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 1,
     "correct_text": "謎",
-    "meaning_en": "riddle; puzzle",
+    "meaning_en": "mystery; riddle",
     "explanation": "",
     "kanji_info": [
       {
@@ -44404,18 +44404,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "ピカピカに【床】を磨いたのでとても気持ちがいいですね。",
     "question_ruby": "ピカピカに<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【床】</span><rt class=\"target-reading-spoiler\">ゆか</rt></ruby>を<ruby>磨い<rt>みがい</rt></ruby>たのでとても<ruby>気持ち<rt>きもち</rt></ruby>がいいですね。",
     "choices": [
-      "へらす",
       "ゆか",
-      "ゲスト",
-      "コーチ"
+      "かべ",
+      "とこ",
+      "いた"
     ],
     "choices_ruby": [
-      "へらす",
       "ゆか",
-      "ゲスト",
-      "コーチ"
+      "かべ",
+      "とこ",
+      "いた"
     ],
-    "answer": 1,
+    "answer": 0,
     "correct_text": "ゆか",
     "meaning_en": "floor",
     "explanation": "",
@@ -44453,20 +44453,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "このクッキーはいろんな動物の【かたち】をしていて可愛いですね。",
     "question_ruby": "このクッキーはいろんな<ruby>動物<rt>どうぶつ</rt></ruby>の【かたち】をしていて<ruby>可愛い<rt>かわい</rt></ruby>ですね。",
     "choices": [
-      "棒",
-      "課",
+      "様",
+      "型",
       "形",
-      "壁"
+      "体"
     ],
     "choices_ruby": [
-      "<ruby>棒<rt>ぼう</rt></ruby>",
-      "<ruby>課<rt>か</rt></ruby>",
+      "<ruby>様<rt>さま</rt></ruby>",
+      "<ruby>型<rt>かた</rt></ruby>",
       "<ruby>形<rt>かたち</rt></ruby>",
-      "<ruby>壁<rt>かべ</rt></ruby>"
+      "<ruby>体<rt>からだ</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "形",
-    "meaning_en": "shape",
+    "meaning_en": "shape; form",
     "explanation": "",
     "kanji_info": [
       {
@@ -44502,20 +44502,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "寒い夜はみんなで温かいお（　　　）を囲むのが一番ですね。",
     "question_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>夜<rt>よる</rt></ruby>はみんなで<ruby>温かい<rt>あたたかい</rt></ruby>お（　　　）を<ruby>囲む<rt>かこむ</rt></ruby>のが<ruby>一番<rt>いちばん</rt></ruby>ですね。",
     "choices": [
-      "胸",
-      "列",
-      "島",
+      "茶",
+      "酒",
+      "汁",
       "鍋"
     ],
     "choices_ruby": [
-      "<ruby>胸<rt>むね</rt></ruby>",
-      "<ruby>列<rt>れつ</rt></ruby>",
-      "<ruby>島<rt>しま</rt></ruby>",
+      "<ruby>茶<rt>ちゃ</rt></ruby>",
+      "<ruby>酒<rt>さけ</rt></ruby>",
+      "<ruby>汁<rt>しる</rt></ruby>",
       "<ruby>鍋<rt>なべ</rt></ruby>"
     ],
     "answer": 3,
     "correct_text": "鍋",
-    "meaning_en": "saucepan; pot",
+    "meaning_en": "pot; hot pot",
     "explanation": "",
     "kanji_info": [
       {
@@ -44552,15 +44552,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>のカフェを<ruby>開く<rt>ひらく</rt></ruby>のが<ruby>昔<rt>むかし</rt></ruby>からの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【夢】</span><rt class=\"target-reading-spoiler\">ゆめ</rt></ruby>なんです。",
     "choices": [
       "ゆめ",
-      "うめる",
-      "このむ",
-      "いき"
+      "ねがい",
+      "のぞみ",
+      "こころ"
     ],
     "choices_ruby": [
       "ゆめ",
-      "うめる",
-      "このむ",
-      "いき"
+      "ねがい",
+      "のぞみ",
+      "こころ"
     ],
     "answer": 0,
     "correct_text": "ゆめ",
@@ -44597,19 +44597,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "壁",
-    "question": "このお部屋の【かべ】の色、とても明るくて落ち着きますね。",
-    "question_ruby": "このお<ruby>部屋<rt>へや</rt></ruby>の【かべ】の<ruby>色<rt>いろ</rt></ruby>、とても<ruby>明るく<rt>あかるく</rt></ruby>て<ruby>落ち着き<rt>おちつき</rt></ruby>ますね。",
+    "question": "この部屋の【かべ】の色、とても明るくて落ち着きますね。",
+    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>の【かべ】の<ruby>色<rt>いろ</rt></ruby>、とても<ruby>明るく<rt>あかるく</rt></ruby>て<ruby>落ち着き<rt>おちつき</rt></ruby>ますね。",
     "choices": [
-      "噂",
+      "窓",
       "壁",
-      "謎",
-      "油"
+      "塀",
+      "垣"
     ],
     "choices_ruby": [
-      "<ruby>噂<rt>うわさ</rt></ruby>",
+      "<ruby>窓<rt>まど</rt></ruby>",
       "<ruby>壁<rt>かべ</rt></ruby>",
-      "<ruby>謎<rt>なぞ</rt></ruby>",
-      "<ruby>油<rt>あぶら</rt></ruby>"
+      "<ruby>塀<rt>へい</rt></ruby>",
+      "<ruby>垣<rt>かき</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "壁",
@@ -44649,18 +44649,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "海岸で静かな（　　　）の音を聞いていると心が落ち着きますね。",
     "question_ruby": "<ruby>海岸<rt>かいがん</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かな（　　　）の<ruby>音<rt>おと</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>ていると<ruby>心<rt>こころ</rt></ruby>が<ruby>落ち着き<rt>おちつき</rt></ruby>ますね。",
     "choices": [
-      "煙",
-      "列",
+      "風",
       "波",
-      "箸"
+      "潮",
+      "雨"
     ],
     "choices_ruby": [
-      "<ruby>煙<rt>けむり</rt></ruby>",
-      "<ruby>列<rt>れつ</rt></ruby>",
+      "<ruby>風<rt>かぜ</rt></ruby>",
       "<ruby>波<rt>なみ</rt></ruby>",
-      "<ruby>箸<rt>はし</rt></ruby>"
+      "<ruby>潮<rt>しお</rt></ruby>",
+      "<ruby>雨<rt>あめ</rt></ruby>"
     ],
-    "answer": 2,
+    "answer": 1,
     "correct_text": "波",
     "meaning_en": "wave",
     "explanation": "",
@@ -44698,20 +44698,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "大学の【寮】生活にはもう慣れましたか。",
     "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【寮】</span><rt class=\"target-reading-spoiler\">りょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>にはもう<ruby>慣れ<rt>なれ</rt></ruby>ましたか。",
     "choices": [
-      "きりとる",
-      "へる",
-      "つぎつぎ",
-      "りょう"
+      "りょう",
+      "やかた",
+      "やど",
+      "いえ"
     ],
     "choices_ruby": [
-      "きりとる",
-      "へる",
-      "つぎつぎ",
-      "りょう"
+      "りょう",
+      "やかた",
+      "やど",
+      "いえ"
     ],
-    "answer": 3,
+    "answer": 0,
     "correct_text": "りょう",
-    "meaning_en": "hostel; dormitory",
+    "meaning_en": "dormitory",
     "explanation": "",
     "kanji_info": [
       {
@@ -44752,20 +44752,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "遠くでゴロゴロと【かみなり】の音が聞こえてきましたね。",
     "question_ruby": "<ruby>遠く<rt>とおく</rt></ruby>でゴロゴロと【かみなり】の<ruby>音<rt>おと</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えてきましたね。",
     "choices": [
+      "雲",
       "雷",
-      "街",
-      "量",
-      "棒"
+      "電",
+      "嵐"
     ],
     "choices_ruby": [
+      "<ruby>雲<rt>くも</rt></ruby>",
       "<ruby>雷<rt>かみなり</rt></ruby>",
-      "<ruby>街<rt>まち</rt></ruby>",
-      "<ruby>量<rt>りょう</rt></ruby>",
-      "<ruby>棒<rt>ぼう</rt></ruby>"
+      "<ruby>電<rt>でん</rt></ruby>",
+      "<ruby>嵐<rt>あらし</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 1,
     "correct_text": "雷",
-    "meaning_en": "thunder",
+    "meaning_en": "thunder; lightning",
     "explanation": "",
     "kanji_info": [
       {
@@ -44801,16 +44801,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "感動的な映画を見て思わず（　　　）がこぼれました。",
     "question_ruby": "<ruby>感動的<rt>かんどうてき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>思わず<rt>おもわず</rt></ruby>（　　　）がこぼれました。",
     "choices": [
-      "噂",
+      "汗",
       "涙",
-      "塩",
-      "袋"
+      "息",
+      "声"
     ],
     "choices_ruby": [
-      "<ruby>噂<rt>うわさ</rt></ruby>",
+      "<ruby>汗<rt>あせ</rt></ruby>",
       "<ruby>涙<rt>なみだ</rt></ruby>",
-      "<ruby>塩<rt>しお</rt></ruby>",
-      "<ruby>袋<rt>ふくろ</rt></ruby>"
+      "<ruby>息<rt>いき</rt></ruby>",
+      "<ruby>声<rt>こえ</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "涙",
@@ -44850,18 +44850,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "この定食はご飯の【量】がたっぷりあって大満足ですね。",
     "question_ruby": "この<ruby>定食<rt>ていしょく</rt></ruby>はご<ruby>飯<rt>めし</rt></ruby>の<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【量】</span><rt class=\"target-reading-spoiler\">りょう</rt></ruby>がたっぷりあって<ruby>大満足<rt>だいまんぞく</rt></ruby>ですね。",
     "choices": [
-      "たんきな",
-      "とりあう",
       "りょう",
-      "かすかな"
+      "かず",
+      "おもさ",
+      "かさ"
     ],
     "choices_ruby": [
-      "たんきな",
-      "とりあう",
       "りょう",
-      "かすかな"
+      "かず",
+      "おもさ",
+      "かさ"
     ],
-    "answer": 2,
+    "answer": 0,
     "correct_text": "りょう",
     "meaning_en": "quantity; amount",
     "explanation": "",
@@ -44899,20 +44899,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "リンゴの【かわ】を綺麗に剥くのは少しコツがいりますね。",
     "question_ruby": "リンゴの【かわ】を<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>剥く<rt>むく</rt></ruby>のは<ruby>少し<rt>すこし</rt></ruby>コツがいりますね。",
     "choices": [
-      "油",
-      "夢",
-      "涙",
-      "皮"
+      "革",
+      "殻",
+      "皮",
+      "膚"
     ],
     "choices_ruby": [
-      "<ruby>油<rt>あぶら</rt></ruby>",
-      "<ruby>夢<rt>ゆめ</rt></ruby>",
-      "<ruby>涙<rt>なみだ</rt></ruby>",
-      "<ruby>皮<rt>かわ</rt></ruby>"
+      "<ruby>革<rt>かわ</rt></ruby>",
+      "<ruby>殻<rt>から</rt></ruby>",
+      "<ruby>皮<rt>かわ</rt></ruby>",
+      "<ruby>膚<rt>はだ</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 2,
     "correct_text": "皮",
-    "meaning_en": "skin; hide",
+    "meaning_en": "skin; peel",
     "explanation": "",
     "kanji_info": [
       {
@@ -44949,19 +44949,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "お（　　　）に<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>季節<rt>きせつ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲い<rt>さい</rt></ruby>ていて<ruby>見事<rt>みごと</rt></ruby>ですね。",
     "choices": [
       "庭",
-      "煙",
-      "課",
-      "底"
+      "畑",
+      "森",
+      "道"
     ],
     "choices_ruby": [
       "<ruby>庭<rt>にわ</rt></ruby>",
-      "<ruby>煙<rt>けむり</rt></ruby>",
-      "<ruby>課<rt>か</rt></ruby>",
-      "<ruby>底<rt>そこ</rt></ruby>"
+      "<ruby>畑<rt>はたけ</rt></ruby>",
+      "<ruby>森<rt>もり</rt></ruby>",
+      "<ruby>道<rt>みち</rt></ruby>"
     ],
     "answer": 0,
     "correct_text": "庭",
-    "meaning_en": "garden",
+    "meaning_en": "garden; yard",
     "explanation": "",
     "kanji_info": [
       {
@@ -44997,20 +44997,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "人気のアトラクションに乗るため長い【列】に並びました。",
     "question_ruby": "<ruby>人気<rt>にんき</rt></ruby>のアトラクションに<ruby>乗る<rt>のる</rt></ruby>ため<ruby>長い<rt>ながい</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【列】</span><rt class=\"target-reading-spoiler\">れつ</rt></ruby>に<ruby>並び<rt>ならび</rt></ruby>ました。",
     "choices": [
-      "つきる",
       "れつ",
-      "はかる",
-      "かおる"
+      "ぎょう",
+      "すじ",
+      "たば"
     ],
     "choices_ruby": [
-      "つきる",
       "れつ",
-      "はかる",
-      "かおる"
+      "ぎょう",
+      "すじ",
+      "たば"
     ],
-    "answer": 1,
+    "answer": 0,
     "correct_text": "れつ",
-    "meaning_en": "queue; line",
+    "meaning_en": "queue; line; row",
     "explanation": "",
     "kanji_info": [
       {
@@ -45046,16 +45046,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "空き【かん】はリサイクルボックスに分別して捨てましょうね。",
     "question_ruby": "<ruby>空き<rt>あき</rt></ruby>【かん】はリサイクルボックスに<ruby>分別<rt>ふんべつ</rt></ruby>して<ruby>捨て<rt>すて</rt></ruby>ましょうね。",
     "choices": [
-      "奥",
-      "曲",
+      "瓶",
+      "箱",
       "缶",
-      "裏"
+      "筒"
     ],
     "choices_ruby": [
-      "<ruby>奥<rt>おく</rt></ruby>",
-      "<ruby>曲<rt>きょく</rt></ruby>",
+      "<ruby>瓶<rt>かめ</rt></ruby>",
+      "<ruby>箱<rt>はこ</rt></ruby>",
       "<ruby>缶<rt>かん</rt></ruby>",
-      "<ruby>裏<rt>うら</rt></ruby>"
+      "<ruby>筒<rt>つつ</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "缶",
@@ -45095,20 +45095,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "少し（　　　）があるようですので、無理をせず休んでくださいね。",
     "question_ruby": "<ruby>少し<rt>すこし</rt></ruby>（　　　）があるようですので、<ruby>無理<rt>むり</rt></ruby>をせず<ruby>休ん<rt>やすん</rt></ruby>でくださいね。",
     "choices": [
-      "孫",
-      "奥",
-      "旅",
-      "熱"
+      "風邪",
+      "熱",
+      "咳",
+      "痛み"
     ],
     "choices_ruby": [
-      "<ruby>孫<rt>まご</rt></ruby>",
-      "<ruby>奥<rt>おく</rt></ruby>",
-      "<ruby>旅<rt>たび</rt></ruby>",
-      "<ruby>熱<rt>ねつ</rt></ruby>"
+      "<ruby>風邪<rt>かぜ</rt></ruby>",
+      "<ruby>熱<rt>ねつ</rt></ruby>",
+      "<ruby>咳<rt>せき</rt></ruby>",
+      "<ruby>痛み<rt>いたみ</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "熱",
-    "meaning_en": "fever",
+    "meaning_en": "fever; heat",
     "explanation": "",
     "kanji_info": [
       {
@@ -45145,19 +45145,19 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question_ruby": "このクラシックの<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【曲】</span><rt class=\"target-reading-spoiler\">きょく</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>がとても<ruby>安ら<rt>やすら</rt></ruby>ぎますね。",
     "choices": [
       "きょく",
-      "だいぶ",
-      "とうぶん",
-      "じぜんに"
+      "うた",
+      "ふし",
+      "おと"
     ],
     "choices_ruby": [
       "きょく",
-      "だいぶ",
-      "とうぶん",
-      "じぜんに"
+      "うた",
+      "ふし",
+      "おと"
     ],
     "answer": 0,
     "correct_text": "きょく",
-    "meaning_en": "tune; piece of music",
+    "meaning_en": "song; tune; melody",
     "explanation": "",
     "kanji_info": [
       {
@@ -45193,16 +45193,16 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "正しいお【はし】の持ち方を子どもに教えています。",
     "question_ruby": "<ruby>正しい<rt>ただしい</rt></ruby>お【はし】の<ruby>持ち方<rt>もちかた</rt></ruby>を<ruby>子<rt>こ</rt></ruby>どもに<ruby>教え<rt>おしえ</rt></ruby>ています。",
     "choices": [
-      "量",
+      "端",
       "箸",
-      "熱",
-      "底"
+      "匙",
+      "串"
     ],
     "choices_ruby": [
-      "<ruby>量<rt>りょう</rt></ruby>",
+      "<ruby>端<rt>はじ</rt></ruby>",
       "<ruby>箸<rt>はし</rt></ruby>",
-      "<ruby>熱<rt>ねつ</rt></ruby>",
-      "<ruby>底<rt>そこ</rt></ruby>"
+      "<ruby>匙<rt>さじ</rt></ruby>",
+      "<ruby>串<rt>くし</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "箸",
@@ -45230,22 +45230,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "各地",
     "question": "日本（　　　）から桜の開花情報が届いています。",
-    "question_ruby": "日本（　　　）から<ruby>桜<rt>さくら</rt></ruby>の<ruby>開花情報<rt>かいかじょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いています。",
+    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>（　　　）から<ruby>桜<rt>さくら</rt></ruby>の<ruby>開花<rt>かいか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届い<rt>とどい</rt></ruby>ています。",
     "choices": [
-      "無視",
-      "政府",
+      "国内",
+      "各国",
       "各地",
-      "悪化"
+      "地方"
     ],
     "choices_ruby": [
-      "<ruby>無視<rt>むし</rt></ruby>",
-      "<ruby>政府<rt>せいふ</rt></ruby>",
+      "<ruby>国内<rt>こくない</rt></ruby>",
+      "<ruby>各国<rt>かっこく</rt></ruby>",
       "<ruby>各地<rt>かくち</rt></ruby>",
-      "<ruby>悪化<rt>あっか</rt></ruby>"
+      "<ruby>地方<rt>ちほう</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "各地",
-    "meaning_en": "every place; various places",
+    "meaning_en": "every place; various localities",
     "explanation": "",
     "kanji_info": [
       {
@@ -45295,22 +45295,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "各国",
     "question": "世界【各国】の首脳が集まり、環境サミットが開かれた。",
-    "question_ruby": "<ruby>世界<rt>せかい</rt></ruby>【<ruby>各国<rt>かっこく</rt></ruby>】の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>環境<rt>かんきょう</rt></ruby>サミットが<ruby>開<rt>ひら</rt></ruby>かれた。",
+    "question_ruby": "<ruby>世界<rt>せかい</rt></ruby><ruby class=\"target-kanji-reading\"><span class=\"target-word\">【各国】</span><rt class=\"target-reading-spoiler\">かっこく</rt></ruby>の<ruby>首脳<rt>しゅのう</rt></ruby>が<ruby>集まり<rt>あつまり</rt></ruby>、<ruby>環境<rt>かんきょう</rt></ruby>サミットが<ruby>開か<rt>ひらか</rt></ruby>れた。",
     "choices": [
-      "ユニーク",
-      "むかう",
-      "おりたたむ",
-      "かっこく"
+      "ぜんこく",
+      "かっこく",
+      "じこく",
+      "たこく"
     ],
     "choices_ruby": [
-      "ユニーク",
-      "むかう",
-      "おりたたむ",
-      "かっこく"
+      "ぜんこく",
+      "かっこく",
+      "じこく",
+      "たこく"
     ],
-    "answer": 3,
+    "answer": 1,
     "correct_text": "かっこく",
-    "meaning_en": "each country; every country",
+    "meaning_en": "each country; various nations",
     "explanation": "",
     "kanji_info": [
       {
@@ -45360,20 +45360,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "消費",
     "question": "今月の生活費を見直し、【しょうひ】の無駄を減らすことにした。",
-    "question_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>し、【しょうひ】の<ruby>無駄<rt>むだ</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすことにした。",
+    "question_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>見直し<rt>みなおし</rt></ruby>、【しょうひ】の<ruby>無駄<rt>むだ</rt></ruby>を<ruby>減ら<rt>へら</rt></ruby>すことにした。",
     "choices": [
-      "消費",
-      "当分",
-      "無視",
-      "不足"
+      "消皮",
+      "消非",
+      "昇費",
+      "消費"
     ],
     "choices_ruby": [
-      "<ruby>消費<rt>しょうひ</rt></ruby>",
-      "<ruby>当分<rt>とうぶん</rt></ruby>",
-      "<ruby>無視<rt>むし</rt></ruby>",
-      "<ruby>不足<rt>ふそく</rt></ruby>"
+      "<ruby>消<rt>しょう</rt></ruby><ruby>皮<rt>かわ</rt></ruby>",
+      "<ruby>消<rt>しょう</rt></ruby><ruby>非<rt>ひ</rt></ruby>",
+      "<ruby>昇<rt>のぼる</rt></ruby><ruby>費<rt>ひ</rt></ruby>",
+      "<ruby>消費<rt>しょうひ</rt></ruby>"
     ],
-    "answer": 0,
+    "answer": 3,
     "correct_text": "消費",
     "meaning_en": "consumption; expenditure",
     "explanation": "",
@@ -45425,22 +45425,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "女性",
     "question": "近年、社会のさまざまな分野で（　　　）の活躍が期待されている。",
-    "question_ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<ruby>社会<rt>しゃかい</rt></ruby>のさまざまな<ruby>分野<rt>ぶんや</rt></ruby>で（　　　）の<ruby>活躍<rt>かつやく</rt></ruby>が<ruby>期待<rt>きたい</rt></ruby>されている。",
+    "question_ruby": "<ruby>近年<rt>きんねん</rt></ruby>、<ruby>社会<rt>しゃかい</rt></ruby>のさまざまな<ruby>分野<rt>ぶんや</rt></ruby>で（　　　）の<ruby>活躍<rt>かつやく</rt></ruby>が<ruby>期待さ<rt>きたいさ</rt></ruby>れている。",
     "choices": [
-      "新品",
+      "若者",
       "女性",
-      "相性",
-      "不平"
+      "子供",
+      "老人"
     ],
     "choices_ruby": [
-      "<ruby>新品<rt>しんぴん</rt></ruby>",
+      "<ruby>若者<rt>わかもの</rt></ruby>",
       "<ruby>女性<rt>じょせい</rt></ruby>",
-      "<ruby>相性<rt>あいしょう</rt></ruby>",
-      "<ruby>不平<rt>ふへい</rt></ruby>"
+      "<ruby>子供<rt>こども</rt></ruby>",
+      "<ruby>老人<rt>ろうじん</rt></ruby>"
     ],
     "answer": 1,
     "correct_text": "女性",
-    "meaning_en": "woman",
+    "meaning_en": "woman; female",
     "explanation": "",
     "kanji_info": [
       {
@@ -45489,23 +45489,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字表記",
     "target_word": "不足",
-    "question": "睡眠【不足】が続いているので、今夜は早めに寝ようと思う。",
-    "question_ruby": "<ruby>睡眠<rt>すいみん</rt></ruby>【<ruby>不足<rt>ふそく</rt></ruby>】が<ruby>続<rt>つづ</rt></ruby>いているので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>寝<rt>ね</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>う。",
+    "question": "睡眠【ふそく】が続いているので、今夜は早めに寝ようと思う。",
+    "question_ruby": "<ruby>睡眠<rt>すいみん</rt></ruby>【ふそく】が<ruby>続い<rt>つづい</rt></ruby>ているので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>早め<rt>はやめ</rt></ruby>に<ruby>寝よ<rt>ねよ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>。",
     "choices": [
-      "せっきょくてきな",
-      "はなしがあう",
-      "ふそく（する）",
-      "せんきょ（する）"
+      "不測",
+      "不束",
+      "不足",
+      "不即"
     ],
     "choices_ruby": [
-      "せっきょくてきな",
-      "はなしがあう",
-      "ふそく（する）",
-      "せんきょ（する）"
+      "<ruby>不測<rt>ふそく</rt></ruby>",
+      "<ruby>不束<rt>ふつつか</rt></ruby>",
+      "<ruby>不足<rt>ふそく</rt></ruby>",
+      "<ruby>不即<rt>ふそく</rt></ruby>"
     ],
     "answer": 2,
-    "correct_text": "ふそく（する）",
-    "meaning_en": "insufficiency; shortage",
+    "correct_text": "不足",
+    "meaning_en": "shortage; insufficiency",
     "explanation": "",
     "kanji_info": [
       {
@@ -45555,22 +45555,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "変化",
     "question": "季節の【へんか】に合わせて、部屋のカーテンを掛け替えた。",
-    "question_ruby": "<ruby>季節<rt>きせつ</rt></ruby>の【へんか】に<ruby>合<rt>あ</rt></ruby>わせて、<ruby>部屋<rt>へや</rt></ruby>のカーテンを<ruby>掛<rt>か</rt></ruby>け<ruby>替<rt>か</rt></ruby>えた。",
+    "question_ruby": "<ruby>季節<rt>きせつ</rt></ruby>の【へんか】に<ruby>合わ<rt>あわ</rt></ruby>せて、<ruby>部屋<rt>へや</rt></ruby>のカーテンを<ruby>掛け替え<rt>かけがえ</rt></ruby>た。",
     "choices": [
-      "貴店",
-      "選挙",
-      "憲法",
-      "変化"
+      "返化",
+      "変科",
+      "変化",
+      "変火"
     ],
     "choices_ruby": [
-      "<ruby>貴店<rt>きてん</rt></ruby>",
-      "<ruby>選挙<rt>せんきょ</rt></ruby>",
-      "<ruby>憲法<rt>けんぽう</rt></ruby>",
-      "<ruby>変化<rt>へんか</rt></ruby>"
+      "<ruby>返<rt>へん</rt></ruby><ruby>化<rt>か</rt></ruby>",
+      "<ruby>変<rt>へん</rt></ruby><ruby>科<rt>か</rt></ruby>",
+      "<ruby>変化<rt>へんか</rt></ruby>",
+      "<ruby>変<rt>へん</rt></ruby><ruby>火<rt>ひ</rt></ruby>"
     ],
-    "answer": 3,
+    "answer": 2,
     "correct_text": "変化",
-    "meaning_en": "goblin; ghost",
+    "meaning_en": "change; variation",
     "explanation": "",
     "kanji_info": [
       {
@@ -45620,18 +45620,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "不動産",
     "question": "駅前の（　　　）屋で、日当たりの良いアパートを紹介してもらった。",
-    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>の（　　　）<ruby>屋<rt>や</rt></ruby>で、<ruby>日当<rt>ひあ</rt></ruby>たりの<ruby>良<rt>よ</rt></ruby>いアパートを<ruby>紹介<rt>しょうかい</rt></ruby>してもらった。",
+    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>の（　　　）<ruby>屋<rt>や</rt></ruby>で、<ruby>日当たり<rt>ひあたり</rt></ruby>の<ruby>良い<rt>よい</rt></ruby>アパートを<ruby>紹介<rt>しょうかい</rt></ruby>してもらった。",
     "choices": [
       "不動産",
-      "揃える",
-      "困難な",
-      "起こす"
+      "工務店",
+      "商店",
+      "小売"
     ],
     "choices_ruby": [
       "<ruby>不動産<rt>ふどうさん</rt></ruby>",
-      "<ruby>揃え<rt>そろえ</rt></ruby>る",
-      "<ruby>困難<rt>こんなん</rt></ruby>な",
-      "<ruby>起こ<rt>おこ</rt></ruby>す"
+      "<ruby>工務店<rt>こうむてん</rt></ruby>",
+      "<ruby>商店<rt>しょうてん</rt></ruby>",
+      "<ruby>小売<rt>こうり</rt></ruby>"
     ],
     "answer": 0,
     "correct_text": "不動産",
@@ -45691,22 +45691,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "新入生",
     "question": "大学の入学式で、期待に胸を膨らませた【新入生】たちが集まった。",
-    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>入学式<rt>にゅうがくしき</rt></ruby>で、<ruby>期待<rt>きたい</rt></ruby>に<ruby>胸<rt>むね</rt></ruby>を<ruby>膨<rt>ふく</rt></ruby>らませた【<ruby>新入生<rt>しんにゅうせい</rt></ruby>】たちが<ruby>集<rt>あつ</rt></ruby>まった。",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>入学式<rt>にゅうがくしき</rt></ruby>で、<ruby>期待<rt>きたい</rt></ruby>に<ruby>胸<rt>むね</rt></ruby>を<ruby>膨らま<rt>ふくらま</rt></ruby>せた<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【新入生】</span><rt class=\"target-reading-spoiler\">しんにゅうせい</rt></ruby>たちが<ruby>集ま<rt>あつま</rt></ruby>った。",
     "choices": [
-      "せいじょうな",
+      "しんがくせい",
       "しんにゅうせい",
-      "そそっかしい",
-      "こうきゅうかん"
+      "しんせいと",
+      "しんにゅうしゃ"
     ],
     "choices_ruby": [
-      "せいじょうな",
+      "しんがくせい",
       "しんにゅうせい",
-      "そそっかしい",
-      "こうきゅうかん"
+      "しんせいと",
+      "しんにゅうしゃ"
     ],
     "answer": 1,
     "correct_text": "しんにゅうせい",
-    "meaning_en": "freshman; first-year student",
+    "meaning_en": "new student; freshman",
     "explanation": "",
     "kanji_info": [
       {
@@ -45762,22 +45762,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "新鮮な",
     "question": "港町の市場で、朝獲れたばかりの【しんせんな】魚を買った。",
-    "question_ruby": "<ruby>港町<rt>みなとまち</rt></ruby>の<ruby>市場<rt>いちば</rt></ruby>で、<ruby>朝<rt>あさ</rt></ruby><ruby>獲<rt>と</rt></ruby>れたばかりの【しんせんな】<ruby>魚<rt>さかな</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。",
+    "question_ruby": "<ruby>港町<rt>みなとまち</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>で、<ruby>朝<rt>あさ</rt></ruby><ruby>獲<rt>かく</rt></ruby>れたばかりの【しんせんな】<ruby>魚<rt>さかな</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た。",
     "choices": [
-      "手早い",
-      "おごる",
+      "親鮮な",
       "新鮮な",
-      "揺れる"
+      "新選な",
+      "心鮮な"
     ],
     "choices_ruby": [
-      "<ruby>手早い<rt>てばやい</rt></ruby>",
-      "おごる",
+      "<ruby>親<rt>おや</rt></ruby><ruby>鮮<rt>せん</rt></ruby>な",
       "<ruby>新鮮<rt>しんせん</rt></ruby>な",
-      "<ruby>揺れ<rt>ゆれ</rt></ruby>る"
+      "<ruby>新選<rt>しんせん</rt></ruby>な",
+      "<ruby>心<rt>こころ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>な"
     ],
-    "answer": 2,
+    "answer": 1,
     "correct_text": "新鮮な",
-    "meaning_en": "",
+    "meaning_en": "fresh",
     "explanation": "",
     "kanji_info": [
       {
@@ -45825,24 +45825,24 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "id": 848,
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
-    "target_word": "不安な",
+    "target_word": "不安",
     "question": "初めての海外生活に（　　　）を感じていたが、友達ができて安心した。",
-    "question_ruby": "<ruby>初<rt>はじ</rt></ruby>めての<ruby>海外生活<rt>かいがいせいかつ</rt></ruby>に（　　　）を<ruby>感<rt>かん</rt></ruby>じていたが、<ruby>友達<rt>ともだち</rt></ruby>ができて<ruby>安心<rt>あんしん</rt></ruby>した。",
+    "question_ruby": "<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>海外生活<rt>かいがいせいかつ</rt></ruby>に（　　　）を<ruby>感じ<rt>かんじ</rt></ruby>ていたが、<ruby>友達<rt>ともだち</rt></ruby>ができて<ruby>安心し<rt>あんしんし</rt></ruby>た。",
     "choices": [
-      "かゆい",
-      "パスタ",
-      "命じる",
-      "不安な"
+      "期待",
+      "不安",
+      "不満",
+      "退屈"
     ],
     "choices_ruby": [
-      "かゆい",
-      "パスタ",
-      "<ruby>命じ<rt>めいじ</rt></ruby>る",
-      "<ruby>不安<rt>ふあん</rt></ruby>な"
+      "<ruby>期待<rt>きたい</rt></ruby>",
+      "<ruby>不安<rt>ふあん</rt></ruby>",
+      "<ruby>不満<rt>ふまん</rt></ruby>",
+      "<ruby>退屈<rt>たいくつ</rt></ruby>"
     ],
-    "answer": 3,
-    "correct_text": "不安な",
-    "meaning_en": "",
+    "answer": 1,
+    "correct_text": "不安",
+    "meaning_en": "anxiety; uneasiness",
     "explanation": "",
     "kanji_info": [
       {
@@ -45892,22 +45892,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "不思議な",
     "question": "夜空を見上げていると、星が流れる【不思議な】光景を目にした。",
-    "question_ruby": "<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げていると、<ruby>星<rt>ほし</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れる【<ruby>不思議<rt>ふしぎ</rt></ruby>な】<ruby>光景<rt>こうけい</rt></ruby>を<ruby>目<rt>め</rt></ruby>にした。",
+    "question_ruby": "<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上げ<rt>みあげ</rt></ruby>ていると、<ruby>星<rt>ほし</rt></ruby>が<ruby>流れ<rt>ながれ</rt></ruby>る<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【不思議な】</span><rt class=\"target-reading-spoiler\">ふしぎな</rt></ruby><ruby>光景<rt>こうけい</rt></ruby>を<ruby>目<rt>め</rt></ruby>にした。",
     "choices": [
       "ふしぎな",
-      "ぎりぎり",
-      "たたむ",
-      "きびしい"
+      "ふしきな",
+      "ぶしぎな",
+      "ぶしきな"
     ],
     "choices_ruby": [
       "ふしぎな",
-      "ぎりぎり",
-      "たたむ",
-      "きびしい"
+      "ふしきな",
+      "ぶしぎな",
+      "ぶしきな"
     ],
     "answer": 0,
     "correct_text": "ふしぎな",
-    "meaning_en": "",
+    "meaning_en": "mysterious; strange",
     "explanation": "",
     "kanji_info": [
       {
@@ -45963,22 +45963,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "不便な",
     "question": "バスが1時間に1本しか来ないため、交通が【ふべんな】地域だ。",
-    "question_ruby": "バスが1<ruby>時間<rt>じかん</rt></ruby>に1<ruby>本<rt>ぽん</rt></ruby>しか<ruby>来<rt>こ</rt></ruby>ないため、<ruby>交通<rt>こうつう</rt></ruby>が【ふべんな】<ruby>地域<rt>ちいき</rt></ruby>だ。",
+    "question_ruby": "バスが1<ruby>時間<rt>じかん</rt></ruby>に1<ruby>本<rt>ほん</rt></ruby>しか<ruby>来ない<rt>こない</rt></ruby>ため、<ruby>交通<rt>こうつう</rt></ruby>が【ふべんな】<ruby>地域<rt>ちいき</rt></ruby>だ。",
     "choices": [
-      "目指す",
-      "不便な",
-      "適切な",
-      "新たな"
+      "不偏な",
+      "不変な",
+      "不辨な",
+      "不便な"
     ],
     "choices_ruby": [
-      "<ruby>目指す<rt>めざす</rt></ruby>",
-      "<ruby>不便<rt>ふべん</rt></ruby>な",
-      "<ruby>適切<rt>てきせつ</rt></ruby>な",
-      "<ruby>新た<rt>あらた</rt></ruby>な"
+      "<ruby>不偏<rt>ふへん</rt></ruby>な",
+      "<ruby>不変<rt>ふへん</rt></ruby>な",
+      "<ruby>不辨<rt>ふべん</rt></ruby>な",
+      "<ruby>不便<rt>ふべん</rt></ruby>な"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "不便な",
-    "meaning_en": "",
+    "meaning_en": "inconvenient",
     "explanation": "",
     "kanji_info": [
       {
@@ -46027,21 +46027,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "アイデア",
-    "question": "会議で全員から新しい（　　　）を募集することにした。",
-    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい（　　　）を<ruby>募集<rt>ぼしゅう</rt></ruby>することにした。",
+    "question": "会議で全員から新しい企画の（　　　）を募集することにした。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>から<ruby>新しい<rt>あたらしい</rt></ruby><ruby>企画<rt>きかく</rt></ruby>の（　　　）を<ruby>募集<rt>ぼしゅう</rt></ruby>することにした。",
     "choices": [
-      "アシスタント",
-      "ツアー",
-      "アイデア",
-      "ボウリング"
+      "テーマ",
+      "ヒント",
+      "プラン",
+      "アイデア"
     ],
     "choices_ruby": [
-      "アシスタント",
-      "ツアー",
-      "アイデア",
-      "ボウリング"
+      "テーマ",
+      "ヒント",
+      "プラン",
+      "アイデア"
     ],
-    "answer": 2,
+    "answer": 3,
     "correct_text": "アイデア",
     "meaning_en": "idea",
     "explanation": "",
@@ -46067,25 +46067,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 852,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ウイルス",
-    "question": "パソコンが【ウイルス】に感染してしまい、データが消えてしまった。",
-    "question_ruby": "パソコンが【ウイルス】に<ruby>感染<rt>かんせん</rt></ruby>してしまい、データが<ruby>消<rt>き</rt></ruby>えてしまった。",
+    "question": "パソコンが（　　　）に感染してしまい、大切なデータが消えてしまった。",
+    "question_ruby": "パソコンが（　　　）に<ruby>感染<rt>かんせん</rt></ruby>してしまい、<ruby>大切<rt>たいせつ</rt></ruby>なデータが<ruby>消え<rt>きえ</rt></ruby>てしまった。",
     "choices": [
-      "ダイナミック",
-      "ガソリンスタンド",
-      "ショップ",
+      "システム",
+      "プログラム",
+      "エラー",
       "ウイルス"
     ],
     "choices_ruby": [
-      "ダイナミック",
-      "ガソリンスタンド",
-      "ショップ",
+      "システム",
+      "プログラム",
+      "エラー",
       "ウイルス"
     ],
     "answer": 3,
     "correct_text": "ウイルス",
-    "meaning_en": "virus",
+    "meaning_en": "virus (computer)",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46109,25 +46109,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 853,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "クラブ",
-    "question": "大学に入学したら、テニスの【クラブ】に入ろうと思っている。",
-    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>したら、テニスの【クラブ】に<ruby>入<rt>はい</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>っている。",
+    "question": "大学に入学したら、テニスの（　　　）に入ろうと思っている。",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>したら、テニスの（　　　）に<ruby>入ろ<rt>いろ</rt></ruby>うと<ruby>思って<rt>おもって</rt></ruby>いる。",
     "choices": [
       "クラブ",
-      "ホール",
-      "シーン",
-      "レッスン"
+      "クラス",
+      "コース",
+      "スクール"
     ],
     "choices_ruby": [
       "クラブ",
-      "ホール",
-      "シーン",
-      "レッスン"
+      "クラス",
+      "コース",
+      "スクール"
     ],
     "answer": 0,
     "correct_text": "クラブ",
-    "meaning_en": "club; crab",
+    "meaning_en": "club",
     "explanation": "",
     "kanji_info": [
       {
@@ -46183,22 +46183,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "エネルギー",
     "question": "太陽光や風力などの再生可能（　　　）の普及が進んでいる。",
-    "question_ruby": "<ruby>太陽光<rt>たいようこう</rt></ruby>や<ruby>風力<rt>ふうりょく</rt></ruby>などの<ruby>再生可能<rt>さいせいかのう</rt></ruby>（　　　）の<ruby>普及<rt>ふきゅう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいる。",
+    "question_ruby": "<ruby>太陽光<rt>たいようこう</rt></ruby>や<ruby>風力<rt>ふうりょく</rt></ruby>などの<ruby>再生可能<rt>さいせいかのう</rt></ruby>（　　　）の<ruby>普及<rt>ふきゅう</rt></ruby>が<ruby>進ん<rt>すすん</rt></ruby>でいる。",
     "choices": [
-      "イラスト",
-      "エネルギー",
-      "ホームページ",
-      "ファッション"
+      "リソース",
+      "パワー",
+      "エンジン",
+      "エネルギー"
     ],
     "choices_ruby": [
-      "イラスト",
-      "エネルギー",
-      "ホームページ",
-      "ファッション"
+      "リソース",
+      "パワー",
+      "エンジン",
+      "エネルギー"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "エネルギー",
-    "meaning_en": "(n) energy (de: Energie)",
+    "meaning_en": "energy",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46222,25 +46222,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 855,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "グラウンド",
-    "question": "放課後、生徒たちが【グラウンド】でサッカーの練習をしている。",
-    "question_ruby": "<ruby>放課後<rt>ほうかご</rt></ruby>、<ruby>生徒<rt>せいと</rt></ruby>たちが【グラウンド】でサッカーの<ruby>練習<rt>れんしゅう</rt></ruby>をしている。",
+    "question": "放課後、生徒たちが広い（　　　）でサッカーの練習をしている。",
+    "question_ruby": "<ruby>放課後<rt>ほうかご</rt></ruby>、<ruby>生徒<rt>せいと</rt></ruby>たちが<ruby>広い<rt>ひろい</rt></ruby>（　　　）でサッカーの<ruby>練習<rt>れんしゅう</rt></ruby>をしている。",
     "choices": [
-      "メーカー",
-      "タイヤ",
-      "グラウンド",
-      "マーケット"
+      "コート",
+      "ステージ",
+      "ホール",
+      "グラウンド"
     ],
     "choices_ruby": [
-      "メーカー",
-      "タイヤ",
-      "グラウンド",
-      "マーケット"
+      "コート",
+      "ステージ",
+      "ホール",
+      "グラウンド"
     ],
-    "answer": 2,
+    "answer": 3,
     "correct_text": "グラウンド",
-    "meaning_en": "sports ground",
+    "meaning_en": "ground; sports field",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46264,23 +46264,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 856,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "アジア",
-    "question": "日本をはじめとする【アジア】諸国の経済成長が著しい。",
-    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>をはじめとする【アジア】<ruby>諸国<rt>しょこく</rt></ruby>の<ruby>経済成長<rt>けいざいせいちょう</rt></ruby>が<ruby>著<rt>いちじる</rt></ruby>しい。",
+    "question": "日本をはじめとする（　　　）諸国の経済成長が著しい。",
+    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>をはじめとする（　　　）<ruby>諸国<rt>しょこく</rt></ruby>の<ruby>経済成長<rt>けいざいせいちょう</rt></ruby>が<ruby>著しい<rt>いちじるしい</rt></ruby>。",
     "choices": [
-      "プレッシャー",
-      "セミナー",
-      "スープ",
-      "アジア"
+      "ヨーロッパ",
+      "アフリカ",
+      "アジア",
+      "アメリカ"
     ],
     "choices_ruby": [
-      "プレッシャー",
-      "セミナー",
-      "スープ",
-      "アジア"
+      "ヨーロッパ",
+      "アフリカ",
+      "アジア",
+      "アメリカ"
     ],
-    "answer": 3,
+    "answer": 2,
     "correct_text": "アジア",
     "meaning_en": "Asia",
     "explanation": "",
@@ -46332,18 +46332,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "エプロン",
     "question": "料理をする前に、服が汚れないよう（　　　）をつけた。",
-    "question_ruby": "<ruby>料理<rt>りょうり</rt></ruby>をする<ruby>前<rt>まえ</rt></ruby>に、<ruby>服<rt>ふく</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れないよう（　　　）をつけた。",
+    "question_ruby": "<ruby>料理<rt>りょうり</rt></ruby>をする<ruby>前<rt>まえ</rt></ruby>に、<ruby>服<rt>ふく</rt></ruby>が<ruby>汚れ<rt>よごれ</rt></ruby>ないよう（　　　）をつけた。",
     "choices": [
       "エプロン",
-      "ゼミ",
-      "ランチタイム",
-      "ショック"
+      "スカーフ",
+      "タオル",
+      "マスク"
     ],
     "choices_ruby": [
       "エプロン",
-      "ゼミ",
-      "ランチタイム",
-      "ショック"
+      "スカーフ",
+      "タオル",
+      "マスク"
     ],
     "answer": 0,
     "correct_text": "エプロン",
@@ -46371,23 +46371,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 858,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "グループ",
-    "question": "授業で4人ずつの【グループ】に分かれてディスカッションを行った。",
-    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>で4<ruby>人<rt>にん</rt></ruby>ずつの【グループ】に<ruby>分<rt>わ</rt></ruby>かれてディスカッションを<ruby>行<rt>おこな</rt></ruby>った。",
+    "question": "授業で4人ずつの（　　　）に分かれてディスカッションを行った。",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>で4<ruby>人<rt>にん</rt></ruby>ずつの（　　　）に<ruby>分<rt>わ</rt></ruby>かれてディスカッションを<ruby>行った<rt>いった</rt></ruby>。",
     "choices": [
-      "ビュッフェ",
-      "グループ",
-      "プログラム",
-      "アルファベット"
+      "ペア",
+      "チーム",
+      "クラス",
+      "グループ"
     ],
     "choices_ruby": [
-      "ビュッフェ",
-      "グループ",
-      "プログラム",
-      "アルファベット"
+      "ペア",
+      "チーム",
+      "クラス",
+      "グループ"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "グループ",
     "meaning_en": "group",
     "explanation": "",
@@ -46413,25 +46413,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 859,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "コマーシャル",
-    "question": "テレビの【コマーシャル】で話題の人気商品を買ってみた。",
-    "question_ruby": "テレビの【コマーシャル】で<ruby>話題<rt>わだい</rt></ruby>の<ruby>人気商品<rt>にんきしょうひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってみた。",
+    "question": "テレビの（　　　）で話題の人気商品を買ってみた。",
+    "question_ruby": "テレビの（　　　）で<ruby>話題<rt>わだい</rt></ruby>の<ruby>人気商品<rt>にんきしょうひん</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てみた。",
     "choices": [
-      "サークル",
-      "レシピ",
+      "ニュース",
+      "インタビュー",
       "コマーシャル",
-      "ミーティング"
+      "ドラマ"
     ],
     "choices_ruby": [
-      "サークル",
-      "レシピ",
+      "ニュース",
+      "インタビュー",
       "コマーシャル",
-      "ミーティング"
+      "ドラマ"
     ],
     "answer": 2,
     "correct_text": "コマーシャル",
-    "meaning_en": "a commercial",
+    "meaning_en": "commercial; CM",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46458,17 +46458,17 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "オフィス",
     "question": "駅から徒歩5分の便利な場所に新しい（　　　）を構えた。",
-    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>徒歩<rt>とほ</rt></ruby>5<ruby>分<rt>ふん</rt></ruby>の<ruby>便利<rt>べんり</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい（　　　）を<ruby>構<rt>かま</rt></ruby>えた。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>徒歩<rt>とほ</rt></ruby>5<ruby>分<rt>ふん</rt></ruby>の<ruby>便利<rt>べんり</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>新しい<rt>あたらしい</rt></ruby>（　　　）を<ruby>構え<rt>かまえ</rt></ruby>た。",
     "choices": [
-      "ロケット",
-      "オリンピック",
-      "プライド",
+      "ファクトリー",
+      "スタジオ",
+      "サロン",
       "オフィス"
     ],
     "choices_ruby": [
-      "ロケット",
-      "オリンピック",
-      "プライド",
+      "ファクトリー",
+      "スタジオ",
+      "サロン",
       "オフィス"
     ],
     "answer": 3,
@@ -46497,21 +46497,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 861,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "コンビニ",
-    "question": "夜遅くに小腹が空いたので、近くの【コンビニ】へ夜食を買いに行った。",
-    "question_ruby": "<ruby>夜遅<rt>よるおそ</rt></ruby>くに<ruby>小腹<rt>こばら</rt></ruby>が<ruby>空<rt>す</rt></ruby>いたので、<ruby>近<rt>ちか</rt></ruby>くの【コンビニ】へ<ruby>夜食<rt>やしょく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>った。",
+    "question": "夜遅くに小腹が空いたので、近くの（　　　）へ夜食を買いに行った。",
+    "question_ruby": "<ruby>夜遅く<rt>よるおそく</rt></ruby>に<ruby>小腹<rt>こばら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>たので、<ruby>近く<rt>ちかく</rt></ruby>の（　　　）へ<ruby>夜食<rt>やしょく</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>。",
     "choices": [
       "コンビニ",
-      "バーコード",
-      "レッスン",
-      "マイク"
+      "デパート",
+      "モール",
+      "スタンド"
     ],
     "choices_ruby": [
       "コンビニ",
-      "バーコード",
-      "レッスン",
-      "マイク"
+      "デパート",
+      "モール",
+      "スタンド"
     ],
     "answer": 0,
     "correct_text": "コンビニ",
@@ -46539,25 +46539,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 862,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "アナウンサー",
-    "question": "彼女は小学生の頃からテレビの【アナウンサー】になるのが夢だった。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>からテレビの【アナウンサー】になるのが<ruby>夢<rt>ゆめ</rt></ruby>だった。",
+    "question": "彼女は小学生の頃からテレビの（　　　）になるのが夢だった。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>頃<rt>ごろ</rt></ruby>からテレビの（　　　）になるのが<ruby>夢<rt>ゆめ</rt></ruby>だった。",
     "choices": [
-      "トンネル",
-      "アナウンサー",
-      "クラブ",
-      "クイズ"
+      "リポーター",
+      "キャスター",
+      "ライター",
+      "アナウンサー"
     ],
     "choices_ruby": [
-      "トンネル",
-      "アナウンサー",
-      "クラブ",
-      "クイズ"
+      "リポーター",
+      "キャスター",
+      "ライター",
+      "アナウンサー"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "アナウンサー",
-    "meaning_en": "announcer",
+    "meaning_en": "announcer; broadcaster",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46583,23 +46583,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "オリンピック",
-    "question": "4年に一度開催される（　　　）で、多くの選手が記録を更新した。",
-    "question_ruby": "4<ruby>年<rt>ねん</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby><ruby>開催<rt>かいさい</rt></ruby>される（　　　）で、<ruby>多<rt>おお</rt></ruby>くの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>記録<rt>きろく</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>した。",
+    "question": "4年に一度開催される（　　　）で、多くの選手が新記録を更新した。",
+    "question_ruby": "4<ruby>年<rt>ねん</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby><ruby>開催<rt>かいさい</rt></ruby>される（　　　）で、<ruby>多く<rt>おおく</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>新記録<rt>しんきろく</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>した。",
     "choices": [
-      "ソフトウェア",
-      "マネージャー",
+      "トーナメント",
+      "フェスティバル",
       "オリンピック",
-      "オフィス"
+      "リーグ"
     ],
     "choices_ruby": [
-      "ソフトウェア",
-      "マネージャー",
+      "トーナメント",
+      "フェスティバル",
       "オリンピック",
-      "オフィス"
+      "リーグ"
     ],
     "answer": 2,
     "correct_text": "オリンピック",
-    "meaning_en": "Olympics",
+    "meaning_en": "Olympic Games",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46623,20 +46623,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 864,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "カップ",
-    "question": "温かいコーヒーを陶器の【カップ】に注いで一息ついた。",
-    "question_ruby": "<ruby>温<rt>あたた</rt></ruby>かいコーヒーを<ruby>陶器<rt>とうき</rt></ruby>の【カップ】に<ruby>注<rt>そそ</rt></ruby>いで<ruby>一息<rt>ひといき</rt></ruby>ついた。",
+    "question": "温かいコーヒーを陶器の（　　　）に注いで一息ついた。",
+    "question_ruby": "<ruby>温かい<rt>あたたかい</rt></ruby>コーヒーを<ruby>陶器<rt>とうき</rt></ruby>の（　　　）に<ruby>注い<rt>そそい</rt></ruby>で<ruby>一息<rt>ひといき</rt></ruby>ついた。",
     "choices": [
-      "コンビニ",
-      "ピクニック",
-      "スクール",
+      "ボトル",
+      "ポット",
+      "グラス",
       "カップ"
     ],
     "choices_ruby": [
-      "コンビニ",
-      "ピクニック",
-      "スクール",
+      "ボトル",
+      "ポット",
+      "グラス",
       "カップ"
     ],
     "answer": 3,
@@ -46665,25 +46665,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 865,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "サークル",
-    "question": "週末は写真好きが集まる【サークル】で撮影会を行っている。",
-    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>写真好<rt>しゃしんず</rt></ruby>きが<ruby>集<rt>あつ</rt></ruby>まる【サークル】で<ruby>撮影会<rt>さつえいかい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っている。",
+    "question": "大学では写真好きが集まる（　　　）で週末に撮影会を行っている。",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>では<ruby>写真<rt>しゃしん</rt></ruby><ruby>好き<rt>すき</rt></ruby>が<ruby>集まる<rt>あつまる</rt></ruby>（　　　）で<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>撮影会<rt>さつえいかい</rt></ruby>を<ruby>行って<rt>いって</rt></ruby>いる。",
     "choices": [
       "サークル",
-      "パスタ",
-      "ラーメン",
-      "コーチ"
+      "ゼミ",
+      "クラス",
+      "スクール"
     ],
     "choices_ruby": [
       "サークル",
-      "パスタ",
-      "ラーメン",
-      "コーチ"
+      "ゼミ",
+      "クラス",
+      "スクール"
     ],
     "answer": 0,
     "correct_text": "サークル",
-    "meaning_en": "circle; sports club (i.e. at a company)",
+    "meaning_en": "circle; university club",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46710,22 +46710,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "カフェ",
     "question": "静かな（　　　）でジャズを聴きながら、ゆっくり読書を楽しんだ。",
-    "question_ruby": "<ruby>静<rt>しず</rt></ruby>かな（　　　）でジャズを<ruby>聴<rt>き</rt></ruby>きながら、ゆっくり<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだ。",
+    "question_ruby": "<ruby>静<rt>しず</rt></ruby>かな（　　　）でジャズを<ruby>聴き<rt>きき</rt></ruby>ながら、ゆっくり<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んだ。",
     "choices": [
-      "オリエンテーション",
-      "カフェ",
-      "フルーツ",
-      "トンネル"
+      "バー",
+      "ラウンジ",
+      "ダイナー",
+      "カフェ"
     ],
     "choices_ruby": [
-      "オリエンテーション",
-      "カフェ",
-      "フルーツ",
-      "トンネル"
+      "バー",
+      "ラウンジ",
+      "ダイナー",
+      "カフェ"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "カフェ",
-    "meaning_en": "café; cafe",
+    "meaning_en": "cafe",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46754,25 +46754,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 867,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "サイト",
-    "question": "インターネットの公式【サイト】で最新の試験情報を確認した。",
-    "question_ruby": "インターネットの<ruby>公式<rt>こうしき</rt></ruby>【サイト】で<ruby>最新<rt>さいしん</rt></ruby>の<ruby>試験情報<rt>しけんじょうほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。",
+    "question": "インターネットの公式（　　　）で最新の試験情報を確認した。",
+    "question_ruby": "インターネットの<ruby>公式<rt>こうしき</rt></ruby>（　　　）で<ruby>最新<rt>さいしん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認し<rt>かくにんし</rt></ruby>た。",
     "choices": [
-      "ムード",
-      "マイク",
+      "アプリ",
+      "ブログ",
       "サイト",
-      "ベランダ"
+      "サーバー"
     ],
     "choices_ruby": [
-      "ムード",
-      "マイク",
+      "アプリ",
+      "ブログ",
       "サイト",
-      "ベランダ"
+      "サーバー"
     ],
     "answer": 2,
     "correct_text": "サイト",
-    "meaning_en": "site",
+    "meaning_en": "website",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46796,20 +46796,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 868,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "アレルギー",
-    "question": "卵【アレルギー】があるので、食品を買うときは原材料をよく確認する。",
-    "question_ruby": "<ruby>卵<rt>たまご</rt></ruby>【アレルギー】があるので、<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>うときは<ruby>原材料<rt>げんざいりょう</rt></ruby>をよく<ruby>確認<rt>かくにん</rt></ruby>する。",
+    "question": "卵（　　　）があるので、食品を買うときは原材料をよく確認する。",
+    "question_ruby": "<ruby>卵<rt>たまご</rt></ruby>（　　　）があるので、<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>ときは<ruby>原材料<rt>げんざいりょう</rt></ruby>をよく<ruby>確認す<rt>かくにんす</rt></ruby>る。",
     "choices": [
-      "ブランコ",
-      "アマチュア",
-      "ファイル",
+      "ショック",
+      "ストレス",
+      "トラブル",
       "アレルギー"
     ],
     "choices_ruby": [
-      "ブランコ",
-      "アマチュア",
-      "ファイル",
+      "ショック",
+      "ストレス",
+      "トラブル",
       "アレルギー"
     ],
     "answer": 3,
@@ -46841,22 +46841,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "カラオケ",
     "question": "仕事帰りに同僚と（　　　）に行って、大声で歌ってストレスを発散した。",
-    "question_ruby": "<ruby>仕事帰<rt>しごとがえ</rt></ruby>りに<ruby>同僚<rt>どうりょう</rt></ruby>と（　　　）に<ruby>行<rt>い</rt></ruby>って、<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>ってストレスを<ruby>発散<rt>はっさん</rt></ruby>した。",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby><ruby>帰り<rt>かえり</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>と（　　　）に<ruby>行って<rt>いって</rt></ruby>、<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>歌っ<rt>うたっ</rt></ruby>てストレスを<ruby>発散<rt>はっさん</rt></ruby>した。",
     "choices": [
       "カラオケ",
-      "リズム",
-      "ヒント",
-      "ファッション"
+      "ライブハウス",
+      "ボウリング",
+      "パブ"
     ],
     "choices_ruby": [
       "カラオケ",
-      "リズム",
-      "ヒント",
-      "ファッション"
+      "ライブハウス",
+      "ボウリング",
+      "パブ"
     ],
     "answer": 0,
     "correct_text": "カラオケ",
-    "meaning_en": "空オケ[n]karaoke",
+    "meaning_en": "karaoke",
     "explanation": "",
     "kanji_info": [
       {
@@ -46887,23 +46887,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 870,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "サンプル",
-    "question": "化粧品を購入する前に、無料の【サンプル】をもらって肌に合うか試した。",
-    "question_ruby": "<ruby>化粧品<rt>けしょうひん</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>無料<rt>むりょう</rt></ruby>の【サンプル】をもらって<ruby>肌<rt>はだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うか<ruby>試<rt>ため</rt></ruby>した。",
+    "question": "化粧品を購入する前に、無料の（　　　）をもらって肌に合うか試した。",
+    "question_ruby": "<ruby>化粧品<rt>けしょうひん</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>無料<rt>むりょう</rt></ruby>の（　　　）をもらって<ruby>肌<rt>はだ</rt></ruby>に<ruby>合う<rt>あう</rt></ruby>か<ruby>試し<rt>ためし</rt></ruby>た。",
     "choices": [
-      "ツアーガイド",
-      "サンプル",
-      "バスケット",
-      "ミニ"
+      "クーポン",
+      "チケット",
+      "カタログ",
+      "サンプル"
     ],
     "choices_ruby": [
-      "ツアーガイド",
-      "サンプル",
-      "バスケット",
-      "ミニ"
+      "クーポン",
+      "チケット",
+      "カタログ",
+      "サンプル"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "サンプル",
     "meaning_en": "sample",
     "explanation": "",
@@ -46929,25 +46929,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 871,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "アンケート",
-    "question": "サービス向上のため、お客様に【アンケート】へのご協力をお願いした。",
-    "question_ruby": "サービス<ruby>向上<rt>こうじょう</rt></ruby>のため、お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>に【アンケート】へのご<ruby>協力<rt>きょうりょく</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いした。",
+    "question": "サービス向上のため、お客様に（　　　）へのご協力をお願いした。",
+    "question_ruby": "サービス<ruby>向上<rt>こうじょう</rt></ruby>のため、お<ruby>客様<rt>きゃくさま</rt></ruby>に（　　　）へのご<ruby>協力<rt>きょうりょく</rt></ruby>をお<ruby>願い<rt>ねがい</rt></ruby>した。",
     "choices": [
-      "ポット",
-      "マニュアル",
+      "インタビュー",
+      "レビュー",
       "アンケート",
-      "ウェブ"
+      "コメント"
     ],
     "choices_ruby": [
-      "ポット",
-      "マニュアル",
+      "インタビュー",
+      "レビュー",
       "アンケート",
-      "ウェブ"
+      "コメント"
     ],
     "answer": 2,
     "correct_text": "アンケート",
-    "meaning_en": "(fr:) (n) questionnaire (fr: enquete); survey",
+    "meaning_en": "questionnaire; survey",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -46973,18 +46973,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "カルチャー",
-    "question": "異国の【カルチャー】に触れることで、新しい視野が広がった。",
-    "question_ruby": "<ruby>異国<rt>いこく</rt></ruby>の【カルチャー】に<ruby>触<rt>ふ</rt></ruby>れることで、<ruby>新<rt>あたら</rt></ruby>しい<ruby>視野<rt>しや</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がった。",
+    "question": "異国の（　　　）に触れることで、新しい価値観や視野が広がった。",
+    "question_ruby": "<ruby>異国<rt>いこく</rt></ruby>の（　　　）に<ruby>触れる<rt>ふれる</rt></ruby>ことで、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>価値観<rt>かちかん</rt></ruby>や<ruby>視野<rt>しや</rt></ruby>が<ruby>広が<rt>ひろが</rt></ruby>った。",
     "choices": [
-      "カルシウム",
-      "テーマ",
-      "バランス",
+      "スタイル",
+      "ヒストリー",
+      "マナー",
       "カルチャー"
     ],
     "choices_ruby": [
-      "カルシウム",
-      "テーマ",
-      "バランス",
+      "スタイル",
+      "ヒストリー",
+      "マナー",
       "カルチャー"
     ],
     "answer": 3,
@@ -47013,21 +47013,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 873,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ジャケット",
-    "question": "朝晩は冷え込むので、外出するときは薄手の【ジャケット】を羽織った。",
-    "question_ruby": "<ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>冷<rt>ひ</rt></ruby>え<ruby>込<rt>こ</rt></ruby>むので、<ruby>外出<rt>がいしゅつ</rt></ruby>するときは<ruby>薄手<rt>うすで</rt></ruby>の【ジャケット】を<ruby>羽織<rt>はお</rt></ruby>った。",
+    "question": "朝晩は冷え込むので、外出するときは薄手の（　　　）を羽織った。",
+    "question_ruby": "<ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>冷え<rt>ひえ</rt></ruby><ruby>込む<rt>こむ</rt></ruby>ので、<ruby>外出<rt>がいしゅつ</rt></ruby>するときは<ruby>薄手<rt>うすで</rt></ruby>の（　　　）を<ruby>羽織<rt>はおり</rt></ruby>った。",
     "choices": [
       "ジャケット",
-      "ボランティア",
-      "ビタミン",
-      "ゲスト"
+      "セーター",
+      "ベスト",
+      "マフラー"
     ],
     "choices_ruby": [
       "ジャケット",
-      "ボランティア",
-      "ビタミン",
-      "ゲスト"
+      "セーター",
+      "ベスト",
+      "マフラー"
     ],
     "answer": 0,
     "correct_text": "ジャケット",
@@ -47055,23 +47055,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 874,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "イベント",
-    "question": "市民会館で週末に開催されるチャリティー【イベント】に参加した。",
-    "question_ruby": "<ruby>市民会館<rt>しみんかいかん</rt></ruby>で<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>開催<rt>かいさい</rt></ruby>されるチャリティー【イベント】に<ruby>参加<rt>さんか</rt></ruby>した。",
+    "question": "市民会館で週末に開催されるチャリティー（　　　）に参加した。",
+    "question_ruby": "<ruby>市民会館<rt>しみんかいかん</rt></ruby>で<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>開催<rt>かいさい</rt></ruby>されるチャリティー（　　　）に<ruby>参加<rt>さんか</rt></ruby>した。",
     "choices": [
-      "ペンキ",
-      "イベント",
-      "ストーリー",
-      "グループ"
+      "フェスティバル",
+      "コンサート",
+      "バザー",
+      "イベント"
     ],
     "choices_ruby": [
-      "ペンキ",
-      "イベント",
-      "ストーリー",
-      "グループ"
+      "フェスティバル",
+      "コンサート",
+      "バザー",
+      "イベント"
     ],
-    "answer": 1,
+    "answer": 3,
     "correct_text": "イベント",
     "meaning_en": "event",
     "explanation": "",
@@ -47100,18 +47100,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "カロリー",
     "question": "健康と体型を維持するために、毎日の食事の（　　　）を計算している。",
-    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>と<ruby>体型<rt>たいけい</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>の（　　　）を<ruby>計算<rt>けいさん</rt></ruby>している。",
+    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>と<ruby>体型<rt>たいけい</rt></ruby>を<ruby>維持す<rt>いじす</rt></ruby>るために、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>の（　　　）を<ruby>計算<rt>けいさん</rt></ruby>している。",
     "choices": [
-      "オフィス",
-      "インク",
+      "ビタミン",
+      "バランス",
       "カロリー",
-      "シングルルーム"
+      "コスト"
     ],
     "choices_ruby": [
-      "オフィス",
-      "インク",
+      "ビタミン",
+      "バランス",
       "カロリー",
-      "シングルルーム"
+      "コスト"
     ],
     "answer": 2,
     "correct_text": "カロリー",
@@ -47139,20 +47139,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 876,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ジャム",
-    "question": "焼きたてのトーストに手作りのイチゴ【ジャム】をたっぷり塗った。",
-    "question_ruby": "<ruby>焼<rt>や</rt></ruby>きたてのトーストに<ruby>手作<rt>てづく</rt></ruby>りのイチゴ【ジャム】をたっぷり<ruby>塗<rt>ぬ</rt></ruby>った。",
+    "question": "焼きたてのトーストに手作りのイチゴ（　　　）をたっぷり塗った。",
+    "question_ruby": "<ruby>焼き<rt>やき</rt></ruby>たてのトーストに<ruby>手作り<rt>てづくり</rt></ruby>のイチゴ（　　　）をたっぷり<ruby>塗っ<rt>ぬっ</rt></ruby>た。",
     "choices": [
-      "シンプル",
-      "スポーツジム",
-      "ダメージ",
+      "バター",
+      "クリーム",
+      "シロップ",
       "ジャム"
     ],
     "choices_ruby": [
-      "シンプル",
-      "スポーツジム",
-      "ダメージ",
+      "バター",
+      "クリーム",
+      "シロップ",
       "ジャム"
     ],
     "answer": 3,
@@ -47181,25 +47181,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 877,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "スープ",
-    "question": "野菜をじっくり煮込んだ温かい【スープ】を飲むと体が温まる。",
-    "question_ruby": "<ruby>野菜<rt>やさい</rt></ruby>をじっくり<ruby>煮込<rt>にこ</rt></ruby>んだ<ruby>温<rt>あたた</rt></ruby>かい【スープ】を<ruby>飲<rt>の</rt></ruby>むと<ruby>体<rt>からだ</rt></ruby>が<ruby>温<rt>あたた</rt></ruby>まる。",
+    "question": "野菜をじっくり煮込んだ温かい（　　　）を飲むと体が温まる。",
+    "question_ruby": "<ruby>野菜<rt>やさい</rt></ruby>をじっくり<ruby>煮込<rt>にこみ</rt></ruby>んだ<ruby>温かい<rt>あたたかい</rt></ruby>（　　　）を<ruby>飲む<rt>のむ</rt></ruby>と<ruby>体<rt>からだ</rt></ruby>が<ruby>温ま<rt>あたたま</rt></ruby>る。",
     "choices": [
       "スープ",
-      "アナウンサー",
-      "ハンバーグ",
-      "ベンチ"
+      "サラダ",
+      "ジュース",
+      "シチュー"
     ],
     "choices_ruby": [
       "スープ",
-      "アナウンサー",
-      "ハンバーグ",
-      "ベンチ"
+      "サラダ",
+      "ジュース",
+      "シチュー"
     ],
     "answer": 0,
     "correct_text": "スープ",
-    "meaning_en": "(Western) soup",
+    "meaning_en": "soup",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47226,20 +47226,20 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "インク",
     "question": "プリンターの（　　　）が切れてしまったので、家電量販店に買いに行った。",
-    "question_ruby": "プリンターの（　　　）が<ruby>切<rt>き</rt></ruby>れてしまったので、<ruby>家電量販店<rt>かでんりょうはんてん</rt></ruby>に<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>った。",
+    "question_ruby": "プリンターの（　　　）が<ruby>切れ<rt>きれ</rt></ruby>てしまったので、<ruby>家電<rt>かでん</rt></ruby><ruby>量販店<rt>りょうはんてん</rt></ruby>に<ruby>買い<rt>かい</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>。",
     "choices": [
-      "コーヒーカップ",
+      "トナー",
+      "コード",
       "インク",
-      "アレルギー",
-      "スクール"
+      "バッテリー"
     ],
     "choices_ruby": [
-      "コーヒーカップ",
+      "トナー",
+      "コード",
       "インク",
-      "アレルギー",
-      "スクール"
+      "バッテリー"
     ],
-    "answer": 1,
+    "answer": 2,
     "correct_text": "インク",
     "meaning_en": "ink",
     "explanation": "",
@@ -47265,21 +47265,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 879,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "クイズ",
-    "question": "テレビの【クイズ】番組で、難問に正解して賞金を獲得した。",
-    "question_ruby": "テレビの【クイズ】<ruby>番組<rt>ばんぐみ</rt></ruby>で、<ruby>難問<rt>なんもん</rt></ruby>に<ruby>正解<rt>せいかい</rt></ruby>して<ruby>賞金<rt>しょうきん</rt></ruby>を<ruby>獲得<rt>かくとく</rt></ruby>した。",
+    "question": "テレビの（　　　）番組で、難問に次々と正解して賞金を獲得した。",
+    "question_ruby": "テレビの（　　　）<ruby>番組<rt>ばんぐみ</rt></ruby>で、<ruby>難問<rt>なんもん</rt></ruby>に<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>正解<rt>せいかい</rt></ruby>して<ruby>賞金<rt>しょうきん</rt></ruby>を<ruby>獲得<rt>かくとく</rt></ruby>した。",
     "choices": [
-      "セール",
-      "プレッシャー",
+      "トーク",
+      "バラエティ",
       "クイズ",
-      "レポーター"
+      "ドラマ"
     ],
     "choices_ruby": [
-      "セール",
-      "プレッシャー",
+      "トーク",
+      "バラエティ",
       "クイズ",
-      "レポーター"
+      "ドラマ"
     ],
     "answer": 2,
     "correct_text": "クイズ",
@@ -47307,25 +47307,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 880,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ストーリー",
-    "question": "この小説は感動的な【ストーリー】で、最後まで涙が止まらなかった。",
-    "question_ruby": "この<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>感動的<rt>かんどうてき</rt></ruby>な【ストーリー】で、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>涙<rt>なみだ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まらなかった。",
+    "question": "この小説は感動的な（　　　）で、最後まで涙が止まらなかった。",
+    "question_ruby": "この<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>感動的<rt>かんどうてき</rt></ruby>な（　　　）で、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>涙<rt>なみだ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>らなかった。",
     "choices": [
-      "グッズ",
-      "モデル",
-      "インパクト",
+      "エンディング",
+      "クライマックス",
+      "エピソード",
       "ストーリー"
     ],
     "choices_ruby": [
-      "グッズ",
-      "モデル",
-      "インパクト",
+      "エンディング",
+      "クライマックス",
+      "エピソード",
       "ストーリー"
     ],
     "answer": 3,
     "correct_text": "ストーリー",
-    "meaning_en": "story",
+    "meaning_en": "story; plot",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47352,18 +47352,18 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "クッキー",
     "question": "バレンタインデーに友達へ手作りの（　　　）をプレゼントした。",
-    "question_ruby": "バレンタインデーに<ruby>友達<rt>ともだち</rt></ruby>へ<ruby>手作<rt>てづく</rt></ruby>りの（　　　）をプレゼントした。",
+    "question_ruby": "バレンタインデーに<ruby>友達<rt>ともだち</rt></ruby>へ<ruby>手作り<rt>てづくり</rt></ruby>の（　　　）をプレゼントした。",
     "choices": [
       "クッキー",
-      "ショック",
-      "ピクニック",
-      "テーマ"
+      "チョコレート",
+      "キャンディ",
+      "ケーキ"
     ],
     "choices_ruby": [
       "クッキー",
-      "ショック",
-      "ピクニック",
-      "テーマ"
+      "チョコレート",
+      "キャンディ",
+      "ケーキ"
     ],
     "answer": 0,
     "correct_text": "クッキー",
@@ -47391,23 +47391,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 882,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "セール",
-    "question": "デパートの夏のクリアランス【セール】で、欲しかった服を半額で買った。",
-    "question_ruby": "デパートの<ruby>夏<rt>なつ</rt></ruby>のクリアランス【セール】で、<ruby>欲<rt>ほ</rt></ruby>しかった<ruby>服<rt>ふく</rt></ruby>を<ruby>半額<rt>はんがく</rt></ruby>で<ruby>買<rt>か</rt></ruby>った。",
+    "question": "デパートの夏のクリアランス（　　　）で、欲しかった服を半額で買った。",
+    "question_ruby": "デパートの<ruby>夏<rt>なつ</rt></ruby>のクリアランス（　　　）で、<ruby>欲し<rt>ほっし</rt></ruby>かった<ruby>服<rt>ふく</rt></ruby>を<ruby>半額<rt>はんがく</rt></ruby>で<ruby>買っ<rt>かっ</rt></ruby>た。",
     "choices": [
-      "チラシ",
+      "キャンペーン",
+      "フェア",
       "セール",
-      "ユニーク",
-      "フェア"
+      "バザー"
     ],
     "choices_ruby": [
-      "チラシ",
+      "キャンペーン",
+      "フェア",
       "セール",
-      "ユニーク",
-      "フェア"
+      "バザー"
     ],
-    "answer": 1,
+    "answer": 2,
     "correct_text": "セール",
     "meaning_en": "sale",
     "explanation": "",
@@ -47433,21 +47433,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 883,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ピクニック",
-    "question": "天気の良い休日に、家族でお弁当を持って公園へ【ピクニック】に出かけた。",
-    "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>休日<rt>きゅうじつ</rt></ruby>に、<ruby>家族<rt>かぞく</rt></ruby>でお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>公園<rt>こうえん</rt></ruby>へ【ピクニック】に<ruby>出<rt>で</rt></ruby>かけた。",
+    "question": "天気の良い休日に、家族でお弁当を持って公園へ（　　　）に出かけた。",
+    "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>の<ruby>良い<rt>よい</rt></ruby><ruby>休日<rt>きゅうじつ</rt></ruby>に、<ruby>家族<rt>かぞく</rt></ruby>でお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>て<ruby>公園<rt>こうえん</rt></ruby>へ（　　　）に<ruby>出<rt>で</rt></ruby>かけた。",
     "choices": [
-      "ロッカー",
-      "アウト",
+      "ドライブ",
+      "キャンプ",
       "ピクニック",
-      "ラーメン"
+      "ハイキング"
     ],
     "choices_ruby": [
-      "ロッカー",
-      "アウト",
+      "ドライブ",
+      "キャンプ",
       "ピクニック",
-      "ラーメン"
+      "ハイキング"
     ],
     "answer": 2,
     "correct_text": "ピクニック",
@@ -47478,22 +47478,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ホール",
     "question": "コンサートの会場となる大型（　　　）には、すでに多くの観客が集まっていた。",
-    "question_ruby": "コンサートの<ruby>会場<rt>かいじょう</rt></ruby>となる<ruby>大型<rt>おおがた</rt></ruby>（　　　）には、すでに<ruby>多<rt>おお</rt></ruby>くの<ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっていた。",
+    "question_ruby": "コンサートの<ruby>会場<rt>かいじょう</rt></ruby>となる<ruby>大型<rt>おおがた</rt></ruby>（　　　）には、すでに<ruby>多く<rt>おおく</rt></ruby>の<ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>集ま<rt>あつま</rt></ruby>っていた。",
     "choices": [
-      "ステージ",
-      "プロセス",
-      "チームリーダー",
+      "アリーナ",
+      "ドーム",
+      "スタジアム",
       "ホール"
     ],
     "choices_ruby": [
-      "ステージ",
-      "プロセス",
-      "チームリーダー",
+      "アリーナ",
+      "ドーム",
+      "スタジアム",
       "ホール"
     ],
     "answer": 3,
     "correct_text": "ホール",
-    "meaning_en": "hall; hole",
+    "meaning_en": "hall; auditorium",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47517,21 +47517,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 885,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "セミナー",
-    "question": "ビジネススキル向上のための【セミナー】に参加し、最新の知識を学んだ。",
-    "question_ruby": "ビジネススキル<ruby>向上<rt>こうじょう</rt></ruby>のための【セミナー】に<ruby>参加<rt>さんか</rt></ruby>し、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>を<ruby>学<rt>まな</rt></ruby>んだ。",
+    "question": "ビジネススキル向上のための（　　　）に参加し、最新の知識を学んだ。",
+    "question_ruby": "ビジネススキル<ruby>向上<rt>こうじょう</rt></ruby>のための（　　　）に<ruby>参加<rt>さんか</rt></ruby>し、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>を<ruby>学ん<rt>まなん</rt></ruby>だ。",
     "choices": [
       "セミナー",
-      "ファイル",
-      "ポット",
-      "マナー"
+      "ワークショップ",
+      "レクチャー",
+      "カンファレンス"
     ],
     "choices_ruby": [
       "セミナー",
-      "ファイル",
-      "ポット",
-      "マナー"
+      "ワークショップ",
+      "レクチャー",
+      "カンファレンス"
     ],
     "answer": 0,
     "correct_text": "セミナー",
@@ -47559,23 +47559,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 886,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ファスナー",
-    "question": "かばんの【ファスナー】が壊れてしまい、中の物が落ちそうになった。",
-    "question_ruby": "かばんの【ファスナー】が<ruby>壊<rt>こわ</rt></ruby>れてしまい、<ruby>中<rt>なか</rt></ruby>の<ruby>物<rt>もの</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちそうになった。",
+    "question": "かばんの（　　　）が壊れてしまい、中の物が落ちそうになった。",
+    "question_ruby": "かばんの（　　　）が<ruby>壊れ<rt>こわれ</rt></ruby>てしまい、<ruby>中<rt>なか</rt></ruby>の<ruby>物<rt>もの</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>そうになった。",
     "choices": [
-      "ボウリング",
+      "ポケット",
+      "ベルト",
       "ファスナー",
-      "ブレーキ",
-      "イベント"
+      "ボタン"
     ],
     "choices_ruby": [
-      "ボウリング",
+      "ポケット",
+      "ベルト",
       "ファスナー",
-      "ブレーキ",
-      "イベント"
+      "ボタン"
     ],
-    "answer": 1,
+    "answer": 2,
     "correct_text": "ファスナー",
     "meaning_en": "fastener; zipper",
     "explanation": "",
@@ -47604,22 +47604,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ポイント",
     "question": "クレジットカードで買い物をして、お得な（　　　）を貯めている。",
-    "question_ruby": "クレジットカードで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をして、お<ruby>得<rt>とく</rt></ruby>な（　　　）を<ruby>貯<rt>た</rt></ruby>めている。",
+    "question_ruby": "クレジットカードで<ruby>買い物<rt>かいもの</rt></ruby>をして、お<ruby>得な<rt>えな</rt></ruby>（　　　）を<ruby>貯め<rt>ため</rt></ruby>ている。",
     "choices": [
-      "プリンター",
-      "マーケット",
+      "クーポン",
+      "マイル",
       "ポイント",
-      "ヘルメット"
+      "キャッシュ"
     ],
     "choices_ruby": [
-      "プリンター",
-      "マーケット",
+      "クーポン",
+      "マイル",
       "ポイント",
-      "ヘルメット"
+      "キャッシュ"
     ],
     "answer": 2,
     "correct_text": "ポイント",
-    "meaning_en": "point",
+    "meaning_en": "point (loyalty)",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47643,25 +47643,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 888,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "センター",
-    "question": "市民の交流や文化活動を支援するためのコミュニティ【センター】が完成した。",
-    "question_ruby": "<ruby>市民<rt>しみん</rt></ruby>の<ruby>交流<rt>こうりゅう</rt></ruby>や<ruby>文化活動<rt>ぶんかかつどう</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するためのコミュニティ【センター】が<ruby>完成<rt>かんせい</rt></ruby>した。",
+    "question": "市民の交流や文化活動を支援するためのコミュニティ（　　　）が完成した。",
+    "question_ruby": "<ruby>市民<rt>しみん</rt></ruby>の<ruby>交流<rt>こうりゅう</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するためのコミュニティ（　　　）が<ruby>完成し<rt>かんせいし</rt></ruby>た。",
     "choices": [
-      "タイヤ",
-      "シーズン",
-      "パーセント",
+      "スクエア",
+      "スクール",
+      "プラザ",
       "センター"
     ],
     "choices_ruby": [
-      "タイヤ",
-      "シーズン",
-      "パーセント",
+      "スクエア",
+      "スクール",
+      "プラザ",
       "センター"
     ],
     "answer": 3,
     "correct_text": "センター",
-    "meaning_en": "a center",
+    "meaning_en": "center",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47685,23 +47685,23 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 889,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ポスター",
-    "question": "駅の掲示板に、新作映画の大きな【ポスター】が貼られていた。",
-    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>掲示板<rt>けいじばん</rt></ruby>に、<ruby>新作映画<rt>しんさくえいが</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな【ポスター】が<ruby>貼<rt>は</rt></ruby>られていた。",
+    "question": "駅の掲示板に、新作映画の大きな（　　　）が貼られていた。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>掲示板<rt>けいじばん</rt></ruby>に、<ruby>新作<rt>しんさく</rt></ruby><ruby>映画<rt>えいが</rt></ruby>の<ruby>大き<rt>おおき</rt></ruby>な（　　　）が<ruby>貼ら<rt>はら</rt></ruby>れていた。",
     "choices": [
-      "ポスター",
-      "ショルダーバッグ",
-      "スーツケース",
-      "テーマ"
+      "チラシ",
+      "パネル",
+      "サイン",
+      "ポスター"
     ],
     "choices_ruby": [
-      "ポスター",
-      "ショルダーバッグ",
-      "スーツケース",
-      "テーマ"
+      "チラシ",
+      "パネル",
+      "サイン",
+      "ポスター"
     ],
-    "answer": 0,
+    "answer": 3,
     "correct_text": "ポスター",
     "meaning_en": "poster",
     "explanation": "",
@@ -47730,22 +47730,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ゼミ",
     "question": "大学の（　　　）で、現代社会における環境問題についての研究発表を行った。",
-    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の（　　　）で、<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>における<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>についての<ruby>研究発表<rt>けんきゅうはっぴょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>の（　　　）で、<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>における<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>についての<ruby>研究発表<rt>けんきゅうはっぴょう</rt></ruby>を<ruby>行った<rt>いった</rt></ruby>。",
     "choices": [
-      "ポイント",
+      "講義",
+      "サークル",
       "ゼミ",
-      "メーカー",
-      "パーセント"
+      "ラボ"
     ],
     "choices_ruby": [
-      "ポイント",
+      "<ruby>講義<rt>こうぎ</rt></ruby>",
+      "サークル",
       "ゼミ",
-      "メーカー",
-      "パーセント"
+      "ラボ"
     ],
-    "answer": 1,
+    "answer": 2,
     "correct_text": "ゼミ",
-    "meaning_en": "(n) seminar",
+    "meaning_en": "seminar (university)",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47769,21 +47769,21 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 891,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "ファッション",
-    "question": "流行に左右されず、自分らしい【ファッション】を楽しむ人が増えている。",
-    "question_ruby": "<ruby>流行<rt>りゅうこう</rt></ruby>に<ruby>左右<rt>さゆう</rt></ruby>されず、<ruby>自分<rt>じぶん</rt></ruby>らしい【ファッション】を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
+    "question": "流行に左右されず、自分らしい（　　　）を楽しむ人が増えている。",
+    "question_ruby": "<ruby>流行<rt>りゅうこう</rt></ruby>に<ruby>左右<rt>さゆう</rt></ruby>されず、<ruby>自分<rt>じぶん</rt></ruby>らしい（　　　）を<ruby>楽し<rt>たのし</rt></ruby>む<ruby>人<rt>にん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている。",
     "choices": [
-      "バスケット",
-      "ブランコ",
+      "デザイン",
+      "トレンド",
       "ファッション",
-      "フロア"
+      "スタイル"
     ],
     "choices_ruby": [
-      "バスケット",
-      "ブランコ",
+      "デザイン",
+      "トレンド",
       "ファッション",
-      "フロア"
+      "スタイル"
     ],
     "answer": 2,
     "correct_text": "ファッション",
@@ -47811,25 +47811,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 892,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "マイク",
-    "question": "会場の後ろの人にも声がよく聞こえるように、【マイク】を使って話した。",
-    "question_ruby": "<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>にも<ruby>声<rt>こえ</rt></ruby>がよく<ruby>聞<rt>き</rt></ruby>こえるように、【マイク】を<ruby>使<rt>つか</rt></ruby>って<ruby>話<rt>はな</rt></ruby>した。",
+    "question": "会場の後ろの人にも声がよく聞こえるように、（　　　）を使って話した。",
+    "question_ruby": "<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>後ろ<rt>うしろ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にも<ruby>声<rt>こえ</rt></ruby>がよく<ruby>聞こ<rt>きこ</rt></ruby>えるように、（　　　）を<ruby>使って<rt>つかって</rt></ruby><ruby>話し<rt>はなし</rt></ruby>た。",
     "choices": [
-      "レポーター",
-      "クッキー",
-      "スタッフ",
+      "スピーカー",
+      "メガホン",
+      "イヤホン",
       "マイク"
     ],
     "choices_ruby": [
-      "レポーター",
-      "クッキー",
-      "スタッフ",
+      "スピーカー",
+      "メガホン",
+      "イヤホン",
       "マイク"
     ],
     "answer": 3,
     "correct_text": "マイク",
-    "meaning_en": "mike",
+    "meaning_en": "microphone",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47856,22 +47856,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ファン",
     "question": "熱狂的な（　　　）たちが、空港で大好きな選手の到着を出迎えた。",
-    "question_ruby": "<ruby>熱狂的<rt>ねっきょうてき</rt></ruby>な（　　　）たちが、<ruby>空港<rt>くうこう</rt></ruby>で<ruby>大好<rt>だいす</rt></ruby>きな<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>到着<rt>とうちゃく</rt></ruby>を<ruby>出迎<rt>でむか</rt></ruby>えた。",
+    "question_ruby": "<ruby>熱狂的<rt>ねっきょうてき</rt></ruby>な（　　　）たちが、<ruby>空港<rt>くうこう</rt></ruby>で<ruby>大好き<rt>だいすき</rt></ruby>な<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>到着<rt>とうちゃく</rt></ruby>を<ruby>出迎え<rt>でむかえ</rt></ruby>た。",
     "choices": [
-      "ファン",
-      "ランニング",
-      "チームリーダー",
-      "タイヤ"
+      "サポーター",
+      "メンバー",
+      "オーディエンス",
+      "ファン"
     ],
     "choices_ruby": [
-      "ファン",
-      "ランニング",
-      "チームリーダー",
-      "タイヤ"
+      "サポーター",
+      "メンバー",
+      "オーディエンス",
+      "ファン"
     ],
-    "answer": 0,
+    "answer": 3,
     "correct_text": "ファン",
-    "meaning_en": "fan; fun",
+    "meaning_en": "fan; enthusiast",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47895,25 +47895,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 894,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "マナー",
-    "question": "公共の乗り物の中では、他の乗客に迷惑をかけないよう【マナー】を守るべきだ。",
-    "question_ruby": "<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、<ruby>他<rt>ほか</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけないよう【マナー】を<ruby>守<rt>まも</rt></ruby>るべきだ。",
+    "question": "公共の乗り物の中では、他の乗客に迷惑をかけないよう（　　　）を守るべきだ。",
+    "question_ruby": "<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>乗り物<rt>のりもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、<ruby>他<rt>ほか</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけないよう（　　　）を<ruby>守る<rt>まもる</rt></ruby>べきだ。",
     "choices": [
-      "ランチタイム",
+      "ルール",
+      "モラル",
       "マナー",
-      "ゼミ",
-      "ワイパー"
+      "エチケット"
     ],
     "choices_ruby": [
-      "ランチタイム",
+      "ルール",
+      "モラル",
       "マナー",
-      "ゼミ",
-      "ワイパー"
+      "エチケット"
     ],
-    "answer": 1,
+    "answer": 2,
     "correct_text": "マナー",
-    "meaning_en": "manner",
+    "meaning_en": "manner; etiquette",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47937,25 +47937,25 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 895,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "漢字表記",
+    "category": "文脈規定",
     "target_word": "チラシ",
-    "question": "新しくオープンしたスーパーの特売【チラシ】が新聞に折り込まれていた。",
-    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しくオープンしたスーパーの<ruby>特売<rt>とくばい</rt></ruby>【チラシ】が<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>込<rt>こ</rt></ruby>まれていた。",
+    "question": "新しくオープンしたスーパーの特売（　　　）が新聞に折り込まれていた。",
+    "question_ruby": "<ruby>新しく<rt>あたらしく</rt></ruby>オープンしたスーパーの<ruby>特売<rt>とくばい</rt></ruby>（　　　）が<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>折り<rt>おり</rt></ruby><ruby>込ま<rt>こま</rt></ruby>れていた。",
     "choices": [
-      "プライバシー",
-      "ボウリング",
+      "パンフレット",
+      "カタログ",
       "チラシ",
-      "ペットボトル"
+      "ポスター"
     ],
     "choices_ruby": [
-      "プライバシー",
-      "ボウリング",
+      "パンフレット",
+      "カタログ",
       "チラシ",
-      "ペットボトル"
+      "ポスター"
     ],
     "answer": 2,
     "correct_text": "チラシ",
-    "meaning_en": "",
+    "meaning_en": "leaflet; flyer",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -47982,22 +47982,22 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ブランコ",
     "question": "公園の（　　　）で、子供たちが楽しそうに揺られながら遊んでいる。",
-    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>の（　　　）で、<ruby>子供<rt>こども</rt></ruby>たちが<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>揺<rt>ゆ</rt></ruby>られながら<ruby>遊<rt>あそ</rt></ruby>んでいる。",
+    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>の（　　　）で、<ruby>子供<rt>こども</rt></ruby>たちが<ruby>楽しそう<rt>たのしそう</rt></ruby>に<ruby>揺ら<rt>ゆら</rt></ruby>れながら<ruby>遊んで<rt>あそんで</rt></ruby>いる。",
     "choices": [
-      "リットル",
-      "ハード",
-      "ロケット",
+      "すべり台",
+      "シーソー",
+      "ジャングルジム",
       "ブランコ"
     ],
     "choices_ruby": [
-      "リットル",
-      "ハード",
-      "ロケット",
+      "すべり<ruby>台<rt>だい</rt></ruby>",
+      "シーソー",
+      "ジャングルジム",
       "ブランコ"
     ],
     "answer": 3,
     "correct_text": "ブランコ",
-    "meaning_en": "",
+    "meaning_en": "swing (playground)",
     "explanation": "",
     "kanji_info": [],
     "similar": [
