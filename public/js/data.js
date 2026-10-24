@@ -11213,15 +11213,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "train / electric train"
     },
     "example": {
-      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by train.",
-      "zh_TW": "電車",
-      "zh_CN": "電車",
-      "ko": "I commute to work by train.",
-      "zh_HK": "電車",
-      "fr": "I commute to work by train."
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>っています。",
+      "en": "Every morning, I commute to work on a packed train.",
+      "zh_TW": "每天早上我都搭乘滿載的電車去上班。",
+      "zh_CN": "每天早上我都搭乘满载的电车去上班。",
+      "ko": "매일 아침 만원 전철을 타고 회사에 통근하고 있습니다.",
+      "zh_HK": "每天早上我都搭乘滿載的電車去上班。",
+      "fr": "Chaque matin, je prends un train bondé pour aller au travail."
     },
-    "related": "【交通・鉄道】電車 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【乗り物の助詞】電車「に」乗る ／ 電車「で」行く"
   },
   {
     "id": "card_0401",
@@ -11269,15 +11269,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "bus"
     },
     "example": {
-      "ja": "バスで<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by bus.",
-      "zh_TW": "公車",
-      "zh_CN": "公車",
-      "ko": "I commute to work by bus.",
-      "zh_HK": "公車",
-      "fr": "I commute to work by bus."
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>からバスに<ruby>乗<rt>の</rt></ruby>って<ruby>行<rt>い</rt></ruby>くと<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "On rainy days, it is convenient to take a bus from the station.",
+      "zh_TW": "下雨天從車站搭公車去很方便。",
+      "zh_CN": "下雨天从车站坐公交车去很方便。",
+      "ko": "비 오는 날에는 역에서 버스를 타고 가면 편리합니다.",
+      "zh_HK": "下雨天從車站搭巴士去好方便。",
+      "fr": "Les jours de pluie, il est pratique de prendre le bus depuis la gare."
     },
-    "related": "【交通・鉄道】バス (駅施設・乗り物・移動に関する語彙)"
+    "related": "【乗り物の助詞】バス「に」乗る ／ バス「で」行く"
   },
   {
     "id": "card_0403",
@@ -11297,15 +11297,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "taxi"
     },
     "example": {
-      "ja": "タクシーで<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by (タクシー).",
-      "zh_TW": "計程車",
-      "zh_CN": "計程車",
-      "ko": "I commute to work by (タクシー).",
-      "zh_HK": "計程車",
-      "fr": "I commute to work by (タクシー)."
+      "ja": "<ruby>終電<rt>しゅうでん</rt></ruby>がなくなったので、タクシーを<ruby>呼<rt>よ</rt></ruby>んで<ruby>帰<rt>かえ</rt></ruby>りました。",
+      "en": "Since the last train was gone, I called a taxi and went home.",
+      "zh_TW": "因為沒有末班車了，所以叫了計程車回家。",
+      "zh_CN": "因为没有末班车了，所以叫了出租车回家。",
+      "ko": "막차가 끊겨서 택시를 불러서 귀가했습니다.",
+      "zh_HK": "因為冇尾班車，所以叫咗的士返屋企。",
+      "fr": "Comme il n'y avait plus de dernier train, j'ai appelé un taxi pour rentrer chez moi."
     },
-    "related": "【交通・鉄道】タクシー (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】タクシーを呼ぶ（拾う） ／ タクシー乗り場"
   },
   {
     "id": "card_0404",
@@ -11325,15 +11325,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "bicycle"
     },
     "example": {
-      "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by bicycle.",
-      "zh_TW": "腳踏車",
-      "zh_CN": "腳踏車",
-      "ko": "I commute to work by bicycle.",
-      "zh_HK": "腳踏車",
-      "fr": "I commute to work by bicycle."
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>近<rt>ちか</rt></ruby>くの<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましょう。",
+      "en": "Since the weather is nice, let's ride a bicycle to the nearby park.",
+      "zh_TW": "天氣很好，騎腳踏車去附近的公園吧。",
+      "zh_CN": "天气很好，骑自行车去附近的公园吧。",
+      "ko": "날씨가 좋으니 자전거를 타고 가까운 공원에 갑시다.",
+      "zh_HK": "天氣好，踩單車去附近嘅公園啦。",
+      "fr": "Comme il fait beau, allons au parc voisin à vélo."
     },
-    "related": "【交通・鉄道】自転車 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【乗り物の助詞】自転車「に」乗る ／ 自転車「を」こぐ"
   },
   {
     "id": "card_0405",
@@ -11353,15 +11353,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "airplane"
     },
     "example": {
-      "ja": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by airplane.",
-      "zh_TW": "飛機",
-      "zh_CN": "飛機",
-      "ko": "I commute to work by airplane.",
-      "zh_HK": "飛機",
-      "fr": "I commute to work by airplane."
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>沖縄<rt>おきなわ</rt></ruby>まで<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>約<rt>やく</rt></ruby>3<ruby>時間<rt>じかん</rt></ruby>かかります。",
+      "en": "It takes about 3 hours by plane from Tokyo to Okinawa.",
+      "zh_TW": "從東京搭飛機到沖繩大約需要3個小時。",
+      "zh_CN": "从东京坐飞机到冲绳大约需要3个小时。",
+      "ko": "도쿄에서 오키나와까지 비행기로 약 3시간 걸립니다.",
+      "zh_HK": "由東京搭飛機去沖繩大約要3個鐘。",
+      "fr": "Il faut environ 3 heures en avion de Tokyo à Okinawa."
     },
-    "related": "【交通・鉄道】飛行機 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】飛行機に乗る ／ 空港（くうこう）"
   },
   {
     "id": "card_0406",
@@ -11381,15 +11381,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "ship / boat"
     },
     "example": {
-      "ja": "<ruby>船<rt>ふね</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by boat.",
-      "zh_TW": "船",
-      "zh_CN": "船",
-      "ko": "I commute to work by boat.",
-      "zh_HK": "船",
-      "fr": "I commute to work by boat."
+      "ja": "<ruby>港<rt>みなと</rt></ruby>からフェリー（<ruby>船<rt>ふね</rt></ruby>）に<ruby>乗<rt>の</rt></ruby>って、<ruby>静<rt>しず</rt></ruby>かな<ruby>島<rt>しま</rt></ruby>へ<ruby>渡<rt>わた</rt></ruby>りました。",
+      "en": "I took a ferry (boat) from the port and crossed over to a quiet island.",
+      "zh_TW": "從港口搭乘渡輪（船），前往寧靜的島嶼。",
+      "zh_CN": "从港口乘坐渡轮（船），前往宁静的岛屿。",
+      "ko": "항구에서 페리(배)를 타고 조용한 섬으로 건너갔습니다.",
+      "zh_HK": "喺碼頭搭渡輪（船），去咗一個好寧靜嘅島。",
+      "fr": "J'ai pris un ferry (bateau) depuis le port pour rejoindre une île paisible."
     },
-    "related": "【交通・鉄道】船 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】船に乗る ／ 船が港に着く"
   },
   {
     "id": "card_0407",
@@ -11409,15 +11409,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "car"
     },
     "example": {
-      "ja": "<ruby>車<rt>くるま</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by car.",
-      "zh_TW": "車",
-      "zh_CN": "車",
-      "ko": "I commute to work by car.",
-      "zh_HK": "車",
-      "fr": "I commute to work by car."
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して、<ruby>家族<rt>かぞく</rt></ruby>とドライブに<ruby>出<rt>で</rt></ruby>かけます。",
+      "en": "On weekends, I drive my own car and go on a drive with my family.",
+      "zh_TW": "週末我會開自己的車，和家人一起出門兜風。",
+      "zh_CN": "周末我会开自己的车，和家人一起出门兜风。",
+      "ko": "주말에는 제 차를 운전해서 가족과 드라이브를 나갑니다.",
+      "zh_HK": "週末我會揸自己部車，同屋企人去遊車河。",
+      "fr": "Le week-end, je conduis ma propre voiture et pars en promenade avec ma famille."
     },
-    "related": "【交通・鉄道】車 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】車を運転する ／ 車に乗る"
   },
   {
     "id": "card_0408",
@@ -11437,15 +11437,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "Shinkansen / bullet train"
     },
     "example": {
-      "ja": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by bullet train.",
-      "zh_TW": "新幹線",
-      "zh_CN": "新幹線",
-      "ko": "I commute to work by bullet train.",
-      "zh_HK": "新幹線",
-      "fr": "I commute to work by bullet train."
+      "ja": "<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>れば、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>まで2<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きます。",
+      "en": "If you take the Shinkansen, you can arrive from Tokyo to Osaka in two and a half hours.",
+      "zh_TW": "搭新幹線的話，從東京到大阪只要兩個半小時就能抵達。",
+      "zh_CN": "坐新干线的话，从东京到大阪只要两个半小时就能到达。",
+      "ko": "신칸센을 타면 도쿄에서 오사카까지 2시간 반이면 도착합니다.",
+      "zh_HK": "搭新幹線嘅話，由東京去大阪只需兩個半鐘就到。",
+      "fr": "En prenant le Shinkansen, on peut aller de Tokyo à Osaka en seulement deux heures et demie."
     },
-    "related": "【交通・鉄道】新幹線 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】新幹線に乗る ／ 日本の高速鉄道"
   },
   {
     "id": "card_0409",
@@ -11465,15 +11465,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "subway / metro"
     },
     "example": {
-      "ja": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>います。",
-      "en": "I commute to work by subway.",
-      "zh_TW": "捷運",
-      "zh_CN": "捷運",
-      "ko": "I commute to work by subway.",
-      "zh_HK": "捷運",
-      "fr": "I commute to work by subway."
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>路線<rt>ろせん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですが、<ruby>慣<rt>な</rt></ruby>れるととても<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "Tokyo's subway has many lines, but once you get used to it, it is very convenient.",
+      "zh_TW": "東京的地下鐵路線很多，但習慣了之後非常方便。",
+      "zh_CN": "东京的地铁线路很多，但习惯了之后非常方便。",
+      "ko": "도쿄 지하철은 노선이 많지만, 익숙해지면 매우 편리합니다.",
+      "zh_HK": "東京嘅地鐵路線好多，但慣咗就非常方便。",
+      "fr": "Le métro de Tokyo compte de nombreuses lignes, mais une fois habitué, c'est très pratique."
     },
-    "related": "【交通・鉄道】地下鉄 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【関連表現】地下鉄に乗る ／ 地下鉄の駅"
   },
   {
     "id": "card_0410",
@@ -12053,15 +12053,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "meal / rice / food"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious meal.",
-      "zh_TW": "飯",
-      "zh_CN": "飯",
-      "ko": "I ate delicious meal.",
-      "zh_HK": "飯",
-      "fr": "I ate delicious meal."
+      "ja": "<ruby>炊<rt>た</rt></ruby>きたての<ruby>温<rt>あたた</rt></ruby>かいごはんとおかずを<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I ate freshly cooked warm rice and side dishes.",
+      "zh_TW": "我吃了剛煮好熱騰騰的白飯和配菜。",
+      "zh_CN": "我吃了刚煮好热腾腾的米饭和配菜。",
+      "ko": "갓 지은 따뜻한 밥과 반찬을 먹었습니다.",
+      "zh_HK": "我食咗啱啱煮好熱辣辣嘅白飯同配菜。",
+      "fr": "J'ai mangé du riz chaud fraîchement cuit et des plats d'accompagnement."
     },
-    "related": "【名詞・食事】ごはん (日常の飲食物・定番メニュー)"
+    "related": "【ニュアンス】「ごはん」は白米とお食事全般の両方を意味します。"
   },
   {
     "id": "card_0431",
@@ -12081,15 +12081,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "food / things to eat"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious food.",
-      "zh_TW": "食物",
-      "zh_CN": "食物",
-      "ko": "I ate delicious food.",
-      "zh_HK": "食物",
-      "fr": "I ate delicious food."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>にはお<ruby>寿司<rt>すし</rt></ruby>やラーメンなど、<ruby>美味<rt>おい</rt></ruby>しい<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>がたくさんあります。",
+      "en": "Japan has many delicious foods, such as sushi and ramen.",
+      "zh_TW": "日本有很多美味的食物，例如壽司和拉麵。",
+      "zh_CN": "日本有很多美味的食物，比如寿司和拉面。",
+      "ko": "일본에는 초밥과 라멘 등 맛있는 음식이 많이 있습니다.",
+      "zh_HK": "日本有好多好味嘅嘢食，例如壽司同拉麵。",
+      "fr": "Le Japon compte de nombreux plats délicieux, comme les sushis et les ramens."
     },
-    "related": "【名詞・食事】食べ物 (日常の飲食物・定番メニュー)"
+    "related": "【対義語】食べ物 ⇄ 飲み物"
   },
   {
     "id": "card_0432",
@@ -12109,15 +12109,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "breakfast"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious breakfast.",
-      "zh_TW": "早餐",
-      "zh_CN": "早餐",
-      "ko": "I ate delicious breakfast.",
-      "zh_HK": "早餐",
-      "fr": "I ate delicious breakfast."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>欠<rt>か</rt></ruby>かさず<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べるようにしています。",
+      "en": "For my health, I make sure to eat breakfast every morning without fail.",
+      "zh_TW": "為了健康，我每天早上都堅持吃早餐。",
+      "zh_CN": "为了健康，我每天早上都坚持吃早餐。",
+      "ko": "건강을 위해 매일 아침 거르지 않고 아침밥을 챙겨 먹고 있습니다.",
+      "zh_HK": "為咗健康，我每日朝早都堅持食早餐。",
+      "fr": "Pour ma santé, je m'assure de prendre un petit-déjeuner tous les matins sans exception."
     },
-    "related": "【名詞・食事】朝ごはん (日常の飲食物・定番メニュー)"
+    "related": "【類語】朝ごはん ＝ 朝食（ちょうしょく）"
   },
   {
     "id": "card_0433",
@@ -12137,15 +12137,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "lunch"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious lunch.",
-      "zh_TW": "午餐",
-      "zh_CN": "午餐",
-      "ko": "I ate delicious lunch.",
-      "zh_HK": "午餐",
-      "fr": "I ate delicious lunch."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>ごはんは、<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>くのカフェへ<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "For today's lunch, I went to a nearby cafe together with my coworker.",
+      "zh_TW": "今天的午餐我和同事一起去了附近的咖啡廳。",
+      "zh_CN": "今天的午餐我和同事一起去了附近的咖啡厅。",
+      "ko": "오늘 점심은 동료와 함께 근처 카페에 갔습니다.",
+      "zh_HK": "今日嘅午餐我同同事一齊去咗附近嘅Cafe。",
+      "fr": "Pour le déjeuner d'aujourd'hui, je suis allé dans un café voisin avec mon collègue."
     },
-    "related": "【名詞・食事】昼ごはん (日常の飲食物・定番メニュー)"
+    "related": "【類語】昼ごはん ＝ 昼食（ちゅうしょく）／ ランチ"
   },
   {
     "id": "card_0434",
@@ -12165,15 +12165,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "dinner"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>夜<rt>よる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious dinner.",
-      "zh_TW": "晚餐",
-      "zh_CN": "晚餐",
-      "ko": "I ate delicious dinner.",
-      "zh_HK": "晚餐",
-      "fr": "I ate delicious dinner."
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>ごはんは、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>手作<rt>てづく</rt></ruby>りのカレーライスを<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "For tonight's dinner, our family is eating homemade curry rice.",
+      "zh_TW": "今晚的晚餐，全家一起吃自製的咖哩飯。",
+      "zh_CN": "今晚的晚餐，全家一起吃自制的咖喱饭。",
+      "ko": "오늘 밤 저녁밥은 가족과 함께 직접 만든 카레라이스를 먹습니다.",
+      "zh_HK": "今晚嘅晚飯，成家人一齊食自製嘅咖喱飯。",
+      "fr": "Pour le dîner de ce soir, nous mangeons en famille du riz au curry fait maison."
     },
-    "related": "【名詞・食事】夜ごはん (日常の飲食物・定番メニュー)"
+    "related": "【類語】夜ごはん ＝ 夕食（ゆうしょく）／ 晩ご飯（ばんごはん）"
   },
   {
     "id": "card_0435",
@@ -12193,15 +12193,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "bread"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいパンを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious bread.",
-      "zh_TW": "麵包",
-      "zh_CN": "麵包",
-      "ko": "I ate delicious bread.",
-      "zh_HK": "麵包",
-      "fr": "I ate delicious bread."
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>、トーストしたパンにバターを<ruby>塗<rt>ぬ</rt></ruby>って<ruby>食<rt>た</rt></ruby>べるのが<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "I like spreading butter on toasted bread and eating it every morning.",
+      "zh_TW": "我喜歡每天早上在烤吐司麵包上抹奶油吃。",
+      "zh_CN": "我喜欢每天早上在烤吐司面包上抹黄油吃。",
+      "ko": "매일 아침 토스트한 빵에 버터를 발라 먹는 것을 좋아합니다.",
+      "zh_HK": "我好鍾意每日朝早喺多士上面搽牛油食。",
+      "fr": "J'aime tartiner du beurre sur du pain grillé et le manger chaque matin."
     },
-    "related": "【名詞・食事】パン (日常の飲食物・定番メニュー)"
+    "related": "【助数詞】食パンは「1斤（きん）」「1枚（まい）」と数えます。"
   },
   {
     "id": "card_0436",
@@ -12221,15 +12221,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "lunchbox / bento"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious bento box.",
-      "zh_TW": "便當",
-      "zh_CN": "便當",
-      "ko": "I ate delicious bento box.",
-      "zh_HK": "便當",
-      "fr": "I ate delicious bento box."
+      "ja": "<ruby>母<rt>はは</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ってくれたお<ruby>弁当<rt>べんとう</rt></ruby>を、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I ate the bento lunchbox that my mother made for me during school lunch break.",
+      "zh_TW": "在學校的午休時間，我吃了媽媽為我做的便當。",
+      "zh_CN": "在学校的午休时间，我吃了妈妈为我做的便当。",
+      "ko": "어머니께서 만들어 주신 도시락을 학교 점심시간에 먹었습니다.",
+      "zh_HK": "喺學校嘅午休時間，我食咗阿媽幫我整嘅便當。",
+      "fr": "J'ai mangé le bento que ma mère m'avait préparé pendant la pause déjeuner de l'école."
     },
-    "related": "【名詞・食事】お弁当 (日常の飲食物・定番メニュー)"
+    "related": "【関連】お弁当を作る ／ お弁当箱（おべんとうばこ）"
   },
   {
     "id": "card_0437",
@@ -12249,15 +12249,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "water"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>水<rt>みず</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious fresh water.",
-      "zh_TW": "水",
-      "zh_CN": "水",
-      "ko": "I ate delicious fresh water.",
-      "zh_HK": "水",
-      "fr": "I ate delicious fresh water."
+      "ja": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いたので、<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>水<rt>みず</rt></ruby>を<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>みました。",
+      "en": "Since I was thirsty, I drank a glass of cold water.",
+      "zh_TW": "因為口渴了，我喝了一杯冰水。",
+      "zh_CN": "因为口渴了，我喝了一杯冰水。",
+      "ko": "목이 말라서 시원한 물을 한 잔 마셨습니다.",
+      "zh_HK": "因為好口渴，我飲咗一杯凍水。",
+      "fr": "Comme j'avais soif, j'ai bu un verre d'eau fraîche."
     },
-    "related": "【名詞・食事】お水 (日常の飲食物・定番メニュー)"
+    "related": "【飲み物】水は「飲む」。飲食店では無料の水を「お冷（おひや）」とも呼びます。"
   },
   {
     "id": "card_0438",
@@ -12277,15 +12277,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "tea"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious green tea.",
-      "zh_TW": "茶",
-      "zh_CN": "茶",
-      "ko": "I ate delicious green tea.",
-      "zh_HK": "茶",
-      "fr": "I ate delicious green tea."
+      "ja": "<ruby>食後<rt>しょくご</rt></ruby>に<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで、のんびりリラックスします。",
+      "en": "After meals, I drink warm tea and relax comfortably.",
+      "zh_TW": "飯後喝杯熱茶，悠閒地放鬆一下。",
+      "zh_CN": "饭后喝杯热茶，悠闲地放松一下。",
+      "ko": "식후에 따뜻한 차를 마시며 여유롭게 휴식을 취합니다.",
+      "zh_HK": "食完飯飲杯熱茶，舒舒服服放鬆一下。",
+      "fr": "Après le repas, je bois du thé chaud et je me détends paisiblement."
     },
-    "related": "【名詞・食事】お茶 (日常の飲食物・定番メニュー)"
+    "related": "【文化・補足】「お茶する」は「カフェなどでおしゃべりする」という意味でも使われます。"
   },
   {
     "id": "card_0439",
@@ -12305,15 +12305,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "milk"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious fresh milk.",
-      "zh_TW": "牛奶",
-      "zh_CN": "牛奶",
-      "ko": "I ate delicious fresh milk.",
-      "zh_HK": "牛奶",
-      "fr": "I ate delicious fresh milk."
+      "ja": "<ruby>朝食<rt>ちょうしょく</rt></ruby>のとき、パンと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "en": "At breakfast, I drink cold milk together with bread.",
+      "zh_TW": "吃早餐的時候，我會配麵包一起喝冰牛奶。",
+      "zh_CN": "吃早餐的时候，我会配面包一起喝冰牛奶。",
+      "ko": "아침 식사 때 빵과 함께 차가운 우유를 마십니다.",
+      "zh_HK": "食早餐嗰陣，我會同麵包一齊飲凍鮮奶。",
+      "fr": "Au petit-déjeuner, je bois du lait frais avec du pain."
     },
-    "related": "【名詞・食事】牛乳 (日常の飲食物・定番メニュー)"
+    "related": "【類語】牛乳 ＝ ミルク"
   },
   {
     "id": "card_0440",
@@ -12333,15 +12333,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "juice"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいジュースを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious (ジュース).",
-      "zh_TW": "果汁",
-      "zh_CN": "果汁",
-      "ko": "I ate delicious (ジュース).",
-      "zh_HK": "果汁",
-      "fr": "I ate delicious (ジュース)."
+      "ja": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>飲<rt>の</rt></ruby>むオレンジジュースは、とても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "en": "Orange juice drunk on a hot summer day is very delicious.",
+      "zh_TW": "在炎熱的夏天喝柳橙汁非常美味。",
+      "zh_CN": "在炎热的夏天喝橙汁非常美味。",
+      "ko": "더운 여름날에 마시는 오렌지 주스는 정말 맛있습니다.",
+      "zh_HK": "喺好熱嘅夏天飲橙汁真係好好味。",
+      "fr": "Boire du jus d'orange par une chaude journée d'été est très agréable."
     },
-    "related": "【名詞・食事】ジュース (日常の飲食物・定番メニュー)"
+    "related": "【ニュアンス】日本では果汁100%以外の果実飲料も日常会話で「ジュース」と呼ばれます。"
   },
   {
     "id": "card_0441",
@@ -12361,15 +12361,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "alcohol / sake / drink"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>酒<rt>さけ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious sake.",
-      "zh_TW": "酒",
-      "zh_CN": "酒",
-      "ko": "I ate delicious sake.",
-      "zh_HK": "酒",
-      "fr": "I ate delicious sake."
+      "ja": "<ruby>二十歳<rt>はたち</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>初<rt>はじ</rt></ruby>めてお<ruby>酒<rt>さけ</rt></ruby>で<ruby>乾杯<rt>かんぱい</rt></ruby>しました。",
+      "en": "On my 20th birthday, I toasted with alcohol for the first time with my family.",
+      "zh_TW": "在二十歲生日那天，我和家人第一次喝酒乾杯慶祝。",
+      "zh_CN": "在二十岁生日那天，我和家人第一次喝酒干杯庆祝。",
+      "ko": "스무 살 생일에 가족과 처음으로 술로 건배했습니다.",
+      "zh_HK": "喺二十歲生日嗰日，我同屋企人第一次飲酒乾杯。",
+      "fr": "Pour mon 20e anniversaire, j'ai trinqué pour la première fois avec de l'alcool en famille."
     },
-    "related": "【名詞・食事】お酒 (日常の飲食物・定番メニュー)"
+    "related": "【法律・文化】日本では飲酒は20歳から。「お酒を飲む」。"
   },
   {
     "id": "card_0442",
@@ -12389,15 +12389,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "egg"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>卵<rt>たまご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious eggs.",
-      "zh_TW": "雞蛋",
-      "zh_CN": "雞蛋",
-      "ko": "I ate delicious eggs.",
-      "zh_HK": "雞蛋",
-      "fr": "I ate delicious eggs."
+      "ja": "<ruby>朝食<rt>ちょうしょく</rt></ruby>に<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>卵<rt>たまご</rt></ruby>で<ruby>目玉焼<rt>めだまや</rt></ruby>きを<ruby>作<rt>つく</rt></ruby>って<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "For breakfast, I made and ate a fried egg using a fresh egg.",
+      "zh_TW": "早餐我用新鮮的雞蛋煎了荷包蛋吃。",
+      "zh_CN": "早餐我用新鲜的鸡蛋煎了荷包蛋吃。",
+      "ko": "아침 식사로 신선한 달걀로 계란 프라이를 만들어 먹었습니다.",
+      "zh_HK": "早餐我用新鮮雞蛋煎咗隻荷包蛋食。",
+      "fr": "Pour le petit-déjeuner, j'ai préparé et mangé un œuf au plat avec un œuf frais."
     },
-    "related": "【名詞・食事】卵 (日常の飲食物・定番メニュー)"
+    "related": "【料理】卵焼き（たまごやき） ／ 卵かけご飯（TKG）"
   },
   {
     "id": "card_0443",
@@ -12417,15 +12417,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "meat"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>肉<rt>にく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious meat.",
-      "zh_TW": "肉",
-      "zh_CN": "肉",
-      "ko": "I ate delicious meat.",
-      "zh_HK": "肉",
-      "fr": "I ate delicious meat."
+      "ja": "<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すために、<ruby>夕飯<rt>ゆうはん</rt></ruby>にジューシーなお<ruby>肉<rt>にく</rt></ruby>を<ruby>焼<rt>や</rt></ruby>きました。",
+      "en": "To boost my energy, I grilled juicy meat for dinner.",
+      "zh_TW": "為了打起精神，晚餐烤了多汁的肉來吃。",
+      "zh_CN": "为了打起精神，晚餐烤了多汁的肉来吃。",
+      "ko": "기운을 내기 위해 저녁으로 육즙이 풍부한 고기를 구웠습니다.",
+      "zh_HK": "為咗補充體力，晚餐煎咗好惹味嘅肉食。",
+      "fr": "Pour faire le plein d'énergie, j'ai grillé de la viande juteuse pour le dîner."
     },
-    "related": "【名詞・食事】お肉 (日常の飲食物・定番メニュー)"
+    "related": "【丁寧表現】日常会話では美化語の「お肉」が親しみやすく広く使われます。"
   },
   {
     "id": "card_0444",
@@ -12445,15 +12445,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "fish"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>魚<rt>さかな</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious fish.",
-      "zh_TW": "魚",
-      "zh_CN": "魚",
-      "ko": "I ate delicious fish.",
-      "zh_HK": "魚",
-      "fr": "I ate delicious fish."
+      "ja": "<ruby>市場<rt>いちば</rt></ruby>で<ruby>買<rt>か</rt></ruby>った<ruby>新鮮<rt>しんせん</rt></ruby>なお<ruby>魚<rt>さかな</rt></ruby>を、お<ruby>刺身<rt>さしみ</rt></ruby>にして<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I ate fresh fish bought at the market prepared as sashimi.",
+      "zh_TW": "把在市場買的新鮮魚做成生魚片享用。",
+      "zh_CN": "把在市场买的新鲜鱼做成生鱼片享用。",
+      "ko": "시장에서 산 신선한 생선을 회로 떠서 먹었습니다.",
+      "zh_HK": "將街市買嘅新鮮魚整成刺身食。",
+      "fr": "J'ai mangé du poisson frais acheté au marché préparé en sashimi."
     },
-    "related": "【名詞・食事】お魚 (日常の飲食物・定番メニュー)"
+    "related": "【丁寧表現】「魚」に「お」を付けた丁寧・親しみのある表現です。"
   },
   {
     "id": "card_0445",
@@ -12473,15 +12473,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "vegetable"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious vegetables.",
-      "zh_TW": "蔬菜",
-      "zh_CN": "蔬菜",
-      "ko": "I ate delicious vegetables.",
-      "zh_HK": "蔬菜",
-      "fr": "I ate delicious vegetables."
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎日<rt>まいにち</rt></ruby>いろいろな<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べています。",
+      "en": "For my health, I eat various kinds of vegetables every day.",
+      "zh_TW": "為了健康，我每天都會吃各種類型的蔬菜。",
+      "zh_CN": "为了健康，我每天都会吃各种类型的蔬菜。",
+      "ko": "건강을 위해 매일 다양한 종류의 채소를 먹고 있습니다.",
+      "zh_HK": "為咗健康，我每日都會食唔同種類嘅蔬菜。",
+      "fr": "Pour ma santé, je mange chaque jour différentes sortes de légumes."
     },
-    "related": "【名詞・食事】野菜 (日常の飲食物・定番メニュー)"
+    "related": "【関連】生野菜（サラダ） ／ 温野菜 ／ 野菜炒め"
   },
   {
     "id": "card_0446",
@@ -12501,15 +12501,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "fruit"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>果物<rt>くだもの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious fruit.",
-      "zh_TW": "水果",
-      "zh_CN": "水果",
-      "ko": "I ate delicious fruit.",
-      "zh_HK": "水果",
-      "fr": "I ate delicious fruit."
+      "ja": "<ruby>食後<rt>しょくご</rt></ruby>のデザートに、<ruby>甘<rt>あま</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>の<ruby>果物<rt>くだもの</rt></ruby>を<ruby>切<rt>き</rt></ruby>って<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "For dessert after the meal, I cut and ate sweet seasonal fruit.",
+      "zh_TW": "餐後甜點我切了當季香甜的水果來吃。",
+      "zh_CN": "餐后甜点我切了当季香甜的水果来吃。",
+      "ko": "식후 디저트로 달콤한 제철 과일을 깎아 먹었습니다.",
+      "zh_HK": "飯後甜品我切咗啲好甜嘅時令水果食。",
+      "fr": "Comme dessert après le repas, j'ai coupé et mangé des fruits de saison bien sucrés."
     },
-    "related": "【名詞・食事】果物 (日常の飲食物・定番メニュー)"
+    "related": "【類語】果物 ＝ フルーツ"
   },
   {
     "id": "card_0447",
@@ -12529,15 +12529,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "rice (uncooked)"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいお<ruby>米<rt>こめ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious rice.",
-      "zh_TW": "米",
-      "zh_CN": "米",
-      "ko": "I ate delicious rice.",
-      "zh_HK": "米",
-      "fr": "I ate delicious rice."
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>のお<ruby>米<rt>こめ</rt></ruby>はふっくらしていて、とても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "en": "Japanese rice is fluffy and very delicious.",
+      "zh_TW": "日本的米飯飽滿鬆軟，非常美味。",
+      "zh_CN": "日本的大米饱满松软，非常美味。",
+      "ko": "일본 쌀은 통통하고 부드러워 아주 맛있습니다.",
+      "zh_HK": "日本嘅米飯粒粒飽滿鬆軟，真係好好味。",
+      "fr": "Le riz japonais est moelleux et très savoureux."
     },
-    "related": "【名詞・食事】お米 (日常の飲食物・定番メニュー)"
+    "related": "【使い分け】炊く前の粒は「お米（こめ）」、炊いて食べる状態は「ご飯（ごはん）」と言います。"
   },
   {
     "id": "card_0448",
@@ -12557,15 +12557,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "onion"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>玉<rt>たま</rt></ruby>ねぎを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious onions.",
-      "zh_TW": "洋蔥",
-      "zh_CN": "洋蔥",
-      "ko": "I ate delicious onions.",
-      "zh_HK": "洋蔥",
-      "fr": "I ate delicious onions."
+      "ja": "<ruby>玉<rt>たま</rt></ruby>ねぎをじっくり<ruby>炒<rt>いた</rt></ruby>めると、<ruby>料理<rt>りょうり</rt></ruby>の<ruby>甘<rt>あま</rt></ruby>みが<ruby>引<rt>ひ</rt></ruby>き<ruby>立<rt>た</rt></ruby>ちます。",
+      "en": "Stir-frying onions slowly brings out the sweetness in dishes.",
+      "zh_TW": "把洋蔥慢慢炒軟，能襯托出料理的鮮甜。",
+      "zh_CN": "把洋葱慢慢炒软，能衬托出料理的鲜甜。",
+      "ko": "양파를 푹 볶으면 요리의 단맛이 살아납니다.",
+      "zh_HK": "將洋蔥慢慢炒透，可以帶出成味餸嘅鮮甜。",
+      "fr": "Faire revenir lentement les oignons fait ressortir la douceur du plat."
     },
-    "related": "【名詞・食事】玉ねぎ (日常の飲食物・定番メニュー)"
+    "related": "【数え方】玉ねぎは「1個（いっこ）」「2個（にこ）」と数えます。"
   },
   {
     "id": "card_0449",
@@ -12585,15 +12585,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "carrot"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>人参<rt>にんじん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious carrots.",
-      "zh_TW": "紅蘿蔔",
-      "zh_CN": "紅蘿蔔",
-      "ko": "I ate delicious carrots.",
-      "zh_HK": "紅蘿蔔",
-      "fr": "I ate delicious carrots."
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>のカレーライスのために、<ruby>人参<rt>にんじん</rt></ruby>を<ruby>切<rt>き</rt></ruby>っておきました。",
+      "en": "I chopped carrots in advance for tonight's curry rice.",
+      "zh_TW": "為了今晚的咖哩飯，我事先切好了胡蘿蔔。",
+      "zh_CN": "为了今晚的咖喱饭，我事先切好了胡萝卜。",
+      "ko": "오늘 밤 카레라이스를 위해 당근을 미리 썰어 두었습니다.",
+      "zh_HK": "為咗今晚嘅咖喱飯，我預先切定咗紅蘿蔔。",
+      "fr": "J'ai coupé des carottes à l'avance pour le curry de ce soir."
     },
-    "related": "【名詞・食事】人参 (日常の飲食物・定番メニュー)"
+    "related": "【数え方】細長い野菜は「1本（いっぽん）」「2本（にほん）」と数えます。"
   },
   {
     "id": "card_0450",
@@ -12613,15 +12613,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "cucumber"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいきゅうりを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious cucumbers.",
-      "zh_TW": "小黃瓜",
-      "zh_CN": "小黃瓜",
-      "ko": "I ate delicious cucumbers.",
-      "zh_HK": "小黃瓜",
-      "fr": "I ate delicious cucumbers."
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>に<ruby>冷<rt>ひ</rt></ruby>やしたきゅうりを、お<ruby>味噌<rt>みそ</rt></ruby>につけて<ruby>丸<rt>まる</rt></ruby>かじりしました。",
+      "en": "In summer, I munched on a whole chilled cucumber dipped in miso paste.",
+      "zh_TW": "夏天時，把冰鎮黃瓜沾著味噌整根大口咬著吃。",
+      "zh_CN": "夏天时，把冰镇黄瓜蘸着味噌整根大口咬着吃。",
+      "ko": "여름에 차갑게 식힌 오이를 된장에 찍어 통째로 베어 물었습니다.",
+      "zh_HK": "夏天嗰陣，將雪凍嘅青瓜點住味噌成條咁咬嚟食。",
+      "fr": "En été, j'ai croqué dans un concombre frais trempé dans de la pâte miso."
     },
-    "related": "【名詞・食事】きゅうり (日常の飲食物・定番メニュー)"
+    "related": "【数え方】きゅうりは「1本（いっぽん）」「2本（にほん）」と数えます。"
   },
   {
     "id": "card_0451",
@@ -12641,15 +12641,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "salmon"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>鮭<rt>さけ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious salmon.",
-      "zh_TW": "鮭魚",
-      "zh_CN": "鮭魚",
-      "ko": "I ate delicious salmon.",
-      "zh_HK": "鮭魚",
-      "fr": "I ate delicious salmon."
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>ごはんに、<ruby>香<rt>こう</rt></ruby>ばしく<ruby>焼<rt>や</rt></ruby>いた<ruby>鮭<rt>さけ</rt></ruby>の<ruby>塩焼<rt>しおや</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "For breakfast, I ate aromatic salt-grilled salmon.",
+      "zh_TW": "早餐我吃了烤得香噴噴的鹽烤鮭魚。",
+      "zh_CN": "早餐我吃了烤得香喷喷的盐烤三文鱼。",
+      "ko": "아침 식사로 노릇하게 구운 연어 소금구이를 먹었습니다.",
+      "zh_HK": "早餐我食咗煎得好香嘅鹽燒三文魚。",
+      "fr": "Pour le petit-déjeuner, j'ai mangé du saumon grillé au sel bien parfumé."
     },
-    "related": "【名詞・食事】鮭 (日常の飲食物・定番メニュー)"
+    "related": "【読み分け】魚としては「さけ」「しゃけ」どちらも日常会話で使われます。"
   },
   {
     "id": "card_0452",
@@ -12669,15 +12669,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "shrimp / prawn"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>海老<rt>えび</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious shrimp.",
-      "zh_TW": "蝦子",
-      "zh_CN": "蝦子",
-      "ko": "I ate delicious shrimp.",
-      "zh_HK": "蝦子",
-      "fr": "I ate delicious shrimp."
+      "ja": "<ruby>天<rt>てん</rt></ruby>ぷら<ruby>屋<rt>や</rt></ruby>で、<ruby>揚<rt>あ</rt></ruby>げたてのぷりぷりした<ruby>海老<rt>えび</rt></ruby>の<ruby>天<rt>てん</rt></ruby>ぷらを<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "At the tempura restaurant, I ate freshly fried, plump shrimp tempura.",
+      "zh_TW": "在天婦羅店，我吃了剛炸好、肉質彈牙的炸蝦天婦羅。",
+      "zh_CN": "在天妇罗店，我吃了刚炸好、肉质紧实弹牙的炸虾天妇罗。",
+      "ko": "튀김 집에서 갓 튀긴 탱글탱글한 새우튀김을 먹었습니다.",
+      "zh_HK": "喺天婦羅舖，我食咗啱啱炸出嚟、肉質好彈牙嘅炸蝦天婦羅。",
+      "fr": "Au restaurant de tempura, j'ai mangé des beignets de crevettes fraîchement frits et bien charnus."
     },
-    "related": "【名詞・食事】海老 (日常の飲食物・定番メニュー)"
+    "related": "【数え方】生きている海老は「匹（ひき）」、料理用の尾は「尾（び）」とも数えます。"
   },
   {
     "id": "card_0453",
@@ -12697,15 +12697,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "beef"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious beef.",
-      "zh_TW": "牛肉",
-      "zh_CN": "牛肉",
-      "ko": "I ate delicious beef.",
-      "zh_HK": "牛肉",
-      "fr": "I ate delicious beef."
+      "ja": "<ruby>特別<rt>とくべつ</rt></ruby>なお<ruby>祝<rt>いわ</rt></ruby>いで、<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>上質<rt>じょうしつ</rt></ruby>な<ruby>牛肉<rt>ぎゅうにく</rt></ruby>のステーキを<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "For a special celebration, I ate a tender, high-quality beef steak.",
+      "zh_TW": "在特別的慶祝活動中，我吃了鮮嫩優質的牛肉牛排。",
+      "zh_CN": "在特别的庆祝活动中，我吃了鲜嫩优质的牛肉牛排。",
+      "ko": "특별한 축하 자리에서 부드럽고 질 좋은 소고기 스테이크를 먹었습니다.",
+      "zh_HK": "喺特別嘅慶祝活動入面，我食咗好淋好優質嘅牛扒。",
+      "fr": "Pour une célébration spéciale, j'ai mangé un steak de bœuf tendre et de grande qualité."
     },
-    "related": "【名詞・食事】牛肉 (日常の飲食物・定番メニュー)"
+    "related": "【料理】すき焼き、牛丼、焼肉などで親しまれる代表的なお肉です。"
   },
   {
     "id": "card_0454",
@@ -12725,15 +12725,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "pork"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>豚肉<rt>ぶたにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious pork.",
-      "zh_TW": "豬肉",
-      "zh_CN": "豬肉",
-      "ko": "I ate delicious pork.",
-      "zh_HK": "豬肉",
-      "fr": "I ate delicious pork."
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>のおかずに、<ruby>豚肉<rt>ぶたにく</rt></ruby>とキャベツの<ruby>炒<rt>いた</rt></ruby>め<ruby>物<rt>もの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+      "en": "For tonight's side dish, I cooked stir-fried pork and cabbage.",
+      "zh_TW": "今晚的配菜，我做了豬肉炒高麗菜。",
+      "zh_CN": "今晚的配菜，我做了猪肉炒圆白菜。",
+      "ko": "오늘 밤 반찬으로 돼지고기 양배추 볶음을 만들었습니다.",
+      "zh_HK": "今晚嘅配菜，我炒咗豬肉炒椰菜。",
+      "fr": "Comme plat pour ce soir, j'ai préparé un sauté de porc et de chou."
     },
-    "related": "【名詞・食事】豚肉 (日常の飲食物・定番メニュー)"
+    "related": "【料理】とんかつ（豚カツ）、豚汁（ぶたじる・とんじる）、生姜焼きなど。"
   },
   {
     "id": "card_0455",
@@ -12753,15 +12753,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "chicken (meat)"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious chicken.",
-      "zh_TW": "雞肉",
-      "zh_CN": "雞肉",
-      "ko": "I ate delicious chicken.",
-      "zh_HK": "雞肉",
-      "fr": "I ate delicious chicken."
+      "ja": "<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>大好<rt>だいす</rt></ruby>きな、ジューシーな<ruby>鶏肉<rt>とりにく</rt></ruby>の<ruby>唐揚<rt>からあ</rt></ruby>げを<ruby>揚<rt>あ</rt></ruby>げました。",
+      "en": "I fried juicy chicken karaage that the children love.",
+      "zh_TW": "我炸了孩子們最喜歡的多汁日式炸雞。",
+      "zh_CN": "我炸了孩子们最喜欢的多汁日式炸鸡。",
+      "ko": "아이들이 아주 좋아하는 육즙 가득한 닭고기 가라아게를 튀겼습니다.",
+      "zh_HK": "我炸咗小朋友最鍾意食嘅多汁日式炸雞。",
+      "fr": "J'ai fait frire du karaage de poulet juteux que les enfants adorent."
     },
-    "related": "【名詞・食事】鶏肉 (日常の飲食物・定番メニュー)"
+    "related": "【料理】焼き鳥、唐揚げ、親子丼などで親しまれる人気のお肉です。"
   },
   {
     "id": "card_0456",
@@ -12781,15 +12781,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "strawberry"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>苺<rt>いちご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious strawberries.",
-      "zh_TW": "草莓",
-      "zh_CN": "草莓",
-      "ko": "I ate delicious strawberries.",
-      "zh_HK": "草莓",
-      "fr": "I ate delicious strawberries."
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>から<ruby>春<rt>はる</rt></ruby>にかけて、<ruby>甘<rt>あま</rt></ruby>くて<ruby>赤<rt>あか</rt></ruby>い<ruby>苺<rt>いちご</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>になります。",
+      "en": "From winter to spring, it becomes the season for sweet and red strawberries.",
+      "zh_TW": "從冬天到春天，正是香甜紅艷的草莓盛產季節。",
+      "zh_CN": "从冬天到春天，正是香甜红艳的草莓盛产季节。",
+      "ko": "겨울부터 봄에 걸쳐 달콤하고 붉은 딸기의 계절이 됩니다.",
+      "zh_HK": "由冬天到春天，正係又甜又紅嘅士多啤梨時令季節。",
+      "fr": "De l'hiver au printemps, c'est la saison des fraises douces et bien rouges."
     },
-    "related": "【名詞・食事】苺 (日常の飲食物・定番メニュー)"
+    "related": "【関連】ショートケーキ、いちご狩り（いちごがり）"
   },
   {
     "id": "card_0457",
@@ -12837,15 +12837,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "peach"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいももを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious peaches.",
-      "zh_TW": "桃子",
-      "zh_CN": "桃子",
-      "ko": "I ate delicious peaches.",
-      "zh_HK": "桃子",
-      "fr": "I ate delicious peaches."
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>に<ruby>山梨県<rt>やまなしけん</rt></ruby>の<ruby>農園<rt>のうえん</rt></ruby>で、みずみずしくて<ruby>甘<rt>あま</rt></ruby>い<ruby>桃<rt>もも</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "In summer, I ate juicy and sweet peaches at an orchard in Yamanashi Prefecture.",
+      "zh_TW": "夏天在山梨縣的農園裡，吃了多汁香甜的水蜜桃。",
+      "zh_CN": "夏天在山梨县的农园里，吃了多汁香甜的水蜜桃。",
+      "ko": "여름에 야마나시현의 농원에서 싱싱하고 달콤한 복숭아를 먹었습니다.",
+      "zh_HK": "夏天喺山梨縣嘅農場，食咗好甜好多汁嘅水蜜桃。",
+      "fr": "En été, j'ai mangé des pêches juteuses et sucrées dans un verger de la préfecture de Yamanashi."
     },
-    "related": "【名詞・食事】もも (日常の飲食物・定番メニュー)"
+    "related": "【数え方】桃は「1個（いっこ）」と数えます。白桃（はくとう）が有名です。"
   },
   {
     "id": "card_0459",
@@ -12865,15 +12865,15 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "mandarin / tangerine"
     },
     "example": {
-      "ja": "<ruby>美味<rt>おい</rt></ruby>しいみかんを<ruby>食<rt>た</rt></ruby>べました。",
-      "en": "I ate delicious mandarin oranges.",
-      "zh_TW": "橘子",
-      "zh_CN": "橘子",
-      "ko": "I ate delicious mandarin oranges.",
-      "zh_HK": "橘子",
-      "fr": "I ate delicious mandarin oranges."
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>はこたつに<ruby>入<rt>はい</rt></ruby>って、<ruby>甘<rt>あま</rt></ruby>いみかんを<ruby>食<rt>た</rt></ruby>べるのが<ruby>最高<rt>さいこう</rt></ruby>です。",
+      "en": "In winter, sitting in a kotatsu and eating sweet mikan mandarins is the best.",
+      "zh_TW": "冬天鑽進被爐裡吃香甜的蜜柑是最棒的享受。",
+      "zh_CN": "冬天钻进被炉里吃香甜的蜜柑是最棒的享受。",
+      "ko": "겨울에는 코타츠에 들어가 달콤한 귤을 먹는 것이 최고입니다.",
+      "zh_HK": "冬天捐入暖桌食甜甜地嘅蜜柑真係頂級享受。",
+      "fr": "En hiver, s'installer sous un kotatsu et manger de douces mandarines mikan est ce qu'il y a de mieux."
     },
-    "related": "【名詞・食事】みかん (日常の飲食物・定番メニュー)"
+    "related": "【文化・風物詩】日本の冬の定番といえば「こたつにみかん」です。"
   },
   {
     "id": "card_0460",

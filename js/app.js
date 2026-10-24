@@ -6218,7 +6218,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v64_master_cards_furigana_reverse_repaired';
+    const CURRENT_DATA_VERSION = 'v65_vehicles_food_natural_sentences_repaired';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
