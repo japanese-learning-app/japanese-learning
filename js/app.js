@@ -56,6 +56,17 @@
   let quizCurrentQuestion = null;
   let quizScore = 0;
 
+  // Fisher-Yates uniform shuffle helper
+  function shuffleArray(array) {
+    if (!array || !array.length) return [];
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
   // --- High-Fidelity TTS Speech Engine ---
   // Converts kanji sentences to pure furigana readings using <ruby><rt>furigana</rt></ruby> tags,
   // ensuring the browser's speech synthesizer never misreads words like 二重価格.
@@ -6648,7 +6659,7 @@
         document.getElementById('activeStudyHeader').classList.remove('hidden');
 
         updateActiveDeck();
-        activeDeck.sort(() => Math.random() - 0.5);
+        activeDeck = shuffleArray(activeDeck);
         currentIndex = 0;
         renderCurrentCard();
         showToast(isJa ? '全単元をシャッフルしました！🔀' : 'Shuffled all curriculum cards! 🔀');
@@ -9480,8 +9491,36 @@
       return;
     }
 
-    // Shuffle cards for quiz pool
-    quizPool = sourcePool.sort(() => Math.random() - 0.5);
+    // Shuffle cards for quiz pool (満遍なくシャッフル & 全問シャッフル)
+    if (quizScope === 'all' && quizQuestionLimit < 9999 && sourcePool.length > quizQuestionLimit) {
+      // フォルダ・セクションごとに満遍なく分散選出
+      const groups = new Map();
+      sourcePool.forEach(c => {
+        const key = c.folder_id || c.section || 'default';
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push(c);
+      });
+      const shuffledGroups = new Map();
+      groups.forEach((cards, key) => shuffledGroups.set(key, shuffleArray(cards)));
+      const groupKeys = shuffleArray(Array.from(shuffledGroups.keys()));
+      const picked = [];
+      while (picked.length < quizQuestionLimit && groupKeys.length > 0) {
+        const currentRound = shuffleArray([...groupKeys]);
+        let added = 0;
+        for (const k of currentRound) {
+          if (picked.length >= quizQuestionLimit) break;
+          const list = shuffledGroups.get(k);
+          if (list && list.length > 0) {
+            picked.push(list.pop());
+            added++;
+          }
+        }
+        if (added === 0) break;
+      }
+      quizPool = shuffleArray(picked);
+    } else {
+      quizPool = shuffleArray(sourcePool);
+    }
     quizIndex = 0;
     quizScore = 0;
     renderQuizQuestion();
@@ -9626,16 +9665,15 @@
               selectedForms.push(fc);
             }
           });
-          choices = selectedForms.sort(() => Math.random() - 0.5);
+          choices = shuffleArray(selectedForms);
         }
       }
       if (choices.length < 4) {
         const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
-        const distractorCandidates = candidatePool
-          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word))
-          .sort(() => Math.random() - 0.5)
+        const distractorCandidates = shuffleArray(candidatePool
+          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word)))
           .slice(0, 4 - choices.length);
-        choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+        choices = shuffleArray([quizCurrentQuestion, ...distractorCandidates]);
       }
 
     } else if (isTestMode && chosenTestType === 'conjugation') {
@@ -9701,15 +9739,14 @@
             selectedForms.push(p);
           }
         });
-        choices = selectedForms.sort(() => Math.random() - 0.5);
+        choices = shuffleArray(selectedForms);
       }
       if (choices.length < 4) {
         const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
-        const distractorCandidates = candidatePool
-          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word))
-          .sort(() => Math.random() - 0.5)
+        const distractorCandidates = shuffleArray(candidatePool
+          .filter(c => c && c.id !== quizCurrentQuestion.id && c.word !== quizCurrentQuestion.word && (c.reading || c.word)))
           .slice(0, 4 - choices.length);
-        choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+        choices = shuffleArray([quizCurrentQuestion, ...distractorCandidates]);
       }
 
     } else {
@@ -9733,11 +9770,10 @@
       if (hintEl) hintEl.textContent = quizCurrentQuestion.category ? `【分類】${quizCurrentQuestion.category}` : 'General';
 
       const candidatePool = (quizScope === 'all' ? getAllowedQuizCards() : (activeDeck && activeDeck.length >= 4 ? activeDeck : getAllowedQuizCards()));
-      const distractorCandidates = candidatePool
-        .filter(c => c && c.id !== quizCurrentQuestion.id && (c.reading || c.word))
-        .sort(() => Math.random() - 0.5)
+      const distractorCandidates = shuffleArray(candidatePool
+        .filter(c => c && c.id !== quizCurrentQuestion.id && (c.reading || c.word)))
         .slice(0, 3);
-      choices = [quizCurrentQuestion, ...distractorCandidates].sort(() => Math.random() - 0.5);
+      choices = shuffleArray([quizCurrentQuestion, ...distractorCandidates]);
     }
 
     choices.forEach(card => {
@@ -11796,7 +11832,7 @@
         showToast('No cards in this deck');
         return;
       }
-      activeDeck.sort(() => Math.random() - 0.5);
+      activeDeck = shuffleArray(activeDeck);
       currentIndex = 0;
       renderCurrentCard();
       showToast('Shuffled current deck 🔀');
@@ -11814,7 +11850,7 @@
       document.getElementById('activeStudyHeader').classList.remove('hidden');
 
       updateActiveDeck();
-      activeDeck.sort(() => Math.random() - 0.5);
+      activeDeck = shuffleArray(activeDeck);
       currentIndex = 0;
       renderCurrentCard();
       showToast(isJa ? '全単元をシャッフルしました！🔀' : 'Shuffled all curriculum cards! 🔀');

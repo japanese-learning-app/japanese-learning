@@ -1628,12 +1628,67 @@
     return arr;
   }
 
-  // 最初から1,507問すべてをランダムにシャッフル！
-  let masterIndices = shuffleArray(data.map((_, i) => i));
-  let filteredIndices = [...masterIndices];
+  // 満遍なく・バランスよく問題を選出してシャッフルするヘルパー
+  function buildBalancedIndices(limit, filterVal = 'all') {
+    // 1. 特定の文法項目で絞り込まれている場合
+    if (filterVal !== 'all') {
+      const gid = parseInt(filterVal, 10);
+      const matched = [];
+      for (let i = 0; i < data.length; i++) {
+        if (data[i].grammar_id === gid) matched.push(i);
+      }
+      const shuffled = shuffleArray(matched);
+      return (limit > 0 && shuffled.length > limit) ? shuffled.slice(0, limit) : shuffled;
+    }
+
+    // 2. 全問モード（limit <= 0 または limit >= data.length）の場合は全問を最初から完全シャッフル！
+    if (!limit || limit <= 0 || limit >= data.length) {
+      return shuffleArray(data.map((_, i) => i));
+    }
+
+    // 3. 厳選問題（10問、30問、50問等）の場合は、文法項目（grammar_id）ごとに満遍なく分散させて選出
+    const grammarGroups = new Map();
+    data.forEach((q, idx) => {
+      const gid = q.grammar_id;
+      if (!grammarGroups.has(gid)) {
+        grammarGroups.set(gid, []);
+      }
+      grammarGroups.get(gid).push(idx);
+    });
+
+    // 各文法グループ内の問題をシャッフル
+    const shuffledGroups = new Map();
+    grammarGroups.forEach((indices, gid) => {
+      shuffledGroups.set(gid, shuffleArray(indices));
+    });
+
+    // 文法項目IDリストをシャッフル（全195項目から偏りなく選出）
+    const grammarIds = shuffleArray(Array.from(shuffledGroups.keys()));
+
+    const pickedIndices = [];
+    while (pickedIndices.length < limit && grammarIds.length > 0) {
+      const currentRound = shuffleArray([...grammarIds]);
+      let addedInRound = 0;
+      for (const gid of currentRound) {
+        if (pickedIndices.length >= limit) break;
+        const qList = shuffledGroups.get(gid);
+        if (qList && qList.length > 0) {
+          pickedIndices.push(qList.pop());
+          addedInRound++;
+        }
+      }
+      if (addedInRound === 0) break;
+    }
+
+    // 選出された問題を再度全体シャッフルして出題順をランダム化
+    return shuffleArray(pickedIndices);
+  }
+
+  let selectedLimit = 0; // 0 = all
+  // 最初から全1,507問を完全ランダムシャッフル！
+  let filteredIndices = buildBalancedIndices(selectedLimit, 'all');
   let currentIndex = 0;
   let showFurigana = true;
-  let selectedLimit = 0; // 0 = all
 
   let userStats = {
     answered: 0,
@@ -1642,7 +1697,7 @@
   };
   let bookmarks = JSON.parse(localStorage.getItem('jlpt_n2_bookmarks') || '[]');
 
-  // Check saved progress
+  // Check saved progress（再開ボタンの表示のみ行い、初期表示はシャッフルされた1問目から開始）
   const savedProgress = JSON.parse(localStorage.getItem('jlpt_n2_grammar_progress') || 'null');
   const btnResume = document.getElementById('btnResume');
   const resumeQuestionNum = document.getElementById('resumeQuestionNum');
@@ -1650,13 +1705,6 @@
   if (savedProgress && savedProgress.lastIndex !== undefined && savedProgress.lastIndex > 0) {
     btnResume.style.display = 'inline-flex';
     resumeQuestionNum.textContent = (savedProgress.lastIndex + 1);
-    if (savedProgress.masterIndices && savedProgress.masterIndices.length === data.length) {
-      masterIndices = savedProgress.masterIndices;
-      filteredIndices = [...masterIndices];
-    }
-    if (savedProgress.userStats) {
-      userStats = savedProgress.userStats;
-    }
   }
 
   // DOM Elements
@@ -1723,26 +1771,11 @@
 
   // Filter change
   grammarFilter.addEventListener('change', (e) => {
-    const val = e.target.value;
-    if (val === 'all') {
-      applyQuestionLimit(masterIndices, selectedLimit);
-    } else {
-      const gid = parseInt(val, 10);
-      const matches = masterIndices.filter(i => data[i].grammar_id === gid);
-      applyQuestionLimit(matches, selectedLimit);
-    }
+    filteredIndices = buildBalancedIndices(selectedLimit, e.target.value);
     currentIndex = 0;
+    userStats = { answered: 0, correct: 0, answers: {} };
     renderQuestion();
   });
-
-  // Question count selector pills
-  function applyQuestionLimit(baseIndices, limit) {
-    if (limit > 0 && baseIndices.length > limit) {
-      filteredIndices = baseIndices.slice(0, limit);
-    } else {
-      filteredIndices = [...baseIndices];
-    }
-  }
 
   document.querySelectorAll('.count-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1750,23 +1783,33 @@
       btn.classList.add('active');
       selectedLimit = parseInt(btn.dataset.count, 10);
       
-      const val = grammarFilter.value;
-      let base = masterIndices;
-      if (val !== 'all') {
-        const gid = parseInt(val, 10);
-        base = masterIndices.filter(i => data[i].grammar_id === gid);
-      }
-      applyQuestionLimit(base, selectedLimit);
+      filteredIndices = buildBalancedIndices(selectedLimit, grammarFilter.value);
       currentIndex = 0;
+      userStats = { answered: 0, correct: 0, answers: {} };
       renderQuestion();
-      showToast(selectedLimit === 0 ? `全 ${filteredIndices.length} 問を設定しました` : `${selectedLimit} 問演習を開始します`);
+      showToast(selectedLimit === 0 ? `全 ${filteredIndices.length} 問（ランダムシャッフル）を設定しました` : `${selectedLimit} 問（満遍なく厳選シャッフル）を開始します`);
     });
   });
 
   // Resume Button Click
   btnResume.addEventListener('click', () => {
-    if (savedProgress && savedProgress.lastIndex !== undefined) {
-      currentIndex = Math.min(savedProgress.lastIndex, filteredIndices.length - 1);
+    if (savedProgress) {
+      if (savedProgress.filteredIndices && savedProgress.filteredIndices.length > 0) {
+        filteredIndices = savedProgress.filteredIndices;
+      } else if (savedProgress.masterIndices && savedProgress.masterIndices.length > 0) {
+        filteredIndices = savedProgress.masterIndices;
+      }
+      if (savedProgress.userStats) userStats = savedProgress.userStats;
+      if (savedProgress.selectedLimit !== undefined) {
+        selectedLimit = savedProgress.selectedLimit;
+        document.querySelectorAll('.count-btn').forEach(b => {
+          b.classList.toggle('active', parseInt(b.dataset.count, 10) === selectedLimit);
+        });
+      }
+      if (savedProgress.filterVal !== undefined) {
+        grammarFilter.value = savedProgress.filterVal;
+      }
+      currentIndex = Math.min(savedProgress.lastIndex || 0, filteredIndices.length - 1);
       renderQuestion();
       showToast(`前回の続き（第 ${currentIndex + 1} 問）から再開しました！`);
     }
@@ -1790,18 +1833,12 @@
 
   // Reshuffle Button
   reshuffleBtn.addEventListener('click', () => {
-    masterIndices = shuffleArray(data.map((_, i) => i));
-    const val = grammarFilter.value;
-    let base = masterIndices;
-    if (val !== 'all') {
-      const gid = parseInt(val, 10);
-      base = masterIndices.filter(i => data[i].grammar_id === gid);
-    }
-    applyQuestionLimit(base, selectedLimit);
+    filteredIndices = buildBalancedIndices(selectedLimit, grammarFilter.value);
     currentIndex = 0;
+    userStats = { answered: 0, correct: 0, answers: {} };
     saveProgress();
     renderQuestion();
-    showToast('全問題を再シャッフルしました！');
+    showToast(selectedLimit === 0 ? '全問題を最初から完全シャッフルしました！' : `${filteredIndices.length} 問を満遍なく再シャッフルしました！`);
   });
 
   // Bookmark Toggle
@@ -1872,7 +1909,9 @@
   function saveProgress() {
     localStorage.setItem('jlpt_n2_grammar_progress', JSON.stringify({
       lastIndex: currentIndex,
-      masterIndices: masterIndices,
+      filteredIndices: filteredIndices,
+      selectedLimit: selectedLimit,
+      filterVal: grammarFilter.value,
       userStats: userStats,
       timestamp: Date.now()
     }));

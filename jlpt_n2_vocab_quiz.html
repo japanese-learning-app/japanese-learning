@@ -1784,12 +1784,75 @@
 <script>
   // State
   const data = window.JLPT_N2_VOCAB_QUIZ_DATA || [];
-  let masterIndices = data.map((_, i) => i);
-  let activeIndices = [...masterIndices];
+
+  // Fisher-Yates shuffle helper
+  function shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // 満遍なく・バランスよく問題を選出してシャッフルするヘルパー
+  function buildBalancedIndices(limit, catVal = 'all') {
+    // 1. 特定のカテゴリで絞り込まれている場合
+    if (catVal !== 'all') {
+      const matched = [];
+      for (let i = 0; i < data.length; i++) {
+        if (data[i].category && data[i].category.includes(catVal)) matched.push(i);
+      }
+      const shuffled = shuffleArray(matched);
+      return (limit > 0 && shuffled.length > limit) ? shuffled.slice(0, limit) : shuffled;
+    }
+
+    // 2. 全問モード（limit <= 0 または limit >= data.length）の場合は全896問を最初から完全シャッフル！
+    if (!limit || limit <= 0 || limit >= data.length) {
+      return shuffleArray(data.map((_, i) => i));
+    }
+
+    // 3. 厳選問題（10問、30問、50問等）の場合は、カテゴリごとに満遍なく分散させて選出
+    const catGroups = new Map();
+    data.forEach((q, idx) => {
+      const cat = q.category || 'その他';
+      if (!catGroups.has(cat)) {
+        catGroups.set(cat, []);
+      }
+      catGroups.get(cat).push(idx);
+    });
+
+    const shuffledGroups = new Map();
+    catGroups.forEach((indices, cat) => {
+      shuffledGroups.set(cat, shuffleArray(indices));
+    });
+
+    const catKeys = shuffleArray(Array.from(shuffledGroups.keys()));
+
+    const pickedIndices = [];
+    while (pickedIndices.length < limit && catKeys.length > 0) {
+      const currentRound = shuffleArray([...catKeys]);
+      let addedInRound = 0;
+      for (const cat of currentRound) {
+        if (pickedIndices.length >= limit) break;
+        const qList = shuffledGroups.get(cat);
+        if (qList && qList.length > 0) {
+          pickedIndices.push(qList.pop());
+          addedInRound++;
+        }
+      }
+      if (addedInRound === 0) break;
+    }
+
+    return shuffleArray(pickedIndices);
+  }
+
+  let selectedLimit = 0; // 0 = all
+  // 最初から全896問を完全ランダムシャッフル！
+  let activeIndices = buildBalancedIndices(selectedLimit, 'all');
   let currentIndex = 0;
   let correctCount = 0;
   let answeredCount = 0;
-  let selectedLimit = 0; // 0 = all
   let hasAnsweredCurrent = false;
 
   // LocalStorage Keys
@@ -2069,13 +2132,7 @@
 
   // Filter & Limit Logic
   categoryFilter.addEventListener('change', (e) => {
-    const val = e.target.value;
-    if (val === 'all') {
-      masterIndices = data.map((_, i) => i);
-    } else {
-      masterIndices = data.map((q, i) => (q.category && q.category.includes(val)) ? i : -1).filter(i => i !== -1);
-    }
-    applyCountLimit();
+    activeIndices = buildBalancedIndices(selectedLimit, e.target.value);
     currentIndex = 0;
     correctCount = 0;
     answeredCount = 0;
@@ -2087,33 +2144,23 @@
       document.querySelectorAll('.count-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       selectedLimit = parseInt(btn.dataset.count, 10);
-      applyCountLimit();
+      activeIndices = buildBalancedIndices(selectedLimit, categoryFilter.value);
       currentIndex = 0;
       correctCount = 0;
       answeredCount = 0;
       renderQuestion();
+      showToast(selectedLimit === 0 ? `全 ${activeIndices.length} 問（ランダムシャッフル）を設定しました` : `${selectedLimit} 問（満遍なく厳選シャッフル）を開始します`);
     });
   });
 
-  function applyCountLimit() {
-    if (selectedLimit > 0 && masterIndices.length > selectedLimit) {
-      activeIndices = masterIndices.slice(0, selectedLimit);
-    } else {
-      activeIndices = [...masterIndices];
-    }
-  }
-
   // Shuffle
   btnShuffle.addEventListener('click', () => {
-    for (let i = activeIndices.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [activeIndices[i], activeIndices[j]] = [activeIndices[j], activeIndices[i]];
-    }
+    activeIndices = buildBalancedIndices(selectedLimit, categoryFilter.value);
     currentIndex = 0;
     correctCount = 0;
     answeredCount = 0;
     renderQuestion();
-    showToast('問題をランダムにシャッフルしました！');
+    showToast(selectedLimit === 0 ? '全問題を最初から完全シャッフルしました！' : `${activeIndices.length} 問を満遍なく再シャッフルしました！`);
   });
 
   // Resume feature
