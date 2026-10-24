@@ -7889,9 +7889,61 @@
     return next;
   }
 
+  // Direct REST API fallback for student cloud sync (never blocks on JS SDK auth switches)
+  async function syncStudentViaRest(studentId, passcode, dataToSync) {
+    const API_KEY = "AIzaSyBNsrBL1xRErsuOHgvI7xNs15cai-auoSE";
+    const PROJECT_ID = "japanese-learning-e8a53";
+    const authUrl = `https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=${API_KEY}`;
+    const authRes = await fetch(authUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        email: `${studentId.toLowerCase()}@haku.local`,
+        password: `haku_${passcode}_sec`,
+        returnSecureToken: true
+      })
+    });
+    if (!authRes.ok) return false;
+    const authData = await authRes.json();
+    const idToken = authData.idToken;
+
+    function toFsValue(val) {
+      if (val === null || val === undefined) return { nullValue: null };
+      if (typeof val === 'string') return { stringValue: val };
+      if (typeof val === 'boolean') return { booleanValue: val };
+      if (typeof val === 'number') return Number.isInteger(val) ? { integerValue: String(val) } : { doubleValue: val };
+      if (Array.isArray(val)) return { arrayValue: { values: val.map(toFsValue) } };
+      if (typeof val === 'object') {
+        const fields = {};
+        for (const [k, v] of Object.entries(val)) {
+          if (v !== undefined) fields[k] = toFsValue(v);
+        }
+        return { mapValue: { fields } };
+      }
+      return { stringValue: String(val) };
+    }
+
+    const fields = {};
+    for (const [k, v] of Object.entries(dataToSync)) {
+      if (k === 'updatedAt') continue;
+      fields[k] = toFsValue(v);
+    }
+
+    const docUrl = `https://firestore.googleapis.com/v1/projects/${PROJECT_ID}/databases/(default)/documents/students/${studentId}`;
+    const patchRes = await fetch(docUrl, {
+      method: 'PATCH',
+      headers: {
+        'Authorization': `Bearer ${idToken}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ fields })
+    });
+    return patchRes.ok;
+  }
+
   // Push student's mylist, folders, and mapping to Cloud Firestore with explicit auth
   async function syncStudentToCloudDirect(studentId, dataToSync) {
-    if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return false;
+    if (!studentId || studentId === 'guest') return false;
     const targetStudent = students.find(s => s.id === studentId) || (currentStudent && currentStudent.id === studentId ? currentStudent : null);
     if (!targetStudent) return false;
     const originalStudent = currentStudent;
@@ -7922,19 +7974,30 @@
           await docRef.set(dataToSync, { merge: true });
           console.log(`Cloud sync direct pushed for student ${studentId} ☁️`);
 
-          // Restore original session if needed
+          // Restore original session asynchronously without blocking
           if (originalStudent && originalStudent.id !== studentId) {
-            await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode);
+            ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode).catch(e => {
+              console.warn('Session restore note:', e);
+            });
           }
         };
 
-        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Cloud sync direct timeout (6s)')), 6000));
+        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Cloud sync direct timeout (20s)')), 20000));
         await Promise.race([syncOperation(), timeoutPromise]);
         return true;
       } catch (err) {
-        console.warn(`Cloud sync direct note for ${studentId}:`, err.message);
+        console.warn(`Cloud sync direct JS SDK note for ${studentId}, attempting REST fallback:`, err.message);
+        try {
+          const restOk = await syncStudentViaRest(studentId, targetStudent.passcode, dataToSync);
+          if (restOk) {
+            console.log(`Cloud sync direct REST fallback succeeded for ${studentId} ☁️`);
+            return true;
+          }
+        } catch (restErr) {
+          console.warn('REST fallback error:', restErr);
+        }
         if (originalStudent && originalStudent.id !== studentId) {
-          try { await ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode); } catch(e) {}
+          try { ensureStudentCloudAuth(originalStudent.id, originalStudent.passcode).catch(() => {}); } catch(e) {}
         }
         return false;
       }
