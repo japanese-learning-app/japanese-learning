@@ -2608,7 +2608,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "jour de la semaine"
     },
     "example": {
-      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>7<ruby>時<rt>じ</rt></ruby>までオフィスで<ruby>仕事<rt>しごと</rt></ruby>をしています。",
+      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby><ruby>7時<rt>しちじ</rt></ruby>までオフィスで<ruby>仕事<rt>しごと</rt></ruby>をしています。",
       "en": "On weekdays, I work at the office from 8 AM to 7 PM.",
       "zh_TW": "平日我從早上8點到晚上7點都在辦公室上班。",
       "zh_CN": "平时我从早上8点到晚上7点都在办公室上班。",
@@ -6402,7 +6402,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ajuster; coordonner"
     },
     "example": {
-      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を30<ruby>分<rt>ふん</rt></ruby>ほど<ruby>調整<rt>ちょうせい</rt></ruby>していただけますか？<br/>B: はい、<ruby>他<rt>た</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して<ruby>調整<rt>ちょうせい</rt></ruby>します。",
+      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>30分<rt>さんじゅっぷん</rt></ruby>ほど<ruby>調整<rt>ちょうせい</rt></ruby>していただけますか？<br/>B: はい、<ruby>他<rt>た</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して<ruby>調整<rt>ちょうせい</rt></ruby>します。",
       "en": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
       "zh_TW": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
       "zh_CN": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
@@ -6570,7 +6570,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "rester à la maison et surveiller la maison"
     },
     "example": {
-      "ja": "A: <ruby>親<rt>おや</rt></ruby>が<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>っている<ruby>間<rt>あいだ</rt></ruby>、<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>でお<ruby>留守番<rt>るすばん</rt></ruby>をしました。<br/>B: えらいですね、<ruby>寂<rt>さび</rt></ruby>しくなかったですか？",
+      "ja": "A: <ruby>親<rt>おや</rt></ruby>が<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>っている<ruby>間<rt>あいだ</rt></ruby>、<ruby>一人<rt>ひとり</rt></ruby>でお<ruby>留守番<rt>るすばん</rt></ruby>をしました。<br/>B: えらいですね、<ruby>寂<rt>さび</rt></ruby>しくなかったですか？",
       "en": "A: While my parents went shopping, I stayed home alone to watch the house.<br/>B: Good job! Weren't you lonely?",
       "zh_TW": "A: While my parents went shopping, I stayed home alone to watch the house.<br/>B: Good job! Weren't you lonely?",
       "zh_CN": "A: While my parents went shopping, I stayed home alone to watch the house.<br/>B: Good job! Weren't you lonely?",
@@ -8228,7 +8228,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "rainy season / saison des pluies"
     },
     "example": {
-      "ja": "<ruby>日本<rt>にほん</rt></ruby>では6<ruby>月<rt>がつ</rt></ruby>になると<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り、しとしとと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。",
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>では<ruby>6月<rt>ろくがつ</rt></ruby>になると<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り、しとしとと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。",
       "en": "In Japan, the rainy season begins in June, bringing many drizzly days.",
       "zh_TW": "在日本一到了6月就會進入梅雨季，陰雨綿綿的日子會變多。",
       "zh_CN": "在日本一到了6月就会进入梅雨季，阴雨绵绵的日子会变多。",
@@ -9380,7 +9380,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "self-study / autodidacte / apprendre seul"
     },
     "example": {
-      "ja": "A: <ruby>独学<rt>どくがく</rt></ruby>でプログラミングを<ruby>学<rt>まな</rt></ruby>んでアプリを<ruby>完成<rt>かんせい</rt></ruby>させました。<br/>B: <ruby>誰<rt>だれ</rt></ruby>にも<ruby>教<rt>おそ</rt></ruby>わらず<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>作り上<rt>つくりあ</rt></ruby>げるなんてすごいですね！",
+      "ja": "A: <ruby>独学<rt>どくがく</rt></ruby>でプログラミングを<ruby>学<rt>まな</rt></ruby>んでアプリを<ruby>完成<rt>かんせい</rt></ruby>させました。<br/>B: <ruby>誰<rt>だれ</rt></ruby>にも<ruby>教<rt>おそ</rt></ruby>わらず<ruby>一人<rt>ひとり</rt></ruby>で<ruby>作り上<rt>つくりあ</rt></ruby>げるなんてすごいですね！",
       "en": "A: I learned programming through self-study and completed an app.<br/>B: Building it completely on your own without a teacher is amazing!",
       "zh_TW": "A: I learned programming through self-study and completed an app.<br/>B: Building it completely on your own without a teacher is amazing!",
       "zh_CN": "A: I learned programming through self-study and completed an app.<br/>B: Building it completely on your own without a teacher is amazing!",
@@ -10605,7 +10605,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "together / combined / en combinant / au total"
     },
     "example": {
-      "ja": "A: <ruby>入場<rt>にゅうじょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>とランチ<ruby>代<rt>だい</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせていくらでしたか？<br/>B: <ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>分合<rt>わけあ</rt></ruby>わせて4000<ruby>円<rt>えん</rt></ruby>でしたよ。",
+      "ja": "A: <ruby>入場<rt>にゅうじょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>とランチ<ruby>代<rt>だい</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせていくらでしたか？<br/>B: <ruby>二人<rt>ふたり</rt></ruby><ruby>分合<rt>わけあ</rt></ruby>わせて4000<ruby>円<rt>えん</rt></ruby>でしたよ。",
       "en": "A: Combining admission and lunch, how much was it altogether?<br/>B: Combined for both of us, it was 4,000 yen.",
       "zh_TW": "A: Combining admission and lunch, how much was it altogether?<br/>B: Combined for both of us, it was 4,000 yen.",
       "zh_CN": "A: Combining admission and lunch, how much was it altogether?<br/>B: Combined for both of us, it was 4,000 yen.",
@@ -11158,7 +11158,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "long life / living long / longue vie / vivre longtemps"
     },
     "example": {
-      "ja": "A: <ruby>祖父<rt>そふ</rt></ruby>は100<ruby>歳<rt>さい</rt></ruby>まで<ruby>元気<rt>げんき</rt></ruby>に<ruby>長生<rt>ながい</rt></ruby>きしました。<br/>B: いつまでも<ruby>健康<rt>けんこう</rt></ruby>で<ruby>長生<rt>ながい</rt></ruby>きできるのは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>幸<rt>しあわ</rt></ruby>せなことですね。",
+      "ja": "A: <ruby>祖父<rt>そふ</rt></ruby>は100<ruby>歳<rt>さい</rt></ruby>まで<ruby>元気<rt>げんき</rt></ruby>に<ruby>長生<rt>ながい</rt></ruby>きしました。<br/>B: いつまでも<ruby>健康<rt>けんこう</rt></ruby>で<ruby>長生<rt>ながい</rt></ruby>きできるのは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>幸せ<rt>しあわせ</rt></ruby>なことですね。",
       "en": "A: My grandfather lived a long, healthy life up to 100 years old.<br/>B: Living a long, healthy life is truly a blessing.",
       "zh_TW": "A: My grandfather lived a long, healthy life up to 100 years old.<br/>B: Living a long, healthy life is truly a blessing.",
       "zh_CN": "A: My grandfather lived a long, healthy life up to 100 years old.<br/>B: Living a long, healthy life is truly a blessing.",
@@ -11976,7 +11976,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Bienvenue ! (utilisé par le personnel pour accueillir les clients)"
     },
     "example": {
-      "ja": "A: いらっしゃいませ！<ruby>何<rt>なん</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby>でしょうか？<br/>B: 2<ruby>人<rt>にん</rt></ruby>です。<ruby>禁煙<rt>きんえん</rt></ruby><ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
+      "ja": "A: いらっしゃいませ！<ruby>何<rt>なん</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby>でしょうか？<br/>B: <ruby>2人<rt>ふたり</rt></ruby>です。<ruby>禁煙<rt>きんえん</rt></ruby><ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
       "en": "A: Welcome! How many people in your party?<br/>B: Two people. Non-smoking seats, please.",
       "zh_TW": "A: Welcome! How many people in your party?<br/>B: Two people. Non-smoking seats, please.",
       "zh_CN": "A: Welcome! How many people in your party?<br/>B: Two people. Non-smoking seats, please.",
@@ -12673,7 +12673,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cérémonie de passage à l'âge adulte"
     },
     "example": {
-      "ja": "A: 1<ruby>月<rt>がつ</rt></ruby>には<ruby>各地<rt>かくち</rt></ruby>で<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>歳<rt>さい</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>う<ruby>成人<rt>せいじん</rt></ruby><ruby>式<rt>しき</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれます。<br/>B: <ruby>華<rt>はな</rt></ruby>やかな<ruby>振袖<rt>ふりそで</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>成人<rt>せいじん</rt></ruby><ruby>式<rt>しき</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>する<ruby>姿<rt>すがた</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>ですね。",
+      "ja": "A: <ruby>1月<rt>いちがつ</rt></ruby>には<ruby>各地<rt>かくち</rt></ruby>で<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>歳<rt>さい</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>う<ruby>成人<rt>せいじん</rt></ruby><ruby>式<rt>しき</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれます。<br/>B: <ruby>華<rt>はな</rt></ruby>やかな<ruby>振袖<rt>ふりそで</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>成人<rt>せいじん</rt></ruby><ruby>式<rt>しき</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>する<ruby>姿<rt>すがた</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>ですね。",
       "en": "A: In January, coming-of-age ceremonies celebrating twenty-year-olds are held across regions.<br/>B: Seeing them attend the ceremony in gorgeous furisode kimonos is so beautiful.",
       "zh_TW": "A: In January, coming-of-age ceremonies celebrating twenty-year-olds are held across regions.<br/>B: Seeing them attend the ceremony in gorgeous furisode kimonos is so beautiful.",
       "zh_CN": "A: In January, coming-of-age ceremonies celebrating twenty-year-olds are held across regions.<br/>B: Seeing them attend the ceremony in gorgeous furisode kimonos is so beautiful.",
@@ -12793,7 +12793,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Tanabata ; Fête des étoiles"
     },
     "example": {
-      "ja": "A: <ruby>七夕<rt>たなばた</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>には<ruby>短冊<rt>たんざく</rt></ruby>に<ruby>願い事<rt>ねがいごと</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて<ruby>笹<rt>ささ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ります。<br/>B: <ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>がカラフルな<ruby>七夕<rt>たなばた</rt></ruby><ruby>飾<rt>かざ</rt></ruby>りで<ruby>彩<rt>いろど</rt></ruby>られますね。",
+      "ja": "A: <ruby>七夕<rt>たなばた</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>には<ruby>短冊<rt>たんざく</rt></ruby>に<ruby>願い事<rt>ねがいごと</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて<ruby>笹<rt>ささ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ります。<br/>B: <ruby>街中<rt>まちじゅう</rt></ruby>がカラフルな<ruby>七夕<rt>たなばた</rt></ruby><ruby>飾<rt>かざ</rt></ruby>りで<ruby>彩<rt>いろど</rt></ruby>られますね。",
       "en": "A: On Tanabata, people write wishes on strips of paper and hang them on bamboo leaves.<br/>B: Towns are adorned with colorful Star Festival decorations.",
       "zh_TW": "A: On Tanabata, people write wishes on strips of paper and hang them on bamboo leaves.<br/>B: Towns are adorned with colorful Star Festival decorations.",
       "zh_CN": "A: On Tanabata, people write wishes on strips of paper and hang them on bamboo leaves.<br/>B: Towns are adorned with colorful Star Festival decorations.",
@@ -13971,7 +13971,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "correspondance"
     },
     "example": {
-      "ja": "A: そのスマホケース、<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>ともおそろいなの？<br/>B: うん、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に<ruby>買<rt>か</rt></ruby>ったお<ruby>気に入<rt>きにい</rt></ruby>りなんだ。",
+      "ja": "A: そのスマホケース、<ruby>二人<rt>ふたり</rt></ruby>ともおそろいなの？<br/>B: うん、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に<ruby>買<rt>か</rt></ruby>ったお<ruby>気に入<rt>きにい</rt></ruby>りなんだ。",
       "en": "A: Are both of your phone cases matching?<br/>B: Yeah, we bought matching ones when we traveled together last week, and we love them.",
       "zh_TW": "A: 你們兩個的手機殼是同款情侶配成一對的嗎？<br/>B: 對呀，上週一起去旅行時買的，我們都很喜歡。",
       "zh_CN": "A: 你们两个的手机壳是同款配成一对的吗？<br/>B: 对呀，上周一起去旅行时买的，我们都很喜欢。",
@@ -15584,7 +15584,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "やすいとおもう",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 安いだと思う → 正しくは？",
+      "en": "to think it is cheap",
       "zh_TW": "❌ 安いだと思う → 正しくは？",
       "zh_CN": "❌ 安いだと思う → 正しくは？",
       "ko": "❌ 싸다고 생각한다 → 제대로는?",
@@ -15608,7 +15608,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "やすいとしたら",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 安いだとしたら → 正しくは？",
+      "en": "if it were cheap / assuming it is cheap",
       "zh_TW": "❌ 安いだとしたら → 正しくは？",
       "zh_CN": "❌ 安いだとしたら → 正しくは？",
       "ko": "❌ 싸다면 → 바르게는?",
@@ -15632,7 +15632,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "おかしいよ",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ おかしいだよ → 正しくは？",
+      "en": "that's strange / that's weird",
       "zh_TW": "❌ おかしいだよ → 正しくは？",
       "zh_CN": "❌ おかしいだよ → 正しくは？",
       "ko": "❌ 이상해 → 제대로는?",
@@ -15656,7 +15656,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ちがうから",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 違うだから → 正しくは？",
+      "en": "because it's different / because it's wrong",
       "zh_TW": "❌ 違うだから → 正しくは？",
       "zh_CN": "❌ 違うだから → 正しくは？",
       "ko": "❌ 다르기 때문에 → 제대로는?",
@@ -15705,7 +15705,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "もうしわけないけど／もうしわけないですけど／もうしわけありませんが",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "I'm sorry, but... (polite apology/cushion phrase; replaces incorrect 'すみませんですけど')",
+      "en": "I'm sorry, but... (polite apology/cushion phrase)",
       "zh_TW": "不好意思 / 非常抱歉（禮貌的緩衝用語；正確表達，不用「すみませんですけど」）",
       "zh_CN": "不好意思 / 非常抱歉（礼貌的缓冲用语；正确表达，不用「すみませんですけど」）",
       "ko": "죄송하지만 / 대단히 죄송합니다만 (정중한 거절 표현; 'すみませんですけど'의 올바른 표현)",
@@ -15754,7 +15754,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "わるいくせ",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 悪いの癖（くせ）→ 正しくは？",
+      "en": "bad habit",
       "zh_TW": "❌ 悪いの癖（くせ）→ 正しくは？",
       "zh_CN": "❌ 悪いの癖（くせ）→ 正しくは？",
       "ko": "❌ 나쁜 버릇 → 제대로는?",
@@ -15778,7 +15778,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ひくいとしたら",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 低いだとしたら → 正しくは？",
+      "en": "if it were low / assuming it is low",
       "zh_TW": "❌ 低いだとしたら → 正しくは？",
       "zh_CN": "❌ 低いだとしたら → 正しくは？",
       "ko": "❌ 낮다면 → 바르게는?",
@@ -15922,7 +15922,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "けんかして／けんかになって",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 喧嘩（けんか）があって → 正しくは？",
+      "en": "having a fight / got into a fight",
       "zh_TW": "❌ 喧嘩（けんか）があって → 正しくは？",
       "zh_CN": "❌ 喧嘩（けんか）があって → 正しくは？",
       "ko": "❌ 싸움이 있고 → 제대로는?",
@@ -15946,7 +15946,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "きまずくなって",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 気まずくになって → 正しくは？",
+      "en": "became awkward",
       "zh_TW": "❌ 気まずくになって → 正しくは？",
       "zh_CN": "❌ 気まずくになって → 正しくは？",
       "ko": "❌ 귀찮게 되어 → 바르게는?",
@@ -15970,7 +15970,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ついせきする",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ トラックして（追跡の意味で）→ 正しくは？",
+      "en": "to track / to pursue",
       "zh_TW": "❌ トラックして（追跡の意味で）→ 正しくは？",
       "zh_CN": "❌ トラックして（追跡の意味で）→ 正しくは？",
       "ko": "❌ 트럭하여 (추적의 의미에서) → 제대로는?",
@@ -16312,7 +16312,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "つきあうようになって",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 付き合ってに → 正しくは？",
+      "en": "started dating / began seeing each other",
       "zh_TW": "❌ 付き合ってに → 正しくは？",
       "zh_CN": "❌ 付き合ってに → 正しくは？",
       "ko": "❌ 사귀고 → 제대로는?",
@@ -16320,7 +16320,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "❌ Sortir avec toi → Est-ce correct ?"
     },
     "example": {
-      "ja": "A: <ruby>彼<rt>かれ</rt></ruby>と<ruby>付き合<rt>つきあ</rt></ruby>うようになってから、<ruby>休日<rt>きゅうじつ</rt></ruby>がとても<ruby>楽<rt>たの</rt></ruby>しくなりました。<br/>B: <ruby>素敵<rt>すてき</rt></ruby>なパートナーと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごす<ruby>時間<rt>じかん</rt></ruby>は<ruby>幸<rt>しあわ</rt></ruby>せですね。",
+      "ja": "A: <ruby>彼<rt>かれ</rt></ruby>と<ruby>付き合<rt>つきあ</rt></ruby>うようになってから、<ruby>休日<rt>きゅうじつ</rt></ruby>がとても<ruby>楽<rt>たの</rt></ruby>しくなりました。<br/>B: <ruby>素敵<rt>すてき</rt></ruby>なパートナーと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごす<ruby>時間<rt>じかん</rt></ruby>は<ruby>幸せ<rt>しあわせ</rt></ruby>ですね。",
       "en": "A: Since I started dating him, my weekends have become so enjoyable.<br/>B: Spending time with a wonderful partner is true happiness.",
       "zh_TW": "A: Since I started dating him, my weekends have become so enjoyable.<br/>B: Spending time with a wonderful partner is true happiness.",
       "zh_CN": "A: Since I started dating him, my weekends have become so enjoyable.<br/>B: Spending time with a wonderful partner is true happiness.",
@@ -16336,7 +16336,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "おおあめがふった／おおあめだった",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 大雨（おおあめ）があった → 正しくは？",
+      "en": "it rained heavily / there was heavy rain",
       "zh_TW": "❌ 大雨（おおあめ）があった → 正しくは？",
       "zh_CN": "❌ 大雨（おおあめ）があった → 正しくは？",
       "ko": "❌ 호우(오오메)가 있었다 → 바르게는?",
@@ -16480,7 +16480,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "おもうけど",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 思うが（会話で）→ 正しくは？",
+      "en": "I think so, but...",
       "zh_TW": "❌ 思うが（会話で）→ 正しくは？",
       "zh_CN": "❌ 思うが（会話で）→ 正しくは？",
       "ko": "❌ 생각하지만 (대화로) → 제대로는?",
@@ -16504,7 +16504,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "いそがしくなる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 忙しくになる → 正しくは？",
+      "en": "to become busy",
       "zh_TW": "❌ 忙しくになる → 正しくは？",
       "zh_CN": "❌ 忙しくになる → 正しくは？",
       "ko": "❌ 바쁘게 된다 → 바르게는?",
@@ -16528,7 +16528,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "つらくなる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ つらくになる → 正しくは？",
+      "en": "to become tough / painful",
       "zh_TW": "❌ つらくになる → 正しくは？",
       "zh_CN": "❌ つらくになる → 正しくは？",
       "ko": "❌ 힘들다 → 제대로는?",
@@ -16552,7 +16552,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "わるいから／ちがうから／むずかしいから",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 悪いだから",
+      "en": "because it's bad / different / difficult",
       "zh_TW": "❌ 悪いだから",
       "zh_CN": "❌ 悪いだから",
       "ko": "❌ 나쁘기 때문에",
@@ -16601,7 +16601,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "じしんがなくなって",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 自信が下がって → 正しくは？",
+      "en": "losing confidence",
       "zh_TW": "❌ 自信が下がって → 正しくは？",
       "zh_CN": "❌ 自信が下がって → 正しくは？",
       "ko": "❌ 자신감이 떨어지고 → 정확하게는?",
@@ -16698,7 +16698,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "つれていかれた",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 連れた（犯人に）→ 正しくは？",
+      "en": "was taken away / was led away",
       "zh_TW": "❌ 連れた（犯人に）→ 正しくは？",
       "zh_CN": "❌ 連れた（犯人に）→ 正しくは？",
       "ko": "❌ 데려간(범인에게)→ 바르게는?",
@@ -17240,7 +17240,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ふくざつなきぶんになる／ふくざつなきもちになる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 複雑（ふくざつ）な気分がある → 正しくは？",
+      "en": "to feel mixed feelings / complicated emotions",
       "zh_TW": "❌ 複雑（ふくざつ）な気分がある → 正しくは？",
       "zh_CN": "❌ 複雑（ふくざつ）な気分がある → 正しくは？",
       "ko": "❌ 복잡(후쿠자쯔)한 기분이 있다 → 바르게는?",
@@ -17288,7 +17288,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "きおん",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 天気温度（てんきおんど）→ 正しくは？",
+      "en": "atmospheric temperature",
       "zh_TW": "❌ 天気温度（てんきおんど）→ 正しくは？",
       "zh_CN": "❌ 天気温度（てんきおんど）→ 正しくは？",
       "ko": "❌ 날씨온도(텐키온도)→ 바르게는?",
@@ -19095,7 +19095,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "つくりたいので",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 作りたいなので → 正しくは？",
+      "en": "because I want to make it",
       "zh_TW": "❌ 作りたいなので → 正しくは？",
       "zh_CN": "❌ 作りたいなので → 正しくは？",
       "ko": "❌ 만들고 싶기 때문에 → 올바르게는?",
@@ -19248,7 +19248,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Matin du Nouvel An (matin du 1er janvier uniquement)"
     },
     "example": {
-      "ja": "A: <ruby>元旦<rt>がんたん</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>初日の出<rt>はつひので</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>海岸<rt>かいがん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<br/>B: 1<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>拝<rt>おが</rt></ruby>む<ruby>日の出<rt>ひので</rt></ruby>は<ruby>清々<rt>すがすが</rt></ruby>しい<ruby>気持<rt>きも</rt></ruby>ちになりますね。",
+      "ja": "A: <ruby>元旦<rt>がんたん</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>初日の出<rt>はつひので</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>海岸<rt>かいがん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<br/>B: <ruby>1月<rt>いちがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>拝<rt>おが</rt></ruby>む<ruby>日の出<rt>ひので</rt></ruby>は<ruby>清々<rt>すがすが</rt></ruby>しい<ruby>気持<rt>きも</rt></ruby>ちになりますね。",
       "en": "A: On New Year's morning, I went to the coast to view the first sunrise.<br/>B: Praying to the sunrise on the morning of Jan 1st feels so refreshing.",
       "zh_TW": "A: On New Year's morning, I went to the coast to view the first sunrise.<br/>B: Praying to the sunrise on the morning of Jan 1st feels so refreshing.",
       "zh_CN": "A: On New Year's morning, I went to the coast to view the first sunrise.<br/>B: Praying to the sunrise on the morning of Jan 1st feels so refreshing.",
@@ -19272,7 +19272,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Jour de l'An (1er janvier journée complète)"
     },
     "example": {
-      "ja": "A: <ruby>元日<rt>がんじつ</rt></ruby>は<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>っておみくじを<ruby>引<rt>ひ</rt></ruby>きました。<br/>B: 1<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>を<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごせると<ruby>良<rt>よ</rt></ruby>い<ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>になりそうですね。",
+      "ja": "A: <ruby>元日<rt>がんじつ</rt></ruby>は<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>っておみくじを<ruby>引<rt>ひ</rt></ruby>きました。<br/>B: <ruby>1月<rt>いちがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>を<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごせると<ruby>良<rt>よ</rt></ruby>い<ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>になりそうですね。",
       "en": "A: On New Year's Day, I went to a local shrine for Hatsumode and drew a fortune.<br/>B: Spending January 1st peacefully feels like a great start to the year.",
       "zh_TW": "A: On New Year's Day, I went to a local shrine for Hatsumode and drew a fortune.<br/>B: Spending January 1st peacefully feels like a great start to the year.",
       "zh_CN": "A: On New Year's Day, I went to a local shrine for Hatsumode and drew a fortune.<br/>B: Spending January 1st peacefully feels like a great start to the year.",
@@ -19313,7 +19313,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "どくしょをします",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 読書（どくしょ）を読みます → 正しくは？",
+      "en": "to read books / to do reading",
       "zh_TW": "❌ 読書（どくしょ）を読みます → 正しくは？",
       "zh_CN": "❌ 読書（どくしょ）を読みます → 正しくは？",
       "ko": "❌ 독서(도쿠쇼)를 읽습니다 → 바르게는?",
@@ -19933,7 +19933,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ねっちゅうしょうになった／にかかった",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "❌ 熱中症（ねっちゅうしょう）があった → 正しくは？",
+      "en": "got heatstroke",
       "zh_TW": "❌ 熱中症（ねっちゅうしょう）があった → 正しくは？",
       "zh_CN": "❌ 熱中症（ねっちゅうしょう）があった → 正しくは？",
       "ko": "❌ 열사병(네츄쇼)이 있었다 → 바르게는?",
@@ -20282,7 +20282,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "réduire (transitif)"
     },
     "example": {
-      "ja": "A: ダイエット<ruby>中<rt>なか</rt></ruby>だから、<ruby>ご飯<rt>はん</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすよ。<br/>B: <ruby>無理<rt>むり</rt></ruby>はしないでね。",
+      "ja": "A: ダイエット<ruby>中<rt>なか</rt></ruby>だから、ご<ruby>飯<rt>はん</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすよ。<br/>B: <ruby>無理<rt>むり</rt></ruby>はしないでね。",
       "en": "A: I'm on a diet, so I'll reduce my rice portion.<br/>B: Don't overdo it, okay?",
       "zh_TW": "A: 我在減肥，所以要減少飯量。<br/>B: 不要太勉強喔。",
       "zh_CN": "A: 我在减肥，所以要减少饭量。<br/>B: 不要太勉强哦。",
@@ -27244,7 +27244,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Ce n'est pas sûr / c'est dangereux / d'être dangereux / d'avoir une mauvaise sécurité publique"
     },
     "example": {
-      "ja": "A: <ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>では<ruby>夜間<rt>やかん</rt></ruby>に<ruby>治安<rt>ちあん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いエリアを<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かないようにね。<br/>B: はい、<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けて<ruby>明<rt>あか</rt></ruby>るい<ruby>通<rt>とお</rt></ruby>りを<ruby>歩<rt>ある</rt></ruby>くようにします。",
+      "ja": "A: <ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>では<ruby>夜間<rt>やかん</rt></ruby>に<ruby>治安<rt>ちあん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いエリアを<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かないようにね。<br/>B: はい、<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けて<ruby>明<rt>あか</rt></ruby>るい<ruby>通<rt>とお</rt></ruby>りを<ruby>歩<rt>ある</rt></ruby>くようにします。",
       "en": "A: When traveling abroad, never walk alone at night in areas with poor public safety.<br/>B: Yes, I'll avoid dangerous spots and stick to well-lit streets.",
       "zh_TW": "A: When traveling abroad, never walk alone at night in areas with poor public safety.<br/>B: Yes, I'll avoid dangerous spots and stick to well-lit streets.",
       "zh_CN": "A: When traveling abroad, never walk alone at night in areas with poor public safety.<br/>B: Yes, I'll avoid dangerous spots and stick to well-lit streets.",
@@ -27484,7 +27484,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Après / après / à partir de〜"
     },
     "example": {
-      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の1<ruby>日<rt>ついたち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>料金<rt>りょうきん</rt></ruby>プランが<ruby>適用<rt>てきよう</rt></ruby>されますのでご<ruby>確認<rt>かくにん</rt></ruby>ください。",
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>1日<rt>ついたち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>料金<rt>りょうきん</rt></ruby>プランが<ruby>適用<rt>てきよう</rt></ruby>されますのでご<ruby>確認<rt>かくにん</rt></ruby>ください。",
       "en": "From the 1st of next month onward, the new pricing plan will apply, so please take a look.",
       "zh_TW": "下個月1日之後將開始實施新的收費方案，敬請查閱確認。",
       "zh_CN": "下个月1日之后将开始实施新的收费方案，敬请查阅确认。",
@@ -27548,7 +27548,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "あこがれる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "동경하다 / 憧れる / to admire / to look up to / to aspire to",
+      "en": "to admire / to look up to / to aspire to",
       "zh_TW": "欽佩/欽佩/欽佩/仰慕/渴望",
       "zh_CN": "欽佩/欽佩/欽佩/仰慕/渴望",
       "ko": "동경하다 / 憧れる / to admire / to look up to / to aspire to",
@@ -27580,7 +27580,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "gênant / embarrassant / gênant / inconfortable / se sentir mal à l'aise"
     },
     "example": {
-      "ja": "A: エレベーターで<ruby>喧嘩<rt>けんか</rt></ruby>したばかりの<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>きりになって<ruby>気<rt>き</rt></ruby>まずかったです。<br/>B: <ruby>沈黙<rt>ちんもく</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くと<ruby>気<rt>き</rt></ruby>まずい<ruby>雰囲気<rt>ふんいき</rt></ruby>になりますよね。",
+      "ja": "A: エレベーターで<ruby>喧嘩<rt>けんか</rt></ruby>したばかりの<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>二人<rt>ふたり</rt></ruby>きりになって<ruby>気<rt>き</rt></ruby>まずかったです。<br/>B: <ruby>沈黙<rt>ちんもく</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くと<ruby>気<rt>き</rt></ruby>まずい<ruby>雰囲気<rt>ふんいき</rt></ruby>になりますよね。",
       "en": "A: Being alone in the elevator with a coworker I just argued with was awkward.<br/>B: Prolonged silence creates an uncomfortable atmosphere.",
       "zh_TW": "A: Being alone in the elevator with a coworker I just argued with was awkward.<br/>B: Prolonged silence creates an uncomfortable atmosphere.",
       "zh_CN": "A: Being alone in the elevator with a coworker I just argued with was awkward.<br/>B: Prolonged silence creates an uncomfortable atmosphere.",
@@ -29935,7 +29935,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "chacun / chacun / à la fois"
     },
     "example": {
-      "ja": "A: クッキーは<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>2<ruby>個<rt>こ</rt></ruby>ずつ<ruby>取<rt>と</rt></ruby>ってくださいね。<br/>B: <ruby>了解<rt>りょうかい</rt></ruby>しました！みんなで<ruby>平等<rt>びょうどう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けましょう。",
+      "ja": "A: クッキーは<ruby>一人<rt>ひとり</rt></ruby>2<ruby>個<rt>こ</rt></ruby>ずつ<ruby>取<rt>と</rt></ruby>ってくださいね。<br/>B: <ruby>了解<rt>りょうかい</rt></ruby>しました！みんなで<ruby>平等<rt>びょうどう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けましょう。",
       "en": "A: Please take two cookies each.<br/>B: Understood! Let's share equally among everyone.",
       "zh_TW": "A: Please take two cookies each.<br/>B: Understood! Let's share equally among everyone.",
       "zh_CN": "A: Please take two cookies each.<br/>B: Understood! Let's share equally among everyone.",
@@ -30967,7 +30967,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "seul / par soi-même"
     },
     "example": {
-      "ja": "A: <ruby>初<rt>はじ</rt></ruby>めて<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってきました。<br/>B: <ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>旅<rt>たび</rt></ruby>だと<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>自由<rt>じゆう</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>れて<ruby>刺激<rt>しげき</rt></ruby><ruby>的<rt>てき</rt></ruby>ですね！",
+      "ja": "A: <ruby>初<rt>はじ</rt></ruby>めて<ruby>一人<rt>ひとり</rt></ruby>で<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってきました。<br/>B: <ruby>一人<rt>ひとり</rt></ruby><ruby>旅<rt>たび</rt></ruby>だと<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>自由<rt>じゆう</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>れて<ruby>刺激<rt>しげき</rt></ruby><ruby>的<rt>てき</rt></ruby>ですね！",
       "en": "A: I went traveling abroad alone for the first time.<br/>B: Traveling alone lets you tour freely at your own pace—so exciting!",
       "zh_TW": "A: I went traveling abroad alone for the first time.<br/>B: Traveling alone lets you tour freely at your own pace—so exciting!",
       "zh_CN": "A: I went traveling abroad alone for the first time.<br/>B: Traveling alone lets you tour freely at your own pace—so exciting!",
@@ -31719,7 +31719,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Quelle date sommes-nous ?"
     },
     "example": {
-      "ja": "A: あなたの<ruby>誕生日<rt>たんじょうび</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby><ruby>何日<rt>なんにち</rt></ruby>ですか？<br/>B: 5<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>とおか</rt></ruby>です。",
+      "ja": "A: あなたの<ruby>誕生日<rt>たんじょうび</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby><ruby>何日<rt>なんにち</rt></ruby>ですか？<br/>B: <ruby>5月<rt>ごがつ</rt></ruby><ruby>10日<rt>とおか</rt></ruby>です。",
       "en": "A: What date is your birthday?<br/>B: It's May 10th.",
       "zh_TW": "A: 你的生日是幾月幾號？<br/>B: 是5月10號。",
       "zh_CN": "A: 你的生日是几月几号？<br/>B: 是5月10号。",
@@ -31743,7 +31743,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "C'est quand votre anniversaire?"
     },
     "example": {
-      "ja": "A: <ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>はいつですか？<br/>B: 8<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>です。もうすぐなんです！",
+      "ja": "A: <ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>はいつですか？<br/>B: <ruby>8月<rt>はちがつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>です。もうすぐなんです！",
       "en": "A: When is your birthday?<br/>B: It is August 15th. It's coming up soon!",
       "zh_TW": "A: 你的生日是什麼時候？<br/>B: 8月15號。就快到了喔！",
       "zh_CN": "A: 你的生日是什么时候？<br/>B: 8月15号。就快到了哦！",
@@ -32199,7 +32199,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ami d'enfance"
     },
     "example": {
-      "ja": "A: あの<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>、すごく<ruby>息<rt>いき</rt></ruby>が<ruby>合<rt>あ</rt></ruby>っているね。<br/>B: <ruby>保育園<rt>ほいくえん</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>からずっと<ruby>一緒<rt>いっしょ</rt></ruby>の<ruby>幼馴染<rt>おさななじみ</rt></ruby>なんだって。",
+      "ja": "A: あの<ruby>二人<rt>ふたり</rt></ruby>、すごく<ruby>息<rt>いき</rt></ruby>が<ruby>合<rt>あ</rt></ruby>っているね。<br/>B: <ruby>保育園<rt>ほいくえん</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>からずっと<ruby>一緒<rt>いっしょ</rt></ruby>の<ruby>幼馴染<rt>おさななじみ</rt></ruby>なんだって。",
       "en": "A: Those two work in complete sync, don't they?<br/>B: I heard they're childhood friends who have been together since nursery school.",
       "zh_TW": "A: 他們兩個默契超級好呢。<br/>B: 聽說他們是從幼兒園就一直在一起的青梅竹馬。",
       "zh_CN": "A: 他们两个默契超级好呢。<br/>B: 听说他们是从幼儿园就一直在一起的发小（青梅竹马）。",
@@ -33353,7 +33353,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "enfant / enfants"
     },
     "example": {
-      "ja": "A: <ruby>子<rt>こ</rt></ruby>どもは<ruby>何人<rt>なんにん</rt></ruby>いますか？<br/>B: 2<ruby>人<rt>ふたり</rt></ruby>います。<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>です。",
+      "ja": "A: <ruby>子<rt>こ</rt></ruby>どもは<ruby>何人<rt>なんにん</rt></ruby>いますか？<br/>B: <ruby>2人<rt>ふたり</rt></ruby>います。<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>です。",
       "en": "A: How many children do you have?<br/>B: I have two. A boy and a girl.",
       "zh_TW": "A: 你有幾個小孩？<br/>B: 有兩個。一個男孩和一個女孩。",
       "zh_CN": "A: 你有几个小孩？<br/>B: 有两个。一个男孩和一个女孩。",
@@ -34171,7 +34171,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "mari (poli, faisant référence à quelqu'un d'autre)"
     },
     "example": {
-      "ja": "A: <ruby>先日<rt>せんじつ</rt></ruby>、スーパーで<ruby>旦那<rt>だんな</rt></ruby>さんと<ruby>仲良<rt>なかよ</rt></ruby>くお<ruby>買い物<rt>かいもの</rt></ruby>されているのを<ruby>見<rt>み</rt></ruby>かけましたよ。<br/>B: <ruby>声<rt>こえ</rt></ruby>をかけてくださればよかったのに！<ruby>休日<rt>きゅうじつ</rt></ruby>によく<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>買い出<rt>かいだ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>くんです。",
+      "ja": "A: <ruby>先日<rt>せんじつ</rt></ruby>、スーパーで<ruby>旦那<rt>だんな</rt></ruby>さんと<ruby>仲良<rt>なかよ</rt></ruby>くお<ruby>買い物<rt>かいもの</rt></ruby>されているのを<ruby>見<rt>み</rt></ruby>かけましたよ。<br/>B: <ruby>声<rt>こえ</rt></ruby>をかけてくださればよかったのに！<ruby>休日<rt>きゅうじつ</rt></ruby>によく<ruby>二人<rt>ふたり</rt></ruby>で<ruby>買い出<rt>かいだ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>くんです。",
       "en": "A: The other day I saw you shopping happily with your husband at the market.<br/>B: You should have said hi! We often do grocery runs together.",
       "zh_TW": "A: The other day I saw you shopping happily with your husband at the market.<br/>B: You should have said hi! We often do grocery runs together.",
       "zh_CN": "A: The other day I saw you shopping happily with your husband at the market.<br/>B: You should have said hi! We often do grocery runs together.",
@@ -37531,7 +37531,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dépassé; surcapacité"
     },
     "example": {
-      "ja": "A: <ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>三<rt>みっ</rt></ruby>つの<ruby>案件<rt>あんけん</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>抱<rt>かか</rt></ruby>えていて、もうキャパオーバーです。<br/>B: <ruby>無理<rt>むり</rt></ruby>をしないで、<ruby>他<rt>た</rt></ruby>のメンバーに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>してもらいましょう。",
+      "ja": "A: <ruby>一人<rt>ひとり</rt></ruby>で<ruby>三<rt>みっ</rt></ruby>つの<ruby>案件<rt>あんけん</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>抱<rt>かか</rt></ruby>えていて、もうキャパオーバーです。<br/>B: <ruby>無理<rt>むり</rt></ruby>をしないで、<ruby>他<rt>た</rt></ruby>のメンバーに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>してもらいましょう。",
       "en": "A: I'm handling three projects all by myself, and I'm totally overwhelmed.<br/>B: Don't push yourself too hard. Let's ask other team members to share the workload.",
       "zh_TW": "A: 我一個人同時扛了三個專案，已經徹底超出負荷了。<br/>B: 不要勉強硬撐，我們請其他成員一起分擔工作吧。",
       "zh_CN": "A: 我一个人同时扛了三个项目，已经彻底超出负荷了。<br/>B: 不要勉强硬撑，我们请其他成员一起分担工作吧。",
@@ -38702,7 +38702,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "とおい",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "【遠い（とおい）】Far / distant",
+      "en": "far / distant",
       "ja": "遠い",
       "zh_TW": "【遠い（とおい）】Far / distant",
       "zh_CN": "【遠い（とおい）】Far / distant",
@@ -38902,7 +38902,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "かんけつに",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Both can follow 自己紹介してください but mean different things.",
+      "en": "briefly / concisely",
       "ja": "簡潔に",
       "zh_TW": "Both can follow 自己紹介してください but mean different things.",
       "zh_CN": "Both can follow 自己紹介してください but mean different things.",
@@ -38911,7 +38911,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Both can follow 自己紹介してください but mean different things."
     },
     "example": {
-      "ja": "A: <ruby>時間<rt>じかん</rt></ruby>が<ruby>限<rt>かぎ</rt></ruby>られていますので、<ruby>簡潔<rt>かんけつ</rt></ruby>に<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、1<ruby>分<rt>ふん</rt></ruby><ruby>以内<rt>いない</rt></ruby>で<ruby>要点<rt>ようてん</rt></ruby>をまとめて<ruby>簡潔<rt>かんけつ</rt></ruby>にお<ruby>話<rt>はな</rt></ruby>しします。",
+      "ja": "A: <ruby>時間<rt>じかん</rt></ruby>が<ruby>限<rt>かぎ</rt></ruby>られていますので、<ruby>簡潔<rt>かんけつ</rt></ruby>に<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br/>B: はい、<ruby>1分<rt>いっぷん</rt></ruby><ruby>以内<rt>いない</rt></ruby>で<ruby>要点<rt>ようてん</rt></ruby>をまとめて<ruby>簡潔<rt>かんけつ</rt></ruby>にお<ruby>話<rt>はな</rt></ruby>しします。",
       "en": "A: Time is limited, so please introduce yourself concisely.<br/>B: Yes, I will summarize key points within one minute concisely.",
       "zh_TW": "A: Time is limited, so please introduce yourself concisely.<br/>B: Yes, I will summarize key points within one minute concisely.",
       "zh_CN": "A: Time is limited, so please introduce yourself concisely.<br/>B: Yes, I will summarize key points within one minute concisely.",
@@ -39002,7 +39002,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "いく",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Both involve going somewhere, but 通う implies regularity and routine.",
+      "en": "to go (regularly/habitually)",
       "ja": "行く",
       "zh_TW": "Both involve going somewhere, but 通う implies regularity and routine.",
       "zh_CN": "Both involve going somewhere, but 通う implies regularity and routine.",
@@ -39202,7 +39202,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "かえりました",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Both use 帰る (to return home) but describe opposite situations.",
+      "en": "returned home / has gone home",
       "ja": "帰りました",
       "zh_TW": "Both use 帰る (to return home) but describe opposite situations.",
       "zh_CN": "Both use 帰る (to return home) but describe opposite situations.",
@@ -39302,7 +39302,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "はいってる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Casual contractions of 入っている and 入っていない. Used when asking or checking if something is included or contained.",
+      "en": "is included / is inside (casual)",
       "ja": "入ってる",
       "zh_TW": "Casual contractions of 入っている and 入っていない. Used when asking or checking if something is included or contained.",
       "zh_CN": "Casual contractions of 入っている and 入っていない. Used when asking or checking if something is included or contained.",
@@ -39936,7 +39936,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Lacking in ability / not skilled enough"
     },
     "example": {
-      "ja": "A: <ruby>大<rt>おお</rt></ruby>きなプロジェクトのリーダーに<ruby>選<rt>えら</rt></ruby>ばれましたが、<ruby>力不足<rt>ちからぶそく</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じています。<br/>B: <ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>抱え込<rt>かかえこ</rt></ruby>まず、チームの<ruby>仲間<rt>なかま</rt></ruby>を<ruby>頼<rt>たよ</rt></ruby>れば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ！",
+      "ja": "A: <ruby>大<rt>おお</rt></ruby>きなプロジェクトのリーダーに<ruby>選<rt>えら</rt></ruby>ばれましたが、<ruby>力不足<rt>ちからぶそく</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じています。<br/>B: <ruby>一人<rt>ひとり</rt></ruby>で<ruby>抱え込<rt>かかえこ</rt></ruby>まず、チームの<ruby>仲間<rt>なかま</rt></ruby>を<ruby>頼<rt>たよ</rt></ruby>れば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ！",
       "en": "A: I was chosen as project leader, but feel lacking in ability.<br/>B: Don't shoulder it alone; rely on your team and you'll be fine!",
       "zh_TW": "A: I was chosen as project leader, but feel lacking in ability.<br/>B: Don't shoulder it alone; rely on your team and you'll be fine!",
       "zh_CN": "A: I was chosen as project leader, but feel lacking in ability.<br/>B: Don't shoulder it alone; rely on your team and you'll be fine!",
@@ -40827,7 +40827,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "いき",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting point).",
+      "en": "outward trip / going to destination",
       "ja": "行き",
       "zh_TW": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting point).",
       "zh_CN": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting point).",
@@ -40961,7 +40961,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "sieste"
     },
     "example": {
-      "ja": "A: <ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>昼寝<rt>ひるね</rt></ruby>をするのが<ruby>一番<rt>いちばん</rt></ruby>の<ruby>幸<rt>しあわ</rt></ruby>せです。<br/>B: <ruby>私<rt>わたし</rt></ruby>もよくソファで<ruby>寝<rt>ね</rt></ruby>てしまいます。",
+      "ja": "A: <ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>昼寝<rt>ひるね</rt></ruby>をするのが<ruby>一番<rt>いちばん</rt></ruby>の<ruby>幸せ<rt>しあわせ</rt></ruby>です。<br/>B: <ruby>私<rt>わたし</rt></ruby>もよくソファで<ruby>寝<rt>ね</rt></ruby>てしまいます。",
       "en": "A: Taking a nap on a day off is the greatest happiness.<br/>B: I often fall asleep on the sofa too.",
       "zh_TW": "A: 假日能睡個午覺是最幸福的事。<br/>B: 我也經常在沙發上睡著。",
       "zh_CN": "A: 假日能睡个午觉是最幸福的事。<br/>B: 我也经常在沙发上睡着。",
@@ -41227,7 +41227,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "どうがをみる",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Grammar correction: 動画 is something you watch, not something you \"do.\"",
+      "en": "to watch a video",
       "ja": "動画をする → 動画を見る",
       "zh_TW": "Grammar correction: 動画 is something you watch, not something you \"do.\"",
       "zh_CN": "Grammar correction: 動画 is something you watch, not something you \"do.\"",
@@ -42261,7 +42261,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "To hit on someone / to approach a stranger romantically"
     },
     "example": {
-      "ja": "A: <ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>にいきなりナンパされて<ruby>驚<rt>おどろ</rt></ruby>きました。<br/>B: <ruby>急<rt>きゅう</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけられると<ruby>警戒<rt>けいかい</rt></ruby>しますよね。<ruby>相手<rt>あいて</rt></ruby>にしないのが<ruby>一番<rt>いちばん</rt></ruby>です。",
+      "ja": "A: <ruby>街中<rt>まちじゅう</rt></ruby>で<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>にいきなりナンパされて<ruby>驚<rt>おどろ</rt></ruby>きました。<br/>B: <ruby>急<rt>きゅう</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけられると<ruby>警戒<rt>けいかい</rt></ruby>しますよね。<ruby>相手<rt>あいて</rt></ruby>にしないのが<ruby>一番<rt>いちばん</rt></ruby>です。",
       "en": "A: I was startled when a stranger suddenly hit on me on the street.<br/>B: Being approached abruptly makes you wary. Ignoring them is best.",
       "zh_TW": "A: I was startled when a stranger suddenly hit on me on the street.<br/>B: Being approached abruptly makes you wary. Ignoring them is best.",
       "zh_CN": "A: I was startled when a stranger suddenly hit on me on the street.<br/>B: Being approached abruptly makes you wary. Ignoring them is best.",
@@ -42361,7 +42361,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Troublesome / can't be bothered / such a hassle"
     },
     "example": {
-      "ja": "A: <ruby>部屋<rt>へや</rt></ruby>の<ruby>片付<rt>かたづ</rt></ruby>け、<ruby>散<rt>ち</rt></ruby>らかりすぎていてなんだかめんどくさいなあ。<br/>B: <ruby>音楽<rt>おんがく</rt></ruby>をかけながら10<ruby>分<rt>ふん</rt></ruby>だけやってみると<ruby>意外<rt>いがい</rt></ruby>と<ruby>進<rt>すす</rt></ruby>みますよ！",
+      "ja": "A: <ruby>部屋<rt>へや</rt></ruby>の<ruby>片付<rt>かたづ</rt></ruby>け、<ruby>散<rt>ち</rt></ruby>らかりすぎていてなんだかめんどくさいなあ。<br/>B: <ruby>音楽<rt>おんがく</rt></ruby>をかけながら<ruby>10分<rt>じゅっぷん</rt></ruby>だけやってみると<ruby>意外<rt>いがい</rt></ruby>と<ruby>進<rt>すす</rt></ruby>みますよ！",
       "en": "A: Room tidying is such a hassle because it's too cluttered.<br/>B: Playing music and doing just 10 minutes makes surprising progress!",
       "zh_TW": "A: Room tidying is such a hassle because it's too cluttered.<br/>B: Playing music and doing just 10 minutes makes surprising progress!",
       "zh_CN": "A: Room tidying is such a hassle because it's too cluttered.<br/>B: Playing music and doing just 10 minutes makes surprising progress!",
@@ -43152,7 +43152,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "あうにきた → あいにきた",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "Grammar correction: to express coming in order to do something, use the verb stem (ます-form without ます) + に来た/来る",
+      "en": "came to meet / came to see",
       "ja": "会いに来た",
       "zh_TW": "文法更正：表達為了做某事而來，使用動詞語幹+に来た/来る",
       "zh_CN": "语法更正：表达为了做某事而来，使用动词语干+に来た/来る",
@@ -43886,7 +43886,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "payer chacun la même chose"
     },
     "example": {
-      "ja": "A: お<ruby>会計<rt>かいけい</rt></ruby>は<ruby>別々<rt>べつべつ</rt></ruby>にしますか、それとも<ruby>割り勘<rt>わりかん</rt></ruby>にしますか？<br/>B: <ruby>割り勘<rt>わりかん</rt></ruby>にして<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ずつ<ruby>出し合<rt>だしあ</rt></ruby>いましょう。",
+      "ja": "A: お<ruby>会計<rt>かいけい</rt></ruby>は<ruby>別々<rt>べつべつ</rt></ruby>にしますか、それとも<ruby>割り勘<rt>わりかん</rt></ruby>にしますか？<br/>B: <ruby>割り勘<rt>わりかん</rt></ruby>にして<ruby>一人<rt>ひとり</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ずつ<ruby>出し合<rt>だしあ</rt></ruby>いましょう。",
       "en": "A: Shall we pay separately, or split the bill?<br/>B: Let's split the bill and put in 2,000 yen each.",
       "zh_TW": "A: Shall we pay separately, or split the bill?<br/>B: Let's split the bill and put in 2,000 yen each.",
       "zh_CN": "A: Shall we pay separately, or split the bill?<br/>B: Let's split the bill and put in 2,000 yen each.",
@@ -44861,7 +44861,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "\"For ~ / from ~'s perspective\" vs. \"according to ~\""
     },
     "example": {
-      "ja": "A: あなたにとって、<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>人生<rt>じんせい</rt></ruby>とは<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>にとっては、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>健康<rt>けんこう</rt></ruby>に<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らせることが<ruby>一番<rt>いちばん</rt></ruby>の<ruby>幸<rt>しあわ</rt></ruby>せです。",
+      "ja": "A: あなたにとって、<ruby>幸せ<rt>しあわせ</rt></ruby>な<ruby>人生<rt>じんせい</rt></ruby>とは<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>にとっては、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>健康<rt>けんこう</rt></ruby>に<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らせることが<ruby>一番<rt>いちばん</rt></ruby>の<ruby>幸せ<rt>しあわせ</rt></ruby>です。",
       "en": "A: For you, what is a happy life?<br/>B: From my perspective, living with family in good health and smiles is top happiness.",
       "zh_TW": "A: For you, what is a happy life?<br/>B: From my perspective, living with family in good health and smiles is top happiness.",
       "zh_CN": "A: For you, what is a happy life?<br/>B: From my perspective, living with family in good health and smiles is top happiness.",
@@ -45511,7 +45511,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "\"At the latest\""
     },
     "example": {
-      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>ですか？<br/>B: <ruby>遅<rt>おそ</rt></ruby>くても14<ruby>時<rt>じ</rt></ruby>までには<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に<ruby>集合<rt>しゅうごう</rt></ruby>してください。",
+      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>ですか？<br/>B: <ruby>遅<rt>おそ</rt></ruby>くても1<ruby>4時<rt>よじ</rt></ruby>までには<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に<ruby>集合<rt>しゅうごう</rt></ruby>してください。",
       "en": "A: What time does the meeting start?<br/>B: At the latest, please gather in the meeting room by 14:00.",
       "zh_TW": "A: What time does the meeting start?<br/>B: At the latest, please gather in the meeting room by 14:00.",
       "zh_CN": "A: What time does the meeting start?<br/>B: At the latest, please gather in the meeting room by 14:00.",
@@ -46110,7 +46110,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "garder"
     },
     "example": {
-      "ja": "A: <ruby>子供<rt>こども</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>練習<rt>れんしゅう</rt></ruby>をしているよ。<br/>B: <ruby>転<rt>ころ</rt></ruby>ばないかハラハラするけど、<ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずに<ruby>静<rt>しず</rt></ruby>かに<ruby>見守<rt>みまも</rt></ruby>ろう。",
+      "ja": "A: <ruby>子供<rt>こども</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>一人<rt>ひとり</rt></ruby>で<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>練習<rt>れんしゅう</rt></ruby>をしているよ。<br/>B: <ruby>転<rt>ころ</rt></ruby>ばないかハラハラするけど、<ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずに<ruby>静<rt>しず</rt></ruby>かに<ruby>見守<rt>みまも</rt></ruby>ろう。",
       "en": "A: Our child is practicing riding a bicycle alone for the first time.<br/>B: It's nerve-wracking watching for falls, but let's quietly keep an eye without interfering.",
       "zh_TW": "A: 孩子第一次在練習自己一個人騎腳踏車呢。<br/>B: 雖然很擔心他會摔倒，但我們不要插嘴、在一旁靜靜守護他吧。",
       "zh_CN": "A: 孩子第一次在练习自己一个人骑自行车呢。<br/>B: 虽然很担心他会摔倒，但我们不要插嘴、在一旁静静守护他吧。",
@@ -46410,7 +46410,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dialecte du Kansai"
     },
     "example": {
-      "ja": "A: <ruby>大阪<rt>おおさか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと、<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>な<ruby>関西<rt>かんさい</rt></ruby><ruby>弁<rt>べん</rt></ruby>で<ruby>話<rt>はな</rt></ruby>していて<ruby>活気<rt>かっき</rt></ruby>がありますね。<br/>B: 「なんでやねん」などの<ruby>関西<rt>かんさい</rt></ruby><ruby>弁<rt>べん</rt></ruby>のツッコミは<ruby>親<rt>した</rt></ruby>しみやすいですよね。",
+      "ja": "A: <ruby>大阪<rt>おおさか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと、<ruby>街中<rt>まちじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>な<ruby>関西<rt>かんさい</rt></ruby><ruby>弁<rt>べん</rt></ruby>で<ruby>話<rt>はな</rt></ruby>していて<ruby>活気<rt>かっき</rt></ruby>がありますね。<br/>B: 「なんでやねん」などの<ruby>関西<rt>かんさい</rt></ruby><ruby>弁<rt>べん</rt></ruby>のツッコミは<ruby>親<rt>した</rt></ruby>しみやすいですよね。",
       "en": "A: Visiting Osaka, everyone talks in energetic Kansai dialect with such vitality.<br/>B: Kansai dialect retorts like 'Nandeyanen' feel so friendly.",
       "zh_TW": "A: Visiting Osaka, everyone talks in energetic Kansai dialect with such vitality.<br/>B: Kansai dialect retorts like 'Nandeyanen' feel so friendly.",
       "zh_CN": "A: Visiting Osaka, everyone talks in energetic Kansai dialect with such vitality.<br/>B: Kansai dialect retorts like 'Nandeyanen' feel so friendly.",
@@ -49001,7 +49001,7 @@ window.CLASS_VOCAB_DATA = [
     "reading": "ごじゅん",
     "category": "授業で習った言葉",
     "meaning": {
-      "en": "語順 specifically means \"word order\"",
+      "en": "word order",
       "ja": "語順",
       "zh_TW": "語順 specifically means \"word order\"",
       "zh_CN": "語順 specifically means \"word order\"",
@@ -49160,7 +49160,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Fabric softener."
     },
     "example": {
-      "ja": "A: <ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>をふんわり<ruby>仕上<rt>しあ</rt></ruby>げるために、お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。<br/>B: <ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りが<ruby>干<rt>ほ</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>も<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がって<ruby>心地<rt>ここち</rt></ruby>いいですね。",
+      "ja": "A: <ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>をふんわり<ruby>仕上<rt>しあ</rt></ruby>げるために、お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。<br/>B: <ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りが<ruby>干<rt>ほ</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>も<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がって<ruby>心地<rt>ここち</rt></ruby>いいですね。",
       "en": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
       "zh_TW": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
       "zh_CN": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
@@ -52333,7 +52333,7 @@ window.CLASS_VOCAB_DATA = [
       "zh_CN": "肚子饿了"
     },
     "example": {
-      "ja": "<ruby>お昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていないので、お<ruby>腹<rt>なか</rt></ruby>がすきました。",
+      "ja": "お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていないので、お<ruby>腹<rt>なか</rt></ruby>がすきました。",
       "ko": "점심을 먹지 않아서 배가 고픕니다.",
       "en": "I haven't eaten lunch, so I'm hungry.",
       "zh_TW": "因為沒吃午餐，所以肚子餓了。",
@@ -52572,7 +52572,7 @@ window.CLASS_VOCAB_DATA = [
       "ko": "용돈"
     },
     "example": {
-      "ja": "<ruby>毎月<rt>まいつき</rt></ruby>1<ruby>日<rt>ついたち</rt></ruby>に<ruby>親<rt>おや</rt></ruby>からお<ruby>小遣<rt>こづか</rt></ruby>いをもらいます。",
+      "ja": "<ruby>毎月<rt>まいつき</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>に<ruby>親<rt>おや</rt></ruby>からお<ruby>小遣<rt>こづか</rt></ruby>いをもらいます。",
       "en": "I receive an allowance from my parents on the 1st of every month.",
       "zh_TW": "每個月1號我會從父母那裡拿零用錢。",
       "ko": "매월 1일에 부모님께 용돈을 받습니다."

@@ -5933,9 +5933,9 @@
     const reverseLabel = document.getElementById('reverseModeLabel');
     if (reverseLabel) {
       if (isJa) {
-        reverseLabel.textContent = isReverseMode ? '表面: 母国語' : '表面: 日本語';
+        reverseLabel.textContent = isReverseMode ? '表面: 英語' : '表面: 日本語';
       } else {
-        reverseLabel.textContent = isReverseMode ? 'Front: Native' : 'Front: Japanese';
+        reverseLabel.textContent = isReverseMode ? 'Front: English' : 'Front: Japanese';
       }
     }
 
@@ -6218,7 +6218,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v63_student_cards_purged_and_healed';
+    const CURRENT_DATA_VERSION = 'v64_master_cards_furigana_reverse_repaired';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
@@ -8926,14 +8926,27 @@
         if (fallback) nativeMeaning = fallback;
       }
 
-      if (targetLang === 'en' || !nativeMeaning || nativeMeaning === enMeaning) {
-        // English-only student or no native translation available: show English
-        document.getElementById('frontReading').textContent = '';
-        document.getElementById('frontReading').classList.add('hidden');
-        document.getElementById('frontWord').textContent = enMeaning || nativeMeaning || jpWord;
+      // 🛡️ 表裏整合ガード: 日本語モード（先生等）や英語モード、または母国語が日本語と同一漢字の場合（料理、旅行等）は、
+      // 表面に必ず英語（enMeaning）を最優先表示して「日本語のまま」になる現象を完全に防止！
+      const isNativeIdenticalToJp = nativeMeaning && (nativeMeaning === jpWord || (!/[\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF]/.test(nativeMeaning) && nativeMeaning === jpWord));
+
+      if (targetLang === 'ja' || targetLang === 'en' || !nativeMeaning || nativeMeaning === enMeaning || isNativeIdenticalToJp) {
+        const primaryText = enMeaning || nativeMeaning || jpWord;
+        document.getElementById('frontWord').textContent = primaryText;
         document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
+
+        // 英語以外の母国語（中国語繁体字等）があり、それが英語と異なる場合はサブ表示として括弧表示
+        if (targetLang !== 'ja' && targetLang !== 'en' && nativeMeaning && nativeMeaning !== primaryText) {
+          document.getElementById('frontReading').textContent = `(${nativeMeaning})`;
+          document.getElementById('frontReading').className = 'text-sm sm:text-base font-bold text-slate-500 mb-1.5 tracking-normal';
+          document.getElementById('frontReading').classList.remove('hidden');
+        } else {
+          document.getElementById('frontReading').textContent = '';
+          document.getElementById('frontReading').classList.add('hidden');
+        }
       } else {
-        // Non-English student: show Native language prominently AND English together!
+        // Non-English student with distinct native translation (e.g. Korean 요리, French, etc.):
+        // Show Native language prominently AND English together!
         document.getElementById('frontWord').textContent = nativeMeaning;
         document.getElementById('frontWord').className = 'text-2xl sm:text-3xl font-extrabold text-darkNavyText tracking-tight leading-snug';
         if (enMeaning && !nativeMeaning.includes(`(${enMeaning})`)) {
@@ -9040,11 +9053,11 @@
       relContainer.classList.add('hidden');
     }
 
-    // ★ 音声自動再生: 表面が表示された瞬間に単語を即座に自動再生
+    // ★ 音声自動再生: 表面が表示された瞬間に単語を即座に自動再生（リバースモード時はネタバレ防止のため裏面で発音）
     // モバイルのタップ・クリックのユーザー操作コンテキストを即時利用してブロックを完全回避
     if (isAutoAudioEnabled && card) {
       if (autoAudioTimer) clearTimeout(autoAudioTimer);
-      if (!isCardFlipped) {
+      if (!isCardFlipped && !isReverseMode) {
         speakJapanese(card);
       }
     }
@@ -9064,8 +9077,8 @@
       }
     } else {
       cardEl.classList.remove('rotate-y-180');
-      // 表面に戻ったときも即座に自動再生
-      if (isAutoAudioEnabled && activeDeck[currentIndex]) {
+      // 表面に戻ったとき（リバース時はネタバレ防止）
+      if (isAutoAudioEnabled && activeDeck[currentIndex] && !isReverseMode) {
         speakJapanese(activeDeck[currentIndex]);
       }
     }
@@ -11686,18 +11699,19 @@
       flipCard();
     });
 
-    // Reverse Mode (Front: Japanese ⇄ Native)
+    // Reverse Mode (Front: Japanese ⇄ English / Native)
     document.getElementById('btnToggleReverse').addEventListener('click', () => {
       isReverseMode = !isReverseMode;
       const reverseLabel = document.getElementById('reverseModeLabel');
       if (reverseLabel) {
         if (currentLang === 'ja') {
-          reverseLabel.textContent = isReverseMode ? '表面: 母国語' : '表面: 日本語';
+          reverseLabel.textContent = isReverseMode ? '表面: 英語' : '表面: 日本語';
         } else {
-          reverseLabel.textContent = isReverseMode ? 'Front: Native' : 'Front: Japanese';
+          reverseLabel.textContent = isReverseMode ? 'Front: English' : 'Front: Japanese';
         }
       }
       renderCurrentCard();
+      showToast(isReverseMode ? (currentLang === 'ja' ? '表面を英語に設定しました 🔀' : 'Front set to English 🔀') : (currentLang === 'ja' ? '表面を日本語に設定しました 🔀' : 'Front set to Japanese 🔀'));
     });
 
     // Folder & Unit Navigation Listeners
@@ -11969,7 +11983,17 @@
     document.getElementById('btnSpeakFront').addEventListener('click', (e) => {
       e.stopPropagation();
       if (activeDeck[currentIndex]) {
-        toggleJapaneseSpeech(activeDeck[currentIndex]);
+        if (isReverseMode) {
+          // リバースモードの表面では日本語のネタバレを防ぎ、英語を発音
+          const en = (activeDeck[currentIndex].meaning && activeDeck[currentIndex].meaning.en) || '';
+          if (en && 'speechSynthesis' in window) {
+            const utt = new SpeechSynthesisUtterance(en);
+            utt.lang = 'en-US';
+            window.speechSynthesis.speak(utt);
+          }
+        } else {
+          toggleJapaneseSpeech(activeDeck[currentIndex]);
+        }
       }
     });
 

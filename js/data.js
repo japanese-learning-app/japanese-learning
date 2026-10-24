@@ -581,7 +581,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "lesson / class"
     },
     "example": {
-      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>からですか？<br/>B: <ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>とき</rt></ruby>からです。<ruby>遅<rt>おく</rt></ruby>れないようにしましょう。",
+      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>からですか？<br/>B: <ruby>午前<rt>ごぜん</rt></ruby><ruby>9時<rt>くじ</rt></ruby>からです。<ruby>遅<rt>おく</rt></ruby>れないようにしましょう。",
       "en": "A: What time does the Japanese class start?\nB: It starts at 9:00 AM. Let's make sure not to be late.",
       "zh_TW": "A: 日文課幾點開始？<br/>B: 早上9點開始，不要遲到喔。",
       "zh_CN": "A: 日文课几点开始？<br/>B: 早上9点开始，不要迟到哦。",
@@ -1561,7 +1561,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "Thank you for the meal (said before eating)"
     },
     "example": {
-      "ja": "おいしそうな<ruby>ご飯<rt>はん</rt></ruby>ですね。いただきます！<br/>どうぞ、<ruby>温<rt>あたた</rt></ruby>かいうちに<ruby>食<rt>た</rt></ruby>べてください。",
+      "ja": "おいしそうなご<ruby>飯<rt>はん</rt></ruby>ですね。いただきます！<br/>どうぞ、<ruby>温<rt>あたた</rt></ruby>かいうちに<ruby>食<rt>た</rt></ruby>べてください。",
       "en": "The food looks delicious. Thank you for the meal!<br>Go ahead, please eat while it's warm.",
       "zh_TW": "看起來好好吃的飯呢。我要開動了！<br>請用，趁熱吃喔。",
       "zh_CN": "看起來好好吃的飯呢。我要開動了！<br>請用，趁熱吃喔。",
@@ -1777,7 +1777,7 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "いってらっしゃい",
     "category": "simple phrase",
     "meaning": {
-      "en": "Take care, see you later (response to いってきます)",
+      "en": "Take care / Have a good day (response to 'I'm leaving')",
       "zh_TW": "路上小心／慢走",
       "zh_CN": "路上小心／慢走",
       "ko": "다녀오세요",
@@ -1841,7 +1841,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "Welcome back!"
     },
     "example": {
-      "ja": "ただいま！<br/>おかえりなさい、<ruby>ご飯<rt>はん</rt></ruby>ができているよ。",
+      "ja": "ただいま！<br/>おかえりなさい、ご<ruby>飯<rt>はん</rt></ruby>ができているよ。",
       "en": "I'm home!<br>Welcome back, dinner is ready.",
       "zh_TW": "我回來了！<br>歡迎回來，飯已經煮好了喔。",
       "zh_CN": "我回來了！<br>歡迎回來，飯已經煮好了喔。",
@@ -3185,7 +3185,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "family"
     },
     "example": {
-      "ja": "A: <ruby>ご家族<rt>ごかぞく</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか？<br/>B: <ruby>家族<rt>かぞく</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で4<ruby>人<rt>にん</rt></ruby>です。",
+      "ja": "A: <ruby>ご家族<rt>ごかぞく</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか？<br/>B: <ruby>家族<rt>かぞく</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>4人<rt>よにん</rt></ruby>です。",
       "en": "A: How many people are there in your family?<br/>B: There are four people in my family in total.",
       "zh_TW": "A: 請問您家裡有幾位家人？<br/>B: 我的家人總共有四位。",
       "zh_CN": "A: 请问您家里有几位家人？<br/>B: 我的家人总共有四位。",
@@ -3325,7 +3325,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "wife"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>で、<ruby>毎晩<rt>まいばん</rt></ruby>おいしい<ruby>ご飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってくれます。",
+      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>で、<ruby>毎晩<rt>まいばん</rt></ruby>おいしいご<ruby>飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってくれます。",
       "en": "My wife is very good at cooking and makes delicious meals for me every evening.",
       "zh_TW": "我的太太非常擅長料理，每天晚上都會做美味的飯菜給我吃。",
       "zh_CN": "我的太太非常擅长料理，每天晚上都会做美味的饭菜给我吃。",
@@ -3437,7 +3437,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "school"
     },
     "example": {
-      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>8<ruby>時<rt>とき</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いて<ruby>通<rt>とお</rt></ruby>っています。",
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>8時<rt>はちじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いて<ruby>通<rt>とお</rt></ruby>っています。",
       "en": "I leave home at 8:00 every morning and walk to school together with my friend.",
       "zh_TW": "每天早晨8點出門，和朋友一起走去學校上課。",
       "zh_CN": "每天早晨8点出门，和朋友一起走去学校上课。",
@@ -7358,7 +7358,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "January"
     },
     "example": {
-      "ja": "1<ruby>月<rt>がつ</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みがあります。<br/>とても<ruby>寒<rt>さむ</rt></ruby>くなりますね。",
+      "ja": "<ruby>1月<rt>いちがつ</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みがあります。<br/>とても<ruby>寒<rt>さむ</rt></ruby>くなりますね。",
       "en": "January has New Year holidays.<br>It gets very cold.",
       "zh_TW": "一月有新年假期。<br>天氣會變得非常冷。",
       "zh_CN": "一月有新年假期。<br>天氣會變得非常冷。",
@@ -7386,7 +7386,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "February"
     },
     "example": {
-      "ja": "2<ruby>月<rt>がつ</rt></ruby>はスキーに<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<br/><ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りますよ。",
+      "ja": "<ruby>2月<rt>にがつ</rt></ruby>はスキーに<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<br/><ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りますよ。",
       "en": "I plan to go skiing in February.<br>A lot of snow falls.",
       "zh_TW": "二月打算去滑雪。<br>會下很多雪喔。",
       "zh_CN": "二月打算去滑雪。<br>會下很多雪喔。",
@@ -7414,7 +7414,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "March"
     },
     "example": {
-      "ja": "3<ruby>月<rt>がつ</rt></ruby>は<ruby>卒業<rt>そつぎょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>ですね。<br/><ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。",
+      "ja": "<ruby>3月<rt>さんがつ</rt></ruby>は<ruby>卒業<rt>そつぎょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>ですね。<br/><ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。",
       "en": "March is the graduation season.<br>Cherry blossoms start blooming.",
       "zh_TW": "三月是畢業的季節呢。<br>櫻花開始盛開了。",
       "zh_CN": "三月是畢業的季節呢。<br>櫻花開始盛開了。",
@@ -7442,7 +7442,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "April"
     },
     "example": {
-      "ja": "4<ruby>月<rt>がつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>入学<rt>にゅうがく</rt></ruby><ruby>式<rt>しき</rt></ruby>がありますよ。",
+      "ja": "<ruby>4月<rt>しがつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>入学<rt>にゅうがく</rt></ruby><ruby>式<rt>しき</rt></ruby>がありますよ。",
       "en": "A new life begins in April.<br>There is an entrance ceremony.",
       "zh_TW": "四月開始新生活。<br>有入學典禮喔。",
       "zh_CN": "四月開始新生活。<br>有入學典禮喔。",
@@ -7470,7 +7470,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "May"
     },
     "example": {
-      "ja": "5<ruby>月<rt>がつ</rt></ruby>のゴールデンウィークは<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br/><ruby>気候<rt>きこう</rt></ruby>がとてもいいですね。",
+      "ja": "<ruby>5月<rt>ごがつ</rt></ruby>のゴールデンウィークは<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br/><ruby>気候<rt>きこう</rt></ruby>がとてもいいですね。",
       "en": "I travel during Golden Week in May.<br>The weather is very pleasant.",
       "zh_TW": "五月的黃金週要去旅行。<br>氣候非常舒服呢。",
       "zh_CN": "五月的黃金週要去旅行。<br>氣候非常舒服呢。",
@@ -7498,7 +7498,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "June"
     },
     "example": {
-      "ja": "6<ruby>月<rt>がつ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ります。<br/><ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>ですね。",
+      "ja": "<ruby>6月<rt>ろくがつ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ります。<br/><ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>ですね。",
       "en": "It rains a lot in June.<br>It's the rainy season (Tsuyu).",
       "zh_TW": "六月會下很多雨。<br>是梅雨季節呢。",
       "zh_CN": "六月會下很多雨。<br>是梅雨季節呢。",
@@ -7526,7 +7526,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "July"
     },
     "example": {
-      "ja": "7<ruby>月<rt>がつ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>へ<ruby>泳<rt>およ</rt></ruby>ぎに<ruby>行<rt>い</rt></ruby>きましょう。<br/><ruby>夏休<rt>なつやす</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まりますね！",
+      "ja": "<ruby>7月<rt>しちがつ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>へ<ruby>泳<rt>およ</rt></ruby>ぎに<ruby>行<rt>い</rt></ruby>きましょう。<br/><ruby>夏休<rt>なつやす</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まりますね！",
       "en": "Let's go swimming in the sea in July.<br>Summer vacation begins!",
       "zh_TW": "七月一起去海邊游泳吧。<br>暑假要開始了呢！",
       "zh_CN": "七月一起去海邊游泳吧。<br>暑假要開始了呢！",
@@ -7554,7 +7554,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "August"
     },
     "example": {
-      "ja": "8<ruby>月<rt>がつ</rt></ruby>は<ruby>花火<rt>はなび</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>や<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りがあります。<br/><ruby>一番<rt>いちばん</rt></ruby><ruby>暑<rt>あつ</rt></ruby>い<ruby>月<rt>がつ</rt></ruby>ですね。",
+      "ja": "<ruby>8月<rt>はちがつ</rt></ruby>は<ruby>花火<rt>はなび</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>や<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りがあります。<br/><ruby>一番<rt>いちばん</rt></ruby><ruby>暑<rt>あつ</rt></ruby>い<ruby>月<rt>つき</rt></ruby>ですね。",
       "en": "In August there are fireworks festivals and summer festivals.<br>It's the hottest month.",
       "zh_TW": "八月有煙火大會和夏日祭典。<br>是一年中最熱的月份呢。",
       "zh_CN": "八月有煙火大會和夏日祭典。<br>是一年中最熱的月份呢。",
@@ -7582,7 +7582,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "September"
     },
     "example": {
-      "ja": "9<ruby>月<rt>がつ</rt></ruby>になって、<ruby>少<rt>すこ</rt></ruby>し<ruby>涼<rt>すず</rt></ruby>しくなりました。<br/><ruby>秋<rt>あき</rt></ruby>の<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
+      "ja": "<ruby>9月<rt>くがつ</rt></ruby>になって、<ruby>少<rt>すこ</rt></ruby>し<ruby>涼<rt>すず</rt></ruby>しくなりました。<br/><ruby>秋<rt>あき</rt></ruby>の<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
       "en": "It has become a little cooler in September.<br>Autumn breeze is blowing.",
       "zh_TW": "到了九月，稍微變涼爽了。<br>秋天的風吹拂著。",
       "zh_CN": "到了九月，稍微變涼爽了。<br>秋天的風吹拂著。",
@@ -7610,7 +7610,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "October"
     },
     "example": {
-      "ja": "10<ruby>月<rt>がつ</rt></ruby>は<ruby>紅葉<rt>こうよう</rt></ruby>がとても<ruby>綺麗<rt>きれい</rt></ruby>です。<br/><ruby>山<rt>やま</rt></ruby>へハイキングに<ruby>行<rt>い</rt></ruby>きましょう。",
+      "ja": "<ruby>10月<rt>じゅうがつ</rt></ruby>は<ruby>紅葉<rt>こうよう</rt></ruby>がとても<ruby>綺麗<rt>きれい</rt></ruby>です。<br/><ruby>山<rt>やま</rt></ruby>へハイキングに<ruby>行<rt>い</rt></ruby>きましょう。",
       "en": "The autumn leaves are very beautiful in October.<br>Let's go hiking in the mountains.",
       "zh_TW": "十月的楓葉非常美麗。<br>一起去山上健行吧。",
       "zh_CN": "十月的楓葉非常美麗。<br>一起去山上健行吧。",
@@ -7638,7 +7638,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "November"
     },
     "example": {
-      "ja": "11<ruby>月<rt>がつ</rt></ruby>は<ruby>朝晩<rt>あさばん</rt></ruby>が<ruby>冷え込<rt>ひえこ</rt></ruby>みますね。<br/><ruby>温<rt>あたた</rt></ruby>かい<ruby>鍋<rt>なべ</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>が<ruby>食<rt>た</rt></ruby>べたいです。",
+      "ja": "1<ruby>1月<rt>いちがつ</rt></ruby>は<ruby>朝晩<rt>あさばん</rt></ruby>が<ruby>冷え込<rt>ひえこ</rt></ruby>みますね。<br/><ruby>温<rt>あたた</rt></ruby>かい<ruby>鍋<rt>なべ</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>が<ruby>食<rt>た</rt></ruby>べたいです。",
       "en": "It gets chilly mornings and evenings in November.<br>I want to eat hot pot.",
       "zh_TW": "十一月早晚變得很冷呢。<br>想吃熱騰騰的火鍋。",
       "zh_CN": "十一月早晚變得很冷呢。<br>想吃熱騰騰的火鍋。",
@@ -7666,7 +7666,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "December"
     },
     "example": {
-      "ja": "12<ruby>月<rt>がつ</rt></ruby>はクリスマスや<ruby>大晦日<rt>おおみそか</rt></ruby>があります。<br/><ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>があっという<ruby>間<rt>ま</rt></ruby>ですね。",
+      "ja": "1<ruby>2月<rt>にがつ</rt></ruby>はクリスマスや<ruby>大晦日<rt>おおみそか</rt></ruby>があります。<br/><ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>があっという<ruby>間<rt>ま</rt></ruby>ですね。",
       "en": "December has Christmas and New Year's Eve.<br>A year passed by in a flash.",
       "zh_TW": "十二月有聖誕節和除夕夜。<br>一年過得真快呢。",
       "zh_CN": "十二月有聖誕節和除夕夜。<br>一年過得真快呢。",
@@ -7694,7 +7694,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 1st"
     },
     "example": {
-      "ja": "1<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>ついたち</rt></ruby>は<ruby>元日<rt>がんじつ</rt></ruby>です。<br/><ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "ja": "<ruby>1月<rt>いちがつ</rt></ruby><ruby>1日<rt>ついたち</rt></ruby>は<ruby>元日<rt>がんじつ</rt></ruby>です。<br/><ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
       "en": "January 1st is New Year's Day.<br>We visit a shrine for Hatsumode.",
       "zh_TW": "一月一日是元旦。<br>要去神社新年參拜。",
       "zh_CN": "一月一日是元旦。<br>要去神社新年參拜。",
@@ -7722,7 +7722,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 2nd"
     },
     "example": {
-      "ja": "2<ruby>日<rt>ふつか</rt></ruby>からデパートの<ruby>初<rt>はじ</rt></ruby><ruby>売<rt>う</rt></ruby>りが<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
+      "ja": "<ruby>2日<rt>ふつか</rt></ruby>からデパートの<ruby>初<rt>はじ</rt></ruby><ruby>売<rt>う</rt></ruby>りが<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
       "en": "New Year's first sale starts on the 2nd at department stores.<br>Let's go shopping.",
       "zh_TW": "二號開始百貨公司的新春首賣。<br>一起去購物吧。",
       "zh_CN": "二號開始百貨公司的新春首賣。<br>一起去購物吧。",
@@ -7750,7 +7750,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 3rd"
     },
     "example": {
-      "ja": "3<ruby>日<rt>みっか</rt></ruby>まで<ruby>家<rt>いえ</rt></ruby>でのんびり<ruby>過<rt>す</rt></ruby>ごします。<br/>お<ruby>正月<rt>しょうがつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みを<ruby>満喫<rt>まんきつ</rt></ruby>しよう。",
+      "ja": "<ruby>3日<rt>みっか</rt></ruby>まで<ruby>家<rt>いえ</rt></ruby>でのんびり<ruby>過<rt>す</rt></ruby>ごします。<br/>お<ruby>正月<rt>しょうがつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みを<ruby>満喫<rt>まんきつ</rt></ruby>しよう。",
       "en": "I will relax at home until the 3rd.<br>Let's enjoy the New Year holidays.",
       "zh_TW": "到三號為止都在家裡悠閒地度過。<br>好好享受新年假期吧。",
       "zh_CN": "到三號為止都在家裡悠閒地度過。<br>好好享受新年假期吧。",
@@ -7778,7 +7778,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 4th"
     },
     "example": {
-      "ja": "4<ruby>日<rt>よっか</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>今年<rt>ことし</rt></ruby>もがんばりましょう！",
+      "ja": "<ruby>4日<rt>よっか</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>今年<rt>ことし</rt></ruby>もがんばりましょう！",
       "en": "Work starts from the 4th.<br>Let's do our best this year too!",
       "zh_TW": "四號開始上班。<br>今年也一起加油吧！",
       "zh_CN": "四號開始上班。<br>今年也一起加油吧！",
@@ -7806,7 +7806,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 5th"
     },
     "example": {
-      "ja": "5<ruby>日<rt>いつか</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う<ruby>約束<rt>やくそく</rt></ruby>をしています。<br/>カフェでお<ruby>茶<rt>ちゃ</rt></ruby>をします。",
+      "ja": "<ruby>5日<rt>いつか</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う<ruby>約束<rt>やくそく</rt></ruby>をしています。<br/>カフェでお<ruby>茶<rt>ちゃ</rt></ruby>をします。",
       "en": "I promised to meet a friend on the 5th.<br>We will have tea at a cafe.",
       "zh_TW": "五號跟朋友有約。<br>要去咖啡廳喝茶。",
       "zh_CN": "五號跟朋友有約。<br>要去咖啡廳喝茶。",
@@ -7834,7 +7834,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 6th"
     },
     "example": {
-      "ja": "6<ruby>日<rt>むいか</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<br/><ruby>家<rt>いえ</rt></ruby>にいて<ruby>受け取<rt>うけと</rt></ruby>ります。",
+      "ja": "<ruby>6日<rt>むいか</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<br/><ruby>家<rt>いえ</rt></ruby>にいて<ruby>受け取<rt>うけと</rt></ruby>ります。",
       "en": "The package is scheduled to arrive on the 6th.<br>I'll be home to receive it.",
       "zh_TW": "預計六號包裹會送到。<br>我會待在家裡簽收。",
       "zh_CN": "預計六號包裹會送到。<br>我會待在家裡簽收。",
@@ -7862,7 +7862,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 7th"
     },
     "example": {
-      "ja": "7<ruby>日<rt>なのか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>七草粥<rt>ななくさがゆ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。<br/><ruby>胃<rt>い</rt></ruby>に<ruby>優<rt>やさ</rt></ruby>しい<ruby>料理<rt>りょうり</rt></ruby>です。",
+      "ja": "<ruby>7日<rt>なのか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>七草粥<rt>ななくさがゆ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。<br/><ruby>胃<rt>い</rt></ruby>に<ruby>優<rt>やさ</rt></ruby>しい<ruby>料理<rt>りょうり</rt></ruby>です。",
       "en": "We eat seven-herb rice porridge on the morning of the 7th.<br>It's gentle on the stomach.",
       "zh_TW": "七號早晨吃七草粥。<br>對胃很溫和的料理。",
       "zh_CN": "七號早晨吃七草粥。<br>對胃很溫和的料理。",
@@ -7890,7 +7890,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 8th"
     },
     "example": {
-      "ja": "8<ruby>日<rt>ようか</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>誕生日<rt>たんじょうび</rt></ruby>です。<br/>プレゼントを<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
+      "ja": "<ruby>8日<rt>ようか</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>誕生日<rt>たんじょうび</rt></ruby>です。<br/>プレゼントを<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
       "en": "The 8th is Tanaka-san's birthday.<br>I'll go buy a present.",
       "zh_TW": "八號是田中先生的生日。<br>要去買禮物。",
       "zh_CN": "八號是田中先生的生日。<br>要去買禮物。",
@@ -7918,7 +7918,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 9th"
     },
     "example": {
-      "ja": "9<ruby>日<rt>ここのか</rt></ruby>に<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>されます。<br/><ruby>緊張<rt>きんちょう</rt></ruby>しますね。",
+      "ja": "<ruby>9日<rt>ここのか</rt></ruby>に<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>されます。<br/><ruby>緊張<rt>きんちょう</rt></ruby>しますね。",
       "en": "The exam results will be announced on the 9th.<br>I'm nervous.",
       "zh_TW": "九號公佈考試結果。<br>真讓人緊張呢。",
       "zh_CN": "九號公佈考試結果。<br>真讓人緊張呢。",
@@ -7946,7 +7946,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 10th"
     },
     "example": {
-      "ja": "10<ruby>日<rt>とおか</rt></ruby>までに<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください。<br/>はい、わかりました。",
+      "ja": "<ruby>10日<rt>とおか</rt></ruby>までに<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください。<br/>はい、わかりました。",
       "en": "Please submit your homework by the 10th.<br>Yes, understood.",
       "zh_TW": "請在十號之前交作業。<br>好的，明白了。",
       "zh_CN": "請在十號之前交作業。<br>好的，明白了。",
@@ -7974,7 +7974,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 14th"
     },
     "example": {
-      "ja": "2<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>じゅうよっか</rt></ruby>はバレンタインデーです。<br/>チョコレートを<ruby>渡<rt>わた</rt></ruby>します。",
+      "ja": "<ruby>2月<rt>にがつ</rt></ruby><ruby>14日<rt>じゅうよっか</rt></ruby>はバレンタインデーです。<br/>チョコレートを<ruby>渡<rt>わた</rt></ruby>します。",
       "en": "February 14th is Valentine's Day.<br>I give chocolate.",
       "zh_TW": "二月十四號是情人節。<br>要送巧克力。",
       "zh_CN": "二月十四號是情人節。<br>要送巧克力。",
@@ -8002,7 +8002,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 20th"
     },
     "example": {
-      "ja": "20<ruby>日<rt>はつか</rt></ruby>はお<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>です。<br/><ruby>美味<rt>おい</rt></ruby>しいものを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きましょう！",
+      "ja": "<ruby>20日<rt>はつか</rt></ruby>はお<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>です。<br/><ruby>美味<rt>おい</rt></ruby>しいものを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きましょう！",
       "en": "The 20th is payday.<br>Let's go eat something delicious!",
       "zh_TW": "二十號是發薪日。<br>一起去吃好吃的吧！",
       "zh_CN": "二十號是發薪日。<br>一起去吃好吃的吧！",
@@ -8030,7 +8030,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "the 24th"
     },
     "example": {
-      "ja": "12<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にじゅうよっか</rt></ruby>はクリスマスイブですね。<br/>ケーキを<ruby>予約<rt>よやく</rt></ruby>しました。",
+      "ja": "1<ruby>2月<rt>にがつ</rt></ruby><ruby>24日<rt>にじゅうよっか</rt></ruby>はクリスマスイブですね。<br/>ケーキを<ruby>予約<rt>よやく</rt></ruby>しました。",
       "en": "December 24th is Christmas Eve.<br>I reserved a cake.",
       "zh_TW": "十二月二十四號是聖誕夜呢。<br>我訂了蛋糕。",
       "zh_CN": "十二月二十四號是聖誕夜呢。<br>我訂了蛋糕。",
@@ -8058,7 +8058,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "what date / which day of the month"
     },
     "example": {
-      "ja": "A:<ruby>今日<rt>きょう</rt></ruby>は<ruby>何日<rt>なんにち</rt></ruby>ですか？<br/>B: 10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>ひ</rt></ruby>ですよ。",
+      "ja": "A:<ruby>今日<rt>きょう</rt></ruby>は<ruby>何日<rt>なんにち</rt></ruby>ですか？<br/>B: <ruby>10月<rt>じゅうがつ</rt></ruby><ruby>15日<rt>じゅうごにち</rt></ruby>ですよ。",
       "en": "A: What day of the month is it today?<br>B: It's October 15th.",
       "zh_TW": "A: 今天是幾號？<br>B: 是十月十五號喔。",
       "zh_CN": "A: 今天是幾號？<br>B: 是十月十五號喔。",
@@ -8114,7 +8114,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "what month"
     },
     "example": {
-      "ja": "A: お<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby>ですか？<br/>B: 8<ruby>月<rt>がつ</rt></ruby>です。",
+      "ja": "A: お<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby>ですか？<br/>B: <ruby>8月<rt>はちがつ</rt></ruby>です。",
       "en": "A: What month is your birthday?<br>B: It's in August.",
       "zh_TW": "A: 你的生日是幾月？<br>B: 是八月。",
       "zh_CN": "A: 你的生日是幾月？<br>B: 是八月。",
@@ -8142,7 +8142,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "how many minutes / what minute"
     },
     "example": {
-      "ja": "A: ここから<ruby>駅<rt>えき</rt></ruby>まで<ruby>何分<rt>なんぷん</rt></ruby>かかりますか？<br/>B: <ruby>歩<rt>ある</rt></ruby>いて<ruby>約<rt>やく</rt></ruby>5<ruby>分<rt>ぷん</rt></ruby>です。",
+      "ja": "A: ここから<ruby>駅<rt>えき</rt></ruby>まで<ruby>何分<rt>なんぷん</rt></ruby>かかりますか？<br/>B: <ruby>歩<rt>ある</rt></ruby>いて<ruby>約<rt>やく</rt></ruby><ruby>5分<rt>ごふん</rt></ruby>です。",
       "en": "A: How many minutes does it take from here to the station?<br>B: About 5 minutes on foot.",
       "zh_TW": "A: 從這裡到車站要幾分鐘？<br>B: 走路大約五分鐘。",
       "zh_CN": "A: 從這裡到車站要幾分鐘？<br>B: 走路大約五分鐘。",
@@ -10569,7 +10569,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "rentrer / retourner"
     },
     "example": {
-      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて10<ruby>分<rt>ふん</rt></ruby>です。",
+      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて<ruby>10分<rt>じゅっぷん</rt></ruby>です。",
       "en": "It is a 10-minute walk from the station to my house.",
       "zh_TW": "帰る（かえる）、帰ります",
       "zh_CN": "帰る（かえる）、帰ります",
@@ -10933,7 +10933,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to begin / to start (intransitive)"
     },
     "example": {
-      "ja": "<ruby>朝<rt>あさ</rt></ruby>9<ruby>時<rt>じ</rt></ruby>から<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>資料<rt>しりょう</rt></ruby>を<ruby>配<rt>くば</rt></ruby>りましょう。",
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>9時<rt>くじ</rt></ruby>から<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<br/><ruby>資料<rt>しりょう</rt></ruby>を<ruby>配<rt>くば</rt></ruby>りましょう。",
       "en": "The meeting starts from 9 AM.<br>Let's distribute the materials.",
       "zh_TW": "早上九點開始開會。<br>發放資料吧。",
       "zh_CN": "早上九點開始開會。<br>發放資料吧。",
@@ -11065,7 +11065,7 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おぼえる",
     "category": "基本動詞(1)",
     "meaning": {
-      "en": "覚える（おぼえる）、覚えます",
+      "en": "to remember / to memorize",
       "zh_TW": "覚える（おぼえる）、覚えます",
       "zh_CN": "覚える（おぼえる）、覚えます",
       "ko": "覚える（おぼえる）、覚えます",
@@ -11689,7 +11689,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "not yet"
     },
     "example": {
-      "ja": "お<ruby>昼<rt>ひる</rt></ruby><ruby>ご飯<rt>はん</rt></ruby>はもう<ruby>食<rt>た</rt></ruby>べましたか？<br/>いいえ、まだ<ruby>食<rt>た</rt></ruby>べていません。",
+      "ja": "お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>はもう<ruby>食<rt>た</rt></ruby>べましたか？<br/>いいえ、まだ<ruby>食<rt>た</rt></ruby>べていません。",
       "en": "Have you had lunch already?<br>No, I haven't eaten yet.",
       "zh_TW": "午餐已經吃了嗎？<br>還沒，我還沒吃。",
       "zh_CN": "午餐已經吃了嗎？<br>還沒，我還沒吃。",
@@ -11857,7 +11857,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "about / around (approximation)"
     },
     "example": {
-      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて15<ruby>分<rt>ぷん</rt></ruby>くらいかかります。<br/>ちょうどいい<ruby>運動<rt>うんどう</rt></ruby>になりますよ。",
+      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて1<ruby>5分<rt>ごふん</rt></ruby>くらいかかります。<br/>ちょうどいい<ruby>運動<rt>うんどう</rt></ruby>になりますよ。",
       "en": "It takes about 15 minutes to walk from the station to home.<br>It's just the right exercise.",
       "zh_TW": "從車站走路到家裡大約需要十五分鐘左右。<br>剛好當作適度的運動呢。",
       "zh_CN": "從車站走路到家裡大約需要十五分鐘左右。<br>剛好當作適度的運動呢。",
@@ -12893,7 +12893,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to leave / to go out"
     },
     "example": {
-      "ja": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>をでます。<br/><ruby>遅刻<rt>ちこく</rt></ruby>しないように<ruby>急<rt>いそ</rt></ruby>ぎます。",
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>7時<rt>しちじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>をでます。<br/><ruby>遅刻<rt>ちこく</rt></ruby>しないように<ruby>急<rt>いそ</rt></ruby>ぎます。",
       "en": "I leave home at 7 AM.<br>I hurry so I won't be late.",
       "zh_TW": "早上七點出門。<br>為了不遲到趕緊出發。",
       "zh_CN": "早上七點出門。<br>為了不遲到趕緊出發。",
@@ -13061,7 +13061,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wake someone up"
     },
     "example": {
-      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、7<ruby>時<rt>じ</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>をおこしてください。<br/>はい、<ruby>声<rt>ごえ</rt></ruby>をかけますね。",
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>7時<rt>しちじ</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>をおこしてください。<br/>はい、<ruby>声<rt>ごえ</rt></ruby>をかけますね。",
       "en": "Please wake me up at 7 o'clock tomorrow morning.<br>Yes, I'll call you.",
       "zh_TW": "明天早上七點請叫我起床。<br>好的，我會叫你喔。",
       "zh_CN": "明天早上七點請叫我起床。<br>好的，我會叫你喔。",
@@ -13089,7 +13089,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wash"
     },
     "example": {
-      "ja": "<ruby>ご飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>前<rt>まえ</rt></ruby>に、<ruby>手<rt>て</rt></ruby>をしっかりあらいます。<br/><ruby>清潔<rt>せいけつ</rt></ruby>にしましょう。",
+      "ja": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>前<rt>まえ</rt></ruby>に、<ruby>手<rt>て</rt></ruby>をしっかりあらいます。<br/><ruby>清潔<rt>せいけつ</rt></ruby>にしましょう。",
       "en": "Wash your hands thoroughly before eating.<br>Let's keep clean.",
       "zh_TW": "吃飯前要好好洗手。<br>保持乾淨衛生吧。",
       "zh_CN": "吃飯前要好好洗手。<br>保持乾淨衛生吧。",
@@ -13677,7 +13677,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "travel / trip"
     },
     "example": {
-      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br/><ruby>美味<rt>おい</rt></ruby>しい<ruby>海<rt>うみ</rt></ruby>の<ruby>幸<rt>しあわ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいです！",
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br/><ruby>美味<rt>おい</rt></ruby>しい<ruby>海<rt>うみ</rt></ruby>の<ruby>幸<rt>さち</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいです！",
       "en": "I'm going on a trip to Hokkaido next month.<br>I want to eat delicious seafood!",
       "zh_TW": "下個月要去北海道旅行。<br>想吃美味的海鮮！",
       "zh_CN": "下個月要去北海道旅行。<br>想吃美味的海鮮！",
@@ -13705,7 +13705,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "cooking / dish"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby><ruby>ご飯<rt>はん</rt></ruby>は<ruby>手料理<rt>てりょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。<br/><ruby>何<rt>なに</rt></ruby>が<ruby>食<rt>た</rt></ruby>べたいですか？",
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>手料理<rt>てりょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。<br/><ruby>何<rt>なに</rt></ruby>が<ruby>食<rt>た</rt></ruby>べたいですか？",
       "en": "I will cook dinner tonight.<br>What do you want to eat?",
       "zh_TW": "今晚晚餐我來親手料理。<br>你想吃什麼？",
       "zh_CN": "今晚晚餐我來親手料理。<br>你想吃什麼？",
@@ -14265,7 +14265,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "graduation"
     },
     "example": {
-      "ja": "3<ruby>月<rt>がつ</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>します。<br/>たくさんの<ruby>思い出<rt>おもいで</rt></ruby>ができました。",
+      "ja": "<ruby>3月<rt>さんがつ</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>します。<br/>たくさんの<ruby>思い出<rt>おもいで</rt></ruby>ができました。",
       "en": "I will graduate from college in March.<br>I made so many memories.",
       "zh_TW": "三月要從大學畢業了。<br>留下了滿滿的回憶。",
       "zh_CN": "三月要從大學畢業了。<br>留下了滿滿的回憶。",
@@ -16253,7 +16253,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "happy / blessed"
     },
     "example": {
-      "ja": "<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>美味<rt>おい</rt></ruby>しい<ruby>ご飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べているときが<ruby>一番<rt>いちばん</rt></ruby><ruby>幸<rt>しあわ</rt></ruby>せです。",
+      "ja": "<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>美味<rt>おい</rt></ruby>しいご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べているときが<ruby>一番<rt>いちばん</rt></ruby><ruby>幸せ<rt>しあわせ</rt></ruby>です。",
       "en": "I feel happiest when eating delicious meals together with all my family.",
       "zh_TW": "和全家人一起吃著美味飯菜的時候是最幸福的。",
       "zh_CN": "和全家人一起吃着美味饭菜的时候是最幸福的。",
@@ -16953,7 +16953,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "trip / travel"
     },
     "example": {
-      "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>沖縄<rt>おきなわ</rt></ruby>へ3<ruby>泊<rt>はく</rt></ruby>4<ruby>日<rt>よっか</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>沖縄<rt>おきなわ</rt></ruby>へ3<ruby>泊<rt>はく</rt></ruby><ruby>4日<rt>よっか</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
       "en": "For this summer vacation, I plan to go on a four-day, three-night trip to Okinawa with my friend.",
       "zh_TW": "今年暑假，我打算和朋友一起去沖繩來一趟四天三夜的旅行。",
       "zh_CN": "今年暑假，我打算和朋友一起去冲绳来一趟四天三夜的旅行。",
@@ -17933,7 +17933,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "autumn leaves"
     },
     "example": {
-      "ja": "11<ruby>月<rt>がつ</rt></ruby>になると、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>山々<rt>やまやま</rt></ruby>が<ruby>見事<rt>みごと</rt></ruby>な<ruby>紅葉<rt>こうよう</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
+      "ja": "1<ruby>1月<rt>いちがつ</rt></ruby>になると、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>山々<rt>やまやま</rt></ruby>が<ruby>見事<rt>みごと</rt></ruby>な<ruby>紅葉<rt>こうよう</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
       "en": "In November, Kyoto's mountains turn red and yellow with splendid autumn foliage.",
       "zh_TW": "一到11月，京都的山巒就會被壯麗的紅葉染成一片美麗的紅與黃。",
       "zh_CN": "一到11月，京都的山峦就会被壮丽的红叶染成一片美丽的红与黄。",
@@ -18045,7 +18045,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "Christmas"
     },
     "example": {
-      "ja": "12<ruby>月<rt>がつ</rt></ruby>になると<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>がイルミネーションで<ruby>輝<rt>かがや</rt></ruby>き、クリスマスの<ruby>雰囲気<rt>ふんいき</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれます。",
+      "ja": "1<ruby>2月<rt>にがつ</rt></ruby>になると<ruby>街中<rt>まちじゅう</rt></ruby>がイルミネーションで<ruby>輝<rt>かがや</rt></ruby>き、クリスマスの<ruby>雰囲気<rt>ふんいき</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれます。",
       "en": "In December, the town glitters with illuminations and is enveloped in a Christmas atmosphere.",
       "zh_TW": "一到12月整座城市就被聖誕燈飾點亮，洋溢著浪漫的聖誕節氛圍。",
       "zh_CN": "一到12月整座城市就被圣诞灯饰点亮，洋溢着浪漫的圣诞节氛围。",
@@ -20277,7 +20277,7 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おぼえて",
     "category": "基本動詞(1) てform",
     "meaning": {
-      "en": "覚えて（おぼえて） (te-form)",
+      "en": "remembering / memorizing (te-form)",
       "zh_TW": "覚えて（て形）",
       "zh_CN": "覚えて（て形）",
       "ko": "覚えて（おぼえて） (て형)",
@@ -20341,7 +20341,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to get off (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>バス停<rt>ばすてい</rt></ruby>で<ruby>降<rt>お</rt></ruby>りて、<ruby>歩<rt>ある</rt></ruby>いて5<ruby>分<rt>ぷん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きますよ。<br/>ベルを<ruby>押<rt>お</rt></ruby>してください。",
+      "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>バス停<rt>ばすてい</rt></ruby>で<ruby>降<rt>お</rt></ruby>りて、<ruby>歩<rt>ある</rt></ruby>いて<ruby>5分<rt>ごふん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きますよ。<br/>ベルを<ruby>押<rt>お</rt></ruby>してください。",
       "en": "Get off at the next bus stop and you'll arrive in 5 minutes on foot.<br>Please press the bell.",
       "zh_TW": "在下一站公車站下車，走路五分鐘就到了喔。<br>請按下車鈴。",
       "zh_CN": "在下一站公車站下車，走路五分鐘就到了喔。<br>請按下車鈴。",
@@ -20789,7 +20789,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to make (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>夕<rt>ゆう</rt></ruby><ruby>ご飯<rt>はん</rt></ruby>においしいカレーを<ruby>作<rt>つく</rt></ruby>って、みんなで<ruby>食<rt>た</rt></ruby>べました。<br/><ruby>大<rt>おお</rt></ruby><ruby>好評<rt>こうひょう</rt></ruby>でした！",
+      "ja": "<ruby>夕<rt>ゆう</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>においしいカレーを<ruby>作<rt>つく</rt></ruby>って、みんなで<ruby>食<rt>た</rt></ruby>べました。<br/><ruby>大<rt>おお</rt></ruby><ruby>好評<rt>こうひょう</rt></ruby>でした！",
       "en": "I made delicious curry for dinner and we all ate it.<br>It was very popular!",
       "zh_TW": "晚餐煮了美味的咖哩大家一起吃。<br>大受好評！",
       "zh_CN": "晚餐煮了美味的咖哩大家一起吃。<br>大受好評！",
@@ -23085,7 +23085,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "close / near"
     },
     "example": {
-      "ja": "このホテルは<ruby>最寄<rt>もよ</rt></ruby>りの<ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて3<ruby>分<rt>ふん</rt></ruby>と<ruby>近<rt>ちか</rt></ruby>くて、<ruby>観光<rt>かんこう</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>です。",
+      "ja": "このホテルは<ruby>最寄<rt>もよ</rt></ruby>りの<ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>3分<rt>さんぷん</rt></ruby>と<ruby>近<rt>ちか</rt></ruby>くて、<ruby>観光<rt>かんこう</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>です。",
       "en": "This hotel is close, just a 3-minute walk from the nearest station, making sightseeing very convenient.",
       "zh_TW": "這間飯店距離最近的車站步行只要3分鐘，觀光非常方便。",
       "zh_CN": "这间饭店距离最近的车站步行只要3分钟，观光非常方便。",
@@ -23169,7 +23169,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "lonely"
     },
     "example": {
-      "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>月<rt>がつ</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えなくて<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しかったです。",
+      "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えなくて<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しかったです。",
       "en": "During my first month studying abroad in Japan, I felt a little lonely being unable to see my family.",
       "zh_TW": "剛來日本留學的第一個月，因為見不到家人感到有點寂寞孤單。",
       "zh_CN": "刚来日本留学的第一个月，因为见不到家人感到有点寂寞孤单。",
