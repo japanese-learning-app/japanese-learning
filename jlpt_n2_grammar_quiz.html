@@ -1430,7 +1430,7 @@
   <div class="question-card">
     <div class="card-top-badges">
       <div class="badge-category" id="badgeGrammar">
-        文法 #1: あげく
+        文法 #1
       </div>
       <div style="display: flex; align-items: center; gap: 14px;">
         <div class="badge-qnum" id="badgeQNum">Q. 0001</div>
@@ -1893,7 +1893,7 @@
     saveProgress();
 
     // Meta & badges
-    badgeGrammar.textContent = `文法 #${q.grammar_id}: ${q.grammar}`;
+    badgeGrammar.textContent = `文法 #${q.grammar_id}`;
     badgeQNum.textContent = `Q. ${String(q.id).padStart(4, '0')}`;
     jumpInput.value = currentIndex + 1;
     jumpInput.max = filteredIndices.length;
