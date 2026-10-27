@@ -87,8 +87,12 @@
     display: none !important;
   }
 
-  /* Anti-spoiler for Kanji Reading questions */
-  .target-reading-spoiler {
+  /* Anti-spoiler for Kanji Reading questions & Target chips (類義語・語形成・読み等) */
+  .target-reading-spoiler,
+  .quiz-target-chip rt,
+  .quiz-target-chip ruby rt,
+  .quiz-blank-box rt,
+  .quiz-blank-box ruby rt {
     display: none !important;
   }
   #questionSentence.revealed .target-reading-spoiler,
@@ -684,11 +688,253 @@
     color: var(--wrong-text);
   }
 
+  /* Reading Pairs Card (問題の言葉と答えの読み方) */
+  .reading-pairs-card {
+    background: linear-gradient(135deg, #F0F7FF 0%, #E8F2FD 100%);
+    border: 1.5px solid #BFDBFE;
+    border-radius: 12px;
+    padding: 12px 16px;
+    margin: 12px 0 14px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.06);
+  }
+
+  .reading-pair-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .reading-badge-pill {
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.3px;
+    flex-shrink: 0;
+  }
+
+  .reading-badge-pill.q-badge {
+    background: #E2E8F0;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+  }
+
+  .reading-badge-pill.a-badge {
+    background: #DCFCE7;
+    color: #166534;
+    border: 1px solid #BBF7D0;
+  }
+
+  .reading-pair-text {
+    font-size: 16.5px;
+    font-weight: 800;
+    color: #0F172A;
+  }
+
+  .reading-pair-kana {
+    font-size: 14.5px;
+    font-weight: 700;
+    color: #2563EB;
+  }
+
+  .reading-voice-btn {
+    background: #FFFFFF;
+    border: 1px solid #CBD5E1;
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #475569;
+    transition: all 0.2s;
+    padding: 0;
+    margin-left: 2px;
+  }
+
+  .reading-voice-btn:hover {
+    background: #2563EB;
+    color: #FFFFFF;
+    border-color: #2563EB;
+    transform: scale(1.08);
+  }
+
   .meaning-text {
     font-size: 13.5px;
     color: var(--text-secondary);
     margin-bottom: 12px;
     line-height: 1.6;
+  }
+
+  /* Nuance & English Direct Translation Differences Card */
+  .nuance-explanation-card {
+    background: linear-gradient(135deg, #FFFDF5 0%, #FEF9C3 100%);
+    border: 1.5px solid #FDE68A;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin: 14px 0;
+    box-shadow: 0 2px 8px rgba(217, 119, 6, 0.08);
+  }
+
+  .nuance-card-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13.5px;
+    font-weight: 800;
+    color: #92400E;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(217, 119, 6, 0.2);
+    padding-bottom: 6px;
+  }
+
+  .nuance-section {
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 8px;
+    padding: 10px 12px;
+    border: 1px solid rgba(245, 158, 11, 0.25);
+  }
+
+  .nuance-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .nuance-subtitle {
+    font-size: 11.5px;
+    font-weight: 800;
+    color: #B45309;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .nuance-text {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #1F2937;
+    font-weight: 500;
+  }
+
+  /* Selection Dict Floating Tooltip */
+  .selection-dict-tooltip {
+    position: absolute;
+    z-index: 1000;
+    background: #0F172A;
+    border-radius: 8px;
+    padding: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+    display: none;
+    pointer-events: auto;
+  }
+
+  .selection-dict-tooltip button {
+    background: transparent;
+    border: none;
+    color: #F8FAFC;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 6px;
+    transition: background 0.15s;
+    font-family: inherit;
+  }
+
+  .selection-dict-tooltip button:hover {
+    background: #2563EB;
+  }
+
+  /* Copy Dict Snackbar */
+  .copy-dict-snackbar {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #0F172A;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 13px;
+    animation: snackFadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes snackFadeIn {
+    from {
+      opacity: 0;
+      transform: translate(-50%, 15px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(-50%, 0);
+    }
+  }
+
+  .copy-snack-btn {
+    background: #2563EB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.2s, transform 0.15s;
+  }
+
+  .copy-snack-btn:hover {
+    background: #1D4ED8;
+    transform: scale(1.04);
+  }
+
+  .copy-snack-close {
+    background: transparent;
+    border: none;
+    color: #94A3B8;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 0 4px;
+  }
+
+  .modal-dict-mylist-btn {
+    background: #FFF8E8;
+    border: 1px solid #F0D488;
+    color: #8C6500;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .modal-dict-mylist-btn:hover {
+    background: #FFF0C8;
+    transform: translateY(-1px);
+  }
+
+  .modal-dict-mylist-btn.saved {
+    background: #DCFCE7;
+    border-color: #86EFAC;
+    color: #166534;
   }
 
   /* Kanji Breakdown Section & Cards */
@@ -1512,6 +1758,10 @@
       <a href="index.html" class="header-btn" title="単語帳フラッシュカードを開く">
         🎴 単語帳
       </a>
+      <!-- 辞書検索 Button -->
+      <button class="header-btn" id="btnHeaderDict" title="内蔵辞書（68,000語）で単語を検索">
+        🔍 辞書検索
+      </button>
       <!-- ふりがな ON/OFF Toggle -->
       <div class="furigana-toggle" id="furiganaToggle" title="漢字の上のふりがなON/OFF">
         <span class="toggle-label active" id="furiOnLabel">ふりがな ON</span>
@@ -1639,7 +1889,44 @@
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
         </button>
       </div>
+
+      <!-- 📖 問題と答えの読み方カード (User Request 2) -->
+      <div class="reading-pairs-card" id="readingPairsCard" style="display:none;">
+        <div class="reading-pair-row">
+          <span class="reading-badge-pill q-badge">問題の言葉</span>
+          <span class="reading-pair-text" id="readQuestionWord"></span>
+          <span class="reading-pair-kana" id="readQuestionKana"></span>
+          <button type="button" class="reading-voice-btn" id="btnSpeakReadQuestion" title="問題の言葉の音声を再生">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+          </button>
+        </div>
+        <div class="reading-pair-row">
+          <span class="reading-badge-pill a-badge">正解の言葉</span>
+          <span class="reading-pair-text" id="readAnswerWord"></span>
+          <span class="reading-pair-kana" id="readAnswerKana"></span>
+          <button type="button" class="reading-voice-btn" id="btnSpeakReadAnswer" title="正解の言葉の音声を再生">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+          </button>
+        </div>
+      </div>
+
       <p class="meaning-text" id="explanationText" style="display:none;"></p>
+
+      <!-- 💡 ニュアンスの違い・英語直訳との違い (User Request 3) -->
+      <div class="nuance-explanation-card" id="nuanceExplanationCard" style="display:none;">
+        <div class="nuance-card-header">
+          <span class="nuance-card-icon">💡</span>
+          <span class="nuance-card-title">ニュアンスの違い・英語直訳の注意点</span>
+        </div>
+        <div class="nuance-section" id="nuanceDiffSection">
+          <div class="nuance-subtitle">🔍 似た表現・類語とのニュアンスの違い</div>
+          <div class="nuance-text" id="nuanceDiffText"></div>
+        </div>
+        <div class="nuance-section" id="nuanceEngSection">
+          <div class="nuance-subtitle">⚠️ 英語直訳とのズレ・学習者の注意点</div>
+          <div class="nuance-text" id="nuanceEngText"></div>
+        </div>
+      </div>
       
       <!-- Kanji Breakdown Section -->
       <div class="kanji-breakdown-section" id="kanjiBreakdownSection" style="display:none;">
@@ -1724,13 +2011,19 @@
   </div>
 </div>
 
-<!-- Action Modal for Word / Tag Details -->
+<!-- Action Modal for Word / Tag Details & Search -->
 <div class="modal-overlay" id="tagActionModal">
   <div class="tag-modal-box">
+    <!-- Header Search Bar inside Modal -->
+    <div class="modal-dict-search-row" style="margin-bottom:14px;">
+      <input type="text" class="modal-dict-input" id="modalDictSearchInput" placeholder="単語・漢字・ひらがなで辞書検索..." />
+      <button type="button" class="modal-dict-search-btn" id="btnModalDictSearch">検索</button>
+    </div>
+
     <div class="modal-term-title" id="modalTermTitle">言葉</div>
     <div class="modal-term-reading" id="modalTermReading">（よみ）</div>
     
-    <div class="modal-meaning-box">
+    <div class="modal-meaning-box" id="modalMeaningBox">
       <div class="modal-meaning-label">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
         意味・用法
@@ -1743,8 +2036,8 @@
     </button>
 
     <div class="modal-sub-actions">
-      <button class="modal-sub-btn" id="btnSearchDict">
-        📖 辞書で検索
+      <button class="modal-sub-btn" id="btnSpeakModalTerm">
+        🔊 発音を再生
       </button>
       <button class="modal-sub-btn" id="btnCopyTerm">
         📋 コピー
@@ -1753,10 +2046,6 @@
 
     <!-- 内蔵クイック辞書パネル（画面を離れずにその場で表示） -->
     <div class="modal-dict-panel" id="modalDictPanel" style="display:none;">
-      <div class="modal-dict-search-row">
-        <input type="text" class="modal-dict-input" id="modalDictSearchInput" placeholder="辞書内を直接検索..." />
-        <button type="button" class="modal-dict-search-btn" id="btnModalDictSearch">検索</button>
-      </div>
       <div id="modalDictResultContent"></div>
       <div class="modal-dict-footer-links">
         <a href="dictionary.html" target="_blank" class="modal-dict-link-btn" id="linkExternalDict">
@@ -1767,6 +2056,21 @@
 
     <button class="modal-close-btn" id="btnCloseModal">✕ 閉じる</button>
   </div>
+</div>
+
+<!-- Floating Selection Dictionary Tooltip (User Request 4) -->
+<div id="selectionDictTooltip" class="selection-dict-tooltip" style="display:none;">
+  <button type="button" id="btnSearchSelection">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <span>辞書で調べる</span>
+  </button>
+</div>
+
+<!-- Copy Event SnackBar (User Request 4) -->
+<div id="copyDictSnackbar" class="copy-dict-snackbar" style="display:none;">
+  <span class="copy-snack-text">📋「<strong id="copySnackWord"></strong>」をコピーしました</span>
+  <button type="button" class="copy-snack-btn" id="btnCopySnackSearch">🔍 辞書で検索</button>
+  <button type="button" class="copy-snack-close" id="btnCloseCopySnack">✕</button>
 </div>
 
 <!-- Toast -->
@@ -1880,6 +2184,18 @@
   const explanationCard = document.getElementById('explanationCard');
   const resultTag = document.getElementById('resultTag');
   const explanationText = document.getElementById('explanationText');
+  const readingPairsCard = document.getElementById('readingPairsCard');
+  const readQuestionWord = document.getElementById('readQuestionWord');
+  const readQuestionKana = document.getElementById('readQuestionKana');
+  const btnSpeakReadQuestion = document.getElementById('btnSpeakReadQuestion');
+  const readAnswerWord = document.getElementById('readAnswerWord');
+  const readAnswerKana = document.getElementById('readAnswerKana');
+  const btnSpeakReadAnswer = document.getElementById('btnSpeakReadAnswer');
+  const nuanceExplanationCard = document.getElementById('nuanceExplanationCard');
+  const nuanceDiffSection = document.getElementById('nuanceDiffSection');
+  const nuanceDiffText = document.getElementById('nuanceDiffText');
+  const nuanceEngSection = document.getElementById('nuanceEngSection');
+  const nuanceEngText = document.getElementById('nuanceEngText');
   const kanjiBreakdownSection = document.getElementById('kanjiBreakdownSection');
   const kanjiCardsGrid = document.getElementById('kanjiCardsGrid');
   const similarBox = document.getElementById('similarBox');
@@ -1952,8 +2268,9 @@
     // 1. Fill in the blank (（　　　） or （　） or (   ))
     const blankRegex = /[（\(]\s*[）\)]/g;
     if (blankRegex.test(html)) {
+      const cleanCorr = (corr || '').replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
       const blankHtml = isRevealed
-        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-text">（ ${escapeHtml(corr)} ）</span></span>`
+        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-text">（ ${escapeHtml(cleanCorr)} ）</span></span>`
         : `<span class="quiz-blank-box"><span class="blank-text">（　　　）</span></span>`;
       return html.replace(blankRegex, blankHtml);
     }
@@ -1962,7 +2279,8 @@
     const rubyTargetRegex = /<ruby class="target-kanji-reading"><span class="target-word">【(.*?)】<\/span><rt class="target-reading-spoiler">(.*?)<\/rt><\/ruby>/;
     const mRuby = html.match(rubyTargetRegex);
     if (mRuby) {
-      const kText = mRuby[1];
+      let kText = mRuby[1];
+      kText = kText.replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
       const chipHtml = `<span class="quiz-target-chip reading ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${kText}】</span></span>`;
       return html.replace(rubyTargetRegex, chipHtml);
     }
@@ -1981,10 +2299,8 @@
         chipClass = 'usage';
       }
 
-      // 読み問題の場合は対象語からルビを取り除き、ネタバレを防止
-      if (cat.includes('読み')) {
-        inner = inner.replace(/<ruby[^>]*>([^<]+)<rt>[^<]*<\/rt><\/ruby>/g, '$1');
-      }
+      // 類義語・語形成・読み等すべての問題で【...】内のルビを完全に除去（ふりがなON時のネタバレ防止）
+      inner = inner.replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
 
       // （する）や（な）などの不要な品詞注記を自動除去
       inner = inner.replace(/\s*[（\(]\s*(?:する|な|だ)\s*[）\)]/g, '');
@@ -2295,6 +2611,29 @@
 
     buttons.forEach(b => b.disabled = true);
 
+    // 📖 Update Question & Answer Reading Pairs (User Request 2)
+    const targetWord = q.target_word || q.correct_text;
+    const targetReading = q.target_word_reading || '';
+    const answerWord = q.correct_text;
+    const answerReading = q.correct_text_reading || '';
+
+    if (readQuestionWord) readQuestionWord.textContent = targetWord;
+    if (readQuestionKana) {
+      readQuestionKana.textContent = (targetReading && targetReading !== targetWord) ? `（${targetReading}）` : '';
+    }
+    if (btnSpeakReadQuestion) {
+      btnSpeakReadQuestion.onclick = () => speakJapaneseText(targetWord);
+    }
+
+    if (readAnswerWord) readAnswerWord.textContent = answerWord;
+    if (readAnswerKana) {
+      readAnswerKana.textContent = (answerReading && answerReading !== answerWord) ? `（${answerReading}）` : '';
+    }
+    if (btnSpeakReadAnswer) {
+      btnSpeakReadAnswer.onclick = () => speakJapaneseText(answerWord);
+    }
+    if (readingPairsCard) readingPairsCard.style.display = 'flex';
+
     // Show Meaning (if available)
     if (q.meaning_en) {
       explanationText.style.display = 'block';
@@ -2302,6 +2641,17 @@
     } else {
       explanationText.style.display = 'none';
       explanationText.innerHTML = '';
+    }
+
+    // 💡 Nuance & English Direct Translation Differences (User Request 3)
+    if (nuanceExplanationCard) {
+      if (q.nuance_diff || q.english_pitfall) {
+        if (nuanceDiffText) nuanceDiffText.innerHTML = escapeHtml(q.nuance_diff || '').replace(/\n/g, '<br>');
+        if (nuanceEngText) nuanceEngText.innerHTML = escapeHtml(q.english_pitfall || '').replace(/\n/g, '<br>');
+        nuanceExplanationCard.style.display = 'block';
+      } else {
+        nuanceExplanationCard.style.display = 'none';
+      }
     }
 
     // Kanji Breakdown Cards (漢字, 音読み, 訓読み, 意味)
@@ -2464,6 +2814,14 @@
     });
   });
 
+  // Action 3: Speak Modal Term Audio
+  const btnSpeakModalTerm = document.getElementById('btnSpeakModalTerm');
+  if (btnSpeakModalTerm) {
+    btnSpeakModalTerm.addEventListener('click', () => {
+      if (activeModalTerm) speakJapaneseText(activeModalTerm);
+    });
+  }
+
   // Built-in Dictionary & Audio Logic
   function speakJapaneseText(text) {
     if (!text) return;
@@ -2563,12 +2921,12 @@
       }
     }
 
-    // 4. Search in Dictionary Data
+    // 4. Search in Dictionary Data (Exact match first, then startsWith, then includes)
     let dictMatch = null;
     if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
-      const dMatch = window.DICT_DATA.find(d => {
-        return d.w === cleanQ || d.r === cleanQ || (d.w && d.w.includes(cleanQ));
-      });
+      const dMatch = window.DICT_DATA.find(d => d.w === cleanQ || d.r === cleanQ)
+        || window.DICT_DATA.find(d => d.w && d.w.startsWith(cleanQ))
+        || window.DICT_DATA.find(d => (d.w && d.w.includes(cleanQ)) || (d.r && d.r.includes(cleanQ)));
       if (dMatch) {
         dictMatch = {
           term: dMatch.w,
@@ -2660,6 +3018,13 @@
       }
     }
 
+    const isSaved = isTermSavedInMylist(result.term);
+    const mylistBtnHtml = `
+      <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
+        ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
+      </button>
+    `;
+
     modalDictResultContent.innerHTML = `
       <div class="modal-dict-card">
         <div class="modal-dict-card-header">
@@ -2668,7 +3033,10 @@
             ${readingPart}
             <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
           </div>
-          <span class="modal-dict-card-badge">${result.level}</span>
+          <div style="display:flex;align-items:center;gap:6px;">
+            ${mylistBtnHtml}
+            <span class="modal-dict-card-badge">${result.level}</span>
+          </div>
         </div>
         <div class="modal-dict-card-meaning">${result.meaning}</div>
         ${exHtml}
@@ -2679,6 +3047,167 @@
     if (linkExternalDict) {
       linkExternalDict.href = `dictionary.html?search=${encodeURIComponent(cleanQ)}`;
     }
+  }
+
+  // Direct Add to MyList from Dictionary Result
+  window.toggleDictCardMylist = function(term, btnElem) {
+    const clean = cleanSearchWord(term);
+    const isSaved = isTermSavedInMylist(clean);
+    let list = [];
+    try {
+      list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+    } catch(e) { list = []; }
+
+    if (isSaved) {
+      list = list.filter(t => t !== clean);
+      localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+      if (btnElem) {
+        btnElem.classList.remove('saved');
+        btnElem.innerHTML = `⭐ マイリストに追加`;
+      }
+      updateMylistButton(false);
+      showToast(`「${clean}」をマイリストから削除しました`);
+    } else {
+      if (!list.includes(clean)) list.push(clean);
+      localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+      if (btnElem) {
+        btnElem.classList.add('saved');
+        btnElem.innerHTML = `⭐ マイリスト保存済み`;
+      }
+      updateMylistButton(true);
+      showToast(`「${clean}」をマイリストに追加しました！⭐`);
+      if (window.UserProgress) {
+        window.UserProgress.addSavedVocab({
+          id: `custom_vocab_${Date.now()}_${clean}`,
+          word: clean,
+          reading: '',
+          meaning: '辞書検索から追加',
+          level: 'N2',
+          source: 'dict'
+        });
+      }
+    }
+  };
+
+  // Open Unified Dictionary Modal
+  function openDictModal(term) {
+    activeModalTerm = term || "";
+    modalTermTitle.textContent = term || "内蔵辞書検索";
+    modalTermReading.textContent = "";
+    modalTermReading.style.display = "none";
+    if (document.getElementById('modalMeaningBox')) {
+      document.getElementById('modalMeaningBox').style.display = term ? 'block' : 'none';
+    }
+
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = term || "";
+    }
+
+    updateMylistButton(term ? isTermSavedInMylist(term) : false);
+
+    if (modalDictPanel) modalDictPanel.style.display = "block";
+
+    if (term) {
+      renderDictLookup(term);
+    } else {
+      if (modalDictResultContent) {
+        modalDictResultContent.innerHTML = `
+          <div style="padding:24px 12px; color:#64748B; text-align:center;">
+            <div style="font-size:32px; margin-bottom:8px;">🔍</div>
+            <p style="font-size:14px; font-weight:700; color:#334155; margin-bottom:4px;">調べたい単語を入力して検索してください</p>
+            <p style="font-size:12px; color:#94A3B8;">問題文の単語を選択・コピーしても辞書検索できます（68,000語収録）</p>
+          </div>
+        `;
+      }
+    }
+
+    tagActionModal.style.display = "flex";
+
+    if (!term && modalDictSearchInput) {
+      setTimeout(() => modalDictSearchInput.focus(), 100);
+    }
+  }
+  window.openDictModal = openDictModal;
+
+  // Header Dictionary Button Event
+  const btnHeaderDict = document.getElementById('btnHeaderDict');
+  if (btnHeaderDict) {
+    btnHeaderDict.addEventListener('click', () => {
+      openDictModal('');
+    });
+  }
+
+  // Floating Selection Dictionary Tooltip (User Request 4)
+  const selectionTooltip = document.getElementById('selectionDictTooltip');
+  const btnSearchSelection = document.getElementById('btnSearchSelection');
+  let currentSelectedText = '';
+
+  document.addEventListener('selectionchange', () => {
+    const sel = window.getSelection();
+    const str = sel ? sel.toString().trim() : '';
+    if (!str || str.length === 0 || str.length > 30) {
+      if (selectionTooltip) selectionTooltip.style.display = 'none';
+      return;
+    }
+    currentSelectedText = str;
+    try {
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+      if (rect && rect.width > 0 && selectionTooltip) {
+        selectionTooltip.style.display = 'block';
+        selectionTooltip.style.top = `${window.scrollY + rect.top - 40}px`;
+        selectionTooltip.style.left = `${window.scrollX + rect.left + (rect.width / 2) - 55}px`;
+      }
+    } catch(e) {}
+  });
+
+  if (btnSearchSelection) {
+    btnSearchSelection.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      if (currentSelectedText) {
+        openDictModal(currentSelectedText);
+        if (selectionTooltip) selectionTooltip.style.display = 'none';
+      }
+    });
+  }
+
+  // Copy Event SnackBar (User Request 4)
+  const copySnackbar = document.getElementById('copyDictSnackbar');
+  const copySnackWord = document.getElementById('copySnackWord');
+  const btnCopySnackSearch = document.getElementById('btnCopySnackSearch');
+  const btnCloseCopySnack = document.getElementById('btnCloseCopySnack');
+  let lastCopiedWord = '';
+
+  document.addEventListener('copy', () => {
+    const sel = window.getSelection();
+    const selText = sel ? sel.toString().trim() : '';
+    if (selText && selText.length > 0 && selText.length <= 30) {
+      lastCopiedWord = selText;
+      if (copySnackWord) copySnackWord.textContent = selText;
+      if (copySnackbar) {
+        copySnackbar.style.display = 'flex';
+        clearTimeout(window._copySnackTimer);
+        window._copySnackTimer = setTimeout(() => {
+          if (copySnackbar) copySnackbar.style.display = 'none';
+        }, 5000);
+      }
+    }
+  });
+
+  if (btnCopySnackSearch) {
+    btnCopySnackSearch.addEventListener('click', () => {
+      if (lastCopiedWord) {
+        openDictModal(lastCopiedWord);
+        if (copySnackbar) copySnackbar.style.display = 'none';
+      }
+    });
+  }
+
+  if (btnCloseCopySnack) {
+    btnCloseCopySnack.addEventListener('click', () => {
+      if (copySnackbar) copySnackbar.style.display = 'none';
+    });
   }
 
   function openDictPanelOnPage(term) {
@@ -2904,8 +3433,37 @@
             <span class="rev-row-val correct">${escapeHtml(correctText)} ✓</span>
           </div>
         </div>
+        <div class="reading-pairs-card" style="margin: 10px 0;">
+          <div class="reading-pair-row">
+            <span class="reading-badge-pill q-badge">問題の言葉</span>
+            <span class="reading-pair-text">${escapeHtml(q.target_word || q.correct_text)}</span>
+            ${q.target_word_reading && q.target_word_reading !== (q.target_word || q.correct_text) ? `<span class="reading-pair-kana">（${escapeHtml(q.target_word_reading)}）</span>` : ''}
+          </div>
+          <div class="reading-pair-row">
+            <span class="reading-badge-pill a-badge">正解の言葉</span>
+            <span class="reading-pair-text">${escapeHtml(q.correct_text)}</span>
+            ${q.correct_text_reading && q.correct_text_reading !== q.correct_text ? `<span class="reading-pair-kana">（${escapeHtml(q.correct_text_reading)}）</span>` : ''}
+          </div>
+        </div>
         <div class="rev-exp-box">
           ${q.meaning_en ? `<div><strong>【意味】</strong> ${escapeHtml(q.meaning_en)}</div>` : ''}
+          ${(q.nuance_diff || q.english_pitfall) ? `
+          <div class="nuance-explanation-card" style="margin: 10px 0;">
+            <div class="nuance-card-header">
+              <span class="nuance-card-icon">💡</span>
+              <span class="nuance-card-title">ニュアンスの違い・英語直訳の注意点</span>
+            </div>
+            ${q.nuance_diff ? `
+            <div class="nuance-section">
+              <div class="nuance-subtitle">🔍 似た表現・類語とのニュアンスの違い</div>
+              <div class="nuance-text">${escapeHtml(q.nuance_diff).replace(/\n/g, '<br>')}</div>
+            </div>` : ''}
+            ${q.english_pitfall ? `
+            <div class="nuance-section">
+              <div class="nuance-subtitle">⚠️ 英語直訳とのズレ・学習者の注意点</div>
+              <div class="nuance-text">${escapeHtml(q.english_pitfall).replace(/\n/g, '<br>')}</div>
+            </div>` : ''}
+          </div>` : ''}
           ${q.kanji_info && q.kanji_info.length > 0 ? `
           <div class="kanji-cards-grid" style="margin-top:10px;">
             ${q.kanji_info.map(ki => `
