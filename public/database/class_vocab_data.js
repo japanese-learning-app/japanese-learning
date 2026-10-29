@@ -21,7 +21,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你鋼琴彈得很好！<br/>乙：謝謝。我從小就每天練習。",
       "fr": "R : Vous jouez très bien du piano !<br/>B : Merci. Je pratique tous les jours depuis que je suis enfant."
     },
-    "related": "ピアノをひく（授業の重要表現）"
+    "related": "ピアノをひく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0002",
@@ -45,7 +46,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "想轉變下心情嗰陣，我通常會聽啲輕快開心嘅音樂。",
       "fr": "Quand je veux me changer les idées, j'écoute souvent de la musique entraînante."
     },
-    "related": "おんがく（授業の重要表現）"
+    "related": "おんがく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0003",
@@ -69,7 +71,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我自細就鍾意彈鋼琴之類嘅樂器。",
       "fr": "Depuis mon enfance, j'ai toujours aimé jouer d'instruments de musique comme le piano."
     },
-    "related": "がっき（授業の重要表現）"
+    "related": "がっき（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0004",
@@ -93,7 +100,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講你喺比賽攞咗冠軍？<br/>B: 係呀！校長親自頒咗張好靚嘅獎狀畀我呀。",
       "fr": "A: J'ai entendu dire que tu as gagné le tournoi ?<br/>B: Oui ! J'ai reçu un beau diplôme d'honneur du directeur."
     },
-    "related": "しょうじょう（授業の重要表現）"
+    "related": "しょうじょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0005",
@@ -117,7 +125,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 韓國菜你最鍾意食邊樣呀？<br/>B: 我最鍾意豆腐鍋同韓式燒五花肉！",
       "fr": "A: Quel est votre plat coréen préféré ?<br/>B: J'adore le sundubu-jjigae et le samgyeopsal !"
     },
-    "related": "かんこく（授業の重要表現）"
+    "related": "かんこく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0006",
@@ -141,7 +150,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：狗坐得很乖。<br/>B：是的，她是個聰明的女孩，很認真地聽別人說的話。",
       "fr": "R : Le chien est assis très intelligemment.<br/>B : Oui, c'est une fille intelligente qui écoute attentivement ce qu'on lui dit."
     },
-    "related": "お利口（授業の重要表現）"
+    "related": "お利口（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0007",
@@ -165,7 +175,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：那部電影的最後一句台詞非常感人。<br/>B：是的，這是一句很棒的台詞，給我留下了深刻的印象。",
       "fr": "A : La dernière réplique de ce film était très émouvante.<br/>B : Oui, c’était une superbe réplique qui m’a profondément marqué."
     },
-    "related": "セリフ（授業の重要表現）"
+    "related": "セリフ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0008",
@@ -189,7 +200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：每天早上搭乘擁擠的火車真的很困難。<br/>B：是的，呼吸困難，每天都讓我很累。",
       "fr": "R : C'est vraiment difficile de prendre un train bondé chaque matin.<br/>B : Oui, c'est difficile de respirer et ça me fatigue tous les jours."
     },
-    "related": "まんいんでんしゃ（授業の重要表現）"
+    "related": "まんいんでんしゃ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0009",
@@ -213,7 +225,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "同關西嚟嘅朋友傾偈傾得多，自己都忍唔住學埋佢哋啲關西方言添。",
       "fr": "En discutant avec mes amis originaires du Kansai, je finis par adopter sans m'en rendre compte leur dialecte."
     },
-    "related": "ほうげん（授業の重要表現）"
+    "related": "ほうげん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0010",
@@ -237,7 +250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：對於食物來說，不僅味道很重要，外觀也很重要。<br/>乙：是的！如果它看起來很華麗，它會增加你的食慾。",
       "fr": "R : Lorsqu’il s’agit de nourriture, non seulement le goût mais aussi l’apparence sont très importants.<br/>B : Oui ! Si c’est magnifique, cela augmentera votre appétit."
     },
-    "related": "みため（授業の重要表現）"
+    "related": "みため（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0011",
@@ -261,7 +275,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He has a good head on his shoulders.",
       "fr": "He has a good head on his shoulders."
     },
-    "related": "ずのう（授業の重要表現）"
+    "related": "ずのう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0012",
@@ -285,7 +300,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日嘅項目會議全體成員齊人出席，大家交流意見氣氛好熱鬧踴躍。",
       "fr": "Tous les membres étaient présents à la réunion de projet aujourd'hui et ont échangé leurs idées avec dynamisme."
     },
-    "related": "ぜんいん（授業の重要表現）"
+    "related": "ぜんいん（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0013",
@@ -309,7 +329,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我買咗呢間美術館嘅全年通行證，成為咗高級會員。",
       "fr": "J'ai acheté un pass annuel pour ce musée d'art et suis devenu membre privilégié."
     },
-    "related": "かいいん（授業の重要表現）"
+    "related": "かいいん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0014",
@@ -333,7 +354,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：請問，這家超市的經理在嗎？<br/>B：是的，我是店長。有什麼需要嗎？",
       "fr": "A : Excusez-moi, le gérant de ce supermarché est-il ici ?<br/>B : Oui, je suis le gérant du magasin. Y a-t-il quelque chose dont vous avez besoin ?"
     },
-    "related": "てんちょう（授業の重要表現）"
+    "related": "てんちょう（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0015",
@@ -357,7 +383,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本夏天濕氣好重又焗又潮濕，冷氣機嘅抽濕功能真係唔少得。",
       "fr": "L'été japonais est très humide et étouffant, la fonction déshumidificateur de la clim est donc essentielle."
     },
-    "related": "しっけ（授業の重要表現）"
+    "related": "しっけ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0016",
@@ -381,7 +408,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本有47個都道府縣，每個地方都有自己好吸引人嘅地道特產同景點。",
       "fr": "Le Japon compte 47 préfectures, chacune dotée de ses propres spécialités et curiosités attrayantes."
     },
-    "related": "とどうふけん（授業の重要表現）"
+    "related": "とどうふけん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0017",
@@ -405,7 +433,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "一聽親呢首歌，令人好懷念嘅學生時期回憶就浮現出嚟。",
       "fr": "Quand j'écoute cette chanson, les souvenirs nostalgiques de mes années d'études me reviennent."
     },
-    "related": "うた（授業の重要表現）"
+    "related": "うた（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0018",
@@ -429,7 +458,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺卡拉OK同朋友一齊好開心噉唱咗鍾意嘅動漫主題曲。",
       "fr": "Au karaoké, j'ai chanté avec plaisir les génériques d'anime préférés avec mes amis."
     },
-    "related": "うたう（授業の重要表現）"
+    "related": "うたう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0019",
@@ -453,7 +483,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "屋企隻得意狗仔好興奮噉係咁fing尾，企喺玄關門口好熱情噉迎實我。",
       "fr": "Mon chien a remué vigoureusement la queue avec joie pour m'accueillir dans l'entrée."
     },
-    "related": "しっぽ（授業の重要表現）"
+    "related": "しっぽ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0020",
@@ -477,7 +508,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我平時嘅興趣係放假帶住部相機去影下街景。",
       "fr": "Mon passe-temps consiste à emporter mon appareil photo le week-end pour photographier la ville."
     },
-    "related": "しゅみ（授業の重要表現）"
+    "related": "しゅみ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0021",
@@ -501,7 +533,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「唔好意思，請問隔離個位有冇人坐㗎？」「冇呀，請坐啦。」",
       "fr": "'Excusez-moi, la place à côté de vous est-elle libre ?' 'Oui, je vous en prie, asseyez-vous.'"
     },
-    "related": "となり（授業の重要表現）"
+    "related": "となり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0022",
@@ -525,7 +558,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：那個國際學生是哪個國家的？<br/>B：我聽說你是來自法國的法國人。",
       "fr": "A : De quel pays est originaire cet étudiant international ?<br/>B : J'ai entendu dire que vous étiez français de France."
     },
-    "related": "〜じん（授業の重要表現）"
+    "related": "〜じん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0023",
@@ -549,7 +583,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗執返好間亂糟糟嘅房，我買咗個新書櫃返嚟擺書。",
       "fr": "J'ai acheté une nouvelle bibliothèque pour ranger ma chambre en désordre."
     },
-    "related": "ほんだな（授業の重要表現）"
+    "related": "ほんだな（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0024",
@@ -573,7 +608,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「我好肚餓，可唔可以幫我將碗飯加大呀？」「好呀，冇問題！」",
       "fr": "'J'ai très faim, pourriez-vous me servir une grande portion de riz ?' 'Certainement !'"
     },
-    "related": "おおもり（授業の重要表現）"
+    "related": "おおもり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0025",
@@ -597,7 +633,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "中午食晏嗰陣去咗附近嘅日本和食小店，叫咗份好正嘅日式煎魚定食。",
       "fr": "Pendant ma pause déjeuner, j'ai commandé un menu avec du poisson grillé dans un restaurant japonais voisin."
     },
-    "related": "ていしょく（授業の重要表現）"
+    "related": "ていしょく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0026",
@@ -621,7 +658,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "細佬升咗高中之後突然飆高，而家仲高過我添。",
       "fr": "Mon jeune frère a eu une poussée de croissance au lycée et m'a maintenant dépassé en taille."
     },
-    "related": "しんちょう（授業の重要表現）"
+    "related": "しんちょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0027",
@@ -645,7 +683,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你細佬生得高唔高呀？<br/>B: 唔高呀，佢而家仲係矮矮哋。",
       "fr": "A: Votre petit frère est-il grand ?<br/>B: Non, il est encore petit de taille."
     },
-    "related": "ひくい（授業の重要表現）"
+    "related": "ひくい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0028",
@@ -669,7 +708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 籃球員個個都生得咁高嘅！<br/>B: 係呀，好多人都過190厘米㗎。",
       "fr": "A: Les joueurs de basket sont tous tellement grands !<br/>B: Oui, beaucoup d'entre eux mesurent plus d'un mètre quatre-vingt-dix."
     },
-    "related": "たかい（授業の重要表現）"
+    "related": "たかい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0029",
@@ -693,7 +733,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "相信自己嘅力量，堅持到底絕不放棄去挑戰。",
       "fr": "Je croirai en mes propres forces et relèverai le défi sans abandonner jusqu’au bout."
     },
-    "related": "しんじる（授業の重要表現）"
+    "related": "しんじる（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0030",
@@ -717,7 +762,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽講同事暑假去歐洲旅行，真係好羨慕。",
       "fr": "En apprenant que mon collègue part en voyage en Europe pour les vacances d’été, je suis très envieux."
     },
-    "related": "うらやましい（授業の重要表現）"
+    "related": "うらやましい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0031",
@@ -741,7 +787,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢嘅衣著品味一向好好，平時襯衫著衫真係好型好有時尚感。",
       "fr": "Elle a toujours beaucoup de goût et porte des tenues particulièrement élégantes et soignées."
     },
-    "related": "おしゃれ（授業の重要表現）"
+    "related": "おしゃれ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0032",
@@ -765,7 +812,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你最近沒有長高嗎？你身高多少公分？<br/>B：上週我測量自己的身高時，我的身高是 175 公分。",
       "fr": "A : N’as-tu pas grandi récemment ? Combien de centimètres mesurez-vous ?<br/>B : Lorsque je me suis mesuré la semaine dernière, je mesurais 175 cm."
     },
-    "related": "せ—身長（授業の重要表現）"
+    "related": "せ—身長（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0033",
@@ -789,7 +837,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：我想要一間日式旅館的安靜的日式房間。<br/>B：是的，我們在充滿榻榻米香味的日式房間裡舒展一下腿，放鬆一下吧。",
       "fr": "R : Je voudrais une chambre calme de style japonais dans un ryokan.<br/>B : Oui, dégourdons-nous les jambes et détendons-nous dans la salle de style japonais au parfum de tatami."
     },
-    "related": "わしつ（授業の重要表現）"
+    "related": "わしつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0034",
@@ -813,7 +862,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：您在日本期間常吃日本菜嗎？<br/>B：是的，我喜歡傳統的日本食物，像是壽司和天婦羅。",
       "fr": "A : Mangez-vous souvent de la nourriture japonaise pendant votre séjour au Japon ?<br/>B : Oui, j’aime la cuisine japonaise traditionnelle comme les sushis et les tempura."
     },
-    "related": "わしょく（授業の重要表現）"
+    "related": "わしょく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0035",
@@ -837,7 +887,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你最喜歡的電視劇開播了嗎？<br/>B：是的，上週五才開始！",
       "fr": "A : Votre drame préféré a-t-il déjà commencé à être diffusé ?<br/>B : Oui, ça vient de commencer vendredi dernier !"
     },
-    "related": "はじまります（授業の重要表現）"
+    "related": "はじまります（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0036",
@@ -861,7 +912,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「田中生，祝你生日快樂！」「多謝晒你呀！」",
       "fr": "'Joyeux anniversaire, M. Tanaka !' 'Merci infiniment !'"
     },
-    "related": "たんじょうび（授業の重要表現）"
+    "related": "たんじょうび（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0037",
@@ -886,7 +938,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我想開始一啲新嘢。<br/>B: 我明。我想總有一天去環遊世界。",
       "fr": "A: Je veux commencer quelque chose de nouveau.<br/>B: Je comprends. Je veux voyager autour du monde un jour."
     },
-    "related": "いつか"
+    "related": "いつか",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0038",
@@ -910,7 +963,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 那些漂亮的衣服你在哪裡買的？<br/>B：我在網路上找到並訂購的。",
       "fr": "A : Où as-tu acheté ces jolis vêtements ?<br/>B : Je l’ai trouvé en ligne et je l’ai commandé."
     },
-    "related": "つうはん（授業の重要表現）"
+    "related": "つうはん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0039",
@@ -934,7 +988,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "隨住太陽慢慢升起，清晨原本好濃嘅大霧好快就散晒消退。",
       "fr": "Au fur et à mesure que le soleil montait dans le ciel, la brume matinale épaisse s'est complètement dissipée."
     },
-    "related": "きえる（授業の重要表現）"
+    "related": "きえる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0040",
@@ -958,7 +1013,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺結婚週年紀念日嗰日，我哋去咗間平時好少捨得去嘅高級情調餐廳食飯慶祝。",
       "fr": "Pour notre anniversaire de mariage, nous avons partagé un dîner dans un restaurant d'exception où nous allons rarement."
     },
-    "related": "きねんび（授業の重要表現）"
+    "related": "きねんび（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0041",
@@ -982,7 +1038,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：剛才開始的會議已經結束了嗎？<br/>B：是的，順利、準時地完成了。",
       "fr": "A : La réunion qui a commencé plus tôt est-elle déjà terminée ?<br/>B : Oui, tout s’est terminé sans problème et dans les délais."
     },
-    "related": "おわりました（授業の重要表現）"
+    "related": "おわりました（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0042",
@@ -1006,7 +1063,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你最喜歡的電視劇開播了嗎？<br/>B：是的，上週五才開始！",
       "fr": "A : Votre drame préféré a-t-il déjà commencé à être diffusé ?<br/>B : Ouais, ça vient de commencer vendredi dernier !"
     },
-    "related": "はじまりました（授業の重要表現）"
+    "related": "はじまりました（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0043",
@@ -1030,7 +1088,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "隔离班嗰對兄弟係生得好似樣嘅同卵雙胞胎，連把聲同小動作都好似。",
       "fr": "Les frères de la classe voisine sont de vrais jumeaux, même leurs voix et leurs gestes se ressemblent."
     },
-    "related": "ふたご（授業の重要表現）"
+    "related": "ふたご（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0044",
@@ -1054,7 +1113,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "大熱天時冷氣機壞咗，熱到好似喺地獄入面咁辛苦。",
       "fr": "La clim est tombée en panne sous un soleil de plomb en plein été, la chaleur était infernale."
     },
-    "related": "じごく（授業の重要表現）"
+    "related": "じごく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0045",
@@ -1078,7 +1138,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "要修理呢部精密儀器，一定要用特殊嘅專業工具同相關技術知識。",
       "fr": "La réparation de cet appareil de précision exige des outils spéciaux et des connaissances pointues."
     },
-    "related": "とくしゅ（授業の重要表現）"
+    "related": "とくしゅ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0046",
@@ -1102,7 +1163,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：這部動漫的主題曲是一首非常流行的歌曲！<br/>B：是的，我每天上學的時候都會聽這首主題曲。",
       "fr": "R : La chanson thème de cet anime est une chanson très populaire et géniale !<br/>B : Oui, j'écoute cette chanson thème tous les jours quand je vais à l'école."
     },
-    "related": "しゅだいか（授業の重要表現）"
+    "related": "しゅだいか（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0047",
@@ -1126,7 +1188,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你今天早上幾點起床？<br/>B：早上 6 點我就被鬧鐘的聲音吵醒了。",
       "fr": "A : À quelle heure vous êtes-vous réveillé ce matin ?<br/>B : Je me suis réveillé à 6 heures du matin au son de mon réveil."
     },
-    "related": "おきました（授業の重要表現）"
+    "related": "おきました（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0048",
@@ -1150,7 +1213,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：已經是深夜了。你很快就要睡覺了嗎？<br/>B：是的，明天一早，我就去睡了。晚安。",
       "fr": "R : Il est déjà tard dans la nuit. Tu vas bientôt te coucher ?<br/>B : Oui, il est tôt demain matin, donc je vais déjà me coucher. bonne nuit."
     },
-    "related": "ねます（授業の重要表現）"
+    "related": "ねます（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0049",
@@ -1174,7 +1238,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：從這裡到機場要多久？<br/>B：搭火車大約需要一個半小時​​。",
       "fr": "R : Combien de temps faut-il pour aller d'ici à l'aéroport ?<br/>B : Cela prend environ une heure et demie en train."
     },
-    "related": "かかる—時間が（授業の重要表現）"
+    "related": "かかる—時間が（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0050",
@@ -1198,7 +1263,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "自己搬出嚟一個人住，交租同水電煤開支比想像中要使多好多錢。",
       "fr": "Quand on commence à vivre seul, le loyer et les charges coûtent plus cher que prévu."
     },
-    "related": "かかる—お金が（授業の重要表現）"
+    "related": "かかる—お金が（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0051",
@@ -1222,7 +1288,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 從新宿站到澀谷站搭電車要幾耐？<br/>B: 搭山手線大約7分鐘左右。",
       "fr": "A: Combien de temps faut-il en train de la gare de Shinjuku à celle de Shibuya ?<br/>B: Environ sept minutes sur la ligne Yamanote."
     },
-    "related": "どれくらい—時間（授業の重要表現）"
+    "related": "どれくらい—時間（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0052",
@@ -1246,7 +1313,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺東京一個人住嘅話，租金大約要幾多？<br/>B: 睇地區啦，開放式單位嘅話大約一個月7萬到8萬日圓左右。",
       "fr": "A: Combien coûte le loyer pour vivre seul à Tokyo ?<br/>B: Cela dépend du quartier, mais pour un studio, c'est environ 70 000 à 80 000 yens par mois."
     },
-    "related": "どれくらい—量・お金（授業の重要表現）"
+    "related": "どれくらい—量・お金（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0053",
@@ -1270,7 +1338,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你看過昨天那部戲的最後一集了嗎？<br/>B：是的，這是最好的最後一集，我忍不住哭了！",
       "fr": "A : Avez-vous déjà vu le dernier épisode du drame d'hier ?<br/>B : Oui, c'était le meilleur épisode final et je ne pouvais pas m'arrêter de pleurer !"
     },
-    "related": "さいしゅうわ（授業の重要表現）"
+    "related": "さいしゅうわ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0054",
@@ -1294,7 +1363,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你看過漫畫的最新章節了嗎？<br/>B：是的，它結束時我真的很好奇最新一集會如何展開！",
       "fr": "A : Avez-vous déjà lu le dernier chapitre du manga ?<br/>B : Oui, cela s'est terminé à un moment où j'étais vraiment curieux de savoir comment le dernier épisode allait se dérouler !"
     },
-    "related": "さいしんわ（授業の重要表現）"
+    "related": "さいしんわ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0055",
@@ -1318,7 +1388,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "幾深奧嘅日文文法都好，只要每日少少噉溫習，遲早一定會明嘅。",
       "fr": "Même la grammaire japonaise difficile deviendra compréhensible si vous l'étudiez petit à petit chaque jour."
     },
-    "related": "すこしずつ（授業の重要表現）"
+    "related": "すこしずつ（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0056",
@@ -1342,7 +1417,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "記日文新生字嗰陣，連埋例句大聲讀出聲去背，會記得牢好多。",
       "fr": "Pour retenir le nouveau vocabulaire japonais, le prononcer à voix haute dans des exemples aide beaucoup à ne pas l'oublier."
     },
-    "related": "おぼえる（授業の重要表現）"
+    "related": "おぼえる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0057",
@@ -1366,7 +1442,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "明明已經到嘴邊好熟，但偏偏一時疾掣醒唔起佢個名。",
       "fr": "J'avais le mot sur le bout de la langue, mais j'ai eu un trou de mémoire complet sur son nom."
     },
-    "related": "どわすれ（授業の重要表現）"
+    "related": "どわすれ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0058",
@@ -1390,7 +1467,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "望向晴朗嘅冬天夜空，可以好清楚見到獵戶座等好靚嘅星座。",
       "fr": "En levant les yeux vers le ciel d'hiver bien dégagé, on aperçoit nettement de magnifiques constellations comme Orion."
     },
-    "related": "せいざ（授業の重要表現）"
+    "related": "せいざ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0059",
@@ -1414,7 +1492,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Pisces was ranked first in today's horoscope!<br/>B: Really? I'm a Pisces, so something great might happen!",
       "fr": "A: Pisces was ranked first in today's horoscope!<br/>B: Really? I'm a Pisces, so something great might happen!"
     },
-    "related": "うおざ（授業の重要表現）"
+    "related": "うおざ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0060",
@@ -1438,7 +1517,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：放學後合唱團練習在哪裡舉行？<br/>B：我們都打算在三樓音樂室集合。",
       "fr": "A : Où a lieu la pratique de la chorale après l'école ?<br/>B : Nous prévoyons tous de nous réunir dans la salle de musique au troisième étage."
     },
-    "related": "おんがくしつ（授業の重要表現）"
+    "related": "おんがくしつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0061",
@@ -1462,7 +1542,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「原來我哋同年出世係同齡同死黨喎！」「真係喎！即刻覺得好有親切感。」",
       "fr": "'Nous sommes nés la même année, nous avons donc exactement le même âge !' 'C'est vrai ! Ça crée tout de suite des affinités.'"
     },
-    "related": "同いおないどし（授業の重要表現）"
+    "related": "同いおないどし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0062",
@@ -1486,7 +1567,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你喺咩公司度做嘢呀？<br/>B: 我喺一間IT公司做工程師。",
       "fr": "A: Dans quel genre d'entreprise travaillez-vous ?<br/>B: Je travaille comme ingénieur dans une entreprise d'informatique."
     },
-    "related": "はたらく（授業の重要表現）"
+    "related": "はたらく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0063",
@@ -1510,7 +1592,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 收到個驚喜禮物真係好驚喜好開心呀！<br/>B: 啱你心水真係太好啦！",
       "fr": "A: J'ai été tellement surpris par le cadeau surprise !<br/>B: Je suis vraiment ravi que cela vous ait fait plaisir !"
     },
-    "related": "おどろく（授業の重要表現）"
+    "related": "おどろく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0064",
@@ -1534,7 +1617,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我唔記得帶本功課薄，留咗喺屋企。<br/>B: 老實同老師講啦，聽日一定要帶過嚟呀。",
       "fr": "A: J'ai oublié mon cahier de devoirs à la maison.<br/>B: Dites-le honnêtement au professeur et apportez-le demain sans faute."
     },
-    "related": "わすれる（授業の重要表現）"
+    "related": "わすれる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0065",
@@ -1558,7 +1642,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你記咗好多新單字喎！<br/>B: 係呀，我每日都有用單字卡練習。",
       "fr": "A: Vous avez mémorisé tellement de nouveaux mots de vocabulaire !<br/>B: Oui, je m'entraîne tous les jours avec les cartes mémoire."
     },
-    "related": "おぼえる（授業の重要表現）"
+    "related": "おぼえる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0066",
@@ -1582,7 +1667,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你點樣去車站呀？<br/>B: 今日天氣好好，所以我會踩單車去。",
       "fr": "A: Comment allez-vous à la gare ?<br/>B: Comme il fait beau, je vais y aller à vélo."
     },
-    "related": "のる（授業の重要表現）"
+    "related": "のる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0067",
@@ -1606,7 +1692,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我哋係咪下一站落車呀？<br/>B: 係呀，等我哋行去門口位先啦。",
       "fr": "A: On descend à la prochaine gare ?<br/>B: Oui, déplaçons-nous vers les portes."
     },
-    "related": "おりる（授業の重要表現）"
+    "related": "おりる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0068",
@@ -1630,7 +1717,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 有啲攰啦，不如去Cafe坐低歇一歇？<br/>B: 好呀，飲杯熱咖啡放鬆下啦。",
       "fr": "A: On est un peu fatigués, si on faisait une pause dans un café ?<br/>B: Bonne idée, prenons un café chaud pour souffler."
     },
-    "related": "やすむ（授業の重要表現）"
+    "related": "やすむ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0069",
@@ -1654,7 +1742,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今個禮拜日一齊出去玩好唔好？<br/>B: 好呀！我哋去邊度好呀？",
       "fr": "A: Tu veux qu'on sorte s'amuser ensemble ce dimanche ?<br/>B: Avec plaisir ! Où est-ce qu'on va ?"
     },
-    "related": "あそぶ（授業の重要表現）"
+    "related": "あそぶ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0070",
@@ -1678,7 +1767,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你今天早餐吃什麼？<br/>B：我吃了早餐，有烤麵包、煎蛋和熱咖啡。",
       "fr": "A : Qu’avez-vous mangé au petit-déjeuner aujourd’hui ?<br/>B : J’ai pris un petit-déjeuner composé de pain grillé, d’œufs au plat et de café chaud."
     },
-    "related": "ちょうしょく（授業の重要表現）"
+    "related": "ちょうしょく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0071",
@@ -1702,7 +1792,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我哋鍾意嘅音樂原來一樣㗎！<br/>B: 真係㗎！啱晒嘴形好開心呀。",
       "fr": "A: Nous aimons exactement la même musique !<br/>B: C'est tellement vrai ! Je suis ravi que nous ayons les mêmes goûts."
     },
-    "related": "おなじ（授業の重要表現）"
+    "related": "おなじ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0072",
@@ -1726,7 +1817,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：秋天來了，我想吃地瓜，又甜又好吃。<br/>B：是啊，剛出爐的蕃薯又鬆又好吃。",
       "fr": "R : Quand l'automne arrive, je veux manger des patates douces, qui sont sucrées et délicieuses.<br/>B : Oui, les patates douces fraîchement cuites sont si moelleuses et délicieuses."
     },
-    "related": "サツマイモ（授業の重要表現）"
+    "related": "サツマイモ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0073",
@@ -1750,7 +1842,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：聽日個Party你會嚟㗎可？<br/>B：梗係啦！好期待呀。",
       "fr": "A : Tu viens à la fête demain ?<br/>B : Bien sûr ! J’ai hâte d’y être."
     },
-    "related": "もちろん（授業の重要表現）"
+    "related": "もちろん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0074",
@@ -1774,7 +1867,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你去車站前的新書店了嗎？<br/>B：是的，那是一家很方便的書店，書目種類也很豐富。",
       "fr": "A : Êtes-vous allé à la nouvelle librairie en face de la gare ?<br/>B : Oui, c'était une librairie très pratique avec un large choix d'articles."
     },
-    "related": "〜や・〜やさん（授業の重要表現）"
+    "related": "〜や・〜やさん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0075",
@@ -1798,7 +1892,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰間書店幾點開門呀？<br/>B: 朝早十點開門呀。",
       "fr": "A: À quelle heure ouvre cette librairie ?<br/>B: Les portes ouvrent à 10 heures du matin."
     },
-    "related": "あく（授業の重要表現）"
+    "related": "あく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0076",
@@ -1822,7 +1917,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽日要搭大清早嘅早機，今晚我打算10點鐘就上床瞓覺。",
       "fr": "Pour prendre l'avion tôt demain matin, j'ai décidé d'aller me coucher à 22h ce soir."
     },
-    "related": "はやい（授業の重要表現）"
+    "related": "はやい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0077",
@@ -1847,7 +1943,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰架車好快呀！<br/>B: 係喎，一眨眼就唔見咗。",
       "fr": "A: Cette voiture est vraiment rapide !<br/>B: Ouais, elle a disparu en un clin d'œil."
     },
-    "related": "遅い（おそい） ⇄ 速い（はやい）"
+    "related": "遅い（おそい） ⇄ 速い（はやい）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0078",
@@ -1871,7 +1968,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "因為OT好夜先返到去，所以喺站前面嘅便利店買咗晚餐。",
       "fr": "Comme je suis rentré tard à cause des heures supplémentaires, j’ai acheté à dîner à la supérette devant la gare."
     },
-    "related": "おそい（授業の重要表現）"
+    "related": "おそい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0079",
@@ -1895,7 +1993,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "塞車嗰陣雖然行得慢，但係安全駕駛先係最緊要。",
       "fr": "Sur une route encombrée la vitesse ralentit, mais la conduite prudente est le plus important."
     },
-    "related": "おそい（授業の重要表現）"
+    "related": "おそい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0080",
@@ -1919,7 +2018,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺夏天祭典嗰度，大家都換上浴衣好開心噉一齊跳盆踊舞。",
       "fr": "Pendant le festival d'été, nous avons tous revêtu un yukata et dansé joyeusement la danse traditionnelle."
     },
-    "related": "おどる（授業の重要表現）"
+    "related": "おどる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0081",
@@ -1943,7 +2043,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你適應新的工作場所了嗎？<br/>B：是的，工作中的每個人都非常友善，很容易合作。",
       "fr": "A : Vous êtes-vous déjà adapté à votre nouveau lieu de travail ?<br/>B : Oui, tout le monde au travail est très gentil et il est facile de travailler avec lui."
     },
-    "related": "しょくば（授業の重要表現）"
+    "related": "しょくば（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0082",
@@ -1967,7 +2072,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽到出面有滴滴嗒嗒嘅落雨聲，我就即刻閂咗隻窗。",
       "fr": "J'ai entendu le bruit de la pluie tomber dehors, alors j'ai fermé la fenêtre."
     },
-    "related": "おと（授業の重要表現）"
+    "related": "おと（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0083",
@@ -1991,7 +2097,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽見老師好開朗溫柔嘅說話聲，個人就會安心集中精神聽書。",
       "fr": "Entendre la voix claire et douce de l'enseignant me rassure et m'aide à bien me concentrer sur le cours."
     },
-    "related": "こえ（授業の重要表現）"
+    "related": "こえ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0084",
@@ -2015,7 +2122,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "逢禮拜六日，我最鍾意喺屋企煮意粉同滾湯等拿手家常菜。",
       "fr": "Le week-end, j'aime cuisiner mes plats préférés à la maison, comme des pâtes ou des soupes."
     },
-    "related": "りょうりをする（授業の重要表現）"
+    "related": "りょうりをする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0085",
@@ -2039,7 +2147,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你能先煮飯準備晚餐嗎？<br/>乙：明白了！將米洗淨，煮3杯米。",
       "fr": "A : Pouvez-vous d’abord faire cuire le riz pour le préparer pour le dîner ?<br/>B : Compris ! Lavez le riz et faites cuire 3 tasses de riz."
     },
-    "related": "ごはんをたく（授業の重要表現）"
+    "related": "ごはんをたく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0086",
@@ -2063,7 +2172,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：我運動出汗了，我先去洗澡。<br/>B：好的，洗個熱水澡，梳洗一下。",
       "fr": "R : Je transpire à cause de l’exercice, alors je vais d’abord prendre une douche.<br/>B : D’accord, prends une douche chaude et rafraîchis-toi."
     },
-    "related": "シャワーをあびる（授業の重要表現）"
+    "related": "シャワーをあびる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0087",
@@ -2087,7 +2197,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：如果把這個香松撒在白飯上，就可以吃很多碗。<br/>乙： 確實如此！我最喜歡鮭魚和海藻香松。",
       "fr": "R : Si vous saupoudrez ce furikake sur du riz blanc, vous pouvez manger autant de bols que vous le souhaitez.<br/>B : C'est vrai ! Je préfère le furikake au saumon et aux algues."
     },
-    "related": "ふりかけ（授業の重要表現）"
+    "related": "ふりかけ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0088",
@@ -2111,7 +2222,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：孩子們在公園裡開心地玩捉迷藏。<br/>B：很懷舊。我小時候也常玩捉迷藏。",
       "fr": "R : Les enfants jouent joyeusement à cache-cache dans le parc.<br/>B : C'est nostalgique. Je jouais aussi souvent à cache-cache quand j'étais enfant."
     },
-    "related": "かくれんぼ（授業の重要表現）"
+    "related": "かくれんぼ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0089",
@@ -2135,7 +2247,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "飛機安全去到機場之後，我會即刻WhatsApp屋企人報平安。",
       "fr": "Dès que l’avion sera arrivé sain et sauf à l’aéroport, j’enverrai un message à ma famille."
     },
-    "related": "つく（授業の重要表現）"
+    "related": "つく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0090",
@@ -2159,7 +2272,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Can you help weed the garden?<br/>B: Sure, I'll pull the weeds firmly from the roots.",
       "fr": "A: Can you help weed the garden?<br/>B: Sure, I'll pull the weeds firmly from the roots."
     },
-    "related": "ぬく・ぬきます（授業の重要表現）"
+    "related": "ぬく・ぬきます（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0091",
@@ -2183,7 +2297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：我的後牙會痛，但我想知道我的智齒會長出來嗎？<br/>B：你應該在智齒變成蛀牙之前盡快讓牙醫檢查一下。",
       "fr": "A : Ma dent du fond me fait mal, mais je me demande si mes dents de sagesse poussent ?<br/>B : Vous devriez faire examiner vos dents de sagesse par un dentiste le plus tôt possible avant qu'elles ne se transforment en caries."
     },
-    "related": "おやしらず（授業の重要表現）"
+    "related": "おやしらず（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0092",
@@ -2207,7 +2322,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "食咗醫生開嘅感冒藥之後退咗燒，舒服咗好多。",
       "fr": "Après avoir pris le médicament prescrit par le médecin, ma fièvre est tombée et je me suis senti soulagé."
     },
-    "related": "くすり（授業の重要表現）"
+    "related": "くすり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0093",
@@ -2231,7 +2347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's bedtime now, so go brush your teeth.<br/>B: Okay! I'll brush my teeth thoroughly so I don't get cavities.",
       "fr": "A: It's bedtime now, so go brush your teeth.<br/>B: Okay! I'll brush my teeth thoroughly so I don't get cavities."
     },
-    "related": "はをみがく・みがきます（授業の重要表現）"
+    "related": "はをみがく・みがきます（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0094",
@@ -2255,7 +2372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日朝早都會喺附近嘅公園慢跑做下運動。",
       "fr": "Pour ma santé, je fais du sport chaque matin en courant légèrement dans le parc du quartier."
     },
-    "related": "うんどう（授業の重要表現）"
+    "related": "うんどう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0095",
@@ -2279,7 +2397,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽日學校有活動，我哋會去參觀整傳統手工藝嘅工作坊。",
       "fr": "Demain, nous prévoyons de visiter un atelier d'artisanat traditionnel dans le cadre scolaire."
     },
-    "related": "けんがく（授業の重要表現）"
+    "related": "けんがく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0096",
@@ -2303,7 +2422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Were you and your sibling having an argument again?<br/>B: Yeah, we had a petty argument over the TV channel.",
       "fr": "A: Were you and your sibling having an argument again?<br/>B: Yeah, we had a petty argument over the TV channel."
     },
-    "related": "くちげんか（授業の重要表現）"
+    "related": "くちげんか（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0097",
@@ -2327,7 +2447,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A lot of cars are passing by, it's dangerous.<br/>B: Let's cross at that crosswalk over there to get to the other side.",
       "fr": "A: A lot of cars are passing by, it's dangerous.<br/>B: Let's cross at that crosswalk over there to get to the other side."
     },
-    "related": "おうだんほどう（授業の重要表現）"
+    "related": "おうだんほどう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0098",
@@ -2351,7 +2472,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每次食完嘢都認真刷乾淨牙，就可以好有效噉預防蛀牙同牙周病。",
       "fr": "En se brossant soigneusement les dents après chaque repas, on peut prévenir les caries et les maladies gingivales."
     },
-    "related": "むしば（授業の重要表現）"
+    "related": "むしば（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0099",
@@ -2375,7 +2497,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I bit into a whole apple, my front tooth started hurting.<br/>B: It might be a cavity, so let's have the dentist check your front tooth soon.",
       "fr": "A: When I bit into a whole apple, my front tooth started hurting.<br/>B: It might be a cavity, so let's have the dentist check your front tooth soon."
     },
-    "related": "まえば（授業の重要表現）"
+    "related": "まえば（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0100",
@@ -2399,7 +2522,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I eat cold ice cream, my back teeth sting sharply.<br/>B: It might be sensitivity. Why don't you try toothpaste for molars?",
       "fr": "A: When I eat cold ice cream, my back teeth sting sharply.<br/>B: It might be sensitivity. Why don't you try toothpaste for molars?"
     },
-    "related": "おくば（授業の重要表現）"
+    "related": "おくば（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0101",
@@ -2423,7 +2547,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I request that you not forget to wipe the windows.",
       "fr": "I request that you not forget to wipe the windows."
     },
-    "related": "ふく（授業の重要表現）"
+    "related": "ふく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0102",
@@ -2447,7 +2572,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "夏天喺公園散步嗰陣，隻手畀蚊咬到好痕。",
       "fr": "En me promenant dans le parc en été, je me suis fait piquer par un moustique au bras et ça me démange."
     },
-    "related": "か（授業の重要表現）"
+    "related": "か（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0103",
@@ -2472,7 +2598,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 包裹幾時會到？<br/>B: 預計喺3點到5點之間送到。",
       "fr": "A: Quand le colis arrivera-t-il ?<br/>B: Il est prévu qu'il arrive entre 15h et 17h."
     },
-    "related": "間に（あいだに）"
+    "related": "間に（あいだに）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0104",
@@ -2496,7 +2623,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "平時我通常都自己煮飯，淨係喺禮拜五晚先會出去食自己鍾意食嘅嘢獎勵下自己。",
       "fr": "D'habitude je cuisine chez moi, mais le vendredi soir je m'accorde une sortie au restaurant pour manger ce qui me fait plaisir."
     },
-    "related": "ふだん（授業の重要表現）"
+    "related": "ふだん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0105",
@@ -2520,7 +2648,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今年黃金週長假期，我哋一家人計劃去浸溫泉旅行。",
       "fr": "Pour la Golden Week de cette année, nous prévoyons de partir en voyage aux thermes en famille."
     },
-    "related": "けいかく（授業の重要表現）"
+    "related": "けいかく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0106",
@@ -2544,7 +2673,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我check過下個禮拜嘅行程，將緊要嘅預約同計劃寫好喺個行事曆度。",
       "fr": "J'ai vérifié mon emploi du temps pour la semaine prochaine et noté mes rendez-vous importants sur le calendrier."
     },
-    "related": "よてい（授業の重要表現）"
+    "related": "よてい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0107",
@@ -2568,7 +2698,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you decided on your plans for this weekend?<br/>B: I plan to go to a newly opened cafe with a friend.",
       "fr": "A: Have you decided on your plans for this weekend?<br/>B: I plan to go to a newly opened cafe with a friend."
     },
-    "related": "しゅうまつ（授業の重要表現）"
+    "related": "しゅうまつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0108",
@@ -2592,7 +2723,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you work on weekends as well?<br/>B: No, I have both Saturday and Sunday completely off.",
       "fr": "A: Do you work on weekends as well?<br/>B: No, I have both Saturday and Sunday completely off."
     },
-    "related": "どにち（授業の重要表現）"
+    "related": "どにち（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0109",
@@ -2616,7 +2748,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "平日我由朝早8點到夜晚7點都會喺辦公室返工。",
       "fr": "En semaine, je travaille au bureau de 8h à 19h."
     },
-    "related": "へいじつ（授業の重要表現）"
+    "related": "へいじつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0110",
@@ -2640,7 +2773,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「講開又講，你上個禮拜見嗰份工面試結果點呀？」「好順利pass咗錄取咗喇！」",
       "fr": "'Au fait, quel a été le résultat de ton entretien d'embauche de la semaine dernière ?' 'J'ai été reçu avec succès !'"
     },
-    "related": "ところで（授業の重要表現）"
+    "related": "ところで（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0111",
@@ -2664,7 +2798,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "唔使心急㗎，照返自己嘅節奏慢慢一步一步向前行就得㗎喇。",
       "fr": "Ne vous inquiétez pas, rien ne presse. Avançons petit à petit, à votre propre rythme."
     },
-    "related": "すこしずつ（授業の重要表現）"
+    "related": "すこしずつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0112",
@@ -2688,7 +2823,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "作為學日文嘅紀錄，我每日瞓覺前都會寫少少日記。",
       "fr": "Pour suivre mon apprentissage du japonais, j’écris un court journal intime chaque soir avant de dormir."
     },
-    "related": "にっき（授業の重要表現）"
+    "related": "にっき（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0113",
@@ -2712,7 +2852,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日攰到冇力煮飯，所以買咗外賣便當返屋企食。",
       "fr": "Je suis trop fatigué pour cuisiner ce soir, je vais donc prendre un bento à emporter et le manger chez moi."
     },
-    "related": "もちかえり（授業の重要表現）"
+    "related": "もちかえり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0114",
@@ -2736,7 +2877,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢哋拍拖好多年之後，決定喺今年秋天擺酒結婚。",
       "fr": "Après de longues années ensemble, ils ont décidé de célébrer leur mariage cet automne."
     },
-    "related": "けっこん（授業の重要表現）"
+    "related": "けっこん（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0115",
@@ -2760,7 +2906,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What do you do for dinner on busy days?<br/>B: I keep frozen foods on hand that just need to be microwaved, and they come in very handy.",
       "fr": "A: What do you do for dinner on busy days?<br/>B: I keep frozen foods on hand that just need to be microwaved, and they come in very handy."
     },
-    "related": "れいとうしょくひん（授業の重要表現）"
+    "related": "れいとうしょくひん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0116",
@@ -2784,7 +2931,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每個月嘅月尾之前，我都要將下個月嘅租金轉帳入指定銀行戶口。",
       "fr": "Avant la fin de chaque mois, je vire le loyer du mois suivant sur le compte bancaire désigné."
     },
-    "related": "やちん（授業の重要表現）"
+    "related": "やちん（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0117",
@@ -2808,7 +2960,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "睇過天氣預報，目前嚟睇今個禮拜六日嘅野餐應該會係好天。",
       "fr": "J'ai regardé la météo et pour l'instant il semble qu'il fera beau pour le pique-nique ce week-end."
     },
-    "related": "いまのところ（授業の重要表現）"
+    "related": "いまのところ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0118",
@@ -2832,7 +2985,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好耐冇跑過步，琴日跑咗10公里之後，今日對腳肌肉好痛。",
       "fr": "Après avoir couru 10 kilomètres pour la première fois depuis longtemps, j'ai eu d'atroces courbatures aux jambes le lendemain."
     },
-    "related": "きんにくつう（授業の重要表現）"
+    "related": "きんにくつう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0119",
@@ -2856,7 +3010,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are Shinkansen tickets cheaper for students?<br/>B: If you show your student ID, you can use the student discount for 20% off!",
       "fr": "A: Are Shinkansen tickets cheaper for students?<br/>B: If you show your student ID, you can use the student discount for 20% off!"
     },
-    "related": "がくわり（授業の重要表現）"
+    "related": "がくわり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0120",
@@ -2880,7 +3035,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "架火車仲有5分鐘就開走，我要拿拿臨加快腳步衝去火車站。",
       "fr": "Comme il ne restait que 5 minutes avant le départ du train, j'ai couru à la gare en toute hâte."
     },
-    "related": "いそぐ（授業の重要表現）"
+    "related": "いそぐ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0121",
@@ -2904,7 +3060,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is this your first time taking a Japanese lesson online?<br/>B: Yes, it's so convenient to take lessons while relaxing at home.",
       "fr": "A: Is this your first time taking a Japanese lesson online?<br/>B: Yes, it's so convenient to take lessons while relaxing at home."
     },
-    "related": "じゅぎょうをうける（授業の重要表現）"
+    "related": "じゅぎょうをうける（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0122",
@@ -2928,7 +3085,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "冬天好早天黑，硬係覺得朝早日照時間過得特別快、特別短。",
       "fr": "En hiver, le soleil se couche très tôt et la journée semble particulièrement courte."
     },
-    "related": "みじかい（授業の重要表現）"
+    "related": "みじかい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0123",
@@ -2952,7 +3110,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "暑假放咁長嘅假期，我終於有時間睇晒平時好想睇嘅長篇小說。",
       "fr": "Les vacances d'été étant assez longues, j'ai pris le temps de lire des romans volumineux que je n'ai pas le temps d'ouvrir d'habitude."
     },
-    "related": "ながい（授業の重要表現）"
+    "related": "ながい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0124",
@@ -2976,7 +3135,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is your new goal for this year?<br/>B: Challenging myself to climb Mount Fuji!",
       "fr": "A: What is your new goal for this year?<br/>B: Challenging myself to climb Mount Fuji!"
     },
-    "related": "ちょうせんする（授業の重要表現）"
+    "related": "ちょうせんする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0125",
@@ -3000,7 +3160,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "上網搵到個新食譜，今晚諗住跟住煮試下味。",
       "fr": "J’ai trouvé une nouvelle recette sur internet, je vais essayer de la cuisiner pour le dîner de ce soir."
     },
-    "related": "ためす（授業の重要表現）"
+    "related": "ためす（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0126",
@@ -3024,7 +3185,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：搭火車比搭公車更快嗎？<br/>B：是的，坐火車快得多，因為不塞車。",
       "fr": "A : Est-il plus rapide de prendre le train que le bus ?<br/>B : Oui, c'est beaucoup plus rapide de prendre le train car il n'y a pas d'embouteillage."
     },
-    "related": "〜より（授業の重要表現）"
+    "related": "〜より（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0127",
@@ -3048,7 +3210,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "放假下晝同隻狗一齊喺河邊好悠閒咁散步。",
       "fr": "Le soir pendant mon jour de congé, je me suis promené tranquillement le long de la rivière avec mon chien."
     },
-    "related": "さんぽ（授業の重要表現）"
+    "related": "さんぽ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0128",
@@ -3072,7 +3235,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Which foundation provides this scholarship?<br/>B: It is provided by a foundation supporting international exchange.",
       "fr": "A: Which foundation provides this scholarship?<br/>B: It is provided by a foundation supporting international exchange."
     },
-    "related": "ざいだん（授業の重要表現）"
+    "related": "ざいだん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0129",
@@ -3096,7 +3260,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Looking forward to the Kyoto trip next week!<br/>B: Yes, I can hardly wait to see the autumn leaves.",
       "fr": "A: Looking forward to the Kyoto trip next week!<br/>B: Yes, I can hardly wait to see the autumn leaves."
     },
-    "related": "たのしみです（授業の重要表現）"
+    "related": "たのしみです（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0130",
@@ -3120,7 +3285,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's dangerous, so please don't step onto the roadway and stay on the sidewalk.<br/>B: Sorry, I will be careful!",
       "fr": "A: It's dangerous, so please don't step onto the roadway and stay on the sidewalk.<br/>B: Sorry, I will be careful!"
     },
-    "related": "車道（授業の重要表現）"
+    "related": "車道（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0131",
@@ -3144,7 +3310,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺個新地方蕩失路唔識行，於是我走去報案室搵個好心嘅警察問路。",
       "fr": "Comme j'étais perdu dans cette ville inconnue, j'ai demandé mon chemin au poste de police à un agent très serviable."
     },
-    "related": "道（授業の重要表現）"
+    "related": "道（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0132",
@@ -3168,7 +3335,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Which app do you use for train transfer guides?<br/>B: I always use a free transit navigation app.",
       "fr": "A: Which app do you use for train transfer guides?<br/>B: I always use a free transit navigation app."
     },
-    "related": "アプリ（授業の重要表現）"
+    "related": "アプリ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0133",
@@ -3192,7 +3360,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗消化得好啲，我食飯嗰陣都會嚼爛啲、慢慢食。",
       "fr": "Pour une bonne digestion, je prends le temps de bien mâcher mes aliments et de manger lentement."
     },
-    "related": "噛む（授業の重要表現）"
+    "related": "噛む（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0134",
@@ -3216,7 +3385,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When paying, would you like a plastic bag?<br/>B: I brought my own reusable bag, so I don't need a plastic bag.",
       "fr": "A: When paying, would you like a plastic bag?<br/>B: I brought my own reusable bag, so I don't need a plastic bag."
     },
-    "related": "レジ袋（授業の重要表現）"
+    "related": "レジ袋（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0135",
@@ -3240,7 +3410,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "溫習咗成幾個禮拜咁耐，終於喺漢字默書測驗攞到滿分100分好成績。",
       "fr": "Grâce à des semaines de révisions assidues, j'ai obtenu la note maximale au contrôle de kanji."
     },
-    "related": "まんてん（授業の重要表現）"
+    "related": "まんてん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0136",
@@ -3264,7 +3435,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you greet your next-door neighbor?<br/>B: Yes, we often greet each other when we run into each other in the morning.",
       "fr": "A: Do you greet your next-door neighbor?<br/>B: Yes, we often greet each other when we run into each other in the morning."
     },
-    "related": "りんじん（授業の重要表現）"
+    "related": "りんじん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0137",
@@ -3288,7 +3460,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I took part in a neighborhood cleaning activity with local residents.<br/>B: That's wonderful to have good neighborhood relationships.",
       "fr": "A: I took part in a neighborhood cleaning activity with local residents.<br/>B: That's wonderful to have good neighborhood relationships."
     },
-    "related": "きんじょの人（授業の重要表現）"
+    "related": "きんじょの人（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0138",
@@ -3312,7 +3485,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喉嚨好乾有啲痛，喺袋度攞粒潤喉糖出嚟含。",
       "fr": "Comme ma gorge était sèche et douloureuse, j’ai sorti un bonbon pour la gorge de mon sac."
     },
-    "related": "あめ（授業の重要表現）"
+    "related": "あめ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0139",
@@ -3336,7 +3510,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "新辦公室嘅籌備工作進行得好順利，下個禮拜就可以正式搬入去。",
       "fr": "Les préparatifs du nouveau bureau avancent sans accroc, et nous pourrons emménager la semaine prochaine."
     },
-    "related": "じゅんちょう（授業の重要表現）"
+    "related": "じゅんちょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0140",
@@ -3360,7 +3535,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「呢個餐需要外賣拎走嗎？」「係呀，唔該幫我打包外賣丫。」",
       "fr": "'Souhaitez-vous emporter ce plat ?' 'Oui, à emporter s'il vous plaît.'"
     },
-    "related": "もちかえり（授業の重要表現）"
+    "related": "もちかえり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0141",
@@ -3384,7 +3560,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：請問堂食定係？<br/>B：唔該，我想外賣。",
       "fr": "A : C’est pour consommer sur place ?<br/>B : Non, à emporter s’il vous plaît."
     },
-    "related": "おめしあがりですか（授業の重要表現）"
+    "related": "おめしあがりですか（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0142",
@@ -3408,7 +3585,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 請問決定好叫咩未？喺度食定外賣？<br/>B: 喺度食，唔該要一杯熱咖啡同埋一件芝士蛋糕。",
       "fr": "A: Avez-vous choisi ? Est-ce pour consommer sur place ?<br/>B: Oui, sur place, un café chaud et un cheesecake, s'il vous plaît."
     },
-    "related": "てんない（授業の重要表現）"
+    "related": "てんない（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0143",
@@ -3432,7 +3610,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去返以前住過嘅地方，細個成日去玩嘅公園真係令人好懷念。",
       "fr": "En visitant la ville où j’habitais autrefois, le parc où je jouais enfant m’a rendu très nostalgique."
     },
-    "related": "なつかしい（授業の重要表現）"
+    "related": "なつかしい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0144",
@@ -3456,7 +3635,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard he is training as an apprentice under a famous ceramic artist.<br/>B: It's a tough world, but he is learning eagerly.",
       "fr": "A: I heard he is training as an apprentice under a famous ceramic artist.<br/>B: It's a tough world, but he is learning eagerly."
     },
-    "related": "でし（授業の重要表現）"
+    "related": "でし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0145",
@@ -3480,7 +3660,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Learning the craft directly from a rakugo master must be nerve-racking.<br/>B: Yes, but my master's teachings are truly enlightening.",
       "fr": "A: Learning the craft directly from a rakugo master must be nerve-racking.<br/>B: Yes, but my master's teachings are truly enlightening."
     },
-    "related": "ししょう（授業の重要表現）"
+    "related": "ししょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0146",
@@ -3504,7 +3685,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you ever eaten authentic chanko nabe?<br/>B: Yes, the hot pot I had near a sumo stable in Ryogoku was exquisite!",
       "fr": "A: Have you ever eaten authentic chanko nabe?<br/>B: Yes, the hot pot I had near a sumo stable in Ryogoku was exquisite!"
     },
-    "related": "ちゃんこなべ（授業の重要表現）"
+    "related": "ちゃんこなべ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0147",
@@ -3528,7 +3710,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Speaking of hallmarks of summer, fireworks and watermelon come to mind.<br/>B: Indeed, they really evoke the season and have such great charm.",
       "fr": "A: Speaking of hallmarks of summer, fireworks and watermelon come to mind.<br/>B: Indeed, they really evoke the season and have such great charm."
     },
-    "related": "ふうぶつし（授業の重要表現）"
+    "related": "ふうぶつし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0148",
@@ -3552,7 +3735,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "以前讀書同班隊友一齊喺球隊練波流汗嘅日子，係無可替代嘅青春美好回憶。",
       "fr": "Ces journées passées à suer avec mes camarades au club restent un souvenir inestimable de ma jeunesse."
     },
-    "related": "せいしゅん（授業の重要表現）"
+    "related": "せいしゅん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0149",
@@ -3576,7 +3760,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本有句俗語「急則繞道」，即係欲速則不達，教我哋做嘢要腳踏實地唔好太心急。",
       "fr": "Le proverbe japonais 'qui va lentement va sûrement' enseigne l'importance d'avancer posément sans précipitation."
     },
-    "related": "ことわざ（授業の重要表現）"
+    "related": "ことわざ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0150",
@@ -3600,7 +3785,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你對眼紅晒仲流眼水，冇事呀話？<br/>B: 一到春天我每年的花粉症都好嚴重，鼻水都流個唔停。",
       "fr": "A: Vos yeux sont tout rouges et larmoyants. Ça va ?<br/>B: Chaque printemps, j'ai un rhume des foins terrible. Mon nez ne s'arrête pas de couler non plus."
     },
-    "related": "かふんしょう（授業の重要表現）"
+    "related": "かふんしょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0151",
@@ -3624,7 +3810,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我搞錯咗火車月台，搭咗相反方向嘅列車添。",
       "fr": "Je me suis trompé de quai et je suis monté dans un train qui allait dans la direction opposée."
     },
-    "related": "ぎゃく（授業の重要表現）"
+    "related": "ぎゃく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0152",
@@ -3648,7 +3835,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I rushed in a hurry, conversely I ended up missing the train.<br/>B: When you're flustered, it can often have the opposite effect, right?",
       "fr": "A: When I rushed in a hurry, conversely I ended up missing the train.<br/>B: When you're flustered, it can often have the opposite effect, right?"
     },
-    "related": "ぎゃくに〜（授業の重要表現）"
+    "related": "ぎゃくに〜（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0153",
@@ -3672,7 +3860,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: You get very nervous for your first interview, don't you?<br/>B: Yes, I plan to take a deep breath and stay calm.",
       "fr": "A: You get very nervous for your first interview, don't you?<br/>B: Yes, I plan to take a deep breath and stay calm."
     },
-    "related": "きんちょうする（授業の重要表現）"
+    "related": "きんちょうする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0154",
@@ -3696,7 +3885,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "行過條橫跨大河嘅橋，就會見到好熱鬧嘅商店街。",
       "fr": "En traversant le pont qui enjambe le grand fleuve, on aperçoit une rue commerçante très animée."
     },
-    "related": "はし（授業の重要表現）"
+    "related": "はし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0155",
@@ -3720,7 +3910,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What aspects of Japanese culture are you interested in?<br/>B: I am interested in the architecture of traditional shrines and temples.",
       "fr": "A: What aspects of Japanese culture are you interested in?<br/>B: I am interested in the architecture of traditional shrines and temples."
     },
-    "related": "きょうみがある（授業の重要表現）"
+    "related": "きょうみがある（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0156",
@@ -3744,7 +3939,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "長假期條高速公路預計會大塞車，所以我哋大清早就出發。",
       "fr": "De gros embouteillages étant prévus sur l'autoroute pendant le long week-end, nous sommes partis très tôt le matin."
     },
-    "related": "じゅうたい（授業の重要表現）"
+    "related": "じゅうたい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0157",
@@ -3768,7 +3964,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "只要換咗份報告呢個部分張圖表，份報告嘅說服力就會即刻大增。",
       "fr": "Il suffit de remplacer le graphique dans cette partie du rapport pour le rendre beaucoup plus convaincant."
     },
-    "related": "ぶぶん（授業の重要表現）"
+    "related": "ぶぶん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0158",
@@ -3792,7 +3989,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 多謝款待！好好味。等我洗碗啦。<br/>B: 真係？咁我就唔客氣交畀你喇。",
       "fr": "A: Merci pour ce repas, c'était délicieux ! Je vais faire la vaisselle.<br/>B: Vraiment ? Dans ce cas, je profite de ta gentillesse et je te laisse faire."
     },
-    "related": "さらあらい（授業の重要表現）"
+    "related": "さらあらい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0159",
@@ -3816,7 +4014,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "食完飯之後，成家人一齊分工洗乾淨啲碗碟。",
       "fr": "Après le repas, toute la famille a aidé à faire la vaisselle soigneusement."
     },
-    "related": "おさら（授業の重要表現）"
+    "related": "おさら（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0160",
@@ -3840,7 +4039,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "冬天好乾燥，所以會查爽膚水同面霜幫皮膚保濕。",
       "fr": "L’air étant sec en hiver, j’applique de la lotion et de la crème pour hydrater ma peau."
     },
-    "related": "はだ（授業の重要表現）"
+    "related": "はだ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0161",
@@ -3864,7 +4064,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺咁多款日本料理入面，我特別最鍾意食新鮮三文魚同吞拿魚刺身。",
       "fr": "Parmi les plats japonais, j'aime tout particulièrement les sashimis frais de saumon et de thon."
     },
-    "related": "とくに（授業の重要表現）"
+    "related": "とくに（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0162",
@@ -3888,7 +4089,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺海灘游咗成日水，個背脊曬親紅晒又辣又痛。",
       "fr": "Après avoir nagé toute la journée à la mer, mon dos est rouge et me brûle à cause du coup de soleil."
     },
-    "related": "ひやけ（授業の重要表現）"
+    "related": "ひやけ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0163",
@@ -3912,7 +4114,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The sun is strong, so make sure to apply sunscreen properly.<br/>B: Thank you. I brought a sweat-resistant one.",
       "fr": "A: The sun is strong, so make sure to apply sunscreen properly.<br/>B: Thank you. I brought a sweat-resistant one."
     },
-    "related": "ひやけどめ（授業の重要表現）"
+    "related": "ひやけどめ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0164",
@@ -3936,7 +4139,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If you were to have a pet, are you a dog person?<br/>B: No, I prefer cats over dogs. Their easygoing nature is so cute.",
       "fr": "A: If you were to have a pet, are you a dog person?<br/>B: No, I prefer cats over dogs. Their easygoing nature is so cute."
     },
-    "related": "いぬよりねこがすきです（授業の重要表現）"
+    "related": "いぬよりねこがすきです（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0165",
@@ -3960,7 +4164,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How is your cold? Has it gotten a bit better?<br/>B: Thanks to taking medicine, it's considerably better than yesterday.",
       "fr": "A: How is your cold? Has it gotten a bit better?<br/>B: Thanks to taking medicine, it's considerably better than yesterday."
     },
-    "related": "マシ（授業の重要表現）"
+    "related": "マシ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0166",
@@ -3984,7 +4189,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "到咗禮拜六日，我同伴侶會分工合作做吸塵同洗衫等家務，好快搞掂晒。",
       "fr": "Le week-end, mon conjoint et moi nous partageons les tâches ménagères comme le ménage et la lessive pour aller vite."
     },
-    "related": "かじ（授業の重要表現）"
+    "related": "かじ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0167",
@@ -4008,7 +4214,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Lazing around doing nothing on my day off feels like such an idle life.<br/>B: I think it's perfectly fine to have days where you just do nothing once in a while.",
       "fr": "A: Lazing around doing nothing on my day off feels like such an idle life.<br/>B: I think it's perfectly fine to have days where you just do nothing once in a while."
     },
-    "related": "たいだ（授業の重要表現）"
+    "related": "たいだ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0168",
@@ -4032,7 +4239,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm quite a lazy person, so I bought a robot vacuum.<br/>B: Automating household chores really helps a lot, doesn't it?",
       "fr": "A: I'm quite a lazy person, so I bought a robot vacuum.<br/>B: Automating household chores really helps a lot, doesn't it?"
     },
-    "related": "めんどくさがり（授業の重要表現）"
+    "related": "めんどくさがり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0169",
@@ -4056,7 +4264,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Modern home appliances connecting with smartphones are so convenient.<br/>B: Appliances that let you turn on the air conditioner from outside are a lifesaver.",
       "fr": "A: Modern home appliances connecting with smartphones are so convenient.<br/>B: Appliances that let you turn on the air conditioner from outside are a lifesaver."
     },
-    "related": "かでん（授業の重要表現）"
+    "related": "かでん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0170",
@@ -4080,7 +4289,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like to go mountain climbing at Mount Takao next weekend?<br/>B: Sounds great! I'll prepare comfortable hiking boots.",
       "fr": "A: Would you like to go mountain climbing at Mount Takao next weekend?<br/>B: Sounds great! I'll prepare comfortable hiking boots."
     },
-    "related": "やまのぼり（授業の重要表現）"
+    "related": "やまのぼり（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0171",
@@ -4104,7 +4318,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The sunrise viewed from the mountaintop was truly breathtaking.<br/>B: It was well worth waking up early to climb up!",
       "fr": "A: The sunrise viewed from the mountaintop was truly breathtaking.<br/>B: It was well worth waking up early to climb up!"
     },
-    "related": "あさひ（授業の重要表現）"
+    "related": "あさひ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0172",
@@ -4128,7 +4343,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下晝黃昏去海灘散步，悠閒噉欣賞夕陽染到成個天空一片金橙色。",
       "fr": "En me promenant sur la plage le soir, j'ai contemplé paisiblement le coucher de soleil flamboyant."
     },
-    "related": "ゆうひ（授業の重要表現）"
+    "related": "ゆうひ（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0173",
@@ -4152,7 +4372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：已經是深夜了。你很快就要睡著了嗎？<br/>B：是的，明天還早，所以我要睡個好覺。晚安。",
       "fr": "R : Il est déjà tard dans la nuit. Vas-tu bientôt t'endormir ?<br/>B : Ouais, il sera tôt demain, donc je vais passer une bonne nuit de sommeil. bonne nuit."
     },
-    "related": "ばくすいする（授業の重要表現）"
+    "related": "ばくすいする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0174",
@@ -4176,7 +4397,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "火車站周圍有好多超級市場同藥妝店，平時生活買嘢真係非常方便。",
       "fr": "Autour de la gare se trouvent de nombreux supermarchés et pharmacies, ce qui rend le quotidien très pratique."
     },
-    "related": "まわり（授業の重要表現）"
+    "related": "まわり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0175",
@@ -4200,7 +4422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He explored the region around the South Pole.",
       "fr": "He explored the region around the South Pole."
     },
-    "related": "しゅうへん（授業の重要表現）"
+    "related": "しゅうへん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0176",
@@ -4224,7 +4447,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你學日文多久了？<br/>B：這是我三年來第一次學習。",
       "fr": "A : Depuis combien de temps étudiez-vous le japonais ?<br/>B : J'étudie pour la première fois depuis exactement 3 ans."
     },
-    "related": "〜ぶり（授業の重要表現）"
+    "related": "〜ぶり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0177",
@@ -4248,7 +4472,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This cafe has such a calming, relaxing atmosphere.<br/>B: Yes, gentle jazz is playing and it's very relaxing.",
       "fr": "A: This cafe has such a calming, relaxing atmosphere.<br/>B: Yes, gentle jazz is playing and it's very relaxing."
     },
-    "related": "おちつく（授業の重要表現）"
+    "related": "おちつく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0178",
@@ -4272,7 +4497,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "飲返碗有好多蔬菜同滑豆腐嘅熱辣辣味噌湯，個人成個身暖笠笠好舒服。",
       "fr": "Boire une soupe miso bien garnie de légumes et de tofu réchauffe agréablement le corps."
     },
-    "related": "しる（授業の重要表現）"
+    "related": "しる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0179",
@@ -4296,7 +4522,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This cake is delicious, please try a bite!<br/>B: Thank you, then I will have one bite.",
       "fr": "A: This cake is delicious, please try a bite!<br/>B: Thank you, then I will have one bite."
     },
-    "related": "ひとくち（授業の重要表現）"
+    "related": "ひとくち（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0180",
@@ -4320,7 +4547,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺日本夠20歲先可以飲酒。琴日朋友嘅成年禮派對度，我哋第一次舉起酒杯乾杯。",
       "fr": "L'alcool est permis à partir de 20 ans. Pour fêter la majorité d'un ami, nous avons trinqué à l'alcool pour la première fois."
     },
-    "related": "おさけ（授業の重要表現）"
+    "related": "おさけ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0181",
@@ -4344,7 +4572,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗預防病菌感染，入舖頭之前我喺門口用酒精消毒搓手液消毒雙手。",
       "fr": "Pour prévenir les infections, je me suis soigneusement désinfecté les mains avec du gel hydroalcoolique à l'entrée."
     },
-    "related": "アルコール（授業の重要表現）"
+    "related": "アルコール（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0182",
@@ -4368,7 +4597,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After eating shellfish, hives appeared on my arms.<br/>B: It might be an allergy. Let's go to a dermatologist right away.",
       "fr": "A: After eating shellfish, hives appeared on my arms.<br/>B: It might be an allergy. Let's go to a dermatologist right away."
     },
-    "related": "じんましん（授業の重要表現）"
+    "related": "じんましん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0183",
@@ -4392,7 +4622,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "黃昏嗰陣企喺橋上面睇日落，個景色真係靚到無話可說。",
       "fr": "Au crépuscule, le coucher de soleil vu du pont est d'une beauté à couper le souffle."
     },
-    "related": "はし（授業の重要表現）"
+    "related": "はし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0184",
@@ -4416,7 +4647,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "最近返工好忙搞到瞓得唔係好夠，今晚要早啲瞓返覺好嘅。",
       "fr": "Ces derniers temps le travail m'occupe beaucoup et je manque de sommeil, je vais donc me coucher tôt ce soir."
     },
-    "related": "ふそく（授業の重要表現）"
+    "related": "ふそく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0185",
@@ -4440,7 +4672,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你決定下週要去哪裡旅行了嗎？<br/>B： 沒有，還沒決定。我一邊看小冊子一邊思考這個問題。",
       "fr": "A : Avez-vous décidé où vous voyagerez la semaine prochaine ?<br/>B : Non, cela n’a pas encore été décidé. J'y pense en regardant le dépliant."
     },
-    "related": "まだきまっていません（授業の重要表現）"
+    "related": "まだきまっていません（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0186",
@@ -4464,7 +4697,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你決定下週要去哪裡旅行了嗎？<br/>B：不，我還沒決定。我一邊看小冊子一邊思考這個問題。",
       "fr": "A : Avez-vous décidé où vous voyagerez la semaine prochaine ?<br/>B : Non, je n'ai pas encore décidé. J'y pense en regardant le dépliant."
     },
-    "related": "まだきめていません（授業の重要表現）"
+    "related": "まだきめていません（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0187",
@@ -4488,7 +4722,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is preparation for launching your new business going smoothly?<br/>B: Yes, my team and I are working hard aiming for next month's opening.",
       "fr": "A: Is preparation for launching your new business going smoothly?<br/>B: Yes, my team and I are working hard aiming for next month's opening."
     },
-    "related": "たちあげる（授業の重要表現）"
+    "related": "たちあげる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0188",
@@ -4512,7 +4747,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Let's set off for the drive!<br/>B: Yes, I'll buckle up and start the car engine.",
       "fr": "A: Let's set off for the drive!<br/>B: Yes, I'll buckle up and start the car engine."
     },
-    "related": "エンジンをかける（授業の重要表現）"
+    "related": "エンジンをかける（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0189",
@@ -4536,7 +4772,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末去唔去站前間衫舖買衫？<br/>B: 好呀！我啱啱好搵緊春裝褸呢。",
       "fr": "A: Tu veux aller faire du shopping dans le magasin de vêtements devant la gare ce week-end ?<br/>B: Bonne idée ! Je cherchais justement une veste de printemps."
     },
-    "related": "ふくや（授業の重要表現）"
+    "related": "ふくや（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0190",
@@ -4560,7 +4797,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, may I try on this jacket?<br/>B: Yes, I will guide you to the fitting room.",
       "fr": "A: Excuse me, may I try on this jacket?<br/>B: Yes, I will guide you to the fitting room."
     },
-    "related": "しちゃく（授業の重要表現）"
+    "related": "しちゃく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0191",
@@ -4584,7 +4822,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I haven't watched that movie yet, so please no spoilers!<br/>B: Sorry, sorry! I won't tell you the ending.",
       "fr": "A: I haven't watched that movie yet, so please no spoilers!<br/>B: Sorry, sorry! I won't tell you the ending."
     },
-    "related": "ネタバレ（授業の重要表現）"
+    "related": "ネタバレ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0192",
@@ -4609,7 +4848,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間cafe嘅蛋糕影相好靚呀！<br/>B: 係呀，我哋影相擺上SNS啦。",
       "fr": "A: Le gâteau de ce café est tellement photogénique !<br/>B: Ouais, prenons une photo et postons-la sur les réseaux sociaux."
     },
-    "related": "インスタ映え（インスタばえ）"
+    "related": "インスタ映え（インスタばえ）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0193",
@@ -4633,7 +4873,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "當踏入一個全新嘅環境，只要俾少少勇氣自己，就會有動力踏出第一步。",
       "fr": "Quand on plonge dans un nouvel environnement, un simple brin de courage suffit pour nous donner l'élan."
     },
-    "related": "ゆうき（授業の重要表現）"
+    "related": "ゆうき（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0194",
@@ -4657,7 +4898,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢條秋刀魚好多油香，好好食！<br/>B: 因為秋天係當造嘅魚，呢個時候食最正。",
       "fr": "A: Ce balaou du Japon est bien gras et tellement bon !<br/>B: C'est un poisson de saison en automne, c'est en ce moment qu'il est le meilleur."
     },
-    "related": "しゅん（授業の重要表現）"
+    "related": "しゅん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0195",
@@ -4681,7 +4923,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下個禮拜一是公眾假期，學校同公司都放假，連埋週末放三日長假。",
       "fr": "Le lundi de la semaine prochaine étant un jour férié, l'école et le travail sont fermés, ce qui fait un week-end de trois jours."
     },
-    "related": "しゅくじつ（授業の重要表現）"
+    "related": "しゅくじつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0196",
@@ -4705,7 +4948,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Happy New Year!<br/>B: Happy New Year! Looking forward to working with you this year as well.",
       "fr": "A: Happy New Year!<br/>B: Happy New Year! Looking forward to working with you this year as well."
     },
-    "related": "しんねん（授業の重要表現）"
+    "related": "しんねん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0197",
@@ -4729,7 +4973,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The stone lanterns lining the shrine approach have such charm.<br/>B: In the evening when lit, they look even more magical.",
       "fr": "A: The stone lanterns lining the shrine approach have such charm.<br/>B: In the evening when lit, they look even more magical."
     },
-    "related": "とうろう（授業の重要表現）"
+    "related": "とうろう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0198",
@@ -4753,7 +4998,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：今次連假一唔一齊去京都旅行呀？<br/>B：一定要去啦！好期待。",
       "fr": "A : Si on partait en voyage à Kyoto ensemble pendant le long week-end ?<br/>B : Absolument, allons-y ! J’ai vraiment hâte."
     },
-    "related": "ぜひ（授業の重要表現）"
+    "related": "ぜひ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0199",
@@ -4777,7 +5023,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 屋企寄咗好多柑嚟，如果你想嘅話攞啲返去食呀？<br/>B: 嘩，真係多謝！咁我唔客氣喇。",
       "fr": "A: Mes parents m'ont envoyé beaucoup de mandarines. Si tu veux, tu peux en emporter chez toi ?<br/>B: Ouah, merci beaucoup ! J'accepte avec plaisir."
     },
-    "related": "もしよかったら（授業の重要表現）"
+    "related": "もしよかったら（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0200",
@@ -4801,7 +5048,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend, I went to the amusement park with my nephew.<br/>B: Your nephew must have been thrilled!",
       "fr": "A: Over the weekend, I went to the amusement park with my nephew.<br/>B: Your nephew must have been thrilled!"
     },
-    "related": "おいっ子（授業の重要表現）"
+    "related": "おいっ子（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0201",
@@ -4825,7 +5073,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I gave stationery as an entrance gift for my niece's elementary school.<br/>B: I'm glad she liked it!",
       "fr": "A: I gave stationery as an entrance gift for my niece's elementary school.<br/>B: I'm glad she liked it!"
     },
-    "related": "めいっ子（授業の重要表現）"
+    "related": "めいっ子（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0202",
@@ -4849,7 +5098,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Who is your favorite member in that idol group?<br/>B: The leader who wears the blue outfit is my favorite!",
       "fr": "A: Who is your favorite member in that idol group?<br/>B: The leader who wears the blue outfit is my favorite!"
     },
-    "related": "おし（授業の重要表現）"
+    "related": "おし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0203",
@@ -4873,7 +5123,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I hear you've been busy on weekends with fan activities.<br/>B: Yes, I enjoy going to concerts and collecting merchandise.",
       "fr": "A: I hear you've been busy on weekends with fan activities.<br/>B: Yes, I enjoy going to concerts and collecting merchandise."
     },
-    "related": "おしかつ（授業の重要表現）"
+    "related": "おしかつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0204",
@@ -4897,7 +5148,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Who do you like most in the group?<br/>B: Everyone is so charming that I can't pick just one; I support the whole group!",
       "fr": "A: Who do you like most in the group?<br/>B: Everyone is so charming that I can't pick just one; I support the whole group!"
     },
-    "related": "はこおし（授業の重要表現）"
+    "related": "はこおし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0205",
@@ -4921,7 +5173,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: His singing voice has such a rich, attractive low pitch.<br/>B: The calm tone feels so comfortable to listen to.",
       "fr": "A: His singing voice has such a rich, attractive low pitch.<br/>B: The calm tone feels so comfortable to listen to."
     },
-    "related": "ていおん（授業の重要表現）"
+    "related": "ていおん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0206",
@@ -4945,7 +5198,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢首歌副歌嘅高音真係好靚呀。<br/>B: 雖然好難唱得好，但把聲真係好清澈。",
       "fr": "A: Les aigus du refrain de cette chanson sont vraiment magnifiques.<br/>B: C'est difficile à chanter, mais la voix est vraiment pure."
     },
-    "related": "こうおん（授業の重要表現）"
+    "related": "こうおん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0207",
@@ -4969,7 +5223,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Which instrument do you play in the brass band?<br/>B: I play a wind instrument called the flute.",
       "fr": "A: Which instrument do you play in the brass band?<br/>B: I play a wind instrument called the flute."
     },
-    "related": "かんがっき（授業の重要表現）"
+    "related": "かんがっき（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0208",
@@ -4993,7 +5248,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The lucky cat ornament displayed in the entrance is cute.<br/>B: It's a decorative object I bought as a souvenir during my trip to Kyoto.",
       "fr": "A: The lucky cat ornament displayed in the entrance is cute.<br/>B: It's a decorative object I bought as a souvenir during my trip to Kyoto."
     },
-    "related": "おきもの（授業の重要表現）"
+    "related": "おきもの（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0209",
@@ -5017,7 +5273,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "工程師團隊而家調查緊成個網絡斷線嘅根本原因。",
       "fr": "L'équipe d'ingénieurs recherche la cause profonde de la coupure de réseau."
     },
-    "related": "げんいん（授業の重要表現）"
+    "related": "げんいん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0210",
@@ -5041,7 +5298,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺樓梯差錯腳跌親整裂咗手腕舊骨，而家用繃帶固定住。",
       "fr": "J'ai trébuché dans l'escalier et je me suis fêlé l'os du poignet, je porte donc un bandage pour l'immobiliser."
     },
-    "related": "ほね（授業の重要表現）"
+    "related": "ほね（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0211",
@@ -5065,7 +5323,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去滑雪跌得好甘斷咗腳骨，呢段時間都要打住石膏過日子。",
       "fr": "J'ai fait une lourde chute au ski et me suis fracturé la jambe, je dois donc garder un plâtre pendant un moment."
     },
-    "related": "こっせつ（授業の重要表現）"
+    "related": "こっせつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0212",
@@ -5089,7 +5348,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My whole body is sore.",
       "fr": "My whole body is sore."
     },
-    "related": "きんにく（授業の重要表現）"
+    "related": "きんにく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0213",
@@ -5113,7 +5373,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'll take some X-rays of your teeth.",
       "fr": "I'll take some X-rays of your teeth."
     },
-    "related": "レントゲン（授業の重要表現）"
+    "related": "レントゲン（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0214",
@@ -5137,7 +5398,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日搬完重嘢，條腰痛到不得了。<br/>B: 試下貼呢張鎮痛貼啦，痛楚會減輕好多㗎。",
       "fr": "A: J'ai très mal au bas du dos après avoir porté des cartons lourds hier.<br/>B: Essaie d'appliquer ce patch antidouleur. Ça va bien te soulager."
     },
-    "related": "しっぷ（授業の重要表現）"
+    "related": "しっぷ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0215",
@@ -5161,7 +5423,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I left my wallet on the train; has any lost property been turned in?<br/>B: Let's check with the station service desk.",
       "fr": "A: I left my wallet on the train; has any lost property been turned in?<br/>B: Let's check with the station service desk."
     },
-    "related": "なくし物（授業の重要表現）"
+    "related": "なくし物（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0216",
@@ -5185,7 +5448,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「我仲有啲發燒未退，今日早啲走先。」「千祈唔好頂硬上呀，返屋企好好休息保重身體啦。」",
       "fr": "'Ma fièvre n'est pas encore tombée, je vais donc partir plus tôt aujourd'hui.' 'Ne forcez pas et prenez bien soin de vous.'"
     },
-    "related": "おだいじに（授業の重要表現）"
+    "related": "おだいじに（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0217",
@@ -5209,7 +5473,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日個考試我順利合格咗！<br/>B: 恭喜你！為咗慶祝今晚等我請食飯啦。",
       "fr": "A: J'ai réussi mon examen d'aujourd'hui sans problème !<br/>B: Félicitations ! Pour fêter ça, je t'invite à dîner ce soir."
     },
-    "related": "おごる（授業の重要表現）"
+    "related": "おごる（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0218",
@@ -5233,7 +5502,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日因為返工壓力大，半夜暴飲暴食食咗拉麵同蛋糕。<br/>B: 我明你心情，不過個胃冇頂住頂住咩？",
       "fr": "A: À cause du stress au travail, je me suis empiffré de ramen et de gâteau au milieu de la nuit hier.<br/>B: Je comprends tout à fait, mais tu n'as pas eu mal à l'estomac après ?"
     },
-    "related": "ばくぐい（授業の重要表現）"
+    "related": "ばくぐい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0219",
@@ -5257,7 +5527,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Yesterday's variety show was so funny!<br/>B: The comedian's talk was so hilarious that I burst out laughing.",
       "fr": "A: Yesterday's variety show was so funny!<br/>B: The comedian's talk was so hilarious that I burst out laughing."
     },
-    "related": "ばくしょう（授業の重要表現）"
+    "related": "ばくしょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0220",
@@ -5281,7 +5552,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We celebrate Tanabata in July.",
       "fr": "We celebrate Tanabata in July."
     },
-    "related": "いわう（授業の重要表現）"
+    "related": "いわう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0221",
@@ -5305,7 +5577,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm moving to a new apartment next month.<br/>B: Oh really! It will be closer to the station and more convenient for commuting.",
       "fr": "A: I'm moving to a new apartment next month.<br/>B: Oh really! It will be closer to the station and more convenient for commuting."
     },
-    "related": "ひっこす・ひっこしをする（授業の重要表現）"
+    "related": "ひっこす・ひっこしをする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0222",
@@ -5329,7 +5602,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: We walked a lot, so I'm hungry.<br/>B: There is a delicious set-meal restaurant nearby, so let's go in!",
       "fr": "A: We walked a lot, so I'm hungry.<br/>B: There is a delicious set-meal restaurant nearby, so let's go in!"
     },
-    "related": "おなかがすきました（授業の重要表現）"
+    "related": "おなかがすきました（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0223",
@@ -5353,7 +5627,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你早餐多數食咩㗎？<br/>B: 趕時間吖嘛，好多時淨係食隻香蕉同飲樽乳酪飲品就算。",
       "fr": "A: Qu'est-ce que tu manges d'habitude pour le petit déjeuner ?<br/>B: Comme je n'ai pas le temps, je me contente souvent d'une banane et d'un yaourt à boire."
     },
-    "related": "のむヨーグルト（授業の重要表現）"
+    "related": "のむヨーグルト（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0224",
@@ -5377,7 +5652,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For yogurt, would you prefer fruit flavor or plain flavor?<br/>B: I'd like the unsweetened plain flavor, please.",
       "fr": "A: For yogurt, would you prefer fruit flavor or plain flavor?<br/>B: I'd like the unsweetened plain flavor, please."
     },
-    "related": "プレーンあじ（授業の重要表現）"
+    "related": "プレーンあじ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0225",
@@ -5401,7 +5677,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個髮型好襯你呀！<br/>B: 多謝！幫我剪開個髮型師提議咗呢個啱我嘅造型。",
       "fr": "A: Cette coupe de cheveux te va à ravir !<br/>B: Merci ! Ma coiffeuse m'a suggéré un style qui m'allait bien."
     },
-    "related": "びようし（授業の重要表現）"
+    "related": "びようし（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0226",
@@ -5425,7 +5702,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "There are many reasons.",
       "fr": "There are many reasons."
     },
-    "related": "いろいろ（授業の重要表現）"
+    "related": "いろいろ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0227",
@@ -5449,7 +5727,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 沖涼水個水溫點呀？會唔會太熱？<br/>B: 唔會，唔凍唔熱啱啱好。",
       "fr": "A: Comment est l'eau du bain ? Elle n'est pas trop chaude ?<br/>B: Non, ni trop tiède ni trop chaude, la température est juste parfaite."
     },
-    "related": "ちょうどいい（授業の重要表現）"
+    "related": "ちょうどいい（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0228",
@@ -5473,7 +5756,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I am truly sorry for keeping you waiting for such a long time.<br/>B: Not at all, I'm glad we could get in touch safely.",
       "fr": "A: I am truly sorry for keeping you waiting for such a long time.<br/>B: Not at all, I'm glad we could get in touch safely."
     },
-    "related": "ながいあいだ（授業の重要表現）"
+    "related": "ながいあいだ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0229",
@@ -5497,7 +5781,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Who will be in charge of this upcoming project?<br/>B: Tanaka from the marketing department will be in charge this time.",
       "fr": "A: Who will be in charge of this upcoming project?<br/>B: Tanaka from the marketing department will be in charge this time."
     },
-    "related": "たんとうする（授業の重要表現）"
+    "related": "たんとうする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0230",
@@ -5521,7 +5806,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This is a non-smoking area, so you cannot smoke cigarettes here.<br/>B: Excuse me, I will move over to the smoking area over there.",
       "fr": "A: This is a non-smoking area, so you cannot smoke cigarettes here.<br/>B: Excuse me, I will move over to the smoking area over there."
     },
-    "related": "タバコをすう（授業の重要表現）"
+    "related": "タバコをすう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0231",
@@ -5545,7 +5831,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The pedestrian light started blinking, so let's not rush across.<br/>B: Agreed, let's wait until the next green light.",
       "fr": "A: The pedestrian light started blinking, so let's not rush across.<br/>B: Agreed, let's wait until the next green light."
     },
-    "related": "てんめつする（授業の重要表現）"
+    "related": "てんめつする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0232",
@@ -5569,7 +5856,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "就算對方做錯事，我都唔會即時鬧人，而係嘗試心平氣和噉好好傾下。",
       "fr": "Même quand l'autre commet une faute, au lieu de m'énerver immédiatement, j'essaie d'en discuter calmement."
     },
-    "related": "おこる（授業の重要表現）"
+    "related": "おこる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0233",
@@ -5593,7 +5881,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The ship wound in and out among the islands.",
       "fr": "The ship wound in and out among the islands."
     },
-    "related": "ぬう（授業の重要表現）"
+    "related": "ぬう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0234",
@@ -5617,7 +5906,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺咁多人面前演講太過緊張，搞到中途講到咬親脷食螺絲。",
       "fr": "J'étais tellement nerveux en parlant devant tout ce monde que j'ai bafouillé au milieu de mon discours."
     },
-    "related": "かむ（授業の重要表現）"
+    "related": "かむ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0235",
@@ -5641,7 +5931,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While strolling in the park, I got bitten a lot by mosquitoes and it's itchy.<br/>B: You should apply some anti-itch cream.",
       "fr": "A: While strolling in the park, I got bitten a lot by mosquitoes and it's itchy.<br/>B: You should apply some anti-itch cream."
     },
-    "related": "かまれる（授業の重要表現）"
+    "related": "かまれる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0236",
@@ -5665,7 +5956,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The operation cannot wait.",
       "fr": "The operation cannot wait."
     },
-    "related": "しゅじゅつ（授業の重要表現）"
+    "related": "しゅじゅつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0237",
@@ -5689,7 +5981,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢平時好似好冷淡，但有人遇到困難佢總係第一個幫手。<br/>B: 典型傲嬌性格吖嘛，只係唔識坦白表達出嚟啫。",
       "fr": "A: Il a l'air distant d'habitude, mais dès que quelqu'un a un problème, il est le premier à aider.<br/>B: C'est un vrai tsundere, il a juste du mal à exprimer honnêtement ses sentiments."
     },
-    "related": "ツンデレ（授業の重要表現）"
+    "related": "ツンデレ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0238",
@@ -5713,7 +6006,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗防止廚餘發出難聞嘅臭味，我用緊個有密閉蓋嘅垃圾桶。",
       "fr": "Pour éviter la mauvaise odeur des déchets organiques, j'utilise une poubelle munie d'un couvercle hermétique."
     },
-    "related": "くさい（授業の重要表現）"
+    "related": "くさい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0239",
@@ -5737,7 +6031,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My mother is a worrier; if I'm even a little late getting home, she calls right away.<br/>B: That just shows how much she cares about family.",
       "fr": "A: My mother is a worrier; if I'm even a little late getting home, she calls right away.<br/>B: That just shows how much she cares about family."
     },
-    "related": "しんぱいしょう（授業の重要表現）"
+    "related": "しんぱいしょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0240",
@@ -5761,7 +6056,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My grandfather has become more forgetful recently, so he is getting tested for dementia.<br/>B: Early detection and receiving proper care is very important.",
       "fr": "A: My grandfather has become more forgetful recently, so he is getting tested for dementia.<br/>B: Early detection and receiving proper care is very important."
     },
-    "related": "にんちしょう（授業の重要表現）"
+    "related": "にんちしょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0241",
@@ -5785,7 +6081,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When rain approaches, I get migraines and my head throbs.<br/>B: It must be the atmospheric pressure change. Rest in a dark room for a while.",
       "fr": "A: When rain approaches, I get migraines and my head throbs.<br/>B: It must be the atmospheric pressure change. Rest in a dark room for a while."
     },
-    "related": "へんずつう（授業の重要表現）"
+    "related": "へんずつう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0242",
@@ -5809,7 +6106,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "These are fully functional.",
       "fr": "These are fully functional."
     },
-    "related": "きのう（授業の重要表現）"
+    "related": "きのう（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0243",
@@ -5833,7 +6135,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日預計要行好多路，所以我著咗對著開最舒服嘅波鞋出門口。",
       "fr": "Comme je prévois de beaucoup marcher aujourd'hui, je mets des baskets confortables que j'ai l'habitude de porter."
     },
-    "related": "はく（授業の重要表現）"
+    "related": "はく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0244",
@@ -5857,7 +6160,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺寒冷嘅冬天朝早，我會喺條頸圍條暖笠笠嘅羊毛頸巾先出門口。",
       "fr": "Par les froids matins d'hiver, j'enroule une chaude écharpe en laine autour de mon cou avant de sortir."
     },
-    "related": "まく（授業の重要表現）"
+    "related": "まく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0245",
@@ -5881,7 +6185,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "出面太陽好猛，出街記得戴頂帽呀。",
       "fr": "Le soleil tape fort, alors pensez à mettre un chapeau en sortant."
     },
-    "related": "かぶる（授業の重要表現）"
+    "related": "かぶる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0246",
@@ -5905,7 +6210,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Carrying a heavy backpack on one's back while walking is tiring.<br/>B: Shall I carry half of your luggage for you?",
       "fr": "A: Carrying a heavy backpack on one's back while walking is tiring.<br/>B: Shall I carry half of your luggage for you?"
     },
-    "related": "せおう（授業の重要表現）"
+    "related": "せおう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0247",
@@ -5929,7 +6235,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 放暑假嗰陣，我想將頭髮染成淺啡色呀。<br/>B: 我諗幾襯你喎！第一次染嘅話去髮型屋搵人染好啲。",
       "fr": "A: Pour les vacances d'été, j'aimerais me teindre les cheveux en châtain clair.<br/>B: Je pense que ça t'irait très bien ! Si c'est ta première coloration, fais-le faire en salon."
     },
-    "related": "かみをそめる（授業の重要表現）"
+    "related": "かみをそめる（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0248",
@@ -5953,7 +6264,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This is an urban legend.",
       "fr": "This is an urban legend."
     },
-    "related": "でんせつ（授業の重要表現）"
+    "related": "でんせつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0249",
@@ -5978,7 +6290,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個番茄好似有啲壞咗。<br/>B: 係喎。雖然可惜，但都係丟咗佢好啲。",
       "fr": "A: Cette tomate semble s'être un peu abîmée.<br/>B: C'est vrai. C'est du gaspillage, mais on ferait mieux de la jeter."
     },
-    "related": "腐る（くさる）"
+    "related": "腐る（くさる）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0250",
@@ -6002,7 +6315,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In winter, the air dries out, so throats tend to get sore easily.<br/>B: Run a humidifier and make sure to stay hydrated.",
       "fr": "A: In winter, the air dries out, so throats tend to get sore easily.<br/>B: Run a humidifier and make sure to stay hydrated."
     },
-    "related": "かんそうする（授業の重要表現）"
+    "related": "かんそうする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0251",
@@ -6026,7 +6340,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He performs in concert halls everywhere as a world-class pianist.<br/>B: He is moving people across borders, isn't he?",
       "fr": "A: He performs in concert halls everywhere as a world-class pianist.<br/>B: He is moving people across borders, isn't he?"
     },
-    "related": "せかいてきな（授業の重要表現）"
+    "related": "せかいてきな（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0252",
@@ -6050,7 +6365,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：已經是深夜了。你有睡眠困難嗎？<br/>B：是啊，明天還早，我睡不好。晚安。",
       "fr": "R : Il est déjà tard dans la nuit. Avez-vous du mal à dormir ?<br/>B : Ouais, il sera tôt demain, donc je ne pourrai pas bien dormir. bonne nuit."
     },
-    "related": "ねぞうがわるい（授業の重要表現）"
+    "related": "ねぞうがわるい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0253",
@@ -6074,7 +6390,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你對波鞋鞋底磨到爛晒喇喎。<br/>B: 著得好舒服我很鍾意㗎，不過睇嚟係時候買過對新嘅。",
       "fr": "A: Ces baskets ont les semelles tellement usées qu'elles sont en lambeaux.<br/>B: Elles étaient si confortables et je les aimais bien, mais il est temps d'en changer."
     },
-    "related": "ボロボロ（授業の重要表現）"
+    "related": "ボロボロ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0254",
@@ -6098,7 +6415,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The beds at this hotel are so comfortable to sleep on.<br/>B: It's quiet and pleasant, so I slept soundly.",
       "fr": "A: The beds at this hotel are so comfortable to sleep on.<br/>B: It's quiet and pleasant, so I slept soundly."
     },
-    "related": "かいてきな（授業の重要表現）"
+    "related": "かいてきな（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0255",
@@ -6122,7 +6440,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He kicks me.",
       "fr": "He kicks me."
     },
-    "related": "ける（授業の重要表現）"
+    "related": "ける（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0256",
@@ -6146,7 +6465,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I can touch the ceiling.",
       "fr": "I can touch the ceiling."
     },
-    "related": "とどく（授業の重要表現）"
+    "related": "とどく（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0257",
@@ -6170,7 +6490,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Sitting at my desk for long hours gave me stiff shoulders.<br/>B: Doing light stretches to move your shoulder blades will relieve it.",
       "fr": "A: Sitting at my desk for long hours gave me stiff shoulders.<br/>B: Doing light stretches to move your shoulder blades will relieve it."
     },
-    "related": "かたがこる（授業の重要表現）"
+    "related": "かたがこる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0258",
@@ -6194,7 +6515,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Can I get a pillow?",
       "fr": "Can I get a pillow?"
     },
-    "related": "まくら（授業の重要表現）"
+    "related": "まくら（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0259",
@@ -6218,7 +6540,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "麵包舖啱啱出爐嘅方包好鬆軟好綿密，食落軟淋淋真係好好食。",
       "fr": "Le pain de mie tout juste sorti du four de la boulangerie est ultra moelleux, très tendre et délicieux."
     },
-    "related": "やわらかい（授業の重要表現）"
+    "related": "やわらかい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0260",
@@ -6242,7 +6565,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "沖完涼持之以恆拉筋拉伸之後，本來好硬嘅筋骨開始慢慢變得柔軟放鬆。",
       "fr": "En m'étirant régulièrement après le bain, mon corps autrefois rigide s'assouplit peu à peu."
     },
-    "related": "かたい（授業の重要表現）"
+    "related": "かたい（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0261",
@@ -6266,7 +6590,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "用地拖將客廳嘅木地板抹到立立令。",
       "fr": "J’ai astiqué le parquet ciré du salon avec une serpillière jusqu’à ce qu’il brille."
     },
-    "related": "ゆか（授業の重要表現）"
+    "related": "ゆか（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0262",
@@ -6290,7 +6615,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今朝睇晨早新聞個星座占卜，我個星座排第一呀！<br/>B: 好好彩頭喎，今日話唔定有好事發生。",
       "fr": "A: J'ai regardé l'horoscope aux infos ce matin, et mon signe était à la première place !<br/>B: C'est de bon augure. Quelque chose de bien pourrait t'arriver aujourd'hui."
     },
-    "related": "うらない（授業の重要表現）"
+    "related": "うらない（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0263",
@@ -6314,7 +6640,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Littering empty cans on the street is bad manners.<br/>B: Let's find a proper trash can or take it home.",
       "fr": "A: Littering empty cans on the street is bad manners.<br/>B: Let's find a proper trash can or take it home."
     },
-    "related": "ポイすて（授業の重要表現）"
+    "related": "ポイすて（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0264",
@@ -6338,7 +6665,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 空氣好清新，夜空啲星星粒粒都閃令令。<br/>B: 真係好靚。喺市區好少機會睇到咁嘅景色。",
       "fr": "A: L'air est si pur, les étoiles scintillent de mille feux dans le ciel nocturne.<br/>B: C'est magnifique. C'est un spectacle qu'on voit rarement en ville."
     },
-    "related": "キラキラ（授業の重要表現）"
+    "related": "キラキラ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0265",
@@ -6362,7 +6690,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "朝早出門口之前，我都會企喺玄關塊大鏡面前照下儀容同著衫。",
       "fr": "Avant de partir le matin, je vérifie ma tenue et mon allure dans le grand miroir de l'entrée."
     },
-    "related": "かがみ（授業の重要表現）"
+    "related": "かがみ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0266",
@@ -6386,7 +6715,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The warehouse was a front for drug traffickers.",
       "fr": "The warehouse was a front for drug traffickers."
     },
-    "related": "そうこ（授業の重要表現）"
+    "related": "そうこ（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0267",
@@ -6410,7 +6744,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
       "fr": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate."
     },
-    "related": "ちょうせいする（授業の重要表現）"
+    "related": "ちょうせいする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0268",
@@ -6434,7 +6769,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you go for the first shrine visit of the New Year with your whole family?<br/>B: Yes, we visited a local shrine and enjoyed osechi food.",
       "fr": "A: Did you go for the first shrine visit of the New Year with your whole family?<br/>B: Yes, we visited a local shrine and enjoyed osechi food."
     },
-    "related": "おしょうがつ（授業の重要表現）"
+    "related": "おしょうがつ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0269",
@@ -6458,7 +6794,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我抽中咗演唱會最頭第一行飛，近到睇得清清楚楚歌手嘅每個表情！",
       "fr": "J'ai décroché des billets au tout premier rang pour le concert, j'ai pu voir les expressions de l'artiste de très près !"
     },
-    "related": "さいぜん（授業の重要表現）"
+    "related": "さいぜん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0270",
@@ -6482,7 +6819,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "There is no other way.",
       "fr": "There is no other way."
     },
-    "related": "ほうほう（授業の重要表現）"
+    "related": "ほうほう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0271",
@@ -6506,7 +6844,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A pregnant woman was standing on the train, so I gave up my seat.<br/>B: That was a very kind and wonderful gesture.",
       "fr": "A: A pregnant woman was standing on the train, so I gave up my seat.<br/>B: That was a very kind and wonderful gesture."
     },
-    "related": "にんぷ（授業の重要表現）"
+    "related": "にんぷ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0272",
@@ -6530,7 +6869,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "政府公佈咗新嘅經濟紓困措施，去支援面對通脹物價高嘅市民生活。",
       "fr": "Le gouvernement a annoncé un nouveau plan économique pour soutenir le pouvoir d'achat des citoyens."
     },
-    "related": "せいふ（授業の重要表現）"
+    "related": "せいふ（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0273",
@@ -6554,7 +6894,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I persuaded my opposing parents and decided on studying abroad in Japan.<br/>B: Your enthusiasm got through and they approved!",
       "fr": "A: I persuaded my opposing parents and decided on studying abroad in Japan.<br/>B: Your enthusiasm got through and they approved!"
     },
-    "related": "せっとくする（授業の重要表現）"
+    "related": "せっとくする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0274",
@@ -6578,7 +6919,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While my parents went shopping, I stayed home alone to watch the house.<br/>B: Good job! Weren't you lonely?",
       "fr": "A: While my parents went shopping, I stayed home alone to watch the house.<br/>B: Good job! Weren't you lonely?"
     },
-    "related": "おるすばん（授業の重要表現）"
+    "related": "おるすばん（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0275",
@@ -6602,7 +6944,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Parents carrying everything for their child might be a bit overprotective.<br/>B: Letting them do what they can by themselves is also good parenting.",
       "fr": "A: Parents carrying everything for their child might be a bit overprotective.<br/>B: Letting them do what they can by themselves is also good parenting."
     },
-    "related": "かほご（授業の重要表現）"
+    "related": "かほご（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0276",
@@ -6626,7 +6969,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Visiting Japanese temples sparked my interest in the history of Buddhism.<br/>B: Concepts like Zen offer many profound teachings.",
       "fr": "A: Visiting Japanese temples sparked my interest in the history of Buddhism.<br/>B: Concepts like Zen offer many profound teachings."
     },
-    "related": "ぶっきょう（授業の重要表現）"
+    "related": "ぶっきょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0277",
@@ -6650,7 +6994,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: European streets have many Christian churches, don't they?<br/>B: The historic stained glass windows are magnificent.",
       "fr": "A: European streets have many Christian churches, don't they?<br/>B: The historic stained glass windows are magnificent."
     },
-    "related": "キリストきょう（授業の重要表現）"
+    "related": "キリストきょう（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0278",
@@ -6674,7 +7019,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This district forms a basin.",
       "fr": "This district forms a basin."
     },
-    "related": "ぼんち（授業の重要表現）"
+    "related": "ぼんち（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0279",
@@ -6698,7 +7044,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My child was too tired to walk, so I carried him on my back on the way home.<br/>B: He must have slept soundly on your back.",
       "fr": "A: My child was too tired to walk, so I carried him on my back on the way home.<br/>B: He must have slept soundly on your back."
     },
-    "related": "おんぶする（授業の重要表現）"
+    "related": "おんぶする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0280",
@@ -6722,7 +7069,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When the baby won't stop crying, hold her gently in your arms.<br/>B: Holding her in my arms seems to reassure her.",
       "fr": "A: When the baby won't stop crying, hold her gently in your arms.<br/>B: Holding her in my arms seems to reassure her."
     },
-    "related": "だっこする（授業の重要表現）"
+    "related": "だっこする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0281",
@@ -6746,7 +7094,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The computer screen froze and won't move; what should I do?<br/>B: Try turning the power off once and restarting it.",
       "fr": "A: The computer screen froze and won't move; what should I do?<br/>B: Try turning the power off once and restarting it."
     },
-    "related": "さいきどうする（授業の重要表現）"
+    "related": "さいきどうする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0282",
@@ -6770,7 +7119,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 對住部電腦咁耐，對眼又乾又攰。<br/>B: 可能太乾喇。滴少少呢隻眼藥水會舒服好多㗎。",
       "fr": "A: À force de rester sur l'ordinateur, mes yeux piquent et sont fatigués.<br/>B: Ils sont peut-être secs. Mettre ces gouttes pour les yeux te fera du bien."
     },
-    "related": "めぐすり（授業の重要表現）"
+    "related": "めぐすり（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0283",
@@ -6794,7 +7144,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As you age, you can't eat greasy food as much compared to the past.<br/>B: Light Japanese meals feel much gentler on the body.",
       "fr": "A: As you age, you can't eat greasy food as much compared to the past.<br/>B: Light Japanese meals feel much gentler on the body."
     },
-    "related": "としをとる（授業の重要表現）"
+    "related": "としをとる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0284",
@@ -6818,7 +7169,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Light is coming through the curtains.",
       "fr": "Light is coming through the curtains."
     },
-    "related": "もれる（授業の重要表現）"
+    "related": "もれる（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0285",
@@ -6842,7 +7194,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：已經是深夜了。很快你又要睡了嗎？<br/>B：嗯，明天還早，我就回去睡了。晚安。",
       "fr": "R : Il est déjà tard dans la nuit. Vas-tu bientôt te rendormir ?<br/>B : Ouais, il sera tôt demain, donc je vais me rendormir. bonne nuit."
     },
-    "related": "にどねする（授業の重要表現）"
+    "related": "にどねする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0286",
@@ -6866,7 +7219,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Paper got jammed in the copy machine; could you take a look?<br/>B: Let's open the cover and clear the jammed paper.",
       "fr": "A: Paper got jammed in the copy machine; could you take a look?<br/>B: Let's open the cover and clear the jammed paper."
     },
-    "related": "コピーき（授業の重要表現）"
+    "related": "コピーき（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0287",
@@ -6890,7 +7244,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you print 20 copies of the handout materials for the meeting?<br/>B: Understood. I will prepare double-sided prints.",
       "fr": "A: Could you print 20 copies of the handout materials for the meeting?<br/>B: Understood. I will prepare double-sided prints."
     },
-    "related": "いんさつする（授業の重要表現）"
+    "related": "いんさつする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0288",
@@ -6914,7 +7269,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The report deadline is tomorrow; have you handed it in yet?<br/>B: Yes, I finished revising and submitted it just now.",
       "fr": "A: The report deadline is tomorrow; have you handed it in yet?<br/>B: Yes, I finished revising and submitted it just now."
     },
-    "related": "ていしゅつする（授業の重要表現）"
+    "related": "ていしゅつする（授業の重要表現）",
+    "studentId": "0012"
   },
   {
     "id": "class_word_0289",
@@ -6938,7 +7294,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, is there a smoking area inside this building?<br/>B: There is a smoking area on the first floor beside the elevator hall.",
       "fr": "A: Excuse me, is there a smoking area inside this building?<br/>B: There is a smoking area on the first floor beside the elevator hall."
     },
-    "related": "きつえんじょ（授業の重要表現）"
+    "related": "きつえんじょ（授業の重要表現）",
+    "studentId": "0012",
+    "studentIds": [
+      "0012",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0290",
@@ -6962,7 +7323,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's a famous song.",
       "fr": "It's a famous song."
     },
-    "related": "ゆうめい（授業の重要表現）"
+    "related": "ゆうめい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0291",
@@ -6986,7 +7348,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I was a freshman last year.",
       "fr": "I was a freshman last year."
     },
-    "related": "きょねん（授業の重要表現）"
+    "related": "きょねん（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0292",
@@ -7010,7 +7377,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Spring is late this year.",
       "fr": "Spring is late this year."
     },
-    "related": "ことし（授業の重要表現）"
+    "related": "ことし（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0293",
@@ -7034,7 +7402,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Next year is the year of the rabbit.",
       "fr": "Next year is the year of the rabbit."
     },
-    "related": "らいねん（授業の重要表現）"
+    "related": "らいねん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0294",
@@ -7058,7 +7427,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "上個禮拜日我同朋友去咗間新開嘅特色咖啡店坐下。",
       "fr": "Dimanche dernier, je suis allé dans un café récemment ouvert avec un ami."
     },
-    "related": "せんしゅう（授業の重要表現）"
+    "related": "せんしゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0295",
@@ -7082,7 +7452,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you free this weekend?",
       "fr": "Are you free this weekend?"
     },
-    "related": "こんしゅう（授業の重要表現）"
+    "related": "こんしゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0296",
@@ -7106,7 +7477,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下個禮拜二要同個好緊要嘅大客傾生意，我要預先印好同準備齊所有資料。",
       "fr": "Nous avons une réunion commerciale importante avec un client mardi prochain, je prépare donc les documents à l'avance."
     },
-    "related": "らいしゅう（授業の重要表現）"
+    "related": "らいしゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0297",
@@ -7130,7 +7502,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The meeting was last month.",
       "fr": "The meeting was last month."
     },
-    "related": "せんげつ（授業の重要表現）"
+    "related": "せんげつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0298",
@@ -7154,7 +7527,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Money's tight for me this month.",
       "fr": "Money's tight for me this month."
     },
-    "related": "こんげつ（授業の重要表現）"
+    "related": "こんげつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0299",
@@ -7178,7 +7552,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下個月有個新project要開始，而家緊密籌備緊當中。",
       "fr": "Un nouveau projet commence le mois prochain, alors j'avance activement dans les préparatifs."
     },
-    "related": "らいげつ（授業の重要表現）"
+    "related": "らいげつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0300",
@@ -7202,7 +7577,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the ranch, pigs and cows were leisurely eating grass.<br/>B: Watching the animals brings peaceful comfort.",
       "fr": "A: At the ranch, pigs and cows were leisurely eating grass.<br/>B: Watching the animals brings peaceful comfort."
     },
-    "related": "ぶた（授業の重要表現）"
+    "related": "ぶた（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0301",
@@ -7226,7 +7602,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚晚餐食咩好？想食啲濃味又夠飽肚嘅嘢。<br/>B: 咁啱啱炸好、脆卜卜嘅日式炸豬扒定食點睇？",
       "fr": "A: Qu'est-ce qu'on mange ce soir ? J'ai envie d'un plat bien consistant.<br/>B: Alors que dis-tu d'un menu tonkatsu bien croustillant et tout juste frit ?"
     },
-    "related": "とんかつ（授業の重要表現）"
+    "related": "とんかつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0302",
@@ -7250,7 +7627,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This ramen shop's signature dish is rich pork bone broth soup.<br/>B: It has deep flavor and coats the thin noodles so well!",
       "fr": "A: This ramen shop's signature dish is rich pork bone broth soup.<br/>B: It has deep flavor and coats the thin noodles so well!"
     },
-    "related": "とんこつ（授業の重要表現）"
+    "related": "とんこつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0303",
@@ -7274,7 +7652,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你看過這部劇的第一集嗎？<br/>B：是的，這真的很有趣，從第一集就吸引了我。",
       "fr": "A : Avez-vous vu le premier épisode du drama ?<br/>B : Oui, c'était vraiment intéressant et m'a attiré dès le premier épisode."
     },
-    "related": "〜わ（授業の重要表現）"
+    "related": "〜わ（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0304",
@@ -7298,7 +7681,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每逢春天，城堡周圍櫻花盛開，吸引好多人去賞花熱鬧非常。",
       "fr": "Au printemps, de magnifiques cerisiers fleurissent tout autour du château, attirant beaucoup de promeneurs."
     },
-    "related": "しろ（授業の重要表現）"
+    "related": "しろ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0305",
@@ -7322,7 +7706,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你旅行的時候去過著名的大阪城嗎？<br/>B：是的，天守閣非常令人印象深刻！",
       "fr": "A : Êtes-vous allé au célèbre château d’Osaka lors de votre voyage ?<br/>B : Oui, la tour du château était très impressionnante !"
     },
-    "related": "〜じょう（授業の重要表現）"
+    "related": "〜じょう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0306",
@@ -7346,7 +7731,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Let's review Lesson 5.",
       "fr": "Let's review Lesson 5."
     },
-    "related": "ふくしゅう（授業の重要表現）"
+    "related": "ふくしゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0307",
@@ -7370,7 +7756,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I secured the Shinkansen ticket for the outbound journey; what about the return?<br/>B: Let's reserve the return ticket together.",
       "fr": "A: I secured the Shinkansen ticket for the outbound journey; what about the return?<br/>B: Let's reserve the return ticket together."
     },
-    "related": "おうろ（授業の重要表現）"
+    "related": "おうろ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0308",
@@ -7395,7 +7782,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 馬拉松比賽嘅回程風好大呀。<br/>B: 係呀，行前好困難呀。",
       "fr": "A: Le vent était fort sur le trajet de retour du marathon.<br/>B: Ouais, c'était vraiment difficile d'avancer."
     },
-    "related": "往路（おうろ） ⇄ 復路（ふくろ）"
+    "related": "往路（おうろ） ⇄ 復路（ふくろ）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0309",
@@ -7419,7 +7807,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's the round-trip fare?",
       "fr": "What's the round-trip fare?"
     },
-    "related": "おうふく（授業の重要表現）"
+    "related": "おうふく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0310",
@@ -7443,7 +7832,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Among Japan's seasons, which is your favorite?<br/>B: I like autumn best because it's cool and the fall leaves are gorgeous.",
       "fr": "A: Among Japan's seasons, which is your favorite?<br/>B: I like autumn best because it's cool and the fall leaves are gorgeous."
     },
-    "related": "いちばんすき（授業の重要表現）"
+    "related": "いちばんすき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0311",
@@ -7467,7 +7857,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This cafe's matcha latte is my absolute favorite go-to drink.<br/>B: Slightly bitter and not too sweet—it's truly delicious.",
       "fr": "A: This cafe's matcha latte is my absolute favorite go-to drink.<br/>B: Slightly bitter and not too sweet—it's truly delicious."
     },
-    "related": "おきにいり（授業の重要表現）"
+    "related": "おきにいり（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0312",
@@ -7491,7 +7882,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗過得健康啲，我盡量少啲出去食外賣，日日自己煮飯。",
       "fr": "Pour mener une vie saine, je réduis les sorties au restaurant et je cuisine moi-même chaque jour."
     },
-    "related": "りょうりをする（授業の重要表現）"
+    "related": "りょうりをする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0313",
@@ -7515,7 +7907,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tonight I plan to cook at home and make a meal.<br/>B: What are you making? Homemade meals are great.",
       "fr": "A: Tonight I plan to cook at home and make a meal.<br/>B: What are you making? Homemade meals are great."
     },
-    "related": "ごはんをつくる（授業の重要表現）"
+    "related": "ごはんをつくる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0314",
@@ -7539,7 +7932,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'll give you a ring every night.",
       "fr": "I'll give you a ring every night."
     },
-    "related": "まいばん（授業の重要表現）"
+    "related": "まいばん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0315",
@@ -7563,7 +7957,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The meat is frozen.",
       "fr": "The meat is frozen."
     },
-    "related": "れいとう（授業の重要表現）"
+    "related": "れいとう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0316",
@@ -7587,7 +7982,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The room has gotten hot; may I turn on the air conditioner?<br/>B: Yes, please set it to 26 degrees using the remote.",
       "fr": "A: The room has gotten hot; may I turn on the air conditioner?<br/>B: Yes, please set it to 26 degrees using the remote."
     },
-    "related": "エアコン（授業の重要表現）"
+    "related": "エアコン（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0317",
@@ -7611,7 +8007,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Anything having form will someday break.",
       "fr": "Anything having form will someday break."
     },
-    "related": "こわれる（授業の重要表現）"
+    "related": "こわれる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0318",
@@ -7635,7 +8032,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "落大雪搞到火車停駛，返屋企條路真係好艱辛波折。",
       "fr": "Le train s'est arrêté à cause de la neige abondante, le retour à la maison a été très pénible."
     },
-    "related": "たいへん（授業の重要表現）"
+    "related": "たいへん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0319",
@@ -7659,7 +8057,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is hard to please.",
       "fr": "He is hard to please."
     },
-    "related": "むずかしい（授業の重要表現）"
+    "related": "むずかしい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0320",
@@ -7683,7 +8082,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：唔好意思想問下，你今年幾多歲呀？<br/>B：我今個月啱啱好28歲。",
       "fr": "A : Si ce n’est pas indiscret, quel âge avez-vous ?<br/>B : J’ai eu 28 ans ce mois-ci."
     },
-    "related": "おいくつですか？（授業の重要表現）"
+    "related": "おいくつですか？（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0321",
@@ -7707,7 +8107,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每日都好錫住戴住父母送畀我嘅就職禮物手錶。",
       "fr": "Je porte précieusement chaque jour la montre que mes parents m’ont offerte pour mon nouvel emploi."
     },
-    "related": "とけい（授業の重要表現）"
+    "related": "とけい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0322",
@@ -7731,7 +8132,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：這塊錶是日本製造的嗎？<br/>B：是的，它是日本製造的，品質非常高。",
       "fr": "A : Cette montre est-elle fabriquée au Japon ?<br/>B : Oui, il est fabriqué au Japon et est de très haute qualité."
     },
-    "related": "〜せい（授業の重要表現）"
+    "related": "〜せい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0323",
@@ -7755,7 +8157,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I have a bike.",
       "fr": "I have a bike."
     },
-    "related": "じてんしゃ（授業の重要表現）"
+    "related": "じてんしゃ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0324",
@@ -7779,7 +8182,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The umbrella I forgot on the train was safely found!<br/>B: That's great! It was an important umbrella for you.",
       "fr": "A: The umbrella I forgot on the train was safely found!<br/>B: That's great! It was an important umbrella for you."
     },
-    "related": "よかったです（授業の重要表現）"
+    "related": "よかったです（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0325",
@@ -7803,7 +8207,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "食咗好多好嘢，飽到成個肚脹晒好滿足。",
       "fr": "J’ai mangé plein de bonnes choses, j’ai le ventre plein et je suis comblé."
     },
-    "related": "いっぱい（授業の重要表現）"
+    "related": "いっぱい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0326",
@@ -7827,7 +8232,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I really enjoy the climate.",
       "fr": "I really enjoy the climate."
     },
-    "related": "かいてき（授業の重要表現）"
+    "related": "かいてき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0327",
@@ -7851,7 +8257,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over 1,000 people gathered for today's festival.<br/>B: It had tremendous excitement and lively energy!",
       "fr": "A: Over 1,000 people gathered for today's festival.<br/>B: It had tremendous excitement and lively energy!"
     },
-    "related": "せんにん（授業の重要表現）"
+    "related": "せんにん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0328",
@@ -7875,7 +8282,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: That wristwatch has such a simple, elegant design.<br/>B: It's an important watch given by my parents to celebrate getting my job.",
       "fr": "A: That wristwatch has such a simple, elegant design.<br/>B: It's an important watch given by my parents to celebrate getting my job."
     },
-    "related": "うでどけい（授業の重要表現）"
+    "related": "うでどけい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0329",
@@ -7899,7 +8307,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "房入面個掛牆鐘停咗，所以我換咗粒新電。",
       "fr": "L’horloge murale de la pièce s’étant arrêtée, j’ai remplacé la pile."
     },
-    "related": "とけい（授業の重要表現）"
+    "related": "とけい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0330",
@@ -7923,7 +8332,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you decided on your travel destination?<br/>B: As long as there's a hot spring, anywhere is fine by me!",
       "fr": "A: Have you decided on your travel destination?<br/>B: As long as there's a hot spring, anywhere is fine by me!"
     },
-    "related": "どこでも（授業の重要表現）"
+    "related": "どこでも（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0331",
@@ -7948,7 +8358,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 生日禮物想要啲咩？<br/>B: 咩都得！有心意我已經好開心啦。",
       "fr": "A: Que veux-tu comme cadeau d'anniversaire ?<br/>B: N'importe quoi ! L'intention me suffit."
     },
-    "related": "何も（なにも）"
+    "related": "何も（なにも）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0332",
@@ -7972,7 +8383,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like tea or coffee?<br/>B: Whichever is fine. Please brew whichever you prefer.",
       "fr": "A: Would you like tea or coffee?<br/>B: Whichever is fine. Please brew whichever you prefer."
     },
-    "related": "どっちでも（授業の重要表現）"
+    "related": "どっちでも（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0333",
@@ -7996,7 +8408,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I dropped my smartphone and the screen cracked.<br/>B: Let's back it up while the touch controls still work.",
       "fr": "A: I dropped my smartphone and the screen cracked.<br/>B: Let's back it up while the touch controls still work."
     },
-    "related": "がめん（授業の重要表現）"
+    "related": "がめん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0334",
@@ -8020,7 +8433,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On my day off, I spent all day long reading books at home.<br/>B: Losing yourself in books without watching the clock is quite a luxury.",
       "fr": "A: On my day off, I spent all day long reading books at home.<br/>B: Losing yourself in books without watching the clock is quite a luxury."
     },
-    "related": "いちにちじゅう（授業の重要表現）"
+    "related": "いちにちじゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0335",
@@ -8044,7 +8458,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When we go to the amusement park, let's ride the giant Ferris wheel!<br/>B: I heard the night view of the city from the very top is stunning.",
       "fr": "A: When we go to the amusement park, let's ride the giant Ferris wheel!<br/>B: I heard the night view of the city from the very top is stunning."
     },
-    "related": "かんらんしゃ（授業の重要表現）"
+    "related": "かんらんしゃ（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0336",
@@ -8068,7 +8487,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm taking a photo, so stay still for a second.<br/>B: Okay, I'll stay completely still and pose!",
       "fr": "A: I'm taking a photo, so stay still for a second.<br/>B: Okay, I'll stay completely still and pose!"
     },
-    "related": "じっとしている（授業の重要表現）"
+    "related": "じっとしている（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0337",
@@ -8092,7 +8516,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The noes have it.",
       "fr": "The noes have it."
     },
-    "related": "はんたい（授業の重要表現）"
+    "related": "はんたい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0338",
@@ -8116,7 +8541,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Mornings and evenings are a bit chilly, so I wore a long-sleeved shirt.<br/>B: Having an extra layer during seasonal transitions gives peace of mind.",
       "fr": "A: Mornings and evenings are a bit chilly, so I wore a long-sleeved shirt.<br/>B: Having an extra layer during seasonal transitions gives peace of mind."
     },
-    "related": "ながそで（授業の重要表現）"
+    "related": "ながそで（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0339",
@@ -8140,7 +8566,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On scorching summer days, you sweat non-stop even in short sleeves.<br/>B: Let's drink water frequently so we don't get heat stroke.",
       "fr": "A: On scorching summer days, you sweat non-stop even in short sleeves.<br/>B: Let's drink water frequently so we don't get heat stroke."
     },
-    "related": "はんそで（授業の重要表現）"
+    "related": "はんそで（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0340",
@@ -8164,7 +8591,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I like the sun.",
       "fr": "I like the sun."
     },
-    "related": "たいよう（授業の重要表現）"
+    "related": "たいよう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0341",
@@ -8188,7 +8616,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：今日東京最高溫度有幾多度呀？<br/>B：天氣預報話會升到32度㗎。",
       "fr": "A : Quelle est la température maximale à Tokyo aujourd’hui ?<br/>B : On prévoit qu’elle atteindra 32 degrés."
     },
-    "related": "なんどですか？（授業の重要表現）"
+    "related": "なんどですか？（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0342",
@@ -8212,7 +8641,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's very humid in Japan.",
       "fr": "It's very humid in Japan."
     },
-    "related": "しつど（授業の重要表現）"
+    "related": "しつど（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0343",
@@ -8236,7 +8666,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺日本一到咗6月就會入梅雨季節，落連場雨嘅日子會變多。",
       "fr": "Au Japon, la saison des pluies commence en juin, avec de nombreux jours pluvieux."
     },
-    "related": "つゆ（授業の重要表現）"
+    "related": "つゆ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0344",
@@ -8260,7 +8691,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日氣溫過咗35度真係好熱，記得隨時飲多啲水補充水分呀。",
       "fr": "La température a dépassé les 35 degrés aujourd'hui et il fait très chaud, pensez à vous hydrater régulièrement."
     },
-    "related": "あつい（授業の重要表現）"
+    "related": "あつい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0345",
@@ -8284,7 +8716,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今朝好大風好凍，所以我圍咗條厚頸巾先出門口。",
       "fr": "Le vent soufflait fort et il faisait très froid ce matin, alors j’ai mis une écharpe épaisse pour sortir."
     },
-    "related": "さむい（授業の重要表現）"
+    "related": "さむい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0346",
@@ -8308,7 +8741,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺Cafe飲咗杯好味嘅咖啡，好舒服咁抖咗一陣。",
       "fr": "J’ai bu une tasse de bon café au salon de thé et j’ai pu souffler un instant."
     },
-    "related": "いっぱい（授業の重要表現）"
+    "related": "いっぱい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0347",
@@ -8332,7 +8766,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Opinions opposing the plan due to costs have also come up.<br/>B: Let's review it again and present an alternative proposal.",
       "fr": "A: Opinions opposing the plan due to costs have also come up.<br/>B: Let's review it again and present an alternative proposal."
     },
-    "related": "はんたいする（授業の重要表現）"
+    "related": "はんたいする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0348",
@@ -8356,7 +8791,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "因為我拎轉咗張地圖，行咗去同目的地完全相反嘅方向。",
       "fr": "Comme je tenais le plan à l'envers, je marchais dans la direction opposée à ma destination."
     },
-    "related": "ぎゃく（授業の重要表現）"
+    "related": "ぎゃく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0349",
@@ -8380,7 +8816,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you going to vote?",
       "fr": "Are you going to vote?"
     },
-    "related": "とうひょう（授業の重要表現）"
+    "related": "とうひょう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0350",
@@ -8404,7 +8841,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：聽說你在這次比賽中獲得第一名了！<br/>乙：謝謝！我從來沒有想過我能夠獲得第一名。",
       "fr": "R : J'ai entendu dire que vous aviez été sélectionné en première position dans ce concours !<br/>B : Merci ! Je n'aurais jamais pensé que je pourrais arriver à la première place."
     },
-    "related": "〜い（授業の重要表現）"
+    "related": "〜い（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0351",
@@ -8428,7 +8866,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As a hobby, I am collecting commemorative stamps from across Japan.<br/>B: There are so many designs; it's fun just looking at them.",
       "fr": "A: As a hobby, I am collecting commemorative stamps from across Japan.<br/>B: There are so many designs; it's fun just looking at them."
     },
-    "related": "あつめています（授業の重要表現）"
+    "related": "あつめています（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0352",
@@ -8452,7 +8891,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日嘅壽喜燒，我哋準備咗好軟熟高級嘅日本國產牛肉。",
       "fr": "Pour le sukiyaki d'aujourd'hui, nous avons préparé du bœuf japonais tendre et de grande qualité."
     },
-    "related": "ぎゅうにく（授業の重要表現）"
+    "related": "ぎゅうにく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0353",
@@ -8476,7 +8916,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今晚晚飯，我會用新鮮豬肉同洋蔥煮日式生薑燒肉。",
       "fr": "Ce soir pour le dîner, je vais préparer du porc au gingembre avec du porc frais et des oignons."
     },
-    "related": "ぶたにく（授業の重要表現）"
+    "related": "ぶたにく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0354",
@@ -8500,7 +8941,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咖喱要落嘅肉用牛肉定豬肉好？<br/>B: 今日健康啲，落雞肉煮雞肉咖喱啦。",
       "fr": "A: Pour la viande dans le curry, on met du bœuf ou du porc ?<br/>B: Faisons plus léger aujourd'hui et utilisons du poulet pour un curry de poulet."
     },
-    "related": "とりにく（授業の重要表現）"
+    "related": "とりにく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0355",
@@ -8524,7 +8966,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At sushi restaurants, I especially like tuna and shrimp.<br/>B: Both plump boiled shrimp and sweet shrimp are delicious.",
       "fr": "A: At sushi restaurants, I especially like tuna and shrimp.<br/>B: Both plump boiled shrimp and sweet shrimp are delicious."
     },
-    "related": "えび（授業の重要表現）"
+    "related": "えび（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0356",
@@ -8548,7 +8991,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In old Japan, a wolf called the Japanese wolf used to live here, right?<br/>B: Yes, it is said they went extinct during the Meiji period.",
       "fr": "A: In old Japan, a wolf called the Japanese wolf used to live here, right?<br/>B: Yes, it is said they went extinct during the Meiji period."
     },
-    "related": "おおかみ（授業の重要表現）"
+    "related": "おおかみ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0357",
@@ -8572,7 +9016,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你最近身型實淨咗好多喎！係咪做緊運動？<br/>B: 我開始咗一個禮拜去三次gym做重訓健身。",
       "fr": "A: Tu as l'air plus affûté ces derniers temps ! Tu fais du sport ?<br/>B: J'ai commencé à aller à la salle trois fois par semaine pour faire de la musculation."
     },
-    "related": "きんトレ（授業の重要表現）"
+    "related": "きんトレ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0358",
@@ -8596,7 +9041,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "搬屋搬咗好多重嘢，搞到成條腰同對手都好痠痛。",
       "fr": "À force de porter de lourds cartons de déménagement, j'ai des courbatures aux bras et au dos."
     },
-    "related": "きんにくつう（授業の重要表現）"
+    "related": "きんにくつう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0359",
@@ -8620,7 +9066,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you join any club activities during your school days?<br/>B: Yes, I was in the basketball club in junior high and high school.",
       "fr": "A: Did you join any club activities during your school days?<br/>B: Yes, I was in the basketball club in junior high and high school."
     },
-    "related": "ぶかつ（授業の重要表現）"
+    "related": "ぶかつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0360",
@@ -8644,7 +9091,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I bet Dave paid a pretty penny for his new car.",
       "fr": "I bet Dave paid a pretty penny for his new car."
     },
-    "related": "かける（授業の重要表現）"
+    "related": "かける（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0361",
@@ -8668,7 +9116,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: High school students and younger can view the permanent exhibition free of charge.<br/>B: Being able to view masterpieces for free is a wonderful policy.",
       "fr": "A: High school students and younger can view the permanent exhibition free of charge.<br/>B: Being able to view masterpieces for free is a wonderful policy."
     },
-    "related": "むりょう・タダ（授業の重要表現）"
+    "related": "むりょう・タダ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0362",
@@ -8692,7 +9141,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After school, we practice badminton in the gymnasium.<br/>B: Exercising freely in a spacious gym feels invigorating.",
       "fr": "A: After school, we practice badminton in the gymnasium.<br/>B: Exercising freely in a spacious gym feels invigorating."
     },
-    "related": "たいいくかん（授業の重要表現）"
+    "related": "たいいくかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0363",
@@ -8716,7 +9166,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Will you participate in the community volunteer event this weekend?<br/>B: Yes, I plan to join together with a friend.",
       "fr": "A: Will you participate in the community volunteer event this weekend?<br/>B: Yes, I plan to join together with a friend."
     },
-    "related": "さんかする（授業の重要表現）"
+    "related": "さんかする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0364",
@@ -8740,7 +9191,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "大學畢業之後想讀Master上去研究所，深入研究人工智能。",
       "fr": "Après mes études universitaires, je souhaite poursuivre en école doctorale pour approfondir mes recherches en IA."
     },
-    "related": "だいがくいん（授業の重要表現）"
+    "related": "だいがくいん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0365",
@@ -8764,7 +9216,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After watching the movie, shall we grab tea at a cafe?<br/>B: Agreed! Let's chat leisurely about our impressions.",
       "fr": "A: After watching the movie, shall we grab tea at a cafe?<br/>B: Agreed! Let's chat leisurely about our impressions."
     },
-    "related": "そのあと（授業の重要表現）"
+    "related": "そのあと（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0366",
@@ -8788,7 +9241,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢間日式定食小店喺午市嗰陣，可以免費幫你將個麵加大。",
       "fr": "Ce restaurant de menus propose gratuitement une grande portion de nouilles pendant le déjeuner."
     },
-    "related": "おおもり（授業の重要表現）"
+    "related": "おおもり（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0367",
@@ -8812,7 +9266,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I went to the gym for the first time in a week and worked up a sweat.<br/>B: Working out regularly really makes your body feel lighter.",
       "fr": "A: I went to the gym for the first time in a week and worked up a sweat.<br/>B: Working out regularly really makes your body feel lighter."
     },
-    "related": "いっしゅうかんぶり（授業の重要表現）"
+    "related": "いっしゅうかんぶり（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0368",
@@ -8836,7 +9291,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I reunited with my best friend studying abroad for the first time in a year!<br/>B: You must have had so much to catch up on!",
       "fr": "A: I reunited with my best friend studying abroad for the first time in a year!<br/>B: You must have had so much to catch up on!"
     },
-    "related": "いちねんぶり（授業の重要表現）"
+    "related": "いちねんぶり（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0369",
@@ -8860,7 +9316,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Did you watch the game?",
       "fr": "Did you watch the game?"
     },
-    "related": "しあい（授業の重要表現）"
+    "related": "しあい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0370",
@@ -8884,7 +9341,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today's match was a close game, but we won spectacularly at the end!<br/>B: Congratulations on winning! That was a fantastic match.",
       "fr": "A: Today's match was a close game, but we won spectacularly at the end!<br/>B: Congratulations on winning! That was a fantastic match."
     },
-    "related": "かつ・かちます（授業の重要表現）"
+    "related": "かつ・かちます（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0371",
@@ -8908,7 +9366,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Losing in the final match was very frustrating.<br/>B: You gave it your all, so be proud of your efforts!",
       "fr": "A: Losing in the final match was very frustrating.<br/>B: You gave it your all, so be proud of your efforts!"
     },
-    "related": "まける・まけます（授業の重要表現）"
+    "related": "まける・まけます（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0372",
@@ -8932,7 +9391,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's five in the evening.",
       "fr": "It's five in the evening."
     },
-    "related": "ゆうがた（授業の重要表現）"
+    "related": "ゆうがた（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0373",
@@ -8956,7 +9416,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每日持之以恆努力溫書，終於喺日文考試攞到好成績。",
       "fr": "Grâce à mes efforts réguliers chaque jour, j'ai pu obtenir de bonnes notes au test de japonais."
     },
-    "related": "せいせき（授業の重要表現）"
+    "related": "せいせき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0374",
@@ -8980,7 +9441,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Regarding tomorrow's presentation prep, are you confident?<br/>B: I practiced many times, so I am confident I can speak well!",
       "fr": "A: Regarding tomorrow's presentation prep, are you confident?<br/>B: I practiced many times, so I am confident I can speak well!"
     },
-    "related": "じしんがある（授業の重要表現）"
+    "related": "じしんがある（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0375",
@@ -9004,7 +9466,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was able to give directions in Japanese and gained some confidence.<br/>B: When you successfully communicate, it's gratifying and encouraging.",
       "fr": "A: I was able to give directions in Japanese and gained some confidence.<br/>B: When you successfully communicate, it's gratifying and encouraging."
     },
-    "related": "じしんがつく（授業の重要表現）"
+    "related": "じしんがつく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0376",
@@ -9028,7 +9491,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：聽日個演講比賽我好緊張，好驚會出錯。<br/>B：你練咗咁多次，對自己有信心啲啦！",
       "fr": "A : Je suis stressé pour le concours d’éloquence de demain, j’ai peur d’échouer.<br/>B : Tu t’es tellement entraîné, aie confiance en toi !"
     },
-    "related": "じしんをもってください（授業の重要表現）"
+    "related": "じしんをもってください（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0377",
@@ -9052,7 +9520,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We're at the museum.",
       "fr": "We're at the museum."
     },
-    "related": "はくぶつかん（授業の重要表現）"
+    "related": "はくぶつかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0378",
@@ -9076,7 +9545,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We went to the museum.",
       "fr": "We went to the museum."
     },
-    "related": "びじゅつかん（授業の重要表現）"
+    "related": "びじゅつかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0379",
@@ -9100,7 +9570,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "That's a church.",
       "fr": "That's a church."
     },
-    "related": "きょうかい（授業の重要表現）"
+    "related": "きょうかい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0380",
@@ -9124,7 +9595,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Music is universal.",
       "fr": "Music is universal."
     },
-    "related": "こっきょう（授業の重要表現）"
+    "related": "こっきょう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0381",
@@ -9148,7 +9620,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm all in a dither about the concert.",
       "fr": "I'm all in a dither about the concert."
     },
-    "related": "えんそう（授業の重要表現）"
+    "related": "えんそう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0382",
@@ -9172,7 +9645,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I bought a lot of merchandise of my favorite star at the venue!<br/>B: Seeing your favorite's smile really gives you energy, right?",
       "fr": "A: I bought a lot of merchandise of my favorite star at the venue!<br/>B: Seeing your favorite's smile really gives you energy, right?"
     },
-    "related": "おし（授業の重要表現）"
+    "related": "おし（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0383",
@@ -9196,7 +9670,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺鋼琴演奏會上面，我彈奏咗練習咗幾個月、自己最鍾意嘅曲目。",
       "fr": "Lors du récital de piano, j'ai joué mon morceau préféré que j'avais répété pendant des mois."
     },
-    "related": "きょく（授業の重要表現）"
+    "related": "きょく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0384",
@@ -9220,7 +9695,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Sales of limited sweets are on a first-come, first-served basis, so please line up early.<br/>B: Let's hurry before they sell out!",
       "fr": "A: Sales of limited sweets are on a first-come, first-served basis, so please line up early.<br/>B: Let's hurry before they sell out!"
     },
-    "related": "せんちゃくじゅん（授業の重要表現）"
+    "related": "せんちゃくじゅん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0385",
@@ -9244,7 +9720,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A draw is held for those who have participated in our survey. Every month, thirty people will be chosen at random and presented with a gift voucher to the value of 10,000 Yen.",
       "fr": "A draw is held for those who have participated in our survey. Every month, thirty people will be chosen at random and presented with a gift voucher to the value of 10,000 Yen."
     },
-    "related": "ちゅうせん（授業の重要表現）"
+    "related": "ちゅうせん（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0386",
@@ -9268,7 +9749,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Good luck!",
       "fr": "Good luck!"
     },
-    "related": "こううん（授業の重要表現）"
+    "related": "こううん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0387",
@@ -9292,7 +9774,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：是什麼讓你開始學習日文的？<br/>B：這一切都是因為我喜歡日本動漫和文化而開始的。",
       "fr": "A : Qu’est-ce qui vous a poussé à commencer à étudier le japonais ?<br/>B : Tout a commencé parce que j’adorais l’anime et la culture japonaise."
     },
-    "related": "きっかけ（授業の重要表現）"
+    "related": "きっかけ（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0388",
@@ -9316,7 +9803,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For health reasons, I started strength training every morning at the gym.<br/>B: Building muscle improves metabolism and helps reduce fatigue.",
       "fr": "A: For health reasons, I started strength training every morning at the gym.<br/>B: Building muscle improves metabolism and helps reduce fatigue."
     },
-    "related": "きんトレ（授業の重要表現）"
+    "related": "きんトレ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0389",
@@ -9340,7 +9828,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 想練胸肌嘅話，做咩動作最有效？<br/>B: 初學者建議先由掌上壓開始練起。",
       "fr": "A: Quel entraînement est le plus efficace pour développer les pectoraux ?<br/>B: Si vous êtes débutant, je vous conseille de commencer par des pompes."
     },
-    "related": "むねきん（授業の重要表現）"
+    "related": "むねきん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0390",
@@ -9364,7 +9853,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You have got a lot of nerve.",
       "fr": "You have got a lot of nerve."
     },
-    "related": "むね（授業の重要表現）"
+    "related": "むね（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0391",
@@ -9388,7 +9878,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I learned programming through self-study and completed an app.<br/>B: Building it completely on your own without a teacher is amazing!",
       "fr": "A: I learned programming through self-study and completed an app.<br/>B: Building it completely on your own without a teacher is amazing!"
     },
-    "related": "どくがく（授業の重要表現）"
+    "related": "どくがく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0392",
@@ -9412,7 +9903,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺淺草或者京都等旅遊景點，經常見到好多外國遊客體驗同欣賞日本文化。",
       "fr": "Dans des sites touristiques comme Asakusa ou Kyoto, on croise de nombreux touristes étrangers qui découvrent la culture japonaise."
     },
-    "related": "がいこくじん（授業の重要表現）"
+    "related": "がいこくじん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0393",
@@ -9436,7 +9928,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：他是作為交換生來日本的嗎？<br/>B：是的，我是一名活躍的大學研究員。",
       "fr": "A : Est-il venu au Japon dans le cadre d'un échange étudiant ?<br/>B : Oui, je suis actif en tant que chercheur universitaire."
     },
-    "related": "〜として（授業の重要表現）"
+    "related": "〜として（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0394",
@@ -9460,7 +9953,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "America is a land of immigrants.",
       "fr": "America is a land of immigrants."
     },
-    "related": "いみん（授業の重要表現）"
+    "related": "いみん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0395",
@@ -9484,7 +9978,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 歷史堂學咗啲咩呀？<br/>B: 我哋學咗過去嘅時代同埋和平嘅重要性。",
       "fr": "A: Qu'avez-vous appris en cours d'histoire ?<br/>B: Nous avons étudié les époques passées et l'importance de la paix."
     },
-    "related": "せんそう（授業の重要表現）"
+    "related": "せんそう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0396",
@@ -9508,7 +10003,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Because it is there.",
       "fr": "Because it is there."
     },
-    "related": "なぜなら（授業の重要表現）"
+    "related": "なぜなら（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0397",
@@ -9532,7 +10028,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Don't listen to gossip.",
       "fr": "Don't listen to gossip."
     },
-    "related": "かす（授業の重要表現）"
+    "related": "かす（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0398",
@@ -9556,7 +10053,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗放假可以好好睇書，我去咗附近圖書館借咗三本熱門小說返嚟睇。",
       "fr": "Pour lire tranquillement ce week-end, j'ai emprunté trois romans populaires à la bibliothèque du quartier."
     },
-    "related": "かりる（授業の重要表現）"
+    "related": "かりる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0399",
@@ -9580,7 +10078,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If it starts raining, then why don't we go to an indoor art museum?<br/>B: Great idea, let's do that!",
       "fr": "A: If it starts raining, then why don't we go to an indoor art museum?<br/>B: Great idea, let's do that!"
     },
-    "related": "そしたら（授業の重要表現）"
+    "related": "そしたら（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0400",
@@ -9604,7 +10103,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard the train is delayed.<br/>B: If that's the case, taking the bus might get us there faster.",
       "fr": "A: I heard the train is delayed.<br/>B: If that's the case, taking the bus might get us there faster."
     },
-    "related": "もしそうなら（授業の重要表現）"
+    "related": "もしそうなら（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0401",
@@ -9628,7 +10128,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I confessed my sin.",
       "fr": "I confessed my sin."
     },
-    "related": "こくはく（授業の重要表現）"
+    "related": "こくはく（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0402",
@@ -9652,7 +10157,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Nowadays more couples are choosing common-law marriage without officially registering.<br/>B: It's a form of partnership suited to their own values.",
       "fr": "A: Nowadays more couples are choosing common-law marriage without officially registering.<br/>B: It's a form of partnership suited to their own values."
     },
-    "related": "じじつこん（授業の重要表現）"
+    "related": "じじつこん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0403",
@@ -9676,7 +10182,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗大家嘅將來傾過好多次，最後決定和平離婚。",
       "fr": "Après de longues discussions pour l’avenir de chacun, ils ont décidé de divorcer à l’amiable."
     },
-    "related": "りこん（授業の重要表現）"
+    "related": "りこん（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0404",
@@ -9700,7 +10211,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Celebrate the revolution memorial day!",
       "fr": "Celebrate the revolution memorial day!"
     },
-    "related": "かくめい（授業の重要表現）"
+    "related": "かくめい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0405",
@@ -9724,7 +10236,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我哋將大家嘅重要紀念日MARK定喺月曆上面，每年都好用心慶祝。",
       "fr": "Nous notons nos anniversaires sur le calendrier et prenons soin de les célébrer chaleureusement chaque année."
     },
-    "related": "きねんび（授業の重要表現）"
+    "related": "きねんび（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0406",
@@ -9748,7 +10261,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗預防附近有火警，平時都有留意滅火筒放喺邊。",
       "fr": "En cas d’incendie dans le quartier, je vérifie régulièrement où se trouvent les extincteurs."
     },
-    "related": "かじ（授業の重要表現）"
+    "related": "かじ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0407",
@@ -9772,7 +10286,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He risked his life to save her.",
       "fr": "He risked his life to save her."
     },
-    "related": "すくう（授業の重要表現）"
+    "related": "すくう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0408",
@@ -9796,7 +10311,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This dish can be made quickly with simple ingredients.<br/>B: Delicious and hassle-free is the best.",
       "fr": "A: This dish can be made quickly with simple ingredients.<br/>B: Delicious and hassle-free is the best."
     },
-    "related": "かんたんな（授業の重要表現）"
+    "related": "かんたんな（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0409",
@@ -9820,7 +10336,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The portrait I drew turned out a little ugly.<br/>B: Not at all! It has character and is very charming.",
       "fr": "A: The portrait I drew turned out a little ugly.<br/>B: Not at all! It has character and is very charming."
     },
-    "related": "ブサイク（授業の重要表現）"
+    "related": "ブサイク（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0410",
@@ -9844,7 +10361,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a baseball player.",
       "fr": "He is a baseball player."
     },
-    "related": "せんしゅ（授業の重要表現）"
+    "related": "せんしゅ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0411",
@@ -9868,7 +10386,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Eco-friendly new technology is attracting attention worldwide.<br/>B: It might help solve future energy challenges.",
       "fr": "A: Eco-friendly new technology is attracting attention worldwide.<br/>B: It might help solve future energy challenges."
     },
-    "related": "ちゅうもくする（授業の重要表現）"
+    "related": "ちゅうもくする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0412",
@@ -9892,7 +10411,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Making too many self-sacrifices for the team is concerning.<br/>B: While supporting others, they should also take care of their own health.",
       "fr": "A: Making too many self-sacrifices for the team is concerning.<br/>B: While supporting others, they should also take care of their own health."
     },
-    "related": "じこぎせい（授業の重要表現）"
+    "related": "じこぎせい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0413",
@@ -9916,7 +10436,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you eat enough to be full?<br/>B: Yes, it was plenty and satisfying. Thank you for the meal!",
       "fr": "A: Did you eat enough to be full?<br/>B: Yes, it was plenty and satisfying. Thank you for the meal!"
     },
-    "related": "じゅうぶん・じゅうぶん（授業の重要表現）"
+    "related": "じゅうぶん・じゅうぶん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0414",
@@ -9940,7 +10461,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Delicious staff meals are provided at the izakaya where I work part-time.<br/>B: Being able to eat chef's homemade staff meals is a great perk.",
       "fr": "A: Delicious staff meals are provided at the izakaya where I work part-time.<br/>B: Being able to eat chef's homemade staff meals is a great perk."
     },
-    "related": "まかない（授業の重要表現）"
+    "related": "まかない（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0415",
@@ -9964,7 +10486,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Can this park's parking lot be used free of charge?<br/>B: Yes, it's free to park, making it perfect for a drive.",
       "fr": "A: Can this park's parking lot be used free of charge?<br/>B: Yes, it's free to park, making it perfect for a drive."
     },
-    "related": "むりょう・タダ（授業の重要表現）"
+    "related": "むりょう・タダ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0416",
@@ -9988,7 +10511,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you have a student fare?",
       "fr": "Do you have a student fare?"
     },
-    "related": "わりびき（授業の重要表現）"
+    "related": "わりびき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0417",
@@ -10013,7 +10537,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我今日去唔到啦。<br/>B: 吓，我難得特登抽空㗎。",
       "fr": "A: Désolé, je ne pourrai pas venir aujourd'hui.<br/>B: Oh, alors que j'avais pris la peine de libérer mon emploi du temps."
     },
-    "related": "わざわざ"
+    "related": "わざわざ",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0418",
@@ -10037,7 +10566,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：呢個用日文點樣講呀？<br/>B：嗰個叫「ホッチキス（釘書機）」㗎。",
       "fr": "A : Comment appelle-t-on ceci en japonais ?<br/>B : On appelle cela une \"hotchikisu\" (agrafeuse)."
     },
-    "related": "なんといいますか？（授業の重要表現）"
+    "related": "なんといいますか？（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0419",
@@ -10061,7 +10591,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many hours does it take from Tokyo to Osaka by Shinkansen?<br/>B: It arrives in about two and a half hours.",
       "fr": "A: How many hours does it take from Tokyo to Osaka by Shinkansen?<br/>B: It arrives in about two and a half hours."
     },
-    "related": "なんじかん（授業の重要表現）"
+    "related": "なんじかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0420",
@@ -10085,7 +10616,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many days is your Hokkaido trip schedule?<br/>B: It's planned for 4 days and 3 nights of relaxed sightseeing.",
       "fr": "A: How many days is your Hokkaido trip schedule?<br/>B: It's planned for 4 days and 3 nights of relaxed sightseeing."
     },
-    "related": "なんにちかん（授業の重要表現）"
+    "related": "なんにちかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0421",
@@ -10109,7 +10641,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many months do you plan to attend the Japanese language school?<br/>B: I intend to study there for half a year, about 6 months.",
       "fr": "A: How many months do you plan to attend the Japanese language school?<br/>B: I intend to study there for half a year, about 6 months."
     },
-    "related": "何ヶなんかげつかん（授業の重要表現）"
+    "related": "何ヶなんかげつかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0422",
@@ -10133,7 +10666,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Sounds from the next room are bothering me a bit.<br/>B: If it bothers you and prevents sleep, earplugs are helpful.",
       "fr": "A: Sounds from the next room are bothering me a bit.<br/>B: If it bothers you and prevents sleep, earplugs are helpful."
     },
-    "related": "きになる（授業の重要表現）"
+    "related": "きになる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0423",
@@ -10157,7 +10691,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "答：早上第一件事就是微笑著說“對不起”，感覺很好。<br/>B：是的，我們都可以輕鬆地開始新的一天。",
       "fr": "R : Ça fait du bien de sourire et de dire « excusez-moi » dès le matin.<br/>B : Oui, nous pouvons tous les deux commencer la journée confortablement."
     },
-    "related": "しつれい（授業の重要表現）"
+    "related": "しつれい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0424",
@@ -10181,7 +10716,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: We've decided on our orders, so let's call the waiter.<br/>B: Excuse me, we are ready to order!",
       "fr": "A: We've decided on our orders, so let's call the waiter.<br/>B: Excuse me, we are ready to order!"
     },
-    "related": "ウェイター（授業の重要表現）"
+    "related": "ウェイター（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0425",
@@ -10205,7 +10741,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's the real goal?",
       "fr": "What's the real goal?"
     },
-    "related": "もくひょう（授業の重要表現）"
+    "related": "もくひょう（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0426",
@@ -10229,7 +10770,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm going to do an apprenticeship.",
       "fr": "I'm going to do an apprenticeship."
     },
-    "related": "じっしゅう（授業の重要表現）"
+    "related": "じっしゅう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0427",
@@ -10253,7 +10795,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I safely passed the exam I was worried about!<br/>B: I'm so glad! Your hard work paid off.",
       "fr": "A: I safely passed the exam I was worried about!<br/>B: I'm so glad! Your hard work paid off."
     },
-    "related": "よかったです（授業の重要表現）"
+    "related": "よかったです（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0428",
@@ -10277,7 +10820,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We all stood up at once.",
       "fr": "We all stood up at once."
     },
-    "related": "どうじ（授業の重要表現）"
+    "related": "どうじ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0429",
@@ -10301,7 +10845,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I bump into her.",
       "fr": "I bump into her."
     },
-    "related": "であう（授業の重要表現）"
+    "related": "であう（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0430",
@@ -10325,7 +10874,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Did you see the rainbow this morning?",
       "fr": "Did you see the rainbow this morning?"
     },
-    "related": "けさ（授業の重要表現）"
+    "related": "けさ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0431",
@@ -10349,7 +10899,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's a difficult word.",
       "fr": "It's a difficult word."
     },
-    "related": "たんご（授業の重要表現）"
+    "related": "たんご（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0432",
@@ -10373,7 +10924,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Twice two is equal to four.",
       "fr": "Twice two is equal to four."
     },
-    "related": "ばい（授業の重要表現）"
+    "related": "ばい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0433",
@@ -10397,7 +10949,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺舊生聚會見返中學最好嘅朋友，大家講返以前啲嘢傾得好開心。",
       "fr": "Lors de la réunion des anciens élèves, j’ai retrouvé après longtemps mon meilleur ami du lycée et nous avons évoqué nos souvenirs avec émotion."
     },
-    "related": "ひさしぶり（授業の重要表現）"
+    "related": "ひさしぶり（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0434",
@@ -10421,7 +10974,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you sleep well last night?<br/>B: Yes, last night was cool so I slept deeply until morning.",
       "fr": "A: Did you sleep well last night?<br/>B: Yes, last night was cool so I slept deeply until morning."
     },
-    "related": "さくや・さくばん（授業の重要表現）"
+    "related": "さくや・さくばん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0435",
@@ -10445,7 +10999,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like to have a hot-pot party together tonight?<br/>B: Sounds fun! Looking forward to tonight.",
       "fr": "A: Would you like to have a hot-pot party together tonight?<br/>B: Sounds fun! Looking forward to tonight."
     },
-    "related": "こんや・こんばん（授業の重要表現）"
+    "related": "こんや・こんばん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0436",
@@ -10469,7 +11024,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you have any musical hobbies?<br/>B: Every weekend, I play my favorite piano at home.",
       "fr": "A: Do you have any musical hobbies?<br/>B: Every weekend, I play my favorite piano at home."
     },
-    "related": "〜をひきます（授業の重要表現）"
+    "related": "〜をひきます（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0437",
@@ -10493,7 +11049,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：「一期一會」係咩意思呀？<br/>B：即係「一生得一次嘅珍貴相遇」咁解。",
       "fr": "A : Que signifie \"Ichigo Ichie\" ?<br/>B : Cela signifie \"une rencontre unique dans une vie\"."
     },
-    "related": "どういういみですか？（授業の重要表現）"
+    "related": "どういういみですか？（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0438",
@@ -10517,7 +11074,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你搬去日本住之後，過咗幾耐呀？<br/>B：啱啱好滿兩年喇。",
       "fr": "A : Depuis combien de temps vivez-vous au Japon ?<br/>B : Cela fait exactement deux ans."
     },
-    "related": "どれくらいたちましたか？（授業の重要表現）"
+    "related": "どれくらいたちましたか？（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0439",
@@ -10541,7 +11099,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Which delivery time slot would you prefer for your package?<br/>B: Please deliver between the 18:00 to 20:00 time slot in the evening.",
       "fr": "A: Which delivery time slot would you prefer for your package?<br/>B: Please deliver between the 18:00 to 20:00 time slot in the evening."
     },
-    "related": "じかんたい（授業の重要表現）"
+    "related": "じかんたい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0440",
@@ -10565,7 +11124,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today's purchase total comes to 3,500 yen altogether.<br/>B: I will pay by credit card.",
       "fr": "A: Today's purchase total comes to 3,500 yen altogether.<br/>B: I will pay by credit card."
     },
-    "related": "ぜんぶで（授業の重要表現）"
+    "related": "ぜんぶで（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0441",
@@ -10589,7 +11149,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I have no face to turn to.",
       "fr": "I have no face to turn to."
     },
-    "related": "あわせる（授業の重要表現）"
+    "related": "あわせる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0442",
@@ -10613,7 +11174,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Combining admission and lunch, how much was it altogether?<br/>B: Combined for both of us, it was 4,000 yen.",
       "fr": "A: Combining admission and lunch, how much was it altogether?<br/>B: Combined for both of us, it was 4,000 yen."
     },
-    "related": "あわせて（授業の重要表現）"
+    "related": "あわせて（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0443",
@@ -10638,7 +11200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間餐廳好食吖。<br/>B: 係呀，上次嚟嗰陣都覺得好好呀。",
       "fr": "A: Ce restaurant est délicieux, n'est-ce pas ?<br/>B: Oui, c'était vraiment bon la dernière fois qu'on est venus aussi."
     },
-    "related": "今回（こんかい）"
+    "related": "今回（こんかい）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0444",
@@ -10662,7 +11225,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I won't do it this time.",
       "fr": "I won't do it this time."
     },
-    "related": "こんかい（授業の重要表現）"
+    "related": "こんかい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0445",
@@ -10686,7 +11250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today's lesson was great too. When would you like next time to be?<br/>B: For next time, next Tuesday at the same time, please.",
       "fr": "A: Today's lesson was great too. When would you like next time to be?<br/>B: For next time, next Tuesday at the same time, please."
     },
-    "related": "じかい（授業の重要表現）"
+    "related": "じかい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0446",
@@ -10710,7 +11275,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "年尾啲deadline全部疊埋一齊好忙，不過我會睇實身體繼續頂住。",
       "fr": "En fin d'année, les échéances s'accumulent et c'est très intense, mais je prends soin de ma santé et fais de mon mieux."
     },
-    "related": "いそがしい（授業の重要表現）"
+    "related": "いそがしい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0447",
@@ -10734,7 +11300,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like to try extra-spicy ramen?<br/>B: I can't handle spicy food, so no thanks!",
       "fr": "A: Would you like to try extra-spicy ramen?<br/>B: I can't handle spicy food, so no thanks!"
     },
-    "related": "いやです（授業の重要表現）"
+    "related": "いやです（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0448",
@@ -10758,7 +11325,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你兒子現在幾年級？<br/>B：今年春天我開始上小學三年級了。",
       "fr": "A : Dans quelle classe est votre fils actuellement ?<br/>B : J'ai commencé la troisième année à l'école primaire ce printemps."
     },
-    "related": "〜ねんせい（授業の重要表現）"
+    "related": "〜ねんせい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0449",
@@ -10782,7 +11350,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢一邊返工一邊讀夜校讀Master，順利攞咗個MBA學位。",
       "fr": "Tout en travaillant, il a suivi des cours du soir à l’université et a obtenu un MBA."
     },
-    "related": "だいがくいん（授業の重要表現）"
+    "related": "だいがくいん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0450",
@@ -10806,7 +11375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好彩平時搏命溫書，終於順利入讀我夢寐以求嘅第一志願大學。",
       "fr": "Grâce à mon travail acharné, j'ai pu intégrer avec succès l'université de mes rêves, mon premier choix."
     },
-    "related": "にゅうがくする（授業の重要表現）"
+    "related": "にゅうがくする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0451",
@@ -10830,7 +11400,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I plan to graduate from university next spring.<br/>B: Congratulations on graduating! It's great that your job is lined up too.",
       "fr": "A: I plan to graduate from university next spring.<br/>B: Congratulations on graduating! It's great that your job is lined up too."
     },
-    "related": "そつぎょうする（授業の重要表現）"
+    "related": "そつぎょうする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0452",
@@ -10854,7 +11425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you decided on your graduation thesis topic yet?<br/>B: I am writing my thesis on traditional Japanese culture.",
       "fr": "A: Have you decided on your graduation thesis topic yet?<br/>B: I am writing my thesis on traditional Japanese culture."
     },
-    "related": "そつぎょうろんぶん（授業の重要表現）"
+    "related": "そつぎょうろんぶん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0453",
@@ -10878,7 +11450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What time does the concert begin?<br/>B: The show begins at 6:00 PM.",
       "fr": "A: What time does the concert begin?<br/>B: The show begins at 6:00 PM."
     },
-    "related": "はじまります（授業の重要表現）"
+    "related": "はじまります（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0454",
@@ -10902,7 +11475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Everyone has gathered, so I will start the meeting.<br/>B: Looking forward to working with you.",
       "fr": "A: Everyone has gathered, so I will start the meeting.<br/>B: Looking forward to working with you."
     },
-    "related": "はじめます（授業の重要表現）"
+    "related": "はじめます（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0455",
@@ -10926,7 +11500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：下次會議我們該討論什麼？<br/>B：我們來詳細討論一個新專案的計劃。",
       "fr": "A : De quoi devrions-nous discuter lors de la prochaine réunion ?<br/>B : Discutons en détail des plans d’un nouveau projet."
     },
-    "related": "〜について（授業の重要表現）"
+    "related": "〜について（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0456",
@@ -10950,7 +11525,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：你學日文多久了？<br/>B：我已經學習了整整三個月了。",
       "fr": "A : Depuis combien de temps étudiez-vous le japonais ?<br/>B : J'étudie depuis exactement trois mois."
     },
-    "related": "〜かげつかん（授業の重要表現）"
+    "related": "〜かげつかん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0457",
@@ -10974,7 +11550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Through study abroad life, I experienced various different cultures.<br/>B: Understanding different perspectives broadens one's horizons.",
       "fr": "A: Through study abroad life, I experienced various different cultures.<br/>B: Understanding different perspectives broadens one's horizons."
     },
-    "related": "いぶんか（授業の重要表現）"
+    "related": "いぶんか（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0458",
@@ -10998,7 +11575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "His thesis leaves nothing to be desired.",
       "fr": "His thesis leaves nothing to be desired."
     },
-    "related": "ろんぶん（授業の重要表現）"
+    "related": "ろんぶん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0459",
@@ -11022,7 +11600,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's on its last legs.",
       "fr": "It's on its last legs."
     },
-    "related": "じゅみょう（授業の重要表現）"
+    "related": "じゅみょう（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0460",
@@ -11046,7 +11629,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗保持健康，我平日飲食好均衡，仲堅持每日行路快步走半個鐘頭。",
       "fr": "Pour garder la santé, je veille à avoir une alimentation équilibrée et je marche 30 minutes chaque jour."
     },
-    "related": "けんこう（授業の重要表現）"
+    "related": "けんこう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0461",
@@ -11070,7 +11654,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To prevent dementia in my grandmother, we encourage daily puzzles and walks.<br/>B: Using your fingertips and mind is a very good habit.",
       "fr": "A: To prevent dementia in my grandmother, we encourage daily puzzles and walks.<br/>B: Using your fingertips and mind is a very good habit."
     },
-    "related": "にんちしょう（授業の重要表現）"
+    "related": "にんちしょう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0462",
@@ -11094,7 +11679,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "阿爺阿嫲最期待就係週末見到啲得意乖孫過嚟玩。",
       "fr": "Mes grands-parents attendent par-dessus tout que leurs adorables petits-enfants viennent jouer le week-end."
     },
-    "related": "まご（授業の重要表現）"
+    "related": "まご（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0463",
@@ -11118,7 +11708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a medical student.",
       "fr": "He is a medical student."
     },
-    "related": "いがく（授業の重要表現）"
+    "related": "いがく（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0464",
@@ -11142,7 +11733,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "醫療科技日新月異嘅進步，令到好多以前難醫嘅病都可以醫得返。",
       "fr": "Grâce aux progrès remarquables de la technologie médicale, de nombreuses maladies incurables peuvent désormais être soignées."
     },
-    "related": "しんぽ（授業の重要表現）"
+    "related": "しんぽ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0465",
@@ -11166,7 +11758,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My grandfather lived a long, healthy life up to 100 years old.<br/>B: Living a long, healthy life is truly a blessing.",
       "fr": "A: My grandfather lived a long, healthy life up to 100 years old.<br/>B: Living a long, healthy life is truly a blessing."
     },
-    "related": "ながいき（授業の重要表現）"
+    "related": "ながいき（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0466",
@@ -11190,7 +11787,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I saw someone giving up their seat to an elderly person on the bus.<br/>B: That is such a thoughtful and warm scene.",
       "fr": "A: I saw someone giving up their seat to an elderly person on the bus.<br/>B: That is such a thoughtful and warm scene."
     },
-    "related": "おとしより（授業の重要表現）"
+    "related": "おとしより（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0467",
@@ -11214,7 +11812,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 架火車愈嚟愈逼喇。呢度係關愛座，不如企返起身啦？<br/>B: 好呀，有長者或者大肚婆上車就可以即刻讓畀人。",
       "fr": "A: Le train commence à être bondé. Ce sont des sièges prioritaires, on ferait mieux de se lever ?<br/>B: Tu as raison. Comme ça, les personnes âgées ou enceintes pourront s'asseoir directement."
     },
-    "related": "ゆうせんせき（授業の重要表現）"
+    "related": "ゆうせんせき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0468",
@@ -11238,7 +11837,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She is not less than thirty.",
       "fr": "She is not less than thirty."
     },
-    "related": "すくなくとも（授業の重要表現）"
+    "related": "すくなくとも（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0469",
@@ -11262,7 +11862,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "That movie stinks!",
       "fr": "That movie stinks!"
     },
-    "related": "さいてい（授業の重要表現）"
+    "related": "さいてい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0470",
@@ -11287,7 +11888,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講你爺爺住咗院？<br/>B: 係呀，好似話要做癌症手術。",
       "fr": "A: J'ai entendu dire que ton grand-père a été hospitalisé ?<br/>B: Oui, il semble qu'il va se faire opérer d'un cancer."
     },
-    "related": "病気（びょうき）"
+    "related": "病気（びょうき）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0471",
@@ -11311,7 +11913,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many countries have you traveled to so far?<br/>B: Combining Asia and Europe, I have traveled to 10 countries.",
       "fr": "A: How many countries have you traveled to so far?<br/>B: Combining Asia and Europe, I have traveled to 10 countries."
     },
-    "related": "〜かこく（授業の重要表現）"
+    "related": "〜かこく（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0472",
@@ -11335,7 +11942,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I changed the sentence.",
       "fr": "I changed the sentence."
     },
-    "related": "へんこう（授業の重要表現）"
+    "related": "へんこう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0473",
@@ -11359,7 +11967,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Was the commuter pass you dropped at the station found?<br/>B: Unfortunately it was not found yet. I will get it reissued.",
       "fr": "A: Was the commuter pass you dropped at the station found?<br/>B: Unfortunately it was not found yet. I will get it reissued."
     },
-    "related": "みつからなかった・みつかりませんでした（授業の重要表現）"
+    "related": "みつからなかった・みつかりませんでした（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0474",
@@ -11383,7 +11992,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard a live-action version movie of my favorite anime is releasing.<br/>B: The cast fits the roles well, so I'm excited to watch it!",
       "fr": "A: I heard a live-action version movie of my favorite anime is releasing.<br/>B: The cast fits the roles well, so I'm excited to watch it!"
     },
-    "related": "じっしゃばん（授業の重要表現）"
+    "related": "じっしゃばん（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0475",
@@ -11407,7 +12021,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 手跣跌咗成疊文件喺地下添！<br/>B: 冇事嘛？啲紙散到成地都係，我同你一齊執返啦。",
       "fr": "A: Mes mains ont glissé et j'ai fait tomber la pile de documents !<br/>B: Ça va ? Les feuilles sont éparpillées partout par terre, je t'aide à les ramasser."
     },
-    "related": "バラバラ（授業の重要表現）"
+    "related": "バラバラ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0476",
@@ -11431,7 +12046,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Falling in love is one thing; getting married is another.",
       "fr": "Falling in love is one thing; getting married is another."
     },
-    "related": "れんあい（授業の重要表現）"
+    "related": "れんあい（授業の重要表現）",
+    "studentId": "0011",
+    "studentIds": [
+      "0011",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0477",
@@ -11455,7 +12075,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢部智能電話嘅最大特色，就係喺好暗嘅地方都影得出好清嘅相片。",
       "fr": "Le grand point fort de ce smartphone est son appareil photo qui prend des clichés très nets même dans l'obscurité."
     },
-    "related": "とくちょう（授業の重要表現）"
+    "related": "とくちょう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0478",
@@ -11479,7 +12100,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I play an important part.",
       "fr": "I play an important part."
     },
-    "related": "えんじる（授業の重要表現）"
+    "related": "えんじる（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0479",
@@ -11503,7 +12125,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "劇團演員逼真嘅演技，令全場觀眾都睇到停唔到口。",
       "fr": "L’ensemble du public retenait son souffle, captivé par le jeu magistral des comédiens."
     },
-    "related": "えんぎ（授業の重要表現）"
+    "related": "えんぎ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0480",
@@ -11527,7 +12150,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: She has been cast to appear in the next stage production.<br/>B: I definitely want to go see her perform as the lead.",
       "fr": "A: She has been cast to appear in the next stage production.<br/>B: I definitely want to go see her perform as the lead."
     },
-    "related": "しゅつえんする（授業の重要表現）"
+    "related": "しゅつえんする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0481",
@@ -11551,7 +12175,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A professional baseball player who performed for years is retiring after this season.<br/>B: He gave such great plays, so his retirement feels bittersweet.",
       "fr": "A: A professional baseball player who performed for years is retiring after this season.<br/>B: He gave such great plays, so his retirement feels bittersweet."
     },
-    "related": "いんたいする（授業の重要表現）"
+    "related": "いんたいする（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0482",
@@ -11575,7 +12200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's an excellent composition.",
       "fr": "It's an excellent composition."
     },
-    "related": "さくひん（授業の重要表現）"
+    "related": "さくひん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0483",
@@ -11599,7 +12225,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He has an aptitude for painting.",
       "fr": "He has an aptitude for painting."
     },
-    "related": "さいのう（授業の重要表現）"
+    "related": "さいのう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0484",
@@ -11623,7 +12250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you prefer meat dishes or fish dishes?<br/>B: Today I prefer fish dishes for something lighter.",
       "fr": "A: Would you prefer meat dishes or fish dishes?<br/>B: Today I prefer fish dishes for something lighter."
     },
-    "related": "〜のほうがすきです（授業の重要表現）"
+    "related": "〜のほうがすきです（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0485",
@@ -11647,7 +12275,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I will battle with illness.",
       "fr": "I will battle with illness."
     },
-    "related": "びょうき（授業の重要表現）"
+    "related": "びょうき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0486",
@@ -11671,7 +12300,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you interested in modern art?",
       "fr": "Are you interested in modern art?"
     },
-    "related": "びじゅつ（授業の重要表現）"
+    "related": "びじゅつ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0487",
@@ -11695,7 +12325,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "期末考成績單派返嚟喇，連平時最弱嗰科嘅分數都進步咗。",
       "fr": "Le bulletin des examens finaux est arrivé et mes notes dans ma matière faible ont aussi augmenté."
     },
-    "related": "せいせき（授業の重要表現）"
+    "related": "せいせき（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0488",
@@ -11719,7 +12350,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many hours did it take from Tokyo to Hakata by Shinkansen?<br/>B: Taking the Nozomi, it took about 5 hours.",
       "fr": "A: How many hours did it take from Tokyo to Hakata by Shinkansen?<br/>B: Taking the Nozomi, it took about 5 hours."
     },
-    "related": "〜じかんかかりました（授業の重要表現）"
+    "related": "〜じかんかかりました（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0489",
@@ -11743,7 +12375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你最鍾意咩顏色呀？<br/>B: 我最鍾意藍色。",
       "fr": "A: Quelle couleur préférez-vous ?<br/>B: J'aime la couleur bleue."
     },
-    "related": "いろ（授業の重要表現）"
+    "related": "いろ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0490",
@@ -11767,7 +12400,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I like both of them.",
       "fr": "I like both of them."
     },
-    "related": "りょうほう（授業の重要表現）"
+    "related": "りょうほう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0491",
@@ -11791,7 +12425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Aren't you nervous for the actual speech contest?<br/>B: I practiced my speech every night, so I am confident!",
       "fr": "A: Aren't you nervous for the actual speech contest?<br/>B: I practiced my speech every night, so I am confident!"
     },
-    "related": "じしんがあります（授業の重要表現）"
+    "related": "じしんがあります（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0492",
@@ -11815,7 +12450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I went to see the ruins of an old factory deep in the forest.<br/>B: It conveys history, but be careful as there's danger of collapse.",
       "fr": "A: I went to see the ruins of an old factory deep in the forest.<br/>B: It conveys history, but be careful as there's danger of collapse."
     },
-    "related": "はいきょ（授業の重要表現）"
+    "related": "はいきょ（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0493",
@@ -11839,7 +12475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They went on an expedition to the North Pole.",
       "fr": "They went on an expedition to the North Pole."
     },
-    "related": "たんけん（授業の重要表現）"
+    "related": "たんけん（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0494",
@@ -11864,7 +12501,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嘩，房入面有隻大蜘蛛呀！<br/>B: 係喎，我哋放佢出去外面啦。",
       "fr": "A: Ouah, il y a une grosse araignée dans la chambre !<br/>B: C'est vrai, faisons-la sortir."
     },
-    "related": "巣（す）"
+    "related": "巣（す）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0495",
@@ -11888,7 +12526,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Like knows like.",
       "fr": "Like knows like."
     },
-    "related": "えいゆう（授業の重要表現）"
+    "related": "えいゆう（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0496",
@@ -11912,7 +12551,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While eating bread on the park bench, pigeons gathered around.<br/>B: They're used to people and walk right up to your feet.",
       "fr": "A: While eating bread on the park bench, pigeons gathered around.<br/>B: They're used to people and walk right up to your feet."
     },
-    "related": "はと（授業の重要表現）"
+    "related": "はと（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0497",
@@ -11936,7 +12576,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 同一間公司出兩款差唔多嘅新產品，會唔會自己人打自己人搶客？<br/>B: 冇錯。我哋一定要將目標客層分得清清楚楚。",
       "fr": "A: Si notre entreprise lance deux produits très similaires, les ventes ne risquent-elles pas de se cannibaliser ?<br/>B: Tout à fait. Nous devons cibler des clientèles bien distinctes."
     },
-    "related": "ともぐい（授業の重要表現）"
+    "related": "ともぐい（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0498",
@@ -11960,7 +12601,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Walking around all day made the soles of my feet ache.<br/>B: Massaging the soles of your feet after a bath will relieve fatigue.",
       "fr": "A: Walking around all day made the soles of my feet ache.<br/>B: Massaging the soles of your feet after a bath will relieve fatigue."
     },
-    "related": "あしのうら / あしうら（授業の重要表現）"
+    "related": "あしのうら / あしうら（授業の重要表現）",
+    "studentId": "0011"
   },
   {
     "id": "class_word_0499",
@@ -11984,7 +12626,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Welcome! How many people in your party?<br/>B: Two people. Non-smoking seats, please.",
       "fr": "A: Welcome! How many people in your party?<br/>B: Two people. Non-smoking seats, please."
     },
-    "related": "いらっしゃいませ（授業の重要表現）"
+    "related": "いらっしゃいませ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0500",
@@ -12008,7 +12651,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Welcome to Japan! Were you tired from the long trip?<br/>B: Thank you! I've wanted to come to Japan for a long time, so I'm excited.",
       "fr": "A: Welcome to Japan! Were you tired from the long trip?<br/>B: Thank you! I've wanted to come to Japan for a long time, so I'm excited."
     },
-    "related": "「〜へようこそ」の形で使います（来訪者を歓迎する表現）。"
+    "related": "「〜へようこそ」の形で使います（来訪者を歓迎する表現）。",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0501",
@@ -12032,7 +12676,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, could I have a glass of cold water?<br/>B: Yes, I will bring you some water right away.",
       "fr": "A: Excuse me, could I have a glass of cold water?<br/>B: Yes, I will bring you some water right away."
     },
-    "related": "おみず（授業の重要表現）"
+    "related": "おみず（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0502",
@@ -12056,7 +12701,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's time for tea.",
       "fr": "It's time for tea."
     },
-    "related": "おちゃ（授業の重要表現）"
+    "related": "おちゃ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0503",
@@ -12080,7 +12726,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Your Japanese pronunciation is very good!<br/>B: Thank you. I will practice to become even better.",
       "fr": "A: Your Japanese pronunciation is very good!<br/>B: Thank you. I will practice to become even better."
     },
-    "related": "じょうずです（授業の重要表現）"
+    "related": "じょうずです（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0504",
@@ -12104,7 +12751,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：呢句諺語嘅真正意思係咩呀？<br/>B：即係話「只要肯努力就一定會有回報」咁解。",
       "fr": "A : Quelle est la véritable signification de ce proverbe ?<br/>B : Cela signifie que les efforts finissent toujours par payer."
     },
-    "related": "いみはなんですか（授業の重要表現）"
+    "related": "いみはなんですか（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0505",
@@ -12128,7 +12776,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "用咗好耐電腦對眼有少少攰，所以望下遠處嘅綠色植物放鬆下。",
       "fr": "Mes yeux étant un peu fatigués après avoir travaillé longtemps sur ordinateur, j’ai regardé la verdure au loin."
     },
-    "related": "すこし（授業の重要表現）"
+    "related": "すこし（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0506",
@@ -12152,7 +12801,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢成日都帶住甜美開朗嘅笑容同人打招呼，令身邊嘅人都好有正能量。",
       "fr": "Elle dit toujours bonjour avec un sourire éclatant, ce qui met tout le monde de bonne humeur."
     },
-    "related": "かのじょ（授業の重要表現）"
+    "related": "かのじょ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0507",
@@ -12176,7 +12826,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you go somewhere with your boyfriend over the weekend?<br/>B: Yes, I went to watch a movie with my boyfriend.",
       "fr": "A: Did you go somewhere with your boyfriend over the weekend?<br/>B: Yes, I went to watch a movie with my boyfriend."
     },
-    "related": "かれし（授業の重要表現）"
+    "related": "かれし（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0508",
@@ -12200,7 +12851,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They're a couple.",
       "fr": "They're a couple."
     },
-    "related": "ふうふ（授業の重要表現）"
+    "related": "ふうふ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0509",
@@ -12224,7 +12876,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗考到JLPT證書，我每日都好專心溫兩個鐘頭歷屆試題題庫。",
       "fr": "Pour réussir l'examen du JLPT, je résous des annales d'examen de manière concentrée deux heures par jour."
     },
-    "related": "しけん（授業の重要表現）"
+    "related": "しけん（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0510",
@@ -12248,7 +12901,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Why don't you join in the conversation?",
       "fr": "Why don't you join in the conversation?"
     },
-    "related": "かいわ（授業の重要表現）"
+    "related": "かいわ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0511",
@@ -12273,7 +12927,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 公園個水池有好多烏龜呀。<br/>B: 慢慢咁游水好得意呀。",
       "fr": "A: Il y a beaucoup de tortues dans l'étang du parc.<br/>B: Elles sont mignonnes à nager si tranquillement."
     },
-    "related": "鶴（つる）"
+    "related": "鶴（つる）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0512",
@@ -12297,7 +12952,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you keep any pets at home?<br/>B: Yes, I have two cats.",
       "fr": "A: Do you keep any pets at home?<br/>B: Yes, I have two cats."
     },
-    "related": "かっています（授業の重要表現）"
+    "related": "かっています（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0513",
@@ -12321,7 +12977,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢碗拉麵嘅湯底有好濃郁嘅豬肉鮮甜味，真係好正。",
       "fr": "Le bouillon de ce ramen est délicieux, imprégné de toute la saveur du porc."
     },
-    "related": "ぶたにく（授業の重要表現）"
+    "related": "ぶたにく（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0514",
@@ -12345,7 +13002,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tonight let's make fried chicken using chicken meat.<br/>B: Juicy fried chicken is my absolute favorite!",
       "fr": "A: Tonight let's make fried chicken using chicken meat.<br/>B: Juicy fried chicken is my absolute favorite!"
     },
-    "related": "とりにく（授業の重要表現）"
+    "related": "とりにく（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0515",
@@ -12369,7 +13027,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is your favorite ingredient in tempura?<br/>B: I like plump shrimp tempura the most.",
       "fr": "A: What is your favorite ingredient in tempura?<br/>B: I like plump shrimp tempura the most."
     },
-    "related": "えび（授業の重要表現）"
+    "related": "えび（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0516",
@@ -12393,7 +13052,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我好鍾意去旅行，到而家為止已經去過日本超過30個都道府縣玩過喇。",
       "fr": "J'adore voyager et j'ai déjà visité plus de 30 préfectures différentes au Japon jusqu'à présent."
     },
-    "related": "とどうふけん（授業の重要表現）"
+    "related": "とどうふけん（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0517",
@@ -12417,7 +13077,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He looked left and right.",
       "fr": "He looked left and right."
     },
-    "related": "さゆう（授業の重要表現）"
+    "related": "さゆう（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0518",
@@ -12441,7 +13102,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's upside down.",
       "fr": "It's upside down."
     },
-    "related": "うえした・じょうげ（授業の重要表現）"
+    "related": "うえした・じょうげ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0519",
@@ -12465,7 +13127,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is the seniority relationship between seniors and juniors strict in club activities?<br/>B: There is a clear hierarchy regarding greetings and courtesy.",
       "fr": "A: Is the seniority relationship between seniors and juniors strict in club activities?<br/>B: There is a clear hierarchy regarding greetings and courtesy."
     },
-    "related": "じょうげかんけい（授業の重要表現）"
+    "related": "じょうげかんけい（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0520",
@@ -12489,7 +13152,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Swing your arm back and forth.",
       "fr": "Swing your arm back and forth."
     },
-    "related": "ぜんご（授業の重要表現）"
+    "related": "ぜんご（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0521",
@@ -12513,7 +13177,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每日朝早搭車返工嗰陣，我都會用手機聽住我最鍾意嘅音樂。",
       "fr": "Tous les matins dans le train pour aller au travail, j'écoute ma musique préférée sur mon smartphone."
     },
-    "related": "おんがく（授業の重要表現）"
+    "related": "おんがく（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0522",
@@ -12537,7 +13202,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: We swam a lot, so I'm hungry.<br/>B: Let's grab sandwiches at a nearby cafe.",
       "fr": "A: We swam a lot, so I'm hungry.<br/>B: Let's grab sandwiches at a nearby cafe."
     },
-    "related": "おなかがすきました（授業の重要表現）"
+    "related": "おなかがすきました（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0523",
@@ -12561,7 +13227,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like seconds for dessert?<br/>B: I'm already full. Thank you for the delicious meal!",
       "fr": "A: Would you like seconds for dessert?<br/>B: I'm already full. Thank you for the delicious meal!"
     },
-    "related": "おなかがいっぱいです（授業の重要表現）"
+    "related": "おなかがいっぱいです（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0524",
@@ -12585,7 +13252,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: You bought a new wristwatch! It suits you so well.<br/>B: It's a watch with an easy-to-read face that I really like.",
       "fr": "A: You bought a new wristwatch! It suits you so well.<br/>B: It's a watch with an easy-to-read face that I really like."
     },
-    "related": "うでどけい（授業の重要表現）"
+    "related": "うでどけい（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0525",
@@ -12609,7 +13277,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "火車站附近新開嘅超級市場好多嘢買，好方便。",
       "fr": "Le nouveau supermarché ouvert près de la gare offre un large choix et est très pratique."
     },
-    "related": "ちかく（授業の重要表現）"
+    "related": "ちかく（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0526",
@@ -12633,7 +13302,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每年做全身身體檢查嗰陣，除咗量體重仲會精確噉度埋身高。",
       "fr": "Lors de mon bilan de santé annuel, on a mesuré avec précision mon poids ainsi que ma taille."
     },
-    "related": "しんちょう（授業の重要表現）"
+    "related": "しんちょう（授業の重要表現）",
+    "studentId": "0013",
+    "studentIds": [
+      "0013",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0527",
@@ -12657,7 +13331,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你哋幾兄弟姊妹之中邊個最高？<br/>B: 細佬185厘米最高，我就係成家最矮嗰個。",
       "fr": "A: Parmi tes frères et sœurs, qui est le plus grand ?<br/>B: Mon petit frère est le plus grand avec son mètre 85, et moi je suis le plus petit de la famille."
     },
-    "related": "せがたかい／ひくい（授業の重要表現）"
+    "related": "せがたかい／ひくい（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0528",
@@ -12681,7 +13356,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In January, coming-of-age ceremonies celebrating twenty-year-olds are held across regions.<br/>B: Seeing them attend the ceremony in gorgeous furisode kimonos is so beautiful.",
       "fr": "A: In January, coming-of-age ceremonies celebrating twenty-year-olds are held across regions.<br/>B: Seeing them attend the ceremony in gorgeous furisode kimonos is so beautiful."
     },
-    "related": "せいじんしき（授業の重要表現）"
+    "related": "せいじんしき（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0529",
@@ -12705,7 +13381,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "用本地新鮮時令蔬菜煮嘅地道鄉土菜，喺遊客心目中都好受歡迎。",
       "fr": "Les spécialités régionales à base de légumes locaux frais sont également très prisées des touristes."
     },
-    "related": "じもと（授業の重要表現）"
+    "related": "じもと（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0530",
@@ -12729,7 +13406,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is the price for this product tax-included or tax-excluded?<br/>B: All displayed prices are tax included.",
       "fr": "A: Is the price for this product tax-included or tax-excluded?<br/>B: All displayed prices are tax included."
     },
-    "related": "ぜいこみ（授業の重要表現）"
+    "related": "ぜいこみ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0531",
@@ -12753,7 +13431,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Please note that menu amounts are shown tax excluded.<br/>B: So consumption tax will be added at checkout.",
       "fr": "A: Please note that menu amounts are shown tax excluded.<br/>B: So consumption tax will be added at checkout."
     },
-    "related": "ぜいぬき（授業の重要表現）"
+    "related": "ぜいぬき（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0532",
@@ -12777,7 +13456,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我想買筆記簿同原子筆，邊度買平啲？<br/>B: 去站前間百円店啦，文具應有盡有又抵買。",
       "fr": "A: Je veux acheter des cahiers et des stylos. Où est-ce que c'est bon marché ?<br/>B: Si tu vas au magasin à 100 yens devant la gare, tu trouveras toutes sortes de fournitures pas chères."
     },
-    "related": "ひゃっきん（授業の重要表現）"
+    "related": "ひゃっきん（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0533",
@@ -12801,7 +13481,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On Tanabata, people write wishes on strips of paper and hang them on bamboo leaves.<br/>B: Towns are adorned with colorful Star Festival decorations.",
       "fr": "A: On Tanabata, people write wishes on strips of paper and hang them on bamboo leaves.<br/>B: Towns are adorned with colorful Star Festival decorations."
     },
-    "related": "たなばた（授業の重要表現）"
+    "related": "たなばた（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0534",
@@ -12825,7 +13506,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Shall we go get bubble tea with tapioca pearls after school?<br/>B: Sounds good! Let's go to a shop with lots of chewy tapioca pearls.",
       "fr": "A: Shall we go get bubble tea with tapioca pearls after school?<br/>B: Sounds good! Let's go to a shop with lots of chewy tapioca pearls."
     },
-    "related": "タピオカ（授業の重要表現）"
+    "related": "タピオカ（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0535",
@@ -12849,7 +13531,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How did you spend your holiday?<br/>B: I just lazed around all day at home watching TV.",
       "fr": "A: How did you spend your holiday?<br/>B: I just lazed around all day at home watching TV."
     },
-    "related": "ゴロゴロする（授業の重要表現）"
+    "related": "ゴロゴロする（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0536",
@@ -12873,7 +13556,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was startled when a car horn suddenly honked!<br/>B: When there's a sudden loud sound, it really surprises you, right?",
       "fr": "A: I was startled when a car horn suddenly honked!<br/>B: When there's a sudden loud sound, it really surprises you, right?"
     },
-    "related": "ビックリする（授業の重要表現）"
+    "related": "ビックリする（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0537",
@@ -12897,7 +13581,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is always bowing and groveling in front of the boss.<br/>B: Maybe trying to stay on his good side takes a lot of effort.",
       "fr": "A: He is always bowing and groveling in front of the boss.<br/>B: Maybe trying to stay on his good side takes a lot of effort."
     },
-    "related": "ペコペコする（授業の重要表現）"
+    "related": "ペコペコする（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0538",
@@ -12921,7 +13606,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我最近日日自己煮飯，食好多蔬菜。<br/>B: 好健康好正呀！身體狀態都應該會好咗好多。",
       "fr": "A: Ces derniers temps, je cuisine tous les jours chez moi avec plein de légumes.<br/>B: C'est très sain et équilibré ! Tu dois te sentir en bien meilleure forme."
     },
-    "related": "けんこうてきな（授業の重要表現）"
+    "related": "けんこうてきな（授業の重要表現）",
+    "studentId": "0013"
   },
   {
     "id": "class_word_0539",
@@ -12945,7 +13631,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm a tourist, too.",
       "fr": "I'm a tourist, too."
     },
-    "related": "観光（授業の重要表現）"
+    "related": "観光（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0540",
@@ -12969,7 +13656,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: These gyoza have plenty of garlic and give great energy.<br/>B: The fragrant aroma of garlic really stimulates the appetite.",
       "fr": "A: These gyoza have plenty of garlic and give great energy.<br/>B: The fragrant aroma of garlic really stimulates the appetite."
     },
-    "related": "にんにく（授業の重要表現）"
+    "related": "にんにく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0541",
@@ -12993,7 +13681,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I want to study abroad.",
       "fr": "I want to study abroad."
     },
-    "related": "留学（授業の重要表現）"
+    "related": "留学（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0542",
@@ -13017,7 +13706,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you an exchange student?",
       "fr": "Are you an exchange student?"
     },
-    "related": "留学生（授業の重要表現）"
+    "related": "留学生（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0543",
@@ -13041,7 +13731,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Elementary school children go to school for a term of six years.",
       "fr": "Elementary school children go to school for a term of six years."
     },
-    "related": "小学生（授業の重要表現）"
+    "related": "小学生（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0544",
@@ -13065,7 +13756,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My younger brother became a junior high school student this year and wears a uniform.<br/>B: Becoming a junior high student makes kids suddenly shoot up and look grown up.",
       "fr": "A: My younger brother became a junior high school student this year and wears a uniform.<br/>B: Becoming a junior high student makes kids suddenly shoot up and look grown up."
     },
-    "related": "中学生（授業の重要表現）"
+    "related": "中学生（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0545",
@@ -13089,7 +13781,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you a high school student?",
       "fr": "Are you a high school student?"
     },
-    "related": "高校生（授業の重要表現）"
+    "related": "高校生（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0546",
@@ -13113,7 +13806,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I am a university student.",
       "fr": "I am a university student."
     },
-    "related": "だいがくせい（授業の重要表現）"
+    "related": "だいがくせい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0547",
@@ -13137,7 +13831,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "「突然落大雨，唔該可唔可以借把遮俾我用呀？」「好呀，拎去用啦！」",
       "fr": "'Il s'est mis à pleuvoir tout à coup, puis-je vous emprunter un parapluie ?' 'Oui, bien sûr, prenez-le !'"
     },
-    "related": "かりる（授業の重要表現）"
+    "related": "かりる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0548",
@@ -13161,7 +13856,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you a good cook?",
       "fr": "Are you a good cook?"
     },
-    "related": "りょうり（授業の重要表現）"
+    "related": "りょうり（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0549",
@@ -13185,7 +13881,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "讀書嗰陣去外國做義工嘅經歷，係我人生中最珍貴嘅寶物。",
       "fr": "L'expérience de bénévolat à l'étranger pendant mes années d'études est un précieux trésor pour moi."
     },
-    "related": "けいけん（授業の重要表現）"
+    "related": "けいけん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0550",
@@ -13209,7 +13906,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The beauty of each season.",
       "fr": "The beauty of each season."
     },
-    "related": "しき（授業の重要表現）"
+    "related": "しき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0551",
@@ -13233,7 +13931,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本嘅夏天濕氣好重又悶熱，要記得成日飲水。",
       "fr": "L’été au Japon étant très humide et lourd, je m’hydrate fréquemment."
     },
-    "related": "なつ（授業の重要表現）"
+    "related": "なつ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0552",
@@ -13257,7 +13956,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "一到春天櫻花開得好靚，成個城市都好有朝氣。",
       "fr": "Quand le printemps arrive, les cerisiers sont en pleine floraison et enveloppent la ville d’une atmosphère lumineuse."
     },
-    "related": "はる（授業の重要表現）"
+    "related": "はる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0553",
@@ -13281,7 +13981,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Recently I quit smoking cigarettes for health reasons.<br/>B: You succeeded in quitting smoking! That's a great decision.",
       "fr": "A: Recently I quit smoking cigarettes for health reasons.<br/>B: You succeeded in quitting smoking! That's a great decision."
     },
-    "related": "タバコを吸う（授業の重要表現）"
+    "related": "タバコを吸う（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0554",
@@ -13305,7 +14006,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My father gave up smoking.",
       "fr": "My father gave up smoking."
     },
-    "related": "たばこ（授業の重要表現）"
+    "related": "たばこ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0555",
@@ -13329,7 +14031,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "新學期開學喇，我買咗上堂要用嘅全新日文書。",
       "fr": "Comme le nouveau semestre commence, j'ai acheté le nouveau manuel de japonais pour le cours."
     },
-    "related": "きょうかしょ（授業の重要表現）"
+    "related": "きょうかしょ（授業の重要表現）",
+    "studentId": "0014",
+    "studentIds": [
+      "0014",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0556",
@@ -13353,7 +14060,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend, I went on a picnic to a local park with my family.<br/>B: A picnic on a nice weekend feels wonderful.",
       "fr": "A: Over the weekend, I went on a picnic to a local park with my family.<br/>B: A picnic on a nice weekend feels wonderful."
     },
-    "related": "しゅうまつ（授業の重要表現）"
+    "related": "しゅうまつ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0557",
@@ -13377,7 +14085,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢由細就學芭蕾舞，跳起舞嚟姿態好優雅高貴。",
       "fr": "Elle fait de la danse classique depuis toute petite et danse avec une grande élégance."
     },
-    "related": "おどる（授業の重要表現）"
+    "related": "おどる（授業の重要表現）",
+    "studentId": "0014",
+    "studentIds": [
+      "0014",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0558",
@@ -13401,7 +14114,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "同公司團隊成員建立良好嘅人際互動同互信，做起嘢上嚟都會順手好多。",
       "fr": "Entretenir de bonnes relations avec ses collègues de travail permet de mener à bien les projets beaucoup plus facilement."
     },
-    "related": "かんけい（授業の重要表現）"
+    "related": "かんけい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0559",
@@ -13425,7 +14139,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm all thumbs.",
       "fr": "I'm all thumbs."
     },
-    "related": "きよう（授業の重要表現）"
+    "related": "きよう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0560",
@@ -13450,7 +14165,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間cafe一到傍晚就好多學生呀。<br/>B: 因為附近有學校吖嘛。",
       "fr": "A: Ce café se remplit d'élèves et d'étudiants le soir.<br/>B: C'est parce qu'il y a des écoles à proximité."
     },
-    "related": "先生（せんせい）"
+    "related": "先生（せんせい）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0561",
@@ -13474,7 +14190,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "趁住住喺外國嘅阿婆生日，我寄咗封感謝信同生日禮物畀佢。",
       "fr": "Pour l’anniversaire de ma grand-mère qui habite loin, je lui ai envoyé une lettre de remerciement et un cadeau."
     },
-    "related": "おくる（授業の重要表現）"
+    "related": "おくる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0562",
@@ -13498,7 +14215,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They labored in the factories.",
       "fr": "They labored in the factories."
     },
-    "related": "こうじょう（授業の重要表現）"
+    "related": "こうじょう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0563",
@@ -13522,7 +14240,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This afternoon we have an important meeting scheduled with a client.<br/>B: Let's do a final check of the proposal materials and go in well prepared.",
       "fr": "A: This afternoon we have an important meeting scheduled with a client.<br/>B: Let's do a final check of the proposal materials and go in well prepared."
     },
-    "related": "とりひきさき（授業の重要表現）"
+    "related": "とりひきさき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0564",
@@ -13546,7 +14265,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "一路行一路玩電話好危險㗎，千祈唔好咁做。",
       "fr": "Utiliser son téléphone en marchant est dangereux, c’est strictement interdit."
     },
-    "related": "だめ（授業の重要表現）"
+    "related": "だめ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0565",
@@ -13570,7 +14290,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Drinking hot tea on a cold day makes you feel all warm and fuzzy inside.<br/>B: Eating mildly sweet Japanese sweets together is so comforting.",
       "fr": "A: Drinking hot tea on a cold day makes you feel all warm and fuzzy inside.<br/>B: Eating mildly sweet Japanese sweets together is so comforting."
     },
-    "related": "ほっこり（授業の重要表現）"
+    "related": "ほっこり（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0566",
@@ -13594,7 +14315,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我去咗睇下個月準備報名嗰間健身室嘅設施。",
       "fr": "Je suis allé visiter les installations de la salle de sport où je compte m'inscrire le mois prochain."
     },
-    "related": "けんがく（授業の重要表現）"
+    "related": "けんがく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0567",
@@ -13618,7 +14340,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I joined the study tour.",
       "fr": "I joined the study tour."
     },
-    "related": "しさつ（授業の重要表現）"
+    "related": "しさつ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0568",
@@ -13642,7 +14365,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: She performs wonderfully no matter how difficult the role is.<br/>B: You get drawn in by the way she naturally portrays her character.",
       "fr": "A: She performs wonderfully no matter how difficult the role is.<br/>B: You get drawn in by the way she naturally portrays her character."
     },
-    "related": "演技する、演じる（授業の重要表現）"
+    "related": "演技する、演じる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0569",
@@ -13666,7 +14390,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The sculptures are of great value.",
       "fr": "The sculptures are of great value."
     },
-    "related": "ちょうこく（授業の重要表現）"
+    "related": "ちょうこく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0570",
@@ -13690,7 +14415,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今個禮拜天我想轉下心情，幫間房大搬位重新佈置。<br/>B: 好喎！淨係調動下張床同書枱個位，成間房個feel已經完全唔同晒。",
       "fr": "A: Ce week-end, je pense réaménager ma chambre pour changer d'ambiance.<br/>B: Bonne idée ! Il suffit de déplacer le lit et le bureau pour métamorphoser la pièce."
     },
-    "related": "もようがえ（授業の重要表現）"
+    "related": "もようがえ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0571",
@@ -13714,7 +14440,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "平日下晝咖啡店通常都比較少人，可以好舒服噉溫書。",
       "fr": "En semaine l'après-midi, le café est plutôt calme, ce qui permet d'étudier tranquillement."
     },
-    "related": "へいじつ（授業の重要表現）"
+    "related": "へいじつ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0572",
@@ -13738,7 +14465,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本各個地方都有自己獨特口音同人情味嘅方言。",
       "fr": "Au Japon, il existe de nombreux dialectes régionaux avec des sonorités et une chaleur uniques."
     },
-    "related": "ほうげん（授業の重要表現）"
+    "related": "ほうげん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0573",
@@ -13763,7 +14491,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢講嘢有啲口音喎。<br/>B: 係呀，聽講佢係鄉下出嚟㗎。",
       "fr": "A: Sa façon de parler a un léger accent.<br/>B: Ouais, j'ai entendu dire qu'il vient de la province."
     },
-    "related": "方言（ほうげん）"
+    "related": "方言（ほうげん）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0574",
@@ -13787,7 +14516,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He deals in furniture.",
       "fr": "He deals in furniture."
     },
-    "related": "家具（授業の重要表現）"
+    "related": "家具（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0575",
@@ -13811,7 +14541,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a carpenter by trade.",
       "fr": "He is a carpenter by trade."
     },
-    "related": "だいく（授業の重要表現）"
+    "related": "だいく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0576",
@@ -13835,7 +14566,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺凍冰冰嘅冬天一路浸溫泉一路睇雪景，真係頂級享受。",
       "fr": "Dans le grand froid de l’hiver, se prélasser dans un onsen en admirant la neige est un plaisir unique."
     },
-    "related": "ふゆ（授業の重要表現）"
+    "related": "ふゆ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0577",
@@ -13859,7 +14591,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Man is as fickle as autumn weather.",
       "fr": "Man is as fickle as autumn weather."
     },
-    "related": "あき（授業の重要表現）"
+    "related": "あき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0578",
@@ -13883,7 +14616,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was deeply moved after watching that documentary.<br/>B: You really get touched by the protagonist's dedicated effort.",
       "fr": "A: I was deeply moved after watching that documentary.<br/>B: You really get touched by the protagonist's dedicated effort."
     },
-    "related": "かんどうする（授業の重要表現）"
+    "related": "かんどうする（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0579",
@@ -13907,7 +14641,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The timetable has been revised.",
       "fr": "The timetable has been revised."
     },
-    "related": "じこくひょう（授業の重要表現）"
+    "related": "じこくひょう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0580",
@@ -13931,7 +14666,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Ghosts exist.",
       "fr": "Ghosts exist."
     },
-    "related": "ゆうれい（授業の重要表現）"
+    "related": "ゆうれい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0581",
@@ -13955,7 +14691,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I work hard practicing soccer every day in club activities after school.<br/>B: Sweating together with club teammates makes great memories.",
       "fr": "A: I work hard practicing soccer every day in club activities after school.<br/>B: Sweating together with club teammates makes great memories."
     },
-    "related": "ぶかつ（授業の重要表現）"
+    "related": "ぶかつ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0582",
@@ -13979,7 +14716,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你哋兩個部電話個套係咪同一款match埋一齊㗎？<br/>B: 係呀，上個禮拜一齊去旅行嗰陣買㗎，好鍾意。",
       "fr": "A: Vos coques de téléphone sont assorties tous les deux ?<br/>B: Oui, on les a achetées ensemble pendant notre voyage la semaine dernière, on les adore."
     },
-    "related": "おそろい（授業の重要表現）"
+    "related": "おそろい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0583",
@@ -14003,7 +14741,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "大分縣別府溫泉嗰度，有出名嘅「海地獄」同「血之池地獄」等景點。",
       "fr": "Aux sources thermales de Beppu à Oita, on trouve des sites célèbres appelés 'Enfer de la Mer' et 'Enfer de la Mare de Sang'."
     },
-    "related": "じごく（授業の重要表現）"
+    "related": "じごく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0584",
@@ -14027,7 +14766,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "小朋友匿喺公園大樹後面，玩捉迷藏玩得好開心好興奮。",
       "fr": "Les enfants s'amusent à jouer à cache-cache en se dissimulant derrière le grand arbre du parc."
     },
-    "related": "かくれる（授業の重要表現）"
+    "related": "かくれる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0585",
@@ -14051,7 +14791,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A respect-for-the-aged gathering was held inviting local elderly residents.<br/>B: It was a warm gathering where we could see lively smiles from seniors.",
       "fr": "A: A respect-for-the-aged gathering was held inviting local elderly residents.<br/>B: It was a warm gathering where we could see lively smiles from seniors."
     },
-    "related": "おとしより（授業の重要表現）"
+    "related": "おとしより（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0586",
@@ -14075,7 +14816,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "屋企新養咗隻貓仔做寵物，每日照顧佢都好開心。",
       "fr": "Depuis que j’ai adopté un chaton, c’est un plaisir de m’en occuper au quotidien."
     },
-    "related": "かう（授業の重要表現）"
+    "related": "かう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0587",
@@ -14099,7 +14841,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: There was a severe thunderstorm last night; were you okay?<br/>B: The sound of rain woke me up last night, but there was no damage.",
       "fr": "A: There was a severe thunderstorm last night; were you okay?<br/>B: The sound of rain woke me up last night, but there was no damage."
     },
-    "related": "さくばん/さくや（授業の重要表現）"
+    "related": "さくばん/さくや（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0588",
@@ -14123,7 +14866,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Due to backlighting, my face was in shadow and came out dark.<br/>B: Let's reposition taking the sun into account and retake the photo.",
       "fr": "A: Due to backlighting, my face was in shadow and came out dark.<br/>B: Let's reposition taking the sun into account and retake the photo."
     },
-    "related": "ぎゃっこう（授業の重要表現）"
+    "related": "ぎゃっこう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0589",
@@ -14147,7 +14891,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本保留咗好多座擁有幾百年悠久歷史嘅著名城堡。",
       "fr": "Au Japon, de nombreux châteaux célèbres avec des siècles d'histoire sont encore préservés."
     },
-    "related": "しろ（授業の重要表現）"
+    "related": "しろ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0590",
@@ -14171,7 +14916,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Someone is at the door.",
       "fr": "Someone is at the door."
     },
-    "related": "げんかん（授業の重要表現）"
+    "related": "げんかん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0591",
@@ -14195,7 +14941,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It takes two to make a quarrel.",
       "fr": "It takes two to make a quarrel."
     },
-    "related": "けんか（授業の重要表現）"
+    "related": "けんか（授業の重要表現）",
+    "studentId": "0014",
+    "studentIds": [
+      "0014",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0592",
@@ -14219,7 +14970,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 睇咗你張舊屋企相，呢位咁有氣派嘅先生係邊個嚟㗎？<br/>B: 係我太公（曾祖父）。佢喺明治時代出世㗎。",
       "fr": "A: J'ai vu cette vieille photo de famille, qui est cet homme si élégant ?<br/>B: C'est mon arrière-grand-père. Il est né à l'époque Meiji."
     },
-    "related": "曾祖父（授業の重要表現）"
+    "related": "曾祖父（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0593",
@@ -14243,7 +14995,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你親戚入面年紀最大嗰個係邊個？<br/>B: 係我太婆（曾祖母）。佢今年啱啱滿100歲大壽添。",
       "fr": "A: Qui est la personne la plus âgée parmi tes proches ?<br/>B: C'est mon arrière-grand-mère. Elle a fêté ses 100 ans cette année."
     },
-    "related": "曾祖母（授業の重要表現）"
+    "related": "曾祖母（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0594",
@@ -14267,7 +15020,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This substance will mix with water.",
       "fr": "This substance will mix with water."
     },
-    "related": "まざる（授業の重要表現）"
+    "related": "まざる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0595",
@@ -14291,7 +15045,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "If you mix it in, it'll mask the flavor.",
       "fr": "If you mix it in, it'll mask the flavor."
     },
-    "related": "まぜる（授業の重要表現）"
+    "related": "まぜる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0596",
@@ -14315,7 +15070,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "開冷氣嘅同時開埋風扇，可以令室內空氣對流，涼快好多。",
       "fr": "Faire tourner un ventilateur avec la clim permet de faire circuler l'air et de bien rafraîchir la pièce."
     },
-    "related": "せんぷうき（授業の重要表現）"
+    "related": "せんぷうき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0597",
@@ -14339,7 +15095,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "份新工雖然要記好多嘢，但目前為止都算幾順利。",
       "fr": "Il y a beaucoup à apprendre dans mon nouvel emploi, mais pour l'instant tout se passe bien."
     },
-    "related": "いまのところ（授業の重要表現）"
+    "related": "いまのところ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0598",
@@ -14363,7 +15120,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "天氣轉低氣壓搞到頭痛得好辛苦，我要喺間靜啲黑啲嘅房度瞓陣。",
       "fr": "Avec la baisse de pression j’ai un violent mal de tête, je vais m’allonger dans une pièce sombre et calme."
     },
-    "related": "ずつう（授業の重要表現）"
+    "related": "ずつう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0599",
@@ -14387,7 +15145,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你塊面好青白喎，係咪邊度唔舒服呀？<br/>B: 今朝開始就肚痛得好交關，企喺度都好辛苦。",
       "fr": "A: Vous êtes pâle, vous ne vous sentez pas bien ?<br/>B: J'ai de violents maux de ventre depuis ce matin, c'est pénible même de rester debout."
     },
-    "related": "ふくつう（授業の重要表現）"
+    "related": "ふくつう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0600",
@@ -14411,7 +15170,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The man brushes his teeth.",
       "fr": "The man brushes his teeth."
     },
-    "related": "みがく（授業の重要表現）"
+    "related": "みがく（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0601",
@@ -14435,7 +15195,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Welcome to the machine.",
       "fr": "Welcome to the machine."
     },
-    "related": "きかい（授業の重要表現）"
+    "related": "きかい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0602",
@@ -14459,7 +15220,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This strawberry parfait is a spring limited-time menu item.<br/>B: Hearing 'limited period' makes you want to order it right away.",
       "fr": "A: This strawberry parfait is a spring limited-time menu item.<br/>B: Hearing 'limited period' makes you want to order it right away."
     },
-    "related": "きかんげんてい（授業の重要表現）"
+    "related": "きかんげんてい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0603",
@@ -14484,7 +15246,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 預訂呢隻DVD好似有特典送呀。<br/>B: 係咩？咁我一定要預訂啦！",
       "fr": "A: Il semble que tu obtiennes un bonus si tu précommandes ce DVD.<br/>B: Vraiment ? Alors je dois absolument le précommander !"
     },
-    "related": "おまけ"
+    "related": "おまけ",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0604",
@@ -14508,7 +15271,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you have favorite Japanese dishes? For instance, what?<br/>B: For example, I love sushi and sukiyaki.",
       "fr": "A: Do you have favorite Japanese dishes? For instance, what?<br/>B: For example, I love sushi and sukiyaki."
     },
-    "related": "例え・たとえ・れい—接続詞的に（授業の重要表現）"
+    "related": "例え・たとえ・れい—接続詞的に（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0605",
@@ -14532,7 +15296,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "只要肯繼續努力，原本唔熟嘅日文對話自然會講得越嚟越好。",
       "fr": "Si l’on poursuit ses efforts, même la conversation en japonais finira par devenir naturelle."
     },
-    "related": "なる（授業の重要表現）"
+    "related": "なる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0606",
@@ -14556,7 +15321,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 第時你大個想做咩工？<br/>B: 我由細到大嘅夢想，係想成為一個日語老師。",
       "fr": "A: Quel travail aimerais-tu faire à l'avenir ?<br/>B: C'est mon rêve depuis l'enfance : je veux devenir professeur de japonais."
     },
-    "related": "なりたい（授業の重要表現）"
+    "related": "なりたい（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0607",
@@ -14580,7 +15346,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "雷暴影響突然之間停電，拿拿臨搵支電筒同蠟燭出嚟。",
       "fr": "À cause de l’orage une coupure de courant s’est produite, j’ai donc cherché une lampe torche et des bougies."
     },
-    "related": "ていでん（授業の重要表現）"
+    "related": "ていでん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0608",
@@ -14604,7 +15371,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "沖完涼出嚟吹下風扇嘅微風，感覺好爽快好舒服。",
       "fr": "Profiter de la brise agréable du ventilateur après le bain est extrêmement rafraîchissant."
     },
-    "related": "せんぷうき（授業の重要表現）"
+    "related": "せんぷうき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0609",
@@ -14628,7 +15396,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "梅雨季節屋企好潮濕，所以我會開冷氣嘅抽濕功能。",
       "fr": "Pendant la saison des pluies, l'humidité augmente dans la pièce, j'utilise donc le mode déshumidificateur."
     },
-    "related": "つゆ（授業の重要表現）"
+    "related": "つゆ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0610",
@@ -14652,7 +15421,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我出去買嘢，有冇嘢想我幫手買？<br/>B: 廁所個牙膏差唔多用晒，可唔可以幫我買支返嚟？",
       "fr": "A: Je vais faire des courses, tu as besoin de quelque chose ?<br/>B: On n'a presque plus de dentifrice dans la salle de bain, tu peux m'en prendre un tube ?"
     },
-    "related": "歯磨きはみがきこ（授業の重要表現）"
+    "related": "歯磨きはみがきこ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0611",
@@ -14676,7 +15446,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你通常幾耐換一次牙刷？<br/>B: 啲毛會開叉吖嘛，我大約一個月換一次新嘅。",
       "fr": "A: À quelle fréquence remplaces-tu ta brosse à dents ?<br/>B: Comme les poils s'écartent, j'en change généralement une fois par mois."
     },
-    "related": "はブラシ（授業の重要表現）"
+    "related": "はブラシ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0612",
@@ -14700,7 +15471,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When words didn't get across traveling abroad, the phone translator was helpful.<br/>B: Voice-input translation devices are truly convenient.",
       "fr": "A: When words didn't get across traveling abroad, the phone translator was helpful.<br/>B: Voice-input translation devices are truly convenient."
     },
-    "related": "ほんやくき（授業の重要表現）"
+    "related": "ほんやくき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0613",
@@ -14724,7 +15496,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I don't like how he always gives instructions with a condescending attitude.<br/>B: You wish he would speak while putting himself in others' shoes.",
       "fr": "A: I don't like how he always gives instructions with a condescending attitude.<br/>B: You wish he would speak while putting himself in others' shoes."
     },
-    "related": "上からうえからめせん（授業の重要表現）"
+    "related": "上からうえからめせん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0614",
@@ -14748,7 +15521,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: You wake up at 5:00 AM every day to study Japanese? That's impressive!<br/>B: Thank you. Once it's a routine, it's natural to maintain.",
       "fr": "A: You wake up at 5:00 AM every day to study Japanese? That's impressive!<br/>B: Thank you. Once it's a routine, it's natural to maintain."
     },
-    "related": "えらいですね（授業の重要表現）"
+    "related": "えらいですね（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0615",
@@ -14772,7 +15546,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is that person who came out of the president's office an important executive?<br/>B: Yes, he is a managing director of the company.",
       "fr": "A: Is that person who came out of the president's office an important executive?<br/>B: Yes, he is a managing director of the company."
     },
-    "related": "偉いえらいひと（授業の重要表現）"
+    "related": "偉いえらいひと（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0616",
@@ -14796,7 +15571,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It bothers me how he always acts superior toward juniors.<br/>B: You wish he would teach kindly without putting on airs.",
       "fr": "A: It bothers me how he always acts superior toward juniors.<br/>B: You wish he would teach kindly without putting on airs."
     },
-    "related": "えらそう（授業の重要表現）"
+    "related": "えらそう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0617",
@@ -14820,7 +15596,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today is the last working day of the year, isn't it?<br/>B: Yes, let's finish the office year-end cleaning and welcome the New Year refreshed!",
       "fr": "A: Today is the last working day of the year, isn't it?<br/>B: Yes, let's finish the office year-end cleaning and welcome the New Year refreshed!"
     },
-    "related": "仕事納めのしごとおさめのひ（授業の重要表現）"
+    "related": "仕事納めのしごとおさめのひ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0618",
@@ -14844,7 +15621,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Before going to the interview, did you check your resume's photo and statement?<br/>B: Yes, I put the carefully written resume into my bag.",
       "fr": "A: Before going to the interview, did you check your resume's photo and statement?<br/>B: Yes, I put the carefully written resume into my bag."
     },
-    "related": "りれきしょ（授業の重要表現）"
+    "related": "りれきしょ（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0619",
@@ -14868,7 +15646,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日放學去邊度玩好？<br/>B: 不如去隆志屋企打新嗰隻game啦！",
       "fr": "A: Où est-ce qu'on se retrouve après les cours aujourd'hui ?<br/>B: Allons jouer au nouveau jeu vidéo chez Takashi !"
     },
-    "related": "〜の家（授業の重要表現）"
+    "related": "〜の家（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0620",
@@ -14892,7 +15671,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢嘅讀書成績非常優秀，仲攞到大學頒發嘅獎學金添。",
       "fr": "Ses résultats scolaires sont remarquables et elle bénéficie d'une bourse de l'université."
     },
-    "related": "せいせき（授業の重要表現）"
+    "related": "せいせき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0621",
@@ -14917,7 +15697,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你喺圖書館借咗幾多本書呀？<br/>B: 借咗三本呀。",
       "fr": "A: Combien de livres as-tu empruntés à la bibliothèque ?<br/>B: J'ai emprunté trois livres."
     },
-    "related": "本（ほん）"
+    "related": "本（ほん）",
+    "studentId": "0014",
+    "studentIds": [
+      "0014",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0622",
@@ -14942,7 +15727,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 牙痛，我聽日要去睇牙醫。<br/>B: 快啲去睇好啲呀。",
       "fr": "A: J'ai mal aux dents, alors je vais chez le dentiste demain.<br/>B: Tu devrais faire examiner ça rapidement."
     },
-    "related": "虫歯（むしば）"
+    "related": "虫歯（むしば）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0623",
@@ -14966,7 +15752,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去外國留學學費同生活費好貴要使好多錢，所以我決定申請獎學金。",
       "fr": "Étudier à l'étranger coûte beaucoup d'argent en frais de scolarité et de vie, j'ai donc décidé de demander une bourse."
     },
-    "related": "おかねがかかる（授業の重要表現）"
+    "related": "おかねがかかる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0624",
@@ -14990,7 +15777,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我房入面個書櫃整整齊齊排滿晒我最鍾意睇嘅小說同漫畫。",
       "fr": "Dans ma chambre, mes romans et mangas préférés sont soigneusement alignés sur l'étagère."
     },
-    "related": "ほんだな（授業の重要表現）"
+    "related": "ほんだな（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0625",
@@ -15015,7 +15803,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 做運動遵守規則好重要㗎。<br/>B: 梗係啦，公平競爭最重要。",
       "fr": "A: Il est important de respecter les règles dans le sport.<br/>B: Bien sûr. Le fair-play est la chose la plus importante."
     },
-    "related": "ルールを破る（ルールをやぶる）"
+    "related": "ルールを破る（ルールをやぶる）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0626",
@@ -15039,7 +15828,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Having fun at the year-end party, I drank too much and got completely drunk.<br/>B: Drink lots of water and get plenty of rest tonight.",
       "fr": "A: Having fun at the year-end party, I drank too much and got completely drunk.<br/>B: Drink lots of water and get plenty of rest tonight."
     },
-    "related": "よっぱらう（授業の重要表現）"
+    "related": "よっぱらう（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0627",
@@ -15064,7 +15854,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你今日好似要OT？<br/>B: 係呀，做唔晒啲嘢。應該會好晏。",
       "fr": "A: On dirait que tu vas faire des heures supplémentaires aujourd'hui ?<br/>B: Ouais, mon travail n'est pas fini. Je pense que je vais rentrer tard."
     },
-    "related": "定時（ていじ）"
+    "related": "定時（ていじ）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0628",
@@ -15089,7 +15880,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔小心倒瀉咗果汁落地板！<br/>B: 弊傢伙！快啲抹番乾淨啦。",
       "fr": "A: J'ai renversé du jus sur le sol !<br/>B: Oh non ! Il faut essuyer ça vite."
     },
-    "related": "天井（てんじょう）"
+    "related": "天井（てんじょう）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0629",
@@ -15113,7 +15905,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The ground is muddy after the rain, so watch your step.<br/>B: My shoes are slippery, so I will walk carefully.",
       "fr": "A: The ground is muddy after the rain, so watch your step.<br/>B: My shoes are slippery, so I will walk carefully."
     },
-    "related": "じめん（授業の重要表現）"
+    "related": "じめん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0630",
@@ -15137,7 +15930,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The ceremony will take place tomorrow.",
       "fr": "The ceremony will take place tomorrow."
     },
-    "related": "ぎしき（授業の重要表現）"
+    "related": "ぎしき（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0631",
@@ -15162,7 +15956,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啱啱路過火車站前面，見到有祭典呀。<br/>B: 咦，我唔知喎。不如去睇下啦。",
       "fr": "A: Je suis passé par hasard devant la gare tout à l'heure et il y avait un festival.<br/>B: Oh, je ne savais pas. Je vais peut-être aller voir."
     },
-    "related": "通る（とおる）"
+    "related": "通る（とおる）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0632",
@@ -15186,7 +15981,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She didn't pass me without speaking to me.",
       "fr": "She didn't pass me without speaking to me."
     },
-    "related": "とおりすぎる（授業の重要表現）"
+    "related": "とおりすぎる（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0633",
@@ -15210,7 +16006,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You must be kidding!",
       "fr": "You must be kidding!"
     },
-    "related": "じょうだん（授業の重要表現）"
+    "related": "じょうだん（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0634",
@@ -15235,7 +16032,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 動畫成日有開結界嘅場景呢。<br/>B: 係呀，用嚟擋敵人攻擊㗎嘛。",
       "fr": "A: Il y a souvent des scènes où ils dressent une barrière dans les animes, n'est-ce pas ?<br/>B: Oui, ils l'utilisent pour se défendre contre les attaques ennemies."
     },
-    "related": "魔法（まほう）"
+    "related": "魔法（まほう）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0635",
@@ -15259,7 +16057,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For a depressed friend, let's leave him alone for now instead of forcing conversation.<br/>B: Agreed, let's watch over him quietly until feelings settle.",
       "fr": "A: For a depressed friend, let's leave him alone for now instead of forcing conversation.<br/>B: Agreed, let's watch over him quietly until feelings settle."
     },
-    "related": "そっとする（授業の重要表現）"
+    "related": "そっとする（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0636",
@@ -15283,7 +16082,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The phone notification sound has rung repeatedly, and it's on my mind.<br/>B: It might be an urgent message; why not take a look?",
       "fr": "A: The phone notification sound has rung repeatedly, and it's on my mind.<br/>B: It might be an urgent message; why not take a look?"
     },
-    "related": "きになる（授業の重要表現）"
+    "related": "きになる（授業の重要表現）",
+    "studentId": "0014",
+    "studentIds": [
+      "0014",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0637",
@@ -15307,7 +16111,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In my personal opinion, I like this design better as it feels warmer.<br/>B: I agree! It also gives users a friendly impression.",
       "fr": "A: In my personal opinion, I like this design better as it feels warmer.<br/>B: I agree! It also gives users a friendly impression."
     },
-    "related": "こじんてきな（授業の重要表現）"
+    "related": "こじんてきな（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0638",
@@ -15331,7 +16136,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Going to the anime original drawing exhibition, I was moved by the delicate strokes!<br/>B: They are wonderful key animations conveying the creators' passion directly.",
       "fr": "A: Going to the anime original drawing exhibition, I was moved by the delicate strokes!<br/>B: They are wonderful key animations conveying the creators' passion directly."
     },
-    "related": "げんが（授業の重要表現）"
+    "related": "げんが（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0639",
@@ -15355,7 +16161,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Mastering piano through self-study shows she truly has a gift.<br/>B: She is blessed with rich expressiveness and musical sense.",
       "fr": "A: Mastering piano through self-study shows she truly has a gift.<br/>B: She is blessed with rich expressiveness and musical sense."
     },
-    "related": "さいのうがある（授業の重要表現）"
+    "related": "さいのうがある（授業の重要表現）",
+    "studentId": "0014"
   },
   {
     "id": "class_word_0640",
@@ -15380,7 +16187,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下次出差，交通費可唔可以claim公數（經費）呀？<br/>B: 可以呀，有單就可以claim。",
       "fr": "A: Puis-je passer les frais de transport en notes de frais pour le prochain voyage d'affaires ?<br/>B: Oui, si vous avez un reçu, vous pouvez le régler comme une dépense."
     },
-    "related": "コスト"
+    "related": "コスト",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0641",
@@ -15404,7 +16212,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To manufacture goods of famous characters, a license fee is required.<br/>B: Proper contracts must be established to protect copyrights.",
       "fr": "A: To manufacture goods of famous characters, a license fee is required.<br/>B: Proper contracts must be established to protect copyrights."
     },
-    "related": "らいせんすりょう（授業の重要表現）"
+    "related": "らいせんすりょう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0642",
@@ -15428,7 +16237,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Who is this person shown in the photograph?<br/>B: That's my host family from when I studied in Japan as a student.",
       "fr": "A: Who is this person shown in the photograph?<br/>B: That's my host family from when I studied in Japan as a student."
     },
-    "related": "このひと（授業の重要表現）"
+    "related": "このひと（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0643",
@@ -15453,7 +16263,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喂，嗰邊嗰個人，尋日係咪喺cafe度㗎？<br/>B: 呀，係喎。嗰個人係咪住喺附近㗎呢。",
       "fr": "A: Hé, cette personne là-bas était au café hier, n'est-ce pas ?<br/>B: Oh, tu as raison. Je me demande si cette personne-là vit dans le coin."
     },
-    "related": "この人（このひと）"
+    "related": "この人（このひと）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0644",
@@ -15478,7 +16289,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 尋日遇到個好有趣嘅人呀。<br/>B: 吓，嗰個人係點㗎？",
       "fr": "A: J'ai rencontré une personne intéressante hier.<br/>B: Ah bon ? Comment était cette personne ?"
     },
-    "related": "あの人（あのひと）"
+    "related": "あの人（あのひと）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0645",
@@ -15502,7 +16314,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I still cannot forget the emotion of that time when I first climbed Mount Fuji.<br/>B: The sunrise seen after that hardship is a lifelong memory.",
       "fr": "A: I still cannot forget the emotion of that time when I first climbed Mount Fuji.<br/>B: The sunrise seen after that hardship is a lifelong memory."
     },
-    "related": "あのとき（授業の重要表現）"
+    "related": "あのとき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0646",
@@ -15526,7 +16339,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard power went out suddenly; what were you doing at that moment?<br/>B: I was cooking right then, so I scrambled to turn off the flame.",
       "fr": "A: I heard power went out suddenly; what were you doing at that moment?<br/>B: I was cooking right then, so I scrambled to turn off the flame."
     },
-    "related": "そのとき（授業の重要表現）"
+    "related": "そのとき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0647",
@@ -15551,7 +16365,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日個飯局你嚟唔嚟呀？<br/>B: 唔好意思，今日好忙所以去唔到。",
       "fr": "A: Tu viens à la soirée ce soir ?<br/>B: Désolé, je ne peux pas venir parce que je suis occupé aujourd'hui."
     },
-    "related": "忙しいので（いそがしいので）"
+    "related": "忙しいので（いそがしいので）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0648",
@@ -15576,7 +16391,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 點解你日日都打機㗎？<br/>B: 吓？因為好玩囉！",
       "fr": "A: Pourquoi joues-tu à des jeux vidéo tous les jours ?<br/>B: Hein ? Parce que c'est amusant, évidemment !"
     },
-    "related": "面白いから（おもしろいから）"
+    "related": "面白いから（おもしろいから）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0649",
@@ -15600,7 +16416,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I think this lunch set is full portion and very cheap!<br/>B: 800 yen with dessert included is a great deal.",
       "fr": "A: I think this lunch set is full portion and very cheap!<br/>B: 800 yen with dessert included is a great deal."
     },
-    "related": "安いと思う（授業の重要表現）"
+    "related": "安いと思う（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0650",
@@ -15624,7 +16441,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Supposing this laptop is cheap under 50,000 yen, I'd want to replace mine.<br/>B: During the sale period, it looks like you could get it at that price.",
       "fr": "A: Supposing this laptop is cheap under 50,000 yen, I'd want to replace mine.<br/>B: During the sale period, it looks like you could get it at that price."
     },
-    "related": "安いとしたら（授業の重要表現）"
+    "related": "安いとしたら（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0651",
@@ -15648,7 +16466,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Walking around in a down jacket in midsummer is weird!<br/>B: Indeed! Out of season, passersby will be shocked.",
       "fr": "A: Walking around in a down jacket in midsummer is weird!<br/>B: Indeed! Out of season, passersby will be shocked."
     },
-    "related": "おかしいよ（授業の重要表現）"
+    "related": "おかしいよ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0652",
@@ -15672,7 +16491,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Because older and younger brothers have totally different personalities, food preferences differ too.<br/>B: Even among siblings, differing tastes are interesting.",
       "fr": "A: Because older and younger brothers have totally different personalities, food preferences differ too.<br/>B: Even among siblings, differing tastes are interesting."
     },
-    "related": "違うから（授業の重要表現）"
+    "related": "違うから（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0653",
@@ -15697,7 +16517,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你去健身室嘅頻率大約係幾多？<br/>B: 我每個月畀固定金額，可以任去。",
       "fr": "A: À quelle fréquence vas-tu à la salle de sport ?<br/>B: Je paie un montant fixe chaque mois pour un accès illimité."
     },
-    "related": "毎年（まいとし）"
+    "related": "毎年（まいとし）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0654",
@@ -15721,7 +16542,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm very sorry, but I already have another appointment that day...<br/>B: Not at all, don't worry about it. Let's do it another time!",
       "fr": "A: I'm very sorry, but I already have another appointment that day...<br/>B: Not at all, don't worry about it. Let's do it another time!"
     },
-    "related": "申し訳ないけど／申し訳ないですけど／申し訳ありませんが（授業の重要表現・丁寧な断り表現）"
+    "related": "申し訳ないけど／申し訳ないですけど／申し訳ありませんが（授業の重要表現・丁寧な断り表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0655",
@@ -15746,7 +16568,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你上唔上嗰個阿Sir嘅堂呀？<br/>B: 唔啦，因為好嚴呀。",
       "fr": "A: Vas-tu prendre le cours de ce professeur ?<br/>B: Hmm, non, parce qu'il est strict."
     },
-    "related": "な形容詞＋だから"
+    "related": "な形容詞＋だから",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0656",
@@ -15770,7 +16593,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I want to break the bad habit of biting nails when nervous.<br/>B: Try focusing on deep breaths to relax.",
       "fr": "A: I want to break the bad habit of biting nails when nervous.<br/>B: Try focusing on deep breaths to relax."
     },
-    "related": "わるいくせ（授業の重要表現）"
+    "related": "わるいくせ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0657",
@@ -15794,7 +16618,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Supposing tomorrow's chance of rain is low, will you leave the umbrella behind?<br/>B: Just in case, let's keep a folding umbrella in the bag.",
       "fr": "A: Supposing tomorrow's chance of rain is low, will you leave the umbrella behind?<br/>B: Just in case, let's keep a folding umbrella in the bag."
     },
-    "related": "ひくいとしたら（授業の重要表現）"
+    "related": "ひくいとしたら（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0658",
@@ -15818,7 +16643,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺日本，通常會喺玄關除鞋，入到屋就換上拖鞋著。",
       "fr": "Au Japon, il est coutume d'enlever ses chaussures dans l'entrée et de porter des chaussons à l'intérieur."
     },
-    "related": "はく（授業の重要表現）"
+    "related": "はく（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0659",
@@ -15842,7 +16668,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While walking in the downtown area, a stranger hit on me.<br/>B: Getting approached out of the blue is startling. Ignoring is best.",
       "fr": "A: While walking in the downtown area, a stranger hit on me.<br/>B: Getting approached out of the blue is startling. Ignoring is best."
     },
-    "related": "ナンパする／ナンパされる（授業の重要表現）"
+    "related": "ナンパする／ナンパされる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0660",
@@ -15866,7 +16693,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When conversing in Japanese, giving appropriate conversational nods like 'Un, soudesune' is natural.<br/>B: It acts as a clear sign that you are listening carefully.",
       "fr": "A: When conversing in Japanese, giving appropriate conversational nods like 'Un, soudesune' is natural.<br/>B: It acts as a clear sign that you are listening carefully."
     },
-    "related": "あいづち（授業の重要表現）"
+    "related": "あいづち（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0661",
@@ -15890,7 +16718,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While walking down the street, I bumped into my ex-boyfriend by chance.<br/>B: Wow! That must have been an awkward moment.",
       "fr": "A: While walking down the street, I bumped into my ex-boyfriend by chance.<br/>B: Wow! That must have been an awkward moment."
     },
-    "related": "元カレ／元カノ（授業の重要表現）"
+    "related": "元カレ／元カノ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0662",
@@ -15914,7 +16743,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I met cute mascot characters in mascot suits at the theme park!<br/>B: Moving in a costume suit in summer is tough, but brings dreams to kids.",
       "fr": "A: I met cute mascot characters in mascot suits at the theme park!<br/>B: Moving in a costume suit in summer is tough, but brings dreams to kids."
     },
-    "related": "きぐるみ（授業の重要表現）"
+    "related": "きぐるみ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0663",
@@ -15938,7 +16768,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My brothers got into an argument over something trivial.<br/>B: I hope they make up quickly and play together happily.",
       "fr": "A: My brothers got into an argument over something trivial.<br/>B: I hope they make up quickly and play together happily."
     },
-    "related": "喧嘩して／喧嘩になって（授業の重要表現）"
+    "related": "喧嘩して／喧嘩になって（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0664",
@@ -15962,7 +16793,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Clashing opinions momentarily made the atmosphere awkward.<br/>B: Once we smiled and apologized, it returned to a pleasant mood.",
       "fr": "A: Clashing opinions momentarily made the atmosphere awkward.<br/>B: Once we smiled and apologized, it returned to a pleasant mood."
     },
-    "related": "きまずくなって（授業の重要表現）"
+    "related": "きまずくなって（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0665",
@@ -15986,7 +16818,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Using the tracking number, I tracked the package's current location.<br/>B: Looks like it has already arrived at the nearest delivery hub.",
       "fr": "A: Using the tracking number, I tracked the package's current location.<br/>B: Looks like it has already arrived at the nearest delivery hub."
     },
-    "related": "ついせきする（授業の重要表現）"
+    "related": "ついせきする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0666",
@@ -16011,7 +16844,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 去留學就識講英文㗎啦？<br/>B: 嗰啲好睇個人㗎咋。唯有努力啦。",
       "fr": "A: Est-ce que je serai capable de parler anglais quand j'étudierai à l'étranger ?<br/>B: Ça dépend de la personne. Il faut juste travailler dur."
     },
-    "related": "あなた次第（あなたしだい）"
+    "related": "あなた次第（あなたしだい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0667",
@@ -16036,7 +16870,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 暑假功課大家通常幾時做完㗎？<br/>B: 嗯，因人而異啦。我就係最後一日先做嗰種人。",
       "fr": "A: Quand finis-tu tes devoirs d'été ?<br/>B: Hmm, ça dépend des gens. Je suis du genre à les faire le dernier jour."
     },
-    "related": "場合による（ばあいによる）"
+    "related": "場合による（ばあいによる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0668",
@@ -16061,7 +16896,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講妳同男朋友嗌交，冇事嘛？<br/>B: 冇事，不過我哋已經決定分手啦。",
       "fr": "A: J'ai entendu dire que tu t'es disputée avec ton petit ami. Ça va ?<br/>B: Oui, mais on a décidé de rompre."
     },
-    "related": "付き合う（つきあう）"
+    "related": "付き合う（つきあう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0669",
@@ -16085,7 +16921,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "全家人互相關心包容，建立咗一個溫馨美滿嘅家庭。",
       "fr": "Chaque membre de la famille prend soin des autres, créant ainsi un foyer harmonieux et paisible."
     },
-    "related": "えんまん（授業の重要表現）"
+    "related": "えんまん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0670",
@@ -16109,7 +16946,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 套劇個主角同小三幽會嗰陣，俾老婆/老公捉個正著呀。<br/>B: 俾人斷正睇到咁嘅場面，想兜都兜唔返啦。",
       "fr": "A: Le personnage principal du feuilleton s'est fait surprendre par son conjoint en plein rendez-vous avec son amant.<br/>B: Pris la main dans le sac comme ça, impossible de trouver une excuse."
     },
-    "related": "うわきあいて（授業の重要表現）"
+    "related": "うわきあいて（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0671",
@@ -16134,7 +16972,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我細個畀狗咬過，之後就好驚狗啦。<br/>B: 咁已經完全有晒陰影喎。",
       "fr": "A: J'ai été mordu par un chien quand j'étais enfant, et j'ai peur des chiens depuis.<br/>B: C'est clairement devenu un traumatisme pour toi."
     },
-    "related": "心の傷（こころのきず）"
+    "related": "心の傷（こころのきず）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0672",
@@ -16158,7 +16997,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I fell in love at first sight with her at the bookstore and spoke up.<br/>B: That's a romantic encounter just like a movie scene!",
       "fr": "A: I fell in love at first sight with her at the bookstore and spoke up.<br/>B: That's a romantic encounter just like a movie scene!"
     },
-    "related": "ひとめぼれ（授業の重要表現）"
+    "related": "ひとめぼれ（授業の重要表現）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0673",
@@ -16182,7 +17026,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Drawing a clear boundary line between private life and work is essential.<br/>B: I draw the line by not checking work emails on days off.",
       "fr": "A: Drawing a clear boundary line between private life and work is essential.<br/>B: I draw the line by not checking work emails on days off."
     },
-    "related": "きょうかいせん（授業の重要表現）"
+    "related": "きょうかいせん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0674",
@@ -16206,7 +17051,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺迫爆嘅車廂見到長者或者大肚婆，應該主動讓座俾佢哋坐。",
       "fr": "Quand vous voyez une personne âgée ou une femme enceinte dans un train bondé, cédez-lui volontiers votre place."
     },
-    "related": "ゆずる（授業の重要表現）"
+    "related": "ゆずる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0675",
@@ -16230,7 +17076,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "踩單車嗰陣，為咗自身安全一定要戴好頭盔。",
       "fr": "À vélo, pensez à toujours bien attacher votre casque pour votre sécurité."
     },
-    "related": "かぶる（授業の重要表現）"
+    "related": "かぶる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0676",
@@ -16255,7 +17102,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你今日件衫好襯你呀！<br/>B: 唔好講啦，我會怕醜㗎。",
       "fr": "A: Cette tenue te va très bien aujourd'hui !<br/>B: Arrête, tu me fais rougir."
     },
-    "related": "恥ずかしい（はずかしい）"
+    "related": "恥ずかしい（はずかしい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0677",
@@ -16280,7 +17128,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢唔多會主動搵人傾偈呢。<br/>B: 係呀，因為佢個人好怕醜吖嘛。",
       "fr": "A: Il ne parle pas beaucoup de lui-même.<br/>B: Oui, c'est parce que c'est une personne très timide."
     },
-    "related": "恥ずかしがり屋（はずかしがりや）"
+    "related": "恥ずかしがり屋（はずかしがりや）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0678",
@@ -16304,7 +17153,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In a long-distance relationship, not being able to see each other for long feels lonely.<br/>B: We video-call every night to strengthen our bond.",
       "fr": "A: In a long-distance relationship, not being able to see each other for long feels lonely.<br/>B: We video-call every night to strengthen our bond."
     },
-    "related": "えんきょり／えんきょりれんあい（授業の重要表現）"
+    "related": "えんきょり／えんきょりれんあい（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0679",
@@ -16328,7 +17178,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Since I started dating him, my weekends have become so enjoyable.<br/>B: Spending time with a wonderful partner is true happiness.",
       "fr": "A: Since I started dating him, my weekends have become so enjoyable.<br/>B: Spending time with a wonderful partner is true happiness."
     },
-    "related": "つきあうようになって（授業の重要表現）"
+    "related": "つきあうようになって（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0680",
@@ -16352,7 +17203,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Heavy rain poured yesterday and even my shoes got soaking wet.<br/>B: In sudden downpours, you get wet even with an umbrella.",
       "fr": "A: Heavy rain poured yesterday and even my shoes got soaking wet.<br/>B: In sudden downpours, you get wet even with an umbrella."
     },
-    "related": "大雨がふった／大雨だった（授業の重要表現）"
+    "related": "大雨がふった／大雨だった（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0681",
@@ -16376,7 +17228,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tired of studying, I took a walk in a nearby park for a change of pace.<br/>B: A good change of pace clears your head nicely.",
       "fr": "A: Tired of studying, I took a walk in a nearby park for a change of pace.<br/>B: A good change of pace clears your head nicely."
     },
-    "related": "きぶんてんかん（授業の重要表現）"
+    "related": "きぶんてんかん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0682",
@@ -16400,7 +17253,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I saw huge dinosaur fossils at the museum!<br/>B: The Tyrannosaurus skeleton specimen was huge and breathtaking.",
       "fr": "A: I saw huge dinosaur fossils at the museum!<br/>B: The Tyrannosaurus skeleton specimen was huge and breathtaking."
     },
-    "related": "きょうりゅう（授業の重要表現）"
+    "related": "きょうりゅう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0683",
@@ -16424,7 +17278,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This restaurant is a renowned spot endorsed with Michelin guide approval.<br/>B: With an official expert stamp of approval, the food tastes exquisite.",
       "fr": "A: This restaurant is a renowned spot endorsed with Michelin guide approval.<br/>B: With an official expert stamp of approval, the food tastes exquisite."
     },
-    "related": "おすみつき（授業の重要表現）"
+    "related": "おすみつき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0684",
@@ -16448,7 +17303,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: His sincerity and work accuracy are of proven, guaranteed quality within the firm.<br/>B: He possesses proven competence that everyone trusts.",
       "fr": "A: His sincerity and work accuracy are of proven, guaranteed quality within the firm.<br/>B: He possesses proven competence that everyone trusts."
     },
-    "related": "おりがみつき（授業の重要表現）"
+    "related": "おりがみつき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0685",
@@ -16472,7 +17328,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Failing the test made me lose confidence in my Japanese ability.<br/>B: Everyone makes mistakes. Let's work toward the next one!",
       "fr": "A: Failing the test made me lose confidence in my Japanese ability.<br/>B: Everyone makes mistakes. Let's work toward the next one!"
     },
-    "related": "じしんがなくなる／自信をなくす（授業の重要表現）"
+    "related": "じしんがなくなる／自信をなくす（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0686",
@@ -16496,7 +17353,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I think we should discuss it a bit more, but what do you think?<br/>B: Agreed. Better to proceed cautiously than rush to decide.",
       "fr": "A: I think we should discuss it a bit more, but what do you think?<br/>B: Agreed. Better to proceed cautiously than rush to decide."
     },
-    "related": "おもうけど（授業の重要表現）"
+    "related": "おもうけど（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0687",
@@ -16520,7 +17378,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Starting next month new hires join, and work looks to get busy.<br/>B: Make sure to get plenty of sleep so you don't get sick.",
       "fr": "A: Starting next month new hires join, and work looks to get busy.<br/>B: Make sure to get plenty of sleep so you don't get sick."
     },
-    "related": "いそがしくなる（授業の重要表現）"
+    "related": "いそがしくなる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0688",
@@ -16544,7 +17403,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When standing work lasts long hours, your legs get painful.<br/>B: During break times, stretch your legs and massage them.",
       "fr": "A: When standing work lasts long hours, your legs get painful.<br/>B: During break times, stretch your legs and massage them."
     },
-    "related": "つらくなる（授業の重要表現）"
+    "related": "つらくなる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0689",
@@ -16568,7 +17428,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Maybe it didn't get across because my pronunciation was wrong...<br/>B: If you tweak the accent just a bit, it will definitely be understood!",
       "fr": "A: Maybe it didn't get across because my pronunciation was wrong...<br/>B: If you tweak the accent just a bit, it will definitely be understood!"
     },
-    "related": "わるいから／ちがうから／むずかしいから（授業の重要表現）"
+    "related": "わるいから／ちがうから／むずかしいから（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0690",
@@ -16593,7 +17454,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢部新電話好唔好用呀？<br/>B: 嗯，相機又靚，都唔錯呀。",
       "fr": "A: Comment trouves-tu ce nouveau smartphone ?<br/>B: Ouais, l'appareil photo est beau, c'est pas mal."
     },
-    "related": "良い（いい）"
+    "related": "良い（いい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0691",
@@ -16617,7 +17479,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I couldn't keep up with native conversation speed and lost confidence.<br/>B: Everyone starts like that! Expand words you can catch one by one.",
       "fr": "A: I couldn't keep up with native conversation speed and lost confidence.<br/>B: Everyone starts like that! Expand words you can catch one by one."
     },
-    "related": "じしんがなくなって（授業の重要表現）"
+    "related": "じしんがなくなって（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0692",
@@ -16642,7 +17505,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢啲畫用色好獨特，好靚呀。<br/>B: 係呀，呢啲咪係佢嘅個性囉。",
       "fr": "A: Ses peintures ont des couleurs tellement uniques et merveilleuses.<br/>B: Oui, son individualité s'y reflète vraiment."
     },
-    "related": "特徴（とくちょう）"
+    "related": "特徴（とくちょう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0693",
@@ -16666,7 +17530,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At Japanese language schools, we primarily study Tokyo standard Japanese.<br/>B: Discovering regional dialects after mastering standard Japanese is also fun.",
       "fr": "A: At Japanese language schools, we primarily study Tokyo standard Japanese.<br/>B: Discovering regional dialects after mastering standard Japanese is also fun."
     },
-    "related": "ひょうじゅんご（授業の重要表現）"
+    "related": "ひょうじゅんご（授業の重要表現）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0694",
@@ -16690,7 +17559,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I learned about space and fauna history at the National Museum of Nature and Science in Ueno.<br/>B: With compelling exhibits, you can enjoy it all day long.",
       "fr": "A: I learned about space and fauna history at the National Museum of Nature and Science in Ueno.<br/>B: With compelling exhibits, you can enjoy it all day long."
     },
-    "related": "かがくはくぶつかん（授業の重要表現）"
+    "related": "かがくはくぶつかん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0695",
@@ -16714,7 +17584,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The hostage who had been taken away by the criminal was safely rescued by police.<br/>B: It was truly great that it resolved without anyone getting hurt.",
       "fr": "A: The hostage who had been taken away by the criminal was safely rescued by police.<br/>B: It was truly great that it resolved without anyone getting hurt."
     },
-    "related": "つれていかれた（授業の重要表現）"
+    "related": "つれていかれた（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0696",
@@ -16739,7 +17610,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你屋企有養貓㗎？<br/>B: 係呀，總共養咗五隻呀。",
       "fr": "A: As-tu des chats à la maison ?<br/>B: Oui, j'en ai cinq au total."
     },
-    "related": "ごひき（授業の重要表現）"
+    "related": "ごひき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0697",
@@ -16764,7 +17636,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日套懸疑劇真係好緊張好刺激。<br/>B: 係呀，同犯人對決嗰幕真係睇到手心出汗。",
       "fr": "A: La série à suspense d'hier était tellement captivante !<br/>B: Oui, la scène de confrontation avec le coupable m'a tenu en haleine."
     },
-    "related": "脅される（おどされる）"
+    "related": "脅される（おどされる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0698",
@@ -16789,7 +17662,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 童話故事成日都有公主畀龍捉走嘅橋段呢。<br/>B: 係呀，勇者去救佢就係王道啦。",
       "fr": "A: Il y a beaucoup de contes de fées où la princesse est kidnappée par un dragon, non ?<br/>B: Ouais, et le héros qui va la sauver, c'est le classique."
     },
-    "related": "誘拐される（ゆうかいされる）"
+    "related": "誘拐される（ゆうかいされる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0699",
@@ -16814,7 +17688,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺幼稚園講紙芝居畀啲小朋友聽，佢哋好開心呀。<br/>B: 因為啲圖夠大又易明嘛。",
       "fr": "A: Quand j'ai lu un théâtre d'images à la garderie, les enfants étaient très contents.<br/>B: C'est parce que les images sont grandes et faciles à comprendre."
     },
-    "related": "絵本（えほん）"
+    "related": "絵本（えほん）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0700",
@@ -16839,7 +17714,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢同你同年㗎？<br/>B: 唔係，佢大我一歲呀。",
       "fr": "A: A-t-il le même âge que toi ?<br/>B: Non, il a un an de plus que moi."
     },
-    "related": "年上（としうえ）"
+    "related": "年上（としうえ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0701",
@@ -16864,7 +17740,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 學校學會啲師兄師姐惡唔惡㗎？<br/>B: 雖然大我一級，但係好溫柔㗎。",
       "fr": "A: Tes aînés du club sont-ils stricts ?<br/>B: Ils ont une classe de plus que moi, mais ils sont très gentils."
     },
-    "related": "先輩（せんぱい）"
+    "related": "先輩（せんぱい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0702",
@@ -16889,7 +17766,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 阿嫲最近好冇記性，好擔心。<br/>B: 可能去做個認知障礙症檢查會好啲。",
       "fr": "A: Je m'inquiète pour ma grand-mère car elle a de gros problèmes de mémoire dernièrement.<br/>B: Ce serait peut-être bien de lui faire passer un test de dépistage de la démence."
     },
-    "related": "物忘れ（ものわすれ）"
+    "related": "物忘れ（ものわすれ）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0703",
@@ -16914,7 +17796,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 工作太忙，完全做唔到家務呀。<br/>B: 咁不如一星期請一次家務助理幫手啦？",
       "fr": "A: Je suis tellement occupé par le travail que je ne peux faire aucune tâche ménagère.<br/>B: Alors que dirais-tu d'engager une femme de ménage une fois par semaine ?"
     },
-    "related": "家事（かじ）"
+    "related": "家事（かじ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0704",
@@ -16939,7 +17822,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我打算用第一份糧帶阿爸阿媽去旅行。<br/>B: 真係好孝順呀。",
       "fr": "A: J'emmène mes parents en voyage avec mon premier salaire.<br/>B: C'est un merveilleux acte de piété filiale."
     },
-    "related": "親不孝（おやふこう）"
+    "related": "親不孝（おやふこう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0705",
@@ -16964,7 +17848,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我減肥，完全冇食飯。<br/>B: 過度節食對身體唔好㗎。",
       "fr": "A: Je ne mange pas de riz à cause de mon régime.<br/>B: Une restriction alimentaire excessive est mauvaise pour la santé."
     },
-    "related": "行き過ぎ（いきすぎ）"
+    "related": "行き過ぎ（いきすぎ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0706",
@@ -16989,7 +17874,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢又講啲好過分嘅笑話。<br/>B: 咁又真係過分咗啲，你最好提下佢。",
       "fr": "A: Il a encore raconté une mauvaise blague.<br/>B: Ça va trop loin. Tu devrais l'avertir."
     },
-    "related": "やりすぎる"
+    "related": "やりすぎる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0707",
@@ -17014,7 +17900,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 輸咗比賽好唔甘心呀。<br/>B: 將呢次失敗化為動力，下次再努力啦！",
       "fr": "A: Je suis frustré qu'on ait perdu le match.<br/>B: Utilisons cet échec comme source de motivation pour la prochaine fois et faisons de notre mieux !"
     },
-    "related": "教訓（きょうくん）"
+    "related": "教訓（きょうくん）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0708",
@@ -17038,7 +17925,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With my starting salary as a new hire, I bought gifts for my parents.<br/>B: Repaying parents with your very first salary is truly wonderful.",
       "fr": "A: With my starting salary as a new hire, I bought gifts for my parents.<br/>B: Repaying parents with your very first salary is truly wonderful."
     },
-    "related": "しょにんきゅう（授業の重要表現）"
+    "related": "しょにんきゅう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0709",
@@ -17063,7 +17951,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔夠錢，不如我攞呢隻錶去當舖當咗佢。<br/>B: 吓！？真係好咩？",
       "fr": "A: Je n'ai pas assez d'argent, alors je devrais peut-être mettre cette montre en gage.<br/>B: Quoi !? Tu es sûr de toi ?"
     },
-    "related": "お金を借りる（おかねをかりる）"
+    "related": "お金を借りる（おかねをかりる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0710",
@@ -17087,7 +17976,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 女性佔管理層嘅百分之三十。<br/>B: 增加咗唔少喎。",
       "fr": "A: Les femmes occupent 30 % des postes de direction.<br/>B: Ça a pas mal augmenté."
     },
-    "related": "割合を占める"
+    "related": "割合を占める",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0711",
@@ -17112,7 +18002,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 因為我想睇呢本書，可以借嗎？<br/>B: 可以，請啦。",
       "fr": "A: Comme je veux lire ce livre, puis-je l'emprunter ?<br/>B: Oui, allez-y."
     },
-    "related": "〜したいので"
+    "related": "〜したいので",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0712",
@@ -17136,7 +18027,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我開始投資股票。<br/>B: 有風險㗎，所以要小心啲。",
       "fr": "A: Récemment, j'ai commencé à investir en bourse.<br/>B: Il y a des risques, alors fais attention."
     },
-    "related": "投資家（とうしか）"
+    "related": "投資家（とうしか）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0713",
@@ -17160,7 +18052,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I bought an oversized garbage sticker and disposed of the old wardrobe.<br/>B: Putting it out on the designated date gets it collected smoothly.",
       "fr": "A: I bought an oversized garbage sticker and disposed of the old wardrobe.<br/>B: Putting it out on the designated date gets it collected smoothly."
     },
-    "related": "りえき（授業の重要表現）"
+    "related": "りえき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0714",
@@ -17184,7 +18077,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I had disused home appliances disposed of at a secondhand shop.<br/>B: Having usable items taken in is eco-friendly.",
       "fr": "A: I had disused home appliances disposed of at a secondhand shop.<br/>B: Having usable items taken in is eco-friendly."
     },
-    "related": "だく（授業の重要表現）"
+    "related": "だく（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0715",
@@ -17208,7 +18102,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我對佢嘅言行抱有懷疑。<br/>B: 我都覺得有啲奇怪。",
       "fr": "A: J'éprouve des doutes sur son comportement.<br/>B: Je trouvais aussi ça un peu étrange."
     },
-    "related": "疑問を抱く（ぎもんをいだく）"
+    "related": "疑問を抱く（ぎもんをいだく）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0716",
@@ -17232,7 +18127,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 同客人建立信任關係好重要。<br/>B: 好，我會努力。",
       "fr": "A: Il est important de construire une relation de confiance avec les clients.<br/>B: Oui, je ferai des efforts."
     },
-    "related": "信頼関係を築く"
+    "related": "信頼関係を築く",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0717",
@@ -17256,7 +18152,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Seeing my rival get awarded left me happy, yet with mixed feelings.<br/>B: Wanting to celebrate yet feeling frustrated—truly mixed feelings.",
       "fr": "A: Seeing my rival get awarded left me happy, yet with mixed feelings.<br/>B: Wanting to celebrate yet feeling frustrated—truly mixed feelings."
     },
-    "related": "複雑なきぶんになる／複雑なきもちになる（授業の重要表現）"
+    "related": "複雑なきぶんになる／複雑なきもちになる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0718",
@@ -17280,7 +18177,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我哋喺公園草地野餐啦。<br/>B: 天氣又好，真係正！",
       "fr": "A: Faisons un pique-nique sur la pelouse du parc.<br/>B: Il fait beau en plus, c'est génial !"
     },
-    "related": "芝生に入る（しばふにはいる）"
+    "related": "芝生に入る（しばふにはいる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0719",
@@ -17304,7 +18202,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I clean and do laundry to tidy up my personal surroundings.<br/>B: When your surroundings are tidy, you can welcome the new week refreshed.",
       "fr": "A: Over the weekend I clean and do laundry to tidy up my personal surroundings.<br/>B: When your surroundings are tidy, you can welcome the new week refreshed."
     },
-    "related": "きおん（授業の重要表現）"
+    "related": "きおん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0720",
@@ -17329,7 +18228,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啱啱返到公司，而家去開會。<br/>B: 辛苦晒。",
       "fr": "A: Je viens de rentrer au bureau, donc je vais assister à la réunion maintenant.<br/>B: Bon courage."
     },
-    "related": "〜戻ったので"
+    "related": "〜戻ったので",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0721",
@@ -17353,7 +18253,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近覺得食唔夠蔬菜。<br/>B: 你應該食多啲沙律。",
       "fr": "A: Récemment, je ressens un manque de légumes dans mon alimentation.<br/>B: Tu devrais manger beaucoup de salade."
     },
-    "related": "寝不足（ねぶそく）"
+    "related": "寝不足（ねぶそく）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0722",
@@ -17377,7 +18278,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 淨係顧住偷懶唔做功課。<br/>B: 唔好好做會俾老師鬧㗎。",
       "fr": "A: Je ne fais que paresser sans faire mes devoirs.<br/>B: Le professeur va se fâcher si tu ne les fais pas sérieusement."
     },
-    "related": "怠け者（なまけもの）"
+    "related": "怠け者（なまけもの）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0723",
@@ -17401,7 +18303,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我負責指導新同事。<br/>B: 呢個係重任嚟㗎！",
       "fr": "A: On m'a confié la formation des nouveaux employés.<br/>B: C'est une grande responsabilité !"
     },
-    "related": "指導者（しどうしゃ）"
+    "related": "指導者（しどうしゃ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0724",
@@ -17425,7 +18328,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Taking advantage of consecutive holidays, I took a road trip to a hot-spring town.<br/>B: Having consecutive days off lets you travel far and refresh.",
       "fr": "A: Taking advantage of consecutive holidays, I took a road trip to a hot-spring town.<br/>B: Having consecutive days off lets you travel far and refresh."
     },
-    "related": "してき（授業の重要表現）"
+    "related": "してき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0725",
@@ -17449,7 +18353,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近啲後生仔有唔睇電視嘅傾向。<br/>B: 因為有智能手機就夠啦。",
       "fr": "A: Les jeunes d'aujourd'hui ont tendance à ne pas regarder la télévision.<br/>B: Les smartphones leur suffisent."
     },
-    "related": "増加傾向（ぞうかけいこう）"
+    "related": "増加傾向（ぞうかけいこう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0726",
@@ -17474,7 +18379,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 攰嗰陣好容易犯錯。<br/>B: 係呀，好好休息吓啦。",
       "fr": "A: Quand on est fatigué, on a tendance à faire des erreurs.<br/>B: Oui, reposons-nous bien."
     },
-    "related": "忘れがち（わすれがち）"
+    "related": "忘れがち（わすれがち）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0727",
@@ -17498,7 +18404,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 電子支付都幾普及喇喎。<br/>B: 唔帶現金都可以買嘢，好方便。",
       "fr": "A: Les paiements sans contact se sont beaucoup répandus.<br/>B: C'est pratique de faire ses courses sans espèces."
     },
-    "related": "普及率（ふきゅうりつ）"
+    "related": "普及率（ふきゅうりつ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0728",
@@ -17522,7 +18429,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 損毀範圍波及得好廣泛。<br/>B: 希望可以盡快復原。",
       "fr": "A: Les dégâts s'étendent sur une vaste zone.<br/>B: J'espère un rétablissement rapide."
     },
-    "related": "影響が及ぶ（えいきょうがおよぶ）"
+    "related": "影響が及ぶ（えいきょうがおよぶ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0729",
@@ -17546,7 +18454,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我哋諗個新嘅市場營銷策略啦。<br/>B: 好，首先縮窄目標客源先。",
       "fr": "A: Réfléchissons à une nouvelle stratégie marketing.<br/>B: Oui, ciblons d'abord notre public."
     },
-    "related": "経営戦略（けいえいせんりゃく）"
+    "related": "経営戦略（けいえいせんりゃく）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0730",
@@ -17570,7 +18483,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 仔仔嘅乳齒甩咗。<br/>B: 係成長嘅證明呀！",
       "fr": "A: La dent de lait de mon fils est tombée.<br/>B: C'est un signe qu'il grandit !"
     },
-    "related": "永久歯（えいきゅうし）"
+    "related": "永久歯（えいきゅうし）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0731",
@@ -17594,7 +18508,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 食咗個大漢堡包，下巴差啲甩。<br/>B: 唔好勉強自己呀。",
       "fr": "A: J'ai failli me déboîter la mâchoire en mangeant un énorme hamburger.<br/>B: Ne force pas trop."
     },
-    "related": "顎（あご）"
+    "related": "顎（あご）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0732",
@@ -17618,7 +18533,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好鍾意呢間cafe嘅氣氛。<br/>B: 好舒服平靜，真係唔錯。",
       "fr": "A: J'aime beaucoup l'atmosphère de ce café.<br/>B: C'est calme et agréable, n'est-ce pas ?"
     },
-    "related": "お気に入り（おきにいり）"
+    "related": "お気に入り（おきにいり）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0733",
@@ -17642,7 +18558,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢好有親和力，大家都鍾意佢。<br/>B: 笑容好靚呀。",
       "fr": "A: Elle a beaucoup de charme et tout le monde l'aime.<br/>B: Elle a un sourire magnifique."
     },
-    "related": "愛嬌がある（あいきょうがある）"
+    "related": "愛嬌がある（あいきょうがある）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0734",
@@ -17666,7 +18583,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰個店員態度好好喎。<br/>B: 係呀，成日都好有精神咁打招呼。",
       "fr": "A: Cet employé de magasin est très aimable.<br/>B: Oui, il nous salue toujours joyeusement."
     },
-    "related": "愛想がいい（あいそがいい）"
+    "related": "愛想がいい（あいそがいい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0735",
@@ -17690,7 +18608,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今朝新聞報道咗新話題喎。<br/>B: 係呀，了解社會動態好重要。",
       "fr": "A: On a parlé d'un nouveau sujet aux informations ce matin.<br/>B: Oui, il est essentiel de suivre l'actualité de la société."
     },
-    "related": "与党（よとう）と野党（やとう）"
+    "related": "与党（よとう）と野党（やとう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0736",
@@ -17714,7 +18633,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我為咗將來儲錢。<br/>B: 好有計劃，真係叻。",
       "fr": "A: J'épargne de l'argent pour l'avenir.<br/>B: C'est bien planifié et admirable."
     },
-    "related": "貯金（ちょきん）"
+    "related": "貯金（ちょきん）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0737",
@@ -17738,7 +18658,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日股價跌咗好多喎。<br/>B: 應該係受經濟新聞影響。",
       "fr": "A: Les cours des actions ont considérablement chuté aujourd'hui.<br/>B: C'est probablement l'impact des nouvelles économiques."
     },
-    "related": "株価が上がる（かぶかがあがる）"
+    "related": "株価が上がる（かぶかがあがる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0738",
@@ -17762,7 +18683,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 應該趁後生開始諗下資產累積。<br/>B: 係呀，我會由學習開始先。",
       "fr": "A: Il faut penser à la constitution de son patrimoine dès le plus jeune âge.<br/>B: C'est vrai, je vais commencer par me documenter."
     },
-    "related": "投資（とうし）"
+    "related": "投資（とうし）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0739",
@@ -17787,7 +18709,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢對邊個都咁溫柔。<br/>B: 真係好值得尊敬。",
       "fr": "A: Il est gentil envers tout le monde.<br/>B: C'est une personne vraiment respectable."
     },
-    "related": "〜について"
+    "related": "〜について",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0740",
@@ -17811,7 +18734,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新系統開始運作喇。<br/>B: 希望唔好出問題啦。",
       "fr": "A: L'exploitation du nouveau système a commencé.<br/>B: J'espère qu'il n'y aura pas de problèmes."
     },
-    "related": "資産運用（しさんうんよう）"
+    "related": "資産運用（しさんうんよう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0741",
@@ -17835,7 +18759,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我屋企有癌症家族史，所以年年都有做檢查。<br/>B: 盡早發現好重要㗎。",
       "fr": "A: Ma famille a des antécédents de cancer, je me fais donc dépister chaque année.<br/>B: La détection précoce est importante."
     },
-    "related": "遺伝（いでん）"
+    "related": "遺伝（いでん）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0742",
@@ -17859,7 +18784,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 食太多煙會導致早死㗎。<br/>B: 我知，但係好難戒...",
       "fr": "A: Trop fumer peut causer une mort prématurée.<br/>B: Je sais, mais c'est difficile d'arrêter..."
     },
-    "related": "長生き（ながいき）"
+    "related": "長生き（ながいき）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0743",
@@ -17883,7 +18809,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我太公活到一百歲。<br/>B: 真係好長壽呀！",
       "fr": "A: Mon arrière-grand-père a vécu jusqu'à cent ans.<br/>B: C'est une très longue vie !"
     },
-    "related": "曾祖父・曾祖母（そうそふ・そうそぼ）"
+    "related": "曾祖父・曾祖母（そうそふ・そうそぼ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0744",
@@ -17907,7 +18834,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日請帶開會嘅資料過嚟。<br/>B: 知道，我會記得帶。",
       "fr": "A: Veuillez apporter les documents pour la réunion de demain.<br/>B: Oui, c'est compris. Je n'oublierai pas de les apporter."
     },
-    "related": "持っていく（もっていく）"
+    "related": "持っていく（もっていく）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0745",
@@ -17931,7 +18859,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嚟緊嘅派對，我可唔可以帶朋友嚟？<br/>B: 當然可以啦！無任歡迎。",
       "fr": "A: Puis-je amener un ami à la prochaine fête ?<br/>B: Bien sûr ! Ils sont les bienvenus."
     },
-    "related": "連れていく（つれていく）"
+    "related": "連れていく（つれていく）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0746",
@@ -17955,7 +18884,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 件事可以圓滿解決真係好。<br/>B: 真係鬆咗口氣。",
       "fr": "A: Je suis content que le problème ait été résolu à l'amiable.<br/>B: Je suis vraiment soulagé."
     },
-    "related": "円満解決（えんまんかいけつ）"
+    "related": "円満解決（えんまんかいけつ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0747",
@@ -17979,7 +18909,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我唔同意佢咁強硬嘅做法。<br/>B: 我都覺得應該傾多陣。",
       "fr": "A: Je ne peux pas être d'accord avec ses méthodes brutales.<br/>B: Je pense aussi que nous devrions en discuter un peu plus."
     },
-    "related": "強引な人（ごういんなひと）"
+    "related": "強引な人（ごういんなひと）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0748",
@@ -18004,7 +18935,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢都唔想，夾硬帶佢去唔太好喎。<br/>B: 係啦，尊重佢嘅意願啦。",
       "fr": "A: Ce n'est pas bien de l'emmener de force alors qu'il n'en a pas envie.<br/>B: C'est vrai, respectons sa volonté."
     },
-    "related": "無理やり（むりやり・力ずくで何かを行うこと）"
+    "related": "無理やり（むりやり・力ずくで何かを行うこと）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0749",
@@ -18028,7 +18960,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 交通意外搞到大塞車。<br/>B: 開會好似會遲到，先通知聲啦。",
       "fr": "A: La route est très embouteillée à cause d'un accident.<br/>B: On risque d'être en retard pour la réunion, prévenons-les."
     },
-    "related": "渋滞にはまる（じゅうたいにはまる）"
+    "related": "渋滞にはまる（じゅうたいにはまる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0750",
@@ -18052,7 +18985,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢成日講啲搞笑嘢𠱁大家開心。<br/>B: 係班入面嘅開心果呀。",
       "fr": "A: Il dit toujours des choses comiques et fait rire tout le monde.<br/>B: Il met l'ambiance dans la classe."
     },
-    "related": "ひょうきん者（ひょうきんもの）"
+    "related": "ひょうきん者（ひょうきんもの）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0751",
@@ -18076,7 +19010,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢性格開朗，令周圍氣氛都好活躍。<br/>B: 同佢一齊會好有活力。",
       "fr": "A: Elle a une personnalité joyeuse et illumine son entourage.<br/>B: Être avec elle donne de l'énergie, n'est-ce pas ?"
     },
-    "related": "陰気（いんき）"
+    "related": "陰気（いんき）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0752",
@@ -18100,7 +19035,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰間房曬唔到太陽，有啲陰沉。<br/>B: 係呀，通風都唔好。",
       "fr": "A: Cette pièce ne reçoit pas de soleil, elle est donc un peu sombre.<br/>B: Oui, et l'aération est mauvaise aussi."
     },
-    "related": "陽気（ようき）"
+    "related": "陽気（ようき）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0753",
@@ -18124,7 +19060,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢好多朋友，係個完全嘅外向人。<br/>B: 佢好似都好鍾意參加活動。",
       "fr": "A: Il a beaucoup d'amis, c'est un extraverti total.<br/>B: Il a l'air d'aimer les événements aussi."
     },
-    "related": "陰キャ（いんキャ）"
+    "related": "陰キャ（いんキャ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0754",
@@ -18148,7 +19085,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我係唔太鍾意一大班人玩嘅內向人。<br/>B: 唔使勉強自己迎合人哋嘅。",
       "fr": "A: Je suis un introverti qui n'aime pas faire la fête en grand groupe.<br/>B: Il n'est pas nécessaire de te forcer à t'intégrer."
     },
-    "related": "陽キャ（ようキャ）"
+    "related": "陽キャ（ようキャ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0755",
@@ -18172,7 +19110,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講犯人揸車走佬。<br/>B: 希望快啲捉到啦。",
       "fr": "A: J'ai entendu dire que le coupable s'était enfui en voiture.<br/>B: J'espère qu'ils l'attraperont bientôt."
     },
-    "related": "逃げる（にげる）"
+    "related": "逃げる（にげる）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0756",
@@ -18197,7 +19136,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰間餐廳超有名，book唔到位。<br/>B: 真係想搵日去食下。",
       "fr": "A: Ce restaurant est super célèbre, impossible d'avoir une réservation.<br/>B: J'aimerais y aller un jour."
     },
-    "related": "有名人（ゆうめいじん）"
+    "related": "有名人（ゆうめいじん）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0757",
@@ -18221,7 +19161,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm torn on what name to give the newly born puppy.<br/>B: Since he's white and fluffy, how about naming him 'Shiro'?",
       "fr": "A: I'm torn on what name to give the newly born puppy.<br/>B: Since he's white and fluffy, how about naming him 'Shiro'?"
     },
-    "related": "なまえをつける／なづける（授業の重要表現）"
+    "related": "なまえをつける／なづける（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0758",
@@ -18245,7 +19186,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 朋友臨時放飛機，搞到得閒晒。<br/>B: 真係可惜。",
       "fr": "A: Mon ami a annulé à la dernière minute, donc mon emploi du temps s'est libéré.<br/>B: C'est dommage."
     },
-    "related": "キャンセル"
+    "related": "キャンセル",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0759",
@@ -18269,7 +19211,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 屋企人一直都支持我。<br/>B: 係好安心嘅後盾。",
       "fr": "A: Ma famille me soutient toujours.<br/>B: C'est une présence rassurante."
     },
-    "related": "支え合い（ささえあい）"
+    "related": "支え合い（ささえあい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0760",
@@ -18293,7 +19236,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰套新戲口碑好好喎。<br/>B: 咁呢個週末去睇啦！",
       "fr": "A: Ce nouveau film a une très bonne réputation.<br/>B: Alors allons le voir ce week-end !"
     },
-    "related": "評判が良い（ひょうばんがよい）"
+    "related": "評判が良い（ひょうばんがよい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0761",
@@ -18317,7 +19261,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 暑假同屋企人去咗主題樂園。<br/>B: 好好玩咁喎！小朋友一定好開心。",
       "fr": "A: Je suis allé dans un parc à thème avec ma famille pendant les vacances d'été.<br/>B: Ça a l'air amusant ! Les enfants ont dû être ravis."
     },
-    "related": "遊園地（ゆうえんち）"
+    "related": "遊園地（ゆうえんち）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0762",
@@ -18341,7 +19286,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 好香喎。換咗香水呀？<br/>B: 係呀，試咗隻有啲甜嘅香味。",
       "fr": "A: Tu sens bon. Tu as changé de parfum ?<br/>B: Oui, j'ai essayé un parfum avec une odeur légèrement sucrée."
     },
-    "related": "香水をつける（こうすいをつける）"
+    "related": "香水をつける（こうすいをつける）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0763",
@@ -18365,7 +19311,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you share your travel stories from the trip?<br/>B: Sure, there were lots of interesting experiences, let me show photos!",
       "fr": "A: Could you share your travel stories from the trip?<br/>B: Sure, there were lots of interesting experiences, let me show photos!"
     },
-    "related": "しんり（授業の重要表現）"
+    "related": "しんり（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0764",
@@ -18390,7 +19337,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 歷史堂學到古代嘅一夫多妻制。<br/>B: 同現代嘅價值觀好唔同。",
       "fr": "A: En cours d'histoire, nous avons étudié le système de la polygynie ancienne.<br/>B: C'est très différent des valeurs modernes."
     },
-    "related": "一夫一婦制（いっぷいっぷせい）"
+    "related": "一夫一婦制（いっぷいっぷせい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0765",
@@ -18415,7 +19363,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 因為遲啲會好辛苦，趁而家做晒啲功課先。<br/>B: 咁樣好明智喎。",
       "fr": "A: Je vais faire mes devoirs maintenant car ça deviendra difficile plus tard.<br/>B: C'est un choix judicieux."
     },
-    "related": "〜になるので"
+    "related": "〜になるので",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0766",
@@ -18440,7 +19389,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 因為佢應承會幫手，我就放心喇。<br/>B: 咁真係令人安心。",
       "fr": "A: J'ai été soulagé parce qu'il a promis de m'aider.<br/>B: C'est très rassurant."
     },
-    "related": "約束する（やくそくする）"
+    "related": "約束する（やくそくする）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0767",
@@ -18465,7 +19415,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 那個小朋友又喺度任性咁喊喇。<br/>B: 真係令人頭痛。",
       "fr": "A: Cet enfant dit encore des choses égoïstes et pleure.<br/>B: C'est vraiment embêtant, n'est-ce pas ?"
     },
-    "related": "わがままを言う"
+    "related": "わがままを言う",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0768",
@@ -18490,7 +19441,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近沖涼嗰陣甩頭髮嘅情況令我好在意。<br/>B: 可能係壓力造成㗎。",
       "fr": "A: Récemment, je m'inquiète de la perte de mes cheveux dans le bain.<br/>B: C'est peut-être à cause du stress."
     },
-    "related": "髪が抜ける"
+    "related": "髪が抜ける",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0769",
@@ -18515,7 +19467,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好擔心會好似爸爸咁禿頭。<br/>B: 由而家開始好好護理啦。",
       "fr": "A: J'ai peur de devenir chauve comme mon père.<br/>B: Commençons à en prendre bien soin dès maintenant."
     },
-    "related": "ハゲる"
+    "related": "ハゲる",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0770",
@@ -18540,7 +19497,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下個星期開始我會去夏威夷旅行。<br/>B: 嘩，好羨慕呀！",
       "fr": "A: Je pars en voyage à Hawaï la semaine prochaine.<br/>B: Waouh, je suis tellement jaloux !"
     },
-    "related": "羨ましい"
+    "related": "羨ましい",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0771",
@@ -18565,7 +19523,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 面試嗰陣我好緊張，腦海一片空白。<br/>B: 冇事嘅，大家一開始都係咁。",
       "fr": "A: Pendant l'entretien, j'étais nerveux et mon esprit est devenu complètement vide.<br/>B: Tout le monde réagit comme ça au début, ne t'inquiète pas."
     },
-    "related": "頭が真っ白になる"
+    "related": "頭が真っ白になる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0772",
@@ -18590,7 +19549,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日嘅野餐我會帶飯盒過去呀。<br/>B: 多謝！好期待呀。",
       "fr": "A: J'apporterai des bento pour le pique-nique de demain.<br/>B: Merci ! J'ai hâte d'y être."
     },
-    "related": "持っていく"
+    "related": "持っていく",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0773",
@@ -18615,7 +19575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末我打算帶隻狗去公園。<br/>B: 聽落唔錯喎。天氣睇嚟都好好。",
       "fr": "A: Je prévois d'emmener mon chien au parc ce week-end.<br/>B: C'est une bonne idée. Il fera beau aussi."
     },
-    "related": "連れていく"
+    "related": "連れていく",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0774",
@@ -18640,7 +19601,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺呢間工廠入面最辛苦嘅工作係咩呀？<br/>B: 係搬重嘢。",
       "fr": "A: Quelle est la tâche la plus difficile dans cette usine ?<br/>B: C'est de porter de lourdes charges."
     },
-    "related": "作業"
+    "related": "作業",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0775",
@@ -18665,7 +19627,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新聞話犯人將人質監禁喺地下室度。<br/>B: 真係一宗好得人驚嘅案件。",
       "fr": "A: Aux informations, ils ont dit que le coupable avait séquestré les otages dans un sous-sol.<br/>B: C'est un incident vraiment terrifiant."
     },
-    "related": "監禁する"
+    "related": "監禁する",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0776",
@@ -18690,7 +19653,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我唔小心將隻貓困咗喺衣櫃入面。<br/>B: 快啲放佢出嚟啦！",
       "fr": "A: J'ai accidentellement enfermé le chat dans le placard.<br/>B: Fais-le sortir vite !"
     },
-    "related": "閉じ込める"
+    "related": "閉じ込める",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0777",
@@ -18715,7 +19679,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 行喺路上面嘅青蛙俾車車死咗。<br/>B: 好可憐……如果過馬路嗰陣小心啲就好啦。",
       "fr": "A: Une grenouille qui marchait sur la route a été écrasée par une voiture.<br/>B: La pauvre... elle aurait dû traverser prudemment."
     },
-    "related": "車で轢かれる"
+    "related": "車で轢かれる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0778",
@@ -18740,7 +19705,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢運動好又溫柔，所以喺學校極受歡迎。<br/>B: 真係犀利！睇嚟情人節會收好多朱古力。",
       "fr": "A: Il est doué en sport et gentil, donc il est très populaire à l'école.<br/>B: Comme on s'y attendait ! Il recevra probablement beaucoup de chocolats pour la Saint-Valentin."
     },
-    "related": "モテモテ"
+    "related": "モテモテ",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0779",
@@ -18765,7 +19731,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺髮型屋度稍微偷薄咗啲頭髮。<br/>B: 睇落好清爽，好襯你呀。",
       "fr": "A: J'ai fait désépaissir un peu mes cheveux chez le coiffeur.<br/>B: Ça fait frais et ça vous va très bien."
     },
-    "related": "髪の量"
+    "related": "髪の量",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0780",
@@ -18790,7 +19757,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咦？碗湯入面有條頭髮。<br/>B: 吓，真係？即刻叫職員過嚟啦。",
       "fr": "A: Hein ? Il y a un cheveu dans ma soupe.<br/>B: Vraiment ? Appelons le personnel tout de suite."
     },
-    "related": "髪の毛"
+    "related": "髪の毛",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0781",
@@ -18815,7 +19783,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我開始試用一隻新嘅生髮水。<br/>B: 希望見效啦。",
       "fr": "A: J'ai récemment commencé à essayer un nouveau traitement pour la repousse des cheveux.<br/>B: J'espère que cela fonctionnera bien."
     },
-    "related": "発毛剤"
+    "related": "発毛剤",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0782",
@@ -18840,7 +19809,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺頭皮按摩之後會用護髮劑。<br/>B: 繼續保養係好重要㗎。",
       "fr": "A: J'utilise un tonique capillaire après un massage du cuir chevelu.<br/>B: C'est important de continuer les soins."
     },
-    "related": "育毛剤"
+    "related": "育毛剤",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0783",
@@ -18865,7 +19835,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 雖然失敗咗好唔開心，但我會轉換心情繼續努力㗎。<br/>B: 呢個態度就啱喇！",
       "fr": "A: J'étais déprimé après avoir échoué, mais je vais changer d'état d'esprit et faire de mon mieux.<br/>B: C'est l'esprit !"
     },
-    "related": "切り替える"
+    "related": "切り替える",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0784",
@@ -18890,7 +19861,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 雖然好飽，但食蛋糕係用第二個胃㗎。<br/>B: 絕對係！甜品幾多都食得落。",
       "fr": "A: Je suis rassasié, mais il y a toujours de la place pour le gâteau.<br/>B: Tellement vrai ! Je pourrais manger autant de sucreries que je veux."
     },
-    "related": "別腹"
+    "related": "別腹",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0785",
@@ -18915,7 +19887,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 飲酒過量會對肝臟等器官造成負擔。<br/>B: 為咗健康，我會飲少啲。",
       "fr": "A: Boire trop d'alcool met à rude épreuve des organes comme le foie.<br/>B: Je vais réduire pour le bien de ma santé."
     },
-    "related": "臓器"
+    "related": "臓器",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0786",
@@ -18940,7 +19913,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 繼續做重訓之後，我對手粗咗好多。<br/>B: 好犀利！係努力嘅成果呀。",
       "fr": "A: Après avoir continué la musculation, mes bras sont devenus assez épais.<br/>B: Incroyable ! C'est le résultat de tes efforts."
     },
-    "related": "太くなる"
+    "related": "太くなる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0787",
@@ -18965,7 +19939,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近個肚腩現咗出嚟，係咪應該減肥呢。<br/>B: 不如一齊去健身室啦？",
       "fr": "A: Mon ventre a grossi récemment, alors je devrais peut-être faire un régime.<br/>B: Tu veux qu'on aille à la salle de sport ensemble ?"
     },
-    "related": "お腹が出る"
+    "related": "お腹が出る",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0788",
@@ -18990,7 +19965,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢有潔癖，所以唔敢食人哋捏嘅飯糰。<br/>B: 咁樣生活感覺好似有啲辛苦喎。",
       "fr": "A: Il est mysophobe, donc il ne peut pas manger de boulettes de riz faites par d'autres.<br/>B: Ça doit être un peu difficile à vivre."
     },
-    "related": "潔癖症"
+    "related": "潔癖症",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0789",
@@ -19015,7 +19991,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日我心情好低落，咩都唔想做。<br/>B: 唔好勉強，好好休息下啦。",
       "fr": "A: Je me sens déprimé aujourd'hui et je n'ai envie de rien faire.<br/>B: Ne te force pas, repose-toi bien."
     },
-    "related": "気分が沈む"
+    "related": "気分が沈む",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0790",
@@ -19039,7 +20016,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Neglecting practice makes me feel like my tennis level has been dropping.<br/>B: If you resume regular practice from basics, you'll regain it quickly!",
       "fr": "A: Neglecting practice makes me feel like my tennis level has been dropping.<br/>B: If you resume regular practice from basics, you'll regain it quickly!"
     },
-    "related": "レベルがさがってきている（授業の重要表現）"
+    "related": "レベルがさがってきている（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0791",
@@ -19063,7 +20041,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The temperature has been getting gradually lower, so don't catch a cold.<br/>B: I'll turn on heating and drink warm soup.",
       "fr": "A: The temperature has been getting gradually lower, so don't catch a cold.<br/>B: I'll turn on heating and drink warm soup."
     },
-    "related": "ひくくなってきている（授業の重要表現）"
+    "related": "ひくくなってきている（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0792",
@@ -19087,7 +20066,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Lately my test scores have been declining, so I'll review study methods.<br/>B: Reviewing weaknesses thoroughly is effective.",
       "fr": "A: Lately my test scores have been declining, so I'll review study methods.<br/>B: Reviewing weaknesses thoroughly is effective."
     },
-    "related": "おちてきている（授業の重要表現）"
+    "related": "おちてきている（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0793",
@@ -19111,7 +20091,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Because I want to make a cake this weekend, I bought butter and flour.<br/>B: Homemade cake—I'm looking forward to when it bakes!",
       "fr": "A: Because I want to make a cake this weekend, I bought butter and flour.<br/>B: Homemade cake—I'm looking forward to when it bakes!"
     },
-    "related": "つくりたいので（授業の重要表現）"
+    "related": "つくりたいので（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0794",
@@ -19135,7 +20116,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The entrance to the Japanese tatami room features traditional sliding doors.<br/>B: Sliding doors that slide sideways don't take up space and are convenient.",
       "fr": "A: The entrance to the Japanese tatami room features traditional sliding doors.<br/>B: Sliding doors that slide sideways don't take up space and are convenient."
     },
-    "related": "ひきど（授業の重要表現）"
+    "related": "ひきど（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0795",
@@ -19159,7 +20141,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Staying up late gaming led me into a reversed day-night cycle.<br/>B: Soak in the morning sunlight and gradually reset your daily rhythm.",
       "fr": "A: Staying up late gaming led me into a reversed day-night cycle.<br/>B: Soak in the morning sunlight and gradually reset your daily rhythm."
     },
-    "related": "ちゅうやぎゃくてん（授業の重要表現）"
+    "related": "ちゅうやぎゃくてん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0796",
@@ -19183,7 +20166,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This cafe has a calm clientele where you can work quietly.<br/>B: Many customers are adults reading or working, so it feels very comfortable.",
       "fr": "A: This cafe has a calm clientele where you can work quietly.<br/>B: Many customers are adults reading or working, so it feels very comfortable."
     },
-    "related": "きゃくそう（授業の重要表現）"
+    "related": "きゃくそう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0797",
@@ -19208,7 +20192,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 有隻蟲飛咗入房，快啲趕佢出去！<br/>B: 知道，我開窗啦。",
       "fr": "A: Un insecte est entré dans la chambre, s'il te plaît chasse-le !<br/>B: Compris, je vais ouvrir la fenêtre."
     },
-    "related": "追い出す"
+    "related": "追い出す",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0798",
@@ -19232,7 +20221,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: During the New Year holidays, the entire family gathered to eat osechi.<br/>B: Family time during the New Year is such a warm and special time.",
       "fr": "A: During the New Year holidays, the entire family gathered to eat osechi.<br/>B: Family time during the New Year is such a warm and special time."
     },
-    "related": "おしょうがつ（授業の重要表現）"
+    "related": "おしょうがつ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0799",
@@ -19256,7 +20246,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On New Year's morning, I went to the coast to view the first sunrise.<br/>B: Praying to the sunrise on the morning of Jan 1st feels so refreshing.",
       "fr": "A: On New Year's morning, I went to the coast to view the first sunrise.<br/>B: Praying to the sunrise on the morning of Jan 1st feels so refreshing."
     },
-    "related": "がんたん（授業の重要表現）"
+    "related": "がんたん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0800",
@@ -19280,7 +20271,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On New Year's Day, I went to a local shrine for Hatsumode and drew a fortune.<br/>B: Spending January 1st peacefully feels like a great start to the year.",
       "fr": "A: On New Year's Day, I went to a local shrine for Hatsumode and drew a fortune.<br/>B: Spending January 1st peacefully feels like a great start to the year."
     },
-    "related": "がんじつ（授業の重要表現）"
+    "related": "がんじつ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0801",
@@ -19305,7 +20297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我一時唔記得嗰個演員叫咩名添。<br/>B: 用手機查下啦。",
       "fr": "A: J'ai eu un trou de mémoire sur le nom de cet acteur.<br/>B: Cherchons-le sur nos smartphones."
     },
-    "related": "ど忘れする"
+    "related": "ど忘れする",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0802",
@@ -19329,7 +20322,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On days off, I leisurely read books at a cafe.<br/>B: Spending time reading favorite books is so refreshing.",
       "fr": "A: On days off, I leisurely read books at a cafe.<br/>B: Spending time reading favorite books is so refreshing."
     },
-    "related": "読書をします（授業の重要表現）"
+    "related": "読書をします（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0803",
@@ -19353,7 +20347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Being able to get in touch and confirm safety made me feel truly at ease.<br/>B: I'm so glad! I was worried too.",
       "fr": "A: Being able to get in touch and confirm safety made me feel truly at ease.<br/>B: I'm so glad! I was worried too."
     },
-    "related": "あんしんする（授業の重要表現）"
+    "related": "あんしんする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0804",
@@ -19377,7 +20372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The tense surgery succeeded safely, and the whole family felt relieved.<br/>B: Being relieved after long tension is truly wonderful.",
       "fr": "A: The tense surgery succeeded safely, and the whole family felt relieved.<br/>B: Being relieved after long tension is truly wonderful."
     },
-    "related": "あんどする（授業の重要表現）"
+    "related": "あんどする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0805",
@@ -19401,7 +20397,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I have a license, but I haven't driven in years—I'm a paper driver.<br/>B: Taking a refresher driving course before driving again gives peace of mind.",
       "fr": "A: I have a license, but I haven't driven in years—I'm a paper driver.<br/>B: Taking a refresher driving course before driving again gives peace of mind."
     },
-    "related": "ペーパードライバー（授業の重要表現）"
+    "related": "ペーパードライバー（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0806",
@@ -19425,7 +20422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When driving a car or motorcycle, compulsory liability insurance is required.<br/>B: Make sure to renew it in preparation for any traffic accidents.",
       "fr": "A: When driving a car or motorcycle, compulsory liability insurance is required.<br/>B: Make sure to renew it in preparation for any traffic accidents."
     },
-    "related": "じばいせき（授業の重要表現）"
+    "related": "じばいせき（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0807",
@@ -19450,7 +20448,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 買車之後，除咗三保，最好買埋自願保險。<br/>B: 係呀，為萬一做準備好重要㗎。",
       "fr": "A: Lorsque vous achetez une voiture, vous devriez souscrire une assurance facultative en plus de l'assurance obligatoire.<br/>B: C'est vrai, il est important de se préparer à l'imprévu."
     },
-    "related": "任意保険"
+    "related": "任意保険",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0808",
@@ -19475,7 +20474,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 架車喺公路度壞咗，所以我叫咗拖車。<br/>B: 真係辛苦你啦。",
       "fr": "A: Ma voiture est tombée en panne sur la route, alors j'ai appelé une dépanneuse.<br/>B: Ça a dû être difficile."
     },
-    "related": "レッカー車"
+    "related": "レッカー車",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0809",
@@ -19500,7 +20500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗌完交之後，同佢嘅關係變得好尷尬。<br/>B: 都係坦白啲道歉好啲喎。",
       "fr": "A: Après la dispute, la situation est devenue gênante avec lui.<br/>B: Tu devrais t'excuser sincèrement."
     },
-    "related": "気まずい"
+    "related": "気まずい",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0810",
@@ -19525,7 +20526,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新工作已經習慣咗未呀？<br/>B: 係呀，多得大家關照，已經好習慣喇。",
       "fr": "A: Vous êtes-vous déjà habitué à votre nouveau travail ?<br/>B: Oui, heureusement, je m'y suis bien habitué."
     },
-    "related": "慣れる"
+    "related": "慣れる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0811",
@@ -19550,7 +20552,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 年尾年初嘅假期會去邊度呀？<br/>B: 我打算返鄉下。",
       "fr": "A: Allez-vous quelque part pendant les vacances de fin d'année et du Nouvel An ?<br/>B: Je prévois de retourner chez mes parents."
     },
-    "related": "年末年始"
+    "related": "年末年始",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0812",
@@ -19575,7 +20578,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢喺溫室度長大，所以抗壓能力有啲弱。<br/>B: 係呀，可能因為佢未捱過苦啩。",
       "fr": "A: Il a été élevé dans un environnement surprotégé, donc il est un peu fragile.<br/>B: Oui, il n'a probablement pas connu beaucoup de difficultés."
     },
-    "related": "温室育ち"
+    "related": "温室育ち",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0813",
@@ -19600,7 +20604,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 返公司單程要幾耐呀？<br/>B: 搭地鐵大約一個鐘。",
       "fr": "A: Combien de temps faut-il pour aller à votre entreprise pour un aller simple ?<br/>B: Cela prend environ une heure en train."
     },
-    "related": "片道"
+    "related": "片道",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0814",
@@ -19625,7 +20630,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我買咗由東京去大阪嘅來回車飛。<br/>B: 咁樣計落應該會平啲。",
       "fr": "A: J'ai acheté un billet aller-retour de Tokyo à Osaka.<br/>B: Ça devrait être moins cher."
     },
-    "related": "往復"
+    "related": "往復",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0815",
@@ -19650,7 +20656,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新聞公佈咗櫻花開花，即係話春天已經嚟到喇。<br/>B: 咁快又到呢個季節喇。",
       "fr": "A: Les nouvelles ont annoncé la floraison des cerisiers, ce qui annonce l'arrivée du printemps.<br/>B: C'est déjà cette période de l'année."
     },
-    "related": "告げる"
+    "related": "告げる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0816",
@@ -19675,7 +20682,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個係解決問題嘅唯一手段喇。<br/>B: 不過，都不妨諗下其他方法啦。",
       "fr": "A: C'est le seul moyen de résoudre le problème.<br/>B: Mais essayons de trouver d'autres méthodes aussi."
     },
-    "related": "手段"
+    "related": "手段",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0817",
@@ -19700,7 +20708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 超市度搞緊各種紅酒嘅試飲活動呀。<br/>B: 正喎！搵到鍾意嘅口味未呀？",
       "fr": "A: Ils organisaient une dégustation de divers vins au supermarché.<br/>B: Super ! As-tu trouvé une saveur que tu aimes ?"
     },
-    "related": "各種"
+    "related": "各種",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0818",
@@ -19725,7 +20734,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我唔記得咗，搞到拖欠咗電費添。<br/>B: 最好喺斷電之前快啲去交！",
       "fr": "A: J'ai complètement oublié et je n'ai pas payé ma facture d'électricité.<br/>B: Tu ferais bien de te dépêcher de payer avant qu'ils ne la coupent !"
     },
-    "related": "滞納"
+    "related": "滞納",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0819",
@@ -19750,7 +20760,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今次嘅行動極之危險。<br/>B: 我哋行動嗰陣要加倍小心。",
       "fr": "A: Cette opération implique un danger extrême.<br/>B: Agissons avec la plus grande prudence."
     },
-    "related": "極めて"
+    "related": "極めて",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0820",
@@ -19775,7 +20786,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我比較容易撞鬼，間唔中會見到啲奇異嘅嘢。<br/>B: 吓，咁咪好驚囉？",
       "fr": "A: J'ai un sens spirituel fort, donc parfois je vois des choses étranges.<br/>B: Quoi ?! Ce n'est pas effrayant ?"
     },
-    "related": "霊感が強い"
+    "related": "霊感が強い",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0821",
@@ -19800,7 +20812,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 夏天喺出面做體力勞動真係好辛苦。<br/>B: 記得小心唔好中暑呀。",
       "fr": "A: Faire un travail physique à l'extérieur en été est vraiment épuisant.<br/>B: Faites attention à ne pas avoir de coup de chaleur."
     },
-    "related": "肉体労働"
+    "related": "肉体労働",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0822",
@@ -19825,7 +20838,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 附近個地盤傳嚟好大聲喎。<br/>B: 聽講話起緊新嘅大廈呀。",
       "fr": "A: Il y a un grand bruit provenant du chantier de construction à proximité.<br/>B: J'ai entendu dire qu'ils construisaient un nouveau bâtiment."
     },
-    "related": "工事現場"
+    "related": "工事現場",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0823",
@@ -19850,7 +20864,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 感冒好啲未呀？<br/>B: 食咗藥之後，已經好咗好多喇。",
       "fr": "A: Comment va ton rhume ?<br/>B: J'ai pris des médicaments et ça va beaucoup mieux."
     },
-    "related": "良くなる"
+    "related": "良くなる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0824",
@@ -19875,7 +20890,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 測驗嗰陣我計錯咗條好簡單嘅數。<br/>B: 下次記得要檢查清楚呀。",
       "fr": "A: J'ai fait une erreur de calcul simple lors du test.<br/>B: Assurons-nous de revérifier la prochaine fois."
     },
-    "related": "間違える"
+    "related": "間違える",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0825",
@@ -19900,7 +20916,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺樓梯撠親跌低咗。<br/>B: 有冇整親呀？小心啲啦。",
       "fr": "A: J'ai trébuché dans les escaliers et je suis tombé.<br/>B: Es-tu blessé ? Fais attention."
     },
-    "related": "つまずく"
+    "related": "つまずく",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0826",
@@ -19925,7 +20942,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 因為我唔識講法文，所以對去旅行有啲擔心。<br/>B: 有翻譯APP就冇問題㗎喇。",
       "fr": "A: Je m'inquiète pour le voyage car je ne peux pas parler français.<br/>B: Ça ira si vous avez une application de traduction."
     },
-    "related": "喋れない"
+    "related": "喋れない",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0827",
@@ -19949,7 +20967,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Exercising too hard in the heat gave me heat stroke.<br/>B: Are you alright? Hydrate with water and salt in a cool room.",
       "fr": "A: Exercising too hard in the heat gave me heat stroke.<br/>B: Are you alright? Hydrate with water and salt in a cool room."
     },
-    "related": "熱中症になった／にかかった（授業の重要表現）"
+    "related": "熱中症になった／にかかった（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0828",
@@ -19974,7 +20993,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺咁多人面前講嘢嗰陣，我緊張到把聲都震埋。<br/>B: 深呼吸一下會定啲㗎。",
       "fr": "A: En parlant devant beaucoup de monde, j'étais nerveux et ma voix tremblait.<br/>B: Prendre une grande inspiration vous aidera à vous calmer."
     },
-    "related": "緊張する"
+    "related": "緊張する",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0829",
@@ -19999,7 +21019,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 犯咗好幾次錯，搞到我都冇晒自信。<br/>B: 個個都會錯㗎啦，下次再努力過啦！",
       "fr": "A: J'ai fait des erreurs à plusieurs reprises et j'ai perdu confiance en moi.<br/>B: Tout le monde fait des erreurs, alors essayons de faire mieux la prochaine fois !"
     },
-    "related": "自信がなくなる"
+    "related": "自信がなくなる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0830",
@@ -20024,7 +21045,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢部電腦因為舊，所以成日死機。<br/>B: 可能差唔多時候要換過部喇。",
       "fr": "A: Cet ordinateur plante souvent parce qu'il est vieux.<br/>B: Il est peut-être temps de le remplacer bientôt."
     },
-    "related": "古い"
+    "related": "古い",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0831",
@@ -20049,7 +21071,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 突然間變熱，所以我開咗冷氣。<br/>B: 小心唔好冷親呀。",
       "fr": "A: Il a fait soudainement chaud, alors j'ai allumé la clim.<br/>B: Fais attention à ne pas tomber malade."
     },
-    "related": "暑くなる"
+    "related": "暑くなる",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0832",
@@ -20074,7 +21097,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好怕凍，所以好唔鍾意冬天。<br/>B: 我都係。大褸同頸巾一定唔少得。",
       "fr": "A: Je suis sensible au froid, donc je n'aime pas l'hiver.<br/>B: Moi aussi. Je ne peux pas me séparer de mon manteau et de mon écharpe."
     },
-    "related": "寒さに弱い"
+    "related": "寒さに弱い",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0833",
@@ -20098,7 +21122,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 狗仔好怕熱，所以夏天散步要小心啲。<br/>B: 係呀，我會喺傍晚涼爽嘅時候去。",
       "fr": "A: Les chiens sont sensibles à la chaleur, alors fais attention en les promenant l'été.<br/>B: Oui, j'irai le soir quand il fait plus frais."
     },
-    "related": "寒さに弱い（さむさによわい）"
+    "related": "寒さに弱い（さむさによわい）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0834",
@@ -20122,7 +21147,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好怕凍，所以真係好討厭冬天。<br/>B: 難怪你成日都戴住頸巾啦。",
       "fr": "A: Je suis frileuse, alors je déteste vraiment l'hiver.<br/>B: C'est pour ça que tu portes toujours une écharpe."
     },
-    "related": "暑がり（あつがり）"
+    "related": "暑がり（あつがり）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0835",
@@ -20146,7 +21172,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢好怕熱，所以仲著緊短袖。<br/>B: 講笑咩，都已經11月啦！",
       "fr": "A: Il a facilement chaud, alors il porte encore des manches courtes.<br/>B: Tu plaisantes, on est déjà en novembre !"
     },
-    "related": "寒がり（さむがり）"
+    "related": "寒がり（さむがり）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0836",
@@ -20170,7 +21197,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When writing reports, it's important to cite from credible research papers.<br/>B: State sources clearly and quote properly.",
       "fr": "A: When writing reports, it's important to cite from credible research papers.<br/>B: State sources clearly and quote properly."
     },
-    "related": "いんようする（授業の重要表現）"
+    "related": "いんようする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0837",
@@ -20194,7 +21222,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 希望全世界嘅人都可以和睦相處啦。<br/>B: 真係呀，互相尊重大家嘅文化好重要。",
       "fr": "A: Ce serait formidable si les gens du monde entier pouvaient vivre en harmonie.<br/>B: Tout à fait. Le respect de la culture de chacun est essentiel."
     },
-    "related": "差別（さべつ）"
+    "related": "差別（さべつ）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0838",
@@ -20218,7 +21247,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你對新老師嘅印象點呀？<br/>B: 覺得佢好溫柔，印象好好呀。",
       "fr": "A: Quelle est ton impression sur le nouveau professeur ?<br/>B: Il a l'air très gentil, c'était une bonne impression."
     },
-    "related": "第一印象（だいいちいんしょう）"
+    "related": "第一印象（だいいちいんしょう）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0839",
@@ -20242,7 +21272,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你睇，嗰邊個金頭髮嘅人好顯眼呀。<br/>B: 真係喎。啲衫又花巧，所以一眼就睇到。",
       "fr": "A: Regarde, la personne blonde là-bas se démarque vraiment.<br/>B: C'est vrai. Ses vêtements sont aussi voyants, on la repère facilement."
     },
-    "related": "目立たない（めだたない）"
+    "related": "目立たない（めだたない）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0840",
@@ -20266,7 +21297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近呢間麵包舖嘅客人好似少咗。<br/>B: 可能因為附近開咗間新舖啦。",
       "fr": "A: Il semble que le nombre de clients de cette boulangerie ait diminué récemment.<br/>B: Peut-être parce qu'un nouveau magasin a ouvert à proximité."
     },
-    "related": "増えた（ふえた）"
+    "related": "増えた（ふえた）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0841",
@@ -20290,7 +21322,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我減緊肥，所以要減少食飯嘅份量。<br/>B: 唔好太勉強呀。",
       "fr": "A: Je suis au régime, donc je vais réduire ma portion de riz.<br/>B: Ne force pas trop, d'accord ?"
     },
-    "related": "増やす（ふやす）"
+    "related": "増やす（ふやす）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0842",
@@ -20314,7 +21351,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日套動作片點樣呀？<br/>B: 高潮嗰幕節奏好快，真係型到爆！",
       "fr": "A: Comment était le film d'action d'hier ?<br/>B: La scène finale avait un rythme incroyable et c'était super dynamique !"
     },
-    "related": "アクション映画（アクションえいが）"
+    "related": "アクション映画（アクションえいが）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0843",
@@ -20338,7 +21376,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After seeing health check results, I started being careful to cut sodium.<br/>B: Consciously minding your physical condition is a wonderful change.",
       "fr": "A: After seeing health check results, I started being careful to cut sodium.<br/>B: Consciously minding your physical condition is a wonderful change."
     },
-    "related": "きをつけるようになる（授業の重要表現）"
+    "related": "きをつけるようになる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0844",
@@ -20362,7 +21401,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講嗰個男演員其實係戴假髮喎。<br/>B: 吓！完全好自然，我都冇發現呀。",
       "fr": "A: J'ai entendu dire que cet acteur porte en fait une perruque.<br/>B: Quoi ! Ça fait tellement naturel, je n'avais rien remarqué."
     },
-    "related": "ウィッグ"
+    "related": "ウィッグ",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0845",
@@ -20386,7 +21426,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 日日用直髮夾夾頭髮，髮尾乾晒傷晒頭髮。<br/>B: 洗完頭之後最好搽返啲護髮油保濕下。",
       "fr": "A: À force d'utiliser le fer à lisser tous les jours, mes pointes sont sèches et mes cheveux sont abîmés.<br/>B: Tu devrais bien appliquer de l'huile capillaire après le lavage pour les hydrater."
     },
-    "related": "かみがいたむ（授業の重要表現）"
+    "related": "かみがいたむ（授業の重要表現）",
+    "studentId": "0015",
+    "studentIds": [
+      "0015",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0846",
@@ -20410,7 +21455,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm thinking of changing my hairstyle; should the parting be on the right or left?<br/>B: A parting on the right side looks more mature and suits you well.",
       "fr": "A: I'm thinking of changing my hairstyle; should the parting be on the right or left?<br/>B: A parting on the right side looks more mature and suits you well."
     },
-    "related": "わけめ（授業の重要表現）"
+    "related": "わけめ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0847",
@@ -20434,7 +21480,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He has contributed greatly to local environmental cleanup for years.<br/>B: With strong community contribution, he is respected by everyone.",
       "fr": "A: He has contributed greatly to local environmental cleanup for years.<br/>B: With strong community contribution, he is respected by everyone."
     },
-    "related": "こうけんする（授業の重要表現）"
+    "related": "こうけんする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0848",
@@ -20458,7 +21505,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A frenzied feasting tells of the beginning.",
       "fr": "A frenzied feasting tells of the beginning."
     },
-    "related": "つげる（授業の重要表現）"
+    "related": "つげる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0849",
@@ -20482,7 +21530,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When is the report submission deadline again?<br/>B: The deadline is this Friday at 5 PM.",
       "fr": "A: When is the report submission deadline again?<br/>B: The deadline is this Friday at 5 PM."
     },
-    "related": "ていしゅつきげん（授業の重要表現）"
+    "related": "ていしゅつきげん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0850",
@@ -20506,7 +21555,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Practicing speaking in public every day helped me overcome stage fright!<br/>B: Overcoming weaknesses builds incredible self-confidence.",
       "fr": "A: Practicing speaking in public every day helped me overcome stage fright!<br/>B: Overcoming weaknesses builds incredible self-confidence."
     },
-    "related": "こくふくする（授業の重要表現）"
+    "related": "こくふくする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0851",
@@ -20530,7 +21580,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "一到花粉季對眼好痕又係咁打乞嗤，停都停唔到。",
       "fr": "Pendant la saison des pollens, les démangeaisons des yeux et les éternuements ne s’arrêtent plus."
     },
-    "related": "くしゃみ（授業の重要表現）"
+    "related": "くしゃみ（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0852",
@@ -20554,7 +21605,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好在大家肯細心聽對方嘅諗法，成個傾談過程圓滿解決咗。",
       "fr": "Grâce à une écoute mutuelle attentive, la discussion s'est conclue de manière amicale et harmonieuse."
     },
-    "related": "えんまん（授業の重要表現）"
+    "related": "えんまん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0853",
@@ -20578,7 +21630,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I feel great.",
       "fr": "I feel great."
     },
-    "related": "こうちょう（授業の重要表現）"
+    "related": "こうちょう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0854",
@@ -20602,7 +21655,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Business was a little slow last month.",
       "fr": "Business was a little slow last month."
     },
-    "related": "ふちょう（授業の重要表現）"
+    "related": "ふちょう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0855",
@@ -20626,7 +21680,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Cooking at home more helps me smartly save on monthly groceries.<br/>B: Economizing within comfortable limits is wise life wisdom.",
       "fr": "A: Cooking at home more helps me smartly save on monthly groceries.<br/>B: Economizing within comfortable limits is wise life wisdom."
     },
-    "related": "せつやくする（授業の重要表現）"
+    "related": "せつやくする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0856",
@@ -20650,7 +21705,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 拳擊手嘅減重睇落真係好辛苦。<br/>B: 聽講有時連水都唔飲得㗎。",
       "fr": "A: La perte de poids pour les boxeurs a l'air vraiment difficile.<br/>B: J'ai entendu dire que parfois ils ne peuvent même pas boire d'eau."
     },
-    "related": "ダイエット"
+    "related": "ダイエット",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0857",
@@ -20674,7 +21730,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This snack has 20% extra volume right now at the same price!<br/>B: That's true, since it's increased in quantity, let's buy it now.",
       "fr": "A: This snack has 20% extra volume right now at the same price!<br/>B: That's true, since it's increased in quantity, let's buy it now."
     },
-    "related": "ぞうりょう（授業の重要表現）"
+    "related": "ぞうりょう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0858",
@@ -20698,7 +21755,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You can omit the last chapter of the book.",
       "fr": "You can omit the last chapter of the book."
     },
-    "related": "しょうりゃく（授業の重要表現）"
+    "related": "しょうりゃく（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0859",
@@ -20722,7 +21780,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We abbreviate Sunday to Sun.",
       "fr": "We abbreviate Sunday to Sun."
     },
-    "related": "たんしゅく（授業の重要表現）"
+    "related": "たんしゅく（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0860",
@@ -20746,7 +21805,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If you go to the ranch, you can interact with cute animals up close.<br/>B: That sounds lovely! I want to heal by connecting with nature and animals.",
       "fr": "A: If you go to the ranch, you can interact with cute animals up close.<br/>B: That sounds lovely! I want to heal by connecting with nature and animals."
     },
-    "related": "ふれあう（授業の重要表現）"
+    "related": "ふれあう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0861",
@@ -20770,7 +21830,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Seeing sale info for the new item, I impulsively jumped at it and bought it.<br/>B: When you hear 50% off, you really want to jump at it right away!",
       "fr": "A: Seeing sale info for the new item, I impulsively jumped at it and bought it.<br/>B: When you hear 50% off, you really want to jump at it right away!"
     },
-    "related": "とびつく（授業の重要表現）"
+    "related": "とびつく（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0862",
@@ -20794,7 +21855,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Leaning against train doors is dangerous when they open and close.<br/>B: Sorry, I will hold onto the handrail.",
       "fr": "A: Leaning against train doors is dangerous when they open and close.<br/>B: Sorry, I will hold onto the handrail."
     },
-    "related": "よりかかる（授業の重要表現）"
+    "related": "よりかかる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0863",
@@ -20818,7 +21880,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With the deadline nearing, I contacted the vendor to urge progress.<br/>B: When replies are delayed, prompting them early is safer.",
       "fr": "A: With the deadline nearing, I contacted the vendor to urge progress.<br/>B: When replies are delayed, prompting them early is safer."
     },
-    "related": "さいそくする（授業の重要表現）"
+    "related": "さいそくする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0864",
@@ -20842,7 +21905,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Browsing job recruitment sites, I found a job with ideal conditions.<br/>B: Let's prepare application documents and apply right away!",
       "fr": "A: Browsing job recruitment sites, I found a job with ideal conditions.<br/>B: Let's prepare application documents and apply right away!"
     },
-    "related": "きゅうじん（授業の重要表現）"
+    "related": "きゅうじん（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0865",
@@ -20866,7 +21930,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The rocking of the train was pleasant, so I ended up dozing off in the seat.<br/>B: Be careful not to miss your stop!",
       "fr": "A: The rocking of the train was pleasant, so I ended up dozing off in the seat.<br/>B: Be careful not to miss your stop!"
     },
-    "related": "うとうとする（授業の重要表現）"
+    "related": "うとうとする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0866",
@@ -20890,7 +21955,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you briefly explain the outline of tomorrow's presentation?<br/>B: Yes, I summarized the purpose of the project and the schedule outline in the handout.",
       "fr": "A: Could you briefly explain the outline of tomorrow's presentation?<br/>B: Yes, I summarized the purpose of the project and the schedule outline in the handout."
     },
-    "related": "がいよう（授業の重要表現）"
+    "related": "がいよう（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0867",
@@ -20914,7 +21980,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Haste makes waste.",
       "fr": "Haste makes waste."
     },
-    "related": "あわてる（授業の重要表現）"
+    "related": "あわてる（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0868",
@@ -20938,7 +22005,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢攞咗個國際大獎，喺科學歷史上留低咗好偉大嘅成就。<br/>B: 真係好勁，好少會出到一個咁偉大嘅研究者。",
       "fr": "A: Il a reçu un prix international et a laissé une contribution immense dans l'histoire de la science.<br/>B: C'est vrai. Un chercheur aussi remarquable est extrêmement rare."
     },
-    "related": "いだいな（授業の重要表現）"
+    "related": "いだいな（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0869",
@@ -20962,7 +22030,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He put up a flag.",
       "fr": "He put up a flag."
     },
-    "related": "はた（授業の重要表現）"
+    "related": "はた（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0870",
@@ -20986,7 +22055,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When the chime rang, students rushed out of classrooms all at once.<br/>B: Everyone was hungry and headed to the cafeteria simultaneously.",
       "fr": "A: When the chime rang, students rushed out of classrooms all at once.<br/>B: Everyone was hungry and headed to the cafeteria simultaneously."
     },
-    "related": "いっせいに（授業の重要表現）"
+    "related": "いっせいに（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0871",
@@ -21010,7 +22080,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The whistle blew.",
       "fr": "The whistle blew."
     },
-    "related": "あいず（授業の重要表現）"
+    "related": "あいず（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0872",
@@ -21034,7 +22105,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are there any landmarks?",
       "fr": "Are there any landmarks?"
     },
-    "related": "めじるし（授業の重要表現）"
+    "related": "めじるし（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0873",
@@ -21058,7 +22130,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Due to heavy rain, train suspensions are occurring one after another.<br/>B: Troubles are breaking out everywhere, so let's check transit info.",
       "fr": "A: Due to heavy rain, train suspensions are occurring one after another.<br/>B: Troubles are breaking out everywhere, so let's check transit info."
     },
-    "related": "ぞくしゅつする（授業の重要表現）"
+    "related": "ぞくしゅつする（授業の重要表現）",
+    "studentId": "0015"
   },
   {
     "id": "class_word_0874",
@@ -21082,7 +22155,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I gave a self-introduction during the first class of the new semester.<br/>B: Were you nervous? Were you able to talk about your hobbies?",
       "fr": "A: I gave a self-introduction during the first class of the new semester.<br/>B: Were you nervous? Were you able to talk about your hobbies?"
     },
-    "related": "じこしょうかい（授業の重要表現）"
+    "related": "じこしょうかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0875",
@@ -21106,7 +22180,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Your class always offers fresh discoveries every time, it's so enjoyable.<br/>B: I'm delighted! Thank you for listening eagerly every single time.",
       "fr": "A: Your class always offers fresh discoveries every time, it's so enjoyable.<br/>B: I'm delighted! Thank you for listening eagerly every single time."
     },
-    "related": "まいかい（授業の重要表現）"
+    "related": "まいかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0876",
@@ -21130,7 +22205,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My skin irritation has been bad lately, so I'm visiting the dermatologist near the station.<br/>B: That dermatologist has a good reputation, so have the doctor check it thoroughly.",
       "fr": "A: My skin irritation has been bad lately, so I'm visiting the dermatologist near the station.<br/>B: That dermatologist has a good reputation, so have the doctor check it thoroughly."
     },
-    "related": "ひふか（授業の重要表現）"
+    "related": "ひふか（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0877",
@@ -21154,7 +22230,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Unfortunately, I failed this Japanese Language Proficiency Test.<br/>B: It's disappointing, but let's review together so you pass next time!",
       "fr": "A: Unfortunately, I failed this Japanese Language Proficiency Test.<br/>B: It's disappointing, but let's review together so you pass next time!"
     },
-    "related": "しけんにおちた（授業の重要表現）"
+    "related": "しけんにおちた（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0878",
@@ -21178,7 +22255,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 耶！我考入大學喇（合格咗）！<br/>B: 恭喜晒！你好努力呀！",
       "fr": "A: Youpi ! J'ai réussi l'examen de l'université !<br/>B: Félicitations ! Tu as vraiment travaillé dur !"
     },
-    "related": "試験に落ちた（しけんにおちた）"
+    "related": "試験に落ちた（しけんにおちた）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0879",
@@ -21202,7 +22280,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺咖啡店做兼職，係學點樣親切微笑、有禮貌噉招待客人嘅好好機會。",
       "fr": "Travailler dans un café est une excellente expérience pour apprendre le service client avec le sourire et courtoisie."
     },
-    "related": "せっきゃく（授業の重要表現）"
+    "related": "せっきゃく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0880",
@@ -21226,7 +22305,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tonight's dinner is stir-fried vegetables made from leftovers in the fridge.<br/>B: It's so delicious and nutritious that you'd never guess it was made from leftovers!",
       "fr": "A: Tonight's dinner is stir-fried vegetables made from leftovers in the fridge.<br/>B: It's so delicious and nutritious that you'd never guess it was made from leftovers!"
     },
-    "related": "余りあまりもの（授業の重要表現）"
+    "related": "余りあまりもの（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0881",
@@ -21250,7 +22330,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Praising each other's strengths builds great teamwork.<br/>B: That's so true! It naturally brings smiles and boosts motivation.",
       "fr": "A: Praising each other's strengths builds great teamwork.<br/>B: That's so true! It naturally brings smiles and boosts motivation."
     },
-    "related": "ほめあう（授業の重要表現）"
+    "related": "ほめあう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0882",
@@ -21274,7 +22355,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Whenever I go to a Chinese restaurant, I always end up ordering fried rice.<br/>B: I totally agree! Authentic fried rice stir-fried over high heat is exceptional.",
       "fr": "A: Whenever I go to a Chinese restaurant, I always end up ordering fried rice.<br/>B: I totally agree! Authentic fried rice stir-fried over high heat is exceptional."
     },
-    "related": "チャーハン（授業の重要表現）"
+    "related": "チャーハン（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0883",
@@ -21298,7 +22380,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Registration starts at 2:30.",
       "fr": "Registration starts at 2:30."
     },
-    "related": "うけつけ（授業の重要表現）"
+    "related": "うけつけ（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0884",
@@ -21322,7 +22409,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you ride the train to work?",
       "fr": "Do you ride the train to work?"
     },
-    "related": "しゅっきん（授業の重要表現）"
+    "related": "しゅっきん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0885",
@@ -21346,7 +22434,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我今日收工喇。辛苦晒。<br/>B: 好，辛苦晒！返去小心啲。",
       "fr": "A: Je termine ma journée. Bon travail.<br/>B: Oui, bon travail ! Rentre bien."
     },
-    "related": "出勤（しゅっきん）"
+    "related": "出勤（しゅっきん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0886",
@@ -21370,7 +22459,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Let's get together on Sunday.",
       "fr": "Let's get together on Sunday."
     },
-    "related": "しゅうごう（授業の重要表現）"
+    "related": "しゅうごう（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0887",
@@ -21394,7 +22488,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: There was a tourist who looked lost, so I called out and guided them.<br/>B: They must have been thrilled by your kind approach.",
       "fr": "A: There was a tourist who looked lost, so I called out and guided them.<br/>B: They must have been thrilled by your kind approach."
     },
-    "related": "こえをかける（授業の重要表現）"
+    "related": "こえをかける（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0888",
@@ -21418,7 +22513,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In Japan, there is a culture of bowing politely when greeting someone.<br/>B: Yes, bowing is very important for expressing gratitude and respect.",
       "fr": "A: In Japan, there is a culture of bowing politely when greeting someone.<br/>B: Yes, bowing is very important for expressing gratitude and respect."
     },
-    "related": "おじぎ（授業の重要表現）"
+    "related": "おじぎ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0889",
@@ -21442,7 +22538,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In Japan, people bow politely to convey gratitude and greetings.<br/>B: It's interesting how the depth of the bow conveys politeness.",
       "fr": "A: In Japan, people bow politely to convey gratitude and greetings.<br/>B: It's interesting how the depth of the bow conveys politeness."
     },
-    "related": "おじぎをする（授業の重要表現）"
+    "related": "おじぎをする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0890",
@@ -21466,7 +22563,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My sister is quick-thinking.",
       "fr": "My sister is quick-thinking."
     },
-    "related": "かいてん（授業の重要表現）"
+    "related": "かいてん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0891",
@@ -21490,7 +22588,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In recent anime, stories about reincarnating into another world are very popular.<br/>B: Yes, the plot where the protagonist reincarnates into a fantasy world is so exciting.",
       "fr": "A: In recent anime, stories about reincarnating into another world are very popular.<br/>B: Yes, the plot where the protagonist reincarnates into a fantasy world is so exciting."
     },
-    "related": "てんせい（授業の重要表現）"
+    "related": "てんせい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0892",
@@ -21514,7 +22613,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The protagonist's final dialogue line in that movie really struck a chord.<br/>B: It is remembered as a famous quote among fans.",
       "fr": "A: The protagonist's final dialogue line in that movie really struck a chord.<br/>B: It is remembered as a famous quote among fans."
     },
-    "related": "セリフ（授業の重要表現）"
+    "related": "セリフ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0893",
@@ -21538,7 +22638,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "姬路城又被叫做白鷺城，因為外型好靚，被列為世界文化遺產。",
       "fr": "Le château de Himeji, aussi surnommé le Héron Blanc, est classé au patrimoine mondial pour sa beauté."
     },
-    "related": "しろ・じょう（授業の重要表現）"
+    "related": "しろ・じょう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0894",
@@ -21562,7 +22663,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 決賽點樣呀？<br/>B: 係一場直到最後都好激烈嘅精彩對決！",
       "fr": "A: Comment était la finale ?<br/>B: C'était un duel formidable et passionné jusqu'à la fin !"
     },
-    "related": "たたかい（授業の重要表現）"
+    "related": "たたかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0895",
@@ -21586,7 +22688,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Moderate exercise is good for your health.",
       "fr": "Moderate exercise is good for your health."
     },
-    "related": "にちじょう（授業の重要表現）"
+    "related": "にちじょう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0896",
@@ -21610,7 +22713,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢又遲到仲要講大話搵藉口。<br/>B: 真係令人傻眼到無言以對。",
       "fr": "A: Il était encore en retard et a inventé une fausse excuse.<br/>B: Je suis vraiment sans voix."
     },
-    "related": "あきれる"
+    "related": "あきれる",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0897",
@@ -21634,7 +22738,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Unreasonable demands from chronic complainers are very troublesome.<br/>B: It's important to respond with a firm attitude according to the manual.",
       "fr": "A: Unreasonable demands from chronic complainers are very troublesome.<br/>B: It's important to respond with a firm attitude according to the manual."
     },
-    "related": "クレーマー（授業の重要表現）"
+    "related": "クレーマー（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0898",
@@ -21658,7 +22763,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "因為前面有交通意外搞到大塞車，我可能會遲少少到。",
       "fr": "En raison d'un accident, la route est très encombrée et je risque d'être légèrement en retard au rendez-vous."
     },
-    "related": "じゅうたい（授業の重要表現）"
+    "related": "じゅうたい（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0899",
@@ -21682,7 +22792,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Recently, more companies are strengthening measures against customer harassment to protect staff.<br/>B: Protecting workers from unreasonable harassment is an essential measure.",
       "fr": "A: Recently, more companies are strengthening measures against customer harassment to protect staff.<br/>B: Protecting workers from unreasonable harassment is an essential measure."
     },
-    "related": "カスタマーハラスメント（授業の重要表現）"
+    "related": "カスタマーハラスメント（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0900",
@@ -21706,7 +22817,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I went swimming in the ocean.",
       "fr": "I went swimming in the ocean."
     },
-    "related": "かいすいよく（授業の重要表現）"
+    "related": "かいすいよく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0901",
@@ -21730,7 +22842,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Summer in Japan has high humidity, feeling muggier than actual temperatures.<br/>B: On humid days, make good use of dehumidifiers and AC.",
       "fr": "A: Summer in Japan has high humidity, feeling muggier than actual temperatures.<br/>B: On humid days, make good use of dehumidifiers and AC."
     },
-    "related": "しつどがたかい（授業の重要表現）"
+    "related": "しつどがたかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0902",
@@ -21754,7 +22867,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are you good at swimming in the pool?<br/>B: I'm not good at the crawl, but with a doggy paddle, I can swim for ages!",
       "fr": "A: Are you good at swimming in the pool?<br/>B: I'm not good at the crawl, but with a doggy paddle, I can swim for ages!"
     },
-    "related": "いぬかき（授業の重要表現）"
+    "related": "いぬかき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0903",
@@ -21778,7 +22892,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I put lots of my favorite cute stickers on my planner notebook.<br/>B: Putting colorful stickers on it makes checking your planner fun.",
       "fr": "A: I put lots of my favorite cute stickers on my planner notebook.<br/>B: Putting colorful stickers on it makes checking your planner fun."
     },
-    "related": "シール（授業の重要表現）"
+    "related": "シール（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0904",
@@ -21802,7 +22917,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You are drunk!",
       "fr": "You are drunk!"
     },
-    "related": "よっぱらい（授業の重要表現）"
+    "related": "よっぱらい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0905",
@@ -21826,7 +22942,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I got a bit too drunk at the drinking party yesterday.<br/>B: Drink plenty of water and rest comfortably at home today.",
       "fr": "A: I got a bit too drunk at the drinking party yesterday.<br/>B: Drink plenty of water and rest comfortably at home today."
     },
-    "related": "よっぱらう（授業の重要表現）"
+    "related": "よっぱらう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0906",
@@ -21850,7 +22967,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "無論有咩原因，對其他人使用暴力都絕對係唔可以接受嘅。",
       "fr": "Quelle qu'en soit la raison, user de violence envers autrui est formellement inadmissible."
     },
-    "related": "ぼうりょく（授業の重要表現）"
+    "related": "ぼうりょく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0907",
@@ -21874,7 +22992,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When making French toast, soak the bread thoroughly in the egg mixture.<br/>B: Yes, soaking it well makes it fluffy and delicious.",
       "fr": "A: When making French toast, soak the bread thoroughly in the egg mixture.<br/>B: Yes, soaking it well makes it fluffy and delicious."
     },
-    "related": "ひたす（授業の重要表現）"
+    "related": "ひたす（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0908",
@@ -21898,7 +23017,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The washing machine hose came loose, and the floor was flooded with water!<br/>B: Oh no! Let's grab towels immediately and wipe up the water.",
       "fr": "A: The washing machine hose came loose, and the floor was flooded with water!<br/>B: Oh no! Let's grab towels immediately and wipe up the water."
     },
-    "related": "みずびたし（授業の重要表現）"
+    "related": "みずびたし（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0909",
@@ -21922,7 +23042,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Caught in a sudden evening shower, my clothes got soaking wet.<br/>B: So you don't catch a cold, change into dry clothes quickly and warm up.",
       "fr": "A: Caught in a sudden evening shower, my clothes got soaking wet.<br/>B: So you don't catch a cold, change into dry clothes quickly and warm up."
     },
-    "related": "びしょびしょ（授業の重要表現）"
+    "related": "びしょびしょ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0910",
@@ -21946,7 +23067,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "成日淨係堅持自己諗法，會畀人覺得你有啲任性㗎。",
       "fr": "Ne vouloir imposer que son avis peut sembler un peu capricieux."
     },
-    "related": "わがまま（授業の重要表現）"
+    "related": "わがまま（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0911",
@@ -21970,7 +23092,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I visited the customer in person to offer a formal apology for our mistake.<br/>B: A prompt, sincere apology is the first step toward restoring trust.",
       "fr": "A: I visited the customer in person to offer a formal apology for our mistake.<br/>B: A prompt, sincere apology is the first step toward restoring trust."
     },
-    "related": "しゃざい（授業の重要表現）"
+    "related": "しゃざい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0912",
@@ -21994,7 +23117,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While walking down Omotesando, I spotted a celebrity famous on TV!<br/>B: Really! Did they have more presence in person than on TV?",
       "fr": "A: While walking down Omotesando, I spotted a celebrity famous on TV!<br/>B: Really! Did they have more presence in person than on TV?"
     },
-    "related": "げいのうじん（授業の重要表現）"
+    "related": "げいのうじん（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0913",
@@ -22018,7 +23146,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I quarreled with my friend over a minor misunderstanding.<br/>B: If you both cool down and talk honestly, you can make up easily.",
       "fr": "A: I quarreled with my friend over a minor misunderstanding.<br/>B: If you both cool down and talk honestly, you can make up easily."
     },
-    "related": "いいあらそう（授業の重要表現）"
+    "related": "いいあらそう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0914",
@@ -22042,7 +23171,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My baby kicks very hard.",
       "fr": "My baby kicks very hard."
     },
-    "related": "はげしい（授業の重要表現）"
+    "related": "はげしい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0915",
@@ -22066,7 +23196,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Our tough project has finally reached a natural stopping point.<br/>B: Great work! Let's eat something delicious tonight and celebrate.",
       "fr": "A: Our tough project has finally reached a natural stopping point.<br/>B: Great work! Let's eat something delicious tonight and celebrate."
     },
-    "related": "ひとくぎり（授業の重要表現）"
+    "related": "ひとくぎり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0916",
@@ -22090,7 +23221,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Heartless online harassment must strictly be stopped.<br/>B: Yes, harassing behavior that hurts others must be handled firmly.",
       "fr": "A: Heartless online harassment must strictly be stopped.<br/>B: Yes, harassing behavior that hurts others must be handled firmly."
     },
-    "related": "いやがらせ（授業の重要表現）"
+    "related": "いやがらせ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0917",
@@ -22114,7 +23246,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: During the rainy season, the high humidity makes every day damp and muggy.<br/>B: Let's turn on the dehumidifier to keep the room dry and pleasant.",
       "fr": "A: During the rainy season, the high humidity makes every day damp and muggy.<br/>B: Let's turn on the dehumidifier to keep the room dry and pleasant."
     },
-    "related": "じめじめ（授業の重要表現）"
+    "related": "じめじめ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0918",
@@ -22138,7 +23271,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "颱風帶嚟嘅破紀錄暴雨搞到河水暴漲，當局發出咗洪水警戒訊號。",
       "fr": "Des pluies torrentielles record dues au typhon ont fait gonfler la rivière, et une alerte aux inondations a été émise."
     },
-    "related": "こうずい（授業の重要表現）"
+    "related": "こうずい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0919",
@@ -22162,7 +23296,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "考試遇到唔識嘅題目，最好跳過咗先，留到最後先慢慢諗。",
       "fr": "Si vous tombez sur une question difficile à l'examen, sautez-la pour l'instant et faites-la à la fin."
     },
-    "related": "とばす（授業の重要表現）"
+    "related": "とばす（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0920",
@@ -22186,7 +23321,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺天氣晴朗嘅空地上，我同啲小朋友一齊將親手摺嘅紙飛機飛得好高。",
       "fr": "Sur la place ensoleillée, nous avons fait voler des avions en papier faits main très haut avec les enfants."
     },
-    "related": "とばす（授業の重要表現）"
+    "related": "とばす（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0921",
@@ -22210,7 +23346,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I'm busy, I watch YouTube videos at 1.5x speed.<br/>B: Watching at double or higher speed lets you take in information efficiently.",
       "fr": "A: When I'm busy, I watch YouTube videos at 1.5x speed.<br/>B: Watching at double or higher speed lets you take in information efficiently."
     },
-    "related": "ばいそく（授業の重要表現）"
+    "related": "ばいそく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0922",
@@ -22234,7 +23371,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Be careful of rip-offs and overcharging at tourist souvenir stalls.<br/>B: Yes, I will check market prices beforehand and avoid suspicious shops.",
       "fr": "A: Be careful of rip-offs and overcharging at tourist souvenir stalls.<br/>B: Yes, I will check market prices beforehand and avoid suspicious shops."
     },
-    "related": "ぼったくり（授業の重要表現）"
+    "related": "ぼったくり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0923",
@@ -22258,7 +23396,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Hay fever is tough.",
       "fr": "Hay fever is tough."
     },
-    "related": "辛い（授業の重要表現）"
+    "related": "辛い（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0924",
@@ -22282,7 +23421,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This curry looks red; is it not spicy?<br/>B: The redness is from tomato, so it isn't spicy at all. Kids can eat it too.",
       "fr": "A: This curry looks red; is it not spicy?<br/>B: The redness is from tomato, so it isn't spicy at all. Kids can eat it too."
     },
-    "related": "辛くない（授業の重要表現）"
+    "related": "辛くない（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0925",
@@ -22306,7 +23446,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "漫長嘅梅雨季節一完，真正炎熱嘅夏天就正式嚟到喇。",
       "fr": "Une fois la longue saison des pluies terminée, la véritable chaleur estivale arrive enfin."
     },
-    "related": "つゆ（授業の重要表現）"
+    "related": "つゆ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0926",
@@ -22330,7 +23471,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Eating between meals is bad for the figure.",
       "fr": "Eating between meals is bad for the figure."
     },
-    "related": "びよう（授業の重要表現）"
+    "related": "びよう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0927",
@@ -22354,7 +23496,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I visit a beauty aesthetic clinic for skin maintenance.<br/>B: An aesthetic clinic where you can consult specialist doctors gives peace of mind.",
       "fr": "A: I visit a beauty aesthetic clinic for skin maintenance.<br/>B: An aesthetic clinic where you can consult specialist doctors gives peace of mind."
     },
-    "related": "びようクリニック（授業の重要表現）"
+    "related": "びようクリニック（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0928",
@@ -22378,7 +23521,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗防範夏天猛烈嘅紫外線傷皮膚，出門口前我一定會查足防曬膏。",
       "fr": "Pour protéger ma peau des forts rayons UV en été, j'applique soigneusement de la crème solaire avant de sortir."
     },
-    "related": "ひやけ（授業の重要表現）"
+    "related": "ひやけ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0929",
@@ -22402,7 +23546,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The sun is intense; did you apply sunscreen before heading out?<br/>B: Yes, I put on waterproof sunscreen to protect against UV rays!",
       "fr": "A: The sun is intense; did you apply sunscreen before heading out?<br/>B: Yes, I put on waterproof sunscreen to protect against UV rays!"
     },
-    "related": "ひやけどめ（授業の重要表現）"
+    "related": "ひやけどめ（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_0930",
@@ -22426,7 +23575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In summer, darkened pores around my nose become noticeable from sebum.<br/>B: Washing gently with an enzyme cleanser cleans out the pores nicely.",
       "fr": "A: In summer, darkened pores around my nose become noticeable from sebum.<br/>B: Washing gently with an enzyme cleanser cleans out the pores nicely."
     },
-    "related": "けあな（授業の重要表現）"
+    "related": "けあな（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0931",
@@ -22450,7 +23600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The sun is intense today, so take a hat or parasol when heading out.<br/>B: If you don't guard against UV rays, you'll get sunburned.",
       "fr": "A: The sun is intense today, so take a hat or parasol when heading out.<br/>B: If you don't guard against UV rays, you'll get sunburned."
     },
-    "related": "ひざしがつよい（授業の重要表現）"
+    "related": "ひざしがつよい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0932",
@@ -22474,7 +23625,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm suffering from terrible stiff shoulders due to long hours of desk work.<br/>B: Stretching every hour helps relieve stiff shoulder tension.",
       "fr": "A: I'm suffering from terrible stiff shoulders due to long hours of desk work.<br/>B: Stretching every hour helps relieve stiff shoulder tension."
     },
-    "related": "かたこり（授業の重要表現）"
+    "related": "かたこり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0933",
@@ -22498,7 +23650,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm a liar.",
       "fr": "I'm a liar."
     },
-    "related": "うそつき（授業の重要表現）"
+    "related": "うそつき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0934",
@@ -22522,7 +23675,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Let's travel by subway to the next meeting venue.<br/>B: How long will the travel take?",
       "fr": "A: Let's travel by subway to the next meeting venue.<br/>B: How long will the travel take?"
     },
-    "related": "いどうする（授業の重要表現）"
+    "related": "いどうする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0935",
@@ -22546,7 +23700,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Following the deceased's will, the burial took place on a hill overlooking the sea.<br/>B: In such a quiet and scenic place, they will surely rest in peace.",
       "fr": "A: Following the deceased's will, the burial took place on a hill overlooking the sea.<br/>B: In such a quiet and scenic place, they will surely rest in peace."
     },
-    "related": "まいそう（授業の重要表現）"
+    "related": "まいそう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0936",
@@ -22570,7 +23725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With the new business model, we acquired many new customers.<br/>B: Active sales outreach led to customer acquisition.",
       "fr": "A: With the new business model, we acquired many new customers.<br/>B: Active sales outreach led to customer acquisition."
     },
-    "related": "かくとくする（授業の重要表現）"
+    "related": "かくとくする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0937",
@@ -22594,7 +23750,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For my health, I try to drink alcohol in moderation.<br/>B: Doing things moderately and eating until 80% full is the key to longevity.",
       "fr": "A: For my health, I try to drink alcohol in moderation.<br/>B: Doing things moderately and eating until 80% full is the key to longevity."
     },
-    "related": "ひかえめに（授業の重要表現）"
+    "related": "ひかえめに（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0938",
@@ -22618,7 +23775,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日上傳嗰條片爆紅咗呀！<br/>B: 吓，講笑咩！觀看次數過咗100萬次喇！",
       "fr": "A: La vidéo que tu as mise en ligne hier devient virale !<br/>B: Quoi, c'est pas vrai ! Elle a plus d'un million de vues !"
     },
-    "related": "話題になる（わだいになる）"
+    "related": "話題になる（わだいになる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0939",
@@ -22642,7 +23800,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰個名人嘅發言喺網上俾人圍攻緊喎。<br/>B: 係啦，佢嘅用詞有啲唔係幾好。",
       "fr": "A: Le commentaire de cette célébrité se fait lyncher sur les réseaux sociaux.<br/>B: Oui, son choix de mots était un peu maladroit."
     },
-    "related": "批判される（ひはんされる）"
+    "related": "批判される（ひはんされる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0940",
@@ -22666,7 +23825,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我個報告仲未準備好呀！<br/>B: 知道，我問問題幫你爭取時間啦。",
       "fr": "A: Je ne suis pas encore prêt pour la présentation !<br/>B: J'ai compris, je vais poser des questions pour gagner du temps."
     },
-    "related": "時間稼ぎ（じかんかせぎ）"
+    "related": "時間稼ぎ（じかんかせぎ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0941",
@@ -22690,7 +23850,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Don't risk putting everything in one boat.",
       "fr": "Don't risk putting everything in one boat."
     },
-    "related": "つむ（授業の重要表現）"
+    "related": "つむ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0942",
@@ -22714,7 +23875,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啲嘢食好好味呀！<br/>B: 就算係客套話我都好開心。多謝！",
       "fr": "A: La nourriture est vraiment délicieuse !<br/>B: Même si c'est de la flatterie, je suis content. Merci !"
     },
-    "related": "おせじ（授業の重要表現）"
+    "related": "おせじ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0943",
@@ -22738,7 +23900,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 細佬講大話，所以我嚴厲咁鬧咗佢。<br/>B: 咁係必要嘅。",
       "fr": "A: Mon petit frère a menti, alors je l'ai sévèrement grondé.<br/>B: C'est parfois nécessaire."
     },
-    "related": "怒る（おこる）"
+    "related": "怒る（おこる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0944",
@@ -22762,7 +23925,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰個人嘅講嘢態度，真係好火滾呀！<br/>B: 好啦好啦，冷靜啲。",
       "fr": "A: La façon de parler de cette personne m'énerve vraiment !<br/>B: Allez, calme-toi."
     },
-    "related": "イライラする"
+    "related": "イライラする",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0945",
@@ -22786,7 +23950,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Being stood up on our promise made me really angry!<br/>B: You have every right to be mad. Make sure they apologize properly.",
       "fr": "A: Being stood up on our promise made me really angry!<br/>B: You have every right to be mad. Make sure they apologize properly."
     },
-    "related": "はらがたつ（授業の重要表現）"
+    "related": "はらがたつ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0946",
@@ -22810,7 +23975,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日張單部長同我哋找晒數呀！<br/>B: 真係？既然部長請客，我哋就唔客氣喇。",
       "fr": "A: Le chef de service a payé toute l'addition aujourd'hui !<br/>B: Vraiment ? Comme c'est la tournée du chef, profitons-en avec plaisir."
     },
-    "related": "おごり（授業の重要表現）"
+    "related": "おごり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0947",
@@ -22834,7 +24000,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你細個有冇上過咩興趣班呀？<br/>B: 我學過鋼琴同游水。",
       "fr": "A: Faisais-tu des activités extrascolaires quand tu étais enfant ?<br/>B: Je faisais du piano et de la natation."
     },
-    "related": "教室（きょうしつ）"
+    "related": "教室（きょうしつ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0948",
@@ -22858,7 +24025,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 報告前好緊張呀…<br/>B: 首先深呼吸，放鬆下啦。",
       "fr": "A: Je suis nerveux avant la présentation...<br/>B: D'abord, respire profondément et détends-toi."
     },
-    "related": "息を吸う（いきをすう）"
+    "related": "息を吸う（いきをすう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0949",
@@ -22882,7 +24050,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Especially when trouble occurs, taking a deep breath to calm down is key.<br/>B: Organizing the situation calmly reveals solutions.",
       "fr": "A: Especially when trouble occurs, taking a deep breath to calm down is key.<br/>B: Organizing the situation calmly reveals solutions."
     },
-    "related": "れいせいになる（授業の重要表現）"
+    "related": "れいせいになる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0950",
@@ -22906,7 +24075,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末突然好想去海邊呀！<br/>B: 又係你嘅突發奇想啦？",
       "fr": "A: J'ai soudain envie d'aller à la mer ce week-end !<br/>B: C'est encore un coup de tête, n'est-ce pas ?"
     },
-    "related": "思いつく（おもいつく）"
+    "related": "思いつく（おもいつく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0951",
@@ -22930,7 +24100,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While taking a stroll, a flash of inspiration for the new project came to me!<br/>B: When relaxing, great ideas flash into your mind.",
       "fr": "A: While taking a stroll, a flash of inspiration for the new project came to me!<br/>B: When relaxing, great ideas flash into your mind."
     },
-    "related": "ひらめき（授業の重要表現）"
+    "related": "ひらめき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0952",
@@ -22954,7 +24125,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Let's discuss concrete solutions to overcome this challenge.<br/>B: Pooling the entire team's wisdom to find the best solution is ideal.",
       "fr": "A: Let's discuss concrete solutions to overcome this challenge.<br/>B: Pooling the entire team's wisdom to find the best solution is ideal."
     },
-    "related": "かいけつさく（授業の重要表現）"
+    "related": "かいけつさく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0953",
@@ -22978,7 +24150,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Heading into the play's stage, I memorized script lines word for word.<br/>B: Script lines delivered with deep emotion will reach audience hearts.",
       "fr": "A: Heading into the play's stage, I memorized script lines word for word.<br/>B: Script lines delivered with deep emotion will reach audience hearts."
     },
-    "related": "せりふ（授業の重要表現）"
+    "related": "せりふ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0954",
@@ -23002,7 +24175,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The hero anime protagonist's signature line is so cool!<br/>B: Children everywhere imitate and shout that catchphrase.",
       "fr": "A: The hero anime protagonist's signature line is so cool!<br/>B: Children everywhere imitate and shout that catchphrase."
     },
-    "related": "決めきめぜりふ（授業の重要表現）"
+    "related": "決めきめぜりふ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0955",
@@ -23026,7 +24200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My menstrual cycle is irregular.",
       "fr": "My menstrual cycle is irregular."
     },
-    "related": "ふきそく（授業の重要表現）"
+    "related": "ふきそく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0956",
@@ -23050,7 +24225,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This stretching is very effective for preventing lower back pain.<br/>B: Continuing it nightly before sleep will make you feel its effects.",
       "fr": "A: This stretching is very effective for preventing lower back pain.<br/>B: Continuing it nightly before sleep will make you feel its effects."
     },
-    "related": "こうかがある（授業の重要表現）"
+    "related": "こうかがある（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0957",
@@ -23074,7 +24250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間cafe成日都排長龍喎。<br/>B: 係呀，佢哋啲pancake好受歡迎㗎。",
       "fr": "A: Il y a toujours la queue devant ce café.<br/>B: Oui, leurs crêpes sont très populaires."
     },
-    "related": "大人気（だいにんき）"
+    "related": "大人気（だいにんき）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0958",
@@ -23098,7 +24275,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 夏天將煮好嘅餸擺喺室溫唔理係好危險㗎。<br/>B: 係呀，滋生細菌搞到食物中毒就大件事。",
       "fr": "A: Laisser des plats cuisinés à température ambiante en été est dangereux.<br/>B: En effet. Si des bactéries prolifèrent et causent une intoxication alimentaire, c'est grave."
     },
-    "related": "しょくちゅうどく（授業の重要表現）"
+    "related": "しょくちゅうどく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0959",
@@ -23122,7 +24300,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日開始個肚就好痛。<br/>B: 因為你食咗生蠔，可能係食錯嘢啦。",
       "fr": "A: J'ai mal au ventre depuis hier.<br/>B: Tu as mangé des huîtres crues, c'est peut-être une intoxication alimentaire."
     },
-    "related": "食中毒（しょくちゅうどく）"
+    "related": "食中毒（しょくちゅうどく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0960",
@@ -23146,7 +24325,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Her demeanor is very elegant, reflecting a refined upbringing.<br/>B: Graceful language and conduct are virtues worth learning.",
       "fr": "A: Her demeanor is very elegant, reflecting a refined upbringing.<br/>B: Graceful language and conduct are virtues worth learning."
     },
-    "related": "じょうひんな（授業の重要表現）"
+    "related": "じょうひんな（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0961",
@@ -23170,7 +24350,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 頭先打招呼嗰個人係朋友嚟㗎？<br/>B: 唔係，只係附近嘅點頭之交啫。",
       "fr": "A: La personne que tu viens de saluer est-elle une amie ?<br/>B: Non, juste une connaissance du quartier."
     },
-    "related": "知り合い（しりあい）"
+    "related": "知り合い（しりあい）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0962",
@@ -23194,7 +24375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I got to know him.",
       "fr": "I got to know him."
     },
-    "related": "しりあい（授業の重要表現）"
+    "related": "しりあい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0963",
@@ -23218,7 +24400,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A smart falcon hides its talons.",
       "fr": "A smart falcon hides its talons."
     },
-    "related": "かくす（授業の重要表現）"
+    "related": "かくす（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0964",
@@ -23242,7 +24425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 打雷呀，隻貓躲咗去梳化底。<br/>B: 佢一定好驚啦。",
       "fr": "A: Il y a eu du tonnerre et le chat s'est caché sous le canapé.<br/>B: Il a dû avoir peur."
     },
-    "related": "隠す（かくす）"
+    "related": "隠す（かくす）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0965",
@@ -23266,7 +24450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰間居酒屋個老闆娘，把聲沙沙地幾有味道喎。<br/>B: 聽講佢飲咗咁多年酒又食煙，把聲先搞到咁沙啞。",
       "fr": "A: La patronne de cet izakaya a une voix rauque qui ne manque pas de charme.<br/>B: Elle dit que c'est à cause de l'alcool et de la cigarette consommés pendant de longues années."
     },
-    "related": "さけやけ（授業の重要表現）"
+    "related": "さけやけ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0966",
@@ -23290,7 +24475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Developing a habit of brushing teeth right after meals prevents cavities.<br/>B: Accumulating small good habits protects healthy teeth.",
       "fr": "A: Developing a habit of brushing teeth right after meals prevents cavities.<br/>B: Accumulating small good habits protects healthy teeth."
     },
-    "related": "ビーせん（俗語・スラング）"
+    "related": "ビーせん（俗語・スラング）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0967",
@@ -23314,7 +24500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 第時如果喺日本住，你想住喺點樣嘅市鎮？<br/>B: 我想住喺交通方便又安靜嘅住宅區。",
       "fr": "A: Si tu venais à vivre au Japon à l'avenir, dans quelle ville aimerais-tu habiter ?<br/>B: J'aimerais habiter dans un quartier résidentiel calme et bien desservi par les transports."
     },
-    "related": "すみたい（授業の重要表現）"
+    "related": "すみたい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0968",
@@ -23338,7 +24525,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你將來想住邊度呀？<br/>B: 我想喺睇到海嘅寧靜小鎮度生活。",
       "fr": "A: Où veux-tu vivre plus tard ?<br/>B: Je veux vivre dans une ville calme avec vue sur la mer."
     },
-    "related": "暮らす（くらす）"
+    "related": "暮らす（くらす）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0969",
@@ -23362,7 +24550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Many fill-in-the-blank questions appear in JLPT grammar sections.<br/>B: Read surrounding context carefully to fill in the right words.",
       "fr": "A: Many fill-in-the-blank questions appear in JLPT grammar sections.<br/>B: Read surrounding context carefully to fill in the right words."
     },
-    "related": "穴埋めあなうめもんだい（授業の重要表現）"
+    "related": "穴埋めあなうめもんだい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0970",
@@ -23386,7 +24575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 考試順利考完，真係鬆咗一口氣呀。<br/>B: 辛苦晒！今日好好休息啦。",
       "fr": "A: L'examen est enfin terminé, je suis vraiment soulagé.<br/>B: Bon travail ! Repose-toi bien aujourd'hui."
     },
-    "related": "安心する（あんしんする）"
+    "related": "安心する（あんしんする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0971",
@@ -23410,7 +24600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢係我哋公司嘅搖錢樹呀。<br/>B: 因為佢業績成日都係第一嘛。",
       "fr": "A: C'est lui qui rapporte le plus dans notre entreprise.<br/>B: Oui, ses résultats de vente sont toujours numéro un."
     },
-    "related": "大黒柱（だいこくばしら）"
+    "related": "大黒柱（だいこくばしら）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0972",
@@ -23434,7 +24625,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 食飯時講嗰啲嘢好粗俗呀。<br/>B: 對唔住，我會注意㗎喇。",
       "fr": "A: C'est vulgaire de parler de ça en mangeant.<br/>B: Désolé, je ferai attention."
     },
-    "related": "上品（じょうひん）"
+    "related": "上品（じょうひん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0973",
@@ -23458,7 +24650,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 班細路喺公園玩捉迷藏呀。<br/>B: 好懷念呀，我以前都成日玩。",
       "fr": "A: Les enfants jouent à cache-cache dans le parc.<br/>B: Que de souvenirs, j'y jouais souvent avant."
     },
-    "related": "鬼ごっこ（おにごっこ）"
+    "related": "鬼ごっこ（おにごっこ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0974",
@@ -23482,7 +24675,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我開唔到樽蓋呀。<br/>B: 係咪握力差咗呀？",
       "fr": "A: Dernièrement, je n'arrive pas à ouvrir les couvercles des bocaux.<br/>B: Peut-être que ta force de préhension diminue ?"
     },
-    "related": "握る（にぎる）"
+    "related": "握る（にぎる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0975",
@@ -23506,7 +24700,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗唔好走失，要捉實媽媽隻手呀。<br/>B: 嗯，知道啦！",
       "fr": "A: Serre fort la main de maman pour ne pas te perdre.<br/>B: D'accord, compris !"
     },
-    "related": "手を繋ぐ（てをつなぐ）"
+    "related": "手を繋ぐ（てをつなぐ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0976",
@@ -23530,7 +24725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰對情侶拖住手行街，好似好恩愛咁喎。<br/>B: 係呀，睇見都覺得sweet。",
       "fr": "A: Ce couple qui se tient la main là-bas a l'air très proche.<br/>B: C'est vrai, ça fait chaud au cœur."
     },
-    "related": "腕を組む（うでをくむ）"
+    "related": "腕を組む（うでをくむ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0977",
@@ -23554,7 +24750,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我跌咗銀包呀！點算好呀！<br/>B: 首先去報警先啦。",
       "fr": "A: J'ai perdu mon portefeuille ! Que faire !<br/>B: Allons d'abord faire une déclaration à la police."
     },
-    "related": "交番（こうばん）"
+    "related": "交番（こうばん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0978",
@@ -23578,7 +24775,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日開會，請盡量早啲嚟呀。<br/>B: 知道，我會早啲出門口。",
       "fr": "A: S'il vous plaît, venez le plus tôt possible pour la réunion de demain.<br/>B: Entendu, je partirai tôt de chez moi."
     },
-    "related": "できるだけ"
+    "related": "できるだけ",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0979",
@@ -23602,7 +24800,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢份工聽日之前可以搞掂嗎？<br/>B: 可能有啲難，但我會盡全力去做。",
       "fr": "A: Est-ce que ce travail sera terminé d'ici demain ?<br/>B: Ce sera peut-être difficile, mais je ferai tout mon possible."
     },
-    "related": "精一杯（せいいっぱい）"
+    "related": "精一杯（せいいっぱい）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0980",
@@ -23626,7 +24825,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 半夜三更喺度大吵大鬧，真係冇常識。<br/>B: 真係好滋擾呀。",
       "fr": "A: Faire autant de bruit en pleine nuit montre un manque de bon sens.<br/>B: C'est vraiment ennuyeux."
     },
-    "related": "非常識（ひじょうしき）"
+    "related": "非常識（ひじょうしき）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0981",
@@ -23650,7 +24850,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 戴咗眼鏡之後，好似好知性咁喎。<br/>B: 係咩？多謝。",
       "fr": "A: Tu as l'air intellectuel avec des lunettes.<br/>B: Vraiment ? Merci."
     },
-    "related": "知能（ちのう）"
+    "related": "知能（ちのう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0982",
@@ -23674,7 +24875,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近好似都有人工智能寫文章喎。<br/>B: 真係一個不得了嘅時代呀。",
       "fr": "A: Dernièrement, il semble que l'intelligence artificielle écrive même des articles.<br/>B: On vit une époque incroyable."
     },
-    "related": "AI（エーアイ）"
+    "related": "AI（エーアイ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0983",
@@ -23698,7 +24900,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 好靚嘅髮夾呀！喺邊度買㗎？<br/>B: 喺雜貨舖度買嘅，好平㗎咋。",
       "fr": "A: Quelle jolie pince à cheveux ! Où l'as-tu achetée ?<br/>B: Elle n'était pas chère dans un bazar."
     },
-    "related": "ヘアゴム"
+    "related": "ヘアゴム",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0984",
@@ -23722,7 +24925,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 俾信任嘅朋友背叛，我好受打擊呀。<br/>B: 一定好難受啦…",
       "fr": "A: J'ai été trahi par un ami en qui j'avais confiance, c'est un énorme choc.<br/>B: Ça a dû être difficile..."
     },
-    "related": "期待を裏切る（きたいをうらぎる）"
+    "related": "期待を裏切る（きたいをうらぎる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0985",
@@ -23746,7 +24950,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新同事嘅說話態度有啲令人在意喎。<br/>B: 等陣再溫柔咁提下佢啦。",
       "fr": "A: La façon de parler du nouvel employé m'inquiète un peu.<br/>B: Je lui ferai une petite remarque plus tard."
     },
-    "related": "話し方（はなしかた）"
+    "related": "話し方（はなしかた）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0986",
@@ -23770,7 +24975,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我好迷Netflix嘅戀愛真人騷呀。<br/>B: 呀，我都有睇呀！你支持邊個？",
       "fr": "A: Ces derniers temps, je suis accro à une téléréalité de rencontres sur Netflix.<br/>B: Ah, je regarde aussi ! Qui est ton favori ?"
     },
-    "related": "リアリティショー"
+    "related": "リアリティショー",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0987",
@@ -23794,7 +25000,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰個童星嘅演技連大人都比唔上呀。<br/>B: 係呀，非常自然，搞到我都喊咗。",
       "fr": "A: Le jeu de ce jeune acteur ferait rougir les adultes.<br/>B: Oui, c'était tellement naturel que j'en ai pleuré."
     },
-    "related": "俳優（はいゆう）"
+    "related": "俳優（はいゆう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0988",
@@ -23818,7 +25025,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 套劇嘅男主角講咗句好肉麻嘅台詞呀。<br/>B: 不過，只要係靚仔演員就可以原諒啦。",
       "fr": "A: Le personnage principal du drame a dit une réplique vraiment ringarde.<br/>B: Mais si l'acteur est beau, on lui pardonne."
     },
-    "related": "くさいセリフ（授業の重要表現）"
+    "related": "くさいセリフ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0989",
@@ -23842,7 +25050,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 一直都係啡色頭髮，我想染返黑頭髮喇。<br/>B: 一定會好襯你！感覺好清純好斯文。",
       "fr": "A: J'ai les cheveux bruns depuis un moment, mais je vais peut-être les reteindre en noir.<br/>B: Je suis sûr que ça t'ira très bien ! Ça donne un style soigné."
     },
-    "related": "金髪（きんぱつ）"
+    "related": "金髪（きんぱつ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0990",
@@ -23866,7 +25075,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你去過歷史博物館未呀？<br/>B: 去過，嗰度有好多古代生活同文化嘅資料，好得意㗎。",
       "fr": "A: Êtes-vous déjà allé au musée d'histoire ?<br/>B: Oui, il y avait beaucoup de documents sur la vie et la culture d'autrefois, c'était passionnant."
     },
-    "related": "兵士（へいし）"
+    "related": "兵士（へいし）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0991",
@@ -23890,7 +25100,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我鍾意嘅偶像出咗新歌呀！<br/>B: 太好啦！對粉絲嚟講真係天大嘅好消息。",
       "fr": "A: Mon idole préférée vient de sortir une nouvelle chanson !<br/>B: C'est génial ! C'est la meilleure nouvelle pour les fans."
     },
-    "related": "徴兵（ちょうへい）"
+    "related": "徴兵（ちょうへい）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0992",
@@ -23915,7 +25126,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢五官深邃，真係好靚仔。<br/>B: 係呀，直頭好似混血兒咁。",
       "fr": "A: Il a des traits marqués et il est beau.<br/>B: Oui, on dirait qu'il est métis."
     },
-    "related": "顔立ち"
+    "related": "顔立ち",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0993",
@@ -23940,7 +25152,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺演唱會收到推嘅粉絲福利呀！<br/>B: 吓，好羨慕呀！",
       "fr": "A: J'ai reçu du fan service de mon préféré au concert !<br/>B: Ouah, je suis trop jaloux !"
     },
-    "related": "ファンサービス"
+    "related": "ファンサービス",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0994",
@@ -23965,7 +25178,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你嘅推係邊個？<br/>B: 我嘅推係嗰個組合嘅隊長。",
       "fr": "A: Qui est ton préféré ?<br/>B: Mon préféré est le leader de ce groupe."
     },
-    "related": "推し活（おしかつ）"
+    "related": "推し活（おしかつ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0995",
@@ -23990,7 +25204,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢首歌真係好聽。<br/>B: 係呀，我最近成日聽。",
       "fr": "A: Cette chanson est vraiment bien.<br/>B: Oui, je l'écoute beaucoup ces temps-ci."
     },
-    "related": "音楽（おんがく）"
+    "related": "音楽（おんがく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0996",
@@ -24015,7 +25230,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新嚟嘅兼職真係一個好清爽嘅好青年呀。<br/>B: 打招呼又好有禮貌，印象好好。",
       "fr": "A: Le nouveau travailleur à temps partiel est un jeune homme si rafraîchissant et sympathique.<br/>B: Il salue bien tout le monde et donne une bonne impression."
     },
-    "related": "好印象（こういんしょう）"
+    "related": "好印象（こういんしょう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0997",
@@ -24040,7 +25256,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講嗰個人以前係不良少年嚟㗎。<br/>B: 吓，但佢依家睇落好認真乖巧喎。",
       "fr": "A: J'ai entendu dire que cette personne était un délinquant avant.<br/>B: Vraiment ? Il a l'air si sérieux maintenant."
     },
-    "related": "不良（ふりょう）"
+    "related": "不良（ふりょう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0998",
@@ -24065,7 +25282,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講佢學生時期入咗不良集團。<br/>B: 怪唔知得佢咁慣打交啦。",
       "fr": "A: J'ai entendu dire qu'il faisait partie d'un groupe de délinquants quand il était étudiant.<br/>B: C'est pour ça qu'il est habitué à se battre."
     },
-    "related": "不良品（ふりょうひん）"
+    "related": "不良品（ふりょうひん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_0999",
@@ -24090,7 +25308,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你對聽日嘅考試有冇自信呀？<br/>B: 有呀，溫咗好多書所以好有自信。",
       "fr": "A: Es-tu confiant pour le test de demain ?<br/>B: Oui, j'ai beaucoup étudié, donc j'ai confiance."
     },
-    "related": "自信満々（じしんまんまん）"
+    "related": "自信満々（じしんまんまん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1000",
@@ -24115,7 +25334,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好擔心面試嗰陣講得唔好。<br/>B: 冇問題㗎，抱住自信加油啦！",
       "fr": "A: Je crains de ne pas bien parler à l'entretien.<br/>B: C'est bon, aie confiance et fais de ton mieux !"
     },
-    "related": "堂々と（どうどうと）"
+    "related": "堂々と（どうどうと）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1001",
@@ -24140,7 +25360,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 每日練之後，開始有啲自信喇。<br/>B: 繼續keep住，會再叻啲㗎。",
       "fr": "A: En m'entraînant tous les jours, j'ai pris confiance en moi.<br/>B: Si tu continues comme ça, tu deviendras encore meilleur."
     },
-    "related": "成長する（せいちょうする）"
+    "related": "成長する（せいちょうする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1002",
@@ -24165,7 +25386,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 失敗咗好多次，完全冇晒自信喇。<br/>B: 邊個都會失敗㗎，下次再努力啦。",
       "fr": "A: J'ai échoué tellement de fois, j'ai complètement perdu confiance.<br/>B: Tout le monde fait des erreurs. Essaie juste à nouveau la prochaine fois."
     },
-    "related": "落ち込む（おちこむ）"
+    "related": "落ち込む（おちこむ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1003",
@@ -24190,7 +25412,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗搬屋，我去咗站前嘅地產舖。<br/>B: 搵唔搵到好單位呀？",
       "fr": "A: Je suis allé à l'agence immobilière devant la gare pour déménager.<br/>B: As-tu trouvé une bonne chambre ?"
     },
-    "related": "不動産屋（ふどうさんや）"
+    "related": "不動産屋（ふどうさんや）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1004",
@@ -24215,7 +25438,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末去睇新屋呀。<br/>B: 最好睇清楚採光同水電位好啲。",
       "fr": "A: Je vais visiter un nouvel appartement ce week-end.<br/>B: Tu devrais bien vérifier l'ensoleillement et la plomberie."
     },
-    "related": "部屋探し（へやさがし）"
+    "related": "部屋探し（へやさがし）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1005",
@@ -24240,7 +25464,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日學校活動要去參觀工廠呀。<br/>B: 正喎，可能會有零食送添！",
       "fr": "A: Demain, je vais faire une visite d'usine pour un événement scolaire.<br/>B: Cool, tu auras peut-être des friandises !"
     },
-    "related": "工場見学（こうじょうけんがく）"
+    "related": "工場見学（こうじょうけんがく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1006",
@@ -24265,7 +25490,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚約咗同屋企人視像通話。<br/>B: 可以睇到樣傾偈會安心啲。",
       "fr": "A: Je prévois de faire un appel vidéo avec ma famille ce soir.<br/>B: C'est rassurant de voir leurs visages en parlant."
     },
-    "related": "ビデオつうわ（授業の重要表現）"
+    "related": "ビデオつうわ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1007",
@@ -24290,7 +25516,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間餐廳嘅錢我嚟畀啦。<br/>B: 吓，真係得？多謝！",
       "fr": "A: Je vais payer le repas dans ce restaurant.<br/>B: Vraiment ? Tu es sûr ? Merci !"
     },
-    "related": "支払い（しはらい）"
+    "related": "支払い（しはらい）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1008",
@@ -24315,7 +25542,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間屋租就平，但係初期費用好貴。<br/>B: 因為要收按金同禮金吖嘛。",
       "fr": "A: Le loyer de cet appartement est bas, mais les coûts initiaux sont élevés.<br/>B: Parce qu'il faut à la fois une caution et un pas-de-porte."
     },
-    "related": "敷金（しききん）、礼金（れいきん）"
+    "related": "敷金（しききん）、礼金（れいきん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1009",
@@ -24340,7 +25568,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 交稅係國民嘅義務嚟㗎。<br/>B: 係呀，一定要乖乖地交。",
       "fr": "A: Payer ses impôts est une obligation des citoyens.<br/>B: Oui, nous devons les payer correctement."
     },
-    "related": "権利（けんり）"
+    "related": "権利（けんり）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1010",
@@ -24365,7 +25594,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 租屋嗰陣，通常都會搵地產舖做中介。<br/>B: 但係相對就要畀佣金囉。",
       "fr": "A: Lors de la location d'un appartement, il est normal de passer par une agence immobilière.<br/>B: Mais ça implique de payer des frais d'agence, non ?"
     },
-    "related": "仲介手数料（ちゅうかいてすうりょう）"
+    "related": "仲介手数料（ちゅうかいてすうりょう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1011",
@@ -24390,7 +25620,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 面試畀人問應徵動機你打算點答呀？<br/>B: 我會答一直好鍾意呢間公司嘅產品。",
       "fr": "A: Comment répondras-tu quand on te demandera ta motivation pour postuler à l'entretien ?<br/>B: Je dirai que j'ai toujours aimé les produits de cette entreprise."
     },
-    "related": "自己PR（じこピーアール）"
+    "related": "自己PR（じこピーアール）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1012",
@@ -24415,7 +25646,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我喺地鐵讓咗座畀阿婆呀。<br/>B: 真係好心，阿婆一定好開心啦。",
       "fr": "A: J'ai laissé ma place à une vieille dame dans le train.<br/>B: C'est gentil. Elle a dû être contente."
     },
-    "related": "席を譲る（せきをゆずる）"
+    "related": "席を譲る（せきをゆずる）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1013",
@@ -24440,7 +25672,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我同客都係用電郵做工作聯絡。<br/>B: 咁有記錄留低會穩陣啲。",
       "fr": "A: J'échange des e-mails professionnels avec le client.<br/>B: C'est sûr puisqu'il reste une trace écrite."
     },
-    "related": "連絡する（れんらくする）"
+    "related": "連絡する（れんらくする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1014",
@@ -24465,7 +25698,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰條路好暗治安又差，夜晚最好唔好行。<br/>B: 知道，我行大馬路返去啦。",
       "fr": "A: Cette rue est sombre et peu sûre, tu ne devrais pas y passer la nuit.<br/>B: Compris, je rentrerai par la rue principale."
     },
-    "related": "治安がいい"
+    "related": "治安がいい",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1015",
@@ -24490,7 +25724,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近好似有啲手機上癮，一直睇住。<br/>B: 試下淨係臨瞓前唔好玩囉？",
       "fr": "A: J'ai l'impression d'avoir une addiction au smartphone en ce moment, je le regarde sans arrêt.<br/>B: Pourquoi ne pas essayer de ne pas y toucher juste avant de dormir ?"
     },
-    "related": "依存症（いぞんしょう）"
+    "related": "依存症（いぞんしょう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1016",
@@ -24515,7 +25750,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗兼職面試，我要寫履歷表呀。<br/>B: 唔好唔記得貼證件相喎。",
       "fr": "A: Je dois rédiger mon CV pour l'entretien d'embauche à temps partiel.<br/>B: N'oublie pas de coller ta photo d'identité."
     },
-    "related": "職務経歴書（しょくむけいれきしょ）"
+    "related": "職務経歴書（しょくむけいれきしょ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1017",
@@ -24540,7 +25776,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我想買清潔用品，去一去十蚊店先。<br/>B: 順便幫我買垃圾袋吖！",
       "fr": "A: J'ai besoin de matériel de nettoyage, je vais faire un tour au magasin à 100 yens.<br/>B: Achète aussi des sacs poubelles pendant que tu y es !"
     },
-    "related": "百円均一（ひゃくえんきんいつ）"
+    "related": "百円均一（ひゃくえんきんいつ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1018",
@@ -24565,7 +25802,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間屋個廚房好闊落，好似好易煮嘢食咁。<br/>B: 仲要係系統廚房，收納空間都好多喎。",
       "fr": "A: La cuisine de cette pièce est spacieuse et semble pratique pour cuisiner.<br/>B: C'est une cuisine équipée, et il y a beaucoup de rangements."
     },
-    "related": "台所（だいどころ）"
+    "related": "台所（だいどころ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1019",
@@ -24590,7 +25828,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咖啡廳兼職你負責邊度呀？<br/>B: 我唔係廚房，係做樓面招待客人嘅。",
       "fr": "A: Quel est ton poste à ton travail étudiant au café ?<br/>B: Je ne suis pas en cuisine, je sers les clients en salle."
     },
-    "related": "接客（せっきゃく）"
+    "related": "接客（せっきゃく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1020",
@@ -24615,7 +25854,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近舖頭太忙，完全冇得休。<br/>B: 似乎周圍都人手不足，好辛苦咁喎。",
       "fr": "A: Le magasin est tellement occupé ces derniers temps que je ne peux pas prendre de congé.<br/>B: On dirait que tout le monde souffre du manque de personnel."
     },
-    "related": "募集（ぼしゅう）"
+    "related": "募集（ぼしゅう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1021",
@@ -24640,7 +25880,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 歷史年份我全部死背晒喇。<br/>B: 嘩！好叻呀，我實做唔到。",
       "fr": "A: J'ai appris toutes les dates historiques par cœur.<br/>B: Waouh ! C'est incroyable, j'en serais incapable."
     },
-    "related": "暗記（あんき）"
+    "related": "暗記（あんき）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1022",
@@ -24665,7 +25906,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢調職，我哋變成Long D喇。<br/>B: 見唔到面雖然會寂寞，但要加油呀。",
       "fr": "A: Il a été muté, donc on a maintenant une relation à distance.<br/>B: Ça doit être dur de ne pas pouvoir se voir, mais courage."
     },
-    "related": "近距離（きんきょり）"
+    "related": "近距離（きんきょり）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1023",
@@ -24690,7 +25932,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 如果地震，請即刻去安全嘅地方避難。<br/>B: 知道，我會先走去附近嘅公園。",
       "fr": "A: S'il y a un tremblement de terre, évacuez immédiatement vers un endroit sûr.<br/>B: Oui, je fuirai d'abord vers le parc voisin."
     },
-    "related": "避難所（ひなんじょ）"
+    "related": "避難所（ひなんじょ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1024",
@@ -24715,7 +25958,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你知唔知屋企附近嘅避難地點喺邊？<br/>B: 知呀，嗰間小學就被指定為避難地點。",
       "fr": "A: Connaissez-vous le lieu d'évacuation près de chez vous ?<br/>B: Oui, cette école primaire a été désignée."
     },
-    "related": "指定避難所（していひなんじょ）"
+    "related": "指定避難所（していひなんじょ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1025",
@@ -24740,7 +25984,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 紅燈呀！行過去好危險㗎！<br/>B: 嘩，對唔住，我留意唔到。",
       "fr": "A: Le feu est rouge ! C'est dangereux de traverser !<br/>B: Oups, désolé, je n'avais pas remarqué."
     },
-    "related": "危険（きけん）"
+    "related": "危険（きけん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1026",
@@ -24765,7 +26010,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 如果遇到賊，請即刻逃走去出面。<br/>B: 知道。自己條命最緊要。",
       "fr": "A: Si un voleur entre, enfuyez-vous dehors immédiatement.<br/>B: Compris. Ma vie est la chose la plus importante."
     },
-    "related": "逃走する（とうそうする）"
+    "related": "逃走する（とうそうする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1027",
@@ -24790,7 +26036,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近開始在意眼角啲皺紋呀。<br/>B: 認真搽保濕霜會好啲㗎。",
       "fr": "A: Dernièrement, les rides au coin de mes yeux me préoccupent.<br/>B: Tu devrais bien appliquer de la crème hydratante."
     },
-    "related": "シワくちゃ"
+    "related": "シワくちゃ",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1028",
@@ -24815,7 +26062,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 除低口罩嗰陣，總係覺得法令紋好覺眼。<br/>B: 聽講按摩塊面會淡返啲喎。",
       "fr": "A: J'ai l'impression que mes rides du sourire se voient quand j'enlève mon masque.<br/>B: J'ai entendu dire qu'elles s'estompent un peu si tu fais des massages du visage."
     },
-    "related": "たるみ"
+    "related": "たるみ",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1029",
@@ -24840,7 +26088,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 肚腩啲脂肪好難減得甩呀。<br/>B: 除咗仰臥起坐，加埋帶氧運動一齊做會好啲。",
       "fr": "A: La graisse autour de mon ventre ne veut pas partir.<br/>B: Tu devrais faire des exercices d'aérobic en plus des abdos."
     },
-    "related": "体脂肪（たいしぼう）"
+    "related": "体脂肪（たいしぼう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1030",
@@ -24865,7 +26114,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 好熱，不如拎把風扇出嚟？<br/>B: 好呀，同冷氣一齊用會好涼㗎。",
       "fr": "A: Il fait chaud, devrait-on sortir le ventilateur ?<br/>B: Oui, c'est plus frais si on l'utilise avec la climatisation."
     },
-    "related": "エアコン"
+    "related": "エアコン",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1031",
@@ -24889,7 +26139,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This herbal tea is effective for relaxation and sound sleep.<br/>B: The aroma is great too; drinking it before bed promotes sound sleep.",
       "fr": "A: This herbal tea is effective for relaxation and sound sleep.<br/>B: The aroma is great too; drinking it before bed promotes sound sleep."
     },
-    "related": "〜にこうかがある（授業の重要表現）"
+    "related": "〜にこうかがある（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1032",
@@ -24914,7 +26165,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我好小心，廢事減肥瘦咗嘅磅數打回原形。<br/>B: 為咗唔反彈，keep住做運動好重要㗎。",
       "fr": "A: Je fais attention à ce que le poids que j'ai perdu ne revienne pas.<br/>B: Il est important de continuer l'exercice pour éviter l'effet yo-yo."
     },
-    "related": "維持する（いじする）"
+    "related": "維持する（いじする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1033",
@@ -24939,7 +26191,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 細個嗰陣，哨牙係我嘅自卑。<br/>B: 箍完牙之後排牙好齊好靚喎。",
       "fr": "A: Quand j'étais enfant, mes dents en avant me complexaient.<br/>B: Elles sont parfaitement alignées depuis que tu as eu un appareil."
     },
-    "related": "出っ歯（でっぱ・前歯が出ている状態）"
+    "related": "出っ歯（でっぱ・前歯が出ている状態）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1034",
@@ -24964,7 +26217,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢身高係日本人嘅平均身高嚟㗎。<br/>B: 大約170厘米左右啦。",
       "fr": "A: Sa taille est dans la moyenne pour un Japonais.<br/>B: C'est environ 170 centimètres, non ?"
     },
-    "related": "平均値（へいきんち）"
+    "related": "平均値（へいきんち）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1035",
@@ -24989,7 +26243,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我貸款買咗車。對我嚟講係一次大額消費呀。<br/>B: 好勁喎，小心揸呀。",
       "fr": "A: J'ai acheté une voiture à crédit. C'était un gros achat pour moi.<br/>B: C'est génial, prends-en bien soin."
     },
-    "related": "奮発する（ふんぱつする）"
+    "related": "奮発する（ふんぱつする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1036",
@@ -25014,7 +26269,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢套漫畫好好睇喎。係邊個畫㗎？<br/>B: 係好出名嘅作者，仲有好多其他熱門作品㗎。",
       "fr": "A: Ce manga est vraiment intéressant. Qui l'a dessiné ?<br/>B: C'est un auteur célèbre qui a beaucoup d'autres succès."
     },
-    "related": "作品（さくひん）"
+    "related": "作品（さくひん）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1037",
@@ -25039,7 +26295,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你尋晚有冇睇嗰個搞笑節目呀？超搞笑。<br/>B: 錯過咗添。早知錄低佢啦。",
       "fr": "A: As-tu regardé l'émission humoristique hier soir ? C'était très drôle.<br/>B: Je l'ai ratée. J'aurais dû l'enregistrer."
     },
-    "related": "テレビ番組"
+    "related": "テレビ番組",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1038",
@@ -25064,7 +26321,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你睇咗大雨搞到山坡冧咗嘅新聞未？<br/>B: 睇咗，好擔心附近啲居民呀。",
       "fr": "A: As-tu vu aux infos que le flanc de la montagne s'est effondré à cause de la forte pluie ?<br/>B: Oui, je m'inquiète pour les habitants des environs."
     },
-    "related": "体調を崩す（たいちょうをくずす）"
+    "related": "体調を崩す（たいちょうをくずす）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1039",
@@ -25089,7 +26347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗以防萬一，我將啲防災用品擺晒落背囊度。<br/>B: 好叻喎，我都去買啲水同電筒看門口先。",
       "fr": "A: Au cas où, j'ai mis des fournitures d'urgence dans un sac à dos.<br/>B: C'est bien pensé, je devrais aussi acheter de l'eau et une lampe de poche."
     },
-    "related": "非常食（ひじょうしょく）"
+    "related": "非常食（ひじょうしょく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1040",
@@ -25114,7 +26373,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我而家好煩惱辭唔辭而家份工好。<br/>B: 唔好急，慢慢諗清楚好啲。",
       "fr": "A: J'hésite vraiment à quitter mon emploi actuel.<br/>B: Ne te précipite pas, tu ferais mieux d'y réfléchir calmement."
     },
-    "related": "悩む（なやむ）"
+    "related": "悩む（なやむ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1041",
@@ -25138,7 +26398,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many months have passed since you came to Japan?<br/>B: Exactly 3 months have passed. I've gotten used to life here.",
       "fr": "A: How many months have passed since you came to Japan?<br/>B: Exactly 3 months have passed. I've gotten used to life here."
     },
-    "related": "〜ヶ月（授業の重要表現）"
+    "related": "〜ヶ月（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1042",
@@ -25162,7 +26423,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many times a week do you take Japanese lessons?<br/>B: I take online lessons at a pace of twice a week.",
       "fr": "A: How many times a week do you take Japanese lessons?<br/>B: I take online lessons at a pace of twice a week."
     },
-    "related": "しゅうに〜かい（授業の重要表現）"
+    "related": "しゅうに〜かい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1043",
@@ -25187,7 +26449,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰間戲院週末會唔會好多人㗎？<br/>B: 假日好多人，閒日去會少人啲喎。",
       "fr": "A: Est-ce que ce cinéma est bondé le week-end ?<br/>B: C'est plein les jours fériés, donc tu devrais y aller en semaine."
     },
-    "related": "土日（どにち）"
+    "related": "土日（どにち）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1044",
@@ -25212,7 +26475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我履歷表嘅應徵動機寫得唔好，好煩惱。<br/>B: 具體寫清楚點解想入嗰間公司會好啲。",
       "fr": "A: J'ai du mal à bien rédiger ma motivation à postuler sur mon CV.<br/>B: Tu devrais écrire spécifiquement pourquoi tu veux rejoindre cette entreprise."
     },
-    "related": "履歴書（りれきしょ）"
+    "related": "履歴書（りれきしょ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1045",
@@ -25236,7 +26500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你會喺屋企附近跑步嗎？<br/>B: 係呀，我每朝大概跑30分鐘。",
       "fr": "A: Faites-vous du jogging autour de la maison ?<br/>B: Oui, je cours environ 30 minutes tous les matins."
     },
-    "related": "家の近く（いえのちかく）"
+    "related": "家の近く（いえのちかく）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1046",
@@ -25260,7 +26525,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個市鎮有好多外國人喎。<br/>B: 係呀，遊客經常嚟呢度。",
       "fr": "A: Il y a beaucoup d'étrangers dans cette ville, n'est-ce pas ?<br/>B: Oui, les touristes viennent souvent ici."
     },
-    "related": "海外（かいがい）"
+    "related": "海外（かいがい）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1047",
@@ -25284,7 +26550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有去過京都嗎？<br/>B: 有呀，去過幾次。",
       "fr": "A: Êtes-vous déjà allé à Kyoto ?<br/>B: Oui, j'y suis allé quelques fois."
     },
-    "related": "何度か（なんどか）"
+    "related": "何度か（なんどか）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1048",
@@ -25308,7 +26575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 感覺每間舖都因為人手不足而好辛苦喎。<br/>B: 係呀，聽講好難請到兼職。",
       "fr": "A: Il semble que chaque magasin soit aux prises avec une pénurie de personnel.<br/>B: Oui, j'ai entendu dire qu'ils ont du mal à trouver des employés à temps partiel."
     },
-    "related": "募集（ぼしゅう）"
+    "related": "募集（ぼしゅう）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1049",
@@ -25332,7 +26600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard you can buy limited-color bags at this brand's flagship store.<br/>B: Let's visit to check the abundant lineup unique to direct stores!",
       "fr": "A: I heard you can buy limited-color bags at this brand's flagship store.<br/>B: Let's visit to check the abundant lineup unique to direct stores!"
     },
-    "related": "ちょくえいてん（授業の重要表現）"
+    "related": "ちょくえいてん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1050",
@@ -25356,7 +26625,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下個月開始我要調去關聯公司嘅IT支援部喇。<br/>B: 就算喺同一個集團入面，工作內容都會好唔同，加油呀！",
       "fr": "A: À partir du mois prochain, je suis muté au service informatique d'une société affiliée.<br/>B: Même au sein d'un même groupe, les missions seront très différentes, bon courage !"
     },
-    "related": "けいれつがいしゃ（授業の重要表現）"
+    "related": "けいれつがいしゃ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1051",
@@ -25380,7 +26650,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我係三兄弟姊妹入面最細嗰個老么，由細到大哥哥姐姐都好錫我。",
       "fr": "Je suis le benjamin d'une fratrie de trois et j'ai été très choyé par mon frère et ma sœur aînés."
     },
-    "related": "すえっこ（授業の重要表現）"
+    "related": "すえっこ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1052",
@@ -25404,7 +26675,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺日本職場文化入面，鞠躬禮節同有禮貌嘅說話用詞都非常受到重視。",
       "fr": "Dans le monde des affaires au Japon, les règles de politesse comme les salutations inclinées et le langage courtois sont primordiales."
     },
-    "related": "れいぎ（授業の重要表現）"
+    "related": "れいぎ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1053",
@@ -25428,7 +26700,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我租緊嗰間公寓嘅房東人好熱心，一有問題就會即刻幫手搞掂。",
       "fr": "Le propriétaire de mon appartement est quelqu'un de très gentil qui m'aide dès que j'ai un souci."
     },
-    "related": "おおや（授業の重要表現）"
+    "related": "おおや（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1054",
@@ -25452,7 +26725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間咖啡店環境好舒服安靜喎。<br/>B: 係呀，呢度嘅客層多數係靜靜睇書或者做嘢嘅成年人。",
       "fr": "A: Ce café dégage une ambiance calme et chaleureuse.<br/>B: Oui, sa clientèle se compose principalement d'adultes qui viennent lire ou travailler dans le calme."
     },
-    "related": "きゃくそう（授業の重要表現）"
+    "related": "きゃくそう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1055",
@@ -25476,7 +26750,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He earns a great deal.",
       "fr": "He earns a great deal."
     },
-    "related": "かせぐ（授業の重要表現）"
+    "related": "かせぐ（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1056",
@@ -25500,7 +26779,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My part-time hourly wage is going up by 50 yen starting next month!<br/>B: Having your daily hard work recognized with a raise is great!",
       "fr": "A: My part-time hourly wage is going up by 50 yen starting next month!<br/>B: Having your daily hard work recognized with a raise is great!"
     },
-    "related": "じきゅう（授業の重要表現）"
+    "related": "じきゅう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1057",
@@ -25524,7 +26804,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢間酒店嘅服務員講嘢斯文得體，服務客人嘅水準真係非常之高。",
       "fr": "Le personnel de cet hôtel s'exprime très bien et la qualité du service client est remarquable."
     },
-    "related": "せっきゃく（授業の重要表現）"
+    "related": "せっきゃく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1058",
@@ -25548,7 +26829,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They adopted a new policy.",
       "fr": "They adopted a new policy."
     },
-    "related": "さいよう（授業の重要表現）"
+    "related": "さいよう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1059",
@@ -25572,7 +26854,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My hobby is visiting the castle.",
       "fr": "My hobby is visiting the castle."
     },
-    "related": "めぐる（授業の重要表現）"
+    "related": "めぐる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1060",
@@ -25596,7 +26879,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On days off, I enjoy cafe hopping with friends.<br/>B: Sweets discovered while cafe hopping at hidden spots are special.",
       "fr": "A: On days off, I enjoy cafe hopping with friends.<br/>B: Sweets discovered while cafe hopping at hidden spots are special."
     },
-    "related": "カフェめぐり（授業の重要表現）"
+    "related": "カフェめぐり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1061",
@@ -25620,7 +26904,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Before the interview, I did a final check for typos on my resume.<br/>B: A carefully written CV makes a strong first impression.",
       "fr": "A: Before the interview, I did a final check for typos on my resume.<br/>B: A carefully written CV makes a strong first impression."
     },
-    "related": "りれきしょ（授業の重要表現）"
+    "related": "りれきしょ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1062",
@@ -25644,7 +26929,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 多謝你嘅電話，請問係咪想傾合約嘅事宜？<br/>B: 係呀，麻煩你幫我駁去負責人度。",
       "fr": "A: Merci de votre appel. Souhaitez-vous des renseignements concernant le contrat ?<br/>B: Oui, pourriez-vous s'il vous plaît me passer la personne en charge du dossier ?"
     },
-    "related": "たんとうしゃ（授業の重要表現）"
+    "related": "たんとうしゃ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1063",
@@ -25668,7 +26954,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去見工面試嗰陣，與其著咁花巧嘅西裝，不如著斯文嘅深藍色比較穩陣。",
       "fr": "Pour un entretien, un costume bleu marine sobre est préférable à des couleurs trop voyantes."
     },
-    "related": "はで（授業の重要表現）"
+    "related": "はで（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1064",
@@ -25692,7 +26979,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you have plans on Saturday and Sunday?<br/>B: On weekends I plan to relax at home watching movies.",
       "fr": "A: Do you have plans on Saturday and Sunday?<br/>B: On weekends I plan to relax at home watching movies."
     },
-    "related": "どにち（授業の重要表現）"
+    "related": "どにち（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1065",
@@ -25716,7 +27004,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日嘅櫃位辦事處開到下晝5點。之後嘅查詢請聽日再搵我哋。",
       "fr": "L'accueil au guichet ferme aujourd'hui à 17h. Pour toute demande après cette heure, merci de nous contacter demain."
     },
-    "related": "いこう（授業の重要表現）"
+    "related": "いこう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1066",
@@ -25740,7 +27029,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Regarding my path after graduation, I'm worrying whether to work or study.<br/>B: Looking ahead at your dreams, consult teachers and seniors.",
       "fr": "A: Regarding my path after graduation, I'm worrying whether to work or study.<br/>B: Looking ahead at your dreams, consult teachers and seniors."
     },
-    "related": "なやんでいます（授業の重要表現）"
+    "related": "なやんでいます（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1067",
@@ -25764,7 +27058,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Exactly 3 months have passed since coming to Japan.<br/>B: In 3 months, you've become very familiar with city geography!",
       "fr": "A: Exactly 3 months have passed since coming to Japan.<br/>B: In 3 months, you've become very familiar with city geography!"
     },
-    "related": "〜かげつ（授業の重要表現）"
+    "related": "〜かげつ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1068",
@@ -25788,7 +27083,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For the 2-month period of summer vacation, I studied Japanese intensively.<br/>B: Intensive study over that block of time is showing results.",
       "fr": "A: For the 2-month period of summer vacation, I studied Japanese intensively.<br/>B: Intensive study over that block of time is showing results."
     },
-    "related": "〜かげつかん（授業の重要表現）"
+    "related": "〜かげつかん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1069",
@@ -25812,7 +27108,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How many times a week do you take online Japanese lessons?<br/>B: I attend at a pace of 3 times a week.",
       "fr": "A: How many times a week do you take online Japanese lessons?<br/>B: I attend at a pace of 3 times a week."
     },
-    "related": "しゅうに〜かい（授業の重要表現）"
+    "related": "しゅうに〜かい（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1070",
@@ -25836,7 +27137,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "銀行同政府機關嘅櫃位通常淨係平日先開，要留意時間呀。",
       "fr": "Les guichets des banques et de la mairie ne sont ouverts qu'en semaine, faites attention aux horaires."
     },
-    "related": "へいじつ（授業の重要表現）"
+    "related": "へいじつ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1071",
@@ -25860,7 +27162,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I summarized the reasons for applying, which are always asked in interviews.<br/>B: A clear reason why you want to join conveys well.",
       "fr": "A: I summarized the reasons for applying, which are always asked in interviews.<br/>B: A clear reason why you want to join conveys well."
     },
-    "related": "しぼうどうき（授業の重要表現）"
+    "related": "しぼうどうき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1072",
@@ -25884,7 +27187,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Around my house there are supermarkets and parks, very livable.<br/>B: Having daily amenities around the neighborhood is ideal.",
       "fr": "A: Around my house there are supermarkets and parks, very livable.<br/>B: Having daily amenities around the neighborhood is ideal."
     },
-    "related": "いえのまわり（授業の重要表現）"
+    "related": "いえのまわり（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1073",
@@ -25908,7 +27212,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我返工嗰度有好多嚟自世界各地嘅外國同事，氣氛好國際化好多元。",
       "fr": "Sur mon lieu de travail, il y a des collègues étrangers venus de divers pays, ce qui crée une belle diversité internationale."
     },
-    "related": "がいこくじん（授業の重要表現）"
+    "related": "がいこくじん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1074",
@@ -25932,7 +27237,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you been to Kyoto several times so far?<br/>B: Yes, I visited a few times on school trips and vacations.",
       "fr": "A: Have you been to Kyoto several times so far?<br/>B: Yes, I visited a few times on school trips and vacations."
     },
-    "related": "なんかいか（授業の重要表現）"
+    "related": "なんかいか（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1075",
@@ -25956,7 +27262,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Busy year-end seasons face staff shortages everywhere.<br/>B: Streamlining operations to weather labor shortages is key.",
       "fr": "A: Busy year-end seasons face staff shortages everywhere.<br/>B: Streamlining operations to weather labor shortages is key."
     },
-    "related": "ひとでぶそく（授業の重要表現）"
+    "related": "ひとでぶそく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1076",
@@ -25980,7 +27287,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Limited items are carried at this brand's company-owned store.<br/>B: You can receive full services unique to flagship stores.",
       "fr": "A: Limited items are carried at this brand's company-owned store.<br/>B: You can receive full services unique to flagship stores."
     },
-    "related": "ちょくえいてん（授業の重要表現）"
+    "related": "ちょくえいてん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1077",
@@ -26004,7 +27312,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢件產品啲零件係咪喺外國買返嚟㗎？<br/>B: 唔係，係由日本國內嘅關聯公司一站式生產製造。",
       "fr": "A: Les pièces de ce produit proviennent-elles de l'étranger ?<br/>B: Non, elles sont toutes fabriquées par une société affiliée sur le territoire national."
     },
-    "related": "けいれつがいしゃ（授業の重要表現）"
+    "related": "けいれつがいしゃ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1078",
@@ -26028,7 +27337,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "排行最細嘅細妹最識嗲人，成日都逗到全家人好開心笑。",
       "fr": "Ma petite sœur benjamine sait mieux que quiconque se faire cajoler et fait toujours sourire tout le monde."
     },
-    "related": "すえっこ（授業の重要表現）"
+    "related": "すえっこ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1079",
@@ -26052,7 +27362,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "幾熟嘅朋友都好，切記要「熟絡歸熟絡，說話要有分寸同禮貌」。",
       "fr": "Même entre personnes très proches, il ne faut jamais oublier le respect et la politesse."
     },
-    "related": "れいぎ（授業の重要表現）"
+    "related": "れいぎ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1080",
@@ -26076,7 +27387,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "如果有爆水喉漏水之類嘅問題，記得第一時間打俾房東傾點處理。",
       "fr": "En cas de fuite d'eau ou autre problème, contactez d'abord le propriétaire pour lui en parler."
     },
-    "related": "おおや（授業の重要表現）"
+    "related": "おおや（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1081",
@@ -26100,7 +27412,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新舖頭諗住喺邊個位開呀？<br/>B: 我哋想做後生仔客層嘅生意，所以考慮緊大學同大專院校附近。",
       "fr": "A: Où envisagez-vous d'implanter la nouvelle boutique ?<br/>B: Comme nous voulons attirer une jeune clientèle, nous ciblons les abords des universités et des écoles."
     },
-    "related": "きゃくそう（授業の重要表現）"
+    "related": "きゃくそう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1082",
@@ -26124,7 +27437,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I smoothed out wrinkles on the shirt cleanly with an iron.<br/>B: Crisp wrinkle-free shirts feel so great.",
       "fr": "A: I smoothed out wrinkles on the shirt cleanly with an iron.<br/>B: Crisp wrinkle-free shirts feel so great."
     },
-    "related": "シワ（授業の重要表現）"
+    "related": "シワ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1083",
@@ -26148,7 +27462,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Facial muscle exercises daily help prevent smile lines.<br/>B: Fading smile lines with massage looks youthful.",
       "fr": "A: Facial muscle exercises daily help prevent smile lines.<br/>B: Fading smile lines with massage looks youthful."
     },
-    "related": "ほうれいせん（授業の重要表現）"
+    "related": "ほうれいせん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1084",
@@ -26172,7 +27487,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Low-fat milk for me.",
       "fr": "Low-fat milk for me."
     },
-    "related": "しぼう（授業の重要表現）"
+    "related": "しぼう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1085",
@@ -26196,7 +27512,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "夏天過咗喇，我將風扇扇葉抹乾淨收返入櫃度。",
       "fr": "L'été étant terminé, j'ai nettoyé les pales du ventilateur et je l'ai rangé dans le placard."
     },
-    "related": "せんぷうき（授業の重要表現）"
+    "related": "せんぷうき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1086",
@@ -26220,7 +27537,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are these eyedrops effective for eye fatigue and blurriness?<br/>B: Yes, formulated with vitamins, they work well on eye strain.",
       "fr": "A: Are these eyedrops effective for eye fatigue and blurriness?<br/>B: Yes, formulated with vitamins, they work well on eye strain."
     },
-    "related": "〜にこうかがある（授業の重要表現）"
+    "related": "〜にこうかがある（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1087",
@@ -26244,7 +27562,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: So my weight doesn't revert back, I keep up exercise routines.<br/>B: Daily consistency is most vital for preventing rebounds.",
       "fr": "A: So my weight doesn't revert back, I keep up exercise routines.<br/>B: Daily consistency is most vital for preventing rebounds."
     },
-    "related": "もとにもどらないように（授業の重要表現）"
+    "related": "もとにもどらないように（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1088",
@@ -26268,7 +27587,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我由細到大都因為哨牙好介意、好冇自信。<br/>B: 係咩？最近好似有啲好隱形嘅透明牙箍可以矯正㗎喎。",
       "fr": "A: Depuis tout petit, mes dents en avant ont toujours été un vrai complexe pour moi.<br/>B: Ah bon ? De nos jours, il existe des gouttières transparentes et discrètes pour corriger ça."
     },
-    "related": "出っ歯（でっぱ・前歯が出ている状態）"
+    "related": "出っ歯（でっぱ・前歯が出ている状態）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1089",
@@ -26292,7 +27612,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is the average rent level in this area?<br/>B: For singles, around 70,000 yen a month is typical.",
       "fr": "A: What is the average rent level in this area?<br/>B: For singles, around 70,000 yen a month is typical."
     },
-    "related": "へいきんてきな（授業の重要表現）"
+    "related": "へいきんてきな（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1090",
@@ -26316,7 +27637,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Purchasing a home is the biggest purchase in life.<br/>B: Let's build a solid financial plan to prepare for big expenses.",
       "fr": "A: Purchasing a home is the biggest purchase in life.<br/>B: Let's build a solid financial plan to prepare for big expenses."
     },
-    "related": "おおきなかい物（授業の重要表現）"
+    "related": "おおきなかい物（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1091",
@@ -26340,7 +27662,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Who is the author of this story?",
       "fr": "Who is the author of this story?"
     },
-    "related": "さくしゃ（授業の重要表現）"
+    "related": "さくしゃ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1092",
@@ -26364,7 +27687,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you want to watch this program?",
       "fr": "Do you want to watch this program?"
     },
-    "related": "ばんぐみ（授業の重要表現）"
+    "related": "ばんぐみ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1093",
@@ -26388,7 +27712,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She fell in a heap to the floor.",
       "fr": "She fell in a heap to the floor."
     },
-    "related": "くずれる（授業の重要表現）"
+    "related": "くずれる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1094",
@@ -26412,7 +27737,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Preparing for earthquakes, I stocked emergency kits with water and rations.<br/>B: Placing disaster kits near your pillow brings security at night.",
       "fr": "A: Preparing for earthquakes, I stocked emergency kits with water and rations.<br/>B: Placing disaster kits near your pillow brings security at night."
     },
-    "related": "ぼうさいグッズ（授業の重要表現）"
+    "related": "ぼうさいグッズ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1095",
@@ -26436,7 +27762,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With heavy rain alerts issued, we evacuated to high-ground shelters.<br/>B: Evacuating early took life-saving action.",
       "fr": "A: With heavy rain alerts issued, we evacuated to high-ground shelters.<br/>B: Evacuating early took life-saving action."
     },
-    "related": "ひなんする（授業の重要表現）"
+    "related": "ひなんする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1096",
@@ -26460,7 +27787,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Let's confirm nearest evacuation shelters on local hazard maps.<br/>B: Knowing evacuation shelters avoids confusion in an emergency.",
       "fr": "A: Let's confirm nearest evacuation shelters on local hazard maps.<br/>B: Knowing evacuation shelters avoids confusion in an emergency."
     },
-    "related": "ひなんばしょ（授業の重要表現）"
+    "related": "ひなんばしょ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1097",
@@ -26484,7 +27812,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The weather is threatening.",
       "fr": "The weather is threatening."
     },
-    "related": "あぶない（授業の重要表現）"
+    "related": "あぶない（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1098",
@@ -26508,7 +27837,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "就算遇到困難都唔想求其逃避，想正面去面對。",
       "fr": "Même dans les situations difficiles, plutôt que de fuir facilement, je veux faire face avec courage."
     },
-    "related": "にげる（授業の重要表現）"
+    "related": "にげる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1099",
@@ -26532,7 +27862,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你個花花髮夾好靚好得意喎！<br/>B: 多謝！啲前陰成日遮住對眼，所以夾起咗佢。",
       "fr": "A: Cette barrette ornée d'une fleur est adorable !<br/>B: Merci ! Ma frange me tombait dans les yeux, alors je l'ai attachée."
     },
-    "related": "かみどめ（授業の重要表現）"
+    "related": "かみどめ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1100",
@@ -26556,7 +27887,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Never betray the trust of your friends.",
       "fr": "Never betray the trust of your friends."
     },
-    "related": "うらぎる（授業の重要表現）"
+    "related": "うらぎる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1101",
@@ -26580,7 +27912,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I like people who use language beautifully.",
       "fr": "I like people who use language beautifully."
     },
-    "related": "ことばづかい（授業の重要表現）"
+    "related": "ことばづかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1102",
@@ -26604,7 +27937,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm hooked on watching the recent popular dating documentary!<br/>B: Romance documentaries depicting real human emotions are fun.",
       "fr": "A: I'm hooked on watching the recent popular dating documentary!<br/>B: Romance documentaries depicting real human emotions are fun."
     },
-    "related": "れんあいドキュメンタリー（授業の重要表現）"
+    "related": "れんあいドキュメンタリー（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1103",
@@ -26628,7 +27962,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "套戲去到高潮位個女主角喊嗰幕戲真係好逼真，好打動人心。",
       "fr": "J’ai été profondément ému par le jeu en larmes de l’actrice principale lors du dénouement du film."
     },
-    "related": "えんぎ（授業の重要表現）"
+    "related": "えんぎ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1104",
@@ -26652,7 +27987,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The drama lead said a cheesy romantic line with a straight face and I blushed.<br/>B: Even cheesy lines hit hard when actors play them earnestly.",
       "fr": "A: The drama lead said a cheesy romantic line with a straight face and I blushed.<br/>B: Even cheesy lines hit hard when actors play them earnestly."
     },
-    "related": "クサいセリフ（授業の重要表現）"
+    "related": "クサいセリフ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1105",
@@ -26676,7 +28012,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 就嚟要見工面試，我要將啲頭髮染返黑先得。<br/>B: 黑髮睇落成熟穩重又有乾淨感，都好啱你呀。",
       "fr": "A: La recherche d'emploi commence, je dois refaire ma couleur d'origine.<br/>B: Les cheveux noirs donnent un air sobre et soigné, ça te va très bien."
     },
-    "related": "くろかみ（授業の重要表現）"
+    "related": "くろかみ（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1106",
@@ -26700,7 +28041,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 放假嗰陣你係咪好鍾意睇書㗎？<br/>B: 係呀，我經常睇以歷史為主題嘅小說。",
       "fr": "A: Lisez-vous souvent pendant vos jours de repos ?<br/>B: Oui, je lis souvent des romans historiques."
     },
-    "related": "ぐんたい（授業の重要表現）"
+    "related": "ぐんたい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1107",
@@ -26724,7 +28066,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我鍾意嘅藝人返返去個團體度喇！<br/>B: 可以再見到大家一齊上台表演，真係好開心。",
       "fr": "A: Mon artiste préféré a réintégré son groupe !<br/>B: C'est un vrai bonheur de les revoir tous ensemble sur scène."
     },
-    "related": "へいえき（授業の重要表現）"
+    "related": "へいえき（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1108",
@@ -26748,7 +28091,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 個男演員眼神好利，五官好立體深邃喎。<br/>B: 係呀，個側臉輪廓好有線條，真係好型。",
       "fr": "A: Cet acteur a un regard perçant et des traits de visage très sculptés.<br/>B: Oui, son profil a tellement de relief, il est très séduisant."
     },
-    "related": "ほりがふかい（授業の重要表現）"
+    "related": "ほりがふかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1109",
@@ -26772,7 +28116,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the concert, my favorite idol gave me fan service with a wave!<br/>B: Locking eyes and getting fan service is the ultimate memory!",
       "fr": "A: At the concert, my favorite idol gave me fan service with a wave!<br/>B: Locking eyes and getting fan service is the ultimate memory!"
     },
-    "related": "ファンサ（授業の重要表現）"
+    "related": "ファンサ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1110",
@@ -26796,7 +28141,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is your favorite idol's signature color?<br/>B: My favorite is yellow, so I collect yellow merchandise!",
       "fr": "A: What is your favorite idol's signature color?<br/>B: My favorite is yellow, so I collect yellow merchandise!"
     },
-    "related": "おし（授業の重要表現）"
+    "related": "おし（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1111",
@@ -26820,7 +28166,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "兜風揸車途中，收音機播咗首令人懷念嘅熱門經典金曲。",
       "fr": "Pendant notre trajet en voiture, une chanson à succès nostalgique est passée à la radio."
     },
-    "related": "きょく（授業の重要表現）"
+    "related": "きょく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1112",
@@ -26844,7 +28191,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The new employee is polite and a refreshing, wholesome guy.<br/>B: Sincere to everyone with a bright smile, he's very likable.",
       "fr": "A: The new employee is polite and a refreshing, wholesome guy.<br/>B: Sincere to everyone with a bright smile, he's very likable."
     },
-    "related": "こうせいねん（授業の重要表現）"
+    "related": "こうせいねん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1113",
@@ -26868,7 +28216,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Delinquents in school uniforms appearing in classic dramas feel nostalgic.<br/>B: Even intimidating punks often care deeply about their buddies.",
       "fr": "A: Delinquents in school uniforms appearing in classic dramas feel nostalgic.<br/>B: Even intimidating punks often care deeply about their buddies."
     },
-    "related": "ヤンキー（授業の重要表現）"
+    "related": "ヤンキー（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1114",
@@ -26892,7 +28241,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I have gas indigestion.",
       "fr": "I have gas indigestion."
     },
-    "related": "ふりょう（授業の重要表現）"
+    "related": "ふりょう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1115",
@@ -26916,7 +28266,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你對聽日嘅考試有無信心呀？<br/>B: 有呀，我溫熟晒書所以好有信心！",
       "fr": "A: Es-tu confiant pour le test de demain ?<br/>B: Oui, j'ai bien étudié donc je suis confiant !"
     },
-    "related": "自信がない（じしんがない）"
+    "related": "自信がない（じしんがない）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1116",
@@ -26940,7 +28295,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you feel confident about giving the presentation successfully?<br/>B: I practiced a lot, so I can present with full confidence!",
       "fr": "A: Do you feel confident about giving the presentation successfully?<br/>B: I practiced a lot, so I can present with full confidence!"
     },
-    "related": "じしんを持って（授業の重要表現）"
+    "related": "じしんを持って（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1117",
@@ -26964,7 +28320,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我對講英文越嚟越有信心。<br/>B: 呢個證明你係度進步緊！",
       "fr": "A: Dernièrement, j'ai pris confiance en moi pour parler anglais.<br/>B: C'est la preuve que vous vous améliorez de plus en plus !"
     },
-    "related": "成長する（せいちょうする）"
+    "related": "成長する（せいちょうする）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1118",
@@ -26988,7 +28345,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 連續失敗搞到我完全無晒信心。<br/>B: 每個人都有失敗嘅時候，唔好太介意啦。",
       "fr": "A: J'ai eu une série d'échecs et j'ai complètement perdu confiance en moi.<br/>B: Tout le monde fait des erreurs, alors ne t'en fais pas."
     },
-    "related": "落ち込む（おちこむ）"
+    "related": "落ち込む（おちこむ）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1119",
@@ -27012,7 +28370,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She is an estate agent.",
       "fr": "She is an estate agent."
     },
-    "related": "ふどうさん（授業の重要表現）"
+    "related": "ふどうさん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1120",
@@ -27036,7 +28395,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺網上睇中咗間房，好唔好直接填表租？<br/>B: 要睇下採光同隔音㗎嘛，簽約前一定要親身去睇樓呀。",
       "fr": "A: J'ai trouvé un appartement qui me plaît en ligne, je devrais déposer un dossier ?<br/>B: Tu devrais absolument faire une visite avant de signer pour vérifier la luminosité et le bruit."
     },
-    "related": "ないけん（授業の重要表現）"
+    "related": "ないけん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1121",
@@ -27060,7 +28420,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "參觀完汽車裝嵌工廠，真係俾佢哋嘅機械人自動化技術震撼到。",
       "fr": "J'ai visité une usine d'assemblage automobile et j'ai été émerveillé par les progrès de la robotique."
     },
-    "related": "けんがく（授業の重要表現）"
+    "related": "けんがく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1122",
@@ -27084,7 +28445,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I spoke with family abroad over video call seeing their faces.<br/>B: Video calls let you see expressions even from afar.",
       "fr": "A: I spoke with family abroad over video call seeing their faces.<br/>B: Video calls let you see expressions even from afar."
     },
-    "related": "ビデオつうわ（授業の重要表現）"
+    "related": "ビデオつうわ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1123",
@@ -27108,7 +28470,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'll pay today.",
       "fr": "I'll pay today."
     },
-    "related": "はらう（授業の重要表現）"
+    "related": "はらう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1124",
@@ -27132,7 +28495,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I calculated move-in initial costs including deposit and key money.<br/>B: Moving requires substantial initial costs, so prep is vital.",
       "fr": "A: I calculated move-in initial costs including deposit and key money.<br/>B: Moving requires substantial initial costs, so prep is vital."
     },
-    "related": "しょきひよう（授業の重要表現）"
+    "related": "しょきひよう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1125",
@@ -27156,7 +28520,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He neglected his duties.",
       "fr": "He neglected his duties."
     },
-    "related": "ぎむ（授業の重要表現）"
+    "related": "ぎむ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1126",
@@ -27180,7 +28545,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When renting an apartment, I contracted through a real estate brokerage.<br/>B: Going through a reliable broker gives peace of mind during procedures.",
       "fr": "A: When renting an apartment, I contracted through a real estate brokerage.<br/>B: Going through a reliable broker gives peace of mind during procedures."
     },
-    "related": "ちゅうかい（授業の重要表現）"
+    "related": "ちゅうかい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1127",
@@ -27204,7 +28570,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "條小路好窄，見到對面有人行過嚟，我就挨埋一邊讓路俾佢行先。",
       "fr": "Sur le sentier étroit, quelqu'un arrivait en sens inverse, alors je me suis écarté sur le côté pour le laisser passer."
     },
-    "related": "ゆずる（授業の重要表現）"
+    "related": "ゆずる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1128",
@@ -27228,7 +28595,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I exchange emails frequently with the client's representative.<br/>B: Exchanging messages swiftly keeps work progressing smoothly.",
       "fr": "A: I exchange emails frequently with the client's representative.<br/>B: Exchanging messages swiftly keeps work progressing smoothly."
     },
-    "related": "やりとりする（授業の重要表現）"
+    "related": "やりとりする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1129",
@@ -27252,7 +28620,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When traveling abroad, never walk alone at night in areas with poor public safety.<br/>B: Yes, I'll avoid dangerous spots and stick to well-lit streets.",
       "fr": "A: When traveling abroad, never walk alone at night in areas with poor public safety.<br/>B: Yes, I'll avoid dangerous spots and stick to well-lit streets."
     },
-    "related": "ちあんがわるい（授業の重要表現）"
+    "related": "ちあんがわるい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1130",
@@ -27276,7 +28645,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm a TV addict.",
       "fr": "I'm a TV addict."
     },
-    "related": "ちゅうどく（授業の重要表現）"
+    "related": "ちゅうどく（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1131",
@@ -27300,7 +28674,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I handwritten my résumé carefully in preparation for the interview.<br/>B: It's a CV where your motivations come through clearly!",
       "fr": "A: I handwritten my résumé carefully in preparation for the interview.<br/>B: It's a CV where your motivations come through clearly!"
     },
-    "related": "りれきしょ（授業の重要表現）"
+    "related": "りれきしょ（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1132",
@@ -27324,7 +28703,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啱啱搬完屋，廚房仲差啲日用品。<br/>B: 去百円店睇下啦，百潔布同碗碟都平靚正，不妨去行個圈先。",
       "fr": "A: Je viens d'emménager et il me manque plein de petits ustensiles de cuisine.<br/>B: Va faire un tour dans un magasin à 100 yens, tu y trouveras éponges et assiettes pour presque rien."
     },
-    "related": "ひゃっきん（授業の重要表現）"
+    "related": "ひゃっきん（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1133",
@@ -27348,7 +28728,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This apartment's kitchen is spacious and looks easy to cook in.<br/>B: A kitchen equipped with a 3-burner stove is ideal for home cooks.",
       "fr": "A: This apartment's kitchen is spacious and looks easy to cook in.<br/>B: A kitchen equipped with a 3-burner stove is ideal for home cooks."
     },
-    "related": "キッチン（授業の重要表現）"
+    "related": "キッチン（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1134",
@@ -27372,7 +28753,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The hall was filled to capacity.",
       "fr": "The hall was filled to capacity."
     },
-    "related": "ホール（授業の重要表現）"
+    "related": "ホール（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1135",
@@ -27396,7 +28778,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In tourist spots, labor shortages have worsened due to surging tourists.<br/>B: Securing staff and better benefits is an urgent priority.",
       "fr": "A: In tourist spots, labor shortages have worsened due to surging tourists.<br/>B: Securing staff and better benefits is an urgent priority."
     },
-    "related": "ひとでぶそく（授業の重要表現）"
+    "related": "ひとでぶそく（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1136",
@@ -27420,7 +28803,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Memorizing by rote without grasping meanings is inefficient.<br/>B: Learning how words are used alongside example sentences anchors memory.",
       "fr": "A: Memorizing by rote without grasping meanings is inefficient.<br/>B: Learning how words are used alongside example sentences anchors memory."
     },
-    "related": "まるあんきする（授業の重要表現）"
+    "related": "まるあんきする（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1137",
@@ -27444,7 +28828,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is maintaining a long-distance relationship between Tokyo and Osaka.<br/>B: Traveling by bullet train on weekends, they cherish time together.",
       "fr": "A: He is maintaining a long-distance relationship between Tokyo and Osaka.<br/>B: Traveling by bullet train on weekends, they cherish time together."
     },
-    "related": "えんきょりれんあい（授業の重要表現）"
+    "related": "えんきょりれんあい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1138",
@@ -27468,7 +28853,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are you off work on Saturdays and Sundays?<br/>B: Yes, weekends are completely off, so I relax with family.",
       "fr": "A: Are you off work on Saturdays and Sundays?<br/>B: Yes, weekends are completely off, so I relax with family."
     },
-    "related": "どにち（授業の重要表現）"
+    "related": "どにち（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1139",
@@ -27492,7 +28878,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "由下個月1號起，就會實施新嘅收費計劃，請大家留意同確認。",
       "fr": "À partir du 1er du mois prochain, la nouvelle formule tarifaire s'appliquera, veuillez vérifier."
     },
-    "related": "いこう（授業の重要表現）"
+    "related": "いこう（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1140",
@@ -27516,7 +28903,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's in the fridge.",
       "fr": "It's in the fridge."
     },
-    "related": "れいぞうこ（授業の重要表現）"
+    "related": "れいぞうこ（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1141",
@@ -27540,7 +28928,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The subway transit map is complex and I was lost on which train to board.<br/>B: Let's check transfer stations on the big route map on the station wall.",
       "fr": "A: The subway transit map is complex and I was lost on which train to board.<br/>B: Let's check transfer stations on the big route map on the station wall."
     },
-    "related": "ろせんず（授業の重要表現）"
+    "related": "ろせんず（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1142",
@@ -27564,7 +28953,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "All art constantly aspires towards the condition of music.",
       "fr": "All art constantly aspires towards the condition of music."
     },
-    "related": "あこがれる（授業の重要表現）"
+    "related": "あこがれる（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1143",
@@ -27588,7 +28978,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Being alone in the elevator with a coworker I just argued with was awkward.<br/>B: Prolonged silence creates an uncomfortable atmosphere.",
       "fr": "A: Being alone in the elevator with a coworker I just argued with was awkward.<br/>B: Prolonged silence creates an uncomfortable atmosphere."
     },
-    "related": "きまずい（授業の重要表現）"
+    "related": "きまずい（授業の重要表現）",
+    "studentId": "0016"
   },
   {
     "id": "class_word_1144",
@@ -27612,7 +29003,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I watch Japanese anime with Japanese subtitles to study listening.<br/>B: Having captions lets you verify missed words easily.",
       "fr": "A: I watch Japanese anime with Japanese subtitles to study listening.<br/>B: Having captions lets you verify missed words easily."
     },
-    "related": "じまく（授業の重要表現）"
+    "related": "じまく（授業の重要表現）",
+    "studentId": "0016",
+    "studentIds": [
+      "0016",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1145",
@@ -27636,7 +29032,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is an actor.",
       "fr": "He is an actor."
     },
-    "related": "はいゆう（授業の重要表現）"
+    "related": "はいゆう（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1146",
@@ -27660,7 +29057,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She became an actress.",
       "fr": "She became an actress."
     },
-    "related": "じょゆう（授業の重要表現）"
+    "related": "じょゆう（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1147",
@@ -27684,7 +29082,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This book cafe is my favorite spot where I can read peacefully.<br/>B: Quiet with tasty coffee, it's a wonderful go-to spot.",
       "fr": "A: This book cafe is my favorite spot where I can read peacefully.<br/>B: Quiet with tasty coffee, it's a wonderful go-to spot."
     },
-    "related": "おきにいり（授業の重要表現）"
+    "related": "おきにいり（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1148",
@@ -27708,7 +29107,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I received a leather-strap wristwatch from my grandfather for coming of age.<br/>B: You'll want to cherish it as a lifetime timepiece.",
       "fr": "A: I received a leather-strap wristwatch from my grandfather for coming of age.<br/>B: You'll want to cherish it as a lifetime timepiece."
     },
-    "related": "うでどけい（授業の重要表現）"
+    "related": "うでどけい（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1149",
@@ -27732,7 +29132,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "東京嘅地下鐵路網雖然好複雜，但去邊度都非常方便快捷。",
       "fr": "Le métro de Tokyo a des lignes complexes, mais il est extrêmement pratique pour aller n'importe où."
     },
-    "related": "ちかてつ（授業の重要表現）"
+    "related": "ちかてつ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1150",
@@ -27756,7 +29157,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Let's go to the zoo.",
       "fr": "Let's go to the zoo."
     },
-    "related": "どうぶつえん（授業の重要表現）"
+    "related": "どうぶつえん（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1151",
@@ -27780,7 +29182,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Show me the photo.",
       "fr": "Show me the photo."
     },
-    "related": "しゃしん（授業の重要表現）"
+    "related": "しゃしん（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1152",
@@ -27804,7 +29207,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tonight let's make yakitori with chicken and green onions!<br/>B: Fragrantly grilled chicken pairs perfectly with rice.",
       "fr": "A: Tonight let's make yakitori with chicken and green onions!<br/>B: Fragrantly grilled chicken pairs perfectly with rice."
     },
-    "related": "とりにく（授業の重要表現）"
+    "related": "とりにく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1153",
@@ -27828,7 +29232,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "個旅行喼好似好重咁喎，等我幫你拎上去樓梯頂啦。",
       "fr": "Cette valise a l’air lourde. Laissez-moi la porter pour vous jusqu’en haut des escaliers."
     },
-    "related": "もつ（授業の重要表現）"
+    "related": "もつ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1154",
@@ -27852,7 +29257,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "春天嘅花園開咗好多五顏六色嘅鬱金香花，好靚。",
       "fr": "Dans le jardin printanier, de nombreuses tulipes colorées fleurissent magnifiquement."
     },
-    "related": "はな（授業の重要表現）"
+    "related": "はな（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1155",
@@ -27876,7 +29282,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's a waterproof wristwatch, so it's safe even on rainy days.<br/>B: A watch you can use outdoors without water worries is handy.",
       "fr": "A: It's a waterproof wristwatch, so it's safe even on rainy days.<br/>B: A watch you can use outdoors without water worries is handy."
     },
-    "related": "うでどけい（授業の重要表現）"
+    "related": "うでどけい（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1156",
@@ -27900,7 +29307,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "夏天做運動嗰陣，趁口渴之前就要飲多啲凍茶預防中暑。",
       "fr": "Pendant le sport en été, buvez souvent du thé frais avant d’avoir soif pour prévenir les coups de chaud."
     },
-    "related": "のど（授業の重要表現）"
+    "related": "のど（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1157",
@@ -27924,7 +29332,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我讀書嗰陣好擅長理科同數學，成日都好期待做科學實驗。",
       "fr": "Quand j'étais étudiant, j'étais doué dans les matières scientifiques comme la physique-chimie et les maths."
     },
-    "related": "きょうか（授業の重要表現）"
+    "related": "きょうか（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1158",
@@ -27948,7 +29357,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As a student, I loved reading literary works in Japanese class.<br/>B: Japanese textbooks feature many beautiful short stories.",
       "fr": "A: As a student, I loved reading literary works in Japanese class.<br/>B: Japanese textbooks feature many beautiful short stories."
     },
-    "related": "こくご—学校の教科（授業の重要表現）"
+    "related": "こくご—学校の教科（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1159",
@@ -27972,7 +29382,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Mathematics is difficult.",
       "fr": "Mathematics is difficult."
     },
-    "related": "すうがく（授業の重要表現）"
+    "related": "すうがく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1160",
@@ -27996,7 +29407,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We're studying physical science.",
       "fr": "We're studying physical science."
     },
-    "related": "りか（授業の重要表現）"
+    "related": "りか（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1161",
@@ -28020,7 +29432,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In elementary social studies, we investigated local specialties and history.<br/>B: Going on field trips to factories and museums was fun too.",
       "fr": "A: In elementary social studies, we investigated local specialties and history.<br/>B: Going on field trips to factories and museums was fun too."
     },
-    "related": "しゃかい—学校の教科（授業の重要表現）"
+    "related": "しゃかい—学校の教科（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1162",
@@ -28044,7 +29457,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今日下晝體育堂搞咗個班際籃球比賽。",
       "fr": "Cet après-midi en cours d’EPS, nous avons eu un tournoi de basket entre classes."
     },
-    "related": "たいいく（授業の重要表現）"
+    "related": "たいいく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1163",
@@ -28068,7 +29482,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I became a fan of the voice actor who plays my favorite anime character.<br/>B: Expressive voice acting breathes life into characters.",
       "fr": "A: I became a fan of the voice actor who plays my favorite anime character.<br/>B: Expressive voice acting breathes life into characters."
     },
-    "related": "せいゆう（授業の重要表現）"
+    "related": "せいゆう（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1164",
@@ -28092,7 +29507,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺大嘅會議室開會嗰陣，要用清晰響亮嘅把聲發言，等後面嘅人都聽得清楚。",
       "fr": "Lors d'une grande réunion, parlez d'une voix bien claire et posée pour être entendu jusqu'au fond."
     },
-    "related": "こえ（授業の重要表現）"
+    "related": "こえ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1165",
@@ -28116,7 +29532,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is overconfident.",
       "fr": "He is overconfident."
     },
-    "related": "じしん（授業の重要表現）"
+    "related": "じしん（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1166",
@@ -28140,7 +29557,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The train was derailed.",
       "fr": "The train was derailed."
     },
-    "related": "きしゃ（授業の重要表現）"
+    "related": "きしゃ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1167",
@@ -28165,7 +29583,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 由呢度去火車站要幾耐呀？<br/>B: 行路要10分鐘。",
       "fr": "A: Combien de temps faut-il pour aller à la gare d'ici ?<br/>B: Cela prend 10 minutes à pied."
     },
-    "related": "時間がかかる（じかんがかかる）"
+    "related": "時間がかかる（じかんがかかる）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1168",
@@ -28189,7 +29608,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好用心咁親手寫咗封信畀遠方嘅朋友，投咗入郵筒。",
       "fr": "J’ai écrit avec soin une lettre manuscrite à un ami lointain et je l’ai postée."
     },
-    "related": "てがみ（授業の重要表現）"
+    "related": "てがみ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1169",
@@ -28213,7 +29633,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What time are we leaving?",
       "fr": "What time are we leaving?"
     },
-    "related": "でる（授業の重要表現）"
+    "related": "でる（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1170",
@@ -28237,7 +29658,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In the evening park, children were happily swinging on swings.<br/>B: Swings swaying high through the breeze evoke fond childhood memories.",
       "fr": "A: In the evening park, children were happily swinging on swings.<br/>B: Swings swaying high through the breeze evoke fond childhood memories."
     },
-    "related": "ブランコ（授業の重要表現）"
+    "related": "ブランコ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1171",
@@ -28261,7 +29683,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After school, soccer members ran vigorously around the schoolyard.<br/>B: Children's voices echo across the spacious playground.",
       "fr": "A: After school, soccer members ran vigorously around the schoolyard.<br/>B: Children's voices echo across the spacious playground."
     },
-    "related": "うんどうじょう（授業の重要表現）"
+    "related": "うんどうじょう（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1172",
@@ -28285,7 +29708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 不如我哋坐喺公園嘅草地上面食便當啦。<br/>B: 好呀！天氣咁好，一定好舒服。",
       "fr": "A: Asseyons-nous sur la pelouse du parc et mangeons nos boîtes à bento.<br/>B: Ça a l'air génial ! Il fait beau, donc ça devrait être agréable."
     },
-    "related": "公園（こうえん）"
+    "related": "公園（こうえん）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1173",
@@ -28309,7 +29733,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you have lunch at school?",
       "fr": "Do you have lunch at school?"
     },
-    "related": "きゅうしょく（授業の重要表現）"
+    "related": "きゅうしょく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1174",
@@ -28333,7 +29758,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Make it a normal packed lunch, OK?",
       "fr": "Make it a normal packed lunch, OK?"
     },
-    "related": "おべんとう（授業の重要表現）"
+    "related": "おべんとう（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1175",
@@ -28357,7 +29783,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 公園啲小朋友好精神咁走嚟走去玩捉伊人。<br/>B: 睇住都覺得好懷念，細個嗰陣我都玩到天黑先返屋企。",
       "fr": "A: Les enfants courent partout dans le parc en jouant à chat avec énergie.<br/>B: Rien que de les voir, ça me rappelle des souvenirs. On jouait jusqu'au coucher du soleil autrefois."
     },
-    "related": "おにごっこ（授業の重要表現）"
+    "related": "おにごっこ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1176",
@@ -28381,7 +29808,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 啲小朋友玩緊水槍喎。<br/>B: 呢個真係好啱天氣熱嘅時候玩。",
       "fr": "A: Les enfants jouent avec des pistolets à eau.<br/>B: C'est le jeu parfait pour une journée chaude."
     },
-    "related": "おもちゃ"
+    "related": "おもちゃ",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1177",
@@ -28405,7 +29833,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你嘅興趣係咩？<br/>B: 游水。我每個禮拜去兩次泳池。",
       "fr": "A: Quel est votre passe-temps ?<br/>B: La natation. Je vais à la piscine deux fois par semaine."
     },
-    "related": "泳ぐ（およぐ）"
+    "related": "泳ぐ（およぐ）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1178",
@@ -28429,7 +29858,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你游水姿勢靚唔靚呀？<br/>B: 唔靚呀，我淨係識狗仔式。",
       "fr": "A: Peux-tu nager avec une bonne technique ?<br/>B: Non, je ne sais faire que la nage en chien."
     },
-    "related": "泳ぎ方（およぎかた）"
+    "related": "泳ぎ方（およぎかた）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1179",
@@ -28453,7 +29883,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 埋單用信用卡俾錢嗎？<br/>B: 唔係，我用現金俾。",
       "fr": "A: Allez-vous payer l'addition avec une carte de crédit ?<br/>B: Non, je vais payer en espèces."
     },
-    "related": "お金（おかね）"
+    "related": "お金（おかね）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1180",
@@ -28477,7 +29908,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間舖可以用信用卡嗎？<br/>B: 唔好意思，淨係收現金。",
       "fr": "A: Puis-je utiliser une carte dans ce magasin ?<br/>B: Je suis désolé, uniquement en espèces."
     },
-    "related": "キャッシュレス"
+    "related": "キャッシュレス",
+    "studentId": "0017",
+    "studentIds": [
+      "0017",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1181",
@@ -28501,7 +29937,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咁我哋輪流自我介紹啦。<br/>B: 好，初次見面，我係金。",
       "fr": "A: Eh bien, s'il vous plaît présentez-vous à tour de rôle.<br/>B: Oui, ravi de vous rencontrer. Je m'appelle Kim."
     },
-    "related": "挨拶（あいさつ）"
+    "related": "挨拶（あいさつ）",
+    "studentId": "0017",
+    "studentIds": [
+      "0017",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1182",
@@ -28525,7 +29966,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗健康你有做啲咩呀？<br/>B: 我每朝都會做早操。",
       "fr": "A: Faites-vous quelque chose pour votre santé ?<br/>B: Je fais des exercices de gymnastique à la radio tous les matins."
     },
-    "related": "不健康（ふけんこう）"
+    "related": "不健康（ふけんこう）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1183",
@@ -28549,7 +29991,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你份功課做完未呀？<br/>B: 係呀，差唔多做完喇。",
       "fr": "A: As-tu fini tes devoirs ?<br/>B: Oui, j'ai presque terminé."
     },
-    "related": "全部（ぜんぶ）"
+    "related": "全部（ぜんぶ）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1184",
@@ -28573,7 +30016,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 準備好未呀？<br/>B: 係呀，差唔多完美喇。",
       "fr": "A: Es-tu prêt ?<br/>B: Oui, c'est presque parfait."
     },
-    "related": "大体（だいたい）"
+    "related": "大体（だいたい）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1185",
@@ -28597,7 +30041,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你咁快就要返屋企喇？<br/>B: 係呀，我門禁係10點。",
       "fr": "A: Tu dois déjà rentrer chez toi ?<br/>B: Oui, mon couvre-feu est à 22h."
     },
-    "related": "規則（きそく）"
+    "related": "規則（きそく）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1186",
@@ -28621,7 +30066,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 上次嘅考試難唔難呀？<br/>B: 係呀，好難。",
       "fr": "A: Le dernier test était-il difficile ?<br/>B: Oui, c'était très difficile."
     },
-    "related": "今回（こんかい）"
+    "related": "今回（こんかい）",
+    "studentId": "0017",
+    "studentIds": [
+      "0017",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1187",
@@ -28645,7 +30095,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今次旅行去邊度呀？<br/>B: 今次打算去北海道。",
       "fr": "A: Où vas-tu pour ce voyage ?<br/>B: Cette fois, nous prévoyons d'aller à Hokkaido."
     },
-    "related": "次回（じかい）"
+    "related": "次回（じかい）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1188",
@@ -28669,7 +30120,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日就到呢度喇。<br/>B: 係呀，下次開會係下個禮拜。",
       "fr": "A: C'est tout pour aujourd'hui.<br/>B: Oui, la prochaine réunion aura lieu la semaine prochaine."
     },
-    "related": "次（つぎ）"
+    "related": "次（つぎ）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1189",
@@ -28693,7 +30145,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思遲到喇！<br/>B: 你又瞓過龍呀？",
       "fr": "A: Je suis désolé d'être en retard !<br/>B: As-tu encore trop dormi ?"
     },
-    "related": "遅刻する（ちこくする）"
+    "related": "遅刻する（ちこくする）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1190",
@@ -28718,7 +30171,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 功課做咗未呀？<br/>B: 唔好意思，我太忙無時間做。",
       "fr": "A: As-tu fait tes devoirs ?<br/>B: Je suis désolé, j'étais occupé et je n'ai pas eu le temps."
     },
-    "related": "忙しい（いそがしい）"
+    "related": "忙しい（いそがしい）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1191",
@@ -28742,7 +30196,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 暑假去邊度玩呀？<br/>B: 打算同屋企人去海邊。",
       "fr": "A: Où vas-tu pendant les vacances d'été ?<br/>B: J'ai l'intention d'aller à la mer avec ma famille."
     },
-    "related": "冬休み（ふゆやすみ）"
+    "related": "冬休み（ふゆやすみ）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1192",
@@ -28766,7 +30221,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I hope we can see the Milky Way on Tanabata night.<br/>B: Let's hang strips of paper with wishes on bamboo branches.",
       "fr": "A: I hope we can see the Milky Way on Tanabata night.<br/>B: Let's hang strips of paper with wishes on bamboo branches."
     },
-    "related": "たなばた（授業の重要表現）"
+    "related": "たなばた（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1193",
@@ -28790,7 +30246,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "感冒搞到喉嚨好痕，所以買咗幾粒柑橘味嘅潤喉糖食。",
       "fr": "Ayant la gorge qui gratte à cause d’un rhume, j’ai acheté de bonnes pastilles aux agrumes."
     },
-    "related": "あめ（授業の重要表現）"
+    "related": "あめ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1194",
@@ -28815,7 +30272,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 日日都要OT，真係好辛苦。<br/>B: 唔好太勉強，都係休息下比較好。",
       "fr": "A: Je fais des heures supplémentaires tous les jours et c'est très dur.<br/>B: Ne vous forcez pas trop, vous devriez vous reposer un peu."
     },
-    "related": "苦しい（くるしい）"
+    "related": "苦しい（くるしい）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1195",
@@ -28839,7 +30297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "That is a high building, is it not?",
       "fr": "That is a high building, is it not?"
     },
-    "related": "たてもの（授業の重要表現）"
+    "related": "たてもの（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1196",
@@ -28863,7 +30322,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I received plenty of home-grown vegetables from my neighbor.<br/>B: Getting along well with neighbors brings lovely treats.",
       "fr": "A: I received plenty of home-grown vegetables from my neighbor.<br/>B: Getting along well with neighbors brings lovely treats."
     },
-    "related": "りんじん（授業の重要表現）"
+    "related": "りんじん（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1197",
@@ -28887,7 +30347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 朝早散步撞到街坊鄰居嗰陣，你會唔會同佢哋打招呼？<br/>B: 會呀，我會笑笑口同人講聲「早晨」。",
       "fr": "A: Quand tu croises des voisins pendant ta promenade matinale, tu leur dis bonjour ?<br/>B: Oui, je fais en sorte de sourire et de leur souhaiter une bonne journée."
     },
-    "related": "きんじょの人（授業の重要表現）"
+    "related": "きんじょの人（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1198",
@@ -28911,7 +30372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Spring is a delightful season.",
       "fr": "Spring is a delightful season."
     },
-    "related": "きせつ（授業の重要表現）"
+    "related": "きせつ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1199",
@@ -28935,7 +30397,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末去咗邊度玩呀？<br/>B: 我喺安靜嘅圖書館睇書，好悠閒咁過咗一日。",
       "fr": "A: Où êtes-vous allé ce week-end ?<br/>B: J'ai passé un moment paisible à lire des livres dans une bibliothèque calme."
     },
-    "related": "ぐんたい（授業の重要表現）"
+    "related": "ぐんたい（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1200",
@@ -28959,7 +30422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the summer festival fair, I tried the shooting gallery stall!<br/>B: Aiming at targets for prizes makes even adults hooked.",
       "fr": "A: At the summer festival fair, I tried the shooting gallery stall!<br/>B: Aiming at targets for prizes makes even adults hooked."
     },
-    "related": "しゃげき（授業の重要表現）"
+    "related": "しゃげき（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1201",
@@ -28983,7 +30447,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm jealous.",
       "fr": "I'm jealous."
     },
-    "related": "うらやましい（授業の重要表現）"
+    "related": "うらやましい（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1202",
@@ -29007,7 +30472,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's the purpose of your visit?",
       "fr": "What's the purpose of your visit?"
     },
-    "related": "もくてき（授業の重要表現）"
+    "related": "もくてき（授業の重要表現）",
+    "studentId": "0017",
+    "studentIds": [
+      "0017",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1203",
@@ -29031,7 +30501,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Snow piled up high, so we had a snowball fight in the park!<br/>B: Hands get freezing cold, but snowball fights are so thrilling.",
       "fr": "A: Snow piled up high, so we had a snowball fight in the park!<br/>B: Hands get freezing cold, but snowball fights are so thrilling."
     },
-    "related": "ゆきがっせん（授業の重要表現）"
+    "related": "ゆきがっせん（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1204",
@@ -29055,7 +30526,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Let me have a cigarette.",
       "fr": "Let me have a cigarette."
     },
-    "related": "ふく（授業の重要表現）"
+    "related": "ふく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1205",
@@ -29079,7 +30551,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On New Year's morning, the whole family went for the first shrine visit.<br/>B: First shrine visits wishing for health and happiness purify the spirit.",
       "fr": "A: On New Year's morning, the whole family went for the first shrine visit.<br/>B: First shrine visits wishing for health and happiness purify the spirit."
     },
-    "related": "はつもうで（授業の重要表現）"
+    "related": "はつもうで（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1206",
@@ -29103,7 +30576,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I will go to the market.",
       "fr": "I will go to the market."
     },
-    "related": "いちば（授業の重要表現）"
+    "related": "いちば（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1207",
@@ -29127,7 +30601,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are there any other books you are looking for besides that?<br/>B: No, other than that I'm fine. I'll just take this.",
       "fr": "A: Are there any other books you are looking for besides that?<br/>B: No, other than that I'm fine. I'll just take this."
     },
-    "related": "ほかに（授業の重要表現）"
+    "related": "ほかに（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1208",
@@ -29151,7 +30626,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How do you usually spend Saturdays and Sundays?<br/>B: On weekends I cook and read books at cafes.",
       "fr": "A: How do you usually spend Saturdays and Sundays?<br/>B: On weekends I cook and read books at cafes."
     },
-    "related": "どにち（授業の重要表現）"
+    "related": "どにち（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1209",
@@ -29175,7 +30651,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本有「海之日」同「山之日」等節日，專門用嚟感謝大自然恩賜嘅公眾假期。",
       "fr": "Au Japon, il existe des jours fériés comme le 'Jour de la Mer' ou le 'Jour de la Montagne' pour remercier la nature."
     },
-    "related": "しゅくじつ（授業の重要表現）"
+    "related": "しゅくじつ（授業の重要表現）",
+    "studentId": "0017",
+    "studentIds": [
+      "0017",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1210",
@@ -29199,7 +30680,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is this restaurant's recommended dish?<br/>B: The chef's special homemade hamburger steak is our top recommendation!",
       "fr": "A: What is this restaurant's recommended dish?<br/>B: The chef's special homemade hamburger steak is our top recommendation!"
     },
-    "related": "おすすめ（授業の重要表現）"
+    "related": "おすすめ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1211",
@@ -29223,7 +30705,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a scientist.",
       "fr": "He is a scientist."
     },
-    "related": "かがく（授業の重要表現）"
+    "related": "かがく（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1212",
@@ -29247,7 +30730,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you full?",
       "fr": "Are you full?"
     },
-    "related": "いっぱい（授業の重要表現）"
+    "related": "いっぱい（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1213",
@@ -29271,7 +30755,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I am going to apply for a scholarship.",
       "fr": "I am going to apply for a scholarship."
     },
-    "related": "もうしこむ（授業の重要表現）"
+    "related": "もうしこむ（授業の重要表現）",
+    "studentId": "0017"
   },
   {
     "id": "class_word_1214",
@@ -29295,7 +30780,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: That idol group's new dance is so cool!<br/>B: Apparently a famous choreographer produced that choreography.",
       "fr": "A: That idol group's new dance is so cool!<br/>B: Apparently a famous choreographer produced that choreography."
     },
-    "related": "ふりつけし（授業の重要表現）"
+    "related": "ふりつけし（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1215",
@@ -29319,7 +30805,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What nickname do your school friends call you?<br/>B: They call me by the nickname 'Mac', taken from my last name.",
       "fr": "A: What nickname do your school friends call you?<br/>B: They call me by the nickname 'Mac', taken from my last name."
     },
-    "related": "あだな（授業の重要表現）"
+    "related": "あだな（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1216",
@@ -29343,7 +30830,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Nice to meet you! What should I call you?<br/>B: My last name is Kamei, so please call me Kame!",
       "fr": "A: Nice to meet you! What should I call you?<br/>B: My last name is Kamei, so please call me Kame!"
     },
-    "related": "かめとよんでください（授業の重要表現）"
+    "related": "かめとよんでください（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1217",
@@ -29367,7 +30855,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Nice to meet you! Where do you live right now?<br/>B: I live in Yokohama, which is quiet and comfortable to live in.",
       "fr": "A: Nice to meet you! Where do you live right now?<br/>B: I live in Yokohama, which is quiet and comfortable to live in."
     },
-    "related": "〜にすんでいます（授業の重要表現）"
+    "related": "〜にすんでいます（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1218",
@@ -29391,7 +30880,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you decided what birthday gift to get for your boyfriend?<br/>B: I decided to give him a leather wallet he can use every day.",
       "fr": "A: Have you decided what birthday gift to get for your boyfriend?<br/>B: I decided to give him a leather wallet he can use every day."
     },
-    "related": "かれし（授業の重要表現）"
+    "related": "かれし（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1219",
@@ -29415,7 +30905,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "雖然佢係屋企最細，但做嘢好踏實，喺公司大家都好信賴佢。",
       "fr": "Bien qu'il soit le cadet, il est très mûr et tout le monde compte sur lui au travail."
     },
-    "related": "すえっこ（授業の重要表現）"
+    "related": "すえっこ（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1220",
@@ -29439,7 +30930,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is three years older than me, so he is very dependable.<br/>B: Being three years older brings calm reliability.",
       "fr": "A: He is three years older than me, so he is very dependable.<br/>B: Being three years older brings calm reliability."
     },
-    "related": "さんさいうえ（授業の重要表現）"
+    "related": "さんさいうえ（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1221",
@@ -29463,7 +30955,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: There is a big age gap with my brother, but we get along great.<br/>B: With a big age gap, there are fewer fights and lots of affection.",
       "fr": "A: There is a big age gap with my brother, but we get along great.<br/>B: With a big age gap, there are fewer fights and lots of affection."
     },
-    "related": "としがはなれています（授業の重要表現）"
+    "related": "としがはなれています（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1222",
@@ -29487,7 +30980,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I gathered the fruits bought at the supermarket into a plastic bag.<br/>B: Plastic bags are helpful for preventing leaks.",
       "fr": "A: I gathered the fruits bought at the supermarket into a plastic bag.<br/>B: Plastic bags are helpful for preventing leaks."
     },
-    "related": "ビニールぶくろ（授業の重要表現）"
+    "related": "ビニールぶくろ（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1223",
@@ -29511,7 +31005,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Those new glasses look so good on you!<br/>B: Really? I was torn on the frame color, so I'm glad!",
       "fr": "A: Those new glasses look so good on you!<br/>B: Really? I was torn on the frame color, so I'm glad!"
     },
-    "related": "にあっていますね（授業の重要表現）"
+    "related": "にあっていますね（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1224",
@@ -29535,7 +31030,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我老公一到週末就會大顯身手，煮好味嘅意粉畀大家食。",
       "fr": "Mon mari met la main à la pâte le week-end et nous prépare de délicieuses pâtes."
     },
-    "related": "だんな（授業の重要表現）"
+    "related": "だんな（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1225",
@@ -29559,7 +31055,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "聽日有重要嘅期中試，今晚要溫熟書複習晒先去瞓覺。",
       "fr": "Demain j'ai un examen partiel important, ce soir je vais donc bien réviser avant d'aller me coucher."
     },
-    "related": "しけん（授業の重要表現）"
+    "related": "しけん（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1226",
@@ -29583,7 +31080,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 頭髮長咗好多，週末諗住去剪頭髮。<br/>B: 想剪咩髮型呀？好令人期待喎。",
       "fr": "A: Mes cheveux ont bien poussé, je vais au salon de coiffure ce week-end.<br/>B: Quel genre de coupe vas-tu faire ? J'ai hâte de voir ça !"
     },
-    "related": "びよういん／びようしつ（授業の重要表現）"
+    "related": "びよういん／びようしつ（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1227",
@@ -29607,7 +31105,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's a lightning rod?",
       "fr": "What's a lightning rod?"
     },
-    "related": "かみなり（授業の重要表現）"
+    "related": "かみなり（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1228",
@@ -29631,7 +31130,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I spotted a peregrine falcon gliding swiftly across the sky!<br/>B: The falcon is famous as the fastest flying bird in the world.",
       "fr": "A: I spotted a peregrine falcon gliding swiftly across the sky!<br/>B: The falcon is famous as the fastest flying bird in the world."
     },
-    "related": "隼（授業の重要表現）"
+    "related": "隼（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1229",
@@ -29655,7 +31155,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺咖哩入面加慢火燉煮嘅牛肉，會令個汁更加濃郁惹味。",
       "fr": "Ajouter du bœuf mijoté au curry apporte une saveur riche et profonde."
     },
-    "related": "ぎゅうにく（授業の重要表現）"
+    "related": "ぎゅうにく（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1230",
@@ -29679,7 +31180,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "豬肉含有豐富嘅維他命B1，對消除疲勞非常有幫助。",
       "fr": "Le porc est riche en vitamine B1, ce qui est très efficace pour récupérer de la fatigue."
     },
-    "related": "ぶたにく（授業の重要表現）"
+    "related": "ぶたにく（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1231",
@@ -29703,7 +31205,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚諗住用雞肉整日式炸雞，點睇？<br/>B: 舉腳贊成！好期待新鮮炸出嚟熱辣辣又多汁嘅炸雞。",
       "fr": "A: Je pensais utiliser du poulet pour faire du karaage ce soir, qu'en dis-tu ?<br/>B: Tout à fait pour ! J'ai hâte de déguster ce poulet frit bien juteux."
     },
-    "related": "とりにく（授業の重要表現）"
+    "related": "とりにく（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1232",
@@ -29727,7 +31230,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My father runs a small local bakery in our hometown.<br/>B: Delivering freshly baked bread to customers daily is wonderful.",
       "fr": "A: My father runs a small local bakery in our hometown.<br/>B: Delivering freshly baked bread to customers daily is wonderful."
     },
-    "related": "けいえいしています（授業の重要表現）"
+    "related": "けいえいしています（授業の重要表現）",
+    "studentId": "0018"
   },
   {
     "id": "class_word_1233",
@@ -29751,7 +31255,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is the box sitting on the desk?<br/>B: It's souvenir sweets sent from a friend in Hokkaido.",
       "fr": "A: What is the box sitting on the desk?<br/>B: It's souvenir sweets sent from a friend in Hokkaido."
     },
-    "related": "何ですか（授業の重要表現）"
+    "related": "何ですか（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1234",
@@ -29775,7 +31280,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you friends?",
       "fr": "Are you friends?"
     },
-    "related": "ともだち（授業の重要表現）"
+    "related": "ともだち（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1235",
@@ -29799,7 +31305,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我細個嗰陣已經好鍾意睇星星同太空，大個之後嘅志願係做天文學家。",
       "fr": "Depuis tout petit, j'adore observer les étoiles et l'univers, et j'aimerais devenir astronome plus tard."
     },
-    "related": "ぼく（授業の重要表現）"
+    "related": "ぼく（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1236",
@@ -29823,7 +31330,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I am a man.",
       "fr": "I am a man."
     },
-    "related": "おれ（授業の重要表現）"
+    "related": "おれ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1237",
@@ -29847,7 +31355,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is a French national, but his Japanese is so fluent.<br/>B: I heard he loves Japanese culture and has studied for years.",
       "fr": "A: He is a French national, but his Japanese is so fluent.<br/>B: I heard he loves Japanese culture and has studied for years."
     },
-    "related": "〜じん（授業の重要表現）"
+    "related": "〜じん（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1238",
@@ -29871,7 +31380,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you a Japanese citizen?",
       "fr": "Are you a Japanese citizen?"
     },
-    "related": "にほん・にっぽん（授業の重要表現）"
+    "related": "にほん・にっぽん（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1239",
@@ -29895,7 +31405,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下個月我會去韓國旅行。<br/>B: 幾好喎！食多啲好嘢返嚟啦。",
       "fr": "A: Je voyage en Corée du Sud le mois prochain.<br/>B: C'est bien ! S'il te plaît, mange beaucoup de plats délicieux."
     },
-    "related": "日本（にほん）"
+    "related": "日本（にほん）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1240",
@@ -29919,7 +31430,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Speak English.",
       "fr": "Speak English."
     },
-    "related": "えいご（授業の重要表現）"
+    "related": "えいご（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1241",
@@ -29943,7 +31455,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Please take two cookies each.<br/>B: Understood! Let's share equally among everyone.",
       "fr": "A: Please take two cookies each.<br/>B: Understood! Let's share equally among everyone."
     },
-    "related": "〜ずつ（授業の重要表現）"
+    "related": "〜ずつ（授業の重要表現）",
+    "studentId": "0019",
+    "studentIds": [
+      "0019",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1242",
@@ -29967,7 +31484,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, I couldn't catch that once again; could you tell me?<br/>B: Yes, I will explain it slowly one more time.",
       "fr": "A: Excuse me, I couldn't catch that once again; could you tell me?<br/>B: Yes, I will explain it slowly one more time."
     },
-    "related": "もう一度・もうもういちど・もういっかい（授業の重要表現）"
+    "related": "もう一度・もうもういちど・もういっかい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1243",
@@ -29991,7 +31509,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日難得可以坐低慢慢傾偈，真係好開心。<br/>B: 我都係！遲啲再約出嚟見面啦。",
       "fr": "A: J'ai vraiment passé un très bon moment à bavarder tranquillement aujourd'hui.<br/>B: Moi aussi ! Revoyons-nous très bientôt."
     },
-    "related": "またあいましょう（授業の重要表現）"
+    "related": "またあいましょう（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1244",
@@ -30015,7 +31534,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "逢禮拜六日，我哋全家人都會一齊去附近嘅大公園野餐。",
       "fr": "Le week-end, toute la famille part en pique-nique dans un grand parc tout proche."
     },
-    "related": "かぞく（授業の重要表現）"
+    "related": "かぞく（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1245",
@@ -30039,7 +31559,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下個禮拜六日係我女朋友生日，我訂咗間好靚好浪漫嘅餐廳同佢慶祝。",
       "fr": "Le week-end prochain, c'est l'anniversaire de ma petite amie, alors j'ai réservé une table dans un restaurant charmant."
     },
-    "related": "かのじょ（授業の重要表現）"
+    "related": "かのじょ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1246",
@@ -30063,7 +31584,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I love camping out in nature on my days off.<br/>B: Spending time in quiet forests is truly refreshing.",
       "fr": "A: I love camping out in nature on my days off.<br/>B: Spending time in quiet forests is truly refreshing."
     },
-    "related": "すきです（授業の重要表現）"
+    "related": "すきです（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1247",
@@ -30087,7 +31609,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Hearing the surgery ended safely made me so glad.<br/>B: Thank you for your concern. Recovery is going smoothly!",
       "fr": "A: Hearing the surgery ended safely made me so glad.<br/>B: Thank you for your concern. Recovery is going smoothly!"
     },
-    "related": "よかったです（授業の重要表現）"
+    "related": "よかったです（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1248",
@@ -30111,7 +31634,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You should thank me.",
       "fr": "You should thank me."
     },
-    "related": "かんしゃ（授業の重要表現）"
+    "related": "かんしゃ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1249",
@@ -30135,7 +31659,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢見到人有困難就會主動幫手嘅善良愛心，真係令我好感動。",
       "fr": "J'ai été profondément ému par son grand cœur, toujours prête à aider ceux qui en ont besoin."
     },
-    "related": "こころ（授業の重要表現）"
+    "related": "こころ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1250",
@@ -30159,7 +31684,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's not good for my heart.",
       "fr": "It's not good for my heart."
     },
-    "related": "しんぞう（授業の重要表現）"
+    "related": "しんぞう（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1251",
@@ -30183,7 +31709,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The atmosphere was uncomfortable.",
       "fr": "The atmosphere was uncomfortable."
     },
-    "related": "ふんいき（授業の重要表現）"
+    "related": "ふんいき（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1252",
@@ -30207,7 +31734,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I made a paper plane.",
       "fr": "I made a paper plane."
     },
-    "related": "ひこうき（授業の重要表現）"
+    "related": "ひこうき（授業の重要表現）",
+    "studentId": "0019",
+    "studentIds": [
+      "0019",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1253",
@@ -30231,7 +31763,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you still scared?",
       "fr": "Are you still scared?"
     },
-    "related": "まだ（授業の重要表現）"
+    "related": "まだ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1254",
@@ -30255,7 +31788,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "上個禮拜交嗰份報告得到老師好高分嘅評價，真係好開心。",
       "fr": "Le rapport que j'ai rendu la semaine dernière a été très bien évalué par le professeur, j'en suis ravi."
     },
-    "related": "せんしゅう（授業の重要表現）"
+    "related": "せんしゅう（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1255",
@@ -30279,7 +31813,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "下個月頭我會去京都，參加大學死黨嘅結婚典禮。",
       "fr": "Au début du mois prochain, je vais à Kyoto pour assister au mariage de mon meilleur ami d'université."
     },
-    "related": "らいげつ（授業の重要表現）"
+    "related": "らいげつ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1256",
@@ -30303,7 +31838,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm going to the library now to find reference material for my report.<br/>B: Take care and have a good trip!",
       "fr": "A: I'm going to the library now to find reference material for my report.<br/>B: Take care and have a good trip!"
     },
-    "related": "いきます（授業の重要表現）"
+    "related": "いきます（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1257",
@@ -30327,7 +31863,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Yesterday afternoon I went to the art museum with a friend.<br/>B: Many splendid paintings were on display and I was moved.",
       "fr": "A: Yesterday afternoon I went to the art museum with a friend.<br/>B: Many splendid paintings were on display and I was moved."
     },
-    "related": "いきました（授業の重要表現）"
+    "related": "いきました（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1258",
@@ -30351,7 +31888,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 套戲就嚟開場喇喎。<br/>B: 咁我哋行去售票處買飛啦！",
       "fr": "A: L'heure de la séance de cinéma approche.<br/>B: Alors en route, allons au guichet !"
     },
-    "related": "いきましょう（授業の重要表現）"
+    "related": "いきましょう（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1259",
@@ -30375,7 +31913,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Next long holiday I want to go to Kyoto to see autumn leaves.<br/>B: The illuminated autumn foliage in Kyoto is magical and breathtaking.",
       "fr": "A: Next long holiday I want to go to Kyoto to see autumn leaves.<br/>B: The illuminated autumn foliage in Kyoto is magical and breathtaking."
     },
-    "related": "いきたいです（授業の重要表現）"
+    "related": "いきたいです（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1260",
@@ -30399,7 +31938,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Where are you from?<br/>B: I came from New York, USA.",
       "fr": "A: Where are you from?<br/>B: I came from New York, USA."
     },
-    "related": "〜からきました（授業の重要表現）"
+    "related": "〜からきました（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1261",
@@ -30423,7 +31963,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "When do we arrive?",
       "fr": "When do we arrive?"
     },
-    "related": "いつ（授業の重要表現）"
+    "related": "いつ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1262",
@@ -30447,7 +31988,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Where is Jim?",
       "fr": "Where is Jim?"
     },
-    "related": "どこ（授業の重要表現）"
+    "related": "どこ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1263",
@@ -30471,7 +32013,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺嗰度嗰個人係邊個呀？<br/>B: 呀，嗰個係新老師。",
       "fr": "A: Qui est cette personne là-bas ?<br/>B: Ah, c'est le nouveau professeur."
     },
-    "related": "誰か（だれか）"
+    "related": "誰か（だれか）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1264",
@@ -30495,7 +32038,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What are you doing?",
       "fr": "What are you doing?"
     },
-    "related": "何（授業の重要表現）"
+    "related": "何（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1265",
@@ -30519,7 +32063,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我好鍾意自己一個去旅行。",
       "fr": "J’aime voyager seul."
     },
-    "related": "ひとり（1人の人物を表す特別な読み方）"
+    "related": "ひとり（1人の人物を表す特別な読み方）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1266",
@@ -30543,7 +32088,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "兩個人分工合作，整咗餐好好味嘅晚飯。",
       "fr": "Nous avons cuisiné un délicieux dîner tous les deux ensemble."
     },
-    "related": "ふたり（2人の人物を表す特別な読み方）"
+    "related": "ふたり（2人の人物を表す特別な読み方）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1267",
@@ -30567,7 +32113,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 歡迎光臨！請問幾多位？<br/>B: 訂咗位嘅佐藤。三位，唔該要張枱。",
       "fr": "A: Bienvenue ! Vous êtes combien ?<br/>B: Je suis M. Sato, j'ai une réservation. Une table pour trois personnes, s'il vous plaît."
     },
-    "related": "さんにん（授業の重要表現）"
+    "related": "さんにん（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1268",
@@ -30591,7 +32138,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Ah! I forgot my phone charger at home!<br/>B: Shall I lend you my portable power bank?",
       "fr": "A: Ah! I forgot my phone charger at home!<br/>B: Shall I lend you my portable power bank?"
     },
-    "related": "わすれました（授業の重要表現）"
+    "related": "わすれました（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1269",
@@ -30615,7 +32163,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I don't understand how to read this kanji. Could you teach me?<br/>B: It is read 'shourai' and means 'future'.",
       "fr": "A: I don't understand how to read this kanji. Could you teach me?<br/>B: It is read 'shourai' and means 'future'."
     },
-    "related": "わかりません（授業の重要表現）"
+    "related": "わかりません（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1270",
@@ -30639,7 +32188,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Among Japanese sweets, I like sakura mochi the most.<br/>B: The subtly salty aroma of sakura leaves is irresistible.",
       "fr": "A: Among Japanese sweets, I like sakura mochi the most.<br/>B: The subtly salty aroma of sakura leaves is irresistible."
     },
-    "related": "すきです（授業の重要表現）"
+    "related": "すきです（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1271",
@@ -30663,7 +32213,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I really dislike the stickiness and smell of natto.<br/>B: It has a distinct flavor, so many people find it difficult.",
       "fr": "A: I really dislike the stickiness and smell of natto.<br/>B: It has a distinct flavor, so many people find it difficult."
     },
-    "related": "きらいです（授業の重要表現）"
+    "related": "きらいです（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1272",
@@ -30687,7 +32238,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你食咗飯未呀？<br/>B: 食咗喇，頭先食咗。",
       "fr": "A: As-tu déjà mangé ton repas ?<br/>B: Oui, je viens de manger il y a peu."
     },
-    "related": "おかず"
+    "related": "おかず",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1273",
@@ -30711,7 +32263,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's your favorite food?",
       "fr": "What's your favorite food?"
     },
-    "related": "食べたべもの（授業の重要表現）"
+    "related": "食べたべもの（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1274",
@@ -30735,7 +32288,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a person of importance.",
       "fr": "He is a person of importance."
     },
-    "related": "じゅうよう（授業の重要表現）"
+    "related": "じゅうよう（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1275",
@@ -30759,7 +32313,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Here comes the train.",
       "fr": "Here comes the train."
     },
-    "related": "でんしゃ（授業の重要表現）"
+    "related": "でんしゃ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1276",
@@ -30783,7 +32338,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "朝早返工繁忙時間，地鐵月台擠滿咗趕住返工返學嘅乘客好迫人。",
       "fr": "Pendant l'heure de pointe matinale, les quais du métro sont bondés de navetteurs."
     },
-    "related": "ちかてつ（授業の重要表現）"
+    "related": "ちかてつ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1277",
@@ -30807,7 +32363,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Get into the car.",
       "fr": "Get into the car."
     },
-    "related": "くるま（授業の重要表現）"
+    "related": "くるま（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1278",
@@ -30831,7 +32388,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗個project可以準時搞掂，我哋制定咗份好詳細嘅進度計劃表。",
       "fr": "Pour terminer le projet dans les délais, nous avons élaboré un plan de progression détaillé."
     },
-    "related": "けいかく（授業の重要表現）"
+    "related": "けいかく（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1279",
@@ -30855,7 +32413,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "今年我最細嗰個仔女升咗小學，湊仔嘅日子終於可以鬆一口氣。",
       "fr": "Mon benjamin est entré à l'école primaire cette année, une étape importante est enfin franchie dans l'éducation."
     },
-    "related": "末っすえっこ（授業の重要表現）"
+    "related": "末っすえっこ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1280",
@@ -30879,7 +32438,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In what way is it fastest to get to the station?<br/>B: Cutting through the shopping street and going straight is quickest.",
       "fr": "A: In what way is it fastest to get to the station?<br/>B: Cutting through the shopping street and going straight is quickest."
     },
-    "related": "どうやって（授業の重要表現）"
+    "related": "どうやって（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1281",
@@ -30903,7 +32463,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you like to travel?",
       "fr": "Do you like to travel?"
     },
-    "related": "りょこう（授業の重要表現）"
+    "related": "りょこう（授業の重要表現）",
+    "studentId": "0019",
+    "studentIds": [
+      "0019",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1282",
@@ -30927,7 +32492,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Did you do your homework?",
       "fr": "Did you do your homework?"
     },
-    "related": "しゅくだい（授業の重要表現）"
+    "related": "しゅくだい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1283",
@@ -30951,7 +32517,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我想買新幹線火車飛。<br/>B: 我轉緊畫面，唔該稍等一陣呀。",
       "fr": "A: Excusez-moi, je voudrais acheter un billet de Shinkansen.<br/>B: Je change d'écran, veuillez patienter un instant s'il vous plaît."
     },
-    "related": "ちょっと待ってください（授業の重要表現）"
+    "related": "ちょっと待ってください（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1284",
@@ -30975,7 +32542,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I went traveling abroad alone for the first time.<br/>B: Traveling alone lets you tour freely at your own pace—so exciting!",
       "fr": "A: I went traveling abroad alone for the first time.<br/>B: Traveling alone lets you tour freely at your own pace—so exciting!"
     },
-    "related": "ひとりで（授業の重要表現）"
+    "related": "ひとりで（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1285",
@@ -30999,7 +32567,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is the teacher in the classroom?<br/>B: Yes, she is answering questions at the teacher's desk.",
       "fr": "A: Is the teacher in the classroom?<br/>B: Yes, she is answering questions at the teacher's desk."
     },
-    "related": "います（授業の重要表現）"
+    "related": "います（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1286",
@@ -31023,7 +32592,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，請問山田課長喺唔喺度？<br/>B: 好唔啱佢出咗去，依家唔喺位。",
       "fr": "A: Excusez-moi, le chef de section Yamada est-il là ?<br/>B: Malheureusement, il est en déplacement et n'est pas à son bureau en ce moment."
     },
-    "related": "いません（授業の重要表現）"
+    "related": "いません（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1287",
@@ -31047,7 +32617,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is there a coin locker nearby?<br/>B: There are coin lockers immediately to your right outside the ticket gate.",
       "fr": "A: Is there a coin locker nearby?<br/>B: There are coin lockers immediately to your right outside the ticket gate."
     },
-    "related": "あります（授業の重要表現）"
+    "related": "あります（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1288",
@@ -31071,7 +32642,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, I don't have any change on me.<br/>B: We accept cashless payment as well, so don't worry.",
       "fr": "A: Excuse me, I don't have any change on me.<br/>B: We accept cashless payment as well, so don't worry."
     },
-    "related": "ありません（授業の重要表現）"
+    "related": "ありません（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1289",
@@ -31095,7 +32667,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺熱辣辣嘅夏天飲返杯凍冰冰嘅麥茶，成個人舒服晒好似滿血復活咁。",
       "fr": "Boire un thé d'orge glacé par une chaude journée d'été donne l'impression de revivre."
     },
-    "related": "あつい（授業の重要表現）"
+    "related": "あつい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1290",
@@ -31119,7 +32692,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺商店街抽獎抽中咗特等獎溫泉旅行券，真係好夠運！",
       "fr": "J’ai gagné le gros lot pour un voyage en onsen à la tombola du quartier, j’ai tellement de chance !"
     },
-    "related": "いい（授業の重要表現）"
+    "related": "いい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1291",
@@ -31143,7 +32717,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Lack of sleep has continued recently, so I am not feeling good.<br/>B: Take an early bath tonight and get plenty of rest.",
       "fr": "A: Lack of sleep has continued recently, so I am not feeling good.<br/>B: Take an early bath tonight and get plenty of rest."
     },
-    "related": "よくない（授業の重要表現）"
+    "related": "よくない（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1292",
@@ -31167,7 +32742,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢個景點大自然風光秀麗景色好靚，一年四季都有好多遊客嚟參觀。",
       "fr": "Ce site touristique est riche en nature et possède de superbes paysages, les visiteurs y sont donc nombreux toute l'année."
     },
-    "related": "おおい（授業の重要表現）"
+    "related": "おおい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1293",
@@ -31191,7 +32767,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Is that tasty?",
       "fr": "Is that tasty?"
     },
-    "related": "おいしい（授業の重要表現）"
+    "related": "おいしい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1294",
@@ -31215,7 +32792,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The soup at the hyped restaurant was lukewarm and not tasty.<br/>B: Even well-known spots don't always match your taste.",
       "fr": "A: The soup at the hyped restaurant was lukewarm and not tasty.<br/>B: Even well-known spots don't always match your taste."
     },
-    "related": "おいしくない（授業の重要表現）"
+    "related": "おいしくない（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1295",
@@ -31239,7 +32817,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'm back! I went and came back from grocery shopping.<br/>B: Welcome back! Thanks for carrying heavy bags.",
       "fr": "A: I'm back! I went and came back from grocery shopping.<br/>B: Welcome back! Thanks for carrying heavy bags."
     },
-    "related": "いってきました（授業の重要表現）"
+    "related": "いってきました（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1296",
@@ -31263,7 +32842,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The day of decision is at hand.",
       "fr": "The day of decision is at hand."
     },
-    "related": "ちかい（授業の重要表現）"
+    "related": "ちかい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1297",
@@ -31287,7 +32867,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 附近有無便利店之類嘅舖頭呀？<br/>B: 有呀，轉過嗰個彎就有一間。",
       "fr": "A: Y a-t-il un magasin comme une supérette près d'ici ?<br/>B: Oui, il y en a un juste au coin de la rue."
     },
-    "related": "買い物（かいもの）"
+    "related": "買い物（かいもの）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1298",
@@ -31311,7 +32892,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 大家都會去Party嗎？<br/>B: 係呀，全班都會去。",
       "fr": "A: Est-ce que tout le monde vient à la fête ?<br/>B: Oui, toute la classe participe."
     },
-    "related": "全員（ぜんいん）"
+    "related": "全員（ぜんいん）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1299",
@@ -31335,7 +32917,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個停車場收費幾多呀？<br/>B: 一個鐘300円。",
       "fr": "A: Quel est le tarif de ce parking ?<br/>B: C'est 300 yens de l'heure."
     },
-    "related": "お金（おかね）"
+    "related": "お金（おかね）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1300",
@@ -31359,7 +32942,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 差唔多春天喇喎。<br/>B: 係呀，好期待櫻花開。",
       "fr": "A: C'est presque le printemps.<br/>B: Oui, j'ai hâte que les cerisiers fleurissent."
     },
-    "related": "夏（なつ）"
+    "related": "夏（なつ）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1301",
@@ -31383,7 +32967,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He has soft manners and is very gentle to people around him.<br/>B: He has the kindness to listen to any opinion without dismissing it.",
       "fr": "A: He has soft manners and is very gentle to people around him.<br/>B: He has the kindness to listen to any opinion without dismissing it."
     },
-    "related": "なつ（授業の重要表現）"
+    "related": "なつ（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1302",
@@ -31407,7 +32992,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你最鍾意邊個季節呀？<br/>B: 我最鍾意涼涼地嘅秋天。",
       "fr": "A: Quelle est ta saison préférée ?<br/>B: C'est l'automne frais que je préfère."
     },
-    "related": "冬（ふゆ）"
+    "related": "冬（ふゆ）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1303",
@@ -31431,7 +33017,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 冬天成日落雪嗎？<br/>B: 係呀，呢度好凍，會落好多雪。",
       "fr": "A: Est-ce qu'il neige souvent en hiver ?<br/>B: Oui, il fait très froid ici et il neige beaucoup."
     },
-    "related": "雪（ゆき）"
+    "related": "雪（ゆき）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1304",
@@ -31456,7 +33043,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚去唔去飲嘢呀？<br/>B: 唔好意思，今日好多嘢做，好忙呀。",
       "fr": "A: On va boire un verre ce soir ?<br/>B: Je suis désolé, j'ai beaucoup de travail aujourd'hui et je suis occupé."
     },
-    "related": "暇です（ひまです）"
+    "related": "暇です（ひまです）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1305",
@@ -31481,7 +33069,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 而家可唔可以幫下手呀？<br/>B: 可以，我而家唔忙，無問題。",
       "fr": "A: Peux-tu m'aider en ce moment ?<br/>B: Oui, je ne suis pas occupé en ce moment donc c'est bon."
     },
-    "related": "暇です（ひまです）"
+    "related": "暇です（ひまです）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1306",
@@ -31506,7 +33095,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間房成日都咁乾淨喎。<br/>B: 唔該，我成日都有執。",
       "fr": "A: Cette pièce est toujours propre.<br/>B: Merci. Je la nettoie souvent."
     },
-    "related": "汚い（きたない）"
+    "related": "汚い（きたない）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1307",
@@ -31531,7 +33121,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你覺唔覺得呢個設計好好？<br/>B: 係呀，我都係咁諗。",
       "fr": "A: Ne trouves-tu pas que ce design est vraiment bien ?<br/>B: Oui, je le pense aussi."
     },
-    "related": "賛成（さんせい）"
+    "related": "賛成（さんせい）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1308",
@@ -31555,7 +33146,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On the survey sex section, I checked male.<br/>B: Please enter age and gender and submit to the desk.",
       "fr": "A: On the survey sex section, I checked male.<br/>B: Please enter age and gender and submit to the desk."
     },
-    "related": "おとこ/ だんせい（授業の重要表現）"
+    "related": "おとこ/ だんせい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1309",
@@ -31579,7 +33171,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Please note this car is a women-only car.<br/>B: It operates during morning commute rush hours on weekdays.",
       "fr": "A: Please note this car is a women-only car.<br/>B: It operates during morning commute rush hours on weekdays."
     },
-    "related": "おんな/ じょせい（授業の重要表現）"
+    "related": "おんな/ じょせい（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1310",
@@ -31603,7 +33196,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 每日連續OT真係好辛苦。<br/>B: 唔好太勉強，可以休息嘅時候好好畀身體休息啦。",
       "fr": "A: Faire des heures supplémentaires tous les jours est vraiment dur.<br/>B: Ne forcez pas trop, reposez-vous dès que vous le pouvez."
     },
-    "related": "大変です（授業の重要表現・同情や苦労を表す）"
+    "related": "大変です（授業の重要表現・同情や苦労を表す）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1311",
@@ -31628,7 +33222,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日我要去見工。<br/>B: 係咩。加油呀！",
       "fr": "A: J'ai un entretien demain.<br/>B: Je vois. Fais de ton mieux !"
     },
-    "related": "応援（おうえん）"
+    "related": "応援（おうえん）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1312",
@@ -31652,7 +33247,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I will come cheer for your match this weekend!<br/>B: Thank you! I will work hard aiming for victory!",
       "fr": "A: I will come cheer for your match this weekend!<br/>B: Thank you! I will work hard aiming for victory!"
     },
-    "related": "がんばります（授業の重要表現）"
+    "related": "がんばります（授業の重要表現）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1313",
@@ -31677,7 +33273,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 老師，唔好意思，我有一條問題。<br/>B: 好，咩問題呀？",
       "fr": "A: Professeur, excusez-moi. J'ai une question.<br/>B: Oui, qu'est-ce que c'est ?"
     },
-    "related": "答える（こたえる）"
+    "related": "答える（こたえる）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1314",
@@ -31702,7 +33299,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近以同性戀做主題嘅戲多咗喎。<br/>B: 係呀，多元化係一件好事。",
       "fr": "A: Récemment, il y a eu plus de films sur le thème de l'homosexualité.<br/>B: Oui, je pense que c'est une bonne chose que la diversité se répande."
     },
-    "related": "性的指向（せいてきしこう）"
+    "related": "性的指向（せいてきしこう）",
+    "studentId": "0019"
   },
   {
     "id": "class_word_1315",
@@ -31727,7 +33325,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你嘅生日係幾月幾號呀？<br/>B: 係5月10號。",
       "fr": "A: Quelle est la date de ton anniversaire ?<br/>B: C'est le 10 mai."
     },
-    "related": "日付（ひづけ）"
+    "related": "日付（ひづけ）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1316",
@@ -31751,7 +33350,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你生日係幾時呀？<br/>B: 8月15號，就快到㗎啦！",
       "fr": "A: Quand est votre anniversaire ?<br/>B: C'est le 15 août. C'est très bientôt !"
     },
-    "related": "たんじょうびはいつですか？（授業の重要表現）"
+    "related": "たんじょうびはいつですか？（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1317",
@@ -31775,7 +33375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 請問你係邊一年出世㗎？<br/>B: 我係1998年出世㗎。",
       "fr": "A: En quelle année êtes-vous né ?<br/>B: Je suis né en 1998."
     },
-    "related": "なんねんうまれですか？（授業の重要表現）"
+    "related": "なんねんうまれですか？（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1318",
@@ -31799,7 +33400,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 老師，我有個問題想問呀！<br/>B: 好呀，隨便問啦。",
       "fr": "A: Professeur, j'ai une question !<br/>B: Oui, n'hésitez pas à me demander."
     },
-    "related": "しつもんがあります（授業の重要表現）"
+    "related": "しつもんがあります（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1319",
@@ -31823,7 +33425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我希望可以好順暢咁睇到好長嘅日語文章。",
       "fr": "Je veux pouvoir lire couramment de longs textes en japonais."
     },
-    "related": "文章・ぶんしょう・ぶん（授業の重要表現）"
+    "related": "文章・ぶんしょう・ぶん（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1320",
@@ -31847,7 +33450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 日文文法係咪好難㗎？<br/>B: 係有少少複雜，但明咗個規則就會覺得好得意！",
       "fr": "A: La grammaire japonaise est-elle difficile ?<br/>B: Un peu complexe, mais passionnante dès qu'on comprend les règles !"
     },
-    "related": "ぶんぽう（授業の重要表現）"
+    "related": "ぶんぽう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1321",
@@ -31871,7 +33475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Colin你啲日文發音真係好好聽好標準！<br/>B: 多謝，我每日都有練習㗎。",
       "fr": "A: Colin, votre prononciation du japonais est très belle !<br/>B: Merci. Je m'entraîne tous les jours."
     },
-    "related": "はつおん（授業の重要表現）"
+    "related": "はつおん（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1322",
@@ -31895,7 +33500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你講日文講得好叻呀！<br/>B: 邊度係，仲學緊㗎咋。",
       "fr": "A: Vous parlez très bien japonais !<br/>B: Non, je suis encore en train d'apprendre."
     },
-    "related": "じょうず（授業の重要表現）"
+    "related": "じょうず（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1323",
@@ -31919,7 +33525,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "細個嗰陣，我同細佬每日都玩呢件玩具。",
       "fr": "Enfant, je jouais tous les jours avec ce jouet avec mon petit frère."
     },
-    "related": "おもちゃ（授業の重要表現）"
+    "related": "おもちゃ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1324",
@@ -31943,7 +33550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "落堂之後複習下新學嘅生字，就可以記得很實啦。",
       "fr": "Réviser les nouveaux mots après le cours aide à bien les mémoriser."
     },
-    "related": "ふくしゅうをする（授業の重要表現）"
+    "related": "ふくしゅうをする（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1325",
@@ -31967,7 +33575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "呢齣戲講主角為咗屋企人向仇人報仇嘅故事。",
       "fr": "C'est l'histoire d'un film où le héros se venge de l'ennemi pour sa famille."
     },
-    "related": "ふくしゅうをする（授業の重要表現）"
+    "related": "ふくしゅうをする（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1326",
@@ -31991,7 +33600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個答案啱唔啱呀？<br/>B: 啱晒啦！完全正確。",
       "fr": "A: Cette réponse est-elle correcte ?<br/>B: Oui, elle est tout à fait exacte ! Bravo."
     },
-    "related": "あってます（授業の重要表現）"
+    "related": "あってます（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1327",
@@ -32015,7 +33625,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 差1分就滿分添！<br/>B: 爭少少咋，好可惜呀！下次再加油啦。",
       "fr": "A: Il me manquait un seul point pour un score parfait au quiz !<br/>B: C'était si proche, dommage ! Courage pour la prochaine fois."
     },
-    "related": "おしい（授業の重要表現）"
+    "related": "おしい（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1328",
@@ -32039,7 +33654,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我想去gym做重訓，操返啲結實嘅肌肉出嚟。",
       "fr": "Je veux développer de bons muscles en faisant de la musculation à la salle."
     },
-    "related": "きんにく（授業の重要表現）"
+    "related": "きんにく（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1329",
@@ -32063,7 +33679,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好耐冇去跑步，點知第二日成身肌肉痠痛。",
       "fr": "Après avoir couru pour la première fois depuis longtemps, j'ai eu de terribles courbatures le lendemain."
     },
-    "related": "きんにくつう（授業の重要表現）"
+    "related": "きんにくつう（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1330",
@@ -32087,7 +33708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I need you.",
       "fr": "I need you."
     },
-    "related": "ひつよう（授業の重要表現）"
+    "related": "ひつよう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1331",
@@ -32111,7 +33733,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I work out.",
       "fr": "I work out."
     },
-    "related": "うんどう（授業の重要表現）"
+    "related": "うんどう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1332",
@@ -32135,7 +33758,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你一路行一路掛住睇電話，好危險㗎喎？<br/>B: 係呀，睇唔到周圍真係好唔好，要改咗佢。",
       "fr": "A: Tu marches en fixant ton smartphone. Ce n'est pas dangereux ?<br/>B: Tu as raison, on ne voit plus ce qui nous entoure, ce n'est vraiment pas bien."
     },
-    "related": "よくない（授業の重要表現）"
+    "related": "よくない（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1333",
@@ -32159,7 +33783,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you tell me your recommendation for great ramen in this town?<br/>B: The miso ramen specialty shop down the station alley is my top recommendation!",
       "fr": "A: Could you tell me your recommendation for great ramen in this town?<br/>B: The miso ramen specialty shop down the station alley is my top recommendation!"
     },
-    "related": "おすすめ（授業の重要表現）"
+    "related": "おすすめ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1334",
@@ -32183,7 +33808,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you fond of swimming?",
       "fr": "Are you fond of swimming?"
     },
-    "related": "すいえい（授業の重要表現）"
+    "related": "すいえい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1335",
@@ -32207,7 +33833,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰兩個人好有默契喎。<br/>B: 聽講佢哋由幼稚園開始已經一齊玩，係由細玩到大嘅青梅竹馬。",
       "fr": "A: Ces deux-là sont tellement complices !<br/>B: J'ai entendu dire qu'ils étaient des amis d'enfance inséparables depuis la maternelle."
     },
-    "related": "おさななじみ（授業の重要表現）"
+    "related": "おさななじみ（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1336",
@@ -32231,7 +33862,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Yesterday's pro baseball match was a tight game until the end!<br/>B: The 9th inning walk-off home run was baseball at its best.",
       "fr": "A: Yesterday's pro baseball match was a tight game until the end!<br/>B: The 9th inning walk-off home run was baseball at its best."
     },
-    "related": "やきゅう（授業の重要表現）"
+    "related": "やきゅう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1337",
@@ -32255,7 +33887,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I've got a bad case of jet lag.",
       "fr": "I've got a bad case of jet lag."
     },
-    "related": "じさ（授業の重要表現）"
+    "related": "じさ（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1338",
@@ -32279,7 +33916,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我將塊牛扒煎到五成熟，香味四溢又非常多汁。",
       "fr": "J'ai cuit le steak de bœuf à point, pour qu'il soit bien juteux et parfumé."
     },
-    "related": "ぎゅうにく（授業の重要表現）"
+    "related": "ぎゅうにく（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1339",
@@ -32303,7 +33941,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我趁超市特價買咗好多豬肉，分裝好細包擺入雪櫃冰格保存。",
       "fr": "J'ai acheté du porc en gros pendant la promo au supermarché et je l'ai congelé en portions."
     },
-    "related": "ぶたにく（授業の重要表現）"
+    "related": "ぶたにく（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1340",
@@ -32327,7 +33966,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "車站前面有好多開到好夜嘅食肆，真係好方便。",
       "fr": "Il y a beaucoup de restaurants ouverts tard le soir devant la gare, ce qui est très pratique."
     },
-    "related": "居酒屋（いざかや：Japanese pub）・外食（がいしょく：eating out）"
+    "related": "居酒屋（いざかや：Japanese pub）・外食（がいしょく：eating out）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1341",
@@ -32351,7 +33991,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去附近公園散下步轉移下心情，個人即刻精神晒。",
       "fr": "En me promenant dans le parc voisin pour me changer les idées, je me suis senti tout revigoré."
     },
-    "related": "さんぽ（授業の重要表現）"
+    "related": "さんぽ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1342",
@@ -32375,7 +34016,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 花園草叢有隻貓喺度好舒服咁曬太陽。<br/>B: 暖笠笠好似瞌緊睡咁，真係得意。",
       "fr": "A: Il y a un chat qui se prélasse tranquillement au soleil dans l'herbe du jardin.<br/>B: Il a l'air de somnoler avec cette chaleur, comme c'est mignon."
     },
-    "related": "いっぴき（授業の重要表現）"
+    "related": "いっぴき（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1343",
@@ -32399,7 +34041,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有冇養寵物呀？<br/>B: 有呀，我領養咗兩隻狗，每日朝早都帶佢哋去散步。",
       "fr": "A: Avez-vous des animaux de compagnie ?<br/>B: Oui, j'ai deux chiens recueillis que je promène tous les matins."
     },
-    "related": "にひき（授業の重要表現）"
+    "related": "にひき（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1344",
@@ -32423,7 +34066,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's up to you.",
       "fr": "It's up to you."
     },
-    "related": "つぎ（授業の重要表現）"
+    "related": "つぎ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1345",
@@ -32447,7 +34091,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They are in class.",
       "fr": "They are in class."
     },
-    "related": "じゅぎょう（授業の重要表現）"
+    "related": "じゅぎょう（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1346",
@@ -32471,7 +34120,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I go every year.",
       "fr": "I go every year."
     },
-    "related": "まいとし・まいねん（授業の重要表現）"
+    "related": "まいとし・まいねん（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1347",
@@ -32495,7 +34145,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This magazine is issued every month.",
       "fr": "This magazine is issued every month."
     },
-    "related": "まいつき（授業の重要表現）"
+    "related": "まいつき（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1348",
@@ -32519,7 +34170,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Every week he goes fishing.",
       "fr": "Every week he goes fishing."
     },
-    "related": "まいしゅう（授業の重要表現）"
+    "related": "まいしゅう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1349",
@@ -32543,7 +34195,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today looks like slight overtime due to month-end closing tasks.<br/>B: If there is anything I can help with, feel free to ask.",
       "fr": "A: Today looks like slight overtime due to month-end closing tasks.<br/>B: If there is anything I can help with, feel free to ask."
     },
-    "related": "ざんぎょう（授業の重要表現）"
+    "related": "ざんぎょう（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1350",
@@ -32567,7 +34224,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你而家返公司喇？<br/>B: 未呀，仲要繼續開會。",
       "fr": "A: Tu retournes au bureau maintenant ?<br/>B: Non, la réunion continue encore."
     },
-    "related": "帰る（かえる）"
+    "related": "帰る（かえる）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1351",
@@ -32591,7 +34249,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 依家開始有15分鐘休息時間。<br/>B: 收到，請喺11點之前返返去自己個位度呀。",
       "fr": "A: Nous allons faire une pause de quinze minutes.<br/>B: Bien compris. Veuillez retourner à votre place avant 11 heures."
     },
-    "related": "もどってください（授業の重要表現）"
+    "related": "もどってください（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1352",
@@ -32615,7 +34274,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 總有一日我想去環遊世界。<br/>B: 真係一個好靚嘅夢想！",
       "fr": "A: Je veux faire le tour du monde un jour.<br/>B: C'est un rêve merveilleux !"
     },
-    "related": "将来（しょうらい）"
+    "related": "将来（しょうらい）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1353",
@@ -32639,7 +34299,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Adding grated garlic to stir-fry elevates the aroma.<br/>B: Garlic's appetizing aroma makes you eat plenty of rice.",
       "fr": "A: Adding grated garlic to stir-fry elevates the aroma.<br/>B: Garlic's appetizing aroma makes you eat plenty of rice."
     },
-    "related": "にんにく（授業の重要表現）"
+    "related": "にんにく（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1354",
@@ -32663,7 +34324,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "用咗成日電腦搞到眼同太陽穴冤冤痛，頭痛得好辛苦。",
       "fr": "Après de longues heures devant l’ordinateur, j’ai un mal de tête lancinant derrière les yeux et aux tempes."
     },
-    "related": "ずつう（授業の重要表現）"
+    "related": "ずつう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1355",
@@ -32687,7 +34349,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 尋晚飲得太多凍嘢搞到肚痛呀。<br/>B: 個肚親親熱熱咁一凍親就會痛㗎啦。飲返杯熱茶休息下啦。",
       "fr": "A: Hier soir j'ai bu trop de boissons fraîches et j'ai eu mal au ventre.<br/>B: Avoir froid au ventre provoque des douleurs. Bois du thé chaud et repose-toi."
     },
-    "related": "ふくつう（授業の重要表現）"
+    "related": "ふくつう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1356",
@@ -32711,7 +34374,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This is a strange kind of fish.",
       "fr": "This is a strange kind of fish."
     },
-    "related": "しゅるい（授業の重要表現）"
+    "related": "しゅるい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1357",
@@ -32735,7 +34399,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What dog breed is your pet dog?<br/>B: It's a Shiba Inu, a Japanese breed. Clever and loyal.",
       "fr": "A: What dog breed is your pet dog?<br/>B: It's a Shiba Inu, a Japanese breed. Clever and loyal."
     },
-    "related": "けんしゅ（授業の重要表現）"
+    "related": "けんしゅ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1358",
@@ -32759,7 +34424,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He obeys the wait command well—what a clever, well-behaved dog!<br/>B: When praised, he sits well-behaved and wags his tail.",
       "fr": "A: He obeys the wait command well—what a clever, well-behaved dog!<br/>B: When praised, he sits well-behaved and wags his tail."
     },
-    "related": "おりこう（授業の重要表現）"
+    "related": "おりこう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1359",
@@ -32783,7 +34449,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "見到個留學生講日文講到好似日本人咁流利，真係好羨慕。",
       "fr": "En voyant cet étudiant étranger parler japonais couramment comme un natif, je suis très envieux."
     },
-    "related": "うらやましい（授業の重要表現）"
+    "related": "うらやましい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1360",
@@ -32807,7 +34474,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "悉心種嘅盆栽畀大風吹冧咗跌碎晒，好心痛好傷心。",
       "fr": "La plante en pot que je soignais avec amour est tombée avec le vent fort et s’est brisée, je suis très triste."
     },
-    "related": "かなしい（授業の重要表現）"
+    "related": "かなしい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1361",
@@ -32831,7 +34499,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After finishing shopping, let's grab tea at a cafe.<br/>B: Sounds great! And then I want to drop by the bookstore too.",
       "fr": "A: After finishing shopping, let's grab tea at a cafe.<br/>B: Sounds great! And then I want to drop by the bookstore too."
     },
-    "related": "そのあとに（授業の重要表現）"
+    "related": "そのあとに（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1362",
@@ -32855,7 +34524,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My hands are full now; may I hear the errand later?<br/>B: Understood. Let me know later once you settle.",
       "fr": "A: My hands are full now; may I hear the errand later?<br/>B: Understood. Let me know later once you settle."
     },
-    "related": "あとで（授業の重要表現）"
+    "related": "あとで（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1363",
@@ -32879,7 +34549,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "身體健康同瞓覺有密切關係，所以我每晚都堅持瞓夠7個鐘頭。",
       "fr": "La santé et le sommeil étant étroitement liés, je veille à dormir au moins sept heures par nuit."
     },
-    "related": "かんけい（授業の重要表現）"
+    "related": "かんけい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1364",
@@ -32903,7 +34574,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我喺自己屋企嘅花園種滿四季花草，放假嗰陣好鍾意打理園藝。",
       "fr": "Je plante des fleurs de saison dans mon jardin et j'aime jardiner pendant mes jours de congé."
     },
-    "related": "にわ（授業の重要表現）"
+    "related": "にわ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1365",
@@ -32927,7 +34599,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Keep off the grass!",
       "fr": "Keep off the grass!"
     },
-    "related": "しばふ（授業の重要表現）"
+    "related": "しばふ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1366",
@@ -32951,7 +34624,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗對心愛嘅皮鞋著得耐啲，我放假嗰陣都會用鞋油好細心噉保養打理。",
       "fr": "Pour garder mes chaussures en cuir préférées longtemps, je les entretiens soigneusement avec du cirage le week-end."
     },
-    "related": "ていれ（授業の重要表現）"
+    "related": "ていれ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1367",
@@ -32975,7 +34649,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Before the road trip, I had a car wash at the gas station.<br/>B: Driving a sparkling clean washed car feels so good.",
       "fr": "A: Before the road trip, I had a car wash at the gas station.<br/>B: Driving a sparkling clean washed car feels so good."
     },
-    "related": "せんしゃ（授業の重要表現）"
+    "related": "せんしゃ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1368",
@@ -32999,7 +34674,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 著咗油燈喇添！<br/>B: 轉過下個彎有間油站，快啲去入油啦。",
       "fr": "A: Le voyant d'essence vient de s'allumer !<br/>B: Il y a une station-service au prochain carrefour, dépêchons-nous d'aller faire le plein."
     },
-    "related": "ガソリンスタンド／ガスタ（授業の重要表現）"
+    "related": "ガソリンスタンド／ガスタ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1369",
@@ -33023,7 +34699,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "因為平日太忙冇時間煮飯，我通常會趁週末整定幾份常備餸菜。",
       "fr": "Comme je suis trop occupé pour cuisiner en semaine, je prépare des plats d'avance le week-end."
     },
-    "related": "へいじつ（授業の重要表現）"
+    "related": "へいじつ（授業の重要表現）",
+    "studentId": "0020",
+    "studentIds": [
+      "0020",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1370",
@@ -33047,7 +34728,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The sheets feel damp.",
       "fr": "The sheets feel damp."
     },
-    "related": "シーツ（授業の重要表現）"
+    "related": "シーツ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1371",
@@ -33071,7 +34753,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I received freshly picked tomatoes shared by my next-door neighbor.<br/>B: Getting along well with neighbors brings warm feelings.",
       "fr": "A: I received freshly picked tomatoes shared by my next-door neighbor.<br/>B: Getting along well with neighbors brings warm feelings."
     },
-    "related": "おとなりさん（授業の重要表現）"
+    "related": "おとなりさん（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1372",
@@ -33095,7 +34778,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新屋住成點呀？<br/>B: 啲街坊鄰里好熱情，成日攞啲新鮮蔬菜分畀我哋食。",
       "fr": "A: Comment trouvez-vous la vie dans votre nouvel appartement ?<br/>B: Les voisins sont tous très gentils, ils viennent souvent partager des légumes de leur jardin."
     },
-    "related": "ごきんじょさん（授業の重要表現）"
+    "related": "ごきんじょさん（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1373",
@@ -33119,7 +34803,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "To tell you the truth, I'm bored.",
       "fr": "To tell you the truth, I'm bored."
     },
-    "related": "じつは（授業の重要表現）"
+    "related": "じつは（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1374",
@@ -33143,7 +34828,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This weekend, if you have time, would you like to watch a movie together?<br/>B: I'm free, so let's definitely go!",
       "fr": "A: This weekend, if you have time, would you like to watch a movie together?<br/>B: I'm free, so let's definitely go!"
     },
-    "related": "じかんがあったら（授業の重要表現）"
+    "related": "じかんがあったら（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1375",
@@ -33168,7 +34854,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 狗同貓，你鍾意邊個多啲？<br/>B:比起狗，我更加鍾意貓。",
       "fr": "A: Qu'aimes-tu le plus, les chiens ou les chats ?<br/>B: J'aime plus les chats que les chiens."
     },
-    "related": "比較（ひかく）"
+    "related": "比較（ひかく）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1376",
@@ -33192,7 +34879,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近天氣突然轉凍，小心唔好冷親感冒呀。<br/>B: 唔該晒。我會洗多啲手浪多啲口，著暖啲先訓覺。",
       "fr": "A: Le temps s'est rafraîchi d'un coup, fais bien attention à ne pas attraper froid.<br/>B: Merci. Je vais bien me laver les mains, me gargariser et dormir bien au chaud."
     },
-    "related": "かぜをひく（授業の重要表現）"
+    "related": "かぜをひく（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1377",
@@ -33216,7 +34904,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The atmospheric pressure is high.",
       "fr": "The atmospheric pressure is high."
     },
-    "related": "きあつ（授業の重要表現）"
+    "related": "きあつ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1378",
@@ -33240,7 +34929,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: You have dark circles under your eyes. Aren't you overworking?<br/>B: The deadline is looming... I'll head home early tonight to rest.",
       "fr": "A: You have dark circles under your eyes. Aren't you overworking?<br/>B: The deadline is looming... I'll head home early tonight to rest."
     },
-    "related": "はたらきすぎ（授業の重要表現）"
+    "related": "はたらきすぎ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1379",
@@ -33264,7 +34954,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Jealousy is an enemy to friendship.",
       "fr": "Jealousy is an enemy to friendship."
     },
-    "related": "ゆうじょう（授業の重要表現）"
+    "related": "ゆうじょう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1380",
@@ -33288,7 +34979,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Will tomorrow's barbecue be held?<br/>B: It depends on the weather forecast. If it rains, it's cancelled.",
       "fr": "A: Will tomorrow's barbecue be held?<br/>B: It depends on the weather forecast. If it rains, it's cancelled."
     },
-    "related": "〜によります（授業の重要表現）"
+    "related": "〜によります（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1381",
@@ -33313,7 +35005,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 田中先生嘅太太係個點樣嘅人呀？<br/>B: 係個非常溫柔又靚嘅人嚟㗎。",
       "fr": "A: Quel genre de personne est la femme de M. Tanaka ?<br/>B: C'est une personne très gentille et belle."
     },
-    "related": "ご主人（ごしゅじん）"
+    "related": "ご主人（ごしゅじん）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1382",
@@ -33337,7 +35030,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Your loving friend.",
       "fr": "Your loving friend."
     },
-    "related": "しんゆう（授業の重要表現）"
+    "related": "しんゆう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1383",
@@ -33361,7 +35055,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有幾多個小朋友呀？<br/>B: 有兩個。一個仔一個女。",
       "fr": "A: Combien d'enfants as-tu ?<br/>B: J'en ai deux. Un garçon et une fille."
     },
-    "related": "大人（おとな）"
+    "related": "大人（おとな）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1384",
@@ -33385,7 +35080,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "大學畢業之後，我會作為社會嘅一分子，認真負責噉投入工作。",
       "fr": "Après mes études universitaires, je m'investirai avec responsabilité dans mon travail en tant que membre de la société."
     },
-    "related": "しゃかい（授業の重要表現）"
+    "related": "しゃかい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1385",
@@ -33409,7 +35105,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Let's discuss details of next week's project in the meeting.<br/>B: Yes, I'll prepare to discuss schedules and budgets.",
       "fr": "A: Let's discuss details of next week's project in the meeting.<br/>B: Yes, I'll prepare to discuss schedules and budgets."
     },
-    "related": "〜についてはなす（授業の重要表現）"
+    "related": "〜についてはなす（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1386",
@@ -33433,7 +35130,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你每日朝早5點起身溫書呀？好勁喎！<br/>B: 我係十足嘅早起晨型人，朝早溫書集中好多。",
       "fr": "A: Vous vous levez tous les matins à 5 heures pour étudier ? C'est impressionnant !<br/>B: Je suis du matin, j'arrive beaucoup mieux à me concentrer tôt le matin."
     },
-    "related": "あさがた（授業の重要表現）"
+    "related": "あさがた（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1387",
@@ -33457,7 +35155,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你朝頭早成日好似好恰眼瞓咁。<br/>B: 由細到大都係夜鬼夜貓子，要到半夜先有精神做嘢。",
       "fr": "A: Tu as toujours l'air fatigué le matin.<br/>B: J'ai toujours été un oiseau de nuit, je ne trouve ma motivation que tard le soir."
     },
-    "related": "よるがた（授業の重要表現）"
+    "related": "よるがた（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1388",
@@ -33481,7 +35180,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Has your cold fever broken?<br/>B: Thanks to medicine and good rest, I got completely better!",
       "fr": "A: Has your cold fever broken?<br/>B: Thanks to medicine and good rest, I got completely better!"
     },
-    "related": "よくなりました（授業の重要表現）"
+    "related": "よくなりました（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1389",
@@ -33505,7 +35205,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What kind of work do you do?<br/>B: I work at an IT company in Shibuya.",
       "fr": "A: What kind of work do you do?<br/>B: I work at an IT company in Shibuya."
     },
-    "related": "〜ではたらいています（授業の重要表現）"
+    "related": "〜ではたらいています（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1390",
@@ -33529,7 +35230,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Go back to the lab.",
       "fr": "Go back to the lab."
     },
-    "related": "けんきゅうしつ（授業の重要表現）"
+    "related": "けんきゅうしつ（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1391",
@@ -33553,7 +35255,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "5 is less than 8.",
       "fr": "5 is less than 8."
     },
-    "related": "すくない（授業の重要表現）"
+    "related": "すくない（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1392",
@@ -33577,7 +35280,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日文漢字好多都有幾種唔同嘅讀法，慢慢一步步記熟佢啦。",
       "fr": "Beaucoup de kanjis japonais ont plusieurs lectures, prenez donc le temps de les mémoriser posément."
     },
-    "related": "おおい（授業の重要表現）"
+    "related": "おおい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1393",
@@ -33601,7 +35305,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間麵包舖好有家庭溫暖嘅感覺喎。<br/>B: 一家三代合力家族經營嘅老字號舖頭嚟㗎。",
       "fr": "A: Cette boulangerie dégage une atmosphère si chaleureuse et familiale.<br/>B: C'est un commerce traditionnel géré en entreprise familiale depuis trois générations."
     },
-    "related": "かぞくけいえい（授業の重要表現）"
+    "related": "かぞくけいえい（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1394",
@@ -33625,7 +35330,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'll find another job.",
       "fr": "I'll find another job."
     },
-    "related": "さがす（授業の重要表現）"
+    "related": "さがす（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1395",
@@ -33649,7 +35355,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What is your salary?",
       "fr": "What is your salary?"
     },
-    "related": "きゅうりょう（授業の重要表現）"
+    "related": "きゅうりょう（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1396",
@@ -33673,7 +35380,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When application forms are completed, please submit to the reception desk.<br/>B: I'll check for missing fields before handing in.",
       "fr": "A: When application forms are completed, please submit to the reception desk.<br/>B: I'll check for missing fields before handing in."
     },
-    "related": "ていしゅつする（授業の重要表現）"
+    "related": "ていしゅつする（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1397",
@@ -33697,7 +35405,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you confirm once more that appointment dates are correct?<br/>B: Yes, I checked dates thoroughly on the confirmation email.",
       "fr": "A: Could you confirm once more that appointment dates are correct?<br/>B: Yes, I checked dates thoroughly on the confirmation email."
     },
-    "related": "かくにんする（授業の重要表現）"
+    "related": "かくにんする（授業の重要表現）",
+    "studentId": "0020"
   },
   {
     "id": "class_word_1398",
@@ -33721,7 +35430,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Do you have money for a ticket?",
       "fr": "Do you have money for a ticket?"
     },
-    "related": "きっぷ（授業の重要表現）"
+    "related": "きっぷ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1399",
@@ -33745,7 +35455,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "雖然我喺大城市返工住，但大時大節一定會返鄉下老家同屋企人團聚。",
       "fr": "J'habite en ville pour mon travail, mais je rentre toujours chez mes parents dans ma région natale pour les fêtes."
     },
-    "related": "じもと（授業の重要表現）"
+    "related": "じもと（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1400",
@@ -33769,7 +35480,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I miss my hometown.",
       "fr": "I miss my hometown."
     },
-    "related": "こきょう（授業の重要表現）"
+    "related": "こきょう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1401",
@@ -33793,7 +35505,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They have few books.",
       "fr": "They have few books."
     },
-    "related": "ほとんど（授業の重要表現）"
+    "related": "ほとんど（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1402",
@@ -33817,7 +35530,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It is a serious problem.",
       "fr": "It is a serious problem."
     },
-    "related": "しんこく（授業の重要表現）"
+    "related": "しんこく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1403",
@@ -33841,7 +35555,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "第一次一個人喺外國生活，因為語言同文化唔同真係好辛苦，但係個好好嘅磨練同經歷。",
       "fr": "Ma première expérience de vie à l'étranger a été difficile en raison des différences de langue et de culture, mais très enrichissante."
     },
-    "related": "たいへん（授業の重要表現）"
+    "related": "たいへん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1404",
@@ -33866,7 +35581,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢間房隻窗好大，好光猛喎。<br/>B: 係呀，採光好好所以我好鍾意。",
       "fr": "A: Cette pièce est lumineuse avec une grande fenêtre.<br/>B: Oui, je l'aime bien car il y a une bonne lumière du soleil."
     },
-    "related": "暗い（くらい）"
+    "related": "暗い（くらい）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1405",
@@ -33891,7 +35607,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢成日都笑面迎人，好開朗喎。<br/>B: 係呀，同佢一齊會覺得好有活力。",
       "fr": "A: Elle est toujours souriante et joyeuse.<br/>B: Oui, on se sent plein d'énergie quand on est avec elle."
     },
-    "related": "暗い（くらい）"
+    "related": "暗い（くらい）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1406",
@@ -33915,7 +35632,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "夜晚條路冇乜街燈好暗，行路嗰陣要睇路小心差錯腳呀。",
       "fr": "La rue est sombre la nuit avec peu de lampadaires, faites attention où vous marchez."
     },
-    "related": "くらい（授業の重要表現）"
+    "related": "くらい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1407",
@@ -33939,7 +35657,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢平時好少出聲容易俾人覺得好沉鬱，但傾落會發覺他人好溫暖善良。",
       "fr": "Il a tendance à paraître réservé et sombre, mais quand on discute avec lui, c'est quelqu'un de très chaleureux."
     },
-    "related": "くらい（授業の重要表現）"
+    "related": "くらい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1408",
@@ -33963,7 +35682,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Your complexion doesn't look well today; are you alright?<br/>B: My stomach is out of sorts and I don't have an appetite.",
       "fr": "A: Your complexion doesn't look well today; are you alright?<br/>B: My stomach is out of sorts and I don't have an appetite."
     },
-    "related": "ちょうしがわるい（授業の重要表現）"
+    "related": "ちょうしがわるい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1409",
@@ -33987,7 +35707,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The washing machine broke, so I went to the laundromat.<br/>B: When daily appliances break down, it's so inconvenient.",
       "fr": "A: The washing machine broke, so I went to the laundromat.<br/>B: When daily appliances break down, it's so inconvenient."
     },
-    "related": "こわれた（授業の重要表現）"
+    "related": "こわれた（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1410",
@@ -34011,7 +35732,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Thin glass tumblers are fragile, so wash them gently.<br/>B: I'll wash gently with both hands so they don't break.",
       "fr": "A: Thin glass tumblers are fragile, so wash them gently.<br/>B: I'll wash gently with both hands so they don't break."
     },
-    "related": "こわれやすい（授業の重要表現）"
+    "related": "こわれやすい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1411",
@@ -34035,7 +35757,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I fell during the soccer match and injured my knee.<br/>B: Disinfect and apply a bandage. Glad it wasn't fractured.",
       "fr": "A: I fell during the soccer match and injured my knee.<br/>B: Disinfect and apply a bandage. Glad it wasn't fractured."
     },
-    "related": "けがをする（授業の重要表現）"
+    "related": "けがをする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1412",
@@ -34059,7 +35782,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Car parts are expensive.",
       "fr": "Car parts are expensive."
     },
-    "related": "ぶひん（授業の重要表現）"
+    "related": "ぶひん（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1413",
@@ -34083,7 +35811,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Wanting new spring clothes, I will buy some at shops this weekend.<br/>B: Wearing bright colors lifts your spirits!",
       "fr": "A: Wanting new spring clothes, I will buy some at shops this weekend.<br/>B: Wearing bright colors lifts your spirits!"
     },
-    "related": "かいます（授業の重要表現）"
+    "related": "かいます（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1414",
@@ -34107,7 +35836,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's sale season, but to avoid waste I won't buy anything today.<br/>B: The self-control to resist impulse buying is wonderful.",
       "fr": "A: It's sale season, but to avoid waste I won't buy anything today.<br/>B: The self-control to resist impulse buying is wonderful."
     },
-    "related": "かいません（授業の重要表現）"
+    "related": "かいません（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1415",
@@ -34131,7 +35861,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The limited sneakers I wanted are too expensive; I can't buy them this month.<br/>B: Save up your allowance and aim for next time!",
       "fr": "A: The limited sneakers I wanted are too expensive; I can't buy them this month.<br/>B: Save up your allowance and aim for next time!"
     },
-    "related": "かえません（授業の重要表現）"
+    "related": "かえません（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1416",
@@ -34155,7 +35886,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我成日同我老婆去旅行。<br/>B: 你哋感情真好，真令人羨慕。",
       "fr": "A: Dernièrement, je voyage beaucoup avec ma femme.<br/>B: C'est enviable que vous vous entendiez si bien."
     },
-    "related": "よめさん（授業の重要表現）"
+    "related": "よめさん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1417",
@@ -34179,7 +35911,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The other day I saw you shopping happily with your husband at the market.<br/>B: You should have said hi! We often do grocery runs together.",
       "fr": "A: The other day I saw you shopping happily with your husband at the market.<br/>B: You should have said hi! We often do grocery runs together."
     },
-    "related": "だんなさん（授業の重要表現）"
+    "related": "だんなさん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1418",
@@ -34203,7 +35936,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I spent time playing in the sand with my cute niece.<br/>B: Playing with your niece is truly comforting.",
       "fr": "A: Over the weekend I spent time playing in the sand with my cute niece.<br/>B: Playing with your niece is truly comforting."
     },
-    "related": "姪・姪っめい・めいっこ（授業の重要表現）"
+    "related": "姪・姪っめい・めいっこ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1419",
@@ -34227,7 +35961,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I gifted an illustrated encyclopedia to my nephew for his birthday.<br/>B: Your vehicle-loving nephew must have been thrilled!",
       "fr": "A: I gifted an illustrated encyclopedia to my nephew for his birthday.<br/>B: Your vehicle-loving nephew must have been thrilled!"
     },
-    "related": "甥・甥っおい・おいっこ（授業の重要表現）"
+    "related": "甥・甥っおい・おいっこ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1420",
@@ -34251,7 +35986,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我將護照同現金放咗喺酒店房入面嘅密碼保險箱度。",
       "fr": "J’ai rangé mon passeport et mon argent dans le coffre-fort à code de la chambre d’hôtel."
     },
-    "related": "きんこ（授業の重要表現）"
+    "related": "きんこ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1421",
@@ -34275,7 +36011,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When listening to others, nodding with conversational backchanneling leaves a great impression.<br/>B: Appropriate verbal nods make conversational rhythms pleasant.",
       "fr": "A: When listening to others, nodding with conversational backchanneling leaves a great impression.<br/>B: Appropriate verbal nods make conversational rhythms pleasant."
     },
-    "related": "相槌（授業の重要表現）"
+    "related": "相槌（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1422",
@@ -34299,7 +36036,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽人講嘢嗰陣，適當咁附和係好重要㗎。<br/>B: 知道，我會注意等對方容易啲講嘢。",
       "fr": "A: Lorsque l'on écoute, il est important d'acquiescer de manière appropriée.<br/>B: Oui, je ferai attention à mettre mon interlocuteur à l'aise pour parler."
     },
-    "related": "あいづちを打つ（相手の話にうなずいて相槌を打つこと）"
+    "related": "あいづちを打つ（相手の話にうなずいて相槌を打つこと）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1423",
@@ -34323,7 +36061,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Yesterday's rakugo show was my first time, and it was so funny!<br/>B: You get drawn in by the storyteller's skillful craft and laugh.",
       "fr": "A: Yesterday's rakugo show was my first time, and it was so funny!<br/>B: You get drawn in by the storyteller's skillful craft and laugh."
     },
-    "related": "おもしろかった（授業の重要表現）"
+    "related": "おもしろかった（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1424",
@@ -34347,7 +36086,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A friend suddenly jumped out from the shadows and gave me a huge fright!<br/>B: Sudden pranks give anyone a real fright.",
       "fr": "A: A friend suddenly jumped out from the shadows and gave me a huge fright!<br/>B: Sudden pranks give anyone a real fright."
     },
-    "related": "ビックリする（授業の重要表現）"
+    "related": "ビックリする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1425",
@@ -34371,7 +36111,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She is certain to be surprised.",
       "fr": "She is certain to be surprised."
     },
-    "related": "おどろく（授業の重要表現）"
+    "related": "おどろく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1426",
@@ -34395,7 +36136,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下一季開始我要調去大阪分公司做嘢喇。<br/>B: 離開東京總公司真係有啲唔捨得，喺新地方加油呀！",
       "fr": "A: Je suis muté à notre succursale d'Osaka à partir du prochain trimestre.<br/>B: C'est triste de te voir quitter le siège à Tokyo, mais bon vent dans tes nouvelles fonctions !"
     },
-    "related": "ししゃ（授業の重要表現）"
+    "related": "ししゃ（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1427",
@@ -34419,7 +36165,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 前輩，聽講你下個月開始要外借調去集團旗下公司？<br/>B: 係呀，預計去兩年幫手搞新項目。",
       "fr": "A: Senpai, j'ai appris que tu étais détaché dans une entreprise partenaire le mois prochain.<br/>B: Oui, je pars pour deux ans afin de participer au lancement d'un nouveau projet."
     },
-    "related": "しゅっこう（授業の重要表現）"
+    "related": "しゅっこう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1428",
@@ -34443,7 +36190,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He erred in his judgement.",
       "fr": "He erred in his judgement."
     },
-    "related": "はんだん（授業の重要表現）"
+    "related": "はんだん（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1429",
@@ -34467,7 +36219,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "將所有錢掉晒落新業務風險好高，根本係一場好危險嘅賭博。",
       "fr": "Investir tous ses fonds dans un nouveau projet comporte un risque élevé et s’avère un pari trop dangereux."
     },
-    "related": "かけ（授業の重要表現）"
+    "related": "かけ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1430",
@@ -34491,7 +36244,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The decision was put off.",
       "fr": "The decision was put off."
     },
-    "related": "けってい（授業の重要表現）"
+    "related": "けってい（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1431",
@@ -34515,7 +36273,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What is psychoanalysis?",
       "fr": "What is psychoanalysis?"
     },
-    "related": "ぶんせき（授業の重要表現）"
+    "related": "ぶんせき（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1432",
@@ -34539,7 +36298,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They destroyed the native civilization.",
       "fr": "They destroyed the native civilization."
     },
-    "related": "もともと（授業の重要表現）"
+    "related": "もともと（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1433",
@@ -34563,7 +36327,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: No matter what happens, I will never give up until I reach my goal!<br/>B: With that strong resolve, you can overcome any obstacle.",
       "fr": "A: No matter what happens, I will never give up until I reach my goal!<br/>B: With that strong resolve, you can overcome any obstacle."
     },
-    "related": "なにがあっても（授業の重要表現）"
+    "related": "なにがあっても（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1434",
@@ -34587,7 +36352,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗趁放假好天去行富士山，我準備好晒行山鞋。",
       "fr": "Pour gravir le mont Fuji par beau temps pendant le week-end, j’ai bien préparé mes chaussures de randonnée."
     },
-    "related": "のぼる（授業の重要表現）"
+    "related": "のぼる（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1435",
@@ -34611,7 +36381,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The fortune slip I drew at New Year's Hatsumode read 'Excellent Luck'!<br/>B: An auspicious start! Wishing you a marvelous year.",
       "fr": "A: The fortune slip I drew at New Year's Hatsumode read 'Excellent Luck'!<br/>B: An auspicious start! Wishing you a marvelous year."
     },
-    "related": "おみくじ（授業の重要表現）"
+    "related": "おみくじ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1436",
@@ -34635,7 +36406,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Swallows' fledgling chicks in the yard nest-box are chirping awaiting food.<br/>B: Tiny baby birds calling vigorously for parents is heartwarming.",
       "fr": "A: Swallows' fledgling chicks in the yard nest-box are chirping awaiting food.<br/>B: Tiny baby birds calling vigorously for parents is heartwarming."
     },
-    "related": "ひなどり（授業の重要表現）"
+    "related": "ひなどり（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1437",
@@ -34659,7 +36431,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "一到Break完，我就會拿拿臨返去自己個位度做嘢。",
       "fr": "Dès que la pause est terminée, je regagne rapidement mon bureau de travail."
     },
-    "related": "もどる（授業の重要表現）"
+    "related": "もどる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1438",
@@ -34683,7 +36456,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "出咗門口之後發現唔記得帶嘢，唯有急急腳返屋企攞返。",
       "fr": "Après être sorti, j’ai dû retourner chez moi en vitesse pour récupérer un oubli."
     },
-    "related": "もどる（授業の重要表現）"
+    "related": "もどる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1439",
@@ -34707,7 +36481,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 張咁靚嘅枱喺邊度買㗎？<br/>B: 喺網上傢俬舖搵到，直接送貨上門送到屋企。",
       "fr": "A: Où as-tu acheté cette magnifique table ?<br/>B: Je l'ai trouvée sur un site de vente en ligne de meubles et je me la suis fait livrer chez moi."
     },
-    "related": "つうはん（授業の重要表現）"
+    "related": "つうはん（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1440",
@@ -34731,7 +36510,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "There are too many items in the survey.",
       "fr": "There are too many items in the survey."
     },
-    "related": "アンケート（授業の重要表現）"
+    "related": "アンケート（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1441",
@@ -34755,7 +36535,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Once the pedestrian light changes to green, check safety and cross.<br/>B: Even on a green light, watching for turning cars is important.",
       "fr": "A: Once the pedestrian light changes to green, check safety and cross.<br/>B: Even on a green light, watching for turning cars is important."
     },
-    "related": "あおしんごう（授業の重要表現）"
+    "related": "あおしんごう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1442",
@@ -34779,7 +36560,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My watch runs too fast.",
       "fr": "My watch runs too fast."
     },
-    "related": "すすむ（授業の重要表現）"
+    "related": "すすむ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1443",
@@ -34803,7 +36585,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 可唔可以幫手準備定個會呀？<br/>B: 知道，我即刻開始。",
       "fr": "A: Pourriez-vous faire avancer les préparatifs de la réunion ?<br/>B: Compris, je commence tout de suite."
     },
-    "related": "すすめる（授業の重要表現）"
+    "related": "すすめる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1444",
@@ -34827,7 +36610,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I like to adorn my room with flowers.",
       "fr": "I like to adorn my room with flowers."
     },
-    "related": "かざる（授業の重要表現）"
+    "related": "かざる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1445",
@@ -34851,7 +36635,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Some Italian fashion designers are saying that white bathing suits will catch on this year.",
       "fr": "Some Italian fashion designers are saying that white bathing suits will catch on this year."
     },
-    "related": "はやる（授業の重要表現）"
+    "related": "はやる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1446",
@@ -34875,7 +36660,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個食譜淨係用蛋黃㗎。<br/>B: 淨低嘅蛋白就放落味噌湯啦。",
       "fr": "A: Cette recette n'utilise que le jaune d'œuf.<br/>B: Mettons les blancs d'œufs restants dans la soupe miso."
     },
-    "related": "卵黄・らんおう・きみ（授業の重要表現）"
+    "related": "卵黄・らんおう・きみ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1447",
@@ -34899,7 +36685,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：最近做嘢點呀？<br/>B：托賴雖然忙，但係過得好充實。",
       "fr": "A : Comment ça se passe au travail ces derniers temps ?<br/>B : Grâce à vous je suis bien occupé, mais c’est très enrichissant."
     },
-    "related": "さいきん（授業の重要表現）"
+    "related": "さいきん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1448",
@@ -34923,7 +36710,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 站前間書店一路落晒閘嘅。<br/>B: 上個月底結業執咗笠喇。以前成日幫襯，真係好可惜。",
       "fr": "A: La librairie devant la gare a toujours ses rideaux de fer baissés.<br/>B: Elle a définitivement fermé à la fin du mois dernier. J'y allais souvent, c'est bien dommage."
     },
-    "related": "へいてん（授業の重要表現）"
+    "related": "へいてん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1449",
@@ -34947,7 +36735,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 車門即將關閉，請勿衝門。<br/>B: 好危險呀！等下一班火車啦。",
       "fr": "A: Attention, fermeture des portes. Merci de ne pas monter à bord de force.<br/>B: C'était juste ! Attendons le prochain train."
     },
-    "related": "しまります（授業の重要表現）"
+    "related": "しまります（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1450",
@@ -34971,7 +36760,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "見到個朋友一邊環遊世界一邊Remote做嘢，真係好羨慕佢咁自由。",
       "fr": "En voyant mon ami travailler librement à distance tout en voyageant à travers le monde, je suis tellement envieux."
     },
-    "related": "うらやましい（授業の重要表現）"
+    "related": "うらやましい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1451",
@@ -34995,7 +36785,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "定期去做身體檢查，可以及早發現同預防各種病痛。",
       "fr": "Passer régulièrement un bilan de santé permet de détecter précocement et de prévenir les maladies."
     },
-    "related": "けんこう（授業の重要表現）"
+    "related": "けんこう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1452",
@@ -35019,7 +36810,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢本書好多對工作好實用嘅建議。<br/>B: 真係？對培訓新入職員工都好有幫助喎。",
       "fr": "A: Ce livre regorge de conseils très utiles pour le travail.<br/>B: Vraiment ? Ça a l'air d'être une aide précieuse pour former les nouvelles recrues."
     },
-    "related": "やくにたつ・たすけになる（授業の重要表現）"
+    "related": "やくにたつ・たすけになる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1453",
@@ -35043,7 +36835,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's an unusual name.",
       "fr": "It's an unusual name."
     },
-    "related": "めずらしい（授業の重要表現）"
+    "related": "めずらしい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1454",
@@ -35067,7 +36860,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In Japan, the declining birthrate is worsening and child numbers drop yearly.<br/>B: Enriching support for child-rearing families is an urgent task.",
       "fr": "A: In Japan, the declining birthrate is worsening and child numbers drop yearly.<br/>B: Enriching support for child-rearing families is an urgent task."
     },
-    "related": "しょうしか（授業の重要表現）"
+    "related": "しょうしか（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1455",
@@ -35091,7 +36885,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Do you need a receipt?<br/>B: I don't keep an expense ledger, so I don't need it.",
       "fr": "A: Do you need a receipt?<br/>B: I don't keep an expense ledger, so I don't need it."
     },
-    "related": "いらない（授業の重要表現）"
+    "related": "いらない（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1456",
@@ -35115,7 +36910,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Plants are nourished by earth.",
       "fr": "Plants are nourished by earth."
     },
-    "related": "そだつ（授業の重要表現）"
+    "related": "そだつ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1457",
@@ -35139,7 +36935,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Reading develops the mind.",
       "fr": "Reading develops the mind."
     },
-    "related": "そだてる（授業の重要表現）"
+    "related": "そだてる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1458",
@@ -35163,7 +36960,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: We will deliver your ordered items today via express parcel.<br/>B: Thank you for arranging shipment. Looking forward to arrival.",
       "fr": "A: We will deliver your ordered items today via express parcel.<br/>B: Thank you for arranging shipment. Looking forward to arrival."
     },
-    "related": "おくります（授業の重要表現）"
+    "related": "おくります（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1459",
@@ -35187,7 +36985,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "梅雨天中間難得放晴見到嘅藍天，感覺特別清爽舒服。",
       "fr": "Le ciel bleu qui apparaît entre deux averses pendant la saison des pluies est très revigorant."
     },
-    "related": "つゆ（授業の重要表現）"
+    "related": "つゆ（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1460",
@@ -35211,7 +37014,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 每個月電話費好貴，好肉赤呀。<br/>B: 轉去有平價plan嘅電訊公司，可以慳返差唔多一半㗎。",
       "fr": "A: Ma facture de portable est trop élevée tous les mois, ça m'inquiète.<br/>B: Si tu changes d'opérateur mobile pour un forfait économique, tu pourras diviser le prix par deux."
     },
-    "related": "けいたいがいしゃ（授業の重要表現）"
+    "related": "けいたいがいしゃ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1461",
@@ -35235,7 +37039,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "日本傳統陶瓷工藝師傅手勢好好，耐用度同品質都好高。",
       "fr": "La céramique traditionnelle japonaise témoigne d’un grand savoir-faire artisanal, avec une qualité et une durabilité remarquables."
     },
-    "related": "ひんしつ（授業の重要表現）"
+    "related": "ひんしつ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1462",
@@ -35259,7 +37064,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This Imabari towel uses high-quality cotton with exceptional softness.<br/>B: High-quality towels make delightful gifts.",
       "fr": "A: This Imabari towel uses high-quality cotton with exceptional softness.<br/>B: High-quality towels make delightful gifts."
     },
-    "related": "こうひんしつ（授業の重要表現）"
+    "related": "こうひんしつ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1463",
@@ -35283,7 +37089,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The connection is kind of bad here.",
       "fr": "The connection is kind of bad here."
     },
-    "related": "でんぱ（授業の重要表現）"
+    "related": "でんぱ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1464",
@@ -35307,7 +37114,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "She is a local government officer.",
       "fr": "She is a local government officer."
     },
-    "related": "ちほう（授業の重要表現）"
+    "related": "ちほう（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1465",
@@ -35331,7 +37143,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咁舊嘅電腦，已經冇用啦。<br/>B: 可能係時候買部新嘅。",
       "fr": "A: Ce vieil ordinateur est déjà inutile.<br/>B: Il est peut-être temps d'en acheter un nouveau."
     },
-    "related": "やくたたず（授業の重要表現）"
+    "related": "やくたたず（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1466",
@@ -35355,7 +37168,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Children grow remarkably bigger in just one single year.<br/>B: Seeing their mind and body grow healthily is deeply moving.",
       "fr": "A: Children grow remarkably bigger in just one single year.<br/>B: Seeing their mind and body grow healthily is deeply moving."
     },
-    "related": "せいちょうする（授業の重要表現）"
+    "related": "せいちょうする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1467",
@@ -35379,7 +37193,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To tone my upper arms, I do dumbbell workouts every day.<br/>B: Consistency will tone your upper arm lines nicely!",
       "fr": "A: To tone my upper arms, I do dumbbell workouts every day.<br/>B: Consistency will tone your upper arm lines nicely!"
     },
-    "related": "二のにのうで（授業の重要表現）"
+    "related": "二のにのうで（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1468",
@@ -35403,7 +37218,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咦，剪咗頭髮呀？成個人精神晒好襯你喎！<br/>B: 多謝你留意到！我的起心肝剪咗短髮。",
       "fr": "A: Tiens, tu t'es coupé les cheveux ? Ça te donne un coup de frais, ça te va super bien !<br/>B: Merci de l'avoir remarqué ! J'ai franchi le pas et je suis passé aux cheveux courts."
     },
-    "related": "かみをきる（授業の重要表現）"
+    "related": "かみをきる（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1469",
@@ -35427,7 +37247,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Shaving beard with an electric shaver every morning is basic grooming.<br/>B: Cleanly shaving provides a neat impression to start the day.",
       "fr": "A: Shaving beard with an electric shaver every morning is basic grooming.<br/>B: Cleanly shaving provides a neat impression to start the day."
     },
-    "related": "ひげをそる（授業の重要表現）"
+    "related": "ひげをそる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1470",
@@ -35451,7 +37272,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My father grows rice.",
       "fr": "My father grows rice."
     },
-    "related": "さいばい（授業の重要表現）"
+    "related": "さいばい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1471",
@@ -35475,7 +37297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's a damned sight more unimpressive than could be imagined.",
       "fr": "It's a damned sight more unimpressive than could be imagined."
     },
-    "related": "こえる（授業の重要表現）"
+    "related": "こえる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1472",
@@ -35499,7 +37322,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Cleanliness is next to godliness.",
       "fr": "Cleanliness is next to godliness."
     },
-    "related": "もっとも（授業の重要表現）"
+    "related": "もっとも（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1473",
@@ -35523,7 +37347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After school today I have errands at the city office, so I'll leave early.<br/>B: Understood. Finish your errands and get home safe.",
       "fr": "A: After school today I have errands at the city office, so I'll leave early.<br/>B: Understood. Finish your errands and get home safe."
     },
-    "related": "ようじがある（授業の重要表現）"
+    "related": "ようじがある（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1474",
@@ -35547,7 +37372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好在跑去火車站，啱啱好趕得切開車前搭到尾班車。",
       "fr": "Grâce à ma course rapide vers la gare, j’ai réussi à attraper le tout dernier train in extremis avant le départ."
     },
-    "related": "まにあう（授業の重要表現）"
+    "related": "まにあう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1475",
@@ -35571,7 +37397,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In residential areas with poor visibility, slow down without speeding.<br/>B: Hazards of people darting out exist, so I'll drive slowly.",
       "fr": "A: In residential areas with poor visibility, slow down without speeding.<br/>B: Hazards of people darting out exist, so I'll drive slowly."
     },
-    "related": "スピードをだす（授業の重要表現）"
+    "related": "スピードをだす（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1476",
@@ -35595,7 +37422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "突然落起一陣狂風暴雨，我即刻走入車站個大簷篷底避雨。",
       "fr": "Surpris par une averse soudaine en fin d'après-midi, je me suis vite abrité sous l'auvent de la gare."
     },
-    "related": "かくれる（授業の重要表現）"
+    "related": "かくれる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1477",
@@ -35619,7 +37447,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I capture insects.",
       "fr": "I capture insects."
     },
-    "related": "つかまえる（授業の重要表現）"
+    "related": "つかまえる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1478",
@@ -35643,7 +37472,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I thought I was going to get caught by the police.",
       "fr": "I thought I was going to get caught by the police."
     },
-    "related": "つかまる（授業の重要表現）"
+    "related": "つかまる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1479",
@@ -35667,7 +37497,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Good wine needs no bush.",
       "fr": "Good wine needs no bush."
     },
-    "related": "かんばん（授業の重要表現）"
+    "related": "かんばん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1480",
@@ -35691,7 +37522,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Parking in a no-stopping zone resulted in a hefty fine.<br/>B: Traffic violation fines are painful expenses, so obey rules.",
       "fr": "A: Parking in a no-stopping zone resulted in a hefty fine.<br/>B: Traffic violation fines are painful expenses, so obey rules."
     },
-    "related": "ばっきん（授業の重要表現）"
+    "related": "ばっきん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1481",
@@ -35715,7 +37547,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Maintaining the legal speed limit even on expressways is fundamental.<br/>B: Keeping legal speed limits substantially cuts accident risks.",
       "fr": "A: Maintaining the legal speed limit even on expressways is fundamental.<br/>B: Keeping legal speed limits substantially cuts accident risks."
     },
-    "related": "ほうていそくど（授業の重要表現）"
+    "related": "ほうていそくど（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1482",
@@ -35739,7 +37572,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗解決地球暖化嘅嚴重問題，世界各國政府都通力合作應對。",
       "fr": "Pour résoudre le problème du réchauffement climatique, les gouvernements du monde entier collaborent étroitement."
     },
-    "related": "せいふ（授業の重要表現）"
+    "related": "せいふ（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1483",
@@ -35763,7 +37601,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 新項目嘅財源打算點安排？<br/>B: 我哋計劃用資助金。",
       "fr": "A: Qu'allez-vous faire pour les ressources financières du nouveau projet ?<br/>B: Nous prévoyons d'utiliser des subventions."
     },
-    "related": "ざいげん（授業の重要表現）"
+    "related": "ざいげん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1484",
@@ -35787,7 +37626,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Japan is poor in natural resources.",
       "fr": "Japan is poor in natural resources."
     },
-    "related": "しげん（授業の重要表現）"
+    "related": "しげん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1485",
@@ -35811,7 +37651,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The world is vast.",
       "fr": "The world is vast."
     },
-    "related": "ひろい（授業の重要表現）"
+    "related": "ひろい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1486",
@@ -35835,7 +37676,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's a small room.",
       "fr": "It's a small room."
     },
-    "related": "せまい（授業の重要表現）"
+    "related": "せまい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1487",
@@ -35859,7 +37701,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Where is your report card?",
       "fr": "Where is your report card?"
     },
-    "related": "つうち（授業の重要表現）"
+    "related": "つうち（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1488",
@@ -35883,7 +37726,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 冇計劃就開始係冇意義㗎。<br/>B: 講得啱，我哋都係先傾清楚啦。",
       "fr": "A: Ça n'a pas de sens de commencer sans plan.<br/>B: Vous avez raison. Discutons-en d'abord sérieusement."
     },
-    "related": "いみがない（授業の重要表現）"
+    "related": "いみがない（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1489",
@@ -35907,7 +37751,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's about time to make a plan for this summer vacation trip.<br/>B: Let's plan routes avoiding crowds and finish bookings.",
       "fr": "A: It's about time to make a plan for this summer vacation trip.<br/>B: Let's plan routes avoiding crowds and finish bookings."
     },
-    "related": "けいかくをたてる（授業の重要表現）"
+    "related": "けいかくをたてる（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1490",
@@ -35931,7 +37780,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I like languages.",
       "fr": "I like languages."
     },
-    "related": "げんご（授業の重要表現）"
+    "related": "げんご（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1491",
@@ -35955,7 +37805,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Taking a 1-year leave from university, I'm doing language study in Canada.<br/>B: Immersing in authentic English on language study is a great challenge!",
       "fr": "A: Taking a 1-year leave from university, I'm doing language study in Canada.<br/>B: Immersing in authentic English on language study is a great challenge!"
     },
-    "related": "ごがくりゅうがく（授業の重要表現）"
+    "related": "ごがくりゅうがく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1492",
@@ -35979,7 +37830,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "識到有相同興趣嘅朋友仔，而家每個禮拜日都過得好開心。",
       "fr": "Rencontrer des personnes partageant la même passion a rendu mes week-ends encore plus agréables."
     },
-    "related": "しゅみ（授業の重要表現）"
+    "related": "しゅみ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1493",
@@ -36003,7 +37855,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "全隊合力一齊搏到最後一刻，終於喺決賽贏咗。",
       "fr": "En unissant leurs forces jusqu’au bout avec ténacité, tous les coéquipiers ont remporté la finale."
     },
-    "related": "かつ（授業の重要表現）"
+    "related": "かつ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1494",
@@ -36027,7 +37880,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 尋日場比賽，輸咗呀。<br/>B: 下次一定可以贏㗎，加油！",
       "fr": "A: On a perdu le match d'hier.<br/>B: Vous gagnerez certainement la prochaine fois, courage !"
     },
-    "related": "まける（授業の重要表現）"
+    "related": "まける（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1495",
@@ -36051,7 +37905,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Showa retro kissaten coffee shops are currently popular among youths.<br/>B: Nostalgic cream sodas and puddings are huge hits on social media.",
       "fr": "A: Showa retro kissaten coffee shops are currently popular among youths.<br/>B: Nostalgic cream sodas and puddings are huge hits on social media."
     },
-    "related": "はやっている（授業の重要表現）"
+    "related": "はやっている（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1496",
@@ -36075,7 +37930,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It doesn't matter whether you win or not.",
       "fr": "It doesn't matter whether you win or not."
     },
-    "related": "しょうぶ（授業の重要表現）"
+    "related": "しょうぶ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1497",
@@ -36099,7 +37955,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "If you eat too much, you'll become fat.",
       "fr": "If you eat too much, you'll become fat."
     },
-    "related": "ふとる（授業の重要表現）"
+    "related": "ふとる（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1498",
@@ -36123,7 +37984,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's too bad that I don't need to lose weight.",
       "fr": "It's too bad that I don't need to lose weight."
     },
-    "related": "やせる（授業の重要表現）"
+    "related": "やせる（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1499",
@@ -36147,7 +38013,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "禮拜六日我會去Gym房游水做下Gym，做下適量運動。",
       "fr": "Le week-end, je vais à la salle de sport pour faire un peu d’exercice comme la natation ou la musculation."
     },
-    "related": "うんどう（授業の重要表現）"
+    "related": "うんどう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1500",
@@ -36171,7 +38038,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Absorbed in reading, before I knew it it was pitch black outside.<br/>B: You lost track of time immersing in the world of books.",
       "fr": "A: Absorbed in reading, before I knew it it was pitch black outside.<br/>B: You lost track of time immersing in the world of books."
     },
-    "related": "きがついたら（授業の重要表現）"
+    "related": "きがついたら（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1501",
@@ -36195,7 +38063,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有冇留意到我剪咗頭髮呀？<br/>B: 當然啦！好襯你呀。",
       "fr": "A: As-tu remarqué que je me suis fait couper les cheveux ?<br/>B: Bien sûr ! Ça te va très bien."
     },
-    "related": "きづく（授業の重要表現）"
+    "related": "きづく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1502",
@@ -36219,7 +38088,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "好好打理花園啲植物花草之後，成間屋出面睇起上嚟好整潔舒服。",
       "fr": "Grâce à l'entretien soigné des arbustes et de la pelouse du jardin, les abords de la maison sont impeccables."
     },
-    "related": "ていれ（授業の重要表現）"
+    "related": "ていれ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1503",
@@ -36243,7 +38113,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After the rain, I cleanly weeded the garden weeds.<br/>B: Pulling weeds helps flowerbeds grow vigorously.",
       "fr": "A: After the rain, I cleanly weeded the garden weeds.<br/>B: Pulling weeds helps flowerbeds grow vigorously."
     },
-    "related": "ざっそう（授業の重要表現）"
+    "related": "ざっそう（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1504",
@@ -36267,7 +38142,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "田中先生性格好心思細密，成日都將張枱同行程表執得好整齊。",
       "fr": "M. Tanaka est très méticuleux et garde toujours son bureau et son emploi du temps parfaitement ordonnés."
     },
-    "related": "真面目（まじめ：serious/earnest）・きっちりしている（precise/proper）"
+    "related": "真面目（まじめ：serious/earnest）・きっちりしている（precise/proper）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1505",
@@ -36291,7 +38167,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你咩血型㗎？<br/>B: A型。成日都有人話我做事好細心同謹慎。",
       "fr": "A: Quel est votre groupe sanguin ?<br/>B: Groupe A. On me dit souvent que je suis méticuleux."
     },
-    "related": "血液型占い（けつえきがたうらない：blood type personality assessment）"
+    "related": "血液型占い（けつえきがたうらない：blood type personality assessment）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1506",
@@ -36315,7 +38192,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺日本，好多人都覺得O型嘅人性格比較開朗大方。",
       "fr": "Au Japon, les personnes du groupe O ont la réputation d'être faciles à vivre."
     },
-    "related": "大型（おおがた：large size）・新型（しんがた：new model）"
+    "related": "大型（おおがた：large size）・新型（しんがた：new model）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1507",
@@ -36339,7 +38217,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我覺得淨係憑血型去判斷一個人嘅性格係一種偏見。",
       "fr": "Je pense que juger la personnalité de quelqu'un uniquement d'après son groupe sanguin est un préjugé."
     },
-    "related": "先入観（せんにゅうかん：preconception）・差別（さべつ：discrimination）"
+    "related": "先入観（せんにゅうかん：preconception）・差別（さべつ：discrimination）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1508",
@@ -36363,7 +38242,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我個人雖然有少少粗枝大葉，不過唔會斤斤計較細微嘢，心態好正面。",
       "fr": "Je suis peut-être un peu approximatif, mais je ne me soucie pas des petits détails et vis de manière positive."
     },
-    "related": "大らか（おおらか：broad-minded）・適当（てきとう：casual/rough）"
+    "related": "大らか（おおらか：broad-minded）・適当（てきとう：casual/rough）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1509",
@@ -36387,7 +38267,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "如果行夜路嗰陣有奇怪嘅人同你搭訕，請即刻走去光猛嘅地方。",
       "fr": "Si une personne bizarre vous aborde la nuit dans la rue, réfugiez-vous immédiatement dans un endroit éclairé."
     },
-    "related": "不審者（ふしんしゃ：suspicious person）・危ない人（あぶないひと：dangerous person）"
+    "related": "不審者（ふしんしゃ：suspicious person）・危ない人（あぶないひと：dangerous person）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1510",
@@ -36411,7 +38292,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "淨係顧住自己方便嘅自私態度，會令身邊嘅人好為難。",
       "fr": "Une attitude égocentrique qui ne fait passer que son propre intérêt en premier dérange les personnes autour."
     },
-    "related": "自己中心的（じこちゅうしんてき：selfish）・身勝手（みがって：self-serving）"
+    "related": "自己中心的（じこちゅうしんてき：selfish）・身勝手（みがって：self-serving）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1511",
@@ -36435,7 +38317,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was convinced I was disliked by everyone, but it was a misunderstanding.<br/>B: Everyone knows your genuine kindness well.",
       "fr": "A: I was convinced I was disliked by everyone, but it was a misunderstanding.<br/>B: Everyone knows your genuine kindness well."
     },
-    "related": "きらわれている（授業の重要表現）"
+    "related": "きらわれている（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1512",
@@ -36459,7 +38342,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I visited my husband's parents and enjoyed my mother-in-law's cooking.<br/>B: Having a pleasant time with your mother-in-law is wonderful.",
       "fr": "A: Over the weekend I visited my husband's parents and enjoyed my mother-in-law's cooking.<br/>B: Having a pleasant time with your mother-in-law is wonderful."
     },
-    "related": "ぎぼ（授業の重要表現）"
+    "related": "ぎぼ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1513",
@@ -36483,7 +38367,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: His motivation has ups and downs with varying daily concentration.<br/>B: Dampening the swings between good and bad days brings stability.",
       "fr": "A: His motivation has ups and downs with varying daily concentration.<br/>B: Dampening the swings between good and bad days brings stability."
     },
-    "related": "なみがある（授業の重要表現）"
+    "related": "なみがある（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1514",
@@ -36507,7 +38396,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: That he won a gold medal at the world games is an unbelievable feat!<br/>B: Truly an unbelievable miracle-like moment.",
       "fr": "A: That he won a gold medal at the world games is an unbelievable feat!<br/>B: Truly an unbelievable miracle-like moment."
     },
-    "related": "しんじられない（授業の重要表現）"
+    "related": "しんじられない（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1515",
@@ -36531,7 +38421,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Living alone for the first time, I struggled with cooking and chores.<br/>B: It's hard at first, but builds solid life competence.",
       "fr": "A: Living alone for the first time, I struggled with cooking and chores.<br/>B: It's hard at first, but builds solid life competence."
     },
-    "related": "くろうする（授業の重要表現）"
+    "related": "くろうする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1516",
@@ -36555,7 +38446,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗保護地球美麗嘅大自然環境，我哋好努力推行減塑減廢。",
       "fr": "Pour protéger le bel environnement naturel de notre planète, nous nous efforçons de réduire les déchets plastiques."
     },
-    "related": "かんきょう（授業の重要表現）"
+    "related": "かんきょう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1517",
@@ -36579,7 +38471,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are you in the rice camp or the bread camp for breakfast?<br/>B: I like drinking warm miso soup, so I'm in the rice camp.",
       "fr": "A: Are you in the rice camp or the bread camp for breakfast?<br/>B: I like drinking warm miso soup, so I'm in the rice camp."
     },
-    "related": "〜は（授業の重要表現）"
+    "related": "〜は（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1518",
@@ -36603,7 +38496,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With smartphones, you can reach work contacts wherever you are.<br/>B: Convenient, yet sometimes you feel unable to truly rest anywhere.",
       "fr": "A: With smartphones, you can reach work contacts wherever you are.<br/>B: Convenient, yet sometimes you feel unable to truly rest anywhere."
     },
-    "related": "どこにいても（授業の重要表現）"
+    "related": "どこにいても（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1519",
@@ -36627,7 +38521,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我哋喺屋企大廈養咗隻好易相處嘅細狗貴婦狗。",
       "fr": "J’élève avec amour un caniche toy, un petit chien facile à vivre même en appartement."
     },
-    "related": "かう（授業の重要表現）"
+    "related": "かう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1520",
@@ -36651,7 +38546,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺咁大壓力嘅大場面，佢都可以打得咁淡定咁有自信。<br/>B: 佢心理質素真係好強大。",
       "fr": "A: Malgré la pression énorme d'une telle compétition, il joue avec une assurance remarquable.<br/>B: C'est un athlète qui a un mental d'acier."
     },
-    "related": "メンタル（授業の重要表現）"
+    "related": "メンタル（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1521",
@@ -36675,7 +38571,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Having acquired the strongest weapon in this game, I'll challenge the boss!<br/>B: With the strongest equipment, you have the strength of a hundred!",
       "fr": "A: Having acquired the strongest weapon in this game, I'll challenge the boss!<br/>B: With the strongest equipment, you have the strength of a hundred!"
     },
-    "related": "さいきょう（授業の重要表現）"
+    "related": "さいきょう（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1522",
@@ -36699,7 +38600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A temporary shutdown occurred due to factory machinery trouble.<br/>B: Investigate swiftly the cause of why trouble broke out.",
       "fr": "A: A temporary shutdown occurred due to factory machinery trouble.<br/>B: Investigate swiftly the cause of why trouble broke out."
     },
-    "related": "はっせいする（授業の重要表現）"
+    "related": "はっせいする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1523",
@@ -36723,7 +38625,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Heavy rain loosened hillsides, causing a landslide on the road.<br/>B: Stay away from slopes with danger of landslides.",
       "fr": "A: Heavy rain loosened hillsides, causing a landslide on the road.<br/>B: Stay away from slopes with danger of landslides."
     },
-    "related": "どしゃくずれ（授業の重要表現）"
+    "related": "どしゃくずれ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1524",
@@ -36747,7 +38650,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Direct hits from typhoons caused major damage to farm crops.<br/>B: I hope aid reaches affected farmers quickly.",
       "fr": "A: Direct hits from typhoons caused major damage to farm crops.<br/>B: I hope aid reaches affected farmers quickly."
     },
-    "related": "ひがいがでる（授業の重要表現）"
+    "related": "ひがいがでる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1525",
@@ -36771,7 +38675,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "踩單車跌親，不過好彩戴咗頭盔所以冇受大傷。",
       "fr": "Je suis tombé à vélo, mais comme je portais un casque, je n’ai eu aucune blessure grave."
     },
-    "related": "けが（授業の重要表現）"
+    "related": "けが（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1526",
@@ -36795,7 +38700,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I reached mandatory retirement last month after 30 years at the company.<br/>B: Thank you for your long dedication! Please enjoy your free time.",
       "fr": "A: I reached mandatory retirement last month after 30 years at the company.<br/>B: Thank you for your long dedication! Please enjoy your free time."
     },
-    "related": "ていねんたいしょく（授業の重要表現）"
+    "related": "ていねんたいしょく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1527",
@@ -36819,7 +38725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "靠住每日用單字卡溫習，我嘅日文詞彙量進步咗好多。",
       "fr": "En continuant de m'entraîner chaque jour avec les cartes mémoire, mon vocabulaire en japonais a fait d'immenses progrès."
     },
-    "related": "しんぽ（授業の重要表現）"
+    "related": "しんぽ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1528",
@@ -36843,7 +38750,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "隨住春天嚟到，溶雪嘅泥土上面生出好多好可愛嘅嫩芽。",
       "fr": "Avec l’arrivée du printemps, de jolies pousses de fleurs émergent successivement de la terre dégelée."
     },
-    "related": "あらわれる（授業の重要表現）"
+    "related": "あらわれる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1529",
@@ -36867,7 +38775,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This book is a magnum opus that represents the culmination of the author's research.<br/>B: As the culmination of 30 years of study, it has overwhelming depth.",
       "fr": "A: This book is a magnum opus that represents the culmination of the author's research.<br/>B: As the culmination of 30 years of study, it has overwhelming depth."
     },
-    "related": "しゅうたいせい（授業の重要表現）"
+    "related": "しゅうたいせい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1530",
@@ -36891,7 +38800,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "公司買咗部最新款嘅多功能影印複合機，Scan同雙面印都快好多。",
       "fr": "Nous avons installé au bureau une imprimante multifonction moderne permettant de numériser et d’imprimer recto-verso rapidement."
     },
-    "related": "ふくごう（授業の重要表現）"
+    "related": "ふくごう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1531",
@@ -36915,7 +38825,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Our company plans to formally expand into Southeast Asian markets next fiscal year.<br/>B: Expanding into overseas markets opens up new business opportunities.",
       "fr": "A: Our company plans to formally expand into Southeast Asian markets next fiscal year.<br/>B: Expanding into overseas markets opens up new business opportunities."
     },
-    "related": "しんしゅつする（授業の重要表現）"
+    "related": "しんしゅつする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1532",
@@ -36939,7 +38850,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Following a sharp surge in crude oil prices, electricity and gas rates rose.<br/>B: It significantly impacts households, so let's save power diligently.",
       "fr": "A: Following a sharp surge in crude oil prices, electricity and gas rates rose.<br/>B: It significantly impacts households, so let's save power diligently."
     },
-    "related": "きゅうとう（授業の重要表現）"
+    "related": "きゅうとう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1533",
@@ -36963,7 +38875,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I till the earth.",
       "fr": "I till the earth."
     },
-    "related": "とち（授業の重要表現）"
+    "related": "とち（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1534",
@@ -36987,7 +38900,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Labor shortages have become a serious problem in restaurant and nursing sectors.<br/>B: We must address labor shortages through improved benefits and robotics.",
       "fr": "A: Labor shortages have become a serious problem in restaurant and nursing sectors.<br/>B: We must address labor shortages through improved benefits and robotics."
     },
-    "related": "ひとでぶそく（授業の重要表現）"
+    "related": "ひとでぶそく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1535",
@@ -37011,7 +38925,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: There was a job opening for opening staff at the new branch.<br/>B: Good recruitment terms with transit allowance and flexible shifts.",
       "fr": "A: There was a job opening for opening staff at the new branch.<br/>B: Good recruitment terms with transit allowance and flexible shifts."
     },
-    "related": "きゅうじん（授業の重要表現）"
+    "related": "きゅうじん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1536",
@@ -37035,7 +38950,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講今年秋天開始全日本嘅最低工資會調高喎。<br/>B: 對於班做兼職嘅學生哥嚟講真係天大喜訊。",
       "fr": "A: J'ai entendu dire que le salaire minimum allait être augmenté dans tout le pays cet automne.<br/>B: C'est une excellente nouvelle pour les étudiants qui font des petits boulots."
     },
-    "related": "さいていちんぎん（授業の重要表現）"
+    "related": "さいていちんぎん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1537",
@@ -37059,7 +38975,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "How many years have you been with this company?",
       "fr": "How many years have you been with this company?"
     },
-    "related": "にゅうしゃ（授業の重要表現）"
+    "related": "にゅうしゃ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1538",
@@ -37083,7 +39000,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After much thought on changing jobs, I decided to work hard here for another year.<br/>B: If it's a conclusion reached after deep thought, you will proceed positively.",
       "fr": "A: After much thought on changing jobs, I decided to work hard here for another year.<br/>B: If it's a conclusion reached after deep thought, you will proceed positively."
     },
-    "related": "かんがえたけっか（授業の重要表現）"
+    "related": "かんがえたけっか（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1539",
@@ -37107,7 +39025,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 寫信開頭通常會用「拜啟」開始。<br/>B: 原來係咁，結尾就係「敬具」啦。",
       "fr": "A: Il est courant de commencer une lettre par « Cher Monsieur/Madame » (Haikei).<br/>B: Je vois, et la conclusion est « Cordialement » (Keigu), n'est-ce pas ?"
     },
-    "related": "はいけい（授業の重要表現）"
+    "related": "はいけい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1540",
@@ -37131,7 +39050,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If you write 'Dear Sir' at the start of a letter, what closing do you use?<br/>B: For 'Dear Sir', you use 'Yours sincerely' as the corresponding closing.",
       "fr": "A: If you write 'Dear Sir' at the start of a letter, what closing do you use?<br/>B: For 'Dear Sir', you use 'Yours sincerely' as the corresponding closing."
     },
-    "related": "けいぐ（授業の重要表現）"
+    "related": "けいぐ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1541",
@@ -37155,7 +39075,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It was a strange story.",
       "fr": "It was a strange story."
     },
-    "related": "ふしぎ（授業の重要表現）"
+    "related": "ふしぎ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1542",
@@ -37179,7 +39100,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you finished writing today's homework essay yet?<br/>B: Yes, I wrote it all last night!",
       "fr": "A: Have you finished writing today's homework essay yet?<br/>B: Yes, I wrote it all last night!"
     },
-    "related": "かきました（授業の重要表現）"
+    "related": "かきました（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1543",
@@ -37203,7 +39125,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Rain got heavy; could you come pick me up at the station by car?<br/>B: Roger! Wait at the rotary by the ticket gates.",
       "fr": "A: Rain got heavy; could you come pick me up at the station by car?<br/>B: Roger! Wait at the rotary by the ticket gates."
     },
-    "related": "むかえにくる（授業の重要表現）"
+    "related": "むかえにくる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1544",
@@ -37227,7 +39150,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗預防洪水等自然災害，平時屋企要常備緊急乾糧同食水。",
       "fr": "Pour parer aux catastrophes naturelles comme les crues, prévoyons toujours des vivres et de l'eau d'urgence."
     },
-    "related": "こうずい（授業の重要表現）"
+    "related": "こうずい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1545",
@@ -37251,7 +39175,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While playing in the river, the swim ring was swept away by rapids.<br/>B: I'm glad no person was swept away. Swollen rivers are scary.",
       "fr": "A: While playing in the river, the swim ring was swept away by rapids.<br/>B: I'm glad no person was swept away. Swollen rivers are scary."
     },
-    "related": "ながされる（授業の重要表現）"
+    "related": "ながされる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1546",
@@ -37275,7 +39200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 琴日個大颱風，你有冇受災受影響？<br/>B: 好彩門窗屋頂冇事，不過成晚停電真係好慘。",
       "fr": "A: Avez-vous subi des dégâts à cause du violent typhon d'hier ?<br/>B: Heureusement, les fenêtres et le toit sont intacts, mais nous avons été privés d'électricité toute la nuit."
     },
-    "related": "ひがいにあう（授業の重要表現）"
+    "related": "ひがいにあう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1547",
@@ -37299,7 +39225,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's sunny, but will you take a folding umbrella just to be safe?<br/>B: Yes, there might be evening showers, so let's bring it as precaution.",
       "fr": "A: It's sunny, but will you take a folding umbrella just to be safe?<br/>B: Yes, there might be evening showers, so let's bring it as precaution."
     },
-    "related": "ねんのため（授業の重要表現）"
+    "related": "ねんのため（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1548",
@@ -37323,7 +39250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I packed rations and flashlights in emergency bags just in case.<br/>B: Preparing for the worst routinely prevents panic during disasters.",
       "fr": "A: I packed rations and flashlights in emergency bags just in case.<br/>B: Preparing for the worst routinely prevents panic during disasters."
     },
-    "related": "まんがいちにそなえて（授業の重要表現）"
+    "related": "まんがいちにそなえて（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1549",
@@ -37347,7 +39275,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Many people die in traffic accidents.",
       "fr": "Many people die in traffic accidents."
     },
-    "related": "なくなる（授業の重要表現）"
+    "related": "なくなる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1550",
@@ -37371,7 +39300,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "新寫字樓陽光充足又夠靜，係個可以令人好專心做嘢嘅理想環境。",
       "fr": "Le nouveau bureau est bien éclairé et très calme, c'est un cadre idéal pour se concentrer sur son travail."
     },
-    "related": "かんきょう（授業の重要表現）"
+    "related": "かんきょう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1551",
@@ -37395,7 +39325,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 可唔可以教我條魚個名嘅漢字點讀？<br/>B: 呢個字寫做「鮭」，讀做「さけ（sake）」㗎。",
       "fr": "A: Pourriez-vous m'apprendre à lire le kanji du nom de ce poisson ?<br/>B: Il s'écrit avec le kanji du saumon et se lit 'sake'."
     },
-    "related": "よみかた（授業の重要表現）"
+    "related": "よみかた（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1552",
@@ -37419,7 +39350,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In business emails, you should use a more polite way of saying it.<br/>B: Thank you for the advice. I'll correct it to honorific phrasing.",
       "fr": "A: In business emails, you should use a more polite way of saying it.<br/>B: Thank you for the advice. I'll correct it to honorific phrasing."
     },
-    "related": "いいかた（授業の重要表現）"
+    "related": "いいかた（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1553",
@@ -37443,7 +39375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "傳統日本建築嘅特色之一，就係善用木材溫暖質感營造出寧靜舒適嘅空間。",
       "fr": "L'une des caractéristiques de l'architecture japonaise est sa conception épurée qui met en valeur la chaleur du bois."
     },
-    "related": "とくちょう（授業の重要表現）"
+    "related": "とくちょう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1554",
@@ -37467,7 +39400,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It was so delicious at the buffet that I ate too much...<br/>B: You look bloated. Sip warm tea and take a rest.",
       "fr": "A: It was so delicious at the buffet that I ate too much...<br/>B: You look bloated. Sip warm tea and take a rest."
     },
-    "related": "〜すぎる（授業の重要表現）"
+    "related": "〜すぎる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1555",
@@ -37491,7 +39425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is there another way of saying 'Sumimasen' to convey gratitude?<br/>B: Rephrasing as 'Osoreirimasu' or 'Arigatou gozaimasu' sounds elegant.",
       "fr": "A: Is there another way of saying 'Sumimasen' to convey gratitude?<br/>B: Rephrasing as 'Osoreirimasu' or 'Arigatou gozaimasu' sounds elegant."
     },
-    "related": "ちがういいかた（授業の重要表現）"
+    "related": "ちがういいかた（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1556",
@@ -37515,7 +39450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Term reports and part-time shifts coincided; I'm barely coping right now.<br/>B: Don't collapse; tackle things one by one starting with what you can.",
       "fr": "A: Term reports and part-time shifts coincided; I'm barely coping right now.<br/>B: Don't collapse; tackle things one by one starting with what you can."
     },
-    "related": "いっぱいいっぱい（授業の重要表現）"
+    "related": "いっぱいいっぱい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1557",
@@ -37539,7 +39475,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我一個人頂住三個project，已經爆煲頂唔順喇。<br/>B: 唔好夾硬頂，叫其他同事分擔下啲工作啦。",
       "fr": "A: Je gère trois projets tout seul en même temps, je suis complètement dépassé.<br/>B: Ne force pas trop. Demandons aux autres collègues de se répartir la charge de travail."
     },
-    "related": "キャパオーバー（授業の重要表現）"
+    "related": "キャパオーバー（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1558",
@@ -37563,7 +39500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Ability alone is not enough.",
       "fr": "Ability alone is not enough."
     },
-    "related": "のうりょく（授業の重要表現）"
+    "related": "のうりょく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1559",
@@ -37587,7 +39525,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "連開幾晚通頂個人體力真係到咗極限，今日要早啲收工好好瞓一覺。",
       "fr": "Ressentant la limite de mes forces après plusieurs nuits blanches, je vais m’arrêter tôt aujourd’hui pour bien dormir."
     },
-    "related": "げんかい（授業の重要表現）"
+    "related": "げんかい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1560",
@@ -37611,7 +39550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He won the tournament by an overwhelming landslide of skill!<br/>B: His overwhelming strength comes from an extraordinary amount of practice.",
       "fr": "A: He won the tournament by an overwhelming landslide of skill!<br/>B: His overwhelming strength comes from an extraordinary amount of practice."
     },
-    "related": "あっとうてき（授業の重要表現）"
+    "related": "あっとうてき（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1561",
@@ -37635,7 +39575,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was overwhelmed by the sheer power of the live orchestra!<br/>B: Deep resonant tones echoing through the hall overpower you.",
       "fr": "A: I was overwhelmed by the sheer power of the live orchestra!<br/>B: Deep resonant tones echoing through the hall overpower you."
     },
-    "related": "あっとうする（授業の重要表現）"
+    "related": "あっとうする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1562",
@@ -37659,7 +39600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "His modesty is worth respecting.",
       "fr": "His modesty is worth respecting."
     },
-    "related": "けんそん（授業の重要表現）"
+    "related": "けんそん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1563",
@@ -37683,7 +39625,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Modesty is a virtue.",
       "fr": "Modesty is a virtue."
     },
-    "related": "けんきょ（授業の重要表現）"
+    "related": "けんきょ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1564",
@@ -37707,7 +39650,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Water seems to be leaking from the base of the sink faucet.<br/>B: The gasket might have deteriorated, so let's call a plumber.",
       "fr": "A: Water seems to be leaking from the base of the sink faucet.<br/>B: The gasket might have deteriorated, so let's call a plumber."
     },
-    "related": "みずがもれる（授業の重要表現）"
+    "related": "みずがもれる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1565",
@@ -37731,7 +39675,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Stuffing too much inside caused the paper bag to rip open!<br/>B: Are you okay? Let's transfer it into a sturdy plastic bag.",
       "fr": "A: Stuffing too much inside caused the paper bag to rip open!<br/>B: Are you okay? Let's transfer it into a sturdy plastic bag."
     },
-    "related": "ふくろがやぶける（授業の重要表現）"
+    "related": "ふくろがやぶける（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1566",
@@ -37755,7 +39700,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm fussy.",
       "fr": "I'm fussy."
     },
-    "related": "こまかい（授業の重要表現）"
+    "related": "こまかい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1567",
@@ -37779,7 +39725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Tidying up around your desk boosts work efficiency.<br/>B: I'd like to shred unneeded documents and keep it neat at all times.",
       "fr": "A: Tidying up around your desk boosts work efficiency.<br/>B: I'd like to shred unneeded documents and keep it neat at all times."
     },
-    "related": "せいりせいとん（授業の重要表現）"
+    "related": "せいりせいとん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1568",
@@ -37803,7 +39750,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Please administer one drop of eyedrops in each eye.<br/>B: Understood. A couple of drops is plenty effective.",
       "fr": "A: Please administer one drop of eyedrops in each eye.<br/>B: Understood. A couple of drops is plenty effective."
     },
-    "related": "〜てき（授業の重要表現）"
+    "related": "〜てき（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1569",
@@ -37827,7 +39775,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Keeping up daily jogging helped me lose 5 kilos in 3 months!<br/>B: Amazing! Your body is toned and looks very healthy.",
       "fr": "A: Keeping up daily jogging helped me lose 5 kilos in 3 months!<br/>B: Amazing! Your body is toned and looks very healthy."
     },
-    "related": "やせました（授業の重要表現）"
+    "related": "やせました（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1570",
@@ -37851,7 +39800,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I started dieting, but haven't lost weight yet at all.<br/>B: Don't rush; sustain balanced meals and strength training!",
       "fr": "A: I started dieting, but haven't lost weight yet at all.<br/>B: Don't rush; sustain balanced meals and strength training!"
     },
-    "related": "やせていません（授業の重要表現）"
+    "related": "やせていません（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1571",
@@ -37875,7 +39825,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I paid double the sum.",
       "fr": "I paid double the sum."
     },
-    "related": "きんがく（授業の重要表現）"
+    "related": "きんがく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1572",
@@ -37899,7 +39850,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Try to guess what souvenir I bought today!<br/>B: Hmm, Kyoto Yatsuhashi perhaps? Am I right?",
       "fr": "A: Try to guess what souvenir I bought today!<br/>B: Hmm, Kyoto Yatsuhashi perhaps? Am I right?"
     },
-    "related": "あててみて！（授業の重要表現）"
+    "related": "あててみて！（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1573",
@@ -37923,7 +39879,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A stranger asked me 'How old do I look?' and put me on the spot.<br/>B: For age-guessing questions, guessing younger than actual is safest.",
       "fr": "A: A stranger asked me 'How old do I look?' and put me on the spot.<br/>B: For age-guessing questions, guessing younger than actual is safest."
     },
-    "related": "なんさいにみえますか（授業の重要表現）"
+    "related": "なんさいにみえますか（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1574",
@@ -37947,7 +39904,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：請問呢碟串燒拼盤有幾多件呀？<br/>B：總共會有五串㗎。",
       "fr": "A : Combien de pièces contient une assiette d’assortiment de yakitori ?<br/>B : Il y a cinq brochettes au total."
     },
-    "related": "数量・年齢（授業の重要表現）"
+    "related": "数量・年齢（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1575",
@@ -37971,7 +39929,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A：唔該，請問呢個士多啤梨蛋糕幾多錢一件呀？<br/>B：連稅係550円。",
       "fr": "A : Excusez-moi, combien coûte ce gâteau aux fraises à la pièce ?<br/>B : Il est à 550 yens taxes comprises."
     },
-    "related": "いくら（授業の重要表現）"
+    "related": "いくら（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1576",
@@ -37995,7 +39954,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "佢從來唔講大話而且好守信用，係個好老實誠實嘅人。",
       "fr": "C'est une personne très honnête qui ne ment jamais et tient toujours ses promesses."
     },
-    "related": "しょうじき（授業の重要表現）"
+    "related": "しょうじき（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1577",
@@ -38019,7 +39979,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "老實講句，今次呢個簡報匯報我真係幾緊張。",
       "fr": "Pour être tout à fait honnête, j'étais particulièrement stressé pour cette présentation."
     },
-    "related": "しょうじき（授業の重要表現）"
+    "related": "しょうじき（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1578",
@@ -38043,7 +40004,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My father reached mandatory retirement at the company he served for years.<br/>B: Thank him for his long service! Hope he enjoys his second life.",
       "fr": "A: My father reached mandatory retirement at the company he served for years.<br/>B: Thank him for his long service! Hope he enjoys his second life."
     },
-    "related": "ていねんたいしょく（授業の重要表現）"
+    "related": "ていねんたいしょく（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1579",
@@ -38067,7 +40029,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Next month I will be moving house to an apartment near the office.<br/>B: Commuting will be easy! Is packing going smoothly?",
       "fr": "A: Next month I will be moving house to an apartment near the office.<br/>B: Commuting will be easy! Is packing going smoothly?"
     },
-    "related": "ひっこしをする（授業の重要表現）"
+    "related": "ひっこしをする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1580",
@@ -38091,7 +40054,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 一路返工一路湊仔，每日真係忙到七彩。<br/>B: 係呀，不過睇住個仔日日長大，幾辛苦都值得。",
       "fr": "A: Concilier travail et éducation des enfants demande un rythme effréné tous les jours.<br/>B: Oui, mais voir grandir son enfant au quotidien est la plus belle des joies."
     },
-    "related": "こそだて（授業の重要表現）"
+    "related": "こそだて（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1581",
@@ -38115,7 +40079,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I fully enjoyed hot springs and local cuisines to my heart's content!<br/>B: Fully savoring hot springs and delicacies was the ultimate recharge.",
       "fr": "A: Over the weekend I fully enjoyed hot springs and local cuisines to my heart's content!<br/>B: Fully savoring hot springs and delicacies was the ultimate recharge."
     },
-    "related": "まんきつする（授業の重要表現）"
+    "related": "まんきつする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1582",
@@ -38139,7 +40104,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I think I will take a roundabout way to return home.",
       "fr": "I think I will take a roundabout way to return home."
     },
-    "related": "とおまわり（授業の重要表現）"
+    "related": "とおまわり（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1583",
@@ -38163,7 +40129,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講單投訴直接傳到老闆耳中呀。<br/>B: 咁睇嚟會好大鑊喎。",
       "fr": "A: J'ai entendu dire que la plainte est arrivée directement aux oreilles du président.<br/>B: On dirait que ça va devenir un gros problème."
     },
-    "related": "ダイレクト（直接・ダイレクトに伝えるなど）"
+    "related": "ダイレクト（直接・ダイレクトに伝えるなど）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1584",
@@ -38187,7 +40154,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢係嗰種心入面諗咩就直接講嘅類型。<br/>B: 雖然有時會好傷，但我鍾意佢夠坦白。",
       "fr": "A: C'est le genre à dire directement ce qu'il pense.<br/>B: Parfois ça blesse, mais j'aime le fait qu'il soit franc."
     },
-    "related": "ストレート（ストレートに言う・率直な性格など）"
+    "related": "ストレート（ストレートに言う・率直な性格など）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1585",
@@ -38211,7 +40179,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Fluently speaking a language other than one's native language requires practice.<br/>B: Putting it into practice a little bit every day is key to improvement.",
       "fr": "A: Fluently speaking a language other than one's native language requires practice.<br/>B: Putting it into practice a little bit every day is key to improvement."
     },
-    "related": "ぼこくご（授業の重要表現）"
+    "related": "ぼこくご（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1586",
@@ -38235,7 +40208,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Of course.",
       "fr": "Of course."
     },
-    "related": "あたりまえ（授業の重要表現）"
+    "related": "あたりまえ（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1587",
@@ -38259,7 +40233,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In my opinion, researching local needs is the highest priority.<br/>B: I see, that's an accurate analysis. Let's proceed with that policy.",
       "fr": "A: In my opinion, researching local needs is the highest priority.<br/>B: I see, that's an accurate analysis. Let's proceed with that policy."
     },
-    "related": "わたしのかんがえでは（授業の重要表現）"
+    "related": "わたしのかんがえでは（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1588",
@@ -38283,7 +40258,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I instantly tried to catch a child who was about to fall.<br/>B: Quick thinking prevented injuries, which was great.",
       "fr": "A: I instantly tried to catch a child who was about to fall.<br/>B: Quick thinking prevented injuries, which was great."
     },
-    "related": "〜ようとする（授業の重要表現）"
+    "related": "〜ようとする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1589",
@@ -38307,7 +40283,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Just as I was about to leave the house, heavy rain poured.<br/>B: Good thing you had a chance to grab an umbrella.",
       "fr": "A: Just as I was about to leave the house, heavy rain poured.<br/>B: Good thing you had a chance to grab an umbrella."
     },
-    "related": "〜ようとした（授業の重要表現）"
+    "related": "〜ようとした（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1590",
@@ -38331,7 +40308,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: An old gas canister exploded upon contacting an open flame.<br/>B: We must exercise extreme caution handling hazardous materials.",
       "fr": "A: An old gas canister exploded upon contacting an open flame.<br/>B: We must exercise extreme caution handling hazardous materials."
     },
-    "related": "ばくはつする（授業の重要表現）"
+    "related": "ばくはつする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1591",
@@ -38355,7 +40333,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I want to see a volcano.",
       "fr": "I want to see a volcano."
     },
-    "related": "かざん（授業の重要表現）"
+    "related": "かざん（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1592",
@@ -38379,7 +40358,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I felt the house shake.",
       "fr": "I felt the house shake."
     },
-    "related": "ゆれる（授業の重要表現）"
+    "related": "ゆれる（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1593",
@@ -38403,7 +40383,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The limited express passed through the station without slowing down.<br/>B: Watching from a waiting local train, it zooms past in an instant.",
       "fr": "A: The limited express passed through the station without slowing down.<br/>B: Watching from a waiting local train, it zooms past in an instant."
     },
-    "related": "つうかする（授業の重要表現）"
+    "related": "つうかする（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1594",
@@ -38427,7 +40408,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This umbrella is for both sun and rain, so it works as a parasol too.<br/>B: It blocks UV rays and sudden rain, so having one is super handy.",
       "fr": "A: This umbrella is for both sun and rain, so it works as a parasol too.<br/>B: It blocks UV rays and sudden rain, so having one is super handy."
     },
-    "related": "せいうけんよう（授業の重要表現）"
+    "related": "せいうけんよう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1595",
@@ -38451,7 +40433,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Will tomorrow's outdoor festival still be held if it rains?<br/>B: It says 'held rain or shine', so let's bring rain gear.",
       "fr": "A: Will tomorrow's outdoor festival still be held if it rains?<br/>B: It says 'held rain or shine', so let's bring rain gear."
     },
-    "related": "うてんけっこう（授業の重要表現）"
+    "related": "うてんけっこう（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1596",
@@ -38475,7 +40458,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "交試卷之前，好小心咁check清楚有冇填漏或者寫錯。",
       "fr": "Avant de rendre ma copie d’examen, j’ai vérifié attentivement qu’il n’y avait ni oubli ni erreur."
     },
-    "related": "まちがい（授業の重要表現）"
+    "related": "まちがい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1597",
@@ -38499,7 +40483,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The first quiz question was incorrect, but I'll get the next one right!<br/>B: So close! Let's get revenge on the next question.",
       "fr": "A: The first quiz question was incorrect, but I'll get the next one right!<br/>B: So close! Let's get revenge on the next question."
     },
-    "related": "ふせいかい（授業の重要表現）"
+    "related": "ふせいかい（授業の重要表現）",
+    "studentId": "0021"
   },
   {
     "id": "class_word_1598",
@@ -38523,7 +40508,12 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I want to become able to speak everyday Japanese conversation smoothly.<br/>B: Practicing out loud daily helps you acquire natural conversation.",
       "fr": "A: I want to become able to speak everyday Japanese conversation smoothly.<br/>B: Practicing out loud daily helps you acquire natural conversation."
     },
-    "related": "にちじょうかいわ（授業の重要表現）"
+    "related": "にちじょうかいわ（授業の重要表現）",
+    "studentId": "0021",
+    "studentIds": [
+      "0021",
+      "0023"
+    ]
   },
   {
     "id": "class_word_1599",
@@ -38547,7 +40537,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 京都真係有好多好出名嘅旅遊景點呢。<br/>B: 係呀，喺外國遊客心目中都超級受歡迎㗎。",
       "fr": "A: Kyoto compte de nombreux sites touristiques célèbres, n'est-ce pas ?<br/>B: Oui, c'est très populaire auprès des touristes étrangers."
     },
-    "related": "観光客（かんこうきゃく：tourist）・観光名所（かんこうめいしょ：famous sight）"
+    "related": "観光客（かんこうきゃく：tourist）・観光名所（かんこうめいしょ：famous sight）",
+    "studentId": "0022"
   },
   {
     "id": "class_word_1600",
@@ -38571,7 +40562,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "對於遊客同本地街坊收唔同價錢嘅雙重定價，依家引起咗好熱烈嘅討論。",
       "fr": "Un débat animé a lieu au sujet de la double tarification, qui applique des tarifs différents aux touristes et aux résidents locaux."
     },
-    "related": "地元価格（local price）・インバウンド価格（inbound price）"
+    "related": "地元価格（local price）・インバウンド価格（inbound price）",
+    "studentId": "0022"
   },
   {
     "id": "class_word_1601",
@@ -38595,7 +40587,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "關於引入新規矩呢件事，贊成同反對兩派嘅意見好有分歧。",
       "fr": "Les avis sont partagés entre les partisans et les opposants quant à l'introduction de la nouvelle règle."
     },
-    "related": "意見の一致（consensus）・賛否両論（pros and cons / mixed reactions）"
+    "related": "意見の一致（consensus）・賛否両論（pros and cons / mixed reactions）",
+    "studentId": "0022"
   },
   {
     "id": "class_word_1602",
@@ -38619,7 +40612,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 嗰個人成日都做埋啲古怪嘢，真係個怪人。<br/>B: 不過其實佢係個好天才嘅研究員嚟㗎。",
       "fr": "A: Cette personne fait toujours des choses bizarres, c'est un original !<br/>B: Mais en fait, c'est un chercheur de génie."
     },
-    "related": "変わり者（かわかりもの：eccentric）・個性的（こせいてき：unique/individualistic）"
+    "related": "変わり者（かわかりもの：eccentric）・個性的（こせいてき：unique/individualistic）",
+    "studentId": "0022"
   },
   {
     "id": "class_word_1603",
@@ -38644,7 +40638,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去到火車站之後我會喺入閘口前面等，記得打我手機同我講。",
       "fr": "Quand tu seras arrivé à la gare, je t’attendrai devant les portillons, alors appelle-moi sur mon portable."
     },
-    "related": "Contact / communication — getting in touch with someone, or a message/notification sent to them. Used as a noun or する-ve"
+    "related": "Contact / communication — getting in touch with someone, or a message/notification sent to them. Used as a noun or する-ve",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1604",
@@ -38669,7 +40664,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Keep focused on your work.",
       "fr": "Keep focused on your work."
     },
-    "related": "Both describe putting effort into something, but the nuance is different."
+    "related": "Both describe putting effort into something, but the nuance is different.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1605",
@@ -38694,7 +40690,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 細個嗰陣，我成日喺呢個公園玩。<br/>B: 真係令人懷念嘅回憶呀。",
       "fr": "A: Quand j'étais enfant, je jouais souvent dans ce parc.<br/>B: C'est un souvenir nostalgique."
     },
-    "related": "〜の時（特定の時点・状態） ⇄ 〜の頃（大体の時期）"
+    "related": "〜の時（特定の時点・状態） ⇄ 〜の頃（大体の時期）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1606",
@@ -38719,7 +40716,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "由屋企行去最近嘅車站要差唔多25分鐘有啲遠，所以我平時踩單車去。",
       "fr": "Il faut environ 25 minutes à pied de chez moi à la gare la plus proche, c’est un peu loin, alors j’utilise un vélo."
     },
-    "related": "【遠い（とおい）】Far / distant — physically far away, or a distant relationship/memory."
+    "related": "【遠い（とおい）】Far / distant — physically far away, or a distant relationship/memory.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1607",
@@ -38744,7 +40742,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Books add to the pleasures of life.",
       "fr": "Books add to the pleasures of life."
     },
-    "related": "To increase / to add more — to make something grow in number or amount. Transitive: someone increases something."
+    "related": "To increase / to add more — to make something grow in number or amount. Transitive: someone increases something.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1608",
@@ -38769,7 +40768,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: She and her younger sister resemble each other in voice and gestures.<br/>B: Yes, on the phone they're so similar you can hardly tell them apart.",
       "fr": "A: She and her younger sister resemble each other in voice and gestures.<br/>B: Yes, on the phone they're so similar you can hardly tell them apart."
     },
-    "related": "To resemble / to be similar — used to describe when two things or people look alike or share similar qualities"
+    "related": "To resemble / to be similar — used to describe when two things or people look alike or share similar qualities",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1609",
@@ -38794,7 +40794,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you found your dream or what you truly want to do in the future?<br/>B: Teaching Japanese abroad is what I most want to do.",
       "fr": "A: Have you found your dream or what you truly want to do in the future?<br/>B: Teaching Japanese abroad is what I most want to do."
     },
-    "related": "Both are natural and nearly interchangeable, but have a slight difference in feel."
+    "related": "Both are natural and nearly interchangeable, but have a slight difference in feel.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1610",
@@ -38819,7 +40820,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末有冇去邊度行下呀？<br/>B: 我去咗可以望到好靚星空嘅地方呀。",
       "fr": "A: Êtes-vous sorti quelque part ce week-end ?<br/>B: Je suis allé dans un endroit où l'on peut voir un magnifique ciel étoilé."
     },
-    "related": "〜ところに行きました（〜した場所・場所を表す表現）"
+    "related": "〜ところに行きました（〜した場所・場所を表す表現）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1611",
@@ -38844,7 +40846,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Nature abhors a vacuum.",
       "fr": "Nature abhors a vacuum."
     },
-    "related": "Nature — the natural world: mountains, forests, rivers, and the outdoors. Also used as a な-adjective meaning 'natural'."
+    "related": "Nature — the natural world: mountains, forests, rivers, and the outdoors. Also used as a な-adjective meaning 'natural'.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1612",
@@ -38869,7 +40872,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 去北海道旅行嘅話你想食咩？<br/>B: 我想食鋪滿蟹肉同三文魚籽嘅新鮮海鮮丼！",
       "fr": "A: Si tu pars en voyage à Hokkaido, qu'aimerais-tu manger ?<br/>B: J'aimerais manger un bol de fruits de mer frais garni de crabe et d'œufs de saumon !"
     },
-    "related": "Seafood — fresh fish and shellfish from the sea. Used in restaurant names and menus."
+    "related": "Seafood — fresh fish and shellfish from the sea. Used in restaurant names and menus.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1613",
@@ -38894,7 +40898,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A magic trick was performed right in front of me, but I had no clue!<br/>B: Even seen from close up, it couldn't be detected—what amazing skill.",
       "fr": "A: A magic trick was performed right in front of me, but I had no clue!<br/>B: Even seen from close up, it couldn't be detected—what amazing skill."
     },
-    "related": "Right in front of (me/you) — directly before one's eyes. Can describe physical location or something happening at that v"
+    "related": "Right in front of (me/you) — directly before one's eyes. Can describe physical location or something happening at that v",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1614",
@@ -38919,7 +40924,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Time is limited, so please introduce yourself concisely.<br/>B: Yes, I will summarize key points within one minute concisely.",
       "fr": "A: Time is limited, so please introduce yourself concisely.<br/>B: Yes, I will summarize key points within one minute concisely."
     },
-    "related": "Both can follow 自己紹介してください but mean different things."
+    "related": "Both can follow 自己紹介してください but mean different things.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1615",
@@ -38944,7 +40950,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Making an effort every day without fail is vital to reaching goals.<br/>B: Continuing steady efforts will surely lead to results.",
       "fr": "A: Making an effort every day without fail is vital to reaching goals.<br/>B: Continuing steady efforts will surely lead to results."
     },
-    "related": "To make an effort / to work hard — deliberate, sustained effort toward a goal"
+    "related": "To make an effort / to work hard — deliberate, sustained effort toward a goal",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1616",
@@ -38969,7 +40976,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: There are several options for career paths after graduation.<br/>B: Let's consider carefully which option suits you best.",
       "fr": "A: There are several options for career paths after graduation.<br/>B: Let's consider carefully which option suits you best."
     },
-    "related": "Option / choice — one of several possibilities to choose from"
+    "related": "Option / choice — one of several possibilities to choose from",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1617",
@@ -38994,7 +41002,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm afraid of cats.",
       "fr": "I'm afraid of cats."
     },
-    "related": "Both express not liking something, but the reason and strength differ."
+    "related": "Both express not liking something, but the reason and strength differ.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1618",
@@ -39019,7 +41028,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "趁住週末好天，打算全家人一齊搭火車去鎌倉觀光行下。",
       "fr": "Comme il fait beau ce week-end, nous prévoyons de prendre le train pour faire du tourisme à Kamakura en famille."
     },
-    "related": "Both involve going somewhere, but 通う implies regularity and routine."
+    "related": "Both involve going somewhere, but 通う implies regularity and routine.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1619",
@@ -39044,7 +41054,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Even with clumsy words, there are moments where hearts truly connect.<br/>B: Yes, the sincere attitude to communicate resonates with others.",
       "fr": "A: Even with clumsy words, there are moments where hearts truly connect.<br/>B: Yes, the sincere attitude to communicate resonates with others."
     },
-    "related": "Hearts connect / to feel a genuine connection — when two people truly understand each other emotionally. A warm, poetic "
+    "related": "Hearts connect / to feel a genuine connection — when two people truly understand each other emotionally. A warm, poetic ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1620",
@@ -39069,7 +41080,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I keep up pen pal correspondence with a Japanese friend through letters.<br/>B: Pen pal letters handwritten have warmth and are wonderful.",
       "fr": "A: I keep up pen pal correspondence with a Japanese friend through letters.<br/>B: Pen pal letters handwritten have warmth and are wonderful."
     },
-    "related": "Pen pal correspondence — exchanging handwritten letters with someone, usually in another city or country"
+    "related": "Pen pal correspondence — exchanging handwritten letters with someone, usually in another city or country",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1621",
@@ -39094,7 +41106,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: During student days, I kept a shared diary with my best friend.<br/>B: Nostalgic! Waiting for the next person's reply was so exciting.",
       "fr": "A: During student days, I kept a shared diary with my best friend.<br/>B: Nostalgic! Waiting for the next person's reply was so exciting."
     },
-    "related": "Shared diary — a notebook passed back and forth between friends or a couple, where each person writes entries for the ot"
+    "related": "Shared diary — a notebook passed back and forth between friends or a couple, where each person writes entries for the ot",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1622",
@@ -39119,7 +41132,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The weather is fine, so let's leisurely stroll through the old castle town.<br/>B: Strolling historic alleys has great charm and is so fun.",
       "fr": "A: The weather is fine, so let's leisurely stroll through the old castle town.<br/>B: Strolling historic alleys has great charm and is so fun."
     },
-    "related": "散歩（さんぽ）"
+    "related": "散歩（さんぽ）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1623",
@@ -39144,7 +41158,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The air is fresh in the morning.",
       "fr": "The air is fresh in the morning."
     },
-    "related": "Fresh / novel — used for food (freshly caught or picked) and experiences (new and stimulating). A very positive word."
+    "related": "Fresh / novel — used for food (freshly caught or picked) and experiences (new and stimulating). A very positive word.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1624",
@@ -39169,7 +41184,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When weather is gloomy with rain, I just can't get motivated.<br/>B: On days like that, don't force it; sip warm drinks and relax.",
       "fr": "A: When weather is gloomy with rain, I just can't get motivated.<br/>B: On days like that, don't force it; sip warm drinks and relax."
     },
-    "related": "Can't get motivated / don't feel like doing anything — a common expression for lack of drive or energy"
+    "related": "Can't get motivated / don't feel like doing anything — a common expression for lack of drive or energy",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1625",
@@ -39194,7 +41210,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "冇頭冇尾嘅古怪Email同電話好可能係騙案，千祈要小心。",
       "fr": "Les e-mails ou appels suspects dont vous ne vous souvenez pas peuvent être des escroqueries, restez vigilant."
     },
-    "related": "Fraud / scam — deliberately deceiving someone for money or personal gain"
+    "related": "Fraud / scam — deliberately deceiving someone for money or personal gain",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1626",
@@ -39219,7 +41236,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The drinking party is still going on, but I returned home early for the train.<br/>B: Heading home early without overdoing it is the wisest choice.",
       "fr": "A: The drinking party is still going on, but I returned home early for the train.<br/>B: Heading home early without overdoing it is the wisest choice."
     },
-    "related": "Both use 帰る (to return home) but describe opposite situations."
+    "related": "Both use 帰る (to return home) but describe opposite situations.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1627",
@@ -39244,7 +41262,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I also miss him.",
       "fr": "I also miss him."
     },
-    "related": "Both describe a kind of longing, but for different reasons."
+    "related": "Both describe a kind of longing, but for different reasons.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1628",
@@ -39269,7 +41288,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Are some people joining today's social gathering?<br/>B: Yes, a few people including new hires are scheduled to join.",
       "fr": "A: Are some people joining today's social gathering?<br/>B: Yes, a few people including new hires are scheduled to join."
     },
-    "related": "These are ways to express 'some' or 'a few' in Japanese."
+    "related": "These are ways to express 'some' or 'a few' in Japanese.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1629",
@@ -39294,7 +41314,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Maximum length: 200 words.",
       "fr": "Maximum length: 200 words."
     },
-    "related": "Within / no more than — used to set an upper limit for time, distance, number, or quantity"
+    "related": "Within / no more than — used to set an upper limit for time, distance, number, or quantity",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1630",
@@ -39319,7 +41340,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is shellfish extract included in this soup?<br/>B: I checked ingredients; it's vegetable-only and not in there.",
       "fr": "A: Is shellfish extract included in this soup?<br/>B: I checked ingredients; it's vegetable-only and not in there."
     },
-    "related": "Casual contractions of 入っている and 入っていない. Used when asking or checking if something is included or contained."
+    "related": "Casual contractions of 入っている and 入っていない. Used when asking or checking if something is included or contained.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1631",
@@ -39344,7 +41366,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We are having a whale of a time.",
       "fr": "We are having a whale of a time."
     },
-    "related": "The best / highest / amazing — used for the highest level of something, or casually to express that something is great"
+    "related": "The best / highest / amazing — used for the highest level of something, or casually to express that something is great",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1632",
@@ -39369,7 +41392,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is out of control when drunk.",
       "fr": "He is out of control when drunk."
     },
-    "related": "All relate to feeling unwell, but the causes and uses are different."
+    "related": "All relate to feeling unwell, but the causes and uses are different.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1633",
@@ -39394,7 +41418,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have plans for next month's long weekend been decided yet?<br/>B: No, nothing is decided yet. Maybe I'll go to a hot spring.",
       "fr": "A: Have plans for next month's long weekend been decided yet?<br/>B: No, nothing is decided yet. Maybe I'll go to a hot spring."
     },
-    "related": "It hasn't been decided / not fixed yet — the polite negative of 決まっている (it is decided/fixed)"
+    "related": "It hasn't been decided / not fixed yet — the polite negative of 決まっている (it is decided/fixed)",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1634",
@@ -39419,7 +41444,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你個飯盒啲色水好豐富，好健康喎。<br/>B: 講求營養均衡吖嘛，我專登擺多啲菜。",
       "fr": "A: Votre bento est très coloré et a l'air particulièrement sain.<br/>B: J'essaie d'y mettre beaucoup de légumes pour veiller à l'équilibre nutritionnel."
     },
-    "related": "Healthy — describes something that promotes good health. Used as a な-adjective."
+    "related": "Healthy — describes something that promotes good health. Used as a な-adjective.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1635",
@@ -39444,7 +41470,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is your aspiration for this year?<br/>B: I'm thinking of taking on various challenges like new hobbies and certificates!",
       "fr": "A: What is your aspiration for this year?<br/>B: I'm thinking of taking on various challenges like new hobbies and certificates!"
     },
-    "related": "I'm thinking of taking on various challenges — a natural way to express an intention to try new things"
+    "related": "I'm thinking of taking on various challenges — a natural way to express an intention to try new things",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1636",
@@ -39469,7 +41496,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He starts new things but easily gets bored and loses interest.<br/>B: While very curious, he finds sticking to one thing for long difficult.",
       "fr": "A: He starts new things but easily gets bored and loses interest.<br/>B: While very curious, he finds sticking to one thing for long difficult."
     },
-    "related": "All describe someone who loses interest quickly, but the nuance differs slightly."
+    "related": "All describe someone who loses interest quickly, but the nuance differs slightly.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1637",
@@ -39494,7 +41522,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "At last, my turn came.",
       "fr": "At last, my turn came."
     },
-    "related": "Order / turn — the sequence in which things happen or people take their turn"
+    "related": "Order / turn — the sequence in which things happen or people take their turn",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1638",
@@ -39519,7 +41548,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "唔使心急慢慢嚟，好仔細咁記好每一個漢字嘅筆順。",
       "fr": "Sans me presser, je prends mon temps pour apprendre soigneusement l’ordre des traits de chaque kanji."
     },
-    "related": "Both suggest a slow, relaxed pace, but the feeling is different."
+    "related": "Both suggest a slow, relaxed pace, but the feeling is different.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1639",
@@ -39544,7 +41574,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I come from the future.",
       "fr": "I come from the future."
     },
-    "related": "将来（しょうらい） ⇄ 未来（みらい）"
+    "related": "将来（しょうらい） ⇄ 未来（みらい）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1640",
@@ -39569,7 +41600,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When we stay at the hot spring inn, let's play table tennis in yukatas!<br/>B: Sounds fun! Onsen ping-pong is classic fun, I won't lose!",
       "fr": "A: When we stay at the hot spring inn, let's play table tennis in yukatas!<br/>B: Sounds fun! Onsen ping-pong is classic fun, I won't lose!"
     },
-    "related": "Table tennis / ping-pong — a racket sport played on a table with a small ball"
+    "related": "Table tennis / ping-pong — a racket sport played on a table with a small ball",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1641",
@@ -39594,7 +41626,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What club activity were you in when you were a student?<br/>B: When I was a student, I ran long distance in the track and field club.",
       "fr": "A: What club activity were you in when you were a student?<br/>B: When I was a student, I ran long distance in the track and field club."
     },
-    "related": "When I was a student — a common expression for recalling past experiences during school years"
+    "related": "When I was a student — a common expression for recalling past experiences during school years",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1642",
@@ -39619,7 +41652,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Were you able to climb all the way to the peak?<br/>B: Weather worsened suddenly, so we turned back halfway through.",
       "fr": "A: Were you able to climb all the way to the peak?<br/>B: Weather worsened suddenly, so we turned back halfway through."
     },
-    "related": "Halfway through / partway / on the way — in the middle of a process, journey, or action"
+    "related": "Halfway through / partway / on the way — in the middle of a process, journey, or action",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1643",
@@ -39644,7 +41678,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What style category of fashion do you like?<br/>B: I like simple, neat and classy-style clothes.",
       "fr": "A: What style category of fashion do you like?<br/>B: I like simple, neat and classy-style clothes."
     },
-    "related": "〜 type / 〜 style / 〜 category — a suffix for classifying things by type, genre, or style"
+    "related": "〜 type / 〜 style / 〜 category — a suffix for classifying things by type, genre, or style",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1644",
@@ -39669,7 +41704,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When people cheer for you, you can do your best even through hardship.<br/>B: Words of encouragement help you push all the way through.",
       "fr": "A: When people cheer for you, you can do your best even through hardship.<br/>B: Words of encouragement help you push all the way through."
     },
-    "related": "Can do one's best / am able to keep going — the potential form of 頑張る. Expresses ability or capacity to put in effort."
+    "related": "Can do one's best / am able to keep going — the potential form of 頑張る. Expresses ability or capacity to put in effort.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1645",
@@ -39694,7 +41730,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I send monthly living allowance to my son who started living alone.<br/>B: Allowance sent by parents is huge support for a new life.",
       "fr": "A: I send monthly living allowance to my son who started living alone.<br/>B: Allowance sent by parents is huge support for a new life."
     },
-    "related": "To send money (to family) — typically used for parents sending money to children studying or living away, or vice versa"
+    "related": "To send money (to family) — typically used for parents sending money to children studying or living away, or vice versa",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1646",
@@ -39719,7 +41756,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The senior was saying tomorrow's meeting time is 8:30.<br/>B: Thanks for telling me. I'll make sure not to be late!",
       "fr": "A: The senior was saying tomorrow's meeting time is 8:30.<br/>B: Thanks for telling me. I'll make sure not to be late!"
     },
-    "related": "Was saying / had said — past continuous form, used to report what someone said earlier, often in casual recollection"
+    "related": "Was saying / had said — past continuous form, used to report what someone said earlier, often in casual recollection",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1647",
@@ -39744,7 +41782,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did we forget to buy anything?<br/>B: Just one more thing—let's grab eggs into the basket and head to register.",
       "fr": "A: Did we forget to buy anything?<br/>B: Just one more thing—let's grab eggs into the basket and head to register."
     },
-    "related": "One more / two more — あと = additionally/remaining, used to indicate quantity left or needed"
+    "related": "One more / two more — あと = additionally/remaining, used to indicate quantity left or needed",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1648",
@@ -39769,7 +41808,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I hope the first proposal presentation goes well.<br/>B: If you trust your practice, it will surely go well!",
       "fr": "A: I hope the first proposal presentation goes well.<br/>B: If you trust your practice, it will surely go well!"
     },
-    "related": "A set expression for things going well or not, used very commonly across many contexts."
+    "related": "A set expression for things going well or not, used very commonly across many contexts.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1649",
@@ -39794,7 +41834,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Making use of my past customer service experience, I work in sales.<br/>B: Being able to use your cultivated communication skills is a great strength.",
       "fr": "A: Making use of my past customer service experience, I work in sales.<br/>B: Being able to use your cultivated communication skills is a great strength."
     },
-    "related": "To make use of one's experience — using past experience to benefit a current situation, often in a career or skill conte"
+    "related": "To make use of one's experience — using past experience to benefit a current situation, often in a career or skill conte",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1650",
@@ -39819,7 +41860,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Reviewing fixed costs like rent and phone bills reduced monthly expenses.<br/>B: Cutting fixed costs is effective because savings last indefinitely.",
       "fr": "A: Reviewing fixed costs like rent and phone bills reduced monthly expenses.<br/>B: Cutting fixed costs is effective because savings last indefinitely."
     },
-    "related": "Fixed costs / fixed expenses — regular, unchanging monthly expenses such as rent, insurance, or subscriptions"
+    "related": "Fixed costs / fixed expenses — regular, unchanging monthly expenses such as rent, insurance, or subscriptions",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1651",
@@ -39844,7 +41886,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 原本咁好生意嗰間咖啡舖，半年就執咗笠。<br/>B: 聽講係因為夾硬開分店同資金周轉不靈搞到咁。",
       "fr": "A: J'ai entendu dire que ce café pourtant si populaire avait fait faillite en six mois.<br/>B: Il paraît que cela était dû à une expansion trop rapide et à des problèmes de trésorerie."
     },
-    "related": "To shut down a business / to bankrupt a shop — 潰す（つぶす）= to crush/destroy. Used when a business fails or is forced to clo"
+    "related": "To shut down a business / to bankrupt a shop — 潰す（つぶす）= to crush/destroy. Used when a business fails or is forced to clo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1652",
@@ -39869,7 +41912,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Half a year has passed since I arrived in Japan.<br/>B: Your Japanese has improved so much over the six months!",
       "fr": "A: Half a year has passed since I arrived in Japan.<br/>B: Your Japanese has improved so much over the six months!"
     },
-    "related": "Half a year / six months — はん = half, とし = year"
+    "related": "Half a year / six months — はん = half, とし = year",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1653",
@@ -39894,7 +41938,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Imported cars are in strong demand.",
       "fr": "Imported cars are in strong demand."
     },
-    "related": "輸出（ゆしゅつ） ⇄ 輸入（ゆにゅう）"
+    "related": "輸出（ゆしゅつ） ⇄ 輸入（ゆにゅう）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1654",
@@ -39919,7 +41964,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Sensei Haku's teaching method is very thorough and easy to understand.<br/>B: Tailoring the teaching method to each student brings great peace of mind.",
       "fr": "A: Sensei Haku's teaching method is very thorough and easy to understand.<br/>B: Tailoring the teaching method to each student brings great peace of mind."
     },
-    "related": "Teaching method / way of teaching — 教える + 方（かた）= the way of doing 〜"
+    "related": "Teaching method / way of teaching — 教える + 方（かた）= the way of doing 〜",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1655",
@@ -39944,7 +41990,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was chosen as project leader, but feel lacking in ability.<br/>B: Don't shoulder it alone; rely on your team and you'll be fine!",
       "fr": "A: I was chosen as project leader, but feel lacking in ability.<br/>B: Don't shoulder it alone; rely on your team and you'll be fine!"
     },
-    "related": "Lacking in ability / not skilled enough — a humble expression admitting one's own skills weren't sufficient"
+    "related": "Lacking in ability / not skilled enough — a humble expression admitting one's own skills weren't sufficient",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1656",
@@ -39969,7 +42016,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Roughly where from here is the sightseeing spot Senso-ji Temple?<br/>B: Walk straight along this main avenue for about 5 minutes, on the left.",
       "fr": "A: Roughly where from here is the sightseeing spot Senso-ji Temple?<br/>B: Walk straight along this main avenue for about 5 minutes, on the left."
     },
-    "related": "どのへん / どこらあたり"
+    "related": "どのへん / どこらあたり",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1657",
@@ -39994,7 +42042,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔該分享吓今日開會嘅資料。<br/>B: 好，遲啲我會用電郵send畀你。",
       "fr": "A: Veuillez partager les documents de la réunion d'aujourd'hui.<br/>B: Oui, je vous les enverrai par e-mail plus tard."
     },
-    "related": "Sharing / to share — used for sharing information, files, resources, or experiences with others"
+    "related": "Sharing / to share — used for sharing information, files, resources, or experiences with others",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1658",
@@ -40019,7 +42068,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As you get older, you naturally wake up early in the morning.<br/>B: Being able to use quiet morning hours effectively is a nice change.",
       "fr": "A: As you get older, you naturally wake up early in the morning.<br/>B: Being able to use quiet morning hours effectively is a nice change."
     },
-    "related": "To get older / to age — a natural, everyday expression for growing older over time"
+    "related": "To get older / to age — a natural, everyday expression for growing older over time",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1659",
@@ -40044,7 +42094,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Which do you prefer, dogs or cats?<br/>B: Both are cute, but I prefer whimsical cats more.",
       "fr": "A: Which do you prefer, dogs or cats?<br/>B: Both are cute, but I prefer whimsical cats more."
     },
-    "related": "Both express preference, but the scope is different."
+    "related": "Both express preference, but the scope is different.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1660",
@@ -40069,7 +42120,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 行咗好多路，對腳好痛呀。<br/>B: 我哋坐低休息一陣啦。",
       "fr": "A: J'ai beaucoup marché, donc j'ai mal aux pieds.<br/>B: Asseyons-nous et reposons-nous un peu."
     },
-    "related": "Body part vocabulary — each is specific and not interchangeable."
+    "related": "Body part vocabulary — each is specific and not interchangeable.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1661",
@@ -40094,7 +42146,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近我迷上咗睇韓劇。<br/>B: 有好多好睇嘅劇集吖嘛。",
       "fr": "A: Dernièrement, je suis vraiment accro aux drames coréens.<br/>B: Il y a tellement d'œuvres intéressantes, n'est-ce pas ?"
     },
-    "related": "To get hooked on / to become obsessed with — to be deeply absorbed in a hobby, show, food, or activity"
+    "related": "To get hooked on / to become obsessed with — to be deeply absorbed in a hobby, show, food, or activity",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1662",
@@ -40119,7 +42172,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近，你對腳同條腰係咪幼咗呀？<br/>B: 真㗎？可能係我每日堅持跑步嘅成果！",
       "fr": "A: Récemment, tes jambes et ta taille ne se sont-elles pas affinées ?<br/>B: Vraiment ? C'est peut-être le résultat de mon jogging quotidien !"
     },
-    "related": "太い（ふとい） ⇄ 細い（ほそい）"
+    "related": "太い（ふとい） ⇄ 細い（ほそい）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1663",
@@ -40144,7 +42198,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 夏天之前我想練啲肌肉呀。<br/>B: 咁我哋一齊去健身室啦！",
       "fr": "A: Je veux me muscler un peu avant l'été.<br/>B: Alors allons à la salle de sport ensemble !"
     },
-    "related": "I want to build muscle — 筋肉（きんにく）= muscle, つける = to attach / to build, たい = want to"
+    "related": "I want to build muscle — 筋肉（きんにく）= muscle, つける = to attach / to build, たい = want to",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1664",
@@ -40169,7 +42224,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 如果有咩煩惱，隨時都可以同我傾㗎。<br/>B: 多謝，其實我最近諗緊工作上嘅事。",
       "fr": "A: Si tu as des soucis, je suis toujours prêt à t'écouter.<br/>B: Merci. En fait, je réfléchis un peu au travail."
     },
-    "related": "Worry / concern / personal problem — something that is weighing on your mind or causing ongoing stress"
+    "related": "Worry / concern / personal problem — something that is weighing on your mind or causing ongoing stress",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1665",
@@ -40194,7 +42250,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢班嘅平均分大約係幾多？<br/>B: 大概係70分左右啦。",
       "fr": "A: Quelle est la note moyenne pour cette classe ?<br/>B: C'est environ 70 points."
     },
-    "related": "Average — the typical or mean value of a set of data. Also used to describe what is typical or standard."
+    "related": "Average — the typical or mean value of a set of data. Also used to describe what is typical or standard.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1666",
@@ -40219,7 +42276,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 老師，你看落好溫柔喎。<br/>B: 多謝，學生都成日咁講。",
       "fr": "A: Professeur, vous avez l'air très gentil.<br/>B: Merci, on me le dit souvent par les étudiants."
     },
-    "related": "I'm often told / people often say to me — passive form of 言う (to say). Used when describing what others frequently comme"
+    "related": "I'm often told / people often say to me — passive form of 言う (to say). Used when describing what others frequently comme",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1667",
@@ -40244,7 +42302,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 因為佢生得一副童顏，成日畀人誤會係學生。<br/>B: 又真係，睇落好後生喎。",
       "fr": "A: Parce qu'elle a un visage de bébé, on la prend souvent pour une étudiante.<br/>B: C'est vrai, elle a l'air jeune."
     },
-    "related": "Baby face / youthful face — having a face that looks younger than one's actual age"
+    "related": "Baby face / youthful face — having a face that looks younger than one's actual age",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1668",
@@ -40269,7 +42328,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 學生時代如果讀多啲書就好啦。<br/>B: 我都成日咁諗。",
       "fr": "A: J'aurais aimé étudier davantage pendant mes années d'études.<br/>B: Je pense souvent la même chose."
     },
-    "related": "Era / age / period — a span of time defined by particular characteristics, often historical or cultural"
+    "related": "Era / age / period — a span of time defined by particular characteristics, often historical or cultural",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1669",
@@ -40294,7 +42354,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我嘅天生鬈髮係遺傳自我阿爸嘅。<br/>B: 我覺得呢種髮質好靚呀。",
       "fr": "A: Mes cheveux bouclés sont hérités de mon père.<br/>B: Je pense que c'est une très belle texture de cheveux."
     },
-    "related": "Genetics / heredity — the passing of characteristics from parents to children through genes"
+    "related": "Genetics / heredity — the passing of characteristics from parents to children through genes",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1670",
@@ -40319,7 +42380,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你打算喺日本逗留幾多日呀？<br/>B: 預計係一個星期。",
       "fr": "A: Combien de jours allez-vous rester au Japon ?<br/>B: J'ai prévu de rester une semaine."
     },
-    "related": "How many days will you be staying? — a natural question for hotels, travel planning, or immigration. 日間 = number of days"
+    "related": "How many days will you be staying? — a natural question for hotels, travel planning, or immigration. 日間 = number of days",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1671",
@@ -40344,7 +42406,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 將來我想去太空睇吓。<br/>B: 真係個充滿浪漫嘅好夢想喎！",
       "fr": "A: Dans le futur, j'aimerais aller dans l'espace.<br/>B: C'est un rêve très romantique et fantastique !"
     },
-    "related": "Space / the universe — the vast expanse beyond Earth's atmosphere; also used for the concept of the cosmos"
+    "related": "Space / the universe — the vast expanse beyond Earth's atmosphere; also used for the concept of the cosmos",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1672",
@@ -40369,7 +42432,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下次我都會帶埋我隻狗去公園㗎。<br/>B: 嘩，好期待呀！",
       "fr": "A: La prochaine fois, j'emmènerai aussi mon chien au parc.<br/>B: Ouah, j'ai hâte d'y être !"
     },
-    "related": "I will take (someone) somewhere / bring someone along — 連れる = to bring/take a person. いく = to go. Used when taking someo"
+    "related": "I will take (someone) somewhere / bring someone along — 連れる = to bring/take a person. いく = to go. Used when taking someo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1673",
@@ -40394,7 +42458,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Even if it's tasty, eating too many sweets isn't good for health.<br/>B: Indeed, doing anything excessively is taboo, so I'll be careful.",
       "fr": "A: Even if it's tasty, eating too many sweets isn't good for health.<br/>B: Indeed, doing anything excessively is taboo, so I'll be careful."
     },
-    "related": "Too much / excessive — verb stem or adjective + すぎる means doing/being something to excess."
+    "related": "Too much / excessive — verb stem or adjective + すぎる means doing/being something to excess.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1674",
@@ -40419,7 +42484,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Days required for delivery differ depending on destination region.<br/>B: It also depends on weather and traffic, so I'll order with time to spare.",
       "fr": "A: Days required for delivery differ depending on destination region.<br/>B: It also depends on weather and traffic, so I'll order with time to spare."
     },
-    "related": "Depending on 〜 / due to 〜 / by means of 〜 — による has several distinct uses."
+    "related": "Depending on 〜 / due to 〜 / by means of 〜 — による has several distinct uses.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1675",
@@ -40444,7 +42510,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Whether we go to tomorrow's barbecue is dependent on the weather.<br/>B: If sunny we attend; if rainy let's relax at home.",
       "fr": "A: Whether we go to tomorrow's barbecue is dependent on the weather.<br/>B: If sunny we attend; if rainy let's relax at home."
     },
-    "related": "Depending on 〜 / up to 〜 / as soon as — 次第 has three main meanings."
+    "related": "Depending on 〜 / up to 〜 / as soon as — 次第 has three main meanings.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1676",
@@ -40469,7 +42536,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有冇話特別鍾意邊類電影呀？<br/>B: 冇特別㗎。我咩都睇。",
       "fr": "A: As-tu un genre de film préféré ?<br/>B: Pas spécialement. Je regarde de tout."
     },
-    "related": "Not particularly 〜 / not especially 〜 — used to say something is not strong enough to warrant special mention."
+    "related": "Not particularly 〜 / not especially 〜 — used to say something is not strong enough to warrant special mention.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1677",
@@ -40494,7 +42562,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A strange sound came from under the car, so I had a mechanic look.<br/>B: Noticing abnormal sounds early and getting inspected was the right call.",
       "fr": "A: A strange sound came from under the car, so I had a mechanic look.<br/>B: Noticing abnormal sounds early and getting inspected was the right call."
     },
-    "related": "Strange / weird / odd — used for people, situations, sounds, feelings, and more."
+    "related": "Strange / weird / odd — used for people, situations, sounds, feelings, and more.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1678",
@@ -40519,7 +42588,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: How was the buzzed-about movie you went to see yesterday?<br/>B: With an unexpected twist ending, it was so thrilling! Definitely go see it.",
       "fr": "A: How was the buzzed-about movie you went to see yesterday?<br/>B: With an unexpected twist ending, it was so thrilling! Definitely go see it."
     },
-    "related": "How was it? — a versatile question used after someone has experienced something."
+    "related": "How was it? — a versatile question used after someone has experienced something.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1679",
@@ -40544,7 +42614,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Walking close to the waterfall sprays mist—it has such powerful impact!<br/>B: The roaring torrent sound has huge impact and overwhelms you.",
       "fr": "A: Walking close to the waterfall sprays mist—it has such powerful impact!<br/>B: The roaring torrent sound has huge impact and overwhelms you."
     },
-    "related": "Powerful / impactful / impressive — describes something with a strong, overwhelming presence or force, such as a perform"
+    "related": "Powerful / impactful / impressive — describes something with a strong, overwhelming presence or force, such as a perform",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1680",
@@ -40569,7 +42640,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I heard this heritage cafe celebrates its 50th anniversary this year.<br/>B: Being loved for half a century is truly marvelous!",
       "fr": "A: I heard this heritage cafe celebrates its 50th anniversary this year.<br/>B: Being loved for half a century is truly marvelous!"
     },
-    "related": "〜th anniversary — a counter for anniversaries of any kind: relationships, businesses, events, albums."
+    "related": "〜th anniversary — a counter for anniversaries of any kind: relationships, businesses, events, albums.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1681",
@@ -40594,7 +42666,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Right now, I'm eating dinner.",
       "fr": "Right now, I'm eating dinner."
     },
-    "related": "Dinner / evening meal — one of the common words for the evening meal in Japanese."
+    "related": "Dinner / evening meal — one of the common words for the evening meal in Japanese.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1682",
@@ -40619,7 +42692,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個薄餅可以外賣攞走嗎？<br/>B: 可以，我幫你入盒。",
       "fr": "A: Puis-je prendre cette pizza à emporter ?<br/>B: Oui, je vais l'emballer dans une boîte pour vous."
     },
-    "related": "Takeaway / to-go — food ordered to take away rather than eat in. Also used for taking home leftovers."
+    "related": "Takeaway / to-go — food ordered to take away rather than eat in. Also used for taking home leftovers.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1683",
@@ -40644,7 +42718,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I need to declutter my house.",
       "fr": "I need to declutter my house."
     },
-    "related": "Both involve making a space better, but they describe different actions."
+    "related": "Both involve making a space better, but they describe different actions.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1684",
@@ -40669,7 +42744,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你個禮拜天點過呀？<br/>B: 同班讀書嗰陣好老友嘅朋友聚埋一齊，傾咗成日偈。",
       "fr": "A: Comment s'est passé votre week-end ?<br/>B: J'ai retrouvé des amis proches de mes années étudiantes et on a discuté toute la journée."
     },
-    "related": "Close friend / good friend — a friend you have a strong, warm relationship with. 仲（なか）refers to the relationship between"
+    "related": "Close friend / good friend — a friend you have a strong, warm relationship with. 仲（なか）refers to the relationship between",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1685",
@@ -40694,7 +42770,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I graduated from the school.",
       "fr": "I graduated from the school."
     },
-    "related": "Graduation — completing a course of study at a school or university. Also used figuratively to mean 'moving on from' som"
+    "related": "Graduation — completing a course of study at a school or university. Also used figuratively to mean 'moving on from' som",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1686",
@@ -40719,7 +42796,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "做錯事嗰陣，唔好搵藉口，老老實實認錯同道歉係最緊要嘅。",
       "fr": "Quand on fait une erreur, il est essentiel de s'excuser sincèrement sans chercher d'excuses."
     },
-    "related": "Honest / honesty — describing a person who tells the truth, or used as an adverb meaning 'honestly speaking / to be fran"
+    "related": "Honest / honesty — describing a person who tells the truth, or used as an adverb meaning 'honestly speaking / to be fran",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1687",
@@ -40744,7 +42822,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Wait for a second chance.",
       "fr": "Wait for a second chance."
     },
-    "related": "Opportunity / chance — a suitable moment or situation that allows you to do something. More formal than チャンス."
+    "related": "Opportunity / chance — a suitable moment or situation that allows you to do something. More formal than チャンス.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1688",
@@ -40769,7 +42848,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "放假唔排滿晒啲Schedule，留喺屋企一路飲熱茶一路好舒服咁放鬆。",
       "fr": "Pendant le week-end, sans surcharger mon emploi du temps, je me suis détendu tranquillement à la maison avec un thé chaud."
     },
-    "related": "Relaxed / at a leisurely pace / taking it easy — an adverb describing a calm, unhurried state. Often implies freedom fro"
+    "related": "Relaxed / at a leisurely pace / taking it easy — an adverb describing a calm, unhurried state. Often implies freedom fro",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1689",
@@ -40794,7 +42874,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A cockroach popped up in the kitchen and I screamed in fright!<br/>B: Keep pest spray handy and seal up crevices.",
       "fr": "A: A cockroach popped up in the kitchen and I screamed in fright!<br/>B: Keep pest spray handy and seal up crevices."
     },
-    "related": "Cockroach — a common household insect considered a pest. The word is katakana despite being a native Japanese word."
+    "related": "Cockroach — a common household insect considered a pest. The word is katakana despite being a native Japanese word.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1690",
@@ -40819,7 +42900,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In the warm sunny weather, I basked in the sun on the veranda with my cat.<br/>B: Idling under the warm sunshine is pure bliss.",
       "fr": "A: In the warm sunny weather, I basked in the sun on the veranda with my cat.<br/>B: Idling under the warm sunshine is pure bliss."
     },
-    "related": "Basking in the sun / sunbathing (casually) — the act of sitting or lying in a sunny spot to enjoy the warmth. A gentle, "
+    "related": "Basking in the sun / sunbathing (casually) — the act of sitting or lying in a sunny spot to enjoy the warmth. A gentle, ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1691",
@@ -40844,7 +42926,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "搭去機場架巴士上面，我check多次本護照同機票有冇帶齊。",
       "fr": "Dans le bus en route vers l’aéroport, j’ai vérifié une nouvelle fois que j’avais bien mon passeport et mes billets d’avion."
     },
-    "related": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting poin"
+    "related": "行き = the outward journey / going (to a destination). 帰り = the return journey / coming back (home or to the starting poin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1692",
@@ -40869,7 +42952,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After returning from Europe, severe jet lag makes me sleepy during the day.<br/>B: Soak up morning sun to reset your internal clock.",
       "fr": "A: After returning from Europe, severe jet lag makes me sleepy during the day.<br/>B: Soak up morning sun to reset your internal clock."
     },
-    "related": "Jet lag — the tiredness and disorientation felt after travelling across multiple time zones. 時差 = time difference, ボケ = "
+    "related": "Jet lag — the tiredness and disorientation felt after travelling across multiple time zones. 時差 = time difference, ボケ = ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1693",
@@ -40894,7 +42978,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 趁啲肉未燶，快啲反轉佢啦！<br/>B: 知道，而家反。",
       "fr": "A: Retourne vite la viande pour qu'elle ne brûle pas !<br/>B: Compris, je le fais maintenant."
     },
-    "related": "To flip over / to overturn / to knock over — to physically turn something upside down or on its side. Also used figurati"
+    "related": "To flip over / to overturn / to knock over — to physically turn something upside down or on its side. Also used figurati",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1694",
@@ -40919,7 +43004,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個門口嘅燈有感應器㗎。<br/>B: 真係方便！黑嗰陣就幫到手啦。",
       "fr": "A: La lumière de cette entrée est équipée d'un détecteur de mouvement.<br/>B: C'est pratique ! Ça aide quand il fait sombre."
     },
-    "related": "Motion sensor / presence sensor — a device that detects when a person enters or moves within its range. Used in lights, "
+    "related": "Motion sensor / presence sensor — a device that detects when a person enters or moves within its range. Used in lights, ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1695",
@@ -40944,7 +43030,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我個小朋友瞓相好差，成日踢被㗎。<br/>B: 小心啲唔好冷親呀。",
       "fr": "A: Mon enfant bouge beaucoup en dormant et sort toujours de ses couvertures.<br/>B: Fais attention à ce qu'il ne prenne pas froid."
     },
-    "related": "Sleeping position / the way one sleeps — refers to how a person positions their body while asleep, especially if they mo"
+    "related": "Sleeping position / the way one sleeps — refers to how a person positions their body while asleep, especially if they mo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1696",
@@ -40969,7 +43056,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 放假可以瞓晏覺係最幸福嘅事。<br/>B: 我都成日喺梳化瞓着。",
       "fr": "A: Faire une sieste un jour de congé est le plus grand des bonheurs.<br/>B: Je m'endors souvent sur le canapé aussi."
     },
-    "related": "Nap / daytime sleep — sleeping during the day, usually briefly, for rest. Literally: 昼（ひる）= daytime, 寝（ね）= sleep."
+    "related": "Nap / daytime sleep — sleeping during the day, usually briefly, for rest. Literally: 昼（ひる）= daytime, 寝（ね）= sleep.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1697",
@@ -40994,7 +43082,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我整壞咗隻好重要嘅手錶呀。<br/>B: 咁真係好可惜，攞去整啦。",
       "fr": "A: J'ai cassé ma précieuse montre.<br/>B: C'est un choc. Envoyons-la en réparation."
     },
-    "related": "To break / to damage / to destroy — transitive verb. Someone actively breaks or damages something."
+    "related": "To break / to damage / to destroy — transitive verb. Someone actively breaks or damages something.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1698",
@@ -41019,7 +43108,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 一緊張，我就會無意識咁摸頭髮。<br/>B: 每個人都會有呢啲習慣嘅。",
       "fr": "A: J'ai l'habitude de toucher mes cheveux inconsciemment quand je suis nerveux.<br/>B: Tout le monde a des habitudes comme ça."
     },
-    "related": "Unconscious / without awareness — doing something without realising it, or the unconscious mind. Can be used as a noun o"
+    "related": "Unconscious / without awareness — doing something without realising it, or the unconscious mind. Can be used as a noun o",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1699",
@@ -41044,7 +43134,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢開會嗰陣嘅態度麻麻哋喎。<br/>B: 轉頭我會提點吓佢。",
       "fr": "A: Son attitude pendant la réunion n'est pas bonne.<br/>B: Je lui ferai une petite remarque plus tard."
     },
-    "related": "Attitude / manner / behaviour — the way a person acts or carries themselves toward others or in a situation."
+    "related": "Attitude / manner / behaviour — the way a person acts or carries themselves toward others or in a situation.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1700",
@@ -41069,7 +43160,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I made pancakes using soy milk instead of dairy milk.<br/>B: Making them with soy milk turns out healthy and flavorful.",
       "fr": "A: I made pancakes using soy milk instead of dairy milk.<br/>B: Making them with soy milk turns out healthy and flavorful."
     },
-    "related": "Instead of ~ / in place of ~ / in return for ~ — used to express substitution or exchange."
+    "related": "Instead of ~ / in place of ~ / in return for ~ — used to express substitution or exchange.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1701",
@@ -41094,7 +43186,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "But it's true.",
       "fr": "But it's true."
     },
-    "related": "Fact / the truth — something that is objectively true or that actually happened. More formal than 本当."
+    "related": "Fact / the truth — something that is objectively true or that actually happened. More formal than 本当.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1702",
@@ -41119,7 +43212,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Recommended by my parents, I'm having a matchmaking meeting.<br/>B: You'll be nervous, but I hope you can converse naturally.",
       "fr": "A: Recommended by my parents, I'm having a matchmaking meeting.<br/>B: You'll be nervous, but I hope you can converse naturally."
     },
-    "related": "Arranged meeting (for marriage) / matchmaking meeting — a formal or semi-formal meeting between two people, arranged by "
+    "related": "Arranged meeting (for marriage) / matchmaking meeting — a formal or semi-formal meeting between two people, arranged by ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1703",
@@ -41144,7 +43238,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "考完晒所有試，今個禮拜六日終於可以自由自在咁享受自己嘅時間。",
       "fr": "Tous les examens sont terminés, je peux enfin profiter librement de mon temps ce week-end."
     },
-    "related": "Freedom / liberty / free — the state of being free to act or choose as one wishes. Used as a noun or な-adjective."
+    "related": "Freedom / liberty / free — the state of being free to act or choose as one wishes. Used as a noun or な-adjective.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1704",
@@ -41169,7 +43264,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like a plastic bag?<br/>B: I brought an eco-bag, so I don't need one.",
       "fr": "A: Would you like a plastic bag?<br/>B: I brought an eco-bag, so I don't need one."
     },
-    "related": "Don't need / don't want / unnecessary — casual way to say something is not needed or not wanted. Plain form of いりません."
+    "related": "Don't need / don't want / unnecessary — casual way to say something is not needed or not wanted. Plain form of いりません.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1705",
@@ -41194,7 +43290,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "講起同一年代興嘅歌同卡通片，真係即刻覺得大家係同一個世代嘅人。",
       "fr": "En parlant des musiques et dessins animés populaires de la même époque, on ressent vraiment la proximité de nos générations."
     },
-    "related": "Generation — a group of people born and living around the same time, or a single step in a family line."
+    "related": "Generation — a group of people born and living around the same time, or a single step in a family line.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1706",
@@ -41219,7 +43316,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm a man of culture.",
       "fr": "I'm a man of culture."
     },
-    "related": "Culture — the customs, arts, social norms, and way of life of a particular group or society."
+    "related": "Culture — the customs, arts, social norms, and way of life of a particular group or society.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1707",
@@ -41244,7 +43342,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末我喺屋企睇片度過。<br/>B: 你鍾意睇咩片呀？",
       "fr": "A: J'ai passé le week-end à regarder des vidéos à la maison.<br/>B: Quel genre de vidéos aimes-tu regarder ?"
     },
-    "related": "Grammar correction: 動画 is something you watch, not something you \"do.\""
+    "related": "Grammar correction: 動画 is something you watch, not something you \"do.\"",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1708",
@@ -41269,7 +43368,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "行近超市門口嗰陣，個感應器一感應到道自動門就會靜靜咁開。",
       "fr": "Quand on s’approche de l’entrée du supermarché, le capteur se déclenche et la porte automatique s’ouvre en silence."
     },
-    "related": "Automatic — operating by itself without human input. Used as a prefix in many compound words."
+    "related": "Automatic — operating by itself without human input. Used as a prefix in many compound words.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1709",
@@ -41294,7 +43394,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Don't touch the goods.",
       "fr": "Don't touch the goods."
     },
-    "related": "Product / goods / merchandise — items sold or available for purchase in a commercial context."
+    "related": "Product / goods / merchandise — items sold or available for purchase in a commercial context.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1710",
@@ -41319,7 +43420,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm a salesperson.",
       "fr": "I'm a salesperson."
     },
-    "related": "Sales / selling — the act of selling products or services. More formal than 売る."
+    "related": "Sales / selling — the act of selling products or services. More formal than 売る.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1711",
@@ -41344,7 +43446,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Did you order a book?",
       "fr": "Did you order a book?"
     },
-    "related": "Order — placing an order for food, goods, or services."
+    "related": "Order — placing an order for food, goods, or services.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1712",
@@ -41369,7 +43472,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I gathered my courage and confessed, but got rejected...<br/>B: The courage to express your feelings is admirable! Next time will bring better love.",
       "fr": "A: I gathered my courage and confessed, but got rejected...<br/>B: The courage to express your feelings is admirable! Next time will bring better love."
     },
-    "related": "To be rejected / to be dumped — to have one's romantic confession or relationship refused or ended by the other person. "
+    "related": "To be rejected / to be dumped — to have one's romantic confession or relationship refused or ended by the other person. ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1713",
@@ -41394,7 +43498,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Reserving Shinkansen seats made the trip so relaxed and easy.<br/>B: Sitting comfortably without worrying about crowds is easy on the body.",
       "fr": "A: Reserving Shinkansen seats made the trip so relaxed and easy.<br/>B: Sitting comfortably without worrying about crowds is easy on the body."
     },
-    "related": "Easy / comfortable / relaxed — describes something that requires little effort, causes no stress, or is physically comfo"
+    "related": "Easy / comfortable / relaxed — describes something that requires little effort, causes no stress, or is physically comfo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1714",
@@ -41419,7 +43524,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I want best friends to talk sincerely with, not just superficial acquaintances.<br/>B: If you open your heart, deep bonds will surely blossom.",
       "fr": "A: I want best friends to talk sincerely with, not just superficial acquaintances.<br/>B: If you open your heart, deep bonds will surely blossom."
     },
-    "related": "Superficial / surface-level — describing something that only deals with the outside or outward appearance, without depth"
+    "related": "Superficial / surface-level — describing something that only deals with the outside or outward appearance, without depth",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1715",
@@ -41444,7 +43550,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The entire town was under water.",
       "fr": "The entire town was under water."
     },
-    "related": "The whole / overall / entire — referring to something in its entirety, as a complete unit."
+    "related": "The whole / overall / entire — referring to something in its entirety, as a complete unit.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1716",
@@ -41469,7 +43576,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's such a shame that the anticipated fireworks were cancelled by typhoon.<br/>B: Really unfortunate! Let's look forward to next year's event.",
       "fr": "A: It's such a shame that the anticipated fireworks were cancelled by typhoon.<br/>B: Really unfortunate! Let's look forward to next year's event."
     },
-    "related": "That's a shame / how unfortunate / I'm disappointed — expresses regret, disappointment, or sympathy about something that"
+    "related": "That's a shame / how unfortunate / I'm disappointed — expresses regret, disappointment, or sympathy about something that",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1717",
@@ -41494,7 +43602,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢份資料，聽日之前搞唔搞得掂呀？<br/>B: 可以，我會盡量趕得切。",
       "fr": "A: Pensez-vous pouvoir terminer ce document d'ici demain ?<br/>B: Oui, je me débrouillerai pour être à temps."
     },
-    "related": "Does it seem like you can do it? / Do you think you'll be able to? — asking whether something looks achievable or within"
+    "related": "Does it seem like you can do it? / Do you think you'll be able to? — asking whether something looks achievable or within",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1718",
@@ -41519,7 +43628,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For tomorrow's dinner, does it seem like you can make homemade gyoza?<br/>B: Yes, ingredients are ready so I can make them deliciously!",
       "fr": "A: For tomorrow's dinner, does it seem like you can make homemade gyoza?<br/>B: Yes, ingredients are ready so I can make them deliciously!"
     },
-    "related": "Does it seem like you can make it? / Do you think you'll be able to make it? — asking whether making or creating somethi"
+    "related": "Does it seem like you can make it? / Do you think you'll be able to make it? — asking whether making or creating somethi",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1719",
@@ -41544,7 +43654,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Any guest can feel free to use this Wi-Fi however they like.<br/>B: Being free to use it without passwords is appreciated.",
       "fr": "A: Any guest can feel free to use this Wi-Fi however they like.<br/>B: Being free to use it without passwords is appreciated."
     },
-    "related": "Feel free to use it / you can use it however you like — giving someone open permission to use something without restrict"
+    "related": "Feel free to use it / you can use it however you like — giving someone open permission to use something without restrict",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1720",
@@ -41569,7 +43680,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He dislikes vegetables and reportedly only eats meat.<br/>B: You worry slightly whether his nutrition balance gets skewed.",
       "fr": "A: He dislikes vegetables and reportedly only eats meat.<br/>B: You worry slightly whether his nutrition balance gets skewed."
     },
-    "related": "〜だけ食べる"
+    "related": "〜だけ食べる",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1721",
@@ -41594,7 +43706,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Continuing daily stretches gradually improves body flexibility.<br/>B: Posture will improve and shoulder stiffness will clear up.",
       "fr": "A: Continuing daily stretches gradually improves body flexibility.<br/>B: Posture will improve and shoulder stiffness will clear up."
     },
-    "related": "To get better / to improve — describes improvement in health, quality, a situation, or skill. 良くなる written in kanji."
+    "related": "To get better / to improve — describes improvement in health, quality, a situation, or skill. 良くなる written in kanji.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1722",
@@ -41619,7 +43732,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 堅持每日散步快步行之後，我體重輕咗3公斤呀！<br/>B: 好犀利！健康減肥減得咁成功，真係好成績。",
       "fr": "A: En marchant régulièrement tous les jours, mon poids a baissé de trois kilos !<br/>B: Formidable ! Perdre du poids de façon saine est une vraie réussite."
     },
-    "related": "Body weight — the measurement of how much a person's body weighs."
+    "related": "Body weight — the measurement of how much a person's body weighs.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1723",
@@ -41644,7 +43758,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's only a slight cold.",
       "fr": "It's only a slight cold."
     },
-    "related": "Light (in weight) / mild / minor — describes something low in weight, or used figuratively for something not serious."
+    "related": "Light (in weight) / mild / minor — describes something low in weight, or used figuratively for something not serious.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1724",
@@ -41669,7 +43784,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "裝滿教科書同筆記嘅背囊好重，重到壓住個膊頭。",
       "fr": "Le sac à dos rempli de manuels et de cahiers est si lourd qu’il s’enfonce dans les épaules."
     },
-    "related": "Heavy (in weight) / serious / burdensome — describes something with significant weight, or figuratively something seriou"
+    "related": "Heavy (in weight) / serious / burdensome — describes something with significant weight, or figuratively something seriou",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1725",
@@ -41694,7 +43810,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "This adds to my troubles.",
       "fr": "This adds to my troubles."
     },
-    "related": "To increase / to grow in number or amount — intransitive; the number or quantity goes up on its own."
+    "related": "To increase / to grow in number or amount — intransitive; the number or quantity goes up on its own.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1726",
@@ -41719,7 +43836,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Travel by train has been on the decrease.",
       "fr": "Travel by train has been on the decrease."
     },
-    "related": "To decrease / to reduce in number or amount — intransitive; the quantity goes down on its own."
+    "related": "To decrease / to reduce in number or amount — intransitive; the quantity goes down on its own.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1727",
@@ -41744,7 +43862,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Despite looking slim, I was diagnosed with hidden obesity due to high body fat.<br/>B: Start exercises to build muscle and boost basal metabolism!",
       "fr": "A: Despite looking slim, I was diagnosed with hidden obesity due to high body fat.<br/>B: Start exercises to build muscle and boost basal metabolism!"
     },
-    "related": "Skinny fat / hidden obesity — a condition where a person appears slim or normal weight but has a high proportion of body"
+    "related": "Skinny fat / hidden obesity — a condition where a person appears slim or normal weight but has a high proportion of body",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1728",
@@ -41769,7 +43888,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It was yard work in the heat, but I did it while taking breaks.<br/>B: Working with rest in between prevented heatstroke.",
       "fr": "A: It was yard work in the heat, but I did it while taking breaks.<br/>B: Working with rest in between prevented heatstroke."
     },
-    "related": "I did it while taking breaks / I did it with rest in between — 〜ながら expresses doing two things simultaneously, but 休みながら"
+    "related": "I did it while taking breaks / I did it with rest in between — 〜ながら expresses doing two things simultaneously, but 休みながら",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1729",
@@ -41794,7 +43914,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The price rose.",
       "fr": "The price rose."
     },
-    "related": "Prices / cost of living — the general level of prices for goods and services in a region or country."
+    "related": "Prices / cost of living — the general level of prices for goods and services in a region or country.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1730",
@@ -41819,7 +43940,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If rules are overly simple, the game becomes boring.<br/>B: Having moderate challenge keeps you hooked and entertained.",
       "fr": "A: If rules are overly simple, the game becomes boring.<br/>B: Having moderate challenge keeps you hooked and entertained."
     },
-    "related": "To become boring / to lose interest — describes something that was enjoyable or interesting becoming dull or unengaging "
+    "related": "To become boring / to lose interest — describes something that was enjoyable or interesting becoming dull or unengaging ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1731",
@@ -41844,7 +43966,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Japanese and Korean share many similarities in word order and grammar.<br/>B: Having many points of resemblance makes parts easier to learn.",
       "fr": "A: Japanese and Korean share many similarities in word order and grammar.<br/>B: Having many points of resemblance makes parts easier to learn."
     },
-    "related": "Similarity / point of resemblance — a specific aspect in which two things are alike. Formal and analytical; used in comp"
+    "related": "Similarity / point of resemblance — a specific aspect in which two things are alike. Formal and analytical; used in comp",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1732",
@@ -41869,7 +43992,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is the image of his father.",
       "fr": "He is the image of his father."
     },
-    "related": "Exactly alike / a spitting image / identical in appearance — describes something or someone that looks almost exactly th"
+    "related": "Exactly alike / a spitting image / identical in appearance — describes something or someone that looks almost exactly th",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1733",
@@ -41894,7 +44018,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is not qualified to take the examination.",
       "fr": "He is not qualified to take the examination."
     },
-    "related": "Qualification / licence / credential — an officially recognised certification that shows a person has the required knowl"
+    "related": "Qualification / licence / credential — an officially recognised certification that shows a person has the required knowl",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1734",
@@ -41919,7 +44044,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When summer fatigue strikes, you crave light refreshing tastes like pickles.<br/>B: Clean flavors of lemon and pickled plums revive appetite.",
       "fr": "A: When summer fatigue strikes, you crave light refreshing tastes like pickles.<br/>B: Clean flavors of lemon and pickled plums revive appetite."
     },
-    "related": "Light and refreshing taste / clean flavour — describes food or drink that is not heavy, greasy, or overpowering. Fresh, "
+    "related": "Light and refreshing taste / clean flavour — describes food or drink that is not heavy, greasy, or overpowering. Fresh, ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1735",
@@ -41944,7 +44070,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's a question of personal taste.",
       "fr": "It's a question of personal taste."
     },
-    "related": "Preference / taste / liking — what a person personally likes or prefers, especially regarding food, style, or aesthetics"
+    "related": "Preference / taste / liking — what a person personally likes or prefers, especially regarding food, style, or aesthetics",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1736",
@@ -41969,7 +44096,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 同新嚟嗰位同事熟絡咗未呀？<br/>B: 熟咗喇，大家喺睇戲同露營嘅興趣好夾，好快就傾得埋。",
       "fr": "A: Tu t'entends bien avec ton nouveau collègue ?<br/>B: Oui, nous partageons les mêmes centres d'intérêt comme le cinéma et le camping, le courant est passé tout de suite."
     },
-    "related": "To share the same hobbies / to have matching interests — describes two people whose leisure interests align, often makin"
+    "related": "To share the same hobbies / to have matching interests — describes two people whose leisure interests align, often makin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1737",
@@ -41994,7 +44122,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the base open day, I inspected a real military tank!<br/>B: Tanks with giant treads and heavy armor had huge impact.",
       "fr": "A: At the base open day, I inspected a real military tank!<br/>B: Tanks with giant treads and heavy armor had huge impact."
     },
-    "related": "Tank (military vehicle) — an armoured, tracked military vehicle equipped with a large gun. 戦（せん）= battle, 車（しゃ）= vehicle"
+    "related": "Tank (military vehicle) — an armoured, tracked military vehicle equipped with a large gun. 戦（せん）= battle, 車（しゃ）= vehicle",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1738",
@@ -42019,7 +44148,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'd love to stay in touch; could you share your contact details?<br/>B: Yes, let's exchange contact info using LINE QR codes!",
       "fr": "A: I'd love to stay in touch; could you share your contact details?<br/>B: Yes, let's exchange contact info using LINE QR codes!"
     },
-    "related": "Contact information / contact details — a person's phone number, email address, or other means of getting in touch."
+    "related": "Contact information / contact details — a person's phone number, email address, or other means of getting in touch.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1739",
@@ -42044,7 +44174,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "每日好勤力讀書嘅成果，終於令我收到JLPT及格合格通知書。",
       "fr": "Grâce à mes efforts réguliers au quotidien, j’ai pu recevoir mon attestation de réussite au JLPT."
     },
-    "related": "Result / outcome — what happens as a consequence of an action, process, or event."
+    "related": "Result / outcome — what happens as a consequence of an action, process, or event.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1740",
@@ -42069,7 +44200,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We are looking for lodging accommodations.",
       "fr": "We are looking for lodging accommodations."
     },
-    "related": "Facility / institution — a place built and equipped for a specific purpose, such as a care home, sports facility, school"
+    "related": "Facility / institution — a place built and equipped for a specific purpose, such as a care home, sports facility, school",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1741",
@@ -42094,7 +44226,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On weekends I value time spent together with family most.<br/>B: Spending time with loved ones is an irreplaceable treasure.",
       "fr": "A: On weekends I value time spent together with family most.<br/>B: Spending time with loved ones is an irreplaceable treasure."
     },
-    "related": "To spend time together — to pass time in the company of others, whether doing activities or simply being together."
+    "related": "To spend time together — to pass time in the company of others, whether doing activities or simply being together.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1742",
@@ -42119,7 +44252,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 諗緊下次去剪頭髮轉咩髮型好。<br/>B: 夏天喎，剪個乾淨清爽露條頸出嚟嘅Bob頭應該幾好睇。",
       "fr": "A: J'hésite sur la coiffure à demander lors de mon prochain passage chez le coiffeur.<br/>B: Comme c'est l'été, un carré court dégageant la nuque t'irait très bien."
     },
-    "related": "Hairstyle — the way hair is cut, styled, or arranged."
+    "related": "Hairstyle — the way hair is cut, styled, or arranged.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1743",
@@ -42144,7 +44278,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 個小朋友對答如流好淡定，睇落好醒目好聰明。<br/>B: 係呀，聽講雖然只係小學生，但已經睇好多好深嘅書。",
       "fr": "A: Cet enfant répond avec tellement d'assurance, il a l'air très intelligent.<br/>B: Oui, et il paraît qu'il lit déjà plein de livres complexes alors qu'il n'est qu'en primaire."
     },
-    "related": "Looks smart / seems intelligent — 〜そう expresses that something appears or seems a certain way based on appearance or imp"
+    "related": "Looks smart / seems intelligent — 〜そう expresses that something appears or seems a certain way based on appearance or imp",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1744",
@@ -42169,7 +44304,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is thoughtful and kind, and has always been popular with others.<br/>B: With a refreshing smile and sincerity, his popularity makes sense.",
       "fr": "A: He is thoughtful and kind, and has always been popular with others.<br/>B: With a refreshing smile and sincerity, his popularity makes sense."
     },
-    "related": "To be popular with the opposite sex / to be attractive to others — to naturally draw romantic or social interest from pe"
+    "related": "To be popular with the opposite sex / to be attractive to others — to naturally draw romantic or social interest from pe",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1745",
@@ -42194,7 +44330,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: She is an enormous hard worker who studies late every night.<br/>B: I respect her diligent attitude of steady effort without whining.",
       "fr": "A: She is an enormous hard worker who studies late every night.<br/>B: I respect her diligent attitude of steady effort without whining."
     },
-    "related": "Hard worker / diligent person — someone who consistently puts in effort and works hard, regardless of natural talent."
+    "related": "Hard worker / diligent person — someone who consistently puts in effort and works hard, regardless of natural talent.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1746",
@@ -42219,7 +44356,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Even if I try to connect to the internet, I can't connect.",
       "fr": "Even if I try to connect to the internet, I can't connect."
     },
-    "related": "Connection / bond / link — a relationship or tie between people, groups, or things. Can be personal, social, or conceptu"
+    "related": "Connection / bond / link — a relationship or tie between people, groups, or things. Can be personal, social, or conceptu",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1747",
@@ -42244,7 +44382,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was able to make many friends at the new school!<br/>B: Making friends with shared hobbies makes every day more fun.",
       "fr": "A: I was able to make many friends at the new school!<br/>B: Making friends with shared hobbies makes every day more fun."
     },
-    "related": "To make friends — to form new friendships. 作る is used here in the sense of \"to create / to build\" a relationship."
+    "related": "To make friends — to form new friendships. 作る is used here in the sense of \"to create / to build\" a relationship.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1748",
@@ -42269,7 +44408,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was startled when a stranger suddenly hit on me on the street.<br/>B: Being approached abruptly makes you wary. Ignoring them is best.",
       "fr": "A: I was startled when a stranger suddenly hit on me on the street.<br/>B: Being approached abruptly makes you wary. Ignoring them is best."
     },
-    "related": "To hit on someone / to approach a stranger romantically — to approach someone (usually on the street) with the intention"
+    "related": "To hit on someone / to approach a stranger romantically — to approach someone (usually on the street) with the intention",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1749",
@@ -42294,7 +44434,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Right after the new cabinet formed, polls recorded a high approval rating.<br/>B: Attention is on whether they maintain approval ratings fulfilling hopes.",
       "fr": "A: Right after the new cabinet formed, polls recorded a high approval rating.<br/>B: Attention is on whether they maintain approval ratings fulfilling hopes."
     },
-    "related": "Approval rating / support rate — the percentage of people who support or approve of a political leader, party, or policy"
+    "related": "Approval rating / support rate — the percentage of people who support or approve of a political leader, party, or policy",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1750",
@@ -42319,7 +44460,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In the arcade crane game, I won a giant stuffed bear plush toy!<br/>B: A fluffy cute stuffed animal! Let's display it on the bed.",
       "fr": "A: In the arcade crane game, I won a giant stuffed bear plush toy!<br/>B: A fluffy cute stuffed animal! Let's display it on the bed."
     },
-    "related": "Stuffed animal / plush toy — a soft toy made of fabric and stuffed with filling, shaped like an animal or character."
+    "related": "Stuffed animal / plush toy — a soft toy made of fabric and stuffed with filling, shaped like an animal or character.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1751",
@@ -42344,7 +44486,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If it's Japanese cuisine, sushi is definitely my top recommendation!<br/>B: Freshly pressed nigiri sushi is immensely popular with tourists.",
       "fr": "A: If it's Japanese cuisine, sushi is definitely my top recommendation!<br/>B: Freshly pressed nigiri sushi is immensely popular with tourists."
     },
-    "related": "If it's ~ / speaking of ~ / if that's the case — a conditional that refers back to something already mentioned or assume"
+    "related": "If it's ~ / speaking of ~ / if that's the case — a conditional that refers back to something already mentioned or assume",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1752",
@@ -42369,7 +44512,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Room tidying is such a hassle because it's too cluttered.<br/>B: Playing music and doing just 10 minutes makes surprising progress!",
       "fr": "A: Room tidying is such a hassle because it's too cluttered.<br/>B: Playing music and doing just 10 minutes makes surprising progress!"
     },
-    "related": "Troublesome / can't be bothered / such a hassle — used when something feels like too much effort or too annoying to deal"
+    "related": "Troublesome / can't be bothered / such a hassle — used when something feels like too much effort or too annoying to deal",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1753",
@@ -42394,7 +44538,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我諗緊好唔好開始箍牙呀。<br/>B: 雖然要使啲錢，但好多人都話箍咗係值得嘅。",
       "fr": "A: J'hésite à commencer l'orthodontie pour mes dents.<br/>B: Ça coûte de l'argent, mais beaucoup de gens disent qu'ils sont contents de l'avoir fait."
     },
-    "related": "Correction / straightening / orthodontics — fixing something that is crooked or misaligned. Most commonly refers to dent"
+    "related": "Correction / straightening / orthodontics — fixing something that is crooked or misaligned. Most commonly refers to dent",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1754",
@@ -42419,7 +44564,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I congratulate you on your success.",
       "fr": "I congratulate you on your success."
     },
-    "related": "Celebration / congratulations / a gift for a celebratory occasion — both the act of celebrating and a gift given to mark"
+    "related": "Celebration / congratulations / a gift for a celebratory occasion — both the act of celebrating and a gift given to mark",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1755",
@@ -42444,7 +44590,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This magazine is explained clearly for beginners.<br/>B: Targeted at newcomers with few jargons, it's very accessible.",
       "fr": "A: This magazine is explained clearly for beginners.<br/>B: Targeted at newcomers with few jargons, it's very accessible."
     },
-    "related": "Aimed at ~ / for ~ / targeted at ~ — indicates that something is designed, intended, or suited for a specific group or p"
+    "related": "Aimed at ~ / for ~ / targeted at ~ — indicates that something is designed, intended, or suited for a specific group or p",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1756",
@@ -42469,7 +44616,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Let's change the topic.",
       "fr": "Let's change the topic."
     },
-    "related": "Topic / subject of conversation — what people are talking or thinking about at a given time. Can be a conversation topic"
+    "related": "Topic / subject of conversation — what people are talking or thinking about at a given time. Can be a conversation topic",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1757",
@@ -42494,7 +44642,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When talking with someone for the first time, I get nervous.<br/>B: Even upon first meeting, smiling greetings reassure the other person.",
       "fr": "A: When talking with someone for the first time, I get nervous.<br/>B: Even upon first meeting, smiling greetings reassure the other person."
     },
-    "related": "First meeting / meeting for the first time — the occasion of encountering someone for the very first time. Often used in"
+    "related": "First meeting / meeting for the first time — the occasion of encountering someone for the very first time. Often used in",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1758",
@@ -42519,7 +44668,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You make an effort too!",
       "fr": "You make an effort too!"
     },
-    "related": "Effort / hard work — consistent energy and commitment put into achieving something."
+    "related": "Effort / hard work — consistent energy and commitment put into achieving something.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1759",
@@ -42544,7 +44694,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He has a nice personality.",
       "fr": "He has a nice personality."
     },
-    "related": "Personality / character — the combination of qualities and traits that make up a person's usual way of thinking, feeling"
+    "related": "Personality / character — the combination of qualities and traits that make up a person's usual way of thinking, feeling",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1760",
@@ -42569,7 +44720,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: She is wonderful facing any challenge with positive thinking.<br/>B: Viewing things positively without negative thoughts is worth emulating.",
       "fr": "A: She is wonderful facing any challenge with positive thinking.<br/>B: Viewing things positively without negative thoughts is worth emulating."
     },
-    "related": "Positive / negative — borrowed from English. Used to describe outlooks, thinking, energy, and attitudes. Very common in "
+    "related": "Positive / negative — borrowed from English. Used to describe outlooks, thinking, energy, and attitudes. Very common in ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1761",
@@ -42594,7 +44746,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "You should keep away from bad company.",
       "fr": "You should keep away from bad company."
     },
-    "related": "To avoid / to stay away from / to dodge — to deliberately keep away from something or someone, or to sidestep a situatio"
+    "related": "To avoid / to stay away from / to dodge — to deliberately keep away from something or someone, or to sidestep a situatio",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1762",
@@ -42619,7 +44772,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He has a resilient personality, never discouraged by harsh criticism.<br/>B: Resilience to keep trying without fear of failure is a business strength.",
       "fr": "A: He has a resilient personality, never discouraged by harsh criticism.<br/>B: Resilience to keep trying without fear of failure is a business strength."
     },
-    "related": "Resilient / tough / able to take a hit — describes a person who can withstand criticism, setbacks, or hard knocks withou"
+    "related": "Resilient / tough / able to take a hit — describes a person who can withstand criticism, setbacks, or hard knocks withou",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1763",
@@ -42644,7 +44798,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Keep your chin up.",
       "fr": "Keep your chin up."
     },
-    "related": "To feel down / to get depressed / to be dejected — to sink into a low or gloomy emotional state, usually after something"
+    "related": "To feel down / to get depressed / to be dejected — to sink into a low or gloomy emotional state, usually after something",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1764",
@@ -42669,7 +44824,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I impulsively rebelled against my parents' unreasonable orders.<br/>B: Communicating your own views firmly is also proof of maturity.",
       "fr": "A: I impulsively rebelled against my parents' unreasonable orders.<br/>B: Communicating your own views firmly is also proof of maturity."
     },
-    "related": "To rebel / to defy / to resist — to actively oppose authority, rules, or someone in charge. More deliberate than 逆らう."
+    "related": "To rebel / to defy / to resist — to actively oppose authority, rules, or someone in charge. More deliberate than 逆らう.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1765",
@@ -42694,7 +44850,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My junior-high son entered his rebellious phase and talks less.<br/>B: The rebellious phase is an essential step toward independence everyone goes through.",
       "fr": "A: My junior-high son entered his rebellious phase and talks less.<br/>B: The rebellious phase is an essential step toward independence everyone goes through."
     },
-    "related": "Rebellious phase / period of defiance — the stage in a child's development (typically early adolescence) when they resis"
+    "related": "Rebellious phase / period of defiance — the stage in a child's development (typically early adolescence) when they resis",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1766",
@@ -42719,7 +44876,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Overcoming numerous hardships, we finally made the business profitable!<br/>B: That's the reward of enduring adversity without quitting. True respect.",
       "fr": "A: Overcoming numerous hardships, we finally made the business profitable!<br/>B: That's the reward of enduring adversity without quitting. True respect."
     },
-    "related": "Hardship / suffering / adversity — serious difficulties or trials that require great endurance to overcome. More formal "
+    "related": "Hardship / suffering / adversity — serious difficulties or trials that require great endurance to overcome. More formal ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1767",
@@ -42744,7 +44902,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Autumn is cool.",
       "fr": "Autumn is cool."
     },
-    "related": "Cool / pleasantly cool — describes a temperature that feels refreshingly cool and comfortable, not cold."
+    "related": "Cool / pleasantly cool — describes a temperature that feels refreshingly cool and comfortable, not cold.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1768",
@@ -42769,7 +44928,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I'll be waiting right outside the station ticket gate!<br/>B: I'll hurry over! Sorry for keeping you waiting.",
       "fr": "A: I'll be waiting right outside the station ticket gate!<br/>B: I'll hurry over! Sorry for keeping you waiting."
     },
-    "related": "I am waiting / I will be waiting — the te-form + いる of 待つ (to wait), expressing an ongoing or expected state of waiting."
+    "related": "I am waiting / I will be waiting — the te-form + いる of 待つ (to wait), expressing an ongoing or expected state of waiting.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1769",
@@ -42794,7 +44954,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It was a wild goose chase.",
       "fr": "It was a wild goose chase."
     },
-    "related": "Wasteful / pointless / a waste — describing something that produces no useful result, or a resource spent without benefi"
+    "related": "Wasteful / pointless / a waste — describing something that produces no useful result, or a resource spent without benefi",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1770",
@@ -42819,7 +44980,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "公司入面好可靠嘅前輩好細心咁教我做嘢流程同寫Business Email。",
       "fr": "Un collègue aîné très fiable m’a gentiment appris les procédures de travail et la rédaction d’e-mails professionnels."
     },
-    "related": "Senior / upperclassman / someone more experienced — a person who is senior to you in school, club, or workplace. One of "
+    "related": "Senior / upperclassman / someone more experienced — a person who is senior to you in school, club, or workplace. One of ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1771",
@@ -42844,7 +45006,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "幫啱啱入職好勤力嘅後輩Set好部電腦同介紹公司嘅規矩。",
       "fr": "J’ai guidé le jeune collègue enthousiaste nouvellement embauché pour la configuration de son ordinateur et les règles internes."
     },
-    "related": "Junior / someone less experienced — a person who is junior to you in school, club, or workplace. The counterpart to 先輩."
+    "related": "Junior / someone less experienced — a person who is junior to you in school, club, or workplace. The counterpart to 先輩.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1772",
@@ -42869,7 +45032,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today's operation will be reserved for private hire from 6:00 PM onwards.<br/>B: So entry isn't allowed after 6:00. Let's enter early.",
       "fr": "A: Today's operation will be reserved for private hire from 6:00 PM onwards.<br/>B: So entry isn't allowed after 6:00. Let's enter early."
     },
-    "related": "From ~ onwards / after ~ — marks a point in time and refers to everything from that point forward, including that point "
+    "related": "From ~ onwards / after ~ — marks a point in time and refers to everything from that point forward, including that point ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1773",
@@ -42894,7 +45058,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Unable to sense the situation.",
       "fr": "Unable to sense the situation."
     },
-    "related": "Air / atmosphere / mood of a situation — literally the air we breathe, but very commonly used figuratively to mean the v"
+    "related": "Air / atmosphere / mood of a situation — literally the air we breathe, but very commonly used figuratively to mean the v",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1774",
@@ -42919,7 +45084,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我想日文再好啲呀。<br/>B: 每日睇少少新聞試下啦！",
       "fr": "A: Je veux m'améliorer en japonais.<br/>B: Ce serait bien de lire un peu les nouvelles tous les jours !"
     },
-    "related": "You should ~ / why don't you ~ / it'd be good if you ~ — a casual, friendly way to give advice or a suggestion. Softer t"
+    "related": "You should ~ / why don't you ~ / it'd be good if you ~ — a casual, friendly way to give advice or a suggestion. Softer t",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1775",
@@ -42944,7 +45110,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "如果嗰陣時同佢講自己嘅真心話就好喇，我到依家都仲好後悔。",
       "fr": "Je regrette encore profondément de ne pas lui avoir exprimé mes sentiments sincères à ce moment-là."
     },
-    "related": "Regret — the feeling of wishing you had done something differently; remorse over a past choice or action."
+    "related": "Regret — the feeling of wishing you had done something differently; remorse over a past choice or action.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1776",
@@ -42969,7 +45136,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "趁住病況仲未惡化到太遲之前，早啲去睇醫生驗身啦。",
       "fr": "Avant que la maladie n’empire et qu’il ne soit trop tard, consultez rapidement un médecin pour faire des examens."
     },
-    "related": "Too late / past the point of no return — the situation where action is no longer able to prevent or fix something becaus"
+    "related": "Too late / past the point of no return — the situation where action is no longer able to prevent or fix something becaus",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1777",
@@ -42994,7 +45162,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The teacher's parting words at graduation still deeply resonate with me.<br/>B: Warm words from the heart continue to touch you forever.",
       "fr": "A: The teacher's parting words at graduation still deeply resonate with me.<br/>B: Warm words from the heart continue to touch you forever."
     },
-    "related": "To resonate / to touch the heart / to move someone deeply — describes words, music, or experiences that deeply affect on"
+    "related": "To resonate / to touch the heart / to move someone deeply — describes words, music, or experiences that deeply affect on",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1778",
@@ -43019,7 +45188,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In front of a difficult boss, I pretended to know what I was doing.<br/>B: Asking honestly rather than pretending to know brings peace of mind later.",
       "fr": "A: In front of a difficult boss, I pretended to know what I was doing.<br/>B: Asking honestly rather than pretending to know brings peace of mind later."
     },
-    "related": "To pretend / to act like — behaving in a certain way to make others believe something that is not true."
+    "related": "To pretend / to act like — behaving in a certain way to make others believe something that is not true.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1779",
@@ -43044,7 +45214,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "我好認同你嘅諗法。",
       "fr": "Je suis tout à fait d'accord avec votre façon de penser."
     },
-    "related": "共感する（きょうかんする）"
+    "related": "共感する（きょうかんする）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1780",
@@ -43069,7 +45240,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Due to budget constraints, we decided to make concessions on some design specs.<br/>B: Finding compromise points within constraints is also professional work.",
       "fr": "A: Due to budget constraints, we decided to make concessions on some design specs.<br/>B: Finding compromise points within constraints is also professional work."
     },
-    "related": "To compromise / to make concessions — to accept something less than ideal in order to reach an agreement or settle a sit"
+    "related": "To compromise / to make concessions — to accept something less than ideal in order to reach an agreement or settle a sit",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1781",
@@ -43094,7 +45266,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When working in a team, respecting differing values of each other is vital.<br/>B: Mutual respect for differing opinions produces better ideas.",
       "fr": "A: When working in a team, respecting differing values of each other is vital.<br/>B: Mutual respect for differing opinions produces better ideas."
     },
-    "related": "To respect / to value / to honour — to recognise and treat something or someone as important and worthy of consideration"
+    "related": "To respect / to value / to honour — to recognise and treat something or someone as important and worthy of consideration",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1782",
@@ -43119,7 +45292,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The ticket holds good for three days.",
       "fr": "The ticket holds good for three days."
     },
-    "related": "Valid / effective / in effect — describes something that is currently active, legally recognised, or produces a meaningf"
+    "related": "Valid / effective / in effect — describes something that is currently active, legally recognised, or produces a meaningf",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1783",
@@ -43144,7 +45318,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This meal is delicious, but the amount might be small for men.<br/>B: If large rice servings are free, let's order extra.",
       "fr": "A: This meal is delicious, but the amount might be small for men.<br/>B: If large rice servings are free, let's order extra."
     },
-    "related": "The amount is small / there isn't much / not enough of it — describing a quantity that is low or insufficient."
+    "related": "The amount is small / there isn't much / not enough of it — describing a quantity that is low or insufficient.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1784",
@@ -43169,7 +45344,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我嚟探好耐冇見、住得好遠嘅嫲嫲呀！<br/>B: 你特登嚟畀佢見吓你精神嘅樣，嫲嫲一定好開心。",
       "fr": "A: Je suis venu voir ma grand-mère qui vit loin pour la première fois depuis longtemps !<br/>B: Ta grand-mère doit être ravie que tu sois venu lui montrer ton visage en pleine forme."
     },
-    "related": "Grammar correction: to express coming in order to do something, use the verb stem (ます-form without ます) + に来た/来る, not the"
+    "related": "Grammar correction: to express coming in order to do something, use the verb stem (ます-form without ます) + に来た/来る, not the",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1785",
@@ -43194,7 +45370,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The beef stew simmered spending 2 hours is finally complete!<br/>B: Meat simmered taking so much time melts right in your mouth.",
       "fr": "A: The beef stew simmered spending 2 hours is finally complete!<br/>B: Meat simmered taking so much time melts right in your mouth."
     },
-    "related": "Taking ~ hours / spending ~ hours on — expresses that a certain amount of time was spent or invested in doing something."
+    "related": "Taking ~ hours / spending ~ hours on — expresses that a certain amount of time was spent or invested in doing something.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1786",
@@ -43219,7 +45396,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I weeded the yard at my parents' home clean.<br/>B: Mowing weeds in the heat—great job on the hard work!",
       "fr": "A: Over the weekend I weeded the yard at my parents' home clean.<br/>B: Mowing weeds in the heat—great job on the hard work!"
     },
-    "related": "Grass cutting / mowing / weeding — the act of cutting or trimming overgrown grass and weeds, typically in gardens, field"
+    "related": "Grass cutting / mowing / weeding — the act of cutting or trimming overgrown grass and weeds, typically in gardens, field",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1787",
@@ -43244,7 +45422,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "That doesn't ring a bell.",
       "fr": "That doesn't ring a bell."
     },
-    "related": "To win (a lottery / prize) / to hit / to be correct / to be assigned — a versatile verb with several meanings depending "
+    "related": "To win (a lottery / prize) / to hit / to be correct / to be assigned — a versatile verb with several meanings depending ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1788",
@@ -43269,7 +45448,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I have a driver's license.",
       "fr": "I have a driver's license."
     },
-    "related": "Licence / permit — an official authorisation to do something, most commonly a driving licence, but also used for other p"
+    "related": "Licence / permit — an official authorisation to do something, most commonly a driving licence, but also used for other p",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1789",
@@ -43294,7 +45474,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 之前一路留長頭髮，竟然剪咗短髮！<br/>B: 係呀，做運動嗰陣唔會阻住，吹頭又方便好多。",
       "fr": "A: Tu as toujours eu les cheveux longs, tu es passé aux cheveux courts !<br/>B: Oui, ça ne me gêne pas pour faire du sport et c'est bien plus rapide à sécher."
     },
-    "related": "Short hair — hair that is cut short, used especially for men but also applicable to women."
+    "related": "Short hair — hair that is cut short, used especially for men but also applicable to women.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1790",
@@ -43319,7 +45500,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the salon, I had my bangs trimmed slightly shorter.<br/>B: Seeing your eyebrows makes your expression bright and refreshing!",
       "fr": "A: At the salon, I had my bangs trimmed slightly shorter.<br/>B: Seeing your eyebrows makes your expression bright and refreshing!"
     },
-    "related": "Fringe / bangs — the section of hair that falls over the forehead."
+    "related": "Fringe / bangs — the section of hair that falls over the forehead.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1791",
@@ -43344,7 +45526,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Putting up your bangs to show your forehead gives a mature impression.<br/>B: Cool and clean, it suits you very well.",
       "fr": "A: Putting up your bangs to show your forehead gives a mature impression.<br/>B: Cool and clean, it suits you very well."
     },
-    "related": "Forehead — the area of the face between the eyebrows and the hairline. Often used casually; the more formal word is 額（ひた"
+    "related": "Forehead — the area of the face between the eyebrows and the hairline. Often used casually; the more formal word is 額（ひた",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1792",
@@ -43369,7 +45552,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My hair feeling dry and coarse from UV rays and dyeing is a worry.<br/>B: Applying hair oil and moisturizing treatments keeps it sleek.",
       "fr": "A: My hair feeling dry and coarse from UV rays and dyeing is a worry.<br/>B: Applying hair oil and moisturizing treatments keeps it sleek."
     },
-    "related": "To be dry and rough / to feel coarse and lifeless — describes the texture of hair (or skin, food) that lacks moisture an"
+    "related": "To be dry and rough / to feel coarse and lifeless — describes the texture of hair (or skin, food) that lacks moisture an",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1793",
@@ -43394,7 +45578,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 大風到吹到我好辛苦整好個頭亂晒。<br/>B: 真係喎。去洗手間對住塊鏡梳返好佢啦。",
       "fr": "A: Le vent soufflait si fort que mes cheveux soigneusement coiffés sont devenus tout ébouriffés.<br/>B: C'est vrai. Allons arranger ça devant le miroir des toilettes."
     },
-    "related": "Messy and dishevelled / unkempt — describes hair (or fur, or surfaces) that is untidy, sticking out in all directions, a"
+    "related": "Messy and dishevelled / unkempt — describes hair (or fur, or surfaces) that is untidy, sticking out in all directions, a",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1794",
@@ -43419,7 +45604,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Entering the theme park haunted house, I screamed non-stop in terror!<br/>B: Haunted houses where props jump out of the dark are thrilling.",
       "fr": "A: Entering the theme park haunted house, I screamed non-stop in terror!<br/>B: Haunted houses where props jump out of the dark are thrilling."
     },
-    "related": "Haunted house — a type of attraction, usually at amusement parks or summer festivals, designed to scare visitors with gh"
+    "related": "Haunted house — a type of attraction, usually at amusement parks or summer festivals, designed to scare visitors with gh",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1795",
@@ -43444,7 +45630,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's a long drive, so let's take turns driving along the way.<br/>B: Agreed! Taking turns every 2 hours avoids exhaustion.",
       "fr": "A: It's a long drive, so let's take turns driving along the way.<br/>B: Agreed! Taking turns every 2 hours avoids exhaustion."
     },
-    "related": "Taking turns / in rotation — describes people alternating doing a task or role, so each person does it for a period befo"
+    "related": "Taking turns / in rotation — describes people alternating doing a task or role, so each person does it for a period befo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1796",
@@ -43469,7 +45656,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Actually visiting the place changed my thinking from preconceptions.<br/>B: Experiencing things with your own eyes broadens perspectives.",
       "fr": "A: Actually visiting the place changed my thinking from preconceptions.<br/>B: Experiencing things with your own eyes broadens perspectives."
     },
-    "related": "My thinking has changed / I've changed my mind — expresses that one's opinion, perspective, or plan has shifted from wha"
+    "related": "My thinking has changed / I've changed my mind — expresses that one's opinion, perspective, or plan has shifted from wha",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1797",
@@ -43494,7 +45682,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "緊張嗰陣會不由自主咁摸頭髮，係我由細到大嘅小動作慣性。",
       "fr": "Me toucher inconsciemment les cheveux quand je suis stressé est une habitude qui remonte à mon enfance."
     },
-    "related": "Habit / quirk / tendency — a habitual behaviour or characteristic, whether conscious or not. Can refer to personal manne"
+    "related": "Habit / quirk / tendency — a habitual behaviour or characteristic, whether conscious or not. Can refer to personal manne",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1798",
@@ -43519,7 +45708,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Now let's talk it up.",
       "fr": "Now let's talk it up."
     },
-    "related": "Advertisement / promotion / publicity — making something widely known, usually for commercial purposes."
+    "related": "Advertisement / promotion / publicity — making something widely known, usually for commercial purposes.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1799",
@@ -43544,7 +45734,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你邊度鄉下㗎？<br/>B: 我喺被大海同高山圍繞、大自然好豐富嘅長野縣長大㗎。",
       "fr": "A: D'où venez-vous ?<br/>B: J'ai grandi dans la préfecture de Nagano, riche en nature et entourée par la mer et les montagnes."
     },
-    "related": "\"Grew up in/at ~\" — expresses where or in what environment someone was raised."
+    "related": "\"Grew up in/at ~\" — expresses where or in what environment someone was raised.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1800",
@@ -43569,7 +45760,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末我淨係喺屋企睇書。<br/>B: 靜靜地沉浸喺自己鍾意嘅書入面，咁嘅假期都好奢侈呀。",
       "fr": "A: Je n'ai rien fait d'autre que lire à la maison ce week-end.<br/>B: Passer un jour de congé tranquillement plongé dans l'univers de son livre préféré est un luxe, n'est-ce pas ?"
     },
-    "related": "\"Only do ~\" — しか + negative verb, emphasizing limitation, often with a nuance of insufficiency."
+    "related": "\"Only do ~\" — しか + negative verb, emphasizing limitation, often with a nuance of insufficiency.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1801",
@@ -43594,7 +45786,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Get ready in advance.",
       "fr": "Get ready in advance."
     },
-    "related": "\"In advance / beforehand\" — doing something ahead of time, before it's needed."
+    "related": "\"In advance / beforehand\" — doing something ahead of time, before it's needed.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1802",
@@ -43619,7 +45812,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗唔好擺到雪櫃深處啲菜爛晒，我成日都會留意住拿拿臨煮嚟食。",
       "fr": "Pour éviter que les légumes achetés ne pourrissent au fond du réfrigérateur, je les consomme régulièrement."
     },
-    "related": "To rot / to spoil / to go bad — food or organic matter decaying. Can also be used figuratively (spirit \"rotting,\" feelin"
+    "related": "To rot / to spoil / to go bad — food or organic matter decaying. Can also be used figuratively (spirit \"rotting,\" feelin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1803",
@@ -43644,7 +45838,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I bought too many vegetables and let them rot in the back of the fridge.<br/>B: Buying only what you can eat and using them early is key.",
       "fr": "A: I bought too many vegetables and let them rot in the back of the fridge.<br/>B: Buying only what you can eat and using them early is key."
     },
-    "related": "To let/make something rot — the causative form of 腐る, meaning to cause or allow food (or other matter) to spoil, often t"
+    "related": "To let/make something rot — the causative form of 腐る, meaning to cause or allow food (or other matter) to spoil, often t",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1804",
@@ -43669,7 +45864,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Over the weekend I prepped pre-made meals in batches.<br/>B: Just heating them up on weekday nights is so convenient!",
       "fr": "A: Over the weekend I prepped pre-made meals in batches.<br/>B: Just heating them up on weekday nights is so convenient!"
     },
-    "related": "Pre-made meals / meal prep — food made ahead of time and stored to eat later."
+    "related": "Pre-made meals / meal prep — food made ahead of time and stored to eat later.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1805",
@@ -43694,7 +45890,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The city has a large population.",
       "fr": "The city has a large population."
     },
-    "related": "Population — the number of people in a country, region, or area."
+    "related": "Population — the number of people in a country, region, or area.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1806",
@@ -43719,7 +45916,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I think it needs a tune-up.",
       "fr": "I think it needs a tune-up."
     },
-    "related": "Repair — fixing something broken, typically machines, vehicles, or appliances."
+    "related": "Repair — fixing something broken, typically machines, vehicles, or appliances.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1807",
@@ -43744,7 +45942,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A typhoon is approaching, so let's finish grocery shopping ahead of time.<br/>B: Agreed, let's act before the rain and wind get strong.",
       "fr": "A: A typhoon is approaching, so let's finish grocery shopping ahead of time.<br/>B: Agreed, let's act before the rain and wind get strong."
     },
-    "related": "Early / ahead of time — doing something a bit sooner than the standard time, often as a precaution."
+    "related": "Early / ahead of time — doing something a bit sooner than the standard time, often as a precaution.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1808",
@@ -43769,7 +45968,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "My weight has not increased or decreased for several years.",
       "fr": "My weight has not increased or decreased for several years."
     },
-    "related": "Increase and decrease / fluctuation — the rise and fall of a quantity, like a number, weight, or price."
+    "related": "Increase and decrease / fluctuation — the rise and fall of a quantity, like a number, weight, or price.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1809",
@@ -43794,7 +45994,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Staying up late makes me unable to wake up, falling into a vicious cycle.<br/>B: Let's reset at some point and restore your daily rhythm.",
       "fr": "A: Staying up late makes me unable to wake up, falling into a vicious cycle.<br/>B: Let's reset at some point and restore your daily rhythm."
     },
-    "related": "Vicious cycle — a repeating negative pattern where one problem feeds into another that leads right back to the first."
+    "related": "Vicious cycle — a repeating negative pattern where one problem feeds into another that leads right back to the first.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1810",
@@ -43819,7 +46020,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Even on a diet, carbs like rice and bread must be consumed moderately.<br/>B: Cutting carbs drastically causes energy shortages.",
       "fr": "A: Even on a diet, carbs like rice and bread must be consumed moderately.<br/>B: Cutting carbs drastically causes energy shortages."
     },
-    "related": "Carbohydrates — a major nutrient group (starches and sugars), often mentioned in the context of diet."
+    "related": "Carbohydrates — a major nutrient group (starches and sugars), often mentioned in the context of diet.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1811",
@@ -43844,7 +46046,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After strength training, replenish protein with chicken breast or eggs.<br/>B: High-quality protein is indispensable for muscle repair.",
       "fr": "A: After strength training, replenish protein with chicken breast or eggs.<br/>B: High-quality protein is indispensable for muscle repair."
     },
-    "related": "Protein — a key nutrient found in meat, fish, eggs, and beans, important for building and maintaining the body."
+    "related": "Protein — a key nutrient found in meat, fish, eggs, and beans, important for building and maintaining the body.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1812",
@@ -43869,7 +46072,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Knowledge is power.",
       "fr": "Knowledge is power."
     },
-    "related": "Knowledge — information or understanding gained through learning or experience."
+    "related": "Knowledge — information or understanding gained through learning or experience.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1813",
@@ -43894,7 +46098,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Shall we pay separately, or split the bill?<br/>B: Let's split the bill and put in 2,000 yen each.",
       "fr": "A: Shall we pay separately, or split the bill?<br/>B: Let's split the bill and put in 2,000 yen each."
     },
-    "related": "Splitting the bill — dividing a cost, usually for a meal, equally among everyone present."
+    "related": "Splitting the bill — dividing a cost, usually for a meal, equally among everyone present.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1814",
@@ -43919,7 +46124,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I want to focus on studying, so please don't disturb and stay quiet.<br/>B: Sorry, sorry! I will move to another room.",
       "fr": "A: I want to focus on studying, so please don't disturb and stay quiet.<br/>B: Sorry, sorry! I will move to another room."
     },
-    "related": "To get in the way / to disturb — interfering with someone's work, plans, or space."
+    "related": "To get in the way / to disturb — interfering with someone's work, plans, or space.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1815",
@@ -43944,7 +46150,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If just going to the nearby convenience store, I go out with no makeup.<br/>B: With a mask and hat, bare face doesn't bother you at all.",
       "fr": "A: If just going to the nearby convenience store, I go out with no makeup.<br/>B: With a mask and hat, bare face doesn't bother you at all."
     },
-    "related": "Bare face / no makeup — a face without any makeup on."
+    "related": "Bare face / no makeup — a face without any makeup on.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1816",
@@ -43969,7 +46176,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Where are you heading all dressed up today?<br/>B: I'm going to a hotel afternoon tea with friends after a long time!",
       "fr": "A: Where are you heading all dressed up today?<br/>B: I'm going to a hotel afternoon tea with friends after a long time!"
     },
-    "related": "To dress up / to make an effort with your look — putting effort into fashion or styling."
+    "related": "To dress up / to make an effort with your look — putting effort into fashion or styling.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1817",
@@ -43994,7 +46202,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Slow but steady wins the race.",
       "fr": "Slow but steady wins the race."
     },
-    "related": "Continuation / persistence — keeping something going over time without stopping, often used for habits or ongoing effort"
+    "related": "Continuation / persistence — keeping something going over time without stopping, often used for habits or ongoing effort",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1818",
@@ -44019,7 +46228,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你一個禮拜去幾次健身室呀？<br/>B: 我盡量一個禮拜去兩三次啦。",
       "fr": "A: Combien de fois par semaine allez-vous à la salle de sport ?<br/>B: J'essaie d'y aller deux ou trois fois par semaine."
     },
-    "related": "\"~ times per week\" — same meaning as 週に〜回, but spelling out 一週間 (\"one week\") explicitly rather than using the shorter 週."
+    "related": "\"~ times per week\" — same meaning as 週に〜回, but spelling out 一週間 (\"one week\") explicitly rather than using the shorter 週.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1819",
@@ -44044,7 +46254,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Now that exams are over, my study motivation has dropped.<br/>B: Take a short break and refresh; your motivation will rise again!",
       "fr": "A: Now that exams are over, my study motivation has dropped.<br/>B: Take a short break and refresh; your motivation will rise again!"
     },
-    "related": "Motivation goes up / goes down — モチベ is a casual shortened form of モチベーション (motivation), very common in everyday speech."
+    "related": "Motivation goes up / goes down — モチベ is a casual shortened form of モチベーション (motivation), very common in everyday speech.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1820",
@@ -44069,7 +46280,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Did you report the results of today's meeting to the department head?<br/>B: Yes, I reported the agreed decisions by email.",
       "fr": "A: Did you report the results of today's meeting to the department head?<br/>B: Yes, I reported the agreed decisions by email."
     },
-    "related": "To report — to formally inform someone of results, progress, or information, often at work or school."
+    "related": "To report — to formally inform someone of results, progress, or information, often at work or school.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1821",
@@ -44094,7 +46306,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "We left a margin for error in our estimates.",
       "fr": "We left a margin for error in our estimates."
     },
-    "related": "Margin of error / discrepancy — a small gap between a measured or expected value and the actual, true value."
+    "related": "Margin of error / discrepancy — a small gap between a measured or expected value and the actual, true value.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1822",
@@ -44119,7 +46332,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you ever been to see the Sumida River Fireworks Festival in summer?<br/>B: Yes, watching the giant fireworks along the river was immensely powerful!",
       "fr": "A: Have you ever been to see the Sumida River Fireworks Festival in summer?<br/>B: Yes, watching the giant fireworks along the river was immensely powerful!"
     },
-    "related": "Fireworks festival — a large public event, especially in summer, featuring a fireworks display."
+    "related": "Fireworks festival — a large public event, especially in summer, featuring a fireworks display.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1823",
@@ -44144,7 +46358,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "They cancelled the festival.",
       "fr": "They cancelled the festival."
     },
-    "related": "Festival — a traditional or community celebration, often with food stalls, music, dancing, and sometimes religious or se"
+    "related": "Festival — a traditional or community celebration, often with food stalls, music, dancing, and sometimes religious or se",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1824",
@@ -44169,7 +46384,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "What's the difference between boiling and simmering?",
       "fr": "What's the difference between boiling and simmering?"
     },
-    "related": "To boil — to cook something (vegetables, eggs, noodles, etc.) by submerging it in boiling water."
+    "related": "To boil — to cook something (vegetables, eggs, noodles, etc.) by submerging it in boiling water.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1825",
@@ -44194,7 +46410,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The freshly baked croissant is wonderfully crispy and flaky on the outside!<br/>B: The butter aroma and crispy texture are irresistible.",
       "fr": "A: The freshly baked croissant is wonderfully crispy and flaky on the outside!<br/>B: The butter aroma and crispy texture are irresistible."
     },
-    "related": "Crispy / crunchy — an onomatopoeic word for a crisp, brittle texture, often used for fried foods, chips, or crackers."
+    "related": "Crispy / crunchy — an onomatopoeic word for a crisp, brittle texture, often used for fried foods, chips, or crackers.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1826",
@@ -44219,7 +46436,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Many traditional wooden architectures remain preserved in Kyoto.<br/>B: You feel the brilliance of traditional techniques passed down for centuries.",
       "fr": "A: Many traditional wooden architectures remain preserved in Kyoto.<br/>B: You feel the brilliance of traditional techniques passed down for centuries."
     },
-    "related": "Traditional — relating to customs, practices, or styles passed down over a long time."
+    "related": "Traditional — relating to customs, practices, or styles passed down over a long time.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1827",
@@ -44244,7 +46462,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "就算去到考大試嘅現場我都完全冇慌，好冷靜咁慢慢做卷。",
       "fr": "Même pendant l’examen important, sans paniquer du tout, j’ai résolu les questions calmement."
     },
-    "related": "To panic / to feel rushed or anxious — feeling flustered or impatient under time pressure or in an unexpected situation."
+    "related": "To panic / to feel rushed or anxious — feeling flustered or impatient under time pressure or in an unexpected situation.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1828",
@@ -44269,7 +46488,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺大庭廣眾面前講錯嘢，瘀到成塊面紅晒好尷尬。",
       "fr": "J’ai fait un lapsus devant tout le monde et j’ai eu tellement honte que mon visage est devenu tout rouge."
     },
-    "related": "Embarrassed / shy / ashamed — feeling self-conscious or awkward in front of others."
+    "related": "Embarrassed / shy / ashamed — feeling self-conscious or awkward in front of others.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1829",
@@ -44294,7 +46514,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Can you afford that?",
       "fr": "Can you afford that?"
     },
-    "related": "Margin / room to spare / composure — extra capacity in time, money, or emotional bandwidth; being unhurried and having e"
+    "related": "Margin / room to spare / composure — extra capacity in time, money, or emotional bandwidth; being unhurried and having e",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1830",
@@ -44319,7 +46540,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Seeing the princess carry in your wedding photo was so romantic!<br/>B: It was a little embarrassing, but made a wonderful memory.",
       "fr": "A: Seeing the princess carry in your wedding photo was so romantic!<br/>B: It was a little embarrassing, but made a wonderful memory."
     },
-    "related": "Princess carry — carrying someone bridal-style, one arm under the knees and one supporting the back, a romantic gesture "
+    "related": "Princess carry — carrying someone bridal-style, one arm under the knees and one supporting the back, a romantic gesture ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1831",
@@ -44344,7 +46566,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I was a kid, I often challenged my dad to arm wrestling.<br/>B: When you finally beat your dad in arm wrestling, you must have been so proud.",
       "fr": "A: When I was a kid, I often challenged my dad to arm wrestling.<br/>B: When you finally beat your dad in arm wrestling, you must have been so proud."
     },
-    "related": "Arm wrestling — a contest where two people grip hands and try to force the other's arm down."
+    "related": "Arm wrestling — a contest where two people grip hands and try to force the other's arm down.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1832",
@@ -44369,7 +46592,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was asked for directions by a tourist on the street and guided them in English.<br/>B: Being asked out of the blue and answering well is fantastic!",
       "fr": "A: I was asked for directions by a tourist on the street and guided them in English.<br/>B: Being asked out of the blue and answering well is fantastic!"
     },
-    "related": "To be asked — the passive form of 聞く (to ask/hear), used when someone asks you a question."
+    "related": "To be asked — the passive form of 聞く (to ask/hear), used when someone asks you a question.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1833",
@@ -44394,7 +46618,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the new workplace, building good relationships with others is vital.<br/>B: Let's build mutual trust without forgetting greetings and gratitude.",
       "fr": "A: At the new workplace, building good relationships with others is vital.<br/>B: Let's build mutual trust without forgetting greetings and gratitude."
     },
-    "related": "To build a relationship — to develop and establish a connection or rapport with someone over time."
+    "related": "To build a relationship — to develop and establish a connection or rapport with someone over time.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1834",
@@ -44419,7 +46644,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is a mass of faults.",
       "fr": "He is a mass of faults."
     },
-    "related": "Flaw / shortcoming — a weakness or negative trait in a person, object, or plan."
+    "related": "Flaw / shortcoming — a weakness or negative trait in a person, object, or plan.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1835",
@@ -44444,7 +46670,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This morning I was woken up by the harsh sound of the alarm clock.<br/>B: Being woken up suddenly makes your heart race.",
       "fr": "A: This morning I was woken up by the harsh sound of the alarm clock.<br/>B: Being woken up suddenly makes your heart race."
     },
-    "related": "To be woken up — the passive form of 起こす (to wake someone up), used when someone else wakes you."
+    "related": "To be woken up — the passive form of 起こす (to wake someone up), used when someone else wakes you.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1836",
@@ -44469,7 +46696,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A sale flyer for the neighborhood supermarket was in the mailbox.<br/>B: Let's take the flyer coupons and go shopping!",
       "fr": "A: A sale flyer for the neighborhood supermarket was in the mailbox.<br/>B: Let's take the flyer coupons and go shopping!"
     },
-    "related": "Flyer / leaflet — a printed advertisement or informational sheet, often handed out or put in mailboxes."
+    "related": "Flyer / leaflet — a printed advertisement or informational sheet, often handed out or put in mailboxes.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1837",
@@ -44494,7 +46722,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I have a feeling that it suddenly got cold outside.<br/>B: The weather forecast also said temperatures would drop from tonight.",
       "fr": "A: I have a feeling that it suddenly got cold outside.<br/>B: The weather forecast also said temperatures would drop from tonight."
     },
-    "related": "To have a feeling that / to feel like — expressing a vague sense or intuition, without full certainty."
+    "related": "To have a feeling that / to feel like — expressing a vague sense or intuition, without full certainty.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1838",
@@ -44519,7 +46748,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To spend holidays meaningfully, time management is the key.<br/>B: I make a point of managing time to finish errands in the morning.",
       "fr": "A: To spend holidays meaningfully, time management is the key.<br/>B: I make a point of managing time to finish errands in the morning."
     },
-    "related": "How one uses time / time management — the way a person allocates or spends their time."
+    "related": "How one uses time / time management — the way a person allocates or spends their time.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1839",
@@ -44544,7 +46774,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Sometimes I can't accept compliments honestly and become cynical.<br/>B: Try practicing accepting them honestly with a simple 'Thank you'.",
       "fr": "A: Sometimes I can't accept compliments honestly and become cynical.<br/>B: Try practicing accepting them honestly with a simple 'Thank you'."
     },
-    "related": "To become twisted / warped in personality — to develop a cynical, contrarian, or distrustful attitude, often from past h"
+    "related": "To become twisted / warped in personality — to develop a cynical, contrarian, or distrustful attitude, often from past h",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1840",
@@ -44569,7 +46800,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 讚親佢都唔識老實收低，淨係識單單打打講風涼話。<br/>B: 佢個人性格有啲彆扭又嘴硬，其實只係怕醜掩飾緊啫。",
       "fr": "A: Il ne sait pas accepter un compliment simplement, il ne répond que par du sarcasme.<br/>B: Il a un caractère un peu tordu, il fait ça pour cacher sa gêne."
     },
-    "related": "A twisted / cynical personality — describes someone whose character has become distrustful, contrarian, or overly critic"
+    "related": "A twisted / cynical personality — describes someone whose character has become distrustful, contrarian, or overly critic",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1841",
@@ -44594,7 +46826,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He doesn't adopt flexible opinions and is a bit hard-headed.<br/>B: You wish he would update his thinking to match the times.",
       "fr": "A: He doesn't adopt flexible opinions and is a bit hard-headed.<br/>B: You wish he would update his thinking to match the times."
     },
-    "related": "Stubborn / inflexible / hard-headed — literally \"hard-headed,\" describing someone unwilling to change their thinking or "
+    "related": "Stubborn / inflexible / hard-headed — literally \"hard-headed,\" describing someone unwilling to change their thinking or ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1842",
@@ -44619,7 +46852,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Where do you see yourself 10 years from now?<br/>B: 10 years from now, I want to keep smiling and doing work I love.",
       "fr": "A: Where do you see yourself 10 years from now?<br/>B: 10 years from now, I want to keep smiling and doing work I love."
     },
-    "related": "\"~ years later / ~ years from now\" — a time expression for a point in the future measured in years."
+    "related": "\"~ years later / ~ years from now\" — a time expression for a point in the future measured in years.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1843",
@@ -44644,7 +46878,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Prepare yourself for the future.",
       "fr": "Prepare yourself for the future."
     },
-    "related": "Future vs. future — both mean \"future,\" but 将来 usually refers to one's own personal or near-term future (career, life pa"
+    "related": "Future vs. future — both mean \"future,\" but 将来 usually refers to one's own personal or near-term future (career, life pa",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1844",
@@ -44669,7 +46904,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The fun summer vacation ended in the blink of an eye, didn't it?<br/>B: It was over in no time! Let's do our best looking forward to the next break.",
       "fr": "A: The fun summer vacation ended in the blink of an eye, didn't it?<br/>B: It was over in no time! Let's do our best looking forward to the next break."
     },
-    "related": "\"In the blink of an eye\" / \"in no time\" — expresses how quickly time passes, often used to show surprise at how fast som"
+    "related": "\"In the blink of an eye\" / \"in no time\" — expresses how quickly time passes, often used to show surprise at how fast som",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1845",
@@ -44694,7 +46930,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Work seems piled up lately; please don't overdo it.<br/>B: Thanks for your care. I'll pace myself with moderate breaks.",
       "fr": "A: Work seems piled up lately; please don't overdo it.<br/>B: Thanks for your care. I'll pace myself with moderate breaks."
     },
-    "related": "\"Don't overdo it / take care of yourself\" — a caring expression telling someone not to push themselves too hard."
+    "related": "\"Don't overdo it / take care of yourself\" — a caring expression telling someone not to push themselves too hard.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1846",
@@ -44719,7 +46956,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Well, I'm heading out on the business trip!<br/>B: Take care and have a safe trip! Looking forward to your results.",
       "fr": "A: Well, I'm heading out on the business trip!<br/>B: Take care and have a safe trip! Looking forward to your results."
     },
-    "related": "\"Take care, see you later\" — said to someone (usually a family member or housemate) as they leave the house for the day."
+    "related": "\"Take care, see you later\" — said to someone (usually a family member or housemate) as they leave the house for the day.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1847",
@@ -44744,7 +46982,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Today was great. It's late, so get home safe!<br/>B: Thank you! I'll message you when I arrive.",
       "fr": "A: Today was great. It's late, so get home safe!<br/>B: Thank you! I'll message you when I arrive."
     },
-    "related": "\"Get home safe\" / \"take care on your way home\" — said to someone leaving your location to head to their own home; the fo"
+    "related": "\"Get home safe\" / \"take care on your way home\" — said to someone leaving your location to head to their own home; the fo",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1848",
@@ -44769,7 +47008,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下個禮拜開始我會去外地自己去旅行呀。<br/>B: 要注意身體同睇實啲錢，平平安安咁返嚟呀！",
       "fr": "A: Je pars en voyage en solo à l'étranger à partir de la semaine prochaine.<br/>B: Fais attention à ta santé et à ton argent, et reviens sain et sauf !"
     },
-    "related": "\"Take care and come back safely\" — said to someone heading out but who will be returning to the speaker's location (e.g."
+    "related": "\"Take care and come back safely\" — said to someone heading out but who will be returning to the speaker's location (e.g.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1849",
@@ -44794,7 +47034,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What is the weight limit for airplane baggage?<br/>B: Check-in baggage weight is free up to 23 kilograms.",
       "fr": "A: What is the weight limit for airplane baggage?<br/>B: Check-in baggage weight is free up to 23 kilograms."
     },
-    "related": "Weight — the general measure of how heavy something is (objects, not just body weight)."
+    "related": "Weight — the general measure of how heavy something is (objects, not just body weight).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1850",
@@ -44819,7 +47060,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗唔好畀風吹走個帳篷，我喺四隻角放咗石頭做重物。<br/>B: 壓得實啲重物，就算刮風都安心啦。",
       "fr": "A: J'ai placé des pierres comme poids aux quatre coins pour que la tente ne s'envole pas avec le vent.<br/>B: Si on met bien des poids dessus, on sera tranquille même s'il y a du vent."
     },
-    "related": "A weight — a physical object used to add heaviness, such as for scales, fishing, or exercise (also written 重り)."
+    "related": "A weight — a physical object used to add heaviness, such as for scales, fishing, or exercise (also written 重り).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1851",
@@ -44844,7 +47086,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The delayed train threatens to make me late and I feel irritated.<br/>B: Being impatient won't change anything, so take a deep breath and notify them.",
       "fr": "A: The delayed train threatens to make me late and I feel irritated.<br/>B: Being impatient won't change anything, so take a deep breath and notify them."
     },
-    "related": "To feel irritated / to be on edge — frustration or annoyance, often from stress or waiting."
+    "related": "To feel irritated / to be on edge — frustration or annoyance, often from stress or waiting.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1852",
@@ -44869,7 +47112,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For you, what is a happy life?<br/>B: From my perspective, living with family in good health and smiles is top happiness.",
       "fr": "A: For you, what is a happy life?<br/>B: From my perspective, living with family in good health and smiles is top happiness."
     },
-    "related": "\"For ~ / from ~'s perspective\" vs. \"according to ~\" — 〜にとって expresses a standpoint, meaning \"from the perspective of ~\" "
+    "related": "\"For ~ / from ~'s perspective\" vs. \"according to ~\" — 〜にとって expresses a standpoint, meaning \"from the perspective of ~\" ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1853",
@@ -44894,7 +47138,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When tasks pile high, let's prioritize the most urgent ones first.<br/>B: Tackling tasks by setting priorities makes progress smooth.",
       "fr": "A: When tasks pile high, let's prioritize the most urgent ones first.<br/>B: Tackling tasks by setting priorities makes progress smooth."
     },
-    "related": "To prioritize."
+    "related": "To prioritize.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1854",
@@ -44919,7 +47164,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My parents had a laissez-faire approach respecting their children's will.<br/>B: Thanks to a hands-off approach, your independence was well nurtured.",
       "fr": "A: My parents had a laissez-faire approach respecting their children's will.<br/>B: Thanks to a hands-off approach, your independence was well nurtured."
     },
-    "related": "A hands-off / laissez-faire approach — especially in parenting or management, giving someone freedom and not interfering"
+    "related": "A hands-off / laissez-faire approach — especially in parenting or management, giving someone freedom and not interfering",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1855",
@@ -44944,7 +47190,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is such a perfectionist that obsessing over details delays submissions.<br/>B: Having the flexibility to submit once at 80% completion is also key.",
       "fr": "A: He is such a perfectionist that obsessing over details delays submissions.<br/>B: Having the flexibility to submit once at 80% completion is also key."
     },
-    "related": "Perfectionism."
+    "related": "Perfectionism.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1856",
@@ -44969,7 +47216,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 前輩返工嗰陣咁嚴，點知去到飲嘢聚會突然間咁小鳥依人嘅。<br/>B: 簡直好似雙重人格咁，不過都證明佢公私分明。",
       "fr": "A: Senpai est si strict au travail, mais en soirée arrosée, il devient soudain très affectueux.<br/>B: C'est presque une double personnalité, mais au moins il sait faire la part des choses."
     },
-    "related": "Dual/split personality — sometimes used casually for someone whose behavior changes drastically by situation, not just i"
+    "related": "Dual/split personality — sometimes used casually for someone whose behavior changes drastically by situation, not just i",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1857",
@@ -44994,7 +47242,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The local time is 10:00.",
       "fr": "The local time is 10:00."
     },
-    "related": "Local / on-site — the actual place something is happening, as opposed to remotely or elsewhere."
+    "related": "Local / on-site — the actual place something is happening, as opposed to remotely or elsewhere.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1858",
@@ -45019,7 +47268,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Look at the picture on the wall.",
       "fr": "Look at the picture on the wall."
     },
-    "related": "Picture / drawing — the general, everyday word for any drawn or painted image."
+    "related": "Picture / drawing — the general, everyday word for any drawn or painted image.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1859",
@@ -45044,7 +47294,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "與其嘥精力去憎人，不如積極啲享受自己嘅人生。",
       "fr": "Plutôt que de gaspiller mon énergie à en vouloir aux autres ou à les haïr, je préfère profiter positivement de ma propre vie."
     },
-    "related": "To hate / detest."
+    "related": "To hate / detest.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1860",
@@ -45069,7 +47320,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It feels like this winter is warmer than usual years.<br/>B: Yeah, I get the sense there are many days you can get by without coats.",
       "fr": "A: It feels like this winter is warmer than usual years.<br/>B: Yeah, I get the sense there are many days you can get by without coats."
     },
-    "related": "\"It feels like ~ / I get the sense that ~\""
+    "related": "\"It feels like ~ / I get the sense that ~\"",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1861",
@@ -45094,7 +47346,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Opening someone's drawers without permission is bad manners.<br/>B: Sorry! I won't touch things on my own accord without permission.",
       "fr": "A: Opening someone's drawers without permission is bad manners.<br/>B: Sorry! I won't touch things on my own accord without permission."
     },
-    "related": "\"To do ~ without permission / on one's own accord\" — often with a nuance of selfishness or rudeness."
+    "related": "\"To do ~ without permission / on one's own accord\" — often with a nuance of selfishness or rudeness.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1862",
@@ -45119,7 +47372,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'm sorry I'm late.",
       "fr": "I'm sorry I'm late."
     },
-    "related": "\"I'm terribly sorry\" — formal, more solemn than casual すみません."
+    "related": "\"I'm terribly sorry\" — formal, more solemn than casual すみません.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1863",
@@ -45144,7 +47398,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Time is wasting.",
       "fr": "Time is wasting."
     },
-    "related": "\"What a waste\" — regret that something valuable isn't used to its full potential, or is being wasted/discarded/lost."
+    "related": "\"What a waste\" — regret that something valuable isn't used to its full potential, or is being wasted/discarded/lost.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1864",
@@ -45169,7 +47424,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Excuse me, could I have three paper plates?<br/>B: Yes, here are three paper plates and disposable chopsticks.",
       "fr": "A: Excuse me, could I have three paper plates?<br/>B: Yes, here are three paper plates and disposable chopsticks."
     },
-    "related": "Counter for flat, thin objects — used for paper, tickets, plates, shirts, photos, and similar items."
+    "related": "Counter for flat, thin objects — used for paper, tickets, plates, shirts, photos, and similar items.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1865",
@@ -45194,7 +47450,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今日個歡迎會，想搵個靜靜地嘅地方坐低慢慢傾。<br/>B: 放心，為咗大家傾得開心，我一早book咗獨立包廂。",
       "fr": "A: Pour la fête de bienvenue aujourd'hui, j'aimerais qu'on puisse discuter au calme.<br/>B: J'ai réservé un salon privé pour qu'on soit tranquilles."
     },
-    "related": "Private room — a separate, enclosed room for individual/exclusive use, as opposed to a shared or open space."
+    "related": "Private room — a separate, enclosed room for individual/exclusive use, as opposed to a shared or open space.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1866",
@@ -45219,7 +47476,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個套餐有冇包任飲暢飲㗎？<br/>B: 有呀，包2個鐘任飲，生啤同雞尾酒都可以任叫。",
       "fr": "A: Le menu banquet comprend-il les boissons à volonté ?<br/>B: Oui, il inclut deux heures de boissons à volonté, y compris la bière pression et les cocktails."
     },
-    "related": "All-you-can-drink — a set plan letting customers drink as much as they like within a set time for a fixed price."
+    "related": "All-you-can-drink — a set plan letting customers drink as much as they like within a set time for a fixed price.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1867",
@@ -45244,7 +47502,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 週末去唔去食日式燒肉放題？好想瘋狂食肉食到飽。<br/>B: 好呀！牛五花同牛柳任叫任食。",
       "fr": "A: Tu veux aller dans un restaurant de yakiniku à volonté ce week-end ? J'ai envie de me caler de viande.<br/>B: Carrément ! On pourra commander autant de viande qu'on veut."
     },
-    "related": "All-you-can-eat."
+    "related": "All-you-can-eat.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1868",
@@ -45269,7 +47528,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 喺紅茶加蜜糖好好飲㗎。<br/>B: 等我試下先！感覺又甜又暖身。",
       "fr": "A: C'est délicieux si on met du miel dans le thé noir.<br/>B: Je vais essayer ! Ça a l'air doux et réconfortant."
     },
-    "related": "Honey."
+    "related": "Honey.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1869",
@@ -45294,7 +47554,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 為咗健康，我每日朝早都會飲豆漿。<br/>B: 真係個好習慣呀。",
       "fr": "A: Je bois du lait de soja tous les matins pour ma santé.<br/>B: C'est une excellente habitude."
     },
-    "related": "Soy milk."
+    "related": "Soy milk.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1870",
@@ -45319,7 +47580,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "為咗慶祝紀念日食餐好嘅，我早喺一個月前就Book定咗好受歡迎嘅餐廳。",
       "fr": "Pour profiter d’un dîner d’anniversaire paisible, j’ai réservé une table dans un restaurant réputé un mois à l’avance."
     },
-    "related": "Reservation / booking."
+    "related": "Reservation / booking.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1871",
@@ -45344,7 +47606,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: It's a popular restaurant, so let's secure a reservation early.<br/>B: I'll book a weekend dinner reservation online.",
       "fr": "A: It's a popular restaurant, so let's secure a reservation early.<br/>B: I'll book a weekend dinner reservation online."
     },
-    "related": "To make/secure a reservation — emphasizes successfully obtaining one, sometimes with effort."
+    "related": "To make/secure a reservation — emphasizes successfully obtaining one, sometimes with effort.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1872",
@@ -45369,7 +47632,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I checked weekend hotel availability, but bookings are already full.<br/>B: On long weekends, reservations everywhere fill up quickly.",
       "fr": "A: I checked weekend hotel availability, but bookings are already full.<br/>B: On long weekends, reservations everywhere fill up quickly."
     },
-    "related": "\"The reservations are (fully) booked.\""
+    "related": "\"The reservations are (fully) booked.\"",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1873",
@@ -45394,7 +47658,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Dogs were happily sprinting around pet owners at the dog run.<br/>B: Seeing their owners' smiles reassures the dogs.",
       "fr": "A: Dogs were happily sprinting around pet owners at the dog run.<br/>B: Seeing their owners' smiles reassures the dogs."
     },
-    "related": "Pet owner."
+    "related": "Pet owner.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1874",
@@ -45419,7 +47684,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Hanging the poster in direct sunlight caused it to fade in color.<br/>B: UV rays fade ink, so let's hang it in the shade.",
       "fr": "A: Hanging the poster in direct sunlight caused it to fade in color.<br/>B: UV rays fade ink, so let's hang it in the shade."
     },
-    "related": "To fade (in color) — colors losing vividness over time from sunlight, washing, or age; also used figuratively for memori"
+    "related": "To fade (in color) — colors losing vividness over time from sunlight, washing, or age; also used figuratively for memori",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1875",
@@ -45444,7 +47710,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "No smoking in the theater.",
       "fr": "No smoking in the theater."
     },
-    "related": "No smoking / quitting smoking — either a prohibition on smoking somewhere, or the act of quitting."
+    "related": "No smoking / quitting smoking — either a prohibition on smoking somewhere, or the act of quitting.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1876",
@@ -45469,7 +47736,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The forecast is cloudy, but I'll bring a folding umbrella just in case.<br/>B: Better safe than sorry. Having it gives peace of mind.",
       "fr": "A: The forecast is cloudy, but I'll bring a folding umbrella just in case.<br/>B: Better safe than sorry. Having it gives peace of mind."
     },
-    "related": "Just in case / to be safe — doing something as a precaution."
+    "related": "Just in case / to be safe — doing something as a precaution.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1877",
@@ -45494,7 +47762,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When will the repaired watch return?<br/>B: Even at the earliest, pickup will be from next Wednesday onwards.",
       "fr": "A: When will the repaired watch return?<br/>B: Even at the earliest, pickup will be from next Wednesday onwards."
     },
-    "related": "\"Even at the earliest\" — sets the earliest possible time something can happen."
+    "related": "\"Even at the earliest\" — sets the earliest possible time something can happen.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1878",
@@ -45519,7 +47788,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: What time does the meeting start?<br/>B: At the latest, please gather in the meeting room by 14:00.",
       "fr": "A: What time does the meeting start?<br/>B: At the latest, please gather in the meeting room by 14:00."
     },
-    "related": "\"At the latest\" — sets the latest possible time something will happen."
+    "related": "\"At the latest\" — sets the latest possible time something will happen.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1879",
@@ -45544,7 +47814,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He is every bit a politician.",
       "fr": "He is every bit a politician."
     },
-    "related": "Politics."
+    "related": "Politics.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1880",
@@ -45568,7 +47839,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "田中先生好鍾意幫受傷嘅人包紮急救，同埋照顧病咗嘅人。",
       "fr": "M. Tanaka aimait prodiguer les premiers soins aux blessés et s'occuper des malades."
     },
-    "related": "Allowance / benefit — extra pay given for a specific purpose beyond base salary (commuting, housing, overtime, etc.)."
+    "related": "Allowance / benefit — extra pay given for a specific purpose beyond base salary (commuting, housing, overtime, etc.).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1881",
@@ -45593,7 +47865,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Would you like another serving of rice?<br/>B: I'm already full, that's sufficient. Thank you for the meal!",
       "fr": "A: Would you like another serving of rice?<br/>B: I'm already full, that's sufficient. Thank you for the meal!"
     },
-    "related": "\"That's enough / that's sufficient.\""
+    "related": "\"That's enough / that's sufficient.\"",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1882",
@@ -45618,7 +47891,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "琴晚有微震地震，好彩冇嘢冧落嚟冇人受傷，放心晒。",
       "fr": "Il y a eu un séisme d’intensité 3 hier soir, mais heureusement aucun objet n’est tombé et il n’y a eu aucun dégât."
     },
-    "related": "Earthquake."
+    "related": "Earthquake.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1883",
@@ -45643,7 +47917,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Last night's earthquake had strong shaking at seismic intensity 4.<br/>B: The earthquake early warning on my phone went off and startled me.",
       "fr": "A: Last night's earthquake had strong shaking at seismic intensity 4.<br/>B: The earthquake early warning on my phone went off and startled me."
     },
-    "related": "Seismic intensity — a Japanese scale (0–7) measuring how strongly an earthquake is felt at a specific location, distinct"
+    "related": "Seismic intensity — a Japanese scale (0–7) measuring how strongly an earthquake is felt at a specific location, distinct",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1884",
@@ -45668,7 +47943,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "瞓唔夠企起身嗰下眼前一黑，個人突然之間好頭暈。",
       "fr": "En me levant brusquement alors que je manquais de sommeil, j’ai eu un voile noir et de forts vertiges."
     },
-    "related": "Dizziness."
+    "related": "Dizziness.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1885",
@@ -45693,7 +47969,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Late-night ramen is high-calorie—truly a forbidden taste!<br/>B: The guilty pleasure in the middle of the night makes it taste divine.",
       "fr": "A: Late-night ramen is high-calorie—truly a forbidden taste!<br/>B: The guilty pleasure in the middle of the night makes it taste divine."
     },
-    "related": "Forbidden / strictly prohibited — a strong, often literary term for something absolutely off-limits, frequently used for"
+    "related": "Forbidden / strictly prohibited — a strong, often literary term for something absolutely off-limits, frequently used for",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1886",
@@ -45718,7 +47995,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Your condition isn't serious.",
       "fr": "Your condition isn't serious."
     },
-    "related": "Symptom(s)."
+    "related": "Symptom(s).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1887",
@@ -45743,7 +48021,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Buying too many travel souvenirs made my suitcase bursting full!<br/>B: It's packed so full that the zipper barely closes.",
       "fr": "A: Buying too many travel souvenirs made my suitcase bursting full!<br/>B: It's packed so full that the zipper barely closes."
     },
-    "related": "Bursting/packed full — describing something swollen or tightly full; also an onomatopoeia for a sharp, repeated slapping"
+    "related": "Bursting/packed full — describing something swollen or tightly full; also an onomatopoeia for a sharp, repeated slapping",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1888",
@@ -45768,7 +48047,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He's out of town on business.",
       "fr": "He's out of town on business."
     },
-    "related": "Business trip."
+    "related": "Business trip.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1889",
@@ -45793,7 +48073,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下個禮拜個董事會議喺邊度開？<br/>B: 喺丸之內總公司個大會議室開。",
       "fr": "A: Où se tiendra le conseil d'administration la semaine prochaine ?<br/>B: Dans la grande salle de réunion du siège social à Marunouchi."
     },
-    "related": "Head office / headquarters."
+    "related": "Head office / headquarters.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1890",
@@ -45818,7 +48099,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽講你轉工去咗間外資顧問公司喎。<br/>B: 係呀，公司入面要成日用英文溝通，好有挑戰性。",
       "fr": "A: J'ai appris que tu avais rejoint un cabinet de conseil international.<br/>B: Oui, j'ai souvent l'occasion de pratiquer l'anglais au bureau, c'est très stimulant."
     },
-    "related": "Foreign-affiliated (company) — owned by or a subsidiary of a foreign corporation, as opposed to a purely domestic Japane"
+    "related": "Foreign-affiliated (company) — owned by or a subsidiary of a foreign corporation, as opposed to a purely domestic Japane",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1891",
@@ -45843,7 +48125,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Youth has its advantages.",
       "fr": "Youth has its advantages."
     },
-    "related": "Advantage / merit."
+    "related": "Advantage / merit.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1892",
@@ -45868,7 +48151,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Playing the same game every single day made me completely bored with it.<br/>B: Step outside occasionally to exercise and refresh!",
       "fr": "A: Playing the same game every single day made me completely bored with it.<br/>B: Step outside occasionally to exercise and refresh!"
     },
-    "related": "Got tired of / bored with (something) — past tense of 飽きる, from overexposure or repetition."
+    "related": "Got tired of / bored with (something) — past tense of 飽きる, from overexposure or repetition.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1893",
@@ -45893,7 +48177,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我個仔淨係食肉，一條菜都唔肯食。<br/>B: 咁偏食營養會唔均衡㗎，不如試下切碎啲菜撈落啲餸度呃佢食？",
       "fr": "A: Mon fils ne mange que de la viande et refuse catégoriquement les légumes.<br/>B: Ce régime alimentaire déséquilibré risque de créer des carences. Pourquoi ne pas les hacher menu dans les plats ?"
     },
-    "related": "Picky eating / an unbalanced diet."
+    "related": "Picky eating / an unbalanced diet.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1894",
@@ -45918,7 +48203,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It is not good of you to take advantage of your colleagues.",
       "fr": "It is not good of you to take advantage of your colleagues."
     },
-    "related": "To deceive / trick."
+    "related": "To deceive / trick.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1895",
@@ -45943,7 +48229,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As project leader, I am prepared to take full responsibility for outcomes.<br/>B: A posture of taking responsibility without running is why teams follow.",
       "fr": "A: As project leader, I am prepared to take full responsibility for outcomes.<br/>B: A posture of taking responsibility without running is why teams follow."
     },
-    "related": "To take responsibility."
+    "related": "To take responsibility.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1896",
@@ -45968,7 +48255,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When I clapped hands and said 'Come here!' to the puppy, it ran right over.<br/>B: So friendly and cute! It's wagging its tail with joy.",
       "fr": "A: When I clapped hands and said 'Come here!' to the puppy, it ran right over.<br/>B: So friendly and cute! It's wagging its tail with joy."
     },
-    "related": "\"Come (here)\" / \"go\" / \"be (there)\" — a respectful or affectionate way of saying \"come/go/be,\" depending on context; use"
+    "related": "\"Come (here)\" / \"go\" / \"be (there)\" — a respectful or affectionate way of saying \"come/go/be,\" depending on context; use",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1897",
@@ -45993,7 +48281,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今個禮拜晚晚OT真係好辛苦。<br/>B: 當係獎勵下咁捱得嘅自己，我買件貴啲嘅蛋糕返去食先。",
       "fr": "A: Cette semaine a été éprouvante avec toutes ces heures supplémentaires.<br/>B: Pour me récompenser de mes efforts, je vais m'acheter une bonne pâtisserie sur le chemin du retour."
     },
-    "related": "A reward / treat."
+    "related": "A reward / treat.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1898",
@@ -46018,7 +48307,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: If you have any trouble, feel free to consult without hesitation.<br/>B: Thank you. I will reach out casually anytime.",
       "fr": "A: If you have any trouble, feel free to consult without hesitation.<br/>B: Thank you. I will reach out casually anytime."
     },
-    "related": "Casually / without hesitation."
+    "related": "Casually / without hesitation.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1899",
@@ -46043,7 +48333,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Peaceful hours spent in a countryside traditional home soothe the soul.<br/>B: Living peacefully away from city hustle is something to aspire to.",
       "fr": "A: Peaceful hours spent in a countryside traditional home soothe the soul.<br/>B: Living peacefully away from city hustle is something to aspire to."
     },
-    "related": "Peaceful / calm / tranquil — an undisturbed state, often referring to daily life or a period free from trouble."
+    "related": "Peaceful / calm / tranquil — an undisturbed state, often referring to daily life or a period free from trouble.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1900",
@@ -46068,7 +48359,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "An elephant has a long nose.",
       "fr": "An elephant has a long nose."
     },
-    "related": "Elephant."
+    "related": "Elephant.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1901",
@@ -46093,7 +48385,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Arriving at the theme park, children are frolicking with great joy.<br/>B: Seeing them frolic makes bringing them well worth it.",
       "fr": "A: Arriving at the theme park, children are frolicking with great joy.<br/>B: Seeing them frolic makes bringing them well worth it."
     },
-    "related": "To frolic / be boisterous — getting excited and acting playfully loud or lively, from happiness or excitement; used for "
+    "related": "To frolic / be boisterous — getting excited and acting playfully loud or lively, from happiness or excitement; used for ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1902",
@@ -46118,7 +48411,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 仔仔第一次自己學踩單車呀。<br/>B: 雖然驚佢跌到實一實，但我哋唔好出聲，靜靜喺隔離睇住佢啦。",
       "fr": "A: Notre enfant s'entraîne à faire du vélo tout seul pour la première fois.<br/>B: On a peur qu'il tombe, mais veillons sur lui en silence sans intervenir."
     },
-    "related": "To watch over / keep an eye on — observing someone with care and attention, often protectively, without directly interve"
+    "related": "To watch over / keep an eye on — observing someone with care and attention, often protectively, without directly interve",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1903",
@@ -46143,7 +48437,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Where's my water bottle?",
       "fr": "Where's my water bottle?"
     },
-    "related": "Water bottle / thermos — a reusable container for carrying drinks."
+    "related": "Water bottle / thermos — a reusable container for carrying drinks.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1904",
@@ -46168,7 +48463,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: With lower back pain, I had treatment at a local osteopathic clinic.<br/>B: Getting pelvic alignment adjusted at a chiropractic clinic relieves pain.",
       "fr": "A: With lower back pain, I had treatment at a local osteopathic clinic.<br/>B: Getting pelvic alignment adjusted at a chiropractic clinic relieves pain."
     },
-    "related": "An osteopathic/chiropractic clinic — for musculoskeletal issues (joints, muscles, bones), typically run by a judo therap"
+    "related": "An osteopathic/chiropractic clinic — for musculoskeletal issues (joints, muscles, bones), typically run by a judo therap",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1905",
@@ -46193,7 +48489,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Hearing the doorbell, my dog reacted sensitively and started barking.<br/>B: With sharp ears, he responds to noises immediately.",
       "fr": "A: Hearing the doorbell, my dog reacted sensitively and started barking.<br/>B: With sharp ears, he responds to noises immediately."
     },
-    "related": "To react / respond."
+    "related": "To react / respond.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1906",
@@ -46218,7 +48515,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Both support and opposition opinions have been voiced on the new urban plan.<br/>B: Debates with mixed reactions continue regarding landscape and convenience.",
       "fr": "A: Both support and opposition opinions have been voiced on the new urban plan.<br/>B: Debates with mixed reactions continue regarding landscape and convenience."
     },
-    "related": "Both support and opposition / mixed reactions — opinions divided, with people both for and against."
+    "related": "Both support and opposition / mixed reactions — opinions divided, with people both for and against.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1907",
@@ -46243,7 +48541,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: We held a burial ceremony placing the deceased's cremated remains in the grave.<br/>B: A solemn moment where the family gathered to pray for peaceful rest.",
       "fr": "A: We held a burial ceremony placing the deceased's cremated remains in the grave.<br/>B: A solemn moment where the family gathered to pray for peaceful rest."
     },
-    "related": "Cremated remains / the bones of the deceased — treated with reverence in Japanese funeral customs."
+    "related": "Cremated remains / the bones of the deceased — treated with reverence in Japanese funeral customs.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1908",
@@ -46268,7 +48567,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "幫隻貓梳毛嗰陣，梳咗好多軟林林嘅毛出嚟。",
       "fr": "En brossant mon chat, j’ai retiré beaucoup de ses poils doux et duveteux."
     },
-    "related": "Hair / fur — a general term, broader than the more specific 髪 (head hair)."
+    "related": "Hair / fur — a general term, broader than the more specific 髪 (head hair).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1909",
@@ -46293,7 +48593,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Preparing for sudden rain, I always keep a collapsible umbrella in my bag.<br/>B: A lightweight folding umbrella is no burden to carry around.",
       "fr": "A: Preparing for sudden rain, I always keep a collapsible umbrella in my bag.<br/>B: A lightweight folding umbrella is no burden to carry around."
     },
-    "related": "Foldable / collapsible."
+    "related": "Foldable / collapsible.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1910",
@@ -46318,7 +48619,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "去到畀錢先發現自己冇帶銀包出門口，嗰下真係好騰雞好驚。",
       "fr": "Au moment de payer l’addition, je me suis rendu compte que j’avais oublié mon portefeuille chez moi et j’ai paniqué."
     },
-    "related": "Wallet / purse."
+    "related": "Wallet / purse.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1911",
@@ -46343,7 +48645,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I don't have any change.",
       "fr": "I don't have any change."
     },
-    "related": "Small change / coins."
+    "related": "Small change / coins.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1912",
@@ -46368,7 +48671,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Listening to birds chirping, I woke up naturally feeling refreshed.<br/>B: Waking up pleasantly to nature sounds feels wonderful.",
       "fr": "A: Listening to birds chirping, I woke up naturally feeling refreshed.<br/>B: Waking up pleasantly to nature sounds feels wonderful."
     },
-    "related": "To wake up (naturally) — becoming conscious/awake on one's own, as opposed to being roused by someone else."
+    "related": "To wake up (naturally) — becoming conscious/awake on one's own, as opposed to being roused by someone else.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1913",
@@ -46393,7 +48697,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Looking back and forth alternately between map and signs, I headed to the destination.<br/>B: Looking alternately while confirming keeps you on track.",
       "fr": "A: Looking back and forth alternately between map and signs, I headed to the destination.<br/>B: Looking alternately while confirming keeps you on track."
     },
-    "related": "To look at (things) alternately / back and forth."
+    "related": "To look at (things) alternately / back and forth.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1914",
@@ -46418,7 +48723,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Visiting Osaka, everyone talks in energetic Kansai dialect with such vitality.<br/>B: Kansai dialect retorts like 'Nandeyanen' feel so friendly.",
       "fr": "A: Visiting Osaka, everyone talks in energetic Kansai dialect with such vitality.<br/>B: Kansai dialect retorts like 'Nandeyanen' feel so friendly."
     },
-    "related": "The Kansai dialect — spoken in Osaka, Kyoto, Kobe, etc., known for distinct intonation and expressions."
+    "related": "The Kansai dialect — spoken in Osaka, Kyoto, Kobe, etc., known for distinct intonation and expressions.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1915",
@@ -46443,7 +48749,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The Hakata dialect sentence ending '~to?' I heard in Fukuoka was adorable.<br/>B: The soft cadence of Hakata dialect conveys local warmth.",
       "fr": "A: The Hakata dialect sentence ending '~to?' I heard in Fukuoka was adorable.<br/>B: The soft cadence of Hakata dialect conveys local warmth."
     },
-    "related": "The Hakata dialect — spoken in Hakata/Fukuoka (Kyushu), known for gentle, friendly-sounding sentence endings."
+    "related": "The Hakata dialect — spoken in Hakata/Fukuoka (Kyushu), known for gentle, friendly-sounding sentence endings.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1916",
@@ -46468,7 +48775,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Is there only tea in the refrigerator?<br/>B: Yes, right now only barley tea is cold. Shall I go buy juice?",
       "fr": "A: Is there only tea in the refrigerator?<br/>B: Yes, right now only barley tea is cold. Shall I go buy juice?"
     },
-    "related": "\"Only ~\" — だけ is neutral and works with affirmative or negative sentences, while しか always pairs with a negative verb an"
+    "related": "\"Only ~\" — だけ is neutral and works with affirmative or negative sentences, while しか always pairs with a negative verb an",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1917",
@@ -46493,7 +48801,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Blessed with kind colleagues and friends, I'm truly grateful.<br/>B: Being blessed with great interpersonal relationships is a marvelous asset.",
       "fr": "A: Blessed with kind colleagues and friends, I'm truly grateful.<br/>B: Being blessed with great interpersonal relationships is a marvelous asset."
     },
-    "related": "To be blessed / fortunate — a favorable, privileged situation, often about circumstances one didn't necessarily earn."
+    "related": "To be blessed / fortunate — a favorable, privileged situation, often about circumstances one didn't necessarily earn.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1918",
@@ -46518,7 +48827,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 每次去旅行，都不知不覺使咗好多錢買手信。<br/>B: 旅行體驗嚟㗎嘛，耐唔耐使多些少錢都係美好回憶。",
       "fr": "A: Dès que je pars en voyage, je finis par dépenser beaucoup d'argent en souvenirs en tous genres.<br/>B: Ça fait partie du voyage, se faire plaisir de temps en temps crée de beaux souvenirs."
     },
-    "related": "To spend money."
+    "related": "To spend money.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1919",
@@ -46543,7 +48853,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Enthusiasm is contagious.",
       "fr": "Enthusiasm is contagious."
     },
-    "related": "\"To move / transfer\" — 移る is intransitive (something moves on its own, or the focus is on the result, not the agent), wh"
+    "related": "\"To move / transfer\" — 移る is intransitive (something moves on its own, or the focus is on the result, not the agent), wh",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1920",
@@ -46568,7 +48879,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你有兩聲咳喎，戴返個口罩開窗通風啦。<br/>B: 唔該你。真係要小心啲唔好傳染個感冒畀屋企人。",
       "fr": "A: Tu tousses, mets un masque et aérons la pièce.<br/>B: Merci. Je dois faire attention à ne pas transmettre mon rhume à la famille."
     },
-    "related": "\"A cold gets transmitted / spreads\" — using the intransitive 移る, no focus on who caused it."
+    "related": "\"A cold gets transmitted / spreads\" — using the intransitive 移る, no focus on who caused it.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1921",
@@ -46593,7 +48905,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我將電腦啲資料由舊嗰部過咗去新嗰部喇。<br/>B: 咁就可以放心用新電腦啦。",
       "fr": "A: J'ai transféré les données de l'ordinateur de l'ancien vers le nouveau.<br/>B: Maintenant tu peux utiliser le nouvel ordinateur l'esprit tranquille."
     },
-    "related": "\"Moved/switched from the old thing to the new thing\" — using the transitive 移す, a deliberate transfer."
+    "related": "\"Moved/switched from the old thing to the new thing\" — using the transitive 移す, a deliberate transfer.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1922",
@@ -46618,7 +48931,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Having said 'I will definitely contact tomorrow', he stepped out.<br/>B: If he promised having said that, let's trust and wait.",
       "fr": "A: Having said 'I will definitely contact tomorrow', he stepped out.<br/>B: If he promised having said that, let's trust and wait."
     },
-    "related": "\"Saying ~ / having said\" — the te-form of 言う, connecting a statement to a following action, or quoting."
+    "related": "\"Saying ~ / having said\" — the te-form of 言う, connecting a statement to a following action, or quoting.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1923",
@@ -46643,7 +48957,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今晚晚餐返唔返屋企食？<br/>B: 今日我同公司同事喺出面食完先返，唔使留我飯喇。",
       "fr": "A: Tu manges à la maison avec nous ce soir ?<br/>B: Je mange dehors avec des collègues avant de rentrer, donc pas besoin de préparer pour moi."
     },
-    "related": "\"To go eat and come back\" / \"I'll eat (before coming)\" — て+くる, indicating an action done elsewhere before returning, or "
+    "related": "\"To go eat and come back\" / \"I'll eat (before coming)\" — て+くる, indicating an action done elsewhere before returning, or ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1924",
@@ -46668,7 +48983,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The two companies plan to unite.",
       "fr": "The two companies plan to unite."
     },
-    "related": "Merger."
+    "related": "Merger.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1925",
@@ -46693,7 +49009,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個新業務嘅預算喺公司內部批就得？<br/>B: 唔得，仲要母公司董事會通過先得。",
       "fr": "A: Le budget de ce nouveau projet peut-il être approuvé en interne uniquement ?<br/>B: Non, il nécessite également l'approbation du conseil d'administration de la société mère."
     },
-    "related": "Parent company."
+    "related": "Parent company.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1926",
@@ -46718,7 +49035,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 下期開始將物流工序外判畀子公司嘅計劃進行緊。<br/>B: 將工序集中交畀專門子公司搞，可以大幅提升效率。",
       "fr": "A: Le projet d'externalisation de la logistique vers une filiale est en cours pour le prochain exercice.<br/>B: En regroupant les opérations au sein d'une filiale dédiée, nous pouvons espérer de vrais gains d'efficacité."
     },
-    "related": "Subsidiary company — owned/controlled by a parent, while keeping its own legal identity."
+    "related": "Subsidiary company — owned/controlled by a parent, while keeping its own legal identity.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1927",
@@ -46743,7 +49061,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Are you wearing makeup?",
       "fr": "Are you wearing makeup?"
     },
-    "related": "Makeup."
+    "related": "Makeup.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1928",
@@ -46768,7 +49087,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: At the convenience store register, I used phone barcode payment.<br/>B: Barcode scanning with a quick beep on screen is so speedy.",
       "fr": "A: At the convenience store register, I used phone barcode payment.<br/>B: Barcode scanning with a quick beep on screen is so speedy."
     },
-    "related": "Barcode/QR code payment — a mobile payment method scanned via smartphone app (e.g. PayPay, LINE Pay)."
+    "related": "Barcode/QR code payment — a mobile payment method scanned via smartphone app (e.g. PayPay, LINE Pay).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1929",
@@ -46793,7 +49113,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Could you exchange a 10,000-yen bill for 1,000-yen bills?<br/>B: Yes, I will prepare ten 1,000-yen bills for you.",
       "fr": "A: Could you exchange a 10,000-yen bill for 1,000-yen bills?<br/>B: Yes, I will prepare ten 1,000-yen bills for you."
     },
-    "related": "Paper money / bills."
+    "related": "Paper money / bills.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1930",
@@ -46818,7 +49139,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This new app has a clear interface and is very easy to use!<br/>B: It's designed intuitively, making it user-friendly for anyone.",
       "fr": "A: This new app has a clear interface and is very easy to use!<br/>B: It's designed intuitively, making it user-friendly for anyone."
     },
-    "related": "Easy to use / user-friendly."
+    "related": "Easy to use / user-friendly.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1931",
@@ -46843,7 +49165,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 用信用卡買嘢嗰陣，成日不知不覺使多咗錢。<br/>B: 喺App度設定每個月使錢上限，就可以防止使大咗。",
       "fr": "A: Quand je paie par carte bancaire, je finis toujours par dépenser trop d'argent.<br/>B: Fixer un plafond mensuel te permettra d'éviter les dépenses excessives."
     },
-    "related": "To end up using/spending too much — 使いすぎる + てしまう, adding regret/unintentionality."
+    "related": "To end up using/spending too much — 使いすぎる + てしまう, adding regret/unintentionality.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1932",
@@ -46868,7 +49191,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Using employee discount at my workplace, I bought clothes cheaply!<br/>B: Getting company discounts is a great perk for staff.",
       "fr": "A: Using employee discount at my workplace, I bought clothes cheaply!<br/>B: Getting company discounts is a great perk for staff."
     },
-    "related": "Employee discount — short for 社員割引."
+    "related": "Employee discount — short for 社員割引.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1933",
@@ -46893,7 +49217,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This ramen shop holds particular commitment to homemade noodles and broth.<br/>B: The artisan's attention to detail poured into each bowl shines through.",
       "fr": "A: This ramen shop holds particular commitment to homemade noodles and broth.<br/>B: The artisan's attention to detail poured into each bowl shines through."
     },
-    "related": "A particular commitment / attention to detail — a strong, deliberate preference or standard."
+    "related": "A particular commitment / attention to detail — a strong, deliberate preference or standard.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1934",
@@ -46918,7 +49243,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: My phone battery has 10% left, so I'll go charge it at a cafe.<br/>B: Having a fast charger helps replenish battery in no time.",
       "fr": "A: My phone battery has 10% left, so I'll go charge it at a cafe.<br/>B: Having a fast charger helps replenish battery in no time."
     },
-    "related": "Charging (a battery)."
+    "related": "Charging (a battery).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1935",
@@ -46943,7 +49269,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 你最近冇剪頭髮，一路留緊嘅？<br/>B: 為咗出年結婚嗰陣可以盤個靚頭，所以依家留緊長頭髮。",
       "fr": "A: Tu n'as pas changé de coupe ces derniers temps, tu laisses pousser ?<br/>B: Je me laisse pousser les cheveux pour pouvoir faire un joli chignon à mon mariage l'an prochain."
     },
-    "related": "To grow one's hair."
+    "related": "To grow one's hair.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1936",
@@ -46968,7 +49295,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 一落雨，我啲頭髮就攣起上嚟又蓬又鬆。<br/>B: 天生自然攣特別容易受濕氣影響。去做個負離子直髮會好打理好多。",
       "fr": "A: Les jours de pluie, mes cheveux ondulent et prennent du volume.<br/>B: Les cheveux bouclés ou ondulés réagissent fort à l'humidité. Un lissage permanent te simplifierait la vie."
     },
-    "related": "Naturally curly/wavy hair."
+    "related": "Naturally curly/wavy hair.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1937",
@@ -46993,7 +49321,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 最近好擔心個頭頂啲頭髮愈嚟愈疏，好驚第時會地中海變光頭禿頭。<br/>B: 早啲去專科診所搵醫生睇下做頭皮護理，會安心好多。",
       "fr": "A: Mes cheveux s'éclaircissent sur le dessus de la tête, j'ai peur de devenir chauve plus tard.<br/>B: Consulte sans tarder une clinique spécialisée pour un traitement du cuir chevelu, ça te rassurera."
     },
-    "related": "Baldness / a bald person (casual/blunt)."
+    "related": "Baldness / a bald person (casual/blunt).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1938",
@@ -47018,7 +49347,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Repeated trivial lies caused me to lose feelings for my boyfriend.<br/>B: Once trust is lost, emotions suddenly cool down.",
       "fr": "A: Repeated trivial lies caused me to lose feelings for my boyfriend.<br/>B: Once trust is lost, emotions suddenly cool down."
     },
-    "related": "To fall out of love / lose romantic feelings for a boyfriend/girlfriend — the same verb 冷める used figuratively, describin"
+    "related": "To fall out of love / lose romantic feelings for a boyfriend/girlfriend — the same verb 冷める used figuratively, describin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1939",
@@ -47043,7 +49373,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When muscles become stiff from cold, it causes shoulder and back aches.<br/>B: Warm up in a bath to loosen your stiffened body.",
       "fr": "A: When muscles become stiff from cold, it causes shoulder and back aches.<br/>B: Warm up in a bath to loosen your stiffened body."
     },
-    "related": "To become hard/stiff."
+    "related": "To become hard/stiff.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1940",
@@ -47068,7 +49399,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "花園生咗好多雜草，禮拜六日全家人一齊拔乾淨啲草。",
       "fr": "Des mauvaises herbes ayant poussé un peu partout dans le jardin, toute la famille s’est réunie ce week-end pour désherber soigneusement."
     },
-    "related": "Grass / plant — but also a very common internet slang term meaning \"lol\" or \"haha,\" used to indicate something is funny."
+    "related": "Grass / plant — but also a very common internet slang term meaning \"lol\" or \"haha,\" used to indicate something is funny.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1941",
@@ -47093,7 +49425,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I explained him the procedures.",
       "fr": "I explained him the procedures."
     },
-    "related": "A procedure / paperwork process."
+    "related": "A procedure / paperwork process.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1942",
@@ -47118,7 +49451,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: After living in Japan for years, I finally obtained permanent residency!<br/>B: Congratulations on gaining permanent residency! Life ahead has great security.",
       "fr": "A: After living in Japan for years, I finally obtained permanent residency!<br/>B: Congratulations on gaining permanent residency! Life ahead has great security."
     },
-    "related": "Permanent residency."
+    "related": "Permanent residency.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1943",
@@ -47143,7 +49477,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 今年黃金週長假有咩打算呀？<br/>B: 好耐冇返過老家，諗住返去陪下爸爸媽媽過返幾日。",
       "fr": "A: Avez-vous prévu quelque chose pour la Golden Week cette année ?<br/>B: Je compte retourner chez mes parents après un long moment d'absence et passer du temps avec eux."
     },
-    "related": "One's parents' house / hometown home — the home where one grew up, as distinct from where one currently lives."
+    "related": "One's parents' house / hometown home — the home where one grew up, as distinct from where one currently lives.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1944",
@@ -47168,7 +49503,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Don't leave it up to chance.",
       "fr": "Don't leave it up to chance."
     },
-    "related": "\"By chance / coincidentally\" — both express something happening unexpectedly, but 偶然 is more formal/objective (often des"
+    "related": "\"By chance / coincidentally\" — both express something happening unexpectedly, but 偶然 is more formal/objective (often des",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1945",
@@ -47193,7 +49529,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I hope you'll recover quickly.",
       "fr": "I hope you'll recover quickly."
     },
-    "related": "To heal / recover (from an illness or injury) — intransitive, used specifically for living things getting better from si"
+    "related": "To heal / recover (from an illness or injury) — intransitive, used specifically for living things getting better from si",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1946",
@@ -47218,7 +49555,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "老師好有耐性咁指出我作文入面嘅Grammar錯處，等我可以改返啱。",
       "fr": "Le professeur m’a gentiment signalé les erreurs de grammaire dans ma rédaction, ce qui m’a permis de les corriger avec les bonnes expressions."
     },
-    "related": "To fix / repair (an object) — transitive, used for non-living things like machines, objects, or abstract things like mis"
+    "related": "To fix / repair (an object) — transitive, used for non-living things like machines, objects, or abstract things like mis",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1947",
@@ -47243,7 +49581,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Due to a network glitch, access was temporarily unavailable.<br/>B: I'm glad it was just a temporary disruption and got restored.",
       "fr": "A: Due to a network glitch, access was temporarily unavailable.<br/>B: I'm glad it was just a temporary disruption and got restored."
     },
-    "related": "Temporarily."
+    "related": "Temporarily.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1948",
@@ -47268,7 +49607,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I'll go to the embassy tomorrow.",
       "fr": "I'll go to the embassy tomorrow."
     },
-    "related": "An embassy."
+    "related": "An embassy.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1949",
@@ -47293,7 +49633,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For tomorrow's barbecue, let's meet on-site at the park venue.<br/>B: Understood! We will meet on-site at 10:00 AM.",
       "fr": "A: For tomorrow's barbecue, let's meet on-site at the park venue.<br/>B: Understood! We will meet on-site at 10:00 AM."
     },
-    "related": "Meeting on-site / meeting at the location — gathering directly at a destination rather than departing together from a si"
+    "related": "Meeting on-site / meeting at the location — gathering directly at a destination rather than departing together from a si",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1950",
@@ -47318,7 +49659,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The visa application was rejected once due to incomplete documentation.<br/>B: Let's gather additional proof documents and reapply.",
       "fr": "A: The visa application was rejected once due to incomplete documentation.<br/>B: Let's gather additional proof documents and reapply."
     },
-    "related": "\"Was rejected/denied\" — the passive form of 拒否する (\"to refuse/reject\"), describing having a request, application, or prop"
+    "related": "\"Was rejected/denied\" — the passive form of 拒否する (\"to refuse/reject\"), describing having a request, application, or prop",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1951",
@@ -47343,7 +49685,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The proposal submitted to the boss is stalled and not approved yet.<br/>B: Re-evaluating the budget might be needed, so let's confirm.",
       "fr": "A: The proposal submitted to the boss is stalled and not approved yet.<br/>B: Re-evaluating the budget might be needed, so let's confirm."
     },
-    "related": "\"Is not approved\" — the negative passive form of 承認する (\"to approve/authorize\"), describing a request or application fail"
+    "related": "\"Is not approved\" — the negative passive form of 承認する (\"to approve/authorize\"), describing a request or application fail",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1952",
@@ -47368,7 +49711,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I don't believe in religion.",
       "fr": "I don't believe in religion."
     },
-    "related": "Religion."
+    "related": "Religion.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1953",
@@ -47393,7 +49737,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: An unexpected server problem arose and caused a big issue.<br/>B: Let's investigate causes swiftly to prevent the issue recurring.",
       "fr": "A: An unexpected server problem arose and caused a big issue.<br/>B: Let's investigate causes swiftly to prevent the issue recurring."
     },
-    "related": "A problem arises/occurs."
+    "related": "A problem arises/occurs.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1954",
@@ -47418,7 +49763,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Machinery robs work of creative interest.",
       "fr": "Machinery robs work of creative interest."
     },
-    "related": "To steal / to take (something) away by force — implies taking something from someone against their will, often forcefull"
+    "related": "To steal / to take (something) away by force — implies taking something from someone against their will, often forcefull",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1955",
@@ -47443,7 +49789,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While traveling abroad in crowds, my wallet was stolen in an instant!<br/>B: Were you unhurt? Let's report it immediately to local police.",
       "fr": "A: While traveling abroad in crowds, my wallet was stolen in an instant!<br/>B: Were you unhurt? Let's report it immediately to local police."
     },
-    "related": "To have (something) taken away / to be robbed of (something) — the passive form of 奪う, describing the experience of losi"
+    "related": "To have (something) taken away / to be robbed of (something) — the passive form of 奪う, describing the experience of losi",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1956",
@@ -47468,7 +49815,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I had a resident certificate issued at City Hall.<br/>B: With all required certificates gathered, you're set.",
       "fr": "A: I had a resident certificate issued at City Hall.<br/>B: With all required certificates gathered, you're set."
     },
-    "related": "A certificate / proof document."
+    "related": "A certificate / proof document.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1957",
@@ -47493,7 +49841,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He often offends against our agreement.",
       "fr": "He often offends against our agreement."
     },
-    "related": "An agreement / pact (typically formal, often between governments, organizations, or companies)."
+    "related": "An agreement / pact (typically formal, often between governments, organizations, or companies).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1958",
@@ -47518,7 +49867,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Next week's forecast shows rain, but it's not certain.<br/>B: Forecasts can change right up until the day, so let's monitor.",
       "fr": "A: Next week's forecast shows rain, but it's not certain.<br/>B: Forecasts can change right up until the day, so let's monitor."
     },
-    "related": "\"It's not certain\" — the negative form of 確実だ (\"to be certain/sure\"), describing something whose outcome or truth is unc"
+    "related": "\"It's not certain\" — the negative form of 確実だ (\"to be certain/sure\"), describing something whose outcome or truth is unc",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1959",
@@ -47543,7 +49893,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Someday departing on a world cruise on a luxury liner is my lifelong dream.<br/>B: A trip around the world experiencing diverse cultures is a marvelous adventure!",
       "fr": "A: Someday departing on a world cruise on a luxury liner is my lifelong dream.<br/>B: A trip around the world experiencing diverse cultures is a marvelous adventure!"
     },
-    "related": "A trip around the world."
+    "related": "A trip around the world.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1960",
@@ -47568,7 +49919,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I was absolved from paying my father's debt.",
       "fr": "I was absolved from paying my father's debt."
     },
-    "related": "Repayment (of a debt/loan)."
+    "related": "Repayment (of a debt/loan).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1961",
@@ -47593,7 +49945,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Taking an all-or-nothing gamble, I decided to launch a new venture!<br/>B: A bold challenge! I sincerely believe in your success and cheer you on.",
       "fr": "A: Taking an all-or-nothing gamble, I decided to launch a new venture!<br/>B: A bold challenge! I sincerely believe in your success and cheer you on."
     },
-    "related": "\"All or nothing\" / \"sink or swim\" — an idiom describing taking a big risk without knowing the outcome, betting everythin"
+    "related": "\"All or nothing\" / \"sink or swim\" — an idiom describing taking a big risk without knowing the outcome, betting everythin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1962",
@@ -47618,7 +49971,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The hostages will be released.",
       "fr": "The hostages will be released."
     },
-    "related": "A hostage."
+    "related": "A hostage.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1963",
@@ -47643,7 +49997,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: This weekend, why don't we all try climbing Mount Fuji?<br/>B: Great! It will be a lifetime memory, let's do it!",
       "fr": "A: This weekend, why don't we all try climbing Mount Fuji?<br/>B: Great! It will be a lifetime memory, let's do it!"
     },
-    "related": "\"Let's do it!\" — the plain/casual volitional form of やる (\"to do\"), used to enthusiastically rally oneself or others into"
+    "related": "\"Let's do it!\" — the plain/casual volitional form of やる (\"to do\"), used to enthusiastically rally oneself or others into",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1964",
@@ -47668,7 +50023,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It's easy to get lost.",
       "fr": "It's easy to get lost."
     },
-    "related": "A lost child — though colloquially can also refer to any person (or even a pet) who has become lost/separated from their"
+    "related": "A lost child — though colloquially can also refer to any person (or even a pet) who has become lost/separated from their",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1965",
@@ -47693,7 +50049,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 將來我打算開間IT公司創業。<br/>B: 有咁大嘅目標真係好！",
       "fr": "A: À l'avenir, j'envisage de créer une entreprise dans le domaine de l'informatique.<br/>B: C'est formidable que vous ayez un si grand objectif !"
     },
-    "related": "Starting a business / entrepreneurship."
+    "related": "Starting a business / entrepreneurship.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1966",
@@ -47718,7 +50075,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: His outfit today looks grown-up and very sharp.<br/>B: Calm hues give a chic vibe that suits him well.",
       "fr": "A: His outfit today looks grown-up and very sharp.<br/>B: Calm hues give a chic vibe that suits him well."
     },
-    "related": "\"-ish / seems like / has the quality of ~\" — a casual suffix attached to nouns or adjective stems to describe something "
+    "related": "\"-ish / seems like / has the quality of ~\" — a casual suffix attached to nouns or adjective stems to describe something ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1967",
@@ -47743,7 +50101,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 咦？呢個蛋糕嘅味道係咪變咗啲？<br/>B: 你咁講起，好似真係無以前咁甜。",
       "fr": "A : Tiens ? Le goût de ce gâteau n'a pas un peu changé ?<br/>B : Maintenant que tu le dis, il est peut-être moins sucré qu'avant."
     },
-    "related": "言われてみれば（いわれてみれば）"
+    "related": "言われてみれば（いわれてみれば）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1968",
@@ -47768,7 +50127,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Right before the presentation, I forgot the crucial USB with slides!<br/>B: Isn't a backup saved in cloud storage? Let's check!",
       "fr": "A: Right before the presentation, I forgot the crucial USB with slides!<br/>B: Isn't a backup saved in cloud storage? Let's check!"
     },
-    "related": "Crucial / essential / most important — a na-adjective emphasizing that something is the key, indispensable point."
+    "related": "Crucial / essential / most important — a na-adjective emphasizing that something is the key, indispensable point.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1969",
@@ -47793,7 +50153,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When the system failure occurred, the support team dealt with it promptly.<br/>B: Having a system that handles issues calmly and flexibly is dependable.",
       "fr": "A: When the system failure occurred, the support team dealt with it promptly.<br/>B: Having a system that handles issues calmly and flexibly is dependable."
     },
-    "related": "To deal with / handle / cope with (a problem or situation)."
+    "related": "To deal with / handle / cope with (a problem or situation).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1970",
@@ -47818,7 +50179,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 就算拉開咗比分領先緊，都千祈唔好鬆懈大意呀。<br/>B: 收到！未到鳴笛吹哨完場一刻，我哋都會全神貫注打落去。",
       "fr": "A: Ce n'est pas parce que nous menons au score qu'il faut baisser la garde.<br/>B: Oui ! Nous resterons concentrés jusqu'au coup de sifflet final."
     },
-    "related": "To let one's guard down / become careless (due to overconfidence or complacency)."
+    "related": "To let one's guard down / become careless (due to overconfidence or complacency).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1971",
@@ -47843,7 +50205,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 唔知係咪轉季，最近洗頭嗰陣好似甩多咗好多頭髮。<br/>B: 聽講秋天本來就特別容易甩頭髮。不如試下溫柔啲按摩下個頭皮？",
       "fr": "A: À cause du changement de saison sans doute, j'ai l'impression de perdre plus de cheveux sous la douche.<br/>B: On dit qu'en automne les chutes de cheveux augmentent. Pourquoi ne pas masser doucement ton cuir chevelu ?"
     },
-    "related": "Hair loss / fallen-out hair."
+    "related": "Hair loss / fallen-out hair.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1972",
@@ -47868,7 +50231,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: For the weekend soccer final, I'll cheer on the local team at the stadium!<br/>B: Supporters' cheers give enormous courage to the players.",
       "fr": "A: For the weekend soccer final, I'll cheer on the local team at the stadium!<br/>B: Supporters' cheers give enormous courage to the players."
     },
-    "related": "To cheer on / support (a person, team, or cause)."
+    "related": "To cheer on / support (a person, team, or cause).",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1973",
@@ -47893,7 +50257,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 聽日個活動好似會因為落雨而取消...<br/>B: 始終係天氣嘅問題，我都無能為力呀。",
       "fr": "A : On dirait que l'événement de demain va être annulé à cause de la pluie...<br/>B : Vu que c'est lié à la météo, il n'y a rien que je puisse faire."
     },
-    "related": "どうすることもできない（どうすることもできない）"
+    "related": "どうすることもできない（どうすることもできない）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1974",
@@ -47918,7 +50283,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Last night's total lunar eclipse couldn't be watched due to heavy clouds.<br/>B: Missing the cosmic show in person is frustrating, but let's watch the news.",
       "fr": "A: Last night's total lunar eclipse couldn't be watched due to heavy clouds.<br/>B: Missing the cosmic show in person is frustrating, but let's watch the news."
     },
-    "related": "\"Couldn't watch/see (it)\" (missed the opportunity/ability) vs. \"couldn't see (it)\" (it wasn't visible) — 見れなかった is the n"
+    "related": "\"Couldn't watch/see (it)\" (missed the opportunity/ability) vs. \"couldn't see (it)\" (it wasn't visible) — 見れなかった is the n",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1975",
@@ -47943,7 +50309,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 頭先站前拍緊電視外景，我見到大明星名人呀！<br/>B: 哇，真係㗎？邊個嚟㗎？有冇叫佢簽名？",
       "fr": "A: Il y avait un tournage télé devant la gare tout à l'heure, j'ai aperçu une célébrité !<br/>B: Ouah, sans blague ? C'était qui ? Tu as eu un autographe ?"
     },
-    "related": "A famous person / celebrity — broader than 芸能人, covering anyone well-known, not just people in entertainment (e.g. athle"
+    "related": "A famous person / celebrity — broader than 芸能人, covering anyone well-known, not just people in entertainment (e.g. athle",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1976",
@@ -47968,7 +50335,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢首歌唔止旋律好聽，歌詞都好感人。<br/>B: 係呀，特別係副歌嗰段真係好催淚。",
       "fr": "A : Cette chanson a une belle mélodie, mais les paroles sont aussi très touchantes.<br/>B : Oui, le refrain en particulier donne envie de pleurer."
     },
-    "related": "メロディー ⇄ 歌詞（かし）"
+    "related": "メロディー ⇄ 歌詞（かし）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1977",
@@ -47993,7 +50361,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: While driving, I often listen to nostalgic Western music like The Beatles.<br/>B: Pleasant melodies make foreign music the best driving soundtrack.",
       "fr": "A: While driving, I often listen to nostalgic Western music like The Beatles.<br/>B: Pleasant melodies make foreign music the best driving soundtrack."
     },
-    "related": "Western/foreign music — a Japanese term specifically referring to non-Japanese (typically Western, especially English-la"
+    "related": "Western/foreign music — a Japanese term specifically referring to non-Japanese (typically Western, especially English-la",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1978",
@@ -48018,7 +50387,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 我尋日運動咗5分鐘呀。<br/>B: 5分鐘，根本唔算係運動啦！",
       "fr": "A : J'ai fait du sport pendant juste 5 minutes hier.<br/>B : 5 minutes, ça ne compte pas comme du sport !"
     },
-    "related": "〜のうちに入らない（〜のうちにはいらない）"
+    "related": "〜のうちに入らない（〜のうちにはいらない）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1979",
@@ -48043,7 +50413,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I felt like someone called my name...<br/>B: There's no one around. Isn't it just your imagination?",
       "fr": "A: I felt like someone called my name...<br/>B: There's no one around. Isn't it just your imagination?"
     },
-    "related": "\"It's just your imagination\" / \"it's all in your head\" — used to dismiss a feeling, sensation, or perception as not base"
+    "related": "\"It's just your imagination\" / \"it's all in your head\" — used to dismiss a feeling, sensation, or perception as not base",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1980",
@@ -48068,7 +50439,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I was impressed watching the craftsman meticulously finish one item.<br/>B: The passion to craft one single thing without compromise is splendid.",
       "fr": "A: I was impressed watching the craftsman meticulously finish one item.<br/>B: The passion to craft one single thing without compromise is splendid."
     },
-    "related": "\"One thing\" (a tangible object) vs. \"one thing\" (an abstract matter/event) — もの refers to concrete, physical things, whi"
+    "related": "\"One thing\" (a tangible object) vs. \"one thing\" (an abstract matter/event) — もの refers to concrete, physical things, whi",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1981",
@@ -48093,7 +50465,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 俾細佬笑我「大肥佬/肥婆」，好心靈受創。<br/>B: 咁冇禮貌嘅說話唔使擺喺心，你根本一啲都唔肥。",
       "fr": "A: Mon frère m'a blessé en me traitant de « gros ».<br/>B: Ne fais pas attention à des remarques aussi déplacées. Tu n'es pas gros du tout."
     },
-    "related": "\"Fatty\" / \"fat person\" — a blunt, casual, and often rude/insulting slang term for someone overweight; not polite or neut"
+    "related": "\"Fatty\" / \"fat person\" — a blunt, casual, and often rude/insulting slang term for someone overweight; not polite or neut",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1982",
@@ -48118,7 +50491,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 佢一拍拖之後，覆Message就變得慢到七彩。<br/>B: 真係典型嘅「捉到鹿唔識脫角 / 追到手就唔珍惜」類型。同佢坐低傾下好啲。",
       "fr": "A: Dès que nous nous sommes mis ensemble, il a mis un temps fou à répondre à mes messages.<br/>B: C'est typique de ceux qui ne font plus d'efforts une fois la personne conquise. Tu devrais avoir une franche discussion avec lui."
     },
-    "related": "\"Doesn't feed the fish they've already caught\" — an idiom describing someone (often in a romantic relationship) who stop"
+    "related": "\"Doesn't feed the fish they've already caught\" — an idiom describing someone (often in a romantic relationship) who stop",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1983",
@@ -48143,7 +50517,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Have you ever imagined what the world 100 years in the future looks like?<br/>B: Imagining flying cars and ubiquitous AI makes one excited.",
       "fr": "A: Have you ever imagined what the world 100 years in the future looks like?<br/>B: Imagining flying cars and ubiquitous AI makes one excited."
     },
-    "related": "To imagine."
+    "related": "To imagine.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1984",
@@ -48168,7 +50543,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When visiting the shrine, I prayed for my family's good health.<br/>B: Clasping hands and praying quietly feels like purifying the spirit.",
       "fr": "A: When visiting the shrine, I prayed for my family's good health.<br/>B: Clasping hands and praying quietly feels like purifying the spirit."
     },
-    "related": "To pray — but in the context of job hunting (就活), colloquially refers to receiving a rejection notice, named after the p"
+    "related": "To pray — but in the context of job hunting (就活), colloquially refers to receiving a rejection notice, named after the p",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1985",
@@ -48193,7 +50569,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He has dull senses.",
       "fr": "He has dull senses."
     },
-    "related": "A sense / feeling / sensation — can refer to physical senses (touch, taste) or a more abstract intuitive feeling/sensibi"
+    "related": "A sense / feeling / sensation — can refer to physical senses (touch, taste) or a more abstract intuitive feeling/sensibi",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1986",
@@ -48218,7 +50595,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Before the meeting, I organized scattered ideas in my notebook.<br/>B: Organizing discussion points boosts presentation persuasiveness.",
       "fr": "A: Before the meeting, I organized scattered ideas in my notebook.<br/>B: Organizing discussion points boosts presentation persuasiveness."
     },
-    "related": "\"To organize/sort out\" vs. \"organizing and tidying\" — 整理する is the general verb for sorting, organizing, or decluttering "
+    "related": "\"To organize/sort out\" vs. \"organizing and tidying\" — 整理する is the general verb for sorting, organizing, or decluttering ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1987",
@@ -48243,7 +50621,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢啲嘢食係特登為我煮㗎？<br/>B: 唔係呀，係我自己要食！唔係為咗你而煮㗎。",
       "fr": "A : Tu as préparé ce repas pour moi ?<br/>B : Non, c'est pour moi ! Ce n'est pas pour toi, je te signale."
     },
-    "related": "〜のため（〜のため）"
+    "related": "〜のため（〜のため）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1988",
@@ -48268,7 +50647,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In the spring meadow, children were picking yellow dandelions and playing.<br/>B: The sight of them picking flowers with tiny hands is heartwarming.",
       "fr": "A: In the spring meadow, children were picking yellow dandelions and playing.<br/>B: The sight of them picking flowers with tiny hands is heartwarming."
     },
-    "related": "To pick flowers."
+    "related": "To pick flowers.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1989",
@@ -48293,7 +50673,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 日日咁忙，你仲堅持咁早起身自己帶飯做飯盒？<br/>B: 係呀，為咗慳錢同健康啲嘛。<br/>A: 咁識照顧自己，真係好叻好值得讚！",
       "fr": "A: Alors que tu es débordé, tu te lèves tôt tous les matins pour te préparer ton bento ?<br/>B: Oui, je le fais pour faire des économies et manger sainement.<br/>A: Tu es vraiment admirable de gérer tout ça aussi bien !"
     },
-    "related": "\"That's admirable/well done\" vs. \"great/admirable/high-ranking\" vs. \"acting high and mighty\" — 偉いね is a warm, casual com"
+    "related": "\"That's admirable/well done\" vs. \"great/admirable/high-ranking\" vs. \"acting high and mighty\" — 偉いね is a warm, casual com",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1990",
@@ -48318,7 +50699,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Taxation is based on income.",
       "fr": "Taxation is based on income."
     },
-    "related": "Tax."
+    "related": "Tax.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1991",
@@ -48343,7 +50725,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Terms didn't match, and our proposal was rejected by the client.<br/>B: Let's analyze why it was turned down and draft another proposal.",
       "fr": "A: Terms didn't match, and our proposal was rejected by the client.<br/>B: Let's analyze why it was turned down and draft another proposal."
     },
-    "related": "\"To be rejected/refused\" (formal, often for applications/requests) vs. \"to be turned down\" (more casual, often for perso"
+    "related": "\"To be rejected/refused\" (formal, often for applications/requests) vs. \"to be turned down\" (more casual, often for perso",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1992",
@@ -48368,7 +50751,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 對住部電腦對眼好攰嗰陣你會點做？<br/>B: 挨住張凳合埋對眼閉目養神5分鐘，個人已經精神返好多。",
       "fr": "A: Que faites-vous quand vos yeux fatiguent devant l'ordinateur ?<br/>B: Il suffit de s'adosser à son fauteuil et de fermer doucement les yeux pendant cinq minutes pour se sentir revigoré."
     },
-    "related": "To close one's eyes."
+    "related": "To close one's eyes.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1993",
@@ -48393,7 +50777,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "大家滿懷興奮咁發揮想像力，想像未來嘅城市會變成點樣。",
       "fr": "Tout le monde laissait libre cours à son imagination avec enthousiasme en songeant à l’évolution des villes du futur."
     },
-    "related": "Imagination."
+    "related": "Imagination.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1994",
@@ -48418,7 +50803,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I found my ideal room that gets good sunlight and is close to the station!<br/>B: Finding an ideal property matching all criteria is truly fortunate.",
       "fr": "A: I found my ideal room that gets good sunlight and is close to the station!<br/>B: Finding an ideal property matching all criteria is truly fortunate."
     },
-    "related": "Ideal — describing something as the perfect, most desirable version of its kind."
+    "related": "Ideal — describing something as the perfect, most desirable version of its kind.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1995",
@@ -48443,7 +50829,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "喺薄霧後面，遠處富士山雄偉嘅身影慢慢浮現出嚟。",
       "fr": "Au-delà de la brume, la silhouette majestueuse du mont Fuji au loin est apparue lentement."
     },
-    "related": "A figure / form / appearance — often used for the visible shape or image of a person, sometimes with a poetic or formal "
+    "related": "A figure / form / appearance — often used for the visible shape or image of a person, sometimes with a poetic or formal ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1996",
@@ -48468,7 +50855,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Reviewing flashcards before bed daily is an effective way to retain memory.<br/>B: Practicing scientifically effective study methods makes results come easily.",
       "fr": "A: Reviewing flashcards before bed daily is an effective way to retain memory.<br/>B: Practicing scientifically effective study methods makes results come easily."
     },
-    "related": "Effective."
+    "related": "Effective.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1997",
@@ -48493,7 +50881,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: In this course, you learn practical skills useful on-site beyond theory.<br/>B: Practical content applicable to work right away is so gratifying.",
       "fr": "A: In this course, you learn practical skills useful on-site beyond theory.<br/>B: Practical content applicable to work right away is so gratifying."
     },
-    "related": "Practical / hands-on — describing something grounded in real, actionable application rather than pure theory."
+    "related": "Practical / hands-on — describing something grounded in real, actionable application rather than pure theory.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1998",
@@ -48518,7 +50907,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I am exhausted.",
       "fr": "I am exhausted."
     },
-    "related": "Physical strength / stamina / physical fitness."
+    "related": "Physical strength / stamina / physical fitness.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_1999",
@@ -48543,7 +50933,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Rain on Monday mornings gives a somewhat gloomy mood.<br/>B: Listen to favorite music to blow away that melancholic feeling!",
       "fr": "A: Rain on Monday mornings gives a somewhat gloomy mood.<br/>B: Listen to favorite music to blow away that melancholic feeling!"
     },
-    "related": "Depressed / gloomy / melancholic — describing a heavy, low mood or a dispiriting situation/atmosphere."
+    "related": "Depressed / gloomy / melancholic — describing a heavy, low mood or a dispiriting situation/atmosphere.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2000",
@@ -48568,7 +50959,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Why are you barefoot?",
       "fr": "Why are you barefoot?"
     },
-    "related": "Barefoot."
+    "related": "Barefoot.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2001",
@@ -48593,7 +50985,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Phone map apps are truly useful when getting lost while traveling.<br/>B: Offline map features are also immensely helpful abroad.",
       "fr": "A: Phone map apps are truly useful when getting lost while traveling.<br/>B: Offline map features are also immensely helpful abroad."
     },
-    "related": "\"To be useful / helpful\" — describes something (an item, piece of information, skill) that serves a practical, beneficia"
+    "related": "\"To be useful / helpful\" — describes something (an item, piece of information, skill) that serves a practical, beneficia",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2002",
@@ -48618,7 +51011,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The reason is simple.",
       "fr": "The reason is simple."
     },
-    "related": "A reason."
+    "related": "A reason.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2003",
@@ -48643,7 +51037,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I carelessly forgot watering, and the potted flowers on the balcony withered.<br/>B: That's sad. Let's water regularly from now on to grow them healthy.",
       "fr": "A: I carelessly forgot watering, and the potted flowers on the balcony withered.<br/>B: That's sad. Let's water regularly from now on to grow them healthy."
     },
-    "related": "\"The flower withers/dies\" — 枯れる describes a plant drying up and dying, typically from lack of water or the natural end o"
+    "related": "\"The flower withers/dies\" — 枯れる describes a plant drying up and dying, typically from lack of water or the natural end o",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2004",
@@ -48668,7 +51063,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "That responsibility is a burden to him.",
       "fr": "That responsibility is a burden to him."
     },
-    "related": "A burden / load — a responsibility, cost, or strain placed on someone, whether financial, physical, or emotional."
+    "related": "A burden / load — a responsibility, cost, or strain placed on someone, whether financial, physical, or emotional.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2005",
@@ -48693,7 +51089,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As a study companion, I bought chewy fruit-flavored gummy candies.<br/>B: Chewing gummies stimulates the brain and sharpens concentration.",
       "fr": "A: As a study companion, I bought chewy fruit-flavored gummy candies.<br/>B: Chewing gummies stimulates the brain and sharpens concentration."
     },
-    "related": "Gummy candy."
+    "related": "Gummy candy.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2006",
@@ -48718,7 +51115,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: On summer shaved ice, I love drizzling sweet condensed milk with strawberry syrup!<br/>B: The rich sweetness of condensed milk and cold shaved ice is the best pairing.",
       "fr": "A: On summer shaved ice, I love drizzling sweet condensed milk with strawberry syrup!<br/>B: The rich sweetness of condensed milk and cold shaved ice is the best pairing."
     },
-    "related": "Condensed milk."
+    "related": "Condensed milk.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2007",
@@ -48743,7 +51141,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: A friend fired rude jokes at newcomers, leaving everyone utterly put off.<br/>B: Inappropriate remarks in the wrong setting really make people recoil.",
       "fr": "A: A friend fired rude jokes at newcomers, leaving everyone utterly put off.<br/>B: Inappropriate remarks in the wrong setting really make people recoil."
     },
-    "related": "Being utterly put off / recoiling in shock or disgust — a casual, expressive word for a strong negative reaction to some"
+    "related": "Being utterly put off / recoiling in shock or disgust — a casual, expressive word for a strong negative reaction to some",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2008",
@@ -48768,7 +51167,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The teacher at the cram school I attended had a Spartan style with huge homework.<br/>B: Thanks to strict Spartan discipline, you passed your first-choice school.",
       "fr": "A: The teacher at the cram school I attended had a Spartan style with huge homework.<br/>B: Thanks to strict Spartan discipline, you passed your first-choice school."
     },
-    "related": "Spartan (strict/harsh) — used as an adjective-like loanword in Japanese (often with な or 式) to describe an extremely str"
+    "related": "Spartan (strict/harsh) — used as an adjective-like loanword in Japanese (often with な or 式) to describe an extremely str",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2009",
@@ -48793,7 +51193,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: To travel to Japan next year, I save money steadily every month.<br/>B: Having a goal encourages saving money and curbing waste.",
       "fr": "A: To travel to Japan next year, I save money steadily every month.<br/>B: Having a goal encourages saving money and curbing waste."
     },
-    "related": "To save (up) money."
+    "related": "To save (up) money.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2010",
@@ -48818,7 +51219,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "It was a perfect fit.",
       "fr": "It was a perfect fit."
     },
-    "related": "Perfectly / exactly / just right — describes something fitting, matching, or aligning precisely, whether in size, timing"
+    "related": "Perfectly / exactly / just right — describes something fitting, matching, or aligning precisely, whether in size, timing",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2011",
@@ -48843,7 +51245,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "The young man was disappointed in love.",
       "fr": "The young man was disappointed in love."
     },
-    "related": "Heartbreak / a broken heart (from a failed romantic relationship) — the experience of being rejected by or losing someon"
+    "related": "Heartbreak / a broken heart (from a failed romantic relationship) — the experience of being rejected by or losing someon",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2012",
@@ -48868,7 +51271,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Speaking of classic bento side dishes, tamagoyaki and fried chicken come to mind.<br/>B: Classic staple dishes loved by everyone bring comfort.",
       "fr": "A: Speaking of classic bento side dishes, tamagoyaki and fried chicken come to mind.<br/>B: Classic staple dishes loved by everyone bring comfort."
     },
-    "related": "A classic / standard / staple — something so commonly used, chosen, or relied upon that it's considered the default, go-"
+    "related": "A classic / standard / staple — something so commonly used, chosen, or relied upon that it's considered the default, go-",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2013",
@@ -48893,7 +51297,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: The moment I reached the gate the train pulled in—I was so lucky!<br/>B: Boarding without any waiting time is truly fortunate.",
       "fr": "A: The moment I reached the gate the train pulled in—I was so lucky!<br/>B: Boarding without any waiting time is truly fortunate."
     },
-    "related": "\"To be lucky\" — having good fortune, especially in situations determined by chance rather than effort or skill."
+    "related": "\"To be lucky\" — having good fortune, especially in situations determined by chance rather than effort or skill.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2014",
@@ -48918,7 +51323,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 想問陌生人路，但好緊張呀。<br/>B: 唔緊要，我哋去同嗰個睇落幾友善嘅人搭話試下啦。",
       "fr": "A : J'aimerais demander mon chemin à un inconnu, mais je suis nerveux.<br/>B : Ne t'inquiète pas, essayons d'aborder cette personne qui a l'air gentille."
     },
-    "related": "声をかける（こえをかける）"
+    "related": "声をかける（こえをかける）",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2015",
@@ -48943,7 +51349,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I applied for membership in the association.",
       "fr": "I applied for membership in the association."
     },
-    "related": "Recruitment / soliciting applicants — the act of calling for people (employees, participants, volunteers) to apply or si"
+    "related": "Recruitment / soliciting applicants — the act of calling for people (employees, participants, volunteers) to apply or si",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2016",
@@ -48968,7 +51375,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: You've been spacing out; do you have something on your mind?<br/>B: Yes, I was mulling over the structure of tomorrow's presentation.",
       "fr": "A: You've been spacing out; do you have something on your mind?<br/>B: Yes, I was mulling over the structure of tomorrow's presentation."
     },
-    "related": "Something on one's mind / a matter one is thinking/mulling over — a thought, concern, or topic that occupies someone's m"
+    "related": "Something on one's mind / a matter one is thinking/mulling over — a thought, concern, or topic that occupies someone's m",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2017",
@@ -48993,7 +51401,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "I talk to myself.",
       "fr": "I talk to myself."
     },
-    "related": "Talking to oneself / muttering to oneself — words spoken aloud to no one in particular, often unconsciously, when alone "
+    "related": "Talking to oneself / muttering to oneself — words spoken aloud to no one in particular, often unconsciously, when alone ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2018",
@@ -49018,7 +51427,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Japanese has a different word order from English, with verbs at the end.<br/>B: You feel bewildered until used to word order differences, but it becomes natural.",
       "fr": "A: Japanese has a different word order from English, with verbs at the end.<br/>B: You feel bewildered until used to word order differences, but it becomes natural."
     },
-    "related": "語順 specifically means \"word order\" — the sequence in which words are arranged in a sentence, a grammar-specific term. 順番"
+    "related": "語順 specifically means \"word order\" — the sequence in which words are arranged in a sentence, a grammar-specific term. 順番",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2019",
@@ -49043,7 +51453,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "Here's the address.",
       "fr": "Here's the address."
     },
-    "related": "An address."
+    "related": "An address.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2020",
@@ -49068,7 +51479,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "He can be trusted.",
       "fr": "He can be trusted."
     },
-    "related": "Trust / confidence (in someone or something) — a firm belief in the reliability, honesty, or ability of a person or thin"
+    "related": "Trust / confidence (in someone or something) — a firm belief in the reliability, honesty, or ability of a person or thin",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2021",
@@ -49093,7 +51505,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He is the type to hold a grudge over petty jokes for years, so beware.<br/>B: Holding ancient grudges forever makes someone difficult to deal with.",
       "fr": "A: He is the type to hold a grudge over petty jokes for years, so beware.<br/>B: Holding ancient grudges forever makes someone difficult to deal with."
     },
-    "related": "To hold a grudge — to continue harboring resentment or ill feelings about something long after it happened, rather than "
+    "related": "To hold a grudge — to continue harboring resentment or ill feelings about something long after it happened, rather than ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2022",
@@ -49118,7 +51531,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: When exiting the train door, my bag's strap got caught on the handrail.<br/>B: In crowded moments luggage can get hooked unexpectedly, so caution is needed.",
       "fr": "A: When exiting the train door, my bag's strap got caught on the handrail.<br/>B: In crowded moments luggage can get hooked unexpectedly, so caution is needed."
     },
-    "related": "To get caught/hooked (on something), or (figuratively) to fall for/be deceived by something — literally describes someth"
+    "related": "To get caught/hooked (on something), or (figuratively) to fall for/be deceived by something — literally describes someth",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2023",
@@ -49143,7 +51557,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Rehearsals are done, tomorrow is finally the real event!<br/>B: I'm nervous, but I'll do my best to give everything in the real show!",
       "fr": "A: Rehearsals are done, tomorrow is finally the real event!<br/>B: I'm nervous, but I'll do my best to give everything in the real show!"
     },
-    "related": "The real/actual performance/event (as opposed to a rehearsal or practice) — the moment when something happens for real, "
+    "related": "The real/actual performance/event (as opposed to a rehearsal or practice) — the moment when something happens for real, ",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2024",
@@ -49168,7 +51583,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
       "fr": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice."
     },
-    "related": "Fabric softener."
+    "related": "Fabric softener.",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2025",
@@ -49193,7 +51609,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: He passed exams and will be hired as a regular full-time employee next month.<br/>B: Having hard work recognized to become a permanent staffer is joyous.",
       "fr": "A: He passed exams and will be hired as a regular full-time employee next month.<br/>B: Having hard work recognized to become a permanent staffer is joyous."
     },
-    "related": "regular employee / permanent employee / full-time permanent staff"
+    "related": "regular employee / permanent employee / full-time permanent staff",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2026",
@@ -49218,7 +51635,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: As a dispatched agency worker, I experienced projects at various major firms.<br/>B: Honing skills across diverse workplaces is a major asset.",
       "fr": "A: As a dispatched agency worker, I experienced projects at various major firms.<br/>B: Honing skills across diverse workplaces is a major asset."
     },
-    "related": "dispatched worker / temporary agency worker"
+    "related": "dispatched worker / temporary agency worker",
+    "studentId": "0023"
   },
   {
     "id": "class_word_2027",
@@ -49243,7 +51661,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: Even toward my mistake, the supervisor forgave me with a generous attitude.<br/>B: A magnanimous boss who guides warmly without blaming failures.",
       "fr": "A: Even toward my mistake, the supervisor forgave me with a generous attitude.<br/>B: A magnanimous boss who guides warmly without blaming failures."
     },
-    "related": "generous / tolerant / lenient / magnanimous"
+    "related": "generous / tolerant / lenient / magnanimous",
+    "studentId": "0023"
   },
   {
     "id": "card_1791393927923_pd4xbi",
@@ -49293,7 +51712,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 遵守法律作為社會規則係非常重要嘅。<br/>B: 係呀，無論任何情況下都應該根據法律行事。",
       "fr": "A: Il est essentiel de respecter la loi comme règle sociale.<br/>B: Oui, nous devons toujours agir conformément à la loi."
     },
-    "related": "ほうりつ（授業の重要表現）"
+    "related": "ほうりつ（授業の重要表現）",
+    "studentId": "0023"
   },
   {
     "id": "card_arun_koukai",
@@ -49318,7 +51738,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 好期待嗰部戲下個禮拜就上映喇！<br/>B: 係呀，我打算上映第一日就去睇。",
       "fr": "A: Le film que j'attendais sort la semaine prochaine !<br/>B: Oui, je compte aller le voir dès le premier jour."
     },
-    "related": "こうかい（授業の重要表現）"
+    "related": "こうかい（授業の重要表現）",
+    "studentId": "0023"
   },
   {
     "id": "card_arun_hikoukai",
@@ -49343,7 +51764,8 @@ window.CLASS_VOCAB_DATA = [
       "zh_HK": "A: 呢個會議嘅內容係咪完全唔公開㗎？<br/>B: 係呀，除咗相關人員之外一律都係非公開嘅。",
       "fr": "A: Le contenu de cette réunion est-il totalement confidentiel ?<br/>B: Oui, il reste privé pour toute personne extérieure."
     },
-    "related": "ひこうかい（授業の重要表現）"
+    "related": "ひこうかい（授業の重要表現）",
+    "studentId": "0023"
   },
   {
     "id": "card_midori_yoichi",

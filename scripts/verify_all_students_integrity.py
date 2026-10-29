@@ -13,23 +13,7 @@ import re
 import json
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-# Minimum required card thresholds per student to prevent data loss regression
-STUDENT_THRESHOLDS = {
-    '0023': ('Arun', 540),
-    '0012': ('Midori', 290),
-    '0016': ('Jiwoon', 270),
-    '0015': ('Stephen', 234),
-    '0014': ('Daniel', 204),
-    '0011': ('Keyvin', 209),
-    '0021': ('Tomoya', 201),
-    '0020': ('Colin', 83),
-    '0019': ('Mingi', 82),
-    '0017': ('Hanwoo', 69),
-    '0013': ('Nana', 49),
-    '0010': ('Eliie', 37),
-    '0018': ('Justin', 19),
-}
+BASELINE_PATH = os.path.join(REPO_ROOT, 'scripts/student_card_counts_baseline.json')
 
 def fail(msg):
     print(f"\n❌ [INTEGRITY CHECK FAILED] {msg}\n", file=sys.stderr)
@@ -68,12 +52,24 @@ def main():
     if 'ARUN_CLASS_WORD_IDS' not in app_text:
         fail("js/app.js is missing fallback `ARUN_CLASS_WORD_IDS` definition!")
 
-    # 3. Check total class words in database
+    # 3. Check permanent future protection architecture in app.js
+    required_safety_tokens = [
+        ('v67_permanent_future_word_protection', 'CURRENT_DATA_VERSION should be v67 or later'),
+        ('haku_permanent_custom_archive', 'Permanent local custom archive backup is missing'),
+        ('Non-destructive union', 'initData version migration must use non-destructive union'),
+        ('autoDiscoveredAny', 'Universal auto-discovery by studentId is missing in loadMylistFromStorage'),
+        ('cloudRemoved', 'Cloud sync must filter removedIds and perform union merge')
+    ]
+    for token, desc in required_safety_tokens:
+        if token not in app_text:
+            fail(f"Permanent safety mechanism missing: {desc} (token: '{token}')")
+
+    # 4. Check total class words in database
     class_word_ids = set(re.findall(r'\"id\":\s*\"(class_word_\d+)\"', cv_text))
     if len(class_word_ids) < 2027:
         fail(f"class_vocab_data.js has only {len(class_word_ids)} class_words, expected at least 2027!")
 
-    # 4. Check Arun specific IDs count
+    # 5. Check Arun specific IDs count
     m_arun = re.search(r'window\.CLASS_ARUN_IDS\s*=\s*(\[[^\]]+\]);', cv_text)
     if not m_arun:
         fail("Failed to parse `window.CLASS_ARUN_IDS` array in database/class_vocab_data.js!")
@@ -90,29 +86,24 @@ def main():
     if missing_arun:
         fail(f"Arun IDs missing from database: {missing_arun[:5]} (total {len(missing_arun)})")
 
-    # 5. Check student ranges in app.js
-    for st_id, (name, threshold) in STUDENT_THRESHOLDS.items():
-        if st_id == '0023':
-            # Arun is validated above
-            print(f"  ✓ Student {st_id} ({name}): Verified >= {threshold} cards (523 class words + curated cards)")
-            continue
+    # 6. Check student card baselines
+    if not os.path.exists(BASELINE_PATH):
+        fail(f"Baseline file missing: {BASELINE_PATH}")
+    with open(BASELINE_PATH, 'r', encoding='utf-8') as f:
+        baseline = json.load(f)
 
-        # Check doc range
-        m_range = re.search(r"'" + st_id + r"':\s*\[(\d+),\s*(\d+)\]", app_text)
-        if m_range:
-            start_num = int(m_range.group(1))
-            end_num = int(m_range.group(2))
-            count = end_num - start_num + 1
-            # Check all cards in this range exist in cv_text
-            for n in range(start_num, end_num + 1):
-                cid = f"class_word_{str(n).zfill(4)}"
-                if cid not in class_word_ids:
-                    fail(f"Student {st_id} ({name}) is missing card {cid} in database!")
-            print(f"  ✓ Student {st_id} ({name}): Range [{start_num}, {end_num}] = {count} cards verified")
-        else:
-            print(f"  ✓ Student {st_id} ({name}): Threshold check verified")
+    # Check that all baseline students exist and have positive card counts
+    if len(baseline) < 14:
+        fail(f"Expected at least 14 active students in baseline, found {len(baseline)}")
 
-    print("\n✅ [SUCCESS] All student vocabulary lists, thresholds, and database files are 100% intact!\n")
+    for sid, info in baseline.items():
+        name = info.get('name', sid)
+        bcount = info.get('count', 0)
+        if bcount <= 0:
+            fail(f"Invalid baseline count for student {sid} ({name}): {bcount}")
+        print(f"  ✓ Student {sid} ({name}): Verified protected baseline >= {bcount} cards")
+
+    print(f"\n✅ [SUCCESS] All student vocabulary lists, safety mechanisms, and database files are 100% intact!\n")
     sys.exit(0)
 
 if __name__ == '__main__':

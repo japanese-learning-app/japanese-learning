@@ -6231,7 +6231,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v66_restore_arun_all_547_words';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
@@ -6241,11 +6241,23 @@
     // Load and preserve ALL custom cards across all students (strictly excluding seed/curriculum cards)
     let allCustomCards = [];
     try {
+      const fromArchive = JSON.parse(localStorage.getItem('haku_permanent_custom_archive') || '[]');
+      if (Array.isArray(fromArchive)) {
+        fromArchive.forEach(c => {
+          if (c && c.id && !seedCardMap.has(c.id) && c.section_num === undefined && isCustomCardId(c.id)) {
+            allCustomCards.push(c);
+          }
+        });
+      }
+    } catch(e) {}
+    try {
       const fromAll = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]');
       if (Array.isArray(fromAll)) {
         fromAll.forEach(c => {
           if (c && c.id && !seedCardMap.has(c.id) && c.section_num === undefined && isCustomCardId(c.id)) {
-            allCustomCards.push(c);
+            if (!allCustomCards.find(existing => existing.id === c.id)) {
+              allCustomCards.push(c);
+            }
           }
         });
       }
@@ -6409,6 +6421,7 @@
     });
 
     localStorage.setItem('haku_all_custom_cards', JSON.stringify(allCustomCards));
+    localStorage.setItem('haku_permanent_custom_archive', JSON.stringify(allCustomCards));
 
     // Construct vocabList strictly: seed cards first, then custom cards (guaranteed 0 duplicates)
     const seenVocabIds = new Set();
@@ -6485,61 +6498,61 @@
           stFolders.unshift({ id: CLASS_FOLDER_ID, name: CLASS_FOLDER_NAME });
           localStorage.setItem(foldersKey, JSON.stringify(stFolders));
         }
-
-        // Clean previous class_word cards from this student's mylist
+        // Preserve all existing student cards and add all tagged class words (Non-destructive union)
         let stSet = [];
         try { stSet = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) { stSet = []; }
         let stMap = {};
         try { stMap = JSON.parse(localStorage.getItem(mapKey) || '{}'); } catch (e) { stMap = {}; }
 
-        // Remove old class_word_*
-        const filteredSet = stSet.filter(id => !id.startsWith('class_word_'));
-        Object.keys(stMap).forEach(id => {
-          if (id.startsWith('class_word_')) {
-            delete stMap[id];
+        const finalStudentSet = new Set(stSet);
+        const studentCardIds = new Set();
+
+        // 1. Auto-discover all cards tagged for this student from CLASS_VOCAB_DATA
+        (window.CLASS_VOCAB_DATA || []).forEach(c => {
+          if (c && c.id && (c.studentId === stId || (Array.isArray(c.studentIds) && c.studentIds.includes(stId)))) {
+            studentCardIds.add(c.id);
           }
         });
 
-        // Add ONLY this student's specific words
+        // 2. Legacy student doc ranges fallback
         const range = STUDENT_DOC_RANGES[stId];
         if (range) {
           const [startNum, endNum] = range;
           for (let num = startNum; num <= endNum; num++) {
-            const cId = `class_word_${String(num).padStart(4, '0')}`;
-            filteredSet.push(cId);
-            stMap[cId] = CLASS_FOLDER_ID;
-          }
-          if (stId === '0012') {
-            const mId = 'card_1791393927923_pd4xbi';
-            filteredSet.push(mId);
-            stMap[mId] = CLASS_FOLDER_ID;
-            MIDORI_NEW_CARD_IDS.forEach(id => {
-              filteredSet.push(id);
-              stMap[id] = CLASS_FOLDER_ID;
-            });
-          }
-          if (stId === '0014') {
-            DANIEL_NEW_CARD_IDS.forEach(id => {
-              filteredSet.push(id);
-              stMap[id] = CLASS_FOLDER_ID;
-            });
-          }
-        } else if (stId === '0023') {
-          // Special exact list for Arun (523 class words + 21 curated new words)
-          const arunIds = window.CLASS_ARUN_IDS || ARUN_CLASS_WORD_IDS || [];
-          arunIds.forEach(cId => {
-            filteredSet.push(cId);
-            stMap[cId] = CLASS_FOLDER_ID;
-          });
-          if (typeof ARUN_NEW_CARD_IDS !== 'undefined') {
-            ARUN_NEW_CARD_IDS.forEach(cId => {
-              filteredSet.push(cId);
-              stMap[cId] = CLASS_FOLDER_ID;
-            });
+            studentCardIds.add(`class_word_${String(num).padStart(4, '0')}`);
           }
         }
 
-        localStorage.setItem(key, JSON.stringify(Array.from(new Set(filteredSet))));
+        // 3. Fallbacks for curated cards
+        if (stId === '0023') {
+          const arunIds = window.CLASS_ARUN_IDS || (typeof ARUN_CLASS_WORD_IDS !== 'undefined' ? ARUN_CLASS_WORD_IDS : []);
+          arunIds.forEach(cId => studentCardIds.add(cId));
+          if (typeof ARUN_NEW_CARD_IDS !== 'undefined') {
+            ARUN_NEW_CARD_IDS.forEach(cId => studentCardIds.add(cId));
+          }
+        }
+        if (stId === '0012') {
+          studentCardIds.add('card_1791393927923_pd4xbi');
+          if (typeof MIDORI_NEW_CARD_IDS !== 'undefined') {
+            MIDORI_NEW_CARD_IDS.forEach(id => studentCardIds.add(id));
+          }
+        }
+        if (stId === '0014' && typeof DANIEL_NEW_CARD_IDS !== 'undefined') {
+          DANIEL_NEW_CARD_IDS.forEach(id => studentCardIds.add(id));
+        }
+        if (stId === '0010' && typeof ELIIE_NEW_CARD_IDS !== 'undefined') {
+          ELIIE_NEW_CARD_IDS.forEach(id => studentCardIds.add(id));
+        }
+
+        // Add discovered cards and assign to class folder
+        studentCardIds.forEach(cId => {
+          finalStudentSet.add(cId);
+          if (!stMap[cId]) {
+            stMap[cId] = CLASS_FOLDER_ID;
+          }
+        });
+
+        localStorage.setItem(key, JSON.stringify(Array.from(finalStudentSet)));
         localStorage.setItem(mapKey, JSON.stringify(stMap));
       });
 
@@ -7790,6 +7803,26 @@
       }
     }
 
+    // Universal auto-discovery: ensure ANY card tagged with this student ID is included
+    let autoDiscoveredAny = false;
+    const allKnownClassCards = (window.CLASS_VOCAB_DATA || []).concat(vocabList || []);
+    allKnownClassCards.forEach(c => {
+      if (c && c.id && (c.studentId === studentPrefix || (Array.isArray(c.studentIds) && c.studentIds.includes(studentPrefix)))) {
+        if (!mylistSet.has(c.id)) {
+          mylistSet.add(c.id);
+          autoDiscoveredAny = true;
+        }
+        if (!mylistCardFolderMap[c.id]) {
+          mylistCardFolderMap[c.id] = CLASS_FOLDER_ID;
+          autoDiscoveredAny = true;
+        }
+      }
+    });
+    if (autoDiscoveredAny) {
+      localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+      localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+    }
+
     // Universal self-healing & strict deduplication for any student
     let needsCleanSave = false;
 
@@ -7973,22 +8006,59 @@
           // Authenticate as target student to satisfy Firestore security rules
           await ensureStudentCloudAuth(studentId, targetStudent.passcode);
           const docRef = fbDb.collection('students').doc(studentId);
-          if (Array.isArray(dataToSync.customCards)) {
-            try {
-              const snap = await docRef.get();
-              const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
-              if (snap.exists && snap.data().wordNames) {
-                dataToSync.wordNames = { ...snap.data().wordNames, ...(dataToSync.wordNames || {}) };
+          try {
+            const snap = await docRef.get();
+            if (snap.exists) {
+              const cloudData = snap.data() || {};
+              const cloudRemoved = new Set(Array.isArray(cloudData.removedIds) ? cloudData.removedIds : []);
+
+              // Merge wordNames
+              if (cloudData.wordNames) {
+                dataToSync.wordNames = { ...cloudData.wordNames, ...(dataToSync.wordNames || {}) };
               }
-              const haveIds = new Set(dataToSync.customCards.map(c => c.id));
-              cloudCards.forEach(c => {
-                if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id)) {
-                  dataToSync.customCards.push(c);
-                  haveIds.add(c.id);
-                }
-              });
-              dataToSync.customCards = dataToSync.customCards.filter(c => !isCorruptedCard(c));
-            } catch (e) {}
+
+              // Merge customCards
+              const cloudCards = Array.isArray(cloudData.customCards) ? cloudData.customCards : [];
+              if (Array.isArray(dataToSync.customCards)) {
+                const haveIds = new Set(dataToSync.customCards.map(c => c.id));
+                cloudCards.forEach(c => {
+                  if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id)) {
+                    dataToSync.customCards.push(c);
+                    haveIds.add(c.id);
+                  }
+                });
+                dataToSync.customCards = dataToSync.customCards.filter(c => !isCorruptedCard(c));
+              } else {
+                dataToSync.customCards = cloudCards.filter(c => !isCorruptedCard(c));
+              }
+
+              // ★ 超重要: mylist 双方向結合マージ（ローカルの縮小や消滅でクラウドを上書きしない）
+              if (Array.isArray(cloudData.mylist) && Array.isArray(dataToSync.mylist)) {
+                const mergedMylist = new Set(cloudData.mylist.filter(id => !cloudRemoved.has(id)));
+                dataToSync.mylist.forEach(id => {
+                  if (!cloudRemoved.has(id)) mergedMylist.add(id);
+                });
+                dataToSync.mylist = Array.from(mergedMylist);
+              }
+
+              // Merge cardFolderMap
+              if (cloudData.cardFolderMap && typeof dataToSync.cardFolderMap === 'object') {
+                dataToSync.cardFolderMap = { ...cloudData.cardFolderMap, ...dataToSync.cardFolderMap };
+              }
+
+              // Merge folders
+              if (Array.isArray(cloudData.folders) && Array.isArray(dataToSync.folders)) {
+                const folderIds = new Set(dataToSync.folders.map(f => f.id));
+                cloudData.folders.forEach(f => {
+                  if (f && f.id && !folderIds.has(f.id)) {
+                    dataToSync.folders.push(f);
+                    folderIds.add(f.id);
+                  }
+                });
+              }
+            }
+          } catch (e) {
+            console.warn('Pre-push cloud direct merge note:', e);
           }
           await docRef.set(dataToSync, { merge: true });
           console.log(`Cloud sync direct pushed for student ${studentId} ☁️`);
@@ -8052,19 +8122,45 @@
         // ★ クラウドに既にある正しいカード定義を消さないよう、必ずマージしてから保存
         try {
           const snap = await docRef.get();
-          if (snap.exists && snap.data().wordNames) {
-            mergeWordNames(snap.data().wordNames);
-            wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
-          }
-          const cloudCards = (snap.exists && Array.isArray(snap.data().customCards)) ? snap.data().customCards : [];
-          const haveIds = new Set(customCardsToSync.map(c => c.id));
-          cloudCards.forEach(c => {
-            if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
-              customCardsToSync.push(c);
-              haveIds.add(c.id);
+          if (snap.exists) {
+            const cloudData = snap.data() || {};
+            if (cloudData.wordNames) {
+              mergeWordNames(cloudData.wordNames);
+              wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
             }
-          });
-        } catch (e) {}
+            const cloudCards = Array.isArray(cloudData.customCards) ? cloudData.customCards : [];
+            const haveIds = new Set(customCardsToSync.map(c => c.id));
+            cloudCards.forEach(c => {
+              if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
+                customCardsToSync.push(c);
+                haveIds.add(c.id);
+              }
+            });
+
+            // ★ 超重要: クラウドの mylist を双方向結合マージ（クラウドの既存単語を絶対に消さない）
+            const cloudRemoved = new Set(Array.isArray(cloudData.removedIds) ? cloudData.removedIds : []);
+            if (Array.isArray(cloudData.mylist) && cloudData.mylist.length > 0) {
+              let localAddedFromCloud = false;
+              cloudData.mylist.forEach(id => {
+                if (!cloudRemoved.has(id) && !mylistSet.has(id)) {
+                  mylistSet.add(id);
+                  localAddedFromCloud = true;
+                }
+              });
+              if (localAddedFromCloud) {
+                const stKey = `haku_mylist_${studentId}`;
+                localStorage.setItem(stKey, JSON.stringify(Array.from(mylistSet)));
+              }
+            }
+            if (cloudData.cardFolderMap && typeof cloudData.cardFolderMap === 'object') {
+              mylistCardFolderMap = { ...cloudData.cardFolderMap, ...mylistCardFolderMap };
+              const mapKey = `haku_mylist_card_map_${studentId}`;
+              localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+            }
+          }
+        } catch (e) {
+          console.warn('Pre-push cloud merge note:', e);
+        }
 
         await docRef.set({
           mylist: Array.from(mylistSet),
@@ -11289,6 +11385,13 @@
             if (exIdx >= 0) stored[exIdx] = newCard;
             else stored.push(newCard);
             localStorage.setItem('haku_all_custom_cards', JSON.stringify(stored));
+
+            // Permanent immutable local archive backup
+            const archive = JSON.parse(localStorage.getItem('haku_permanent_custom_archive') || '[]');
+            const exAIdx = archive.findIndex(c => c.id === newCard.id);
+            if (exAIdx >= 0) archive[exAIdx] = newCard;
+            else archive.push(newCard);
+            localStorage.setItem('haku_permanent_custom_archive', JSON.stringify(archive));
           } catch (e) {}
 
           const vIdx = vocabList.findIndex(c => c.id === newCard.id);
