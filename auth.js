@@ -306,12 +306,6 @@
               ログインする
             </button>
           </form>
-
-          <div style="margin-top:16px; padding-top:14px; border-top:1px solid #E2E8F0; text-align:center;">
-            <div style="font-size:0.75rem; color:#94A3B8;">
-              先生・管理者の方はパスコード <code style="background:#F1F5F9; padding:2px 6px; border-radius:6px; font-weight:700;">ppooiillkk</code> でログインできます🌸
-            </div>
-          </div>
         </div>
       `;
       return wrap;
