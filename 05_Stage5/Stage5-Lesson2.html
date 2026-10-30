@@ -167,8 +167,8 @@
 <div class="nav-bar">
   <button class="nav-tab-btn active" onclick="scrollToSection('sec-chart')">1. 辞書形・た形早見表</button>
   <button class="nav-tab-btn" onclick="scrollToSection('sec-dialogue')">2. メイン会話</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar')">3. 文法解説・図解</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice')">4. 実戦ドリル＆ロールプレイ</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar')">3. 文法解説＆即応ドリル</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice')">4. ロールプレイ＆総合演習</button>
   <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji')">5. 新出漢字</button>
   <button class="nav-tab-btn" onclick="scrollToSection('sec-pool')">6. 単語プール</button>
 </div>
@@ -274,13 +274,13 @@
     </div>
   </section>
 
-  <!-- Step 3: 文法解説＆図解 -->
+  <!-- Step 3: 文法解説＆即応ドリル -->
   <section class="content-card" id="sec-grammar">
     <div class="card-header-row">
       <div class="step-label">Step 3</div>
-      <div class="card-main-title">3つの重要文型：趣味・まえに・あとで（てから）</div>
-      <div class="card-subtitle-en">Master nominalization (こと), "before doing" (まえに), and "after doing" (あとで / てから) with clear visual diagrams and timelines.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="명사화(こと), '하기 전에(まえに)', '한 후에(あとで / てから)'의 3가지 핵심 패턴을 도해와 예문으로 정복합니다." data-zhcn="通过直观的图解与时序轴，彻底掌握名词化（こと）、「在~之前（まえに）」与「在~之后（あとで / てから）」三大句型。" data-zhtw="透過直觀的圖解與時序軸，徹底掌握名詞化（こと）、「在~之前（まえに）」與「在~之後（あとで / てから）」三大句型。" data-cant="用直觀嘅圖解同時間線，徹底搞明名詞化（こと）、「喺~之前（まえに）」同埋「喺~之後（あとで / てから）」三大句型。"></div>
+      <div class="card-main-title">3つの重要文型解説 ＆ 各文法即応ドリル</div>
+      <div class="card-subtitle-en">Master nominalization (こと), "before doing" (まえに), and "after doing" (あとで / てから) with clear visual diagrams, timelines, and immediate practice drills.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="명사화(こと), '하기 전에(まえに)', '한 후에(あとで / てから)'의 3가지 핵심 패턴을 도해와 예문으로 익히고, 각 문법 바로 아래의 즉응 드릴로 완성합니다." data-zhcn="通过直观图解与时序轴深入理解名词化（こと）、「在~之前（まえに）」与「在~之后（あとで / てから）」三大句型，并在各文法下方直接进行即时练习！" data-zhtw="透過直觀圖解與時序軸深入理解名詞化（こと）、「在~之前（まえに）」與「在~之後（あとで / てから）」三大句型，並在各文法下方直接進行即時練習！" data-cant="用直觀嘅圖解同時間線徹底搞明名詞化（こと）、「喺~之前（まえに）」同埋「喺~之後（あとで / てから）」三大句型，仲可以直接喺各文法下面即時練！"></div>
     </div>
 
     <!-- Grammar A: 趣味は〜ことです -->
@@ -317,6 +317,24 @@
           <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">ケビンさんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることです。<button class="tts-btn" onclick="speakText('ケビンさんの趣味は写真を撮ることです。')" title="Listen">🔊</button></div><div class="example-en">Kevin's hobby is taking photos.</div></div></div>
           <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp">リンさんの<ruby>趣味<rt>しゅみ</rt></ruby>はおいしいパンを<ruby>焼<rt>や</rt></ruby>くことです。<button class="tts-btn" onclick="speakText('リンさんの趣味はおいしいパンを焼くことです。')" title="Listen">🔊</button></div><div class="example-en">Lin's hobby is baking delicious bread.</div></div></div>
         </div>
+
+        <!-- Immediate Practice Drill for Grammar A -->
+        <div class="practice-part-header" style="margin-top: 24px; border-top: 2px dashed var(--border-light); padding-top: 16px;">
+          <span class="practice-part-badge">Drill A</span>
+          <div class="practice-part-title">即応ドリル A：趣味は〜ことです（全6問）</div>
+        </div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. My hobby is playing the guitar.</div><button class="btn-check-reveal" id="btn-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はギターを<ruby>弾<rt>ひ</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味はギターを弾くことです。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. My hobby is drawing pictures.</div><button class="btn-check-reveal" id="btn-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a2"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味は絵を描くことです。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. Emma's hobby is making foreign dishes (cooking).</div><button class="btn-check-reveal" id="btn-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a3"><span>エマさんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('エマさんの趣味は外国の料理を作ることです。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. My older brother's hobby is swimming in the pool.</div><button class="btn-check-reveal" id="btn-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a4"><span><ruby>兄<rt>あに</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はプールで<ruby>泳<rt>およ</rt></ruby>ぐことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('兄の趣味はプールで泳ぐことです。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. Mr. Tanaka's hobby is traveling on the weekends.</div><button class="btn-check-reveal" id="btn-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a5"><span>田中さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんの趣味は週末に旅行することです。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. My hobby is reading Japanese novels.</div><button class="btn-check-reveal" id="btn-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a6"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味は日本の小説を読むことです。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -325,30 +343,50 @@
       <div class="grammar-visual-card">
         <div class="grammar-card-head">
           <span class="grammar-tag">Grammar B</span>
-          <strong>［動詞辞書形／名詞＋の］まえに、〜（〜する前に）</strong>
+          <strong>［動詞辞書形 / 名詞の］ ＋ まえに（〜する前に）</strong>
         </div>
-        <div class="grammar-desc-en">Means "before doing ~." Even when describing an event in the past, the verb before <strong>まえに</strong> is ALWAYS in the <strong>dictionary form</strong>. If using a noun, add <strong>の</strong>.</div>
-        <div class="grammar-desc-native i18n-native" data-ko="'~하기 전에'라는 뜻입니다. 문장 전체가 과거형이라도 まえに 앞의 동사는 무조건 '사전형'입니다. 명사 뒤에는 'の'를 붙입니다." data-zhcn="表示「在~之前」。即使整句话是过去时，まえに前面的动词也**绝对用辞书形**！名词后则接「の＋まえに」。" data-zhtw="表示「在~之前」。即使整句話是過去時，まえに前面的動詞也**絕對用辭書形**！名詞後則接「の＋まえに」。" data-cant="表示「喺~之前」。就算成句說話係過去式，まえに前面嘅動詞都**一律用辭書形**！名詞後面就加「の＋まえに」。"></div>
-        
-        <div class="timeline-box">
-          <div class="timeline-node">
-            <span class="timeline-badge" style="background:#DBEAFE; color:#1E40AF;">先に行う動作（1）</span>
-            <div class="timeline-text"><ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます</div>
-          </div>
-          <div class="timeline-arrow">➔</div>
-          <div class="timeline-node">
-            <span class="timeline-badge" style="background:#FCE7F3; color:#9D174D;">あとで行う動作（2）</span>
-            <div class="timeline-text"><ruby>寝<rt>ね</rt></ruby>るまえに</div>
+        <div class="grammar-desc-en">Indicates that Action 1 is done <strong>before</strong> Action 2. <strong>Crucial Rule:</strong> The verb right before まえに is <strong>ALWAYS in dictionary form</strong>, even if the main sentence happened in the past!</div>
+        <div class="grammar-desc-native i18n-native" data-ko="'~하기 전에'를 나타냅니다. ★황금 규칙: 'まえに' 바로 앞의 동사는 과거의 일이라도 **반드시 사전형(기본형)**을 씁니다!" data-zhcn="表示在某事之前做另一件事。★核心要点：无论主句是过去还是现在，**「まえに」前面的动词永远用辞书形（原形）**！" data-zhtw="表示在某事之前做另一件事。★核心要點：無論主句是過去還是現在，**「まえに」前面的動詞永遠用辭書形（原形）**！" data-cant="表示喺某件事之前做第二件事。★核心重點：無論主句係過去定現在，**「まえに」前面個動詞永遠用辭書形（原形）**！"></div>
+
+        <div class="grammar-diagram">
+          <div class="timeline-container">
+            <div class="timeline-node">
+              <span class="timeline-badge" style="background:#FEE2E2; color:#DC2626;">先に行う動作（1）</span>
+              <div class="timeline-text"><ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します</div>
+            </div>
+            <div class="timeline-arrow">➔ 後から行う動作（2）➔</div>
+            <div class="timeline-node">
+              <span class="timeline-badge" style="background:#DBEAFE; color:#1E40AF;">基準点（まえにの前）</span>
+              <div class="timeline-text"><ruby>出<rt>で</rt></ruby>かけるまえに</div>
+            </div>
           </div>
         </div>
         <div class="grammar-formula">【文型】［動詞辞書形］まえに、〜 ／ ［名詞＋の］まえに、〜</div>
 
         <div class="examples-block">
           <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>寝<rt>ね</rt></ruby>るまえに、<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。<button class="tts-btn" onclick="speakText('寝るまえに、歯を磨きます。')" title="Listen">🔊</button></div><div class="example-en">Before going to bed, I brush my teeth.</div></div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、<ruby>手<rt>て</rt></ruby>をきれいに<ruby>洗<rt>あら</rt></ruby>ってください。<button class="tts-btn" onclick="speakText('ごはんを食べるまえに、手をきれいに洗ってください。')" title="Listen">🔊</button></div><div class="example-en">Before eating your meal, please wash your hands thoroughly.</div></div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>旅行<rt>りょこう</rt></ruby>のまえに、新幹線の切符を<ruby>買<rt>か</rt></ruby>いました。<button class="tts-btn" onclick="speakText('旅行のまえに、新幹線の切符を買いました。')" title="Listen">🔊</button></div><div class="example-en">Before the trip, I bought shinkansen tickets.</div></div></div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content"><div class="example-jp"><ruby>出<rt>で</rt></ruby>かけるまえに、<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。<button class="tts-btn" onclick="speakText('出かけるまえに、部屋を掃除します。')" title="Listen">🔊</button></div><div class="example-en">Before going out, I clean my room.</div></div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp"><ruby>寝<rt>ね</rt></ruby>るまえに、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みました。<button class="tts-btn" onclick="speakText('寝るまえに、本を読みました。')" title="Listen">🔊</button></div><div class="example-en">Before going to sleep, I read a book.</div></div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>旅行<rt>りょこう</rt></ruby>のまえに、新幹線のチケットを<ruby>買<rt>か</rt></ruby>いました。<button class="tts-btn" onclick="speakText('旅行のまえに、新幹線のチケットを買いました。')" title="Listen">🔊</button></div><div class="example-en">Before the trip, I bought a Shinkansen ticket.</div></div></div>
         </div>
+
+        <!-- Immediate Practice Drill for Grammar B -->
+        <div class="practice-part-header" style="margin-top: 24px; border-top: 2px dashed var(--border-light); padding-top: 16px;">
+          <span class="practice-part-badge">Drill B</span>
+          <div class="practice-part-title">即応ドリル B：［動詞辞書形 / 名詞の］ ＋ まえに（全6問）</div>
+        </div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. Before going to bed at night, I always brush my teeth.</div><button class="btn-check-reveal" id="btn-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b1"><span><ruby>夜<rt>よる</rt></ruby><ruby>寝<rt>ね</rt></ruby>るまえに、いつも<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('夜寝るまえに、いつも歯を磨きます。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. Before eating a meal, please wash your hands with soap.</div><button class="btn-check-reveal" id="btn-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b2"><span>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、<ruby>石<rt>せっ</rt></ruby>けんで<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べるまえに、石けんで手を洗ってください。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. Before going to Japan, I practiced Japanese conversation every day.</div><button class="btn-check-reveal" id="btn-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b3"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くまえに、<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ行くまえに、毎日日本語の会話を練習しました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Before the meeting, I made copies of the documents.</div><button class="btn-check-reveal" id="btn-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b4"><span><ruby>会議<rt>かいぎ</rt></ruby>のまえに、<ruby>資料<rt>しりょう</rt></ruby>をコピーしました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('会議のまえに、資料をコピーしました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. Before taking the train, please purchase a ticket at the ticket machine.</div><button class="btn-check-reveal" id="btn-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b5"><span><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るまえに、<ruby>券売機<rt>けんばいき</rt></ruby>で<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車に乗るまえに、券売機で切符を買ってください。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. Before traveling to Kyoto, let's look up delicious ramen shops.</div><button class="btn-check-reveal" id="btn-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b6"><span><ruby>京都<rt>きょうと</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>するまえに、おいしいラーメンの<ruby>店<rt>みせ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べましょう。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都へ旅行するまえに、おいしいラーメンの店を調べましょう。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -357,20 +395,22 @@
       <div class="grammar-visual-card">
         <div class="grammar-card-head">
           <span class="grammar-tag" style="background:#15803D;">Grammar C</span>
-          <strong>［動詞た形／名詞＋の］あとで、〜 ＆ ［て形］から（〜した後に）</strong>
+          <strong>［動詞た形 / 名詞の］ ＋ あとで ＆ ［動詞て形］ ＋ から（〜した後に）</strong>
         </div>
-        <div class="grammar-desc-en">Means "after doing ~." Since the first action has already finished, use the <strong>た form (past)</strong> before <strong>あとで</strong>. You can also use the <strong>て-form + から</strong> to emphasize smooth chronological order.</div>
-        <div class="grammar-desc-native i18n-native" data-ko="'~한 후에'라는 뜻입니다. 앞의 동작이 이미 완료되었으므로 'た형(과거형)' 뒤에 あとで를 붙입니다. 연속해서 일어나는 순서를 강조할 때는 Stage4에서 배운 'て형 + から'도 씁니다." data-zhcn="表示「在~之后」。因为前面的动作已经完成，所以あとで前面**必须用た形（过去形）**！接名词时用「名词＋の＋あとで」。强调动作先后紧密相连时，也常用「て形＋从」。" data-zhtw="表示「在~之後」。因為前面的動作已經完成，所以あとで前面**必須用た形（過去形）**！接名詞時用「名詞＋の＋あとで」。強調動作先後緊密相連時，也常用「て形＋從」。" data-cant="表示「喺~之後」。因為前面個動作已經做完，所以あとで前面**一定要用た形（過去形）**！名詞就用「名詞＋の＋あとで」。強調次序嗰陣，亦經常用「て形＋から」。"></div>
-        
-        <div class="timeline-box">
-          <div class="timeline-node">
-            <span class="timeline-badge" style="background:#FEF3C7; color:#B45309;">完了した動作（1）</span>
-            <div class="timeline-text"><ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで</div>
-          </div>
-          <div class="timeline-arrow">➔</div>
-          <div class="timeline-node">
-            <span class="timeline-badge" style="background:#DCFCE7; color:#15803D;">次に行う動作（2）</span>
-            <div class="timeline-text"><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます</div>
+        <div class="grammar-desc-en">Indicates that Action 1 finishes, and then Action 2 takes place. Both <strong>〜たあとで</strong> and <strong>〜てから</strong> mean "after doing", but 〜てから emphasizes that Action 2 cannot start until Action 1 is completed.</div>
+        <div class="grammar-desc-native i18n-native" data-ko="동작 1이 완료된 후 동작 2를 함을 나타냅니다. 둘 다 '~한 후에'이지만, '〜てから'는 앞의 동작이 끝나야 비로소 다음 동작으로 넘어간다는 연결감을 강조합니다." data-zhcn="表示动作1完成后再进行动作2。「〜たあとで」和「〜てから」都表示“之后”，但「〜てから」更强调动作1是动作2的前提或出发点。" data-zhtw="表示動作1完成後再進行動作2。「〜たあとで」和「〜てから」都表示“之後”，但「〜てから」更強調動作1是動作2的前提或出發點。" data-cant="表示動作1做完之後再做動作2。「〜たあとで」同「〜てから」都係解“之後”，但「〜てから」更強調動作1係動作2嘅前提或起步點。"></div>
+
+        <div class="grammar-diagram">
+          <div class="timeline-container">
+            <div class="timeline-node">
+              <span class="timeline-badge" style="background:#DCFCE7; color:#15803D;">完了した動作（1）</span>
+              <div class="timeline-text"><ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで</div>
+            </div>
+            <div class="timeline-arrow">➔ 続いて行う動作（2）➔</div>
+            <div class="timeline-node">
+              <span class="timeline-badge" style="background:#DCFCE7; color:#15803D;">次に行う動作（2）</span>
+              <div class="timeline-text"><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます</div>
+            </div>
           </div>
         </div>
         <div class="grammar-formula">【文型】［動詞た形］あとで、〜 ／ ［動詞て形］から、〜 ／ ［名詞＋の］あとで、〜</div>
@@ -381,6 +421,38 @@
           <div class="example-row"><div class="example-num">2</div><div class="example-content"><div class="example-jp">シャワーを<ruby>浴<rt>あ</rt></ruby>びてから、<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。<button class="tts-btn" onclick="speakText('シャワーを浴びてから、冷たいお茶を飲みました。')" title="Listen">🔊</button></div><div class="example-en">After taking a shower, I drank some cold tea.</div></div></div>
           <div class="example-row"><div class="example-num">3</div><div class="example-content"><div class="example-jp"><ruby>仕事<rt>しごと</rt></ruby>のあとで、<ruby>一緒<rt>いっしょ</rt></ruby>にカフェへ<ruby>行<rt>い</rt></ruby>きませんか。<button class="tts-btn" onclick="speakText('仕事のあとで、一緒にカフェへ行きませんか。')" title="Listen">🔊</button></div><div class="example-en">After work, wouldn't you like to go to a cafe together?</div></div></div>
         </div>
+
+        <!-- Immediate Practice Drill for Grammar C-1 -->
+        <div class="practice-part-header" style="margin-top: 24px; border-top: 2px dashed var(--border-light); padding-top: 16px;">
+          <span class="practice-part-badge" style="background:#15803D;">Drill C-1</span>
+          <div class="practice-part-title">即応ドリル C-1：〜たあとで ＆ 〜てから（全6問）</div>
+        </div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. After eating dinner, I took my medicine.</div><button class="btn-check-reveal" id="btn-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c1"><span><ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('晩ごはんを食べたあとで、薬を飲みました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. After finishing work, shall we go to eat yakiniku together?</div><button class="btn-check-reveal" id="btn-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c2"><span><ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあとで、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>焼肉<rt>やきにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きませんか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('仕事が終わったあとで、一緒に焼肉を食べに行きませんか。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. After taking a shower, I drink cold milk.</div><button class="btn-check-reveal" id="btn-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c3"><span>シャワーを<ruby>浴<rt>あ</rt></ruby>びてから、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('シャワーを浴びてから、冷たい牛乳を飲みます。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. After running in the park, I washed my face.</div><button class="btn-check-reveal" id="btn-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c4"><span><ruby>公園<rt>こうえん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ったあとで、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('公園を走ったあとで、顔を洗いました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After buying the Shinkansen ticket, I also booked the hotel.</div><button class="btn-check-reveal" id="btn-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c5"><span><ruby>新幹線<rt>しんかんせん</rt></ruby>のチケットを<ruby>買<rt>か</rt></ruby>ってから、ホテルも<ruby>予約<rt>よやく</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('新幹線のチケットを買ってから、ホテルも予約しました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. After coming to Japan, I bought a smartphone at a Tokyo shop.</div><button class="btn-check-reveal" id="btn-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c6"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>てから、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でスマホを<ruby>買<rt>か</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ来てから、東京の店でスマホを買いました。')" title="Listen">🔊</button></div></div>
+
+        <!-- Immediate Practice Drill for Grammar C-2 (言い換え) -->
+        <div class="practice-part-header" style="margin-top: 24px; border-top: 2px dashed var(--border-light); padding-top: 16px;">
+          <span class="practice-part-badge" style="background:#D97706;">Drill C-2</span>
+          <div class="practice-part-title">即応ドリル C-2：まえに ⇄ あとで・てから 言い換えチャレンジ（全4問）</div>
+        </div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Rephrase: 「寝るまえに、お風呂に入ります」 ➔ (Using 〜たあとで)</div><button class="btn-check-reveal" id="btn-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1"><span>お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったあとで、<ruby>寝<rt>ね</rt></ruby>ます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お風呂に入ったあとで、寝ます。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Rephrase: 「ごはんを食べたあとで、薬を飲みます」 ➔ (Using 〜まえに)</div><button class="btn-check-reveal" id="btn-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2"><span><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むまえに、ごはんを<ruby>食<rt>た</rt></ruby>べます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('薬を飲むまえに、ごはんを食べます。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Rephrase: 「新幹線に乗るまえに、お弁当を買いました」 ➔ (Using 〜てから)</div><button class="btn-check-reveal" id="btn-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3"><span>お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってから、<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お弁当を買ってから、新幹線に乗りました。')" title="Listen">🔊</button></div></div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. Rephrase: 「旅行に行くまえに、ホテルを予約します」 ➔ (Using 〜たあとで)</div><button class="btn-check-reveal" id="btn-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4"><span>ホテルを<ruby>予約<rt>よやく</rt></ruby>したあとで、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ホテルを予約したあとで、旅行に行きます。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -389,25 +461,25 @@
       <div class="grammar-visual-card" style="border: 2px solid #89BFE0; background: #F8FBFE;">
         <div class="grammar-card-head" style="color: #1E5989;">
           <span class="grammar-tag" style="background:#0284C7;">Deep Dive</span>
-          <strong>【重要】「〜後で（あとで）」と「〜後に（あとに）」の使い分けルール！</strong>
+          <strong>【特訓・超重要】「後で（あとで）」 vs 「後に（あとに）」の使い分けルール</strong>
         </div>
         <div class="grammar-desc-en">
-          Both mean "after", but native speakers use them differently! Here is the golden rule to never confuse them:
+          Both mean "after", but native speakers use them completely differently! Follow these golden rules and the 3-second check to never confuse them again.
         </div>
-        <div class="grammar-desc-native i18n-native" data-ko="둘 다 '~한 후에'라는 뜻이지만, 명확한 뉘앙스 차이가 있습니다! 아래 황금 법칙으로 완벽하게 구분하세요." data-zhcn="两者都表示“在~之后”，但有非常明确的使用分工！掌握这个黄金法则：" data-zhtw="兩者都表示“在~之後”，但有非常明確的使用分工！掌握這個黃金法則：" data-cant="兩者都解作“喺~之後”，但分工超明確！即睇黃金法則："></div>
+        <div class="grammar-desc-native i18n-native" data-ko="둘 다 '~한 후에'라는 뜻이지만, 원어민은 완전히 다르게 구분하여 사용합니다! 아래 황금 법칙과 3초 판별법으로 명쾌하게 정리하세요." data-zhcn="两者都表示“在~之后”，但母语者的使用分工截然不同！掌握以下黄金法则与3秒判别法，彻底告别混淆。" data-zhtw="兩者都表示“在~之後”，但母語者的使用分工截然不同！掌握以下黃金法則與3秒判別法，徹底告別混淆。" data-cant="兩者都解作“喺~之後”，但母語者分工超分明！跟住以下黃金法則同3秒判別法，以後唔會再搞亂。"></div>
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin: 16px 0;">
           <div style="background:white; border-radius:12px; padding:16px; border:1.5px solid #89BFE0; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
             <div style="font-weight:700; color:#1E5989; font-size:1.05rem; margin-bottom:6px; display:flex; align-items:center; gap:6px;">
               <span style="background:#EDF5FB; padding:2px 8px; border-radius:6px;">① 〜後で（あとで）</span>
             </div>
-            <div style="font-size:0.84rem; color:#475569; margin-bottom:8px;"><strong>人の意志・予定・依頼・誘い</strong>に使う！</div>
+            <div style="font-size:0.86rem; color:#1E40AF; font-weight:700; margin-bottom:8px;">★ 人の意志・次の行動・依頼・誘いに使う！</div>
             <div style="font-size:0.88rem; line-height:1.6; color:#1E293B;">
-              ・後ろに「〜てください」「〜ましょう」「〜ませんか」「〜たい」が来る時は<strong>必ず「後で」</strong>！<br>
+              ・後ろに「<strong>〜てください</strong>（依頼）」「<strong>〜ましょう／〜ませんか</strong>（勧誘）」「<strong>〜たい</strong>（希望）」が来る時は<strong>必ず「後で」</strong>！<br>
               ⭕ <ruby>食<rt>た</rt></ruby>べた<strong>あとで</strong>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでください。（依頼）<br>
               ⭕ <ruby>仕事<rt>しごと</rt></ruby>の<strong>あとで</strong>、<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>きませんか。（勧誘）<br>
-              ⭕ <ruby>宿題<rt>しゅくだい</rt></ruby>をした<strong>あとで</strong>、ゲームをします。（個人の意志）<br>
-              ❌ 食べた<strong>あとに</strong>、飲んでください（不自然！）
+              ⭕ <ruby>宿題<rt>しゅくだい</rt></ruby>をした<strong>あとで</strong>、ゲームをします。（個人の意志・行動）<br>
+              ❌ 食べた<strong>あとに</strong>、飲んでください（依頼には使えない！）
             </div>
           </div>
 
@@ -415,132 +487,173 @@
             <div style="font-weight:700; color:#2E7D32; font-size:1.05rem; margin-bottom:6px; display:flex; align-items:center; gap:6px;">
               <span style="background:#E8F5E9; padding:2px 8px; border-radius:6px;">② 〜後に（あとに）</span>
             </div>
-            <div style="font-size:0.84rem; color:#475569; margin-bottom:8px;"><strong>客観的な事実・自然現象・時間の長さ</strong>に使う！</div>
+            <div style="font-size:0.86rem; color:#15803D; font-weight:700; margin-bottom:8px;">★ 客観的事実・自然現象・時間の長さに使う！</div>
             <div style="font-size:0.88rem; line-height:1.6; color:#1E293B;">
               ・ニュース、自然の変化、時間（〜年後、〜時間後）につく時は<strong>「後に」</strong>！<br>
               ⭕ <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>った<strong>あとに</strong>、<ruby>虹<rt>にじ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。（自然現象・客観的事実）<br>
               ⭕ <ruby>卒業<rt>そつぎょう</rt></ruby>の3<ruby>年<rt>ねん</rt></ruby><strong>あとに</strong>、<ruby>結婚<rt>けっこん</rt></ruby>しました。（時間の長さ）<br>
+              ⭕ <ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだ30<ruby>分<rt>ぷん</rt></ruby><strong>あとに</strong>、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がりました。（客観的変化）<br>
               ❌ 3年<strong>あとで</strong>、結婚しました（不自然！）<br>
-              ❌ 雨が降ったあとに、傘を貸してください（依頼には使えない！）
+              ❌ 雨が降った<strong>あとに</strong>、傘を貸してください（依頼には絶対使えない！）
             </div>
           </div>
         </div>
 
-        <div class="note-box" style="margin-top:6px;">
-          💡 <strong>一瞬で見分ける裏ワザ:</strong><br>
-          「人に頼む（〜てください）」「人を誘う（〜ませんか）」「自分の行動」なら ➔ <strong>【後で】</strong><br>
-          「客観的な事実」「自然の変化」「〜年後、〜日後などの数字」なら ➔ <strong>【後に】</strong>
+        <div class="note-box" style="margin-top:6px; background:#FFFFFF; border:1.5px solid #89BFE0; border-radius:10px; padding:12px 14px;">
+          <div style="font-weight:700; color:#1E5989; font-size:0.95rem; margin-bottom:4px;">💡 迷ったらコレ！3秒で見抜く判別チャート</div>
+          <div style="font-size:0.88rem; line-height:1.6; color:#334155;">
+            1. 文末に「〜てください / 〜ましょう / 〜ませんか」がある？ ➔ <strong>即答で【後で】！</strong><br>
+            2. 直前に「3年」「30分」など時間の数字がついている？ ➔ <strong>即答で【後に】！</strong><br>
+            3. 自然の天気・身体の変化・客観的な出来事？ ➔ <strong>【後に】！</strong>（虹が出た・熱が下がった）<br>
+            4. 自分で決めた次の予定や行動？ ➔ <strong>【後で】！</strong>（映画を見る・買い物をする）
+          </div>
+        </div>
+
+        <!-- Immediate Practice Drill for Deep Dive -->
+        <div class="practice-part-header" style="margin-top: 24px; border-top: 2px dashed #89BFE0; padding-top: 16px;">
+          <span class="practice-part-badge" style="background:#0284C7;">Drill D</span>
+          <div class="practice-part-title">即応ドリル D：「後で」 vs 「後に」 使い分けチャレンジ（全8問）</div>
+        </div>
+        
+        <div class="toggle-item" onclick="toggleAnswer('e1')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-1. ごはんを（食べたあとで／食べたあとに）、薬を飲んでください。</div>
+            <button class="btn-check-reveal" id="btn-e1">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e1">
+            <span>正解：<ruby>食<rt>た</rt></ruby>べた<strong>あとで</strong><br/>
+            <small style="font-size:0.85rem; color:#1E5989;">💡<strong>解説:</strong>「〜てください」（依頼）は人の意志的な行動なので「後で」を使います。「後に」の後ろに依頼やお願いは使えません。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べたあとで、薬を飲んでください。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e2')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-2. 雨が（やんだあとで／やんだあとに）、きれいな虹が出ました。</div>
+            <button class="btn-check-reveal" id="btn-e2">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e2">
+            <span>正解：やんだ<strong>あとに</strong><br/>
+            <small style="font-size:0.85rem; color:#15803D;">💡<strong>解説:</strong>「きれいな虹が出た」は自然現象・客観的な出来事なので「後に」を使います。人の意志ではありません。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('雨がやんだあとに、きれいな虹が出ました。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e3')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-3. 大学を卒業した3年（あとで／あとに）、東京で彼と再会しました。</div>
+            <button class="btn-check-reveal" id="btn-e3">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e3">
+            <span>正解：3<ruby>年<rt>ねん</rt></ruby><strong>あとに</strong><br/>
+            <small style="font-size:0.85rem; color:#15803D;">💡<strong>解説:</strong>「3年」「1時間」「2日」のように「時間の長さ（数量詞）」が前に来る時は、必ず「後に」になります（× 3年あとで）。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('大学を卒業した3年あとに、東京で彼と再会しました。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e4')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-4. 仕事の（あとで／あとに）、駅前のカフェで一緒にお茶を飲みませんか。</div>
+            <button class="btn-check-reveal" id="btn-e4">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e4">
+            <span>正解：<ruby>仕事<rt>しごと</rt></ruby>の<strong>あとで</strong><br/>
+            <small style="font-size:0.85rem; color:#1E5989;">💡<strong>解説:</strong>「〜ませんか」（お誘い・提案）は相手への意志的な働きかけなので「後で」を使います。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('仕事のあとで、駅前のカフェで一緒にお茶を飲みませんか。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e5')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-5. 会議が（終わったあとで／終わったあとに）、この資料をメールで送ってください。</div>
+            <button class="btn-check-reveal" id="btn-e5">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e5">
+            <span>正解：<ruby>終<rt>お</rt></ruby>わった<strong>あとで</strong><br/>
+            <small style="font-size:0.85rem; color:#1E5989;">💡<strong>解説:</strong>「メールで送ってください」（仕事の指示・依頼）があるため、人の行動・意志を表す「後で」が正解です。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('会議が終わったあとで、この資料をメールで送ってください。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e6')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-6. 台風が（過ぎたあとで／過ぎたあとに）、青空が広がりました。</div>
+            <button class="btn-check-reveal" id="btn-e6">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e6">
+            <span>正解：<ruby>過<rt>す</rt></ruby>ぎた<strong>あとに</strong><br/>
+            <small style="font-size:0.85rem; color:#15803D;">💡<strong>解説:</strong>「青空が広がった」は天候の変化・客観的な成り行きなので「後に」を使います。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('台風が過ぎたあとに、青空が広がりました。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e7')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-7. 風邪薬を飲んでから30分（あとで／あとに）、熱が下がって楽になりました。</div>
+            <button class="btn-check-reveal" id="btn-e7">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e7">
+            <span>正解：30<ruby>分<rt>ぷん</rt></ruby><strong>あとに</strong><br/>
+            <small style="font-size:0.85rem; color:#15803D;">💡<strong>解説:</strong>「30分」という時間の長さ（数量詞）＋「熱が下がった」という身体の客観的な変化なので「後に」を使います。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('風邪薬を飲んでから30分あとに、熱が下がって楽になりました。')" title="Listen">🔊</button>
+          </div>
+        </div>
+
+        <div class="toggle-item" onclick="toggleAnswer('e8')">
+          <div class="toggle-prompt-row">
+            <div class="toggle-prompt-text">E-8. 手を石けんで（洗ったあとで／洗ったあとに）、一緒に晩ごはんを作りましょう！</div>
+            <button class="btn-check-reveal" id="btn-e8">Reveal ▼</button>
+          </div>
+          <div class="toggle-answer-box" id="ans-e8">
+            <span>正解：<ruby>洗<rt>あら</rt></ruby>った<strong>あとで</strong><br/>
+            <small style="font-size:0.85rem; color:#1E5989;">💡<strong>解説:</strong>「〜ましょう」（提案・呼びかけ）は人の意志的な行動なので「後で」を使います。</small></span>
+            <button class="tts-btn" onclick="event.stopPropagation(); speakText('手を石けんで洗ったあとで、一緒に晩ごはんを作りましょう！')" title="Listen">🔊</button>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Step 4: 実戦ドリル＆ロールプレイ -->
+  <!-- Step 4: 実戦ロールプレイ ＆ 総合演習 -->
   <section class="content-card" id="sec-practice">
     <div class="card-header-row">
       <div class="step-label">Step 4</div>
-      <div class="card-main-title">充実の実戦ドリル ＆ ロールプレイ（全32問）</div>
-      <div class="card-subtitle-en">Reinforce vocabulary learned in previous stages (food, travel, daily life, hobbies, body) using various sentence structures. Tap Reveal to check your answer and listen to native TTS audio.</div>
-      <div class="card-subtitle-native i18n-native" data-ko="앞서 배운 어휘와 문형을 총동원하여 말하기 연습을 합니다. Reveal 버튼을 눌러 정답과 음성을 확인하세요." data-zhcn="调动此前学过的全部词汇与句型进行口说训练。点击Reveal查看答案并播放TTS语音。" data-zhtw="調動此前學過的全部詞彙與句型進行口說訓練。點擊Reveal查看答案並播放TTS語音。" data-cant="調動之前學過嘅全部生字同句型練說話。撳Reveal睇答案同聽TTS發音。"></div>
+      <div class="card-main-title">実戦ロールプレイ ＆ 瞬間発話総合演習</div>
+      <div class="card-subtitle-en">Apply all patterns in realistic dialogues and instant speaking challenges. Tap Reveal to check your answer and listen to native TTS audio.</div>
+      <div class="card-subtitle-native i18n-native" data-ko="앞서 배운 어휘와 문형을 총동원하여 실제 대화와 12개의 종합 순간 발화 연습을 완성합니다. Reveal 버튼을 눌러 정답과 음성을 확인하세요." data-zhcn="调动此前学过的全部词汇与句型，完成实战情境对话与12道瞬间口说综合挑战。点击Reveal查看答案并播放TTS语音。" data-zhtw="調動此前學過的全部詞彙與句型，完成實戰情境對話與12道瞬間口說綜合挑戰。點擊Reveal查看答案並播放TTS語音。" data-cant="調動之前學過嘅全部生字同句型，完成實戰角色扮演對話同12條即時說話綜合挑戰。撳Reveal睇答案同聽TTS發音。"></div>
     </div>
 
-    <!-- Part 1-A: 趣味は〜ことです -->
-    <div class="practice-part-header"><span class="practice-part-badge">Part 1-A</span><div class="practice-part-title">趣味は〜ことです（My hobby is doing ~）</div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. My hobby is playing the guitar.</div><button class="btn-check-reveal" id="btn-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はギターを<ruby>弾<rt>ひ</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味はギターを弾くことです。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. My hobby is drawing pictures.</div><button class="btn-check-reveal" id="btn-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a2"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味は絵を描くことです。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. Emma's hobby is making foreign dishes (cooking).</div><button class="btn-check-reveal" id="btn-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a3"><span>エマさんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('エマさんの趣味は外国の料理を作ることです。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. My older brother's hobby is swimming in the pool.</div><button class="btn-check-reveal" id="btn-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a4"><span><ruby>兄<rt>あに</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はプールで<ruby>泳<rt>およ</rt></ruby>ぐことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('兄の趣味はプールで泳ぐことです。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. Mr. Tanaka's hobby is traveling on the weekends.</div><button class="btn-check-reveal" id="btn-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a5"><span>田中さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんの趣味は週末に旅行することです。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. My hobby is reading Japanese novels.</div><button class="btn-check-reveal" id="btn-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a6"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味は日本の小説を読むことです。')" title="Listen">🔊</button></div></div>
-
-    <!-- Part 1-B: 〜まえに -->
-    <div class="practice-part-header"><span class="practice-part-badge">Part 1-B</span><div class="practice-part-title">［動詞辞書形／Nの］まえに（Before doing ~）</div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. Before eating breakfast, I wash my face.</div><button class="btn-check-reveal" id="btn-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b1"><span><ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('朝ごはんを食べるまえに、顔を洗います。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. Before meeting my friend, I will make a phone call.</div><button class="btn-check-reveal" id="btn-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b2"><span><ruby>友達<rt>ともだち</rt></ruby>に<ruby>会<rt>あ</rt></ruby>うまえに、<ruby>電話<rt>でんわ</rt></ruby>をかけます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('友達に会うまえに、電話をかけます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. Please do warm-up exercises before swimming in the sea.</div><button class="btn-check-reveal" id="btn-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b3"><span><ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぐまえに、<ruby>準備<rt>じゅんび</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>をしてください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('海で泳ぐまえに、準備運動をしてください。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Before the meeting, I must prepare the handouts.</div><button class="btn-check-reveal" id="btn-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b4"><span><ruby>会議<rt>かいぎ</rt></ruby>のまえに、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければなりません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('会議のまえに、資料を準備しなければなりません。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. Before boarding the train, I bought a hot coffee.</div><button class="btn-check-reveal" id="btn-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b5"><span><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るまえに、<ruby>温<rt>あたた</rt></ruby>かいコーヒーを<ruby>買<rt>か</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車に乗るまえに、温かいコーヒーを買いました。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. Before going to Japan, I want to study Japanese kanji.</div><button class="btn-check-reveal" id="btn-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b6"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くまえに、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したいです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ行くまえに、日本語の漢字を勉強したいです。')" title="Listen">🔊</button></div></div>
-
-    <!-- Part 1-C: 〜たあとで ＆ 〜てから -->
-    <div class="practice-part-header"><span class="practice-part-badge" style="background:#15803D;">Part 1-C</span><div class="practice-part-title">［動詞た形／Nの］あとで ＆ てから（After doing ~）</div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. After eating lunch, I take my stomach medicine.</div><button class="btn-check-reveal" id="btn-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c1"><span><ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、<ruby>胃<rt>い</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('昼ごはんを食べたあとで、胃の薬を飲みます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. After finishing work, I will go shopping at the supermarket.</div><button class="btn-check-reveal" id="btn-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c2"><span><ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあとで、スーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('仕事が終わったあとで、スーパーへ買い物に行きます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. After watching the movie, let's have tea at a cafe!</div><button class="btn-check-reveal" id="btn-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c3"><span><ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>たあとで、カフェでお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みましょう！</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('映画を見たあとで、カフェでお茶を飲みましょう！')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. After taking a shower, I go to bed.</div><button class="btn-check-reveal" id="btn-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c4"><span>シャワーを<ruby>浴<rt>あ</rt></ruby>びてから、<ruby>寝<rt>ね</rt></ruby>ます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('シャワーを浴びてから、寝ます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After washing your hands, please help with the cooking.</div><button class="btn-check-reveal" id="btn-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c5"><span><ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってから、<ruby>料理<rt>りょうり</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('手を洗ってから、料理を手伝ってください。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. May I play video games after finishing my homework?</div><button class="btn-check-reveal" id="btn-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c6"><span><ruby>宿題<rt>しゅくだい</rt></ruby>をしたあとで、ゲームをしてもいいですか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('宿題をしたあとで、ゲームをしてもいいですか。')" title="Listen">🔊</button></div></div>
-
-    <!-- Part 1-D: まえに ⇄ あとで・てから 言い換えドリル -->
-    <div class="practice-part-header"><span class="practice-part-badge" style="background:#D97706;">Part 1-D</span><div class="practice-part-title">まえに ⇄ あとで 言い換えチャレンジ</div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Rephrase: 「寝るまえに、お風呂に入ります」 ➔ (Using 〜たあとで)</div><button class="btn-check-reveal" id="btn-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1"><span>お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったあとで、<ruby>寝<rt>ね</rt></ruby>ます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お風呂に入ったあとで、寝ます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Rephrase: 「ごはんを食べたあとで、薬を飲みます」 ➔ (Using 〜まえに)</div><button class="btn-check-reveal" id="btn-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2"><span><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むまえに、ごはんを<ruby>食<rt>た</rt></ruby>べます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('薬を飲むまえに、ごはんを食べます。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Rephrase: 「新幹線に乗るまえに、お弁当を買いました」 ➔ (Using 〜てから)</div><button class="btn-check-reveal" id="btn-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3"><span>お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってから、<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お弁当を買ってから、新幹線に乗りました。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. Rephrase: 「旅行に行くまえに、ホテルを予約します」 ➔ (Using 〜たあとで)</div><button class="btn-check-reveal" id="btn-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4"><span>ホテルを<ruby>予約<rt>よやく</rt></ruby>したあとで、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ホテルを予約したあとで、旅行に行きます。')" title="Listen">🔊</button></div></div>
-
-
-    <!-- Part 1-E: 後で vs 後に 使い分けドリル -->
-    <div class="practice-part-header"><span class="practice-part-badge" style="background:#0284C7;">Part 1-E</span><div class="practice-part-title">「後で」 vs 「後に」 どちらを使う？（使い分けチャレンジ）</div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('e1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-1. ごはんを（食べたあとで／食べたあとに）、薬を飲んでください。</div><button class="btn-check-reveal" id="btn-e1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-e1"><span>正解：<ruby>食<rt>た</rt></ruby>べた<strong>あとで</strong><br/><small style="font-size:0.85rem; color:#475569;">（解説：「〜てください」という依頼・指示は人の意志的な働きかけなので「後で」を使います）</small></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べたあとで、薬を飲んでください。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('e2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-2. 雨が（やんだあとで／やんだあとに）、きれいな虹が出ました。</div><button class="btn-check-reveal" id="btn-e2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-e2"><span>正解：やんだ<strong>あとに</strong><br/><small style="font-size:0.85rem; color:#475569;">（解説：自然現象や客観的な出来事の発生を表すときは「後に」を使います）</small></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('雨がやんだあとに、きれいな虹が出ました。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('e3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-3. 大学を卒業した3年（あとで／あとに）、彼と再会しました。</div><button class="btn-check-reveal" id="btn-e3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-e3"><span>正解：3年<strong>あとに</strong><br/><small style="font-size:0.85rem; color:#475569;">（解説：「3年後」「1時間後」のように時間の長さを表す言葉がつくときは必ず「後に」になります）</small></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('大学を卒業した3年あとに、彼と再会しました。')" title="Listen">🔊</button></div></div>
-    
-    <div class="toggle-item" onclick="toggleAnswer('e4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-4. 仕事の（あとで／あとに）、一緒にビールを飲みに行きませんか。</div><button class="btn-check-reveal" id="btn-e4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-e4"><span>正解：<ruby>仕事<rt>しごと</rt></ruby>の<strong>あとで</strong><br/><small style="font-size:0.85rem; color:#475569;">（解説：「〜ませんか」という相手への誘いや働きかけには「後で」を使います）</small></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('仕事のあとで、一緒にビールを飲みに行きませんか。')" title="Listen">🔊</button></div></div>
-
-    <!-- Part 2: 実戦ロールプレイ会話 -->
-    <div class="practice-part-header"><span class="practice-part-badge">Part 2</span><div class="practice-part-title">Roleplay — Hobbies & Daily Routine</div></div>
+    <!-- Part 1: 実戦ロールプレイ会話 -->
+    <div class="practice-part-header"><span class="practice-part-badge">Part 1</span><div class="practice-part-title">Roleplay — Hobbies & Daily Routine（ロールプレイ会話）</div></div>
     
     <div class="roleplay-card">
       <div class="roleplay-title">Scene 1: 週末の趣味とお出かけ（田中さん ＆ 中村さん）</div>
       <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">田中</div><div class="roleplay-lines"><div class="roleplay-jp">中村さん、<ruby>週末<rt>しゅうまつ</rt></ruby>は何をしましたか。<button class="tts-btn" onclick="speakText('中村さん、週末は何をしましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Mr. Nakamura, what did you do over the weekend?</div><div class="roleplay-native i18n-native" data-ko="나카무라 씨, 주말에 뭐 하셨어요?" data-zhcn="中村，你周末做什么了？" data-zhtw="中村，你週末做什麼了？" data-cant="中村，你週末做咗啲咩呀？"></div></div></div>
       <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">中村</div><div class="roleplay-lines"><div class="roleplay-jp"><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることですから、<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るまえに、カメラをきれいに<ruby>掃除<rt>そうじ</rt></ruby>しましたよ。<button class="tts-btn" onclick="speakText('私の趣味は写真を撮ることですから、山へ行きました。山に登るまえに、カメラをきれいに掃除しましたよ。')" title="Listen">🔊</button></div><div class="roleplay-trans">My hobby is taking photos, so I went to the mountains. Before climbing the mountain, I cleaned my camera thoroughly!</div><div class="roleplay-native i18n-native" data-ko="제 취미가 사진 찍기라서 산에 다녀왔어요. 산에 오르기 전에 카메라를 깨끗이 청소했어요." data-zhcn="因为我的爱好是拍照，所以去了山里。登山前我还把相机仔仔细细擦了一遍呢。" data-zhtw="因為我的愛好是拍照，所以去了山裡。登山前我還把相機仔仔細細擦了一遍呢。" data-cant="因為我嘅興趣係影相，所以我去咗行山。行山之前我仲將部相機抹到好乾淨添。"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">田中</div><div class="roleplay-lines"><div class="roleplay-jp">いいですね！<ruby>山<rt>やま</rt></ruby>から<ruby>降<rt>お</rt></ruby>りたあとで、どこかへ<ruby>行<rt>い</rt></ruby>きましたか。<button class="tts-btn" onclick="speakText('いいですね！山から降りたあとで、どこかへ行きましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Sounds wonderful! After coming down from the mountain, did you go anywhere?</div><div class="roleplay-native i18n-native" data-ko="좋네요! 산에서 내려온 후에는 어디 가셨어요?" data-zhcn="真棒！下山之后去哪儿了吗？" data-zhtw="真棒！下山之後去哪兒了嗎？" data-cant="好正喎！落山之後有冇去邊度呀？"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">中村</div><div class="roleplay-lines"><div class="roleplay-jp">はい。<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってから、おいしい<ruby>蕎麦<rt>そば</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。<button class="tts-btn" onclick="speakText('はい。温泉に入ってから、おいしい蕎麦を食べました。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes. After soaking in a hot spring, I ate some delicious soba noodles.</div><div class="roleplay-native i18n-native" data-ko="네. 온천에 들어갔다 나와서 맛있는 소바를 먹었습니다." data-zhcn="嗯。泡完温泉后，吃了美味的荞麦面。" data-zhtw="嗯。泡完溫泉後，吃了美味的蕎麥麵。" data-cant="係呀。浸完溫泉之後，食咗好正嘅蕎麥麵。"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">田中</div><div class="roleplay-lines"><div class="roleplay-jp">いいですね！<ruby>山<rt>やま</rt></ruby>から<ruby>降<rt>お</rt></ruby>りたあとで、どこかへ<ruby>行<rt>い</rt></ruby>きましたか。<button class="tts-btn" onclick="speakText('いいですね！山から降りたあとで、どこかへ行きましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Sounds wonderful! After coming down from the mountain, did you go anywhere?</div><div class="roleplay-native i18n-native" data-ko="좋네요! 산에서 내려온 후에는 어디 가셨어요?" data-zhcn="真棒！下山之后去哪儿了吗？" data-zhtw="真棒！下山之後去哪兒了嗎？" data-cant="好掂喎！落山之後有冇去邊呀？"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">中村</div><div class="roleplay-lines"><div class="roleplay-jp">はい、<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってから、おいしい<ruby>蕎麦<rt>そば</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。<button class="tts-btn" onclick="speakText('はい、温泉に入ってから、おいしい蕎麦を食べました。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes, after taking a hot spring bath, I ate delicious soba noodles.</div><div class="roleplay-native i18n-native" data-ko="네, 온천에 들어갔다 나온 후에 맛있는 소바를 먹었습니다." data-zhcn="嗯，泡了温泉之后吃了美味的荞麦面。" data-zhtw="嗯，泡了溫泉之後吃了美味的蕎麥麵。" data-cant="係呀，浸完溫泉之後食咗好食嘅蕎麥麵。"></div></div></div>
     </div>
 
     <div class="roleplay-card">
       <div class="roleplay-title">Scene 2: 旅行の計画と準備（高橋さん ＆ ケビンさん）</div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">高橋</div><div class="roleplay-lines"><div class="roleplay-jp">ケビンさん、来週京都へ行きますね。もう準備をしましたか。<button class="tts-btn" onclick="speakText('ケビンさん、来週京都へ行きますね。もう準備をしましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Kevin, you're going to Kyoto next week, right? Have you already prepared?</div><div class="roleplay-native i18n-native" data-ko="케빈 씨, 다음 주에 교토에 가시죠? 준비는 다 하셨어요?" data-zhcn="凯文，你下周要去京都对吧？已经准备好了吗？" data-zhtw="凱文，你下週要去京都對吧？已經準備好了嗎？" data-cant="Kevin，你下個禮拜去京都呀可？準備好未呀？"></div></div></div>
-      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">ケビン</div><div class="roleplay-lines"><div class="roleplay-jp">はい。<ruby>新幹線<rt>しんかんせん</rt></ruby>のチケットを<ruby>買<rt>か</rt></ruby>ってから、ホテルも<ruby>予約<rt>よやく</rt></ruby>しました。<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>着<rt>つ</rt></ruby>いたあとで、おいしい<ruby>抹茶<rt>まっちゃ</rt></ruby>の店へ<ruby>行<rt>い</rt></ruby>くつもりです。<button class="tts-btn" onclick="speakText('はい。新幹線のチケットを買ってから、ホテルも予約しました。京都へ着いたあとで、おいしい抹茶の店へ行くつもりです。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes. After buying the bullet train tickets, I reserved a hotel. After arriving in Kyoto, I plan to visit a great matcha shop!</div><div class="roleplay-native i18n-native" data-ko="네. 신칸센 티켓을 사고 나서 호텔도 예약했어요. 교토에 도착한 후에 맛있는 말차 가게에 갈 생각이에요." data-zhcn="是的。买完新干线车票后把酒店也订好了。到京都之后，我打算去一家很棒的抹茶店！" data-zhtw="是的。買完新幹線車票後把飯店也訂好了。到京都之後，我打算去一家很棒的抹茶店！" data-cant="係呀。買完新幹線飛之後連酒店都book好咗喇。到咗京都之後，我打算去一間好正嘅抹茶舖頭！"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">高橋</div><div class="roleplay-lines"><div class="roleplay-jp">ケビンさん、来週<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますね。もうホテルの<ruby>予約<rt>よやく</rt></ruby>をしましたか。<button class="tts-btn" onclick="speakText('ケビンさん、来週京都へ旅行に行きますね。もうホテルの予約をしましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">Kevin, you are traveling to Kyoto next week, right? Have you already reserved the hotel?</div><div class="roleplay-native i18n-native" data-ko="케빈 씨, 다음 주에 교토 여행 가시죠. 호텔 예약은 이미 하셨어요?" data-zhcn="凯文，下周要去京都旅行对吧。酒店已经订好了吗？" data-zhtw="凱文，下週要去京都旅行對吧。飯店已經訂好了嗎？" data-cant="Kevin，下個禮拜去京都旅行喎。酒店book好未呀？"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">ケビン</div><div class="roleplay-lines"><div class="roleplay-jp">はい、<ruby>新幹線<rt>しんかんせん</rt></ruby>のチケットを<ruby>買<rt>か</rt></ruby>ったあとで、すぐにホテルを<ruby>予約<rt>よやく</rt></ruby>しました。<button class="tts-btn" onclick="speakText('はい、新幹線のチケットを買ったあとで、すぐにホテルを予約しました。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes, after buying the Shinkansen ticket, I immediately reserved the hotel.</div><div class="roleplay-native i18n-native" data-ko="네, 신칸센 표를 산 후에 바로 호텔을 예약했습니다." data-zhcn="订了，买好新干线车票之后马上就订了酒店。" data-zhtw="訂了，買好新幹線車票之後馬上就訂了飯店。" data-cant="訂咗喇，買咗新幹線飛之後即刻book咗酒店。"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-a">高橋</div><div class="roleplay-lines"><div class="roleplay-jp"><ruby>準備<rt>じゅんび</rt></ruby>が<ruby>早<rt>はや</rt></ruby>いですね！<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くまえに、行きたい場所をリストに書きましたか。<button class="tts-btn" onclick="speakText('準備が早いですね！京都へ行くまえに、行きたい場所をリストに書きましたか。')" title="Listen">🔊</button></div><div class="roleplay-trans">You prepare fast! Before heading to Kyoto, did you make a list of places you want to visit?</div><div class="roleplay-native i18n-native" data-ko="준비가 정말 빠르시네요! 교토에 가기 전에 가고 싶은 곳 목록은 적어 두셨나요?" data-zhcn="准备得真快！去京都之前，把想去的地方列出清单了吗？" data-zhtw="準備得真快！去京都之前，把想去的地方列出清單了嗎？" data-cant="好快手喎！去京都之前，有冇寫低想去嘅地方清單呀？"></div></div></div>
+      <div class="roleplay-bubble"><div class="roleplay-speaker speaker-b">ケビン</div><div class="roleplay-lines"><div class="roleplay-jp">はい！<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>寺<rt>てら</rt></ruby>を<ruby>見<rt>み</rt></ruby>たあとで、おいしい<ruby>抹茶<rt>まっちゃ</rt></ruby>パフェを<ruby>食<rt>た</rt></ruby>べるつもりです。<button class="tts-btn" onclick="speakText('はい！有名なお寺を見たあとで、おいしい抹茶パフェを食べるつもりです。')" title="Listen">🔊</button></div><div class="roleplay-trans">Yes! After sightseeing at a famous temple, I plan to eat a delicious matcha parfait.</div><div class="roleplay-native i18n-native" data-ko="네! 유명한 절을 구경한 뒤에 맛있는 말차 파르페를 먹을 생각이에요." data-zhcn="列了！参观完著名的寺庙后，打算去吃美味的抹茶芭菲。" data-zhtw="列了！參觀完著名的寺廟後，打算去吃美味的抹茶芭菲。" data-cant="寫好喇！參觀完出名嘅寺廟之後，打算去食好味嘅抹茶芭菲。"></div></div></div>
     </div>
 
-    <!-- Part 3: 瞬間発話・総合ミックス演習 -->
-    <div class="practice-part-header"><span class="practice-part-badge">Part 3</span><div class="practice-part-title">総合ミックス演習 — これまで習った単語・文法を総動員！（全12問）</div></div>
+    <!-- Part 2: 瞬間発話・総合ミックス演習 -->
+    <div class="practice-part-header"><span class="practice-part-badge">Part 2</span><div class="practice-part-title">瞬間発話・総合ミックス演習（全12問）</div></div>
     
-    <div class="toggle-item" onclick="toggleAnswer('r1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-1. My hobby is playing tennis with friends on the weekend.</div><button class="btn-check-reveal" id="btn-r1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>とテニスをすることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味は週末に友達とテニスをすることです。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('r1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-1. My hobby is taking photos with a camera.</div><button class="btn-check-reveal" id="btn-r1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はカメラで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味はカメラで写真を撮ることです。')" title="Listen">🔊</button></div></div>
     
-    <div class="toggle-item" onclick="toggleAnswer('r2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-2. Before going to sleep, I want to drink warm milk.</div><button class="btn-check-reveal" id="btn-r2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r2"><span><ruby>寝<rt>ね</rt></ruby>るまえに、<ruby>温<rt>あたた</rt></ruby>かいミルクを<ruby>飲<rt>の</rt></ruby>みたいです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('寝るまえに、温かいミルクを飲みたいです。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('r2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-2. Before getting on the train, please buy a ticket.</div><button class="btn-check-reveal" id="btn-r2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r2"><span><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るまえに、<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車に乗るまえに、切符を買ってください。')" title="Listen">🔊</button></div></div>
     
-    <div class="toggle-item" onclick="toggleAnswer('r3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-3. After eating dinner, wouldn't you like to go watch a movie together?</div><button class="btn-check-reveal" id="btn-r3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r3"><span><ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('晩ごはんを食べたあとで、一緒に映画を見に行きませんか。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('r3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-3. After eating dinner, I always take my stomach medicine.</div><button class="btn-check-reveal" id="btn-r3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r3"><span><ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、いつも<ruby>胃<rt>い</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('晩ごはんを食べたあとで、いつも胃の薬を飲みます。')" title="Listen">🔊</button></div></div>
     
-    <div class="toggle-item" onclick="toggleAnswer('r4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-4. Before going to Japan, I must obtain a passport.</div><button class="btn-check-reveal" id="btn-r4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r4"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くまえに、パスポートを<ruby>取<rt>と</rt></ruby>らなければなりません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ行くまえに、パスポートを取らなければなりません。')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('r4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-4. After taking a warm shower, I read a book.</div><button class="btn-check-reveal" id="btn-r4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r4"><span>シャワーを<ruby>浴<rt>あ</rt></ruby>びてから、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('シャワーを浴びてから、本を読みます。')" title="Listen">🔊</button></div></div>
     
-    <div class="toggle-item" onclick="toggleAnswer('r5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-5. After borrowing books at the library, let's take a walk in the park!</div><button class="btn-check-reveal" id="btn-r5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r5"><span><ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りてから、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しましょう！</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('図書館で本を借りてから、公園を散歩しましょう！')" title="Listen">🔊</button></div></div>
+    <div class="toggle-item" onclick="toggleAnswer('r5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-5. Before leaving the house, I always look for my car keys.</div><button class="btn-check-reveal" id="btn-r5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r5"><span><ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るまえに、いつも<ruby>車<rt>くるま</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>します。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('家を出るまえに、いつも車の鍵を探します。')" title="Listen">🔊</button></div></div>
     
     <div class="toggle-item" onclick="toggleAnswer('r6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">R-6. You must not enter the room after the meeting has started.</div><button class="btn-check-reveal" id="btn-r6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-r6"><span><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まったあとで、<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってはいけません。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('会議が始まったあとで、部屋に入ってはいけません。')" title="Listen">🔊</button></div></div>
     
