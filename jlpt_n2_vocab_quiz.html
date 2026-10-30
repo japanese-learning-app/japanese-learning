@@ -2042,6 +2042,9 @@
       <button class="modal-sub-btn" id="btnCopyTerm">
         📋 コピー
       </button>
+      <button class="modal-sub-btn" id="btnSearchDict">
+        📖 辞書で検索
+      </button>
     </div>
 
     <!-- 内蔵クイック辞書パネル（画面を離れずにその場で表示） -->
@@ -2087,7 +2090,7 @@
 
 <script>
   // State
-  const data = window.JLPT_N2_VOCAB_QUIZ_DATA || [];
+  let data = window.JLPT_N2_VOCAB_QUIZ_DATA || [];
 
   // Fisher-Yates shuffle helper
   function shuffleArray(array) {
@@ -3231,10 +3234,12 @@
     renderDictLookup(word);
   };
 
-  btnSearchDict.addEventListener('click', () => {
-    if (!activeModalTerm) return;
-    openDictPanelOnPage(activeModalTerm);
-  });
+  if (btnSearchDict) {
+    btnSearchDict.addEventListener('click', () => {
+      if (!activeModalTerm) return;
+      openDictPanelOnPage(activeModalTerm);
+    });
+  }
 
   if (btnModalDictSearch) {
     btnModalDictSearch.addEventListener('click', () => {
@@ -3616,9 +3621,31 @@
   });
 
   // Initial Boot
-  updateMyListUI();
-  checkResume();
-  renderQuestion();
+  function initQuizApp() {
+    if ((!data || data.length === 0) && window.JLPT_N2_VOCAB_QUIZ_DATA && window.JLPT_N2_VOCAB_QUIZ_DATA.length > 0) {
+      data = window.JLPT_N2_VOCAB_QUIZ_DATA;
+      activeIndices = buildBalancedIndices(selectedLimit, categoryFilter ? categoryFilter.value : 'all');
+    }
+    updateMyListUI();
+    checkResume();
+    renderQuestion();
+  }
+
+  initQuizApp();
+
+  // Fallback retry in case large dataset script is delayed
+  if (!data || data.length === 0) {
+    let retries = 0;
+    const retryInterval = setInterval(() => {
+      retries++;
+      if (window.JLPT_N2_VOCAB_QUIZ_DATA && window.JLPT_N2_VOCAB_QUIZ_DATA.length > 0) {
+        clearInterval(retryInterval);
+        initQuizApp();
+      } else if (retries > 50) {
+        clearInterval(retryInterval);
+      }
+    }, 50);
+  }
 </script>
 </body>
 </html>
