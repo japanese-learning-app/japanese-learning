@@ -55710,6 +55710,712 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "としがはなれている（みどりさんの重要表現）"
   }
+,
+  // --- Nana Student Curated Cards (27 words) ---
+  {
+    "id": "class_word_nana_0001",
+    "word": "服",
+    "reading": "ふく",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "clothes, clothing",
+      "ja": "服",
+      "zh_TW": "衫、衣服",
+      "zh_CN": "衫、衣服",
+      "ko": "衫、衣服",
+      "zh_HK": "衫、衣服",
+      "fr": "clothes, clothing"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>にデパートへ<ruby>新<rt>あたら</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>った。",
+      "en": "I went to the department store over the weekend to buy new clothes.",
+      "zh_TW": "週末去咗百貨公司買新衫。",
+      "zh_CN": "週末去咗百貨公司買新衫。",
+      "ko": "週末去咗百貨公司買新衫。",
+      "zh_HK": "週末去咗百貨公司買新衫。",
+      "fr": "I went to the department store over the weekend to buy new clothes."
+    },
+    "related": "ふく（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0002",
+    "word": "夜市",
+    "reading": "よいち",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "night market",
+      "ja": "夜市",
+      "zh_TW": "夜市",
+      "zh_CN": "夜市",
+      "ko": "夜市",
+      "zh_HK": "夜市",
+      "fr": "night market"
+    },
+    "example": {
+      "ja": "<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>夜市<rt>よいち</rt></ruby>で、おいしいB<ruby>級<rt>きゅう</rt></ruby>グルメをたくさん<ruby>食<rt>た</rt></ruby>べた。",
+      "en": "I ate a lot of delicious local street food at the night market in Taiwan.",
+      "zh_TW": "喺台灣嘅夜市食咗好多好味嘅地道小食。",
+      "zh_CN": "喺台灣嘅夜市食咗好多好味嘅地道小食。",
+      "ko": "喺台灣嘅夜市食咗好多好味嘅地道小食。",
+      "zh_HK": "喺台灣嘅夜市食咗好多好味嘅地道小食。",
+      "fr": "I ate a lot of delicious local street food at the night market in Taiwan."
+    },
+    "related": "よいち（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0003",
+    "word": "髪を染める",
+    "reading": "かみをそめる",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "to dye one's hair",
+      "ja": "髪を染める",
+      "zh_TW": "染頭髮、染頭",
+      "zh_CN": "染頭髮、染頭",
+      "ko": "染頭髮、染頭",
+      "zh_HK": "染頭髮、染頭",
+      "fr": "to dye one's hair"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みになったので、<ruby>髪<rt>かみ</rt></ruby>を<ruby>明<rt>あか</rt></ruby>るい<ruby>茶色<rt>ちゃいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>めた。",
+      "en": "Since summer vacation started, I dyed my hair a light brown.",
+      "zh_TW": "放暑假喇，所以將啲頭髮染咗淺啡色。",
+      "zh_CN": "放暑假喇，所以將啲頭髮染咗淺啡色。",
+      "ko": "放暑假喇，所以將啲頭髮染咗淺啡色。",
+      "zh_HK": "放暑假喇，所以將啲頭髮染咗淺啡色。",
+      "fr": "Since summer vacation started, I dyed my hair a light brown."
+    },
+    "related": "かみをそめる（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0004",
+    "word": "推し活",
+    "reading": "おしかつ",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "supporting one's favorite idol, fandom activity",
+      "ja": "推し活",
+      "zh_TW": "追星活動、支持本命偶像嘅活動",
+      "zh_CN": "追星活動、支持本命偶像嘅活動",
+      "ko": "追星活動、支持本命偶像嘅活動",
+      "zh_HK": "追星活動、支持本命偶像嘅活動",
+      "fr": "supporting one's favorite idol, fandom activity"
+    },
+    "example": {
+      "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>はグッズを<ruby>買<rt>か</rt></ruby>ったりライブに<ruby>行<rt>い</rt></ruby>ったりして、<ruby>推<rt>お</rt></ruby>し<ruby>活<rt>かつ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+      "en": "On my days off, I enjoy fandom activities like buying merchandise and going to concerts.",
+      "zh_TW": "放假嗰陣會買周邊同去睇演唱會，好享受追星嘅過程。",
+      "zh_CN": "放假嗰陣會買周邊同去睇演唱會，好享受追星嘅過程。",
+      "ko": "放假嗰陣會買周邊同去睇演唱會，好享受追星嘅過程。",
+      "zh_HK": "放假嗰陣會買周邊同去睇演唱會，好享受追星嘅過程。",
+      "fr": "On my days off, I enjoy fandom activities like buying merchandise and going to concerts."
+    },
+    "related": "おしかつ（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0005",
+    "word": "〜巻",
+    "reading": "〜かん",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "volume ..., book ...",
+      "ja": "〜巻",
+      "zh_TW": "第〜卷、第〜本",
+      "zh_CN": "第〜卷、第〜本",
+      "ko": "第〜卷、第〜本",
+      "zh_HK": "第〜卷、第〜本",
+      "fr": "volume ..., book ..."
+    },
+    "example": {
+      "ja": "<ruby>大好<rt>だいす</rt></ruby>きなマンガの<ruby>最新<rt>さいしん</rt></ruby>５<ruby>巻<rt>かん</rt></ruby>を<ruby>買<rt>か</rt></ruby>って<ruby>読<rt>よ</rt></ruby>んだ。",
+      "en": "I bought and read the latest volume 5 of my favorite manga.",
+      "zh_TW": "買咗最鍾意嘅漫畫最新嗰本第５卷嚟睇。",
+      "zh_CN": "買咗最鍾意嘅漫畫最新嗰本第５卷嚟睇。",
+      "ko": "買咗最鍾意嘅漫畫最新嗰本第５卷嚟睇。",
+      "zh_HK": "買咗最鍾意嘅漫畫最新嗰本第５卷嚟睇。",
+      "fr": "I bought and read the latest volume 5 of my favorite manga."
+    },
+    "related": "〜かん（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0006",
+    "word": "他に",
+    "reading": "ほかに",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "in addition, besides, else",
+      "ja": "他に",
+      "zh_TW": "除咗咁之外、仲有",
+      "zh_CN": "除咗咁之外、仲有",
+      "ko": "除咗咁之外、仲有",
+      "zh_HK": "除咗咁之外、仲有",
+      "fr": "in addition, besides, else"
+    },
+    "example": {
+      "ja": "<ruby>他<rt>ほか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>か<ruby>質問<rt>しつもん</rt></ruby>や<ruby>気<rt>き</rt></ruby>になることはありますか？",
+      "en": "Is there anything else you have questions about or are curious about?",
+      "zh_TW": "除咗咁之外，仲有冇咩問題或者想了解嘅嘢？",
+      "zh_CN": "除咗咁之外，仲有冇咩問題或者想了解嘅嘢？",
+      "ko": "除咗咁之外，仲有冇咩問題或者想了解嘅嘢？",
+      "zh_HK": "除咗咁之外，仲有冇咩問題或者想了解嘅嘢？",
+      "fr": "Is there anything else you have questions about or are curious about?"
+    },
+    "related": "ほかに（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0007",
+    "word": "おみやげ",
+    "reading": "おみやげ",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "souvenir, travel gift",
+      "ja": "おみやげ",
+      "zh_TW": "手信、伴手禮",
+      "zh_CN": "手信、伴手禮",
+      "ko": "手信、伴手禮",
+      "zh_HK": "手信、伴手禮",
+      "fr": "souvenir, travel gift"
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りに、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちへのおみやげを<ruby>買<rt>か</rt></ruby>った。",
+      "en": "On the way back from my trip, I bought souvenirs for my coworkers.",
+      "zh_TW": "旅行返嚟嗰陣，買咗手信送畀公司同事。",
+      "zh_CN": "旅行返嚟嗰陣，買咗手信送畀公司同事。",
+      "ko": "旅行返嚟嗰陣，買咗手信送畀公司同事。",
+      "zh_HK": "旅行返嚟嗰陣，買咗手信送畀公司同事。",
+      "fr": "On the way back from my trip, I bought souvenirs for my coworkers."
+    },
+    "related": "おみやげ（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0008",
+    "word": "観光地",
+    "reading": "かんこうち",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "tourist spot, sightseeing destination",
+      "ja": "観光地",
+      "zh_TW": "旅遊景點、觀光名勝",
+      "zh_CN": "旅遊景點、觀光名勝",
+      "ko": "旅遊景點、觀光名勝",
+      "zh_HK": "旅遊景點、觀光名勝",
+      "fr": "tourist spot, sightseeing destination"
+    },
+    "example": {
+      "ja": "この<ruby>島<rt>しま</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>がとてもきれいで、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>観光地<rt>かんこうち</rt></ruby>になっている。",
+      "en": "The sea on this island is very beautiful, making it a famous tourist destination.",
+      "zh_TW": "呢個島嘅海好靚，係一個好出名嘅旅遊景點。",
+      "zh_CN": "呢個島嘅海好靚，係一個好出名嘅旅遊景點。",
+      "ko": "呢個島嘅海好靚，係一個好出名嘅旅遊景點。",
+      "zh_HK": "呢個島嘅海好靚，係一個好出名嘅旅遊景點。",
+      "fr": "The sea on this island is very beautiful, making it a famous tourist destination."
+    },
+    "related": "かんこうち（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0009",
+    "word": "サビ",
+    "reading": "さび",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "chorus, hook of a song",
+      "ja": "サビ",
+      "zh_TW": "副歌、高潮部分",
+      "zh_CN": "副歌、高潮部分",
+      "ko": "副歌、高潮部分",
+      "zh_HK": "副歌、高潮部分",
+      "fr": "chorus, hook of a song"
+    },
+    "example": {
+      "ja": "この<ruby>曲<rt>きょく</rt></ruby>はサビのメロディーがとてもキャッチーで、すぐに<ruby>覚<rt>おぼ</rt></ruby>えられる。",
+      "en": "The melody of the chorus in this song is very catchy, so you can remember it right away.",
+      "zh_TW": "呢首歌副歌嘅旋律好洗腦，一聽就可以記住。",
+      "zh_CN": "呢首歌副歌嘅旋律好洗腦，一聽就可以記住。",
+      "ko": "呢首歌副歌嘅旋律好洗腦，一聽就可以記住。",
+      "zh_HK": "呢首歌副歌嘅旋律好洗腦，一聽就可以記住。",
+      "fr": "The melody of the chorus in this song is very catchy, so you can remember it right away."
+    },
+    "related": "さび（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0010",
+    "word": "一緒",
+    "reading": "いっしょ",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "together",
+      "ja": "一緒",
+      "zh_TW": "一齊、一同",
+      "zh_CN": "一齊、一同",
+      "ko": "一齊、一同",
+      "zh_HK": "一齊、一同",
+      "fr": "together"
+    },
+    "example": {
+      "ja": "<ruby>今週末<rt>こんしゅうまつ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "This weekend, I am going to watch a movie together with my friend.",
+      "zh_TW": "呢個週末我會同朋友一齊去睇戲。",
+      "zh_CN": "呢個週末我會同朋友一齊去睇戲。",
+      "ko": "呢個週末我會同朋友一齊去睇戲。",
+      "zh_HK": "呢個週末我會同朋友一齊去睇戲。",
+      "fr": "This weekend, I am going to watch a movie together with my friend."
+    },
+    "related": "いっしょ（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0011",
+    "word": "デパ地下",
+    "reading": "でぱちか",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "department store basement food hall",
+      "ja": "デパ地下",
+      "zh_TW": "百貨公司地庫美食廣場",
+      "zh_CN": "百貨公司地庫美食廣場",
+      "ko": "百貨公司地庫美食廣場",
+      "zh_HK": "百貨公司地庫美食廣場",
+      "fr": "department store basement food hall"
+    },
+    "example": {
+      "ja": "<ruby>仕事<rt>しごと</rt></ruby><ruby>帰<rt>がえ</rt></ruby>りにデパ<ruby>地下<rt>ちか</rt></ruby>でおいしいお<ruby>惣菜<rt>そうざい</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。",
+      "en": "On my way home from work, I bought delicious deli dishes at the department store food hall.",
+      "zh_TW": "收工之後去咗百貨公司地庫買好食嘅熟食小菜。",
+      "zh_CN": "收工之後去咗百貨公司地庫買好食嘅熟食小菜。",
+      "ko": "收工之後去咗百貨公司地庫買好食嘅熟食小菜。",
+      "zh_HK": "收工之後去咗百貨公司地庫買好食嘅熟食小菜。",
+      "fr": "On my way home from work, I bought delicious deli dishes at the department store food hall."
+    },
+    "related": "でぱちか（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0012",
+    "word": "遅れる",
+    "reading": "おくれる",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "to be late, to be delayed",
+      "ja": "遅れる",
+      "zh_TW": "遲到、延遲",
+      "zh_CN": "遲到、延遲",
+      "ko": "遲到、延遲",
+      "zh_HK": "遲到、延遲",
+      "fr": "to be late, to be delayed"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>のトラブルで、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れてしまった。",
+      "en": "Due to train trouble, I was a little late for my appointment.",
+      "zh_TW": "因為火車出咗問題，搞到約定嘅時間遲咗少少。",
+      "zh_CN": "因為火車出咗問題，搞到約定嘅時間遲咗少少。",
+      "ko": "因為火車出咗問題，搞到約定嘅時間遲咗少少。",
+      "zh_HK": "因為火車出咗問題，搞到約定嘅時間遲咗少少。",
+      "fr": "Due to train trouble, I was a little late for my appointment."
+    },
+    "related": "おくれる（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0013",
+    "word": "遅延する",
+    "reading": "ちえんする",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "to be delayed",
+      "ja": "遅延する",
+      "zh_TW": "延誤、誤點",
+      "zh_CN": "延誤、誤點",
+      "ko": "延誤、誤點",
+      "zh_HK": "延誤、誤點",
+      "fr": "to be delayed"
+    },
+    "example": {
+      "ja": "<ruby>悪天候<rt>あくてんこう</rt></ruby>のせいで、<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>出発<rt>しゅっぱつ</rt></ruby>が２<ruby>時間<rt>じかん</rt></ruby><ruby>遅延<rt>ちえん</rt></ruby>した。",
+      "en": "Due to bad weather, the departure of the flight was delayed by two hours.",
+      "zh_TW": "因為天氣差，班機嘅起飛時間延誤咗兩個鐘。",
+      "zh_CN": "因為天氣差，班機嘅起飛時間延誤咗兩個鐘。",
+      "ko": "因為天氣差，班機嘅起飛時間延誤咗兩個鐘。",
+      "zh_HK": "因為天氣差，班機嘅起飛時間延誤咗兩個鐘。",
+      "fr": "Due to bad weather, the departure of the flight was delayed by two hours."
+    },
+    "related": "ちえんする（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0014",
+    "word": "時間通り",
+    "reading": "じかんどおり",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "on time, on schedule",
+      "ja": "時間通り",
+      "zh_TW": "準時、準點",
+      "zh_CN": "準時、準點",
+      "ko": "準時、準點",
+      "zh_HK": "準時、準點",
+      "fr": "on time, on schedule"
+    },
+    "example": {
+      "ja": "バスは<ruby>時間通<rt>じかんどお</rt></ruby>りに<ruby>停留所<rt>ていりゅうじょ</rt></ruby>へ<ruby>到着<rt>とうちゃく</rt></ruby>した。",
+      "en": "The bus arrived at the stop right on time.",
+      "zh_TW": "巴士好準時咁去到巴士站。",
+      "zh_CN": "巴士好準時咁去到巴士站。",
+      "ko": "巴士好準時咁去到巴士站。",
+      "zh_HK": "巴士好準時咁去到巴士站。",
+      "fr": "The bus arrived at the stop right on time."
+    },
+    "related": "じかんどおり（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0015",
+    "word": "いつも通り",
+    "reading": "いつもどおり",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "as usual, as always",
+      "ja": "いつも通り",
+      "zh_TW": "照舊、好似平時咁",
+      "zh_CN": "照舊、好似平時咁",
+      "ko": "照舊、好似平時咁",
+      "zh_HK": "照舊、好似平時咁",
+      "fr": "as usual, as always"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>はいつも<ruby>通<rt>どお</rt></ruby>り、コーヒーを<ruby>飲<rt>の</rt></ruby>んでから<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>た。",
+      "en": "In the morning, I left home after drinking coffee, as usual.",
+      "zh_TW": "朝早好似平時咁，飲咗杯咖啡之後先出門口。",
+      "zh_CN": "朝早好似平時咁，飲咗杯咖啡之後先出門口。",
+      "ko": "朝早好似平時咁，飲咗杯咖啡之後先出門口。",
+      "zh_HK": "朝早好似平時咁，飲咗杯咖啡之後先出門口。",
+      "fr": "In the morning, I left home after drinking coffee, as usual."
+    },
+    "related": "いつもどおり（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0016",
+    "word": "店",
+    "reading": "みせ",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "shop, store, restaurant",
+      "ja": "店",
+      "zh_TW": "舖頭、餐廳",
+      "zh_CN": "舖頭、餐廳",
+      "ko": "舖頭、餐廳",
+      "zh_HK": "舖頭、餐廳",
+      "fr": "shop, store, restaurant"
+    },
+    "example": {
+      "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しくできたラーメンの<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってみた。",
+      "en": "I tried going to the new ramen shop that opened in front of the station.",
+      "zh_TW": "去咗火車站前面新開嗰間拉麵舖試下。",
+      "zh_CN": "去咗火車站前面新開嗰間拉麵舖試下。",
+      "ko": "去咗火車站前面新開嗰間拉麵舖試下。",
+      "zh_HK": "去咗火車站前面新開嗰間拉麵舖試下。",
+      "fr": "I tried going to the new ramen shop that opened in front of the station."
+    },
+    "related": "みせ（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0017",
+    "word": "試験",
+    "reading": "しけん",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "exam, test, examination",
+      "ja": "試験",
+      "zh_TW": "考試",
+      "zh_CN": "考試",
+      "ko": "考試",
+      "zh_HK": "考試",
+      "fr": "exam, test, examination"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>毎日<rt>まいにち</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>勉強<rt>べんきょう</rt></ruby>している。",
+      "en": "Toward next week's Japanese exam, I study until late every day.",
+      "zh_TW": "為咗下個禮拜嘅日文考試，每日都溫書溫到好夜。",
+      "zh_CN": "為咗下個禮拜嘅日文考試，每日都溫書溫到好夜。",
+      "ko": "為咗下個禮拜嘅日文考試，每日都溫書溫到好夜。",
+      "zh_HK": "為咗下個禮拜嘅日文考試，每日都溫書溫到好夜。",
+      "fr": "Toward next week's Japanese exam, I study until late every day."
+    },
+    "related": "しけん（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0018",
+    "word": "助手席",
+    "reading": "じょしゅせき",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "passenger seat, front passenger seat",
+      "ja": "助手席",
+      "zh_TW": "車頭乘客位、副駕駛座",
+      "zh_CN": "車頭乘客位、副駕駛座",
+      "ko": "車頭乘客位、副駕駛座",
+      "zh_HK": "車頭乘客位、副駕駛座",
+      "fr": "passenger seat, front passenger seat"
+    },
+    "example": {
+      "ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>助手席<rt>じょしゅせき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って、ドライブを<ruby>楽<rt>たの</rt></ruby>しんだ。",
+      "en": "I sat in the front passenger seat of his car and enjoyed the drive.",
+      "zh_TW": "坐喺佢架車嘅前座乘客位，好享受遊車河。",
+      "zh_CN": "坐喺佢架車嘅前座乘客位，好享受遊車河。",
+      "ko": "坐喺佢架車嘅前座乘客位，好享受遊車河。",
+      "zh_HK": "坐喺佢架車嘅前座乘客位，好享受遊車河。",
+      "fr": "I sat in the front passenger seat of his car and enjoyed the drive."
+    },
+    "related": "じょしゅせき（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0019",
+    "word": "自信があります",
+    "reading": "じしんがあります",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "to have confidence",
+      "ja": "自信があります",
+      "zh_TW": "有信心",
+      "zh_CN": "有信心",
+      "ko": "有信心",
+      "zh_HK": "有信心",
+      "fr": "to have confidence"
+    },
+    "example": {
+      "ja": "しっかり<ruby>準備<rt>じゅんび</rt></ruby>したので、<ruby>明日<rt>あした</rt></ruby>のプレゼンには<ruby>自信<rt>じしん</rt></ruby>があります。",
+      "en": "Since I prepared thoroughly, I have confidence in tomorrow's presentation.",
+      "zh_TW": "因為準備得好充足，所以對聽日嘅簡報好有信心。",
+      "zh_CN": "因為準備得好充足，所以對聽日嘅簡報好有信心。",
+      "ko": "因為準備得好充足，所以對聽日嘅簡報好有信心。",
+      "zh_HK": "因為準備得好充足，所以對聽日嘅簡報好有信心。",
+      "fr": "Since I prepared thoroughly, I have confidence in tomorrow's presentation."
+    },
+    "related": "じしんがあります（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0020",
+    "word": "乗り換え",
+    "reading": "のりかえ",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "transfer, changing trains/buses",
+      "ja": "乗り換え",
+      "zh_TW": "轉車、轉乘",
+      "zh_CN": "轉車、轉乘",
+      "ko": "轉車、轉乘",
+      "zh_HK": "轉車、轉乘",
+      "fr": "transfer, changing trains/buses"
+    },
+    "example": {
+      "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えをしなければならない。",
+      "en": "I have to transfer to the subway at the next station.",
+      "zh_TW": "喺下一個站一定要轉搭地鐵。",
+      "zh_CN": "喺下一個站一定要轉搭地鐵。",
+      "ko": "喺下一個站一定要轉搭地鐵。",
+      "zh_HK": "喺下一個站一定要轉搭地鐵。",
+      "fr": "I have to transfer to the subway at the next station."
+    },
+    "related": "のりかえ（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0021",
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "traffic jam, traffic congestion",
+      "ja": "渋滞",
+      "zh_TW": "塞車",
+      "zh_CN": "塞車",
+      "ko": "塞車",
+      "zh_HK": "塞車",
+      "fr": "traffic jam, traffic congestion"
+    },
+    "example": {
+      "ja": "<ruby>事故<rt>じこ</rt></ruby>のせいで<ruby>道路<rt>どうろ</rt></ruby>がひどく<ruby>渋滞<rt>じゅうたい</rt></ruby>している。",
+      "en": "Because of an accident, the road is in a terrible traffic jam.",
+      "zh_TW": "因為交通意外，條路塞車塞得好嚴重。",
+      "zh_CN": "因為交通意外，條路塞車塞得好嚴重。",
+      "ko": "因為交通意外，條路塞車塞得好嚴重。",
+      "zh_HK": "因為交通意外，條路塞車塞得好嚴重。",
+      "fr": "Because of an accident, the road is in a terrible traffic jam."
+    },
+    "related": "じゅうたい（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0022",
+    "word": "健康的",
+    "reading": "けんこうてき",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "healthy, wholesome",
+      "ja": "健康的",
+      "zh_TW": "健康嘅",
+      "zh_CN": "健康嘅",
+      "ko": "健康嘅",
+      "zh_HK": "健康嘅",
+      "fr": "healthy, wholesome"
+    },
+    "example": {
+      "ja": "<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べて、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけている。",
+      "en": "I eat a lot of vegetables and try to maintain a healthy lifestyle.",
+      "zh_TW": "食好多蔬菜，努力維持健康嘅生活習慣。",
+      "zh_CN": "食好多蔬菜，努力維持健康嘅生活習慣。",
+      "ko": "食好多蔬菜，努力維持健康嘅生活習慣。",
+      "zh_HK": "食好多蔬菜，努力維持健康嘅生活習慣。",
+      "fr": "I eat a lot of vegetables and try to maintain a healthy lifestyle."
+    },
+    "related": "けんこうてき（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0023",
+    "word": "バス停",
+    "reading": "ばすてい",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "bus stop",
+      "ja": "バス停",
+      "zh_TW": "巴士站",
+      "zh_CN": "巴士站",
+      "ko": "巴士站",
+      "zh_HK": "巴士站",
+      "fr": "bus stop"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>のすぐ<ruby>近<rt>ちか</rt></ruby>くにバス<ruby>停<rt>てい</rt></ruby>があるので、<ruby>通勤<rt>つうきん</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "There is a bus stop right near my house, so it is very convenient for commuting.",
+      "zh_TW": "屋企好近嘅地方就有巴士站，返工好方便。",
+      "zh_CN": "屋企好近嘅地方就有巴士站，返工好方便。",
+      "ko": "屋企好近嘅地方就有巴士站，返工好方便。",
+      "zh_HK": "屋企好近嘅地方就有巴士站，返工好方便。",
+      "fr": "There is a bus stop right near my house, so it is very convenient for commuting."
+    },
+    "related": "ばすてい（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0024",
+    "word": "散歩する",
+    "reading": "さんぽする",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "to take a walk, to stroll",
+      "ja": "散歩する",
+      "zh_TW": "行街散步、散步",
+      "zh_CN": "行街散步、散步",
+      "ko": "行街散步、散步",
+      "zh_HK": "行街散步、散步",
+      "fr": "to take a walk, to stroll"
+    },
+    "example": {
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がとてもいいので、<ruby>近<rt>ちか</rt></ruby>くの<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>した。",
+      "en": "The weather is very nice, so I took a stroll in the nearby park.",
+      "zh_TW": "今日天氣好好，所以去咗附近嘅公園散步。",
+      "zh_CN": "今日天氣好好，所以去咗附近嘅公園散步。",
+      "ko": "今日天氣好好，所以去咗附近嘅公園散步。",
+      "zh_HK": "今日天氣好好，所以去咗附近嘅公園散步。",
+      "fr": "The weather is very nice, so I took a stroll in the nearby park."
+    },
+    "related": "さんぽする（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0025",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "envious, jealous",
+      "ja": "羨ましい",
+      "zh_TW": "令人羨慕、恨死隔籬",
+      "zh_CN": "令人羨慕、恨死隔籬",
+      "ko": "令人羨慕、恨死隔籬",
+      "zh_HK": "令人羨慕、恨死隔籬",
+      "fr": "envious, jealous"
+    },
+    "example": {
+      "ja": "<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みをとって<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>けるなんて、とても<ruby>羨<rt>うらや</rt></ruby>ましいです。",
+      "en": "I'm so jealous that you can take a long vacation and go on a trip.",
+      "zh_TW": "可以放個長假去旅行，真係好令人羨慕。",
+      "zh_CN": "可以放個長假去旅行，真係好令人羨慕。",
+      "ko": "可以放個長假去旅行，真係好令人羨慕。",
+      "zh_HK": "可以放個長假去旅行，真係好令人羨慕。",
+      "fr": "I'm so jealous that you can take a long vacation and go on a trip."
+    },
+    "related": "うらやましい（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0026",
+    "word": "長袖",
+    "reading": "ながそで",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "long sleeves, long-sleeved shirt",
+      "ja": "長袖",
+      "zh_TW": "長袖",
+      "zh_CN": "長袖",
+      "ko": "長袖",
+      "zh_HK": "長袖",
+      "fr": "long sleeves, long-sleeved shirt"
+    },
+    "example": {
+      "ja": "<ruby>朝晩<rt>あさばん</rt></ruby>が<ruby>肌寒<rt>はだざむ</rt></ruby>くなってきたので、<ruby>長袖<rt>ながそで</rt></ruby>のシャツを<ruby>着<rt>き</rt></ruby>た。",
+      "en": "It has gotten chilly in the mornings and evenings, so I put on a long-sleeved shirt.",
+      "zh_TW": "朝早同夜晚開始有啲涼，所以著咗件長袖衫。",
+      "zh_CN": "朝早同夜晚開始有啲涼，所以著咗件長袖衫。",
+      "ko": "朝早同夜晚開始有啲涼，所以著咗件長袖衫。",
+      "zh_HK": "朝早同夜晚開始有啲涼，所以著咗件長袖衫。",
+      "fr": "It has gotten chilly in the mornings and evenings, so I put on a long-sleeved shirt."
+    },
+    "related": "ながそで（ななさんの授業重要表現）"
+  },
+  {
+    "id": "class_word_nana_0027",
+    "word": "半袖",
+    "reading": "はんそで",
+    "category": "授業で習った言葉",
+    "studentId": "0013",
+    "meaning": {
+      "en": "short sleeves, short-sleeved shirt",
+      "ja": "半袖",
+      "zh_TW": "短袖",
+      "zh_CN": "短袖",
+      "ko": "短袖",
+      "zh_HK": "短袖",
+      "fr": "short sleeves, short-sleeved shirt"
+    },
+    "example": {
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>日中<rt>にっちゅう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>半袖<rt>はんそで</rt></ruby>のTシャツが<ruby>一番<rt>いちばん</rt></ruby>だ。",
+      "en": "During summer daytime it's very hot, so a short-sleeved T-shirt is the best.",
+      "zh_TW": "夏天嘅日頭好熱，著短袖T恤係最舒服嘅。",
+      "zh_CN": "夏天嘅日頭好熱，著短袖T恤係最舒服嘅。",
+      "ko": "夏天嘅日頭好熱，著短袖T恤係最舒服嘅。",
+      "zh_HK": "夏天嘅日頭好熱，著短袖T恤係最舒服嘅。",
+      "fr": "During summer daytime it's very hot, so a short-sleeved T-shirt is the best."
+    },
+    "related": "はんそで（ななさんの授業重要表現）"
+  },
 ];
 
 window.CLASS_ARUN_IDS = ["class_word_1603", "class_word_1181", "class_word_0387", "class_word_1604", "class_word_1605", "class_word_1606", "class_word_1607", "class_word_0112", "class_word_1608", "class_word_1609", "class_word_1610", "class_word_1611", "class_word_1612", "class_word_1613", "class_word_1614", "class_word_1615", "class_word_1616", "class_word_1617", "class_word_1598", "class_word_1618", "class_word_1619", "class_word_1281", "class_word_1620", "class_word_1621", "class_word_1622", "class_word_1623", "class_word_1624", "class_word_1432", "class_word_1335", "class_word_1625", "class_word_1626", "class_word_1627", "class_word_1628", "class_word_1629", "class_word_1630", "class_word_1631", "class_word_1632", "class_word_1633", "class_word_1369", "class_word_1634", "class_word_1635", "class_word_1636", "class_word_1637", "class_word_1638", "class_word_0003", "class_word_1639", "class_word_1640", "class_word_1641", "class_word_0336", "class_word_1642", "class_word_0155", "class_word_1643", "class_word_1644", "class_word_1645", "class_word_1646", "class_word_1647", "class_word_1648", "class_word_1649", "class_word_1650", "class_word_1651", "class_word_1652", "class_word_1653", "class_word_1654", "class_word_1131", "class_word_1655", "class_word_0291", "class_word_1252", "class_word_1656", "class_word_1657", "class_word_1459", "class_word_1658", "class_word_1659", "class_word_0476", "class_word_1660", "class_word_1661", "class_word_1329", "class_word_1662", "class_word_1663", "class_word_1664", "class_word_1665", "class_word_0526", "class_word_1585", "class_word_1666", "class_word_1667", "class_word_1668", "class_word_1669", "class_word_1345", "class_word_1066", "class_word_0172", "class_word_1670", "class_word_1671", "class_word_1186", "class_word_1672", "class_word_0417", "class_word_1673", "class_word_1674", "class_word_1675", "class_word_1676", "class_word_1677", "class_word_0474", "class_word_1678", "class_word_1679", "class_word_0912", "class_word_1680", "class_word_1681", "class_word_1682", "class_word_1683", "class_word_1684", "class_word_1685", "class_word_1686", "class_word_1687", "class_word_1688", "class_word_1689", "class_word_1690", "class_word_1691", "class_word_1692", "class_word_0227", "class_word_1693", "class_word_1694", "class_word_1439", "class_word_1695", "class_word_1696", "class_word_1697", "class_word_1698", "class_word_1699", "class_word_1700", "class_word_0401", "class_word_1701", "class_word_0114", "class_word_1702", "class_word_1703", "class_word_0462", "class_word_0403", "class_word_1704", "class_word_1705", "class_word_1706", "class_word_1707", "class_word_1708", "class_word_1709", "class_word_1412", "class_word_1710", "class_word_1711", "class_word_0266", "class_word_1055", "class_word_0555", "class_word_0029", "class_word_1464", "class_word_1712", "class_word_0012", "class_word_1115", "class_word_0376", "class_word_1713", "class_word_1714", "class_word_1715", "class_word_1716", "class_word_1717", "class_word_1718", "class_word_1719", "class_word_1720", "class_word_1721", "class_word_1434", "class_word_0557", "class_word_1722", "class_word_1723", "class_word_1724", "class_word_1725", "class_word_1726", "class_word_1497", "class_word_1498", "class_word_1727", "class_word_1728", "class_word_1729", "class_word_1730", "class_word_1513", "class_word_1731", "class_word_1732", "class_word_1733", "class_word_1734", "class_word_1349", "class_word_0081", "class_word_1735", "class_word_1736", "class_word_1737", "class_word_1241", "class_word_1738", "class_word_0702", "class_word_1739", "class_word_1740", "class_word_1741", "class_word_1742", "class_word_1743", "class_word_1744", "class_word_1745", "class_word_1428", "class_word_1430", "class_word_1746", "class_word_1747", "class_word_1748", "class_word_1749", "class_word_1750", "class_word_1751", "class_word_0247", "class_word_1468", "class_word_1752", "class_word_1753", "class_word_0929", "class_word_0014", "class_word_1754", "class_word_0303", "class_word_1755", "class_word_1756", "class_word_0636", "class_word_1757", "class_word_1758", "class_word_0672", "class_word_1759", "class_word_1760", "class_word_1761", "class_word_1762", "class_word_1763", "class_word_1764", "class_word_1765", "class_word_1766", "class_word_1767", "class_word_1768", "class_word_1769", "class_word_1770", "class_word_1771", "class_word_1772", "class_word_1773", "class_word_1774", "class_word_1337", "class_word_1775", "class_word_1776", "class_word_1777", "class_word_1778", "class_word_1779", "class_word_1780", "class_word_1781", "class_word_1782", "class_word_1783", "class_word_1784", "class_word_1785", "class_word_1786", "class_word_0385", "class_word_1787", "class_word_1788", "class_word_1105", "class_word_1789", "class_word_1790", "class_word_1791", "class_word_0845", "class_word_1792", "class_word_1793", "class_word_1794", "class_word_1795", "class_word_1796", "class_word_1797", "class_word_1798", "class_word_1572", "class_word_1799", "class_word_1800", "class_word_1144", "class_word_1801", "class_word_1802", "class_word_1803", "class_word_1804", "class_word_1805", "class_word_1806", "class_word_1807", "class_word_1489", "class_word_1808", "class_word_1809", "class_word_1810", "class_word_1811", "class_word_1812", "class_word_1813", "class_word_0217", "class_word_1814", "class_word_1815", "class_word_1816", "class_word_1817", "class_word_0055", "class_word_1069", "class_word_1818", "class_word_1819", "class_word_1820", "class_word_1821", "class_word_1209", "class_word_1822", "class_word_1823", "class_word_0170", "class_word_1824", "class_word_1825", "class_word_1826", "class_word_1827", "class_word_1828", "class_word_1829", "class_word_1830", "class_word_1831", "class_word_1832", "class_word_1833", "class_word_1834", "class_word_1835", "class_word_1836", "class_word_1837", "class_word_1838", "class_word_1839", "class_word_1840", "class_word_1841", "class_word_1842", "class_word_1843", "class_word_0116", "class_word_1844", "class_word_1845", "class_word_1846", "class_word_1847", "class_word_1848", "class_word_1849", "class_word_1850", "class_word_1851", "class_word_1852", "class_word_1853", "class_word_1854", "class_word_1855", "class_word_1856", "class_word_0591", "class_word_1857", "class_word_0886", "class_word_1858", "class_word_1859", "class_word_1860", "class_word_1861", "class_word_1862", "class_word_1202", "class_word_0425", "class_word_1863", "class_word_1327", "class_word_1864", "class_word_1865", "class_word_1866", "class_word_1867", "class_word_1868", "class_word_1869", "class_word_1870", "class_word_1871", "class_word_1872", "class_word_0335", "class_word_1873", "class_word_1874", "class_word_0841", "class_word_1875", "class_word_1876", "class_word_1877", "class_word_1878", "class_word_1879", "class_word_1880", "class_word_1881", "class_word_1882", "class_word_1883", "class_word_1884", "class_word_1885", "class_word_1886", "class_word_1887", "class_word_1888", "class_word_1889", "class_word_1426", "class_word_1890", "class_word_1891", "class_word_1892", "class_word_1893", "class_word_1894", "class_word_1895", "class_word_1896", "class_word_1897", "class_word_1898", "class_word_1899", "class_word_1900", "class_word_1901", "class_word_1902", "class_word_1903", "class_word_1904", "class_word_1905", "class_word_1906", "class_word_1907", "class_word_1908", "class_word_1909", "class_word_1910", "class_word_1911", "class_word_1912", "class_word_1913", "class_word_0693", "class_word_1914", "class_word_1915", "class_word_1916", "class_word_0883", "class_word_1917", "class_word_1918", "class_word_1919", "class_word_1920", "class_word_1921", "class_word_1922", "class_word_1923", "class_word_1924", "class_word_1925", "class_word_1926", "class_word_1927", "class_word_1928", "class_word_1180", "class_word_1929", "class_word_1930", "class_word_1931", "class_word_1932", "class_word_1933", "class_word_1934", "class_word_1935", "class_word_1936", "class_word_1937", "class_word_0769", "class_word_1938", "class_word_1939", "class_word_1503", "class_word_1940", "class_word_1941", "class_word_1942", "class_word_1943", "class_word_1944", "class_word_0289", "class_word_1945", "class_word_1946", "class_word_1947", "class_word_1948", "class_word_1949", "class_word_1950", "class_word_1951", "class_word_1952", "class_word_1521", "class_word_1953", "class_word_1954", "class_word_1955", "class_word_1956", "class_word_1957", "class_word_1958", "class_word_1959", "class_word_1960", "class_word_1961", "class_word_1962", "class_word_1963", "class_word_1964", "class_word_1965", "class_word_1966", "class_word_1967", "class_word_1968", "class_word_1969", "class_word_1970", "class_word_1971", "class_word_1972", "class_word_1973", "class_word_1974", "class_word_1975", "class_word_1976", "class_word_1977", "class_word_1978", "class_word_1979", "class_word_1980", "class_word_1981", "class_word_1982", "class_word_0429", "class_word_1983", "class_word_0898", "class_word_1984", "class_word_1985", "class_word_1986", "class_word_1987", "class_word_1988", "class_word_1989", "class_word_0465", "class_word_0459", "class_word_1990", "class_word_1991", "class_word_1992", "class_word_1993", "class_word_1994", "class_word_1995", "class_word_0471", "class_word_1996", "class_word_0242", "class_word_0729", "class_word_1997", "class_word_1998", "class_word_1130", "class_word_0621", "class_word_1999", "class_word_2000", "class_word_2001", "class_word_2002", "class_word_2003", "class_word_2004", "class_word_2005", "class_word_2006", "class_word_2007", "class_word_2008", "class_word_2009", "class_word_2010", "class_word_2011", "class_word_2012", "class_word_2013", "class_word_2014", "class_word_2015", "class_word_2016", "class_word_2017", "class_word_2018", "class_word_2019", "class_word_1482", "class_word_0797", "class_word_2020", "class_word_2021", "class_word_2022", "class_word_2023", "class_word_2024", "class_word_2025", "class_word_2026", "class_word_2027"];
+
+window.CLASS_NANA_IDS = ["class_word_0499", "class_word_0500", "class_word_0501", "class_word_0502", "class_word_0503", "class_word_0504", "class_word_0505", "class_word_0506", "class_word_0507", "class_word_0508", "class_word_0509", "class_word_0510", "class_word_0511", "class_word_0512", "class_word_0513", "class_word_0514", "class_word_0515", "class_word_0516", "class_word_0517", "class_word_0518", "class_word_0519", "class_word_0520", "class_word_0521", "class_word_0522", "class_word_0523", "class_word_0524", "class_word_0525", "class_word_0526", "class_word_0527", "class_word_0528", "class_word_0529", "class_word_0530", "class_word_0531", "class_word_0532", "class_word_0533", "class_word_0534", "class_word_0535", "class_word_0536", "class_word_0537", "class_word_0538", "class_word_nana_0001", "class_word_nana_0002", "class_word_nana_0003", "class_word_nana_0004", "class_word_nana_0005", "class_word_nana_0006", "class_word_nana_0007", "class_word_nana_0008", "class_word_nana_0009", "class_word_nana_0010", "class_word_nana_0011", "class_word_nana_0012", "class_word_nana_0013", "class_word_nana_0014", "class_word_nana_0015", "class_word_nana_0016", "class_word_nana_0017", "class_word_nana_0018", "class_word_nana_0019", "class_word_nana_0020", "class_word_nana_0021", "class_word_nana_0022", "class_word_nana_0023", "class_word_nana_0024", "class_word_nana_0025", "class_word_nana_0026", "class_word_nana_0027"];

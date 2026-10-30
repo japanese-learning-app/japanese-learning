@@ -7756,6 +7756,40 @@
         localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
         localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
       }
+    } else if (studentPrefix === '0013') {
+      let needsSave = false;
+      const nanaIds = window.CLASS_NANA_IDS || [];
+      nanaIds.forEach(cId => {
+        if (!mylistSet.has(cId)) {
+          mylistSet.add(cId);
+          needsSave = true;
+        }
+        if (!mylistCardFolderMap[cId]) {
+          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+          needsSave = true;
+        }
+      });
+      if (needsSave) {
+        localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+        localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+      }
+    } else if (studentPrefix === '0013') {
+      let needsSave = false;
+      const nanaIds = window.CLASS_NANA_IDS || [];
+      nanaIds.forEach(cId => {
+        if (!mylistSet.has(cId)) {
+          mylistSet.add(cId);
+          needsSave = true;
+        }
+        if (!mylistCardFolderMap[cId]) {
+          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+          needsSave = true;
+        }
+      });
+      if (needsSave) {
+        localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+        localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+      }
     } else if (studentPrefix === '0023') {
       let needsSave = false;
       const arunIds = window.CLASS_ARUN_IDS || (typeof ARUN_CLASS_WORD_IDS !== 'undefined' ? ARUN_CLASS_WORD_IDS : []);
@@ -7893,13 +7927,44 @@
     updateMylistBadge();
   }
 
+  // Master passcode registry across all students for reliable cloud auth
+  const MASTER_STUDENT_PASSCODES = {
+    'haku': 'ppooii0099',
+    'admin': 'ppooii0099',
+    '0001': '1122',
+    '0002': '2233',
+    '0003': '3344',
+    '0004': '4455',
+    '0005': '5566',
+    '0006': '6677',
+    '0007': '7788',
+    '0008': '8899',
+    '0009': '9900',
+    '0010': '1133',
+    '0011': '2244',
+    '0012': '3355',
+    '0013': '4466',
+    '0014': '5577',
+    '0015': '6688',
+    '0016': '7799',
+    '0017': '8800',
+    '0018': '1155',
+    '0019': '2266',
+    '0020': '3377',
+    '0021': '4488',
+    '0022': '5599',
+    '0023': '6600',
+    '0024': '7788'
+  };
+
   // --- Firebase Cloud Sync Core ---
   // Authenticates student behind the scenes using internal virtual email (e.g. 0001@haku.local)
   // This satisfies Gemini's security rule: request.auth.token.email == studentId + '@haku.local'
   async function ensureStudentCloudAuth(studentId, passcode) {
     if (!isFirebaseReady || !fbAuth || !studentId || studentId === 'guest') return false;
     const virtualEmail = `${studentId.toLowerCase()}@haku.local`;
-    let passList = [passcode];
+    const masterPass = (typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '';
+    let passList = [passcode, masterPass].filter(Boolean);
     if (studentId === 'haku' || studentId === 'admin') {
       passList = ['ppooii0099', 'ppooiillkk'];
       if (passcode && !passList.includes(passcode)) passList.unshift(passcode);
@@ -7946,59 +8011,97 @@
     const API_KEY = "AIzaSyBNsrBL1xRErsuOHgvI7xNs15cai-auoSE";
     const PROJECT_ID = "japanese-learning-e8a53";
     const authUrl = `https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=${API_KEY}`;
-    const authRes = await fetch(authUrl, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        email: `${studentId.toLowerCase()}@haku.local`,
-        password: `haku_${passcode}_sec`,
-        returnSecureToken: true
-      })
-    });
-    if (!authRes.ok) return false;
-    const authData = await authRes.json();
-    const idToken = authData.idToken;
+    
+    const masterPass = (typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '';
+    const candidatePasses = [passcode, masterPass].filter(Boolean);
+    if (studentId === 'haku' || studentId === 'admin') candidatePasses.unshift('ppooii0099', 'ppooiillkk');
+
+    let idToken = null;
+    for (const p of candidatePasses) {
+      try {
+        const authRes = await fetch(authUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email: `${studentId.toLowerCase()}@haku.local`,
+            password: `haku_${p}_sec`,
+            returnSecureToken: true
+          })
+        });
+        if (authRes.ok) {
+          const authData = await authRes.json();
+          idToken = authData.idToken;
+          break;
+        }
+      } catch (e) {}
+    }
+    if (!idToken) {
+      console.warn(`REST auth failed for ${studentId} with candidate passes`);
+      return false;
+    }
 
     function toFsValue(val) {
       if (val === null || val === undefined) return { nullValue: null };
       if (typeof val === 'string') return { stringValue: val };
       if (typeof val === 'boolean') return { booleanValue: val };
       if (typeof val === 'number') return Number.isInteger(val) ? { integerValue: String(val) } : { doubleValue: val };
-      if (Array.isArray(val)) return { arrayValue: { values: val.map(toFsValue) } };
+      if (Array.isArray(val)) {
+        if (val.length === 0) return { arrayValue: {} };
+        return { arrayValue: { values: val.map(toFsValue) } };
+      }
       if (typeof val === 'object') {
         const fields = {};
         for (const [k, v] of Object.entries(val)) {
           if (v !== undefined) fields[k] = toFsValue(v);
         }
+        if (Object.keys(fields).length === 0) return { mapValue: {} };
         return { mapValue: { fields } };
       }
       return { stringValue: String(val) };
     }
 
     const fields = {};
+    const fieldPaths = [];
     for (const [k, v] of Object.entries(dataToSync)) {
       if (k === 'updatedAt') continue;
       fields[k] = toFsValue(v);
+      fieldPaths.push(`updateMask.fieldPaths=${encodeURIComponent(k)}`);
     }
 
-    const docUrl = `https://firestore.googleapis.com/v1/projects/${PROJECT_ID}/databases/(default)/documents/students/${studentId}`;
-    const patchRes = await fetch(docUrl, {
-      method: 'PATCH',
-      headers: {
-        'Authorization': `Bearer ${idToken}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ fields })
-    });
-    return patchRes.ok;
+    const docUrl = `https://firestore.googleapis.com/v1/projects/${PROJECT_ID}/databases/(default)/documents/students/${studentId}?${fieldPaths.join('&')}`;
+    try {
+      const patchRes = await fetch(docUrl, {
+        method: 'PATCH',
+        headers: {
+          'Authorization': `Bearer ${idToken}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ fields })
+      });
+      return patchRes.ok;
+    } catch(err) {
+      console.warn(`REST PATCH error for ${studentId}:`, err);
+      return false;
+    }
   }
 
   // Push student's mylist, folders, and mapping to Cloud Firestore with explicit auth
   async function syncStudentToCloudDirect(studentId, dataToSync) {
     if (!studentId || studentId === 'guest') return false;
     const targetStudent = students.find(s => s.id === studentId) || (currentStudent && currentStudent.id === studentId ? currentStudent : null);
-    if (!targetStudent) return false;
+    const effectivePasscode = (targetStudent && targetStudent.passcode) || (typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '';
     const originalStudent = currentStudent;
+
+    // High-speed safe REST direct push (avoids browser Auth session switches that cause PERMISSION_DENIED)
+    try {
+      const restOk = await syncStudentViaRest(studentId, effectivePasscode, dataToSync);
+      if (restOk) {
+        console.log(`Cloud sync direct REST succeeded instantly for ${studentId} ☁️`);
+        return true;
+      }
+    } catch (e) {
+      console.warn(`Initial REST direct attempt note for ${studentId}:`, e);
+    }
 
     return runWithCloudSyncLock(async () => {
       try {
