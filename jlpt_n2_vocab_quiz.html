@@ -1106,6 +1106,55 @@
     box-shadow: 0 6px 18px rgba(50, 100, 117, 0.3);
   }
 
+  /* Navigation Bar (Always Visible: ← 前に戻る / 次へ行く →) */
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    gap: 16px;
+  }
+
+  .nav-btn {
+    background: var(--card-bg);
+    border: 1.5px solid var(--primary-blue);
+    color: var(--primary-blue);
+    font-family: var(--app-font);
+    padding: 11px 26px;
+    border-radius: 30px;
+    font-size: 14.5px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 12px rgba(70, 130, 151, 0.08);
+  }
+
+  .nav-btn:hover:not(:disabled) {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(70, 130, 151, 0.2);
+  }
+
+  .nav-btn.primary {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  .nav-btn.primary:hover:not(:disabled) {
+    background: var(--primary-blue-dark);
+  }
+
+  .nav-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+  }
+
   /* MyList Modal */
   .modal-overlay {
     position: fixed;
@@ -1953,6 +2002,19 @@
     <button class="btn-next" id="btnNext">次の問題へ進む [Enter] →</button>
   </div>
 
+  <!-- Navigation Bar (Always Visible: ← 前に戻る / 次へ行く →) -->
+  <div class="nav-bar" id="quizNavBar">
+    <button class="nav-btn" id="prevBtn" disabled>
+      ← 前に戻る
+    </button>
+    <div style="font-size: 13px; color: var(--text-muted); font-weight: 500;">
+      ショートカット: [←] 前へ / [→] 次へ / [Enter] 次へ / [1]〜[4] 選択
+    </div>
+    <button class="nav-btn primary" id="nextBtn">
+      次へ行く →
+    </button>
+  </div>
+
   <!-- Result View (スコア・復習・答え一覧) -->
   <div class="result-view" id="resultView" style="display:none;">
     <div class="result-hero">
@@ -2161,6 +2223,7 @@
   let correctCount = 0;
   let answeredCount = 0;
   let hasAnsweredCurrent = false;
+  let userAnswersMap = {};
 
   // LocalStorage Keys
   const STORAGE_RESUME_KEY = 'n2_vocab_quiz_last_idx';
@@ -2205,6 +2268,9 @@
   const similarBoxTitle = document.getElementById('similarBoxTitle');
   const similarItems = document.getElementById('similarItems');
   const btnNext = document.getElementById('btnNext');
+  const quizNavBar = document.getElementById('quizNavBar');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
   const btnBookmark = document.getElementById('btnBookmark');
   const btnOpenMyList = document.getElementById('btnOpenMyList');
   const myListModal = document.getElementById('myListModal');
@@ -2518,12 +2584,10 @@
       choicesGrid.innerHTML = '';
       explanationCard.style.display = 'none';
       btnNext.style.display = 'none';
+      if (prevBtn) prevBtn.disabled = true;
+      if (nextBtn) nextBtn.disabled = true;
       return;
     }
-
-    hasAnsweredCurrent = false;
-    explanationCard.style.display = 'none';
-    btnNext.style.display = 'none';
 
     const q = data[activeIndices[currentIndex]];
     cardCategoryName.textContent = q.category;
@@ -2575,44 +2639,55 @@
       choicesGrid.appendChild(btn);
     });
 
+    // Check if previously answered
+    const previousAns = userAnswersMap[currentIndex];
+    if (previousAns) {
+      hasAnsweredCurrent = true;
+      questionSentence.classList.add('revealed');
+      questionSentence.innerHTML = formatQuestionSentence(q, true, previousAns.isCorrect);
+
+      const buttons = choicesGrid.querySelectorAll('.choice-btn');
+      buttons.forEach((b, idx) => {
+        b.disabled = true;
+        if (idx === q.answer) {
+          b.classList.add('correct');
+        } else if (idx === previousAns.selectedIndex && !previousAns.isCorrect) {
+          b.classList.add('wrong');
+        }
+      });
+
+      renderExplanationContent(q, previousAns.isCorrect);
+      explanationCard.style.display = 'block';
+      btnNext.style.display = 'block';
+    } else {
+      hasAnsweredCurrent = false;
+      explanationCard.style.display = 'none';
+      btnNext.style.display = 'none';
+    }
+
+    // Navigation Buttons State (Always Visible: ← 前に戻る / 次へ行く →)
+    if (prevBtn) prevBtn.disabled = (currentIndex === 0);
+    if (nextBtn) {
+      nextBtn.textContent = (currentIndex === activeIndices.length - 1) ? '結果を見る 🏆' : '次へ行く →';
+      nextBtn.disabled = false;
+    }
+    if (btnNext) {
+      btnNext.textContent = (currentIndex === activeIndices.length - 1) ? '演習結果を見る [Enter] 🏆' : '次の問題へ進む [Enter] →';
+    }
+    if (quizNavBar) quizNavBar.style.display = 'flex';
+
     updateMyListUI();
   }
 
-  // Handle Choice Selection
-  function handleChoice(selectedIndex) {
-    if (hasAnsweredCurrent) return;
-    hasAnsweredCurrent = true;
-    answeredCount++;
-
-    const q = data[activeIndices[currentIndex]];
-    const buttons = choicesGrid.querySelectorAll('.choice-btn');
-    const isCorrect = (selectedIndex === q.answer);
-
-    // Reveal target word reading / blank in question sentence
-    questionSentence.classList.add('revealed');
-    questionSentence.innerHTML = formatQuestionSentence(q, true, isCorrect);
-
+  // Render Explanation Card & Reading Details
+  function renderExplanationContent(q, isCorrect) {
     if (isCorrect) {
-      correctCount++;
-      buttons[selectedIndex].classList.add('correct');
       resultTag.className = 'result-tag correct';
       resultTag.innerHTML = `✓ 正解！ (${escapeHtml(q.correct_text)})`;
     } else {
-      buttons[selectedIndex].classList.add('wrong');
-      if (q.answer >= 0 && q.answer < buttons.length) {
-        buttons[q.answer].classList.add('correct');
-      }
       resultTag.className = 'result-tag wrong';
       resultTag.innerHTML = `✕ 不正解（正解: ${q.answer + 1}. ${escapeHtml(q.correct_text)}）`;
     }
-
-    userAnswersMap[currentIndex] = {
-      dataIndex: activeIndices[currentIndex],
-      selectedIndex: selectedIndex,
-      isCorrect: isCorrect
-    };
-
-    buttons.forEach(b => b.disabled = true);
 
     // 📖 Update Question & Answer Reading Pairs (User Request 2)
     const targetWord = q.target_word || q.correct_text;
@@ -2709,9 +2784,50 @@
       });
       similarItems.appendChild(pill);
     });
+  }
 
+  // Handle Choice Selection
+  function handleChoice(selectedIndex) {
+    if (hasAnsweredCurrent) return;
+    hasAnsweredCurrent = true;
+    answeredCount++;
+
+    const q = data[activeIndices[currentIndex]];
+    const buttons = choicesGrid.querySelectorAll('.choice-btn');
+    const isCorrect = (selectedIndex === q.answer);
+
+    // Reveal target word reading / blank in question sentence
+    questionSentence.classList.add('revealed');
+    questionSentence.innerHTML = formatQuestionSentence(q, true, isCorrect);
+
+    if (isCorrect) {
+      correctCount++;
+      buttons[selectedIndex].classList.add('correct');
+    } else {
+      buttons[selectedIndex].classList.add('wrong');
+      if (q.answer >= 0 && q.answer < buttons.length) {
+        buttons[q.answer].classList.add('correct');
+      }
+    }
+
+    userAnswersMap[currentIndex] = {
+      dataIndex: activeIndices[currentIndex],
+      selectedIndex: selectedIndex,
+      isCorrect: isCorrect
+    };
+
+    buttons.forEach(b => b.disabled = true);
+
+    renderExplanationContent(q, isCorrect);
     explanationCard.style.display = 'block';
     btnNext.style.display = 'block';
+
+    if (nextBtn) {
+      nextBtn.textContent = (currentIndex === activeIndices.length - 1) ? '結果を見る 🏆' : '次へ行く →';
+    }
+    if (btnNext) {
+      btnNext.textContent = (currentIndex === activeIndices.length - 1) ? '演習結果を見る [Enter] 🏆' : '次の問題へ進む [Enter] →';
+    }
 
     // Update Live Score
     const scorePct = Math.round((correctCount / answeredCount) * 100);
@@ -3257,7 +3373,7 @@
     });
   }
 
-  // Next Button
+  // Navigation Buttons (Next & Prev)
   btnNext.addEventListener('click', () => {
     if (currentIndex < activeIndices.length - 1) {
       currentIndex++;
@@ -3268,8 +3384,29 @@
     }
   });
 
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex < activeIndices.length - 1) {
+        currentIndex++;
+        renderQuestion();
+        window.scrollTo({ top: 120, behavior: 'smooth' });
+      } else {
+        showResultView();
+      }
+    });
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        renderQuestion();
+        window.scrollTo({ top: 120, behavior: 'smooth' });
+      }
+    });
+  }
+
   // Result & Review Logic
-  let userAnswersMap = {};
   let userReviewFilter = 'all';
 
   const resultView = document.getElementById('resultView');
@@ -3289,6 +3426,7 @@
     btnNext.style.display = 'none';
     controlBar.style.display = 'none';
     document.querySelector('.progress-section').style.display = 'none';
+    if (quizNavBar) quizNavBar.style.display = 'none';
     resultView.style.display = 'block';
 
     const total = activeIndices.length;
@@ -3333,6 +3471,7 @@
     quizCard.style.display = 'block';
     controlBar.style.display = 'flex';
     document.querySelector('.progress-section').style.display = 'block';
+    if (quizNavBar) quizNavBar.style.display = 'flex';
   }
 
   btnRetryWrong.addEventListener('click', () => {
@@ -3609,10 +3748,17 @@
       const idx = parseInt(e.key, 10) - 1;
       if (!hasAnsweredCurrent) handleChoice(idx);
     } else if (e.key === 'Enter' || e.key === ' ') {
-      if (hasAnsweredCurrent && btnNext.style.display !== 'none') {
+      if (nextBtn) {
+        e.preventDefault();
+        nextBtn.click();
+      } else if (hasAnsweredCurrent && btnNext.style.display !== 'none') {
         e.preventDefault();
         btnNext.click();
       }
+    } else if (e.key === 'ArrowRight') {
+      if (nextBtn) nextBtn.click();
+    } else if (e.key === 'ArrowLeft') {
+      if (prevBtn && !prevBtn.disabled) prevBtn.click();
     } else if (e.key.toLowerCase() === 'f') {
       furiganaToggle.click();
     } else if (e.key.toLowerCase() === 's') {
