@@ -571,13 +571,14 @@ html_content = '''<!DOCTYPE html>
       margin-bottom: 24px;
     }
 
-    /* 統一された大枠コンテナ（理解度チェックと同じ淡いピンク背景 ＋ サクラピンク枠線） */
+    /* 統一された大枠コンテナ（白背景 ＋ サクラピンク枠線） */
     .textbook-section-box {
-      background: var(--sakura-pink-soft);
-      border: 1px solid var(--sakura-pink-border);
+      background: #FFFFFF;
+      border: 1.5px solid var(--sakura-pink-border);
       border-radius: 14px;
       padding: 22px;
       margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
     }
 
     .section-tag {
@@ -2277,7 +2278,7 @@ html_content = '''<!DOCTYPE html>
               <span class="box-section-sub">Related Expressions</span>
             </div>
           </div>
-          <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:16px; font-size:13.5px; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
+          <div style="font-size:14px; line-height:1.8; color:var(--text-primary); padding:2px 0;">
             ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
           </div>
         `;
