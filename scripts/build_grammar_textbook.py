@@ -840,6 +840,45 @@ html_content = '''<!DOCTYPE html>
       white-space: nowrap;
     }
 
+    .badge-result-good {
+      background: #E8F5E9;
+      color: #2E7D32;
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid #A5D6A7;
+      white-space: nowrap;
+    }
+
+    .badge-result-warn {
+      background: #FFFBEB;
+      color: #B45309;
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid #FDE68A;
+      white-space: nowrap;
+    }
+
+    .badge-result-formal {
+      background: #F3E5F5;
+      color: #6A1B9A;
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid #CE93D8;
+      white-space: nowrap;
+    }
+
     .table-sub-en {
       font-size: 11.5px;
       color: var(--text-muted);
@@ -1723,6 +1762,7 @@ html_content = '''<!DOCTYPE html>
   <script src="user_progress.js"></script>
   <script src="database/dictionary_data.js"></script>
   <script src="database/jlpt_all_grammar_dict.js"></script>
+  <script src="database/jlpt_n2_grammar_details.js"></script>
   <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
   <script>
     // 12 Units Definitions (195 Grammars Assigned completely)
@@ -2253,192 +2293,99 @@ html_content = '''<!DOCTYPE html>
       const exListEl = document.getElementById('lessonExamplesList');
       const quizContainer = document.getElementById('lessonQuizzesContainer');
 
-      if (gid === 1) {
-        // Special Masterpiece Content for #1 あげく
-        formulaEl.innerHTML = `
-          動詞［た形］ ＋ <strong>あげく</strong><br>
-          名詞 ＋ <strong>のあげく</strong>
-        `;
-        notesEl.innerHTML = `
-          ※「過去の長いプロセスや苦労」を表すため、必ず［た形］に接続します。動詞辞書形や否定形には原則として接続しません。<br>
-          <span style="font-size:12px;color:var(--text-muted);">* Connects strictly to past tense verb [Ta-form] or Noun + の. Cannot connect to plain present/dictionary form.</span>
-        `;
+      const details = (window.JLPT_N2_GRAMMAR_DETAILS && window.JLPT_N2_GRAMMAR_DETAILS[gid]) || null;
+
+      if (details) {
+        formulaEl.innerHTML = details.formula;
+        notesEl.innerHTML = `※${details.notes_ja}<br><span style="font-size:12px;color:var(--text-muted);">${details.notes_en}</span>`;
 
         nuanceEl.innerHTML = `
           <div class="bilingual-header">
             <span>💡 コアニュアンス（使い方のポイント / Core Nuance & Usage）</span>
           </div>
-          <div class="content-ja">
-            「いろいろ長い間（苦労・対立・迷い・努力など）が続いたが、最終的に<strong>『残念な結果・悪い結果・徒労』</strong>になってしまった」という時に使います。話し手の強い「失望感」や「疲労感」が含まれ、原則として<strong>良い結果・ポジティブな結果には使えません</strong>。
-          </div>
-          <div class="content-en">
-            Used when a prolonged period of effort, conflict, agonizing hesitation, or waiting ultimately leads to an <strong>unfortunate, disappointing, or negative outcome</strong>. It carries the speaker's sense of fatigue, regret, or waste of effort. By rule, it <strong>cannot be used for positive or happy outcomes</strong>.
-          </div>
+          <div class="content-ja">${details.nuance_ja}</div>
+          <div class="content-en">${details.nuance_en}</div>
         `;
 
         trapEl.innerHTML = `
           <div class="bilingual-header">
             <span>⚠️ 英語直訳の落とし穴（学習者が最も間違えるポイント！ / Common Pitfalls & Traps）</span>
           </div>
-          <div class="content-ja">
-            英語の <strong>"finally"</strong> や <strong>"in the end"</strong>、<strong>"after all"</strong> をそのまま直訳して、<strong>喜ばしい結果（合格した、見つかった等）に使ってしまう誤用</strong>が外国人学習者に非常に多く見られます。日本語の「〜あげく」は「悪い結果」にしか使えないため、文末の結末を必ず確認しましょう。
-          </div>
-          <div class="content-en">
-            English speakers frequently equate 〜あげく with "finally" or "in the end" and mistakenly use it with happy conclusions. Remember: in Japanese, 〜あげく is strictly reserved for negative consequences.
-          </div>
+          <div class="content-ja">${details.trap_ja}</div>
+          <div class="content-en">${details.trap_en}</div>
           <div class="contrast-cards-grid">
-            <div class="contrast-card wrong">
-              <div class="contrast-card-top">
-                <span class="contrast-pill wrong">誤用 (Incorrect)</span>
-                <div class="contrast-reason-bilingual">
-                  <span>💡 合格は嬉しい結果なので不自然</span>
-                  <span class="contrast-reason-en">/ Unnatural because passing an exam is a positive result</span>
+            ${details.contrast.map(c => `
+              <div class="contrast-card ${c.type}">
+                <div class="contrast-card-top">
+                  <span class="contrast-pill ${c.type}">${c.label}</span>
+                  <div class="contrast-reason-bilingual">
+                    <span>💡 ${c.reason_ja}</span>
+                    <span class="contrast-reason-en">/ ${c.reason_en}</span>
+                  </div>
                 </div>
+                <div class="contrast-sentence">${c.sentence}</div>
               </div>
-              <div class="contrast-sentence">
-                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
-              </div>
-            </div>
-            <div class="contrast-card correct">
-              <div class="contrast-card-top">
-                <span class="contrast-pill correct">正解 (Correct with 〜末に)</span>
-                <div class="contrast-reason-bilingual">
-                  <span>💡「〜末に」は良い結果にも使用可能</span>
-                  <span class="contrast-reason-en">/ 〜末に can properly be used for positive outcomes</span>
-                </div>
-              </div>
-              <div class="contrast-sentence">
-                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong><ruby>末<rt>すえ</rt></ruby>に</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
-              </div>
-            </div>
-            <div class="contrast-card correct">
-              <div class="contrast-card-top">
-                <span class="contrast-pill correct">正解 (Correct with 〜あげく)</span>
-                <div class="contrast-reason-bilingual">
-                  <span>💡 残念な結末（不合格）なので自然</span>
-                  <span class="contrast-reason-en">/ Natural because failing an exam is an unfortunate result</span>
-                </div>
-              </div>
-              <div class="contrast-sentence">
-                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>当日<rt>とうじつ</rt></ruby>に<ruby>熱<rt>ねつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>不合格<rt>ふごうかく</rt></ruby>になった。
-              </div>
-            </div>
+            `).join('')}
           </div>
         `;
 
-        compEl.innerHTML = `
-          <div class="section-tag">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
-          <div class="comparison-table-wrap">
-            <table class="comparison-table">
-              <thead>
-                <tr>
-                  <th style="width: 22%;">文法表現 (Pattern)</th>
-                  <th style="width: 22%;">結末 (Outcome)</th>
-                  <th style="width: 30%;">特徴・ニュアンス (Nuance & Tone)</th>
-                  <th style="width: 26%;">代表例文 (Example)</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>
-                    <strong style="color:var(--text-primary); font-size:14px;">〜あげく</strong><br>
-                    <span class="table-sub-en">to end up doing</span>
-                  </td>
-                  <td>
-                    <span class="badge-result-bad">悪い結果限定</span><br>
-                    <span class="table-sub-en">Negative only</span>
-                  </td>
-                  <td>
-                    散々苦労・迷惑・葛藤した後の失望感や徒労感を強く強調する。<br>
-                    <span class="table-sub-en">Strong sense of disappointment or wasted effort.</span>
-                  </td>
-                  <td>
-                    3<ruby>時間<rt>じかん</rt></ruby><ruby>待<rt>ま</rt></ruby>たされた<strong>あげく</strong>、<ruby>中止<rt>ちゅうし</rt></ruby>になった。
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <strong style="color:var(--text-primary); font-size:14px;">〜末（すえ）に</strong><br>
-                    <span class="table-sub-en">in the end; after...</span>
-                  </td>
-                  <td>
-                    <span class="badge-result-both">良い結果 / 悪い結果</span><br>
-                    <span class="table-sub-en">Both Good & Bad</span>
-                  </td>
-                  <td>
-                    長い葛藤や努力を経て「重要な最終決定・結論」に至った重み。<br>
-                    <span class="table-sub-en">Weighed final decision reached after long contemplation.</span>
-                  </td>
-                  <td>
-                    <ruby>家族<rt>かぞく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った<strong><ruby>末<rt>すえ</rt></ruby>に</strong>、<ruby>留学<rt>りゅうがく</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた。
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <strong style="color:var(--text-primary); font-size:14px;">〜結果</strong><br>
-                    <span class="table-sub-en">as a result of</span>
-                  </td>
-                  <td>
-                    <span class="badge-result-neutral">中立（客観的事実）</span><br>
-                    <span class="table-sub-en">Neutral Fact</span>
-                  </td>
-                  <td>
-                    単に「原因 ➔ 結果」を客観的に報告する。感情や失望感は含まない。<br>
-                    <span class="table-sub-en">Objective reporting of fact; carries no emotional coloring.</span>
-                  </td>
-                  <td>
-                    <ruby>調査<rt>ちょうさ</rt></ruby>した<strong><ruby>結果<rt>けっか</rt></ruby></strong>、<ruby>異常<rt>いじょう</rt></ruby>は見つからなかった。
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        `;
+        if (details.comparison && details.comparison.length > 0) {
+          compEl.innerHTML = `
+            <div class="section-tag">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
+            <div class="comparison-table-wrap">
+              <table class="comparison-table">
+                <thead>
+                  <tr>
+                    <th style="width: 22%;">文法形式 (Grammar)</th>
+                    <th style="width: 22%;">結末・特徴 (Outcome/Trait)</th>
+                    <th style="width: 30%;">特徴・ニュアンス (Nuance & Tone)</th>
+                    <th style="width: 26%;">代表例文 (Example)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${details.comparison.map(row => `
+                    <tr>
+                      <td>
+                        <strong style="color:var(--text-primary); font-size:14px;">${row.form}</strong><br>
+                        <span class="table-sub-en">${row.form_en}</span>
+                      </td>
+                      <td>
+                        <span class="badge-result-${row.badge_type || 'neutral'}">${row.badge}</span>
+                      </td>
+                      <td>
+                        ${row.nuance_ja}<br>
+                        <span class="table-sub-en">${row.nuance_en}</span>
+                      </td>
+                      <td>${row.example}</td>
+                    </tr>
+                  `).join('')}
+                </tbody>
+              </table>
+            </div>
+          `;
+          compEl.style.display = 'block';
+        } else {
+          compEl.innerHTML = '';
+          compEl.style.display = 'none';
+        }
       } else {
-        // Universal Standard Layout for any of the 195 Grammars
+        // Universal Fallback if details not loaded
         const readingH = GRAMMAR_HIRAGANA_MAP[gid] || '';
         const hasKanji = /[\u4e00-\u9faf]/.test(g.name);
         const readingHtml = (hasKanji && readingH) ? ` （${readingH}）` : '';
 
-        // Form & Connection
-        if (gid === 121) {
-          formulaEl.innerHTML = `動詞［ます形（語幹）］ ＋ <strong>抜く</strong> （ぬく）`;
-          notesEl.innerHTML = `※動詞のマス形（語幹）に直接接続し、「苦難や長い道のりを乗り越えて最後までやり抜く・極限まで達する」ことを表します。（例：やり抜く、走り抜く、生き抜く、耐え抜く）`;
-        } else if (gid === 86) {
-          formulaEl.innerHTML = `動詞［辞書形］ / 名詞 ＋ <strong>にあたって</strong>`;
-          notesEl.innerHTML = `※「〜という特別な機会・重大な局面を迎える際に」という意味で、公的な場や改まった挨拶で多く用いられます。`;
-        } else if (gid === 147) {
-          formulaEl.innerHTML = `動詞［た形］ / 名詞 ＋ の ＋ <strong>末に</strong> （すえに）`;
-          notesEl.innerHTML = `※「長い苦労や葛藤、議論を経た最終的な結論」を表します。「あげく」と異なり、良い結果・悪い結果の双方に使用可能です。`;
-        } else if (gid === 27) {
-          formulaEl.innerHTML = `普通形（な形＋な/である・名詞＋である） ＋ <strong>反面</strong> （はんめん）`;
-          notesEl.innerHTML = `※同一の対象が持つ「対照的な二つの側面（プラス面とマイナス面）」を対比して述べる時に使います。`;
-        } else if (gid === 194) {
-          formulaEl.innerHTML = `動詞［ない形（語幹）］ ＋ <strong>ざるを得ない</strong> （ざるをえない）`;
-          notesEl.innerHTML = `※「そうしたくはないが、状況や立場からどうしても〜しなければならない」という義務感・やむを得ない気持ちを表します（する➔せざるを得ない）。`;
-        } else if (gid === 130) {
-          formulaEl.innerHTML = `動詞［辞書形］ / 名詞 ＋ の ＋ <strong>恐れがある</strong> （おそれがある）`;
-          notesEl.innerHTML = `※「〜という好ましくない事態・危険が発生する可能性がある」とニュースや警告で用いられます。`;
-        } else if (gid === 180) {
-          formulaEl.innerHTML = `動詞［ます形（語幹）］ ＋ <strong>つつある</strong>`;
-          notesEl.innerHTML = `※「ある変化が今まさに徐々に進行している」ことを表す硬い書き言葉的表現です。`;
-        } else if (gid === 195) {
-          formulaEl.innerHTML = `動詞［ない形（ず）］ ＋ <strong>に済む</strong> （ずにすむ）`;
-          notesEl.innerHTML = `※「本来ならしなければならなかった負担や嫌なことを、しなくて解決した」という安堵感を表します（する➔せずに済む）。`;
-        } else {
-          formulaEl.innerHTML = `文法形式: <strong>${g.name}</strong>${readingHtml}`;
-          notesEl.innerHTML = `※前後の接続関係や文脈に応じた適切な活用形（動詞・名詞・形容詞）に注意して使いましょう。`;
-        }
+        formulaEl.innerHTML = `文法形式: <strong>${g.name}</strong>${readingHtml}`;
+        notesEl.innerHTML = `※前後の接続関係や文脈に応じた適切な活用形（動詞・名詞・形容詞）に注意して使いましょう。`;
 
         nuanceEl.innerHTML = `
           <div class="bilingual-header">
             <span>💡 コアニュアンス（使い方のポイント / Core Nuance & Usage）</span>
           </div>
           <div class="content-ja">
-            「${g.name}」は、${g.meaning_en} を表すN2重要文法項目です。前後の接続関係および話者の意図（強調、理由、結末など）を的確に捉えて使いこなすことが合格のカギとなります。
+            「${g.name}」は、<strong>『${g.meaning_en}』</strong>を表すN2重要文法項目です。
           </div>
           <div class="content-en">
-            "${g.name}" is a critical N2 pattern meaning: <strong>${g.meaning_en}</strong>. Pay close attention to its grammatical form and the speaker's nuance when reading or listening.
+            "${g.name}" represents: <strong>${g.meaning_en}</strong>.
           </div>
         `;
 
@@ -2447,10 +2394,7 @@ html_content = '''<!DOCTYPE html>
             <span>⚠️ 学習上の注意点と落とし穴 (Points to Note)</span>
           </div>
           <div class="content-ja">
-            選択肢には類似した接続詞や助詞（${g.similar || '似た文法'}）がひっかけとして配置されます。前後の述語の肯定・否定の呼応に注意して解答しましょう。
-          </div>
-          <div class="content-en">
-            Similar patterns often appear as distractor choices in JLPT exams. Distinguish their subtle constraints carefully.
+            選択肢には類似した接続詞や助詞（${g.similar || '似た文法'}）がひっかけとして配置されます。前後の文脈に注意して解答しましょう。
           </div>
         `;
 
