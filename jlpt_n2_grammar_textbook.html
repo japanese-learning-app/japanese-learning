@@ -1415,6 +1415,59 @@
       padding: 2px 7px;
       border-radius: 6px;
       border: 1px solid var(--primary-blue-border);
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    .modal-dict-card-badge.badge-n1 {
+      background: #F3E5F5;
+      color: #6A1B9A;
+      border: 1px solid #CE93D8;
+    }
+    .modal-dict-card-badge.badge-n2 {
+      background: var(--sakura-pink-bg);
+      color: var(--sakura-pink-deep);
+      border: 1px solid var(--sakura-pink-border);
+    }
+    .modal-dict-card-badge.badge-n2-rel {
+      background: #E0F2F1;
+      color: #00695C;
+      border: 1px solid #80CBC4;
+    }
+    .modal-dict-card-badge.badge-n3 {
+      background: #E3F2FD;
+      color: #1565C0;
+      border: 1px solid #90CAF9;
+    }
+    .modal-dict-card-badge.badge-n4 {
+      background: #E8F5E9;
+      color: #2E7D32;
+      border: 1px solid #A5D6A7;
+    }
+    .modal-dict-card-badge.badge-n5 {
+      background: #FFF3E0;
+      color: #E65100;
+      border: 1px solid #FFCC80;
+    }
+
+    .modal-dict-copy-btn {
+      background: #FFFFFF;
+      border: 1px solid var(--primary-blue-border);
+      color: var(--primary-blue-dark);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 12px;
+      transition: all 0.15s;
+    }
+    .modal-dict-copy-btn:hover {
+      background: var(--primary-blue-pale);
+      border-color: var(--primary-blue);
     }
 
     .modal-dict-tts-btn {
@@ -1644,7 +1697,7 @@
     <div class="modal-dict-window">
       <div class="modal-dict-head">
         <div class="modal-dict-head-title">
-          <span>📖 内蔵日本語辞書（68,000語）</span>
+          <span>📖 内蔵日本語辞書（語彙・JLPT全レベル文法対応）</span>
         </div>
         <button type="button" class="modal-dict-close-btn" id="btnCloseDictModal" aria-label="閉じる">✕</button>
       </div>
@@ -1662,6 +1715,7 @@
   <script src="auth.js"></script>
   <script src="user_progress.js"></script>
   <script src="database/dictionary_data.js"></script>
+  <script src="database/jlpt_all_grammar_dict.js"></script>
   <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
   <script>
     // 12 Units Definitions (195 Grammars Assigned completely)
@@ -2774,60 +2828,176 @@
       return scoredMatches.slice(0, 6);
     }
 
-    // Check if query matches any of 195 grammars for reverse lookup
-    function findMatchingGrammar(query) {
+    // Search JLPT Grammar & Expressions across all levels (N1-N5 + similar/related)
+    function searchGrammarDictionary(query) {
       const cleanQ = cleanSearchWord(query);
-      for (const [gid, g] of grammarMap.entries()) {
-        if (g.name.includes(cleanQ) || cleanQ.includes(g.name.replace(/[〜~]/g, ''))) {
-          return g;
+      if (!cleanQ) return [];
+      if (!window.JLPT_ALL_GRAMMAR_DICT || !Array.isArray(window.JLPT_ALL_GRAMMAR_DICT)) return [];
+
+      const scoredMatches = [];
+      const seen = new Set();
+
+      for (let i = 0; i < window.JLPT_ALL_GRAMMAR_DICT.length; i++) {
+        const item = window.JLPT_ALL_GRAMMAR_DICT[i];
+        if (!item || !item.term) continue;
+
+        const cleanTerm = cleanSearchWord(item.term);
+        const cleanReading = cleanSearchWord(item.reading || '');
+        const uniqueKey = cleanTerm + '_' + (item.level || '');
+        if (seen.has(uniqueKey)) continue;
+
+        let score = 0;
+        let matchType = '';
+
+        if (cleanTerm === cleanQ || cleanReading === cleanQ) {
+          score = 100;
+          matchType = '文法・表現 完全一致';
+        } else if (cleanTerm.startsWith(cleanQ) || (cleanReading && cleanReading.startsWith(cleanQ))) {
+          score = 85;
+          matchType = '文法 前方一致';
+        } else if (cleanTerm.includes(cleanQ) || cleanQ.includes(cleanTerm) || (cleanReading && cleanReading.includes(cleanQ))) {
+          score = 75;
+          matchType = '文法 関連一致';
+        }
+
+        if (score > 0) {
+          seen.add(uniqueKey);
+          scoredMatches.push({
+            ...item,
+            score: score,
+            matchType: matchType,
+            lenDiff: Math.abs(cleanTerm.length - cleanQ.length)
+          });
         }
       }
-      return null;
+
+      scoredMatches.sort((a, b) => b.score - a.score || a.lenDiff - b.lenDiff);
+      return scoredMatches.slice(0, 5);
     }
+
+    // Direct text clipboard copy
+    window.copyDictText = function(text) {
+      if (!text) return;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          showToast(`「${text}」をコピーしました！`);
+        }).catch(() => {
+          showToast(`コピーしました: ${text}`);
+        });
+      } else {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try {
+          document.execCommand('copy');
+          showToast(`「${text}」をコピーしました！`);
+        } catch (e) {
+          showToast(`コピーしました: ${text}`);
+        }
+        document.body.removeChild(ta);
+      }
+    };
 
     function renderDictLookup(query) {
       if (!modalDictResultContent) return;
       const cleanQ = cleanSearchWord(query);
-      const results = searchDictionary(query);
-      const matchGrammar = findMatchingGrammar(query);
-
-      let cardsHtml = '';
-      if (matchGrammar) {
-        cardsHtml += `
-          <div class="modal-dict-card" style="border-left: 4px solid var(--sakura-pink-deep); margin-bottom:14px;">
-            <div class="modal-dict-card-header">
-              <div class="modal-dict-card-word">
-                <span>${matchGrammar.name}</span>
-              </div>
-              <span class="modal-dict-card-badge">JLPT N2 文法</span>
-            </div>
-            <div class="modal-dict-card-meaning">${matchGrammar.meaning_en}</div>
-            <div style="margin-top:10px;">
-              <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${matchGrammar.id});">
-                📖 文法テキスト「${matchGrammar.name}」の解説を見る →
-              </a>
-            </div>
-          </div>
-        `;
+      if (!cleanQ) {
+        modalDictResultContent.innerHTML = '<div style="padding:16px;color:var(--text-muted);text-align:center;">検索したい言葉を入力してください。</div>';
+        return;
       }
 
-      if (results.length > 0) {
-        const top = results[0];
-        if (top.matchType === '基本形（原形）') {
+      const grammarResults = searchGrammarDictionary(query);
+      const vocabResults = searchDictionary(query);
+
+      let cardsHtml = '';
+
+      // 1. JLPT Grammar & Related Expressions
+      if (grammarResults.length > 0) {
+        cardsHtml += `
+          <div style="font-size:12.5px; font-weight:700; color:var(--sakura-pink-deep); margin: 4px 0 10px 2px; display:flex; align-items:center; gap:6px;">
+            <span>🎯 JLPT文法・関連表現の検索結果（${grammarResults.length}件）:</span>
+          </div>
+        `;
+
+        grammarResults.forEach(item => {
+          const escapedTerm = item.term.replace(/'/g, "\'");
+          const readingPart = (item.reading && cleanSearchWord(item.reading) !== cleanSearchWord(item.term))
+            ? `<span class="modal-dict-card-reading">（${item.reading}）</span>`
+            : '';
+
+          const isSaved = isTermSavedInMylist(item.term);
+          const escapedMeaning = (item.meaning || '').replace(/'/g, "\'");
+          const escapedReading = (item.reading || '').replace(/'/g, "\'");
+          const mylistBtnHtml = `
+            <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this, '${escapedReading}', '${escapedMeaning}', '${item.level || 'JLPT文法'}')">
+              ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
+            </button>
+          `;
+
+          const badgeClass = item.levelClass ? `badge-${item.levelClass}` : '';
+          let lessonLinkHtml = '';
+          if (item.n2_id) {
+            const targetLessonName = item.n2_name || item.term;
+            lessonLinkHtml = `
+              <div style="margin-top:10px;">
+                <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${item.n2_id});">
+                  📖 文法テキスト「${targetLessonName}」の解説を見る →
+                </a>
+              </div>
+            `;
+          }
+
           cardsHtml += `
-            <div style="font-size:12.5px; font-weight:700; color:var(--point-navy); margin: 6px 0 10px 2px; display:flex; align-items:center; gap:6px;">
-              <span>💡「${cleanQ}」の基本形（辞書形）および関連語:</span>
+            <div class="modal-dict-card" style="border-left: 4px solid var(--sakura-pink-deep); margin-bottom:12px;">
+              <div class="modal-dict-card-header">
+                <div class="modal-dict-card-word">
+                  <span>${item.term}</span>
+                  ${readingPart}
+                  <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+                  <button class="modal-dict-copy-btn" onclick="copyDictText('${escapedTerm}')" title="表現をコピー">📋</button>
+                  ${item.matchType ? `<span style="font-size:10.5px; background:var(--sakura-pink-bg); color:var(--sakura-pink-deep); padding:2px 7px; border-radius:4px; font-weight:700;">${item.matchType}</span>` : ''}
+                </div>
+                <div style="display:flex;align-items:center;gap:6px;">
+                  ${mylistBtnHtml}
+                  <span class="modal-dict-card-badge ${badgeClass}">${item.level}</span>
+                </div>
+              </div>
+              <div class="modal-dict-card-meaning">${item.meaning}</div>
+              ${lessonLinkHtml}
             </div>
           `;
-        } else if (results.length > 1) {
+        });
+      }
+
+      // 2. Vocabulary Results from Standard Dictionary
+      if (vocabResults.length > 0) {
+        if (grammarResults.length > 0) {
           cardsHtml += `
-            <div style="font-size:12px; font-weight:600; color:var(--text-muted); margin: 4px 0 10px 2px;">
-              🔍「${cleanQ}」に関連する単語（${results.length}件）:
+            <div style="font-size:12px; font-weight:700; color:var(--point-navy); margin: 16px 0 10px 2px; display:flex; align-items:center; gap:6px; border-top: 1px dashed var(--sakura-pink-border); padding-top: 12px;">
+              <span>📖 単語辞書の検索結果（${vocabResults.length}件）:</span>
             </div>
           `;
+        } else {
+          const top = vocabResults[0];
+          if (top.matchType === '基本形（原形）') {
+            cardsHtml += `
+              <div style="font-size:12.5px; font-weight:700; color:var(--point-navy); margin: 6px 0 10px 2px; display:flex; align-items:center; gap:6px;">
+                <span>💡「${cleanQ}」の基本形（辞書形）および関連語:</span>
+              </div>
+            `;
+          } else if (vocabResults.length > 1) {
+            cardsHtml += `
+              <div style="font-size:12px; font-weight:600; color:var(--text-muted); margin: 4px 0 10px 2px;">
+                🔍「${cleanQ}」に関連する単語（${vocabResults.length}件）:
+              </div>
+            `;
+          }
         }
 
-        results.forEach((item) => {
+        vocabResults.forEach((item) => {
           const escapedTerm = item.term.replace(/'/g, "\'");
           const readingPart = (item.reading && item.reading !== item.term)
             ? `<span class="modal-dict-card-reading">（${item.reading}）</span>`
@@ -2848,8 +3018,10 @@
           }
 
           const isSaved = isTermSavedInMylist(item.term);
+          const escapedMeaning = (item.meaning || '').replace(/'/g, "\'");
+          const escapedReading = (item.reading || '').replace(/'/g, "\'");
           const mylistBtnHtml = `
-            <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
+            <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this, '${escapedReading}', '${escapedMeaning}', '${item.level || '常用語'}')">
               ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
             </button>
           `;
@@ -2861,6 +3033,7 @@
                   <span>${item.term}</span>
                   ${readingPart}
                   <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+                  <button class="modal-dict-copy-btn" onclick="copyDictText('${escapedTerm}')" title="単語をコピー">📋</button>
                   ${item.matchType ? `<span style="font-size:10.5px; background:var(--primary-blue-pale); color:var(--primary-blue-dark); padding:2px 7px; border-radius:4px; font-weight:700;">${item.matchType}</span>` : ''}
                 </div>
                 <div style="display:flex;align-items:center;gap:6px;">
@@ -2875,11 +3048,11 @@
         });
       }
 
-      if (results.length === 0 && !matchGrammar) {
+      if (grammarResults.length === 0 && vocabResults.length === 0) {
         modalDictResultContent.innerHTML = `
           <div style="padding:24px 16px; color:var(--text-muted); text-align:center;">
-            「${cleanQ}」に該当する単語が見つかりませんでした。<br>
-            <span style="font-size:12px; margin-top:6px; display:inline-block;">ひらがなや漢字の基本形で再度お試しください。</span>
+            「${cleanQ}」に該当する文法・単語が見つかりませんでした。<br>
+            <span style="font-size:12px; margin-top:6px; display:inline-block;">ひらがなや基本形、または漢字の一部で再度お試しください。</span>
           </div>
         `;
         return;
@@ -2927,7 +3100,7 @@
     }
 
     // Direct MyList Toggle
-    window.toggleDictCardMylist = function(term, btnElem) {
+    window.toggleDictCardMylist = function(term, btnElem, explicitReading = '', explicitMeaning = '', explicitLevel = '') {
       const clean = cleanSearchWord(term);
       const isSaved = isTermSavedInMylist(clean);
       let list = [];
@@ -2944,13 +3117,27 @@
         }
         showToast(`「${clean}」をマイリストから削除しました`);
       } else {
-        const itemData = searchDictionary(clean) || { term: clean, reading: clean, meaning: '登録単語' };
+        let word = term;
+        let reading = explicitReading || clean;
+        let meaning = explicitMeaning || '';
+        let level = explicitLevel || 'JLPT';
+
+        if (!explicitMeaning) {
+          const dictMatches = searchDictionary(clean);
+          if (dictMatches && dictMatches.length > 0) {
+            word = dictMatches[0].term;
+            reading = dictMatches[0].reading || word;
+            meaning = dictMatches[0].meaning || '';
+            level = dictMatches[0].level || level;
+          }
+        }
+
         list.push({
           id: 'dict_' + Date.now(),
-          word: itemData.term,
-          reading: itemData.reading || itemData.term,
-          meaning: itemData.meaning || '',
-          level: itemData.level || 'JLPT N2',
+          word: word,
+          reading: reading,
+          meaning: meaning,
+          level: level,
           addedAt: new Date().toISOString()
         });
         localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
@@ -2958,7 +3145,7 @@
           btnElem.className = 'modal-dict-mylist-btn saved';
           btnElem.textContent = '⭐ マイリスト保存済み';
         }
-        showToast(`「${clean}」をマイリストに保存しました！`);
+        showToast(`「${word}」をマイリストに保存しました！`);
       }
     };
 
