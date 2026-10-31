@@ -1,0 +1,1757 @@
+{
+  "1": {
+    "name": "あげく",
+    "reading": "ageku",
+    "meaning_en": "to end up; in the end; finally; after all~",
+    "similar": "末に、結果、とうとう、ついに、～たところ、挙句の果てに",
+    "sample_ruby": "3<ruby>時間<rt>じかん</rt></ruby>も<ruby>待た<rt>また</rt></ruby>されたあげく、<ruby>結局<rt>けっきょく</rt></ruby>、<ruby>試合<rt>しあい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>になった。",
+    "sample_en": "After waiting for 3 hours, the match ended up being postponed.",
+    "reading_hiragana": "あげく"
+  },
+  "2": {
+    "name": "あるいは",
+    "reading": "aruiwa",
+    "meaning_en": "or; either; maybe; perhaps; possibly~",
+    "similar": "または、もしくは、それとも、ないしは、あるいはまた、並びに",
+    "sample_ruby": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいは、メールで<ruby>送っ<rt>おくっ</rt></ruby>てください。",
+    "sample_en": "Please send it by tomorrow via fax or mail.",
+    "reading_hiragana": "あるいは"
+  },
+  "3": {
+    "name": "ばかり",
+    "reading": "bakari",
+    "meaning_en": "about, approximately~",
+    "similar": "くらい／ぐらい、ほど、およそ、約、ばかり、程度",
+    "sample_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は40<ruby>分<rt>ふん</rt></ruby>ばかりベッドに<ruby>横<rt>よこ</rt></ruby>になった。",
+    "sample_en": "She lay in bed for about 40 minutes.",
+    "reading_hiragana": "ばかり"
+  },
+  "4": {
+    "name": "ばかりだ",
+    "reading": "bakari da",
+    "meaning_en": "continue to (go in negative direction)",
+    "similar": "一方だ、～ていくばかりだ、傾向にある、進む一方だ、とどまる所を知らない",
+    "sample_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>なるばかりだ。",
+    "sample_en": "Actually, Their relationship just keeps getting worse.",
+    "reading_hiragana": "ばかりだ"
+  },
+  "5": {
+    "name": "ばかりか",
+    "reading": "bakari ka / bakarika",
+    "meaning_en": "not only.. but also; as well as~",
+    "similar": "だけでなく、のみならず、ばかりでなく、はおろか、上に、にとどまらず",
+    "sample_ruby": "そのマンションは<ruby>狭い<rt>せまい</rt></ruby>ばかりか、<ruby>暗い<rt>くらい</rt></ruby>です。",
+    "sample_en": "This apartment is not only very small, it's also quite dark.",
+    "reading_hiragana": "ばかりか"
+  },
+  "6": {
+    "name": "ばかりに",
+    "reading": "bakari ni",
+    "meaning_en": "simply because; on account of~ (negative",
+    "similar": "せいで、ために、からこそ、ゆえに、からといって、がために",
+    "sample_ruby": "お<ruby>金<rt>きん</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
+    "sample_en": "Actually, I wasn't able to go on this trip since I don't have any money.",
+    "reading_hiragana": "ばかりに"
+  },
+  "7": {
+    "name": "ちなみに",
+    "reading": "chinamini",
+    "meaning_en": "by the way; in this connection;",
+    "similar": "ところで、なお、ちなみに言えば、ついでに、話は変わるが、付言すると",
+    "sample_ruby": "これ、お<ruby>土産<rt>みやげ</rt></ruby>だよ。ちなみにタイで<ruby>買っ<rt>かっ</rt></ruby>たんだよ。",
+    "sample_en": "Here is a souvenir. I bought it in Thailand by the way.",
+    "reading_hiragana": "ちなみに"
+  },
+  "8": {
+    "name": "ちっとも〜ない",
+    "reading": "chitto mo~nai",
+    "meaning_en": "(not) at all; (not) in the least~",
+    "similar": "少しも～ない、全く～ない、さっぱり～ない、露ほども～ない、ちっとも～ぬ、まるで～ない",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>酒<rt>さけ</rt></ruby>はちっとも<ruby>飲ま<rt>のま</rt></ruby>ない。",
+    "sample_en": "Suzuki-san doesn't drink any alcohol at all.",
+    "reading_hiragana": "ちっとも〜ない"
+  },
+  "9": {
+    "name": "だけあって",
+    "reading": "dake atte",
+    "meaning_en": "being the case; precisely because; as",
+    "similar": "さすがに、だけのことはある、だけに、相応して、～だけの価値がある、名に恥じない",
+    "sample_ruby": "そのアパートは<ruby>駅<rt>えき</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>だけあって、やっぱり<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。",
+    "sample_en": "This apartment is close to the station, so as expected the rent is expensive.",
+    "reading_hiragana": "だけあって"
+  },
+  "10": {
+    "name": "だけましだ",
+    "reading": "dake mashi da",
+    "meaning_en": "it’s better than; one should feel",
+    "similar": "まだいい、まだしも、ましだ、～だけ救いだ、～よりはいい、ましなほうだ",
+    "sample_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby>が、<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高く<rt>たかく</rt></ruby>ないだけましだ。",
+    "sample_en": "Actually, It's hot today, but I'm glad the humidity is low.",
+    "reading_hiragana": "だけましだ"
+  },
+  "11": {
+    "name": "だけに",
+    "reading": "dake ni",
+    "meaning_en": "being the case; precisely because; as one would",
+    "similar": "だけあって、からこそ、だけに、それだけに、なおさら、ことさら",
+    "sample_ruby": "<ruby>駅<rt>えき</rt></ruby>が<ruby>近い<rt>ちかい</rt></ruby>だけに<ruby>家賃<rt>やちん</rt></ruby>も<ruby>高い<rt>たかい</rt></ruby>。",
+    "sample_en": "Actually, The station is nearby, which is also why the rent is so high.",
+    "reading_hiragana": "だけに"
+  },
+  "12": {
+    "name": "だけのことはある",
+    "reading": "dake no koto wa aru",
+    "meaning_en": "no wonder; as expected",
+    "similar": "だけあって、さすがに、甲斐がある、名に恥じない、見事なものだ、相応しい",
+    "sample_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>だ。カナダに<ruby>留学<rt>りゅうがく</rt></ruby>していただけのことはある。",
+    "sample_en": "Mr. Sato is good at English. As expected of someone who studied abroad in Canada.",
+    "reading_hiragana": "だけのことはある"
+  },
+  "13": {
+    "name": "だけは",
+    "reading": "dake wa",
+    "meaning_en": "to do all that one can",
+    "similar": "だけ～する、できる限り、精一杯、限度まで、力の限り、極力",
+    "sample_ruby": "できるだけ<ruby>速く<rt>はやく</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>たが、<ruby>惜しく<rt>おしく</rt></ruby>も<ruby>終電<rt>しゅうでん</rt></ruby>には<ruby>間に合わ<rt>まにあわ</rt></ruby>なかった。",
+    "sample_en": "I ran as fast as I could, but regrettably I missed the last train.",
+    "reading_hiragana": "だけは"
+  },
+  "14": {
+    "name": "だって",
+    "reading": "datte",
+    "meaning_en": "because; but; after all; even; too",
+    "similar": "だって、なぜなら、というのも、でも、だって～もん、だって～もの",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんだって<ruby>人間<rt>にんげん</rt></ruby>だ。",
+    "sample_en": "Suzuki-san is only human.",
+    "reading_hiragana": "だって"
+  },
+  "15": {
+    "name": "でしかない",
+    "reading": "de shika nai",
+    "meaning_en": "merely; nothing but; no more than; there",
+    "similar": "にすぎない、にほかならない、ただの～だ、だけでしかない、単なる～だ、～にとどまる",
+    "sample_ruby": "これらの<ruby>考え<rt>かんがえ</rt></ruby>は<ruby>推測<rt>すいそく</rt></ruby>でしかない。",
+    "sample_en": "Actually, This idea is nothing more than a guess.",
+    "reading_hiragana": "でしかない"
+  },
+  "16": {
+    "name": "どころではない",
+    "reading": "dokoro dewa nai",
+    "meaning_en": "not the time for; not the place",
+    "similar": "どころか、どころじゃない、わけにはいかない、それどころではない、場合ではない",
+    "sample_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>時々<rt>ときどき</rt></ruby>ミスをするが、<ruby>決して<rt>けっして</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>が<ruby>劣っ<rt>おとっ</rt></ruby>ているどころではない。",
+    "sample_en": "He occasionally makes mistakes, but he is far from being incompetent.",
+    "reading_hiragana": "どころではない"
+  },
+  "17": {
+    "name": "どころか",
+    "reading": "dokoro ka",
+    "meaning_en": "far from; anything but; let alone; not to",
+    "similar": "はおろか、どころではない、ばかりか、のみならず、ましてや、～どころの話ではない",
+    "sample_ruby": "もっと<ruby>勉強<rt>べんきょう</rt></ruby>しないと、N2どころかN3も<ruby>無理<rt>むり</rt></ruby>だ。",
+    "sample_en": "Actually, If you do not study more, you will not be able to pass N2, let alone N3.",
+    "reading_hiragana": "どころか"
+  },
+  "18": {
+    "name": "どうやら",
+    "reading": "dou yara",
+    "meaning_en": "possibly; apparently; seems like; somehow;",
+    "similar": "どうも、どうやら～らしい、なんとなく、おそらく、見たところ、察するに",
+    "sample_ruby": "どうやら<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>になりそうだ。",
+    "sample_en": "Actually, Apparently, it's going to rain tomorrow.",
+    "reading_hiragana": "どうやら"
+  },
+  "19": {
+    "name": "どうせ",
+    "reading": "douse",
+    "meaning_en": "anyhow; in any case; at any rate; after all; no matter",
+    "similar": "しょせん、どうせ～なら、いずれにせよ、どうせ～だろう、どのみち、結局は",
+    "sample_ruby": "どうせやるなら<ruby>上手<rt>じょうず</rt></ruby>にやれ。",
+    "sample_en": "Actually, If you're going to do it no matter what, do it well!",
+    "reading_hiragana": "どうせ"
+  },
+  "20": {
+    "name": "得ない",
+    "reading": "enai",
+    "meaning_en": "unable to; cannot; it is not possible to~",
+    "similar": "できない、わけがない、はずがない、かねる、不可能だ、ありえない",
+    "sample_ruby": "あの<ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>！？え〜！あり<ruby>得な<rt>えな</rt></ruby>いよ！",
+    "sample_en": "Actually, Is it true that he got married? No way! It's not possible!",
+    "reading_hiragana": "えない"
+  },
+  "21": {
+    "name": "得る",
+    "reading": "eru/uru",
+    "meaning_en": "can; to be able to; is possible to~",
+    "similar": "あり得る、できる、可能性がある、考えられる、起こり得る、～かねない",
+    "sample_ruby": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。",
+    "sample_en": "I believe in your story. I mean, anything is possible in that world.",
+    "reading_hiragana": "える / うる"
+  },
+  "22": {
+    "name": "再び",
+    "reading": "futatabi",
+    "meaning_en": "again; once more",
+    "similar": "もう一度、再度、また、重ねて、ふたたび、改めて",
+    "sample_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>より、<ruby>休止<rt>きゅうし</rt></ruby>していた<ruby>特別<rt>とくべつ</rt></ruby>レッスンを<ruby>再び<rt>ふたたび</rt></ruby><ruby>開始<rt>かいし</rt></ruby>いたします。",
+    "sample_en": "Starting next Monday, we will resume the special lessons that had been suspended.",
+    "reading_hiragana": "ふたたび"
+  },
+  "23": {
+    "name": "ふうに",
+    "reading": "fuu ni",
+    "meaning_en": "this way; that way; in such a way; how",
+    "similar": "このように、そのように、あのように、という風に、～みたいに、様態",
+    "sample_ruby": "こんなふうにやりなさい。",
+    "sample_en": "Actually, Please do it like this.",
+    "reading_hiragana": "ふうに"
+  },
+  "24": {
+    "name": "がきっかけで /をきっかけに",
+    "reading": "o kikkake ni",
+    "meaning_en": "with… as a start; as a result of; taking",
+    "similar": "を契機に、を機に、をきっかけとして、が契機となって、端緒として、発端として",
+    "sample_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけにそのつまらない<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>た。",
+    "sample_en": "Sato-san used her illness to quit that boring job.",
+    "reading_hiragana": "がきっかけで / をきっかけに"
+  },
+  "25": {
+    "name": "げ",
+    "reading": "ge",
+    "meaning_en": "looks like; seems like;",
+    "similar": "そうに、そうな様子で、気味に、～っぽく、いかにも～らしく、表情で",
+    "sample_ruby": "<ruby>何<rt>なに</rt></ruby>か、<ruby>言い<rt>いい</rt></ruby>たげだね。",
+    "sample_en": "Actually, They look like they want to say something.",
+    "reading_hiragana": "げ"
+  },
+  "26": {
+    "name": "逆に",
+    "reading": "gyaku ni",
+    "meaning_en": "conversely; on the contrary~",
+    "similar": "反対に、かえって、逆に言えば、裏腹に、あべこべに、対照的に",
+    "sample_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>好き<rt>すき</rt></ruby>だが、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>嫌い<rt>きらい</rt></ruby>だ。",
+    "sample_en": "My son likes sports, but on the other hand my son hates them.",
+    "reading_hiragana": "ぎゃくに"
+  },
+  "27": {
+    "name": "反面",
+    "reading": "hanmen",
+    "meaning_en": "while, although; on the other hand~",
+    "similar": "一方で、反して、その反面、裏腹に、他方では、対照的に",
+    "sample_ruby": "その<ruby>部屋<rt>へや</rt></ruby>は<ruby>日当たり<rt>ひあたり</rt></ruby>がいい<ruby>反面<rt>はんめん</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>はかなり<ruby>暑い<rt>あつい</rt></ruby>です。",
+    "sample_en": "This room has great light exposure, but on the other hand it is very hot in the summer.",
+    "reading_hiragana": "はんめん"
+  },
+  "28": {
+    "name": "果たして",
+    "reading": "hatashite",
+    "meaning_en": "as was expected; sure enough;",
+    "similar": "本当に、はたして、本当に～だろうか、案の定、思っていた通り、実際のところ",
+    "sample_ruby": "<ruby>果た<rt>はた</rt></ruby>してそうだろうか。",
+    "sample_en": "Actually, Can it really be so?",
+    "reading_hiragana": "はたして"
+  },
+  "29": {
+    "name": "一応",
+    "reading": "ichiou",
+    "meaning_en": "more or less; pretty much; roughly;",
+    "similar": "とりあえず、ひとまず、だいたいは、念のため、おおかた、仮に",
+    "sample_ruby": "<ruby>一応<rt>いちおう</rt></ruby>やりました。",
+    "sample_en": "Actually, I did it (but it may still need some work).",
+    "reading_hiragana": "いちおう"
+  },
+  "30": {
+    "name": "以外",
+    "reading": "igai",
+    "meaning_en": "with the exception of; excepting~",
+    "similar": "を除いて、のほかに、以外には、を抜きにして、を除けば、のほかは",
+    "sample_ruby": "<ruby>食事<rt>しょくじ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>には<ruby>何<rt>なに</rt></ruby>ができる？",
+    "sample_en": "Actually, Apart from eating, what else can we do?",
+    "reading_hiragana": "いがい"
+  },
+  "31": {
+    "name": "以上に",
+    "reading": "ijou ni",
+    "meaning_en": "more than; not less than; beyond~",
+    "similar": "を上回って、より以上に、超えて、にも増して、さらに、輪をかけて",
+    "sample_ruby": "<ruby>今<rt>いま</rt></ruby>まで<ruby>以上<rt>いじょう</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頑張り<rt>がんばり</rt></ruby>ます。",
+    "sample_en": "Actually, I will work even harder at work than I have until now.",
+    "reading_hiragana": "いじょうに"
+  },
+  "32": {
+    "name": "以上は",
+    "reading": "ijou wa",
+    "meaning_en": "because; since; seeing that~",
+    "similar": "からには、上は、以上、～責任がある、から、のだから",
+    "sample_ruby": "<ruby>約束<rt>やくそく</rt></ruby>した<ruby>以上<rt>いじょう</rt></ruby>、きちんと<ruby>守っ<rt>まもっ</rt></ruby>てくださいね。",
+    "sample_en": "Actually, You've made a promise, so be sure to keep it!",
+    "reading_hiragana": "いじょうは"
+  },
+  "33": {
+    "name": "いきなり",
+    "reading": "ikinari",
+    "meaning_en": "abruptly; suddenly; all of a",
+    "similar": "突然、急に、不意に、いきなり、唐突に、前触れもなく",
+    "sample_ruby": "いきなり<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれた。",
+    "sample_en": "Actually, A man suddenly asked me for directions.",
+    "reading_hiragana": "いきなり"
+  },
+  "34": {
+    "name": "一気に",
+    "reading": "ikki ni",
+    "meaning_en": "in one go; without stopping; all at",
+    "similar": "一息に、一気に、一気に～する、休まずに、一気に飲み干す、一挙に",
+    "sample_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>一気<rt>いっき</rt></ruby>に<ruby>飲み<rt>のみ</rt></ruby>ました。",
+    "sample_en": "Actually, I drank all of the tea at once.",
+    "reading_hiragana": "いっきに"
+  },
+  "35": {
+    "name": "一方で",
+    "reading": "ippou de",
+    "meaning_en": "on one hand, on the other hand;",
+    "similar": "他方で、反面、その一方で、同時に、裏では、対照的に",
+    "sample_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、お<ruby>父さん<rt>とうさん</rt></ruby>はこわい。",
+    "sample_en": "Actually, My mother is kind, but on the other hand my father is scary.",
+    "reading_hiragana": "いっぽうで"
+  },
+  "36": {
+    "name": "いわゆる",
+    "reading": "iwayuru",
+    "meaning_en": "what is called; as it is called; the so-called; so to",
+    "similar": "世間でいう、いわゆる、名ばかりの、いわば、俗にいう、例の",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいわゆる<ruby>語学<rt>ごがく</rt></ruby>の<ruby>天才<rt>てんさい</rt></ruby>だ。",
+    "sample_en": "Suzuki-san is what is called a genius in language.",
+    "reading_hiragana": "いわゆる"
+  },
+  "37": {
+    "name": "いよいよ",
+    "reading": "iyoiyo",
+    "meaning_en": "at last; finally; beyond doubt",
+    "similar": "とうとう、ついに、いよいよ、いざ、まもなく、間もなく",
+    "sample_ruby": "いよいよ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。",
+    "sample_en": "Actually, My university life has finally begun. Though it is my first time to be away from my parents so I am a little nervous.",
+    "reading_hiragana": "いよいよ"
+  },
+  "38": {
+    "name": "上",
+    "reading": "jou",
+    "meaning_en": "for the sake of; from the standpoint of; as a",
+    "similar": "の観点から、の立場から、～の上で、～の面で、～上は、都合上",
+    "sample_ruby": "<ruby>健康上<rt>けんこうじょう</rt></ruby>ではポテトフライや<ruby>揚げ物<rt>あげもの</rt></ruby>などは<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "sample_en": "Actually, For the sake of one's health, I think it's best to not eat french fries or other fried foods.",
+    "reading_hiragana": "じょう"
+  },
+  "39": {
+    "name": "かのように",
+    "reading": "ka no you ni",
+    "meaning_en": "",
+    "similar": "まるで～のように、あたかも～のごとく、～と言わんばかりに、そっくりに、～のように",
+    "sample_ruby": "<ruby>怖い<rt>こわい</rt></ruby>ものを<ruby>見た<rt>みた</rt></ruby>かのように、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>震え<rt>ふるえ</rt></ruby>た。",
+    "sample_en": "Sato-san was shaking as if Sato-san saw something scary.",
+    "reading_hiragana": "かのよう"
+  },
+  "40": {
+    "name": "かと思ったら",
+    "reading": "ka to omottara",
+    "meaning_en": "just when; no",
+    "similar": "かと思うと、かと思えば、～たとたんに、～や否や、～が早いか、～次第",
+    "sample_ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗く<rt>くらく</rt></ruby>なってきたかと<ruby>思う<rt>おもう</rt></ruby>と、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。",
+    "sample_en": "Actually, It started raining no sooner than when the sky suddenly turned dark.",
+    "reading_hiragana": "かとおもったら"
+  },
+  "41": {
+    "name": "か〜ないかのうちに",
+    "reading": "ka~nai ka no uchi ni",
+    "meaning_en": "just as; right after; as",
+    "similar": "～たとたんに、～や否や、～が早いか、～とすぐに、～そばから、～次第",
+    "sample_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るか<ruby>終わ<rt>おわ</rt></ruby>らないかのうちに<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>。",
+    "sample_en": "Suzuki-san left the classrom as soon as class ended.",
+    "reading_hiragana": "か〜ないかのうちに"
+  },
+  "42": {
+    "name": "かえって",
+    "reading": "kaette",
+    "meaning_en": "on the contrary; rather; all the more;",
+    "similar": "逆に、むしろ、それどころか、反対に、かえって～だ、あべこべに",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>手助け<rt>てだすけ</rt></ruby>どころかかえって<ruby>邪魔<rt>じゃま</rt></ruby>になった。",
+    "sample_en": "Suzuki-san was in no position to help, on the contrary Suzuki-san got in the way.",
+    "reading_hiragana": "かえって"
+  },
+  "43": {
+    "name": "限り",
+    "reading": "kagiri",
+    "meaning_en": "as long as; while… is the case; as far as;",
+    "similar": "間は、うちは、～である以上、～の範囲では、～の限りでは、～だけは",
+    "sample_ruby": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時<rt>とき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。",
+    "sample_en": "As long as it doesn't rain tomorrow, let's meet at the school at 11 am.",
+    "reading_hiragana": "かぎり"
+  },
+  "44": {
+    "name": "甲斐がある",
+    "reading": "kai ga aru",
+    "meaning_en": "it’s worth one’s efforts to do",
+    "similar": "甲斐あって、やりがい、価値がある、報われる、努力が実る、意味がある",
+    "sample_ruby": "<ruby>努力<rt>どりょく</rt></ruby>の<ruby>甲斐<rt>かい</rt></ruby>があって、<ruby>希望<rt>きぼう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。",
+    "sample_en": "Actually, It was worth working so hard. I got into my target university.",
+    "reading_hiragana": "かいがある"
+  },
+  "45": {
+    "name": "かねない",
+    "reading": "kanenai",
+    "meaning_en": "(someone) might do something; something",
+    "similar": "おそれがある、危険がある、かもしれない、～することもある、～の恐れがある",
+    "sample_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が⻑<ruby>期<rt>き</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。",
+    "sample_en": "If that problem gets any bigger, that company might go bankcrupt. Let's hurry and think of a counterplan.",
+    "reading_hiragana": "かねない"
+  },
+  "46": {
+    "name": "かねる",
+    "reading": "kaneru / kanemasu",
+    "meaning_en": "unable to do something;",
+    "similar": "することができない、いたしかねます、かねる、難しい、できかねる、お断りする",
+    "sample_ruby": "すぐにお<ruby>返事<rt>へんじ</rt></ruby>はできかねます。",
+    "sample_en": "Actually, I can not give you an immediate answer.",
+    "reading_hiragana": "かねる"
+  },
+  "47": {
+    "name": "から言うと",
+    "reading": "kara iu to",
+    "meaning_en": "in terms of; from the point",
+    "similar": "から見ると、からすれば、から判断すると、の観点から、から言えば、から言って",
+    "sample_ruby": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば、<ruby>国立大学<rt>こくりつだいがく</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
+    "sample_en": "Actually, With these grades, I don’t think I'm going to be able to get into a national university",
+    "reading_hiragana": "からいうと"
+  },
+  "48": {
+    "name": "からこそ",
+    "reading": "kara koso",
+    "meaning_en": "precisely because~",
+    "similar": "だからこそ、それだからこそ、まさに～のために、の理由でこそ、他でもなく",
+    "sample_ruby": "<ruby>朝早く<rt>あさはやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>たからこそ、<ruby>通勤<rt>つうきん</rt></ruby>ラッシュの<ruby>混雑<rt>こんざつ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れずに<ruby>済ん<rt>すん</rt></ruby>だのだ。",
+    "sample_en": "Precisely because I woke up early, I managed to avoid getting caught in the rush-hour crowd.",
+    "reading_hiragana": "からこそ"
+  },
+  "49": {
+    "name": "から見ると",
+    "reading": "kara miru to",
+    "meaning_en": "from the point of view",
+    "similar": "から言うと、からすると、から判断すると、の目から見れば、の視点から、から見れば",
+    "sample_ruby": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見ると<rt>みると</rt></ruby>、この<ruby>歴史的<rt>れきしてき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>は<ruby>一目<rt>ひとめ</rt></ruby>でわかるはずだ。",
+    "sample_en": "From the perspective of Takahashi-san, an architecture expert, the value of this historic building is evident.",
+    "reading_hiragana": "からみると"
+  },
+  "50": {
+    "name": "からには",
+    "reading": "kara niwa",
+    "meaning_en": "now that; since; so long as; because~",
+    "similar": "以上は、上は、のだから、からには、当然、以上",
+    "sample_ruby": "<ruby>約束<rt>やくそく</rt></ruby>したからにはあの<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。",
+    "sample_en": "Since you’ve made a promise, you must keep it.",
+    "reading_hiragana": "からには"
+  },
+  "51": {
+    "name": "からして",
+    "reading": "kara shite",
+    "meaning_en": "judging from; based on; since; from; even~",
+    "similar": "から見ても、をはじめとして、を見るだけでも、から判断して、から推測して",
+    "sample_ruby": "タイトルからして、<ruby>面白そ<rt>おもしろそ</rt></ruby>うな<ruby>本<rt>ほん</rt></ruby>ですね。",
+    "sample_en": "Actually, Judging from the title, this book sounds interesting.",
+    "reading_hiragana": "からして"
+  },
+  "52": {
+    "name": "からすると / からすれば",
+    "reading": "kara suru to / kara sureba",
+    "meaning_en": "judging from;",
+    "similar": "から見ると、から言うと、から判断すると、からすれば、の立場から見ると",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>症状<rt>しょうじょう</rt></ruby>からすると、<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>かもしれません。",
+    "sample_en": "Judging from his condition, it might be a heart illness.",
+    "reading_hiragana": "からすると / からすれば"
+  },
+  "53": {
+    "name": "からと言って",
+    "reading": "kara to itte",
+    "meaning_en": "just because; even if;",
+    "similar": "からといって、だからといって、それだけの理由で、～わけではない、～とは限らない",
+    "sample_ruby": "お<ruby>金<rt>きん</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
+    "sample_en": "Actually, It’s not good to spend too much just because you have a lot of money.",
+    "reading_hiragana": "からといって"
+  },
+  "54": {
+    "name": "っこない",
+    "reading": "kkonai",
+    "meaning_en": "no chance of; …is definitely not possible",
+    "similar": "はずがない、わけがない、絶対できない、できっこない、ありえない、可能性ゼロだ",
+    "sample_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。",
+    "sample_en": "There's no way I can buy a car! I don't even have enough money to buy a motorcycle..",
+    "reading_hiragana": "っこない"
+  },
+  "55": {
+    "name": "ことだ",
+    "reading": "koto da",
+    "meaning_en": "should do~ (used for suggestions or giving",
+    "similar": "べきだ、ほうがいい、することだ、するのが一番だ、お勧めする、～しなさい",
+    "sample_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>ぎみなら、<ruby>早く<rt>はやく</rt></ruby><ruby>寝る<rt>ねる</rt></ruby>ことですよ。",
+    "sample_en": "Actually, If you feel like you're catching a cold, you should go to bed early.",
+    "reading_hiragana": "ことだ"
+  },
+  "56": {
+    "name": "ことだから",
+    "reading": "koto dakara",
+    "meaning_en": "because; since~",
+    "similar": "のことだから、だから、ので、いつものことだから、～の性格上、当然～だろう",
+    "sample_ruby": "それは、<ruby>高橋<rt>たかはし</rt></ruby>さんにとって<ruby>重要な<rt>じゅうような</rt></ruby>ことだから<ruby>答え<rt>こたえ</rt></ruby>て。",
+    "sample_en": "It is very important for me, so please answer it.",
+    "reading_hiragana": "ことだから"
+  },
+  "57": {
+    "name": "ことか",
+    "reading": "koto ka",
+    "meaning_en": "how…!; what…!",
+    "similar": "なんと～ことか、どんなに～ことか、どれほど～ことか、非常に～だ、感嘆する",
+    "sample_ruby": "<ruby>何度<rt>なんど</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>したことか？",
+    "sample_en": "Actually, How many times have I warned you?",
+    "reading_hiragana": "ことか"
+  },
+  "58": {
+    "name": "ことなく",
+    "reading": "koto naku",
+    "meaning_en": "without doing something even once",
+    "similar": "しないで、せずに、ことなしに、一度も～せず、休むことなく、途切れずに",
+    "sample_ruby": "お<ruby>父さん<rt>とうさん</rt></ruby>は5<ruby>年間<rt>ねんかん</rt></ruby><ruby>休む<rt>やすむ</rt></ruby>ことなく<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>通っ<rt>かよっ</rt></ruby>た。",
+    "sample_en": "My father worked for 5 years without taking a break.",
+    "reading_hiragana": "ことなく"
+  },
+  "59": {
+    "name": "ことに",
+    "reading": "koto ni",
+    "meaning_en": "emphasize speaker’s feelings; to my (surprise/etc)",
+    "similar": "ことに、驚いたことに、嬉しいことに、残念なことに、～なことには、感無量だ",
+    "sample_ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby>ことに、<ruby>明日<rt>あした</rt></ruby><ruby>退院<rt>たいいん</rt></ruby>できるんです。",
+    "sample_en": "Actually, I'm happy that tomorrow I will be able to leave the hospital.",
+    "reading_hiragana": "ことに"
+  },
+  "60": {
+    "name": "ことにはならない",
+    "reading": "koto niwa naranai",
+    "meaning_en": "just because… doesn’t",
+    "similar": "わけではない、とは言えない、限らない、～からといって～とはならない",
+    "sample_ruby": "でも、どうやらそんなことにはならないようです。",
+    "sample_en": "Actually, But this did not seem likely to happen.",
+    "reading_hiragana": "ことにはならない"
+  },
+  "61": {
+    "name": "くせして",
+    "reading": "kuse shite",
+    "meaning_en": "although~; despite the fact that~; even",
+    "similar": "くせに、なのに、にもかかわらず、分際で、のくせに、不相応に",
+    "sample_ruby": "<ruby>大学生<rt>だいがくせい</rt></ruby>のくせして、そんなことも<ruby>知ら<rt>しら</rt></ruby>ないの。",
+    "sample_en": "Actually, Even though you are a university student, you don't know that?",
+    "reading_hiragana": "くせして"
+  },
+  "62": {
+    "name": "まだしも",
+    "reading": "nara madashimo",
+    "meaning_en": "rather; better ~",
+    "similar": "ならまだいい、のほうがましだ、まだ許せる、ましだ、まだしも、～なら救いだ",
+    "sample_ruby": "<ruby>一度<rt>いちど</rt></ruby>だけならまだしも、<ruby>二度<rt>にど</rt></ruby>も<ruby>失敗<rt>しっぱい</rt></ruby>してしまった。",
+    "sample_en": "Actually, It would be alright if I only messed up once, but I failed twice..",
+    "reading_hiragana": "まだしも"
+  },
+  "63": {
+    "name": "まい",
+    "reading": "mai",
+    "meaning_en": "will not; will probably not; intend not to; must not~",
+    "similar": "ないだろう、つもりはない、まい、～しまい、～しないでおこう、～しないはずだ",
+    "sample_ruby": "あんなところは<ruby>二度<rt>にど</rt></ruby>と<ruby>行く<rt>いく</rt></ruby>まい。",
+    "sample_en": "Actually, I'll never go to such a place again.",
+    "reading_hiragana": "まい"
+  },
+  "64": {
+    "name": "ままに",
+    "reading": "mama ni",
+    "meaning_en": "as, to do as~",
+    "similar": "通りに、がままに、されるがまま、心のままに、なすがまま、思うがまま",
+    "sample_ruby": "<ruby>今<rt>いま</rt></ruby>のままにしておこう。",
+    "sample_en": "Actually, Let's leave this as is.",
+    "reading_hiragana": "ままに"
+  },
+  "65": {
+    "name": "全く〜ない",
+    "reading": "mattaku~nai",
+    "meaning_en": "not at all~",
+    "similar": "ちっとも～ない、少しも～ない、全然～ない、さっぱり～ない、まるきり～ない",
+    "sample_ruby": "<ruby>全く<rt>まったく</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない。",
+    "sample_en": "Actually, I cannot write kanji at all.",
+    "reading_hiragana": "まったく〜ない"
+  },
+  "66": {
+    "name": "もかまわず",
+    "reading": "mo kamawazu",
+    "meaning_en": "without caring; without",
+    "similar": "も気にせず、をものともせず、無視して、構わずに、頓着せず、平気で",
+    "sample_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>服<rt>ふく</rt></ruby>が<ruby>汚れ<rt>よごれ</rt></ruby>るのもかまわず、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>犬<rt>いぬ</rt></ruby>と<ruby>遊んで<rt>あそんで</rt></ruby>いる。",
+    "sample_en": "Sato-san played in the park with her dog without worrying about her clothes getting dirty.",
+    "reading_hiragana": "もかまわず"
+  },
+  "67": {
+    "name": "も当然だ",
+    "reading": "mo touzen da",
+    "meaning_en": "it’s only natural; no",
+    "similar": "当たり前だ、のももっともだ、無理もない、当然だ、言うまでもない、相応だ",
+    "sample_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>だから、みんなが<ruby>好き<rt>すき</rt></ruby>になるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。",
+    "sample_en": "Sato-san is beautiful and kind, so it's only natural that everyone likes her.",
+    "reading_hiragana": "もとうぜんだ"
+  },
+  "68": {
+    "name": "もの / もん",
+    "reading": "mono",
+    "meaning_en": "because; indicates reason/ excuse/",
+    "similar": "からだ、のだもの、んだもん、わけだ、理由があって、～からだよ",
+    "sample_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきたんです。<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。",
+    "sample_en": "Actually, I came home early today because I don't feel well",
+    "reading_hiragana": "もの / もん"
+  },
+  "69": {
+    "name": "ものだ",
+    "reading": "mono da",
+    "meaning_en": "normally; in general; should~; must~",
+    "similar": "普通は～だ、べきだ、昔はよく～たものだ、ものだ、当然だ、常識だ",
+    "sample_ruby": "<ruby>人<rt>ひと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>間違い<rt>まちがい</rt></ruby>をするものだ。",
+    "sample_en": "Actually, Everybody makes mistakes.",
+    "reading_hiragana": "ものだ"
+  },
+  "70": {
+    "name": "ものだから",
+    "reading": "mono dakara",
+    "meaning_en": "so; therefore; the reason for something",
+    "similar": "もので、ものですから、もんだから、から、ので、言い訳をすると",
+    "sample_ruby": "<ruby>目覚ま<rt>めざま</rt></ruby>し<ruby>時計<rt>とけい</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たものだから、<ruby>遅刻<rt>ちこく</rt></ruby>してしまった。",
+    "sample_en": "Actually, My alarm clock broke, so I was late.",
+    "reading_hiragana": "ものだから"
+  },
+  "71": {
+    "name": "ものではない",
+    "reading": "mono dewa nai",
+    "meaning_en": "can either mean one shouldn’t do",
+    "similar": "べきではない、してはいけない、できるはずがない、ものじゃない、とんでもない",
+    "sample_ruby": "<ruby>何<rt>なに</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>るかわかったものではない。",
+    "sample_en": "Actually, There is no knowing what will happen.",
+    "reading_hiragana": "ものではない"
+  },
+  "72": {
+    "name": "ものがある",
+    "reading": "mono ga aru",
+    "meaning_en": "there is such a thing; to be the case that ;",
+    "similar": "と感じる、どこか～だ、ものがある、否定できない、印象を受ける、心惹かれる",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>話<rt>はなし</rt></ruby>にはどこか<ruby>納得<rt>なっとく</rt></ruby>できないものがある。",
+    "sample_en": "There’s something unconvincing about his story.",
+    "reading_hiragana": "ものがある"
+  },
+  "73": {
+    "name": "ものか / もんか",
+    "reading": "mono ka / mon ka",
+    "meaning_en": "as if (something untrue were",
+    "similar": "絶対に～ない、ものか、もんか、誰が～するか、ありえない、絶対嫌だ",
+    "sample_ruby": "あんな<ruby>所<rt>ところ</rt></ruby>へ<ruby>誰<rt>だれ</rt></ruby>が<ruby>行く<rt>いく</rt></ruby>ものか。",
+    "sample_en": "Actually, Who would think of going there?",
+    "reading_hiragana": "ものか / もんか"
+  },
+  "74": {
+    "name": "ものなら",
+    "reading": "mono nara",
+    "meaning_en": "if I/we could; if [A] is possible, then [B]; if",
+    "similar": "できるなら、もし可能なら、ものなら、やってみろ、万一～できるなら",
+    "sample_ruby": "やれるもんなら、やってみろ。",
+    "sample_en": "Actually, If you can do it, let's see you try.",
+    "reading_hiragana": "ものなら"
+  },
+  "75": {
+    "name": "ものの",
+    "reading": "monono",
+    "meaning_en": "but; although; even though~",
+    "similar": "けれども、だが、ものの、とはいうものの、にもかかわらず、そうはいっても",
+    "sample_ruby": "<ruby>秋<rt>あき</rt></ruby>であるものの、まだ<ruby>暑い<rt>あつい</rt></ruby>。",
+    "sample_en": "Actually, Although it's fall, it is still hot.",
+    "reading_hiragana": "ものの"
+  },
+  "76": {
+    "name": "もっとも",
+    "reading": "motto mo",
+    "meaning_en": "but then; although; though~",
+    "similar": "ただし、とはいえ、もっとも、そうは言っても、但し、ことわっておくが",
+    "sample_ruby": "<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>しなければなりません。もっとも<ruby>病気<rt>びょうき</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>です。",
+    "sample_en": "Actually, Everyone must participate, unless you are sick.",
+    "reading_hiragana": "もっとも"
+  },
+  "77": {
+    "name": "もう少しで",
+    "reading": "mou sukoshi de",
+    "meaning_en": "almost; nearly,",
+    "similar": "ところだった、危うく～しそうだった、もう少しで、寸前だった、間一髪だった",
+    "sample_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>であの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
+    "sample_en": "Actually, I almost drowned in that river.",
+    "reading_hiragana": "もうすこしで"
+  },
+  "78": {
+    "name": "ないではいられない",
+    "reading": "nai dewa irarenai",
+    "meaning_en": "can’t help but feel; can’t",
+    "similar": "ずにはいられない、どうしても～してしまう、思わず～してしまう、こらえきれない",
+    "sample_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>だから、<ruby>勉強<rt>べんきょう</rt></ruby>しないではいられない。",
+    "sample_en": "Actually, Because it's before the test, I can't help but to study.",
+    "reading_hiragana": "ないではいられない"
+  },
+  "79": {
+    "name": "ないことには〜ない",
+    "reading": "nai koto niwa~nai",
+    "meaning_en": "unless you~",
+    "similar": "なければ～ない、ないうちは、ない限りは、ないと～できない、～が先決だ",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>来ない<rt>こない</rt></ruby>ことには、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。",
+    "sample_en": "Unless Suzuki-san comes, we cannot start the meeting.",
+    "reading_hiragana": "ないことには〜ない"
+  },
+  "80": {
+    "name": "中を /中では",
+    "reading": "naka o/naka dewa",
+    "meaning_en": "in; on; in",
+    "similar": "の最中に、のなかで、の中を、にあって、のさなかに、激しい～の中で",
+    "sample_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をうろうろしていた。",
+    "sample_en": "Takahashi-san wandered around in the store.",
+    "reading_hiragana": "なかを / なかでは"
+  },
+  "81": {
+    "name": "なくはない",
+    "reading": "naku wa nai",
+    "meaning_en": "it’s not that; I may (double negative)",
+    "similar": "ないこともない、なくもない、少しは～する、可能性はある、否定はしない",
+    "sample_ruby": "<ruby>自信<rt>じしん</rt></ruby>がなくはないが、ただちょっと<ruby>緊張し<rt>きんちょうし</rt></ruby>ている。",
+    "sample_en": "Actually, It’s not that I have no confidence, I’m just a little nervous.",
+    "reading_hiragana": "なくはない"
+  },
+  "82": {
+    "name": "なくて済む",
+    "reading": "nakute sumu",
+    "meaning_en": "",
+    "similar": "ずに済む、ないですむ、しなくていい、行わずにすむ、免れる、助かる",
+    "sample_ruby": "<ruby>母<rt>はは</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>迎え<rt>むかえ</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>くれたので、<ruby>歩か<rt>あるか</rt></ruby>なくて<ruby>済み<rt>すみ</rt></ruby>ました。",
+    "sample_en": "Actually, My mother came to pick me up and so I didn't have to walk.",
+    "reading_hiragana": "なくてすむ"
+  },
+  "83": {
+    "name": "何も〜ない",
+    "reading": "nani mo~nai",
+    "meaning_en": "nothing; (not) ~ at all;",
+    "similar": "何も～ない、全く～ない、少しも～ない、何ひとつ～ない、別に～ない",
+    "sample_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>はなにもいらない。",
+    "sample_en": "We don't need anything.",
+    "reading_hiragana": "なにも〜ない"
+  },
+  "84": {
+    "name": "なお",
+    "reading": "nao",
+    "meaning_en": "still; yet ; furthermore; in addition~",
+    "similar": "さらに、また、なお、付け加えて、その上、付言すれば",
+    "sample_ruby": "かなり<ruby>多く<rt>おおく</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>なおそれを<ruby>信じ<rt>しんじ</rt></ruby>ている。",
+    "sample_en": "Actually, Many people still believe that.",
+    "reading_hiragana": "なお"
+  },
+  "85": {
+    "name": "ねばならない",
+    "reading": "neba naranai",
+    "meaning_en": "have to do; must; should~",
+    "similar": "なければならない、ねばならぬ、ざるを得ない、べきだ、必須だ、不可欠だ",
+    "sample_ruby": "⻭<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かねばならない。",
+    "sample_en": "Actually, I must go to the dentist.",
+    "reading_hiragana": "ねばならない"
+  },
+  "86": {
+    "name": "にあたって",
+    "reading": "ni atatte",
+    "meaning_en": "at the time; on the",
+    "similar": "に際して、にあたり、の時に、を迎えるにあたって、を行うにあたって",
+    "sample_ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>にあたって、<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>伝え<rt>つたえ</rt></ruby>ておきます。",
+    "sample_en": "Actually, Everyone, I will tell you an important thing for when you take the JLPT exam.",
+    "reading_hiragana": "にあたって"
+  },
+  "87": {
+    "name": "にほかならない",
+    "reading": "ni hoka naranai",
+    "meaning_en": "nothing but; none other than~",
+    "similar": "にすぎない、まさに～だ、以外のものではない、ほかならない、まさにそのものだ",
+    "sample_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>したのは、<ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>にほかならない。",
+    "sample_en": "Him being able to pass is nothing else but the result of his hard effort.",
+    "reading_hiragana": "にほかならない"
+  },
+  "88": {
+    "name": "に限らず",
+    "reading": "ni kagirazu",
+    "meaning_en": "not just; not only.. but also~",
+    "similar": "だけでなく、のみならず、ばかりでなく、はもとより、にとどまらず、をはじめ",
+    "sample_ruby": "<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>女性<rt>じょせい</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>男性<rt>だんせい</rt></ruby>も<ruby>化粧<rt>けしょう</rt></ruby>をする。",
+    "sample_en": "Actually, Lately, not only women but also men have been wearing makeup.",
+    "reading_hiragana": "にかぎらず"
+  },
+  "89": {
+    "name": "に限る",
+    "reading": "ni kagiru",
+    "meaning_en": "is best; nothing is better than~",
+    "similar": "が一番だ、に如くはない、が最善だ、に限る、～よりほかない、～が最高だ",
+    "sample_ruby": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>は、<ruby>熱い<rt>あつい</rt></ruby>うどんに<ruby>限る<rt>かぎる</rt></ruby>。",
+    "sample_en": "On a cold day, nothing beats a hot bowl of udon.",
+    "reading_hiragana": "にかぎる"
+  },
+  "90": {
+    "name": "に限って",
+    "reading": "ni kagitte",
+    "meaning_en": "only; in particular~",
+    "similar": "に限って、の時に限って、よりによって、特別に、例外的に、～だけは",
+    "sample_ruby": "うちのチームに<ruby>限って<rt>かぎって</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破る<rt>やぶる</rt></ruby>ようなことは<ruby>決して<rt>けっして</rt></ruby>しません。",
+    "sample_en": "Our team, of all people, would never break a promise.",
+    "reading_hiragana": "にかぎって"
+  },
+  "91": {
+    "name": "に関わらず",
+    "reading": "ni kakawarazu",
+    "meaning_en": "in spite of;",
+    "similar": "にもかかわらず、にかかわらず、に関係なく、を問わず、によらず、左右されず",
+    "sample_ruby": "そのバスは<ruby>距離<rt>きょり</rt></ruby>にかかわらず、どこまで<ruby>行って<rt>いって</rt></ruby>も200<ruby>円<rt>えん</rt></ruby>だ。",
+    "sample_en": "This bus costs 200 yen regardless of the distance you go.",
+    "reading_hiragana": "にかかわらず"
+  },
+  "92": {
+    "name": "に関わる",
+    "reading": "ni kakawaru",
+    "meaning_en": "to relate to; to have to do",
+    "similar": "に関係する、に影響する、にかかわる、重大な問題だ、命にかかわる、左右する",
+    "sample_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はマスコミに<ruby>関わ<rt>かかわ</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている。",
+    "sample_en": "Actually, My son works in a job related to mass communications.",
+    "reading_hiragana": "にかかわる"
+  },
+  "93": {
+    "name": "に決まっている",
+    "reading": "ni kimatte iru",
+    "meaning_en": "certainly; I’m",
+    "similar": "に違いない、はずだ、絶対に～だ、に決まっている、当然～だ、間違いなく～だ",
+    "sample_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したから、<ruby>絶対<rt>ぜったい</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>するに<ruby>決ま<rt>きま</rt></ruby>っている。",
+    "sample_en": "Actually, I've studied very hard every day so I am certain that I will pass the exam.",
+    "reading_hiragana": "にきまっている"
+  },
+  "94": {
+    "name": "に越したことはない",
+    "reading": "ni koshita koto wa nai",
+    "meaning_en": "",
+    "similar": "のが一番いい、に越したことはない、のが無難だ、より良い、望ましい",
+    "sample_ruby": "<ruby>万一<rt>まんいち</rt></ruby>の<ruby>事態<rt>じたい</rt></ruby>に<ruby>備え<rt>そなえ</rt></ruby>て、<ruby>防災<rt>ぼうさい</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>は<ruby>早め<rt>はやめ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>しておく、それに<ruby>越し<rt>こし</rt></ruby>たことはない。",
+    "sample_en": "Preparing emergency disaster supplies early just in case—nothing could be better than that.",
+    "reading_hiragana": "にこしたことはない"
+  },
+  "95": {
+    "name": "に応えて",
+    "reading": "ni kotaete",
+    "meaning_en": "in response to~",
+    "similar": "に応えて、に報いて、期待通りに、沿って、リクエストに応じて、応じる",
+    "sample_ruby": "<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>学生<rt>がくせい</rt></ruby>たちの<ruby>要望<rt>ようぼう</rt></ruby>にこたえて、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>利用時間<rt>りようじかん</rt></ruby>を<ruby>延ば<rt>のば</rt></ruby>した。",
+    "sample_en": "Actually, The university extended the library hours in response to student requests.",
+    "reading_hiragana": "にこたえて"
+  },
+  "96": {
+    "name": "に加えて",
+    "reading": "ni kuwaete",
+    "meaning_en": "in addition~",
+    "similar": "だけでなく、その上、に加えて、のみならず、さらに、プラスして",
+    "sample_ruby": "のどの<ruby>痛み<rt>いたみ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>きたので<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>しかない。",
+    "sample_en": "Actually, In addition to throat pain, I've started getting a fever and have no choice but to miss school.",
+    "reading_hiragana": "にくわえて"
+  },
+  "97": {
+    "name": "に基づいて",
+    "reading": "ni motozuite",
+    "meaning_en": "based on; on the basis",
+    "similar": "をもとに、に基づいて、に則して、に準拠して、を踏まえて、に依拠して",
+    "sample_ruby": "その<ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>実際<rt>じっさい</rt></ruby>にあったことに<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>書か<rt>かか</rt></ruby>れたそうです。",
+    "sample_en": "This novel is apparently written based on things that actually happened.",
+    "reading_hiragana": "にもとづいて"
+  },
+  "98": {
+    "name": "に向かって",
+    "reading": "ni mukatte",
+    "meaning_en": "",
+    "similar": "を目指して、に向かって、に向けて、へ向かって、対象として、目指して進む",
+    "sample_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言わ<rt>いわ</rt></ruby>ないでください。",
+    "sample_en": "Please don’t say rude things to your instructor.",
+    "reading_hiragana": "にむかって"
+  },
+  "99": {
+    "name": "に応じて",
+    "reading": "ni oujite",
+    "meaning_en": "depending on; in accordance",
+    "similar": "に合わせて、にしたがって、に応じて、に応じた、次第で、相応に",
+    "sample_ruby": "その<ruby>学校<rt>がっこう</rt></ruby>は<ruby>生徒<rt>せいと</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>のレベルに<ruby>応じ<rt>おうじ</rt></ruby>て、クラスを<ruby>分け<rt>わけ</rt></ruby>ます。",
+    "sample_en": "At that school students are divided up based on their Japanese ability level.",
+    "reading_hiragana": "におうじて"
+  },
+  "100": {
+    "name": "に際して",
+    "reading": "ni saishite",
+    "meaning_en": "on the occasion of; at the",
+    "similar": "にあたって、に際し、の機会に、のときに、を迎えるにあたり、に臨んで",
+    "sample_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>なければならない。",
+    "sample_en": "Actually, When you buy a new car, you must buy insurance.",
+    "reading_hiragana": "にさいして"
+  },
+  "101": {
+    "name": "に先立ち",
+    "reading": "ni sakidachi",
+    "meaning_en": "before; prior to~",
+    "similar": "に先立って、の前に、事前に、前もって、に先立ち、先駆けて",
+    "sample_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ておかなければならない。",
+    "sample_en": "Actually, Before the meeting, we must gather the resources.",
+    "reading_hiragana": "にさきだち"
+  },
+  "102": {
+    "name": "にせよ/ にしろ",
+    "reading": "ni seyo",
+    "meaning_en": "even if; regardless; whether…",
+    "similar": "にしても、にしろ、であれ、たとえ～でも、いずれにしても、どちらにせよ",
+    "sample_ruby": "<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がったにせよ、しばらく<ruby>安静<rt>あんせい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+    "sample_en": "Actually, Even if your fever has gone down, you still need to rest.",
+    "reading_hiragana": "にせよ / にしろ"
+  },
+  "103": {
+    "name": "にしろ〜にしろ",
+    "reading": "ni shiro~ni shiro",
+    "meaning_en": "whether… or~",
+    "similar": "にしても～にしても、であれ～であれ、にしろ～にしろ、だろうと～だろうと",
+    "sample_ruby": "<ruby>明日<rt>あした</rt></ruby>のパーティーに<ruby>行く<rt>いく</rt></ruby>にしろ<ruby>行<rt>い</rt></ruby>かないにしろ、<ruby>連絡<rt>れんらく</rt></ruby>してくださいね。",
+    "sample_en": "Actually, Whether you go to the party tomorrow or not, please contact me.",
+    "reading_hiragana": "にしろ〜にしろ"
+  },
+  "104": {
+    "name": "にしたら / にすれば",
+    "reading": "ni shitara",
+    "meaning_en": "from one’s perspective;",
+    "similar": "から見れば、の立場から言えば、にしたら、にしてみれば、にとっては",
+    "sample_ruby": "あなたにすれば<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にはそうでもないんですよ。",
+    "sample_en": "Actually, To you, this may be just a small issue, but that's not the same for other people.",
+    "reading_hiragana": "にしたら / にすれば"
+  },
+  "105": {
+    "name": "にしても〜にしても",
+    "reading": "ni shitemo~ni shitemo",
+    "meaning_en": "regardless of",
+    "similar": "にしても、たとえ～としても、にしろ、であっても、いくら～としても",
+    "sample_ruby": "<ruby>行く<rt>いく</rt></ruby>にしても<ruby>行<rt>い</rt></ruby>かないにしても、<ruby>早く<rt>はやく</rt></ruby><ruby>決め<rt>きめ</rt></ruby>てください。",
+    "sample_en": "Actually, Hurry up and decide whether you will go or not.",
+    "reading_hiragana": "にしても〜にしても"
+  },
+  "106": {
+    "name": "に沿って",
+    "reading": "ni sotte",
+    "meaning_en": "along with; in accordance with~",
+    "similar": "にしたがって、に沿って、に即して、通りに、方針に沿って、基準に合わせて",
+    "sample_ruby": "この<ruby>坂道<rt>さかみち</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby>バイクで<ruby>行け<rt>いけ</rt></ruby>ば、2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいで<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。",
+    "sample_en": "If you go along this mountain road by motorcycle, you will reach the peak in about 2 hours and a half.",
+    "reading_hiragana": "にそって"
+  },
+  "107": {
+    "name": "に相違ない",
+    "reading": "ni soui nai",
+    "meaning_en": "without a doubt; certain;",
+    "similar": "に違いない、に決まっている、はずだ、間違いなく、相違ない、確信している",
+    "sample_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていたアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>のは、<ruby>息子<rt>むすこ</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。",
+    "sample_en": "I'm certain it was my son who ate the ice cream I put in the freezer.",
+    "reading_hiragana": "にそういない"
+  },
+  "108": {
+    "name": "に過ぎない",
+    "reading": "ni suginai",
+    "meaning_en": "no more than; just; merely;",
+    "similar": "にすぎない、だけでしかない、単なる～だ、ただの～だ、にとどまる、過小評価",
+    "sample_ruby": "<ruby>単に<rt>たんに</rt></ruby><ruby>幸運<rt>こううん</rt></ruby>だったにすぎない。",
+    "sample_en": "Actually, That was just pure luck.",
+    "reading_hiragana": "にすぎない"
+  },
+  "109": {
+    "name": "に伴って",
+    "reading": "ni tomonatte",
+    "meaning_en": "as; due to; with; along",
+    "similar": "にしたがって、とともに、につれて、に伴い、に伴って、連動して",
+    "sample_ruby": "それに<ruby>伴っ<rt>ともなっ</rt></ruby>て<ruby>高橋<rt>たかはし</rt></ruby>さんたちの<ruby>予定<rt>よてい</rt></ruby>は<ruby>再度<rt>さいど</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれません。",
+    "sample_en": "Accordingly, our plans may change again.",
+    "reading_hiragana": "にともなって"
+  },
+  "110": {
+    "name": "につけ",
+    "reading": "ni tsuke",
+    "meaning_en": "every time; whenever; as; whether; in (either",
+    "similar": "たびに、につけて、につけても、見るたびに、～ごとに、につれ",
+    "sample_ruby": "あの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>につけ、<ruby>小学校<rt>しょうがっこう</rt></ruby>のころを<ruby>思い出す<rt>おもいだす</rt></ruby>。",
+    "sample_en": "Whenever I see that over there photo, I think back to my elementary school days.",
+    "reading_hiragana": "につけ"
+  },
+  "111": {
+    "name": "につき",
+    "reading": "ni tsuki",
+    "meaning_en": "due to; because of; per; each",
+    "similar": "のため、により、につき、あたり、ごとに、～という理由で",
+    "sample_ruby": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>とき</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。",
+    "sample_en": "Actually, The office will be closed until 2 o’clock due to the lunch break.",
+    "reading_hiragana": "につき"
+  },
+  "112": {
+    "name": "にわたって",
+    "reading": "ni watatte",
+    "meaning_en": "throughout; over a period",
+    "similar": "にわたり、を通じて、の長きにわたり、全体に及んで、広範囲に、全期間を通じて",
+    "sample_ruby": "<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>かず</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。",
+    "sample_en": "Actually, The road ran straight for several miles.",
+    "reading_hiragana": "にわたって"
+  },
+  "113": {
+    "name": "にも関わらず",
+    "reading": "nimo kakawarazu",
+    "meaning_en": "despite; in",
+    "similar": "にもかかわらず、のに、けれども、ものの、それにもかかわらず、くせに",
+    "sample_ruby": "<ruby>大学生<rt>だいがくせい</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>もいる。",
+    "sample_en": "Actually, Despite being university students, there are some people who cannot write basic kanji.",
+    "reading_hiragana": "にもかかわらず"
+  },
+  "114": {
+    "name": "にて",
+    "reading": "nite",
+    "meaning_en": "in, at, with, by (formal particle)",
+    "similar": "で、において、にて、場所で、手段として、公式の場で",
+    "sample_ruby": "<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>駅前<rt>えきまえ</rt></ruby>にて<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sample_en": "Actually, This event will be held in front of the station.",
+    "reading_hiragana": "にて"
+  },
+  "115": {
+    "name": "のももっともだ",
+    "reading": "no mo motto mo da",
+    "meaning_en": "no wonder; …is only natural",
+    "similar": "のも当然だ、当たり前だ、無理もない、もっともだ、うなずける、納得できる",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るのももっともだ。",
+    "sample_en": "Suzuki-san has every reason to quit his job.",
+    "reading_hiragana": "のももっともだ"
+  },
+  "116": {
+    "name": "の下で",
+    "reading": "no moto de",
+    "meaning_en": "under; with~",
+    "similar": "の指導のもとで、の下に、の庇護のもと、の支配下で、の条件のもと",
+    "sample_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するなら<ruby>英語<rt>えいご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>る<ruby>指導員<rt>しどういん</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>したいです。",
+    "sample_en": "If I am going to study Japanese, I want to study under a instructor who can speak English.",
+    "reading_hiragana": "のもとで"
+  },
+  "117": {
+    "name": "の上では",
+    "reading": "no ue de wa",
+    "meaning_en": "according to; from the",
+    "similar": "の点では、の基準では、計算上は、書類の上では、理論上は、形式上は",
+    "sample_ruby": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>鈴木<rt>すずき</rt></ruby>さんはまだ<ruby>学生<rt>がくせい</rt></ruby>だ。",
+    "sample_en": "According to the rules, Suzuki-san is still a student.",
+    "reading_hiragana": "のうえでは"
+  },
+  "118": {
+    "name": "のみならず",
+    "reading": "nominarazu",
+    "meaning_en": "not only; besides; as well as~",
+    "similar": "だけでなく、ばかりか、のみならず、はおろか、にとどまらず、上に",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>のみならず、スペイン<ruby>語<rt>ご</rt></ruby>も<ruby>話せ<rt>はなせ</rt></ruby>る。",
+    "sample_en": "Not only does Suzuki-san speak English, Suzuki-san speaks Spanish as well.",
+    "reading_hiragana": "のみならず"
+  },
+  "119": {
+    "name": "ぬ",
+    "reading": "nu",
+    "meaning_en": "negative verb conjugation; traditional version of ない",
+    "similar": "ない、ず、ぬ、～ない（古風・慣用）、～ざる、～ぬまま",
+    "sample_ruby": "<ruby>知ら<rt>しら</rt></ruby>ぬが<ruby>仏<rt>ほとけ</rt></ruby>。",
+    "sample_en": "Actually, Ignorance is bliss.",
+    "reading_hiragana": "ぬ"
+  },
+  "120": {
+    "name": "抜きにして / 抜きで",
+    "reading": "nuki de",
+    "meaning_en": "",
+    "similar": "なしで、抜きにして、を除いて、抜きで、を抜きに、を考慮せず",
+    "sample_ruby": "サンドイッチはマヨネーズ<ruby>抜き<rt>ぬき</rt></ruby>でお<ruby>願い<rt>ねがい</rt></ruby>します。",
+    "sample_en": "No mayonnaise on the sandwich please!",
+    "reading_hiragana": "ぬきにして / ぬきで"
+  },
+  "121": {
+    "name": "抜く",
+    "reading": "nuku",
+    "meaning_en": "to do something from beginning to end;",
+    "similar": "最後まで～する、やり抜く、生き抜く、完全に～する、徹底的に～する",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>何<rt>なに</rt></ruby>においても<ruby>頑張り<rt>がんばり</rt></ruby><ruby>抜く<rt>ぬく</rt></ruby>。",
+    "sample_en": "Suzuki-san tries to do his best in everything.",
+    "reading_hiragana": "ぬく"
+  },
+  "122": {
+    "name": "を契機に",
+    "reading": "o keiki ni",
+    "meaning_en": "",
+    "similar": "をきっかけに、を機に、を契機として、発端として、契機に、好機として",
+    "sample_ruby": "<ruby>入院<rt>にゅういん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に、<ruby>今後<rt>こんご</rt></ruby>はできるだけ<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思った<rt>おもった</rt></ruby>。",
+    "sample_en": "Actually, As a result of my hospitalization, I am thinking to work out as much as possible every day from now on.",
+    "reading_hiragana": "をけいきに"
+  },
+  "123": {
+    "name": "をめぐって",
+    "reading": "o megutte",
+    "meaning_en": "concerning; in regard to~",
+    "similar": "を巡って、に関して議論する、争って、めぐり、対象として、争点として",
+    "sample_ruby": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>をめぐって、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。",
+    "sample_en": "Concerning the father's leftover land, the fight among siblings continues.",
+    "reading_hiragana": "をめぐって"
+  },
+  "124": {
+    "name": "をもとに",
+    "reading": "o moto ni",
+    "meaning_en": "based on; derived from;",
+    "similar": "に基づいて、をもとにして、をベースに、から作られた、ヒントを得て",
+    "sample_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>をもとにしてクラス<ruby>分け<rt>わけ</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。",
+    "sample_en": "Actually, We’ll divide the class based on the test results.",
+    "reading_hiragana": "をもとに"
+  },
+  "125": {
+    "name": "を除いて",
+    "reading": "o nozoite",
+    "meaning_en": "except; with the exception of;",
+    "similar": "以外、を除いて、を省いて、を除けば、抜きにして、のほかは",
+    "sample_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>て<ruby>毎日<rt>まいにち</rt></ruby><ruby>働い<rt>はたらい</rt></ruby>ている。",
+    "sample_en": "He works every day except Saturdays.",
+    "reading_hiragana": "をのぞいて"
+  },
+  "126": {
+    "name": "を問わず",
+    "reading": "o towazu",
+    "meaning_en": "regardless of; irrespective of; no",
+    "similar": "に関係なく、を問わず、にかかわらず、によらず、無条件で、誰でも",
+    "sample_ruby": "その<ruby>公園<rt>こうえん</rt></ruby>では<ruby>季節<rt>きせつ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず<ruby>美しい<rt>うつくしい</rt></ruby><ruby>花<rt>はな</rt></ruby>が<ruby>見ら<rt>みら</rt></ruby>れます。",
+    "sample_en": "You can see beautiful flowers in that park regardless of the season.",
+    "reading_hiragana": "をとわず"
+  },
+  "127": {
+    "name": "お〜願う",
+    "reading": "o~negau",
+    "meaning_en": "please do; could you please…; I",
+    "similar": "てください、お願いいたします、お～願います、ご～願えますか、何卒",
+    "sample_ruby": "しばらくお<ruby>待ち<rt>まち</rt></ruby><ruby>願い<rt>ねがい</rt></ruby>ます。",
+    "sample_en": "Actually, Please wait a moment.",
+    "reading_hiragana": "お〜ねがう"
+  },
+  "128": {
+    "name": "おまけに",
+    "reading": "omake ni",
+    "meaning_en": "to make matters worse; besides;",
+    "similar": "その上、しかも、さらに、おまけに、それに加えて、なおかつ",
+    "sample_ruby": "<ruby>寒く<rt>さむく</rt></ruby>ておまけに<ruby>風<rt>かぜ</rt></ruby>も<ruby>強か<rt>つよか</rt></ruby>った。",
+    "sample_en": "Actually, It was cold, and to make matters worse, the wind was strong.",
+    "reading_hiragana": "おまけに"
+  },
+  "129": {
+    "name": "恐らく",
+    "reading": "osoraku",
+    "meaning_en": "perhaps; likely; probably; I dare",
+    "similar": "たぶん、おそらく、きっと、と思われる、十中八九、推測するに",
+    "sample_ruby": "これは<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>間違い<rt>まちがい</rt></ruby>です。",
+    "sample_en": "Actually, This is likely a mistake.",
+    "reading_hiragana": "おそらく"
+  },
+  "130": {
+    "name": "恐れがある",
+    "reading": "osore ga aru",
+    "meaning_en": "it is feared that; to be",
+    "similar": "危険がある、かねない、心配がある、おそれがある、リスクがある、懸念される",
+    "sample_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってからほとんど<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていない。そのまま<ruby>降ら<rt>ふら</rt></ruby>ないと、<ruby>水不足<rt>みずぶそく</rt></ruby>になる<ruby>恐れ<rt>おそれ</rt></ruby>がある。",
+    "sample_en": "It has barely rained since entering the rainy season. If things continue like that, there is worry of a water shortage.",
+    "reading_hiragana": "おそれがある"
+  },
+  "131": {
+    "name": "及び",
+    "reading": "oyobi",
+    "meaning_en": "and; as well as~",
+    "similar": "および、ならびに、また、と、かつ、並びに",
+    "sample_ruby": "ボールペン<ruby>及び<rt>および</rt></ruby><ruby>紙<rt>かみ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てきてください。",
+    "sample_en": "Please bring a pen and a Paper.",
+    "reading_hiragana": "および"
+  },
+  "132": {
+    "name": "ろくに〜ない",
+    "reading": "roku ni~nai",
+    "meaning_en": "not well; not enough;",
+    "similar": "まともに～ない、満足に～ない、ろくに～ない、ほとんど～ない、ちっとも～ない",
+    "sample_ruby": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はろくに<ruby>寝な<rt>ねな</rt></ruby>かった。",
+    "sample_en": "I did not sleep well the other night.",
+    "reading_hiragana": "ろくに〜ない"
+  },
+  "133": {
+    "name": "幸いなことに",
+    "reading": "saiwai",
+    "meaning_en": "",
+    "similar": "運よく、幸運にも、ありがたいことに、幸いなことに、助かったことに",
+    "sample_ruby": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>気づ<rt>きづ</rt></ruby>かなかった。",
+    "sample_en": "Luckily, Suzuki-san did not notice.",
+    "reading_hiragana": "さいわいなことに"
+  },
+  "134": {
+    "name": "せいか",
+    "reading": "sei ka",
+    "meaning_en": "perhaps because~",
+    "similar": "のせいか、原因かもしれない、ためか、せいだろうか、影響からか、気のせいか",
+    "sample_ruby": "たくさん<ruby>仕事<rt>しごと</rt></ruby>をしたせいか、<ruby>病気<rt>びょうき</rt></ruby>になってしまった。",
+    "sample_en": "Actually, I got sick perhaps because I worked too much",
+    "reading_hiragana": "せいか"
+  },
+  "135": {
+    "name": "せっかく",
+    "reading": "sekkaku",
+    "meaning_en": "especially; (thank you for) troubling",
+    "similar": "せっかく～のに、わざわざ、せっかくの機会だから、苦労して、丹精込めて",
+    "sample_ruby": "せっかく<ruby>勉強<rt>べんきょう</rt></ruby>したのに<ruby>合格<rt>ごうかく</rt></ruby>できなかった。",
+    "sample_en": "Actually, Even though I went through the effort of studying, I couldn't pass (the test).",
+    "reading_hiragana": "せっかく"
+  },
+  "136": {
+    "name": "せめて",
+    "reading": "semete",
+    "meaning_en": "at least; at most~",
+    "similar": "少なくとも、せめて、最低限、せめて～だけでも、これっぽっちでも",
+    "sample_ruby": "せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。",
+    "sample_en": "Actually, Can't you wait just ten more minutes?",
+    "reading_hiragana": "せめて"
+  },
+  "137": {
+    "name": "次第",
+    "reading": "shidai",
+    "meaning_en": "depending on; as soon as~",
+    "similar": "次第、～したらすぐ、～次第で、～次第に、完了次第、連絡次第",
+    "sample_ruby": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>ができ<ruby>次第<rt>しだい</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます。",
+    "sample_en": "Actually, Once the room preparations are complete, we will begin the meeting.",
+    "reading_hiragana": "しだい"
+  },
+  "138": {
+    "name": "次第で",
+    "reading": "shidai de",
+    "meaning_en": "depending on; so~",
+    "similar": "によって、次第で、により、に左右されて、如何で、結果次第で",
+    "sample_ruby": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君次<rt>きみじ</rt></ruby><ruby>第<rt>だい</rt></ruby>だ。",
+    "sample_en": "Actually, It is up to you whether we can succeed or not.",
+    "reading_hiragana": "しだいで"
+  },
+  "139": {
+    "name": "次第に",
+    "reading": "shidai ni",
+    "meaning_en": "gradually (progress into a state); in",
+    "similar": "だんだんと、徐々に、少しずつ、次第に、時間の経過とともに、段々と",
+    "sample_ruby": "<ruby>風<rt>かぜ</rt></ruby>は<ruby>次第<rt>しだい</rt></ruby>におさまった。",
+    "sample_en": "Actually, The wind gradually died down.",
+    "reading_hiragana": "しだいに"
+  },
+  "140": {
+    "name": "しかも",
+    "reading": "shikamo",
+    "meaning_en": "moreover; furthermore; and yet; what’s more~",
+    "similar": "その上、さらに、おまけに、しかも、それに、重ねて",
+    "sample_ruby": "その<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>はわかりやすくて、しかも<ruby>詳しい<rt>くわしい</rt></ruby>。",
+    "sample_en": "This textbook’s explanations are easy to understand and what’s more, they’re very detailed.",
+    "reading_hiragana": "しかも"
+  },
+  "141": {
+    "name": "その上",
+    "reading": "sono ue",
+    "meaning_en": "besides; in addition; furthermore~",
+    "similar": "さらに、加えて、その上、しかも、おまけに、そればかりか",
+    "sample_ruby": "その<ruby>上<rt>うえ</rt></ruby>、そのレストランは<ruby>高橋<rt>たかはし</rt></ruby>さんたちのホテルからとても<ruby>近い<rt>ちかい</rt></ruby>。",
+    "sample_en": "In addition, the restaurant is very near to our hotel.",
+    "reading_hiragana": "そのうえ"
+  },
+  "142": {
+    "name": "それなのに",
+    "reading": "sore na noni",
+    "meaning_en": "and yet; despite this; but even so~",
+    "similar": "なのに、それなのに、けれども、しかし、それにもかかわらず、にも拘らず",
+    "sample_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに<ruby>給料<rt>きゅうりょう</rt></ruby>がまだ<ruby>少ない<rt>すくない</rt></ruby>。",
+    "sample_en": "Actually, I work overtime everyday and even work on holidays. Despite that, my salary is still low.",
+    "reading_hiragana": "それなのに"
+  },
+  "143": {
+    "name": "それなら",
+    "reading": "sore nara",
+    "meaning_en": "if that’s the case; if so~",
+    "similar": "そうであるなら、それなら、それでは、その場合は、それでしたら、ならば",
+    "sample_ruby": "「<ruby>朝<rt>あさ</rt></ruby>から<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>て<ruby>熱<rt>ねつ</rt></ruby>があるんです。」「それなら、<ruby>無理<rt>むり</rt></ruby>をせず<ruby>早く<rt>はやく</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>なさい。」",
+    "sample_en": "'I have had a headache and fever since morning.' 'In that case, do not push yourself and go see a doctor soon.'",
+    "reading_hiragana": "それなら"
+  },
+  "144": {
+    "name": "それにしても",
+    "reading": "sore ni shitemo",
+    "meaning_en": "nevertheless; at any rate; even so;",
+    "similar": "それにしても、そうはいっても、とはいえ、それにしても～だ、いくら何でも",
+    "sample_ruby": "それにしてもあなたは<ruby>絵<rt>え</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ですね。",
+    "sample_en": "Actually, At any rate, I think you are great at drawing.",
+    "reading_hiragana": "それにしても"
+  },
+  "145": {
+    "name": "そう言えば",
+    "reading": "sou ieba",
+    "meaning_en": "come to think of it…; now",
+    "similar": "そう言えば、思い出したけれど、ところで、ついでに言うと、話に出たが",
+    "sample_ruby": "そういえば、<ruby>子供<rt>こども</rt></ruby>のころ、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にここに<ruby>来た<rt>きた</rt></ruby>ことを<ruby>覚え<rt>おぼえ</rt></ruby>ている。",
+    "sample_en": "Actually, Come to think of it, I remember coming here together with my parents during my childhood.",
+    "reading_hiragana": "そういえば"
+  },
+  "146": {
+    "name": "そうすると",
+    "reading": "sou suru to",
+    "meaning_en": "having done that; if that is done; if it is",
+    "similar": "そうすると、そうすれば、それによって、その結果、そうしたならば、すると",
+    "sample_ruby": "まだ<ruby>出発<rt>しゅっぱつ</rt></ruby>しないの？そうすると、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合わ<rt>まにあわ</rt></ruby>ないよ。",
+    "sample_en": "Actually, You haven't left yet? You're not going to make it on time now.",
+    "reading_hiragana": "そうすると"
+  },
+  "147": {
+    "name": "末に",
+    "reading": "sue ni",
+    "meaning_en": "finally; after; following; at the end/",
+    "similar": "あげく、結果、末に、長い時間ののち、最後に、ようやく",
+    "sample_ruby": "いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。",
+    "sample_en": "Actually, After worrying about various things, I decided to study abroad.",
+    "reading_hiragana": "すえに"
+  },
+  "148": {
+    "name": "少しも〜ない",
+    "reading": "sukoshi mo~nai",
+    "meaning_en": "not one bit;",
+    "similar": "ちっとも～ない、全く～ない、少しも～ない、さっぱり～ない、微塵も～ない",
+    "sample_ruby": "こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>でピクニックするなんて、<ruby>少し<rt>すこし</rt></ruby>も<ruby>楽しく<rt>たのしく</rt></ruby>ないよ。",
+    "sample_en": "Actually, Having a picnic in such hot weather isn't fun at all.",
+    "reading_hiragana": "すこしも〜ない"
+  },
+  "149": {
+    "name": "少なくとも",
+    "reading": "sukunaku tomo",
+    "meaning_en": "at least~",
+    "similar": "せめて、すくなくとも、最低でも、少なくとも、少なめに見積もっても",
+    "sample_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>少なくとも<rt>すくなくとも</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だ。",
+    "sample_en": "She is not less than 40 years.",
+    "reading_hiragana": "すくなくとも"
+  },
+  "150": {
+    "name": "直ちに",
+    "reading": "tadachi ni",
+    "meaning_en": "at once; immediately; directly; in",
+    "similar": "すぐに、直ちに、即座に、早急に、ただちに、一刻も早く",
+    "sample_ruby": "<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>容態<rt>ようたい</rt></ruby>が<ruby>急変<rt>きゅうへん</rt></ruby>したため、<ruby>医師<rt>いし</rt></ruby><ruby>団<rt>だん</rt></ruby>は<ruby>直ち<rt>ただち</rt></ruby>に<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>手術<rt>しゅじゅつ</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>した。",
+    "sample_en": "Because the patient's condition suddenly worsened, the medical team immediately began emergency surgery.",
+    "reading_hiragana": "ただちに"
+  },
+  "151": {
+    "name": "たまえ",
+    "reading": "tamae",
+    "meaning_en": "do~; order somebody to do something",
+    "similar": "なさい、たまえ、～してみなさい、～し給え、～するように（目下へ）",
+    "sample_ruby": "<ruby>遠慮<rt>えんりょ</rt></ruby>などせずに、どうぞこちらの<ruby>部屋<rt>へや</rt></ruby>にお<ruby>入り<rt>いり</rt></ruby>たまえ。",
+    "sample_en": "Without hesitating, please do enter this room.",
+    "reading_hiragana": "たまえ"
+  },
+  "152": {
+    "name": "てばかりはいられない",
+    "reading": "te bakari wa irarenai",
+    "meaning_en": "can’t keep doing~",
+    "similar": "てばかりはいられない、いつまでも～できない、このままではいられない",
+    "sample_ruby": "どんなに<ruby>辛く<rt>つらく</rt></ruby>ても、<ruby>泣い<rt>ない</rt></ruby>てばかりもいられない。",
+    "sample_en": "Actually, No matter how tough it gets, I can't keep crying like this.",
+    "reading_hiragana": "てばかりはいられない"
+  },
+  "153": {
+    "name": "てでも",
+    "reading": "te demo",
+    "meaning_en": "even if I have to; by all means~",
+    "similar": "無理をしてでも、てでも、どんな手段を使っても、何としても、意地でも",
+    "sample_ruby": "<ruby>何<rt>なん</rt></ruby>としてでも<ruby>痩せ<rt>やせ</rt></ruby>たい。",
+    "sample_en": "Actually, I'll do whatever it takes to lose weight.",
+    "reading_hiragana": "てでも"
+  },
+  "154": {
+    "name": "て以来",
+    "reading": "te irai",
+    "meaning_en": "since; henceforth~",
+    "similar": "てからずっと、て以来、それ以降、以後、～てこのかた、以降ずっと",
+    "sample_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。",
+    "sample_en": "Actually, I haven't eaten my mother's cooking since coming to Japan.",
+    "reading_hiragana": "ていらい"
+  },
+  "155": {
+    "name": "ていては",
+    "reading": "te ite wa",
+    "meaning_en": "if one keeps doing~",
+    "similar": "ていては、ていたら、このまま～し続けると、～していてはダメだ、～ては",
+    "sample_ruby": "そんなに<ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べて<rt>たべて</rt></ruby>いては、<ruby>太り<rt>ふとり</rt></ruby>ますよ。",
+    "sample_en": "Actually, If you only eat sweets, you will gain weight.",
+    "reading_hiragana": "ていては"
+  },
+  "156": {
+    "name": "てこそ",
+    "reading": "te koso",
+    "meaning_en": "now that; since (something happened)",
+    "similar": "てこそ、て初めて、てこそ価値がある、経験してこそ、からこそ",
+    "sample_ruby": "<ruby>親<rt>おや</rt></ruby>になってこそ、<ruby>親<rt>おや</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>や<ruby>気持ち<rt>きもち</rt></ruby>がわかるものだ。",
+    "sample_en": "Actually, Only after you become a parent can you understand the struggles and feelings of raising children.",
+    "reading_hiragana": "てこそ"
+  },
+  "157": {
+    "name": "てまで",
+    "reading": "te made",
+    "meaning_en": "even; will go far so as",
+    "similar": "てまで、までして、そこまでして、犠牲を払ってまで、無理をしてまで",
+    "sample_ruby": "<ruby>頭<rt>あたま</rt></ruby>を<ruby>下げ<rt>さげ</rt></ruby>てまで<ruby>金<rt>きん</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>たくない。",
+    "sample_en": "Actually, I wouldn't lower myself to borrow money.",
+    "reading_hiragana": "てまで"
+  },
+  "158": {
+    "name": "てならない",
+    "reading": "te naranai",
+    "meaning_en": "can’t help but; dying to; extremely~ ",
+    "similar": "てたまらない、てしょうがない、てならない、思えてならない、どうしても～だ",
+    "sample_ruby": "うちの<ruby>息子<rt>むすこ</rt></ruby>が<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>して、うれしくてならない。",
+    "sample_en": "Actually, I’m so glad that my son passed the university entrance exam.",
+    "reading_hiragana": "てならない"
+  },
+  "159": {
+    "name": "てたまらない",
+    "reading": "te tamaranai",
+    "meaning_en": "can’t help but; dying to; extremely~",
+    "similar": "てならない、てしょうがない、てたまらない、我慢できないほど、すごく～だ",
+    "sample_ruby": "あなたに<ruby>会い<rt>あい</rt></ruby>たくてたまらない。",
+    "sample_en": "Actually, I want to see you so bad...",
+    "reading_hiragana": "てたまらない"
+  },
+  "160": {
+    "name": "て当然だ",
+    "reading": "te touzen da",
+    "meaning_en": "natural; as a matter of",
+    "similar": "当たり前だ、て当然だ、無理もない、のももっともだ、当然至極だ",
+    "sample_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>遅く<rt>おそく</rt></ruby>まで<ruby>残業<rt>ざんぎょう</rt></ruby>しているから、<ruby>疲れ<rt>つかれ</rt></ruby>て<ruby>当然<rt>とうぜん</rt></ruby>だ。",
+    "sample_en": "Actually, You're working overtime late everyday, so it's only natural to be tired.",
+    "reading_hiragana": "てとうぜんだ"
+  },
+  "161": {
+    "name": "ては / では",
+    "reading": "tewa / dewa",
+    "meaning_en": "whenever; if; when~; repetitive action",
+    "similar": "ては、～すると、～したら、ては～ては、～するたびに、～の条件では",
+    "sample_ruby": "こんなに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ては、<ruby>買い物<rt>かいもの</rt></ruby>ができないな。",
+    "sample_en": "Actually, I can't go shopping if it keeps raining like this.",
+    "reading_hiragana": "ては / では"
+  },
+  "162": {
+    "name": "てはいられない",
+    "reading": "tewa irarenai",
+    "meaning_en": "can’t afford to; unable to~",
+    "similar": "てはいられない、てられない、場合じゃない、余裕がない、いられない",
+    "sample_ruby": "ぐずぐずしてはいられない。",
+    "sample_en": "Actually, We have no time to lose.",
+    "reading_hiragana": "てはいられない"
+  },
+  "163": {
+    "name": "てはならない",
+    "reading": "tewa naranai",
+    "meaning_en": "must not; cannot; should not~",
+    "similar": "てはいけない、てはならない、決して～するな、禁じられている、厳禁だ",
+    "sample_ruby": "<ruby>過去<rt>かこ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>てはならない。",
+    "sample_en": "Actually, We must never forget the past.",
+    "reading_hiragana": "てはならない"
+  },
+  "164": {
+    "name": "ては〜ては",
+    "reading": "tewa~tewa",
+    "meaning_en": "repetitive situations/actions",
+    "similar": "たり～たり、ては～ては、繰り返す、交互に、行ったり来たり",
+    "sample_ruby": "<ruby>立っ<rt>たっ</rt></ruby>ては<ruby>座り<rt>すわり</rt></ruby>、<ruby>座っ<rt>すわっ</rt></ruby>ては<ruby>立ち<rt>たち</rt></ruby>、<ruby>気分<rt>きぶん</rt></ruby>が<ruby>落ち着か<rt>おちつか</rt></ruby>ない。",
+    "sample_en": "Actually, I keep standing and sitting down again, and can't seem to settle down.",
+    "reading_hiragana": "ては〜ては"
+  },
+  "165": {
+    "name": "と同時に",
+    "reading": "to douji ni",
+    "meaning_en": "at the same time as; while;",
+    "similar": "とともに、と同時に、一方で、その瞬間に、並行して、同時に",
+    "sample_ruby": "<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>知らせ<rt>しらせ</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>た<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>驚く<rt>おどろく</rt></ruby>のと<ruby>同時<rt>どうじ</rt></ruby>に<ruby>嬉しさ<rt>うれしさ</rt></ruby>の<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流し<rt>ながし</rt></ruby>た。",
+    "sample_en": "The moment she received the pass notification, she shed tears of joy at the same time as being surprised.",
+    "reading_hiragana": "とどうじに"
+  },
+  "166": {
+    "name": "といった",
+    "reading": "to itta",
+    "meaning_en": "like; such as~",
+    "similar": "などの、といった、のような、例えば～など、をはじめとする",
+    "sample_ruby": "バスケットボール、サッカーといったスポーツは<ruby>大学生<rt>だいがくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "sample_en": "Actually, Sports such as basketball and soccer are popular with college students.",
+    "reading_hiragana": "といった"
+  },
+  "167": {
+    "name": "というふうに",
+    "reading": "to iu fuu ni",
+    "meaning_en": "in such a way that~",
+    "similar": "というように、という風に、そのように、こんな風に、～みたいに",
+    "sample_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信じ<rt>しんじ</rt></ruby>られないというふうに<ruby>頭<rt>あたま</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。",
+    "sample_en": "Sato-san shook her head in disbelief.",
+    "reading_hiragana": "というふうに"
+  },
+  "168": {
+    "name": "ということは",
+    "reading": "to iu koto wa",
+    "meaning_en": "that is to say; so",
+    "similar": "つまり、ということは、要するに、すなわち、わけだ、という意味だ",
+    "sample_ruby": "あなたが<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るということは<ruby>本当<rt>ほんとう</rt></ruby>ですか。",
+    "sample_en": "Is it true that you are quitting the workplace?",
+    "reading_hiragana": "ということは"
+  },
+  "169": {
+    "name": "というものだ",
+    "reading": "to iu mono da",
+    "meaning_en": "",
+    "similar": "というものだ、まさに～だ、これこそ～だ、一般に～というものだ",
+    "sample_ruby": "<ruby>旬<rt>じゅん</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚介<rt>ぎょかい</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>を<ruby>油<rt>あぶら</rt></ruby>で<ruby>揚げ<rt>あげ</rt></ruby>たものが、いわゆる「<ruby>天ぷら<rt>てんぷら</rt></ruby>」という<ruby>伝統<rt>でんとう</rt></ruby><ruby>日本料理<rt>にほんりょうり</rt></ruby>です。",
+    "sample_en": "Deep-frying fresh seasonal seafood and vegetables in oil is the traditional Japanese dish known as tempura.",
+    "reading_hiragana": "というものだ"
+  },
+  "170": {
+    "name": "というものではない",
+    "reading": "to iu mono dewa nai",
+    "meaning_en": "",
+    "similar": "とは限らない、というものではない、わけではない、必ずしも～ない",
+    "sample_ruby": "お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。",
+    "sample_en": "Actually, Just by having no money is no guarantee that you will be happy.",
+    "reading_hiragana": "というものではない"
+  },
+  "171": {
+    "name": "と考えられる",
+    "reading": "to kangaerareru",
+    "meaning_en": "one can",
+    "similar": "と思われる、と考えられる、推測される、見なされる、予想される",
+    "sample_ruby": "これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。",
+    "sample_en": "Actually, This is thought of to be this year's best movie.",
+    "reading_hiragana": "とかんがえられる"
+  },
+  "172": {
+    "name": "とか(で)",
+    "reading": "toka de",
+    "meaning_en": "I heard that~",
+    "similar": "そうだ、らしい、とか、と聞いている、噂によると、～とのことだ",
+    "sample_ruby": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>幼少期<rt>ようしょうき</rt></ruby>をアメリカで<ruby>過ご<rt>すご</rt></ruby>したとかで、<ruby>英語<rt>えいご</rt></ruby>の<ruby>発音<rt>はつおん</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>流暢<rt>りゅうちょう</rt></ruby>だ。",
+    "sample_en": "I heard that Tanaka spent his childhood in America, and his English pronunciation is exceptionally fluent.",
+    "reading_hiragana": "とか(で)"
+  },
+  "173": {
+    "name": "とっくに",
+    "reading": "tokku ni",
+    "meaning_en": "long ago; already; a long time ago",
+    "similar": "ずっと前に、とっくに、疾っくに、すでに、とうの昔に、時間前に",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはとっくに<ruby>帰り<rt>かえり</rt></ruby>ました。",
+    "sample_en": "Suzuki-san came home a long while ago.",
+    "reading_hiragana": "とっくに"
+  },
+  "174": {
+    "name": "ところだった",
+    "reading": "tokoro datta",
+    "meaning_en": "was just about to do something;",
+    "similar": "もう少しで～そうだった、ところだった、寸前だった、危うく～するところだった",
+    "sample_ruby": "<ruby>飛び出し<rt>とびだし</rt></ruby>てきたトラックに<ruby>衝突<rt>しょうとつ</rt></ruby>しそうになり、<ruby>危ない<rt>あぶない</rt></ruby>ところだった。",
+    "sample_en": "I was almost hit by a truck that dashed out; it was a close call.",
+    "reading_hiragana": "ところだった"
+  },
+  "175": {
+    "name": "ところに",
+    "reading": "tokoro ni",
+    "meaning_en": "at the time; just as I was~",
+    "similar": "ところに、ちょうど～の時に、ところへ、ところを、最中に、折よく",
+    "sample_ruby": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>ずにちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>激しい<rt>はげしい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
+    "sample_en": "Just as I was about to leave the house without an umbrella, it started raining heavily.",
+    "reading_hiragana": "ところに"
+  },
+  "176": {
+    "name": "ところを見ると",
+    "reading": "tokoro o miru to",
+    "meaning_en": "judging",
+    "similar": "から判断すると、ところを見ると、から見ると、様子から察すると、を見る限り",
+    "sample_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はうどんを<ruby>食べて<rt>たべて</rt></ruby>いるところを<ruby>見る<rt>みる</rt></ruby>と、ダイエットはやめたんだね。",
+    "sample_en": "Judjing from the fact that she's eating udon, she must have quit her diet.",
+    "reading_hiragana": "ところをみると"
+  },
+  "177": {
+    "name": "とも",
+    "reading": "tomo",
+    "meaning_en": "certainly; even if; no matter; although; without even;",
+    "similar": "たとえ～ても、とも、いかに～とも、どんなに～としても、構わない",
+    "sample_ruby": "「この<ruby>街<rt>まち</rt></ruby>の<ruby>再開発<rt>さいかいはつ</rt></ruby>プロジェクトに<ruby>賛成<rt>さんせい</rt></ruby>ですか？」「ええ、もちろんですとも。」",
+    "sample_en": "'Are you in favor of this city redevelopment project?' 'Yes, of course I am!'",
+    "reading_hiragana": "とも"
+  },
+  "178": {
+    "name": "としても",
+    "reading": "toshitemo",
+    "meaning_en": "assuming; even if~",
+    "similar": "たとえ～としても、仮に～だとしても、としても、にしても、としてもだ",
+    "sample_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>で<ruby>不合格<rt>ふごうかく</rt></ruby>になったとしても、<ruby>諦め<rt>あきらめ</rt></ruby>ずに<ruby>次回<rt>じかい</rt></ruby>も<ruby>受験<rt>じゅけん</rt></ruby>するつもりです。",
+    "sample_en": "Actually, Even if I were to fail the exam this time, I plan to not give up and take the exam again.",
+    "reading_hiragana": "としても"
+  },
+  "179": {
+    "name": "つつ",
+    "reading": "tsutsu",
+    "meaning_en": "while; even though; despite~",
+    "similar": "ながら、つつ、つつも、けれども、～しながらも、同時に",
+    "sample_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>時々<rt>ときどき</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>しつつ、<ruby>電話<rt>でんわ</rt></ruby>をする。",
+    "sample_en": "Suzuki-san sometimes talks on the phone while driving.",
+    "reading_hiragana": "つつ"
+  },
+  "180": {
+    "name": "つつある",
+    "reading": "tsutsu aru",
+    "meaning_en": "to be doing; to be in the process of doing~",
+    "similar": "つつある、進行している、徐々に～てきている、傾向にある、変化しつつある",
+    "sample_ruby": "スマホの<ruby>登場<rt>とうじょう</rt></ruby>で、デジタルカメラの<ruby>人気<rt>にんき</rt></ruby>がなくなりつつある。",
+    "sample_en": "Actually, Since the release of the smartphone, digital camera's have been losing popularity.",
+    "reading_hiragana": "つつある"
+  },
+  "181": {
+    "name": "上は",
+    "reading": "ue wa",
+    "meaning_en": "now that; since; as long as~",
+    "similar": "以上は、からには、上は、のだから、覚悟を決めた以上は",
+    "sample_ruby": "<ruby>約束<rt>やくそく</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>は、どんなことがあっても<ruby>守り<rt>まもり</rt></ruby>ます。",
+    "sample_en": "Actually, Since I’ve made a promise, I will keep it no matter what happens.",
+    "reading_hiragana": "うえは"
+  },
+  "182": {
+    "name": "はもとより",
+    "reading": "wa moto yori",
+    "meaning_en": "also; let alone; from the",
+    "similar": "はもちろん、はもとより、はおろか、のみならず、言うまでもなく",
+    "sample_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>はもとよりバイクもないんです。",
+    "sample_en": "I don't have a motorcycle, let alone a car.",
+    "reading_hiragana": "はもとより"
+  },
+  "183": {
+    "name": "はともかく",
+    "reading": "wa tomokaku",
+    "meaning_en": "anyhow; anyway; regardless; in any",
+    "similar": "は別として、はさておき、はともかく、は問題にせず、ひとまず置いて",
+    "sample_ruby": "<ruby>行く<rt>いく</rt></ruby>か<ruby>行<rt>い</rt></ruby>かないかはともかく、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。",
+    "sample_en": "Actually, Whether or not we are going, let's at least make the restaurant reservation.",
+    "reading_hiragana": "はともかく"
+  },
+  "184": {
+    "name": "わずかに",
+    "reading": "wazuka ni",
+    "meaning_en": "slightly; only; barely; narrowly~",
+    "similar": "すこしだけ、わずかに、ほんの、かろうじて、ぎりぎり、ごく少量",
+    "sample_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>がわずかに<ruby>遅れ<rt>おくれ</rt></ruby>ている。",
+    "sample_en": "The subway is running slightly late.",
+    "reading_hiragana": "わずかに"
+  },
+  "185": {
+    "name": "やがて",
+    "reading": "yagate",
+    "meaning_en": "before long; soon; almost; eventually~",
+    "similar": "そのうち、まもなく、やがて、時間が経てば、いずれ、次第に",
+    "sample_ruby": "やがて<ruby>真っ暗<rt>まっくら</rt></ruby>になった。",
+    "sample_en": "Actually, It soon became completely dark.",
+    "reading_hiragana": "やがて"
+  },
+  "186": {
+    "name": "やら〜やら",
+    "reading": "yara~yara",
+    "meaning_en": "such things as A and B; A and B and so",
+    "similar": "やら～やら、だの～だの、たり～たり、など、あれこれと",
+    "sample_ruby": "<ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>宿題<rt>しゅくだい</rt></ruby>やらアルバイトやらで<ruby>忙しい<rt>いそがしい</rt></ruby>。",
+    "sample_en": "Actually, University students are quite busy with things like homework and part time jobs.",
+    "reading_hiragana": "やら〜やら"
+  },
+  "187": {
+    "name": "よほど / よっぽど",
+    "reading": "yohodo / yoppodo",
+    "meaning_en": "very; greatly; much; to a",
+    "similar": "よほど、よっぽど、かなり、相当、並大抵ではなく、一段と",
+    "sample_ruby": "よほど<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。",
+    "sample_en": "Actually, It happened a long time ago.",
+    "reading_hiragana": "よほど / よっぽど"
+  },
+  "188": {
+    "name": "より [2]",
+    "reading": "yori",
+    "meaning_en": "from~ (a time, place, or person)",
+    "similar": "より、から、～を起点として、～以降、～の時点から",
+    "sample_ruby": "<ruby>本日<rt>ほんじつ</rt></ruby>より、<ruby>当館<rt>とうかん</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会を<rt>あを</rt></ruby><ruby>一般公開<rt>いっぱんこうかい</rt></ruby>いたします。",
+    "sample_en": "Starting today, our museum's special exhibition is open to the public.",
+    "reading_hiragana": "より"
+  },
+  "189": {
+    "name": "よりほかない",
+    "reading": "yori hoka nai",
+    "meaning_en": "to have no choice but~",
+    "similar": "しかない、ほかない、よりほかない、ざるを得ない、選択肢がない",
+    "sample_ruby": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>くん</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>るよりほかはない。",
+    "sample_en": "As for the leader of this crucial project, we have no choice but to entrust it to you, whom we trust most.",
+    "reading_hiragana": "よりほかない"
+  },
+  "190": {
+    "name": "ようでは",
+    "reading": "you dewa",
+    "meaning_en": "if~ (bad result)",
+    "similar": "ようでは、ようじゃ、このままでは、～していたら、悪い結果になる",
+    "sample_ruby": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からないようではN2には<ruby>合格<rt>ごうかく</rt></ruby>できないよ。",
+    "sample_en": "If you don't understand that problem, then you won't be able to pass the N2.",
+    "reading_hiragana": "ようでは"
+  },
+  "191": {
+    "name": "ようではないか",
+    "reading": "you dewa nai ka",
+    "meaning_en": "let’s do",
+    "similar": "ましょう、ようではないか、じゃないか、～しよう、呼びかける",
+    "sample_ruby": "<ruby>困っ<rt>こまっ</rt></ruby>た<ruby>時<rt>とき</rt></ruby>はお<ruby>互いに<rt>たがいに</rt></ruby><ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>ていこうではありませんか。",
+    "sample_en": "Actually, Let's help each other when we are in trouble.",
+    "reading_hiragana": "ようではないか"
+  },
+  "192": {
+    "name": "ようか〜まいか",
+    "reading": "you ka~mai ka",
+    "meaning_en": "whether or not; considering",
+    "similar": "ようか～まいか、するかしないか、迷う、思案する、どちらにしようか",
+    "sample_ruby": "<ruby>雨<rt>あめ</rt></ruby>だ。<ruby>買い物<rt>かいもの</rt></ruby>をしに<ruby>行こ<rt>いこ</rt></ruby>うか、<ruby>行く<rt>いく</rt></ruby>まいか。",
+    "sample_en": "Actually, It's raining.. Should I go to buy groceries or not?",
+    "reading_hiragana": "ようか〜まいか"
+  },
+  "193": {
+    "name": "要するに",
+    "reading": "you suru ni",
+    "meaning_en": "in short; in a word; to sum",
+    "similar": "つまり、要するに、手短に言えば、一言で言えば、結論として、要は",
+    "sample_ruby": "<ruby>様々な<rt>さまざまな</rt></ruby><ruby>意見<rt>いけん</rt></ruby>が<ruby>出さ<rt>ださ</rt></ruby>れたが、<ruby>要す<rt>ようす</rt></ruby>るに<ruby>時間<rt>じかん</rt></ruby>と<ruby>予算<rt>よさん</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しているという<ruby>結論<rt>けつろん</rt></ruby>に<ruby>達し<rt>たっし</rt></ruby>た。",
+    "sample_en": "Various opinions were voiced, but in short, we reached the conclusion that both time and budget are lacking.",
+    "reading_hiragana": "ようするに"
+  },
+  "194": {
+    "name": "ざるを得ない",
+    "reading": "zaru o enai",
+    "meaning_en": "cannot help (doing);",
+    "similar": "ざるを得ない、どうしても～しなければならない、やむを得ず～する、避けられない",
+    "sample_ruby": "<ruby>大型<rt>おおがた</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>直撃<rt>ちょくげき</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>があるため、<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>フェスティバルは<ruby>中止<rt>ちゅうし</rt></ruby>せざるを<ruby>得な<rt>えな</rt></ruby>い。",
+    "sample_en": "Because there is a risk of a direct hit from a massive typhoon, we have no choice but to cancel tomorrow's outdoor festival.",
+    "reading_hiragana": "ざるをえない"
+  },
+  "195": {
+    "name": "ずに済む",
+    "reading": "zu ni sumu",
+    "meaning_en": "get by without doing~",
+    "similar": "なくて済む、ないで済む、ずに済む、しなくてもよい、免れる、助かる",
+    "sample_ruby": "<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。",
+    "sample_en": "Actually, This year was cool and I got by without using my air conditioner.",
+    "reading_hiragana": "ずにすむ"
+  }
+}
