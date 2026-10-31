@@ -477,33 +477,7 @@ html_content = '''<!DOCTYPE html>
       flex: 1;
     }
 
-    .lesson-meta {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 8px;
-      flex-wrap: wrap;
-    }
 
-    .lesson-number-badge {
-      background: var(--primary-blue-pale);
-      color: var(--primary-blue-dark);
-      font-size: 11.5px;
-      font-weight: 800;
-      padding: 3px 9px;
-      border-radius: 6px;
-      border: 1px solid var(--primary-blue-border);
-    }
-
-    .unit-crumb-badge {
-      font-size: 11.5px;
-      font-weight: 700;
-      color: var(--sakura-pink-deep);
-      background: var(--sakura-pink-bg);
-      padding: 3px 9px;
-      border-radius: 6px;
-      border: 1px solid var(--sakura-pink-border);
-    }
 
     .grammar-title-wrap {
       display: flex;
@@ -1948,7 +1922,7 @@ html_content = '''<!DOCTYPE html>
           }
 
           item.innerHTML = `
-            <span>#${g.id} ${g.name}</span>
+            <span>${g.name}</span>
             <div class="grammar-item-badges">${badgesHtml}</div>
           `;
 
@@ -1999,10 +1973,6 @@ html_content = '''<!DOCTYPE html>
         <article class="lesson-card">
           <header class="lesson-header">
             <div class="lesson-header-left">
-              <div class="lesson-meta">
-                <span class="lesson-number-badge">文法 #${String(g.id).padStart(3, '0')}</span>
-                <span class="unit-crumb-badge">${unit.name}</span>
-              </div>
               <div class="grammar-title-wrap">
                 <h1 class="grammar-name">${g.name}</h1>
                 <span class="grammar-meaning-en">${g.meaning_en}</span>
