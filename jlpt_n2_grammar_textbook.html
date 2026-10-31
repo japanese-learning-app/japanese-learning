@@ -840,53 +840,61 @@
       line-height: 1.4;
     }
 
-    /* Similar Words Section (一番下の似た単語並べ) */
-    .similar-words-box {
+    /* Similar Box (語彙穴埋めマスター Image 4 完全準拠デザイン) */
+    .similar-box {
       background: #FFFFFF;
-      border: 1.5px solid var(--primary-blue-border);
+      border: 1.5px solid var(--sakura-pink-border);
       border-radius: 12px;
-      padding: 18px 20px;
-      box-shadow: 0 4px 16px rgba(25, 149, 173, 0.05);
+      padding: 12px 16px;
+      margin-top: 18px;
+      margin-bottom: 6px;
     }
 
-    .similar-words-lead {
-      font-size: 13.5px;
-      font-weight: 700;
-      color: var(--text-secondary);
-      margin-bottom: 12px;
-      display: block;
-    }
-
-    .similar-words-grid {
+    .similar-title {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: var(--sakura-pink-deep);
+      margin-bottom: 8px;
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-    }
-
-    .similar-word-pill {
-      background: var(--primary-blue-pale);
-      border: 1.5px solid var(--primary-blue-border);
-      color: var(--primary-blue-dark);
-      font-size: 14px;
-      font-weight: 700;
-      padding: 7px 16px;
-      border-radius: 20px;
-      cursor: pointer;
-      display: inline-flex;
       align-items: center;
       gap: 6px;
-      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-      font-family: inherit;
-      box-shadow: 0 2px 6px rgba(25, 149, 173, 0.06);
     }
 
-    .similar-word-pill:hover {
-      background: var(--primary-blue);
-      border-color: var(--primary-blue);
-      color: #FFFFFF;
-      transform: translateY(-2px);
-      box-shadow: 0 5px 14px rgba(25, 149, 173, 0.25);
+    .similar-items {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .similar-pill {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      color: var(--text-primary);
+      padding: 4px 11px;
+      border-radius: 16px;
+      font-size: 12.5px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      user-select: none;
+      font-family: inherit;
+    }
+
+    .similar-pill:hover {
+      background: var(--primary-blue-pale);
+      border-color: var(--primary-blue-light);
+      color: var(--primary-blue-dark);
+      transform: translateY(-1px);
+    }
+
+    .similar-pill .pill-reading {
+      font-size: 11.5px;
+      font-weight: 500;
+      color: var(--text-muted);
+      margin-left: 2px;
     }
 
     /* Examples List (ピンク被りをなくし、クリーンな白背景とスレート枠で文字を最も読みやすく) */
@@ -2110,6 +2118,14 @@
             <div id="lessonQuizzesContainer"></div>
           </section>
 
+          <!-- 似た単語・類似表現（タップで辞書検索＆保存）Image 4完全準拠デザイン -->
+          <div class="similar-box" id="lessonSimilarWordsSection">
+            <div class="similar-title">
+              <span>💡 似た単語・類似表現（タップで辞書検索＆保存）</span>
+            </div>
+            <div class="similar-items" id="lessonSimilarItems"></div>
+          </div>
+
           <!-- 7. Clean Dojo Link (濃いネイビー帯を完全撤廃し、すっきり上品なピンクボタン単体に改善) -->
           <div class="dojo-clean-container">
             <a href="jlpt_n2_grammar_quiz.html" class="dojo-cta-btn-clean">
@@ -2315,17 +2331,6 @@
                 </tr>
               </tbody>
             </table>
-            <div style="margin-top: 18px;">
-              <span class="similar-words-lead">💡 似たニュアンスを持つ表現や言い換え表現です（クリックで辞書検索）：</span>
-              <div class="similar-words-grid">
-                <button type="button" class="similar-word-pill" onclick="openDictModal('末に')">末に</button>
-                <button type="button" class="similar-word-pill" onclick="openDictModal('結果')">結果</button>
-                <button type="button" class="similar-word-pill" onclick="openDictModal('とうとう')">とうとう</button>
-                <button type="button" class="similar-word-pill" onclick="openDictModal('ついに')">ついに</button>
-                <button type="button" class="similar-word-pill" onclick="openDictModal('たところ')">～たところ</button>
-                <button type="button" class="similar-word-pill" onclick="openDictModal('挙句の果てに')">挙句の果てに</button>
-              </div>
-            </div>
           </div>
         `;
       } else {
@@ -2388,22 +2393,35 @@
           </div>
         `;
 
-        // 似た単語を一番下に並べる（クリックで辞書検索）
-        const similarWords = (g.similar || '').split(/[、,／/]+/).map(s => s.trim()).filter(Boolean);
-        const pillsHtml = similarWords.map(w => {
-          const cleanW = w.replace(/[〜～]/g, '').trim();
-          return `<button type="button" class="similar-word-pill" onclick="openDictModal('${cleanW || w}')">${w}</button>`;
-        }).join('');
+        compEl.innerHTML = '';
+        compEl.style.display = 'none';
+      }
 
-        compEl.innerHTML = `
-          <div class="section-tag">🔍 似た文法・関連表現 (Similar Words & Expressions)</div>
-          <div class="similar-words-box">
-            <span class="similar-words-lead">💡 似たニュアンスを持つ表現や言い換え表現です（クリックで辞書検索）：</span>
-            <div class="similar-words-grid">
-              ${pillsHtml || '<span style="color:var(--text-muted);font-size:13.5px;">文脈に応じた表現の使い分けに注意しましょう。</span>'}
-            </div>
-          </div>
-        `;
+      // Fill Similar Words below Mini Quiz (語彙穴埋めマスター Image 4 完全準拠デザイン)
+      const similarBox = document.getElementById('lessonSimilarWordsSection');
+      const similarItems = document.getElementById('lessonSimilarItems');
+      if (similarBox && similarItems) {
+        similarItems.innerHTML = '';
+        const rawSim = g.similar || (gid === 1 ? '末に、結果、とうとう、ついに、～たところ、挙句の果てに' : '');
+        const words = rawSim ? rawSim.split(/[、,／/]+/).map(s => s.trim()).filter(Boolean) : [];
+        if (words.length > 0) {
+          words.forEach(w => {
+            const clean = cleanSearchWord(w);
+            const dict = searchDictionary(clean);
+            const rPart = (dict && dict.reading && dict.reading !== dict.term)
+              ? `<span class="pill-reading">（${dict.reading}）</span>`
+              : '';
+            const pill = document.createElement('span');
+            pill.className = 'similar-pill';
+            pill.innerHTML = `🔍 ${w}${rPart}`;
+            pill.title = '内蔵辞書で検索＆マイリストに保存';
+            pill.onclick = () => openDictModal(clean || w);
+            similarItems.appendChild(pill);
+          });
+          similarBox.style.display = 'block';
+        } else {
+          similarBox.style.display = 'none';
+        }
       }
 
       // Fill Examples
@@ -2786,7 +2804,7 @@
             <div class="modal-dict-card-meaning">${matchGrammar.meaning_en}</div>
             <div style="margin-top:10px;">
               <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${matchGrammar.id});">
-                📖 文法テキスト「#${matchGrammar.id} ${matchGrammar.name}」の解説を見る →
+                📖 文法テキスト「${matchGrammar.name}」の解説を見る →
               </a>
             </div>
           </div>
