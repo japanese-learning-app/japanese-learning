@@ -1,0 +1,2666 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N2 文法マスターテキスト（教科書・解説）</title>
+  <style>
+    :root {
+      /* カラーパレット：メイン青 #1995AD × サクラピンク #FAF1F3 / #B8596E × ポイントネイビー #4D648D */
+      --primary-blue: #1995AD;
+      --primary-blue-dark: #127285;
+      --primary-blue-light: #43B0C4;
+      --primary-blue-pale: #EDF7F9;
+      --primary-blue-border: #A1D6E2;
+
+      --sakura-pink-bg: #FAF1F3;
+      --sakura-pink-soft: #FDF7F8;
+      --sakura-pink-accent: #E8A4B2;
+      --sakura-pink-deep: #B8596E;
+      --sakura-pink-hover: #CE5A73;
+      --sakura-pink-border: #F2D5DB;
+
+      --point-navy: #4D648D;
+      --point-ice: #D0E1F9;
+
+      --text-primary: #1F2D3D;
+      --text-secondary: #4D648D;
+      --text-muted: #6B7C8E;
+
+      --card-bg: #FFFFFF;
+      --card-border: #F2D5DB;
+      --card-shadow: 0 8px 24px rgba(25, 149, 173, 0.07);
+
+      --correct-green: #2E7D32;
+      --correct-bg: #E8F5E9;
+      --correct-border: #81C784;
+
+      --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      font-family: var(--app-font);
+      background-color: var(--sakura-pink-bg);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ルビタイポグラフィ制御 */
+    ruby {
+      ruby-position: over;
+      ruby-align: center;
+    }
+
+    ruby rt {
+      font-size: 0.54em;
+      color: var(--primary-blue-dark);
+      font-weight: 600;
+      user-select: none;
+      letter-spacing: 0;
+      line-height: 1;
+      transform: translateY(-2px);
+    }
+
+    body.hide-furigana ruby rt {
+      display: none !important;
+    }
+
+    /* Site Header */
+    .site-header {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 60%, var(--point-navy) 100%);
+      color: #FFFFFF;
+      padding: 12px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 4px 20px rgba(18, 114, 133, 0.22);
+    }
+
+    .header-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .brand-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-title {
+      font-size: 17px;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .badge-n2 {
+      background: var(--sakura-pink-deep);
+      color: #FFFFFF;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 6px;
+      letter-spacing: 0.05em;
+    }
+
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .header-btn {
+      background: rgba(255, 255, 255, 0.16);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 6px 12px;
+      border-radius: 8px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .header-btn:hover {
+      background: rgba(255, 255, 255, 0.28);
+    }
+
+    /* Furigana Toggle Pill */
+    .furigana-toggle {
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 20px;
+      padding: 2px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      user-select: none;
+    }
+
+    .toggle-label {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 14px;
+      transition: all 0.25s;
+    }
+
+    .toggle-label.active {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+    }
+
+    .toggle-label.inactive {
+      color: rgba(255, 255, 255, 0.75);
+    }
+
+    /* Mobile Sidebar Toggle Button */
+    .btn-mobile-sidebar {
+      display: none;
+      background: var(--sakura-pink-deep);
+      border: none;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    /* App Layout: 2 Columns (Sidebar + Content) */
+    .app-layout {
+      max-width: 1400px;
+      width: 100%;
+      margin: 0 auto;
+      display: flex;
+      flex: 1;
+      padding: 16px 20px;
+      gap: 24px;
+      position: relative;
+    }
+
+    /* Left Sidebar (Categories like Flashcards) */
+    .textbook-sidebar {
+      width: 320px;
+      flex-shrink: 0;
+      background: var(--card-bg);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 16px;
+      box-shadow: var(--card-shadow);
+      padding: 18px 16px;
+      height: calc(100vh - 100px);
+      position: sticky;
+      top: 80px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Search Bar */
+    .sidebar-search-box {
+      position: relative;
+      margin-bottom: 12px;
+    }
+
+    .sidebar-search-input {
+      width: 100%;
+      padding: 9px 12px 9px 34px;
+      border: 1.5px solid var(--point-ice);
+      border-radius: 10px;
+      font-size: 13px;
+      font-family: inherit;
+      outline: none;
+      background: #FFFFFF;
+      transition: border-color 0.2s;
+    }
+
+    .sidebar-search-input:focus {
+      border-color: var(--primary-blue);
+      box-shadow: 0 0 0 3px rgba(25, 149, 173, 0.15);
+    }
+
+    .sidebar-search-icon {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 14px;
+      pointer-events: none;
+    }
+
+    /* Filter Tabs & Progress */
+    .sidebar-filter-tabs {
+      display: flex;
+      gap: 4px;
+      background: var(--sakura-pink-bg);
+      padding: 3px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+    }
+
+    .sidebar-filter-btn {
+      flex: 1;
+      border: none;
+      background: transparent;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      padding: 6px 4px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+      font-family: inherit;
+    }
+
+    .sidebar-filter-btn.active {
+      background: #FFFFFF;
+      color: var(--sakura-pink-deep);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Progress Mini Bar */
+    .sidebar-progress-box {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 8px;
+      padding: 8px 10px;
+      margin-bottom: 12px;
+    }
+
+    .progress-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      margin-bottom: 4px;
+    }
+
+    .progress-bar-bg {
+      height: 6px;
+      background: #E2ECF2;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary-blue), var(--sakura-pink-deep));
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+
+    /* Category List Scroll Area */
+    .sidebar-cats-scroll {
+      flex: 1;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .sidebar-cats-scroll::-webkit-scrollbar {
+      width: 5px;
+    }
+    .sidebar-cats-scroll::-webkit-scrollbar-thumb {
+      background: var(--sakura-pink-border);
+      border-radius: 3px;
+    }
+
+    .cat-group-heading {
+      font-size: 11.5px;
+      font-weight: 800;
+      color: var(--text-muted);
+      margin: 14px 4px 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .cat-unit-card {
+      margin-bottom: 6px;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 10px;
+      overflow: hidden;
+      background: #FFFFFF;
+      transition: border-color 0.2s;
+    }
+
+    .cat-unit-card.active-unit {
+      border-color: var(--primary-blue);
+    }
+
+    .cat-unit-header {
+      padding: 10px 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      user-select: none;
+      background: #FFFFFF;
+      transition: background 0.15s;
+    }
+
+    .cat-unit-header:hover {
+      background: var(--sakura-pink-soft);
+    }
+
+    .cat-unit-title {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .cat-unit-count {
+      font-size: 11px;
+      font-weight: 800;
+      background: var(--sakura-pink-bg);
+      color: var(--sakura-pink-deep);
+      padding: 2px 7px;
+      border-radius: 10px;
+    }
+
+    .cat-grammar-list {
+      display: none;
+      background: var(--sakura-pink-soft);
+      border-top: 1px solid var(--sakura-pink-border);
+      padding: 4px 0;
+    }
+
+    .cat-unit-card.expanded .cat-grammar-list {
+      display: block;
+    }
+
+    .cat-grammar-item {
+      padding: 8px 12px 8px 24px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: all 0.15s;
+    }
+
+    .cat-grammar-item:hover {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      padding-left: 28px;
+    }
+
+    .cat-grammar-item.active {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-weight: 800;
+      border-left: 4px solid var(--primary-blue);
+    }
+
+    .grammar-item-badges {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11px;
+    }
+
+    .badge-mastered-icon {
+      color: var(--correct-green);
+    }
+
+    .badge-star-icon {
+      color: #D97706;
+    }
+
+    /* Right Main Content Area */
+    .textbook-main {
+      flex: 1;
+      min-width: 0;
+      padding-bottom: 60px;
+    }
+
+    /* Lesson Entry Card */
+    .lesson-card {
+      background: var(--card-bg);
+      border-radius: 16px;
+      border: 1px solid var(--sakura-pink-border);
+      box-shadow: var(--card-shadow);
+      padding: 30px;
+      margin-bottom: 24px;
+    }
+
+    .lesson-header {
+      border-bottom: 2px solid var(--sakura-pink-bg);
+      padding-bottom: 16px;
+      margin-bottom: 22px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .lesson-header-left {
+      flex: 1;
+    }
+
+    .lesson-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+
+    .lesson-number-badge {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-size: 11.5px;
+      font-weight: 800;
+      padding: 3px 9px;
+      border-radius: 6px;
+      border: 1px solid var(--primary-blue-border);
+    }
+
+    .unit-crumb-badge {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--sakura-pink-deep);
+      background: var(--sakura-pink-bg);
+      padding: 3px 9px;
+      border-radius: 6px;
+      border: 1px solid var(--sakura-pink-border);
+    }
+
+    .grammar-title-wrap {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .grammar-name {
+      font-size: 26px;
+      font-weight: 900;
+      color: var(--text-primary);
+      letter-spacing: -0.01em;
+    }
+
+    .grammar-meaning-en {
+      font-size: 14.5px;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    /* Action Buttons in Header (Bookmark & Mastered) */
+    .lesson-header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .action-pill-btn {
+      background: #FFFFFF;
+      border: 1.5px solid var(--sakura-pink-border);
+      padding: 7px 14px;
+      border-radius: 10px;
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .action-pill-btn:hover {
+      background: var(--sakura-pink-soft);
+      border-color: var(--sakura-pink-deep);
+      color: var(--sakura-pink-deep);
+    }
+
+    .action-pill-btn.bookmarked {
+      background: #FFFBEB;
+      border-color: #FCD34D;
+      color: #B45309;
+    }
+
+    .action-pill-btn.mastered {
+      background: var(--correct-bg);
+      border-color: var(--correct-border);
+      color: var(--correct-green);
+    }
+
+    /* Section Tag */
+    .section-block {
+      margin-bottom: 24px;
+    }
+
+    .section-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12.5px;
+      font-weight: 800;
+      color: var(--primary-blue-dark);
+      background: var(--primary-blue-pale);
+      border: 1px solid var(--primary-blue-border);
+      padding: 4px 11px;
+      border-radius: 6px;
+      margin-bottom: 12px;
+    }
+
+    .section-tag.pink {
+      color: var(--sakura-pink-deep);
+      background: var(--sakura-pink-bg);
+      border-color: var(--sakura-pink-border);
+    }
+
+    /* Connection Box */
+    .connection-box {
+      background: var(--sakura-pink-soft);
+      border-left: 4px solid var(--primary-blue);
+      padding: 16px 18px;
+      border-radius: 0 12px 12px 0;
+      font-size: 14px;
+      border-top: 1px solid var(--sakura-pink-border);
+      border-right: 1px solid var(--sakura-pink-border);
+      border-bottom: 1px solid var(--sakura-pink-border);
+    }
+
+    .connection-formula {
+      font-weight: 800;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+      line-height: 1.8;
+      font-size: 15px;
+    }
+
+    .connection-notes {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+
+    /* Bilingual Callout Cards (Core Nuance & English Pitfalls) */
+    .bilingual-card {
+      border-radius: 14px;
+      padding: 20px 22px;
+      margin-bottom: 22px;
+    }
+
+    .bilingual-card.nuance {
+      background: var(--primary-blue-pale);
+      border: 1px solid var(--primary-blue-border);
+    }
+
+    .bilingual-card.trap {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+    }
+
+    .bilingual-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 15px;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+
+    .bilingual-card.nuance .bilingual-header {
+      color: var(--primary-blue-dark);
+    }
+
+    .bilingual-card.trap .bilingual-header {
+      color: var(--sakura-pink-deep);
+    }
+
+    .content-ja {
+      font-size: 14.5px;
+      font-weight: 500;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+      line-height: 1.8;
+    }
+
+    .content-en {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      line-height: 1.65;
+      padding-top: 12px;
+      border-top: 1px dashed rgba(25, 149, 173, 0.25);
+    }
+
+    .bilingual-card.trap .content-en {
+      border-top-color: rgba(184, 89, 110, 0.25);
+    }
+
+    /* Contrast Cards (改行崩れ・窮屈さを完全解消した独立カード構造) */
+    .contrast-cards-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    .contrast-card {
+      background: #FFFFFF;
+      border-radius: 12px;
+      padding: 14px 18px;
+      border: 1px solid var(--sakura-pink-border);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+    }
+
+    .contrast-card.wrong {
+      border-left: 4px solid var(--sakura-pink-deep);
+      background: #FFFBFB;
+    }
+
+    .contrast-card.correct {
+      border-left: 4px solid var(--primary-blue);
+      background: #FDFEFE;
+    }
+
+    .contrast-card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+
+    .contrast-pill {
+      font-size: 11.5px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 6px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .contrast-pill.wrong {
+      background: #FAF1F3;
+      color: var(--sakura-pink-deep);
+      border: 1px solid var(--sakura-pink-border);
+    }
+
+    .contrast-pill.correct {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      border: 1px solid var(--primary-blue-border);
+    }
+
+    .contrast-reason-chip {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--sakura-pink-deep);
+    }
+
+    .contrast-reason-chip.success {
+      color: var(--primary-blue-dark);
+    }
+
+    .contrast-sentence {
+      font-size: 15.5px;
+      font-weight: 700;
+      color: var(--text-primary);
+      line-height: 2.2;
+      margin-bottom: 6px;
+    }
+
+    .contrast-sentence strong {
+      color: var(--primary-blue);
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
+
+    .contrast-card.wrong .contrast-sentence strong {
+      color: var(--sakura-pink-deep);
+    }
+
+    .contrast-en-note {
+      font-size: 12.5px;
+      color: var(--text-muted);
+      line-height: 1.55;
+      padding-top: 6px;
+      border-top: 1px dashed var(--sakura-pink-border);
+    }
+
+    /* Comparison Table (サクラピンク×シアン) */
+    .comparison-table-wrap {
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border-radius: 12px;
+      border: 1px solid var(--sakura-pink-border);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+      background: #FFFFFF;
+    }
+
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+      background: #FFFFFF;
+      min-width: 620px;
+    }
+
+    .comparison-table th {
+      background: var(--sakura-pink-bg);
+      color: var(--point-navy);
+      font-weight: 800;
+      text-align: left;
+      padding: 12px 14px;
+      border-bottom: 2px solid var(--sakura-pink-border);
+    }
+
+    .comparison-table td {
+      padding: 14px;
+      border-bottom: 1px solid var(--sakura-pink-bg);
+      vertical-align: top;
+      line-height: 1.9;
+    }
+
+    .comparison-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .badge-result-bad {
+      background: #FAF1F3;
+      color: var(--sakura-pink-deep);
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid var(--sakura-pink-border);
+      white-space: nowrap;
+    }
+
+    .badge-result-both {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid var(--primary-blue-border);
+      white-space: nowrap;
+    }
+
+    .badge-result-neutral {
+      background: #EEF4FC;
+      color: var(--point-navy);
+      font-weight: 800;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 4px;
+      border: 1px solid var(--point-ice);
+      white-space: nowrap;
+    }
+
+    .table-sub-en {
+      font-size: 11.5px;
+      color: var(--text-muted);
+      margin-top: 3px;
+      line-height: 1.4;
+    }
+
+    /* Examples List */
+    .examples-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .example-item-card {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 12px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      transition: background 0.15s;
+    }
+
+    .example-item-card:hover {
+      background: #FFFFFF;
+      border-color: var(--primary-blue-border);
+    }
+
+    .example-tts-btn {
+      background: var(--primary-blue-pale);
+      border: 1px solid var(--primary-blue-border);
+      color: var(--primary-blue-dark);
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      flex-shrink: 0;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .example-tts-btn:hover {
+      background: var(--primary-blue);
+      color: #FFFFFF;
+      border-color: var(--primary-blue);
+      transform: scale(1.05);
+    }
+
+    .example-content {
+      flex: 1;
+    }
+
+    .example-ja {
+      font-size: 15.5px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+      line-height: 2.2;
+    }
+
+    .example-en {
+      font-size: 12.5px;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* Mini Exercise Check (理解度チェック 4〜5問) */
+    .quiz-section {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 14px;
+      padding: 24px;
+      margin-top: 28px;
+    }
+
+    .quiz-section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+    }
+
+    .quiz-title {
+      font-size: 16.5px;
+      font-weight: 900;
+      color: var(--point-navy);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .quiz-card {
+      background: #FFFFFF;
+      border-radius: 12px;
+      border: 1px solid var(--sakura-pink-border);
+      padding: 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+    }
+
+    .quiz-qnum {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--primary-blue-dark);
+      margin-bottom: 8px;
+    }
+
+    .quiz-sentence {
+      font-size: 15.5px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 14px;
+      line-height: 2.2;
+    }
+
+    .quiz-blank {
+      display: inline-block;
+      background: var(--primary-blue-pale);
+      border: 1.5px dashed var(--primary-blue);
+      color: var(--primary-blue-dark);
+      padding: 0 12px;
+      border-radius: 6px;
+      margin: 0 4px;
+      min-width: 60px;
+      text-align: center;
+    }
+
+    .quiz-options {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .quiz-opt-btn {
+      background: #FFFFFF;
+      border: 1.5px solid var(--point-ice);
+      padding: 11px 14px;
+      border-radius: 8px;
+      text-align: left;
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+      line-height: 1.8;
+    }
+
+    .quiz-opt-btn:hover {
+      border-color: var(--primary-blue);
+      background: var(--primary-blue-pale);
+    }
+
+    .quiz-opt-btn.correct {
+      background: var(--correct-bg) !important;
+      border-color: var(--correct-border) !important;
+      color: var(--correct-green) !important;
+      font-weight: 800;
+    }
+
+    .quiz-opt-btn.wrong {
+      background: #FAF1F3 !important;
+      border-color: var(--sakura-pink-border) !important;
+      color: var(--sakura-pink-deep) !important;
+    }
+
+    .quiz-feedback {
+      display: none;
+      background: var(--sakura-pink-soft);
+      border-radius: 8px;
+      padding: 14px;
+      margin-top: 10px;
+      border-left: 4px solid var(--primary-blue);
+      animation: fadeIn 0.25s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .quiz-feedback.is-correct {
+      border-left-color: var(--correct-green);
+      background: var(--correct-bg);
+    }
+
+    .quiz-feedback.is-wrong {
+      border-left-color: var(--sakura-pink-deep);
+      background: #FAF1F3;
+    }
+
+    .feedback-status {
+      font-size: 13.5px;
+      font-weight: 800;
+      margin-bottom: 6px;
+    }
+
+    .feedback-status.correct { color: var(--correct-green); }
+    .feedback-status.wrong { color: var(--sakura-pink-deep); }
+
+    .feedback-ja {
+      font-size: 13px;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+      line-height: 1.7;
+    }
+
+    .feedback-en {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* Clean Dojo Link (濃いネイビー帯を完全撤廃し、すっきり上品なピンクボタン単体に改善) */
+    .dojo-clean-container {
+      text-align: center;
+      margin: 32px 0 20px;
+    }
+
+    .dojo-cta-btn-clean {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: linear-gradient(135deg, var(--sakura-pink-deep) 0%, var(--sakura-pink-hover) 100%);
+      color: #FFFFFF;
+      font-weight: 800;
+      font-size: 14px;
+      padding: 12px 28px;
+      border-radius: 25px;
+      text-decoration: none;
+      box-shadow: 0 4px 16px rgba(184, 89, 110, 0.35);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .dojo-cta-btn-clean:hover {
+      background: var(--sakura-pink-hover);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(184, 89, 110, 0.45);
+    }
+
+    /* Navigation Prev / Next */
+    .lesson-nav-footer {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 24px;
+      padding-top: 20px;
+      border-top: 1px solid var(--sakura-pink-border);
+    }
+
+    .nav-arrow-btn {
+      background: #FFFFFF;
+      border: 1.5px solid var(--sakura-pink-border);
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 800;
+      padding: 10px 18px;
+      border-radius: 10px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .nav-arrow-btn:hover {
+      background: var(--sakura-pink-soft);
+      border-color: var(--primary-blue);
+      color: var(--primary-blue-dark);
+    }
+
+    /* Selection Dict Floating Tooltip */
+    .selection-dict-tooltip {
+      position: absolute;
+      z-index: 1000;
+      background: var(--point-navy);
+      border-radius: 8px;
+      padding: 4px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+      display: none;
+      pointer-events: auto;
+    }
+
+    .selection-dict-tooltip button {
+      background: transparent;
+      border: none;
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 10px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      border-radius: 6px;
+      transition: background 0.15s;
+      font-family: inherit;
+    }
+
+    .selection-dict-tooltip button:hover {
+      background: var(--primary-blue);
+    }
+
+    /* Copy Dict Snackbar */
+    .copy-dict-snackbar {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--point-navy);
+      color: #FFFFFF;
+      padding: 10px 18px;
+      border-radius: 30px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+      z-index: 2000;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      animation: snackFadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes snackFadeIn {
+      from { opacity: 0; transform: translate(-50%, 15px); }
+      to { opacity: 1; transform: translate(-50%, 0); }
+    }
+
+    .copy-snack-btn {
+      background: var(--primary-blue);
+      color: #FFFFFF;
+      border: none;
+      border-radius: 20px;
+      padding: 5px 14px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .copy-snack-close {
+      background: transparent;
+      border: none;
+      color: #B8D1F5;
+      font-size: 15px;
+      cursor: pointer;
+      padding: 0 4px;
+    }
+
+    /* Modal Dict Overlay */
+    .modal-dict-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(31, 45, 61, 0.65);
+      backdrop-filter: blur(4px);
+      z-index: 3000;
+      padding: 20px;
+      overflow-y: auto;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-dict-window {
+      background: #FFFFFF;
+      width: 100%;
+      max-width: 540px;
+      border-radius: 16px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      margin: auto;
+      border: 1px solid var(--sakura-pink-border);
+      animation: modalZoomIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes modalZoomIn {
+      from { opacity: 0; transform: scale(0.96); }
+      to { opacity: 1; transform: scale(1); }
+    }
+
+    .modal-dict-head {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: #FFFFFF;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .modal-dict-head-title {
+      font-size: 15px;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .modal-dict-close-btn {
+      background: transparent;
+      border: none;
+      color: rgba(255, 255, 255, 0.75);
+      font-size: 20px;
+      cursor: pointer;
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 6px;
+    }
+
+    .modal-dict-body {
+      padding: 20px;
+    }
+
+    .modal-dict-search-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .modal-dict-input {
+      flex: 1;
+      padding: 10px 14px;
+      border: 1.5px solid var(--point-ice);
+      border-radius: 10px;
+      font-size: 14px;
+      font-family: inherit;
+      outline: none;
+    }
+
+    .modal-dict-search-btn {
+      background: var(--primary-blue);
+      color: #FFFFFF;
+      border: none;
+      border-radius: 10px;
+      padding: 0 16px;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .modal-dict-card {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    .modal-dict-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+
+    .modal-dict-card-word {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .modal-dict-card-reading {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--primary-blue-dark);
+    }
+
+    .modal-dict-card-badge {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-size: 11px;
+      font-weight: 800;
+      padding: 2px 7px;
+      border-radius: 6px;
+      border: 1px solid var(--primary-blue-border);
+    }
+
+    .modal-dict-tts-btn {
+      background: #FFFFFF;
+      border: 1px solid var(--primary-blue-border);
+      color: var(--primary-blue-dark);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 12px;
+      transition: all 0.15s;
+    }
+
+    .modal-dict-card-meaning {
+      font-size: 14px;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      line-height: 1.65;
+    }
+
+    .modal-dict-card-ex-box {
+      background: #FFFFFF;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      margin-top: 8px;
+    }
+
+    .modal-dict-card-ex-ja {
+      font-size: 13.5px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+      line-height: 1.8;
+    }
+
+    .modal-dict-card-ex-en {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .modal-dict-mylist-btn {
+      background: var(--sakura-pink-bg);
+      border: 1px solid var(--sakura-pink-border);
+      color: var(--sakura-pink-deep);
+      font-size: 11.5px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .modal-dict-grammar-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      margin-top: 10px;
+      padding: 6px 12px;
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      border: 1px solid var(--primary-blue-border);
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 800;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .modal-dict-grammar-link:hover {
+      background: var(--primary-blue);
+      color: white;
+    }
+
+    /* Toast */
+    .toast-msg {
+      position: fixed;
+      top: 70px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--point-navy);
+      color: #FFFFFF;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 8px 18px;
+      border-radius: 20px;
+      z-index: 4000;
+      display: none;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+      animation: fadeIn 0.2s ease;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .btn-mobile-sidebar {
+        display: inline-flex;
+      }
+      .textbook-sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100vh;
+        z-index: 2000;
+        border-radius: 0;
+        transform: translateX(-100%);
+        transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        width: 300px;
+      }
+      .textbook-sidebar.open {
+        transform: translateX(0);
+        box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+      }
+      .sidebar-backdrop {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 1999;
+      }
+      .sidebar-backdrop.open {
+        display: block;
+      }
+      .app-layout {
+        padding: 12px;
+      }
+      .lesson-card {
+        padding: 20px 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand-wrap">
+        <button class="btn-mobile-sidebar" id="btnOpenSidebar">☰ 目次</button>
+        <a href="jlpt_practice.html" class="header-btn" title="JLPT総合ポータルへ戻る">← 演習ポータル</a>
+        <div class="brand-title">
+          <span>📖 JLPT 文法マスターテキスト</span>
+          <span class="badge-n2">N2</span>
+        </div>
+      </div>
+      <div class="header-controls">
+        <!-- Furigana ON/OFF Toggle -->
+        <div class="furigana-toggle" id="furiganaToggle" title="例文や問題の漢字の上のふりがな（ルビ）を切り替えます">
+          <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
+          <span class="toggle-label active" id="toggleOn">ふりがな ON</span>
+        </div>
+        <button class="header-btn" id="btnHeaderDictSearch" title="内蔵辞書を検索">🔍 辞書検索</button>
+        <a href="app.html" class="header-btn" title="ホーム画面へ">🏠 ホーム</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Toast -->
+  <div id="toastMsg" class="toast-msg"></div>
+
+  <!-- Mobile Sidebar Backdrop -->
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+  <!-- App Layout -->
+  <div class="app-layout">
+    
+    <!-- Left Sidebar (Categories) -->
+    <aside class="textbook-sidebar" id="textbookSidebar">
+      <!-- Search -->
+      <div class="sidebar-search-box">
+        <span class="sidebar-search-icon">🔍</span>
+        <input type="text" class="sidebar-search-input" id="sidebarSearchInput" placeholder="文法・読み・意味を検索...">
+      </div>
+
+      <!-- Filter Tabs -->
+      <div class="sidebar-filter-tabs">
+        <button class="sidebar-filter-btn active" data-filter="all" id="tabFilterAll">すべて (<span id="countAll">195</span>)</button>
+        <button class="sidebar-filter-btn" data-filter="star" id="tabFilterStar">⭐ 復習 (<span id="countStar">0</span>)</button>
+        <button class="sidebar-filter-btn" data-filter="done" id="tabFilterDone">✓ 読了 (<span id="countDone">0</span>)</button>
+      </div>
+
+      <!-- Progress -->
+      <div class="sidebar-progress-box">
+        <div class="progress-labels">
+          <span>読了状況</span>
+          <span id="progressText">0 / 195 (0%)</span>
+        </div>
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="progressBarFill"></div>
+        </div>
+      </div>
+
+      <!-- Categories & Grammars Accordion List -->
+      <div class="sidebar-cats-scroll" id="sidebarCatsList">
+        <!-- Rendered dynamically by JavaScript -->
+      </div>
+    </aside>
+
+    <!-- Right Main Content Area -->
+    <main class="textbook-main" id="textbookMain">
+      <!-- Lesson Card rendered dynamically -->
+      <div id="lessonCardContainer"></div>
+    </main>
+  </div>
+
+  <!-- Selection Dictionary Floating Tooltip -->
+  <div id="selectionDictTooltip" class="selection-dict-tooltip">
+    <button type="button" id="btnSearchSelection">🔍 辞書で調べる</button>
+  </div>
+
+  <!-- Copy Dictionary Snackbar -->
+  <div id="copyDictSnackbar" class="copy-dict-snackbar" style="display:none;">
+    <span>📋 「<strong id="copySnackWord" style="color:var(--point-ice);"></strong>」をコピーしました</span>
+    <button type="button" class="copy-snack-btn" id="btnCopySnackSearch">🔍 辞書で検索</button>
+    <button type="button" class="copy-snack-close" id="btnCloseCopySnack" aria-label="閉じる">✕</button>
+  </div>
+
+  <!-- Dictionary Search Modal -->
+  <div class="modal-dict-overlay" id="modalDictOverlay">
+    <div class="modal-dict-window">
+      <div class="modal-dict-head">
+        <div class="modal-dict-head-title">
+          <span>📖 内蔵日本語辞書（68,000語）</span>
+        </div>
+        <button type="button" class="modal-dict-close-btn" id="btnCloseDictModal" aria-label="閉じる">✕</button>
+      </div>
+      <div class="modal-dict-body">
+        <div class="modal-dict-search-row">
+          <input type="text" class="modal-dict-input" id="modalDictSearchInput" placeholder="単語または読みを入力...">
+          <button type="button" class="modal-dict-search-btn" id="btnExecuteDictSearch">検索</button>
+        </div>
+        <div id="modalDictResultContent"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="auth.js"></script>
+  <script src="user_progress.js"></script>
+  <script src="database/dictionary_data.js"></script>
+  <script src="database/jlpt_n2_grammar_quiz_data.js"></script>
+  <script>
+    // 12 Units Definitions (195 Grammars Assigned completely)
+    const UNITS_DATA = [
+      {
+        id: 'unit_01',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '1. 時間・同時進行・契機',
+        name_en: 'Time, Simultaneous Action & Triggers',
+        gids: [86, 100, 101, 137, 147, 154, 165, 175, 179, 180, 24, 40, 41, 122, 174, 33, 34, 150]
+      },
+      {
+        id: 'unit_02',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '2. 原因・理由・根拠',
+        name_en: 'Causes, Reasons & Grounds',
+        gids: [6, 9, 11, 48, 50, 56, 70, 111, 134, 47, 49, 51, 52, 176, 124, 97]
+      },
+      {
+        id: 'unit_03',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '3. 結果・結末・進展',
+        name_en: 'Results, Consequences & Developments',
+        gids: [1, 4, 38, 59, 121, 139, 185, 164, 195, 82, 10, 44]
+      },
+      {
+        id: 'unit_04',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '4. 逆接・譲歩・対比',
+        name_en: 'Opposition, Concession & Contrast',
+        gids: [26, 27, 35, 61, 75, 102, 103, 105, 113, 142, 144, 178, 177, 42, 62]
+      },
+      {
+        id: 'unit_05',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '5. 条件・仮定・限定',
+        name_en: 'Conditions, Assumptions & Limitations',
+        gids: [32, 43, 74, 79, 88, 89, 90, 155, 156, 161, 170, 181, 190, 143, 146]
+      },
+      {
+        id: 'unit_06',
+        group: '基礎編（まずはこれを覚えよう！）',
+        name: '6. 対象・関係・視点',
+        name_en: 'Target, Relationship & Viewpoint',
+        gids: [91, 92, 95, 98, 99, 104, 106, 109, 110, 112, 116, 117, 123, 126]
+      },
+      {
+        id: 'unit_07',
+        group: '発展編（これを覚えれば合格！）',
+        name: '7. 程度・強調・比較・累加',
+        name_en: 'Degree, Emphasis, Comparison & Addition',
+        gids: [3, 5, 12, 13, 16, 17, 31, 87, 94, 96, 118, 128, 131, 140, 141, 149, 182, 188]
+      },
+      {
+        id: 'unit_08',
+        group: '発展編（これを覚えれば合格！）',
+        name: '8. 心情・感情・感覚',
+        name_en: 'Feelings, Emotions & Sensations',
+        gids: [25, 45, 46, 57, 72, 78, 130, 133, 135, 136, 158, 159, 187]
+      },
+      {
+        id: 'unit_09',
+        group: '発展編（これを覚えれば合格！）',
+        name: '9. 評価・判断・当然',
+        name_en: 'Evaluation, Judgement & Natural Consequences',
+        gids: [15, 55, 60, 67, 69, 71, 73, 108, 115, 160, 163, 169, 171]
+      },
+      {
+        id: 'unit_10',
+        group: '発展編（これを覚えれば合格！）',
+        name: '10. 推量・可能性・伝聞',
+        name_en: 'Conjecture, Possibility & Hearsay',
+        gids: [18, 20, 21, 39, 93, 107, 129, 168, 191, 192, 193]
+      },
+      {
+        id: 'unit_11',
+        group: '発展編（これを覚えれば合格！）',
+        name: '11. 除外・無関係・非限定',
+        name_en: 'Exclusion, Non-relevance & Exceptions',
+        gids: [30, 64, 66, 119, 120, 125, 152, 162, 183, 186, 189, 194]
+      },
+      {
+        id: 'unit_12',
+        group: '発展編（これを覚えれば合格！）',
+        name: '12. 副詞・接続詞・呼応表現',
+        name_en: 'Adverbs, Conjunctions & Collocations',
+        gids: [2, 7, 8, 14, 19, 22, 23, 28, 29, 36, 37, 53, 54, 58, 63, 65, 68, 76, 77, 80, 81, 83, 84, 85, 114, 127, 132, 138, 145, 148, 151, 153, 157, 166, 167, 172, 173, 184]
+      }
+    ];
+
+    // Mastered & Bookmarked State Storage
+    let userMastered = new Set();
+    let userBookmarks = new Set();
+    try {
+      userMastered = new Set(JSON.parse(localStorage.getItem('jlpt_n2_textbook_mastered') || '[]'));
+      userBookmarks = new Set(JSON.parse(localStorage.getItem('jlpt_n2_textbook_bookmarks') || '[]'));
+    } catch(e) {}
+
+    function saveState() {
+      try {
+        localStorage.setItem('jlpt_n2_textbook_mastered', JSON.stringify(Array.from(userMastered)));
+        localStorage.setItem('jlpt_n2_textbook_bookmarks', JSON.stringify(Array.from(userBookmarks)));
+      } catch(e) {}
+      updateProgress();
+      renderSidebar();
+    }
+
+    // Grammar Dictionary extracted from JLPT_N2_QUIZ_DATA
+    const grammarMap = new Map();
+    const grammarQuestionsMap = new Map();
+
+    if (window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) {
+      window.JLPT_N2_QUIZ_DATA.forEach(q => {
+        const gid = q.grammar_id;
+        if (!grammarMap.has(gid)) {
+          grammarMap.set(gid, {
+            id: gid,
+            name: q.grammar,
+            reading: q.reading || '',
+            meaning_en: q.meaning_en || '',
+            similar: q.similar || '',
+            sample_sentence_ja: q.sentence_jp_ruby || q.sentence_jp,
+            sample_sentence_en: q.sentence_en || ''
+          });
+        }
+        if (!grammarQuestionsMap.has(gid)) {
+          grammarQuestionsMap.set(gid, []);
+        }
+        grammarQuestionsMap.get(gid).push(q);
+      });
+    }
+
+    // Current State
+    let currentGid = 1; // Default: #1 あげく
+    let currentFilter = 'all';
+    let searchQuery = '';
+
+    // Furigana ON/OFF Toggle
+    let showFurigana = true;
+    const furiganaToggle = document.getElementById('furiganaToggle');
+    const toggleOn = document.getElementById('toggleOn');
+    const toggleOff = document.getElementById('toggleOff');
+    const toastMsg = document.getElementById('toastMsg');
+
+    function showToast(msg) {
+      if (!toastMsg) return;
+      toastMsg.textContent = msg;
+      toastMsg.style.display = 'block';
+      clearTimeout(window._toastTimer);
+      window._toastTimer = setTimeout(() => {
+        toastMsg.style.display = 'none';
+      }, 2000);
+    }
+
+    if (furiganaToggle) {
+      furiganaToggle.addEventListener('click', () => {
+        showFurigana = !showFurigana;
+        if (showFurigana) {
+          document.body.classList.remove('hide-furigana');
+          toggleOn.className = 'toggle-label active';
+          toggleOff.className = 'toggle-label inactive';
+          showToast('ふりがなをONにしました');
+        } else {
+          document.body.classList.add('hide-furigana');
+          toggleOn.className = 'toggle-label inactive';
+          toggleOff.className = 'toggle-label active';
+          showToast('ふりがなをOFFにしました');
+        }
+      });
+    }
+
+    // Audio Speech with clean text
+    let globalAudio = null;
+    function speakJapaneseText(rawText) {
+      if (!rawText) return;
+      if (globalAudio) {
+        try {
+          globalAudio.pause();
+          globalAudio.currentTime = 0;
+        } catch(e) {}
+      }
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+
+      const clean = String(rawText)
+        .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+        .replace(/<[^>]+>/g, '')
+        .replace(/（\s*）|\(　*\)|（　*）/g, '、')
+        .replace(/（する）|\(する\)/g, '')
+        .replace(/[【】]/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      if (clean.length <= 200) {
+        try {
+          const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
+          globalAudio = new Audio(url);
+          globalAudio.play().catch(() => fallbackSpeech(clean));
+          return;
+        } catch(e) {}
+      }
+      fallbackSpeech(clean);
+    }
+
+    function fallbackSpeech(text) {
+      if (!('speechSynthesis' in window)) return;
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = 'ja-JP';
+      u.rate = 0.95;
+      window.speechSynthesis.speak(u);
+    }
+
+    // Progress Calculation
+    function updateProgress() {
+      const countAll = grammarMap.size;
+      const countDone = userMastered.size;
+      const countStar = userBookmarks.size;
+
+      const elCountAll = document.getElementById('countAll');
+      const elCountDone = document.getElementById('countDone');
+      const elCountStar = document.getElementById('countStar');
+      const elProgressText = document.getElementById('progressText');
+      const elProgressBarFill = document.getElementById('progressBarFill');
+
+      if (elCountAll) elCountAll.textContent = countAll;
+      if (elCountDone) elCountDone.textContent = countDone;
+      if (elCountStar) elCountStar.textContent = countStar;
+
+      const pct = countAll > 0 ? Math.round((countDone / countAll) * 100) : 0;
+      if (elProgressText) elProgressText.textContent = `${countDone} / ${countAll} (${pct}%)`;
+      if (elProgressBarFill) elProgressBarFill.style.width = `${pct}%`;
+    }
+
+    // Render Sidebar
+    function renderSidebar() {
+      const container = document.getElementById('sidebarCatsList');
+      if (!container) return;
+
+      container.innerHTML = '';
+      let currentGroup = '';
+
+      UNITS_DATA.forEach(unit => {
+        if (unit.group !== currentGroup) {
+          currentGroup = unit.group;
+          const groupHead = document.createElement('div');
+          groupHead.className = 'cat-group-heading';
+          groupHead.textContent = currentGroup;
+          container.appendChild(groupHead);
+        }
+
+        // Filter unit grammars based on search & filter tabs
+        const filteredGids = unit.gids.filter(gid => {
+          const g = grammarMap.get(gid);
+          if (!g) return false;
+
+          // Filter Tab check
+          if (currentFilter === 'star' && !userBookmarks.has(gid)) return false;
+          if (currentFilter === 'done' && !userMastered.has(gid)) return false;
+
+          // Search Query check
+          if (searchQuery) {
+            const q = searchQuery.toLowerCase();
+            const matchName = g.name.toLowerCase().includes(q);
+            const matchReading = g.reading.toLowerCase().includes(q);
+            const matchMeaning = g.meaning_en.toLowerCase().includes(q);
+            if (!matchName && !matchReading && !matchMeaning) return false;
+          }
+          return true;
+        });
+
+        if (filteredGids.length === 0 && (currentFilter !== 'all' || searchQuery)) {
+          return; // Skip empty units in search/filter mode
+        }
+
+        const isUnitContainingCurrent = unit.gids.includes(currentGid);
+        const unitCard = document.createElement('div');
+        unitCard.className = `cat-unit-card ${isUnitContainingCurrent ? 'expanded active-unit' : ''}`;
+
+        const unitHeader = document.createElement('div');
+        unitHeader.className = 'cat-unit-header';
+        unitHeader.innerHTML = `
+          <div class="cat-unit-title">
+            <span>${unit.name}</span>
+          </div>
+          <span class="cat-unit-count">${filteredGids.length}</span>
+        `;
+        unitHeader.addEventListener('click', () => {
+          unitCard.classList.toggle('expanded');
+        });
+
+        const grammarList = document.createElement('div');
+        grammarList.className = 'cat-grammar-list';
+
+        filteredGids.forEach(gid => {
+          const g = grammarMap.get(gid);
+          if (!g) return;
+
+          const item = document.createElement('div');
+          item.className = `cat-grammar-item ${gid === currentGid ? 'active' : ''}`;
+
+          let badgesHtml = '';
+          if (userMastered.has(gid)) {
+            badgesHtml += '<span class="badge-mastered-icon" title="読了済み">✓</span>';
+          }
+          if (userBookmarks.has(gid)) {
+            badgesHtml += '<span class="badge-star-icon" title="復習リスト">⭐</span>';
+          }
+
+          item.innerHTML = `
+            <span>#${g.id} ${g.name}</span>
+            <div class="grammar-item-badges">${badgesHtml}</div>
+          `;
+
+          item.addEventListener('click', () => {
+            selectGrammar(gid);
+            closeSidebarMobile();
+          });
+
+          grammarList.appendChild(item);
+        });
+
+        unitCard.appendChild(unitHeader);
+        unitCard.appendChild(grammarList);
+        container.appendChild(unitCard);
+      });
+    }
+
+    // Select and Render a Grammar Lesson
+    function selectGrammar(gid) {
+      currentGid = gid;
+      renderSidebar();
+      renderLessonContent(gid);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    // Find Unit of Gid
+    function getUnitOfGid(gid) {
+      return UNITS_DATA.find(u => u.gids.includes(gid)) || UNITS_DATA[0];
+    }
+
+    // Render Grammar Lesson Content
+    function renderLessonContent(gid) {
+      const container = document.getElementById('lessonCardContainer');
+      if (!container) return;
+
+      const g = grammarMap.get(gid);
+      if (!g) return;
+
+      const unit = getUnitOfGid(gid);
+      const isBookmarked = userBookmarks.has(gid);
+      const isMastered = userMastered.has(gid);
+
+      // Quiz Questions (4-5 questions)
+      const qList = (grammarQuestionsMap.get(gid) || []).slice(0, 5);
+
+      // Render Lesson Card
+      container.innerHTML = `
+        <article class="lesson-card">
+          <header class="lesson-header">
+            <div class="lesson-header-left">
+              <div class="lesson-meta">
+                <span class="lesson-number-badge">文法 #${String(g.id).padStart(3, '0')}</span>
+                <span class="unit-crumb-badge">${unit.name}</span>
+              </div>
+              <div class="grammar-title-wrap">
+                <h1 class="grammar-name">${g.name}</h1>
+                <span class="grammar-meaning-en">${g.meaning_en}</span>
+              </div>
+            </div>
+            <div class="lesson-header-actions">
+              <button class="action-pill-btn ${isBookmarked ? 'bookmarked' : ''}" onclick="toggleBookmark(${gid})">
+                ⭐ ${isBookmarked ? '復習リスト保存中' : '復習に追加'}
+              </button>
+              <button class="action-pill-btn ${isMastered ? 'mastered' : ''}" onclick="toggleMastered(${gid})">
+                ✓ ${isMastered ? '読了完了！' : 'マスター済みにする'}
+              </button>
+            </div>
+          </header>
+
+          <!-- 1. Connection & Form -->
+          <section class="section-block">
+            <div class="section-tag">📐 接続と文法規則 (Form & Connection)</div>
+            <div class="connection-box">
+              <div class="connection-formula" id="lessonFormula"></div>
+              <div class="connection-notes" id="lessonNotes"></div>
+            </div>
+          </section>
+
+          <!-- 2. Core Nuance (Bilingual) -->
+          <section class="bilingual-card nuance" id="lessonNuanceSection"></section>
+
+          <!-- 3. English Pitfalls (Contrast Cards) -->
+          <section class="bilingual-card trap" id="lessonTrapSection"></section>
+
+          <!-- 4. Comparison Table with Similar Grammar -->
+          <section class="section-block" id="lessonComparisonSection"></section>
+
+          <!-- 5. Practical Examples -->
+          <section class="section-block">
+            <div class="section-tag pink">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
+            <div class="examples-list" id="lessonExamplesList"></div>
+          </section>
+
+          <!-- 6. Mini Quizzes (4-5 Questions with Instant Bilingual Feedback) -->
+          <section class="quiz-section">
+            <div class="quiz-section-header">
+              <div class="quiz-title">
+                <span>✏️ 理解度チェック（ミニ演習 全${qList.length}問）</span>
+                <span style="font-size:12px;font-weight:600;color:var(--text-muted);">Instant Check Quiz</span>
+              </div>
+              <span style="font-size:12px;color:var(--text-muted);">クリックで即座に正誤判定と日英解説を表示</span>
+            </div>
+            <div id="lessonQuizzesContainer"></div>
+          </section>
+
+          <!-- 7. Clean Dojo Link (濃いネイビー帯を完全撤廃し、すっきり上品なピンクボタン単体に改善) -->
+          <div class="dojo-clean-container">
+            <a href="jlpt_n2_grammar_quiz.html" class="dojo-cta-btn-clean">
+              📝 文法演習道場（全1,507問）でさらに特訓する →
+            </a>
+          </div>
+
+          <!-- 8. Prev / Next Navigation -->
+          <footer class="lesson-nav-footer">
+            <button class="nav-arrow-btn" onclick="navigateLesson(-1)" ${gid === 1 ? 'disabled style="opacity:0.4;cursor:not-allowed;"' : ''}>
+              ← 前の文法
+            </button>
+            <button class="nav-arrow-btn" onclick="navigateLesson(1)" ${gid === 195 ? 'disabled style="opacity:0.4;cursor:not-allowed;"' : ''}>
+              次の文法 →
+            </button>
+          </footer>
+        </article>
+      `;
+
+      fillLessonSpecificDetails(gid, g, qList);
+    }
+
+    // Toggle Mastered
+    window.toggleMastered = function(gid) {
+      if (userMastered.has(gid)) {
+        userMastered.delete(gid);
+        showToast('読了ステータスを解除しました');
+      } else {
+        userMastered.add(gid);
+        showToast('🎉 この文法を「読了」に記録しました！');
+      }
+      saveState();
+      renderLessonContent(gid);
+    };
+
+    // Toggle Bookmark
+    window.toggleBookmark = function(gid) {
+      if (userBookmarks.has(gid)) {
+        userBookmarks.delete(gid);
+        showToast('復習リストから外しました');
+      } else {
+        userBookmarks.add(gid);
+        showToast('⭐ 復習リストに追加しました！');
+      }
+      saveState();
+      renderLessonContent(gid);
+    };
+
+    // Navigate Lesson
+    window.navigateLesson = function(delta) {
+      const nextGid = currentGid + delta;
+      if (nextGid >= 1 && nextGid <= 195) {
+        selectGrammar(nextGid);
+      }
+    };
+
+    // Fill Content & 4-5 Quizzes for Grammar Lesson
+    function fillLessonSpecificDetails(gid, g, qList) {
+      const formulaEl = document.getElementById('lessonFormula');
+      const notesEl = document.getElementById('lessonNotes');
+      const nuanceEl = document.getElementById('lessonNuanceSection');
+      const trapEl = document.getElementById('lessonTrapSection');
+      const compEl = document.getElementById('lessonComparisonSection');
+      const exListEl = document.getElementById('lessonExamplesList');
+      const quizContainer = document.getElementById('lessonQuizzesContainer');
+
+      if (gid === 1) {
+        // Special Masterpiece Content for #1 あげく
+        formulaEl.innerHTML = `
+          動詞［た形］ ＋ <strong>あげく</strong><br>
+          名詞 ＋ <strong>のあげく</strong>
+        `;
+        notesEl.innerHTML = `
+          ※「過去の長いプロセスや苦労」を表すため、必ず［た形］に接続します。動詞辞書形や否定形には原則として接続しません。<br>
+          <span style="font-size:12px;color:var(--text-muted);">* Connects strictly to past tense verb [Ta-form] or Noun + の. Cannot connect to plain present/dictionary form.</span>
+        `;
+
+        nuanceEl.innerHTML = `
+          <div class="bilingual-header">
+            <span>💡 コアニュアンス（使い方のポイント / Core Nuance & Usage）</span>
+          </div>
+          <div class="content-ja">
+            「いろいろ長い間（苦労・対立・迷い・努力など）が続いたが、最終的に<strong>『残念な結果・悪い結果・徒労』</strong>になってしまった」という時に使います。話し手の強い「失望感」や「疲労感」が含まれ、原則として<strong>良い結果・ポジティブな結果には使えません</strong>。
+          </div>
+          <div class="content-en">
+            Used when a prolonged period of effort, conflict, agonizing hesitation, or waiting ultimately leads to an <strong>unfortunate, disappointing, or negative outcome</strong>. It carries the speaker's sense of fatigue, regret, or waste of effort. By rule, it <strong>cannot be used for positive or happy outcomes</strong>.
+          </div>
+        `;
+
+        trapEl.innerHTML = `
+          <div class="bilingual-header">
+            <span>⚠️ 英語直訳の落とし穴（学習者が最も間違えるポイント！ / Common Pitfalls & Traps）</span>
+          </div>
+          <div class="content-ja">
+            英語の <strong>"finally"</strong> や <strong>"in the end"</strong>、<strong>"after all"</strong> をそのまま直訳して、<strong>喜ばしい結果（合格した、見つかった等）に使ってしまう誤用</strong>が外国人学習者に非常に多く見られます。日本語の「〜あげく」は「悪い結果」にしか使えないため、文末の結末を必ず確認しましょう。
+          </div>
+          <div class="content-en">
+            English speakers frequently equate 〜あげく with "finally" or "in the end" and mistakenly use it with happy conclusions. Remember: in Japanese, 〜あげく is strictly reserved for negative consequences.
+          </div>
+          <div class="contrast-cards-grid">
+            <div class="contrast-card wrong">
+              <div class="contrast-card-top">
+                <span class="contrast-pill wrong">❌ 誤用 (Incorrect)</span>
+                <span class="contrast-reason-chip">⚠️ 合格は嬉しい結果なので不自然</span>
+              </div>
+              <div class="contrast-sentence">
+                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
+              </div>
+              <div class="contrast-en-note">
+                Unnatural in Japanese because passing an exam is a positive accomplishment.
+              </div>
+            </div>
+            <div class="contrast-card correct">
+              <div class="contrast-card-top">
+                <span class="contrast-pill correct">⭕ 正解 (Correct with 〜末に)</span>
+                <span class="contrast-reason-chip success">✓「〜末に」は良い結果にも使用可能</span>
+              </div>
+              <div class="contrast-sentence">
+                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong><ruby>末<rt>すえ</rt></ruby>に</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
+              </div>
+              <div class="contrast-en-note">
+                Natural because 〜末に can properly be used for positive outcomes.
+              </div>
+            </div>
+            <div class="contrast-card correct">
+              <div class="contrast-card-top">
+                <span class="contrast-pill correct">⭕ 正解 (Correct with 〜あげく)</span>
+                <span class="contrast-reason-chip success">✓ 残念な結末（不合格）なので完璧に自然</span>
+              </div>
+              <div class="contrast-sentence">
+                1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>当日<rt>とうじつ</rt></ruby>に<ruby>熱<rt>ねつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>不合格<rt>ふごうかく</rt></ruby>になった。
+              </div>
+              <div class="contrast-en-note">
+                Perfect because failing due to sudden illness is an unfortunate, regrettable outcome.
+              </div>
+            </div>
+          </div>
+        `;
+
+        compEl.innerHTML = `
+          <div class="section-tag">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
+          <div class="comparison-table-wrap">
+            <table class="comparison-table">
+              <thead>
+                <tr>
+                  <th style="width: 22%;">文法表現 (Pattern)</th>
+                  <th style="width: 22%;">結末 (Outcome)</th>
+                  <th style="width: 30%;">特徴・ニュアンス (Nuance & Tone)</th>
+                  <th style="width: 26%;">代表例文 (Example)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <strong style="color:var(--text-primary); font-size:14px;">〜あげく</strong><br>
+                    <span class="table-sub-en">to end up doing</span>
+                  </td>
+                  <td>
+                    <span class="badge-result-bad">❌ 悪い結果限定</span><br>
+                    <span class="table-sub-en">Negative only</span>
+                  </td>
+                  <td>
+                    散々苦労・迷惑・葛藤した後の失望感や徒労感を強く強調する。<br>
+                    <span class="table-sub-en">Strong sense of disappointment or wasted effort.</span>
+                  </td>
+                  <td>
+                    3<ruby>時間<rt>じかん</rt></ruby><ruby>待<rt>ま</rt></ruby>たされた<strong>あげく</strong>、<ruby>中止<rt>ちゅうし</rt></ruby>になった。
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong style="color:var(--text-primary); font-size:14px;">〜末（すえ）に</strong><br>
+                    <span class="table-sub-en">in the end; after...</span>
+                  </td>
+                  <td>
+                    <span class="badge-result-both">⭕ 良い結果 / ❌ 悪い結果</span><br>
+                    <span class="table-sub-en">Both Good & Bad</span>
+                  </td>
+                  <td>
+                    長い葛藤や努力を経て「重要な最終決定・結論」に至った重み。<br>
+                    <span class="table-sub-en">Weighed final decision reached after long contemplation.</span>
+                  </td>
+                  <td>
+                    <ruby>家族<rt>かぞく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った<strong><ruby>末<rt>すえ</rt></ruby>に</strong>、<ruby>留学<rt>りゅうがく</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた。
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <strong style="color:var(--text-primary); font-size:14px;">〜結果</strong><br>
+                    <span class="table-sub-en">as a result of</span>
+                  </td>
+                  <td>
+                    <span class="badge-result-neutral">⚪ 中立（客観的事実）</span><br>
+                    <span class="table-sub-en">Neutral Fact</span>
+                  </td>
+                  <td>
+                    単に「原因 ➔ 結果」を客観的に報告する。感情や失望感は含まない。<br>
+                    <span class="table-sub-en">Objective reporting of fact; carries no emotional coloring.</span>
+                  </td>
+                  <td>
+                    <ruby>調査<rt>ちょうさ</rt></ruby>した<strong><ruby>結果<rt>けっか</rt></ruby></strong>、<ruby>異常<rt>いじょう</rt></ruby>は見つからなかった。
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        `;
+      } else {
+        // Universal Standard Layout for any of the 195 Grammars
+        formulaEl.innerHTML = `文法形式: <strong>${g.name}</strong> （${g.reading || ''}）`;
+        notesEl.innerHTML = g.similar ? `関連・類似表現: ${g.similar}` : '文脈に応じた適切な接続形に注意しましょう。';
+
+        nuanceEl.innerHTML = `
+          <div class="bilingual-header">
+            <span>💡 コアニュアンス（使い方のポイント / Core Nuance & Usage）</span>
+          </div>
+          <div class="content-ja">
+            「${g.name}」は、${g.meaning_en} を表すN2重要文法項目です。前後の接続関係および話者の意図（強調、理由、結末など）を的確に捉えて使いこなすことが合格のカギとなります。
+          </div>
+          <div class="content-en">
+            "${g.name}" is a critical N2 pattern meaning: <strong>${g.meaning_en}</strong>. Pay close attention to its grammatical form and the speaker's nuance when reading or listening.
+          </div>
+        `;
+
+        trapEl.innerHTML = `
+          <div class="bilingual-header">
+            <span>⚠️ 学習上の注意点と落とし穴 (Points to Note)</span>
+          </div>
+          <div class="content-ja">
+            選択肢には類似した接続詞や助詞（${g.similar || '似た文法'}）がひっかけとして配置されます。前後の述語の肯定・否定の呼応に注意して解答しましょう。
+          </div>
+          <div class="content-en">
+            Similar patterns often appear as distractor choices in JLPT exams. Distinguish their subtle constraints carefully.
+          </div>
+        `;
+
+        compEl.innerHTML = `
+          <div class="section-tag">🔍 関連・類似表現 (Related Expressions)</div>
+          <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:14px; font-size:13.5px;">
+            ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
+          </div>
+        `;
+      }
+
+      // Fill Examples
+      exListEl.innerHTML = '';
+      const sampleExs = qList.map(q => ({
+        ja: q.sentence_jp_ruby || q.sentence_jp,
+        en: q.sentence_en || ''
+      }));
+
+      // Add #1 specific examples if GID=1
+      if (gid === 1) {
+        sampleExs.unshift({
+          ja: '<ruby>何日<rt>なんにち</rt></ruby>も<ruby>悩<rt>なや</rt></ruby>んだあげく、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めることにした。',
+          en: 'After agonizing for days, I ended up deciding to quit my job.'
+        });
+      }
+
+      sampleExs.slice(0, 4).forEach((ex, idx) => {
+        const plainJa = ex.ja.replace(/<[^>]+>/g, '').replace(/'/g, "\'");
+        const exCard = document.createElement('div');
+        exCard.className = 'example-item-card';
+        exCard.innerHTML = `
+          <button class="example-tts-btn" onclick="speakJapaneseText('${plainJa}')" title="音声を再生">🔊</button>
+          <div class="example-content">
+            <div class="example-ja">${ex.ja}</div>
+            <div class="example-en">${ex.en}</div>
+          </div>
+        `;
+        exListEl.appendChild(exCard);
+      });
+
+      // Fill 4-5 Quizzes
+      quizContainer.innerHTML = '';
+      qList.forEach((q, qIndex) => {
+        const card = document.createElement('div');
+        card.className = 'quiz-card';
+        card.id = `quizCard_${qIndex}`;
+
+        let questionHtml = q.question_ruby || q.question;
+        // Make blank pretty
+        questionHtml = questionHtml.replace(/【\s*　*\s*】|（\s*　*\s*）|\(\s*\)/g, '<span class="quiz-blank">（　　　）</span>');
+
+        const choices = q.choices_ruby || q.choices;
+        const choicesHtml = choices.map((c, cIdx) => `
+          <button class="quiz-opt-btn" onclick="checkLessonQuiz(${qIndex}, ${cIdx}, ${cIdx === q.answer})">
+            ${cIdx + 1}. ${c}
+          </button>
+        `).join('');
+
+        card.innerHTML = `
+          <div class="quiz-qnum">第 ${qIndex + 1} 問 (Question ${qIndex + 1})</div>
+          <div class="quiz-sentence">${questionHtml}</div>
+          <div class="quiz-options">${choicesHtml}</div>
+          <div class="quiz-feedback" id="quizFeedback_${qIndex}">
+            <div class="feedback-status" id="quizStatus_${qIndex}"></div>
+            <div class="feedback-ja" id="quizFbJa_${qIndex}"></div>
+            <div class="feedback-en" id="quizFbEn_${qIndex}"></div>
+          </div>
+        `;
+        quizContainer.appendChild(card);
+      });
+    }
+
+    // Mini Quiz Check
+    window.checkLessonQuiz = function(qIndex, selectedIdx, isCorrect) {
+      const card = document.getElementById(`quizCard_${qIndex}`);
+      if (!card) return;
+
+      const qList = (grammarQuestionsMap.get(currentGid) || []).slice(0, 5);
+      const q = qList[qIndex];
+      if (!q) return;
+
+      const btns = card.querySelectorAll('.quiz-opt-btn');
+      btns.forEach((btn, idx) => {
+        btn.classList.remove('correct', 'wrong');
+        if (idx === q.answer) {
+          btn.classList.add('correct');
+        } else if (idx === selectedIdx && !isCorrect) {
+          btn.classList.add('wrong');
+        }
+      });
+
+      const fb = document.getElementById(`quizFeedback_${qIndex}`);
+      const st = document.getElementById(`quizStatus_${qIndex}`);
+      const fbJa = document.getElementById(`quizFbJa_${qIndex}`);
+      const fbEn = document.getElementById(`quizFbEn_${qIndex}`);
+
+      if (fb && st && fbJa && fbEn) {
+        fb.style.display = 'block';
+        fb.className = `quiz-feedback ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+        st.className = `feedback-status ${isCorrect ? 'correct' : 'wrong'}`;
+        st.textContent = isCorrect ? "◯ 正解！ 素晴らしい！ (Correct!)" : `✕ 不正解 (Incorrect) — 正解は ${q.answer + 1} 番です`;
+
+        fbJa.innerHTML = `<strong>正解の文:</strong> ${q.sentence_jp_ruby || q.sentence_jp}`;
+        fbEn.innerHTML = `<strong>English:</strong> ${q.sentence_en || ''}`;
+      }
+    };
+
+    // Filter Buttons Listener
+    document.querySelectorAll('.sidebar-filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sidebar-filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        renderSidebar();
+      });
+    });
+
+    // Search Input Listener
+    const searchInput = document.getElementById('sidebarSearchInput');
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.trim();
+        renderSidebar();
+      });
+    }
+
+    // Mobile Sidebar Drawer
+    const btnOpenSidebar = document.getElementById('btnOpenSidebar');
+    const textbookSidebar = document.getElementById('textbookSidebar');
+    const sidebarBackdrop = document.getElementById('sidebarBackdrop');
+
+    function openSidebarMobile() {
+      if (textbookSidebar) textbookSidebar.classList.add('open');
+      if (sidebarBackdrop) sidebarBackdrop.classList.add('open');
+    }
+
+    function closeSidebarMobile() {
+      if (textbookSidebar) textbookSidebar.classList.remove('open');
+      if (sidebarBackdrop) sidebarBackdrop.classList.remove('open');
+    }
+
+    if (btnOpenSidebar) btnOpenSidebar.addEventListener('click', openSidebarMobile);
+    if (sidebarBackdrop) sidebarBackdrop.addEventListener('click', closeSidebarMobile);
+
+    // Dictionary Integration (68,000 words + MyList + Grammar Reverse Lookup)
+    const modalDictOverlay = document.getElementById('modalDictOverlay');
+    const modalDictSearchInput = document.getElementById('modalDictSearchInput');
+    const btnExecuteDictSearch = document.getElementById('btnExecuteDictSearch');
+    const modalDictResultContent = document.getElementById('modalDictResultContent');
+    const btnCloseDictModal = document.getElementById('btnCloseDictModal');
+    const btnHeaderDictSearch = document.getElementById('btnHeaderDictSearch');
+
+    function cleanSearchWord(w) {
+      if (!w) return '';
+      return String(w)
+        .replace(/<[^>]+>/g, '')
+        .replace(/[「」『』【】（）\(\)\s、。,.!?！？]/g, '')
+        .trim();
+    }
+
+    function isTermSavedInMylist(term) {
+      const clean = cleanSearchWord(term);
+      try {
+        if (window.UserProgress && typeof window.UserProgress.isCustomVocabTermSaved === 'function') {
+          return window.UserProgress.isCustomVocabTermSaved(clean);
+        }
+        const list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+        return list.some(item => item.word === clean || item.reading === clean);
+      } catch(e) {
+        return false;
+      }
+    }
+
+    function searchDictionary(query) {
+      const cleanQ = cleanSearchWord(query);
+      if (!cleanQ) return null;
+      if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+        const dMatch = window.DICT_DATA.find(d => d.w === cleanQ || d.r === cleanQ)
+          || window.DICT_DATA.find(d => d.w && d.w.startsWith(cleanQ))
+          || window.DICT_DATA.find(d => (d.w && d.w.includes(cleanQ)) || (d.r && d.r.includes(cleanQ)));
+        if (dMatch) {
+          return {
+            term: dMatch.w,
+            reading: dMatch.r,
+            meaning: dMatch.m,
+            level: dMatch.l ? `JLPT ${dMatch.l}` : '常用語',
+            example_ja: dMatch.ex || '',
+            example_en: dMatch.tr || '',
+            similar: dMatch.sim || ''
+          };
+        }
+      }
+      return null;
+    }
+
+    // Check if query matches any of 195 grammars for reverse lookup
+    function findMatchingGrammar(query) {
+      const cleanQ = cleanSearchWord(query);
+      for (const [gid, g] of grammarMap.entries()) {
+        if (g.name.includes(cleanQ) || cleanQ.includes(g.name.replace(/[〜~]/g, ''))) {
+          return g;
+        }
+      }
+      return null;
+    }
+
+    function renderDictLookup(query) {
+      if (!modalDictResultContent) return;
+      const cleanQ = cleanSearchWord(query);
+      const result = searchDictionary(query);
+      const matchGrammar = findMatchingGrammar(query);
+
+      let grammarLinkHtml = '';
+      if (matchGrammar) {
+        grammarLinkHtml = `
+          <div style="margin-top:10px;">
+            <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${matchGrammar.id});">
+              📖 文法テキスト「#${matchGrammar.id} ${matchGrammar.name}」の解説を見る →
+            </a>
+          </div>
+        `;
+      }
+
+      if (!result) {
+        if (matchGrammar) {
+          modalDictResultContent.innerHTML = `
+            <div class="modal-dict-card">
+              <div class="modal-dict-card-header">
+                <div class="modal-dict-card-word">
+                  <span>${matchGrammar.name}</span>
+                </div>
+                <span class="modal-dict-card-badge">JLPT N2 文法</span>
+              </div>
+              <div class="modal-dict-card-meaning">${matchGrammar.meaning_en}</div>
+              ${grammarLinkHtml}
+            </div>
+          `;
+          return;
+        }
+        modalDictResultContent.innerHTML = `<div style="padding:16px;color:var(--text-muted);text-align:center;">「${cleanQ}」に該当する単語が見つかりませんでした。</div>`;
+        return;
+      }
+
+      const escapedTerm = result.term.replace(/'/g, "\'");
+      const readingPart = (result.reading && result.reading !== result.term)
+        ? `<span class="modal-dict-card-reading">（${result.reading}）</span>`
+        : '';
+
+      let exHtml = '';
+      if (result.example_ja) {
+        const plainEx = result.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\'");
+        exHtml = `
+          <div class="modal-dict-card-ex-box">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div class="modal-dict-card-ex-ja">${result.example_ja}</div>
+              <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
+            </div>
+            ${result.example_en ? `<div class="modal-dict-card-ex-en">${result.example_en}</div>` : ''}
+          </div>
+        `;
+      }
+
+      const isSaved = isTermSavedInMylist(result.term);
+      const mylistBtnHtml = `
+        <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
+          ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
+        </button>
+      `;
+
+      modalDictResultContent.innerHTML = `
+        <div class="modal-dict-card">
+          <div class="modal-dict-card-header">
+            <div class="modal-dict-card-word">
+              <span>${result.term}</span>
+              ${readingPart}
+              <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+            </div>
+            <div style="display:flex;align-items:center;gap:6px;">
+              ${mylistBtnHtml}
+              <span class="modal-dict-card-badge">${result.level}</span>
+            </div>
+          </div>
+          <div class="modal-dict-card-meaning">${result.meaning}</div>
+          ${exHtml}
+          ${grammarLinkHtml}
+        </div>
+      `;
+    }
+
+    function openDictModal(term = '') {
+      if (!modalDictOverlay) return;
+      modalDictOverlay.style.display = 'flex';
+      const cleanQ = cleanSearchWord(term);
+      if (modalDictSearchInput) {
+        modalDictSearchInput.value = cleanQ;
+      }
+      if (cleanQ) {
+        renderDictLookup(cleanQ);
+      } else if (modalDictResultContent) {
+        modalDictResultContent.innerHTML = '<div style="padding:16px;color:var(--text-muted);text-align:center;">検索したい言葉を入力してください。</div>';
+      }
+    }
+
+    function closeDictModal() {
+      if (modalDictOverlay) modalDictOverlay.style.display = 'none';
+    }
+
+    if (btnCloseDictModal) btnCloseDictModal.addEventListener('click', closeDictModal);
+    if (modalDictOverlay) {
+      modalDictOverlay.addEventListener('click', (e) => {
+        if (e.target === modalDictOverlay) closeDictModal();
+      });
+    }
+    if (btnHeaderDictSearch) {
+      btnHeaderDictSearch.addEventListener('click', () => openDictModal());
+    }
+    if (btnExecuteDictSearch) {
+      btnExecuteDictSearch.addEventListener('click', () => {
+        if (modalDictSearchInput) renderDictLookup(modalDictSearchInput.value);
+      });
+    }
+    if (modalDictSearchInput) {
+      modalDictSearchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') renderDictLookup(modalDictSearchInput.value);
+      });
+    }
+
+    // Direct MyList Toggle
+    window.toggleDictCardMylist = function(term, btnElem) {
+      const clean = cleanSearchWord(term);
+      const isSaved = isTermSavedInMylist(clean);
+      let list = [];
+      try {
+        list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+      } catch(e) { list = []; }
+
+      if (isSaved) {
+        list = list.filter(item => item.word !== clean && item.reading !== clean);
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+        if (btnElem) {
+          btnElem.className = 'modal-dict-mylist-btn';
+          btnElem.textContent = '⭐ マイリストに追加';
+        }
+        showToast(`「${clean}」をマイリストから削除しました`);
+      } else {
+        const itemData = searchDictionary(clean) || { term: clean, reading: clean, meaning: '登録単語' };
+        list.push({
+          id: 'dict_' + Date.now(),
+          word: itemData.term,
+          reading: itemData.reading || itemData.term,
+          meaning: itemData.meaning || '',
+          level: itemData.level || 'JLPT N2',
+          addedAt: new Date().toISOString()
+        });
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+        if (btnElem) {
+          btnElem.className = 'modal-dict-mylist-btn saved';
+          btnElem.textContent = '⭐ マイリスト保存済み';
+        }
+        showToast(`「${clean}」をマイリストに保存しました！`);
+      }
+    };
+
+    // Text Selection Tooltip
+    const selectionTooltip = document.getElementById('selectionDictTooltip');
+    const btnSearchSelection = document.getElementById('btnSearchSelection');
+    let currentSelectedText = '';
+
+    document.addEventListener('selectionchange', () => {
+      const sel = window.getSelection();
+      const str = sel ? sel.toString().trim() : '';
+      if (!str || str.length === 0 || str.length > 30) {
+        if (selectionTooltip) selectionTooltip.style.display = 'none';
+        return;
+      }
+      currentSelectedText = str;
+      try {
+        const range = sel.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+        if (rect && rect.width > 0 && selectionTooltip) {
+          selectionTooltip.style.display = 'block';
+          selectionTooltip.style.top = `${window.scrollY + rect.top - 40}px`;
+          selectionTooltip.style.left = `${window.scrollX + rect.left + (rect.width / 2) - 55}px`;
+        }
+      } catch(e) {}
+    });
+
+    if (btnSearchSelection) {
+      btnSearchSelection.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        if (currentSelectedText) {
+          openDictModal(currentSelectedText);
+          if (selectionTooltip) selectionTooltip.style.display = 'none';
+        }
+      });
+    }
+
+    // Copy Snackbar
+    const copySnackbar = document.getElementById('copyDictSnackbar');
+    const copySnackWord = document.getElementById('copySnackWord');
+    const btnCopySnackSearch = document.getElementById('btnCopySnackSearch');
+    const btnCloseCopySnack = document.getElementById('btnCloseCopySnack');
+    let lastCopiedWord = '';
+
+    document.addEventListener('copy', () => {
+      const sel = window.getSelection();
+      const selText = sel ? sel.toString().trim() : '';
+      if (selText && selText.length > 0 && selText.length <= 30) {
+        lastCopiedWord = selText;
+        if (copySnackWord) copySnackWord.textContent = selText;
+        if (copySnackbar) {
+          copySnackbar.style.display = 'flex';
+          clearTimeout(window._copySnackTimer);
+          window._copySnackTimer = setTimeout(() => {
+            if (copySnackbar) copySnackbar.style.display = 'none';
+          }, 5000);
+        }
+      }
+    });
+
+    if (btnCopySnackSearch) {
+      btnCopySnackSearch.addEventListener('click', () => {
+        if (lastCopiedWord) {
+          openDictModal(lastCopiedWord);
+          if (copySnackbar) copySnackbar.style.display = 'none';
+        }
+      });
+    }
+
+    if (btnCloseCopySnack) {
+      btnCloseCopySnack.addEventListener('click', () => {
+        if (copySnackbar) copySnackbar.style.display = 'none';
+      });
+    }
+
+    // Initial Load
+    window.addEventListener('DOMContentLoaded', () => {
+      updateProgress();
+      renderSidebar();
+      selectGrammar(1); // Load #1 あげく by default
+    });
+  </script>
+</body>
+</html>
