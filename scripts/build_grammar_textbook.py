@@ -578,28 +578,34 @@ html_content = '''<!DOCTYPE html>
       font-weight: 800;
       color: var(--primary-blue-dark);
       background: var(--primary-blue-pale);
-      border: 1px solid var(--primary-blue-border);
-      padding: 4px 11px;
-      border-radius: 6px;
-      margin-bottom: 12px;
+      border: 1.5px solid var(--primary-blue-border);
+      padding: 5px 13px;
+      border-radius: 8px;
+      margin-bottom: 14px;
     }
 
-    .section-tag.pink {
-      color: var(--sakura-pink-deep);
-      background: var(--sakura-pink-bg);
-      border-color: var(--sakura-pink-border);
+    .section-tag.blue {
+      color: #0E7490;
+      background: #EDF7F9;
+      border-color: #A1D6E2;
     }
 
-    /* Connection Box */
+    .section-tag.amber {
+      color: #B45309;
+      background: #FFFBEB;
+      border-color: #FDE68A;
+    }
+
+    /* Connection Box (清潔感のあるホワイト×シアンアクセント) */
     .connection-box {
-      background: var(--sakura-pink-soft);
+      background: #FFFFFF;
       border-left: 4px solid var(--primary-blue);
-      padding: 16px 18px;
+      padding: 16px 20px;
       border-radius: 0 12px 12px 0;
       font-size: 14px;
-      border-top: 1px solid var(--sakura-pink-border);
-      border-right: 1px solid var(--sakura-pink-border);
-      border-bottom: 1px solid var(--sakura-pink-border);
+      border-top: 1px solid #E2ECF2;
+      border-right: 1px solid #E2ECF2;
+      border-bottom: 1px solid #E2ECF2;
     }
 
     .connection-formula {
@@ -624,13 +630,14 @@ html_content = '''<!DOCTYPE html>
     }
 
     .bilingual-card.nuance {
-      background: var(--primary-blue-pale);
-      border: 1px solid var(--primary-blue-border);
+      background: #F0FDF4; /* 爽やかなミントグリーン */
+      border: 1.5px solid #BBF7D0;
     }
 
+    /* ⚠️ 英語直訳の落とし穴：注意・警告なのでイエローゴールドに改善！ */
     .bilingual-card.trap {
-      background: var(--sakura-pink-soft);
-      border: 1px solid var(--sakura-pink-border);
+      background: #FFFBEB; /* 温かみのある注意イエロー */
+      border: 1.5px solid #FDE68A;
     }
 
     .bilingual-header {
@@ -643,11 +650,11 @@ html_content = '''<!DOCTYPE html>
     }
 
     .bilingual-card.nuance .bilingual-header {
-      color: var(--primary-blue-dark);
+      color: #166534; /* 深いエメラルドグリーン */
     }
 
     .bilingual-card.trap .bilingual-header {
-      color: var(--sakura-pink-deep);
+      color: #B45309; /* アンバーブラウン */
     }
 
     .content-ja {
@@ -661,14 +668,15 @@ html_content = '''<!DOCTYPE html>
     .content-en {
       font-size: 13px;
       font-weight: 500;
-      color: var(--text-secondary);
+      color: #4B5563;
       line-height: 1.65;
       padding-top: 12px;
-      border-top: 1px dashed rgba(25, 149, 173, 0.25);
+      border-top: 1px dashed rgba(22, 101, 52, 0.2);
     }
 
     .bilingual-card.trap .content-en {
-      border-top-color: rgba(184, 89, 110, 0.25);
+      border-top-color: rgba(180, 83, 9, 0.25);
+      color: #78350F;
     }
 
     /* Contrast Cards (改行崩れ・窮屈さを完全解消した独立カード構造) */
@@ -683,18 +691,18 @@ html_content = '''<!DOCTYPE html>
       background: #FFFFFF;
       border-radius: 12px;
       padding: 14px 18px;
-      border: 1px solid var(--sakura-pink-border);
+      border: 1px solid #F3F4F6;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
     }
 
     .contrast-card.wrong {
-      border-left: 4px solid var(--sakura-pink-deep);
+      border-left: 4px solid #EF4444; /* クリアな警告レッド */
       background: #FFFBFB;
     }
 
     .contrast-card.correct {
-      border-left: 4px solid var(--primary-blue);
-      background: #FDFEFE;
+      border-left: 4px solid #10B981; /* クリアな正解グリーン */
+      background: #F0FDF4;
     }
 
     .contrast-card-top {
@@ -763,12 +771,12 @@ html_content = '''<!DOCTYPE html>
       border-top: 1px dashed var(--sakura-pink-border);
     }
 
-    /* Comparison Table (サクラピンク×シアン) */
+    /* Comparison Table (青系ヘッダーで視認性を大幅向上) */
     .comparison-table-wrap {
       overflow-x: auto;
       margin-bottom: 24px;
       border-radius: 12px;
-      border: 1px solid var(--sakura-pink-border);
+      border: 1.5px solid #E2ECF2;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
       background: #FFFFFF;
     }
@@ -782,17 +790,17 @@ html_content = '''<!DOCTYPE html>
     }
 
     .comparison-table th {
-      background: var(--sakura-pink-bg);
-      color: var(--point-navy);
+      background: #EDF7F9; /* シアン青系の上品なヘッダー背景 */
+      color: var(--primary-blue-dark);
       font-weight: 800;
       text-align: left;
       padding: 12px 14px;
-      border-bottom: 2px solid var(--sakura-pink-border);
+      border-bottom: 2px solid #A1D6E2;
     }
 
     .comparison-table td {
       padding: 14px;
-      border-bottom: 1px solid var(--sakura-pink-bg);
+      border-bottom: 1px solid #F1F5F9;
       vertical-align: top;
       line-height: 1.9;
     }
@@ -802,41 +810,41 @@ html_content = '''<!DOCTYPE html>
     }
 
     .badge-result-bad {
-      background: #FAF1F3;
-      color: var(--sakura-pink-deep);
+      background: #FEF2F2;
+      color: #DC2626;
       font-weight: 800;
       font-size: 11px;
       padding: 2px 7px;
       border-radius: 4px;
       display: inline-block;
       margin-bottom: 4px;
-      border: 1px solid var(--sakura-pink-border);
+      border: 1px solid #FECACA;
       white-space: nowrap;
     }
 
     .badge-result-both {
-      background: var(--primary-blue-pale);
-      color: var(--primary-blue-dark);
+      background: #EDF7F9;
+      color: #127285;
       font-weight: 800;
       font-size: 11px;
       padding: 2px 7px;
       border-radius: 4px;
       display: inline-block;
       margin-bottom: 4px;
-      border: 1px solid var(--primary-blue-border);
+      border: 1px solid #A1D6E2;
       white-space: nowrap;
     }
 
     .badge-result-neutral {
-      background: #EEF4FC;
-      color: var(--point-navy);
+      background: #F1F5F9;
+      color: #475569;
       font-weight: 800;
       font-size: 11px;
       padding: 2px 7px;
       border-radius: 4px;
       display: inline-block;
       margin-bottom: 4px;
-      border: 1px solid var(--point-ice);
+      border: 1px solid #CBD5E1;
       white-space: nowrap;
     }
 
@@ -847,7 +855,7 @@ html_content = '''<!DOCTYPE html>
       line-height: 1.4;
     }
 
-    /* Examples List */
+    /* Examples List (ピンク被りをなくし、クリーンな白背景とスレート枠で文字を最も読みやすく) */
     .examples-list {
       display: flex;
       flex-direction: column;
@@ -856,19 +864,22 @@ html_content = '''<!DOCTYPE html>
     }
 
     .example-item-card {
-      background: var(--sakura-pink-soft);
-      border: 1px solid var(--sakura-pink-border);
+      background: #FFFFFF; /* スッキリした純白背景 */
+      border: 1.5px solid #E2E8F0;
       border-radius: 12px;
-      padding: 14px 18px;
+      padding: 16px 20px;
       display: flex;
       align-items: flex-start;
-      gap: 14px;
-      transition: background 0.15s;
+      gap: 16px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
     .example-item-card:hover {
-      background: #FFFFFF;
+      background: #F8FAFC;
       border-color: var(--primary-blue-border);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(25, 149, 173, 0.08);
     }
 
     .example-tts-btn {
@@ -912,11 +923,11 @@ html_content = '''<!DOCTYPE html>
       line-height: 1.5;
     }
 
-    /* Mini Exercise Check (理解度チェック 4〜5問) */
+    /* Mini Exercise Check (スレートネイビー系でテストエリアを引き締める) */
     .quiz-section {
-      background: var(--sakura-pink-soft);
-      border: 1px solid var(--sakura-pink-border);
-      border-radius: 14px;
+      background: #F8FAFC;
+      border: 1.5px solid #E2ECF2;
+      border-radius: 16px;
       padding: 24px;
       margin-top: 28px;
     }
@@ -1977,7 +1988,7 @@ html_content = '''<!DOCTYPE html>
 
           <!-- 5. Practical Examples -->
           <section class="section-block">
-            <div class="section-tag pink">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
+            <div class="section-tag blue">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
             <div class="examples-list" id="lessonExamplesList"></div>
           </section>
 
@@ -2133,7 +2144,7 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
+          <div class="section-tag blue">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
           <div class="comparison-table-wrap">
             <table class="comparison-table">
               <thead>
@@ -2230,7 +2241,7 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag">🔍 関連・類似表現 (Related Expressions)</div>
+          <div class="section-tag blue">🔍 関連・類似表現 (Related Expressions)</div>
           <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:14px; font-size:13.5px;">
             ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
           </div>
