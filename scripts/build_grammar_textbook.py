@@ -395,7 +395,7 @@ html_content = '''<!DOCTYPE html>
 
     .cat-grammar-list {
       display: none;
-      background: var(--sakura-pink-soft);
+      background: #FFFFFF; /* 選択以外は白 */
       border-top: 1px solid var(--sakura-pink-border);
       padding: 4px 0;
     }
@@ -409,6 +409,7 @@ html_content = '''<!DOCTYPE html>
       font-size: 13px;
       font-weight: 600;
       color: var(--text-primary);
+      background: #FFFFFF; /* 未選択項目は白 */
       cursor: pointer;
       display: flex;
       align-items: center;
@@ -417,13 +418,13 @@ html_content = '''<!DOCTYPE html>
     }
 
     .cat-grammar-item:hover {
-      background: #FFFFFF;
+      background: var(--sakura-pink-soft);
       color: var(--primary-blue-dark);
       padding-left: 28px;
     }
 
     .cat-grammar-item.active {
-      background: var(--primary-blue-pale);
+      background: var(--primary-blue-pale) !important; /* 選択しているところは青のまま */
       color: var(--primary-blue-dark);
       font-weight: 800;
       border-left: 4px solid var(--primary-blue);
@@ -630,8 +631,8 @@ html_content = '''<!DOCTYPE html>
     }
 
     .bilingual-card.nuance {
-      background: #F0FDF4; /* 爽やかなミントグリーン */
-      border: 1.5px solid #BBF7D0;
+      background: var(--primary-blue-pale); /* コアニュアンスは青 */
+      border: 1.5px solid var(--primary-blue-border);
     }
 
     /* ⚠️ 英語直訳の落とし穴：注意・警告なのでイエローゴールドに改善！ */
@@ -650,7 +651,7 @@ html_content = '''<!DOCTYPE html>
     }
 
     .bilingual-card.nuance .bilingual-header {
-      color: #166534; /* 深いエメラルドグリーン */
+      color: var(--primary-blue-dark); /* 青のタイトル */
     }
 
     .bilingual-card.trap .bilingual-header {
@@ -668,10 +669,10 @@ html_content = '''<!DOCTYPE html>
     .content-en {
       font-size: 13px;
       font-weight: 500;
-      color: #4B5563;
+      color: var(--text-secondary);
       line-height: 1.65;
       padding-top: 12px;
-      border-top: 1px dashed rgba(22, 101, 52, 0.2);
+      border-top: 1px dashed rgba(25, 149, 173, 0.25);
     }
 
     .bilingual-card.trap .content-en {
@@ -687,22 +688,23 @@ html_content = '''<!DOCTYPE html>
       margin-top: 14px;
     }
 
+    /* 対比カード：3つの枠の中の背景は白、左側ボーダーはピンクと青 */
     .contrast-card {
-      background: #FFFFFF;
+      background: #FFFFFF !important; /* 3つの枠の中の背景はすべて白 */
       border-radius: 12px;
       padding: 14px 18px;
-      border: 1px solid #F3F4F6;
+      border: 1px solid var(--sakura-pink-border);
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
     }
 
     .contrast-card.wrong {
-      border-left: 4px solid #EF4444; /* クリアな警告レッド */
-      background: #FFFBFB;
+      border-left: 4.5px solid var(--sakura-pink-deep) !important; /* 左側はピンク */
+      background: #FFFFFF !important;
     }
 
     .contrast-card.correct {
-      border-left: 4px solid #10B981; /* クリアな正解グリーン */
-      background: #F0FDF4;
+      border-left: 4.5px solid var(--primary-blue) !important; /* 左側は青 */
+      background: #FFFFFF !important;
     }
 
     .contrast-card-top {
@@ -725,24 +727,24 @@ html_content = '''<!DOCTYPE html>
 
     .contrast-pill.wrong {
       background: #FAF1F3;
-      color: var(--sakura-pink-deep);
+      color: var(--sakura-pink-deep); /* ぴんく */
       border: 1px solid var(--sakura-pink-border);
     }
 
     .contrast-pill.correct {
       background: var(--primary-blue-pale);
-      color: var(--primary-blue-dark);
+      color: var(--primary-blue-dark); /* 青 */
       border: 1px solid var(--primary-blue-border);
     }
 
     .contrast-reason-chip {
       font-size: 12px;
       font-weight: 700;
-      color: var(--sakura-pink-deep);
+      color: var(--sakura-pink-deep); /* ぴんく */
     }
 
     .contrast-reason-chip.success {
-      color: var(--primary-blue-dark);
+      color: var(--primary-blue-dark); /* 青 */
     }
 
     .contrast-sentence {
@@ -754,13 +756,13 @@ html_content = '''<!DOCTYPE html>
     }
 
     .contrast-sentence strong {
-      color: var(--primary-blue);
+      color: var(--primary-blue); /* 青 */
       text-decoration: underline;
       text-underline-offset: 4px;
     }
 
     .contrast-card.wrong .contrast-sentence strong {
-      color: var(--sakura-pink-deep);
+      color: var(--sakura-pink-deep); /* ぴんく */
     }
 
     .contrast-en-note {
@@ -923,11 +925,11 @@ html_content = '''<!DOCTYPE html>
       line-height: 1.5;
     }
 
-    /* Mini Exercise Check (スレートネイビー系でテストエリアを引き締める) */
+    /* Mini Exercise Check (さっきの淡いサクラピンクに戻す) */
     .quiz-section {
-      background: #F8FAFC;
-      border: 1.5px solid #E2ECF2;
-      border-radius: 16px;
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 14px;
       padding: 24px;
       margin-top: 28px;
     }
