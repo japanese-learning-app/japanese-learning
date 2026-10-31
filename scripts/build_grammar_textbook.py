@@ -847,6 +847,55 @@ html_content = '''<!DOCTYPE html>
       line-height: 1.4;
     }
 
+    /* Similar Words Section (一番下の似た単語並べ) */
+    .similar-words-box {
+      background: #FFFFFF;
+      border: 1.5px solid var(--primary-blue-border);
+      border-radius: 12px;
+      padding: 18px 20px;
+      box-shadow: 0 4px 16px rgba(25, 149, 173, 0.05);
+    }
+
+    .similar-words-lead {
+      font-size: 13.5px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: block;
+    }
+
+    .similar-words-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .similar-word-pill {
+      background: var(--primary-blue-pale);
+      border: 1.5px solid var(--primary-blue-border);
+      color: var(--primary-blue-dark);
+      font-size: 14px;
+      font-weight: 700;
+      padding: 7px 16px;
+      border-radius: 20px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      font-family: inherit;
+      box-shadow: 0 2px 6px rgba(25, 149, 173, 0.06);
+    }
+
+    .similar-word-pill:hover {
+      background: var(--primary-blue);
+      border-color: var(--primary-blue);
+      color: #FFFFFF;
+      transform: translateY(-2px);
+      box-shadow: 0 5px 14px rgba(25, 149, 173, 0.25);
+    }
+
     /* Examples List (ピンク被りをなくし、クリーンな白背景とスレート枠で文字を最も読みやすく) */
     .examples-list {
       display: flex;
@@ -1719,6 +1768,49 @@ html_content = '''<!DOCTYPE html>
       renderSidebar();
     }
 
+    // Accurate Hiragana Readings for all 195 JLPT N2 Grammars
+    const GRAMMAR_HIRAGANA_MAP = {
+      1: 'あげく', 2: 'あるいは', 3: 'ばかり', 4: 'ばかりだ', 5: 'ばかりか',
+      6: 'ばかりに', 7: 'ちなみに', 8: 'ちっとも〜ない', 9: 'だけあって', 10: 'だけましだ',
+      11: 'だけに', 12: 'だけのことはある', 13: 'だけは', 14: 'だって', 15: 'でしかない',
+      16: 'どころではない', 17: 'どころか', 18: 'どうやら', 19: 'どうせ', 20: 'えない',
+      21: 'える / うる', 22: 'ふたたび', 23: 'ふうに', 24: 'がきっかけで / をきっかけに', 25: 'げ',
+      26: 'ぎゃくに', 27: 'はんめん', 28: 'はたして', 29: 'いちおう', 30: 'いがい',
+      31: 'いじょうに', 32: 'いじょうは', 33: 'いきなり', 34: 'いっきに', 35: 'いっぽうで',
+      36: 'いわゆる', 37: 'いよいよ', 38: 'じょう', 39: 'かのよう', 40: 'かとおもったら',
+      41: 'か〜ないかのうちに', 42: 'かえって', 43: 'かぎり', 44: 'かいがある', 45: 'かねない',
+      46: 'かねる', 47: 'からいうと', 48: 'からこそ', 49: 'からみると', 50: 'からには',
+      51: 'からして', 52: 'からすると / からすれば', 53: 'からといって', 54: 'っこない', 55: 'ことだ',
+      56: 'ことだから', 57: 'ことか', 58: 'ことなく', 59: 'ことに', 60: 'ことにはならない',
+      61: 'くせして', 62: 'まだしも', 63: 'まい', 64: 'ままに', 65: 'まったく〜ない',
+      66: 'もかまわず', 67: 'もとうぜんだ', 68: 'もの / もん', 69: 'ものだ', 70: 'ものだから',
+      71: 'ものではない', 72: 'ものがある', 73: 'ものか / もんか', 74: 'ものなら', 75: 'ものの',
+      76: 'もっとも', 77: 'もうすこしで', 78: 'ないではいられない', 79: 'ないことには〜ない', 80: 'なかを / なかでは',
+      81: 'なくはない', 82: 'なくてすむ', 83: 'なにも〜ない', 84: 'なお', 85: 'ねばならない',
+      86: 'にあたって', 87: 'にほかならない', 88: 'にかぎらず', 89: 'にかぎる', 90: 'にかぎって',
+      91: 'にかかわらず', 92: 'にかかわる', 93: 'にきまっている', 94: 'にこしたことはない', 95: 'にこたえて',
+      96: 'にくわえて', 97: 'にもとづいて', 98: 'にむかって', 99: 'におうじて', 100: 'にさいして',
+      101: 'にさきだち', 102: 'にせよ / にしろ', 103: 'にしろ〜にしろ', 104: 'にしたら / にすれば', 105: 'にしても〜にしても',
+      106: 'にそって', 107: 'にそういない', 108: 'にすぎない', 109: 'にともなって', 110: 'につけ',
+      111: 'につき', 112: 'にわたって', 113: 'にもかかわらず', 114: 'にて', 115: 'のももっともだ',
+      116: 'のもとで', 117: 'のうえでは', 118: 'のみならず', 119: 'ぬ', 120: 'ぬきにして / ぬきで',
+      121: 'ぬく', 122: 'をけいきに', 123: 'をめぐって', 124: 'をもとに', 125: 'をのぞいて',
+      126: 'をとわず', 127: 'お〜ねがう', 128: 'おまけに', 129: 'おそらく', 130: 'おそれがある',
+      131: 'および', 132: 'ろくに〜ない', 133: 'さいわいなことに', 134: 'せいか', 135: 'せっかく',
+      136: 'せめて', 137: 'しだい', 138: 'しだいで', 139: 'しだいに', 140: 'しかも',
+      141: 'そのうえ', 142: 'それなのに', 143: 'それなら', 144: 'それにしても', 145: 'そういえば',
+      146: 'そうすると', 147: 'すえに', 148: 'すこしも〜ない', 149: 'すくなくとも', 150: 'ただちに',
+      151: 'たまえ', 152: 'てばかりはいられない', 153: 'てでも', 154: 'ていらい', 155: 'ていては',
+      156: 'てこそ', 157: 'てまで', 158: 'てならない', 159: 'てたまらない', 160: 'てとうぜんだ',
+      161: 'ては / では', 162: 'てはいられない', 163: 'てはならない', 164: 'ては〜ては', 165: 'とどうじに',
+      166: 'といった', 167: 'というふうに', 168: 'ということは', 169: 'というものだ', 170: 'というものではない',
+      171: 'とかんがえられる', 172: 'とか(で)', 173: 'とっくに', 174: 'ところだった', 175: 'ところに',
+      176: 'ところをみると', 177: 'とも', 178: 'としても', 179: 'つつ', 180: 'つつある',
+      181: 'うえは', 182: 'はもとより', 183: 'はともかく', 184: 'わずかに', 185: 'やがて',
+      186: 'やら〜やら', 187: 'よほど / よっぽど', 188: 'より', 189: 'よりほかない', 190: 'ようでは',
+      191: 'ようではないか', 192: 'ようか〜まいか', 193: 'ようするに', 194: 'ざるをえない', 195: 'ずにすむ'
+    };
+
     // Grammar Dictionary extracted from JLPT_N2_QUIZ_DATA
     const grammarMap = new Map();
     const grammarQuestionsMap = new Map();
@@ -1731,6 +1823,7 @@ html_content = '''<!DOCTYPE html>
             id: gid,
             name: q.grammar,
             reading: q.reading || '',
+            reading_hiragana: GRAMMAR_HIRAGANA_MAP[gid] || '',
             meaning_en: q.meaning_en || '',
             similar: q.similar || '',
             sample_sentence_ja: q.sentence_jp_ruby || q.sentence_jp,
@@ -1876,7 +1969,7 @@ html_content = '''<!DOCTYPE html>
           if (searchQuery) {
             const q = searchQuery.toLowerCase();
             const matchName = g.name.toLowerCase().includes(q);
-            const matchReading = g.reading.toLowerCase().includes(q);
+            const matchReading = (g.reading && g.reading.toLowerCase().includes(q)) || (g.reading_hiragana && g.reading_hiragana.includes(q));
             const matchMeaning = g.meaning_en.toLowerCase().includes(q);
             if (!matchName && !matchReading && !matchMeaning) return false;
           }
@@ -2229,12 +2322,54 @@ html_content = '''<!DOCTYPE html>
                 </tr>
               </tbody>
             </table>
+            <div style="margin-top: 18px;">
+              <span class="similar-words-lead">💡 似たニュアンスを持つ表現や言い換え表現です（クリックで辞書検索）：</span>
+              <div class="similar-words-grid">
+                <button type="button" class="similar-word-pill" onclick="openDictModal('末に')">末に</button>
+                <button type="button" class="similar-word-pill" onclick="openDictModal('結果')">結果</button>
+                <button type="button" class="similar-word-pill" onclick="openDictModal('とうとう')">とうとう</button>
+                <button type="button" class="similar-word-pill" onclick="openDictModal('ついに')">ついに</button>
+                <button type="button" class="similar-word-pill" onclick="openDictModal('たところ')">～たところ</button>
+                <button type="button" class="similar-word-pill" onclick="openDictModal('挙句の果てに')">挙句の果てに</button>
+              </div>
+            </div>
           </div>
         `;
       } else {
         // Universal Standard Layout for any of the 195 Grammars
-        formulaEl.innerHTML = `文法形式: <strong>${g.name}</strong> （${g.reading || ''}）`;
-        notesEl.innerHTML = g.similar ? `関連・類似表現: ${g.similar}` : '文脈に応じた適切な接続形に注意しましょう。';
+        const readingH = GRAMMAR_HIRAGANA_MAP[gid] || '';
+        const hasKanji = /[\u4e00-\u9faf]/.test(g.name);
+        const readingHtml = (hasKanji && readingH) ? ` （${readingH}）` : '';
+
+        // Form & Connection
+        if (gid === 121) {
+          formulaEl.innerHTML = `動詞［ます形（語幹）］ ＋ <strong>抜く</strong> （ぬく）`;
+          notesEl.innerHTML = `※動詞のマス形（語幹）に直接接続し、「苦難や長い道のりを乗り越えて最後までやり抜く・極限まで達する」ことを表します。（例：やり抜く、走り抜く、生き抜く、耐え抜く）`;
+        } else if (gid === 86) {
+          formulaEl.innerHTML = `動詞［辞書形］ / 名詞 ＋ <strong>にあたって</strong>`;
+          notesEl.innerHTML = `※「〜という特別な機会・重大な局面を迎える際に」という意味で、公的な場や改まった挨拶で多く用いられます。`;
+        } else if (gid === 147) {
+          formulaEl.innerHTML = `動詞［た形］ / 名詞 ＋ の ＋ <strong>末に</strong> （すえに）`;
+          notesEl.innerHTML = `※「長い苦労や葛藤、議論を経た最終的な結論」を表します。「あげく」と異なり、良い結果・悪い結果の双方に使用可能です。`;
+        } else if (gid === 27) {
+          formulaEl.innerHTML = `普通形（な形＋な/である・名詞＋である） ＋ <strong>反面</strong> （はんめん）`;
+          notesEl.innerHTML = `※同一の対象が持つ「対照的な二つの側面（プラス面とマイナス面）」を対比して述べる時に使います。`;
+        } else if (gid === 194) {
+          formulaEl.innerHTML = `動詞［ない形（語幹）］ ＋ <strong>ざるを得ない</strong> （ざるをえない）`;
+          notesEl.innerHTML = `※「そうしたくはないが、状況や立場からどうしても〜しなければならない」という義務感・やむを得ない気持ちを表します（する➔せざるを得ない）。`;
+        } else if (gid === 130) {
+          formulaEl.innerHTML = `動詞［辞書形］ / 名詞 ＋ の ＋ <strong>恐れがある</strong> （おそれがある）`;
+          notesEl.innerHTML = `※「〜という好ましくない事態・危険が発生する可能性がある」とニュースや警告で用いられます。`;
+        } else if (gid === 180) {
+          formulaEl.innerHTML = `動詞［ます形（語幹）］ ＋ <strong>つつある</strong>`;
+          notesEl.innerHTML = `※「ある変化が今まさに徐々に進行している」ことを表す硬い書き言葉的表現です。`;
+        } else if (gid === 195) {
+          formulaEl.innerHTML = `動詞［ない形（ず）］ ＋ <strong>に済む</strong> （ずにすむ）`;
+          notesEl.innerHTML = `※「本来ならしなければならなかった負担や嫌なことを、しなくて解決した」という安堵感を表します（する➔せずに済む）。`;
+        } else {
+          formulaEl.innerHTML = `文法形式: <strong>${g.name}</strong>${readingHtml}`;
+          notesEl.innerHTML = `※前後の接続関係や文脈に応じた適切な活用形（動詞・名詞・形容詞）に注意して使いましょう。`;
+        }
 
         nuanceEl.innerHTML = `
           <div class="bilingual-header">
@@ -2260,10 +2395,20 @@ html_content = '''<!DOCTYPE html>
           </div>
         `;
 
+        // 似た単語を一番下に並べる（クリックで辞書検索）
+        const similarWords = (g.similar || '').split(/[、,／/]+/).map(s => s.trim()).filter(Boolean);
+        const pillsHtml = similarWords.map(w => {
+          const cleanW = w.replace(/[〜～]/g, '').trim();
+          return `<button type="button" class="similar-word-pill" onclick="openDictModal('${cleanW || w}')">${w}</button>`;
+        }).join('');
+
         compEl.innerHTML = `
-          <div class="section-tag">🔍 関連・類似表現 (Related Expressions)</div>
-          <div style="background:#FFFFFF; border:1.5px solid #E2E8F0; border-radius:12px; padding:16px 20px; font-size:14px; line-height:1.8; color:var(--text-primary); box-shadow:0 2px 6px rgba(0,0,0,0.02);">
-            ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
+          <div class="section-tag">🔍 似た文法・関連表現 (Similar Words & Expressions)</div>
+          <div class="similar-words-box">
+            <span class="similar-words-lead">💡 似たニュアンスを持つ表現や言い換え表現です（クリックで辞書検索）：</span>
+            <div class="similar-words-grid">
+              ${pillsHtml || '<span style="color:var(--text-muted);font-size:13.5px;">文脈に応じた表現の使い分けに注意しましょう。</span>'}
+            </div>
           </div>
         `;
       }
