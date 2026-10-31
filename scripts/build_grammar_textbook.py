@@ -2002,26 +2002,20 @@ html_content = '''<!DOCTYPE html>
             </div>
           </section>
 
-          <!-- 2. Core Nuance (Bilingual) -->
-          <section class="bilingual-card nuance" id="lessonNuanceSection"></section>
-
-          <!-- 3. English Pitfalls (Contrast Cards) -->
-          <section class="bilingual-card trap" id="lessonTrapSection"></section>
-
-          <!-- 4. Comparison Table with Similar Grammar (大枠ピンク背景コンテナ) -->
-          <section class="textbook-section-box" id="lessonComparisonSection"></section>
-
-          <!-- 5. Practical Examples (理解度チェックと同じ見出しスタイル) -->
-          <section class="textbook-section-box">
-            <div class="box-section-header">
-              <div class="box-section-title">
-                <span>📝 実践例文</span>
-                <span class="box-section-sub">Example Sentences (Click 🔊 to Listen)</span>
-              </div>
-              <span style="font-size:12px;color:var(--text-muted);">単語を選択すると辞書検索できます</span>
-            </div>
+          <!-- 2. Practical Examples (接続のすぐ下・枠なし・接続と同じ青タグ見出し) -->
+          <section class="section-block">
+            <div class="section-tag">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
             <div class="examples-list" id="lessonExamplesList"></div>
           </section>
+
+          <!-- 3. Core Nuance (Bilingual) -->
+          <section class="bilingual-card nuance" id="lessonNuanceSection"></section>
+
+          <!-- 4. English Pitfalls (Contrast Cards) -->
+          <section class="bilingual-card trap" id="lessonTrapSection"></section>
+
+          <!-- 5. Comparison Table with Similar Grammar (大枠ピンク背景コンテナ) -->
+          <section class="textbook-section-box" id="lessonComparisonSection"></section>
 
           <!-- 6. Mini Quizzes (4-5 Questions with Instant Bilingual Feedback) -->
           <section class="quiz-section">
