@@ -571,6 +571,15 @@ html_content = '''<!DOCTYPE html>
       margin-bottom: 24px;
     }
 
+    /* 統一された大枠コンテナ（理解度チェックと同じ淡いピンク背景 ＋ サクラピンク枠線） */
+    .textbook-section-box {
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 14px;
+      padding: 22px;
+      margin-bottom: 24px;
+    }
+
     .section-tag {
       display: inline-flex;
       align-items: center;
@@ -776,7 +785,7 @@ html_content = '''<!DOCTYPE html>
     /* Comparison Table (青系ヘッダーで視認性を大幅向上) */
     .comparison-table-wrap {
       overflow-x: auto;
-      margin-bottom: 24px;
+      margin-bottom: 0;
       border-radius: 12px;
       border: 1.5px solid #E2ECF2;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
@@ -862,7 +871,7 @@ html_content = '''<!DOCTYPE html>
       display: flex;
       flex-direction: column;
       gap: 12px;
-      margin-bottom: 24px;
+      margin-bottom: 0;
     }
 
     .example-item-card {
@@ -1985,12 +1994,12 @@ html_content = '''<!DOCTYPE html>
           <!-- 3. English Pitfalls (Contrast Cards) -->
           <section class="bilingual-card trap" id="lessonTrapSection"></section>
 
-          <!-- 4. Comparison Table with Similar Grammar -->
-          <section class="section-block" id="lessonComparisonSection"></section>
+          <!-- 4. Comparison Table with Similar Grammar (大枠ピンク背景コンテナ) -->
+          <section class="textbook-section-box" id="lessonComparisonSection"></section>
 
-          <!-- 5. Practical Examples -->
-          <section class="section-block">
-            <div class="section-tag blue">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
+          <!-- 5. Practical Examples (大枠ピンク背景コンテナ ＆ タイトル青) -->
+          <section class="textbook-section-box">
+            <div class="section-tag blue" style="margin-bottom:14px;">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
             <div class="examples-list" id="lessonExamplesList"></div>
           </section>
 
@@ -2146,7 +2155,7 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag blue">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
+          <div class="section-tag blue" style="margin-bottom:14px;">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
           <div class="comparison-table-wrap">
             <table class="comparison-table">
               <thead>
@@ -2243,8 +2252,8 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag blue">🔍 関連・類似表現 (Related Expressions)</div>
-          <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:14px; font-size:13.5px;">
+          <div class="section-tag blue" style="margin-bottom:14px;">🔍 関連・類似表現 (Related Expressions)</div>
+          <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:16px; font-size:13.5px; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
             ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
           </div>
         `;
