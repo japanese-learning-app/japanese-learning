@@ -720,8 +720,8 @@ html_content = '''<!DOCTYPE html>
     .contrast-card-top {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      gap: 10px;
+      justify-content: flex-start; /* 離れずにバッジのすぐ横に理由を配置 */
+      gap: 12px;
       margin-bottom: 8px;
       flex-wrap: wrap;
     }
@@ -2015,8 +2015,8 @@ html_content = '''<!DOCTYPE html>
           <!-- 4. English Pitfalls (Contrast Cards) -->
           <section class="bilingual-card trap" id="lessonTrapSection"></section>
 
-          <!-- 5. Comparison Table with Similar Grammar (大枠ピンク背景コンテナ) -->
-          <section class="textbook-section-box" id="lessonComparisonSection"></section>
+          <!-- 5. Comparison Table with Similar Grammar (枠なし・接続と同じタグ見出し) -->
+          <section class="section-block" id="lessonComparisonSection"></section>
 
           <!-- 6. Mini Quizzes (4-5 Questions with Instant Bilingual Feedback) -->
           <section class="quiz-section">
@@ -2132,7 +2132,7 @@ html_content = '''<!DOCTYPE html>
           <div class="contrast-cards-grid">
             <div class="contrast-card wrong">
               <div class="contrast-card-top">
-                <span class="contrast-pill wrong">❌ 誤用 (Incorrect)</span>
+                <span class="contrast-pill wrong">誤用 (Incorrect)</span>
                 <div class="contrast-reason-bilingual">
                   <span>💡 合格は嬉しい結果なので不自然</span>
                   <span class="contrast-reason-en">/ Unnatural because passing an exam is a positive result</span>
@@ -2144,7 +2144,7 @@ html_content = '''<!DOCTYPE html>
             </div>
             <div class="contrast-card correct">
               <div class="contrast-card-top">
-                <span class="contrast-pill correct">⭕ 正解 (Correct with 〜末に)</span>
+                <span class="contrast-pill correct">正解 (Correct with 〜末に)</span>
                 <div class="contrast-reason-bilingual">
                   <span>💡「〜末に」は良い結果にも使用可能</span>
                   <span class="contrast-reason-en">/ 〜末に can properly be used for positive outcomes</span>
@@ -2156,7 +2156,7 @@ html_content = '''<!DOCTYPE html>
             </div>
             <div class="contrast-card correct">
               <div class="contrast-card-top">
-                <span class="contrast-pill correct">⭕ 正解 (Correct with 〜あげく)</span>
+                <span class="contrast-pill correct">正解 (Correct with 〜あげく)</span>
                 <div class="contrast-reason-bilingual">
                   <span>💡 残念な結末（不合格）なので自然</span>
                   <span class="contrast-reason-en">/ Natural because failing an exam is an unfortunate result</span>
@@ -2170,12 +2170,7 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="box-section-header">
-            <div class="box-section-title">
-              <span>🔍 似た文法との違い・使い分け表</span>
-              <span class="box-section-sub">Comparison with Similar Grammar</span>
-            </div>
-          </div>
+          <div class="section-tag">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
           <div class="comparison-table-wrap">
             <table class="comparison-table">
               <thead>
@@ -2193,7 +2188,7 @@ html_content = '''<!DOCTYPE html>
                     <span class="table-sub-en">to end up doing</span>
                   </td>
                   <td>
-                    <span class="badge-result-bad">❌ 悪い結果限定</span><br>
+                    <span class="badge-result-bad">悪い結果限定</span><br>
                     <span class="table-sub-en">Negative only</span>
                   </td>
                   <td>
@@ -2210,7 +2205,7 @@ html_content = '''<!DOCTYPE html>
                     <span class="table-sub-en">in the end; after...</span>
                   </td>
                   <td>
-                    <span class="badge-result-both">⭕ 良い結果 / ❌ 悪い結果</span><br>
+                    <span class="badge-result-both">良い結果 / 悪い結果</span><br>
                     <span class="table-sub-en">Both Good & Bad</span>
                   </td>
                   <td>
@@ -2227,7 +2222,7 @@ html_content = '''<!DOCTYPE html>
                     <span class="table-sub-en">as a result of</span>
                   </td>
                   <td>
-                    <span class="badge-result-neutral">⚪ 中立（客観的事実）</span><br>
+                    <span class="badge-result-neutral">中立（客観的事実）</span><br>
                     <span class="table-sub-en">Neutral Fact</span>
                   </td>
                   <td>
@@ -2272,13 +2267,8 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="box-section-header">
-            <div class="box-section-title">
-              <span>🔍 関連・類似表現</span>
-              <span class="box-section-sub">Related Expressions</span>
-            </div>
-          </div>
-          <div style="font-size:14px; line-height:1.8; color:var(--text-primary); padding:2px 0;">
+          <div class="section-tag">🔍 関連・類似表現 (Related Expressions)</div>
+          <div style="background:#FFFFFF; border:1.5px solid #E2E8F0; border-radius:12px; padding:16px 20px; font-size:14px; line-height:1.8; color:var(--text-primary); box-shadow:0 2px 6px rgba(0,0,0,0.02);">
             ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
           </div>
         `;
@@ -2373,7 +2363,7 @@ html_content = '''<!DOCTYPE html>
         fb.style.display = 'block';
         fb.className = `quiz-feedback ${isCorrect ? 'is-correct' : 'is-wrong'}`;
         st.className = `feedback-status ${isCorrect ? 'correct' : 'wrong'}`;
-        st.textContent = isCorrect ? "◯ 正解！ 素晴らしい！ (Correct!)" : `✕ 不正解 (Incorrect) — 正解は ${q.answer + 1} 番です`;
+        st.textContent = isCorrect ? "正解！ 素晴らしい！ (Correct!)" : `不正解 (Incorrect) — 正解は ${q.answer + 1} 番です`;
 
         fbJa.innerHTML = `<strong>正解の文:</strong> ${q.sentence_jp_ruby || q.sentence_jp}`;
         fbEn.innerHTML = `<strong>English:</strong> ${q.sentence_en || ''}`;
