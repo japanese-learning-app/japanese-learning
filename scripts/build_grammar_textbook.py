@@ -2436,26 +2436,180 @@ html_content = '''<!DOCTYPE html>
       }
     }
 
-    function searchDictionary(query) {
-      const cleanQ = cleanSearchWord(query);
-      if (!cleanQ) return null;
-      if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
-        const dMatch = window.DICT_DATA.find(d => d.w === cleanQ || d.r === cleanQ)
-          || window.DICT_DATA.find(d => d.w && d.w.startsWith(cleanQ))
-          || window.DICT_DATA.find(d => (d.w && d.w.includes(cleanQ)) || (d.r && d.r.includes(cleanQ)));
-        if (dMatch) {
-          return {
-            term: dMatch.w,
-            reading: dMatch.r,
-            meaning: dMatch.m,
-            level: dMatch.l ? `JLPT ${dMatch.l}` : '常用語',
-            example_ja: dMatch.ex || '',
-            example_en: dMatch.tr || '',
-            similar: dMatch.sim || ''
-          };
+    // Generate candidate base forms (lemmatization) for conjugated verbs and adjectives
+    function generateDeconjugations(word) {
+      if (!word || word.length < 2) return [];
+      const candidates = new Set();
+      const w = word;
+
+      // 1. て / た 形
+      if (w.endsWith('って') || w.endsWith('った')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'る');
+        candidates.add(b + 'う');
+        candidates.add(b + 'つ');
+        candidates.add(b + 'く'); // 行く -> 行って/行った
+      } else if (w.endsWith('いて') || w.endsWith('いた')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'く');
+      } else if (w.endsWith('いで') || w.endsWith('いだ')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'ぐ');
+      } else if (w.endsWith('して') || w.endsWith('した')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'す');
+        candidates.add(b + 'する');
+      } else if (w.endsWith('んで') || w.endsWith('んだ')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'む');
+        candidates.add(b + 'ぶ');
+        candidates.add(b + 'ぬ');
+      }
+
+      // 2. 受身・使役（待たされた、書かされた、食べられた等）
+      if (w.endsWith('された') || w.endsWith('される') || w.endsWith('されたり')) {
+        const b = w.slice(0, -3);
+        candidates.add(b + 'する');
+        candidates.add(b + 'す');
+        if (b.endsWith('た')) candidates.add(b.slice(0, -1) + 'つ'); // 待たされた -> 待つ
+        else if (b.endsWith('か')) candidates.add(b.slice(0, -1) + 'く');
+        else if (b.endsWith('ま')) candidates.add(b.slice(0, -1) + 'む');
+        else if (b.endsWith('ら')) candidates.add(b.slice(0, -1) + 'る');
+        else if (b.endsWith('わ')) candidates.add(b.slice(0, -1) + 'う');
+      }
+
+      // 3. ない / なかった / なくて
+      if (w.endsWith('なかった') || w.endsWith('なくて')) {
+        const b = w.slice(0, -4);
+        candidates.add(b + 'る');
+        candidates.add(b + 'い');
+      } else if (w.endsWith('ない')) {
+        const b = w.slice(0, -2);
+        candidates.add(b + 'る');
+        candidates.add(b + 'い');
+        if (b.endsWith('か')) candidates.add(b.slice(0, -1) + 'く');
+        else if (b.endsWith('が')) candidates.add(b.slice(0, -1) + 'ぐ');
+        else if (b.endsWith('さ')) candidates.add(b.slice(0, -1) + 'す');
+        else if (b.endsWith('た')) candidates.add(b.slice(0, -1) + 'つ');
+        else if (b.endsWith('な')) candidates.add(b.slice(0, -1) + 'ぬ');
+        else if (b.endsWith('ば')) candidates.add(b.slice(0, -1) + 'ぶ');
+        else if (b.endsWith('ま')) candidates.add(b.slice(0, -1) + 'む');
+        else if (b.endsWith('ら')) candidates.add(b.slice(0, -1) + 'る');
+        else if (b.endsWith('わ')) candidates.add(b.slice(0, -1) + 'う');
+      }
+
+      // 4. ます / ました / ません / まして
+      for (const ending of ['ました', 'ません', 'まして', 'ます']) {
+        if (w.endsWith(ending)) {
+          const b = w.slice(0, -ending.length);
+          candidates.add(b + 'る');
+          if (b.endsWith('き')) candidates.add(b.slice(0, -1) + 'く');
+          else if (b.endsWith('ぎ')) candidates.add(b.slice(0, -1) + 'ぐ');
+          else if (b.endsWith('し')) candidates.add(b.slice(0, -1) + 'す');
+          else if (b.endsWith('ち')) candidates.add(b.slice(0, -1) + 'つ');
+          else if (b.endsWith('に')) candidates.add(b.slice(0, -1) + 'ぬ');
+          else if (b.endsWith('び')) candidates.add(b.slice(0, -1) + 'ぶ');
+          else if (b.endsWith('み')) candidates.add(b.slice(0, -1) + 'む');
+          else if (b.endsWith('り')) candidates.add(b.slice(0, -1) + 'る');
+          else if (b.endsWith('い')) candidates.add(b.slice(0, -1) + 'う');
+          break;
         }
       }
-      return null;
+
+      // 5. たい / たかった / たくて
+      for (const ending of ['たかった', 'たくて', 'たい']) {
+        if (w.endsWith(ending)) {
+          const b = w.slice(0, -ending.length);
+          candidates.add(b + 'る');
+          if (b.endsWith('き')) candidates.add(b.slice(0, -1) + 'く');
+          else if (b.endsWith('ぎ')) candidates.add(b.slice(0, -1) + 'ぐ');
+          else if (b.endsWith('し')) candidates.add(b.slice(0, -1) + 'す');
+          else if (b.endsWith('ち')) candidates.add(b.slice(0, -1) + 'つ');
+          else if (b.endsWith('に')) candidates.add(b.slice(0, -1) + 'ぬ');
+          else if (b.endsWith('び')) candidates.add(b.slice(0, -1) + 'ぶ');
+          else if (b.endsWith('み')) candidates.add(b.slice(0, -1) + 'む');
+          else if (b.endsWith('り')) candidates.add(b.slice(0, -1) + 'る');
+          else if (b.endsWith('い')) candidates.add(b.slice(0, -1) + 'う');
+          break;
+        }
+      }
+
+      // 6. 形容詞: かった / くて / くない
+      for (const ending of ['かった', 'くて', 'くない']) {
+        if (w.endsWith(ending)) {
+          const b = w.slice(0, -ending.length);
+          candidates.add(b + 'い');
+          break;
+        }
+      }
+
+      // 7. 単純な て / た (食べた -> 食べる)
+      if (w.endsWith('て') || w.endsWith('た')) {
+        const b = w.slice(0, -1);
+        candidates.add(b + 'る');
+      }
+
+      return Array.from(candidates);
+    }
+
+    function searchDictionary(query) {
+      const cleanQ = cleanSearchWord(query);
+      if (!cleanQ) return [];
+      if (!window.DICT_DATA || !Array.isArray(window.DICT_DATA)) return [];
+
+      const deconjugations = generateDeconjugations(cleanQ);
+      const kanjis = cleanQ.match(/[\u4e00-\u9faf]/g) || [];
+      const kanjiStem = kanjis.length > 0 ? kanjis[0] : null;
+
+      const scoredMatches = [];
+      const seenWords = new Set();
+
+      for (let i = 0; i < window.DICT_DATA.length; i++) {
+        const d = window.DICT_DATA[i];
+        if (!d || !d.w) continue;
+        if (seenWords.has(d.w)) continue;
+
+        let score = 0;
+        let matchType = '';
+
+        if (d.w === cleanQ || d.r === cleanQ) {
+          score = 100;
+          matchType = '完全一致';
+        } else if (deconjugations.includes(d.w)) {
+          score = 90;
+          matchType = '基本形（原形）';
+        } else if (d.w.startsWith(cleanQ) || (d.r && d.r.startsWith(cleanQ))) {
+          score = 80;
+          matchType = '前方一致';
+        } else if (kanjiStem && d.w.startsWith(kanjiStem)) {
+          score = 70;
+          matchType = '同じ漢字で始まる語';
+        } else if (kanjiStem && d.w.includes(kanjiStem)) {
+          score = 60;
+          matchType = '関連語（同じ漢字を含む）';
+        } else if (d.w.includes(cleanQ) || (d.r && d.r.includes(cleanQ))) {
+          score = 50;
+          matchType = '部分一致';
+        }
+
+        if (score > 0) {
+          seenWords.add(d.w);
+          scoredMatches.push({
+            score: score,
+            matchType: matchType,
+            term: d.w,
+            reading: d.r || d.w,
+            meaning: Array.isArray(d.m) ? d.m.join(', ') : (d.m || ''),
+            level: d.l ? `JLPT ${d.l}` : '常用語',
+            example_ja: d.ex || '',
+            example_en: d.tr || '',
+            similar: d.sim || ''
+          });
+        }
+      }
+
+      scoredMatches.sort((a, b) => b.score - a.score || a.term.length - b.term.length);
+      return scoredMatches.slice(0, 6);
     }
 
     // Check if query matches any of 195 grammars for reverse lookup
@@ -2472,84 +2626,104 @@ html_content = '''<!DOCTYPE html>
     function renderDictLookup(query) {
       if (!modalDictResultContent) return;
       const cleanQ = cleanSearchWord(query);
-      const result = searchDictionary(query);
+      const results = searchDictionary(query);
       const matchGrammar = findMatchingGrammar(query);
 
-      let grammarLinkHtml = '';
+      let cardsHtml = '';
       if (matchGrammar) {
-        grammarLinkHtml = `
-          <div style="margin-top:10px;">
-            <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${matchGrammar.id});">
-              📖 文法テキスト「#${matchGrammar.id} ${matchGrammar.name}」の解説を見る →
-            </a>
+        cardsHtml += `
+          <div class="modal-dict-card" style="border-left: 4px solid var(--sakura-pink-deep); margin-bottom:14px;">
+            <div class="modal-dict-card-header">
+              <div class="modal-dict-card-word">
+                <span>${matchGrammar.name}</span>
+              </div>
+              <span class="modal-dict-card-badge">JLPT N2 文法</span>
+            </div>
+            <div class="modal-dict-card-meaning">${matchGrammar.meaning_en}</div>
+            <div style="margin-top:10px;">
+              <a href="javascript:void(0)" class="modal-dict-grammar-link" onclick="closeDictModal(); selectGrammar(${matchGrammar.id});">
+                📖 文法テキスト「#${matchGrammar.id} ${matchGrammar.name}」の解説を見る →
+              </a>
+            </div>
           </div>
         `;
       }
 
-      if (!result) {
-        if (matchGrammar) {
-          modalDictResultContent.innerHTML = `
-            <div class="modal-dict-card">
-              <div class="modal-dict-card-header">
-                <div class="modal-dict-card-word">
-                  <span>${matchGrammar.name}</span>
-                </div>
-                <span class="modal-dict-card-badge">JLPT N2 文法</span>
-              </div>
-              <div class="modal-dict-card-meaning">${matchGrammar.meaning_en}</div>
-              ${grammarLinkHtml}
+      if (results.length > 0) {
+        const top = results[0];
+        if (top.matchType === '基本形（原形）') {
+          cardsHtml += `
+            <div style="font-size:12.5px; font-weight:700; color:var(--point-navy); margin: 6px 0 10px 2px; display:flex; align-items:center; gap:6px;">
+              <span>💡「${cleanQ}」の基本形（辞書形）および関連語:</span>
             </div>
           `;
-          return;
+        } else if (results.length > 1) {
+          cardsHtml += `
+            <div style="font-size:12px; font-weight:600; color:var(--text-muted); margin: 4px 0 10px 2px;">
+              🔍「${cleanQ}」に関連する単語（${results.length}件）:
+            </div>
+          `;
         }
-        modalDictResultContent.innerHTML = `<div style="padding:16px;color:var(--text-muted);text-align:center;">「${cleanQ}」に該当する単語が見つかりませんでした。</div>`;
+
+        results.forEach((item) => {
+          const escapedTerm = item.term.replace(/'/g, "\\'");
+          const readingPart = (item.reading && item.reading !== item.term)
+            ? `<span class="modal-dict-card-reading">（${item.reading}）</span>`
+            : '';
+
+          let exHtml = '';
+          if (item.example_ja) {
+            const plainEx = item.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\\'");
+            exHtml = `
+              <div class="modal-dict-card-ex-box">
+                <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+                  <div class="modal-dict-card-ex-ja">${item.example_ja}</div>
+                  <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
+                </div>
+                ${item.example_en ? `<div class="modal-dict-card-ex-en">${item.example_en}</div>` : ''}
+              </div>
+            `;
+          }
+
+          const isSaved = isTermSavedInMylist(item.term);
+          const mylistBtnHtml = `
+            <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
+              ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
+            </button>
+          `;
+
+          cardsHtml += `
+            <div class="modal-dict-card" style="margin-bottom:12px;">
+              <div class="modal-dict-card-header">
+                <div class="modal-dict-card-word">
+                  <span>${item.term}</span>
+                  ${readingPart}
+                  <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+                  ${item.matchType ? `<span style="font-size:10.5px; background:var(--primary-blue-pale); color:var(--primary-blue-dark); padding:2px 7px; border-radius:4px; font-weight:700;">${item.matchType}</span>` : ''}
+                </div>
+                <div style="display:flex;align-items:center;gap:6px;">
+                  ${mylistBtnHtml}
+                  <span class="modal-dict-card-badge">${item.level}</span>
+                </div>
+              </div>
+              <div class="modal-dict-card-meaning">${item.meaning}</div>
+              ${exHtml}
+            </div>
+          `;
+        });
+      }
+
+      if (results.length === 0 && !matchGrammar) {
+        modalDictResultContent.innerHTML = `
+          <div style="padding:24px 16px; color:var(--text-muted); text-align:center;">
+            「${cleanQ}」に該当する単語が見つかりませんでした。<br>
+            <span style="font-size:12px; margin-top:6px; display:inline-block;">ひらがなや漢字の基本形で再度お試しください。</span>
+          </div>
+        `;
         return;
       }
 
-      const escapedTerm = result.term.replace(/'/g, "\\'");
-      const readingPart = (result.reading && result.reading !== result.term)
-        ? `<span class="modal-dict-card-reading">（${result.reading}）</span>`
-        : '';
-
-      let exHtml = '';
-      if (result.example_ja) {
-        const plainEx = result.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\\'");
-        exHtml = `
-          <div class="modal-dict-card-ex-box">
-            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
-              <div class="modal-dict-card-ex-ja">${result.example_ja}</div>
-              <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
-            </div>
-            ${result.example_en ? `<div class="modal-dict-card-ex-en">${result.example_en}</div>` : ''}
-          </div>
-        `;
-      }
-
-      const isSaved = isTermSavedInMylist(result.term);
-      const mylistBtnHtml = `
-        <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
-          ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
-        </button>
-      `;
-
-      modalDictResultContent.innerHTML = `
-        <div class="modal-dict-card">
-          <div class="modal-dict-card-header">
-            <div class="modal-dict-card-word">
-              <span>${result.term}</span>
-              ${readingPart}
-              <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
-            </div>
-            <div style="display:flex;align-items:center;gap:6px;">
-              ${mylistBtnHtml}
-              <span class="modal-dict-card-badge">${result.level}</span>
-            </div>
-          </div>
-          <div class="modal-dict-card-meaning">${result.meaning}</div>
-          ${exHtml}
-          ${grammarLinkHtml}
-        </div>
-      `;
+      modalDictResultContent.innerHTML = cardsHtml;
     }
 
     function openDictModal(term = '') {
@@ -2633,11 +2807,22 @@ html_content = '''<!DOCTYPE html>
 
     document.addEventListener('selectionchange', () => {
       const sel = window.getSelection();
-      const str = sel ? sel.toString().trim() : '';
+      let str = sel ? sel.toString().trim() : '';
       if (!str || str.length === 0 || str.length > 30) {
         if (selectionTooltip) selectionTooltip.style.display = 'none';
         return;
       }
+
+      // If user selected inside <ruby>, strip <rt> tags cleanly so furigana does not corrupt search
+      try {
+        const range = sel.getRangeAt(0);
+        const clone = range.cloneContents();
+        const rts = clone.querySelectorAll('rt');
+        rts.forEach(rt => rt.remove());
+        const cleanText = clone.textContent.trim();
+        if (cleanText) str = cleanText;
+      } catch(e) {}
+
       currentSelectedText = str;
       try {
         const range = sel.getRangeAt(0);
