@@ -697,22 +697,22 @@ html_content = '''<!DOCTYPE html>
       margin-top: 14px;
     }
 
-    /* 対比カード：3つの枠の中の背景は白、左側ボーダーはピンクと青 */
+    /* 対比カード：スクショのピンクと青の太い線を消して、全面スッキリ純白に */
     .contrast-card {
-      background: #FFFFFF !important; /* 3つの枠の中の背景はすべて白 */
+      background: #FFFFFF !important;
       border-radius: 12px;
       padding: 14px 18px;
-      border: 1px solid var(--sakura-pink-border);
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+      border: 1.5px solid #F1E5E8;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
     }
 
     .contrast-card.wrong {
-      border-left: 4.5px solid var(--sakura-pink-deep) !important; /* 左側はピンク */
+      border: 1.5px solid #F1E5E8 !important; /* 左側のピンク帯を消去 */
       background: #FFFFFF !important;
     }
 
     .contrast-card.correct {
-      border-left: 4.5px solid var(--primary-blue) !important; /* 左側は青 */
+      border: 1.5px solid #F1E5E8 !important; /* 左側の青帯を消去 */
       background: #FFFFFF !important;
     }
 
@@ -746,14 +746,20 @@ html_content = '''<!DOCTYPE html>
       border: 1px solid var(--primary-blue-border);
     }
 
-    .contrast-reason-chip {
-      font-size: 12px;
+    .contrast-reason-bilingual {
+      font-size: 12.5px;
       font-weight: 700;
-      color: var(--sakura-pink-deep); /* ぴんく */
+      color: #92400E;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
     }
 
-    .contrast-reason-chip.success {
-      color: var(--primary-blue-dark); /* 青 */
+    .contrast-reason-en {
+      font-size: 11.5px;
+      font-weight: 500;
+      color: var(--text-muted);
     }
 
     .contrast-sentence {
@@ -943,22 +949,30 @@ html_content = '''<!DOCTYPE html>
       margin-top: 28px;
     }
 
-    .quiz-section-header {
+    .quiz-section-header,
+    .box-section-header {
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 12px;
-      margin-bottom: 18px;
+      margin-bottom: 16px;
       flex-wrap: wrap;
     }
 
-    .quiz-title {
+    .quiz-title,
+    .box-section-title {
       font-size: 16.5px;
       font-weight: 900;
       color: var(--point-navy);
       display: flex;
       align-items: center;
       gap: 8px;
+    }
+
+    .box-section-sub {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
     }
 
     .quiz-card {
@@ -1997,9 +2011,15 @@ html_content = '''<!DOCTYPE html>
           <!-- 4. Comparison Table with Similar Grammar (大枠ピンク背景コンテナ) -->
           <section class="textbook-section-box" id="lessonComparisonSection"></section>
 
-          <!-- 5. Practical Examples (大枠ピンク背景コンテナ ＆ タイトル青) -->
+          <!-- 5. Practical Examples (理解度チェックと同じ見出しスタイル) -->
           <section class="textbook-section-box">
-            <div class="section-tag blue" style="margin-bottom:14px;">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
+            <div class="box-section-header">
+              <div class="box-section-title">
+                <span>📝 実践例文</span>
+                <span class="box-section-sub">Example Sentences (Click 🔊 to Listen)</span>
+              </div>
+              <span style="font-size:12px;color:var(--text-muted);">単語を選択すると辞書検索できます</span>
+            </div>
             <div class="examples-list" id="lessonExamplesList"></div>
           </section>
 
@@ -2118,44 +2138,49 @@ html_content = '''<!DOCTYPE html>
             <div class="contrast-card wrong">
               <div class="contrast-card-top">
                 <span class="contrast-pill wrong">❌ 誤用 (Incorrect)</span>
-                <span class="contrast-reason-chip">⚠️ 合格は嬉しい結果なので不自然</span>
+                <div class="contrast-reason-bilingual">
+                  <span>💡 合格は嬉しい結果なので不自然</span>
+                  <span class="contrast-reason-en">/ Unnatural because passing an exam is a positive result</span>
+                </div>
               </div>
               <div class="contrast-sentence">
                 1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
-              </div>
-              <div class="contrast-en-note">
-                Unnatural in Japanese because passing an exam is a positive accomplishment.
               </div>
             </div>
             <div class="contrast-card correct">
               <div class="contrast-card-top">
                 <span class="contrast-pill correct">⭕ 正解 (Correct with 〜末に)</span>
-                <span class="contrast-reason-chip success">✓「〜末に」は良い結果にも使用可能</span>
+                <div class="contrast-reason-bilingual">
+                  <span>💡「〜末に」は良い結果にも使用可能</span>
+                  <span class="contrast-reason-en">/ 〜末に can properly be used for positive outcomes</span>
+                </div>
               </div>
               <div class="contrast-sentence">
                 1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong><ruby>末<rt>すえ</rt></ruby>に</strong>、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。
-              </div>
-              <div class="contrast-en-note">
-                Natural because 〜末に can properly be used for positive outcomes.
               </div>
             </div>
             <div class="contrast-card correct">
               <div class="contrast-card-top">
                 <span class="contrast-pill correct">⭕ 正解 (Correct with 〜あげく)</span>
-                <span class="contrast-reason-chip success">✓ 残念な結末（不合格）なので完璧に自然</span>
+                <div class="contrast-reason-bilingual">
+                  <span>💡 残念な結末（不合格）なので自然</span>
+                  <span class="contrast-reason-en">/ Natural because failing an exam is an unfortunate result</span>
+                </div>
               </div>
               <div class="contrast-sentence">
                 1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生<rt>いっしょう</rt></ruby><ruby>懸命<rt>けんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した<strong>あげく</strong>、<ruby>当日<rt>とうじつ</rt></ruby>に<ruby>熱<rt>ねつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>不合格<rt>ふごうかく</rt></ruby>になった。
-              </div>
-              <div class="contrast-en-note">
-                Perfect because failing due to sudden illness is an unfortunate, regrettable outcome.
               </div>
             </div>
           </div>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag blue" style="margin-bottom:14px;">🔍 似た文法との違い・使い分け表 (Comparison with Similar Grammar)</div>
+          <div class="box-section-header">
+            <div class="box-section-title">
+              <span>🔍 似た文法との違い・使い分け表</span>
+              <span class="box-section-sub">Comparison with Similar Grammar</span>
+            </div>
+          </div>
           <div class="comparison-table-wrap">
             <table class="comparison-table">
               <thead>
@@ -2252,7 +2277,12 @@ html_content = '''<!DOCTYPE html>
         `;
 
         compEl.innerHTML = `
-          <div class="section-tag blue" style="margin-bottom:14px;">🔍 関連・類似表現 (Related Expressions)</div>
+          <div class="box-section-header">
+            <div class="box-section-title">
+              <span>🔍 関連・類似表現</span>
+              <span class="box-section-sub">Related Expressions</span>
+            </div>
+          </div>
           <div style="background:#FFFFFF; border:1px solid var(--sakura-pink-border); border-radius:10px; padding:16px; font-size:13.5px; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
             ${g.similar ? `<strong>類語・関連表現:</strong> ${g.similar}` : '文脈判断が重視される重要表現です。'}
           </div>
