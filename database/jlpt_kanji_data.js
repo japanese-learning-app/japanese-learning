@@ -20,7 +20,14 @@ window.JLPT_KANJI_DATA = {
         "sun",
         "Japan",
         "counter for days"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 0,
+        "word": "一日",
+        "reading": "いちにち"
+      }
     },
     {
       "character": "一",
@@ -39,7 +46,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "one",
         "one radical (no.1)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 0,
+        "word": "一日",
+        "reading": "いちにち"
+      }
     },
     {
       "character": "国",
@@ -55,7 +69,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "country"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 2,
+        "word": "外国",
+        "reading": "がいこく"
+      }
     },
     {
       "character": "人",
@@ -74,7 +95,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "person"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 5,
+        "word": "大人",
+        "reading": "おとな"
+      }
     },
     {
       "character": "年",
@@ -91,7 +119,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "year",
         "counter for years"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 7,
+        "word": "今年",
+        "reading": "ことし"
+      }
     },
     {
       "character": "大",
@@ -111,7 +146,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "large",
         "big"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 8,
+        "word": "大きい",
+        "reading": "おおきい"
+      }
     },
     {
       "character": "十",
@@ -151,7 +193,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "two",
         "two radical (no. 7)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 2,
+        "word": "二人",
+        "reading": "ふたり"
+      }
     },
     {
       "character": "本",
@@ -195,7 +244,14 @@ window.JLPT_KANJI_DATA = {
         "middle",
         "mean",
         "center"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 8,
+        "qIndex": 6,
+        "word": "中",
+        "reading": "なか"
+      }
     },
     {
       "character": "長",
@@ -215,7 +271,14 @@ window.JLPT_KANJI_DATA = {
         "leader",
         "superior",
         "senior"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 8,
+        "qIndex": 7,
+        "word": "長い",
+        "reading": "ながい"
+      }
     },
     {
       "character": "出",
@@ -242,7 +305,14 @@ window.JLPT_KANJI_DATA = {
         "come out",
         "put out",
         "protrude"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 6,
+        "word": "出す",
+        "reading": "だす"
+      }
     },
     {
       "character": "三",
@@ -279,7 +349,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "time",
         "hour"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 5,
+        "word": "時間",
+        "reading": "じかん"
+      }
     },
     {
       "character": "行",
@@ -311,7 +388,14 @@ window.JLPT_KANJI_DATA = {
         "line",
         "row",
         "bank"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 9,
+        "word": "行く",
+        "reading": "いく"
+      }
     },
     {
       "character": "見",
@@ -335,7 +419,14 @@ window.JLPT_KANJI_DATA = {
         "opinion",
         "look at",
         "visible"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 9,
+        "word": "見せる",
+        "reading": "みせる"
+      }
     },
     {
       "character": "月",
@@ -353,7 +444,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "month",
         "moon"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 8,
+        "word": "今月",
+        "reading": "こんげつ"
+      }
     },
     {
       "character": "後",
@@ -376,7 +474,14 @@ window.JLPT_KANJI_DATA = {
         "behind",
         "back",
         "later"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 5,
+        "word": "後",
+        "reading": "あと"
+      }
     },
     {
       "character": "前",
@@ -394,7 +499,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "in front",
         "before"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 0,
+        "word": "午前",
+        "reading": "ごぜん"
+      }
     },
     {
       "character": "生",
@@ -430,7 +542,14 @@ window.JLPT_KANJI_DATA = {
         "life",
         "genuine",
         "birth"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 5,
+        "word": "生まれる",
+        "reading": "うまれる"
+      }
     },
     {
       "character": "五",
@@ -447,7 +566,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "five"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 1,
+        "word": "五つ",
+        "reading": "いつつ"
+      }
     },
     {
       "character": "間",
@@ -467,7 +593,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "interval",
         "space"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 5,
+        "word": "時間",
+        "reading": "じかん"
+      }
     },
     {
       "character": "上",
@@ -500,7 +633,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "above",
         "up"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 3,
+        "word": "上げる",
+        "reading": "あげる"
+      }
     },
     {
       "character": "東",
@@ -516,7 +656,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "east"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 6,
+        "word": "東",
+        "reading": "ひがし"
+      }
     },
     {
       "character": "四",
@@ -552,7 +699,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "now"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 9,
+        "word": "今日",
+        "reading": "きょう"
+      }
     },
     {
       "character": "金",
@@ -572,7 +726,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "gold"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 0,
+        "word": "お金",
+        "reading": "おかね"
+      }
     },
     {
       "character": "九",
@@ -590,7 +751,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 6,
+        "word": "九つ",
+        "reading": "ここのつ"
+      }
     },
     {
       "character": "入",
@@ -613,7 +781,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "enter",
         "insert"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 3,
+        "word": "入口",
+        "reading": "いりぐち"
+      }
     },
     {
       "character": "学",
@@ -631,7 +806,14 @@ window.JLPT_KANJI_DATA = {
         "study",
         "learning",
         "science"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 4,
+        "word": "学生",
+        "reading": "がくせい"
+      }
     },
     {
       "character": "高",
@@ -653,7 +835,14 @@ window.JLPT_KANJI_DATA = {
         "tall",
         "high",
         "expensive"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 3,
+        "word": "高い",
+        "reading": "たかい"
+      }
     },
     {
       "character": "円",
@@ -698,7 +887,14 @@ window.JLPT_KANJI_DATA = {
         "sign of the rat",
         "11PM-1AM",
         "first sign of Chinese zodiac"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 4,
+        "word": "男の子",
+        "reading": "おとこのこ"
+      }
     },
     {
       "character": "外",
@@ -719,7 +915,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "outside"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 2,
+        "word": "外国",
+        "reading": "がいこく"
+      }
     },
     {
       "character": "八",
@@ -793,7 +996,14 @@ window.JLPT_KANJI_DATA = {
         "give",
         "low",
         "inferior"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 2,
+        "word": "下",
+        "reading": "した"
+      }
     },
     {
       "character": "来",
@@ -820,7 +1030,14 @@ window.JLPT_KANJI_DATA = {
         "next",
         "cause",
         "become"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 3,
+        "word": "来る",
+        "reading": "くる"
+      }
     },
     {
       "character": "気",
@@ -842,7 +1059,14 @@ window.JLPT_KANJI_DATA = {
         "air",
         "atmosphere",
         "mood"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 9,
+        "word": "天気",
+        "reading": "てんき"
+      }
     },
     {
       "character": "小",
@@ -862,7 +1086,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "little",
         "small"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 7,
+        "word": "小さい",
+        "reading": "ちいさい"
+      }
     },
     {
       "character": "七",
@@ -880,7 +1111,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "seven"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 8,
+        "qIndex": 8,
+        "word": "七つ",
+        "reading": "ななつ"
+      }
     },
     {
       "character": "山",
@@ -915,7 +1153,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "tale",
         "talk"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 8,
+        "qIndex": 3,
+        "word": "電話",
+        "reading": "でんわ"
+      }
     },
     {
       "character": "女",
@@ -935,7 +1180,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "woman",
         "female"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 8,
+        "word": "女の子",
+        "reading": "おんなのこ"
+      }
     },
     {
       "character": "北",
@@ -951,7 +1203,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "north"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 8,
+        "word": "北",
+        "reading": "きた"
+      }
     },
     {
       "character": "午",
@@ -970,7 +1229,14 @@ window.JLPT_KANJI_DATA = {
         "sign of the horse",
         "11AM-1PM",
         "seventh sign of Chinese zodiac"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 0,
+        "word": "午前",
+        "reading": "ごぜん"
+      }
     },
     {
       "character": "百",
@@ -987,7 +1253,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "hundred"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 1,
+        "word": "百",
+        "reading": "ひゃく"
+      }
     },
     {
       "character": "書",
@@ -1005,7 +1278,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "write"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 1,
+        "word": "書く",
+        "reading": "かく"
+      }
     },
     {
       "character": "先",
@@ -1026,7 +1306,14 @@ window.JLPT_KANJI_DATA = {
         "previous",
         "future",
         "precedence"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 8,
+        "word": "先月",
+        "reading": "せんげつ"
+      }
     },
     {
       "character": "名",
@@ -1047,7 +1334,14 @@ window.JLPT_KANJI_DATA = {
         "noted",
         "distinguished",
         "reputation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 0,
+        "word": "名前",
+        "reading": "なまえ"
+      }
     },
     {
       "character": "川",
@@ -1098,7 +1392,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "water"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 7,
+        "word": "水",
+        "reading": "みず"
+      }
     },
     {
       "character": "半",
@@ -1118,7 +1419,14 @@ window.JLPT_KANJI_DATA = {
         "odd number",
         "semi-",
         "part-"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 5,
+        "word": "半分",
+        "reading": "はんぶん"
+      }
     },
     {
       "character": "男",
@@ -1136,7 +1444,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "male"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 3,
+        "word": "男",
+        "reading": "おとこ"
+      }
     },
     {
       "character": "西",
@@ -1155,7 +1470,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "west",
         "Spain"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 1,
+        "word": "西",
+        "reading": "にし"
+      }
     },
     {
       "character": "電",
@@ -1169,7 +1491,14 @@ window.JLPT_KANJI_DATA = {
       "kunyomi": [],
       "meanings": [
         "electricity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 8,
+        "qIndex": 1,
+        "word": "電気",
+        "reading": "でんき"
+      }
     },
     {
       "character": "校",
@@ -1188,7 +1517,14 @@ window.JLPT_KANJI_DATA = {
         "printing",
         "proof",
         "correction"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 5,
+        "word": "学校",
+        "reading": "がっこう"
+      }
     },
     {
       "character": "語",
@@ -1246,7 +1582,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "tree",
         "wood"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 6,
+        "word": "木",
+        "reading": "き"
+      }
     },
     {
       "character": "聞",
@@ -1266,7 +1609,14 @@ window.JLPT_KANJI_DATA = {
         "hear",
         "ask",
         "listen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 7,
+        "word": "聞く",
+        "reading": "きく"
+      }
     },
     {
       "character": "食",
@@ -1287,7 +1637,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "eat",
         "food"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 5,
+        "word": "食べる",
+        "reading": "たべる"
+      }
     },
     {
       "character": "車",
@@ -1303,7 +1660,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "car"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 4,
+        "word": "車",
+        "reading": "くるま"
+      }
     },
     {
       "character": "何",
@@ -1374,7 +1738,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "every"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 5,
+        "word": "毎日",
+        "reading": "まいにち"
+      }
     },
     {
       "character": "白",
@@ -1393,7 +1764,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "white"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 3,
+        "word": "白",
+        "reading": "しろ"
+      }
     },
     {
       "character": "天",
@@ -1413,7 +1791,14 @@ window.JLPT_KANJI_DATA = {
         "heavens",
         "sky",
         "imperial"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 9,
+        "word": "天気",
+        "reading": "てんき"
+      }
     },
     {
       "character": "母",
@@ -1430,7 +1815,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "mother"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 9,
+        "word": "お母さん",
+        "reading": "おかあさん"
+      }
     },
     {
       "character": "火",
@@ -1465,7 +1857,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "right"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 6,
+        "word": "右",
+        "reading": "みぎ"
+      }
     },
     {
       "character": "読",
@@ -1517,7 +1916,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "left"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 7,
+        "word": "左",
+        "reading": "ひだり"
+      }
     },
     {
       "character": "休",
@@ -1554,7 +1960,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "father"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 1,
+        "word": "お父さん",
+        "reading": "おとうさん"
+      }
     },
     {
       "character": "雨",
@@ -1572,7 +1985,694 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "rain"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 8,
+        "word": "雨",
+        "reading": "あめ"
+      }
+    },
+    {
+      "character": "帰",
+      "level": "N5",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 504,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "かえ.る",
+        "かえ.す",
+        "おく.る",
+        "とつ.ぐ"
+      ],
+      "meanings": [
+        "homecoming",
+        "arrive at",
+        "lead to",
+        "result in"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 4,
+        "qIndex": 0,
+        "word": "帰る",
+        "reading": "かえる"
+      }
+    },
+    {
+      "character": "口",
+      "level": "N5",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 284,
+      "onyomi": [
+        "コウ",
+        "ク"
+      ],
+      "kunyomi": [
+        "くち"
+      ],
+      "meanings": [
+        "mouth"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 3,
+        "word": "入口",
+        "reading": "いりぐち"
+      }
+    },
+    {
+      "character": "黒",
+      "level": "N5",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 573,
+      "onyomi": [
+        "コク"
+      ],
+      "kunyomi": [
+        "くろ",
+        "くろ.ずむ",
+        "くろ.い"
+      ],
+      "meanings": [
+        "black"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 5,
+        "word": "黒い",
+        "reading": "くろい"
+      }
+    },
+    {
+      "character": "分",
+      "level": "N5",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いくぶん"
+      ],
+      "meanings": [
+        "somewhat"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 5,
+        "word": "半分",
+        "reading": "はんぶん"
+      }
+    },
+    {
+      "character": "会",
+      "level": "N5",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 4,
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "meanings": [
+        "meeting",
+        "meet",
+        "party",
+        "association",
+        "interview",
+        "join"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 0,
+        "word": "会う",
+        "reading": "あう"
+      }
+    },
+    {
+      "character": "駅",
+      "level": "N5",
+      "strokes": 14,
+      "grade": 3,
+      "freq": 724,
+      "onyomi": [
+        "エキ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "station"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 6,
+        "word": "駅",
+        "reading": "えき"
+      }
+    },
+    {
+      "character": "妹",
+      "level": "N5",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 1446,
+      "onyomi": [
+        "マイ"
+      ],
+      "kunyomi": [
+        "いもうと"
+      ],
+      "meanings": [
+        "younger sister"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 2,
+        "word": "妹",
+        "reading": "いもうと"
+      }
+    },
+    {
+      "character": "空",
+      "level": "N5",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 304,
+      "onyomi": [
+        "クウ"
+      ],
+      "kunyomi": [
+        "そら",
+        "あ.く",
+        "あ.き",
+        "あ.ける",
+        "から",
+        "す.く",
+        "す.かす",
+        "むな.しい"
+      ],
+      "meanings": [
+        "empty",
+        "sky",
+        "void",
+        "vacant",
+        "vacuum"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 2,
+        "word": "空",
+        "reading": "そら"
+      }
+    },
+    {
+      "character": "花",
+      "level": "N5",
+      "strokes": 7,
+      "grade": 1,
+      "freq": 578,
+      "onyomi": [
+        "カ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "はな"
+      ],
+      "meanings": [
+        "flower"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 3,
+        "word": "花",
+        "reading": "はな"
+      }
+    },
+    {
+      "character": "青",
+      "level": "N5",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 589,
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "あお",
+        "あお-",
+        "あお.い"
+      ],
+      "meanings": [
+        "blue",
+        "green"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 1,
+        "word": "青",
+        "reading": "あお"
+      }
+    },
+    {
+      "character": "飲",
+      "level": "N5",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 969,
+      "onyomi": [
+        "イン",
+        "オン"
+      ],
+      "kunyomi": [
+        "の.む",
+        "-の.み"
+      ],
+      "meanings": [
+        "drink",
+        "smoke",
+        "take"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 9,
+        "qIndex": 2,
+        "word": "飲む",
+        "reading": "のむ"
+      }
+    },
+    {
+      "character": "多",
+      "level": "N5",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 139,
+      "onyomi": [
+        "タ"
+      ],
+      "kunyomi": [
+        "おお.い",
+        "まさ.に",
+        "まさ.る"
+      ],
+      "meanings": [
+        "many",
+        "frequent",
+        "much"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 2,
+        "qIndex": 7,
+        "word": "多い",
+        "reading": "おおい"
+      }
+    },
+    {
+      "character": "週",
+      "level": "N5",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 540,
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "week"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 9,
+        "word": "今週",
+        "reading": "こんしゅう"
+      }
+    },
+    {
+      "character": "魚",
+      "level": "N5",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 1208,
+      "onyomi": [
+        "ギョ"
+      ],
+      "kunyomi": [
+        "うお",
+        "さかな",
+        "-ざかな"
+      ],
+      "meanings": [
+        "fish"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 1,
+        "word": "魚",
+        "reading": "さかな"
+      }
+    },
+    {
+      "character": "店",
+      "level": "N5",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 378,
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "みせ",
+        "たな"
+      ],
+      "meanings": [
+        "store",
+        "shop"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 8,
+        "word": "店",
+        "reading": "みせ"
+      }
+    },
+    {
+      "character": "古",
+      "level": "N5",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 509,
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "ふる.い",
+        "ふる-",
+        "-ふる.す"
+      ],
+      "meanings": [
+        "old"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 10,
+        "qIndex": 3,
+        "word": "古い",
+        "reading": "ふるい"
+      }
+    },
+    {
+      "character": "弟",
+      "level": "N5",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 1161,
+      "onyomi": [
+        "テイ",
+        "ダイ",
+        "デ"
+      ],
+      "kunyomi": [
+        "おとうと"
+      ],
+      "meanings": [
+        "younger brother",
+        "faithful service to elders"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 2,
+        "word": "弟",
+        "reading": "おとうと"
+      }
+    },
+    {
+      "character": "兄",
+      "level": "N5",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 1219,
+      "onyomi": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kunyomi": [
+        "あに"
+      ],
+      "meanings": [
+        "elder brother",
+        "big brother"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 6,
+        "word": "兄",
+        "reading": "あに"
+      }
+    },
+    {
+      "character": "姉",
+      "level": "N5",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 1473,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "あね",
+        "はは"
+      ],
+      "meanings": [
+        "elder sister"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 7,
+        "word": "姉",
+        "reading": "あね"
+      }
+    },
+    {
+      "character": "少",
+      "level": "N5",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 287,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "すく.ない",
+        "すこ.し"
+      ],
+      "meanings": [
+        "few",
+        "little"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 7,
+        "word": "少ない",
+        "reading": "すくない"
+      }
+    },
+    {
+      "character": "買",
+      "level": "N5",
+      "strokes": 12,
+      "grade": 2,
+      "freq": 520,
+      "onyomi": [
+        "バイ"
+      ],
+      "kunyomi": [
+        "か.う"
+      ],
+      "meanings": [
+        "buy"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 3,
+        "qIndex": 9,
+        "word": "買う",
+        "reading": "かう"
+      }
+    },
+    {
+      "character": "新",
+      "level": "N5",
+      "strokes": 13,
+      "grade": 2,
+      "freq": 51,
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あたら.しい",
+        "あら.た",
+        "あら-",
+        "にい-"
+      ],
+      "meanings": [
+        "new"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 4,
+        "word": "新しい",
+        "reading": "あたらしい"
+      }
+    },
+    {
+      "character": "暗",
+      "level": "N5",
+      "strokes": 13,
+      "grade": 3,
+      "freq": 1040,
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [
+        "くら.い",
+        "くら.む",
+        "くれ.る"
+      ],
+      "meanings": [
+        "darkness",
+        "disappear",
+        "shade",
+        "informal",
+        "grow dark",
+        "be blinded"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 5,
+        "qIndex": 2,
+        "word": "暗い",
+        "reading": "くらい"
+      }
+    },
+    {
+      "character": "手",
+      "level": "N5",
+      "strokes": 4,
+      "grade": 1,
+      "freq": 60,
+      "onyomi": [
+        "シュ",
+        "ズ"
+      ],
+      "kunyomi": [
+        "て",
+        "て-",
+        "-て",
+        "た-"
+      ],
+      "meanings": [
+        "hand"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 6,
+        "qIndex": 6,
+        "word": "上手",
+        "reading": "じょうず"
+      }
+    },
+    {
+      "character": "赤",
+      "level": "N5",
+      "strokes": 7,
+      "grade": 1,
+      "freq": 584,
+      "onyomi": [
+        "セキ",
+        "シャク"
+      ],
+      "kunyomi": [
+        "あか",
+        "あか-",
+        "あか.い",
+        "あか.らむ",
+        "あか.らめる"
+      ],
+      "meanings": [
+        "red"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 1,
+        "qIndex": 2,
+        "word": "赤",
+        "reading": "あか"
+      }
+    },
+    {
+      "character": "立",
+      "level": "N5",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 58,
+      "onyomi": [
+        "リツ",
+        "リュウ",
+        "リットル"
+      ],
+      "kunyomi": [
+        "た.つ",
+        "-た.つ",
+        "た.ち-",
+        "た.てる",
+        "-た.てる",
+        "た.て-",
+        "たて-",
+        "-た.て",
+        "-だ.て",
+        "-だ.てる"
+      ],
+      "meanings": [
+        "stand up",
+        "rise",
+        "set up",
+        "erect"
+      ],
+      "dailyQuizRef": {
+        "level": "N5",
+        "day": 7,
+        "qIndex": 4,
+        "word": "立つ",
+        "reading": "たつ"
+      }
     }
   ],
   "N4": [
@@ -1598,7 +2698,14 @@ window.JLPT_KANJI_DATA = {
         "association",
         "interview",
         "join"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 4,
+        "word": "会議",
+        "reading": "かいぎ"
+      }
     },
     {
       "character": "同",
@@ -1640,7 +2747,14 @@ window.JLPT_KANJI_DATA = {
         "business",
         "reason",
         "possibly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 4,
+        "word": "火事",
+        "reading": "かじ"
+      }
     },
     {
       "character": "自",
@@ -1679,7 +2793,14 @@ window.JLPT_KANJI_DATA = {
         "office",
         "association",
         "shrine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 8,
+        "word": "社会",
+        "reading": "しゃかい"
+      }
     },
     {
       "character": "発",
@@ -1706,7 +2827,14 @@ window.JLPT_KANJI_DATA = {
         "start from",
         "disclose",
         "counter for gunshots"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 2,
+        "word": "出発",
+        "reading": "しゅっぱつする"
+      }
     },
     {
       "character": "者",
@@ -1779,7 +2907,14 @@ window.JLPT_KANJI_DATA = {
         "direction",
         "person",
         "alternative"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 8,
+        "word": "泳ぎ方",
+        "reading": "およぎかた"
+      }
     },
     {
       "character": "新",
@@ -1816,7 +2951,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "location",
         "place"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 6,
+        "word": "会場",
+        "reading": "かいじょう"
+      }
     },
     {
       "character": "員",
@@ -1833,7 +2975,14 @@ window.JLPT_KANJI_DATA = {
         "member",
         "number",
         "the one in charge"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 9,
+        "word": "公務員",
+        "reading": "こうむいん"
+      }
     },
     {
       "character": "立",
@@ -1906,7 +3055,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "hand"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 1,
+        "word": "運転手",
+        "reading": "うんてんしゅ"
+      }
     },
     {
       "character": "力",
@@ -1984,7 +3140,14 @@ window.JLPT_KANJI_DATA = {
         "charge",
         "rate",
         "fee"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 8,
+        "word": "代わり",
+        "reading": "かわり"
+      }
     },
     {
       "character": "明",
@@ -2034,7 +3197,14 @@ window.JLPT_KANJI_DATA = {
         "confusion",
         "shift",
         "shake"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 5,
+        "word": "動く",
+        "reading": "うごく"
+      }
     },
     {
       "character": "京",
@@ -2106,7 +3276,14 @@ window.JLPT_KANJI_DATA = {
         "avenue",
         "commute",
         "counter for letters, notes, documents, etc."
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 5,
+        "word": "通う",
+        "reading": "かよう"
+      }
     },
     {
       "character": "言",
@@ -2184,7 +3361,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "rice field",
         "rice paddy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 0,
+        "word": "田舎",
+        "reading": "いなか"
+      }
     },
     {
       "character": "主",
@@ -2244,7 +3428,14 @@ window.JLPT_KANJI_DATA = {
         "desire",
         "care",
         "liking"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 5,
+        "word": "意見",
+        "reading": "いけん"
+      }
     },
     {
       "character": "不",
@@ -2329,7 +3520,14 @@ window.JLPT_KANJI_DATA = {
         "counter for occurrences",
         "consider",
         "attitude"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 8,
+        "word": "一度",
+        "reading": "いちど"
+      }
     },
     {
       "character": "強",
@@ -2370,7 +3568,14 @@ window.JLPT_KANJI_DATA = {
         "prince",
         "official",
         "governmental"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 9,
+        "word": "公務員",
+        "reading": "こうむいん"
+      }
     },
     {
       "character": "持",
@@ -2389,7 +3594,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "hold",
         "have"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 5,
+        "word": "気持ち",
+        "reading": "きもち"
+      }
     },
     {
       "character": "野",
@@ -2429,7 +3641,14 @@ window.JLPT_KANJI_DATA = {
         "because",
         "in view of",
         "compared with"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 2,
+        "word": "以下",
+        "reading": "いか"
+      }
     },
     {
       "character": "思",
@@ -2447,7 +3666,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "think"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 4,
+        "word": "思い出す",
+        "reading": "おもいだす"
+      }
     },
     {
       "character": "家",
@@ -2471,7 +3697,14 @@ window.JLPT_KANJI_DATA = {
         "professional",
         "expert",
         "performer"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 9,
+        "word": "家内",
+        "reading": "かない"
+      }
     },
     {
       "character": "世",
@@ -2560,7 +3793,14 @@ window.JLPT_KANJI_DATA = {
         "rested",
         "contented",
         "peaceful"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 9,
+        "word": "安心",
+        "reading": "あんしん"
+      }
     },
     {
       "character": "院",
@@ -2598,7 +3838,14 @@ window.JLPT_KANJI_DATA = {
         "mind",
         "spirit",
         "heart radical (no. 61)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 9,
+        "word": "安心",
+        "reading": "あんしん"
+      }
     },
     {
       "character": "界",
@@ -2632,7 +3879,14 @@ window.JLPT_KANJI_DATA = {
         "teach",
         "faith",
         "doctrine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 9,
+        "word": "教育",
+        "reading": "きょういく"
+      }
     },
     {
       "character": "文",
@@ -2726,7 +3980,14 @@ window.JLPT_KANJI_DATA = {
         "early",
         "akin",
         "tantamount"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 3,
+        "word": "近所",
+        "reading": "きんじょ"
+      }
     },
     {
       "character": "考",
@@ -2744,7 +4005,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "consider",
         "think over"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 9,
+        "word": "考える",
+        "reading": "かんがえる"
+      }
     },
     {
       "character": "画",
@@ -2768,7 +4036,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "brush-stroke",
         "picture"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 3,
+        "word": "計画",
+        "reading": "けいかくする"
+      }
     },
     {
       "character": "海",
@@ -2785,7 +4060,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sea",
         "ocean"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 3,
+        "word": "海岸",
+        "reading": "かいがん"
+      }
     },
     {
       "character": "売",
@@ -2820,7 +4102,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "know",
         "wisdom"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 8,
+        "word": "承知",
+        "reading": "しょうちする"
+      }
     },
     {
       "character": "道",
@@ -2866,7 +4155,14 @@ window.JLPT_KANJI_DATA = {
         "congregate",
         "swarm",
         "flock"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 7,
+        "word": "集める",
+        "reading": "あつめる"
+      }
     },
     {
       "character": "別",
@@ -2909,7 +4205,14 @@ window.JLPT_KANJI_DATA = {
         "thing",
         "object",
         "matter"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 9,
+        "word": "贈り物",
+        "reading": "おくりもの"
+      }
     },
     {
       "character": "使",
@@ -2955,7 +4258,14 @@ window.JLPT_KANJI_DATA = {
         "dignity",
         "article",
         "counter for meal courses"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 6,
+        "word": "品物",
+        "reading": "しなもの"
+      }
     },
     {
       "character": "計",
@@ -2975,7 +4285,14 @@ window.JLPT_KANJI_DATA = {
         "plan",
         "scheme",
         "measure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 3,
+        "word": "計画",
+        "reading": "けいかくする"
+      }
     },
     {
       "character": "死",
@@ -3089,7 +4406,14 @@ window.JLPT_KANJI_DATA = {
         "transport",
         "progress",
         "advance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 1,
+        "word": "運転手",
+        "reading": "うんてんしゅ"
+      }
     },
     {
       "character": "終",
@@ -3111,7 +4435,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "end",
         "finish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 2,
+        "word": "終わり",
+        "reading": "おわり"
+      }
     },
     {
       "character": "台",
@@ -3306,7 +4637,14 @@ window.JLPT_KANJI_DATA = {
         "craft",
         "construction",
         "katakana e radical (no. 48)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 5,
+        "word": "工場",
+        "reading": "こうじょう"
+      }
     },
     {
       "character": "建",
@@ -3353,7 +4691,14 @@ window.JLPT_KANJI_DATA = {
         "void",
         "vacant",
         "vacuum"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 4,
+        "word": "空く",
+        "reading": "あく"
+      }
     },
     {
       "character": "急",
@@ -3374,7 +4719,14 @@ window.JLPT_KANJI_DATA = {
         "emergency",
         "sudden",
         "steep"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 7,
+        "word": "急ぐ",
+        "reading": "いそぐ"
+      }
     },
     {
       "character": "止",
@@ -3421,7 +4773,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "escort",
         "send"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 0,
+        "word": "送る",
+        "reading": "おくる"
+      }
     },
     {
       "character": "切",
@@ -3474,7 +4833,14 @@ window.JLPT_KANJI_DATA = {
         "revolve",
         "turn around",
         "change"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 1,
+        "word": "運転手",
+        "reading": "うんてんしゅ"
+      }
     },
     {
       "character": "研",
@@ -3492,7 +4858,14 @@ window.JLPT_KANJI_DATA = {
         "polish",
         "study of",
         "sharpen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 8,
+        "word": "研究",
+        "reading": "けんきゅう"
+      }
     },
     {
       "character": "足",
@@ -3532,7 +4905,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "research",
         "study"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 8,
+        "word": "研究",
+        "reading": "けんきゅう"
+      }
     },
     {
       "character": "楽",
@@ -3599,7 +4979,14 @@ window.JLPT_KANJI_DATA = {
         "arrive",
         "wear",
         "counter for suits of clothing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 6,
+        "word": "着物",
+        "reading": "きもの"
+      }
     },
     {
       "character": "店",
@@ -3679,7 +5066,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "wait",
         "depend on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 7,
+        "word": "招待",
+        "reading": "しょうたいする"
+      }
     },
     {
       "character": "試",
@@ -3700,7 +5094,14 @@ window.JLPT_KANJI_DATA = {
         "attempt",
         "experiment",
         "ordeal"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 1,
+        "word": "試合",
+        "reading": "しあい"
+      }
     },
     {
       "character": "族",
@@ -3798,7 +5199,14 @@ window.JLPT_KANJI_DATA = {
         "relative",
         "familiarity",
         "dealer (cards)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 7,
+        "word": "親",
+        "reading": "おや"
+      }
     },
     {
       "character": "験",
@@ -3820,7 +5228,14 @@ window.JLPT_KANJI_DATA = {
         "verification",
         "effect",
         "testing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 4,
+        "word": "経験",
+        "reading": "けいけんする"
+      }
     },
     {
       "character": "英",
@@ -3859,7 +5274,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "doctor",
         "medicine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 3,
+        "word": "医学",
+        "reading": "いがく"
+      }
     },
     {
       "character": "仕",
@@ -3879,7 +5301,14 @@ window.JLPT_KANJI_DATA = {
         "doing",
         "official",
         "serve"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 2,
+        "word": "仕方",
+        "reading": "しかた"
+      }
     },
     {
       "character": "去",
@@ -3921,7 +5350,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "flavor",
         "taste"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 2,
+        "word": "興味",
+        "reading": "きょうみ"
+      }
     },
     {
       "character": "写",
@@ -3943,7 +5379,14 @@ window.JLPT_KANJI_DATA = {
         "copy",
         "be photographed",
         "describe"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 7,
+        "word": "写す",
+        "reading": "うつす"
+      }
     },
     {
       "character": "字",
@@ -4000,7 +5443,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "night",
         "evening"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 9,
+        "word": "今夜",
+        "reading": "こんや"
+      }
     },
     {
       "character": "音",
@@ -4020,7 +5470,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sound",
         "noise"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 7,
+        "word": "音",
+        "reading": "おと"
+      }
     },
     {
       "character": "注",
@@ -4067,7 +5524,14 @@ window.JLPT_KANJI_DATA = {
         "arrive at",
         "lead to",
         "result in"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 8,
+        "word": "帰り",
+        "reading": "かえり"
+      }
     },
     {
       "character": "古",
@@ -4205,7 +5669,14 @@ window.JLPT_KANJI_DATA = {
         "chamber",
         "greenhouse",
         "cellar"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 5,
+        "word": "会議室",
+        "reading": "かいぎしつ"
+      }
     },
     {
       "character": "歩",
@@ -4335,7 +5806,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "red"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 2,
+        "word": "赤ん坊",
+        "reading": "あかんぼう"
+      }
     },
     {
       "character": "青",
@@ -4395,7 +5873,14 @@ window.JLPT_KANJI_DATA = {
         "shop",
         "dealer",
         "seller"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 8,
+        "word": "屋上",
+        "reading": "おくじょう"
+      }
     },
     {
       "character": "色",
@@ -4412,7 +5897,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "color"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 7,
+        "word": "景色",
+        "reading": "けしき"
+      }
     },
     {
       "character": "走",
@@ -4481,7 +5973,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "learn"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 0,
+        "word": "習慣",
+        "reading": "しゅうかん"
+      }
     },
     {
       "character": "駅",
@@ -4662,7 +6161,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "public chamber",
         "hall"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 8,
+        "word": "講堂",
+        "reading": "こうどう"
+      }
     },
     {
       "character": "鳥",
@@ -4679,7 +6185,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "bird",
         "chicken"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 2,
+        "word": "小鳥",
+        "reading": "ことり"
+      }
     },
     {
       "character": "飯",
@@ -4902,6 +6415,4188 @@ window.JLPT_KANJI_DATA = {
         "Sino-",
         "China"
       ]
+    },
+    {
+      "character": "険",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 707,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "けわ.しい"
+      ],
+      "meanings": [
+        "precipitous",
+        "inaccessible place",
+        "impregnable position",
+        "steep place",
+        "sharp eyes"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 5,
+        "word": "危険",
+        "reading": "きけん"
+      }
+    },
+    {
+      "character": "看",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんばん"
+      ],
+      "meanings": [
+        "sign",
+        "signboard",
+        "doorplate"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 1,
+        "word": "看護婦",
+        "reading": "かんごふ"
+      }
+    },
+    {
+      "character": "掛",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 8,
+      "freq": 1027,
+      "onyomi": [
+        "カイ",
+        "ケイ"
+      ],
+      "kunyomi": [
+        "か.ける",
+        "-か.ける",
+        "か.け",
+        "-か.け",
+        "-が.け",
+        "か.かる",
+        "-か.かる",
+        "-が.かる",
+        "か.かり",
+        "-が.かり",
+        "かかり",
+        "-がかり"
+      ],
+      "meanings": [
+        "hang",
+        "suspend",
+        "depend",
+        "arrive at",
+        "tax",
+        "pour"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 2,
+        "word": "掛ける",
+        "reading": "かける"
+      }
+    },
+    {
+      "character": "下",
+      "level": "N4",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 97,
+      "onyomi": [
+        "カ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "meanings": [
+        "below",
+        "down",
+        "descend",
+        "give",
+        "low",
+        "inferior"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 2,
+        "word": "以下",
+        "reading": "いか"
+      }
+    },
+    {
+      "character": "絹",
+      "strokes": 13,
+      "grade": 6,
+      "freq": 1636,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "きぬ"
+      ],
+      "meanings": [
+        "silk"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 0,
+        "word": "絹",
+        "reading": "きぬ"
+      }
+    },
+    {
+      "character": "鏡",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けんびきょう"
+      ],
+      "meanings": [
+        "microscope"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 1,
+        "word": "鏡",
+        "reading": "かがみ"
+      }
+    },
+    {
+      "character": "紹",
+      "strokes": 11,
+      "grade": 8,
+      "freq": 1007,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "introduce",
+        "inherit",
+        "help"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 4,
+        "word": "紹介",
+        "reading": "しょうかい"
+      }
+    },
+    {
+      "character": "係",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 232,
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "かか.る",
+        "かかり",
+        "-がかり",
+        "かか.わる"
+      ],
+      "meanings": [
+        "person in charge",
+        "connection",
+        "duty",
+        "concern oneself"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 0,
+        "word": "関係",
+        "reading": "かんけい"
+      }
+    },
+    {
+      "character": "来",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 102,
+      "onyomi": [
+        "ライ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "meanings": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 9,
+        "word": "将来",
+        "reading": "しょうらい"
+      }
+    },
+    {
+      "character": "警",
+      "level": "N4",
+      "strokes": 19,
+      "grade": 6,
+      "freq": 366,
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "いまし.める"
+      ],
+      "meanings": [
+        "admonish",
+        "commandment"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 5,
+        "word": "警察",
+        "reading": "けいさつ"
+      }
+    },
+    {
+      "character": "遊",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 941,
+      "onyomi": [
+        "ユウ",
+        "ユ"
+      ],
+      "kunyomi": [
+        "あそ.ぶ",
+        "あそ.ばす"
+      ],
+      "meanings": [
+        "play"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 6,
+        "word": "遊び",
+        "reading": "あそび"
+      }
+    },
+    {
+      "character": "危",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 6,
+      "freq": 606,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "あぶ.ない",
+        "あや.うい",
+        "あや.ぶむ"
+      ],
+      "meanings": [
+        "dangerous",
+        "fear",
+        "uneasy"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 5,
+        "word": "危険",
+        "reading": "きけん"
+      }
+    },
+    {
+      "character": "受",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 136,
+      "onyomi": [
+        "ジュ"
+      ],
+      "kunyomi": [
+        "う.ける",
+        "-う.け",
+        "う.かる"
+      ],
+      "meanings": [
+        "accept",
+        "undergo",
+        "answer (phone)",
+        "take",
+        "get",
+        "catch",
+        "receive"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 3,
+        "word": "受付",
+        "reading": "うけつけ"
+      }
+    },
+    {
+      "character": "噛",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かじる"
+      ],
+      "meanings": [
+        "to chew",
+        "to bite (at)",
+        "to gnaw"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 4,
+        "word": "噛む",
+        "reading": "かむ"
+      }
+    },
+    {
+      "character": "火",
+      "level": "N4",
+      "strokes": 4,
+      "grade": 1,
+      "freq": 574,
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひ",
+        "-び",
+        "ほ-"
+      ],
+      "meanings": [
+        "fire"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 4,
+        "word": "火事",
+        "reading": "かじ"
+      }
+    },
+    {
+      "character": "盛",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "もる"
+      ],
+      "meanings": [
+        "(1) to serve (food",
+        "etc.)",
+        "(2) to fill up"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 5,
+        "word": "盛ん",
+        "reading": "さかん"
+      }
+    },
+    {
+      "character": "護",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かいご"
+      ],
+      "meanings": [
+        "nursing"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 1,
+        "word": "看護婦",
+        "reading": "かんごふ"
+      }
+    },
+    {
+      "character": "間",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 2,
+      "freq": 33,
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "meanings": [
+        "interval",
+        "space"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 0,
+        "word": "間",
+        "reading": "あいだ"
+      }
+    },
+    {
+      "character": "浅",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あさましい"
+      ],
+      "meanings": [
+        "wretched",
+        "miserable",
+        "shameful"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 5,
+        "word": "浅い",
+        "reading": "あさい"
+      }
+    },
+    {
+      "character": "謝",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "げっしゃ"
+      ],
+      "meanings": [
+        "monthly tuition fee"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 8,
+        "word": "謝る",
+        "reading": "あやまる"
+      }
+    },
+    {
+      "character": "規",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 349,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "standard",
+        "measure"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 9,
+        "word": "規則",
+        "reading": "きそく"
+      }
+    },
+    {
+      "character": "米",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 61,
+      "onyomi": [
+        "ベイ",
+        "マイ",
+        "メエトル"
+      ],
+      "kunyomi": [
+        "こめ",
+        "よね"
+      ],
+      "meanings": [
+        "rice",
+        "USA",
+        "metre"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 5,
+        "word": "米",
+        "reading": "こめ"
+      }
+    },
+    {
+      "character": "聞",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 2,
+      "freq": 319,
+      "onyomi": [
+        "ブン",
+        "モン"
+      ],
+      "kunyomi": [
+        "き.く",
+        "き.こえる"
+      ],
+      "meanings": [
+        "hear",
+        "ask",
+        "listen"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 6,
+        "word": "聞こえる",
+        "reading": "きこえる"
+      }
+    },
+    {
+      "character": "踊",
+      "strokes": 14,
+      "grade": 8,
+      "freq": 1289,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "おど.る"
+      ],
+      "meanings": [
+        "jump",
+        "dance",
+        "leap"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 9,
+        "word": "踊り",
+        "reading": "おどり"
+      }
+    },
+    {
+      "character": "生",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 29,
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "meanings": [
+        "life",
+        "genuine",
+        "birth"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 4,
+        "word": "生きる",
+        "reading": "いきる"
+      }
+    },
+    {
+      "character": "首",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 98,
+      "onyomi": [
+        "シュ"
+      ],
+      "kunyomi": [
+        "くび"
+      ],
+      "meanings": [
+        "neck",
+        "counter for songs and poems"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 7,
+        "word": "首",
+        "reading": "くび"
+      }
+    },
+    {
+      "character": "後",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 26,
+      "onyomi": [
+        "ゴ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "のち",
+        "うし.ろ",
+        "うしろ",
+        "あと",
+        "おく.れる"
+      ],
+      "meanings": [
+        "behind",
+        "back",
+        "later"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 2,
+        "word": "最後",
+        "reading": "さいご"
+      }
+    },
+    {
+      "character": "初",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 4,
+      "freq": 152,
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "はじ.め",
+        "はじ.めて",
+        "はつ",
+        "はつ-",
+        "うい-",
+        "-そ.める",
+        "-ぞ.め"
+      ],
+      "meanings": [
+        "first time",
+        "beginning"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 3,
+        "word": "最初",
+        "reading": "さいしょ"
+      }
+    },
+    {
+      "character": "原",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 172,
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "はら"
+      ],
+      "meanings": [
+        "meadow",
+        "original",
+        "primitive",
+        "field",
+        "plain",
+        "prairie",
+        "tundra",
+        "wilderness"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 1,
+        "word": "原因",
+        "reading": "げんいん"
+      }
+    },
+    {
+      "character": "移",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いてん"
+      ],
+      "meanings": [
+        "moving",
+        "transfer",
+        "demise"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 8,
+        "word": "移る",
+        "reading": "うつる"
+      }
+    },
+    {
+      "character": "車",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 1,
+      "freq": 333,
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "くるま"
+      ],
+      "meanings": [
+        "car"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 7,
+        "word": "汽車",
+        "reading": "きしゃ"
+      }
+    },
+    {
+      "character": "贈",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きそう"
+      ],
+      "meanings": [
+        "donation",
+        "presentation"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 9,
+        "word": "贈り物",
+        "reading": "おくりもの"
+      }
+    },
+    {
+      "character": "出",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 13,
+      "onyomi": [
+        "シュツ",
+        "スイ"
+      ],
+      "kunyomi": [
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "meanings": [
+        "exit",
+        "leave",
+        "go out",
+        "come out",
+        "put out",
+        "protrude"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 4,
+        "word": "思い出す",
+        "reading": "おもいだす"
+      }
+    },
+    {
+      "character": "女",
+      "level": "N4",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 151,
+      "onyomi": [
+        "ジョ",
+        "ニョ",
+        "ニョウ"
+      ],
+      "kunyomi": [
+        "おんな",
+        "め"
+      ],
+      "meanings": [
+        "woman",
+        "female"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 2,
+        "word": "彼女",
+        "reading": "かのじょ"
+      }
+    },
+    {
+      "character": "育",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 369,
+      "onyomi": [
+        "イク"
+      ],
+      "kunyomi": [
+        "そだ.つ",
+        "そだ.ち",
+        "そだ.てる",
+        "はぐく.む"
+      ],
+      "meanings": [
+        "bring up",
+        "grow up",
+        "raise",
+        "rear"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 9,
+        "word": "教育",
+        "reading": "きょういく"
+      }
+    },
+    {
+      "character": "折",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 4,
+      "freq": 962,
+      "onyomi": [
+        "セツ",
+        "シャク"
+      ],
+      "kunyomi": [
+        "お.る",
+        "おり",
+        "お.り",
+        "-お.り",
+        "お.れる"
+      ],
+      "meanings": [
+        "fold",
+        "break",
+        "fracture",
+        "bend",
+        "yield",
+        "submit"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 0,
+        "word": "折る",
+        "reading": "おる"
+      }
+    },
+    {
+      "character": "済",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 6,
+      "freq": 168,
+      "onyomi": [
+        "サイ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "す.む",
+        "-ず.み",
+        "-ずみ",
+        "す.まない",
+        "す.ます",
+        "-す.ます",
+        "すく.う",
+        "な.す",
+        "わたし",
+        "わた.る"
+      ],
+      "meanings": [
+        "settle (debt, etc.)",
+        "relieve (burden)",
+        "finish",
+        "come to an end",
+        "excusable",
+        "need not"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 6,
+        "word": "経済",
+        "reading": "けいざい"
+      }
+    },
+    {
+      "character": "怖",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 8,
+      "freq": 1325,
+      "onyomi": [
+        "フ",
+        "ホ"
+      ],
+      "kunyomi": [
+        "こわ.い",
+        "こわ.がる",
+        "お.じる",
+        "おそ.れる"
+      ],
+      "meanings": [
+        "dreadful",
+        "be frightened",
+        "fearful"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 6,
+        "word": "怖い",
+        "reading": "こわい"
+      }
+    },
+    {
+      "character": "簡",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんい"
+      ],
+      "meanings": [
+        "simplicity",
+        "easiness",
+        "quasi-"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 2,
+        "word": "簡単",
+        "reading": "かんたん"
+      }
+    },
+    {
+      "character": "慮",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "はいりょ"
+      ],
+      "meanings": [
+        "consideration",
+        "concern",
+        "forethought"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 6,
+        "word": "遠慮",
+        "reading": "えんりょする"
+      }
+    },
+    {
+      "character": "等",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 798,
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "ひと.しい",
+        "など",
+        "-ら"
+      ],
+      "meanings": [
+        "etc.",
+        "and so forth",
+        "class (first)",
+        "quality",
+        "equal",
+        "similar"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 7,
+        "word": "高等学校",
+        "reading": "こうとうがっこう"
+      }
+    },
+    {
+      "character": "案",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あんがい"
+      ],
+      "meanings": [
+        "unexpectedly"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 1,
+        "word": "案内",
+        "reading": "あんないする"
+      }
+    },
+    {
+      "character": "坊",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ぼうさん"
+      ],
+      "meanings": [
+        "Buddhist priest",
+        "monk"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 2,
+        "word": "赤ん坊",
+        "reading": "あかんぼう"
+      }
+    },
+    {
+      "character": "驚",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おどろかす"
+      ],
+      "meanings": [
+        "to surprise",
+        "to frighten",
+        "to create a stir"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 0,
+        "word": "驚く",
+        "reading": "おどろく"
+      }
+    },
+    {
+      "character": "単",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 4,
+      "freq": 586,
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "ひとえ"
+      ],
+      "meanings": [
+        "simple",
+        "one",
+        "single",
+        "merely"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 2,
+        "word": "簡単",
+        "reading": "かんたん"
+      }
+    },
+    {
+      "character": "舎",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こうしゃ"
+      ],
+      "meanings": [
+        "school building"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 0,
+        "word": "田舎",
+        "reading": "いなか"
+      }
+    },
+    {
+      "character": "課",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かぜい"
+      ],
+      "meanings": [
+        "taxation"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 7,
+        "word": "課長",
+        "reading": "かちょう"
+      }
+    },
+    {
+      "character": "美",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 462,
+      "onyomi": [
+        "ビ",
+        "ミ"
+      ],
+      "kunyomi": [
+        "うつく.しい"
+      ],
+      "meanings": [
+        "beauty",
+        "beautiful"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 6,
+        "word": "美しい",
+        "reading": "うつくしい"
+      }
+    },
+    {
+      "character": "落",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 420,
+      "onyomi": [
+        "ラク"
+      ],
+      "kunyomi": [
+        "お.ちる",
+        "お.ち",
+        "お.とす"
+      ],
+      "meanings": [
+        "fall",
+        "drop",
+        "come down",
+        "village",
+        "hamlet"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 8,
+        "word": "落す",
+        "reading": "おとす"
+      }
+    },
+    {
+      "character": "祭",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さいじつ"
+      ],
+      "meanings": [
+        "national holiday",
+        "festival day"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 1,
+        "word": "お祭り",
+        "reading": "おまつり"
+      }
+    },
+    {
+      "character": "泳",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 1223,
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [
+        "およ.ぐ"
+      ],
+      "meanings": [
+        "swim"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 8,
+        "word": "泳ぎ方",
+        "reading": "およぎかた"
+      }
+    },
+    {
+      "character": "産",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 4,
+      "freq": 161,
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "う.む",
+        "う.まれる",
+        "うぶ-",
+        "む.す"
+      ],
+      "meanings": [
+        "products",
+        "bear",
+        "give birth",
+        "yield",
+        "childbirth",
+        "native",
+        "property"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 3,
+        "word": "お土産",
+        "reading": "おみやげ"
+      }
+    },
+    {
+      "character": "務",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 111,
+      "onyomi": [
+        "ム"
+      ],
+      "kunyomi": [
+        "つと.める"
+      ],
+      "meanings": [
+        "task",
+        "duties"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 9,
+        "word": "公務員",
+        "reading": "こうむいん"
+      }
+    },
+    {
+      "character": "関",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 4,
+      "freq": 70,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "せき",
+        "-ぜき",
+        "かか.わる",
+        "からくり",
+        "かんぬき"
+      ],
+      "meanings": [
+        "connection",
+        "barrier",
+        "gateway",
+        "involve",
+        "concerning"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 0,
+        "word": "関係",
+        "reading": "かんけい"
+      }
+    },
+    {
+      "character": "所",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 221,
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "ところ",
+        "-ところ",
+        "どころ",
+        "とこ"
+      ],
+      "meanings": [
+        "place",
+        "extent"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 3,
+        "word": "近所",
+        "reading": "きんじょ"
+      }
+    },
+    {
+      "character": "技",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ぎのう"
+      ],
+      "meanings": [
+        "technical skill",
+        "ability",
+        "capacity"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 4,
+        "word": "技術",
+        "reading": "ぎじゅつ"
+      }
+    },
+    {
+      "character": "具",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 629,
+      "onyomi": [
+        "グ"
+      ],
+      "kunyomi": [
+        "そな.える",
+        "つぶさ.に"
+      ],
+      "meanings": [
+        "tool",
+        "utensil",
+        "means",
+        "possess",
+        "ingredients",
+        "counter for armor, suits, sets of furniture"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 1,
+        "word": "具合",
+        "reading": "ぐあい"
+      }
+    },
+    {
+      "character": "気",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 1,
+      "freq": 113,
+      "onyomi": [
+        "キ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "いき",
+        "き"
+      ],
+      "meanings": [
+        "spirit",
+        "mind",
+        "air",
+        "atmosphere",
+        "mood"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 3,
+        "word": "気",
+        "reading": "き"
+      }
+    },
+    {
+      "character": "怒",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 8,
+      "freq": 1221,
+      "onyomi": [
+        "ド",
+        "ヌ"
+      ],
+      "kunyomi": [
+        "いか.る",
+        "おこ.る"
+      ],
+      "meanings": [
+        "angry",
+        "be offended"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 3,
+        "word": "怒る",
+        "reading": "おこる"
+      }
+    },
+    {
+      "character": "小",
+      "level": "N4",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 114,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "ちい.さい",
+        "こ-",
+        "お-",
+        "さ-"
+      ],
+      "meanings": [
+        "little",
+        "small"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 2,
+        "word": "小鳥",
+        "reading": "ことり"
+      }
+    },
+    {
+      "character": "季",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しき"
+      ],
+      "meanings": [
+        "four seasons"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 8,
+        "word": "季節",
+        "reading": "きせつ"
+      }
+    },
+    {
+      "character": "故",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こ"
+      ],
+      "meanings": [
+        "the late (deceased)"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 1,
+        "word": "故障",
+        "reading": "こしょうする"
+      }
+    },
+    {
+      "character": "敗",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 4,
+      "freq": 516,
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": [
+        "やぶ.れる"
+      ],
+      "meanings": [
+        "failure",
+        "defeat",
+        "reversal"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 5,
+        "word": "失敗",
+        "reading": "しっぱい"
+      }
+    },
+    {
+      "character": "念",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 4,
+      "freq": 390,
+      "onyomi": [
+        "ネン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "wish",
+        "sense",
+        "idea",
+        "thought",
+        "feeling",
+        "desire",
+        "attention"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 0,
+        "word": "残念",
+        "reading": "ざんねん"
+      }
+    },
+    {
+      "character": "込",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 8,
+      "freq": 675,
+      "onyomi": [],
+      "kunyomi": [
+        "-こ.む",
+        "こ.む",
+        "こ.み",
+        "-こ.み",
+        "こ.める"
+      ],
+      "meanings": [
+        "crowded",
+        "mixture",
+        "in bulk",
+        "included",
+        "(kokuji)"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 4,
+        "word": "込む",
+        "reading": "こむ"
+      }
+    },
+    {
+      "character": "草",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 1,
+      "freq": 967,
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "くさ",
+        "くさ-",
+        "-ぐさ"
+      ],
+      "meanings": [
+        "grass",
+        "weeds",
+        "herbs",
+        "pasture",
+        "write",
+        "draft"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 6,
+        "word": "草",
+        "reading": "くさ"
+      }
+    },
+    {
+      "character": "騒",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さわがしい"
+      ],
+      "meanings": [
+        "noisy"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 8,
+        "word": "騒ぐ",
+        "reading": "さわぐ"
+      }
+    },
+    {
+      "character": "説",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 4,
+      "freq": 326,
+      "onyomi": [
+        "セツ",
+        "ゼイ"
+      ],
+      "kunyomi": [
+        "と.く"
+      ],
+      "meanings": [
+        "opinion",
+        "theory",
+        "explanation",
+        "rumor"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 6,
+        "word": "小説",
+        "reading": "しょうせつ"
+      }
+    },
+    {
+      "character": "港",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 495,
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "みなと"
+      ],
+      "meanings": [
+        "harbor"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 5,
+        "word": "空港",
+        "reading": "くうこう"
+      }
+    },
+    {
+      "character": "裏",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うらがえす"
+      ],
+      "meanings": [
+        "to turn inside out",
+        "to turn (something) over"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 0,
+        "word": "裏",
+        "reading": "うら"
+      }
+    },
+    {
+      "character": "乾",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かわかす"
+      ],
+      "meanings": [
+        "to dry (clothes",
+        "etc.)",
+        "to desiccate"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 7,
+        "word": "乾く",
+        "reading": "かわく"
+      }
+    },
+    {
+      "character": "糸",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けいと"
+      ],
+      "meanings": [
+        "knitting wool"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 9,
+        "word": "糸",
+        "reading": "いと"
+      }
+    },
+    {
+      "character": "寂",
+      "strokes": 11,
+      "grade": 8,
+      "freq": 1645,
+      "onyomi": [
+        "ジャク",
+        "セキ"
+      ],
+      "kunyomi": [
+        "さび",
+        "さび.しい",
+        "さび.れる"
+      ],
+      "meanings": [
+        "lonely",
+        "quiet",
+        "solitude"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 7,
+        "word": "寂しい",
+        "reading": "さびしい"
+      }
+    },
+    {
+      "character": "慣",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 5,
+      "freq": 1177,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "な.れる",
+        "な.らす"
+      ],
+      "meanings": [
+        "accustomed",
+        "get used to",
+        "become experienced"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 0,
+        "word": "習慣",
+        "reading": "しゅうかん"
+      }
+    },
+    {
+      "character": "付",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 4,
+      "freq": 322,
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [
+        "つ.ける",
+        "-つ.ける",
+        "-づ.ける",
+        "つ.け",
+        "つ.け-",
+        "-つ.け",
+        "-づ.け",
+        "-づけ",
+        "つ.く",
+        "-づ.く",
+        "つ.き",
+        "-つ.き",
+        "-つき",
+        "-づ.き",
+        "-づき"
+      ],
+      "meanings": [
+        "adhere",
+        "attach",
+        "refer to",
+        "append"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 3,
+        "word": "受付",
+        "reading": "うけつけ"
+      }
+    },
+    {
+      "character": "坂",
+      "strokes": 7,
+      "grade": 3,
+      "freq": 644,
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [
+        "さか"
+      ],
+      "meanings": [
+        "slope",
+        "incline",
+        "hill"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 4,
+        "word": "坂",
+        "reading": "さか"
+      }
+    },
+    {
+      "character": "土",
+      "level": "N4",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 307,
+      "onyomi": [
+        "ド",
+        "ト"
+      ],
+      "kunyomi": [
+        "つち"
+      ],
+      "meanings": [
+        "soil",
+        "earth",
+        "ground",
+        "Turkey"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 3,
+        "word": "お土産",
+        "reading": "おみやげ"
+      }
+    },
+    {
+      "character": "上",
+      "level": "N4",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 35,
+      "onyomi": [
+        "ジョウ",
+        "ショウ",
+        "シャン"
+      ],
+      "kunyomi": [
+        "うえ",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "あ.げる",
+        "-あ.げる",
+        "あ.がる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.る",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "たてまつ.る"
+      ],
+      "meanings": [
+        "above",
+        "up"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 3,
+        "word": "上る",
+        "reading": "あがる"
+      }
+    },
+    {
+      "character": "競",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けいば"
+      ],
+      "meanings": [
+        "horse racing"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 1,
+        "word": "競争",
+        "reading": "きょうそう"
+      }
+    },
+    {
+      "character": "腕",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うでまえ"
+      ],
+      "meanings": [
+        "ability",
+        "skill",
+        "facility"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 9,
+        "word": "腕",
+        "reading": "うで"
+      }
+    },
+    {
+      "character": "汽",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きせん"
+      ],
+      "meanings": [
+        "steamship"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 7,
+        "word": "汽車",
+        "reading": "きしゃ"
+      }
+    },
+    {
+      "character": "話",
+      "level": "N4",
+      "strokes": 13,
+      "grade": 2,
+      "freq": 134,
+      "onyomi": [
+        "ワ"
+      ],
+      "kunyomi": [
+        "はな.す",
+        "はなし"
+      ],
+      "meanings": [
+        "tale",
+        "talk"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 7,
+        "word": "会話",
+        "reading": "かいわ"
+      }
+    },
+    {
+      "character": "残",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 4,
+      "freq": 380,
+      "onyomi": [
+        "ザン",
+        "サン"
+      ],
+      "kunyomi": [
+        "のこ.る",
+        "のこ.す",
+        "そこな.う",
+        "のこ.り"
+      ],
+      "meanings": [
+        "remainder",
+        "leftover",
+        "balance"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 0,
+        "word": "残念",
+        "reading": "ざんねん"
+      }
+    },
+    {
+      "character": "講",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きゅうこう"
+      ],
+      "meanings": [
+        "lecture cancelled"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 3,
+        "word": "講義",
+        "reading": "こうぎ"
+      }
+    },
+    {
+      "character": "祈",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いのり"
+      ],
+      "meanings": [
+        "prayer",
+        "supplication"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 1,
+        "word": "祈る",
+        "reading": "いのる"
+      }
+    },
+    {
+      "character": "招",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 5,
+      "freq": 840,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "まね.く"
+      ],
+      "meanings": [
+        "beckon",
+        "invite",
+        "summon",
+        "engage"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 7,
+        "word": "招待",
+        "reading": "しょうたいする"
+      }
+    },
+    {
+      "character": "細",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こころぼそい"
+      ],
+      "meanings": [
+        "helpless",
+        "forlorn",
+        "hopeless"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 3,
+        "word": "細かい",
+        "reading": "こまかい"
+      }
+    },
+    {
+      "character": "押",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 8,
+      "freq": 789,
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "お.す",
+        "お.し-",
+        "お.っ-",
+        "お.さえる",
+        "おさ.える"
+      ],
+      "meanings": [
+        "push",
+        "stop",
+        "check",
+        "subdue",
+        "attach",
+        "seize",
+        "weight",
+        "shove",
+        "press",
+        "seal",
+        "do in spite of"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 4,
+        "word": "押し入れ",
+        "reading": "おしいれ"
+      }
+    },
+    {
+      "character": "術",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 350,
+      "onyomi": [
+        "ジュツ"
+      ],
+      "kunyomi": [
+        "すべ"
+      ],
+      "meanings": [
+        "art",
+        "technique",
+        "skill",
+        "means",
+        "trick",
+        "resources",
+        "magic"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 4,
+        "word": "技術",
+        "reading": "ぎじゅつ"
+      }
+    },
+    {
+      "character": "祝",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しゅくじつ"
+      ],
+      "meanings": [
+        "national holiday"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 7,
+        "word": "お祝い",
+        "reading": "おいわい"
+      }
+    },
+    {
+      "character": "議",
+      "level": "N4",
+      "strokes": 20,
+      "grade": 4,
+      "freq": 25,
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 4,
+        "word": "会議",
+        "reading": "かいぎ"
+      }
+    },
+    {
+      "character": "礼",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 3,
+      "freq": 1185,
+      "onyomi": [
+        "レイ",
+        "ライ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "salute",
+        "bow",
+        "ceremony",
+        "thanks",
+        "remuneration"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 1,
+        "word": "お礼",
+        "reading": "おれい"
+      }
+    },
+    {
+      "character": "触",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かぶれる"
+      ],
+      "meanings": [
+        "to react to",
+        "to be influenced by",
+        "to go overboard for"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 9,
+        "word": "触る",
+        "reading": "さわる"
+      }
+    },
+    {
+      "character": "悲",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 1014,
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "かな.しい",
+        "かな.しむ"
+      ],
+      "meanings": [
+        "grieve",
+        "sad",
+        "deplore",
+        "regret"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 0,
+        "word": "悲しい",
+        "reading": "かなしい"
+      }
+    },
+    {
+      "character": "変",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 4,
+      "freq": 238,
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "か.わる",
+        "か.わり",
+        "か.える"
+      ],
+      "meanings": [
+        "unusual",
+        "change",
+        "strange"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 9,
+        "word": "変える",
+        "reading": "かえる"
+      }
+    },
+    {
+      "character": "存",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 6,
+      "freq": 577,
+      "onyomi": [
+        "ソン",
+        "ゾン"
+      ],
+      "kunyomi": [
+        "ながら.える",
+        "あ.る",
+        "たも.つ",
+        "と.う"
+      ],
+      "meanings": [
+        "exist",
+        "suppose",
+        "be aware of",
+        "believe",
+        "feel"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 0,
+        "word": "ご存じ",
+        "reading": "ごぞんじ"
+      }
+    },
+    {
+      "character": "行",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 20,
+      "onyomi": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kunyomi": [
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "meanings": [
+        "going",
+        "journey",
+        "carry out",
+        "conduct",
+        "act",
+        "line",
+        "row",
+        "bank"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 2,
+        "word": "行う",
+        "reading": "おこなう"
+      }
+    },
+    {
+      "character": "校",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 1,
+      "freq": 294,
+      "onyomi": [
+        "コウ",
+        "キョウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "exam",
+        "school",
+        "printing",
+        "proof",
+        "correction"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 4,
+        "word": "高校生",
+        "reading": "こうこうせい"
+      }
+    },
+    {
+      "character": "内",
+      "level": "N4",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 44,
+      "onyomi": [
+        "ナイ",
+        "ダイ"
+      ],
+      "kunyomi": [
+        "うち"
+      ],
+      "meanings": [
+        "inside",
+        "within",
+        "between",
+        "among",
+        "house",
+        "home"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 1,
+        "word": "案内",
+        "reading": "あんないする"
+      }
+    },
+    {
+      "character": "遠",
+      "level": "N4",
+      "strokes": 13,
+      "grade": 2,
+      "freq": 887,
+      "onyomi": [
+        "エン",
+        "オン"
+      ],
+      "kunyomi": [
+        "とお.い"
+      ],
+      "meanings": [
+        "distant",
+        "far"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 6,
+        "word": "遠慮",
+        "reading": "えんりょする"
+      }
+    },
+    {
+      "character": "形",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 418,
+      "onyomi": [
+        "ケイ",
+        "ギョウ"
+      ],
+      "kunyomi": [
+        "かた",
+        "-がた",
+        "かたち",
+        "なり"
+      ],
+      "meanings": [
+        "shape",
+        "form",
+        "style"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 5,
+        "word": "形",
+        "reading": "かたち"
+      }
+    },
+    {
+      "character": "察",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 4,
+      "freq": 477,
+      "onyomi": [
+        "サツ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "guess",
+        "presume",
+        "surmise",
+        "judge",
+        "understand"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 5,
+        "word": "警察",
+        "reading": "けいさつ"
+      }
+    },
+    {
+      "character": "外",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 81,
+      "onyomi": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "meanings": [
+        "outside"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 2,
+        "word": "郊外",
+        "reading": "こうがい"
+      }
+    },
+    {
+      "character": "遅",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 8,
+      "freq": 833,
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "おく.れる",
+        "おく.らす",
+        "おそ.い"
+      ],
+      "meanings": [
+        "slow",
+        "late",
+        "back",
+        "later"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 1,
+        "word": "遅れる",
+        "reading": "おくれる"
+      }
+    },
+    {
+      "character": "毛",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けいと"
+      ],
+      "meanings": [
+        "knitting wool"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 2,
+        "word": "毛",
+        "reading": "け"
+      }
+    },
+    {
+      "character": "婦",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 671,
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [
+        "よめ"
+      ],
+      "meanings": [
+        "lady",
+        "woman",
+        "wife",
+        "bride"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 1,
+        "word": "看護婦",
+        "reading": "かんごふ"
+      }
+    },
+    {
+      "character": "舞",
+      "level": "N4",
+      "strokes": 15,
+      "grade": 8,
+      "freq": 655,
+      "onyomi": [
+        "ブ"
+      ],
+      "kunyomi": [
+        "ま.う",
+        "-ま.う",
+        "まい"
+      ],
+      "meanings": [
+        "dance",
+        "flit",
+        "circle",
+        "wheel"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 2,
+        "word": "お見舞い",
+        "reading": "おみまい"
+      }
+    },
+    {
+      "character": "表",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 77,
+      "onyomi": [
+        "ヒョウ"
+      ],
+      "kunyomi": [
+        "おもて",
+        "-おもて",
+        "あらわ.す",
+        "あらわ.れる",
+        "あら.わす"
+      ],
+      "meanings": [
+        "surface",
+        "table",
+        "chart",
+        "diagram"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 6,
+        "qIndex": 6,
+        "word": "表",
+        "reading": "おもて"
+      }
+    },
+    {
+      "character": "選",
+      "level": "N4",
+      "strokes": 15,
+      "grade": 4,
+      "freq": 57,
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "えら.ぶ",
+        "え.る",
+        "よ.る"
+      ],
+      "meanings": [
+        "elect",
+        "select",
+        "choose",
+        "prefer"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 5,
+        "word": "選ぶ",
+        "reading": "えらぶ"
+      }
+    },
+    {
+      "character": "必",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 4,
+      "freq": 265,
+      "onyomi": [
+        "ヒツ"
+      ],
+      "kunyomi": [
+        "かなら.ず"
+      ],
+      "meanings": [
+        "invariably",
+        "certain",
+        "inevitable"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 1,
+        "word": "必ず",
+        "reading": "かならず"
+      }
+    },
+    {
+      "character": "片",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かたかな"
+      ],
+      "meanings": [
+        "katakana"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 6,
+        "word": "片付ける",
+        "reading": "かたづける"
+      }
+    },
+    {
+      "character": "雲",
+      "strokes": 12,
+      "grade": 2,
+      "freq": 1288,
+      "onyomi": [
+        "ウン"
+      ],
+      "kunyomi": [
+        "くも"
+      ],
+      "meanings": [
+        "cloud"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 8,
+        "word": "雲",
+        "reading": "くも"
+      }
+    },
+    {
+      "character": "義",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いぎ"
+      ],
+      "meanings": [
+        "meaning",
+        "significance"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 3,
+        "word": "講義",
+        "reading": "こうぎ"
+      }
+    },
+    {
+      "character": "飾",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かざり"
+      ],
+      "meanings": [
+        "decoration"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 3,
+        "word": "飾る",
+        "reading": "かざる"
+      }
+    },
+    {
+      "character": "彼",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 8,
+      "freq": 648,
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "かれ",
+        "かの",
+        "か.の"
+      ],
+      "meanings": [
+        "he",
+        "that",
+        "the"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 2,
+        "word": "彼女",
+        "reading": "かのじょ"
+      }
+    },
+    {
+      "character": "暮",
+      "level": "N4",
+      "strokes": 14,
+      "grade": 6,
+      "freq": 978,
+      "onyomi": [
+        "ボ"
+      ],
+      "kunyomi": [
+        "く.れる",
+        "く.らす"
+      ],
+      "meanings": [
+        "evening",
+        "twilight",
+        "season's end",
+        "livelihood",
+        "make a living",
+        "spend time"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 0,
+        "word": "暮れる",
+        "reading": "くれる"
+      }
+    },
+    {
+      "character": "嬢",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "じょう"
+      ],
+      "meanings": [
+        "young woman"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 5,
+        "word": "お嬢さん",
+        "reading": "おじょうさん"
+      }
+    },
+    {
+      "character": "探",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 6,
+      "freq": 930,
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "さぐ.る",
+        "さが.す"
+      ],
+      "meanings": [
+        "grope",
+        "search",
+        "look for"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 6,
+        "word": "探す",
+        "reading": "さがす"
+      }
+    },
+    {
+      "character": "機",
+      "level": "N4",
+      "strokes": 16,
+      "grade": 4,
+      "freq": 127,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "はた"
+      ],
+      "meanings": [
+        "loom",
+        "mechanism",
+        "machine",
+        "airplane",
+        "opportunity",
+        "potency",
+        "efficacy",
+        "occasion"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 4,
+        "word": "機会",
+        "reading": "きかい"
+      }
+    },
+    {
+      "character": "勝",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 185,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "か.つ",
+        "-が.ち",
+        "まさ.る",
+        "すぐ.れる",
+        "かつ"
+      ],
+      "meanings": [
+        "victory",
+        "win",
+        "prevail",
+        "excel"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 8,
+        "word": "勝つ",
+        "reading": "かつ"
+      }
+    },
+    {
+      "character": "比",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ひかくてき"
+      ],
+      "meanings": [
+        "comparatively",
+        "relatively"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 9,
+        "word": "比べる",
+        "reading": "くらべる"
+      }
+    },
+    {
+      "character": "節",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ちょうせつ"
+      ],
+      "meanings": [
+        "regulation",
+        "adjustment",
+        "control"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 8,
+        "word": "季節",
+        "reading": "きせつ"
+      }
+    },
+    {
+      "character": "争",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 4,
+      "freq": 271,
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "あらそ.う",
+        "いか.でか"
+      ],
+      "meanings": [
+        "contend",
+        "dispute",
+        "argue"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 1,
+        "word": "競争",
+        "reading": "きょうそう"
+      }
+    },
+    {
+      "character": "趣",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おもむき"
+      ],
+      "meanings": [
+        "meaning",
+        "tenor",
+        "gist"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 3,
+        "word": "趣味",
+        "reading": "しゅみ"
+      }
+    },
+    {
+      "character": "決",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 3,
+      "freq": 71,
+      "onyomi": [
+        "ケツ"
+      ],
+      "kunyomi": [
+        "き.める",
+        "-ぎ.め",
+        "き.まる",
+        "さ.く"
+      ],
+      "meanings": [
+        "decide",
+        "fix",
+        "agree upon",
+        "appoint"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 3,
+        "word": "決る",
+        "reading": "きまる"
+      }
+    },
+    {
+      "character": "入",
+      "level": "N4",
+      "strokes": 2,
+      "grade": 1,
+      "freq": 56,
+      "onyomi": [
+        "ニュウ",
+        "ジュ"
+      ],
+      "kunyomi": [
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+      ],
+      "meanings": [
+        "enter",
+        "insert"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 4,
+        "word": "押し入れ",
+        "reading": "おしいれ"
+      }
+    },
+    {
+      "character": "壁",
+      "strokes": 16,
+      "grade": 8,
+      "freq": 1059,
+      "onyomi": [
+        "ヘキ"
+      ],
+      "kunyomi": [
+        "かべ"
+      ],
+      "meanings": [
+        "wall",
+        "lining",
+        "fence"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 9,
+        "qIndex": 3,
+        "word": "壁",
+        "reading": "かべ"
+      }
+    },
+    {
+      "character": "合",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 41,
+      "onyomi": [
+        "ゴウ",
+        "ガッ",
+        "カッ"
+      ],
+      "kunyomi": [
+        "あ.う",
+        "-あ.う",
+        "あ.い",
+        "あい-",
+        "-あ.い",
+        "-あい",
+        "あ.わす",
+        "あ.わせる",
+        "-あ.わせる"
+      ],
+      "meanings": [
+        "fit",
+        "suit",
+        "join",
+        "0.1"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 1,
+        "qIndex": 1,
+        "word": "合う",
+        "reading": "あう"
+      }
+    },
+    {
+      "character": "障",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しょうじ"
+      ],
+      "meanings": [
+        "paper sliding door"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 1,
+        "word": "故障",
+        "reading": "こしょうする"
+      }
+    },
+    {
+      "character": "最",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 4,
+      "freq": 82,
+      "onyomi": [
+        "サイ",
+        "シュ"
+      ],
+      "kunyomi": [
+        "もっと.も",
+        "つま"
+      ],
+      "meanings": [
+        "utmost",
+        "most",
+        "extreme"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 16,
+        "qIndex": 1,
+        "word": "最近",
+        "reading": "さいきん"
+      }
+    },
+    {
+      "character": "植",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うえき"
+      ],
+      "meanings": [
+        "garden shrubs",
+        "trees",
+        "potted plant"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 3,
+        "qIndex": 2,
+        "word": "植える",
+        "reading": "うえる"
+      }
+    },
+    {
+      "character": "分",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いくぶん"
+      ],
+      "meanings": [
+        "somewhat"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 2,
+        "word": "気分",
+        "reading": "きぶん"
+      }
+    },
+    {
+      "character": "一",
+      "level": "N4",
+      "strokes": 1,
+      "grade": 1,
+      "freq": 2,
+      "onyomi": [
+        "イチ",
+        "イツ"
+      ],
+      "kunyomi": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 8,
+        "word": "一度",
+        "reading": "いちど"
+      }
+    },
+    {
+      "character": "則",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ふきそく"
+      ],
+      "meanings": [
+        "irregularity",
+        "unsteadiness",
+        "disorderly"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 10,
+        "qIndex": 9,
+        "word": "規則",
+        "reading": "きそく"
+      }
+    },
+    {
+      "character": "失",
+      "level": "N4",
+      "strokes": 5,
+      "grade": 4,
+      "freq": 447,
+      "onyomi": [
+        "シツ"
+      ],
+      "kunyomi": [
+        "うしな.う",
+        "う.せる"
+      ],
+      "meanings": [
+        "lose",
+        "error",
+        "fault",
+        "disadvantage",
+        "loss"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 5,
+        "word": "失敗",
+        "reading": "しっぱい"
+      }
+    },
+    {
+      "character": "岸",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "えんがん"
+      ],
+      "meanings": [
+        "coast",
+        "shore"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 7,
+        "qIndex": 3,
+        "word": "海岸",
+        "reading": "かいがん"
+      }
+    },
+    {
+      "character": "因",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 5,
+      "freq": 636,
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [
+        "よ.る",
+        "ちな.む"
+      ],
+      "meanings": [
+        "cause",
+        "factor",
+        "be associated with",
+        "depend on",
+        "be limited to"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 1,
+        "word": "原因",
+        "reading": "げんいん"
+      }
+    },
+    {
+      "character": "島",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "はんとう"
+      ],
+      "meanings": [
+        "peninsula"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 17,
+        "qIndex": 7,
+        "word": "島",
+        "reading": "しま"
+      }
+    },
+    {
+      "character": "将",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しょうぎ"
+      ],
+      "meanings": [
+        "Japanese chess"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 9,
+        "word": "将来",
+        "reading": "しょうらい"
+      }
+    },
+    {
+      "character": "枝",
+      "strokes": 8,
+      "grade": 5,
+      "freq": 1361,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "えだ"
+      ],
+      "meanings": [
+        "bough",
+        "branch",
+        "twig"
+      ],
+      "level": "N4",
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 4,
+        "qIndex": 4,
+        "word": "枝",
+        "reading": "えだ"
+      }
+    },
+    {
+      "character": "宿",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 701,
+      "onyomi": [
+        "シュク"
+      ],
+      "kunyomi": [
+        "やど",
+        "やど.る",
+        "やど.す"
+      ],
+      "meanings": [
+        "inn",
+        "lodging",
+        "relay station",
+        "dwell",
+        "lodge",
+        "be pregnant",
+        "home",
+        "dwelling"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 0,
+        "word": "下宿",
+        "reading": "げしゅく"
+      }
+    },
+    {
+      "character": "経",
+      "level": "N4",
+      "strokes": 11,
+      "grade": 5,
+      "freq": 79,
+      "onyomi": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kunyomi": [
+        "へ.る",
+        "た.つ",
+        "たていと",
+        "はか.る",
+        "のり"
+      ],
+      "meanings": [
+        "sutra",
+        "longitude",
+        "pass thru",
+        "expire",
+        "warp"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 4,
+        "word": "経験",
+        "reading": "けいけんする"
+      }
+    },
+    {
+      "character": "学",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 63,
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まな.ぶ"
+      ],
+      "meanings": [
+        "study",
+        "learning",
+        "science"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 3,
+        "word": "医学",
+        "reading": "いがく"
+      }
+    },
+    {
+      "character": "客",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 557,
+      "onyomi": [
+        "キャク",
+        "カク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "guest",
+        "visitor",
+        "customer",
+        "client"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 7,
+        "word": "客",
+        "reading": "きゃく"
+      }
+    },
+    {
+      "character": "宅",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 6,
+      "freq": 357,
+      "onyomi": [
+        "タク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "home",
+        "house",
+        "residence",
+        "our house",
+        "my husband"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 5,
+        "qIndex": 6,
+        "word": "お宅",
+        "reading": "おたく"
+      }
+    },
+    {
+      "character": "興",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きょうじる"
+      ],
+      "meanings": [
+        "to amuse oneself",
+        "to make merry"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 12,
+        "qIndex": 2,
+        "word": "興味",
+        "reading": "きょうみ"
+      }
+    },
+    {
+      "character": "景",
+      "level": "N4",
+      "strokes": 12,
+      "grade": 4,
+      "freq": 419,
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "scenery",
+        "view"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 13,
+        "qIndex": 7,
+        "word": "景色",
+        "reading": "けしき"
+      }
+    },
+    {
+      "character": "全",
+      "level": "N4",
+      "strokes": 6,
+      "grade": 3,
+      "freq": 75,
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [
+        "まった.く",
+        "すべ.て"
+      ],
+      "meanings": [
+        "whole",
+        "entire",
+        "all",
+        "complete",
+        "fulfill"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 0,
+        "word": "安全",
+        "reading": "あんぜん"
+      }
+    },
+    {
+      "character": "長",
+      "level": "N4",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 12,
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "なが.い",
+        "おさ"
+      ],
+      "meanings": [
+        "long",
+        "leader",
+        "superior",
+        "senior"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 7,
+        "word": "課長",
+        "reading": "かちょう"
+      }
+    },
+    {
+      "character": "君",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 3,
+      "freq": 947,
+      "onyomi": [
+        "クン"
+      ],
+      "kunyomi": [
+        "きみ",
+        "-ぎみ"
+      ],
+      "meanings": [
+        "mister",
+        "you",
+        "ruler",
+        "male name suffix"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 4,
+        "word": "君",
+        "reading": "きみ"
+      }
+    },
+    {
+      "character": "高",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 65,
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "たか.い",
+        "たか",
+        "-だか",
+        "たか.まる",
+        "たか.める"
+      ],
+      "meanings": [
+        "tall",
+        "high",
+        "expensive"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 4,
+        "word": "高校生",
+        "reading": "こうこうせい"
+      }
+    },
+    {
+      "character": "今",
+      "level": "N4",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 49,
+      "onyomi": [
+        "コン",
+        "キン"
+      ],
+      "kunyomi": [
+        "いま"
+      ],
+      "meanings": [
+        "now"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 8,
+        "word": "今度",
+        "reading": "こんど"
+      }
+    },
+    {
+      "character": "席",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 4,
+      "freq": 370,
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [
+        "むしろ"
+      ],
+      "meanings": [
+        "seat",
+        "mat",
+        "occasion",
+        "place"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 1,
+        "word": "出席",
+        "reading": "しゅっせきする"
+      }
+    },
+    {
+      "character": "承",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うけたまわる"
+      ],
+      "meanings": [
+        "(hum) to hear",
+        "to be told",
+        "to know"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 8,
+        "word": "承知",
+        "reading": "しょうちする"
+      }
+    },
+    {
+      "character": "厳",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "げんじゅう"
+      ],
+      "meanings": [
+        "strict",
+        "rigour",
+        "severe"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 11,
+        "qIndex": 1,
+        "word": "厳しい",
+        "reading": "きびしい"
+      }
+    },
+    {
+      "character": "壊",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "はかい"
+      ],
+      "meanings": [
+        "destruction"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 15,
+        "qIndex": 7,
+        "word": "壊れる",
+        "reading": "こわれる"
+      }
+    },
+    {
+      "character": "郊",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きんこう"
+      ],
+      "meanings": [
+        "suburbs",
+        "outskirts"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 14,
+        "qIndex": 2,
+        "word": "郊外",
+        "reading": "こうがい"
+      }
+    },
+    {
+      "character": "見",
+      "level": "N4",
+      "strokes": 7,
+      "grade": 1,
+      "freq": 22,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "meanings": [
+        "see",
+        "hopes",
+        "chances",
+        "idea",
+        "opinion",
+        "look at",
+        "visible"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 2,
+        "qIndex": 5,
+        "word": "意見",
+        "reading": "いけん"
+      }
+    },
+    {
+      "character": "科",
+      "level": "N4",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 531,
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "department",
+        "course",
+        "section"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 8,
+        "qIndex": 0,
+        "word": "科学",
+        "reading": "かがく"
+      }
+    },
+    {
+      "character": "介",
+      "level": "N4",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かいご"
+      ],
+      "meanings": [
+        "nursing"
+      ],
+      "dailyQuizRef": {
+        "level": "N4",
+        "day": 18,
+        "qIndex": 4,
+        "word": "紹介",
+        "reading": "しょうかい"
+      }
     }
   ],
   "N3": [
@@ -4939,7 +10634,14 @@ window.JLPT_KANJI_DATA = {
         "consultation",
         "debate",
         "consideration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 5,
+        "word": "議員",
+        "reading": "ぎいん"
+      }
     },
     {
       "character": "民",
@@ -4982,7 +10684,14 @@ window.JLPT_KANJI_DATA = {
         "party",
         "gang",
         "clique"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 4,
+        "word": "関連",
+        "reading": "かんれん"
+      }
     },
     {
       "character": "対",
@@ -5062,7 +10771,14 @@ window.JLPT_KANJI_DATA = {
         "suit",
         "join",
         "0.1"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 3,
+        "word": "合図",
+        "reading": "あいず"
+      }
     },
     {
       "character": "市",
@@ -5080,7 +10796,14 @@ window.JLPT_KANJI_DATA = {
         "market",
         "city",
         "town"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 4,
+        "word": "市場",
+        "reading": "いちば"
+      }
     },
     {
       "character": "内",
@@ -5102,7 +10825,14 @@ window.JLPT_KANJI_DATA = {
         "among",
         "house",
         "home"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 2,
+        "word": "案内",
+        "reading": "あんない"
+      }
     },
     {
       "character": "相",
@@ -5127,7 +10857,14 @@ window.JLPT_KANJI_DATA = {
         "aspect",
         "phase",
         "physiognomy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 4,
+        "word": "相手",
+        "reading": "あいて"
+      }
     },
     {
       "character": "定",
@@ -5149,7 +10886,14 @@ window.JLPT_KANJI_DATA = {
         "fix",
         "establish",
         "decide"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 1,
+        "word": "安定",
+        "reading": "あんてい"
+      }
     },
     {
       "character": "回",
@@ -5178,7 +10922,14 @@ window.JLPT_KANJI_DATA = {
         "game",
         "revolve",
         "counter for occurrences"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 1,
+        "word": "回",
+        "reading": "かい"
+      }
     },
     {
       "character": "選",
@@ -5245,7 +10996,14 @@ window.JLPT_KANJI_DATA = {
         "seed",
         "fruit",
         "nut"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 3,
+        "word": "確実",
+        "reading": "かくじつ"
+      }
     },
     {
       "character": "関",
@@ -5269,7 +11027,14 @@ window.JLPT_KANJI_DATA = {
         "gateway",
         "involve",
         "concerning"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 5,
+        "word": "関心",
+        "reading": "かんしん"
+      }
     },
     {
       "character": "決",
@@ -5291,7 +11056,14 @@ window.JLPT_KANJI_DATA = {
         "fix",
         "agree upon",
         "appoint"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 6,
+        "word": "解決",
+        "reading": "かいけつ"
+      }
     },
     {
       "character": "全",
@@ -5312,7 +11084,14 @@ window.JLPT_KANJI_DATA = {
         "all",
         "complete",
         "fulfill"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 1,
+        "word": "完全",
+        "reading": "かんぜん"
+      }
     },
     {
       "character": "表",
@@ -5335,7 +11114,14 @@ window.JLPT_KANJI_DATA = {
         "table",
         "chart",
         "diagram"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 3,
+        "word": "表す",
+        "reading": "あらわす"
+      }
     },
     {
       "character": "戦",
@@ -5424,7 +11210,14 @@ window.JLPT_KANJI_DATA = {
         "present",
         "existing",
         "actual"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 4,
+        "word": "現れ",
+        "reading": "あらわれ"
+      }
     },
     {
       "character": "調",
@@ -5452,7 +11245,14 @@ window.JLPT_KANJI_DATA = {
         "investigate",
         "harmonize",
         "mediate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 6,
+        "word": "強調",
+        "reading": "きょうちょう"
+      }
     },
     {
       "character": "化",
@@ -5477,7 +11277,14 @@ window.JLPT_KANJI_DATA = {
         "enchant",
         "delude",
         "-ization"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 8,
+        "word": "化学",
+        "reading": "かがく"
+      }
     },
     {
       "character": "当",
@@ -5501,7 +11308,14 @@ window.JLPT_KANJI_DATA = {
         "right",
         "appropriate",
         "himself"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 4,
+        "word": "当たる",
+        "reading": "あたる"
+      }
     },
     {
       "character": "約",
@@ -5664,7 +11478,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "task",
         "duties"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 9,
+        "word": "義務",
+        "reading": "ぎむ"
+      }
     },
     {
       "character": "成",
@@ -5688,7 +11509,14 @@ window.JLPT_KANJI_DATA = {
         "grow",
         "elapse",
         "reach"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 0,
+        "word": "完成",
+        "reading": "かんせい"
+      }
     },
     {
       "character": "期",
@@ -5706,7 +11534,14 @@ window.JLPT_KANJI_DATA = {
         "time",
         "date",
         "term"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 0,
+        "word": "延期",
+        "reading": "えんき"
+      }
     },
     {
       "character": "取",
@@ -5728,7 +11563,14 @@ window.JLPT_KANJI_DATA = {
         "take",
         "fetch",
         "take up"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 3,
+        "word": "受け取る",
+        "reading": "うけとる"
+      }
     },
     {
       "character": "都",
@@ -5797,7 +11639,14 @@ window.JLPT_KANJI_DATA = {
         "potency",
         "efficacy",
         "occasion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 3,
+        "word": "機械",
+        "reading": "きかい"
+      }
     },
     {
       "character": "平",
@@ -5841,7 +11690,14 @@ window.JLPT_KANJI_DATA = {
         "join",
         "include",
         "Canada"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 0,
+        "word": "加減",
+        "reading": "かげん"
+      }
     },
     {
       "character": "受",
@@ -5865,7 +11721,14 @@ window.JLPT_KANJI_DATA = {
         "get",
         "catch",
         "receive"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 3,
+        "word": "受け取る",
+        "reading": "うけとる"
+      }
     },
     {
       "character": "続",
@@ -5936,7 +11799,14 @@ window.JLPT_KANJI_DATA = {
         "fate",
         "law",
         "figures"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 9,
+        "word": "数",
+        "reading": "かず"
+      }
     },
     {
       "character": "記",
@@ -5954,7 +11824,14 @@ window.JLPT_KANJI_DATA = {
         "scribe",
         "account",
         "narrative"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 0,
+        "word": "暗記",
+        "reading": "あんき"
+      }
     },
     {
       "character": "初",
@@ -6164,7 +12041,14 @@ window.JLPT_KANJI_DATA = {
         "resuscitation",
         "being helped",
         "living"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 8,
+        "word": "活気",
+        "reading": "かっき"
+      }
     },
     {
       "character": "原",
@@ -6238,7 +12122,14 @@ window.JLPT_KANJI_DATA = {
         "profit",
         "advantage",
         "benefit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 8,
+        "word": "得る",
+        "reading": "える"
+      }
     },
     {
       "character": "解",
@@ -6273,7 +12164,14 @@ window.JLPT_KANJI_DATA = {
         "absolve",
         "explain",
         "minute"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 6,
+        "word": "解決",
+        "reading": "かいけつ"
+      }
     },
     {
       "character": "交",
@@ -6421,7 +12319,14 @@ window.JLPT_KANJI_DATA = {
         "win",
         "prevail",
         "excel"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 7,
+        "word": "勝ち",
+        "reading": "かち"
+      }
     },
     {
       "character": "面",
@@ -6485,7 +12390,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "anti-"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 7,
+        "word": "違反",
+        "reading": "いはん"
+      }
     },
     {
       "character": "判",
@@ -6528,7 +12440,14 @@ window.JLPT_KANJI_DATA = {
         "recognize",
         "appreciate",
         "believe"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 6,
+        "word": "確認",
+        "reading": "かくにん"
+      }
     },
     {
       "character": "参",
@@ -6721,7 +12640,14 @@ window.JLPT_KANJI_DATA = {
         "install",
         "quote",
         "refer to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 9,
+        "word": "引退",
+        "reading": "いんたい"
+      }
     },
     {
       "character": "求",
@@ -6891,7 +12817,14 @@ window.JLPT_KANJI_DATA = {
         "emotion",
         "feeling",
         "sensation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 7,
+        "word": "感覚",
+        "reading": "かんかく"
+      }
     },
     {
       "character": "情",
@@ -6913,7 +12846,14 @@ window.JLPT_KANJI_DATA = {
         "sympathy",
         "circumstances",
         "facts"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 2,
+        "word": "愛情",
+        "reading": "あいじょう"
+      }
     },
     {
       "character": "投",
@@ -7095,7 +13035,14 @@ window.JLPT_KANJI_DATA = {
         "confirm",
         "clear",
         "evident"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 3,
+        "word": "確実",
+        "reading": "かくじつ"
+      }
     },
     {
       "character": "果",
@@ -7177,7 +13124,14 @@ window.JLPT_KANJI_DATA = {
         "play",
         "render",
         "stage"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 1,
+        "word": "演技",
+        "reading": "えんぎ"
+      }
     },
     {
       "character": "歳",
@@ -7253,7 +13207,14 @@ window.JLPT_KANJI_DATA = {
         "talent",
         "skill",
         "capacity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 3,
+        "word": "可能",
+        "reading": "かのう"
+      }
     },
     {
       "character": "位",
@@ -7275,7 +13236,14 @@ window.JLPT_KANJI_DATA = {
         "crown",
         "about",
         "some"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 3,
+        "word": "位置",
+        "reading": "いち"
+      }
     },
     {
       "character": "置",
@@ -7299,7 +13267,14 @@ window.JLPT_KANJI_DATA = {
         "keep",
         "employ",
         "pawn"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 3,
+        "word": "位置",
+        "reading": "いち"
+      }
     },
     {
       "character": "流",
@@ -7343,7 +13318,14 @@ window.JLPT_KANJI_DATA = {
         "capacity",
         "character",
         "case (law, grammar)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 6,
+        "word": "価格",
+        "reading": "かかく"
+      }
     },
     {
       "character": "疑",
@@ -7386,7 +13368,14 @@ window.JLPT_KANJI_DATA = {
         "exceed",
         "go beyond",
         "error"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 1,
+        "word": "過去",
+        "reading": "かこ"
+      }
     },
     {
       "character": "局",
@@ -7460,7 +13449,14 @@ window.JLPT_KANJI_DATA = {
         "continually",
         "always",
         "long-lasting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 6,
+        "word": "異常",
+        "reading": "いじょう"
+      }
     },
     {
       "character": "状",
@@ -7539,7 +13535,14 @@ window.JLPT_KANJI_DATA = {
         "cause",
         "gift",
         "godsend"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 2,
+        "word": "与える",
+        "reading": "あたえる"
+      }
     },
     {
       "character": "供",
@@ -7564,7 +13567,14 @@ window.JLPT_KANJI_DATA = {
         "present",
         "serve (meal)",
         "accompany"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 3,
+        "word": "供給",
+        "reading": "きょうきゅう"
+      }
     },
     {
       "character": "役",
@@ -7606,7 +13616,14 @@ window.JLPT_KANJI_DATA = {
         "appearance",
         "build",
         "set up"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 5,
+        "word": "構う",
+        "reading": "かまう"
+      }
     },
     {
       "character": "割",
@@ -7685,7 +13702,14 @@ window.JLPT_KANJI_DATA = {
         "attach",
         "refer to",
         "append"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 7,
+        "word": "追い付く",
+        "reading": "おいつく"
+      }
     },
     {
       "character": "由",
@@ -7725,7 +13749,14 @@ window.JLPT_KANJI_DATA = {
         "theory",
         "explanation",
         "rumor"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 3,
+        "word": "演説",
+        "reading": "えんぜつ"
+      }
     },
     {
       "character": "難",
@@ -7816,7 +13847,14 @@ window.JLPT_KANJI_DATA = {
         "pay",
         "supply",
         "store"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 9,
+        "word": "収める",
+        "reading": "おさめる"
+      }
     },
     {
       "character": "断",
@@ -7843,7 +13881,14 @@ window.JLPT_KANJI_DATA = {
         "decision",
         "judgement",
         "cutting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 1,
+        "word": "横断",
+        "reading": "おうだん"
+      }
     },
     {
       "character": "石",
@@ -7883,7 +13928,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "difference",
         "differ"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 7,
+        "word": "違反",
+        "reading": "いはん"
+      }
     },
     {
       "character": "消",
@@ -7925,7 +13977,14 @@ window.JLPT_KANJI_DATA = {
         "gods",
         "mind",
         "soul"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 6,
+        "word": "神",
+        "reading": "かみ"
+      }
     },
     {
       "character": "番",
@@ -7942,7 +14001,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "turn",
         "number in a series"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 5,
+        "word": "一番",
+        "reading": "いちばん"
+      }
     },
     {
       "character": "規",
@@ -8017,7 +14083,14 @@ window.JLPT_KANJI_DATA = {
         "residence",
         "our house",
         "my husband"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 3,
+        "word": "帰宅",
+        "reading": "きたく"
+      }
     },
     {
       "character": "害",
@@ -8257,7 +14330,14 @@ window.JLPT_KANJI_DATA = {
         "help",
         "rescue",
         "assist"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 2,
+        "word": "援助",
+        "reading": "えんじょ"
+      }
     },
     {
       "character": "労",
@@ -8345,7 +14425,14 @@ window.JLPT_KANJI_DATA = {
         "limit",
         "restrict",
         "to best of ability"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 1,
+        "word": "限る",
+        "reading": "かぎる"
+      }
     },
     {
       "character": "追",
@@ -8365,7 +14452,14 @@ window.JLPT_KANJI_DATA = {
         "follow",
         "pursue",
         "meanwhile"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 7,
+        "word": "追い付く",
+        "reading": "おいつく"
+      }
     },
     {
       "character": "商",
@@ -8534,7 +14628,14 @@ window.JLPT_KANJI_DATA = {
         "fond",
         "pleasing",
         "like something"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 9,
+        "word": "格好",
+        "reading": "かっこう"
+      }
     },
     {
       "character": "退",
@@ -8561,7 +14662,14 @@ window.JLPT_KANJI_DATA = {
         "repel",
         "expel",
         "reject"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 9,
+        "word": "引退",
+        "reading": "いんたい"
+      }
     },
     {
       "character": "頭",
@@ -8653,7 +14761,14 @@ window.JLPT_KANJI_DATA = {
         "fault",
         "disadvantage",
         "loss"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 6,
+        "word": "失う",
+        "reading": "うしなう"
+      }
     },
     {
       "character": "差",
@@ -8771,7 +14886,14 @@ window.JLPT_KANJI_DATA = {
         "class",
         "variety",
         "seed"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 7,
+        "word": "一種",
+        "reading": "いっしゅ"
+      }
     },
     {
       "character": "美",
@@ -8811,7 +14933,14 @@ window.JLPT_KANJI_DATA = {
         "destiny",
         "life",
         "appoint"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 6,
+        "word": "命",
+        "reading": "いのち"
+      }
     },
     {
       "character": "福",
@@ -8851,7 +14980,14 @@ window.JLPT_KANJI_DATA = {
         "desire",
         "aspire to",
         "expect"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 2,
+        "word": "希望",
+        "reading": "きぼう"
+      }
     },
     {
       "character": "非",
@@ -8892,7 +15028,14 @@ window.JLPT_KANJI_DATA = {
         "appearance",
         "condition",
         "view"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 9,
+        "word": "観客",
+        "reading": "かんきゃく"
+      }
     },
     {
       "character": "察",
@@ -8910,7 +15053,14 @@ window.JLPT_KANJI_DATA = {
         "surmise",
         "judge",
         "understand"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 2,
+        "word": "観察",
+        "reading": "かんさつ"
+      }
     },
     {
       "character": "段",
@@ -8949,7 +15099,14 @@ window.JLPT_KANJI_DATA = {
         "woof",
         "unreasonable",
         "perverse"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 1,
+        "word": "横断",
+        "reading": "おうだん"
+      }
     },
     {
       "character": "深",
@@ -9015,7 +15172,14 @@ window.JLPT_KANJI_DATA = {
         "manner",
         "situation",
         "polite suffix"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 9,
+        "word": "王様",
+        "reading": "おうさま"
+      }
     },
     {
       "character": "財",
@@ -9071,7 +15235,14 @@ window.JLPT_KANJI_DATA = {
         "discriminating",
         "know",
         "write"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 4,
+        "word": "意識",
+        "reading": "いしき"
+      }
     },
     {
       "character": "呼",
@@ -9150,7 +15321,14 @@ window.JLPT_KANJI_DATA = {
         "weather",
         "wait for",
         "expect"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 7,
+        "word": "気候",
+        "reading": "きこう"
+      }
     },
     {
       "character": "程",
@@ -9232,7 +15410,14 @@ window.JLPT_KANJI_DATA = {
         "price",
         "cost",
         "value"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 6,
+        "word": "価値",
+        "reading": "かち"
+      }
     },
     {
       "character": "突",
@@ -9310,7 +15495,14 @@ window.JLPT_KANJI_DATA = {
         "department",
         "course",
         "section"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 9,
+        "word": "科目",
+        "reading": "かもく"
+      }
     },
     {
       "character": "積",
@@ -9417,7 +15609,14 @@ window.JLPT_KANJI_DATA = {
         "visitor",
         "customer",
         "client"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 9,
+        "word": "観客",
+        "reading": "かんきゃく"
+      }
     },
     {
       "character": "否",
@@ -9439,7 +15638,14 @@ window.JLPT_KANJI_DATA = {
         "refuse",
         "decline",
         "deny"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 1,
+        "word": "否",
+        "reading": "いや"
+      }
     },
     {
       "character": "師",
@@ -9461,7 +15667,14 @@ window.JLPT_KANJI_DATA = {
         "exemplar",
         "army (incl. counter)",
         "war"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 1,
+        "word": "医師",
+        "reading": "いし"
+      }
     },
     {
       "character": "登",
@@ -9525,7 +15738,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "quick",
         "fast"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 0,
+        "word": "急速",
+        "reading": "きゅうそく"
+      }
     },
     {
       "character": "存",
@@ -9722,7 +15942,14 @@ window.JLPT_KANJI_DATA = {
         "perfect",
         "completion",
         "end"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 0,
+        "word": "完成",
+        "reading": "かんせい"
+      }
     },
     {
       "character": "降",
@@ -9747,7 +15974,14 @@ window.JLPT_KANJI_DATA = {
         "precipitate",
         "fall",
         "surrender"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 5,
+        "word": "降ろす",
+        "reading": "おろす"
+      }
     },
     {
       "character": "責",
@@ -9831,7 +16065,14 @@ window.JLPT_KANJI_DATA = {
         "allow",
         "grant",
         "bestow on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 1,
+        "word": "給料",
+        "reading": "きゅうりょう"
+      }
     },
     {
       "character": "苦",
@@ -9875,7 +16116,14 @@ window.JLPT_KANJI_DATA = {
         "welcome",
         "meet",
         "greet"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 1,
+        "word": "歓迎",
+        "reading": "かんげい"
+      }
     },
     {
       "character": "園",
@@ -9916,7 +16164,14 @@ window.JLPT_KANJI_DATA = {
         "possess",
         "ingredients",
         "counter for armor, suits, sets of furniture"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 7,
+        "word": "家具",
+        "reading": "かぐ"
+      }
     },
     {
       "character": "辞",
@@ -9997,7 +16252,14 @@ window.JLPT_KANJI_DATA = {
         "love",
         "affection",
         "favourite"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 0,
+        "word": "愛",
+        "reading": "あい"
+      }
     },
     {
       "character": "富",
@@ -10037,7 +16299,14 @@ window.JLPT_KANJI_DATA = {
         "he",
         "that",
         "the"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 3,
+        "word": "彼等",
+        "reading": "かれら"
+      }
     },
     {
       "character": "未",
@@ -10153,7 +16422,14 @@ window.JLPT_KANJI_DATA = {
         "rare",
         "qualified",
         "capable"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 1,
+        "word": "快適",
+        "reading": "かいてき"
+      }
     },
     {
       "character": "婦",
@@ -10196,7 +16472,14 @@ window.JLPT_KANJI_DATA = {
         "collect",
         "send",
         "forward"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 0,
+        "word": "寄付",
+        "reading": "きふ"
+      }
     },
     {
       "character": "込",
@@ -10235,7 +16518,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "face",
         "expression"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 5,
+        "word": "笑顔",
+        "reading": "えがお"
+      }
     },
     {
       "character": "類",
@@ -10278,7 +16568,14 @@ window.JLPT_KANJI_DATA = {
         "surplus",
         "other",
         "remainder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 9,
+        "word": "余り",
+        "reading": "あまり"
+      }
     },
     {
       "character": "王",
@@ -10295,7 +16592,14 @@ window.JLPT_KANJI_DATA = {
         "king",
         "rule",
         "magnate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 9,
+        "word": "王様",
+        "reading": "おうさま"
+      }
     },
     {
       "character": "返",
@@ -10464,7 +16768,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "trust",
         "request"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 3,
+        "word": "依頼",
+        "reading": "いらい"
+      }
     },
     {
       "character": "覚",
@@ -10487,7 +16798,14 @@ window.JLPT_KANJI_DATA = {
         "remember",
         "awake",
         "sober up"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 2,
+        "word": "覚悟",
+        "reading": "かくご"
+      }
     },
     {
       "character": "船",
@@ -10541,7 +16859,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "permit",
         "approve"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 0,
+        "word": "許可",
+        "reading": "きょか"
+      }
     },
     {
       "character": "抜",
@@ -10905,7 +17230,14 @@ window.JLPT_KANJI_DATA = {
         "quality",
         "equal",
         "similar"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 3,
+        "word": "彼等",
+        "reading": "かれら"
+      }
     },
     {
       "character": "老",
@@ -10924,7 +17256,14 @@ window.JLPT_KANJI_DATA = {
         "old man",
         "old age",
         "grow old"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 6,
+        "word": "老い",
+        "reading": "おい"
+      }
     },
     {
       "character": "曲",
@@ -11086,7 +17425,14 @@ window.JLPT_KANJI_DATA = {
         "to be",
         "exist",
         "live with"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 5,
+        "word": "居眠り",
+        "reading": "いねむり"
+      }
     },
     {
       "character": "雑",
@@ -11162,7 +17508,14 @@ window.JLPT_KANJI_DATA = {
         "gap",
         "fail",
         "yawning radical (no. 76)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 8,
+        "word": "欠ける",
+        "reading": "かける"
+      }
     },
     {
       "character": "更",
@@ -11253,7 +17606,14 @@ window.JLPT_KANJI_DATA = {
         "embrace",
         "hug",
         "hold in arms"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 2,
+        "word": "抱く",
+        "reading": "いだく"
+      }
     },
     {
       "character": "犯",
@@ -11294,7 +17654,14 @@ window.JLPT_KANJI_DATA = {
         "fear",
         "dread",
         "awe"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 1,
+        "word": "恐れる",
+        "reading": "おそれる"
+      }
     },
     {
       "character": "息",
@@ -11315,7 +17682,14 @@ window.JLPT_KANJI_DATA = {
         "interest (on money)",
         "rest",
         "coming to an end"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 6,
+        "word": "息",
+        "reading": "いき"
+      }
     },
     {
       "character": "遠",
@@ -11333,7 +17707,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "distant",
         "far"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 1,
+        "word": "永遠",
+        "reading": "えいえん"
+      }
     },
     {
       "character": "戻",
@@ -11394,7 +17775,14 @@ window.JLPT_KANJI_DATA = {
         "drawing",
         "painting",
         "sketch"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 3,
+        "word": "絵画",
+        "reading": "かいが"
+      }
     },
     {
       "character": "越",
@@ -11463,7 +17851,14 @@ window.JLPT_KANJI_DATA = {
         "hurt",
         "damage",
         "bruise"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 9,
+        "word": "痛み",
+        "reading": "いたみ"
+      }
     },
     {
       "character": "笑",
@@ -11480,7 +17875,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "laugh"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 5,
+        "word": "笑顔",
+        "reading": "えがお"
+      }
     },
     {
       "character": "互",
@@ -11499,7 +17901,14 @@ window.JLPT_KANJI_DATA = {
         "mutually",
         "reciprocally",
         "together"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 2,
+        "word": "お互い",
+        "reading": "おたがい"
+      }
     },
     {
       "character": "束",
@@ -11840,7 +18249,14 @@ window.JLPT_KANJI_DATA = {
         "sad",
         "deplore",
         "regret"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 1,
+        "word": "悲しむ",
+        "reading": "かなしむ"
+      }
     },
     {
       "character": "晴",
@@ -11893,7 +18309,14 @@ window.JLPT_KANJI_DATA = {
         "arrive at",
         "tax",
         "pour"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 7,
+        "word": "掛かる",
+        "reading": "かかる"
+      }
     },
     {
       "character": "到",
@@ -11960,7 +18383,14 @@ window.JLPT_KANJI_DATA = {
         "informal",
         "grow dark",
         "be blinded"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 0,
+        "word": "暗記",
+        "reading": "あんき"
+      }
     },
     {
       "character": "盗",
@@ -11998,7 +18428,14 @@ window.JLPT_KANJI_DATA = {
         "imbibe",
         "inhale",
         "sip"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 8,
+        "word": "吸収",
+        "reading": "きゅうしゅう"
+      }
     },
     {
       "character": "陽",
@@ -12150,7 +18587,14 @@ window.JLPT_KANJI_DATA = {
         "err",
         "do wrong",
         "mislead"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 0,
+        "word": "誤り",
+        "reading": "あやまり"
+      }
     },
     {
       "character": "洗",
@@ -12298,7 +18742,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "swim"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 1,
+        "word": "泳ぎ",
+        "reading": "およぎ"
+      }
     },
     {
       "character": "祖",
@@ -12413,7 +18864,14 @@ window.JLPT_KANJI_DATA = {
         "abdomen",
         "belly",
         "stomach"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 6,
+        "word": "お腹",
+        "reading": "おなか"
+      }
     },
     {
       "character": "煙",
@@ -12431,7 +18889,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "smoke"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 6,
+        "word": "禁煙",
+        "reading": "きんえん"
+      }
     },
     {
       "character": "眠",
@@ -12450,7 +18915,14 @@ window.JLPT_KANJI_DATA = {
         "sleep",
         "die",
         "sleepy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 5,
+        "word": "居眠り",
+        "reading": "いねむり"
+      }
     },
     {
       "character": "怖",
@@ -12472,7 +18944,14 @@ window.JLPT_KANJI_DATA = {
         "dreadful",
         "be frightened",
         "fearful"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 7,
+        "word": "恐怖",
+        "reading": "きょうふ"
+      }
     },
     {
       "character": "耳",
@@ -12577,7 +19056,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "hair of the head"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 8,
+        "word": "髪の毛",
+        "reading": "かみのけ"
+      }
     },
     {
       "character": "忙",
@@ -12692,7 +19178,14 @@ window.JLPT_KANJI_DATA = {
         "conceited",
         "famous",
         "excellent"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 1,
+        "word": "偉大",
+        "reading": "いだい"
+      }
     },
     {
       "character": "猫",
@@ -12731,7 +19224,5845 @@ window.JLPT_KANJI_DATA = {
         "how long",
         "some",
         "several"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 0,
+        "word": "幾つ",
+        "reading": "いくつ"
+      }
+    },
+    {
+      "character": "思",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 132,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "おも.う",
+        "おもえら.く",
+        "おぼ.す"
+      ],
+      "meanings": [
+        "think"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 3,
+        "word": "意思",
+        "reading": "いし"
+      }
+    },
+    {
+      "character": "場",
+      "level": "N3",
+      "strokes": 12,
+      "grade": 2,
+      "freq": 52,
+      "onyomi": [
+        "ジョウ",
+        "チョウ"
+      ],
+      "kunyomi": [
+        "ば"
+      ],
+      "meanings": [
+        "location",
+        "place"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 4,
+        "word": "市場",
+        "reading": "いちば"
+      }
+    },
+    {
+      "character": "悟",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さとる"
+      ],
+      "meanings": [
+        "to attain enlightenment",
+        "to perceive",
+        "to understand"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 2,
+        "word": "覚悟",
+        "reading": "かくご"
+      }
+    },
+    {
+      "character": "幼",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ようじ"
+      ],
+      "meanings": [
+        "infant",
+        "baby",
+        "child"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 8,
+        "word": "幼い",
+        "reading": "おさない"
+      }
+    },
+    {
+      "character": "跡",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あしあと"
+      ],
+      "meanings": [
+        "footprints"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 6,
+        "word": "跡",
+        "reading": "あと"
+      }
+    },
+    {
+      "character": "下",
+      "level": "N3",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 97,
+      "onyomi": [
+        "カ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "meanings": [
+        "below",
+        "down",
+        "descend",
+        "give",
+        "low",
+        "inferior"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 4,
+        "word": "下す",
+        "reading": "おろす"
+      }
+    },
+    {
+      "character": "描",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "びょうしゃ"
+      ],
+      "meanings": [
+        "depiction",
+        "description",
+        "portrayal"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 6,
+        "word": "描く",
+        "reading": "えがく"
+      }
+    },
+    {
+      "character": "員",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 3,
+      "freq": 54,
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "employee",
+        "member",
+        "number",
+        "the one in charge"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 4,
+        "word": "委員",
+        "reading": "いいん"
+      }
+    },
+    {
+      "character": "料",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 4,
+      "freq": 295,
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "fee",
+        "materials"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 1,
+        "word": "給料",
+        "reading": "きゅうりょう"
+      }
+    },
+    {
+      "character": "預",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あずかる"
+      ],
+      "meanings": [
+        "to keep in custody",
+        "to receive on deposit",
+        "to take charge of"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 0,
+        "word": "預ける",
+        "reading": "あずける"
+      }
+    },
+    {
+      "character": "援",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おうえん"
+      ],
+      "meanings": [
+        "aid",
+        "assistance",
+        "help"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 2,
+        "word": "援助",
+        "reading": "えんじょ"
+      }
+    },
+    {
+      "character": "来",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 102,
+      "onyomi": [
+        "ライ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "meanings": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 2,
+        "word": "以来",
+        "reading": "いらい"
+      }
+    },
+    {
+      "character": "穴",
+      "strokes": 5,
+      "grade": 6,
+      "freq": 1372,
+      "onyomi": [
+        "ケツ"
+      ],
+      "kunyomi": [
+        "あな"
+      ],
+      "meanings": [
+        "hole",
+        "aperture",
+        "opening"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 7,
+        "word": "穴",
+        "reading": "あな"
+      }
+    },
+    {
+      "character": "録",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ろくおん"
+      ],
+      "meanings": [
+        "(audio) recording"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 5,
+        "word": "記録",
+        "reading": "きろく"
+      }
+    },
+    {
+      "character": "延",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "えんちょう"
+      ],
+      "meanings": [
+        "extension",
+        "elongation",
+        "prolongation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 0,
+        "word": "延期",
+        "reading": "えんき"
+      }
+    },
+    {
+      "character": "至",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しきゅう"
+      ],
+      "meanings": [
+        "urgent",
+        "pressing"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 0,
+        "word": "至る",
+        "reading": "いたる"
+      }
+    },
+    {
+      "character": "環",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "じゅんかん"
+      ],
+      "meanings": [
+        "circulation",
+        "rotation",
+        "cycle"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 0,
+        "word": "環境",
+        "reading": "かんきょう"
+      }
+    },
+    {
+      "character": "鬼",
+      "strokes": 10,
+      "grade": 8,
+      "freq": 1419,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "おに"
+      ],
+      "meanings": [
+        "ghost",
+        "demon",
+        "ogre"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 7,
+        "word": "鬼",
+        "reading": "おに"
+      }
+    },
+    {
+      "character": "筋",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あらすじ"
+      ],
+      "meanings": [
+        "outline",
+        "summary"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 3,
+        "word": "筋肉",
+        "reading": "きんにく"
+      }
+    },
+    {
+      "character": "毒",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おきのどくに"
+      ],
+      "meanings": [
+        "I'm sorry to hear that…"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 9,
+        "word": "気の毒",
+        "reading": "きのどく"
+      }
+    },
+    {
+      "character": "挨",
+      "strokes": 10,
+      "grade": 8,
+      "freq": 1915,
+      "onyomi": [
+        "アイ"
+      ],
+      "kunyomi": [
+        "ひら.く"
+      ],
+      "meanings": [
+        "push open",
+        "open",
+        "greeting"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 1,
+        "word": "挨拶",
+        "reading": "あいさつ"
+      }
+    },
+    {
+      "character": "嬉",
+      "strokes": 15,
+      "grade": 9,
+      "freq": 2289,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "うれ.しい",
+        "うれ.しがる"
+      ],
+      "meanings": [
+        "glad",
+        "pleased",
+        "joyful"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 5,
+        "word": "嬉しい",
+        "reading": "うれしい"
+      }
+    },
+    {
+      "character": "音",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 1,
+      "freq": 491,
+      "onyomi": [
+        "オン",
+        "イン",
+        "-ノン"
+      ],
+      "kunyomi": [
+        "おと",
+        "ね"
+      ],
+      "meanings": [
+        "sound",
+        "noise"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 7,
+        "word": "音",
+        "reading": "おん"
+      }
+    },
+    {
+      "character": "浴",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かいすいよく"
+      ],
+      "meanings": [
+        "sea bathing",
+        "seawater bath"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 8,
+        "word": "浴びる",
+        "reading": "あびる"
+      }
+    },
+    {
+      "character": "火",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 1,
+      "freq": 574,
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひ",
+        "-び",
+        "ほ-"
+      ],
+      "meanings": [
+        "fire"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 4,
+        "word": "火災",
+        "reading": "かさい"
+      }
+    },
+    {
+      "character": "嘘",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うそつき"
+      ],
+      "meanings": [
+        "liar (sometimes said with not much seriousness)",
+        "fibber"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 8,
+        "word": "嘘",
+        "reading": "うそ"
+      }
+    },
+    {
+      "character": "妙",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こうみょう"
+      ],
+      "meanings": [
+        "ingenious",
+        "skillful",
+        "clever"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 4,
+        "word": "奇妙",
+        "reading": "きみょう"
+      }
+    },
+    {
+      "character": "刀",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かみそり"
+      ],
+      "meanings": [
+        "razor"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 4,
+        "word": "刀",
+        "reading": "かたな"
+      }
+    },
+    {
+      "character": "間",
+      "level": "N3",
+      "strokes": 12,
+      "grade": 2,
+      "freq": 33,
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "meanings": [
+        "interval",
+        "space"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 9,
+        "word": "居間",
+        "reading": "いま"
+      }
+    },
+    {
+      "character": "目",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 76,
+      "onyomi": [
+        "モク",
+        "ボク"
+      ],
+      "kunyomi": [
+        "め",
+        "-め",
+        "ま-"
+      ],
+      "meanings": [
+        "eye",
+        "class",
+        "look",
+        "insight",
+        "experience",
+        "care",
+        "favor"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 9,
+        "word": "科目",
+        "reading": "かもく"
+      }
+    },
+    {
+      "character": "心",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 157,
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "こころ",
+        "-ごころ"
+      ],
+      "meanings": [
+        "heart",
+        "mind",
+        "spirit",
+        "heart radical (no. 61)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 4,
+        "word": "感心",
+        "reading": "かんしん"
+      }
+    },
+    {
+      "character": "用",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 107,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "もち.いる"
+      ],
+      "meanings": [
+        "utilize",
+        "business",
+        "service",
+        "use",
+        "employ"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 0,
+        "word": "引用",
+        "reading": "いんよう"
+      }
+    },
+    {
+      "character": "歓",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんせい"
+      ],
+      "meanings": [
+        "cheer",
+        "shout of joy"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 1,
+        "word": "歓迎",
+        "reading": "かんげい"
+      }
+    },
+    {
+      "character": "謝",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "げっしゃ"
+      ],
+      "meanings": [
+        "monthly tuition fee"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 3,
+        "word": "感謝",
+        "reading": "かんしゃ"
+      }
+    },
+    {
+      "character": "汗",
+      "strokes": 6,
+      "grade": 8,
+      "freq": 1373,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "あせ"
+      ],
+      "meanings": [
+        "sweat",
+        "perspiration"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 1,
+        "word": "汗",
+        "reading": "あせ"
+      }
+    },
+    {
+      "character": "督",
+      "strokes": 13,
+      "grade": 8,
+      "freq": 453,
+      "onyomi": [
+        "トク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "coach",
+        "command",
+        "urge",
+        "supervise"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 2,
+        "word": "監督",
+        "reading": "かんとく"
+      }
+    },
+    {
+      "character": "劣",
+      "strokes": 6,
+      "grade": 8,
+      "freq": 1362,
+      "onyomi": [
+        "レツ"
+      ],
+      "kunyomi": [
+        "おと.る"
+      ],
+      "meanings": [
+        "inferiority",
+        "be inferior to",
+        "be worse"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 5,
+        "word": "劣る",
+        "reading": "おとる"
+      }
+    },
+    {
+      "character": "辺",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しゅうへん"
+      ],
+      "meanings": [
+        "circumference",
+        "outskirts",
+        "environs"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 3,
+        "word": "辺り",
+        "reading": "あたり"
+      }
+    },
+    {
+      "character": "男",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 1,
+      "freq": 240,
+      "onyomi": [
+        "ダン",
+        "ナン"
+      ],
+      "kunyomi": [
+        "おとこ",
+        "お"
+      ],
+      "meanings": [
+        "male"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 4,
+        "word": "男の人",
+        "reading": "おとこのひと"
+      }
+    },
+    {
+      "character": "恩",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おんけい"
+      ],
+      "meanings": [
+        "grace",
+        "favor",
+        "blessing"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 6,
+        "word": "恩",
+        "reading": "おん"
+      }
+    },
+    {
+      "character": "生",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 29,
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "meanings": [
+        "life",
+        "genuine",
+        "birth"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 9,
+        "word": "生き物",
+        "reading": "いきもの"
+      }
+    },
+    {
+      "character": "械",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きかい"
+      ],
+      "meanings": [
+        "instrument"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 3,
+        "word": "機械",
+        "reading": "きかい"
+      }
+    },
+    {
+      "character": "有",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 3,
+      "freq": 282,
+      "onyomi": [
+        "ユウ",
+        "ウ"
+      ],
+      "kunyomi": [
+        "あ.る"
+      ],
+      "meanings": [
+        "possess",
+        "have",
+        "exist",
+        "happen",
+        "occur",
+        "approx"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 6,
+        "word": "有る",
+        "reading": "ある"
+      }
+    },
+    {
+      "character": "後",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 26,
+      "onyomi": [
+        "ゴ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "のち",
+        "うし.ろ",
+        "うしろ",
+        "あと",
+        "おく.れる"
+      ],
+      "meanings": [
+        "behind",
+        "back",
+        "later"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 7,
+        "word": "後",
+        "reading": "うしろ"
+      }
+    },
+    {
+      "character": "穏",
+      "strokes": 16,
+      "grade": 8,
+      "freq": 1259,
+      "onyomi": [
+        "オン"
+      ],
+      "kunyomi": [
+        "おだ.やか"
+      ],
+      "meanings": [
+        "calm",
+        "quiet",
+        "moderation"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 3,
+        "word": "穏やか",
+        "reading": "おだやか"
+      }
+    },
+    {
+      "character": "価",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ていか"
+      ],
+      "meanings": [
+        "established price"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 6,
+        "word": "価格",
+        "reading": "かかく"
+      }
+    },
+    {
+      "character": "明",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 67,
+      "onyomi": [
+        "メイ",
+        "ミョウ",
+        "ミン"
+      ],
+      "kunyomi": [
+        "あ.かり",
+        "あか.るい",
+        "あか.るむ",
+        "あか.らむ",
+        "あき.らか",
+        "あ.ける",
+        "-あ.け",
+        "あ.く",
+        "あ.くる",
+        "あ.かす"
+      ],
+      "meanings": [
+        "bright",
+        "light"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 5,
+        "word": "明かり",
+        "reading": "あかり"
+      }
+    },
+    {
+      "character": "書",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 169,
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "か.く",
+        "-が.き",
+        "-がき"
+      ],
+      "meanings": [
+        "write"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 2,
+        "word": "教科書",
+        "reading": "きょうかしょ"
+      }
+    },
+    {
+      "character": "移",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いてん"
+      ],
+      "meanings": [
+        "moving",
+        "transfer",
+        "demise"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 4,
+        "word": "移動",
+        "reading": "いどう"
+      }
+    },
+    {
+      "character": "汚",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "よごす"
+      ],
+      "meanings": [
+        "(1) to disgrace",
+        "to dishonour",
+        "(2) to pollute"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 0,
+        "word": "汚染",
+        "reading": "おせん"
+      }
+    },
+    {
+      "character": "医",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 3,
+      "freq": 437,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "い.やす",
+        "い.する",
+        "くすし"
+      ],
+      "meanings": [
+        "doctor",
+        "medicine"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 1,
+        "word": "医師",
+        "reading": "いし"
+      }
+    },
+    {
+      "character": "贈",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きそう"
+      ],
+      "meanings": [
+        "donation",
+        "presentation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 6,
+        "word": "贈る",
+        "reading": "おくる"
+      }
+    },
+    {
+      "character": "出",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 13,
+      "onyomi": [
+        "シュツ",
+        "スイ"
+      ],
+      "kunyomi": [
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "meanings": [
+        "exit",
+        "leave",
+        "go out",
+        "come out",
+        "put out",
+        "protrude"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 0,
+        "word": "思い出",
+        "reading": "おもいで"
+      }
+    },
+    {
+      "character": "効",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こうりょく"
+      ],
+      "meanings": [
+        "effect",
+        "efficacy",
+        "validity"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 5,
+        "word": "効く",
+        "reading": "きく"
+      }
+    },
+    {
+      "character": "溺",
+      "strokes": 13,
+      "grade": 8,
+      "freq": 2350,
+      "onyomi": [
+        "デキ"
+      ],
+      "kunyomi": [
+        "おぼ.れる"
+      ],
+      "meanings": [
+        "drown",
+        "indulge in",
+        "sink"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 9,
+        "word": "溺れる",
+        "reading": "おぼれる"
+      }
+    },
+    {
+      "character": "売",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 202,
+      "onyomi": [
+        "バイ"
+      ],
+      "kunyomi": [
+        "う.る",
+        "う.れる"
+      ],
+      "meanings": [
+        "sell"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 6,
+        "word": "売れる",
+        "reading": "うれる"
+      }
+    },
+    {
+      "character": "籠",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こもる"
+      ],
+      "meanings": [
+        "to seclude oneself, to be confined in"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 3,
+        "word": "籠",
+        "reading": "かご"
+      }
+    },
+    {
+      "character": "握",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "はあく"
+      ],
+      "meanings": [
+        "grasp",
+        "catch",
+        "understanding"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 8,
+        "word": "握手",
+        "reading": "あくしゅ"
+      }
+    },
+    {
+      "character": "手",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 1,
+      "freq": 60,
+      "onyomi": [
+        "シュ",
+        "ズ"
+      ],
+      "kunyomi": [
+        "て",
+        "て-",
+        "-て",
+        "た-"
+      ],
+      "meanings": [
+        "hand"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 4,
+        "word": "相手",
+        "reading": "あいて"
+      }
+    },
+    {
+      "character": "終",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 256,
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "お.わる",
+        "-お.わる",
+        "おわ.る",
+        "お.える",
+        "つい",
+        "つい.に"
+      ],
+      "meanings": [
+        "end",
+        "finish"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 2,
+        "word": "終える",
+        "reading": "おえる"
+      }
+    },
+    {
+      "character": "嫌",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いやがる"
+      ],
+      "meanings": [
+        "to hate",
+        "to dislike"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 6,
+        "word": "機嫌",
+        "reading": "きげん"
+      }
+    },
+    {
+      "character": "奪",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "りゃくだつ"
+      ],
+      "meanings": [
+        "pillage",
+        "plunder",
+        "looting"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 3,
+        "word": "奪う",
+        "reading": "うばう"
+      }
+    },
+    {
+      "character": "被",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かぶせる"
+      ],
+      "meanings": [
+        "to cover (with something)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 4,
+        "word": "被る",
+        "reading": "かぶる"
+      }
+    },
+    {
+      "character": "慮",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "はいりょ"
+      ],
+      "meanings": [
+        "consideration",
+        "concern",
+        "forethought"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 5,
+        "word": "遠慮",
+        "reading": "えんりょ"
+      }
+    },
+    {
+      "character": "兎",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "とかく"
+      ],
+      "meanings": [
+        "anyhow",
+        "anyway",
+        "somehow or other"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 5,
+        "word": "兎",
+        "reading": "うさぎ"
+      }
+    },
+    {
+      "character": "缶",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんづめ"
+      ],
+      "meanings": [
+        "packing (in cans)",
+        "canning",
+        "canned goods"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 6,
+        "word": "缶",
+        "reading": "かん"
+      }
+    },
+    {
+      "character": "曜",
+      "level": "N3",
+      "strokes": 18,
+      "grade": 2,
+      "freq": 940,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "weekday"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 0,
+        "word": "火曜",
+        "reading": "かよう"
+      }
+    },
+    {
+      "character": "案",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あんがい"
+      ],
+      "meanings": [
+        "unexpectedly"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 2,
+        "word": "案内",
+        "reading": "あんない"
+      }
+    },
+    {
+      "character": "永",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ながい"
+      ],
+      "meanings": [
+        "long",
+        "lengthy"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 1,
+        "word": "永遠",
+        "reading": "えいえん"
+      }
+    },
+    {
+      "character": "重",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 193,
+      "onyomi": [
+        "ジュウ",
+        "チョウ"
+      ],
+      "kunyomi": [
+        "え",
+        "おも.い",
+        "おも.り",
+        "おも.なう",
+        "かさ.ねる",
+        "かさ.なる",
+        "おも"
+      ],
+      "meanings": [
+        "heavy",
+        "important",
+        "esteem",
+        "respect",
+        "heap up",
+        "pile up",
+        "nest of boxes",
+        "-fold"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 4,
+        "word": "貴重",
+        "reading": "きちょう"
+      }
+    },
+    {
+      "character": "金",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 53,
+      "onyomi": [
+        "キン",
+        "コン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "かね",
+        "かな-",
+        "-がね"
+      ],
+      "meanings": [
+        "gold"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 2,
+        "word": "金持ち",
+        "reading": "かねもち"
+      }
+    },
+    {
+      "character": "哀",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かわいそう"
+      ],
+      "meanings": [
+        "poor",
+        "pitiable",
+        "pathetic"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 9,
+        "word": "哀れ",
+        "reading": "あわれ"
+      }
+    },
+    {
+      "character": "問",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 64,
+      "onyomi": [
+        "モン"
+      ],
+      "kunyomi": [
+        "と.う",
+        "と.い",
+        "とん"
+      ],
+      "meanings": [
+        "question",
+        "ask",
+        "problem"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 8,
+        "word": "学問",
+        "reading": "がくもん"
+      }
+    },
+    {
+      "character": "賢",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けんめい"
+      ],
+      "meanings": [
+        "wisdom",
+        "intelligence",
+        "prudence"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 6,
+        "word": "賢い",
+        "reading": "かしこい"
+      }
+    },
+    {
+      "character": "訴",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うったえ"
+      ],
+      "meanings": [
+        "lawsuit",
+        "complaint"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 0,
+        "word": "訴える",
+        "reading": "うったえる"
+      }
+    },
+    {
+      "character": "稼",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ともかせぎ"
+      ],
+      "meanings": [
+        "working together",
+        "(husband and wife) earning a living together"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 0,
+        "word": "稼ぐ",
+        "reading": "かせぐ"
+      }
+    },
+    {
+      "character": "激",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんげき"
+      ],
+      "meanings": [
+        "deep emotion",
+        "impression",
+        "inspiration"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 7,
+        "word": "急激",
+        "reading": "きゅうげき"
+      }
+    },
+    {
+      "character": "度",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 110,
+      "onyomi": [
+        "ド",
+        "ト",
+        "タク"
+      ],
+      "kunyomi": [
+        "たび",
+        "-た.い"
+      ],
+      "meanings": [
+        "degrees",
+        "occurrence",
+        "time",
+        "counter for occurrences",
+        "consider",
+        "attitude"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 9,
+        "word": "温度",
+        "reading": "おんど"
+      }
+    },
+    {
+      "character": "響",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ひびき"
+      ],
+      "meanings": [
+        "echo",
+        "sound",
+        "reverberation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 3,
+        "word": "影響",
+        "reading": "えいきょう"
+      }
+    },
+    {
+      "character": "前",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 27,
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [
+        "まえ",
+        "-まえ"
+      ],
+      "meanings": [
+        "in front",
+        "before"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 8,
+        "word": "以前",
+        "reading": "いぜん"
+      }
+    },
+    {
+      "character": "貴",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あなた"
+      ],
+      "meanings": [
+        "you",
+        "lady"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 4,
+        "word": "貴重",
+        "reading": "きちょう"
+      }
+    },
+    {
+      "character": "緊",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きんきゅう"
+      ],
+      "meanings": [
+        "urgent",
+        "pressing",
+        "emergency"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 2,
+        "word": "緊張",
+        "reading": "きんちょう"
+      }
+    },
+    {
+      "character": "切",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 324,
+      "onyomi": [
+        "セツ",
+        "サイ"
+      ],
+      "kunyomi": [
+        "き.る",
+        "-き.る",
+        "き.り",
+        "-き.り",
+        "-ぎ.り",
+        "き.れる",
+        "-き.れる",
+        "き.れ",
+        "-き.れ",
+        "-ぎ.れ"
+      ],
+      "meanings": [
+        "cut",
+        "cutoff",
+        "be sharp"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 4,
+        "word": "裏切る",
+        "reading": "うらぎる"
+      }
+    },
+    {
+      "character": "囲",
+      "strokes": 7,
+      "grade": 4,
+      "freq": 647,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "かこ.む",
+        "かこ.う"
+      ],
+      "meanings": [
+        "surround",
+        "besiege",
+        "enclose"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 2,
+        "word": "囲む",
+        "reading": "かこむ"
+      }
+    },
+    {
+      "character": "減",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ぞうげん"
+      ],
+      "meanings": [
+        "increase and decrease",
+        "fluctuation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 0,
+        "word": "加減",
+        "reading": "かげん"
+      }
+    },
+    {
+      "character": "図",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 539,
+      "onyomi": [
+        "ズ",
+        "ト"
+      ],
+      "kunyomi": [
+        "え",
+        "はか.る"
+      ],
+      "meanings": [
+        "map",
+        "drawing",
+        "plan",
+        "extraordinary",
+        "audacious"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 3,
+        "word": "合図",
+        "reading": "あいず"
+      }
+    },
+    {
+      "character": "慢",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "たいまん"
+      ],
+      "meanings": [
+        "negligence",
+        "procrastination",
+        "carelessness"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 0,
+        "word": "我慢",
+        "reading": "がまん"
+      }
+    },
+    {
+      "character": "子",
+      "level": "N3",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 72,
+      "onyomi": [
+        "シ",
+        "ス",
+        "ツ"
+      ],
+      "kunyomi": [
+        "こ",
+        "-こ",
+        "ね"
+      ],
+      "meanings": [
+        "child",
+        "sign of the rat",
+        "11PM-1AM",
+        "first sign of Chinese zodiac"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 7,
+        "word": "椅子",
+        "reading": "いす"
+      }
+    },
+    {
+      "character": "去",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 3,
+      "freq": 440,
+      "onyomi": [
+        "キョ",
+        "コ"
+      ],
+      "kunyomi": [
+        "さ.る",
+        "-さ.る"
+      ],
+      "meanings": [
+        "gone",
+        "past",
+        "quit",
+        "leave",
+        "elapse",
+        "eliminate",
+        "divorce"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 1,
+        "word": "過去",
+        "reading": "かこ"
+      }
+    },
+    {
+      "character": "物",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 215,
+      "onyomi": [
+        "ブツ",
+        "モツ"
+      ],
+      "kunyomi": [
+        "もの",
+        "もの-"
+      ],
+      "meanings": [
+        "thing",
+        "object",
+        "matter"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 9,
+        "word": "生き物",
+        "reading": "いきもの"
+      }
+    },
+    {
+      "character": "体",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 88,
+      "onyomi": [
+        "タイ",
+        "テイ"
+      ],
+      "kunyomi": [
+        "からだ",
+        "かたち"
+      ],
+      "meanings": [
+        "body",
+        "substance",
+        "object",
+        "reality",
+        "counter for images"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 0,
+        "word": "一体",
+        "reading": "いったい"
+      }
+    },
+    {
+      "character": "服",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 873,
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "clothing",
+        "admit",
+        "obey",
+        "discharge"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 8,
+        "word": "衣服",
+        "reading": "いふく"
+      }
+    },
+    {
+      "character": "急",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 309,
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "いそ.ぐ",
+        "いそ.ぎ",
+        "せ.く"
+      ],
+      "meanings": [
+        "hurry",
+        "emergency",
+        "sudden",
+        "steep"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 7,
+        "word": "急激",
+        "reading": "きゅうげき"
+      }
+    },
+    {
+      "character": "志",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こころざし"
+      ],
+      "meanings": [
+        "will",
+        "intention",
+        "motive"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 2,
+        "word": "意志",
+        "reading": "いし"
+      }
+    },
+    {
+      "character": "傷",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "やけど"
+      ],
+      "meanings": [
+        "burn",
+        "scald"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 1,
+        "word": "傷",
+        "reading": "きず"
+      }
+    },
+    {
+      "character": "致",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "がち"
+      ],
+      "meanings": [
+        "artistry",
+        "good taste",
+        "elegance"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 1,
+        "word": "一致",
+        "reading": "いっち"
+      }
+    },
+    {
+      "character": "技",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ぎのう"
+      ],
+      "meanings": [
+        "technical skill",
+        "ability",
+        "capacity"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 1,
+        "word": "演技",
+        "reading": "えんぎ"
+      }
+    },
+    {
+      "character": "気",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 1,
+      "freq": 113,
+      "onyomi": [
+        "キ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "いき",
+        "き"
+      ],
+      "meanings": [
+        "spirit",
+        "mind",
+        "air",
+        "atmosphere",
+        "mood"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 8,
+        "word": "活気",
+        "reading": "かっき"
+      }
+    },
+    {
+      "character": "霧",
+      "strokes": 19,
+      "grade": 8,
+      "freq": 1934,
+      "onyomi": [
+        "ム",
+        "ボウ"
+      ],
+      "kunyomi": [
+        "きり"
+      ],
+      "meanings": [
+        "fog",
+        "mist"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 3,
+        "word": "霧",
+        "reading": "きり"
+      }
+    },
+    {
+      "character": "宙",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ちゅうがえり"
+      ],
+      "meanings": [
+        "somersault",
+        "looping-the-loop"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 9,
+        "word": "宇宙",
+        "reading": "うちゅう"
+      }
+    },
+    {
+      "character": "嵐",
+      "strokes": 12,
+      "grade": 9,
+      "freq": 1761,
+      "onyomi": [
+        "ラン"
+      ],
+      "kunyomi": [
+        "あらし"
+      ],
+      "meanings": [
+        "storm",
+        "tempest"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 1,
+        "word": "嵐",
+        "reading": "あらし"
+      }
+    },
+    {
+      "character": "影",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さつえい"
+      ],
+      "meanings": [
+        "photographing"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 3,
+        "word": "影響",
+        "reading": "えいきょう"
+      }
+    },
+    {
+      "character": "語",
+      "level": "N3",
+      "strokes": 14,
+      "grade": 2,
+      "freq": 301,
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "かた.る",
+        "かた.らう"
+      ],
+      "meanings": [
+        "word",
+        "speech",
+        "language"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 5,
+        "word": "語る",
+        "reading": "かたる"
+      }
+    },
+    {
+      "character": "諦",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あきらめ"
+      ],
+      "meanings": [
+        "resignation",
+        "acceptance",
+        "consolation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 6,
+        "word": "諦める",
+        "reading": "あきらめる"
+      }
+    },
+    {
+      "character": "救",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きゅうえん"
+      ],
+      "meanings": [
+        "relief",
+        "rescue",
+        "reinforcement"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 9,
+        "word": "救助",
+        "reading": "きゅうじょ"
+      }
+    },
+    {
+      "character": "換",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんき"
+      ],
+      "meanings": [
+        "ventilation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 4,
+        "word": "換える",
+        "reading": "かえる"
+      }
+    },
+    {
+      "character": "弟",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 1161,
+      "onyomi": [
+        "テイ",
+        "ダイ",
+        "デ"
+      ],
+      "kunyomi": [
+        "おとうと"
+      ],
+      "meanings": [
+        "younger brother",
+        "faithful service to elders"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 3,
+        "word": "従兄弟",
+        "reading": "いとこ"
+      }
+    },
+    {
+      "character": "瞬",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "またたき"
+      ],
+      "meanings": [
+        "wink",
+        "twinkling (of stars)",
+        "flicker (of light)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 8,
+        "word": "一瞬",
+        "reading": "いっしゅん"
+      }
+    },
+    {
+      "character": "持",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 119,
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "も.つ",
+        "-も.ち",
+        "も.てる"
+      ],
+      "meanings": [
+        "hold",
+        "have"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 5,
+        "word": "維持",
+        "reading": "いじ"
+      }
+    },
+    {
+      "character": "意",
+      "level": "N3",
+      "strokes": 13,
+      "grade": 3,
+      "freq": 99,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "idea",
+        "mind",
+        "heart",
+        "taste",
+        "thought",
+        "desire",
+        "care",
+        "liking"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 5,
+        "word": "意外",
+        "reading": "いがい"
+      }
+    },
+    {
+      "character": "安",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 3,
+      "freq": 144,
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [
+        "やす.い",
+        "やす.まる",
+        "やす",
+        "やす.らか"
+      ],
+      "meanings": [
+        "relax",
+        "cheap",
+        "low",
+        "quiet",
+        "rested",
+        "contented",
+        "peaceful"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 1,
+        "word": "安定",
+        "reading": "あんてい"
+      }
+    },
+    {
+      "character": "革",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かいかく"
+      ],
+      "meanings": [
+        "reform",
+        "reformation",
+        "innovation"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 5,
+        "word": "革",
+        "reading": "かわ"
+      }
+    },
+    {
+      "character": "災",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さいなん"
+      ],
+      "meanings": [
+        "calamity",
+        "misfortune"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 4,
+        "word": "火災",
+        "reading": "かさい"
+      }
+    },
+    {
+      "character": "裏",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "うらがえす"
+      ],
+      "meanings": [
+        "to turn inside out",
+        "to turn (something) over"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 4,
+        "word": "裏切る",
+        "reading": "うらぎる"
+      }
+    },
+    {
+      "character": "地",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 40,
+      "onyomi": [
+        "チ",
+        "ジ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "ground",
+        "earth"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 9,
+        "word": "生地",
+        "reading": "きじ"
+      }
+    },
+    {
+      "character": "新",
+      "level": "N3",
+      "strokes": 13,
+      "grade": 2,
+      "freq": 51,
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あたら.しい",
+        "あら.た",
+        "あら-",
+        "にい-"
+      ],
+      "meanings": [
+        "new"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 2,
+        "word": "新た",
+        "reading": "あらた"
+      }
+    },
+    {
+      "character": "暖",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あたたまる"
+      ],
+      "meanings": [
+        "to warm up",
+        "to get warm"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 8,
+        "word": "温暖",
+        "reading": "おんだん"
+      }
+    },
+    {
+      "character": "動",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 73,
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "うご.く",
+        "うご.かす"
+      ],
+      "meanings": [
+        "move",
+        "motion",
+        "change",
+        "confusion",
+        "shift",
+        "shake"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 4,
+        "word": "移動",
+        "reading": "いどう"
+      }
+    },
+    {
+      "character": "画",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 199,
+      "onyomi": [
+        "ガ",
+        "カク",
+        "エ",
+        "カイ"
+      ],
+      "kunyomi": [
+        "えが.く",
+        "かく.する",
+        "かぎ.る",
+        "はかりごと",
+        "はか.る"
+      ],
+      "meanings": [
+        "brush-stroke",
+        "picture"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 3,
+        "word": "絵画",
+        "reading": "かいが"
+      }
+    },
+    {
+      "character": "張",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いばる"
+      ],
+      "meanings": [
+        "to be proud",
+        "to swagger"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 2,
+        "word": "緊張",
+        "reading": "きんちょう"
+      }
+    },
+    {
+      "character": "鍵",
+      "strokes": 17,
+      "grade": 8,
+      "freq": 1993,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "かぎ"
+      ],
+      "meanings": [
+        "key"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 0,
+        "word": "鍵",
+        "reading": "かぎ"
+      }
+    },
+    {
+      "character": "家",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 133,
+      "onyomi": [
+        "カ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "いえ",
+        "や",
+        "うち"
+      ],
+      "meanings": [
+        "house",
+        "home",
+        "family",
+        "professional",
+        "expert",
+        "performer"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 6,
+        "word": "一家",
+        "reading": "いっか"
+      }
+    },
+    {
+      "character": "依",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "い"
+      ],
+      "meanings": [
+        "depending on"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 3,
+        "word": "依頼",
+        "reading": "いらい"
+      }
+    },
+    {
+      "character": "善",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さいぜん"
+      ],
+      "meanings": [
+        "the very best"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 0,
+        "word": "改善",
+        "reading": "かいぜん"
+      }
+    },
+    {
+      "character": "計",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 228,
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "はか.る",
+        "はか.らう"
+      ],
+      "meanings": [
+        "plot",
+        "plan",
+        "scheme",
+        "measure"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 5,
+        "word": "会計",
+        "reading": "かいけい"
+      }
+    },
+    {
+      "character": "境",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きょうかい"
+      ],
+      "meanings": [
+        "boundary"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 0,
+        "word": "環境",
+        "reading": "かんきょう"
+      }
+    },
+    {
+      "character": "雷",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いかずち"
+      ],
+      "meanings": [
+        "thunder"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 7,
+        "word": "雷",
+        "reading": "かみなり"
+      }
+    },
+    {
+      "character": "撃",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しゅうげき"
+      ],
+      "meanings": [
+        "attack",
+        "charge",
+        "raid"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 1,
+        "word": "撃つ",
+        "reading": "うつ"
+      }
+    },
+    {
+      "character": "本",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 1,
+      "freq": 10,
+      "onyomi": [
+        "ホン"
+      ],
+      "kunyomi": [
+        "もと"
+      ],
+      "meanings": [
+        "book",
+        "present",
+        "main",
+        "origin",
+        "true",
+        "real",
+        "counter for long cylindrical things"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 1,
+        "word": "基本",
+        "reading": "きほん"
+      }
+    },
+    {
+      "character": "休",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 1,
+      "freq": 642,
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "やす.む",
+        "やす.まる",
+        "やす.める"
+      ],
+      "meanings": [
+        "rest",
+        "day off",
+        "retire",
+        "sleep"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 5,
+        "word": "休暇",
+        "reading": "きゅうか"
+      }
+    },
+    {
+      "character": "力",
+      "level": "N3",
+      "strokes": 2,
+      "grade": 1,
+      "freq": 62,
+      "onyomi": [
+        "リョク",
+        "リキ",
+        "リイ"
+      ],
+      "kunyomi": [
+        "ちから"
+      ],
+      "meanings": [
+        "power",
+        "strength",
+        "strong",
+        "strain",
+        "bear up",
+        "exert"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 8,
+        "word": "協力",
+        "reading": "きょうりょく"
+      }
+    },
+    {
+      "character": "額",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "さがく"
+      ],
+      "meanings": [
+        "balance",
+        "difference",
+        "margin"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 7,
+        "word": "額",
+        "reading": "がく"
+      }
+    },
+    {
+      "character": "祝",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しゅくじつ"
+      ],
+      "meanings": [
+        "national holiday"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 6,
+        "word": "祝い",
+        "reading": "いわい"
+      }
+    },
+    {
+      "character": "改",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あらためて"
+      ],
+      "meanings": [
+        "another time",
+        "again",
+        "over again"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 0,
+        "word": "改善",
+        "reading": "かいぜん"
+      }
+    },
+    {
+      "character": "川",
+      "level": "N3",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 181,
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "meanings": [
+        "stream",
+        "river",
+        "river or three-stroke river radical (no. 47)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 4,
+        "word": "川",
+        "reading": "かわ"
+      }
+    },
+    {
+      "character": "会",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 4,
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "meanings": [
+        "meeting",
+        "meet",
+        "party",
+        "association",
+        "interview",
+        "join"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 0,
+        "word": "会",
+        "reading": "かい"
+      }
+    },
+    {
+      "character": "庫",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しゃこ"
+      ],
+      "meanings": [
+        "garage",
+        "car shed"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 8,
+        "word": "金庫",
+        "reading": "きんこ"
+      }
+    },
+    {
+      "character": "協",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きょうかい"
+      ],
+      "meanings": [
+        "association",
+        "society",
+        "organization"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 8,
+        "word": "協力",
+        "reading": "きょうりょく"
+      }
+    },
+    {
+      "character": "椅",
+      "strokes": 12,
+      "grade": 9,
+      "freq": 2390,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "chair",
+        "seat"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 7,
+        "word": "椅子",
+        "reading": "いす"
+      }
+    },
+    {
+      "character": "飼",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しいく"
+      ],
+      "meanings": [
+        "breeding",
+        "raising",
+        "rearing"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 3,
+        "word": "飼う",
+        "reading": "かう"
+      }
+    },
+    {
+      "character": "行",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 20,
+      "onyomi": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kunyomi": [
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "meanings": [
+        "going",
+        "journey",
+        "carry out",
+        "conduct",
+        "act",
+        "line",
+        "row",
+        "bank"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 7,
+        "word": "行き",
+        "reading": "いき"
+      }
+    },
+    {
+      "character": "噂",
+      "strokes": 12,
+      "grade": 9,
+      "freq": 1774,
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "うわさ"
+      ],
+      "meanings": [
+        "rumor",
+        "gossip",
+        "talk about"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 7,
+        "word": "噂",
+        "reading": "うわさ"
+      }
+    },
+    {
+      "character": "快",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かいせい"
+      ],
+      "meanings": [
+        "good weather"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 1,
+        "word": "快適",
+        "reading": "かいてき"
+      }
+    },
+    {
+      "character": "泡",
+      "strokes": 8,
+      "grade": 8,
+      "freq": 1599,
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "あわ"
+      ],
+      "meanings": [
+        "bubble",
+        "foam",
+        "froth"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 7,
+        "word": "泡",
+        "reading": "あわ"
+      }
+    },
+    {
+      "character": "扱",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あつかい"
+      ],
+      "meanings": [
+        "treatment",
+        "service"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 2,
+        "qIndex": 5,
+        "word": "扱う",
+        "reading": "あつかう"
+      }
+    },
+    {
+      "character": "外",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 81,
+      "onyomi": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "meanings": [
+        "outside"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 5,
+        "word": "意外",
+        "reading": "いがい"
+      }
+    },
+    {
+      "character": "暇",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いとま"
+      ],
+      "meanings": [
+        "free time",
+        "leisure",
+        "leave"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 5,
+        "word": "休暇",
+        "reading": "きゅうか"
+      }
+    },
+    {
+      "character": "餌",
+      "strokes": 15,
+      "grade": 8,
+      "freq": 2280,
+      "onyomi": [
+        "ジ",
+        "ニ"
+      ],
+      "kunyomi": [
+        "え",
+        "えさ"
+      ],
+      "meanings": [
+        "bait",
+        "food",
+        "lure"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 7,
+        "word": "餌",
+        "reading": "えさ"
+      }
+    },
+    {
+      "character": "奏",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "すいそう"
+      ],
+      "meanings": [
+        "playing wind instruments"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 12,
+        "qIndex": 4,
+        "word": "演奏",
+        "reading": "えんそう"
+      }
+    },
+    {
+      "character": "及",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ふきゅう"
+      ],
+      "meanings": [
+        "diffusion",
+        "spread"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 2,
+        "word": "及ぼす",
+        "reading": "およぼす"
+      }
+    },
+    {
+      "character": "毛",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "けいと"
+      ],
+      "meanings": [
+        "knitting wool"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 8,
+        "word": "髪の毛",
+        "reading": "かみのけ"
+      }
+    },
+    {
+      "character": "貸",
+      "level": "N3",
+      "strokes": 12,
+      "grade": 5,
+      "freq": 995,
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "か.す",
+        "か.し-",
+        "かし-"
+      ],
+      "meanings": [
+        "lend"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 5,
+        "word": "貸し",
+        "reading": "かし"
+      }
+    },
+    {
+      "character": "肩",
+      "strokes": 8,
+      "grade": 8,
+      "freq": 1269,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "かた"
+      ],
+      "meanings": [
+        "shoulder"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 1,
+        "word": "肩",
+        "reading": "かた"
+      }
+    },
+    {
+      "character": "温",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おんしつ"
+      ],
+      "meanings": [
+        "greenhouse"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 15,
+        "qIndex": 8,
+        "word": "温暖",
+        "reading": "おんだん"
+      }
+    },
+    {
+      "character": "岩",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ようがん"
+      ],
+      "meanings": [
+        "lava"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 5,
+        "word": "岩",
+        "reading": "いわ"
+      }
+    },
+    {
+      "character": "刷",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "する"
+      ],
+      "meanings": [
+        "to print"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 8,
+        "word": "印刷",
+        "reading": "いんさつ"
+      }
+    },
+    {
+      "character": "層",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こうそう"
+      ],
+      "meanings": [
+        "upper"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 9,
+        "word": "一層",
+        "reading": "いっそう"
+      }
+    },
+    {
+      "character": "希",
+      "strokes": 7,
+      "grade": 4,
+      "freq": 517,
+      "onyomi": [
+        "キ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "まれ"
+      ],
+      "meanings": [
+        "hope",
+        "beg",
+        "request",
+        "rare"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 2,
+        "word": "希望",
+        "reading": "きぼう"
+      }
+    },
+    {
+      "character": "教",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 166,
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "おし.える",
+        "おそ.わる"
+      ],
+      "meanings": [
+        "teach",
+        "faith",
+        "doctrine"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 2,
+        "word": "教科書",
+        "reading": "きょうかしょ"
+      }
+    },
+    {
+      "character": "或",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ある"
+      ],
+      "meanings": [
+        "a certain...",
+        "some..."
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 3,
+        "qIndex": 5,
+        "word": "或",
+        "reading": "ある"
+      }
+    },
+    {
+      "character": "染",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "でんせん"
+      ],
+      "meanings": [
+        "contagion"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 0,
+        "word": "汚染",
+        "reading": "おせん"
+      }
+    },
+    {
+      "character": "義",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いぎ"
+      ],
+      "meanings": [
+        "meaning",
+        "significance"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 9,
+        "word": "義務",
+        "reading": "ぎむ"
+      }
+    },
+    {
+      "character": "止",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 310,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "と.まる",
+        "-ど.まり",
+        "と.める",
+        "-と.める",
+        "-ど.め",
+        "とど.める",
+        "とど.め",
+        "とど.まる",
+        "や.める",
+        "や.む",
+        "-や.む",
+        "よ.す",
+        "-さ.す",
+        "-さ.し"
+      ],
+      "meanings": [
+        "stop",
+        "halt"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 9,
+        "word": "禁止",
+        "reading": "きんし"
+      }
+    },
+    {
+      "character": "復",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おうふく"
+      ],
+      "meanings": [
+        "(col) round trip",
+        "coming and going",
+        "return ticket"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 2,
+        "word": "回復",
+        "reading": "かいふく"
+      }
+    },
+    {
+      "character": "勢",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しせい"
+      ],
+      "meanings": [
+        "attitude",
+        "posture"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 8,
+        "word": "勢い",
+        "reading": "いきおい"
+      }
+    },
+    {
+      "character": "憩",
+      "strokes": 16,
+      "grade": 8,
+      "freq": 1999,
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "いこ.い",
+        "いこ.う"
+      ],
+      "meanings": [
+        "recess",
+        "rest",
+        "relax"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 6,
+        "word": "休憩",
+        "reading": "きゅうけい"
+      }
+    },
+    {
+      "character": "我",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "が"
+      ],
+      "meanings": [
+        "ego"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 0,
+        "word": "我慢",
+        "reading": "がまん"
+      }
+    },
+    {
+      "character": "事",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 18,
+      "onyomi": [
+        "ジ",
+        "ズ"
+      ],
+      "kunyomi": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ],
+      "meanings": [
+        "matter",
+        "thing",
+        "fact",
+        "business",
+        "reason",
+        "possibly"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 8,
+        "word": "家事",
+        "reading": "かじ"
+      }
+    },
+    {
+      "character": "兄",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 2,
+      "freq": 1219,
+      "onyomi": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kunyomi": [
+        "あに"
+      ],
+      "meanings": [
+        "elder brother",
+        "big brother"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 3,
+        "word": "従兄弟",
+        "reading": "いとこ"
+      }
+    },
+    {
+      "character": "刈",
+      "strokes": 4,
+      "grade": 8,
+      "freq": 1481,
+      "onyomi": [
+        "ガイ",
+        "カイ"
+      ],
+      "kunyomi": [
+        "か.る"
+      ],
+      "meanings": [
+        "reap",
+        "cut",
+        "clip",
+        "trim",
+        "prune"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 2,
+        "word": "刈る",
+        "reading": "かる"
+      }
+    },
+    {
+      "character": "硬",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きょうこう"
+      ],
+      "meanings": [
+        "firm",
+        "vigorous",
+        "unbending"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 20,
+        "qIndex": 2,
+        "word": "硬い",
+        "reading": "かたい"
+      }
+    },
+    {
+      "character": "以",
+      "level": "N3",
+      "strokes": 5,
+      "grade": 4,
+      "freq": 126,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "もっ.て"
+      ],
+      "meanings": [
+        "by means of",
+        "because",
+        "in view of",
+        "compared with"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 8,
+        "word": "以前",
+        "reading": "いぜん"
+      }
+    },
+    {
+      "character": "起",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 3,
+      "freq": 374,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "お.きる",
+        "お.こる",
+        "お.こす",
+        "おこ.す",
+        "た.つ"
+      ],
+      "meanings": [
+        "rouse",
+        "wake up",
+        "get up"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 7,
+        "word": "起こる",
+        "reading": "おこる"
+      }
+    },
+    {
+      "character": "監",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんし"
+      ],
+      "meanings": [
+        "observation",
+        "guarding",
+        "inspection"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 24,
+        "qIndex": 2,
+        "word": "監督",
+        "reading": "かんとく"
+      }
+    },
+    {
+      "character": "久",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ひさしい"
+      ],
+      "meanings": [
+        "long",
+        "long-continued",
+        "old (story)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 2,
+        "word": "永久",
+        "reading": "えいきゅう"
+      }
+    },
+    {
+      "character": "憶",
+      "strokes": 16,
+      "grade": 8,
+      "freq": 1063,
+      "onyomi": [
+        "オク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "recollection",
+        "memory",
+        "remember"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 25,
+        "qIndex": 1,
+        "word": "記憶",
+        "reading": "きおく"
+      }
+    },
+    {
+      "character": "奥",
+      "strokes": 12,
+      "grade": 8,
+      "freq": 1177,
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "おく",
+        "おく.まる"
+      ],
+      "meanings": [
+        "interior",
+        "depths",
+        "inner part"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 5,
+        "word": "奥",
+        "reading": "おく"
+      }
+    },
+    {
+      "character": "昼",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 1115,
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "ひる"
+      ],
+      "meanings": [
+        "daytime",
+        "noon"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 8,
+        "word": "お昼",
+        "reading": "おひる"
+      }
+    },
+    {
+      "character": "考",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 196,
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "かんが.える",
+        "かんが.え"
+      ],
+      "meanings": [
+        "consider",
+        "think over"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 8,
+        "word": "考え",
+        "reading": "かんがえ"
+      }
+    },
+    {
+      "character": "維",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "せんい"
+      ],
+      "meanings": [
+        "fibre",
+        "fiber",
+        "textile"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 5,
+        "word": "維持",
+        "reading": "いじ"
+      }
+    },
+    {
+      "character": "隠",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いんきょ"
+      ],
+      "meanings": [
+        "retirement",
+        "retired person"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 4,
+        "word": "隠す",
+        "reading": "かくす"
+      }
+    },
+    {
+      "character": "入",
+      "level": "N3",
+      "strokes": 2,
+      "grade": 1,
+      "freq": 56,
+      "onyomi": [
+        "ニュウ",
+        "ジュ"
+      ],
+      "kunyomi": [
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+      ],
+      "meanings": [
+        "enter",
+        "insert"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 6,
+        "word": "気に入る",
+        "reading": "きにいる"
+      }
+    },
+    {
+      "character": "方",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 46,
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "かた",
+        "-かた",
+        "-がた"
+      ],
+      "meanings": [
+        "direction",
+        "person",
+        "alternative"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 2,
+        "word": "一方",
+        "reading": "いっぽう"
+      }
+    },
+    {
+      "character": "丘",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きゅうりょう"
+      ],
+      "meanings": [
+        "hill"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 4,
+        "word": "丘",
+        "reading": "おか"
+      }
+    },
+    {
+      "character": "拡",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かくじゅう"
+      ],
+      "meanings": [
+        "expansion"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 18,
+        "qIndex": 5,
+        "word": "拡大",
+        "reading": "かくだい"
+      }
+    },
+    {
+      "character": "可",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かけつ"
+      ],
+      "meanings": [
+        "approval",
+        "adoption (e.g. motion",
+        "bill)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 21,
+        "qIndex": 3,
+        "word": "可能",
+        "reading": "かのう"
+      }
+    },
+    {
+      "character": "銭",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こぜに"
+      ],
+      "meanings": [
+        "coins",
+        "small change"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 0,
+        "word": "金銭",
+        "reading": "きんせん"
+      }
+    },
+    {
+      "character": "帰",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 2,
+      "freq": 504,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "かえ.る",
+        "かえ.す",
+        "おく.る",
+        "とつ.ぐ"
+      ],
+      "meanings": [
+        "homecoming",
+        "arrive at",
+        "lead to",
+        "result in"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 3,
+        "word": "帰宅",
+        "reading": "きたく"
+      }
+    },
+    {
+      "character": "大",
+      "level": "N3",
+      "strokes": 3,
+      "grade": 1,
+      "freq": 7,
+      "onyomi": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "おお-",
+        "おお.きい",
+        "-おお.いに"
+      ],
+      "meanings": [
+        "large",
+        "big"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 1,
+        "word": "偉大",
+        "reading": "いだい"
+      }
+    },
+    {
+      "character": "開",
+      "level": "N3",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 59,
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "ひら.く",
+        "ひら.き",
+        "-びら.き",
+        "ひら.ける",
+        "あ.く",
+        "あ.ける"
+      ],
+      "meanings": [
+        "open",
+        "unfold",
+        "unseal"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 8,
+        "word": "開始",
+        "reading": "かいし"
+      }
+    },
+    {
+      "character": "歌",
+      "level": "N3",
+      "strokes": 14,
+      "grade": 2,
+      "freq": 519,
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "うた",
+        "うた.う"
+      ],
+      "meanings": [
+        "song",
+        "sing"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 19,
+        "qIndex": 7,
+        "word": "歌手",
+        "reading": "かしゅ"
+      }
+    },
+    {
+      "character": "胃",
+      "strokes": 9,
+      "grade": 4,
+      "freq": 1342,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "stomach",
+        "paunch"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 3,
+        "word": "胃",
+        "reading": "い"
+      }
+    },
+    {
+      "character": "基",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きじゅん"
+      ],
+      "meanings": [
+        "standard",
+        "basis",
+        "criteria"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 1,
+        "word": "基本",
+        "reading": "きほん"
+      }
+    },
+    {
+      "character": "伺",
+      "strokes": 5,
+      "grade": 8,
+      "freq": 1618,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "うかが.う"
+      ],
+      "meanings": [
+        "pay respects",
+        "visit",
+        "ask",
+        "inquire"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 2,
+        "word": "伺う",
+        "reading": "うかがう"
+      }
+    },
+    {
+      "character": "肉",
+      "level": "N3",
+      "strokes": 6,
+      "grade": 2,
+      "freq": 986,
+      "onyomi": [
+        "ニク"
+      ],
+      "kunyomi": [
+        "しし"
+      ],
+      "meanings": [
+        "meat"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 3,
+        "word": "筋肉",
+        "reading": "きんにく"
+      }
+    },
+    {
+      "character": "輝",
+      "strokes": 15,
+      "grade": 8,
+      "freq": 1409,
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "かがや.く"
+      ],
+      "meanings": [
+        "radiance",
+        "shine",
+        "sparkle"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 9,
+        "word": "輝く",
+        "reading": "かがやく"
+      }
+    },
+    {
+      "character": "異",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いぎ"
+      ],
+      "meanings": [
+        "objection",
+        "dissent",
+        "protest"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 5,
+        "qIndex": 6,
+        "word": "異常",
+        "reading": "いじょう"
+      }
+    },
+    {
+      "character": "香",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こうすい"
+      ],
+      "meanings": [
+        "perfume"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 5,
+        "word": "香り",
+        "reading": "かおり"
+      }
+    },
+    {
+      "character": "一",
+      "level": "N3",
+      "strokes": 1,
+      "grade": 1,
+      "freq": 2,
+      "onyomi": [
+        "イチ",
+        "イツ"
+      ],
+      "kunyomi": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 6,
+        "qIndex": 5,
+        "word": "一番",
+        "reading": "いちばん"
+      }
+    },
+    {
+      "character": "星",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かせい"
+      ],
+      "meanings": [
+        "Mars (planet)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 4,
+        "word": "衛星",
+        "reading": "えいせい"
+      }
+    },
+    {
+      "character": "空",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 304,
+      "onyomi": [
+        "クウ"
+      ],
+      "kunyomi": [
+        "そら",
+        "あ.く",
+        "あ.き",
+        "あ.ける",
+        "から",
+        "す.く",
+        "す.かす",
+        "むな.しい"
+      ],
+      "meanings": [
+        "empty",
+        "sky",
+        "void",
+        "vacant",
+        "vacuum"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 22,
+        "qIndex": 1,
+        "word": "空",
+        "reading": "から"
+      }
+    },
+    {
+      "character": "人",
+      "level": "N3",
+      "strokes": 2,
+      "grade": 1,
+      "freq": 5,
+      "onyomi": [
+        "ジン",
+        "ニン"
+      ],
+      "kunyomi": [
+        "ひと",
+        "-り",
+        "-と"
+      ],
+      "meanings": [
+        "person"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 4,
+        "word": "男の人",
+        "reading": "おとこのひと"
+      }
+    },
+    {
+      "character": "強",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 112,
+      "onyomi": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "つよ.い",
+        "つよ.まる",
+        "つよ.める",
+        "し.いる",
+        "こわ.い"
+      ],
+      "meanings": [
+        "strong"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 6,
+        "word": "強調",
+        "reading": "きょうちょう"
+      }
+    },
+    {
+      "character": "言",
+      "level": "N3",
+      "strokes": 7,
+      "grade": 2,
+      "freq": 83,
+      "onyomi": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "い.う",
+        "こと"
+      ],
+      "meanings": [
+        "say",
+        "word"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 7,
+        "word": "言わば",
+        "reading": "いわば"
+      }
+    },
+    {
+      "character": "奇",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きすう"
+      ],
+      "meanings": [
+        "odd number"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 27,
+        "qIndex": 4,
+        "word": "奇妙",
+        "reading": "きみょう"
+      }
+    },
+    {
+      "character": "療",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "しんりょう"
+      ],
+      "meanings": [
+        "medical examination and treatment",
+        "diagnosis"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 4,
+        "word": "医療",
+        "reading": "いりょう"
+      }
+    },
+    {
+      "character": "悪",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 530,
+      "onyomi": [
+        "アク",
+        "オ"
+      ],
+      "kunyomi": [
+        "わる.い",
+        "わる-",
+        "あ.し",
+        "にく.い",
+        "-にく.い",
+        "ああ",
+        "いずくに",
+        "いずくんぞ",
+        "にく.む"
+      ],
+      "meanings": [
+        "bad",
+        "vice",
+        "rascal",
+        "false",
+        "evil",
+        "wrong"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 9,
+        "word": "悪魔",
+        "reading": "あくま"
+      }
+    },
+    {
+      "character": "覆",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "くつがえす"
+      ],
+      "meanings": [
+        "to overturn",
+        "to upset",
+        "to overthrow"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 13,
+        "qIndex": 3,
+        "word": "覆う",
+        "reading": "おおう"
+      }
+    },
+    {
+      "character": "者",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 38,
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "もの"
+      ],
+      "meanings": [
+        "someone",
+        "person"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 7,
+        "word": "患者",
+        "reading": "かんじゃ"
+      }
+    },
+    {
+      "character": "衣",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いしょくじゅう"
+      ],
+      "meanings": [
+        "necessities of life (food",
+        "clothing",
+        "etc.)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 8,
+        "word": "衣服",
+        "reading": "いふく"
+      }
+    },
+    {
+      "character": "宇",
+      "strokes": 6,
+      "grade": 6,
+      "freq": 812,
+      "onyomi": [
+        "ウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "eaves",
+        "roof",
+        "house",
+        "heaven",
+        "universe"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 9,
+        "word": "宇宙",
+        "reading": "うちゅう"
+      }
+    },
+    {
+      "character": "属",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "ぞくする"
+      ],
+      "meanings": [
+        "to belong to",
+        "to come under",
+        "to be affiliated with"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 1,
+        "word": "金属",
+        "reading": "きんぞく"
+      }
+    },
+    {
+      "character": "拶",
+      "strokes": 9,
+      "grade": 8,
+      "freq": 1916,
+      "onyomi": [
+        "サツ"
+      ],
+      "kunyomi": [
+        "せま.る"
+      ],
+      "meanings": [
+        "be imminent",
+        "draw close",
+        "greeting"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 1,
+        "word": "挨拶",
+        "reading": "あいさつ"
+      }
+    },
+    {
+      "character": "学",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 1,
+      "freq": 63,
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まな.ぶ"
+      ],
+      "meanings": [
+        "study",
+        "learning",
+        "science"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 17,
+        "qIndex": 8,
+        "word": "化学",
+        "reading": "かがく"
+      }
+    },
+    {
+      "character": "授",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "じょきょうじゅ"
+      ],
+      "meanings": [
+        "assistant professor"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 28,
+        "qIndex": 5,
+        "word": "教授",
+        "reading": "きょうじゅ"
+      }
+    },
+    {
+      "character": "患",
+      "strokes": 11,
+      "grade": 8,
+      "freq": 878,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "わずら.う"
+      ],
+      "meanings": [
+        "afflicted",
+        "disease",
+        "suffer from"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 7,
+        "word": "患者",
+        "reading": "かんじゃ"
+      }
+    },
+    {
+      "character": "衛",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "じえい"
+      ],
+      "meanings": [
+        "self-defense"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 4,
+        "word": "衛星",
+        "reading": "えいせい"
+      }
+    },
+    {
+      "character": "従",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いとこ"
+      ],
+      "meanings": [
+        "cousin (female)"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 7,
+        "qIndex": 3,
+        "word": "従兄弟",
+        "reading": "いとこ"
+      }
+    },
+    {
+      "character": "長",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 2,
+      "freq": 12,
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "なが.い",
+        "おさ"
+      ],
+      "meanings": [
+        "long",
+        "leader",
+        "superior",
+        "senior"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 30,
+        "qIndex": 8,
+        "word": "議長",
+        "reading": "ぎちょう"
+      }
+    },
+    {
+      "character": "始",
+      "level": "N3",
+      "strokes": 8,
+      "grade": 3,
+      "freq": 244,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "はじ.める",
+        "-はじ.める",
+        "はじ.まる"
+      ],
+      "meanings": [
+        "commence",
+        "begin"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 8,
+        "word": "開始",
+        "reading": "かいし"
+      }
+    },
+    {
+      "character": "禁",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "きんじる"
+      ],
+      "meanings": [
+        "to prohibit"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 6,
+        "word": "禁煙",
+        "reading": "きんえん"
+      }
+    },
+    {
+      "character": "転",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 3,
+      "freq": 327,
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "ころ.がる",
+        "ころ.げる",
+        "ころ.がす",
+        "ころ.ぶ",
+        "まろ.ぶ",
+        "うたた",
+        "うつ.る",
+        "くる.めく"
+      ],
+      "meanings": [
+        "revolve",
+        "turn around",
+        "change"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 9,
+        "word": "運転",
+        "reading": "うんてん"
+      }
+    },
+    {
+      "character": "魚",
+      "level": "N3",
+      "strokes": 11,
+      "grade": 2,
+      "freq": 1208,
+      "onyomi": [
+        "ギョ"
+      ],
+      "kunyomi": [
+        "うお",
+        "さかな",
+        "-ざかな"
+      ],
+      "meanings": [
+        "fish"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 9,
+        "qIndex": 1,
+        "word": "魚",
+        "reading": "うお"
+      }
+    },
+    {
+      "character": "委",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "いたく"
+      ],
+      "meanings": [
+        "consign (goods (for sale) to a firm)",
+        "entrust (person with something)",
+        "commit"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 4,
+        "qIndex": 4,
+        "word": "委員",
+        "reading": "いいん"
+      }
+    },
+    {
+      "character": "巨",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "こ"
+      ],
+      "meanings": [
+        "big",
+        "large",
+        "great"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 29,
+        "qIndex": 1,
+        "word": "巨大",
+        "reading": "きょだい"
+      }
+    },
+    {
+      "character": "飽",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "あくまで"
+      ],
+      "meanings": [
+        "to the end",
+        "to the last",
+        "stubbornly"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 7,
+        "word": "飽きる",
+        "reading": "あきる"
+      }
+    },
+    {
+      "character": "円",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 1,
+      "freq": 69,
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "meanings": [
+        "circle",
+        "yen",
+        "round"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 11,
+        "qIndex": 9,
+        "word": "円",
+        "reading": "えん"
+      }
+    },
+    {
+      "character": "待",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 3,
+      "freq": 391,
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "ま.つ",
+        "-ま.ち"
+      ],
+      "meanings": [
+        "wait",
+        "depend on"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 26,
+        "qIndex": 2,
+        "word": "期待",
+        "reading": "きたい"
+      }
+    },
+    {
+      "character": "勘",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "かんちがい"
+      ],
+      "meanings": [
+        "misunderstanding",
+        "wrong guess"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 23,
+        "qIndex": 8,
+        "word": "勘定",
+        "reading": "かんじょう"
+      }
+    },
+    {
+      "character": "今",
+      "level": "N3",
+      "strokes": 4,
+      "grade": 2,
+      "freq": 49,
+      "onyomi": [
+        "コン",
+        "キン"
+      ],
+      "kunyomi": [
+        "いま"
+      ],
+      "meanings": [
+        "now"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 0,
+        "word": "今に",
+        "reading": "いまに"
+      }
+    },
+    {
+      "character": "釈",
+      "strokes": 11,
+      "grade": 8,
+      "freq": 764,
+      "onyomi": [
+        "シャク",
+        "セキ"
+      ],
+      "kunyomi": [
+        "とく",
+        "ゆる.す"
+      ],
+      "meanings": [
+        "explanation",
+        "clarification",
+        "pardon"
+      ],
+      "level": "N3",
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 9,
+        "word": "解釈",
+        "reading": "かいしゃく"
+      }
+    },
+    {
+      "character": "海",
+      "level": "N3",
+      "strokes": 9,
+      "grade": 2,
+      "freq": 200,
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "うみ"
+      ],
+      "meanings": [
+        "sea",
+        "ocean"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 16,
+        "qIndex": 4,
+        "word": "海外",
+        "reading": "かいがい"
+      }
+    },
+    {
+      "character": "魔",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "おじゃまします"
+      ],
+      "meanings": [
+        "Excuse me for disturbing (interrupting) you"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 9,
+        "word": "悪魔",
+        "reading": "あくま"
+      }
+    },
+    {
+      "character": "印",
+      "level": "N3",
+      "strokes": 10,
+      "grade": 6,
+      "freq": 500,
+      "onyomi": [],
+      "kunyomi": [
+        "めじるし"
+      ],
+      "meanings": [
+        "mark",
+        "sign",
+        "landmark"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 8,
+        "qIndex": 8,
+        "word": "印刷",
+        "reading": "いんさつ"
+      }
+    },
+    {
+      "character": "運",
+      "level": "N3",
+      "strokes": 12,
+      "grade": 3,
+      "freq": 255,
+      "onyomi": [
+        "ウン"
+      ],
+      "kunyomi": [
+        "はこ.ぶ"
+      ],
+      "meanings": [
+        "carry",
+        "luck",
+        "destiny",
+        "fate",
+        "lot",
+        "transport",
+        "progress",
+        "advance"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 10,
+        "qIndex": 8,
+        "word": "運",
+        "reading": "うん"
+      }
     }
   ],
   "N2": [
@@ -12748,7 +25079,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to meet",
         "to encounter (undesirable nuance)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 0,
+        "word": "遭う",
+        "reading": "あう"
+      }
     },
     {
       "character": "扇",
@@ -12778,7 +25116,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "pale",
         "pallid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 1,
+        "word": "青白い",
+        "reading": "あおじろい"
+      }
     },
     {
       "character": "白",
@@ -12793,7 +25138,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "pale",
         "pallid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 1,
+        "word": "青白い",
+        "reading": "あおじろい"
+      }
     },
     {
       "character": "明",
@@ -12809,7 +25161,14 @@ window.JLPT_KANJI_DATA = {
         "room",
         "time to spare",
         "emptiness"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 2,
+        "word": "明け方",
+        "reading": "あけがた"
+      }
     },
     {
       "character": "飽",
@@ -12839,7 +25198,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "dawn"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 2,
+        "word": "明け方",
+        "reading": "あけがた"
+      }
     },
     {
       "character": "挙",
@@ -12854,7 +25220,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to raise",
         "to fly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 3,
+        "word": "挙げる",
+        "reading": "あげる"
+      }
     },
     {
       "character": "揚",
@@ -12869,7 +25242,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to lift",
         "to fry"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 4,
+        "word": "揚げる",
+        "reading": "あげる"
+      }
     },
     {
       "character": "憧",
@@ -12885,7 +25265,14 @@ window.JLPT_KANJI_DATA = {
         "to long for",
         "to yearn after",
         "to admire"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 5,
+        "word": "憧れる",
+        "reading": "あこがれる"
+      }
     },
     {
       "character": "足",
@@ -12899,7 +25286,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "footprints"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 6,
+        "word": "足跡",
+        "reading": "あしあと"
+      }
     },
     {
       "character": "跡",
@@ -12913,7 +25307,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "footprints"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 6,
+        "word": "足跡",
+        "reading": "あしあと"
+      }
     },
     {
       "character": "元",
@@ -12943,7 +25344,14 @@ window.JLPT_KANJI_DATA = {
         "to taste",
         "to savor",
         "to relish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 7,
+        "word": "味わう",
+        "reading": "あじわう"
+      }
     },
     {
       "character": "預",
@@ -12959,7 +25367,14 @@ window.JLPT_KANJI_DATA = {
         "to keep in custody",
         "to receive on deposit",
         "to take charge of"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 8,
+        "word": "預かる",
+        "reading": "あずかる"
+      }
     },
     {
       "character": "暖",
@@ -12974,7 +25389,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to warm up",
         "to get warm"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 1,
+        "qIndex": 9,
+        "word": "暖まる",
+        "reading": "あたたまる"
+      }
     },
     {
       "character": "圧",
@@ -12990,7 +25412,14 @@ window.JLPT_KANJI_DATA = {
         "compression",
         "condensation",
         "pressure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 0,
+        "word": "圧縮",
+        "reading": "あっしゅく"
+      }
     },
     {
       "character": "縮",
@@ -13006,7 +25435,14 @@ window.JLPT_KANJI_DATA = {
         "compression",
         "condensation",
         "pressure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 0,
+        "word": "圧縮",
+        "reading": "あっしゅく"
+      }
     },
     {
       "character": "厚",
@@ -13022,7 +25458,14 @@ window.JLPT_KANJI_DATA = {
         "impudent",
         "shameless",
         "brazen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 1,
+        "word": "厚かましい",
+        "reading": "あつかましい"
+      }
     },
     {
       "character": "宛",
@@ -13037,7 +25480,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "address",
         "direction"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 2,
+        "word": "宛名",
+        "reading": "あてな"
+      }
     },
     {
       "character": "名",
@@ -13052,7 +25502,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "address",
         "direction"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 2,
+        "word": "宛名",
+        "reading": "あてな"
+      }
     },
     {
       "character": "暴",
@@ -13084,7 +25541,14 @@ window.JLPT_KANJI_DATA = {
         "fat",
         "tallow",
         "lard"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 3,
+        "word": "脂",
+        "reading": "あぶら"
+      }
     },
     {
       "character": "雨",
@@ -13098,7 +25562,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "sliding storm door"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 4,
+        "word": "雨戸",
+        "reading": "あまど"
+      }
     },
     {
       "character": "戸",
@@ -13112,7 +25583,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "sliding storm door"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 4,
+        "word": "雨戸",
+        "reading": "あまど"
+      }
     },
     {
       "character": "甘",
@@ -13127,7 +25605,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to pamper",
         "to spoil"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 5,
+        "word": "甘やかす",
+        "reading": "あまやかす"
+      }
     },
     {
       "character": "余",
@@ -13143,7 +25628,14 @@ window.JLPT_KANJI_DATA = {
         "to remain",
         "to be left over",
         "to be in excess"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 6,
+        "word": "余る",
+        "reading": "あまる"
+      }
     },
     {
       "character": "編",
@@ -13157,7 +25649,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "knitting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 7,
+        "word": "編物",
+        "reading": "あみもの"
+      }
     },
     {
       "character": "物",
@@ -13171,7 +25670,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "knitting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 7,
+        "word": "編物",
+        "reading": "あみもの"
+      }
     },
     {
       "character": "危",
@@ -13187,7 +25693,14 @@ window.JLPT_KANJI_DATA = {
         "dangerous",
         "critical",
         "grave"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 2,
+        "qIndex": 9,
+        "word": "危うい",
+        "reading": "あやうい"
+      }
     },
     {
       "character": "怪",
@@ -13203,7 +25716,14 @@ window.JLPT_KANJI_DATA = {
         "suspicious",
         "dubious",
         "doubtful"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 0,
+        "word": "怪しい",
+        "reading": "あやしい"
+      }
     },
     {
       "character": "粗",
@@ -13218,7 +25738,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "coarse",
         "rough"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 1,
+        "word": "粗い",
+        "reading": "あらい"
+      }
     },
     {
       "character": "荒",
@@ -13234,7 +25761,14 @@ window.JLPT_KANJI_DATA = {
         "rough",
         "rude",
         "wild"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 2,
+        "word": "荒い",
+        "reading": "あらい"
+      }
     },
     {
       "character": "争",
@@ -13250,7 +25784,14 @@ window.JLPT_KANJI_DATA = {
         "to dispute",
         "to argue",
         "to be at variance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 3,
+        "word": "争う",
+        "reading": "あらそう"
+      }
     },
     {
       "character": "改",
@@ -13266,7 +25807,14 @@ window.JLPT_KANJI_DATA = {
         "another time",
         "again",
         "over again"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 4,
+        "word": "改めて",
+        "reading": "あらためて"
+      }
     },
     {
       "character": "著",
@@ -13297,7 +25845,14 @@ window.JLPT_KANJI_DATA = {
         "grateful",
         "thankful",
         "welcome"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 5,
+        "word": "有難い",
+        "reading": "ありがたい"
+      }
     },
     {
       "character": "難",
@@ -13313,7 +25868,14 @@ window.JLPT_KANJI_DATA = {
         "grateful",
         "thankful",
         "welcome"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 5,
+        "word": "有難い",
+        "reading": "ありがたい"
+      }
     },
     {
       "character": "在",
@@ -13328,7 +25890,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to live",
         "to be"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 6,
+        "word": "在る",
+        "reading": "ある"
+      }
     },
     {
       "character": "安",
@@ -13342,7 +25911,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "easy-going"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 7,
+        "word": "安易",
+        "reading": "あんい"
+      }
     },
     {
       "character": "易",
@@ -13356,7 +25932,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "easy-going"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 7,
+        "word": "安易",
+        "reading": "あんい"
+      }
     },
     {
       "character": "案",
@@ -13370,7 +25953,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "unexpectedly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 8,
+        "word": "案外",
+        "reading": "あんがい"
+      }
     },
     {
       "character": "外",
@@ -13384,7 +25974,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "unexpectedly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 8,
+        "word": "案外",
+        "reading": "あんがい"
+      }
     },
     {
       "character": "言",
@@ -13400,7 +25997,14 @@ window.JLPT_KANJI_DATA = {
         "to start talking",
         "to speak",
         "to tell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 9,
+        "word": "言い出す",
+        "reading": "いいだす"
+      }
     },
     {
       "character": "出",
@@ -13416,7 +26020,14 @@ window.JLPT_KANJI_DATA = {
         "to start talking",
         "to speak",
         "to tell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 3,
+        "qIndex": 9,
+        "word": "言い出す",
+        "reading": "いいだす"
+      }
     },
     {
       "character": "付",
@@ -13432,7 +26043,14 @@ window.JLPT_KANJI_DATA = {
         "to tell",
         "to tell on (someone)",
         "to order"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 6,
+        "word": "思い付く",
+        "reading": "おもいつく"
+      }
     },
     {
       "character": "生",
@@ -13447,7 +26065,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "vividly",
         "lively"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 0,
+        "word": "生き生き",
+        "reading": "いきいき"
+      }
     },
     {
       "character": "意",
@@ -13462,7 +26087,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "meaning",
         "significance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 7,
+        "word": "意地悪",
+        "reading": "いじわる"
+      }
     },
     {
       "character": "義",
@@ -13491,7 +26123,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "several ~"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 2,
+        "word": "幾分",
+        "reading": "いくぶん"
+      }
     },
     {
       "character": "育",
@@ -13507,7 +26146,14 @@ window.JLPT_KANJI_DATA = {
         "childcare",
         "nursing",
         "upbringing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 1,
+        "word": "育児",
+        "reading": "いくじ"
+      }
     },
     {
       "character": "児",
@@ -13523,7 +26169,14 @@ window.JLPT_KANJI_DATA = {
         "childcare",
         "nursing",
         "upbringing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 1,
+        "word": "育児",
+        "reading": "いくじ"
+      }
     },
     {
       "character": "分",
@@ -13537,7 +26190,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "somewhat"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 2,
+        "word": "幾分",
+        "reading": "いくぶん"
+      }
     },
     {
       "character": "花",
@@ -13551,7 +26211,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(1) flower arrangement"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 3,
+        "word": "生け花",
+        "reading": "いけばな"
+      }
     },
     {
       "character": "以",
@@ -13567,7 +26234,14 @@ window.JLPT_KANJI_DATA = {
         "on and after",
         "hereafter",
         "thereafter"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 4,
+        "word": "以後",
+        "reading": "いご"
+      }
     },
     {
       "character": "降",
@@ -13599,7 +26273,14 @@ window.JLPT_KANJI_DATA = {
         "after this",
         "from now on",
         "hereafter"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 4,
+        "word": "以後",
+        "reading": "いご"
+      }
     },
     {
       "character": "勇",
@@ -13615,7 +26296,14 @@ window.JLPT_KANJI_DATA = {
         "brave",
         "valiant",
         "gallant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 5,
+        "word": "勇ましい",
+        "reading": "いさましい"
+      }
     },
     {
       "character": "衣",
@@ -13631,7 +26319,14 @@ window.JLPT_KANJI_DATA = {
         "necessities of life (food",
         "clothing",
         "etc.)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 6,
+        "word": "衣食住",
+        "reading": "いしょくじゅう"
+      }
     },
     {
       "character": "食",
@@ -13647,7 +26342,14 @@ window.JLPT_KANJI_DATA = {
         "necessities of life (food",
         "clothing",
         "etc.)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 6,
+        "word": "衣食住",
+        "reading": "いしょくじゅう"
+      }
     },
     {
       "character": "住",
@@ -13663,7 +26365,14 @@ window.JLPT_KANJI_DATA = {
         "necessities of life (food",
         "clothing",
         "etc.)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 6,
+        "word": "衣食住",
+        "reading": "いしょくじゅう"
+      }
     },
     {
       "character": "地",
@@ -13679,7 +26388,14 @@ window.JLPT_KANJI_DATA = {
         "malicious",
         "ill-tempered",
         "unkind"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 7,
+        "word": "意地悪",
+        "reading": "いじわる"
+      }
     },
     {
       "character": "悪",
@@ -13695,7 +26411,14 @@ window.JLPT_KANJI_DATA = {
         "malicious",
         "ill-tempered",
         "unkind"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 7,
+        "word": "意地悪",
+        "reading": "いじわる"
+      }
     },
     {
       "character": "一",
@@ -13711,7 +26434,14 @@ window.JLPT_KANJI_DATA = {
         "once",
         "tentatively",
         "in outline"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 8,
+        "word": "一流",
+        "reading": "いちりゅう"
+      }
     },
     {
       "character": "応",
@@ -13727,7 +26457,14 @@ window.JLPT_KANJI_DATA = {
         "once",
         "tentatively",
         "in outline"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 5,
+        "word": "応援",
+        "reading": "おうえん"
+      }
     },
     {
       "character": "段",
@@ -13759,7 +26496,14 @@ window.JLPT_KANJI_DATA = {
         "first class",
         "top grade",
         "foremost"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 8,
+        "word": "一流",
+        "reading": "いちりゅう"
+      }
     },
     {
       "character": "昨",
@@ -13773,7 +26517,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "day before yesterday"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 9,
+        "word": "一昨年",
+        "reading": "いっさくねん"
+      }
     },
     {
       "character": "日",
@@ -13801,7 +26552,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "year before last"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 4,
+        "qIndex": 9,
+        "word": "一昨年",
+        "reading": "いっさくねん"
+      }
     },
     {
       "character": "斉",
@@ -13816,7 +26574,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "simultaneous",
         "all at once"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 0,
+        "word": "一斉",
+        "reading": "いっせい"
+      }
     },
     {
       "character": "旦",
@@ -13848,7 +26613,14 @@ window.JLPT_KANJI_DATA = {
         "fixed",
         "settled",
         "definite"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 1,
+        "word": "一定",
+        "reading": "いってい"
+      }
     },
     {
       "character": "行",
@@ -13862,7 +26634,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "have a nice day, see you"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 3,
+        "word": "売行き",
+        "reading": "うれゆき"
+      }
     },
     {
       "character": "佚",
@@ -13894,7 +26673,14 @@ window.JLPT_KANJI_DATA = {
         "moving",
         "transfer",
         "demise"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 2,
+        "word": "移転",
+        "reading": "いてん"
+      }
     },
     {
       "character": "転",
@@ -13910,7 +26696,14 @@ window.JLPT_KANJI_DATA = {
         "moving",
         "transfer",
         "demise"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 2,
+        "word": "移転",
+        "reading": "いてん"
+      }
     },
     {
       "character": "従",
@@ -13924,7 +26717,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "cousin (female)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 3,
+        "word": "従姉妹",
+        "reading": "いとこ"
+      }
     },
     {
       "character": "姉",
@@ -13938,7 +26738,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "cousin (female)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 3,
+        "word": "従姉妹",
+        "reading": "いとこ"
+      }
     },
     {
       "character": "妹",
@@ -13952,7 +26759,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "cousin (female)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 3,
+        "word": "従姉妹",
+        "reading": "いとこ"
+      }
     },
     {
       "character": "井",
@@ -13966,7 +26780,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "water well"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 4,
+        "word": "井戸",
+        "reading": "いど"
+      }
     },
     {
       "character": "緯",
@@ -13994,7 +26815,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "latitude (nav.)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 2,
+        "word": "角度",
+        "reading": "かくど"
+      }
     },
     {
       "character": "威",
@@ -14009,7 +26837,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be proud",
         "to swagger"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 5,
+        "word": "威張る",
+        "reading": "いばる"
+      }
     },
     {
       "character": "張",
@@ -14024,7 +26859,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be proud",
         "to swagger"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 5,
+        "word": "威張る",
+        "reading": "いばる"
+      }
     },
     {
       "character": "嫌",
@@ -14039,7 +26881,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to hate",
         "to dislike"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 6,
+        "word": "嫌がる",
+        "reading": "いやがる"
+      }
     },
     {
       "character": "炒",
@@ -14084,7 +26933,14 @@ window.JLPT_KANJI_DATA = {
         "container",
         "case",
         "receptacle"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 7,
+        "word": "入れ物",
+        "reading": "いれもの"
+      }
     },
     {
       "character": "引",
@@ -14098,7 +26954,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "gravity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 8,
+        "word": "引力",
+        "reading": "いんりょく"
+      }
     },
     {
       "character": "力",
@@ -14112,7 +26975,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "gravity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 8,
+        "word": "引力",
+        "reading": "いんりょく"
+      }
     },
     {
       "character": "植",
@@ -14128,7 +26998,14 @@ window.JLPT_KANJI_DATA = {
         "garden shrubs",
         "trees",
         "potted plant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 9,
+        "word": "植木",
+        "reading": "うえき"
+      }
     },
     {
       "character": "木",
@@ -14144,7 +27021,14 @@ window.JLPT_KANJI_DATA = {
         "garden shrubs",
         "trees",
         "potted plant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 5,
+        "qIndex": 9,
+        "word": "植木",
+        "reading": "うえき"
+      }
     },
     {
       "character": "飢",
@@ -14158,7 +27042,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to starve"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 0,
+        "word": "飢える",
+        "reading": "うえる"
+      }
     },
     {
       "character": "浮",
@@ -14174,7 +27065,14 @@ window.JLPT_KANJI_DATA = {
         "to float",
         "to rise to surface",
         "to come to mind"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 1,
+        "word": "浮かべる",
+        "reading": "うかべる"
+      }
     },
     {
       "character": "承",
@@ -14204,7 +27102,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "receipt"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 2,
+        "word": "受取",
+        "reading": "うけとり"
+      }
     },
     {
       "character": "取",
@@ -14218,7 +27123,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "receipt"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 2,
+        "word": "受取",
+        "reading": "うけとり"
+      }
     },
     {
       "character": "持",
@@ -14325,7 +27237,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to attack",
         "to avenge"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 3,
+        "word": "討つ",
+        "reading": "うつ"
+      }
     },
     {
       "character": "映",
@@ -14341,7 +27260,14 @@ window.JLPT_KANJI_DATA = {
         "to project",
         "to reflect",
         "to cast (shadow)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 4,
+        "word": "映る",
+        "reading": "うつる"
+      }
     },
     {
       "character": "写",
@@ -14372,7 +27298,14 @@ window.JLPT_KANJI_DATA = {
         "yes or no",
         "existence",
         "flag indicator (comp)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 5,
+        "word": "有無",
+        "reading": "うむ"
+      }
     },
     {
       "character": "埋",
@@ -14388,7 +27321,14 @@ window.JLPT_KANJI_DATA = {
         "to bury",
         "to fill up",
         "to fill (a seat"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 6,
+        "word": "埋める",
+        "reading": "うめる"
+      }
     },
     {
       "character": "敬",
@@ -14403,7 +27343,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to show respect",
         "to honour"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 7,
+        "word": "敬う",
+        "reading": "うやまう"
+      }
     },
     {
       "character": "裏",
@@ -14418,7 +27365,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to turn inside out",
         "to turn (something) over"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 8,
+        "word": "裏口",
+        "reading": "うらぐち"
+      }
     },
     {
       "character": "返",
@@ -14448,7 +27402,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "backdoor",
         "rear entrance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 8,
+        "word": "裏口",
+        "reading": "うらぐち"
+      }
     },
     {
       "character": "占",
@@ -14477,7 +27438,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "resentment"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 6,
+        "qIndex": 9,
+        "word": "恨み",
+        "reading": "うらみ"
+      }
     },
     {
       "character": "羨",
@@ -14492,7 +27460,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "envious",
         "enviable"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 0,
+        "word": "羨ましい",
+        "reading": "うらやましい"
+      }
     },
     {
       "character": "売",
@@ -14507,7 +27482,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "amount sold",
         "proceeds"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 1,
+        "word": "売上",
+        "reading": "うりあげ"
+      }
     },
     {
       "character": "上",
@@ -14522,7 +27504,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "amount sold",
         "proceeds"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 1,
+        "word": "売上",
+        "reading": "うりあげ"
+      }
     },
     {
       "character": "切",
@@ -14536,7 +27525,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "sold-out"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 2,
+        "word": "売り切れ",
+        "reading": "うりきれ"
+      }
     },
     {
       "character": "運",
@@ -14551,7 +27547,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "canal",
         "waterway"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 4,
+        "word": "運河",
+        "reading": "うんが"
+      }
     },
     {
       "character": "河",
@@ -14566,7 +27569,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "canal",
         "waterway"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 4,
+        "word": "運河",
+        "reading": "うんが"
+      }
     },
     {
       "character": "英",
@@ -14623,7 +27633,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "liquid",
         "fluid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 5,
+        "word": "液体",
+        "reading": "えきたい"
+      }
     },
     {
       "character": "体",
@@ -14638,7 +27655,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "liquid",
         "fluid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 5,
+        "word": "液体",
+        "reading": "えきたい"
+      }
     },
     {
       "character": "絵",
@@ -14653,7 +27677,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "colors",
         "paints"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 6,
+        "word": "絵の具",
+        "reading": "えのぐ"
+      }
     },
     {
       "character": "具",
@@ -14668,7 +27699,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "colors",
         "paints"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 6,
+        "word": "絵の具",
+        "reading": "えのぐ"
+      }
     },
     {
       "character": "偉",
@@ -14684,7 +27722,14 @@ window.JLPT_KANJI_DATA = {
         "great",
         "celebrated",
         "eminent"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 7,
+        "word": "偉い",
+        "reading": "えらい"
+      }
     },
     {
       "character": "宴",
@@ -14699,7 +27744,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "party",
         "banquet"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 8,
+        "word": "宴会",
+        "reading": "えんかい"
+      }
     },
     {
       "character": "会",
@@ -14714,7 +27766,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "party",
         "banquet"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 8,
+        "word": "宴会",
+        "reading": "えんかい"
+      }
     },
     {
       "character": "園",
@@ -14729,7 +27788,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "horticulture",
         "gardening"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 9,
+        "word": "園芸",
+        "reading": "えんげい"
+      }
     },
     {
       "character": "芸",
@@ -14744,7 +27810,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "horticulture",
         "gardening"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 7,
+        "qIndex": 9,
+        "word": "園芸",
+        "reading": "えんげい"
+      }
     },
     {
       "character": "演",
@@ -14758,7 +27831,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "play (theatrical)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 0,
+        "word": "演劇",
+        "reading": "えんげき"
+      }
     },
     {
       "character": "劇",
@@ -14772,7 +27852,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "play (theatrical)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 0,
+        "word": "演劇",
+        "reading": "えんげき"
+      }
     },
     {
       "character": "円",
@@ -14786,7 +27873,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "circumference"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 1,
+        "word": "円周",
+        "reading": "えんしゅう"
+      }
     },
     {
       "character": "周",
@@ -14800,7 +27894,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "circumference"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 1,
+        "word": "円周",
+        "reading": "えんしゅう"
+      }
     },
     {
       "character": "遠",
@@ -14816,7 +27917,14 @@ window.JLPT_KANJI_DATA = {
         "trip",
         "hike",
         "picnic"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 2,
+        "word": "遠足",
+        "reading": "えんそく"
+      }
     },
     {
       "character": "延",
@@ -14832,7 +27940,14 @@ window.JLPT_KANJI_DATA = {
         "extension",
         "elongation",
         "prolongation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 3,
+        "word": "延長",
+        "reading": "えんちょう"
+      }
     },
     {
       "character": "長",
@@ -14848,7 +27963,14 @@ window.JLPT_KANJI_DATA = {
         "extension",
         "elongation",
         "prolongation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 3,
+        "word": "延長",
+        "reading": "えんちょう"
+      }
     },
     {
       "character": "煙",
@@ -14862,7 +27984,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "chimney"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 4,
+        "word": "煙突",
+        "reading": "えんとつ"
+      }
     },
     {
       "character": "突",
@@ -14876,7 +28005,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "chimney"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 4,
+        "word": "煙突",
+        "reading": "えんとつ"
+      }
     },
     {
       "character": "追",
@@ -14906,7 +28042,14 @@ window.JLPT_KANJI_DATA = {
         "to chase or run after someone",
         "to run down",
         "to pursue"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 6,
+        "word": "掛け算",
+        "reading": "かけざん"
+      }
     },
     {
       "character": "越",
@@ -14938,7 +28081,14 @@ window.JLPT_KANJI_DATA = {
         "aid",
         "assistance",
         "help"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 5,
+        "word": "応援",
+        "reading": "おうえん"
+      }
     },
     {
       "character": "王",
@@ -14952,7 +28102,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "princess"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 6,
+        "word": "王女",
+        "reading": "おうじょ"
+      }
     },
     {
       "character": "女",
@@ -14966,7 +28123,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "princess"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 6,
+        "word": "王女",
+        "reading": "おうじょ"
+      }
     },
     {
       "character": "接",
@@ -14995,7 +28159,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "receiving",
         "dealing with"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 7,
+        "word": "応対",
+        "reading": "おうたい"
+      }
     },
     {
       "character": "往",
@@ -15042,7 +28213,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "Europe and America",
         "the West"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 8,
+        "word": "欧米",
+        "reading": "おうべい"
+      }
     },
     {
       "character": "米",
@@ -15057,7 +28235,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "Europe and America",
         "the West"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 8,
+        "word": "欧米",
+        "reading": "おうべい"
+      }
     },
     {
       "character": "用",
@@ -15072,7 +28257,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "application",
         "put to practical use"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 8,
+        "qIndex": 9,
+        "word": "応用",
+        "reading": "おうよう"
+      }
     },
     {
       "character": "大",
@@ -15086,7 +28278,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "main street"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 0,
+        "word": "大通り",
+        "reading": "おおどおり"
+      }
     },
     {
       "character": "通",
@@ -15100,7 +28299,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "main street"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 0,
+        "word": "大通り",
+        "reading": "おおどおり"
+      }
     },
     {
       "character": "凡",
@@ -15131,7 +28337,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "return",
         "welcome"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 1,
+        "word": "お帰り",
+        "reading": "おかえり"
+      }
     },
     {
       "character": "代",
@@ -15146,7 +28359,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "second helping",
         "another cup"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 2,
+        "word": "お代わり",
+        "reading": "おかわり"
+      }
     },
     {
       "character": "拝",
@@ -15176,7 +28396,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "I'm sorry to hear that…"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 6,
+        "word": "換気",
+        "reading": "かんき"
+      }
     },
     {
       "character": "毒",
@@ -15204,7 +28431,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to compensate for"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 3,
+        "word": "補う",
+        "reading": "おぎなう"
+      }
     },
     {
       "character": "屋",
@@ -15218,7 +28452,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "outdoors"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 4,
+        "word": "屋外",
+        "reading": "おくがい"
+      }
     },
     {
       "character": "送",
@@ -15232,7 +28473,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "part of word written in kana"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 5,
+        "word": "送り仮名",
+        "reading": "おくりがな"
+      }
     },
     {
       "character": "仮",
@@ -15246,7 +28494,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "part of word written in kana"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 5,
+        "word": "送り仮名",
+        "reading": "おくりがな"
+      }
     },
     {
       "character": "怠",
@@ -15262,7 +28517,14 @@ window.JLPT_KANJI_DATA = {
         "to neglect",
         "to be off guard",
         "to be feeling better"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 6,
+        "word": "怠る",
+        "reading": "おこたる"
+      }
     },
     {
       "character": "押",
@@ -15294,7 +28556,14 @@ window.JLPT_KANJI_DATA = {
         "(1) to govern",
         "to manage",
         "(2) to subdue"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 7,
+        "word": "治める",
+        "reading": "おさめる"
+      }
     },
     {
       "character": "納",
@@ -15310,7 +28579,14 @@ window.JLPT_KANJI_DATA = {
         "to obtain",
         "to reap",
         "to pay"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 8,
+        "word": "納める",
+        "reading": "おさめる"
+      }
     },
     {
       "character": "惜",
@@ -15326,7 +28602,14 @@ window.JLPT_KANJI_DATA = {
         "regrettable",
         "disappointing",
         "precious"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 9,
+        "qIndex": 9,
+        "word": "惜しい",
+        "reading": "おしい"
+      }
     },
     {
       "character": "伯",
@@ -15340,7 +28623,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(humble) uncle (older than one's parent)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 0,
+        "word": "伯父さん",
+        "reading": "おじさん"
+      }
     },
     {
       "character": "父",
@@ -15354,7 +28644,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(humble) uncle (older than one's parent)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 0,
+        "word": "伯父さん",
+        "reading": "おじさん"
+      }
     },
     {
       "character": "叔",
@@ -15368,7 +28665,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "uncle (younger than one's parent)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 1,
+        "word": "叔父さん",
+        "reading": "おじさん"
+      }
     },
     {
       "character": "御",
@@ -15410,7 +28714,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "bow"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 4,
+        "word": "儀式",
+        "reading": "ぎしき"
+      }
     },
     {
       "character": "小",
@@ -15467,7 +28778,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to be taught"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 8,
+        "word": "教養",
+        "reading": "きょうよう"
+      }
     },
     {
       "character": "落",
@@ -15497,7 +28815,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to calm down",
         "to settle down"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 6,
+        "word": "着替え",
+        "reading": "きがえ"
+      }
     },
     {
       "character": "手",
@@ -15511,7 +28836,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "font of purifying water placed at entrance of shrine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 2,
+        "word": "お手伝いさん",
+        "reading": "おてつだいさん"
+      }
     },
     {
       "character": "洗",
@@ -15537,7 +28869,14 @@ window.JLPT_KANJI_DATA = {
       "kunyomi": [
         "おてつだいさん"
       ],
-      "meanings": []
+      "meanings": [],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 2,
+        "word": "お手伝いさん",
+        "reading": "おてつだいさん"
+      }
     },
     {
       "character": "驚",
@@ -15569,7 +28908,14 @@ window.JLPT_KANJI_DATA = {
         "each",
         "every",
         "either"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 3,
+        "word": "各々",
+        "reading": "おのおの"
+      }
     },
     {
       "character": "母",
@@ -15583,7 +28929,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(humble) aunt (older than one's parent)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 4,
+        "word": "叔母さん",
+        "reading": "おばさん"
+      }
     },
     {
       "character": "参",
@@ -15598,7 +28951,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "worship",
         "shrine visit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 5,
+        "word": "お参り",
+        "reading": "おまいり"
+      }
     },
     {
       "character": "待",
@@ -15624,7 +28984,14 @@ window.JLPT_KANJI_DATA = {
       "kunyomi": [
         "おもいがけない"
       ],
-      "meanings": []
+      "meanings": [],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 6,
+        "word": "思い付く",
+        "reading": "おもいつく"
+      }
     },
     {
       "character": "込",
@@ -15655,7 +29022,14 @@ window.JLPT_KANJI_DATA = {
         "heavy",
         "massive",
         "serious"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 7,
+        "word": "重たい",
+        "reading": "おもたい"
+      }
     },
     {
       "character": "親",
@@ -15669,7 +29043,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "thumb"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 8,
+        "word": "親指",
+        "reading": "おやゆび"
+      }
     },
     {
       "character": "指",
@@ -15683,7 +29064,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "thumb"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 8,
+        "word": "親指",
+        "reading": "おやゆび"
+      }
     },
     {
       "character": "卸",
@@ -15714,7 +29102,14 @@ window.JLPT_KANJI_DATA = {
         "grace",
         "favor",
         "blessing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 9,
+        "word": "恩恵",
+        "reading": "おんけい"
+      }
     },
     {
       "character": "恵",
@@ -15730,7 +29125,14 @@ window.JLPT_KANJI_DATA = {
         "grace",
         "favor",
         "blessing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 10,
+        "qIndex": 9,
+        "word": "恩恵",
+        "reading": "おんけい"
+      }
     },
     {
       "character": "温",
@@ -15744,7 +29146,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "greenhouse"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 0,
+        "word": "温室",
+        "reading": "おんしつ"
+      }
     },
     {
       "character": "室",
@@ -15758,7 +29167,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "greenhouse"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 0,
+        "word": "温室",
+        "reading": "おんしつ"
+      }
     },
     {
       "character": "泉",
@@ -15774,7 +29190,14 @@ window.JLPT_KANJI_DATA = {
         "spa",
         "hot spring",
         "onsen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 1,
+        "word": "温泉",
+        "reading": "おんせん"
+      }
     },
     {
       "character": "帯",
@@ -15788,7 +29211,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "temperate zone"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 2,
+        "word": "温帯",
+        "reading": "おんたい"
+      }
     },
     {
       "character": "中",
@@ -15803,7 +29233,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "and Company",
         "Messrs."
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 8,
+        "word": "空中",
+        "reading": "くうちゅう"
+      }
     },
     {
       "character": "人",
@@ -15817,7 +29254,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "woman"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 3,
+        "word": "女の人",
+        "reading": "おんなのひと"
+      }
     },
     {
       "character": "化",
@@ -15831,7 +29275,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "action of making something"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 5,
+        "word": "強化",
+        "reading": "きょうか"
+      }
     },
     {
       "character": "蚊",
@@ -15845,7 +29296,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "mosquito"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 4,
+        "word": "蚊",
+        "reading": "か"
+      }
     },
     {
       "character": "貝",
@@ -15860,7 +29318,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "shell",
         "shellfish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 5,
+        "word": "貝",
+        "reading": "かい"
+      }
     },
     {
       "character": "開",
@@ -15874,7 +29339,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "opening of a meeting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 6,
+        "word": "開会",
+        "reading": "かいかい"
+      }
     },
     {
       "character": "館",
@@ -15889,7 +29361,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "meeting hall",
         "assembly hall"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 7,
+        "word": "会館",
+        "reading": "かいかん"
+      }
     },
     {
       "character": "札",
@@ -15918,7 +29397,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "breakup",
         "dissolution"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 8,
+        "word": "解散",
+        "reading": "かいさん"
+      }
     },
     {
       "character": "散",
@@ -15933,7 +29419,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "breakup",
         "dissolution"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 8,
+        "word": "解散",
+        "reading": "かいさん"
+      }
     },
     {
       "character": "海",
@@ -15948,7 +29441,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sea bathing",
         "seawater bath"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 9,
+        "word": "海水浴",
+        "reading": "かいすいよく"
+      }
     },
     {
       "character": "水",
@@ -15963,7 +29463,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sea bathing",
         "seawater bath"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 9,
+        "word": "海水浴",
+        "reading": "かいすいよく"
+      }
     },
     {
       "character": "浴",
@@ -15978,7 +29485,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sea bathing",
         "seawater bath"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 11,
+        "qIndex": 9,
+        "word": "海水浴",
+        "reading": "かいすいよく"
+      }
     },
     {
       "character": "回",
@@ -15993,7 +29507,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "number of times",
         "frequency"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 0,
+        "word": "回数",
+        "reading": "かいすう"
+      }
     },
     {
       "character": "数",
@@ -16008,7 +29529,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "number of times",
         "frequency"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 0,
+        "word": "回数",
+        "reading": "かいすう"
+      }
     },
     {
       "character": "券",
@@ -16022,7 +29550,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "book of tickets"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 1,
+        "word": "回数券",
+        "reading": "かいすうけん"
+      }
     },
     {
       "character": "快",
@@ -16036,7 +29571,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "good weather"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 2,
+        "word": "快晴",
+        "reading": "かいせい"
+      }
     },
     {
       "character": "晴",
@@ -16050,7 +29592,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "good weather"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 2,
+        "word": "快晴",
+        "reading": "かいせい"
+      }
     },
     {
       "character": "正",
@@ -16066,7 +29615,14 @@ window.JLPT_KANJI_DATA = {
         "revision",
         "amendment",
         "alteration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 3,
+        "word": "改正",
+        "reading": "かいせい"
+      }
     },
     {
       "character": "説",
@@ -16081,7 +29637,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "explanation",
         "commentary"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 4,
+        "word": "解説",
+        "reading": "かいせつ"
+      }
     },
     {
       "character": "造",
@@ -16096,7 +29659,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "(1) remodeling",
         "(2) modding (comp)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 5,
+        "word": "改造",
+        "reading": "かいぞう"
+      }
     },
     {
       "character": "答",
@@ -16111,7 +29681,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "reply",
         "answer"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 12,
+        "qIndex": 8,
+        "word": "回答",
+        "reading": "かいとう"
+      }
     },
     {
       "character": "放",
@@ -16127,7 +29704,14 @@ window.JLPT_KANJI_DATA = {
         "release",
         "liberation",
         "emancipation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 0,
+        "word": "解放",
+        "reading": "かいほう"
+      }
     },
     {
       "character": "洋",
@@ -16141,7 +29725,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "ocean"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 2,
+        "word": "海洋",
+        "reading": "かいよう"
+      }
     },
     {
       "character": "却",
@@ -16188,7 +29779,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "house",
         "building"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 3,
+        "word": "貸家",
+        "reading": "かしや"
+      }
     },
     {
       "character": "係",
@@ -16204,7 +29802,14 @@ window.JLPT_KANJI_DATA = {
         "to concern oneself in",
         "to have to do with",
         "to affect"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 4,
+        "word": "係わる",
+        "reading": "かかわる"
+      }
     },
     {
       "character": "書",
@@ -16220,7 +29825,14 @@ window.JLPT_KANJI_DATA = {
         "writing down",
         "putting on record",
         "recording"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 5,
+        "word": "書留",
+        "reading": "かきとめ"
+      }
     },
     {
       "character": "留",
@@ -16236,7 +29848,14 @@ window.JLPT_KANJI_DATA = {
         "writing down",
         "putting on record",
         "recording"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 5,
+        "word": "書留",
+        "reading": "かきとめ"
+      }
     },
     {
       "character": "垣",
@@ -16250,7 +29869,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "hedge"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 6,
+        "word": "垣根",
+        "reading": "かきね"
+      }
     },
     {
       "character": "根",
@@ -16264,7 +29890,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "hedge"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 6,
+        "word": "垣根",
+        "reading": "かきね"
+      }
     },
     {
       "character": "限",
@@ -16278,7 +29911,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "limit(s), as far as possible"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 9,
+        "word": "期限",
+        "reading": "きげん"
+      }
     },
     {
       "character": "掻",
@@ -16309,7 +29949,14 @@ window.JLPT_KANJI_DATA = {
         "aerial",
         "overhead",
         "fiction"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 7,
+        "word": "架空",
+        "reading": "かくう"
+      }
     },
     {
       "character": "空",
@@ -16325,7 +29972,14 @@ window.JLPT_KANJI_DATA = {
         "aerial",
         "overhead",
         "fiction"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 7,
+        "word": "架空",
+        "reading": "かくう"
+      }
     },
     {
       "character": "自",
@@ -16340,7 +29994,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "individual",
         "each"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 8,
+        "word": "各自",
+        "reading": "かくじ"
+      }
     },
     {
       "character": "拡",
@@ -16354,7 +30015,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "expansion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 9,
+        "word": "拡充",
+        "reading": "かくじゅう"
+      }
     },
     {
       "character": "充",
@@ -16368,7 +30036,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "expansion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 13,
+        "qIndex": 9,
+        "word": "拡充",
+        "reading": "かくじゅう"
+      }
     },
     {
       "character": "角",
@@ -16382,7 +30057,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "angle"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 2,
+        "word": "角度",
+        "reading": "かくど"
+      }
     },
     {
       "character": "格",
@@ -16396,7 +30078,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "exceptional"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 3,
+        "word": "格別",
+        "reading": "かくべつ"
+      }
     },
     {
       "character": "別",
@@ -16410,7 +30099,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "exceptional"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 3,
+        "word": "格別",
+        "reading": "かくべつ"
+      }
     },
     {
       "character": "確",
@@ -16424,7 +30120,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "probability"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 4,
+        "word": "確率",
+        "reading": "かくりつ"
+      }
     },
     {
       "character": "率",
@@ -16438,7 +30141,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "probability"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 4,
+        "word": "確率",
+        "reading": "かくりつ"
+      }
     },
     {
       "character": "嗅",
@@ -16453,7 +30163,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to sniff",
         "to smell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 5,
+        "word": "嗅ぐ",
+        "reading": "かぐ"
+      }
     },
     {
       "character": "算",
@@ -16467,7 +30184,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "multiplication"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 6,
+        "word": "掛け算",
+        "reading": "かけざん"
+      }
     },
     {
       "character": "可",
@@ -16483,7 +30207,14 @@ window.JLPT_KANJI_DATA = {
         "approval",
         "adoption (e.g. motion",
         "bill)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 7,
+        "word": "可決",
+        "reading": "かけつ"
+      }
     },
     {
       "character": "決",
@@ -16499,7 +30230,14 @@ window.JLPT_KANJI_DATA = {
         "approval",
         "adoption (e.g. motion",
         "bill)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 7,
+        "word": "可決",
+        "reading": "かけつ"
+      }
     },
     {
       "character": "下",
@@ -16515,7 +30253,14 @@ window.JLPT_KANJI_DATA = {
         "downward",
         "descent",
         "fall"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 6,
+        "word": "下線",
+        "reading": "かせん"
+      }
     },
     {
       "character": "火",
@@ -16530,7 +30275,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "a burner",
         "origin of a fire"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 9,
+        "word": "火山",
+        "reading": "かざん"
+      }
     },
     {
       "character": "飾",
@@ -16544,7 +30296,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "decoration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 8,
+        "word": "飾り",
+        "reading": "かざり"
+      }
     },
     {
       "character": "山",
@@ -16558,7 +30317,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "volcano"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 14,
+        "qIndex": 9,
+        "word": "火山",
+        "reading": "かざん"
+      }
     },
     {
       "character": "貸",
@@ -16573,7 +30339,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "lending",
         "loaning"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 0,
+        "word": "貸し出し",
+        "reading": "かしだし"
+      }
     },
     {
       "character": "過",
@@ -16589,7 +30362,14 @@ window.JLPT_KANJI_DATA = {
         "error",
         "blunder",
         "accident"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 1,
+        "word": "過失",
+        "reading": "かしつ"
+      }
     },
     {
       "character": "失",
@@ -16605,7 +30385,14 @@ window.JLPT_KANJI_DATA = {
         "error",
         "blunder",
         "accident"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 1,
+        "word": "過失",
+        "reading": "かしつ"
+      }
     },
     {
       "character": "間",
@@ -16619,7 +30406,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "room to let"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 2,
+        "word": "貸間",
+        "reading": "かしま"
+      }
     },
     {
       "character": "個",
@@ -16635,7 +30429,14 @@ window.JLPT_KANJI_DATA = {
         "passage",
         "place",
         "point"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 4,
+        "word": "個所",
+        "reading": "かしょ"
+      }
     },
     {
       "character": "所",
@@ -16651,7 +30452,14 @@ window.JLPT_KANJI_DATA = {
         "passage",
         "place",
         "point"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 4,
+        "word": "個所",
+        "reading": "かしょ"
+      }
     },
     {
       "character": "果",
@@ -16667,7 +30475,14 @@ window.JLPT_KANJI_DATA = {
         "fruit",
         "nut",
         "berry."
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 5,
+        "word": "果実",
+        "reading": "かじつ"
+      }
     },
     {
       "character": "実",
@@ -16683,7 +30498,14 @@ window.JLPT_KANJI_DATA = {
         "fruit",
         "nut",
         "berry."
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 5,
+        "word": "果実",
+        "reading": "かじつ"
+      }
     },
     {
       "character": "剰",
@@ -16713,7 +30535,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "underline",
         "underscore"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 6,
+        "word": "下線",
+        "reading": "かせん"
+      }
     },
     {
       "character": "課",
@@ -16727,7 +30556,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "taxation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 0,
+        "word": "課程",
+        "reading": "かてい"
+      }
     },
     {
       "character": "税",
@@ -16755,7 +30591,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "acceleration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 7,
+        "word": "加速",
+        "reading": "かそく"
+      }
     },
     {
       "character": "速",
@@ -16769,7 +30612,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "acceleration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 7,
+        "word": "加速",
+        "reading": "かそく"
+      }
     },
     {
       "character": "固",
@@ -16784,7 +30634,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "stubborn",
         "firm (not viscous or easily moved)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 8,
+        "word": "固い",
+        "reading": "かたい"
+      }
     },
     {
       "character": "堅",
@@ -16800,7 +30657,14 @@ window.JLPT_KANJI_DATA = {
         "hard (esp. wood)",
         "steadfast",
         "honorable"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 15,
+        "qIndex": 9,
+        "word": "堅い",
+        "reading": "かたい"
+      }
     },
     {
       "character": "片",
@@ -16814,7 +30678,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "katakana"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 0,
+        "word": "片仮名",
+        "reading": "かたかな"
+      }
     },
     {
       "character": "塊",
@@ -16830,7 +30701,14 @@ window.JLPT_KANJI_DATA = {
         "lump",
         "mass",
         "clod"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 2,
+        "word": "塊",
+        "reading": "かたまり"
+      }
     },
     {
       "character": "道",
@@ -16844,7 +30722,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "one-way (trip)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 3,
+        "word": "片道",
+        "reading": "かたみち"
+      }
     },
     {
       "character": "傾",
@@ -16891,7 +30776,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "parenthesis",
         "brackets"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 4,
+        "word": "括弧",
+        "reading": "かっこ"
+      }
     },
     {
       "character": "弧",
@@ -16906,7 +30798,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "parenthesis",
         "brackets"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 4,
+        "word": "括弧",
+        "reading": "かっこ"
+      }
     },
     {
       "character": "勝",
@@ -16935,7 +30834,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to shoulder",
         "to carry on shoulder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 5,
+        "word": "担ぐ",
+        "reading": "かつぐ"
+      }
     },
     {
       "character": "活",
@@ -16949,7 +30855,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "printing type"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 6,
+        "word": "活字",
+        "reading": "かつじ"
+      }
     },
     {
       "character": "字",
@@ -16963,7 +30876,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "printing type"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 6,
+        "word": "活字",
+        "reading": "かつじ"
+      }
     },
     {
       "character": "躍",
@@ -16977,7 +30897,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "activity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 16,
+        "qIndex": 7,
+        "word": "活躍",
+        "reading": "かつやく"
+      }
     },
     {
       "character": "程",
@@ -16992,7 +30919,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "course",
         "curriculum"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 0,
+        "word": "課程",
+        "reading": "かてい"
+      }
     },
     {
       "character": "遣",
@@ -17007,7 +30941,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "kana orthography",
         "syllabary spelling"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 3,
+        "word": "仮名遣い",
+        "reading": "かなづかい"
+      }
     },
     {
       "character": "鐘",
@@ -17022,7 +30963,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "bell",
         "chime"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 4,
+        "word": "鐘",
+        "reading": "かね"
+      }
     },
     {
       "character": "熱",
@@ -17036,7 +30984,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "heating"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 5,
+        "word": "加熱",
+        "reading": "かねつ"
+      }
     },
     {
       "character": "兼",
@@ -17052,7 +31007,14 @@ window.JLPT_KANJI_DATA = {
         "to hold (position)",
         "to serve",
         "to be unable"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 6,
+        "word": "兼ねる",
+        "reading": "かねる"
+      }
     },
     {
       "character": "半",
@@ -17066,7 +31028,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "majority"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 7,
+        "word": "過半数",
+        "reading": "かはんすう"
+      }
     },
     {
       "character": "被",
@@ -17095,7 +31064,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "iron pot",
         "kettle"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 8,
+        "word": "釜",
+        "reading": "かま"
+      }
     },
     {
       "character": "構",
@@ -17110,7 +31086,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "it's all right",
         "one doesn’t mind"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 9,
+        "word": "構造",
+        "reading": "こうぞう"
+      }
     },
     {
       "character": "紙",
@@ -17138,7 +31121,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "wastepaper"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 4,
+        "word": "屑",
+        "reading": "くず"
+      }
     },
     {
       "character": "神",
@@ -17152,7 +31142,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "god"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 9,
+        "word": "神様",
+        "reading": "かみさま"
+      }
     },
     {
       "character": "様",
@@ -17166,7 +31163,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "god"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 17,
+        "qIndex": 9,
+        "word": "神様",
+        "reading": "かみさま"
+      }
     },
     {
       "character": "剃",
@@ -17209,7 +31213,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "cargo",
         "freight"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 0,
+        "word": "貨物",
+        "reading": "かもつ"
+      }
     },
     {
       "character": "歌",
@@ -17255,7 +31266,14 @@ window.JLPT_KANJI_DATA = {
         "shell",
         "husk",
         "hull"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 1,
+        "word": "殻",
+        "reading": "から"
+      }
     },
     {
       "character": "枯",
@@ -17271,7 +31289,14 @@ window.JLPT_KANJI_DATA = {
         "to wither",
         "to die (plant)",
         "to be blasted (plant)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 3,
+        "word": "枯れる",
+        "reading": "かれる"
+      }
     },
     {
       "character": "乾",
@@ -17287,7 +31312,14 @@ window.JLPT_KANJI_DATA = {
         "to dry (clothes",
         "etc.)",
         "to desiccate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 9,
+        "word": "乾燥",
+        "reading": "かんそう"
+      }
     },
     {
       "character": "渇",
@@ -17301,7 +31333,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to be thirsty"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 4,
+        "word": "渇く",
+        "reading": "かわく"
+      }
     },
     {
       "character": "為",
@@ -17331,7 +31370,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "money order",
         "exchange"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 6,
+        "word": "着替え",
+        "reading": "きがえ"
+      }
     },
     {
       "character": "瓦",
@@ -17373,7 +31419,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "feeling, sense, impression"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 7,
+        "word": "感激",
+        "reading": "かんげき"
+      }
     },
     {
       "character": "隔",
@@ -17389,7 +31442,14 @@ window.JLPT_KANJI_DATA = {
         "space",
         "interval",
         "SPC"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 5,
+        "word": "間隔",
+        "reading": "かんかく"
+      }
     },
     {
       "character": "換",
@@ -17403,7 +31463,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "ventilation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 6,
+        "word": "換気",
+        "reading": "かんき"
+      }
     },
     {
       "character": "激",
@@ -17419,7 +31486,14 @@ window.JLPT_KANJI_DATA = {
         "deep emotion",
         "impression",
         "inspiration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 7,
+        "word": "感激",
+        "reading": "かんげき"
+      }
     },
     {
       "character": "関",
@@ -17433,7 +31507,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "south-western half of Japan, including Osaka"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 6,
+        "word": "関東",
+        "reading": "かんとう"
+      }
     },
     {
       "character": "西",
@@ -17491,7 +31572,14 @@ window.JLPT_KANJI_DATA = {
         "dry",
         "arid",
         "insipid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 18,
+        "qIndex": 9,
+        "word": "乾燥",
+        "reading": "かんそう"
+      }
     },
     {
       "character": "想",
@@ -17506,7 +31594,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "impressions",
         "thoughts"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 0,
+        "word": "感想",
+        "reading": "かんそう"
+      }
     },
     {
       "character": "観",
@@ -17520,7 +31615,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "observation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 1,
+        "word": "観測",
+        "reading": "かんそく"
+      }
     },
     {
       "character": "測",
@@ -17534,7 +31636,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "observation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 1,
+        "word": "観測",
+        "reading": "かんそく"
+      }
     },
     {
       "character": "寒",
@@ -17563,7 +31672,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "misunderstanding",
         "wrong guess"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 2,
+        "word": "勘違い",
+        "reading": "かんちがい"
+      }
     },
     {
       "character": "違",
@@ -17578,7 +31694,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "misunderstanding",
         "wrong guess"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 2,
+        "word": "勘違い",
+        "reading": "かんちがい"
+      }
     },
     {
       "character": "官",
@@ -17593,7 +31716,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "government office",
         "authorities"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 3,
+        "word": "官庁",
+        "reading": "かんちょう"
+      }
     },
     {
       "character": "庁",
@@ -17608,7 +31738,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "government office",
         "authorities"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 3,
+        "word": "官庁",
+        "reading": "かんちょう"
+      }
     },
     {
       "character": "缶",
@@ -17624,7 +31761,14 @@ window.JLPT_KANJI_DATA = {
         "packing (in cans)",
         "canning",
         "canned goods"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 4,
+        "word": "缶詰",
+        "reading": "かんづめ"
+      }
     },
     {
       "character": "詰",
@@ -17640,7 +31784,14 @@ window.JLPT_KANJI_DATA = {
         "packing (in cans)",
         "canning",
         "canned goods"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 4,
+        "word": "缶詰",
+        "reading": "かんづめ"
+      }
     },
     {
       "character": "電",
@@ -17655,7 +31806,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "dry cell",
         "battery"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 5,
+        "word": "乾電池",
+        "reading": "かんでんち"
+      }
     },
     {
       "character": "池",
@@ -17670,7 +31828,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "dry cell",
         "battery"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 5,
+        "word": "乾電池",
+        "reading": "かんでんち"
+      }
     },
     {
       "character": "東",
@@ -17685,7 +31850,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "eastern half of Japan",
         "including Tokyo"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 6,
+        "word": "関東",
+        "reading": "かんとう"
+      }
     },
     {
       "character": "念",
@@ -17717,7 +31889,14 @@ window.JLPT_KANJI_DATA = {
         "sign",
         "signboard",
         "doorplate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 7,
+        "word": "看板",
+        "reading": "かんばん"
+      }
     },
     {
       "character": "板",
@@ -17733,7 +31912,14 @@ window.JLPT_KANJI_DATA = {
         "sign",
         "signboard",
         "doorplate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 7,
+        "word": "看板",
+        "reading": "かんばん"
+      }
     },
     {
       "character": "杯",
@@ -17747,7 +31933,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "toast (drink)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 8,
+        "word": "乾杯",
+        "reading": "かんぱい"
+      }
     },
     {
       "character": "病",
@@ -17761,7 +31954,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nursing (a patient)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 19,
+        "qIndex": 9,
+        "word": "看病",
+        "reading": "かんびょう"
+      }
     },
     {
       "character": "冠",
@@ -17777,7 +31977,14 @@ window.JLPT_KANJI_DATA = {
         "crown",
         "diadem",
         "first"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 0,
+        "word": "冠",
+        "reading": "かんむり"
+      }
     },
     {
       "character": "漢",
@@ -17806,7 +32013,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "the outside",
         "external"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 1,
+        "word": "外部",
+        "reading": "がいぶ"
+      }
     },
     {
       "character": "概",
@@ -17854,7 +32068,14 @@ window.JLPT_KANJI_DATA = {
         "science",
         "learning",
         "scholarship"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 2,
+        "word": "学科",
+        "reading": "がっか"
+      }
     },
     {
       "character": "術",
@@ -17885,7 +32106,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "study subject",
         "course of study"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 2,
+        "word": "学科",
+        "reading": "がっか"
+      }
     },
     {
       "character": "楽",
@@ -17899,7 +32127,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "musical instrument"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 3,
+        "word": "楽器",
+        "reading": "がっき"
+      }
     },
     {
       "character": "器",
@@ -17913,7 +32148,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "musical instrument"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 3,
+        "word": "楽器",
+        "reading": "がっき"
+      }
     },
     {
       "character": "級",
@@ -17927,7 +32169,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "grade in school"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 4,
+        "word": "学級",
+        "reading": "がっきゅう"
+      }
     },
     {
       "character": "械",
@@ -17971,7 +32220,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "locomotive",
         "engine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 8,
+        "word": "下車",
+        "reading": "げしゃ"
+      }
     },
     {
       "character": "饉",
@@ -17985,7 +32241,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "famine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 7,
+        "word": "飢饉",
+        "reading": "ききん"
+      }
     },
     {
       "character": "期",
@@ -18000,7 +32263,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "term",
         "period"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 20,
+        "qIndex": 9,
+        "word": "期限",
+        "reading": "きげん"
+      }
     },
     {
       "character": "記",
@@ -18046,7 +32316,14 @@ window.JLPT_KANJI_DATA = {
         "to mince",
         "to carve",
         "to engrave"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 0,
+        "word": "刻む",
+        "reading": "きざむ"
+      }
     },
     {
       "character": "起",
@@ -18061,7 +32338,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "rising",
         "getting out of bed"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 1,
+        "word": "起床",
+        "reading": "きしょう"
+      }
     },
     {
       "character": "床",
@@ -18076,7 +32360,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "rising",
         "getting out of bed"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 1,
+        "word": "起床",
+        "reading": "きしょう"
+      }
     },
     {
       "character": "基",
@@ -18092,7 +32383,14 @@ window.JLPT_KANJI_DATA = {
         "standard",
         "basis",
         "criteria"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 2,
+        "word": "基準",
+        "reading": "きじゅん"
+      }
     },
     {
       "character": "準",
@@ -18108,7 +32406,14 @@ window.JLPT_KANJI_DATA = {
         "standard",
         "basis",
         "criteria"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 2,
+        "word": "基準",
+        "reading": "きじゅん"
+      }
     },
     {
       "character": "規",
@@ -18124,7 +32429,14 @@ window.JLPT_KANJI_DATA = {
         "standard",
         "basis",
         "criteria"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 1,
+        "word": "規律",
+        "reading": "きりつ"
+      }
     },
     {
       "character": "礎",
@@ -18139,7 +32451,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "foundation",
         "basis"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 4,
+        "word": "基礎",
+        "reading": "きそ"
+      }
     },
     {
       "character": "盤",
@@ -18154,7 +32473,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "foundation",
         "basis"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 7,
+        "word": "基盤",
+        "reading": "きばん"
+      }
     },
     {
       "character": "客",
@@ -18168,7 +32494,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "guest seating"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 8,
+        "word": "客席",
+        "reading": "きゃくせき"
+      }
     },
     {
       "character": "席",
@@ -18182,7 +32515,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "guest seating"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 21,
+        "qIndex": 8,
+        "word": "客席",
+        "reading": "きゃくせき"
+      }
     },
     {
       "character": "休",
@@ -18198,7 +32538,14 @@ window.JLPT_KANJI_DATA = {
         "closed (e.g. store)",
         "business suspended",
         "shutdown"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 0,
+        "word": "休業",
+        "reading": "きゅうぎょう"
+      }
     },
     {
       "character": "業",
@@ -18214,7 +32561,14 @@ window.JLPT_KANJI_DATA = {
         "closed (e.g. store)",
         "business suspended",
         "shutdown"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 0,
+        "word": "休業",
+        "reading": "きゅうぎょう"
+      }
     },
     {
       "character": "講",
@@ -18228,7 +32582,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "lecture cancelled"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 1,
+        "word": "休講",
+        "reading": "きゅうこう"
+      }
     },
     {
       "character": "息",
@@ -18244,7 +32605,14 @@ window.JLPT_KANJI_DATA = {
         "rest",
         "relief",
         "relaxation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 2,
+        "word": "休息",
+        "reading": "きゅうそく"
+      }
     },
     {
       "character": "給",
@@ -18260,7 +32628,14 @@ window.JLPT_KANJI_DATA = {
         "allowance",
         "grant",
         "supply"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 3,
+        "word": "給与",
+        "reading": "きゅうよ"
+      }
     },
     {
       "character": "与",
@@ -18276,7 +32651,14 @@ window.JLPT_KANJI_DATA = {
         "allowance",
         "grant",
         "supply"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 3,
+        "word": "給与",
+        "reading": "きゅうよ"
+      }
     },
     {
       "character": "養",
@@ -18292,7 +32674,14 @@ window.JLPT_KANJI_DATA = {
         "rest",
         "break",
         "recreation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 4,
+        "word": "休養",
+        "reading": "きゅうよう"
+      }
     },
     {
       "character": "強",
@@ -18308,7 +32697,14 @@ window.JLPT_KANJI_DATA = {
         "strengthen",
         "intensify",
         "reinforce"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 5,
+        "word": "強化",
+        "reading": "きょうか"
+      }
     },
     {
       "character": "境",
@@ -18322,7 +32718,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "boundary"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 6,
+        "word": "境界",
+        "reading": "きょうかい"
+      }
     },
     {
       "character": "界",
@@ -18336,7 +32739,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "boundary"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 6,
+        "word": "境界",
+        "reading": "きょうかい"
+      }
     },
     {
       "character": "恐",
@@ -18352,7 +32762,14 @@ window.JLPT_KANJI_DATA = {
         "shame",
         "very kind of you",
         "sorry to trouble"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 7,
+        "word": "恐縮",
+        "reading": "きょうしゅく"
+      }
     },
     {
       "character": "曲",
@@ -18366,7 +32783,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "curve"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 22,
+        "qIndex": 9,
+        "word": "曲線",
+        "reading": "きょくせん"
+      }
     },
     {
       "character": "清",
@@ -18382,7 +32806,14 @@ window.JLPT_KANJI_DATA = {
         "clear",
         "pure",
         "noble"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 0,
+        "word": "清い",
+        "reading": "きよい"
+      }
     },
     {
       "character": "律",
@@ -18398,7 +32829,14 @@ window.JLPT_KANJI_DATA = {
         "order",
         "rules",
         "law"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 1,
+        "word": "規律",
+        "reading": "きりつ"
+      }
     },
     {
       "character": "斬",
@@ -18427,7 +32865,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "goldfish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 3,
+        "word": "金魚",
+        "reading": "きんぎょ"
+      }
     },
     {
       "character": "魚",
@@ -18441,7 +32886,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "goldfish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 3,
+        "word": "金魚",
+        "reading": "きんぎょ"
+      }
     },
     {
       "character": "式",
@@ -18457,7 +32909,14 @@ window.JLPT_KANJI_DATA = {
         "ceremony",
         "rite",
         "ritual"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 4,
+        "word": "儀式",
+        "reading": "ぎしき"
+      }
     },
     {
       "character": "事",
@@ -18472,7 +32931,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "event",
         "function"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 5,
+        "word": "行事",
+        "reading": "ぎょうじ"
+      }
     },
     {
       "character": "列",
@@ -18502,7 +32968,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "fishing (industry)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 6,
+        "word": "漁業",
+        "reading": "ぎょぎょう"
+      }
     },
     {
       "character": "区",
@@ -18518,7 +32991,14 @@ window.JLPT_KANJI_DATA = {
         "limits",
         "boundary",
         "domain"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 2,
+        "word": "区分",
+        "reading": "くぶん"
+      }
     },
     {
       "character": "域",
@@ -18548,7 +33028,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nail"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 23,
+        "qIndex": 9,
+        "word": "釘",
+        "reading": "くぎ"
+      }
     },
     {
       "character": "櫛",
@@ -18562,7 +33049,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "comb"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 0,
+        "word": "櫛",
+        "reading": "くし"
+      }
     },
     {
       "character": "苦",
@@ -18577,7 +33071,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "pain",
         "trouble"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 1,
+        "word": "苦心",
+        "reading": "くしん"
+      }
     },
     {
       "character": "心",
@@ -18592,7 +33093,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "pain",
         "trouble"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 1,
+        "word": "苦心",
+        "reading": "くしん"
+      }
     },
     {
       "character": "情",
@@ -18608,7 +33116,14 @@ window.JLPT_KANJI_DATA = {
         "complaint",
         "troubles",
         "objection"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 2,
+        "word": "苦情",
+        "reading": "くじょう"
+      }
     },
     {
       "character": "薬",
@@ -18622,7 +33137,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "ring finger"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 3,
+        "word": "薬指",
+        "reading": "くすりゆび"
+      }
     },
     {
       "character": "崩",
@@ -18638,7 +33160,14 @@ window.JLPT_KANJI_DATA = {
         "to destroy",
         "to pull down",
         "to make change (money)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 5,
+        "word": "崩す",
+        "reading": "くずす"
+      }
     },
     {
       "character": "砕",
@@ -18653,7 +33182,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to break",
         "to smash"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 6,
+        "word": "砕く",
+        "reading": "くだく"
+      }
     },
     {
       "character": "唇",
@@ -18667,7 +33203,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "lips"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 8,
+        "word": "唇",
+        "reading": "くちびる"
+      }
     },
     {
       "character": "紅",
@@ -18695,7 +33238,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "punctuation marks"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 9,
+        "word": "句読点",
+        "reading": "くとうてん"
+      }
     },
     {
       "character": "読",
@@ -18709,7 +33259,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "punctuation marks"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 9,
+        "word": "句読点",
+        "reading": "くとうてん"
+      }
     },
     {
       "character": "点",
@@ -18723,7 +33280,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "punctuation marks"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 24,
+        "qIndex": 9,
+        "word": "句読点",
+        "reading": "くとうてん"
+      }
     },
     {
       "character": "配",
@@ -18738,7 +33302,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to distribute",
         "to deliver"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 0,
+        "word": "配る",
+        "reading": "くばる"
+      }
     },
     {
       "character": "工",
@@ -18753,7 +33324,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "labourer",
         "worker"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 1,
+        "word": "工夫",
+        "reading": "くふう"
+      }
     },
     {
       "character": "夫",
@@ -18768,7 +33346,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "labourer",
         "worker"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 1,
+        "word": "工夫",
+        "reading": "くふう"
+      }
     },
     {
       "character": "組",
@@ -18782,7 +33367,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "combination"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 3,
+        "word": "組み立てる",
+        "reading": "くみたてる"
+      }
     },
     {
       "character": "立",
@@ -18798,7 +33390,14 @@ window.JLPT_KANJI_DATA = {
         "to assemble",
         "to set up",
         "to construct"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 3,
+        "word": "組み立てる",
+        "reading": "くみたてる"
+      }
     },
     {
       "character": "汲",
@@ -18844,7 +33443,14 @@ window.JLPT_KANJI_DATA = {
         "regrettable",
         "mortifying",
         "vexing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 4,
+        "word": "悔しい",
+        "reading": "くやしい"
+      }
     },
     {
       "character": "偶",
@@ -18858,7 +33464,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "even number"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 5,
+        "word": "偶数",
+        "reading": "ぐうすう"
+      }
     },
     {
       "character": "郡",
@@ -18889,7 +33502,14 @@ window.JLPT_KANJI_DATA = {
         "practice",
         "training",
         "study"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 6,
+        "word": "稽古",
+        "reading": "けいこ"
+      }
     },
     {
       "character": "古",
@@ -18905,7 +33525,14 @@ window.JLPT_KANJI_DATA = {
         "practice",
         "training",
         "study"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 6,
+        "word": "稽古",
+        "reading": "けいこ"
+      }
     },
     {
       "character": "蛍",
@@ -18920,7 +33547,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "fluorescent lamp",
         "person who is slow to react"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 7,
+        "word": "蛍光灯",
+        "reading": "けいこうとう"
+      }
     },
     {
       "character": "光",
@@ -18935,7 +33569,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "fluorescent lamp",
         "person who is slow to react"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 7,
+        "word": "蛍光灯",
+        "reading": "けいこうとう"
+      }
     },
     {
       "character": "灯",
@@ -18950,7 +33591,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "fluorescent lamp",
         "person who is slow to react"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 7,
+        "word": "蛍光灯",
+        "reading": "けいこうとう"
+      }
     },
     {
       "character": "語",
@@ -18965,7 +33613,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "honorific",
         "term of respect"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 8,
+        "word": "敬語",
+        "reading": "けいご"
+      }
     },
     {
       "character": "形",
@@ -18981,7 +33636,14 @@ window.JLPT_KANJI_DATA = {
         "form",
         "formality",
         "format"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 25,
+        "qIndex": 9,
+        "word": "形式",
+        "reading": "けいしき"
+      }
     },
     {
       "character": "継",
@@ -18995,7 +33657,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "continuation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 0,
+        "word": "継続",
+        "reading": "けいぞく"
+      }
     },
     {
       "character": "続",
@@ -19009,7 +33678,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "continuation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 0,
+        "word": "継続",
+        "reading": "けいぞく"
+      }
     },
     {
       "character": "毛",
@@ -19023,7 +33699,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "knitting wool"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 1,
+        "word": "毛糸",
+        "reading": "けいと"
+      }
     },
     {
       "character": "糸",
@@ -19037,7 +33720,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "knitting wool"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 1,
+        "word": "毛糸",
+        "reading": "けいと"
+      }
     },
     {
       "character": "系",
@@ -19083,7 +33773,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "longitude"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 2,
+        "word": "経度",
+        "reading": "けいど"
+      }
     },
     {
       "character": "競",
@@ -19097,7 +33794,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "horse racing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 3,
+        "word": "競馬",
+        "reading": "けいば"
+      }
     },
     {
       "character": "馬",
@@ -19111,7 +33815,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "horse racing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 3,
+        "word": "競馬",
+        "reading": "けいば"
+      }
     },
     {
       "character": "警",
@@ -19127,7 +33838,14 @@ window.JLPT_KANJI_DATA = {
         "defense",
         "guard",
         "policing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 4,
+        "word": "警備",
+        "reading": "けいび"
+      }
     },
     {
       "character": "備",
@@ -19143,7 +33861,14 @@ window.JLPT_KANJI_DATA = {
         "defense",
         "guard",
         "policing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 4,
+        "word": "警備",
+        "reading": "けいび"
+      }
     },
     {
       "character": "容",
@@ -19157,7 +33882,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "true adjective"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 5,
+        "word": "形容詞",
+        "reading": "けいようし"
+      }
     },
     {
       "character": "詞",
@@ -19171,7 +33903,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "true adjective"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 5,
+        "word": "形容詞",
+        "reading": "けいようし"
+      }
     },
     {
       "character": "動",
@@ -19202,7 +33941,14 @@ window.JLPT_KANJI_DATA = {
         "fur",
         "skin",
         "pelt"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 6,
+        "word": "毛皮",
+        "reading": "けがわ"
+      }
     },
     {
       "character": "削",
@@ -19233,7 +33979,14 @@ window.JLPT_KANJI_DATA = {
         "column",
         "beam",
         "digit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 7,
+        "word": "桁",
+        "reading": "けた"
+      }
     },
     {
       "character": "傑",
@@ -19249,7 +34002,14 @@ window.JLPT_KANJI_DATA = {
         "masterpiece",
         "best work",
         "boner"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 8,
+        "word": "傑作",
+        "reading": "けっさく"
+      }
     },
     {
       "character": "作",
@@ -19265,7 +34025,14 @@ window.JLPT_KANJI_DATA = {
         "masterpiece",
         "best work",
         "boner"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 8,
+        "word": "傑作",
+        "reading": "けっさく"
+      }
     },
     {
       "character": "血",
@@ -19279,7 +34046,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "blood pressure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 26,
+        "qIndex": 9,
+        "word": "血圧",
+        "reading": "けつあつ"
+      }
     },
     {
       "character": "蹴",
@@ -19293,7 +34067,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to kick"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 3,
+        "word": "蹴る",
+        "reading": "ける"
+      }
     },
     {
       "character": "険",
@@ -19324,7 +34105,14 @@ window.JLPT_KANJI_DATA = {
         "inspection",
         "study by observation",
         "field trip"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 4,
+        "word": "見学",
+        "reading": "けんがく"
+      }
     },
     {
       "character": "謙",
@@ -19339,7 +34127,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "modesty",
         "humility"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 5,
+        "word": "謙虚",
+        "reading": "けんきょ"
+      }
     },
     {
       "character": "虚",
@@ -19354,7 +34149,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "modesty",
         "humility"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 5,
+        "word": "謙虚",
+        "reading": "けんきょ"
+      }
     },
     {
       "character": "研",
@@ -19398,7 +34200,14 @@ window.JLPT_KANJI_DATA = {
         "humble",
         "humility",
         "modesty"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 6,
+        "word": "謙遜",
+        "reading": "けんそん"
+      }
     },
     {
       "character": "県",
@@ -19426,7 +34235,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "microscope"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 7,
+        "word": "顕微鏡",
+        "reading": "けんびきょう"
+      }
     },
     {
       "character": "微",
@@ -19440,7 +34256,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "microscope"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 7,
+        "word": "顕微鏡",
+        "reading": "けんびきょう"
+      }
     },
     {
       "character": "鏡",
@@ -19454,7 +34277,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "microscope"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 7,
+        "word": "顕微鏡",
+        "reading": "けんびきょう"
+      }
     },
     {
       "character": "懸",
@@ -19541,7 +34371,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "geta (Japanese footwear)",
         "wooden clogs"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 0,
+        "word": "下駄",
+        "reading": "げた"
+      }
     },
     {
       "character": "月",
@@ -19555,7 +34392,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "monthly salary"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 1,
+        "word": "月給",
+        "reading": "げっきゅう"
+      }
     },
     {
       "character": "末",
@@ -19569,7 +34413,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "end of the month"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 2,
+        "word": "月末",
+        "reading": "げつまつ"
+      }
     },
     {
       "character": "品",
@@ -19585,7 +34436,14 @@ window.JLPT_KANJI_DATA = {
         "vulgarity",
         "meanness",
         "indecency"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 3,
+        "word": "下品",
+        "reading": "げひん"
+      }
     },
     {
       "character": "現",
@@ -19614,7 +34472,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "manuscript",
         "copy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 4,
+        "word": "原稿",
+        "reading": "げんこう"
+      }
     },
     {
       "character": "稿",
@@ -19629,7 +34494,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "manuscript",
         "copy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 4,
+        "word": "原稿",
+        "reading": "げんこう"
+      }
     },
     {
       "character": "産",
@@ -19644,7 +34516,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "place of origin",
         "habitat"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 5,
+        "word": "原産",
+        "reading": "げんさん"
+      }
     },
     {
       "character": "始",
@@ -19675,7 +34554,14 @@ window.JLPT_KANJI_DATA = {
         "strict",
         "rigour",
         "severe"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 6,
+        "word": "厳重",
+        "reading": "げんじゅう"
+      }
     },
     {
       "character": "理",
@@ -19691,7 +34577,14 @@ window.JLPT_KANJI_DATA = {
         "principle",
         "theory",
         "fundamental truth"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 8,
+        "word": "原理",
+        "reading": "げんり"
+      }
     },
     {
       "character": "料",
@@ -19705,7 +34598,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "raw materials"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 28,
+        "qIndex": 9,
+        "word": "原料",
+        "reading": "げんりょう"
+      }
     },
     {
       "character": "恋",
@@ -19721,7 +34621,14 @@ window.JLPT_KANJI_DATA = {
         "(1) dear",
         "beloved",
         "darling"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 0,
+        "word": "恋しい",
+        "reading": "こいしい"
+      }
     },
     {
       "character": "請",
@@ -19736,7 +34643,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to ask",
         "to request"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 1,
+        "word": "請う",
+        "reading": "こう"
+      }
     },
     {
       "character": "員",
@@ -19750,7 +34664,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "factory worker"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 2,
+        "word": "工員",
+        "reading": "こういん"
+      }
     },
     {
       "character": "公",
@@ -19765,7 +34686,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "public nuisance",
         "pollution"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 3,
+        "word": "公害",
+        "reading": "こうがい"
+      }
     },
     {
       "character": "害",
@@ -19780,7 +34708,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "public nuisance",
         "pollution"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 3,
+        "word": "公害",
+        "reading": "こうがい"
+      }
     },
     {
       "character": "高",
@@ -19795,7 +34730,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "high class",
         "high grade"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 4,
+        "word": "高級",
+        "reading": "こうきゅう"
+      }
     },
     {
       "character": "共",
@@ -19811,7 +34753,14 @@ window.JLPT_KANJI_DATA = {
         "public",
         "community",
         "public service"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 5,
+        "word": "公共",
+        "reading": "こうきょう"
+      }
     },
     {
       "character": "孝",
@@ -19825,7 +34774,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "filial piety"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 6,
+        "word": "孝行",
+        "reading": "こうこう"
+      }
     },
     {
       "character": "交",
@@ -19839,7 +34795,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "cross"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 7,
+        "word": "交差",
+        "reading": "こうさ"
+      }
     },
     {
       "character": "差",
@@ -19853,7 +34816,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "cross"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 7,
+        "word": "交差",
+        "reading": "こうさ"
+      }
     },
     {
       "character": "師",
@@ -19867,7 +34837,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "lecturer"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 29,
+        "qIndex": 8,
+        "word": "講師",
+        "reading": "こうし"
+      }
     },
     {
       "character": "校",
@@ -19881,7 +34858,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "school building"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 0,
+        "word": "校舎",
+        "reading": "こうしゃ"
+      }
     },
     {
       "character": "舎",
@@ -19895,7 +34879,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "school building"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 0,
+        "word": "校舎",
+        "reading": "こうしゃ"
+      }
     },
     {
       "character": "衆",
@@ -19909,7 +34900,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "the public"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 1,
+        "word": "公衆",
+        "reading": "こうしゅう"
+      }
     },
     {
       "character": "香",
@@ -19923,7 +34921,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "perfume"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 4,
+        "word": "香水",
+        "reading": "こうすい"
+      }
     },
     {
       "character": "功",
@@ -19939,7 +34944,14 @@ window.JLPT_KANJI_DATA = {
         "achievements",
         "merit",
         "meritorious service"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 6,
+        "word": "功績",
+        "reading": "こうせき"
+      }
     },
     {
       "character": "績",
@@ -19955,7 +34967,14 @@ window.JLPT_KANJI_DATA = {
         "achievements",
         "merit",
         "meritorious service"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 6,
+        "word": "功績",
+        "reading": "こうせき"
+      }
     },
     {
       "character": "層",
@@ -19969,7 +34988,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "upper"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 30,
+        "qIndex": 8,
+        "word": "高層",
+        "reading": "こうそう"
+      }
     },
     {
       "character": "耕",
@@ -29394,7 +44420,14 @@ window.JLPT_KANJI_DATA = {
         "together",
         "mutually",
         "fellow"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 0,
+        "word": "相変わらず",
+        "reading": "あいかわらず"
+      }
     },
     {
       "character": "変",
@@ -29410,7 +44443,14 @@ window.JLPT_KANJI_DATA = {
         "as ever",
         "as usual",
         "the same"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 0,
+        "word": "相変わらず",
+        "reading": "あいかわらず"
+      }
     },
     {
       "character": "愛",
@@ -29426,7 +44466,14 @@ window.JLPT_KANJI_DATA = {
         "civility",
         "courtesy",
         "compliments"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 1,
+        "word": "愛想",
+        "reading": "あいそ"
+      }
     },
     {
       "character": "想",
@@ -29442,7 +44489,14 @@ window.JLPT_KANJI_DATA = {
         "civility",
         "courtesy",
         "compliments"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 1,
+        "word": "愛想",
+        "reading": "あいそ"
+      }
     },
     {
       "character": "対",
@@ -29472,7 +44526,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "relation(ship)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 2,
+        "word": "間柄",
+        "reading": "あいだがら"
+      }
     },
     {
       "character": "柄",
@@ -29486,7 +44547,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "relation(ship)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 2,
+        "word": "間柄",
+        "reading": "あいだがら"
+      }
     },
     {
       "character": "憎",
@@ -29514,7 +44582,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "interval"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 3,
+        "word": "合間",
+        "reading": "あいま"
+      }
     },
     {
       "character": "曖",
@@ -29529,7 +44604,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "vague",
         "ambiguous"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 4,
+        "word": "曖昧",
+        "reading": "あいまい"
+      }
     },
     {
       "character": "昧",
@@ -29544,7 +44626,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "vague",
         "ambiguous"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 4,
+        "word": "曖昧",
+        "reading": "あいまい"
+      }
     },
     {
       "character": "敢",
@@ -29559,7 +44648,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "dare (to do)",
         "challenge (to do)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 5,
+        "word": "敢えて",
+        "reading": "あえて"
+      }
     },
     {
       "character": "仰",
@@ -29575,7 +44671,14 @@ window.JLPT_KANJI_DATA = {
         "to look up (to)",
         "to respect",
         "to depend on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 6,
+        "word": "仰ぐ",
+        "reading": "あおぐ"
+      }
     },
     {
       "character": "亜",
@@ -29634,7 +44737,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "copper"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 7,
+        "word": "銅",
+        "reading": "あかがね"
+      }
     },
     {
       "character": "証",
@@ -29649,7 +44759,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "proof",
         "evidence"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 8,
+        "word": "証",
+        "reading": "あかし"
+      }
     },
     {
       "character": "赤",
@@ -29664,7 +44781,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "deficit",
         "go in the red"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 9,
+        "word": "赤字",
+        "reading": "あかじ"
+      }
     },
     {
       "character": "字",
@@ -29679,7 +44803,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "deficit",
         "go in the red"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 9,
+        "word": "赤字",
+        "reading": "あかじ"
+      }
     },
     {
       "character": "明",
@@ -29695,7 +44826,14 @@ window.JLPT_KANJI_DATA = {
         "to pass",
         "spend",
         "to reveal"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 0,
+        "word": "明かす",
+        "reading": "あかす"
+      }
     },
     {
       "character": "白",
@@ -29711,7 +44849,14 @@ window.JLPT_KANJI_DATA = {
         "obvious",
         "overt",
         "plainly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 2,
+        "word": "明白",
+        "reading": "あからさま"
+      }
     },
     {
       "character": "上",
@@ -29727,7 +44872,14 @@ window.JLPT_KANJI_DATA = {
         "1.  slope",
         "advance income",
         "crop yield"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 3,
+        "word": "上がる",
+        "reading": "あがる"
+      }
     },
     {
       "character": "商",
@@ -29743,7 +44895,14 @@ window.JLPT_KANJI_DATA = {
         "trader",
         "shopkeeper",
         "merchant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 4,
+        "word": "商人",
+        "reading": "あきうど"
+      }
     },
     {
       "character": "人",
@@ -29759,7 +44918,14 @@ window.JLPT_KANJI_DATA = {
         "trader",
         "shopkeeper",
         "merchant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 4,
+        "word": "商人",
+        "reading": "あきうど"
+      }
     },
     {
       "character": "空",
@@ -29774,7 +44940,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "vacancy",
         "room for rent or lease"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 0,
+        "word": "大空",
+        "reading": "おおぞら"
+      }
     },
     {
       "character": "諦",
@@ -29790,7 +44963,14 @@ window.JLPT_KANJI_DATA = {
         "resignation",
         "acceptance",
         "consolation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 5,
+        "word": "諦め",
+        "reading": "あきらめ"
+      }
     },
     {
       "character": "呆",
@@ -29805,7 +44985,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be amazed",
         "to be shocked"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 6,
+        "word": "呆れる",
+        "reading": "あきれる"
+      }
     },
     {
       "character": "悪",
@@ -29820,7 +45007,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "evil",
         "wickedness"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 7,
+        "word": "悪",
+        "reading": "あく"
+      }
     },
     {
       "character": "灰",
@@ -29848,7 +45042,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "unlucky day"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 0,
+        "word": "明後日",
+        "reading": "あさって"
+      }
     },
     {
       "character": "憧",
@@ -29864,7 +45065,14 @@ window.JLPT_KANJI_DATA = {
         "yearning",
         "longing",
         "aspiration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 8,
+        "word": "憧れ",
+        "reading": "あこがれ"
+      }
     },
     {
       "character": "顎",
@@ -29878,7 +45086,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "chin"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 9,
+        "word": "顎",
+        "reading": "あご"
+      }
     },
     {
       "character": "麻",
@@ -29908,7 +45123,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "day after tomorrow"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 0,
+        "word": "明後日",
+        "reading": "あさって"
+      }
     },
     {
       "character": "朝",
@@ -29923,7 +45145,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "oversleeping",
         "late riser"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 1,
+        "word": "朝寝坊",
+        "reading": "あさねぼう"
+      }
     },
     {
       "character": "寝",
@@ -29938,7 +45167,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "oversleeping",
         "late riser"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 1,
+        "word": "朝寝坊",
+        "reading": "あさねぼう"
+      }
     },
     {
       "character": "坊",
@@ -29953,7 +45189,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "oversleeping",
         "late riser"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 1,
+        "word": "朝寝坊",
+        "reading": "あさねぼう"
+      }
     },
     {
       "character": "浅",
@@ -29983,7 +45226,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to deceive"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 3,
+        "word": "欺く",
+        "reading": "あざむく"
+      }
     },
     {
       "character": "鮮",
@@ -29999,7 +45249,14 @@ window.JLPT_KANJI_DATA = {
         "vivid",
         "clear",
         "brilliant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 4,
+        "word": "鮮やか",
+        "reading": "あざやか"
+      }
     },
     {
       "character": "笑",
@@ -30014,7 +45271,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to sneer at",
         "to ridicule"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 5,
+        "word": "あざ笑う",
+        "reading": "あざわらう"
+      }
     },
     {
       "character": "嘲",
@@ -30044,7 +45308,14 @@ window.JLPT_KANJI_DATA = {
         "flavour",
         "meaning",
         "significance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 6,
+        "word": "味わい",
+        "reading": "あじわい"
+      }
     },
     {
       "character": "東",
@@ -30059,7 +45330,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "east",
         "Eastern Japan"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 7,
+        "word": "東",
+        "reading": "あずま"
+      }
     },
     {
       "character": "焦",
@@ -30074,7 +45352,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be in a hurry",
         "to be impatient"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 8,
+        "word": "焦る",
+        "reading": "あせる"
+      }
     },
     {
       "character": "彼",
@@ -30090,7 +45375,14 @@ window.JLPT_KANJI_DATA = {
         "1.  (uk) there",
         "over there",
         "that place"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 3,
+        "word": "彼方",
+        "reading": "あちら"
+      }
     },
     {
       "character": "処",
@@ -30122,7 +45414,14 @@ window.JLPT_KANJI_DATA = {
         "value",
         "price",
         "cost"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 3,
+        "qIndex": 9,
+        "word": "値する",
+        "reading": "あたいする"
+      }
     },
     {
       "character": "私",
@@ -30136,7 +45435,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "I (fem)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 0,
+        "word": "私",
+        "reading": "あたし"
+      }
     },
     {
       "character": "当",
@@ -30152,7 +45458,14 @@ window.JLPT_KANJI_DATA = {
         "hit",
         "success",
         "reaching the mark"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 1,
+        "word": "当たり前",
+        "reading": "あたりまえ"
+      }
     },
     {
       "character": "前",
@@ -30168,7 +45481,14 @@ window.JLPT_KANJI_DATA = {
         "usual",
         "common",
         "ordinary"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 1,
+        "word": "当たり前",
+        "reading": "あたりまえ"
+      }
     },
     {
       "character": "他",
@@ -30184,7 +45504,14 @@ window.JLPT_KANJI_DATA = {
         "another person",
         "unrelated person",
         "outsider"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 2,
+        "word": "他人",
+        "reading": "あだびと"
+      }
     },
     {
       "character": "方",
@@ -30198,7 +45525,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "here and there"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 3,
+        "word": "彼方",
+        "reading": "あちら"
+      }
     },
     {
       "character": "此",
@@ -30228,7 +45562,14 @@ window.JLPT_KANJI_DATA = {
         "deterioration",
         "growing worse",
         "aggravation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 4,
+        "word": "悪化",
+        "reading": "あっか"
+      }
     },
     {
       "character": "気",
@@ -30243,7 +45584,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "not enough",
         "too quick (short  long  etc.)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 7,
+        "word": "一気",
+        "reading": "いっき"
+      }
     },
     {
       "character": "口",
@@ -30259,7 +45607,14 @@ window.JLPT_KANJI_DATA = {
         "abuse",
         "insult",
         "slander"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 5,
+        "word": "悪口",
+        "reading": "あっこう"
+      }
     },
     {
       "character": "斡",
@@ -30301,7 +45656,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "overwhelm, overpower"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 6,
+        "word": "圧迫",
+        "reading": "あっぱく"
+      }
     },
     {
       "character": "倒",
@@ -30331,7 +45693,14 @@ window.JLPT_KANJI_DATA = {
         "pressure",
         "coercion",
         "oppression"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 6,
+        "word": "圧迫",
+        "reading": "あっぱく"
+      }
     },
     {
       "character": "扱",
@@ -30346,7 +45715,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "treatment",
         "service"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 7,
+        "word": "扱い",
+        "reading": "あつかい"
+      }
     },
     {
       "character": "集",
@@ -30362,7 +45738,14 @@ window.JLPT_KANJI_DATA = {
         "to gather",
         "to collect",
         "to assemble"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 8,
+        "word": "集まる",
+        "reading": "あつまる"
+      }
     },
     {
       "character": "誂",
@@ -30392,7 +45775,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "stress",
         "pressure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 4,
+        "qIndex": 9,
+        "word": "圧力",
+        "reading": "あつりょく"
+      }
     },
     {
       "character": "宛",
@@ -30406,7 +45796,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "addressed to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 0,
+        "word": "宛",
+        "reading": "あて"
+      }
     },
     {
       "character": "跡",
@@ -30421,7 +45818,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "heir",
         "successor"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 0,
+        "word": "遺跡",
+        "reading": "いせき"
+      }
     },
     {
       "character": "継",
@@ -30436,7 +45840,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "heir",
         "successor"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 7,
+        "word": "受け継ぐ",
+        "reading": "うけつぐ"
+      }
     },
     {
       "character": "回",
@@ -30451,7 +45862,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "putting off",
         "postponing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 2,
+        "word": "後回し",
+        "reading": "あとまわし"
+      }
     },
     {
       "character": "貴",
@@ -30466,7 +45884,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "you",
         "lady"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 3,
+        "word": "貴女",
+        "reading": "あなた"
+      }
     },
     {
       "character": "女",
@@ -30481,7 +45906,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "you",
         "lady"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 3,
+        "word": "貴女",
+        "reading": "あなた"
+      }
     },
     {
       "character": "溢",
@@ -30511,7 +45943,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "oil painting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 4,
+        "word": "油絵",
+        "reading": "あぶらえ"
+      }
     },
     {
       "character": "絵",
@@ -30525,7 +45964,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "oil painting"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 4,
+        "word": "油絵",
+        "reading": "あぶらえ"
+      }
     },
     {
       "character": "炙",
@@ -30554,7 +46000,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to behave like a spoiled child",
         "to fawn on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 5,
+        "word": "甘える",
+        "reading": "あまえる"
+      }
     },
     {
       "character": "雨",
@@ -30568,7 +46021,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "rain gear"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 7,
+        "word": "雨具",
+        "reading": "あまぐ"
+      }
     },
     {
       "character": "具",
@@ -30582,7 +46042,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "rain gear"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 7,
+        "word": "雨具",
+        "reading": "あまぐ"
+      }
     },
     {
       "character": "天",
@@ -30597,7 +46064,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "heavenly",
         "imperial"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 9,
+        "word": "天地",
+        "reading": "あめつち"
+      }
     },
     {
       "character": "網",
@@ -30612,7 +46086,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "net",
         "network"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 8,
+        "word": "網",
+        "reading": "あみ"
+      }
     },
     {
       "character": "地",
@@ -30628,7 +46109,14 @@ window.JLPT_KANJI_DATA = {
         "heaven and earth",
         "the universe",
         "nature"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 9,
+        "word": "天地",
+        "reading": "あめつち"
+      }
     },
     {
       "character": "操",
@@ -30644,7 +46132,14 @@ window.JLPT_KANJI_DATA = {
         "to manipulate",
         "to operate",
         "to pull strings"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 0,
+        "word": "操る",
+        "reading": "あやつる"
+      }
     },
     {
       "character": "危",
@@ -30660,7 +46155,14 @@ window.JLPT_KANJI_DATA = {
         "to fear",
         "to have misgivings",
         "to be doubtful"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 1,
+        "word": "危ぶむ",
+        "reading": "あやぶむ"
+      }
     },
     {
       "character": "過",
@@ -30676,7 +46178,14 @@ window.JLPT_KANJI_DATA = {
         "fault",
         "error",
         "indiscretion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 2,
+        "word": "過ち",
+        "reading": "あやまち"
+      }
     },
     {
       "character": "誤",
@@ -30690,7 +46199,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to make a mistake"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 3,
+        "word": "誤る",
+        "reading": "あやまる"
+      }
     },
     {
       "character": "歩",
@@ -30704,7 +46220,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "walking"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 4,
+        "word": "歩み",
+        "reading": "あゆみ"
+      }
     },
     {
       "character": "予",
@@ -30736,7 +46259,14 @@ window.JLPT_KANJI_DATA = {
         "to lay waste",
         "to devastate",
         "to damage"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 6,
+        "word": "荒っぽい",
+        "reading": "あらっぽい"
+      }
     },
     {
       "character": "粗",
@@ -30782,7 +46312,14 @@ window.JLPT_KANJI_DATA = {
         "dispute",
         "strife",
         "quarrel"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 5,
+        "word": "争い",
+        "reading": "あらそい"
+      }
     },
     {
       "character": "改",
@@ -30796,7 +46333,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to be renewed"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 5,
+        "word": "改革",
+        "reading": "かいかく"
+      }
     },
     {
       "character": "凡",
@@ -30840,7 +46384,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "embodiment",
         "materialization"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 7,
+        "word": "現われ",
+        "reading": "あらわれ"
+      }
     },
     {
       "character": "有",
@@ -30854,7 +46405,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Thank you"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 8,
+        "word": "有難う",
+        "reading": "ありがとう"
+      }
     },
     {
       "character": "難",
@@ -30868,7 +46426,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Thank you"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 8,
+        "word": "有難う",
+        "reading": "ありがとう"
+      }
     },
     {
       "character": "様",
@@ -30882,7 +46447,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "state, condition"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 6,
+        "qIndex": 9,
+        "word": "有様",
+        "reading": "ありさま"
+      }
     },
     {
       "character": "或",
@@ -30913,7 +46485,14 @@ window.JLPT_KANJI_DATA = {
         "busy",
         "hurried",
         "confused"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 1,
+        "word": "慌ただしい",
+        "reading": "あわただしい"
+      }
     },
     {
       "character": "暗",
@@ -30927,7 +46506,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "assassination"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 2,
+        "word": "暗殺",
+        "reading": "あんさつ"
+      }
     },
     {
       "character": "殺",
@@ -30941,7 +46527,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "assassination"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 2,
+        "word": "暗殺",
+        "reading": "あんさつ"
+      }
     },
     {
       "character": "算",
@@ -30955,7 +46548,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "mental arithmetic"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 3,
+        "word": "暗算",
+        "reading": "あんざん"
+      }
     },
     {
       "character": "示",
@@ -30970,7 +46570,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "hint",
         "suggestion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 4,
+        "word": "暗示",
+        "reading": "あんじ"
+      }
     },
     {
       "character": "案",
@@ -30985,7 +46592,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be anxious",
         "to ponder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 6,
+        "word": "案の定",
+        "reading": "あんのじょう"
+      }
     },
     {
       "character": "安",
@@ -30999,7 +46613,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "rest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 5,
+        "word": "安静",
+        "reading": "あんせい"
+      }
     },
     {
       "character": "静",
@@ -31013,7 +46634,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "rest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 5,
+        "word": "安静",
+        "reading": "あんせい"
+      }
     },
     {
       "character": "定",
@@ -31028,7 +46656,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "sure enough",
         "as usual"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 6,
+        "word": "案の定",
+        "reading": "あんのじょう"
+      }
     },
     {
       "character": "余",
@@ -31044,7 +46679,14 @@ window.JLPT_KANJI_DATA = {
         "not very (this form only used as adverb)",
         "not much",
         "remainder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 7,
+        "word": "余り",
+        "reading": "あんまり"
+      }
     },
     {
       "character": "依",
@@ -31058,7 +46700,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "depending on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 1,
+        "word": "依然",
+        "reading": "いぜん"
+      }
     },
     {
       "character": "伊",
@@ -31102,7 +46751,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "good"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 5,
+        "word": "改良",
+        "reading": "かいりょう"
+      }
     },
     {
       "character": "否",
@@ -31118,7 +46774,14 @@ window.JLPT_KANJI_DATA = {
         "no",
         "nay",
         "yes"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 8,
+        "word": "否",
+        "reading": "いいえ"
+      }
     },
     {
       "character": "加",
@@ -31134,7 +46797,14 @@ window.JLPT_KANJI_DATA = {
         "moderate",
         "right",
         "random"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 9,
+        "word": "いい加減",
+        "reading": "いいかげん"
+      }
     },
     {
       "character": "減",
@@ -31150,7 +46820,14 @@ window.JLPT_KANJI_DATA = {
         "moderate",
         "right",
         "random"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 7,
+        "qIndex": 9,
+        "word": "いい加減",
+        "reading": "いいかげん"
+      }
     },
     {
       "character": "言",
@@ -31165,7 +46842,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "excuse",
         "explanation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 0,
+        "word": "言い訳",
+        "reading": "いいわけ"
+      }
     },
     {
       "character": "訳",
@@ -31180,7 +46864,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "excuse",
         "explanation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 0,
+        "word": "言い訳",
+        "reading": "いいわけ"
+      }
     },
     {
       "character": "家",
@@ -31195,7 +46886,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "running away from home",
         "leaving home"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 1,
+        "word": "家出",
+        "reading": "いえで"
+      }
     },
     {
       "character": "出",
@@ -31210,7 +46908,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "running away from home",
         "leaving home"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 1,
+        "word": "家出",
+        "reading": "いえで"
+      }
     },
     {
       "character": "主",
@@ -31224,7 +46929,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "landlord"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 2,
+        "word": "家主",
+        "reading": "いえぬし"
+      }
     },
     {
       "character": "如",
@@ -31239,7 +46951,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "how",
         "in what way"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 3,
+        "word": "如何",
+        "reading": "いかが"
+      }
     },
     {
       "character": "何",
@@ -31254,7 +46973,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "how",
         "in what way"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 3,
+        "word": "如何",
+        "reading": "いかが"
+      }
     },
     {
       "character": "生",
@@ -31270,7 +46996,14 @@ window.JLPT_KANJI_DATA = {
         "to revive",
         "to resuscitate",
         "to make use of"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 4,
+        "word": "生かす",
+        "reading": "いかす"
+      }
     },
     {
       "character": "雷",
@@ -31284,7 +47017,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "thunder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 5,
+        "word": "雷",
+        "reading": "いかずち"
+      }
     },
     {
       "character": "怒",
@@ -31299,7 +47039,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "anger",
         "hatred"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 6,
+        "word": "怒り",
+        "reading": "いかり"
+      }
     },
     {
       "character": "歪",
@@ -31315,7 +47062,14 @@ window.JLPT_KANJI_DATA = {
         "to warp",
         "to swerve",
         "to deflect"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 7,
+        "word": "歪む",
+        "reading": "いがむ"
+      }
     },
     {
       "character": "粋",
@@ -31401,7 +47155,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to be enthusiastic about"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 4,
+        "word": "意向",
+        "reading": "いこう"
+      }
     },
     {
       "character": "込",
@@ -31415,7 +47176,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to be enthusiastic about"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 6,
+        "word": "打ち込む",
+        "reading": "うちこむ"
+      }
     },
     {
       "character": "経",
@@ -31431,7 +47199,14 @@ window.JLPT_KANJI_DATA = {
         "1.  details",
         "whole story",
         "sequence of events"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 8,
+        "word": "経緯",
+        "reading": "いきさつ"
+      }
     },
     {
       "character": "緯",
@@ -31447,7 +47222,14 @@ window.JLPT_KANJI_DATA = {
         "1.  details",
         "whole story",
         "sequence of events"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 8,
+        "word": "経緯",
+        "reading": "いきさつ"
+      }
     },
     {
       "character": "行",
@@ -31463,7 +47245,14 @@ window.JLPT_KANJI_DATA = {
         "misunderstanding",
         "estrangement",
         "disagreement"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 9,
+        "word": "行き違い",
+        "reading": "いきちがい"
+      }
     },
     {
       "character": "違",
@@ -31479,7 +47268,14 @@ window.JLPT_KANJI_DATA = {
         "misunderstanding",
         "estrangement",
         "disagreement"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 8,
+        "qIndex": 9,
+        "word": "行き違い",
+        "reading": "いきちがい"
+      }
     },
     {
       "character": "成",
@@ -31493,7 +47289,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "suddenly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 2,
+        "word": "育成",
+        "reading": "いくせい"
+      }
     },
     {
       "character": "異",
@@ -31509,7 +47312,14 @@ window.JLPT_KANJI_DATA = {
         "objection",
         "dissent",
         "protest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 0,
+        "word": "異議",
+        "reading": "いぎ"
+      }
     },
     {
       "character": "議",
@@ -31525,7 +47335,14 @@ window.JLPT_KANJI_DATA = {
         "objection",
         "dissent",
         "protest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 0,
+        "word": "異議",
+        "reading": "いぎ"
+      }
     },
     {
       "character": "戦",
@@ -31541,7 +47358,14 @@ window.JLPT_KANJI_DATA = {
         "war",
         "battle",
         "campaign"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 1,
+        "word": "戦",
+        "reading": "いくさ"
+      }
     },
     {
       "character": "軍",
@@ -31573,7 +47397,14 @@ window.JLPT_KANJI_DATA = {
         "rearing",
         "training",
         "nurture"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 2,
+        "word": "育成",
+        "reading": "いくせい"
+      }
     },
     {
       "character": "幾",
@@ -31588,7 +47419,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "many",
         "numerous"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 3,
+        "word": "幾多",
+        "reading": "いくた"
+      }
     },
     {
       "character": "多",
@@ -31603,7 +47441,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "many",
         "numerous"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 3,
+        "word": "幾多",
+        "reading": "いくた"
+      }
     },
     {
       "character": "活",
@@ -31632,7 +47477,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "different opinion",
         "objection"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 7,
+        "word": "一見",
+        "reading": "いちげん"
+      }
     },
     {
       "character": "向",
@@ -31648,7 +47500,14 @@ window.JLPT_KANJI_DATA = {
         "intention",
         "idea",
         "inclination"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 4,
+        "word": "意向",
+        "reading": "いこう"
+      }
     },
     {
       "character": "移",
@@ -31662,7 +47521,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "switching over to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 5,
+        "word": "移行",
+        "reading": "いこう"
+      }
     },
     {
       "character": "碑",
@@ -31692,7 +47558,14 @@ window.JLPT_KANJI_DATA = {
         "clothing",
         "costume",
         "outfit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 6,
+        "word": "衣装",
+        "reading": "いしょう"
+      }
     },
     {
       "character": "装",
@@ -31708,7 +47581,14 @@ window.JLPT_KANJI_DATA = {
         "clothing",
         "costume",
         "outfit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 6,
+        "word": "衣装",
+        "reading": "いしょう"
+      }
     },
     {
       "character": "苛",
@@ -31724,7 +47604,14 @@ window.JLPT_KANJI_DATA = {
         "to tease",
         "to torment",
         "to persecute"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 4,
+        "word": "苛々",
+        "reading": "いらいら"
+      }
     },
     {
       "character": "住",
@@ -31739,7 +47626,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "migration",
         "immigration"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 7,
+        "word": "移住",
+        "reading": "いじゅう"
+      }
     },
     {
       "character": "弄",
@@ -31768,7 +47662,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "the opposite sex"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 9,
+        "qIndex": 9,
+        "word": "異性",
+        "reading": "いせい"
+      }
     },
     {
       "character": "遺",
@@ -31782,7 +47683,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "historic ruins (remains  relics)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 0,
+        "word": "遺跡",
+        "reading": "いせき"
+      }
     },
     {
       "character": "然",
@@ -31797,7 +47705,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "still",
         "as yet"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 1,
+        "word": "依然",
+        "reading": "いぜん"
+      }
     },
     {
       "character": "存",
@@ -31829,7 +47744,14 @@ window.JLPT_KANJI_DATA = {
         "consign (goods (for sale) to a firm)",
         "entrust (person with something)",
         "commit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 2,
+        "word": "委託",
+        "reading": "いたく"
+      }
     },
     {
       "character": "託",
@@ -31845,7 +47767,14 @@ window.JLPT_KANJI_DATA = {
         "consign (goods (for sale) to a firm)",
         "entrust (person with something)",
         "commit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 2,
+        "word": "委託",
+        "reading": "いたく"
+      }
     },
     {
       "character": "戯",
@@ -31861,7 +47790,14 @@ window.JLPT_KANJI_DATA = {
         "tease",
         "prank",
         "trick"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 3,
+        "word": "悪戯",
+        "reading": "いたずら"
+      }
     },
     {
       "character": "頂",
@@ -31923,7 +47859,14 @@ window.JLPT_KANJI_DATA = {
         "to hurt",
         "to feel a pain",
         "to be injured"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 4,
+        "word": "痛む",
+        "reading": "いたむ"
+      }
     },
     {
       "character": "炒",
@@ -31937,7 +47880,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to stir-fry"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 5,
+        "word": "炒める",
+        "reading": "いためる"
+      }
     },
     {
       "character": "労",
@@ -31999,7 +47949,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "one by one",
         "separately"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 6,
+        "word": "一概に",
+        "reading": "いちがいに"
+      }
     },
     {
       "character": "概",
@@ -32014,7 +47971,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "unconditionally",
         "as a rule"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 10,
+        "qIndex": 6,
+        "word": "一概に",
+        "reading": "いちがいに"
+      }
     },
     {
       "character": "著",
@@ -32029,7 +47993,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "remarkable",
         "considerable"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 0,
+        "word": "著しい",
+        "reading": "いちじるしい"
+      }
     },
     {
       "character": "同",
@@ -32045,7 +48016,14 @@ window.JLPT_KANJI_DATA = {
         "all present",
         "all concerned",
         "all of us"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 1,
+        "word": "同い年",
+        "reading": "おないどし"
+      }
     },
     {
       "character": "部",
@@ -32061,7 +48039,14 @@ window.JLPT_KANJI_DATA = {
         "1.  one copy  e.g. of a document",
         "2.  a part",
         "partly"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 2,
+        "word": "一部",
+        "reading": "いちぶ"
+      }
     },
     {
       "character": "分",
@@ -32075,7 +48060,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "a part"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 3,
+        "word": "一部分",
+        "reading": "いちぶぶん"
+      }
     },
     {
       "character": "別",
@@ -32105,7 +48097,14 @@ window.JLPT_KANJI_DATA = {
         "one side",
         "one phase",
         "front page"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 4,
+        "word": "一面",
+        "reading": "いちめん"
+      }
     },
     {
       "character": "目",
@@ -32153,7 +48152,14 @@ window.JLPT_KANJI_DATA = {
         "a series",
         "a chain",
         "a ream (of paper)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 5,
+        "word": "一連",
+        "reading": "いちれん"
+      }
     },
     {
       "character": "括",
@@ -32169,7 +48175,14 @@ window.JLPT_KANJI_DATA = {
         "all together",
         "batch",
         "one lump"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 6,
+        "word": "一括",
+        "reading": "いっかつ"
+      }
     },
     {
       "character": "挙",
@@ -32200,7 +48213,14 @@ window.JLPT_KANJI_DATA = {
         "all",
         "everything",
         "without exception"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 8,
+        "word": "一切",
+        "reading": "いっさい"
+      }
     },
     {
       "character": "心",
@@ -32216,7 +48236,14 @@ window.JLPT_KANJI_DATA = {
         "one mind",
         "wholeheartedness",
         "the whole heart"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 11,
+        "qIndex": 9,
+        "word": "一心",
+        "reading": "いっしん"
+      }
     },
     {
       "character": "帯",
@@ -32232,7 +48259,14 @@ window.JLPT_KANJI_DATA = {
         "a region",
         "a zone",
         "the whole place"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 0,
+        "word": "一帯",
+        "reading": "いったい"
+      }
     },
     {
       "character": "敗",
@@ -32246,7 +48280,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "one defeat"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 1,
+        "word": "一敗",
+        "reading": "いっぱい"
+      }
     },
     {
       "character": "時",
@@ -32261,7 +48302,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "when",
         "how soon"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 3,
+        "word": "何時",
+        "reading": "いつ"
+      }
     },
     {
       "character": "図",
@@ -32277,7 +48325,14 @@ window.JLPT_KANJI_DATA = {
         "intention",
         "aim",
         "design"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 4,
+        "word": "意図",
+        "reading": "いと"
+      }
     },
     {
       "character": "営",
@@ -32292,7 +48347,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to carry on (e.g. in ceremony)",
         "to run a business"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 5,
+        "word": "営む",
+        "reading": "いとなむ"
+      }
     },
     {
       "character": "暇",
@@ -32322,7 +48384,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "a change"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 0,
+        "word": "動き",
+        "reading": "うごき"
+      }
     },
     {
       "character": "挑",
@@ -32338,7 +48407,14 @@ window.JLPT_KANJI_DATA = {
         "to challenge",
         "to contend for",
         "to make love to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 6,
+        "word": "挑む",
+        "reading": "いどむ"
+      }
     },
     {
       "character": "稲",
@@ -32352,7 +48428,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(flash of) lightning"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 7,
+        "word": "稲光",
+        "reading": "いなびかり"
+      }
     },
     {
       "character": "光",
@@ -32366,7 +48449,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(flash of) lightning"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 7,
+        "word": "稲光",
+        "reading": "いなびかり"
+      }
     },
     {
       "character": "古",
@@ -32381,7 +48471,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "antiquity",
         "ancient times"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 8,
+        "word": "古",
+        "reading": "いにしえ"
+      }
     },
     {
       "character": "祈",
@@ -32396,7 +48493,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "prayer",
         "supplication"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 12,
+        "qIndex": 9,
+        "word": "祈り",
+        "reading": "いのり"
+      }
     },
     {
       "character": "鼾",
@@ -32456,7 +48560,14 @@ window.JLPT_KANJI_DATA = {
         "as yet",
         "hitherto",
         "not yet (neg)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 0,
+        "word": "未だ",
+        "reading": "いまだ"
+      }
     },
     {
       "character": "民",
@@ -32472,7 +48583,14 @@ window.JLPT_KANJI_DATA = {
         "emigration",
         "immigration",
         "emigrant"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 1,
+        "word": "移民",
+        "reading": "いみん"
+      }
     },
     {
       "character": "厭",
@@ -32518,7 +48636,14 @@ window.JLPT_KANJI_DATA = {
         "greedy",
         "vulgar",
         "shabby"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 2,
+        "word": "卑しい",
+        "reading": "いやしい"
+      }
     },
     {
       "character": "愈",
@@ -32550,7 +48675,14 @@ window.JLPT_KANJI_DATA = {
         "will",
         "desire",
         "ambition"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 3,
+        "word": "意欲",
+        "reading": "いよく"
+      }
     },
     {
       "character": "入",
@@ -32566,7 +48698,14 @@ window.JLPT_KANJI_DATA = {
         "entrance",
         "gate",
         "approach"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 5,
+        "word": "入口",
+        "reading": "いりくち"
+      }
     },
     {
       "character": "料",
@@ -32580,7 +48719,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "clothing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 6,
+        "word": "衣料",
+        "reading": "いりょう"
+      }
     },
     {
       "character": "威",
@@ -32612,7 +48758,14 @@ window.JLPT_KANJI_DATA = {
         "clothes",
         "clothing",
         "garments"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 8,
+        "word": "衣類",
+        "reading": "いるい"
+      }
     },
     {
       "character": "色",
@@ -32626,7 +48779,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "various"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 13,
+        "qIndex": 9,
+        "word": "色々",
+        "reading": "いろいろ"
+      }
     },
     {
       "character": "論",
@@ -32641,7 +48801,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "different opinion",
         "objection"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 0,
+        "word": "異論",
+        "reading": "いろん"
+      }
     },
     {
       "character": "所",
@@ -32687,7 +48854,14 @@ window.JLPT_KANJI_DATA = {
         "seal",
         "stamp",
         "mark"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 1,
+        "word": "印",
+        "reading": "いん"
+      }
     },
     {
       "character": "員",
@@ -32716,7 +48890,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "stamp",
         "seal"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 2,
+        "word": "印鑑",
+        "reading": "いんかん"
+      }
     },
     {
       "character": "陰",
@@ -32731,7 +48912,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "gloom",
         "melancholy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 3,
+        "word": "陰気",
+        "reading": "いんき"
+      }
     },
     {
       "character": "隠",
@@ -32777,7 +48965,14 @@ window.JLPT_KANJI_DATA = {
         "high and low",
         "up and down",
         "unloading and loading"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 4,
+        "word": "上下",
+        "reading": "うえした"
+      }
     },
     {
       "character": "浮",
@@ -32793,7 +48988,14 @@ window.JLPT_KANJI_DATA = {
         "to float",
         "to rise to surface",
         "to come to mind"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 5,
+        "word": "浮かぶ",
+        "reading": "うかぶ"
+      }
     },
     {
       "character": "受",
@@ -32807,7 +49009,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to pass (examination)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 6,
+        "word": "受け入れ",
+        "reading": "うけいれ"
+      }
     },
     {
       "character": "含",
@@ -32852,7 +49061,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to be accepted",
         "to receive (an application)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 0,
+        "word": "思い付き",
+        "reading": "おもいつき"
+      }
     },
     {
       "character": "止",
@@ -32868,7 +49084,14 @@ window.JLPT_KANJI_DATA = {
         "to catch",
         "to stop the blow",
         "to react to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 8,
+        "word": "受け止める",
+        "reading": "うけとめる"
+      }
     },
     {
       "character": "取",
@@ -32882,7 +49105,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "receipt"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 14,
+        "qIndex": 9,
+        "word": "受け取り",
+        "reading": "うけとり"
+      }
     },
     {
       "character": "身",
@@ -32925,7 +49155,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "tide"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 1,
+        "word": "潮",
+        "reading": "うしお"
+      }
     },
     {
       "character": "氏",
@@ -32939,7 +49176,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "family name"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 2,
+        "word": "氏",
+        "reading": "うじ"
+      }
     },
     {
       "character": "渦",
@@ -32984,7 +49228,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "liar (sometimes said with not much seriousness)",
         "fibber"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 3,
+        "word": "嘘つき",
+        "reading": "うそつき"
+      }
     },
     {
       "character": "打",
@@ -32998,7 +49249,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to confess, to be open"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 4,
+        "word": "打ち合わせ",
+        "reading": "うちあわせ"
+      }
     },
     {
       "character": "消",
@@ -33014,7 +49272,14 @@ window.JLPT_KANJI_DATA = {
         "negation",
         "denial",
         "negative"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 5,
+        "word": "打ち消し",
+        "reading": "うちけし"
+      }
     },
     {
       "character": "団",
@@ -33058,7 +49323,14 @@ window.JLPT_KANJI_DATA = {
         "the items",
         "breakdown",
         "classification"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 7,
+        "word": "内訳",
+        "reading": "うちわけ"
+      }
     },
     {
       "character": "訴",
@@ -33073,7 +49345,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "lawsuit",
         "complaint"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 8,
+        "word": "訴え",
+        "reading": "うったえ"
+      }
     },
     {
       "character": "鬱",
@@ -33088,7 +49367,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "gloomy",
         "depressing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 9,
+        "word": "鬱陶しい",
+        "reading": "うっとうしい"
+      }
     },
     {
       "character": "陶",
@@ -33103,7 +49389,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "gloomy",
         "depressing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 15,
+        "qIndex": 9,
+        "word": "鬱陶しい",
+        "reading": "うっとうしい"
+      }
     },
     {
       "character": "写",
@@ -33119,7 +49412,14 @@ window.JLPT_KANJI_DATA = {
         "copy",
         "duplicate",
         "facsimile"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 0,
+        "word": "写し",
+        "reading": "うつし"
+      }
     },
     {
       "character": "器",
@@ -33151,7 +49451,14 @@ window.JLPT_KANJI_DATA = {
         "ability",
         "skill",
         "facility"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 2,
+        "word": "腕前",
+        "reading": "うでまえ"
+      }
     },
     {
       "character": "饂",
@@ -33195,7 +49502,14 @@ window.JLPT_KANJI_DATA = {
         "to urge",
         "to press",
         "to suggest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 3,
+        "word": "促す",
+        "reading": "うながす"
+      }
     },
     {
       "character": "唸",
@@ -33227,7 +49541,14 @@ window.JLPT_KANJI_DATA = {
         "pretension",
         "conceit",
         "hubris"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 4,
+        "word": "自惚れ",
+        "reading": "うぬぼれ"
+      }
     },
     {
       "character": "惚",
@@ -33243,7 +49564,14 @@ window.JLPT_KANJI_DATA = {
         "pretension",
         "conceit",
         "hubris"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 4,
+        "word": "自惚れ",
+        "reading": "うぬぼれ"
+      }
     },
     {
       "character": "海",
@@ -33257,7 +49585,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "sea route"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 5,
+        "word": "海路",
+        "reading": "うみじ"
+      }
     },
     {
       "character": "路",
@@ -33271,7 +49606,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "sea route"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 5,
+        "word": "海路",
+        "reading": "うみじ"
+      }
     },
     {
       "character": "産",
@@ -33287,7 +49629,14 @@ window.JLPT_KANJI_DATA = {
         "to give birth",
         "to deliver",
         "to produce"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 6,
+        "word": "産む",
+        "reading": "うむ"
+      }
     },
     {
       "character": "梅",
@@ -33301,7 +49650,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "dried plum"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 7,
+        "word": "梅干",
+        "reading": "うめぼし"
+      }
     },
     {
       "character": "干",
@@ -33315,7 +49671,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "dried plum"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 7,
+        "word": "梅干",
+        "reading": "うめぼし"
+      }
     },
     {
       "character": "末",
@@ -33345,7 +49708,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "inside out",
         "upside down"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 8,
+        "word": "裏返し",
+        "reading": "うらがえし"
+      }
     },
     {
       "character": "返",
@@ -33360,7 +49730,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "inside out",
         "upside down"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 8,
+        "word": "裏返し",
+        "reading": "うらがえし"
+      }
     },
     {
       "character": "売",
@@ -33374,7 +49751,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(bargain) sale"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 16,
+        "qIndex": 9,
+        "word": "売り出す",
+        "reading": "うりだす"
+      }
     },
     {
       "character": "潤",
@@ -33390,7 +49774,14 @@ window.JLPT_KANJI_DATA = {
         "to be moist",
         "to be damp",
         "to get wet"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 0,
+        "word": "潤う",
+        "reading": "うるおう"
+      }
     },
     {
       "character": "五",
@@ -33454,7 +49845,14 @@ window.JLPT_KANJI_DATA = {
         "1.  upper part",
         "upper stream",
         "left side (of a stage)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 3,
+        "word": "上手",
+        "reading": "うわて"
+      }
     },
     {
       "character": "植",
@@ -33484,7 +49882,14 @@ window.JLPT_KANJI_DATA = {
         "management",
         "administration",
         "operation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 5,
+        "word": "運営",
+        "reading": "うんえい"
+      }
     },
     {
       "character": "送",
@@ -33515,7 +49920,14 @@ window.JLPT_KANJI_DATA = {
         "freight rates",
         "shipping expenses",
         "fare"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 6,
+        "word": "運賃",
+        "reading": "うんちん"
+      }
     },
     {
       "character": "云",
@@ -33546,7 +49958,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "transport",
         "carriage"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 7,
+        "word": "運搬",
+        "reading": "うんぱん"
+      }
     },
     {
       "character": "命",
@@ -33560,7 +49979,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "fate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 8,
+        "word": "運命",
+        "reading": "うんめい"
+      }
     },
     {
       "character": "輸",
@@ -33574,7 +50000,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "transportation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 17,
+        "qIndex": 9,
+        "word": "運輸",
+        "reading": "うんゆ"
+      }
     },
     {
       "character": "用",
@@ -33590,7 +50023,14 @@ window.JLPT_KANJI_DATA = {
         "making use of",
         "application",
         "investment"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 0,
+        "word": "運用",
+        "reading": "うんよう"
+      }
     },
     {
       "character": "会",
@@ -33604,7 +50044,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "understanding"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 1,
+        "word": "会",
+        "reading": "え"
+      }
     },
     {
       "character": "重",
@@ -33619,7 +50066,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "-fold",
         "-ply"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 2,
+        "word": "重なる",
+        "reading": "おもなる"
+      }
     },
     {
       "character": "映",
@@ -33633,7 +50087,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "projection"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 2,
+        "word": "映像",
+        "reading": "えいぞう"
+      }
     },
     {
       "character": "英",
@@ -33678,7 +50139,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "reflection",
         "image"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 2,
+        "word": "映像",
+        "reading": "えいぞう"
+      }
     },
     {
       "character": "雄",
@@ -33709,7 +50177,14 @@ window.JLPT_KANJI_DATA = {
         "war",
         "campaign",
         "battle"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 4,
+        "word": "重役",
+        "reading": "おもやく"
+      }
     },
     {
       "character": "液",
@@ -33739,7 +50214,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "inspection",
         "reading"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 3,
+        "word": "閲覧",
+        "reading": "えつらん"
+      }
     },
     {
       "character": "覧",
@@ -33754,7 +50236,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "inspection",
         "reading"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 3,
+        "word": "閲覧",
+        "reading": "えつらん"
+      }
     },
     {
       "character": "獲",
@@ -33770,7 +50259,14 @@ window.JLPT_KANJI_DATA = {
         "game",
         "spoils",
         "trophy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 4,
+        "word": "獲物",
+        "reading": "えもの"
+      }
     },
     {
       "character": "物",
@@ -33786,7 +50282,14 @@ window.JLPT_KANJI_DATA = {
         "game",
         "spoils",
         "trophy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 4,
+        "word": "獲物",
+        "reading": "えもの"
+      }
     },
     {
       "character": "襟",
@@ -33802,7 +50305,14 @@ window.JLPT_KANJI_DATA = {
         "neck",
         "collar",
         "lapel"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 5,
+        "word": "襟",
+        "reading": "えり"
+      }
     },
     {
       "character": "園",
@@ -33830,7 +50340,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "salt"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 6,
+        "word": "塩",
+        "reading": "えん"
+      }
     },
     {
       "character": "縁",
@@ -33846,7 +50363,14 @@ window.JLPT_KANJI_DATA = {
         "chance",
         "fate",
         "destiny"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 7,
+        "word": "縁",
+        "reading": "えん"
+      }
     },
     {
       "character": "艶",
@@ -33862,7 +50386,14 @@ window.JLPT_KANJI_DATA = {
         "charming",
         "fascinating",
         "voluptuous"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 8,
+        "word": "艶",
+        "reading": "えん"
+      }
     },
     {
       "character": "円",
@@ -33877,7 +50408,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "harmony",
         "smoothness"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 9,
+        "word": "円滑",
+        "reading": "えんかつ"
+      }
     },
     {
       "character": "滑",
@@ -33892,7 +50430,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "harmony",
         "smoothness"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 18,
+        "qIndex": 9,
+        "word": "円滑",
+        "reading": "えんかつ"
+      }
     },
     {
       "character": "側",
@@ -33923,7 +50468,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "coast",
         "shore"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 0,
+        "word": "沿岸",
+        "reading": "えんがん"
+      }
     },
     {
       "character": "岸",
@@ -33938,7 +50490,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "coast",
         "shore"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 0,
+        "word": "沿岸",
+        "reading": "えんがん"
+      }
     },
     {
       "character": "婉",
@@ -33986,7 +50545,14 @@ window.JLPT_KANJI_DATA = {
         "practice",
         "exercises",
         "manoeuvers"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 1,
+        "word": "演出",
+        "reading": "えんしゅつ"
+      }
     },
     {
       "character": "習",
@@ -34016,7 +50582,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "along railway line"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 3,
+        "word": "沿線",
+        "reading": "えんせん"
+      }
     },
     {
       "character": "談",
@@ -34031,7 +50604,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "marriage proposal",
         "engagement"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 4,
+        "word": "縁談",
+        "reading": "えんだん"
+      }
     },
     {
       "character": "遠",
@@ -34046,7 +50626,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "long way",
         "distant place"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 5,
+        "word": "遠方",
+        "reading": "えんぽう"
+      }
     },
     {
       "character": "満",
@@ -34062,7 +50649,14 @@ window.JLPT_KANJI_DATA = {
         "perfection",
         "harmony",
         "peace"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 6,
+        "word": "円満",
+        "reading": "えんまん"
+      }
     },
     {
       "character": "尾",
@@ -34107,7 +50701,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nephew"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 7,
+        "word": "甥",
+        "reading": "おい"
+      }
     },
     {
       "character": "追",
@@ -34123,7 +50724,14 @@ window.JLPT_KANJI_DATA = {
         "to herd",
         "to corner",
         "to drive"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 8,
+        "word": "追い込む",
+        "reading": "おいこむ"
+      }
     },
     {
       "character": "美",
@@ -34138,7 +50746,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "delicious",
         "tasty"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 9,
+        "word": "美味しい",
+        "reading": "おいしい"
+      }
     },
     {
       "character": "老",
@@ -34153,7 +50768,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to age",
         "to grow old"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 1,
+        "word": "老いる",
+        "reading": "おいる"
+      }
     },
     {
       "character": "負",
@@ -34168,7 +50790,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to bear",
         "to owe"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 2,
+        "word": "負う",
+        "reading": "おう"
+      }
     },
     {
       "character": "応",
@@ -34182,7 +50811,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "emergency"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 5,
+        "word": "応募",
+        "reading": "おうぼ"
+      }
     },
     {
       "character": "急",
@@ -34210,7 +50846,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "gold"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 3,
+        "word": "黄金",
+        "reading": "おうごん"
+      }
     },
     {
       "character": "金",
@@ -34224,7 +50867,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "gold"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 3,
+        "word": "黄金",
+        "reading": "おうごん"
+      }
     },
     {
       "character": "往",
@@ -34267,7 +50917,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "subscription",
         "application"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 5,
+        "word": "応募",
+        "reading": "おうぼ"
+      }
     },
     {
       "character": "大",
@@ -34283,7 +50940,14 @@ window.JLPT_KANJI_DATA = {
         "perhaps",
         "almost all",
         "majority"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 6,
+        "word": "大方",
+        "reading": "おおかた"
+      }
     },
     {
       "character": "事",
@@ -34299,7 +50963,14 @@ window.JLPT_KANJI_DATA = {
         "important",
         "valuable",
         "serious matter"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 20,
+        "qIndex": 9,
+        "word": "大事",
+        "reading": "おおごと"
+      }
     },
     {
       "character": "幅",
@@ -34315,7 +50986,14 @@ window.JLPT_KANJI_DATA = {
         "full width",
         "large scale",
         "drastic"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 1,
+        "word": "大幅",
+        "reading": "おおはば"
+      }
     },
     {
       "character": "水",
@@ -34329,7 +51007,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "flood"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 2,
+        "word": "大水",
+        "reading": "おおみず"
+      }
     },
     {
       "character": "公",
@@ -34360,7 +51045,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "(your) backing",
         "assistance"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 3,
+        "word": "お蔭",
+        "reading": "おかげ"
+      }
     },
     {
       "character": "可",
@@ -34376,7 +51068,14 @@ window.JLPT_KANJI_DATA = {
         "strange",
         "funny",
         "amusing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 4,
+        "word": "可笑しい",
+        "reading": "おかしい"
+      }
     },
     {
       "character": "侵",
@@ -34392,7 +51091,14 @@ window.JLPT_KANJI_DATA = {
         "to invade",
         "to raid",
         "to trespass"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 5,
+        "word": "侵す",
+        "reading": "おかす"
+      }
     },
     {
       "character": "犯",
@@ -34408,7 +51114,14 @@ window.JLPT_KANJI_DATA = {
         "to commit",
         "to perpetrate",
         "to violate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 6,
+        "word": "犯す",
+        "reading": "おかす"
+      }
     },
     {
       "character": "菜",
@@ -34438,7 +51151,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "cowardice",
         "timidity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 7,
+        "word": "臆病",
+        "reading": "おくびょう"
+      }
     },
     {
       "character": "病",
@@ -34453,7 +51173,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "cowardice",
         "timidity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 7,
+        "word": "臆病",
+        "reading": "おくびょう"
+      }
     },
     {
       "character": "遅",
@@ -34468,7 +51195,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to retard",
         "to delay"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 8,
+        "word": "遅れ",
+        "reading": "おくれ"
+      }
     },
     {
       "character": "起",
@@ -34484,7 +51218,14 @@ window.JLPT_KANJI_DATA = {
         "to raise",
         "to cause",
         "to wake someone"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 21,
+        "qIndex": 9,
+        "word": "起こす",
+        "reading": "おこす"
+      }
     },
     {
       "character": "厳",
@@ -34500,7 +51241,14 @@ window.JLPT_KANJI_DATA = {
         "austere",
         "majestic",
         "dignified"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 1,
+        "word": "厳か",
+        "reading": "おごそか"
+      }
     },
     {
       "character": "傲",
@@ -34545,7 +51293,14 @@ window.JLPT_KANJI_DATA = {
         "to stop",
         "to restrain",
         "to seize"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 0,
+        "word": "押し寄せる",
+        "reading": "おしよせる"
+      }
     },
     {
       "character": "先",
@@ -34561,7 +51316,14 @@ window.JLPT_KANJI_DATA = {
         "before",
         "ahead",
         "previously"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 2,
+        "word": "お先に",
+        "reading": "おさきに"
+      }
     },
     {
       "character": "収",
@@ -34577,7 +51339,14 @@ window.JLPT_KANJI_DATA = {
         "to be obtained",
         "to end",
         "to settle into"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 3,
+        "word": "収まる",
+        "reading": "おさまる"
+      }
     },
     {
       "character": "治",
@@ -34593,7 +51362,14 @@ window.JLPT_KANJI_DATA = {
         "to be at peace",
         "to clamp down",
         "to lessen (storm  terror  anger)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 4,
+        "word": "治まる",
+        "reading": "おさまる"
+      }
     },
     {
       "character": "納",
@@ -34625,7 +51401,14 @@ window.JLPT_KANJI_DATA = {
         "teachings",
         "precept",
         "lesson"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 6,
+        "word": "教え",
+        "reading": "おしえ"
+      }
     },
     {
       "character": "惜",
@@ -34641,7 +51424,14 @@ window.JLPT_KANJI_DATA = {
         "to be frugal",
         "to value",
         "to regret"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 7,
+        "word": "惜しむ",
+        "reading": "おしむ"
+      }
     },
     {
       "character": "喋",
@@ -34657,7 +51447,14 @@ window.JLPT_KANJI_DATA = {
         "chattering",
         "talk",
         "idle talk"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 8,
+        "word": "お喋り",
+        "reading": "おしゃべり"
+      }
     },
     {
       "character": "洒",
@@ -34673,7 +51470,14 @@ window.JLPT_KANJI_DATA = {
         "smartly dressed",
         "someone smartly dressed",
         "fashion-conscious"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 9,
+        "word": "お洒落",
+        "reading": "おしゃれ"
+      }
     },
     {
       "character": "落",
@@ -34689,7 +51493,14 @@ window.JLPT_KANJI_DATA = {
         "smartly dressed",
         "someone smartly dressed",
         "fashion-conscious"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 22,
+        "qIndex": 9,
+        "word": "お洒落",
+        "reading": "おしゃれ"
+      }
     },
     {
       "character": "寄",
@@ -34704,7 +51515,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to push aside",
         "to advance on"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 0,
+        "word": "押し寄せる",
+        "reading": "おしよせる"
+      }
     },
     {
       "character": "祖",
@@ -34719,7 +51537,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "grandfather",
         "male senior-citizen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 1,
+        "word": "お祖父さん",
+        "reading": "おじいさん"
+      }
     },
     {
       "character": "父",
@@ -34734,7 +51559,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "grandfather",
         "male senior-citizen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 1,
+        "word": "お祖父さん",
+        "reading": "おじいさん"
+      }
     },
     {
       "character": "邪",
@@ -34748,7 +51580,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Excuse me for disturbing (interrupting) you"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 2,
+        "word": "お邪魔します",
+        "reading": "おじゃまします"
+      }
     },
     {
       "character": "魔",
@@ -34762,7 +51601,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Excuse me for disturbing (interrupting) you"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 2,
+        "word": "お邪魔します",
+        "reading": "おじゃまします"
+      }
     },
     {
       "character": "世",
@@ -34777,7 +51623,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "flattery",
         "compliment"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 3,
+        "word": "お世辞",
+        "reading": "おせじ"
+      }
     },
     {
       "character": "辞",
@@ -34792,7 +51645,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "flattery",
         "compliment"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 3,
+        "word": "お世辞",
+        "reading": "おせじ"
+      }
     },
     {
       "character": "御",
@@ -34820,7 +51680,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to attack"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 4,
+        "word": "襲う",
+        "reading": "おそう"
+      }
     },
     {
       "character": "恐",
@@ -34834,7 +51701,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "perhaps"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 5,
+        "word": "恐らく",
+        "reading": "おそらく"
+      }
     },
     {
       "character": "煽",
@@ -34865,7 +51739,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "calm",
         "composure"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 8,
+        "word": "落ち着き",
+        "reading": "おちつき"
+      }
     },
     {
       "character": "葉",
@@ -34881,7 +51762,14 @@ window.JLPT_KANJI_DATA = {
         "fallen leaves",
         "leaf litter",
         "defoliation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 23,
+        "qIndex": 9,
+        "word": "落ち葉",
+        "reading": "おちば"
+      }
     },
     {
       "character": "乙",
@@ -34897,7 +51785,14 @@ window.JLPT_KANJI_DATA = {
         "1.  strange",
         "quaint",
         "stylish"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 1,
+        "word": "乙",
+        "reading": "おつ"
+      }
     },
     {
       "character": "使",
@@ -34911,7 +51806,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "errand"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 2,
+        "word": "お使い",
+        "reading": "おつかい"
+      }
     },
     {
       "character": "洗",
@@ -34941,7 +51843,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "younger brother"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 4,
+        "word": "弟",
+        "reading": "おと"
+      }
     },
     {
       "character": "訪",
@@ -34955,7 +51864,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "to visit"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 5,
+        "word": "訪れる",
+        "reading": "おとずれる"
+      }
     },
     {
       "character": "少",
@@ -34971,7 +51887,14 @@ window.JLPT_KANJI_DATA = {
         "daughter",
         "young lady",
         "virgin"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 6,
+        "word": "少女",
+        "reading": "おとめ"
+      }
     },
     {
       "character": "供",
@@ -34986,7 +51909,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "attendant",
         "companion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 7,
+        "word": "お供",
+        "reading": "おとも"
+      }
     },
     {
       "character": "衰",
@@ -35002,7 +51932,14 @@ window.JLPT_KANJI_DATA = {
         "to become weak",
         "to decline",
         "to wear"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 8,
+        "word": "衰える",
+        "reading": "おとろえる"
+      }
     },
     {
       "character": "脅",
@@ -35017,7 +51954,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to threaten",
         "to coerce"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 24,
+        "qIndex": 9,
+        "word": "脅かす",
+        "reading": "おどかす"
+      }
     },
     {
       "character": "驚",
@@ -35033,7 +51977,14 @@ window.JLPT_KANJI_DATA = {
         "surprise",
         "astonishment",
         "wonder"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 0,
+        "word": "驚き",
+        "reading": "おどろき"
+      }
     },
     {
       "character": "年",
@@ -35047,7 +51998,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "of the same age"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 1,
+        "word": "同い年",
+        "reading": "おないどし"
+      }
     },
     {
       "character": "子",
@@ -35062,7 +52020,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "woman",
         "girl"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 2,
+        "word": "女子",
+        "reading": "おなご"
+      }
     },
     {
       "character": "願",
@@ -35076,7 +52041,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "please"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 3,
+        "word": "お願いします",
+        "reading": "おねがいします"
+      }
     },
     {
       "character": "各",
@@ -35092,7 +52064,14 @@ window.JLPT_KANJI_DATA = {
         "each",
         "every",
         "either"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 6,
+        "word": "各種",
+        "reading": "かくしゅ"
+      }
     },
     {
       "character": "早",
@@ -35106,7 +52085,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Good morning"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 4,
+        "word": "お早う",
+        "reading": "おはよう"
+      }
     },
     {
       "character": "母",
@@ -35121,7 +52107,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "grandmother",
         "female senior-citizen"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 5,
+        "word": "お祖母さん",
+        "reading": "おばあさん"
+      }
     },
     {
       "character": "怯",
@@ -35181,7 +52174,14 @@ window.JLPT_KANJI_DATA = {
         "memory",
         "sense",
         "experience"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 6,
+        "word": "覚え",
+        "reading": "おぼえ"
+      }
     },
     {
       "character": "巡",
@@ -35195,7 +52195,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "policeman (friendly term)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 7,
+        "word": "お巡りさん",
+        "reading": "おまわりさん"
+      }
     },
     {
       "character": "宮",
@@ -35209,7 +52216,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Shinto shrine"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 25,
+        "qIndex": 8,
+        "word": "お宮",
+        "reading": "おみや"
+      }
     },
     {
       "character": "襁",
@@ -35270,7 +52284,14 @@ window.JLPT_KANJI_DATA = {
         "plan",
         "idea",
         "suggestion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 0,
+        "word": "思い付き",
+        "reading": "おもいつき"
+      }
     },
     {
       "character": "玩",
@@ -35284,7 +52305,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "toy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 1,
+        "word": "玩具",
+        "reading": "おもちゃ"
+      }
     },
     {
       "character": "趣",
@@ -35316,7 +52344,14 @@ window.JLPT_KANJI_DATA = {
         "to go",
         "to proceed",
         "to repair to"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 3,
+        "word": "赴く",
+        "reading": "おもむく"
+      }
     },
     {
       "character": "親",
@@ -35346,7 +52381,14 @@ window.JLPT_KANJI_DATA = {
         "holiday",
         "absence",
         "rest"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 5,
+        "word": "お休み",
+        "reading": "おやすみ"
+      }
     },
     {
       "character": "八",
@@ -35377,7 +52419,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "and",
         "as well as"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 6,
+        "word": "及び",
+        "reading": "および"
+      }
     },
     {
       "character": "折",
@@ -35407,7 +52456,14 @@ window.JLPT_KANJI_DATA = {
         "cage",
         "pen",
         "jail cell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 7,
+        "word": "檻",
+        "reading": "おり"
+      }
     },
     {
       "character": "織",
@@ -35423,7 +52479,14 @@ window.JLPT_KANJI_DATA = {
         "weave",
         "weaving",
         "woven item"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 8,
+        "word": "織る",
+        "reading": "おる"
+      }
     },
     {
       "character": "俺",
@@ -35437,7 +52500,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "I (ego) (boastful first-person pronoun)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 26,
+        "qIndex": 9,
+        "word": "俺",
+        "reading": "おれ"
+      }
     },
     {
       "character": "愚",
@@ -35452,7 +52522,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "foolish",
         "stupid"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 0,
+        "word": "愚か",
+        "reading": "おろか"
+      }
     },
     {
       "character": "疎",
@@ -35483,7 +52560,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "to finish",
         "to close"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 1,
+        "word": "終わる",
+        "reading": "おわる"
+      }
     },
     {
       "character": "音",
@@ -35499,7 +52583,14 @@ window.JLPT_KANJI_DATA = {
         "tone color",
         "tone quality",
         "timbre"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 2,
+        "word": "音色",
+        "reading": "おんいろ"
+      }
     },
     {
       "character": "温",
@@ -35515,7 +52606,14 @@ window.JLPT_KANJI_DATA = {
         "gentle",
         "mild",
         "moderate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 3,
+        "word": "温和",
+        "reading": "おんわ"
+      }
     },
     {
       "character": "和",
@@ -35531,7 +52629,14 @@ window.JLPT_KANJI_DATA = {
         "gentle",
         "mild",
         "moderate"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 3,
+        "word": "温和",
+        "reading": "おんわ"
+      }
     },
     {
       "character": "仮",
@@ -35560,7 +52665,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "article counter"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 4,
+        "word": "個",
+        "reading": "か"
+      }
     },
     {
       "character": "界",
@@ -35589,7 +52701,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "-floor (counter)",
         "stories"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 4,
+        "word": "階層",
+        "reading": "かいそう"
+      }
     },
     {
       "character": "革",
@@ -35605,7 +52724,14 @@ window.JLPT_KANJI_DATA = {
         "reform",
         "reformation",
         "innovation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 5,
+        "word": "改革",
+        "reading": "かいかく"
+      }
     },
     {
       "character": "貝",
@@ -35619,7 +52745,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "shell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 6,
+        "word": "貝殻",
+        "reading": "かいがら"
+      }
     },
     {
       "character": "殻",
@@ -35633,7 +52766,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "shell"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 6,
+        "word": "貝殻",
+        "reading": "かいがら"
+      }
     },
     {
       "character": "級",
@@ -35663,7 +52803,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "channel"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 7,
+        "word": "海峡",
+        "reading": "かいきょう"
+      }
     },
     {
       "character": "介",
@@ -35677,7 +52824,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nursing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 9,
+        "word": "介護",
+        "reading": "かいご"
+      }
     },
     {
       "character": "護",
@@ -35691,7 +52845,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "nursing"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 27,
+        "qIndex": 9,
+        "word": "介護",
+        "reading": "かいご"
+      }
     },
     {
       "character": "開",
@@ -35706,7 +52867,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "holding a meeting",
         "open an exhibition"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 9,
+        "word": "開発",
+        "reading": "かいはつ"
+      }
     },
     {
       "character": "催",
@@ -35736,7 +52904,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "repair",
         "improvement"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 1,
+        "word": "改修",
+        "reading": "かいしゅう"
+      }
     },
     {
       "character": "怪",
@@ -35750,7 +52925,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "monster"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 2,
+        "word": "怪獣",
+        "reading": "かいじゅう"
+      }
     },
     {
       "character": "獣",
@@ -35764,7 +52946,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "monster"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 2,
+        "word": "怪獣",
+        "reading": "かいじゅう"
+      }
     },
     {
       "character": "解",
@@ -35780,7 +52969,14 @@ window.JLPT_KANJI_DATA = {
         "cancellation",
         "rescinding",
         "release"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 3,
+        "word": "解除",
+        "reading": "かいじょ"
+      }
     },
     {
       "character": "除",
@@ -35796,7 +52992,14 @@ window.JLPT_KANJI_DATA = {
         "cancellation",
         "rescinding",
         "release"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 3,
+        "word": "解除",
+        "reading": "かいじょ"
+      }
     },
     {
       "character": "層",
@@ -35812,7 +53015,14 @@ window.JLPT_KANJI_DATA = {
         "class",
         "level",
         "stratum"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 4,
+        "word": "階層",
+        "reading": "かいそう"
+      }
     },
     {
       "character": "拓",
@@ -35842,7 +53052,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "revision"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 6,
+        "word": "改訂",
+        "reading": "かいてい"
+      }
     },
     {
       "character": "街",
@@ -35856,7 +53073,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "highway"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 7,
+        "word": "街道",
+        "reading": "かいどう"
+      }
     },
     {
       "character": "道",
@@ -35870,7 +53094,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "highway"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 7,
+        "word": "街道",
+        "reading": "かいどう"
+      }
     },
     {
       "character": "発",
@@ -35885,7 +53116,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "development",
         "exploitation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 28,
+        "qIndex": 9,
+        "word": "開発",
+        "reading": "かいはつ"
+      }
     },
     {
       "character": "抜",
@@ -35899,7 +53137,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "height above sea level"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 0,
+        "word": "海抜",
+        "reading": "かいばつ"
+      }
     },
     {
       "character": "抱",
@@ -35914,7 +53159,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "nursing",
         "looking after"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 1,
+        "word": "介抱",
+        "reading": "かいほう"
+      }
     },
     {
       "character": "剖",
@@ -35929,7 +53181,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "dissection",
         "autopsy"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 2,
+        "word": "解剖",
+        "reading": "かいぼう"
+      }
     },
     {
       "character": "流",
@@ -35943,7 +53202,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "ocean current"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 4,
+        "word": "海流",
+        "reading": "かいりゅう"
+      }
     },
     {
       "character": "省",
@@ -35989,7 +53255,14 @@ window.JLPT_KANJI_DATA = {
         "(outward) looks",
         "features",
         "face"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 7,
+        "word": "顔付き",
+        "reading": "かおつき"
+      }
     },
     {
       "character": "掲",
@@ -36005,7 +53278,14 @@ window.JLPT_KANJI_DATA = {
         "to publish",
         "to print",
         "to carry (an article)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 8,
+        "word": "掲げる",
+        "reading": "かかげる"
+      }
     },
     {
       "character": "踵",
@@ -36019,7 +53299,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "(shoe) heel"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 9,
+        "word": "踵",
+        "reading": "かかと"
+      }
     },
     {
       "character": "係",
@@ -36035,7 +53322,14 @@ window.JLPT_KANJI_DATA = {
         "official",
         "duty",
         "person in charge"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 0,
+        "word": "係り",
+        "reading": "かかり"
+      }
     },
     {
       "character": "課",
@@ -36063,7 +53357,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "dictation"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 1,
+        "word": "書き取り",
+        "reading": "かきとり"
+      }
     },
     {
       "character": "掻",
@@ -36138,7 +53439,14 @@ window.JLPT_KANJI_DATA = {
         "status",
         "character",
         "case"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 4,
+        "word": "格差",
+        "reading": "かくさ"
+      }
     },
     {
       "character": "欠",
@@ -36154,7 +53462,14 @@ window.JLPT_KANJI_DATA = {
         "to lack",
         "to break",
         "to crack"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 2,
+        "word": "欠く",
+        "reading": "かく"
+      }
     },
     {
       "character": "画",
@@ -36183,7 +53498,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "1.  angle",
         "2.  bishop (shogi)"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 3,
+        "word": "角",
+        "reading": "かく"
+      }
     },
     {
       "character": "差",
@@ -36198,7 +53520,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "qualitative difference",
         "disparity"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 4,
+        "word": "格差",
+        "reading": "かくさ"
+      }
     },
     {
       "character": "拡",
@@ -36213,7 +53542,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "scattering",
         "diffusion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 5,
+        "word": "拡散",
+        "reading": "かくさん"
+      }
     },
     {
       "character": "散",
@@ -36228,7 +53564,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "scattering",
         "diffusion"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 5,
+        "word": "拡散",
+        "reading": "かくさん"
+      }
     },
     {
       "character": "種",
@@ -36243,7 +53586,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "every kind",
         "all sorts"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 6,
+        "word": "各種",
+        "reading": "かくしゅ"
+      }
     },
     {
       "character": "隔",
@@ -36257,7 +53607,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "every other week"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 7,
+        "word": "隔週",
+        "reading": "かくしゅう"
+      }
     },
     {
       "character": "週",
@@ -36271,7 +53628,14 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "every other week"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 7,
+        "word": "隔週",
+        "reading": "かくしゅう"
+      }
     },
     {
       "character": "確",
@@ -36286,7 +53650,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "conviction",
         "confidence"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 8,
+        "word": "確信",
+        "reading": "かくしん"
+      }
     },
     {
       "character": "信",
@@ -36301,7 +53672,14 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "conviction",
         "confidence"
-      ]
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 30,
+        "qIndex": 8,
+        "word": "確信",
+        "reading": "かくしん"
+      }
     },
     {
       "character": "新",

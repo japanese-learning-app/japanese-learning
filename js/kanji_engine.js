@@ -327,6 +327,44 @@
     currentAnimTimer: null,
     getExamples: getKanjiExamples,
 
+    goToDailyQuiz(level, day, qIndex = 0) {
+      this.closeStrokeModal();
+      if (typeof switchWritingTab === 'function') {
+        switchWritingTab('quiz');
+      }
+      setTimeout(() => {
+        if (window.MainichiKanjiQuiz) {
+          const btn = document.querySelector(`.quiz-top-level-bar .quiz-level-pill[onclick*="${level}"]`);
+          if (typeof setWritingQuizLevel === 'function') {
+            setWritingQuizLevel(level, btn);
+          } else {
+            window.MainichiKanjiQuiz.setLevel(level);
+          }
+          window.MainichiKanjiQuiz.setDay(day);
+          if (typeof qIndex === 'number') {
+            window.MainichiKanjiQuiz.setQuestion(qIndex);
+          }
+        }
+      }, 50);
+    },
+
+    goToKanjiList(char, level) {
+      this.closeStrokeModal();
+      if (typeof switchWritingTab === 'function') {
+        switchWritingTab('list');
+      }
+      setTimeout(() => {
+        if (window.KanjiListEngine) {
+          if (level) {
+            window.KanjiListEngine.setLevel(level);
+          }
+          if (char) {
+            window.KanjiListEngine.onSearch(char);
+          }
+        }
+      }, 50);
+    },
+
     async openStrokeModal(char, extraInfo = {}) {
       const old = document.getElementById('kanji-stroke-modal-overlay');
       if (old) old.remove();
@@ -374,6 +412,22 @@
           </div>
 
           <div class="kanji-modal-body" style="padding:16px 20px 24px; display:flex; flex-direction:column; gap:16px;">
+            ${kObj.dailyQuizRef ? `
+              <!-- 毎日漢字書き取りテストとの連動案内バナー -->
+              <div style="background:#EFF6FF; border:1.5px solid #93C5FD; border-radius:12px; padding:10px 14px; display:flex; align-items:center; justify-content:space-between; gap:10px; box-shadow:0 1px 3px rgba(0,0,0,0.03);">
+                <div style="font-size:0.82rem; color:#1E40AF;">
+                  <span style="font-weight:800; background:#DBEAFE; color:#1D4ED8; padding:2px 7px; border-radius:5px; margin-right:4px;">📝 テスト連動</span>
+                  毎日漢字テスト <strong>【Day ${kObj.dailyQuizRef.day}】</strong> に出題されています！
+                  <div style="font-size:0.75rem; color:#475569; margin-top:2px;">
+                    出題単語: <span style="font-weight:700; color:#0F172A;">${kObj.dailyQuizRef.word}</span> （${kObj.dailyQuizRef.reading}）
+                  </div>
+                </div>
+                <button onclick="KanjiEngine.goToDailyQuiz('${kObj.dailyQuizRef.level}', ${kObj.dailyQuizRef.day}, ${kObj.dailyQuizRef.qIndex})" style="background:#1D4ED8; color:white; border:none; border-radius:8px; padding:7px 12px; font-weight:800; font-size:0.78rem; cursor:pointer; white-space:nowrap; box-shadow:0 2px 4px rgba(29,78,216,0.25);">
+                  書き取りテストへ ▶
+                </button>
+              </div>
+            ` : ''}
+
             <!-- 田字格アニメーション (240px) -->
             <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
               <div class="kanji-stage-box" id="kanji-modal-stage"></div>
@@ -881,9 +935,14 @@
                       🔊
                     </button>
                   </div>
-                  <button class="mainichi-stroke-modal-btn" onclick="KanjiEngine.openStrokeModal('${q.kanji[0]}')">
-                    🔍 筆順・書き順を見る
-                  </button>
+                  <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                    <button class="mainichi-stroke-modal-btn" onclick="KanjiEngine.openStrokeModal('${q.kanji[0]}')">
+                      🔍 筆順・書き順を見る
+                    </button>
+                    <button class="mainichi-stroke-modal-btn" style="background:#F0FDF4; border-color:#86EFAC; color:#166534;" onclick="KanjiEngine.goToKanjiList('${q.kanji[0]}', '${this.currentLevel}')">
+                      📚 JLPT漢字リストで確認
+                    </button>
+                  </div>
                 </div>
                 <div class="mainichi-ans-expl">${q.explanation || ''}</div>
 
@@ -1176,6 +1235,17 @@
           </div>
         </div>
 
+        <!-- 毎日書き取りテストとの連動案内バナー -->
+        <div style="background:#F0F9FF; border:1.5px solid #BAE6FD; border-radius:12px; padding:10px 14px; margin-bottom:14px; font-size:0.83rem; color:#0369A1; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px;">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span>✍️</span>
+            <span><strong>毎日書き取りテストと100%連動中！</strong> 各漢字カードの「📝 Day X」や詳細モーダルから、すぐにテストに挑戦できます。</span>
+          </div>
+          <button onclick="switchWritingTab('quiz')" style="background:#0284C7; color:white; border:none; padding:5px 12px; border-radius:7px; font-size:0.78rem; font-weight:800; cursor:pointer;">
+            📝 書き取りテストへ
+          </button>
+        </div>
+
         <div class="kanji-tiles-grid">
           ${list.map(k => {
             const onList = k.onyomi || [];
@@ -1185,6 +1255,11 @@
             const escapedK = JSON.stringify(k).replace(/"/g, '&quot;');
             return `
               <div class="kanji-tile-card" onclick='KanjiEngine.openStrokeModal("${k.character}", ${escapedK})'>
+                ${k.dailyQuizRef ? `
+                  <div style="font-size:0.65rem; font-weight:800; background:#EFF6FF; color:#1D4ED8; border:1px solid #BFDBFE; border-radius:5px; padding:1px 6px; margin-bottom:4px; display:inline-flex; align-items:center; gap:2px;" title="毎日漢字書き取りテスト Day ${k.dailyQuizRef.day} に出題">
+                    📝 Day ${k.dailyQuizRef.day}
+                  </div>
+                ` : ''}
                 <div class="kanji-tile-char">${k.character}</div>
                 <div class="kanji-tile-strokes">${k.strokes}画</div>
                 <div class="kanji-tile-yomi-box">
