@@ -20504,8 +20504,8 @@ window.JLPT_KANJI_DATA = {
         "level": "N1",
         "day": 81,
         "qIndex": 4,
-        "word": "原爆",
-        "reading": "げんばく"
+        "word": "爆発",
+        "reading": "ばくはつ"
       }
     },
     {

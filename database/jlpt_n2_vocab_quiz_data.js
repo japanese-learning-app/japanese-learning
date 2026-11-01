@@ -30886,8 +30886,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "インフレ",
-    "question": "第二次世界大戦後、日本は激しい（　　　）になった。",
-    "question_ruby": "<ruby>第二次世界大戦<rt>だいにじせかいたいせん</rt></ruby><ruby>後<rt>のち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>激しい<rt>はげしい</rt></ruby>（　　　）になった。",
+    "question": "原油や穀物の価格高騰が続き、市場は激しい（　　　）になった。",
+    "question_ruby": "<ruby>原油<rt>げんゆ</rt></ruby>や<ruby>穀物<rt>こくもつ</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby><ruby>高騰<rt>こうとう</rt></ruby>が<ruby>続き<rt>つづき</rt></ruby>、<ruby>市場<rt>しじょう</rt></ruby>は<ruby>激しい<rt>はげしい</rt></ruby>（　　　）になった。",
     "choices": [
       "ショック",
       "ダウン",
