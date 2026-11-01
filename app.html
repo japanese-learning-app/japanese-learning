@@ -3405,16 +3405,16 @@ rt {
             <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
               <!-- ひらがな: 練習 / テスト -->
               <div style="display:inline-flex; align-items:center; gap:4px; background:#F8FAFC; border:1.5px solid #CBD5E1; padding:4px 8px; border-radius:10px;">
-                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">ひらがな:</span>
-                <button class="quiz-level-pill active" id="btn-mode-hira-trace" onclick="selectKanaMode('hiragana', 'trace')">練習</button>
-                <button class="quiz-level-pill" id="btn-mode-hira-quiz" onclick="selectKanaMode('hiragana', 'quiz')">テスト</button>
+                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">ひらがな (Hiragana):</span>
+                <button class="quiz-level-pill active" id="btn-mode-hira-trace" onclick="selectKanaMode('hiragana', 'trace')">練習 (Practice)</button>
+                <button class="quiz-level-pill" id="btn-mode-hira-quiz" onclick="selectKanaMode('hiragana', 'quiz')">テスト (Quiz)</button>
               </div>
 
               <!-- カタカナ: 練習 / テスト -->
               <div style="display:inline-flex; align-items:center; gap:4px; background:#F8FAFC; border:1.5px solid #CBD5E1; padding:4px 8px; border-radius:10px;">
-                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">カタカナ:</span>
-                <button class="quiz-level-pill" id="btn-mode-kata-trace" onclick="selectKanaMode('katakana', 'trace')">練習</button>
-                <button class="quiz-level-pill" id="btn-mode-kata-quiz" onclick="selectKanaMode('katakana', 'quiz')">テスト</button>
+                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">カタカナ (Katakana):</span>
+                <button class="quiz-level-pill" id="btn-mode-kata-trace" onclick="selectKanaMode('katakana', 'trace')">練習 (Practice)</button>
+                <button class="quiz-level-pill" id="btn-mode-kata-quiz" onclick="selectKanaMode('katakana', 'quiz')">テスト (Quiz)</button>
               </div>
             </div>
           </div>
@@ -7431,7 +7431,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     retryMissed() {
       const missed = this.questions.filter((_, idx) => this.answers[idx] === false);
       if (missed.length === 0) {
-        alert('まちがえた文字はありません！全問正解です🎉');
+        alert('No missed characters! Perfect score! 🎉');
         return;
       }
       this.questions = missed;
@@ -7454,13 +7454,14 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       const container = document.getElementById(this.containerId);
       if (!container) return;
 
-      const typeLabel = (this.currentType === 'hiragana') ? 'ひらがな' : 'カタカナ';
-      const catLabels = {
-        all: 'すべて',
-        seion: '五十音（清音）',
-        dakuon: '濁音・半濁音',
-        youon: '拗音',
-        tokushu: '特殊音'
+      const isHira = (this.currentType === 'hiragana');
+      const typeLabelEn = isHira ? 'Hiragana' : 'Katakana';
+      const catLabelsEn = {
+        all: 'All',
+        seion: 'Basic (46)',
+        dakuon: 'Dakuon (25)',
+        youon: 'Combos (33)',
+        tokushu: 'Special (24)'
       };
 
       let correctCount = 0;
@@ -7478,59 +7479,59 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         container.innerHTML = `
           <div style="background:#F8FAFC; border:1.5px solid #E2E8F0; border-radius:16px; padding:24px; text-align:center;">
             <div style="font-size:2.8rem; margin-bottom:8px;">${pct >= 80 ? '🎉' : '💪'}</div>
-            <div style="font-size:1.3rem; font-weight:800; color:#1E293B;">テスト完了！ お疲れさまでした！</div>
+            <div style="font-size:1.3rem; font-weight:800; color:#1E293B;">Quiz Completed! Great job!</div>
             <div style="font-size:0.9rem; color:#64748B; margin-top:4px;">
-              【${typeLabel} / ${catLabels[this.currentCategory]}】 全 ${total} 問
+              【${typeLabelEn} / ${catLabelsEn[this.currentCategory] || 'All'}】 Total ${total} Questions
             </div>
 
-            <!-- スコア表示 -->
+            <!-- Score Cards -->
             <div style="display:flex; justify-content:center; gap:20px; margin:20px 0; flex-wrap:wrap;">
               <div style="background:white; border:1.5px solid #86EFAC; border-radius:12px; padding:12px 24px; text-align:center; min-width:110px;">
-                <div style="font-size:0.78rem; font-weight:800; color:#15803D;">⭕ 正解数</div>
+                <div style="font-size:0.78rem; font-weight:800; color:#15803D;">⭕ Correct</div>
                 <div style="font-size:1.8rem; font-weight:900; color:#16A34A; margin-top:2px;">${correctCount}</div>
               </div>
               <div style="background:white; border:1.5px solid #FCA5A5; border-radius:12px; padding:12px 24px; text-align:center; min-width:110px;">
-                <div style="font-size:0.78rem; font-weight:800; color:#B91C1C;">❌ まちがい</div>
+                <div style="font-size:0.78rem; font-weight:800; color:#B91C1C;">❌ Incorrect</div>
                 <div style="font-size:1.8rem; font-weight:900; color:#DC2626; margin-top:2px;">${wrongCount}</div>
               </div>
               <div style="background:white; border:1.5px solid #93C5FD; border-radius:12px; padding:12px 24px; text-align:center; min-width:110px;">
-                <div style="font-size:0.78rem; font-weight:800; color:#1D4ED8;">正解率</div>
+                <div style="font-size:0.78rem; font-weight:800; color:#1D4ED8;">Accuracy</div>
                 <div style="font-size:1.8rem; font-weight:900; color:#2563EB; margin-top:2px;">${pct}%</div>
               </div>
             </div>
 
             ${missedList.length > 0 ? `
-              <!-- まちがえた文字の復習リスト -->
+              <!-- Missed characters review -->
               <div style="background:white; border:1.5px solid #FECACA; border-radius:14px; padding:16px; margin:20px auto; max-width:600px; text-align:left;">
                 <div style="font-size:0.88rem; font-weight:800; color:#991B1B; margin-bottom:10px; display:flex; align-items:center; justify-content:space-between;">
-                  <span>❌ 間違えた文字（タップでなぞり書き練習）</span>
-                  <span style="font-size:0.76rem; color:#B91C1C; font-weight:700;">${missedList.length} 文字</span>
+                  <span>❌ Missed Characters (Tap to practice tracing)</span>
+                  <span style="font-size:0.76rem; color:#B91C1C; font-weight:700;">${missedList.length} Characters</span>
                 </div>
                 <div style="display:flex; flex-wrap:wrap; gap:8px;">
                   ${missedList.map(item => `
-                    <div onclick="KanaWritingQuiz.practiceTraceChar('${item.char}', '${item.romaji}')" style="background:#FEF2F2; border:1.5px solid #F87171; border-radius:8px; padding:6px 12px; display:flex; align-items:center; gap:8px; cursor:pointer;" title="なぞり書き練習へ">
+                    <div onclick="KanaWritingQuiz.practiceTraceChar('${item.char}', '${item.romaji}')" style="background:#FEF2F2; border:1.5px solid #F87171; border-radius:8px; padding:6px 12px; display:flex; align-items:center; gap:8px; cursor:pointer;" title="Practice tracing">
                       <span style="font-size:1.3rem; font-weight:800; color:#991B1B;">${item.char}</span>
                       <span style="font-size:0.75rem; color:#7F1D1D;">[ ${item.romaji} ]</span>
-                      <span style="font-size:0.72rem; color:#DC2626; font-weight:700;">✍ 練習</span>
+                      <span style="font-size:0.72rem; color:#DC2626; font-weight:700;">✍ Practice</span>
                     </div>
                   `).join('')}
                 </div>
               </div>
             ` : `
               <div style="background:#F0FDF4; border:1.5px solid #86EFAC; border-radius:12px; padding:14px; margin:16px auto; max-width:500px; color:#15803D; font-weight:700;">
-                🎉 すばらしい！ 満点達成です！ 自信を持って次のステップに進みましょう！
+                🎉 Outstanding! Perfect score! Keep up the great work!
               </div>
             `}
 
-            <!-- 操作ボタン -->
+            <!-- Action buttons -->
             <div style="display:flex; justify-content:center; gap:12px; margin-top:20px; flex-wrap:wrap;">
               ${missedList.length > 0 ? `
                 <button onclick="KanaWritingQuiz.retryMissed()" style="background:#DC2626; color:white; border:none; padding:10px 20px; border-radius:10px; font-weight:800; font-size:0.92rem; cursor:pointer; box-shadow:0 2px 6px rgba(220,38,38,0.25);">
-                  ❌ まちがえた文字だけ再テスト
+                  ❌ Retest Missed Only
                 </button>
               ` : ''}
               <button onclick="KanaWritingQuiz.startQuiz()" style="background:var(--kobe-blue); color:white; border:none; padding:10px 20px; border-radius:10px; font-weight:800; font-size:0.92rem; cursor:pointer; box-shadow:0 2px 6px rgba(29,78,216,0.25);">
-                ↺ もう一度最初からテスト
+                ↺ Retake Quiz
               </button>
             </div>
           </div>
@@ -7539,64 +7540,67 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       }
 
       if (this.questions.length === 0) {
-        container.innerHTML = '<div style="padding:40px; text-align:center; color:#64748B;">出題可能な文字がありません。</div>';
+        container.innerHTML = '<div style="padding:40px; text-align:center; color:#64748B;">No questions available for this category.</div>';
         return;
       }
 
       const q = this.questions[this.currentIndex];
       const isFirst = (this.currentIndex === 0);
       const isLast = (this.currentIndex === this.questions.length - 1);
+      const maxAllCount = isHira ? 104 : 128;
 
       container.innerHTML = `
         <div style="display:flex; flex-direction:column; gap:14px;">
-          <!-- テスト設定ツールバー (文字種・出題範囲・出題順序) -->
+          <!-- Toolbar: Script / Scope / Order in English -->
           <div style="background:#F8FAFC; border:1.5px solid #E2E8F0; border-radius:14px; padding:12px 16px; display:flex; flex-direction:column; gap:10px;">
-            <!-- 1行目: 文字種 ＆ 出題範囲 -->
+            <!-- Line 1: Script & Scope -->
             <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;">
               <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
-                <span style="font-size:0.78rem; font-weight:800; color:#475569;">文字:</span>
+                <span style="font-size:0.78rem; font-weight:800; color:#475569;">Script:</span>
                 <div class="quiz-level-pills">
-                  <button class="quiz-level-pill ${this.currentType === 'hiragana' ? 'active' : ''}" onclick="KanaWritingQuiz.setType('hiragana')">ひらがな</button>
-                  <button class="quiz-level-pill ${this.currentType === 'katakana' ? 'active' : ''}" onclick="KanaWritingQuiz.setType('katakana')">カタカナ</button>
+                  <button class="quiz-level-pill ${this.currentType === 'hiragana' ? 'active' : ''}" onclick="KanaWritingQuiz.setType('hiragana')">Hiragana</button>
+                  <button class="quiz-level-pill ${this.currentType === 'katakana' ? 'active' : ''}" onclick="KanaWritingQuiz.setType('katakana')">Katakana</button>
                 </div>
               </div>
               <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
-                <span style="font-size:0.78rem; font-weight:800; color:#475569;">範囲:</span>
+                <span style="font-size:0.78rem; font-weight:800; color:#475569;">Scope:</span>
                 <div class="quiz-level-pills">
-                  <button class="quiz-level-pill ${this.currentCategory === 'all' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('all')">全文字 (${this.questions.length > 0 && this.currentCategory === 'all' && this.currentMode !== 'extract' ? this.questions.length : '128'})</button>
-                  <button class="quiz-level-pill ${this.currentCategory === 'seion' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('seion')">五十音</button>
-                  <button class="quiz-level-pill ${this.currentCategory === 'dakuon' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('dakuon')">濁音・半濁音</button>
-                  <button class="quiz-level-pill ${this.currentCategory === 'youon' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('youon')">拗音</button>
-                  <button class="quiz-level-pill ${this.currentCategory === 'tokushu' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('tokushu')">カタカナ特殊音</button>
+                  <button class="quiz-level-pill ${this.currentCategory === 'all' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('all')">All (${this.questions.length > 0 && this.currentCategory === 'all' && this.currentMode !== 'extract' ? this.questions.length : maxAllCount})</button>
+                  <button class="quiz-level-pill ${this.currentCategory === 'seion' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('seion')">Basic (46)</button>
+                  <button class="quiz-level-pill ${this.currentCategory === 'dakuon' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('dakuon')">Dakuon (25)</button>
+                  <button class="quiz-level-pill ${this.currentCategory === 'youon' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('youon')">Combos (33)</button>
+                  ${!isHira ? `
+                    <button class="quiz-level-pill ${this.currentCategory === 'tokushu' ? 'active' : ''}" onclick="KanaWritingQuiz.setCategory('tokushu')">Special (24)</button>
+                  ` : ''}
                 </div>
               </div>
             </div>
 
-            <!-- 2行目: 出題順序 (あから順番に / シャッフル / 抜粋で: 10問, 20問, 25問) -->
+            <!-- Line 2: Order / Mode in English -->
             <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; border-top:1px dashed #CBD5E1; padding-top:8px;">
               <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
-                <span style="font-size:0.78rem; font-weight:800; color:#475569;">出題形式:</span>
+                <span style="font-size:0.78rem; font-weight:800; color:#475569;">Order:</span>
                 <div class="quiz-level-pills">
-                  <button class="quiz-level-pill ${this.currentMode === 'sequential' ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('sequential')">あから順番に</button>
-                  <button class="quiz-level-pill ${this.currentMode === 'shuffle' ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('shuffle')">シャッフル</button>
-                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 10 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 10)">抜粋 10問</button>
-                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 20 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 20)">抜粋 20問</button>
-                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 25 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 25)">抜粋 25問</button>
+                  <button class="quiz-level-pill ${this.currentMode === 'sequential' ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('sequential')">In Order</button>
+                  <button class="quiz-level-pill ${this.currentMode === 'shuffle' ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('shuffle')">Shuffle</button>
+                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 10 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 10)">Quick 10</button>
+                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 20 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 20)">Quick 20</button>
+                  <button class="quiz-level-pill ${this.currentMode === 'extract' && this.extractCount === 25 ? 'active' : ''}" onclick="KanaWritingQuiz.setMode('extract', 25)">Quick 25</button>
                 </div>
               </div>
-              <button onclick="KanaWritingQuiz.startQuiz()" style="background:white; border:1px solid #CBD5E1; color:#475569; padding:4px 10px; border-radius:6px; font-size:0.75rem; font-weight:700; cursor:pointer;">
-                ↺ リセット
+              <button onclick="KanaWritingQuiz.startQuiz()" style="background:white; border:1px solid #CBD5E1; color:#475569; padding:4px 10px; border-radius:6px; font-size:0.75rem; font-weight:700; cursor:pointer;" title="Reset quiz to beginning">
+                ↺ Reset
               </button>
             </div>
           </div>
 
-          <!-- メインテストカード (MainichiKanjiQuiz と同様のデザイン) -->
+          <!-- Main Test Card -->
           <div style="background:white; border:1.5px solid var(--border-soft); border-radius:16px; padding:20px; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
-            <!-- 上部インフォバー: 問題数 ＆ スコア -->
+            <!-- Top info bar: Question number & Score -->
             <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; flex-wrap:wrap; gap:8px;">
               <div style="font-size:0.92rem; font-weight:800; color:#1E3A8A; display:flex; align-items:center; gap:8px;">
-                <span style="background:#EFF6FF; color:#1D4ED8; padding:2px 8px; border-radius:6px; font-size:0.8rem; border:1px solid #BFDBFE;">第 ${this.currentIndex + 1} / ${this.questions.length} 問</span>
-                <span>【${typeLabel}】を書いてみましょう</span>
+                <span style="background:#EFF6FF; color:#1D4ED8; padding:2px 8px; border-radius:6px; font-size:0.8rem; border:1px solid #BFDBFE;">Question ${this.currentIndex + 1} / ${this.questions.length}</span>
+                <span>Write in 【${typeLabelEn}】</span>
               </div>
               <div style="display:flex; align-items:center; gap:8px; font-size:0.82rem; font-weight:800;">
                 <span style="color:#16A34A; background:#DCFCE7; padding:2px 8px; border-radius:6px;">⭕ ${correctCount}</span>
@@ -7604,74 +7608,74 @@ Advice: Explanation in ${targetLangName} why it is corrected.
               </div>
             </div>
 
-            <!-- 問題出題ブロック: ローマ字と発音ボタン -->
+            <!-- Question Prompt Box: Romaji and Listen Button -->
             <div style="background:#EFF6FF; border:1.5px solid #BFDBFE; border-radius:14px; padding:16px 20px; display:flex; align-items:center; justify-content:space-between; margin-bottom:16px;">
               <div>
-                <div style="font-size:0.78rem; font-weight:800; color:#1E40AF; margin-bottom:2px;">発音・ローマ字:</div>
+                <div style="font-size:0.78rem; font-weight:800; color:#1E40AF; margin-bottom:2px;">Pronunciation / Romaji:</div>
                 <div style="font-size:2rem; font-weight:900; color:#1D4ED8; font-family:'Courier New', monospace; letter-spacing:1px;">
                   [ ${q.romaji} ]
                 </div>
               </div>
-              <button onclick="playGoogleTTS('${q.char}')" title="発音を聞く" style="background:white; border:1.5px solid #93C5FD; color:#1D4ED8; padding:8px 16px; border-radius:10px; font-size:0.95rem; font-weight:800; cursor:pointer; display:inline-flex; align-items:center; gap:6px; box-shadow:0 2px 4px rgba(0,0,0,0.05);" onmouseover="this.style.background='#DBEAFE'" onmouseout="this.style.background='white'">
-                🔊 発音を聞く
+              <button onclick="playGoogleTTS('${q.char}')" title="Listen to pronunciation" style="background:white; border:1.5px solid #93C5FD; color:#1D4ED8; padding:8px 16px; border-radius:10px; font-size:0.95rem; font-weight:800; cursor:pointer; display:inline-flex; align-items:center; gap:6px; box-shadow:0 2px 4px rgba(0,0,0,0.05);" onmouseover="this.style.background='#DBEAFE'" onmouseout="this.style.background='white'">
+                🔊 Listen
               </button>
             </div>
 
-            <!-- 丸っこいグレーの「解答」ボタン -->
+            <!-- Show Answer Button -->
             <button class="mainichi-btn-answer" id="kana-quiz-btn-answer" onclick="KanaWritingQuiz.toggleAnswer()" style="margin: 0 auto 14px; display:block;">
-              ${this.isAnswerRevealed ? '解答を隠す ＾' : '解答'}
+              ${this.isAnswerRevealed ? 'Hide Answer ＾' : 'Show Answer'}
             </button>
 
-            <!-- 手書きキャンバス枠 (田字格 220x220) -->
+            <!-- Drawing Canvas (220x220) -->
             <div style="display:flex; justify-content:center; margin-bottom:12px;">
               <div style="width:220px; height:220px; border:2px solid #94A3B8; border-radius:12px; background:white; position:relative; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-                <!-- 十字点線 -->
+                <!-- Guidelines -->
                 <div style="position:absolute; inset:0; pointer-events:none;">
                   <div style="position:absolute; top:50%; left:0; right:0; height:1px; border-top:1px dashed #BAE6FD;"></div>
                   <div style="position:absolute; left:50%; top:0; bottom:0; width:1px; border-left:1px dashed #BAE6FD;"></div>
                 </div>
-                <!-- 手書きCanvas -->
+                <!-- Interactive Drawing Canvas -->
                 <canvas id="kana-quiz-canvas" style="position:absolute; inset:0; width:100%; height:100%; touch-action:none; cursor:crosshair; z-index:2;"></canvas>
               </div>
             </div>
 
-            <!-- キャンバス下ツールバー [✕ 消去] [↺ 1画戻す] -->
+            <!-- Canvas tools: Clear & Undo -->
             <div style="display:flex; align-items:center; justify-content:center; gap:10px; margin-bottom:16px;">
-              <button class="mainichi-square-btn" title="全て消去" onclick="KanaWritingQuiz.clearCanvas()" style="width:40px; height:40px; font-size:1.1rem;">✕</button>
-              <button class="mainichi-square-btn" title="1画戻す" onclick="KanaWritingQuiz.undoCanvas()" style="width:40px; height:40px; font-size:1.1rem;">↺</button>
+              <button class="mainichi-square-btn" title="Clear canvas" onclick="KanaWritingQuiz.clearCanvas()" style="width:40px; height:40px; font-size:1.1rem;">✕</button>
+              <button class="mainichi-square-btn" title="Undo stroke" onclick="KanaWritingQuiz.undoCanvas()" style="width:40px; height:40px; font-size:1.1rem;">↺</button>
             </div>
 
-            <!-- 解答展開パネル (「解答」ボタンで開く) -->
+            <!-- Answer Expansion Panel -->
             ${this.isAnswerRevealed ? `
               <div style="background:#F0FDF4; border:2px solid #86EFAC; border-radius:14px; padding:16px 20px; margin-bottom:18px; animation:fadeIn 0.2s ease;">
                 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:14px; border-bottom:1px solid #BBF7D0; padding-bottom:10px;">
                   <div style="display:flex; align-items:center; gap:12px;">
-                    <span style="font-size:2.8rem; font-weight:900; color:#15803D; font-family:${this.currentType === 'hiragana' ? "'Klee One', cursive" : 'inherit'}; line-height:1;">${q.char}</span>
+                    <span style="font-size:2.8rem; font-weight:900; color:#15803D; font-family:${isHira ? "'Klee One', cursive" : 'inherit'}; line-height:1;">${q.char}</span>
                     <span style="font-size:1.1rem; font-weight:700; color:#166534;">[ ${q.romaji} ]</span>
-                    <button onclick="playGoogleTTS('${q.char}')" title="発音を聞く" style="background:white; border:1px solid #86EFAC; border-radius:8px; font-size:0.95rem; cursor:pointer; padding:3px 10px; color:#15803D;">
+                    <button onclick="playGoogleTTS('${q.char}')" title="Listen" style="background:white; border:1px solid #86EFAC; border-radius:8px; font-size:0.95rem; cursor:pointer; padding:3px 10px; color:#15803D;">
                       🔊
                     </button>
                   </div>
                   <button onclick="KanaWritingQuiz.practiceTraceChar('${q.char}', '${q.romaji}')" style="background:white; border:1.5px solid #86EFAC; color:#15803D; padding:6px 12px; border-radius:8px; font-weight:800; font-size:0.8rem; cursor:pointer;">
-                    ✍ なぞり練習へ
+                    ✍ Practice Tracing
                   </button>
                 </div>
 
-                <!-- 自己採点バー -->
+                <!-- Self-check buttons -->
                 <div class="mainichi-self-check-bar" style="margin-top:0;">
-                  <button class="btn-check-ok" onclick="KanaWritingQuiz.mark(true)">⭕ 正解した！</button>
-                  <button class="btn-check-ng" onclick="KanaWritingQuiz.mark(false)">❌ まちがえた（復習に追加）</button>
+                  <button class="btn-check-ok" onclick="KanaWritingQuiz.mark(true)">⭕ Correct</button>
+                  <button class="btn-check-ng" onclick="KanaWritingQuiz.mark(false)">❌ Need Review</button>
                 </div>
               </div>
             ` : ''}
 
-            <!-- ナビゲーションバー (前へ・次へ) -->
+            <!-- Navigation bar -->
             <div class="mainichi-nav-bar" style="margin-top:10px;">
               <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.prev()" ${isFirst ? 'disabled' : ''}>
-                ◀ 前の問題
+                ◀ Previous
               </button>
               <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.next()">
-                ${isLast ? '結果を見る ▶' : '次の問題 ▶'}
+                ${isLast ? 'View Results ▶' : 'Next Question ▶'}
               </button>
             </div>
           </div>
