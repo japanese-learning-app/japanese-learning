@@ -229,6 +229,12 @@
   /**
    * 漢字とレベルに応じた最適な例文を取得する関数
    */
+  function formatRubyText(text) {
+    if (!text) return "";
+    if (text.includes("<ruby>")) return text;
+    return text.replace(/([一-龯々仝〆〇ヶ]+)[（\(]([ぁ-んァ-ヶー]+)[）\)]/g, "<ruby>$1<rt>$2</rt></ruby>");
+  }
+
   function getKanjiExamples(char, level) {
     // 1. プリセット辞書をチェック
     if (PRESET_KANJI_EXAMPLES && PRESET_KANJI_EXAMPLES[char]) {
@@ -482,26 +488,32 @@
             <!-- レベルに合わせた例文セクション -->
             <div class="kanji-examples-section">
               <div class="kanji-examples-header">
-                <span style="display:flex; align-items:center; gap:5px;">
+                <span style="display:flex; align-items:center; gap:8px;">
                   <span>📖</span> <span>【${lvl}】の言葉・使い方例文</span>
+                  <button type="button" class="furigana-toggle-btn ${typeof isFuriganaEnabled !== 'undefined' && isFuriganaEnabled ? 'active' : ''}" onclick="toggleFurigana()" style="padding:2px 8px; font-size:0.72rem; border-radius:6px; display:inline-flex; align-items:center; gap:4px; cursor:pointer;" title="ふりがなの表示/非表示を切り替え">
+                    <span class="furigana-status-dot"></span>
+                    <span class="furigana-btn-text">${typeof isFuriganaEnabled !== 'undefined' && isFuriganaEnabled ? 'ふりがな ON' : 'ふりがな OFF'}</span>
+                  </button>
                 </span>
                 <span style="font-size:0.75rem; font-weight:700; color:#0284C7;">${examples.length}件</span>
               </div>
               ${examples.map(ex => {
-                const escapedJa = ex.ja.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+                const escapedJa = (ex.ja || "").replace(/'/g, "\\x27").replace(/"/g, "&quot;");
+                const rubyJa = formatRubyText(ex.ja);
+                const rubyWord = formatRubyText(ex.word);
                 return `
                   <div class="kanji-example-card">
                     <div class="kanji-example-word-row">
-                      <span class="kanji-example-word">${ex.word}</span>
+                      <span class="kanji-example-word">${rubyWord}</span>
                       <button class="kanji-example-audio-btn" onclick="playGoogleTTS('${escapedJa}')" title="音声を聴く">
                         🔊 発音
                       </button>
                     </div>
-                    <div class="kanji-example-ja">${ex.ja}</div>
-                    ${ex.en ? `<div class="kanji-example-en">${ex.en}</div>` : ''}
+                    <div class="kanji-example-ja">${rubyJa}</div>
+                    ${ex.en ? `<div class="kanji-example-en">${ex.en}</div>` : ""}
                   </div>
                 `;
-              }).join('')}
+              }).join("")}
             </div>
 
             <div class="kanji-credits-note" style="text-align:center; font-size:0.72rem; color:#94A3B8; margin-top:4px;">
@@ -875,6 +887,7 @@
       const container = document.getElementById(this.containerId);
       if (!container) return;
 
+      const lvlData = this.getLevelData();
       const days = this.getDays();
       const questions = this.getCurrentDayQuestions();
 
@@ -1005,8 +1018,14 @@
 
                 <!-- 例文（ふりがな付き） ＆ その日本語訳 (ユーザー要望反映) -->
                 <div class="mainichi-example-card" style="background:#FFFFFF; border:1.5px solid #BAE6FD; border-radius:12px; padding:12px 16px; margin:12px 0 14px; box-shadow:0 1px 4px rgba(0,0,0,0.03);">
-                  <div style="font-size:0.8rem; font-weight:800; color:#0284C7; margin-bottom:6px; display:flex; align-items:center; justify-content:space-between;">
-                    <span>📖 例文（ふりがな付き）</span>
+                  <div style="font-size:0.8rem; font-weight:800; color:#0284C7; margin-bottom:6px; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px;">
+                    <div style="display:flex; align-items:center; gap:8px;">
+                      <span>📖 例文</span>
+                      <button type="button" class="furigana-toggle-btn ${typeof isFuriganaEnabled !== 'undefined' && isFuriganaEnabled ? 'active' : ''}" onclick="toggleFurigana()" style="padding:2px 8px; font-size:0.75rem; border-radius:6px; display:inline-flex; align-items:center; gap:4px; cursor:pointer;" title="ふりがな（ルビ）の表示・非表示を切り替え">
+                        <span class="furigana-status-dot"></span>
+                        <span class="furigana-btn-text">${typeof isFuriganaEnabled !== 'undefined' && isFuriganaEnabled ? 'ふりがな ON' : 'ふりがな OFF'}</span>
+                      </button>
+                    </div>
                     <button onclick="playGoogleTTS('${(q.fullSentence || cleanSent).replace(/'/g, "\\'")}')" title="例文の音声を再生" style="background:#EFF6FF; border:1px solid #BFDBFE; border-radius:6px; font-size:0.84rem; padding:2px 8px; color:#1D4ED8; cursor:pointer;">
                       🔊 例文を聞く
                     </button>
