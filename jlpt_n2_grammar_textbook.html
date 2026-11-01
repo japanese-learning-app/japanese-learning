@@ -445,6 +445,464 @@
       padding-bottom: 60px;
     }
 
+    /* Bilingual Text Enhancements */
+    .brand-title-en {
+      font-size: 13px;
+      font-weight: 600;
+      color: #EDF7F9;
+      opacity: 0.9;
+      margin-left: 6px;
+    }
+    .btn-sub-en {
+      font-size: 10.5px;
+      opacity: 0.85;
+    }
+    .filter-en {
+      font-size: 10px;
+      opacity: 0.85;
+    }
+    .progress-label-en {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 500;
+      margin-left: 4px;
+    }
+    .cat-group-heading {
+      font-size: 11.5px;
+      font-weight: 800;
+      color: #8A6570;
+      margin: 14px 4px 6px;
+      letter-spacing: 0.04em;
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .cat-group-en {
+      font-size: 10.5px;
+      font-weight: 600;
+      color: #94A3B8;
+    }
+    .cat-unit-title {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: var(--text-primary);
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      flex: 1;
+      min-width: 0;
+    }
+    .cat-unit-name-ja {
+      flex-shrink: 0;
+    }
+    .cat-unit-name-en {
+      font-size: 11px;
+      font-weight: 600;
+      color: #64748B;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      flex: 1;
+      min-width: 0;
+    }
+    .cat-grammar-item {
+      padding: 8px 12px 8px 16px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+      background: #FFFFFF;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      transition: all 0.15s;
+      border-bottom: 1px solid rgba(240, 240, 240, 0.7);
+    }
+    .cat-grammar-item:hover {
+      background: var(--sakura-pink-soft);
+      color: var(--primary-blue-dark);
+      padding-left: 20px;
+    }
+    .cat-grammar-item.active {
+      background: var(--primary-blue-pale) !important;
+      color: var(--primary-blue-dark);
+      font-weight: 800;
+      border-left: 4px solid var(--primary-blue);
+    }
+    .cat-grammar-info {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      min-width: 0;
+      flex: 1;
+    }
+    .cat-grammar-ja {
+      font-weight: 700;
+      font-size: 13px;
+      color: var(--text-primary);
+      flex-shrink: 0;
+    }
+    .cat-grammar-en {
+      font-size: 11px;
+      color: #64748B;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      flex: 1;
+      min-width: 0;
+    }
+    .cat-grammar-item.active .cat-grammar-ja {
+      color: var(--primary-blue-dark);
+    }
+    .cat-grammar-item.active .cat-grammar-en {
+      color: var(--primary-blue);
+      font-weight: 600;
+      opacity: 0.95;
+    }
+
+    /* Weakness Drill Button in Sidebar */
+    .sidebar-weakness-box {
+      padding: 0 16px 12px 16px;
+    }
+    .btn-weakness-trigger {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 9px 12px;
+      background: linear-gradient(135deg, #FFF1F2 0%, #FFE4E6 100%);
+      border: 1px solid #FECDD3;
+      border-radius: 10px;
+      color: #BE123C;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      box-shadow: 0 2px 6px rgba(190, 18, 60, 0.08);
+    }
+    .btn-weakness-trigger:hover {
+      background: linear-gradient(135deg, #FFE4E6 0%, #FECDD3 100%);
+      transform: translateY(-1px);
+    }
+    .weakness-btn-title {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+    }
+    .weakness-btn-en {
+      font-size: 10.5px;
+      font-weight: 600;
+      opacity: 0.85;
+    }
+    .weakness-count-pill {
+      font-size: 11px;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 10px;
+      background: #BE123C;
+      color: #FFFFFF;
+      transition: all 0.2s;
+    }
+    .weakness-count-pill.zero {
+      background: #E2E8F0;
+      color: #64748B;
+    }
+
+    /* Sticky Bottom Navigation */
+    .sticky-bottom-nav {
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(255, 255, 255, 0.96);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding: 8px 16px;
+      border-radius: 40px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.16);
+      border: 1px solid rgba(25, 149, 173, 0.3);
+      max-width: 94vw;
+      animation: slideUpFade 0.25s ease-out;
+    }
+    @keyframes slideUpFade {
+      from { opacity: 0; transform: translate(-50%, 20px); }
+      to { opacity: 1; transform: translate(-50%, 0); }
+    }
+    .sticky-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 8px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--primary-blue-border);
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .sticky-nav-btn:hover:not(:disabled) {
+      background: var(--primary-blue);
+      color: #FFFFFF;
+      border-color: var(--primary-blue);
+    }
+    .sticky-nav-btn:disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+    }
+    .sticky-nav-center {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .sticky-lesson-title {
+      font-size: 13px;
+      font-weight: 800;
+      color: var(--text-primary);
+      white-space: nowrap;
+      max-width: 170px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .sticky-actions {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .sticky-action-pill {
+      padding: 5px 11px;
+      font-size: 11.5px;
+      font-weight: 700;
+      border-radius: 12px;
+      border: 1px solid #CBD5E1;
+      background: #F8FAFC;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .sticky-action-pill:hover {
+      border-color: var(--primary-blue);
+      color: var(--primary-blue-dark);
+    }
+    .sticky-action-pill.active-master {
+      background: #DCFCE7 !important;
+      color: #15803D !important;
+      border-color: #86EFAC !important;
+    }
+    .sticky-action-pill.active-star {
+      background: #FEF3C7 !important;
+      color: #B45309 !important;
+      border-color: #FCD34D !important;
+    }
+
+    /* Audio Shadowing Controls in Examples Section */
+    .examples-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .examples-header-row .section-tag {
+      margin-bottom: 0;
+    }
+    .btn-shadowing-play {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      background: #F0FDF4;
+      border: 1px solid #86EFAC;
+      color: #15803D;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-shadowing-play:hover {
+      background: #DCFCE7;
+      transform: translateY(-1px);
+    }
+    .btn-shadowing-play.is-playing {
+      background: #FEF2F2 !important;
+      border-color: #FCA5A5 !important;
+      color: #B91C1C !important;
+      animation: pulseGlow 1.5s infinite;
+    }
+    @keyframes pulseGlow {
+      0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+      70% { box-shadow: 0 0 0 8px rgba(239, 68, 68, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+    }
+    .example-item-card.is-active-audio {
+      border-color: #10B981 !important;
+      background: #F0FDF4 !important;
+      transform: scale(1.01);
+      box-shadow: 0 4px 16px rgba(16, 185, 129, 0.15);
+    }
+
+    /* Active Recall Mode for Contrast Cards */
+    .trap-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .btn-test-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 16px;
+      background: #FFFBEB;
+      border: 1px solid #FCD34D;
+      color: #92400E;
+      font-size: 11.5px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-test-toggle:hover {
+      background: #FEF3C7;
+    }
+    .btn-test-toggle.active {
+      background: #92400E;
+      color: #FFFFFF;
+      border-color: #92400E;
+    }
+    .masked-reason-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      background: #FEF3C7;
+      border: 1px dashed #D97706;
+      border-radius: 8px;
+      color: #92400E;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .masked-reason-btn:hover {
+      background: #FDE68A;
+      transform: scale(1.02);
+    }
+
+    /* Weakness Drill Modal */
+    .modal-weakness-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.65);
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px);
+      z-index: 3000;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .modal-weakness-overlay.open {
+      display: flex;
+    }
+    .modal-weakness-window {
+      background: #FFFFFF;
+      border-radius: 16px;
+      max-width: 680px;
+      width: 100%;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 45px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      animation: modalScaleIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @keyframes modalScaleIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    .modal-weakness-head {
+      padding: 16px 20px;
+      background: linear-gradient(135deg, #FFF1F2 0%, #FFE4E6 100%);
+      border-bottom: 1px solid #FECDD3;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .modal-weakness-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 15px;
+      font-weight: 800;
+      color: #BE123C;
+    }
+    .modal-weakness-body {
+      padding: 20px;
+      overflow-y: auto;
+      flex: 1;
+    }
+    .weakness-empty-state {
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .weakness-empty-icon {
+      font-size: 48px;
+      margin-bottom: 12px;
+    }
+    .weakness-empty-title {
+      font-size: 17px;
+      font-weight: 800;
+      color: var(--text-primary);
+      margin-bottom: 6px;
+    }
+    .weakness-empty-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+    .weakness-drill-card {
+      margin-bottom: 16px;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 12px;
+      padding: 16px;
+      background: #FFFFFF;
+    }
+    .weakness-card-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .weakness-grammar-tag {
+      font-size: 11.5px;
+      font-weight: 700;
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      padding: 3px 8px;
+      border-radius: 8px;
+    }
+    .nav-sub-en {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 500;
+      margin-left: 4px;
+    }
+
     /* Lesson Entry Card */
     .lesson-card {
       background: var(--card-bg);
@@ -1652,10 +2110,10 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="brand-wrap">
-        <button class="btn-mobile-sidebar" id="btnOpenSidebar">☰ 目次</button>
-        <a href="jlpt_practice.html" class="header-btn" title="JLPT総合ポータルへ戻る">← 演習ポータル</a>
+        <button class="btn-mobile-sidebar" id="btnOpenSidebar">☰ 目次 <span class="btn-sub-en">(Menu)</span></button>
+        <a href="jlpt_practice.html" class="header-btn" title="JLPT総合ポータルへ戻る">← 演習ポータル <span class="btn-sub-en">(Portal)</span></a>
         <div class="brand-title">
-          <span>📖 JLPT 文法マスターテキスト</span>
+          <span>📖 JLPT 文法マスターテキスト <span class="brand-title-en">(Grammar Master Textbook)</span></span>
           <span class="badge-n2">N2</span>
         </div>
       </div>
@@ -1665,8 +2123,8 @@
           <span class="toggle-label inactive" id="toggleOff">ふりがな OFF</span>
           <span class="toggle-label active" id="toggleOn">ふりがな ON</span>
         </div>
-        <button class="header-btn" id="btnHeaderDictSearch" title="内蔵辞書を検索">🔍 辞書検索</button>
-        <a href="app.html" class="header-btn" title="ホーム画面へ">🏠 ホーム</a>
+        <button class="header-btn" id="btnHeaderDictSearch" title="内蔵辞書を検索">🔍 辞書検索 <span class="btn-sub-en">(Dict)</span></button>
+        <a href="app.html" class="header-btn" title="ホーム画面へ">🏠 ホーム <span class="btn-sub-en">(Home)</span></a>
       </div>
     </div>
   </header>
@@ -1685,25 +2143,36 @@
       <!-- Search -->
       <div class="sidebar-search-box">
         <span class="sidebar-search-icon">🔍</span>
-        <input type="text" class="sidebar-search-input" id="sidebarSearchInput" placeholder="文法・読み・意味を検索...">
+        <input type="text" class="sidebar-search-input" id="sidebarSearchInput" placeholder="文法・読み・意味を検索 (Search grammar, meaning...)">
       </div>
 
       <!-- Filter Tabs -->
       <div class="sidebar-filter-tabs">
-        <button class="sidebar-filter-btn active" data-filter="all" id="tabFilterAll">すべて (<span id="countAll">195</span>)</button>
-        <button class="sidebar-filter-btn" data-filter="star" id="tabFilterStar">⭐ 復習 (<span id="countStar">0</span>)</button>
-        <button class="sidebar-filter-btn" data-filter="done" id="tabFilterDone">✓ 読了 (<span id="countDone">0</span>)</button>
+        <button class="sidebar-filter-btn active" data-filter="all" id="tabFilterAll">すべて <span class="filter-en">(All)</span> (<span id="countAll">195</span>)</button>
+        <button class="sidebar-filter-btn" data-filter="star" id="tabFilterStar">⭐ 復習 <span class="filter-en">(Review)</span> (<span id="countStar">0</span>)</button>
+        <button class="sidebar-filter-btn" data-filter="done" id="tabFilterDone">✓ 読了 <span class="filter-en">(Done)</span> (<span id="countDone">0</span>)</button>
       </div>
 
       <!-- Progress -->
       <div class="sidebar-progress-box">
         <div class="progress-labels">
-          <span>読了状況</span>
+          <span>読了状況 <span class="progress-label-en">(Reading Progress)</span></span>
           <span id="progressText">0 / 195 (0%)</span>
         </div>
         <div class="progress-bar-bg">
           <div class="progress-bar-fill" id="progressBarFill"></div>
         </div>
+      </div>
+
+      <!-- Weakness Drill Trigger Banner -->
+      <div class="sidebar-weakness-box">
+        <button type="button" class="btn-weakness-trigger" id="btnOpenWeaknessModal" onclick="openWeaknessModal()" title="間違えた苦手問題をまとめて復習">
+          <div class="weakness-btn-title">
+            <span>🎯 苦手・弱点特訓</span>
+            <span class="weakness-btn-en">(Weakness Drill)</span>
+          </div>
+          <span class="weakness-count-pill zero" id="weaknessCountBadge">0問</span>
+        </button>
       </div>
 
       <!-- Categories & Grammars Accordion List -->
@@ -1748,6 +2217,42 @@
         <div id="modalDictResultContent"></div>
       </div>
     </div>
+  </div>
+
+  <!-- Weakness Drill Modal -->
+  <div class="modal-weakness-overlay" id="modalWeaknessOverlay">
+    <div class="modal-weakness-window">
+      <div class="modal-weakness-head">
+        <div class="modal-weakness-title">
+          <span>🎯 苦手・弱点克服ランダム特訓 (Weakness Drill)</span>
+        </div>
+        <button type="button" class="modal-dict-close-btn" onclick="closeWeaknessModal()" aria-label="閉じる">✕</button>
+      </div>
+      <div class="modal-weakness-body" id="modalWeaknessBody">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Sticky Bottom Navigation Bar -->
+  <div class="sticky-bottom-nav" id="stickyBottomNav">
+    <button class="sticky-nav-btn" id="stickyBtnPrev" onclick="navigateLesson(-1)">
+      ← <span id="stickyPrevLabel">前へ (Prev)</span>
+    </button>
+    <div class="sticky-nav-center">
+      <span class="sticky-lesson-title" id="stickyLessonTitle"></span>
+      <div class="sticky-actions">
+        <button class="sticky-action-pill" id="stickyBtnBookmark" onclick="toggleBookmark(currentGid)" title="復習リストに追加/解除">
+          ⭐ 復習
+        </button>
+        <button class="sticky-action-pill" id="stickyBtnMastered" onclick="toggleMastered(currentGid)" title="読了済みにする">
+          ✓ 読了
+        </button>
+      </div>
+    </div>
+    <button class="sticky-nav-btn" id="stickyBtnNext" onclick="navigateLesson(1)">
+      <span id="stickyNextLabel">次へ (Next)</span> →
+    </button>
   </div>
 
   <!-- Scripts -->
@@ -1906,6 +2411,34 @@
       191: 'ようではないか', 192: 'ようか〜まいか', 193: 'ようするに', 194: 'ざるをえない', 195: 'ずにすむ'
     };
 
+    // Clean English Overrides for any truncated or awkward meanings
+    const GRAMMAR_ENGLISH_OVERRIDES = {
+      9: 'precisely because; as expected of',
+      17: 'far from; let alone; anything but',
+      33: 'abruptly; suddenly; all of a sudden',
+      34: 'in one go; all at once; without stopping',
+      36: 'what is called; so-called; so to speak',
+      38: 'for the sake of; from the standpoint of; upon',
+      40: 'just when; no sooner than',
+      41: 'just as; no sooner than; right after',
+      67: 'it’s only natural; naturally',
+      80: 'in the midst of; while',
+      86: 'at the time of; on the occasion of',
+      100: 'on the occasion of; when; at the time of',
+      105: 'whether A or B; regardless of whether',
+      113: 'despite; in spite of; nevertheless',
+      117: 'according to; from the viewpoint of',
+      126: 'regardless of; irrespective of',
+      139: 'gradually; step by step; little by little',
+      150: 'at once; immediately; directly',
+      157: 'even to the extent of; go so far as to',
+      160: 'natural; as a matter of course',
+      168: 'that is to say; in other words',
+      182: 'not to mention; let alone',
+      186: 'such things as A and B; and so on',
+      187: 'very; greatly; considerably'
+    };
+
     // Grammar Dictionary extracted from JLPT_N2_QUIZ_DATA
     const grammarMap = new Map();
     const grammarQuestionsMap = new Map();
@@ -1919,7 +2452,7 @@
             name: q.grammar,
             reading: q.reading || '',
             reading_hiragana: GRAMMAR_HIRAGANA_MAP[gid] || '',
-            meaning_en: q.meaning_en || '',
+            meaning_en: GRAMMAR_ENGLISH_OVERRIDES[gid] || q.meaning_en || '',
             similar: q.similar || '',
             sample_sentence_ja: q.sentence_jp_ruby || q.sentence_jp,
             sample_sentence_en: q.sentence_en || ''
@@ -2047,7 +2580,13 @@
           currentGroup = unit.group;
           const groupHead = document.createElement('div');
           groupHead.className = 'cat-group-heading';
-          groupHead.textContent = currentGroup;
+          const groupEn = currentGroup.includes('基礎') 
+            ? 'Foundations (Must-Know Basics)' 
+            : 'Advanced (Essential for Passing)';
+          groupHead.innerHTML = `
+            <span class="cat-group-ja">${currentGroup}</span>
+            <span class="cat-group-en">(${groupEn})</span>
+          `;
           container.appendChild(groupHead);
         }
 
@@ -2083,7 +2622,8 @@
         unitHeader.className = 'cat-unit-header';
         unitHeader.innerHTML = `
           <div class="cat-unit-title">
-            <span>${unit.name}</span>
+            <span class="cat-unit-name-ja">${unit.name}</span>
+            <span class="cat-unit-name-en">(${unit.name_en || ''})</span>
           </div>
           <span class="cat-unit-count">${filteredGids.length}</span>
         `;
@@ -2109,8 +2649,14 @@
             badgesHtml += '<span class="badge-star-icon" title="復習リスト">⭐</span>';
           }
 
+          const shortEn = formatSidebarEn(g.meaning_en);
+          item.title = `${g.name} : ${g.meaning_en || ''}`;
+
           item.innerHTML = `
-            <span>${g.name}</span>
+            <div class="cat-grammar-info">
+              <span class="cat-grammar-ja">${g.name}</span>
+              ${shortEn ? `<span class="cat-grammar-en">(${escapeHtml(shortEn)})</span>` : ''}
+            </div>
             <div class="grammar-item-badges">${badgesHtml}</div>
           `;
 
@@ -2153,6 +2699,12 @@
       const isBookmarked = userBookmarks.has(gid);
       const isMastered = userMastered.has(gid);
 
+      // Previous & Next Grammar calculation
+      const prevG = gid > 1 ? grammarMap.get(gid - 1) : null;
+      const nextG = gid < 195 ? grammarMap.get(gid + 1) : null;
+      const shortPrevEn = prevG ? formatSidebarEn(prevG.meaning_en) : '';
+      const shortNextEn = nextG ? formatSidebarEn(nextG.meaning_en) : '';
+
       // Quiz Questions (4-5 questions)
       const qList = (grammarQuestionsMap.get(gid) || []).slice(0, 5);
 
@@ -2187,7 +2739,12 @@
 
           <!-- 2. Practical Examples (接続のすぐ下・枠なし・接続と同じ青タグ見出し) -->
           <section class="section-block">
-            <div class="section-tag">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき）</div>
+            <div class="examples-header-row">
+              <div class="section-tag">📝 実践例文（選択すると辞書検索できます / 🔊 音声つき） <span class="tag-sub-en" style="font-size:12px;color:var(--text-muted);font-weight:600;">(Practical Examples)</span></div>
+              <button type="button" class="btn-shadowing-play" id="btnToggleShadowing" onclick="toggleShadowingPlay()">
+                <span id="shadowingIcon">🎧</span> <span id="shadowingText">例文を連続再生 (Shadowing)</span>
+              </button>
+            </div>
             <div class="examples-list" id="lessonExamplesList"></div>
           </section>
 
@@ -2230,16 +2787,17 @@
           <!-- 8. Prev / Next Navigation -->
           <footer class="lesson-nav-footer">
             <button class="nav-arrow-btn" onclick="navigateLesson(-1)" ${gid === 1 ? 'disabled style="opacity:0.4;cursor:not-allowed;"' : ''}>
-              ← 前の文法
+              ${prevG ? `← 前: ${prevG.name} <span class="nav-sub-en">(${shortPrevEn})</span>` : '← 前の文法 (Prev)'}
             </button>
             <button class="nav-arrow-btn" onclick="navigateLesson(1)" ${gid === 195 ? 'disabled style="opacity:0.4;cursor:not-allowed;"' : ''}>
-              次の文法 →
+              ${nextG ? `次: ${nextG.name} <span class="nav-sub-en">(${shortNextEn})</span> →` : '次の文法 (Next) →'}
             </button>
           </footer>
         </article>
       `;
 
       fillLessonSpecificDetails(gid, g, qList);
+      updateStickyNav(gid, g, isMastered, isBookmarked, prevG, nextG, shortPrevEn, shortNextEn);
     }
 
     // Toggle Mastered
@@ -2301,19 +2859,30 @@
         `;
 
         trapEl.innerHTML = `
-          <div class="bilingual-header">
-            <span>⚠️ 英語直訳の落とし穴（学習者が最も間違えるポイント！ / Common Pitfalls & Traps）</span>
+          <div class="bilingual-header trap-header-row">
+            <div class="trap-header-left">
+              <span>⚠️ 英語直訳の落とし穴（学習者が最も間違えるポイント！ / Common Pitfalls & Traps）</span>
+            </div>
+            <button type="button" class="btn-test-toggle ${isRecallMode ? 'active' : ''}" onclick="toggleRecallMode()">
+              <span>${isRecallMode ? '👁️ 解説を常時表示 (Show Reason)' : '👁️ 自己テスト (理由を隠す / Self-Test)'}</span>
+            </button>
           </div>
           <div class="content-ja">${details.trap_ja}</div>
           <div class="content-en">${details.trap_en}</div>
           <div class="contrast-cards-grid">
-            ${details.contrast.map(c => `
+            ${details.contrast.map((c, cIdx) => `
               <div class="contrast-card ${c.type}">
                 <div class="contrast-card-top">
                   <span class="contrast-pill ${c.type}">${c.label}</span>
-                  <div class="contrast-reason-bilingual">
-                    <span>💡 ${c.reason_ja}</span>
-                    <span class="contrast-reason-en">/ ${c.reason_en}</span>
+                  <div class="contrast-reason-bilingual ${isRecallMode && c.type === 'wrong' ? 'is-masked' : ''}" id="contrastReason_${cIdx}">
+                    ${isRecallMode && c.type === 'wrong' ? `
+                      <button type="button" class="masked-reason-btn" onclick="revealReason(${cIdx})">
+                        🔍 なぜ誤用？タップして解説を表示 (Reveal)
+                      </button>
+                    ` : `
+                      <span>💡 ${c.reason_ja}</span>
+                      <span class="contrast-reason-en">/ ${c.reason_en}</span>
+                    `}
                   </div>
                 </div>
                 <div class="contrast-sentence">${c.sentence}</div>
@@ -2527,6 +3096,13 @@
           </div>
         `;
         fbEn.innerHTML = `<strong>English:</strong> ${q.sentence_en || ''}`;
+      }
+
+      // Record to Weakness Pool
+      if (!isCorrect) {
+        addToWeaknessPool(q);
+      } else {
+        removeFromWeaknessPool(q);
       }
     };
 
@@ -3177,9 +3753,342 @@
       });
     }
 
+
+    // Helper: Escape HTML
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    // Helper: Concise English Subtitle for Sidebar
+    function formatSidebarEn(meaning) {
+      if (!meaning) return '';
+      let clean = String(meaning).replace(/^[~〜\s]+|[~〜\s]+$/g, '').trim();
+      const parts = clean.split(/[;；]/).map(s => s.trim()).filter(Boolean);
+      if (parts.length > 0) {
+        clean = parts[0];
+        if (parts.length > 1 && (clean.length + parts[1].length < 24)) {
+          clean += ' / ' + parts[1];
+        }
+      }
+      return clean.replace(/[~〜]/g, '').trim();
+    }
+
+    // Active Recall Mode State for Contrast Cards
+    let isRecallMode = false;
+    window.toggleRecallMode = function() {
+      isRecallMode = !isRecallMode;
+      const g = grammarMap.get(currentGid);
+      const qList = (grammarQuestionsMap.get(currentGid) || []).slice(0, 5);
+      fillLessonSpecificDetails(currentGid, g, qList);
+      showToast(isRecallMode ? '👁️ 自己テストモードON：理由を隠しました' : '👁️ 通常表示モード：解説を常時表示します');
+    };
+
+    window.revealReason = function(cIdx) {
+      const details = (window.JLPT_N2_GRAMMAR_DETAILS && window.JLPT_N2_GRAMMAR_DETAILS[currentGid]) || null;
+      if (!details || !details.contrast || !details.contrast[cIdx]) return;
+      const c = details.contrast[cIdx];
+      const el = document.getElementById(`contrastReason_${cIdx}`);
+      if (el) {
+        el.className = 'contrast-reason-bilingual';
+        el.innerHTML = `
+          <span>💡 ${c.reason_ja}</span>
+          <span class="contrast-reason-en">/ ${c.reason_en}</span>
+        `;
+      }
+    };
+
+    // Continuous Audio Shadowing Player
+    let shadowingActive = false;
+    let shadowingTimer = null;
+    let shadowingIndex = 0;
+
+    window.toggleShadowingPlay = function() {
+      if (shadowingActive) {
+        stopShadowing();
+        showToast('⏹️ 連続シャドーイング再生を停止しました');
+      } else {
+        startShadowing();
+        showToast('🎧 連続シャドーイング再生を開始しました（各文の後に発声練習できます）');
+      }
+    };
+
+    function startShadowing() {
+      const cards = document.querySelectorAll('#lessonExamplesList .example-item-card');
+      if (cards.length === 0) return;
+      shadowingActive = true;
+      shadowingIndex = 0;
+
+      const btn = document.getElementById('btnToggleShadowing');
+      const icon = document.getElementById('shadowingIcon');
+      const text = document.getElementById('shadowingText');
+      if (btn) btn.classList.add('is-playing');
+      if (icon) icon.textContent = '⏹️';
+      if (text) text.textContent = '停止 (Stop Shadowing)';
+
+      playShadowingStep();
+    }
+
+    function stopShadowing() {
+      shadowingActive = false;
+      if (shadowingTimer) clearTimeout(shadowingTimer);
+      if (globalAudio) {
+        try { globalAudio.pause(); } catch(e) {}
+      }
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+      document.querySelectorAll('#lessonExamplesList .example-item-card').forEach(c => c.classList.remove('is-active-audio'));
+
+      const btn = document.getElementById('btnToggleShadowing');
+      const icon = document.getElementById('shadowingIcon');
+      const text = document.getElementById('shadowingText');
+      if (btn) btn.classList.remove('is-playing');
+      if (icon) icon.textContent = '🎧';
+      if (text) text.textContent = '例文を連続再生 (Shadowing)';
+    }
+
+    function playShadowingStep() {
+      if (!shadowingActive) return;
+      const cards = document.querySelectorAll('#lessonExamplesList .example-item-card');
+      if (shadowingIndex >= cards.length) {
+        stopShadowing();
+        showToast('🎉 全ての例文のシャドーイングが完了しました！');
+        return;
+      }
+
+      cards.forEach((c, idx) => {
+        if (idx === shadowingIndex) c.classList.add('is-active-audio');
+        else c.classList.remove('is-active-audio');
+      });
+
+      const currentCard = cards[shadowingIndex];
+      const jaEl = currentCard.querySelector('.example-ja');
+      const text = jaEl ? jaEl.textContent : '';
+
+      speakJapaneseText(text);
+
+      // Estimate time: speech length + 2.5s pause for student to shadow
+      const pauseDuration = Math.max(3000, text.length * 160) + 2500;
+      shadowingTimer = setTimeout(() => {
+        shadowingIndex++;
+        playShadowingStep();
+      }, pauseDuration);
+    }
+
+    // Weakness Drill Pool
+    let userWeaknessPool = [];
+    try {
+      userWeaknessPool = JSON.parse(localStorage.getItem('jlpt_n2_weakness_pool') || '[]');
+    } catch(e) {}
+
+    function saveWeaknessPool() {
+      try {
+        localStorage.setItem('jlpt_n2_weakness_pool', JSON.stringify(userWeaknessPool));
+      } catch(e) {}
+      updateWeaknessBadge();
+    }
+
+    function updateWeaknessBadge() {
+      const badge = document.getElementById('weaknessCountBadge');
+      if (!badge) return;
+      const count = userWeaknessPool.length;
+      badge.textContent = `${count}問`;
+      if (count === 0) {
+        badge.classList.add('zero');
+      } else {
+        badge.classList.remove('zero');
+      }
+    }
+
+    function addToWeaknessPool(q) {
+      const key = `${currentGid}_${(q.question || '').slice(0, 15)}`;
+      if (!userWeaknessPool.some(item => item.key === key)) {
+        userWeaknessPool.push({
+          key: key,
+          gid: currentGid,
+          grammar: grammarMap.get(currentGid)?.name || '',
+          question: q.question,
+          question_ruby: q.question_ruby,
+          choices: q.choices,
+          choices_ruby: q.choices_ruby,
+          answer: q.answer,
+          sentence_jp: q.sentence_jp,
+          sentence_jp_ruby: q.sentence_jp_ruby,
+          sentence_en: q.sentence_en
+        });
+        saveWeaknessPool();
+      }
+    }
+
+    function removeFromWeaknessPool(q) {
+      const key = `${currentGid}_${(q.question || '').slice(0, 15)}`;
+      const prevLen = userWeaknessPool.length;
+      userWeaknessPool = userWeaknessPool.filter(item => item.key !== key);
+      if (userWeaknessPool.length !== prevLen) {
+        saveWeaknessPool();
+      }
+    }
+
+    window.openWeaknessModal = function() {
+      const modal = document.getElementById('modalWeaknessOverlay');
+      const body = document.getElementById('modalWeaknessBody');
+      if (!modal || !body) return;
+
+      renderWeaknessModalContent();
+      modal.classList.add('open');
+    };
+
+        const wModal = document.getElementById('modalWeaknessOverlay');
+    if (wModal) {
+      wModal.addEventListener('click', (e) => {
+        if (e.target === wModal) closeWeaknessModal();
+      });
+    }
+
+    window.closeWeaknessModal = function() {
+      const modal = document.getElementById('modalWeaknessOverlay');
+      if (modal) modal.classList.remove('open');
+    };
+
+    function renderWeaknessModalContent() {
+      const body = document.getElementById('modalWeaknessBody');
+      if (!body) return;
+
+      if (userWeaknessPool.length === 0) {
+        body.innerHTML = `
+          <div class="weakness-empty-state">
+            <div class="weakness-empty-icon">🎉</div>
+            <div class="weakness-empty-title">現在、間違えた苦手問題はありません！</div>
+            <p class="weakness-empty-desc">
+              各文法ページの「理解度チェック（ミニ演習）」で間違えた問題がここに自動プールされ、<br>
+              弱点克服ランダム特訓ができるようになります。この調子で学習を進めましょう！
+            </p>
+          </div>
+        `;
+        return;
+      }
+
+      // Render up to 10 questions from the pool
+      const drillItems = userWeaknessPool.slice(0, 10);
+      body.innerHTML = `
+        <div style="margin-bottom:16px; display:flex; align-items:center; justify-content:space-between;">
+          <span style="font-size:13px; font-weight:700; color:var(--text-secondary);">
+            間違えた問題（全 ${userWeaknessPool.length} 問中 ${drillItems.length} 問を出題中）
+          </span>
+          <span style="font-size:11px; color:var(--text-muted);">正解すると自動的に苦手リストからクリアされます</span>
+        </div>
+        <div id="weaknessDrillList">
+          ${drillItems.map((q, idx) => `
+            <div class="weakness-drill-card" id="weaknessCard_${idx}">
+              <div class="weakness-card-head">
+                <span class="weakness-grammar-tag">文法: ${q.grammar}</span>
+                <span style="font-size:11.5px; color:var(--text-muted);">問題 ${idx + 1}</span>
+              </div>
+              <div class="quiz-sentence" style="margin-bottom:12px;">
+                ${(q.question_ruby || q.question).replace(/【\s*　*\s*】|（\s*　*\s*）|\(\s*\)/g, '<span class="quiz-blank">（　　　）</span>')}
+              </div>
+              <div class="quiz-options">
+                ${(q.choices_ruby || q.choices).map((c, cIdx) => `
+                  <button type="button" class="quiz-opt-btn" onclick="checkWeaknessDrillAnswer(${idx}, ${cIdx})">
+                    ${cIdx + 1}. ${c}
+                  </button>
+                `).join('')}
+              </div>
+              <div class="quiz-feedback" id="weaknessFb_${idx}" style="display:none;"></div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    window.checkWeaknessDrillAnswer = function(itemIdx, selectedIdx) {
+      const q = userWeaknessPool[itemIdx];
+      if (!q) return;
+
+      const card = document.getElementById(`weaknessCard_${itemIdx}`);
+      const fb = document.getElementById(`weaknessFb_${itemIdx}`);
+      if (!card || !fb) return;
+
+      const isCorrect = (selectedIdx === q.answer);
+      const btns = card.querySelectorAll('.quiz-opt-btn');
+      btns.forEach((btn, idx) => {
+        btn.classList.remove('correct', 'wrong');
+        if (idx === q.answer) btn.classList.add('correct');
+        else if (idx === selectedIdx && !isCorrect) btn.classList.add('wrong');
+      });
+
+      fb.style.display = 'block';
+      fb.className = `quiz-feedback ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+
+      const plainSentence = (q.sentence_jp || '')
+        .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+        .replace(/<[^>]+>/g, '')
+        .replace(/'/g, "'");
+
+      fb.innerHTML = `
+        <div class="feedback-status ${isCorrect ? 'correct' : 'wrong'}">
+          ${isCorrect ? '🎉 正解！弱点リストからクリアしました！' : `不正解 — 正解は ${q.answer + 1} 番です`}
+        </div>
+        <div style="margin-top:6px; display:flex; align-items:flex-start; justify-content:space-between; gap:10px;">
+          <div><strong>正解の文:</strong> ${q.sentence_jp_ruby || q.sentence_jp}</div>
+          <button type="button" class="quiz-fb-tts-btn" onclick="speakJapaneseText('${plainSentence}')" title="音声再生">🔊</button>
+        </div>
+        <div style="margin-top:4px; font-size:12px; color:var(--text-muted);">
+          <strong>English:</strong> ${q.sentence_en || ''}
+        </div>
+      `;
+
+      if (isCorrect) {
+        removeFromWeaknessPool(q);
+        setTimeout(() => {
+          card.style.transition = 'all 0.3s';
+          card.style.opacity = '0.5';
+          card.style.transform = 'scale(0.98)';
+        }, 800);
+      }
+    };
+
+    // Update Sticky Bottom Navigation State
+    function updateStickyNav(gid, g, isMastered, isBookmarked, prevG, nextG, shortPrevEn, shortNextEn) {
+      const titleEl = document.getElementById('stickyLessonTitle');
+      const btnPrev = document.getElementById('stickyBtnPrev');
+      const btnNext = document.getElementById('stickyBtnNext');
+      const prevLabel = document.getElementById('stickyPrevLabel');
+      const nextLabel = document.getElementById('stickyNextLabel');
+      const btnStar = document.getElementById('stickyBtnBookmark');
+      const btnDone = document.getElementById('stickyBtnMastered');
+
+      if (titleEl) titleEl.textContent = `第 ${gid} 課 : ${g.name}`;
+
+      if (btnPrev) {
+        btnPrev.disabled = (gid <= 1);
+        if (prevLabel) prevLabel.textContent = prevG ? `前: ${prevG.name}` : '前へ (Prev)';
+      }
+      if (btnNext) {
+        btnNext.disabled = (gid >= 195);
+        if (nextLabel) nextLabel.textContent = nextG ? `次: ${nextG.name}` : '次へ (Next)';
+      }
+
+      if (btnStar) {
+        btnStar.classList.toggle('active-star', isBookmarked);
+        btnStar.textContent = isBookmarked ? '⭐ 復習中' : '⭐ 復習';
+      }
+      if (btnDone) {
+        btnDone.classList.toggle('active-master', isMastered);
+        btnDone.textContent = isMastered ? '✓ 読了！' : '✓ 読了';
+      }
+    }
+
     // Initial Load
     window.addEventListener('DOMContentLoaded', () => {
       updateProgress();
+      updateWeaknessBadge();
       renderSidebar();
       selectGrammar(1); // Load #1 あげく by default
     });
