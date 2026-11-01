@@ -2604,6 +2604,63 @@ rt {
     font-weight: 700;
   }
 
+  /* ================= 練習用紙プリント用スタイル ＆ A4横向き印刷設定 ================= */
+  .a4-sheet-page {
+    width: 277mm;
+    min-height: 190mm;
+    box-sizing: border-box;
+    margin: 0 auto 24px auto;
+    padding: 8mm 10mm 6mm 10mm;
+    background: #FFFFFF;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.12);
+    border-radius: 6px;
+  }
+  .page-break {
+    page-break-before: always;
+    break-before: page;
+  }
+  @media print {
+    @page {
+      size: A4 landscape;
+      margin: 8mm 10mm;
+    }
+    body {
+      background: #FFFFFF !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      -webkit-print-color-adjust: exact !important;
+      print-color-adjust: exact !important;
+    }
+    body * {
+      visibility: hidden !important;
+    }
+    #printable-sheet-wrapper, #printable-sheet-area, #printable-sheet-area * {
+      visibility: visible !important;
+    }
+    #printable-sheet-wrapper {
+      position: absolute !important;
+      left: 0 !important;
+      top: 0 !important;
+      width: 100% !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      overflow: visible !important;
+    }
+    .a4-sheet-page {
+      box-shadow: none !important;
+      border-radius: 0 !important;
+      margin: 0 auto !important;
+      padding: 0 !important;
+      width: 277mm !important;
+      min-height: 190mm !important;
+    }
+    .no-print {
+      display: none !important;
+    }
+  }
+
 </style>
 </head>
 <body>
@@ -3510,30 +3567,7 @@ rt {
 
       <!-- タブ4: 練習プリントPDF -->
       <div id="writing-tab-pdf" class="writing-tab-panel" style="display:none;">
-        <div style="background:white; border:1.5px solid var(--border-soft); border-radius:14px; padding:22px;">
-          <div style="font-weight:700; color:var(--kobe-blue); margin-bottom:8px; font-size:1.05rem;">
-            印刷して使える練習プリント（A4用紙サイズ）
-          </div>
-          <p style="font-size:0.88rem; color:var(--text-sub); margin-bottom:16px;">
-            iPadやタブレットでのPDF読み込み、またはご自宅のプリンターで印刷して手書き練習できます。
-          </p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:14px;">
-            <div style="border:1.5px solid #E2E8F0; border-radius:12px; padding:16px; background:#F8FAFC;">
-              <div style="font-weight:700; color:#1E293B;">📝 漢字練習帳（マス目・十字リーダー入り）</div>
-              <div style="font-size:0.8rem; color:#64748B; margin:4px 0 12px;">バランスを取りやすい田字格（十字リーダー線）付き練習用紙</div>
-              <button onclick="window.print()" style="background:var(--kobe-blue); color:white; border:none; padding:8px 14px; border-radius:8px; font-size:0.82rem; font-weight:700; cursor:pointer;">
-                🖨️ マス目用紙を印刷
-              </button>
-            </div>
-            <div style="border:1.5px solid #E2E8F0; border-radius:12px; padding:16px; background:#F8FAFC;">
-              <div style="font-weight:700; color:#1E293B;">📜 原稿用紙（20字×20行 400字詰）</div>
-              <div style="font-size:0.8rem; color:#64748B; margin:4px 0 12px;">短作文や日記、長文記述の練習に最適</div>
-              <button onclick="window.print()" style="background:var(--kobe-blue); color:white; border:none; padding:8px 14px; border-radius:8px; font-size:0.82rem; font-weight:700; cursor:pointer;">
-                🖨️ 原稿用紙を印刷
-              </button>
-            </div>
-          </div>
-        </div>
+        <div id="kana-print-studio-container"></div>
       </div>
     </div>
   </div>
@@ -4141,6 +4175,7 @@ rt {
 <script src="database/kanji_daily_quiz_dataset.js"></script>
 <script src="database/jlpt_kanji_data.js"></script>
 <script src="js/kanji_engine.js"></script>
+<script src="js/kana_print_sheet_engine.js"></script>
 
 <script>
 
@@ -6730,6 +6765,10 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       }
     } else if (tabName === 'kana') {
       initKanaTab();
+    } else if (tabName === 'pdf') {
+      if (typeof KanaPrintSheetEngine !== 'undefined') {
+        KanaPrintSheetEngine.init('kana-print-studio-container');
+      }
     }
   }
 
