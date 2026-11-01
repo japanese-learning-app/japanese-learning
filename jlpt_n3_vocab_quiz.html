@@ -1,0 +1,3797 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JLPT N2 文字・語彙 穴埋めマスター — 全500問 4択練習道場</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* カラーパレット：メイン青 #1995AD × サクラピンク × ポイント #4D648D / #D0E1F9 */
+    --primary-blue: #1995AD;
+    --primary-blue-dark: #127285;
+    --primary-blue-light: #43B0C4;
+    --primary-blue-pale: #EDF7F9;
+    
+    --point-navy: #4D648D;
+    --point-ice: #D0E1F9;
+
+    --sakura-pink-bg: #FAF1F3;
+    --sakura-pink-soft: #FDF7F8;
+    --sakura-pink-accent: #E8A4B2;
+    --sakura-pink-deep: #B8596E;
+    --sakura-pink-border: #F2D5DB;
+
+    --mint-cyan: #1995AD;
+    --mint-cyan-light: #EDF7F9;
+    
+    --text-primary: #1F2D3D;
+    --text-secondary: #4D648D;
+    --text-muted: #7E92A2;
+    
+    --card-bg: #FFFFFF;
+    --card-border: #E2ECF2;
+    --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
+
+    --correct-bg: #E8F5E9;
+    --correct-border: #81C784;
+    --correct-text: #2E7D32;
+
+    /* ポイントカラー：赤ではなく #4D648D / #D0E1F9 を使用 */
+    --wrong-bg: #EEF4FC;
+    --wrong-border: #B8D1F5;
+    --wrong-text: #4D648D;
+
+    --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: var(--sakura-pink-bg);
+    color: var(--text-primary);
+    font-family: var(--app-font);
+    line-height: 1.7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: 
+      radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ふりがな（ルビ）表示制御：漢字の真上に配置 */
+  ruby {
+    ruby-position: over;
+  }
+
+  ruby rt {
+    font-size: 0.52em;
+    color: var(--sakura-pink-deep);
+    font-weight: 600;
+    user-select: none;
+    letter-spacing: 0;
+    line-height: 1;
+    transform: translateY(-2px);
+  }
+
+  body.hide-furigana ruby rt {
+    display: none !important;
+  }
+
+  /* Anti-spoiler for Kanji Reading questions & Target chips (類義語・語形成・読み等) */
+  .target-reading-spoiler,
+  .quiz-target-chip rt,
+  .quiz-target-chip ruby rt,
+  .quiz-blank-box rt,
+  .quiz-blank-box ruby rt {
+    display: none !important;
+  }
+  #questionSentence.revealed .target-reading-spoiler,
+  .rev-sentence .target-reading-spoiler {
+    display: inline-block !important;
+    color: var(--primary-blue-dark);
+    font-weight: 800;
+  }
+  .target-word {
+    color: var(--primary-blue-dark);
+    font-weight: 800;
+    border-bottom: 2px dashed var(--primary-blue);
+    padding-bottom: 1px;
+  }
+  .pill-reading {
+    font-size: 11px;
+    opacity: 0.82;
+    font-weight: normal;
+    margin-left: 2px;
+  }
+
+  /* Header */
+  .site-header {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+    color: #FFFFFF;
+    padding: 18px 20px 16px;
+    box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .brand-area {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-en {
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    line-height: 1.2;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .brand-en span.badge-n2 {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    font-size: 11px;
+    font-weight: 800;
+    padding: 3px 9px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+
+  .brand-sub {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.88);
+    margin-top: 3px;
+    font-weight: 500;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* Toggle Pill Switch (ふりがな ON/OFF) */
+  .furigana-toggle {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 30px;
+    padding: 3px 5px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    user-select: none;
+  }
+
+  .furigana-toggle:hover {
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  .toggle-label {
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 20px;
+    transition: all 0.25s ease;
+  }
+
+  .toggle-label.active {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
+  .toggle-label.inactive {
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  .header-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: #FFFFFF;
+    padding: 6px 13px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    user-select: none;
+  }
+
+  .header-btn:hover {
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+  }
+
+  /* Main Container */
+  .main-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 24px auto 40px;
+    padding: 0 20px;
+    flex: 1;
+  }
+
+  /* Control Bar */
+  .control-bar {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    padding: 12px 18px;
+    margin-bottom: 20px;
+    box-shadow: var(--card-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .filter-select {
+    padding: 7px 12px;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 10px;
+    background: var(--sakura-pink-soft);
+    color: var(--text-primary);
+    font-family: var(--app-font);
+    font-size: 13px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    transition: border 0.2s;
+    max-width: 280px;
+  }
+
+  .filter-select:focus {
+    border-color: var(--primary-blue);
+  }
+
+  .count-selector-group {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    background: var(--sakura-pink-soft);
+    padding: 3px 6px;
+    border-radius: 12px;
+    border: 1px solid var(--sakura-pink-border);
+  }
+
+  .count-btn {
+    background: transparent;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .count-btn:hover {
+    color: var(--primary-blue);
+  }
+
+  .count-btn.active {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    box-shadow: 0 2px 6px rgba(70, 130, 151, 0.25);
+  }
+
+  .action-buttons {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .btn-action {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 7px 13px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    border: 1px solid var(--primary-blue-light);
+    background: #FFFFFF;
+    color: var(--primary-blue-dark);
+    transition: all 0.2s ease;
+  }
+
+  .btn-action:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border-color: var(--primary-blue);
+  }
+
+  .btn-resume {
+    background: linear-gradient(135deg, var(--sakura-pink-accent), var(--sakura-pink-deep));
+    color: #FFFFFF;
+    border: none;
+    box-shadow: 0 2px 8px rgba(184, 89, 110, 0.25);
+  }
+
+  .btn-resume:hover {
+    opacity: 0.92;
+    transform: translateY(-1px);
+  }
+
+  /* Progress Section */
+  .progress-section {
+    margin-bottom: 20px;
+  }
+
+  .progress-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-secondary);
+  }
+
+  .progress-bar-bg {
+    width: 100%;
+    height: 8px;
+    background: #E8EEF1;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .progress-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--mint-cyan), var(--primary-blue));
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+
+  /* Quiz Card */
+  .quiz-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 24px;
+    position: relative;
+  }
+
+  .quiz-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--card-border);
+  }
+
+  .category-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    font-size: 12px;
+    font-weight: 800;
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+
+  .card-top-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .icon-btn {
+    background: #FFFFFF;
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-secondary);
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .icon-btn:hover {
+    border-color: var(--primary-blue);
+    color: var(--primary-blue);
+  }
+
+  .icon-btn.saved {
+    background: var(--sakura-pink-soft);
+    border-color: var(--sakura-pink-deep);
+    color: var(--sakura-pink-deep);
+  }
+
+  /* Instruction Banner */
+  .quiz-instruction-banner {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(135deg, rgba(70, 130, 151, 0.08) 0%, rgba(255, 183, 197, 0.12) 100%);
+    border: 1px solid rgba(70, 130, 151, 0.22);
+    border-left: 4px solid var(--primary-blue);
+    border-radius: 12px;
+    padding: 10px 16px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+  }
+
+  .quiz-instruction-banner .inst-icon {
+    font-size: 18px;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  /* Blank Box for Fill-in-the-blank */
+  .quiz-blank-box {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFDF5;
+    border: 2px dashed #D4A017;
+    border-radius: 8px;
+    padding: 1px 8px;
+    margin: 0 4px;
+    font-weight: 800;
+    color: #8C6200;
+    vertical-align: middle;
+    transition: all 0.25s ease;
+  }
+
+  .quiz-blank-box .blank-icon {
+    font-size: 14px;
+  }
+
+  .quiz-blank-box.revealed.correct {
+    background: var(--correct-bg);
+    border: 2px solid var(--correct-border);
+    color: var(--correct-text);
+    box-shadow: 0 2px 8px rgba(27, 127, 75, 0.15);
+  }
+
+  .quiz-blank-box.revealed.wrong {
+    background: var(--wrong-bg);
+    border: 2px solid var(--wrong-border);
+    color: var(--wrong-text);
+    box-shadow: 0 2px 8px rgba(197, 48, 48, 0.15);
+  }
+
+  /* Target Chips for Kanji Reading / Writing / Synonyms (Clean Boxed Word) */
+  .quiz-target-chip {
+    display: inline-flex;
+    align-items: center;
+    background: rgba(25, 149, 173, 0.08);
+    border: 2px solid var(--primary-blue);
+    border-radius: 8px;
+    padding: 1px 8px;
+    margin: 0 4px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    vertical-align: baseline;
+    transition: all 0.25s ease;
+  }
+
+  .quiz-target-chip .chip-badge {
+    display: none !important;
+  }
+
+  .quiz-target-chip.writing {
+    border-color: var(--point-navy);
+    background: rgba(77, 100, 141, 0.08);
+    color: var(--point-navy);
+  }
+
+  .quiz-target-chip.revealed {
+    background: #E8F8F0;
+    border-color: #27AE60;
+    color: #1E7E44;
+  }
+
+  .question-sentence {
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 2.1;
+    color: var(--text-primary);
+    margin-bottom: 24px;
+    word-break: break-word;
+    letter-spacing: 0.2px;
+    white-space: pre-line;
+  }
+
+  .target-highlight {
+    color: var(--primary-blue);
+    font-weight: 800;
+    padding: 0 4px;
+    border-bottom: 2px dashed var(--primary-blue);
+  }
+
+  .choices-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+
+  .choices-grid.single-column {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .choices-grid.single-column .choice-btn {
+    padding: 14px 20px;
+    width: 100%;
+  }
+
+  .choices-grid.single-column .choice-text {
+    font-size: 16px;
+    line-height: 1.6;
+    word-break: break-word;
+  }
+
+  @media (max-width: 640px) {
+    .choices-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .choice-btn {
+    background: #FFFFFF;
+    border: 1.5px solid var(--card-border);
+    border-radius: 14px;
+    padding: 16px 18px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.2, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    user-select: none;
+    line-height: 1.5;
+  }
+
+  .choice-btn:hover:not(:disabled) {
+    border-color: var(--primary-blue);
+    background: var(--primary-blue-pale);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(70, 130, 151, 0.1);
+  }
+
+  .choice-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: #E8EEF1;
+    color: var(--text-secondary);
+    font-size: 12px;
+    font-weight: 800;
+    flex-shrink: 0;
+    transition: all 0.2s;
+  }
+
+  .choice-btn:hover:not(:disabled) .choice-num {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  .choice-btn.correct {
+    background: var(--correct-bg) !important;
+    border-color: var(--correct-border) !important;
+    color: var(--correct-text) !important;
+  }
+
+  .choice-btn.correct .choice-num {
+    background: var(--correct-text) !important;
+    color: #FFFFFF !important;
+  }
+
+  .choice-btn.wrong {
+    background: var(--wrong-bg) !important;
+    border-color: var(--wrong-border) !important;
+    color: var(--wrong-text) !important;
+  }
+
+  .choice-btn.wrong .choice-num {
+    background: var(--wrong-text) !important;
+    color: #FFFFFF !important;
+  }
+
+  /* Explanation Card (Appears after answer) */
+  .explanation-card {
+    display: none;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 16px;
+    padding: 20px;
+    margin-top: 20px;
+    animation: fadeIn 0.3s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .explanation-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed var(--sakura-pink-border);
+  }
+
+  .result-tag {
+    font-size: 14px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .result-tag.correct {
+    color: var(--correct-text);
+  }
+
+  .result-tag.wrong {
+    color: var(--wrong-text);
+  }
+
+  /* Reading Pairs Card (問題の言葉と答えの読み方) */
+  .reading-pairs-card {
+    background: linear-gradient(135deg, #F0F7FF 0%, #E8F2FD 100%);
+    border: 1.5px solid #BFDBFE;
+    border-radius: 12px;
+    padding: 12px 16px;
+    margin: 12px 0 14px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.06);
+  }
+
+  .reading-pair-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .reading-badge-pill {
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.3px;
+    flex-shrink: 0;
+  }
+
+  .reading-badge-pill.q-badge {
+    background: #E2E8F0;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+  }
+
+  .reading-badge-pill.a-badge {
+    background: #DCFCE7;
+    color: #166534;
+    border: 1px solid #BBF7D0;
+  }
+
+  .reading-pair-text {
+    font-size: 16.5px;
+    font-weight: 800;
+    color: #0F172A;
+  }
+
+  .reading-pair-kana {
+    font-size: 14.5px;
+    font-weight: 700;
+    color: #2563EB;
+  }
+
+  .reading-voice-btn {
+    background: #FFFFFF;
+    border: 1px solid #CBD5E1;
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #475569;
+    transition: all 0.2s;
+    padding: 0;
+    margin-left: 2px;
+  }
+
+  .reading-voice-btn:hover {
+    background: #2563EB;
+    color: #FFFFFF;
+    border-color: #2563EB;
+    transform: scale(1.08);
+  }
+
+  .meaning-text {
+    font-size: 13.5px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+
+  /* Nuance & English Direct Translation Differences Card */
+  .nuance-explanation-card {
+    background: linear-gradient(135deg, #FFFDF5 0%, #FEF9C3 100%);
+    border: 1.5px solid #FDE68A;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin: 14px 0;
+    box-shadow: 0 2px 8px rgba(217, 119, 6, 0.08);
+  }
+
+  .nuance-card-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13.5px;
+    font-weight: 800;
+    color: #92400E;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(217, 119, 6, 0.2);
+    padding-bottom: 6px;
+  }
+
+  .nuance-section {
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 8px;
+    padding: 10px 12px;
+    border: 1px solid rgba(245, 158, 11, 0.25);
+  }
+
+  .nuance-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .nuance-subtitle {
+    font-size: 11.5px;
+    font-weight: 800;
+    color: #B45309;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .nuance-text {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #1F2937;
+    font-weight: 500;
+  }
+
+  /* Selection Dict Floating Tooltip */
+  .selection-dict-tooltip {
+    position: absolute;
+    z-index: 1000;
+    background: #0F172A;
+    border-radius: 8px;
+    padding: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+    display: none;
+    pointer-events: auto;
+  }
+
+  .selection-dict-tooltip button {
+    background: transparent;
+    border: none;
+    color: #F8FAFC;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 6px;
+    transition: background 0.15s;
+    font-family: inherit;
+  }
+
+  .selection-dict-tooltip button:hover {
+    background: #2563EB;
+  }
+
+  /* Copy Dict Snackbar */
+  .copy-dict-snackbar {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #0F172A;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 13px;
+    animation: snackFadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes snackFadeIn {
+    from {
+      opacity: 0;
+      transform: translate(-50%, 15px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(-50%, 0);
+    }
+  }
+
+  .copy-snack-btn {
+    background: #2563EB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.2s, transform 0.15s;
+  }
+
+  .copy-snack-btn:hover {
+    background: #1D4ED8;
+    transform: scale(1.04);
+  }
+
+  .copy-snack-close {
+    background: transparent;
+    border: none;
+    color: #94A3B8;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 0 4px;
+  }
+
+  .modal-dict-mylist-btn {
+    background: #FFF8E8;
+    border: 1px solid #F0D488;
+    color: #8C6500;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .modal-dict-mylist-btn:hover {
+    background: #FFF0C8;
+    transform: translateY(-1px);
+  }
+
+  .modal-dict-mylist-btn.saved {
+    background: #DCFCE7;
+    border-color: #86EFAC;
+    color: #166534;
+  }
+
+  /* Kanji Breakdown Section & Cards */
+  .kanji-breakdown-section {
+    margin: 14px 0 12px 0;
+  }
+
+  .kanji-section-title {
+    font-size: 13px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .kanji-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 10px;
+  }
+
+  .kanji-detail-card {
+    display: flex;
+    align-items: stretch;
+    background: #FFFFFF;
+    border: 1.5px solid var(--primary-blue-light);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(70, 130, 151, 0.08);
+  }
+
+  .kanji-char-box {
+    width: 66px;
+    min-width: 66px;
+    background: linear-gradient(135deg, var(--primary-blue-pale) 0%, rgba(255, 183, 197, 0.25) 100%);
+    border-right: 1px solid var(--primary-blue-light);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: var(--primary-blue-dark);
+  }
+
+  .kanji-char-sub {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    margin-top: 1px;
+  }
+
+  .kanji-readings-box {
+    padding: 8px 12px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+  }
+
+  .kanji-reading-row {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    font-size: 12.5px;
+    line-height: 1.4;
+  }
+
+  .kanji-reading-lbl {
+    font-size: 10px;
+    font-weight: 800;
+    color: #FFFFFF;
+    background: var(--primary-blue);
+    padding: 1px 5px;
+    border-radius: 4px;
+    min-width: 28px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .kanji-reading-lbl.kun {
+    background: #D85A7F;
+  }
+
+  .kanji-reading-lbl.mean {
+    background: var(--point-navy);
+  }
+
+  .kanji-reading-val {
+    font-weight: 700;
+    color: var(--text-primary);
+    word-break: break-word;
+  }
+
+  .kanji-reading-val.meaning {
+    font-size: 11.5px;
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+
+  .similar-box {
+    background: #FFFFFF;
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-top: 10px;
+  }
+
+  .similar-title {
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--sakura-pink-deep);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .similar-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .similar-pill {
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-primary);
+    padding: 4px 10px;
+    border-radius: 16px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .similar-pill:hover {
+    background: var(--primary-blue-pale);
+    border-color: var(--primary-blue-light);
+    color: var(--primary-blue-dark);
+  }
+
+  .btn-next {
+    display: none;
+    width: 100%;
+    margin-top: 20px;
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 14px;
+    padding: 15px 20px;
+    font-size: 15px;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(70, 130, 151, 0.25);
+    transition: all 0.2s;
+    text-align: center;
+  }
+
+  .btn-next:hover {
+    background: var(--primary-blue-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(50, 100, 117, 0.3);
+  }
+
+  /* Navigation Bar (Always Visible: ← 前に戻る / 次へ行く →) */
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    gap: 16px;
+  }
+
+  .nav-btn {
+    background: var(--card-bg);
+    border: 1.5px solid var(--primary-blue);
+    color: var(--primary-blue);
+    font-family: var(--app-font);
+    padding: 11px 26px;
+    border-radius: 30px;
+    font-size: 14.5px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 12px rgba(70, 130, 151, 0.08);
+  }
+
+  .nav-btn:hover:not(:disabled) {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(70, 130, 151, 0.2);
+  }
+
+  .nav-btn.primary {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  .nav-btn.primary:hover:not(:disabled) {
+    background: var(--primary-blue-dark);
+  }
+
+  .nav-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+  }
+
+  /* MyList Modal */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .modal-box {
+    background: #FFFFFF;
+    border-radius: 20px;
+    max-width: 600px;
+    width: 100%;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+  }
+
+  .modal-header {
+    padding: 16px 20px;
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .modal-header h3 {
+    font-size: 16px;
+    font-weight: 800;
+  }
+
+  .modal-body {
+    padding: 16px 20px;
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  .mylist-item {
+    padding: 12px;
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .mylist-item:hover {
+    background: var(--primary-blue-pale);
+  }
+
+  /* Tag Action Modal Styles */
+  .tag-modal-box {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 480px;
+    width: 94%;
+    max-height: 88vh;
+    overflow-y: auto;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+    text-align: center;
+  }
+  .modal-term-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--primary-blue-dark);
+    margin-bottom: 2px;
+  }
+  .modal-term-reading {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-weight: 600;
+    margin-bottom: 14px;
+  }
+  .modal-meaning-box {
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    text-align: left;
+  }
+  .modal-meaning-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--primary-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .modal-meaning-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+  .modal-btn-mylist {
+    width: 100%;
+    border: 1.5px solid #F0D488;
+    background: #FFF8E8;
+    color: #8C6500;
+    padding: 13px 16px;
+    border-radius: 14px;
+    font-size: 14.5px;
+    font-weight: 800;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.2s;
+    box-shadow: 0 3px 10px rgba(200,125,24,0.12);
+    margin-bottom: 10px;
+  }
+  .modal-btn-mylist:hover {
+    background: #FFF2D1;
+    transform: translateY(-1px);
+  }
+  .modal-btn-mylist.saved {
+    background: #FFF5DE;
+    color: #B27200;
+    border-color: #F0C760;
+  }
+  .modal-sub-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .modal-sub-btn {
+    border: 1px solid var(--card-border);
+    background: #FFFFFF;
+    color: var(--text-primary);
+    padding: 10px 12px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }
+  .modal-sub-btn:hover {
+    background: var(--primary-blue-pale);
+    border-color: var(--primary-blue);
+    color: var(--primary-blue-dark);
+  }
+  .modal-close-btn {
+    width: 100%;
+    background: var(--sakura-pink-soft);
+    border: 1px solid var(--sakura-pink-border);
+    color: var(--text-secondary);
+    padding: 9px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .modal-close-btn:hover {
+    background: #E8EEF1;
+    color: var(--text-primary);
+  }
+
+  /* 内蔵辞書検索パネル（モーダル内そのまま展開） */
+  .modal-dict-panel {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1.5px dashed #D5E5F2;
+    text-align: left;
+    animation: fadeIn 0.25s ease;
+  }
+
+  .modal-dict-search-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .modal-dict-input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1.5px solid var(--primary-blue);
+    border-radius: 10px;
+    font-size: 13.5px;
+    font-family: inherit;
+    outline: none;
+    background: #F8FBFE;
+  }
+
+  .modal-dict-input:focus {
+    background: #FFFFFF;
+    box-shadow: 0 0 0 3px rgba(25, 149, 173, 0.15);
+  }
+
+  .modal-dict-search-btn {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 0 14px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .modal-dict-search-btn:hover {
+    background: var(--primary-blue-dark);
+  }
+
+  .modal-dict-card {
+    background: #F8FBFE;
+    border: 1px solid #D0E1F9;
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+
+  .modal-dict-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .modal-dict-card-word {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .modal-dict-card-reading {
+    font-size: 13px;
+    color: var(--point-navy);
+    font-weight: 600;
+  }
+
+  .modal-dict-card-badge {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 6px;
+  }
+
+  .modal-dict-card-meaning {
+    font-size: 14px;
+    color: var(--text-primary);
+    line-height: 1.55;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+
+  .modal-dict-card-ex-box {
+    background: #FFFFFF;
+    border-left: 3.5px solid var(--primary-blue);
+    border-radius: 6px;
+    padding: 8px 12px;
+    margin-top: 8px;
+  }
+
+  .modal-dict-card-ex-ja {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.6;
+    margin-bottom: 3px;
+  }
+
+  .modal-dict-card-ex-ja ruby rt {
+    font-size: 0.65em;
+    color: var(--primary-blue-dark);
+  }
+
+  .modal-dict-card-ex-en {
+    font-size: 12px;
+    color: var(--point-navy);
+    line-height: 1.4;
+  }
+
+  .modal-dict-similar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .modal-dict-similar-tag {
+    background: #FFFFFF;
+    border: 1px solid #D0E1F9;
+    color: var(--point-navy);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .modal-dict-similar-tag:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border-color: var(--primary-blue);
+  }
+
+  .modal-dict-tts-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 2px 4px;
+    border-radius: 6px;
+    line-height: 1;
+    color: var(--primary-blue);
+    transition: transform 0.15s;
+  }
+
+  .modal-dict-tts-btn:hover {
+    transform: scale(1.15);
+  }
+
+  .modal-dict-footer-links {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8px;
+  }
+
+  .modal-dict-link-btn {
+    font-size: 12px;
+    color: var(--point-navy);
+    text-decoration: none;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background: #EBF3F8;
+    transition: all 0.15s;
+  }
+
+  .modal-dict-link-btn:hover {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+  }
+
+  /* Toast Notification */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: rgba(44, 62, 72, 0.95);
+    color: #FFFFFF;
+    padding: 10px 22px;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 700;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.2, 0, 0, 1);
+    z-index: 2000;
+    pointer-events: none;
+  }
+
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+
+  /* Result & Review View */
+  .result-view {
+    background: var(--card-bg);
+    border-radius: 24px;
+    border: 1.5px solid var(--sakura-pink-border);
+    padding: 38px 30px;
+    box-shadow: var(--card-shadow);
+    animation: fadeIn 0.3s ease;
+  }
+  .result-hero {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }
+  .result-score-big {
+    font-size: 3.8rem;
+    font-weight: 800;
+    color: var(--primary-blue);
+    line-height: 1;
+    margin: 14px 0 6px;
+  }
+  .result-eval-badge {
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13.5px;
+    font-weight: 800;
+    margin-bottom: 14px;
+  }
+  .result-eval-badge.gold {
+    background: #FEF3C7;
+    color: #92400E;
+    border: 1px solid #FCD34D;
+  }
+  .result-eval-badge.pass {
+    background: #E8F5E9;
+    color: #2E7D32;
+    border: 1px solid #A5D6A7;
+  }
+  .result-eval-badge.retry {
+    background: #FFF0F3;
+    color: #B8596E;
+    border: 1px solid #F2D5DB;
+  }
+  .result-actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+  }
+  .btn-retry-wrong {
+    background: linear-gradient(135deg, #4D648D 0%, #354968 100%);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(77, 100, 141, 0.28);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-wrong:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(77, 100, 141, 0.38);
+  }
+  .btn-retry-all {
+    background: var(--primary-blue);
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(70, 130, 151, 0.25);
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-retry-all:hover {
+    background: var(--primary-blue-dark);
+    transform: translateY(-2px);
+  }
+  .btn-return-portal {
+    background: var(--primary-blue-pale);
+    color: var(--primary-blue-dark);
+    border: 1.5px solid var(--primary-blue-light);
+    padding: 11px 20px;
+    border-radius: 14px;
+    font-size: 0.92rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+  }
+  .btn-return-portal:hover {
+    background: white;
+  }
+
+  /* Review Section */
+  .review-section {
+    margin-top: 36px;
+    padding-top: 28px;
+    border-top: 1.5px dashed var(--sakura-pink-border);
+  }
+  .review-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .review-filter-group {
+    display: flex;
+    gap: 6px;
+    background: var(--sakura-pink-soft);
+    padding: 4px;
+    border-radius: 12px;
+    border: 1px solid var(--sakura-pink-border);
+  }
+  .rev-filter-btn {
+    border: none;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 8px;
+    font-size: 12.5px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .rev-filter-btn.active {
+    background: white;
+    color: var(--primary-blue-dark);
+    box-shadow: 0 2px 6px rgba(70, 130, 151, 0.12);
+  }
+  .review-cards-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .rev-card {
+    background: white;
+    border: 1.5px solid var(--card-border);
+    border-radius: 18px;
+    padding: 20px 22px;
+    transition: all 0.2s;
+  }
+  .rev-card.is-wrong {
+    border-color: #F8B4C0;
+    background: #FFFDFD;
+  }
+  .rev-card.is-correct {
+    border-color: #C8E6C9;
+    background: #FAFCFA;
+  }
+  .rev-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  .rev-tag-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 3px 12px;
+    border-radius: 20px;
+  }
+  .rev-tag-status.correct {
+    background: var(--correct-bg);
+    color: var(--correct-text);
+    border: 1px solid var(--correct-border);
+  }
+  .rev-tag-status.wrong {
+    background: var(--wrong-bg);
+    color: var(--wrong-text);
+    border: 1px solid var(--wrong-border);
+  }
+  .rev-sentence {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 2.1;
+    color: var(--text-primary);
+    margin-bottom: 14px;
+  }
+  .rev-choice-comparison {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: var(--sakura-pink-soft);
+    font-size: 13.5px;
+    margin-bottom: 12px;
+  }
+  .rev-row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .rev-row-label {
+    min-width: 75px;
+    font-size: 11.5px;
+    font-weight: 800;
+    color: var(--text-muted);
+  }
+  .rev-row-val.wrong {
+    color: var(--wrong-text);
+    font-weight: 700;
+    text-decoration: line-through;
+  }
+  .rev-row-val.correct {
+    color: var(--correct-text);
+    font-weight: 800;
+  }
+  .rev-exp-box {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    padding: 10px 14px;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid var(--card-border);
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand-area">
+      <div class="brand-en">
+        <span>JLPT N2 文字・語彙 穴埋めマスター</span>
+        <span class="badge-n2">全500問</span>
+      </div>
+      <div class="brand-sub">PDF完全準拠（この1冊で合格する ＆ 新にほんご500問）演習道場</div>
+    </div>
+    <div class="header-actions">
+      <!-- 生徒認証バッジ -->
+      <button type="button" class="header-btn unified-student-badge" onclick="window.AppAuth ? window.AppAuth.openUserMenu() : null" style="cursor:pointer;" title="生徒ログイン・切替">
+        <span>🔑</span>
+        <span>ログイン</span>
+      </button>
+      <a href="index.html" class="header-btn" title="単語帳フラッシュカードを開く">
+        🎴 単語帳
+      </a>
+      <!-- 辞書検索 Button -->
+      <button class="header-btn" id="btnHeaderDict" title="内蔵辞書（68,000語）で単語を検索">
+        🔍 辞書検索
+      </button>
+      <!-- ふりがな ON/OFF Toggle -->
+      <div class="furigana-toggle" id="furiganaToggle" title="漢字の上のふりがなON/OFF">
+        <span class="toggle-label active" id="furiOnLabel">ふりがな ON</span>
+        <span class="toggle-label inactive" id="furiOffLabel">OFF</span>
+      </div>
+      <!-- MyList Button -->
+      <button class="header-btn" id="btnOpenMyList">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+        <span>マイリスト (<span id="myListCountHeader">0</span>)</span>
+      </button>
+      <!-- Quick Links to other N2 sections -->
+      <a href="jlpt_n2_vocab_cards.html" class="header-btn" title="N3語彙フラッシュカード（全3,412語）へ">
+        🎴 語彙カード
+      </a>
+      <a href="jlpt_n2_grammar_quiz.html" class="header-btn" title="N2文法穴埋め演習道場（全1,507問）へ">
+        ✍️ 文法穴埋め
+      </a>
+      <!-- Back to Portal -->
+      <a href="jlpt_practice.html" class="header-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        <span>演習道場へ戻る</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<!-- Main Container -->
+<main class="main-container">
+
+  <!-- Control Bar -->
+  <div class="control-bar">
+    <div class="filter-group">
+      <!-- Category Filter Dropdown -->
+      <select class="filter-select" id="categoryFilter">
+        <option value="all">全カテゴリー対象（全500問）</option>
+        <option value="漢字読み">漢字の読み方（漢字読み）</option>
+        <option value="漢字表記">漢字の書き方（表記）</option>
+        <option value="語形成">語形成・接辞（接頭辞・接尾辞）</option>
+        <option value="文脈規定">文脈規定・穴埋め</option>
+        <option value="類義語">類義語・言い換え表現</option>
+        <option value="語彙用法">語彙の正しい用法</option>
+        <option value="文法形式の判断">文法形式の判断（実戦演習）</option>
+      </select>
+
+      <!-- Question Count Limit -->
+      <div class="count-selector-group">
+        <button class="count-btn" data-count="10">10問</button>
+        <button class="count-btn" data-count="30">30問</button>
+        <button class="count-btn" data-count="50">50問</button>
+        <button class="count-btn active" data-count="0">全問</button>
+      </div>
+    </div>
+
+    <div class="action-buttons">
+      <!-- Shuffle Button -->
+      <button class="btn-action" id="btnShuffle" title="問題をランダムに並び替えます">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 3 21 3 21 8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21 16 21 21 16 21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line></svg>
+        <span>シャッフル</span>
+      </button>
+
+      <!-- Exit Button -->
+      <a href="jlpt_practice.html" class="btn-action" title="演習を終了してポータルへ戻る">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        <span>終了して戻る</span>
+      </a>
+
+      <!-- Resume Button -->
+      <button class="btn-action btn-resume" id="btnResume" style="display:none;" title="前回の続きから再開します">
+        <span>▶ 前回の続きから (<span id="resumeNum">1</span>問目〜)</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Progress Bar -->
+  <div class="progress-section">
+    <div class="progress-info">
+      <span id="progressText">問題 1 / 500</span>
+      <span id="scoreText">正解率: 0% (0 / 0)</span>
+    </div>
+    <div class="progress-bar-bg">
+      <div class="progress-bar-fill" id="progressBar"></div>
+    </div>
+  </div>
+
+  <!-- The Quiz Card -->
+  <div class="quiz-card" id="quizCard">
+    <div class="quiz-card-header">
+      <span class="category-pill" id="cardCategoryPill">
+        <span>🏷️</span>
+        <span id="cardCategoryName">漢字読み</span>
+      </span>
+      <div class="card-top-actions">
+        <!-- Audio TTS Button -->
+        <button class="icon-btn" id="btnSpeakQuestion" title="問題文の音声を発音">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+        </button>
+        <!-- Bookmark / Star Button -->
+        <button class="icon-btn" id="btnBookmark" title="マイリストに追加 / 削除">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Instruction Banner -->
+    <div class="quiz-instruction-banner" id="quizInstructionBanner">
+      <span class="inst-icon" id="quizInstIcon">📖</span>
+      <span class="inst-text" id="quizInstText">【　】の言葉の「読み方」を選んでください</span>
+    </div>
+
+    <!-- Question Sentence -->
+    <div class="question-sentence" id="questionSentence">
+      問題を読み込み中...
+    </div>
+
+    <!-- 4 Choices Grid -->
+    <div class="choices-grid" id="choicesGrid">
+      <!-- 選択肢が動的に生成されます -->
+    </div>
+
+    <!-- Explanation Card -->
+    <div class="explanation-card" id="explanationCard">
+      <div class="explanation-header">
+        <span class="result-tag" id="resultTag">✓ 正解！</span>
+        <button class="icon-btn" id="btnSpeakExplanation" title="解説の音声">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+        </button>
+      </div>
+
+      <!-- 📖 問題と答えの読み方カード (User Request 2) -->
+      <div class="reading-pairs-card" id="readingPairsCard" style="display:none;">
+        <div class="reading-pair-row">
+          <span class="reading-badge-pill q-badge">問題の言葉</span>
+          <span class="reading-pair-text" id="readQuestionWord"></span>
+          <span class="reading-pair-kana" id="readQuestionKana"></span>
+          <button type="button" class="reading-voice-btn" id="btnSpeakReadQuestion" title="問題の言葉の音声を再生">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+          </button>
+        </div>
+        <div class="reading-pair-row">
+          <span class="reading-badge-pill a-badge">正解の言葉</span>
+          <span class="reading-pair-text" id="readAnswerWord"></span>
+          <span class="reading-pair-kana" id="readAnswerKana"></span>
+          <button type="button" class="reading-voice-btn" id="btnSpeakReadAnswer" title="正解の言葉の音声を再生">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+          </button>
+        </div>
+      </div>
+
+      <p class="meaning-text" id="explanationText" style="display:none;"></p>
+
+      <!-- 💡 ニュアンスの違い・英語直訳との違い (User Request 3) -->
+      <div class="nuance-explanation-card" id="nuanceExplanationCard" style="display:none;">
+        <div class="nuance-card-header">
+          <span class="nuance-card-icon">💡</span>
+          <span class="nuance-card-title">ニュアンスの違い・英語直訳の注意点</span>
+        </div>
+        <div class="nuance-section" id="nuanceDiffSection">
+          <div class="nuance-subtitle">🔍 似た表現・類語とのニュアンスの違い</div>
+          <div class="nuance-text" id="nuanceDiffText"></div>
+        </div>
+        <div class="nuance-section" id="nuanceEngSection">
+          <div class="nuance-subtitle">⚠️ 英語直訳とのズレ・学習者の注意点</div>
+          <div class="nuance-text" id="nuanceEngText"></div>
+        </div>
+      </div>
+      
+      <!-- Kanji Breakdown Section -->
+      <div class="kanji-breakdown-section" id="kanjiBreakdownSection" style="display:none;">
+        <div class="kanji-section-title">
+          <span>🈴 漢字の構成・読み方（音読み・訓読み・意味）</span>
+        </div>
+        <div class="kanji-cards-grid" id="kanjiCardsGrid">
+          <!-- Dynamically generated -->
+        </div>
+      </div>
+
+      <!-- Related Compounds Section -->
+      <div class="similar-box" id="similarBox">
+        <div class="similar-title" id="similarBoxTitle">
+          <span>💡 この漢字を使った単語・関連語（タップで辞書検索＆保存）</span>
+        </div>
+        <div class="similar-items" id="similarItems">
+          <!-- Dynamically generated -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Next Question Button -->
+    <button class="btn-next" id="btnNext">次の問題へ進む [Enter] →</button>
+  </div>
+
+  <!-- Navigation Bar (Always Visible: ← 前に戻る / 次へ行く →) -->
+  <div class="nav-bar" id="quizNavBar">
+    <button class="nav-btn" id="prevBtn" disabled>
+      ← 前に戻る
+    </button>
+    <div style="font-size: 13px; color: var(--text-muted); font-weight: 500;">
+      ショートカット: [←] 前へ / [→] 次へ / [Enter] 次へ / [1]〜[4] 選択
+    </div>
+    <button class="nav-btn primary" id="nextBtn">
+      次へ行く →
+    </button>
+  </div>
+
+  <!-- Result View (スコア・復習・答え一覧) -->
+  <div class="result-view" id="resultView" style="display:none;">
+    <div class="result-hero">
+      <div style="font-size:46px; margin-bottom:10px;">🏆</div>
+      <h2 style="font-size:26px; font-weight:800; color:var(--text-primary); margin-bottom:6px;">演習完了！お疲れ様でした</h2>
+      <div class="result-eval-badge gold" id="resultEvalBadge">🌟 素晴らしい結果です！</div>
+      <div class="result-score-big" id="resultScorePct">80%</div>
+      <p style="font-size:16px; font-weight:700; color:var(--text-secondary);" id="resultScoreText">10問中 8問正解</p>
+      
+      <div class="result-actions">
+        <button class="btn-retry-wrong" id="btnRetryWrong" style="display:none;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+          <span>間違えた問題だけを復習 (<span id="resultWrongCount">0</span>問)</span>
+        </button>
+        <button class="btn-retry-all" id="btnRetryAll">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
+          <span>もう一度解く</span>
+        </button>
+        <a href="jlpt_practice.html" class="btn-return-portal">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+          <span>演習ポータルへ戻る</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Review Section -->
+    <div class="review-section" id="reviewSection">
+      <div class="review-header-row">
+        <h3 style="font-size:18px; font-weight:800; color:var(--primary-blue-dark); display:flex; align-items:center; gap:8px;">
+          <span>📋 解答・解説一覧（復習リスト）</span>
+        </h3>
+        <div class="review-filter-group">
+          <button class="rev-filter-btn active" data-filter="all" id="tabFilterAll">すべて (<span id="badgeCountAll">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="wrong" id="tabFilterWrong">❌ 不正解 (<span id="badgeCountWrong">0</span>)</button>
+          <button class="rev-filter-btn" data-filter="correct" id="tabFilterCorrect">✓ 正解 (<span id="badgeCountCorrect">0</span>)</button>
+        </div>
+      </div>
+      <div class="review-cards-list" id="reviewCardsContainer">
+        <!-- Dynamically rendered review cards -->
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<!-- MyList Modal -->
+<div class="modal-overlay" id="myListModal">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h3>⭐ マイリスト保存済み問題 (<span id="modalListCount">0</span>件)</h3>
+      <button class="icon-btn" id="btnCloseMyList" style="border:none; color:white; background:transparent;">✕</button>
+    </div>
+    <div class="modal-body" id="modalListBody">
+      <!-- Dynamic list -->
+    </div>
+  </div>
+</div>
+
+<!-- Action Modal for Word / Tag Details & Search -->
+<div class="modal-overlay" id="tagActionModal">
+  <div class="tag-modal-box">
+    <!-- Header Search Bar inside Modal -->
+    <div class="modal-dict-search-row" style="margin-bottom:14px;">
+      <input type="text" class="modal-dict-input" id="modalDictSearchInput" placeholder="単語・漢字・ひらがなで辞書検索..." />
+      <button type="button" class="modal-dict-search-btn" id="btnModalDictSearch">検索</button>
+    </div>
+
+    <div class="modal-term-title" id="modalTermTitle">言葉</div>
+    <div class="modal-term-reading" id="modalTermReading">（よみ）</div>
+    
+    <div class="modal-meaning-box" id="modalMeaningBox">
+      <div class="modal-meaning-label">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        意味・用法
+      </div>
+      <div class="modal-meaning-text" id="modalTermMeaning">意味が登録されていません。</div>
+    </div>
+
+    <button class="modal-btn-mylist" id="btnSaveToMylist">
+      ⭐ マイリストに追加
+    </button>
+
+    <div class="modal-sub-actions">
+      <button class="modal-sub-btn" id="btnSpeakModalTerm">
+        🔊 発音を再生
+      </button>
+      <button class="modal-sub-btn" id="btnCopyTerm">
+        📋 コピー
+      </button>
+      <button class="modal-sub-btn" id="btnSearchDict">
+        📖 辞書で検索
+      </button>
+    </div>
+
+    <!-- 内蔵クイック辞書パネル（画面を離れずにその場で表示） -->
+    <div class="modal-dict-panel" id="modalDictPanel" style="display:none;">
+      <div id="modalDictResultContent"></div>
+      <div class="modal-dict-footer-links">
+        <a href="dictionary.html" target="_blank" class="modal-dict-link-btn" id="linkExternalDict">
+          ↗ フル辞書ページを開く
+        </a>
+      </div>
+    </div>
+
+    <button class="modal-close-btn" id="btnCloseModal">✕ 閉じる</button>
+  </div>
+</div>
+
+<!-- Floating Selection Dictionary Tooltip (User Request 4) -->
+<div id="selectionDictTooltip" class="selection-dict-tooltip" style="display:none;">
+  <button type="button" id="btnSearchSelection">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <span>辞書で調べる</span>
+  </button>
+</div>
+
+<!-- Copy Event SnackBar (User Request 4) -->
+<div id="copyDictSnackbar" class="copy-dict-snackbar" style="display:none;">
+  <span class="copy-snack-text">📋「<strong id="copySnackWord"></strong>」をコピーしました</span>
+  <button type="button" class="copy-snack-btn" id="btnCopySnackSearch">🔍 辞書で検索</button>
+  <button type="button" class="copy-snack-close" id="btnCloseCopySnack">✕</button>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<!-- Load Database -->
+<script src="auth.js"></script>
+<script src="user_progress.js"></script>
+<script src="database/jlpt_n3_vocab_quiz_data.js"></script>
+<script src="database/jlpt_n2_vocab_full_data.js" defer></script>
+<script src="database/dict_examples_map.js" defer></script>
+<script src="database/dictionary_data.js" defer></script>
+<script src="database/jlpt_n2_data.js" defer></script>
+
+<script>
+  // State
+  let data = window.JLPT_N3_VOCAB_QUIZ_DATA || [];
+
+  // Fisher-Yates shuffle helper
+  function shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // 満遍なく・バランスよく問題を選出してシャッフルするヘルパー
+  function buildBalancedIndices(limit, catVal = 'all') {
+    // 1. 特定のカテゴリで絞り込まれている場合
+    if (catVal !== 'all') {
+      const matched = [];
+      for (let i = 0; i < data.length; i++) {
+        if (data[i].category && data[i].category.includes(catVal)) matched.push(i);
+      }
+      const shuffled = shuffleArray(matched);
+      return (limit > 0 && shuffled.length > limit) ? shuffled.slice(0, limit) : shuffled;
+    }
+
+    // 2. 全問モード（limit <= 0 または limit >= data.length）の場合は全500問を最初から完全シャッフル！
+    if (!limit || limit <= 0 || limit >= data.length) {
+      return shuffleArray(data.map((_, i) => i));
+    }
+
+    // 3. 厳選問題（10問、30問、50問等）の場合は、カテゴリごとに満遍なく分散させて選出
+    const catGroups = new Map();
+    data.forEach((q, idx) => {
+      const cat = q.category || 'その他';
+      if (!catGroups.has(cat)) {
+        catGroups.set(cat, []);
+      }
+      catGroups.get(cat).push(idx);
+    });
+
+    const shuffledGroups = new Map();
+    catGroups.forEach((indices, cat) => {
+      shuffledGroups.set(cat, shuffleArray(indices));
+    });
+
+    const catKeys = shuffleArray(Array.from(shuffledGroups.keys()));
+
+    const pickedIndices = [];
+    while (pickedIndices.length < limit && catKeys.length > 0) {
+      const currentRound = shuffleArray([...catKeys]);
+      let addedInRound = 0;
+      for (const cat of currentRound) {
+        if (pickedIndices.length >= limit) break;
+        const qList = shuffledGroups.get(cat);
+        if (qList && qList.length > 0) {
+          pickedIndices.push(qList.pop());
+          addedInRound++;
+        }
+      }
+      if (addedInRound === 0) break;
+    }
+
+    return shuffleArray(pickedIndices);
+  }
+
+  let selectedLimit = 0; // 0 = all
+  // 最初から全500問を完全ランダムシャッフル！
+  let activeIndices = buildBalancedIndices(selectedLimit, 'all');
+  let currentIndex = 0;
+  let correctCount = 0;
+  let answeredCount = 0;
+  let hasAnsweredCurrent = false;
+  let userAnswersMap = {};
+
+  // LocalStorage Keys
+  const STORAGE_RESUME_KEY = 'n2_vocab_quiz_last_idx';
+  const STORAGE_MYLIST_KEY = 'n2_vocab_quiz_mylist';
+  const STORAGE_FURI_KEY = 'jlpt_furigana_pref';
+
+  // DOM Elements
+  const furiganaToggle = document.getElementById('furiganaToggle');
+  const furiOnLabel = document.getElementById('furiOnLabel');
+  const furiOffLabel = document.getElementById('furiOffLabel');
+  const categoryFilter = document.getElementById('categoryFilter');
+  const btnShuffle = document.getElementById('btnShuffle');
+  const btnResume = document.getElementById('btnResume');
+  const resumeNum = document.getElementById('resumeNum');
+  const progressText = document.getElementById('progressText');
+  const scoreText = document.getElementById('scoreText');
+  const progressBar = document.getElementById('progressBar');
+  const cardCategoryName = document.getElementById('cardCategoryName');
+  const quizInstructionBanner = document.getElementById('quizInstructionBanner');
+  const quizInstIcon = document.getElementById('quizInstIcon');
+  const quizInstText = document.getElementById('quizInstText');
+  const questionSentence = document.getElementById('questionSentence');
+  const choicesGrid = document.getElementById('choicesGrid');
+  const explanationCard = document.getElementById('explanationCard');
+  const resultTag = document.getElementById('resultTag');
+  const explanationText = document.getElementById('explanationText');
+  const readingPairsCard = document.getElementById('readingPairsCard');
+  const readQuestionWord = document.getElementById('readQuestionWord');
+  const readQuestionKana = document.getElementById('readQuestionKana');
+  const btnSpeakReadQuestion = document.getElementById('btnSpeakReadQuestion');
+  const readAnswerWord = document.getElementById('readAnswerWord');
+  const readAnswerKana = document.getElementById('readAnswerKana');
+  const btnSpeakReadAnswer = document.getElementById('btnSpeakReadAnswer');
+  const nuanceExplanationCard = document.getElementById('nuanceExplanationCard');
+  const nuanceDiffSection = document.getElementById('nuanceDiffSection');
+  const nuanceDiffText = document.getElementById('nuanceDiffText');
+  const nuanceEngSection = document.getElementById('nuanceEngSection');
+  const nuanceEngText = document.getElementById('nuanceEngText');
+  const kanjiBreakdownSection = document.getElementById('kanjiBreakdownSection');
+  const kanjiCardsGrid = document.getElementById('kanjiCardsGrid');
+  const similarBox = document.getElementById('similarBox');
+  const similarBoxTitle = document.getElementById('similarBoxTitle');
+  const similarItems = document.getElementById('similarItems');
+  const btnNext = document.getElementById('btnNext');
+  const quizNavBar = document.getElementById('quizNavBar');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const btnBookmark = document.getElementById('btnBookmark');
+  const btnOpenMyList = document.getElementById('btnOpenMyList');
+  const myListModal = document.getElementById('myListModal');
+  const btnCloseMyList = document.getElementById('btnCloseMyList');
+  const modalListBody = document.getElementById('modalListBody');
+  const modalListCount = document.getElementById('modalListCount');
+  const myListCountHeader = document.getElementById('myListCountHeader');
+  const btnSpeakQuestion = document.getElementById('btnSpeakQuestion');
+  const btnSpeakExplanation = document.getElementById('btnSpeakExplanation');
+  const toast = document.getElementById('toast');
+
+  // Utility: Escape HTML
+  function escapeHtml(str) {
+    if (!str) return '';
+    return str.toString()
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // Question Instruction Banner Generator
+  function getQuestionInstruction(q) {
+    const cat = q.category || '';
+    if (cat === '漢字読み' || cat.startsWith('漢字読み')) {
+      return { icon: '📖', text: '【　】の言葉の「読み方」を選んでください' };
+    }
+    if (cat === '漢字表記' || cat.startsWith('漢字表記')) {
+      return { icon: '✏️', text: '【　】の言葉の「正しい漢字」を選んでください' };
+    }
+    if (cat === '語形成') {
+      return { icon: '🧩', text: '（　）に入る最も適切な「接頭語・接尾語」を選んでください' };
+    }
+    if (cat === '文脈規定') {
+      return { icon: '📝', text: '（　）に入る最も適切な「言葉」を選んでください' };
+    }
+    if (cat === '類義語') {
+      return { icon: '🔄', text: '【　】の言葉と「最も意味が近い表現」を選んでください' };
+    }
+    if (cat === '語彙用法') {
+      return { icon: '🎯', text: '【　】の言葉の使い方が「最も適切な文」を選んでください' };
+    }
+    if (cat.includes('文字')) {
+      const isKana = q.choices && q.choices.some(c => /^[ぁ-んー]+$/.test(c));
+      return isKana
+        ? { icon: '📖', text: '【　】の言葉の「読み方」を選んでください' }
+        : { icon: '✏️', text: '【　】の言葉の「正しい漢字」を選んでください' };
+    }
+    if (cat.includes('語彙') || cat.includes('文法')) {
+      if (q.question && q.question.includes('【')) {
+        return { icon: '🎯', text: '【　】の言葉の用法として最も適切なものを選んでください' };
+      }
+      return { icon: '📝', text: '（　）に入る最も適切な言葉を選んでください' };
+    }
+    return { icon: '📝', text: '最も適切な選択肢を1つ選んでください' };
+  }
+
+  // Question Target Formatter (Blanks & Distinct Target Chips)
+  function formatQuestionSentence(q, isRevealed, isCorrect) {
+    let html = q.question_ruby || q.question;
+    const cat = q.category || '';
+    const corr = q.correct_text;
+
+    // 1. Fill in the blank (（　　　） or （　） or (   ))
+    const blankRegex = /[（\(]\s*[）\)]/g;
+    if (blankRegex.test(html)) {
+      const cleanCorr = (corr || '').replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
+      const blankHtml = isRevealed
+        ? `<span class="quiz-blank-box revealed ${isCorrect ? 'correct' : 'wrong'}"><span class="blank-text">（ ${escapeHtml(cleanCorr)} ）</span></span>`
+        : `<span class="quiz-blank-box"><span class="blank-text">（　　　）</span></span>`;
+      return html.replace(blankRegex, blankHtml);
+    }
+
+    // 2. Protected kanji reading ruby: <ruby class="target-kanji-reading"><span class="target-word">【(.*?)】</span><rt class="target-reading-spoiler">(.*?)</rt></ruby>
+    const rubyTargetRegex = /<ruby class="target-kanji-reading"><span class="target-word">【(.*?)】<\/span><rt class="target-reading-spoiler">(.*?)<\/rt><\/ruby>/;
+    const mRuby = html.match(rubyTargetRegex);
+    if (mRuby) {
+      let kText = mRuby[1];
+      kText = kText.replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
+      const chipHtml = `<span class="quiz-target-chip reading ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${kText}】</span></span>`;
+      return html.replace(rubyTargetRegex, chipHtml);
+    }
+
+    // 3. Regular brackets 【...】
+    const bracketRegex = /【(.*?)】/;
+    const mBracket = html.match(bracketRegex);
+    if (mBracket) {
+      let inner = mBracket[1];
+      let chipClass = 'reading';
+      if (cat.includes('表記') || (!cat.includes('読み') && /[\u4e00-\u9fff]/.test(corr) && !/[\u4e00-\u9fff]/.test(inner))) {
+        chipClass = 'writing';
+      } else if (cat.includes('類義') || cat.includes('類語')) {
+        chipClass = 'synonym';
+      } else if (cat.includes('用法')) {
+        chipClass = 'usage';
+      }
+
+      // 類義語・語形成・読み等すべての問題で【...】内のルビを完全に除去（ふりがなON時のネタバレ防止）
+      inner = inner.replace(/<rt>[\s\S]*?<\/rt>/gi, '').replace(/<[^>]+>/g, '').trim();
+
+      // （する）や（な）などの不要な品詞注記を自動除去
+      inner = inner.replace(/\s*[（\(]\s*(?:する|な|だ)\s*[）\)]/g, '');
+
+      const chipHtml = `<span class="quiz-target-chip ${chipClass} ${isRevealed ? 'revealed' : ''}"><span class="chip-body">【${inner}】</span></span>`;
+      return html.replace(bracketRegex, chipHtml);
+    }
+
+    return html;
+  }
+
+  function getMyListStorageKey() {
+    const sId = (window.AppAuth && window.AppAuth.getCurrentStudent()?.id) || localStorage.getItem('haku_current_student_id') || 'guest';
+    return `n2_vocab_quiz_mylist_${sId}`;
+  }
+
+  // Load MyList from LocalStorage
+  let myList = [];
+  function loadMyListFromStorage() {
+    try {
+      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n2_vocab_quiz_mylist');
+      myList = raw ? JSON.parse(raw) : [];
+    } catch(e) { myList = []; }
+  }
+  loadMyListFromStorage();
+
+  function saveMyList() {
+    localStorage.setItem(getMyListStorageKey(), JSON.stringify(myList));
+    updateMyListUI();
+    // 総合ポータルのマイリストにも同期
+    if (window.UserProgress && activeIndices.length > 0) {
+      const q = data[activeIndices[currentIndex]];
+      if (q && q.correctAnswer) {
+        if (myList.includes(q.id)) {
+          window.UserProgress.addSavedVocab({
+            id: `jlpt_vocab_q_${q.id}`,
+            word: q.correctAnswer,
+            reading: q.reading || '',
+            meaning: q.meaning || q.questionText || '',
+            level: 'N2',
+            source: 'jlpt'
+          });
+        }
+      }
+    }
+  }
+
+  if (window.AppAuth) {
+    window.AppAuth.onAuthStateChanged(() => {
+      loadMyListFromStorage();
+      updateMyListUI();
+    });
+  }
+
+  function updateMyListUI() {
+    myListCountHeader.textContent = myList.length;
+    modalListCount.textContent = myList.length;
+    
+    // Check if current question is saved
+    if (activeIndices.length > 0) {
+      const q = data[activeIndices[currentIndex]];
+      if (q && myList.includes(q.id)) {
+        btnBookmark.classList.add('saved');
+      } else {
+        btnBookmark.classList.remove('saved');
+      }
+    }
+  }
+
+  // Toast
+  function showToast(msg) {
+    toast.textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2000);
+  }
+
+  // Furigana Toggle
+  let furiganaVisible = localStorage.getItem(STORAGE_FURI_KEY) !== 'off';
+  function applyFuriganaState() {
+    if (furiganaVisible) {
+      document.body.classList.remove('hide-furigana');
+      furiOnLabel.classList.add('active');
+      furiOnLabel.classList.remove('inactive');
+      furiOffLabel.classList.remove('active');
+      furiOffLabel.classList.add('inactive');
+      localStorage.setItem(STORAGE_FURI_KEY, 'on');
+    } else {
+      document.body.classList.add('hide-furigana');
+      furiOffLabel.classList.add('active');
+      furiOffLabel.classList.remove('inactive');
+      furiOnLabel.classList.remove('active');
+      furiOnLabel.classList.add('inactive');
+      localStorage.setItem(STORAGE_FURI_KEY, 'off');
+    }
+  }
+  furiganaToggle.addEventListener('click', () => {
+    furiganaVisible = !furiganaVisible;
+    applyFuriganaState();
+  });
+  applyFuriganaState();
+
+  // TTS Speech
+  function speak(text) {
+    if (!text) return;
+    const cleanText = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]*>/g, '')
+      .replace(/（\s*）|\(　*\)|（　*）/g, '、')
+      .replace(/[【】]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!cleanText) return;
+
+    if (cleanText.length <= 150) {
+      try {
+        const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(cleanText)}`;
+        const audio = new Audio(url);
+        audio.play().catch(() => {
+          fallbackSpeech(cleanText);
+        });
+        return;
+      } catch (e) {}
+    }
+    fallbackSpeech(cleanText);
+  }
+
+  function fallbackSpeech(cleanText) {
+    if (!('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const utter = new SpeechSynthesisUtterance(cleanText);
+    utter.lang = 'ja-JP';
+    utter.rate = 0.95;
+    window.speechSynthesis.speak(utter);
+  }
+
+  btnSpeakQuestion.addEventListener('click', () => {
+    const q = data[activeIndices[currentIndex]];
+    if (q) speak(q.question);
+  });
+
+  btnSpeakExplanation.addEventListener('click', () => {
+    const q = data[activeIndices[currentIndex]];
+    if (q) speak(`${q.correct_text}。${q.meaning_en || ''}`);
+  });
+
+  // Filter & Limit Logic
+  categoryFilter.addEventListener('change', (e) => {
+    activeIndices = buildBalancedIndices(selectedLimit, e.target.value);
+    currentIndex = 0;
+    correctCount = 0;
+    answeredCount = 0;
+    renderQuestion();
+  });
+
+  document.querySelectorAll('.count-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.count-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedLimit = parseInt(btn.dataset.count, 10);
+      activeIndices = buildBalancedIndices(selectedLimit, categoryFilter.value);
+      currentIndex = 0;
+      correctCount = 0;
+      answeredCount = 0;
+      renderQuestion();
+      showToast(selectedLimit === 0 ? `全 ${activeIndices.length} 問（ランダムシャッフル）を設定しました` : `${selectedLimit} 問（満遍なく厳選シャッフル）を開始します`);
+    });
+  });
+
+  // Shuffle
+  btnShuffle.addEventListener('click', () => {
+    activeIndices = buildBalancedIndices(selectedLimit, categoryFilter.value);
+    currentIndex = 0;
+    correctCount = 0;
+    answeredCount = 0;
+    renderQuestion();
+    showToast(selectedLimit === 0 ? '全問題を最初から完全シャッフルしました！' : `${activeIndices.length} 問を満遍なく再シャッフルしました！`);
+  });
+
+  // Resume feature
+  function checkResume() {
+    const lastSaved = localStorage.getItem(STORAGE_RESUME_KEY);
+    if (lastSaved) {
+      const idx = parseInt(lastSaved, 10);
+      if (idx > 0 && idx < activeIndices.length && idx !== currentIndex) {
+        resumeNum.textContent = idx + 1;
+        btnResume.style.display = 'inline-flex';
+      } else {
+        btnResume.style.display = 'none';
+      }
+    } else {
+      btnResume.style.display = 'none';
+    }
+  }
+
+  btnResume.addEventListener('click', () => {
+    const lastSaved = localStorage.getItem(STORAGE_RESUME_KEY);
+    if (lastSaved) {
+      const idx = parseInt(lastSaved, 10);
+      if (idx > 0 && idx < activeIndices.length) {
+        currentIndex = idx;
+        btnResume.style.display = 'none';
+        renderQuestion();
+        showToast(`${idx + 1}問目から再開しました！`);
+      }
+    }
+  });
+
+  // Render Question
+  function renderQuestion() {
+    if (activeIndices.length === 0) {
+      questionSentence.innerHTML = '該当する問題が見つかりませんでした。条件を変更してください。';
+      choicesGrid.innerHTML = '';
+      explanationCard.style.display = 'none';
+      btnNext.style.display = 'none';
+      if (prevBtn) prevBtn.disabled = true;
+      if (nextBtn) nextBtn.disabled = true;
+      return;
+    }
+
+    const q = data[activeIndices[currentIndex]];
+    cardCategoryName.textContent = q.category;
+    questionSentence.classList.remove('revealed');
+
+    // Update Instruction Banner
+    const inst = getQuestionInstruction(q);
+    quizInstIcon.textContent = inst.icon;
+    quizInstText.textContent = inst.text;
+
+    // Render formatted question with distinct target chips & blank box
+    questionSentence.innerHTML = formatQuestionSentence(q, false, false);
+
+    // Save resume index when user is progressing
+    if (currentIndex > 0) {
+      localStorage.setItem(STORAGE_RESUME_KEY, currentIndex.toString());
+    }
+    checkResume();
+
+    // Progress
+    progressText.textContent = `問題 ${currentIndex + 1} / ${activeIndices.length}`;
+    const pct = Math.round(((currentIndex) / activeIndices.length) * 100);
+    progressBar.style.width = `${pct}%`;
+    const scorePct = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+    scoreText.textContent = `正解率: ${scorePct}% (${correctCount} / ${answeredCount})`;
+
+    // Render Choices
+    choicesGrid.innerHTML = '';
+
+    // 漢字表記問題（ひらがなから正しい漢字を選ぶ問題）は、選択肢にふりがなを振るとネタバレになるため、プレーンな漢字（q.choices）を使用する
+    const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+      (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
+    const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
+
+    // 長い選択肢（用法問題、文が含まれる、または10文字以上）の場合は1列4行にする
+    const isLongChoice = choices.some(c => {
+      const plain = (c || '').replace(/<[^>]+>/g, '').trim();
+      return plain.includes('。') || plain.length >= 10;
+    }) || (q.category && (q.category.includes('用法') || q.category.includes('適切な文')));
+
+    choicesGrid.classList.toggle('single-column', isLongChoice);
+
+    choices.forEach((cText, idx) => {
+      const btn = document.createElement('button');
+      btn.className = 'choice-btn';
+      btn.dataset.index = idx;
+      btn.innerHTML = `<span class="choice-num">${idx + 1}</span><span class="choice-text">${cText}</span>`;
+      btn.addEventListener('click', () => handleChoice(idx));
+      choicesGrid.appendChild(btn);
+    });
+
+    // Check if previously answered
+    const previousAns = userAnswersMap[currentIndex];
+    if (previousAns) {
+      hasAnsweredCurrent = true;
+      questionSentence.classList.add('revealed');
+      questionSentence.innerHTML = formatQuestionSentence(q, true, previousAns.isCorrect);
+
+      const buttons = choicesGrid.querySelectorAll('.choice-btn');
+      buttons.forEach((b, idx) => {
+        b.disabled = true;
+        if (idx === q.answer) {
+          b.classList.add('correct');
+        } else if (idx === previousAns.selectedIndex && !previousAns.isCorrect) {
+          b.classList.add('wrong');
+        }
+      });
+
+      renderExplanationContent(q, previousAns.isCorrect);
+      explanationCard.style.display = 'block';
+      btnNext.style.display = 'block';
+    } else {
+      hasAnsweredCurrent = false;
+      explanationCard.style.display = 'none';
+      btnNext.style.display = 'none';
+    }
+
+    // Navigation Buttons State (Always Visible: ← 前に戻る / 次へ行く →)
+    if (prevBtn) prevBtn.disabled = (currentIndex === 0);
+    if (nextBtn) {
+      nextBtn.textContent = (currentIndex === activeIndices.length - 1) ? '結果を見る 🏆' : '次へ行く →';
+      nextBtn.disabled = false;
+    }
+    if (btnNext) {
+      btnNext.textContent = (currentIndex === activeIndices.length - 1) ? '演習結果を見る [Enter] 🏆' : '次の問題へ進む [Enter] →';
+    }
+    if (quizNavBar) quizNavBar.style.display = 'flex';
+
+    updateMyListUI();
+  }
+
+  // Render Explanation Card & Reading Details
+  function renderExplanationContent(q, isCorrect) {
+    if (isCorrect) {
+      resultTag.className = 'result-tag correct';
+      resultTag.innerHTML = `✓ 正解！ (${escapeHtml(q.correct_text)})`;
+    } else {
+      resultTag.className = 'result-tag wrong';
+      resultTag.innerHTML = `✕ 不正解（正解: ${q.answer + 1}. ${escapeHtml(q.correct_text)}）`;
+    }
+
+    // 📖 Update Question & Answer Reading Pairs (User Request 2)
+    const targetWord = q.target_word || q.correct_text;
+    const targetReading = q.target_word_reading || '';
+    const answerWord = q.correct_text;
+    const answerReading = q.correct_text_reading || '';
+
+    if (readQuestionWord) readQuestionWord.textContent = targetWord;
+    if (readQuestionKana) {
+      readQuestionKana.textContent = (targetReading && targetReading !== targetWord) ? `（${targetReading}）` : '';
+    }
+    if (btnSpeakReadQuestion) {
+      btnSpeakReadQuestion.onclick = () => speakJapaneseText(targetWord);
+    }
+
+    if (readAnswerWord) readAnswerWord.textContent = answerWord;
+    if (readAnswerKana) {
+      readAnswerKana.textContent = (answerReading && answerReading !== answerWord) ? `（${answerReading}）` : '';
+    }
+    if (btnSpeakReadAnswer) {
+      btnSpeakReadAnswer.onclick = () => speakJapaneseText(answerWord);
+    }
+    if (readingPairsCard) readingPairsCard.style.display = 'flex';
+
+    // Show Meaning (if available)
+    if (q.meaning_en) {
+      explanationText.style.display = 'block';
+      explanationText.innerHTML = `<strong>【意味】</strong> ${escapeHtml(q.meaning_en)}`;
+    } else {
+      explanationText.style.display = 'none';
+      explanationText.innerHTML = '';
+    }
+
+    // 💡 Nuance & English Direct Translation Differences (User Request 3)
+    if (nuanceExplanationCard) {
+      if (q.nuance_diff || q.english_pitfall) {
+        if (nuanceDiffText) nuanceDiffText.innerHTML = escapeHtml(q.nuance_diff || '').replace(/\n/g, '<br>');
+        if (nuanceEngText) nuanceEngText.innerHTML = escapeHtml(q.english_pitfall || '').replace(/\n/g, '<br>');
+        nuanceExplanationCard.style.display = 'block';
+      } else {
+        nuanceExplanationCard.style.display = 'none';
+      }
+    }
+
+    // Kanji Breakdown Cards (漢字, 音読み, 訓読み, 意味)
+    if (q.kanji_info && Array.isArray(q.kanji_info) && q.kanji_info.length > 0) {
+      kanjiCardsGrid.innerHTML = q.kanji_info.map(ki => `
+        <div class="kanji-detail-card">
+          <div class="kanji-char-box">
+            <span>${escapeHtml(ki.kanji)}</span>
+            <span class="kanji-char-sub">漢字</span>
+          </div>
+          <div class="kanji-readings-box">
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl">音</span>
+              <span class="kanji-reading-val">${escapeHtml(ki.onyomi || '-')}</span>
+            </div>
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl kun">訓</span>
+              <span class="kanji-reading-val">${escapeHtml(ki.kunyomi || '-')}</span>
+            </div>
+            ${ki.meaning ? `
+            <div class="kanji-reading-row">
+              <span class="kanji-reading-lbl mean">意</span>
+              <span class="kanji-reading-val meaning">${escapeHtml(ki.meaning)}</span>
+            </div>` : ''}
+          </div>
+        </div>
+      `).join('');
+      kanjiBreakdownSection.style.display = 'block';
+      similarBoxTitle.innerHTML = '<span>💡 この漢字を使った単語・関連語（タップで辞書検索＆保存）</span>';
+    } else {
+      kanjiBreakdownSection.style.display = 'none';
+      kanjiCardsGrid.innerHTML = '';
+      similarBoxTitle.innerHTML = '<span>💡 関連する表現・重要語彙（タップで辞書検索＆保存）</span>';
+    }
+    
+    // Generate Similar / Collocation Pills
+    similarItems.innerHTML = '';
+    const simList = (q.similar && Array.isArray(q.similar) && q.similar.length > 0)
+      ? q.similar
+      : [{ term: q.target_word || q.correct_text, reading: '', meaning: '' }];
+
+    simList.forEach(item => {
+      const pill = document.createElement('span');
+      pill.className = 'similar-pill';
+      const rPart = (item.reading && item.reading !== item.term)
+        ? `<span class="pill-reading">（${escapeHtml(item.reading)}）</span>`
+        : '';
+      pill.innerHTML = `🔍 ${escapeHtml(item.term)}${rPart}`;
+      pill.title = '内蔵辞書で検索＆マイリストに保存';
+      pill.addEventListener('click', () => {
+        openTagActionModal(item);
+      });
+      similarItems.appendChild(pill);
+    });
+  }
+
+  // Handle Choice Selection
+  function handleChoice(selectedIndex) {
+    if (hasAnsweredCurrent) return;
+    hasAnsweredCurrent = true;
+    answeredCount++;
+
+    const q = data[activeIndices[currentIndex]];
+    const buttons = choicesGrid.querySelectorAll('.choice-btn');
+    const isCorrect = (selectedIndex === q.answer);
+
+    // Reveal target word reading / blank in question sentence
+    questionSentence.classList.add('revealed');
+    questionSentence.innerHTML = formatQuestionSentence(q, true, isCorrect);
+
+    if (isCorrect) {
+      correctCount++;
+      buttons[selectedIndex].classList.add('correct');
+    } else {
+      buttons[selectedIndex].classList.add('wrong');
+      if (q.answer >= 0 && q.answer < buttons.length) {
+        buttons[q.answer].classList.add('correct');
+      }
+    }
+
+    userAnswersMap[currentIndex] = {
+      dataIndex: activeIndices[currentIndex],
+      selectedIndex: selectedIndex,
+      isCorrect: isCorrect
+    };
+
+    buttons.forEach(b => b.disabled = true);
+
+    renderExplanationContent(q, isCorrect);
+    explanationCard.style.display = 'block';
+    btnNext.style.display = 'block';
+
+    if (nextBtn) {
+      nextBtn.textContent = (currentIndex === activeIndices.length - 1) ? '結果を見る 🏆' : '次へ行く →';
+    }
+    if (btnNext) {
+      btnNext.textContent = (currentIndex === activeIndices.length - 1) ? '演習結果を見る [Enter] 🏆' : '次の問題へ進む [Enter] →';
+    }
+
+    // Update Live Score
+    const scorePct = Math.round((correctCount / answeredCount) * 100);
+    scoreText.textContent = `正解率: ${scorePct}% (${correctCount} / ${answeredCount})`;
+  }
+
+  // Tag Action Modal Elements & Logic
+  const tagActionModal = document.getElementById('tagActionModal');
+  const modalTermTitle = document.getElementById('modalTermTitle');
+  const modalTermReading = document.getElementById('modalTermReading');
+  const modalTermMeaning = document.getElementById('modalTermMeaning');
+  const btnSaveToMylist = document.getElementById('btnSaveToMylist');
+  const btnSearchDict = document.getElementById('btnSearchDict');
+  const btnCopyTerm = document.getElementById('btnCopyTerm');
+  const btnCloseModal = document.getElementById('btnCloseModal');
+  const modalDictPanel = document.getElementById('modalDictPanel');
+  const modalDictSearchInput = document.getElementById('modalDictSearchInput');
+  const btnModalDictSearch = document.getElementById('btnModalDictSearch');
+  const modalDictResultContent = document.getElementById('modalDictResultContent');
+  const linkExternalDict = document.getElementById('linkExternalDict');
+
+  let activeModalTerm = "";
+  let activeModalItem = null;
+
+  function isTermSavedInMylist(term) {
+    try {
+      const list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+      return list.includes(term);
+    } catch(e) {
+      return false;
+    }
+  }
+
+  function updateMylistButton(isSaved) {
+    if (isSaved) {
+      btnSaveToMylist.classList.add('saved');
+      btnSaveToMylist.innerHTML = `⭐ マイリスト保存済み（クリックで解除）`;
+    } else {
+      btnSaveToMylist.classList.remove('saved');
+      btnSaveToMylist.innerHTML = `⭐ マイリストに追加`;
+    }
+  }
+
+  function openTagActionModal(item) {
+    activeModalItem = item;
+    activeModalTerm = item.term;
+    modalTermTitle.textContent = item.term;
+    if (item.reading && item.reading !== item.term) {
+      modalTermReading.textContent = `（${item.reading}）`;
+      modalTermReading.style.display = 'block';
+    } else {
+      modalTermReading.textContent = '';
+      modalTermReading.style.display = 'none';
+    }
+    modalTermMeaning.textContent = item.meaning || '意味・解説が登録されていません。';
+
+    updateMylistButton(isTermSavedInMylist(item.term));
+    if (modalDictPanel) modalDictPanel.style.display = 'none';
+    tagActionModal.style.display = 'flex';
+  }
+
+  function closeTagActionModal() {
+    tagActionModal.style.display = 'none';
+    if (modalDictPanel) modalDictPanel.style.display = 'none';
+  }
+
+  btnCloseModal.addEventListener('click', closeTagActionModal);
+  tagActionModal.addEventListener('click', (e) => {
+    if (e.target === tagActionModal) closeTagActionModal();
+  });
+
+  // Action 1: Toggle Save to MyList
+  btnSaveToMylist.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    const isSaved = isTermSavedInMylist(activeModalTerm);
+    try {
+      let customList = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+      if (isSaved) {
+        customList = customList.filter(t => t !== activeModalTerm);
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        updateMylistButton(false);
+        showToast(`「${activeModalTerm}」をマイリストから削除しました`);
+      } else {
+        if (!customList.includes(activeModalTerm)) {
+          customList.push(activeModalTerm);
+        }
+        localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        updateMylistButton(true);
+        showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
+      }
+    } catch(e) {
+      showToast(`保存に失敗しました`);
+    }
+  });
+
+  // Action 2: Copy to Clipboard
+  btnCopyTerm.addEventListener('click', () => {
+    if (!activeModalTerm) return;
+    navigator.clipboard.writeText(activeModalTerm).then(() => {
+      showToast(`「${activeModalTerm}」をコピーしました！`);
+    }).catch(() => {
+      showToast(`コピーに失敗しました`);
+    });
+  });
+
+  // Action 3: Speak Modal Term Audio
+  const btnSpeakModalTerm = document.getElementById('btnSpeakModalTerm');
+  if (btnSpeakModalTerm) {
+    btnSpeakModalTerm.addEventListener('click', () => {
+      if (activeModalTerm) speakJapaneseText(activeModalTerm);
+    });
+  }
+
+  // Built-in Dictionary & Audio Logic
+  function speakJapaneseText(text) {
+    if (!text) return;
+    const clean = text
+      .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!clean) return;
+    try {
+      const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
+      const audio = new Audio(url);
+      audio.play().catch(e => {
+        if ('speechSynthesis' in window) {
+          const utter = new SpeechSynthesisUtterance(clean);
+          utter.lang = 'ja-JP';
+          window.speechSynthesis.speak(utter);
+        }
+      });
+    } catch(err) {
+      if ('speechSynthesis' in window) {
+        const utter = new SpeechSynthesisUtterance(clean);
+        utter.lang = 'ja-JP';
+        window.speechSynthesis.speak(utter);
+      }
+    }
+  }
+
+  function cleanSearchWord(word) {
+    if (!word) return "";
+    return word
+      .replace(/^[〜~]/, '')
+      .replace(/（.*?）|\(.*?\)/g, '')
+      .replace(/[・「」]/g, '')
+      .trim();
+  }
+
+  function searchDictionaryOnPage(query) {
+    if (!query) return null;
+    const cleanQ = cleanSearchWord(query);
+
+    // 1. Search in Vocab Quiz Data
+    let vocabQuizMatch = null;
+    if (window.JLPT_N3_VOCAB_QUIZ_DATA && Array.isArray(window.JLPT_N3_VOCAB_QUIZ_DATA)) {
+      const qm = window.JLPT_N3_VOCAB_QUIZ_DATA.find(q => {
+        const twClean = cleanSearchWord(q.target_word);
+        return twClean === cleanQ || q.target_word === query || (q.target_reading && cleanSearchWord(q.target_reading) === cleanQ);
+      });
+      if (qm) {
+        vocabQuizMatch = {
+          term: qm.target_word,
+          reading: qm.target_reading || '',
+          ruby: qm.target_ruby || '',
+          meaning: qm.target_meaning || '',
+          level: 'N3 語彙',
+          example_ja: qm.sentence_ruby || qm.sentence || '',
+          example_en: qm.sentence_en || ''
+        };
+      }
+    }
+
+    // 2. Search in Vocab Full Data
+    let vocabMatch = null;
+    if (window.JLPT_N2_VOCAB_DATA && Array.isArray(window.JLPT_N2_VOCAB_DATA)) {
+      const vMatch = window.JLPT_N2_VOCAB_DATA.find(v => {
+        const vClean = cleanSearchWord(v.word);
+        return vClean === cleanQ || v.word === query || (v.reading && cleanSearchWord(v.reading) === cleanQ);
+      });
+      if (vMatch) {
+        vocabMatch = {
+          term: vMatch.word,
+          reading: vMatch.reading || '',
+          ruby: vMatch.ruby || '',
+          meaning: vMatch.meaning || '',
+          level: vMatch.cat_name || 'N3 語彙',
+          example_ja: vMatch.ex_ja || '',
+          example_en: vMatch.ex_en || ''
+        };
+      }
+    }
+
+    // 3. Search in Grammar Data
+    let grammarMatch = null;
+    if (window.JLPT_SIMILAR_GRAMMAR_DICT) {
+      for (const k in window.JLPT_SIMILAR_GRAMMAR_DICT) {
+        const cleanK = cleanSearchWord(k);
+        if (cleanK === cleanQ || k === query) {
+          grammarMatch = {
+            term: k,
+            reading: '',
+            meaning: window.JLPT_SIMILAR_GRAMMAR_DICT[k].meaning || '',
+            similar: window.JLPT_SIMILAR_GRAMMAR_DICT[k].similar || '',
+            level: 'N2 文法'
+          };
+          break;
+        }
+      }
+    }
+
+    // 4. Search in Dictionary Data (Exact match first, then startsWith, then includes)
+    let dictMatch = null;
+    if (window.DICT_DATA && Array.isArray(window.DICT_DATA)) {
+      const dMatch = window.DICT_DATA.find(d => d.w === cleanQ || d.r === cleanQ)
+        || window.DICT_DATA.find(d => d.w && d.w.startsWith(cleanQ))
+        || window.DICT_DATA.find(d => (d.w && d.w.includes(cleanQ)) || (d.r && d.r.includes(cleanQ)));
+      if (dMatch) {
+        dictMatch = {
+          term: dMatch.w,
+          reading: dMatch.r || '',
+          meaning: Array.isArray(dMatch.m) ? dMatch.m.join('; ') : (dMatch.m || ''),
+          level: dMatch.l ? `JLPT ${dMatch.l}` : '語彙'
+        };
+      }
+    }
+
+    // 5. Example Sentence Resolution
+    let ex_ja = '';
+    let ex_en = '';
+    if (vocabMatch && vocabMatch.example_ja) {
+      ex_ja = vocabMatch.example_ja;
+      ex_en = vocabMatch.example_en;
+    } else if (vocabQuizMatch && vocabQuizMatch.example_ja) {
+      ex_ja = vocabQuizMatch.example_ja;
+      ex_en = vocabQuizMatch.example_en;
+    } else if (grammarMatch && grammarMatch.example_ja) {
+      ex_ja = grammarMatch.example_ja;
+      ex_en = grammarMatch.example_en;
+    } else if (window.DICT_EXAMPLES_MAP) {
+      const ex = window.DICT_EXAMPLES_MAP[cleanQ] || (dictMatch && window.DICT_EXAMPLES_MAP[dictMatch.term]);
+      if (ex) {
+        ex_ja = ex.ja || '';
+        ex_en = ex.en || '';
+      }
+    }
+
+    const primary = vocabMatch || vocabQuizMatch || grammarMatch || dictMatch || {
+      term: query,
+      reading: '',
+      meaning: '意味・解説が見つかりませんでした。',
+      level: '辞書検索'
+    };
+
+    return {
+      term: primary.term || cleanQ,
+      reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
+      level: primary.level || 'JLPT N2',
+      meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
+      example_ja: ex_ja,
+      example_en: ex_en,
+      similar: (grammarMatch && grammarMatch.similar) ? grammarMatch.similar : ''
+    };
+  }
+
+  function renderDictLookup(query) {
+    if (!modalDictResultContent) return;
+    const cleanQ = cleanSearchWord(query);
+    const result = searchDictionaryOnPage(query);
+    if (!result) {
+      modalDictResultContent.innerHTML = `<div style="padding:12px;color:#718096;text-align:center;">該当する単語が見つかりませんでした。</div>`;
+      return;
+    }
+
+    const escapedTerm = result.term.replace(/'/g, "\\'");
+    const readingPart = (result.reading && result.reading !== result.term)
+      ? `<span class="modal-dict-card-reading">（${result.reading}）</span>`
+      : '';
+
+    let exHtml = '';
+    if (result.example_ja) {
+      const plainEx = result.example_ja.replace(/<[^>]+>/g, '').replace(/'/g, "\\'");
+      exHtml = `
+        <div class="modal-dict-card-ex-box">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+            <div class="modal-dict-card-ex-ja">${result.example_ja}</div>
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${plainEx}')" title="例文の発音を再生">🔊</button>
+          </div>
+          ${result.example_en ? `<div class="modal-dict-card-ex-en">${result.example_en}</div>` : ''}
+        </div>
+      `;
+    }
+
+    let similarHtml = '';
+    if (result.similar) {
+      const tags = result.similar.split(/[、,]/).map(s => s.trim()).filter(Boolean);
+      if (tags.length > 0) {
+        similarHtml = `
+          <div style="margin-top:10px;">
+            <div style="font-size:11px;font-weight:700;color:#4D648D;margin-bottom:4px;">関連表現・類語（タップで検索）:</div>
+            <div class="modal-dict-similar-tags">
+              ${tags.map(t => `<button type="button" class="modal-dict-similar-tag" onclick="window.quickDictSearch('${t.replace(/'/g, "\\'")}')">🔍 ${t}</button>`).join('')}
+            </div>
+          </div>
+        `;
+      }
+    }
+
+    const isSaved = isTermSavedInMylist(result.term);
+    const mylistBtnHtml = `
+      <button type="button" class="modal-dict-mylist-btn ${isSaved ? 'saved' : ''}" onclick="window.toggleDictCardMylist('${escapedTerm}', this)">
+        ⭐ ${isSaved ? 'マイリスト保存済み' : 'マイリストに追加'}
+      </button>
+    `;
+
+    modalDictResultContent.innerHTML = `
+      <div class="modal-dict-card">
+        <div class="modal-dict-card-header">
+          <div class="modal-dict-card-word">
+            <span>${result.term}</span>
+            ${readingPart}
+            <button class="modal-dict-tts-btn" onclick="speakJapaneseText('${escapedTerm}')" title="発音を再生">🔊</button>
+          </div>
+          <div style="display:flex;align-items:center;gap:6px;">
+            ${mylistBtnHtml}
+            <span class="modal-dict-card-badge">${result.level}</span>
+          </div>
+        </div>
+        <div class="modal-dict-card-meaning">${result.meaning}</div>
+        ${exHtml}
+        ${similarHtml}
+      </div>
+    `;
+
+    if (linkExternalDict) {
+      linkExternalDict.href = `dictionary.html?search=${encodeURIComponent(cleanQ)}`;
+    }
+  }
+
+  // Direct Add to MyList from Dictionary Result
+  window.toggleDictCardMylist = function(term, btnElem) {
+    const clean = cleanSearchWord(term);
+    const isSaved = isTermSavedInMylist(clean);
+    let list = [];
+    try {
+      list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
+    } catch(e) { list = []; }
+
+    if (isSaved) {
+      list = list.filter(t => t !== clean);
+      localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+      if (btnElem) {
+        btnElem.classList.remove('saved');
+        btnElem.innerHTML = `⭐ マイリストに追加`;
+      }
+      updateMylistButton(false);
+      showToast(`「${clean}」をマイリストから削除しました`);
+    } else {
+      if (!list.includes(clean)) list.push(clean);
+      localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+      if (btnElem) {
+        btnElem.classList.add('saved');
+        btnElem.innerHTML = `⭐ マイリスト保存済み`;
+      }
+      updateMylistButton(true);
+      showToast(`「${clean}」をマイリストに追加しました！⭐`);
+      if (window.UserProgress) {
+        window.UserProgress.addSavedVocab({
+          id: `custom_vocab_${Date.now()}_${clean}`,
+          word: clean,
+          reading: '',
+          meaning: '辞書検索から追加',
+          level: 'N2',
+          source: 'dict'
+        });
+      }
+    }
+  };
+
+  // Open Unified Dictionary Modal
+  function openDictModal(term) {
+    activeModalTerm = term || "";
+    modalTermTitle.textContent = term || "内蔵辞書検索";
+    modalTermReading.textContent = "";
+    modalTermReading.style.display = "none";
+    if (document.getElementById('modalMeaningBox')) {
+      document.getElementById('modalMeaningBox').style.display = term ? 'block' : 'none';
+    }
+
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = term || "";
+    }
+
+    updateMylistButton(term ? isTermSavedInMylist(term) : false);
+
+    if (modalDictPanel) modalDictPanel.style.display = "block";
+
+    if (term) {
+      renderDictLookup(term);
+    } else {
+      if (modalDictResultContent) {
+        modalDictResultContent.innerHTML = `
+          <div style="padding:24px 12px; color:#64748B; text-align:center;">
+            <div style="font-size:32px; margin-bottom:8px;">🔍</div>
+            <p style="font-size:14px; font-weight:700; color:#334155; margin-bottom:4px;">調べたい単語を入力して検索してください</p>
+            <p style="font-size:12px; color:#94A3B8;">問題文の単語を選択・コピーしても辞書検索できます（68,000語収録）</p>
+          </div>
+        `;
+      }
+    }
+
+    tagActionModal.style.display = "flex";
+
+    if (!term && modalDictSearchInput) {
+      setTimeout(() => modalDictSearchInput.focus(), 100);
+    }
+  }
+  window.openDictModal = openDictModal;
+
+  // Header Dictionary Button Event
+  const btnHeaderDict = document.getElementById('btnHeaderDict');
+  if (btnHeaderDict) {
+    btnHeaderDict.addEventListener('click', () => {
+      openDictModal('');
+    });
+  }
+
+  // Floating Selection Dictionary Tooltip (User Request 4)
+  const selectionTooltip = document.getElementById('selectionDictTooltip');
+  const btnSearchSelection = document.getElementById('btnSearchSelection');
+  let currentSelectedText = '';
+
+  document.addEventListener('selectionchange', () => {
+    const sel = window.getSelection();
+    const str = sel ? sel.toString().trim() : '';
+    if (!str || str.length === 0 || str.length > 30) {
+      if (selectionTooltip) selectionTooltip.style.display = 'none';
+      return;
+    }
+    currentSelectedText = str;
+    try {
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+      if (rect && rect.width > 0 && selectionTooltip) {
+        selectionTooltip.style.display = 'block';
+        selectionTooltip.style.top = `${window.scrollY + rect.top - 40}px`;
+        selectionTooltip.style.left = `${window.scrollX + rect.left + (rect.width / 2) - 55}px`;
+      }
+    } catch(e) {}
+  });
+
+  if (btnSearchSelection) {
+    btnSearchSelection.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      if (currentSelectedText) {
+        openDictModal(currentSelectedText);
+        if (selectionTooltip) selectionTooltip.style.display = 'none';
+      }
+    });
+  }
+
+  // Copy Event SnackBar (User Request 4)
+  const copySnackbar = document.getElementById('copyDictSnackbar');
+  const copySnackWord = document.getElementById('copySnackWord');
+  const btnCopySnackSearch = document.getElementById('btnCopySnackSearch');
+  const btnCloseCopySnack = document.getElementById('btnCloseCopySnack');
+  let lastCopiedWord = '';
+
+  document.addEventListener('copy', () => {
+    const sel = window.getSelection();
+    const selText = sel ? sel.toString().trim() : '';
+    if (selText && selText.length > 0 && selText.length <= 30) {
+      lastCopiedWord = selText;
+      if (copySnackWord) copySnackWord.textContent = selText;
+      if (copySnackbar) {
+        copySnackbar.style.display = 'flex';
+        clearTimeout(window._copySnackTimer);
+        window._copySnackTimer = setTimeout(() => {
+          if (copySnackbar) copySnackbar.style.display = 'none';
+        }, 5000);
+      }
+    }
+  });
+
+  if (btnCopySnackSearch) {
+    btnCopySnackSearch.addEventListener('click', () => {
+      if (lastCopiedWord) {
+        openDictModal(lastCopiedWord);
+        if (copySnackbar) copySnackbar.style.display = 'none';
+      }
+    });
+  }
+
+  if (btnCloseCopySnack) {
+    btnCloseCopySnack.addEventListener('click', () => {
+      if (copySnackbar) copySnackbar.style.display = 'none';
+    });
+  }
+
+  function openDictPanelOnPage(term) {
+    if (!modalDictPanel) return;
+    const cleanQ = cleanSearchWord(term);
+    modalDictPanel.style.display = 'block';
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanQ;
+    }
+    renderDictLookup(cleanQ);
+    // Smooth scroll down to dict panel
+    setTimeout(() => {
+      modalDictPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }, 50);
+  }
+
+  window.quickDictSearch = function(word) {
+    if (modalDictSearchInput) {
+      modalDictSearchInput.value = cleanSearchWord(word);
+    }
+    renderDictLookup(word);
+  };
+
+  if (btnSearchDict) {
+    btnSearchDict.addEventListener('click', () => {
+      if (!activeModalTerm) return;
+      openDictPanelOnPage(activeModalTerm);
+    });
+  }
+
+  if (btnModalDictSearch) {
+    btnModalDictSearch.addEventListener('click', () => {
+      const q = modalDictSearchInput ? modalDictSearchInput.value.trim() : '';
+      if (q) renderDictLookup(q);
+    });
+  }
+
+  if (modalDictSearchInput) {
+    modalDictSearchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const q = modalDictSearchInput.value.trim();
+        if (q) renderDictLookup(q);
+      }
+    });
+  }
+
+  // Navigation Buttons (Next & Prev)
+  btnNext.addEventListener('click', () => {
+    if (currentIndex < activeIndices.length - 1) {
+      currentIndex++;
+      renderQuestion();
+      window.scrollTo({ top: 120, behavior: 'smooth' });
+    } else {
+      showResultView();
+    }
+  });
+
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex < activeIndices.length - 1) {
+        currentIndex++;
+        renderQuestion();
+        window.scrollTo({ top: 120, behavior: 'smooth' });
+      } else {
+        showResultView();
+      }
+    });
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        renderQuestion();
+        window.scrollTo({ top: 120, behavior: 'smooth' });
+      }
+    });
+  }
+
+  // Result & Review Logic
+  let userReviewFilter = 'all';
+
+  const resultView = document.getElementById('resultView');
+  const resultEvalBadge = document.getElementById('resultEvalBadge');
+  const resultScorePct = document.getElementById('resultScorePct');
+  const resultScoreText = document.getElementById('resultScoreText');
+  const btnRetryWrong = document.getElementById('btnRetryWrong');
+  const resultWrongCount = document.getElementById('resultWrongCount');
+  const btnRetryAll = document.getElementById('btnRetryAll');
+  const reviewCardsContainer = document.getElementById('reviewCardsContainer');
+  const badgeCountAll = document.getElementById('badgeCountAll');
+  const badgeCountWrong = document.getElementById('badgeCountWrong');
+  const badgeCountCorrect = document.getElementById('badgeCountCorrect');
+
+  function showResultView() {
+    quizCard.style.display = 'none';
+    btnNext.style.display = 'none';
+    controlBar.style.display = 'none';
+    document.querySelector('.progress-section').style.display = 'none';
+    if (quizNavBar) quizNavBar.style.display = 'none';
+    resultView.style.display = 'block';
+
+    const total = activeIndices.length;
+    const answered = answeredCount || 1;
+    const pct = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+    resultScorePct.textContent = `${pct}%`;
+    resultScoreText.textContent = `${total}問中 ${correctCount}問正解 (正解: ${correctCount} / 不正解: ${total - correctCount})`;
+
+    if (pct === 100) {
+      resultEvalBadge.className = 'result-eval-badge gold';
+      resultEvalBadge.textContent = '🌟 パーフェクト達成！全問正解です！';
+    } else if (pct >= 80) {
+      resultEvalBadge.className = 'result-eval-badge pass';
+      resultEvalBadge.textContent = '🎉 合格ライン突破！素晴らしい理解度です！';
+    } else if (pct >= 60) {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '👍 あと少し！間違えた問題を復習して弱点を克服しよう！';
+    } else {
+      resultEvalBadge.className = 'result-eval-badge retry';
+      resultEvalBadge.textContent = '💪 復習タイム！間違えた問題をじっくり確認しましょう！';
+    }
+
+    const wrongList = [];
+    activeIndices.forEach((dataIdx, qIdx) => {
+      const ans = userAnswersMap[qIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+
+    if (wrongList.length > 0) {
+      resultWrongCount.textContent = wrongList.length;
+      btnRetryWrong.style.display = 'inline-flex';
+    } else {
+      btnRetryWrong.style.display = 'none';
+    }
+
+    renderVocabReviewCards(userReviewFilter);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function hideResultView() {
+    resultView.style.display = 'none';
+    quizCard.style.display = 'block';
+    controlBar.style.display = 'flex';
+    document.querySelector('.progress-section').style.display = 'block';
+    if (quizNavBar) quizNavBar.style.display = 'flex';
+  }
+
+  btnRetryWrong.addEventListener('click', () => {
+    const wrongList = [];
+    activeIndices.forEach((dataIdx, qIdx) => {
+      const ans = userAnswersMap[qIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+    if (wrongList.length === 0) return;
+    activeIndices = wrongList;
+    currentIndex = 0;
+    correctCount = 0;
+    answeredCount = 0;
+    userAnswersMap = {};
+    hideResultView();
+    renderQuestion();
+    showToast(`間違えた ${wrongList.length} 問の復習を開始します！`);
+  });
+
+  btnRetryAll.addEventListener('click', () => {
+    currentIndex = 0;
+    correctCount = 0;
+    answeredCount = 0;
+    userAnswersMap = {};
+    hideResultView();
+    renderQuestion();
+    showToast('最初から解き直します！');
+  });
+
+  document.querySelectorAll('.rev-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.rev-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      userReviewFilter = btn.dataset.filter;
+      renderVocabReviewCards(userReviewFilter);
+    });
+  });
+
+  function renderVocabReviewCards(filter) {
+    if (!reviewCardsContainer) return;
+    reviewCardsContainer.innerHTML = '';
+
+    const wrongList = [];
+    activeIndices.forEach((dataIdx, qIdx) => {
+      const ans = userAnswersMap[qIdx];
+      if (!ans || !ans.isCorrect) wrongList.push(dataIdx);
+    });
+
+    const total = activeIndices.length;
+    const countWrong = wrongList.length;
+    const countCorrect = total - countWrong;
+
+    if (badgeCountAll) badgeCountAll.textContent = total;
+    if (badgeCountWrong) badgeCountWrong.textContent = countWrong;
+    if (badgeCountCorrect) badgeCountCorrect.textContent = countCorrect;
+
+    activeIndices.forEach((dataIdx, qIdx) => {
+      const q = data[dataIdx];
+      const ans = userAnswersMap[qIdx];
+      const isCorrect = ans && ans.isCorrect;
+
+      if (filter === 'wrong' && isCorrect) return;
+      if (filter === 'correct' && !isCorrect) return;
+
+      const card = document.createElement('div');
+      card.className = `rev-card ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+
+      const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+        (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
+      const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
+      const userSelectedText = (ans && ans.selectedIndex !== undefined && choices[ans.selectedIndex]) ? choices[ans.selectedIndex] : '未回答';
+      const correctText = choices[q.answer] || q.correct_text;
+
+      const statusTag = isCorrect
+        ? `<span class="rev-tag-status correct"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg> 正解</span>`
+        : `<span class="rev-tag-status wrong"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> 不正解</span>`;
+
+      card.innerHTML = `
+        <div class="rev-card-top">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span style="font-size:12.5px; font-weight:800; color:var(--primary-blue);">問 ${qIdx + 1}</span>
+            <span style="font-size:11px; font-weight:700; background:var(--primary-blue-pale); color:var(--primary-blue-dark); padding:2px 8px; border-radius:10px;">${q.category}</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            ${statusTag}
+            <button class="icon-btn" style="width:28px; height:28px; padding:0;" onclick="speakReviewSentence('${encodeURIComponent(q.question)}')">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+            </button>
+            <button class="icon-btn" style="width:28px; height:28px; padding:0;" onclick="toggleReviewVocabMyList(${q.id}, this)">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="${myList.includes(q.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2.2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="rev-sentence">${formatQuestionSentence(q, true, isCorrect)}</div>
+        <div class="rev-choice-comparison">
+          ${!isCorrect ? `
+          <div class="rev-row">
+            <span class="rev-row-label">あなたの回答:</span>
+            <span class="rev-row-val wrong">${escapeHtml(userSelectedText)} ✕</span>
+          </div>` : ''}
+          <div class="rev-row">
+            <span class="rev-row-label">正しい答え:</span>
+            <span class="rev-row-val correct">${escapeHtml(correctText)} ✓</span>
+          </div>
+        </div>
+        <div class="reading-pairs-card" style="margin: 10px 0;">
+          <div class="reading-pair-row">
+            <span class="reading-badge-pill q-badge">問題の言葉</span>
+            <span class="reading-pair-text">${escapeHtml(q.target_word || q.correct_text)}</span>
+            ${q.target_word_reading && q.target_word_reading !== (q.target_word || q.correct_text) ? `<span class="reading-pair-kana">（${escapeHtml(q.target_word_reading)}）</span>` : ''}
+          </div>
+          <div class="reading-pair-row">
+            <span class="reading-badge-pill a-badge">正解の言葉</span>
+            <span class="reading-pair-text">${escapeHtml(q.correct_text)}</span>
+            ${q.correct_text_reading && q.correct_text_reading !== q.correct_text ? `<span class="reading-pair-kana">（${escapeHtml(q.correct_text_reading)}）</span>` : ''}
+          </div>
+        </div>
+        <div class="rev-exp-box">
+          ${q.meaning_en ? `<div><strong>【意味】</strong> ${escapeHtml(q.meaning_en)}</div>` : ''}
+          ${(q.nuance_diff || q.english_pitfall) ? `
+          <div class="nuance-explanation-card" style="margin: 10px 0;">
+            <div class="nuance-card-header">
+              <span class="nuance-card-icon">💡</span>
+              <span class="nuance-card-title">ニュアンスの違い・英語直訳の注意点</span>
+            </div>
+            ${q.nuance_diff ? `
+            <div class="nuance-section">
+              <div class="nuance-subtitle">🔍 似た表現・類語とのニュアンスの違い</div>
+              <div class="nuance-text">${escapeHtml(q.nuance_diff).replace(/\n/g, '<br>')}</div>
+            </div>` : ''}
+            ${q.english_pitfall ? `
+            <div class="nuance-section">
+              <div class="nuance-subtitle">⚠️ 英語直訳とのズレ・学習者の注意点</div>
+              <div class="nuance-text">${escapeHtml(q.english_pitfall).replace(/\n/g, '<br>')}</div>
+            </div>` : ''}
+          </div>` : ''}
+          ${q.kanji_info && q.kanji_info.length > 0 ? `
+          <div class="kanji-cards-grid" style="margin-top:10px;">
+            ${q.kanji_info.map(ki => `
+              <div class="kanji-detail-card">
+                <div class="kanji-char-box">
+                  <span>${escapeHtml(ki.kanji)}</span>
+                  <span class="kanji-char-sub">漢字</span>
+                </div>
+                <div class="kanji-readings-box">
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl">音</span>
+                    <span class="kanji-reading-val">${escapeHtml(ki.onyomi || '-')}</span>
+                  </div>
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl kun">訓</span>
+                    <span class="kanji-reading-val">${escapeHtml(ki.kunyomi || '-')}</span>
+                  </div>
+                  ${ki.meaning ? `
+                  <div class="kanji-reading-row">
+                    <span class="kanji-reading-lbl mean">意</span>
+                    <span class="kanji-reading-val meaning">${escapeHtml(ki.meaning)}</span>
+                  </div>` : ''}
+                </div>
+              </div>
+            `).join('')}
+          </div>` : ''}
+          ${q.similar && q.similar.length > 0 ? `
+          <div style="margin-top:10px; font-size:11.5px; font-weight:800; color:var(--primary-blue-dark);">
+            💡 この漢字を使った単語・関連語:
+          </div>
+          <div style="margin-top:6px; display:flex; flex-wrap:wrap; gap:6px;">
+            ${q.similar.map((s, sIdx) => `
+              <span class="similar-pill" onclick="openReviewSimilar(${dataIdx}, ${sIdx})">
+                🔍 ${escapeHtml(s.term)}${s.reading && s.reading !== s.term ? `<span class="pill-reading">（${escapeHtml(s.reading)}）</span>` : ''}
+              </span>
+            `).join('')}
+          </div>` : ''}
+        </div>
+      `;
+      reviewCardsContainer.appendChild(card);
+    });
+  }
+
+  window.openReviewSimilar = function(dataIdx, sIdx) {
+    const item = data[dataIdx] && data[dataIdx].similar ? data[dataIdx].similar[sIdx] : null;
+    if (item) openTagActionModal(item);
+  };
+
+  window.speakReviewSentence = function(encoded) {
+    speak(decodeURIComponent(encoded));
+  };
+
+  window.toggleReviewVocabMyList = function(qid, btn) {
+    const idx = myList.indexOf(qid);
+    if (idx >= 0) {
+      myList.splice(idx, 1);
+      showToast('マイリストから解除しました');
+    } else {
+      myList.push(qid);
+      showToast('マイリストに保存しました！');
+    }
+    saveMyList();
+    if (btn) {
+      const svg = btn.querySelector('svg');
+      if (svg) svg.setAttribute('fill', myList.includes(qid) ? 'currentColor' : 'none');
+    }
+  };
+
+  // Bookmark Toggle
+  btnBookmark.addEventListener('click', () => {
+    const q = data[activeIndices[currentIndex]];
+    if (!q) return;
+    const pos = myList.indexOf(q.id);
+    if (pos >= 0) {
+      myList.splice(pos, 1);
+      btnBookmark.classList.remove('saved');
+      showToast('マイリストから削除しました');
+    } else {
+      myList.push(q.id);
+      btnBookmark.classList.add('saved');
+      showToast('⭐ マイリストに追加しました！');
+    }
+    saveMyList();
+  });
+
+  // MyList Modal Open/Close
+  btnOpenMyList.addEventListener('click', () => {
+    renderMyListModal();
+    myListModal.style.display = 'flex';
+  });
+
+  btnCloseMyList.addEventListener('click', () => {
+    myListModal.style.display = 'none';
+  });
+
+  myListModal.addEventListener('click', (e) => {
+    if (e.target === myListModal) myListModal.style.display = 'none';
+  });
+
+  function renderMyListModal() {
+    modalListBody.innerHTML = '';
+    if (myList.length === 0) {
+      modalListBody.innerHTML = '<p style="text-align:center; color:#8FA2AD; padding:30px;">保存された問題はありません。各問題の⭐ボタンで保存できます。</p>';
+      return;
+    }
+
+    myList.forEach(id => {
+      const q = data.find(item => item.id === id);
+      if (!q) return;
+      const row = document.createElement('div');
+      row.className = 'mylist-item';
+      row.innerHTML = `
+        <div style="flex:1;">
+          <div style="font-size:11px; font-weight:800; color:var(--primary-blue); margin-bottom:2px;">#${q.id} ${q.category}</div>
+          <div style="font-size:13px; font-weight:700; color:var(--text-primary);">${q.question.replace(/\n+/g, ' ').substring(0, 50)}...</div>
+        </div>
+        <button class="btn-action" style="padding:4px 10px; font-size:11px;">解く →</button>
+      `;
+      row.querySelector('button').addEventListener('click', () => {
+        myListModal.style.display = 'none';
+        const matchIdx = activeIndices.indexOf(data.indexOf(q));
+        if (matchIdx >= 0) {
+          currentIndex = matchIdx;
+        } else {
+          activeIndices = [data.indexOf(q)];
+          currentIndex = 0;
+        }
+        renderQuestion();
+      });
+      modalListBody.appendChild(row);
+    });
+  }
+
+  // Keyboard Shortcuts
+  window.addEventListener('keydown', (e) => {
+    if (['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
+    if (['1', '2', '3', '4'].includes(e.key)) {
+      const idx = parseInt(e.key, 10) - 1;
+      if (!hasAnsweredCurrent) handleChoice(idx);
+    } else if (e.key === 'Enter' || e.key === ' ') {
+      if (nextBtn) {
+        e.preventDefault();
+        nextBtn.click();
+      } else if (hasAnsweredCurrent && btnNext.style.display !== 'none') {
+        e.preventDefault();
+        btnNext.click();
+      }
+    } else if (e.key === 'ArrowRight') {
+      if (nextBtn) nextBtn.click();
+    } else if (e.key === 'ArrowLeft') {
+      if (prevBtn && !prevBtn.disabled) prevBtn.click();
+    } else if (e.key.toLowerCase() === 'f') {
+      furiganaToggle.click();
+    } else if (e.key.toLowerCase() === 's') {
+      btnSpeakQuestion.click();
+    }
+  });
+
+  // Initial Boot
+  function initQuizApp() {
+    if ((!data || data.length === 0) && window.JLPT_N3_VOCAB_QUIZ_DATA && window.JLPT_N3_VOCAB_QUIZ_DATA.length > 0) {
+      data = window.JLPT_N3_VOCAB_QUIZ_DATA;
+      activeIndices = buildBalancedIndices(selectedLimit, categoryFilter ? categoryFilter.value : 'all');
+    }
+    updateMyListUI();
+    checkResume();
+    renderQuestion();
+  }
+
+  initQuizApp();
+
+  // Fallback retry in case large dataset script is delayed
+  if (!data || data.length === 0) {
+    let retries = 0;
+    const retryInterval = setInterval(() => {
+      retries++;
+      if (window.JLPT_N3_VOCAB_QUIZ_DATA && window.JLPT_N3_VOCAB_QUIZ_DATA.length > 0) {
+        clearInterval(retryInterval);
+        initQuizApp();
+      } else if (retries > 50) {
+        clearInterval(retryInterval);
+      }
+    }, 50);
+  }
+</script>
+</body>
+</html>

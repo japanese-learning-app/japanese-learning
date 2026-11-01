@@ -28910,7 +28910,7 @@ window.JLPT_QUESTIONS_DATA = {
       {
         "category": "kanji_writing",
         "categoryJa": "漢字の表記",
-        "question": "映画は第二次世界大戦に<u>さかのぼる</u>。",
+        "question": "映画は産業革命に<u>さかのぼる</u>。",
         "options": [
           "原始",
           "遡る",

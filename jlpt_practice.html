@@ -1863,7 +1863,7 @@
           </ul>
         </div>
         <div style="margin-top: 14px;">
-          <a href="jlpt_n2_grammar_textbook.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #B8596E, #CE5A73); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(184,89,110,0.3);">
+          <a id="link-grammar-textbook" href="jlpt_n2_grammar_textbook.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #B8596E, #CE5A73); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(184,89,110,0.3);">
             📖 テキストで学ぶ (全195文法) →
           </a>
         </div>
@@ -1887,7 +1887,7 @@
           </ul>
         </div>
         <div style="margin-top: 14px;">
-          <a href="jlpt_n2_vocab_cards.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #ED8C72, #D45D40); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(237,140,114,0.3);">
+          <a id="link-vocab-cards" href="jlpt_n2_vocab_cards.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #ED8C72, #D45D40); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(237,140,114,0.3);">
             🎴 カード学習を始める (全3,412語) →
           </a>
         </div>
@@ -1911,7 +1911,7 @@
           </ul>
         </div>
         <div style="margin-top: 14px;">
-          <a href="jlpt_n2_vocab_quiz.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #4D648D, #364866); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(77,100,141,0.3);">
+          <a id="link-vocab-quiz" href="jlpt_n2_vocab_quiz.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #4D648D, #364866); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(77,100,141,0.3);">
             📝 語彙穴埋め演習を解く (全896問) →
           </a>
         </div>
@@ -1935,7 +1935,7 @@
           </ul>
         </div>
         <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-          <a href="jlpt_n2_grammar_quiz.html" class="card-btn-action teal" style="text-decoration:none; text-align:center; display:block; font-weight: 800;">
+          <a id="link-grammar-quiz" href="jlpt_n2_grammar_quiz.html" class="card-btn-action teal" style="text-decoration:none; text-align:center; display:block; font-weight: 800;">
             📝 文法穴埋め演習を解く (全1,507問) →
           </a>
           <button id="card-resume-btn" onclick="resumeGrammarQuiz()" style="display:none; padding: 9px 14px; border-radius: 12px; background: linear-gradient(135deg, #E8A4B2, #B8596E); color: white; border: none; font-size: 12.5px; font-weight: 700; cursor: pointer; text-align: center; box-shadow: 0 2px 8px rgba(184,89,110,0.25); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='none'">
@@ -2483,25 +2483,107 @@
     reloadUserMyList();
   }
 
-  const LEVEL_INFO = {
-    n5: { badge: 'N5', title: 'JLPT N5 実戦練習道場', desc: '初級レベル総合演習（現在準備中）' },
-    n4: { badge: 'N4', title: 'JLPT N4 実戦練習道場', desc: '初中級レベル総合演習（現在準備中）' },
-    n3: { badge: 'N3', title: 'JLPT N3 実戦練習道場', desc: '全182文法項目 穴埋め4択演習道場（完全公開中）' },
-    n2: { badge: 'N2', title: 'JLPT N2 実戦練習道場', desc: '全195文法項目・全1,507問 穴埋め4択演習 ＆ 文字・語彙' },
-    n1: { badge: 'N1', title: 'JLPT N1 実戦練習道場', desc: '最上級レベル総合演習（現在準備中）' }
+    const LEVEL_INFO = {
+    n1: {
+      badge: 'JLPT N1 最上級対策',
+      title: 'JLPT N1 最上級道場 — 最高峰の日本語力を目指す',
+      desc: '文法127項目・語彙3,747語・演習1,000問以上。高度な学術・論説・ビジネス表現を完全マスター。',
+      grammarTextbookUrl: 'jlpt_n1_grammar_textbook.html',
+      vocabCardsUrl: 'jlpt_n1_vocab_cards.html',
+      vocabQuizUrl: 'jlpt_n1_vocab_quiz.html',
+      grammarQuizUrl: 'jlpt_n1_grammar_quiz.html',
+      grammarPoints: 127,
+      grammarQuestions: 508,
+      vocabCount: 3747,
+      vocabQuizCount: 500
+    },
+    n2: {
+      badge: 'JLPT N2 実戦・中上級対策',
+      title: 'JLPT N2 実戦道場 — 合格を確実にする総合演習',
+      desc: '文法195項目・語彙3,412語・演習2,400問以上。ビジネス・日常で自在に使いこなす運用力を養成。',
+      grammarTextbookUrl: 'jlpt_n2_grammar_textbook.html',
+      vocabCardsUrl: 'jlpt_n2_vocab_cards.html',
+      vocabQuizUrl: 'jlpt_n2_vocab_quiz.html',
+      grammarQuizUrl: 'jlpt_n2_grammar_quiz.html',
+      grammarPoints: 195,
+      grammarQuestions: 1507,
+      vocabCount: 3412,
+      vocabQuizCount: 896
+    },
+    n3: {
+      badge: 'JLPT N3 中級完成対策',
+      title: 'JLPT N3 中級完成道場 — 初級から中級への大跳躍',
+      desc: '文法182項目・語彙1,841語・演習1,200問以上。日常会話の細やかなニュアンスを完全制覇。',
+      grammarTextbookUrl: 'jlpt_n3_grammar_textbook.html',
+      vocabCardsUrl: 'jlpt_n3_vocab_cards.html',
+      vocabQuizUrl: 'jlpt_n3_vocab_quiz.html',
+      grammarQuizUrl: 'jlpt_n3_grammar_quiz.html',
+      grammarPoints: 182,
+      grammarQuestions: 728,
+      vocabCount: 1841,
+      vocabQuizCount: 500
+    },
+    n4: {
+      badge: 'JLPT N4 初級基礎対策',
+      title: 'JLPT N4 初級基礎道場 — 会話と文法の土台を固める',
+      desc: '文法62項目・語彙668語・演習600問以上。動詞の活用と重要表現を徹底攻略。',
+      grammarTextbookUrl: 'jlpt_n4_grammar_textbook.html',
+      vocabCardsUrl: 'jlpt_n4_vocab_cards.html',
+      vocabQuizUrl: 'jlpt_n4_vocab_quiz.html',
+      grammarQuizUrl: 'jlpt_n4_grammar_quiz.html',
+      grammarPoints: 62,
+      grammarQuestions: 248,
+      vocabCount: 668,
+      vocabQuizCount: 365
+    },
+    n5: {
+      badge: 'JLPT N5 入門対策',
+      title: 'JLPT N5 入門道場 — はじめての日本語を楽しく完全マスター',
+      desc: '文法46項目・語彙702語・演習550問以上。文字・助詞・基本語尾をステップバイステップで習得。',
+      grammarTextbookUrl: 'jlpt_n5_grammar_textbook.html',
+      vocabCardsUrl: 'jlpt_n5_vocab_cards.html',
+      vocabQuizUrl: 'jlpt_n5_vocab_quiz.html',
+      grammarQuizUrl: 'jlpt_n5_grammar_quiz.html',
+      grammarPoints: 46,
+      grammarQuestions: 184,
+      vocabCount: 702,
+      vocabQuizCount: 371
+    }
   };
 
-  function switchLevel(lvl) {
-    if (lvl !== 'n2' && lvl !== 'n3') {
-      showToast(`${lvl.toUpperCase()} は現在準備中です。現在はN2をご利用いただけます。`);
-      return;
-    }
+    function switchLevel(lvl) {
     currentLevel = lvl;
     document.querySelectorAll('.level-tab').forEach(tab => {
-      tab.classList.toggle('active', tab.textContent.includes(lvl.toUpperCase()));
+      tab.classList.toggle('active', tab.textContent.toLowerCase().includes(lvl.toLowerCase()));
     });
-    updateBanner();
+    updateBanner(); updateCardLinks();
+    updateCardLinks();
     checkGrammarResumeButton();
+  }
+
+  function updateCardLinks() {
+    const info = LEVEL_INFO[currentLevel] || LEVEL_INFO.n2;
+    const linkTextbook = document.getElementById('link-grammar-textbook');
+    const linkVocabCards = document.getElementById('link-vocab-cards');
+    const linkVocabQuiz = document.getElementById('link-vocab-quiz');
+    const linkGrammarQuiz = document.getElementById('link-grammar-quiz');
+
+    if (linkTextbook) {
+      linkTextbook.href = info.grammarTextbookUrl;
+      linkTextbook.textContent = `📖 テキストで学ぶ (全${info.grammarPoints}文法) →`;
+    }
+    if (linkVocabCards) {
+      linkVocabCards.href = info.vocabCardsUrl;
+      linkVocabCards.textContent = `🎴 カード学習を始める (全${info.vocabCount.toLocaleString()}語) →`;
+    }
+    if (linkVocabQuiz) {
+      linkVocabQuiz.href = info.vocabQuizUrl;
+      linkVocabQuiz.textContent = `📝 語彙穴埋め演習を解く (全${info.vocabQuizCount}問) →`;
+    }
+    if (linkGrammarQuiz) {
+      linkGrammarQuiz.href = info.grammarQuizUrl;
+      linkGrammarQuiz.textContent = `📝 文法穴埋め演習を解く (全${info.grammarQuestions}問) →`;
+    }
   }
 
   function updateBanner() {
@@ -3769,7 +3851,7 @@
         updateAuthHeaderUI(user);
       });
     }
-    updateBanner();
+    updateBanner(); updateCardLinks();
     checkGrammarResumeButton();
     updateLanguagePillButtons();
     reloadUserMyList();

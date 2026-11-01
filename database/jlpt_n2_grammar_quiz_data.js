@@ -1,4 +1,4 @@
-window.JLPT_N2_QUIZ_DATA = [
+window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
     "grammar_id": 1,
@@ -18221,7 +18221,7 @@ window.JLPT_N2_QUIZ_DATA = [
     "sentence_en": "Seeing my friend struggling with heavy luggage, I couldn't help but offer a hand.",
     "question": "友達が重い荷物を持って困っているのを見たので、手伝わず【　　】。",
     "choices": [
-      "にはいられなかった",
+      "ないではいられなかった",
       "ざるを得なかった",
       "かねなかった",
       "てたまらなかった"
@@ -18232,7 +18232,7 @@ window.JLPT_N2_QUIZ_DATA = [
     "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>重い<rt>おもい</rt></ruby><ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持って<rt>もって</rt></ruby><ruby>困って<rt>こまって</rt></ruby>いるのを<ruby>見た<rt>みた</rt></ruby>ので、<ruby>手伝わず<rt>てつだわず</rt></ruby>【　　】。",
     "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>重い<rt>おもい</rt></ruby><ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持って<rt>もって</rt></ruby><ruby>困って<rt>こまって</rt></ruby>いるのを<ruby>見た<rt>みた</rt></ruby>ので、<ruby>手伝わず<rt>てつだわず</rt></ruby>にはいられなかった。",
     "choices_ruby": [
-      "にはいられなかった",
+      "ないではいられなかった",
       "ざるを<ruby>得なかった<rt>えなかった</rt></ruby>",
       "かねなかった",
       "てたまらなかった"
@@ -38053,7 +38053,7 @@ window.JLPT_N2_QUIZ_DATA = [
     "choices": [
       "ところに",
       "ようか",
-      "は",
+      "ては",
       "ねばならない"
     ],
     "answer": 2,
@@ -38064,7 +38064,7 @@ window.JLPT_N2_QUIZ_DATA = [
     "choices_ruby": [
       "ところに",
       "ようか",
-      "は",
+      "ては",
       "ねばならない"
     ],
     "correct_text_ruby": "ては"

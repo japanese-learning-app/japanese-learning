@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JLPT N3 文法穴埋めマスター — 全182問 4択練習道場</title>
+<title>JLPT N3 文法穴埋めマスター — 全728問 4択練習道場</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <!-- 日本語アプリと同一のフォント指定（Inter × 游ゴシック × Noto Sans JP） -->
@@ -125,15 +125,7 @@
     gap: 10px;
   }
 
-  .brand-en span.badge-n3 {
-    background: #3B82F6;
-    color: #FFFFFF;
-    font-size: 11px;
-    font-weight: 800;
-    padding: 3px 9px;
-    border-radius: 20px;
-    letter-spacing: 0.5px;
-  }
+  .brand-en span.badge-n2 {
     background: #FFFFFF;
     color: var(--primary-blue-dark);
     font-size: 11px;
@@ -1352,9 +1344,9 @@
     <div class="brand-area">
       <div class="brand-en">
         JLPT Grammar Master
-        <span class="badge-n3">N3 レベル</span>
+        <span class="badge-n2">N2 レベル</span>
       </div>
-      <div class="brand-sub">全182文法項目・全182問 穴埋め4択道場</div>
+      <div class="brand-sub">全195文法項目・全728問 穴埋め4択道場</div>
     </div>
     <div class="header-actions">
       <!-- 生徒認証バッジ -->
@@ -1373,7 +1365,7 @@
       <button class="header-btn" id="reshuffleBtn" title="全問をもう一度シャッフルして最初から解きます">
         🎲 再シャッフル
       </button>
-      <a href="jlpt_n2_grammar_quiz.html" class="header-btn" title="N2文法穴埋め演習道場へ">
+      <a href="jlpt_n2_vocab_quiz.html" class="header-btn" title="N2語彙穴埋め演習道場（全896問）へ">
         📝 語彙穴埋め (896問)
       </a>
       <a href="jlpt_n2_vocab_cards.html" class="header-btn" title="N2語彙フラッシュカード（全3,412語）へ">
@@ -1394,7 +1386,7 @@
   <div class="control-bar">
     <div class="filter-group">
       <select id="grammarFilter" class="filter-select">
-        <option value="all">全182文法（全182問）</option>
+        <option value="all">全195文法（全728問）</option>
       </select>
       
       <!-- 演習数選択ピル -->
@@ -1416,7 +1408,7 @@
       </button>
       <div class="jump-group">
         <span>第</span>
-        <input type="number" id="jumpInput" class="jump-input" min="1" max="1507" value="1">
+        <input type="number" id="jumpInput" class="jump-input" min="1" max="728" value="1">
         <span>問</span>
         <button id="jumpBtn" class="jump-btn">移動</button>
       </div>
@@ -1606,7 +1598,7 @@
 <div class="toast" id="toast">コピーしました！</div>
 
 <footer class="site-footer">
-  JLPT N3 Grammar Master Study App &bull; Japanese Learning Center
+  JLPT N2 Grammar Master Study App &bull; Japanese Learning Center
 </footer>
 
 <!-- 1,507 Questions Dataset (Ruby付き) & Similar Grammar Dictionary -->
@@ -1620,7 +1612,7 @@
 
 <script>
 (function() {
-  const data = window.JLPT_N3_QUIZ_DATA || [];
+  const data = window.JLPT_N2_QUIZ_DATA || [];
   if (!data || data.length === 0) {
     document.getElementById('sentenceJp').innerText = "問題データの読み込みに失敗しました。";
     return;
@@ -1693,7 +1685,7 @@
   }
 
   let selectedLimit = 0; // 0 = all
-  // 最初から全182問を完全ランダムシャッフル！
+  // 最初から全728問を完全ランダムシャッフル！
   let filteredIndices = buildBalancedIndices(selectedLimit, 'all');
   let currentIndex = 0;
   let showFurigana = true;
@@ -1703,7 +1695,7 @@
     correct: 0,
     answers: {} // realIndex: { selected: number, isCorrect: boolean }
   };
-  let bookmarks = JSON.parse(localStorage.getItem('jlpt_n3_bookmarks') || '[]');
+  let bookmarks = JSON.parse(localStorage.getItem('jlpt_n2_bookmarks') || '[]');
 
   // Check saved progress（再開ボタンの表示のみ行い、初期表示はシャッフルされた1問目から開始）
   const savedProgress = JSON.parse(localStorage.getItem('jlpt_n3_grammar_progress') || 'null');
@@ -1863,7 +1855,7 @@
       bookmarkBtn.classList.add('active');
       showToast('マイリストに保存しました！');
     }
-    localStorage.setItem('jlpt_n3_bookmarks', JSON.stringify(bookmarks));
+    localStorage.setItem('jlpt_n2_bookmarks', JSON.stringify(bookmarks));
   });
 
   // Jump Button
@@ -2285,8 +2277,8 @@
     }
 
     // 2. Search in Grammar Quiz Data
-    if (window.JLPT_N3_QUIZ_DATA && Array.isArray(window.JLPT_N3_QUIZ_DATA)) {
-      const qMatch = window.JLPT_N3_QUIZ_DATA.find(q => {
+    if (window.JLPT_N2_QUIZ_DATA && Array.isArray(window.JLPT_N2_QUIZ_DATA)) {
+      const qMatch = window.JLPT_N2_QUIZ_DATA.find(q => {
         const gClean = cleanSearchWord(q.grammar);
         return gClean === cleanQ || q.grammar === query;
       });
@@ -2363,7 +2355,7 @@
     return {
       term: primary.term || cleanQ,
       reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
-      level: primary.level || 'JLPT N3',
+      level: primary.level || 'JLPT N2',
       meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
       example_ja: ex_ja,
       example_en: ex_en,
@@ -2673,7 +2665,7 @@
       btn.querySelector('span').style.color = 'var(--sakura-pink-deep)';
       showToast('マイリストに保存しました！★');
     }
-    localStorage.setItem('jlpt_n3_bookmarks', JSON.stringify(bookmarks));
+    localStorage.setItem('jlpt_n2_bookmarks', JSON.stringify(bookmarks));
   };
 
   // Initial Render
