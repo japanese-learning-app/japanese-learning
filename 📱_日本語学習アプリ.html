@@ -2606,14 +2606,28 @@ rt {
 
   /* ================= 練習用紙プリント用スタイル ＆ A4横向き印刷設定 ================= */
   .a4-sheet-page {
-    width: 277mm;
-    min-height: 190mm;
+    width: 100%;
+    max-width: 880px;
+    aspect-ratio: 297 / 210;
     box-sizing: border-box;
-    margin: 0 auto 24px auto;
-    padding: 8mm 10mm 6mm 10mm;
+    margin: 0 auto 18px auto;
+    padding: 16px 20px;
     background: #FFFFFF;
-    box-shadow: 0 4px 18px rgba(0,0,0,0.12);
-    border-radius: 6px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .tianzige-cell {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .page-break {
     page-break-before: always;
@@ -2650,11 +2664,14 @@ rt {
     }
     .a4-sheet-page {
       box-shadow: none !important;
+      border: none !important;
       border-radius: 0 !important;
       margin: 0 auto !important;
       padding: 0 !important;
       width: 277mm !important;
-      min-height: 190mm !important;
+      height: 190mm !important;
+      max-width: none !important;
+      aspect-ratio: auto !important;
     }
     .no-print {
       display: none !important;
@@ -4185,6 +4202,7 @@ rt {
 <script src="database/kanji_daily_quiz_dataset.js"></script>
 <script src="database/jlpt_kanji_data.js"></script>
 <script src="js/kanji_engine.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 <script src="js/kana_print_sheet_engine.js"></script>
 
 <script>

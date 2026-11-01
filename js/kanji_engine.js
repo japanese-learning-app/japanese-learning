@@ -223,6 +223,10 @@
       { word: "分（ふん / ぷん）", ja: "あと 十（じゅっ）分（ぷん）で 電車（でんしゃ）が 来（き）ます。", en: "The train will arrive in ten minutes." },
       { word: "自分（じぶん）", ja: "自分（じぶん）の 部屋（へや）を 掃除（そうじ）しました。", en: "I cleaned my own room." },
       { word: "分かる（わかる）", ja: "日本語（にほんご）の 意味（いみ）が よく 分（わ）かりました。", en: "I understood the meaning of the Japanese well." }
+    ],
+    "馬": [
+      { word: "馬（うま）", ja: "牧場（ぼくじょう）で 白（しろ）い 馬（うま）を 見（み）ました。", en: "I saw a white horse at the ranch." },
+      { word: "乗馬（じょうば）", ja: "週末（しゅうまつ）に 乗馬（じょうば）クラブへ 行（い）きます。", en: "I will go to a horse riding club this weekend." }
     ]
   };
 
@@ -433,7 +437,7 @@
               <div style="background:#EFF6FF; border:1.5px solid #93C5FD; border-radius:12px; padding:10px 14px; display:flex; align-items:center; justify-content:space-between; gap:10px; box-shadow:0 1px 3px rgba(0,0,0,0.03);">
                 <div style="font-size:0.82rem; color:#1E40AF;">
                   <span style="font-weight:800; background:#DBEAFE; color:#1D4ED8; padding:2px 7px; border-radius:5px; margin-right:4px;">📝 テスト連動</span>
-                  毎日漢字テスト <strong>【Day ${kObj.dailyQuizRef.day}】</strong> に出題されています！
+                  毎日漢字書き取りテストで出題中！
                   <div style="font-size:0.75rem; color:#475569; margin-top:2px;">
                     出題単語: <span style="font-weight:700; color:#0F172A;">${kObj.dailyQuizRef.word}</span> （${kObj.dailyQuizRef.reading}）
                   </div>
