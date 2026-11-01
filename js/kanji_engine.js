@@ -16,27 +16,35 @@
   }
 
   async function fetchKanjiStrokes(char) {
+    if (!char) return null;
     if (KANJI_CACHE[char]) return KANJI_CACHE[char];
-    try {
-      const hex = char.charCodeAt(0).toString(16).padStart(5, '0');
-      const url = `https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@master/kanji/${hex}.svg`;
-      const res = await fetch(url);
-      if (!res.ok) throw new Error("KanjiVG fetch failed: " + res.status);
-      const svgText = await res.text();
+    const hex = char.charCodeAt(0).toString(16).padStart(5, '0');
+    const urls = [
+      `https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@master/kanji/${hex}.svg`,
+      `https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/${hex}.svg`
+    ];
 
-      const pathMatches = [...svgText.matchAll(/<path[^>]*\bd="([^"]+)"/g)];
-      const paths = pathMatches.map(m => m[1]);
+    for (const url of urls) {
+      try {
+        const res = await fetch(url);
+        if (!res.ok) continue;
+        const svgText = await res.text();
 
-      const numMatches = [...svgText.matchAll(/<text[^>]*transform="matrix\([^\)]+\s+([\d\.]+)\s+([\d\.]+)\)"[^>]*>(\d+)<\/text>/g)];
-      const nums = numMatches.map(m => [parseFloat(m[1]), parseFloat(m[2])]);
+        const pathMatches = [...svgText.matchAll(/<path[^>]*\bd="([^"]+)"/g)];
+        const paths = pathMatches.map(m => m[1]);
 
-      const data = { char, size: GRID, strokesCount: paths.length, paths, nums };
-      KANJI_CACHE[char] = data;
-      return data;
-    } catch (e) {
-      console.warn("KanjiVG fetch error for " + char, e);
-      return null;
+        const numMatches = [...svgText.matchAll(/<text[^>]*transform="matrix\([^\)]+\s+([\d\.]+)\s+([\d\.]+)\)"[^>]*>(\d+)<\/text>/g)];
+        const nums = numMatches.map(m => [parseFloat(m[1]), parseFloat(m[2])]);
+
+        const data = { char, size: GRID, strokesCount: paths.length, paths, nums };
+        KANJI_CACHE[char] = data;
+        return data;
+      } catch (e) {
+        // try next fallback url
+      }
     }
+    console.warn("KanjiVG fetch error for " + char);
+    return null;
   }
 
   function makeTianGridGuidelines(size) {
@@ -380,7 +388,9 @@
           if (found) { kObj = found; break; }
         }
       }
+      const isKana = /[\u3040-\u309F\u30A0-\u30FF]/.test(char);
       const lvl = kObj.level || (window.KanjiListEngine ? window.KanjiListEngine.currentLevel : 'N5');
+      const lvlBadge = isKana ? (char >= '\u30a0' ? 'カタカナ' : 'ひらがな') : `JLPT ${lvl}`;
       const onList = kObj.onyomi || [];
       const kunList = kObj.kunyomi || [];
       const meanList = kObj.meanings || [];
@@ -403,7 +413,7 @@
               <div style="display:flex; flex-direction:column; gap:2px;">
                 <div style="display:flex; align-items:center; gap:6px;">
                   <span class="kanji-stroke-badge">${strokesCount}画</span>
-                  <span style="background:#EFF6FF; color:#1D4ED8; font-weight:800; font-size:0.75rem; padding:2px 8px; border-radius:6px; border:1px solid #BFDBFE;">JLPT ${lvl}</span>
+                  <span style="background:#EFF6FF; color:#1D4ED8; font-weight:800; font-size:0.75rem; padding:2px 8px; border-radius:6px; border:1px solid #BFDBFE;">${lvlBadge}</span>
                 </div>
                 <div style="font-size:0.78rem; color:#64748B; max-width:260px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${meanStr}</div>
               </div>
@@ -518,31 +528,36 @@
       if (this.currentAnimTimer) cancelAnimationFrame(this.currentAnimTimer);
     },
 
-    replayAnimation(char) {
+    replayAnimation(char, stageId = 'kanji-modal-stage', slowToggleId = 'kanji-slow-toggle', numToggleId = 'kanji-numbers-toggle') {
       const data = KANJI_CACHE[char];
-      if (data) this.renderStage(data);
+      if (data) this.renderStage(data, stageId, slowToggleId, numToggleId);
     },
 
-    toggleNumbers() {
-      const checked = document.getElementById('kanji-numbers-toggle')?.checked;
-      const g = document.getElementById('kvg-numbers-layer');
+    toggleNumbers(stageId = 'kanji-modal-stage', numToggleId = 'kanji-numbers-toggle') {
+      const checked = document.getElementById(numToggleId)?.checked;
+      const g = document.getElementById(`${stageId}-numbers-layer`) || document.getElementById('kvg-numbers-layer');
       if (g) g.style.display = checked ? 'block' : 'none';
     },
 
-    toggleTrace(char) {
-      const stage = document.getElementById('kanji-modal-stage');
+    toggleTrace(char, stageId = 'kanji-modal-stage', btnId = 'btn-toggle-trace') {
+      const stage = document.getElementById(stageId);
       const data = KANJI_CACHE[char];
-      const btn = document.getElementById('btn-toggle-trace');
+      const btn = document.getElementById(btnId);
       if (!stage || !data) return;
 
       const isTracing = stage.classList.contains('tracing-on');
+      const isKanaStudio = (stageId === 'kana-trace-stage');
+      const tools = document.getElementById(isKanaStudio ? 'kana-trace-draw-tools' : 'kanji-trace-tools');
+
       if (isTracing) {
         stage.classList.remove('tracing-on');
-        btn.textContent = "✍ なぞり練習";
-        this.renderStage(data);
+        if (btn) btn.textContent = "✍ なぞり練習";
+        if (tools) tools.style.display = 'none';
+        this.renderStage(data, stageId, isKanaStudio ? 'kana-slow-toggle' : 'kanji-slow-toggle', isKanaStudio ? 'kana-numbers-toggle' : 'kanji-numbers-toggle');
       } else {
         stage.classList.add('tracing-on');
-        btn.textContent = "▶ お手本に戻る";
+        if (btn) btn.textContent = "▶ お手本に戻る";
+        if (tools) tools.style.display = 'flex';
         this.startTrace(stage, data);
       }
     },
@@ -566,7 +581,8 @@
       container.appendChild(ghostSvg);
 
       const canvas = document.createElement('canvas');
-      const w = 240, h = 240;
+      const w = container.clientWidth || 220;
+      const h = container.clientHeight || 220;
       canvas.width = w * window.devicePixelRatio;
       canvas.height = h * window.devicePixelRatio;
       canvas.style.width = w + "px";
@@ -583,9 +599,12 @@
       ctx.lineCap = 'round';
       ctx.lineJoin = 'round';
       ctx.strokeStyle = '#0F172A';
-      ctx.lineWidth = 6.5;
+      ctx.lineWidth = 6;
 
+      canvas._history = [];
+      let currentStroke = [];
       let drawing = false;
+
       const getPos = (e) => {
         const rect = canvas.getBoundingClientRect();
         return { x: e.clientX - rect.left, y: e.clientY - rect.top };
@@ -594,29 +613,65 @@
       canvas.onpointerdown = (e) => {
         canvas.setPointerCapture(e.pointerId);
         drawing = true;
+        currentStroke = [];
         const p = getPos(e);
+        currentStroke.push(p);
         ctx.beginPath();
         ctx.moveTo(p.x, p.y);
       };
+
       canvas.onpointermove = (e) => {
         if (!drawing) return;
         const p = getPos(e);
+        currentStroke.push(p);
         ctx.lineTo(p.x, p.y);
         ctx.stroke();
       };
-      const stop = () => { drawing = false; };
+
+      const stop = () => {
+        if (!drawing) return;
+        drawing = false;
+        if (currentStroke.length > 0) {
+          canvas._history.push([...currentStroke]);
+        }
+      };
+
       canvas.onpointerup = stop;
       canvas.onpointercancel = stop;
+
+      container._canvas = canvas;
+      container._clear = () => {
+        canvas._history = [];
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+      };
+      container._undo = () => {
+        if (!canvas._history || canvas._history.length === 0) return;
+        canvas._history.pop();
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.lineCap = 'round';
+        ctx.lineJoin = 'round';
+        ctx.strokeStyle = '#0F172A';
+        ctx.lineWidth = 6;
+        canvas._history.forEach(stroke => {
+          if (stroke.length === 0) return;
+          ctx.beginPath();
+          ctx.moveTo(stroke[0].x, stroke[0].y);
+          for (let i = 1; i < stroke.length; i++) {
+            ctx.lineTo(stroke[i].x, stroke[i].y);
+          }
+          ctx.stroke();
+        });
+      };
     },
 
-    renderStage(data) {
-      const stage = document.getElementById('kanji-modal-stage');
+    renderStage(data, stageId = 'kanji-modal-stage', slowToggleId = 'kanji-slow-toggle', numToggleId = 'kanji-numbers-toggle') {
+      const stage = document.getElementById(stageId);
       if (!stage) return;
       stage.innerHTML = '';
       stage.classList.remove('tracing-on');
 
-      const isSlow = document.getElementById('kanji-slow-toggle')?.checked;
-      const showNums = document.getElementById('kanji-numbers-toggle')?.checked ?? true;
+      const isSlow = document.getElementById(slowToggleId)?.checked;
+      const showNums = document.getElementById(numToggleId)?.checked ?? true;
 
       const size = data.size || GRID;
       const svg = svgEl("svg", { viewBox: `0 0 ${size} ${size}`, style: "width:100%; height:100%;" });
@@ -638,7 +693,7 @@
         pathNodes.push(p);
       });
 
-      const numG = svgEl("g", { id: "kvg-numbers-layer", style: `display:${showNums ? 'block' : 'none'};` });
+      const numG = svgEl("g", { id: `${stageId}-numbers-layer`, style: `display:${showNums ? 'block' : 'none'};` });
       if (data.nums) {
         data.nums.forEach(([x, y], i) => {
           const t = svgEl("text", {
@@ -656,11 +711,14 @@
       svg.appendChild(numG);
       stage.appendChild(svg);
 
-      this.animatePaths(pathNodes, isSlow ? 750 : 380);
+      this.animatePaths(pathNodes, isSlow ? 750 : 380, stageId);
     },
 
-    animatePaths(paths, durationPerStroke) {
-      if (this.currentAnimTimer) cancelAnimationFrame(this.currentAnimTimer);
+    animatePaths(paths, durationPerStroke, stageId = 'kanji-modal-stage') {
+      if (!this.currentAnimTimers) this.currentAnimTimers = {};
+      if (this.currentAnimTimers[stageId]) {
+        cancelAnimationFrame(this.currentAnimTimers[stageId]);
+      }
 
       const lengths = paths.map(p => {
         const l = p.getTotalLength();
@@ -682,22 +740,22 @@
         curPath.style.strokeDashoffset = curLen * (1 - progress);
 
         if (progress < 1) {
-          this.currentAnimTimer = requestAnimationFrame(step);
+          this.currentAnimTimers[stageId] = requestAnimationFrame(step);
         } else {
           curPath.style.strokeDashoffset = 0;
           currentIdx++;
           if (currentIdx < paths.length) {
             startTime = null;
-            this.currentAnimTimer = requestAnimationFrame(step);
+            this.currentAnimTimers[stageId] = requestAnimationFrame(step);
           }
         }
       };
 
-      this.currentAnimTimer = requestAnimationFrame(step);
+      this.currentAnimTimers[stageId] = requestAnimationFrame(step);
     },
 
-    renderStepGrid(data) {
-      const grid = document.getElementById('kanji-modal-step-grid');
+    renderStepGrid(data, gridId = 'kanji-modal-step-grid') {
+      const grid = document.getElementById(gridId);
       if (!grid) return;
       grid.innerHTML = '';
 

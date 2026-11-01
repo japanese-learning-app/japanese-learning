@@ -40,7 +40,7 @@
     try {
       if (name === 'curriculum' && typeof renderCurriculumModal === 'function') renderCurriculumModal();
       if (name === 'quizlet-homework' && typeof renderQuizletHomeworkModal === 'function') renderQuizletHomeworkModal();
-      if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('quiz');
+      if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('kana');
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
       if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
@@ -3359,12 +3359,12 @@ rt {
       <button class="app-modal-close" onclick="closeModal('writing')" style="color:white; font-size:1.3rem; opacity:0.9; cursor:pointer;">✕</button>
     </div>
 
-    <!-- 固定タブバーエリア（スクロールしても絶対に隠れない・めり込まない！） -->
+        <!-- 固定タブバーエリア（スクロールしても絶対に隠れない・めり込まない！） -->
     <div style="background:#FFFFFF; border-bottom:2px solid #E2ECF2; padding:10px 18px; flex-shrink:0; box-shadow:0 2px 6px rgba(0,0,0,0.03); z-index:10;">
       <div class="kanji-main-tabs">
-        <button class="kanji-main-tab-btn active" id="tab-btn-writing-quiz" onclick="switchWritingTab('quiz')">📝 漢字書き取りテスト（毎日漢字スタイル）</button>
+        <button class="kanji-main-tab-btn active" id="tab-btn-writing-kana" onclick="switchWritingTab('kana')">あ かな学習（ひらがな・カタカナ）</button>
         <button class="kanji-main-tab-btn" id="tab-btn-writing-list" onclick="switchWritingTab('list')">📚 JLPT漢字リスト（書き順・筆順）</button>
-        <button class="kanji-main-tab-btn" id="tab-btn-writing-kana" onclick="switchWritingTab('kana')">あ かな学習（なぞり書き＆書き取りテスト）</button>
+        <button class="kanji-main-tab-btn" id="tab-btn-writing-quiz" onclick="switchWritingTab('quiz')">📝 毎日漢字書き取りテスト（毎日漢字スタイル）</button>
         <button class="kanji-main-tab-btn" id="tab-btn-writing-pdf" onclick="switchWritingTab('pdf')">📄 練習用紙プリント</button>
       </div>
     </div>
@@ -3372,7 +3372,7 @@ rt {
     <!-- スクロール可能なコンテンツボディ -->
     <div class="app-modal-body" style="padding:18px 20px 24px; overflow-y:auto; flex:1;">
       <!-- タブ1: 漢字書き取りテスト (写真 media_1789917012981.png 完全再現) -->
-      <div id="writing-tab-quiz" class="writing-tab-panel">
+      <div id="writing-tab-quiz" class="writing-tab-panel" style="display:none;">
         <div class="quiz-top-level-bar">
           <div class="quiz-level-pills">
             <button class="quiz-level-pill active" onclick="setWritingQuizLevel('N5', this)">N5（10日・100問）</button>
@@ -3395,27 +3395,28 @@ rt {
         <div id="jlpt-kanji-list-container"></div>
       </div>
 
-      <!-- タブ3: ひらがな・カタカナ なぞり書き練習 -->
+      <!-- タブ3: かな学習スタジオ（なぞり書き練習 ＆ 書き取りテスト） -->
             <!-- タブ3: かな学習スタジオ（なぞり書き練習 ＆ 書き取りテスト） -->
-      <div id="writing-tab-kana" class="writing-tab-panel" style="display:none;">
+            <!-- タブ1: かな学習スタジオ（なぞり書き練習 ＆ 書き取りテスト） -->
+      <div id="writing-tab-kana" class="writing-tab-panel" style="display:block;">
         <div style="background:white; border:1.5px solid var(--border-soft); border-radius:16px; padding:20px;">
           <!-- 上部ヘッダー: タイトル + 戻るボタン + モード切替 (✍️ なぞり書き / 📝 書き取りテスト) -->
           <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin-bottom:16px; border-bottom:1.5px solid #F1F5F9; padding-bottom:14px;">
             <div>
-              <div style="font-weight:800; color:var(--kobe-blue); font-size:1.12rem; display:flex; align-items:center; gap:6px;">
+              <div style="font-weight:800; color:var(--kobe-blue); font-size:1.15rem; display:flex; align-items:center; gap:6px;">
                 <span>あ</span>
                 <span>かな学習スタジオ（五十音・濁音・拗音・特殊音）</span>
               </div>
               <div style="font-size:0.83rem; color:var(--text-sub); margin-top:2px;">
-                五十音だけでなく濁音・半濁音・拗音・カタカナ外来語特殊音まで全128文字に対応！
+                書き順アニメーション・筆順コマ送り・田字格なぞり練習・書き取りテスト全対応！
               </div>
             </div>
             <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-              <button onclick="switchWritingTab('quiz')" style="background:#EFF6FF; border:1.5px solid #93C5FD; color:#1D4ED8; padding:6px 12px; border-radius:8px; font-weight:800; font-size:0.82rem; cursor:pointer;">
-                ← 漢字テストに戻る
+              <button onclick="switchWritingTab('list')" style="background:#EFF6FF; border:1.5px solid #93C5FD; color:#1D4ED8; padding:6px 12px; border-radius:8px; font-weight:800; font-size:0.82rem; cursor:pointer;">
+                JLPT漢字リストへ →
               </button>
               <div class="quiz-level-pills">
-                <button class="quiz-level-pill active" id="btn-kana-submode-trace" onclick="switchKanaSubMode('trace')">✍️ なぞり書き練習</button>
+                <button class="quiz-level-pill active" id="btn-kana-submode-trace" onclick="switchKanaSubMode('trace')">✍️ 書き順・なぞり練習</button>
                 <button class="quiz-level-pill" id="btn-kana-submode-quiz" onclick="switchKanaSubMode('quiz')">📝 かな書き取りテスト</button>
               </div>
             </div>
@@ -3438,48 +3439,70 @@ rt {
               </div>
             </div>
 
-            <!-- なぞり書き作業エリア: 左側に文字一覧、右側になぞり書きキャンバス -->
-            <div style="display:grid; grid-template-columns: minmax(280px, 1fr) 310px; gap:20px; align-items:start;" id="kana-trace-layout">
+            <!-- なぞり書き作業エリア: 左側に文字一覧、右側に書き順アニメーション＆コマ送り＆なぞりキャンバス -->
+            <div style="display:grid; grid-template-columns: minmax(280px, 1fr) 340px; gap:20px; align-items:start;" id="kana-trace-layout">
               <!-- 左: かなグリッド (スクロール可能) -->
-              <div id="kana-grid-picker" style="max-height:460px; overflow-y:auto; padding-right:6px;">
+              <div id="kana-grid-picker" style="max-height:540px; overflow-y:auto; padding-right:6px;">
               </div>
 
-              <!-- 右: 田字格 なぞり書きキャンバス -->
-              <div style="background:#F8FAFC; border:1.5px solid #CBD5E1; border-radius:14px; padding:16px; display:flex; flex-direction:column; align-items:center; gap:12px;">
+              <!-- 右: 書き順アニメーション・筆順コマ送り・なぞり書き練習ステージ (写真完全再現) -->
+              <div style="background:#F8FAFC; border:1.5px solid #CBD5E1; border-radius:14px; padding:16px; display:flex; flex-direction:column; gap:12px; position:sticky; top:10px;">
+                <!-- ヘッダー情報: 文字バッジ、読み、画数、発音、全画面モーダルボタン -->
                 <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
-                  <span style="font-weight:800; font-size:0.95rem; color:#1E293B;">なぞり書きマス</span>
-                  <span id="kana-current-romaji" style="font-size:0.85rem; font-weight:700; color:var(--kobe-blue);">[ a ]</span>
-                </div>
-
-                <!-- 田字格キャンバス枠 (220x220) -->
-                <div style="width:220px; height:220px; border:2px solid #94A3B8; border-radius:12px; background:white; position:relative; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-                  <!-- 十字点線 -->
-                  <div style="position:absolute; inset:0; pointer-events:none;">
-                    <div style="position:absolute; top:50%; left:0; right:0; height:1px; border-top:1px dashed #BAE6FD;"></div>
-                    <div style="position:absolute; left:50%; top:0; bottom:0; width:1px; border-left:1px dashed #BAE6FD;"></div>
+                  <div style="display:flex; align-items:center; gap:8px;">
+                    <span id="kana-selected-char-badge" style="font-size:1.7rem; font-weight:900; color:#1E3A8A; font-family:'Klee One', cursive, sans-serif; line-height:1;">あ</span>
+                    <span id="kana-current-romaji" style="font-size:0.92rem; font-weight:700; color:var(--kobe-blue);">[ a ]</span>
+                    <span id="kana-current-strokes-badge" style="font-size:0.75rem; font-weight:800; background:#EFF6FF; color:#1D4ED8; padding:2px 7px; border-radius:6px; border:1px solid #BFDBFE;">3画</span>
                   </div>
-                  <!-- 薄いグレーのお手本文字 -->
-                  <div id="kana-trace-ghost" style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-size:136px; font-weight:400; color:#CBD5E1; font-family:'Klee One', 'YuKyokasho Yoko', 'YuKyokasho', 'UD デジタル 教科書体 N-R', cursive, sans-serif; line-height:1; user-select:none; pointer-events:none;">
-                    あ
+                  <div style="display:flex; align-items:center; gap:6px;">
+                    <button onclick="playCurrentKanaAudio()" style="background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; padding:4px 10px; border-radius:8px; font-size:0.82rem; font-weight:800; cursor:pointer; display:flex; align-items:center; gap:4px;">
+                      🔊 発音
+                    </button>
+                    <button onclick="openCurrentKanaStrokeModal()" style="background:white; border:1px solid #CBD5E1; color:#475569; padding:4px 8px; border-radius:8px; font-size:0.78rem; font-weight:700; cursor:pointer;" title="全画面で詳しく見る">
+                      🔍 詳細
+                    </button>
                   </div>
-                  <!-- 手書きCanvas -->
-                  <canvas id="kana-trace-canvas" style="position:absolute; inset:0; width:100%; height:100%; touch-action:none; cursor:crosshair; z-index:2;"></canvas>
                 </div>
 
-                <!-- 操作ボタン -->
-                <div style="display:flex; gap:8px; width:100%;">
-                  <button onclick="playCurrentKanaAudio()" style="flex:1; background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; padding:8px; border-radius:8px; font-size:0.82rem; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:4px;">
-                    🔊 発音
-                  </button>
-                  <button onclick="clearKanaTrace()" style="flex:1; background:white; border:1px solid #CBD5E1; color:#475569; padding:8px; border-radius:8px; font-size:0.82rem; font-weight:700; cursor:pointer;">
-                    🗑️ 消去
-                  </button>
-                  <button onclick="undoKanaTrace()" style="flex:1; background:white; border:1px solid #CBD5E1; color:#475569; padding:8px; border-radius:8px; font-size:0.82rem; font-weight:700; cursor:pointer;">
-                    ↺ 戻す
-                  </button>
+                <!-- 拗音・特殊音 (2文字) の切り替えピル (2文字ある場合のみ表示) -->
+                <div id="kana-multichar-selector" style="display:none; gap:6px; margin-bottom:2px;"></div>
+
+                <!-- 田字格アニメーション & なぞり書きステージ (220x220) -->
+                <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+                  <div class="kanji-stage-box" id="kana-trace-stage" style="width:220px; height:220px; border:2px solid #94A3B8; border-radius:12px; background:white; position:relative; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.04);"></div>
+
+                  <!-- コントロールバー: [▶ もういちど] [ゆっくり] [番号] [✍ なぞり練習] -->
+                  <div class="kanji-controls-bar" style="width:100%; justify-content:center; gap:6px; flex-wrap:wrap;">
+                    <button class="kanji-play-btn" onclick="replayKanaAnimation()">▶ もういちど</button>
+                    <label style="display:inline-flex; align-items:center; gap:4px; cursor:pointer; font-size:0.8rem; color:#475569; font-weight:700;">
+                      <input type="checkbox" id="kana-slow-toggle" onchange="replayKanaAnimation()"> ゆっくり
+                    </label>
+                    <label style="display:inline-flex; align-items:center; gap:4px; cursor:pointer; font-size:0.8rem; color:#475569; font-weight:700;">
+                      <input type="checkbox" id="kana-numbers-toggle" checked onchange="toggleKanaNumbers()"> 番号
+                    </label>
+                    <button class="kanji-btn-trace-mode" id="btn-kana-toggle-trace" onclick="toggleKanaTraceMode()">✍ なぞり練習</button>
+                  </div>
+
+                  <!-- なぞり練習ツールバー [🗑️ 消去] [↺ 1画戻す] (なぞり時のみ表示) -->
+                  <div id="kana-trace-draw-tools" style="display:none; gap:8px; width:100%; justify-content:center;">
+                    <button onclick="clearKanaTraceCanvas()" style="background:white; border:1px solid #CBD5E1; color:#475569; padding:5px 12px; border-radius:8px; font-size:0.78rem; font-weight:700; cursor:pointer;">
+                      🗑️ 全て消去
+                    </button>
+                    <button onclick="undoKanaTraceCanvas()" style="background:white; border:1px solid #CBD5E1; color:#475569; padding:5px 12px; border-radius:8px; font-size:0.78rem; font-weight:700; cursor:pointer;">
+                      ↺ 1画戻す
+                    </button>
+                  </div>
                 </div>
 
-                <!-- ★ フォントによる形の違い・手書き推奨ガイド ★ -->
+                <!-- 筆順コマ送り（新しく書く画＝赤色） -->
+                <div style="border-top:1px solid #E2E8F0; padding-top:10px; margin-top:2px;">
+                  <div style="font-size:0.8rem; font-weight:800; color:#475569; margin-bottom:8px; display:flex; align-items:center; gap:5px;">
+                    <span>🖌️</span> <span>筆順コマ送り（新しく書く画＝赤色）:</span>
+                  </div>
+                  <div class="kanji-step-grid" id="kana-step-grid" style="display:flex; flex-wrap:wrap; gap:6px; max-height:160px; overflow-y:auto; padding:2px; justify-content:center;"></div>
+                </div>
+
+                <!-- フォントによる形の違いガイド -->
                 <div id="kana-font-notice-box" style="width:100%;"></div>
               </div>
             </div>
@@ -4278,7 +4301,7 @@ rt {
     try {
       if (name === 'curriculum' && typeof renderCurriculumModal === 'function') renderCurriculumModal();
       if (name === 'quizlet-homework' && typeof renderQuizletHomeworkModal === 'function') renderQuizletHomeworkModal();
-      if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('quiz');
+      if (name === 'writing' && typeof switchWritingTab === 'function') switchWritingTab('kana');
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
       if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
@@ -6697,7 +6720,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
   let currentKanjiListLevel = 'N5';
 
   function switchWritingTab(tabName) {
-    ['quiz', 'list', 'kana', 'pdf'].forEach(t => {
+    ['kana', 'list', 'quiz', 'pdf'].forEach(t => {
       const btn = document.getElementById('tab-btn-writing-' + t);
       const panel = document.getElementById('writing-tab-' + t);
       if (btn) btn.classList.toggle('active', t === tabName);
@@ -6728,12 +6751,12 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     }
   }
 
-    // ================= 5. ひらがな・カタカナ なぞり書き＆書き取りテスト エンジン =================
+      // ================= 5. ひらがな・カタカナ なぞり書き＆書き取りテスト エンジン =================
   let currentKanaType = 'hiragana';
   let currentKanaCategory = 'all';
   let currentKanaSubMode = 'trace'; // 'trace' | 'quiz'
   let currentSelectedKana = { char: 'あ', romaji: 'a' };
-  let kanaCanvasHistory = [];
+  let currentActiveKanaSubChar = 'あ';
 
   const KANA_ALL_DATA = [
     // --- 五十音（清音・46文字） ---
@@ -6918,7 +6941,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         KanaWritingQuiz.init('kana-quiz-container');
       }
     } else {
-      initKanaCanvas();
+      updateKanaStrokeView(currentSelectedKana.char, currentSelectedKana.romaji);
     }
   }
 
@@ -6933,10 +6956,10 @@ Advice: Explanation in ${targetLangName} why it is corrected.
 
   function initKanaTab() {
     renderKanaGridPicker();
-    initKanaCanvas();
     const first = KANA_ALL_DATA[0];
+    const initialChar = (currentKanaType === 'hiragana') ? first.h : first.k;
     // 音声自動再生は絶対にしない (shouldPlayAudio = false)
-    selectKanaForTrace(currentKanaType === 'hiragana' ? first.h : first.k, first.r, false);
+    selectKanaForTrace(initialChar, first.r, false);
     if (currentKanaSubMode === 'quiz' && typeof KanaWritingQuiz !== 'undefined') {
       KanaWritingQuiz.init('kana-quiz-container');
     }
@@ -6948,8 +6971,9 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     document.getElementById('btn-kana-kata')?.classList.toggle('active', type === 'katakana');
     renderKanaGridPicker();
     const first = KANA_ALL_DATA.find(x => x.cat === (currentKanaCategory === 'all' ? 'seion' : currentKanaCategory)) || KANA_ALL_DATA[0];
+    const char = (type === 'hiragana') ? first.h : first.k;
     // タイプ切り替え時も自動再生しない
-    selectKanaForTrace(type === 'hiragana' ? first.h : first.k, first.r, false);
+    selectKanaForTrace(char, first.r, false);
     if (typeof KanaWritingQuiz !== 'undefined' && currentKanaSubMode === 'quiz') {
       KanaWritingQuiz.setType(type);
     }
@@ -7013,12 +7037,12 @@ Advice: Explanation in ${targetLangName} why it is corrected.
             </div>
           </div>
 
-          <!-- カタカナ外来語・特殊音 -->
+          <!-- カタカナ外来語・特殊音 (1行3つ) -->
           <div>
             <div style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-bottom:8px; display:flex; align-items:center; gap:6px;">
               <span>🌐</span> <span>カタカナ外来語・特殊音（24字）</span>
             </div>
-            <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(58px, 1fr)); gap:6px;">
+            <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">
               ${tokushuList.map(item => renderKanaCell(item)).join('')}
             </div>
           </div>
@@ -7034,8 +7058,9 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       const list = KANA_ALL_DATA.filter(x => x.cat === 'youon');
       grid.innerHTML = `<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">${list.map(item => renderKanaCell(item)).join('')}</div>`;
     } else if (currentKanaCategory === 'tokushu') {
+      // ユーザー指示: 特殊音も1行3つ (repeat(3, 1fr))
       const list = KANA_ALL_DATA.filter(x => x.cat === 'tokushu');
-      grid.innerHTML = `<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(58px, 1fr)); gap:6px;">${list.map(item => renderKanaCell(item)).join('')}</div>`;
+      grid.innerHTML = `<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">${list.map(item => renderKanaCell(item)).join('')}</div>`;
     }
   }
 
@@ -7077,7 +7102,8 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     const box = document.getElementById('kana-font-notice-box');
     if (!box) return;
 
-    const v = (currentKanaType === 'hiragana') ? KANA_FONT_VARIATIONS[char] : null;
+    const baseChar = char[0];
+    const v = (currentKanaType === 'hiragana') ? KANA_FONT_VARIATIONS[baseChar] : null;
     if (v) {
       box.innerHTML = `
         <div style="background:#FFFBEB; border:1.5px solid #FCD34D; border-radius:12px; padding:10px 12px; width:100%; box-sizing:border-box; margin-top:2px;">
@@ -7113,115 +7139,125 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     }
   }
 
-  function selectKanaForTrace(char, romaji, shouldPlayAudio = false) {
+  // ================= かな書き順アニメーション ＆ コマ送り表示 ＆ なぞり練習 =================
+  async function updateKanaStrokeView(char, romaji) {
     currentSelectedKana = { char, romaji };
-    const ghost = document.getElementById('kana-trace-ghost');
-    if (ghost) {
-      ghost.textContent = char;
-      ghost.style.fontSize = (char.length > 1) ? '76px' : '136px';
-    }
+    const charBadge = document.getElementById('kana-selected-char-badge');
     const romajiEl = document.getElementById('kana-current-romaji');
+    const multiSelector = document.getElementById('kana-multichar-selector');
+    const drawTools = document.getElementById('kana-trace-draw-tools');
+    const btnTrace = document.getElementById('btn-kana-toggle-trace');
+
+    if (drawTools) drawTools.style.display = 'none';
+    if (btnTrace) btnTrace.textContent = '✍ なぞり練習';
     if (romajiEl) romajiEl.textContent = `[ ${romaji} ]`;
 
-    clearKanaTrace();
-    renderKanaGridPicker();
+    // 2文字（拗音・外来語）の場合
+    if (char.length > 1) {
+      if (multiSelector) {
+        multiSelector.style.display = 'flex';
+        multiSelector.innerHTML = [...char].map((sub, idx) => `
+          <button class="quiz-level-pill ${idx === 0 ? 'active' : ''}" onclick="selectKanaSubChar('${sub}', this)" style="padding:4px 10px; font-size:0.78rem;">
+            ${idx + 1}文字目: ${sub}
+          </button>
+        `).join('');
+      }
+      currentActiveKanaSubChar = char[0];
+    } else {
+      if (multiSelector) multiSelector.style.display = 'none';
+      currentActiveKanaSubChar = char;
+    }
+
+    if (charBadge) charBadge.textContent = char;
+    await loadAndDisplayKanaStrokes(currentActiveKanaSubChar);
     updateKanaVariationNotice(char);
+  }
+
+  async function selectKanaSubChar(subChar, btnEl) {
+    currentActiveKanaSubChar = subChar;
+    if (btnEl && btnEl.parentElement) {
+      btnEl.parentElement.querySelectorAll('.quiz-level-pill').forEach(b => b.classList.remove('active'));
+      btnEl.classList.add('active');
+    }
+    await loadAndDisplayKanaStrokes(subChar);
+  }
+
+  async function loadAndDisplayKanaStrokes(targetChar) {
+    const strokeBadge = document.getElementById('kana-current-strokes-badge');
+    if (typeof KanjiEngine === 'undefined') return;
+
+    const data = await KanjiEngine.fetchStrokes(targetChar);
+    if (!data) {
+      const stage = document.getElementById('kana-trace-stage');
+      if (stage) {
+        stage.innerHTML = `<div style="display:flex;align-items:center;justify-content:center;height:100%;font-size:4rem;color:#1E3A8A;font-family:'Klee One', cursive, sans-serif;">${targetChar}</div>`;
+      }
+      if (strokeBadge) strokeBadge.textContent = '1画';
+      return;
+    }
+
+    if (strokeBadge) strokeBadge.textContent = `${data.strokesCount}画`;
+    KanjiEngine.renderStage(data, 'kana-trace-stage', 'kana-slow-toggle', 'kana-numbers-toggle');
+    KanjiEngine.renderStepGrid(data, 'kana-step-grid');
+  }
+
+  function replayKanaAnimation() {
+    if (!currentActiveKanaSubChar || typeof KanjiEngine === 'undefined') return;
+    const data = KanjiEngine.fetchStrokes(currentActiveKanaSubChar);
+    if (data) {
+      KanjiEngine.replayAnimation(currentActiveKanaSubChar, 'kana-trace-stage', 'kana-slow-toggle', 'kana-numbers-toggle');
+    }
+  }
+
+  function toggleKanaNumbers() {
+    if (typeof KanjiEngine !== 'undefined') {
+      KanjiEngine.toggleNumbers('kana-trace-stage', 'kana-numbers-toggle');
+    }
+  }
+
+  function toggleKanaTraceMode() {
+    if (!currentActiveKanaSubChar || typeof KanjiEngine === 'undefined') return;
+    KanjiEngine.toggleTrace(currentActiveKanaSubChar, 'kana-trace-stage', 'btn-kana-toggle-trace');
+  }
+
+  function clearKanaTraceCanvas() {
+    const stage = document.getElementById('kana-trace-stage');
+    if (stage && typeof stage._clear === 'function') {
+      stage._clear();
+    }
+  }
+
+  function undoKanaTraceCanvas() {
+    const stage = document.getElementById('kana-trace-stage');
+    if (stage && typeof stage._undo === 'function') {
+      stage._undo();
+    }
+  }
+
+  function openCurrentKanaStrokeModal() {
+    if (currentActiveKanaSubChar && typeof KanjiEngine !== 'undefined') {
+      KanjiEngine.openStrokeModal(currentActiveKanaSubChar, {
+        romaji: currentSelectedKana.romaji,
+        isKana: true
+      });
+    }
+  }
+
+  function selectKanaForTrace(char, romaji, shouldPlayAudio = false) {
+    updateKanaStrokeView(char, romaji);
+    renderKanaGridPicker();
     if (shouldPlayAudio) {
       playCurrentKanaAudio();
     }
   }
 
-  function initKanaCanvas() {
-    const cvs = document.getElementById('kana-trace-canvas');
-    if (!cvs) return;
-
-    const w = 220, h = 220;
-    cvs.width = w * window.devicePixelRatio;
-    cvs.height = h * window.devicePixelRatio;
-    cvs.style.width = w + "px";
-    cvs.style.height = h + "px";
-
-    const ctx = cvs.getContext('2d');
-    ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
-    ctx.lineCap = 'round';
-    ctx.lineJoin = 'round';
-    ctx.strokeStyle = '#0F172A';
-    ctx.lineWidth = 6;
-
-    kanaCanvasHistory = [];
-    let currentStroke = [];
-    let drawing = false;
-
-    const getPos = (e) => {
-      const rect = cvs.getBoundingClientRect();
-      return { x: e.clientX - rect.left, y: e.clientY - rect.top };
-    };
-
-    cvs.onpointerdown = (e) => {
-      cvs.setPointerCapture(e.pointerId);
-      drawing = true;
-      currentStroke = [];
-      const p = getPos(e);
-      currentStroke.push(p);
-      ctx.beginPath();
-      ctx.moveTo(p.x, p.y);
-    };
-
-    cvs.onpointermove = (e) => {
-      if (!drawing) return;
-      const p = getPos(e);
-      currentStroke.push(p);
-      ctx.lineTo(p.x, p.y);
-      ctx.stroke();
-    };
-
-    const stop = () => {
-      if (!drawing) return;
-      drawing = false;
-      if (currentStroke.length > 0) kanaCanvasHistory.push([...currentStroke]);
-    };
-
-    cvs.onpointerup = stop;
-    cvs.onpointercancel = stop;
-  }
-
-  function clearKanaTrace() {
-    const cvs = document.getElementById('kana-trace-canvas');
-    if (!cvs) return;
-    const ctx = cvs.getContext('2d');
-    ctx.clearRect(0, 0, cvs.width, cvs.height);
-    kanaCanvasHistory = [];
-  }
-
-  function undoKanaTrace() {
-    const cvs = document.getElementById('kana-trace-canvas');
-    if (!cvs || kanaCanvasHistory.length === 0) return;
-    kanaCanvasHistory.pop();
-
-    const ctx = cvs.getContext('2d');
-    ctx.clearRect(0, 0, cvs.width, cvs.height);
-    ctx.lineCap = 'round';
-    ctx.lineJoin = 'round';
-    ctx.strokeStyle = '#0F172A';
-    ctx.lineWidth = 6;
-
-    kanaCanvasHistory.forEach(stroke => {
-      if (stroke.length === 0) return;
-      ctx.beginPath();
-      ctx.moveTo(stroke[0].x, stroke[0].y);
-      for (let i = 1; i < stroke.length; i++) {
-        ctx.lineTo(stroke[i].x, stroke[i].y);
-      }
-      ctx.stroke();
-    });
-  }
-
   function playCurrentKanaAudio() {
-    if (typeof playGoogleTTS === 'function' && currentSelectedKana.char) {
-      playGoogleTTS(currentSelectedKana.char);
-    } else if ('speechSynthesis' in window && currentSelectedKana.char) {
+    const soundTarget = currentActiveKanaSubChar || currentSelectedKana.char;
+    if (typeof playGoogleTTS === 'function' && soundTarget) {
+      playGoogleTTS(soundTarget);
+    } else if ('speechSynthesis' in window && soundTarget) {
       window.speechSynthesis.cancel();
-      const u = new SpeechSynthesisUtterance(currentSelectedKana.char);
+      const u = new SpeechSynthesisUtterance(soundTarget);
       u.lang = 'ja-JP';
       u.rate = 0.85;
       window.speechSynthesis.speak(u);
@@ -7249,13 +7285,11 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     },
 
     startQuiz() {
-      // 1. カテゴリで絞り込み
       let pool = KANA_ALL_DATA.filter(x => x.h && x.k && x.cat !== 'blank');
       if (this.currentCategory !== 'all') {
         pool = pool.filter(x => x.cat === this.currentCategory);
       }
 
-      // 2. 文字種（ひらがな/カタカナ）でマッピング
       let list = pool.map(item => ({
         char: (this.currentType === 'hiragana') ? item.h : item.k,
         romaji: item.r,
@@ -7264,7 +7298,6 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         k: item.k
       }));
 
-      // 3. モード別並び替え
       if (this.currentMode === 'sequential') {
         this.questions = list;
       } else if (this.currentMode === 'shuffle') {
@@ -7403,7 +7436,6 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         else if (this.answers[k] === false) wrongCount++;
       });
 
-      // 完了画面
       if (this.isCompleted) {
         const total = this.questions.length;
         const pct = total > 0 ? Math.round((correctCount / total) * 100) : 0;
@@ -7612,7 +7644,6 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         </div>
       `;
 
-      // Canvas初期化
       setTimeout(() => {
         this.initQuizCanvas();
       }, 30);
