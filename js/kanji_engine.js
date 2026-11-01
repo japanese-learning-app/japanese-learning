@@ -239,6 +239,14 @@
     return text.replace(/([一-龯々仝〆〇ヶ]+)[（\(]([ぁ-んァ-ヶー]+)[）\)]/g, "<ruby>$1<rt>$2</rt></ruby>");
   }
 
+  /**
+   * 訓読みの送り仮名表記をきれいに整形する（例: あさ.い -> あさ（い）、-び -> 〜び）
+   */
+  function formatKunyomi(r) {
+    if (!r) return "";
+    return r.replace(/\.([ぁ-ん]+)/g, "（$1）").replace(/^-/, "〜").replace(/-$/, "〜");
+  }
+
   function getKanjiExamples(char, level) {
     // 1. プリセット辞書をチェック
     if (PRESET_KANJI_EXAMPLES && PRESET_KANJI_EXAMPLES[char]) {
@@ -388,24 +396,24 @@
       if (old) old.remove();
 
       let data = await fetchKanjiStrokes(char);
-      const strokesCount = (data && data.strokesCount) || (extraInfo.strokes) || 1;
-
-      // Find full kanji details if not provided
-      let kObj = extraInfo || {};
-      if (!kObj.onyomi && !kObj.kunyomi && typeof window !== 'undefined' && window.JLPT_KANJI_DATA) {
+      // 1. 正規の漢字データベースから完全かつ正確な情報を最優先取得（ダミー情報や外部汚染を完全排除）
+      let canonical = null;
+      if (typeof window !== 'undefined' && window.JLPT_KANJI_DATA) {
         for (const lvl of ['N5', 'N4', 'N3', 'N2', 'N1']) {
           const found = (window.JLPT_KANJI_DATA[lvl] || []).find(k => k.character === char);
-          if (found) { kObj = found; break; }
+          if (found) { canonical = found; break; }
         }
       }
+      let kObj = canonical ? Object.assign({}, extraInfo, canonical) : (extraInfo || {});
+      const strokesCount = (canonical && canonical.strokes) || (data && data.strokesCount) || (extraInfo.strokes) || 1;
       const isKana = /[\u3040-\u309F\u30A0-\u30FF]/.test(char);
-      const lvl = kObj.level || (window.KanjiListEngine ? window.KanjiListEngine.currentLevel : 'N5');
+      const lvl = (canonical && canonical.level) || kObj.level || (window.KanjiListEngine ? window.KanjiListEngine.currentLevel : 'N5');
       const lvlBadge = isKana ? (char >= '\u30a0' ? 'カタカナ' : 'ひらがな') : `JLPT ${lvl}`;
       const onList = kObj.onyomi || [];
       const kunList = kObj.kunyomi || [];
       const meanList = kObj.meanings || [];
       const onStr = onList.length > 0 ? onList.join('、') : '—';
-      const kunStr = kunList.length > 0 ? kunList.join('、') : '—';
+      const kunStr = kunList.length > 0 ? kunList.map(formatKunyomi).join('、') : '—';
       const meanStr = meanList.length > 0 ? meanList.join(', ') : '—';
 
       const examples = getKanjiExamples(char, lvl);
@@ -1263,13 +1271,25 @@
       let list = allData[this.currentLevel] || [];
 
       if (this.currentSearch) {
-        list = list.filter(k => {
-          if (k.character.includes(this.currentSearch)) return true;
-          if (k.onyomi && k.onyomi.some(r => r.toLowerCase().includes(this.currentSearch))) return true;
-          if (k.kunyomi && k.kunyomi.some(r => r.toLowerCase().includes(this.currentSearch))) return true;
-          if (k.meanings && k.meanings.some(m => m.toLowerCase().includes(this.currentSearch))) return true;
+        const query = this.currentSearch;
+        const matchFn = k => {
+          if (k.character.toLowerCase().includes(query)) return true;
+          if (k.onyomi && k.onyomi.some(r => r.toLowerCase().includes(query))) return true;
+          if (k.kunyomi && k.kunyomi.some(r => r.toLowerCase().includes(query))) return true;
+          if (k.meanings && k.meanings.some(m => m.toLowerCase().includes(query))) return true;
           return false;
-        });
+        };
+
+        let matches = list.filter(matchFn);
+        if (matches.length === 0) {
+          // 選択中レベルで見つからない場合、全レベルから検索して即座に表示
+          for (const lvl of ['N1', 'N2', 'N3', 'N4', 'N5']) {
+            if (lvl === this.currentLevel) continue;
+            const extra = (allData[lvl] || []).filter(matchFn);
+            matches = matches.concat(extra);
+          }
+        }
+        list = matches;
       }
 
       container.innerHTML = `
@@ -1319,7 +1339,7 @@
             const onList = k.onyomi || [];
             const kunList = k.kunyomi || [];
             const onStr = onList.slice(0, 2).join('、');
-            const kunStr = kunList.slice(0, 2).join('、');
+            const kunStr = kunList.slice(0, 2).map(formatKunyomi).join('、');
             const escapedK = JSON.stringify(k).replace(/"/g, '&quot;');
             return `
               <div class="kanji-tile-card" onclick='KanjiEngine.openStrokeModal("${k.character}", ${escapedK})'>

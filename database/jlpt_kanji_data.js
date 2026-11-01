@@ -25423,7 +25423,6 @@ window.JLPT_KANJI_DATA = {
         "フン"
       ],
       "kunyomi": [
-        "デシメートル",
         "こ",
         "こな"
       ],
@@ -30510,7 +30509,6 @@ window.JLPT_KANJI_DATA = {
         "シ"
       ],
       "kunyomi": [
-        "シリング",
         "こころざ.す",
         "こころざし"
       ],
@@ -56805,41 +56803,6 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "斤",
-      "level": "N1",
-      "strokes": 4,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "キン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Axe",
-        "1.32 Lb",
-        "Catty",
-        "Counter For Loaves Of Bread",
-        "Axe Radical (no. 69)"
-      ]
-    },
-    {
-      "character": "匁",
-      "level": "N1",
-      "strokes": 4,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [],
-      "kunyomi": [
-        "もんめ",
-        "め"
-      ],
-      "meanings": [
-        "Monme",
-        "3.75 Grams",
-        "(kokuji)"
-      ]
-    },
-    {
       "character": "云",
       "level": "N1",
       "strokes": 4,
@@ -56864,21 +56827,38 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "丙",
+      "character": "匁",
       "level": "N1",
-      "strokes": 5,
+      "strokes": 4,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [],
+      "kunyomi": [
+        "もんめ",
+        "め"
+      ],
+      "meanings": [
+        "Monme",
+        "3.75 Grams",
+        "(kokuji)"
+      ]
+    },
+    {
+      "character": "斤",
+      "level": "N1",
+      "strokes": 4,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "ヘイ"
+        "キン"
       ],
-      "kunyomi": [
-        "ひのえ"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Third Class",
-        "3rd",
-        "3rd Calendar Sign"
+        "Axe",
+        "1.32 Lb",
+        "Catty",
+        "Counter For Loaves Of Bread",
+        "Axe Radical (no. 69)"
       ]
     },
     {
@@ -56907,6 +56887,54 @@ window.JLPT_KANJI_DATA = {
         "word": "且",
         "reading": "かつ"
       }
+    },
+    {
+      "character": "旦",
+      "level": "N1",
+      "strokes": 5,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "タン",
+        "ダン"
+      ],
+      "kunyomi": [
+        "あき.らか",
+        "あきら",
+        "ただし",
+        "あさ",
+        "あした"
+      ],
+      "meanings": [
+        "Daybreak",
+        "Dawn",
+        "Morning"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 124,
+        "qIndex": 9,
+        "word": "旦那",
+        "reading": "だんな"
+      }
+    },
+    {
+      "character": "丙",
+      "level": "N1",
+      "strokes": 5,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ヘイ"
+      ],
+      "kunyomi": [
+        "ひのえ"
+      ],
+      "meanings": [
+        "Third Class",
+        "3rd",
+        "3rd Calendar Sign"
+      ]
     },
     {
       "character": "汀",
@@ -56952,59 +56980,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "旦",
-      "level": "N1",
-      "strokes": 5,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "タン",
-        "ダン"
-      ],
-      "kunyomi": [
-        "あき.らか",
-        "あきら",
-        "ただし",
-        "あさ",
-        "あした"
-      ],
-      "meanings": [
-        "Daybreak",
-        "Dawn",
-        "Morning"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 124,
-        "qIndex": 9,
-        "word": "旦那",
-        "reading": "だんな"
-      }
-    },
-    {
-      "character": "屹",
-      "level": "N1",
-      "strokes": 6,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "キツ"
-      ],
-      "kunyomi": [
-        "そばだ.つ"
-      ],
-      "meanings": [
-        "Towering Mountains"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 63,
-        "qIndex": 5,
-        "word": "屹",
-        "reading": "きっと"
-      }
-    },
-    {
       "character": "凪",
       "level": "N1",
       "strokes": 6,
@@ -57040,49 +57015,27 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "辿",
+      "character": "吃",
       "level": "N1",
       "strokes": 6,
-      "grade": 9,
+      "grade": null,
       "freq": null,
       "onyomi": [
-        "テン"
+        "キツ"
       ],
       "kunyomi": [
-        "たど.る",
-        "たどり"
+        "ども.る"
       ],
       "meanings": [
-        "Follow (road)",
-        "Pursue"
+        "Stammer"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 121,
-        "qIndex": 6,
-        "word": "辿る",
-        "reading": "たどる"
+        "day": 102,
+        "qIndex": 0,
+        "word": "吃驚",
+        "reading": "びっくり"
       }
-    },
-    {
-      "character": "弐",
-      "level": "N1",
-      "strokes": 6,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ニ",
-        "ジ"
-      ],
-      "kunyomi": [
-        "ふた.つ",
-        "そえ"
-      ],
-      "meanings": [
-        "Ii",
-        "Two",
-        "Second"
-      ]
     },
     {
       "character": "吏",
@@ -57144,29 +57097,6 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "吃",
-      "level": "N1",
-      "strokes": 6,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "キツ"
-      ],
-      "kunyomi": [
-        "ども.る"
-      ],
-      "meanings": [
-        "Stammer"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 102,
-        "qIndex": 0,
-        "word": "吃驚",
-        "reading": "びっくり"
-      }
-    },
-    {
       "character": "而",
       "level": "N1",
       "strokes": 6,
@@ -57198,6 +57128,74 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 5,
         "word": "而",
         "reading": "しかも"
+      }
+    },
+    {
+      "character": "弐",
+      "level": "N1",
+      "strokes": 6,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ニ",
+        "ジ"
+      ],
+      "kunyomi": [
+        "ふた.つ",
+        "そえ"
+      ],
+      "meanings": [
+        "Ii",
+        "Two",
+        "Second"
+      ]
+    },
+    {
+      "character": "屹",
+      "level": "N1",
+      "strokes": 6,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "キツ"
+      ],
+      "kunyomi": [
+        "そばだ.つ"
+      ],
+      "meanings": [
+        "Towering Mountains"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 63,
+        "qIndex": 5,
+        "word": "屹",
+        "reading": "きっと"
+      }
+    },
+    {
+      "character": "辿",
+      "level": "N1",
+      "strokes": 6,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "たど.る",
+        "たどり"
+      ],
+      "meanings": [
+        "Follow (road)",
+        "Pursue"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 121,
+        "qIndex": 6,
+        "word": "辿る",
+        "reading": "たどる"
       }
     },
     {
@@ -57246,6 +57244,36 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
+      "character": "佚",
+      "level": "N1",
+      "strokes": 7,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "イツ",
+        "テツ"
+      ],
+      "kunyomi": [
+        "たのし.む",
+        "のが.れる"
+      ],
+      "meanings": [
+        "Lost",
+        "Hide",
+        "Peace",
+        "Mistake",
+        "Beautiful",
+        "In Turn"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 32,
+        "qIndex": 0,
+        "word": "佚",
+        "reading": "いつ"
+      }
+    },
+    {
       "character": "庇",
       "level": "N1",
       "strokes": 7,
@@ -57277,44 +57305,29 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "冶",
+      "character": "汲",
       "level": "N1",
       "strokes": 7,
-      "grade": 8,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "ヤ"
+        "キュウ"
       ],
       "kunyomi": [
-        "い.る"
+        "く.む"
       ],
       "meanings": [
-        "Melting",
-        "Smelting"
-      ]
-    },
-    {
-      "character": "肘",
-      "level": "N1",
-      "strokes": 7,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "チュウ"
-      ],
-      "kunyomi": [
-        "ひじ"
-      ],
-      "meanings": [
-        "Elbow",
-        "Arm"
+        "Draw (water)",
+        "Ladle",
+        "Scoop",
+        "Pump"
       ],
       "dailyQuizRef": {
         "level": "N2",
-        "day": 87,
-        "qIndex": 4,
-        "word": "肘",
-        "reading": "ひじ"
+        "day": 39,
+        "qIndex": 2,
+        "word": "汲",
+        "reading": "くむ"
       }
     },
     {
@@ -57346,32 +57359,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "汲",
-      "level": "N1",
-      "strokes": 7,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キュウ"
-      ],
-      "kunyomi": [
-        "く.む"
-      ],
-      "meanings": [
-        "Draw (water)",
-        "Ladle",
-        "Scoop",
-        "Pump"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 39,
-        "qIndex": 2,
-        "word": "汲",
-        "reading": "くむ"
-      }
-    },
-    {
       "character": "吝",
       "level": "N1",
       "strokes": 7,
@@ -57399,49 +57386,20 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "佚",
-      "level": "N1",
-      "strokes": 7,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "イツ",
-        "テツ"
-      ],
-      "kunyomi": [
-        "たのし.む",
-        "のが.れる"
-      ],
-      "meanings": [
-        "Lost",
-        "Hide",
-        "Peace",
-        "Mistake",
-        "Beautiful",
-        "In Turn"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 32,
-        "qIndex": 0,
-        "word": "佚",
-        "reading": "いつ"
-      }
-    },
-    {
-      "character": "玖",
+      "character": "伶",
       "level": "N1",
       "strokes": 7,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "キュウ",
-        "ク"
+        "レイ",
+        "リョウ"
       ],
-      "kunyomi": [],
+      "kunyomi": [
+        "わざおぎ"
+      ],
       "meanings": [
-        "Beautiful Black Jewel",
-        "Nine"
+        "Actor"
       ]
     },
     {
@@ -57475,6 +57433,81 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "玖",
+      "level": "N1",
+      "strokes": 7,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "キュウ",
+        "ク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Beautiful Black Jewel",
+        "Nine"
+      ]
+    },
+    {
+      "character": "肘",
+      "level": "N1",
+      "strokes": 7,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "ひじ"
+      ],
+      "meanings": [
+        "Elbow",
+        "Arm"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 87,
+        "qIndex": 4,
+        "word": "肘",
+        "reading": "ひじ"
+      }
+    },
+    {
+      "character": "冶",
+      "level": "N1",
+      "strokes": 7,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "い.る"
+      ],
+      "meanings": [
+        "Melting",
+        "Smelting"
+      ]
+    },
+    {
+      "character": "沃",
+      "level": "N1",
+      "strokes": 7,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ヨウ",
+        "ヨク",
+        "オク"
+      ],
+      "kunyomi": [
+        "そそ.ぐ"
+      ],
+      "meanings": [
+        "Fertility"
+      ]
+    },
+    {
       "character": "弄",
       "level": "N1",
       "strokes": 7,
@@ -57506,39 +57539,58 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "伶",
+      "character": "咄",
       "level": "N1",
-      "strokes": 7,
-      "grade": 9,
+      "strokes": 8,
+      "grade": null,
       "freq": null,
       "onyomi": [
-        "レイ",
-        "リョウ"
+        "トツ"
       ],
       "kunyomi": [
-        "わざおぎ"
+        "はなし",
+        "しか.る"
       ],
       "meanings": [
-        "Actor"
-      ]
+        "Exclamation Of Surprise",
+        "Cry Out (in Anger)",
+        "Scold",
+        "Talk",
+        "Chat"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 134,
+        "qIndex": 9,
+        "word": "咄",
+        "reading": "とっさ"
+      }
     },
     {
-      "character": "沃",
+      "character": "軋",
       "level": "N1",
-      "strokes": 7,
-      "grade": 8,
+      "strokes": 8,
+      "grade": null,
       "freq": null,
       "onyomi": [
-        "ヨウ",
-        "ヨク",
-        "オク"
+        "アツ"
       ],
       "kunyomi": [
-        "そそ.ぐ"
+        "きし.る",
+        "きし.む"
       ],
       "meanings": [
-        "Fertility"
-      ]
+        "Squeak",
+        "Creak",
+        "Grate"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 61,
+        "qIndex": 9,
+        "word": "軋",
+        "reading": "きしむ"
+      }
     },
     {
       "character": "迚",
@@ -57562,85 +57614,6 @@ window.JLPT_KANJI_DATA = {
         "word": "迚",
         "reading": "とても"
       }
-    },
-    {
-      "character": "茉",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "マツ",
-        "バツ",
-        "マ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Jasmine"
-      ]
-    },
-    {
-      "character": "拗",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "オウ",
-        "ヨウ",
-        "イク",
-        "ユウ"
-      ],
-      "kunyomi": [
-        "ねじ.れる",
-        "こじ.れる",
-        "す.ねる",
-        "ねじ.ける"
-      ],
-      "meanings": [
-        "Crooked",
-        "Twisted",
-        "Distorted",
-        "Perverted",
-        "Cross"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 86,
-        "qIndex": 5,
-        "word": "拗",
-        "reading": "こじれる"
-      }
-    },
-    {
-      "character": "茄",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "カ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Eggplant"
-      ]
-    },
-    {
-      "character": "刹",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "セチ",
-        "セツ",
-        "サツ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Temple"
-      ]
     },
     {
       "character": "些",
@@ -57670,248 +57643,33 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "拉",
+      "character": "刹",
       "level": "N1",
       "strokes": 8,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "ラツ",
-        "ラ",
-        "ロウ"
+        "セチ",
+        "セツ",
+        "サツ"
       ],
-      "kunyomi": [
-        "らっ.する",
-        "ひし.ぐ",
-        "くだ.く"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Latin",
-        "Kidnap",
-        "Crush"
+        "Temple"
       ]
     },
     {
-      "character": "妬",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ト",
-        "ツ"
-      ],
-      "kunyomi": [
-        "ねた.む",
-        "そね.む",
-        "つも.る",
-        "ふさ.ぐ"
-      ],
-      "meanings": [
-        "Jealous",
-        "Envy"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 99,
-        "qIndex": 2,
-        "word": "嫉妬",
-        "reading": "しっと"
-      }
-    },
-    {
-      "character": "采",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "サイ"
-      ],
-      "kunyomi": [
-        "と.る",
-        "いろどり"
-      ],
-      "meanings": [
-        "Dice",
-        "Form",
-        "Appearance",
-        "Take",
-        "Gather",
-        "Coloring"
-      ]
-    },
-    {
-      "character": "軋",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "アツ"
-      ],
-      "kunyomi": [
-        "きし.る",
-        "きし.む"
-      ],
-      "meanings": [
-        "Squeak",
-        "Creak",
-        "Grate"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 61,
-        "qIndex": 9,
-        "word": "軋",
-        "reading": "きしむ"
-      }
-    },
-    {
-      "character": "咎",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "キュウ",
-        "コウ"
-      ],
-      "kunyomi": [
-        "とが.める",
-        "とが"
-      ],
-      "meanings": [
-        "Blame",
-        "Censure",
-        "Reprimand"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 134,
-        "qIndex": 1,
-        "word": "咎める",
-        "reading": "とがめる"
-      }
-    },
-    {
-      "character": "呟",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ゲン"
-      ],
-      "kunyomi": [
-        "つぶや.く"
-      ],
-      "meanings": [
-        "Mutter",
-        "Grumble",
-        "Murmur"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 130,
-        "qIndex": 3,
-        "word": "呟く",
-        "reading": "つぶやく"
-      }
-    },
-    {
-      "character": "凭",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヒョウ",
-        "ヘイ"
-      ],
-      "kunyomi": [
-        "もた.れる",
-        "よ.る"
-      ],
-      "meanings": [
-        "Lean On",
-        "Recline On",
-        "Lie Heavy"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 159,
-        "qIndex": 3,
-        "word": "凭",
-        "reading": "もたれる"
-      }
-    },
-    {
-      "character": "迪",
+      "character": "茄",
       "level": "N1",
       "strokes": 8,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "テキ"
+        "カ"
       ],
-      "kunyomi": [
-        "みち",
-        "みちび.く",
-        "すす.む",
-        "いた.る"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Edify",
-        "Way",
-        "Path"
-      ]
-    },
-    {
-      "character": "咄",
-      "level": "N1",
-      "strokes": 8,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "トツ"
-      ],
-      "kunyomi": [
-        "はなし",
-        "しか.る"
-      ],
-      "meanings": [
-        "Exclamation Of Surprise",
-        "Cry Out (in Anger)",
-        "Scold",
-        "Talk",
-        "Chat"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 134,
-        "qIndex": 9,
-        "word": "咄",
-        "reading": "とっさ"
-      }
-    },
-    {
-      "character": "侃",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "カン"
-      ],
-      "kunyomi": [
-        "つよ.い"
-      ],
-      "meanings": [
-        "Strong",
-        "Just",
-        "Righteous",
-        "Peace-loving"
+        "Eggplant"
       ]
     },
     {
@@ -57944,31 +57702,22 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "炙",
+      "character": "侑",
       "level": "N1",
       "strokes": 8,
-      "grade": null,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "シャ",
-        "セキ"
+        "ユウ",
+        "ウ"
       ],
       "kunyomi": [
-        "あぶ.る"
+        "すす.める",
+        "たす.ける"
       ],
       "meanings": [
-        "Roast",
-        "Broil",
-        "Toast",
-        "Cauterize"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 32,
-        "qIndex": 8,
-        "word": "炙",
-        "reading": "あぶる"
-      }
+        "Urge To Eat"
+      ]
     },
     {
       "character": "怯",
@@ -58001,124 +57750,6 @@ window.JLPT_KANJI_DATA = {
         "word": "怯える",
         "reading": "おびえる"
       }
-    },
-    {
-      "character": "忽",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "コツ"
-      ],
-      "kunyomi": [
-        "たちま.ち",
-        "ゆるが.せ"
-      ],
-      "meanings": [
-        "In A Moment",
-        "Instantly",
-        "All Of A Sudden",
-        "Neglect",
-        "Disregard"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 121,
-        "qIndex": 2,
-        "word": "忽",
-        "reading": "たちまち"
-      }
-    },
-    {
-      "character": "兎",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ト",
-        "ツ"
-      ],
-      "kunyomi": [
-        "うさぎ"
-      ],
-      "meanings": [
-        "Rabbit",
-        "Hare"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 134,
-        "qIndex": 0,
-        "word": "兎",
-        "reading": "うさぎ"
-      }
-    },
-    {
-      "character": "宛",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "エン"
-      ],
-      "kunyomi": [
-        "あ.てる",
-        "-あて",
-        "-づつ",
-        "あたか.も"
-      ],
-      "meanings": [
-        "Address",
-        "Just Like",
-        "Fortunately"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 5,
-        "qIndex": 0,
-        "word": "宛",
-        "reading": "あて"
-      }
-    },
-    {
-      "character": "侑",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ユウ",
-        "ウ"
-      ],
-      "kunyomi": [
-        "すす.める",
-        "たす.ける"
-      ],
-      "meanings": [
-        "Urge To Eat"
-      ]
-    },
-    {
-      "character": "昂",
-      "level": "N1",
-      "strokes": 8,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "コウ",
-        "ゴウ"
-      ],
-      "kunyomi": [
-        "あ.がる",
-        "たか.い",
-        "たか.ぶる"
-      ],
-      "meanings": [
-        "Rise"
-      ]
     },
     {
       "character": "庖",
@@ -58168,21 +57799,445 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "昴",
+      "character": "凭",
+      "level": "N1",
+      "strokes": 8,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヒョウ",
+        "ヘイ"
+      ],
+      "kunyomi": [
+        "もた.れる",
+        "よ.る"
+      ],
+      "meanings": [
+        "Lean On",
+        "Recline On",
+        "Lie Heavy"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 159,
+        "qIndex": 3,
+        "word": "凭",
+        "reading": "もたれる"
+      }
+    },
+    {
+      "character": "昂",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "あ.がる",
+        "たか.い",
+        "たか.ぶる"
+      ],
+      "meanings": [
+        "Rise"
+      ]
+    },
+    {
+      "character": "迪",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "テキ"
+      ],
+      "kunyomi": [
+        "みち",
+        "みちび.く",
+        "すす.む",
+        "いた.る"
+      ],
+      "meanings": [
+        "Edify",
+        "Way",
+        "Path"
+      ]
+    },
+    {
+      "character": "呟",
+      "level": "N1",
+      "strokes": 8,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "つぶや.く"
+      ],
+      "meanings": [
+        "Mutter",
+        "Grumble",
+        "Murmur"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 130,
+        "qIndex": 3,
+        "word": "呟く",
+        "reading": "つぶやく"
+      }
+    },
+    {
+      "character": "宛",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "あ.てる",
+        "-あて",
+        "-づつ",
+        "あたか.も"
+      ],
+      "meanings": [
+        "Address",
+        "Just Like",
+        "Fortunately"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 5,
+        "qIndex": 0,
+        "word": "宛",
+        "reading": "あて"
+      }
+    },
+    {
+      "character": "采",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "と.る",
+        "いろどり"
+      ],
+      "meanings": [
+        "Dice",
+        "Form",
+        "Appearance",
+        "Take",
+        "Gather",
+        "Coloring"
+      ]
+    },
+    {
+      "character": "侃",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "つよ.い"
+      ],
+      "meanings": [
+        "Strong",
+        "Just",
+        "Righteous",
+        "Peace-loving"
+      ]
+    },
+    {
+      "character": "炙",
+      "level": "N1",
+      "strokes": 8,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シャ",
+        "セキ"
+      ],
+      "kunyomi": [
+        "あぶ.る"
+      ],
+      "meanings": [
+        "Roast",
+        "Broil",
+        "Toast",
+        "Cauterize"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 32,
+        "qIndex": 8,
+        "word": "炙",
+        "reading": "あぶる"
+      }
+    },
+    {
+      "character": "忽",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コツ"
+      ],
+      "kunyomi": [
+        "たちま.ち",
+        "ゆるが.せ"
+      ],
+      "meanings": [
+        "In A Moment",
+        "Instantly",
+        "All Of A Sudden",
+        "Neglect",
+        "Disregard"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 121,
+        "qIndex": 2,
+        "word": "忽",
+        "reading": "たちまち"
+      }
+    },
+    {
+      "character": "妬",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ト",
+        "ツ"
+      ],
+      "kunyomi": [
+        "ねた.む",
+        "そね.む",
+        "つも.る",
+        "ふさ.ぐ"
+      ],
+      "meanings": [
+        "Jealous",
+        "Envy"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 99,
+        "qIndex": 2,
+        "word": "嫉妬",
+        "reading": "しっと"
+      }
+    },
+    {
+      "character": "兎",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ト",
+        "ツ"
+      ],
+      "kunyomi": [
+        "うさぎ"
+      ],
+      "meanings": [
+        "Rabbit",
+        "Hare"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 134,
+        "qIndex": 0,
+        "word": "兎",
+        "reading": "うさぎ"
+      }
+    },
+    {
+      "character": "拗",
+      "level": "N1",
+      "strokes": 8,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "オウ",
+        "ヨウ",
+        "イク",
+        "ユウ"
+      ],
+      "kunyomi": [
+        "ねじ.れる",
+        "こじ.れる",
+        "す.ねる",
+        "ねじ.ける"
+      ],
+      "meanings": [
+        "Crooked",
+        "Twisted",
+        "Distorted",
+        "Perverted",
+        "Cross"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 86,
+        "qIndex": 5,
+        "word": "拗",
+        "reading": "こじれる"
+      }
+    },
+    {
+      "character": "拉",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ラツ",
+        "ラ",
+        "ロウ"
+      ],
+      "kunyomi": [
+        "らっ.する",
+        "ひし.ぐ",
+        "くだ.く"
+      ],
+      "meanings": [
+        "Latin",
+        "Kidnap",
+        "Crush"
+      ]
+    },
+    {
+      "character": "咎",
+      "level": "N1",
+      "strokes": 8,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "キュウ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "とが.める",
+        "とが"
+      ],
+      "meanings": [
+        "Blame",
+        "Censure",
+        "Reprimand"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 134,
+        "qIndex": 1,
+        "word": "咎める",
+        "reading": "とがめる"
+      }
+    },
+    {
+      "character": "茉",
+      "level": "N1",
+      "strokes": 8,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "マツ",
+        "バツ",
+        "マ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Jasmine"
+      ]
+    },
+    {
+      "character": "洵",
       "level": "N1",
       "strokes": 9,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "コウ",
-        "ボウ"
+        "ジュン",
+        "シュン"
       ],
       "kunyomi": [
-        "すばる"
+        "の.ぶ",
+        "まこと.に"
       ],
       "meanings": [
-        "The Pleiades"
+        "Alike",
+        "Truth"
       ]
+    },
+    {
+      "character": "臥",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ガ"
+      ],
+      "kunyomi": [
+        "ふせ.る",
+        "ふ.せる",
+        "ふ.す"
+      ],
+      "meanings": [
+        "Bend Down",
+        "Bow",
+        "Lie Prostrate"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 74,
+        "qIndex": 3,
+        "word": "臥",
+        "reading": "くたびれる"
+      }
+    },
+    {
+      "character": "殆",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "タイ",
+        "サイ"
+      ],
+      "kunyomi": [
+        "ほとほと",
+        "ほとん.ど",
+        "あやうい"
+      ],
+      "meanings": [
+        "Almost",
+        "Quite",
+        "Really"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 155,
+        "qIndex": 3,
+        "word": "殆ど",
+        "reading": "ほとんど"
+      }
     },
     {
       "character": "屎",
@@ -58210,63 +58265,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "柵",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "サク",
-        "サン"
-      ],
-      "kunyomi": [
-        "しがら.む",
-        "しがらみ",
-        "とりで",
-        "やらい"
-      ],
-      "meanings": [
-        "Stockade",
-        "Fence",
-        "Weir",
-        "Entwine Around"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 92,
-        "qIndex": 9,
-        "word": "柵",
-        "reading": "さく"
-      }
-    },
-    {
-      "character": "垢",
-      "level": "N1",
-      "strokes": 9,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "コウ",
-        "ク"
-      ],
-      "kunyomi": [
-        "あか",
-        "はじ"
-      ],
-      "meanings": [
-        "Dirt",
-        "Grime",
-        "Earwax"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 31,
-        "qIndex": 6,
-        "word": "垢",
-        "reading": "あか"
-      }
-    },
-    {
       "character": "柊",
       "level": "N1",
       "strokes": 9,
@@ -58281,22 +58279,6 @@ window.JLPT_KANJI_DATA = {
       ],
       "meanings": [
         "Holly"
-      ]
-    },
-    {
-      "character": "奎",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ケイ",
-        "キ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Star",
-        "God Of Literature"
       ]
     },
     {
@@ -58343,240 +58325,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "宥",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ユウ"
-      ],
-      "kunyomi": [
-        "なだ.める",
-        "ゆる.す"
-      ],
-      "meanings": [
-        "Soothe",
-        "Calm",
-        "Pacify"
-      ]
-    },
-    {
-      "character": "臥",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ガ"
-      ],
-      "kunyomi": [
-        "ふせ.る",
-        "ふ.せる",
-        "ふ.す"
-      ],
-      "meanings": [
-        "Bend Down",
-        "Bow",
-        "Lie Prostrate"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 74,
-        "qIndex": 3,
-        "word": "臥",
-        "reading": "くたびれる"
-      }
-    },
-    {
-      "character": "衿",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キン",
-        "コン"
-      ],
-      "kunyomi": [
-        "えり"
-      ],
-      "meanings": [
-        "Neck",
-        "Collar",
-        "Lapel"
-      ]
-    },
-    {
-      "character": "昧",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "マイ",
-        "バイ"
-      ],
-      "kunyomi": [
-        "くら.い",
-        "むさぼ.る"
-      ],
-      "meanings": [
-        "Dark",
-        "Foolish"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 1,
-        "qIndex": 4,
-        "word": "曖昧",
-        "reading": "あいまい"
-      }
-    },
-    {
-      "character": "洵",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ジュン",
-        "シュン"
-      ],
-      "kunyomi": [
-        "の.ぶ",
-        "まこと.に"
-      ],
-      "meanings": [
-        "Alike",
-        "Truth"
-      ]
-    },
-    {
-      "character": "姪",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "テツ",
-        "チツ",
-        "ジチ",
-        "イツ",
-        "イチ"
-      ],
-      "kunyomi": [
-        "めい",
-        "おい"
-      ],
-      "meanings": [
-        "Niece"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 97,
-        "qIndex": 2,
-        "word": "姪",
-        "reading": "めい"
-      }
-    },
-    {
-      "character": "拶",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "サツ"
-      ],
-      "kunyomi": [
-        "せま.る"
-      ],
-      "meanings": [
-        "Be Imminent",
-        "Draw Close"
-      ],
-      "dailyQuizRef": {
-        "level": "N3",
-        "day": 1,
-        "qIndex": 1,
-        "word": "挨拶",
-        "reading": "あいさつ"
-      }
-    },
-    {
-      "character": "勃",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ボツ",
-        "ホツ"
-      ],
-      "kunyomi": [
-        "おこ.る",
-        "にわかに"
-      ],
-      "meanings": [
-        "Suddenness",
-        "Rise"
-      ]
-    },
-    {
-      "character": "俄",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ガ"
-      ],
-      "kunyomi": [
-        "にわか"
-      ],
-      "meanings": [
-        "Sudden",
-        "Abrupt",
-        "Improvised"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 140,
-        "qIndex": 6,
-        "word": "俄",
-        "reading": "にわか"
-      }
-    },
-    {
-      "character": "哉",
-      "level": "N1",
-      "strokes": 9,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "サイ"
-      ],
-      "kunyomi": [
-        "かな",
-        "や"
-      ],
-      "meanings": [
-        "How",
-        "What",
-        "Alas",
-        "Question Mark",
-        "Exclamation Mark"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 159,
-        "qIndex": 9,
-        "word": "哉",
-        "reading": "や"
-      }
-    },
-    {
       "character": "恰",
       "level": "N1",
       "strokes": 9,
@@ -58605,29 +58353,52 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "茹",
+      "character": "俄",
       "level": "N1",
       "strokes": 9,
-      "grade": null,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "ジョ",
-        "ニョ"
+        "ガ"
       ],
       "kunyomi": [
-        "ゆ.でる",
-        "う.でる"
+        "にわか"
       ],
       "meanings": [
-        "Boil",
-        "Seethe"
+        "Sudden",
+        "Abrupt",
+        "Improvised"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 161,
-        "qIndex": 7,
-        "word": "茹でる",
-        "reading": "ゆでる"
+        "day": 140,
+        "qIndex": 6,
+        "word": "俄",
+        "reading": "にわか"
+      }
+    },
+    {
+      "character": "拶",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "サツ"
+      ],
+      "kunyomi": [
+        "せま.る"
+      ],
+      "meanings": [
+        "Be Imminent",
+        "Draw Close"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 1,
+        "qIndex": 1,
+        "word": "挨拶",
+        "reading": "あいさつ"
       }
     },
     {
@@ -58671,21 +58442,175 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "柾",
+      "character": "姪",
       "level": "N1",
       "strokes": 9,
       "grade": 9,
       "freq": null,
-      "onyomi": [],
+      "onyomi": [
+        "テツ",
+        "チツ",
+        "ジチ",
+        "イツ",
+        "イチ"
+      ],
       "kunyomi": [
-        "まさ",
-        "まさめ",
-        "まさき"
+        "めい",
+        "おい"
       ],
       "meanings": [
-        "Straight Grain",
-        "Spindle Tree",
-        "(kokuji)"
+        "Niece"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 97,
+        "qIndex": 2,
+        "word": "姪",
+        "reading": "めい"
+      }
+    },
+    {
+      "character": "茹",
+      "level": "N1",
+      "strokes": 9,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ジョ",
+        "ニョ"
+      ],
+      "kunyomi": [
+        "ゆ.でる",
+        "う.でる"
+      ],
+      "meanings": [
+        "Boil",
+        "Seethe"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 161,
+        "qIndex": 7,
+        "word": "茹でる",
+        "reading": "ゆでる"
+      }
+    },
+    {
+      "character": "耶",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ヤ",
+        "ジャ"
+      ],
+      "kunyomi": [
+        "か"
+      ],
+      "meanings": [
+        "Question Mark"
+      ]
+    },
+    {
+      "character": "垢",
+      "level": "N1",
+      "strokes": 9,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "コウ",
+        "ク"
+      ],
+      "kunyomi": [
+        "あか",
+        "はじ"
+      ],
+      "meanings": [
+        "Dirt",
+        "Grime",
+        "Earwax"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 31,
+        "qIndex": 6,
+        "word": "垢",
+        "reading": "あか"
+      }
+    },
+    {
+      "character": "哉",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "かな",
+        "や"
+      ],
+      "meanings": [
+        "How",
+        "What",
+        "Alas",
+        "Question Mark",
+        "Exclamation Mark"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 159,
+        "qIndex": 9,
+        "word": "哉",
+        "reading": "や"
+      }
+    },
+    {
+      "character": "柵",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "サク",
+        "サン"
+      ],
+      "kunyomi": [
+        "しがら.む",
+        "しがらみ",
+        "とりで",
+        "やらい"
+      ],
+      "meanings": [
+        "Stockade",
+        "Fence",
+        "Weir",
+        "Entwine Around"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 92,
+        "qIndex": 9,
+        "word": "柵",
+        "reading": "さく"
+      }
+    },
+    {
+      "character": "奎",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ケイ",
+        "キ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Star",
+        "God Of Literature"
       ]
     },
     {
@@ -58718,6 +58643,88 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "昧",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "マイ",
+        "バイ"
+      ],
+      "kunyomi": [
+        "くら.い",
+        "むさぼ.る"
+      ],
+      "meanings": [
+        "Dark",
+        "Foolish"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 4,
+        "word": "曖昧",
+        "reading": "あいまい"
+      }
+    },
+    {
+      "character": "柾",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [],
+      "kunyomi": [
+        "まさ",
+        "まさめ",
+        "まさき"
+      ],
+      "meanings": [
+        "Straight Grain",
+        "Spindle Tree",
+        "(kokuji)"
+      ]
+    },
+    {
+      "character": "宥",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "なだ.める",
+        "ゆる.す"
+      ],
+      "meanings": [
+        "Soothe",
+        "Calm",
+        "Pacify"
+      ]
+    },
+    {
+      "character": "衿",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "キン",
+        "コン"
+      ],
+      "kunyomi": [
+        "えり"
+      ],
+      "meanings": [
+        "Neck",
+        "Collar",
+        "Lapel"
+      ]
+    },
+    {
       "character": "侶",
       "level": "N1",
       "strokes": 9,
@@ -58736,48 +58743,96 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "殆",
+      "character": "昴",
       "level": "N1",
       "strokes": 9,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "タイ",
-        "サイ"
+        "コウ",
+        "ボウ"
       ],
       "kunyomi": [
-        "ほとほと",
-        "ほとん.ど",
-        "あやうい"
+        "すばる"
       ],
       "meanings": [
-        "Almost",
-        "Quite",
-        "Really"
+        "The Pleiades"
+      ]
+    },
+    {
+      "character": "勃",
+      "level": "N1",
+      "strokes": 9,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ボツ",
+        "ホツ"
+      ],
+      "kunyomi": [
+        "おこ.る",
+        "にわかに"
+      ],
+      "meanings": [
+        "Suddenness",
+        "Rise"
+      ]
+    },
+    {
+      "character": "皰",
+      "level": "N1",
+      "strokes": 10,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ホウ",
+        "ビョウ"
+      ],
+      "kunyomi": [
+        "にきび"
+      ],
+      "meanings": [
+        "Pimple"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 155,
-        "qIndex": 3,
-        "word": "殆ど",
-        "reading": "ほとんど"
+        "day": 139,
+        "qIndex": 8,
+        "word": "皰",
+        "reading": "にきび"
       }
     },
     {
-      "character": "耶",
+      "character": "晟",
       "level": "N1",
-      "strokes": 9,
+      "strokes": 10,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "ヤ",
-        "ジャ"
+        "セイ",
+        "ジョウ"
       ],
       "kunyomi": [
-        "か"
+        "あきらか"
       ],
       "meanings": [
-        "Question Mark"
+        "Clear"
+      ]
+    },
+    {
+      "character": "莉",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "リ",
+        "ライ",
+        "レイ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Jasmine"
       ]
     },
     {
@@ -58809,57 +58864,25 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "捩",
+      "character": "耗",
       "level": "N1",
       "strokes": 10,
-      "grade": null,
+      "grade": 8,
       "freq": null,
       "onyomi": [
-        "レイ",
-        "レツ"
+        "モウ",
+        "コウ"
       ],
-      "kunyomi": [
-        "よじ.る",
-        "ね.じる",
-        "ねじ.れる",
-        "もじ.る"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Screw",
-        "Twist",
-        "Wrench",
-        "Distort"
+        "Decrease"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 141,
+        "day": 104,
         "qIndex": 3,
-        "word": "捩",
-        "reading": "ねじれる"
-      }
-    },
-    {
-      "character": "皰",
-      "level": "N1",
-      "strokes": 10,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ホウ",
-        "ビョウ"
-      ],
-      "kunyomi": [
-        "にきび"
-      ],
-      "meanings": [
-        "Pimple"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 139,
-        "qIndex": 8,
-        "word": "皰",
-        "reading": "にきび"
+        "word": "消耗",
+        "reading": "しょうこう"
       }
     },
     {
@@ -58889,62 +58912,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "栞",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "カン"
-      ],
-      "kunyomi": [
-        "しおり"
-      ],
-      "meanings": [
-        "Bookmark",
-        "Guidebook"
-      ]
-    },
-    {
-      "character": "莞",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "カン"
-      ],
-      "kunyomi": [
-        "い"
-      ],
-      "meanings": [
-        "Smiling",
-        "Reed Used To Cover Tatami"
-      ]
-    },
-    {
-      "character": "耗",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "モウ",
-        "コウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Decrease"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 104,
-        "qIndex": 3,
-        "word": "消耗",
-        "reading": "しょうこう"
-      }
-    },
-    {
       "character": "晏",
       "level": "N1",
       "strokes": 10,
@@ -58963,20 +58930,45 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "莉",
+      "character": "酎",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "チュウ",
+        "チュ"
+      ],
+      "kunyomi": [
+        "かも.す"
+      ],
+      "meanings": [
+        "Sake"
+      ]
+    },
+    {
+      "character": "耽",
       "level": "N1",
       "strokes": 10,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "リ",
-        "ライ",
-        "レイ"
+        "タン"
       ],
-      "kunyomi": [],
+      "kunyomi": [
+        "ふけ.る"
+      ],
       "meanings": [
-        "Jasmine"
-      ]
+        "Addicted",
+        "Absorbed In"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 151,
+        "qIndex": 1,
+        "word": "耽",
+        "reading": "ふける"
+      }
     },
     {
       "character": "脆",
@@ -59009,21 +59001,39 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "倖",
+      "character": "栞",
       "level": "N1",
       "strokes": 10,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "コウ"
+        "カン"
       ],
       "kunyomi": [
-        "しあわ.せ",
-        "さいわ.い"
+        "しおり"
       ],
       "meanings": [
-        "Happiness",
-        "Luck"
+        "Bookmark",
+        "Guidebook"
+      ]
+    },
+    {
+      "character": "恕",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ジョ",
+        "ショ"
+      ],
+      "kunyomi": [
+        "ゆる.す"
+      ],
+      "meanings": [
+        "Excuse",
+        "Tolerate",
+        "Forgive"
       ]
     },
     {
@@ -59042,67 +59052,6 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "Gauze",
         "Gossamer"
-      ]
-    },
-    {
-      "character": "秤",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "ヒン",
-        "ビン"
-      ],
-      "kunyomi": [
-        "はかり"
-      ],
-      "meanings": [
-        "Balances",
-        "Scales",
-        "Steelyard"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 84,
-        "qIndex": 4,
-        "word": "秤",
-        "reading": "はかり"
-      }
-    },
-    {
-      "character": "酎",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "チュウ",
-        "チュ"
-      ],
-      "kunyomi": [
-        "かも.す"
-      ],
-      "meanings": [
-        "Sake"
-      ]
-    },
-    {
-      "character": "晟",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "セイ",
-        "ジョウ"
-      ],
-      "kunyomi": [
-        "あきらか"
-      ],
-      "meanings": [
-        "Clear"
       ]
     },
     {
@@ -59139,6 +59088,78 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "朕",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "チン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Majestic Plural",
+        "Imperial We"
+      ]
+    },
+    {
+      "character": "秤",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ショウ",
+        "ヒン",
+        "ビン"
+      ],
+      "kunyomi": [
+        "はかり"
+      ],
+      "meanings": [
+        "Balances",
+        "Scales",
+        "Steelyard"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 84,
+        "qIndex": 4,
+        "word": "秤",
+        "reading": "はかり"
+      }
+    },
+    {
+      "character": "捩",
+      "level": "N1",
+      "strokes": 10,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "レイ",
+        "レツ"
+      ],
+      "kunyomi": [
+        "よじ.る",
+        "ね.じる",
+        "ねじ.れる",
+        "もじ.る"
+      ],
+      "meanings": [
+        "Screw",
+        "Twist",
+        "Wrench",
+        "Distort"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 141,
+        "qIndex": 3,
+        "word": "捩",
+        "reading": "ねじれる"
+      }
+    },
+    {
       "character": "這",
       "level": "N1",
       "strokes": 10,
@@ -59169,62 +59190,22 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "恕",
+      "character": "倖",
       "level": "N1",
       "strokes": 10,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "ジョ",
-        "ショ"
+        "コウ"
       ],
       "kunyomi": [
-        "ゆる.す"
+        "しあわ.せ",
+        "さいわ.い"
       ],
       "meanings": [
-        "Excuse",
-        "Tolerate",
-        "Forgive"
+        "Happiness",
+        "Luck"
       ]
-    },
-    {
-      "character": "朕",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "チン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Majestic Plural",
-        "Imperial We"
-      ]
-    },
-    {
-      "character": "耽",
-      "level": "N1",
-      "strokes": 10,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "タン"
-      ],
-      "kunyomi": [
-        "ふけ.る"
-      ],
-      "meanings": [
-        "Addicted",
-        "Absorbed In"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 151,
-        "qIndex": 1,
-        "word": "耽",
-        "reading": "ふける"
-      }
     },
     {
       "character": "捗",
@@ -59249,6 +59230,86 @@ window.JLPT_KANJI_DATA = {
         "word": "捗",
         "reading": "はかどる"
       }
+    },
+    {
+      "character": "莞",
+      "level": "N1",
+      "strokes": 10,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "い"
+      ],
+      "meanings": [
+        "Smiling",
+        "Reed Used To Cover Tatami"
+      ]
+    },
+    {
+      "character": "捷",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "はや.い"
+      ],
+      "meanings": [
+        "Victory",
+        "Fast"
+      ]
+    },
+    {
+      "character": "梢",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "こずえ",
+        "くすのき"
+      ],
+      "meanings": [
+        "Treetops",
+        "Twig"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 86,
+        "qIndex": 6,
+        "word": "梢",
+        "reading": "こずえ"
+      }
+    },
+    {
+      "character": "戚",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ソク",
+        "セキ"
+      ],
+      "kunyomi": [
+        "いた.む",
+        "うれ.える",
+        "みうち"
+      ],
+      "meanings": [
+        "Grieve",
+        "Relatives"
+      ]
     },
     {
       "character": "崖",
@@ -59277,730 +59338,6 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 4,
         "word": "崖",
         "reading": "がけ"
-      }
-    },
-    {
-      "character": "唸",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "テン"
-      ],
-      "kunyomi": [
-        "うな.る",
-        "うなり"
-      ],
-      "meanings": [
-        "Groan",
-        "Roar"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 38,
-        "qIndex": 1,
-        "word": "唸",
-        "reading": "うなる"
-      }
-    },
-    {
-      "character": "晨",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "シン"
-      ],
-      "kunyomi": [
-        "あした",
-        "とき",
-        "あさ"
-      ],
-      "meanings": [
-        "Morning",
-        "Early"
-      ]
-    },
-    {
-      "character": "戚",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ソク",
-        "セキ"
-      ],
-      "kunyomi": [
-        "いた.む",
-        "うれ.える",
-        "みうち"
-      ],
-      "meanings": [
-        "Grieve",
-        "Relatives"
-      ]
-    },
-    {
-      "character": "逞",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "テイ"
-      ],
-      "kunyomi": [
-        "たくま.しい"
-      ],
-      "meanings": [
-        "Sturdy",
-        "Brawny",
-        "Bold"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 121,
-        "qIndex": 0,
-        "word": "逞しい",
-        "reading": "たくましい"
-      }
-    },
-    {
-      "character": "偖",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シャ"
-      ],
-      "kunyomi": [
-        "さて"
-      ],
-      "meanings": [
-        "Well",
-        "Now"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 94,
-        "qIndex": 4,
-        "word": "偖",
-        "reading": "さて"
-      }
-    },
-    {
-      "character": "貪",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "タン",
-        "ドン",
-        "トン"
-      ],
-      "kunyomi": [
-        "むさぼ.る"
-      ],
-      "meanings": [
-        "Covet",
-        "Indulge In"
-      ]
-    },
-    {
-      "character": "菖",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Iris"
-      ]
-    },
-    {
-      "character": "淫",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "イン"
-      ],
-      "kunyomi": [
-        "ひた.す",
-        "ほしいまま",
-        "みだ.ら",
-        "みだ.れる",
-        "みだり"
-      ],
-      "meanings": [
-        "Lewdness",
-        "Licentiousness"
-      ]
-    },
-    {
-      "character": "捻",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ネン",
-        "ジョウ"
-      ],
-      "kunyomi": [
-        "ね.じる",
-        "ねじ.る",
-        "ひね.くる",
-        "ひね.る"
-      ],
-      "meanings": [
-        "Twirl",
-        "Twist",
-        "Play With"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 141,
-        "qIndex": 2,
-        "word": "捻る",
-        "reading": "ひねる"
-      }
-    },
-    {
-      "character": "笥",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ス",
-        "シ"
-      ],
-      "kunyomi": [
-        "け",
-        "はこ"
-      ],
-      "meanings": [
-        "Lunch Box",
-        "Clothes Chest"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 123,
-        "qIndex": 6,
-        "word": "箪笥",
-        "reading": "たんす"
-      }
-    },
-    {
-      "character": "梗",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "コウ",
-        "キョウ"
-      ],
-      "kunyomi": [
-        "ふさぐ",
-        "やまにれ",
-        "おおむね"
-      ],
-      "meanings": [
-        "For The Most Part",
-        "Close Up",
-        "Flower Stem"
-      ]
-    },
-    {
-      "character": "掻",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ソウ"
-      ],
-      "kunyomi": [
-        "か.く"
-      ],
-      "meanings": [
-        "Scratch",
-        "Rake",
-        "Comb",
-        "Paddle",
-        "Behead"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 43,
-        "qIndex": 0,
-        "word": "掻く",
-        "reading": "かく"
-      }
-    },
-    {
-      "character": "梧",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ゴ"
-      ],
-      "kunyomi": [
-        "あおぎり"
-      ],
-      "meanings": [
-        "Chinese Parasol Tree",
-        "Phoenix Tree"
-      ]
-    },
-    {
-      "character": "絃",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ゲン"
-      ],
-      "kunyomi": [
-        "いと"
-      ],
-      "meanings": [
-        "String",
-        "Cord",
-        "Samisen Music"
-      ]
-    },
-    {
-      "character": "舷",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ゲン"
-      ],
-      "kunyomi": [
-        "ふなばた",
-        "ふなべり"
-      ],
-      "meanings": [
-        "Gunwale"
-      ]
-    },
-    {
-      "character": "涸",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "コ",
-        "カク"
-      ],
-      "kunyomi": [
-        "か.れる",
-        "か.らす",
-        "こお.る"
-      ],
-      "meanings": [
-        "Dry Up",
-        "Mature"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 51,
-        "qIndex": 0,
-        "word": "涸",
-        "reading": "かれる"
-      }
-    },
-    {
-      "character": "梢",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ"
-      ],
-      "kunyomi": [
-        "こずえ",
-        "くすのき"
-      ],
-      "meanings": [
-        "Treetops",
-        "Twig"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 86,
-        "qIndex": 6,
-        "word": "梢",
-        "reading": "こずえ"
-      }
-    },
-    {
-      "character": "笙",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "ソウ"
-      ],
-      "kunyomi": [
-        "ふえ"
-      ],
-      "meanings": [
-        "A Reed Instrument"
-      ]
-    },
-    {
-      "character": "袈",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ケ",
-        "カ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "A Coarse Camlet"
-      ]
-    },
-    {
-      "character": "捷",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "ソウ"
-      ],
-      "kunyomi": [
-        "はや.い"
-      ],
-      "meanings": [
-        "Victory",
-        "Fast"
-      ]
-    },
-    {
-      "character": "萎",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "イ"
-      ],
-      "kunyomi": [
-        "な",
-        "しお.れる",
-        "しな.びる",
-        "しぼ.む",
-        "な.える"
-      ],
-      "meanings": [
-        "Wither",
-        "Droop",
-        "Lame"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 99,
-        "qIndex": 8,
-        "word": "萎",
-        "reading": "しなびる"
-      }
-    },
-    {
-      "character": "痒",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヨウ"
-      ],
-      "kunyomi": [
-        "かゆ.がる",
-        "かさ",
-        "かゆ.い"
-      ],
-      "meanings": [
-        "Itchy"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 50,
-        "qIndex": 2,
-        "word": "痒い",
-        "reading": "かゆい"
-      }
-    },
-    {
-      "character": "崚",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "リョウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Mountains Towering In A Row"
-      ]
-    },
-    {
-      "character": "唾",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ダ",
-        "タ"
-      ],
-      "kunyomi": [
-        "つば",
-        "つばき"
-      ],
-      "meanings": [
-        "Saliva",
-        "Sputum"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 130,
-        "qIndex": 2,
-        "word": "唾",
-        "reading": "つば"
-      }
-    },
-    {
-      "character": "悉",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "シツ",
-        "シチ"
-      ],
-      "kunyomi": [
-        "つ.きる",
-        "ことごと",
-        "ことごと.く",
-        "つ.くす",
-        "つぶさ.に"
-      ],
-      "meanings": [
-        "All",
-        "Entirely",
-        "Altogether",
-        "Completely",
-        "Use Up",
-        "Run Out Of",
-        "Exhaust",
-        "Befriend",
-        "Serve"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 87,
-        "qIndex": 6,
-        "word": "悉",
-        "reading": "ことごとく"
-      }
-    },
-    {
-      "character": "貶",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヘン"
-      ],
-      "kunyomi": [
-        "けな.す",
-        "おとし.める",
-        "おと.す"
-      ],
-      "meanings": [
-        "Degrade",
-        "Disparage",
-        "Belittle",
-        "Demote"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 79,
-        "qIndex": 3,
-        "word": "貶",
-        "reading": "けなす"
-      }
-    },
-    {
-      "character": "紬",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "チュウ"
-      ],
-      "kunyomi": [
-        "つむぎ",
-        "つむ.ぐ"
-      ],
-      "meanings": [
-        "Pongee (a Knotted Silk Cloth)"
-      ]
-    },
-    {
-      "character": "羞",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "シュウ"
-      ],
-      "kunyomi": [
-        "はじ.る",
-        "すすめ.る",
-        "は.ずかしい"
-      ],
-      "meanings": [
-        "Feel Ashamed"
-      ]
-    },
-    {
-      "character": "掏",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "トウ"
-      ],
-      "kunyomi": [
-        "す.る",
-        "えら.ぶ"
-      ],
-      "meanings": [
-        "Pickpocket"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 64,
-        "qIndex": 3,
-        "word": "掏",
-        "reading": "すり"
-      }
-    },
-    {
-      "character": "眸",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ボウ",
-        "ム"
-      ],
-      "kunyomi": [
-        "ひとみ"
-      ],
-      "meanings": [
-        "Pupil Of The Eye"
-      ]
-    },
-    {
-      "character": "菫",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キン"
-      ],
-      "kunyomi": [
-        "すみれ"
-      ],
-      "meanings": [
-        "The Violet"
-      ]
-    },
-    {
-      "character": "掬",
-      "level": "N1",
-      "strokes": 11,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キク",
-        "コク"
-      ],
-      "kunyomi": [
-        "きく.す",
-        "むす.ぶ",
-        "すく.う",
-        "たなごころ"
-      ],
-      "meanings": [
-        "Scoop Up Water With The Hand"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 112,
-        "qIndex": 8,
-        "word": "掬",
-        "reading": "すくう"
-      }
-    },
-    {
-      "character": "匙",
-      "level": "N1",
-      "strokes": 11,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シ"
-      ],
-      "kunyomi": [
-        "さじ"
-      ],
-      "meanings": [
-        "Spoon"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 47,
-        "qIndex": 9,
-        "word": "匙",
-        "reading": "さじ"
       }
     },
     {
@@ -60049,144 +59386,689 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "絨",
+      "character": "羞",
       "level": "N1",
-      "strokes": 12,
-      "grade": null,
+      "strokes": 11,
+      "grade": 8,
       "freq": null,
       "onyomi": [
-        "ジュウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Wool Cloth"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 109,
-        "qIndex": 3,
-        "word": "絨毯",
-        "reading": "じゅうたん"
-      }
-    },
-    {
-      "character": "揉",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ジュウ"
+        "シュウ"
       ],
       "kunyomi": [
-        "も.む",
-        "も.める"
+        "はじ.る",
+        "すすめ.る",
+        "は.ずかしい"
       ],
       "meanings": [
-        "Rub",
-        "Massage",
-        "Shampoo",
-        "Debate Vigorously",
-        "Train",
-        "Coach",
-        "Worry",
-        "Get In Trouble"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 159,
-        "qIndex": 5,
-        "word": "揉む",
-        "reading": "もむ"
-      }
+        "Feel Ashamed"
+      ]
     },
     {
-      "character": "甥",
+      "character": "梗",
       "level": "N1",
-      "strokes": 12,
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "コウ",
+        "キョウ"
+      ],
+      "kunyomi": [
+        "ふさぐ",
+        "やまにれ",
+        "おおむね"
+      ],
+      "meanings": [
+        "For The Most Part",
+        "Close Up",
+        "Flower Stem"
+      ]
+    },
+    {
+      "character": "菫",
+      "level": "N1",
+      "strokes": 11,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "セイ",
-        "ソウ",
+        "キン"
+      ],
+      "kunyomi": [
+        "すみれ"
+      ],
+      "meanings": [
+        "The Violet"
+      ]
+    },
+    {
+      "character": "逞",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "テイ"
+      ],
+      "kunyomi": [
+        "たくま.しい"
+      ],
+      "meanings": [
+        "Sturdy",
+        "Brawny",
+        "Bold"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 121,
+        "qIndex": 0,
+        "word": "逞しい",
+        "reading": "たくましい"
+      }
+    },
+    {
+      "character": "貶",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "けな.す",
+        "おとし.める",
+        "おと.す"
+      ],
+      "meanings": [
+        "Degrade",
+        "Disparage",
+        "Belittle",
+        "Demote"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 79,
+        "qIndex": 3,
+        "word": "貶",
+        "reading": "けなす"
+      }
+    },
+    {
+      "character": "悉",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "シツ",
+        "シチ"
+      ],
+      "kunyomi": [
+        "つ.きる",
+        "ことごと",
+        "ことごと.く",
+        "つ.くす",
+        "つぶさ.に"
+      ],
+      "meanings": [
+        "All",
+        "Entirely",
+        "Altogether",
+        "Completely",
+        "Use Up",
+        "Run Out Of",
+        "Exhaust",
+        "Befriend",
+        "Serve"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 87,
+        "qIndex": 6,
+        "word": "悉",
+        "reading": "ことごとく"
+      }
+    },
+    {
+      "character": "淫",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [
+        "ひた.す",
+        "ほしいまま",
+        "みだ.ら",
+        "みだ.れる",
+        "みだり"
+      ],
+      "meanings": [
+        "Lewdness",
+        "Licentiousness"
+      ]
+    },
+    {
+      "character": "舷",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "ふなばた",
+        "ふなべり"
+      ],
+      "meanings": [
+        "Gunwale"
+      ]
+    },
+    {
+      "character": "眸",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ボウ",
+        "ム"
+      ],
+      "kunyomi": [
+        "ひとみ"
+      ],
+      "meanings": [
+        "Pupil Of The Eye"
+      ]
+    },
+    {
+      "character": "偖",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "さて"
+      ],
+      "meanings": [
+        "Well",
+        "Now"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 94,
+        "qIndex": 4,
+        "word": "偖",
+        "reading": "さて"
+      }
+    },
+    {
+      "character": "匙",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "さじ"
+      ],
+      "meanings": [
+        "Spoon"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 47,
+        "qIndex": 9,
+        "word": "匙",
+        "reading": "さじ"
+      }
+    },
+    {
+      "character": "笥",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ス",
+        "シ"
+      ],
+      "kunyomi": [
+        "け",
+        "はこ"
+      ],
+      "meanings": [
+        "Lunch Box",
+        "Clothes Chest"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 123,
+        "qIndex": 6,
+        "word": "箪笥",
+        "reading": "たんす"
+      }
+    },
+    {
+      "character": "掏",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "す.る",
+        "えら.ぶ"
+      ],
+      "meanings": [
+        "Pickpocket"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 64,
+        "qIndex": 3,
+        "word": "掏",
+        "reading": "すり"
+      }
+    },
+    {
+      "character": "唸",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "うな.る",
+        "うなり"
+      ],
+      "meanings": [
+        "Groan",
+        "Roar"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 38,
+        "qIndex": 1,
+        "word": "唸",
+        "reading": "うなる"
+      }
+    },
+    {
+      "character": "涸",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "コ",
+        "カク"
+      ],
+      "kunyomi": [
+        "か.れる",
+        "か.らす",
+        "こお.る"
+      ],
+      "meanings": [
+        "Dry Up",
+        "Mature"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 51,
+        "qIndex": 0,
+        "word": "涸",
+        "reading": "かれる"
+      }
+    },
+    {
+      "character": "梧",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "あおぎり"
+      ],
+      "meanings": [
+        "Chinese Parasol Tree",
+        "Phoenix Tree"
+      ]
+    },
+    {
+      "character": "掬",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "キク",
+        "コク"
+      ],
+      "kunyomi": [
+        "きく.す",
+        "むす.ぶ",
+        "すく.う",
+        "たなごころ"
+      ],
+      "meanings": [
+        "Scoop Up Water With The Hand"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 112,
+        "qIndex": 8,
+        "word": "掬",
+        "reading": "すくう"
+      }
+    },
+    {
+      "character": "掻",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "か.く"
+      ],
+      "meanings": [
+        "Scratch",
+        "Rake",
+        "Comb",
+        "Paddle",
+        "Behead"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 43,
+        "qIndex": 0,
+        "word": "掻く",
+        "reading": "かく"
+      }
+    },
+    {
+      "character": "絃",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "いと"
+      ],
+      "meanings": [
+        "String",
+        "Cord",
+        "Samisen Music"
+      ]
+    },
+    {
+      "character": "袈",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ケ",
+        "カ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "A Coarse Camlet"
+      ]
+    },
+    {
+      "character": "晨",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あした",
+        "とき",
+        "あさ"
+      ],
+      "meanings": [
+        "Morning",
+        "Early"
+      ]
+    },
+    {
+      "character": "貪",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "タン",
+        "ドン",
+        "トン"
+      ],
+      "kunyomi": [
+        "むさぼ.る"
+      ],
+      "meanings": [
+        "Covet",
+        "Indulge In"
+      ]
+    },
+    {
+      "character": "菖",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
         "ショウ"
       ],
-      "kunyomi": [
-        "おい",
-        "むこ"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Nephew"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 19,
-        "qIndex": 7,
-        "word": "甥",
-        "reading": "おい"
-      }
+        "Iris"
+      ]
     },
     {
-      "character": "椀",
+      "character": "笙",
       "level": "N1",
-      "strokes": 12,
+      "strokes": 11,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "ワン"
+        "ショウ",
+        "ソウ"
       ],
       "kunyomi": [
-        "はち"
+        "ふえ"
       ],
       "meanings": [
-        "Wooden Or Lacquered Bowl"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 103,
-        "qIndex": 7,
-        "word": "椀",
-        "reading": "わん"
-      }
+        "A Reed Instrument"
+      ]
     },
     {
-      "character": "煉",
+      "character": "崚",
       "level": "N1",
-      "strokes": 12,
+      "strokes": 11,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "レン"
-      ],
-      "kunyomi": [
-        "ね.る"
-      ],
-      "meanings": [
-        "Refine Metals",
-        "Kneading Over Fire"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 102,
-        "qIndex": 8,
-        "word": "煉瓦",
-        "reading": "れんが"
-      }
-    },
-    {
-      "character": "琳",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "リン"
+        "リョウ"
       ],
       "kunyomi": [],
       "meanings": [
-        "Jewel",
-        "Tinkling Of Jewelry"
+        "Mountains Towering In A Row"
       ]
+    },
+    {
+      "character": "萎",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "な",
+        "しお.れる",
+        "しな.びる",
+        "しぼ.む",
+        "な.える"
+      ],
+      "meanings": [
+        "Wither",
+        "Droop",
+        "Lame"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 99,
+        "qIndex": 8,
+        "word": "萎",
+        "reading": "しなびる"
+      }
+    },
+    {
+      "character": "紬",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "つむぎ",
+        "つむ.ぐ"
+      ],
+      "meanings": [
+        "Pongee (a Knotted Silk Cloth)"
+      ]
+    },
+    {
+      "character": "痒",
+      "level": "N1",
+      "strokes": 11,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "かゆ.がる",
+        "かさ",
+        "かゆ.い"
+      ],
+      "meanings": [
+        "Itchy"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 50,
+        "qIndex": 2,
+        "word": "痒い",
+        "reading": "かゆい"
+      }
+    },
+    {
+      "character": "唾",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ダ",
+        "タ"
+      ],
+      "kunyomi": [
+        "つば",
+        "つばき"
+      ],
+      "meanings": [
+        "Saliva",
+        "Sputum"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 130,
+        "qIndex": 2,
+        "word": "唾",
+        "reading": "つば"
+      }
+    },
+    {
+      "character": "捻",
+      "level": "N1",
+      "strokes": 11,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ネン",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "ね.じる",
+        "ねじ.る",
+        "ひね.くる",
+        "ひね.る"
+      ],
+      "meanings": [
+        "Twirl",
+        "Twist",
+        "Play With"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 141,
+        "qIndex": 2,
+        "word": "捻る",
+        "reading": "ひねる"
+      }
+    },
+    {
+      "character": "屡",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ル"
+      ],
+      "kunyomi": [
+        "しばしば"
+      ],
+      "meanings": [
+        "Often",
+        "Frequently"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 100,
+        "qIndex": 5,
+        "word": "屡",
+        "reading": "しばしば"
+      }
     },
     {
       "character": "稍",
@@ -60211,337 +60093,6 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 7,
         "word": "稍",
         "reading": "やや"
-      }
-    },
-    {
-      "character": "筈",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "カツ"
-      ],
-      "kunyomi": [
-        "はず",
-        "やはず"
-      ],
-      "meanings": [
-        "Notch Of An Arrow",
-        "Ought",
-        "Must",
-        "Should Be",
-        "Expected"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 132,
-        "qIndex": 2,
-        "word": "筈",
-        "reading": "はず"
-      }
-    },
-    {
-      "character": "毯",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "タン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Wool Rug"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 109,
-        "qIndex": 4,
-        "word": "絨毯",
-        "reading": "じゅうたん"
-      }
-    },
-    {
-      "character": "覗",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シ"
-      ],
-      "kunyomi": [
-        "のぞ.く",
-        "うかが.う"
-      ],
-      "meanings": [
-        "Peep",
-        "Peek",
-        "Come In Sight"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 83,
-        "qIndex": 8,
-        "word": "覗く",
-        "reading": "のぞく"
-      }
-    },
-    {
-      "character": "揄",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヨウ",
-        "ユウ",
-        "ユ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Pull",
-        "Tease",
-        "Play With"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 50,
-        "qIndex": 4,
-        "word": "揄",
-        "reading": "からかう"
-      }
-    },
-    {
-      "character": "捲",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ケン"
-      ],
-      "kunyomi": [
-        "ま.く",
-        "ま.くる",
-        "まく.る",
-        "めく.る",
-        "まく.れる"
-      ],
-      "meanings": [
-        "Roll",
-        "Wind",
-        "Coil",
-        "Turn Pages",
-        "Roll Up Sleeves",
-        "Strip Off",
-        "Be Turned",
-        "Be Rolled Up"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 156,
-        "qIndex": 7,
-        "word": "捲",
-        "reading": "まくる"
-      }
-    },
-    {
-      "character": "痩",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ソウ",
-        "チュウ",
-        "シュウ",
-        "シュ"
-      ],
-      "kunyomi": [
-        "や.せる"
-      ],
-      "meanings": [
-        "Get Thin"
-      ]
-    },
-    {
-      "character": "痘",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "トウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Pox",
-        "Smallpox"
-      ]
-    },
-    {
-      "character": "喩",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ユ"
-      ],
-      "kunyomi": [
-        "たと.える",
-        "さと.す"
-      ],
-      "meanings": [
-        "Metaphor",
-        "Compare"
-      ]
-    },
-    {
-      "character": "揶",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヤ"
-      ],
-      "kunyomi": [
-        "からか.う"
-      ],
-      "meanings": [
-        "Tease",
-        "Play With"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 50,
-        "qIndex": 3,
-        "word": "揶",
-        "reading": "からかう"
-      }
-    },
-    {
-      "character": "僅",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "キン",
-        "ゴン"
-      ],
-      "kunyomi": [
-        "わず.か"
-      ],
-      "meanings": [
-        "A Wee Bit"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 70,
-        "qIndex": 3,
-        "word": "僅",
-        "reading": "きん"
-      }
-    },
-    {
-      "character": "董",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "トウ"
-      ],
-      "kunyomi": [
-        "ただ.す"
-      ],
-      "meanings": [
-        "Correct"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 87,
-        "qIndex": 5,
-        "word": "骨董品",
-        "reading": "こっとうひん"
-      }
-    },
-    {
-      "character": "奢",
-      "level": "N1",
-      "strokes": 12,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シャ"
-      ],
-      "kunyomi": [
-        "おご.る",
-        "おご.り"
-      ],
-      "meanings": [
-        "Extravagance",
-        "Luxury"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 45,
-        "qIndex": 1,
-        "word": "華奢",
-        "reading": "かしゃ"
-      }
-    },
-    {
-      "character": "竣",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ドウ",
-        "シュン"
-      ],
-      "kunyomi": [
-        "わらわ",
-        "わらべ",
-        "おわ.る"
-      ],
-      "meanings": [
-        "End",
-        "Finish"
-      ]
-    },
-    {
-      "character": "脹",
-      "level": "N1",
-      "strokes": 12,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "チョウ"
-      ],
-      "kunyomi": [
-        "は.れる",
-        "ふく.らむ",
-        "ふく.れる"
-      ],
-      "meanings": [
-        "Dilate",
-        "Distend",
-        "Bulge",
-        "Fill Out",
-        "Swell"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 155,
-        "qIndex": 8,
-        "word": "脹",
-        "reading": "ぼうちょう"
       }
     },
     {
@@ -60593,27 +60144,24 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "屡",
+      "character": "絨",
       "level": "N1",
       "strokes": 12,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "ル"
+        "ジュウ"
       ],
-      "kunyomi": [
-        "しばしば"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Often",
-        "Frequently"
+        "Wool Cloth"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 100,
-        "qIndex": 5,
-        "word": "屡",
-        "reading": "しばしば"
+        "day": 109,
+        "qIndex": 3,
+        "word": "絨毯",
+        "reading": "じゅうたん"
       }
     },
     {
@@ -60640,90 +60188,602 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "詢",
+      "character": "筈",
       "level": "N1",
-      "strokes": 13,
+      "strokes": 12,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "ジュン",
-        "シュン"
+        "カツ"
       ],
       "kunyomi": [
-        "はか.る",
-        "まこと"
+        "はず",
+        "やはず"
       ],
       "meanings": [
-        "Consult With"
-      ]
-    },
-    {
-      "character": "遡",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ソ",
-        "サク"
-      ],
-      "kunyomi": [
-        "さかのぼ.る"
-      ],
-      "meanings": [
-        "Go Upstream",
-        "Retrace The Past"
+        "Notch Of An Arrow",
+        "Ought",
+        "Must",
+        "Should Be",
+        "Expected"
       ],
       "dailyQuizRef": {
-        "level": "N2",
-        "day": 46,
-        "qIndex": 3,
-        "word": "遡る",
-        "reading": "さかのぼる"
+        "level": "N1",
+        "day": 132,
+        "qIndex": 2,
+        "word": "筈",
+        "reading": "はず"
       }
     },
     {
-      "character": "毀",
+      "character": "脹",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "は.れる",
+        "ふく.らむ",
+        "ふく.れる"
+      ],
+      "meanings": [
+        "Dilate",
+        "Distend",
+        "Bulge",
+        "Fill Out",
+        "Swell"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 155,
+        "qIndex": 8,
+        "word": "脹",
+        "reading": "ぼうちょう"
+      }
+    },
+    {
+      "character": "椀",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ワン"
+      ],
+      "kunyomi": [
+        "はち"
+      ],
+      "meanings": [
+        "Wooden Or Lacquered Bowl"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 103,
+        "qIndex": 7,
+        "word": "椀",
+        "reading": "わん"
+      }
+    },
+    {
+      "character": "奢",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "おご.る",
+        "おご.り"
+      ],
+      "meanings": [
+        "Extravagance",
+        "Luxury"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 45,
+        "qIndex": 1,
+        "word": "華奢",
+        "reading": "かしゃ"
+      }
+    },
+    {
+      "character": "覗",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "のぞ.く",
+        "うかが.う"
+      ],
+      "meanings": [
+        "Peep",
+        "Peek",
+        "Come In Sight"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 83,
+        "qIndex": 8,
+        "word": "覗く",
+        "reading": "のぞく"
+      }
+    },
+    {
+      "character": "喩",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ユ"
+      ],
+      "kunyomi": [
+        "たと.える",
+        "さと.す"
+      ],
+      "meanings": [
+        "Metaphor",
+        "Compare"
+      ]
+    },
+    {
+      "character": "揶",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "からか.う"
+      ],
+      "meanings": [
+        "Tease",
+        "Play With"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 50,
+        "qIndex": 3,
+        "word": "揶",
+        "reading": "からかう"
+      }
+    },
+    {
+      "character": "揉",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "も.む",
+        "も.める"
+      ],
+      "meanings": [
+        "Rub",
+        "Massage",
+        "Shampoo",
+        "Debate Vigorously",
+        "Train",
+        "Coach",
+        "Worry",
+        "Get In Trouble"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 159,
+        "qIndex": 5,
+        "word": "揉む",
+        "reading": "もむ"
+      }
+    },
+    {
+      "character": "煉",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "レン"
+      ],
+      "kunyomi": [
+        "ね.る"
+      ],
+      "meanings": [
+        "Refine Metals",
+        "Kneading Over Fire"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 102,
+        "qIndex": 8,
+        "word": "煉瓦",
+        "reading": "れんが"
+      }
+    },
+    {
+      "character": "痩",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ソウ",
+        "チュウ",
+        "シュウ",
+        "シュ"
+      ],
+      "kunyomi": [
+        "や.せる"
+      ],
+      "meanings": [
+        "Get Thin"
+      ]
+    },
+    {
+      "character": "毯",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Wool Rug"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 109,
+        "qIndex": 4,
+        "word": "絨毯",
+        "reading": "じゅうたん"
+      }
+    },
+    {
+      "character": "痘",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Pox",
+        "Smallpox"
+      ]
+    },
+    {
+      "character": "董",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "ただ.す"
+      ],
+      "meanings": [
+        "Correct"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 87,
+        "qIndex": 5,
+        "word": "骨董品",
+        "reading": "こっとうひん"
+      }
+    },
+    {
+      "character": "甥",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "セイ",
+        "ソウ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "おい",
+        "むこ"
+      ],
+      "meanings": [
+        "Nephew"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 19,
+        "qIndex": 7,
+        "word": "甥",
+        "reading": "おい"
+      }
+    },
+    {
+      "character": "琳",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "リン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Jewel",
+        "Tinkling Of Jewelry"
+      ]
+    },
+    {
+      "character": "揄",
+      "level": "N1",
+      "strokes": 12,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヨウ",
+        "ユウ",
+        "ユ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Pull",
+        "Tease",
+        "Play With"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 50,
+        "qIndex": 4,
+        "word": "揄",
+        "reading": "からかう"
+      }
+    },
+    {
+      "character": "僅",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "キン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "わず.か"
+      ],
+      "meanings": [
+        "A Wee Bit"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 70,
+        "qIndex": 3,
+        "word": "僅",
+        "reading": "きん"
+      }
+    },
+    {
+      "character": "捲",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "ま.く",
+        "ま.くる",
+        "まく.る",
+        "めく.る",
+        "まく.れる"
+      ],
+      "meanings": [
+        "Roll",
+        "Wind",
+        "Coil",
+        "Turn Pages",
+        "Roll Up Sleeves",
+        "Strip Off",
+        "Be Turned",
+        "Be Rolled Up"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 156,
+        "qIndex": 7,
+        "word": "捲",
+        "reading": "まくる"
+      }
+    },
+    {
+      "character": "竣",
+      "level": "N1",
+      "strokes": 12,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ドウ",
+        "シュン"
+      ],
+      "kunyomi": [
+        "わらわ",
+        "わらべ",
+        "おわ.る"
+      ],
+      "meanings": [
+        "End",
+        "Finish"
+      ]
+    },
+    {
+      "character": "鼠",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ソ",
+        "ショ"
+      ],
+      "kunyomi": [
+        "ねずみ",
+        "ねず"
+      ],
+      "meanings": [
+        "Rat",
+        "Mouse",
+        "Dark Gray"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 141,
+        "qIndex": 4,
+        "word": "鼠",
+        "reading": "ねず"
+      }
+    },
+    {
+      "character": "彙",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "キ"
+        "イ"
       ],
       "kunyomi": [
-        "こぼ.つ",
-        "こわ.す",
-        "こぼ.れる",
-        "こわ.れる",
-        "そし.る",
-        "やぶ.る"
+        "はりねずみ"
       ],
       "meanings": [
-        "Break",
-        "Destroy",
-        "Censure",
-        "Be Chipped",
-        "Be Scratched",
-        "Be Broken",
-        "Be Ruined"
+        "Same Kind",
+        "Collect",
+        "Classify",
+        "Category",
+        "Hedgehog"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 89,
+        "qIndex": 3,
+        "word": "語彙",
+        "reading": "ごい"
+      }
+    },
+    {
+      "character": "窟",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "クツ",
+        "コツ"
+      ],
+      "kunyomi": [
+        "いわや",
+        "いはや",
+        "あな"
+      ],
+      "meanings": [
+        "Cavern"
       ]
     },
     {
-      "character": "楓",
+      "character": "溺",
       "level": "N1",
       "strokes": 13,
-      "grade": 9,
+      "grade": 8,
       "freq": null,
       "onyomi": [
-        "フウ"
+        "デキ",
+        "ジョウ",
+        "ニョウ"
       ],
       "kunyomi": [
-        "かえで"
+        "いばり",
+        "おぼ.れる"
       ],
       "meanings": [
-        "Maple"
+        "Drown",
+        "Indulge"
+      ],
+      "dailyQuizRef": {
+        "level": "N3",
+        "day": 14,
+        "qIndex": 9,
+        "word": "溺れる",
+        "reading": "おぼれる"
+      }
+    },
+    {
+      "character": "塡",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "テン",
+        "チン"
+      ],
+      "kunyomi": [
+        "はま.る",
+        "うず.める",
+        "は.める",
+        "ふさ.ぐ"
+      ],
+      "meanings": [
+        "Fill In",
+        "Fill Up",
+        "Make Good"
       ]
+    },
+    {
+      "character": "嗇",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ショク"
+      ],
+      "kunyomi": [
+        "やぶさ.か",
+        "おし.む"
+      ],
+      "meanings": [
+        "Miserly",
+        "Stingy",
+        "Sparing"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 78,
+        "qIndex": 4,
+        "word": "嗇",
+        "reading": "けち"
+      }
     },
     {
       "character": "褄",
@@ -60748,130 +60808,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "椰",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ヤ"
-      ],
-      "kunyomi": [
-        "やし"
-      ],
-      "meanings": [
-        "Coconut Tree"
-      ]
-    },
-    {
-      "character": "塞",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ソク",
-        "サイ"
-      ],
-      "kunyomi": [
-        "ふさ.ぐ",
-        "とりで",
-        "み.ちる"
-      ],
-      "meanings": [
-        "Close",
-        "Shut",
-        "Cover",
-        "Block",
-        "Obstruct"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 90,
-        "qIndex": 6,
-        "word": "塞",
-        "reading": "ふさがる"
-      }
-    },
-    {
-      "character": "傲",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ゴウ"
-      ],
-      "kunyomi": [
-        "おご.る",
-        "あなど.る"
-      ],
-      "meanings": [
-        "Be Proud"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 40,
-        "qIndex": 5,
-        "word": "傲",
-        "reading": "おごる"
-      }
-    },
-    {
-      "character": "頓",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "トン",
-        "トツ"
-      ],
-      "kunyomi": [
-        "にわか.に",
-        "とん.と",
-        "つまず.く",
-        "とみ.に",
-        "ぬかずく"
-      ],
-      "meanings": [
-        "Suddenly",
-        "Immediately",
-        "In A Hurry",
-        "Arrange",
-        "Stay In Place",
-        "Bow",
-        "Kowtow"
-      ]
-    },
-    {
-      "character": "煌",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "コウ"
-      ],
-      "kunyomi": [
-        "きらめ.く",
-        "きら.めく",
-        "かがや.く"
-      ],
-      "meanings": [
-        "Glitter",
-        "Gleam",
-        "Twinkle"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 69,
-        "qIndex": 6,
-        "word": "煌々と",
-        "reading": "こうこうと"
-      }
-    },
-    {
       "character": "裟",
       "level": "N1",
       "strokes": 13,
@@ -60887,116 +60823,81 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "詮",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "セン"
-      ],
-      "kunyomi": [
-        "せん.ずる",
-        "かい",
-        "あき.らか"
-      ],
-      "meanings": [
-        "Discussion",
-        "Methods Called For",
-        "Selection",
-        "Result"
-      ]
-    },
-    {
-      "character": "瑚",
+      "character": "碗",
       "level": "N1",
       "strokes": 13,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "コ",
-        "ゴ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Ancestral Offering Receptacle",
-        "Coral"
-      ]
-    },
-    {
-      "character": "填",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "テン",
-        "チン"
+        "ワン"
       ],
       "kunyomi": [
-        "は.まる",
-        "は.める",
-        "うず.める",
-        "しず.める",
-        "ふさ.ぐ"
+        "こばち"
       ],
       "meanings": [
-        "Fill In"
+        "Porcelain Bowl",
+        "Tea Cup"
       ],
       "dailyQuizRef": {
-        "level": "N1",
-        "day": 145,
-        "qIndex": 7,
-        "word": "填",
-        "reading": "はまる"
-      }
-    },
-    {
-      "character": "痺",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヒ"
-      ],
-      "kunyomi": [
-        "しび.れる"
-      ],
-      "meanings": [
-        "Palsy",
-        "Become Numb",
-        "Paralysed"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 100,
-        "qIndex": 7,
-        "word": "麻痺",
-        "reading": "まひ"
-      }
-    },
-    {
-      "character": "碌",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ロク"
-      ],
-      "kunyomi": [
-        "ろく.な"
-      ],
-      "meanings": [
-        "Satisfactory"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 163,
+        "level": "N2",
+        "day": 73,
         "qIndex": 8,
-        "word": "碌",
-        "reading": "ろくな"
+        "word": "碗",
+        "reading": "わん"
+      }
+    },
+    {
+      "character": "腿",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "もも"
+      ],
+      "meanings": [
+        "Thigh",
+        "Femur"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 159,
+        "qIndex": 6,
+        "word": "腿",
+        "reading": "もも"
+      }
+    },
+    {
+      "character": "嫋",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ジョウ",
+        "ジャク",
+        "デキ"
+      ],
+      "kunyomi": [
+        "なよ.やかな",
+        "しなや.か",
+        "たお.やか"
+      ],
+      "meanings": [
+        "Supple",
+        "Pliant",
+        "Delicate",
+        "Slender"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 99,
+        "qIndex": 9,
+        "word": "嫋",
+        "reading": "しなやか"
       }
     },
     {
@@ -61027,135 +60928,6 @@ window.JLPT_KANJI_DATA = {
         "word": "嵩張る",
         "reading": "かさばる"
       }
-    },
-    {
-      "character": "跨",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "コ",
-        "カ"
-      ],
-      "kunyomi": [
-        "また.がる",
-        "またが.る",
-        "また.ぐ"
-      ],
-      "meanings": [
-        "Be",
-        "Sit Or Stand Astride",
-        "Extend Over",
-        "Straddle"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 157,
-        "qIndex": 0,
-        "word": "跨",
-        "reading": "またがる"
-      }
-    },
-    {
-      "character": "睨",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ゲイ"
-      ],
-      "kunyomi": [
-        "にら.む",
-        "にら.み"
-      ],
-      "meanings": [
-        "Glaring At",
-        "Authority",
-        "Power",
-        "Scowl At"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 82,
-        "qIndex": 7,
-        "word": "睨む",
-        "reading": "にらむ"
-      }
-    },
-    {
-      "character": "嗚",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ウ",
-        "オ"
-      ],
-      "kunyomi": [
-        "ああ"
-      ],
-      "meanings": [
-        "Weep",
-        "Ah",
-        "Alas"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 31,
-        "qIndex": 0,
-        "word": "嗚",
-        "reading": "ああ"
-      }
-    },
-    {
-      "character": "愈",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ユ"
-      ],
-      "kunyomi": [
-        "いよいよ",
-        "まさ.る"
-      ],
-      "meanings": [
-        "Be Superior",
-        "Heal",
-        "More And More",
-        "Increasingly",
-        "Finally",
-        "Beyond Doubt"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 36,
-        "qIndex": 3,
-        "word": "愈",
-        "reading": "いよいよ"
-      }
-    },
-    {
-      "character": "慄",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "リツ"
-      ],
-      "kunyomi": [
-        "ふる.える",
-        "おそ.れる",
-        "おのの.く"
-      ],
-      "meanings": [
-        "Fear"
-      ]
     },
     {
       "character": "隙",
@@ -61190,29 +60962,218 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "遜",
+      "character": "楷",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "ソン"
+        "カイ"
       ],
-      "kunyomi": [
-        "したが.う",
-        "へりくだ.る",
-        "ゆず.る"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Humble",
-        "Modest"
+        "Square Character Style",
+        "Correctness"
+      ]
+    },
+    {
+      "character": "摸",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "モ",
+        "モウ",
+        "バク",
+        "ボ",
+        "マク"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Search",
+        "Imitate",
+        "Copy"
       ],
       "dailyQuizRef": {
         "level": "N2",
-        "day": 27,
+        "day": 64,
+        "qIndex": 4,
+        "word": "摸",
+        "reading": "すり"
+      }
+    },
+    {
+      "character": "塞",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ソク",
+        "サイ"
+      ],
+      "kunyomi": [
+        "ふさ.ぐ",
+        "とりで",
+        "み.ちる"
+      ],
+      "meanings": [
+        "Close",
+        "Shut",
+        "Cover",
+        "Block",
+        "Obstruct"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 90,
         "qIndex": 6,
-        "word": "謙遜",
-        "reading": "けんそん"
+        "word": "塞",
+        "reading": "ふさがる"
+      }
+    },
+    {
+      "character": "嗚",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ウ",
+        "オ"
+      ],
+      "kunyomi": [
+        "ああ"
+      ],
+      "meanings": [
+        "Weep",
+        "Ah",
+        "Alas"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 31,
+        "qIndex": 0,
+        "word": "嗚",
+        "reading": "ああ"
+      }
+    },
+    {
+      "character": "飩",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ドン",
+        "トン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Japanese Noodles"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 38,
+        "qIndex": 0,
+        "word": "飩",
+        "reading": "うどん"
+      }
+    },
+    {
+      "character": "睨",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ゲイ"
+      ],
+      "kunyomi": [
+        "にら.む",
+        "にら.み"
+      ],
+      "meanings": [
+        "Glaring At",
+        "Authority",
+        "Power",
+        "Scowl At"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 82,
+        "qIndex": 7,
+        "word": "睨む",
+        "reading": "にらむ"
+      }
+    },
+    {
+      "character": "椰",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "やし"
+      ],
+      "meanings": [
+        "Coconut Tree"
+      ]
+    },
+    {
+      "character": "碌",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ロク"
+      ],
+      "kunyomi": [
+        "ろく.な"
+      ],
+      "meanings": [
+        "Satisfactory"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 163,
+        "qIndex": 8,
+        "word": "碌",
+        "reading": "ろくな"
+      }
+    },
+    {
+      "character": "馳",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "チ",
+        "ジ"
+      ],
+      "kunyomi": [
+        "は.せる"
+      ],
+      "meanings": [
+        "Run",
+        "Gallop",
+        "Sail",
+        "Drive (a Wagon)",
+        "Win (fame)",
+        "Despatch"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 89,
+        "qIndex": 7,
+        "word": "ご馳走",
+        "reading": "ごちそう"
       }
     },
     {
@@ -61246,6 +61207,24 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "詢",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ジュン",
+        "シュン"
+      ],
+      "kunyomi": [
+        "はか.る",
+        "まこと"
+      ],
+      "meanings": [
+        "Consult With"
+      ]
+    },
+    {
       "character": "瑶",
       "level": "N1",
       "strokes": 13,
@@ -61260,6 +61239,32 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "Beautiful As A Jewel"
       ]
+    },
+    {
+      "character": "遜",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "したが.う",
+        "へりくだ.る",
+        "ゆず.る"
+      ],
+      "meanings": [
+        "Humble",
+        "Modest"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 27,
+        "qIndex": 6,
+        "word": "謙遜",
+        "reading": "けんそん"
+      }
     },
     {
       "character": "頌",
@@ -61280,240 +61285,6 @@ window.JLPT_KANJI_DATA = {
       "meanings": [
         "Eulogy"
       ]
-    },
-    {
-      "character": "馳",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "チ",
-        "ジ"
-      ],
-      "kunyomi": [
-        "は.せる"
-      ],
-      "meanings": [
-        "Run",
-        "Gallop",
-        "Sail",
-        "Drive (a Wagon)",
-        "Win (fame)",
-        "Despatch"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 89,
-        "qIndex": 7,
-        "word": "ご馳走",
-        "reading": "ごちそう"
-      }
-    },
-    {
-      "character": "腺",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "セン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Gland"
-      ]
-    },
-    {
-      "character": "蓉",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ヨウ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Lotus"
-      ]
-    },
-    {
-      "character": "賂",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ロ"
-      ],
-      "kunyomi": [
-        "まいな.い",
-        "まいな.う"
-      ],
-      "meanings": [
-        "Bribe"
-      ]
-    },
-    {
-      "character": "虞",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "グ"
-      ],
-      "kunyomi": [
-        "おそれ",
-        "おもんぱか.る",
-        "はか.る",
-        "うれ.える",
-        "あざむ.く",
-        "あやま.る",
-        "のぞ.む",
-        "たの.しむ"
-      ],
-      "meanings": [
-        "Fear",
-        "Uneasiness",
-        "Anxiety",
-        "Concern",
-        "Expectation",
-        "Consideration"
-      ]
-    },
-    {
-      "character": "塑",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ソ"
-      ],
-      "kunyomi": [
-        "でく"
-      ],
-      "meanings": [
-        "Model",
-        "Molding"
-      ]
-    },
-    {
-      "character": "楷",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "カイ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Square Character Style",
-        "Correctness"
-      ]
-    },
-    {
-      "character": "鼠",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ソ",
-        "ショ"
-      ],
-      "kunyomi": [
-        "ねずみ",
-        "ねず"
-      ],
-      "meanings": [
-        "Rat",
-        "Mouse",
-        "Dark Gray"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 141,
-        "qIndex": 4,
-        "word": "鼠",
-        "reading": "ねず"
-      }
-    },
-    {
-      "character": "飩",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ドン",
-        "トン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Japanese Noodles"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 38,
-        "qIndex": 0,
-        "word": "飩",
-        "reading": "うどん"
-      }
-    },
-    {
-      "character": "誂",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "チョウ"
-      ],
-      "kunyomi": [
-        "あつら.える",
-        "いど.む"
-      ],
-      "meanings": [
-        "Order"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 32,
-        "qIndex": 6,
-        "word": "誂",
-        "reading": "あつらえる"
-      }
-    },
-    {
-      "character": "溺",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "デキ",
-        "ジョウ",
-        "ニョウ"
-      ],
-      "kunyomi": [
-        "いばり",
-        "おぼ.れる"
-      ],
-      "meanings": [
-        "Drown",
-        "Indulge"
-      ],
-      "dailyQuizRef": {
-        "level": "N3",
-        "day": 14,
-        "qIndex": 9,
-        "word": "溺れる",
-        "reading": "おぼれる"
-      }
     },
     {
       "character": "辟",
@@ -61545,71 +61316,179 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "滉",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "コウ"
-      ],
-      "kunyomi": [
-        "ひろ.い"
-      ],
-      "meanings": [
-        "Deep And Broad"
-      ]
-    },
-    {
-      "character": "彙",
+      "character": "遡",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "イ"
+        "ソ",
+        "サク"
       ],
       "kunyomi": [
-        "はりねずみ"
+        "さかのぼ.る"
       ],
       "meanings": [
-        "Same Kind",
-        "Collect",
-        "Classify",
-        "Category",
-        "Hedgehog"
+        "Go Upstream",
+        "Retrace The Past"
       ],
       "dailyQuizRef": {
-        "level": "N1",
-        "day": 89,
+        "level": "N2",
+        "day": 46,
         "qIndex": 3,
-        "word": "語彙",
-        "reading": "ごい"
+        "word": "遡る",
+        "reading": "さかのぼる"
       }
     },
     {
-      "character": "碗",
+      "character": "詣",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ケイ",
+        "ゲイ"
+      ],
+      "kunyomi": [
+        "けい.する",
+        "まい.る",
+        "いた.る",
+        "もう.でる"
+      ],
+      "meanings": [
+        "Visit A Temple",
+        "Arrive",
+        "Attain"
+      ]
+    },
+    {
+      "character": "詮",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "せん.ずる",
+        "かい",
+        "あき.らか"
+      ],
+      "meanings": [
+        "Discussion",
+        "Methods Called For",
+        "Selection",
+        "Result"
+      ]
+    },
+    {
+      "character": "蓉",
       "level": "N1",
       "strokes": 13,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "ワン"
+        "ヨウ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Lotus"
+      ]
+    },
+    {
+      "character": "羨",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "セン",
+        "エン"
       ],
       "kunyomi": [
-        "こばち"
+        "うらや.む",
+        "あまり"
       ],
       "meanings": [
-        "Porcelain Bowl",
-        "Tea Cup"
+        "Envious",
+        "Be Jealous",
+        "Covet"
       ],
       "dailyQuizRef": {
         "level": "N2",
-        "day": 73,
-        "qIndex": 8,
-        "word": "碗",
-        "reading": "わん"
+        "day": 7,
+        "qIndex": 0,
+        "word": "羨ましい",
+        "reading": "うらやましい"
       }
+    },
+    {
+      "character": "誂",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "あつら.える",
+        "いど.む"
+      ],
+      "meanings": [
+        "Order"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 32,
+        "qIndex": 6,
+        "word": "誂",
+        "reading": "あつらえる"
+      }
+    },
+    {
+      "character": "虞",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "グ"
+      ],
+      "kunyomi": [
+        "おそれ",
+        "おもんぱか.る",
+        "はか.る",
+        "うれ.える",
+        "あざむ.く",
+        "あやま.る",
+        "のぞ.む",
+        "たの.しむ"
+      ],
+      "meanings": [
+        "Fear",
+        "Uneasiness",
+        "Anxiety",
+        "Concern",
+        "Expectation",
+        "Consideration"
+      ]
+    },
+    {
+      "character": "腺",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Gland"
+      ]
     },
     {
       "character": "馴",
@@ -61641,439 +61520,319 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "羨",
+      "character": "毀",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "セン",
-        "エン"
+        "キ"
       ],
       "kunyomi": [
-        "うらや.む",
-        "あまり"
+        "こぼ.つ",
+        "こわ.す",
+        "こぼ.れる",
+        "こわ.れる",
+        "そし.る",
+        "やぶ.る"
       ],
       "meanings": [
-        "Envious",
-        "Be Jealous",
-        "Covet"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 7,
-        "qIndex": 0,
-        "word": "羨ましい",
-        "reading": "うらやましい"
-      }
-    },
-    {
-      "character": "嫋",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ジョウ",
-        "ジャク",
-        "デキ"
-      ],
-      "kunyomi": [
-        "なよ.やかな",
-        "しなや.か",
-        "たお.やか"
-      ],
-      "meanings": [
-        "Supple",
-        "Pliant",
-        "Delicate",
-        "Slender"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 99,
-        "qIndex": 9,
-        "word": "嫋",
-        "reading": "しなやか"
-      }
-    },
-    {
-      "character": "詣",
-      "level": "N1",
-      "strokes": 13,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ケイ",
-        "ゲイ"
-      ],
-      "kunyomi": [
-        "けい.する",
-        "まい.る",
-        "いた.る",
-        "もう.でる"
-      ],
-      "meanings": [
-        "Visit A Temple",
-        "Arrive",
-        "Attain"
+        "Break",
+        "Destroy",
+        "Censure",
+        "Be Chipped",
+        "Be Scratched",
+        "Be Broken",
+        "Be Ruined"
       ]
     },
     {
-      "character": "腿",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "タイ"
-      ],
-      "kunyomi": [
-        "もも"
-      ],
-      "meanings": [
-        "Thigh",
-        "Femur"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 159,
-        "qIndex": 6,
-        "word": "腿",
-        "reading": "もも"
-      }
-    },
-    {
-      "character": "嗇",
-      "level": "N1",
-      "strokes": 13,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ショク"
-      ],
-      "kunyomi": [
-        "やぶさ.か",
-        "おし.む"
-      ],
-      "meanings": [
-        "Miserly",
-        "Stingy",
-        "Sparing"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 78,
-        "qIndex": 4,
-        "word": "嗇",
-        "reading": "けち"
-      }
-    },
-    {
-      "character": "窟",
+      "character": "頓",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "クツ",
-        "コツ"
+        "トン",
+        "トツ"
       ],
       "kunyomi": [
-        "いわや",
-        "いはや",
-        "あな"
+        "にわか.に",
+        "とん.と",
+        "つまず.く",
+        "とみ.に",
+        "ぬかずく"
       ],
       "meanings": [
-        "Cavern"
+        "Suddenly",
+        "Immediately",
+        "In A Hurry",
+        "Arrange",
+        "Stay In Place",
+        "Bow",
+        "Kowtow"
       ]
     },
     {
-      "character": "摸",
+      "character": "楓",
       "level": "N1",
       "strokes": 13,
-      "grade": null,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "モ",
-        "モウ",
-        "バク",
-        "ボ",
-        "マク"
+        "フウ"
+      ],
+      "kunyomi": [
+        "かえで"
+      ],
+      "meanings": [
+        "Maple"
+      ]
+    },
+    {
+      "character": "塑",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ソ"
+      ],
+      "kunyomi": [
+        "でく"
+      ],
+      "meanings": [
+        "Model",
+        "Molding"
+      ]
+    },
+    {
+      "character": "傲",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "おご.る",
+        "あなど.る"
+      ],
+      "meanings": [
+        "Be Proud"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 40,
+        "qIndex": 5,
+        "word": "傲",
+        "reading": "おごる"
+      }
+    },
+    {
+      "character": "瑚",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コ",
+        "ゴ"
       ],
       "kunyomi": [],
       "meanings": [
-        "Search",
-        "Imitate",
-        "Copy"
+        "Ancestral Offering Receptacle",
+        "Coral"
+      ]
+    },
+    {
+      "character": "痺",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "しび.れる"
+      ],
+      "meanings": [
+        "Palsy",
+        "Become Numb",
+        "Paralysed"
       ],
       "dailyQuizRef": {
-        "level": "N2",
-        "day": 64,
-        "qIndex": 4,
-        "word": "摸",
-        "reading": "すり"
+        "level": "N1",
+        "day": 100,
+        "qIndex": 7,
+        "word": "麻痺",
+        "reading": "まひ"
       }
     },
     {
-      "character": "塡",
+      "character": "滉",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "ひろ.い"
+      ],
+      "meanings": [
+        "Deep And Broad"
+      ]
+    },
+    {
+      "character": "慄",
       "level": "N1",
       "strokes": 13,
       "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "リツ"
+      ],
+      "kunyomi": [
+        "ふる.える",
+        "おそ.れる",
+        "おのの.く"
+      ],
+      "meanings": [
+        "Fear"
+      ]
+    },
+    {
+      "character": "賂",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ロ"
+      ],
+      "kunyomi": [
+        "まいな.い",
+        "まいな.う"
+      ],
+      "meanings": [
+        "Bribe"
+      ]
+    },
+    {
+      "character": "煌",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "きらめ.く",
+        "きら.めく",
+        "かがや.く"
+      ],
+      "meanings": [
+        "Glitter",
+        "Gleam",
+        "Twinkle"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 69,
+        "qIndex": 6,
+        "word": "煌々と",
+        "reading": "こうこうと"
+      }
+    },
+    {
+      "character": "愈",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ユ"
+      ],
+      "kunyomi": [
+        "いよいよ",
+        "まさ.る"
+      ],
+      "meanings": [
+        "Be Superior",
+        "Heal",
+        "More And More",
+        "Increasingly",
+        "Finally",
+        "Beyond Doubt"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 36,
+        "qIndex": 3,
+        "word": "愈",
+        "reading": "いよいよ"
+      }
+    },
+    {
+      "character": "跨",
+      "level": "N1",
+      "strokes": 13,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コ",
+        "カ"
+      ],
+      "kunyomi": [
+        "また.がる",
+        "またが.る",
+        "また.ぐ"
+      ],
+      "meanings": [
+        "Be",
+        "Sit Or Stand Astride",
+        "Extend Over",
+        "Straddle"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 157,
+        "qIndex": 0,
+        "word": "跨",
+        "reading": "またがる"
+      }
+    },
+    {
+      "character": "填",
+      "level": "N1",
+      "strokes": 13,
+      "grade": null,
       "freq": null,
       "onyomi": [
         "テン",
         "チン"
       ],
       "kunyomi": [
-        "はま.る",
-        "うず.める",
+        "は.まる",
         "は.める",
+        "うず.める",
+        "しず.める",
         "ふさ.ぐ"
       ],
       "meanings": [
-        "Fill In",
-        "Fill Up",
-        "Make Good"
-      ]
-    },
-    {
-      "character": "蝋",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ロウ"
-      ],
-      "kunyomi": [
-        "みつろう",
-        "ろうそく"
-      ],
-      "meanings": [
-        "Wax"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 103,
-        "qIndex": 0,
-        "word": "蝋燭",
-        "reading": "ろうそく"
-      }
-    },
-    {
-      "character": "瑳",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "サ"
-      ],
-      "kunyomi": [
-        "みが.く"
-      ],
-      "meanings": [
-        "Polish",
-        "Brilliant White Luster Of A Gem",
-        "Artful Smile"
-      ]
-    },
-    {
-      "character": "賑",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "シン"
-      ],
-      "kunyomi": [
-        "にぎ.わい",
-        "にぎ.やか",
-        "にぎ.わす",
-        "にぎ.わう"
-      ],
-      "meanings": [
-        "Flourish",
-        "Be Bustling",
-        "Prosperity"
+        "Fill In"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 139,
-        "qIndex": 9,
-        "word": "賑やか",
-        "reading": "にぎやか"
-      }
-    },
-    {
-      "character": "夥",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "カ",
-        "ワ"
-      ],
-      "kunyomi": [
-        "おびただ.しい"
-      ],
-      "meanings": [
-        "Immense",
-        "Tremendous"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 41,
-        "qIndex": 2,
-        "word": "夥しい",
-        "reading": "おびただしい"
-      }
-    },
-    {
-      "character": "塵",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "チン",
-        "ジン"
-      ],
-      "kunyomi": [
-        "ちり",
-        "ごみ"
-      ],
-      "meanings": [
-        "Dust",
-        "Trash",
-        "Garbage"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 127,
-        "qIndex": 9,
-        "word": "塵",
-        "reading": "ごみ"
-      }
-    },
-    {
-      "character": "颯",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "サツ",
-        "ソウ"
-      ],
-      "kunyomi": [
-        "さっ.と"
-      ],
-      "meanings": [
-        "Sudden",
-        "Quick",
-        "Sound Of The Wind"
-      ]
-    },
-    {
-      "character": "厭",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "エン",
-        "オン",
-        "アン",
-        "オウ",
-        "ユウ",
-        "ヨウ"
-      ],
-      "kunyomi": [
-        "いや",
-        "あ.きる",
-        "いと.う",
-        "おさ.える"
-      ],
-      "meanings": [
-        "Get Tired Of",
-        "Satiate",
-        "Bore",
-        "Dislike",
-        "Disagreeable",
-        "Unwelcome"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 36,
-        "qIndex": 1,
-        "word": "厭",
-        "reading": "いやいや"
-      }
-    },
-    {
-      "character": "嘗",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "ジョウ"
-      ],
-      "kunyomi": [
-        "かつ.て",
-        "こころ.みる",
-        "な.める"
-      ],
-      "meanings": [
-        "Once",
-        "Before",
-        "Formerly",
-        "Ever",
-        "Never",
-        "Ex-",
-        "Lick",
-        "Lap Up",
-        "Burn Up",
-        "Taste",
-        "Undergo",
-        "Underrate",
-        "Despise"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 48,
-        "qIndex": 0,
-        "word": "嘗",
-        "reading": "かつて"
-      }
-    },
-    {
-      "character": "滲",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シン"
-      ],
-      "kunyomi": [
-        "し.みる",
-        "にじ.む"
-      ],
-      "meanings": [
-        "Imbued With"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 140,
-        "qIndex": 2,
-        "word": "滲",
-        "reading": "にじむ"
+        "day": 145,
+        "qIndex": 7,
+        "word": "填",
+        "reading": "はまる"
       }
     },
     {
@@ -62105,74 +61864,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "辣",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ラツ"
-      ],
-      "kunyomi": [
-        "から.い"
-      ],
-      "meanings": [
-        "Pungent",
-        "Spicy",
-        "Harsh",
-        "Cruel",
-        "Severe"
-      ]
-    },
-    {
-      "character": "碩",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "セキ"
-      ],
-      "kunyomi": [
-        "おお.きい"
-      ],
-      "meanings": [
-        "Large",
-        "Great",
-        "Eminent"
-      ]
-    },
-    {
-      "character": "嗽",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ソウ",
-        "シュウ",
-        "ソク"
-      ],
-      "kunyomi": [
-        "すす.ぐ",
-        "ゆす.ぐ",
-        "くちすす.ぐ",
-        "うがい"
-      ],
-      "meanings": [
-        "Rinse",
-        "Wash",
-        "Gargle"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 37,
-        "qIndex": 1,
-        "word": "嗽",
-        "reading": "うがい"
-      }
-    },
-    {
       "character": "貌",
       "level": "N1",
       "strokes": 14,
@@ -62193,6 +61884,155 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
+      "character": "颯",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "サツ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "さっ.と"
+      ],
+      "meanings": [
+        "Sudden",
+        "Quick",
+        "Sound Of The Wind"
+      ]
+    },
+    {
+      "character": "瘍",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "かさ"
+      ],
+      "meanings": [
+        "Swelling",
+        "Boil",
+        "Tumor"
+      ]
+    },
+    {
+      "character": "箇",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "カ",
+        "コ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Counter For Articles"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 45,
+        "qIndex": 2,
+        "word": "箇所",
+        "reading": "かしょ"
+      }
+    },
+    {
+      "character": "夥",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "カ",
+        "ワ"
+      ],
+      "kunyomi": [
+        "おびただ.しい"
+      ],
+      "meanings": [
+        "Immense",
+        "Tremendous"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 41,
+        "qIndex": 2,
+        "word": "夥しい",
+        "reading": "おびただしい"
+      }
+    },
+    {
+      "character": "銑",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Pig Iron"
+      ]
+    },
+    {
+      "character": "滲",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "し.みる",
+        "にじ.む"
+      ],
+      "meanings": [
+        "Imbued With"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 140,
+        "qIndex": 2,
+        "word": "滲",
+        "reading": "にじむ"
+      }
+    },
+    {
+      "character": "塵",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "チン",
+        "ジン"
+      ],
+      "kunyomi": [
+        "ちり",
+        "ごみ"
+      ],
+      "meanings": [
+        "Dust",
+        "Trash",
+        "Garbage"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 127,
+        "qIndex": 9,
+        "word": "塵",
+        "reading": "ごみ"
+      }
+    },
+    {
       "character": "綸",
       "level": "N1",
       "strokes": 14,
@@ -62209,30 +62049,6 @@ window.JLPT_KANJI_DATA = {
         "Thread",
         "Silk Cloth"
       ]
-    },
-    {
-      "character": "箒",
-      "level": "N1",
-      "strokes": 14,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ソウ",
-        "シュウ"
-      ],
-      "kunyomi": [
-        "ほうき"
-      ],
-      "meanings": [
-        "Broom"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 93,
-        "qIndex": 0,
-        "word": "箒",
-        "reading": "ほうき"
-      }
     },
     {
       "character": "爾",
@@ -62285,22 +62101,96 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "瘍",
+      "character": "煽",
       "level": "N1",
       "strokes": 14,
-      "grade": 8,
+      "grade": null,
       "freq": null,
       "onyomi": [
-        "ヨウ"
+        "セン"
       ],
       "kunyomi": [
-        "かさ"
+        "あお.る",
+        "おだ.てる",
+        "おこ.る"
       ],
       "meanings": [
-        "Swelling",
-        "Boil",
-        "Tumor"
-      ]
+        "Fan",
+        "Flap",
+        "Instigate",
+        "Agitate",
+        "Bolster Up",
+        "Gulp Down"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 40,
+        "qIndex": 9,
+        "word": "煽",
+        "reading": "おだてる"
+      }
+    },
+    {
+      "character": "箒",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ソウ",
+        "シュウ"
+      ],
+      "kunyomi": [
+        "ほうき"
+      ],
+      "meanings": [
+        "Broom"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 93,
+        "qIndex": 0,
+        "word": "箒",
+        "reading": "ほうき"
+      }
+    },
+    {
+      "character": "嘗",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ショウ",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "かつ.て",
+        "こころ.みる",
+        "な.める"
+      ],
+      "meanings": [
+        "Once",
+        "Before",
+        "Formerly",
+        "Ever",
+        "Never",
+        "Ex-",
+        "Lick",
+        "Lap Up",
+        "Burn Up",
+        "Taste",
+        "Undergo",
+        "Underrate",
+        "Despise"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 48,
+        "qIndex": 0,
+        "word": "嘗",
+        "reading": "かつて"
+      }
     },
     {
       "character": "歎",
@@ -62328,63 +62218,177 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "箇",
-      "level": "N1",
-      "strokes": 14,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "カ",
-        "コ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Counter For Articles"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 45,
-        "qIndex": 2,
-        "word": "箇所",
-        "reading": "かしょ"
-      }
-    },
-    {
-      "character": "銑",
+      "character": "賑",
       "level": "N1",
       "strokes": 14,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "セン"
+        "シン"
       ],
-      "kunyomi": [],
+      "kunyomi": [
+        "にぎ.わい",
+        "にぎ.やか",
+        "にぎ.わす",
+        "にぎ.わう"
+      ],
       "meanings": [
-        "Pig Iron"
+        "Flourish",
+        "Be Bustling",
+        "Prosperity"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 139,
+        "qIndex": 9,
+        "word": "賑やか",
+        "reading": "にぎやか"
+      }
+    },
+    {
+      "character": "辣",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ラツ"
+      ],
+      "kunyomi": [
+        "から.い"
+      ],
+      "meanings": [
+        "Pungent",
+        "Spicy",
+        "Harsh",
+        "Cruel",
+        "Severe"
       ]
     },
     {
-      "character": "褓",
+      "character": "蝋",
       "level": "N1",
       "strokes": 14,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "ホ",
-        "ホウ"
+        "ロウ"
       ],
       "kunyomi": [
-        "むつき"
+        "みつろう",
+        "ろうそく"
       ],
       "meanings": [
-        "Diaper"
+        "Wax"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 103,
+        "qIndex": 0,
+        "word": "蝋燭",
+        "reading": "ろうそく"
+      }
+    },
+    {
+      "character": "厭",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "エン",
+        "オン",
+        "アン",
+        "オウ",
+        "ユウ",
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "いや",
+        "あ.きる",
+        "いと.う",
+        "おさ.える"
+      ],
+      "meanings": [
+        "Get Tired Of",
+        "Satiate",
+        "Bore",
+        "Dislike",
+        "Disagreeable",
+        "Unwelcome"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 41,
-        "qIndex": 5,
-        "word": "褓",
-        "reading": "おむつ"
+        "day": 36,
+        "qIndex": 1,
+        "word": "厭",
+        "reading": "いやいや"
+      }
+    },
+    {
+      "character": "碩",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [
+        "おお.きい"
+      ],
+      "meanings": [
+        "Large",
+        "Great",
+        "Eminent"
+      ]
+    },
+    {
+      "character": "瑳",
+      "level": "N1",
+      "strokes": 14,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "サ"
+      ],
+      "kunyomi": [
+        "みが.く"
+      ],
+      "meanings": [
+        "Polish",
+        "Brilliant White Luster Of A Gem",
+        "Artful Smile"
+      ]
+    },
+    {
+      "character": "嗽",
+      "level": "N1",
+      "strokes": 14,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ソウ",
+        "シュウ",
+        "ソク"
+      ],
+      "kunyomi": [
+        "すす.ぐ",
+        "ゆす.ぐ",
+        "くちすす.ぐ",
+        "うがい"
+      ],
+      "meanings": [
+        "Rinse",
+        "Wash",
+        "Gargle"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 37,
+        "qIndex": 1,
+        "word": "嗽",
+        "reading": "うがい"
       }
     },
     {
@@ -62416,34 +62420,178 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "煽",
+      "character": "褓",
       "level": "N1",
       "strokes": 14,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "セン"
+        "ホ",
+        "ホウ"
       ],
       "kunyomi": [
-        "あお.る",
-        "おだ.てる",
-        "おこ.る"
+        "むつき"
       ],
       "meanings": [
-        "Fan",
-        "Flap",
-        "Instigate",
-        "Agitate",
-        "Bolster Up",
-        "Gulp Down"
+        "Diaper"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 40,
-        "qIndex": 9,
-        "word": "煽",
-        "reading": "おだてる"
+        "day": 41,
+        "qIndex": 5,
+        "word": "褓",
+        "reading": "おむつ"
       }
+    },
+    {
+      "character": "箪",
+      "level": "N1",
+      "strokes": 15,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "はこ"
+      ],
+      "meanings": [
+        "Bamboo Rice Basket"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 123,
+        "qIndex": 5,
+        "word": "箪笥",
+        "reading": "たんす"
+      }
+    },
+    {
+      "character": "潰",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "つぶ.す",
+        "つぶ.れる",
+        "つい.える"
+      ],
+      "meanings": [
+        "Crush",
+        "Smash",
+        "Break",
+        "Dissipate"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 75,
+        "qIndex": 8,
+        "word": "潰す",
+        "reading": "つぶす"
+      }
+    },
+    {
+      "character": "諄",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "シュン"
+      ],
+      "kunyomi": [
+        "ひちくど.い",
+        "くど.い",
+        "くどくど",
+        "ねんご.ろ"
+      ],
+      "meanings": [
+        "Tedious"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 74,
+        "qIndex": 8,
+        "word": "諄",
+        "reading": "くどい"
+      }
+    },
+    {
+      "character": "皺",
+      "level": "N1",
+      "strokes": 15,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シュウ",
+        "スウ"
+      ],
+      "kunyomi": [
+        "しわ",
+        "しぼ"
+      ],
+      "meanings": [
+        "Wrinkles",
+        "Creases",
+        "Folds"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 105,
+        "qIndex": 8,
+        "word": "皺",
+        "reading": "しわ"
+      }
+    },
+    {
+      "character": "糊",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "コ",
+        "ゴ",
+        "コツ"
+      ],
+      "kunyomi": [
+        "のり"
+      ],
+      "meanings": [
+        "Paste",
+        "Glue",
+        "Sizing"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 83,
+        "qIndex": 9,
+        "word": "糊",
+        "reading": "のり"
+      }
+    },
+    {
+      "character": "誼",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [
+        "よしみ",
+        "よい"
+      ],
+      "meanings": [
+        "Friendship",
+        "Intimacy"
+      ]
     },
     {
       "character": "蔽",
@@ -62494,140 +62642,89 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "熙",
-      "level": "N1",
-      "strokes": 15,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キ"
-      ],
-      "kunyomi": [
-        "たのし.む",
-        "ひか.る",
-        "ひろ.い",
-        "よろこ.ぶ",
-        "かわ.く",
-        "あきらか",
-        "ひろ.める",
-        "ひろ.まる"
-      ],
-      "meanings": [
-        "Bright",
-        "Sunny",
-        "Prosperous",
-        "Merry"
-      ]
-    },
-    {
-      "character": "醇",
-      "level": "N1",
-      "strokes": 15,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ジュン",
-        "シュン"
-      ],
-      "kunyomi": [
-        "もっぱら",
-        "こい",
-        "あつい"
-      ],
-      "meanings": [
-        "Pure Sake'",
-        "Purity",
-        "Affection"
-      ]
-    },
-    {
-      "character": "嘸",
+      "character": "蕩",
       "level": "N1",
       "strokes": 15,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "ブ",
-        "ム"
+        "トウ"
       ],
       "kunyomi": [
-        "さぞ",
-        "さぞや",
-        "さぞかし"
+        "とろ.かす",
+        "とろ.ける",
+        "うご.く"
       ],
       "meanings": [
-        "How",
-        "Indeed",
-        "I Dare Say"
+        "Melt",
+        "Be Charmed",
+        "Captivated"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 94,
-        "qIndex": 1,
-        "word": "嘸",
-        "reading": "さぞ"
+        "day": 136,
+        "qIndex": 7,
+        "word": "蕩",
+        "reading": "とろける"
       }
     },
     {
-      "character": "諄",
+      "character": "蕎",
       "level": "N1",
       "strokes": 15,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "シュン"
+        "キョウ"
       ],
       "kunyomi": [
-        "ひちくど.い",
-        "くど.い",
-        "くどくど",
-        "ねんご.ろ"
+        "そば"
       ],
       "meanings": [
-        "Tedious"
+        "Buckwheat"
       ],
       "dailyQuizRef": {
-        "level": "N1",
-        "day": 74,
-        "qIndex": 8,
-        "word": "諄",
-        "reading": "くどい"
+        "level": "N2",
+        "day": 69,
+        "qIndex": 4,
+        "word": "蕎麦",
+        "reading": "そば"
       }
     },
     {
-      "character": "誼",
+      "character": "踪",
       "level": "N1",
       "strokes": 15,
-      "grade": 9,
+      "grade": 8,
       "freq": null,
       "onyomi": [
-        "ギ"
+        "ソウ",
+        "ショウ"
       ],
       "kunyomi": [
-        "よしみ",
-        "よい"
+        "あと"
       ],
       "meanings": [
-        "Friendship",
-        "Intimacy"
+        "Remains",
+        "Clue",
+        "Footprint"
       ]
     },
     {
-      "character": "凜",
+      "character": "遵",
       "level": "N1",
       "strokes": 15,
-      "grade": 9,
+      "grade": 8,
       "freq": null,
       "onyomi": [
-        "リン"
+        "ジュン"
       ],
-      "kunyomi": [
-        "きびし.い"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Cold",
-        "Strict",
-        "Severe"
+        "Abide By",
+        "Follow",
+        "Obey",
+        "Learn"
       ]
     },
     {
@@ -62657,91 +62754,62 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "蕩",
-      "level": "N1",
-      "strokes": 15,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "トウ"
-      ],
-      "kunyomi": [
-        "とろ.かす",
-        "とろ.ける",
-        "うご.く"
-      ],
-      "meanings": [
-        "Melt",
-        "Be Charmed",
-        "Captivated"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 136,
-        "qIndex": 7,
-        "word": "蕩",
-        "reading": "とろける"
-      }
-    },
-    {
-      "character": "踪",
+      "character": "謁",
       "level": "N1",
       "strokes": 15,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "ソウ",
-        "ショウ"
+        "エツ"
       ],
-      "kunyomi": [
-        "あと"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Remains",
-        "Clue",
-        "Footprint"
+        "Audience",
+        "Audience (with King)"
       ]
     },
     {
-      "character": "糊",
+      "character": "熙",
       "level": "N1",
       "strokes": 15,
       "grade": 9,
       "freq": null,
       "onyomi": [
-        "コ",
-        "ゴ",
-        "コツ"
+        "キ"
       ],
       "kunyomi": [
-        "のり"
+        "たのし.む",
+        "ひか.る",
+        "ひろ.い",
+        "よろこ.ぶ",
+        "かわ.く",
+        "あきらか",
+        "ひろ.める",
+        "ひろ.まる"
       ],
       "meanings": [
-        "Paste",
-        "Glue",
-        "Sizing"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 83,
-        "qIndex": 9,
-        "word": "糊",
-        "reading": "のり"
-      }
+        "Bright",
+        "Sunny",
+        "Prosperous",
+        "Merry"
+      ]
     },
     {
-      "character": "璃",
+      "character": "憬",
       "level": "N1",
       "strokes": 15,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "リ"
+        "ケイ"
       ],
-      "kunyomi": [],
+      "kunyomi": [
+        "あこが.れる"
+      ],
       "meanings": [
-        "Glassy",
-        "Lapis Lazuli"
+        "Yearn For",
+        "Aspire To",
+        "Admire"
       ]
     },
     {
@@ -62772,6 +62840,58 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "蝿",
+      "level": "N1",
+      "strokes": 15,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "はえ",
+        "はい"
+      ],
+      "meanings": [
+        "Fly"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 38,
+        "qIndex": 5,
+        "word": "蝿",
+        "reading": "うるさい"
+      }
+    },
+    {
+      "character": "嘸",
+      "level": "N1",
+      "strokes": 15,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ブ",
+        "ム"
+      ],
+      "kunyomi": [
+        "さぞ",
+        "さぞや",
+        "さぞかし"
+      ],
+      "meanings": [
+        "How",
+        "Indeed",
+        "I Dare Say"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 94,
+        "qIndex": 1,
+        "word": "嘸",
+        "reading": "さぞ"
+      }
+    },
+    {
       "character": "諒",
       "level": "N1",
       "strokes": 15,
@@ -62789,6 +62909,84 @@ window.JLPT_KANJI_DATA = {
         "Reality",
         "Understand",
         "Appreciate"
+      ]
+    },
+    {
+      "character": "璃",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "リ"
+      ],
+      "kunyomi": [],
+      "meanings": [
+        "Glassy",
+        "Lapis Lazuli"
+      ]
+    },
+    {
+      "character": "漑",
+      "level": "N1",
+      "strokes": 15,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ガイ",
+        "カイ"
+      ],
+      "kunyomi": [
+        "そそ.ぐ"
+      ],
+      "meanings": [
+        "Pour"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 52,
+        "qIndex": 6,
+        "word": "漑",
+        "reading": "かんがい"
+      }
+    },
+    {
+      "character": "凜",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "リン"
+      ],
+      "kunyomi": [
+        "きびし.い"
+      ],
+      "meanings": [
+        "Cold",
+        "Strict",
+        "Severe"
+      ]
+    },
+    {
+      "character": "醇",
+      "level": "N1",
+      "strokes": 15,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ジュン",
+        "シュン"
+      ],
+      "kunyomi": [
+        "もっぱら",
+        "こい",
+        "あつい"
+      ],
+      "meanings": [
+        "Pure Sake'",
+        "Purity",
+        "Affection"
       ]
     },
     {
@@ -62817,203 +63015,135 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "潰",
+      "character": "燎",
       "level": "N1",
-      "strokes": 15,
-      "grade": 8,
+      "strokes": 16,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "カイ",
-        "エ"
+        "リョウ"
       ],
       "kunyomi": [
-        "つぶ.す",
-        "つぶ.れる",
-        "つい.える"
+        "かがりび"
       ],
       "meanings": [
-        "Crush",
-        "Smash",
-        "Break",
-        "Dissipate"
+        "Burn",
+        "Bonfire"
+      ]
+    },
+    {
+      "character": "躾",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [],
+      "kunyomi": [
+        "しつ.ける",
+        "しつけ"
+      ],
+      "meanings": [
+        "Training",
+        "(kokuji)"
       ],
       "dailyQuizRef": {
-        "level": "N2",
-        "day": 75,
-        "qIndex": 8,
-        "word": "潰す",
-        "reading": "つぶす"
+        "level": "N1",
+        "day": 99,
+        "qIndex": 5,
+        "word": "躾",
+        "reading": "しつけ"
       }
     },
     {
-      "character": "蕎",
+      "character": "襁",
       "level": "N1",
-      "strokes": 15,
-      "grade": 9,
+      "strokes": 16,
+      "grade": null,
       "freq": null,
       "onyomi": [
         "キョウ"
       ],
       "kunyomi": [
-        "そば"
+        "むつき"
       ],
       "meanings": [
-        "Buckwheat"
+        "Diaper"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 41,
+        "qIndex": 4,
+        "word": "襁",
+        "reading": "おむつ"
+      }
+    },
+    {
+      "character": "錆",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ショウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "さび",
+        "くわ.しい"
+      ],
+      "meanings": [
+        "Rust",
+        "Tarnish"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 94,
+        "qIndex": 8,
+        "word": "錆び",
+        "reading": "さび"
+      }
+    },
+    {
+      "character": "髭",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "ひげ",
+        "くちひげ"
+      ],
+      "meanings": [
+        "Beard",
+        "Mustache"
       ],
       "dailyQuizRef": {
         "level": "N2",
-        "day": 69,
-        "qIndex": 4,
-        "word": "蕎麦",
-        "reading": "そば"
+        "day": 87,
+        "qIndex": 2,
+        "word": "髭",
+        "reading": "ひげ"
       }
     },
     {
-      "character": "憬",
+      "character": "頰",
       "level": "N1",
-      "strokes": 15,
+      "strokes": 16,
       "grade": 8,
       "freq": null,
       "onyomi": [
-        "ケイ"
+        "キョウ"
       ],
       "kunyomi": [
-        "あこが.れる"
+        "ほお",
+        "ほほ"
       ],
       "meanings": [
-        "Yearn For",
-        "Aspire To",
-        "Admire"
-      ]
-    },
-    {
-      "character": "遵",
-      "level": "N1",
-      "strokes": 15,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ジュン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Abide By",
-        "Follow",
-        "Obey",
-        "Learn"
-      ]
-    },
-    {
-      "character": "漑",
-      "level": "N1",
-      "strokes": 15,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ガイ",
-        "カイ"
-      ],
-      "kunyomi": [
-        "そそ.ぐ"
-      ],
-      "meanings": [
-        "Pour"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 52,
-        "qIndex": 6,
-        "word": "漑",
-        "reading": "かんがい"
-      }
-    },
-    {
-      "character": "蝿",
-      "level": "N1",
-      "strokes": 15,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヨウ"
-      ],
-      "kunyomi": [
-        "はえ",
-        "はい"
-      ],
-      "meanings": [
-        "Fly"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 38,
-        "qIndex": 5,
-        "word": "蝿",
-        "reading": "うるさい"
-      }
-    },
-    {
-      "character": "箪",
-      "level": "N1",
-      "strokes": 15,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "タン"
-      ],
-      "kunyomi": [
-        "はこ"
-      ],
-      "meanings": [
-        "Bamboo Rice Basket"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 123,
-        "qIndex": 5,
-        "word": "箪笥",
-        "reading": "たんす"
-      }
-    },
-    {
-      "character": "皺",
-      "level": "N1",
-      "strokes": 15,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シュウ",
-        "スウ"
-      ],
-      "kunyomi": [
-        "しわ",
-        "しぼ"
-      ],
-      "meanings": [
-        "Wrinkles",
-        "Creases",
-        "Folds"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 105,
-        "qIndex": 8,
-        "word": "皺",
-        "reading": "しわ"
-      }
-    },
-    {
-      "character": "謁",
-      "level": "N1",
-      "strokes": 15,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "エツ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Audience",
-        "Audience (with King)"
+        "Cheeks",
+        "Jaw"
       ]
     },
     {
@@ -63032,6 +63162,310 @@ window.JLPT_KANJI_DATA = {
         "Intelligence",
         "Imperial"
       ]
+    },
+    {
+      "character": "鋸",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "キョ",
+        "コ"
+      ],
+      "kunyomi": [
+        "のこ",
+        "のこぎり"
+      ],
+      "meanings": [
+        "Saw (cuts Wood)"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 142,
+        "qIndex": 2,
+        "word": "鋸",
+        "reading": "のこぎり"
+      }
+    },
+    {
+      "character": "錮",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "ふさ.ぐ"
+      ],
+      "meanings": [
+        "Confinement",
+        "To Tie"
+      ]
+    },
+    {
+      "character": "謂",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "い.う",
+        "いい",
+        "おも.う",
+        "いわゆる"
+      ],
+      "meanings": [
+        "Reason",
+        "Origin",
+        "History",
+        "Oral Tradition"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 36,
+        "qIndex": 5,
+        "word": "所謂",
+        "reading": "いわゆる"
+      }
+    },
+    {
+      "character": "骸",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ガイ",
+        "カイ"
+      ],
+      "kunyomi": [
+        "むくろ"
+      ],
+      "meanings": [
+        "Bone",
+        "Body",
+        "Corpse"
+      ]
+    },
+    {
+      "character": "蕾",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ライ"
+      ],
+      "kunyomi": [
+        "つぼみ"
+      ],
+      "meanings": [
+        "Bud (plants, Mushrooms Not Yet Opened)"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 130,
+        "qIndex": 6,
+        "word": "蕾",
+        "reading": "つぼみ"
+      }
+    },
+    {
+      "character": "儘",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ジン"
+      ],
+      "kunyomi": [
+        "まま",
+        "ことごとく"
+      ],
+      "meanings": [
+        "As It Is",
+        "Because"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 119,
+        "qIndex": 3,
+        "word": "儘",
+        "reading": "そのまま"
+      }
+    },
+    {
+      "character": "褸",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ロ",
+        "ル",
+        "ロウ"
+      ],
+      "kunyomi": [
+        "いと"
+      ],
+      "meanings": [
+        "Rags"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 156,
+        "qIndex": 3,
+        "word": "褸",
+        "reading": "ぼろ"
+      }
+    },
+    {
+      "character": "諧",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "かな.う",
+        "やわ.らぐ"
+      ],
+      "meanings": [
+        "Harmony"
+      ]
+    },
+    {
+      "character": "蕗",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ロ",
+        "ル"
+      ],
+      "kunyomi": [
+        "ふき"
+      ],
+      "meanings": [
+        "Butterbur",
+        "Bog Rhubarb"
+      ]
+    },
+    {
+      "character": "踵",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "かかと",
+        "くび.す",
+        "きび.す",
+        "つ.ぐ"
+      ],
+      "meanings": [
+        "Heel"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 29,
+        "qIndex": 9,
+        "word": "踵",
+        "reading": "かかと"
+      }
+    },
+    {
+      "character": "墾",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "コン"
+      ],
+      "kunyomi": [
+        "は.る",
+        "ひら.く"
+      ],
+      "meanings": [
+        "Ground-breaking",
+        "Open Up Farmland"
+      ]
+    },
+    {
+      "character": "澪",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "レイ"
+      ],
+      "kunyomi": [
+        "みお"
+      ],
+      "meanings": [
+        "Water Route",
+        "Shipping Channel"
+      ]
+    },
+    {
+      "character": "錘",
+      "level": "N1",
+      "strokes": 16,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "つむ",
+        "おもり"
+      ],
+      "meanings": [
+        "Weight",
+        "Plumb Bob",
+        "Sinker",
+        "Spindle"
+      ]
+    },
+    {
+      "character": "艘",
+      "level": "N1",
+      "strokes": 16,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ショウ",
+        "シュウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "ふね"
+      ],
+      "meanings": [
+        "Counter For Small Boats"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 68,
+        "qIndex": 4,
+        "word": "艘",
+        "reading": "そう"
+      }
     },
     {
       "character": "醒",
@@ -63078,678 +63512,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "錮",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "コ"
-      ],
-      "kunyomi": [
-        "ふさ.ぐ"
-      ],
-      "meanings": [
-        "Confinement",
-        "To Tie"
-      ]
-    },
-    {
-      "character": "澪",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "レイ"
-      ],
-      "kunyomi": [
-        "みお"
-      ],
-      "meanings": [
-        "Water Route",
-        "Shipping Channel"
-      ]
-    },
-    {
-      "character": "躾",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [],
-      "kunyomi": [
-        "しつ.ける",
-        "しつけ"
-      ],
-      "meanings": [
-        "Training",
-        "(kokuji)"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 99,
-        "qIndex": 5,
-        "word": "躾",
-        "reading": "しつけ"
-      }
-    },
-    {
-      "character": "錘",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "スイ"
-      ],
-      "kunyomi": [
-        "つむ",
-        "おもり"
-      ],
-      "meanings": [
-        "Weight",
-        "Plumb Bob",
-        "Sinker",
-        "Spindle"
-      ]
-    },
-    {
-      "character": "髭",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シ"
-      ],
-      "kunyomi": [
-        "ひげ",
-        "くちひげ"
-      ],
-      "meanings": [
-        "Beard",
-        "Mustache"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 87,
-        "qIndex": 2,
-        "word": "髭",
-        "reading": "ひげ"
-      }
-    },
-    {
-      "character": "頰",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "キョウ"
-      ],
-      "kunyomi": [
-        "ほお",
-        "ほほ"
-      ],
-      "meanings": [
-        "Cheeks",
-        "Jaw"
-      ]
-    },
-    {
-      "character": "襁",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "キョウ"
-      ],
-      "kunyomi": [
-        "むつき"
-      ],
-      "meanings": [
-        "Diaper"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 41,
-        "qIndex": 4,
-        "word": "襁",
-        "reading": "おむつ"
-      }
-    },
-    {
-      "character": "墾",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "コン"
-      ],
-      "kunyomi": [
-        "は.る",
-        "ひら.く"
-      ],
-      "meanings": [
-        "Ground-breaking",
-        "Open Up Farmland"
-      ]
-    },
-    {
-      "character": "骸",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ガイ",
-        "カイ"
-      ],
-      "kunyomi": [
-        "むくろ"
-      ],
-      "meanings": [
-        "Bone",
-        "Body",
-        "Corpse"
-      ]
-    },
-    {
-      "character": "踵",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ショウ"
-      ],
-      "kunyomi": [
-        "かかと",
-        "くび.す",
-        "きび.す",
-        "つ.ぐ"
-      ],
-      "meanings": [
-        "Heel"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 29,
-        "qIndex": 9,
-        "word": "踵",
-        "reading": "かかと"
-      }
-    },
-    {
-      "character": "儘",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ジン"
-      ],
-      "kunyomi": [
-        "まま",
-        "ことごとく"
-      ],
-      "meanings": [
-        "As It Is",
-        "Because"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 119,
-        "qIndex": 3,
-        "word": "儘",
-        "reading": "そのまま"
-      }
-    },
-    {
-      "character": "鋸",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キョ",
-        "コ"
-      ],
-      "kunyomi": [
-        "のこ",
-        "のこぎり"
-      ],
-      "meanings": [
-        "Saw (cuts Wood)"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 142,
-        "qIndex": 2,
-        "word": "鋸",
-        "reading": "のこぎり"
-      }
-    },
-    {
-      "character": "諧",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "カイ"
-      ],
-      "kunyomi": [
-        "かな.う",
-        "やわ.らぐ"
-      ],
-      "meanings": [
-        "Harmony"
-      ]
-    },
-    {
-      "character": "蕗",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ロ",
-        "ル"
-      ],
-      "kunyomi": [
-        "ふき"
-      ],
-      "meanings": [
-        "Butterbur",
-        "Bog Rhubarb"
-      ]
-    },
-    {
-      "character": "燎",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "リョウ"
-      ],
-      "kunyomi": [
-        "かがりび"
-      ],
-      "meanings": [
-        "Burn",
-        "Bonfire"
-      ]
-    },
-    {
-      "character": "謂",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "イ"
-      ],
-      "kunyomi": [
-        "い.う",
-        "いい",
-        "おも.う",
-        "いわゆる"
-      ],
-      "meanings": [
-        "Reason",
-        "Origin",
-        "History",
-        "Oral Tradition"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 36,
-        "qIndex": 5,
-        "word": "所謂",
-        "reading": "いわゆる"
-      }
-    },
-    {
-      "character": "蕾",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ライ"
-      ],
-      "kunyomi": [
-        "つぼみ"
-      ],
-      "meanings": [
-        "Bud (plants, Mushrooms Not Yet Opened)"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 130,
-        "qIndex": 6,
-        "word": "蕾",
-        "reading": "つぼみ"
-      }
-    },
-    {
-      "character": "艘",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "シュウ",
-        "ソウ"
-      ],
-      "kunyomi": [
-        "ふね"
-      ],
-      "meanings": [
-        "Counter For Small Boats"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 68,
-        "qIndex": 4,
-        "word": "艘",
-        "reading": "そう"
-      }
-    },
-    {
-      "character": "褸",
-      "level": "N1",
-      "strokes": 16,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ロ",
-        "ル",
-        "ロウ"
-      ],
-      "kunyomi": [
-        "いと"
-      ],
-      "meanings": [
-        "Rags"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 156,
-        "qIndex": 3,
-        "word": "褸",
-        "reading": "ぼろ"
-      }
-    },
-    {
-      "character": "錆",
-      "level": "N1",
-      "strokes": 16,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ショウ",
-        "セイ"
-      ],
-      "kunyomi": [
-        "さび",
-        "くわ.しい"
-      ],
-      "meanings": [
-        "Rust",
-        "Tarnish"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 94,
-        "qIndex": 8,
-        "word": "錆び",
-        "reading": "さび"
-      }
-    },
-    {
-      "character": "曖",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "アイ"
-      ],
-      "kunyomi": [
-        "くら.い"
-      ],
-      "meanings": [
-        "Dark",
-        "Not Clear"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 1,
-        "qIndex": 4,
-        "word": "曖昧",
-        "reading": "あいまい"
-      }
-    },
-    {
-      "character": "燦",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "サン"
-      ],
-      "kunyomi": [
-        "さん.たる",
-        "あき.らか",
-        "きらめ.く",
-        "きら.めく"
-      ],
-      "meanings": [
-        "Brilliant"
-      ]
-    },
-    {
-      "character": "濠",
-      "level": "N1",
-      "strokes": 17,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ゴウ",
-        "コウ"
-      ],
-      "kunyomi": [
-        "ほり"
-      ],
-      "meanings": [
-        "Moat",
-        "Ditch",
-        "Canal",
-        "Australia"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 89,
-        "qIndex": 5,
-        "word": "濠",
-        "reading": "ほり"
-      }
-    },
-    {
-      "character": "襖",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "オウ"
-      ],
-      "kunyomi": [
-        "ふすま",
-        "あお"
-      ],
-      "meanings": [
-        "Opaque Sliding Door"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 90,
-        "qIndex": 7,
-        "word": "襖",
-        "reading": "ふすま"
-      }
-    },
-    {
-      "character": "鞠",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "キク",
-        "キュウ"
-      ],
-      "kunyomi": [
-        "まり"
-      ],
-      "meanings": [
-        "Ball"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 157,
-        "qIndex": 6,
-        "word": "鞠",
-        "reading": "まり"
-      }
-    },
-    {
-      "character": "繍",
-      "level": "N1",
-      "strokes": 17,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "シュウ"
-      ],
-      "kunyomi": [
-        "ぬいとり"
-      ],
-      "meanings": [
-        "Sew",
-        "Figured Cloth"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 98,
-        "qIndex": 3,
-        "word": "刺繍",
-        "reading": "ししゅう"
-      }
-    },
-    {
-      "character": "燭",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ソク",
-        "ショク"
-      ],
-      "kunyomi": [
-        "ともしび"
-      ],
-      "meanings": [
-        "Light",
-        "Candlepower"
-      ],
-      "dailyQuizRef": {
-        "level": "N2",
-        "day": 103,
-        "qIndex": 1,
-        "word": "蝋燭",
-        "reading": "ろうそく"
-      }
-    },
-    {
-      "character": "燵",
-      "level": "N1",
-      "strokes": 17,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "タツ"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Foot Warmer",
-        "(kokuji)"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 87,
-        "qIndex": 1,
-        "word": "燵",
-        "reading": "こたつ"
-      }
-    },
-    {
-      "character": "聳",
-      "level": "N1",
-      "strokes": 17,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ショウ"
-      ],
-      "kunyomi": [
-        "そび.える"
-      ],
-      "meanings": [
-        "Rise",
-        "Tower"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 119,
-        "qIndex": 4,
-        "word": "聳",
-        "reading": "そびえる"
-      }
-    },
-    {
-      "character": "瞭",
-      "level": "N1",
-      "strokes": 17,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "リョウ"
-      ],
-      "kunyomi": [
-        "あきらか"
-      ],
-      "meanings": [
-        "Clear"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 158,
-        "qIndex": 4,
-        "word": "明瞭",
-        "reading": "めいりょう"
-      }
-    },
-    {
       "character": "繋",
       "level": "N1",
       "strokes": 17,
@@ -63779,6 +63541,30 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "繍",
+      "level": "N1",
+      "strokes": 17,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "ぬいとり"
+      ],
+      "meanings": [
+        "Sew",
+        "Figured Cloth"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 98,
+        "qIndex": 3,
+        "word": "刺繍",
+        "reading": "ししゅう"
+      }
+    },
+    {
       "character": "嚏",
       "level": "N1",
       "strokes": 17,
@@ -63803,6 +63589,200 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 8,
         "word": "嚏",
         "reading": "くしゃみ"
+      }
+    },
+    {
+      "character": "瞭",
+      "level": "N1",
+      "strokes": 17,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [
+        "あきらか"
+      ],
+      "meanings": [
+        "Clear"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 158,
+        "qIndex": 4,
+        "word": "明瞭",
+        "reading": "めいりょう"
+      }
+    },
+    {
+      "character": "燭",
+      "level": "N1",
+      "strokes": 17,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ソク",
+        "ショク"
+      ],
+      "kunyomi": [
+        "ともしび"
+      ],
+      "meanings": [
+        "Light",
+        "Candlepower"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 103,
+        "qIndex": 1,
+        "word": "蝋燭",
+        "reading": "ろうそく"
+      }
+    },
+    {
+      "character": "聳",
+      "level": "N1",
+      "strokes": 17,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "そび.える"
+      ],
+      "meanings": [
+        "Rise",
+        "Tower"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 119,
+        "qIndex": 4,
+        "word": "聳",
+        "reading": "そびえる"
+      }
+    },
+    {
+      "character": "襖",
+      "level": "N1",
+      "strokes": 17,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "ふすま",
+        "あお"
+      ],
+      "meanings": [
+        "Opaque Sliding Door"
+      ],
+      "dailyQuizRef": {
+        "level": "N2",
+        "day": 90,
+        "qIndex": 7,
+        "word": "襖",
+        "reading": "ふすま"
+      }
+    },
+    {
+      "character": "濠",
+      "level": "N1",
+      "strokes": 17,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ゴウ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "ほり"
+      ],
+      "meanings": [
+        "Moat",
+        "Ditch",
+        "Canal",
+        "Australia"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 89,
+        "qIndex": 5,
+        "word": "濠",
+        "reading": "ほり"
+      }
+    },
+    {
+      "character": "鼾",
+      "level": "N1",
+      "strokes": 17,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "いびき"
+      ],
+      "meanings": [
+        "Snoring"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 35,
+        "qIndex": 8,
+        "word": "鼾",
+        "reading": "いびき"
+      }
+    },
+    {
+      "character": "曖",
+      "level": "N1",
+      "strokes": 17,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "アイ"
+      ],
+      "kunyomi": [
+        "くら.い"
+      ],
+      "meanings": [
+        "Dark",
+        "Not Clear"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 1,
+        "qIndex": 4,
+        "word": "曖昧",
+        "reading": "あいまい"
+      }
+    },
+    {
+      "character": "鞠",
+      "level": "N1",
+      "strokes": 17,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "キク",
+        "キュウ"
+      ],
+      "kunyomi": [
+        "まり"
+      ],
+      "meanings": [
+        "Ball"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 157,
+        "qIndex": 6,
+        "word": "鞠",
+        "reading": "まり"
       }
     },
     {
@@ -63851,68 +63831,44 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "鼾",
+      "character": "燵",
       "level": "N1",
       "strokes": 17,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "カン"
+        "タツ"
       ],
-      "kunyomi": [
-        "いびき"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Snoring"
+        "Foot Warmer",
+        "(kokuji)"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 35,
-        "qIndex": 8,
-        "word": "鼾",
-        "reading": "いびき"
+        "day": 87,
+        "qIndex": 1,
+        "word": "燵",
+        "reading": "こたつ"
       }
     },
     {
-      "character": "顎",
+      "character": "燦",
       "level": "N1",
-      "strokes": 18,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ガク"
-      ],
-      "kunyomi": [
-        "あご",
-        "あぎと"
-      ],
-      "meanings": [
-        "Jaw",
-        "Chin",
-        "Gill"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 2,
-        "qIndex": 9,
-        "word": "顎",
-        "reading": "あご"
-      }
-    },
-    {
-      "character": "麿",
-      "level": "N1",
-      "strokes": 18,
+      "strokes": 17,
       "grade": 9,
       "freq": null,
-      "onyomi": [],
+      "onyomi": [
+        "サン"
+      ],
       "kunyomi": [
-        "まろ"
+        "さん.たる",
+        "あき.らか",
+        "きらめ.く",
+        "きら.めく"
       ],
       "meanings": [
-        "I",
-        "You",
-        "(kokuji)"
+        "Brilliant"
       ]
     },
     {
@@ -63938,49 +63894,6 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 5,
         "word": "臍",
         "reading": "へそ"
-      }
-    },
-    {
-      "character": "燿",
-      "level": "N1",
-      "strokes": 18,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "ヨウ"
-      ],
-      "kunyomi": [
-        "かがや.く",
-        "ひかり"
-      ],
-      "meanings": [
-        "Shine"
-      ]
-    },
-    {
-      "character": "濫",
-      "level": "N1",
-      "strokes": 18,
-      "grade": 8,
-      "freq": null,
-      "onyomi": [
-        "ラン"
-      ],
-      "kunyomi": [
-        "みだ.りに",
-        "みだ.りがましい"
-      ],
-      "meanings": [
-        "Excessive",
-        "Overflow",
-        "Spread Out"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 146,
-        "qIndex": 9,
-        "word": "氾濫",
-        "reading": "はんらん"
       }
     },
     {
@@ -64036,6 +63949,91 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "燿",
+      "level": "N1",
+      "strokes": 18,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "かがや.く",
+        "ひかり"
+      ],
+      "meanings": [
+        "Shine"
+      ]
+    },
+    {
+      "character": "顎",
+      "level": "N1",
+      "strokes": 18,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "あご",
+        "あぎと"
+      ],
+      "meanings": [
+        "Jaw",
+        "Chin",
+        "Gill"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 2,
+        "qIndex": 9,
+        "word": "顎",
+        "reading": "あご"
+      }
+    },
+    {
+      "character": "濫",
+      "level": "N1",
+      "strokes": 18,
+      "grade": 8,
+      "freq": null,
+      "onyomi": [
+        "ラン"
+      ],
+      "kunyomi": [
+        "みだ.りに",
+        "みだ.りがましい"
+      ],
+      "meanings": [
+        "Excessive",
+        "Overflow",
+        "Spread Out"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 146,
+        "qIndex": 9,
+        "word": "氾濫",
+        "reading": "はんらん"
+      }
+    },
+    {
+      "character": "麿",
+      "level": "N1",
+      "strokes": 18,
+      "grade": 9,
+      "freq": null,
+      "onyomi": [],
+      "kunyomi": [
+        "まろ"
+      ],
+      "meanings": [
+        "I",
+        "You",
+        "(kokuji)"
+      ]
+    },
+    {
       "character": "檻",
       "level": "N1",
       "strokes": 19,
@@ -64061,54 +64059,6 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 7,
         "word": "檻",
         "reading": "おり"
-      }
-    },
-    {
-      "character": "騙",
-      "level": "N1",
-      "strokes": 19,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ヘン"
-      ],
-      "kunyomi": [
-        "かた.る",
-        "だま.す"
-      ],
-      "meanings": [
-        "Deceive"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 124,
-        "qIndex": 7,
-        "word": "騙す",
-        "reading": "だます"
-      }
-    },
-    {
-      "character": "饂",
-      "level": "N1",
-      "strokes": 19,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "ウン"
-      ],
-      "kunyomi": [
-        "うどん"
-      ],
-      "meanings": [
-        "Japanese Noodles",
-        "(kokuji)"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 37,
-        "qIndex": 9,
-        "word": "饂",
-        "reading": "うどん"
       }
     },
     {
@@ -64175,29 +64125,51 @@ window.JLPT_KANJI_DATA = {
       ]
     },
     {
-      "character": "霰",
+      "character": "饂",
       "level": "N1",
-      "strokes": 20,
+      "strokes": 19,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "セン",
-        "サン"
+        "ウン"
       ],
       "kunyomi": [
-        "あられ"
+        "うどん"
       ],
       "meanings": [
-        "Hail",
-        "Hailstones",
-        "Small Cubes"
+        "Japanese Noodles",
+        "(kokuji)"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 33,
-        "qIndex": 3,
-        "word": "霰",
-        "reading": "あられ"
+        "day": 37,
+        "qIndex": 9,
+        "word": "饂",
+        "reading": "うどん"
+      }
+    },
+    {
+      "character": "騙",
+      "level": "N1",
+      "strokes": 19,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "かた.る",
+        "だま.す"
+      ],
+      "meanings": [
+        "Deceive"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 124,
+        "qIndex": 7,
+        "word": "騙す",
+        "reading": "だます"
       }
     },
     {
@@ -64224,6 +64196,32 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "霰",
+      "level": "N1",
+      "strokes": 20,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "セン",
+        "サン"
+      ],
+      "kunyomi": [
+        "あられ"
+      ],
+      "meanings": [
+        "Hail",
+        "Hailstones",
+        "Small Cubes"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 33,
+        "qIndex": 3,
+        "word": "霰",
+        "reading": "あられ"
+      }
+    },
+    {
       "character": "灌",
       "level": "N1",
       "strokes": 20,
@@ -64244,6 +64242,32 @@ window.JLPT_KANJI_DATA = {
         "qIndex": 5,
         "word": "灌",
         "reading": "かんがい"
+      }
+    },
+    {
+      "character": "躊",
+      "level": "N1",
+      "strokes": 21,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "チュウ",
+        "チュ",
+        "シュウ",
+        "ジュ"
+      ],
+      "kunyomi": [
+        "ためら.う"
+      ],
+      "meanings": [
+        "Hesitate"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 122,
+        "qIndex": 2,
+        "word": "躊躇う",
+        "reading": "ためらう"
       }
     },
     {
@@ -64325,32 +64349,6 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "躊",
-      "level": "N1",
-      "strokes": 21,
-      "grade": null,
-      "freq": null,
-      "onyomi": [
-        "チュウ",
-        "チュ",
-        "シュウ",
-        "ジュ"
-      ],
-      "kunyomi": [
-        "ためら.う"
-      ],
-      "meanings": [
-        "Hesitate"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 122,
-        "qIndex": 2,
-        "word": "躊躇う",
-        "reading": "ためらう"
-      }
-    },
-    {
       "character": "纏",
       "level": "N1",
       "strokes": 21,
@@ -64415,6 +64413,29 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
+      "character": "躓",
+      "level": "N1",
+      "strokes": 22,
+      "grade": null,
+      "freq": null,
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "つまず.く"
+      ],
+      "meanings": [
+        "Stumble"
+      ],
+      "dailyQuizRef": {
+        "level": "N1",
+        "day": 130,
+        "qIndex": 7,
+        "word": "躓く",
+        "reading": "つまずく"
+      }
+    },
+    {
       "character": "鱈",
       "level": "N1",
       "strokes": 22,
@@ -64439,26 +64460,28 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "躓",
+      "character": "籤",
       "level": "N1",
-      "strokes": 22,
+      "strokes": 23,
       "grade": null,
       "freq": null,
       "onyomi": [
-        "チ"
+        "セン"
       ],
       "kunyomi": [
-        "つまず.く"
+        "くじ",
+        "かずとり"
       ],
       "meanings": [
-        "Stumble"
+        "Lottery",
+        "Raffle"
       ],
       "dailyQuizRef": {
         "level": "N1",
-        "day": 130,
-        "qIndex": 7,
-        "word": "躓く",
-        "reading": "つまずく"
+        "day": 73,
+        "qIndex": 9,
+        "word": "籤",
+        "reading": "くじびき"
       }
     },
     {
@@ -64491,29 +64514,22 @@ window.JLPT_KANJI_DATA = {
       }
     },
     {
-      "character": "籤",
+      "character": "麟",
       "level": "N1",
-      "strokes": 23,
-      "grade": null,
+      "strokes": 24,
+      "grade": 9,
       "freq": null,
       "onyomi": [
-        "セン"
+        "リン"
       ],
-      "kunyomi": [
-        "くじ",
-        "かずとり"
-      ],
+      "kunyomi": [],
       "meanings": [
-        "Lottery",
-        "Raffle"
-      ],
-      "dailyQuizRef": {
-        "level": "N1",
-        "day": 73,
-        "qIndex": 9,
-        "word": "籤",
-        "reading": "くじびき"
-      }
+        "Chinese Unicorn",
+        "Genius",
+        "Giraffe",
+        "Bright",
+        "Shining"
+      ]
     },
     {
       "character": "軈",
@@ -64541,24 +64557,6 @@ window.JLPT_KANJI_DATA = {
         "word": "軈て",
         "reading": "やがて"
       }
-    },
-    {
-      "character": "麟",
-      "level": "N1",
-      "strokes": 24,
-      "grade": 9,
-      "freq": null,
-      "onyomi": [
-        "リン"
-      ],
-      "kunyomi": [],
-      "meanings": [
-        "Chinese Unicorn",
-        "Genius",
-        "Giraffe",
-        "Bright",
-        "Shining"
-      ]
     },
     {
       "character": "鬱",

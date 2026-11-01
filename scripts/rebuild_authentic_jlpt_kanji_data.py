@@ -101,7 +101,7 @@ def main():
             best_ref = refs[0]
 
         on_list = [hira_to_kata(r) for r in info.get('readings_on', [])]
-        kun_list = info.get('readings_kun', [])
+        kun_list = [r for r in info.get('readings_kun', []) if not any('ァ' <= c <= 'ヶ' for c in r)]
         mean_list = info.get('meanings', [])
 
         item = {
