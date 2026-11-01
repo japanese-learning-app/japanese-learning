@@ -3362,10 +3362,10 @@ rt {
         <!-- 固定タブバーエリア（スクロールしても絶対に隠れない・めり込まない！） -->
     <div style="background:#FFFFFF; border-bottom:2px solid #E2ECF2; padding:10px 18px; flex-shrink:0; box-shadow:0 2px 6px rgba(0,0,0,0.03); z-index:10;">
       <div class="kanji-main-tabs">
-        <button class="kanji-main-tab-btn active" id="tab-btn-writing-kana" onclick="switchWritingTab('kana')">あ かな学習（ひらがな・カタカナ）</button>
-        <button class="kanji-main-tab-btn" id="tab-btn-writing-list" onclick="switchWritingTab('list')">📚 JLPT漢字リスト（書き順・筆順）</button>
-        <button class="kanji-main-tab-btn" id="tab-btn-writing-quiz" onclick="switchWritingTab('quiz')">📝 毎日漢字書き取りテスト（毎日漢字スタイル）</button>
-        <button class="kanji-main-tab-btn" id="tab-btn-writing-pdf" onclick="switchWritingTab('pdf')">📄 練習用紙プリント</button>
+        <button class="kanji-main-tab-btn active" id="tab-btn-writing-kana" onclick="switchWritingTab('kana')">ひらがな・カタカナ</button>
+        <button class="kanji-main-tab-btn" id="tab-btn-writing-list" onclick="switchWritingTab('list')">JLPT漢字リスト</button>
+        <button class="kanji-main-tab-btn" id="tab-btn-writing-quiz" onclick="switchWritingTab('quiz')">毎日書き取りテスト</button>
+        <button class="kanji-main-tab-btn" id="tab-btn-writing-pdf" onclick="switchWritingTab('pdf')">練習用紙プリント</button>
       </div>
     </div>
 
@@ -3375,14 +3375,14 @@ rt {
       <div id="writing-tab-quiz" class="writing-tab-panel" style="display:none;">
         <div class="quiz-top-level-bar">
           <div class="quiz-level-pills">
-            <button class="quiz-level-pill active" onclick="setWritingQuizLevel('N5', this)">N5（10日・100問）</button>
-            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N4', this)">N4（18日・180問）</button>
-            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N3', this)">N3（30日・300問）</button>
-            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N2', this)">N2（30日・300問）</button>
-            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N1', this)">N1（30日・300問）</button>
+            <button class="quiz-level-pill active" onclick="setWritingQuizLevel('N1', this)">N1</button>
+            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N2', this)">N2</button>
+            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N3', this)">N3</button>
+            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N4', this)">N4</button>
+            <button class="quiz-level-pill" onclick="setWritingQuizLevel('N5', this)">N5</button>
           </div>
           <div style="font-size:0.84rem; color:#64748B;">
-            💡 縦のインデックスからDay（1日10問）を選び、白紙に手書きして<strong>「解答」</strong>で自己採点できます。
+            💡 縦のインデックスからDayを選び、白紙に手書きして<strong>「解答」</strong>で自己採点できます。
           </div>
         </div>
 
@@ -3400,42 +3400,35 @@ rt {
             <!-- タブ1: かな学習スタジオ（なぞり書き練習 ＆ 書き取りテスト） -->
       <div id="writing-tab-kana" class="writing-tab-panel" style="display:block;">
         <div style="background:white; border:1.5px solid var(--border-soft); border-radius:16px; padding:20px;">
-          <!-- 上部ヘッダー: タイトル + 戻るボタン + モード切替 (✍️ なぞり書き / 📝 書き取りテスト) -->
-          <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin-bottom:16px; border-bottom:1.5px solid #F1F5F9; padding-bottom:14px;">
-            <div>
-              <div style="font-weight:800; color:var(--kobe-blue); font-size:1.15rem; display:flex; align-items:center; gap:6px;">
-                <span>あ</span>
-                <span>かな学習スタジオ（五十音・濁音・拗音・特殊音）</span>
+          <!-- 上部モード切替: ひらがな（練習 / テスト） カタカナ（練習 / テスト） -->
+          <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin-bottom:16px; border-bottom:1.5px solid #F1F5F9; padding-bottom:12px;">
+            <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+              <!-- ひらがな: 練習 / テスト -->
+              <div style="display:inline-flex; align-items:center; gap:4px; background:#F8FAFC; border:1.5px solid #CBD5E1; padding:4px 8px; border-radius:10px;">
+                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">ひらがな:</span>
+                <button class="quiz-level-pill active" id="btn-mode-hira-trace" onclick="selectKanaMode('hiragana', 'trace')">練習</button>
+                <button class="quiz-level-pill" id="btn-mode-hira-quiz" onclick="selectKanaMode('hiragana', 'quiz')">テスト</button>
               </div>
-              <div style="font-size:0.83rem; color:var(--text-sub); margin-top:2px;">
-                書き順アニメーション・筆順コマ送り・田字格なぞり練習・書き取りテスト全対応！
-              </div>
-            </div>
-            <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-              <button onclick="switchWritingTab('list')" style="background:#EFF6FF; border:1.5px solid #93C5FD; color:#1D4ED8; padding:6px 12px; border-radius:8px; font-weight:800; font-size:0.82rem; cursor:pointer;">
-                JLPT漢字リストへ →
-              </button>
-              <div class="quiz-level-pills">
-                <button class="quiz-level-pill active" id="btn-kana-submode-trace" onclick="switchKanaSubMode('trace')">✍️ 書き順・なぞり練習</button>
-                <button class="quiz-level-pill" id="btn-kana-submode-quiz" onclick="switchKanaSubMode('quiz')">📝 かな書き取りテスト</button>
+
+              <!-- カタカナ: 練習 / テスト -->
+              <div style="display:inline-flex; align-items:center; gap:4px; background:#F8FAFC; border:1.5px solid #CBD5E1; padding:4px 8px; border-radius:10px;">
+                <span style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-right:4px;">カタカナ:</span>
+                <button class="quiz-level-pill" id="btn-mode-kata-trace" onclick="selectKanaMode('katakana', 'trace')">練習</button>
+                <button class="quiz-level-pill" id="btn-mode-kata-quiz" onclick="selectKanaMode('katakana', 'quiz')">テスト</button>
               </div>
             </div>
           </div>
 
           <!-- サブモード1: なぞり書き練習 パネル -->
           <div id="kana-panel-trace">
-            <!-- フィルターバー: カテゴリ pills & ひらがな/カタカナ切替 -->
+            <!-- フィルターバー: カテゴリ pills -->
             <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
               <div class="quiz-level-pills" id="kana-category-pills">
                 <button class="quiz-level-pill active" onclick="setKanaCategory('all', this)">すべて</button>
-                <button class="quiz-level-pill" onclick="setKanaCategory('seion', this)">五十音（清音）</button>
+                <button class="quiz-level-pill" onclick="setKanaCategory('seion', this)">五十音</button>
                 <button class="quiz-level-pill" onclick="setKanaCategory('dakuon', this)">濁音・半濁音</button>
-                <button class="quiz-level-pill" onclick="setKanaCategory('youon', this)">拗音（きゃ・しゃ…）</button>
-                <button class="quiz-level-pill" onclick="setKanaCategory('tokushu', this)">カタカナ特殊音</button>
-              </div>
-              <div class="quiz-level-pills">
-                <button class="quiz-level-pill active" id="btn-kana-hira" onclick="switchKanaType('hiragana')">ひらがな</button>
-                <button class="quiz-level-pill" id="btn-kana-kata" onclick="switchKanaType('katakana')">カタカナ</button>
+                <button class="quiz-level-pill" onclick="setKanaCategory('youon', this)">拗音</button>
+                <button class="quiz-level-pill" id="pill-kana-tokushu" style="display:none;" onclick="setKanaCategory('tokushu', this)">特殊音</button>
               </div>
             </div>
 
@@ -6716,8 +6709,8 @@ Advice: Explanation in ${targetLangName} why it is corrected.
   });
 
   // ================= 4. 漢字・ライティング コントローラー =================
-  let currentWritingQuizLevel = 'N5';
-  let currentKanjiListLevel = 'N5';
+  let currentWritingQuizLevel = 'N1';
+  let currentKanjiListLevel = 'N1';
 
   function switchWritingTab(tabName) {
     ['kana', 'list', 'quiz', 'pdf'].forEach(t => {
@@ -6757,6 +6750,34 @@ Advice: Explanation in ${targetLangName} why it is corrected.
   let currentKanaSubMode = 'trace'; // 'trace' | 'quiz'
   let currentSelectedKana = { char: 'あ', romaji: 'a' };
   let currentActiveKanaSubChar = 'あ';
+
+  function selectKanaMode(type, mode) {
+    currentKanaType = type;
+    currentKanaSubMode = mode;
+
+    document.getElementById('btn-mode-hira-trace')?.classList.toggle('active', type === 'hiragana' && mode === 'trace');
+    document.getElementById('btn-mode-hira-quiz')?.classList.toggle('active', type === 'hiragana' && mode === 'quiz');
+    document.getElementById('btn-mode-kata-trace')?.classList.toggle('active', type === 'katakana' && mode === 'trace');
+    document.getElementById('btn-mode-kata-quiz')?.classList.toggle('active', type === 'katakana' && mode === 'quiz');
+
+    const tracePanel = document.getElementById('kana-panel-trace');
+    const quizPanel = document.getElementById('kana-panel-quiz');
+
+    if (mode === 'trace') {
+      if (tracePanel) tracePanel.style.display = 'block';
+      if (quizPanel) quizPanel.style.display = 'none';
+      renderKanaGridPicker();
+      const first = KANA_ALL_DATA.find(x => x.cat === (currentKanaCategory === 'all' ? 'seion' : currentKanaCategory)) || KANA_ALL_DATA[0];
+      const char = (type === 'hiragana') ? first.h : first.k;
+      selectKanaForTrace(char, first.r, false);
+    } else {
+      if (tracePanel) tracePanel.style.display = 'none';
+      if (quizPanel) quizPanel.style.display = 'block';
+      if (typeof KanaWritingQuiz !== 'undefined') {
+        KanaWritingQuiz.setType(type);
+      }
+    }
+  }
 
   const KANA_ALL_DATA = [
     // --- 五十音（清音・46文字） ---
@@ -6999,6 +7020,15 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     const grid = document.getElementById('kana-grid-picker');
     if (!grid) return;
 
+    // Show/hide 特殊音 pill based on currentKanaType
+    const tokushuPill = document.getElementById('pill-kana-tokushu');
+    if (tokushuPill) {
+      tokushuPill.style.display = (currentKanaType === 'katakana') ? 'inline-block' : 'none';
+    }
+    if (currentKanaType === 'hiragana' && currentKanaCategory === 'tokushu') {
+      currentKanaCategory = 'all';
+    }
+
     if (currentKanaCategory === 'all') {
       const seionList = KANA_ALL_DATA.filter(x => x.cat === 'seion' || x.cat === 'blank');
       const dakuonList = KANA_ALL_DATA.filter(x => x.cat === 'dakuon');
@@ -7010,7 +7040,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
           <!-- 五十音 -->
           <div>
             <div style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-bottom:8px; display:flex; align-items:center; gap:6px;">
-              <span>🌸</span> <span>五十音（清音・46字）</span>
+              <span>🌸</span> <span>五十音（46字）</span>
             </div>
             <div style="display:grid; grid-template-columns:repeat(5, 1fr); gap:6px;">
               ${seionList.map(item => renderKanaCell(item)).join('')}
@@ -7030,22 +7060,24 @@ Advice: Explanation in ${targetLangName} why it is corrected.
           <!-- 拗音 -->
           <div>
             <div style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-bottom:8px; display:flex; align-items:center; gap:6px;">
-              <span>🎋</span> <span>拗音（きゃ・しゃ・ちゃ… 33字）</span>
+              <span>🎋</span> <span>拗音（33字）</span>
             </div>
             <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">
               ${youonList.map(item => renderKanaCell(item)).join('')}
             </div>
           </div>
 
-          <!-- カタカナ外来語・特殊音 (1行3つ) -->
-          <div>
-            <div style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-bottom:8px; display:flex; align-items:center; gap:6px;">
-              <span>🌐</span> <span>カタカナ外来語・特殊音（24字）</span>
+          ${currentKanaType === 'katakana' ? `
+            <!-- カタカナ外来語・特殊音 (1行3つ) -->
+            <div>
+              <div style="font-weight:800; font-size:0.86rem; color:#1E3A8A; margin-bottom:8px; display:flex; align-items:center; gap:6px;">
+                <span>🌐</span> <span>外来語・特殊音（24字）</span>
+              </div>
+              <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">
+                ${tokushuList.map(item => renderKanaCell(item)).join('')}
+              </div>
             </div>
-            <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">
-              ${tokushuList.map(item => renderKanaCell(item)).join('')}
-            </div>
-          </div>
+          ` : ''}
         </div>
       `;
     } else if (currentKanaCategory === 'seion') {
@@ -7057,8 +7089,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
     } else if (currentKanaCategory === 'youon') {
       const list = KANA_ALL_DATA.filter(x => x.cat === 'youon');
       grid.innerHTML = `<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">${list.map(item => renderKanaCell(item)).join('')}</div>`;
-    } else if (currentKanaCategory === 'tokushu') {
-      // ユーザー指示: 特殊音も1行3つ (repeat(3, 1fr))
+    } else if (currentKanaCategory === 'tokushu' && currentKanaType === 'katakana') {
       const list = KANA_ALL_DATA.filter(x => x.cat === 'tokushu');
       grid.innerHTML = `<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:6px;">${list.map(item => renderKanaCell(item)).join('')}</div>`;
     }
@@ -7286,6 +7317,9 @@ Advice: Explanation in ${targetLangName} why it is corrected.
 
     startQuiz() {
       let pool = KANA_ALL_DATA.filter(x => x.h && x.k && x.cat !== 'blank');
+      if (this.currentType === 'hiragana') {
+        pool = pool.filter(x => x.cat !== 'tokushu');
+      }
       if (this.currentCategory !== 'all') {
         pool = pool.filter(x => x.cat === this.currentCategory);
       }

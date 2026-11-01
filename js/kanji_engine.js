@@ -797,8 +797,7 @@
   //    N5〜N1対応・縦インデックス・まいにち10問ずつ
   // ============================================================
   window.MainichiKanjiQuiz = {
-    containerId: 'mainichi-quiz-card',
-    currentLevel: 'N5',
+    currentLevel: 'N1',
     currentDay: 1,
     currentIndexInDay: 0,
     canvasHistory: [],
@@ -838,7 +837,7 @@
       return (found && found.questions) || (days[0] && days[0].questions) || [];
     },
 
-    init(containerId, level = 'N5', day = 1) {
+    init(containerId, level = 'N1', day = 1) {
       this.containerId = containerId;
       this.currentLevel = level;
       this.currentDay = day;
@@ -908,7 +907,7 @@
           <div class="mainichi-day-index-sidebar">
             <div class="mainichi-day-sidebar-title">
               <span>📅 Day 選択</span>
-              <span style="font-size:0.75rem; color:#64748B;">全${days.length}日 (1日10問)</span>
+              <span style="font-size:0.75rem; color:#64748B;">全${days.length}日 (${lvlData ? lvlData.totalQuestions : questions.length}問)</span>
             </div>
             <div class="mainichi-day-list" id="mainichi-day-list">
               ${days.map(d => `
@@ -926,7 +925,7 @@
             <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-bottom:12px; background:#F8FAFC; padding:8px 14px; border-radius:12px; border:1px solid #E2E8F0;">
               <div style="display:flex; align-items:center; gap:8px;">
                 <span style="font-weight:800; font-size:0.95rem; color:#1E3A8A;">【${this.currentLevel}】Day ${this.currentDay}</span>
-                <span style="font-size:0.8rem; color:#64748B;">まいにち10問</span>
+                <span style="font-size:0.8rem; color:#64748B;">全${questions.length}問</span>
               </div>
               <div class="mainichi-q-pills">
                 ${questions.map((_, i) => `
@@ -1210,10 +1209,10 @@
   // 3. JLPT漢字リスト (レベル別: N5 / N4 / N3)
   // ============================================================
   window.KanjiListEngine = {
-    currentLevel: 'N5',
+    currentLevel: 'N1',
     currentSearch: '',
 
-    init(containerId, level = 'N5') {
+    init(containerId, level = 'N1') {
       this.containerId = containerId;
       this.currentLevel = level;
       this.render();
@@ -1253,15 +1252,12 @@
       container.innerHTML = `
         <div class="kanji-list-toolbar">
           <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-            <button onclick="switchWritingTab('quiz')" style="background:#EFF6FF; border:1.5px solid #93C5FD; color:#1D4ED8; padding:6px 14px; border-radius:8px; font-weight:800; font-size:0.84rem; cursor:pointer; display:inline-flex; align-items:center; gap:4px; box-shadow:0 1px 3px rgba(0,0,0,0.05);" title="漢字書き取りテストに戻る">
-              ← 漢字テストに戻る
-            </button>
             <div class="quiz-level-pills">
-              <button class="quiz-level-pill ${this.currentLevel === 'N5' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N5', this)">N5</button>
-              <button class="quiz-level-pill ${this.currentLevel === 'N4' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N4', this)">N4</button>
-              <button class="quiz-level-pill ${this.currentLevel === 'N3' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N3', this)">N3</button>
-              <button class="quiz-level-pill ${this.currentLevel === 'N2' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N2', this)">N2</button>
               <button class="quiz-level-pill ${this.currentLevel === 'N1' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N1', this)">N1</button>
+              <button class="quiz-level-pill ${this.currentLevel === 'N2' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N2', this)">N2</button>
+              <button class="quiz-level-pill ${this.currentLevel === 'N3' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N3', this)">N3</button>
+              <button class="quiz-level-pill ${this.currentLevel === 'N4' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N4', this)">N4</button>
+              <button class="quiz-level-pill ${this.currentLevel === 'N5' ? 'active' : ''}" onclick="KanjiListEngine.setLevel('N5', this)">N5</button>
             </div>
           </div>
           <input type="text" class="kanji-list-search" placeholder="漢字・よみ・意味で検索..." value="${this.currentSearch}" oninput="KanjiListEngine.onSearch(this.value)">
@@ -1293,16 +1289,7 @@
           </div>
         </div>
 
-        <!-- 毎日書き取りテストとの連動案内バナー -->
-        <div style="background:#F0F9FF; border:1.5px solid #BAE6FD; border-radius:12px; padding:10px 14px; margin-bottom:14px; font-size:0.83rem; color:#0369A1; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px;">
-          <div style="display:flex; align-items:center; gap:6px;">
-            <span>✍️</span>
-            <span><strong>毎日書き取りテストと100%連動中！</strong> 各漢字カードの「📝 Day X」や詳細モーダルから、すぐにテストに挑戦できます。</span>
-          </div>
-          <button onclick="switchWritingTab('quiz')" style="background:#0284C7; color:white; border:none; padding:5px 12px; border-radius:7px; font-size:0.78rem; font-weight:800; cursor:pointer;">
-            📝 書き取りテストへ
-          </button>
-        </div>
+
 
         <div class="kanji-tiles-grid">
           ${list.map(k => {
@@ -1313,11 +1300,7 @@
             const escapedK = JSON.stringify(k).replace(/"/g, '&quot;');
             return `
               <div class="kanji-tile-card" onclick='KanjiEngine.openStrokeModal("${k.character}", ${escapedK})'>
-                ${k.dailyQuizRef ? `
-                  <div style="font-size:0.65rem; font-weight:800; background:#EFF6FF; color:#1D4ED8; border:1px solid #BFDBFE; border-radius:5px; padding:1px 6px; margin-bottom:4px; display:inline-flex; align-items:center; gap:2px;" title="毎日漢字書き取りテスト Day ${k.dailyQuizRef.day} に出題">
-                    📝 Day ${k.dailyQuizRef.day}
-                  </div>
-                ` : ''}
+
                 <div class="kanji-tile-char">${k.character}</div>
                 <div class="kanji-tile-strokes">${k.strokes}画</div>
                 <div class="kanji-tile-yomi-box">
