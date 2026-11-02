@@ -10670,3 +10670,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "notes": "【倫理・品格】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。"
   }
 ];
+
+if (typeof window !== "undefined") {
+  window.JLPT_N1_QUIZ_DATA = window.JLPT_N1_GRAMMAR_QUIZ_DATA;
+  window.JLPT_N1_GRAMMAR_QUIZ_DATA = window.JLPT_N1_QUIZ_DATA;
+}

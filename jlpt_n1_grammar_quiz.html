@@ -1612,7 +1612,7 @@
 
 <script>
 (function() {
-  const data = window.JLPT_N2_QUIZ_DATA || [];
+  const data = window.JLPT_N1_QUIZ_DATA || window.JLPT_N1_GRAMMAR_QUIZ_DATA || [];
   if (!data || data.length === 0) {
     document.getElementById('sentenceJp').innerText = "問題データの読み込みに失敗しました。";
     return;

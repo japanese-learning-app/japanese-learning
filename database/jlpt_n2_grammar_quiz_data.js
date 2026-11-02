@@ -45210,3 +45210,5 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "correct_text_ruby": "ずに<ruby>済ん<rt>すん</rt></ruby>だ"
   }
 ];
+
+window.JLPT_N2_QUIZ_DATA = window.JLPT_N2_GRAMMAR_QUIZ_DATA;

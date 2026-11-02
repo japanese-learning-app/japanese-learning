@@ -3865,3 +3865,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "notes": "【週末・趣味】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。"
   }
 ];
+
+if (typeof window !== "undefined") {
+  window.JLPT_N5_QUIZ_DATA = window.JLPT_N5_GRAMMAR_QUIZ_DATA;
+  window.JLPT_N5_GRAMMAR_QUIZ_DATA = window.JLPT_N5_QUIZ_DATA;
+}

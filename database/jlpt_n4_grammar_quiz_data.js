@@ -5209,3 +5209,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "notes": "【友達・会話】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。"
   }
 ];
+
+if (typeof window !== "undefined") {
+  window.JLPT_N4_QUIZ_DATA = window.JLPT_N4_GRAMMAR_QUIZ_DATA;
+  window.JLPT_N4_GRAMMAR_QUIZ_DATA = window.JLPT_N4_QUIZ_DATA;
+}

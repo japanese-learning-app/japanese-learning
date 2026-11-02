@@ -16928,3 +16928,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずつ」が正解です。"
   }
 ];
+
+if (typeof window !== "undefined") {
+  window.JLPT_N3_QUIZ_DATA = window.JLPT_N3_GRAMMAR_QUIZ_DATA;
+  window.JLPT_N3_GRAMMAR_QUIZ_DATA = window.JLPT_N3_QUIZ_DATA;
+}
