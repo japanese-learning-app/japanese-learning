@@ -6754,17 +6754,17 @@
     },
     {
       id: 'folder_4',
-      title: '初級 31-43',
-      desc: 'て形応用・動詞4/5・病気・ない形・可能形',
-      range: [31, 43],
+      title: '初級 31-51',
+      desc: 'て形応用・動詞4/5・病気・ない形・可能形・た形',
+      range: [31, 51],
       badge: 'STAGE 4',
       trans: {
-        en: 'Beginner 31-43',
-        zh_TW: '初級 31-43',
-        zh_CN: '初级 31-43',
-        ko: '초급 31-43',
-        zh_HK: '初級 31-43',
-        fr: 'Débutant 31-43'
+        en: 'Beginner 31-51',
+        zh_TW: '初級 31-51',
+        zh_CN: '初级 31-51',
+        ko: '초급 31-51',
+        zh_HK: '初級 31-51',
+        fr: 'Débutant 31-51'
       }
     }
   ];
@@ -6814,7 +6814,15 @@
     { num: 40, title: '基本動詞 ないform (4)', folder_id: 'folder_4' },
     { num: 41, title: '基本動詞 ないform (5)', folder_id: 'folder_4' },
     { num: 42, title: '基本動詞 可能形 (1)', folder_id: 'folder_4' },
-    { num: 43, title: '基本動詞 可能形 (2)', folder_id: 'folder_4' }
+    { num: 43, title: '基本動詞 可能形 (2)', folder_id: 'folder_4' },
+    { num: 44, title: '基本動詞 可能形 (3)', folder_id: 'folder_4' },
+    { num: 45, title: '基本動詞 可能形 (4)', folder_id: 'folder_4' },
+    { num: 46, title: '基本動詞 可能形 (5)', folder_id: 'folder_4' },
+    { num: 47, title: '基本動詞 たform (1)', folder_id: 'folder_4' },
+    { num: 48, title: '基本動詞 たform (2)', folder_id: 'folder_4' },
+    { num: 49, title: '基本動詞 たform (3)', folder_id: 'folder_4' },
+    { num: 50, title: '基本動詞 たform (4)', folder_id: 'folder_4' },
+    { num: 51, title: '基本動詞 たform (5)', folder_id: 'folder_4' }
   ];
 
   function getCatalogSection(secNum) {
@@ -6876,7 +6884,15 @@
     40: { en: 'Basic Verbs 4 (Nai-form)', zh_TW: '基本動詞 4（ない形）', zh_CN: '基本动词 4（ない形）', ko: '기본 동사 4 (ない형)', zh_HK: '基本動詞 4（ない形）', fr: 'Verbes de base 4 (forme en nai)' },
     41: { en: 'Basic Verbs 5 (Nai-form)', zh_TW: '基本動詞 5（ない形）', zh_CN: '基本动词 5（ない形）', ko: '기본 동사 5 (ない형)', zh_HK: '基本動詞 5（ない形）', fr: 'Verbes de base 5 (forme en nai)' },
     42: { en: 'Basic Verbs 1 (Potential)', zh_TW: '基本動詞 1（可能形）', zh_CN: '基本动词 1（可能形）', ko: '기본 동사 1 (가능형)', zh_HK: '基本動詞 1（可能形）', fr: 'Verbes de base 1 (forme potentielle)' },
-    43: { en: 'Basic Verbs 2 (Potential)', zh_TW: '基本動詞 2（可能形）', zh_CN: '基本动词 2（可能形）', ko: '기본 동사 2 (가능형)', zh_HK: '基本動詞 2（可能形）', fr: 'Verbes de base 2 (forme potentielle)' }
+    43: { en: 'Basic Verbs 2 (Potential)', zh_TW: '基本動詞 2（可能形）', zh_CN: '基本动词 2（可能形）', ko: '기본 동사 2 (가능형)', zh_HK: '基本動詞 2（可能形）', fr: 'Verbes de base 2 (forme potentielle)' },
+    44: { en: 'Basic Verbs 3 (Potential)', zh_TW: '基本動詞 3（可能形）', zh_CN: '基本动词 3（可能形）', ko: '기본 동사 3 (가능형)', zh_HK: '基本動詞 3（可能形）', fr: 'Verbes de base 3 (forme potentielle)' },
+    45: { en: 'Basic Verbs 4 (Potential)', zh_TW: '基本動詞 4（可能形）', zh_CN: '基本动词 4（可能形）', ko: '기본 동사 4 (가능형)', zh_HK: '基本動詞 4（可能形）', fr: 'Verbes de base 4 (forme potentielle)' },
+    46: { en: 'Basic Verbs 5 (Potential)', zh_TW: '基本動詞 5（可能形）', zh_CN: '基本动词 5（可能形）', ko: '기본 동사 5 (가능형)', zh_HK: '基本動詞 5（可能形）', fr: 'Verbes de base 5 (forme potentielle)' },
+    47: { en: 'Basic Verbs 1 (Ta-form / Past)', zh_TW: '基本動詞 1（た形／過去式）', zh_CN: '基本动词 1（た形／过去式）', ko: '기본 동사 1 (과거/다형)', zh_HK: '基本動詞 1（た形／過去式）', fr: 'Verbes de base 1 (forme en -ta / passé)' },
+    48: { en: 'Basic Verbs 2 (Ta-form / Past)', zh_TW: '基本動詞 2（た形／過去式）', zh_CN: '基本动词 2（た形／过去式）', ko: '기본 동사 2 (과거/다형)', zh_HK: '基本動詞 2（た形／過去式）', fr: 'Verbes de base 2 (forme en -ta / passé)' },
+    49: { en: 'Basic Verbs 3 (Ta-form / Past)', zh_TW: '基本動詞 3（た形／過去式）', zh_CN: '基本动词 3（た形／过去式）', ko: '기본 동사 3 (과거/다형)', zh_HK: '基本動詞 3（た形／過去式）', fr: 'Verbes de base 3 (forme en -ta / passé)' },
+    50: { en: 'Basic Verbs 4 (Ta-form / Past)', zh_TW: '基本動詞 4（た形／過去式）', zh_CN: '基本动词 4（た形／过去式）', ko: '기본 동사 4 (과거/다형)', zh_HK: '基本動詞 4（た形／過去式）', fr: 'Verbes de base 4 (forme en -ta / passé)' },
+    51: { en: 'Basic Verbs 5 (Ta-form / Past)', zh_TW: '基本動詞 5（た形／過去式）', zh_CN: '基本动词 5（た形／过去式）', ko: '기본 동사 5 (과거/다형)', zh_HK: '基本動詞 5（た形／過去式）', fr: 'Verbes de base 5 (forme en -ta / passé)' }
   };
 
   // Helper to format bilingual title: 日本語 (各言語訳)
