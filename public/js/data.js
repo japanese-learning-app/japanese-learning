@@ -10473,8 +10473,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "起きる",
-    "reading": "おきる",
+    "word": "起きる・起きます",
+    "reading": "おきる・おきます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to wake up / to get up",
@@ -10501,8 +10501,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "勉強をする",
-    "reading": "べんきょうする",
+    "word": "勉強をする・勉強をします",
+    "reading": "べんきょうをする・べんきょうをします",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to study",
@@ -10529,8 +10529,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "行く",
-    "reading": "いく",
+    "word": "行く・行きます",
+    "reading": "いく・いきます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to go",
@@ -10557,8 +10557,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "帰る",
-    "reading": "かえる",
+    "word": "帰る・帰ります",
+    "reading": "かえる・かえります",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to return / to go home",
@@ -10585,8 +10585,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "来る",
-    "reading": "くる",
+    "word": "来る・来ます",
+    "reading": "くる・きます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to come",
@@ -10613,8 +10613,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "食べる",
-    "reading": "たべる",
+    "word": "食べる・食べます",
+    "reading": "たべる・たべます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to eat",
@@ -10641,8 +10641,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "飲む",
-    "reading": "のむ",
+    "word": "飲む・飲みます",
+    "reading": "のむ・のみます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to drink",
@@ -10669,8 +10669,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "寝る",
-    "reading": "ねる",
+    "word": "寝る・寝ます",
+    "reading": "ねる・ねます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to sleep / to go to bed",
@@ -10697,8 +10697,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "見る",
-    "reading": "みる",
+    "word": "見る・見ます",
+    "reading": "みる・みます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to look / to watch / to see",
@@ -10725,8 +10725,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "聞く",
-    "reading": "きく",
+    "word": "聞く・聞きます",
+    "reading": "きく・ききます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to ask / to hear",
@@ -10753,8 +10753,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "聴く",
-    "reading": "きく",
+    "word": "聴く・聴きます",
+    "reading": "きく・ききます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to listen",
@@ -10781,8 +10781,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "読む",
-    "reading": "よむ",
+    "word": "読む・読みます",
+    "reading": "よむ・よみます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to read",
@@ -10809,8 +10809,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "話す",
-    "reading": "はなす",
+    "word": "話す・話します",
+    "reading": "はなす・はなします",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to speak / to talk",
@@ -10837,8 +10837,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "会う",
-    "reading": "あう",
+    "word": "会う・会います",
+    "reading": "あう・あいます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to meet / to see someone",
@@ -10865,8 +10865,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "買う",
-    "reading": "かう",
+    "word": "買う・買います",
+    "reading": "かう・かいます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to buy / to purchase",
@@ -10893,8 +10893,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "する、します",
-    "reading": "する、します",
+    "word": "する・します",
+    "reading": "する・します",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to do",
@@ -10921,8 +10921,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "始まる",
-    "reading": "はじまる",
+    "word": "始まる・始まります",
+    "reading": "はじまる・はじまります",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to begin / to start (intransitive)",
@@ -10949,8 +10949,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "終わる",
-    "reading": "おわる",
+    "word": "終わる・終わります",
+    "reading": "おわる・おわります",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to end / to finish (intransitive)",
@@ -10977,8 +10977,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "働く",
-    "reading": "はたらく",
+    "word": "働く・働きます",
+    "reading": "はたらく・はたらきます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to work",
@@ -11005,8 +11005,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "驚く",
-    "reading": "おどろく",
+    "word": "驚く・驚きます",
+    "reading": "おどろく・おどろきます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to be surprised",
@@ -11033,8 +11033,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "忘れる",
-    "reading": "わすれる",
+    "word": "忘れる・忘れます",
+    "reading": "わすれる・わすれます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to forget",
@@ -11061,8 +11061,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "覚える",
-    "reading": "おぼえる",
+    "word": "覚える・覚えます",
+    "reading": "おぼえる・おぼえます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to remember / to memorize",
@@ -11089,8 +11089,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "乗る",
-    "reading": "のる",
+    "word": "乗る・乗ります",
+    "reading": "のる・のります",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to get on / to ride",
@@ -11117,8 +11117,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "降りる",
-    "reading": "おりる",
+    "word": "降りる・降ります",
+    "reading": "おりる・おります",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to get off",
@@ -11145,8 +11145,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "休む",
-    "reading": "やすむ",
+    "word": "休む・休みます",
+    "reading": "やすむ・やすみます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to rest",
@@ -11173,8 +11173,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(1)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "遊ぶ",
-    "reading": "あそぶ",
+    "word": "遊ぶ・遊びます",
+    "reading": "あそぶ・あそびます",
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to hang out ,to play",
@@ -12881,8 +12881,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "でます",
-    "reading": "でる",
+    "word": "出る・出ます",
+    "reading": "でる・でます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to leave / to go out",
@@ -12909,8 +12909,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "はいります",
-    "reading": "はいる",
+    "word": "入る・入ります",
+    "reading": "はいる・はいります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to enter",
@@ -12937,8 +12937,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "つきます",
-    "reading": "つく",
+    "word": "着く・着きます",
+    "reading": "つく・つきます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to arrive",
@@ -12965,8 +12965,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "わたります",
-    "reading": "わたる",
+    "word": "渡る・渡ります",
+    "reading": "わたる・わたります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to cross",
@@ -12993,8 +12993,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "あるきます",
-    "reading": "あるく",
+    "word": "歩く・歩きます",
+    "reading": "あるく・あるきます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to walk",
@@ -13021,8 +13021,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "はしります",
-    "reading": "はしる",
+    "word": "走る・走ります",
+    "reading": "はしる・はしります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to run",
@@ -13049,8 +13049,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "おこします",
-    "reading": "おこす",
+    "word": "起こす・起こします",
+    "reading": "おこす・おこします",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to wake someone up",
@@ -13077,8 +13077,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "あらいます",
-    "reading": "あらう",
+    "word": "洗う・洗います",
+    "reading": "あらう・あらいます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to wash",
@@ -13105,8 +13105,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "きます",
-    "reading": "きる",
+    "word": "着る・着ます",
+    "reading": "きる・きます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to wear / to put on (top)",
@@ -13133,8 +13133,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "ぬぎます",
-    "reading": "ぬぐ",
+    "word": "脱ぐ・脱ぎます",
+    "reading": "ぬぐ・ぬぎます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to take off (clothes)",
@@ -13161,8 +13161,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "あけます",
-    "reading": "あける",
+    "word": "開ける・開けます",
+    "reading": "あける・あけます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to open",
@@ -13189,8 +13189,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "しめます",
-    "reading": "しめる",
+    "word": "閉める・閉めます",
+    "reading": "しめる・しめます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to close",
@@ -13217,8 +13217,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "つかいます",
-    "reading": "つかう",
+    "word": "使う・使います",
+    "reading": "つかう・つかいます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to use",
@@ -13245,8 +13245,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "つくります",
-    "reading": "つくる",
+    "word": "作る・作ります",
+    "reading": "つくる・つくります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to make",
@@ -13273,8 +13273,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "きります",
-    "reading": "きる",
+    "word": "切る・切ります",
+    "reading": "きる・きります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to cut",
@@ -13301,8 +13301,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "かきます",
-    "reading": "かく",
+    "word": "書く・書きます",
+    "reading": "かく・かきます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to write",
@@ -13329,8 +13329,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "こたえます",
-    "reading": "こたえる",
+    "word": "答える・答えます",
+    "reading": "こたえる・こたえます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to answer",
@@ -13357,8 +13357,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "おしえます",
-    "reading": "おしえる",
+    "word": "教える・教えます",
+    "reading": "おしえる・おしえます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to teach / to tell",
@@ -13385,8 +13385,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "きこえます",
-    "reading": "きこえる",
+    "word": "聞こえる・聞こえます",
+    "reading": "きこえる・きこえます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to be able to hear / can hear",
@@ -13413,8 +13413,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "みえます",
-    "reading": "みえる",
+    "word": "見える・見えます",
+    "reading": "みえる・みえます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to be able to see / can see",
@@ -13441,8 +13441,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "まちます",
-    "reading": "まつ",
+    "word": "待つ・待ちます",
+    "reading": "まつ・まちます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to wait",
@@ -13469,8 +13469,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "おもいます",
-    "reading": "おもう",
+    "word": "思う・思います",
+    "reading": "おもう・おもいます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to think / to feel",
@@ -13497,8 +13497,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "知る",
-    "reading": "しる",
+    "word": "知る・知ります",
+    "reading": "しる・しります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to know / to find out",
@@ -13525,8 +13525,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "わかる",
-    "reading": "わかる",
+    "word": "わかる・わかります",
+    "reading": "わかる・わかります",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to understand",
@@ -13553,8 +13553,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(2)",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "できる",
-    "reading": "できる",
+    "word": "できる・できます",
+    "reading": "できる・できます",
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to be able to / can",
@@ -13581,8 +13581,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "勉強",
-    "reading": "べんきょう",
+    "word": "勉強する・勉強します",
+    "reading": "べんきょうする・べんきょうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "studying",
@@ -13601,7 +13601,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗將來可以喺日本做嘢，我每晚收工之後都會溫日文。",
       "fr": "Pour travailler au Japon à l'avenir, j'étudie le japonais chaque soir après le travail."
     },
-    "related": "【語彙】勉強 (する動詞（名詞）に関する基本語彙)"
+    "related": "【原型（辞書形）】勉強する\n【ます形】勉強します\n【名詞形】勉強\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0486",
@@ -13609,8 +13609,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "仕事",
-    "reading": "しごと",
+    "word": "仕事する・仕事します",
+    "reading": "しごとする・しごとします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "work / job",
@@ -13629,7 +13629,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我漸漸適應咗新嘅工作，每日都過得好充實。",
       "fr": "Je m'habitue peu à peu à mon nouveau travail et chaque jour est très épanouissant."
     },
-    "related": "【名詞・する動詞】働くこと・職業"
+    "related": "【原型（辞書形）】仕事する\n【ます形】仕事します\n【名詞形】仕事\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0487",
@@ -13637,8 +13637,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "買い物",
-    "reading": "かいもの",
+    "word": "買い物する・買い物します",
+    "reading": "かいものする・かいものします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "shopping",
@@ -13657,7 +13657,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末去百貨公司購物買東西。<br>正在找新鞋子。",
       "fr": "I'm going shopping at the department store on the weekend.<br>I'm looking for new shoes."
     },
-    "related": "【名詞・する動詞】買い物をする"
+    "related": "【原型（辞書形）】買い物する\n【ます形】買い物します\n【名詞形】買い物\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0488",
@@ -13665,8 +13665,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "旅行",
-    "reading": "りょこう",
+    "word": "旅行する・旅行します",
+    "reading": "りょこうする・りょこうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "travel / trip",
@@ -13685,7 +13685,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月要去北海道旅行。<br>想吃美味的海鮮！",
       "fr": "I'm going on a trip to Hokkaido next month.<br>I want to eat delicious seafood!"
     },
-    "related": "【名詞・する動詞】旅行をする"
+    "related": "【原型（辞書形）】旅行する\n【ます形】旅行します\n【名詞形】旅行\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0489",
@@ -13693,8 +13693,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "料理",
-    "reading": "りょうり",
+    "word": "料理する・料理します",
+    "reading": "りょうりする・りょうりします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "cooking / dish",
@@ -13713,7 +13713,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚晚餐我來親手料理。<br>你想吃什麼？",
       "fr": "I will cook dinner tonight.<br>What do you want to eat?"
     },
-    "related": "【名詞・する動詞】料理をする"
+    "related": "【原型（辞書形）】料理する\n【ます形】料理します\n【名詞形】料理\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0490",
@@ -13721,8 +13721,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "洗濯",
-    "reading": "せんたく",
+    "word": "洗濯する・洗濯します",
+    "reading": "せんたくする・せんたくします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "laundry / washing clothes",
@@ -13741,7 +13741,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣很好，把洗好的衣服晾在外面。<br>看起來馬上就會乾呢。",
       "fr": "The weather is good, so I hung the laundry outside.<br>It seems like it will dry soon."
     },
-    "related": "【名詞・する動詞】洗濯をする"
+    "related": "【原型（辞書形）】洗濯する\n【ます形】洗濯します\n【名詞形】洗濯\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0491",
@@ -13749,8 +13749,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "掃除",
-    "reading": "そうじ",
+    "word": "掃除する・掃除します",
+    "reading": "そうじする・そうじします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "cleaning / tidying",
@@ -13769,7 +13769,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "把房間打掃得乾乾淨淨。<br>待著真舒服呢。",
       "fr": "I cleaned the room cleanly.<br>I can spend time comfortably."
     },
-    "related": "【名詞・する動詞】掃除をする"
+    "related": "【原型（辞書形）】掃除する\n【ます形】掃除します\n【名詞形】掃除\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0492",
@@ -13777,8 +13777,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "散歩",
-    "reading": "さんぽ",
+    "word": "散歩する・散歩します",
+    "reading": "さんぽする・さんぽします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "walk / stroll",
@@ -13797,7 +13797,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "傍晚跟愛犬一起散步。<br>涼涼的很舒服的時光。",
       "fr": "I take a walk with my dog in the evening.<br>It's cool and pleasant time."
     },
-    "related": "【名詞・する動詞】散歩をする"
+    "related": "【原型（辞書形）】散歩する\n【ます形】散歩します\n【名詞形】散歩\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0493",
@@ -13805,8 +13805,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "運転",
-    "reading": "うんてん",
+    "word": "運転する・運転します",
+    "reading": "うんてんする・うんてんします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "driving",
@@ -13825,7 +13825,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開車最注重的就是安全第一呢。<br>別忘了繫安全帶。",
       "fr": "Safe driving is number one for cars.<br>Don't forget your seatbelt."
     },
-    "related": "【名詞・する動詞】車を運転する"
+    "related": "【原型（辞書形）】運転する\n【ます形】運転します\n【名詞形】運転\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0494",
@@ -13833,8 +13833,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "運動",
-    "reading": "うんどう",
+    "word": "運動する・運動します",
+    "reading": "うんどうする・うんどうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "exercise / sport",
@@ -13853,7 +13853,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了健康開始去健身房運動。<br>流流汗整個人都神清氣爽。",
       "fr": "I started exercising at the gym for health.<br>Sweating feels refreshing."
     },
-    "related": "【名詞・する動詞】体を動かすこと"
+    "related": "【原型（辞書形）】運動する\n【ます形】運動します\n【名詞形】運動\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0495",
@@ -13861,8 +13861,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "食事",
-    "reading": "しょくじ",
+    "word": "食事する・食事します",
+    "reading": "しょくじする・しょくじします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "meal / dining",
@@ -13881,7 +13881,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "全家人聚在一起開心地用餐。<br>聊得好盡興喔。",
       "fr": "The whole family enjoyed a meal together.<br>The conversation was lively."
     },
-    "related": "【名詞・する動詞】ご飯を食べること"
+    "related": "【原型（辞書形）】食事する\n【ます形】食事します\n【名詞形】食事\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0496",
@@ -13889,8 +13889,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "電話",
-    "reading": "でんわ",
+    "word": "電話する・電話します",
+    "reading": "でんわする・でんわします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "phone call / telephone",
@@ -13909,7 +13909,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭火車之前，我打咗個緊急電話。",
       "fr": "Avant de monter dans le train, j'ai passé un coup de fil urgent."
     },
-    "related": "【語彙】電話 (する動詞（名詞）に関する基本語彙)"
+    "related": "【原型（辞書形）】電話する\n【ます形】電話します\n【名詞形】電話\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0497",
@@ -13917,8 +13917,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "練習",
-    "reading": "れんしゅう",
+    "word": "練習する・練習します",
+    "reading": "れんしゅうする・れんしゅうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "practice",
@@ -13937,7 +13937,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗演講嘅正式發表，我每日喺屋企都好大聲噉練習。",
       "fr": "Pour préparer mon discours officiel, je m'entraîne à voix haute chaque jour chez moi."
     },
-    "related": "【語彙】練習 (する動詞（名詞）に関する基本語彙)"
+    "related": "【原型（辞書形）】練習する\n【ます形】練習します\n【名詞形】練習\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0498",
@@ -13945,8 +13945,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "準備",
-    "reading": "じゅんび",
+    "word": "準備する・準備します",
+    "reading": "じゅんびする・じゅんびします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "preparation",
@@ -13965,7 +13965,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "旅行的準備已經做好了嗎？<br>別忘了帶護照喔。",
       "fr": "Have you finished preparing for the trip?<br>Don't forget to take your passport."
     },
-    "related": "【名詞・する動詞】前もって用意すること"
+    "related": "【原型（辞書形）】準備する\n【ます形】準備します\n【名詞形】準備\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0499",
@@ -13973,8 +13973,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "約束",
-    "reading": "やくそく",
+    "word": "約束する・約束します",
+    "reading": "やくそくする・やくそくします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "promise / appointment / plans",
@@ -13993,7 +13993,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "跟朋友約了今晚看電影。<br>不能遲到要準時去！",
       "fr": "I made an appointment with a friend to watch a movie tonight.<br>I'll go without being late!"
     },
-    "related": "【名詞・する動詞】取り決め・アポイント"
+    "related": "【原型（辞書形）】約束する\n【ます形】約束します\n【名詞形】約束\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0500",
@@ -14001,8 +14001,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "紹介",
-    "reading": "しょうかい",
+    "word": "紹介する・紹介します",
+    "reading": "しょうかいする・しょうかいします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "introduction",
@@ -14021,7 +14021,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "向大家介紹新同事田中先生。<br>請多指教。",
       "fr": "Let me introduce our new colleague, Tanaka-san.<br>Please treat him well."
     },
-    "related": "【名詞・する動詞】引き合わせること"
+    "related": "【原型（辞書形）】紹介する\n【ます形】紹介します\n【名詞形】紹介\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0501",
@@ -14029,8 +14029,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "案内",
-    "reading": "あんない",
+    "word": "案内する・案内します",
+    "reading": "あんないする・あんないします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "guidance / directions / tour",
@@ -14049,7 +14049,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "他帶我導覽了東京的觀光景點。<br>非常開心！",
       "fr": "They guided me around Tokyo's sightseeing spots.<br>It was very fun!"
     },
-    "related": "【名詞・する動詞】道や場所を教え導くこと"
+    "related": "【原型（辞書形）】案内する\n【ます形】案内します\n【名詞形】案内\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0502",
@@ -14057,8 +14057,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "相談",
-    "reading": "そうだん",
+    "word": "相談する・相談します",
+    "reading": "そうだんする・そうだんします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "consultation / discussion / advice",
@@ -14077,7 +14077,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "向老師諮詢了升學就業方向。<br>得到了很好的建議喔。",
       "fr": "I consulted with the teacher about my future path.<br>I got good advice."
     },
-    "related": "【名詞・する動詞】話し合って決めること"
+    "related": "【原型（辞書形）】相談する\n【ます形】相談します\n【名詞形】相談\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0503",
@@ -14085,8 +14085,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "注意",
-    "reading": "ちゅうい",
+    "word": "注意する・注意します",
+    "reading": "ちゅういする・ちゅういします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "caution / warning / attention",
@@ -14105,7 +14105,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請注意不要在樓梯上滑倒。<br>要看清腳下喔。",
       "fr": "Be careful not to slip on the stairs.<br>Watch your step."
     },
-    "related": "【名詞・する動詞】気を付けること"
+    "related": "【原型（辞書形）】注意する\n【ます形】注意します\n【名詞形】注意\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0504",
@@ -14113,8 +14113,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "遅刻",
-    "reading": "ちこく",
+    "word": "遅刻する・遅刻します",
+    "reading": "ちこくする・ちこくします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "being late / tardiness",
@@ -14133,7 +14133,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為電車停駛，我稍微遲到了。<br>真的很不好意思。",
       "fr": "The train stopped, so I was a little late.<br>I am really sorry."
     },
-    "related": "【名詞・する動詞】時間に遅れること"
+    "related": "【原型（辞書形）】遅刻する\n【ます形】遅刻します\n【名詞形】遅刻\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0505",
@@ -14141,8 +14141,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "予約",
-    "reading": "よやく",
+    "word": "予約する・予約します",
+    "reading": "よやくする・よやくします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "reservation / booking",
@@ -14161,7 +14161,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在網路上預約了熱門餐廳。<br>真令人期待呢。",
       "fr": "I made a reservation for a popular restaurant online.<br>I'm looking forward to it."
     },
-    "related": "【名詞・する動詞】あらかじめ席などを押さえること"
+    "related": "【原型（辞書形）】予約する\n【ます形】予約します\n【名詞形】予約\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0506",
@@ -14169,8 +14169,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "結婚",
-    "reading": "けっこん",
+    "word": "結婚する・結婚します",
+    "reading": "けっこんする・けっこんします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "marriage / wedding",
@@ -14189,7 +14189,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "兩個人決定在下個月結婚。<br>由衷地為你們祝福！",
       "fr": "The two decided to get married next month.<br>Heartfelt congratulations!"
     },
-    "related": "【名詞・する動詞】夫婦になること"
+    "related": "【原型（辞書形）】結婚する\n【ます形】結婚します\n【名詞形】結婚\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0507",
@@ -14197,8 +14197,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "喧嘩",
-    "reading": "けんか",
+    "word": "喧嘩する・喧嘩します",
+    "reading": "けんかする・けんかします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "fight / argument / quarrel",
@@ -14217,7 +14217,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為微不足道的小事跟朋友吵架了。<br>想快點和好。",
       "fr": "I had a quarrel with my friend over a trivial thing.<br>I want to make up quickly."
     },
-    "related": "【名詞・する動詞】言い争い・争い"
+    "related": "【原型（辞書形）】喧嘩する\n【ます形】喧嘩します\n【名詞形】喧嘩\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0508",
@@ -14225,8 +14225,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "入学",
-    "reading": "にゅうがく",
+    "word": "入学する・入学します",
+    "reading": "にゅうがくする・にゅうがくします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "school enrollment / starting school",
@@ -14245,7 +14245,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "弟弟今年春天進了高中就讀。<br>新制服很適合他呢。",
       "fr": "My younger brother entered high school this spring.<br>The new uniform suits him."
     },
-    "related": "【名詞・する動詞】学校に入ること"
+    "related": "【原型（辞書形）】入学する\n【ます形】入学します\n【名詞形】入学\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0509",
@@ -14253,8 +14253,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "卒業",
-    "reading": "そつぎょう",
+    "word": "卒業する・卒業します",
+    "reading": "そつぎょうする・そつぎょうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "graduation",
@@ -14273,7 +14273,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "三月要從大學畢業了。<br>留下了滿滿的回憶。",
       "fr": "I will graduate from college in March.<br>I made so many memories."
     },
-    "related": "【名詞・する動詞】学業を終えること"
+    "related": "【原型（辞書形）】卒業する\n【ます形】卒業します\n【名詞形】卒業\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0510",
@@ -14281,8 +14281,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "出張",
-    "reading": "しゅっちょう",
+    "word": "出張する・出張します",
+    "reading": "しゅっちょうする・しゅっちょうします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "business trip",
@@ -14301,7 +14301,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從下週開始去大阪出差。<br>會搭新幹線去喔。",
       "fr": "I'm going on a business trip to Osaka next week.<br>I'll take the Shinkansen."
     },
-    "related": "【名詞・する動詞】仕事で遠方へ行くこと"
+    "related": "【原型（辞書形）】出張する\n【ます形】出張します\n【名詞形】出張\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0511",
@@ -14309,8 +14309,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "説明",
-    "reading": "せつめい",
+    "word": "説明する・説明します",
+    "reading": "せつめいする・せつめいします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "explanation",
@@ -14329,7 +14329,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師淺顯易懂地解說了文法規則。<br>完全聽懂了。",
       "fr": "The teacher explained the grammar rules clearly.<br>I was able to understand completely."
     },
-    "related": "【名詞・する動詞】内容を解き明かすこと"
+    "related": "【原型（辞書形）】説明する\n【ます形】説明します\n【名詞形】説明\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0512",
@@ -14337,8 +14337,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "確認",
-    "reading": "かくにん",
+    "word": "確認する・確認します",
+    "reading": "かくにんする・かくにんします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "confirmation / checking",
@@ -14357,7 +14357,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "再確認一次旅行行程吧。<br>時間都沒問題嗎？",
       "fr": "Let's check the travel schedule one more time.<br>Is the time okay?"
     },
-    "related": "【名詞・する動詞】確かめること"
+    "related": "【原型（辞書形）】確認する\n【ます形】確認します\n【名詞形】確認\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0513",
@@ -14365,8 +14365,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "する動詞（名詞）",
     "folder_id": "folder_2",
     "folder_name": "初級 11-20",
-    "word": "質問",
-    "reading": "しつもん",
+    "word": "質問する・質問します",
+    "reading": "しつもんする・しつもんします",
     "category": "する動詞（名詞）",
     "meaning": {
       "en": "question / inquiry",
@@ -14385,7 +14385,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請問可唔可以問關於日文文法嘅問題呀？ B: 當然得啦！有唔明嘅隨時問啦。",
       "fr": "A: Puis-je poser une question sur la grammaire japonaise ? B: Bien sûr ! N'hésitez pas à poser toutes vos questions."
     },
-    "related": "【語彙】質問 (する動詞（名詞）に関する基本語彙)"
+    "related": "【原型（辞書形）】質問する\n【ます形】質問します\n【名詞形】質問\n【グループ】3グループ (サ変)"
   },
   {
     "id": "card_0514",
@@ -18089,8 +18089,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "泳ぐ",
-    "reading": "およぐ",
+    "word": "泳ぐ・泳ぎます",
+    "reading": "およぐ・およぎます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to swim",
@@ -18117,8 +18117,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "疲れる",
-    "reading": "つかれる",
+    "word": "疲れる・疲れます",
+    "reading": "つかれる・つかれます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to get tired",
@@ -18145,8 +18145,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "出掛ける",
-    "reading": "でかける",
+    "word": "出掛ける・出掛けます",
+    "reading": "でかける・でかけます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to go out",
@@ -18173,8 +18173,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "つける",
-    "reading": "つける",
+    "word": "つける・つけます",
+    "reading": "つける・つけます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to turn on",
@@ -18201,8 +18201,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "消す",
-    "reading": "けす",
+    "word": "消す・消します",
+    "reading": "けす・けします",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to turn off",
@@ -18229,8 +18229,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "急ぐ",
-    "reading": "いそぐ",
+    "word": "急ぐ・急ぎます",
+    "reading": "いそぐ・いそぎます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to hurry",
@@ -18257,8 +18257,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "待つ",
-    "reading": "まつ",
+    "word": "待つ・待ちます",
+    "reading": "まつ・まちます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to wait",
@@ -18285,8 +18285,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "持つ",
-    "reading": "もつ",
+    "word": "持つ・持ちます",
+    "reading": "もつ・もちます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to hold / to have",
@@ -18313,8 +18313,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "取る",
-    "reading": "とる",
+    "word": "取る・取ります",
+    "reading": "とる・とります",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to take / to get",
@@ -18341,8 +18341,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "手伝う",
-    "reading": "てつだう",
+    "word": "手伝う・手伝います",
+    "reading": "てつだう・てつだいます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to help (with a task)",
@@ -18369,8 +18369,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "助ける",
-    "reading": "たすける",
+    "word": "助ける・助けます",
+    "reading": "たすける・たすけます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to help / to save",
@@ -18397,8 +18397,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "話す",
-    "reading": "はなす",
+    "word": "話す・話します",
+    "reading": "はなす・はなします",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to talk / to speak",
@@ -18425,8 +18425,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "呼ぶ",
-    "reading": "よぶ",
+    "word": "呼ぶ・呼びます",
+    "reading": "よぶ・よびます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to call",
@@ -18453,8 +18453,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "見せる",
-    "reading": "みせる",
+    "word": "見せる・見せます",
+    "reading": "みせる・みせます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to show",
@@ -18481,8 +18481,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "教える",
-    "reading": "おしえる",
+    "word": "教える・教えます",
+    "reading": "おしえる・おしえます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to teach / to tell",
@@ -18509,8 +18509,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "入る",
-    "reading": "はいる",
+    "word": "入る・入ります",
+    "reading": "はいる・はいります",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to enter / to go in",
@@ -18537,8 +18537,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "出る",
-    "reading": "でる",
+    "word": "出る・出ます",
+    "reading": "でる・でます",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to exit / to go out",
@@ -18565,8 +18565,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(3)",
     "folder_id": "folder_3",
     "folder_name": "初級 21-30",
-    "word": "（雨が）降る",
-    "reading": "ふる",
+    "word": "降る・降ります",
+    "reading": "ふる・ふります",
     "category": "基本動詞(3)",
     "meaning": {
       "en": "(rain) to fall",
@@ -21617,8 +21617,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "浴びる",
-    "reading": "あびる",
+    "word": "浴びる・浴びます",
+    "reading": "あびる・あびます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to shower / to bathe",
@@ -21645,8 +21645,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "乗り換える",
-    "reading": "のりかえる",
+    "word": "乗り換える・乗り換えます",
+    "reading": "のりかえる・のりかえます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to transfer",
@@ -21673,8 +21673,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "入れる",
-    "reading": "いれる",
+    "word": "入れる・入れます",
+    "reading": "いれる・いれます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to put in / to insert",
@@ -21701,8 +21701,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "出す",
-    "reading": "だす",
+    "word": "出す・出します",
+    "reading": "だす・だします",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to take out / to submit",
@@ -21729,8 +21729,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "押す",
-    "reading": "おす",
+    "word": "押す・押します",
+    "reading": "おす・おします",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to push",
@@ -21757,8 +21757,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "置く",
-    "reading": "おく",
+    "word": "置く・置きます",
+    "reading": "おく・おきます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to put / to place",
@@ -21785,8 +21785,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "作る",
-    "reading": "つくる",
+    "word": "作る・作ります",
+    "reading": "つくる・つくります",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to make / to cook",
@@ -21813,8 +21813,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "売る",
-    "reading": "うる",
+    "word": "売る・売ります",
+    "reading": "うる・うります",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to sell",
@@ -21841,8 +21841,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "止める",
-    "reading": "とめる",
+    "word": "止める・止めます",
+    "reading": "とめる・とめます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to stop / to park",
@@ -21869,8 +21869,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "座る",
-    "reading": "すわる",
+    "word": "座る・座ります",
+    "reading": "すわる・すわります",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to sit",
@@ -21897,8 +21897,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "立つ",
-    "reading": "たつ",
+    "word": "立つ・立ちます",
+    "reading": "たつ・たちます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to stand",
@@ -21925,8 +21925,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "住む",
-    "reading": "すむ",
+    "word": "住む・住みます",
+    "reading": "すむ・すみます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to live / to reside",
@@ -21953,8 +21953,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "吸う",
-    "reading": "すう",
+    "word": "吸う・吸います",
+    "reading": "すう・すいます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to smoke",
@@ -21981,8 +21981,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "覚える",
-    "reading": "おぼえる",
+    "word": "覚える・覚えます",
+    "reading": "おぼえる・おぼえます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to memorize",
@@ -22009,8 +22009,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "忘れる",
-    "reading": "わすれる",
+    "word": "忘れる・忘れます",
+    "reading": "わすれる・わすれます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to forget",
@@ -22037,8 +22037,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "失くす",
-    "reading": "なくす",
+    "word": "失くす・失くします",
+    "reading": "なくす・なくします",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to lose / to misplace",
@@ -22065,8 +22065,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "払う",
-    "reading": "はらう",
+    "word": "払う・払います",
+    "reading": "はらう・はらいます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to pay",
@@ -22093,8 +22093,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "返す",
-    "reading": "かえす",
+    "word": "返す・返します",
+    "reading": "かえす・かえします",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to return / to give back",
@@ -22121,8 +22121,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(4)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "辞める",
-    "reading": "やめる",
+    "word": "辞める・辞めます",
+    "reading": "やめる・やめます",
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to quit / to leave / to stop",
@@ -22149,8 +22149,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "調べる",
-    "reading": "しらべる",
+    "word": "調べる・調べます",
+    "reading": "しらべる・しらべます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to look up / to research",
@@ -22177,8 +22177,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "修理する",
-    "reading": "しゅうりをする",
+    "word": "修理する・修理します",
+    "reading": "しゅうりする・しゅうりします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to repair",
@@ -22205,8 +22205,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "連絡する",
-    "reading": "れんらくをする",
+    "word": "連絡する・連絡します",
+    "reading": "れんらくする・れんらくします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to contact / to get in touch",
@@ -22233,8 +22233,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "泊まる",
-    "reading": "とまる",
+    "word": "泊まる・泊まります",
+    "reading": "とまる・とまります",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to stay (overnight)",
@@ -22261,8 +22261,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "掃除する",
-    "reading": "そうじをする",
+    "word": "掃除する・掃除します",
+    "reading": "そうじする・そうじします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to clean",
@@ -22289,8 +22289,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "洗濯する",
-    "reading": "せんたくをする",
+    "word": "洗濯する・洗濯します",
+    "reading": "せんたくする・せんたくします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to do laundry",
@@ -22317,8 +22317,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "弾く",
-    "reading": "ひく",
+    "word": "弾く・弾きます",
+    "reading": "ひく・ひきます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to play (an instrument)",
@@ -22345,8 +22345,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "歌う",
-    "reading": "うたう",
+    "word": "歌う・歌います",
+    "reading": "うたう・うたいます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to sing",
@@ -22373,8 +22373,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "集める",
-    "reading": "あつめる",
+    "word": "集める・集めます",
+    "reading": "あつめる・あつめます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to collect / to gather",
@@ -22401,8 +22401,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "捨てる",
-    "reading": "すてる",
+    "word": "捨てる・捨てます",
+    "reading": "すてる・すてます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to throw away / to discard",
@@ -22429,8 +22429,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "変える",
-    "reading": "かえる",
+    "word": "変える・変えます",
+    "reading": "かえる・かえます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to change (transitive)",
@@ -22457,8 +22457,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "変わる",
-    "reading": "かわる",
+    "word": "変わる・変わります",
+    "reading": "かわる・かわります",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to change (intransitive)",
@@ -22485,8 +22485,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "運転をする",
-    "reading": "うんてんをする",
+    "word": "運転する・運転します",
+    "reading": "うんてんする・うんてんします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to drive",
@@ -22513,8 +22513,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "取る",
-    "reading": "とる",
+    "word": "取る・取ります",
+    "reading": "とる・とります",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to take / to get",
@@ -22541,8 +22541,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "言う",
-    "reading": "いう",
+    "word": "言う・言います",
+    "reading": "いう・いいます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to say",
@@ -22569,8 +22569,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "気を付ける",
-    "reading": "きをつける",
+    "word": "気を付ける・気を付けます",
+    "reading": "きをつける・きをつけます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to be careful / to watch out",
@@ -22597,8 +22597,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "留学をする",
-    "reading": "りゅうがくをする",
+    "word": "留学する・留学します",
+    "reading": "りゅうがくする・りゅうがくします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to study abroad",
@@ -22625,8 +22625,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "心配する",
-    "reading": "しんぱいをする",
+    "word": "心配する・心配します",
+    "reading": "しんぱいする・しんぱいします",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to worry",
@@ -22653,8 +22653,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "持って行く",
-    "reading": "もっていく",
+    "word": "持って行く・持って行きます",
+    "reading": "もっていく・もっていきます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to take (something) there",
@@ -22681,8 +22681,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "持ってくる",
-    "reading": "もってくる",
+    "word": "持ってくる・持ってきます",
+    "reading": "もってくる・もってきます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to bring (something) here",
@@ -22709,8 +22709,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "連れて行く",
-    "reading": "つれていく",
+    "word": "連れて行く・連れて行きます",
+    "reading": "つれていく・つれていきます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to take (someone) there",
@@ -22737,8 +22737,8 @@ window.INITIAL_VOCAB_DATA = [
     "section_title": "基本動詞(5)",
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
-    "word": "連れてくる",
-    "reading": "つれてくる",
+    "word": "連れてくる・連れてきます",
+    "reading": "つれてくる・つれてきます",
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to bring (someone) here",
