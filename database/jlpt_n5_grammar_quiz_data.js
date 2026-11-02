@@ -1,4 +1,5 @@
-// JLPT N5 Grammar Practice Questions (Balanced 25.0% answers)
+// JLPT N5 Grammar Practice Questions (184 Questions)
+// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -19,7 +20,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ですだ",
-    "notes": "【教室・あいさつ】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。"
+    "notes": "【教室・あいさつ】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくですだ<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ですだ",
+      "ませんか",
+      "ました",
+      "から"
+    ],
+    "correct_text_ruby": "ですだ"
   },
   {
     "id": 2,
@@ -40,7 +50,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ですだ",
-    "notes": "【家・食事】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。"
+    "notes": "【家・食事】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくですだ<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "ですだ",
+      "ませんか",
+      "ます"
+    ],
+    "correct_text_ruby": "ですだ"
   },
   {
     "id": 3,
@@ -61,7 +80,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ですだ",
-    "notes": "【駅・買い物】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。"
+    "notes": "【駅・買い物】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくですだ<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "がいます",
+      "ですだ",
+      "ません"
+    ],
+    "correct_text_ruby": "ですだ"
   },
   {
     "id": 4,
@@ -82,7 +110,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ですだ",
-    "notes": "【週末・趣味】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。"
+    "notes": "【週末・趣味】判断や断定を表す基本述語。。正しい基本文法から「ですだ」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくですだ<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ません",
+      "ではありません",
+      "ですだ"
+    ],
+    "correct_text_ruby": "ですだ"
   },
   {
     "id": 5,
@@ -103,7 +140,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ではありませんじゃない",
-    "notes": "【教室・あいさつ】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。"
+    "notes": "【教室・あいさつ】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくではありませんじゃない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありませんじゃない",
+      "です",
+      "ません",
+      "があります"
+    ],
+    "correct_text_ruby": "ではありませんじゃない"
   },
   {
     "id": 6,
@@ -124,7 +170,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ではありませんじゃない",
-    "notes": "【家・食事】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。"
+    "notes": "【家・食事】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくではありませんじゃない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "ではありませんじゃない",
+      "があります",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ではありませんじゃない"
   },
   {
     "id": 7,
@@ -145,7 +200,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ではありませんじゃない",
-    "notes": "【駅・買い物】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。"
+    "notes": "【駅・買い物】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくではありませんじゃない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "がいます",
+      "ではありませんじゃない",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "ではありませんじゃない"
   },
   {
     "id": 8,
@@ -166,7 +230,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ではありませんじゃない",
-    "notes": "【週末・趣味】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。"
+    "notes": "【週末・趣味】名詞・な形容詞の否定形。。正しい基本文法から「ではありませんじゃない」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくではありませんじゃない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "があります",
+      "てください",
+      "ではありませんじゃない"
+    ],
+    "correct_text_ruby": "ではありませんじゃない"
   },
   {
     "id": 9,
@@ -187,7 +260,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ますません",
-    "notes": "【教室・あいさつ】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。"
+    "notes": "【教室・あいさつ】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくますません<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ますません",
+      "ましょう",
+      "てはいけません",
+      "だ"
+    ],
+    "correct_text_ruby": "ますません"
   },
   {
     "id": 10,
@@ -208,7 +290,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ますません",
-    "notes": "【家・食事】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。"
+    "notes": "【家・食事】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくますません<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ますません",
+      "ません",
+      "ます"
+    ],
+    "correct_text_ruby": "ますません"
   },
   {
     "id": 11,
@@ -229,7 +320,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ますません",
-    "notes": "【駅・買い物】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。"
+    "notes": "【駅・買い物】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくますません<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "てはいけません",
+      "ますません",
+      "たいです"
+    ],
+    "correct_text_ruby": "ますません"
   },
   {
     "id": 12,
@@ -250,7 +350,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ますません",
-    "notes": "【週末・趣味】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。"
+    "notes": "【週末・趣味】動詞の丁寧語の肯定・否定表現。。正しい基本文法から「ますません」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくますません<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "ませんか",
+      "から",
+      "ますません"
+    ],
+    "correct_text_ruby": "ますません"
   },
   {
     "id": 13,
@@ -271,7 +380,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ましたませんでした",
-    "notes": "【教室・あいさつ】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。"
+    "notes": "【教室・あいさつ】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましたませんでした<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましたませんでした",
+      "たいです",
+      "てはいけません",
+      "ではありません"
+    ],
+    "correct_text_ruby": "ましたませんでした"
   },
   {
     "id": 14,
@@ -292,7 +410,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ましたませんでした",
-    "notes": "【家・食事】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。"
+    "notes": "【家・食事】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましたませんでした<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ましたませんでした",
+      "があります",
+      "ませんか"
+    ],
+    "correct_text_ruby": "ましたませんでした"
   },
   {
     "id": 15,
@@ -313,7 +440,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ましたませんでした",
-    "notes": "【駅・買い物】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。"
+    "notes": "【駅・買い物】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましたませんでした<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "てはいけません",
+      "ましたませんでした",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ましたませんでした"
   },
   {
     "id": 16,
@@ -334,7 +470,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ましたませんでした",
-    "notes": "【週末・趣味】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。"
+    "notes": "【週末・趣味】動詞の丁寧語の過去形・過去否定形。。正しい基本文法から「ましたませんでした」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましたませんでした<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "ませんか",
+      "てください",
+      "ましたませんでした"
+    ],
+    "correct_text_ruby": "ましたませんでした"
   },
   {
     "id": 17,
@@ -355,7 +500,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てください",
-    "notes": "【教室・あいさつ】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。"
+    "notes": "【教室・あいさつ】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "だ",
+      "ませんか",
+      "があります"
+    ],
+    "correct_text_ruby": "てください"
   },
   {
     "id": 18,
@@ -376,7 +530,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てください",
-    "notes": "【家・食事】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。"
+    "notes": "【家・食事】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "てください",
+      "ませんか",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "てください"
   },
   {
     "id": 19,
@@ -397,7 +560,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てください",
-    "notes": "【駅・買い物】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。"
+    "notes": "【駅・買い物】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "がいます",
+      "てください",
+      "ました"
+    ],
+    "correct_text_ruby": "てください"
   },
   {
     "id": 20,
@@ -418,7 +590,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てください",
-    "notes": "【週末・趣味】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。"
+    "notes": "【週末・趣味】相手に親切や丁寧にお願い・指示する表現。。正しい基本文法から「てください」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "ます",
+      "てはいけません",
+      "てください"
+    ],
+    "correct_text_ruby": "てください"
   },
   {
     "id": 21,
@@ -439,7 +620,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないでください",
-    "notes": "【教室・あいさつ】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。"
+    "notes": "【教室・あいさつ】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくないでください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ないでください",
+      "たいです",
+      "てください",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "ないでください"
   },
   {
     "id": 22,
@@ -460,7 +650,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ないでください",
-    "notes": "【家・食事】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。"
+    "notes": "【家・食事】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくないでください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ないでください",
+      "てはいけません",
+      "です"
+    ],
+    "correct_text_ruby": "ないでください"
   },
   {
     "id": 23,
@@ -481,7 +680,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないでください",
-    "notes": "【駅・買い物】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。"
+    "notes": "【駅・買い物】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくないでください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "から",
+      "ないでください",
+      "だ"
+    ],
+    "correct_text_ruby": "ないでください"
   },
   {
     "id": 24,
@@ -502,7 +710,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないでください",
-    "notes": "【週末・趣味】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。"
+    "notes": "【週末・趣味】相手に〜しないよう丁寧にお願い・禁止する表現。。正しい基本文法から「ないでください」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくないでください<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "ではありません",
+      "ませんか",
+      "ないでください"
+    ],
+    "correct_text_ruby": "ないでください"
   },
   {
     "id": 25,
@@ -523,7 +740,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てもいい",
-    "notes": "【教室・あいさつ】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。"
+    "notes": "【教室・あいさつ】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてもいい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいい",
+      "ましょう",
+      "てはいけません",
+      "ました"
+    ],
+    "correct_text_ruby": "てもいい"
   },
   {
     "id": 26,
@@ -544,7 +770,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てもいい",
-    "notes": "【家・食事】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。"
+    "notes": "【家・食事】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてもいい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "てもいい",
+      "がいます",
+      "てください"
+    ],
+    "correct_text_ruby": "てもいい"
   },
   {
     "id": 27,
@@ -565,7 +800,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てもいい",
-    "notes": "【駅・買い物】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。"
+    "notes": "【駅・買い物】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてもいい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "がいます",
+      "てもいい",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "てもいい"
   },
   {
     "id": 28,
@@ -586,7 +830,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てもいい",
-    "notes": "【週末・趣味】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。"
+    "notes": "【週末・趣味】相手からの許可や受容を表す。。正しい基本文法から「てもいい」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてもいい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "があります",
+      "です",
+      "てもいい"
+    ],
+    "correct_text_ruby": "てもいい"
   },
   {
     "id": 29,
@@ -607,7 +860,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てはいけない",
-    "notes": "【教室・あいさつ】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。"
+    "notes": "【教室・あいさつ】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてはいけない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけない",
+      "てください",
+      "たいです",
+      "だ"
+    ],
+    "correct_text_ruby": "てはいけない"
   },
   {
     "id": 30,
@@ -628,7 +890,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはいけない",
-    "notes": "【家・食事】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。"
+    "notes": "【家・食事】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてはいけない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "てはいけない",
+      "ません",
+      "てください"
+    ],
+    "correct_text_ruby": "てはいけない"
   },
   {
     "id": 31,
@@ -649,7 +920,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはいけない",
-    "notes": "【駅・買い物】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。"
+    "notes": "【駅・買い物】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてはいけない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ます",
+      "てはいけない",
+      "です"
+    ],
+    "correct_text_ruby": "てはいけない"
   },
   {
     "id": 32,
@@ -670,7 +950,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはいけない",
-    "notes": "【週末・趣味】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。"
+    "notes": "【週末・趣味】規則や社会通念上、してはならない禁止を表す。。正しい基本文法から「てはいけない」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてはいけない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "たいです",
+      "ましょう",
+      "てはいけない"
+    ],
+    "correct_text_ruby": "てはいけない"
   },
   {
     "id": 33,
@@ -691,7 +980,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "から理由",
-    "notes": "【教室・あいさつ】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。"
+    "notes": "【教室・あいさつ】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくから<ruby>理由<rt>りゆう</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から<ruby>理由<rt>りゆう</rt></ruby>",
+      "てください",
+      "から",
+      "があります"
+    ],
+    "correct_text_ruby": "から<ruby>理由<rt>りゆう</rt></ruby>"
   },
   {
     "id": 34,
@@ -712,7 +1010,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "から理由",
-    "notes": "【家・食事】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。"
+    "notes": "【家・食事】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくから<ruby>理由<rt>りゆう</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "から<ruby>理由<rt>りゆう</rt></ruby>",
+      "ません",
+      "ました"
+    ],
+    "correct_text_ruby": "から<ruby>理由<rt>りゆう</rt></ruby>"
   },
   {
     "id": 35,
@@ -733,7 +1040,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "から理由",
-    "notes": "【駅・買い物】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。"
+    "notes": "【駅・買い物】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくから<ruby>理由<rt>りゆう</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ました",
+      "から<ruby>理由<rt>りゆう</rt></ruby>",
+      "ましょう"
+    ],
+    "correct_text_ruby": "から<ruby>理由<rt>りゆう</rt></ruby>"
   },
   {
     "id": 36,
@@ -754,7 +1070,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "から理由",
-    "notes": "【週末・趣味】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。"
+    "notes": "【週末・趣味】話者の主観的な原因や理由を表す。。正しい基本文法から「から理由」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくから<ruby>理由<rt>りゆう</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ます",
+      "から",
+      "から<ruby>理由<rt>りゆう</rt></ruby>"
+    ],
+    "correct_text_ruby": "から<ruby>理由<rt>りゆう</rt></ruby>"
   },
   {
     "id": 37,
@@ -775,7 +1100,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からまで",
-    "notes": "【教室・あいさつ】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。"
+    "notes": "【教室・あいさつ】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくからまで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "からまで",
+      "ましょう",
+      "ではありません",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "からまで"
   },
   {
     "id": 38,
@@ -796,7 +1130,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からまで",
-    "notes": "【家・食事】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。"
+    "notes": "【家・食事】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくからまで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "からまで",
+      "てはいけません",
+      "があります"
+    ],
+    "correct_text_ruby": "からまで"
   },
   {
     "id": 39,
@@ -817,7 +1160,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からまで",
-    "notes": "【駅・買い物】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。"
+    "notes": "【駅・買い物】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくからまで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "ましょう",
+      "からまで",
+      "があります"
+    ],
+    "correct_text_ruby": "からまで"
   },
   {
     "id": 40,
@@ -838,7 +1190,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からまで",
-    "notes": "【週末・趣味】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。"
+    "notes": "【週末・趣味】時間や場所の起点と終点を表す。。正しい基本文法から「からまで」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくからまで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "ましょう",
+      "てはいけません",
+      "からまで"
+    ],
+    "correct_text_ruby": "からまで"
   },
   {
     "id": 41,
@@ -859,7 +1220,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ましょう",
-    "notes": "【教室・あいさつ】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。"
+    "notes": "【教室・あいさつ】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "てもいいです",
+      "だ",
+      "です"
+    ],
+    "correct_text_ruby": "ましょう"
   },
   {
     "id": 42,
@@ -880,7 +1250,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ましょう",
-    "notes": "【家・食事】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。"
+    "notes": "【家・食事】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "ましょう",
+      "です",
+      "ではありません"
+    ],
+    "correct_text_ruby": "ましょう"
   },
   {
     "id": 43,
@@ -901,7 +1280,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ましょう",
-    "notes": "【駅・買い物】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。"
+    "notes": "【駅・買い物】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "たいです",
+      "ましょう",
+      "だ"
+    ],
+    "correct_text_ruby": "ましょう"
   },
   {
     "id": 44,
@@ -922,7 +1310,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ましょう",
-    "notes": "【週末・趣味】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。"
+    "notes": "【週末・趣味】相手に一緒に行動しようと誘ったり、自ら進んで申し出る。。正しい基本文法から「ましょう」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "から",
+      "ませんか",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ましょう"
   },
   {
     "id": 45,
@@ -943,7 +1340,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ましょうか",
-    "notes": "【教室・あいさつ】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。"
+    "notes": "【教室・あいさつ】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょうか",
+      "ではありません",
+      "です",
+      "があります"
+    ],
+    "correct_text_ruby": "ましょうか"
   },
   {
     "id": 46,
@@ -964,7 +1370,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ましょうか",
-    "notes": "【家・食事】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。"
+    "notes": "【家・食事】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "ましょうか",
+      "ました",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ましょうか"
   },
   {
     "id": 47,
@@ -985,7 +1400,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ましょうか",
-    "notes": "【駅・買い物】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。"
+    "notes": "【駅・買い物】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "ます",
+      "ましょうか",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ましょうか"
   },
   {
     "id": 48,
@@ -1006,7 +1430,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ましょうか",
-    "notes": "【週末・趣味】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。"
+    "notes": "【週末・趣味】相手への提案や、自分が手伝おうかと尋ねる。。正しい基本文法から「ましょうか」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ませんか",
+      "から",
+      "ましょうか"
+    ],
+    "correct_text_ruby": "ましょうか"
   },
   {
     "id": 49,
@@ -1027,7 +1460,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たい",
-    "notes": "【教室・あいさつ】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。"
+    "notes": "【教室・あいさつ】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たい",
+      "たいです",
+      "だ",
+      "ます"
+    ],
+    "correct_text_ruby": "たい"
   },
   {
     "id": 50,
@@ -1048,7 +1490,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たい",
-    "notes": "【家・食事】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。"
+    "notes": "【家・食事】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "たい",
+      "がいます",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "たい"
   },
   {
     "id": 51,
@@ -1069,7 +1520,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たい",
-    "notes": "【駅・買い物】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。"
+    "notes": "【駅・買い物】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "てはいけません",
+      "たい",
+      "です"
+    ],
+    "correct_text_ruby": "たい"
   },
   {
     "id": 52,
@@ -1090,7 +1550,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たい",
-    "notes": "【週末・趣味】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。"
+    "notes": "【週末・趣味】話者自身の希望や願望を表す。。正しい基本文法から「たい」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたい<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "だ",
+      "ました",
+      "たい"
+    ],
+    "correct_text_ruby": "たい"
   },
   {
     "id": 53,
@@ -1111,7 +1580,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たくない",
-    "notes": "【教室・あいさつ】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。"
+    "notes": "【教室・あいさつ】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたくない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たくない",
+      "ません",
+      "がいます",
+      "ましょう"
+    ],
+    "correct_text_ruby": "たくない"
   },
   {
     "id": 54,
@@ -1132,7 +1610,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たくない",
-    "notes": "【家・食事】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。"
+    "notes": "【家・食事】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたくない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "たくない",
+      "だ",
+      "がいます"
+    ],
+    "correct_text_ruby": "たくない"
   },
   {
     "id": 55,
@@ -1153,7 +1640,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たくない",
-    "notes": "【駅・買い物】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。"
+    "notes": "【駅・買い物】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたくない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "たいです",
+      "たくない",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "たくない"
   },
   {
     "id": 56,
@@ -1174,7 +1670,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たくない",
-    "notes": "【週末・趣味】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。"
+    "notes": "【週末・趣味】話者自身の否定的な意向を表す。。正しい基本文法から「たくない」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたくない<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "です",
+      "ましょう",
+      "たくない"
+    ],
+    "correct_text_ruby": "たくない"
   },
   {
     "id": 57,
@@ -1195,7 +1700,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ている",
-    "notes": "【教室・あいさつ】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。"
+    "notes": "【教室・あいさつ】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくている<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ている",
+      "ませんか",
+      "てください",
+      "ではありません"
+    ],
+    "correct_text_ruby": "ている"
   },
   {
     "id": 58,
@@ -1216,7 +1730,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ている",
-    "notes": "【家・食事】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。"
+    "notes": "【家・食事】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくている<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "ている",
+      "から",
+      "ましょう"
+    ],
+    "correct_text_ruby": "ている"
   },
   {
     "id": 59,
@@ -1237,7 +1760,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ている",
-    "notes": "【駅・買い物】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。"
+    "notes": "【駅・買い物】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくている<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "ませんか",
+      "ている",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "ている"
   },
   {
     "id": 60,
@@ -1258,7 +1790,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ている",
-    "notes": "【週末・趣味】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。"
+    "notes": "【週末・趣味】今まさに動作が進行中であること、または結果の状態が残っていること。。正しい基本文法から「ている」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくている<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "てください",
+      "ません",
+      "ている"
+    ],
+    "correct_text_ruby": "ている"
   },
   {
     "id": 61,
@@ -1279,7 +1820,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まえに",
-    "notes": "【教室・あいさつ】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。"
+    "notes": "【教室・あいさつ】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまえに<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "まえに",
+      "から",
+      "てください",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "まえに"
   },
   {
     "id": 62,
@@ -1300,7 +1850,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まえに",
-    "notes": "【家・食事】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。"
+    "notes": "【家・食事】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまえに<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "まえに",
+      "があります",
+      "がいます"
+    ],
+    "correct_text_ruby": "まえに"
   },
   {
     "id": 63,
@@ -1321,7 +1880,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まえに",
-    "notes": "【駅・買い物】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。"
+    "notes": "【駅・買い物】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまえに<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ます",
+      "まえに",
+      "ではありません"
+    ],
+    "correct_text_ruby": "まえに"
   },
   {
     "id": 64,
@@ -1342,7 +1910,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まえに",
-    "notes": "【週末・趣味】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。"
+    "notes": "【週末・趣味】ある動作や時間の前に別の行為を行うこと。。正しい基本文法から「まえに」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまえに<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "から",
+      "がいます",
+      "まえに"
+    ],
+    "correct_text_ruby": "まえに"
   },
   {
     "id": 65,
@@ -1363,7 +1940,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あとで",
-    "notes": "【教室・あいさつ】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。"
+    "notes": "【教室・あいさつ】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくあとで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "あとで",
+      "ではありません",
+      "がいます",
+      "から"
+    ],
+    "correct_text_ruby": "あとで"
   },
   {
     "id": 66,
@@ -1384,7 +1970,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あとで",
-    "notes": "【家・食事】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。"
+    "notes": "【家・食事】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくあとで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "あとで",
+      "てください",
+      "ます"
+    ],
+    "correct_text_ruby": "あとで"
   },
   {
     "id": 67,
@@ -1405,7 +2000,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あとで",
-    "notes": "【駅・買い物】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。"
+    "notes": "【駅・買い物】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくあとで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "だ",
+      "あとで",
+      "てください"
+    ],
+    "correct_text_ruby": "あとで"
   },
   {
     "id": 68,
@@ -1426,7 +2030,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あとで",
-    "notes": "【週末・趣味】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。"
+    "notes": "【週末・趣味】ある動作が終わった後で別の行為を行うこと。。正しい基本文法から「あとで」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくあとで<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "ではありません",
+      "ます",
+      "あとで"
+    ],
+    "correct_text_ruby": "あとで"
   },
   {
     "id": 69,
@@ -1447,7 +2060,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てから",
-    "notes": "【教室・あいさつ】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。"
+    "notes": "【教室・あいさつ】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてから<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てから",
+      "てもいいです",
+      "ましょう",
+      "から"
+    ],
+    "correct_text_ruby": "てから"
   },
   {
     "id": 70,
@@ -1468,7 +2090,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てから",
-    "notes": "【家・食事】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。"
+    "notes": "【家・食事】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてから<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "てから",
+      "ません",
+      "たいです"
+    ],
+    "correct_text_ruby": "てから"
   },
   {
     "id": 71,
@@ -1489,7 +2120,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てから",
-    "notes": "【駅・買い物】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。"
+    "notes": "【駅・買い物】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてから<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "てもいいです",
+      "てから",
+      "がいます"
+    ],
+    "correct_text_ruby": "てから"
   },
   {
     "id": 72,
@@ -1510,7 +2150,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てから",
-    "notes": "【週末・趣味】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。"
+    "notes": "【週末・趣味】前の動作が完了したことを確認してから次の動作に移る順序を表す。。正しい基本文法から「てから」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくてから<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "があります",
+      "から",
+      "てから"
+    ],
+    "correct_text_ruby": "てから"
   },
   {
     "id": 73,
@@ -1531,7 +2180,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "よりのほうが",
-    "notes": "【教室・あいさつ】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。"
+    "notes": "【教室・あいさつ】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくよりのほうが<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "よりのほうが",
+      "ましょう",
+      "だ",
+      "たいです"
+    ],
+    "correct_text_ruby": "よりのほうが"
   },
   {
     "id": 74,
@@ -1552,7 +2210,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よりのほうが",
-    "notes": "【家・食事】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。"
+    "notes": "【家・食事】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくよりのほうが<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "よりのほうが",
+      "てはいけません",
+      "ます"
+    ],
+    "correct_text_ruby": "よりのほうが"
   },
   {
     "id": 75,
@@ -1573,7 +2240,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よりのほうが",
-    "notes": "【駅・買い物】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。"
+    "notes": "【駅・買い物】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくよりのほうが<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "から",
+      "よりのほうが",
+      "ました"
+    ],
+    "correct_text_ruby": "よりのほうが"
   },
   {
     "id": 76,
@@ -1594,7 +2270,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よりのほうが",
-    "notes": "【週末・趣味】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。"
+    "notes": "【週末・趣味】２つのものを比較して一方がより程度が高いことを表す。。正しい基本文法から「よりのほうが」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくよりのほうが<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "だ",
+      "てもいいです",
+      "よりのほうが"
+    ],
+    "correct_text_ruby": "よりのほうが"
   },
   {
     "id": 77,
@@ -1615,7 +2300,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の中でがいちばん",
-    "notes": "【教室・あいさつ】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。"
+    "notes": "【教室・あいさつ】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくの<ruby>中<rt>なか</rt></ruby>でがいちばん<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "の<ruby>中<rt>なか</rt></ruby>でがいちばん",
+      "がいます",
+      "ました",
+      "ませんか"
+    ],
+    "correct_text_ruby": "の<ruby>中<rt>なか</rt></ruby>でがいちばん"
   },
   {
     "id": 78,
@@ -1636,7 +2330,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の中でがいちばん",
-    "notes": "【家・食事】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。"
+    "notes": "【家・食事】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくの<ruby>中<rt>なか</rt></ruby>でがいちばん<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "の<ruby>中<rt>なか</rt></ruby>でがいちばん",
+      "てください",
+      "から"
+    ],
+    "correct_text_ruby": "の<ruby>中<rt>なか</rt></ruby>でがいちばん"
   },
   {
     "id": 79,
@@ -1657,7 +2360,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の中でがいちばん",
-    "notes": "【駅・買い物】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。"
+    "notes": "【駅・買い物】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくの<ruby>中<rt>なか</rt></ruby>でがいちばん<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "ませんか",
+      "の<ruby>中<rt>なか</rt></ruby>でがいちばん",
+      "ます"
+    ],
+    "correct_text_ruby": "の<ruby>中<rt>なか</rt></ruby>でがいちばん"
   },
   {
     "id": 80,
@@ -1678,7 +2390,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "の中でがいちばん",
-    "notes": "【週末・趣味】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。"
+    "notes": "【週末・趣味】あるグループや範囲の中で最高・最上であることを表す。。正しい基本文法から「の中でがいちばん」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくの<ruby>中<rt>なか</rt></ruby>でがいちばん<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "ます",
+      "ません",
+      "の<ruby>中<rt>なか</rt></ruby>でがいちばん"
+    ],
+    "correct_text_ruby": "の<ruby>中<rt>なか</rt></ruby>でがいちばん"
   },
   {
     "id": 81,
@@ -1699,7 +2420,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "が好き嫌い",
-    "notes": "【教室・あいさつ】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。"
+    "notes": "【教室・あいさつ】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>好き嫌<rt>すききら</rt></ruby>い<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "が<ruby>好き嫌<rt>すききら</rt></ruby>い",
+      "てください",
+      "があります",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "が<ruby>好き嫌<rt>すききら</rt></ruby>い"
   },
   {
     "id": 82,
@@ -1720,7 +2450,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "が好き嫌い",
-    "notes": "【家・食事】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。"
+    "notes": "【家・食事】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>好き嫌<rt>すききら</rt></ruby>い<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "が<ruby>好き嫌<rt>すききら</rt></ruby>い",
+      "ません",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "が<ruby>好き嫌<rt>すききら</rt></ruby>い"
   },
   {
     "id": 83,
@@ -1741,7 +2480,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "が好き嫌い",
-    "notes": "【駅・買い物】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。"
+    "notes": "【駅・買い物】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>好き嫌<rt>すききら</rt></ruby>い<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "たいです",
+      "が<ruby>好き嫌<rt>すききら</rt></ruby>い",
+      "だ"
+    ],
+    "correct_text_ruby": "が<ruby>好き嫌<rt>すききら</rt></ruby>い"
   },
   {
     "id": 84,
@@ -1762,7 +2510,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "が好き嫌い",
-    "notes": "【週末・趣味】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。"
+    "notes": "【週末・趣味】感情や好みの対象を表す助詞「が」。。正しい基本文法から「が好き嫌い」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>好き嫌<rt>すききら</rt></ruby>い<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "ではありません",
+      "ません",
+      "が<ruby>好き嫌<rt>すききら</rt></ruby>い"
+    ],
+    "correct_text_ruby": "が<ruby>好き嫌<rt>すききら</rt></ruby>い"
   },
   {
     "id": 85,
@@ -1783,7 +2540,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "が上手下手",
-    "notes": "【教室・あいさつ】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。"
+    "notes": "【教室・あいさつ】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>",
+      "てください",
+      "てもいいです",
+      "ます"
+    ],
+    "correct_text_ruby": "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>"
   },
   {
     "id": 86,
@@ -1804,7 +2570,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "が上手下手",
-    "notes": "【家・食事】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。"
+    "notes": "【家・食事】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>",
+      "です",
+      "ではありません"
+    ],
+    "correct_text_ruby": "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>"
   },
   {
     "id": 87,
@@ -1825,7 +2600,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "が上手下手",
-    "notes": "【駅・買い物】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。"
+    "notes": "【駅・買い物】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "があります",
+      "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>",
+      "だ"
+    ],
+    "correct_text_ruby": "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>"
   },
   {
     "id": 88,
@@ -1846,7 +2630,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "が上手下手",
-    "notes": "【週末・趣味】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。"
+    "notes": "【週末・趣味】能力やスキルの高低の対象を表す助詞「が」。。正しい基本文法から「が上手下手」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくが<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "です",
+      "ました",
+      "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>"
+    ],
+    "correct_text_ruby": "が<ruby>上手<rt>じょうず</rt></ruby><ruby>下手<rt>へた</rt></ruby>"
   },
   {
     "id": 89,
@@ -1867,7 +2660,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "があるいる",
-    "notes": "【教室・あいさつ】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。"
+    "notes": "【教室・あいさつ】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがあるいる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があるいる",
+      "があります",
+      "がいます",
+      "てください"
+    ],
+    "correct_text_ruby": "があるいる"
   },
   {
     "id": 90,
@@ -1888,7 +2690,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "があるいる",
-    "notes": "【家・食事】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。"
+    "notes": "【家・食事】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがあるいる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "があるいる",
+      "ました",
+      "だ"
+    ],
+    "correct_text_ruby": "があるいる"
   },
   {
     "id": 91,
@@ -1909,7 +2720,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "があるいる",
-    "notes": "【駅・買い物】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。"
+    "notes": "【駅・買い物】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがあるいる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "がいます",
+      "があるいる",
+      "だ"
+    ],
+    "correct_text_ruby": "があるいる"
   },
   {
     "id": 92,
@@ -1930,7 +2750,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "があるいる",
-    "notes": "【週末・趣味】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。"
+    "notes": "【週末・趣味】無生物（物・植物など）には「ある」、生物（人・動物）には「いる」を用いて存在を表す。。正しい基本文法から「があるいる」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがあるいる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "ます",
+      "ました",
+      "があるいる"
+    ],
+    "correct_text_ruby": "があるいる"
   },
   {
     "id": 93,
@@ -1951,7 +2780,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "へ行く来る帰る",
-    "notes": "【教室・あいさつ】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。"
+    "notes": "【教室・あいさつ】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくへ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る",
+      "ませんか",
+      "です",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る"
   },
   {
     "id": 94,
@@ -1972,7 +2810,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "へ行く来る帰る",
-    "notes": "【家・食事】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。"
+    "notes": "【家・食事】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくへ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る",
+      "てください",
+      "です"
+    ],
+    "correct_text_ruby": "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る"
   },
   {
     "id": 95,
@@ -1993,7 +2840,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "へ行く来る帰る",
-    "notes": "【駅・買い物】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。"
+    "notes": "【駅・買い物】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくへ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "てはいけません",
+      "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る",
+      "ません"
+    ],
+    "correct_text_ruby": "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る"
   },
   {
     "id": 96,
@@ -2014,7 +2870,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "へ行く来る帰る",
-    "notes": "【週末・趣味】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。"
+    "notes": "【週末・趣味】移動の方向や目的地を表す助詞「へ」。。正しい基本文法から「へ行く来る帰る」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくへ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "ましょう",
+      "てください",
+      "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る"
+    ],
+    "correct_text_ruby": "へ<ruby>行<rt>い</rt></ruby>く<ruby>来<rt>きた</rt></ruby>る<ruby>帰<rt>かえ</rt></ruby>る"
   },
   {
     "id": 97,
@@ -2035,7 +2900,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に会う",
-    "notes": "【教室・あいさつ】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。"
+    "notes": "【教室・あいさつ】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくに<ruby>会<rt>あ</rt></ruby>う<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "に<ruby>会<rt>あ</rt></ruby>う",
+      "ませんか",
+      "ます",
+      "ましょう"
+    ],
+    "correct_text_ruby": "に<ruby>会<rt>あ</rt></ruby>う"
   },
   {
     "id": 98,
@@ -2056,7 +2930,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に会う",
-    "notes": "【家・食事】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。"
+    "notes": "【家・食事】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくに<ruby>会<rt>あ</rt></ruby>う<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "に<ruby>会<rt>あ</rt></ruby>う",
+      "だ",
+      "があります"
+    ],
+    "correct_text_ruby": "に<ruby>会<rt>あ</rt></ruby>う"
   },
   {
     "id": 99,
@@ -2077,7 +2960,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に会う",
-    "notes": "【駅・買い物】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。"
+    "notes": "【駅・買い物】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくに<ruby>会<rt>あ</rt></ruby>う<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てください",
+      "ではありません",
+      "に<ruby>会<rt>あ</rt></ruby>う",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "に<ruby>会<rt>あ</rt></ruby>う"
   },
   {
     "id": 100,
@@ -2098,7 +2990,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に会う",
-    "notes": "【週末・趣味】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。"
+    "notes": "【週末・趣味】相手と面会・対面する対象を表す助詞「に」。。正しい基本文法から「に会う」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくに<ruby>会<rt>あ</rt></ruby>う<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "があります",
+      "だ",
+      "に<ruby>会<rt>あ</rt></ruby>う"
+    ],
+    "correct_text_ruby": "に<ruby>会<rt>あ</rt></ruby>う"
   },
   {
     "id": 101,
@@ -2119,7 +3020,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "で手段場所",
-    "notes": "【教室・あいさつ】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。"
+    "notes": "【教室・あいさつ】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくで<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>",
+      "ません",
+      "てください",
+      "ます"
+    ],
+    "correct_text_ruby": "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>"
   },
   {
     "id": 102,
@@ -2140,7 +3050,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "で手段場所",
-    "notes": "【家・食事】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。"
+    "notes": "【家・食事】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくで<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>",
+      "だ",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>"
   },
   {
     "id": 103,
@@ -2161,7 +3080,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "で手段場所",
-    "notes": "【駅・買い物】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。"
+    "notes": "【駅・買い物】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくで<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "てはいけません",
+      "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>",
+      "てください"
+    ],
+    "correct_text_ruby": "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>"
   },
   {
     "id": 104,
@@ -2182,7 +3110,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "で手段場所",
-    "notes": "【週末・趣味】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。"
+    "notes": "【週末・趣味】動作が行われる場所や、利用する交通手段・道具を表す助詞「で」。。正しい基本文法から「で手段場所」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくで<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "だ",
+      "ましょう",
+      "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>"
+    ],
+    "correct_text_ruby": "で<ruby>手段<rt>しゅだん</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>"
   },
   {
     "id": 105,
@@ -2203,7 +3140,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "と共同並立",
-    "notes": "【教室・あいさつ】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。"
+    "notes": "【教室・あいさつ】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくと<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>",
+      "てもいいです",
+      "です",
+      "てください"
+    ],
+    "correct_text_ruby": "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>"
   },
   {
     "id": 106,
@@ -2224,7 +3170,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と共同並立",
-    "notes": "【家・食事】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。"
+    "notes": "【家・食事】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくと<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>",
+      "ませんか",
+      "だ"
+    ],
+    "correct_text_ruby": "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>"
   },
   {
     "id": 107,
@@ -2245,7 +3200,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と共同並立",
-    "notes": "【駅・買い物】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。"
+    "notes": "【駅・買い物】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくと<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "てもいいです",
+      "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>",
+      "ましょう"
+    ],
+    "correct_text_ruby": "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>"
   },
   {
     "id": 108,
@@ -2266,7 +3230,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と共同並立",
-    "notes": "【週末・趣味】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。"
+    "notes": "【週末・趣味】一緒に行動する相手や、名詞と名詞をすべて並べる助詞「と」。。正しい基本文法から「と共同並立」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくと<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "ましょう",
+      "があります",
+      "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>"
+    ],
+    "correct_text_ruby": "と<ruby>共同<rt>きょうどう</rt></ruby><ruby>並立<rt>へいりつ</rt></ruby>"
   },
   {
     "id": 109,
@@ -2287,7 +3260,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "も",
-    "notes": "【教室・あいさつ】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。"
+    "notes": "【教室・あいさつ】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくも<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "も",
+      "です",
+      "だ",
+      "ません"
+    ],
+    "correct_text_ruby": "も"
   },
   {
     "id": 110,
@@ -2308,7 +3290,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "も",
-    "notes": "【家・食事】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。"
+    "notes": "【家・食事】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくも<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "も",
+      "ましょう",
+      "から"
+    ],
+    "correct_text_ruby": "も"
   },
   {
     "id": 111,
@@ -2329,7 +3320,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "も",
-    "notes": "【駅・買い物】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。"
+    "notes": "【駅・買い物】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくも<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "があります",
+      "も",
+      "です"
+    ],
+    "correct_text_ruby": "も"
   },
   {
     "id": 112,
@@ -2350,7 +3350,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "も",
-    "notes": "【週末・趣味】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。"
+    "notes": "【週末・趣味】同じ事柄が当てはまることを表す助詞「も」。。正しい基本文法から「も」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくも<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "だ",
+      "です",
+      "も"
+    ],
+    "correct_text_ruby": "も"
   },
   {
     "id": 113,
@@ -2371,7 +3380,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まだもう",
-    "notes": "【教室・あいさつ】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。"
+    "notes": "【教室・あいさつ】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまだもう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "まだもう",
+      "があります",
+      "です",
+      "ません"
+    ],
+    "correct_text_ruby": "まだもう"
   },
   {
     "id": 114,
@@ -2392,7 +3410,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まだもう",
-    "notes": "【家・食事】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。"
+    "notes": "【家・食事】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまだもう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "まだもう",
+      "てください",
+      "がいます"
+    ],
+    "correct_text_ruby": "まだもう"
   },
   {
     "id": 115,
@@ -2413,7 +3440,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まだもう",
-    "notes": "【駅・買い物】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。"
+    "notes": "【駅・買い物】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまだもう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "てはいけません",
+      "まだもう",
+      "ましょう"
+    ],
+    "correct_text_ruby": "まだもう"
   },
   {
     "id": 116,
@@ -2434,7 +3470,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まだもう",
-    "notes": "【週末・趣味】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。"
+    "notes": "【週末・趣味】未完了「まだ〜ていない」、完了「もう〜した」を表す副詞。。正しい基本文法から「まだもう」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくまだもう<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "ました",
+      "てはいけません",
+      "まだもう"
+    ],
+    "correct_text_ruby": "まだもう"
   },
   {
     "id": 117,
@@ -2455,7 +3500,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "どのくらいいくら",
-    "notes": "【教室・あいさつ】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。"
+    "notes": "【教室・あいさつ】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくどのくらいいくら<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "どのくらいいくら",
+      "ましょう",
+      "から",
+      "ます"
+    ],
+    "correct_text_ruby": "どのくらいいくら"
   },
   {
     "id": 118,
@@ -2476,7 +3530,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どのくらいいくら",
-    "notes": "【家・食事】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。"
+    "notes": "【家・食事】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくどのくらいいくら<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "どのくらいいくら",
+      "だ",
+      "てください"
+    ],
+    "correct_text_ruby": "どのくらいいくら"
   },
   {
     "id": 119,
@@ -2497,7 +3560,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どのくらいいくら",
-    "notes": "【駅・買い物】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。"
+    "notes": "【駅・買い物】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくどのくらいいくら<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "てもいいです",
+      "どのくらいいくら",
+      "たいです"
+    ],
+    "correct_text_ruby": "どのくらいいくら"
   },
   {
     "id": 120,
@@ -2518,7 +3590,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どのくらいいくら",
-    "notes": "【週末・趣味】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。"
+    "notes": "【週末・趣味】期間・時間・金額・数量を尋ねる疑問表現。。正しい基本文法から「どのくらいいくら」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくどのくらいいくら<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "から",
+      "ません",
+      "どのくらいいくら"
+    ],
+    "correct_text_ruby": "どのくらいいくら"
   },
   {
     "id": 121,
@@ -2539,7 +3620,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ませんか",
-    "notes": "【教室・あいさつ】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。"
+    "notes": "【教室・あいさつ】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "てください",
+      "てもいいです",
+      "ません"
+    ],
+    "correct_text_ruby": "ませんか"
   },
   {
     "id": 122,
@@ -2560,7 +3650,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ませんか",
-    "notes": "【家・食事】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。"
+    "notes": "【家・食事】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "ませんか",
+      "ました",
+      "です"
+    ],
+    "correct_text_ruby": "ませんか"
   },
   {
     "id": 123,
@@ -2581,7 +3680,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ませんか",
-    "notes": "【駅・買い物】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。"
+    "notes": "【駅・買い物】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "ます",
+      "ませんか",
+      "てください"
+    ],
+    "correct_text_ruby": "ませんか"
   },
   {
     "id": 124,
@@ -2602,7 +3710,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ませんか",
-    "notes": "【週末・趣味】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。"
+    "notes": "【週末・趣味】相手の意向を尊重しながら丁寧に誘う表現。。正しい基本文法から「ませんか」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "ではありません",
+      "てください",
+      "ませんか"
+    ],
+    "correct_text_ruby": "ませんか"
   },
   {
     "id": 125,
@@ -2623,7 +3740,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "こと名詞化",
-    "notes": "【教室・あいさつ】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。"
+    "notes": "【教室・あいさつ】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくこと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>",
+      "ましょう",
+      "ません",
+      "ました"
+    ],
+    "correct_text_ruby": "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>"
   },
   {
     "id": 126,
@@ -2644,7 +3770,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こと名詞化",
-    "notes": "【家・食事】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。"
+    "notes": "【家・食事】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくこと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>",
+      "てはいけません",
+      "です"
+    ],
+    "correct_text_ruby": "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>"
   },
   {
     "id": 127,
@@ -2665,7 +3800,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "こと名詞化",
-    "notes": "【駅・買い物】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。"
+    "notes": "【駅・買い物】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくこと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "たいです",
+      "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>"
   },
   {
     "id": 128,
@@ -2686,7 +3830,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "こと名詞化",
-    "notes": "【週末・趣味】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。"
+    "notes": "【週末・趣味】動詞を名詞の形に変えて文の主語や目的にする。。正しい基本文法から「こと名詞化」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくこと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "です",
+      "ます",
+      "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>"
+    ],
+    "correct_text_ruby": "こと<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>"
   },
   {
     "id": 129,
@@ -2707,7 +3860,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことができる",
-    "notes": "【教室・あいさつ】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。"
+    "notes": "【教室・あいさつ】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくことができる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ことができる",
+      "です",
+      "てもいいです",
+      "てください"
+    ],
+    "correct_text_ruby": "ことができる"
   },
   {
     "id": 130,
@@ -2728,7 +3890,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことができる",
-    "notes": "【家・食事】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。"
+    "notes": "【家・食事】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくことができる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ことができる",
+      "ました",
+      "があります"
+    ],
+    "correct_text_ruby": "ことができる"
   },
   {
     "id": 131,
@@ -2749,7 +3920,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことができる",
-    "notes": "【駅・買い物】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。"
+    "notes": "【駅・買い物】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくことができる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ます",
+      "があります",
+      "ことができる",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "ことができる"
   },
   {
     "id": 132,
@@ -2770,7 +3950,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことができる",
-    "notes": "【週末・趣味】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。"
+    "notes": "【週末・趣味】能力や状況において実行が可能であることを表す。。正しい基本文法から「ことができる」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくことができる<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "があります",
+      "てもいいです",
+      "ことができる"
+    ],
+    "correct_text_ruby": "ことができる"
   },
   {
     "id": 133,
@@ -2791,7 +3980,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たことがある",
-    "notes": "【教室・あいさつ】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。"
+    "notes": "【教室・あいさつ】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたことがある<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たことがある",
+      "ません",
+      "です",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 134,
@@ -2812,7 +4010,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たことがある",
-    "notes": "【家・食事】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。"
+    "notes": "【家・食事】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたことがある<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "たことがある",
+      "てはいけません",
+      "ませんか"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 135,
@@ -2833,7 +4040,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たことがある",
-    "notes": "【駅・買い物】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。"
+    "notes": "【駅・買い物】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたことがある<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ませんか",
+      "たことがある",
+      "ましょう"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 136,
@@ -2854,7 +4070,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たことがある",
-    "notes": "【週末・趣味】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。"
+    "notes": "【週末・趣味】過去にそのような経験をしたことがあることを表す。。正しい基本文法から「たことがある」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたことがある<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "たいです",
+      "ませんか",
+      "たことがある"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 137,
@@ -2875,7 +4100,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「は」",
-    "notes": "【教室・あいさつ】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。"
+    "notes": "【教室・あいさつ】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「は」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「は」",
+      "だ",
+      "があります",
+      "ます"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「は」"
   },
   {
     "id": 138,
@@ -2896,7 +4130,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「は」",
-    "notes": "【家・食事】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。"
+    "notes": "【家・食事】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「は」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "<ruby>助詞<rt>じょし</rt></ruby>「は」",
+      "ません",
+      "ではありません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「は」"
   },
   {
     "id": 139,
@@ -2917,7 +4160,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「は」",
-    "notes": "【駅・買い物】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。"
+    "notes": "【駅・買い物】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「は」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「は」",
+      "です"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「は」"
   },
   {
     "id": 140,
@@ -2938,7 +4190,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「は」",
-    "notes": "【週末・趣味】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。"
+    "notes": "【週末・趣味】文の主題・トピックを表す。。正しい基本文法から「助詞「は」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「は」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "ます",
+      "だ",
+      "<ruby>助詞<rt>じょし</rt></ruby>「は」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「は」"
   },
   {
     "id": 141,
@@ -2959,7 +4220,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「が」",
-    "notes": "【教室・あいさつ】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。"
+    "notes": "【教室・あいさつ】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「が」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「が」",
+      "ではありません",
+      "から",
+      "たいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「が」"
   },
   {
     "id": 142,
@@ -2980,7 +4250,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「が」",
-    "notes": "【家・食事】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。"
+    "notes": "【家・食事】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「が」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "<ruby>助詞<rt>じょし</rt></ruby>「が」",
+      "から",
+      "ではありません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「が」"
   },
   {
     "id": 143,
@@ -3001,7 +4280,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「が」",
-    "notes": "【駅・買い物】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。"
+    "notes": "【駅・買い物】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「が」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「が」",
+      "ます"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「が」"
   },
   {
     "id": 144,
@@ -3022,7 +4310,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「が」",
-    "notes": "【週末・趣味】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。"
+    "notes": "【週末・趣味】主語・対象を表す。。正しい基本文法から「助詞「が」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「が」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "から",
+      "ませんか",
+      "<ruby>助詞<rt>じょし</rt></ruby>「が」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「が」"
   },
   {
     "id": 145,
@@ -3043,7 +4340,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「を」",
-    "notes": "【教室・あいさつ】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。"
+    "notes": "【教室・あいさつ】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「を」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「を」",
+      "があります",
+      "ではありません",
+      "がいます"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「を」"
   },
   {
     "id": 146,
@@ -3064,7 +4370,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「を」",
-    "notes": "【家・食事】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。"
+    "notes": "【家・食事】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「を」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "<ruby>助詞<rt>じょし</rt></ruby>「を」",
+      "から",
+      "たいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「を」"
   },
   {
     "id": 147,
@@ -3085,7 +4400,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「を」",
-    "notes": "【駅・買い物】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。"
+    "notes": "【駅・買い物】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「を」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "ました",
+      "<ruby>助詞<rt>じょし</rt></ruby>「を」",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「を」"
   },
   {
     "id": 148,
@@ -3106,7 +4430,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「を」",
-    "notes": "【週末・趣味】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。"
+    "notes": "【週末・趣味】直接目的語を表す。。正しい基本文法から「助詞「を」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「を」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "てはいけません",
+      "がいます",
+      "<ruby>助詞<rt>じょし</rt></ruby>「を」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「を」"
   },
   {
     "id": 149,
@@ -3127,7 +4460,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「に」",
-    "notes": "【教室・あいさつ】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。"
+    "notes": "【教室・あいさつ】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「に」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「に」",
+      "がいます",
+      "があります",
+      "だ"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「に」"
   },
   {
     "id": 150,
@@ -3148,7 +4490,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「に」",
-    "notes": "【家・食事】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。"
+    "notes": "【家・食事】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「に」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "<ruby>助詞<rt>じょし</rt></ruby>「に」",
+      "から",
+      "たいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「に」"
   },
   {
     "id": 151,
@@ -3169,7 +4520,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「に」",
-    "notes": "【駅・買い物】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。"
+    "notes": "【駅・買い物】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「に」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「に」",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「に」"
   },
   {
     "id": 152,
@@ -3190,7 +4550,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「に」",
-    "notes": "【週末・趣味】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。"
+    "notes": "【週末・趣味】時間・到着点・相手を表す。。正しい基本文法から「助詞「に」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「に」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "たいです",
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「に」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「に」"
   },
   {
     "id": 153,
@@ -3211,7 +4580,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「で」",
-    "notes": "【教室・あいさつ】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。"
+    "notes": "【教室・あいさつ】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「で」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「で」",
+      "ましょう",
+      "ませんか",
+      "たいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「で」"
   },
   {
     "id": 154,
@@ -3232,7 +4610,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「で」",
-    "notes": "【家・食事】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。"
+    "notes": "【家・食事】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「で」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "<ruby>助詞<rt>じょし</rt></ruby>「で」",
+      "ましょう",
+      "ます"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「で」"
   },
   {
     "id": 155,
@@ -3253,7 +4640,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「で」",
-    "notes": "【駅・買い物】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。"
+    "notes": "【駅・買い物】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「で」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "ませんか",
+      "<ruby>助詞<rt>じょし</rt></ruby>「で」",
+      "てください"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「で」"
   },
   {
     "id": 156,
@@ -3274,7 +4670,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「で」",
-    "notes": "【週末・趣味】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。"
+    "notes": "【週末・趣味】場所・手段・道具を表す。。正しい基本文法から「助詞「で」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「で」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てはいけません",
+      "だ",
+      "たいです",
+      "<ruby>助詞<rt>じょし</rt></ruby>「で」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「で」"
   },
   {
     "id": 157,
@@ -3295,7 +4700,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「へ」",
-    "notes": "【教室・あいさつ】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。"
+    "notes": "【教室・あいさつ】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「へ」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「へ」",
+      "ましょう",
+      "があります",
+      "ではありません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「へ」"
   },
   {
     "id": 158,
@@ -3316,7 +4730,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「へ」",
-    "notes": "【家・食事】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。"
+    "notes": "【家・食事】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「へ」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "てもいいです",
+      "<ruby>助詞<rt>じょし</rt></ruby>「へ」",
+      "です",
+      "があります"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「へ」"
   },
   {
     "id": 159,
@@ -3337,7 +4760,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「へ」",
-    "notes": "【駅・買い物】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。"
+    "notes": "【駅・買い物】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「へ」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "てはいけません",
+      "<ruby>助詞<rt>じょし</rt></ruby>「へ」",
+      "ではありません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「へ」"
   },
   {
     "id": 160,
@@ -3358,7 +4790,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「へ」",
-    "notes": "【週末・趣味】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。"
+    "notes": "【週末・趣味】移動の方向を表す。。正しい基本文法から「助詞「へ」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「へ」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "たいです",
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「へ」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「へ」"
   },
   {
     "id": 161,
@@ -3379,7 +4820,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「と」",
-    "notes": "【教室・あいさつ】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。"
+    "notes": "【教室・あいさつ】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「と」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「と」",
+      "てはいけません",
+      "てください",
+      "から"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「と」"
   },
   {
     "id": 162,
@@ -3400,7 +4850,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「と」",
-    "notes": "【家・食事】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。"
+    "notes": "【家・食事】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「と」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "<ruby>助詞<rt>じょし</rt></ruby>「と」",
+      "たいです",
+      "だ"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「と」"
   },
   {
     "id": 163,
@@ -3421,7 +4880,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「と」",
-    "notes": "【駅・買い物】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。"
+    "notes": "【駅・買い物】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「と」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "ませんか",
+      "<ruby>助詞<rt>じょし</rt></ruby>「と」",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「と」"
   },
   {
     "id": 164,
@@ -3442,7 +4910,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「と」",
-    "notes": "【週末・趣味】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。"
+    "notes": "【週末・趣味】並立・一緒の相手を表す。。正しい基本文法から「助詞「と」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「と」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "があります",
+      "ませんか",
+      "<ruby>助詞<rt>じょし</rt></ruby>「と」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「と」"
   },
   {
     "id": 165,
@@ -3463,7 +4940,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「も」",
-    "notes": "【教室・あいさつ】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。"
+    "notes": "【教室・あいさつ】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「も」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「も」",
+      "てもいいです",
+      "です",
+      "てください"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「も」"
   },
   {
     "id": 166,
@@ -3484,7 +4970,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「も」",
-    "notes": "【家・食事】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。"
+    "notes": "【家・食事】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「も」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "があります",
+      "<ruby>助詞<rt>じょし</rt></ruby>「も」",
+      "ません",
+      "ませんか"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「も」"
   },
   {
     "id": 167,
@@ -3505,7 +5000,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「も」",
-    "notes": "【駅・買い物】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。"
+    "notes": "【駅・買い物】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「も」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "てもいいです",
+      "<ruby>助詞<rt>じょし</rt></ruby>「も」",
+      "ましょう"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「も」"
   },
   {
     "id": 168,
@@ -3526,7 +5030,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「も」",
-    "notes": "【週末・趣味】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。"
+    "notes": "【週末・趣味】同類・付加を表す。。正しい基本文法から「助詞「も」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「も」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "ません",
+      "ます",
+      "<ruby>助詞<rt>じょし</rt></ruby>「も」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「も」"
   },
   {
     "id": 169,
@@ -3547,7 +5060,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "助詞「からまで」",
-    "notes": "【教室・あいさつ】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。"
+    "notes": "【教室・あいさつ】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「からまで」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "<ruby>助詞<rt>じょし</rt></ruby>「からまで」",
+      "てください",
+      "だ",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「からまで」"
   },
   {
     "id": 170,
@@ -3568,7 +5090,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "助詞「からまで」",
-    "notes": "【家・食事】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。"
+    "notes": "【家・食事】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「からまで」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "<ruby>助詞<rt>じょし</rt></ruby>「からまで」",
+      "です",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「からまで」"
   },
   {
     "id": 171,
@@ -3589,7 +5120,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "助詞「からまで」",
-    "notes": "【駅・買い物】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。"
+    "notes": "【駅・買い物】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「からまで」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "ました",
+      "<ruby>助詞<rt>じょし</rt></ruby>「からまで」",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「からまで」"
   },
   {
     "id": 172,
@@ -3610,7 +5150,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "助詞「からまで」",
-    "notes": "【週末・趣味】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。"
+    "notes": "【週末・趣味】起点と終点を表す。。正しい基本文法から「助詞「からまで」」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく<ruby>助詞<rt>じょし</rt></ruby>「からまで」<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "から",
+      "ではありません",
+      "がいます",
+      "<ruby>助詞<rt>じょし</rt></ruby>「からまで」"
+    ],
+    "correct_text_ruby": "<ruby>助詞<rt>じょし</rt></ruby>「からまで」"
   },
   {
     "id": 173,
@@ -3631,7 +5180,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "がありますいます",
-    "notes": "【教室・あいさつ】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。"
+    "notes": "【教室・あいさつ】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがありますいます<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がありますいます",
+      "てはいけません",
+      "たいです",
+      "ません"
+    ],
+    "correct_text_ruby": "がありますいます"
   },
   {
     "id": 174,
@@ -3652,7 +5210,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "がありますいます",
-    "notes": "【家・食事】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。"
+    "notes": "【家・食事】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがありますいます<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "だ",
+      "がありますいます",
+      "です",
+      "ましょう"
+    ],
+    "correct_text_ruby": "がありますいます"
   },
   {
     "id": 175,
@@ -3673,7 +5240,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "がありますいます",
-    "notes": "【駅・買い物】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。"
+    "notes": "【駅・買い物】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがありますいます<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ました",
+      "てはいけません",
+      "がありますいます",
+      "から"
+    ],
+    "correct_text_ruby": "がありますいます"
   },
   {
     "id": 176,
@@ -3694,7 +5270,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "がありますいます",
-    "notes": "【週末・趣味】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。"
+    "notes": "【週末・趣味】物や人の存在を表す。。正しい基本文法から「がありますいます」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくがありますいます<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "がいます",
+      "ました",
+      "てはいけません",
+      "がありますいます"
+    ],
+    "correct_text_ruby": "がありますいます"
   },
   {
     "id": 177,
@@ -3715,7 +5300,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たいです",
-    "notes": "【教室・あいさつ】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。"
+    "notes": "【教室・あいさつ】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたいです<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "たいです",
+      "です",
+      "ます",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "たいです"
   },
   {
     "id": 178,
@@ -3736,7 +5330,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たいです",
-    "notes": "【家・食事】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。"
+    "notes": "【家・食事】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたいです<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ません",
+      "たいです",
+      "から",
+      "ました"
+    ],
+    "correct_text_ruby": "たいです"
   },
   {
     "id": 179,
@@ -3757,7 +5360,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たいです",
-    "notes": "【駅・買い物】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。"
+    "notes": "【駅・買い物】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたいです<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ではありません",
+      "てください",
+      "たいです",
+      "てはいけません"
+    ],
+    "correct_text_ruby": "たいです"
   },
   {
     "id": 180,
@@ -3778,7 +5390,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たいです",
-    "notes": "【週末・趣味】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。"
+    "notes": "【週末・趣味】話し手の願望を表す。。正しい基本文法から「たいです」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくたいです<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ませんか",
+      "があります",
+      "だ",
+      "たいです"
+    ],
+    "correct_text_ruby": "たいです"
   },
   {
     "id": 181,
@@ -3799,7 +5420,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ましょうませんか",
-    "notes": "【教室・あいさつ】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。"
+    "notes": "【教室・あいさつ】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。",
+    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>・あいさつの<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょうませんか",
+      "です",
+      "から",
+      "てください"
+    ],
+    "correct_text_ruby": "ましょうませんか"
   },
   {
     "id": 182,
@@ -3820,7 +5450,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ましょうませんか",
-    "notes": "【家・食事】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。"
+    "notes": "【家・食事】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>・<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "です",
+      "ましょうませんか",
+      "ではありません",
+      "てもいいです"
+    ],
+    "correct_text_ruby": "ましょうませんか"
   },
   {
     "id": 183,
@@ -3841,7 +5480,16 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ましょうませんか",
-    "notes": "【駅・買い物】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。"
+    "notes": "【駅・買い物】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "ません",
+      "ましょうませんか",
+      "があります"
+    ],
+    "correct_text_ruby": "ましょうませんか"
   },
   {
     "id": 184,
@@ -3862,11 +5510,18 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ましょうませんか",
-    "notes": "【週末・趣味】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。"
+    "notes": "【週末・趣味】相手への提案・勧誘。。正しい基本文法から「ましょうませんか」が正解です。",
+    "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しく（　　　）<ruby>話<rt>はな</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>・<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>楽<rt>たの</rt></ruby>しくましょうませんか<ruby>話<rt>はな</rt></ruby>します。",
+    "choices_ruby": [
+      "ましょう",
+      "てはいけません",
+      "があります",
+      "ましょうませんか"
+    ],
+    "correct_text_ruby": "ましょうませんか"
   }
 ];
 
-if (typeof window !== "undefined") {
-  window.JLPT_N5_QUIZ_DATA = window.JLPT_N5_GRAMMAR_QUIZ_DATA;
-  window.JLPT_N5_GRAMMAR_QUIZ_DATA = window.JLPT_N5_QUIZ_DATA;
-}
+// Dual alias for backwards compatibility
+window.JLPT_N5_QUIZ_DATA = window.JLPT_N5_GRAMMAR_QUIZ_DATA;

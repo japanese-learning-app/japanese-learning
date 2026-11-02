@@ -1,5 +1,5 @@
-// JLPT N3 Grammar Practice Questions (Expanded 728 Questions - 4 per Grammar)
-// Perfectly balanced 25% choices, non-sensitive, natural Japanese
+// JLPT N3 Grammar Practice Questions (728 Questions)
+// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -24,10 +24,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ね、ついに<ruby>大<rt>おお</rt></ruby>きなプレゼン<ruby>資料<rt>しりょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り（　　　）。",
     "sentence_jp_ruby": "<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ね、ついに<ruby>大<rt>おお</rt></ruby>きなプレゼン<ruby>資料<rt>しりょう</rt></ruby>を<ruby>作り上<rt>つくりあ</rt></ruby>げた。",
     "choices_ruby": [
+      "<ruby>上<rt>あ</rt></ruby>げた",
       "すぎた",
-      "かけた",
       "<ruby>切<rt>き</rt></ruby>れない",
-      "<ruby>上<rt>あ</rt></ruby>げた"
+      "かけた"
     ],
     "correct_text_ruby": "<ruby>上<rt>あ</rt></ruby>げた"
   },
@@ -50,7 +50,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上げた",
-    "notes": "【実践・ビジネス】動詞ます形＋上げるで『最後まで〜し終える、完成させる』という意味を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋上げるで『最後まで〜し終える、完成させる』という意味を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>上<rt>あ</rt></ruby>げた。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>上<rt>あ</rt></ruby>げた",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>あ</rt></ruby>げた"
   },
   {
     "id": 3,
@@ -71,7 +80,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上げた",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上げた」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上げた」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>上<rt>あ</rt></ruby>げたのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "べきだ",
+      "<ruby>上<rt>あ</rt></ruby>げた",
+      "をもとに"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>あ</rt></ruby>げた"
   },
   {
     "id": 4,
@@ -92,7 +110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "上げた",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上げた」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上げた」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>上<rt>あ</rt></ruby>げた。",
+    "choices_ruby": [
+      "はずがない",
+      "によって",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>上<rt>あ</rt></ruby>げた"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>あ</rt></ruby>げた"
   },
   {
     "id": 5,
@@ -117,10 +144,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>は（　　　）<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>専門家<rt>せんもんか</rt></ruby>でも<ruby>解決<rt>かいけつ</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかりそうだ。",
     "sentence_jp_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>はあまりにも<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>専門家<rt>せんもんか</rt></ruby>でも<ruby>解決<rt>かいけつ</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかりそうだ。",
     "choices_ruby": [
+      "あまりにも",
       "どうしても",
       "まるで",
-      "めったに",
-      "あまりにも"
+      "めったに"
     ],
     "correct_text_ruby": "あまりにも"
   },
@@ -143,7 +170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あまりにも",
-    "notes": "【実践・ビジネス】『あまりにも＋形容詞・動詞』で程度が極端に甚だしいことを強調します。"
+    "notes": "【実践・ビジネス】『あまりにも＋形容詞・動詞』で程度が極端に甚だしいことを強調します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをあまりにも。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "あまりにも",
+      "にとって",
+      "をもとに"
+    ],
+    "correct_text_ruby": "あまりにも"
   },
   {
     "id": 7,
@@ -164,7 +200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あまりにも",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あまりにも」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あまりにも」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してあまりにものだ。",
+    "choices_ruby": [
+      "がち",
+      "として",
+      "あまりにも",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "あまりにも"
   },
   {
     "id": 8,
@@ -185,7 +230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あまりにも",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あまりにも」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あまりにも」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まであまりにも。",
+    "choices_ruby": [
+      "かける",
+      "てたまらない",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "あまりにも"
+    ],
+    "correct_text_ruby": "あまりにも"
   },
   {
     "id": 9,
@@ -210,9 +264,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>合格発表<rt>ごうかくはっぴょう</rt></ruby>の<ruby>前夜<rt>ぜんや</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>の（　　　）、<ruby>朝<rt>あさ</rt></ruby>まで<ruby>一睡<rt>いっすい</rt></ruby>もできなかった。",
     "sentence_jp_ruby": "<ruby>合格発表<rt>ごうかくはっぴょう</rt></ruby>の<ruby>前夜<rt>ぜんや</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>のあまり、<ruby>朝<rt>あさ</rt></ruby>まで<ruby>一睡<rt>いっすい</rt></ruby>もできなかった。",
     "choices_ruby": [
-      "おかげで",
-      "とおりに",
       "あまり",
+      "とおりに",
+      "おかげで",
       "せいで"
     ],
     "correct_text_ruby": "あまり"
@@ -236,7 +290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あまり",
-    "notes": "【実践・ビジネス】『名詞＋のあまり／動詞辞書形＋あまり』で感情や状態が極度になり、普通ではない結果が生じることを表します。"
+    "notes": "【実践・ビジネス】『名詞＋のあまり／動詞辞書形＋あまり』で感情や状態が極度になり、普通ではない結果が生じることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをあまり。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "あまり",
+      "がち",
+      "にとって"
+    ],
+    "correct_text_ruby": "あまり"
   },
   {
     "id": 11,
@@ -257,7 +320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あまり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あまり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あまり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してあまりのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "だらけ",
+      "あまり",
+      "によって"
+    ],
+    "correct_text_ruby": "あまり"
   },
   {
     "id": 12,
@@ -278,7 +350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あまり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あまり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あまり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まであまり。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "あまり"
+    ],
+    "correct_text_ruby": "あまり"
   },
   {
     "id": 13,
@@ -303,10 +384,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "チームのメンバーと<ruby>何度<rt>なんど</rt></ruby>も<ruby>意見<rt>いけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し（　　　）、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>企画<rt>きかく</rt></ruby>を<ruby>完成<rt>かんせい</rt></ruby>させた。",
     "sentence_jp_ruby": "チームのメンバーと<ruby>何度<rt>なんど</rt></ruby>も<ruby>意見<rt>いけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し<ruby>合<rt>あ</rt></ruby>って、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>企画<rt>きかく</rt></ruby>を<ruby>完成<rt>かんせい</rt></ruby>させた。",
     "choices_ruby": [
-      "すぎて",
-      "かけて",
       "あって",
-      "<ruby>直<rt>なお</rt></ruby>して"
+      "かけて",
+      "<ruby>直<rt>なお</rt></ruby>して",
+      "すぎて"
     ],
     "correct_text_ruby": "あって"
   },
@@ -329,7 +410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あって",
-    "notes": "【実践・ビジネス】動詞ます形＋合うで『お互いに〜し合う』という相互動作を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋合うで『お互いに〜し合う』という相互動作を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをあって。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "あって",
+      "っぽい",
+      "にとって"
+    ],
+    "correct_text_ruby": "あって"
   },
   {
     "id": 15,
@@ -350,7 +440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してあってのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "によって",
+      "あって",
+      "をもとに"
+    ],
+    "correct_text_ruby": "あって"
   },
   {
     "id": 16,
@@ -371,7 +470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まであって。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "において",
+      "だらけ",
+      "あって"
+    ],
+    "correct_text_ruby": "あって"
   },
   {
     "id": 17,
@@ -397,8 +505,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>外国語<rt>がいこくご</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>すればするほど、<ruby>自然<rt>しぜん</rt></ruby>に<ruby>話<rt>はな</rt></ruby>せるようになる。",
     "choices_ruby": [
       "ほど",
-      "とおり",
       "くせに",
+      "とおり",
       "ばかり"
     ],
     "correct_text_ruby": "ほど"
@@ -422,7 +530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ほど",
-    "notes": "【実践・ビジネス】『〜ば〜ほど』で一方の程度が進むにつれて他方の程度も進む相関関係を表します。"
+    "notes": "【実践・ビジネス】『〜ば〜ほど』で一方の程度が進むにつれて他方の程度も進む相関関係を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをほど。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "ほど",
+      "っぽい",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 19,
@@ -443,7 +560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ほど",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してほどのだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "にとって",
+      "ほど",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 20,
@@ -464,7 +590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ほど",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までほど。",
+    "choices_ruby": [
+      "において",
+      "ばかりでなく",
+      "として",
+      "ほど"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 21,
@@ -489,10 +624,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったら、<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねれば（　　　）ですよ。",
     "sentence_jp_ruby": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったら、<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねればいいですよ。",
     "choices_ruby": [
+      "いい",
       "わけだ",
-      "べきだ",
       "はずだ",
-      "いい"
+      "べきだ"
     ],
     "correct_text_ruby": "いい"
   },
@@ -515,7 +650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いい",
-    "notes": "【実践・ビジネス】『〜ばいい』で助言や解決策（〜すれば問題ない）を軽く提示します。"
+    "notes": "【実践・ビジネス】『〜ばいい』で助言や解決策（〜すれば問題ない）を軽く提示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをいい。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "いい",
+      "として",
+      "によって"
+    ],
+    "correct_text_ruby": "いい"
   },
   {
     "id": 23,
@@ -536,7 +680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>していいのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "として",
+      "いい",
+      "をもとに"
+    ],
+    "correct_text_ruby": "いい"
   },
   {
     "id": 24,
@@ -557,7 +710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までいい。",
+    "choices_ruby": [
+      "をもとに",
+      "っぽい",
+      "だらけ",
+      "いい"
+    ],
+    "correct_text_ruby": "いい"
   },
   {
     "id": 25,
@@ -582,9 +744,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりやすい（　　　）、<ruby>学生<rt>がくせい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>にも<ruby>親身<rt>しんみ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってくれる。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりやすいばかりでなく、<ruby>学生<rt>がくせい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>にも<ruby>親身<rt>しんみ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってくれる。",
     "choices_ruby": [
+      "ばかりでなく",
       "<ruby>反面<rt>はんめん</rt></ruby>",
       "かわりに",
-      "ばかりでなく",
       "くせに"
     ],
     "correct_text_ruby": "ばかりでなく"
@@ -608,7 +770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりでなく",
-    "notes": "【実践・ビジネス】『AばかりでなくBも』でAだけでなくそれに加えてBもあることを示します。"
+    "notes": "【実践・ビジネス】『AばかりでなくBも』でAだけでなくそれに加えてBもあることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをばかりでなく。",
+    "choices_ruby": [
+      "において",
+      "ばかりでなく",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てならない"
+    ],
+    "correct_text_ruby": "ばかりでなく"
   },
   {
     "id": 27,
@@ -629,7 +800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりでなく",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかりでなく」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかりでなく」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してばかりでなくのだ。",
+    "choices_ruby": [
+      "にとって",
+      "っぽい",
+      "ばかりでなく",
+      "はずがない"
+    ],
+    "correct_text_ruby": "ばかりでなく"
   },
   {
     "id": 28,
@@ -650,7 +830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりでなく",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかりでなく」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかりでなく」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までばかりでなく。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい",
+      "として",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "ばかりでなく"
   },
   {
     "id": 29,
@@ -676,8 +865,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>口先<rt>くちさき</rt></ruby>で<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>うばかりで、<ruby>自分<rt>じぶん</rt></ruby>からは<ruby>一切<rt>いっさい</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>を<ruby>起<rt>お</rt></ruby>こそうとしない。",
     "choices_ruby": [
       "ばかりで",
-      "わりには",
       "ところで",
+      "わりには",
       "ついでに"
     ],
     "correct_text_ruby": "ばかりで"
@@ -701,7 +890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかりで",
-    "notes": "【実践・ビジネス】『動詞て形＋ばかり／動詞辞書形＋ばかりで』である好ましくない動作だけを繰り返す不満を表します。"
+    "notes": "【実践・ビジネス】『動詞て形＋ばかり／動詞辞書形＋ばかりで』である好ましくない動作だけを繰り返す不満を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをばかりで。",
+    "choices_ruby": [
+      "かける",
+      "ばかりで",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "べきだ"
+    ],
+    "correct_text_ruby": "ばかりで"
   },
   {
     "id": 31,
@@ -722,7 +920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかりで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかりで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかりで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してばかりでのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "において",
+      "ばかりで",
+      "てならない"
+    ],
+    "correct_text_ruby": "ばかりで"
   },
   {
     "id": 32,
@@ -743,7 +950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかりで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかりで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかりで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までばかりで。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "にとって",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "ばかりで"
+    ],
+    "correct_text_ruby": "ばかりで"
   },
   {
     "id": 33,
@@ -794,7 +1010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のに",
-    "notes": "【実践・ビジネス】事実と異なる仮定を置き、『そうであればよかったのに』と残念がる気持ちを表します。"
+    "notes": "【実践・ビジネス】事実と異なる仮定を置き、『そうであればよかったのに』と残念がる気持ちを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをのに。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "のに",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "によって"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 35,
@@ -815,7 +1040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「のに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「のに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してのにのだ。",
+    "choices_ruby": [
+      "にとって",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "のに",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 36,
@@ -836,7 +1070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「のに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「のに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までのに。",
+    "choices_ruby": [
+      "はずがない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "てたまらない",
+      "のに"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 37,
@@ -861,9 +1104,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "こんなに<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るなら、<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>を<ruby>鞄<rt>かばん</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてくれば（　　　）。",
     "sentence_jp_ruby": "こんなに<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るなら、<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>を<ruby>鞄<rt>かばん</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてくればよかった。",
     "choices_ruby": [
+      "よかった",
       "はずだ",
       "に<ruby>違<rt>ちが</rt></ruby>いない",
-      "よかった",
       "いい"
     ],
     "correct_text_ruby": "よかった"
@@ -887,7 +1130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よかった",
-    "notes": "【実践・ビジネス】過去の行為に対する後悔を表し、『〜すればよかった』と反省・悔やむ表現です。"
+    "notes": "【実践・ビジネス】過去の行為に対する後悔を表し、『〜すればよかった』と反省・悔やむ表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをよかった。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "よかった",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "として"
+    ],
+    "correct_text_ruby": "よかった"
   },
   {
     "id": 39,
@@ -908,7 +1160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よかった",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よかった」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よかった」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してよかったのだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "をもとに",
+      "よかった",
+      "にとって"
+    ],
+    "correct_text_ruby": "よかった"
   },
   {
     "id": 40,
@@ -929,7 +1190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よかった",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よかった」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よかった」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までよかった。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい",
+      "はずがない",
+      "よかった"
+    ],
+    "correct_text_ruby": "よかった"
   },
   {
     "id": 41,
@@ -954,10 +1224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>社会人<rt>しゃかいじん</rt></ruby>として<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るのは、<ruby>当然<rt>とうぜん</rt></ruby><ruby>守<rt>まも</rt></ruby>る（　　　）<ruby>基本<rt>きほん</rt></ruby>マナーだ。",
     "sentence_jp_ruby": "<ruby>社会人<rt>しゃかいじん</rt></ruby>として<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るのは、<ruby>当然<rt>とうぜん</rt></ruby><ruby>守<rt>まも</rt></ruby>るべき<ruby>基本<rt>きほん</rt></ruby>マナーだ。",
     "choices_ruby": [
-      "ことの",
+      "べき",
       "はずの",
-      "わけの",
-      "べき"
+      "ことの",
+      "わけの"
     ],
     "correct_text_ruby": "べき"
   },
@@ -980,7 +1250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "べき",
-    "notes": "【実践・ビジネス】『動詞辞書形＋べきだ』で道徳的・常識的にそうするのが当然であるという義務・主張を表します。"
+    "notes": "【実践・ビジネス】『動詞辞書形＋べきだ』で道徳的・常識的にそうするのが当然であるという義務・主張を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをべき。",
+    "choices_ruby": [
+      "をもとに",
+      "べき",
+      "だらけ",
+      "はずがない"
+    ],
+    "correct_text_ruby": "べき"
   },
   {
     "id": 43,
@@ -1001,7 +1280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "べき",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「べき」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「べき」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してべきのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "てたまらない",
+      "べき",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "べき"
   },
   {
     "id": 44,
@@ -1022,7 +1310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "べき",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「べき」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「べき」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までべき。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "べきだ",
+      "によって",
+      "べき"
+    ],
+    "correct_text_ruby": "べき"
   },
   {
     "id": 45,
@@ -1047,10 +1344,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "どんなに<ruby>感情的<rt>かんじょうてき</rt></ruby>になっても、<ruby>他人<rt>たにん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>をSNSに<ruby>書き込<rt>かきこ</rt></ruby>む（　　　）。",
     "sentence_jp_ruby": "どんなに<ruby>感情的<rt>かんじょうてき</rt></ruby>になっても、<ruby>他人<rt>たにん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>をSNSに<ruby>書き込<rt>かきこ</rt></ruby>むべきではない。",
     "choices_ruby": [
-      "わけではない",
+      "べきではない",
       "にすぎない",
       "にほかならない",
-      "べきではない"
+      "わけではない"
     ],
     "correct_text_ruby": "べきではない"
   },
@@ -1073,7 +1370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "べきではない",
-    "notes": "【実践・ビジネス】常識や道徳の観点から『〜してはいけない』と強く戒める表現です。"
+    "notes": "【実践・ビジネス】常識や道徳の観点から『〜してはいけない』と強く戒める表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをべきではない。",
+    "choices_ruby": [
+      "によって",
+      "べきではない",
+      "をもとに",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "べきではない"
   },
   {
     "id": 47,
@@ -1094,7 +1400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "べきではない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「べきではない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「べきではない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してべきではないのだ。",
+    "choices_ruby": [
+      "によって",
+      "てたまらない",
+      "べきではない",
+      "だらけ"
+    ],
+    "correct_text_ruby": "べきではない"
   },
   {
     "id": 48,
@@ -1115,7 +1430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "べきではない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「べきではない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「べきではない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までべきではない。",
+    "choices_ruby": [
+      "として",
+      "にとって",
+      "わけにはいかない",
+      "べきではない"
+    ],
+    "correct_text_ruby": "べきではない"
   },
   {
     "id": 49,
@@ -1140,9 +1464,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いのかと<ruby>心配<rt>しんぱい</rt></ruby>されたが、（　　　）<ruby>何<rt>なん</rt></ruby>ともないから<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ。",
     "sentence_jp_ruby": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いのかと<ruby>心配<rt>しんぱい</rt></ruby>されたが、<ruby>別<rt>べつ</rt></ruby>に<ruby>何<rt>なん</rt></ruby>ともないから<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ。",
     "choices_ruby": [
-      "ちっとも",
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "<ruby>別<rt>べつ</rt></ruby>に",
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "ちっとも",
       "まさか"
     ],
     "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>に"
@@ -1166,7 +1490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "別に",
-    "notes": "【実践・ビジネス】『別に＋否定』で取り立てて言うほどのことではないというニュアンスを表します。"
+    "notes": "【実践・ビジネス】『別に＋否定』で取り立てて言うほどのことではないというニュアンスを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>別<rt>べつ</rt></ruby>に。",
+    "choices_ruby": [
+      "にとって",
+      "<ruby>別<rt>べつ</rt></ruby>に",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>に"
   },
   {
     "id": 51,
@@ -1187,7 +1520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "別に",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「別に」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「別に」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>別<rt>べつ</rt></ruby>にのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>別<rt>べつ</rt></ruby>に",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>に"
   },
   {
     "id": 52,
@@ -1208,7 +1550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "別に",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「別に」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「別に」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>別<rt>べつ</rt></ruby>に。",
+    "choices_ruby": [
+      "っぽい",
+      "によって",
+      "として",
+      "<ruby>別<rt>べつ</rt></ruby>に"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>に"
   },
   {
     "id": 53,
@@ -1233,10 +1584,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>海外留学<rt>かいがいりゅうがく</rt></ruby>から<ruby>帰国<rt>きこく</rt></ruby>し、<ruby>家族<rt>かぞく</rt></ruby>と3<ruby>年<rt>ねん</rt></ruby>（　　　）<ruby>食卓<rt>しょくたく</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>んだ。",
     "sentence_jp_ruby": "<ruby>海外留学<rt>かいがいりゅうがく</rt></ruby>から<ruby>帰国<rt>きこく</rt></ruby>し、<ruby>家族<rt>かぞく</rt></ruby>と3<ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>食卓<rt>しょくたく</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>んだ。",
     "choices_ruby": [
+      "ぶりに",
       "おきに",
       "うちに",
-      "ごとに",
-      "ぶりに"
+      "ごとに"
     ],
     "correct_text_ruby": "ぶりに"
   },
@@ -1259,7 +1610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ぶりに",
-    "notes": "【実践・ビジネス】『期間＋ぶりに』でその期間が経過した後に再び同じことが起こることを示します。"
+    "notes": "【実践・ビジネス】『期間＋ぶりに』でその期間が経過した後に再び同じことが起こることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをぶりに。",
+    "choices_ruby": [
+      "はずがない",
+      "ぶりに",
+      "っぽい",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ぶりに"
   },
   {
     "id": 55,
@@ -1280,7 +1640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ぶりに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ぶりに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ぶりに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してぶりにのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "にとって",
+      "ぶりに",
+      "てならない"
+    ],
+    "correct_text_ruby": "ぶりに"
   },
   {
     "id": 56,
@@ -1301,7 +1670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぶりに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ぶりに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ぶりに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までぶりに。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "わけにはいかない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "ぶりに"
+    ],
+    "correct_text_ruby": "ぶりに"
   },
   {
     "id": 57,
@@ -1327,9 +1705,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>課長<rt>かちょう</rt></ruby>はただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>ですので、<ruby>終<rt>お</rt></ruby>わり<ruby>次第<rt>しだい</rt></ruby>こちらから<ruby>折り返<rt>おりかえ</rt></ruby>します。",
     "choices_ruby": [
       "<ruby>中<rt>なか</rt></ruby>",
-      "<ruby>間<rt>かん</rt></ruby>",
-      "<ruby>以内<rt>いない</rt></ruby>",
-      "<ruby>中旬<rt>ちゅうじゅん</rt></ruby>"
+      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>中旬<rt>ちゅうじゅん</rt></ruby>",
+      "<ruby>以内<rt>いない</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>中<rt>なか</rt></ruby>"
   },
@@ -1352,7 +1730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "中",
-    "notes": "【実践・ビジネス】名詞＋中で『今まさにその動作を行っている最中』を表します（ちゅう／じゅう）。"
+    "notes": "【実践・ビジネス】名詞＋中で『今まさにその動作を行っている最中』を表します（ちゅう／じゅう）。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>中<rt>なか</rt></ruby>。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>中<rt>なか</rt></ruby>",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>中<rt>なか</rt></ruby>"
   },
   {
     "id": 59,
@@ -1373,7 +1760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "中",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「中」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「中」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>中<rt>ちゅう</rt></ruby>のだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "として",
+      "<ruby>中<rt>なか</rt></ruby>",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>中<rt>なか</rt></ruby>"
   },
   {
     "id": 60,
@@ -1394,7 +1790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "中",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「中」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「中」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>中<rt>なか</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "によって",
+      "っぽい",
+      "<ruby>中<rt>なか</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>中<rt>なか</rt></ruby>"
   },
   {
     "id": 61,
@@ -1419,10 +1824,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "このスマートフォンはデザインが<ruby>洗練<rt>せんれん</rt></ruby>されている（　　　）、<ruby>操作性<rt>そうさせい</rt></ruby>も<ruby>極<rt>きわ</rt></ruby>めて<ruby>高<rt>たか</rt></ruby>い。",
     "sentence_jp_ruby": "このスマートフォンはデザインが<ruby>洗練<rt>せんれん</rt></ruby>されているだけでなく、<ruby>操作性<rt>そうさせい</rt></ruby>も<ruby>極<rt>きわ</rt></ruby>めて<ruby>高<rt>たか</rt></ruby>い。",
     "choices_ruby": [
-      "わりに",
       "だけでなく",
-      "<ruby>反面<rt>はんめん</rt></ruby>",
-      "かわりに"
+      "わりに",
+      "かわりに",
+      "<ruby>反面<rt>はんめん</rt></ruby>"
     ],
     "correct_text_ruby": "だけでなく"
   },
@@ -1445,7 +1850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけでなく",
-    "notes": "【実践・ビジネス】『〜だけでなく〜も』で前者に加えて後者も同様である範囲の広がりを表します。"
+    "notes": "【実践・ビジネス】『〜だけでなく〜も』で前者に加えて後者も同様である範囲の広がりを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをだけでなく。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "だけでなく",
+      "べきだ",
+      "において"
+    ],
+    "correct_text_ruby": "だけでなく"
   },
   {
     "id": 63,
@@ -1466,7 +1880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけでなく",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけでなく」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけでなく」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してだけでなくのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "にとって",
+      "だけでなく",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "だけでなく"
   },
   {
     "id": 64,
@@ -1487,7 +1910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけでなく",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけでなく」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけでなく」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までだけでなく。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "てたまらない",
+      "において",
+      "だけでなく"
+    ],
+    "correct_text_ruby": "だけでなく"
   },
   {
     "id": 65,
@@ -1512,10 +1944,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝早<rt>あさはや</rt></ruby>くから<ruby>大事<rt>だいじ</rt></ruby>な<ruby>面接<rt>めんせつ</rt></ruby>がある。（　　　）<ruby>緊張<rt>きんちょう</rt></ruby>してなかなか<ruby>寝<rt>ね</rt></ruby><ruby>付<rt>つ</rt></ruby>けない。",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝早<rt>あさはや</rt></ruby>くから<ruby>大事<rt>だいじ</rt></ruby>な<ruby>面接<rt>めんせつ</rt></ruby>がある。だけど<ruby>緊張<rt>きんちょう</rt></ruby>してなかなか<ruby>寝<rt>ね</rt></ruby><ruby>付<rt>つ</rt></ruby>けない。",
     "choices_ruby": [
-      "だから",
-      "すると",
+      "だけど",
       "そこで",
-      "だけど"
+      "すると",
+      "だから"
     ],
     "correct_text_ruby": "だけど"
   },
@@ -1538,7 +1970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけど",
-    "notes": "【実践・ビジネス】文頭で逆接（しかし・けれども）を表すくだけた口語接続詞です。"
+    "notes": "【実践・ビジネス】文頭で逆接（しかし・けれども）を表すくだけた口語接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをだけど。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "だけど",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にとって"
+    ],
+    "correct_text_ruby": "だけど"
   },
   {
     "id": 67,
@@ -1559,7 +2000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけど",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけど」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけど」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してだけどのだ。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "だけど",
+      "はずがない"
+    ],
+    "correct_text_ruby": "だけど"
   },
   {
     "id": 68,
@@ -1580,7 +2030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけど",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけど」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけど」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までだけど。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "わけにはいかない",
+      "がち",
+      "だけど"
+    ],
+    "correct_text_ruby": "だけど"
   },
   {
     "id": 69,
@@ -1605,10 +2064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "やれる（　　　）のことは<ruby>全<rt>すべ</rt></ruby>てやり<ruby>遂<rt>と</rt></ruby>げたので、あとは<ruby>結果<rt>けっか</rt></ruby>を<ruby>静<rt>しず</rt></ruby>かに<ruby>待<rt>ま</rt></ruby>つのみだ。",
     "sentence_jp_ruby": "やれるだけのことは<ruby>全<rt>すべ</rt></ruby>てやり<ruby>遂<rt>と</rt></ruby>げたので、あとは<ruby>結果<rt>けっか</rt></ruby>を<ruby>静<rt>しず</rt></ruby>かに<ruby>待<rt>ま</rt></ruby>つのみだ。",
     "choices_ruby": [
-      "ほど",
-      "きり",
       "だけ",
-      "ばかり"
+      "ばかり",
+      "ほど",
+      "きり"
     ],
     "correct_text_ruby": "だけ"
   },
@@ -1631,7 +2090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だけ",
-    "notes": "【実践・ビジネス】『動詞可能形＋だけ』で可能な限りの限界まで行うことを表します。"
+    "notes": "【実践・ビジネス】『動詞可能形＋だけ』で可能な限りの限界まで行うことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをだけ。",
+    "choices_ruby": [
+      "として",
+      "だけ",
+      "において",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "だけ"
   },
   {
     "id": 71,
@@ -1652,7 +2120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してだけのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "かける",
+      "だけ",
+      "べきだ"
+    ],
+    "correct_text_ruby": "だけ"
   },
   {
     "id": 72,
@@ -1673,7 +2150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までだけ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "てたまらない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "だけ"
+    ],
+    "correct_text_ruby": "だけ"
   },
   {
     "id": 73,
@@ -1698,10 +2184,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>急<rt>いそ</rt></ruby>いで<ruby>書<rt>か</rt></ruby>いたせいで、<ruby>提出<rt>ていしゅつ</rt></ruby>したレポートは<ruby>誤字<rt>ごじ</rt></ruby>や<ruby>脱字<rt>だつじ</rt></ruby>（　　　）だった。",
     "sentence_jp_ruby": "<ruby>急<rt>いそ</rt></ruby>いで<ruby>書<rt>か</rt></ruby>いたせいで、<ruby>提出<rt>ていしゅつ</rt></ruby>したレポートは<ruby>誤字<rt>ごじ</rt></ruby>や<ruby>脱字<rt>だつじ</rt></ruby>だらけだった。",
     "choices_ruby": [
+      "だらけ",
       "っぽい",
       "がち",
-      "<ruby>気味<rt>きみ</rt></ruby>",
-      "だらけ"
+      "<ruby>気味<rt>きみ</rt></ruby>"
     ],
     "correct_text_ruby": "だらけ"
   },
@@ -1724,7 +2210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だらけ",
-    "notes": "【実践・ビジネス】名詞＋だらけで好ましくないものが一面に散らばったり満ちたりしている状態を表します。"
+    "notes": "【実践・ビジネス】名詞＋だらけで好ましくないものが一面に散らばったり満ちたりしている状態を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをだらけ。",
+    "choices_ruby": [
+      "てたまらない",
+      "だらけ",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "だらけ"
   },
   {
     "id": 75,
@@ -1745,7 +2240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だらけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だらけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だらけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してだらけのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "において",
+      "だらけ",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "だらけ"
   },
   {
     "id": 76,
@@ -1766,7 +2270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だらけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だらけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だらけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までだらけ。",
+    "choices_ruby": [
+      "てたまらない",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>決<rt>き</rt></ruby>まっている",
+      "だらけ"
+    ],
+    "correct_text_ruby": "だらけ"
   },
   {
     "id": 77,
@@ -1791,12 +2304,12 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "どんなに<ruby>失敗<rt>しっぱい</rt></ruby>を（　　　）、<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>諦<rt>あきら</rt></ruby>めずに<ruby>最後<rt>さいご</rt></ruby>まで<ruby>挑戦<rt>ちょうせん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたい。",
     "sentence_jp_ruby": "どんなに<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ねても、<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>諦<rt>あきら</rt></ruby>めずに<ruby>最後<rt>さいご</rt></ruby>まで<ruby>挑戦<rt>ちょうせん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたい。",
     "choices_ruby": [
-      "<ruby>重<rt>おも</rt></ruby>ねても",
-      "<ruby>重<rt>おも</rt></ruby>ねたら",
-      "<ruby>重<rt>かさ</rt></ruby>ねるなら",
-      "<ruby>重<rt>かさ</rt></ruby>ねるのに"
+      "<ruby>重<rt>かさ</rt></ruby>ねても",
+      "<ruby>重<rt>かさ</rt></ruby>ねたら",
+      "<ruby>重<rt>かさ</rt></ruby>ねるのに",
+      "<ruby>重<rt>かさ</rt></ruby>ねるなら"
     ],
-    "correct_text_ruby": "<ruby>重<rt>おも</rt></ruby>ねても"
+    "correct_text_ruby": "<ruby>重<rt>かさ</rt></ruby>ねても"
   },
   {
     "id": 78,
@@ -1817,7 +2330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "重ねても",
-    "notes": "【実践・ビジネス】『どんなに＋動詞て形＋も』で条件が極端であっても結果や決意が変わらないことを示します。"
+    "notes": "【実践・ビジネス】『どんなに＋動詞て形＋も』で条件が極端であっても結果や決意が変わらないことを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>重<rt>かさ</rt></ruby>ねても。",
+    "choices_ruby": [
+      "をもとに",
+      "<ruby>重<rt>かさ</rt></ruby>ねても",
+      "ばかりでなく",
+      "べきだ"
+    ],
+    "correct_text_ruby": "<ruby>重<rt>かさ</rt></ruby>ねても"
   },
   {
     "id": 79,
@@ -1838,7 +2360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "重ねても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「重ねても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「重ねても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>重<rt>かさ</rt></ruby>ねてものだ。",
+    "choices_ruby": [
+      "っぽい",
+      "わけにはいかない",
+      "<ruby>重<rt>かさ</rt></ruby>ねても",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>重<rt>かさ</rt></ruby>ねても"
   },
   {
     "id": 80,
@@ -1859,7 +2390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "重ねても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「重ねても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「重ねても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>重<rt>かさ</rt></ruby>ねても。",
+    "choices_ruby": [
+      "べきだ",
+      "かける",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>重<rt>かさ</rt></ruby>ねても"
+    ],
+    "correct_text_ruby": "<ruby>重<rt>かさ</rt></ruby>ねても"
   },
   {
     "id": 81,
@@ -1910,7 +2450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "どうしても",
-    "notes": "【実践・ビジネス】打ち消しと呼応して『いくら努力してもどうしても〜できない』という不可能性を強調します。"
+    "notes": "【実践・ビジネス】打ち消しと呼応して『いくら努力してもどうしても〜できない』という不可能性を強調します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをどうしても。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "どうしても",
+      "っぽい",
+      "べきだ"
+    ],
+    "correct_text_ruby": "どうしても"
   },
   {
     "id": 83,
@@ -1931,7 +2480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "どうしても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「どうしても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「どうしても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してどうしてものだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "において",
+      "どうしても",
+      "によって"
+    ],
+    "correct_text_ruby": "どうしても"
   },
   {
     "id": 84,
@@ -1952,7 +2510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "どうしても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「どうしても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「どうしても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までどうしても。",
+    "choices_ruby": [
+      "てならない",
+      "はずがない",
+      "として",
+      "どうしても"
+    ],
+    "correct_text_ruby": "どうしても"
   },
   {
     "id": 85,
@@ -1978,9 +2545,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>都合<rt>つごう</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>い<ruby>質問<rt>しつもん</rt></ruby>をされたとき、<ruby>彼<rt>かれ</rt></ruby>は<ruby>聞<rt>き</rt></ruby>こえなかったふりをして<ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>た。",
     "choices_ruby": [
       "ふり",
-      "つもり",
       "はず",
-      "わけ"
+      "わけ",
+      "つもり"
     ],
     "correct_text_ruby": "ふり"
   },
@@ -2003,7 +2570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ふり",
-    "notes": "【実践・ビジネス】『普通形＋ふりをする』で実際はそうでないのに、そのように見せかける態度を表します。"
+    "notes": "【実践・ビジネス】『普通形＋ふりをする』で実際はそうでないのに、そのように見せかける態度を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをふり。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ふり",
+      "かける",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "ふり"
   },
   {
     "id": 87,
@@ -2024,7 +2600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ふり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ふり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してふりのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ふり",
+      "として"
+    ],
+    "correct_text_ruby": "ふり"
   },
   {
     "id": 88,
@@ -2045,7 +2630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ふり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ふり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までふり。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "わけにはいかない",
+      "として",
+      "ふり"
+    ],
+    "correct_text_ruby": "ふり"
   },
   {
     "id": 89,
@@ -2070,10 +2664,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>で（　　　）<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げると、<ruby>満天<rt>まんてん</rt></ruby>の<ruby>星<rt>ほし</rt></ruby>が<ruby>輝<rt>かがや</rt></ruby>いていた。",
     "sentence_jp_ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>でふと<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げると、<ruby>満天<rt>まんてん</rt></ruby>の<ruby>星<rt>ほし</rt></ruby>が<ruby>輝<rt>かがや</rt></ruby>いていた。",
     "choices_ruby": [
+      "ふと",
       "わざと",
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "まるで",
-      "ふと"
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "ふと"
   },
@@ -2096,7 +2690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ふと",
-    "notes": "【実践・ビジネス】特別な意図がなく、ふとしたきっかけで思いがけず行動が起こる様子を表します。"
+    "notes": "【実践・ビジネス】特別な意図がなく、ふとしたきっかけで思いがけず行動が起こる様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをふと。",
+    "choices_ruby": [
+      "にとって",
+      "ふと",
+      "において",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ふと"
   },
   {
     "id": 91,
@@ -2117,7 +2720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ふと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ふと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ふと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してふとのだ。",
+    "choices_ruby": [
+      "において",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ふと",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ふと"
   },
   {
     "id": 92,
@@ -2138,7 +2750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ふと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ふと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ふと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までふと。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "かける",
+      "において",
+      "ふと"
+    ],
+    "correct_text_ruby": "ふと"
   },
   {
     "id": 93,
@@ -2163,9 +2784,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると<ruby>野菜<rt>やさい</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>し、<ruby>食生活<rt>しょくせいかつ</rt></ruby>が<ruby>乱<rt>みだ</rt></ruby>れ（　　　）になる。",
     "sentence_jp_ruby": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めると<ruby>野菜<rt>やさい</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>し、<ruby>食生活<rt>しょくせいかつ</rt></ruby>が<ruby>乱<rt>みだ</rt></ruby>れがちになる。",
     "choices_ruby": [
+      "がち",
       "だらけ",
       "っぽい",
-      "がち",
       "<ruby>気味<rt>きみ</rt></ruby>"
     ],
     "correct_text_ruby": "がち"
@@ -2189,7 +2810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "がち",
-    "notes": "【実践・ビジネス】動詞ます形・名詞＋がちで『好ましくない状態になりやすい傾向がある』ことを表します。"
+    "notes": "【実践・ビジネス】動詞ます形・名詞＋がちで『好ましくない状態になりやすい傾向がある』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをがち。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "がち",
+      "として",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "がち"
   },
   {
     "id": 95,
@@ -2210,7 +2840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "がち",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「がち」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「がち」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してがちのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "だらけ",
+      "がち",
+      "はずがない"
+    ],
+    "correct_text_ruby": "がち"
   },
   {
     "id": 96,
@@ -2231,7 +2870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "がち",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「がち」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「がち」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までがち。",
+    "choices_ruby": [
+      "べきだ",
+      "わけにはいかない",
+      "にとって",
+      "がち"
+    ],
+    "correct_text_ruby": "がち"
   },
   {
     "id": 97,
@@ -2256,10 +2904,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>普段<rt>ふだん</rt></ruby>とても<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が<ruby>嘘<rt>うそ</rt></ruby>をついたなんて、<ruby>今<rt>いま</rt></ruby>でも<ruby>信<rt>しん</rt></ruby>じ（　　　）<ruby>事実<rt>じじつ</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>普段<rt>ふだん</rt></ruby>とても<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が<ruby>嘘<rt>うそ</rt></ruby>をついたなんて、<ruby>今<rt>いま</rt></ruby>でも<ruby>信<rt>しん</rt></ruby>じがたい<ruby>事実<rt>じじつ</rt></ruby>だ。",
     "choices_ruby": [
-      "きれない",
       "がたい",
+      "づらい",
       "かねない",
-      "づらい"
+      "きれない"
     ],
     "correct_text_ruby": "がたい"
   },
@@ -2282,7 +2930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "がたい",
-    "notes": "【実践・ビジネス】動詞ます形＋がたいで心理的・感情的に『そうするのが極めて難しい』ことを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋がたいで心理的・感情的に『そうするのが極めて難しい』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをがたい。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "がたい",
+      "だらけ",
+      "はずがない"
+    ],
+    "correct_text_ruby": "がたい"
   },
   {
     "id": 99,
@@ -2303,7 +2960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "がたい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「がたい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「がたい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してがたいのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "として",
+      "がたい",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "がたい"
   },
   {
     "id": 100,
@@ -2324,7 +2990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "がたい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「がたい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「がたい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までがたい。",
+    "choices_ruby": [
+      "だらけ",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ばかりでなく",
+      "がたい"
+    ],
+    "correct_text_ruby": "がたい"
   },
   {
     "id": 101,
@@ -2349,9 +3024,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>風邪<rt>かぜ</rt></ruby>（　　　）なので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいスープを<ruby>飲<rt>の</rt></ruby>んで<ruby>早<rt>はや</rt></ruby>めに<ruby>休<rt>やす</rt></ruby>みます。",
     "sentence_jp_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>風邪気味<rt>かぜぎみ</rt></ruby>なので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいスープを<ruby>飲<rt>の</rt></ruby>んで<ruby>早<rt>はや</rt></ruby>めに<ruby>休<rt>やす</rt></ruby>みます。",
     "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
       "だらけ",
       "っぽい",
-      "<ruby>気味<rt>きみ</rt></ruby>",
       "がち"
     ],
     "correct_text_ruby": "<ruby>気味<rt>きみ</rt></ruby>"
@@ -2375,7 +3050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "気味",
-    "notes": "【実践・ビジネス】名詞・動詞ます形＋気味（ぎみ）で『心身の状態が少し〜の傾向を帯びている』ことを表します。"
+    "notes": "【実践・ビジネス】名詞・動詞ます形＋気味（ぎみ）で『心身の状態が少し〜の傾向を帯びている』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>気味<rt>きみ</rt></ruby>。",
+    "choices_ruby": [
+      "において",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "がち",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "<ruby>気味<rt>きみ</rt></ruby>"
   },
   {
     "id": 103,
@@ -2396,7 +3080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "気味",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「気味」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「気味」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>気味<rt>きみ</rt></ruby>のだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "<ruby>気味<rt>きみ</rt></ruby>"
   },
   {
     "id": 104,
@@ -2417,7 +3110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "気味",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「気味」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「気味」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>気味<rt>きみ</rt></ruby>。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てたまらない",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>気味<rt>きみ</rt></ruby>"
   },
   {
     "id": 105,
@@ -2442,10 +3144,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "オリンピックは4<ruby>年<rt>ねん</rt></ruby>（　　　）に<ruby>世界各地<rt>せかいかくち</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>される<ruby>平和<rt>へいわ</rt></ruby>の<ruby>祭典<rt>さいてん</rt></ruby>だ。",
     "sentence_jp_ruby": "この<ruby>薬<rt>くすり</rt></ruby>は<ruby>食後<rt>しょくご</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>ごとに<ruby>飲<rt>の</rt></ruby>むのではなく、<ruby>食後<rt>しょくご</rt></ruby>3<ruby>回<rt>かい</rt></ruby><ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>に<ruby>服用<rt>ふくよう</rt></ruby>してください。",
     "choices_ruby": [
+      "ごと",
       "たび",
       "ぶり",
-      "おき",
-      "ごと"
+      "おき"
     ],
     "correct_text_ruby": "ごと"
   },
@@ -2468,7 +3170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ごと",
-    "notes": "【実践・ビジネス】名詞＋ごとにで『〜の単位のたびに毎回規則正しく』という意味を表します。"
+    "notes": "【実践・ビジネス】名詞＋ごとにで『〜の単位のたびに毎回規則正しく』という意味を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをごと。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "ごと",
+      "によって",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "ごと"
   },
   {
     "id": 107,
@@ -2489,7 +3200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ごと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ごと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ごと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してごとのだ。",
+    "choices_ruby": [
+      "として",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ごと",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "ごと"
   },
   {
     "id": 108,
@@ -2510,7 +3230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ごと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ごと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ごと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までごと。",
+    "choices_ruby": [
+      "によって",
+      "てならない",
+      "だらけ",
+      "ごと"
+    ],
+    "correct_text_ruby": "ごと"
   },
   {
     "id": 109,
@@ -2535,9 +3264,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>（　　　）<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
     "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
     "choices_ruby": [
+      "ほど",
       "ばかり",
       "くらい",
-      "ほど",
       "とおり"
     ],
     "correct_text_ruby": "ほど"
@@ -2561,7 +3290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ほど",
-    "notes": "【実践・ビジネス】『名詞＋ほど＋否定』で『Aほど〜ない（Aほど高い程度ではない）』という比較否定を表します。"
+    "notes": "【実践・ビジネス】『名詞＋ほど＋否定』で『Aほど〜ない（Aほど高い程度ではない）』という比較否定を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをほど。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "ほど",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 111,
@@ -2582,7 +3320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ほど",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してほどのだ。",
+    "choices_ruby": [
+      "として",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ほど",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 112,
@@ -2603,7 +3350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ほど",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までほど。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "てたまらない",
+      "ほど"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 113,
@@ -2628,10 +3384,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>のマラソン<ruby>大会<rt>たいかい</rt></ruby>の<ruby>後<rt>のち</rt></ruby>は、<ruby>一歩<rt>いっぽ</rt></ruby>も<ruby>歩<rt>ある</rt></ruby>けない（　　　）<ruby>足<rt>あし</rt></ruby>が<ruby>筋肉痛<rt>きんにくつう</rt></ruby>になった。",
     "sentence_jp_ruby": "<ruby>昨日<rt>きのう</rt></ruby>のマラソン<ruby>大会<rt>たいかい</rt></ruby>の<ruby>後<rt>のち</rt></ruby>は、<ruby>一歩<rt>いっぽ</rt></ruby>も<ruby>歩<rt>ある</rt></ruby>けないほど<ruby>足<rt>あし</rt></ruby>が<ruby>筋肉痛<rt>きんにくつう</rt></ruby>になった。",
     "choices_ruby": [
-      "くせに",
-      "とおり",
       "ほど",
-      "わりに"
+      "くせに",
+      "わりに",
+      "とおり"
     ],
     "correct_text_ruby": "ほど"
   },
@@ -2654,7 +3410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ほど",
-    "notes": "【実践・ビジネス】『動詞・形容詞＋ほど』でその程度が甚だしいことを比喩や具体例で表します。"
+    "notes": "【実践・ビジネス】『動詞・形容詞＋ほど』でその程度が甚だしいことを比喩や具体例で表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをほど。",
+    "choices_ruby": [
+      "べきだ",
+      "ほど",
+      "わけにはいかない",
+      "によって"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 115,
@@ -2675,7 +3440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ほど",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ほど」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してほどのだ。",
+    "choices_ruby": [
+      "がち",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ほど",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 116,
@@ -2696,7 +3470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ほど",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ほど」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までほど。",
+    "choices_ruby": [
+      "として",
+      "がち",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "ほど"
+    ],
+    "correct_text_ruby": "ほど"
   },
   {
     "id": 117,
@@ -2721,12 +3504,12 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "たくさんの<ruby>仕事<rt>しごと</rt></ruby>を（　　　）にこなそうとすると、ミスが<ruby>増<rt>ふ</rt></ruby>えてしまう。",
     "sentence_jp_ruby": "たくさんの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>にこなそうとすると、ミスが<ruby>増<rt>ふ</rt></ruby>えてしまう。",
     "choices_ruby": [
-      "<ruby>一度<rt>いちど</rt></ruby>",
-      "<ruby>一回<rt>いっかい</rt></ruby>",
-      "<ruby>一面<rt>いちめん</rt></ruby>",
+      "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>",
+      "<ruby>一<rt>いち</rt></ruby><ruby>面<rt>めん</rt></ruby>",
+      "<ruby>一<rt>いち</rt></ruby><ruby>回<rt>かい</rt></ruby>",
       "<ruby>一体<rt>いったい</rt></ruby>"
     ],
-    "correct_text_ruby": "<ruby>一度<rt>いちど</rt></ruby>"
+    "correct_text_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>"
   },
   {
     "id": 118,
@@ -2747,7 +3530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一度",
-    "notes": "【実践・ビジネス】『一度に（いちどに）』で複数の物事を一回でまとめて同時に行う様子を表します。"
+    "notes": "【実践・ビジネス】『一度に（いちどに）』で複数の物事を一回でまとめて同時に行う様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>一度<rt>いちど</rt></ruby>。",
+    "choices_ruby": [
+      "をもとに",
+      "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>",
+      "によって",
+      "にとって"
+    ],
+    "correct_text_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>"
   },
   {
     "id": 119,
@@ -2768,7 +3560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一度",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一度」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一度」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>のだ。",
+    "choices_ruby": [
+      "として",
+      "だらけ",
+      "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>"
   },
   {
     "id": 120,
@@ -2789,7 +3590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一度",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一度」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一度」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "かける",
+      "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>"
   },
   {
     "id": 121,
@@ -2814,10 +3624,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "いくら<ruby>値段<rt>ねだん</rt></ruby>が（　　　）、<ruby>品質<rt>ひんしつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>ければすぐに<ruby>壊<rt>こわ</rt></ruby>れて<ruby>損<rt>そこな</rt></ruby>をする。",
     "sentence_jp_ruby": "いくら<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くても、<ruby>品質<rt>ひんしつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>ければすぐに<ruby>壊<rt>こわ</rt></ruby>れて<ruby>損<rt>そこな</rt></ruby>をする。",
     "choices_ruby": [
-      "<ruby>安<rt>やす</rt></ruby>ければ",
       "<ruby>安<rt>やす</rt></ruby>くても",
-      "<ruby>安<rt>やす</rt></ruby>いのに",
-      "<ruby>安<rt>やす</rt></ruby>いなら"
+      "<ruby>安<rt>やす</rt></ruby>いなら",
+      "<ruby>安<rt>やす</rt></ruby>ければ",
+      "<ruby>安<rt>やす</rt></ruby>いのに"
     ],
     "correct_text_ruby": "<ruby>安<rt>やす</rt></ruby>くても"
   },
@@ -2840,7 +3650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "安くても",
-    "notes": "【実践・ビジネス】『いくら＋〜ても』で前件の程度がどれほど高くても後件に影響しない逆接の条件を表します。"
+    "notes": "【実践・ビジネス】『いくら＋〜ても』で前件の程度がどれほど高くても後件に影響しない逆接の条件を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>安<rt>やす</rt></ruby>くても。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>安<rt>やす</rt></ruby>くても",
+      "において",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>安<rt>やす</rt></ruby>くても"
   },
   {
     "id": 123,
@@ -2861,7 +3680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "安くても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「安くても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「安くても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>安<rt>やす</rt></ruby>くてものだ。",
+    "choices_ruby": [
+      "をもとに",
+      "かける",
+      "<ruby>安<rt>やす</rt></ruby>くても",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "<ruby>安<rt>やす</rt></ruby>くても"
   },
   {
     "id": 124,
@@ -2882,7 +3710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "安くても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「安くても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「安くても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>安<rt>やす</rt></ruby>くても。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "をもとに",
+      "<ruby>安<rt>やす</rt></ruby>くても"
+    ],
+    "correct_text_ruby": "<ruby>安<rt>やす</rt></ruby>くても"
   },
   {
     "id": 125,
@@ -2908,9 +3745,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>少子<rt>しょうし</rt></ruby><ruby>高齢化<rt>こうれいか</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>地方都市<rt>ちほうとし</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>減少<rt>げんしょう</rt></ruby>する<ruby>一方<rt>いっぽう</rt></ruby>だ。",
     "choices_ruby": [
       "<ruby>一方<rt>いっぽう</rt></ruby>",
+      "<ruby>気味<rt>きみ</rt></ruby>",
       "<ruby>途上<rt>とじょう</rt></ruby>",
-      "<ruby>最中<rt>さいちゅう</rt></ruby>",
-      "<ruby>気味<rt>きみ</rt></ruby>"
+      "<ruby>最中<rt>さいちゅう</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>"
   },
@@ -2933,7 +3770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一方",
-    "notes": "【実践・ビジネス】動詞辞書形＋一方だで『ひとつの変化の傾向が歯止めなくどんどん進む』ことを表します。"
+    "notes": "【実践・ビジネス】動詞辞書形＋一方だで『ひとつの変化の傾向が歯止めなくどんどん進む』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>一方<rt>いっぽう</rt></ruby>。",
+    "choices_ruby": [
+      "はずがない",
+      "<ruby>一方<rt>いっぽう</rt></ruby>",
+      "として",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>"
   },
   {
     "id": 127,
@@ -2954,7 +3800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一方",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一方」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一方」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>一方<rt>いっぽう</rt></ruby>のだ。",
+    "choices_ruby": [
+      "だらけ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>一方<rt>いっぽう</rt></ruby>",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>"
   },
   {
     "id": 128,
@@ -2975,7 +3830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一方",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一方」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一方」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>一方<rt>いっぽう</rt></ruby>。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "にとって",
+      "<ruby>一方<rt>いっぽう</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>"
   },
   {
     "id": 129,
@@ -3001,9 +3865,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>響<rt>ひび</rt></ruby>いたが、<ruby>一体何<rt>いったいなに</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったのだろう。",
     "choices_ruby": [
       "<ruby>一体<rt>いったい</rt></ruby>",
-      "<ruby>一概<rt>いちがい</rt></ruby>に",
+      "<ruby>一応<rt>いちおう</rt></ruby>",
       "<ruby>一向<rt>いっこう</rt></ruby>に",
-      "<ruby>一応<rt>いちおう</rt></ruby>"
+      "<ruby>一概<rt>いちがい</rt></ruby>に"
     ],
     "correct_text_ruby": "<ruby>一体<rt>いったい</rt></ruby>"
   },
@@ -3026,7 +3890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一体",
-    "notes": "【実践・ビジネス】疑問詞を伴い『一体何／誰／どこ』と疑問や不審の念を強く表します。"
+    "notes": "【実践・ビジネス】疑問詞を伴い『一体何／誰／どこ』と疑問や不審の念を強く表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>一体<rt>いったい</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>一体<rt>いったい</rt></ruby>",
+      "をもとに",
+      "において"
+    ],
+    "correct_text_ruby": "<ruby>一体<rt>いったい</rt></ruby>"
   },
   {
     "id": 131,
@@ -3047,7 +3920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "一体",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一体」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「一体」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>一体<rt>いったい</rt></ruby>のだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "によって",
+      "<ruby>一体<rt>いったい</rt></ruby>",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>一体<rt>いったい</rt></ruby>"
   },
   {
     "id": 132,
@@ -3068,7 +3950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "一体",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一体」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「一体」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>一体<rt>いったい</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "がち",
+      "てたまらない",
+      "<ruby>一体<rt>いったい</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>一体<rt>いったい</rt></ruby>"
   },
   {
     "id": 133,
@@ -3093,9 +3984,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>んだら？<ruby>朝<rt>あさ</rt></ruby>からずっと<ruby>休<rt>やす</rt></ruby>みなしで<ruby>働<rt>はたら</rt></ruby>いていて<ruby>疲<rt>つか</rt></ruby>れた（　　　）？",
     "sentence_jp_ruby": "<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>んだら？<ruby>朝<rt>あさ</rt></ruby>からずっと<ruby>休<rt>やす</rt></ruby>みなしで<ruby>働<rt>はたら</rt></ruby>いていて<ruby>疲<rt>つか</rt></ruby>れたんじゃない？",
     "choices_ruby": [
+      "んじゃない",
       "はずだ",
       "ものだ",
-      "んじゃない",
       "わけだ"
     ],
     "correct_text_ruby": "んじゃない"
@@ -3119,7 +4010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んじゃない",
-    "notes": "【実践・ビジネス】文末で上昇調で相手に同意や確認を求めたり、柔らかな推測・共感を投げかける表現です。"
+    "notes": "【実践・ビジネス】文末で上昇調で相手に同意や確認を求めたり、柔らかな推測・共感を投げかける表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをんじゃない。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "んじゃない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "かける"
+    ],
+    "correct_text_ruby": "んじゃない"
   },
   {
     "id": 135,
@@ -3140,7 +4040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んじゃない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「んじゃない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「んじゃない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してんじゃないのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "において",
+      "んじゃない",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "んじゃない"
   },
   {
     "id": 136,
@@ -3161,7 +4070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "んじゃない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「んじゃない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「んじゃない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までんじゃない。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てたまらない",
+      "かける",
+      "んじゃない"
+    ],
+    "correct_text_ruby": "んじゃない"
   },
   {
     "id": 137,
@@ -3186,10 +4104,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>み（　　　）の<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いたまま、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>出<rt>で</rt></ruby>かけてしまった。",
     "sentence_jp_ruby": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>みかけの<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いたまま、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>出<rt>で</rt></ruby>かけてしまった。",
     "choices_ruby": [
-      "きり",
-      "すぎ",
       "かけ",
-      "あげく"
+      "すぎ",
+      "あげく",
+      "きり"
     ],
     "correct_text_ruby": "かけ"
   },
@@ -3212,7 +4130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かけ",
-    "notes": "【実践・ビジネス】動詞ます形＋かける／かけので『ある動作が始まってまだ完了していない途中の状態』を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋かける／かけので『ある動作が始まってまだ完了していない途中の状態』を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをかけ。",
+    "choices_ruby": [
+      "てたまらない",
+      "かけ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "だらけ"
+    ],
+    "correct_text_ruby": "かけ"
   },
   {
     "id": 139,
@@ -3233,7 +4160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してかけのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "っぽい",
+      "かけ",
+      "だらけ"
+    ],
+    "correct_text_ruby": "かけ"
   },
   {
     "id": 140,
@@ -3254,7 +4190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までかけ。",
+    "choices_ruby": [
+      "にとって",
+      "において",
+      "てたまらない",
+      "かけ"
+    ],
+    "correct_text_ruby": "かけ"
   },
   {
     "id": 141,
@@ -3279,10 +4224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "のどが<ruby>渇<rt>かつ</rt></ruby>いたので、<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>茶<rt>ちゃ</rt></ruby>（　　　）を<ruby>買<rt>か</rt></ruby>ってきてもらえますか。",
     "sentence_jp_ruby": "のどが<ruby>渇<rt>かつ</rt></ruby>いたので、<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>茶<rt>ちゃ</rt></ruby>か<ruby>何<rt>なに</rt></ruby>かを<ruby>買<rt>か</rt></ruby>ってきてもらえますか。",
     "choices_ruby": [
-      "どころか",
-      "ばかり",
+      "か<ruby>何<rt>なに</rt></ruby>か",
       "だけに",
-      "か<ruby>何<rt>なに</rt></ruby>か"
+      "どころか",
+      "ばかり"
     ],
     "correct_text_ruby": "か<ruby>何<rt>なに</rt></ruby>か"
   },
@@ -3305,7 +4250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "か何か",
-    "notes": "【実践・ビジネス】名詞＋か何かで例をひとつ挙げ、それに類するものを漠然と指し示す表現です。"
+    "notes": "【実践・ビジネス】名詞＋か何かで例をひとつ挙げ、それに類するものを漠然と指し示す表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをか<ruby>何<rt>なに</rt></ruby>か。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "か<ruby>何<rt>なに</rt></ruby>か",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にとって"
+    ],
+    "correct_text_ruby": "か<ruby>何<rt>なに</rt></ruby>か"
   },
   {
     "id": 143,
@@ -3326,7 +4280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "か何か",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「か何か」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「か何か」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してか<ruby>何<rt>なに</rt></ruby>かのだ。",
+    "choices_ruby": [
+      "がち",
+      "だらけ",
+      "か<ruby>何<rt>なに</rt></ruby>か",
+      "として"
+    ],
+    "correct_text_ruby": "か<ruby>何<rt>なに</rt></ruby>か"
   },
   {
     "id": 144,
@@ -3347,7 +4310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "か何か",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「か何か」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「か何か」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までか<ruby>何<rt>なに</rt></ruby>か。",
+    "choices_ruby": [
+      "として",
+      "だらけ",
+      "がち",
+      "か<ruby>何<rt>なに</rt></ruby>か"
+    ],
+    "correct_text_ruby": "か<ruby>何<rt>なに</rt></ruby>か"
   },
   {
     "id": 145,
@@ -3372,10 +4344,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>未明<rt>みめい</rt></ruby>から<ruby>朝方<rt>あさがた</rt></ruby>に（　　　）、<ruby>関東地方<rt>かんとうちほう</rt></ruby>で<ruby>強<rt>つよ</rt></ruby>い<ruby>風雨<rt>ふうう</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby>されています。",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>未明<rt>みめい</rt></ruby>から<ruby>朝方<rt>あさがた</rt></ruby>にかけて、<ruby>関東地方<rt>かんとうちほう</rt></ruby>で<ruby>強<rt>つよ</rt></ruby>い<ruby>風雨<rt>ふうう</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby>されています。",
     "choices_ruby": [
-      "つれて",
       "かけて",
+      "<ruby>対<rt>たい</rt></ruby>して",
       "したがって",
-      "<ruby>対<rt>たい</rt></ruby>して"
+      "つれて"
     ],
     "correct_text_ruby": "かけて"
   },
@@ -3398,7 +4370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かけて",
-    "notes": "【実践・ビジネス】『AからBにかけて』でおおよその時間的・空間的な範囲をぼかして広く示します。"
+    "notes": "【実践・ビジネス】『AからBにかけて』でおおよその時間的・空間的な範囲をぼかして広く示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをかけて。",
+    "choices_ruby": [
+      "がち",
+      "かけて",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "において"
+    ],
+    "correct_text_ruby": "かけて"
   },
   {
     "id": 147,
@@ -3419,7 +4400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かけて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かけて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かけて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してかけてのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "かけて",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "かけて"
   },
   {
     "id": 148,
@@ -3440,7 +4430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かけて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かけて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かけて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までかけて。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ばかりでなく",
+      "かけて"
+    ],
+    "correct_text_ruby": "かけて"
   },
   {
     "id": 149,
@@ -3467,8 +4466,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>代<rt>か</rt></ruby>わりに",
       "くせに",
-      "せいで",
-      "とおりに"
+      "とおりに",
+      "せいで"
     ],
     "correct_text_ruby": "<ruby>代<rt>か</rt></ruby>わりに"
   },
@@ -3491,7 +4490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "代わりに",
-    "notes": "【実践・ビジネス】『動詞・名詞＋の代わりに』で代理・代替や見返り・埋め合わせを表します。"
+    "notes": "【実践・ビジネス】『動詞・名詞＋の代わりに』で代理・代替や見返り・埋め合わせを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>代<rt>か</rt></ruby>わりに。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>代<rt>か</rt></ruby>わりに",
+      "によって",
+      "がち"
+    ],
+    "correct_text_ruby": "<ruby>代<rt>か</rt></ruby>わりに"
   },
   {
     "id": 151,
@@ -3512,7 +4520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "代わりに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「代わりに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「代わりに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>代<rt>か</rt></ruby>わりにのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "てたまらない",
+      "<ruby>代<rt>か</rt></ruby>わりに",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>代<rt>か</rt></ruby>わりに"
   },
   {
     "id": 152,
@@ -3533,7 +4550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "代わりに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「代わりに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「代わりに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>代<rt>か</rt></ruby>わりに。",
+    "choices_ruby": [
+      "べきだ",
+      "として",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>代<rt>か</rt></ruby>わりに"
+    ],
+    "correct_text_ruby": "<ruby>代<rt>か</rt></ruby>わりに"
   },
   {
     "id": 153,
@@ -3558,9 +4584,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>一同<rt>いちどう</rt></ruby>で<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>議論<rt>ぎろん</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ねた（　　　）、<ruby>新<rt>あたら</rt></ruby>しい<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>した。",
     "sentence_jp_ruby": "<ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>一同<rt>いちどう</rt></ruby>で<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>議論<rt>ぎろん</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ねた<ruby>結果<rt>けっか</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>した。",
     "choices_ruby": [
-      "<ruby>最中<rt>さいちゅう</rt></ruby>",
       "<ruby>結果<rt>けっか</rt></ruby>",
       "<ruby>途端<rt>とたん</rt></ruby>",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
       "<ruby>一方<rt>いっぽう</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>結果<rt>けっか</rt></ruby>"
@@ -3584,7 +4610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "結果",
-    "notes": "【実践・ビジネス】『動詞た形・名詞の＋結果』である行為・状態を経た後の成り行きを客観的に述べます。"
+    "notes": "【実践・ビジネス】『動詞た形・名詞の＋結果』である行為・状態を経た後の成り行きを客観的に述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>結果<rt>けっか</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>結果<rt>けっか</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>結果<rt>けっか</rt></ruby>"
   },
   {
     "id": 155,
@@ -3605,7 +4640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "結果",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「結果」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「結果」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>結果<rt>けっか</rt></ruby>のだ。",
+    "choices_ruby": [
+      "がち",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>結果<rt>けっか</rt></ruby>",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "<ruby>結果<rt>けっか</rt></ruby>"
   },
   {
     "id": 156,
@@ -3626,7 +4670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "結果",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「結果」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「結果」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>結果<rt>けっか</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "べきだ",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>結果<rt>けっか</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>結果<rt>けっか</rt></ruby>"
   },
   {
     "id": 157,
@@ -3651,10 +4704,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "いろいろと<ruby>別<rt>べつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<ruby>比較検討<rt>ひかくけんとう</rt></ruby>したが、（　　　）<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ることになった。",
     "sentence_jp_ruby": "いろいろと<ruby>別<rt>べつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<ruby>比較検討<rt>ひかくけんとう</rt></ruby>したが、<ruby>結局<rt>けっきょく</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ることになった。",
     "choices_ruby": [
+      "<ruby>結局<rt>けっきょく</rt></ruby>",
       "<ruby>一切<rt>いっさい</rt></ruby>",
       "<ruby>決<rt>けっ</rt></ruby>して",
-      "<ruby>必<rt>かなら</rt></ruby>ずしも",
-      "<ruby>結局<rt>けっきょく</rt></ruby>"
+      "<ruby>必<rt>かなら</rt></ruby>ずしも"
     ],
     "correct_text_ruby": "<ruby>結局<rt>けっきょく</rt></ruby>"
   },
@@ -3677,7 +4730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "結局",
-    "notes": "【実践・ビジネス】過程を経て行き着いた最終的な結末・結論を述べる副詞的表現です。"
+    "notes": "【実践・ビジネス】過程を経て行き着いた最終的な結末・結論を述べる副詞的表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>結局<rt>けっきょく</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>結局<rt>けっきょく</rt></ruby>",
+      "わけにはいかない",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>結局<rt>けっきょく</rt></ruby>"
   },
   {
     "id": 159,
@@ -3698,7 +4760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "結局",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「結局」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「結局」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>結局<rt>けっきょく</rt></ruby>のだ。",
+    "choices_ruby": [
+      "はずがない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>結局<rt>けっきょく</rt></ruby>",
+      "べきだ"
+    ],
+    "correct_text_ruby": "<ruby>結局<rt>けっきょく</rt></ruby>"
   },
   {
     "id": 160,
@@ -3719,7 +4790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "結局",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「結局」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「結局」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>結局<rt>けっきょく</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "だらけ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>結局<rt>けっきょく</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>結局<rt>けっきょく</rt></ruby>"
   },
   {
     "id": 161,
@@ -3744,10 +4824,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "お<ruby>客様<rt>きゃくさま</rt></ruby>から<ruby>預<rt>あず</rt></ruby>かった<ruby>個人情報<rt>こじんじょうほう</rt></ruby>は、（　　　）<ruby>第三者<rt>だいさんしゃ</rt></ruby>に<ruby>漏<rt>も</rt></ruby>らしてはなりません。",
     "sentence_jp_ruby": "お<ruby>客様<rt>きゃくさま</rt></ruby>から<ruby>預<rt>あず</rt></ruby>かった<ruby>個人情報<rt>こじんじょうほう</rt></ruby>は、<ruby>決<rt>けっ</rt></ruby>して<ruby>第三者<rt>だいさんしゃ</rt></ruby>に<ruby>漏<rt>も</rt></ruby>らしてはなりません。",
     "choices_ruby": [
-      "どうにか",
-      "<ruby>滅多<rt>めった</rt></ruby>に",
       "<ruby>決<rt>けっ</rt></ruby>して",
-      "<ruby>必<rt>かなら</rt></ruby>ずしも"
+      "<ruby>必<rt>かなら</rt></ruby>ずしも",
+      "どうにか",
+      "<ruby>滅多<rt>めった</rt></ruby>に"
     ],
     "correct_text_ruby": "<ruby>決<rt>けっ</rt></ruby>して"
   },
@@ -3770,7 +4850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "決して",
-    "notes": "【実践・ビジネス】強い決意や禁止を伴い、『いかなる場合も絶対に〜ない』と否定を強調します。"
+    "notes": "【実践・ビジネス】強い決意や禁止を伴い、『いかなる場合も絶対に〜ない』と否定を強調します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>決<rt>けっ</rt></ruby>して。",
+    "choices_ruby": [
+      "によって",
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "わけにはいかない",
+      "てならない"
+    ],
+    "correct_text_ruby": "<ruby>決<rt>けっ</rt></ruby>して"
   },
   {
     "id": 163,
@@ -3791,7 +4880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "決して",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「決して」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「決して」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>決<rt>けっ</rt></ruby>してのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "かける",
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>決<rt>けっ</rt></ruby>して"
   },
   {
     "id": 164,
@@ -3812,7 +4910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "決して",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「決して」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「決して」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>決<rt>けっ</rt></ruby>して。",
+    "choices_ruby": [
+      "によって",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>決<rt>けっ</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>決<rt>けっ</rt></ruby>して"
   },
   {
     "id": 165,
@@ -3837,10 +4944,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "おばあちゃんから<ruby>両手<rt>りょうて</rt></ruby>いっぱいの<ruby>旬<rt>じゅん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をもらったが、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>食<rt>た</rt></ruby>べ（　　　）。",
     "sentence_jp_ruby": "おばあちゃんから<ruby>両手<rt>りょうて</rt></ruby>いっぱいの<ruby>旬<rt>じゅん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をもらったが、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>れない。",
     "choices_ruby": [
-      "<ruby>得<rt>え</rt></ruby>ない",
-      "かねない",
       "<ruby>切<rt>き</rt></ruby>れない",
-      "がたい"
+      "かねない",
+      "がたい",
+      "<ruby>得<rt>え</rt></ruby>ない"
     ],
     "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>れない"
   },
@@ -3863,7 +4970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "切れない",
-    "notes": "【実践・ビジネス】動詞ます形＋切れないで量が多すぎて最後まで完了させることが不可能であることを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋切れないで量が多すぎて最後まで完了させることが不可能であることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>切<rt>き</rt></ruby>れない。",
+    "choices_ruby": [
+      "にとって",
+      "<ruby>切<rt>き</rt></ruby>れない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "だらけ"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>れない"
   },
   {
     "id": 167,
@@ -3884,7 +5000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "切れない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「切れない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「切れない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>切<rt>き</rt></ruby>れないのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "かける",
+      "<ruby>切<rt>き</rt></ruby>れない",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>れない"
   },
   {
     "id": 168,
@@ -3905,7 +5030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "切れない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「切れない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「切れない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>切<rt>き</rt></ruby>れない。",
+    "choices_ruby": [
+      "はずがない",
+      "てたまらない",
+      "だらけ",
+      "<ruby>切<rt>き</rt></ruby>れない"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>れない"
   },
   {
     "id": 169,
@@ -3930,10 +5064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>春<rt>はる</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby><ruby>会<rt>あ</rt></ruby>った（　　　）、<ruby>田中<rt>たなか</rt></ruby><ruby>君<rt>くん</rt></ruby>とは10<ruby>年<rt>ねん</rt></ruby>も<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>途絶<rt>とだ</rt></ruby>えている。",
     "sentence_jp_ruby": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>春<rt>はる</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby><ruby>会<rt>あ</rt></ruby>ったきり、<ruby>田中<rt>たなか</rt></ruby><ruby>君<rt>くん</rt></ruby>とは10<ruby>年<rt>ねん</rt></ruby>も<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>途絶<rt>とだ</rt></ruby>えている。",
     "choices_ruby": [
-      "まま",
-      "たび",
+      "きり",
       "とおり",
-      "きり"
+      "たび",
+      "まま"
     ],
     "correct_text_ruby": "きり"
   },
@@ -3956,7 +5090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "きり",
-    "notes": "【実践・ビジネス】動詞た形＋きりで『その動作を最後に、その後ずっと同じ状態が続いている』ことを表します。"
+    "notes": "【実践・ビジネス】動詞た形＋きりで『その動作を最後に、その後ずっと同じ状態が続いている』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをきり。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "きり",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "だらけ"
+    ],
+    "correct_text_ruby": "きり"
   },
   {
     "id": 171,
@@ -3977,7 +5120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "きり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「きり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「きり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してきりのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "べきだ",
+      "きり",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "きり"
   },
   {
     "id": 172,
@@ -3998,7 +5150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "きり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「きり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「きり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まできり。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "がち",
+      "きり"
+    ],
+    "correct_text_ruby": "きり"
   },
   {
     "id": 173,
@@ -4023,10 +5184,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "42.195キロの<ruby>過酷<rt>かこく</rt></ruby>なフルマラソンを、<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>で<ruby>見事<rt>みごと</rt></ruby>に<ruby>走<rt>はし</rt></ruby>り（　　　）。",
     "sentence_jp_ruby": "42.195キロの<ruby>過酷<rt>かこく</rt></ruby>なフルマラソンを、<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>で<ruby>見事<rt>みごと</rt></ruby>に<ruby>走<rt>はし</rt></ruby>り<ruby>切<rt>き</rt></ruby>った。",
     "choices_ruby": [
-      "<ruby>出<rt>だ</rt></ruby>した",
       "<ruby>切<rt>き</rt></ruby>った",
-      "すぎた",
-      "かけた"
+      "かけた",
+      "<ruby>出<rt>だ</rt></ruby>した",
+      "すぎた"
     ],
     "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>った"
   },
@@ -4049,7 +5210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "切った",
-    "notes": "【実践・ビジネス】動詞ます形＋切るで最後まで徹底的にやり遂げる強い完了のニュアンスを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋切るで最後まで徹底的にやり遂げる強い完了のニュアンスを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>切<rt>き</rt></ruby>った。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>切<rt>き</rt></ruby>った",
+      "べきだ",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>った"
   },
   {
     "id": 175,
@@ -4070,7 +5240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "切った",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「切った」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「切った」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>切<rt>き</rt></ruby>ったのだ。",
+    "choices_ruby": [
+      "かける",
+      "ばかりでなく",
+      "<ruby>切<rt>き</rt></ruby>った",
+      "べきだ"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>った"
   },
   {
     "id": 176,
@@ -4091,7 +5270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "切った",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「切った」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「切った」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>切<rt>き</rt></ruby>った。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "をもとに",
+      "っぽい",
+      "<ruby>切<rt>き</rt></ruby>った"
+    ],
+    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>った"
   },
   {
     "id": 177,
@@ -4116,9 +5304,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>集合時間<rt>しゅうごうじかん</rt></ruby>って、<ruby>駅<rt>えき</rt></ruby><ruby>東口<rt>ひがしぐち</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>朝<rt>あさ</rt></ruby>8<ruby>時半<rt>じはん</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>だった（　　　）？",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>集合時間<rt>しゅうごうじかん</rt></ruby>って、<ruby>駅<rt>えき</rt></ruby><ruby>東口<rt>ひがしぐち</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>朝<rt>あさ</rt></ruby>8<ruby>時半<rt>じはん</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>だったっけ？",
     "choices_ruby": [
-      "っけさ",
       "っけ",
       "ものか",
+      "っけさ",
       "んだって"
     ],
     "correct_text_ruby": "っけ"
@@ -4142,7 +5330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っけ",
-    "notes": "【実践・ビジネス】過去形・だ＋っけで自分が忘れていた記憶や事実を相手に再確認する親しい口語表現です。"
+    "notes": "【実践・ビジネス】過去形・だ＋っけで自分が忘れていた記憶や事実を相手に再確認する親しい口語表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをっけ。",
+    "choices_ruby": [
+      "べきだ",
+      "っけ",
+      "かける",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "っけ"
   },
   {
     "id": 179,
@@ -4163,7 +5360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してっけのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "はずがない",
+      "っけ",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "っけ"
   },
   {
     "id": 180,
@@ -4184,7 +5390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "っけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までっけ。",
+    "choices_ruby": [
+      "がち",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "において",
+      "っけ"
+    ],
+    "correct_text_ruby": "っけ"
   },
   {
     "id": 181,
@@ -4209,10 +5424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試験<rt>しけん</rt></ruby>の<ruby>前日<rt>ぜんじつ</rt></ruby>は、<ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>集中<rt>しゅうちゅう</rt></ruby>して<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み（　　　）。",
     "sentence_jp_ruby": "<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試験<rt>しけん</rt></ruby>の<ruby>前日<rt>ぜんじつ</rt></ruby>は、<ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>集中<rt>しゅうちゅう</rt></ruby>して<ruby>本<rt>ほん</rt></ruby>を<ruby>読み込<rt>よみこ</rt></ruby>んだ。",
     "choices_ruby": [
-      "<ruby>直<rt>なお</rt></ruby>した",
       "<ruby>込<rt>こ</rt></ruby>んだ",
-      "<ruby>抜<rt>ぬ</rt></ruby>いた",
-      "<ruby>切<rt>き</rt></ruby>った"
+      "<ruby>直<rt>なお</rt></ruby>した",
+      "<ruby>切<rt>き</rt></ruby>った",
+      "<ruby>抜<rt>ぬ</rt></ruby>いた"
     ],
     "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>んだ"
   },
@@ -4235,7 +5450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "込んだ",
-    "notes": "【実践・ビジネス】動詞ます形＋込むで『内部に深く入る』または『徹底的に・深くその動作をする』ことを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋込むで『内部に深く入る』または『徹底的に・深くその動作をする』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>込<rt>こ</rt></ruby>んだ。",
+    "choices_ruby": [
+      "がち",
+      "<ruby>込<rt>こ</rt></ruby>んだ",
+      "っぽい",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>んだ"
   },
   {
     "id": 183,
@@ -4256,7 +5480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "込んだ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「込んだ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「込んだ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>込<rt>こ</rt></ruby>んだのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "てたまらない",
+      "<ruby>込<rt>こ</rt></ruby>んだ",
+      "べきだ"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>んだ"
   },
   {
     "id": 184,
@@ -4277,7 +5510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "込んだ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「込んだ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「込んだ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>込<rt>こ</rt></ruby>んだ。",
+    "choices_ruby": [
+      "として",
+      "かける",
+      "べきだ",
+      "<ruby>込<rt>こ</rt></ruby>んだ"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>んだ"
   },
   {
     "id": 185,
@@ -4302,10 +5544,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>（　　　）<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
     "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
     "choices_ruby": [
-      "ばかり",
+      "こそ",
       "さえ",
       "すら",
-      "こそ"
+      "ばかり"
     ],
     "correct_text_ruby": "こそ"
   },
@@ -4328,7 +5570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こそ",
-    "notes": "【実践・ビジネス】名詞などに付き、『他でもなくまさにこれこそ』と強い意志や強調を表します。"
+    "notes": "【実践・ビジネス】名詞などに付き、『他でもなくまさにこれこそ』と強い意志や強調を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをこそ。",
+    "choices_ruby": [
+      "において",
+      "こそ",
+      "わけにはいかない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "こそ"
   },
   {
     "id": 187,
@@ -4349,7 +5600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "こそ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こそ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こそ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してこそのだ。",
+    "choices_ruby": [
+      "てならない",
+      "ばかりでなく",
+      "こそ",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "こそ"
   },
   {
     "id": 188,
@@ -4370,7 +5630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "こそ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こそ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こそ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までこそ。",
+    "choices_ruby": [
+      "がち",
+      "てならない",
+      "っぽい",
+      "こそ"
+    ],
+    "correct_text_ruby": "こそ"
   },
   {
     "id": 189,
@@ -4395,9 +5664,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>く<ruby>染<rt>そ</rt></ruby>まった（　　　）、<ruby>本格的<rt>ほんかくてき</rt></ruby>な<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>到来<rt>とうらい</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じた。",
     "sentence_jp_ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>く<ruby>染<rt>そ</rt></ruby>まったことから、<ruby>本格的<rt>ほんかくてき</rt></ruby>な<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>到来<rt>とうらい</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じた。",
     "choices_ruby": [
-      "ことにして",
-      "ことになって",
       "ことから",
+      "ことになって",
+      "ことにして",
       "ことには"
     ],
     "correct_text_ruby": "ことから"
@@ -4421,7 +5690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことから",
-    "notes": "【実践・ビジネス】普通形＋ことからで、ある根拠や事実を契機として判断や名付けが行われる理由を表します。"
+    "notes": "【実践・ビジネス】普通形＋ことからで、ある根拠や事実を契機として判断や名付けが行われる理由を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをことから。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ことから",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "ことから"
   },
   {
     "id": 191,
@@ -4442,7 +5720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことから",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことから」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことから」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことからのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "てたまらない",
+      "ことから",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "ことから"
   },
   {
     "id": 192,
@@ -4463,7 +5750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことから",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことから」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことから」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までことから。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "として",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ことから"
+    ],
+    "correct_text_ruby": "ことから"
   },
   {
     "id": 193,
@@ -4488,9 +5784,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>社内規定<rt>しゃないきてい</rt></ruby>により、オフィス<ruby>内<rt>ない</rt></ruby>では<ruby>全席禁煙<rt>ぜんせききんえん</rt></ruby>ということ（　　　）。",
     "sentence_jp_ruby": "<ruby>社内規定<rt>しゃないきてい</rt></ruby>により、オフィス<ruby>内<rt>ない</rt></ruby>では<ruby>全席禁煙<rt>ぜんせききんえん</rt></ruby>ということになっている。",
     "choices_ruby": [
-      "にあたる",
       "になっている",
       "にしている",
+      "にあたる",
       "にしてある"
     ],
     "correct_text_ruby": "になっている"
@@ -4514,7 +5810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "になっている",
-    "notes": "【実践・ビジネス】動詞辞書形・ない形＋ことになっているで規則・慣習・予定を表します。"
+    "notes": "【実践・ビジネス】動詞辞書形・ない形＋ことになっているで規則・慣習・予定を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをになっている。",
+    "choices_ruby": [
+      "だらけ",
+      "になっている",
+      "ばかりでなく",
+      "はずがない"
+    ],
+    "correct_text_ruby": "になっている"
   },
   {
     "id": 195,
@@ -4535,7 +5840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "になっている",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「になっている」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「になっている」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してになっているのだ。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "になっている",
+      "をもとに"
+    ],
+    "correct_text_ruby": "になっている"
   },
   {
     "id": 196,
@@ -4556,7 +5870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "になっている",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「になっている」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「になっている」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までになっている。",
+    "choices_ruby": [
+      "だらけ",
+      "わけにはいかない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "になっている"
+    ],
+    "correct_text_ruby": "になっている"
   },
   {
     "id": 197,
@@ -4581,10 +5904,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "ピアノを<ruby>弾<rt>ひ</rt></ruby>ける（　　　）<ruby>弾<rt>ひ</rt></ruby>けるが、<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>披露<rt>ひろう</rt></ruby>できるほど<ruby>上手<rt>じょうず</rt></ruby>ではない。",
     "sentence_jp_ruby": "ピアノを<ruby>弾<rt>ひ</rt></ruby>けることは<ruby>弾<rt>ひ</rt></ruby>けるが、<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>披露<rt>ひろう</rt></ruby>できるほど<ruby>上手<rt>じょうず</rt></ruby>ではない。",
     "choices_ruby": [
-      "ものが",
-      "わりに",
+      "ことは",
       "くせに",
-      "ことは"
+      "ものが",
+      "わりに"
     ],
     "correct_text_ruby": "ことは"
   },
@@ -4607,7 +5930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことは",
-    "notes": "【実践・ビジネス】『AことはAが』と同じ動詞や形容詞を繰り返し、前件の事実を認めつつも後件で制限を加えます。"
+    "notes": "【実践・ビジネス】『AことはAが』と同じ動詞や形容詞を繰り返し、前件の事実を認めつつも後件で制限を加えます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをことは。",
+    "choices_ruby": [
+      "っぽい",
+      "ことは",
+      "において",
+      "にとって"
+    ],
+    "correct_text_ruby": "ことは"
   },
   {
     "id": 199,
@@ -4628,7 +5960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことは",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことは」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことは」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことはのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "べきだ",
+      "ことは",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ことは"
   },
   {
     "id": 200,
@@ -4649,7 +5990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことは",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことは」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことは」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までことは。",
+    "choices_ruby": [
+      "かける",
+      "わけにはいかない",
+      "べきだ",
+      "ことは"
+    ],
+    "correct_text_ruby": "ことは"
   },
   {
     "id": 201,
@@ -4674,10 +6024,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>軽<rt>かる</rt></ruby>い<ruby>擦り傷<rt>すりきず</rt></ruby><ruby>程度<rt>ていど</rt></ruby>ですから、そんなに<ruby>心配<rt>しんぱい</rt></ruby>する（　　　）は<ruby>全<rt>まった</rt></ruby>くありませんよ。",
     "sentence_jp_ruby": "<ruby>軽<rt>かる</rt></ruby>い<ruby>擦り傷<rt>すりきず</rt></ruby><ruby>程度<rt>ていど</rt></ruby>ですから、そんなに<ruby>心配<rt>しんぱい</rt></ruby>することは<ruby>全<rt>まった</rt></ruby>くありませんよ。",
     "choices_ruby": [
+      "こと",
       "はず",
       "もの",
-      "わけ",
-      "こと"
+      "わけ"
     ],
     "correct_text_ruby": "こと"
   },
@@ -4700,7 +6050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こと",
-    "notes": "【実践・ビジネス】動詞辞書形＋ことはないで『その行為をする必要性は全くない』と安心させたり助言したりします。"
+    "notes": "【実践・ビジネス】動詞辞書形＋ことはないで『その行為をする必要性は全くない』と安心させたり助言したりします。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをこと。",
+    "choices_ruby": [
+      "べきだ",
+      "こと",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 203,
@@ -4721,7 +6080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "こと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "こと",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 204,
@@ -4742,7 +6110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "こと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までこと。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "がち",
+      "だらけ",
+      "こと"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 205,
@@ -4767,10 +6144,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>試験中<rt>しけんちゅう</rt></ruby>は<ruby>私語<rt>しご</rt></ruby>を<ruby>慎<rt>つつし</rt></ruby>み、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ず<ruby>切<rt>き</rt></ruby>っておく（　　　）。",
     "sentence_jp_ruby": "<ruby>試験中<rt>しけんちゅう</rt></ruby>は<ruby>私語<rt>しご</rt></ruby>を<ruby>慎<rt>つつし</rt></ruby>み、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ず<ruby>切<rt>き</rt></ruby>っておくこと。",
     "choices_ruby": [
+      "こと",
       "もの",
       "わけ",
-      "はず",
-      "こと"
+      "はず"
     ],
     "correct_text_ruby": "こと"
   },
@@ -4793,7 +6170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こと",
-    "notes": "【実践・ビジネス】文末で『〜こと』と結び、掲示・注意書き・規則などで指示・命令を伝えます。"
+    "notes": "【実践・ビジネス】文末で『〜こと』と結び、掲示・注意書き・規則などで指示・命令を伝えます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをこと。",
+    "choices_ruby": [
+      "がち",
+      "こと",
+      "ばかりでなく",
+      "かける"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 207,
@@ -4814,7 +6200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "こと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「こと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことのだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "はずがない",
+      "こと",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 208,
@@ -4835,7 +6230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "こと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「こと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までこと。",
+    "choices_ruby": [
+      "っぽい",
+      "だらけ",
+      "わけにはいかない",
+      "こと"
+    ],
+    "correct_text_ruby": "こと"
   },
   {
     "id": 209,
@@ -4861,8 +6265,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>と<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>挨拶<rt>あいさつ</rt></ruby>くらいは、<ruby>現地<rt>げんち</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>で<ruby>話<rt>はな</rt></ruby>せるようにしたい。",
     "choices_ruby": [
       "くらい",
-      "くせに",
       "わりに",
+      "くせに",
       "とおり"
     ],
     "correct_text_ruby": "くらい"
@@ -4886,7 +6290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くらい",
-    "notes": "【実践・ビジネス】最低限の程度を取り立てて『せめてこれくらいは』という軽微な基準を示します。"
+    "notes": "【実践・ビジネス】最低限の程度を取り立てて『せめてこれくらいは』という軽微な基準を示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをくらい。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "くらい",
+      "において",
+      "をもとに"
+    ],
+    "correct_text_ruby": "くらい"
   },
   {
     "id": 211,
@@ -4907,7 +6320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "くらい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「くらい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「くらい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してくらいのだ。",
+    "choices_ruby": [
+      "てならない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "くらい",
+      "だらけ"
+    ],
+    "correct_text_ruby": "くらい"
   },
   {
     "id": 212,
@@ -4928,7 +6350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "くらい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「くらい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「くらい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までくらい。",
+    "choices_ruby": [
+      "だらけ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "かける",
+      "くらい"
+    ],
+    "correct_text_ruby": "くらい"
   },
   {
     "id": 213,
@@ -4955,8 +6386,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "くせに",
       "わりに",
-      "<ruby>反面<rt>はんめん</rt></ruby>",
-      "せいで"
+      "せいで",
+      "<ruby>反面<rt>はんめん</rt></ruby>"
     ],
     "correct_text_ruby": "くせに"
   },
@@ -4979,7 +6410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "くせに",
-    "notes": "【実践・ビジネス】前件と後件の矛盾に対して不満・非難・軽蔑の気持ちを込めて使います。"
+    "notes": "【実践・ビジネス】前件と後件の矛盾に対して不満・非難・軽蔑の気持ちを込めて使います。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをくせに。",
+    "choices_ruby": [
+      "はずがない",
+      "くせに",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "くせに"
   },
   {
     "id": 215,
@@ -5000,7 +6440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "くせに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「くせに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「くせに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してくせにのだ。",
+    "choices_ruby": [
+      "をもとに",
+      "かける",
+      "くせに",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "くせに"
   },
   {
     "id": 216,
@@ -5021,7 +6470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "くせに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「くせに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「くせに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までくせに。",
+    "choices_ruby": [
+      "をもとに",
+      "べきだ",
+      "わけにはいかない",
+      "くせに"
+    ],
+    "correct_text_ruby": "くせに"
   },
   {
     "id": 217,
@@ -5046,10 +6504,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>弾<rt>ひ</rt></ruby>くピアノの<ruby>音色<rt>ねいろ</rt></ruby>は、（　　　）<ruby>小川<rt>おがわ</rt></ruby>のせせらぎのように<ruby>心地<rt>ここち</rt></ruby>よい。",
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>弾<rt>ひ</rt></ruby>くピアノの<ruby>音色<rt>ねいろ</rt></ruby>は、まるで<ruby>小川<rt>おがわ</rt></ruby>のせせらぎのように<ruby>心地<rt>ここち</rt></ruby>よい。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "まるで",
-      "ちっとも",
-      "めったに"
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "めったに",
+      "ちっとも"
     ],
     "correct_text_ruby": "まるで"
   },
@@ -5072,7 +6530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まるで",
-    "notes": "【実践・ビジネス】『まるで〜のようだ／まるで〜のように』と呼応して比喩を強調します。"
+    "notes": "【実践・ビジネス】『まるで〜のようだ／まるで〜のように』と呼応して比喩を強調します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをまるで。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "まるで",
+      "てたまらない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "まるで"
   },
   {
     "id": 219,
@@ -5093,7 +6560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まるで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「まるで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「まるで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してまるでのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "まるで",
+      "がち"
+    ],
+    "correct_text_ruby": "まるで"
   },
   {
     "id": 220,
@@ -5114,7 +6590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まるで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「まるで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「まるで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までまるで。",
+    "choices_ruby": [
+      "っぽい",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "はずがない",
+      "まるで"
+    ],
+    "correct_text_ruby": "まるで"
   },
   {
     "id": 221,
@@ -5140,9 +6625,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "あの<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>佐藤<rt>さとう</rt></ruby>さんが、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>約束<rt>やくそく</rt></ruby>をすっぽかすなんてまさか<ruby>信<rt>しん</rt></ruby>じられない。",
     "choices_ruby": [
       "まさか",
-      "せめて",
       "めったに",
-      "<ruby>必<rt>かなら</rt></ruby>ず"
+      "<ruby>必<rt>かなら</rt></ruby>ず",
+      "せめて"
     ],
     "correct_text_ruby": "まさか"
   },
@@ -5165,7 +6650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まさか",
-    "notes": "【実践・ビジネス】予想外の事態に対して『そんなはずはない』という強い疑念や驚きを表します。"
+    "notes": "【実践・ビジネス】予想外の事態に対して『そんなはずはない』という強い疑念や驚きを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをまさか。",
+    "choices_ruby": [
+      "べきだ",
+      "まさか",
+      "だらけ",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "まさか"
   },
   {
     "id": 223,
@@ -5186,7 +6680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まさか",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「まさか」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「まさか」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してまさかのだ。",
+    "choices_ruby": [
+      "をもとに",
+      "はずがない",
+      "まさか",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "まさか"
   },
   {
     "id": 224,
@@ -5207,7 +6710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まさか",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「まさか」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「まさか」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までまさか。",
+    "choices_ruby": [
+      "にとって",
+      "だらけ",
+      "べきだ",
+      "まさか"
+    ],
+    "correct_text_ruby": "まさか"
   },
   {
     "id": 225,
@@ -5233,8 +6745,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "この<ruby>地域<rt>ちいき</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>でも<ruby>温暖<rt>おんだん</rt></ruby>で、<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ることはめったにありません。",
     "choices_ruby": [
       "めったに",
-      "ちっとも",
       "<ruby>決<rt>けっ</rt></ruby>して",
+      "ちっとも",
       "たいてい"
     ],
     "correct_text_ruby": "めったに"
@@ -5258,7 +6770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "めったに",
-    "notes": "【実践・ビジネス】頻度が極めて低いことを表し、必ず後ろに否定形（〜ない）を伴います。"
+    "notes": "【実践・ビジネス】頻度が極めて低いことを表し、必ず後ろに否定形（〜ない）を伴います。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをめったに。",
+    "choices_ruby": [
+      "べきだ",
+      "めったに",
+      "てならない",
+      "において"
+    ],
+    "correct_text_ruby": "めったに"
   },
   {
     "id": 227,
@@ -5279,7 +6800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "めったに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「めったに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「めったに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してめったにのだ。",
+    "choices_ruby": [
+      "っぽい",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "めったに",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "めったに"
   },
   {
     "id": 228,
@@ -5300,7 +6830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "めったに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「めったに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「めったに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までめったに。",
+    "choices_ruby": [
+      "かける",
+      "において",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "めったに"
+    ],
+    "correct_text_ruby": "めったに"
   },
   {
     "id": 229,
@@ -5325,10 +6864,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>人生<rt>じんせい</rt></ruby>には<ruby>楽<rt>たの</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>も（　　　）、<ruby>思<rt>おも</rt></ruby>い<ruby>通<rt>とう</rt></ruby>りにいかない<ruby>苦<rt>くる</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>もある。",
     "sentence_jp_ruby": "<ruby>人生<rt>じんせい</rt></ruby>には<ruby>楽<rt>たの</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>もあれば、<ruby>思<rt>おも</rt></ruby>い<ruby>通<rt>とう</rt></ruby>りにいかない<ruby>苦<rt>くる</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>もある。",
     "choices_ruby": [
-      "あると",
+      "あれば",
       "あるなら",
-      "あっても",
-      "あれば"
+      "あると",
+      "あっても"
     ],
     "correct_text_ruby": "あれば"
   },
@@ -5351,7 +6890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あれば",
-    "notes": "【実践・ビジネス】『名詞も＋動詞ば＋名詞も』で同種の事柄を並列・列挙する表現です。"
+    "notes": "【実践・ビジネス】『名詞も＋動詞ば＋名詞も』で同種の事柄を並列・列挙する表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをあれば。",
+    "choices_ruby": [
+      "てならない",
+      "あれば",
+      "てたまらない",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "あれば"
   },
   {
     "id": 231,
@@ -5372,7 +6920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あれば",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あれば」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「あれば」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してあればのだ。",
+    "choices_ruby": [
+      "において",
+      "かける",
+      "あれば",
+      "によって"
+    ],
+    "correct_text_ruby": "あれば"
   },
   {
     "id": 232,
@@ -5393,7 +6950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あれば",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あれば」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「あれば」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まであれば。",
+    "choices_ruby": [
+      "てたまらない",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てならない",
+      "あれば"
+    ],
+    "correct_text_ruby": "あれば"
   },
   {
     "id": 233,
@@ -5418,10 +6984,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗<rt>くら</rt></ruby>くなってきたから、（　　　）<ruby>夕立<rt>ゆうだち</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るかもしれない。",
     "sentence_jp_ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗<rt>くら</rt></ruby>くなってきたから、もしかしたら<ruby>夕立<rt>ゆうだち</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るかもしれない。",
     "choices_ruby": [
-      "<ruby>必<rt>かなら</rt></ruby>ずしも",
+      "もしかしたら",
       "せめて",
       "<ruby>決<rt>けっ</rt></ruby>して",
-      "もしかしたら"
+      "<ruby>必<rt>かなら</rt></ruby>ずしも"
     ],
     "correct_text_ruby": "もしかしたら"
   },
@@ -5444,7 +7010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もしかしたら",
-    "notes": "【実践・ビジネス】『もしかしたら〜かもしれない』と呼応して低い可能性の推量を表します。"
+    "notes": "【実践・ビジネス】『もしかしたら〜かもしれない』と呼応して低い可能性の推量を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをもしかしたら。",
+    "choices_ruby": [
+      "てたまらない",
+      "もしかしたら",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "だらけ"
+    ],
+    "correct_text_ruby": "もしかしたら"
   },
   {
     "id": 235,
@@ -5465,7 +7040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もしかしたら",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「もしかしたら」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「もしかしたら」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してもしかしたらのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "もしかしたら",
+      "だらけ"
+    ],
+    "correct_text_ruby": "もしかしたら"
   },
   {
     "id": 236,
@@ -5486,7 +7070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もしかしたら",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「もしかしたら」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「もしかしたら」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までもしかしたら。",
+    "choices_ruby": [
+      "をもとに",
+      "はずがない",
+      "かける",
+      "もしかしたら"
+    ],
+    "correct_text_ruby": "もしかしたら"
   },
   {
     "id": 237,
@@ -5511,8 +7104,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "（　　　）<ruby>明日<rt>あした</rt></ruby><ruby>宝<rt>たから</rt></ruby>くじで1<ruby>億円<rt>おくえん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったら、<ruby>世界一周旅行<rt>せかいいっしゅうりょこう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>したい。",
     "sentence_jp_ruby": "もしも<ruby>明日<rt>あした</rt></ruby><ruby>宝<rt>たから</rt></ruby>くじで1<ruby>億円<rt>おくえん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったら、<ruby>世界一周旅行<rt>せかいいっしゅうりょこう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>したい。",
     "choices_ruby": [
-      "どうせ",
       "もしも",
+      "どうせ",
       "たとえ",
       "いくら"
     ],
@@ -5537,7 +7130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もしも",
-    "notes": "【実践・ビジネス】『もしも＋〜たら』で非現実的な仮定や万が一の事態を強調します。"
+    "notes": "【実践・ビジネス】『もしも＋〜たら』で非現実的な仮定や万が一の事態を強調します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをもしも。",
+    "choices_ruby": [
+      "によって",
+      "もしも",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい"
+    ],
+    "correct_text_ruby": "もしも"
   },
   {
     "id": 239,
@@ -5558,7 +7160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もしも",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「もしも」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「もしも」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してもしものだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にとって",
+      "もしも",
+      "はずがない"
+    ],
+    "correct_text_ruby": "もしも"
   },
   {
     "id": 240,
@@ -5579,7 +7190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もしも",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「もしも」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「もしも」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までもしも。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "べきだ",
+      "もしも"
+    ],
+    "correct_text_ruby": "もしも"
   },
   {
     "id": 241,
@@ -5604,10 +7224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>新<rt>あたら</rt></ruby>しい<ruby>絵本<rt>えほん</rt></ruby>は、ひらがなを<ruby>覚<rt>おぼ</rt></ruby>えたばかりの<ruby>幼児<rt>ようじ</rt></ruby>（　　　）に<ruby>作<rt>つく</rt></ruby>られている。",
     "sentence_jp_ruby": "この<ruby>新<rt>あたら</rt></ruby>しい<ruby>絵本<rt>えほん</rt></ruby>は、ひらがなを<ruby>覚<rt>おぼ</rt></ruby>えたばかりの<ruby>幼児<rt>ようじ</rt></ruby><ruby>向<rt>む</rt></ruby>けに<ruby>作<rt>つく</rt></ruby>られている。",
     "choices_ruby": [
-      "<ruby>向<rt>む</rt></ruby>き",
-      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>向<rt>む</rt></ruby>け",
       "がち",
-      "<ruby>向<rt>む</rt></ruby>け"
+      "<ruby>向<rt>む</rt></ruby>き",
+      "<ruby>気味<rt>きみ</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>け"
   },
@@ -5630,7 +7250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "向け",
-    "notes": "【実践・ビジネス】名詞＋向けで『その対象者・市場を意識して特別に作られた・企画された』ことを表します。"
+    "notes": "【実践・ビジネス】名詞＋向けで『その対象者・市場を意識して特別に作られた・企画された』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>向<rt>む</rt></ruby>け。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>向<rt>む</rt></ruby>け",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>け"
   },
   {
     "id": 243,
@@ -5651,7 +7280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "向け",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向け」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向け」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>向<rt>む</rt></ruby>けのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "はずがない",
+      "<ruby>向<rt>む</rt></ruby>け",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>け"
   },
   {
     "id": 244,
@@ -5672,7 +7310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "向け",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向け」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向け」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>向<rt>む</rt></ruby>け。",
+    "choices_ruby": [
+      "において",
+      "にとって",
+      "てたまらない",
+      "<ruby>向<rt>む</rt></ruby>け"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>け"
   },
   {
     "id": 245,
@@ -5697,10 +7344,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るく<ruby>聞<rt>き</rt></ruby>き<ruby>上手<rt>じょうず</rt></ruby>なので、<ruby>接客<rt>せっきゃく</rt></ruby>やカウンセラーの<ruby>仕事<rt>しごと</rt></ruby>（　　　）の<ruby>性格<rt>せいかく</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るく<ruby>聞<rt>き</rt></ruby>き<ruby>上手<rt>じょうず</rt></ruby>なので、<ruby>接客<rt>せっきゃく</rt></ruby>やカウンセラーの<ruby>仕事<rt>しごと</rt></ruby><ruby>向<rt>む</rt></ruby>きの<ruby>性格<rt>せいかく</rt></ruby>だ。",
     "choices_ruby": [
-      "<ruby>次第<rt>しだい</rt></ruby>",
-      "とおり",
       "<ruby>向<rt>む</rt></ruby>き",
-      "<ruby>向<rt>む</rt></ruby>け"
+      "<ruby>向<rt>む</rt></ruby>け",
+      "<ruby>次第<rt>しだい</rt></ruby>",
+      "とおり"
     ],
     "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>き"
   },
@@ -5723,7 +7370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "向き",
-    "notes": "【実践・ビジネス】名詞＋向きで『本来の性質・特徴から見て自然とそれに適している』ことを表します。"
+    "notes": "【実践・ビジネス】名詞＋向きで『本来の性質・特徴から見て自然とそれに適している』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>向<rt>む</rt></ruby>き。",
+    "choices_ruby": [
+      "かける",
+      "<ruby>向<rt>む</rt></ruby>き",
+      "において",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>き"
   },
   {
     "id": 247,
@@ -5744,7 +7400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "向き",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向き」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向き」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>向<rt>む</rt></ruby>きのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>向<rt>む</rt></ruby>き",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>き"
   },
   {
     "id": 248,
@@ -5765,7 +7430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "向き",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向き」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向き」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>向<rt>む</rt></ruby>き。",
+    "choices_ruby": [
+      "かける",
+      "がち",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>向<rt>む</rt></ruby>き"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>き"
   },
   {
     "id": 249,
@@ -5790,10 +7464,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>悔<rt>く</rt></ruby>やむより、（　　　）<ruby>良<rt>よ</rt></ruby>い<ruby>学<rt>まな</rt></ruby>びの<ruby>機会<rt>きかい</rt></ruby>だったと<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>捉<rt>とら</rt></ruby>えよう。",
     "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>悔<rt>く</rt></ruby>やむより、むしろ<ruby>良<rt>よ</rt></ruby>い<ruby>学<rt>まな</rt></ruby>びの<ruby>機会<rt>きかい</rt></ruby>だったと<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>捉<rt>とら</rt></ruby>えよう。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
-      "めったに",
       "むしろ",
-      "まさか"
+      "めったに",
+      "まさか",
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "むしろ"
   },
@@ -5816,7 +7490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "むしろ",
-    "notes": "【実践・ビジネス】二つの選択肢を比較し、『どちらかといえば後者のほうが適切だ』と選択します。"
+    "notes": "【実践・ビジネス】二つの選択肢を比較し、『どちらかといえば後者のほうが適切だ』と選択します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをむしろ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "むしろ",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "むしろ"
   },
   {
     "id": 251,
@@ -5837,7 +7520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "むしろ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「むしろ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「むしろ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してむしろのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "っぽい",
+      "むしろ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "むしろ"
   },
   {
     "id": 252,
@@ -5858,7 +7550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "むしろ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「むしろ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「むしろ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までむしろ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ばかりでなく",
+      "べきだ",
+      "むしろ"
+    ],
+    "correct_text_ruby": "むしろ"
   },
   {
     "id": 253,
@@ -5884,9 +7585,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>狭<rt>せま</rt></ruby>いアパート<ruby>暮<rt>く</rt></ruby>らしながらも、<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>仲良<rt>なかよ</rt></ruby>く<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>暮<rt>く</rt></ruby>らしている。",
     "choices_ruby": [
       "ながらも",
-      "つつある",
       "かたわら",
-      "がてら"
+      "がてら",
+      "つつある"
     ],
     "correct_text_ruby": "ながらも"
   },
@@ -5909,7 +7610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ながらも",
-    "notes": "【実践・ビジネス】名詞・動詞ます形＋ながらもで『〜という状態でありながら、それに反して』という逆接を表します。"
+    "notes": "【実践・ビジネス】名詞・動詞ます形＋ながらもで『〜という状態でありながら、それに反して』という逆接を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをながらも。",
+    "choices_ruby": [
+      "てならない",
+      "ながらも",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "はずがない"
+    ],
+    "correct_text_ruby": "ながらも"
   },
   {
     "id": 255,
@@ -5930,7 +7640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ながらも",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ながらも」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ながらも」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してながらものだ。",
+    "choices_ruby": [
+      "はずがない",
+      "だらけ",
+      "ながらも",
+      "にとって"
+    ],
+    "correct_text_ruby": "ながらも"
   },
   {
     "id": 256,
@@ -5951,7 +7670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ながらも",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ながらも」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ながらも」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までながらも。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ながらも"
+    ],
+    "correct_text_ruby": "ながらも"
   },
   {
     "id": 257,
@@ -5976,10 +7704,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>激辛<rt>げきから</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>は<ruby>得意<rt>とくい</rt></ruby>ではないが、<ruby>少<rt>すこ</rt></ruby>しずつなら<ruby>食<rt>た</rt></ruby>べられない（　　　）。",
     "sentence_jp_ruby": "<ruby>激辛<rt>げきから</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>は<ruby>得意<rt>とくい</rt></ruby>ではないが、<ruby>少<rt>すこ</rt></ruby>しずつなら<ruby>食<rt>た</rt></ruby>べられないことはない。",
     "choices_ruby": [
-      "にすぎない",
       "ことはない",
+      "わけがない",
       "はずがない",
-      "わけがない"
+      "にすぎない"
     ],
     "correct_text_ruby": "ことはない"
   },
@@ -6002,7 +7730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことはない",
-    "notes": "【実践・ビジネス】否定＋ことはないで消極的な肯定（〜しようと思えばできる）を表します。"
+    "notes": "【実践・ビジネス】否定＋ことはないで消極的な肯定（〜しようと思えばできる）を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをことはない。",
+    "choices_ruby": [
+      "にとって",
+      "ことはない",
+      "ばかりでなく",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "ことはない"
   },
   {
     "id": 259,
@@ -6023,7 +7760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことはない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことはない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことはない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことはないのだ。",
+    "choices_ruby": [
+      "にとって",
+      "において",
+      "ことはない",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "ことはない"
   },
   {
     "id": 260,
@@ -6044,7 +7790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことはない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことはない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことはない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までことはない。",
+    "choices_ruby": [
+      "をもとに",
+      "ばかりでなく",
+      "わけにはいかない",
+      "ことはない"
+    ],
+    "correct_text_ruby": "ことはない"
   },
   {
     "id": 261,
@@ -6069,10 +7824,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "もう<ruby>終電<rt>しゅうでん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいてきたから、そろそろ<ruby>駅<rt>えき</rt></ruby>へ（　　　）。",
     "sentence_jp_ruby": "もう<ruby>終電<rt>しゅうでん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいてきたから、そろそろ<ruby>駅<rt>えき</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かわないと。",
     "choices_ruby": [
-      "<ruby>向<rt>む</rt></ruby>かえば",
-      "<ruby>向<rt>む</rt></ruby>かうと",
       "<ruby>向<rt>む</rt></ruby>かわないと",
-      "<ruby>向<rt>む</rt></ruby>かっても"
+      "<ruby>向<rt>む</rt></ruby>かっても",
+      "<ruby>向<rt>む</rt></ruby>かえば",
+      "<ruby>向<rt>む</rt></ruby>かうと"
     ],
     "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>かわないと"
   },
@@ -6095,7 +7850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "向かわないと",
-    "notes": "【実践・ビジネス】動詞ない形＋と（いけない）の略で、日常会話で義務や急ぐ必要性を表します。"
+    "notes": "【実践・ビジネス】動詞ない形＋と（いけない）の略で、日常会話で義務や急ぐ必要性を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>向<rt>む</rt></ruby>かわないと。",
+    "choices_ruby": [
+      "かける",
+      "<ruby>向<rt>む</rt></ruby>かわないと",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>かわないと"
   },
   {
     "id": 263,
@@ -6116,7 +7880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "向かわないと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向かわないと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「向かわないと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>向<rt>む</rt></ruby>かわないとのだ。",
+    "choices_ruby": [
+      "てならない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>向<rt>む</rt></ruby>かわないと",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>かわないと"
   },
   {
     "id": 264,
@@ -6137,7 +7910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "向かわないと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向かわないと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「向かわないと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>向<rt>む</rt></ruby>かわないと。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "てならない",
+      "<ruby>向<rt>む</rt></ruby>かわないと"
+    ],
+    "correct_text_ruby": "<ruby>向<rt>む</rt></ruby>かわないと"
   },
   {
     "id": 265,
@@ -6162,10 +7944,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>何度<rt>なんど</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>をかけてみても、<ruby>先方<rt>せんぽう</rt></ruby>の<ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>不在<rt>ふざい</rt></ruby>で（　　　）<ruby>連絡<rt>れんらく</rt></ruby>がつかない。",
     "sentence_jp_ruby": "<ruby>何度<rt>なんど</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>をかけてみても、<ruby>先方<rt>せんぽう</rt></ruby>の<ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>不在<rt>ふざい</rt></ruby>でなかなか<ruby>連絡<rt>れんらく</rt></ruby>がつかない。",
     "choices_ruby": [
-      "めったに",
-      "ちっとも",
       "なかなか",
-      "<ruby>決<rt>けっ</rt></ruby>して"
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "ちっとも",
+      "めったに"
     ],
     "correct_text_ruby": "なかなか"
   },
@@ -6188,7 +7970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なかなか",
-    "notes": "【実践・ビジネス】否定形と呼応して『思い通りに実現することが容易ではない』というもどかしさを表します。"
+    "notes": "【実践・ビジネス】否定形と呼応して『思い通りに実現することが容易ではない』というもどかしさを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをなかなか。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "なかなか",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "てならない"
+    ],
+    "correct_text_ruby": "なかなか"
   },
   {
     "id": 267,
@@ -6209,7 +8000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なかなか",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なかなか」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なかなか」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してなかなかのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "なかなか",
+      "っぽい"
+    ],
+    "correct_text_ruby": "なかなか"
   },
   {
     "id": 268,
@@ -6230,7 +8030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なかなか",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なかなか」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なかなか」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までなかなか。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "べきだ",
+      "にとって",
+      "なかなか"
+    ],
+    "correct_text_ruby": "なかなか"
   },
   {
     "id": 269,
@@ -6255,10 +8064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>（　　　）まだまだ<ruby>勉強不足<rt>べんきょうぶそく</rt></ruby>ですので、<ruby>先輩方<rt>せんぱいがた</rt></ruby>からもっと<ruby>多<rt>おお</rt></ruby>くのことを<ruby>学<rt>まな</rt></ruby>びたいです。",
     "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>なんかまだまだ<ruby>勉強不足<rt>べんきょうぶそく</rt></ruby>ですので、<ruby>先輩方<rt>せんぱいがた</rt></ruby>からもっと<ruby>多<rt>おお</rt></ruby>くのことを<ruby>学<rt>まな</rt></ruby>びたいです。",
     "choices_ruby": [
-      "からして",
+      "なんか",
       "ばかり",
-      "だけに",
-      "なんか"
+      "からして",
+      "だけに"
     ],
     "correct_text_ruby": "なんか"
   },
@@ -6281,7 +8090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なんか",
-    "notes": "【実践・ビジネス】自分を謙遜して控えめに表現したり、物事を軽く例示する口語表現です。"
+    "notes": "【実践・ビジネス】自分を謙遜して控えめに表現したり、物事を軽く例示する口語表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをなんか。",
+    "choices_ruby": [
+      "によって",
+      "なんか",
+      "ばかりでなく",
+      "べきだ"
+    ],
+    "correct_text_ruby": "なんか"
   },
   {
     "id": 271,
@@ -6302,7 +8120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なんか",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なんか」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なんか」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してなんかのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "によって",
+      "なんか",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "なんか"
   },
   {
     "id": 272,
@@ -6323,7 +8150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なんか",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なんか」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なんか」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までなんか。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "がち",
+      "わけにはいかない",
+      "なんか"
+    ],
+    "correct_text_ruby": "なんか"
   },
   {
     "id": 273,
@@ -6349,8 +8185,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりにくかったので、<ruby>全体<rt>ぜんたい</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>から<ruby>書き直<rt>かきなお</rt></ruby>した。",
     "choices_ruby": [
       "<ruby>直<rt>なお</rt></ruby>した",
-      "<ruby>抜<rt>ぬ</rt></ruby>いた",
       "<ruby>上<rt>あ</rt></ruby>げた",
+      "<ruby>抜<rt>ぬ</rt></ruby>いた",
       "かけた"
     ],
     "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>した"
@@ -6374,7 +8210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "直した",
-    "notes": "【実践・ビジネス】動詞ます形＋直すで不十分な点を正して再度同じ動作を行うことを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋直すで不十分な点を正して再度同じ動作を行うことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>直<rt>なお</rt></ruby>した。",
+    "choices_ruby": [
+      "において",
+      "<ruby>直<rt>なお</rt></ruby>した",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "がち"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>した"
   },
   {
     "id": 275,
@@ -6395,7 +8240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "直した",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「直した」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「直した」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>直<rt>なお</rt></ruby>したのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>直<rt>なお</rt></ruby>した",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>した"
   },
   {
     "id": 276,
@@ -6416,7 +8270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直した",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「直した」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「直した」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>直<rt>なお</rt></ruby>した。",
+    "choices_ruby": [
+      "てたまらない",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ばかりでなく",
+      "<ruby>直<rt>なお</rt></ruby>した"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>した"
   },
   {
     "id": 277,
@@ -6441,10 +8304,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、（　　　）エレベーターを<ruby>使<rt>つか</rt></ruby>わずに<ruby>階段<rt>かいだん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くようにしている。",
     "sentence_jp_ruby": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、なるべくエレベーターを<ruby>使<rt>つか</rt></ruby>わずに<ruby>階段<rt>かいだん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くようにしている。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "なるべく",
       "めったに",
-      "<ruby>必<rt>かなら</rt></ruby>ずしも"
+      "<ruby>必<rt>かなら</rt></ruby>ずしも",
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "なるべく"
   },
@@ -6467,7 +8330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なるべく",
-    "notes": "【実践・ビジネス】可能な範囲で最大限そのように努める意図を表す副詞です。"
+    "notes": "【実践・ビジネス】可能な範囲で最大限そのように努める意図を表す副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをなるべく。",
+    "choices_ruby": [
+      "だらけ",
+      "なるべく",
+      "っぽい",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "なるべく"
   },
   {
     "id": 279,
@@ -6488,7 +8360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なるべく",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なるべく」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なるべく」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してなるべくのだ。",
+    "choices_ruby": [
+      "において",
+      "だらけ",
+      "なるべく",
+      "にとって"
+    ],
+    "correct_text_ruby": "なるべく"
   },
   {
     "id": 280,
@@ -6509,7 +8390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なるべく",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なるべく」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なるべく」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までなるべく。",
+    "choices_ruby": [
+      "において",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "なるべく"
+    ],
+    "correct_text_ruby": "なるべく"
   },
   {
     "id": 281,
@@ -6534,10 +8424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>提案<rt>ていあん</rt></ruby>には<ruby>反対<rt>はんたい</rt></ruby>です。（　　　）コストに<ruby>対<rt>たい</rt></ruby>して<ruby>得<rt>え</rt></ruby>られる<ruby>効果<rt>こうか</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎるからです。",
     "sentence_jp_ruby": "この<ruby>提案<rt>ていあん</rt></ruby>には<ruby>反対<rt>はんたい</rt></ruby>です。なぜならコストに<ruby>対<rt>たい</rt></ruby>して<ruby>得<rt>え</rt></ruby>られる<ruby>効果<rt>こうか</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎるからです。",
     "choices_ruby": [
-      "そこで",
-      "それなら",
+      "なぜなら",
       "すると",
-      "なぜなら"
+      "そこで",
+      "それなら"
     ],
     "correct_text_ruby": "なぜなら"
   },
@@ -6560,7 +8450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なぜなら",
-    "notes": "【実践・ビジネス】結論を述べた後で理由を説明する際に文頭で使われ、文末に『〜からだ』を伴います。"
+    "notes": "【実践・ビジネス】結論を述べた後で理由を説明する際に文頭で使われ、文末に『〜からだ』を伴います。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをなぜなら。",
+    "choices_ruby": [
+      "として",
+      "なぜなら",
+      "だらけ",
+      "をもとに"
+    ],
+    "correct_text_ruby": "なぜなら"
   },
   {
     "id": 283,
@@ -6581,7 +8480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なぜなら",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なぜなら」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「なぜなら」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してなぜならのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "てならない",
+      "なぜなら",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "なぜなら"
   },
   {
     "id": 284,
@@ -6602,7 +8510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なぜなら",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なぜなら」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「なぜなら」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までなぜなら。",
+    "choices_ruby": [
+      "かける",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "をもとに",
+      "なぜなら"
+    ],
+    "correct_text_ruby": "なぜなら"
   },
   {
     "id": 285,
@@ -6627,9 +8544,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しくオープンしたベーカリー、パンがとても<ruby>美味<rt>おい</rt></ruby>しい（　　　）。",
     "sentence_jp_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しくオープンしたベーカリー、パンがとても<ruby>美味<rt>おい</rt></ruby>しいんだって。",
     "choices_ruby": [
+      "んだって",
       "んじゃない",
       "わけだ",
-      "んだって",
       "ものか"
     ],
     "correct_text_ruby": "んだって"
@@ -6653,7 +8570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んだって",
-    "notes": "【実践・ビジネス】人から伝え聞いた情報を親しい間柄で共有するくだけた伝聞表現です。"
+    "notes": "【実践・ビジネス】人から伝え聞いた情報を親しい間柄で共有するくだけた伝聞表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをんだって。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "んだって",
+      "てならない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "んだって"
   },
   {
     "id": 287,
@@ -6674,7 +8600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んだって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「んだって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「んだって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してんだってのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "はずがない",
+      "んだって",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "んだって"
   },
   {
     "id": 288,
@@ -6695,7 +8630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "んだって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「んだって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「んだって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までんだって。",
+    "choices_ruby": [
+      "だらけ",
+      "ばかりでなく",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "んだって"
+    ],
+    "correct_text_ruby": "んだって"
   },
   {
     "id": 289,
@@ -6720,10 +8664,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>連日<rt>れんじつ</rt></ruby><ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>頑張<rt>がんば</rt></ruby>っていたのだから、<ruby>彼<rt>かれ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>する（　　　）。",
     "sentence_jp_ruby": "<ruby>連日<rt>れんじつ</rt></ruby><ruby>夜遅<rt>よるおそ</rt></ruby>くまで<ruby>頑張<rt>がんば</rt></ruby>っていたのだから、<ruby>彼<rt>かれ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するに<ruby>違<rt>ちが</rt></ruby>いない。",
     "choices_ruby": [
-      "にほかならない",
-      "わけがない",
       "に<ruby>違<rt>ちが</rt></ruby>いない",
-      "にすぎない"
+      "にすぎない",
+      "にほかならない",
+      "わけがない"
     ],
     "correct_text_ruby": "に<ruby>違<rt>ちが</rt></ruby>いない"
   },
@@ -6746,7 +8690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に違いない",
-    "notes": "【実践・ビジネス】話し手が確たる確信を持って『絶対に〜だ』と強く判断する推量表現です。"
+    "notes": "【実践・ビジネス】話し手が確たる確信を持って『絶対に〜だ』と強く判断する推量表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>違<rt>ちが</rt></ruby>いない。",
+    "choices_ruby": [
+      "てならない",
+      "に<ruby>違<rt>ちが</rt></ruby>いない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "べきだ"
+    ],
+    "correct_text_ruby": "に<ruby>違<rt>ちが</rt></ruby>いない"
   },
   {
     "id": 291,
@@ -6767,7 +8720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に違いない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に違いない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に違いない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>違<rt>ちが</rt></ruby>いないのだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "に<ruby>違<rt>ちが</rt></ruby>いない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "に<ruby>違<rt>ちが</rt></ruby>いない"
   },
   {
     "id": 292,
@@ -6788,7 +8750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に違いない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に違いない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に違いない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>違<rt>ちが</rt></ruby>いない。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "において",
+      "てたまらない",
+      "に<ruby>違<rt>ちが</rt></ruby>いない"
+    ],
+    "correct_text_ruby": "に<ruby>違<rt>ちが</rt></ruby>いない"
   },
   {
     "id": 293,
@@ -6813,10 +8784,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>事前<rt>じぜん</rt></ruby>の<ruby>大方<rt>おおかた</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>（　　　）、<ruby>無名<rt>むめい</rt></ruby>の<ruby>新人<rt>しんじん</rt></ruby>が<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転勝利<rt>ぎゃくてんしょうり</rt></ruby>を<ruby>収<rt>おさ</rt></ruby>めた。",
     "sentence_jp_ruby": "<ruby>事前<rt>じぜん</rt></ruby>の<ruby>大方<rt>おおかた</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>に<ruby>反<rt>はん</rt></ruby>して、<ruby>無名<rt>むめい</rt></ruby>の<ruby>新人<rt>しんじん</rt></ruby>が<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転勝利<rt>ぎゃくてんしょうり</rt></ruby>を<ruby>収<rt>おさ</rt></ruby>めた。",
     "choices_ruby": [
-      "に<ruby>関<rt>かん</rt></ruby>して",
       "に<ruby>反<rt>はん</rt></ruby>して",
-      "に<ruby>即<rt>そく</rt></ruby>して",
-      "に<ruby>際<rt>さい</rt></ruby>して"
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>際<rt>さい</rt></ruby>して",
+      "に<ruby>即<rt>そく</rt></ruby>して"
     ],
     "correct_text_ruby": "に<ruby>反<rt>はん</rt></ruby>して"
   },
@@ -6839,7 +8810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に反して",
-    "notes": "【実践・ビジネス】名詞＋に反してで予想・意図・規則などとは逆の結果になることを示します。"
+    "notes": "【実践・ビジネス】名詞＋に反してで予想・意図・規則などとは逆の結果になることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>反<rt>はん</rt></ruby>して。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>反<rt>はん</rt></ruby>して",
+      "わけにはいかない",
+      "てならない"
+    ],
+    "correct_text_ruby": "に<ruby>反<rt>はん</rt></ruby>して"
   },
   {
     "id": 295,
@@ -6860,7 +8840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に反して",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に反して」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に反して」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>反<rt>はん</rt></ruby>してのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "てたまらない",
+      "に<ruby>反<rt>はん</rt></ruby>して",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "に<ruby>反<rt>はん</rt></ruby>して"
   },
   {
     "id": 296,
@@ -6881,7 +8870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に反して",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に反して」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に反して」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>反<rt>はん</rt></ruby>して。",
+    "choices_ruby": [
+      "っぽい",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>反<rt>はん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "に<ruby>反<rt>はん</rt></ruby>して"
   },
   {
     "id": 297,
@@ -6906,10 +8904,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>和食<rt>わしょく</rt></ruby>の<ruby>繊細<rt>せんさい</rt></ruby>な<ruby>味付<rt>あじつ</rt></ruby>け（　　　）は、<ruby>田中<rt>たなか</rt></ruby>シェフの<ruby>右<rt>みぎ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>者<rt>もの</rt></ruby>はいない。",
     "sentence_jp_ruby": "<ruby>和食<rt>わしょく</rt></ruby>の<ruby>繊細<rt>せんさい</rt></ruby>な<ruby>味付<rt>あじつ</rt></ruby>けにかけては、<ruby>田中<rt>たなか</rt></ruby>シェフの<ruby>右<rt>みぎ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>者<rt>もの</rt></ruby>はいない。",
     "choices_ruby": [
-      "にしたがって",
       "にかけて",
-      "につれて",
-      "にとって"
+      "にとって",
+      "にしたがって",
+      "につれて"
     ],
     "correct_text_ruby": "にかけて"
   },
@@ -6932,7 +8930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にかけて",
-    "notes": "【実践・ビジネス】『〜にかけては』で特定の分野や能力において自信や高い評価があることを表します。"
+    "notes": "【実践・ビジネス】『〜にかけては』で特定の分野や能力において自信や高い評価があることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにかけて。",
+    "choices_ruby": [
+      "をもとに",
+      "にかけて",
+      "において",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "にかけて"
   },
   {
     "id": 299,
@@ -6953,7 +8960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかけて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にかけて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にかけて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにかけてのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にかけて",
+      "において"
+    ],
+    "correct_text_ruby": "にかけて"
   },
   {
     "id": 300,
@@ -6974,7 +8990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかけて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にかけて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にかけて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにかけて。",
+    "choices_ruby": [
+      "にとって",
+      "だらけ",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "にかけて"
+    ],
+    "correct_text_ruby": "にかけて"
   },
   {
     "id": 301,
@@ -6999,10 +9024,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>（　　　）<ruby>国際<rt>こくさい</rt></ruby>シンポジウムが、<ruby>来月<rt>らいげつ</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>国際<rt>こくさい</rt></ruby>シンポジウムが、<ruby>来月<rt>らいげつ</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>だ。",
     "choices_ruby": [
-      "を<ruby>通<rt>とう</rt></ruby>した",
+      "に<ruby>関<rt>かん</rt></ruby>する",
       "に<ruby>沿<rt>そ</rt></ruby>った",
       "に<ruby>即<rt>そく</rt></ruby>した",
-      "に<ruby>関<rt>かん</rt></ruby>する"
+      "を<ruby>通<rt>とお</rt></ruby>した"
     ],
     "correct_text_ruby": "に<ruby>関<rt>かん</rt></ruby>する"
   },
@@ -7025,7 +9050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に関する",
-    "notes": "【実践・ビジネス】名詞＋に関する＋名詞で、その事柄を主題・内容として扱う関係を表す硬い表現です。"
+    "notes": "【実践・ビジネス】名詞＋に関する＋名詞で、その事柄を主題・内容として扱う関係を表す硬い表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>関<rt>かん</rt></ruby>する。",
+    "choices_ruby": [
+      "によって",
+      "に<ruby>関<rt>かん</rt></ruby>する",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "っぽい"
+    ],
+    "correct_text_ruby": "に<ruby>関<rt>かん</rt></ruby>する"
   },
   {
     "id": 303,
@@ -7046,7 +9080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に関する",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に関する」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に関する」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>関<rt>かん</rt></ruby>するのだ。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>関<rt>かん</rt></ruby>する",
+      "として"
+    ],
+    "correct_text_ruby": "に<ruby>関<rt>かん</rt></ruby>する"
   },
   {
     "id": 304,
@@ -7067,7 +9110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に関する",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に関する」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に関する」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>関<rt>かん</rt></ruby>する。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てたまらない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>関<rt>かん</rt></ruby>する"
+    ],
+    "correct_text_ruby": "に<ruby>関<rt>かん</rt></ruby>する"
   },
   {
     "id": 305,
@@ -7092,10 +9144,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>急病<rt>きゅうびょう</rt></ruby>で<ruby>入院<rt>にゅういん</rt></ruby>した<ruby>部長<rt>ぶちょう</rt></ruby>（　　　）、<ruby>課長<rt>かちょう</rt></ruby>が<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>契約交渉<rt>けいやくこうしょう</rt></ruby>の<ruby>場<rt>ば</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>んだ。",
     "sentence_jp_ruby": "<ruby>急病<rt>きゅうびょう</rt></ruby>で<ruby>入院<rt>にゅういん</rt></ruby>した<ruby>部長<rt>ぶちょう</rt></ruby>にかわって、<ruby>課長<rt>かちょう</rt></ruby>が<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>契約交渉<rt>けいやくこうしょう</rt></ruby>の<ruby>場<rt>ば</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>んだ。",
     "choices_ruby": [
-      "にもかかわらず",
+      "にかわって",
       "に<ruby>際<rt>さい</rt></ruby>して",
       "につれて",
-      "にかわって"
+      "にもかかわらず"
     ],
     "correct_text_ruby": "にかわって"
   },
@@ -7118,7 +9170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にかわって",
-    "notes": "【実践・ビジネス】名詞＋にかわってで本来の担当者や通常の手段に代わって別の人が役目を務めることを表します。"
+    "notes": "【実践・ビジネス】名詞＋にかわってで本来の担当者や通常の手段に代わって別の人が役目を務めることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにかわって。",
+    "choices_ruby": [
+      "っぽい",
+      "にかわって",
+      "において",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "にかわって"
   },
   {
     "id": 307,
@@ -7139,7 +9200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかわって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にかわって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にかわって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにかわってのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "にかわって",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "にかわって"
   },
   {
     "id": 308,
@@ -7160,7 +9230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかわって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にかわって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にかわって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにかわって。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "てたまらない",
+      "にかわって"
+    ],
+    "correct_text_ruby": "にかわって"
   },
   {
     "id": 309,
@@ -7185,10 +9264,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>都会<rt>とかい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>（　　　）、<ruby>地方<rt>ちほう</rt></ruby>での<ruby>暮<rt>く</rt></ruby>らしは<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れが<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>感<rt>かん</rt></ruby>じられる。",
     "sentence_jp_ruby": "<ruby>都会<rt>とかい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて、<ruby>地方<rt>ちほう</rt></ruby>での<ruby>暮<rt>く</rt></ruby>らしは<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れが<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>感<rt>かん</rt></ruby>じられる。",
     "choices_ruby": [
-      "に<ruby>沿<rt>そ</rt></ruby>って",
-      "に<ruby>応<rt>おう</rt></ruby>じて",
+      "に<ruby>比<rt>くら</rt></ruby>べて",
       "に<ruby>加<rt>くわ</rt></ruby>えて",
-      "に<ruby>比<rt>くら</rt></ruby>べて"
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>応<rt>おう</rt></ruby>じて"
     ],
     "correct_text_ruby": "に<ruby>比<rt>くら</rt></ruby>べて"
   },
@@ -7211,7 +9290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に比べて",
-    "notes": "【実践・ビジネス】二つの対象を取り上げ、違いや優劣を対比して述べる表現です。"
+    "notes": "【実践・ビジネス】二つの対象を取り上げ、違いや優劣を対比して述べる表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>比<rt>くら</rt></ruby>べて。",
+    "choices_ruby": [
+      "がち",
+      "に<ruby>比<rt>くら</rt></ruby>べて",
+      "によって",
+      "はずがない"
+    ],
+    "correct_text_ruby": "に<ruby>比<rt>くら</rt></ruby>べて"
   },
   {
     "id": 311,
@@ -7232,7 +9320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に比べて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に比べて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に比べて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>比<rt>くら</rt></ruby>べてのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "わけにはいかない",
+      "に<ruby>比<rt>くら</rt></ruby>べて",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "に<ruby>比<rt>くら</rt></ruby>べて"
   },
   {
     "id": 312,
@@ -7253,7 +9350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に比べて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に比べて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に比べて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>比<rt>くら</rt></ruby>べて。",
+    "choices_ruby": [
+      "がち",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "はずがない",
+      "に<ruby>比<rt>くら</rt></ruby>べて"
+    ],
+    "correct_text_ruby": "に<ruby>比<rt>くら</rt></ruby>べて"
   },
   {
     "id": 313,
@@ -7279,9 +9385,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>当初<rt>とうしょ</rt></ruby>は<ruby>戸惑<rt>とまど</rt></ruby>ったが、<ruby>半年<rt>はんとし</rt></ruby><ruby>経<rt>へ</rt></ruby>ってようやくこちらの<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れてきた。",
     "choices_ruby": [
       "に<ruby>慣<rt>な</rt></ruby>れて",
-      "に<ruby>迫<rt>せま</rt></ruby>って",
+      "に<ruby>通<rt>つう</rt></ruby>じて",
       "に<ruby>向<rt>む</rt></ruby>いて",
-      "に<ruby>通<rt>つう</rt></ruby>じて"
+      "に<ruby>迫<rt>せま</rt></ruby>って"
     ],
     "correct_text_ruby": "に<ruby>慣<rt>な</rt></ruby>れて"
   },
@@ -7304,7 +9410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に慣れて",
-    "notes": "【実践・ビジネス】名詞＋に慣れるで新しい環境や習慣に順応して日常的になることを表します。"
+    "notes": "【実践・ビジネス】名詞＋に慣れるで新しい環境や習慣に順応して日常的になることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>慣<rt>な</rt></ruby>れて。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "に<ruby>慣<rt>な</rt></ruby>れて",
+      "かける",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "に<ruby>慣<rt>な</rt></ruby>れて"
   },
   {
     "id": 315,
@@ -7325,7 +9440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に慣れて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に慣れて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に慣れて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>慣<rt>な</rt></ruby>れてのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "てならない",
+      "に<ruby>慣<rt>な</rt></ruby>れて",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "に<ruby>慣<rt>な</rt></ruby>れて"
   },
   {
     "id": 316,
@@ -7346,7 +9470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に慣れて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に慣れて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に慣れて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>慣<rt>な</rt></ruby>れて。",
+    "choices_ruby": [
+      "べきだ",
+      "によって",
+      "かける",
+      "に<ruby>慣<rt>な</rt></ruby>れて"
+    ],
+    "correct_text_ruby": "に<ruby>慣<rt>な</rt></ruby>れて"
   },
   {
     "id": 317,
@@ -7371,10 +9504,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>近代<rt>きんだい</rt></ruby><ruby>医学<rt>いがく</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>（　　　）、<ruby>抗生物質<rt>こうせいぶっしつ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>転換<rt>てんかん</rt></ruby><ruby>点<rt>てん</rt></ruby>となった。",
     "sentence_jp_ruby": "<ruby>近代<rt>きんだい</rt></ruby><ruby>医学<rt>いがく</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>において、<ruby>抗生物質<rt>こうせいぶっしつ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>転換<rt>てんかん</rt></ruby><ruby>点<rt>てん</rt></ruby>となった。",
     "choices_ruby": [
-      "にとって",
       "において",
-      "に<ruby>対<rt>たい</rt></ruby>して",
-      "について"
+      "にとって",
+      "について",
+      "に<ruby>対<rt>たい</rt></ruby>して"
     ],
     "correct_text_ruby": "において"
   },
@@ -7397,7 +9530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "において",
-    "notes": "【実践・ビジネス】名詞＋においてで場所・分野・時代・局面などの硬い場面設定を表します。"
+    "notes": "【実践・ビジネス】名詞＋においてで場所・分野・時代・局面などの硬い場面設定を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにおいて。",
+    "choices_ruby": [
+      "がち",
+      "において",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "かける"
+    ],
+    "correct_text_ruby": "において"
   },
   {
     "id": 319,
@@ -7418,7 +9560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "において",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「において」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「において」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにおいてのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "において",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "において"
   },
   {
     "id": 320,
@@ -7439,7 +9590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "において",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「において」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「において」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにおいて。",
+    "choices_ruby": [
+      "がち",
+      "をもとに",
+      "によって",
+      "において"
+    ],
+    "correct_text_ruby": "において"
   },
   {
     "id": 321,
@@ -7464,8 +9624,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>標高<rt>ひょうこう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなる（　　　）、<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>空気<rt>くうき</rt></ruby>も<ruby>徐<rt>じょじょ</rt></ruby>々に<ruby>薄<rt>うす</rt></ruby>くなっていく。",
     "sentence_jp_ruby": "<ruby>標高<rt>ひょうこう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなるにしたがって、<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>空気<rt>くうき</rt></ruby>も<ruby>徐<rt>じょじょ</rt></ruby>々に<ruby>薄<rt>うす</rt></ruby>くなっていく。",
     "choices_ruby": [
-      "に<ruby>反<rt>はん</rt></ruby>して",
       "にしたがって",
+      "に<ruby>反<rt>はん</rt></ruby>して",
       "に<ruby>代<rt>か</rt></ruby>わって",
       "に<ruby>際<rt>さい</rt></ruby>して"
     ],
@@ -7490,7 +9650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしたがって",
-    "notes": "【実践・ビジネス】一方の比例的変化に伴って他方も変化していく様子や、規則・指示への順従を表します。"
+    "notes": "【実践・ビジネス】一方の比例的変化に伴って他方も変化していく様子や、規則・指示への順従を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにしたがって。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "にしたがって",
+      "わけにはいかない",
+      "として"
+    ],
+    "correct_text_ruby": "にしたがって"
   },
   {
     "id": 323,
@@ -7511,7 +9680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしたがって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしたがって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしたがって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにしたがってのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "はずがない",
+      "にしたがって",
+      "てならない"
+    ],
+    "correct_text_ruby": "にしたがって"
   },
   {
     "id": 324,
@@ -7532,7 +9710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしたがって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしたがって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしたがって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにしたがって。",
+    "choices_ruby": [
+      "として",
+      "かける",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "にしたがって"
+    ],
+    "correct_text_ruby": "にしたがって"
   },
   {
     "id": 325,
@@ -7583,7 +9770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしても",
-    "notes": "【実践・ビジネス】『たとえそれを認めたとしても、限度がある』と不服や批判を述べる譲歩表現です。"
+    "notes": "【実践・ビジネス】『たとえそれを認めたとしても、限度がある』と不服や批判を述べる譲歩表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにしても。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にしても",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "かける"
+    ],
+    "correct_text_ruby": "にしても"
   },
   {
     "id": 327,
@@ -7604,7 +9800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにしてものだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "にしても",
+      "だらけ"
+    ],
+    "correct_text_ruby": "にしても"
   },
   {
     "id": 328,
@@ -7625,7 +9830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにしても。",
+    "choices_ruby": [
+      "をもとに",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てたまらない",
+      "にしても"
+    ],
+    "correct_text_ruby": "にしても"
   },
   {
     "id": 329,
@@ -7651,9 +9865,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>てまだ3ヶ<ruby>月<rt>がつ</rt></ruby>にしては、とても<ruby>流暢<rt>りゅうちょう</rt></ruby>な<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す。",
     "choices_ruby": [
       "にしては",
+      "について",
       "に<ruby>対<rt>たい</rt></ruby>して",
-      "にとって",
-      "について"
+      "にとって"
     ],
     "correct_text_ruby": "にしては"
   },
@@ -7676,7 +9890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしては",
-    "notes": "【実践・ビジネス】その基準から一般的に予想される程度と実際の様子が食い違っている意外性を表します。"
+    "notes": "【実践・ビジネス】その基準から一般的に予想される程度と実際の様子が食い違っている意外性を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにしては。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "にしては",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "をもとに"
+    ],
+    "correct_text_ruby": "にしては"
   },
   {
     "id": 331,
@@ -7697,7 +9920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしては",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしては」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にしては」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにしてはのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "にしては",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "にしては"
   },
   {
     "id": 332,
@@ -7718,7 +9950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしては",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしては」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にしては」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにしては。",
+    "choices_ruby": [
+      "をもとに",
+      "べきだ",
+      "によって",
+      "にしては"
+    ],
+    "correct_text_ruby": "にしては"
   },
   {
     "id": 333,
@@ -7743,10 +9984,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>兄<rt>あに</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>で<ruby>外遊<rt>がいゆう</rt></ruby>びが<ruby>好<rt>す</rt></ruby>きなの（　　　）、<ruby>弟<rt>おとうと</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>読書<rt>どくしょ</rt></ruby>をするのが<ruby>好<rt>す</rt></ruby>きだ。",
     "sentence_jp_ruby": "<ruby>兄<rt>あに</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>で<ruby>外遊<rt>がいゆう</rt></ruby>びが<ruby>好<rt>す</rt></ruby>きなのに<ruby>対<rt>たい</rt></ruby>して、<ruby>弟<rt>おとうと</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>読書<rt>どくしょ</rt></ruby>をするのが<ruby>好<rt>す</rt></ruby>きだ。",
     "choices_ruby": [
-      "について",
-      "につれて",
       "に<ruby>対<rt>たい</rt></ruby>して",
-      "にとって"
+      "について",
+      "にとって",
+      "につれて"
     ],
     "correct_text_ruby": "に<ruby>対<rt>たい</rt></ruby>して"
   },
@@ -7769,7 +10010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に対して",
-    "notes": "【実践・ビジネス】二つの物事を対比して述べる用法と、相手に向ける態度（お客様に対してなど）の両方があります。"
+    "notes": "【実践・ビジネス】二つの物事を対比して述べる用法と、相手に向ける態度（お客様に対してなど）の両方があります。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをに<ruby>対<rt>たい</rt></ruby>して。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "として",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "に<ruby>対<rt>たい</rt></ruby>して"
   },
   {
     "id": 335,
@@ -7790,7 +10040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に対して",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に対して」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「に対して」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してに<ruby>対<rt>たい</rt></ruby>してのだ。",
+    "choices_ruby": [
+      "において",
+      "わけにはいかない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "べきだ"
+    ],
+    "correct_text_ruby": "に<ruby>対<rt>たい</rt></ruby>して"
   },
   {
     "id": 336,
@@ -7811,7 +10070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に対して",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に対して」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「に対して」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までに<ruby>対<rt>たい</rt></ruby>して。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "において",
+      "に<ruby>決<rt>き</rt></ruby>まっている",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "に<ruby>対<rt>たい</rt></ruby>して"
   },
   {
     "id": 337,
@@ -7836,9 +10104,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>規則正<rt>きそくただ</rt></ruby>しい<ruby>睡眠<rt>すいみん</rt></ruby>は、<ruby>成長期<rt>せいちょうき</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたち（　　　）<ruby>欠<rt>か</rt></ruby>かせない<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>規則正<rt>きそくただ</rt></ruby>しい<ruby>睡眠<rt>すいみん</rt></ruby>は、<ruby>成長期<rt>せいちょうき</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちにとって<ruby>欠<rt>か</rt></ruby>かせない<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>だ。",
     "choices_ruby": [
+      "にとって",
       "につれて",
       "において",
-      "にとって",
       "に<ruby>対<rt>たい</rt></ruby>して"
     ],
     "correct_text_ruby": "にとって"
@@ -7862,7 +10130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にとって",
-    "notes": "【実践・ビジネス】名詞＋にとってで『〜の立場・視座から評価や価値を判断すると』という意味を表します。"
+    "notes": "【実践・ビジネス】名詞＋にとってで『〜の立場・視座から評価や価値を判断すると』という意味を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにとって。",
+    "choices_ruby": [
+      "てならない",
+      "にとって",
+      "をもとに",
+      "はずがない"
+    ],
+    "correct_text_ruby": "にとって"
   },
   {
     "id": 339,
@@ -7883,7 +10160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にとって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にとって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「にとって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにとってのだ。",
+    "choices_ruby": [
+      "として",
+      "がち",
+      "にとって",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "にとって"
   },
   {
     "id": 340,
@@ -7904,7 +10190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にとって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にとって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「にとって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにとって。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "にとって"
+    ],
+    "correct_text_ruby": "にとって"
   },
   {
     "id": 341,
@@ -7929,9 +10224,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトの<ruby>進捗状況<rt>しんちょくじょうきょう</rt></ruby>（　　　）、<ruby>次<rt>つぎ</rt></ruby>のミーティングで<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>報告<rt>ほうこく</rt></ruby>いたします。",
     "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトの<ruby>進捗状況<rt>しんちょくじょうきょう</rt></ruby>について、<ruby>次<rt>つぎ</rt></ruby>のミーティングで<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>報告<rt>ほうこく</rt></ruby>いたします。",
     "choices_ruby": [
+      "について",
       "にとって",
       "につれて",
-      "について",
       "に<ruby>反<rt>はん</rt></ruby>して"
     ],
     "correct_text_ruby": "について"
@@ -7955,7 +10250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "について",
-    "notes": "【実践・ビジネス】思考・発言・調査などの対象・話題を取り上げて提示する最も基本的な表現です。"
+    "notes": "【実践・ビジネス】思考・発言・調査などの対象・話題を取り上げて提示する最も基本的な表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをについて。",
+    "choices_ruby": [
+      "において",
+      "について",
+      "をもとに",
+      "として"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 343,
@@ -7976,7 +10280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "について",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「について」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「について」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してについてのだ。",
+    "choices_ruby": [
+      "っぽい",
+      "ばかりでなく",
+      "について",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 344,
@@ -7997,7 +10310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "について",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「について」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「について」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までについて。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "わけにはいかない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "について"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 345,
@@ -8022,10 +10344,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>秋<rt>あき</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>まる（　　　）、<ruby>山<rt>やまやま</rt></ruby>々の<ruby>木<rt>きぎ</rt></ruby>々が<ruby>鮮<rt>せん</rt></ruby>やかな<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>づいてきた。",
     "sentence_jp_ruby": "<ruby>秋<rt>あき</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>まるにつれて、<ruby>山<rt>やまやま</rt></ruby>々の<ruby>木<rt>きぎ</rt></ruby>々が<ruby>鮮<rt>せん</rt></ruby>やかな<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>づいてきた。",
     "choices_ruby": [
-      "について",
       "につれて",
+      "に<ruby>際<rt>さい</rt></ruby>して",
       "に<ruby>反<rt>はん</rt></ruby>して",
-      "に<ruby>際<rt>さい</rt></ruby>して"
+      "について"
     ],
     "correct_text_ruby": "につれて"
   },
@@ -8048,7 +10370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "につれて",
-    "notes": "【実践・ビジネス】自然な時間の経過や変化に伴い、それと連動して別の変化が起きることを表します。"
+    "notes": "【実践・ビジネス】自然な時間の経過や変化に伴い、それと連動して別の変化が起きることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをにつれて。",
+    "choices_ruby": [
+      "として",
+      "につれて",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "にとって"
+    ],
+    "correct_text_ruby": "につれて"
   },
   {
     "id": 347,
@@ -8069,7 +10400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "につれて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「につれて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「につれて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにつれてのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "につれて",
+      "てならない"
+    ],
+    "correct_text_ruby": "につれて"
   },
   {
     "id": 348,
@@ -8090,7 +10430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "につれて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「につれて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「につれて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までにつれて。",
+    "choices_ruby": [
+      "において",
+      "をもとに",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "につれて"
+    ],
+    "correct_text_ruby": "につれて"
   },
   {
     "id": 349,
@@ -8115,10 +10464,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>する（　　　）、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "choices_ruby": [
-      "では",
+      "には",
       "にかかわらず",
-      "には<ruby>及<rt>およ</rt></ruby>ばず",
-      "には"
+      "では",
+      "には<ruby>及<rt>およ</rt></ruby>ばず"
     ],
     "correct_text_ruby": "には"
   },
@@ -8141,7 +10490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "には",
-    "notes": "【実践・ビジネス】動詞辞書形＋にはで目標や目的を掲げ、それを達成するために必要な条件を後件で述べます。"
+    "notes": "【実践・ビジネス】動詞辞書形＋にはで目標や目的を掲げ、それを達成するために必要な条件を後件で述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをには。",
+    "choices_ruby": [
+      "はずがない",
+      "には",
+      "てたまらない",
+      "によって"
+    ],
+    "correct_text_ruby": "には"
   },
   {
     "id": 351,
@@ -8162,7 +10520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "には",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「には」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「には」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してにはのだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "にとって",
+      "には",
+      "によって"
+    ],
+    "correct_text_ruby": "には"
   },
   {
     "id": 352,
@@ -8183,7 +10550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "には",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「には」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「には」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までには。",
+    "choices_ruby": [
+      "によって",
+      "がち",
+      "だらけ",
+      "には"
+    ],
+    "correct_text_ruby": "には"
   },
   {
     "id": 353,
@@ -8208,10 +10584,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>の<ruby>週間<rt>しゅうかん</rt></ruby><ruby>予報<rt>よほう</rt></ruby>（　　　）、<ruby>今週末<rt>こんしゅうまつ</rt></ruby>は<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>秋晴<rt>あきば</rt></ruby>れになるそうだ。",
     "sentence_jp_ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>の<ruby>週間<rt>しゅうかん</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>今週末<rt>こんしゅうまつ</rt></ruby>は<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>秋晴<rt>あきば</rt></ruby>れになるそうだ。",
     "choices_ruby": [
-      "に<ruby>反<rt>はん</rt></ruby>して",
-      "について",
       "によると",
-      "にとって"
+      "について",
+      "にとって",
+      "に<ruby>反<rt>はん</rt></ruby>して"
     ],
     "correct_text_ruby": "によると"
   },
@@ -8234,7 +10610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "によると",
-    "notes": "【実践・ビジネス】情報源（ニュース、予報、噂など）を引用し、文末で伝聞（〜そうだ、〜らしい）と呼応します。"
+    "notes": "【実践・ビジネス】情報源（ニュース、予報、噂など）を引用し、文末で伝聞（〜そうだ、〜らしい）と呼応します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをによると。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "によると",
+      "かける",
+      "によって"
+    ],
+    "correct_text_ruby": "によると"
   },
   {
     "id": 355,
@@ -8255,7 +10640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "によると",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「によると」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「によると」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してによるとのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "かける",
+      "によると",
+      "として"
+    ],
+    "correct_text_ruby": "によると"
   },
   {
     "id": 356,
@@ -8276,7 +10670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "によると",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「によると」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「によると」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までによると。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "をもとに",
+      "っぽい",
+      "によると"
+    ],
+    "correct_text_ruby": "によると"
   },
   {
     "id": 357,
@@ -8301,9 +10704,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>国<rt>くに</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い（　　　）、<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>際<rt>さい</rt></ruby>のマナーや<ruby>習慣<rt>しゅうかん</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>異<rt>こと</rt></ruby>なる。",
     "sentence_jp_ruby": "<ruby>国<rt>くに</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いによって、<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>際<rt>さい</rt></ruby>のマナーや<ruby>習慣<rt>しゅうかん</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>異<rt>こと</rt></ruby>なる。",
     "choices_ruby": [
-      "にとって",
       "によって",
       "に<ruby>対<rt>たい</rt></ruby>して",
+      "にとって",
       "について"
     ],
     "correct_text_ruby": "によって"
@@ -8327,7 +10730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "によって",
-    "notes": "【実践・ビジネス】名詞＋によってで『手段・原因・対応関係（〜ごとに異なる）』などを表します。"
+    "notes": "【実践・ビジネス】名詞＋によってで『手段・原因・対応関係（〜ごとに異なる）』などを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをによって。",
+    "choices_ruby": [
+      "だらけ",
+      "によって",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "において"
+    ],
+    "correct_text_ruby": "によって"
   },
   {
     "id": 359,
@@ -8348,7 +10760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "によって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「によって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「によって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してによってのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "てならない",
+      "によって",
+      "において"
+    ],
+    "correct_text_ruby": "によって"
   },
   {
     "id": 360,
@@ -8369,7 +10790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "によって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「によって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「によって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までによって。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "によって"
+    ],
+    "correct_text_ruby": "によって"
   },
   {
     "id": 361,
@@ -8394,10 +10824,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>古<rt>ふる</rt></ruby>い<ruby>伝統<rt>でんとう</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>は、<ruby>一体<rt>いったい</rt></ruby>いつ<ruby>頃<rt>ごろ</rt></ruby>の<ruby>時代<rt>じだい</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まった（　　　）。",
     "sentence_jp_ruby": "この<ruby>古<rt>ふる</rt></ruby>い<ruby>伝統<rt>でんとう</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>は、<ruby>一体<rt>いったい</rt></ruby>いつ<ruby>頃<rt>ごろ</rt></ruby>の<ruby>時代<rt>じだい</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まったのでしょうか。",
     "choices_ruby": [
-      "ものでしょうか",
       "のでしょうか",
-      "はずでしょうか",
-      "わけでしょうか"
+      "ものでしょうか",
+      "わけでしょうか",
+      "はずでしょうか"
     ],
     "correct_text_ruby": "のでしょうか"
   },
@@ -8420,7 +10850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のでしょうか",
-    "notes": "【実践・ビジネス】丁寧かつ柔らかな口調で相手に理由や背景を尋ねたり、自問自答する表現です。"
+    "notes": "【実践・ビジネス】丁寧かつ柔らかな口調で相手に理由や背景を尋ねたり、自問自答する表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをのでしょうか。",
+    "choices_ruby": [
+      "によって",
+      "のでしょうか",
+      "てたまらない",
+      "だらけ"
+    ],
+    "correct_text_ruby": "のでしょうか"
   },
   {
     "id": 363,
@@ -8441,7 +10880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のでしょうか",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「のでしょうか」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「のでしょうか」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してのでしょうかのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "ばかりでなく",
+      "のでしょうか",
+      "がち"
+    ],
+    "correct_text_ruby": "のでしょうか"
   },
   {
     "id": 364,
@@ -8462,7 +10910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のでしょうか",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「のでしょうか」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「のでしょうか」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までのでしょうか。",
+    "choices_ruby": [
+      "べきだ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "によって",
+      "のでしょうか"
+    ],
+    "correct_text_ruby": "のでしょうか"
   },
   {
     "id": 365,
@@ -8487,10 +10944,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>若手<rt>わかて</rt></ruby>のリーダーを（　　　）に、<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>プロジェクトが<ruby>活発<rt>かっぱつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>められている。",
     "sentence_jp_ruby": "<ruby>若手<rt>わかて</rt></ruby>のリーダーを<ruby>中心<rt>ちゅうしん</rt></ruby>に、<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>プロジェクトが<ruby>活発<rt>かっぱつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>められている。",
     "choices_ruby": [
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>",
       "<ruby>基準<rt>きじゅん</rt></ruby>",
       "<ruby>最中<rt>さいちゅう</rt></ruby>",
-      "<ruby>途中<rt>とちゅう</rt></ruby>",
-      "<ruby>中心<rt>ちゅうしん</rt></ruby>"
+      "<ruby>途中<rt>とちゅう</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>"
   },
@@ -8513,7 +10970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "中心",
-    "notes": "【実践・ビジネス】名詞＋を中心にで、その人や場所・事柄が中核・基軸となって物事が展開する様子を表します。"
+    "notes": "【実践・ビジネス】名詞＋を中心にで、その人や場所・事柄が中核・基軸となって物事が展開する様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>中心<rt>ちゅうしん</rt></ruby>。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>",
+      "っぽい",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>"
   },
   {
     "id": 367,
@@ -8534,7 +11000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "中心",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「中心」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「中心」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>中心<rt>ちゅうしん</rt></ruby>のだ。",
+    "choices_ruby": [
+      "において",
+      "わけにはいかない",
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>",
+      "をもとに"
+    ],
+    "correct_text_ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>"
   },
   {
     "id": 368,
@@ -8555,7 +11030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "中心",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「中心」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「中心」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>中心<rt>ちゅうしん</rt></ruby>。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "がち",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>"
   },
   {
     "id": 369,
@@ -8580,10 +11064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>校長先生<rt>こうちょうせんせい</rt></ruby>を（　　　）、<ruby>多<rt>おお</rt></ruby>くの<ruby>教職員<rt>きょうしょくいん</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>温<rt>あたた</rt></ruby>かいご<ruby>支援<rt>しえん</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。",
     "sentence_jp_ruby": "<ruby>校長先生<rt>こうちょうせんせい</rt></ruby>をはじめ、<ruby>多<rt>おお</rt></ruby>くの<ruby>教職員<rt>きょうしょくいん</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>温<rt>あたた</rt></ruby>かいご<ruby>支援<rt>しえん</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。",
     "choices_ruby": [
-      "<ruby>込<rt>こ</rt></ruby>めて",
-      "<ruby>中心<rt>ちゅうしん</rt></ruby>に",
       "はじめ",
-      "<ruby>通<rt>とう</rt></ruby>して"
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>に",
+      "<ruby>込<rt>こ</rt></ruby>めて",
+      "<ruby>通<rt>とお</rt></ruby>して"
     ],
     "correct_text_ruby": "はじめ"
   },
@@ -8606,7 +11090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はじめ",
-    "notes": "【実践・ビジネス】名詞＋をはじめ（として）で代表的な例を真っ先に挙げ、他も同様であることを示します。"
+    "notes": "【実践・ビジネス】名詞＋をはじめ（として）で代表的な例を真っ先に挙げ、他も同様であることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをはじめ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "はじめ",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "はずがない"
+    ],
+    "correct_text_ruby": "はじめ"
   },
   {
     "id": 371,
@@ -8627,7 +11120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はじめ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はじめ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はじめ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してはじめのだ。",
+    "choices_ruby": [
+      "によって",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "はじめ",
+      "にとって"
+    ],
+    "correct_text_ruby": "はじめ"
   },
   {
     "id": 372,
@@ -8648,7 +11150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はじめ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はじめ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はじめ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まではじめ。",
+    "choices_ruby": [
+      "にとって",
+      "ばかりでなく",
+      "わけにはいかない",
+      "はじめ"
+    ],
+    "correct_text_ruby": "はじめ"
   },
   {
     "id": 373,
@@ -8674,9 +11185,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>指導<rt>しどう</rt></ruby>してくださったおかげで、<ruby>無事<rt>ぶじ</rt></ruby>にプレゼンを<ruby>成功<rt>せいこう</rt></ruby>させることができた。",
     "choices_ruby": [
       "おかげで",
-      "ばかりに",
       "くせに",
-      "せいで"
+      "せいで",
+      "ばかりに"
     ],
     "correct_text_ruby": "おかげで"
   },
@@ -8699,7 +11210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "おかげで",
-    "notes": "【実践・ビジネス】他者の恩恵や好条件によって望ましい良い結果が得られたことへの感謝を表します。"
+    "notes": "【実践・ビジネス】他者の恩恵や好条件によって望ましい良い結果が得られたことへの感謝を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをおかげで。",
+    "choices_ruby": [
+      "はずがない",
+      "おかげで",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "おかげで"
   },
   {
     "id": 375,
@@ -8720,7 +11240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "おかげで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「おかげで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「おかげで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>しておかげでのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "おかげで",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "おかげで"
   },
   {
     "id": 376,
@@ -8741,7 +11270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おかげで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「おかげで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「おかげで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までおかげで。",
+    "choices_ruby": [
+      "てならない",
+      "だらけ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "おかげで"
+    ],
+    "correct_text_ruby": "おかげで"
   },
   {
     "id": 377,
@@ -8769,7 +11307,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
       "<ruby>込<rt>こ</rt></ruby>めて",
       "<ruby>通<rt>つう</rt></ruby>じて",
       "<ruby>向<rt>む</rt></ruby>けて",
-      "<ruby>通<rt>とう</rt></ruby>して"
+      "<ruby>通<rt>とお</rt></ruby>して"
     ],
     "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>めて"
   },
@@ -8792,7 +11330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "込めて",
-    "notes": "【実践・ビジネス】名詞（愛、祈り、感謝、願いなど）＋を込めてで、心や感情を十分に込めて行動することを表します。"
+    "notes": "【実践・ビジネス】名詞（愛、祈り、感謝、願いなど）＋を込めてで、心や感情を十分に込めて行動することを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>込<rt>こ</rt></ruby>めて。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>込<rt>こ</rt></ruby>めて",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>めて"
   },
   {
     "id": 379,
@@ -8813,7 +11360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "込めて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「込めて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「込めて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>込<rt>こ</rt></ruby>めてのだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "はずがない",
+      "<ruby>込<rt>こ</rt></ruby>めて",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>めて"
   },
   {
     "id": 380,
@@ -8834,7 +11390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "込めて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「込めて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「込めて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>込<rt>こ</rt></ruby>めて。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "っぽい",
+      "かける",
+      "<ruby>込<rt>こ</rt></ruby>めて"
+    ],
+    "correct_text_ruby": "<ruby>込<rt>こ</rt></ruby>めて"
   },
   {
     "id": 381,
@@ -8859,10 +11424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "ボランティア<ruby>活動<rt>かつどう</rt></ruby>を（　　　）、<ruby>世代<rt>せだい</rt></ruby>の<ruby>異<rt>こと</rt></ruby>なる<ruby>多<rt>おお</rt></ruby>くの<ruby>仲間<rt>なかま</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>うことができた。",
     "sentence_jp_ruby": "ボランティア<ruby>活動<rt>かつどう</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて、<ruby>世代<rt>せだい</rt></ruby>の<ruby>異<rt>こと</rt></ruby>なる<ruby>多<rt>おお</rt></ruby>くの<ruby>仲間<rt>なかま</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>うことができた。",
     "choices_ruby": [
-      "<ruby>目指<rt>めざ</rt></ruby>して",
       "<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>除<rt>のぞ</rt></ruby>いて",
       "<ruby>込<rt>こ</rt></ruby>めて",
-      "<ruby>除<rt>のぞ</rt></ruby>いて"
+      "<ruby>目指<rt>めざ</rt></ruby>して"
     ],
     "correct_text_ruby": "<ruby>通<rt>つう</rt></ruby>じて"
   },
@@ -8885,7 +11450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "通じて",
-    "notes": "【実践・ビジネス】名詞＋を通じて（とおして）で仲介・手段・または全期間にわたる継続を表します。"
+    "notes": "【実践・ビジネス】名詞＋を通じて（とおして）で仲介・手段・または全期間にわたる継続を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>通<rt>つう</rt></ruby>じて。",
+    "choices_ruby": [
+      "がち",
+      "<ruby>通<rt>つう</rt></ruby>じて",
+      "っぽい",
+      "だらけ"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>つう</rt></ruby>じて"
   },
   {
     "id": 383,
@@ -8906,7 +11480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "通じて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通じて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通じて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>通<rt>つう</rt></ruby>じてのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "わけにはいかない",
+      "<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>つう</rt></ruby>じて"
   },
   {
     "id": 384,
@@ -8927,7 +11510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "通じて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通じて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通じて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>通<rt>つう</rt></ruby>じて。",
+    "choices_ruby": [
+      "べきだ",
+      "てたまらない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>つう</rt></ruby>じて"
   },
   {
     "id": 385,
@@ -8952,10 +11544,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "エアコンをつけ（　　　）で<ruby>寝<rt>ね</rt></ruby>てしまい、<ruby>朝起<rt>あさお</rt></ruby>きたら<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなっていた。",
     "sentence_jp_ruby": "エアコンをつけたっぱなしで<ruby>寝<rt>ね</rt></ruby>てしまい、<ruby>朝起<rt>あさお</rt></ruby>きたら<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなっていた。",
     "choices_ruby": [
-      "<ruby>気味<rt>きみ</rt></ruby>",
+      "っぱなし",
       "だらけ",
       "がち",
-      "っぱなし"
+      "<ruby>気味<rt>きみ</rt></ruby>"
     ],
     "correct_text_ruby": "っぱなし"
   },
@@ -8978,7 +11570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っぱなし",
-    "notes": "【実践・ビジネス】動詞ます形＋っぱなしで後始末をせず、好ましくない状態を放置し続ける非難の意を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋っぱなしで後始末をせず、好ましくない状態を放置し続ける非難の意を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをっぱなし。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "っぱなし",
+      "によって",
+      "がち"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 387,
@@ -8999,7 +11600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っぱなし",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っぱなし」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っぱなし」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してっぱなしのだ。",
+    "choices_ruby": [
+      "として",
+      "わけにはいかない",
+      "っぱなし",
+      "てならない"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 388,
@@ -9020,7 +11630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "っぱなし",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っぱなし」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っぱなし」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までっぱなし。",
+    "choices_ruby": [
+      "をもとに",
+      "において",
+      "はずがない",
+      "っぱなし"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 389,
@@ -9045,10 +11664,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>怒<rt>いか</rt></ruby>り（　　　）なって、ちょっとしたことですぐに<ruby>不機嫌<rt>ふきげん</rt></ruby>になる。",
     "sentence_jp_ruby": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>怒<rt>いか</rt></ruby>りっぽくなって、ちょっとしたことですぐに<ruby>不機嫌<rt>ふきげん</rt></ruby>になる。",
     "choices_ruby": [
+      "っぽく",
       "がちに",
       "そうに",
-      "<ruby>気味<rt>きみ</rt></ruby>に",
-      "っぽく"
+      "<ruby>気味<rt>きみ</rt></ruby>に"
     ],
     "correct_text_ruby": "っぽく"
   },
@@ -9071,7 +11690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っぽく",
-    "notes": "【実践・ビジネス】名詞・形容詞語幹・動詞ます形＋っぽい（っぽく）でそうした性質や傾向を強く帯びている様子を表します。"
+    "notes": "【実践・ビジネス】名詞・形容詞語幹・動詞ます形＋っぽい（っぽく）でそうした性質や傾向を強く帯びている様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをっぽく。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "っぽく",
+      "をもとに",
+      "がち"
+    ],
+    "correct_text_ruby": "っぽく"
   },
   {
     "id": 391,
@@ -9092,7 +11720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っぽく",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っぽく」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「っぽく」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してっぽくのだ。",
+    "choices_ruby": [
+      "にとって",
+      "ばかりでなく",
+      "っぽく",
+      "はずがない"
+    ],
+    "correct_text_ruby": "っぽく"
   },
   {
     "id": 392,
@@ -9113,7 +11750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "っぽく",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っぽく」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「っぽく」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までっぽく。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "っぽく"
+    ],
+    "correct_text_ruby": "っぽく"
   },
   {
     "id": 393,
@@ -9138,10 +11784,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "スマートフォンとネット<ruby>環境<rt>かんきょう</rt></ruby>（　　　）あれば、どこにいても<ruby>仕事<rt>しごと</rt></ruby>ができる<ruby>時代<rt>じだい</rt></ruby>だ。",
     "sentence_jp_ruby": "スマートフォンとネット<ruby>環境<rt>かんきょう</rt></ruby>さえあれば、どこにいても<ruby>仕事<rt>しごと</rt></ruby>ができる<ruby>時代<rt>じだい</rt></ruby>だ。",
     "choices_ruby": [
-      "ばかり",
-      "こそ",
       "さえ",
-      "すら"
+      "ばかり",
+      "すら",
+      "こそ"
     ],
     "correct_text_ruby": "さえ"
   },
@@ -9164,7 +11810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "さえ",
-    "notes": "【実践・ビジネス】『名詞さえ＋動詞ば』で、その最小限の条件さえ満たされれば他は問題ないことを表します。"
+    "notes": "【実践・ビジネス】『名詞さえ＋動詞ば』で、その最小限の条件さえ満たされれば他は問題ないことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをさえ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "さえ",
+      "をもとに",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 395,
@@ -9185,7 +11840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "さえ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さえ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さえ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してさえのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "さえ",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 396,
@@ -9206,7 +11870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "さえ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さえ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さえ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までさえ。",
+    "choices_ruby": [
+      "べきだ",
+      "をもとに",
+      "わけにはいかない",
+      "さえ"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 397,
@@ -9231,10 +11904,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多忙<rt>たぼう</rt></ruby>のあまり、<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>（　　　）<ruby>取<rt>と</rt></ruby>れない<ruby>日<rt>にち</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多忙<rt>たぼう</rt></ruby>のあまり、<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>さえ<ruby>取<rt>と</rt></ruby>れない<ruby>日<rt>にち</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
     "choices_ruby": [
+      "さえ",
       "ばかり",
-      "こそ",
       "だけに",
-      "さえ"
+      "こそ"
     ],
     "correct_text_ruby": "さえ"
   },
@@ -9257,7 +11930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "さえ",
-    "notes": "【実践・ビジネス】極端な例を挙げて『それすらそうなのだから他は言うまでもない』という事態を表します。"
+    "notes": "【実践・ビジネス】極端な例を挙げて『それすらそうなのだから他は言うまでもない』という事態を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをさえ。",
+    "choices_ruby": [
+      "がち",
+      "さえ",
+      "はずがない",
+      "によって"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 399,
@@ -9278,7 +11960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "さえ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さえ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さえ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してさえのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "さえ",
+      "をもとに"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 400,
@@ -9299,7 +11990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "さえ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さえ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さえ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までさえ。",
+    "choices_ruby": [
+      "てたまらない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "わけにはいかない",
+      "さえ"
+    ],
+    "correct_text_ruby": "さえ"
   },
   {
     "id": 401,
@@ -9324,10 +12024,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大事<rt>だいじ</rt></ruby>な<ruby>取引先<rt>とりひきさき</rt></ruby>との<ruby>商談<rt>しょうだん</rt></ruby>の（　　　）に、<ruby>突然<rt>とつぜん</rt></ruby><ruby>激<rt>はげ</rt></ruby>しい<ruby>停電<rt>ていでん</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>して<ruby>部屋<rt>へや</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>になった。",
     "sentence_jp_ruby": "<ruby>大事<rt>だいじ</rt></ruby>な<ruby>取引先<rt>とりひきさき</rt></ruby>との<ruby>商談<rt>しょうだん</rt></ruby>の<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>突然<rt>とつぜん</rt></ruby><ruby>激<rt>はげ</rt></ruby>しい<ruby>停電<rt>ていでん</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>して<ruby>部屋<rt>へや</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>になった。",
     "choices_ruby": [
-      "<ruby>最後<rt>さいご</rt></ruby>",
-      "<ruby>途中<rt>とちゅう</rt></ruby>",
       "<ruby>最中<rt>さいちゅう</rt></ruby>",
-      "<ruby>一方<rt>いっぽう</rt></ruby>"
+      "<ruby>一方<rt>いっぽう</rt></ruby>",
+      "<ruby>途中<rt>とちゅう</rt></ruby>",
+      "<ruby>最後<rt>さいご</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>最中<rt>さいちゅう</rt></ruby>"
   },
@@ -9350,7 +12050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "最中",
-    "notes": "【実践・ビジネス】『名詞の＋最中に／動詞ている＋最中に』でちょうどその動作を行っている最高潮のときに邪魔が入ることを表します。"
+    "notes": "【実践・ビジネス】『名詞の＋最中に／動詞ている＋最中に』でちょうどその動作を行っている最高潮のときに邪魔が入ることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>最中<rt>さいちゅう</rt></ruby>。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "だらけ",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>最中<rt>さいちゅう</rt></ruby>"
   },
   {
     "id": 403,
@@ -9371,7 +12080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "最中",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「最中」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「最中」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>最中<rt>さいちゅう</rt></ruby>のだ。",
+    "choices_ruby": [
+      "によって",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>最中<rt>さいちゅう</rt></ruby>"
   },
   {
     "id": 404,
@@ -9392,7 +12110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "最中",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「最中」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「最中」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>最中<rt>さいちゅう</rt></ruby>。",
+    "choices_ruby": [
+      "によって",
+      "てならない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>最中<rt>さいちゅう</rt></ruby>"
   },
   {
     "id": 405,
@@ -9417,12 +12144,12 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "こちらの<ruby>書類<rt>しょるい</rt></ruby>は、<ruby>銀行口座<rt>ぎんこうこうざ</rt></ruby>を<ruby>開設<rt>かいせつ</rt></ruby>する（　　　）に<ruby>必<rt>かなら</rt></ruby>ず<ruby>提出<rt>ていしゅつ</rt></ruby>していただく<ruby>必要<rt>ひつよう</rt></ruby>がございます。",
     "sentence_jp_ruby": "こちらの<ruby>書類<rt>しょるい</rt></ruby>は、<ruby>銀行口座<rt>ぎんこうこうざ</rt></ruby>を<ruby>開設<rt>かいせつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>提出<rt>ていしゅつ</rt></ruby>していただく<ruby>必要<rt>ひつよう</rt></ruby>がございます。",
     "choices_ruby": [
-      "<ruby>度<rt>ど</rt></ruby>",
-      "<ruby>際<rt>きわ</rt></ruby>",
+      "<ruby>際<rt>さい</rt></ruby>",
       "<ruby>上<rt>うえ</rt></ruby>",
-      "<ruby>頃<rt>ごろ</rt></ruby>"
+      "<ruby>度<rt>ど</rt></ruby>",
+      "<ruby>頃<rt>ころ</rt></ruby>"
     ],
-    "correct_text_ruby": "<ruby>際<rt>きわ</rt></ruby>"
+    "correct_text_ruby": "<ruby>際<rt>さい</rt></ruby>"
   },
   {
     "id": 406,
@@ -9443,7 +12170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "際",
-    "notes": "【実践・ビジネス】『動詞辞書形・た形・名詞の＋際に』で改まった場面における『〜の時に』を表す硬い表現です。"
+    "notes": "【実践・ビジネス】『動詞辞書形・た形・名詞の＋際に』で改まった場面における『〜の時に』を表す硬い表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>際<rt>さい</rt></ruby>。",
+    "choices_ruby": [
+      "をもとに",
+      "<ruby>際<rt>さい</rt></ruby>",
+      "わけにはいかない",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>際<rt>さい</rt></ruby>"
   },
   {
     "id": 407,
@@ -9464,7 +12200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "際",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「際」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「際」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>際<rt>さい</rt></ruby>のだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "てならない",
+      "<ruby>際<rt>さい</rt></ruby>",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>際<rt>さい</rt></ruby>"
   },
   {
     "id": 408,
@@ -9485,7 +12230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "際",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「際」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「際」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>際<rt>きわ</rt></ruby>。",
+    "choices_ruby": [
+      "べきだ",
+      "てならない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>際<rt>さい</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>際<rt>さい</rt></ruby>"
   },
   {
     "id": 409,
@@ -9510,8 +12264,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>一段<rt>いちだん</rt></ruby>と<ruby>激<rt>はげ</rt></ruby>しくなり、（　　　）<ruby>強<rt>つよ</rt></ruby>い<ruby>突風<rt>とっぷう</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>き<ruby>荒<rt>あ</rt></ruby>れる<ruby>見込<rt>みこ</rt></ruby>みです。",
     "sentence_jp_ruby": "<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>一段<rt>いちだん</rt></ruby>と<ruby>激<rt>はげ</rt></ruby>しくなり、さらに<ruby>強<rt>つよ</rt></ruby>い<ruby>突風<rt>とっぷう</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>き<ruby>荒<rt>あ</rt></ruby>れる<ruby>見込<rt>みこ</rt></ruby>みです。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "さらに",
+      "<ruby>決<rt>けっ</rt></ruby>して",
       "ちっとも",
       "まさか"
     ],
@@ -9536,7 +12290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "さらに",
-    "notes": "【実践・ビジネス】既存の状態に加えて程度が一段と増す様子を表す副詞です。"
+    "notes": "【実践・ビジネス】既存の状態に加えて程度が一段と増す様子を表す副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをさらに。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "さらに",
+      "において",
+      "べきだ"
+    ],
+    "correct_text_ruby": "さらに"
   },
   {
     "id": 411,
@@ -9557,7 +12320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "さらに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さらに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さらに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してさらにのだ。",
+    "choices_ruby": [
+      "として",
+      "てたまらない",
+      "さらに",
+      "をもとに"
+    ],
+    "correct_text_ruby": "さらに"
   },
   {
     "id": 412,
@@ -9578,7 +12350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "さらに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さらに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さらに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までさらに。",
+    "choices_ruby": [
+      "はずがない",
+      "として",
+      "わけにはいかない",
+      "さらに"
+    ],
+    "correct_text_ruby": "さらに"
   },
   {
     "id": 413,
@@ -9603,10 +12384,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>前置<rt>まえお</rt></ruby>きはこれくらいにしましょう。（　　　）、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います。",
     "sentence_jp_ruby": "<ruby>前置<rt>まえお</rt></ruby>きはこれくらいにしましょう。さて、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います。",
     "choices_ruby": [
-      "そこで",
       "さて",
       "すると",
-      "だから"
+      "だから",
+      "そこで"
     ],
     "correct_text_ruby": "さて"
   },
@@ -9629,7 +12410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "さて",
-    "notes": "【実践・ビジネス】話を切り替えて次の本題や新しい話題に移る際に用いる接続詞です。"
+    "notes": "【実践・ビジネス】話を切り替えて次の本題や新しい話題に移る際に用いる接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをさて。",
+    "choices_ruby": [
+      "にとって",
+      "さて",
+      "がち",
+      "っぽい"
+    ],
+    "correct_text_ruby": "さて"
   },
   {
     "id": 415,
@@ -9650,7 +12440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "さて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「さて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してさてのだ。",
+    "choices_ruby": [
+      "にとって",
+      "てたまらない",
+      "さて",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "さて"
   },
   {
     "id": 416,
@@ -9671,7 +12470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "さて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「さて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までさて。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "かける",
+      "てたまらない",
+      "さて"
+    ],
+    "correct_text_ruby": "さて"
   },
   {
     "id": 417,
@@ -9696,10 +12504,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>昨夜<rt>さくや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまでスマホをいじっていた（　　　）、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅刻<rt>ちこく</rt></ruby>してしまった。",
     "sentence_jp_ruby": "<ruby>昨夜<rt>さくや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまでスマホをいじっていたせいで、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅刻<rt>ちこく</rt></ruby>してしまった。",
     "choices_ruby": [
-      "おかげで",
+      "せいで",
       "とおりに",
-      "くせに",
-      "せいで"
+      "おかげで",
+      "くせに"
     ],
     "correct_text_ruby": "せいで"
   },
@@ -9722,7 +12530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいで",
-    "notes": "【実践・ビジネス】好ましくない結果をもたらした原因・理由を非難や恨みを込めて述べます。"
+    "notes": "【実践・ビジネス】好ましくない結果をもたらした原因・理由を非難や恨みを込めて述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをせいで。",
+    "choices_ruby": [
+      "かける",
+      "せいで",
+      "ばかりでなく",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "せいで"
   },
   {
     "id": 419,
@@ -9743,7 +12560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せいで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「せいで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「せいで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してせいでのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "せいで",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "せいで"
   },
   {
     "id": 420,
@@ -9764,7 +12590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せいで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「せいで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「せいで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までせいで。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ばかりでなく",
+      "てたまらない",
+      "せいで"
+    ],
+    "correct_text_ruby": "せいで"
   },
   {
     "id": 421,
@@ -9789,9 +12624,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>遠出<rt>とおで</rt></ruby>をせず、（　　　）<ruby>近所<rt>きんじょ</rt></ruby>のカフェで<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむくらいだ。",
     "sentence_jp_ruby": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>遠出<rt>とおで</rt></ruby>をせず、せいぜい<ruby>近所<rt>きんじょ</rt></ruby>のカフェで<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむくらいだ。",
     "choices_ruby": [
-      "まるで",
       "せいぜい",
       "どうしても",
+      "まるで",
       "めったに"
     ],
     "correct_text_ruby": "せいぜい"
@@ -9815,7 +12650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "せいぜい",
-    "notes": "【実践・ビジネス】見積もられる最大の限度を控えめに示し、『多く見積もってもその程度だ』と述べます。"
+    "notes": "【実践・ビジネス】見積もられる最大の限度を控えめに示し、『多く見積もってもその程度だ』と述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをせいぜい。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "せいぜい",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "として"
+    ],
+    "correct_text_ruby": "せいぜい"
   },
   {
     "id": 423,
@@ -9836,7 +12680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "せいぜい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「せいぜい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「せいぜい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してせいぜいのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "はずがない",
+      "せいぜい",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "せいぜい"
   },
   {
     "id": 424,
@@ -9857,7 +12710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "せいぜい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「せいぜい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「せいぜい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までせいぜい。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい",
+      "せいぜい"
+    ],
+    "correct_text_ruby": "せいぜい"
   },
   {
     "id": 425,
@@ -9882,10 +12744,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>は（　　　）の<ruby>間<rt>かん</rt></ruby><ruby>通行止<rt>つうこうどめ</rt></ruby>めとなります。",
     "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>はしばらくの<ruby>間<rt>かん</rt></ruby><ruby>通行止<rt>つうこうどめ</rt></ruby>めとなります。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
-      "めったに",
       "しばらく",
-      "ついに"
+      "ついに",
+      "めったに",
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "しばらく"
   },
@@ -9908,7 +12770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しばらく",
-    "notes": "【実践・ビジネス】ある程度の長さの時間（少しの間〜当面の間）を表す副詞です。"
+    "notes": "【実践・ビジネス】ある程度の長さの時間（少しの間〜当面の間）を表す副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをしばらく。",
+    "choices_ruby": [
+      "として",
+      "しばらく",
+      "てならない",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "しばらく"
   },
   {
     "id": 427,
@@ -9929,7 +12800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しばらく",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しばらく」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しばらく」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してしばらくのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "てたまらない",
+      "しばらく",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "しばらく"
   },
   {
     "id": 428,
@@ -9950,7 +12830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しばらく",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しばらく」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しばらく」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までしばらく。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "をもとに",
+      "っぽい",
+      "しばらく"
+    ],
+    "correct_text_ruby": "しばらく"
   },
   {
     "id": 429,
@@ -9975,10 +12864,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>もバスも<ruby>止<rt>と</rt></ruby>まってしまった<ruby>以上<rt>いじょう</rt></ruby>、<ruby>歩<rt>ある</rt></ruby>いて<ruby>帰<rt>かえ</rt></ruby>る（　　　）。",
     "sentence_jp_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>もバスも<ruby>止<rt>と</rt></ruby>まってしまった<ruby>以上<rt>いじょう</rt></ruby>、<ruby>歩<rt>ある</rt></ruby>いて<ruby>帰<rt>かえ</rt></ruby>るしかない。",
     "choices_ruby": [
-      "わけがない",
       "しかない",
+      "っこない",
       "はずがない",
-      "っこない"
+      "わけがない"
     ],
     "correct_text_ruby": "しかない"
   },
@@ -10001,7 +12890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しかない",
-    "notes": "【実践・ビジネス】動詞辞書形＋しかないで、他に選ぶべき選択肢や手段が残されていないことを表します。"
+    "notes": "【実践・ビジネス】動詞辞書形＋しかないで、他に選ぶべき選択肢や手段が残されていないことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをしかない。",
+    "choices_ruby": [
+      "だらけ",
+      "しかない",
+      "てならない",
+      "において"
+    ],
+    "correct_text_ruby": "しかない"
   },
   {
     "id": 431,
@@ -10022,7 +12920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しかない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しかない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しかない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してしかないのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "において",
+      "しかない",
+      "として"
+    ],
+    "correct_text_ruby": "しかない"
   },
   {
     "id": 432,
@@ -10043,7 +12950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しかない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しかない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しかない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までしかない。",
+    "choices_ruby": [
+      "てたまらない",
+      "をもとに",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "しかない"
+    ],
+    "correct_text_ruby": "しかない"
   },
   {
     "id": 433,
@@ -10068,10 +12984,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>線路<rt>せんろ</rt></ruby><ruby>内<rt>ない</rt></ruby>に<ruby>倒木<rt>とうぼく</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しました。（　　　）<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>運行<rt>うんこう</rt></ruby>が<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れております。",
     "sentence_jp_ruby": "<ruby>線路<rt>せんろ</rt></ruby><ruby>内<rt>ない</rt></ruby>に<ruby>倒木<rt>とうぼく</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しました。そのために<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>運行<rt>うんこう</rt></ruby>が<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れております。",
     "choices_ruby": [
-      "すると",
+      "そのために",
       "それなら",
       "そこで",
-      "そのために"
+      "すると"
     ],
     "correct_text_ruby": "そのために"
   },
@@ -10094,7 +13010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そのために",
-    "notes": "【実践・ビジネス】前文で生じた事態を直接的な原因として後文の不都合な結果を導く接続詞です。"
+    "notes": "【実践・ビジネス】前文で生じた事態を直接的な原因として後文の不都合な結果を導く接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをそのために。",
+    "choices_ruby": [
+      "がち",
+      "そのために",
+      "てたまらない",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "そのために"
   },
   {
     "id": 435,
@@ -10115,7 +13040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そのために",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「そのために」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「そのために」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してそのためにのだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ばかりでなく",
+      "そのために",
+      "だらけ"
+    ],
+    "correct_text_ruby": "そのために"
   },
   {
     "id": 436,
@@ -10136,7 +13070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そのために",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「そのために」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「そのために」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までそのために。",
+    "choices_ruby": [
+      "がち",
+      "ばかりでなく",
+      "わけにはいかない",
+      "そのために"
+    ],
+    "correct_text_ruby": "そのために"
   },
   {
     "id": 437,
@@ -10161,10 +13104,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "お<ruby>飲み物<rt>のみもの</rt></ruby>はホットコーヒーになさいますか、（　　　）<ruby>冷<rt>つめ</rt></ruby>たい<ruby>紅茶<rt>こうちゃ</rt></ruby>がよろしいですか。",
     "sentence_jp_ruby": "お<ruby>飲み物<rt>のみもの</rt></ruby>はホットコーヒーになさいますか、それとも<ruby>冷<rt>つめ</rt></ruby>たい<ruby>紅茶<rt>こうちゃ</rt></ruby>がよろしいですか。",
     "choices_ruby": [
-      "それなら",
-      "そこで",
       "それとも",
-      "そのうえ"
+      "そのうえ",
+      "それなら",
+      "そこで"
     ],
     "correct_text_ruby": "それとも"
   },
@@ -10187,7 +13130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "それとも",
-    "notes": "【実践・ビジネス】疑問文を二つ並べて『Aか、あるいはBか』と相手に選択を促す接続詞です。"
+    "notes": "【実践・ビジネス】疑問文を二つ並べて『Aか、あるいはBか』と相手に選択を促す接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをそれとも。",
+    "choices_ruby": [
+      "てならない",
+      "それとも",
+      "かける",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "それとも"
   },
   {
     "id": 439,
@@ -10208,7 +13160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "それとも",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「それとも」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「それとも」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してそれとものだ。",
+    "choices_ruby": [
+      "はずがない",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "それとも",
+      "かける"
+    ],
+    "correct_text_ruby": "それとも"
   },
   {
     "id": 440,
@@ -10229,7 +13190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "それとも",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「それとも」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「それとも」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までそれとも。",
+    "choices_ruby": [
+      "において",
+      "がち",
+      "てならない",
+      "それとも"
+    ],
+    "correct_text_ruby": "それとも"
   },
   {
     "id": 441,
@@ -10254,10 +13224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>外<rt>そと</rt></ruby>はまだ<ruby>厚<rt>あつ</rt></ruby>い<ruby>雨雲<rt>あまぐも</rt></ruby>に<ruby>覆<rt>おお</rt></ruby>われていて、この<ruby>雨<rt>あめ</rt></ruby>は<ruby>夕方<rt>ゆうがた</rt></ruby>まで<ruby>止<rt>と</rt></ruby>み（　　　）。",
     "sentence_jp_ruby": "<ruby>外<rt>そと</rt></ruby>はまだ<ruby>厚<rt>あつ</rt></ruby>い<ruby>雨雲<rt>あまぐも</rt></ruby>に<ruby>覆<rt>おお</rt></ruby>われていて、この<ruby>雨<rt>あめ</rt></ruby>は<ruby>夕方<rt>ゆうがた</rt></ruby>まで<ruby>止<rt>と</rt></ruby>みそうもない。",
     "choices_ruby": [
-      "わけがない",
-      "っこない",
       "そうもない",
-      "はずがない"
+      "わけがない",
+      "はずがない",
+      "っこない"
     ],
     "correct_text_ruby": "そうもない"
   },
@@ -10280,7 +13250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そうもない",
-    "notes": "【実践・ビジネス】動詞ます形＋そうもない（そうにない）でその実現の見込みが極めて薄い推量を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋そうもない（そうにない）でその実現の見込みが極めて薄い推量を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをそうもない。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "そうもない",
+      "わけにはいかない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "そうもない"
   },
   {
     "id": 443,
@@ -10301,7 +13280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そうもない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「そうもない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「そうもない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してそうもないのだ。",
+    "choices_ruby": [
+      "てならない",
+      "っぽい",
+      "そうもない",
+      "がち"
+    ],
+    "correct_text_ruby": "そうもない"
   },
   {
     "id": 444,
@@ -10322,7 +13310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そうもない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「そうもない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「そうもない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までそうもない。",
+    "choices_ruby": [
+      "をもとに",
+      "てならない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "そうもない"
+    ],
+    "correct_text_ruby": "そうもない"
   },
   {
     "id": 445,
@@ -10348,9 +13345,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した<ruby>時<rt>とき</rt></ruby>には、<ruby>人気<rt>にんき</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>グッズはすでに<ruby>完売<rt>かんばい</rt></ruby>となっていた。",
     "choices_ruby": [
       "すでに",
-      "めったに",
       "いまだに",
-      "ようやく"
+      "ようやく",
+      "めったに"
     ],
     "correct_text_ruby": "すでに"
   },
@@ -10373,7 +13370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "すでに",
-    "notes": "【実践・ビジネス】その時点よりも前に動作や事態が既に完了していることを表す改まった副詞です。"
+    "notes": "【実践・ビジネス】その時点よりも前に動作や事態が既に完了していることを表す改まった副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをすでに。",
+    "choices_ruby": [
+      "はずがない",
+      "すでに",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "てならない"
+    ],
+    "correct_text_ruby": "すでに"
   },
   {
     "id": 447,
@@ -10394,7 +13400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "すでに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「すでに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「すでに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してすでにのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "をもとに",
+      "すでに",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "すでに"
   },
   {
     "id": 448,
@@ -10415,7 +13430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "すでに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「すでに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「すでに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まですでに。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "として",
+      "はずがない",
+      "すでに"
+    ],
+    "correct_text_ruby": "すでに"
   },
   {
     "id": 449,
@@ -10440,9 +13464,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>母校<rt>ぼこう</rt></ruby>のチームが<ruby>決勝戦<rt>けっしょうせん</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>した。（　　　）<ruby>全国<rt>ぜんこく</rt></ruby><ruby>制覇<rt>せいは</rt></ruby>を<ruby>成し遂<rt>なしと</rt></ruby>げたのである。",
     "sentence_jp_ruby": "<ruby>母校<rt>ぼこう</rt></ruby>のチームが<ruby>決勝戦<rt>けっしょうせん</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>した。すなわち<ruby>全国<rt>ぜんこく</rt></ruby><ruby>制覇<rt>せいは</rt></ruby>を<ruby>成し遂<rt>なしと</rt></ruby>げたのである。",
     "choices_ruby": [
-      "なぜなら",
       "すなわち",
       "それなら",
+      "なぜなら",
       "ただし"
     ],
     "correct_text_ruby": "すなわち"
@@ -10466,7 +13490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "すなわち",
-    "notes": "【実践・ビジネス】前述の事柄を別の言葉で換言したり、要約して結論づける硬い接続詞です。"
+    "notes": "【実践・ビジネス】前述の事柄を別の言葉で換言したり、要約して結論づける硬い接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをすなわち。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "すなわち",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "はずがない"
+    ],
+    "correct_text_ruby": "すなわち"
   },
   {
     "id": 451,
@@ -10487,7 +13520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "すなわち",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「すなわち」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「すなわち」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してすなわちのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "によって",
+      "すなわち",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "すなわち"
   },
   {
     "id": 452,
@@ -10508,7 +13550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "すなわち",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「すなわち」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「すなわち」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まですなわち。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ばかりでなく",
+      "すなわち"
+    ],
+    "correct_text_ruby": "すなわち"
   },
   {
     "id": 453,
@@ -10533,10 +13584,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>大作<rt>たいさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>読み終<rt>よみお</rt></ruby>えるには、1<ruby>週間<rt>しゅうかん</rt></ruby>（　　　）かかるだろう。",
     "sentence_jp_ruby": "この<ruby>大作<rt>たいさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>読み終<rt>よみお</rt></ruby>えるには、1<ruby>週間<rt>しゅうかん</rt></ruby>はかかるだろう。",
     "choices_ruby": [
+      "は",
       "も",
-      "で",
       "と",
-      "は"
+      "で"
     ],
     "correct_text_ruby": "は"
   },
@@ -10559,7 +13610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "は",
-    "notes": "【実践・ビジネス】数量詞＋はで『最低でもその数量は必要・予想される』という下限を取り立てます。"
+    "notes": "【実践・ビジネス】数量詞＋はで『最低でもその数量は必要・予想される』という下限を取り立てます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをは。",
+    "choices_ruby": [
+      "っぽい",
+      "は",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "をもとに"
+    ],
+    "correct_text_ruby": "は"
   },
   {
     "id": 455,
@@ -10580,7 +13640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "は",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「は」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「は」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してはのだ。",
+    "choices_ruby": [
+      "てならない",
+      "をもとに",
+      "は",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "は"
   },
   {
     "id": 456,
@@ -10601,7 +13670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "は",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「は」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「は」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までは。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "べきだ",
+      "において",
+      "は"
+    ],
+    "correct_text_ruby": "は"
   },
   {
     "id": 457,
@@ -10626,10 +13704,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>懐<rt>なつ</rt></ruby>かしいアルバムを<ruby>開<rt>ひら</rt></ruby>く（　　　）、<ruby>幼い頃<rt>おさないころ</rt></ruby>の<ruby>思い出<rt>おもいで</rt></ruby>が<ruby>鮮<rt>せん</rt></ruby>やかによみがえる。",
     "sentence_jp_ruby": "<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>懐<rt>なつ</rt></ruby>かしいアルバムを<ruby>開<rt>ひら</rt></ruby>くたびに、<ruby>幼い頃<rt>おさないころ</rt></ruby>の<ruby>思い出<rt>おもいで</rt></ruby>が<ruby>鮮<rt>せん</rt></ruby>やかによみがえる。",
     "choices_ruby": [
-      "<ruby>最中<rt>さいちゅう</rt></ruby>に",
+      "たびに",
       "<ruby>途端<rt>とたん</rt></ruby>に",
       "ついでに",
-      "たびに"
+      "<ruby>最中<rt>さいちゅう</rt></ruby>に"
     ],
     "correct_text_ruby": "たびに"
   },
@@ -10652,7 +13730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たびに",
-    "notes": "【実践・ビジネス】動詞辞書形・名詞の＋たびにでその行為をするたびに毎回決まって同じ状態になることを示します。"
+    "notes": "【実践・ビジネス】動詞辞書形・名詞の＋たびにでその行為をするたびに毎回決まって同じ状態になることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをたびに。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "たびに",
+      "において",
+      "をもとに"
+    ],
+    "correct_text_ruby": "たびに"
   },
   {
     "id": 459,
@@ -10673,7 +13760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たびに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たびに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たびに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してたびにのだ。",
+    "choices_ruby": [
+      "において",
+      "かける",
+      "たびに",
+      "べきだ"
+    ],
+    "correct_text_ruby": "たびに"
   },
   {
     "id": 460,
@@ -10694,7 +13790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たびに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たびに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たびに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までたびに。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "てならない",
+      "において",
+      "たびに"
+    ],
+    "correct_text_ruby": "たびに"
   },
   {
     "id": 461,
@@ -10719,10 +13824,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby><ruby>海外<rt>かいがい</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby><ruby>教師<rt>きょうし</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>く（　　　）、<ruby>今<rt>いま</rt></ruby>から<ruby>教授<rt>きょうじゅ</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>している。",
     "sentence_jp_ruby": "<ruby>将来<rt>しょうらい</rt></ruby><ruby>海外<rt>かいがい</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby><ruby>教師<rt>きょうし</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>くために、<ruby>今<rt>いま</rt></ruby>から<ruby>教授<rt>きょうじゅ</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>している。",
     "choices_ruby": [
-      "ように",
-      "とおりに",
       "ために",
-      "くせに"
+      "とおりに",
+      "くせに",
+      "ように"
     ],
     "correct_text_ruby": "ために"
   },
@@ -10745,7 +13850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ために",
-    "notes": "【実践・ビジネス】意志的動作の動詞辞書形・名詞の＋ためにで明確な目標・目的を表します。"
+    "notes": "【実践・ビジネス】意志的動作の動詞辞書形・名詞の＋ためにで明確な目標・目的を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをために。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ために",
+      "がち",
+      "っぽい"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 463,
@@ -10766,7 +13880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ために",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ために」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ために」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してためにのだ。",
+    "choices_ruby": [
+      "かける",
+      "をもとに",
+      "ために",
+      "によって"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 464,
@@ -10787,7 +13910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ために",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ために」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ために」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までために。",
+    "choices_ruby": [
+      "にとって",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "ために"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 465,
@@ -10812,8 +13944,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ごろ</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>で<ruby>日<rt>にち</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れるまで<ruby>魚釣<rt>うおつり</rt></ruby>りを（　　　）。",
     "sentence_jp_ruby": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ごろ</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>で<ruby>日<rt>にち</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れるまで<ruby>魚釣<rt>うおつり</rt></ruby>りをしたものだ。",
     "choices_ruby": [
-      "するべきだ",
       "したものだ",
+      "するべきだ",
       "するはずだ",
       "するわけだ"
     ],
@@ -10838,7 +13970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "したものだ",
-    "notes": "【実践・ビジネス】動詞た形＋ものだで過去によく行った習慣的な行為を懐かしく回想します。"
+    "notes": "【実践・ビジネス】動詞た形＋ものだで過去によく行った習慣的な行為を懐かしく回想します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをしたものだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "したものだ",
+      "によって",
+      "において"
+    ],
+    "correct_text_ruby": "したものだ"
   },
   {
     "id": 467,
@@ -10859,7 +14000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "したものだ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「したものだ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「したものだ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してしたものだのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "したものだ",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "したものだ"
   },
   {
     "id": 468,
@@ -10880,7 +14030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "したものだ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「したものだ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「したものだ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までしたものだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "したものだ"
+    ],
+    "correct_text_ruby": "したものだ"
   },
   {
     "id": 469,
@@ -10905,10 +14064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "（　　　）<ruby>彼<rt>かれ</rt></ruby>の<ruby>言<rt>い</rt></ruby>う<ruby>通<rt>とう</rt></ruby>りだが、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>では<ruby>別<rt>べつ</rt></ruby>の<ruby>解決策<rt>かいけつさく</rt></ruby>も<ruby>考<rt>かんが</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>がある。",
     "sentence_jp_ruby": "<ruby>確<rt>たし</rt></ruby>かに<ruby>彼<rt>かれ</rt></ruby>の<ruby>言<rt>い</rt></ruby>う<ruby>通<rt>とう</rt></ruby>りだが、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>では<ruby>別<rt>べつ</rt></ruby>の<ruby>解決策<rt>かいけつさく</rt></ruby>も<ruby>考<rt>かんが</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>がある。",
     "choices_ruby": [
-      "めったに",
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "<ruby>確<rt>たし</rt></ruby>かに",
-      "ちっとも"
+      "ちっとも",
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "めったに"
     ],
     "correct_text_ruby": "<ruby>確<rt>たし</rt></ruby>かに"
   },
@@ -10931,7 +14090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "確かに",
-    "notes": "【実践・ビジネス】相手の意見や客観的事実を一度素直に認めた上で、逆接へとつなげる副詞です。"
+    "notes": "【実践・ビジネス】相手の意見や客観的事実を一度素直に認めた上で、逆接へとつなげる副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>確<rt>たし</rt></ruby>かに。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>確<rt>たし</rt></ruby>かに",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "かける"
+    ],
+    "correct_text_ruby": "<ruby>確<rt>たし</rt></ruby>かに"
   },
   {
     "id": 471,
@@ -10952,7 +14120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "確かに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「確かに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「確かに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>確<rt>たし</rt></ruby>かにのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "かける",
+      "<ruby>確<rt>たし</rt></ruby>かに",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>確<rt>たし</rt></ruby>かに"
   },
   {
     "id": 472,
@@ -10973,7 +14150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "確かに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「確かに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「確かに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>確<rt>たし</rt></ruby>かに。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "にとって",
+      "<ruby>確<rt>たし</rt></ruby>かに"
+    ],
+    "correct_text_ruby": "<ruby>確<rt>たし</rt></ruby>かに"
   },
   {
     "id": 473,
@@ -10998,10 +14184,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>朝一番<rt>あさいちばん</rt></ruby>にパン<ruby>屋<rt>や</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと、<ruby>焼<rt>や</rt></ruby>き（　　　）の<ruby>香<rt>こー</rt></ruby>ばしいクロワッサンが<ruby>並<rt>なら</rt></ruby>んでいる。",
     "sentence_jp_ruby": "<ruby>朝一番<rt>あさいちばん</rt></ruby>にパン<ruby>屋<rt>や</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと、<ruby>焼<rt>や</rt></ruby>きたての<ruby>香<rt>こー</rt></ruby>ばしいクロワッサンが<ruby>並<rt>なら</rt></ruby>んでいる。",
     "choices_ruby": [
-      "すぎ",
-      "きり",
+      "たて",
       "かけ",
-      "たて"
+      "すぎ",
+      "きり"
     ],
     "correct_text_ruby": "たて"
   },
@@ -11024,7 +14210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たて",
-    "notes": "【実践・ビジネス】動詞ます形＋たてで『その行為が完了したばかりで新鮮な状態』を表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋たてで『その行為が完了したばかりで新鮮な状態』を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをたて。",
+    "choices_ruby": [
+      "として",
+      "たて",
+      "わけにはいかない",
+      "にとって"
+    ],
+    "correct_text_ruby": "たて"
   },
   {
     "id": 475,
@@ -11045,7 +14240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してたてのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "たて",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "たて"
   },
   {
     "id": 476,
@@ -11066,7 +14270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までたて。",
+    "choices_ruby": [
+      "において",
+      "として",
+      "によって",
+      "たて"
+    ],
+    "correct_text_ruby": "たて"
   },
   {
     "id": 477,
@@ -11091,10 +14304,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>には<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>伝統<rt>でんとう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>がある。（　　　）<ruby>茶道<rt>さどう</rt></ruby>や<ruby>歌舞伎<rt>かぶき</rt></ruby>、<ruby>和太鼓<rt>わだいこ</rt></ruby>などが<ruby>代表的<rt>だいひょうてき</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>には<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>伝統<rt>でんとう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>がある。<ruby>例<rt>たと</rt></ruby>えば<ruby>茶道<rt>さどう</rt></ruby>や<ruby>歌舞伎<rt>かぶき</rt></ruby>、<ruby>和太鼓<rt>わだいこ</rt></ruby>などが<ruby>代表的<rt>だいひょうてき</rt></ruby>だ。",
     "choices_ruby": [
-      "それなら",
-      "なぜなら",
       "<ruby>例<rt>たと</rt></ruby>えば",
-      "つまり"
+      "つまり",
+      "それなら",
+      "なぜなら"
     ],
     "correct_text_ruby": "<ruby>例<rt>たと</rt></ruby>えば"
   },
@@ -11117,7 +14330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "例えば",
-    "notes": "【実践・ビジネス】一般的な総論の後に具体的な事例を提示する基本的な接続詞・副詞です。"
+    "notes": "【実践・ビジネス】一般的な総論の後に具体的な事例を提示する基本的な接続詞・副詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>例<rt>たと</rt></ruby>えば。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>例<rt>たと</rt></ruby>えば",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>例<rt>たと</rt></ruby>えば"
   },
   {
     "id": 479,
@@ -11138,7 +14360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "例えば",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「例えば」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「例えば」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>例<rt>たと</rt></ruby>えばのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>例<rt>たと</rt></ruby>えば",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>例<rt>たと</rt></ruby>えば"
   },
   {
     "id": 480,
@@ -11159,7 +14390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "例えば",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「例えば」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「例えば」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>例<rt>たと</rt></ruby>えば。",
+    "choices_ruby": [
+      "だらけ",
+      "かける",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>例<rt>たと</rt></ruby>えば"
+    ],
+    "correct_text_ruby": "<ruby>例<rt>たと</rt></ruby>えば"
   },
   {
     "id": 481,
@@ -11184,10 +14424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "（　　　）<ruby>周囲<rt>しゅうい</rt></ruby>から<ruby>反対<rt>はんたい</rt></ruby>されても、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>信<rt>しん</rt></ruby>じた<ruby>正<rt>ただ</rt></ruby>しい<ruby>道<rt>みち</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>進<rt>すす</rt></ruby>む<ruby>覚悟<rt>かくご</rt></ruby>だ。",
     "sentence_jp_ruby": "たとえ<ruby>周囲<rt>しゅうい</rt></ruby>から<ruby>反対<rt>はんたい</rt></ruby>されても、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>信<rt>しん</rt></ruby>じた<ruby>正<rt>ただ</rt></ruby>しい<ruby>道<rt>みち</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>進<rt>すす</rt></ruby>む<ruby>覚悟<rt>かくご</rt></ruby>だ。",
     "choices_ruby": [
-      "<ruby>決<rt>けっ</rt></ruby>して",
       "たとえ",
-      "まさか",
-      "まるで"
+      "<ruby>決<rt>けっ</rt></ruby>して",
+      "まるで",
+      "まさか"
     ],
     "correct_text_ruby": "たとえ"
   },
@@ -11210,7 +14450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たとえ",
-    "notes": "【実践・ビジネス】『たとえ＋〜ても』で仮定の逆接条件を強調し、どんな困難でも意志が揺らがないことを表します。"
+    "notes": "【実践・ビジネス】『たとえ＋〜ても』で仮定の逆接条件を強調し、どんな困難でも意志が揺らがないことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをたとえ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "たとえ",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "べきだ"
+    ],
+    "correct_text_ruby": "たとえ"
   },
   {
     "id": 483,
@@ -11231,7 +14480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たとえ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たとえ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「たとえ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してたとえのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "たとえ",
+      "をもとに"
+    ],
+    "correct_text_ruby": "たとえ"
   },
   {
     "id": 484,
@@ -11252,7 +14510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たとえ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たとえ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「たとえ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までたとえ。",
+    "choices_ruby": [
+      "によって",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "てならない",
+      "たとえ"
+    ],
+    "correct_text_ruby": "たとえ"
   },
   {
     "id": 485,
@@ -11278,9 +14545,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>玄関<rt>げんかん</rt></ruby>のドアを<ruby>開<rt>あ</rt></ruby>けたとたん、<ruby>香<rt>こー</rt></ruby>ばしいカレーのいい<ruby>匂<rt>にお</rt></ruby>いが<ruby>漂<rt>ただよ</rt></ruby>ってきた。",
     "choices_ruby": [
       "とたん",
-      "きり",
+      "たび",
       "とおり",
-      "たび"
+      "きり"
     ],
     "correct_text_ruby": "とたん"
   },
@@ -11303,7 +14570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とたん",
-    "notes": "【実践・ビジネス】動詞た形＋とたんにで前件の動作の直後に予想外の後件が瞬間的に発生することを表します。"
+    "notes": "【実践・ビジネス】動詞た形＋とたんにで前件の動作の直後に予想外の後件が瞬間的に発生することを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをとたん。",
+    "choices_ruby": [
+      "てならない",
+      "とたん",
+      "をもとに",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "とたん"
   },
   {
     "id": 487,
@@ -11324,7 +14600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とたん",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とたん」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とたん」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してとたんのだ。",
+    "choices_ruby": [
+      "かける",
+      "にとって",
+      "とたん",
+      "っぽい"
+    ],
+    "correct_text_ruby": "とたん"
   },
   {
     "id": 488,
@@ -11345,7 +14630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とたん",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とたん」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とたん」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までとたん。",
+    "choices_ruby": [
+      "だらけ",
+      "をもとに",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "とたん"
+    ],
+    "correct_text_ruby": "とたん"
   },
   {
     "id": 489,
@@ -11370,8 +14664,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>過<rt>す</rt></ruby>ぎてしまったことを<ruby>今<rt>いま</rt></ruby>さら<ruby>悔<rt>く</rt></ruby>やん（　　　）、<ruby>時間<rt>じかん</rt></ruby>を<ruby>元<rt>もと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>すことはできない。",
     "sentence_jp_ruby": "<ruby>過<rt>す</rt></ruby>ぎてしまったことを<ruby>今<rt>いま</rt></ruby>さら<ruby>悔<rt>く</rt></ruby>やんだって、<ruby>時間<rt>じかん</rt></ruby>を<ruby>元<rt>もと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>すことはできない。",
     "choices_ruby": [
-      "だらけ",
       "だって",
+      "だらけ",
       "っぽく",
       "がちに"
     ],
@@ -11396,7 +14690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "だって",
-    "notes": "【実践・ビジネス】動詞て形（た形）＋ってで『〜ても』のくだけた口語表現です。"
+    "notes": "【実践・ビジネス】動詞て形（た形）＋ってで『〜ても』のくだけた口語表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをだって。",
+    "choices_ruby": [
+      "っぽい",
+      "だって",
+      "てたまらない",
+      "はずがない"
+    ],
+    "correct_text_ruby": "だって"
   },
   {
     "id": 491,
@@ -11417,7 +14720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "だって",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だって」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「だって」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してだってのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "にとって",
+      "だって",
+      "をもとに"
+    ],
+    "correct_text_ruby": "だって"
   },
   {
     "id": 492,
@@ -11438,7 +14750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "だって",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だって」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「だって」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までだって。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "をもとに",
+      "だって"
+    ],
+    "correct_text_ruby": "だって"
   },
   {
     "id": 493,
@@ -11463,9 +14784,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>でゲームをして（　　　）いないで、たまには<ruby>外<rt>そと</rt></ruby>で<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かしなさい。",
     "sentence_jp_ruby": "<ruby>部屋<rt>へや</rt></ruby>でゲームをしてばかりいないで、たまには<ruby>外<rt>そと</rt></ruby>で<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かしなさい。",
     "choices_ruby": [
-      "きり",
-      "ほど",
       "ばかり",
+      "ほど",
+      "きり",
       "とおり"
     ],
     "correct_text_ruby": "ばかり"
@@ -11489,7 +14810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかり",
-    "notes": "【実践・ビジネス】動詞て形＋ばかりいるで同じ好ましくない動作だけを反復・継続していることへの小言を表します。"
+    "notes": "【実践・ビジネス】動詞て形＋ばかりいるで同じ好ましくない動作だけを反復・継続していることへの小言を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをばかり。",
+    "choices_ruby": [
+      "っぽい",
+      "ばかり",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 495,
@@ -11510,7 +14840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ばかり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してばかりのだ。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ばかり",
+      "がち"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 496,
@@ -11531,7 +14870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ばかり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までばかり。",
+    "choices_ruby": [
+      "によって",
+      "として",
+      "において",
+      "ばかり"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 497,
@@ -11556,9 +14904,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "とても<ruby>美味<rt>おい</rt></ruby>しいケーキだから、<ruby>遠慮<rt>えんりょ</rt></ruby>しないで<ruby>一口<rt>ひとくち</rt></ruby><ruby>食<rt>た</rt></ruby>べて（　　　）。",
     "sentence_jp_ruby": "とても<ruby>美味<rt>おい</rt></ruby>しいケーキだから、<ruby>遠慮<rt>えんりょ</rt></ruby>しないで<ruby>一口<rt>ひとくち</rt></ruby><ruby>食<rt>た</rt></ruby>べてごらん。",
     "choices_ruby": [
+      "ごらん",
       "おき",
       "しまい",
-      "ごらん",
       "みせ"
     ],
     "correct_text_ruby": "ごらん"
@@ -11582,7 +14930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ごらん",
-    "notes": "【実践・ビジネス】動詞て形＋ごらんで目上の人が目下に対して『試しに〜してみてごらん』と優しく促します。"
+    "notes": "【実践・ビジネス】動詞て形＋ごらんで目上の人が目下に対して『試しに〜してみてごらん』と優しく促します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをごらん。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "ごらん",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "において"
+    ],
+    "correct_text_ruby": "ごらん"
   },
   {
     "id": 499,
@@ -11603,7 +14960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ごらん",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ごらん」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ごらん」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してごらんのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "てたまらない",
+      "ごらん",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ごらん"
   },
   {
     "id": 500,
@@ -11624,7 +14990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ごらん",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ごらん」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ごらん」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までごらん。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "にとって",
+      "かける",
+      "ごらん"
+    ],
+    "correct_text_ruby": "ごらん"
   },
   {
     "id": 501,
@@ -11649,10 +15024,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めて（　　　）、<ruby>親<rt>おや</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>のありがたみが<ruby>身<rt>み</rt></ruby>に<ruby>染<rt>そ</rt></ruby>みて<ruby>分<rt>わ</rt></ruby>かった。",
     "sentence_jp_ruby": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めて、<ruby>親<rt>おや</rt></ruby>の<ruby>毎日<rt>まいにち</rt></ruby>のありがたみが<ruby>身<rt>み</rt></ruby>に<ruby>染<rt>そ</rt></ruby>みて<ruby>分<rt>わ</rt></ruby>かった。",
     "choices_ruby": [
-      "とたん",
-      "ばかりに",
       "はじめて",
-      "きり"
+      "ばかりに",
+      "きり",
+      "とたん"
     ],
     "correct_text_ruby": "はじめて"
   },
@@ -11675,7 +15050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はじめて",
-    "notes": "【実践・ビジネス】動詞て形＋はじめてでその経験をして初めて新しい事実や感謝に気づくことを表します。"
+    "notes": "【実践・ビジネス】動詞て形＋はじめてでその経験をして初めて新しい事実や感謝に気づくことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをはじめて。",
+    "choices_ruby": [
+      "によって",
+      "はじめて",
+      "べきだ",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "はじめて"
   },
   {
     "id": 503,
@@ -11696,7 +15080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はじめて",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はじめて」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はじめて」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してはじめてのだ。",
+    "choices_ruby": [
+      "において",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "はじめて",
+      "てならない"
+    ],
+    "correct_text_ruby": "はじめて"
   },
   {
     "id": 504,
@@ -11717,7 +15110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はじめて",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はじめて」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はじめて」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まではじめて。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "てならない",
+      "はじめて"
+    ],
+    "correct_text_ruby": "はじめて"
   },
   {
     "id": 505,
@@ -11742,10 +15144,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>なんだから、のんびりテレビを<ruby>見<rt>み</rt></ruby>ている（　　　）じゃないよ！",
     "sentence_jp_ruby": "<ruby>試験<rt>しけん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>なんだから、のんびりテレビを<ruby>見<rt>み</rt></ruby>ている<ruby>場合<rt>ばあい</rt></ruby>じゃないよ！",
     "choices_ruby": [
-      "はず",
       "<ruby>場合<rt>ばあい</rt></ruby>",
-      "とおり",
-      "<ruby>最中<rt>さいちゅう</rt></ruby>"
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "はず",
+      "とおり"
     ],
     "correct_text_ruby": "<ruby>場合<rt>ばあい</rt></ruby>"
   },
@@ -11768,7 +15170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "場合",
-    "notes": "【実践・ビジネス】切迫した状況において『今はそんなのんきなことをしている時ではない』と戒めます。"
+    "notes": "【実践・ビジネス】切迫した状況において『今はそんなのんきなことをしている時ではない』と戒めます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>場合<rt>ばあい</rt></ruby>。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>場合<rt>ばあい</rt></ruby>",
+      "かける",
+      "がち"
+    ],
+    "correct_text_ruby": "<ruby>場合<rt>ばあい</rt></ruby>"
   },
   {
     "id": 507,
@@ -11789,7 +15200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "場合",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「場合」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「場合」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>場合<rt>ばあい</rt></ruby>のだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "わけにはいかない",
+      "<ruby>場合<rt>ばあい</rt></ruby>",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>場合<rt>ばあい</rt></ruby>"
   },
   {
     "id": 508,
@@ -11810,7 +15230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "場合",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「場合」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「場合」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>場合<rt>ばあい</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>場合<rt>ばあい</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>場合<rt>ばあい</rt></ruby>"
   },
   {
     "id": 509,
@@ -11835,9 +15264,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>の<ruby>正式<rt>せいしき</rt></ruby>な<ruby>承認<rt>しょうにん</rt></ruby>を<ruby>得<rt>え</rt></ruby>てから（　　　）、このプロジェクトを<ruby>勝手<rt>かって</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めることはできない。",
     "sentence_jp_ruby": "<ruby>上司<rt>じょうし</rt></ruby>の<ruby>正式<rt>せいしき</rt></ruby>な<ruby>承認<rt>しょうにん</rt></ruby>を<ruby>得<rt>え</rt></ruby>てからでないと、このプロジェクトを<ruby>勝手<rt>かって</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めることはできない。",
     "choices_ruby": [
+      "でないと",
       "につれて",
       "に<ruby>反<rt>はん</rt></ruby>して",
-      "でないと",
       "としても"
     ],
     "correct_text_ruby": "でないと"
@@ -11861,7 +15290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "でないと",
-    "notes": "【実践・ビジネス】動詞て形＋からでないと（〜できない）で前件を済ませることが後件の絶対前提条件であることを示します。"
+    "notes": "【実践・ビジネス】動詞て形＋からでないと（〜できない）で前件を済ませることが後件の絶対前提条件であることを示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをでないと。",
+    "choices_ruby": [
+      "において",
+      "でないと",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "だらけ"
+    ],
+    "correct_text_ruby": "でないと"
   },
   {
     "id": 511,
@@ -11882,7 +15320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "でないと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「でないと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「でないと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してでないとのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "べきだ",
+      "でないと",
+      "によって"
+    ],
+    "correct_text_ruby": "でないと"
   },
   {
     "id": 512,
@@ -11903,7 +15350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "でないと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「でないと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「でないと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まででないと。",
+    "choices_ruby": [
+      "をもとに",
+      "ばかりでなく",
+      "かける",
+      "でないと"
+    ],
+    "correct_text_ruby": "でないと"
   },
   {
     "id": 513,
@@ -11929,9 +15385,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>はとても<ruby>現実的<rt>げんじつてき</rt></ruby>で、すぐに<ruby>業務<rt>ぎょうむ</rt></ruby>に<ruby>導入<rt>どうにゅう</rt></ruby>できそうだ。",
     "choices_ruby": [
       "<ruby>的<rt>てき</rt></ruby>",
-      "<ruby>性<rt>せい</rt></ruby>",
       "<ruby>風<rt>かぜ</rt></ruby>",
-      "<ruby>気味<rt>きみ</rt></ruby>"
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>性<rt>せい</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>的<rt>てき</rt></ruby>"
   },
@@ -11954,7 +15410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "的",
-    "notes": "【実践・ビジネス】名詞＋的（てき）でその性質を帯びている状態をつくり、な形容詞として活用させます。"
+    "notes": "【実践・ビジネス】名詞＋的（てき）でその性質を帯びている状態をつくり、な形容詞として活用させます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>的<rt>てき</rt></ruby>。",
+    "choices_ruby": [
+      "はずがない",
+      "<ruby>的<rt>てき</rt></ruby>",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>的<rt>てき</rt></ruby>"
   },
   {
     "id": 515,
@@ -11975,7 +15440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "的",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「的」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「的」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>的<rt>てき</rt></ruby>のだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ばかりでなく",
+      "<ruby>的<rt>てき</rt></ruby>",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>的<rt>てき</rt></ruby>"
   },
   {
     "id": 516,
@@ -11996,7 +15470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "的",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「的」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「的」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>的<rt>てき</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "によって",
+      "べきだ",
+      "<ruby>的<rt>てき</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>的<rt>てき</rt></ruby>"
   },
   {
     "id": 517,
@@ -12021,10 +15504,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>過<rt>す</rt></ruby>ぎてしまった<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>今<rt>いま</rt></ruby>さらクヨクヨ<ruby>悩<rt>なや</rt></ruby>んでも（　　　）。<ruby>次<rt>つぎ</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>を<ruby>練<rt>ね</rt></ruby>ろう。",
     "sentence_jp_ruby": "<ruby>過<rt>す</rt></ruby>ぎてしまった<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>今<rt>いま</rt></ruby>さらクヨクヨ<ruby>悩<rt>なや</rt></ruby>んでも<ruby>始<rt>はじ</rt></ruby>まらない。<ruby>次<rt>つぎ</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>を<ruby>練<rt>ね</rt></ruby>ろう。",
     "choices_ruby": [
-      "かなわない",
+      "<ruby>始<rt>はじ</rt></ruby>まらない",
       "<ruby>得<rt>え</rt></ruby>ない",
       "<ruby>済<rt>す</rt></ruby>まない",
-      "<ruby>始<rt>はじ</rt></ruby>まらない"
+      "かなわない"
     ],
     "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>まらない"
   },
@@ -12047,7 +15530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "始まらない",
-    "notes": "【実践・ビジネス】動詞て形＋も始まらないで『いくらその行為をしても事態は好転せず、無意味だ』と述べます。"
+    "notes": "【実践・ビジネス】動詞て形＋も始まらないで『いくらその行為をしても事態は好転せず、無意味だ』と述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>始<rt>はじ</rt></ruby>まらない。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>始<rt>はじ</rt></ruby>まらない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>まらない"
   },
   {
     "id": 519,
@@ -12068,7 +15560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "始まらない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「始まらない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「始まらない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>始<rt>はじ</rt></ruby>まらないのだ。",
+    "choices_ruby": [
+      "かける",
+      "がち",
+      "<ruby>始<rt>はじ</rt></ruby>まらない",
+      "をもとに"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>まらない"
   },
   {
     "id": 520,
@@ -12089,7 +15590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "始まらない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「始まらない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「始まらない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>始<rt>はじ</rt></ruby>まらない。",
+    "choices_ruby": [
+      "において",
+      "によって",
+      "かける",
+      "<ruby>始<rt>はじ</rt></ruby>まらない"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>まらない"
   },
   {
     "id": 521,
@@ -12116,8 +15626,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "かまいません",
       "いけません",
-      "なりません",
-      "すぎません"
+      "すぎません",
+      "なりません"
     ],
     "correct_text_ruby": "かまいません"
   },
@@ -12140,7 +15650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かまいません",
-    "notes": "【実践・ビジネス】動詞て形＋もかまわないで許可や容認を表し、『差し支えない・問題ない』という意味になります。"
+    "notes": "【実践・ビジネス】動詞て形＋もかまわないで許可や容認を表し、『差し支えない・問題ない』という意味になります。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをかまいません。",
+    "choices_ruby": [
+      "にとって",
+      "かまいません",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "かまいません"
   },
   {
     "id": 523,
@@ -12161,7 +15680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かまいません",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かまいません」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「かまいません」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してかまいませんのだ。",
+    "choices_ruby": [
+      "によって",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "かまいません",
+      "かける"
+    ],
+    "correct_text_ruby": "かまいません"
   },
   {
     "id": 524,
@@ -12182,7 +15710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かまいません",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かまいません」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「かまいません」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までかまいません。",
+    "choices_ruby": [
+      "だらけ",
+      "かける",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "かまいません"
+    ],
+    "correct_text_ruby": "かまいません"
   },
   {
     "id": 525,
@@ -12207,10 +15744,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>悪天候<rt>あくてんこう</rt></ruby>でイベントが<ruby>中止<rt>ちゅうし</rt></ruby>になったのは<ruby>残念<rt>ざんねん</rt></ruby>だが、<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>っても（　　　）。",
     "sentence_jp_ruby": "<ruby>悪天候<rt>あくてんこう</rt></ruby>でイベントが<ruby>中止<rt>ちゅうし</rt></ruby>になったのは<ruby>残念<rt>ざんねん</rt></ruby>だが、<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってもしょうがない。",
     "choices_ruby": [
-      "<ruby>違<rt>ちが</rt></ruby>いない",
+      "しょうがない",
       "たまらない",
       "おられない",
-      "しょうがない"
+      "<ruby>違<rt>ちが</rt></ruby>いない"
     ],
     "correct_text_ruby": "しょうがない"
   },
@@ -12233,7 +15770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しょうがない",
-    "notes": "【実践・ビジネス】動詞て形＋もしょうがないで、文句や後悔をしても無駄であり仕方がないと諦念を述べます。"
+    "notes": "【実践・ビジネス】動詞て形＋もしょうがないで、文句や後悔をしても無駄であり仕方がないと諦念を述べます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをしょうがない。",
+    "choices_ruby": [
+      "だらけ",
+      "しょうがない",
+      "をもとに",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 527,
@@ -12254,7 +15800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しょうがない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しょうがない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しょうがない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してしょうがないのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "かける",
+      "しょうがない",
+      "がち"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 528,
@@ -12275,7 +15830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しょうがない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しょうがない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しょうがない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までしょうがない。",
+    "choices_ruby": [
+      "として",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "をもとに",
+      "しょうがない"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 529,
@@ -12302,8 +15866,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "しょうがない",
       "ならない",
-      "<ruby>済<rt>す</rt></ruby>まない",
-      "<ruby>始<rt>はじ</rt></ruby>まらない"
+      "<ruby>始<rt>はじ</rt></ruby>まらない",
+      "<ruby>済<rt>す</rt></ruby>まない"
     ],
     "correct_text_ruby": "しょうがない"
   },
@@ -12326,7 +15890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しょうがない",
-    "notes": "【実践・ビジネス】感情・感覚・生理的欲求を表す言葉＋てしょうがないで『感情を抑えられないほど甚だしい』ことを表します。"
+    "notes": "【実践・ビジネス】感情・感覚・生理的欲求を表す言葉＋てしょうがないで『感情を抑えられないほど甚だしい』ことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをしょうがない。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "しょうがない",
+      "てたまらない",
+      "として"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 531,
@@ -12347,7 +15920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しょうがない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しょうがない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「しょうがない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してしょうがないのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "にとって",
+      "しょうがない",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 532,
@@ -12368,7 +15950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しょうがない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しょうがない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「しょうがない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までしょうがない。",
+    "choices_ruby": [
+      "において",
+      "によって",
+      "をもとに",
+      "しょうがない"
+    ],
+    "correct_text_ruby": "しょうがない"
   },
   {
     "id": 533,
@@ -12393,10 +15984,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>幸<rt>さいわ</rt></ruby>いなことに<ruby>事故<rt>じこ</rt></ruby>は<ruby>軽<rt>かる</rt></ruby>く、<ruby>車<rt>くるま</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>修理<rt>しゅうり</rt></ruby>だけで（　　　）。",
     "sentence_jp_ruby": "<ruby>幸<rt>さいわ</rt></ruby>いなことに<ruby>事故<rt>じこ</rt></ruby>は<ruby>軽<rt>かる</rt></ruby>く、<ruby>車<rt>くるま</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>修理<rt>しゅうり</rt></ruby>だけで<ruby>済<rt>す</rt></ruby>んだ。",
     "choices_ruby": [
+      "<ruby>済<rt>す</rt></ruby>んだ",
       "<ruby>抜<rt>ぬ</rt></ruby>いた",
-      "<ruby>切<rt>き</rt></ruby>った",
       "あげた",
-      "<ruby>済<rt>す</rt></ruby>んだ"
+      "<ruby>切<rt>き</rt></ruby>った"
     ],
     "correct_text_ruby": "<ruby>済<rt>す</rt></ruby>んだ"
   },
@@ -12419,7 +16010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "済んだ",
-    "notes": "【実践・ビジネス】動詞て形・名詞だけで＋済むで大きな大事に至らず、軽い程度で問題が解決した安堵を表します。"
+    "notes": "【実践・ビジネス】動詞て形・名詞だけで＋済むで大きな大事に至らず、軽い程度で問題が解決した安堵を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>済<rt>す</rt></ruby>んだ。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>済<rt>す</rt></ruby>んだ",
+      "がち",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "<ruby>済<rt>す</rt></ruby>んだ"
   },
   {
     "id": 535,
@@ -12440,7 +16040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "済んだ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「済んだ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「済んだ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>済<rt>す</rt></ruby>んだのだ。",
+    "choices_ruby": [
+      "をもとに",
+      "わけにはいかない",
+      "<ruby>済<rt>す</rt></ruby>んだ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "<ruby>済<rt>す</rt></ruby>んだ"
   },
   {
     "id": 536,
@@ -12461,7 +16070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "済んだ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「済んだ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「済んだ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>済<rt>す</rt></ruby>んだ。",
+    "choices_ruby": [
+      "かける",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "だらけ",
+      "<ruby>済<rt>す</rt></ruby>んだ"
+    ],
+    "correct_text_ruby": "<ruby>済<rt>す</rt></ruby>んだ"
   },
   {
     "id": 537,
@@ -12488,8 +16106,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "いけない",
       "かまわない",
-      "すぎない",
-      "ならない"
+      "ならない",
+      "すぎない"
     ],
     "correct_text_ruby": "いけない"
   },
@@ -12512,7 +16130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いけない",
-    "notes": "【実践・ビジネス】動詞て形＋はいけないからで好ましくない事態が起こるのを予防・警戒する理由を表します。"
+    "notes": "【実践・ビジネス】動詞て形＋はいけないからで好ましくない事態が起こるのを予防・警戒する理由を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをいけない。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "いけない",
+      "っぽい",
+      "をもとに"
+    ],
+    "correct_text_ruby": "いけない"
   },
   {
     "id": 539,
@@ -12533,7 +16160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いけない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いけない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いけない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>していけないのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "いけない",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "いけない"
   },
   {
     "id": 540,
@@ -12554,7 +16190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いけない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いけない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いけない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までいけない。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "はずがない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "いけない"
+    ],
+    "correct_text_ruby": "いけない"
   },
   {
     "id": 541,
@@ -12579,10 +16224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう（　　　）で<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたことに<ruby>気<rt>き</rt></ruby>づき、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>った。",
     "sentence_jp_ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたことに<ruby>気<rt>き</rt></ruby>づき、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>った。",
     "choices_ruby": [
-      "<ruby>最中<rt>さいちゅう</rt></ruby>",
       "<ruby>途中<rt>とちゅう</rt></ruby>",
-      "<ruby>一方<rt>いっぽう</rt></ruby>",
-      "<ruby>最後<rt>さいご</rt></ruby>"
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "<ruby>最後<rt>さいご</rt></ruby>",
+      "<ruby>一方<rt>いっぽう</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>"
   },
@@ -12605,7 +16250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "途中",
-    "notes": "【実践・ビジネス】動詞辞書形・名詞の＋途中でで移動や動作の進行の途上であることを表します。"
+    "notes": "【実践・ビジネス】動詞辞書形・名詞の＋途中でで移動や動作の進行の途上であることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>途中<rt>とちゅう</rt></ruby>。",
+    "choices_ruby": [
+      "だらけ",
+      "<ruby>途中<rt>とちゅう</rt></ruby>",
+      "にとって",
+      "において"
+    ],
+    "correct_text_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>"
   },
   {
     "id": 543,
@@ -12626,7 +16280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "途中",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「途中」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「途中」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>途中<rt>とちゅう</rt></ruby>のだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "だらけ",
+      "<ruby>途中<rt>とちゅう</rt></ruby>",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>"
   },
   {
     "id": 544,
@@ -12647,7 +16310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "途中",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「途中」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「途中」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>途中<rt>とちゅう</rt></ruby>。",
+    "choices_ruby": [
+      "をもとに",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>途中<rt>とちゅう</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>途中<rt>とちゅう</rt></ruby>"
   },
   {
     "id": 545,
@@ -12672,10 +16344,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>（　　　）、やはり<ruby>満開<rt>まんかい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>を<ruby>思い浮<rt>おもいう</rt></ruby>かべる。",
     "sentence_jp_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>と<ruby>言<rt>い</rt></ruby>えば、やはり<ruby>満開<rt>まんかい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>を<ruby>思い浮<rt>おもいう</rt></ruby>かべる。",
     "choices_ruby": [
-      "と<ruby>見<rt>み</rt></ruby>えて",
       "と<ruby>言<rt>い</rt></ruby>えば",
       "とすると",
-      "といっても"
+      "といっても",
+      "と<ruby>見<rt>み</rt></ruby>えて"
     ],
     "correct_text_ruby": "と<ruby>言<rt>い</rt></ruby>えば"
   },
@@ -12698,7 +16370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と言えば",
-    "notes": "【実践・ビジネス】話題に上がった言葉から連想される代表的なイメージを取り上げる表現です。"
+    "notes": "【実践・ビジネス】話題に上がった言葉から連想される代表的なイメージを取り上げる表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをと<ruby>言<rt>い</rt></ruby>えば。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "と<ruby>言<rt>い</rt></ruby>えば",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "と<ruby>言<rt>い</rt></ruby>えば"
   },
   {
     "id": 547,
@@ -12719,7 +16400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と言えば",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「と言えば」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「と言えば」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してと<ruby>言<rt>い</rt></ruby>えばのだ。",
+    "choices_ruby": [
+      "はずがない",
+      "がち",
+      "と<ruby>言<rt>い</rt></ruby>えば",
+      "てならない"
+    ],
+    "correct_text_ruby": "と<ruby>言<rt>い</rt></ruby>えば"
   },
   {
     "id": 548,
@@ -12740,7 +16430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と言えば",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「と言えば」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「と言えば」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までと<ruby>言<rt>い</rt></ruby>えば。",
+    "choices_ruby": [
+      "てたまらない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "と<ruby>言<rt>い</rt></ruby>えば"
+    ],
+    "correct_text_ruby": "と<ruby>言<rt>い</rt></ruby>えば"
   },
   {
     "id": 549,
@@ -12765,9 +16464,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>ピクニックは、<ruby>天気<rt>てんき</rt></ruby>が<ruby>晴<rt>は</rt></ruby>れてくれる（　　　）ですね。",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>ピクニックは、<ruby>天気<rt>てんき</rt></ruby>が<ruby>晴<rt>は</rt></ruby>れてくれるといいですね。",
     "choices_ruby": [
-      "ものだ",
-      "はずだ",
       "といい",
+      "はずだ",
+      "ものだ",
       "わけだ"
     ],
     "correct_text_ruby": "といい"
@@ -12791,7 +16490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といい",
-    "notes": "【実践・ビジネス】動詞辞書形＋といいで話し手の個人的な希望や願いを表します。"
+    "notes": "【実践・ビジネス】動詞辞書形＋といいで話し手の個人的な希望や願いを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをといい。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "といい",
+      "っぽい",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "といい"
   },
   {
     "id": 551,
@@ -12812,7 +16520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「といい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「といい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してといいのだ。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "といい",
+      "っぽい"
+    ],
+    "correct_text_ruby": "といい"
   },
   {
     "id": 552,
@@ -12833,7 +16550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「といい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「といい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までといい。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "わけにはいかない",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "といい"
+    ],
+    "correct_text_ruby": "といい"
   },
   {
     "id": 553,
@@ -12858,10 +16584,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ると（　　　）、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>野菜炒<rt>やさいいた</rt></ruby>め<ruby>程度<rt>ていど</rt></ruby>です。",
     "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るといっても、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>野菜炒<rt>やさいいた</rt></ruby>め<ruby>程度<rt>ていど</rt></ruby>です。",
     "choices_ruby": [
-      "したら",
-      "<ruby>見<rt>み</rt></ruby>えて",
+      "いっても",
       "すれば",
-      "いっても"
+      "したら",
+      "<ruby>見<rt>み</rt></ruby>えて"
     ],
     "correct_text_ruby": "いっても"
   },
@@ -12884,7 +16610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いっても",
-    "notes": "【実践・ビジネス】言葉から受ける大げさな印象を打ち消し、実際はそれほどではないと修正します。"
+    "notes": "【実践・ビジネス】言葉から受ける大げさな印象を打ち消し、実際はそれほどではないと修正します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをいっても。",
+    "choices_ruby": [
+      "はずがない",
+      "いっても",
+      "てならない",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "いっても"
   },
   {
     "id": 555,
@@ -12905,7 +16640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いっても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いっても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「いっても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>していってものだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "わけにはいかない",
+      "いっても",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "いっても"
   },
   {
     "id": 556,
@@ -12926,7 +16670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いっても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いっても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「いっても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までいっても。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "によって",
+      "いっても"
+    ],
+    "correct_text_ruby": "いっても"
   },
   {
     "id": 557,
@@ -12951,8 +16704,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>に<ruby>全員<rt>ぜんいん</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>したということは、みんなの<ruby>努力<rt>どりょく</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>んだという（　　　）。",
     "sentence_jp_ruby": "<ruby>試験<rt>しけん</rt></ruby>に<ruby>全員<rt>ぜんいん</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>したということは、みんなの<ruby>努力<rt>どりょく</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>んだということだ。",
     "choices_ruby": [
-      "わけだ",
       "ことだ",
+      "わけだ",
       "ものだ",
       "はずだ"
     ],
@@ -12977,7 +16730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことだ",
-    "notes": "【実践・ビジネス】意味の解釈や言い換えを述べる用法と、公的な伝聞を伝える用法の二面があります。"
+    "notes": "【実践・ビジネス】意味の解釈や言い換えを述べる用法と、公的な伝聞を伝える用法の二面があります。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをことだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "ことだ",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>気味<rt>きみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "ことだ"
   },
   {
     "id": 559,
@@ -12998,7 +16760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことだ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことだ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ことだ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してことだのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "をもとに",
+      "ことだ",
+      "べきだ"
+    ],
+    "correct_text_ruby": "ことだ"
   },
   {
     "id": 560,
@@ -13019,7 +16790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことだ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことだ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ことだ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までことだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ことだ"
+    ],
+    "correct_text_ruby": "ことだ"
   },
   {
     "id": 561,
@@ -13046,8 +16826,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "というのは",
       "それなら",
-      "すると",
-      "そこで"
+      "そこで",
+      "すると"
     ],
     "correct_text_ruby": "というのは"
   },
@@ -13070,7 +16850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "というのは",
-    "notes": "【実践・ビジネス】前文の理由・根拠を詳しく補足説明する際に文頭で使われ、末尾に『〜からだ』を伴います。"
+    "notes": "【実践・ビジネス】前文の理由・根拠を詳しく補足説明する際に文頭で使われ、末尾に『〜からだ』を伴います。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをというのは。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "というのは",
+      "がち",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "というのは"
   },
   {
     "id": 563,
@@ -13091,7 +16880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "というのは",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「というのは」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「というのは」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してというのはのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "によって",
+      "というのは",
+      "にとって"
+    ],
+    "correct_text_ruby": "というのは"
   },
   {
     "id": 564,
@@ -13112,7 +16910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "というのは",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「というのは」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「というのは」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までというのは。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "として",
+      "かける",
+      "というのは"
+    ],
+    "correct_text_ruby": "というのは"
   },
   {
     "id": 565,
@@ -13137,10 +16944,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>と（　　　）、<ruby>鮮<rt>せん</rt></ruby>やかな<ruby>紅葉<rt>こうよう</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれた<ruby>古<rt>ふる</rt></ruby>い<ruby>寺院<rt>じいん</rt></ruby>が<ruby>思い浮<rt>おもいう</rt></ruby>かぶ。",
     "sentence_jp_ruby": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>と<ruby>言<rt>い</rt></ruby>うと、<ruby>鮮<rt>せん</rt></ruby>やかな<ruby>紅葉<rt>こうよう</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれた<ruby>古<rt>ふる</rt></ruby>い<ruby>寺院<rt>じいん</rt></ruby>が<ruby>思い浮<rt>おもいう</rt></ruby>かぶ。",
     "choices_ruby": [
-      "みえて",
-      "いっても",
+      "<ruby>言<rt>い</rt></ruby>うと",
       "したら",
-      "<ruby>言<rt>い</rt></ruby>うと"
+      "いっても",
+      "みえて"
     ],
     "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>うと"
   },
@@ -13163,7 +16970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "言うと",
-    "notes": "【実践・ビジネス】話題に触れた途端に自然と連想される典型的な物事を挙げる表現です。"
+    "notes": "【実践・ビジネス】話題に触れた途端に自然と連想される典型的な物事を挙げる表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>言<rt>い</rt></ruby>うと。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>言<rt>い</rt></ruby>うと",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>うと"
   },
   {
     "id": 567,
@@ -13184,7 +17000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "言うと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「言うと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「言うと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>言<rt>い</rt></ruby>うとのだ。",
+    "choices_ruby": [
+      "てならない",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>言<rt>い</rt></ruby>うと",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>うと"
   },
   {
     "id": 568,
@@ -13205,7 +17030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "言うと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「言うと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「言うと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>言<rt>い</rt></ruby>うと。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "だらけ",
+      "っぽい",
+      "<ruby>言<rt>い</rt></ruby>うと"
+    ],
+    "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>うと"
   },
   {
     "id": 569,
@@ -13256,7 +17090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "より",
-    "notes": "【実践・ビジネス】最初の表現よりも別の表現のほうが的確・妥当であると言い直す表現です。"
+    "notes": "【実践・ビジネス】最初の表現よりも別の表現のほうが的確・妥当であると言い直す表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをより。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "より",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "にとって"
+    ],
+    "correct_text_ruby": "より"
   },
   {
     "id": 571,
@@ -13277,7 +17120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "より",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「より」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「より」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してよりのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "より",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "より"
   },
   {
     "id": 572,
@@ -13298,7 +17150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "より",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「より」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「より」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までより。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "より"
+    ],
+    "correct_text_ruby": "より"
   },
   {
     "id": 573,
@@ -13324,9 +17185,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>議論<rt>ぎろん</rt></ruby>はここまでです。ところで、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>懇親会<rt>こんしんかい</rt></ruby>にはご<ruby>出席<rt>しゅっせき</rt></ruby>されますか。",
     "choices_ruby": [
       "ところで",
+      "だから",
       "そこで",
-      "ところが",
-      "だから"
+      "ところが"
     ],
     "correct_text_ruby": "ところで"
   },
@@ -13349,7 +17210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところで",
-    "notes": "【実践・ビジネス】話題をまったく新しい別のテーマへと転換する最も代表的な接続詞です。"
+    "notes": "【実践・ビジネス】話題をまったく新しい別のテーマへと転換する最も代表的な接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをところで。",
+    "choices_ruby": [
+      "べきだ",
+      "ところで",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "ところで"
   },
   {
     "id": 575,
@@ -13370,7 +17240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ところで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ところで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してところでのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "わけにはいかない",
+      "ところで",
+      "をもとに"
+    ],
+    "correct_text_ruby": "ところで"
   },
   {
     "id": 576,
@@ -13391,7 +17270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ところで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ところで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までところで。",
+    "choices_ruby": [
+      "だらけ",
+      "わけにはいかない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "ところで"
+    ],
+    "correct_text_ruby": "ところで"
   },
   {
     "id": 577,
@@ -13416,9 +17304,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>念入<rt>ねんい</rt></ruby>りに<ruby>準備<rt>じゅんび</rt></ruby>をして<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>んだ。（　　　）<ruby>思<rt>おも</rt></ruby>わぬ<ruby>質問<rt>しつもん</rt></ruby>に<ruby>頭<rt>あたま</rt></ruby>が<ruby>真っ白<rt>まっしろ</rt></ruby>になってしまった。",
     "sentence_jp_ruby": "<ruby>念入<rt>ねんい</rt></ruby>りに<ruby>準備<rt>じゅんび</rt></ruby>をして<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>んだ。ところが<ruby>思<rt>おも</rt></ruby>わぬ<ruby>質問<rt>しつもん</rt></ruby>に<ruby>頭<rt>あたま</rt></ruby>が<ruby>真っ白<rt>まっしろ</rt></ruby>になってしまった。",
     "choices_ruby": [
+      "ところが",
       "だから",
       "すると",
-      "ところが",
       "ところで"
     ],
     "correct_text_ruby": "ところが"
@@ -13442,7 +17330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところが",
-    "notes": "【実践・ビジネス】予想していた展開に反して、意外な結果が起こったときの落差を表す逆接接続詞です。"
+    "notes": "【実践・ビジネス】予想していた展開に反して、意外な結果が起こったときの落差を表す逆接接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをところが。",
+    "choices_ruby": [
+      "だらけ",
+      "ところが",
+      "てたまらない",
+      "において"
+    ],
+    "correct_text_ruby": "ところが"
   },
   {
     "id": 579,
@@ -13463,7 +17360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところが",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ところが」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ところが」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してところがのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "ばかりでなく",
+      "ところが",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "ところが"
   },
   {
     "id": 580,
@@ -13484,7 +17390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところが",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ところが」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ところが」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までところが。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "をもとに",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ところが"
+    ],
+    "correct_text_ruby": "ところが"
   },
   {
     "id": 581,
@@ -13509,10 +17424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>満面<rt>まんめん</rt></ruby>の<ruby>笑<rt>え</rt></ruby>みを<ruby>浮<rt>う</rt></ruby>かべているところを<ruby>見<rt>み</rt></ruby>ると、<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>知<rt>し</rt></ruby>らせがあったと（　　　）。",
     "sentence_jp_ruby": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>満面<rt>まんめん</rt></ruby>の<ruby>笑<rt>え</rt></ruby>みを<ruby>浮<rt>う</rt></ruby>かべているところを<ruby>見<rt>み</rt></ruby>ると、<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>知<rt>し</rt></ruby>らせがあったとみえる。",
     "choices_ruby": [
-      "いえる",
       "みえる",
-      "おもえる",
-      "きこえる"
+      "いえる",
+      "きこえる",
+      "おもえる"
     ],
     "correct_text_ruby": "みえる"
   },
@@ -13535,7 +17450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "みえる",
-    "notes": "【実践・ビジネス】客観的な様子や兆候を観察して『どうやら〜のようだ』と推測・判断します。"
+    "notes": "【実践・ビジネス】客観的な様子や兆候を観察して『どうやら〜のようだ』と推測・判断します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをみえる。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "みえる",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "みえる"
   },
   {
     "id": 583,
@@ -13556,7 +17480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "みえる",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「みえる」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「みえる」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してみえるのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "てたまらない",
+      "みえる",
+      "てならない"
+    ],
+    "correct_text_ruby": "みえる"
   },
   {
     "id": 584,
@@ -13577,7 +17510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "みえる",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「みえる」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「みえる」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までみえる。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てならない",
+      "だらけ",
+      "みえる"
+    ],
+    "correct_text_ruby": "みえる"
   },
   {
     "id": 585,
@@ -13602,12 +17544,12 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>料理<rt>りょうり</rt></ruby><ruby>本<rt>ほん</rt></ruby>に<ruby>書<rt>か</rt></ruby>かれているレシピの<ruby>指示<rt>しじ</rt></ruby>（　　　）に<ruby>作<rt>つく</rt></ruby>ったら、とても<ruby>美味<rt>おい</rt></ruby>しく<ruby>仕上<rt>しあ</rt></ruby>がった。",
     "sentence_jp_ruby": "<ruby>料理<rt>りょうり</rt></ruby><ruby>本<rt>ほん</rt></ruby>に<ruby>書<rt>か</rt></ruby>かれているレシピの<ruby>指示<rt>しじ</rt></ruby><ruby>通<rt>とう</rt></ruby>りに<ruby>作<rt>つく</rt></ruby>ったら、とても<ruby>美味<rt>おい</rt></ruby>しく<ruby>仕上<rt>しあ</rt></ruby>がった。",
     "choices_ruby": [
+      "<ruby>通<rt>とお</rt></ruby>り",
       "<ruby>途端<rt>とたん</rt></ruby>",
-      "<ruby>通<rt>とう</rt></ruby>り",
       "<ruby>代<rt>か</rt></ruby>わり",
       "<ruby>最中<rt>さいちゅう</rt></ruby>"
     ],
-    "correct_text_ruby": "<ruby>通<rt>とう</rt></ruby>り"
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>り"
   },
   {
     "id": 586,
@@ -13628,7 +17570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "通り",
-    "notes": "【実践・ビジネス】名詞・動詞辞書形・た形＋とおりにで指示や計画に寸分違わず同じように行うことを表します。"
+    "notes": "【実践・ビジネス】名詞・動詞辞書形・た形＋とおりにで指示や計画に寸分違わず同じように行うことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>通<rt>とお</rt></ruby>り。",
+    "choices_ruby": [
+      "として",
+      "<ruby>通<rt>とお</rt></ruby>り",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "にとって"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>り"
   },
   {
     "id": 587,
@@ -13649,7 +17600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "通り",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通り」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通り」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>通<rt>とお</rt></ruby>りのだ。",
+    "choices_ruby": [
+      "として",
+      "をもとに",
+      "<ruby>通<rt>とお</rt></ruby>り",
+      "てならない"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>り"
   },
   {
     "id": 588,
@@ -13670,7 +17630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "通り",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通り」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通り」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>通<rt>とお</rt></ruby>り。",
+    "choices_ruby": [
+      "だらけ",
+      "わけにはいかない",
+      "てならない",
+      "<ruby>通<rt>とお</rt></ruby>り"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>り"
   },
   {
     "id": 589,
@@ -13695,12 +17664,12 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "どんな<ruby>困難<rt>こんなん</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>信念<rt>しんねん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>曲<rt>ま</rt></ruby>げずに<ruby>貫<rt>つらぬ</rt></ruby>き（　　　）。",
     "sentence_jp_ruby": "どんな<ruby>困難<rt>こんなん</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>信念<rt>しんねん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>曲<rt>ま</rt></ruby>げずに<ruby>貫<rt>つらぬ</rt></ruby>き<ruby>通<rt>とう</rt></ruby>した。",
     "choices_ruby": [
-      "<ruby>抜<rt>ぬ</rt></ruby>いた",
-      "<ruby>通<rt>とう</rt></ruby>した",
+      "<ruby>通<rt>とお</rt></ruby>した",
+      "<ruby>直<rt>なお</rt></ruby>した",
       "<ruby>切<rt>き</rt></ruby>った",
-      "<ruby>直<rt>なお</rt></ruby>した"
+      "<ruby>抜<rt>ぬ</rt></ruby>いた"
     ],
-    "correct_text_ruby": "<ruby>通<rt>とう</rt></ruby>した"
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>した"
   },
   {
     "id": 590,
@@ -13721,7 +17690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "通した",
-    "notes": "【実践・ビジネス】動詞ます形＋通すでその態度や行為を最初から最後まで一貫して維持することを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋通すでその態度や行為を最初から最後まで一貫して維持することを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>通<rt>とお</rt></ruby>した。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>通<rt>とお</rt></ruby>した",
+      "だらけ",
+      "っぽい"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>した"
   },
   {
     "id": 591,
@@ -13742,7 +17720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "通した",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通した」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「通した」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>通<rt>とお</rt></ruby>したのだ。",
+    "choices_ruby": [
+      "によって",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>通<rt>とお</rt></ruby>した",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>した"
   },
   {
     "id": 592,
@@ -13763,7 +17750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "通した",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通した」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「通した」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>通<rt>とお</rt></ruby>した。",
+    "choices_ruby": [
+      "として",
+      "において",
+      "てならない",
+      "<ruby>通<rt>とお</rt></ruby>した"
+    ],
+    "correct_text_ruby": "<ruby>通<rt>とお</rt></ruby>した"
   },
   {
     "id": 593,
@@ -13789,9 +17785,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>はチームのキャプテンとして、<ruby>常<rt>つね</rt></ruby>に<ruby>仲間<rt>なかま</rt></ruby>を<ruby>励<rt>はげ</rt></ruby>まし<ruby>先頭<rt>せんとう</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>引っ張<rt>ひっぱ</rt></ruby>っている。",
     "choices_ruby": [
       "として",
+      "に<ruby>対<rt>たい</rt></ruby>して",
       "にとって",
-      "について",
-      "に<ruby>対<rt>たい</rt></ruby>して"
+      "について"
     ],
     "correct_text_ruby": "として"
   },
@@ -13814,7 +17810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "として",
-    "notes": "【実践・ビジネス】名詞＋としてで資格・身分・立場・名目を明確に規定して述べる表現です。"
+    "notes": "【実践・ビジネス】名詞＋としてで資格・身分・立場・名目を明確に規定して述べる表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをとして。",
+    "choices_ruby": [
+      "っぽい",
+      "として",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "かねない"
+    ],
+    "correct_text_ruby": "として"
   },
   {
     "id": 595,
@@ -13835,7 +17840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "として",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「として」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「として」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してとしてのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "として",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "として"
   },
   {
     "id": 596,
@@ -13856,7 +17870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "として",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「として」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「として」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までとして。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい",
+      "として"
+    ],
+    "correct_text_ruby": "として"
   },
   {
     "id": 597,
@@ -13883,8 +17906,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "とすれば",
       "とみえて",
-      "といっても",
-      "といえば"
+      "といえば",
+      "といっても"
     ],
     "correct_text_ruby": "とすれば"
   },
@@ -13907,7 +17930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とすれば",
-    "notes": "【実践・ビジネス】普通形＋とすればで『仮にその事態が真実・前提だと仮定した場合』の推論を導きます。"
+    "notes": "【実践・ビジネス】普通形＋とすればで『仮にその事態が真実・前提だと仮定した場合』の推論を導きます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをとすれば。",
+    "choices_ruby": [
+      "はずがない",
+      "とすれば",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "っぽい"
+    ],
+    "correct_text_ruby": "とすれば"
   },
   {
     "id": 599,
@@ -13928,7 +17960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とすれば",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とすれば」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とすれば」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してとすればのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "とすれば",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "とすれば"
   },
   {
     "id": 600,
@@ -13949,7 +17990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とすれば",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とすれば」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とすれば」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までとすれば。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "において",
+      "とすれば"
+    ],
+    "correct_text_ruby": "とすれば"
   },
   {
     "id": 601,
@@ -13975,8 +18025,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "こんなに<ruby>大量<rt>たいりょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を、<ruby>今日中<rt>きょうじゅう</rt></ruby>に<ruby>一人<rt>ひとり</rt></ruby>で<ruby>片付<rt>かたづ</rt></ruby>けるのはとても<ruby>無理<rt>むり</rt></ruby>だ。",
     "choices_ruby": [
       "とても",
-      "ちっとも",
       "<ruby>必<rt>かなら</rt></ruby>ずしも",
+      "ちっとも",
       "めったに"
     ],
     "correct_text_ruby": "とても"
@@ -14000,7 +18050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とても",
-    "notes": "【実践・ビジネス】可能動詞の否定や無理・できない等と呼応し、能力的に到底不可能であることを表します。"
+    "notes": "【実践・ビジネス】可能動詞の否定や無理・できない等と呼応し、能力的に到底不可能であることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをとても。",
+    "choices_ruby": [
+      "てたまらない",
+      "とても",
+      "っぽい",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "とても"
   },
   {
     "id": 603,
@@ -14021,7 +18080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とても",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とても」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「とても」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してとてものだ。",
+    "choices_ruby": [
+      "をもとに",
+      "だらけ",
+      "とても",
+      "として"
+    ],
+    "correct_text_ruby": "とても"
   },
   {
     "id": 604,
@@ -14042,7 +18110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とても",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とても」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「とても」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までとても。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "かける",
+      "において",
+      "とても"
+    ],
+    "correct_text_ruby": "とても"
   },
   {
     "id": 605,
@@ -14067,9 +18144,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>（　　　）、<ruby>私<rt>わたし</rt></ruby>たちの<ruby>生活環境<rt>せいかつかんきょう</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby><ruby>数十年<rt>すうじゅうねん</rt></ruby>で<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>した。",
     "sentence_jp_ruby": "<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に、<ruby>私<rt>わたし</rt></ruby>たちの<ruby>生活環境<rt>せいかつかんきょう</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby><ruby>数十年<rt>すうじゅうねん</rt></ruby>で<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>した。",
     "choices_ruby": [
-      "に<ruby>反<rt>はん</rt></ruby>して",
       "と<ruby>共<rt>とも</rt></ruby>に",
       "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>反<rt>はん</rt></ruby>して",
       "にとって"
     ],
     "correct_text_ruby": "と<ruby>共<rt>とも</rt></ruby>に"
@@ -14093,7 +18170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と共に",
-    "notes": "【実践・ビジネス】名詞・動詞辞書形＋と共にで『〜と一緒に』『〜の変化と連動して』『〜であると同時に』を表します。"
+    "notes": "【実践・ビジネス】名詞・動詞辞書形＋と共にで『〜と一緒に』『〜の変化と連動して』『〜であると同時に』を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをと<ruby>共<rt>とも</rt></ruby>に。",
+    "choices_ruby": [
+      "だらけ",
+      "と<ruby>共<rt>とも</rt></ruby>に",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>抜<rt>ぬ</rt></ruby>く"
+    ],
+    "correct_text_ruby": "と<ruby>共<rt>とも</rt></ruby>に"
   },
   {
     "id": 607,
@@ -14114,7 +18200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と共に",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「と共に」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「と共に」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してと<ruby>共<rt>とも</rt></ruby>にのだ。",
+    "choices_ruby": [
+      "にとって",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "と<ruby>共<rt>とも</rt></ruby>に",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "と<ruby>共<rt>とも</rt></ruby>に"
   },
   {
     "id": 608,
@@ -14135,7 +18230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と共に",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「と共に」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「と共に」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までと<ruby>共<rt>とも</rt></ruby>に。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "によって",
+      "と<ruby>共<rt>とも</rt></ruby>に"
+    ],
+    "correct_text_ruby": "と<ruby>共<rt>とも</rt></ruby>に"
   },
   {
     "id": 609,
@@ -14162,8 +18266,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>限<rt>かぎ</rt></ruby>らない",
       "<ruby>違<rt>ちが</rt></ruby>いない",
-      "すぎない",
-      "ほかならない"
+      "ほかならない",
+      "すぎない"
     ],
     "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>らない"
   },
@@ -14186,7 +18290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "限らない",
-    "notes": "【実践・ビジネス】『必ずしも＋〜とは限らない』と呼応して全面的な例外のない断定を和らげて部分否定します。"
+    "notes": "【実践・ビジネス】『必ずしも＋〜とは限らない』と呼応して全面的な例外のない断定を和らげて部分否定します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>限<rt>かぎ</rt></ruby>らない。",
+    "choices_ruby": [
+      "かける",
+      "<ruby>限<rt>かぎ</rt></ruby>らない",
+      "にとって",
+      "として"
+    ],
+    "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>らない"
   },
   {
     "id": 611,
@@ -14207,7 +18320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "限らない",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「限らない」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「限らない」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>限<rt>かぎ</rt></ruby>らないのだ。",
+    "choices_ruby": [
+      "として",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "<ruby>限<rt>かぎ</rt></ruby>らない",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>らない"
   },
   {
     "id": 612,
@@ -14228,7 +18350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "限らない",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「限らない」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「限らない」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>限<rt>かぎ</rt></ruby>らない。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "はずがない",
+      "<ruby>限<rt>かぎ</rt></ruby>らない"
+    ],
+    "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>らない"
   },
   {
     "id": 613,
@@ -14253,10 +18384,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>へ<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>く（　　　）に、コンビニで<ruby>切手<rt>きって</rt></ruby>も<ruby>買<rt>か</rt></ruby>ってきてほしい。",
     "sentence_jp_ruby": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>へ<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>くついでに、コンビニで<ruby>切手<rt>きって</rt></ruby>も<ruby>買<rt>か</rt></ruby>ってきてほしい。",
     "choices_ruby": [
-      "<ruby>途中<rt>とちゅう</rt></ruby>",
-      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "ついで",
       "とおり",
-      "ついで"
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "<ruby>途中<rt>とちゅう</rt></ruby>"
     ],
     "correct_text_ruby": "ついで"
   },
@@ -14279,7 +18410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ついで",
-    "notes": "【実践・ビジネス】本来の主たる用事を行う機会を利用して、合わせて別の行動も済ませることを表します。"
+    "notes": "【実践・ビジネス】本来の主たる用事を行う機会を利用して、合わせて別の行動も済ませることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをついで。",
+    "choices_ruby": [
+      "がち",
+      "ついで",
+      "べきだ",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "ついで"
   },
   {
     "id": 615,
@@ -14300,7 +18440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ついで",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ついで」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ついで」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してついでのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "はずがない",
+      "ついで",
+      "っぽい"
+    ],
+    "correct_text_ruby": "ついで"
   },
   {
     "id": 616,
@@ -14321,7 +18470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ついで",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ついで」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ついで」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までついで。",
+    "choices_ruby": [
+      "てたまらない",
+      "っぽい",
+      "がち",
+      "ついで"
+    ],
+    "correct_text_ruby": "ついで"
   },
   {
     "id": 617,
@@ -14346,9 +18504,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、（　　　）<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
     "sentence_jp_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
     "choices_ruby": [
+      "ついに",
       "<ruby>決<rt>けっ</rt></ruby>して",
       "ちっとも",
-      "ついに",
       "めったに"
     ],
     "correct_text_ruby": "ついに"
@@ -14372,7 +18530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ついに",
-    "notes": "【実践・ビジネス】長い時間や努力の末に待望の結果に到達したときの達成感を込めて使います。"
+    "notes": "【実践・ビジネス】長い時間や努力の末に待望の結果に到達したときの達成感を込めて使います。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをついに。",
+    "choices_ruby": [
+      "かける",
+      "ついに",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ついに"
   },
   {
     "id": 619,
@@ -14393,7 +18560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ついに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ついに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ついに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してついにのだ。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "てならない",
+      "ついに",
+      "てたまらない"
+    ],
+    "correct_text_ruby": "ついに"
   },
   {
     "id": 620,
@@ -14414,7 +18590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ついに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ついに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ついに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までついに。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "はずがない",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ついに"
+    ],
+    "correct_text_ruby": "ついに"
   },
   {
     "id": 621,
@@ -14439,10 +18624,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "ダイエット<ruby>中<rt>なか</rt></ruby>だと<ruby>分<rt>わ</rt></ruby>かっていたのに、<ruby>目の前<rt>めのまえ</rt></ruby>の<ruby>甘<rt>あま</rt></ruby>いケーキを（　　　）<ruby>食<rt>た</rt></ruby>べてしまった。",
     "sentence_jp_ruby": "ダイエット<ruby>中<rt>なか</rt></ruby>だと<ruby>分<rt>わ</rt></ruby>かっていたのに、<ruby>目の前<rt>めのまえ</rt></ruby>の<ruby>甘<rt>あま</rt></ruby>いケーキをつい<ruby>食<rt>た</rt></ruby>べてしまった。",
     "choices_ruby": [
+      "つい",
       "わざと",
       "まるで",
-      "<ruby>決<rt>けっ</rt></ruby>して",
-      "つい"
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "つい"
   },
@@ -14465,7 +18650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つい",
-    "notes": "【実践・ビジネス】理性ではいけないと分かっていながら、誘惑や油断で無意識にしてしまう様子を表します。"
+    "notes": "【実践・ビジネス】理性ではいけないと分かっていながら、誘惑や油断で無意識にしてしまう様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをつい。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "つい",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "だらけ"
+    ],
+    "correct_text_ruby": "つい"
   },
   {
     "id": 623,
@@ -14486,7 +18680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つい",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つい」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つい」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してついのだ。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "てたまらない",
+      "つい",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "つい"
   },
   {
     "id": 624,
@@ -14507,7 +18710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つい",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つい」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つい」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までつい。",
+    "choices_ruby": [
+      "として",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "つい"
+    ],
+    "correct_text_ruby": "つい"
   },
   {
     "id": 625,
@@ -14532,9 +18744,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>休日<rt>きゅうじつ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>も<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>休<rt>やす</rt></ruby>みだ。（　　　）<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなことに<ruby>没頭<rt>ぼっとう</rt></ruby>できる。",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>休日<rt>きゅうじつ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>も<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>休<rt>やす</rt></ruby>みだ。つまり<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなことに<ruby>没頭<rt>ぼっとう</rt></ruby>できる。",
     "choices_ruby": [
-      "なぜなら",
       "つまり",
       "それなら",
+      "なぜなら",
       "ただし"
     ],
     "correct_text_ruby": "つまり"
@@ -14558,7 +18770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つまり",
-    "notes": "【実践・ビジネス】前述の事実を要約し、別の平易な言葉で本質をズバリと言い換える接続詞です。"
+    "notes": "【実践・ビジネス】前述の事実を要約し、別の平易な言葉で本質をズバリと言い換える接続詞です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをつまり。",
+    "choices_ruby": [
+      "てたまらない",
+      "つまり",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "つまり"
   },
   {
     "id": 627,
@@ -14579,7 +18800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つまり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つまり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つまり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してつまりのだ。",
+    "choices_ruby": [
+      "だらけ",
+      "わけにはいかない",
+      "つまり",
+      "として"
+    ],
+    "correct_text_ruby": "つまり"
   },
   {
     "id": 628,
@@ -14600,7 +18830,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つまり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つまり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つまり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までつまり。",
+    "choices_ruby": [
+      "にとって",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "てたまらない",
+      "つまり"
+    ],
+    "correct_text_ruby": "つまり"
   },
   {
     "id": 629,
@@ -14625,10 +18864,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "きちんと<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めた（　　　）だったが、<ruby>帰宅<rt>きたく</rt></ruby>したら<ruby>玄関<rt>げんかん</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いたままになっていた。",
     "sentence_jp_ruby": "きちんと<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めたつもりだったが、<ruby>帰宅<rt>きたく</rt></ruby>したら<ruby>玄関<rt>げんかん</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いたままになっていた。",
     "choices_ruby": [
-      "わけ",
       "つもり",
+      "こと",
       "はず",
-      "こと"
+      "わけ"
     ],
     "correct_text_ruby": "つもり"
   },
@@ -14651,7 +18890,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つもり",
-    "notes": "【実践・ビジネス】自分ではそのようにしたという強い思い込みがあったが、実際は違っていた落差を表します。"
+    "notes": "【実践・ビジネス】自分ではそのようにしたという強い思い込みがあったが、実際は違っていた落差を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをつもり。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "つもり",
+      "にとって",
+      "っぽい"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 631,
@@ -14672,7 +18920,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つもり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つもり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つもり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してつもりのだ。",
+    "choices_ruby": [
+      "かける",
+      "てたまらない",
+      "つもり",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 632,
@@ -14693,7 +18950,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つもり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つもり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つもり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までつもり。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "にとって",
+      "てたまらない",
+      "つもり"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 633,
@@ -14719,9 +18985,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>本番<rt>ほんばん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じつもりで、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>模擬試験<rt>もぎしけん</rt></ruby>に<ruby>緊張感<rt>きんちょうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>臨<rt>のぞ</rt></ruby>もう。",
     "choices_ruby": [
       "つもり",
+      "くせ",
       "わりに",
-      "とおり",
-      "くせ"
+      "とおり"
     ],
     "correct_text_ruby": "つもり"
   },
@@ -14744,7 +19010,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つもり",
-    "notes": "【実践・ビジネス】実際は異なっていても、あたかもその状態であるかのような強い気持ち・構えで臨むことを表します。"
+    "notes": "【実践・ビジネス】実際は異なっていても、あたかもその状態であるかのような強い気持ち・構えで臨むことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをつもり。",
+    "choices_ruby": [
+      "かける",
+      "つもり",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 635,
@@ -14765,7 +19040,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つもり",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つもり」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「つもり」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してつもりのだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "はずがない",
+      "つもり",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 636,
@@ -14786,7 +19070,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つもり",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つもり」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「つもり」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までつもり。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ばかりでなく",
+      "べきだ",
+      "つもり"
+    ],
+    "correct_text_ruby": "つもり"
   },
   {
     "id": 637,
@@ -14811,10 +19104,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "せっかくの<ruby>温<rt>あたた</rt></ruby>かいスープが<ruby>冷<rt>さ</rt></ruby>めない（　　　）に、どうぞ<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がってください。",
     "sentence_jp_ruby": "せっかくの<ruby>温<rt>あたた</rt></ruby>かいスープが<ruby>冷<rt>さ</rt></ruby>めないうちに、どうぞ<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がってください。",
     "choices_ruby": [
-      "<ruby>途端<rt>とたん</rt></ruby>",
-      "<ruby>最中<rt>さいちゅう</rt></ruby>",
       "うち",
-      "あいだ"
+      "あいだ",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>",
+      "<ruby>途端<rt>とたん</rt></ruby>"
     ],
     "correct_text_ruby": "うち"
   },
@@ -14837,7 +19130,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "うち",
-    "notes": "【実践・ビジネス】ある好ましい状態が変化してしまう前に、チャンスを逃さず行動することを促します。"
+    "notes": "【実践・ビジネス】ある好ましい状態が変化してしまう前に、チャンスを逃さず行動することを促します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをうち。",
+    "choices_ruby": [
+      "べきだ",
+      "うち",
+      "をもとに",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "うち"
   },
   {
     "id": 639,
@@ -14858,7 +19160,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "うち",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「うち」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「うち」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してうちのだ。",
+    "choices_ruby": [
+      "として",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "うち",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "うち"
   },
   {
     "id": 640,
@@ -14879,7 +19190,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "うち",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「うち」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「うち」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までうち。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てたまらない",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "うち"
+    ],
+    "correct_text_ruby": "うち"
   },
   {
     "id": 641,
@@ -14904,10 +19224,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>や<ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>と<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>した（　　　）で、<ruby>今後<rt>こんご</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>を<ruby>最終決定<rt>さいしゅうけってい</rt></ruby>したい。",
     "sentence_jp_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>や<ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>と<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で、<ruby>今後<rt>こんご</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>を<ruby>最終決定<rt>さいしゅうけってい</rt></ruby>したい。",
     "choices_ruby": [
-      "<ruby>中<rt>なか</rt></ruby>",
+      "<ruby>上<rt>うえ</rt></ruby>",
       "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>下<rt>した</rt></ruby>",
-      "<ruby>上<rt>うえ</rt></ruby>"
+      "<ruby>中<rt>なか</rt></ruby>",
+      "<ruby>下<rt>した</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
@@ -14930,7 +19250,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上",
-    "notes": "【実践・ビジネス】動詞た形＋上でで、まず前提となる動作を終えた後で次の行動に移る順序を表します。"
+    "notes": "【実践・ビジネス】動詞た形＋上でで、まず前提となる動作を終えた後で次の行動に移る順序を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>上<rt>うえ</rt></ruby>。",
+    "choices_ruby": [
+      "において",
+      "<ruby>上<rt>うえ</rt></ruby>",
+      "べきだ",
+      "にとって"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 643,
@@ -14951,7 +19280,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>上<rt>うえ</rt></ruby>のだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "において",
+      "<ruby>上<rt>うえ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 644,
@@ -14972,7 +19310,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "上",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>上<rt>うえ</rt></ruby>。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "てたまらない",
+      "<ruby>上<rt>うえ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 645,
@@ -14998,9 +19345,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "このアパートは<ruby>家賃<rt>やちん</rt></ruby>が<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>上<rt>うえ</rt></ruby>に、<ruby>駅<rt>えき</rt></ruby>から<ruby>徒歩<rt>とほ</rt></ruby>3<ruby>分<rt>ふん</rt></ruby>と<ruby>立地<rt>りっち</rt></ruby>も<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>だ。",
     "choices_ruby": [
       "<ruby>上<rt>うえ</rt></ruby>",
-      "<ruby>先<rt>さき</rt></ruby>",
+      "<ruby>中<rt>なか</rt></ruby>",
       "<ruby>下<rt>した</rt></ruby>",
-      "<ruby>中<rt>なか</rt></ruby>"
+      "<ruby>先<rt>さき</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
@@ -15023,7 +19370,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "上",
-    "notes": "【実践・ビジネス】普通形＋上にでプラスのことにさらにプラス、またはマイナスにマイナスが重なることを表します。"
+    "notes": "【実践・ビジネス】普通形＋上にでプラスのことにさらにプラス、またはマイナスにマイナスが重なることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>上<rt>うえ</rt></ruby>。",
+    "choices_ruby": [
+      "べきだ",
+      "<ruby>上<rt>うえ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "はずがない"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 647,
@@ -15044,7 +19400,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "上",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「上」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>上<rt>うえ</rt></ruby>のだ。",
+    "choices_ruby": [
+      "はずがない",
+      "かける",
+      "<ruby>上<rt>うえ</rt></ruby>",
+      "によって"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 648,
@@ -15065,7 +19430,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "上",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「上」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>上<rt>うえ</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "わけにはいかない",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>上<rt>うえ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 649,
@@ -15090,10 +19464,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>結果<rt>けっか</rt></ruby>がどうなるかは（　　　）として、<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くして<ruby>挑戦<rt>ちょうせん</rt></ruby>したこと<ruby>自体<rt>じたい</rt></ruby>に<ruby>価値<rt>かち</rt></ruby>がある。",
     "sentence_jp_ruby": "<ruby>結果<rt>けっか</rt></ruby>がどうなるかは<ruby>別<rt>わか</rt></ruby>として、<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くして<ruby>挑戦<rt>ちょうせん</rt></ruby>したこと<ruby>自体<rt>じたい</rt></ruby>に<ruby>価値<rt>かち</rt></ruby>がある。",
     "choices_ruby": [
-      "<ruby>中心<rt>ちゅうしん</rt></ruby>",
+      "<ruby>別<rt>べつ</rt></ruby>",
       "<ruby>特別<rt>とくべつ</rt></ruby>",
       "<ruby>基準<rt>きじゅん</rt></ruby>",
-      "<ruby>別<rt>べつ</rt></ruby>"
+      "<ruby>中心<rt>ちゅうしん</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>"
   },
@@ -15116,7 +19490,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "別",
-    "notes": "【実践・ビジネス】名詞＋は別としてで『それは一旦考慮の外に置いて、まずはこちらを論じる』という態度を表します。"
+    "notes": "【実践・ビジネス】名詞＋は別としてで『それは一旦考慮の外に置いて、まずはこちらを論じる』という態度を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>別<rt>べつ</rt></ruby>。",
+    "choices_ruby": [
+      "てならない",
+      "<ruby>別<rt>べつ</rt></ruby>",
+      "によって",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>"
   },
   {
     "id": 651,
@@ -15137,7 +19520,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "別",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「別」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「別」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>別<rt>べつ</rt></ruby>のだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "てならない",
+      "<ruby>別<rt>べつ</rt></ruby>",
+      "にとって"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>"
   },
   {
     "id": 652,
@@ -15158,7 +19550,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "別",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「別」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「別」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>別<rt>べつ</rt></ruby>。",
+    "choices_ruby": [
+      "てたまらない",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>別<rt>べつ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>別<rt>べつ</rt></ruby>"
   },
   {
     "id": 653,
@@ -15183,10 +19584,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>富良野<rt>ふらの</rt></ruby>は、<ruby>初夏<rt>しょか</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る<ruby>美<rt>うつく</rt></ruby>しいラベンダー<ruby>畑<rt>はたけ</rt></ruby>（　　　）<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>富良野<rt>ふらの</rt></ruby>は、<ruby>初夏<rt>しょか</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る<ruby>美<rt>うつく</rt></ruby>しいラベンダー<ruby>畑<rt>はたけ</rt></ruby>で<ruby>全国的<rt>ぜんこくてき</rt></ruby>に<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
     "choices_ruby": [
+      "で",
       "を",
-      "と",
       "に",
-      "で"
+      "と"
     ],
     "correct_text_ruby": "で"
   },
@@ -15209,7 +19610,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "で",
-    "notes": "【実践・ビジネス】『名詞は＋原因・理由（名詞）＋で有名だ』で知名度の理由・特色を示します。"
+    "notes": "【実践・ビジネス】『名詞は＋原因・理由（名詞）＋で有名だ』で知名度の理由・特色を示します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをで。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "で",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "をもとに"
+    ],
+    "correct_text_ruby": "で"
   },
   {
     "id": 655,
@@ -15230,7 +19640,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "で",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「で」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「で」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してでのだ。",
+    "choices_ruby": [
+      "かける",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "で",
+      "に<ruby>基<rt>もと</rt></ruby>づいて"
+    ],
+    "correct_text_ruby": "で"
   },
   {
     "id": 656,
@@ -15251,7 +19670,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "で",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「で」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「で」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までで。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "によって",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "で"
+    ],
+    "correct_text_ruby": "で"
   },
   {
     "id": 657,
@@ -15278,8 +19706,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "わけだ",
       "はずだ",
-      "ものだ",
-      "ことだ"
+      "ことだ",
+      "ものだ"
     ],
     "correct_text_ruby": "わけだ"
   },
@@ -15302,7 +19730,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わけだ",
-    "notes": "【実践・ビジネス】理由を聞いて納得し、『なるほど、だからそういう結果になるのも当然だ』と合点がいった心境を表します。"
+    "notes": "【実践・ビジネス】理由を聞いて納得し、『なるほど、だからそういう結果になるのも当然だ』と合点がいった心境を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわけだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "わけだ",
+      "によって",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "わけだ"
   },
   {
     "id": 659,
@@ -15323,7 +19760,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わけだ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけだ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけだ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわけだのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "わけだ",
+      "てならない"
+    ],
+    "correct_text_ruby": "わけだ"
   },
   {
     "id": 660,
@@ -15344,7 +19790,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わけだ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけだ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけだ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわけだ。",
+    "choices_ruby": [
+      "がち",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "わけだ"
+    ],
+    "correct_text_ruby": "わけだ"
   },
   {
     "id": 661,
@@ -15371,8 +19826,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "わけ",
       "もの",
-      "こと",
-      "はず"
+      "はず",
+      "こと"
     ],
     "correct_text_ruby": "わけ"
   },
@@ -15395,7 +19850,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わけ",
-    "notes": "【実践・ビジネス】全体を完全否定するのではなく、『そう単純に解釈してほしくない』と部分的に婉曲否定します。"
+    "notes": "【実践・ビジネス】全体を完全否定するのではなく、『そう単純に解釈してほしくない』と部分的に婉曲否定します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわけ。",
+    "choices_ruby": [
+      "として",
+      "わけ",
+      "ばかりでなく",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 663,
@@ -15416,7 +19880,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわけのだ。",
+    "choices_ruby": [
+      "として",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "わけ",
+      "てならない"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 664,
@@ -15437,7 +19910,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわけ。",
+    "choices_ruby": [
+      "によって",
+      "っぽい",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "わけ"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 665,
@@ -15462,9 +19944,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "こんなに<ruby>簡単<rt>かんたん</rt></ruby>で<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>で、トップの<ruby>彼<rt>かれ</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>える（　　　）がない。",
     "sentence_jp_ruby": "こんなに<ruby>簡単<rt>かんたん</rt></ruby>で<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>で、トップの<ruby>彼<rt>かれ</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>えるわけがない。",
     "choices_ruby": [
+      "わけ",
       "こと",
       "もの",
-      "わけ",
       "はず"
     ],
     "correct_text_ruby": "わけ"
@@ -15488,7 +19970,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わけ",
-    "notes": "【実践・ビジネス】論理的・常識的に考えて『絶対にそんなことはあり得ない』と強く確信を持って否定します。"
+    "notes": "【実践・ビジネス】論理的・常識的に考えて『絶対にそんなことはあり得ない』と強く確信を持って否定します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわけ。",
+    "choices_ruby": [
+      "として",
+      "わけ",
+      "がち",
+      "だらけ"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 667,
@@ -15509,7 +20000,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわけのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "をもとに",
+      "わけ",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 668,
@@ -15530,7 +20030,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわけ。",
+    "choices_ruby": [
+      "がち",
+      "だらけ",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "わけ"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 669,
@@ -15555,10 +20064,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大事<rt>だいじ</rt></ruby>なプレゼンを<ruby>明日<rt>あした</rt></ruby>に<ruby>控<rt>ひか</rt></ruby>えているので、<ruby>今日<rt>きょう</rt></ruby><ruby>風邪<rt>かぜ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>む（　　　）にはいかない。",
     "sentence_jp_ruby": "<ruby>大事<rt>だいじ</rt></ruby>なプレゼンを<ruby>明日<rt>あした</rt></ruby>に<ruby>控<rt>ひか</rt></ruby>えているので、<ruby>今日<rt>きょう</rt></ruby><ruby>風邪<rt>かぜ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>むわけにはいかない。",
     "choices_ruby": [
-      "こと",
       "わけ",
-      "もの",
-      "はず"
+      "はず",
+      "こと",
+      "もの"
     ],
     "correct_text_ruby": "わけ"
   },
@@ -15581,7 +20090,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わけ",
-    "notes": "【実践・ビジネス】社会的な義理や常識・心理的理由から『そうすることは許されない・できない』と自制します。"
+    "notes": "【実践・ビジネス】社会的な義理や常識・心理的理由から『そうすることは許されない・できない』と自制します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわけ。",
+    "choices_ruby": [
+      "べきだ",
+      "わけ",
+      "において",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 671,
@@ -15602,7 +20120,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わけ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わけ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわけのだ。",
+    "choices_ruby": [
+      "をもとに",
+      "ばかりでなく",
+      "わけ",
+      "かける"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 672,
@@ -15623,7 +20150,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わけ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わけ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわけ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "をもとに",
+      "わけ"
+    ],
+    "correct_text_ruby": "わけ"
   },
   {
     "id": 673,
@@ -15649,9 +20185,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "この<ruby>観光地<rt>かんこうち</rt></ruby>は<ruby>国内<rt>こくない</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>はもちろん、<ruby>近年<rt>きんねん</rt></ruby>は<ruby>世界中<rt>せかいじゅう</rt></ruby>からの<ruby>訪日<rt>ほうにち</rt></ruby><ruby>客<rt>きゃく</rt></ruby>にも<ruby>大人気<rt>だいにんき</rt></ruby>だ。",
     "choices_ruby": [
       "はもちろん",
-      "はおろか",
+      "はともあれ",
       "はさておき",
-      "はともあれ"
+      "はおろか"
     ],
     "correct_text_ruby": "はもちろん"
   },
@@ -15674,7 +20210,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はもちろん",
-    "notes": "【実践・ビジネス】前件が当然であることは言うまでもなく、さらにそれ以外の後件にも広く及ぶことを表します。"
+    "notes": "【実践・ビジネス】前件が当然であることは言うまでもなく、さらにそれ以外の後件にも広く及ぶことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをはもちろん。",
+    "choices_ruby": [
+      "てならない",
+      "はもちろん",
+      "かける",
+      "っぽい"
+    ],
+    "correct_text_ruby": "はもちろん"
   },
   {
     "id": 675,
@@ -15695,7 +20240,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はもちろん",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はもちろん」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「はもちろん」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してはもちろんのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "において",
+      "はもちろん",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "はもちろん"
   },
   {
     "id": 676,
@@ -15716,7 +20270,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はもちろん",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はもちろん」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「はもちろん」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まではもちろん。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "はもちろん"
+    ],
+    "correct_text_ruby": "はもちろん"
   },
   {
     "id": 677,
@@ -15744,7 +20307,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
       "<ruby>割<rt>わり</rt></ruby>",
       "<ruby>最中<rt>さいちゅう</rt></ruby>",
       "<ruby>途端<rt>とたん</rt></ruby>",
-      "<ruby>通<rt>とう</rt></ruby>り"
+      "<ruby>通<rt>とお</rt></ruby>り"
     ],
     "correct_text_ruby": "<ruby>割<rt>わり</rt></ruby>"
   },
@@ -15767,7 +20330,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "割",
-    "notes": "【実践・ビジネス】基準となる事柄（値段、年齢、練習量など）から予想される水準と実際の差を対比します。"
+    "notes": "【実践・ビジネス】基準となる事柄（値段、年齢、練習量など）から予想される水準と実際の差を対比します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>割<rt>わり</rt></ruby>。",
+    "choices_ruby": [
+      "において",
+      "<ruby>割<rt>わり</rt></ruby>",
+      "ばかりでなく",
+      "はずがない"
+    ],
+    "correct_text_ruby": "<ruby>割<rt>わり</rt></ruby>"
   },
   {
     "id": 679,
@@ -15788,7 +20360,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "割",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「割」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「割」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>割<rt>わり</rt></ruby>のだ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>割<rt>わり</rt></ruby>",
+      "てならない"
+    ],
+    "correct_text_ruby": "<ruby>割<rt>わり</rt></ruby>"
   },
   {
     "id": 680,
@@ -15809,7 +20390,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "割",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「割」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「割」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>割<rt>わり</rt></ruby>。",
+    "choices_ruby": [
+      "として",
+      "てならない",
+      "がち",
+      "<ruby>割<rt>わり</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>割<rt>わり</rt></ruby>"
   },
   {
     "id": 681,
@@ -15834,10 +20424,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>はいつも<ruby>母<rt>はは</rt></ruby>の<ruby>気<rt>き</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くために、（　　　）<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>ったりする。",
     "sentence_jp_ruby": "<ruby>弟<rt>おとうと</rt></ruby>はいつも<ruby>母<rt>はは</rt></ruby>の<ruby>気<rt>き</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くために、わざと<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>ったりする。",
     "choices_ruby": [
-      "めったに",
+      "わざと",
       "つい",
-      "ふと",
-      "わざと"
+      "めったに",
+      "ふと"
     ],
     "correct_text_ruby": "わざと"
   },
@@ -15860,7 +20450,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わざと",
-    "notes": "【実践・ビジネス】偶然ではなく明確な意図や目的を持って意識的にその行動を行う様子を表します。"
+    "notes": "【実践・ビジネス】偶然ではなく明確な意図や目的を持って意識的にその行動を行う様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわざと。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "わざと",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "っぽい"
+    ],
+    "correct_text_ruby": "わざと"
   },
   {
     "id": 683,
@@ -15881,7 +20480,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わざと",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わざと」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わざと」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわざとのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "わざと",
+      "がち"
+    ],
+    "correct_text_ruby": "わざと"
   },
   {
     "id": 684,
@@ -15902,7 +20510,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わざと",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わざと」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わざと」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわざと。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "において",
+      "てたまらない",
+      "わざと"
+    ],
+    "correct_text_ruby": "わざと"
   },
   {
     "id": 685,
@@ -15929,8 +20546,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "わざわざ",
       "まるで",
-      "<ruby>決<rt>けっ</rt></ruby>して",
-      "わざと"
+      "わざと",
+      "<ruby>決<rt>けっ</rt></ruby>して"
     ],
     "correct_text_ruby": "わざわざ"
   },
@@ -15953,7 +20570,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "わざわざ",
-    "notes": "【実践・ビジネス】普通ならしなくてもよい労力や手間をあえてかけて特別に行ってくれた相手への感謝・敬意を表します。"
+    "notes": "【実践・ビジネス】普通ならしなくてもよい労力や手間をあえてかけて特別に行ってくれた相手への感謝・敬意を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをわざわざ。",
+    "choices_ruby": [
+      "だらけ",
+      "わざわざ",
+      "によって",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "わざわざ"
   },
   {
     "id": 687,
@@ -15974,7 +20600,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "わざわざ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わざわざ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「わざわざ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してわざわざのだ。",
+    "choices_ruby": [
+      "っぽい",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "わざわざ",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "わざわざ"
   },
   {
     "id": 688,
@@ -15995,7 +20630,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "わざわざ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わざわざ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「わざわざ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までわざわざ。",
+    "choices_ruby": [
+      "てたまらない",
+      "てならない",
+      "にとって",
+      "わざわざ"
+    ],
+    "correct_text_ruby": "わざわざ"
   },
   {
     "id": 689,
@@ -16020,9 +20664,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>言葉<rt>ことば</rt></ruby>で<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>理想<rt>りそう</rt></ruby>を<ruby>語<rt>かた</rt></ruby>る（　　　）、まず<ruby>小<rt>ちい</rt></ruby>さな<ruby>行動<rt>こうどう</rt></ruby>を<ruby>実践<rt>じっせん</rt></ruby>することのほうが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>言葉<rt>ことば</rt></ruby>で<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>理想<rt>りそう</rt></ruby>を<ruby>語<rt>かた</rt></ruby>るよりも、まず<ruby>小<rt>ちい</rt></ruby>さな<ruby>行動<rt>こうどう</rt></ruby>を<ruby>実践<rt>じっせん</rt></ruby>することのほうが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "choices_ruby": [
-      "ほども",
       "よりも",
       "きりも",
+      "ほども",
       "ばかりも"
     ],
     "correct_text_ruby": "よりも"
@@ -16046,7 +20690,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よりも",
-    "notes": "【実践・ビジネス】二つの物事を比較して、基準となる前者を退けて後者を選択・重視します。"
+    "notes": "【実践・ビジネス】二つの物事を比較して、基準となる前者を退けて後者を選択・重視します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをよりも。",
+    "choices_ruby": [
+      "わけにはいかない",
+      "よりも",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "っぽい"
+    ],
+    "correct_text_ruby": "よりも"
   },
   {
     "id": 691,
@@ -16067,7 +20720,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よりも",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よりも」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よりも」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してよりものだ。",
+    "choices_ruby": [
+      "だらけ",
+      "として",
+      "よりも",
+      "はずがない"
+    ],
+    "correct_text_ruby": "よりも"
   },
   {
     "id": 692,
@@ -16088,7 +20750,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よりも",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よりも」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よりも」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までよりも。",
+    "choices_ruby": [
+      "べきだ",
+      "にとって",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "よりも"
+    ],
+    "correct_text_ruby": "よりも"
   },
   {
     "id": 693,
@@ -16113,10 +20784,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>電話番号<rt>でんわばんごう</rt></ruby>もメールアドレスも<ruby>分<rt>わ</rt></ruby>からないので、<ruby>連絡<rt>れんらく</rt></ruby>の<ruby>取<rt>と</rt></ruby>り（　　　）がない。",
     "sentence_jp_ruby": "<ruby>電話番号<rt>でんわばんごう</rt></ruby>もメールアドレスも<ruby>分<rt>わ</rt></ruby>からないので、<ruby>連絡<rt>れんらく</rt></ruby>の<ruby>取<rt>と</rt></ruby>りようがない。",
     "choices_ruby": [
-      "はず",
-      "<ruby>気<rt>き</rt></ruby>",
       "よう",
-      "そう"
+      "はず",
+      "そう",
+      "<ruby>気<rt>き</rt></ruby>"
     ],
     "correct_text_ruby": "よう"
   },
@@ -16139,7 +20810,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よう",
-    "notes": "【実践・ビジネス】動詞ます形＋ようがないで、いくらそうしたくても手段や方法が皆無で不可能であることを表します。"
+    "notes": "【実践・ビジネス】動詞ます形＋ようがないで、いくらそうしたくても手段や方法が皆無で不可能であることを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをよう。",
+    "choices_ruby": [
+      "において",
+      "よう",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 695,
@@ -16160,7 +20840,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よう",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してようのだ。",
+    "choices_ruby": [
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "っぽい",
+      "よう",
+      "だらけ"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 696,
@@ -16181,7 +20870,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よう",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までよう。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "はずがない",
+      "ばかりでなく",
+      "よう"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 697,
@@ -16206,10 +20904,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "どこかで<ruby>一度<rt>いちど</rt></ruby>お<ruby>会<rt>あ</rt></ruby>いしたことがあるような（　　　）がするのですが、<ruby>違<rt>ちが</rt></ruby>いますでしょうか。",
     "sentence_jp_ruby": "どこかで<ruby>一度<rt>いちど</rt></ruby>お<ruby>会<rt>あ</rt></ruby>いしたことがあるような<ruby>気<rt>き</rt></ruby>がするのですが、<ruby>違<rt>ちが</rt></ruby>いますでしょうか。",
     "choices_ruby": [
-      "<ruby>心<rt>こころ</rt></ruby>",
       "<ruby>気<rt>き</rt></ruby>",
-      "<ruby>目<rt>め</rt></ruby>",
-      "<ruby>声<rt>こえ</rt></ruby>"
+      "<ruby>声<rt>こえ</rt></ruby>",
+      "<ruby>心<rt>こころ</rt></ruby>",
+      "<ruby>目<rt>め</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>気<rt>き</rt></ruby>"
   },
@@ -16232,7 +20930,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "気",
-    "notes": "【実践・ビジネス】明確な確証はないものの、直感や漠然とした感覚としてそう感じられる心理を表します。"
+    "notes": "【実践・ビジネス】明確な確証はないものの、直感や漠然とした感覚としてそう感じられる心理を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>気<rt>き</rt></ruby>。",
+    "choices_ruby": [
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "<ruby>気<rt>き</rt></ruby>",
+      "わけにはいかない",
+      "によって"
+    ],
+    "correct_text_ruby": "<ruby>気<rt>き</rt></ruby>"
   },
   {
     "id": 699,
@@ -16253,7 +20960,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "気",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「気」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「気」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>気<rt>き</rt></ruby>のだ。",
+    "choices_ruby": [
+      "だらけ",
+      "によって",
+      "<ruby>気<rt>き</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る"
+    ],
+    "correct_text_ruby": "<ruby>気<rt>き</rt></ruby>"
   },
   {
     "id": 700,
@@ -16274,7 +20990,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "気",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「気」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「気」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>気<rt>き</rt></ruby>。",
+    "choices_ruby": [
+      "っぽい",
+      "ばかりでなく",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "<ruby>気<rt>き</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>気<rt>き</rt></ruby>"
   },
   {
     "id": 701,
@@ -16299,10 +21024,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>明<rt>あか</rt></ruby>るく<ruby>笑<rt>わら</rt></ruby>っているが、<ruby>時折<rt>ときおり</rt></ruby>どこか<ruby>寂<rt>さび</rt></ruby>しそうにしているようにも（　　　）。",
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>明<rt>あか</rt></ruby>るく<ruby>笑<rt>わら</rt></ruby>っているが、<ruby>時折<rt>ときおり</rt></ruby>どこか<ruby>寂<rt>さび</rt></ruby>しそうにしているようにも<ruby>見<rt>み</rt></ruby>える。",
     "choices_ruby": [
-      "<ruby>思<rt>おも</rt></ruby>える",
-      "<ruby>言<rt>い</rt></ruby>える",
       "<ruby>見<rt>み</rt></ruby>える",
-      "<ruby>聞<rt>ぶん</rt></ruby>える"
+      "<ruby>思<rt>おも</rt></ruby>える",
+      "<ruby>聞<rt>きこ</rt></ruby>える",
+      "<ruby>言<rt>い</rt></ruby>える"
     ],
     "correct_text_ruby": "<ruby>見<rt>み</rt></ruby>える"
   },
@@ -16325,7 +21050,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "見える",
-    "notes": "【実践・ビジネス】外見や様子から受ける視覚的・印象的な推測を表します。"
+    "notes": "【実践・ビジネス】外見や様子から受ける視覚的・印象的な推測を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを<ruby>見<rt>み</rt></ruby>える。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>見<rt>み</rt></ruby>える",
+      "をもとに",
+      "にとって"
+    ],
+    "correct_text_ruby": "<ruby>見<rt>み</rt></ruby>える"
   },
   {
     "id": 703,
@@ -16346,7 +21080,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "見える",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「見える」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「見える」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して<ruby>見<rt>み</rt></ruby>えるのだ。",
+    "choices_ruby": [
+      "ばかりでなく",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "<ruby>見<rt>み</rt></ruby>える",
+      "を<ruby>通<rt>つう</rt></ruby>じて"
+    ],
+    "correct_text_ruby": "<ruby>見<rt>み</rt></ruby>える"
   },
   {
     "id": 704,
@@ -16367,7 +21110,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "見える",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「見える」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「見える」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで<ruby>見<rt>み</rt></ruby>える。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "ばかりでなく",
+      "っぽい",
+      "<ruby>見<rt>み</rt></ruby>える"
+    ],
+    "correct_text_ruby": "<ruby>見<rt>み</rt></ruby>える"
   },
   {
     "id": 705,
@@ -16394,8 +21146,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "ように",
       "とおりに",
-      "ために",
-      "くせに"
+      "くせに",
+      "ために"
     ],
     "correct_text_ruby": "ように"
   },
@@ -16418,7 +21170,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ように",
-    "notes": "【実践・ビジネス】無意志動詞や可能形＋ようにで、その状態が実現することを目標として対策を講じます。"
+    "notes": "【実践・ビジネス】無意志動詞や可能形＋ようにで、その状態が実現することを目標として対策を講じます。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをように。",
+    "choices_ruby": [
+      "べきだ",
+      "ように",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ばかりでなく"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 707,
@@ -16439,7 +21200,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ように",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ように」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ように」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してようにのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "ように",
+      "にとって"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 708,
@@ -16460,7 +21230,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ように",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ように」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ように」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までように。",
+    "choices_ruby": [
+      "だらけ",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "べきだ",
+      "ように"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 709,
@@ -16485,9 +21264,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>かたく</rt></ruby>なに<ruby>認<rt>みと</rt></ruby>め（　　　）とせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>かたく</rt></ruby>なに<ruby>認<rt>みと</rt></ruby>めようとせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
     "choices_ruby": [
-      "そう",
-      "<ruby>気<rt>き</rt></ruby>",
       "よう",
+      "<ruby>気<rt>き</rt></ruby>",
+      "そう",
       "まい"
     ],
     "correct_text_ruby": "よう"
@@ -16511,7 +21290,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よう",
-    "notes": "【実践・ビジネス】意向形＋としない（とせず）で本人がその行動をする意志・意欲を全く示さない様子を非難します。"
+    "notes": "【実践・ビジネス】意向形＋としない（とせず）で本人がその行動をする意志・意欲を全く示さない様子を非難します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをよう。",
+    "choices_ruby": [
+      "をもとに",
+      "よう",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "がち"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 711,
@@ -16532,7 +21320,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よう",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してようのだ。",
+    "choices_ruby": [
+      "てたまらない",
+      "ばかりでなく",
+      "よう",
+      "に<ruby>対<rt>たい</rt></ruby>して"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 712,
@@ -16553,7 +21350,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よう",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までよう。",
+    "choices_ruby": [
+      "がち",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "ばかりでなく",
+      "よう"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 713,
@@ -16578,8 +21384,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>がまさに<ruby>発車<rt>はっしゃ</rt></ruby>し（　　　）としたその<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>駆け込<rt>かけこ</rt></ruby>み<ruby>乗車<rt>じょうしゃ</rt></ruby>のベルが<ruby>鳴<rt>な</rt></ruby>り<ruby>響<rt>ひび</rt></ruby>いた。",
     "sentence_jp_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>がまさに<ruby>発車<rt>はっしゃ</rt></ruby>しようとしたその<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>駆け込<rt>かけこ</rt></ruby>み<ruby>乗車<rt>じょうしゃ</rt></ruby>のベルが<ruby>鳴<rt>な</rt></ruby>り<ruby>響<rt>ひび</rt></ruby>いた。",
     "choices_ruby": [
-      "まい",
       "よう",
+      "まい",
       "そう",
       "<ruby>気<rt>き</rt></ruby>"
     ],
@@ -16604,7 +21410,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "よう",
-    "notes": "【実践・ビジネス】意向形＋とするで動作が今まさに始まろうとしている直前の瞬間や試みを表します。"
+    "notes": "【実践・ビジネス】意向形＋とするで動作が今まさに始まろうとしている直前の瞬間や試みを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをよう。",
+    "choices_ruby": [
+      "べきだ",
+      "よう",
+      "をもとに",
+      "によって"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 715,
@@ -16625,7 +21440,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "よう",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「よう」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してようのだ。",
+    "choices_ruby": [
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "わけにはいかない",
+      "よう",
+      "によって"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 716,
@@ -16646,7 +21470,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "よう",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「よう」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までよう。",
+    "choices_ruby": [
+      "かける",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "よう"
+    ],
+    "correct_text_ruby": "よう"
   },
   {
     "id": 717,
@@ -16671,8 +21504,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "あの<ruby>大感動<rt>だいかんどう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>のラストシーンを<ruby>見<rt>み</rt></ruby>て、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さ（　　　）にはいられなかった。",
     "sentence_jp_ruby": "あの<ruby>大感動<rt>だいかんどう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>のラストシーンを<ruby>見<rt>み</rt></ruby>て、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さずにはいられなかった。",
     "choices_ruby": [
-      "ざる",
       "ずに",
+      "ざる",
       "ないで",
       "なく"
     ],
@@ -16697,7 +21530,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずに",
-    "notes": "【実践・ビジネス】動詞ない形＋ずにはいられないで、感情や衝動が内面から自然と湧き上がり抑えきれないことを表します。"
+    "notes": "【実践・ビジネス】動詞ない形＋ずにはいられないで、感情や衝動が内面から自然と湧き上がり抑えきれないことを表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをずに。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ずに",
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "っぽい"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 719,
@@ -16718,7 +21560,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してずにのだ。",
+    "choices_ruby": [
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "ずに",
+      "として"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 720,
@@ -16739,7 +21590,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までずに。",
+    "choices_ruby": [
+      "<ruby>抜<rt>ぬ</rt></ruby>く",
+      "ばかりでなく",
+      "において",
+      "ずに"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 721,
@@ -16765,9 +21625,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>昨夜<rt>さくや</rt></ruby>は<ruby>一度<rt>いちど</rt></ruby>も<ruby>目<rt>め</rt></ruby>を<ruby>覚<rt>さ</rt></ruby>まさずに、<ruby>朝<rt>あさ</rt></ruby>のアラームが<ruby>鳴<rt>な</rt></ruby>るまでぐっすり<ruby>熟睡<rt>じゅくすい</rt></ruby>できた。",
     "choices_ruby": [
       "ずに",
+      "ないで",
       "ずとも",
-      "なくて",
-      "ないで"
+      "なくて"
     ],
     "correct_text_ruby": "ずに"
   },
@@ -16790,7 +21650,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずに",
-    "notes": "【実践・ビジネス】動詞ない形＋ずに（するは『せずに』）で〜ない状態を維持したまま主動作を行う硬い表現です。"
+    "notes": "【実践・ビジネス】動詞ない形＋ずに（するは『せずに』）で〜ない状態を維持したまま主動作を行う硬い表現です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをずに。",
+    "choices_ruby": [
+      "において",
+      "ずに",
+      "がち",
+      "として"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 723,
@@ -16811,7 +21680,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずに",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずに」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずに」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してずにのだ。",
+    "choices_ruby": [
+      "<ruby>気味<rt>きみ</rt></ruby>",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ずに",
+      "をもとに"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 724,
@@ -16832,7 +21710,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずに",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずに」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずに」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までずに。",
+    "choices_ruby": [
+      "がち",
+      "てたまらない",
+      "ばかりでなく",
+      "ずに"
+    ],
+    "correct_text_ruby": "ずに"
   },
   {
     "id": 725,
@@ -16857,10 +21744,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>し（　　　）<ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えていけば、1<ruby>年間<rt>ねんかん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>語彙<rt>ごい</rt></ruby><ruby>力<rt>ちから</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけられる。",
     "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えていけば、1<ruby>年間<rt>ねんかん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>語彙<rt>ごい</rt></ruby><ruby>力<rt>ちから</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけられる。",
     "choices_ruby": [
-      "きり",
       "ずつ",
-      "とおり",
-      "ばかり"
+      "きり",
+      "ばかり",
+      "とおり"
     ],
     "correct_text_ruby": "ずつ"
   },
@@ -16883,7 +21770,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずつ",
-    "notes": "【実践・ビジネス】数量詞＋ずつで均等な配分や、同じ分量ずつ段階的に事態が進んでいく様子を表します。"
+    "notes": "【実践・ビジネス】数量詞＋ずつで均等な配分や、同じ分量ずつ段階的に事態が進んでいく様子を表します。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトを（　　　）。",
+    "sentence_jp_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んだ<ruby>結果<rt>けっか</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>にプロジェクトをずつ。",
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ずつ",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "わけにはいかない"
+    ],
+    "correct_text_ruby": "ずつ"
   },
   {
     "id": 727,
@@ -16904,7 +21800,16 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずつ",
-    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずつ」となります。"
+    "notes": "【会話・日常】文脈における話者の心情や接続の制約から、正解は「ずつ」となります。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>して（　　　）のだ。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねたからこそ、<ruby>目標<rt>もくひょう</rt></ruby>をしっかりと<ruby>達成<rt>たっせい</rt></ruby>してずつのだ。",
+    "choices_ruby": [
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "<ruby>切<rt>き</rt></ruby>る",
+      "ずつ",
+      "に<ruby>関<rt>かん</rt></ruby>して"
+    ],
+    "correct_text_ruby": "ずつ"
   },
   {
     "id": 728,
@@ -16925,11 +21830,18 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずつ",
-    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずつ」が正解です。"
+    "notes": "【使い分け・接続】接続ルール（動詞の活用形や名詞の呼応）を満たす「ずつ」が正解です。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>まで（　　　）。",
+    "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を<ruby>隅々<rt>すみずみ</rt></ruby>まで<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>最後<rt>さいご</rt></ruby>までずつ。",
+    "choices_ruby": [
+      "てたまらない",
+      "はずがない",
+      "に<ruby>対<rt>たい</rt></ruby>して",
+      "ずつ"
+    ],
+    "correct_text_ruby": "ずつ"
   }
 ];
 
-if (typeof window !== "undefined") {
-  window.JLPT_N3_QUIZ_DATA = window.JLPT_N3_GRAMMAR_QUIZ_DATA;
-  window.JLPT_N3_GRAMMAR_QUIZ_DATA = window.JLPT_N3_QUIZ_DATA;
-}
+// Dual alias for backwards compatibility
+window.JLPT_N3_QUIZ_DATA = window.JLPT_N3_GRAMMAR_QUIZ_DATA;

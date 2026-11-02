@@ -56,7 +56,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あ",
     "ruby": "あ",
     "meaning": "Ah",
-    "ex_ja": "冷たいなあ。",
+    "ex_ja": "<ruby>冷<rt>つめ</rt></ruby>たいなあ。",
     "ex_en": "That's a bit cold."
   },
   {
@@ -72,7 +72,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ああ",
     "ruby": "ああ",
     "meaning": "like that",
-    "ex_ja": "ああ悲しい。",
+    "ex_ja": "ああ<ruby>悲<rt>かな</rt></ruby>しい。",
     "ex_en": "Ah, me!"
   },
   {
@@ -88,7 +88,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あいだ",
     "ruby": "<ruby>間<rt>あいだ</rt></ruby>",
     "meaning": "a space",
-    "ex_ja": "貸し間あり。",
+    "ex_ja": "<ruby>貸<rt>か</rt></ruby>し<ruby>間<rt>かん</rt></ruby>あり。",
     "ex_en": "Room for rent."
   },
   {
@@ -120,7 +120,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あかんぼう",
     "ruby": "<ruby>赤ん坊<rt>あかんぼう</rt></ruby>",
     "meaning": "baby",
-    "ex_ja": "彼は赤ん坊同然だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>赤ん坊<rt>あかんぼう</rt></ruby><ruby>同然<rt>どうぜん</rt></ruby>だ。",
     "ex_en": "He is no better than a baby."
   },
   {
@@ -136,7 +136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あじ",
     "ruby": "<ruby>味<rt>あじ</rt></ruby>",
     "meaning": "flavour",
-    "ex_ja": "後味が悪い。",
+    "ex_ja": "<ruby>後味<rt>あとあじ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い。",
     "ex_en": "It leaves a bad aftertaste."
   },
   {
@@ -152,7 +152,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あす",
     "ruby": "<ruby>明日<rt>あす</rt></ruby>",
     "meaning": "tomorrow",
-    "ex_ja": "明日来れる？",
+    "ex_ja": "<ruby>明日<rt>あした</rt></ruby><ruby>来<rt>こ</rt></ruby>れる？",
     "ex_en": "Can you come tomorrow?"
   },
   {
@@ -168,7 +168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あそび",
     "ruby": "<ruby>遊び<rt>あそび</rt></ruby>",
     "meaning": "play",
-    "ex_ja": "遊びましょう。",
+    "ex_ja": "<ruby>遊<rt>あそ</rt></ruby>びましょう。",
     "ex_en": "Let's play."
   },
   {
@@ -184,7 +184,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あんしん",
     "ruby": "<ruby>安心<rt>あんしん</rt></ruby>",
     "meaning": "relief",
-    "ex_ja": "安心しました。",
+    "ex_ja": "<ruby>安心<rt>あんしん</rt></ruby>しました。",
     "ex_en": "I feel relieved."
   },
   {
@@ -200,7 +200,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あんぜん",
     "ruby": "<ruby>安全<rt>あんぜん</rt></ruby>",
     "meaning": "safety",
-    "ex_ja": "安全な旅を。",
+    "ex_ja": "<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>旅<rt>たび</rt></ruby>を。",
     "ex_en": "Have a safe trip."
   },
   {
@@ -216,7 +216,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あんないする",
     "ruby": "<ruby>案内<rt>あんないする</rt></ruby>",
     "meaning": "to guide",
-    "ex_ja": "ご案内します。",
+    "ex_ja": "ご<ruby>案内<rt>あんない</rt></ruby>します。",
     "ex_en": "I'll guide you."
   },
   {
@@ -232,7 +232,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いか",
     "ruby": "<ruby>以下<rt>いか</rt></ruby>",
     "meaning": "less than",
-    "ex_ja": "以下は彼の話です。",
+    "ex_ja": "<ruby>以下<rt>いか</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。",
     "ex_en": "The following is his story."
   },
   {
@@ -248,7 +248,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いがい",
     "ruby": "<ruby>以外<rt>いがい</rt></ruby>",
     "meaning": "with the exception of",
-    "ex_ja": "職員以外入室禁止。",
+    "ex_ja": "<ruby>職員<rt>しょくいん</rt></ruby><ruby>以外<rt>いがい</rt></ruby><ruby>入室<rt>にゅうしつ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>。",
     "ex_en": "Admittance to staff members only."
   },
   {
@@ -264,7 +264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いがく",
     "ruby": "<ruby>医学<rt>いがく</rt></ruby>",
     "meaning": "medical science",
-    "ex_ja": "彼は医学の学生だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>医学<rt>いがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>だ。",
     "ex_en": "He is a medical student."
   },
   {
@@ -296,7 +296,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いけん",
     "ruby": "<ruby>意見<rt>いけん</rt></ruby>",
     "meaning": "opinion",
-    "ex_ja": "同意見です。",
+    "ex_ja": "<ruby>同<rt>どう</rt></ruby><ruby>意見<rt>いけん</rt></ruby>です。",
     "ex_en": "I agree with you."
   },
   {
@@ -312,7 +312,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いし",
     "ruby": "<ruby>石<rt>いし</rt></ruby>",
     "meaning": "stone",
-    "ex_ja": "点滴石を穿つ。",
+    "ex_ja": "<ruby>点滴<rt>てんてき</rt></ruby><ruby>石<rt>せき</rt></ruby>を<ruby>穿<rt>うが</rt></ruby>つ。",
     "ex_en": "Constant dripping wears away a stone."
   },
   {
@@ -328,7 +328,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いじょう",
     "ruby": "<ruby>以上<rt>いじょう</rt></ruby>",
     "meaning": "more than; this is all",
-    "ex_ja": "以上ですか？",
+    "ex_ja": "<ruby>以上<rt>いじょう</rt></ruby>ですか？",
     "ex_en": "Is that all?"
   },
   {
@@ -344,7 +344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いそぐ",
     "ruby": "<ruby>急ぐ<rt>いそぐ</rt></ruby>",
     "meaning": "to hurry",
-    "ex_ja": "急ぐ必要はないよ。",
+    "ex_ja": "<ruby>急<rt>いそ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>はないよ。",
     "ex_en": "You don't have to hurry."
   },
   {
@@ -360,7 +360,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いちど",
     "ruby": "<ruby>一度<rt>いちど</rt></ruby>",
     "meaning": "once",
-    "ex_ja": "一度参ります。",
+    "ex_ja": "<ruby>一度<rt>いちど</rt></ruby><ruby>参<rt>まい</rt></ruby>ります。",
     "ex_en": "We are coming at once."
   },
   {
@@ -376,7 +376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いっしょうけんめい",
     "ruby": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>",
     "meaning": "with utmost effort",
-    "ex_ja": "一生懸命働いた。",
+    "ex_ja": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いた。",
     "ex_en": "He worked hard."
   },
   {
@@ -392,7 +392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いない",
     "ruby": "<ruby>以内<rt>いない</rt></ruby>",
     "meaning": "within",
-    "ex_ja": "最大２００語以内に。",
+    "ex_ja": "<ruby>最大<rt>さいだい</rt></ruby>２００<ruby>語<rt>ご</rt></ruby><ruby>以内<rt>いない</rt></ruby>に。",
     "ex_en": "Maximum length: 200 words."
   },
   {
@@ -408,7 +408,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いなか",
     "ruby": "<ruby>田舎<rt>いなか</rt></ruby>",
     "meaning": "countryside",
-    "ex_ja": "田舎育ちです。",
+    "ex_ja": "<ruby>田舎<rt>いなか</rt></ruby><ruby>育<rt>そだ</rt></ruby>ちです。",
     "ex_en": "I grew up in the countryside."
   },
   {
@@ -424,7 +424,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うけつけ",
     "ruby": "<ruby>受付<rt>うけつけ</rt></ruby>",
     "meaning": "receipt",
-    "ex_ja": "受付は二時半からです。",
+    "ex_ja": "<ruby>受付<rt>うけつけ</rt></ruby>は<ruby>二<rt>に</rt></ruby><ruby>時半<rt>じはん</rt></ruby>からです。",
     "ex_en": "Registration starts at 2:30."
   },
   {
@@ -440,7 +440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うそ",
     "ruby": "うそ",
     "meaning": "a lie",
-    "ex_ja": "うそを言うな。",
+    "ex_ja": "うそを<ruby>言<rt>い</rt></ruby>うな。",
     "ex_en": "Don't tell lies."
   },
   {
@@ -456,7 +456,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うち",
     "ruby": "うち",
     "meaning": "within",
-    "ex_ja": "うちの旦那。",
+    "ex_ja": "うちの<ruby>旦那<rt>だんな</rt></ruby>。",
     "ex_en": "He is my husband."
   },
   {
@@ -472,7 +472,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うで",
     "ruby": "<ruby>腕<rt>うで</rt></ruby>",
     "meaning": "arm",
-    "ex_ja": "腕を放して。",
+    "ex_ja": "<ruby>腕<rt>うで</rt></ruby>を<ruby>放<rt>はな</rt></ruby>して。",
     "ex_en": "Let go of my arm!"
   },
   {
@@ -488,7 +488,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うら",
     "ruby": "<ruby>裏<rt>うら</rt></ruby>",
     "meaning": "reverse side",
-    "ex_ja": "彼は裏切った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>裏切<rt>うらぎ</rt></ruby>った。",
     "ex_en": "He turned traitor."
   },
   {
@@ -504,7 +504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うりば",
     "ruby": "<ruby>売り場<rt>うりば</rt></ruby>",
     "meaning": "place where things are sold",
-    "ex_ja": "切符売り場はどこですか。",
+    "ex_ja": "<ruby>切符<rt>きっぷ</rt></ruby><ruby>売り場<rt>うりば</rt></ruby>はどこですか。",
     "ex_en": "Where is the ticket window?"
   },
   {
@@ -520,7 +520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うん",
     "ruby": "うん",
     "meaning": "(informal) yes",
-    "ex_ja": "うん、君は？",
+    "ex_ja": "うん、<ruby>君<rt>きみ</rt></ruby>は？",
     "ex_en": "Fine. And you?"
   },
   {
@@ -536,7 +536,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うんてんしゅ",
     "ruby": "<ruby>運転手<rt>うんてんしゅ</rt></ruby>",
     "meaning": "driver",
-    "ex_ja": "彼はバスの運転手だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はバスの<ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>だ。",
     "ex_en": "He is a bus driver."
   },
   {
@@ -552,7 +552,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うんてんする",
     "ruby": "<ruby>運転<rt>うんてんする</rt></ruby>",
     "meaning": "to drive",
-    "ex_ja": "運転できるよ。",
+    "ex_ja": "<ruby>運転<rt>うんてん</rt></ruby>できるよ。",
     "ex_en": "I can drive."
   },
   {
@@ -568,7 +568,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うんどうする",
     "ruby": "<ruby>運動<rt>うんどうする</rt></ruby>",
     "meaning": "to exercise",
-    "ex_ja": "運動します。",
+    "ex_ja": "<ruby>運動<rt>うんどう</rt></ruby>します。",
     "ex_en": "I work out."
   },
   {
@@ -584,7 +584,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "えだ",
     "ruby": "<ruby>枝<rt>えだ</rt></ruby>",
     "meaning": "branch; twig",
-    "ex_ja": "枝を折るな。",
+    "ex_ja": "<ruby>枝<rt>えだ</rt></ruby>を<ruby>折<rt>お</rt></ruby>るな。",
     "ex_en": "Don't break the branches."
   },
   {
@@ -600,7 +600,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "えんりょする",
     "ruby": "<ruby>遠慮<rt>えんりょする</rt></ruby>",
     "meaning": "to be reserved; to be restrained",
-    "ex_ja": "遠慮しないで。",
+    "ex_ja": "<ruby>遠慮<rt>えんりょ</rt></ruby>しないで。",
     "ex_en": "Don't hold back."
   },
   {
@@ -616,7 +616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おかげ",
     "ruby": "おかげ",
     "meaning": "owing to",
-    "ex_ja": "おかげでほぼ完徹だ。",
+    "ex_ja": "おかげでほぼ<ruby>完<rt>かん</rt></ruby><ruby>徹<rt>てっ</rt></ruby>だ。",
     "ex_en": "Thanks to which I was up nearly all night."
   },
   {
@@ -648,7 +648,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おく",
     "ruby": "<ruby>億<rt>おく</rt></ruby>",
     "meaning": "one hundred million",
-    "ex_ja": "トムは億万長者だ。",
+    "ex_ja": "トムは<ruby>億<rt>おく</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>長者<rt>ちょうじゃ</rt></ruby>だ。",
     "ex_en": "Tom is a billionaire."
   },
   {
@@ -664,7 +664,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おくじょう",
     "ruby": "<ruby>屋上<rt>おくじょう</rt></ruby>",
     "meaning": "rooftop",
-    "ex_ja": "屋上には猫が歩いている。",
+    "ex_ja": "<ruby>屋上<rt>おくじょう</rt></ruby>には<ruby>猫<rt>ねこ</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている。",
     "ex_en": "A cat is walking on the roof."
   },
   {
@@ -680,7 +680,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おくりもの",
     "ruby": "<ruby>贈り物<rt>おくりもの</rt></ruby>",
     "meaning": "gift",
-    "ex_ja": "贈り物があります。",
+    "ex_ja": "<ruby>贈り物<rt>おくりもの</rt></ruby>があります。",
     "ex_en": "I have some gifts."
   },
   {
@@ -712,7 +712,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おしいれ",
     "ruby": "<ruby>押し入れ<rt>おしいれ</rt></ruby>",
     "meaning": "closet",
-    "ex_ja": "トムは妹を押し入れに閉じ込めた。",
+    "ex_ja": "トムは<ruby>妹<rt>いもうと</rt></ruby>を<ruby>押し入<rt>おしい</rt></ruby>れに<ruby>閉じ込<rt>とじこ</rt></ruby>めた。",
     "ex_en": "Tom locked his sister in the closet."
   },
   {
@@ -728,7 +728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おじょうさん",
     "ruby": "<ruby>お嬢さん<rt>おじょうさん</rt></ruby>",
     "meaning": "young lady",
-    "ex_ja": "お嬢さんのお名前は？",
+    "ex_ja": "お<ruby>嬢<rt>じょう</rt></ruby>さんのお<ruby>名前<rt>なまえ</rt></ruby>は？",
     "ex_en": "What's your daughter's name?"
   },
   {
@@ -744,7 +744,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おたく",
     "ruby": "<ruby>お宅<rt>おたく</rt></ruby>",
     "meaning": "(polite) your house",
-    "ex_ja": "明日お宅に伺います。",
+    "ex_ja": "<ruby>明日<rt>あした</rt></ruby>お<ruby>宅<rt>たく</rt></ruby>に<ruby>伺<rt>うかが</rt></ruby>います。",
     "ex_en": "I'll pay you a visit at your house tomorrow."
   },
   {
@@ -760,7 +760,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おみやげ",
     "ruby": "<ruby>お土産<rt>おみやげ</rt></ruby>",
     "meaning": "souvenir",
-    "ex_ja": "これはお土産です。",
+    "ex_ja": "これはお<ruby>土産<rt>みやげ</rt></ruby>です。",
     "ex_en": "This is a little gift for you."
   },
   {
@@ -776,7 +776,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おもちゃ",
     "ruby": "おもちゃ",
     "meaning": "toy",
-    "ex_ja": "おもちゃ、直して。",
+    "ex_ja": "おもちゃ、<ruby>直<rt>なお</rt></ruby>して。",
     "ex_en": "Fix my toy."
   },
   {
@@ -792,7 +792,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おもて",
     "ruby": "<ruby>表<rt>おもて</rt></ruby>",
     "meaning": "the front",
-    "ex_ja": "いい表現だね。",
+    "ex_ja": "いい<ruby>表現<rt>ひょうげん</rt></ruby>だね。",
     "ex_en": "That's a great way of putting it."
   },
   {
@@ -808,7 +808,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おや",
     "ruby": "<ruby>親<rt>おや</rt></ruby>",
     "meaning": "parents",
-    "ex_ja": "親が払うよ。",
+    "ex_ja": "<ruby>親<rt>おや</rt></ruby>が<ruby>払<rt>はら</rt></ruby>うよ。",
     "ex_en": "My parents will pay for it."
   },
   {
@@ -824,7 +824,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "およぎかた",
     "ruby": "<ruby>泳ぎ方<rt>およぎかた</rt></ruby>",
     "meaning": "way of swimming",
-    "ex_ja": "彼は泳ぎ方を習った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泳ぎ方<rt>およぎかた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>った。",
     "ex_en": "He learned how to swim."
   },
   {
@@ -840,7 +840,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おれい",
     "ruby": "<ruby>お礼<rt>おれい</rt></ruby>",
     "meaning": "expression of gratitude",
-    "ex_ja": "お礼状のカードです。",
+    "ex_ja": "お<ruby>礼状<rt>れいじょう</rt></ruby>のカードです。",
     "ex_en": "These are my thank-you notes."
   },
   {
@@ -856,7 +856,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かいがん",
     "ruby": "<ruby>海岸<rt>かいがん</rt></ruby>",
     "meaning": "coast",
-    "ex_ja": "海岸に行ったよ。",
+    "ex_ja": "<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったよ。",
     "ex_en": "They went to the beach."
   },
   {
@@ -872,7 +872,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かいぎ",
     "ruby": "<ruby>会議<rt>かいぎ</rt></ruby>",
     "meaning": "meeting",
-    "ex_ja": "会議室はどこ？",
+    "ex_ja": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>はどこ？",
     "ex_en": "Where is the meeting room?"
   },
   {
@@ -888,7 +888,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かいぎしつ",
     "ruby": "<ruby>会議室<rt>かいぎしつ</rt></ruby>",
     "meaning": "meeting room",
-    "ex_ja": "会議室はどこ？",
+    "ex_ja": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>はどこ？",
     "ex_en": "Where is the meeting room?"
   },
   {
@@ -904,7 +904,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かいじょう",
     "ruby": "<ruby>会場<rt>かいじょう</rt></ruby>",
     "meaning": "assembly hall or meeting place",
-    "ex_ja": "私たちは会場の後ろに座った。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>たちは<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>座<rt>すわ</rt></ruby>った。",
     "ex_en": "We sat at the back of the hall."
   },
   {
@@ -920,7 +920,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かいわ",
     "ruby": "<ruby>会話<rt>かいわ</rt></ruby>",
     "meaning": "conversation",
-    "ex_ja": "会話に加われば？",
+    "ex_ja": "<ruby>会話<rt>かいわ</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>われば？",
     "ex_en": "Why don't you join in the conversation?"
   },
   {
@@ -936,7 +936,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かがく",
     "ruby": "<ruby>科学<rt>かがく</rt></ruby>",
     "meaning": "science",
-    "ex_ja": "彼は科学者です。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby><ruby>者<rt>しゃ</rt></ruby>です。",
     "ex_en": "He is a scientist."
   },
   {
@@ -952,7 +952,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かがみ",
     "ruby": "<ruby>鏡<rt>かがみ</rt></ruby>",
     "meaning": "mirror",
-    "ex_ja": "目は心の鏡。",
+    "ex_ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。",
     "ex_en": "The eye is the mirror of the soul."
   },
   {
@@ -968,7 +968,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かじ",
     "ruby": "<ruby>火事<rt>かじ</rt></ruby>",
     "meaning": "fire",
-    "ex_ja": "家が火事だ。",
+    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>だ。",
     "ex_en": "The house is on fire!"
   },
   {
@@ -1016,7 +1016,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かたち",
     "ruby": "<ruby>形<rt>かたち</rt></ruby>",
     "meaning": "shape",
-    "ex_ja": "あの人形怖い。",
+    "ex_ja": "あの<ruby>人形<rt>にんぎょう</rt></ruby><ruby>怖<rt>こわ</rt></ruby>い。",
     "ex_en": "That doll is scary."
   },
   {
@@ -1032,7 +1032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かちょう",
     "ruby": "<ruby>課長<rt>かちょう</rt></ruby>",
     "meaning": "section manager",
-    "ex_ja": "彼は課長に昇進した。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>課長<rt>かちょう</rt></ruby>に<ruby>昇進<rt>しょうしん</rt></ruby>した。",
     "ex_en": "He was promoted to section chief."
   },
   {
@@ -1048,7 +1048,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かない",
     "ruby": "<ruby>家内<rt>かない</rt></ruby>",
     "meaning": "housewife",
-    "ex_ja": "家内は医師です。",
+    "ex_ja": "<ruby>家内<rt>かない</rt></ruby>は<ruby>医師<rt>いし</rt></ruby>です。",
     "ex_en": "My wife is a doctor."
   },
   {
@@ -1064,7 +1064,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かならず",
     "ruby": "<ruby>必ず<rt>かならず</rt></ruby>",
     "meaning": "certainly; necessarily",
-    "ex_ja": "必ずやります。",
+    "ex_ja": "<ruby>必<rt>かなら</rt></ruby>ずやります。",
     "ex_en": "I'll do it by all means."
   },
   {
@@ -1096,7 +1096,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かねもち/おかねもち",
     "ruby": "<ruby>お金持ち<rt>かねもち/おかねもち</rt></ruby>",
     "meaning": "rich man",
-    "ex_ja": "お金持ちになりたい。",
+    "ex_ja": "お<ruby>金持<rt>かねも</rt></ruby>ちになりたい。",
     "ex_en": "I want to become rich."
   },
   {
@@ -1112,7 +1112,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かのじょ",
     "ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>",
     "meaning": "she; girlfriend",
-    "ex_ja": "彼女は歩く。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。",
     "ex_en": "She walks."
   },
   {
@@ -1128,7 +1128,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かべ",
     "ruby": "<ruby>壁<rt>かべ</rt></ruby>",
     "meaning": "wall",
-    "ex_ja": "壁に耳あり。",
+    "ex_ja": "<ruby>壁<rt>かべ</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>あり。",
     "ex_en": "The walls have ears."
   },
   {
@@ -1144,7 +1144,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かみ",
     "ruby": "<ruby>髪<rt>かみ</rt></ruby>",
     "meaning": "hair",
-    "ex_ja": "彼は長髪だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>長髪<rt>ちょうはつ</rt></ruby>だ。",
     "ex_en": "He wears his hair long."
   },
   {
@@ -1160,7 +1160,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かれ",
     "ruby": "<ruby>彼<rt>かれ</rt></ruby>",
     "meaning": "he; boyfriend",
-    "ex_ja": "彼女は歩く。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>く。",
     "ex_en": "She walks."
   },
   {
@@ -1176,7 +1176,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かれら",
     "ruby": "<ruby>彼ら<rt>かれら</rt></ruby>",
     "meaning": "they",
-    "ex_ja": "彼らは青い。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>青<rt>あお</rt></ruby>い。",
     "ex_en": "They're green."
   },
   {
@@ -1192,7 +1192,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かんけい",
     "ruby": "<ruby>関係<rt>かんけい</rt></ruby>",
     "meaning": "relationship",
-    "ex_ja": "無関係です。",
+    "ex_ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。",
     "ex_en": "It is nothing to me."
   },
   {
@@ -1208,7 +1208,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かんごふ",
     "ruby": "<ruby>看護婦<rt>かんごふ</rt></ruby>",
     "meaning": "female nurse",
-    "ex_ja": "私は看護婦です。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>看護<rt>かんご</rt></ruby><ruby>婦<rt>ふ</rt></ruby>です。",
     "ex_en": "I'm a nurse."
   },
   {
@@ -1224,7 +1224,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かんたん",
     "ruby": "<ruby>簡単<rt>かんたん</rt></ruby>",
     "meaning": "simple",
-    "ex_ja": "簡単、簡単。",
+    "ex_ja": "<ruby>簡単<rt>かんたん</rt></ruby>、<ruby>簡単<rt>かんたん</rt></ruby>。",
     "ex_en": "It's so easy."
   },
   {
@@ -1240,7 +1240,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "き",
     "ruby": "<ruby>気<rt>き</rt></ruby>",
     "meaning": "spirit; mood",
-    "ex_ja": "本気ですか。",
+    "ex_ja": "<ruby>本気<rt>ほんき</rt></ruby>ですか。",
     "ex_en": "Do you mean what you say?"
   },
   {
@@ -1256,7 +1256,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きかい",
     "ruby": "<ruby>機会<rt>きかい</rt></ruby>",
     "meaning": "opportunity",
-    "ex_ja": "別の機会を待て。",
+    "ex_ja": "<ruby>別<rt>べつ</rt></ruby>の<ruby>機会<rt>きかい</rt></ruby>を<ruby>待<rt>ま</rt></ruby>て。",
     "ex_en": "Wait for a second chance."
   },
   {
@@ -1272,7 +1272,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きけん",
     "ruby": "<ruby>危険<rt>きけん</rt></ruby>",
     "meaning": "danger",
-    "ex_ja": "火は危険です。",
+    "ex_ja": "<ruby>火<rt>ひ</rt></ruby>は<ruby>危険<rt>きけん</rt></ruby>です。",
     "ex_en": "Fire is dangerous."
   },
   {
@@ -1288,7 +1288,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きしゃ",
     "ruby": "<ruby>汽車<rt>きしゃ</rt></ruby>",
     "meaning": "steam train",
-    "ex_ja": "汽車が脱線した。",
+    "ex_ja": "<ruby>汽車<rt>きしゃ</rt></ruby>が<ruby>脱線<rt>だっせん</rt></ruby>した。",
     "ex_en": "The train was derailed."
   },
   {
@@ -1304,7 +1304,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きせつ",
     "ruby": "<ruby>季節<rt>きせつ</rt></ruby>",
     "meaning": "season",
-    "ex_ja": "春は楽しい季節だ。",
+    "ex_ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しい<ruby>季節<rt>きせつ</rt></ruby>だ。",
     "ex_en": "Spring is a delightful season."
   },
   {
@@ -1320,7 +1320,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きそく",
     "ruby": "<ruby>規則<rt>きそく</rt></ruby>",
     "meaning": "regulations",
-    "ex_ja": "規則に逆らうな。",
+    "ex_ja": "<ruby>規則<rt>きそく</rt></ruby>に<ruby>逆<rt>さか</rt></ruby>らうな。",
     "ex_en": "Don't go against the rules."
   },
   {
@@ -1336,7 +1336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きぬ",
     "ruby": "<ruby>絹<rt>きぬ</rt></ruby>",
     "meaning": "silk",
-    "ex_ja": "絹は高価なんだよ。",
+    "ex_ja": "<ruby>絹<rt>きぬ</rt></ruby>は<ruby>高価<rt>こうか</rt></ruby>なんだよ。",
     "ex_en": "Silk is expensive."
   },
   {
@@ -1352,7 +1352,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きぶん",
     "ruby": "<ruby>気分<rt>きぶん</rt></ruby>",
     "meaning": "mood",
-    "ex_ja": "気分が悪い。",
+    "ex_ja": "<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い。",
     "ex_en": "I'm feeling sick."
   },
   {
@@ -1368,7 +1368,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きみ",
     "ruby": "<ruby>君<rt>きみ</rt></ruby>",
     "meaning": "(informal) You (used by men towards women)",
-    "ex_ja": "君次第だよ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby><ruby>次第<rt>しだい</rt></ruby>だよ。",
     "ex_en": "It's up to you."
   },
   {
@@ -1384,7 +1384,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きもち",
     "ruby": "<ruby>気持ち<rt>きもち</rt></ruby>",
     "meaning": "feeling; mood",
-    "ex_ja": "気持ち悪い！",
+    "ex_ja": "<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>い！",
     "ex_en": "Gross!"
   },
   {
@@ -1400,7 +1400,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きもの",
     "ruby": "<ruby>着物<rt>きもの</rt></ruby>",
     "meaning": "kimono",
-    "ex_ja": "着物は着ますか。",
+    "ex_ja": "<ruby>着物<rt>きもの</rt></ruby>は<ruby>着<rt>き</rt></ruby>ますか。",
     "ex_en": "Do you wear a kimono?"
   },
   {
@@ -1416,7 +1416,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きゃく",
     "ruby": "<ruby>客<rt>きゃく</rt></ruby>",
     "meaning": "guest; customer",
-    "ex_ja": "トムは客だ。",
+    "ex_ja": "トムは<ruby>客<rt>きゃく</rt></ruby>だ。",
     "ex_en": "Tom is a guest."
   },
   {
@@ -1432,7 +1432,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きゅう",
     "ruby": "<ruby>急<rt>きゅう</rt></ruby>",
     "meaning": "urgent; steep",
-    "ex_ja": "急がば回れ。",
+    "ex_ja": "<ruby>急<rt>いそ</rt></ruby>がば<ruby>回<rt>まわ</rt></ruby>れ。",
     "ex_en": "More haste, less speed."
   },
   {
@@ -1448,7 +1448,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きゅうこう",
     "ruby": "<ruby>急行<rt>きゅうこう</rt></ruby>",
     "meaning": "speedy; express",
-    "ex_ja": "これは急行ですか。",
+    "ex_ja": "これは<ruby>急行<rt>きゅうこう</rt></ruby>ですか。",
     "ex_en": "Is this an express?"
   },
   {
@@ -1464,7 +1464,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きょういく",
     "ruby": "<ruby>教育<rt>きょういく</rt></ruby>",
     "meaning": "education",
-    "ex_ja": "彼は教育畑で育った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>教育<rt>きょういく</rt></ruby><ruby>畑<rt>はたけ</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>った。",
     "ex_en": "He has had a long teaching career."
   },
   {
@@ -1480,7 +1480,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きょうかい",
     "ruby": "<ruby>教会<rt>きょうかい</rt></ruby>",
     "meaning": "church",
-    "ex_ja": "あれは教会です。",
+    "ex_ja": "あれは<ruby>教会<rt>きょうかい</rt></ruby>です。",
     "ex_en": "That's a church."
   },
   {
@@ -1496,7 +1496,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きょうそう",
     "ruby": "<ruby>競争<rt>きょうそう</rt></ruby>",
     "meaning": "competition",
-    "ex_ja": "私は彼と競争した。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>と<ruby>競争<rt>きょうそう</rt></ruby>した。",
     "ex_en": "I had a race with him."
   },
   {
@@ -1512,7 +1512,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きょうみ",
     "ruby": "<ruby>興味<rt>きょうみ</rt></ruby>",
     "meaning": "an interest",
-    "ex_ja": "興味ないわ。",
+    "ex_ja": "<ruby>興味<rt>きょうみ</rt></ruby>ないわ。",
     "ex_en": "I'm not interested."
   },
   {
@@ -1528,7 +1528,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きんじょ",
     "ruby": "<ruby>近所<rt>きんじょ</rt></ruby>",
     "meaning": "neighbourhood",
-    "ex_ja": "近所の人よ。",
+    "ex_ja": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>よ。",
     "ex_en": "He's my neighbour."
   },
   {
@@ -1544,7 +1544,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぎじゅつ",
     "ruby": "<ruby>技術<rt>ぎじゅつ</rt></ruby>",
     "meaning": "art; technology; skill",
-    "ex_ja": "バカみたいな技術だな。",
+    "ex_ja": "バカみたいな<ruby>技術<rt>ぎじゅつ</rt></ruby>だな。",
     "ex_en": "It seems to be a stupid piece of technology."
   },
   {
@@ -1560,7 +1560,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くうき",
     "ruby": "<ruby>空気<rt>くうき</rt></ruby>",
     "meaning": "air; atmosphere",
-    "ex_ja": "空気読めない。",
+    "ex_ja": "<ruby>空気<rt>くうき</rt></ruby><ruby>読<rt>よ</rt></ruby>めない。",
     "ex_en": "Unable to sense the situation."
   },
   {
@@ -1576,7 +1576,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くうこう",
     "ruby": "<ruby>空港<rt>くうこう</rt></ruby>",
     "meaning": "airport",
-    "ex_ja": "空港まで行く。",
+    "ex_ja": "<ruby>空港<rt>くうこう</rt></ruby>まで<ruby>行<rt>い</rt></ruby>く。",
     "ex_en": "I'm going as far as the airport."
   },
   {
@@ -1592,7 +1592,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くさ",
     "ruby": "<ruby>草<rt>くさ</rt></ruby>",
     "meaning": "grass",
-    "ex_ja": "草草の草ァ！",
+    "ex_ja": "<ruby>草草<rt>そうそう</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>ァ！",
     "ex_en": "LOLOLOLOL!"
   },
   {
@@ -1608,7 +1608,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くび",
     "ruby": "<ruby>首<rt>くび</rt></ruby>",
     "meaning": "neck",
-    "ex_ja": "おまえは首だ。",
+    "ex_ja": "おまえは<ruby>首<rt>くび</rt></ruby>だ。",
     "ex_en": "You're fired."
   },
   {
@@ -1624,7 +1624,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くも",
     "ruby": "<ruby>雲<rt>くも</rt></ruby>",
     "meaning": "cloud",
-    "ex_ja": "雲って、何色？",
+    "ex_ja": "<ruby>雲<rt>くも</rt></ruby>って、<ruby>何<rt>なに</rt></ruby><ruby>色<rt>しょく</rt></ruby>？",
     "ex_en": "What colour is the cloud?"
   },
   {
@@ -1640,7 +1640,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぐあい",
     "ruby": "<ruby>具合<rt>ぐあい</rt></ruby>",
     "meaning": "condition; health",
-    "ex_ja": "具合悪いの？",
+    "ex_ja": "<ruby>具合<rt>ぐあい</rt></ruby><ruby>悪<rt>わる</rt></ruby>いの？",
     "ex_en": "Are you feeling under the weather?"
   },
   {
@@ -1656,7 +1656,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "け",
     "ruby": "<ruby>毛<rt>け</rt></ruby>",
     "meaning": "hair or fur",
-    "ex_ja": "はい、毛布。",
+    "ex_ja": "はい、<ruby>毛布<rt>もうふ</rt></ruby>。",
     "ex_en": "Here is a blanket."
   },
   {
@@ -1672,7 +1672,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けいかくする",
     "ruby": "<ruby>計画<rt>けいかくする</rt></ruby>",
     "meaning": "to plan",
-    "ex_ja": "計画はできた。",
+    "ex_ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。",
     "ex_en": "Our plan is made."
   },
   {
@@ -1688,7 +1688,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けいけんする",
     "ruby": "<ruby>経験<rt>けいけんする</rt></ruby>",
     "meaning": "to experience",
-    "ex_ja": "彼は経験不足だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>だ。",
     "ex_en": "He is lacking in experience."
   },
   {
@@ -1704,7 +1704,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けいさつ",
     "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>",
     "meaning": "police",
-    "ex_ja": "警察を呼べ！",
+    "ex_ja": "<ruby>警察<rt>けいさつ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>べ！",
     "ex_en": "Call the police!"
   },
   {
@@ -1720,7 +1720,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けいざい",
     "ruby": "<ruby>経済<rt>けいざい</rt></ruby>",
     "meaning": "finance; economy",
-    "ex_ja": "彼は経済の専門家だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経済<rt>けいざい</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>だ。",
     "ex_en": "He is an expert in economics."
   },
   {
@@ -1752,7 +1752,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けしき",
     "ruby": "<ruby>景色<rt>けしき</rt></ruby>",
     "meaning": "scene; landscape",
-    "ex_ja": "見事な景色だ。",
+    "ex_ja": "<ruby>見事<rt>みごと</rt></ruby>な<ruby>景色<rt>けしき</rt></ruby>だ。",
     "ex_en": "The view is breathtaking."
   },
   {
@@ -1768,7 +1768,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けしゴム",
     "ruby": "<ruby>消しゴム<rt>けしゴム</rt></ruby>",
     "meaning": "eraser",
-    "ex_ja": "消しゴム返してよ。",
+    "ex_ja": "<ruby>消しゴム<rt>けしごむ</rt></ruby><ruby>返<rt>かえ</rt></ruby>してよ。",
     "ex_en": "Give me back my eraser."
   },
   {
@@ -1784,7 +1784,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けっして",
     "ruby": "<ruby>決して<rt>けっして</rt></ruby>",
     "meaning": "never",
-    "ex_ja": "決して放さないで。",
+    "ex_ja": "<ruby>決<rt>けっ</rt></ruby>して<ruby>放<rt>はな</rt></ruby>さないで。",
     "ex_en": "Never let me go."
   },
   {
@@ -1864,7 +1864,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けんきゅう",
     "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>",
     "meaning": "research",
-    "ex_ja": "彼は研究に夢中だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>夢中<rt>むちゅう</rt></ruby>だ。",
     "ex_en": "His study absorbs him."
   },
   {
@@ -1880,7 +1880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けんきゅうしつ",
     "ruby": "<ruby>研究室<rt>けんきゅうしつ</rt></ruby>",
     "meaning": "study room; laboratory",
-    "ex_ja": "研究室に戻りなさい。",
+    "ex_ja": "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>りなさい。",
     "ex_en": "Go back to the lab."
   },
   {
@@ -1896,7 +1896,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けんぶつ",
     "ruby": "<ruby>見物<rt>けんぶつ</rt></ruby>",
     "meaning": "sightseeing",
-    "ex_ja": "町中見物でもするか？",
+    "ex_ja": "<ruby>町中<rt>まちなか</rt></ruby><ruby>見物<rt>けんぶつ</rt></ruby>でもするか？",
     "ex_en": "Shall we go sightseeing around town?"
   },
   {
@@ -1912,7 +1912,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "げしゅく",
     "ruby": "<ruby>下宿<rt>げしゅく</rt></ruby>",
     "meaning": "lodging",
-    "ex_ja": "私は下宿しています。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>下宿<rt>げしゅく</rt></ruby>しています。",
     "ex_en": "I live in a rooming house."
   },
   {
@@ -1928,7 +1928,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "げんいん",
     "ruby": "<ruby>原因<rt>げんいん</rt></ruby>",
     "meaning": "cause; source",
-    "ex_ja": "何が原因ですか。",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>ですか。",
     "ex_en": "What's the cause?"
   },
   {
@@ -1944,7 +1944,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こ",
     "ruby": "<ruby>子<rt>こ</rt></ruby>",
     "meaning": "child",
-    "ex_ja": "花より団子。",
+    "ex_ja": "<ruby>花<rt>はな</rt></ruby>より<ruby>団子<rt>だんご</rt></ruby>。",
     "ex_en": "A loaf of bread is better than the songs of birds."
   },
   {
@@ -1960,7 +1960,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうがい",
     "ruby": "<ruby>郊外<rt>こうがい</rt></ruby>",
     "meaning": "outskirts",
-    "ex_ja": "私の家は郊外にある。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は<ruby>郊外<rt>こうがい</rt></ruby>にある。",
     "ex_en": "My house is in the suburbs."
   },
   {
@@ -1976,7 +1976,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうぎ",
     "ruby": "<ruby>講義<rt>こうぎ</rt></ruby>",
     "meaning": "lecture",
-    "ex_ja": "文学の講義をする。",
+    "ex_ja": "<ruby>文学<rt>ぶんがく</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>をする。",
     "ex_en": "I will lecture on literature."
   },
   {
@@ -1992,7 +1992,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうぎょう",
     "ruby": "<ruby>工業<rt>こうぎょう</rt></ruby>",
     "meaning": "the manufacturing industry",
-    "ex_ja": "工業都市です。",
+    "ex_ja": "<ruby>工業<rt>こうぎょう</rt></ruby><ruby>都市<rt>とし</rt></ruby>です。",
     "ex_en": "It's an industrial city."
   },
   {
@@ -2008,7 +2008,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうこう",
     "ruby": "<ruby>高校<rt>こうこう</rt></ruby>",
     "meaning": "high school",
-    "ex_ja": "高校生なの？",
+    "ex_ja": "<ruby>高校生<rt>こうこうせい</rt></ruby>なの？",
     "ex_en": "Are you a high school student?"
   },
   {
@@ -2040,7 +2040,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうこうせい",
     "ruby": "<ruby>高校生<rt>こうこうせい</rt></ruby>",
     "meaning": "high school student",
-    "ex_ja": "高校生なの？",
+    "ex_ja": "<ruby>高校生<rt>こうこうせい</rt></ruby>なの？",
     "ex_en": "Are you a high school student?"
   },
   {
@@ -2056,7 +2056,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうじょう",
     "ruby": "<ruby>工場<rt>こうじょう</rt></ruby>",
     "meaning": "factory",
-    "ex_ja": "彼らは工場で働いた。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いた。",
     "ex_en": "They labored in the factories."
   },
   {
@@ -2072,7 +2072,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうちょう",
     "ruby": "<ruby>校長<rt>こうちょう</rt></ruby>",
     "meaning": "headmaster",
-    "ex_ja": "彼は校長が嫌いだ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>校長<rt>こうちょう</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いだ。",
     "ex_en": "He dislikes the principal."
   },
   {
@@ -2088,7 +2088,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうつう",
     "ruby": "<ruby>交通<rt>こうつう</rt></ruby>",
     "meaning": "traffic; transportation",
-    "ex_ja": "交通量は少なかった。",
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby><ruby>量<rt>りょう</rt></ruby>は<ruby>少<rt>すく</rt></ruby>なかった。",
     "ex_en": "Traffic was light."
   },
   {
@@ -2104,7 +2104,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうとうがっこう",
     "ruby": "<ruby>高等学校<rt>こうとうがっこう</rt></ruby>",
     "meaning": "high school",
-    "ex_ja": "彼は高等学校の生徒ではありません。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>高等<rt>こうとう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>ではありません。",
     "ex_en": "He is not a high school student."
   },
   {
@@ -2120,7 +2120,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうどう",
     "ruby": "<ruby>講堂<rt>こうどう</rt></ruby>",
     "meaning": "auditorium",
-    "ex_ja": "その教師は講堂に学生を集めた。",
+    "ex_ja": "その<ruby>教師<rt>きょうし</rt></ruby>は<ruby>講堂<rt>こうどう</rt></ruby>に<ruby>学生<rt>がくせい</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた。",
     "ex_en": "The teacher assembled the students in the hall."
   },
   {
@@ -2136,7 +2136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こうむいん",
     "ruby": "<ruby>公務員<rt>こうむいん</rt></ruby>",
     "meaning": "government worker",
-    "ex_ja": "私は公務員です。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>公務員<rt>こうむいん</rt></ruby>です。",
     "ex_en": "I'm a government worker."
   },
   {
@@ -2152,7 +2152,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こくさい",
     "ruby": "<ruby>国際<rt>こくさい</rt></ruby>",
     "meaning": "international",
-    "ex_ja": "国際語は必要ですか？",
+    "ex_ja": "<ruby>国際<rt>こくさい</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>ですか？",
     "ex_en": "Do we need a universal language?"
   },
   {
@@ -2168,7 +2168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こころ",
     "ruby": "<ruby>心<rt>こころ</rt></ruby>",
     "meaning": "core; heart",
-    "ex_ja": "目は心の鏡。",
+    "ex_ja": "<ruby>目<rt>め</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>。",
     "ex_en": "The eye is the mirror of the soul."
   },
   {
@@ -2184,7 +2184,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こしょうする",
     "ruby": "<ruby>故障<rt>こしょうする</rt></ruby>",
     "meaning": "to break-down",
-    "ex_ja": "テレビが故障した。",
+    "ex_ja": "テレビが<ruby>故障<rt>こしょう</rt></ruby>した。",
     "ex_en": "My TV has broken down."
   },
   {
@@ -2200,7 +2200,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こたえ",
     "ruby": "<ruby>答<rt>こたえ</rt></ruby>",
     "meaning": "response",
-    "ex_ja": "何問答えた？",
+    "ex_ja": "<ruby>何<rt>なん</rt></ruby><ruby>問<rt>もん</rt></ruby><ruby>答<rt>こた</rt></ruby>えた？",
     "ex_en": "How many questions did you answer?"
   },
   {
@@ -2232,7 +2232,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "このごろ",
     "ruby": "このごろ",
     "meaning": "these days; nowadays",
-    "ex_ja": "このごろ暖かい日が多い。",
+    "ex_ja": "このごろ<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
     "ex_en": "Recently we have had many mild days."
   },
   {
@@ -2248,7 +2248,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こめ",
     "ruby": "<ruby>米<rt>こめ</rt></ruby>",
     "meaning": "uncooked rice",
-    "ex_ja": "米を煮なさい。",
+    "ex_ja": "<ruby>米<rt>こめ</rt></ruby>を<ruby>煮<rt>に</rt></ruby>なさい。",
     "ex_en": "Cook the rice."
   },
   {
@@ -2264,7 +2264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "これから",
     "ruby": "これから",
     "meaning": "after this",
-    "ex_ja": "これから帰ります。",
+    "ex_ja": "これから<ruby>帰<rt>かえ</rt></ruby>ります。",
     "ex_en": "I'm going home now."
   },
   {
@@ -2280,7 +2280,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こんど",
     "ruby": "<ruby>今度<rt>こんど</rt></ruby>",
     "meaning": "now; next time",
-    "ex_ja": "また、今度な！",
+    "ex_ja": "また、<ruby>今度<rt>こんど</rt></ruby>な！",
     "ex_en": "Maybe next time!"
   },
   {
@@ -2296,7 +2296,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こんや",
     "ruby": "<ruby>今夜<rt>こんや</rt></ruby>",
     "meaning": "tonight",
-    "ex_ja": "今夜会える？",
+    "ex_ja": "<ruby>今夜<rt>こんや</rt></ruby><ruby>会<rt>あ</rt></ruby>える？",
     "ex_en": "Can you meet tonight?"
   },
   {
@@ -2344,7 +2344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ごぞんじ",
     "ruby": "<ruby>ご存じ<rt>ごぞんじ</rt></ruby>",
     "meaning": "knowing; acquaintance",
-    "ex_ja": "ご存じだった？",
+    "ex_ja": "ご<ruby>存<rt>ぞん</rt></ruby>じだった？",
     "ex_en": "Were you aware of this?"
   },
   {
@@ -2360,7 +2360,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ごみ",
     "ruby": "ごみ",
     "meaning": "rubbish",
-    "ex_ja": "人ごみは大嫌い。",
+    "ex_ja": "<ruby>人<rt>ひと</rt></ruby>ごみは<ruby>大嫌<rt>だいきら</rt></ruby>い。",
     "ex_en": "I hate it when there are a lot of people."
   },
   {
@@ -2376,7 +2376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さいきん",
     "ruby": "<ruby>最近<rt>さいきん</rt></ruby>",
     "meaning": "latest; nowadays",
-    "ex_ja": "最近どうだ？",
+    "ex_ja": "<ruby>最近<rt>さいきん</rt></ruby>どうだ？",
     "ex_en": "How have you been recently?"
   },
   {
@@ -2392,7 +2392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さいご",
     "ruby": "<ruby>最後<rt>さいご</rt></ruby>",
     "meaning": "last; end",
-    "ex_ja": "それで最後だ！",
+    "ex_ja": "それで<ruby>最後<rt>さいご</rt></ruby>だ！",
     "ex_en": "That's the last straw!"
   },
   {
@@ -2408,7 +2408,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さいしょ",
     "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>",
     "meaning": "beginning; first",
-    "ex_ja": "彼が最初に来た。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>来<rt>き</rt></ruby>た。",
     "ex_en": "He was the first to come."
   },
   {
@@ -2424,7 +2424,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さか",
     "ruby": "<ruby>坂<rt>さか</rt></ruby>",
     "meaning": "slope; hill",
-    "ex_ja": "その坂道を下ろう。",
+    "ex_ja": "その<ruby>坂道<rt>さかみち</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>ろう。",
     "ex_en": "Let's descend the slope."
   },
   {
@@ -2440,7 +2440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さかん",
     "ruby": "<ruby>盛ん<rt>さかん</rt></ruby>",
     "meaning": "popularity; prosperous",
-    "ex_ja": "彼は盛んにしている。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>盛<rt>さか</rt></ruby>んにしている。",
     "ex_en": "He is still fully active."
   },
   {
@@ -2456,7 +2456,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さっき",
     "ruby": "さっき",
     "meaning": "some time ago",
-    "ex_ja": "さっき何かあった？",
+    "ex_ja": "さっき<ruby>何<rt>なに</rt></ruby>かあった？",
     "ex_en": "Did something happen earlier?"
   },
   {
@@ -2504,7 +2504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さわぐ",
     "ruby": "<ruby>騒ぐ<rt>さわぐ</rt></ruby>",
     "meaning": "to make noise; to be excited",
-    "ex_ja": "そんなに騒ぐな。",
+    "ex_ja": "そんなに<ruby>騒<rt>さわ</rt></ruby>ぐな。",
     "ex_en": "Don't make so much noise."
   },
   {
@@ -2520,7 +2520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さんぎょう",
     "ruby": "<ruby>産業<rt>さんぎょう</rt></ruby>",
     "meaning": "industry",
-    "ex_ja": "日本は産業国である。",
+    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>産業<rt>さんぎょう</rt></ruby><ruby>国<rt>こく</rt></ruby>である。",
     "ex_en": "Japan is an industrial country."
   },
   {
@@ -2536,7 +2536,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ざんねん",
     "ruby": "<ruby>残念<rt>ざんねん</rt></ruby>",
     "meaning": "disappointment",
-    "ex_ja": "残念ですが。",
+    "ex_ja": "<ruby>残念<rt>ざんねん</rt></ruby>ですが。",
     "ex_en": "That's too bad."
   },
   {
@@ -2552,7 +2552,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "し",
     "ruby": "<ruby>市<rt>し</rt></ruby>",
     "meaning": "city",
-    "ex_ja": "市場に行く。",
+    "ex_ja": "<ruby>市場<rt>しじょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く。",
     "ex_en": "I will go to the market."
   },
   {
@@ -2568,7 +2568,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しあい",
     "ruby": "<ruby>試合<rt>しあい</rt></ruby>",
     "meaning": "match; game",
-    "ex_ja": "その試合見た？",
+    "ex_ja": "その<ruby>試合<rt>しあい</rt></ruby><ruby>見<rt>み</rt></ruby>た？",
     "ex_en": "Did you watch the game?"
   },
   {
@@ -2584,7 +2584,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しかた",
     "ruby": "<ruby>仕方<rt>しかた</rt></ruby>",
     "meaning": "method",
-    "ex_ja": "仕方がないよ。",
+    "ex_ja": "<ruby>仕方<rt>しかた</rt></ruby>がないよ。",
     "ex_en": "It can't be helped."
   },
   {
@@ -2600,7 +2600,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しけん",
     "ruby": "<ruby>試験<rt>しけん</rt></ruby>",
     "meaning": "examination",
-    "ex_ja": "来週は試験だ。",
+    "ex_ja": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だ。",
     "ex_en": "The exam is coming up next week."
   },
   {
@@ -2616,7 +2616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "したぎ",
     "ruby": "<ruby>下着<rt>したぎ</rt></ruby>",
     "meaning": "underwear",
-    "ex_ja": "トムは下着姿だった。",
+    "ex_ja": "トムは<ruby>下着<rt>したぎ</rt></ruby><ruby>姿<rt>すがた</rt></ruby>だった。",
     "ex_en": "Tom was in his underwear."
   },
   {
@@ -2632,7 +2632,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "したくする",
     "ruby": "<ruby>支度<rt>したくする</rt></ruby>",
     "meaning": "to prepare",
-    "ex_ja": "冬支度は万端です！",
+    "ex_ja": "<ruby>冬<rt>ふゆ</rt></ruby><ruby>支度<rt>じたく</rt></ruby>は<ruby>万端<rt>ばんたん</rt></ruby>です！",
     "ex_en": "Winter preparations are all complete."
   },
   {
@@ -2648,7 +2648,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しっぱい",
     "ruby": "<ruby>失敗<rt>しっぱい</rt></ruby>",
     "meaning": "failure; mistake",
-    "ex_ja": "失敗するよ。",
+    "ex_ja": "<ruby>失敗<rt>しっぱい</rt></ruby>するよ。",
     "ex_en": "You will fail."
   },
   {
@@ -2680,7 +2680,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しなもの",
     "ruby": "<ruby>品物<rt>しなもの</rt></ruby>",
     "meaning": "goods",
-    "ex_ja": "この品物は安い。",
+    "ex_ja": "この<ruby>品物<rt>しなもの</rt></ruby>は<ruby>安<rt>やす</rt></ruby>い。",
     "ex_en": "This article is cheap."
   },
   {
@@ -2696,7 +2696,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しま",
     "ruby": "<ruby>島<rt>しま</rt></ruby>",
     "meaning": "island",
-    "ex_ja": "日本は島国だ。",
+    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>島国<rt>しまぐに</rt></ruby>だ。",
     "ex_en": "Japan is an island country."
   },
   {
@@ -2712,7 +2712,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しみん",
     "ruby": "<ruby>市民<rt>しみん</rt></ruby>",
     "meaning": "citizen",
-    "ex_ja": "私は札幌市民です。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>札幌<rt>さっぽろ</rt></ruby><ruby>市民<rt>しみん</rt></ruby>です。",
     "ex_en": "I am a citizen of Sapporo."
   },
   {
@@ -2728,7 +2728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゃかい",
     "ruby": "<ruby>社会<rt>しゃかい</rt></ruby>",
     "meaning": "society; public",
-    "ex_ja": "暴力は社会のガンだ。",
+    "ex_ja": "<ruby>暴力<rt>ぼうりょく</rt></ruby>は<ruby>社会<rt>しゃかい</rt></ruby>のガンだ。",
     "ex_en": "Violence is the cancer of our society."
   },
   {
@@ -2744,7 +2744,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゃちょう",
     "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>",
     "meaning": "company president",
-    "ex_ja": "社長は外出中です。",
+    "ex_ja": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>です。",
     "ex_en": "The president is out now."
   },
   {
@@ -2760,7 +2760,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゅうかん",
     "ruby": "<ruby>習慣<rt>しゅうかん</rt></ruby>",
     "meaning": "custom; manners",
-    "ex_ja": "習慣化しました。",
+    "ex_ja": "<ruby>習慣<rt>しゅうかん</rt></ruby><ruby>化<rt>か</rt></ruby>しました。",
     "ex_en": "It became a habit."
   },
   {
@@ -2776,7 +2776,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゅっせきする",
     "ruby": "<ruby>出席<rt>しゅっせきする</rt></ruby>",
     "meaning": "to attend",
-    "ex_ja": "出席します。",
+    "ex_ja": "<ruby>出席<rt>しゅっせき</rt></ruby>します。",
     "ex_en": "I will join it!"
   },
   {
@@ -2792,7 +2792,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゅっぱつする",
     "ruby": "<ruby>出発<rt>しゅっぱつする</rt></ruby>",
     "meaning": "to depart",
-    "ex_ja": "早く出発しよう。",
+    "ex_ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>出発<rt>しゅっぱつ</rt></ruby>しよう。",
     "ex_en": "Let's start early, shall we?"
   },
   {
@@ -2808,7 +2808,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しゅみ",
     "ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>",
     "meaning": "hobby",
-    "ex_ja": "彼は多趣味だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多趣味<rt>たしゅみ</rt></ruby>だ。",
     "ex_en": "He has a lot of hobbies."
   },
   {
@@ -2824,7 +2824,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうかい",
     "ruby": "<ruby>紹介<rt>しょうかい</rt></ruby>",
     "meaning": "introduction",
-    "ex_ja": "紹介ありがとう。",
+    "ex_ja": "<ruby>紹介<rt>しょうかい</rt></ruby>ありがとう。",
     "ex_en": "Thank you for your referral."
   },
   {
@@ -2840,7 +2840,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうがっこう",
     "ruby": "<ruby>小学校<rt>しょうがっこう</rt></ruby>",
     "meaning": "elementary school",
-    "ex_ja": "君、小学校に行ってるの？",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってるの？",
     "ex_en": "Do you go to an elementary school?"
   },
   {
@@ -2872,7 +2872,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうせつ",
     "ruby": "<ruby>小説<rt>しょうせつ</rt></ruby>",
     "meaning": "novel",
-    "ex_ja": "小説家になるよ。",
+    "ex_ja": "<ruby>小説<rt>しょうせつ</rt></ruby><ruby>家<rt>か</rt></ruby>になるよ。",
     "ex_en": "I'll be a novelist."
   },
   {
@@ -2888,7 +2888,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうたいする",
     "ruby": "<ruby>招待<rt>しょうたいする</rt></ruby>",
     "meaning": "to invite",
-    "ex_ja": "招待された？",
+    "ex_ja": "<ruby>招待<rt>しょうたい</rt></ruby>された？",
     "ex_en": "Were you invited?"
   },
   {
@@ -2904,7 +2904,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうちする",
     "ruby": "<ruby>承知<rt>しょうちする</rt></ruby>",
     "meaning": "to consent",
-    "ex_ja": "承知しました。",
+    "ex_ja": "<ruby>承知<rt>しょうち</rt></ruby>しました。",
     "ex_en": "All right."
   },
   {
@@ -2920,7 +2920,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょうらい",
     "ruby": "<ruby>将来<rt>しょうらい</rt></ruby>",
     "meaning": "future; prospects",
-    "ex_ja": "将来に備えよ。",
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えよ。",
     "ex_en": "Prepare yourself for the future."
   },
   {
@@ -2936,7 +2936,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょくじする",
     "ruby": "<ruby>食事<rt>しょくじする</rt></ruby>",
     "meaning": "to have a meal",
-    "ex_ja": "食事ですよ。",
+    "ex_ja": "<ruby>食事<rt>しょくじ</rt></ruby>ですよ。",
     "ex_en": "Dinner's ready."
   },
   {
@@ -2952,7 +2952,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しょくりょうひん",
     "ruby": "<ruby>食料品<rt>しょくりょうひん</rt></ruby>",
     "meaning": "groceries",
-    "ex_ja": "食料品買わなくちゃ。",
+    "ex_ja": "<ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby><ruby>買<rt>か</rt></ruby>わなくちゃ。",
     "ex_en": "I need to buy some groceries."
   },
   {
@@ -2968,7 +2968,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しんせつ",
     "ruby": "<ruby>親切<rt>しんせつ</rt></ruby>",
     "meaning": "kindness",
-    "ex_ja": "彼女は親切だ。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>だ。",
     "ex_en": "She is kind."
   },
   {
@@ -2984,7 +2984,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しんぱいする",
     "ruby": "<ruby>心配<rt>しんぱいする</rt></ruby>",
     "meaning": "to worry",
-    "ex_ja": "心配するな。",
+    "ex_ja": "<ruby>心配<rt>しんぱい</rt></ruby>するな。",
     "ex_en": "Don't worry about it!"
   },
   {
@@ -3000,7 +3000,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しんぶんしゃ",
     "ruby": "<ruby>新聞社<rt>しんぶんしゃ</rt></ruby>",
     "meaning": "newspaper company",
-    "ex_ja": "どちらの新聞社にお勤めですか。",
+    "ex_ja": "どちらの<ruby>新聞<rt>しんぶん</rt></ruby><ruby>社<rt>しゃ</rt></ruby>にお<ruby>勤<rt>つと</rt></ruby>めですか。",
     "ex_en": "Which newspaper do you work for?"
   },
   {
@@ -3016,7 +3016,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じ",
     "ruby": "<ruby>字<rt>じ</rt></ruby>",
     "meaning": "character",
-    "ex_ja": "商売は赤字だ。",
+    "ex_ja": "<ruby>商売<rt>しょうばい</rt></ruby>は<ruby>赤字<rt>あかじ</rt></ruby>だ。",
     "ex_en": "The business is in the red."
   },
   {
@@ -3032,7 +3032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じこ",
     "ruby": "<ruby>事故<rt>じこ</rt></ruby>",
     "meaning": "accident",
-    "ex_ja": "事故があった。",
+    "ex_ja": "<ruby>事故<rt>じこ</rt></ruby>があった。",
     "ex_en": "There's been an accident."
   },
   {
@@ -3048,7 +3048,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じしん",
     "ruby": "<ruby>地震<rt>じしん</rt></ruby>",
     "meaning": "earthquake",
-    "ex_ja": "地震だった？",
+    "ex_ja": "<ruby>地震<rt>じしん</rt></ruby>だった？",
     "ex_en": "Was it an earthquake?"
   },
   {
@@ -3064,7 +3064,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じだい",
     "ruby": "<ruby>時代<rt>じだい</rt></ruby>",
     "meaning": "era",
-    "ex_ja": "彼の服は時代遅れだ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>は<ruby>時代遅<rt>じだいおく</rt></ruby>れだ。",
     "ex_en": "His clothes are out of fashion."
   },
   {
@@ -3080,7 +3080,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じてん",
     "ruby": "<ruby>辞典<rt>じてん</rt></ruby>",
     "meaning": "dictionary",
-    "ex_ja": "トムは中日辞典を買った。",
+    "ex_ja": "トムは<ruby>中日<rt>ちゅうにち</rt></ruby><ruby>辞典<rt>じてん</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。",
     "ex_en": "Tom bought a Chinese-Japanese dictionary."
   },
   {
@@ -3096,7 +3096,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じむしょ",
     "ruby": "<ruby>事務所<rt>じむしょ</rt></ruby>",
     "meaning": "office",
-    "ex_ja": "事務所にいます。",
+    "ex_ja": "<ruby>事務所<rt>じむしょ</rt></ruby>にいます。",
     "ex_en": "I'm in my office."
   },
   {
@@ -3128,7 +3128,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じゅうしょ",
     "ruby": "<ruby>住所<rt>じゅうしょ</rt></ruby>",
     "meaning": "an address; a residence",
-    "ex_ja": "これが住所です。",
+    "ex_ja": "これが<ruby>住所<rt>じゅうしょ</rt></ruby>です。",
     "ex_en": "Here's the address."
   },
   {
@@ -3144,7 +3144,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じゅうどう",
     "ruby": "<ruby>柔道<rt>じゅうどう</rt></ruby>",
     "meaning": "judo",
-    "ex_ja": "柔道を練習しています。",
+    "ex_ja": "<ruby>柔道<rt>じゅうどう</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>しています。",
     "ex_en": "I'm practising judo."
   },
   {
@@ -3160,7 +3160,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じゅうぶん",
     "ruby": "<ruby>十分<rt>じゅうぶん</rt></ruby>",
     "meaning": "enough",
-    "ex_ja": "もう十分よ！",
+    "ex_ja": "もう<ruby>十分<rt>じゅうぶん</rt></ruby>よ！",
     "ex_en": "Enough!"
   },
   {
@@ -3176,7 +3176,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じゅんびする",
     "ruby": "<ruby>準備<rt>じゅんびする</rt></ruby>",
     "meaning": "to prepare",
-    "ex_ja": "準備できてる？",
+    "ex_ja": "<ruby>準備<rt>じゅんび</rt></ruby>できてる？",
     "ex_en": "Are you ready?"
   },
   {
@@ -3192,7 +3192,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じゆう",
     "ruby": "<ruby>自由<rt>じゆう</rt></ruby>",
     "meaning": "freedom",
-    "ex_ja": "自由の身ね。",
+    "ex_ja": "<ruby>自由<rt>じゆう</rt></ruby>の<ruby>身<rt>み</rt></ruby>ね。",
     "ex_en": "You're a free man."
   },
   {
@@ -3208,7 +3208,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じょせい",
     "ruby": "<ruby>女性<rt>じょせい</rt></ruby>",
     "meaning": "woman",
-    "ex_ja": "色っぽい女性。",
+    "ex_ja": "<ruby>色<rt>いろ</rt></ruby>っぽい<ruby>女性<rt>じょせい</rt></ruby>。",
     "ex_en": "She is a fox."
   },
   {
@@ -3224,7 +3224,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じんこう",
     "ruby": "<ruby>人口<rt>じんこう</rt></ruby>",
     "meaning": "population",
-    "ex_ja": "その町は人口が多い。",
+    "ex_ja": "その<ruby>町<rt>まち</rt></ruby>は<ruby>人口<rt>じんこう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
     "ex_en": "The city has a large population."
   },
   {
@@ -3240,7 +3240,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "じんじゃ",
     "ruby": "<ruby>神社<rt>じんじゃ</rt></ruby>",
     "meaning": "Shinto shrine",
-    "ex_ja": "京都は神社や仏閣で有名だ。",
+    "ex_ja": "<ruby>京都<rt>きょうと</rt></ruby>は<ruby>神社<rt>じんじゃ</rt></ruby>や<ruby>仏閣<rt>ぶっかく</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
     "ex_en": "Kyoto is famous for its shrines and temples."
   },
   {
@@ -3256,7 +3256,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すいえい",
     "ruby": "<ruby>水泳<rt>すいえい</rt></ruby>",
     "meaning": "swimming",
-    "ex_ja": "水泳好きなの？",
+    "ex_ja": "<ruby>水泳<rt>すいえい</rt></ruby><ruby>好<rt>す</rt></ruby>きなの？",
     "ex_en": "Are you fond of swimming?"
   },
   {
@@ -3272,7 +3272,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すいどう",
     "ruby": "<ruby>水道<rt>すいどう</rt></ruby>",
     "meaning": "water supply",
-    "ex_ja": "水道管が破裂した。",
+    "ex_ja": "<ruby>水道<rt>すいどう</rt></ruby><ruby>管<rt>かん</rt></ruby>が<ruby>破裂<rt>はれつ</rt></ruby>した。",
     "ex_en": "The water pipe burst."
   },
   {
@@ -3288,7 +3288,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すうがく",
     "ruby": "<ruby>数学<rt>すうがく</rt></ruby>",
     "meaning": "mathematics; arithmetic",
-    "ex_ja": "数学はムズイ。",
+    "ex_ja": "<ruby>数学<rt>すうがく</rt></ruby>はムズイ。",
     "ex_en": "Mathematics is difficult."
   },
   {
@@ -3304,7 +3304,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すな",
     "ruby": "<ruby>砂<rt>すな</rt></ruby>",
     "meaning": "sand",
-    "ex_ja": "砂糖がない。",
+    "ex_ja": "<ruby>砂糖<rt>さとう</rt></ruby>がない。",
     "ex_en": "We have no sugar."
   },
   {
@@ -3320,7 +3320,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すみ",
     "ruby": "<ruby>隅<rt>すみ</rt></ruby>",
     "meaning": "corner; nook",
-    "ex_ja": "隅っこに置いといて。",
+    "ex_ja": "<ruby>隅<rt>すみ</rt></ruby>っこに<ruby>置<rt>お</rt></ruby>いといて。",
     "ex_en": "Put it in the corner."
   },
   {
@@ -3336,7 +3336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ずいぶん",
     "ruby": "ずいぶん",
     "meaning": "extremely",
-    "ex_ja": "ずいぶんと古いな。",
+    "ex_ja": "ずいぶんと<ruby>古<rt>ふる</rt></ruby>いな。",
     "ex_en": "It's very old."
   },
   {
@@ -3352,7 +3352,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せいかつする",
     "ruby": "<ruby>生活<rt>せいかつする</rt></ruby>",
     "meaning": "to live",
-    "ex_ja": "放蕩生活を送る。",
+    "ex_ja": "<ruby>放蕩<rt>ほうとう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る。",
     "ex_en": "I lead a fast way of living."
   },
   {
@@ -3368,7 +3368,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せいさんする",
     "ruby": "<ruby>生産<rt>せいさんする</rt></ruby>",
     "meaning": "to produce",
-    "ex_ja": "生産が落ち始めている。",
+    "ex_ja": "<ruby>生産<rt>せいさん</rt></ruby>が<ruby>落<rt>お</rt></ruby>ち<ruby>始<rt>はじ</rt></ruby>めている。",
     "ex_en": "Production is turning down."
   },
   {
@@ -3384,7 +3384,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せいじ",
     "ruby": "<ruby>政治<rt>せいじ</rt></ruby>",
     "meaning": "politics; government",
-    "ex_ja": "彼は全く政治家だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>全<rt>まった</rt></ruby>く<ruby>政治<rt>せいじ</rt></ruby><ruby>家<rt>か</rt></ruby>だ。",
     "ex_en": "He is every bit a politician."
   },
   {
@@ -3400,7 +3400,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せいよう",
     "ruby": "<ruby>西洋<rt>せいよう</rt></ruby>",
     "meaning": "western countries",
-    "ex_ja": "彼は西洋文化が好きだ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>西洋<rt>せいよう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだ。",
     "ex_en": "He likes Western culture."
   },
   {
@@ -3416,7 +3416,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せかい",
     "ruby": "<ruby>世界<rt>せかい</rt></ruby>",
     "meaning": "the world",
-    "ex_ja": "世界は広い。",
+    "ex_ja": "<ruby>世界<rt>せかい</rt></ruby>は<ruby>広<rt>ひろ</rt></ruby>い。",
     "ex_en": "The world is vast."
   },
   {
@@ -3432,7 +3432,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せき",
     "ruby": "<ruby>席<rt>せき</rt></ruby>",
     "meaning": "seat",
-    "ex_ja": "出席します。",
+    "ex_ja": "<ruby>出席<rt>しゅっせき</rt></ruby>します。",
     "ex_en": "I will join it!"
   },
   {
@@ -3448,7 +3448,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せつめい",
     "ruby": "<ruby>説明<rt>せつめい</rt></ruby>",
     "meaning": "explanation",
-    "ex_ja": "説明させて。",
+    "ex_ja": "<ruby>説明<rt>せつめい</rt></ruby>させて。",
     "ex_en": "Let me try to explain."
   },
   {
@@ -3464,7 +3464,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せなか",
     "ruby": "<ruby>背中<rt>せなか</rt></ruby>",
     "meaning": "back of the body",
-    "ex_ja": "背中が痛い。",
+    "ex_ja": "<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>い。",
     "ex_en": "My back hurts."
   },
   {
@@ -3480,7 +3480,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せわする",
     "ruby": "<ruby>世話<rt>せわする</rt></ruby>",
     "meaning": "to look after",
-    "ex_ja": "大きなお世話だ。",
+    "ex_ja": "<ruby>大<rt>おお</rt></ruby>きなお<ruby>世話<rt>せわ</rt></ruby>だ。",
     "ex_en": "Mind your own business!"
   },
   {
@@ -3496,7 +3496,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せん",
     "ruby": "<ruby>線<rt>せん</rt></ruby>",
     "meaning": "line",
-    "ex_ja": "中央線ですね。",
+    "ex_ja": "<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>線<rt>せん</rt></ruby>ですね。",
     "ex_en": "I think it's by the Chuo Line."
   },
   {
@@ -3512,7 +3512,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せんそう",
     "ruby": "<ruby>戦争<rt>せんそう</rt></ruby>",
     "meaning": "war",
-    "ex_ja": "戦争が怖い。",
+    "ex_ja": "<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>い。",
     "ex_en": "I'm afraid of war."
   },
   {
@@ -3528,7 +3528,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "せんぱい",
     "ruby": "<ruby>先輩<rt>せんぱい</rt></ruby>",
     "meaning": "senior",
-    "ex_ja": "トムは高校の先輩です。",
+    "ex_ja": "トムは<ruby>高校<rt>こうこう</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>です。",
     "ex_en": "Tom and I went to the same high school."
   },
   {
@@ -3576,7 +3576,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぜんぜん",
     "ruby": "ぜんぜん",
     "meaning": "not entirely (used in a negative sentence)",
-    "ex_ja": "ぜんぜん気にしない。",
+    "ex_ja": "ぜんぜん<ruby>気<rt>き</rt></ruby>にしない。",
     "ex_en": "I don't care a bean."
   },
   {
@@ -3592,7 +3592,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そうだんする",
     "ruby": "<ruby>相談<rt>そうだんする</rt></ruby>",
     "meaning": "to discuss",
-    "ex_ja": "私は姉に相談した。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>姉<rt>あね</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>した。",
     "ex_en": "I consulted with my sister."
   },
   {
@@ -3608,7 +3608,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そつぎょう",
     "ruby": "<ruby>卒業<rt>そつぎょう</rt></ruby>",
     "meaning": "graduation",
-    "ex_ja": "学校を卒業した。",
+    "ex_ja": "<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した。",
     "ex_en": "I graduated from the school."
   },
   {
@@ -3624,7 +3624,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そふ",
     "ruby": "<ruby>祖父<rt>そふ</rt></ruby>",
     "meaning": "grandfather",
-    "ex_ja": "彼は祖父似だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>祖父<rt>そふ</rt></ruby><ruby>似<rt>に</rt></ruby>だ。",
     "ex_en": "He resembles his grandfather."
   },
   {
@@ -3640,7 +3640,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そぼ",
     "ruby": "<ruby>祖母<rt>そぼ</rt></ruby>",
     "meaning": "grandmother",
-    "ex_ja": "祖母はゆっくり話す。",
+    "ex_ja": "<ruby>祖母<rt>そぼ</rt></ruby>はゆっくり<ruby>話<rt>はな</rt></ruby>す。",
     "ex_en": "My grandmother speaks slowly."
   },
   {
@@ -3672,7 +3672,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "それに",
     "ruby": "それに",
     "meaning": "moreover",
-    "ex_ja": "それに触るな。",
+    "ex_ja": "それに<ruby>触<rt>さわ</rt></ruby>るな。",
     "ex_en": "Don't touch it."
   },
   {
@@ -3688,7 +3688,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "それほど",
     "ruby": "それほど",
     "meaning": "to that extent",
-    "ex_ja": "それほど簡単ではない。",
+    "ex_ja": "それほど<ruby>簡単<rt>かんたん</rt></ruby>ではない。",
     "ex_en": "It's not quite as simple as that."
   },
   {
@@ -3704,7 +3704,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そろそろ",
     "ruby": "そろそろ",
     "meaning": "gradually; soon",
-    "ex_ja": "そろそろ時間だ。",
+    "ex_ja": "そろそろ<ruby>時間<rt>じかん</rt></ruby>だ。",
     "ex_en": "It's about time."
   },
   {
@@ -3720,7 +3720,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そんなに",
     "ruby": "そんなに",
     "meaning": "so much; like that",
-    "ex_ja": "そんなに騒ぐな。",
+    "ex_ja": "そんなに<ruby>騒<rt>さわ</rt></ruby>ぐな。",
     "ex_en": "Don't make so much noise."
   },
   {
@@ -3736,7 +3736,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たいいんする",
     "ruby": "<ruby>退院<rt>たいいんする</rt></ruby>",
     "meaning": "to leave hospital",
-    "ex_ja": "患者は退院した。",
+    "ex_ja": "<ruby>患者<rt>かんじゃ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した。",
     "ex_en": "The patient was discharged from hospital."
   },
   {
@@ -3752,7 +3752,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たいふう",
     "ruby": "<ruby>台風<rt>たいふう</rt></ruby>",
     "meaning": "typhoon",
-    "ex_ja": "台風は去った。",
+    "ex_ja": "<ruby>台風<rt>たいふう</rt></ruby>は<ruby>去<rt>さ</rt></ruby>った。",
     "ex_en": "The typhoon is gone."
   },
   {
@@ -3768,7 +3768,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たしか",
     "ruby": "<ruby>確か<rt>たしか</rt></ruby>",
     "meaning": "definite",
-    "ex_ja": "気は確かか。",
+    "ex_ja": "<ruby>気<rt>き</rt></ruby>は<ruby>確<rt>たし</rt></ruby>かか。",
     "ex_en": "Are you crazy?"
   },
   {
@@ -3784,7 +3784,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たたみ",
     "ruby": "<ruby>畳<rt>たたみ</rt></ruby>",
     "meaning": "Japanese straw mat",
-    "ex_ja": "傘は畳んで。",
+    "ex_ja": "<ruby>傘<rt>かさ</rt></ruby>は<ruby>畳<rt>たた</rt></ruby>んで。",
     "ex_en": "Shut the umbrella."
   },
   {
@@ -3800,7 +3800,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たとえば",
     "ruby": "<ruby>例えば<rt>たとえば</rt></ruby>",
     "meaning": "for example",
-    "ex_ja": "例えば、これはペンです。",
+    "ex_ja": "<ruby>例<rt>たと</rt></ruby>えば、これはペンです。",
     "ex_en": "For example, this is a pen."
   },
   {
@@ -3816,7 +3816,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たな",
     "ruby": "<ruby>棚<rt>たな</rt></ruby>",
     "meaning": "shelves",
-    "ex_ja": "棚は空っぽです。",
+    "ex_ja": "<ruby>棚<rt>たな</rt></ruby>は<ruby>空<rt>から</rt></ruby>っぽです。",
     "ex_en": "The shelves are empty."
   },
   {
@@ -3832,7 +3832,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たのしみ",
     "ruby": "<ruby>楽しみ<rt>たのしみ</rt></ruby>",
     "meaning": "joy",
-    "ex_ja": "明日楽しみだな。",
+    "ex_ja": "<ruby>明日<rt>あした</rt></ruby><ruby>楽<rt>たの</rt></ruby>しみだな。",
     "ex_en": "I'm looking forward to tomorrow."
   },
   {
@@ -3848,7 +3848,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たまに",
     "ruby": "たまに",
     "meaning": "occasionally",
-    "ex_ja": "たまに夕食作るよ。",
+    "ex_ja": "たまに<ruby>夕食<rt>ゆうしょく</rt></ruby><ruby>作<rt>つく</rt></ruby>るよ。",
     "ex_en": "I sometimes cook dinner."
   },
   {
@@ -3864,7 +3864,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ため",
     "ruby": "<ruby>為<rt>ため</rt></ruby>",
     "meaning": "in order to",
-    "ex_ja": "それは売名行為だ。",
+    "ex_ja": "それは<ruby>売名<rt>ばいめい</rt></ruby><ruby>行為<rt>こうい</rt></ruby>だ。",
     "ex_en": "That's just a cheap publicity stunt."
   },
   {
@@ -3880,7 +3880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だいがくせい",
     "ruby": "<ruby>大学生<rt>だいがくせい</rt></ruby>",
     "meaning": "university student",
-    "ex_ja": "大学生です。",
+    "ex_ja": "<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
     "ex_en": "I am a university student."
   },
   {
@@ -3896,7 +3896,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だいじ",
     "ruby": "<ruby>大事<rt>だいじ</rt></ruby>",
     "meaning": "important; valuable; serious matter",
-    "ex_ja": "大事なものか？",
+    "ex_ja": "<ruby>大事<rt>だいじ</rt></ruby>なものか？",
     "ex_en": "Is it important?"
   },
   {
@@ -3912,7 +3912,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だいたい",
     "ruby": "<ruby>大体<rt>だいたい</rt></ruby>",
     "meaning": "generally",
-    "ex_ja": "大体正しい。",
+    "ex_ja": "<ruby>大体<rt>だいたい</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。",
     "ex_en": "That is almost correct."
   },
   {
@@ -3928,7 +3928,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だいぶ",
     "ruby": "<ruby>大分<rt>だいぶ</rt></ruby>",
     "meaning": "greatly",
-    "ex_ja": "今日は大分暖かいね。",
+    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>大分<rt>だいぶ</rt></ruby><ruby>暖<rt>あたた</rt></ruby>かいね。",
     "ex_en": "It's fairly warm today."
   },
   {
@@ -3944,7 +3944,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だから",
     "ruby": "だから",
     "meaning": "so; therefore",
-    "ex_ja": "だから何なの？",
+    "ex_ja": "だから<ruby>何<rt>なに</rt></ruby>なの？",
     "ex_en": "So what?"
   },
   {
@@ -3992,7 +3992,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だんせい",
     "ruby": "<ruby>男性<rt>だんせい</rt></ruby>",
     "meaning": "male",
-    "ex_ja": "男性より女性が先。",
+    "ex_ja": "<ruby>男性<rt>だんせい</rt></ruby>より<ruby>女性<rt>じょせい</rt></ruby>が<ruby>先<rt>さき</rt></ruby>。",
     "ex_en": "Ladies before gentlemen."
   },
   {
@@ -4008,7 +4008,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だんぼう",
     "ruby": "<ruby>暖房<rt>だんぼう</rt></ruby>",
     "meaning": "heating",
-    "ex_ja": "暖房を消しましたか。",
+    "ex_ja": "<ruby>暖房<rt>だんぼう</rt></ruby>を<ruby>消<rt>け</rt></ruby>しましたか。",
     "ex_en": "Did you turn off the heater?"
   },
   {
@@ -4024,7 +4024,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ち",
     "ruby": "<ruby>血<rt>ち</rt></ruby>",
     "meaning": "blood",
-    "ex_ja": "高血圧です。",
+    "ex_ja": "<ruby>高血圧<rt>こうけつあつ</rt></ruby>です。",
     "ex_en": "I have high blood pressure."
   },
   {
@@ -4040,7 +4040,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちから",
     "ruby": "<ruby>力<rt>ちから</rt></ruby>",
     "meaning": "strength; power",
-    "ex_ja": "力が尽きた。",
+    "ex_ja": "<ruby>力<rt>ちから</rt></ruby>が<ruby>尽<rt>つ</rt></ruby>きた。",
     "ex_en": "My strength is all gone."
   },
   {
@@ -4056,7 +4056,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちっとも",
     "ruby": "ちっとも",
     "meaning": "not at all (used with a negative verb)",
-    "ex_ja": "ちっとも構いませんよ。",
+    "ex_ja": "ちっとも<ruby>構<rt>かま</rt></ruby>いませんよ。",
     "ex_en": "I don't care."
   },
   {
@@ -4088,7 +4088,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちゅうい",
     "ruby": "<ruby>注意<rt>ちゅうい</rt></ruby>",
     "meaning": "caution",
-    "ex_ja": "猛犬に注意！",
+    "ex_ja": "<ruby>猛犬<rt>もうけん</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>！",
     "ex_en": "Beware of the dog!"
   },
   {
@@ -4104,7 +4104,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちゅうがっこう",
     "ruby": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>",
     "meaning": "junior high school; middle school",
-    "ex_ja": "彼は中学校に入った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>中学校<rt>ちゅうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
     "ex_en": "He entered junior high school."
   },
   {
@@ -4120,7 +4120,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちゅうしゃ",
     "ruby": "<ruby>注射<rt>ちゅうしゃ</rt></ruby>",
     "meaning": "injection",
-    "ex_ja": "注射をしましょう。",
+    "ex_ja": "<ruby>注射<rt>ちゅうしゃ</rt></ruby>をしましょう。",
     "ex_en": "I'll give you a shot."
   },
   {
@@ -4136,7 +4136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちゅうしゃじょう",
     "ruby": "<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>",
     "meaning": "parking lot",
-    "ex_ja": "駐車場はある？",
+    "ex_ja": "<ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby>はある？",
     "ex_en": "Is there a car park?"
   },
   {
@@ -4168,7 +4168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つき",
     "ruby": "つき",
     "meaning": "moon",
-    "ex_ja": "落ちつきな。",
+    "ex_ja": "<ruby>落<rt>お</rt></ruby>ちつきな。",
     "ex_en": "Hey, relax."
   },
   {
@@ -4184,7 +4184,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つごう",
     "ruby": "<ruby>都合<rt>つごう</rt></ruby>",
     "meaning": "circumstances; convenience",
-    "ex_ja": "一身上の都合です。",
+    "ex_ja": "<ruby>一身上<rt>いっしんじょう</rt></ruby>の<ruby>都合<rt>つごう</rt></ruby>です。",
     "ex_en": "For personal reasons."
   },
   {
@@ -4200,7 +4200,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つま",
     "ruby": "<ruby>妻<rt>つま</rt></ruby>",
     "meaning": "(humble) wife",
-    "ex_ja": "妻が怖くて。",
+    "ex_ja": "<ruby>妻<rt>つま</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>くて。",
     "ex_en": "I'm afraid of my wife."
   },
   {
@@ -4216,7 +4216,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ていねい",
     "ruby": "<ruby>丁寧<rt>ていねい</rt></ruby>",
     "meaning": "polite",
-    "ex_ja": "彼はばか丁寧だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はばか<ruby>丁寧<rt>ていねい</rt></ruby>だ。",
     "ex_en": "He is polite to a fault."
   },
   {
@@ -4232,7 +4232,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てきとう",
     "ruby": "<ruby>適当<rt>てきとう</rt></ruby>",
     "meaning": "suitability",
-    "ex_ja": "適当にやって。",
+    "ex_ja": "<ruby>適当<rt>てきとう</rt></ruby>にやって。",
     "ex_en": "Let's just wing it."
   },
   {
@@ -4248,7 +4248,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てぶくろ",
     "ruby": "<ruby>手袋<rt>てぶくろ</rt></ruby>",
     "meaning": "glove",
-    "ex_ja": "手袋してる？",
+    "ex_ja": "<ruby>手袋<rt>てぶくろ</rt></ruby>してる？",
     "ex_en": "Are you wearing gloves?"
   },
   {
@@ -4264,7 +4264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てら",
     "ruby": "<ruby>寺<rt>てら</rt></ruby>",
     "meaning": "temple",
-    "ex_ja": "寺の隣に鬼が住む。",
+    "ex_ja": "<ruby>寺<rt>てら</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>に<ruby>鬼<rt>おに</rt></ruby>が<ruby>住<rt>す</rt></ruby>む。",
     "ex_en": "The devil lurks behind the cross."
   },
   {
@@ -4280,7 +4280,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てん",
     "ruby": "<ruby>点<rt>てん</rt></ruby>",
     "meaning": "point; dot",
-    "ex_ja": "論点がわかる。",
+    "ex_ja": "<ruby>論点<rt>ろんてん</rt></ruby>がわかる。",
     "ex_en": "I see the point of the argument."
   },
   {
@@ -4296,7 +4296,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てんいん",
     "ruby": "<ruby>店員<rt>てんいん</rt></ruby>",
     "meaning": "shop assistant",
-    "ex_ja": "彼は店員に金を渡した。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>店員<rt>てんいん</rt></ruby>に<ruby>金<rt>きん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>した。",
     "ex_en": "He handed the salesclerk the money."
   },
   {
@@ -4312,7 +4312,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てんきよほう",
     "ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>",
     "meaning": "weather forecast",
-    "ex_ja": "天気予報が当たったよ。",
+    "ex_ja": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったよ。",
     "ex_en": "The weather forecast was right."
   },
   {
@@ -4328,7 +4328,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てんらんかい",
     "ruby": "<ruby>展覧会<rt>てんらんかい</rt></ruby>",
     "meaning": "exhibition",
-    "ex_ja": "展覧会は現在開催中です。",
+    "ex_ja": "<ruby>展覧<rt>てんらん</rt></ruby><ruby>会<rt>かい</rt></ruby>は<ruby>現在<rt>げんざい</rt></ruby><ruby>開催<rt>かいさい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>です。",
     "ex_en": "The exhibition is now open."
   },
   {
@@ -4344,7 +4344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "できるだけ",
     "ruby": "できるだけ",
     "meaning": "as much as possible",
-    "ex_ja": "できるだけ早くね。",
+    "ex_ja": "できるだけ<ruby>早<rt>はや</rt></ruby>くね。",
     "ex_en": "Be as quick as possible."
   },
   {
@@ -4360,7 +4360,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "でんとう",
     "ruby": "<ruby>電灯<rt>でんとう</rt></ruby>",
     "meaning": "electric light",
-    "ex_ja": "電灯が消えた。",
+    "ex_ja": "<ruby>電灯<rt>でんとう</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた。",
     "ex_en": "The electric light went out."
   },
   {
@@ -4376,7 +4376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "でんぽう",
     "ruby": "<ruby>電報<rt>でんぽう</rt></ruby>",
     "meaning": "telegram",
-    "ex_ja": "電報をすぐ送れ。",
+    "ex_ja": "<ruby>電報<rt>でんぽう</rt></ruby>をすぐ<ruby>送<rt>おく</rt></ruby>れ。",
     "ex_en": "Send the telegram at once."
   },
   {
@@ -4392,7 +4392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とくに",
     "ruby": "<ruby>特に<rt>とくに</rt></ruby>",
     "meaning": "particularly; especially",
-    "ex_ja": "特に犬が好きだ。",
+    "ex_ja": "<ruby>特<rt>とく</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだ。",
     "ex_en": "He loves dogs above all."
   },
   {
@@ -4408,7 +4408,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とくべつ",
     "ruby": "<ruby>特別<rt>とくべつ</rt></ruby>",
     "meaning": "special",
-    "ex_ja": "君は特別だよ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>だよ。",
     "ex_en": "You're special."
   },
   {
@@ -4440,7 +4440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とちゅう",
     "ruby": "<ruby>途中<rt>とちゅう</rt></ruby>",
     "meaning": "on the way",
-    "ex_ja": "家に帰る途中なの？",
+    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る<ruby>途中<rt>とちゅう</rt></ruby>なの？",
     "ex_en": "Are you on your way home?"
   },
   {
@@ -4456,7 +4456,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とっきゅう",
     "ruby": "<ruby>特急<rt>とっきゅう</rt></ruby>",
     "meaning": "limited express train (faster than an express train)",
-    "ex_ja": "特急のホームは何番ですか。",
+    "ex_ja": "<ruby>特急<rt>とっきゅう</rt></ruby>のホームは<ruby>何<rt>なん</rt></ruby><ruby>番<rt>ばん</rt></ruby>ですか。",
     "ex_en": "What's the track for the limited express?"
   },
   {
@@ -4472,7 +4472,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "どうぐ",
     "ruby": "<ruby>道具<rt>どうぐ</rt></ruby>",
     "meaning": "tool; means",
-    "ex_ja": "道具を粗末に使うな。",
+    "ex_ja": "<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>粗末<rt>そまつ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うな。",
     "ex_en": "Don't handle these tools roughly."
   },
   {
@@ -4488,7 +4488,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "どうぶつえん",
     "ruby": "<ruby>動物園<rt>どうぶつえん</rt></ruby>",
     "meaning": "zoo",
-    "ex_ja": "動物園に行こう。",
+    "ex_ja": "<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>に<ruby>行<rt>い</rt></ruby>こう。",
     "ex_en": "Let's go to the zoo."
   },
   {
@@ -4504,7 +4504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "どろぼう",
     "ruby": "<ruby>泥棒<rt>どろぼう</rt></ruby>",
     "meaning": "thief",
-    "ex_ja": "彼は泥棒だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泥棒<rt>どろぼう</rt></ruby>だ。",
     "ex_en": "He is a thief."
   },
   {
@@ -4520,7 +4520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "どんどん",
     "ruby": "どんどん",
     "meaning": "more and more",
-    "ex_ja": "時間がどんどん経った。",
+    "ex_ja": "<ruby>時間<rt>じかん</rt></ruby>がどんどん<ruby>経<rt>た</rt></ruby>った。",
     "ex_en": "Time went quickly."
   },
   {
@@ -4584,7 +4584,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にっき",
     "ruby": "<ruby>日記<rt>にっき</rt></ruby>",
     "meaning": "journal",
-    "ex_ja": "日記をつける。",
+    "ex_ja": "<ruby>日記<rt>にっき</rt></ruby>をつける。",
     "ex_en": "I keep a diary."
   },
   {
@@ -4600,7 +4600,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にゅういんする",
     "ruby": "<ruby>入院<rt>にゅういんする</rt></ruby>",
     "meaning": "to hospitalise",
-    "ex_ja": "入院してます。",
+    "ex_ja": "<ruby>入院<rt>にゅういん</rt></ruby>してます。",
     "ex_en": "I'm in the hospital."
   },
   {
@@ -4616,7 +4616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にゅうがくする",
     "ruby": "<ruby>入学<rt>にゅうがくする</rt></ruby>",
     "meaning": "to enter school or university",
-    "ex_ja": "彼は裏口入学した。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>裏口<rt>うらぐち</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>した。",
     "ex_en": "He bought his way into college."
   },
   {
@@ -4632,7 +4632,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にんぎょう",
     "ruby": "<ruby>人形<rt>にんぎょう</rt></ruby>",
     "meaning": "doll; figure",
-    "ex_ja": "あの人形怖い。",
+    "ex_ja": "あの<ruby>人形<rt>にんぎょう</rt></ruby><ruby>怖<rt>こわ</rt></ruby>い。",
     "ex_en": "That doll is scary."
   },
   {
@@ -4680,7 +4680,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ねつ",
     "ruby": "<ruby>熱<rt>ねつ</rt></ruby>",
     "meaning": "fever",
-    "ex_ja": "熱はあるの？",
+    "ex_ja": "<ruby>熱<rt>ねつ</rt></ruby>はあるの？",
     "ex_en": "Do you have a fever?"
   },
   {
@@ -4696,7 +4696,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ねぼう",
     "ruby": "<ruby>寝坊<rt>ねぼう</rt></ruby>",
     "meaning": "sleeping in late",
-    "ex_ja": "私は寝坊した。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>した。",
     "ex_en": "I overslept."
   },
   {
@@ -4712,7 +4712,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "のど",
     "ruby": "のど",
     "meaning": "throat",
-    "ex_ja": "のど渇いた。",
+    "ex_ja": "のど<ruby>渇<rt>かわ</rt></ruby>いた。",
     "ex_en": "I'm thirsty."
   },
   {
@@ -4728,7 +4728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "のりもの",
     "ruby": "<ruby>乗り物<rt>のりもの</rt></ruby>",
     "meaning": "vehicle",
-    "ex_ja": "乗り物は子供向けである。",
+    "ex_ja": "<ruby>乗り物<rt>のりもの</rt></ruby>は<ruby>子供<rt>こども</rt></ruby><ruby>向<rt>む</rt></ruby>けである。",
     "ex_en": "Rides in the cars are for kids."
   },
   {
@@ -4744,7 +4744,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "は",
     "ruby": "<ruby>葉<rt>は</rt></ruby>",
     "meaning": "leaf",
-    "ex_ja": "葉が落ちた。",
+    "ex_ja": "<ruby>葉<rt>は</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちた。",
     "ex_en": "The leaves fell."
   },
   {
@@ -4760,7 +4760,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はいけんする",
     "ruby": "<ruby>拝見<rt>はいけんする</rt></ruby>",
     "meaning": "(humble) to look at",
-    "ex_ja": "搭乗券を拝見します。",
+    "ex_ja": "<ruby>搭乗<rt>とうじょう</rt></ruby><ruby>券<rt>けん</rt></ruby>を<ruby>拝見<rt>はいけん</rt></ruby>します。",
     "ex_en": "May I see your boarding pass, please?"
   },
   {
@@ -4776,7 +4776,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はいしゃ",
     "ruby": "<ruby>歯医者<rt>はいしゃ</rt></ruby>",
     "meaning": "dentist",
-    "ex_ja": "彼は歯医者に行った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>った。",
     "ex_en": "He went to the dentist."
   },
   {
@@ -4792,7 +4792,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はず",
     "ruby": "はず",
     "meaning": "it should be so",
-    "ex_ja": "君はずぶぬれだ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>はずぶぬれだ。",
     "ex_en": "You're wet through."
   },
   {
@@ -4808,7 +4808,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はつおん",
     "ruby": "<ruby>発音<rt>はつおん</rt></ruby>",
     "meaning": "pronunciation",
-    "ex_ja": "発音がいいね。",
+    "ex_ja": "<ruby>発音<rt>はつおん</rt></ruby>がいいね。",
     "ex_en": "You have good pronunciation."
   },
   {
@@ -4824,7 +4824,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はなみ",
     "ruby": "<ruby>花見<rt>はなみ</rt></ruby>",
     "meaning": "cherry-blossom viewing",
-    "ex_ja": "あのお花見て。",
+    "ex_ja": "あのお<ruby>花<rt>はな</rt></ruby><ruby>見<rt>み</rt></ruby>て。",
     "ex_en": "Look at those flowers."
   },
   {
@@ -4840,7 +4840,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はやし",
     "ruby": "<ruby>林<rt>はやし</rt></ruby>",
     "meaning": "woods; forester",
-    "ex_ja": "林に竹が目立つ。",
+    "ex_ja": "<ruby>林<rt>はやし</rt></ruby>に<ruby>竹<rt>たけ</rt></ruby>が<ruby>目立<rt>めだ</rt></ruby>つ。",
     "ex_en": "Bamboo stands out in the woods."
   },
   {
@@ -4856,7 +4856,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はんたい",
     "ruby": "<ruby>反対<rt>はんたい</rt></ruby>",
     "meaning": "opposition",
-    "ex_ja": "反対投票多数。",
+    "ex_ja": "<ruby>反対<rt>はんたい</rt></ruby><ruby>投票<rt>とうひょう</rt></ruby><ruby>多数<rt>たすう</rt></ruby>。",
     "ex_en": "The noes have it."
   },
   {
@@ -4872,7 +4872,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ばあい",
     "ruby": "<ruby>場合<rt>ばあい</rt></ruby>",
     "meaning": "situation",
-    "ex_ja": "それは極端な場合だ。",
+    "ex_ja": "それは<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>だ。",
     "ex_en": "They are the extreme cases."
   },
   {
@@ -4888,7 +4888,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ばい",
     "ruby": "<ruby>倍<rt>ばい</rt></ruby>",
     "meaning": "double",
-    "ex_ja": "二の二倍は四。",
+    "ex_ja": "<ruby>二<rt>に</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>倍<rt>ばい</rt></ruby>は<ruby>四<rt>よん</rt></ruby>。",
     "ex_en": "Twice two is equal to four."
   },
   {
@@ -4904,7 +4904,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ばしょ",
     "ruby": "<ruby>場所<rt>ばしょ</rt></ruby>",
     "meaning": "location",
-    "ex_ja": "この場所に？",
+    "ex_ja": "この<ruby>場所<rt>ばしょ</rt></ruby>に？",
     "ex_en": "Just right here?"
   },
   {
@@ -4920,7 +4920,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ばんぐみ",
     "ruby": "<ruby>番組<rt>ばんぐみ</rt></ruby>",
     "meaning": "television or radio program",
-    "ex_ja": "この番組見る？",
+    "ex_ja": "この<ruby>番組<rt>ばんぐみ</rt></ruby><ruby>見<rt>み</rt></ruby>る？",
     "ex_en": "Do you want to watch this program?"
   },
   {
@@ -4936,7 +4936,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひ",
     "ruby": "<ruby>日<rt>ひ</rt></ruby>",
     "meaning": "day; sun",
-    "ex_ja": "本日定休日。",
+    "ex_ja": "<ruby>本日<rt>ほんじつ</rt></ruby><ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>。",
     "ex_en": "Today is our regular closing day."
   },
   {
@@ -4952,7 +4952,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひ",
     "ruby": "<ruby>火<rt>ひ</rt></ruby>",
     "meaning": "fire",
-    "ex_ja": "火は燃える。",
+    "ex_ja": "<ruby>火<rt>ひ</rt></ruby>は<ruby>燃<rt>も</rt></ruby>える。",
     "ex_en": "Fire burns."
   },
   {
@@ -4968,7 +4968,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひきだし",
     "ruby": "<ruby>引き出し<rt>ひきだし</rt></ruby>",
     "meaning": "drawer; drawing out",
-    "ex_ja": "机の引き出しが開いている。",
+    "ex_ja": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しが<ruby>開<rt>ひら</rt></ruby>いている。",
     "ex_en": "The desk drawer is open."
   },
   {
@@ -4984,7 +4984,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひげ",
     "ruby": "ひげ",
     "meaning": "beard",
-    "ex_ja": "昨日ひげ剃った？",
+    "ex_ja": "<ruby>昨日<rt>きのう</rt></ruby>ひげ<ruby>剃<rt>す</rt></ruby>った？",
     "ex_en": "Did you shave yesterday?"
   },
   {
@@ -5000,7 +5000,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひこうじょう",
     "ruby": "<ruby>飛行場<rt>ひこうじょう</rt></ruby>",
     "meaning": "airport",
-    "ex_ja": "航空券は飛行場で受け取れますか。",
+    "ex_ja": "<ruby>航空<rt>こうくう</rt></ruby><ruby>券<rt>けん</rt></ruby>は<ruby>飛行場<rt>ひこうじょう</rt></ruby>で<ruby>受け取<rt>うけと</rt></ruby>れますか。",
     "ex_en": "Can I pick my ticket up at the airport?"
   },
   {
@@ -5016,7 +5016,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひじょうに",
     "ruby": "<ruby>非常に<rt>ひじょうに</rt></ruby>",
     "meaning": "extremely",
-    "ex_ja": "彼は非常に親切だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>親切<rt>しんせつ</rt></ruby>だ。",
     "ex_en": "He is a very decent fellow."
   },
   {
@@ -5032,7 +5032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひつよう",
     "ruby": "<ruby>必要<rt>ひつよう</rt></ruby>",
     "meaning": "necessary",
-    "ex_ja": "君が必要だ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。",
     "ex_en": "I need you."
   },
   {
@@ -5048,7 +5048,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひるま",
     "ruby": "<ruby>昼間<rt>ひるま</rt></ruby>",
     "meaning": "daytime; during the day",
-    "ex_ja": "太陽は昼間輝く。",
+    "ex_ja": "<ruby>太陽<rt>たいよう</rt></ruby>は<ruby>昼間<rt>ひるま</rt></ruby><ruby>輝<rt>かがや</rt></ruby>く。",
     "ex_en": "The sun shines during the day."
   },
   {
@@ -5064,7 +5064,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひるやすみ",
     "ruby": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>",
     "meaning": "noon break",
-    "ex_ja": "お昼休みはいつ？",
+    "ex_ja": "お<ruby>昼休<rt>ひるやす</rt></ruby>みはいつ？",
     "ex_en": "When is your lunch break?"
   },
   {
@@ -5080,7 +5080,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "びじゅつかん",
     "ruby": "<ruby>美術館<rt>びじゅつかん</rt></ruby>",
     "meaning": "art gallery",
-    "ex_ja": "俺たちは美術館に行った。",
+    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>たちは<ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>行<rt>い</rt></ruby>った。",
     "ex_en": "We went to the museum."
   },
   {
@@ -5096,7 +5096,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふくざつ",
     "ruby": "<ruby>複雑<rt>ふくざつ</rt></ruby>",
     "meaning": "complexity; complication",
-    "ex_ja": "マジで複雑だ！",
+    "ex_ja": "マジで<ruby>複雑<rt>ふくざつ</rt></ruby>だ！",
     "ex_en": "It's complicated as hell."
   },
   {
@@ -5112,7 +5112,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふくしゅう",
     "ruby": "<ruby>復習<rt>ふくしゅう</rt></ruby>",
     "meaning": "revision",
-    "ex_ja": "第５課を復習しましょう。",
+    "ex_ja": "<ruby>第<rt>だい</rt></ruby>５<ruby>課<rt>か</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>しましょう。",
     "ex_en": "Let's review Lesson 5."
   },
   {
@@ -5128,7 +5128,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふつう",
     "ruby": "<ruby>普通<rt>ふつう</rt></ruby>",
     "meaning": "usually; or a train that stops at every station",
-    "ex_ja": "視力は普通です。",
+    "ex_ja": "<ruby>視力<rt>しりょく</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>です。",
     "ex_en": "I have normal eyesight."
   },
   {
@@ -5144,7 +5144,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふとん",
     "ruby": "<ruby>布団<rt>ふとん</rt></ruby>",
     "meaning": "Japanese bedding; futon",
-    "ex_ja": "布団干しといて。",
+    "ex_ja": "<ruby>布団<rt>ふとん</rt></ruby><ruby>干<rt>ほ</rt></ruby>しといて。",
     "ex_en": "Air the futon."
   },
   {
@@ -5160,7 +5160,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふね",
     "ruby": "<ruby>舟<rt>ふね</rt></ruby>",
     "meaning": "ship",
-    "ex_ja": "舟は行方不明だ。",
+    "ex_ja": "<ruby>舟<rt>ふね</rt></ruby>は<ruby>行方<rt>ゆくえ</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>だ。",
     "ex_en": "The boat is lost."
   },
   {
@@ -5176,7 +5176,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふべん",
     "ruby": "<ruby>不便<rt>ふべん</rt></ruby>",
     "meaning": "inconvenience",
-    "ex_ja": "電話がないのは不便だ。",
+    "ex_ja": "<ruby>電話<rt>でんわ</rt></ruby>がないのは<ruby>不便<rt>ふべん</rt></ruby>だ。",
     "ex_en": "Not having a telephone is an inconvenience."
   },
   {
@@ -5192,7 +5192,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぶちょう",
     "ruby": "<ruby>部長<rt>ぶちょう</rt></ruby>",
     "meaning": "head of a section",
-    "ex_ja": "彼は営業部の部長です。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>部長<rt>ぶちょう</rt></ruby>です。",
     "ex_en": "He is the manager of the marketing department."
   },
   {
@@ -5208,7 +5208,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぶんか",
     "ruby": "<ruby>文化<rt>ぶんか</rt></ruby>",
     "meaning": "culture",
-    "ex_ja": "文化人です。",
+    "ex_ja": "<ruby>文化<rt>ぶんか</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
     "ex_en": "I'm a man of culture."
   },
   {
@@ -5224,7 +5224,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぶんがく",
     "ruby": "<ruby>文学<rt>ぶんがく</rt></ruby>",
     "meaning": "literature",
-    "ex_ja": "彼は文学者である。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>文学<rt>ぶんがく</rt></ruby><ruby>者<rt>しゃ</rt></ruby>である。",
     "ex_en": "He is a man of letters."
   },
   {
@@ -5240,7 +5240,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぶんぽう",
     "ruby": "<ruby>文法<rt>ぶんぽう</rt></ruby>",
     "meaning": "grammar",
-    "ex_ja": "文法が嫌いです。",
+    "ex_ja": "<ruby>文法<rt>ぶんぽう</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
     "ex_en": "I hate grammar."
   },
   {
@@ -5256,7 +5256,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "へん",
     "ruby": "<ruby>変<rt>へん</rt></ruby>",
     "meaning": "strange",
-    "ex_ja": "変わりない？",
+    "ex_ja": "<ruby>変<rt>か</rt></ruby>わりない？",
     "ex_en": "Is everything OK?"
   },
   {
@@ -5272,7 +5272,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "へんじ",
     "ruby": "<ruby>返事<rt>へんじ</rt></ruby>",
     "meaning": "reply",
-    "ex_ja": "返事がない。",
+    "ex_ja": "<ruby>返事<rt>へんじ</rt></ruby>がない。",
     "ex_en": "There is no reply."
   },
   {
@@ -5288,7 +5288,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "べつ",
     "ruby": "<ruby>別<rt>べつ</rt></ruby>",
     "meaning": "different",
-    "ex_ja": "別人みたい。",
+    "ex_ja": "<ruby>別人<rt>べつじん</rt></ruby>みたい。",
     "ex_en": "You look like a completely different person."
   },
   {
@@ -5304,7 +5304,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほうそうする",
     "ruby": "<ruby>放送<rt>ほうそうする</rt></ruby>",
     "meaning": "to broadcast",
-    "ex_ja": "絶賛放送中！",
+    "ex_ja": "<ruby>絶賛<rt>ぜっさん</rt></ruby><ruby>放送<rt>ほうそう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>！",
     "ex_en": "Currently on air!"
   },
   {
@@ -5320,7 +5320,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほうりつ",
     "ruby": "<ruby>法律<rt>ほうりつ</rt></ruby>",
     "meaning": "law",
-    "ex_ja": "法律ですから。",
+    "ex_ja": "<ruby>法律<rt>ほうりつ</rt></ruby>ですから。",
     "ex_en": "It's the law."
   },
   {
@@ -5336,7 +5336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほし",
     "ruby": "<ruby>星<rt>ほし</rt></ruby>",
     "meaning": "star",
-    "ex_ja": "星に願いを。",
+    "ex_ja": "<ruby>星<rt>ほし</rt></ruby>に<ruby>願<rt>ねが</rt></ruby>いを。",
     "ex_en": "Let me wish upon a shooting star."
   },
   {
@@ -5352,7 +5352,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほとんど",
     "ruby": "ほとんど",
     "meaning": "mostly",
-    "ex_ja": "本はほとんどない。",
+    "ex_ja": "<ruby>本<rt>ほん</rt></ruby>はほとんどない。",
     "ex_en": "They have few books."
   },
   {
@@ -5384,7 +5384,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほんやく",
     "ruby": "<ruby>翻訳<rt>ほんやく</rt></ruby>",
     "meaning": "translation",
-    "ex_ja": "翻訳された!",
+    "ex_ja": "<ruby>翻訳<rt>ほんやく</rt></ruby>された!",
     "ex_en": "Translated!"
   },
   {
@@ -5400,7 +5400,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぼうえき",
     "ruby": "<ruby>貿易<rt>ぼうえき</rt></ruby>",
     "meaning": "trade",
-    "ex_ja": "貿易が国富を増大させた。",
+    "ex_ja": "<ruby>貿易<rt>ぼうえき</rt></ruby>が<ruby>国富<rt>こくふ</rt></ruby>を<ruby>増大<rt>ぞうだい</rt></ruby>させた。",
     "ex_en": "Trade increased the country's wealth."
   },
   {
@@ -5416,7 +5416,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぼく",
     "ruby": "<ruby>僕<rt>ぼく</rt></ruby>",
     "meaning": "I (used by males)",
-    "ex_ja": "僕は忙しい。",
+    "ex_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。",
     "ex_en": "I'm busy."
   },
   {
@@ -5432,7 +5432,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まじめ",
     "ruby": "まじめ",
     "meaning": "serious",
-    "ex_ja": "彼はまじめな少年だ。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はまじめな<ruby>少年<rt>しょうねん</rt></ruby>だ。",
     "ex_en": "He is an earnest young man."
   },
   {
@@ -5448,7 +5448,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まず",
     "ruby": "まず",
     "meaning": "first of all",
-    "ex_ja": "まず京都にいく。",
+    "ex_ja": "まず<ruby>京都<rt>きょうと</rt></ruby>にいく。",
     "ex_en": "First we'll hit Kyoto."
   },
   {
@@ -5496,7 +5496,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まんが",
     "ruby": "<ruby>漫画<rt>まんが</rt></ruby>",
     "meaning": "comic",
-    "ex_ja": "私は漫画家です。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>漫画<rt>まんが</rt></ruby><ruby>家<rt>か</rt></ruby>です。",
     "ex_en": "I'm a cartoonist."
   },
   {
@@ -5512,7 +5512,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まんなか",
     "ruby": "<ruby>真中<rt>まんなか</rt></ruby>",
     "meaning": "middle",
-    "ex_ja": "湖の真中に、その島がある。",
+    "ex_ja": "<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>真中<rt>まんなか</rt></ruby>に、その<ruby>島<rt>しま</rt></ruby>がある。",
     "ex_en": "In the middle of the lake lies the island."
   },
   {
@@ -5528,7 +5528,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みずうみ",
     "ruby": "<ruby>湖<rt>みずうみ</rt></ruby>",
     "meaning": "lake",
-    "ex_ja": "この湖は深い。",
+    "ex_ja": "この<ruby>湖<rt>みずうみ</rt></ruby>は<ruby>深<rt>ふか</rt></ruby>い。",
     "ex_en": "This lake is deep."
   },
   {
@@ -5544,7 +5544,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みそ",
     "ruby": "<ruby>味噌<rt>みそ</rt></ruby>",
     "meaning": "bean paste",
-    "ex_ja": "味噌汁が温まった。",
+    "ex_ja": "<ruby>味噌汁<rt>みそしる</rt></ruby>が<ruby>温<rt>あたた</rt></ruby>まった。",
     "ex_en": "The miso soup has heated up."
   },
   {
@@ -5560,7 +5560,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みな",
     "ruby": "<ruby>皆<rt>みな</rt></ruby>",
     "meaning": "everybody",
-    "ex_ja": "皆が笑った。",
+    "ex_ja": "<ruby>皆<rt>みな</rt></ruby>が<ruby>笑<rt>わら</rt></ruby>った。",
     "ex_en": "Everybody laughed."
   },
   {
@@ -5576,7 +5576,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むかし",
     "ruby": "<ruby>昔<rt>むかし</rt></ruby>",
     "meaning": "olden days; former",
-    "ex_ja": "昔はよくした。",
+    "ex_ja": "<ruby>昔<rt>むかし</rt></ruby>はよくした。",
     "ex_en": "I used to a lot."
   },
   {
@@ -5592,7 +5592,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むし",
     "ruby": "<ruby>虫<rt>むし</rt></ruby>",
     "meaning": "insect",
-    "ex_ja": "虫が怖いの？",
+    "ex_ja": "<ruby>虫<rt>むし</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いの？",
     "ex_en": "Are you afraid of insects?"
   },
   {
@@ -5608,7 +5608,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むすこ",
     "ruby": "<ruby>息子<rt>むすこ</rt></ruby>",
     "meaning": "(humble) son",
-    "ex_ja": "私の息子です。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>です。",
     "ex_en": "He's my son."
   },
   {
@@ -5624,7 +5624,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むすめ",
     "ruby": "<ruby>娘<rt>むすめ</rt></ruby>",
     "meaning": "(humble) daughter",
-    "ex_ja": "猫娘は好き。",
+    "ex_ja": "<ruby>猫娘<rt>ねこむすめ</rt></ruby>は<ruby>好<rt>す</rt></ruby>き。",
     "ex_en": "I like catgirls."
   },
   {
@@ -5640,7 +5640,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もうすぐ",
     "ruby": "もうすぐ",
     "meaning": "soon",
-    "ex_ja": "もうすぐ冬だ。",
+    "ex_ja": "もうすぐ<ruby>冬<rt>ふゆ</rt></ruby>だ。",
     "ex_en": "Winter is drawing on."
   },
   {
@@ -5656,7 +5656,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もし",
     "ruby": "もし",
     "meaning": "if",
-    "ex_ja": "何もしないよ。",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>もしないよ。",
     "ex_en": "I won't do anything."
   },
   {
@@ -5688,7 +5688,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もっとも",
     "ruby": "もっとも",
     "meaning": "extremely",
-    "ex_ja": "君が怒るのももっともだ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>るのももっともだ。",
     "ex_en": "You have good reason to be angry."
   },
   {
@@ -5704,7 +5704,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もめん",
     "ruby": "<ruby>木綿<rt>もめん</rt></ruby>",
     "meaning": "cotton",
-    "ex_ja": "このブラウスは木綿製です。",
+    "ex_ja": "このブラウスは<ruby>木綿<rt>もめん</rt></ruby><ruby>製<rt>せい</rt></ruby>です。",
     "ex_en": "This blouse is cotton."
   },
   {
@@ -5720,7 +5720,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やくそく",
     "ruby": "<ruby>約束<rt>やくそく</rt></ruby>",
     "meaning": "promise",
-    "ex_ja": "約束するよ。",
+    "ex_ja": "<ruby>約束<rt>やくそく</rt></ruby>するよ。",
     "ex_en": "I give you my word."
   },
   {
@@ -5736,7 +5736,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆ",
     "ruby": "<ruby>湯<rt>ゆ</rt></ruby>",
     "meaning": "hot water",
-    "ex_ja": "いい湯だなあ。",
+    "ex_ja": "いい<ruby>湯<rt>ゆ</rt></ruby>だなあ。",
     "ex_en": "Ah, this hot water's good!"
   },
   {
@@ -5752,7 +5752,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆしゅつする",
     "ruby": "<ruby>輸出<rt>ゆしゅつする</rt></ruby>",
     "meaning": "to export",
-    "ex_ja": "輸出業界は青息吐息だ。",
+    "ex_ja": "<ruby>輸出<rt>ゆしゅつ</rt></ruby><ruby>業界<rt>ぎょうかい</rt></ruby>は<ruby>青息吐息<rt>あおいきといき</rt></ruby>だ。",
     "ex_en": "The export business isn't doing well."
   },
   {
@@ -5768,7 +5768,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆにゅうする",
     "ruby": "<ruby>輸入<rt>ゆにゅうする</rt></ruby>",
     "meaning": "to import",
-    "ex_ja": "輸入車の需要は強い。",
+    "ex_ja": "<ruby>輸入<rt>ゆにゅう</rt></ruby><ruby>車<rt>しゃ</rt></ruby>の<ruby>需要<rt>じゅよう</rt></ruby>は<ruby>強<rt>つよ</rt></ruby>い。",
     "ex_en": "Imported cars are in strong demand."
   },
   {
@@ -5784,7 +5784,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆび",
     "ruby": "<ruby>指<rt>ゆび</rt></ruby>",
     "meaning": "finger",
-    "ex_ja": "指を開いて。",
+    "ex_ja": "<ruby>指<rt>ゆび</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて。",
     "ex_en": "Spread your fingers."
   },
   {
@@ -5800,7 +5800,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆびわ",
     "ruby": "<ruby>指輪<rt>ゆびわ</rt></ruby>",
     "meaning": "finger ring",
-    "ex_ja": "指輪がない。",
+    "ex_ja": "<ruby>指輪<rt>ゆびわ</rt></ruby>がない。",
     "ex_en": "My ring is gone."
   },
   {
@@ -5816,7 +5816,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆめ",
     "ruby": "<ruby>夢<rt>ゆめ</rt></ruby>",
     "meaning": "dream",
-    "ex_ja": "夢をつかめ！",
+    "ex_ja": "<ruby>夢<rt>ゆめ</rt></ruby>をつかめ！",
     "ex_en": "Get the dream."
   },
   {
@@ -5832,7 +5832,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よう",
     "ruby": "<ruby>用<rt>よう</rt></ruby>",
     "meaning": "use",
-    "ex_ja": "他にご用は？",
+    "ex_ja": "<ruby>他<rt>た</rt></ruby>にご<ruby>用<rt>よう</rt></ruby>は？",
     "ex_en": "Did you want anything else?"
   },
   {
@@ -5848,7 +5848,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ようい",
     "ruby": "<ruby>用意<rt>ようい</rt></ruby>",
     "meaning": "preparation",
-    "ex_ja": "早く用意して。",
+    "ex_ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>用意<rt>ようい</rt></ruby>して。",
     "ex_en": "Get ready quickly."
   },
   {
@@ -5864,7 +5864,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ようじ",
     "ruby": "<ruby>用事<rt>ようじ</rt></ruby>",
     "meaning": "things to do",
-    "ex_ja": "今日用事あるの？",
+    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby><ruby>用事<rt>ようじ</rt></ruby>あるの？",
     "ex_en": "Is there anything you need to do today?"
   },
   {
@@ -5880,7 +5880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よしゅう",
     "ruby": "<ruby>予習<rt>よしゅう</rt></ruby>",
     "meaning": "preparation for a lesson",
-    "ex_ja": "彼は予習した。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>予習<rt>よしゅう</rt></ruby>した。",
     "ex_en": "He prepared his lessons."
   },
   {
@@ -5896,7 +5896,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よてい",
     "ruby": "<ruby>予定<rt>よてい</rt></ruby>",
     "meaning": "arrangement",
-    "ex_ja": "次の予定は？",
+    "ex_ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>は？",
     "ex_en": "What's next on the schedule?"
   },
   {
@@ -5912,7 +5912,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よやく",
     "ruby": "<ruby>予約<rt>よやく</rt></ruby>",
     "meaning": "reservation",
-    "ex_ja": "予約してある。",
+    "ex_ja": "<ruby>予約<rt>よやく</rt></ruby>してある。",
     "ex_en": "I have a reservation."
   },
   {
@@ -5928,7 +5928,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "りゆう",
     "ruby": "<ruby>理由<rt>りゆう</rt></ruby>",
     "meaning": "reason",
-    "ex_ja": "理由は簡単だよ。",
+    "ex_ja": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>だよ。",
     "ex_en": "The reason is simple."
   },
   {
@@ -5944,7 +5944,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "りょうほう",
     "ruby": "<ruby>両方<rt>りょうほう</rt></ruby>",
     "meaning": "both sides",
-    "ex_ja": "両方好きよ。",
+    "ex_ja": "<ruby>両方<rt>りょうほう</rt></ruby><ruby>好<rt>す</rt></ruby>きよ。",
     "ex_en": "I like both of them."
   },
   {
@@ -5960,7 +5960,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "りょかん",
     "ruby": "<ruby>旅館<rt>りょかん</rt></ruby>",
     "meaning": "Japanese hotel",
-    "ex_ja": "あの旅館は家庭的だ。",
+    "ex_ja": "あの<ruby>旅館<rt>りょかん</rt></ruby>は<ruby>家庭<rt>かてい</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。",
     "ex_en": "The hotel has a homey atmosphere."
   },
   {
@@ -5976,7 +5976,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "りよう",
     "ruby": "<ruby>利用<rt>りよう</rt></ruby>",
     "meaning": "utilization",
-    "ex_ja": "再利用するの？",
+    "ex_ja": "<ruby>再<rt>さい</rt></ruby><ruby>利用<rt>りよう</rt></ruby>するの？",
     "ex_en": "Do you recycle?"
   },
   {
@@ -5992,7 +5992,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "るす",
     "ruby": "<ruby>留守<rt>るす</rt></ruby>",
     "meaning": "absence",
-    "ex_ja": "母は留守です。",
+    "ex_ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>留守<rt>るす</rt></ruby>です。",
     "ex_en": "Mother is away from home."
   },
   {
@@ -6008,7 +6008,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "れいぼう",
     "ruby": "<ruby>冷房<rt>れいぼう</rt></ruby>",
     "meaning": "air conditioning",
-    "ex_ja": "この部屋は冷房してある。",
+    "ex_ja": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>冷房<rt>れいぼう</rt></ruby>してある。",
     "ex_en": "This room is air-conditioned."
   },
   {
@@ -6024,7 +6024,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "れきし",
     "ruby": "<ruby>歴史<rt>れきし</rt></ruby>",
     "meaning": "history",
-    "ex_ja": "歴史は繰り返す。",
+    "ex_ja": "<ruby>歴史<rt>れきし</rt></ruby>は<ruby>繰り返<rt>くりかえ</rt></ruby>す。",
     "ex_en": "History repeats itself."
   },
   {
@@ -6040,7 +6040,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "れんらく",
     "ruby": "<ruby>連絡<rt>れんらく</rt></ruby>",
     "meaning": "contact",
-    "ex_ja": "連絡してね。",
+    "ex_ja": "<ruby>連絡<rt>れんらく</rt></ruby>してね。",
     "ex_en": "Keep in touch."
   },
   {
@@ -6056,7 +6056,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わけ",
     "ruby": "<ruby>訳<rt>わけ</rt></ruby>",
     "meaning": "meaning; reason",
-    "ex_ja": "その内訳は？",
+    "ex_ja": "その<ruby>内訳<rt>うちわけ</rt></ruby>は？",
     "ex_en": "Give me the details."
   },
   {
@@ -6072,7 +6072,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わすれもの",
     "ruby": "<ruby>忘れ物<rt>わすれもの</rt></ruby>",
     "meaning": "lost article",
-    "ex_ja": "忘れ物ない？",
+    "ex_ja": "<ruby>忘れ物<rt>わすれもの</rt></ruby>ない？",
     "ex_en": "Do you have everything?"
   },
   {
@@ -6088,7 +6088,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わりあい",
     "ruby": "<ruby>割合<rt>わりあい</rt></ruby>",
     "meaning": "rate; ratio; percentage",
-    "ex_ja": "彼らは１時間３マイルの割合で歩いた。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らは１<ruby>時間<rt>じかん</rt></ruby>３マイルの<ruby>割合<rt>わりあい</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>いた。",
     "ex_en": "They walked at the rate of three miles an hour."
   },
   {
@@ -6136,7 +6136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あう",
     "ruby": "<ruby>合う<rt>あう</rt></ruby>",
     "meaning": "to match",
-    "ex_ja": "黒が似合うね。",
+    "ex_ja": "<ruby>黒<rt>くろ</rt></ruby>が<ruby>似合<rt>にあ</rt></ruby>うね。",
     "ex_en": "You look good in black."
   },
   {
@@ -6152,7 +6152,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あがる",
     "ruby": "<ruby>上る<rt>あがる</rt></ruby>",
     "meaning": "to rise",
-    "ex_ja": "月は東から上る。",
+    "ex_ja": "<ruby>月<rt>つき</rt></ruby>は<ruby>東<rt>ひがし</rt></ruby>から<ruby>上<rt>のぼ</rt></ruby>る。",
     "ex_en": "The moon rises in the east."
   },
   {
@@ -6168,7 +6168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あく",
     "ruby": "<ruby>空く<rt>あく</rt></ruby>",
     "meaning": "to open; to become empty",
-    "ex_ja": "あと１０分で手が空く。",
+    "ex_ja": "あと１０<ruby>分<rt>ふん</rt></ruby>で<ruby>手<rt>て</rt></ruby>が<ruby>空<rt>す</rt></ruby>く。",
     "ex_en": "I will be free in ten minutes."
   },
   {
@@ -6216,7 +6216,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あつめる",
     "ruby": "<ruby>集める<rt>あつめる</rt></ruby>",
     "meaning": "to collect something",
-    "ex_ja": "はがきを集める。",
+    "ex_ja": "はがきを<ruby>集<rt>あつ</rt></ruby>める。",
     "ex_en": "I collect postcards."
   },
   {
@@ -6232,7 +6232,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あやまる",
     "ruby": "<ruby>謝る<rt>あやまる</rt></ruby>",
     "meaning": "to apologize",
-    "ex_ja": "謝るしかない。",
+    "ex_ja": "<ruby>謝<rt>あやま</rt></ruby>るしかない。",
     "ex_en": "There is nothing to do but apologize."
   },
   {
@@ -6248,7 +6248,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いきる",
     "ruby": "<ruby>生きる<rt>いきる</rt></ruby>",
     "meaning": "to live",
-    "ex_ja": "生きるのは危険です。",
+    "ex_ja": "<ruby>生<rt>い</rt></ruby>きるのは<ruby>危険<rt>きけん</rt></ruby>です。",
     "ex_en": "Living is dangerous."
   },
   {
@@ -6264,7 +6264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いじめる",
     "ruby": "いじめる",
     "meaning": "to tease",
-    "ex_ja": "新人をいじめるな。",
+    "ex_ja": "<ruby>新人<rt>しんじん</rt></ruby>をいじめるな。",
     "ex_en": "Do not harass the new people!"
   },
   {
@@ -6280,7 +6280,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いたす",
     "ruby": "<ruby>致す<rt>いたす</rt></ruby>",
     "meaning": "(humble) to do",
-    "ex_ja": "両極端は一致する。",
+    "ex_ja": "<ruby>両極端<rt>りょうきょくたん</rt></ruby>は<ruby>一致<rt>いっち</rt></ruby>する。",
     "ex_en": "Extremes meet."
   },
   {
@@ -6312,7 +6312,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いのる",
     "ruby": "<ruby>祈る<rt>いのる</rt></ruby>",
     "meaning": "to pray",
-    "ex_ja": "成功を祈るわ。",
+    "ex_ja": "<ruby>成功<rt>せいこう</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>るわ。",
     "ex_en": "Break a leg."
   },
   {
@@ -6328,7 +6328,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いらっしゃる",
     "ruby": "いらっしゃる",
     "meaning": "(respectful) to be; to come or to go",
-    "ex_ja": "お子さんはいらっしゃるの？",
+    "ex_ja": "お<ruby>子<rt>こ</rt></ruby>さんはいらっしゃるの？",
     "ex_en": "Do you have any kids?"
   },
   {
@@ -6344,7 +6344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うえる",
     "ruby": "<ruby>植える<rt>うえる</rt></ruby>",
     "meaning": "to plant; to grow",
-    "ex_ja": "春は木を植える時期です。",
+    "ex_ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>える<ruby>時期<rt>じき</rt></ruby>です。",
     "ex_en": "Spring is the time to plant trees."
   },
   {
@@ -6376,7 +6376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うける",
     "ruby": "<ruby>受ける<rt>うける</rt></ruby>",
     "meaning": "to take a lesson or test",
-    "ex_ja": "ワクチンを受けるの？",
+    "ex_ja": "ワクチンを<ruby>受<rt>う</rt></ruby>けるの？",
     "ex_en": "Will you get vaccinated?"
   },
   {
@@ -6392,7 +6392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うごく",
     "ruby": "<ruby>動く<rt>うごく</rt></ruby>",
     "meaning": "to move",
-    "ex_ja": "心が動くね。",
+    "ex_ja": "<ruby>心<rt>こころ</rt></ruby>が<ruby>動<rt>うご</rt></ruby>くね。",
     "ex_en": "That sounds very tempting."
   },
   {
@@ -6408,7 +6408,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うつ",
     "ruby": "<ruby>打つ<rt>うつ</rt></ruby>",
     "meaning": "to hit",
-    "ex_ja": "打つ手がないね。",
+    "ex_ja": "<ruby>打つ手<rt>うつて</rt></ruby>がないね。",
     "ex_en": "I'm all out of tricks."
   },
   {
@@ -6424,7 +6424,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うつす",
     "ruby": "<ruby>写す<rt>うつす</rt></ruby>",
     "meaning": "to copy or photograph",
-    "ex_ja": "彼女は友達のノートを写す。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>のノートを<ruby>写<rt>うつ</rt></ruby>す。",
     "ex_en": "She will copy her friend's notebook."
   },
   {
@@ -6440,7 +6440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うつる",
     "ruby": "<ruby>移る<rt>うつる</rt></ruby>",
     "meaning": "to move house or transfer",
-    "ex_ja": "熱意は移る。",
+    "ex_ja": "<ruby>熱意<rt>ねつい</rt></ruby>は<ruby>移<rt>うつ</rt></ruby>る。",
     "ex_en": "Enthusiasm is contagious."
   },
   {
@@ -6456,7 +6456,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "えらぶ",
     "ruby": "<ruby>選ぶ<rt>えらぶ</rt></ruby>",
     "meaning": "to choose",
-    "ex_ja": "金を選ぶべきだった。",
+    "ex_ja": "<ruby>金<rt>きん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶべきだった。",
     "ex_en": "I should have taken the money."
   },
   {
@@ -6488,7 +6488,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おくる",
     "ruby": "<ruby>送る<rt>おくる</rt></ruby>",
     "meaning": "to send",
-    "ex_ja": "誰に送るの？",
+    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>るの？",
     "ex_en": "Who are they for?"
   },
   {
@@ -6504,7 +6504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おくれる",
     "ruby": "<ruby>遅れる<rt>おくれる</rt></ruby>",
     "meaning": "to be late",
-    "ex_ja": "遅れるなよ。",
+    "ex_ja": "<ruby>遅<rt>おく</rt></ruby>れるなよ。",
     "ex_en": "Don't be late."
   },
   {
@@ -6520,7 +6520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おこす",
     "ruby": "<ruby>起す<rt>おこす</rt></ruby>",
     "meaning": "to wake",
-    "ex_ja": "試験は大きな問題を提起する。",
+    "ex_ja": "<ruby>試験<rt>しけん</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>問題<rt>もんだい</rt></ruby>を<ruby>提起<rt>ていき</rt></ruby>する。",
     "ex_en": "Examinations pose a big problem."
   },
   {
@@ -6536,7 +6536,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おこなう",
     "ruby": "<ruby>行う<rt>おこなう</rt></ruby>",
     "meaning": "to do",
-    "ex_ja": "言うは易く行うは難し。",
+    "ex_ja": "<ruby>言<rt>い</rt></ruby>うは<ruby>易<rt>やす</rt></ruby>く<ruby>行<rt>おこな</rt></ruby>うは<ruby>難<rt>かた</rt></ruby>し。",
     "ex_en": "It's easier said than done."
   },
   {
@@ -6552,7 +6552,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おこる",
     "ruby": "<ruby>怒る<rt>おこる</rt></ruby>",
     "meaning": "to get angry; to be angry",
-    "ex_ja": "彼はすぐ怒る。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はすぐ<ruby>怒<rt>おこ</rt></ruby>る。",
     "ex_en": "He gets mad very easily."
   },
   {
@@ -6584,7 +6584,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おっしゃる",
     "ruby": "おっしゃる",
     "meaning": "(respectful) to say",
-    "ex_ja": "おっしゃる通りです。",
+    "ex_ja": "おっしゃる<ruby>通<rt>とお</rt></ruby>りです。",
     "ex_en": "You're right."
   },
   {
@@ -6600,7 +6600,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おとす",
     "ruby": "<ruby>落す<rt>おとす</rt></ruby>",
     "meaning": "to drop",
-    "ex_ja": "そのコップを落すな。",
+    "ex_ja": "そのコップを<ruby>落<rt>おと</rt></ruby>すな。",
     "ex_en": "Don't drop that cup."
   },
   {
@@ -6616,7 +6616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おどる",
     "ruby": "<ruby>踊る<rt>おどる</rt></ruby>",
     "meaning": "to dance",
-    "ex_ja": "踊るのが大っ嫌い。",
+    "ex_ja": "<ruby>踊<rt>おど</rt></ruby>るのが<ruby>大<rt>だい</rt></ruby>っ<ruby>嫌<rt>きら</rt></ruby>い。",
     "ex_en": "I hate dancing."
   },
   {
@@ -6632,7 +6632,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おどろく",
     "ruby": "<ruby>驚く<rt>おどろく</rt></ruby>",
     "meaning": "to be surprised",
-    "ex_ja": "彼女はきっと驚く。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>はきっと<ruby>驚<rt>おどろ</rt></ruby>く。",
     "ex_en": "She is certain to be surprised."
   },
   {
@@ -6648,7 +6648,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おもいだす",
     "ruby": "<ruby>思い出す<rt>おもいだす</rt></ruby>",
     "meaning": "to remember",
-    "ex_ja": "最初のころを思い出す。",
+    "ex_ja": "<ruby>最初<rt>さいしょ</rt></ruby>のころを<ruby>思い出<rt>おもいだ</rt></ruby>す。",
     "ex_en": "I remember the first time."
   },
   {
@@ -6664,7 +6664,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おもう",
     "ruby": "<ruby>思う<rt>おもう</rt></ruby>",
     "meaning": "to think; to feel",
-    "ex_ja": "誰だと思う？",
+    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>う？",
     "ex_en": "Guess who?"
   },
   {
@@ -6680,7 +6680,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おりる",
     "ruby": "<ruby>下りる<rt>おりる</rt></ruby>",
     "meaning": "to get off",
-    "ex_ja": "階段を下りるのがつらくてね。",
+    "ex_ja": "<ruby>階段<rt>かいだん</rt></ruby>を<ruby>下<rt>お</rt></ruby>りるのがつらくてね。",
     "ex_en": "I have trouble walking down stairs."
   },
   {
@@ -6712,7 +6712,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おる",
     "ruby": "<ruby>折る<rt>おる</rt></ruby>",
     "meaning": "to break or to fold",
-    "ex_ja": "木を折るな。",
+    "ex_ja": "<ruby>木<rt>き</rt></ruby>を<ruby>折<rt>お</rt></ruby>るな。",
     "ex_en": "Don't break the branches."
   },
   {
@@ -6728,7 +6728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おれる",
     "ruby": "<ruby>折れる<rt>おれる</rt></ruby>",
     "meaning": "to break or be folded",
-    "ex_ja": "折れるより曲がれ。",
+    "ex_ja": "<ruby>折<rt>お</rt></ruby>れるより<ruby>曲<rt>ま</rt></ruby>がれ。",
     "ex_en": "Better to bend than break."
   },
   {
@@ -6760,7 +6760,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かえる",
     "ruby": "<ruby>変える<rt>かえる</rt></ruby>",
     "meaning": "to change",
-    "ex_ja": "熱は氷を水に変える。",
+    "ex_ja": "<ruby>熱<rt>ねつ</rt></ruby>は<ruby>氷<rt>こおり</rt></ruby>を<ruby>水<rt>みず</rt></ruby>に<ruby>変<rt>か</rt></ruby>える。",
     "ex_en": "Heat changes ice into water."
   },
   {
@@ -6776,7 +6776,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かける",
     "ruby": "<ruby>掛ける<rt>かける</rt></ruby>",
     "meaning": "to hang something",
-    "ex_ja": "４掛ける２は８だ。",
+    "ex_ja": "４<ruby>掛<rt>か</rt></ruby>ける２は８だ。",
     "ex_en": "Four multiplied by two is eight."
   },
   {
@@ -6792,7 +6792,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かざる",
     "ruby": "<ruby>飾る<rt>かざる</rt></ruby>",
     "meaning": "to decorate",
-    "ex_ja": "私は部屋を花で飾るのが好きだ。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>を<ruby>花<rt>はな</rt></ruby>で<ruby>飾<rt>かざ</rt></ruby>るのが<ruby>好<rt>す</rt></ruby>きだ。",
     "ex_en": "I like to adorn my room with flowers."
   },
   {
@@ -6808,7 +6808,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かたづける",
     "ruby": "<ruby>片付ける<rt>かたづける</rt></ruby>",
     "meaning": "to tidy up",
-    "ex_ja": "家を片付ける必要がある。",
+    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>がある。",
     "ex_en": "I need to declutter my house."
   },
   {
@@ -6840,7 +6840,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かつ",
     "ruby": "<ruby>勝つ<rt>かつ</rt></ruby>",
     "meaning": "to win",
-    "ex_ja": "戦いに勝つ。",
+    "ex_ja": "<ruby>戦<rt>たたか</rt></ruby>いに<ruby>勝<rt>か</rt></ruby>つ。",
     "ex_en": "We will win the day."
   },
   {
@@ -6872,7 +6872,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かむ",
     "ruby": "<ruby>噛む<rt>かむ</rt></ruby>",
     "meaning": "to bite; to chew",
-    "ex_ja": "窮鼠猫を噛む。",
+    "ex_ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。",
     "ex_en": "A cornered rat will bite a cat."
   },
   {
@@ -6888,7 +6888,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かよう",
     "ruby": "<ruby>通う<rt>かよう</rt></ruby>",
     "meaning": "to commute",
-    "ex_ja": "私は歩いて学校に通う。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>いて<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>う。",
     "ex_en": "I go to school on foot."
   },
   {
@@ -6904,7 +6904,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かわく",
     "ruby": "<ruby>乾く<rt>かわく</rt></ruby>",
     "meaning": "to get dry",
-    "ex_ja": "皮は乾くにつれて堅くなった。",
+    "ex_ja": "<ruby>皮<rt>かわ</rt></ruby>は<ruby>乾<rt>かわ</rt></ruby>くにつれて<ruby>堅<rt>かた</rt></ruby>くなった。",
     "ex_en": "The skin tightened as it dried."
   },
   {
@@ -6920,7 +6920,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かわる",
     "ruby": "<ruby>変わる<rt>かわる</rt></ruby>",
     "meaning": "to change",
-    "ex_ja": "水は蒸気に変わる。",
+    "ex_ja": "<ruby>水<rt>みず</rt></ruby>は<ruby>蒸気<rt>じょうき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わる。",
     "ex_en": "Water changes into steam."
   },
   {
@@ -6936,7 +6936,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かんがえる",
     "ruby": "<ruby>考える<rt>かんがえる</rt></ruby>",
     "meaning": "to consider",
-    "ex_ja": "なぜそう考えるの？",
+    "ex_ja": "なぜそう<ruby>考<rt>かんが</rt></ruby>えるの？",
     "ex_en": "What makes you think so?"
   },
   {
@@ -6968,7 +6968,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きこえる",
     "ruby": "<ruby>聞こえる<rt>きこえる</rt></ruby>",
     "meaning": "to be heard",
-    "ex_ja": "何か聞こえる？",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>か<ruby>聞<rt>き</rt></ruby>こえる？",
     "ex_en": "Do you hear any sound?"
   },
   {
@@ -6984,7 +6984,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きまる",
     "ruby": "<ruby>決る<rt>きまる</rt></ruby>",
     "meaning": "to be decided",
-    "ex_ja": "青春期がどのくらい長く続くかは生物学的要因によって決る。",
+    "ex_ja": "<ruby>青春<rt>せいしゅん</rt></ruby><ruby>期<rt>き</rt></ruby>がどのくらい<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>くかは<ruby>生物<rt>せいぶつ</rt></ruby><ruby>学<rt>がく</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>によって<ruby>決<rt>きま</rt></ruby>る。",
     "ex_en": "How long adolescence continues is determined by biological factors."
   },
   {
@@ -7000,7 +7000,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きめる",
     "ruby": "<ruby>決める<rt>きめる</rt></ruby>",
     "meaning": "to decide",
-    "ex_ja": "投票で決める。",
+    "ex_ja": "<ruby>投票<rt>とうひょう</rt></ruby>で<ruby>決<rt>き</rt></ruby>める。",
     "ex_en": "We'll decide by voting."
   },
   {
@@ -7016,7 +7016,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くださる",
     "ruby": "くださる",
     "meaning": "(respectful) to give",
-    "ex_ja": "最寄駅で降ろしてくださる？",
+    "ex_ja": "<ruby>最寄駅<rt>もよりえき</rt></ruby>で<ruby>降<rt>お</rt></ruby>ろしてくださる？",
     "ex_en": "Would you kindly let me off at the nearest station?"
   },
   {
@@ -7032,7 +7032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くらべる",
     "ruby": "<ruby>比べる<rt>くらべる</rt></ruby>",
     "meaning": "to compare",
-    "ex_ja": "以前と比べるとよくなった。",
+    "ex_ja": "<ruby>以前<rt>いぜん</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べるとよくなった。",
     "ex_en": "It's better than it was before."
   },
   {
@@ -7064,7 +7064,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くれる",
     "ruby": "<ruby>暮れる<rt>くれる</rt></ruby>",
     "meaning": "to get dark; to come to an end",
-    "ex_ja": "冬の日は速く暮れる。",
+    "ex_ja": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く<ruby>暮<rt>く</rt></ruby>れる。",
     "ex_en": "The night falls fast in winter."
   },
   {
@@ -7096,7 +7096,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "けんかする",
     "ruby": "けんかする",
     "meaning": "to quarrel",
-    "ex_ja": "私はよく彼女とけんかする。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>はよく<ruby>彼女<rt>かのじょ</rt></ruby>とけんかする。",
     "ex_en": "I often have quarrels with her."
   },
   {
@@ -7112,7 +7112,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こう",
     "ruby": "こう",
     "meaning": "this way",
-    "ex_ja": "車で行こう。",
+    "ex_ja": "<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>こう。",
     "ex_en": "Let's go by car."
   },
   {
@@ -7128,7 +7128,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こむ",
     "ruby": "<ruby>込む<rt>こむ</rt></ruby>",
     "meaning": "to be crowded",
-    "ex_ja": "綿は水を吸い込む。",
+    "ex_ja": "<ruby>綿<rt>めん</rt></ruby>は<ruby>水<rt>みず</rt></ruby>を<ruby>吸い込<rt>すいこ</rt></ruby>む。",
     "ex_en": "Cotton sucks up water."
   },
   {
@@ -7144,7 +7144,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こわす",
     "ruby": "<ruby>壊す<rt>こわす</rt></ruby>",
     "meaning": "to break",
-    "ex_ja": "文化は言語を破壊する。",
+    "ex_ja": "<ruby>文化<rt>ぶんか</rt></ruby>は<ruby>言語<rt>げんご</rt></ruby>を<ruby>破壊<rt>はかい</rt></ruby>する。",
     "ex_en": "Culture destroys language."
   },
   {
@@ -7160,7 +7160,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こわれる",
     "ruby": "<ruby>壊れる<rt>こわれる</rt></ruby>",
     "meaning": "to be broken",
-    "ex_ja": "形あるものはいつか壊れる。",
+    "ex_ja": "<ruby>形<rt>かたち</rt></ruby>あるものはいつか<ruby>壊<rt>こわ</rt></ruby>れる。",
     "ex_en": "Anything having form will someday break."
   },
   {
@@ -7208,7 +7208,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さがす",
     "ruby": "<ruby>探す<rt>さがす</rt></ruby>",
     "meaning": "to look for",
-    "ex_ja": "他の仕事を探すよ。",
+    "ex_ja": "<ruby>他<rt>た</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すよ。",
     "ex_en": "I'll find another job."
   },
   {
@@ -7224,7 +7224,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さがる",
     "ruby": "<ruby>下る<rt>さがる</rt></ruby>",
     "meaning": "to get down; to descend",
-    "ex_ja": "坂を下ると海が見えてきました。",
+    "ex_ja": "<ruby>坂<rt>さか</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>ると<ruby>海<rt>うみ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えてきました。",
     "ex_en": "The ocean came into view as we descended the hill."
   },
   {
@@ -7240,7 +7240,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さげる",
     "ruby": "<ruby>下げる<rt>さげる</rt></ruby>",
     "meaning": "to hang; to lower; to move back",
-    "ex_ja": "関税を下げることを望む。",
+    "ex_ja": "<ruby>関税<rt>かんぜい</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げることを<ruby>望<rt>のぞ</rt></ruby>む。",
     "ex_en": "We hope to lower the tariff."
   },
   {
@@ -7256,7 +7256,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さしあげる",
     "ruby": "<ruby>差し上げる<rt>さしあげる</rt></ruby>",
     "meaning": "(polite) to give",
-    "ex_ja": "突然にかような奇怪な手紙を差し上げる非礼をお許し下さい。",
+    "ex_ja": "<ruby>突然<rt>とつぜん</rt></ruby>にかような<ruby>奇怪<rt>きかい</rt></ruby>な<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>差し上<rt>さしあ</rt></ruby>げる<ruby>非礼<rt>ひれい</rt></ruby>をお<ruby>許<rt>ゆる</rt></ruby>し<ruby>下<rt>くだ</rt></ruby>さい。",
     "ex_en": "Please forgive my impoliteness in sending you suddenly such a strange letter."
   },
   {
@@ -7272,7 +7272,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さわる",
     "ruby": "<ruby>触る<rt>さわる</rt></ruby>",
     "meaning": "to touch",
-    "ex_ja": "それに触るな。",
+    "ex_ja": "それに<ruby>触<rt>さわ</rt></ruby>るな。",
     "ex_en": "Don't touch it."
   },
   {
@@ -7320,7 +7320,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しらせる",
     "ruby": "<ruby>知らせる<rt>しらせる</rt></ruby>",
     "meaning": "to notify",
-    "ex_ja": "後で知らせるよ。",
+    "ex_ja": "<ruby>後<rt>あと</rt></ruby>で<ruby>知<rt>し</rt></ruby>らせるよ。",
     "ex_en": "I'll let you know later."
   },
   {
@@ -7336,7 +7336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "しらべる",
     "ruby": "<ruby>調べる<rt>しらべる</rt></ruby>",
     "meaning": "to investigate",
-    "ex_ja": "辞書で単語を調べる。",
+    "ex_ja": "<ruby>辞書<rt>じしょ</rt></ruby>で<ruby>単語<rt>たんご</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる。",
     "ex_en": "I'll look up the vocabulary in the dictionary."
   },
   {
@@ -7352,7 +7352,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すぎる",
     "ruby": "<ruby>過ぎる<rt>すぎる</rt></ruby>",
     "meaning": "to exceed",
-    "ex_ja": "静か過ぎる。",
+    "ex_ja": "<ruby>静<rt>しず</rt></ruby>か<ruby>過<rt>す</rt></ruby>ぎる。",
     "ex_en": "It's too quiet."
   },
   {
@@ -7368,7 +7368,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すく",
     "ruby": "すく",
     "meaning": "to become empty",
-    "ex_ja": "彼女は肩をすくめた。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>肩<rt>かた</rt></ruby>をすくめた。",
     "ex_en": "She gave a shrug of the shoulders."
   },
   {
@@ -7384,7 +7384,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すすむ",
     "ruby": "<ruby>進む<rt>すすむ</rt></ruby>",
     "meaning": "to make progress",
-    "ex_ja": "私の腕時計は少し進む。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>腕時計<rt>うでどけい</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>進<rt>すす</rt></ruby>む。",
     "ex_en": "My watch runs too fast."
   },
   {
@@ -7400,7 +7400,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すてる",
     "ruby": "<ruby>捨てる<rt>すてる</rt></ruby>",
     "meaning": "to throw away",
-    "ex_ja": "ここにゴミ捨てるべからず。",
+    "ex_ja": "ここにゴミ<ruby>捨<rt>す</rt></ruby>てるべからず。",
     "ex_en": "No dumping rubbish here!"
   },
   {
@@ -7416,7 +7416,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すべる",
     "ruby": "<ruby>滑る<rt>すべる</rt></ruby>",
     "meaning": "to slide; to slip",
-    "ex_ja": "スキーは滑る？",
+    "ex_ja": "スキーは<ruby>滑<rt>すべ</rt></ruby>る？",
     "ex_en": "Do you ski?"
   },
   {
@@ -7432,7 +7432,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すむ",
     "ruby": "<ruby>済む<rt>すむ</rt></ruby>",
     "meaning": "to finish",
-    "ex_ja": "気が済むまでやってみたら。",
+    "ex_ja": "<ruby>気<rt>き</rt></ruby>が<ruby>済<rt>す</rt></ruby>むまでやってみたら。",
     "ex_en": "You should continue until you're satisfied."
   },
   {
@@ -7448,7 +7448,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そう",
     "ruby": "そう",
     "meaning": "really",
-    "ex_ja": "本当にそう。",
+    "ex_ja": "<ruby>本当<rt>ほんとう</rt></ruby>にそう。",
     "ex_en": "You can't be so sure."
   },
   {
@@ -7464,7 +7464,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そだてる",
     "ruby": "<ruby>育てる<rt>そだてる</rt></ruby>",
     "meaning": "to rear; to bring up",
-    "ex_ja": "読書は精神を育てる。",
+    "ex_ja": "<ruby>読書<rt>どくしょ</rt></ruby>は<ruby>精神<rt>せいしん</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てる。",
     "ex_en": "Reading develops the mind."
   },
   {
@@ -7480,7 +7480,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たおれる",
     "ruby": "<ruby>倒れる<rt>たおれる</rt></ruby>",
     "meaning": "to break down",
-    "ex_ja": "内部分裂した家は倒れる。",
+    "ex_ja": "<ruby>内部<rt>ないぶ</rt></ruby><ruby>分裂<rt>ぶんれつ</rt></ruby>した<ruby>家<rt>いえ</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>れる。",
     "ex_en": "A house divided against itself can't stand."
   },
   {
@@ -7496,7 +7496,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たす",
     "ruby": "<ruby>足す<rt>たす</rt></ruby>",
     "meaning": "to add a number",
-    "ex_ja": "１足す２は３である。",
+    "ex_ja": "１<ruby>足<rt>た</rt></ruby>す２は３である。",
     "ex_en": "One plus two equals three."
   },
   {
@@ -7512,7 +7512,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たずねる",
     "ruby": "<ruby>尋ねる<rt>たずねる</rt></ruby>",
     "meaning": "to ask",
-    "ex_ja": "尋ねるだけの価値がある。",
+    "ex_ja": "<ruby>尋<rt>たず</rt></ruby>ねるだけの<ruby>価値<rt>かち</rt></ruby>がある。",
     "ex_en": "I think it's worth asking."
   },
   {
@@ -7528,7 +7528,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たずねる",
     "ruby": "<ruby>訪ねる<rt>たずねる</rt></ruby>",
     "meaning": "to visit",
-    "ex_ja": "明日彼を訪ねるつもりだ。",
+    "ex_ja": "<ruby>明日<rt>あした</rt></ruby><ruby>彼<rt>かれ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねるつもりだ。",
     "ex_en": "I'll call on him tomorrow."
   },
   {
@@ -7544,7 +7544,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たてる",
     "ruby": "<ruby>建てる<rt>たてる</rt></ruby>",
     "meaning": "to build",
-    "ex_ja": "父は壁を建てるのに忙しい。",
+    "ex_ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>壁<rt>かべ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てるのに<ruby>忙<rt>いそが</rt></ruby>しい。",
     "ex_en": "Father is busy putting up a wall."
   },
   {
@@ -7560,7 +7560,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たてる",
     "ruby": "<ruby>立てる<rt>たてる</rt></ruby>",
     "meaning": "to stand something up",
-    "ex_ja": "腹を立てるな。",
+    "ex_ja": "<ruby>腹<rt>はら</rt></ruby>を<ruby>立<rt>た</rt></ruby>てるな。",
     "ex_en": "Don't get angry."
   },
   {
@@ -7592,7 +7592,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "たりる",
     "ruby": "<ruby>足りる<rt>たりる</rt></ruby>",
     "meaning": "to be enough",
-    "ex_ja": "これで足りる？",
+    "ex_ja": "これで<ruby>足<rt>た</rt></ruby>りる？",
     "ex_en": "Is this enough?"
   },
   {
@@ -7624,7 +7624,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つかまえる",
     "ruby": "<ruby>捕まえる<rt>つかまえる</rt></ruby>",
     "meaning": "to seize",
-    "ex_ja": "虫を捕まえる。",
+    "ex_ja": "<ruby>虫<rt>むし</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえる。",
     "ex_en": "I capture insects."
   },
   {
@@ -7640,7 +7640,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つく",
     "ruby": "<ruby>付く<rt>つく</rt></ruby>",
     "meaning": "to be attached",
-    "ex_ja": "彼女の水着は目に付く。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>水着<rt>みずぎ</rt></ruby>は<ruby>目<rt>め</rt></ruby>に<ruby>付<rt>つ</rt></ruby>く。",
     "ex_en": "Her bathing suit attracts our attention."
   },
   {
@@ -7656,7 +7656,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つける",
     "ruby": "<ruby>漬ける<rt>つける</rt></ruby>",
     "meaning": "to soak; to pickle",
-    "ex_ja": "靴下の臭いが気になる時は、クエン酸水に漬けるといいそうよ。",
+    "ex_ja": "<ruby>靴下<rt>くつした</rt></ruby>の<ruby>臭<rt>にお</rt></ruby>いが<ruby>気<rt>き</rt></ruby>になる<ruby>時<rt>とき</rt></ruby>は、クエン<ruby>酸<rt>さん</rt></ruby><ruby>水<rt>すい</rt></ruby>に<ruby>漬<rt>つ</rt></ruby>けるといいそうよ。",
     "ex_en": "If you're worried about your socks smelling, dipping them in citric acid solution might do the trick."
   },
   {
@@ -7672,7 +7672,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つたえる",
     "ruby": "<ruby>伝える<rt>つたえる</rt></ruby>",
     "meaning": "to report",
-    "ex_ja": "鉄は熱をよく伝える。",
+    "ex_ja": "<ruby>鉄<rt>てつ</rt></ruby>は<ruby>熱<rt>ねつ</rt></ruby>をよく<ruby>伝<rt>つた</rt></ruby>える。",
     "ex_en": "Iron transmits heat well."
   },
   {
@@ -7688,7 +7688,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つつむ",
     "ruby": "<ruby>包む<rt>つつむ</rt></ruby>",
     "meaning": "to wrap",
-    "ex_ja": "包む必要はありません。",
+    "ex_ja": "<ruby>包<rt>つつ</rt></ruby>む<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
     "ex_en": "You don't have to wrap it up."
   },
   {
@@ -7704,7 +7704,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つづく",
     "ruby": "<ruby>続く<rt>つづく</rt></ruby>",
     "meaning": "to be continued",
-    "ex_ja": "最近は寒い日が続く。",
+    "ex_ja": "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く。",
     "ex_en": "Now we are having one cold day after another."
   },
   {
@@ -7720,7 +7720,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つづける",
     "ruby": "<ruby>続ける<rt>つづける</rt></ruby>",
     "meaning": "to continue",
-    "ex_ja": "俺は動き続ける。",
+    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>動<rt>うご</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>ける。",
     "ex_en": "I gotta keep on movin'."
   },
   {
@@ -7736,7 +7736,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つる",
     "ruby": "<ruby>釣る<rt>つる</rt></ruby>",
     "meaning": "to fish",
-    "ex_ja": "海老で鯛を釣る。",
+    "ex_ja": "<ruby>海老<rt>えび</rt></ruby>で<ruby>鯛<rt>たい</rt></ruby>を<ruby>釣<rt>つ</rt></ruby>る。",
     "ex_en": "Throw a sprat to catch a whale."
   },
   {
@@ -7768,7 +7768,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "てつだう",
     "ruby": "<ruby>手伝う<rt>てつだう</rt></ruby>",
     "meaning": "to assist",
-    "ex_ja": "私は手伝うよ。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>手伝<rt>てつだ</rt></ruby>うよ。",
     "ex_en": "I'll help."
   },
   {
@@ -7784,7 +7784,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とうとう",
     "ruby": "とうとう",
     "meaning": "finally; after all",
-    "ex_ja": "とうとう彼が現れた。",
+    "ex_ja": "とうとう<ruby>彼<rt>かれ</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れた。",
     "ex_en": "At last he appeared."
   },
   {
@@ -7800,7 +7800,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とおく",
     "ruby": "<ruby>遠く<rt>とおく</rt></ruby>",
     "meaning": "distant",
-    "ex_ja": "遠くにいる？",
+    "ex_ja": "<ruby>遠<rt>とお</rt></ruby>くにいる？",
     "ex_en": "Are you guys far away?"
   },
   {
@@ -7816,7 +7816,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とおる",
     "ruby": "<ruby>通る<rt>とおる</rt></ruby>",
     "meaning": "to go through",
-    "ex_ja": "この橋を通るな。",
+    "ex_ja": "この<ruby>橋<rt>はし</rt></ruby>を<ruby>通<rt>とお</rt></ruby>るな。",
     "ex_en": "Don't cross this bridge."
   },
   {
@@ -7832,7 +7832,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とどける",
     "ruby": "<ruby>届ける<rt>とどける</rt></ruby>",
     "meaning": "to reach",
-    "ex_ja": "これを届けるよう頼まれたんです。",
+    "ex_ja": "これを<ruby>届<rt>とど</rt></ruby>けるよう<ruby>頼<rt>たの</rt></ruby>まれたんです。",
     "ex_en": "I was asked to deliver this."
   },
   {
@@ -7848,7 +7848,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とまる",
     "ruby": "<ruby>泊まる<rt>とまる</rt></ruby>",
     "meaning": "to lodge at",
-    "ex_ja": "泊まることにしたよ。",
+    "ex_ja": "<ruby>泊<rt>と</rt></ruby>まることにしたよ。",
     "ex_en": "I've decided to stay."
   },
   {
@@ -7864,7 +7864,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とめる",
     "ruby": "<ruby>止める<rt>とめる</rt></ruby>",
     "meaning": "to stop something",
-    "ex_ja": "あなたを止める。",
+    "ex_ja": "あなたを<ruby>止<rt>と</rt></ruby>める。",
     "ex_en": "I will stop you."
   },
   {
@@ -7880,7 +7880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "とりかえる",
     "ruby": "<ruby>取り替える<rt>とりかえる</rt></ruby>",
     "meaning": "to exchange",
-    "ex_ja": "雨戸を取り替えることにしたんだ。",
+    "ex_ja": "<ruby>雨戸<rt>あまど</rt></ruby>を<ruby>取り替<rt>とりか</rt></ruby>えることにしたんだ。",
     "ex_en": "I've decided to replace the shutters."
   },
   {
@@ -7896,7 +7896,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なおす",
     "ruby": "<ruby>直す<rt>なおす</rt></ruby>",
     "meaning": "to fix; to repair",
-    "ex_ja": "かけ直すよ。",
+    "ex_ja": "かけ<ruby>直<rt>なお</rt></ruby>すよ。",
     "ex_en": "I'll ring you back."
   },
   {
@@ -7912,7 +7912,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なおる",
     "ruby": "<ruby>治る<rt>なおる</rt></ruby>",
     "meaning": "to be cured; to heal",
-    "ex_ja": "早く治るといいですね。",
+    "ex_ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>治<rt>なお</rt></ruby>るといいですね。",
     "ex_en": "I hope you'll recover quickly."
   },
   {
@@ -7928,7 +7928,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なおる",
     "ruby": "<ruby>直る<rt>なおる</rt></ruby>",
     "meaning": "to be fixed; to be repaired",
-    "ex_ja": "すぐに立ち直るよね！",
+    "ex_ja": "すぐに<ruby>立ち直<rt>たちなお</rt></ruby>るよね！",
     "ex_en": "I believe you'll get over it soon."
   },
   {
@@ -7944,7 +7944,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なく",
     "ruby": "<ruby>泣く<rt>なく</rt></ruby>",
     "meaning": "to weep",
-    "ex_ja": "泣くもんか。",
+    "ex_ja": "<ruby>泣<rt>な</rt></ruby>くもんか。",
     "ex_en": "I won't cry."
   },
   {
@@ -7960,7 +7960,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なくなる",
     "ruby": "<ruby>亡くなる<rt>なくなる</rt></ruby>",
     "meaning": "to die",
-    "ex_ja": "交通事故で亡くなる方も多いです。",
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>方<rt>ほう</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いです。",
     "ex_en": "Many people die in traffic accidents."
   },
   {
@@ -7976,7 +7976,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なくなる",
     "ruby": "<ruby>無くなる<rt>なくなる</rt></ruby>",
     "meaning": "to disappear; to get lost",
-    "ex_ja": "会議は恐らく無くなるよ。",
+    "ex_ja": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>恐<rt>おそ</rt></ruby>らく<ruby>無<rt>な</rt></ruby>くなるよ。",
     "ex_en": "The meeting will probably be canceled."
   },
   {
@@ -7992,7 +7992,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なげる",
     "ruby": "<ruby>投げる<rt>なげる</rt></ruby>",
     "meaning": "to throw or cast away",
-    "ex_ja": "速球を投げる。",
+    "ex_ja": "<ruby>速球<rt>そっきゅう</rt></ruby>を<ruby>投<rt>な</rt></ruby>げる。",
     "ex_en": "I'll throw a fastball."
   },
   {
@@ -8008,7 +8008,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なさる",
     "ruby": "なさる",
     "meaning": "(respectful) to do",
-    "ex_ja": "病気が全快なさるように。",
+    "ex_ja": "<ruby>病気<rt>びょうき</rt></ruby>が<ruby>全快<rt>ぜんかい</rt></ruby>なさるように。",
     "ex_en": "I hope you will be completely cured."
   },
   {
@@ -8024,7 +8024,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なる",
     "ruby": "<ruby>鳴る<rt>なる</rt></ruby>",
     "meaning": "to sound",
-    "ex_ja": "怒鳴るなよ。",
+    "ex_ja": "<ruby>怒鳴<rt>どな</rt></ruby>るなよ。",
     "ex_en": "Don't shout."
   },
   {
@@ -8040,7 +8040,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なるべく",
     "ruby": "なるべく",
     "meaning": "as much as possible",
-    "ex_ja": "なるべく早く帰るよ。",
+    "ex_ja": "なるべく<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>るよ。",
     "ex_en": "I'll come back home as soon as I can."
   },
   {
@@ -8056,7 +8056,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "なれる",
     "ruby": "<ruby>慣れる<rt>なれる</rt></ruby>",
     "meaning": "to grow accustomed to",
-    "ex_ja": "すぐに慣れるわ。",
+    "ex_ja": "すぐに<ruby>慣<rt>な</rt></ruby>れるわ。",
     "ex_en": "You'll get used to it in no time."
   },
   {
@@ -8072,7 +8072,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にげる",
     "ruby": "<ruby>逃げる<rt>にげる</rt></ruby>",
     "meaning": "to escape",
-    "ex_ja": "逃げるが勝ち。",
+    "ex_ja": "<ruby>逃<rt>に</rt></ruby>げるが<ruby>勝<rt>か</rt></ruby>ち。",
     "ex_en": "Yielding is sometimes the best way of succeeding."
   },
   {
@@ -8088,7 +8088,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にる",
     "ruby": "<ruby>似る<rt>にる</rt></ruby>",
     "meaning": "to be similar",
-    "ex_ja": "息子は父親に似る。",
+    "ex_ja": "<ruby>息子<rt>むすこ</rt></ruby>は<ruby>父親<rt>ちちおや</rt></ruby>に<ruby>似<rt>に</rt></ruby>る。",
     "ex_en": "Like father, like son."
   },
   {
@@ -8104,7 +8104,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぬすむ",
     "ruby": "<ruby>盗む<rt>ぬすむ</rt></ruby>",
     "meaning": "to steal",
-    "ex_ja": "盗むのは悪いことだ。",
+    "ex_ja": "<ruby>盗<rt>ぬす</rt></ruby>むのは<ruby>悪<rt>わる</rt></ruby>いことだ。",
     "ex_en": "It is bad to steal."
   },
   {
@@ -8120,7 +8120,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぬる",
     "ruby": "<ruby>塗る<rt>ぬる</rt></ruby>",
     "meaning": "to paint; to plaster",
-    "ex_ja": "壁を塗るつもりです。",
+    "ex_ja": "<ruby>壁<rt>かべ</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>るつもりです。",
     "ex_en": "We're going to paint the wall."
   },
   {
@@ -8136,7 +8136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぬれる",
     "ruby": "ぬれる",
     "meaning": "to get wet",
-    "ex_ja": "足がぬれると、風邪をひくよ。",
+    "ex_ja": "<ruby>足<rt>あし</rt></ruby>がぬれると、<ruby>風邪<rt>かぜ</rt></ruby>をひくよ。",
     "ex_en": "If your feet get wet, you'll get a cold."
   },
   {
@@ -8152,7 +8152,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ねむる",
     "ruby": "<ruby>眠る<rt>ねむる</rt></ruby>",
     "meaning": "to sleep",
-    "ex_ja": "私と友に眠る。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>と<ruby>友<rt>とも</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>る。",
     "ex_en": "She lies here beside me."
   },
   {
@@ -8168,7 +8168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "のこる",
     "ruby": "<ruby>残る<rt>のこる</rt></ruby>",
     "meaning": "to remain",
-    "ex_ja": "この曲、耳に残るね。",
+    "ex_ja": "この<ruby>曲<rt>きょく</rt></ruby>、<ruby>耳<rt>みみ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>るね。",
     "ex_en": "This song is catchy."
   },
   {
@@ -8184,7 +8184,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "のりかえる",
     "ruby": "<ruby>乗り換える<rt>のりかえる</rt></ruby>",
     "meaning": "to change between buses or trains",
-    "ex_ja": "乗り換えるのですか。",
+    "ex_ja": "<ruby>乗り換<rt>のりか</rt></ruby>えるのですか。",
     "ex_en": "Do I have to change trains?"
   },
   {
@@ -8200,7 +8200,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はこぶ",
     "ruby": "<ruby>運ぶ<rt>はこぶ</rt></ruby>",
     "meaning": "to transport",
-    "ex_ja": "風は種を遠くへ運ぶ。",
+    "ex_ja": "<ruby>風<rt>かぜ</rt></ruby>は<ruby>種<rt>しゅ</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くへ<ruby>運<rt>はこ</rt></ruby>ぶ。",
     "ex_en": "The wind carries seeds for great distances."
   },
   {
@@ -8216,7 +8216,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はじめる",
     "ruby": "<ruby>始める<rt>はじめる</rt></ruby>",
     "meaning": "to begin",
-    "ex_ja": "新たに始める。",
+    "ex_ja": "<ruby>新<rt>あら</rt></ruby>たに<ruby>始<rt>はじ</rt></ruby>める。",
     "ex_en": "I will begin anew."
   },
   {
@@ -8232,7 +8232,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はらう",
     "ruby": "<ruby>払う<rt>はらう</rt></ruby>",
     "meaning": "to pay",
-    "ex_ja": "今日払うよ。",
+    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby><ruby>払<rt>はら</rt></ruby>うよ。",
     "ex_en": "I'll pay today."
   },
   {
@@ -8248,7 +8248,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひえる",
     "ruby": "<ruby>冷える<rt>ひえる</rt></ruby>",
     "meaning": "to grow cold",
-    "ex_ja": "ひどく冷えるなあ。",
+    "ex_ja": "ひどく<ruby>冷<rt>ひ</rt></ruby>えるなあ。",
     "ex_en": "It's very cold."
   },
   {
@@ -8264,7 +8264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひかる",
     "ruby": "<ruby>光る<rt>ひかる</rt></ruby>",
     "meaning": "to shine; to glitter",
-    "ex_ja": "使っている鎌は光る。",
+    "ex_ja": "<ruby>使<rt>つか</rt></ruby>っている<ruby>鎌<rt>かま</rt></ruby>は<ruby>光<rt>ひか</rt></ruby>る。",
     "ex_en": "A sickle that gets used shines."
   },
   {
@@ -8280,7 +8280,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひきだす",
     "ruby": "<ruby>引き出す<rt>ひきだす</rt></ruby>",
     "meaning": "to withdraw",
-    "ex_ja": "我々は勉強からさらに楽しみを引き出す。",
+    "ex_ja": "<ruby>我々<rt>われわれ</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>からさらに<ruby>楽<rt>たの</rt></ruby>しみを<ruby>引き出<rt>ひきだ</rt></ruby>す。",
     "ex_en": "We derive further pleasure from our study."
   },
   {
@@ -8296,7 +8296,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひっこす",
     "ruby": "<ruby>引っ越す<rt>ひっこす</rt></ruby>",
     "meaning": "to move house",
-    "ex_ja": "引っ越すの？",
+    "ex_ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>すの？",
     "ex_en": "Are we moving?"
   },
   {
@@ -8312,7 +8312,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひらく",
     "ruby": "<ruby>開く<rt>ひらく</rt></ruby>",
     "meaning": "to open an event",
-    "ex_ja": "本を開くな。",
+    "ex_ja": "<ruby>本<rt>ほん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くな。",
     "ex_en": "Don't open your book."
   },
   {
@@ -8328,7 +8328,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひろう",
     "ruby": "<ruby>拾う<rt>ひろう</rt></ruby>",
     "meaning": "to pick up; to gather",
-    "ex_ja": "トムを拾うつもりだ。",
+    "ex_ja": "トムを<ruby>拾<rt>ひろ</rt></ruby>うつもりだ。",
     "ex_en": "I'm going to pick Tom up."
   },
   {
@@ -8344,7 +8344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "びっくりする",
     "ruby": "びっくりする",
     "meaning": "to be surprised",
-    "ex_ja": "トムは絶対びっくりするよ。",
+    "ex_ja": "トムは<ruby>絶対<rt>ぜったい</rt></ruby>びっくりするよ。",
     "ex_en": "I'm sure Tom will be surprised."
   },
   {
@@ -8360,7 +8360,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふえる",
     "ruby": "<ruby>増える<rt>ふえる</rt></ruby>",
     "meaning": "to increase",
-    "ex_ja": "これで私の悩みが増える。",
+    "ex_ja": "これで<ruby>私<rt>わたし</rt></ruby>の<ruby>悩<rt>なや</rt></ruby>みが<ruby>増<rt>ふ</rt></ruby>える。",
     "ex_en": "This adds to my troubles."
   },
   {
@@ -8376,7 +8376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふとる",
     "ruby": "<ruby>太る<rt>ふとる</rt></ruby>",
     "meaning": "to become fat",
-    "ex_ja": "食べ過ぎると太る。",
+    "ex_ja": "<ruby>食<rt>た</rt></ruby>べ<ruby>過<rt>す</rt></ruby>ぎると<ruby>太<rt>ふと</rt></ruby>る。",
     "ex_en": "If you eat too much, you'll become fat."
   },
   {
@@ -8392,7 +8392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふむ",
     "ruby": "<ruby>踏む<rt>ふむ</rt></ruby>",
     "meaning": "to step on",
-    "ex_ja": "割れたガラスを踏むな。",
+    "ex_ja": "<ruby>割<rt>わ</rt></ruby>れたガラスを<ruby>踏<rt>ふ</rt></ruby>むな。",
     "ex_en": "Don't step on the broken glass."
   },
   {
@@ -8408,7 +8408,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふりだす",
     "ruby": "<ruby>降り出す<rt>ふりだす</rt></ruby>",
     "meaning": "to start to rain",
-    "ex_ja": "まもなく雪が降り出すだろう。",
+    "ex_ja": "まもなく<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降り出<rt>ふりだ</rt></ruby>すだろう。",
     "ex_en": "It will begin snowing before long."
   },
   {
@@ -8424,7 +8424,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ぶどう",
     "ruby": "ぶどう",
     "meaning": "grapes",
-    "ex_ja": "ぶどう酒がありません。",
+    "ex_ja": "ぶどう<ruby>酒<rt>しゅ</rt></ruby>がありません。",
     "ex_en": "They have no more wine."
   },
   {
@@ -8440,7 +8440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほめる",
     "ruby": "ほめる",
     "meaning": "to praise",
-    "ex_ja": "彼女はほめる言葉に困る程だ。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>はほめる<ruby>言葉<rt>ことば</rt></ruby>に<ruby>困<rt>こま</rt></ruby>る<ruby>程<rt>ほど</rt></ruby>だ。",
     "ex_en": "She is above praise."
   },
   {
@@ -8456,7 +8456,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まいる",
     "ruby": "<ruby>参る<rt>まいる</rt></ruby>",
     "meaning": "(humble) to go; to come",
-    "ex_ja": "君には参るよ。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>には<ruby>参<rt>まい</rt></ruby>るよ。",
     "ex_en": "You got me!"
   },
   {
@@ -8472,7 +8472,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まける",
     "ruby": "<ruby>負ける<rt>まける</rt></ruby>",
     "meaning": "to lose",
-    "ex_ja": "負けるが勝ち。",
+    "ex_ja": "<ruby>負<rt>ま</rt></ruby>けるが<ruby>勝<rt>か</rt></ruby>ち。",
     "ex_en": "When you lose, you actually win."
   },
   {
@@ -8488,7 +8488,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まちがえる",
     "ruby": "<ruby>間違える<rt>まちがえる</rt></ruby>",
     "meaning": "to make a mistake",
-    "ex_ja": "私、よく間違えるの。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>、よく<ruby>間違<rt>まちが</rt></ruby>えるの。",
     "ex_en": "I often make mistakes."
   },
   {
@@ -8504,7 +8504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まにあう",
     "ruby": "<ruby>間に合う<rt>まにあう</rt></ruby>",
     "meaning": "to be in time for",
-    "ex_ja": "まだ間に合う。",
+    "ex_ja": "まだ<ruby>間に合<rt>まにあ</rt></ruby>う。",
     "ex_en": "I can still make it."
   },
   {
@@ -8520,7 +8520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まわる",
     "ruby": "<ruby>回る<rt>まわる</rt></ruby>",
     "meaning": "to go around",
-    "ex_ja": "蜂が飛び回る。",
+    "ex_ja": "<ruby>蜂<rt>はち</rt></ruby>が<ruby>飛び回<rt>とびまわ</rt></ruby>る。",
     "ex_en": "Bees are flying around."
   },
   {
@@ -8552,7 +8552,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みえる",
     "ruby": "<ruby>見える<rt>みえる</rt></ruby>",
     "meaning": "to be in sight",
-    "ex_ja": "何か見える？",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>か<ruby>見<rt>み</rt></ruby>える？",
     "ex_en": "Can you see anything?"
   },
   {
@@ -8568,7 +8568,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みつかる",
     "ruby": "<ruby>見つかる<rt>みつかる</rt></ruby>",
     "meaning": "to be discovered",
-    "ex_ja": "簡単に見つかると思う。",
+    "ex_ja": "<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>見<rt>み</rt></ruby>つかると<ruby>思<rt>おも</rt></ruby>う。",
     "ex_en": "I'm sure it'll be easy to find a place."
   },
   {
@@ -8584,7 +8584,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みつける",
     "ruby": "<ruby>見つける<rt>みつける</rt></ruby>",
     "meaning": "to discover",
-    "ex_ja": "私を見つけるの？",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけるの？",
     "ex_en": "Will you find me?"
   },
   {
@@ -8600,7 +8600,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むかう",
     "ruby": "<ruby>向かう<rt>むかう</rt></ruby>",
     "meaning": "to face",
-    "ex_ja": "女は悪魔の宴へと向かう。",
+    "ex_ja": "<ruby>女<rt>おんな</rt></ruby>は<ruby>悪魔<rt>あくま</rt></ruby>の<ruby>宴<rt>うたげ</rt></ruby>へと<ruby>向<rt>む</rt></ruby>かう。",
     "ex_en": "She rides to the black sabbath."
   },
   {
@@ -8616,7 +8616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むかえる",
     "ruby": "<ruby>迎える<rt>むかえる</rt></ruby>",
     "meaning": "to go out to meet",
-    "ex_ja": "トムは来年100歳を迎える。",
+    "ex_ja": "トムは<ruby>来年<rt>らいねん</rt></ruby>100<ruby>歳<rt>さい</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える。",
     "ex_en": "Tom will be a hundred years old next year."
   },
   {
@@ -8632,7 +8632,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "めしあがる",
     "ruby": "<ruby>召し上がる<rt>めしあがる</rt></ruby>",
     "meaning": "(polite) to eat",
-    "ex_ja": "さあいらっしゃい、何を召し上がるか言いたまえ。",
+    "ex_ja": "さあいらっしゃい、<ruby>何<rt>なに</rt></ruby>を<ruby>召し上<rt>めしあ</rt></ruby>がるか<ruby>言<rt>い</rt></ruby>いたまえ。",
     "ex_en": "Step right up, gents, and say what you'll have."
   },
   {
@@ -8648,7 +8648,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もうしあげる",
     "ruby": "<ruby>申し上げる<rt>もうしあげる</rt></ruby>",
     "meaning": "(humble) to say; to tell",
-    "ex_ja": "反対申し上げるつもりは全然なかったのです。",
+    "ex_ja": "<ruby>反対<rt>はんたい</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げるつもりは<ruby>全然<rt>ぜんぜん</rt></ruby>なかったのです。",
     "ex_en": "I had no desire to say anything against you."
   },
   {
@@ -8680,7 +8680,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もどる",
     "ruby": "<ruby>戻る<rt>もどる</rt></ruby>",
     "meaning": "to turn back",
-    "ex_ja": "すぐに戻るよ。",
+    "ex_ja": "すぐに<ruby>戻<rt>もど</rt></ruby>るよ。",
     "ex_en": "I will be back soon."
   },
   {
@@ -8696,7 +8696,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もらう",
     "ruby": "もらう",
     "meaning": "to receive",
-    "ex_ja": "彼に来てもらう。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらう。",
     "ex_en": "I will have him come."
   },
   {
@@ -8712,7 +8712,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>焼く<rt>やく</rt></ruby>",
     "meaning": "to bake; to grill",
-    "ex_ja": "やきもちを焼くなよ。",
+    "ex_ja": "やきもちを<ruby>焼<rt>や</rt></ruby>くなよ。",
     "ex_en": "You shouldn't be jealous."
   },
   {
@@ -8728,7 +8728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やくにたつ",
     "ruby": "<ruby>役に立つ<rt>やくにたつ</rt></ruby>",
     "meaning": "to be helpful",
-    "ex_ja": "役に立つはずだ。",
+    "ex_ja": "<ruby>役に立<rt>やくにた</rt></ruby>つはずだ。",
     "ex_en": "That ought to help."
   },
   {
@@ -8744,7 +8744,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やける",
     "ruby": "<ruby>焼ける<rt>やける</rt></ruby>",
     "meaning": "to burn; to be roasted",
-    "ex_ja": "焼けるように熱い。",
+    "ex_ja": "<ruby>焼<rt>や</rt></ruby>けるように<ruby>熱<rt>あつ</rt></ruby>い。",
     "ex_en": "It is broiling hot."
   },
   {
@@ -8760,7 +8760,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やせる",
     "ruby": "<ruby>痩せる<rt>やせる</rt></ruby>",
     "meaning": "to become thin",
-    "ex_ja": "痩せる必要がないというのは残念だ。",
+    "ex_ja": "<ruby>痩<rt>や</rt></ruby>せる<ruby>必要<rt>ひつよう</rt></ruby>がないというのは<ruby>残念<rt>ざんねん</rt></ruby>だ。",
     "ex_en": "It's too bad that I don't need to lose weight."
   },
   {
@@ -8776,7 +8776,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やむ",
     "ruby": "<ruby>止む<rt>やむ</rt></ruby>",
     "meaning": "to stop",
-    "ex_ja": "雨は止む兆しが無い。",
+    "ex_ja": "<ruby>雨<rt>あめ</rt></ruby>は<ruby>止<rt>や</rt></ruby>む<ruby>兆<rt>きざ</rt></ruby>しが<ruby>無<rt>な</rt></ruby>い。",
     "ex_en": "The rain shows no sign of stopping."
   },
   {
@@ -8792,7 +8792,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ゆれる",
     "ruby": "<ruby>揺れる<rt>ゆれる</rt></ruby>",
     "meaning": "to shake; to sway",
-    "ex_ja": "家が揺れるのを感じた。",
+    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>が<ruby>揺<rt>ゆ</rt></ruby>れるのを<ruby>感<rt>かん</rt></ruby>じた。",
     "ex_en": "I felt the house shake."
   },
   {
@@ -8808,7 +8808,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よごれる",
     "ruby": "<ruby>汚れる<rt>よごれる</rt></ruby>",
     "meaning": "to get dirty",
-    "ex_ja": "おべべが汚れるよ。",
+    "ex_ja": "おべべが<ruby>汚<rt>よご</rt></ruby>れるよ。",
     "ex_en": "You're making your clothes dirty."
   },
   {
@@ -8824,7 +8824,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よる",
     "ruby": "<ruby>寄る<rt>よる</rt></ruby>",
     "meaning": "to visit",
-    "ex_ja": "犬に近寄るな。",
+    "ex_ja": "<ruby>犬<rt>いぬ</rt></ruby>に<ruby>近寄<rt>ちかよ</rt></ruby>るな。",
     "ex_en": "Don't go near the dog."
   },
   {
@@ -8840,7 +8840,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よろこぶ",
     "ruby": "<ruby>喜ぶ<rt>よろこぶ</rt></ruby>",
     "meaning": "to be delighted",
-    "ex_ja": "早まって喜ぶな。",
+    "ex_ja": "<ruby>早<rt>はや</rt></ruby>まって<ruby>喜<rt>よろこ</rt></ruby>ぶな。",
     "ex_en": "He who laughs last laughs best."
   },
   {
@@ -8872,7 +8872,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わかれる",
     "ruby": "<ruby>別れる<rt>わかれる</rt></ruby>",
     "meaning": "to separate",
-    "ex_ja": "トムと別れるの？",
+    "ex_ja": "トムと<ruby>別<rt>わか</rt></ruby>れるの？",
     "ex_en": "Are you breaking up with Tom?"
   },
   {
@@ -8888,7 +8888,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わく",
     "ruby": "<ruby>沸く<rt>わく</rt></ruby>",
     "meaning": "to boil; to grow hot; to get excited",
-    "ex_ja": "トムは、やかんが沸くのを待っていました。",
+    "ex_ja": "トムは、やかんが<ruby>沸<rt>わ</rt></ruby>くのを<ruby>待<rt>ま</rt></ruby>っていました。",
     "ex_en": "Tom waited for the kettle to boil."
   },
   {
@@ -8904,7 +8904,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "わらう",
     "ruby": "<ruby>笑う<rt>わらう</rt></ruby>",
     "meaning": "to laugh; to smile",
-    "ex_ja": "トムが笑う。",
+    "ex_ja": "トムが<ruby>笑<rt>わら</rt></ruby>う。",
     "ex_en": "Tom smiles."
   },
   {
@@ -8920,7 +8920,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "われる",
     "ruby": "<ruby>割れる<rt>われる</rt></ruby>",
     "meaning": "to break",
-    "ex_ja": "卵を片手で割れる？",
+    "ex_ja": "<ruby>卵<rt>たまご</rt></ruby>を<ruby>片手<rt>かたて</rt></ruby>で<ruby>割<rt>わ</rt></ruby>れる？",
     "ex_en": "Can you break an egg with one hand?"
   },
   {
@@ -8936,7 +8936,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あさい",
     "ruby": "<ruby>浅い<rt>あさい</rt></ruby>",
     "meaning": "shallow; superficial",
-    "ex_ja": "眠りが浅いんだ。",
+    "ex_ja": "<ruby>眠<rt>ねむ</rt></ruby>りが<ruby>浅<rt>あさ</rt></ruby>いんだ。",
     "ex_en": "I'm a light sleeper."
   },
   {
@@ -8952,7 +8952,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "あんな",
     "ruby": "あんな",
     "meaning": "such",
-    "ex_ja": "あんな男は嫌よ。",
+    "ex_ja": "あんな<ruby>男<rt>おとこ</rt></ruby>は<ruby>嫌<rt>いや</rt></ruby>よ。",
     "ex_en": "I can't stand that man."
   },
   {
@@ -8968,7 +8968,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いっぱい",
     "ruby": "いっぱい",
     "meaning": "full",
-    "ex_ja": "お腹いっぱい？",
+    "ex_ja": "お<ruby>腹<rt>なか</rt></ruby>いっぱい？",
     "ex_en": "Are you full?"
   },
   {
@@ -8984,7 +8984,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うつくしい",
     "ruby": "<ruby>美しい<rt>うつくしい</rt></ruby>",
     "meaning": "beautiful",
-    "ex_ja": "私は美しい。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい。",
     "ex_en": "I'm beautiful."
   },
   {
@@ -9000,7 +9000,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うまい",
     "ruby": "うまい",
     "meaning": "delicious",
-    "ex_ja": "料理うまいね。",
+    "ex_ja": "<ruby>料理<rt>りょうり</rt></ruby>うまいね。",
     "ex_en": "You are a good cook, aren't you?"
   },
   {
@@ -9016,7 +9016,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "うれしい",
     "ruby": "うれしい",
     "meaning": "glad",
-    "ex_ja": "会えてうれしいよ。",
+    "ex_ja": "<ruby>会<rt>あ</rt></ruby>えてうれしいよ。",
     "ex_en": "Nice to see you."
   },
   {
@@ -9032,7 +9032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おいわい",
     "ruby": "<ruby>お祝い<rt>おいわい</rt></ruby>",
     "meaning": "congratulation",
-    "ex_ja": "御成功をお祝いします。",
+    "ex_ja": "<ruby>御<rt>ご</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>いします。",
     "ex_en": "I congratulate you on your success."
   },
   {
@@ -9048,7 +9048,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おかしい",
     "ruby": "おかしい",
     "meaning": "strange or funny",
-    "ex_ja": "何かがおかしい。",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>かがおかしい。",
     "ex_en": "Something is strange."
   },
   {
@@ -9064,7 +9064,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おみまい",
     "ruby": "<ruby>お見舞い<rt>おみまい</rt></ruby>",
     "meaning": "calling on someone who is ill; enquiry",
-    "ex_ja": "お見舞いありがとう。",
+    "ex_ja": "お<ruby>見舞<rt>みま</rt></ruby>いありがとう。",
     "ex_en": "Thank you for coming."
   },
   {
@@ -9112,7 +9112,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かなしい",
     "ruby": "<ruby>悲しい<rt>かなしい</rt></ruby>",
     "meaning": "sad",
-    "ex_ja": "悲しいです。",
+    "ex_ja": "<ruby>悲<rt>かな</rt></ruby>しいです。",
     "ex_en": "I'm sad."
   },
   {
@@ -9128,7 +9128,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きびしい",
     "ruby": "<ruby>厳しい<rt>きびしい</rt></ruby>",
     "meaning": "strict",
-    "ex_ja": "世間は厳しい。",
+    "ex_ja": "<ruby>世間<rt>せけん</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しい。",
     "ex_en": "The world is harsh."
   },
   {
@@ -9144,7 +9144,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こまかい",
     "ruby": "<ruby>細かい<rt>こまかい</rt></ruby>",
     "meaning": "small; fine",
-    "ex_ja": "私は細かいんだ。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>細<rt>こま</rt></ruby>かいんだ。",
     "ex_en": "I'm fussy."
   },
   {
@@ -9160,7 +9160,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こわい",
     "ruby": "<ruby>怖い<rt>こわい</rt></ruby>",
     "meaning": "frightening",
-    "ex_ja": "まだ怖いの？",
+    "ex_ja": "まだ<ruby>怖<rt>こわ</rt></ruby>いの？",
     "ex_en": "Are you still scared?"
   },
   {
@@ -9176,7 +9176,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "さびしい",
     "ruby": "<ruby>寂しい<rt>さびしい</rt></ruby>",
     "meaning": "lonely",
-    "ex_ja": "私も寂しいな。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>も<ruby>寂<rt>さび</rt></ruby>しいな。",
     "ex_en": "I also miss him."
   },
   {
@@ -9192,7 +9192,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すごい",
     "ruby": "<ruby>凄い<rt>すごい</rt></ruby>",
     "meaning": "terrific",
-    "ex_ja": "そいつは凄い！",
+    "ex_ja": "そいつは<ruby>凄<rt>すご</rt></ruby>い！",
     "ex_en": "That's amazing!"
   },
   {
@@ -9224,7 +9224,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "そんな",
     "ruby": "そんな",
     "meaning": "that sort of",
-    "ex_ja": "そんな馬鹿な。",
+    "ex_ja": "そんな<ruby>馬鹿<rt>ばか</rt></ruby>な。",
     "ex_en": "That's crazy."
   },
   {
@@ -9256,7 +9256,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ただしい",
     "ruby": "<ruby>正しい<rt>ただしい</rt></ruby>",
     "meaning": "correct",
-    "ex_ja": "大体正しい。",
+    "ex_ja": "<ruby>大体<rt>だいたい</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。",
     "ex_en": "That is almost correct."
   },
   {
@@ -9272,7 +9272,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "におい",
     "ruby": "におい",
     "meaning": "a smell",
-    "ex_ja": "家においで。",
+    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>においで。",
     "ex_en": "Come to my house."
   },
   {
@@ -9288,7 +9288,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "にがい",
     "ruby": "<ruby>苦い<rt>にがい</rt></ruby>",
     "meaning": "bitter",
-    "ex_ja": "めちゃ苦い。",
+    "ex_ja": "めちゃ<ruby>苦<rt>にが</rt></ruby>い。",
     "ex_en": "It's so bitter."
   },
   {
@@ -9320,7 +9320,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ねむい",
     "ruby": "<ruby>眠い<rt>ねむい</rt></ruby>",
     "meaning": "sleepy",
-    "ex_ja": "眠いですか？",
+    "ex_ja": "<ruby>眠<rt>ねむ</rt></ruby>いですか？",
     "ex_en": "Are you sleepy?"
   },
   {
@@ -9336,7 +9336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はずかしい",
     "ruby": "<ruby>恥ずかしい<rt>はずかしい</rt></ruby>",
     "meaning": "embarrassed",
-    "ex_ja": "恥ずかしいなぁ！",
+    "ex_ja": "<ruby>恥<rt>は</rt></ruby>ずかしいなぁ！",
     "ex_en": "How embarrassing!"
   },
   {
@@ -9352,7 +9352,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひどい",
     "ruby": "ひどい",
     "meaning": "awful",
-    "ex_ja": "ひどい天気！",
+    "ex_ja": "ひどい<ruby>天気<rt>てんき</rt></ruby>！",
     "ex_en": "What horrible weather!"
   },
   {
@@ -9368,7 +9368,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ふかい",
     "ruby": "<ruby>深い<rt>ふかい</rt></ruby>",
     "meaning": "deep",
-    "ex_ja": "この湖は深い。",
+    "ex_ja": "この<ruby>湖<rt>みずうみ</rt></ruby>は<ruby>深<rt>ふか</rt></ruby>い。",
     "ex_en": "This lake is deep."
   },
   {
@@ -9384,7 +9384,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "めずらしい",
     "ruby": "<ruby>珍しい<rt>めずらしい</rt></ruby>",
     "meaning": "rare",
-    "ex_ja": "珍しい名前だね。",
+    "ex_ja": "<ruby>珍<rt>めずら</rt></ruby>しい<ruby>名前<rt>なまえ</rt></ruby>だね。",
     "ex_en": "It's an unusual name."
   },
   {
@@ -9400,7 +9400,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やさしい",
     "ruby": "<ruby>優しい<rt>やさしい</rt></ruby>",
     "meaning": "kind",
-    "ex_ja": "優しい人です。",
+    "ex_ja": "<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
     "ex_en": "He is kind."
   },
   {
@@ -9432,7 +9432,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やわらかい",
     "ruby": "<ruby>柔らかい<rt>やわらかい</rt></ruby>",
     "meaning": "soft",
-    "ex_ja": "体柔らかいね。",
+    "ex_ja": "<ruby>体<rt>からだ</rt></ruby><ruby>柔<rt>やわ</rt></ruby>らかいね。",
     "ex_en": "Your body is soft."
   },
   {
@@ -9448,7 +9448,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "よろしい",
     "ruby": "よろしい",
     "meaning": "(respectful) OK; all right",
-    "ex_ja": "万事よろしい。",
+    "ex_ja": "<ruby>万事<rt>ばんじ</rt></ruby>よろしい。",
     "ex_en": "All is well."
   },
   {
@@ -9464,7 +9464,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "いと",
     "ruby": "<ruby>糸<rt>いと</rt></ruby>",
     "meaning": "thread",
-    "ex_ja": "糸が絡まった。",
+    "ex_ja": "<ruby>糸<rt>いと</rt></ruby>が<ruby>絡<rt>から</rt></ruby>まった。",
     "ex_en": "The threads got tangled."
   },
   {
@@ -9480,7 +9480,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おっと",
     "ruby": "<ruby>夫<rt>おっと</rt></ruby>",
     "meaning": "husband",
-    "ex_ja": "大丈夫そう？",
+    "ex_ja": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>そう？",
     "ex_en": "Are you going to be OK?"
   },
   {
@@ -9512,7 +9512,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おと",
     "ruby": "<ruby>音<rt>おと</rt></ruby>",
     "meaning": "sound; note",
-    "ex_ja": "音楽は好き？",
+    "ex_ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？",
     "ex_en": "Are you fond of music?"
   },
   {
@@ -9528,7 +9528,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おどり",
     "ruby": "<ruby>踊り<rt>おどり</rt></ruby>",
     "meaning": "a dance",
-    "ex_ja": "踊り続けて。",
+    "ex_ja": "<ruby>踊<rt>おど</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けて。",
     "ex_en": "Keep dancing."
   },
   {
@@ -9544,7 +9544,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おまつり",
     "ruby": "<ruby>お祭り<rt>おまつり</rt></ruby>",
     "meaning": "festival",
-    "ex_ja": "彼らはお祭りを中止した。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らはお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>中止<rt>ちゅうし</rt></ruby>した。",
     "ex_en": "They cancelled the festival."
   },
   {
@@ -9560,7 +9560,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "おわり",
     "ruby": "<ruby>終わり<rt>おわり</rt></ruby>",
     "meaning": "the end",
-    "ex_ja": "終わりはない。",
+    "ex_ja": "<ruby>終<rt>お</rt></ruby>わりはない。",
     "ex_en": "It never ends."
   },
   {
@@ -9576,7 +9576,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かえり",
     "ruby": "<ruby>帰り<rt>かえり</rt></ruby>",
     "meaning": "return",
-    "ex_ja": "帰りなさい。",
+    "ex_ja": "<ruby>帰<rt>かえ</rt></ruby>りなさい。",
     "ex_en": "Go home."
   },
   {
@@ -9592,7 +9592,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "かわり",
     "ruby": "<ruby>代わり<rt>かわり</rt></ruby>",
     "meaning": "substitute; alternate",
-    "ex_ja": "担当者と代わります。",
+    "ex_ja": "<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>代<rt>か</rt></ruby>わります。",
     "ex_en": "I'll transfer you to the right person."
   },
   {
@@ -9608,7 +9608,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "きっと",
     "ruby": "きっと",
     "meaning": "surely",
-    "ex_ja": "彼はきっと来る。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はきっと<ruby>来<rt>く</rt></ruby>る。",
     "ex_en": "He is certain to come."
   },
   {
@@ -9624,7 +9624,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "こと",
     "ruby": "こと",
     "meaning": "thing; matter",
-    "ex_ja": "何てことだ！",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>てことだ！",
     "ex_en": "Oh no!"
   },
   {
@@ -9640,7 +9640,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ことり",
     "ruby": "<ruby>小鳥<rt>ことり</rt></ruby>",
     "meaning": "small bird",
-    "ex_ja": "彼は小鳥を狙った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>小鳥<rt>ことり</rt></ruby>を<ruby>狙<rt>ねら</rt></ruby>った。",
     "ex_en": "He aimed at the bird."
   },
   {
@@ -9672,7 +9672,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すっかり",
     "ruby": "すっかり",
     "meaning": "completely",
-    "ex_ja": "すっかり忘れたよ。",
+    "ex_ja": "すっかり<ruby>忘<rt>わす</rt></ruby>れたよ。",
     "ex_en": "I've clean forgotten."
   },
   {
@@ -9704,7 +9704,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すり",
     "ruby": "すり",
     "meaning": "pickpocket",
-    "ex_ja": "靴がすり減った。",
+    "ex_ja": "<ruby>靴<rt>くつ</rt></ruby>がすり<ruby>減<rt>へ</rt></ruby>った。",
     "ex_en": "My shoes are worn out."
   },
   {
@@ -9720,7 +9720,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "すると",
     "ruby": "すると",
     "meaning": "then",
-    "ex_ja": "彼は遅刻すると思う。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>遅刻<rt>ちこく</rt></ruby>すると<ruby>思<rt>おも</rt></ruby>う。",
     "ex_en": "I suppose he will be late."
   },
   {
@@ -9736,7 +9736,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ちり",
     "ruby": "<ruby>地理<rt>ちり</rt></ruby>",
     "meaning": "geography",
-    "ex_ja": "地理は弱い。",
+    "ex_ja": "<ruby>地理<rt>ちり</rt></ruby>は<ruby>弱<rt>よわ</rt></ruby>い。",
     "ex_en": "I am weak in geography."
   },
   {
@@ -9752,7 +9752,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "つもり",
     "ruby": "つもり",
     "meaning": "intention",
-    "ex_ja": "何するつもり？",
+    "ex_ja": "<ruby>何<rt>なに</rt></ruby>するつもり？",
     "ex_en": "What do you intend to do?"
   },
   {
@@ -9768,7 +9768,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "と",
     "ruby": "<ruby>都<rt>と</rt></ruby>",
     "meaning": "metropolitan",
-    "ex_ja": "工業都市です。",
+    "ex_ja": "<ruby>工業<rt>こうぎょう</rt></ruby><ruby>都市<rt>とし</rt></ruby>です。",
     "ex_en": "It's an industrial city."
   },
   {
@@ -9784,7 +9784,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "はっきり",
     "ruby": "はっきり",
     "meaning": "clearly",
-    "ex_ja": "はっきり言えよ。",
+    "ex_ja": "はっきり<ruby>言<rt>い</rt></ruby>えよ。",
     "ex_en": "Get to the point!"
   },
   {
@@ -9816,7 +9816,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひかり",
     "ruby": "<ruby>光<rt>ひかり</rt></ruby>",
     "meaning": "light",
-    "ex_ja": "身に余る栄光。",
+    "ex_ja": "<ruby>身<rt>み</rt></ruby>に<ruby>余<rt>あま</rt></ruby>る<ruby>栄光<rt>えいこう</rt></ruby>。",
     "ex_en": "The honor you are giving me is more than I deserve."
   },
   {
@@ -9832,7 +9832,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ひさしぶり",
     "ruby": "<ruby>久しぶり<rt>ひさしぶり</rt></ruby>",
     "meaning": "after a long time",
-    "ex_ja": "お久しぶり。",
+    "ex_ja": "お<ruby>久<rt>ひさ</rt></ruby>しぶり。",
     "ex_en": "Long time, no see."
   },
   {
@@ -9848,7 +9848,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "まわり",
     "ruby": "<ruby>周り<rt>まわり</rt></ruby>",
     "meaning": "surroundings",
-    "ex_ja": "僕は周りを見回した。",
+    "ex_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>周<rt>まわ</rt></ruby>りを<ruby>見回<rt>みまわ</rt></ruby>した。",
     "ex_en": "I looked around me."
   },
   {
@@ -9864,7 +9864,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "みなと",
     "ruby": "<ruby>港<rt>みなと</rt></ruby>",
     "meaning": "harbour",
-    "ex_ja": "空港まで行く。",
+    "ex_ja": "<ruby>空港<rt>くうこう</rt></ruby>まで<ruby>行<rt>い</rt></ruby>く。",
     "ex_en": "I'm going as far as the airport."
   },
   {
@@ -9880,7 +9880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "むり",
     "ruby": "<ruby>無理<rt>むり</rt></ruby>",
     "meaning": "impossible",
-    "ex_ja": "絶対無理だ。",
+    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>無理<rt>むり</rt></ruby>だ。",
     "ex_en": "It's absolutely impossible."
   },
   {
@@ -9896,7 +9896,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "もり",
     "ruby": "<ruby>森<rt>もり</rt></ruby>",
     "meaning": "forest",
-    "ex_ja": "彼は森で迷った。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>森<rt>もり</rt></ruby>で<ruby>迷<rt>まよ</rt></ruby>った。",
     "ex_en": "He lost his way in the woods."
   },
   {
@@ -9912,7 +9912,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "やっと",
     "ruby": "やっと",
     "meaning": "at last",
-    "ex_ja": "やっと着いた。",
+    "ex_ja": "やっと<ruby>着<rt>つ</rt></ruby>いた。",
     "ex_en": "Well, here we are at last!"
   },
   {
@@ -9960,7 +9960,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アクセサリー",
     "ruby": "アクセサリー",
     "meaning": "accessory",
-    "ex_ja": "彼女は服にアクセサリーを付けている。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>服<rt>ふく</rt></ruby>にアクセサリーを<ruby>付<rt>つ</rt></ruby>けている。",
     "ex_en": "She is wearing accessories."
   },
   {
@@ -9976,7 +9976,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アジア",
     "ruby": "アジア",
     "meaning": "Asia",
-    "ex_ja": "日本はアジアにある。",
+    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>はアジアにある。",
     "ex_en": "Japan is situated in Asia."
   },
   {
@@ -9992,7 +9992,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アナウンサー",
     "ruby": "アナウンサー",
     "meaning": "announcer",
-    "ex_ja": "アナウンサーは早口が出来る。",
+    "ex_ja": "アナウンサーは<ruby>早口<rt>はやくち</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>る。",
     "ex_en": "The announcer can talk rapidly."
   },
   {
@@ -10008,7 +10008,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アフリカ",
     "ruby": "アフリカ",
     "meaning": "Africa",
-    "ex_ja": "南アフリカは遠い。",
+    "ex_ja": "<ruby>南アフリカ<rt>みなみあふりか</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>い。",
     "ex_en": "South Africa is far away."
   },
   {
@@ -10024,7 +10024,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アメリカ",
     "ruby": "アメリカ",
     "meaning": "America",
-    "ex_ja": "アメリカ出身です。",
+    "ex_ja": "アメリカ<ruby>出身<rt>しゅっしん</rt></ruby>です。",
     "ex_en": "I'm from the United States."
   },
   {
@@ -10040,7 +10040,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アルコール",
     "ruby": "アルコール",
     "meaning": "alcohol",
-    "ex_ja": "アルコールは薬物だよ。",
+    "ex_ja": "アルコールは<ruby>薬物<rt>やくぶつ</rt></ruby>だよ。",
     "ex_en": "Alcohol is a drug."
   },
   {
@@ -10056,7 +10056,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "アルバイト",
     "ruby": "アルバイト",
     "meaning": "part-time job",
-    "ex_ja": "私もアルバイトしたいなあ。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>もアルバイトしたいなあ。",
     "ex_en": "I want to have a part-time job, too."
   },
   {
@@ -10088,7 +10088,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "オートバイ",
     "ruby": "オートバイ",
     "meaning": "motorcycle",
-    "ex_ja": "オートバイを買うんだ。",
+    "ex_ja": "オートバイを<ruby>買<rt>か</rt></ruby>うんだ。",
     "ex_en": "I'm going to buy myself a motorcycle."
   },
   {
@@ -10104,7 +10104,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "カーテン",
     "ruby": "カーテン",
     "meaning": "curtain",
-    "ex_ja": "カーテン閉めて。",
+    "ex_ja": "カーテン<ruby>閉<rt>し</rt></ruby>めて。",
     "ex_en": "Close the curtain."
   },
   {
@@ -10120,7 +10120,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ガス",
     "ruby": "ガス",
     "meaning": "petrol",
-    "ex_ja": "ガス欠です。",
+    "ex_ja": "ガス<ruby>欠<rt>けつ</rt></ruby>です。",
     "ex_en": "I'm out of gas."
   },
   {
@@ -10136,7 +10136,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ガソリン",
     "ruby": "ガソリン",
     "meaning": "petrol",
-    "ex_ja": "ガソリン臭いよ。",
+    "ex_ja": "ガソリン<ruby>臭<rt>くさ</rt></ruby>いよ。",
     "ex_en": "I smell gasoline."
   },
   {
@@ -10152,7 +10152,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ガソリンスタンド",
     "ruby": "ガソリンスタンド",
     "meaning": "petrol station",
-    "ex_ja": "次のガソリンスタンドに寄ろう。",
+    "ex_ja": "<ruby>次<rt>つぎ</rt></ruby>のガソリンスタンドに<ruby>寄<rt>よ</rt></ruby>ろう。",
     "ex_en": "Let's stop at the next service station."
   },
   {
@@ -10168,7 +10168,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ガラス",
     "ruby": "ガラス",
     "meaning": "a glass pane",
-    "ex_ja": "ガラスは壊れやすい。",
+    "ex_ja": "ガラスは<ruby>壊<rt>こわ</rt></ruby>れやすい。",
     "ex_en": "Glass breaks easily."
   },
   {
@@ -10184,7 +10184,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ケーキ",
     "ruby": "ケーキ",
     "meaning": "cake",
-    "ex_ja": "ケーキは嘘だ。",
+    "ex_ja": "ケーキは<ruby>嘘<rt>うそ</rt></ruby>だ。",
     "ex_en": "The cake is a lie."
   },
   {
@@ -10264,7 +10264,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "サラダ",
     "ruby": "サラダ",
     "meaning": "salad",
-    "ex_ja": "サラダ、美味しい？",
+    "ex_ja": "サラダ、<ruby>美味<rt>おい</rt></ruby>しい？",
     "ex_en": "Is the salad tasty?"
   },
   {
@@ -10280,7 +10280,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "サンダル",
     "ruby": "サンダル",
     "meaning": "sandal",
-    "ex_ja": "サンダルを買った。",
+    "ex_ja": "サンダルを<ruby>買<rt>か</rt></ruby>った。",
     "ex_en": "I bought a pair of sandals."
   },
   {
@@ -10312,7 +10312,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ジャム",
     "ruby": "ジャム",
     "meaning": "jam",
-    "ex_ja": "苺はジャムにできるよ。",
+    "ex_ja": "<ruby>苺<rt>いちご</rt></ruby>はジャムにできるよ。",
     "ex_en": "Strawberries can be made into jam."
   },
   {
@@ -10328,7 +10328,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "スクリーン",
     "ruby": "スクリーン",
     "meaning": "screen",
-    "ex_ja": "トムはスクリーンに釘付けだった。",
+    "ex_ja": "トムはスクリーンに<ruby>釘付<rt>くぎづ</rt></ruby>けだった。",
     "ex_en": "Tom's eyes were glued to the screen."
   },
   {
@@ -10344,7 +10344,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ステレオ",
     "ruby": "ステレオ",
     "meaning": "stereo",
-    "ex_ja": "ステレオの音、小さくしてよ。",
+    "ex_ja": "ステレオの<ruby>音<rt>おと</rt></ruby>、<ruby>小<rt>ちい</rt></ruby>さくしてよ。",
     "ex_en": "Turn down the stereo."
   },
   {
@@ -10360,7 +10360,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ステーキ",
     "ruby": "ステーキ",
     "meaning": "steak",
-    "ex_ja": "ステーキ食べたい。",
+    "ex_ja": "ステーキ<ruby>食<rt>た</rt></ruby>べたい。",
     "ex_en": "I want to eat steak."
   },
   {
@@ -10376,7 +10376,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "スーツ",
     "ruby": "スーツ",
     "meaning": "suit",
-    "ex_ja": "スーツに着替えなさい。",
+    "ex_ja": "スーツに<ruby>着替<rt>きが</rt></ruby>えなさい。",
     "ex_en": "Change into your suit."
   },
   {
@@ -10392,7 +10392,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "スーツケース",
     "ruby": "スーツケース",
     "meaning": "suitcase",
-    "ex_ja": "そのスーツケース重い？",
+    "ex_ja": "そのスーツケース<ruby>重<rt>おも</rt></ruby>い？",
     "ex_en": "Are your suitcases heavy?"
   },
   {
@@ -10424,7 +10424,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ソフト",
     "ruby": "ソフト",
     "meaning": "soft",
-    "ex_ja": "ソフトクリーム食べたい。",
+    "ex_ja": "ソフトクリーム<ruby>食<rt>た</rt></ruby>べたい。",
     "ex_en": "I want to eat soft serve ice cream."
   },
   {
@@ -10440,7 +10440,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "タイプ",
     "ruby": "タイプ",
     "meaning": "type; style",
-    "ex_ja": "彼って私のタイプ！",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>って<ruby>私<rt>わたし</rt></ruby>のタイプ！",
     "ex_en": "He is my type!"
   },
   {
@@ -10472,7 +10472,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "チェックする",
     "ruby": "チェックする",
     "meaning": "to check",
-    "ex_ja": "私は仕事を一つ終えるごとにリストの上でチェックする。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>を<ruby>一<rt>ひと</rt></ruby>つ<ruby>終<rt>お</rt></ruby>えるごとにリストの<ruby>上<rt>うえ</rt></ruby>でチェックする。",
     "ex_en": "I check off each task on my list as soon as I complete it."
   },
   {
@@ -10488,7 +10488,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "テキスト",
     "ruby": "テキスト",
     "meaning": "text; text book",
-    "ex_ja": "どのテキスト使ってるの？",
+    "ex_ja": "どのテキスト<ruby>使<rt>つか</rt></ruby>ってるの？",
     "ex_en": "Which textbook are you using?"
   },
   {
@@ -10504,7 +10504,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "テニス",
     "ruby": "テニス",
     "meaning": "tennis",
-    "ex_ja": "テニスは得意？",
+    "ex_ja": "テニスは<ruby>得意<rt>とくい</rt></ruby>？",
     "ex_en": "Are you good at playing tennis?"
   },
   {
@@ -10520,7 +10520,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ハンドバッグ",
     "ruby": "ハンドバッグ",
     "meaning": "handbag",
-    "ex_ja": "そのハンドバッグ、私の。",
+    "ex_ja": "そのハンドバッグ、<ruby>私<rt>わたし</rt></ruby>の。",
     "ex_en": "That handbag is mine."
   },
   {
@@ -10616,7 +10616,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ピアノ",
     "ruby": "ピアノ",
     "meaning": "piano",
-    "ex_ja": "ピアノは好き？",
+    "ex_ja": "ピアノは<ruby>好<rt>す</rt></ruby>き？",
     "ex_en": "Do you like the piano?"
   },
   {
@@ -10664,7 +10664,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ベル",
     "ruby": "ベル",
     "meaning": "bell",
-    "ex_ja": "ベルが鳴った。",
+    "ex_ja": "ベルが<ruby>鳴<rt>な</rt></ruby>った。",
     "ex_en": "The bell rang."
   },
   {
@@ -10728,7 +10728,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ワープロ",
     "ruby": "ワープロ",
     "meaning": "word processor",
-    "ex_ja": "ワープロを買いたい。",
+    "ex_ja": "ワープロを<ruby>買<rt>か</rt></ruby>いたい。",
     "ex_en": "I want to buy a word processor."
   }
 ];

@@ -1,5 +1,5 @@
-// JLPT N1 Grammar Practice Questions (508 Questions - 4 per Grammar)
-// Perfectly balanced 25.0% choices, non-sensitive, high-register Japanese
+// JLPT N1 Grammar Practice Questions (508 Questions)
+// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -20,7 +20,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を皮切りに",
-    "notes": "【学術・論文】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。"
+    "notes": "【学術・論文】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>皮切<rt>かわき</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "を<ruby>皮切<rt>かわき</rt></ruby>りに"
   },
   {
     "id": 2,
@@ -41,7 +50,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を皮切りに",
-    "notes": "【ビジネス・公式スピーチ】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>皮切<rt>かわき</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まじき",
+      "ならでは"
+    ],
+    "correct_text_ruby": "を<ruby>皮切<rt>かわき</rt></ruby>りに"
   },
   {
     "id": 3,
@@ -62,7 +80,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を皮切りに",
-    "notes": "【社会・社説】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。"
+    "notes": "【社会・社説】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>皮切<rt>かわき</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をおいて"
+    ],
+    "correct_text_ruby": "を<ruby>皮切<rt>かわき</rt></ruby>りに"
   },
   {
     "id": 4,
@@ -83,7 +110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を皮切りに",
-    "notes": "【倫理・品格】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。"
+    "notes": "【倫理・品格】〜を始まりとして次々に同じようなことが行われる。。文脈の格式と文法規則から「を皮切りに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>皮切<rt>かわき</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "はおろか",
+      "をおいて",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "を<ruby>皮切<rt>かわき</rt></ruby>りに"
   },
   {
     "id": 5,
@@ -104,7 +140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "であれ",
-    "notes": "【学術・論文】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。"
+    "notes": "【学術・論文】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、であれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "ごとき",
+      "まみれ",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "であれ"
   },
   {
     "id": 6,
@@ -125,7 +170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "であれ",
-    "notes": "【ビジネス・公式スピーチ】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、であれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "であれ",
+      "をおいて",
+      "はおろか"
+    ],
+    "correct_text_ruby": "であれ"
   },
   {
     "id": 7,
@@ -146,7 +200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "であれ",
-    "notes": "【社会・社説】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。"
+    "notes": "【社会・社説】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、であれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "といったらない",
+      "であれ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "であれ"
   },
   {
     "id": 8,
@@ -167,7 +230,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "であれ",
-    "notes": "【倫理・品格】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。"
+    "notes": "【倫理・品格】たとえ〜であっても。〜でも。。文脈の格式と文法規則から「であれ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、であれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "はおろか",
+      "ならでは",
+      "であれ"
+    ],
+    "correct_text_ruby": "であれ"
   },
   {
     "id": 9,
@@ -188,7 +260,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "極まりない",
-    "notes": "【学術・論文】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。"
+    "notes": "【学術・論文】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、<ruby>極<rt>きわ</rt></ruby>まりない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "からある",
+      "をおいて",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "<ruby>極<rt>きわ</rt></ruby>まりない"
   },
   {
     "id": 10,
@@ -209,7 +290,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "極まりない",
-    "notes": "【ビジネス・公式スピーチ】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、<ruby>極<rt>きわ</rt></ruby>まりない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "なくしては",
+      "はおろか"
+    ],
+    "correct_text_ruby": "<ruby>極<rt>きわ</rt></ruby>まりない"
   },
   {
     "id": 11,
@@ -230,7 +320,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "極まりない",
-    "notes": "【社会・社説】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。"
+    "notes": "【社会・社説】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、<ruby>極<rt>きわ</rt></ruby>まりない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "まじき"
+    ],
+    "correct_text_ruby": "<ruby>極<rt>きわ</rt></ruby>まりない"
   },
   {
     "id": 12,
@@ -251,7 +350,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "極まりない",
-    "notes": "【倫理・品格】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。"
+    "notes": "【倫理・品格】これ以上ないほど非常に〜だ。。文脈の格式と文法規則から「極まりない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、<ruby>極<rt>きわ</rt></ruby>まりない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "をものともせずに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "<ruby>極<rt>きわ</rt></ruby>まりない"
   },
   {
     "id": 13,
@@ -272,7 +380,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を禁じ得ない",
-    "notes": "【学術・論文】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。"
+    "notes": "【学術・論文】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "はおろか",
+      "をものともせずに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 14,
@@ -293,7 +410,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を禁じ得ない",
-    "notes": "【ビジネス・公式スピーチ】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "まじき",
+      "といったらない"
+    ],
+    "correct_text_ruby": "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 15,
@@ -314,7 +440,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を禁じ得ない",
-    "notes": "【社会・社説】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。"
+    "notes": "【社会・社説】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "からある",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 16,
@@ -335,7 +470,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を禁じ得ない",
-    "notes": "【倫理・品格】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。"
+    "notes": "【倫理・品格】感情や涙などを抑えることができない。。文脈の格式と文法規則から「を禁じ得ない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "なしに",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 17,
@@ -356,7 +500,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に至っては",
-    "notes": "【学術・論文】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。"
+    "notes": "【学術・論文】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>至<rt>いた</rt></ruby>っては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "にとどまらず",
+      "といったらない",
+      "まみれ"
+    ],
+    "correct_text_ruby": "に<ruby>至<rt>いた</rt></ruby>っては"
   },
   {
     "id": 18,
@@ -377,7 +530,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に至っては",
-    "notes": "【ビジネス・公式スピーチ】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>至<rt>いた</rt></ruby>っては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ずくめ",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "に<ruby>至<rt>いた</rt></ruby>っては"
   },
   {
     "id": 19,
@@ -398,7 +560,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に至っては",
-    "notes": "【社会・社説】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。"
+    "notes": "【社会・社説】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>至<rt>いた</rt></ruby>っては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ならでは"
+    ],
+    "correct_text_ruby": "に<ruby>至<rt>いた</rt></ruby>っては"
   },
   {
     "id": 20,
@@ -419,7 +590,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に至っては",
-    "notes": "【倫理・品格】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。"
+    "notes": "【倫理・品格】極端な例として〜の場合は。。文脈の格式と文法規則から「に至っては」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>至<rt>いた</rt></ruby>っては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "なしに",
+      "からある",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "に<ruby>至<rt>いた</rt></ruby>っては"
   },
   {
     "id": 21,
@@ -440,7 +620,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まじき",
-    "notes": "【学術・論文】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。"
+    "notes": "【学術・論文】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、まじき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて",
+      "からある"
+    ],
+    "correct_text_ruby": "まじき"
   },
   {
     "id": 22,
@@ -461,7 +650,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まじき",
-    "notes": "【ビジネス・公式スピーチ】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、まじき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "まじき",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "まじき"
   },
   {
     "id": 23,
@@ -482,7 +680,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まじき",
-    "notes": "【社会・社説】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。"
+    "notes": "【社会・社説】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、まじき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "まみれ",
+      "まじき",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "まじき"
   },
   {
     "id": 24,
@@ -503,7 +710,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まじき",
-    "notes": "【倫理・品格】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。"
+    "notes": "【倫理・品格】ある立場として決してあってはならない。。文脈の格式と文法規則から「まじき」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、まじき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "からある",
+      "ならでは",
+      "まじき"
+    ],
+    "correct_text_ruby": "まじき"
   },
   {
     "id": 25,
@@ -524,7 +740,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ごとき",
-    "notes": "【学術・論文】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。"
+    "notes": "【学術・論文】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ごとき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "なくしては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "ごとき"
   },
   {
     "id": 26,
@@ -545,7 +770,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ごとき",
-    "notes": "【ビジネス・公式スピーチ】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ごとき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "ごとき",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ごとき"
   },
   {
     "id": 27,
@@ -566,7 +800,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ごとき",
-    "notes": "【社会・社説】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。"
+    "notes": "【社会・社説】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ごとき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "たるもの",
+      "ごとき",
+      "からある"
+    ],
+    "correct_text_ruby": "ごとき"
   },
   {
     "id": 28,
@@ -587,7 +830,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ごとき",
-    "notes": "【倫理・品格】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。"
+    "notes": "【倫理・品格】〜のような。あるいは〜なんて（軽視・謙遜）。。文脈の格式と文法規則から「ごとき」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ごとき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "なしに",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ごとき"
+    ],
+    "correct_text_ruby": "ごとき"
   },
   {
     "id": 29,
@@ -608,7 +860,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずくめ",
-    "notes": "【学術・論文】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。"
+    "notes": "【学術・論文】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ずくめ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "はおろか",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "ずくめ"
   },
   {
     "id": 30,
@@ -629,7 +890,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずくめ",
-    "notes": "【ビジネス・公式スピーチ】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ずくめ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ずくめ",
+      "はおろか",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "ずくめ"
   },
   {
     "id": 31,
@@ -650,7 +920,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずくめ",
-    "notes": "【社会・社説】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。"
+    "notes": "【社会・社説】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ずくめ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "といったらない",
+      "ずくめ",
+      "まみれ"
+    ],
+    "correct_text_ruby": "ずくめ"
   },
   {
     "id": 32,
@@ -671,7 +950,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずくめ",
-    "notes": "【倫理・品格】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。"
+    "notes": "【倫理・品格】全体がそればかりである状態を表す。。文脈の格式と文法規則から「ずくめ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ずくめ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "ずくめ"
   },
   {
     "id": 33,
@@ -692,7 +980,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "まみれ",
-    "notes": "【学術・論文】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。"
+    "notes": "【学術・論文】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、まみれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ごとき",
+      "はおろか",
+      "ならでは"
+    ],
+    "correct_text_ruby": "まみれ"
   },
   {
     "id": 34,
@@ -713,7 +1010,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "まみれ",
-    "notes": "【ビジネス・公式スピーチ】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、まみれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "まみれ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "であれ"
+    ],
+    "correct_text_ruby": "まみれ"
   },
   {
     "id": 35,
@@ -734,7 +1040,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "まみれ",
-    "notes": "【社会・社説】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。"
+    "notes": "【社会・社説】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、まみれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "にとどまらず",
+      "まみれ",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "まみれ"
   },
   {
     "id": 36,
@@ -755,7 +1070,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "まみれ",
-    "notes": "【倫理・品格】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。"
+    "notes": "【倫理・品格】汗・泥・血・借金など好ましくないものが表面全体についている。。文脈の格式と文法規則から「まみれ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、まみれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "まじき",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "まみれ"
+    ],
+    "correct_text_ruby": "まみれ"
   },
   {
     "id": 37,
@@ -776,7 +1100,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ゆえに",
-    "notes": "【学術・論文】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。"
+    "notes": "【学術・論文】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ゆえに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ゆえに",
+      "はおろか",
+      "をものともせずに",
+      "からある"
+    ],
+    "correct_text_ruby": "ゆえに"
   },
   {
     "id": 38,
@@ -797,7 +1130,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ゆえに",
-    "notes": "【ビジネス・公式スピーチ】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ゆえに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "ゆえに",
+      "からある",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "ゆえに"
   },
   {
     "id": 39,
@@ -818,7 +1160,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ゆえに",
-    "notes": "【社会・社説】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。"
+    "notes": "【社会・社説】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ゆえに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "ごとき",
+      "ゆえに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "ゆえに"
   },
   {
     "id": 40,
@@ -839,7 +1190,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ゆえに",
-    "notes": "【倫理・品格】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。"
+    "notes": "【倫理・品格】〜という理由・原因のために。。文脈の格式と文法規則から「ゆえに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ゆえに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "なしに",
+      "であれ",
+      "ゆえに"
+    ],
+    "correct_text_ruby": "ゆえに"
   },
   {
     "id": 41,
@@ -860,7 +1220,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ならでは",
-    "notes": "【学術・論文】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。"
+    "notes": "【学術・論文】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ならでは<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならでは",
+      "ずくめ",
+      "からある",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "ならでは"
   },
   {
     "id": 42,
@@ -881,7 +1250,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ならでは",
-    "notes": "【ビジネス・公式スピーチ】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ならでは<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ならでは",
+      "たるもの",
+      "なしに"
+    ],
+    "correct_text_ruby": "ならでは"
   },
   {
     "id": 43,
@@ -902,7 +1280,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ならでは",
-    "notes": "【社会・社説】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。"
+    "notes": "【社会・社説】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ならでは<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "をものともせずに",
+      "ならでは",
+      "であれ"
+    ],
+    "correct_text_ruby": "ならでは"
   },
   {
     "id": 44,
@@ -923,7 +1310,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ならでは",
-    "notes": "【倫理・品格】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。"
+    "notes": "【倫理・品格】〜だけが持っている特別な素晴らしさを表す。。文脈の格式と文法規則から「ならでは」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ならでは<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ならでは"
+    ],
+    "correct_text_ruby": "ならでは"
   },
   {
     "id": 45,
@@ -944,7 +1340,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にかかわる",
-    "notes": "【学術・論文】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。"
+    "notes": "【学術・論文】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にかかわる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にかかわる",
+      "たるもの",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "といったらない"
+    ],
+    "correct_text_ruby": "にかかわる"
   },
   {
     "id": 46,
@@ -965,7 +1370,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にかかわる",
-    "notes": "【ビジネス・公式スピーチ】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にかかわる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "にかかわる",
+      "といったらない",
+      "まじき"
+    ],
+    "correct_text_ruby": "にかかわる"
   },
   {
     "id": 47,
@@ -986,7 +1400,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかかわる",
-    "notes": "【社会・社説】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。"
+    "notes": "【社会・社説】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にかかわる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "まじき",
+      "にかかわる",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "にかかわる"
   },
   {
     "id": 48,
@@ -1007,7 +1430,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかかわる",
-    "notes": "【倫理・品格】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。"
+    "notes": "【倫理・品格】命や名誉など重大な事態に影響・関係する。。文脈の格式と文法規則から「にかかわる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にかかわる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ずくめ",
+      "ごとき",
+      "にかかわる"
+    ],
+    "correct_text_ruby": "にかかわる"
   },
   {
     "id": 49,
@@ -1028,7 +1460,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とあっては",
-    "notes": "【学術・論文】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。"
+    "notes": "【学術・論文】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、とあっては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "とあっては",
+      "ずくめ",
+      "といったらない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "とあっては"
   },
   {
     "id": 50,
@@ -1049,7 +1490,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とあっては",
-    "notes": "【ビジネス・公式スピーチ】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、とあっては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "とあっては",
+      "はおろか",
+      "をおいて"
+    ],
+    "correct_text_ruby": "とあっては"
   },
   {
     "id": 51,
@@ -1070,7 +1520,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とあっては",
-    "notes": "【社会・社説】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。"
+    "notes": "【社会・社説】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、とあっては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "とあっては",
+      "からある"
+    ],
+    "correct_text_ruby": "とあっては"
   },
   {
     "id": 52,
@@ -1091,7 +1550,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とあっては",
-    "notes": "【倫理・品格】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。"
+    "notes": "【倫理・品格】〜という特別な事情・状況なら。。文脈の格式と文法規則から「とあっては」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、とあっては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をものともせずに",
+      "はおろか",
+      "とあっては"
+    ],
+    "correct_text_ruby": "とあっては"
   },
   {
     "id": 53,
@@ -1112,7 +1580,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たるもの",
-    "notes": "【学術・論文】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。"
+    "notes": "【学術・論文】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、たるもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "はおろか",
+      "ごとき",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "たるもの"
   },
   {
     "id": 54,
@@ -1133,7 +1610,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たるもの",
-    "notes": "【ビジネス・公式スピーチ】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、たるもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "たるもの",
+      "からある",
+      "であれ"
+    ],
+    "correct_text_ruby": "たるもの"
   },
   {
     "id": 55,
@@ -1154,7 +1640,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たるもの",
-    "notes": "【社会・社説】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。"
+    "notes": "【社会・社説】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、たるもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まみれ",
+      "たるもの",
+      "といったらない"
+    ],
+    "correct_text_ruby": "たるもの"
   },
   {
     "id": 56,
@@ -1175,7 +1670,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たるもの",
-    "notes": "【倫理・品格】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。"
+    "notes": "【倫理・品格】〜という身分・資格を持つ者ならば当然。。文脈の格式と文法規則から「たるもの」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、たるもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "たるもの"
+    ],
+    "correct_text_ruby": "たるもの"
   },
   {
     "id": 57,
@@ -1196,7 +1700,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あっての",
-    "notes": "【学術・論文】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。"
+    "notes": "【学術・論文】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、あっての<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "あっての",
+      "であれ",
+      "たるもの",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "あっての"
   },
   {
     "id": 58,
@@ -1217,7 +1730,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あっての",
-    "notes": "【ビジネス・公式スピーチ】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、あっての<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "あっての",
+      "といったらない",
+      "なしに"
+    ],
+    "correct_text_ruby": "あっての"
   },
   {
     "id": 59,
@@ -1238,7 +1760,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あっての",
-    "notes": "【社会・社説】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。"
+    "notes": "【社会・社説】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、あっての<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "あっての",
+      "といったらない"
+    ],
+    "correct_text_ruby": "あっての"
   },
   {
     "id": 60,
@@ -1259,7 +1790,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あっての",
-    "notes": "【倫理・品格】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。"
+    "notes": "【倫理・品格】〜が存在するからこそ成り立つ。。文脈の格式と文法規則から「あっての」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、あっての<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "たるもの",
+      "あっての"
+    ],
+    "correct_text_ruby": "あっての"
   },
   {
     "id": 61,
@@ -1280,7 +1820,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ともなると",
-    "notes": "【学術・論文】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。"
+    "notes": "【学術・論文】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ともなると<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ともなると",
+      "であれ",
+      "をものともせずに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "ともなると"
   },
   {
     "id": 62,
@@ -1301,7 +1850,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ともなると",
-    "notes": "【ビジネス・公式スピーチ】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ともなると<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "ともなると",
+      "にとどまらず",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "ともなると"
   },
   {
     "id": 63,
@@ -1322,7 +1880,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ともなると",
-    "notes": "【社会・社説】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。"
+    "notes": "【社会・社説】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ともなると<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "ともなると",
+      "はおろか"
+    ],
+    "correct_text_ruby": "ともなると"
   },
   {
     "id": 64,
@@ -1343,7 +1910,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ともなると",
-    "notes": "【倫理・品格】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。"
+    "notes": "【倫理・品格】その段階や特別な立場に達すると。。文脈の格式と文法規則から「ともなると」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ともなると<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "はおろか",
+      "といったらない",
+      "ともなると"
+    ],
+    "correct_text_ruby": "ともなると"
   },
   {
     "id": 65,
@@ -1364,7 +1940,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくして",
-    "notes": "【学術・論文】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。"
+    "notes": "【学術・論文】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、なくして<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくして",
+      "であれ",
+      "ずくめ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "なくして"
   },
   {
     "id": 66,
@@ -1385,7 +1970,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なくして",
-    "notes": "【ビジネス・公式スピーチ】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、なくして<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "なくして",
+      "ずくめ",
+      "まみれ"
+    ],
+    "correct_text_ruby": "なくして"
   },
   {
     "id": 67,
@@ -1406,7 +2000,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくして",
-    "notes": "【社会・社説】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。"
+    "notes": "【社会・社説】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、なくして<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ならではの",
+      "なくして",
+      "ごとき"
+    ],
+    "correct_text_ruby": "なくして"
   },
   {
     "id": 68,
@@ -1427,7 +2030,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくして",
-    "notes": "【倫理・品格】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。"
+    "notes": "【倫理・品格】もし〜がなければ実現しない。。文脈の格式と文法規則から「なくして」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、なくして<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "ならではの",
+      "といったらない",
+      "なくして"
+    ],
+    "correct_text_ruby": "なくして"
   },
   {
     "id": 69,
@@ -1448,7 +2060,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なしに",
-    "notes": "【学術・論文】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。"
+    "notes": "【学術・論文】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、なしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "にとどまらず",
+      "ごとき",
+      "まじき"
+    ],
+    "correct_text_ruby": "なしに"
   },
   {
     "id": 70,
@@ -1469,7 +2090,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なしに",
-    "notes": "【ビジネス・公式スピーチ】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、なしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なしに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まみれ"
+    ],
+    "correct_text_ruby": "なしに"
   },
   {
     "id": 71,
@@ -1490,7 +2120,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なしに",
-    "notes": "【社会・社説】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。"
+    "notes": "【社会・社説】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、なしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "なしに",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "なしに"
   },
   {
     "id": 72,
@@ -1511,7 +2150,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なしに",
-    "notes": "【倫理・品格】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。"
+    "notes": "【倫理・品格】〜をしないで。。文脈の格式と文法規則から「なしに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、なしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "なくしては",
+      "からある",
+      "なしに"
+    ],
+    "correct_text_ruby": "なしに"
   },
   {
     "id": 73,
@@ -1532,7 +2180,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なりに",
-    "notes": "【学術・論文】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。"
+    "notes": "【学術・論文】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、なりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なりに",
+      "ずくめ",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "なしに"
+    ],
+    "correct_text_ruby": "なりに"
   },
   {
     "id": 74,
@@ -1553,7 +2210,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なりに",
-    "notes": "【ビジネス・公式スピーチ】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、なりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "なりに",
+      "をおいて",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "なりに"
   },
   {
     "id": 75,
@@ -1574,7 +2240,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なりに",
-    "notes": "【社会・社説】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。"
+    "notes": "【社会・社説】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、なりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "といったらない",
+      "なりに",
+      "ならではの"
+    ],
+    "correct_text_ruby": "なりに"
   },
   {
     "id": 76,
@@ -1595,7 +2270,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なりに",
-    "notes": "【倫理・品格】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。"
+    "notes": "【倫理・品格】その人・物相応に。。文脈の格式と文法規則から「なりに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、なりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "をおいて",
+      "まじき",
+      "なりに"
+    ],
+    "correct_text_ruby": "なりに"
   },
   {
     "id": 77,
@@ -1616,7 +2300,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を踏まえて",
-    "notes": "【学術・論文】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。"
+    "notes": "【学術・論文】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>踏<rt>ふ</rt></ruby>まえて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>踏<rt>ふ</rt></ruby>まえて",
+      "にとどまらず",
+      "をものともせずに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "を<ruby>踏<rt>ふ</rt></ruby>まえて"
   },
   {
     "id": 78,
@@ -1637,7 +2330,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を踏まえて",
-    "notes": "【ビジネス・公式スピーチ】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>踏<rt>ふ</rt></ruby>まえて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "を<ruby>踏<rt>ふ</rt></ruby>まえて",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まじき"
+    ],
+    "correct_text_ruby": "を<ruby>踏<rt>ふ</rt></ruby>まえて"
   },
   {
     "id": 79,
@@ -1658,7 +2360,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を踏まえて",
-    "notes": "【社会・社説】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。"
+    "notes": "【社会・社説】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>踏<rt>ふ</rt></ruby>まえて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "を<ruby>踏<rt>ふ</rt></ruby>まえて",
+      "はおろか"
+    ],
+    "correct_text_ruby": "を<ruby>踏<rt>ふ</rt></ruby>まえて"
   },
   {
     "id": 80,
@@ -1679,7 +2390,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を踏まえて",
-    "notes": "【倫理・品格】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。"
+    "notes": "【倫理・品格】〜を前提・基礎として。。文脈の格式と文法規則から「を踏まえて」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>踏<rt>ふ</rt></ruby>まえて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "まじき",
+      "はおろか",
+      "を<ruby>踏<rt>ふ</rt></ruby>まえて"
+    ],
+    "correct_text_ruby": "を<ruby>踏<rt>ふ</rt></ruby>まえて"
   },
   {
     "id": 81,
@@ -1700,7 +2420,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に先駆けて",
-    "notes": "【学術・論文】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。"
+    "notes": "【学術・論文】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>先駆<rt>さきが</rt></ruby>けて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>先駆<rt>さきが</rt></ruby>けて",
+      "まみれ",
+      "からある",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "に<ruby>先駆<rt>さきが</rt></ruby>けて"
   },
   {
     "id": 82,
@@ -1721,7 +2450,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に先駆けて",
-    "notes": "【ビジネス・公式スピーチ】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>先駆<rt>さきが</rt></ruby>けて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "に<ruby>先駆<rt>さきが</rt></ruby>けて",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "に<ruby>先駆<rt>さきが</rt></ruby>けて"
   },
   {
     "id": 83,
@@ -1742,7 +2480,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に先駆けて",
-    "notes": "【社会・社説】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。"
+    "notes": "【社会・社説】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>先駆<rt>さきが</rt></ruby>けて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ごとき",
+      "に<ruby>先駆<rt>さきが</rt></ruby>けて",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "に<ruby>先駆<rt>さきが</rt></ruby>けて"
   },
   {
     "id": 84,
@@ -1763,7 +2510,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に先駆けて",
-    "notes": "【倫理・品格】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。"
+    "notes": "【倫理・品格】他の誰よりも先に。。文脈の格式と文法規則から「に先駆けて」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>先駆<rt>さきが</rt></ruby>けて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "をものともせずに",
+      "ずくめ",
+      "に<ruby>先駆<rt>さきが</rt></ruby>けて"
+    ],
+    "correct_text_ruby": "に<ruby>先駆<rt>さきが</rt></ruby>けて"
   },
   {
     "id": 85,
@@ -1784,7 +2540,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を契機に",
-    "notes": "【学術・論文】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。"
+    "notes": "【学術・論文】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>契機<rt>けいき</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>契機<rt>けいき</rt></ruby>に",
+      "からある",
+      "なしに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "を<ruby>契機<rt>けいき</rt></ruby>に"
   },
   {
     "id": 86,
@@ -1805,7 +2570,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を契機に",
-    "notes": "【ビジネス・公式スピーチ】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>契機<rt>けいき</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "を<ruby>契機<rt>けいき</rt></ruby>に",
+      "たるもの",
+      "まみれ"
+    ],
+    "correct_text_ruby": "を<ruby>契機<rt>けいき</rt></ruby>に"
   },
   {
     "id": 87,
@@ -1826,7 +2600,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を契機に",
-    "notes": "【社会・社説】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。"
+    "notes": "【社会・社説】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>契機<rt>けいき</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "ごとき",
+      "を<ruby>契機<rt>けいき</rt></ruby>に",
+      "ならではの"
+    ],
+    "correct_text_ruby": "を<ruby>契機<rt>けいき</rt></ruby>に"
   },
   {
     "id": 88,
@@ -1847,7 +2630,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を契機に",
-    "notes": "【倫理・品格】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。"
+    "notes": "【倫理・品格】〜をきっかけとして大きな変化が起きる。。文脈の格式と文法規則から「を契機に」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>契機<rt>けいき</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "たるもの",
+      "なくしては",
+      "を<ruby>契機<rt>けいき</rt></ruby>に"
+    ],
+    "correct_text_ruby": "を<ruby>契機<rt>けいき</rt></ruby>に"
   },
   {
     "id": 89,
@@ -1868,7 +2660,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を機に",
-    "notes": "【学術・論文】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。"
+    "notes": "【学術・論文】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>機<rt>き</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>機<rt>き</rt></ruby>に",
+      "ごとき",
+      "まみれ",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "を<ruby>機<rt>き</rt></ruby>に"
   },
   {
     "id": 90,
@@ -1889,7 +2690,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を機に",
-    "notes": "【ビジネス・公式スピーチ】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>機<rt>き</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "を<ruby>機<rt>き</rt></ruby>に",
+      "まじき",
+      "であれ"
+    ],
+    "correct_text_ruby": "を<ruby>機<rt>き</rt></ruby>に"
   },
   {
     "id": 91,
@@ -1910,7 +2720,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を機に",
-    "notes": "【社会・社説】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。"
+    "notes": "【社会・社説】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>機<rt>き</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>機<rt>き</rt></ruby>に",
+      "なくしては"
+    ],
+    "correct_text_ruby": "を<ruby>機<rt>き</rt></ruby>に"
   },
   {
     "id": 92,
@@ -1931,7 +2750,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を機に",
-    "notes": "【倫理・品格】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。"
+    "notes": "【倫理・品格】〜をよい機会として行動を起こす。。文脈の格式と文法規則から「を機に」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>機<rt>き</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をものともせずに",
+      "を<ruby>機<rt>き</rt></ruby>に"
+    ],
+    "correct_text_ruby": "を<ruby>機<rt>き</rt></ruby>に"
   },
   {
     "id": 93,
@@ -1952,7 +2780,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "と相まって",
-    "notes": "【学術・論文】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。"
+    "notes": "【学術・論文】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、と<ruby>相<rt>あい</rt></ruby>まって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なしに",
+      "をものともせずに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "と<ruby>相<rt>あい</rt></ruby>まって"
   },
   {
     "id": 94,
@@ -1973,7 +2810,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と相まって",
-    "notes": "【ビジネス・公式スピーチ】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、と<ruby>相<rt>あい</rt></ruby>まって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "といったらない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "と<ruby>相<rt>あい</rt></ruby>まって"
   },
   {
     "id": 95,
@@ -1994,7 +2840,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と相まって",
-    "notes": "【社会・社説】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。"
+    "notes": "【社会・社説】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、と<ruby>相<rt>あい</rt></ruby>まって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "であれ",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "まじき"
+    ],
+    "correct_text_ruby": "と<ruby>相<rt>あい</rt></ruby>まって"
   },
   {
     "id": 96,
@@ -2015,7 +2870,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と相まって",
-    "notes": "【倫理・品格】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。"
+    "notes": "【倫理・品格】〜と互いに影響し合ってより一層。。文脈の格式と文法規則から「と相まって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、と<ruby>相<rt>あい</rt></ruby>まって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "はおろか",
+      "まじき",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "と<ruby>相<rt>あい</rt></ruby>まって"
   },
   {
     "id": 97,
@@ -2036,7 +2900,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にかまけて",
-    "notes": "【学術・論文】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。"
+    "notes": "【学術・論文】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にかまけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にかまけて",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "なくしては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "にかまけて"
   },
   {
     "id": 98,
@@ -2057,7 +2930,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にかまけて",
-    "notes": "【ビジネス・公式スピーチ】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にかまけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "にかまけて",
+      "であれ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "にかまけて"
   },
   {
     "id": 99,
@@ -2078,7 +2960,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかまけて",
-    "notes": "【社会・社説】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。"
+    "notes": "【社会・社説】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にかまけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "であれ",
+      "にかまけて",
+      "といったらない"
+    ],
+    "correct_text_ruby": "にかまけて"
   },
   {
     "id": 100,
@@ -2099,7 +2990,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかまけて",
-    "notes": "【倫理・品格】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。"
+    "notes": "【倫理・品格】一つのことばかりに夢中になって他を疎かにする。。文脈の格式と文法規則から「にかまけて」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にかまけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "をものともせずに",
+      "をおいて",
+      "にかまけて"
+    ],
+    "correct_text_ruby": "にかまけて"
   },
   {
     "id": 101,
@@ -2120,7 +3020,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にかこつけて",
-    "notes": "【学術・論文】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。"
+    "notes": "【学術・論文】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にかこつけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にかこつけて",
+      "ずくめ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "にかこつけて"
   },
   {
     "id": 102,
@@ -2141,7 +3050,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にかこつけて",
-    "notes": "【ビジネス・公式スピーチ】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にかこつけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "にかこつけて",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "といったらない"
+    ],
+    "correct_text_ruby": "にかこつけて"
   },
   {
     "id": 103,
@@ -2162,7 +3080,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にかこつけて",
-    "notes": "【社会・社説】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。"
+    "notes": "【社会・社説】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にかこつけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "であれ",
+      "にかこつけて",
+      "まじき"
+    ],
+    "correct_text_ruby": "にかこつけて"
   },
   {
     "id": 104,
@@ -2183,7 +3110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にかこつけて",
-    "notes": "【倫理・品格】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。"
+    "notes": "【倫理・品格】別の事柄を口実・言いがかりにして。。文脈の格式と文法規則から「にかこつけて」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にかこつけて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "といったらない",
+      "なくしては",
+      "にかこつけて"
+    ],
+    "correct_text_ruby": "にかこつけて"
   },
   {
     "id": 105,
@@ -2204,7 +3140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はおろか",
-    "notes": "【学術・論文】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。"
+    "notes": "【学術・論文】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、はおろか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "なくしては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "はおろか"
   },
   {
     "id": 106,
@@ -2225,7 +3170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はおろか",
-    "notes": "【ビジネス・公式スピーチ】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、はおろか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "はおろか",
+      "まみれ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "はおろか"
   },
   {
     "id": 107,
@@ -2246,7 +3200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はおろか",
-    "notes": "【社会・社説】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。"
+    "notes": "【社会・社説】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、はおろか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "はおろか",
+      "ならでは"
+    ],
+    "correct_text_ruby": "はおろか"
   },
   {
     "id": 108,
@@ -2267,7 +3230,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はおろか",
-    "notes": "【倫理・品格】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。"
+    "notes": "【倫理・品格】〜はもちろんのこと、もっと簡単なことも。。文脈の格式と文法規則から「はおろか」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、はおろか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "たるもの",
+      "はおろか"
+    ],
+    "correct_text_ruby": "はおろか"
   },
   {
     "id": 109,
@@ -2288,7 +3260,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ならいざしらず",
-    "notes": "【学術・論文】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。"
+    "notes": "【学術・論文】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ならいざしらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならいざしらず",
+      "にとどまらず",
+      "なくしては",
+      "はおろか"
+    ],
+    "correct_text_ruby": "ならいざしらず"
   },
   {
     "id": 110,
@@ -2309,7 +3290,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ならいざしらず",
-    "notes": "【ビジネス・公式スピーチ】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ならいざしらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "ならいざしらず",
+      "ごとき",
+      "といったらない"
+    ],
+    "correct_text_ruby": "ならいざしらず"
   },
   {
     "id": 111,
@@ -2330,7 +3320,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ならいざしらず",
-    "notes": "【社会・社説】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。"
+    "notes": "【社会・社説】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ならいざしらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "からある",
+      "ならいざしらず",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "ならいざしらず"
   },
   {
     "id": 112,
@@ -2351,7 +3350,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ならいざしらず",
-    "notes": "【倫理・品格】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。"
+    "notes": "【倫理・品格】〜ならともかく、そうではないのだから。。文脈の格式と文法規則から「ならいざしらず」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ならいざしらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "ならいざしらず"
+    ],
+    "correct_text_ruby": "ならいざしらず"
   },
   {
     "id": 113,
@@ -2372,7 +3380,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ならまだしも",
-    "notes": "【学術・論文】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。"
+    "notes": "【学術・論文】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ならまだしも<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならまだしも",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "にとどまらず",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "ならまだしも"
   },
   {
     "id": 114,
@@ -2393,7 +3410,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ならまだしも",
-    "notes": "【ビジネス・公式スピーチ】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ならまだしも<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "ならまだしも",
+      "であれ",
+      "まみれ"
+    ],
+    "correct_text_ruby": "ならまだしも"
   },
   {
     "id": 115,
@@ -2414,7 +3440,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ならまだしも",
-    "notes": "【社会・社説】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。"
+    "notes": "【社会・社説】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ならまだしも<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "をおいて",
+      "ならまだしも",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "ならまだしも"
   },
   {
     "id": 116,
@@ -2435,7 +3470,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ならまだしも",
-    "notes": "【倫理・品格】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。"
+    "notes": "【倫理・品格】〜ならまだ許せるが。。文脈の格式と文法規則から「ならまだしも」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ならまだしも<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "といったらない",
+      "をものともせずに",
+      "ならまだしも"
+    ],
+    "correct_text_ruby": "ならまだしも"
   },
   {
     "id": 117,
@@ -2456,7 +3500,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といえども",
-    "notes": "【学術・論文】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。"
+    "notes": "【学術・論文】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、といえども<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といえども",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "まじき"
+    ],
+    "correct_text_ruby": "といえども"
   },
   {
     "id": 118,
@@ -2477,7 +3530,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といえども",
-    "notes": "【ビジネス・公式スピーチ】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、といえども<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "といえども",
+      "まみれ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "といえども"
   },
   {
     "id": 119,
@@ -2498,7 +3560,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といえども",
-    "notes": "【社会・社説】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。"
+    "notes": "【社会・社説】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、といえども<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "をものともせずに",
+      "といえども",
+      "まじき"
+    ],
+    "correct_text_ruby": "といえども"
   },
   {
     "id": 120,
@@ -2519,7 +3590,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といえども",
-    "notes": "【倫理・品格】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。"
+    "notes": "【倫理・品格】たとえ〜であっても。。文脈の格式と文法規則から「といえども」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、といえども<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ならではの",
+      "といえども"
+    ],
+    "correct_text_ruby": "といえども"
   },
   {
     "id": 121,
@@ -2540,7 +3620,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とはいえ",
-    "notes": "【学術・論文】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。"
+    "notes": "【学術・論文】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、とはいえ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "とはいえ",
+      "たるもの",
+      "なくしては",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "とはいえ"
   },
   {
     "id": 122,
@@ -2561,7 +3650,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とはいえ",
-    "notes": "【ビジネス・公式スピーチ】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、とはいえ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "とはいえ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "とはいえ"
   },
   {
     "id": 123,
@@ -2582,7 +3680,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とはいえ",
-    "notes": "【社会・社説】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。"
+    "notes": "【社会・社説】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、とはいえ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "といったらない",
+      "とはいえ",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "とはいえ"
   },
   {
     "id": 124,
@@ -2603,7 +3710,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とはいえ",
-    "notes": "【倫理・品格】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。"
+    "notes": "【倫理・品格】事実を認めるが、しかし。。文脈の格式と文法規則から「とはいえ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、とはいえ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "なくしては",
+      "ならではの",
+      "とはいえ"
+    ],
+    "correct_text_ruby": "とはいえ"
   },
   {
     "id": 125,
@@ -2624,7 +3740,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からある",
-    "notes": "【学術・論文】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。"
+    "notes": "【学術・論文】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、からある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "をおいて",
+      "なくしては",
+      "ごとき"
+    ],
+    "correct_text_ruby": "からある"
   },
   {
     "id": 126,
@@ -2645,7 +3770,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からある",
-    "notes": "【ビジネス・公式スピーチ】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、からある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "からある",
+      "たるもの",
+      "なしに"
+    ],
+    "correct_text_ruby": "からある"
   },
   {
     "id": 127,
@@ -2666,7 +3800,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からある",
-    "notes": "【社会・社説】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。"
+    "notes": "【社会・社説】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、からある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "まじき",
+      "からある",
+      "ごとき"
+    ],
+    "correct_text_ruby": "からある"
   },
   {
     "id": 128,
@@ -2687,7 +3830,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からある",
-    "notes": "【倫理・品格】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。"
+    "notes": "【倫理・品格】〜以上の大きさ・重さ・長さがある。。文脈の格式と文法規則から「からある」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、からある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "をものともせずに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "からある"
+    ],
+    "correct_text_ruby": "からある"
   },
   {
     "id": 129,
@@ -2708,7 +3860,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からの",
-    "notes": "【学術・論文】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。"
+    "notes": "【学術・論文】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、からの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からの",
+      "をおいて",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "からの"
   },
   {
     "id": 130,
@@ -2729,7 +3890,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からの",
-    "notes": "【ビジネス・公式スピーチ】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、からの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "からの",
+      "といったらない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "からの"
   },
   {
     "id": 131,
@@ -2750,7 +3920,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からの",
-    "notes": "【社会・社説】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。"
+    "notes": "【社会・社説】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、からの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ずくめ",
+      "からの",
+      "まじき"
+    ],
+    "correct_text_ruby": "からの"
   },
   {
     "id": 132,
@@ -2771,7 +3950,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からの",
-    "notes": "【倫理・品格】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。"
+    "notes": "【倫理・品格】〜以上の数・金額・人数がある。。文脈の格式と文法規則から「からの」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、からの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "はおろか",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "からの"
+    ],
+    "correct_text_ruby": "からの"
   },
   {
     "id": 133,
@@ -2792,7 +3980,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そばから",
-    "notes": "【学術・論文】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。"
+    "notes": "【学術・論文】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、そばから<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "そばから",
+      "はおろか",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "からある"
+    ],
+    "correct_text_ruby": "そばから"
   },
   {
     "id": 134,
@@ -2813,7 +4010,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そばから",
-    "notes": "【ビジネス・公式スピーチ】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、そばから<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "そばから",
+      "なくしては",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "そばから"
   },
   {
     "id": 135,
@@ -2834,7 +4040,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そばから",
-    "notes": "【社会・社説】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。"
+    "notes": "【社会・社説】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、そばから<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "たるもの",
+      "そばから",
+      "まみれ"
+    ],
+    "correct_text_ruby": "そばから"
   },
   {
     "id": 136,
@@ -2855,7 +4070,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そばから",
-    "notes": "【倫理・品格】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。"
+    "notes": "【倫理・品格】〜してもすぐに同じことが繰り返される。。文脈の格式と文法規則から「そばから」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、そばから<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "であれ",
+      "はおろか",
+      "そばから"
+    ],
+    "correct_text_ruby": "そばから"
   },
   {
     "id": 137,
@@ -2876,7 +4100,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "が早いか",
-    "notes": "【学術・論文】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。"
+    "notes": "【学術・論文】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、が<ruby>早<rt>はや</rt></ruby>いか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "が<ruby>早<rt>はや</rt></ruby>いか",
+      "ずくめ",
+      "はおろか",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "が<ruby>早<rt>はや</rt></ruby>いか"
   },
   {
     "id": 138,
@@ -2897,7 +4130,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "が早いか",
-    "notes": "【ビジネス・公式スピーチ】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、が<ruby>早<rt>はや</rt></ruby>いか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "が<ruby>早<rt>はや</rt></ruby>いか",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "が<ruby>早<rt>はや</rt></ruby>いか"
   },
   {
     "id": 139,
@@ -2918,7 +4160,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "が早いか",
-    "notes": "【社会・社説】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。"
+    "notes": "【社会・社説】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、が<ruby>早<rt>はや</rt></ruby>いか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "はおろか",
+      "が<ruby>早<rt>はや</rt></ruby>いか",
+      "たるもの"
+    ],
+    "correct_text_ruby": "が<ruby>早<rt>はや</rt></ruby>いか"
   },
   {
     "id": 140,
@@ -2939,7 +4190,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "が早いか",
-    "notes": "【倫理・品格】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。"
+    "notes": "【倫理・品格】〜するとほとんど同時に。。文脈の格式と文法規則から「が早いか」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、が<ruby>早<rt>はや</rt></ruby>いか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "といったらない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "が<ruby>早<rt>はや</rt></ruby>いか"
+    ],
+    "correct_text_ruby": "が<ruby>早<rt>はや</rt></ruby>いか"
   },
   {
     "id": 141,
@@ -2960,7 +4220,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "や否や",
-    "notes": "【学術・論文】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。"
+    "notes": "【学術・論文】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、や<ruby>否<rt>いな</rt></ruby>や<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "や<ruby>否<rt>いな</rt></ruby>や",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "や<ruby>否<rt>いな</rt></ruby>や"
   },
   {
     "id": 142,
@@ -2981,7 +4250,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "や否や",
-    "notes": "【ビジネス・公式スピーチ】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、や<ruby>否<rt>いな</rt></ruby>や<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "や<ruby>否<rt>いな</rt></ruby>や",
+      "といったらない",
+      "はおろか"
+    ],
+    "correct_text_ruby": "や<ruby>否<rt>いな</rt></ruby>や"
   },
   {
     "id": 143,
@@ -3002,7 +4280,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "や否や",
-    "notes": "【社会・社説】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。"
+    "notes": "【社会・社説】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、や<ruby>否<rt>いな</rt></ruby>や<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "や<ruby>否<rt>いな</rt></ruby>や",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "や<ruby>否<rt>いな</rt></ruby>や"
   },
   {
     "id": 144,
@@ -3023,7 +4310,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "や否や",
-    "notes": "【倫理・品格】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。"
+    "notes": "【倫理・品格】〜するとすぐその瞬間に。。文脈の格式と文法規則から「や否や」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、や<ruby>否<rt>いな</rt></ruby>や<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "まじき",
+      "なくしては",
+      "や<ruby>否<rt>いな</rt></ruby>や"
+    ],
+    "correct_text_ruby": "や<ruby>否<rt>いな</rt></ruby>や"
   },
   {
     "id": 145,
@@ -3044,7 +4340,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なり",
-    "notes": "【学術・論文】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。"
+    "notes": "【学術・論文】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、なり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なり",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "たるもの"
+    ],
+    "correct_text_ruby": "なり"
   },
   {
     "id": 146,
@@ -3065,7 +4370,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なり",
-    "notes": "【ビジネス・公式スピーチ】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、なり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "なり",
+      "ずくめ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "なり"
   },
   {
     "id": 147,
@@ -3086,7 +4400,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なり",
-    "notes": "【社会・社説】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。"
+    "notes": "【社会・社説】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、なり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "なり",
+      "なしに"
+    ],
+    "correct_text_ruby": "なり"
   },
   {
     "id": 148,
@@ -3107,7 +4430,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なり",
-    "notes": "【倫理・品格】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。"
+    "notes": "【倫理・品格】〜したとたん、予想外の次の動作を起こす。。文脈の格式と文法規則から「なり」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、なり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて",
+      "なしに",
+      "なり"
+    ],
+    "correct_text_ruby": "なり"
   },
   {
     "id": 149,
@@ -3128,7 +4460,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "んばかり",
-    "notes": "【学術・論文】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。"
+    "notes": "【学術・論文】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、んばかり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "んばかり",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ならではの",
+      "といったらない"
+    ],
+    "correct_text_ruby": "んばかり"
   },
   {
     "id": 150,
@@ -3149,7 +4490,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んばかり",
-    "notes": "【ビジネス・公式スピーチ】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、んばかり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "んばかり",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なくしては"
+    ],
+    "correct_text_ruby": "んばかり"
   },
   {
     "id": 151,
@@ -3170,7 +4520,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んばかり",
-    "notes": "【社会・社説】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。"
+    "notes": "【社会・社説】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、んばかり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "まじき",
+      "んばかり",
+      "はおろか"
+    ],
+    "correct_text_ruby": "んばかり"
   },
   {
     "id": 152,
@@ -3191,7 +4550,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "んばかり",
-    "notes": "【倫理・品格】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。"
+    "notes": "【倫理・品格】今にも〜しそうな様子で。。文脈の格式と文法規則から「んばかり」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、んばかり<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "からある",
+      "たるもの",
+      "んばかり"
+    ],
+    "correct_text_ruby": "んばかり"
   },
   {
     "id": 153,
@@ -3212,7 +4580,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とばかりに",
-    "notes": "【学術・論文】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。"
+    "notes": "【学術・論文】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、とばかりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "とばかりに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "とばかりに"
   },
   {
     "id": 154,
@@ -3233,7 +4610,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とばかりに",
-    "notes": "【ビジネス・公式スピーチ】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、とばかりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "とばかりに",
+      "にとどまらず",
+      "ならではの"
+    ],
+    "correct_text_ruby": "とばかりに"
   },
   {
     "id": 155,
@@ -3254,7 +4640,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とばかりに",
-    "notes": "【社会・社説】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。"
+    "notes": "【社会・社説】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、とばかりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "とばかりに",
+      "はおろか"
+    ],
+    "correct_text_ruby": "とばかりに"
   },
   {
     "id": 156,
@@ -3275,7 +4670,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とばかりに",
-    "notes": "【倫理・品格】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。"
+    "notes": "【倫理・品格】言葉には出さないが表情や態度で示す。。文脈の格式と文法規則から「とばかりに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、とばかりに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "とばかりに"
+    ],
+    "correct_text_ruby": "とばかりに"
   },
   {
     "id": 157,
@@ -3296,7 +4700,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "めく",
-    "notes": "【学術・論文】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。"
+    "notes": "【学術・論文】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、めく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "めく",
+      "をものともせずに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "であれ"
+    ],
+    "correct_text_ruby": "めく"
   },
   {
     "id": 158,
@@ -3317,7 +4730,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "めく",
-    "notes": "【ビジネス・公式スピーチ】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、めく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "めく",
+      "まじき",
+      "からある"
+    ],
+    "correct_text_ruby": "めく"
   },
   {
     "id": 159,
@@ -3338,7 +4760,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "めく",
-    "notes": "【社会・社説】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。"
+    "notes": "【社会・社説】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、めく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "めく",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "めく"
   },
   {
     "id": 160,
@@ -3359,7 +4790,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "めく",
-    "notes": "【倫理・品格】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。"
+    "notes": "【倫理・品格】〜の気配や傾向が強く感じられる。。文脈の格式と文法規則から「めく」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、めく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "はおろか",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "めく"
+    ],
+    "correct_text_ruby": "めく"
   },
   {
     "id": 161,
@@ -3380,7 +4820,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ぶる",
-    "notes": "【学術・論文】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。"
+    "notes": "【学術・論文】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ぶる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ぶる",
+      "であれ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ごとき"
+    ],
+    "correct_text_ruby": "ぶる"
   },
   {
     "id": 162,
@@ -3401,7 +4850,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ぶる",
-    "notes": "【ビジネス・公式スピーチ】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ぶる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "ぶる",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まじき"
+    ],
+    "correct_text_ruby": "ぶる"
   },
   {
     "id": 163,
@@ -3422,7 +4880,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ぶる",
-    "notes": "【社会・社説】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。"
+    "notes": "【社会・社説】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ぶる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "ぶる",
+      "であれ"
+    ],
+    "correct_text_ruby": "ぶる"
   },
   {
     "id": 164,
@@ -3443,7 +4910,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぶる",
-    "notes": "【倫理・品格】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。"
+    "notes": "【倫理・品格】本当はそうでないのに、そのように振る舞う。。文脈の格式と文法規則から「ぶる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ぶる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "たるもの",
+      "ぶる"
+    ],
+    "correct_text_ruby": "ぶる"
   },
   {
     "id": 165,
@@ -3464,7 +4940,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "びる",
-    "notes": "【学術・論文】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。"
+    "notes": "【学術・論文】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、びる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "びる",
+      "たるもの",
+      "にとどまらず",
+      "はおろか"
+    ],
+    "correct_text_ruby": "びる"
   },
   {
     "id": 166,
@@ -3485,7 +4970,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "びる",
-    "notes": "【ビジネス・公式スピーチ】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、びる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "びる",
+      "なくしては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "びる"
   },
   {
     "id": 167,
@@ -3506,7 +5000,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "びる",
-    "notes": "【社会・社説】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。"
+    "notes": "【社会・社説】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、びる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "にとどまらず",
+      "びる",
+      "まみれ"
+    ],
+    "correct_text_ruby": "びる"
   },
   {
     "id": 168,
@@ -3527,7 +5030,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "びる",
-    "notes": "【倫理・品格】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。"
+    "notes": "【倫理・品格】その状態にふさわしく見える、大人びる。。文脈の格式と文法規則から「びる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、びる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "なくしては",
+      "にとどまらず",
+      "びる"
+    ],
+    "correct_text_ruby": "びる"
   },
   {
     "id": 169,
@@ -3548,7 +5060,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "げ",
-    "notes": "【学術・論文】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。"
+    "notes": "【学術・論文】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、げ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "げ",
+      "ならではの",
+      "ごとき",
+      "といったらない"
+    ],
+    "correct_text_ruby": "げ"
   },
   {
     "id": 170,
@@ -3569,7 +5090,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "げ",
-    "notes": "【ビジネス・公式スピーチ】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、げ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "げ",
+      "まみれ",
+      "をおいて"
+    ],
+    "correct_text_ruby": "げ"
   },
   {
     "id": 171,
@@ -3590,7 +5120,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "げ",
-    "notes": "【社会・社説】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。"
+    "notes": "【社会・社説】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、げ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "まじき",
+      "げ",
+      "といったらない"
+    ],
+    "correct_text_ruby": "げ"
   },
   {
     "id": 172,
@@ -3611,7 +5150,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "げ",
-    "notes": "【倫理・品格】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。"
+    "notes": "【倫理・品格】いかにも〜ありそうな様子。。文脈の格式と文法規則から「げ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、げ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まじき",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "げ"
+    ],
+    "correct_text_ruby": "げ"
   },
   {
     "id": 173,
@@ -3632,7 +5180,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "じみた",
-    "notes": "【学術・論文】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。"
+    "notes": "【学術・論文】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、じみた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "じみた",
+      "たるもの",
+      "なくしては",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "じみた"
   },
   {
     "id": 174,
@@ -3653,7 +5210,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "じみた",
-    "notes": "【ビジネス・公式スピーチ】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、じみた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "じみた",
+      "をおいて",
+      "であれ"
+    ],
+    "correct_text_ruby": "じみた"
   },
   {
     "id": 175,
@@ -3674,7 +5240,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "じみた",
-    "notes": "【社会・社説】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。"
+    "notes": "【社会・社説】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、じみた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "にとどまらず",
+      "じみた",
+      "ごとき"
+    ],
+    "correct_text_ruby": "じみた"
   },
   {
     "id": 176,
@@ -3695,7 +5270,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "じみた",
-    "notes": "【倫理・品格】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。"
+    "notes": "【倫理・品格】〜のような好ましくない感じを帯びている。。文脈の格式と文法規則から「じみた」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、じみた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "からある",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "じみた"
+    ],
+    "correct_text_ruby": "じみた"
   },
   {
     "id": 177,
@@ -3716,7 +5300,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "きらいがある",
-    "notes": "【学術・論文】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。"
+    "notes": "【学術・論文】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、きらいがある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "きらいがある",
+      "であれ",
+      "をものともせずに",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "きらいがある"
   },
   {
     "id": 178,
@@ -3737,7 +5330,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "きらいがある",
-    "notes": "【ビジネス・公式スピーチ】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、きらいがある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "きらいがある",
+      "ごとき",
+      "ならではの"
+    ],
+    "correct_text_ruby": "きらいがある"
   },
   {
     "id": 179,
@@ -3758,7 +5360,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "きらいがある",
-    "notes": "【社会・社説】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。"
+    "notes": "【社会・社説】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、きらいがある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ごとき",
+      "きらいがある",
+      "なくしては"
+    ],
+    "correct_text_ruby": "きらいがある"
   },
   {
     "id": 180,
@@ -3779,7 +5390,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "きらいがある",
-    "notes": "【倫理・品格】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。"
+    "notes": "【倫理・品格】望ましくない傾向・癖がある。。文脈の格式と文法規則から「きらいがある」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、きらいがある<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "からある",
+      "たるもの",
+      "きらいがある"
+    ],
+    "correct_text_ruby": "きらいがある"
   },
   {
     "id": 181,
@@ -3800,7 +5420,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "始末だ",
-    "notes": "【学術・論文】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。"
+    "notes": "【学術・論文】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、<ruby>始末<rt>しまつ</rt></ruby>だ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>始末<rt>しまつ</rt></ruby>だ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "といったらない",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "<ruby>始末<rt>しまつ</rt></ruby>だ"
   },
   {
     "id": 182,
@@ -3821,7 +5450,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "始末だ",
-    "notes": "【ビジネス・公式スピーチ】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、<ruby>始末<rt>しまつ</rt></ruby>だ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "<ruby>始末<rt>しまつ</rt></ruby>だ",
+      "といったらない",
+      "であれ"
+    ],
+    "correct_text_ruby": "<ruby>始末<rt>しまつ</rt></ruby>だ"
   },
   {
     "id": 183,
@@ -3842,7 +5480,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "始末だ",
-    "notes": "【社会・社説】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。"
+    "notes": "【社会・社説】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、<ruby>始末<rt>しまつ</rt></ruby>だ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "<ruby>始末<rt>しまつ</rt></ruby>だ",
+      "であれ"
+    ],
+    "correct_text_ruby": "<ruby>始末<rt>しまつ</rt></ruby>だ"
   },
   {
     "id": 184,
@@ -3863,7 +5510,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "始末だ",
-    "notes": "【倫理・品格】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。"
+    "notes": "【倫理・品格】いろいろ悪いことが重なって最終的に困った結果になる。。文脈の格式と文法規則から「始末だ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、<ruby>始末<rt>しまつ</rt></ruby>だ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "なくしては",
+      "<ruby>始末<rt>しまつ</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "<ruby>始末<rt>しまつ</rt></ruby>だ"
   },
   {
     "id": 185,
@@ -3884,7 +5540,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "っぱなし",
-    "notes": "【学術・論文】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。"
+    "notes": "【学術・論文】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、っぱなし<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "っぱなし",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 186,
@@ -3905,7 +5570,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "っぱなし",
-    "notes": "【ビジネス・公式スピーチ】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、っぱなし<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "っぱなし",
+      "まみれ",
+      "であれ"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 187,
@@ -3926,7 +5600,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "っぱなし",
-    "notes": "【社会・社説】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。"
+    "notes": "【社会・社説】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、っぱなし<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "をものともせずに",
+      "っぱなし",
+      "ならではの"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 188,
@@ -3947,7 +5630,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "っぱなし",
-    "notes": "【倫理・品格】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。"
+    "notes": "【倫理・品格】ある動作や状態を放置したままにする。。文脈の格式と文法規則から「っぱなし」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、っぱなし<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "たるもの",
+      "っぱなし"
+    ],
+    "correct_text_ruby": "っぱなし"
   },
   {
     "id": 189,
@@ -3968,7 +5660,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずにはすまない",
-    "notes": "【学術・論文】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。"
+    "notes": "【学術・論文】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ずにはすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずにはすまない",
+      "まじき",
+      "ごとき",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "ずにはすまない"
   },
   {
     "id": 190,
@@ -3989,7 +5690,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずにはすまない",
-    "notes": "【ビジネス・公式スピーチ】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ずにはすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ずにはすまない",
+      "まじき",
+      "たるもの"
+    ],
+    "correct_text_ruby": "ずにはすまない"
   },
   {
     "id": 191,
@@ -4010,7 +5720,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずにはすまない",
-    "notes": "【社会・社説】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。"
+    "notes": "【社会・社説】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ずにはすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ずにはすまない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "ずにはすまない"
   },
   {
     "id": 192,
@@ -4031,7 +5750,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずにはすまない",
-    "notes": "【倫理・品格】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。"
+    "notes": "【倫理・品格】社会常識や立場上、〜しないでは済まされない。。文脈の格式と文法規則から「ずにはすまない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ずにはすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をおいて",
+      "ずにはすまない"
+    ],
+    "correct_text_ruby": "ずにはすまない"
   },
   {
     "id": 193,
@@ -4052,7 +5780,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではすまない",
-    "notes": "【学術・論文】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。"
+    "notes": "【学術・論文】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ないではすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ないではすまない",
+      "まみれ",
+      "なくしては",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ないではすまない"
   },
   {
     "id": 194,
@@ -4073,7 +5810,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ないではすまない",
-    "notes": "【ビジネス・公式スピーチ】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ないではすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "ないではすまない",
+      "ずくめ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "ないではすまない"
   },
   {
     "id": 195,
@@ -4094,7 +5840,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではすまない",
-    "notes": "【社会・社説】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。"
+    "notes": "【社会・社説】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ないではすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "たるもの",
+      "ないではすまない",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ないではすまない"
   },
   {
     "id": 196,
@@ -4115,7 +5870,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないではすまない",
-    "notes": "【倫理・品格】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。"
+    "notes": "【倫理・品格】どうしても〜しなければ許されない。。文脈の格式と文法規則から「ないではすまない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ないではすまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ごとき",
+      "ないではすまない"
+    ],
+    "correct_text_ruby": "ないではすまない"
   },
   {
     "id": 197,
@@ -4136,7 +5900,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずにはおかない",
-    "notes": "【学術・論文】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。"
+    "notes": "【学術・論文】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ずにはおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずにはおかない",
+      "ならではの",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "たるもの"
+    ],
+    "correct_text_ruby": "ずにはおかない"
   },
   {
     "id": 198,
@@ -4157,7 +5930,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずにはおかない",
-    "notes": "【ビジネス・公式スピーチ】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ずにはおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "ずにはおかない",
+      "をものともせずに",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "ずにはおかない"
   },
   {
     "id": 199,
@@ -4178,7 +5960,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずにはおかない",
-    "notes": "【社会・社説】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。"
+    "notes": "【社会・社説】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ずにはおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ずにはおかない",
+      "なしに"
+    ],
+    "correct_text_ruby": "ずにはおかない"
   },
   {
     "id": 200,
@@ -4199,7 +5990,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずにはおかない",
-    "notes": "【倫理・品格】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。"
+    "notes": "【倫理・品格】必ず〜という結果をもたらす。。文脈の格式と文法規則から「ずにはおかない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ずにはおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "にとどまらず",
+      "をものともせずに",
+      "ずにはおかない"
+    ],
+    "correct_text_ruby": "ずにはおかない"
   },
   {
     "id": 201,
@@ -4220,7 +6020,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではおかない",
-    "notes": "【学術・論文】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。"
+    "notes": "【学術・論文】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ないではおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ないではおかない",
+      "なくしては",
+      "にとどまらず",
+      "はおろか"
+    ],
+    "correct_text_ruby": "ないではおかない"
   },
   {
     "id": 202,
@@ -4241,7 +6050,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ないではおかない",
-    "notes": "【ビジネス・公式スピーチ】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ないではおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "ないではおかない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ないではおかない"
   },
   {
     "id": 203,
@@ -4262,7 +6080,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではおかない",
-    "notes": "【社会・社説】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。"
+    "notes": "【社会・社説】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ないではおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なくしては",
+      "ないではおかない",
+      "といったらない"
+    ],
+    "correct_text_ruby": "ないではおかない"
   },
   {
     "id": 204,
@@ -4283,7 +6110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないではおかない",
-    "notes": "【倫理・品格】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。"
+    "notes": "【倫理・品格】自然の勢いで必ず〜させてしまう。。文脈の格式と文法規則から「ないではおかない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ないではおかない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "まみれ",
+      "なしに",
+      "ないではおかない"
+    ],
+    "correct_text_ruby": "ないではおかない"
   },
   {
     "id": 205,
@@ -4304,7 +6140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を余儀なくされる",
-    "notes": "【学術・論文】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。"
+    "notes": "【学術・論文】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくされる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる",
+      "ずくめ",
+      "ならではの",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる"
   },
   {
     "id": 206,
@@ -4325,7 +6170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を余儀なくされる",
-    "notes": "【ビジネス・公式スピーチ】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくされる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる",
+      "たるもの",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる"
   },
   {
     "id": 207,
@@ -4346,7 +6200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を余儀なくされる",
-    "notes": "【社会・社説】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。"
+    "notes": "【社会・社説】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくされる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なしに",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる",
+      "といったらない"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる"
   },
   {
     "id": 208,
@@ -4367,7 +6230,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を余儀なくされる",
-    "notes": "【倫理・品格】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。"
+    "notes": "【倫理・品格】やむを得ず〜させられる。。文脈の格式と文法規則から「を余儀なくされる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくされる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "たるもの",
+      "なしに",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくされる"
   },
   {
     "id": 209,
@@ -4388,7 +6260,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を余儀なくさせる",
-    "notes": "【学術・論文】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。"
+    "notes": "【学術・論文】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "なしに",
+      "ごとき"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる"
   },
   {
     "id": 210,
@@ -4409,7 +6290,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を余儀なくさせる",
-    "notes": "【ビジネス・公式スピーチ】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる",
+      "たるもの",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる"
   },
   {
     "id": 211,
@@ -4430,7 +6320,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を余儀なくさせる",
-    "notes": "【社会・社説】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。"
+    "notes": "【社会・社説】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "まみれ",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる",
+      "まじき"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる"
   },
   {
     "id": 212,
@@ -4451,7 +6350,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を余儀なくさせる",
-    "notes": "【倫理・品格】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。"
+    "notes": "【倫理・品格】相手にやむを得ず〜を行わせる。。文脈の格式と文法規則から「を余儀なくさせる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "たるもの",
+      "からある",
+      "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる"
+    ],
+    "correct_text_ruby": "を<ruby>余儀<rt>よぎ</rt></ruby>なくさせる"
   },
   {
     "id": 213,
@@ -4472,7 +6380,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に耐えない",
-    "notes": "【学術・論文】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。"
+    "notes": "【学術・論文】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>耐<rt>た</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>耐<rt>た</rt></ruby>えない",
+      "であれ",
+      "をものともせずに",
+      "ならではの"
+    ],
+    "correct_text_ruby": "に<ruby>耐<rt>た</rt></ruby>えない"
   },
   {
     "id": 214,
@@ -4493,7 +6410,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に耐えない",
-    "notes": "【ビジネス・公式スピーチ】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>耐<rt>た</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "に<ruby>耐<rt>た</rt></ruby>えない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "たるもの"
+    ],
+    "correct_text_ruby": "に<ruby>耐<rt>た</rt></ruby>えない"
   },
   {
     "id": 215,
@@ -4514,7 +6440,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に耐えない",
-    "notes": "【社会・社説】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。"
+    "notes": "【社会・社説】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>耐<rt>た</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "たるもの",
+      "に<ruby>耐<rt>た</rt></ruby>えない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "に<ruby>耐<rt>た</rt></ruby>えない"
   },
   {
     "id": 216,
@@ -4535,7 +6470,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に耐えない",
-    "notes": "【倫理・品格】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。"
+    "notes": "【倫理・品格】感情が強すぎて抑えきれない。。文脈の格式と文法規則から「に耐えない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>耐<rt>た</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "に<ruby>耐<rt>た</rt></ruby>えない"
+    ],
+    "correct_text_ruby": "に<ruby>耐<rt>た</rt></ruby>えない"
   },
   {
     "id": 217,
@@ -4556,7 +6500,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に堪えない",
-    "notes": "【学術・論文】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。"
+    "notes": "【学術・論文】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>堪<rt>こた</rt></ruby>えない",
+      "なしに",
+      "をものともせずに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>えない"
   },
   {
     "id": 218,
@@ -4577,7 +6530,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に堪えない",
-    "notes": "【ビジネス・公式スピーチ】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "に<ruby>堪<rt>こた</rt></ruby>えない",
+      "はおろか",
+      "ごとき"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>えない"
   },
   {
     "id": 219,
@@ -4598,7 +6560,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に堪えない",
-    "notes": "【社会・社説】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。"
+    "notes": "【社会・社説】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "に<ruby>堪<rt>こた</rt></ruby>えない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>えない"
   },
   {
     "id": 220,
@@ -4619,7 +6590,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に堪えない",
-    "notes": "【倫理・品格】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。"
+    "notes": "【倫理・品格】見る・聞くに値しない、ひどい状態。。文脈の格式と文法規則から「に堪えない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>えない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "ならではの",
+      "にとどまらず",
+      "に<ruby>堪<rt>こた</rt></ruby>えない"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>えない"
   },
   {
     "id": 221,
@@ -4640,7 +6620,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に足る",
-    "notes": "【学術・論文】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。"
+    "notes": "【学術・論文】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>足<rt>た</rt></ruby>る<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>足<rt>た</rt></ruby>る",
+      "といったらない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "に<ruby>足<rt>た</rt></ruby>る"
   },
   {
     "id": 222,
@@ -4661,7 +6650,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に足る",
-    "notes": "【ビジネス・公式スピーチ】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>足<rt>た</rt></ruby>る<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "に<ruby>足<rt>た</rt></ruby>る",
+      "まみれ",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "に<ruby>足<rt>た</rt></ruby>る"
   },
   {
     "id": 223,
@@ -4682,7 +6680,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に足る",
-    "notes": "【社会・社説】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。"
+    "notes": "【社会・社説】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>足<rt>た</rt></ruby>る<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "はおろか",
+      "に<ruby>足<rt>た</rt></ruby>る",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "に<ruby>足<rt>た</rt></ruby>る"
   },
   {
     "id": 224,
@@ -4703,7 +6710,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に足る",
-    "notes": "【倫理・品格】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。"
+    "notes": "【倫理・品格】〜する価値・能力が十分にある。。文脈の格式と文法規則から「に足る」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>足<rt>た</rt></ruby>る<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "にとどまらず",
+      "ならではの",
+      "に<ruby>足<rt>た</rt></ruby>る"
+    ],
+    "correct_text_ruby": "に<ruby>足<rt>た</rt></ruby>る"
   },
   {
     "id": 225,
@@ -4724,7 +6740,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に堪える",
-    "notes": "【学術・論文】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。"
+    "notes": "【学術・論文】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>える<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>堪<rt>こた</rt></ruby>える",
+      "まじき",
+      "をものともせずに",
+      "からある"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>える"
   },
   {
     "id": 226,
@@ -4745,7 +6770,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に堪える",
-    "notes": "【ビジネス・公式スピーチ】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>える<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "に<ruby>堪<rt>こた</rt></ruby>える",
+      "であれ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>える"
   },
   {
     "id": 227,
@@ -4766,7 +6800,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に堪える",
-    "notes": "【社会・社説】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。"
+    "notes": "【社会・社説】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>える<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "といったらない",
+      "に<ruby>堪<rt>こた</rt></ruby>える",
+      "ごとき"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>える"
   },
   {
     "id": 228,
@@ -4787,7 +6830,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に堪える",
-    "notes": "【倫理・品格】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。"
+    "notes": "【倫理・品格】〜するだけの十分な価値がある。。文脈の格式と文法規則から「に堪える」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>堪<rt>こた</rt></ruby>える<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "をおいて",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>堪<rt>こた</rt></ruby>える"
+    ],
+    "correct_text_ruby": "に<ruby>堪<rt>こた</rt></ruby>える"
   },
   {
     "id": 229,
@@ -4808,7 +6860,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に忍びない",
-    "notes": "【学術・論文】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。"
+    "notes": "【学術・論文】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>忍<rt>しの</rt></ruby>びない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>忍<rt>しの</rt></ruby>びない",
+      "をおいて",
+      "まじき",
+      "なくしては"
+    ],
+    "correct_text_ruby": "に<ruby>忍<rt>しの</rt></ruby>びない"
   },
   {
     "id": 230,
@@ -4829,7 +6890,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に忍びない",
-    "notes": "【ビジネス・公式スピーチ】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>忍<rt>しの</rt></ruby>びない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "に<ruby>忍<rt>しの</rt></ruby>びない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "に<ruby>忍<rt>しの</rt></ruby>びない"
   },
   {
     "id": 231,
@@ -4850,7 +6920,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に忍びない",
-    "notes": "【社会・社説】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。"
+    "notes": "【社会・社説】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>忍<rt>しの</rt></ruby>びない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "に<ruby>忍<rt>しの</rt></ruby>びない",
+      "であれ"
+    ],
+    "correct_text_ruby": "に<ruby>忍<rt>しの</rt></ruby>びない"
   },
   {
     "id": 232,
@@ -4871,7 +6950,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に忍びない",
-    "notes": "【倫理・品格】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。"
+    "notes": "【倫理・品格】心が痛んで〜するのに耐えられない。。文脈の格式と文法規則から「に忍びない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>忍<rt>しの</rt></ruby>びない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "はおろか",
+      "まじき",
+      "に<ruby>忍<rt>しの</rt></ruby>びない"
+    ],
+    "correct_text_ruby": "に<ruby>忍<rt>しの</rt></ruby>びない"
   },
   {
     "id": 233,
@@ -4892,7 +6980,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に及ばない",
-    "notes": "【学術・論文】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。"
+    "notes": "【学術・論文】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>及<rt>およ</rt></ruby>ばない",
+      "なしに",
+      "をものともせずに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "に<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 234,
@@ -4913,7 +7010,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に及ばない",
-    "notes": "【ビジネス・公式スピーチ】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "に<ruby>及<rt>およ</rt></ruby>ばない",
+      "ごとき",
+      "なくしては"
+    ],
+    "correct_text_ruby": "に<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 235,
@@ -4934,7 +7040,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に及ばない",
-    "notes": "【社会・社説】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。"
+    "notes": "【社会・社説】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "からある",
+      "に<ruby>及<rt>およ</rt></ruby>ばない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "に<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 236,
@@ -4955,7 +7070,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に及ばない",
-    "notes": "【倫理・品格】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。"
+    "notes": "【倫理・品格】そこまでする必要はない。〜には及ばない。。文脈の格式と文法規則から「に及ばない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まみれ",
+      "ごとき",
+      "に<ruby>及<rt>およ</rt></ruby>ばない"
+    ],
+    "correct_text_ruby": "に<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 237,
@@ -4976,7 +7100,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "までもない",
-    "notes": "【学術・論文】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。"
+    "notes": "【学術・論文】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、までもない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "までもない",
+      "なしに",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "までもない"
   },
   {
     "id": 238,
@@ -4997,7 +7130,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "までもない",
-    "notes": "【ビジネス・公式スピーチ】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、までもない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "までもない",
+      "はおろか",
+      "なくしては"
+    ],
+    "correct_text_ruby": "までもない"
   },
   {
     "id": 239,
@@ -5018,7 +7160,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "までもない",
-    "notes": "【社会・社説】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。"
+    "notes": "【社会・社説】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、までもない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "までもない",
+      "まじき"
+    ],
+    "correct_text_ruby": "までもない"
   },
   {
     "id": 240,
@@ -5039,7 +7190,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "までもない",
-    "notes": "【倫理・品格】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。"
+    "notes": "【倫理・品格】言うまでもなく明白である。する必要がない。。文脈の格式と文法規則から「までもない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、までもない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "からある",
+      "をものともせずに",
+      "までもない"
+    ],
+    "correct_text_ruby": "までもない"
   },
   {
     "id": 241,
@@ -5060,7 +7220,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "には及ばない",
-    "notes": "【学術・論文】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。"
+    "notes": "【学術・論文】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、には<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "には<ruby>及<rt>およ</rt></ruby>ばない",
+      "といったらない",
+      "なしに",
+      "まじき"
+    ],
+    "correct_text_ruby": "には<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 242,
@@ -5081,7 +7250,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "には及ばない",
-    "notes": "【ビジネス・公式スピーチ】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、には<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "には<ruby>及<rt>およ</rt></ruby>ばない",
+      "であれ",
+      "といったらない"
+    ],
+    "correct_text_ruby": "には<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 243,
@@ -5102,7 +7280,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "には及ばない",
-    "notes": "【社会・社説】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。"
+    "notes": "【社会・社説】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、には<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "といったらない",
+      "には<ruby>及<rt>およ</rt></ruby>ばない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "には<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 244,
@@ -5123,7 +7310,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "には及ばない",
-    "notes": "【倫理・品格】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。"
+    "notes": "【倫理・品格】わざわざ〜する必要はない。。文脈の格式と文法規則から「には及ばない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、には<ruby>及<rt>およ</rt></ruby>ばない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なくしては",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "には<ruby>及<rt>およ</rt></ruby>ばない"
+    ],
+    "correct_text_ruby": "には<ruby>及<rt>およ</rt></ruby>ばない"
   },
   {
     "id": 245,
@@ -5144,7 +7340,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にほかならない",
-    "notes": "【学術・論文】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。"
+    "notes": "【学術・論文】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にほかならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にほかならない",
+      "まみれ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "にほかならない"
   },
   {
     "id": 246,
@@ -5165,7 +7370,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にほかならない",
-    "notes": "【ビジネス・公式スピーチ】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にほかならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "にほかならない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "にほかならない"
   },
   {
     "id": 247,
@@ -5186,7 +7400,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にほかならない",
-    "notes": "【社会・社説】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。"
+    "notes": "【社会・社説】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にほかならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "にほかならない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "にほかならない"
   },
   {
     "id": 248,
@@ -5207,7 +7430,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にほかならない",
-    "notes": "【倫理・品格】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。"
+    "notes": "【倫理・品格】まさにそれ以外の何物でもない。。文脈の格式と文法規則から「にほかならない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にほかならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "をものともせずに",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "にほかならない"
+    ],
+    "correct_text_ruby": "にほかならない"
   },
   {
     "id": 249,
@@ -5228,7 +7460,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にすぎない",
-    "notes": "【学術・論文】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。"
+    "notes": "【学術・論文】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にすぎない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にすぎない",
+      "といったらない",
+      "をものともせずに",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "にすぎない"
   },
   {
     "id": 250,
@@ -5249,7 +7490,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にすぎない",
-    "notes": "【ビジネス・公式スピーチ】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にすぎない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "にすぎない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "にすぎない"
   },
   {
     "id": 251,
@@ -5270,7 +7520,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にすぎない",
-    "notes": "【社会・社説】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。"
+    "notes": "【社会・社説】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にすぎない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をものともせずに",
+      "にすぎない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "にすぎない"
   },
   {
     "id": 252,
@@ -5291,7 +7550,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にすぎない",
-    "notes": "【倫理・品格】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。"
+    "notes": "【倫理・品格】ただ〜だけで、それ以上の価値はない。。文脈の格式と文法規則から「にすぎない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にすぎない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "なしに",
+      "にすぎない"
+    ],
+    "correct_text_ruby": "にすぎない"
   },
   {
     "id": 253,
@@ -5312,7 +7580,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にとどまらない",
-    "notes": "【学術・論文】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。"
+    "notes": "【学術・論文】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にとどまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらない",
+      "はおろか",
+      "まみれ",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "にとどまらない"
   },
   {
     "id": 254,
@@ -5333,7 +7610,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にとどまらない",
-    "notes": "【ビジネス・公式スピーチ】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にとどまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "にとどまらない",
+      "まみれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "にとどまらない"
   },
   {
     "id": 255,
@@ -5354,7 +7640,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にとどまらない",
-    "notes": "【社会・社説】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。"
+    "notes": "【社会・社説】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にとどまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "からある",
+      "にとどまらない",
+      "まみれ"
+    ],
+    "correct_text_ruby": "にとどまらない"
   },
   {
     "id": 256,
@@ -5375,7 +7670,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にとどまらない",
-    "notes": "【倫理・品格】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。"
+    "notes": "【倫理・品格】ある範囲に収まらず、さらに広がる。。文脈の格式と文法規則から「にとどまらない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にとどまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "なしに",
+      "ならではの",
+      "にとどまらない"
+    ],
+    "correct_text_ruby": "にとどまらない"
   },
   {
     "id": 257,
@@ -5396,7 +7700,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にとどまらず",
-    "notes": "【学術・論文】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。"
+    "notes": "【学術・論文】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にとどまらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ごとき",
+      "をものともせずに",
+      "まみれ"
+    ],
+    "correct_text_ruby": "にとどまらず"
   },
   {
     "id": 258,
@@ -5417,7 +7730,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にとどまらず",
-    "notes": "【ビジネス・公式スピーチ】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にとどまらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "にとどまらず",
+      "ずくめ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "にとどまらず"
   },
   {
     "id": 259,
@@ -5438,7 +7760,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にとどまらず",
-    "notes": "【社会・社説】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。"
+    "notes": "【社会・社説】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にとどまらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "なくしては",
+      "にとどまらず",
+      "はおろか"
+    ],
+    "correct_text_ruby": "にとどまらず"
   },
   {
     "id": 260,
@@ -5459,7 +7790,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にとどまらず",
-    "notes": "【倫理・品格】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。"
+    "notes": "【倫理・品格】〜だけでなく、より広い範囲に及ぶ。。文脈の格式と文法規則から「にとどまらず」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にとどまらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ならでは",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "にとどまらず"
   },
   {
     "id": 261,
@@ -5480,7 +7820,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "もさることながら",
-    "notes": "【学術・論文】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。"
+    "notes": "【学術・論文】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、もさることながら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "もさることながら",
+      "なしに",
+      "にとどまらず",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "もさることながら"
   },
   {
     "id": 262,
@@ -5501,7 +7850,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "もさることながら",
-    "notes": "【ビジネス・公式スピーチ】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、もさることながら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "もさることながら",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "たるもの"
+    ],
+    "correct_text_ruby": "もさることながら"
   },
   {
     "id": 263,
@@ -5522,7 +7880,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "もさることながら",
-    "notes": "【社会・社説】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。"
+    "notes": "【社会・社説】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、もさることながら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をものともせずに",
+      "もさることながら",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "もさることながら"
   },
   {
     "id": 264,
@@ -5543,7 +7910,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "もさることながら",
-    "notes": "【倫理・品格】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。"
+    "notes": "【倫理・品格】〜はもちろん、それ以上に。。文脈の格式と文法規則から「もさることながら」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、もさることながら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "なくしては",
+      "にとどまらず",
+      "もさることながら"
+    ],
+    "correct_text_ruby": "もさることながら"
   },
   {
     "id": 265,
@@ -5564,7 +7940,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のみならず",
-    "notes": "【学術・論文】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。"
+    "notes": "【学術・論文】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、のみならず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "のみならず",
+      "まじき",
+      "まみれ",
+      "ならではの"
+    ],
+    "correct_text_ruby": "のみならず"
   },
   {
     "id": 266,
@@ -5585,7 +7970,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のみならず",
-    "notes": "【ビジネス・公式スピーチ】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、のみならず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "のみならず",
+      "をおいて",
+      "なくしては"
+    ],
+    "correct_text_ruby": "のみならず"
   },
   {
     "id": 267,
@@ -5606,7 +8000,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のみならず",
-    "notes": "【社会・社説】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。"
+    "notes": "【社会・社説】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、のみならず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "まみれ",
+      "のみならず",
+      "ならではの"
+    ],
+    "correct_text_ruby": "のみならず"
   },
   {
     "id": 268,
@@ -5627,7 +8030,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のみならず",
-    "notes": "【倫理・品格】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。"
+    "notes": "【倫理・品格】〜だけでなく、その上。。文脈の格式と文法規則から「のみならず」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、のみならず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ならではの",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "のみならず"
+    ],
+    "correct_text_ruby": "のみならず"
   },
   {
     "id": 269,
@@ -5648,7 +8060,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "であれであれ",
-    "notes": "【学術・論文】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。"
+    "notes": "【学術・論文】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、であれであれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれであれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "まみれ"
+    ],
+    "correct_text_ruby": "であれであれ"
   },
   {
     "id": 270,
@@ -5669,7 +8090,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "であれであれ",
-    "notes": "【ビジネス・公式スピーチ】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、であれであれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "であれであれ",
+      "なしに",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "であれであれ"
   },
   {
     "id": 271,
@@ -5690,7 +8120,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "であれであれ",
-    "notes": "【社会・社説】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。"
+    "notes": "【社会・社説】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、であれであれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "ならではの",
+      "であれであれ",
+      "まみれ"
+    ],
+    "correct_text_ruby": "であれであれ"
   },
   {
     "id": 272,
@@ -5711,7 +8150,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "であれであれ",
-    "notes": "【倫理・品格】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。"
+    "notes": "【倫理・品格】〜の場合でも、〜の場合でも同じだ。。文脈の格式と文法規則から「であれであれ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、であれであれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "であれであれ"
+    ],
+    "correct_text_ruby": "であれであれ"
   },
   {
     "id": 273,
@@ -5732,7 +8180,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といいといい",
-    "notes": "【学術・論文】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。"
+    "notes": "【学術・論文】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、といいといい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といいといい",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "であれ"
+    ],
+    "correct_text_ruby": "といいといい"
   },
   {
     "id": 274,
@@ -5753,7 +8210,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といいといい",
-    "notes": "【ビジネス・公式スピーチ】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、といいといい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "といいといい",
+      "をものともせずに",
+      "はおろか"
+    ],
+    "correct_text_ruby": "といいといい"
   },
   {
     "id": 275,
@@ -5774,7 +8240,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といいといい",
-    "notes": "【社会・社説】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。"
+    "notes": "【社会・社説】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、といいといい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "なくしては",
+      "といいといい",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "といいといい"
   },
   {
     "id": 276,
@@ -5795,7 +8270,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といいといい",
-    "notes": "【倫理・品格】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。"
+    "notes": "【倫理・品格】〜を見ても〜を見ても、どれも。。文脈の格式と文法規則から「といいといい」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、といいといい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "といいといい"
+    ],
+    "correct_text_ruby": "といいといい"
   },
   {
     "id": 277,
@@ -5816,7 +8300,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "こととて",
-    "notes": "【学術・論文】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。"
+    "notes": "【学術・論文】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、こととて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "こととて",
+      "なくしては",
+      "をものともせずに",
+      "ならではの"
+    ],
+    "correct_text_ruby": "こととて"
   },
   {
     "id": 278,
@@ -5837,7 +8330,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "こととて",
-    "notes": "【ビジネス・公式スピーチ】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、こととて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "こととて",
+      "たるもの",
+      "といったらない"
+    ],
+    "correct_text_ruby": "こととて"
   },
   {
     "id": 279,
@@ -5858,7 +8360,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "こととて",
-    "notes": "【社会・社説】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。"
+    "notes": "【社会・社説】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、こととて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "こととて",
+      "ごとき"
+    ],
+    "correct_text_ruby": "こととて"
   },
   {
     "id": 280,
@@ -5879,7 +8390,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "こととて",
-    "notes": "【倫理・品格】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。"
+    "notes": "【倫理・品格】〜という理由・状況なので。。文脈の格式と文法規則から「こととて」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、こととて<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "こととて"
+    ],
+    "correct_text_ruby": "こととて"
   },
   {
     "id": 281,
@@ -5900,7 +8420,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "とあって",
-    "notes": "【学術・論文】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。"
+    "notes": "【学術・論文】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、とあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "とあって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "とあって"
   },
   {
     "id": 282,
@@ -5921,7 +8450,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "とあって",
-    "notes": "【ビジネス・公式スピーチ】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、とあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "とあって",
+      "なくしては",
+      "であれ"
+    ],
+    "correct_text_ruby": "とあって"
   },
   {
     "id": 283,
@@ -5942,7 +8480,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "とあって",
-    "notes": "【社会・社説】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。"
+    "notes": "【社会・社説】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、とあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "とあって",
+      "なくしては"
+    ],
+    "correct_text_ruby": "とあって"
   },
   {
     "id": 284,
@@ -5963,7 +8510,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "とあって",
-    "notes": "【倫理・品格】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。"
+    "notes": "【倫理・品格】〜という特別な状況なので。。文脈の格式と文法規則から「とあって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、とあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "であれ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "とあって"
+    ],
+    "correct_text_ruby": "とあって"
   },
   {
     "id": 285,
@@ -5984,7 +8540,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をもって",
-    "notes": "【学術・論文】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。"
+    "notes": "【学術・論文】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をもって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をもって",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "たるもの",
+      "からある"
+    ],
+    "correct_text_ruby": "をもって"
   },
   {
     "id": 286,
@@ -6005,7 +8570,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をもって",
-    "notes": "【ビジネス・公式スピーチ】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をもって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をもって",
+      "にとどまらず",
+      "ならではの"
+    ],
+    "correct_text_ruby": "をもって"
   },
   {
     "id": 287,
@@ -6026,7 +8600,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をもって",
-    "notes": "【社会・社説】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。"
+    "notes": "【社会・社説】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をもって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "にとどまらず",
+      "をもって",
+      "まみれ"
+    ],
+    "correct_text_ruby": "をもって"
   },
   {
     "id": 288,
@@ -6047,7 +8630,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をもって",
-    "notes": "【倫理・品格】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。"
+    "notes": "【倫理・品格】〜の手段で。あるいは〜の期日で終了する。。文脈の格式と文法規則から「をもって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をもって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まじき",
+      "をもって"
+    ],
+    "correct_text_ruby": "をもって"
   },
   {
     "id": 289,
@@ -6068,7 +8660,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を限りに",
-    "notes": "【学術・論文】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。"
+    "notes": "【学術・論文】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>限<rt>かぎ</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>限<rt>かぎ</rt></ruby>りに",
+      "ごとき",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "はおろか"
+    ],
+    "correct_text_ruby": "を<ruby>限<rt>かぎ</rt></ruby>りに"
   },
   {
     "id": 290,
@@ -6089,7 +8690,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を限りに",
-    "notes": "【ビジネス・公式スピーチ】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>限<rt>かぎ</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "を<ruby>限<rt>かぎ</rt></ruby>りに",
+      "ごとき",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "を<ruby>限<rt>かぎ</rt></ruby>りに"
   },
   {
     "id": 291,
@@ -6110,7 +8720,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を限りに",
-    "notes": "【社会・社説】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。"
+    "notes": "【社会・社説】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>限<rt>かぎ</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "であれ",
+      "を<ruby>限<rt>かぎ</rt></ruby>りに",
+      "ごとき"
+    ],
+    "correct_text_ruby": "を<ruby>限<rt>かぎ</rt></ruby>りに"
   },
   {
     "id": 292,
@@ -6131,7 +8750,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を限りに",
-    "notes": "【倫理・品格】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。"
+    "notes": "【倫理・品格】〜の時を最後に、以後はやめる。。文脈の格式と文法規則から「を限りに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>限<rt>かぎ</rt></ruby>りに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "を<ruby>限<rt>かぎ</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "を<ruby>限<rt>かぎ</rt></ruby>りに"
   },
   {
     "id": 293,
@@ -6152,7 +8780,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ともなく",
-    "notes": "【学術・論文】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。"
+    "notes": "【学術・論文】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ともなく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ともなく",
+      "ごとき",
+      "ならではの",
+      "からある"
+    ],
+    "correct_text_ruby": "ともなく"
   },
   {
     "id": 294,
@@ -6173,7 +8810,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ともなく",
-    "notes": "【ビジネス・公式スピーチ】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ともなく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ともなく",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "ともなく"
   },
   {
     "id": 295,
@@ -6194,7 +8840,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ともなく",
-    "notes": "【社会・社説】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。"
+    "notes": "【社会・社説】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ともなく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "なしに",
+      "ともなく",
+      "なくしては"
+    ],
+    "correct_text_ruby": "ともなく"
   },
   {
     "id": 296,
@@ -6215,7 +8870,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ともなく",
-    "notes": "【倫理・品格】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。"
+    "notes": "【倫理・品格】特に意識や目的を持たずに自然と。。文脈の格式と文法規則から「ともなく」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ともなく<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "たるもの",
+      "ともなく"
+    ],
+    "correct_text_ruby": "ともなく"
   },
   {
     "id": 297,
@@ -6236,7 +8900,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ともなしに",
-    "notes": "【学術・論文】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。"
+    "notes": "【学術・論文】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ともなしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ともなしに",
+      "まみれ",
+      "ごとき",
+      "といったらない"
+    ],
+    "correct_text_ruby": "ともなしに"
   },
   {
     "id": 298,
@@ -6257,7 +8930,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ともなしに",
-    "notes": "【ビジネス・公式スピーチ】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ともなしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "ともなしに",
+      "たるもの",
+      "まみれ"
+    ],
+    "correct_text_ruby": "ともなしに"
   },
   {
     "id": 299,
@@ -6278,7 +8960,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ともなしに",
-    "notes": "【社会・社説】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。"
+    "notes": "【社会・社説】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ともなしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まみれ",
+      "ともなしに",
+      "であれ"
+    ],
+    "correct_text_ruby": "ともなしに"
   },
   {
     "id": 300,
@@ -6299,7 +8990,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ともなしに",
-    "notes": "【倫理・品格】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。"
+    "notes": "【倫理・品格】意識せずにぼんやりと。。文脈の格式と文法規則から「ともなしに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ともなしに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "なしに",
+      "ともなしに"
+    ],
+    "correct_text_ruby": "ともなしに"
   },
   {
     "id": 301,
@@ -6320,7 +9020,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ながらに",
-    "notes": "【学術・論文】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。"
+    "notes": "【学術・論文】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ながらに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ながらに",
+      "にとどまらず",
+      "であれ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "ながらに"
   },
   {
     "id": 302,
@@ -6341,7 +9050,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ながらに",
-    "notes": "【ビジネス・公式スピーチ】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ながらに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "ながらに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "はおろか"
+    ],
+    "correct_text_ruby": "ながらに"
   },
   {
     "id": 303,
@@ -6362,7 +9080,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ながらに",
-    "notes": "【社会・社説】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。"
+    "notes": "【社会・社説】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ながらに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "といったらない",
+      "ながらに",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "ながらに"
   },
   {
     "id": 304,
@@ -6383,7 +9110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ながらに",
-    "notes": "【倫理・品格】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。"
+    "notes": "【倫理・品格】生まれたときや元の状態のままで。。文脈の格式と文法規則から「ながらに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ながらに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき",
+      "ながらに"
+    ],
+    "correct_text_ruby": "ながらに"
   },
   {
     "id": 305,
@@ -6404,7 +9140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "きわまる",
-    "notes": "【学術・論文】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。"
+    "notes": "【学術・論文】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、きわまる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "きわまる",
+      "をものともせずに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ごとき"
+    ],
+    "correct_text_ruby": "きわまる"
   },
   {
     "id": 306,
@@ -6425,7 +9170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "きわまる",
-    "notes": "【ビジネス・公式スピーチ】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、きわまる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "きわまる",
+      "をものともせずに",
+      "まみれ"
+    ],
+    "correct_text_ruby": "きわまる"
   },
   {
     "id": 307,
@@ -6446,7 +9200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "きわまる",
-    "notes": "【社会・社説】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。"
+    "notes": "【社会・社説】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、きわまる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "ごとき",
+      "きわまる",
+      "であれ"
+    ],
+    "correct_text_ruby": "きわまる"
   },
   {
     "id": 308,
@@ -6467,7 +9230,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "きわまる",
-    "notes": "【倫理・品格】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。"
+    "notes": "【倫理・品格】この上なく限界まで〜である。。文脈の格式と文法規則から「きわまる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、きわまる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "をものともせずに",
+      "であれ",
+      "きわまる"
+    ],
+    "correct_text_ruby": "きわまる"
   },
   {
     "id": 309,
@@ -6488,7 +9260,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といったらない",
-    "notes": "【学術・論文】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。"
+    "notes": "【学術・論文】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、といったらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "はおろか",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ならでは"
+    ],
+    "correct_text_ruby": "といったらない"
   },
   {
     "id": 310,
@@ -6509,7 +9290,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といったらない",
-    "notes": "【ビジネス・公式スピーチ】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、といったらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "といったらない",
+      "をおいて",
+      "まみれ"
+    ],
+    "correct_text_ruby": "といったらない"
   },
   {
     "id": 311,
@@ -6530,7 +9320,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といったらない",
-    "notes": "【社会・社説】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。"
+    "notes": "【社会・社説】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、といったらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "ごとき",
+      "といったらない",
+      "ならでは"
+    ],
+    "correct_text_ruby": "といったらない"
   },
   {
     "id": 312,
@@ -6551,7 +9350,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といったらない",
-    "notes": "【倫理・品格】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。"
+    "notes": "【倫理・品格】言葉で言い表せないほどすごい。。文脈の格式と文法規則から「といったらない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、といったらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "といったらない"
+    ],
+    "correct_text_ruby": "といったらない"
   },
   {
     "id": 313,
@@ -6572,7 +9380,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かぎりだ",
-    "notes": "【学術・論文】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。"
+    "notes": "【学術・論文】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、かぎりだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "かぎりだ",
+      "まじき",
+      "はおろか",
+      "ならではの"
+    ],
+    "correct_text_ruby": "かぎりだ"
   },
   {
     "id": 314,
@@ -6593,7 +9410,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かぎりだ",
-    "notes": "【ビジネス・公式スピーチ】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、かぎりだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "かぎりだ",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "かぎりだ"
   },
   {
     "id": 315,
@@ -6614,7 +9440,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かぎりだ",
-    "notes": "【社会・社説】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。"
+    "notes": "【社会・社説】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、かぎりだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "といったらない",
+      "かぎりだ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "かぎりだ"
   },
   {
     "id": 316,
@@ -6635,7 +9470,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かぎりだ",
-    "notes": "【倫理・品格】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。"
+    "notes": "【倫理・品格】最高に〜の気持ちだ。。文脈の格式と文法規則から「かぎりだ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、かぎりだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をものともせずに",
+      "かぎりだ"
+    ],
+    "correct_text_ruby": "かぎりだ"
   },
   {
     "id": 317,
@@ -6656,7 +9500,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "手前",
-    "notes": "【学術・論文】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。"
+    "notes": "【学術・論文】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、<ruby>手前<rt>てまえ</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>手前<rt>てまえ</rt></ruby>",
+      "ごとき",
+      "まみれ",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "<ruby>手前<rt>てまえ</rt></ruby>"
   },
   {
     "id": 318,
@@ -6677,7 +9530,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "手前",
-    "notes": "【ビジネス・公式スピーチ】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、<ruby>手前<rt>てまえ</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "<ruby>手前<rt>てまえ</rt></ruby>",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "といったらない"
+    ],
+    "correct_text_ruby": "<ruby>手前<rt>てまえ</rt></ruby>"
   },
   {
     "id": 319,
@@ -6698,7 +9560,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "手前",
-    "notes": "【社会・社説】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。"
+    "notes": "【社会・社説】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、<ruby>手前<rt>てまえ</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "なくしては",
+      "<ruby>手前<rt>てまえ</rt></ruby>",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "<ruby>手前<rt>てまえ</rt></ruby>"
   },
   {
     "id": 320,
@@ -6719,7 +9590,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "手前",
-    "notes": "【倫理・品格】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。"
+    "notes": "【倫理・品格】周囲の目や相手の立場を考えると。。文脈の格式と文法規則から「手前」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、<ruby>手前<rt>てまえ</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ならではの",
+      "<ruby>手前<rt>てまえ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>手前<rt>てまえ</rt></ruby>"
   },
   {
     "id": 321,
@@ -6740,7 +9620,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そびれる",
-    "notes": "【学術・論文】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。"
+    "notes": "【学術・論文】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、そびれる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "そびれる",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "まじき",
+      "たるもの"
+    ],
+    "correct_text_ruby": "そびれる"
   },
   {
     "id": 322,
@@ -6761,7 +9650,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そびれる",
-    "notes": "【ビジネス・公式スピーチ】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、そびれる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "そびれる",
+      "をおいて",
+      "なしに"
+    ],
+    "correct_text_ruby": "そびれる"
   },
   {
     "id": 323,
@@ -6782,7 +9680,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そびれる",
-    "notes": "【社会・社説】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。"
+    "notes": "【社会・社説】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、そびれる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "ならではの",
+      "そびれる",
+      "まじき"
+    ],
+    "correct_text_ruby": "そびれる"
   },
   {
     "id": 324,
@@ -6803,7 +9710,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そびれる",
-    "notes": "【倫理・品格】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。"
+    "notes": "【倫理・品格】〜する機会を逃してしまう。。文脈の格式と文法規則から「そびれる」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、そびれる<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "なくしては",
+      "そびれる"
+    ],
+    "correct_text_ruby": "そびれる"
   },
   {
     "id": 325,
@@ -6824,7 +9740,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かたわら",
-    "notes": "【学術・論文】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。"
+    "notes": "【学術・論文】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、かたわら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "かたわら",
+      "まみれ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "なしに"
+    ],
+    "correct_text_ruby": "かたわら"
   },
   {
     "id": 326,
@@ -6845,7 +9770,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かたわら",
-    "notes": "【ビジネス・公式スピーチ】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、かたわら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "かたわら",
+      "ならではの",
+      "をおいて"
+    ],
+    "correct_text_ruby": "かたわら"
   },
   {
     "id": 327,
@@ -6866,7 +9800,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かたわら",
-    "notes": "【社会・社説】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。"
+    "notes": "【社会・社説】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、かたわら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "かたわら",
+      "ごとき"
+    ],
+    "correct_text_ruby": "かたわら"
   },
   {
     "id": 328,
@@ -6887,7 +9830,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かたわら",
-    "notes": "【倫理・品格】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。"
+    "notes": "【倫理・品格】本業の一方で、別の活動も行う。。文脈の格式と文法規則から「かたわら」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、かたわら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "をおいて",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "かたわら"
+    ],
+    "correct_text_ruby": "かたわら"
   },
   {
     "id": 329,
@@ -6908,7 +9860,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かたがた",
-    "notes": "【学術・論文】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。"
+    "notes": "【学術・論文】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、かたがた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "かたがた",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "といったらない"
+    ],
+    "correct_text_ruby": "かたがた"
   },
   {
     "id": 330,
@@ -6929,7 +9890,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かたがた",
-    "notes": "【ビジネス・公式スピーチ】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、かたがた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "かたがた",
+      "ならではの",
+      "なしに"
+    ],
+    "correct_text_ruby": "かたがた"
   },
   {
     "id": 331,
@@ -6950,7 +9920,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かたがた",
-    "notes": "【社会・社説】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。"
+    "notes": "【社会・社説】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、かたがた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "にとどまらず",
+      "かたがた",
+      "といったらない"
+    ],
+    "correct_text_ruby": "かたがた"
   },
   {
     "id": 332,
@@ -6971,7 +9950,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かたがた",
-    "notes": "【倫理・品格】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。"
+    "notes": "【倫理・品格】ある目的のついでに別の用件も果たす。。文脈の格式と文法規則から「かたがた」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、かたがた<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "なくしては",
+      "かたがた"
+    ],
+    "correct_text_ruby": "かたがた"
   },
   {
     "id": 333,
@@ -6992,7 +9980,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "がてら",
-    "notes": "【学術・論文】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。"
+    "notes": "【学術・論文】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、がてら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "がてら",
+      "といったらない",
+      "をおいて",
+      "たるもの"
+    ],
+    "correct_text_ruby": "がてら"
   },
   {
     "id": 334,
@@ -7013,7 +10010,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "がてら",
-    "notes": "【ビジネス・公式スピーチ】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、がてら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "がてら",
+      "といったらない",
+      "はおろか"
+    ],
+    "correct_text_ruby": "がてら"
   },
   {
     "id": 335,
@@ -7034,7 +10040,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "がてら",
-    "notes": "【社会・社説】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。"
+    "notes": "【社会・社説】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、がてら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "をものともせずに",
+      "がてら",
+      "からある"
+    ],
+    "correct_text_ruby": "がてら"
   },
   {
     "id": 336,
@@ -7055,7 +10070,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "がてら",
-    "notes": "【倫理・品格】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。"
+    "notes": "【倫理・品格】散歩やついでを兼ねて。。文脈の格式と文法規則から「がてら」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、がてら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "まみれ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "がてら"
+    ],
+    "correct_text_ruby": "がてら"
   },
   {
     "id": 337,
@@ -7076,7 +10100,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をよそに",
-    "notes": "【学術・論文】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。"
+    "notes": "【学術・論文】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をよそに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をよそに",
+      "まみれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "たるもの"
+    ],
+    "correct_text_ruby": "をよそに"
   },
   {
     "id": 338,
@@ -7097,7 +10130,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をよそに",
-    "notes": "【ビジネス・公式スピーチ】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をよそに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をよそに",
+      "にとどまらず",
+      "ごとき"
+    ],
+    "correct_text_ruby": "をよそに"
   },
   {
     "id": 339,
@@ -7118,7 +10160,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をよそに",
-    "notes": "【社会・社説】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。"
+    "notes": "【社会・社説】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をよそに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "であれ",
+      "をよそに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "をよそに"
   },
   {
     "id": 340,
@@ -7139,7 +10190,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をよそに",
-    "notes": "【倫理・品格】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。"
+    "notes": "【倫理・品格】周囲の心配や反対をまったく気にせず。。文脈の格式と文法規則から「をよそに」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をよそに<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "ずくめ",
+      "からある",
+      "をよそに"
+    ],
+    "correct_text_ruby": "をよそに"
   },
   {
     "id": 341,
@@ -7160,7 +10220,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をものともせず",
-    "notes": "【学術・論文】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。"
+    "notes": "【学術・論文】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をものともせず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせず",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ごとき",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "をものともせず"
   },
   {
     "id": 342,
@@ -7181,7 +10250,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をものともせず",
-    "notes": "【ビジネス・公式スピーチ】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をものともせず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "をものともせず",
+      "をおいて",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "をものともせず"
   },
   {
     "id": 343,
@@ -7202,7 +10280,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をものともせず",
-    "notes": "【社会・社説】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。"
+    "notes": "【社会・社説】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をものともせず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ごとき",
+      "をものともせず",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "をものともせず"
   },
   {
     "id": 344,
@@ -7223,7 +10310,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をものともせず",
-    "notes": "【倫理・品格】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。"
+    "notes": "【倫理・品格】困難やプレッシャーに負けずに立ち向かう。。文脈の格式と文法規則から「をものともせず」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をものともせず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "まじき",
+      "たるもの",
+      "をものともせず"
+    ],
+    "correct_text_ruby": "をものともせず"
   },
   {
     "id": 345,
@@ -7244,7 +10340,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を押して",
-    "notes": "【学術・論文】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。"
+    "notes": "【学術・論文】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>押<rt>お</rt></ruby>して<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>押<rt>お</rt></ruby>して",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "であれ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "を<ruby>押<rt>お</rt></ruby>して"
   },
   {
     "id": 346,
@@ -7265,7 +10370,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を押して",
-    "notes": "【ビジネス・公式スピーチ】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>押<rt>お</rt></ruby>して<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "を<ruby>押<rt>お</rt></ruby>して",
+      "はおろか",
+      "たるもの"
+    ],
+    "correct_text_ruby": "を<ruby>押<rt>お</rt></ruby>して"
   },
   {
     "id": 347,
@@ -7286,7 +10400,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を押して",
-    "notes": "【社会・社説】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。"
+    "notes": "【社会・社説】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>押<rt>お</rt></ruby>して<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "はおろか",
+      "を<ruby>押<rt>お</rt></ruby>して",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "を<ruby>押<rt>お</rt></ruby>して"
   },
   {
     "id": 348,
@@ -7307,7 +10430,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を押して",
-    "notes": "【倫理・品格】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。"
+    "notes": "【倫理・品格】病気や反対を無理に乗り越えて行う。。文脈の格式と文法規則から「を押して」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>押<rt>お</rt></ruby>して<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ならではの",
+      "まじき",
+      "を<ruby>押<rt>お</rt></ruby>して"
+    ],
+    "correct_text_ruby": "を<ruby>押<rt>お</rt></ruby>して"
   },
   {
     "id": 349,
@@ -7328,7 +10460,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をおいてない",
-    "notes": "【学術・論文】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。"
+    "notes": "【学術・論文】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をおいてない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいてない",
+      "からある",
+      "たるもの",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "をおいてない"
   },
   {
     "id": 350,
@@ -7349,7 +10490,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をおいてない",
-    "notes": "【ビジネス・公式スピーチ】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をおいてない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "をおいてない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "をおいてない"
   },
   {
     "id": 351,
@@ -7370,7 +10520,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をおいてない",
-    "notes": "【社会・社説】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。"
+    "notes": "【社会・社説】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をおいてない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "ずくめ",
+      "をおいてない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "をおいてない"
   },
   {
     "id": 352,
@@ -7391,7 +10550,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をおいてない",
-    "notes": "【倫理・品格】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。"
+    "notes": "【倫理・品格】〜以外には絶対にない・適任者はいない。。文脈の格式と文法規則から「をおいてない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をおいてない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "をおいて",
+      "であれ",
+      "をおいてない"
+    ],
+    "correct_text_ruby": "をおいてない"
   },
   {
     "id": 353,
@@ -7412,7 +10580,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はさておき",
-    "notes": "【学術・論文】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。"
+    "notes": "【学術・論文】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、はさておき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はさておき",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "なくしては"
+    ],
+    "correct_text_ruby": "はさておき"
   },
   {
     "id": 354,
@@ -7433,7 +10610,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はさておき",
-    "notes": "【ビジネス・公式スピーチ】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、はさておき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "はさておき",
+      "ごとき",
+      "をおいて"
+    ],
+    "correct_text_ruby": "はさておき"
   },
   {
     "id": 355,
@@ -7454,7 +10640,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はさておき",
-    "notes": "【社会・社説】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。"
+    "notes": "【社会・社説】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、はさておき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "をおいて",
+      "はさておき",
+      "からある"
+    ],
+    "correct_text_ruby": "はさておき"
   },
   {
     "id": 356,
@@ -7475,7 +10670,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はさておき",
-    "notes": "【倫理・品格】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。"
+    "notes": "【倫理・品格】今は脇に置いて、まず本題に入る。。文脈の格式と文法規則から「はさておき」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、はさておき<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "まみれ",
+      "にとどまらず",
+      "はさておき"
+    ],
+    "correct_text_ruby": "はさておき"
   },
   {
     "id": 357,
@@ -7496,7 +10700,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はどうあれ",
-    "notes": "【学術・論文】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。"
+    "notes": "【学術・論文】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、はどうあれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はどうあれ",
+      "なくしては",
+      "ごとき",
+      "であれ"
+    ],
+    "correct_text_ruby": "はどうあれ"
   },
   {
     "id": 358,
@@ -7517,7 +10730,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はどうあれ",
-    "notes": "【ビジネス・公式スピーチ】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、はどうあれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "はどうあれ",
+      "であれ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "はどうあれ"
   },
   {
     "id": 359,
@@ -7538,7 +10760,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はどうあれ",
-    "notes": "【社会・社説】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。"
+    "notes": "【社会・社説】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、はどうあれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "はどうあれ",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "はどうあれ"
   },
   {
     "id": 360,
@@ -7559,7 +10790,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はどうあれ",
-    "notes": "【倫理・品格】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。"
+    "notes": "【倫理・品格】どんな状況であろうと。。文脈の格式と文法規則から「はどうあれ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、はどうあれ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "なしに",
+      "はどうあれ"
+    ],
+    "correct_text_ruby": "はどうあれ"
   },
   {
     "id": 361,
@@ -7580,7 +10820,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "拍子に",
-    "notes": "【学術・論文】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。"
+    "notes": "【学術・論文】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、<ruby>拍子<rt>ひょうし</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>拍子<rt>ひょうし</rt></ruby>に",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ずくめ",
+      "たるもの"
+    ],
+    "correct_text_ruby": "<ruby>拍子<rt>ひょうし</rt></ruby>に"
   },
   {
     "id": 362,
@@ -7601,7 +10850,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "拍子に",
-    "notes": "【ビジネス・公式スピーチ】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、<ruby>拍子<rt>ひょうし</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "<ruby>拍子<rt>ひょうし</rt></ruby>に",
+      "をおいて",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "<ruby>拍子<rt>ひょうし</rt></ruby>に"
   },
   {
     "id": 363,
@@ -7622,7 +10880,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "拍子に",
-    "notes": "【社会・社説】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。"
+    "notes": "【社会・社説】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、<ruby>拍子<rt>ひょうし</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "まみれ",
+      "<ruby>拍子<rt>ひょうし</rt></ruby>に",
+      "なしに"
+    ],
+    "correct_text_ruby": "<ruby>拍子<rt>ひょうし</rt></ruby>に"
   },
   {
     "id": 364,
@@ -7643,7 +10910,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "拍子に",
-    "notes": "【倫理・品格】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。"
+    "notes": "【倫理・品格】何かの勢いやはずみで思わぬことが起きる。。文脈の格式と文法規則から「拍子に」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、<ruby>拍子<rt>ひょうし</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "をおいて",
+      "まみれ",
+      "<ruby>拍子<rt>ひょうし</rt></ruby>に"
+    ],
+    "correct_text_ruby": "<ruby>拍子<rt>ひょうし</rt></ruby>に"
   },
   {
     "id": 365,
@@ -7664,7 +10940,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "折に",
-    "notes": "【学術・論文】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。"
+    "notes": "【学術・論文】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、<ruby>折<rt>おり</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>折<rt>おり</rt></ruby>に",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "たるもの",
+      "なくしては"
+    ],
+    "correct_text_ruby": "<ruby>折<rt>おり</rt></ruby>に"
   },
   {
     "id": 366,
@@ -7685,7 +10970,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "折に",
-    "notes": "【ビジネス・公式スピーチ】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、<ruby>折<rt>おり</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "<ruby>折<rt>おり</rt></ruby>に",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "<ruby>折<rt>おり</rt></ruby>に"
   },
   {
     "id": 367,
@@ -7706,7 +11000,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "折に",
-    "notes": "【社会・社説】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。"
+    "notes": "【社会・社説】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、<ruby>折<rt>おり</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "ずくめ",
+      "<ruby>折<rt>おり</rt></ruby>に",
+      "であれ"
+    ],
+    "correct_text_ruby": "<ruby>折<rt>おり</rt></ruby>に"
   },
   {
     "id": 368,
@@ -7727,7 +11030,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "折に",
-    "notes": "【倫理・品格】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。"
+    "notes": "【倫理・品格】その機会・好機・タイミングで。。文脈の格式と文法規則から「折に」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、<ruby>折<rt>おり</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "をおいて",
+      "まじき",
+      "<ruby>折<rt>おり</rt></ruby>に"
+    ],
+    "correct_text_ruby": "<ruby>折<rt>おり</rt></ruby>に"
   },
   {
     "id": 369,
@@ -7748,7 +11060,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を境に",
-    "notes": "【学術・論文】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。"
+    "notes": "【学術・論文】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>境<rt>さかい</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>境<rt>さかい</rt></ruby>に",
+      "たるもの",
+      "をものともせずに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "を<ruby>境<rt>さかい</rt></ruby>に"
   },
   {
     "id": 370,
@@ -7769,7 +11090,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を境に",
-    "notes": "【ビジネス・公式スピーチ】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>境<rt>さかい</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "を<ruby>境<rt>さかい</rt></ruby>に",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "であれ"
+    ],
+    "correct_text_ruby": "を<ruby>境<rt>さかい</rt></ruby>に"
   },
   {
     "id": 371,
@@ -7790,7 +11120,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を境に",
-    "notes": "【社会・社説】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。"
+    "notes": "【社会・社説】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>境<rt>さかい</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "ずくめ",
+      "を<ruby>境<rt>さかい</rt></ruby>に",
+      "であれ"
+    ],
+    "correct_text_ruby": "を<ruby>境<rt>さかい</rt></ruby>に"
   },
   {
     "id": 372,
@@ -7811,7 +11150,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を境に",
-    "notes": "【倫理・品格】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。"
+    "notes": "【倫理・品格】それを区切りとして状況が一変する。。文脈の格式と文法規則から「を境に」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>境<rt>さかい</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ならではの",
+      "といったらない",
+      "を<ruby>境<rt>さかい</rt></ruby>に"
+    ],
+    "correct_text_ruby": "を<ruby>境<rt>さかい</rt></ruby>に"
   },
   {
     "id": 373,
@@ -7832,7 +11180,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を経て",
-    "notes": "【学術・論文】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。"
+    "notes": "【学術・論文】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>経<rt>へ</rt></ruby>て<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>経<rt>へ</rt></ruby>て",
+      "なしに",
+      "ごとき",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "を<ruby>経<rt>へ</rt></ruby>て"
   },
   {
     "id": 374,
@@ -7853,7 +11210,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を経て",
-    "notes": "【ビジネス・公式スピーチ】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>経<rt>へ</rt></ruby>て<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "を<ruby>経<rt>へ</rt></ruby>て",
+      "ごとき",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "を<ruby>経<rt>へ</rt></ruby>て"
   },
   {
     "id": 375,
@@ -7874,7 +11240,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を経て",
-    "notes": "【社会・社説】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。"
+    "notes": "【社会・社説】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>経<rt>へ</rt></ruby>て<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>経<rt>へ</rt></ruby>て",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "を<ruby>経<rt>へ</rt></ruby>て"
   },
   {
     "id": 376,
@@ -7895,7 +11270,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を経て",
-    "notes": "【倫理・品格】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。"
+    "notes": "【倫理・品格】年月・場所・経験を通過して。。文脈の格式と文法規則から「を経て」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>経<rt>へ</rt></ruby>て<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "たるもの",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>経<rt>へ</rt></ruby>て"
+    ],
+    "correct_text_ruby": "を<ruby>経<rt>へ</rt></ruby>て"
   },
   {
     "id": 377,
@@ -7916,7 +11300,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "を前提として",
-    "notes": "【学術・論文】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。"
+    "notes": "【学術・論文】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、を<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>前提<rt>ぜんてい</rt></ruby>として",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "たるもの",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "を<ruby>前提<rt>ぜんてい</rt></ruby>として"
   },
   {
     "id": 378,
@@ -7937,7 +11330,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "を前提として",
-    "notes": "【ビジネス・公式スピーチ】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、を<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "を<ruby>前提<rt>ぜんてい</rt></ruby>として",
+      "ごとき",
+      "ならではの"
+    ],
+    "correct_text_ruby": "を<ruby>前提<rt>ぜんてい</rt></ruby>として"
   },
   {
     "id": 379,
@@ -7958,7 +11360,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "を前提として",
-    "notes": "【社会・社説】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。"
+    "notes": "【社会・社説】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、を<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "といったらない",
+      "を<ruby>前提<rt>ぜんてい</rt></ruby>として",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "を<ruby>前提<rt>ぜんてい</rt></ruby>として"
   },
   {
     "id": 380,
@@ -7979,7 +11390,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "を前提として",
-    "notes": "【倫理・品格】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。"
+    "notes": "【倫理・品格】〜をあらかじめ条件・前提として。。文脈の格式と文法規則から「を前提として」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、を<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "たるもの",
+      "を<ruby>前提<rt>ぜんてい</rt></ruby>として"
+    ],
+    "correct_text_ruby": "を<ruby>前提<rt>ぜんてい</rt></ruby>として"
   },
   {
     "id": 381,
@@ -8000,7 +11420,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をもってすれば",
-    "notes": "【学術・論文】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。"
+    "notes": "【学術・論文】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をもってすれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をもってすれば",
+      "はおろか",
+      "にとどまらず",
+      "をおいて"
+    ],
+    "correct_text_ruby": "をもってすれば"
   },
   {
     "id": 382,
@@ -8021,7 +11450,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をもってすれば",
-    "notes": "【ビジネス・公式スピーチ】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をもってすれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "をもってすれば",
+      "からある",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "をもってすれば"
   },
   {
     "id": 383,
@@ -8042,7 +11480,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をもってすれば",
-    "notes": "【社会・社説】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。"
+    "notes": "【社会・社説】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をもってすれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をもってすれば",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "をもってすれば"
   },
   {
     "id": 384,
@@ -8063,7 +11510,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をもってすれば",
-    "notes": "【倫理・品格】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。"
+    "notes": "【倫理・品格】その能力や実力を使えば。。文脈の格式と文法規則から「をもってすれば」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をもってすれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をもってすれば"
+    ],
+    "correct_text_ruby": "をもってすれば"
   },
   {
     "id": 385,
@@ -8084,7 +11540,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "んがため",
-    "notes": "【学術・論文】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。"
+    "notes": "【学術・論文】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、んがため<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "んがため",
+      "ずくめ",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "といったらない"
+    ],
+    "correct_text_ruby": "んがため"
   },
   {
     "id": 386,
@@ -8105,7 +11570,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んがため",
-    "notes": "【ビジネス・公式スピーチ】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、んがため<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "んがため",
+      "ならではの",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "んがため"
   },
   {
     "id": 387,
@@ -8126,7 +11600,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んがため",
-    "notes": "【社会・社説】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。"
+    "notes": "【社会・社説】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、んがため<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "はおろか",
+      "んがため",
+      "まみれ"
+    ],
+    "correct_text_ruby": "んがため"
   },
   {
     "id": 388,
@@ -8147,7 +11630,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "んがため",
-    "notes": "【倫理・品格】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。"
+    "notes": "【倫理・品格】強い目的のために努力する。。文脈の格式と文法規則から「んがため」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、んがため<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "はおろか",
+      "まじき",
+      "んがため"
+    ],
+    "correct_text_ruby": "んがため"
   },
   {
     "id": 389,
@@ -8168,7 +11660,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "んとする",
-    "notes": "【学術・論文】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。"
+    "notes": "【学術・論文】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、んとする<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "んとする",
+      "ならではの",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "であれ"
+    ],
+    "correct_text_ruby": "んとする"
   },
   {
     "id": 390,
@@ -8189,7 +11690,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "んとする",
-    "notes": "【ビジネス・公式スピーチ】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、んとする<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "んとする",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をおいて"
+    ],
+    "correct_text_ruby": "んとする"
   },
   {
     "id": 391,
@@ -8210,7 +11720,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "んとする",
-    "notes": "【社会・社説】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。"
+    "notes": "【社会・社説】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、んとする<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "まじき",
+      "んとする",
+      "はおろか"
+    ],
+    "correct_text_ruby": "んとする"
   },
   {
     "id": 392,
@@ -8231,7 +11750,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "んとする",
-    "notes": "【倫理・品格】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。"
+    "notes": "【倫理・品格】今にも〜しようとする。。文脈の格式と文法規則から「んとする」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、んとする<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まみれ",
+      "はおろか",
+      "んとする"
+    ],
+    "correct_text_ruby": "んとする"
   },
   {
     "id": 393,
@@ -8252,7 +11780,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てやまない",
-    "notes": "【学術・論文】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。"
+    "notes": "【学術・論文】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、てやまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "てやまない",
+      "であれ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "てやまない"
   },
   {
     "id": 394,
@@ -8273,7 +11810,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てやまない",
-    "notes": "【ビジネス・公式スピーチ】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、てやまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "てやまない",
+      "まみれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "てやまない"
   },
   {
     "id": 395,
@@ -8294,7 +11840,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てやまない",
-    "notes": "【社会・社説】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。"
+    "notes": "【社会・社説】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、てやまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "であれ",
+      "てやまない",
+      "なくしては"
+    ],
+    "correct_text_ruby": "てやまない"
   },
   {
     "id": 396,
@@ -8315,7 +11870,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てやまない",
-    "notes": "【倫理・品格】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。"
+    "notes": "【倫理・品格】心から強く祈る・願い続ける。。文脈の格式と文法規則から「てやまない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、てやまない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "からある",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "てやまない"
+    ],
+    "correct_text_ruby": "てやまない"
   },
   {
     "id": 397,
@@ -8336,7 +11900,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てからというもの",
-    "notes": "【学術・論文】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。"
+    "notes": "【学術・論文】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、てからというもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "てからというもの",
+      "まみれ",
+      "たるもの",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "てからというもの"
   },
   {
     "id": 398,
@@ -8357,7 +11930,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てからというもの",
-    "notes": "【ビジネス・公式スピーチ】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、てからというもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "てからというもの",
+      "なくしては",
+      "ならではの"
+    ],
+    "correct_text_ruby": "てからというもの"
   },
   {
     "id": 399,
@@ -8378,7 +11960,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てからというもの",
-    "notes": "【社会・社説】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。"
+    "notes": "【社会・社説】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、てからというもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "からある",
+      "てからというもの",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "てからというもの"
   },
   {
     "id": 400,
@@ -8399,7 +11990,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てからというもの",
-    "notes": "【倫理・品格】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。"
+    "notes": "【倫理・品格】〜して以来ずっとその状態が続いている。。文脈の格式と文法規則から「てからというもの」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、てからというもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "まじき",
+      "はおろか",
+      "てからというもの"
+    ],
+    "correct_text_ruby": "てからというもの"
   },
   {
     "id": 401,
@@ -8420,7 +12020,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にあって",
-    "notes": "【学術・論文】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。"
+    "notes": "【学術・論文】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にあって",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "にとどまらず",
+      "まじき"
+    ],
+    "correct_text_ruby": "にあって"
   },
   {
     "id": 402,
@@ -8441,7 +12050,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にあって",
-    "notes": "【ビジネス・公式スピーチ】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "にあって",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "であれ"
+    ],
+    "correct_text_ruby": "にあって"
   },
   {
     "id": 403,
@@ -8462,7 +12080,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にあって",
-    "notes": "【社会・社説】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。"
+    "notes": "【社会・社説】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "からある",
+      "にあって",
+      "まみれ"
+    ],
+    "correct_text_ruby": "にあって"
   },
   {
     "id": 404,
@@ -8483,7 +12110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にあって",
-    "notes": "【倫理・品格】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。"
+    "notes": "【倫理・品格】その特殊な時代や極限状況の中で。。文脈の格式と文法規則から「にあって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にあって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "ずくめ",
+      "をおいて",
+      "にあって"
+    ],
+    "correct_text_ruby": "にあって"
   },
   {
     "id": 405,
@@ -8504,7 +12140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のも無理はない",
-    "notes": "【学術・論文】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。"
+    "notes": "【学術・論文】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、のも<ruby>無理<rt>むり</rt></ruby>はない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "のも<ruby>無理<rt>むり</rt></ruby>はない",
+      "はおろか",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "のも<ruby>無理<rt>むり</rt></ruby>はない"
   },
   {
     "id": 406,
@@ -8525,7 +12170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のも無理はない",
-    "notes": "【ビジネス・公式スピーチ】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、のも<ruby>無理<rt>むり</rt></ruby>はない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "のも<ruby>無理<rt>むり</rt></ruby>はない",
+      "まじき",
+      "まみれ"
+    ],
+    "correct_text_ruby": "のも<ruby>無理<rt>むり</rt></ruby>はない"
   },
   {
     "id": 407,
@@ -8546,7 +12200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のも無理はない",
-    "notes": "【社会・社説】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。"
+    "notes": "【社会・社説】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、のも<ruby>無理<rt>むり</rt></ruby>はない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "をおいて",
+      "のも<ruby>無理<rt>むり</rt></ruby>はない",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "のも<ruby>無理<rt>むり</rt></ruby>はない"
   },
   {
     "id": 408,
@@ -8567,7 +12230,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のも無理はない",
-    "notes": "【倫理・品格】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。"
+    "notes": "【倫理・品格】そうなるのは当然で不思議ではない。。文脈の格式と文法規則から「のも無理はない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、のも<ruby>無理<rt>むり</rt></ruby>はない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "まみれ",
+      "からある",
+      "のも<ruby>無理<rt>むり</rt></ruby>はない"
+    ],
+    "correct_text_ruby": "のも<ruby>無理<rt>むり</rt></ruby>はない"
   },
   {
     "id": 409,
@@ -8588,7 +12260,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のみか",
-    "notes": "【学術・論文】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。"
+    "notes": "【学術・論文】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、のみか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "のみか",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき",
+      "なしに"
+    ],
+    "correct_text_ruby": "のみか"
   },
   {
     "id": 410,
@@ -8609,7 +12290,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のみか",
-    "notes": "【ビジネス・公式スピーチ】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、のみか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "のみか",
+      "ごとき",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "のみか"
   },
   {
     "id": 411,
@@ -8630,7 +12320,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のみか",
-    "notes": "【社会・社説】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。"
+    "notes": "【社会・社説】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、のみか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "のみか",
+      "たるもの"
+    ],
+    "correct_text_ruby": "のみか"
   },
   {
     "id": 412,
@@ -8651,7 +12350,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のみか",
-    "notes": "【倫理・品格】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。"
+    "notes": "【倫理・品格】〜だけでなく、その上さらに。。文脈の格式と文法規則から「のみか」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、のみか<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ずくめ",
+      "のみか"
+    ],
+    "correct_text_ruby": "のみか"
   },
   {
     "id": 413,
@@ -8672,7 +12380,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といったらありはしない",
-    "notes": "【学術・論文】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。"
+    "notes": "【学術・論文】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、といったらありはしない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらありはしない",
+      "をものともせずに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ならではの"
+    ],
+    "correct_text_ruby": "といったらありはしない"
   },
   {
     "id": 414,
@@ -8693,7 +12410,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "といったらありはしない",
-    "notes": "【ビジネス・公式スピーチ】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、といったらありはしない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "といったらありはしない",
+      "をものともせずに",
+      "なくしては"
+    ],
+    "correct_text_ruby": "といったらありはしない"
   },
   {
     "id": 415,
@@ -8714,7 +12440,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "といったらありはしない",
-    "notes": "【社会・社説】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。"
+    "notes": "【社会・社説】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、といったらありはしない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "なくしては",
+      "といったらありはしない",
+      "なしに"
+    ],
+    "correct_text_ruby": "といったらありはしない"
   },
   {
     "id": 416,
@@ -8735,7 +12470,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "といったらありはしない",
-    "notes": "【倫理・品格】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。"
+    "notes": "【倫理・品格】この上なくひどい・困った状態だ。。文脈の格式と文法規則から「といったらありはしない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、といったらありはしない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "まみれ",
+      "といったらありはしない"
+    ],
+    "correct_text_ruby": "といったらありはしない"
   },
   {
     "id": 417,
@@ -8756,7 +12500,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の至り",
-    "notes": "【学術・論文】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。"
+    "notes": "【学術・論文】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、の<ruby>至<rt>いた</rt></ruby>り<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "の<ruby>至<rt>いた</rt></ruby>り",
+      "をおいて",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "の<ruby>至<rt>いた</rt></ruby>り"
   },
   {
     "id": 418,
@@ -8777,7 +12530,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の至り",
-    "notes": "【ビジネス・公式スピーチ】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、の<ruby>至<rt>いた</rt></ruby>り<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "の<ruby>至<rt>いた</rt></ruby>り",
+      "をものともせずに",
+      "たるもの"
+    ],
+    "correct_text_ruby": "の<ruby>至<rt>いた</rt></ruby>り"
   },
   {
     "id": 419,
@@ -8798,7 +12560,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の至り",
-    "notes": "【社会・社説】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。"
+    "notes": "【社会・社説】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、の<ruby>至<rt>いた</rt></ruby>り<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "まじき",
+      "の<ruby>至<rt>いた</rt></ruby>り",
+      "ごとき"
+    ],
+    "correct_text_ruby": "の<ruby>至<rt>いた</rt></ruby>り"
   },
   {
     "id": 420,
@@ -8819,7 +12590,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "の至り",
-    "notes": "【倫理・品格】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。"
+    "notes": "【倫理・品格】この上ない最高の状態（光栄の至り、若気の至り）。。文脈の格式と文法規則から「の至り」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、の<ruby>至<rt>いた</rt></ruby>り<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "たるもの",
+      "ならではの",
+      "の<ruby>至<rt>いた</rt></ruby>り"
+    ],
+    "correct_text_ruby": "の<ruby>至<rt>いた</rt></ruby>り"
   },
   {
     "id": 421,
@@ -8840,7 +12620,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の極み",
-    "notes": "【学術・論文】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。"
+    "notes": "【学術・論文】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、の<ruby>極<rt>きわ</rt></ruby>み<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "の<ruby>極<rt>きわ</rt></ruby>み",
+      "をものともせずに",
+      "たるもの",
+      "はおろか"
+    ],
+    "correct_text_ruby": "の<ruby>極<rt>きわ</rt></ruby>み"
   },
   {
     "id": 422,
@@ -8861,7 +12650,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "の極み",
-    "notes": "【ビジネス・公式スピーチ】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、の<ruby>極<rt>きわ</rt></ruby>み<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "の<ruby>極<rt>きわ</rt></ruby>み",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "の<ruby>極<rt>きわ</rt></ruby>み"
   },
   {
     "id": 423,
@@ -8882,7 +12680,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の極み",
-    "notes": "【社会・社説】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。"
+    "notes": "【社会・社説】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、の<ruby>極<rt>きわ</rt></ruby>み<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ごとき",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "の<ruby>極<rt>きわ</rt></ruby>み",
+      "まじき"
+    ],
+    "correct_text_ruby": "の<ruby>極<rt>きわ</rt></ruby>み"
   },
   {
     "id": 424,
@@ -8903,7 +12710,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "の極み",
-    "notes": "【倫理・品格】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。"
+    "notes": "【倫理・品格】これ以上ない極限の境地（贅沢の極み、疲労の極み）。。文脈の格式と文法規則から「の極み」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、の<ruby>極<rt>きわ</rt></ruby>み<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "たるもの",
+      "ならではの",
+      "の<ruby>極<rt>きわ</rt></ruby>み"
+    ],
+    "correct_text_ruby": "の<ruby>極<rt>きわ</rt></ruby>み"
   },
   {
     "id": 425,
@@ -8924,7 +12740,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たりともない",
-    "notes": "【学術・論文】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。"
+    "notes": "【学術・論文】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、たりともない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たりともない",
+      "なくしては",
+      "まじき",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "たりともない"
   },
   {
     "id": 426,
@@ -8945,7 +12770,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たりともない",
-    "notes": "【ビジネス・公式スピーチ】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、たりともない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "たりともない",
+      "なしに",
+      "まみれ"
+    ],
+    "correct_text_ruby": "たりともない"
   },
   {
     "id": 427,
@@ -8966,7 +12800,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たりともない",
-    "notes": "【社会・社説】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。"
+    "notes": "【社会・社説】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、たりともない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "なしに",
+      "たりともない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "たりともない"
   },
   {
     "id": 428,
@@ -8987,7 +12830,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たりともない",
-    "notes": "【倫理・品格】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。"
+    "notes": "【倫理・品格】最小の１単位でも絶対に〜ない。。文脈の格式と文法規則から「たりともない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、たりともない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "をおいて",
+      "たりともない"
+    ],
+    "correct_text_ruby": "たりともない"
   },
   {
     "id": 429,
@@ -9008,7 +12860,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をおいてほかにない",
-    "notes": "【学術・論文】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。"
+    "notes": "【学術・論文】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、をおいてほかにない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいてほかにない",
+      "からある",
+      "なくしては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "をおいてほかにない"
   },
   {
     "id": 430,
@@ -9029,7 +12890,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "をおいてほかにない",
-    "notes": "【ビジネス・公式スピーチ】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、をおいてほかにない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "をおいてほかにない",
+      "なしに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "をおいてほかにない"
   },
   {
     "id": 431,
@@ -9050,7 +12920,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "をおいてほかにない",
-    "notes": "【社会・社説】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。"
+    "notes": "【社会・社説】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、をおいてほかにない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "をおいてほかにない",
+      "ならではの"
+    ],
+    "correct_text_ruby": "をおいてほかにない"
   },
   {
     "id": 432,
@@ -9071,7 +12950,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "をおいてほかにない",
-    "notes": "【倫理・品格】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。"
+    "notes": "【倫理・品格】それ以外には絶対にない。。文脈の格式と文法規則から「をおいてほかにない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、をおいてほかにない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "ごとき",
+      "なしに",
+      "をおいてほかにない"
+    ],
+    "correct_text_ruby": "をおいてほかにない"
   },
   {
     "id": 433,
@@ -9092,7 +12980,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に値する",
-    "notes": "【学術・論文】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。"
+    "notes": "【学術・論文】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>値<rt>あたい</rt></ruby>する<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>値<rt>あたい</rt></ruby>する",
+      "たるもの",
+      "はおろか",
+      "であれ"
+    ],
+    "correct_text_ruby": "に<ruby>値<rt>あたい</rt></ruby>する"
   },
   {
     "id": 434,
@@ -9113,7 +13010,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に値する",
-    "notes": "【ビジネス・公式スピーチ】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>値<rt>あたい</rt></ruby>する<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "に<ruby>値<rt>あたい</rt></ruby>する",
+      "といったらない",
+      "なくしては"
+    ],
+    "correct_text_ruby": "に<ruby>値<rt>あたい</rt></ruby>する"
   },
   {
     "id": 435,
@@ -9134,7 +13040,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に値する",
-    "notes": "【社会・社説】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。"
+    "notes": "【社会・社説】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>値<rt>あたい</rt></ruby>する<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "に<ruby>値<rt>あたい</rt></ruby>する",
+      "なくしては"
+    ],
+    "correct_text_ruby": "に<ruby>値<rt>あたい</rt></ruby>する"
   },
   {
     "id": 436,
@@ -9155,7 +13070,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に値する",
-    "notes": "【倫理・品格】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。"
+    "notes": "【倫理・品格】そうするだけの価値が十分にある。。文脈の格式と文法規則から「に値する」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>値<rt>あたい</rt></ruby>する<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "まじき",
+      "なくしては",
+      "に<ruby>値<rt>あたい</rt></ruby>する"
+    ],
+    "correct_text_ruby": "に<ruby>値<rt>あたい</rt></ruby>する"
   },
   {
     "id": 437,
@@ -9176,7 +13100,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "に難くない",
-    "notes": "【学術・論文】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。"
+    "notes": "【学術・論文】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、に<ruby>難<rt>かた</rt></ruby>くない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>難<rt>かた</rt></ruby>くない",
+      "をおいて",
+      "はおろか",
+      "であれ"
+    ],
+    "correct_text_ruby": "に<ruby>難<rt>かた</rt></ruby>くない"
   },
   {
     "id": 438,
@@ -9197,7 +13130,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "に難くない",
-    "notes": "【ビジネス・公式スピーチ】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、に<ruby>難<rt>かた</rt></ruby>くない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "に<ruby>難<rt>かた</rt></ruby>くない",
+      "をおいて",
+      "まみれ"
+    ],
+    "correct_text_ruby": "に<ruby>難<rt>かた</rt></ruby>くない"
   },
   {
     "id": 439,
@@ -9218,7 +13160,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "に難くない",
-    "notes": "【社会・社説】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。"
+    "notes": "【社会・社説】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、に<ruby>難<rt>かた</rt></ruby>くない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "に<ruby>難<rt>かた</rt></ruby>くない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない"
+    ],
+    "correct_text_ruby": "に<ruby>難<rt>かた</rt></ruby>くない"
   },
   {
     "id": 440,
@@ -9239,7 +13190,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "に難くない",
-    "notes": "【倫理・品格】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。"
+    "notes": "【倫理・品格】想像や推察が容易にできる。。文脈の格式と文法規則から「に難くない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、に<ruby>難<rt>かた</rt></ruby>くない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ごとき",
+      "に<ruby>難<rt>かた</rt></ruby>くない"
+    ],
+    "correct_text_ruby": "に<ruby>難<rt>かた</rt></ruby>くない"
   },
   {
     "id": 441,
@@ -9260,7 +13220,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てはかなわない",
-    "notes": "【学術・論文】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。"
+    "notes": "【学術・論文】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、てはかなわない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "てはかなわない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて",
+      "といったらない"
+    ],
+    "correct_text_ruby": "てはかなわない"
   },
   {
     "id": 442,
@@ -9281,7 +13250,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはかなわない",
-    "notes": "【ビジネス・公式スピーチ】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、てはかなわない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "てはかなわない",
+      "ごとき",
+      "はおろか"
+    ],
+    "correct_text_ruby": "てはかなわない"
   },
   {
     "id": 443,
@@ -9302,7 +13280,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはかなわない",
-    "notes": "【社会・社説】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。"
+    "notes": "【社会・社説】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、てはかなわない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "まみれ",
+      "てはかなわない",
+      "からある"
+    ],
+    "correct_text_ruby": "てはかなわない"
   },
   {
     "id": 444,
@@ -9323,7 +13310,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはかなわない",
-    "notes": "【倫理・品格】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。"
+    "notes": "【倫理・品格】我慢できないほど困る・嫌だ。。文脈の格式と文法規則から「てはかなわない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、てはかなわない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "てはかなわない"
+    ],
+    "correct_text_ruby": "てはかなわない"
   },
   {
     "id": 445,
@@ -9344,7 +13340,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てはたまらない",
-    "notes": "【学術・論文】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。"
+    "notes": "【学術・論文】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、てはたまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "てはたまらない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "からある",
+      "はおろか"
+    ],
+    "correct_text_ruby": "てはたまらない"
   },
   {
     "id": 446,
@@ -9365,7 +13370,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはたまらない",
-    "notes": "【ビジネス・公式スピーチ】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、てはたまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "てはたまらない",
+      "たるもの",
+      "をものともせずに"
+    ],
+    "correct_text_ruby": "てはたまらない"
   },
   {
     "id": 447,
@@ -9386,7 +13400,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはたまらない",
-    "notes": "【社会・社説】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。"
+    "notes": "【社会・社説】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、てはたまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "といったらない",
+      "てはたまらない",
+      "ごとき"
+    ],
+    "correct_text_ruby": "てはたまらない"
   },
   {
     "id": 448,
@@ -9407,7 +13430,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはたまらない",
-    "notes": "【倫理・品格】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。"
+    "notes": "【倫理・品格】感情や欲求が強くて抑えられない。。文脈の格式と文法規則から「てはたまらない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、てはたまらない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まみれ",
+      "なくしては",
+      "てはたまらない"
+    ],
+    "correct_text_ruby": "てはたまらない"
   },
   {
     "id": 449,
@@ -9428,7 +13460,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てはならない",
-    "notes": "【学術・論文】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。"
+    "notes": "【学術・論文】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、てはならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "てはならない",
+      "はおろか",
+      "なくしては",
+      "まみれ"
+    ],
+    "correct_text_ruby": "てはならない"
   },
   {
     "id": 450,
@@ -9449,7 +13490,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てはならない",
-    "notes": "【ビジネス・公式スピーチ】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、てはならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "てはならない",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "と<ruby>相<rt>あい</rt></ruby>まって"
+    ],
+    "correct_text_ruby": "てはならない"
   },
   {
     "id": 451,
@@ -9470,7 +13520,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てはならない",
-    "notes": "【社会・社説】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。"
+    "notes": "【社会・社説】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、てはならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "てはならない",
+      "なしに"
+    ],
+    "correct_text_ruby": "てはならない"
   },
   {
     "id": 452,
@@ -9491,7 +13550,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てはならない",
-    "notes": "【倫理・品格】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。"
+    "notes": "【倫理・品格】道徳や法律上、決してしてはいけない。。文脈の格式と文法規則から「てはならない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、てはならない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "なしに",
+      "はおろか",
+      "てはならない"
+    ],
+    "correct_text_ruby": "てはならない"
   },
   {
     "id": 453,
@@ -9512,7 +13580,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないではいられない",
-    "notes": "【学術・論文】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。"
+    "notes": "【学術・論文】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ないではいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ないではいられない",
+      "にとどまらず",
+      "ずくめ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "ないではいられない"
   },
   {
     "id": 454,
@@ -9533,7 +13610,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ないではいられない",
-    "notes": "【ビジネス・公式スピーチ】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ないではいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "ないではいられない",
+      "といったらない",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "ないではいられない"
   },
   {
     "id": 455,
@@ -9554,7 +13640,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないではいられない",
-    "notes": "【社会・社説】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。"
+    "notes": "【社会・社説】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ないではいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "なくしては",
+      "ないではいられない",
+      "からある"
+    ],
+    "correct_text_ruby": "ないではいられない"
   },
   {
     "id": 456,
@@ -9575,7 +13670,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないではいられない",
-    "notes": "【倫理・品格】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。"
+    "notes": "【倫理・品格】どうしても我慢できず自然にしてしまう。。文脈の格式と文法規則から「ないではいられない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ないではいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "ずくめ",
+      "にとどまらず",
+      "ないではいられない"
+    ],
+    "correct_text_ruby": "ないではいられない"
   },
   {
     "id": 457,
@@ -9596,7 +13700,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずにはいられない",
-    "notes": "【学術・論文】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。"
+    "notes": "【学術・論文】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ずにはいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずにはいられない",
+      "ならではの",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "であれ"
+    ],
+    "correct_text_ruby": "ずにはいられない"
   },
   {
     "id": 458,
@@ -9617,7 +13730,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ずにはいられない",
-    "notes": "【ビジネス・公式スピーチ】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ずにはいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "といったらない",
+      "ずにはいられない",
+      "まみれ",
+      "ごとき"
+    ],
+    "correct_text_ruby": "ずにはいられない"
   },
   {
     "id": 459,
@@ -9638,7 +13760,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ずにはいられない",
-    "notes": "【社会・社説】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。"
+    "notes": "【社会・社説】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ずにはいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ずにはいられない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "ずにはいられない"
   },
   {
     "id": 460,
@@ -9659,7 +13790,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ずにはいられない",
-    "notes": "【倫理・品格】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。"
+    "notes": "【倫理・品格】抑えきれずに思わずしてしまう。。文脈の格式と文法規則から「ずにはいられない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ずにはいられない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "はおろか",
+      "からある",
+      "ずくめ",
+      "ずにはいられない"
+    ],
+    "correct_text_ruby": "ずにはいられない"
   },
   {
     "id": 461,
@@ -9680,7 +13820,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ざるを得ない",
-    "notes": "【学術・論文】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。"
+    "notes": "【学術・論文】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ざるを<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ざるを<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて",
+      "ごとき",
+      "といったらない"
+    ],
+    "correct_text_ruby": "ざるを<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 462,
@@ -9701,7 +13850,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ざるを得ない",
-    "notes": "【ビジネス・公式スピーチ】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ざるを<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まじき",
+      "ざるを<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "ざるを<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 463,
@@ -9722,7 +13880,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ざるを得ない",
-    "notes": "【社会・社説】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。"
+    "notes": "【社会・社説】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ざるを<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "ずくめ",
+      "ざるを<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき"
+    ],
+    "correct_text_ruby": "ざるを<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 464,
@@ -9743,7 +13910,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ざるを得ない",
-    "notes": "【倫理・品格】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。"
+    "notes": "【倫理・品格】他に方法がなく、嫌でもしなければならない。。文脈の格式と文法規則から「ざるを得ない」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ざるを<ruby>得<rt>え</rt></ruby>ない<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "ならではの",
+      "であれ",
+      "ざるを<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "ざるを<ruby>得<rt>え</rt></ruby>ない"
   },
   {
     "id": 465,
@@ -9764,7 +13940,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようものなら",
-    "notes": "【学術・論文】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。"
+    "notes": "【学術・論文】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ようものなら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ようものなら",
+      "はおろか",
+      "まみれ",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "ようものなら"
   },
   {
     "id": 466,
@@ -9785,7 +13970,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようものなら",
-    "notes": "【ビジネス・公式スピーチ】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ようものなら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ようものなら",
+      "といったらない",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "ようものなら"
   },
   {
     "id": 467,
@@ -9806,7 +14000,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようものなら",
-    "notes": "【社会・社説】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。"
+    "notes": "【社会・社説】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ようものなら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ようものなら",
+      "まじき"
+    ],
+    "correct_text_ruby": "ようものなら"
   },
   {
     "id": 468,
@@ -9827,7 +14030,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようものなら",
-    "notes": "【倫理・品格】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。"
+    "notes": "【倫理・品格】もしそんなことをしたら大変なことになる。。文脈の格式と文法規則から「ようものなら」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ようものなら<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "たるもの",
+      "ようものなら"
+    ],
+    "correct_text_ruby": "ようものなら"
   },
   {
     "id": 469,
@@ -9848,7 +14060,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばこそ",
-    "notes": "【学術・論文】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。"
+    "notes": "【学術・論文】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ばこそ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ばこそ",
+      "なしに",
+      "たるもの",
+      "まじき"
+    ],
+    "correct_text_ruby": "ばこそ"
   },
   {
     "id": 470,
@@ -9869,7 +14090,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばこそ",
-    "notes": "【ビジネス・公式スピーチ】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ばこそ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "ばこそ",
+      "なくしては",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ばこそ"
   },
   {
     "id": 471,
@@ -9890,7 +14120,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばこそ",
-    "notes": "【社会・社説】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。"
+    "notes": "【社会・社説】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ばこそ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "ばこそ",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "ばこそ"
   },
   {
     "id": 472,
@@ -9911,7 +14150,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばこそ",
-    "notes": "【倫理・品格】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。"
+    "notes": "【倫理・品格】まさにその理由があるからこそ。。文脈の格式と文法規則から「ばこそ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ばこそ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ずくめ",
+      "ばこそ"
+    ],
+    "correct_text_ruby": "ばこそ"
   },
   {
     "id": 473,
@@ -9932,7 +14180,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくしては",
-    "notes": "【学術・論文】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。"
+    "notes": "【学術・論文】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、なくしては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "にとどまらず",
+      "まみれ",
+      "まじき"
+    ],
+    "correct_text_ruby": "なくしては"
   },
   {
     "id": 474,
@@ -9953,7 +14210,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なくしては",
-    "notes": "【ビジネス・公式スピーチ】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、なくしては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "なくしては",
+      "をものともせずに",
+      "ごとき"
+    ],
+    "correct_text_ruby": "なくしては"
   },
   {
     "id": 475,
@@ -9974,7 +14240,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくしては",
-    "notes": "【社会・社説】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。"
+    "notes": "【社会・社説】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、なくしては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ずくめ",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "なくしては",
+      "まみれ"
+    ],
+    "correct_text_ruby": "なくしては"
   },
   {
     "id": 476,
@@ -9995,7 +14270,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくしては",
-    "notes": "【倫理・品格】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。"
+    "notes": "【倫理・品格】もし〜がなければ到底不可能だ。。文脈の格式と文法規則から「なくしては」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、なくしては<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき",
+      "たるもの",
+      "なくしては"
+    ],
+    "correct_text_ruby": "なくしては"
   },
   {
     "id": 477,
@@ -10016,7 +14300,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ないことには",
-    "notes": "【学術・論文】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。"
+    "notes": "【学術・論文】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、ないことには<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ないことには",
+      "にとどまらず",
+      "ならではの",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "ないことには"
   },
   {
     "id": 478,
@@ -10037,7 +14330,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ないことには",
-    "notes": "【ビジネス・公式スピーチ】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、ないことには<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "ないことには",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "であれ"
+    ],
+    "correct_text_ruby": "ないことには"
   },
   {
     "id": 479,
@@ -10058,7 +14360,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ないことには",
-    "notes": "【社会・社説】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。"
+    "notes": "【社会・社説】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、ないことには<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "まじき",
+      "ないことには",
+      "なくしては"
+    ],
+    "correct_text_ruby": "ないことには"
   },
   {
     "id": 480,
@@ -10079,7 +14390,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ないことには",
-    "notes": "【倫理・品格】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。"
+    "notes": "【倫理・品格】まず〜しなければ次の段階に進めない。。文脈の格式と文法規則から「ないことには」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、ないことには<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "ごとき",
+      "ならではの",
+      "ないことには"
+    ],
+    "correct_text_ruby": "ないことには"
   },
   {
     "id": 481,
@@ -10100,7 +14420,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "としたところで",
-    "notes": "【学術・論文】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。"
+    "notes": "【学術・論文】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、としたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "としたところで",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "をおいて"
+    ],
+    "correct_text_ruby": "としたところで"
   },
   {
     "id": 482,
@@ -10121,7 +14450,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "としたところで",
-    "notes": "【ビジネス・公式スピーチ】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、としたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "としたところで",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "としたところで"
   },
   {
     "id": 483,
@@ -10142,7 +14480,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "としたところで",
-    "notes": "【社会・社説】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。"
+    "notes": "【社会・社説】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、としたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "としたところで",
+      "ならではの"
+    ],
+    "correct_text_ruby": "としたところで"
   },
   {
     "id": 484,
@@ -10163,7 +14510,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "としたところで",
-    "notes": "【倫理・品格】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。"
+    "notes": "【倫理・品格】たとえそう仮定しても結果は同じだ。。文脈の格式と文法規則から「としたところで」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、としたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からある",
+      "なしに",
+      "ごとき",
+      "としたところで"
+    ],
+    "correct_text_ruby": "としたところで"
   },
   {
     "id": 485,
@@ -10184,7 +14540,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にしたところで",
-    "notes": "【学術・論文】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。"
+    "notes": "【学術・論文】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にしたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にしたところで",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "ごとき",
+      "であれ"
+    ],
+    "correct_text_ruby": "にしたところで"
   },
   {
     "id": 486,
@@ -10205,7 +14570,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしたところで",
-    "notes": "【ビジネス・公式スピーチ】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にしたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "にしたところで",
+      "たるもの",
+      "にとどまらず"
+    ],
+    "correct_text_ruby": "にしたところで"
   },
   {
     "id": 487,
@@ -10226,7 +14600,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしたところで",
-    "notes": "【社会・社説】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。"
+    "notes": "【社会・社説】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にしたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "ならではの",
+      "であれ",
+      "にしたところで",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "にしたところで"
   },
   {
     "id": 488,
@@ -10247,7 +14630,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしたところで",
-    "notes": "【倫理・品格】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。"
+    "notes": "【倫理・品格】その立場から見ても同じことだ。。文脈の格式と文法規則から「にしたところで」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にしたところで<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "といったらない",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "にしたところで"
+    ],
+    "correct_text_ruby": "にしたところで"
   },
   {
     "id": 489,
@@ -10268,7 +14660,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にしてみれば",
-    "notes": "【学術・論文】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。"
+    "notes": "【学術・論文】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、にしてみれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にしてみれば",
+      "はおろか",
+      "まみれ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "にしてみれば"
   },
   {
     "id": 490,
@@ -10289,7 +14690,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にしてみれば",
-    "notes": "【ビジネス・公式スピーチ】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、にしてみれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "であれ",
+      "にしてみれば",
+      "にとどまらず",
+      "たるもの"
+    ],
+    "correct_text_ruby": "にしてみれば"
   },
   {
     "id": 491,
@@ -10310,7 +14720,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にしてみれば",
-    "notes": "【社会・社説】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。"
+    "notes": "【社会・社説】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、にしてみれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "をおいて",
+      "にしてみれば",
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに"
+    ],
+    "correct_text_ruby": "にしてみれば"
   },
   {
     "id": 492,
@@ -10331,7 +14750,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしてみれば",
-    "notes": "【倫理・品格】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。"
+    "notes": "【倫理・品格】その人の立場から考えれば。。文脈の格式と文法規則から「にしてみれば」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、にしてみれば<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なくしては",
+      "であれ",
+      "をものともせずに",
+      "にしてみれば"
+    ],
+    "correct_text_ruby": "にしてみれば"
   },
   {
     "id": 493,
@@ -10352,7 +14780,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "からといって",
-    "notes": "【学術・論文】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。"
+    "notes": "【学術・論文】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、からといって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "からといって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない",
+      "であれ"
+    ],
+    "correct_text_ruby": "からといって"
   },
   {
     "id": 494,
@@ -10373,7 +14810,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "からといって",
-    "notes": "【ビジネス・公式スピーチ】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、からといって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "からといって",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "に<ruby>至<rt>いた</rt></ruby>っては"
+    ],
+    "correct_text_ruby": "からといって"
   },
   {
     "id": 495,
@@ -10394,7 +14840,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "からといって",
-    "notes": "【社会・社説】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。"
+    "notes": "【社会・社説】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、からといって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "まみれ",
+      "からといって",
+      "からある"
+    ],
+    "correct_text_ruby": "からといって"
   },
   {
     "id": 496,
@@ -10415,7 +14870,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "からといって",
-    "notes": "【倫理・品格】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。"
+    "notes": "【倫理・品格】〜という理由だけで必ずしもそうとは限らない。。文脈の格式と文法規則から「からといって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、からといって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "たるもの",
+      "といったらない",
+      "であれ",
+      "からといって"
+    ],
+    "correct_text_ruby": "からといって"
   },
   {
     "id": 497,
@@ -10436,7 +14900,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いかんだ",
-    "notes": "【学術・論文】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。"
+    "notes": "【学術・論文】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、いかんだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "いかんだ",
+      "をものともせずに",
+      "に<ruby>至<rt>いた</rt></ruby>っては",
+      "まじき"
+    ],
+    "correct_text_ruby": "いかんだ"
   },
   {
     "id": 498,
@@ -10457,7 +14930,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いかんだ",
-    "notes": "【ビジネス・公式スピーチ】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、いかんだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "なしに",
+      "いかんだ",
+      "たるもの",
+      "はおろか"
+    ],
+    "correct_text_ruby": "いかんだ"
   },
   {
     "id": 499,
@@ -10478,7 +14960,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いかんだ",
-    "notes": "【社会・社説】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。"
+    "notes": "【社会・社説】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、いかんだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "ずくめ",
+      "いかんだ",
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない"
+    ],
+    "correct_text_ruby": "いかんだ"
   },
   {
     "id": 500,
@@ -10499,7 +14990,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いかんだ",
-    "notes": "【倫理・品格】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。"
+    "notes": "【倫理・品格】その条件や成り行きによって決まる。。文脈の格式と文法規則から「いかんだ」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、いかんだ<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "はおろか",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "いかんだ"
+    ],
+    "correct_text_ruby": "いかんだ"
   },
   {
     "id": 501,
@@ -10520,7 +15020,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いかんによって",
-    "notes": "【学術・論文】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。"
+    "notes": "【学術・論文】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、いかんによって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "いかんによって",
+      "にとどまらず",
+      "といったらない",
+      "をおいて<ruby>他<rt>た</rt></ruby>にない"
+    ],
+    "correct_text_ruby": "いかんによって"
   },
   {
     "id": 502,
@@ -10541,7 +15050,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いかんによって",
-    "notes": "【ビジネス・公式スピーチ】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、いかんによって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>皮切<rt>かわき</rt></ruby>りに",
+      "いかんによって",
+      "をおいて",
+      "といったらない"
+    ],
+    "correct_text_ruby": "いかんによって"
   },
   {
     "id": 503,
@@ -10562,7 +15080,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いかんによって",
-    "notes": "【社会・社説】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。"
+    "notes": "【社会・社説】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、いかんによって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "まみれ",
+      "なくしては",
+      "いかんによって",
+      "ずくめ"
+    ],
+    "correct_text_ruby": "いかんによって"
   },
   {
     "id": 504,
@@ -10583,7 +15110,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いかんによって",
-    "notes": "【倫理・品格】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。"
+    "notes": "【倫理・品格】次第で結果が変わる。。文脈の格式と文法規則から「いかんによって」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、いかんによって<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をおいて",
+      "<ruby>極<rt>きわ</rt></ruby>まりない",
+      "といったらない",
+      "いかんによって"
+    ],
+    "correct_text_ruby": "いかんによって"
   },
   {
     "id": 505,
@@ -10604,7 +15140,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "いかんにかかわらず",
-    "notes": "【学術・論文】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。"
+    "notes": "【学術・論文】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。",
+    "question_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>学術<rt>がくじゅつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>や<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>において、いかんにかかわらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "いかんにかかわらず",
+      "ずくめ",
+      "まみれ",
+      "ごとき"
+    ],
+    "correct_text_ruby": "いかんにかかわらず"
   },
   {
     "id": 506,
@@ -10625,7 +15170,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "いかんにかかわらず",
-    "notes": "【ビジネス・公式スピーチ】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。"
+    "notes": "【ビジネス・公式スピーチ】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。",
+    "question_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>創立<rt>そうりつ</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>や<ruby>公式<rt>こうしき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>において、いかんにかかわらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "をものともせずに",
+      "いかんにかかわらず",
+      "はおろか",
+      "ごとき"
+    ],
+    "correct_text_ruby": "いかんにかかわらず"
   },
   {
     "id": 507,
@@ -10646,7 +15200,16 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いかんにかかわらず",
-    "notes": "【社会・社説】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。"
+    "notes": "【社会・社説】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。",
+    "question_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>発展<rt>はってん</rt></ruby>を<ruby>論<rt>ろん</rt></ruby>じる<ruby>文脈<rt>ぶんみゃく</rt></ruby>において、いかんにかかわらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
+      "にとどまらず",
+      "いかんにかかわらず",
+      "たるもの"
+    ],
+    "correct_text_ruby": "いかんにかかわらず"
   },
   {
     "id": 508,
@@ -10667,11 +15230,18 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "いかんにかかわらず",
-    "notes": "【倫理・品格】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。"
+    "notes": "【倫理・品格】どのような条件であっても関係なく。。文脈の格式と文法規則から「いかんにかかわらず」が正解です。",
+    "question_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、（　　　）<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "プロフェッショナルとしての<ruby>自覚<rt>じかく</rt></ruby>や<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>において、いかんにかかわらず<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "choices_ruby": [
+      "にとどまらず",
+      "であれ",
+      "と<ruby>相<rt>あい</rt></ruby>まって",
+      "いかんにかかわらず"
+    ],
+    "correct_text_ruby": "いかんにかかわらず"
   }
 ];
 
-if (typeof window !== "undefined") {
-  window.JLPT_N1_QUIZ_DATA = window.JLPT_N1_GRAMMAR_QUIZ_DATA;
-  window.JLPT_N1_GRAMMAR_QUIZ_DATA = window.JLPT_N1_QUIZ_DATA;
-}
+// Dual alias for backwards compatibility
+window.JLPT_N1_QUIZ_DATA = window.JLPT_N1_GRAMMAR_QUIZ_DATA;

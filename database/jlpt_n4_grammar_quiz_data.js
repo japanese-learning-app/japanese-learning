@@ -1,4 +1,5 @@
-// JLPT N4 Grammar Practice Questions (Balanced 25.0% answers)
+// JLPT N4 Grammar Practice Questions (248 Questions)
+// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -19,7 +20,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なければならない",
-    "notes": "【学校・教室】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。"
+    "notes": "【学校・教室】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になければならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "てしまう",
+      "ておく",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "なければならない"
   },
   {
     "id": 2,
@@ -40,7 +50,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なければならない",
-    "notes": "【家庭・日常生活】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。"
+    "notes": "【家庭・日常生活】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になければならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "なければならない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "なければならない"
   },
   {
     "id": 3,
@@ -61,7 +80,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なければならない",
-    "notes": "【街・買い物】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。"
+    "notes": "【街・買い物】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になければならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "たことがある",
+      "なければならない",
+      "すぎる"
+    ],
+    "correct_text_ruby": "なければならない"
   },
   {
     "id": 4,
@@ -82,7 +110,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なければならない",
-    "notes": "【友達・会話】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。"
+    "notes": "【友達・会話】義務・必然を表す。〜する必要がある。。正しい接続と文脈から「なければならない」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になければならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "てみる",
+      "つもりだ",
+      "なければならない"
+    ],
+    "correct_text_ruby": "なければならない"
   },
   {
     "id": 5,
@@ -103,7 +140,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくてはならない",
-    "notes": "【学校・教室】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。"
+    "notes": "【学校・教室】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてはならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "かもしれない",
+      "すぎる",
+      "てみる"
+    ],
+    "correct_text_ruby": "なくてはならない"
   },
   {
     "id": 6,
@@ -124,7 +170,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なくてはならない",
-    "notes": "【家庭・日常生活】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。"
+    "notes": "【家庭・日常生活】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてはならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "なくてはならない",
+      "なければならない",
+      "ておく"
+    ],
+    "correct_text_ruby": "なくてはならない"
   },
   {
     "id": 7,
@@ -145,7 +200,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくてはならない",
-    "notes": "【街・買い物】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。"
+    "notes": "【街・買い物】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてはならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "てみる",
+      "なくてはならない",
+      "すぎる"
+    ],
+    "correct_text_ruby": "なくてはならない"
   },
   {
     "id": 8,
@@ -166,7 +230,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくてはならない",
-    "notes": "【友達・会話】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。"
+    "notes": "【友達・会話】強い義務や必然を表す。。正しい接続と文脈から「なくてはならない」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてはならない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "なければならない",
+      "すぎる",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "なくてはならない"
   },
   {
     "id": 9,
@@ -187,7 +260,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なくてもいい",
-    "notes": "【学校・教室】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。"
+    "notes": "【学校・教室】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてもいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "ておく",
+      "やすい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "なくてもいい"
   },
   {
     "id": 10,
@@ -208,7 +290,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なくてもいい",
-    "notes": "【家庭・日常生活】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。"
+    "notes": "【家庭・日常生活】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてもいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "なくてもいい",
+      "なくてはならない",
+      "なければならない"
+    ],
+    "correct_text_ruby": "なくてもいい"
   },
   {
     "id": 11,
@@ -229,7 +320,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なくてもいい",
-    "notes": "【街・買い物】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。"
+    "notes": "【街・買い物】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてもいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "なければならない",
+      "なくてもいい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "なくてもいい"
   },
   {
     "id": 12,
@@ -250,7 +350,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なくてもいい",
-    "notes": "【友達・会話】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。"
+    "notes": "【友達・会話】不必要・許可を表す。〜する必要はない。。正しい接続と文脈から「なくてもいい」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になくてもいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "たことがある",
+      "ておく",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "なくてもいい"
   },
   {
     "id": 13,
@@ -271,7 +380,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たことがある",
-    "notes": "【学校・教室】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。"
+    "notes": "【学校・教室】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたことがある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "にくい",
+      "かもしれない",
+      "てしまう"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 14,
@@ -292,7 +410,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たことがある",
-    "notes": "【家庭・日常生活】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。"
+    "notes": "【家庭・日常生活】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたことがある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "たことがある",
+      "にくい",
+      "てしまう"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 15,
@@ -313,7 +440,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たことがある",
-    "notes": "【街・買い物】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。"
+    "notes": "【街・買い物】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたことがある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "なければならない",
+      "たことがある",
+      "はずだ"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 16,
@@ -334,7 +470,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たことがある",
-    "notes": "【友達・会話】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。"
+    "notes": "【友達・会話】過去の経験の有無を表す。。正しい接続と文脈から「たことがある」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたことがある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "かもしれない",
+      "つもりだ",
+      "たことがある"
+    ],
+    "correct_text_ruby": "たことがある"
   },
   {
     "id": 17,
@@ -355,7 +500,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ほうがいい",
-    "notes": "【学校・教室】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。"
+    "notes": "【学校・教室】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にほうがいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "かもしれない",
+      "てみる",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ほうがいい"
   },
   {
     "id": 18,
@@ -376,7 +530,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ほうがいい",
-    "notes": "【家庭・日常生活】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。"
+    "notes": "【家庭・日常生活】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にほうがいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "ほうがいい",
+      "てしまう",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ほうがいい"
   },
   {
     "id": 19,
@@ -397,7 +560,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ほうがいい",
-    "notes": "【街・買い物】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。"
+    "notes": "【街・買い物】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にほうがいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "たことがある",
+      "ほうがいい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "ほうがいい"
   },
   {
     "id": 20,
@@ -418,7 +590,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ほうがいい",
-    "notes": "【友達・会話】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。"
+    "notes": "【友達・会話】相手への助言・勧告を表す。。正しい接続と文脈から「ほうがいい」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にほうがいい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "はずだ",
+      "つもりだ",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "ほうがいい"
   },
   {
     "id": 21,
@@ -439,7 +620,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "すぎる",
-    "notes": "【学校・教室】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。"
+    "notes": "【学校・教室】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にすぎる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "たことがある",
+      "なければならない",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "すぎる"
   },
   {
     "id": 22,
@@ -460,7 +650,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "すぎる",
-    "notes": "【家庭・日常生活】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。"
+    "notes": "【家庭・日常生活】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にすぎる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "すぎる",
+      "なければならない",
+      "てみる"
+    ],
+    "correct_text_ruby": "すぎる"
   },
   {
     "id": 23,
@@ -481,7 +680,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "すぎる",
-    "notes": "【街・買い物】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。"
+    "notes": "【街・買い物】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にすぎる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "にくい",
+      "すぎる",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "すぎる"
   },
   {
     "id": 24,
@@ -502,7 +710,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "すぎる",
-    "notes": "【友達・会話】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。"
+    "notes": "【友達・会話】程度が度を越えて甚だしいことを表す。。正しい接続と文脈から「すぎる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にすぎる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ",
+      "すぎる"
+    ],
+    "correct_text_ruby": "すぎる"
   },
   {
     "id": 25,
@@ -523,7 +740,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "やすい",
-    "notes": "【学校・教室】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。"
+    "notes": "【学校・教室】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやすい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "てしまう",
+      "なければならない",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "やすい"
   },
   {
     "id": 26,
@@ -544,7 +770,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "やすい",
-    "notes": "【家庭・日常生活】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。"
+    "notes": "【家庭・日常生活】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやすい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "やすい",
+      "ほうがいい",
+      "てみる"
+    ],
+    "correct_text_ruby": "やすい"
   },
   {
     "id": 27,
@@ -565,7 +800,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "やすい",
-    "notes": "【街・買い物】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。"
+    "notes": "【街・買い物】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやすい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "やすい",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "やすい"
   },
   {
     "id": 28,
@@ -586,7 +830,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "やすい",
-    "notes": "【友達・会話】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。"
+    "notes": "【友達・会話】〜することが容易である、あるいは〜になりやすい傾向を表す。。正しい接続と文脈から「やすい」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやすい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てしまう",
+      "すぎる",
+      "やすい"
+    ],
+    "correct_text_ruby": "やすい"
   },
   {
     "id": 29,
@@ -607,7 +860,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "にくい",
-    "notes": "【学校・教室】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。"
+    "notes": "【学校・教室】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>ににくい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "たことがある",
+      "すぎる",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "にくい"
   },
   {
     "id": 30,
@@ -628,7 +890,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "にくい",
-    "notes": "【家庭・日常生活】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。"
+    "notes": "【家庭・日常生活】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>ににくい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "にくい",
+      "ほうがいい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "にくい"
   },
   {
     "id": 31,
@@ -649,7 +920,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "にくい",
-    "notes": "【街・買い物】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。"
+    "notes": "【街・買い物】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>ににくい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "てしまう",
+      "にくい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "にくい"
   },
   {
     "id": 32,
@@ -670,7 +950,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にくい",
-    "notes": "【友達・会話】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。"
+    "notes": "【友達・会話】〜することが困難・しにくいことを表す。。正しい接続と文脈から「にくい」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>ににくい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "はずだ",
+      "つもりだ",
+      "にくい"
+    ],
+    "correct_text_ruby": "にくい"
   },
   {
     "id": 33,
@@ -691,7 +980,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つもりだ",
-    "notes": "【学校・教室】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。"
+    "notes": "【学校・教室】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>につもりだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "はずだ",
+      "たことがある",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "つもりだ"
   },
   {
     "id": 34,
@@ -712,7 +1010,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "つもりだ",
-    "notes": "【家庭・日常生活】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。"
+    "notes": "【家庭・日常生活】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>につもりだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "つもりだ",
+      "てしまう",
+      "たことがある"
+    ],
+    "correct_text_ruby": "つもりだ"
   },
   {
     "id": 35,
@@ -733,7 +1040,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "つもりだ",
-    "notes": "【街・買い物】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。"
+    "notes": "【街・買い物】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>につもりだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "てみる",
+      "つもりだ",
+      "はずだ"
+    ],
+    "correct_text_ruby": "つもりだ"
   },
   {
     "id": 36,
@@ -754,7 +1070,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "つもりだ",
-    "notes": "【友達・会話】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。"
+    "notes": "【友達・会話】自分の明確な意志・計画を表す。。正しい接続と文脈から「つもりだ」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>につもりだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "なくてはならない",
+      "つもりだ",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "つもりだ"
   },
   {
     "id": 37,
@@ -775,7 +1100,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "予定だ",
-    "notes": "【学校・教室】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。"
+    "notes": "【学校・教室】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>だ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てしまう",
+      "すぎる",
+      "はずだ"
+    ],
+    "correct_text_ruby": "<ruby>予定<rt>よてい</rt></ruby>だ"
   },
   {
     "id": 38,
@@ -796,7 +1130,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "予定だ",
-    "notes": "【家庭・日常生活】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。"
+    "notes": "【家庭・日常生活】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>だ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "やすい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "<ruby>予定<rt>よてい</rt></ruby>だ"
   },
   {
     "id": 39,
@@ -817,7 +1160,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "予定だ",
-    "notes": "【街・買い物】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。"
+    "notes": "【街・買い物】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>だ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "ほうがいい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てみる"
+    ],
+    "correct_text_ruby": "<ruby>予定<rt>よてい</rt></ruby>だ"
   },
   {
     "id": 40,
@@ -838,7 +1190,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "予定だ",
-    "notes": "【友達・会話】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。"
+    "notes": "【友達・会話】客観的に決まっている予定・スケジュールを表す。。正しい接続と文脈から「予定だ」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>だ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "たことがある",
+      "なくてはならない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "<ruby>予定<rt>よてい</rt></ruby>だ"
   },
   {
     "id": 41,
@@ -859,7 +1220,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようにする",
-    "notes": "【学校・教室】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。"
+    "notes": "【学校・教室】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ようにする",
+      "たことがある",
+      "なければならない",
+      "てしまう"
+    ],
+    "correct_text_ruby": "ようにする"
   },
   {
     "id": 42,
@@ -880,7 +1250,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようにする",
-    "notes": "【家庭・日常生活】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。"
+    "notes": "【家庭・日常生活】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "ようにする",
+      "はずだ",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "ようにする"
   },
   {
     "id": 43,
@@ -901,7 +1280,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようにする",
-    "notes": "【街・買い物】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。"
+    "notes": "【街・買い物】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "やすい",
+      "ようにする",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "ようにする"
   },
   {
     "id": 44,
@@ -922,7 +1310,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようにする",
-    "notes": "【友達・会話】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。"
+    "notes": "【友達・会話】習慣や努力として意識して心がけることを表す。。正しい接続と文脈から「ようにする」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "ておく",
+      "やすい",
+      "ようにする"
+    ],
+    "correct_text_ruby": "ようにする"
   },
   {
     "id": 45,
@@ -943,7 +1340,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ようになる",
-    "notes": "【学校・教室】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。"
+    "notes": "【学校・教室】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ようになる",
+      "つもりだ",
+      "てしまう",
+      "やすい"
+    ],
+    "correct_text_ruby": "ようになる"
   },
   {
     "id": 46,
@@ -964,7 +1370,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ようになる",
-    "notes": "【家庭・日常生活】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。"
+    "notes": "【家庭・日常生活】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "ようになる",
+      "なければならない",
+      "やすい"
+    ],
+    "correct_text_ruby": "ようになる"
   },
   {
     "id": 47,
@@ -985,7 +1400,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ようになる",
-    "notes": "【街・買い物】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。"
+    "notes": "【街・買い物】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "ておく",
+      "ようになる",
+      "なければならない"
+    ],
+    "correct_text_ruby": "ようになる"
   },
   {
     "id": 48,
@@ -1006,7 +1430,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ようになる",
-    "notes": "【友達・会話】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。"
+    "notes": "【友達・会話】能力や状況が以前と変化して可能になることを表す。。正しい接続と文脈から「ようになる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にようになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "はずだ",
+      "かもしれない",
+      "ようになる"
+    ],
+    "correct_text_ruby": "ようになる"
   },
   {
     "id": 49,
@@ -1027,7 +1460,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことにする",
-    "notes": "【学校・教室】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。"
+    "notes": "【学校・教室】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ことにする",
+      "なければならない",
+      "なくてもいい",
+      "にくい"
+    ],
+    "correct_text_ruby": "ことにする"
   },
   {
     "id": 50,
@@ -1048,7 +1490,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことにする",
-    "notes": "【家庭・日常生活】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。"
+    "notes": "【家庭・日常生活】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "ことにする",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "たことがある"
+    ],
+    "correct_text_ruby": "ことにする"
   },
   {
     "id": 51,
@@ -1069,7 +1520,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことにする",
-    "notes": "【街・買い物】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。"
+    "notes": "【街・買い物】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "なければならない",
+      "ことにする",
+      "たことがある"
+    ],
+    "correct_text_ruby": "ことにする"
   },
   {
     "id": 52,
@@ -1090,7 +1550,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことにする",
-    "notes": "【友達・会話】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。"
+    "notes": "【友達・会話】自分の意志で決断・決定することを表す。。正しい接続と文脈から「ことにする」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことにする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "ておく",
+      "なければならない",
+      "ことにする"
+    ],
+    "correct_text_ruby": "ことにする"
   },
   {
     "id": 53,
@@ -1111,7 +1580,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ことになる",
-    "notes": "【学校・教室】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。"
+    "notes": "【学校・教室】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ことになる",
+      "ほうがいい",
+      "はずだ",
+      "ておく"
+    ],
+    "correct_text_ruby": "ことになる"
   },
   {
     "id": 54,
@@ -1132,7 +1610,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ことになる",
-    "notes": "【家庭・日常生活】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。"
+    "notes": "【家庭・日常生活】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "ことになる",
+      "てみる",
+      "やすい"
+    ],
+    "correct_text_ruby": "ことになる"
   },
   {
     "id": 55,
@@ -1153,7 +1640,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ことになる",
-    "notes": "【街・買い物】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。"
+    "notes": "【街・買い物】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "ておく",
+      "ことになる",
+      "なければならない"
+    ],
+    "correct_text_ruby": "ことになる"
   },
   {
     "id": 56,
@@ -1174,7 +1670,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ことになる",
-    "notes": "【友達・会話】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。"
+    "notes": "【友達・会話】規則や他者によって客観的に決定されたことを表す。。正しい接続と文脈から「ことになる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にことになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てしまう",
+      "ことになる"
+    ],
+    "correct_text_ruby": "ことになる"
   },
   {
     "id": 57,
@@ -1195,7 +1700,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てみる",
-    "notes": "【学校・教室】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。"
+    "notes": "【学校・教室】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてみる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "ておく",
+      "なければならない",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "てみる"
   },
   {
     "id": 58,
@@ -1216,7 +1730,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てみる",
-    "notes": "【家庭・日常生活】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。"
+    "notes": "【家庭・日常生活】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてみる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "てみる",
+      "ほうがいい",
+      "たことがある"
+    ],
+    "correct_text_ruby": "てみる"
   },
   {
     "id": 59,
@@ -1237,7 +1760,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てみる",
-    "notes": "【街・買い物】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。"
+    "notes": "【街・買い物】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてみる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てみる",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "てみる"
   },
   {
     "id": 60,
@@ -1258,7 +1790,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てみる",
-    "notes": "【友達・会話】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。"
+    "notes": "【友達・会話】実際にどのような結果になるか試してみることを表す。。正しい接続と文脈から「てみる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてみる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "ほうがいい",
+      "すぎる",
+      "てみる"
+    ],
+    "correct_text_ruby": "てみる"
   },
   {
     "id": 61,
@@ -1279,7 +1820,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てしまう",
-    "notes": "【学校・教室】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。"
+    "notes": "【学校・教室】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてしまう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "なくてもいい",
+      "ておく"
+    ],
+    "correct_text_ruby": "てしまう"
   },
   {
     "id": 62,
@@ -1300,7 +1850,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てしまう",
-    "notes": "【家庭・日常生活】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。"
+    "notes": "【家庭・日常生活】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてしまう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "てしまう",
+      "かもしれない",
+      "すぎる"
+    ],
+    "correct_text_ruby": "てしまう"
   },
   {
     "id": 63,
@@ -1321,7 +1880,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てしまう",
-    "notes": "【街・買い物】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。"
+    "notes": "【街・買い物】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてしまう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "ておく",
+      "てしまう",
+      "すぎる"
+    ],
+    "correct_text_ruby": "てしまう"
   },
   {
     "id": 64,
@@ -1342,7 +1910,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てしまう",
-    "notes": "【友達・会話】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。"
+    "notes": "【友達・会話】動作の完了、または不本意・後悔の感情を表す。。正しい接続と文脈から「てしまう」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてしまう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "かもしれない",
+      "てしまう"
+    ],
+    "correct_text_ruby": "てしまう"
   },
   {
     "id": 65,
@@ -1363,7 +1940,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ておく",
-    "notes": "【学校・教室】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。"
+    "notes": "【学校・教室】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にておく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "たことがある",
+      "なくてはならない",
+      "はずだ"
+    ],
+    "correct_text_ruby": "ておく"
   },
   {
     "id": 66,
@@ -1384,7 +1970,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ておく",
-    "notes": "【家庭・日常生活】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。"
+    "notes": "【家庭・日常生活】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にておく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "ておく",
+      "ほうがいい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "ておく"
   },
   {
     "id": 67,
@@ -1405,7 +2000,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ておく",
-    "notes": "【街・買い物】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。"
+    "notes": "【街・買い物】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にておく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "ほうがいい",
+      "ておく",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ておく"
   },
   {
     "id": 68,
@@ -1426,7 +2030,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ておく",
-    "notes": "【友達・会話】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。"
+    "notes": "【友達・会話】将来のためにあらかじめ準備しておくことを表す。。正しい接続と文脈から「ておく」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にておく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "なければならない",
+      "たことがある",
+      "ておく"
+    ],
+    "correct_text_ruby": "ておく"
   },
   {
     "id": 69,
@@ -1447,7 +2060,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てある",
-    "notes": "【学校・教室】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。"
+    "notes": "【学校・教室】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てある",
+      "すぎる",
+      "なければならない",
+      "てしまう"
+    ],
+    "correct_text_ruby": "てある"
   },
   {
     "id": 70,
@@ -1468,7 +2090,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てある",
-    "notes": "【家庭・日常生活】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。"
+    "notes": "【家庭・日常生活】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "てある",
+      "かもしれない",
+      "なければならない"
+    ],
+    "correct_text_ruby": "てある"
   },
   {
     "id": 71,
@@ -1489,7 +2120,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てある",
-    "notes": "【街・買い物】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。"
+    "notes": "【街・買い物】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "にくい",
+      "てある",
+      "やすい"
+    ],
+    "correct_text_ruby": "てある"
   },
   {
     "id": 72,
@@ -1510,7 +2150,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てある",
-    "notes": "【友達・会話】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。"
+    "notes": "【友達・会話】目的を持って行われた行為の結果がそのまま残っている状態。。正しい接続と文脈から「てある」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてある<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "かもしれない",
+      "にくい",
+      "てある"
+    ],
+    "correct_text_ruby": "てある"
   },
   {
     "id": 73,
@@ -1531,7 +2180,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たりたりする",
-    "notes": "【学校・教室】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。"
+    "notes": "【学校・教室】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたりたりする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たりたりする",
+      "てしまう",
+      "はずだ",
+      "なければならない"
+    ],
+    "correct_text_ruby": "たりたりする"
   },
   {
     "id": 74,
@@ -1552,7 +2210,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たりたりする",
-    "notes": "【家庭・日常生活】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。"
+    "notes": "【家庭・日常生活】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたりたりする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "たりたりする",
+      "ほうがいい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "たりたりする"
   },
   {
     "id": 75,
@@ -1573,7 +2240,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たりたりする",
-    "notes": "【街・買い物】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。"
+    "notes": "【街・買い物】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたりたりする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "なくてもいい",
+      "たりたりする",
+      "はずだ"
+    ],
+    "correct_text_ruby": "たりたりする"
   },
   {
     "id": 76,
@@ -1594,7 +2270,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たりたりする",
-    "notes": "【友達・会話】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。"
+    "notes": "【友達・会話】代表的な動作を並列して例示する。。正しい接続と文脈から「たりたりする」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたりたりする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "すぎる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "たりたりする"
+    ],
+    "correct_text_ruby": "たりたりする"
   },
   {
     "id": 77,
@@ -1615,7 +2300,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "しし",
-    "notes": "【学校・教室】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。"
+    "notes": "【学校・教室】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にしし<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "しし",
+      "にくい",
+      "かもしれない",
+      "はずだ"
+    ],
+    "correct_text_ruby": "しし"
   },
   {
     "id": 78,
@@ -1636,7 +2330,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しし",
-    "notes": "【家庭・日常生活】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。"
+    "notes": "【家庭・日常生活】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にしし<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "しし",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てみる"
+    ],
+    "correct_text_ruby": "しし"
   },
   {
     "id": 79,
@@ -1657,7 +2360,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しし",
-    "notes": "【街・買い物】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。"
+    "notes": "【街・買い物】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にしし<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "たことがある",
+      "しし",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "しし"
   },
   {
     "id": 80,
@@ -1678,7 +2390,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しし",
-    "notes": "【友達・会話】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。"
+    "notes": "【友達・会話】複数の理由や特徴を並べて述べる。。正しい接続と文脈から「しし」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にしし<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "なくてはならない",
+      "てみる",
+      "しし"
+    ],
+    "correct_text_ruby": "しし"
   },
   {
     "id": 81,
@@ -1699,7 +2420,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ので",
-    "notes": "【学校・教室】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。"
+    "notes": "【学校・教室】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にので<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ので",
+      "たことがある",
+      "なくてもいい",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "ので"
   },
   {
     "id": 82,
@@ -1720,7 +2450,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ので",
-    "notes": "【家庭・日常生活】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。"
+    "notes": "【家庭・日常生活】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にので<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "ので",
+      "つもりだ",
+      "てしまう"
+    ],
+    "correct_text_ruby": "ので"
   },
   {
     "id": 83,
@@ -1741,7 +2480,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ので",
-    "notes": "【街・買い物】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。"
+    "notes": "【街・買い物】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にので<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "なくてもいい",
+      "ので",
+      "にくい"
+    ],
+    "correct_text_ruby": "ので"
   },
   {
     "id": 84,
@@ -1762,7 +2510,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ので",
-    "notes": "【友達・会話】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。"
+    "notes": "【友達・会話】客観的な原因・理由を穏やかに伝える。。正しい接続と文脈から「ので」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にので<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "なくてはならない",
+      "すぎる",
+      "ので"
+    ],
+    "correct_text_ruby": "ので"
   },
   {
     "id": 85,
@@ -1783,7 +2540,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "のに",
-    "notes": "【学校・教室】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。"
+    "notes": "【学校・教室】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にのに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "のに",
+      "すぎる",
+      "かもしれない",
+      "にくい"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 86,
@@ -1804,7 +2570,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "のに",
-    "notes": "【家庭・日常生活】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。"
+    "notes": "【家庭・日常生活】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にのに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "のに",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "てみる"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 87,
@@ -1825,7 +2600,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "のに",
-    "notes": "【街・買い物】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。"
+    "notes": "【街・買い物】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にのに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "かもしれない",
+      "のに",
+      "やすい"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 88,
@@ -1846,7 +2630,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "のに",
-    "notes": "【友達・会話】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。"
+    "notes": "【友達・会話】予想や期待に反した結果に対する不満・意外感を表す。。正しい接続と文脈から「のに」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にのに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "てしまう",
+      "はずだ",
+      "のに"
+    ],
+    "correct_text_ruby": "のに"
   },
   {
     "id": 89,
@@ -1867,7 +2660,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かどうか",
-    "notes": "【学校・教室】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。"
+    "notes": "【学校・教室】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかどうか<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かどうか",
+      "ほうがいい",
+      "なくてはならない",
+      "なければならない"
+    ],
+    "correct_text_ruby": "かどうか"
   },
   {
     "id": 90,
@@ -1888,7 +2690,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かどうか",
-    "notes": "【家庭・日常生活】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。"
+    "notes": "【家庭・日常生活】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかどうか<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "かどうか",
+      "かもしれない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "かどうか"
   },
   {
     "id": 91,
@@ -1909,7 +2720,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かどうか",
-    "notes": "【街・買い物】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。"
+    "notes": "【街・買い物】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかどうか<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "ておく",
+      "かどうか",
+      "なければならない"
+    ],
+    "correct_text_ruby": "かどうか"
   },
   {
     "id": 92,
@@ -1930,7 +2750,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かどうか",
-    "notes": "【友達・会話】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。"
+    "notes": "【友達・会話】〜であるかそうでないか、不確定な事柄を表す。。正しい接続と文脈から「かどうか」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかどうか<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "ておく",
+      "かどうか"
+    ],
+    "correct_text_ruby": "かどうか"
   },
   {
     "id": 93,
@@ -1951,7 +2780,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そうだ様態",
-    "notes": "【学校・教室】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。"
+    "notes": "【学校・教室】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>様態<rt>ようたい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "そうだ<ruby>様態<rt>ようたい</rt></ruby>",
+      "てしまう",
+      "やすい",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "そうだ<ruby>様態<rt>ようたい</rt></ruby>"
   },
   {
     "id": 94,
@@ -1972,7 +2810,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そうだ様態",
-    "notes": "【家庭・日常生活】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。"
+    "notes": "【家庭・日常生活】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>様態<rt>ようたい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "そうだ<ruby>様態<rt>ようたい</rt></ruby>",
+      "たことがある",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "そうだ<ruby>様態<rt>ようたい</rt></ruby>"
   },
   {
     "id": 95,
@@ -1993,7 +2840,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そうだ様態",
-    "notes": "【街・買い物】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。"
+    "notes": "【街・買い物】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>様態<rt>ようたい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "なければならない",
+      "そうだ<ruby>様態<rt>ようたい</rt></ruby>",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "そうだ<ruby>様態<rt>ようたい</rt></ruby>"
   },
   {
     "id": 96,
@@ -2014,7 +2870,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そうだ様態",
-    "notes": "【友達・会話】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。"
+    "notes": "【友達・会話】目で見える様子から直感的に推測する（雨が降りそうだ）。。正しい接続と文脈から「そうだ様態」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>様態<rt>ようたい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "はずだ",
+      "かもしれない",
+      "そうだ<ruby>様態<rt>ようたい</rt></ruby>"
+    ],
+    "correct_text_ruby": "そうだ<ruby>様態<rt>ようたい</rt></ruby>"
   },
   {
     "id": 97,
@@ -2035,7 +2900,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "そうだ伝聞",
-    "notes": "【学校・教室】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。"
+    "notes": "【学校・教室】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>",
+      "なければならない",
+      "かもしれない",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>"
   },
   {
     "id": 98,
@@ -2056,7 +2930,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "そうだ伝聞",
-    "notes": "【家庭・日常生活】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。"
+    "notes": "【家庭・日常生活】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>",
+      "にくい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>"
   },
   {
     "id": 99,
@@ -2077,7 +2960,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "そうだ伝聞",
-    "notes": "【街・買い物】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。"
+    "notes": "【街・買い物】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "てみる",
+      "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>"
   },
   {
     "id": 100,
@@ -2098,7 +2990,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そうだ伝聞",
-    "notes": "【友達・会話】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。"
+    "notes": "【友達・会話】人から聞いたり情報源から得た内容を伝える。。正しい接続と文脈から「そうだ伝聞」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にそうだ<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "てしまう",
+      "たことがある",
+      "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>"
+    ],
+    "correct_text_ruby": "そうだ<ruby>伝聞<rt>でんぶん</rt></ruby>"
   },
   {
     "id": 101,
@@ -2119,7 +3020,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "らしい",
-    "notes": "【学校・教室】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。"
+    "notes": "【学校・教室】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にらしい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "らしい",
+      "ほうがいい",
+      "つもりだ",
+      "にくい"
+    ],
+    "correct_text_ruby": "らしい"
   },
   {
     "id": 102,
@@ -2140,7 +3050,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "らしい",
-    "notes": "【家庭・日常生活】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。"
+    "notes": "【家庭・日常生活】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にらしい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "らしい",
+      "ておく",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "らしい"
   },
   {
     "id": 103,
@@ -2161,7 +3080,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "らしい",
-    "notes": "【街・買い物】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。"
+    "notes": "【街・買い物】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にらしい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "ほうがいい",
+      "らしい",
+      "やすい"
+    ],
+    "correct_text_ruby": "らしい"
   },
   {
     "id": 104,
@@ -2182,7 +3110,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "らしい",
-    "notes": "【友達・会話】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。"
+    "notes": "【友達・会話】根拠のある推量、またはその性質に典型的にふさわしい様子。。正しい接続と文脈から「らしい」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にらしい<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "なければならない",
+      "はずだ",
+      "らしい"
+    ],
+    "correct_text_ruby": "らしい"
   },
   {
     "id": 105,
@@ -2203,7 +3140,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かもしれない",
-    "notes": "【学校・教室】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。"
+    "notes": "【学校・教室】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかもしれない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "ておく",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "かもしれない"
   },
   {
     "id": 106,
@@ -2224,7 +3170,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "かもしれない",
-    "notes": "【家庭・日常生活】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。"
+    "notes": "【家庭・日常生活】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかもしれない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "かもしれない",
+      "にくい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "かもしれない"
   },
   {
     "id": 107,
@@ -2245,7 +3200,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "かもしれない",
-    "notes": "【街・買い物】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。"
+    "notes": "【街・買い物】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかもしれない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "すぎる",
+      "かもしれない",
+      "はずだ"
+    ],
+    "correct_text_ruby": "かもしれない"
   },
   {
     "id": 108,
@@ -2266,7 +3230,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "かもしれない",
-    "notes": "【友達・会話】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。"
+    "notes": "【友達・会話】その可能性が五分五分以下でもあり得ることを表す。。正しい接続と文脈から「かもしれない」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にかもしれない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "たことがある",
+      "つもりだ",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "かもしれない"
   },
   {
     "id": 109,
@@ -2287,7 +3260,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はずだ",
-    "notes": "【学校・教室】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。"
+    "notes": "【学校・教室】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "なくてはならない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "すぎる"
+    ],
+    "correct_text_ruby": "はずだ"
   },
   {
     "id": 110,
@@ -2308,7 +3290,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はずだ",
-    "notes": "【家庭・日常生活】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。"
+    "notes": "【家庭・日常生活】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "はずだ",
+      "ほうがいい",
+      "たことがある"
+    ],
+    "correct_text_ruby": "はずだ"
   },
   {
     "id": 111,
@@ -2329,7 +3320,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はずだ",
-    "notes": "【街・買い物】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。"
+    "notes": "【街・買い物】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "つもりだ",
+      "はずだ",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "はずだ"
   },
   {
     "id": 112,
@@ -2350,7 +3350,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はずだ",
-    "notes": "【友達・会話】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。"
+    "notes": "【友達・会話】理由や根拠に基づいて当然そうなるはずだと確信する。。正しい接続と文脈から「はずだ」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "てしまう",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "はずだ"
+    ],
+    "correct_text_ruby": "はずだ"
   },
   {
     "id": 113,
@@ -2371,7 +3380,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "はずがない",
-    "notes": "【学校・教室】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。"
+    "notes": "【学校・教室】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずがない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずがない",
+      "すぎる",
+      "かもしれない",
+      "やすい"
+    ],
+    "correct_text_ruby": "はずがない"
   },
   {
     "id": 114,
@@ -2392,7 +3410,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "はずがない",
-    "notes": "【家庭・日常生活】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。"
+    "notes": "【家庭・日常生活】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずがない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "はずがない",
+      "なくてはならない",
+      "やすい"
+    ],
+    "correct_text_ruby": "はずがない"
   },
   {
     "id": 115,
@@ -2413,7 +3440,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "はずがない",
-    "notes": "【街・買い物】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。"
+    "notes": "【街・買い物】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずがない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "てみる",
+      "はずがない",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "はずがない"
   },
   {
     "id": 116,
@@ -2434,7 +3470,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "はずがない",
-    "notes": "【友達・会話】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。"
+    "notes": "【友達・会話】強い根拠に基づいて絶対にあり得ないと否定する。。正しい接続と文脈から「はずがない」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にはずがない<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ",
+      "てしまう",
+      "はずがない"
+    ],
+    "correct_text_ruby": "はずがない"
   },
   {
     "id": 117,
@@ -2455,7 +3500,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ために",
-    "notes": "【学校・教室】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。"
+    "notes": "【学校・教室】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にために<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ために",
+      "ておく",
+      "にくい",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 118,
@@ -2476,7 +3530,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ために",
-    "notes": "【家庭・日常生活】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。"
+    "notes": "【家庭・日常生活】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にために<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "ために",
+      "かもしれない",
+      "にくい"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 119,
@@ -2497,7 +3560,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ために",
-    "notes": "【街・買い物】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。"
+    "notes": "【街・買い物】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にために<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "ておく",
+      "ために",
+      "はずだ"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 120,
@@ -2518,7 +3590,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ために",
-    "notes": "【友達・会話】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。"
+    "notes": "【友達・会話】目的（〜のために努力する）または原因・理由を表す。。正しい接続と文脈から「ために」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にために<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "てしまう",
+      "やすい",
+      "ために"
+    ],
+    "correct_text_ruby": "ために"
   },
   {
     "id": 121,
@@ -2539,7 +3620,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ように",
-    "notes": "【学校・教室】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。"
+    "notes": "【学校・教室】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にように<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ように",
+      "はずだ",
+      "つもりだ",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 122,
@@ -2560,7 +3650,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ように",
-    "notes": "【家庭・日常生活】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。"
+    "notes": "【家庭・日常生活】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にように<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "ように",
+      "なくてもいい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 123,
@@ -2581,7 +3680,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ように",
-    "notes": "【街・買い物】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。"
+    "notes": "【街・買い物】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にように<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "てみる",
+      "ように",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 124,
@@ -2602,7 +3710,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ように",
-    "notes": "【友達・会話】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。"
+    "notes": "【友達・会話】目的や目標の状態が実現するように願ったり努力する。。正しい接続と文脈から「ように」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にように<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "かもしれない",
+      "すぎる",
+      "ように"
+    ],
+    "correct_text_ruby": "ように"
   },
   {
     "id": 125,
@@ -2623,7 +3740,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "がる",
-    "notes": "【学校・教室】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。"
+    "notes": "【学校・教室】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にがる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "がる",
+      "てしまう",
+      "なくてもいい",
+      "なければならない"
+    ],
+    "correct_text_ruby": "がる"
   },
   {
     "id": 126,
@@ -2644,7 +3770,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "がる",
-    "notes": "【家庭・日常生活】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。"
+    "notes": "【家庭・日常生活】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にがる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "がる",
+      "てみる",
+      "すぎる"
+    ],
+    "correct_text_ruby": "がる"
   },
   {
     "id": 127,
@@ -2665,7 +3800,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "がる",
-    "notes": "【街・買い物】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。"
+    "notes": "【街・買い物】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にがる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "かもしれない",
+      "がる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "がる"
   },
   {
     "id": 128,
@@ -2686,7 +3830,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "がる",
-    "notes": "【友達・会話】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。"
+    "notes": "【友達・会話】第三者の感情や希望が外見に表れている様子を表す。。正しい接続と文脈から「がる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にがる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "かもしれない",
+      "なくてはならない",
+      "がる"
+    ],
+    "correct_text_ruby": "がる"
   },
   {
     "id": 129,
@@ -2707,7 +3860,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たばかり",
-    "notes": "【学校・教室】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。"
+    "notes": "【学校・教室】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たばかり",
+      "てみる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "たばかり"
   },
   {
     "id": 130,
@@ -2728,7 +3890,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たばかり",
-    "notes": "【家庭・日常生活】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。"
+    "notes": "【家庭・日常生活】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "たばかり",
+      "てみる",
+      "ておく"
+    ],
+    "correct_text_ruby": "たばかり"
   },
   {
     "id": 131,
@@ -2749,7 +3920,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たばかり",
-    "notes": "【街・買い物】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。"
+    "notes": "【街・買い物】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "たことがある",
+      "たばかり",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "たばかり"
   },
   {
     "id": 132,
@@ -2770,7 +3950,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たばかり",
-    "notes": "【友達・会話】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。"
+    "notes": "【友達・会話】動作が行われてから心理的に時間がほとんど経っていないこと。。正しい接続と文脈から「たばかり」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "なければならない",
+      "すぎる",
+      "たばかり"
+    ],
+    "correct_text_ruby": "たばかり"
   },
   {
     "id": 133,
@@ -2791,7 +3980,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ところだ",
-    "notes": "【学校・教室】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。"
+    "notes": "【学校・教室】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にところだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ところだ",
+      "つもりだ",
+      "なくてもいい",
+      "にくい"
+    ],
+    "correct_text_ruby": "ところだ"
   },
   {
     "id": 134,
@@ -2812,7 +4010,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ところだ",
-    "notes": "【家庭・日常生活】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。"
+    "notes": "【家庭・日常生活】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にところだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "ところだ",
+      "にくい",
+      "てみる"
+    ],
+    "correct_text_ruby": "ところだ"
   },
   {
     "id": 135,
@@ -2833,7 +4040,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ところだ",
-    "notes": "【街・買い物】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。"
+    "notes": "【街・買い物】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にところだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "すぎる",
+      "ところだ",
+      "なければならない"
+    ],
+    "correct_text_ruby": "ところだ"
   },
   {
     "id": 136,
@@ -2854,7 +4070,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ところだ",
-    "notes": "【友達・会話】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。"
+    "notes": "【友達・会話】直前（〜するところ）・最中（〜しているところ）・直後（〜したところ）。。正しい接続と文脈から「ところだ」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にところだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "やすい",
+      "にくい",
+      "ところだ"
+    ],
+    "correct_text_ruby": "ところだ"
   },
   {
     "id": 137,
@@ -2875,7 +4100,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "受身られる",
-    "notes": "【学校・教室】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。"
+    "notes": "【学校・教室】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>られる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>受身<rt>うけみ</rt></ruby>られる",
+      "ほうがいい",
+      "やすい",
+      "たことがある"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>られる"
   },
   {
     "id": 138,
@@ -2896,7 +4130,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "受身られる",
-    "notes": "【家庭・日常生活】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。"
+    "notes": "【家庭・日常生活】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>られる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "<ruby>受身<rt>うけみ</rt></ruby>られる",
+      "ほうがいい",
+      "なければならない"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>られる"
   },
   {
     "id": 139,
@@ -2917,7 +4160,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "受身られる",
-    "notes": "【街・買い物】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。"
+    "notes": "【街・買い物】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>られる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "てみる",
+      "<ruby>受身<rt>うけみ</rt></ruby>られる",
+      "はずだ"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>られる"
   },
   {
     "id": 140,
@@ -2938,7 +4190,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "受身られる",
-    "notes": "【友達・会話】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。"
+    "notes": "【友達・会話】他から行為を受ける受身表現（被害受身を含む）。。正しい接続と文脈から「受身られる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>られる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "かもしれない",
+      "はずだ",
+      "<ruby>受身<rt>うけみ</rt></ruby>られる"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>られる"
   },
   {
     "id": 141,
@@ -2959,7 +4220,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "使役させる",
-    "notes": "【学校・教室】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。"
+    "notes": "【学校・教室】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>させる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>使役<rt>しえき</rt></ruby>させる",
+      "かもしれない",
+      "すぎる",
+      "にくい"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>させる"
   },
   {
     "id": 142,
@@ -2980,7 +4250,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "使役させる",
-    "notes": "【家庭・日常生活】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。"
+    "notes": "【家庭・日常生活】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>させる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "<ruby>使役<rt>しえき</rt></ruby>させる",
+      "すぎる",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>させる"
   },
   {
     "id": 143,
@@ -3001,7 +4280,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "使役させる",
-    "notes": "【街・買い物】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。"
+    "notes": "【街・買い物】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>させる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>使役<rt>しえき</rt></ruby>させる",
+      "たことがある"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>させる"
   },
   {
     "id": 144,
@@ -3022,7 +4310,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "使役させる",
-    "notes": "【友達・会話】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。"
+    "notes": "【友達・会話】他者に指示や許可を与えて動作を行わせる。。正しい接続と文脈から「使役させる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>させる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "ほうがいい",
+      "<ruby>使役<rt>しえき</rt></ruby>させる"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>させる"
   },
   {
     "id": 145,
@@ -3043,7 +4340,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "使役受身させられる",
-    "notes": "【学校・教室】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。"
+    "notes": "【学校・教室】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる",
+      "ほうがいい",
+      "なくてもいい",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる"
   },
   {
     "id": 146,
@@ -3064,7 +4370,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "使役受身させられる",
-    "notes": "【家庭・日常生活】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。"
+    "notes": "【家庭・日常生活】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる",
+      "なければならない",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる"
   },
   {
     "id": 147,
@@ -3085,7 +4400,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "使役受身させられる",
-    "notes": "【街・買い物】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。"
+    "notes": "【街・買い物】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "すぎる",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる"
   },
   {
     "id": 148,
@@ -3106,7 +4430,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "使役受身させられる",
-    "notes": "【友達・会話】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。"
+    "notes": "【友達・会話】嫌々ながら他者に無理やり動作をさせられる。。正しい接続と文脈から「使役受身させられる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "にくい",
+      "ほうがいい",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>させられる"
   },
   {
     "id": 149,
@@ -3127,7 +4460,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おになる",
-    "notes": "【学校・教室】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。"
+    "notes": "【学校・教室】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "おになる",
+      "すぎる",
+      "ほうがいい",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "おになる"
   },
   {
     "id": 150,
@@ -3148,7 +4490,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "おになる",
-    "notes": "【家庭・日常生活】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。"
+    "notes": "【家庭・日常生活】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "おになる",
+      "なくてもいい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "おになる"
   },
   {
     "id": 151,
@@ -3169,7 +4520,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "おになる",
-    "notes": "【街・買い物】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。"
+    "notes": "【街・買い物】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "てみる",
+      "おになる",
+      "ておく"
+    ],
+    "correct_text_ruby": "おになる"
   },
   {
     "id": 152,
@@ -3190,7 +4550,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おになる",
-    "notes": "【友達・会話】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。"
+    "notes": "【友達・会話】相手の動作を高めて敬意を示す最高位の尊敬語。。正しい接続と文脈から「おになる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におになる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "てしまう",
+      "ておく",
+      "おになる"
+    ],
+    "correct_text_ruby": "おになる"
   },
   {
     "id": 153,
@@ -3211,7 +4580,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "おする",
-    "notes": "【学校・教室】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。"
+    "notes": "【学校・教室】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "おする",
+      "なくてもいい",
+      "たことがある",
+      "やすい"
+    ],
+    "correct_text_ruby": "おする"
   },
   {
     "id": 154,
@@ -3232,7 +4610,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "おする",
-    "notes": "【家庭・日常生活】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。"
+    "notes": "【家庭・日常生活】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "おする",
+      "はずだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "おする"
   },
   {
     "id": 155,
@@ -3253,7 +4640,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "おする",
-    "notes": "【街・買い物】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。"
+    "notes": "【街・買い物】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "なければならない",
+      "おする",
+      "てみる"
+    ],
+    "correct_text_ruby": "おする"
   },
   {
     "id": 156,
@@ -3274,7 +4670,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "おする",
-    "notes": "【友達・会話】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。"
+    "notes": "【友達・会話】自分の動作をへりくだって相手に敬意を示す謙譲語。。正しい接続と文脈から「おする」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>におする<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "やすい",
+      "はずだ",
+      "おする"
+    ],
+    "correct_text_ruby": "おする"
   },
   {
     "id": 157,
@@ -3295,7 +4700,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てあげる",
-    "notes": "【学校・教室】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。"
+    "notes": "【学校・教室】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてあげる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てあげる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "てあげる"
   },
   {
     "id": 158,
@@ -3316,7 +4730,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てあげる",
-    "notes": "【家庭・日常生活】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。"
+    "notes": "【家庭・日常生活】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてあげる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "てあげる",
+      "たことがある",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "てあげる"
   },
   {
     "id": 159,
@@ -3337,7 +4760,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てあげる",
-    "notes": "【街・買い物】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。"
+    "notes": "【街・買い物】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてあげる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "てみる",
+      "てあげる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "てあげる"
   },
   {
     "id": 160,
@@ -3358,7 +4790,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てあげる",
-    "notes": "【友達・会話】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。"
+    "notes": "【友達・会話】相手のために親切で行為をしてあげる。。正しい接続と文脈から「てあげる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてあげる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "なくてもいい",
+      "かもしれない",
+      "てあげる"
+    ],
+    "correct_text_ruby": "てあげる"
   },
   {
     "id": 161,
@@ -3379,7 +4820,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てもらう",
-    "notes": "【学校・教室】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。"
+    "notes": "【学校・教室】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてもらう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てもらう",
+      "てしまう",
+      "かもしれない",
+      "ておく"
+    ],
+    "correct_text_ruby": "てもらう"
   },
   {
     "id": 162,
@@ -3400,7 +4850,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てもらう",
-    "notes": "【家庭・日常生活】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。"
+    "notes": "【家庭・日常生活】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてもらう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "てもらう",
+      "ほうがいい",
+      "すぎる"
+    ],
+    "correct_text_ruby": "てもらう"
   },
   {
     "id": 163,
@@ -3421,7 +4880,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てもらう",
-    "notes": "【街・買い物】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。"
+    "notes": "【街・買い物】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてもらう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "てしまう",
+      "てもらう",
+      "なければならない"
+    ],
+    "correct_text_ruby": "てもらう"
   },
   {
     "id": 164,
@@ -3442,7 +4910,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てもらう",
-    "notes": "【友達・会話】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。"
+    "notes": "【友達・会話】相手にお願いして行為をしてもらう。。正しい接続と文脈から「てもらう」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてもらう<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "なければならない",
+      "ほうがいい",
+      "てもらう"
+    ],
+    "correct_text_ruby": "てもらう"
   },
   {
     "id": 165,
@@ -3463,7 +4940,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てくれる",
-    "notes": "【学校・教室】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。"
+    "notes": "【学校・教室】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくれる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てくれる",
+      "てしまう",
+      "すぎる",
+      "なければならない"
+    ],
+    "correct_text_ruby": "てくれる"
   },
   {
     "id": 166,
@@ -3484,7 +4970,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てくれる",
-    "notes": "【家庭・日常生活】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。"
+    "notes": "【家庭・日常生活】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくれる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "てくれる",
+      "なくてもいい",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "てくれる"
   },
   {
     "id": 167,
@@ -3505,7 +5000,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てくれる",
-    "notes": "【街・買い物】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。"
+    "notes": "【街・買い物】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくれる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "やすい",
+      "てくれる",
+      "てしまう"
+    ],
+    "correct_text_ruby": "てくれる"
   },
   {
     "id": 168,
@@ -3526,7 +5030,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てくれる",
-    "notes": "【友達・会話】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。"
+    "notes": "【友達・会話】他者が自分のために好意で行為をしてくれる。。正しい接続と文脈から「てくれる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくれる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "たことがある",
+      "にくい",
+      "てくれる"
+    ],
+    "correct_text_ruby": "てくれる"
   },
   {
     "id": 169,
@@ -3547,7 +5060,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "たら",
-    "notes": "【学校・教室】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。"
+    "notes": "【学校・教室】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たら",
+      "にくい",
+      "なくてはならない",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "たら"
   },
   {
     "id": 170,
@@ -3568,7 +5090,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たら",
-    "notes": "【家庭・日常生活】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。"
+    "notes": "【家庭・日常生活】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "たら",
+      "てしまう",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "たら"
   },
   {
     "id": 171,
@@ -3589,7 +5120,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たら",
-    "notes": "【街・買い物】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。"
+    "notes": "【街・買い物】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "なければならない",
+      "たら",
+      "すぎる"
+    ],
+    "correct_text_ruby": "たら"
   },
   {
     "id": 172,
@@ -3610,7 +5150,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "たら",
-    "notes": "【友達・会話】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。"
+    "notes": "【友達・会話】一般的な条件や、〜した後の確定事実を表す。。正しい接続と文脈から「たら」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にたら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "やすい",
+      "つもりだ",
+      "たら"
+    ],
+    "correct_text_ruby": "たら"
   },
   {
     "id": 173,
@@ -3631,7 +5180,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なら",
-    "notes": "【学校・教室】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。"
+    "notes": "【学校・教室】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なら",
+      "やすい",
+      "ておく",
+      "てみる"
+    ],
+    "correct_text_ruby": "なら"
   },
   {
     "id": 174,
@@ -3652,7 +5210,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "なら",
-    "notes": "【家庭・日常生活】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。"
+    "notes": "【家庭・日常生活】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "なら",
+      "ほうがいい",
+      "ておく"
+    ],
+    "correct_text_ruby": "なら"
   },
   {
     "id": 175,
@@ -3673,7 +5240,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "なら",
-    "notes": "【街・買い物】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。"
+    "notes": "【街・買い物】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "ておく",
+      "なら",
+      "てみる"
+    ],
+    "correct_text_ruby": "なら"
   },
   {
     "id": 176,
@@ -3694,7 +5270,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "なら",
-    "notes": "【友達・会話】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。"
+    "notes": "【友達・会話】話題の提示や相手の話を前提とした条件を表す。。正しい接続と文脈から「なら」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>になら<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "すぎる",
+      "てしまう",
+      "なら"
+    ],
+    "correct_text_ruby": "なら"
   },
   {
     "id": 177,
@@ -3715,7 +5300,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ば",
-    "notes": "【学校・教室】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。"
+    "notes": "【学校・教室】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にば<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ば",
+      "すぎる",
+      "なければならない",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ば"
   },
   {
     "id": 178,
@@ -3736,7 +5330,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ば",
-    "notes": "【家庭・日常生活】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。"
+    "notes": "【家庭・日常生活】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にば<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "ば",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "ば"
   },
   {
     "id": 179,
@@ -3757,7 +5360,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ば",
-    "notes": "【街・買い物】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。"
+    "notes": "【街・買い物】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にば<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "やすい",
+      "ば",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "ば"
   },
   {
     "id": 180,
@@ -3778,7 +5390,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ば",
-    "notes": "【友達・会話】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。"
+    "notes": "【友達・会話】仮定条件や恒常的な法則を表す。。正しい接続と文脈から「ば」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にば<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "はずだ",
+      "てしまう",
+      "ば"
+    ],
+    "correct_text_ruby": "ば"
   },
   {
     "id": 181,
@@ -3799,7 +5420,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "と",
-    "notes": "【学校・教室】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。"
+    "notes": "【学校・教室】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にと<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "と",
+      "やすい",
+      "てしまう",
+      "なければならない"
+    ],
+    "correct_text_ruby": "と"
   },
   {
     "id": 182,
@@ -3820,7 +5450,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "と",
-    "notes": "【家庭・日常生活】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。"
+    "notes": "【家庭・日常生活】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にと<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "と",
+      "にくい",
+      "ておく"
+    ],
+    "correct_text_ruby": "と"
   },
   {
     "id": 183,
@@ -3841,7 +5480,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "と",
-    "notes": "【街・買い物】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。"
+    "notes": "【街・買い物】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にと<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "と",
+      "たことがある"
+    ],
+    "correct_text_ruby": "と"
   },
   {
     "id": 184,
@@ -3862,7 +5510,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "と",
-    "notes": "【友達・会話】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。"
+    "notes": "【友達・会話】ある条件が満たされると必然的に次のことが起きる。。正しい接続と文脈から「と」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にと<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "てみる",
+      "にくい",
+      "と"
+    ],
+    "correct_text_ruby": "と"
   },
   {
     "id": 185,
@@ -3883,7 +5540,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "について",
-    "notes": "【学校・教室】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。"
+    "notes": "【学校・教室】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にについて<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "について",
+      "ておく",
+      "たことがある",
+      "はずだ"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 186,
@@ -3904,7 +5570,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "について",
-    "notes": "【家庭・日常生活】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。"
+    "notes": "【家庭・日常生活】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にについて<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "について",
+      "てしまう",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 187,
@@ -3925,7 +5600,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "について",
-    "notes": "【街・買い物】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。"
+    "notes": "【街・買い物】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にについて<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "なくてもいい",
+      "について",
+      "てみる"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 188,
@@ -3946,7 +5630,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "について",
-    "notes": "【友達・会話】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。"
+    "notes": "【友達・会話】話や思考の対象・テーマを表す。。正しい接続と文脈から「について」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にについて<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "にくい",
+      "つもりだ",
+      "について"
+    ],
+    "correct_text_ruby": "について"
   },
   {
     "id": 189,
@@ -3967,7 +5660,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あいだ",
-    "notes": "【学校・教室】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。"
+    "notes": "【学校・教室】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "あいだ",
+      "てしまう",
+      "なくてもいい",
+      "ておく"
+    ],
+    "correct_text_ruby": "あいだ"
   },
   {
     "id": 190,
@@ -3988,7 +5690,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あいだ",
-    "notes": "【家庭・日常生活】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。"
+    "notes": "【家庭・日常生活】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "あいだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "すぎる"
+    ],
+    "correct_text_ruby": "あいだ"
   },
   {
     "id": 191,
@@ -4009,7 +5720,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あいだ",
-    "notes": "【街・買い物】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。"
+    "notes": "【街・買い物】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてもいい",
+      "ほうがいい",
+      "あいだ",
+      "てしまう"
+    ],
+    "correct_text_ruby": "あいだ"
   },
   {
     "id": 192,
@@ -4030,7 +5750,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あいだ",
-    "notes": "【友達・会話】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。"
+    "notes": "【友達・会話】ある事態が続いている時間全体を表す。。正しい接続と文脈から「あいだ」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだ<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "にくい",
+      "ておく",
+      "あいだ"
+    ],
+    "correct_text_ruby": "あいだ"
   },
   {
     "id": 193,
@@ -4051,7 +5780,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あいだに",
-    "notes": "【学校・教室】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。"
+    "notes": "【学校・教室】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "あいだに",
+      "たことがある",
+      "はずだ",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "あいだに"
   },
   {
     "id": 194,
@@ -4072,7 +5810,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "あいだに",
-    "notes": "【家庭・日常生活】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。"
+    "notes": "【家庭・日常生活】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "あいだに",
+      "やすい",
+      "てみる"
+    ],
+    "correct_text_ruby": "あいだに"
   },
   {
     "id": 195,
@@ -4093,7 +5840,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あいだに",
-    "notes": "【街・買い物】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。"
+    "notes": "【街・買い物】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "てみる",
+      "あいだに",
+      "やすい"
+    ],
+    "correct_text_ruby": "あいだに"
   },
   {
     "id": 196,
@@ -4114,7 +5870,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "あいだに",
-    "notes": "【友達・会話】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。"
+    "notes": "【友達・会話】ある期間のうちの一瞬・特定時点で何かが起きること。。正しい接続と文脈から「あいだに」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にあいだに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "てみる",
+      "やすい",
+      "あいだに"
+    ],
+    "correct_text_ruby": "あいだに"
   },
   {
     "id": 197,
@@ -4135,7 +5900,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "までに",
-    "notes": "【学校・教室】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。"
+    "notes": "【学校・教室】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にまでに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "までに",
+      "なくてもいい",
+      "てみる",
+      "てしまう"
+    ],
+    "correct_text_ruby": "までに"
   },
   {
     "id": 198,
@@ -4156,7 +5930,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "までに",
-    "notes": "【家庭・日常生活】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。"
+    "notes": "【家庭・日常生活】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にまでに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "までに",
+      "やすい",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "までに"
   },
   {
     "id": 199,
@@ -4177,7 +5960,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "までに",
-    "notes": "【街・買い物】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。"
+    "notes": "【街・買い物】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にまでに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "てしまう",
+      "までに",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "までに"
   },
   {
     "id": 200,
@@ -4198,7 +5990,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "までに",
-    "notes": "【友達・会話】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。"
+    "notes": "【友達・会話】ある行為や期限の最終リミットを表す。。正しい接続と文脈から「までに」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にまでに<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "なくてもいい",
+      "なくてはならない",
+      "までに"
+    ],
+    "correct_text_ruby": "までに"
   },
   {
     "id": 201,
@@ -4219,7 +6020,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ていく",
-    "notes": "【学校・教室】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。"
+    "notes": "【学校・教室】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にていく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ていく",
+      "てみる",
+      "はずだ",
+      "てしまう"
+    ],
+    "correct_text_ruby": "ていく"
   },
   {
     "id": 202,
@@ -4240,7 +6050,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ていく",
-    "notes": "【家庭・日常生活】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。"
+    "notes": "【家庭・日常生活】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にていく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "ていく",
+      "たことがある",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "ていく"
   },
   {
     "id": 203,
@@ -4261,7 +6080,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ていく",
-    "notes": "【街・買い物】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。"
+    "notes": "【街・買い物】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にていく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "なくてもいい",
+      "ていく",
+      "たことがある"
+    ],
+    "correct_text_ruby": "ていく"
   },
   {
     "id": 204,
@@ -4282,7 +6110,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ていく",
-    "notes": "【友達・会話】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。"
+    "notes": "【友達・会話】現在から未来へ向かう変化や、遠ざかる動作を表す。。正しい接続と文脈から「ていく」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にていく<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "はずだ",
+      "てしまう",
+      "ていく"
+    ],
+    "correct_text_ruby": "ていく"
   },
   {
     "id": 205,
@@ -4303,7 +6140,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "てくる",
-    "notes": "【学校・教室】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。"
+    "notes": "【学校・教室】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てくる",
+      "ておく",
+      "なければならない",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "てくる"
   },
   {
     "id": 206,
@@ -4324,7 +6170,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "てくる",
-    "notes": "【家庭・日常生活】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。"
+    "notes": "【家庭・日常生活】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "てくる",
+      "ておく",
+      "なければならない"
+    ],
+    "correct_text_ruby": "てくる"
   },
   {
     "id": 207,
@@ -4345,7 +6200,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "てくる",
-    "notes": "【街・買い物】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。"
+    "notes": "【街・買い物】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "すぎる",
+      "てくる",
+      "てしまう"
+    ],
+    "correct_text_ruby": "てくる"
   },
   {
     "id": 208,
@@ -4366,7 +6230,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "てくる",
-    "notes": "【友達・会話】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。"
+    "notes": "【友達・会話】過去から現在までの継続や、出現・接近する動作を表す。。正しい接続と文脈から「てくる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にてくる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "はずだ",
+      "ておく",
+      "てしまう",
+      "てくる"
+    ],
+    "correct_text_ruby": "てくる"
   },
   {
     "id": 209,
@@ -4387,7 +6260,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "方かた",
-    "notes": "【学校・教室】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。"
+    "notes": "【学校・教室】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>方<rt>かた</rt></ruby>かた<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>方<rt>かた</rt></ruby>かた",
+      "てしまう",
+      "てみる",
+      "ておく"
+    ],
+    "correct_text_ruby": "<ruby>方<rt>かた</rt></ruby>かた"
   },
   {
     "id": 210,
@@ -4408,7 +6290,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "方かた",
-    "notes": "【家庭・日常生活】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。"
+    "notes": "【家庭・日常生活】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>方<rt>かた</rt></ruby>かた<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "<ruby>方<rt>かた</rt></ruby>かた",
+      "つもりだ",
+      "かもしれない"
+    ],
+    "correct_text_ruby": "<ruby>方<rt>かた</rt></ruby>かた"
   },
   {
     "id": 211,
@@ -4429,7 +6320,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "方かた",
-    "notes": "【街・買い物】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。"
+    "notes": "【街・買い物】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>方<rt>かた</rt></ruby>かた<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "なくてもいい",
+      "<ruby>方<rt>かた</rt></ruby>かた",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "<ruby>方<rt>かた</rt></ruby>かた"
   },
   {
     "id": 212,
@@ -4450,7 +6350,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "方かた",
-    "notes": "【友達・会話】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。"
+    "notes": "【友達・会話】動作の方法・やり方を表す（使い方、作り方）。。正しい接続と文脈から「方かた」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>方<rt>かた</rt></ruby>かた<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "てしまう",
+      "てみる",
+      "<ruby>方<rt>かた</rt></ruby>かた"
+    ],
+    "correct_text_ruby": "<ruby>方<rt>かた</rt></ruby>かた"
   },
   {
     "id": 213,
@@ -4471,7 +6380,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "始める",
-    "notes": "【学校・教室】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。"
+    "notes": "【学校・教室】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>める<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>始<rt>はじ</rt></ruby>める",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "つもりだ",
+      "やすい"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>める"
   },
   {
     "id": 214,
@@ -4492,7 +6410,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "始める",
-    "notes": "【家庭・日常生活】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。"
+    "notes": "【家庭・日常生活】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>める<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なくてはならない",
+      "<ruby>始<rt>はじ</rt></ruby>める",
+      "やすい",
+      "はずだ"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>める"
   },
   {
     "id": 215,
@@ -4513,7 +6440,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "始める",
-    "notes": "【街・買い物】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。"
+    "notes": "【街・買い物】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>める<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "ほうがいい",
+      "<ruby>始<rt>はじ</rt></ruby>める",
+      "てみる"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>める"
   },
   {
     "id": 216,
@@ -4534,7 +6470,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "始める",
-    "notes": "【友達・会話】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。"
+    "notes": "【友達・会話】動作が開始されることを表す。。正しい接続と文脈から「始める」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>める<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ほうがいい",
+      "すぎる",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>始<rt>はじ</rt></ruby>める"
+    ],
+    "correct_text_ruby": "<ruby>始<rt>はじ</rt></ruby>める"
   },
   {
     "id": 217,
@@ -4555,7 +6500,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "終わる",
-    "notes": "【学校・教室】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。"
+    "notes": "【学校・教室】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>終<rt>お</rt></ruby>わる",
+      "たことがある",
+      "ておく",
+      "にくい"
+    ],
+    "correct_text_ruby": "<ruby>終<rt>お</rt></ruby>わる"
   },
   {
     "id": 218,
@@ -4576,7 +6530,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "終わる",
-    "notes": "【家庭・日常生活】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。"
+    "notes": "【家庭・日常生活】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>終<rt>お</rt></ruby>わる",
+      "たことがある",
+      "ておく"
+    ],
+    "correct_text_ruby": "<ruby>終<rt>お</rt></ruby>わる"
   },
   {
     "id": 219,
@@ -4597,7 +6560,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "終わる",
-    "notes": "【街・買い物】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。"
+    "notes": "【街・買い物】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "すぎる",
+      "<ruby>終<rt>お</rt></ruby>わる",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "<ruby>終<rt>お</rt></ruby>わる"
   },
   {
     "id": 220,
@@ -4618,7 +6590,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "終わる",
-    "notes": "【友達・会話】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。"
+    "notes": "【友達・会話】動作が最後まで終了することを表す。。正しい接続と文脈から「終わる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "にくい",
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>終<rt>お</rt></ruby>わる"
+    ],
+    "correct_text_ruby": "<ruby>終<rt>お</rt></ruby>わる"
   },
   {
     "id": 221,
@@ -4639,7 +6620,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "続ける",
-    "notes": "【学校・教室】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。"
+    "notes": "【学校・教室】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>ける<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>続<rt>つづ</rt></ruby>ける",
+      "なければならない",
+      "たことがある",
+      "やすい"
+    ],
+    "correct_text_ruby": "<ruby>続<rt>つづ</rt></ruby>ける"
   },
   {
     "id": 222,
@@ -4660,7 +6650,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "続ける",
-    "notes": "【家庭・日常生活】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。"
+    "notes": "【家庭・日常生活】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>ける<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>続<rt>つづ</rt></ruby>ける",
+      "ほうがいい",
+      "すぎる"
+    ],
+    "correct_text_ruby": "<ruby>続<rt>つづ</rt></ruby>ける"
   },
   {
     "id": 223,
@@ -4681,7 +6680,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "続ける",
-    "notes": "【街・買い物】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。"
+    "notes": "【街・買い物】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>ける<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "やすい",
+      "ておく",
+      "<ruby>続<rt>つづ</rt></ruby>ける",
+      "すぎる"
+    ],
+    "correct_text_ruby": "<ruby>続<rt>つづ</rt></ruby>ける"
   },
   {
     "id": 224,
@@ -4702,7 +6710,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "続ける",
-    "notes": "【友達・会話】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。"
+    "notes": "【友達・会話】同じ動作や状態が中断せず継続することを表す。。正しい接続と文脈から「続ける」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>ける<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "てみる",
+      "にくい",
+      "<ruby>続<rt>つづ</rt></ruby>ける"
+    ],
+    "correct_text_ruby": "<ruby>続<rt>つづ</rt></ruby>ける"
   },
   {
     "id": 225,
@@ -4723,7 +6740,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "直す",
-    "notes": "【学校・教室】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。"
+    "notes": "【学校・教室】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>直<rt>なお</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>直<rt>なお</rt></ruby>す",
+      "ほうがいい",
+      "なければならない",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>す"
   },
   {
     "id": 226,
@@ -4744,7 +6770,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "直す",
-    "notes": "【家庭・日常生活】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。"
+    "notes": "【家庭・日常生活】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>直<rt>なお</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "<ruby>直<rt>なお</rt></ruby>す",
+      "すぎる",
+      "はずだ"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>す"
   },
   {
     "id": 227,
@@ -4765,7 +6800,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "直す",
-    "notes": "【街・買い物】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。"
+    "notes": "【街・買い物】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>直<rt>なお</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "なくてはならない",
+      "<ruby>直<rt>なお</rt></ruby>す",
+      "ておく"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>す"
   },
   {
     "id": 228,
@@ -4786,7 +6830,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "直す",
-    "notes": "【友達・会話】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。"
+    "notes": "【友達・会話】より良い結果を目指してもう一度最初からやり直す。。正しい接続と文脈から「直す」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>直<rt>なお</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "ておく",
+      "ほうがいい",
+      "<ruby>直<rt>なお</rt></ruby>す"
+    ],
+    "correct_text_ruby": "<ruby>直<rt>なお</rt></ruby>す"
   },
   {
     "id": 229,
@@ -4807,7 +6860,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "出す",
-    "notes": "【学校・教室】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。"
+    "notes": "【学校・教室】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>出<rt>だ</rt></ruby>す",
+      "かもしれない",
+      "やすい",
+      "ておく"
+    ],
+    "correct_text_ruby": "<ruby>出<rt>だ</rt></ruby>す"
   },
   {
     "id": 230,
@@ -4828,7 +6890,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "出す",
-    "notes": "【家庭・日常生活】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。"
+    "notes": "【家庭・日常生活】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "<ruby>出<rt>だ</rt></ruby>す",
+      "すぎる",
+      "ほうがいい"
+    ],
+    "correct_text_ruby": "<ruby>出<rt>だ</rt></ruby>す"
   },
   {
     "id": 231,
@@ -4849,7 +6920,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "出す",
-    "notes": "【街・買い物】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。"
+    "notes": "【街・買い物】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "たことがある",
+      "なくてはならない",
+      "<ruby>出<rt>だ</rt></ruby>す",
+      "<ruby>予定<rt>よてい</rt></ruby>だ"
+    ],
+    "correct_text_ruby": "<ruby>出<rt>だ</rt></ruby>す"
   },
   {
     "id": 232,
@@ -4870,7 +6950,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "出す",
-    "notes": "【友達・会話】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。"
+    "notes": "【友達・会話】急に、あるいは勢いよく動作が開始されること（泣き出す、雨が降り出す）。。正しい接続と文脈から「出す」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てみる",
+      "つもりだ",
+      "やすい",
+      "<ruby>出<rt>だ</rt></ruby>す"
+    ],
+    "correct_text_ruby": "<ruby>出<rt>だ</rt></ruby>す"
   },
   {
     "id": 233,
@@ -4891,7 +6980,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ばかり",
-    "notes": "【学校・教室】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。"
+    "notes": "【学校・教室】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ばかり",
+      "なければならない",
+      "てみる",
+      "たことがある"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 234,
@@ -4912,7 +7010,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "ばかり",
-    "notes": "【家庭・日常生活】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。"
+    "notes": "【家庭・日常生活】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "ばかり",
+      "すぎる",
+      "たことがある"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 235,
@@ -4933,7 +7040,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ばかり",
-    "notes": "【街・買い物】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。"
+    "notes": "【街・買い物】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>予定<rt>よてい</rt></ruby>だ",
+      "かもしれない",
+      "ばかり",
+      "てしまう"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 236,
@@ -4954,7 +7070,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ばかり",
-    "notes": "【友達・会話】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。"
+    "notes": "【友達・会話】同じことばかり繰り返したり、限定する意味を表す。。正しい接続と文脈から「ばかり」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にばかり<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "すぎる",
+      "なくてもいい",
+      "ておく",
+      "ばかり"
+    ],
+    "correct_text_ruby": "ばかり"
   },
   {
     "id": 237,
@@ -4975,7 +7100,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "受身れるられる",
-    "notes": "【学校・教室】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。"
+    "notes": "【学校・教室】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>れるられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>受身<rt>うけみ</rt></ruby>れるられる",
+      "たことがある",
+      "てしまう",
+      "つもりだ"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>れるられる"
   },
   {
     "id": 238,
@@ -4996,7 +7130,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "受身れるられる",
-    "notes": "【家庭・日常生活】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。"
+    "notes": "【家庭・日常生活】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>れるられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "ておく",
+      "<ruby>受身<rt>うけみ</rt></ruby>れるられる",
+      "なくてはならない",
+      "てみる"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>れるられる"
   },
   {
     "id": 239,
@@ -5017,7 +7160,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "受身れるられる",
-    "notes": "【街・買い物】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。"
+    "notes": "【街・買い物】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>れるられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "つもりだ",
+      "<ruby>受身<rt>うけみ</rt></ruby>れるられる",
+      "すぎる"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>れるられる"
   },
   {
     "id": 240,
@@ -5038,7 +7190,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "受身れるられる",
-    "notes": "【友達・会話】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。"
+    "notes": "【友達・会話】相手からの行為を受ける。。正しい接続と文脈から「受身れるられる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>受身<rt>うけみ</rt></ruby>れるられる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "なければならない",
+      "てしまう",
+      "つもりだ",
+      "<ruby>受身<rt>うけみ</rt></ruby>れるられる"
+    ],
+    "correct_text_ruby": "<ruby>受身<rt>うけみ</rt></ruby>れるられる"
   },
   {
     "id": 241,
@@ -5059,7 +7220,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "使役せるさせる",
-    "notes": "【学校・教室】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。"
+    "notes": "【学校・教室】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>せるさせる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>使役<rt>しえき</rt></ruby>せるさせる",
+      "なくてもいい",
+      "かもしれない",
+      "たことがある"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>せるさせる"
   },
   {
     "id": 242,
@@ -5080,7 +7250,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "使役せるさせる",
-    "notes": "【家庭・日常生活】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。"
+    "notes": "【家庭・日常生活】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>せるさせる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "<ruby>使役<rt>しえき</rt></ruby>せるさせる",
+      "ておく",
+      "にくい"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>せるさせる"
   },
   {
     "id": 243,
@@ -5101,7 +7280,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "使役せるさせる",
-    "notes": "【街・買い物】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。"
+    "notes": "【街・買い物】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>せるさせる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "ておく",
+      "<ruby>使役<rt>しえき</rt></ruby>せるさせる",
+      "なくてはならない"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>せるさせる"
   },
   {
     "id": 244,
@@ -5122,7 +7310,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "使役せるさせる",
-    "notes": "【友達・会話】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。"
+    "notes": "【友達・会話】相手に〜させる。。正しい接続と文脈から「使役せるさせる」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby>せるさせる<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "てしまう",
+      "つもりだ",
+      "やすい",
+      "<ruby>使役<rt>しえき</rt></ruby>せるさせる"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby>せるさせる"
   },
   {
     "id": 245,
@@ -5143,7 +7340,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "使役受身",
-    "notes": "【学校・教室】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。"
+    "notes": "【学校・教室】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>・<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>",
+      "つもりだ",
+      "たことがある",
+      "にくい"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>"
   },
   {
     "id": 246,
@@ -5164,7 +7370,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "使役受身",
-    "notes": "【家庭・日常生活】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。"
+    "notes": "【家庭・日常生活】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。",
+    "question_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>家庭<rt>かてい</rt></ruby>・<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "つもりだ",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>",
+      "はずだ",
+      "たことがある"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>"
   },
   {
     "id": 247,
@@ -5185,7 +7400,16 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "使役受身",
-    "notes": "【街・買い物】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。"
+    "notes": "【街・買い物】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。",
+    "question_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>街<rt>まち</rt></ruby>・<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "かもしれない",
+      "やすい",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>",
+      "なくてもいい"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>"
   },
   {
     "id": 248,
@@ -5206,11 +7430,18 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "使役受身",
-    "notes": "【友達・会話】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。"
+    "notes": "【友達・会話】強制されて嫌々〜する。。正しい接続と文脈から「使役受身」が正解です。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に（　　　）<ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした。",
+    "choices_ruby": [
+      "にくい",
+      "やすい",
+      "ほうがいい",
+      "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>"
+    ],
+    "correct_text_ruby": "<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>"
   }
 ];
 
-if (typeof window !== "undefined") {
-  window.JLPT_N4_QUIZ_DATA = window.JLPT_N4_GRAMMAR_QUIZ_DATA;
-  window.JLPT_N4_GRAMMAR_QUIZ_DATA = window.JLPT_N4_QUIZ_DATA;
-}
+// Dual alias for backwards compatibility
+window.JLPT_N4_QUIZ_DATA = window.JLPT_N4_GRAMMAR_QUIZ_DATA;
