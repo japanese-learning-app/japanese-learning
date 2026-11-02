@@ -4,14 +4,14 @@
 fix_jlpt_links_and_counts.py
 
 1. Corrects level-specific titles, badges, links, counts, and localStorage keys across all JLPT files.
-2. Appends cache-busting timestamp (?v=20261102_1930) to database scripts.
+2. Appends cache-busting timestamp (?v=20261102_2030) to database scripts.
 3. Improves ruby rendering line-height and furigana persistence in vocab flashcards.
 """
 
 import os
 import re
 
-CACHE_VER = "20261102_1930"
+CACHE_VER = "20261102_2030"
 
 COUNTS = {
     "n1": {

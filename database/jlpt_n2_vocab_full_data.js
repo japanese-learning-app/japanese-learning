@@ -346,8 +346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はば",
     "ruby": "<ruby>幅<rt>はば</rt></ruby>",
     "meaning": "width, breadth",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>肩幅<rt>かたはば</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>い。",
-    "ex_en": "He has broad shoulders."
+    "ex_ja": "この<ruby>道路<rt>どうろ</rt></ruby>は<ruby>道幅<rt>みちはば</rt></ruby>がとても<ruby>広<rt>ひろ</rt></ruby>く、<ruby>大型<rt>おおがた</rt></ruby>バスやトラックでも<ruby>安全<rt>あんぜん</rt></ruby>にすれ<ruby>違<rt>ちが</rt></ruby>うことができる。",
+    "ex_en": "This road is very wide, allowing large buses and trucks to safely pass each other."
   },
   {
     "id": "n2_v_0010",
@@ -378,8 +378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しま",
     "ruby": "<ruby>島<rt>しま</rt></ruby>",
     "meaning": "island",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>島<rt>しま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of island from multifaceted perspectives."
+    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>南<rt>みなみ</rt></ruby>の<ruby>島<rt>しま</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>き、<ruby>透き通<rt>すきとお</rt></ruby>った<ruby>美<rt>うつく</rt></ruby>しい<ruby>海<rt>うみ</rt></ruby>でシュノーケリングを<ruby>楽<rt>たの</rt></ruby>しんだ。",
+    "ex_en": "During summer vacation, I traveled to a southern island and enjoyed snorkeling in the crystal-clear beautiful sea."
   },
   {
     "id": "n2_v_0012",
@@ -458,8 +458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うわさ",
     "ruby": "<ruby>噂<rt>うわさ</rt></ruby>",
     "meaning": "rumour, report, gossip",
-    "ex_ja": "<ruby>人<rt>にん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>も７５<ruby>日<rt>にち</rt></ruby>。",
-    "ex_en": "It will be a nine-day's wonder."
+    "ex_ja": "<ruby>同僚<rt>どうりょう</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いた<ruby>噂<rt>うわさ</rt></ruby>によると、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>事業<rt>じぎょう</rt></ruby><ruby>所<rt>しょ</rt></ruby>が<ruby>開設<rt>かいせつ</rt></ruby>されるそうだ。",
+    "ex_en": "According to a rumor I heard from a colleague, a new branch office will reportedly open next month."
   },
   {
     "id": "n2_v_0017",
@@ -842,8 +842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かたち",
     "ruby": "<ruby>形<rt>かたち</rt></ruby>",
     "meaning": "shape",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>形<rt>かたち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of shape from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>形<rt>かたち</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning shape."
   },
   {
     "id": "n2_v_0041",
@@ -938,8 +938,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かみなり",
     "ruby": "<ruby>雷<rt>かみなり</rt></ruby>",
     "meaning": "thunder",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>雷<rt>かみなり</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of thunder from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>雷<rt>かみなり</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning thunder."
   },
   {
     "id": "n2_v_0047",
@@ -986,8 +986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>皮<rt>かわ</rt></ruby>",
     "meaning": "skin, hide, leather",
-    "ex_ja": "<ruby>栄養<rt>えいよう</rt></ruby>を<ruby>無駄<rt>むだ</rt></ruby>にしないよう、よく<ruby>洗<rt>あら</rt></ruby>ったリンゴは<ruby>皮<rt>かわ</rt></ruby>をむかずにそのまま<ruby>食<rt>た</rt></ruby>べるようにしている。",
-    "ex_en": "To not waste the nutrients, I make sure to eat well-washed apples as they are, without peeling the skin."
+    "ex_ja": "リンゴの<ruby>皮<rt>かわ</rt></ruby>には<ruby>栄養<rt>えいよう</rt></ruby>がたくさん<ruby>含<rt>ふく</rt></ruby>まれているので、<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗<rt>あら</rt></ruby>ってそのまま<ruby>食<rt>た</rt></ruby>べます。",
+    "ex_en": "Apple skin contains many nutrients, so I wash it cleanly and eat it as is."
   },
   {
     "id": "n2_v_0050",
@@ -1002,8 +1002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にわ",
     "ruby": "<ruby>庭<rt>にわ</rt></ruby>",
     "meaning": "garden",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>庭<rt>にわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of garden from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>庭<rt>にわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of garden."
   },
   {
     "id": "n2_v_0051",
@@ -1098,8 +1098,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あいず",
     "ruby": "<ruby>合図<rt>あいず</rt></ruby>",
     "meaning": "sign, signal",
-    "ex_ja": "<ruby>合図<rt>あいず</rt></ruby>の<ruby>笛<rt>ふえ</rt></ruby>がなった。",
-    "ex_en": "The whistle blew."
+    "ex_ja": "<ruby>審判<rt>しんぱん</rt></ruby>が<ruby>試合<rt>しあい</rt></ruby><ruby>開始<rt>かいし</rt></ruby>の<ruby>合図<rt>あいず</rt></ruby>の<ruby>笛<rt>ふえ</rt></ruby>を<ruby>吹<rt>ふ</rt></ruby>くと、<ruby>両<rt>りょう</rt></ruby>チームの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>一斉<rt>いっせい</rt></ruby>に<ruby>走り出<rt>はしりだ</rt></ruby>した。",
+    "ex_en": "When the referee blew the whistle signaling the start of the match, players from both teams ran out all at once."
   },
   {
     "id": "n2_v_0057",
@@ -1162,8 +1162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いがい",
     "ruby": "<ruby>以外<rt>いがい</rt></ruby>",
     "meaning": "with the exception of",
-    "ex_ja": "<ruby>職員<rt>しょくいん</rt></ruby><ruby>以外<rt>いがい</rt></ruby><ruby>入室<rt>にゅうしつ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>。",
-    "ex_en": "Admittance to staff members only."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>以外<rt>いがい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning with the exception of."
   },
   {
     "id": "n2_v_0061",
@@ -1178,8 +1178,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えんき",
     "ruby": "<ruby>延期<rt>えんき</rt></ruby>",
     "meaning": "postponement, adjournment",
-    "ex_ja": "<ruby>決定<rt>けってい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>された。",
-    "ex_en": "The decision was put off."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>延期<rt>えんき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of postponement."
   },
   {
     "id": "n2_v_0062",
@@ -1274,8 +1274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おうふく",
     "ruby": "<ruby>往復<rt>おうふく</rt></ruby>",
     "meaning": "(col) round trip, coming and going, return ticket",
-    "ex_ja": "<ruby>往復切符<rt>おうふくきっぷ</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>は？",
-    "ex_en": "What's the round-trip fare?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>往復<rt>おうふく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of (col) round trip."
   },
   {
     "id": "n2_v_0068",
@@ -1290,8 +1290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いしき",
     "ruby": "<ruby>意識<rt>いしき</rt></ruby>",
     "meaning": "consciousness, senses",
-    "ex_ja": "<ruby>意識<rt>いしき</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>いました。",
-    "ex_en": "I lost consciousness."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>意識<rt>いしき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning consciousness."
   },
   {
     "id": "n2_v_0069",
@@ -1306,8 +1306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おうぼ",
     "ruby": "<ruby>応募<rt>おうぼ</rt></ruby>",
     "meaning": "subscription, application",
-    "ex_ja": "<ruby>仕事<rt>しごと</rt></ruby>に<ruby>応募<rt>おうぼ</rt></ruby>する。",
-    "ex_en": "I'm applying for a job."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>応募<rt>おうぼ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning subscription."
   },
   {
     "id": "n2_v_0070",
@@ -1322,8 +1322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いぜん",
     "ruby": "<ruby>以前<rt>いぜん</rt></ruby>",
     "meaning": "ago, since, before",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>とは<ruby>違<rt>ちが</rt></ruby>う。",
-    "ex_en": "He is not what he used to be."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>以前<rt>いぜん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning ago."
   },
   {
     "id": "n2_v_0071",
@@ -1370,8 +1370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おおぜい",
     "ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>",
     "meaning": "great number of people",
-    "ex_ja": "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人出<rt>ひとで</rt></ruby>ですよ。",
-    "ex_en": "We're filled to the rafters."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>大勢<rt>たいせい</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 大勢, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_0074",
@@ -1386,8 +1386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いちりゅう",
     "ruby": "<ruby>一流<rt>いちりゅう</rt></ruby>",
     "meaning": "first class, top grade, foremost",
-    "ex_ja": "<ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>腕前<rt>うでまえ</rt></ruby>ですね。",
-    "ex_en": "That's a class act."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of first class."
   },
   {
     "id": "n2_v_0075",
@@ -1418,8 +1418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっぱん",
     "ruby": "<ruby>一般<rt>いっぱん</rt></ruby>",
     "meaning": "general, liberal, universal",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of general, liberal, universal from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of general."
   },
   {
     "id": "n2_v_0077",
@@ -1466,8 +1466,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいいん",
     "ruby": "<ruby>会員<rt>かいいん</rt></ruby>",
     "meaning": "member, the membership",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>会員<rt>かいいん</rt></ruby>でした。",
-    "ex_en": "I was a member."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>会員<rt>かいいん</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 会員, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_0080",
@@ -1562,8 +1562,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいけい",
     "ruby": "<ruby>会計<rt>かいけい</rt></ruby>",
     "meaning": "account, finance, accountant",
-    "ex_ja": "<ruby>会計監査<rt>かいけいかんさ</rt></ruby>があった。",
-    "ex_en": "The accounts have been audited."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>会計<rt>かいけい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning account."
   },
   {
     "id": "n2_v_0086",
@@ -1578,8 +1578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いんしょう",
     "ruby": "<ruby>印象<rt>いんしょう</rt></ruby>",
     "meaning": "impression",
-    "ex_ja": "<ruby>第一印象<rt>だいいちいんしょう</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>だ。",
-    "ex_en": "First impressions matter."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>印象<rt>いんしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of impression."
   },
   {
     "id": "n2_v_0087",
@@ -1674,8 +1674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うちゅう",
     "ruby": "<ruby>宇宙<rt>うちゅう</rt></ruby>",
     "meaning": "universe, cosmos, space",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of universe, cosmos, space from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of universe."
   },
   {
     "id": "n2_v_0093",
@@ -1722,8 +1722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいすう",
     "ruby": "<ruby>回数<rt>かいすう</rt></ruby>",
     "meaning": "number of times, frequency",
-    "ex_ja": "<ruby>回数券<rt>かいすうけん</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>さい。",
-    "ex_en": "May I have coupon tickets?"
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>回数<rt>かいすう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 回数, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0096",
@@ -1738,8 +1738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えいぎょう",
     "ruby": "<ruby>営業<rt>えいぎょう</rt></ruby>",
     "meaning": "business, trade, management",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>営業部<rt>えいぎょうぶ</rt></ruby>です。",
-    "ex_en": "I am a member of the sales department."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning business."
   },
   {
     "id": "n2_v_0097",
@@ -1786,8 +1786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんさつ",
     "ruby": "<ruby>観察<rt>かんさつ</rt></ruby>",
     "meaning": "observation, survey",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>観察力<rt>かんさつりょく</rt></ruby>が<ruby>鋭<rt>するど</rt></ruby>い。",
-    "ex_en": "He has an acute sense of observation."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>観察<rt>かんさつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning observation."
   },
   {
     "id": "n2_v_0100",
@@ -1818,8 +1818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんしゃ",
     "ruby": "<ruby>感謝<rt>かんしゃ</rt></ruby>",
     "meaning": "thanks, gratitude",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>しろよ。",
-    "ex_en": "You should thank me."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of thanks."
   },
   {
     "id": "n2_v_0102",
@@ -1834,8 +1834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かかく",
     "ruby": "<ruby>価格<rt>かかく</rt></ruby>",
     "meaning": "price, value, cost",
-    "ex_ja": "<ruby>妥当<rt>だとう</rt></ruby>な<ruby>価格<rt>かかく</rt></ruby>だね。",
-    "ex_en": "That's a fair price."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>価格<rt>かかく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of price."
   },
   {
     "id": "n2_v_0103",
@@ -1914,8 +1914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんせい",
     "ruby": "<ruby>完成<rt>かんせい</rt></ruby>",
     "meaning": "(1) complete, completion, (2) perfection",
-    "ex_ja": "<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>完成<rt>かんせい</rt></ruby>を<ruby>生<rt>う</rt></ruby>む。",
-    "ex_en": "Practice makes perfect."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>完成<rt>かんせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of (1) complete."
   },
   {
     "id": "n2_v_0108",
@@ -1962,8 +1962,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かさい",
     "ruby": "<ruby>火災<rt>かさい</rt></ruby>",
     "meaning": "conflagration, fire",
-    "ex_ja": "<ruby>火災<rt>かさい</rt></ruby><ruby>警報<rt>けいほう</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った。",
-    "ex_en": "The fire alarm rang."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火災<rt>かさい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of conflagration."
   },
   {
     "id": "n2_v_0111",
@@ -2010,8 +2010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんどう",
     "ruby": "<ruby>感動<rt>かんどう</rt></ruby>",
     "meaning": "being deeply moved, excitement, impression",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>涙<rt>なみだ</rt></ruby>に<ruby>感動<rt>かんどう</rt></ruby>した。",
-    "ex_en": "I was moved by his tears."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感動<rt>かんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of being deeply moved."
   },
   {
     "id": "n2_v_0114",
@@ -2122,8 +2122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かつどう",
     "ruby": "<ruby>活動<rt>かつどう</rt></ruby>",
     "meaning": "action, activity",
-    "ex_ja": "<ruby>就職活動<rt>しゅうしょくかつどう</rt></ruby>はどう？",
-    "ex_en": "How's the job hunt?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>活動<rt>かつどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of action."
   },
   {
     "id": "n2_v_0121",
@@ -2154,8 +2154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かてい",
     "ruby": "<ruby>家庭<rt>かてい</rt></ruby>",
     "meaning": "household",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>家庭<rt>かてい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of household from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>家庭<rt>かてい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning household."
   },
   {
     "id": "n2_v_0123",
@@ -2186,8 +2186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かびん",
     "ruby": "<ruby>花瓶<rt>かびん</rt></ruby>",
     "meaning": "a vase",
-    "ex_ja": "<ruby>花瓶<rt>かびん</rt></ruby><ruby>割<rt>さ</rt></ruby>ったの<ruby>誰<rt>だれ</rt></ruby>？",
-    "ex_en": "Who broke the vase?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>花瓶<rt>かびん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning a vase."
   },
   {
     "id": "n2_v_0125",
@@ -2202,8 +2202,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がっき",
     "ruby": "<ruby>学期<rt>がっき</rt></ruby>",
     "meaning": "term (school)",
-    "ex_ja": "<ruby>二<rt>に</rt></ruby><ruby>学期<rt>がっき</rt></ruby>は<ruby>終<rt>お</rt></ruby>わった。",
-    "ex_en": "The second term came to an end."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>学期<rt>がっき</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 学期, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_0126",
@@ -2218,8 +2218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かみがた",
     "ruby": "<ruby>髪型<rt>かみがた</rt></ruby>",
     "meaning": "hair style, coiffure, hairdo",
-    "ex_ja": "<ruby>髪型<rt>かみがた</rt></ruby>を<ruby>変<rt>か</rt></ruby>えたんだ。",
-    "ex_en": "I changed my hairstyle."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>髪型<rt>かみがた</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of hair style."
   },
   {
     "id": "n2_v_0127",
@@ -2362,8 +2362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きかん",
     "ruby": "<ruby>期間<rt>きかん</rt></ruby>",
     "meaning": "period, term",
-    "ex_ja": "<ruby>問題<rt>もんだい</rt></ruby>は<ruby>期間<rt>きかん</rt></ruby>だな。",
-    "ex_en": "The question is how long."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>期間<rt>きかん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning period."
   },
   {
     "id": "n2_v_0136",
@@ -2410,8 +2410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんこう",
     "ruby": "<ruby>観光<rt>かんこう</rt></ruby>",
     "meaning": "sightseeing",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>も<ruby>観光客<rt>かんこうきゃく</rt></ruby>です。",
-    "ex_en": "I'm a tourist, too."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>観光<rt>かんこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of sightseeing."
   },
   {
     "id": "n2_v_0139",
@@ -2442,8 +2442,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんご",
     "ruby": "<ruby>看護<rt>かんご</rt></ruby>",
     "meaning": "nursing, (army) nurse",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>看護婦<rt>かんごふ</rt></ruby>です。",
-    "ex_en": "I'm a nurse."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>看護<rt>かんご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning nursing."
   },
   {
     "id": "n2_v_0141",
@@ -2618,8 +2618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けいけん",
     "ruby": "<ruby>経験<rt>けいけん</rt></ruby>",
     "meaning": "to experience",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験不足<rt>けいけんぶそく</rt></ruby>だ。",
-    "ex_en": "He is lacking in experience."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>経験<rt>けいけん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning to experience."
   },
   {
     "id": "n2_v_0152",
@@ -2698,8 +2698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きねん",
     "ruby": "<ruby>記念<rt>きねん</rt></ruby>",
     "meaning": "commemoration, memory",
-    "ex_ja": "<ruby>革命<rt>かくめい</rt></ruby><ruby>記念日<rt>きねんび</rt></ruby><ruby>万歳<rt>ばんざい</rt></ruby>！",
-    "ex_en": "Celebrate the revolution memorial day!"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>記念<rt>きねん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of commemoration."
   },
   {
     "id": "n2_v_0157",
@@ -2730,8 +2730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きほん",
     "ruby": "<ruby>基本<rt>きほん</rt></ruby>",
     "meaning": "foundation, basis, standard",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>基本<rt>きほん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of foundation, basis, standard from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>基本<rt>きほん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning foundation."
   },
   {
     "id": "n2_v_0159",
@@ -2794,8 +2794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょうそう",
     "ruby": "<ruby>競争<rt>きょうそう</rt></ruby>",
     "meaning": "competition",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>と<ruby>競争<rt>きょうそう</rt></ruby>した。",
-    "ex_en": "I had a race with him."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>競争<rt>きょうそう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning competition."
   },
   {
     "id": "n2_v_0163",
@@ -2810,8 +2810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けっきょく",
     "ruby": "<ruby>結局<rt>けっきょく</rt></ruby>",
     "meaning": "after all, eventually",
-    "ex_ja": "<ruby>結局<rt>けっきょく</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>するさ。",
-    "ex_en": "After all, it's sure to fail."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>結局<rt>けっきょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of after all."
   },
   {
     "id": "n2_v_0164",
@@ -2842,8 +2842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けっこう",
     "ruby": "<ruby>結構<rt>けっこう</rt></ruby>",
     "meaning": "splendid, enough",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>結構<rt>けっこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of splendid, enough from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>結構<rt>けっこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning splendid."
   },
   {
     "id": "n2_v_0166",
@@ -2858,8 +2858,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょうりょく",
     "ruby": "<ruby>協力<rt>きょうりょく</rt></ruby>",
     "meaning": "cooperation, collaboration",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>した。",
-    "ex_en": "I went into partnership with him."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>協力<rt>きょうりょく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning cooperation."
   },
   {
     "id": "n2_v_0167",
@@ -2906,8 +2906,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けってん",
     "ruby": "<ruby>欠点<rt>けってん</rt></ruby>",
     "meaning": "faults, defect, weakness",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>欠点<rt>けってん</rt></ruby>だらけだ。",
-    "ex_en": "He is a mass of faults."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>欠点<rt>けってん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of faults."
   },
   {
     "id": "n2_v_0170",
@@ -2922,8 +2922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きろく",
     "ruby": "<ruby>記録<rt>きろく</rt></ruby>",
     "meaning": "record, minutes, document",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>記録<rt>きろく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>った。",
-    "ex_en": "He has broken the record."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>記録<rt>きろく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning record."
   },
   {
     "id": "n2_v_0171",
@@ -2970,8 +2970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんさ",
     "ruby": "<ruby>検査<rt>けんさ</rt></ruby>",
     "meaning": "inspection (e.g. customs, factory), examination",
-    "ex_ja": "<ruby>視力検査<rt>しりょくけんさ</rt></ruby>をします。",
-    "ex_en": "I'll check your vision."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>検査<rt>けんさ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning inspection (e.g. customs."
   },
   {
     "id": "n2_v_0174",
@@ -3002,8 +3002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんせつ",
     "ruby": "<ruby>建設<rt>けんせつ</rt></ruby>",
     "meaning": "construction, establishment",
-    "ex_ja": "<ruby>建設的<rt>けんせつてき</rt></ruby>な<ruby>提案<rt>ていあん</rt></ruby>だよ。",
-    "ex_en": "That's a constructive suggestion!"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>建設<rt>けんせつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning construction."
   },
   {
     "id": "n2_v_0176",
@@ -3034,8 +3034,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんちく",
     "ruby": "<ruby>建築<rt>けんちく</rt></ruby>",
     "meaning": "construction, architecture",
-    "ex_ja": "<ruby>建築<rt>けんちく</rt></ruby><ruby>資材<rt>しざい</rt></ruby>は<ruby>今高<rt>いまたか</rt></ruby>い。",
-    "ex_en": "Building materials are expensive now."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>建築<rt>けんちく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning construction."
   },
   {
     "id": "n2_v_0178",
@@ -3098,8 +3098,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんいん",
     "ruby": "<ruby>原因<rt>げんいん</rt></ruby>",
     "meaning": "cause, source",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>ですか。",
-    "ex_en": "What's the cause?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>原因<rt>げんいん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning cause."
   },
   {
     "id": "n2_v_0182",
@@ -3194,8 +3194,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごうかく",
     "ruby": "<ruby>合格<rt>ごうかく</rt></ruby>",
     "meaning": "success, passing (e.g. exam), eligibility",
-    "ex_ja": "<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>できた。",
-    "ex_en": "I was able to pass the exam."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of success."
   },
   {
     "id": "n2_v_0188",
@@ -3210,8 +3210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうえん",
     "ruby": "<ruby>講演<rt>こうえん</rt></ruby>",
     "meaning": "lecture, address",
-    "ex_ja": "<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>講演<rt>こうえん</rt></ruby>だった？",
-    "ex_en": "Was it an interesting speech?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>講演<rt>こうえん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning lecture."
   },
   {
     "id": "n2_v_0189",
@@ -3290,8 +3290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしょ",
     "ruby": "<ruby>最初<rt>さいしょ</rt></ruby>",
     "meaning": "beginning, first",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>来<rt>き</rt></ruby>た。",
-    "ex_en": "He was the first to come."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of beginning."
   },
   {
     "id": "n2_v_0194",
@@ -3306,8 +3306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうかん",
     "ruby": "<ruby>交換<rt>こうかん</rt></ruby>",
     "meaning": "exchange, interchange, reciprocity",
-    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>と<ruby>誰<rt>だれ</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>する？",
-    "ex_en": "Who is being exchanged with whom?"
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>交換<rt>こうかん</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 交換, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_0195",
@@ -3370,8 +3370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうぎ",
     "ruby": "<ruby>講義<rt>こうぎ</rt></ruby>",
     "meaning": "lecture",
-    "ex_ja": "<ruby>文学<rt>ぶんがく</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>をする。",
-    "ex_en": "I will lecture on literature."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>講義<rt>こうぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of lecture."
   },
   {
     "id": "n2_v_0199",
@@ -3418,8 +3418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さくひん",
     "ruby": "<ruby>作品<rt>さくひん</rt></ruby>",
     "meaning": "work, opus, performance",
-    "ex_ja": "<ruby>見事<rt>みごと</rt></ruby>な<ruby>作品<rt>さくひん</rt></ruby>ですね。",
-    "ex_en": "It's an excellent composition."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>作品<rt>さくひん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of work."
   },
   {
     "id": "n2_v_0202",
@@ -3498,8 +3498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうこく",
     "ruby": "<ruby>広告<rt>こうこく</rt></ruby>",
     "meaning": "advertisement",
-    "ex_ja": "<ruby>広告<rt>こうこく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れないで？",
-    "ex_en": "Could you not include ads?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>広告<rt>こうこく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of advertisement."
   },
   {
     "id": "n2_v_0207",
@@ -3530,8 +3530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうじ",
     "ruby": "<ruby>工事<rt>こうじ</rt></ruby>",
     "meaning": "construction work",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>工事<rt>こうじ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of construction work from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>工事<rt>こうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of construction work."
   },
   {
     "id": "n2_v_0209",
@@ -3578,8 +3578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ざいりょう",
     "ruby": "<ruby>材料<rt>ざいりょう</rt></ruby>",
     "meaning": "ingredients, material",
-    "ex_ja": "<ruby>材料<rt>ざいりょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
-    "ex_en": "What are they made of?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>材料<rt>ざいりょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of ingredients."
   },
   {
     "id": "n2_v_0212",
@@ -3642,8 +3642,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しけん",
     "ruby": "<ruby>試験<rt>しけん</rt></ruby>",
     "meaning": "examination",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>試験<rt>しけん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of examination from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>試験<rt>しけん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of examination."
   },
   {
     "id": "n2_v_0216",
@@ -3738,8 +3738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しせい",
     "ruby": "<ruby>姿勢<rt>しせい</rt></ruby>",
     "meaning": "attitude, posture",
-    "ex_ja": "<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>正<rt>ただ</rt></ruby>しなさい。",
-    "ex_en": "Sit up straight."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>姿勢<rt>しせい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of attitude."
   },
   {
     "id": "n2_v_0222",
@@ -3754,8 +3754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こくご",
     "ruby": "<ruby>国語<rt>こくご</rt></ruby>",
     "meaning": "national language",
-    "ex_ja": "<ruby>五<rt>ご</rt></ruby>ヶ<ruby>国語<rt>こくご</rt></ruby><ruby>話<rt>はな</rt></ruby>します。",
-    "ex_en": "I speak five languages."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>国語<rt>こくご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning national language."
   },
   {
     "id": "n2_v_0223",
@@ -3770,8 +3770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しぜん",
     "ruby": "<ruby>自然<rt>しぜん</rt></ruby>",
     "meaning": "nature, spontaneous",
-    "ex_ja": "<ruby>自然<rt>しぜん</rt></ruby>は<ruby>真空<rt>しんくう</rt></ruby>を<ruby>嫌<rt>きら</rt></ruby>う。",
-    "ex_en": "Nature abhors a vacuum."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自然<rt>しぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of nature."
   },
   {
     "id": "n2_v_0224",
@@ -3930,8 +3930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうひん",
     "ruby": "<ruby>商品<rt>しょうひん</rt></ruby>",
     "meaning": "commodity, article of commerce, goods",
-    "ex_ja": "<ruby>商品<rt>しょうひん</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れるな。",
-    "ex_en": "Don't touch the goods."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>商品<rt>しょうひん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning commodity."
   },
   {
     "id": "n2_v_0234",
@@ -3994,8 +3994,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうめん",
     "ruby": "<ruby>正面<rt>しょうめん</rt></ruby>",
     "meaning": "the front, honesty",
-    "ex_ja": "<ruby>正面衝突<rt>しょうめんしょうとつ</rt></ruby>だった。",
-    "ex_en": "The two cars crashed head-on."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>正面<rt>しょうめん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of the front."
   },
   {
     "id": "n2_v_0238",
@@ -4010,8 +4010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しみん",
     "ruby": "<ruby>市民<rt>しみん</rt></ruby>",
     "meaning": "citizen",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>札幌市<rt>さっぽろし</rt></ruby><ruby>民<rt>たみ</rt></ruby>です。",
-    "ex_en": "I am a citizen of Sapporo."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>市民<rt>しみん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning citizen."
   },
   {
     "id": "n2_v_0239",
@@ -4026,8 +4026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうらい",
     "ruby": "<ruby>将来<rt>しょうらい</rt></ruby>",
     "meaning": "future, prospects",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of future, prospects from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>将来<rt>しょうらい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning future."
   },
   {
     "id": "n2_v_0240",
@@ -4058,8 +4058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょくよく",
     "ruby": "<ruby>食欲<rt>しょくよく</rt></ruby>",
     "meaning": "appetite (for food)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>食欲旺盛<rt>しょくよくおうせい</rt></ruby>だ。",
-    "ex_en": "He has a good appetite."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>食欲<rt>しょくよく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of appetite (for food)."
   },
   {
     "id": "n2_v_0242",
@@ -4106,8 +4106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅうかん",
     "ruby": "<ruby>習慣<rt>しゅうかん</rt></ruby>",
     "meaning": "custom, manners",
-    "ex_ja": "<ruby>習慣化<rt>しゅうかんか</rt></ruby>しました。",
-    "ex_en": "It became a habit."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>習慣<rt>しゅうかん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of custom."
   },
   {
     "id": "n2_v_0245",
@@ -4138,8 +4138,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅうしょく",
     "ruby": "<ruby>就職<rt>しゅうしょく</rt></ruby>",
     "meaning": "finding employment, inauguration",
-    "ex_ja": "<ruby>就職<rt>しゅうしょく</rt></ruby>が<ruby>内定<rt>ないてい</rt></ruby>した。",
-    "ex_en": "The company has unofficially decided to employ me."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>就職<rt>しゅうしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of finding employment."
   },
   {
     "id": "n2_v_0247",
@@ -4170,8 +4170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅうちゅう",
     "ruby": "<ruby>集中<rt>しゅうちゅう</rt></ruby>",
     "meaning": "concentration, focusing the mind",
-    "ex_ja": "<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>しろ。",
-    "ex_en": "Keep focused on your work."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>集中<rt>しゅうちゅう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning concentration."
   },
   {
     "id": "n2_v_0249",
@@ -4266,8 +4266,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅくじつ",
     "ruby": "<ruby>祝日<rt>しゅくじつ</rt></ruby>",
     "meaning": "national holiday",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>祝日<rt>しゅくじつ</rt></ruby>です。",
-    "ex_en": "We have a holiday today."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>祝日<rt>しゅくじつ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 祝日, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0255",
@@ -4298,8 +4298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅじゅつ",
     "ruby": "<ruby>手術<rt>しゅじゅつ</rt></ruby>",
     "meaning": "surgical operation",
-    "ex_ja": "<ruby>手術<rt>しゅじゅつ</rt></ruby>は<ruby>待<rt>ま</rt></ruby>てない。",
-    "ex_en": "The operation cannot wait."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>手術<rt>しゅじゅつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning surgical operation."
   },
   {
     "id": "n2_v_0257",
@@ -4362,8 +4362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅちょう",
     "ruby": "<ruby>主張<rt>しゅちょう</rt></ruby>",
     "meaning": "claim, request, insistence",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of claim, request, insistence from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of claim."
   },
   {
     "id": "n2_v_0261",
@@ -4426,8 +4426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅっしん",
     "ruby": "<ruby>出身<rt>しゅっしん</rt></ruby>",
     "meaning": "graduate from, come from",
-    "ex_ja": "<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>です。",
-    "ex_en": "I'm from Sapporo."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of graduate from."
   },
   {
     "id": "n2_v_0265",
@@ -4474,8 +4474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じけん",
     "ruby": "<ruby>事件<rt>じけん</rt></ruby>",
     "meaning": "event, affair, incident",
-    "ex_ja": "<ruby>事件<rt>じけん</rt></ruby>は<ruby>幕<rt>まく</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じた。",
-    "ex_en": "The case came to a close."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>事件<rt>じけん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of event."
   },
   {
     "id": "n2_v_0268",
@@ -4506,8 +4506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じこく",
     "ruby": "<ruby>時刻<rt>じこく</rt></ruby>",
     "meaning": "instant, time, moment",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>時刻<rt>じこく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of instant, time, moment from multifaceted perspectives."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>時刻<rt>じこく</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 時刻, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0270",
@@ -4586,8 +4586,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じしん",
     "ruby": "<ruby>自信<rt>じしん</rt></ruby>",
     "meaning": "self-confidence",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自信過剰<rt>じしんかじょう</rt></ruby>だ。",
-    "ex_en": "He is overconfident."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>自信<rt>じしん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning self-confidence."
   },
   {
     "id": "n2_v_0275",
@@ -4634,8 +4634,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すいみん",
     "ruby": "<ruby>睡眠<rt>すいみん</rt></ruby>",
     "meaning": "sleep",
-    "ex_ja": "<ruby>睡眠<rt>すいみん</rt></ruby>は<ruby>薬<rt>くすり</rt></ruby>に<ruby>勝<rt>まさ</rt></ruby>る。",
-    "ex_en": "Sleep is better than medicine."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>睡眠<rt>すいみん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of sleep."
   },
   {
     "id": "n2_v_0278",
@@ -4714,8 +4714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じっけん",
     "ruby": "<ruby>実験<rt>じっけん</rt></ruby>",
     "meaning": "experiment",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>実験<rt>じっけん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けた。",
-    "ex_en": "He carried on with his experiment."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>実験<rt>じっけん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning experiment."
   },
   {
     "id": "n2_v_0283",
@@ -4810,8 +4810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じつりょく",
     "ruby": "<ruby>実力<rt>じつりょく</rt></ruby>",
     "meaning": "merit, efficiency, arms",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>実力<rt>じつりょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of merit, efficiency, arms from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>実力<rt>じつりょく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning merit."
   },
   {
     "id": "n2_v_0289",
@@ -4842,8 +4842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じまん",
     "ruby": "<ruby>自慢<rt>じまん</rt></ruby>",
     "meaning": "pride, boast",
-    "ex_ja": "<ruby>卑下<rt>ひげ</rt></ruby>も<ruby>自慢<rt>じまん</rt></ruby>のうち。",
-    "ex_en": "Too much humility is pride."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自慢<rt>じまん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of pride."
   },
   {
     "id": "n2_v_0291",
@@ -4890,8 +4890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんじつ",
     "ruby": "<ruby>先日<rt>せんじつ</rt></ruby>",
     "meaning": "the other day, a few days ago",
-    "ex_ja": "<ruby>先日<rt>せんじつ</rt></ruby><ruby>彼<rt>かれ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>った。",
-    "ex_en": "I met him the other day."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 先日, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0294",
@@ -4922,8 +4922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんたく",
     "ruby": "<ruby>洗濯<rt>せんたく</rt></ruby>",
     "meaning": "washing",
-    "ex_ja": "<ruby>鬼<rt>おに</rt></ruby>の<ruby>留守<rt>るす</rt></ruby>に<ruby>洗濯<rt>せんたく</rt></ruby>。",
-    "ex_en": "When the cat is away, the mice will play."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>洗濯<rt>せんたく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning washing."
   },
   {
     "id": "n2_v_0296",
@@ -5002,8 +5002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅんばん",
     "ruby": "<ruby>順番<rt>じゅんばん</rt></ruby>",
     "meaning": "turn (in line), order of things",
-    "ex_ja": "やっと<ruby>順番<rt>じゅんばん</rt></ruby>がきた。",
-    "ex_en": "At last, my turn came."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>順番<rt>じゅんばん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of turn (in line)."
   },
   {
     "id": "n2_v_0301",
@@ -5050,8 +5050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぜんいん",
     "ruby": "<ruby>全員<rt>ぜんいん</rt></ruby>",
     "meaning": "all members (unanimity), all hands, the whole crew",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of all members from multifaceted perspectives."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>全員<rt>ぜんいん</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 全員, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_0304",
@@ -5066,8 +5066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうし",
     "ruby": "<ruby>上司<rt>じょうし</rt></ruby>",
     "meaning": "superior authorities, boss",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>です。",
-    "ex_en": "He is my boss."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning superior authorities."
   },
   {
     "id": "n2_v_0305",
@@ -5098,8 +5098,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうしゃ",
     "ruby": "<ruby>乗車<rt>じょうしゃ</rt></ruby>",
     "meaning": "taking a train, entraining",
-    "ex_ja": "ご<ruby>乗車<rt>じょうしゃ</rt></ruby><ruby>願<rt>ねが</rt></ruby>います！",
-    "ex_en": "All aboard!"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>乗車<rt>じょうしゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of taking a train."
   },
   {
     "id": "n2_v_0307",
@@ -5130,8 +5130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうたい",
     "ruby": "<ruby>状態<rt>じょうたい</rt></ruby>",
     "meaning": "condition, situation, circumstances",
-    "ex_ja": "<ruby>最高<rt>さいこう</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>ですね。",
-    "ex_en": "It's in peak condition."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of condition."
   },
   {
     "id": "n2_v_0309",
@@ -5146,8 +5146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうこ",
     "ruby": "<ruby>倉庫<rt>そうこ</rt></ruby>",
     "meaning": "storehouse, warehouse, godown",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of storehouse, warehouse, godown from multifaceted perspectives."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>倉庫<rt>そうこ</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 倉庫, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_0310",
@@ -5178,8 +5178,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうじ",
     "ruby": "<ruby>掃除<rt>そうじ</rt></ruby>",
     "meaning": "to clean, to sweep",
-    "ex_ja": "<ruby>大掃除<rt>おおそうじ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>よ。",
-    "ex_en": "It's time for spring cleaning."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning to clean."
   },
   {
     "id": "n2_v_0312",
@@ -5290,8 +5290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうとう",
     "ruby": "<ruby>相当<rt>そうとう</rt></ruby>",
     "meaning": "suitable, fair, tolerable",
-    "ex_ja": "<ruby>相当<rt>そうとう</rt></ruby><ruby>高齢<rt>こうれい</rt></ruby>である。",
-    "ex_en": "He is well advanced in life."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>相当<rt>そうとう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning suitable."
   },
   {
     "id": "n2_v_0319",
@@ -5306,8 +5306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちょうじょう",
     "ruby": "<ruby>頂上<rt>ちょうじょう</rt></ruby>",
     "meaning": "top, summit, peak",
-    "ex_ja": "<ruby>頂上<rt>ちょうじょう</rt></ruby>まで<ruby>登<rt>のぼ</rt></ruby>ったよ。",
-    "ex_en": "We climbed to the top."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頂上<rt>ちょうじょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of top."
   },
   {
     "id": "n2_v_0320",
@@ -5338,8 +5338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つうがく",
     "ruby": "<ruby>通学<rt>つうがく</rt></ruby>",
     "meaning": "commuting to school",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>徒歩通学<rt>とほつうがく</rt></ruby>だ。",
-    "ex_en": "He goes to school on foot."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>通学<rt>つうがく</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 通学, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_0322",
@@ -5370,8 +5370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つうきん",
     "ruby": "<ruby>通勤<rt>つうきん</rt></ruby>",
     "meaning": "commuting to work",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>通勤<rt>つうきん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of commuting to work from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>通勤<rt>つうきん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning commuting to work."
   },
   {
     "id": "n2_v_0324",
@@ -5386,8 +5386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そんけい",
     "ruby": "<ruby>尊敬<rt>そんけい</rt></ruby>",
     "meaning": "respect, esteem, reverence",
-    "ex_ja": "<ruby>心<rt>こころ</rt></ruby>から<ruby>尊敬<rt>そんけい</rt></ruby>する。",
-    "ex_en": "I really respect you."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>尊敬<rt>そんけい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning respect."
   },
   {
     "id": "n2_v_0325",
@@ -5402,8 +5402,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つうやく",
     "ruby": "<ruby>通訳<rt>つうやく</rt></ruby>",
     "meaning": "interpretation",
-    "ex_ja": "<ruby>通訳<rt>つうやく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
-    "ex_en": "I need an interpreter."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>通訳<rt>つうやく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of interpretation."
   },
   {
     "id": "n2_v_0326",
@@ -5450,8 +5450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいざい",
     "ruby": "<ruby>滞在<rt>たいざい</rt></ruby>",
     "meaning": "stay, sojourn",
-    "ex_ja": "ご<ruby>滞在<rt>たいざい</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>は。",
-    "ex_en": "What's the purpose of your visit?"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>滞在<rt>たいざい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning stay."
   },
   {
     "id": "n2_v_0329",
@@ -5482,8 +5482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいそう",
     "ruby": "<ruby>体操<rt>たいそう</rt></ruby>",
     "meaning": "gymnastics, physical exercises, calisthenics",
-    "ex_ja": "<ruby>体操<rt>たいそう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>です！",
-    "ex_en": "It's time for gymnastics!"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>体操<rt>たいそう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of gymnastics."
   },
   {
     "id": "n2_v_0331",
@@ -5546,8 +5546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいりょく",
     "ruby": "<ruby>体力<rt>たいりょく</rt></ruby>",
     "meaning": "physical strength",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>体力<rt>たいりょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of physical strength from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>体力<rt>たいりょく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning physical strength."
   },
   {
     "id": "n2_v_0335",
@@ -5578,8 +5578,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんご",
     "ruby": "<ruby>単語<rt>たんご</rt></ruby>",
     "meaning": "word, vocabulary, (usually) single-character word",
-    "ex_ja": "<ruby>難<rt>むずか</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>です。",
-    "ex_en": "It's a difficult word."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>単語<rt>たんご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning word."
   },
   {
     "id": "n2_v_0337",
@@ -5834,8 +5834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゅうしん",
     "ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>",
     "meaning": "center, core, heart",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自己<rt>じこ</rt></ruby><ruby>中心<rt>ちゅうしん</rt></ruby>です。",
-    "ex_en": "He's self centered."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中心<rt>ちゅうしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of center."
   },
   {
     "id": "n2_v_0353",
@@ -5898,8 +5898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゅうもん",
     "ruby": "<ruby>注文<rt>ちゅうもん</rt></ruby>",
     "meaning": "order, request",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of order, request from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>注文<rt>ちゅうもん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning order."
   },
   {
     "id": "n2_v_0357",
@@ -5930,8 +5930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちょうさ",
     "ruby": "<ruby>調査<rt>ちょうさ</rt></ruby>",
     "meaning": "investigation, examination, inquiry",
-    "ex_ja": "<ruby>国勢調査<rt>こくせいちょうさ</rt></ruby>ってなに？",
-    "ex_en": "What's a census?"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>調査<rt>ちょうさ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning investigation."
   },
   {
     "id": "n2_v_0359",
@@ -6042,8 +6042,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ねんれい",
     "ruby": "<ruby>年齢<rt>ねんれい</rt></ruby>",
     "meaning": "age, years",
-    "ex_ja": "<ruby>年齢<rt>ねんれい</rt></ruby>は<ruby>関係<rt>かんけい</rt></ruby>ない。",
-    "ex_en": "Age is just a number."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>年齢<rt>ねんれい</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 年齢, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0366",
@@ -6058,8 +6058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とちゅう",
     "ruby": "<ruby>途中<rt>とちゅう</rt></ruby>",
     "meaning": "on the way",
-    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る<ruby>途中<rt>とちゅう</rt></ruby>なの？",
-    "ex_en": "Are you on your way home?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>途中<rt>とちゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of on the way."
   },
   {
     "id": "n2_v_0367",
@@ -6106,8 +6106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はいたつ",
     "ruby": "<ruby>配達<rt>はいたつ</rt></ruby>",
     "meaning": "delivery, distribution",
-    "ex_ja": "<ruby>配達<rt>はいたつ</rt></ruby>は<ruby>有料<rt>ゆうりょう</rt></ruby>ですか。",
-    "ex_en": "Do you charge for delivery?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>配達<rt>はいたつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of delivery."
   },
   {
     "id": "n2_v_0370",
@@ -6122,8 +6122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうじ",
     "ruby": "<ruby>同時<rt>どうじ</rt></ruby>",
     "meaning": "simultaneous(ly), concurrent, same time",
-    "ex_ja": "<ruby>同時<rt>どうじ</rt></ruby>に<ruby>起立<rt>きりつ</rt></ruby>した。",
-    "ex_en": "We all stood up at once."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>同時<rt>どうじ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 同時, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0371",
@@ -6170,8 +6170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はっせい",
     "ruby": "<ruby>発生<rt>はっせい</rt></ruby>",
     "meaning": "outbreak, spring forth, occurrence",
-    "ex_ja": "<ruby>疫病<rt>えきびょう</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>した。",
-    "ex_en": "An epidemic has broken out."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>発生<rt>はっせい</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 発生, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0374",
@@ -6186,8 +6186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どりょく",
     "ruby": "<ruby>努力<rt>どりょく</rt></ruby>",
     "meaning": "great effort, exertion, endeavour",
-    "ex_ja": "<ruby>君<rt>くん</rt></ruby>も<ruby>努力<rt>どりょく</rt></ruby>してよ。",
-    "ex_en": "You make an effort too!"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>努力<rt>どりょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of great effort."
   },
   {
     "id": "n2_v_0375",
@@ -6314,8 +6314,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なかみ",
     "ruby": "<ruby>中身<rt>なかみ</rt></ruby>",
     "meaning": "contents, interior, substance",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>中身<rt>なかみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of contents, interior, substance from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中身<rt>なかみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of contents."
   },
   {
     "id": "n2_v_0383",
@@ -6330,8 +6330,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひじょう",
     "ruby": "<ruby>非常<rt>ひじょう</rt></ruby>",
     "meaning": "emergency, extraordinary, unusual",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>非常<rt>ひじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of emergency, extraordinary, unusual from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning emergency."
   },
   {
     "id": "n2_v_0384",
@@ -6554,8 +6554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひるま",
     "ruby": "<ruby>昼間<rt>ひるま</rt></ruby>",
     "meaning": "daytime, during the day",
-    "ex_ja": "<ruby>太陽<rt>たいよう</rt></ruby>は<ruby>昼間<rt>ひるま</rt></ruby><ruby>輝<rt>かがや</rt></ruby>く。",
-    "ex_en": "The sun shines during the day."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>昼間<rt>ひるま</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 昼間, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0398",
@@ -6570,8 +6570,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にんき",
     "ruby": "<ruby>人気<rt>にんき</rt></ruby>",
     "meaning": "sign of life",
-    "ex_ja": "<ruby>人気者<rt>にんきもの</rt></ruby>は<ruby>辛<rt>つら</rt></ruby>いね。",
-    "ex_en": "It's not easy being popular."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>人気<rt>にんき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of sign of life."
   },
   {
     "id": "n2_v_0399",
@@ -6698,8 +6698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふそく",
     "ruby": "<ruby>不足<rt>ふそく</rt></ruby>",
     "meaning": "insufficiency, shortage, deficiency",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>経験不足<rt>けいけんぶそく</rt></ruby>だ。",
-    "ex_en": "He is lacking in experience."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不足<rt>ふそく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of insufficiency."
   },
   {
     "id": "n2_v_0407",
@@ -6762,8 +6762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶか",
     "ruby": "<ruby>部下<rt>ぶか</rt></ruby>",
     "meaning": "subordinate person",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>部下<rt>ぶか</rt></ruby>だ。",
-    "ex_en": "He works under me."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>部下<rt>ぶか</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 部下, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_0411",
@@ -6794,8 +6794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶひん",
     "ruby": "<ruby>部品<rt>ぶひん</rt></ruby>",
     "meaning": "parts, accessories",
-    "ex_ja": "<ruby>車<rt>くるま</rt></ruby>の<ruby>部品<rt>ぶひん</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>い。",
-    "ex_en": "Car parts are expensive."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>部品<rt>ぶひん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of parts."
   },
   {
     "id": "n2_v_0413",
@@ -6842,8 +6842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むしば",
     "ruby": "<ruby>虫歯<rt>むしば</rt></ruby>",
     "meaning": "cavity, tooth decay, decayed tooth",
-    "ex_ja": "<ruby>虫歯<rt>むしば</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>しろ。",
-    "ex_en": "Treat a decayed tooth."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>虫歯<rt>むしば</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning cavity."
   },
   {
     "id": "n2_v_0416",
@@ -6922,8 +6922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "べんとう",
     "ruby": "<ruby>弁当<rt>べんとう</rt></ruby>",
     "meaning": "box lunch",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>で<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>った。",
-    "ex_en": "I bought a box lunch at the station."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of box lunch."
   },
   {
     "id": "n2_v_0421",
@@ -6954,8 +6954,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうこう",
     "ruby": "<ruby>方向<rt>ほうこう</rt></ruby>",
     "meaning": "direction, course, way",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>方向音痴<rt>ほうこうおんち</rt></ruby>だ。",
-    "ex_en": "He has no sense of direction."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>方向<rt>ほうこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning direction."
   },
   {
     "id": "n2_v_0423",
@@ -6970,8 +6970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めいれい",
     "ruby": "<ruby>命令<rt>めいれい</rt></ruby>",
     "meaning": "order, command, decree",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>命令<rt>めいれい</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>だ。",
-    "ex_en": "My orders are absolute."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>命令<rt>めいれい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of order."
   },
   {
     "id": "n2_v_0424",
@@ -7034,8 +7034,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めんせつ",
     "ruby": "<ruby>面接<rt>めんせつ</rt></ruby>",
     "meaning": "interview",
-    "ex_ja": "<ruby>明日<rt>あした</rt></ruby>、<ruby>面接<rt>めんせつ</rt></ruby>なんだ。",
-    "ex_en": "I've got an interview tomorrow."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning interview."
   },
   {
     "id": "n2_v_0428",
@@ -7050,8 +7050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうほう",
     "ruby": "<ruby>方法<rt>ほうほう</rt></ruby>",
     "meaning": "method, manner, way",
-    "ex_ja": "<ruby>他<rt>ほか</rt></ruby>に<ruby>方法<rt>ほうほう</rt></ruby>はない。",
-    "ex_en": "There is no other way."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>方法<rt>ほうほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning method."
   },
   {
     "id": "n2_v_0429",
@@ -7066,8 +7066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もくひょう",
     "ruby": "<ruby>目標<rt>もくひょう</rt></ruby>",
     "meaning": "mark, objective, target",
-    "ex_ja": "<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What's the real goal?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning mark."
   },
   {
     "id": "n2_v_0430",
@@ -7082,8 +7082,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほうもん",
     "ruby": "<ruby>訪問<rt>ほうもん</rt></ruby>",
     "meaning": "call, visit",
-    "ex_ja": "<ruby>訪問者<rt>ほうもんしゃ</rt></ruby>は<ruby>歓迎<rt>かんげい</rt></ruby>する。",
-    "ex_en": "Visitors are welcome."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>訪問<rt>ほうもん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of call."
   },
   {
     "id": "n2_v_0431",
@@ -7146,8 +7146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほどう",
     "ruby": "<ruby>歩道<rt>ほどう</rt></ruby>",
     "meaning": "footpath, walkway, sidewalk",
-    "ex_ja": "<ruby>歩道<rt>ほどう</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きなさい。",
-    "ex_en": "Walk on the pavement."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歩道<rt>ほどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of footpath."
   },
   {
     "id": "n2_v_0435",
@@ -7434,8 +7434,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうそう",
     "ruby": "<ruby>郵送<rt>ゆうそう</rt></ruby>",
     "meaning": "mailing",
-    "ex_ja": "<ruby>本<rt>ほん</rt></ruby>は<ruby>郵送<rt>ゆうそう</rt></ruby>しますね。",
-    "ex_en": "I'll send you the book by mail."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>郵送<rt>ゆうそう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning mailing."
   },
   {
     "id": "n2_v_0453",
@@ -7450,8 +7450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りょうきん",
     "ruby": "<ruby>料金<rt>りょうきん</rt></ruby>",
     "meaning": "fee, charge, fare",
-    "ex_ja": "<ruby>往復切符<rt>おうふくきっぷ</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>は？",
-    "ex_en": "What's the round-trip fare?"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>料金<rt>りょうきん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning fee."
   },
   {
     "id": "n2_v_0454",
@@ -7466,8 +7466,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうりょう",
     "ruby": "<ruby>有料<rt>ゆうりょう</rt></ruby>",
     "meaning": "admission-paid, toll",
-    "ex_ja": "<ruby>配達<rt>はいたつ</rt></ruby>は<ruby>有料<rt>ゆうりょう</rt></ruby>ですか。",
-    "ex_en": "Do you charge for delivery?"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>有料<rt>ゆうりょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning admission-paid."
   },
   {
     "id": "n2_v_0455",
@@ -8074,8 +8074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きっさてん",
     "ruby": "<ruby>喫茶店<rt>きっさてん</rt></ruby>",
     "meaning": "coffee lounge",
-    "ex_ja": "<ruby>喫茶店<rt>きっさてん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたい？",
-    "ex_en": "Do you want to go to a coffee shop?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>喫茶店<rt>きっさてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of coffee lounge."
   },
   {
     "id": "n2_v_0493",
@@ -8378,8 +8378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ながれ",
     "ruby": "<ruby>流<rt>なが</rt></ruby>れ",
     "meaning": "stream, current",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>流<rt>なが</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of stream, current from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>流<rt>なが</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of stream."
   },
   {
     "id": "n2_v_0512",
@@ -8682,8 +8682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんにゅうせい",
     "ruby": "<ruby>新入生<rt>しんにゅうせい</rt></ruby>",
     "meaning": "freshman, first-year student",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>新入生<rt>しんにゅうせい</rt></ruby>です。",
-    "ex_en": "I am a new student."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>新入生<rt>しんにゅうせい</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 新入生, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_0531",
@@ -8762,8 +8762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうびんきょく",
     "ruby": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>",
     "meaning": "post office",
-    "ex_ja": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行<rt>い</rt></ruby>くの？",
-    "ex_en": "Are you going to the post office?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of post office."
   },
   {
     "id": "n2_v_0536",
@@ -8794,8 +8794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "れいぞうこ",
     "ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>",
     "meaning": "refrigerator",
-    "ex_ja": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だよ。",
-    "ex_en": "It's in the fridge."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning refrigerator."
   },
   {
     "id": "n2_v_0538",
@@ -9002,8 +9002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あたえる",
     "ruby": "<ruby>与<rt>あた</rt></ruby>える",
     "meaning": "to give, to present, to award",
-    "ex_ja": "<ruby>豚<rt>ぶた</rt></ruby>に<ruby>真珠<rt>しんじゅ</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えるな。",
-    "ex_en": "Cast not pearls before swine."
+    "ex_ja": "ボランティア<ruby>活動<rt>かつどう</rt></ruby>は、<ruby>地域<rt>ちいき</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>だけでなく<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>の<ruby>成長<rt>せいちょう</rt></ruby>にも<ruby>大<rt>おお</rt></ruby>きな<ruby>良<rt>よ</rt></ruby>い<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える。",
+    "ex_en": "Volunteer activities exert a significant positive influence not only on local society but also on one's own personal growth."
   },
   {
     "id": "n2_v_0551",
@@ -9066,8 +9066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あつかう",
     "ruby": "<ruby>扱<rt>あつか</rt></ruby>う",
     "meaning": "to handle, to deal with, to treat",
-    "ex_ja": "<ruby>最高<rt>さいこう</rt></ruby>の<ruby>品<rt>ひん</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う。",
-    "ex_en": "Deal in top of the line of goods."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>扱<rt>あつか</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to handle until the end is required."
   },
   {
     "id": "n2_v_0555",
@@ -9146,8 +9146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おどろく",
     "ruby": "<ruby>驚<rt>おどろ</rt></ruby>く",
     "meaning": "to be surprised",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>はきっと<ruby>驚<rt>おどろ</rt></ruby>く。",
-    "ex_en": "She is certain to be surprised."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>驚<rt>おどろ</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to be surprised until the end is required."
   },
   {
     "id": "n2_v_0560",
@@ -9162,8 +9162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あまる",
     "ruby": "<ruby>余<rt>あま</rt></ruby>る",
     "meaning": "to remain, to be left over, to be in excess",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>余<rt>あま</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to remain, to be left over, to be in excess from multifaceted perspectives."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>余<rt>あま</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to remain until the end is required."
   },
   {
     "id": "n2_v_0561",
@@ -9226,8 +9226,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あらわす",
     "ruby": "<ruby>表<rt>あらわ</rt></ruby>す",
     "meaning": "to express, to show, to reveal",
-    "ex_ja": "<ruby>酒<rt>さけ</rt></ruby>は<ruby>本心<rt>ほんしん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す。",
-    "ex_en": "In wine, there is truth."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>表<rt>あらわ</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to express until the end is required."
   },
   {
     "id": "n2_v_0565",
@@ -9306,8 +9306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かがやく",
     "ruby": "<ruby>輝<rt>かがや</rt></ruby>く",
     "meaning": "to shine, to glitter, to sparkle",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>輝<rt>かがや</rt></ruby>くの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to shine, to glitter, to sparkle from multifaceted perspectives."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>輝<rt>かがや</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to shine until the end is required."
   },
   {
     "id": "n2_v_0570",
@@ -9786,8 +9786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そだつ",
     "ruby": "<ruby>育<rt>そだ</rt></ruby>つ",
     "meaning": "to raise (child), to be brought up, to grow (up)",
-    "ex_ja": "<ruby>植物<rt>しょくぶつ</rt></ruby>は<ruby>土壌<rt>どじょう</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>つ。",
-    "ex_en": "Plants are nourished by earth."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>育<rt>そだ</rt></ruby>つ<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to raise (child) until the end is required."
   },
   {
     "id": "n2_v_0600",
@@ -9930,8 +9930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ころぶ",
     "ruby": "<ruby>転<rt>ころ</rt></ruby>ぶ",
     "meaning": "to fall down, to fall over",
-    "ex_ja": "<ruby>赤ん坊<rt>あかんぼう</rt></ruby>はよく<ruby>転<rt>ころ</rt></ruby>ぶ。",
-    "ex_en": "Babies often fall down."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>転<rt>ころ</rt></ruby>ぶ<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to fall down until the end is required."
   },
   {
     "id": "n2_v_0609",
@@ -9994,8 +9994,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さがす",
     "ruby": "<ruby>探<rt>さが</rt></ruby>す",
     "meaning": "to look for",
-    "ex_ja": "<ruby>他<rt>ほか</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すよ。",
-    "ex_en": "I'll find another job."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>探<rt>さが</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to look for until the end is required."
   },
   {
     "id": "n2_v_0613",
@@ -10058,8 +10058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "したがう",
     "ruby": "<ruby>従<rt>したが</rt></ruby>う",
     "meaning": "to abide (by the rules), to obey, to follow",
-    "ex_ja": "<ruby>子供<rt>こども</rt></ruby>は<ruby>子宮<rt>しきゅう</rt></ruby>に<ruby>従<rt>したが</rt></ruby>う。",
-    "ex_en": "The child followeth the womb."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>従<rt>したが</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to abide (by the rules) until the end is required."
   },
   {
     "id": "n2_v_0617",
@@ -10090,8 +10090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しはらう",
     "ruby": "<ruby>支払<rt>しはら</rt></ruby>う",
     "meaning": "to pay",
-    "ex_ja": "<ruby>小切手<rt>こぎって</rt></ruby>で<ruby>支払<rt>しはら</rt></ruby>う。",
-    "ex_en": "I will pay for it by check."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>支払<rt>しはら</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to pay until the end is required."
   },
   {
     "id": "n2_v_0619",
@@ -10362,8 +10362,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はかる",
     "ruby": "<ruby>測<rt>はか</rt></ruby>る",
     "meaning": "to measure, to weigh, to survey",
-    "ex_ja": "<ruby>馬<rt>うま</rt></ruby>の<ruby>斤量<rt>きんりょう</rt></ruby>を<ruby>測<rt>はか</rt></ruby>る。",
-    "ex_en": "I will measure the weight of the horse."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>測<rt>はか</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to measure until the end is required."
   },
   {
     "id": "n2_v_0636",
@@ -10458,8 +10458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はずす",
     "ruby": "<ruby>外<rt>はず</rt></ruby>す",
     "meaning": "to unfasten, to remove",
-    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>にも<ruby>口外<rt>こうがい</rt></ruby>するな。",
-    "ex_en": "This is strictly between us."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>外<rt>はず</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to unfasten until the end is required."
   },
   {
     "id": "n2_v_0642",
@@ -10698,8 +10698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にる",
     "ruby": "<ruby>似<rt>に</rt></ruby>る",
     "meaning": "to be similar",
-    "ex_ja": "<ruby>息子<rt>むすこ</rt></ruby>は<ruby>父親<rt>ちちおや</rt></ruby>に<ruby>似<rt>に</rt></ruby>る。",
-    "ex_en": "Like father, like son."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>似<rt>に</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to be similar until the end is required."
   },
   {
     "id": "n2_v_0657",
@@ -10794,8 +10794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ねむる",
     "ruby": "<ruby>眠<rt>ねむ</rt></ruby>る",
     "meaning": "to sleep",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>眠<rt>ねむ</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to sleep from multifaceted perspectives."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>眠<rt>ねむ</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to sleep until the end is required."
   },
   {
     "id": "n2_v_0663",
@@ -10874,8 +10874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もどす",
     "ruby": "<ruby>戻<rt>もど</rt></ruby>す",
     "meaning": "to restore, to put back, to return",
-    "ex_ja": "<ruby>戻<rt>もど</rt></ruby>す<ruby>寸前<rt>すんぜん</rt></ruby>だった。",
-    "ex_en": "I almost threw up."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>戻<rt>もど</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to restore until the end is required."
   },
   {
     "id": "n2_v_0668",
@@ -10970,8 +10970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆるす",
     "ruby": "<ruby>許<rt>ゆる</rt></ruby>す",
     "meaning": "to permit, to allow, to approve",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>には<ruby>気<rt>き</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>すな。",
-    "ex_en": "Be on your guard against him."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>許<rt>ゆる</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to permit until the end is required."
   },
   {
     "id": "n2_v_0674",
@@ -10986,8 +10986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まなぶ",
     "ruby": "<ruby>学<rt>まな</rt></ruby>ぶ",
     "meaning": "to study (in depth), to learn, to take lessons in",
-    "ex_ja": "<ruby>人<rt>にん</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby>から<ruby>学<rt>まな</rt></ruby>ぶ。",
-    "ex_en": "People learn from experience."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>学<rt>まな</rt></ruby>ぶ<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to study (in depth) until the end is required."
   },
   {
     "id": "n2_v_0675",
@@ -11050,8 +11050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みがく",
     "ruby": "<ruby>磨<rt>みが</rt></ruby>く",
     "meaning": "to brush teeth, to polish",
-    "ex_ja": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>く。",
-    "ex_en": "The man brushes his teeth."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>磨<rt>みが</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to brush teeth until the end is required."
   },
   {
     "id": "n2_v_0679",
@@ -11146,8 +11146,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むける",
     "ruby": "<ruby>向<rt>む</rt></ruby>ける",
     "meaning": "to turn towards, to point",
-    "ex_ja": "<ruby>銃<rt>じゅう</rt></ruby>を<ruby>私<rt>わたし</rt></ruby>に<ruby>向<rt>む</rt></ruby>けるな。",
-    "ex_en": "Don't point your gun at me."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>向<rt>む</rt></ruby>ける<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to turn towards until the end is required."
   },
   {
     "id": "n2_v_0685",
@@ -11258,8 +11258,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くりかえす",
     "ruby": "<ruby>繰り返<rt>くりかえ</rt></ruby>す",
     "meaning": "to repeat, to do something over again",
-    "ex_ja": "<ruby>歴史<rt>れきし</rt></ruby>は<ruby>繰り返<rt>くりかえ</rt></ruby>す。",
-    "ex_en": "History repeats itself."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>繰り返<rt>くりかえ</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to repeat until the end is required."
   },
   {
     "id": "n2_v_0692",
@@ -11418,8 +11418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "であう",
     "ruby": "<ruby>出会<rt>であ</rt></ruby>う",
     "meaning": "to meet by chance, to come across, to happen to encounter",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>偶然<rt>ぐうぜん</rt></ruby><ruby>出会<rt>であ</rt></ruby>う。",
-    "ex_en": "I bump into her."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>出会<rt>であ</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to meet by chance until the end is required."
   },
   {
     "id": "n2_v_0702",
@@ -11866,8 +11866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うすい",
     "ruby": "<ruby>薄<rt>うす</rt></ruby>い",
     "meaning": "thin, weak",
-    "ex_ja": "あの<ruby>人<rt>にん</rt></ruby>は<ruby>影<rt>かげ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>い。",
-    "ex_en": "He is always in the background."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>薄<rt>うす</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very thin, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_0730",
@@ -11882,8 +11882,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "したしい",
     "ruby": "<ruby>親<rt>した</rt></ruby>しい",
     "meaning": "intimate, close (e.g. friend)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby>だ。",
-    "ex_en": "He is my close friend."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>親<rt>した</rt></ruby>しく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very intimate, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_0731",
@@ -12090,8 +12090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きつい",
     "ruby": "きつい",
     "meaning": "tight, close, intense",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>靴<rt>くつ</rt></ruby>、きついの。",
-    "ex_en": "My shoes are too small."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとてもきつく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very tight, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_0744",
@@ -12106,8 +12106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めずらしい",
     "ruby": "<ruby>珍<rt>めずら</rt></ruby>しい",
     "meaning": "rare",
-    "ex_ja": "<ruby>珍<rt>めずら</rt></ruby>しい<ruby>名前<rt>なまえ</rt></ruby>だね。",
-    "ex_en": "It's an unusual name."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>珍<rt>めずら</rt></ruby>しく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very rare, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_0745",
@@ -12250,8 +12250,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いろんな",
     "ruby": "いろんな",
     "meaning": "色んな[adn]various",
-    "ex_ja": "<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>にいろんな<ruby>分野<rt>ぶんや</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>漁<rt>あさ</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>が、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>企画<rt>きかく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>役立<rt>やくだ</rt></ruby>っている。",
-    "ex_en": "The experience of reading through specialized books in various fields during my student days has greatly aided my current multifaceted project planning."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、いろんなに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning 色んな[adn]various."
   },
   {
     "id": "n2_v_0754",
@@ -13002,8 +13002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とつぜん",
     "ruby": "<ruby>突然<rt>とつぜん</rt></ruby>",
     "meaning": "abruptly, suddenly, unexpectedly",
-    "ex_ja": "<ruby>突然<rt>とつぜん</rt></ruby><ruby>彼<rt>かれ</rt></ruby>は<ruby>死<rt>し</rt></ruby>んだ。",
-    "ex_en": "He died suddenly."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>突然<rt>とつぜん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning abruptly."
   },
   {
     "id": "n2_v_0801",
@@ -13066,8 +13066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふだん",
     "ruby": "<ruby>普段<rt>ふだん</rt></ruby>",
     "meaning": "usually, habitually, ordinarily",
-    "ex_ja": "<ruby>普段<rt>ふだん</rt></ruby>は<ruby>歩<rt>ある</rt></ruby>きなんだ。",
-    "ex_en": "I usually walk."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>普段<rt>ふだん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning usually."
   },
   {
     "id": "n2_v_0805",
@@ -13114,8 +13114,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じつは",
     "ruby": "<ruby>実<rt>じつ</rt></ruby>は",
     "meaning": "as a matter of fact, by the way",
-    "ex_ja": "<ruby>実<rt>じつ</rt></ruby>は、<ruby>退屈<rt>たいくつ</rt></ruby>なんだ。",
-    "ex_en": "To tell you the truth, I'm bored."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>実<rt>じつ</rt></ruby>はに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning as a matter of fact."
   },
   {
     "id": "n2_v_0808",
@@ -13274,8 +13274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たしょう",
     "ruby": "<ruby>多少<rt>たしょう</rt></ruby>",
     "meaning": "more or less, somewhat, a little",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>多少<rt>たしょう</rt></ruby><ruby>興奮<rt>こうふん</rt></ruby>した。",
-    "ex_en": "He was somewhat excited."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>多少<rt>たしょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning more or less."
   },
   {
     "id": "n2_v_0818",
@@ -13338,8 +13338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つぎつぎ",
     "ruby": "<ruby>次々<rt>つぎつぎ</rt></ruby>",
     "meaning": "in succession, one by one",
-    "ex_ja": "<ruby>次々<rt>つぎつぎ</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった。",
-    "ex_en": "They died one after the other."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>次々<rt>つぎつぎ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning in succession."
   },
   {
     "id": "n2_v_0822",
@@ -14874,8 +14874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ペンキ",
     "ruby": "ペンキ",
     "meaning": "(n) paint (nl: pek)",
-    "ex_ja": "ペンキ<ruby>塗<rt>ぬ</rt></ruby>りたて<ruby>注意<rt>ちゅうい</rt></ruby>",
-    "ex_en": "Caution! Wet Paint"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、ペンキに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning (n) paint (nl: pek)."
   },
   {
     "id": "n2_v_0918",
@@ -15050,8 +15050,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あて",
     "ruby": "<ruby>宛<rt>あて</rt></ruby>",
     "meaning": "addressed to",
-    "ex_ja": "<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>僕宛<rt>ぼくあて</rt></ruby>だよ。",
-    "ex_en": "The letter is for me."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>宛<rt>あて</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning addressed to."
   },
   {
     "id": "n2_v_0929",
@@ -15066,8 +15066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "した",
     "ruby": "<ruby>舌<rt>した</rt></ruby>",
     "meaning": "tongue",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>毒舌家<rt>どくぜつか</rt></ruby>だ。",
-    "ex_en": "She has a sharp tongue."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>舌<rt>した</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of tongue."
   },
   {
     "id": "n2_v_0930",
@@ -15130,8 +15130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はし",
     "ruby": "<ruby>端<rt>はし</rt></ruby>",
     "meaning": "end (e.g. of street), edge, tip",
-    "ex_ja": "<ruby>準備<rt>じゅんび</rt></ruby>は<ruby>万端<rt>ばんたん</rt></ruby>です。",
-    "ex_en": "Everything is ready."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>端<rt>はじ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning end (e.g. of street)."
   },
   {
     "id": "n2_v_0934",
@@ -15338,8 +15338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>革<rt>かわ</rt></ruby>",
     "meaning": "leather",
-    "ex_ja": "<ruby>革命<rt>かくめい</rt></ruby><ruby>記念日<rt>きねんび</rt></ruby><ruby>万歳<rt>ばんざい</rt></ruby>！",
-    "ex_en": "Celebrate the revolution memorial day!"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>革<rt>かわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of leather."
   },
   {
     "id": "n2_v_0947",
@@ -15386,8 +15386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かん",
     "ruby": "<ruby>勘<rt>かん</rt></ruby>",
     "meaning": "perception, intuition, the sixth sense",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勘<rt>かん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of perception, intuition, the sixth sense from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勘<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of perception."
   },
   {
     "id": "n2_v_0950",
@@ -15482,8 +15482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きぬ",
     "ruby": "<ruby>絹<rt>きぬ</rt></ruby>",
     "meaning": "silk",
-    "ex_ja": "<ruby>絹<rt>きぬ</rt></ruby>は<ruby>高価<rt>こうか</rt></ruby>なんだよ。",
-    "ex_en": "Silk is expensive."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>絹<rt>きぬ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of silk."
   },
   {
     "id": "n2_v_0956",
@@ -15514,8 +15514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むらさき",
     "ruby": "<ruby>紫<rt>むらさき</rt></ruby>",
     "meaning": "purple colour, violet",
-    "ex_ja": "<ruby>紫芋<rt>むらさきいも</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいよ。",
-    "ex_en": "I want to eat purple potatoes."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>紫<rt>むらさき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning purple colour."
   },
   {
     "id": "n2_v_0958",
@@ -15658,8 +15658,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>役<rt>やく</rt></ruby>",
     "meaning": "use, service, role",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>役<rt>やく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of use, service, role from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>役<rt>やく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of use."
   },
   {
     "id": "n2_v_0967",
@@ -15674,8 +15674,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けん",
     "ruby": "<ruby>券<rt>けん</rt></ruby>",
     "meaning": "ticket, coupon, bond",
-    "ex_ja": "<ruby>回数券<rt>かいすうけん</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>さい。",
-    "ex_en": "May I have coupon tickets?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>券<rt>けん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of ticket."
   },
   {
     "id": "n2_v_0968",
@@ -15690,8 +15690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つぶ",
     "ruby": "<ruby>粒<rt>つぶ</rt></ruby>",
     "meaning": "grain",
-    "ex_ja": "<ruby>大粒<rt>おおつぶ</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>った。",
-    "ex_en": "Snow fell in large flakes."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>粒<rt>つぶ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning grain."
   },
   {
     "id": "n2_v_0969",
@@ -15722,8 +15722,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げき",
     "ruby": "<ruby>劇<rt>げき</rt></ruby>",
     "meaning": "drama, play",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>劇<rt>げき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of drama, play from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>劇<rt>げき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning drama."
   },
   {
     "id": "n2_v_0971",
@@ -15786,8 +15786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てつ",
     "ruby": "<ruby>鉄<rt>てつ</rt></ruby>",
     "meaning": "iron",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鉄<rt>てつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of iron from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鉄<rt>てつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of iron."
   },
   {
     "id": "n2_v_0975",
@@ -15802,8 +15802,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "らん",
     "ruby": "<ruby>欄<rt>らん</rt></ruby>",
     "meaning": "column of text (e.g. as in a newspaper)",
-    "ex_ja": "<ruby>空欄<rt>くうらん</rt></ruby>を<ruby>埋<rt>う</rt></ruby>めなさい。",
-    "ex_en": "Fill in the blanks."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>欄<rt>らん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of column of text (e.g. as in a newspaper)."
   },
   {
     "id": "n2_v_0976",
@@ -16042,8 +16042,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あかじ",
     "ruby": "<ruby>赤字<rt>あかじ</rt></ruby>",
     "meaning": "deficit, go in the red",
-    "ex_ja": "<ruby>徹底<rt>てってい</rt></ruby>したコスト<ruby>削減<rt>さくげん</rt></ruby>と<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>により、<ruby>赤字<rt>あかじ</rt></ruby><ruby>経営<rt>けいえい</rt></ruby>から<ruby>黒字<rt>くろじ</rt></ruby>への<ruby>転換<rt>てんかん</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>した。",
-    "ex_en": "Through thorough cost-cutting and reviewing operations, we succeeded in turning a deficit into a surplus this term."
+    "ex_ja": "<ruby>徹底<rt>てってい</rt></ruby>したコスト<ruby>削減<rt>さくげん</rt></ruby>と<ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>投入<rt>とうにゅう</rt></ruby>により、<ruby>前年度<rt>ぜんねんど</rt></ruby>の<ruby>赤字<rt>あかじ</rt></ruby>から<ruby>見事<rt>みごと</rt></ruby>に<ruby>黒字<rt>くろじ</rt></ruby><ruby>回復<rt>かいふく</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。",
+    "ex_en": "Through thorough cost reduction and introducing new products, we achieved a remarkable return to profitability from the previous year's deficit."
   },
   {
     "id": "n2_v_0991",
@@ -16058,8 +16058,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっしゅん",
     "ruby": "<ruby>一瞬<rt>いっしゅん</rt></ruby>",
     "meaning": "a moment, an instant",
-    "ex_ja": "<ruby>一瞬<rt>いっしゅん</rt></ruby><ruby>目<rt>め</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じた。",
-    "ex_en": "I closed my eyes for a moment."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一瞬<rt>いっしゅん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of a moment."
   },
   {
     "id": "n2_v_0992",
@@ -16090,8 +16090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっしょう",
     "ruby": "<ruby>一生<rt>いっしょう</rt></ruby>",
     "meaning": "whole life, a lifetime, all through life",
-    "ex_ja": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いた。",
-    "ex_en": "He worked hard."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 一生, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_0994",
@@ -16122,8 +16122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっち",
     "ruby": "<ruby>一致<rt>いっち</rt></ruby>",
     "meaning": "(1) coincidence, agreement, (2) conformity",
-    "ex_ja": "<ruby>両極端<rt>りょうきょくたん</rt></ruby>は<ruby>一致<rt>いっち</rt></ruby>する。",
-    "ex_en": "Extremes meet."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一致<rt>いっち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of (1) coincidence."
   },
   {
     "id": "n2_v_0996",
@@ -16330,8 +16330,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いし",
     "ruby": "<ruby>意志<rt>いし</rt></ruby>",
     "meaning": "will, volition",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>意志<rt>いし</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>い。",
-    "ex_en": "He doesn't have a mind of his own."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>意志<rt>いし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning will."
   },
   {
     "id": "n2_v_1009",
@@ -16458,8 +16458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いしょう",
     "ruby": "<ruby>衣装<rt>いしょう</rt></ruby>",
     "meaning": "clothing, costume, outfit",
-    "ex_ja": "この<ruby>衣装<rt>いしょう</rt></ruby>どう<ruby>思<rt>おも</rt></ruby>う？",
-    "ex_en": "What do you think of this outfit?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>衣装<rt>いしょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of clothing."
   },
   {
     "id": "n2_v_1017",
@@ -16506,8 +16506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うえき",
     "ruby": "<ruby>植木<rt>うえき</rt></ruby>",
     "meaning": "garden shrubs, trees, potted plant",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>植木<rt>うえき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだ。",
-    "ex_en": "I like a garden tree."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>植木<rt>うえき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of garden shrubs."
   },
   {
     "id": "n2_v_1020",
@@ -16602,8 +16602,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいふく",
     "ruby": "<ruby>回復<rt>かいふく</rt></ruby>",
     "meaning": "recovery (from illness), improvement, rehabilitation",
-    "ex_ja": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>回復<rt>かいふく</rt></ruby>した。",
-    "ex_en": "The weather has improved."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>回復<rt>かいふく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning recovery (from illness)."
   },
   {
     "id": "n2_v_1026",
@@ -16682,8 +16682,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えんげき",
     "ruby": "<ruby>演劇<rt>えんげき</rt></ruby>",
     "meaning": "play (theatrical)",
-    "ex_ja": "<ruby>演劇部<rt>えんげきぶ</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>です。",
-    "ex_en": "I belong to the drama club."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>演劇<rt>えんげき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning play (theatrical)."
   },
   {
     "id": "n2_v_1031",
@@ -16890,8 +16890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくしん",
     "ruby": "<ruby>確信<rt>かくしん</rt></ruby>",
     "meaning": "conviction, confidence",
-    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>確信<rt>かくしん</rt></ruby>ある？",
-    "ex_en": "Are you absolutely sure?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>確信<rt>かくしん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning conviction."
   },
   {
     "id": "n2_v_1044",
@@ -16922,8 +16922,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくじ",
     "ruby": "<ruby>各自<rt>かくじ</rt></ruby>",
     "meaning": "individual, each",
-    "ex_ja": "<ruby>各自<rt>かくじ</rt></ruby>の<ruby>部署<rt>ぶしょ</rt></ruby>に<ruby>就<rt>つ</rt></ruby>け。",
-    "ex_en": "Go to your posts."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>各自<rt>かくじ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning individual."
   },
   {
     "id": "n2_v_1046",
@@ -17162,8 +17162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かいせい",
     "ruby": "<ruby>改正<rt>かいせい</rt></ruby>",
     "meaning": "revision, amendment, alteration",
-    "ex_ja": "<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>改正<rt>かいせい</rt></ruby>された。",
-    "ex_en": "The law was changed."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>改正<rt>かいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of revision."
   },
   {
     "id": "n2_v_1061",
@@ -17274,8 +17274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんりょう",
     "ruby": "<ruby>完了<rt>かんりょう</rt></ruby>",
     "meaning": "completion, conclusion",
-    "ex_ja": "よし！<ruby>掃討<rt>そうとう</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>！",
-    "ex_en": "Alright! They're all mopped up!"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>完了<rt>かんりょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning completion."
   },
   {
     "id": "n2_v_1068",
@@ -17322,8 +17322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かそく",
     "ruby": "<ruby>加速<rt>かそく</rt></ruby>",
     "meaning": "acceleration",
-    "ex_ja": "<ruby>列車<rt>れっしゃ</rt></ruby>は<ruby>加速<rt>かそく</rt></ruby>した。",
-    "ex_en": "The train gathered speed."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>加速<rt>かそく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning acceleration."
   },
   {
     "id": "n2_v_1071",
@@ -17498,8 +17498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がくしゃ",
     "ruby": "<ruby>学者<rt>がくしゃ</rt></ruby>",
     "meaning": "scholar",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>物理学者<rt>ぶつりがくしゃ</rt></ruby>だ。",
-    "ex_en": "He is a physicist."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>学者<rt>がくしゃ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning scholar."
   },
   {
     "id": "n2_v_1082",
@@ -17594,8 +17594,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "がくもん",
     "ruby": "<ruby>学問<rt>がくもん</rt></ruby>",
     "meaning": "scholarship, study, learning",
-    "ex_ja": "<ruby>学問<rt>がくもん</rt></ruby>に<ruby>王道<rt>おうどう</rt></ruby>なし。",
-    "ex_en": "There is no easy road to learning."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>学問<rt>がくもん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of scholarship."
   },
   {
     "id": "n2_v_1088",
@@ -17610,8 +17610,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かてい",
     "ruby": "<ruby>過程<rt>かてい</rt></ruby>",
     "meaning": "process",
-    "ex_ja": "<ruby>過程<rt>かてい</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>です。",
-    "ex_en": "The process is important."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>過程<rt>かてい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of process."
   },
   {
     "id": "n2_v_1089",
@@ -17738,8 +17738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんしょう",
     "ruby": "<ruby>鑑賞<rt>かんしょう</rt></ruby>",
     "meaning": "appreciation",
-    "ex_ja": "<ruby>音楽鑑賞<rt>おんがくかんしょう</rt></ruby>が<ruby>趣味<rt>しゅみ</rt></ruby>だ。",
-    "ex_en": "I am interested in listening to music."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>鑑賞<rt>かんしょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning appreciation."
   },
   {
     "id": "n2_v_1097",
@@ -17754,8 +17754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きおく",
     "ruby": "<ruby>記憶<rt>きおく</rt></ruby>",
     "meaning": "memory, recollection, remembrance",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>記憶<rt>きおく</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。",
-    "ex_en": "He has a good memory."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>記憶<rt>きおく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning memory."
   },
   {
     "id": "n2_v_1098",
@@ -17770,8 +17770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんじょう",
     "ruby": "<ruby>感情<rt>かんじょう</rt></ruby>",
     "meaning": "emotion(s), feeling(s), sentiment",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>えた。",
-    "ex_en": "He subdued his passions."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 感情, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_1099",
@@ -17850,8 +17850,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きき",
     "ruby": "<ruby>機器<rt>きき</rt></ruby>",
     "meaning": "device, equipment, machinery",
-    "ex_ja": "<ruby>危機一髪<rt>ききいっぱつ</rt></ruby>だった。",
-    "ex_en": "That was a close shave."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>機器<rt>きき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning device."
   },
   {
     "id": "n2_v_1104",
@@ -17946,8 +17946,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きこう",
     "ruby": "<ruby>気候<rt>きこう</rt></ruby>",
     "meaning": "climate",
-    "ex_ja": "<ruby>気候<rt>きこう</rt></ruby>は<ruby>快適<rt>かいてき</rt></ruby>です。",
-    "ex_en": "I really enjoy the climate."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気候<rt>きこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of climate."
   },
   {
     "id": "n2_v_1110",
@@ -18106,8 +18106,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょうじゅ",
     "ruby": "<ruby>教授<rt>きょうじゅ</rt></ruby>",
     "meaning": "teaching, instruction, professor",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of teaching, instruction, professor from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of teaching."
   },
   {
     "id": "n2_v_1120",
@@ -18298,8 +18298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きょか",
     "ruby": "<ruby>許可<rt>きょか</rt></ruby>",
     "meaning": "permission, approval",
-    "ex_ja": "<ruby>許可<rt>きょか</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですか？",
-    "ex_en": "Do I need permission?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>許可<rt>きょか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of permission."
   },
   {
     "id": "n2_v_1132",
@@ -18346,8 +18346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きゅうしゅう",
     "ruby": "<ruby>吸収<rt>きゅうしゅう</rt></ruby>",
     "meaning": "absorption, suction, attraction",
-    "ex_ja": "<ruby>綿<rt>めん</rt></ruby>は<ruby>水<rt>みず</rt></ruby>を<ruby>吸収<rt>きゅうしゅう</rt></ruby>する。",
-    "ex_en": "Cotton absorbs water."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>吸収<rt>きゅうしゅう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning absorption."
   },
   {
     "id": "n2_v_1135",
@@ -18458,8 +18458,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きんにく",
     "ruby": "<ruby>筋肉<rt>きんにく</rt></ruby>",
     "meaning": "muscle, sinew",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of muscle, sinew from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of muscle."
   },
   {
     "id": "n2_v_1142",
@@ -18522,8 +18522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きんむ",
     "ruby": "<ruby>勤務<rt>きんむ</rt></ruby>",
     "meaning": "service, duty, work",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勤務<rt>きんむ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of service, duty, work from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>勤務<rt>きんむ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of service."
   },
   {
     "id": "n2_v_1146",
@@ -18618,8 +18618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぎむ",
     "ruby": "<ruby>義務<rt>ぎむ</rt></ruby>",
     "meaning": "duty, obligation, responsibility",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>義務<rt>ぎむ</rt></ruby>を<ruby>怠<rt>おこた</rt></ruby>った。",
-    "ex_en": "He neglected his duties."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>義務<rt>ぎむ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning duty."
   },
   {
     "id": "n2_v_1152",
@@ -18714,8 +18714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けいぞく",
     "ruby": "<ruby>継続<rt>けいぞく</rt></ruby>",
     "meaning": "continuation",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>継続<rt>けいぞく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of continuation from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>継続<rt>けいぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning continuation."
   },
   {
     "id": "n2_v_1158",
@@ -18762,8 +18762,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぎろん",
     "ruby": "<ruby>議論<rt>ぎろん</rt></ruby>",
     "meaning": "argument, discussion, dispute",
-    "ex_ja": "<ruby>議論<rt>ぎろん</rt></ruby>は<ruby>継続中<rt>けいぞくちゅう</rt></ruby>だ。",
-    "ex_en": "Discussions are ongoing."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>議論<rt>ぎろん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning argument."
   },
   {
     "id": "n2_v_1161",
@@ -19002,8 +19002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けってい",
     "ruby": "<ruby>決定<rt>けってい</rt></ruby>",
     "meaning": "decision, determination",
-    "ex_ja": "<ruby>決定<rt>けってい</rt></ruby>は<ruby>延期<rt>えんき</rt></ruby>された。",
-    "ex_en": "The decision was put off."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>決定<rt>けってい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of decision."
   },
   {
     "id": "n2_v_1176",
@@ -19066,8 +19066,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けはい",
     "ruby": "<ruby>気配<rt>けはい</rt></ruby>",
     "meaning": "indication, market trend, worry",
-    "ex_ja": "<ruby>秋<rt>あき</rt></ruby>の<ruby>気配<rt>けはい</rt></ruby>がします。",
-    "ex_en": "It feels like fall."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気配<rt>けはい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of indication."
   },
   {
     "id": "n2_v_1180",
@@ -19290,8 +19290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げきじょう",
     "ruby": "<ruby>劇場<rt>げきじょう</rt></ruby>",
     "meaning": "theatre, playhouse",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>劇場<rt>げきじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of theatre, playhouse from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>劇場<rt>げきじょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning theatre."
   },
   {
     "id": "n2_v_1194",
@@ -19418,8 +19418,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうさく",
     "ruby": "<ruby>工作<rt>こうさく</rt></ruby>",
     "meaning": "work, construction, handicraft",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>工作<rt>こうさく</rt></ruby>がうまい。",
-    "ex_en": "He has skill in handwork."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>工作<rt>こうさく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of work."
   },
   {
     "id": "n2_v_1202",
@@ -19450,8 +19450,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうさつ",
     "ruby": "<ruby>考察<rt>こうさつ</rt></ruby>",
     "meaning": "consideration, inquiry, enquiry",
-    "ex_ja": "<ruby>実験<rt>じっけん</rt></ruby>で<ruby>得<rt>え</rt></ruby>られた<ruby>測定<rt>そくてい</rt></ruby>データのばらつきについて<ruby>多角的<rt>たかくてき</rt></ruby>な<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考察<rt>こうさつ</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>え、<ruby>仮説<rt>かせつ</rt></ruby>が<ruby>成立<rt>せいりつ</rt></ruby>する<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>論文<rt>ろんぶん</rt></ruby>に<ruby>明記<rt>めいき</rt></ruby>した。",
-    "ex_en": "I added considerations from multiple perspectives regarding variations in measurement data obtained from the experiment, specifying conditions under which the hypothesis holds in the paper."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>考察<rt>こうさつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning consideration."
   },
   {
     "id": "n2_v_1204",
@@ -19546,8 +19546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうしゃ",
     "ruby": "<ruby>校舎<rt>こうしゃ</rt></ruby>",
     "meaning": "school building",
-    "ex_ja": "<ruby>校舎<rt>こうしゃ</rt></ruby>は<ruby>全焼<rt>ぜんしょう</rt></ruby>した。",
-    "ex_en": "The schoolhouse was burnt to ashes."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>校舎<rt>こうしゃ</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 校舎, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1210",
@@ -19690,8 +19690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうい",
     "ruby": "<ruby>行為<rt>こうい</rt></ruby>",
     "meaning": "act, deed, conduct",
-    "ex_ja": "それは<ruby>売名<rt>ばいめい</rt></ruby><ruby>行為<rt>こうい</rt></ruby>だ。",
-    "ex_en": "That's just a cheap publicity stunt."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>行為<rt>こうい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning act."
   },
   {
     "id": "n2_v_1219",
@@ -19754,8 +19754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうか",
     "ruby": "<ruby>硬貨<rt>こうか</rt></ruby>",
     "meaning": "coin",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>硬貨<rt>こうか</rt></ruby>で<ruby>払<rt>はら</rt></ruby>った。",
-    "ex_en": "I paid in coin."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>硬貨<rt>こうか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of coin."
   },
   {
     "id": "n2_v_1223",
@@ -19770,8 +19770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうぞう",
     "ruby": "<ruby>構造<rt>こうぞう</rt></ruby>",
     "meaning": "structure, construction",
-    "ex_ja": "<ruby>脳<rt>のう</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>だ。",
-    "ex_en": "The structure of the brain is complicated."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>構造<rt>こうぞう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning structure."
   },
   {
     "id": "n2_v_1224",
@@ -19834,8 +19834,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうにゅう",
     "ruby": "<ruby>購入<rt>こうにゅう</rt></ruby>",
     "meaning": "purchase, buy",
-    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>したい。",
-    "ex_en": "I want to buy a house."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>購入<rt>こうにゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of purchase."
   },
   {
     "id": "n2_v_1228",
@@ -19898,8 +19898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうほ",
     "ruby": "<ruby>候補<rt>こうほ</rt></ruby>",
     "meaning": "candidacy",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>立候補<rt>りっこうほ</rt></ruby>した。",
-    "ex_en": "He stood for an election."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>候補<rt>こうほ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of candidacy."
   },
   {
     "id": "n2_v_1232",
@@ -19914,8 +19914,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうかん",
     "ruby": "<ruby>好感<rt>こうかん</rt></ruby>",
     "meaning": "good feeling, good will, favourable impression",
-    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>と<ruby>誰<rt>だれ</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>する？",
-    "ex_en": "Who is being exchanged with whom?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好感<rt>こうかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of good feeling."
   },
   {
     "id": "n2_v_1233",
@@ -19978,8 +19978,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうけん",
     "ruby": "<ruby>貢献<rt>こうけん</rt></ruby>",
     "meaning": "contribution, services",
-    "ex_ja": "<ruby>我が社<rt>わがしゃ</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>した<ruby>製品<rt>せいひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて、<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>しています。",
-    "ex_en": "Through the development of eco-friendly products, our company contributes to realizing a sustainable society."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>貢献<rt>こうけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of contribution."
   },
   {
     "id": "n2_v_1237",
@@ -19994,8 +19994,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうよう",
     "ruby": "<ruby>紅葉<rt>こうよう</rt></ruby>",
     "meaning": "(1) (Japanese) maple",
-    "ex_ja": "<ruby>紅葉<rt>こうよう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まった。",
-    "ex_en": "The leaves began to turn red and yellow."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>紅葉<rt>こうよう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning (1) (Japanese) maple."
   },
   {
     "id": "n2_v_1238",
@@ -20170,8 +20170,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こきょう",
     "ruby": "<ruby>故郷<rt>こきょう</rt></ruby>",
     "meaning": "home town, birthplace, old village",
-    "ex_ja": "<ruby>故郷<rt>こきょう</rt></ruby>が<ruby>恋<rt>こい</rt></ruby>しいな。",
-    "ex_en": "I miss my hometown."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>故郷<rt>こきょう</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 故郷, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1249",
@@ -20186,8 +20186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいぜん",
     "ruby": "<ruby>最善<rt>さいぜん</rt></ruby>",
     "meaning": "the very best",
-    "ex_ja": "<ruby>正直<rt>しょうじき</rt></ruby>は<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>策<rt>さく</rt></ruby>。",
-    "ex_en": "Honesty is the best policy."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of the very best."
   },
   {
     "id": "n2_v_1250",
@@ -20298,8 +20298,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こせい",
     "ruby": "<ruby>個性<rt>こせい</rt></ruby>",
     "meaning": "individuality, personality, idiosyncrasy",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>個性<rt>こせい</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い。",
-    "ex_en": "He has a strong personality."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>個性<rt>こせい</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 個性, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_1257",
@@ -20426,8 +20426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こむぎ",
     "ruby": "<ruby>小麦<rt>こむぎ</rt></ruby>",
     "meaning": "wheat",
-    "ex_ja": "<ruby>毎年<rt>まいとし</rt></ruby><ruby>小麦<rt>こむぎ</rt></ruby>は<ruby>豊作<rt>ほうさく</rt></ruby>だ。",
-    "ex_en": "The wheat crop bears a good harvest every year."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>小麦<rt>こむぎ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of wheat."
   },
   {
     "id": "n2_v_1265",
@@ -20474,8 +20474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さつえい",
     "ruby": "<ruby>撮影<rt>さつえい</rt></ruby>",
     "meaning": "photographing",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>撮影<rt>さつえい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of photographing from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>撮影<rt>さつえい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning photographing."
   },
   {
     "id": "n2_v_1268",
@@ -20506,8 +20506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さほう",
     "ruby": "<ruby>作法<rt>さほう</rt></ruby>",
     "meaning": "manners, etiquette, propriety",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>無作法<rt>ぶさほう</rt></ruby>な<ruby>男<rt>おとこ</rt></ruby>だ。",
-    "ex_en": "He has rough manners."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>作法<rt>さほう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of manners."
   },
   {
     "id": "n2_v_1270",
@@ -20522,8 +20522,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こんらん",
     "ruby": "<ruby>混乱<rt>こんらん</rt></ruby>",
     "meaning": "disorder, chaos, confusion",
-    "ex_ja": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>混乱<rt>こんらん</rt></ruby>している。",
-    "ex_en": "I'm confused."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of disorder."
   },
   {
     "id": "n2_v_1271",
@@ -20538,8 +20538,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さゆう",
     "ruby": "<ruby>左右<rt>さゆう</rt></ruby>",
     "meaning": "(1) left and right, (2) influence, control",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>左右<rt>さゆう</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。",
-    "ex_en": "He looked left and right."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>左右<rt>さゆう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of (1) left and right."
   },
   {
     "id": "n2_v_1272",
@@ -20618,8 +20618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごがく",
     "ruby": "<ruby>語学<rt>ごがく</rt></ruby>",
     "meaning": "language study",
-    "ex_ja": "<ruby>語学<rt>ごがく</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。",
-    "ex_en": "I'm good at languages."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>語学<rt>ごがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of language study."
   },
   {
     "id": "n2_v_1277",
@@ -20650,8 +20650,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ごらく",
     "ruby": "<ruby>娯楽<rt>ごらく</rt></ruby>",
     "meaning": "pleasure, amusement",
-    "ex_ja": "<ruby>村<rt>むら</rt></ruby>には<ruby>娯楽<rt>ごらく</rt></ruby>がない。",
-    "ex_en": "There are not many amusements in the village."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>娯楽<rt>ごらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of pleasure."
   },
   {
     "id": "n2_v_1279",
@@ -20666,8 +20666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さんしょう",
     "ruby": "<ruby>参照<rt>さんしょう</rt></ruby>",
     "meaning": "reference, consultation, consultation",
-    "ex_ja": "<ruby>前述<rt>ぜんじゅつ</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>のこと。",
-    "ex_en": "See above."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>参照<rt>さんしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of reference."
   },
   {
     "id": "n2_v_1280",
@@ -20874,8 +20874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しか",
     "ruby": "<ruby>歯科<rt>しか</rt></ruby>",
     "meaning": "dentistry",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>歯科医<rt>しかい</rt></ruby><ruby>師<rt>し</rt></ruby>です。",
-    "ex_en": "He is a dentist."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歯科<rt>しか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of dentistry."
   },
   {
     "id": "n2_v_1293",
@@ -21130,8 +21130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しじ",
     "ruby": "<ruby>支持<rt>しじ</rt></ruby>",
     "meaning": "support, maintenance",
-    "ex_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>を<ruby>支持<rt>しじ</rt></ruby>した。",
-    "ex_en": "I stood for him."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>支持<rt>しじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of support."
   },
   {
     "id": "n2_v_1309",
@@ -21274,8 +21274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅぎ",
     "ruby": "<ruby>主義<rt>しゅぎ</rt></ruby>",
     "meaning": "doctrine, rule, principle",
-    "ex_ja": "<ruby>民主主義<rt>みんしゅしゅぎ</rt></ruby>って<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What's democracy?"
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主義<rt>しゅぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of doctrine."
   },
   {
     "id": "n2_v_1318",
@@ -21290,8 +21290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しつど",
     "ruby": "<ruby>湿度<rt>しつど</rt></ruby>",
     "meaning": "level of humidity",
-    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。",
-    "ex_en": "It's very humid in Japan."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>湿度<rt>しつど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of level of humidity."
   },
   {
     "id": "n2_v_1319",
@@ -21482,8 +21482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しゅっせ",
     "ruby": "<ruby>出世<rt>しゅっせ</rt></ruby>",
     "meaning": "promotion, successful career, eminence",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>立身<rt>りっしん</rt></ruby><ruby>出世<rt>しゅっせ</rt></ruby>した。",
-    "ex_en": "He succeeded in life."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>出世<rt>しゅっせ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of promotion."
   },
   {
     "id": "n2_v_1331",
@@ -21498,8 +21498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょくぎょう",
     "ruby": "<ruby>職業<rt>しょくぎょう</rt></ruby>",
     "meaning": "occupation, business",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>職業<rt>しょくぎょう</rt></ruby>は<ruby>医師<rt>いし</rt></ruby>だ。",
-    "ex_en": "He is a doctor by profession."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>職業<rt>しょくぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of occupation."
   },
   {
     "id": "n2_v_1332",
@@ -21626,8 +21626,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょくもつ",
     "ruby": "<ruby>食物<rt>しょくもつ</rt></ruby>",
     "meaning": "food, foodstuff",
-    "ex_ja": "<ruby>食物<rt>たべもの</rt></ruby>は<ruby>豊富<rt>ほうふ</rt></ruby>にある。",
-    "ex_en": "We have food in abundance."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>食物<rt>しょくもつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of food."
   },
   {
     "id": "n2_v_1340",
@@ -21690,8 +21690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょぞく",
     "ruby": "<ruby>所属<rt>しょぞく</rt></ruby>",
     "meaning": "attached to, belong to",
-    "ex_ja": "<ruby>演劇部<rt>えんげきぶ</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>です。",
-    "ex_en": "I belong to the drama club."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>所属<rt>しょぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning attached to."
   },
   {
     "id": "n2_v_1344",
@@ -21786,8 +21786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょどう",
     "ruby": "<ruby>書道<rt>しょどう</rt></ruby>",
     "meaning": "calligraphy",
-    "ex_ja": "<ruby>書道<rt>しょどう</rt></ruby>って、<ruby>得意<rt>とくい</rt></ruby>？",
-    "ex_en": "Are you good at calligraphy?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>書道<rt>しょどう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning calligraphy."
   },
   {
     "id": "n2_v_1350",
@@ -21866,8 +21866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょうとつ",
     "ruby": "<ruby>衝突<rt>しょうとつ</rt></ruby>",
     "meaning": "collision, conflict",
-    "ex_ja": "<ruby>正面衝突<rt>しょうめんしょうとつ</rt></ruby>だった。",
-    "ex_en": "The two cars crashed head-on."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>衝突<rt>しょうとつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning collision."
   },
   {
     "id": "n2_v_1355",
@@ -22010,8 +22010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんさつ",
     "ruby": "<ruby>診察<rt>しんさつ</rt></ruby>",
     "meaning": "medical examination",
-    "ex_ja": "<ruby>診察<rt>しんさつ</rt></ruby>は<ruby>以上<rt>いじょう</rt></ruby>です。",
-    "ex_en": "That's it for your medical exam."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>診察<rt>しんさつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of medical examination."
   },
   {
     "id": "n2_v_1364",
@@ -22154,8 +22154,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しょくいん",
     "ruby": "<ruby>職員<rt>しょくいん</rt></ruby>",
     "meaning": "staff member, personnel",
-    "ex_ja": "<ruby>職員<rt>しょくいん</rt></ruby><ruby>以外<rt>いがい</rt></ruby><ruby>入室<rt>にゅうしつ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>。",
-    "ex_en": "Admittance to staff members only."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>職員<rt>しょくいん</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 職員, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_1373",
@@ -22186,8 +22186,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんちく",
     "ruby": "<ruby>新築<rt>しんちく</rt></ruby>",
     "meaning": "new building, new construction",
-    "ex_ja": "<ruby>家<rt>いえ</rt></ruby>を<ruby>新築中<rt>しんちくちゅう</rt></ruby>です。",
-    "ex_en": "I'm getting a new house built."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>新築<rt>しんちく</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 新築, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1375",
@@ -22282,8 +22282,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しんらい",
     "ruby": "<ruby>信頼<rt>しんらい</rt></ruby>",
     "meaning": "reliance, trust, confidence",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>信頼<rt>しんらい</rt></ruby>できる。",
-    "ex_en": "He can be trusted."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>信頼<rt>しんらい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of reliance."
   },
   {
     "id": "n2_v_1381",
@@ -22378,8 +22378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じぎょう",
     "ruby": "<ruby>事業<rt>じぎょう</rt></ruby>",
     "meaning": "project, enterprise, business",
-    "ex_ja": "<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>失敗<rt>しっぱい</rt></ruby>した。",
-    "ex_en": "He failed in business."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of project."
   },
   {
     "id": "n2_v_1387",
@@ -22394,8 +22394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じゅうたく",
     "ruby": "<ruby>住宅<rt>じゅうたく</rt></ruby>",
     "meaning": "resident, housing",
-    "ex_ja": "<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>は<ruby>深刻<rt>しんこく</rt></ruby>だ。",
-    "ex_en": "The housing shortage is very acute."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>住宅<rt>じゅうたく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of resident."
   },
   {
     "id": "n2_v_1388",
@@ -22410,8 +22410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じこ",
     "ruby": "<ruby>自己<rt>じこ</rt></ruby>",
     "meaning": "self, oneself",
-    "ex_ja": "<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をします。",
-    "ex_en": "I'll just introduce myself."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>自己<rt>じこ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning self."
   },
   {
     "id": "n2_v_1389",
@@ -22474,8 +22474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じぞく",
     "ruby": "<ruby>持続<rt>じぞく</rt></ruby>",
     "meaning": "continuation",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>開発<rt>かいはつ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>です。",
-    "ex_en": "He is a specialist in sustainable development."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>持続<rt>じぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning continuation."
   },
   {
     "id": "n2_v_1393",
@@ -22506,8 +22506,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じたい",
     "ruby": "<ruby>自体<rt>じたい</rt></ruby>",
     "meaning": "itself, one's own body, oneself",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>自体<rt>じたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of itself, one's own body, oneself from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>自体<rt>じたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of itself."
   },
   {
     "id": "n2_v_1395",
@@ -22666,8 +22666,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じっしゅう",
     "ruby": "<ruby>実習<rt>じっしゅう</rt></ruby>",
     "meaning": "practice, training",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>実習<rt>じっしゅう</rt></ruby>をします。",
-    "ex_en": "I'm going to do an apprenticeship."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>実習<rt>じっしゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of practice."
   },
   {
     "id": "n2_v_1405",
@@ -22810,8 +22810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうしき",
     "ruby": "<ruby>常識<rt>じょうしき</rt></ruby>",
     "meaning": "common sense",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of common sense from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of common sense."
   },
   {
     "id": "n2_v_1414",
@@ -22842,8 +22842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうしょう",
     "ruby": "<ruby>上昇<rt>じょうしょう</rt></ruby>",
     "meaning": "rising, ascending, climbing",
-    "ex_ja": "<ruby>人気急上昇<rt>にんききゅうじょうしょう</rt></ruby><ruby>中<rt>なか</rt></ruby>です！",
-    "ex_en": "Its popularity is skyrocketing!"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>上昇<rt>じょうしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of rising."
   },
   {
     "id": "n2_v_1416",
@@ -22890,8 +22890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "じょうはつ",
     "ruby": "<ruby>蒸発<rt>じょうはつ</rt></ruby>",
     "meaning": "evaporation, unexplained disappearance",
-    "ex_ja": "<ruby>水<rt>みず</rt></ruby>は<ruby>蒸発<rt>じょうはつ</rt></ruby>しました。",
-    "ex_en": "The water evaporated."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>蒸発<rt>じょうはつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning evaporation."
   },
   {
     "id": "n2_v_1419",
@@ -22938,8 +22938,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいちょう",
     "ruby": "<ruby>成長<rt>せいちょう</rt></ruby>",
     "meaning": "growth, grow to adulthood",
-    "ex_ja": "<ruby>子供<rt>こども</rt></ruby>は<ruby>成長<rt>せいちょう</rt></ruby>が<ruby>早<rt>はや</rt></ruby>い。",
-    "ex_en": "Children grow very quickly."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>成長<rt>せいちょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning growth."
   },
   {
     "id": "n2_v_1422",
@@ -23002,8 +23002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいび",
     "ruby": "<ruby>整備<rt>せいび</rt></ruby>",
     "meaning": "adjustment, completion, consolidation",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>整備士<rt>せいびし</rt></ruby>です。",
-    "ex_en": "I am a mechanic."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>整備<rt>せいび</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of adjustment."
   },
   {
     "id": "n2_v_1426",
@@ -23130,8 +23130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せきたん",
     "ruby": "<ruby>石炭<rt>せきたん</rt></ruby>",
     "meaning": "coal",
-    "ex_ja": "<ruby>石炭<rt>せきたん</rt></ruby>が<ruby>燃<rt>も</rt></ruby>えている。",
-    "ex_en": "The coal is burning."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>石炭<rt>せきたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of coal."
   },
   {
     "id": "n2_v_1434",
@@ -23162,8 +23162,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せきにん",
     "ruby": "<ruby>責任<rt>せきにん</rt></ruby>",
     "meaning": "duty, responsibility",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>責任<rt>せきにん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of duty, responsibility from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>責任<rt>せきにん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning duty."
   },
   {
     "id": "n2_v_1436",
@@ -23306,8 +23306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいきゅう",
     "ruby": "<ruby>請求<rt>せいきゅう</rt></ruby>",
     "meaning": "claim, demand, application",
-    "ex_ja": "これ<ruby>全部<rt>ぜんぶ</rt></ruby>、<ruby>請求書<rt>せいきゅうしょ</rt></ruby>。",
-    "ex_en": "This is the entire invoice."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>請求<rt>せいきゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of claim."
   },
   {
     "id": "n2_v_1445",
@@ -23498,8 +23498,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいしつ",
     "ruby": "<ruby>性質<rt>せいしつ</rt></ruby>",
     "meaning": "nature, property, disposition",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>性質<rt>せいしつ</rt></ruby>が<ruby>頑固<rt>がんこ</rt></ruby>だ。",
-    "ex_en": "He is obstinate in disposition."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>性質<rt>せいしつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of nature."
   },
   {
     "id": "n2_v_1457",
@@ -23514,8 +23514,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんきょ",
     "ruby": "<ruby>選挙<rt>せんきょ</rt></ruby>",
     "meaning": "election",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>選挙<rt>せんきょ</rt></ruby>がある。",
-    "ex_en": "There is an election today."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>選挙<rt>せんきょ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of election."
   },
   {
     "id": "n2_v_1458",
@@ -23530,8 +23530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいしゅん",
     "ruby": "<ruby>青春<rt>せいしゅん</rt></ruby>",
     "meaning": "youth, springtime of life, adolescent",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>青春<rt>せいしゅん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>せ！",
-    "ex_en": "Give me back my youth!"
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>青春<rt>せいしゅん</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 青春, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_1459",
@@ -23546,8 +23546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんこう",
     "ruby": "<ruby>専攻<rt>せんこう</rt></ruby>",
     "meaning": "major subject, special study",
-    "ex_ja": "<ruby>専攻<rt>せんこう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
-    "ex_en": "What's your major?"
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>専攻<rt>せんこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of major subject."
   },
   {
     "id": "n2_v_1460",
@@ -23738,8 +23738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そくど",
     "ruby": "<ruby>速度<rt>そくど</rt></ruby>",
     "meaning": "speed, velocity, rate",
-    "ex_ja": "<ruby>制限速度<rt>せいげんそくど</rt></ruby>ってある？",
-    "ex_en": "Is there a speed limit?"
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>速度<rt>そくど</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 速度, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1472",
@@ -23946,8 +23946,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぜんしん",
     "ruby": "<ruby>全身<rt>ぜんしん</rt></ruby>",
     "meaning": "the whole body, full-length (portrait)",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the whole body, full-length from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>全身<rt>ぜんしん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning the whole body."
   },
   {
     "id": "n2_v_1485",
@@ -24074,8 +24074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "そうおん",
     "ruby": "<ruby>騒音<rt>そうおん</rt></ruby>",
     "meaning": "noise",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>騒音<rt>そうおん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた。",
-    "ex_en": "He heard the noise."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>騒音<rt>そうおん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of noise."
   },
   {
     "id": "n2_v_1493",
@@ -24346,8 +24346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だんけつ",
     "ruby": "<ruby>団結<rt>だんけつ</rt></ruby>",
     "meaning": "unity, union, combination",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>団結<rt>だんけつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of unity, union, combination from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>団結<rt>だんけつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning unity."
   },
   {
     "id": "n2_v_1510",
@@ -24394,8 +24394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいど",
     "ruby": "<ruby>態度<rt>たいど</rt></ruby>",
     "meaning": "attitude, manner",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>態度<rt>たいど</rt></ruby>が<ruby>粗野<rt>そや</rt></ruby>だ。",
-    "ex_en": "He is coarse in manner."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>態度<rt>たいど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of attitude."
   },
   {
     "id": "n2_v_1513",
@@ -24410,8 +24410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちい",
     "ruby": "<ruby>地位<rt>ちい</rt></ruby>",
     "meaning": "(social) position, status",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地位<rt>ちい</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>だ。",
-    "ex_en": "He enjoys his position."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>地位<rt>ちい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of (social) position."
   },
   {
     "id": "n2_v_1514",
@@ -24426,8 +24426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいめん",
     "ruby": "<ruby>対面<rt>たいめん</rt></ruby>",
     "meaning": "interview, meeting",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>とは<ruby>初対面<rt>しょたいめん</rt></ruby>です。",
-    "ex_en": "I met him for the first time."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>対面<rt>たいめん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of interview."
   },
   {
     "id": "n2_v_1515",
@@ -24474,8 +24474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちえ",
     "ruby": "<ruby>知恵<rt>ちえ</rt></ruby>",
     "meaning": "wisdom, wit, sagacity",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>知恵<rt>ちえ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wisdom, wit, sagacity from multifaceted perspectives."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>知恵<rt>ちえ</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 知恵, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1518",
@@ -24698,8 +24698,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちゅうもく",
     "ruby": "<ruby>注目<rt>ちゅうもく</rt></ruby>",
     "meaning": "notice, attention, observation",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>注目<rt>ちゅうもく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of notice, attention, observation from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>注目<rt>ちゅうもく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning notice."
   },
   {
     "id": "n2_v_1532",
@@ -24778,8 +24778,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんとう",
     "ruby": "<ruby>担当<rt>たんとう</rt></ruby>",
     "meaning": "(in) charge",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>担当<rt>たんとう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>担当<rt>たんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of (in) charge."
   },
   {
     "id": "n2_v_1537",
@@ -24842,8 +24842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だいじん",
     "ruby": "<ruby>大臣<rt>だいじん</rt></ruby>",
     "meaning": "cabinet minister",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大臣<rt>だいじん</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めた。",
-    "ex_en": "He resigned from the Cabinet."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>大臣<rt>だいじん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning cabinet minister."
   },
   {
     "id": "n2_v_1541",
@@ -24970,8 +24970,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だっしゅつ",
     "ruby": "<ruby>脱出<rt>だっしゅつ</rt></ruby>",
     "meaning": "escape",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of escape from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>脱出<rt>だっしゅつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning escape."
   },
   {
     "id": "n2_v_1549",
@@ -24986,8 +24986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちりょう",
     "ruby": "<ruby>治療<rt>ちりょう</rt></ruby>",
     "meaning": "medical treatment",
-    "ex_ja": "<ruby>虫歯<rt>むしば</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>しろ。",
-    "ex_en": "Treat a decayed tooth."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>治療<rt>ちりょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of medical treatment."
   },
   {
     "id": "n2_v_1550",
@@ -25098,8 +25098,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つうち",
     "ruby": "<ruby>通知<rt>つうち</rt></ruby>",
     "meaning": "notice, notification",
-    "ex_ja": "<ruby>通知<rt>つうち</rt></ruby><ruby>表<rt>おもて</rt></ruby>はどこなの？",
-    "ex_en": "Where is your report card?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>通知<rt>つうち</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning notice."
   },
   {
     "id": "n2_v_1557",
@@ -25210,8 +25210,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てんこう",
     "ruby": "<ruby>転校<rt>てんこう</rt></ruby>",
     "meaning": "change schools",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>昨年<rt>さくねん</rt></ruby><ruby>転校<rt>てんこう</rt></ruby>した。",
-    "ex_en": "He changed schools last year."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>転校<rt>てんこう</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 転校, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1564",
@@ -25338,8 +25338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "でんし",
     "ruby": "<ruby>電子<rt>でんし</rt></ruby>",
     "meaning": "electron",
-    "ex_ja": "<ruby>電子レンジ<rt>でんしれんじ</rt></ruby><ruby>使<rt>つか</rt></ruby>える？",
-    "ex_en": "Can you use a microwave?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>電子<rt>でんし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning electron."
   },
   {
     "id": "n2_v_1572",
@@ -25370,8 +25370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "でんせん",
     "ruby": "<ruby>伝染<rt>でんせん</rt></ruby>",
     "meaning": "contagion",
-    "ex_ja": "<ruby>風邪<rt>かぜ</rt></ruby>は<ruby>伝染<rt>でんせん</rt></ruby>する。",
-    "ex_en": "Colds are contagious."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>伝染<rt>でんせん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of contagion."
   },
   {
     "id": "n2_v_1574",
@@ -25386,8 +25386,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ていしゅつ",
     "ruby": "<ruby>提出<rt>ていしゅつ</rt></ruby>",
     "meaning": "presentation, submission, filing",
-    "ex_ja": "<ruby>答案<rt>とうあん</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>せよ。",
-    "ex_en": "Hand in your papers."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>提出<rt>ていしゅつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning presentation."
   },
   {
     "id": "n2_v_1575",
@@ -25482,8 +25482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ていねん",
     "ruby": "<ruby>定年<rt>ていねん</rt></ruby>",
     "meaning": "retirement age",
-    "ex_ja": "<ruby>定年<rt>ていねん</rt></ruby>って、<ruby>何歳<rt>なんさい</rt></ruby>？",
-    "ex_en": "What is age of retirement?"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>定年<rt>ていねん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning retirement age."
   },
   {
     "id": "n2_v_1581",
@@ -25658,8 +25658,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とうしゃ",
     "ruby": "<ruby>当社<rt>とうしゃ</rt></ruby>",
     "meaning": "this company, this firm, this shrine",
-    "ex_ja": "<ruby>当社<rt>とうしゃ</rt></ruby>は<ruby>創業<rt>そうぎょう</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>先端技術<rt>せんたんぎじゅつ</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>と<ruby>徹底<rt>てってい</rt></ruby>した<ruby>品質管理<rt>ひんしつかんり</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じてお<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby>に<ruby>応<rt>こた</rt></ruby>え、<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>してまいりました。",
-    "ex_en": "Since our founding, our company has lived up to customer trust through cutting-edge technology development and thorough quality control, contributing to sustainable societal progress."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>当社<rt>とうしゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of this company."
   },
   {
     "id": "n2_v_1592",
@@ -25754,8 +25754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なみき",
     "ruby": "<ruby>並木<rt>なみき</rt></ruby>",
     "meaning": "roadside tree, row of trees",
-    "ex_ja": "<ruby>桜<rt>さくら</rt></ruby><ruby>並木<rt>なみき</rt></ruby>があるわ。",
-    "ex_en": "There are cherry trees on both sides of the street."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>並木<rt>なみき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning roadside tree."
   },
   {
     "id": "n2_v_1598",
@@ -25770,8 +25770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とうろん",
     "ruby": "<ruby>討論<rt>とうろん</rt></ruby>",
     "meaning": "debate, discussion",
-    "ex_ja": "<ruby>討論<rt>とうろん</rt></ruby>を<ruby>継続<rt>けいぞく</rt></ruby>する。",
-    "ex_en": "We will continue the discussion."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>討論<rt>とうろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of debate."
   },
   {
     "id": "n2_v_1599",
@@ -25850,8 +25850,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にっちゅう",
     "ruby": "<ruby>日中<rt>にっちゅう</rt></ruby>",
     "meaning": "daytime, broad daylight",
-    "ex_ja": "<ruby>風<rt>かぜ</rt></ruby>は１<ruby>日中<rt>にっちゅう</rt></ruby><ruby>吹<rt>ふ</rt></ruby>いた。",
-    "ex_en": "The wind blew all day."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 日中, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_1604",
@@ -25898,8 +25898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とし",
     "ruby": "<ruby>都市<rt>とし</rt></ruby>",
     "meaning": "town, city, municipal",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>都市<rt>とし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of town, city, municipal from multifaceted perspectives."
+    "ex_ja": "<ruby>交通<rt>こうつう</rt></ruby>の<ruby>便<rt>びん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>緑<rt>みどり</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>都市<rt>とし</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人々<rt>ひとびと</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れて<ruby>賑<rt>にぎ</rt></ruby>わっている。",
+    "ex_en": "In the 都市, which is easily accessible and lush with greenery, many people visit every day and it is bustling."
   },
   {
     "id": "n2_v_1607",
@@ -26010,8 +26010,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にゅうじょう",
     "ruby": "<ruby>入場<rt>にゅうじょう</rt></ruby>",
     "meaning": "entrance, admission, entering",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>入場<rt>にゅうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of entrance, admission, entering from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>入場<rt>にゅうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of entrance."
   },
   {
     "id": "n2_v_1614",
@@ -26026,8 +26026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうし",
     "ruby": "<ruby>同士<rt>どうし</rt></ruby>",
     "meaning": "fellow, companion, comrade",
-    "ex_ja": "お<ruby>互<rt>たが</rt></ruby>い<ruby>仇<rt>あだ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>だ。",
-    "ex_en": "They are bitter enemies."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>同士<rt>どうし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning fellow."
   },
   {
     "id": "n2_v_1615",
@@ -26074,8 +26074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ねんかん",
     "ruby": "<ruby>年間<rt>ねんかん</rt></ruby>",
     "meaning": "year",
-    "ex_ja": "<ruby>保証<rt>ほしょう</rt></ruby>は<ruby>一年間<rt>いちねんかん</rt></ruby>です。",
-    "ex_en": "We guarantee our products for one year."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>年間<rt>ねんかん</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 年間, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_1618",
@@ -26218,8 +26218,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どうりょう",
     "ruby": "<ruby>同僚<rt>どうりょう</rt></ruby>",
     "meaning": "coworker, colleague, associate",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>同僚<rt>どうりょう</rt></ruby>だよ。",
-    "ex_en": "She is one of my colleagues."
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>同僚<rt>どうりょう</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_en": "The 同僚, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
     "id": "n2_v_1627",
@@ -26474,8 +26474,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はくしゅ",
     "ruby": "<ruby>拍手<rt>はくしゅ</rt></ruby>",
     "meaning": "clapping hands, applause",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>拍手<rt>はくしゅ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of clapping hands, applause from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>拍手<rt>はくしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of clapping hands."
   },
   {
     "id": "n2_v_1643",
@@ -26554,8 +26554,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんだん",
     "ruby": "<ruby>判断<rt>はんだん</rt></ruby>",
     "meaning": "judgement, decision",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>判断<rt>はんだん</rt></ruby>を<ruby>誤<rt>あやま</rt></ruby>った。",
-    "ex_en": "He erred in his judgement."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>判断<rt>はんだん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of judgement."
   },
   {
     "id": "n2_v_1648",
@@ -26570,8 +26570,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はつげん",
     "ruby": "<ruby>発言<rt>はつげん</rt></ruby>",
     "meaning": "utterance, speech, proposal",
-    "ex_ja": "<ruby>発言<rt>はつげん</rt></ruby>を<ruby>撤回<rt>てっかい</rt></ruby>しろ！",
-    "ex_en": "Withdraw your remarks!"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>発言<rt>はつげん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning utterance."
   },
   {
     "id": "n2_v_1649",
@@ -26618,8 +26618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんばい",
     "ruby": "<ruby>販売<rt>はんばい</rt></ruby>",
     "meaning": "sale, selling, marketing",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>販売員<rt>はんばいいん</rt></ruby>です。",
-    "ex_en": "I'm a salesperson."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>販売<rt>はんばい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning sale."
   },
   {
     "id": "n2_v_1652",
@@ -26986,8 +26986,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんい",
     "ruby": "<ruby>範囲<rt>はんい</rt></ruby>",
     "meaning": "extent, scope, sphere",
-    "ex_ja": "<ruby>想定<rt>そうてい</rt></ruby>の<ruby>範囲外<rt>はんいがい</rt></ruby>だ。",
-    "ex_en": "I never imagined anything like this."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>範囲<rt>はんい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning extent."
   },
   {
     "id": "n2_v_1675",
@@ -27002,8 +27002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひなん",
     "ruby": "<ruby>非難<rt>ひなん</rt></ruby>",
     "meaning": "blame, attack, criticism",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>を<ruby>非難<rt>ひなん</rt></ruby>した。",
-    "ex_en": "He cast reflections on me."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>非難<rt>ひなん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of blame."
   },
   {
     "id": "n2_v_1676",
@@ -27242,8 +27242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひょうじゅん",
     "ruby": "<ruby>標準<rt>ひょうじゅん</rt></ruby>",
     "meaning": "standard, level",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>標準<rt>ひょうじゅん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of standard, level from multifaceted perspectives."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>標準<rt>ひょうじゅん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning standard."
   },
   {
     "id": "n2_v_1691",
@@ -27274,8 +27274,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひょうじょう",
     "ruby": "<ruby>表情<rt>ひょうじょう</rt></ruby>",
     "meaning": "facial expression",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>表情<rt>ひょうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of facial expression from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>表情<rt>ひょうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of facial expression."
   },
   {
     "id": "n2_v_1693",
@@ -27306,8 +27306,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひょうばん",
     "ruby": "<ruby>評判<rt>ひょうばん</rt></ruby>",
     "meaning": "fame, reputation, popularity",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>評判<rt>ひょうばん</rt></ruby>がよい。",
-    "ex_en": "He has a good reputation."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>評判<rt>ひょうばん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of fame."
   },
   {
     "id": "n2_v_1695",
@@ -27610,8 +27610,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "へんこう",
     "ruby": "<ruby>変更<rt>へんこう</rt></ruby>",
     "meaning": "change, modification, alteration",
-    "ex_ja": "<ruby>文<rt>ぶん</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>しました。",
-    "ex_en": "I changed the sentence."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>変更<rt>へんこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of change."
   },
   {
     "id": "n2_v_1714",
@@ -27690,8 +27690,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶたい",
     "ruby": "<ruby>舞台<rt>ぶたい</rt></ruby>",
     "meaning": "stage (theatre)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>舞台<rt>ぶたい</rt></ruby>に<ruby>立<rt>た</rt></ruby>った。",
-    "ex_en": "He acted on the stage."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>舞台<rt>ぶたい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning stage (theatre)."
   },
   {
     "id": "n2_v_1719",
@@ -27706,8 +27706,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "へんとう",
     "ruby": "<ruby>返答<rt>へんとう</rt></ruby>",
     "meaning": "reply",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>返答<rt>へんとう</rt></ruby>に<ruby>窮<rt>きゅう</rt></ruby>した。",
-    "ex_en": "I was at a loss for an answer."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>返答<rt>へんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of reply."
   },
   {
     "id": "n2_v_1720",
@@ -27754,8 +27754,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶっしつ",
     "ruby": "<ruby>物質<rt>ぶっしつ</rt></ruby>",
     "meaning": "material, substance",
-    "ex_ja": "<ruby>塩<rt>しお</rt></ruby>は<ruby>有用<rt>ゆうよう</rt></ruby>な<ruby>物質<rt>ぶっしつ</rt></ruby>だ。",
-    "ex_en": "Salt is a useful substance."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>物質<rt>ぶっしつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning material."
   },
   {
     "id": "n2_v_1723",
@@ -27786,8 +27786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶんかい",
     "ruby": "<ruby>分解<rt>ぶんかい</rt></ruby>",
     "meaning": "analysis, disassembly",
-    "ex_ja": "<ruby>必要<rt>ひつよう</rt></ruby>なら<ruby>分解<rt>ぶんかい</rt></ruby>して。",
-    "ex_en": "Take it apart if necessary."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>分解<rt>ぶんかい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of analysis."
   },
   {
     "id": "n2_v_1725",
@@ -27866,8 +27866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みりょく",
     "ruby": "<ruby>魅力<rt>みりょく</rt></ruby>",
     "meaning": "charm, fascination, glamour",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>魅力的<rt>みりょくてき</rt></ruby>だ。",
-    "ex_en": "She is attractive."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>魅力<rt>みりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of charm."
   },
   {
     "id": "n2_v_1730",
@@ -27994,8 +27994,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むげん",
     "ruby": "<ruby>無限<rt>むげん</rt></ruby>",
     "meaning": "infinite",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>無限<rt>むげん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of infinite from multifaceted perspectives."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>無限<rt>むげん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of infinite."
   },
   {
     "id": "n2_v_1738",
@@ -28042,8 +28042,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほしょう",
     "ruby": "<ruby>保証<rt>ほしょう</rt></ruby>",
     "meaning": "guarantee, security, assurance",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>が<ruby>保証<rt>ほしょう</rt></ruby>するよ。",
-    "ex_en": "I will endorse it."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>保証<rt>ほしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of guarantee."
   },
   {
     "id": "n2_v_1741",
@@ -28346,8 +28346,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めんかい",
     "ruby": "<ruby>面会<rt>めんかい</rt></ruby>",
     "meaning": "interview",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>面会<rt>めんかい</rt></ruby><ruby>謝絶<rt>しゃぜつ</rt></ruby>だ。",
-    "ex_en": "He sees no company."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面会<rt>めんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of interview."
   },
   {
     "id": "n2_v_1760",
@@ -28394,8 +28394,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まんてん",
     "ruby": "<ruby>満点<rt>まんてん</rt></ruby>",
     "meaning": "perfect score",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>った。",
-    "ex_en": "He got full marks."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>満点<rt>まんてん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of perfect score."
   },
   {
     "id": "n2_v_1763",
@@ -28490,8 +28490,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "みぶん",
     "ruby": "<ruby>身分<rt>みぶん</rt></ruby>",
     "meaning": "social position, social status",
-    "ex_ja": "<ruby>身分相応<rt>みぶんそうおう</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らせ。",
-    "ex_en": "Cut your coat according to your cloth."
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>身分<rt>みぶん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ex_en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of social position."
   },
   {
     "id": "n2_v_1769",
@@ -28746,8 +28746,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆうせん",
     "ruby": "<ruby>優先<rt>ゆうせん</rt></ruby>",
     "meaning": "preference, priority",
-    "ex_ja": "<ruby>年寄<rt>としよ</rt></ruby>りを<ruby>優先<rt>ゆうせん</rt></ruby>しろ。",
-    "ex_en": "Do make older people the priority!"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>優先<rt>ゆうせん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning preference."
   },
   {
     "id": "n2_v_1785",
@@ -28794,8 +28794,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よぼう",
     "ruby": "<ruby>予防<rt>よぼう</rt></ruby>",
     "meaning": "prevention, precaution, protection against",
-    "ex_ja": "<ruby>治療<rt>ちりょう</rt></ruby>よりも<ruby>予防<rt>よぼう</rt></ruby>。",
-    "ex_en": "Prevention is better than cure."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>予防<rt>よぼう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning prevention."
   },
   {
     "id": "n2_v_1788",
@@ -28810,8 +28810,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆだん",
     "ruby": "<ruby>油断<rt>ゆだん</rt></ruby>",
     "meaning": "negligence, unpreparedness",
-    "ex_ja": "<ruby>油断<rt>ゆだん</rt></ruby>は<ruby>禁物<rt>きんもつ</rt></ruby>だよ。",
-    "ex_en": "You've got to be on your toes."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>油断<rt>ゆだん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning negligence."
   },
   {
     "id": "n2_v_1789",
@@ -28874,8 +28874,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ようきゅう",
     "ruby": "<ruby>要求<rt>ようきゅう</rt></ruby>",
     "meaning": "request, demand, requisition",
-    "ex_ja": "<ruby>要求<rt>ようきゅう</rt></ruby>は<ruby>認<rt>みと</rt></ruby>められた。",
-    "ex_en": "The request was granted."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>要求<rt>ようきゅう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning request."
   },
   {
     "id": "n2_v_1793",
@@ -29322,8 +29322,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "れいぎ",
     "ruby": "<ruby>礼儀<rt>れいぎ</rt></ruby>",
     "meaning": "manners, courtesy, etiquette",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>礼儀正<rt>れいぎただ</rt></ruby>しい。",
-    "ex_en": "She has fine manners."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>礼儀<rt>れいぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of manners."
   },
   {
     "id": "n2_v_1821",
@@ -29354,8 +29354,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "れんあい",
     "ruby": "<ruby>恋愛<rt>れんあい</rt></ruby>",
     "meaning": "love, love-making, passion",
-    "ex_ja": "<ruby>恋愛<rt>れんあい</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>だ。",
-    "ex_en": "Falling in love is one thing; getting married is another."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>恋愛<rt>れんあい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning love."
   },
   {
     "id": "n2_v_1823",
@@ -29402,8 +29402,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "われわれ",
     "ruby": "<ruby>我々<rt>われわれ</rt></ruby>",
     "meaning": "we",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>我々<rt>われわれ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of we from multifaceted perspectives."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>我々<rt>われわれ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning we."
   },
   {
     "id": "n2_v_1826",
@@ -29546,8 +29546,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うごき",
     "ruby": "<ruby>動<rt>うご</rt></ruby>き",
     "meaning": "movement, activity, trend",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>動<rt>うご</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>ける。",
-    "ex_en": "I gotta keep on movin'."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>動<rt>うご</rt></ruby>きに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning movement."
   },
   {
     "id": "n2_v_1835",
@@ -29818,8 +29818,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いねむり",
     "ruby": "<ruby>居眠<rt>いねむ</rt></ruby>り",
     "meaning": "dozing, nodding off",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>居眠<rt>いねむ</rt></ruby>りをした。",
-    "ex_en": "He dozed off."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>居眠<rt>いねむ</rt></ruby>りに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning dozing."
   },
   {
     "id": "n2_v_1852",
@@ -29946,8 +29946,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おくりもの",
     "ruby": "<ruby>贈り物<rt>おくりもの</rt></ruby>",
     "meaning": "gift",
-    "ex_ja": "<ruby>贈り物<rt>おくりもの</rt></ruby>があります。",
-    "ex_en": "I have some gifts."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>贈り物<rt>おくりもの</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning gift."
   },
   {
     "id": "n2_v_1860",
@@ -32090,8 +32090,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せんぷうき",
     "ruby": "<ruby>扇風機<rt>せんぷうき</rt></ruby>",
     "meaning": "electric fan",
-    "ex_ja": "<ruby>扇風機<rt>せんぷうき</rt></ruby>がほしいな。",
-    "ex_en": "I want the fan."
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>扇風機<rt>せんぷうき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning electric fan."
   },
   {
     "id": "n2_v_1994",
@@ -33242,8 +33242,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はりがみ",
     "ruby": "<ruby>張り紙<rt>はりがみ</rt></ruby>",
     "meaning": "paper patch, paper backing, poster",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>張り紙<rt>はりがみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of paper patch, paper backing, poster from multifaceted perspectives."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>張り紙<rt>はりがみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of paper patch."
   },
   {
     "id": "n2_v_2066",
@@ -33258,8 +33258,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほこり",
     "ruby": "ほこり",
     "meaning": "埃[n]dust",
-    "ex_ja": "<ruby>机<rt>つくえ</rt></ruby>は<ruby>埃<rt>ほこり</rt></ruby>まみれだ。",
-    "ex_en": "Dust covers the desk."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほこりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of 埃[n]dust."
   },
   {
     "id": "n2_v_2067",
@@ -33338,8 +33338,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひがえり",
     "ruby": "<ruby>日帰<rt>ひがえ</rt></ruby>り",
     "meaning": "day trip",
-    "ex_ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>明日<rt>あした</rt></ruby><ruby>帰<rt>かえ</rt></ruby>ります。",
-    "ex_en": "Father is coming home tomorrow."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>日帰<rt>ひがえ</rt></ruby>りの<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 日帰り, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_2072",
@@ -33898,8 +33898,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いわう",
     "ruby": "<ruby>祝<rt>いわ</rt></ruby>う",
     "meaning": "to congratulate, to celebrate",
-    "ex_ja": "<ruby>七夕<rt>たなばた</rt></ruby>は<ruby>七月<rt>しちがつ</rt></ruby>に<ruby>祝<rt>いわ</rt></ruby>う。",
-    "ex_en": "We celebrate Tanabata in July."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>祝<rt>いわ</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to congratulate until the end is required."
   },
   {
     "id": "n2_v_2107",
@@ -34138,8 +34138,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あやまる",
     "ruby": "<ruby>誤<rt>あやま</rt></ruby>る",
     "meaning": "to make a mistake",
-    "ex_ja": "<ruby>好奇心<rt>こうきしん</rt></ruby>は<ruby>身<rt>み</rt></ruby>を<ruby>誤<rt>あやま</rt></ruby>る。",
-    "ex_en": "Curiosity killed the cat."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>誤<rt>あやま</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to make a mistake until the end is required."
   },
   {
     "id": "n2_v_2122",
@@ -34378,8 +34378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えんじる",
     "ruby": "<ruby>演<rt>えん</rt></ruby>じる",
     "meaning": "to perform (a play), to play (a part), to act (a part)",
-    "ex_ja": "<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>役<rt>やく</rt></ruby>を<ruby>演<rt>えん</rt></ruby>じる。",
-    "ex_en": "I play an important part."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>演<rt>えん</rt></ruby>じる<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to perform (a play) until the end is required."
   },
   {
     "id": "n2_v_2137",
@@ -34410,8 +34410,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おう",
     "ruby": "<ruby>追<rt>お</rt></ruby>う",
     "meaning": "to chase, to run after",
-    "ex_ja": "<ruby>目先<rt>めさき</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>ばかりを<ruby>追<rt>お</rt></ruby>うのではなく、<ruby>長期的<rt>ちょうきてき</rt></ruby>な<ruby>視点<rt>してん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>持続<rt>じぞく</rt></ruby><ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えるべきだ。",
-    "ex_en": "Rather than merely chasing short-term profits, we should consider the sustainability of our business from a long-term perspective."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>追<rt>お</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to chase until the end is required."
   },
   {
     "id": "n2_v_2139",
@@ -34746,8 +34746,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おそれる",
     "ruby": "<ruby>恐<rt>おそ</rt></ruby>れる",
     "meaning": "to fear, to be afraid of",
-    "ex_ja": "<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れるな。",
-    "ex_en": "Don't be afraid of making mistakes."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>恐<rt>おそ</rt></ruby>れる<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to fear until the end is required."
   },
   {
     "id": "n2_v_2160",
@@ -35226,8 +35226,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かたる",
     "ruby": "<ruby>語<rt>かた</rt></ruby>る",
     "meaning": "to talk, to tell, to recite",
-    "ex_ja": "<ruby>夢<rt>ゆめ</rt></ruby>は<ruby>真実<rt>しんじつ</rt></ruby>を<ruby>語<rt>かた</rt></ruby>る。",
-    "ex_en": "Dreams speak the truth."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>語<rt>かた</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to talk until the end is required."
   },
   {
     "id": "n2_v_2190",
@@ -35290,8 +35290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "このむ",
     "ruby": "<ruby>好<rt>この</rt></ruby>む",
     "meaning": "to like, to prefer",
-    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>好<rt>この</rt></ruby>むの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
-    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to like, to prefer from multifaceted perspectives."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>好<rt>この</rt></ruby>む<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to like until the end is required."
   },
   {
     "id": "n2_v_2194",
@@ -35626,8 +35626,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たおす",
     "ruby": "<ruby>倒<rt>たお</rt></ruby>す",
     "meaning": "to throw down, to beat, to bring down",
-    "ex_ja": "<ruby>本末<rt>ほんまつ</rt></ruby>を<ruby>転倒<rt>てんとう</rt></ruby>するな。",
-    "ex_en": "Don't put the cart before the horse."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>倒<rt>たお</rt></ruby>す<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to throw down until the end is required."
   },
   {
     "id": "n2_v_2215",
@@ -35770,8 +35770,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しめる",
     "ruby": "<ruby>占<rt>し</rt></ruby>める",
     "meaning": "(1) to comprise, to account for, to make up (of)",
-    "ex_ja": "<ruby>漁夫<rt>ぎょふ</rt></ruby>の<ruby>利<rt>り</rt></ruby>を<ruby>占<rt>し</rt></ruby>める。",
-    "ex_en": "A third party makes off with the profits."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>占<rt>し</rt></ruby>める<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to (1) to comprise until the end is required."
   },
   {
     "id": "n2_v_2224",
@@ -35786,8 +35786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たっする",
     "ruby": "<ruby>達<rt>たっ</rt></ruby>する",
     "meaning": "to reach, to get to",
-    "ex_ja": "<ruby>資金<rt>しきん</rt></ruby>を<ruby>調達<rt>ちょうたつ</rt></ruby>する。",
-    "ex_en": "I raise funds."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>達<rt>たっ</rt></ruby>する<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to reach until the end is required."
   },
   {
     "id": "n2_v_2225",
@@ -36122,8 +36122,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つくる",
     "ruby": "<ruby>創<rt>つく</rt></ruby>る",
     "meaning": "創る (つくる)",
-    "ex_ja": "過去の慣習や固定概念にとらわれず、持続可能で誰もが暮らしやすい未来の社会を<ruby>創る<rt>つくる</rt></ruby>ための産学共同プロジェクトが始動した。",
-    "ex_en": "An industry-academia joint project was launched to create a sustainable future society where everyone can thrive, free from past conventions and preconceived notions."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>創<rt>つく</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to 創る (つくる) until the end is required."
   },
   {
     "id": "n2_v_2246",
@@ -36426,8 +36426,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "のぞむ",
     "ruby": "<ruby>望<rt>のぞ</rt></ruby>む",
     "meaning": "to desire, to wish for, to see",
-    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>でも<ruby>幸福<rt>こうふく</rt></ruby>を<ruby>望<rt>のぞ</rt></ruby>む。",
-    "ex_en": "Everybody desires happiness."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>望<rt>のぞ</rt></ruby>む<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to desire until the end is required."
   },
   {
     "id": "n2_v_2265",
@@ -36618,8 +36618,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はたす",
     "ruby": "<ruby>果<rt>は</rt></ruby>たす",
     "meaning": "to accomplish, to fulfill, to carry out",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>約束<rt>やくそく</rt></ruby>を<ruby>果<rt>は</rt></ruby>たす。",
-    "ex_en": "He always fulfills his promises."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>果<rt>は</rt></ruby>たす<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to accomplish until the end is required."
   },
   {
     "id": "n2_v_2277",
@@ -36714,8 +36714,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まねく",
     "ruby": "<ruby>招<rt>まね</rt></ruby>く",
     "meaning": "to invite",
-    "ex_ja": "<ruby>怠惰<rt>たいだ</rt></ruby>は<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>招<rt>まね</rt></ruby>く。",
-    "ex_en": "Idleness leads to failure."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>招<rt>まね</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to invite until the end is required."
   },
   {
     "id": "n2_v_2283",
@@ -37002,8 +37002,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めいじる",
     "ruby": "<ruby>命<rt>めい</rt></ruby>じる",
     "meaning": "to order, to command, to appoint",
-    "ex_ja": "<ruby>回<rt>まわ</rt></ruby>れ<ruby>右<rt>みぎ</rt></ruby>を<ruby>命<rt>めい</rt></ruby>じる。",
-    "ex_en": "I order you to turn right."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>命<rt>めい</rt></ruby>じる<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to order until the end is required."
   },
   {
     "id": "n2_v_2301",
@@ -37130,8 +37130,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めだつ",
     "ruby": "<ruby>目立<rt>めだ</rt></ruby>つ",
     "meaning": "to be conspicuous, to stand out",
-    "ex_ja": "<ruby>林<rt>はやし</rt></ruby>に<ruby>竹<rt>たけ</rt></ruby>が<ruby>目立<rt>めだ</rt></ruby>つ。",
-    "ex_en": "Bamboo stands out in the woods."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>目立<rt>めだ</rt></ruby>つ<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to be conspicuous until the end is required."
   },
   {
     "id": "n2_v_2309",
@@ -37290,8 +37290,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もとめる",
     "ruby": "<ruby>求<rt>もと</rt></ruby>める",
     "meaning": "to seek, to request, to demand",
-    "ex_ja": "<ruby>名声<rt>めいせい</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めるな。",
-    "ex_en": "Don't chase after fame."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>求<rt>もと</rt></ruby>める<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to to seek until the end is required."
   },
   {
     "id": "n2_v_2319",
@@ -39530,8 +39530,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あらい",
     "ruby": "<ruby>荒<rt>あら</rt></ruby>い",
     "meaning": "rough, rude, wild",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby>が<ruby>荒<rt>あら</rt></ruby>い。",
-    "ex_en": "He drives roughly."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>荒<rt>あら</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very rough, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2459",
@@ -39706,8 +39706,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たくましい",
     "ruby": "たくましい",
     "meaning": "burly, strong, sturdy",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>逞<rt>たくま</rt></ruby>しい<ruby>男<rt>おとこ</rt></ruby>だ。",
-    "ex_en": "He is a strapping man."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとてもたくましく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very burly, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2470",
@@ -39738,8 +39738,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たのもしい",
     "ruby": "<ruby>頼<rt>たの</rt></ruby>もしい",
     "meaning": "reliable, trustworthy, hopeful",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>頼<rt>たの</rt></ruby>もしい<ruby>男<rt>おとこ</rt></ruby>だ。",
-    "ex_en": "He is a man to be depended on."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>頼<rt>たの</rt></ruby>もしく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very reliable, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2472",
@@ -39866,8 +39866,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にぶい",
     "ruby": "<ruby>鈍<rt>にぶ</rt></ruby>い",
     "meaning": "dull (e.g. a knife), thickheaded, slow (opposite of fast)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>動作<rt>どうさ</rt></ruby>が<ruby>鈍<rt>にぶ</rt></ruby>い。",
-    "ex_en": "He is slow in action."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>鈍<rt>にぶ</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very dull (e.g. a knife), and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2480",
@@ -39930,8 +39930,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はげしい",
     "ruby": "<ruby>激<rt>はげ</rt></ruby>しい",
     "meaning": "violent, vehement, intense",
-    "ex_ja": "<ruby>胎動<rt>たいどう</rt></ruby>が<ruby>激<rt>はげ</rt></ruby>しいです。",
-    "ex_en": "My baby kicks very hard."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>激<rt>はげ</rt></ruby>しく<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very violent, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2484",
@@ -40026,8 +40026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "むしあつい",
     "ruby": "<ruby>蒸し暑<rt>むしあつ</rt></ruby>い",
     "meaning": "humid, sultry",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>蒸し暑<rt>むしあつ</rt></ruby>い。",
-    "ex_en": "It's a muggy day today."
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>蒸し暑<rt>むしあつ</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_en": "When we heard that news, we felt very humid, and our hearts were deeply touched."
   },
   {
     "id": "n2_v_2490",
@@ -42378,8 +42378,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あいにく",
     "ruby": "あいにく",
     "meaning": "unfortunately, Sorry, but....",
-    "ex_ja": "あいにく<ruby>話中<rt>はなしちゅう</rt></ruby>です。",
-    "ex_en": "I'm afraid the line is busy."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>くあいにく<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to unfortunately until the end is required."
   },
   {
     "id": "n2_v_2637",
@@ -42842,8 +42842,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つねに",
     "ruby": "<ruby>常<rt>つね</rt></ruby>に",
     "meaning": "always, constantly",
-    "ex_ja": "<ruby>火<rt>ひ</rt></ruby>は<ruby>常<rt>つね</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>だ。",
-    "ex_en": "Fire is always dangerous."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>常<rt>つね</rt></ruby>にに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning always."
   },
   {
     "id": "n2_v_2666",
@@ -42890,8 +42890,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "しきゅう",
     "ruby": "<ruby>至急<rt>しきゅう</rt></ruby>",
     "meaning": "urgent, pressing",
-    "ex_ja": "<ruby>至急<rt>しきゅう</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。",
-    "ex_en": "It's urgent."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>至急<rt>しきゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of urgent."
   },
   {
     "id": "n2_v_2669",
@@ -43226,8 +43226,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふたたび",
     "ruby": "<ruby>再<rt>ふたた</rt></ruby>び",
     "meaning": "again, once more, a second time",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>再<rt>ふたた</rt></ruby>び<ruby>会<rt>あ</rt></ruby>った。",
-    "ex_en": "I saw her again."
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>再<rt>ふたた</rt></ruby>びの<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_en": "I am wholeheartedly enjoying the refreshing season of 再び, through which a pleasant breeze blows."
   },
   {
     "id": "n2_v_2690",
@@ -43370,8 +43370,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんに",
     "ruby": "<ruby>単<rt>たん</rt></ruby>に",
     "meaning": "simply, merely, only",
-    "ex_ja": "<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>直<rt>なおっ</rt></ruby>ったよ。",
-    "ex_en": "It was easy to fix."
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>単<rt>たん</rt></ruby>にに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning simply."
   },
   {
     "id": "n2_v_2699",
@@ -43434,8 +43434,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "まもなく",
     "ruby": "まもなく",
     "meaning": "間も無く[ad]soon",
-    "ex_ja": "<ruby>間<rt>かん</rt></ruby>もなく<ruby>日没<rt>にちぼつ</rt></ruby>だ。",
-    "ex_en": "The sunset is soon."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>くまもなく<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to 間も無く[ad]soon until the end is required."
   },
   {
     "id": "n2_v_2703",
@@ -45594,8 +45594,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "タイプ",
     "ruby": "タイプ",
     "meaning": "type, style",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>って<ruby>私<rt>わたし</rt></ruby>のタイプ！",
-    "ex_en": "He is my type!"
+    "ex_ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、タイプに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ex_en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning type."
   },
   {
     "id": "n2_v_2838",
@@ -45786,8 +45786,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "タイヤ",
     "ruby": "タイヤ",
     "meaning": "tire, tyre",
-    "ex_ja": "タイヤは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？",
-    "ex_en": "Are your tires OK?"
+    "ex_ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、タイヤに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ex_en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning tire."
   },
   {
     "id": "n2_v_2850",
@@ -49482,8 +49482,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "べんきょうかい",
     "ruby": "<ruby>勉強会<rt>べんきょうかい</rt></ruby>",
     "meaning": "勉強会 (べんきょうかい)",
-    "ex_ja": "<ruby>社内<rt>しゃない</rt></ruby>の<ruby>有志<rt>ゆうし</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって<ruby>週<rt>しゅう</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby>AI<ruby>活用<rt>かつよう</rt></ruby>の<ruby>自主的<rt>じしゅてき</rt></ruby>な<ruby>勉強会<rt>べんきょうかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>き、<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>効率化<rt>こうりつか</rt></ruby>のノウハウを<ruby>共有<rt>きょうゆう</rt></ruby>している。",
-    "ex_en": "Volunteers within the company gather once a week to hold an informal study group on AI utilization, sharing know-how on work efficiency."
+    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>語尾<rt>ごび</rt></ruby>や<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて「<ruby>勉強<rt>べんきょう</rt></ruby><ruby>会<rt>かい</rt></ruby>」を<ruby>適切<rt>てきせつ</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けることで、<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かになる。",
+    "ex_en": "By appropriately using '勉強会' according to word endings and context, one's expression becomes rich."
   },
   {
     "id": "n2_v_3081",
@@ -49594,8 +49594,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えいがかん",
     "ruby": "<ruby>映画館<rt>えいがかん</rt></ruby>",
     "meaning": "cinema",
-    "ex_ja": "<ruby>映画館<rt>えいがかん</rt></ruby>にいたんだ。",
-    "ex_en": "I was at a movie theater."
+    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>語尾<rt>ごび</rt></ruby>や<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて「<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>」を<ruby>適切<rt>てきせつ</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けることで、<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かになる。",
+    "ex_en": "By appropriately using '映画館' according to word endings and context, one's expression becomes rich."
   },
   {
     "id": "n2_v_3088",
@@ -49642,8 +49642,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はくぶつかん",
     "ruby": "<ruby>博物館<rt>はくぶつかん</rt></ruby>",
     "meaning": "museum",
-    "ex_ja": "<ruby>博物館<rt>はくぶつかん</rt></ruby>にいるんだ。",
-    "ex_en": "We're at the museum."
+    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>語尾<rt>ごび</rt></ruby>や<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて「<ruby>博物館<rt>はくぶつかん</rt></ruby>」を<ruby>適切<rt>てきせつ</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けることで、<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かになる。",
+    "ex_en": "By appropriately using '博物館' according to word endings and context, one's expression becomes rich."
   },
   {
     "id": "n2_v_3091",
@@ -50026,8 +50026,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うりきれ",
     "ruby": "<ruby>売り切<rt>うりき</rt></ruby>れ",
     "meaning": "sold-out",
-    "ex_ja": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>売り切<rt>うりき</rt></ruby>れです。",
-    "ex_en": "Everything's sold out."
+    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>語尾<rt>ごび</rt></ruby>や<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて「<ruby>売り切<rt>うりき</rt></ruby>れ」を<ruby>適切<rt>てきせつ</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けることで、<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>豊<rt>ゆた</rt></ruby>かになる。",
+    "ex_en": "By appropriately using '売り切れ' according to word endings and context, one's expression becomes rich."
   },
   {
     "id": "n2_v_3115",
@@ -54074,8 +54074,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たんなる",
     "ruby": "<ruby>単<rt>たん</rt></ruby>なる",
     "meaning": "mere, simple, sheer",
-    "ex_ja": "<ruby>単<rt>たん</rt></ruby>なる<ruby>推測<rt>すいそく</rt></ruby>だろ。",
-    "ex_en": "You're just guessing."
+    "ex_ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>単<rt>たん</rt></ruby>なる<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ex_en": "Even when facing various challenges, an attitude of tenaciously carrying through to mere until the end is required."
   },
   {
     "id": "n2_v_3368",
@@ -54730,8 +54730,8 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほんの",
     "ruby": "ほんの",
     "meaning": "mere, just",
-    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人形<rt>にんぎょう</rt></ruby>です。",
-    "ex_en": "This is a Japanese doll."
+    "ex_ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほんのの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ex_en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of mere."
   },
   {
     "id": "n2_v_3409",
@@ -54778,7 +54778,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ゆだんたいてき",
     "ruby": "<ruby>油断大敵<rt>ゆだんたいてき</rt></ruby>",
     "meaning": "油断大敵 (ゆだんたいてき)",
-    "ex_ja": "<ruby>過去問<rt>かこもん</rt></ruby>で<ruby>合格点<rt>ごうかくてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れたからといって<ruby>油断<rt>ゆだん</rt></ruby><ruby>大敵<rt>たいてき</rt></ruby>で、<ruby>本番<rt>ほんばん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>ではどんな<ruby>難問<rt>なんもん</rt></ruby>が<ruby>出題<rt>しゅつだい</rt></ruby>されるかわからない。",
+    "ex_ja": "<ruby>過去<rt>かこ</rt></ruby><ruby>問<rt>とい</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れたからといって<ruby>油断大敵<rt>ゆだんたいてき</rt></ruby>で、<ruby>本番<rt>ほんばん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>ではどんな<ruby>難問<rt>なんもん</rt></ruby>が<ruby>出題<rt>しゅつだい</rt></ruby>されるかわからない。",
     "ex_en": "Even if you scored passing marks on past exams, complacency is your worst enemy, as you never know what tricky questions might appear on the actual test."
   },
   {

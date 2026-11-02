@@ -656,7 +656,7 @@
   <!-- AUTH, USER PROGRESS & DATABASE SCRIPTS -->
   <script src="auth.js?v=20261021_0110"></script>
   <script src="user_progress.js?v=20261021_0110"></script>
-  <script src="database/jlpt_n3_vocab_full_data.js?v=20261102_1930"></script>
+  <script src="database/jlpt_n3_vocab_full_data.js?v=20261102_2030"></script>
 
   <!-- FLASHCARD APPLICATION LOGIC -->
   <script>
@@ -1339,6 +1339,7 @@
     // Furigana ON/OFF
     window.toggleFurigana = function() {
       isFuriganaOn = !isFuriganaOn;
+      localStorage.setItem('jlpt_furigana_on', isFuriganaOn ? '1' : '0');
       localStorage.setItem('jlpt_furigana_on', isFuriganaOn ? '1' : '0');
       const pill = document.getElementById('furiganaTogglePill');
       if (isFuriganaOn) {
