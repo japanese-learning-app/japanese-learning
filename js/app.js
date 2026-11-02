@@ -9070,7 +9070,46 @@
     };
   }
 
-  function updateActiveDeck() {
+  // --- Flashcard Deck Progress Persistence (Never reset to card 1 on tab switch) ---
+  function getDeckProgressKey() {
+    if (isSearchStudyMode) return null;
+    if (isMylistStudyMode) return 'progress_mylist_study';
+    if (currentDeckFilter === 'jlpt') return `progress_jlpt_${currentJlptDeckLevel || 'N5'}`;
+    if (currentSection !== 'all') return `progress_section_${currentSection}`;
+    if (currentFolder !== 'all') return `progress_folder_${currentFolder}`;
+    return 'progress_all_curriculum';
+  }
+
+  function saveCurrentDeckProgress() {
+    const key = getDeckProgressKey();
+    if (!key || !activeDeck || activeDeck.length === 0) return;
+    try {
+      const raw = localStorage.getItem('haku_deck_progress_map');
+      const map = raw ? JSON.parse(raw) : {};
+      const card = activeDeck[currentIndex];
+      map[key] = {
+        index: currentIndex,
+        cardId: card ? card.id : null,
+        total: activeDeck.length,
+        timestamp: Date.now()
+      };
+      localStorage.setItem('haku_deck_progress_map', JSON.stringify(map));
+    } catch (e) {}
+  }
+
+  function getSavedDeckProgress(key) {
+    if (!key) return null;
+    try {
+      const raw = localStorage.getItem('haku_deck_progress_map');
+      if (!raw) return null;
+      const map = JSON.parse(raw);
+      return map[key] || null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function updateActiveDeck(preserveTarget = false, targetCardId = null, targetIndex = null) {
     if (currentDeckFilter === 'jlpt') {
       const lvl = currentJlptDeckLevel || 'N5';
       const jlptList = (window.JLPT_VOCAB && window.JLPT_VOCAB[lvl]) || [];
@@ -9104,9 +9143,7 @@
           isJlpt: true
         };
       });
-      currentIndex = 0;
-      isCardFlipped = false;
-      renderCurrentCard();
+      applyDeckIndexPersistence(preserveTarget, targetCardId, targetIndex);
       return;
     }
 
@@ -9131,9 +9168,51 @@
     }
 
     activeDeck = pool;
-    currentIndex = 0;
+    applyDeckIndexPersistence(preserveTarget, targetCardId, targetIndex);
+  }
+
+  function applyDeckIndexPersistence(preserveTarget = false, targetCardId = null, targetIndex = null) {
+    if (!activeDeck || activeDeck.length === 0) {
+      currentIndex = 0;
+      isCardFlipped = false;
+      renderCurrentCard();
+      return;
+    }
+
+    let desiredIndex = 0;
+    const progressKey = getDeckProgressKey();
+    const saved = getSavedDeckProgress(progressKey);
+
+    if (targetCardId) {
+      const foundIdx = activeDeck.findIndex(c => c.id === targetCardId);
+      if (foundIdx !== -1) {
+        desiredIndex = foundIdx;
+      } else if (targetIndex !== null && targetIndex >= 0 && targetIndex < activeDeck.length) {
+        desiredIndex = targetIndex;
+      }
+    } else if (preserveTarget) {
+      if (typeof currentIndex === 'number' && currentIndex >= 0 && currentIndex < activeDeck.length) {
+        desiredIndex = currentIndex;
+      } else if (saved && typeof saved.index === 'number') {
+        desiredIndex = Math.min(Math.max(0, saved.index), activeDeck.length - 1);
+      }
+    } else {
+      if (saved) {
+        if (saved.cardId) {
+          const foundIdx = activeDeck.findIndex(c => c.id === saved.cardId);
+          if (foundIdx !== -1) desiredIndex = foundIdx;
+          else if (typeof saved.index === 'number') desiredIndex = Math.min(Math.max(0, saved.index), activeDeck.length - 1);
+        } else if (typeof saved.index === 'number') {
+          desiredIndex = Math.min(Math.max(0, saved.index), activeDeck.length - 1);
+        }
+      }
+    }
+
+    desiredIndex = Math.min(Math.max(0, desiredIndex), activeDeck.length - 1);
+    currentIndex = desiredIndex;
     isCardFlipped = false;
     renderCurrentCard();
+    saveCurrentDeckProgress();
   }
 
   // --- 3D Card Rendering & Interaction ---
@@ -9159,6 +9238,12 @@
 
     const card = activeDeck[currentIndex];
     document.getElementById('cardProgressText').textContent = `${currentIndex + 1} / ${activeDeck.length}`;
+    const cardProgressBar = document.getElementById('cardProgressBar');
+    if (cardProgressBar && activeDeck.length > 0) {
+      const pct = Math.round(((currentIndex + 1) / activeDeck.length) * 100);
+      cardProgressBar.style.width = `${pct}%`;
+    }
+    saveCurrentDeckProgress();
 
     // 🛡️ カード表裏整合ガード: もし word が外国語で meaning に日本語がある場合は自動スワップ
     let jpWord = card.word;
@@ -11714,9 +11799,14 @@
       if (dropdown) dropdown.classList.add('hidden');
       sidebarSearchQuery = '';
 
-      // Return to folder overview
-      backToFolderOverview();
-      switchView('flashcards');
+      // ★ 学習中（studyモード）なら、途中のカード（5枚目等）をリセットせずそのまま再開！
+      if (currentNavLevel === 'study' && activeDeck.length > 0) {
+        switchView('flashcards');
+        renderCurrentCard();
+      } else {
+        backToFolderOverview();
+        switchView('flashcards');
+      }
     });
     document.getElementById('navQuiz').addEventListener('click', () => switchView('quiz'));
     document.getElementById('navMylist').addEventListener('click', () => switchView('mylist'));
@@ -11897,8 +11987,13 @@
         if (dropdown) dropdown.classList.add('hidden');
         sidebarSearchQuery = '';
 
-        backToFolderOverview();
-        switchView('flashcards');
+        if (currentNavLevel === 'study' && activeDeck.length > 0) {
+          switchView('flashcards');
+          renderCurrentCard();
+        } else {
+          backToFolderOverview();
+          switchView('flashcards');
+        }
       });
     }
 
@@ -12187,6 +12282,53 @@
     }
 
     // --- スマホ版スワイプ操作 (右スワイプ: 覚えた！ / 左スワイプ: もう一回！) ---
+    
+    // --- Keyboard Shortcuts for Desktop / Tablet (Space to Flip, Arrows to Navigate) ---
+    window.addEventListener('keydown', (e) => {
+      const tag = (e.target && e.target.tagName) ? e.target.tagName.toLowerCase() : '';
+      if (tag === 'input' || tag === 'textarea' || (e.target && e.target.isContentEditable)) return;
+
+      const viewFlashcards = document.getElementById('viewFlashcards');
+      if (!viewFlashcards || viewFlashcards.classList.contains('hidden')) return;
+
+      const openModals = document.querySelectorAll('.modal:not(.hidden), [id$="Modal"]:not(.hidden)');
+      let hasOpenModal = false;
+      openModals.forEach(m => {
+        if (m.offsetParent !== null && !m.classList.contains('hidden') && m.id !== 'searchDropdownContainer') {
+          hasOpenModal = true;
+        }
+      });
+      if (hasOpenModal) return;
+
+      if (e.code === 'Space') {
+        e.preventDefault();
+        flipCard();
+      } else if (e.code === 'ArrowRight' || e.code === 'KeyD') {
+        e.preventDefault();
+        const btnNext = document.getElementById('btnNext');
+        if (btnNext) btnNext.click();
+      } else if (e.code === 'ArrowLeft' || e.code === 'KeyA') {
+        e.preventDefault();
+        const btnPrev = document.getElementById('btnPrev');
+        if (btnPrev) btnPrev.click();
+      } else if (e.code === 'KeyR' || e.code === 'ArrowUp') {
+        e.preventDefault();
+        if (activeDeck && activeDeck[currentIndex]) {
+          if (isCardFlipped && activeDeck[currentIndex].example) {
+            toggleJapaneseSpeech(activeDeck[currentIndex].example.ja);
+          } else {
+            toggleJapaneseSpeech(activeDeck[currentIndex]);
+          }
+        }
+      } else if (e.code === 'Digit1' || e.code === 'Numpad1') {
+        const btnReview = document.getElementById('btnMarkReview');
+        if (btnReview) btnReview.click();
+      } else if (e.code === 'Digit2' || e.code === 'Numpad2') {
+        const btnKnown = document.getElementById('btnMarkKnown');
+        if (btnKnown) btnKnown.click();
+      }
+    });
+
     const flashcardEl = document.getElementById('flashcardElement');
     const badgeLearned = document.getElementById('swipeBadgeLearned');
     const badgeReview = document.getElementById('swipeBadgeReview');
@@ -15234,10 +15376,13 @@
     // 📱 端末間同期: 別端末（スマホ・他PC）で保存・更新された後、この画面に戻ってきた瞬間に自動PULL同期！
     document.addEventListener('visibilitychange', () => {
       if (!document.hidden && currentStudent && currentStudent.id !== 'guest') {
+        const lastCardId = (activeDeck && activeDeck[currentIndex]) ? activeDeck[currentIndex].id : null;
+        const lastIndex = currentIndex;
         syncStudentFromCloud(currentStudent.id).then(changed => {
           if (changed) {
             loadMylistForCurrentStudent();
-            updateActiveDeck();
+            // ★ 他タブから戻ってきたときに見ていたカード（5枚目等）をそのまま保持！
+            updateActiveDeck(true, lastCardId, lastIndex);
             if (currentView === 'mylist') renderMylistGrid();
           }
         }).catch(() => {});

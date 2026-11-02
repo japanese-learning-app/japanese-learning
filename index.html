@@ -47,10 +47,11 @@
       ruby-position: over;
     }
     rt {
-      font-size: 0.65em;
+      font-size: 0.72em;
       font-weight: 700;
       color: #1E557E;
-      line-height: 1;
+      line-height: 1.1;
+      letter-spacing: 0.02em;
       user-select: none !important;
       -webkit-user-select: none !important;
       -moz-user-select: none !important;
@@ -603,6 +604,10 @@
             </button>
           </div>
         </div>
+        <!-- Flashcard Progress Bar -->
+        <div class="w-full bg-slate-100 rounded-full h-1.5 mb-2 overflow-hidden shadow-inner">
+          <div id="cardProgressBar" class="bg-gradient-to-r from-deepNavy to-coralPink h-full rounded-full transition-all duration-300" style="width: 0%;"></div>
+        </div>
 
         <!-- 3D FLIP CARD CONTAINER -->
         <div class="perspective-1000 flex-1 min-h-[350px] flex items-center justify-center my-1 cursor-pointer relative overflow-visible">
@@ -667,7 +672,7 @@
                   </button>
                 </div>
                 <div id="exampleTextContainer" class="select-text">
-                  <p id="backExampleJa" class="text-xs font-semibold text-slate-800 leading-relaxed whitespace-pre-line mb-1 select-text">日本語の会話</p>
+                  <p id="backExampleJa" class="text-sm sm:text-base font-semibold text-slate-800 leading-loose whitespace-pre-line mb-1 select-text tracking-wide">日本語の会話</p>
                   <!-- 例文内から抽出された単語のクイック辞書ボタンチップ -->
                   <div id="exampleWordChipsContainer" class="mt-2 flex flex-wrap gap-1.5 items-center hidden">
                     <span class="text-[10px] text-slate-400 font-bold flex items-center space-x-0.5">
@@ -677,7 +682,7 @@
                     <div id="exampleWordChipsList" class="flex flex-wrap gap-1"></div>
                   </div>
                 </div>
-                <p id="backExampleTranslation" class="text-[10px] text-slate-500 leading-snug whitespace-pre-line mt-1.5 pt-1.5 border-t border-slate-100">Example dialogue translation</p>
+                <p id="backExampleTranslation" class="text-xs sm:text-sm text-slate-500 leading-relaxed whitespace-pre-line mt-2 pt-2 border-t border-slate-100">Example dialogue translation</p>
               </div>
 
               <!-- Related / Conjugation / Variations -->
@@ -1705,8 +1710,8 @@
   <script src="database/modern_slang_data.js?v=20261011_0200"></script>
   <script src="database/dict_examples_map.js?v=20261008_1440"></script>
   <script src="database/class_vocab_data.js?v=20261022_2130"></script>
-  <script src="js/data.js?v=20261102_2015"></script>
-  <script src="js/app.js?v=20261022_2130"></script>
+  <script src="js/data.js?v=20261102_2100"></script>
+  <script src="js/app.js?v=20261102_2100"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();
