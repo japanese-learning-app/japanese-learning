@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JLPT N2 文字・語彙 穴埋めマスター — 全500問 4択練習道場</title>
+<title>JLPT N1 文字・語彙 穴埋めマスター — 全500問 4択練習道場</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -1793,8 +1793,8 @@
   <div class="header-inner">
     <div class="brand-area">
       <div class="brand-en">
-        <span>JLPT N2 文字・語彙 穴埋めマスター</span>
-        <span class="badge-n2">全500問</span>
+        <span>JLPT N1 文字・語彙 穴埋めマスター</span>
+        <span class="badge-n1">全500問</span>
       </div>
       <div class="brand-sub">PDF完全準拠（この1冊で合格する ＆ 新にほんご500問）演習道場</div>
     </div>
@@ -1822,10 +1822,10 @@
         <span>マイリスト (<span id="myListCountHeader">0</span>)</span>
       </button>
       <!-- Quick Links to other N2 sections -->
-      <a href="jlpt_n2_vocab_cards.html" class="header-btn" title="N1語彙フラッシュカード（全3,412語）へ">
+      <a href="jlpt_n1_vocab_cards.html" class="header-btn" title="N1語彙フラッシュカード（全3,412語）へ">
         🎴 語彙カード
       </a>
-      <a href="jlpt_n2_grammar_quiz.html" class="header-btn" title="N2文法穴埋め演習道場（全1,507問）へ">
+      <a href="jlpt_n1_grammar_quiz.html" class="header-btn" title="N1文法穴埋め演習道場（全508問）へ">
         ✍️ 文法穴埋め
       </a>
       <!-- Back to Portal -->
@@ -2144,7 +2144,7 @@
 <!-- Load Database -->
 <script src="auth.js"></script>
 <script src="user_progress.js"></script>
-<script src="database/jlpt_n1_vocab_quiz_data.js"></script>
+<script src="database/jlpt_n1_vocab_quiz_data.js?v=20261102_1930"></script>
 
 <script>
   // State
@@ -3000,8 +3000,8 @@
 
     // 2. Search in Vocab Full Data
     let vocabMatch = null;
-    if (window.JLPT_N2_VOCAB_DATA && Array.isArray(window.JLPT_N2_VOCAB_DATA)) {
-      const vMatch = window.JLPT_N2_VOCAB_DATA.find(v => {
+    if (window.JLPT_N1_VOCAB_DATA && Array.isArray(window.JLPT_N1_VOCAB_DATA)) {
+      const vMatch = window.JLPT_N1_VOCAB_DATA.find(v => {
         const vClean = cleanSearchWord(v.word);
         return vClean === cleanQ || v.word === query || (v.reading && cleanSearchWord(v.reading) === cleanQ);
       });

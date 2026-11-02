@@ -57,8 +57,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さんせい",
     "ruby": "<ruby>賛成<rt>さんせい</rt></ruby>",
     "meaning": "approval; agreement; support; favour",
-    "ex_ja": "<ruby>大<rt>だい</rt></ruby><ruby>賛成<rt>さんせい</rt></ruby>です。",
-    "ex_en": "I'm all for it."
+    "ex_ja": "<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>納得<rt>なっとく</rt></ruby>できる<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>提案<rt>ていあん</rt></ruby>だったので、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>賛成<rt>さんせい</rt></ruby>した。",
+    "ex_en": "Because it was a wonderful proposal that everyone agreed on, all participants at the meeting approved with smiles."
   },
   {
     "id": "n3_v_0002_1",
@@ -73,8 +73,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あい",
     "ruby": "<ruby>愛<rt>あい</rt></ruby>",
     "meaning": "love",
-    "ex_ja": "<ruby>愛<rt>あい</rt></ruby>してるよ。",
-    "ex_en": "I love you."
+    "ex_ja": "<ruby>家族<rt>かぞく</rt></ruby>への<ruby>深<rt>ふか</rt></ruby>い<ruby>愛<rt>あい</rt></ruby>と<ruby>支<rt>ささ</rt></ruby>えがあったからこそ、<ruby>厳<rt>きび</rt></ruby>しい<ruby>困難<rt>こんなん</rt></ruby>も<ruby>乗り越<rt>のりこ</rt></ruby>えることができた。",
+    "ex_en": "It was precisely because of deep love and support for my family that I was able to overcome severe hardships."
   },
   {
     "id": "n3_v_0003_1",
@@ -89,8 +89,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あいさつ",
     "ruby": "<ruby>挨拶<rt>あいさつ</rt></ruby>",
     "meaning": "greeting; salutation",
-    "ex_ja": "<ruby>挨拶<rt>あいさつ</rt></ruby>に<ruby>困<rt>こま</rt></ruby>った。",
-    "ex_en": "I was at a loss for an answer."
+    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>オフィスに<ruby>入<rt>はい</rt></ruby>ったら、<ruby>同僚<rt>どうりょう</rt></ruby>たちに<ruby>明<rt>あか</rt></ruby>るく<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>をするのが<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>だ。",
+    "ex_en": "When I enter the office in the morning, greeting my colleagues brightly with a smile is my daily habit."
   },
   {
     "id": "n3_v_0004_1",
@@ -105,8 +105,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あいじょう",
     "ruby": "<ruby>愛情<rt>あいじょう</rt></ruby>",
     "meaning": "love; affection",
-    "ex_ja": "<ruby>愛情<rt>あいじょう</rt></ruby>に<ruby>燃<rt>も</rt></ruby>える。",
-    "ex_en": "Burn with desire."
+    "ex_ja": "<ruby>親<rt>おや</rt></ruby>は<ruby>深<rt>ふか</rt></ruby>い<ruby>愛情<rt>あいじょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>子供<rt>こども</rt></ruby>を<ruby>見守<rt>みまも</rt></ruby>り、その<ruby>健<rt>すこ</rt></ruby>やかな<ruby>成長<rt>せいちょう</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>から<ruby>応援<rt>おうえん</rt></ruby>している。",
+    "ex_en": "Parents watch over their children with deep affection and wholeheartedly support their healthy growth."
   },
   {
     "id": "n3_v_0005_1",
@@ -185,8 +185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あくしゅ",
     "ruby": "<ruby>握手<rt>あくしゅ</rt></ruby>",
     "meaning": "handshake",
-    "ex_ja": "<ruby>握手<rt>あくしゅ</rt></ruby>しようぜ！",
-    "ex_en": "Give me some skin!"
+    "ex_ja": "<ruby>試合<rt>しあい</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>、<ruby>両<rt>りょう</rt></ruby>チームの<ruby>選手<rt>せんしゅ</rt></ruby>たちはお<ruby>互<rt>たが</rt></ruby>いに<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>固<rt>かた</rt></ruby>い<ruby>握手<rt>あくしゅ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わした。",
+    "ex_en": "After the match ended, the players from both teams exchanged firm handshakes with smiles."
   },
   {
     "id": "n3_v_0010_1",
@@ -217,8 +217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あした",
     "ruby": "あした",
     "meaning": "tomorrow",
-    "ex_ja": "またあしたね。",
-    "ex_en": "See you tomorrow!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からあしたの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tomorrow from multifaceted perspectives."
   },
   {
     "id": "n3_v_0012_1",
@@ -233,8 +233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あせ",
     "ruby": "<ruby>汗<rt>あせ</rt></ruby>",
     "meaning": "sweat; perspiration",
-    "ex_ja": "<ruby>汗<rt>あせ</rt></ruby>だくだよ。",
-    "ex_en": "I'm dripping with sweat."
+    "ex_ja": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>日差<rt>ひざ</rt></ruby>しを<ruby>浴<rt>あ</rt></ruby>びながら<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走<rt>はし</rt></ruby>ったので、<ruby>顔<rt>かお</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>にたくさんの<ruby>汗<rt>あせ</rt></ruby>をかいた。",
+    "ex_en": "Having run hard under the summer sun, I broke into a heavy sweat on my face and back."
   },
   {
     "id": "n3_v_0013_1",
@@ -265,8 +265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あっ",
     "ruby": "あっ",
     "meaning": "Ah!; Oh!",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>かあった？",
-    "ex_en": "Anything new?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からあっの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Ah! from multifaceted perspectives."
   },
   {
     "id": "n3_v_0015_1",
@@ -297,8 +297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あぶら",
     "ruby": "<ruby>油<rt>あぶら</rt></ruby>",
     "meaning": "oil",
-    "ex_ja": "<ruby>鍋<rt>なべ</rt></ruby>に<ruby>油<rt>あぶら</rt></ruby><ruby>入<rt>い</rt></ruby>れた？",
-    "ex_en": "Did you put oil in the pan?"
+    "ex_ja": "フライパンに<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>油<rt>あぶら</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いてから、<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>とお<ruby>肉<rt>にく</rt></ruby>を<ruby>手早<rt>てばや</rt></ruby>く<ruby>炒<rt>いた</rt></ruby>めた。",
+    "ex_en": "After coating the frying pan with a small amount of oil, I quickly stir-fried fresh vegetables and meat."
   },
   {
     "id": "n3_v_0017_1",
@@ -329,8 +329,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あらし",
     "ruby": "<ruby>嵐<rt>あらし</rt></ruby>",
     "meaning": "storm; tempest",
-    "ex_ja": "<ruby>嵐<rt>あらし</rt></ruby>は<ruby>静<rt>しず</rt></ruby>まった。",
-    "ex_en": "The storm has died down."
+    "ex_ja": "<ruby>激<rt>はげ</rt></ruby>しい<ruby>嵐<rt>あらし</rt></ruby>が<ruby>通り過<rt>とおりす</rt></ruby>ぎた<ruby>翌朝<rt>よくあさ</rt></ruby>、<ruby>空<rt>そら</rt></ruby>は<ruby>雲<rt>くも</rt></ruby><ruby>一<rt>ひと</rt></ruby>つない<ruby>青空<rt>あおぞら</rt></ruby>になり、<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いていた。",
+    "ex_en": "The morning after the fierce storm passed, the sky became a cloudless blue and a refreshing breeze was blowing."
   },
   {
     "id": "n3_v_0019_1",
@@ -345,8 +345,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あらた",
     "ruby": "<ruby>新た<rt>あらた</rt></ruby>",
     "meaning": "new; fresh; novel",
-    "ex_ja": "<ruby>新<rt>あら</rt></ruby>たに<ruby>始<rt>はじ</rt></ruby>める。",
-    "ex_en": "I will begin anew."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>新<rt>あら</rt></ruby>たの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of new from multifaceted perspectives."
   },
   {
     "id": "n3_v_0020_1",
@@ -361,8 +361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あらわれ",
     "ruby": "<ruby>現れ<rt>あらわれ</rt></ruby>",
     "meaning": "embodiment; materialization",
-    "ex_ja": "<ruby>聖霊<rt>せいれい</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れた。",
-    "ex_en": "Spirit manifested itself."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>現<rt>あらわ</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of embodiment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0021_1",
@@ -425,8 +425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あわれ",
     "ruby": "<ruby>哀れ<rt>あわれ</rt></ruby>",
     "meaning": "helpless; pity; sorrow; grief",
-    "ex_ja": "<ruby>哀<rt>あわ</rt></ruby>れに<ruby>思<rt>おも</rt></ruby>う。",
-    "ex_en": "I feel sorry for him."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>哀<rt>あわ</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of helpless from multifaceted perspectives."
   },
   {
     "id": "n3_v_0025_1",
@@ -441,8 +441,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あん",
     "ruby": "<ruby>案<rt>あん</rt></ruby>",
     "meaning": "plan; suffix meaning draft",
-    "ex_ja": "<ruby>名案<rt>めいあん</rt></ruby>ですよ。",
-    "ex_en": "That's a good plan."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>案<rt>あん</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting plan."
   },
   {
     "id": "n3_v_0026_1",
@@ -457,8 +457,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あんき",
     "ruby": "<ruby>暗記<rt>あんき</rt></ruby>",
     "meaning": "memorization; learning by heart",
-    "ex_ja": "<ruby>暗記<rt>あんき</rt></ruby>しました。",
-    "ex_en": "I learned it by heart."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>暗記<rt>あんき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of memorization from multifaceted perspectives."
   },
   {
     "id": "n3_v_0027_1",
@@ -489,8 +489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あんない",
     "ruby": "<ruby>案内<rt>あんない</rt></ruby>",
     "meaning": "information; guidance; leading",
-    "ex_ja": "ご<ruby>案内<rt>あんない</rt></ruby>します。",
-    "ex_en": "I'll guide you."
+    "ex_ja": "<ruby>東京<rt>とうきょう</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>訪<rt>おとず</rt></ruby>れた<ruby>友人<rt>ゆうじん</rt></ruby>のために、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>浅草<rt>あさくさ</rt></ruby>やスカイツリーを<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>かけて<ruby>案内<rt>あんない</rt></ruby>した。",
+    "ex_en": "For my friend visiting Tokyo for the first time, I guided him around famous Asakusa and Skytree all day."
   },
   {
     "id": "n3_v_0029_1",
@@ -553,8 +553,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "い",
     "ruby": "<ruby>胃<rt>い</rt></ruby>",
     "meaning": "stomach",
-    "ex_ja": "<ruby>胃<rt>い</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>みます。",
-    "ex_en": "My stomach hurts."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>胃<rt>い</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of stomach from multifaceted perspectives."
   },
   {
     "id": "n3_v_0033_1",
@@ -617,8 +617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いがい",
     "ruby": "<ruby>意外<rt>いがい</rt></ruby>",
     "meaning": "unexpected; surprising",
-    "ex_ja": "<ruby>意外<rt>いがい</rt></ruby>だねー。",
-    "ex_en": "You don't say."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>意外<rt>いがい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of unexpected from multifaceted perspectives."
   },
   {
     "id": "n3_v_0037_1",
@@ -633,8 +633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いき",
     "ruby": "<ruby>息<rt>いき</rt></ruby>",
     "meaning": "breath; tone",
-    "ex_ja": "あと<ruby>一息<rt>ひといき</rt></ruby>だ。",
-    "ex_en": "We're almost there."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>息<rt>いき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of breath from multifaceted perspectives."
   },
   {
     "id": "n3_v_0038_1",
@@ -649,8 +649,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いき",
     "ruby": "<ruby>行き<rt>いき</rt></ruby>",
     "meaning": "going",
-    "ex_ja": "<ruby>行<rt>い</rt></ruby>きなさい。",
-    "ex_en": "Go."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>行<rt>い</rt></ruby>きの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of going from multifaceted perspectives."
   },
   {
     "id": "n3_v_0039_1",
@@ -681,8 +681,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いくら",
     "ruby": "<ruby>幾ら<rt>いくら</rt></ruby>",
     "meaning": "how much?; how many?",
-    "ex_ja": "<ruby>幾<rt>いく</rt></ruby>らするの？",
-    "ex_en": "How much does it cost?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>幾<rt>いく</rt></ruby>らの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of how much? from multifaceted perspectives."
   },
   {
     "id": "n3_v_0041_1",
@@ -697,8 +697,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いけない",
     "ruby": "いけない",
     "meaning": "must not do; bad; wrong; not good",
-    "ex_ja": "いけない<ruby>人<rt>ひと</rt></ruby>！",
-    "ex_en": "You're bad."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、いけない<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a must not do perspective."
   },
   {
     "id": "n3_v_0042_1",
@@ -713,8 +713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いし",
     "ruby": "<ruby>医師<rt>いし</rt></ruby>",
     "meaning": "doctor; physician",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>医師<rt>いし</rt></ruby>です。",
-    "ex_en": "I'm a doctor."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>医師<rt>いし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of doctor from multifaceted perspectives."
   },
   {
     "id": "n3_v_0043_1",
@@ -905,8 +905,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いたみ",
     "ruby": "<ruby>痛み<rt>いたみ</rt></ruby>",
     "meaning": "pain; ache; sore; grief; distress",
-    "ex_ja": "<ruby>心<rt>こころ</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>みます。",
-    "ex_en": "My heart's aching."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>痛<rt>いた</rt></ruby>みの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pain from multifaceted perspectives."
   },
   {
     "id": "n3_v_0055_1",
@@ -969,8 +969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いちじ",
     "ruby": "<ruby>一時<rt>いちじ</rt></ruby>",
     "meaning": "moment; time",
-    "ex_ja": "もう<ruby>十<rt>じゅう</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby>よ。",
-    "ex_en": "It's already 11."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of moment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0059_1",
@@ -1001,8 +1001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いちば",
     "ruby": "<ruby>市場<rt>いちば</rt></ruby>",
     "meaning": "(the) market (as a concept)",
-    "ex_ja": "<ruby>市場<rt>しじょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く。",
-    "ex_en": "I will go to the market."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>市場<rt>しじょう</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of  suited to the times are being discussed."
   },
   {
     "id": "n3_v_0061_1",
@@ -1017,8 +1017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いちばん",
     "ruby": "<ruby>一番<rt>いちばん</rt></ruby>",
     "meaning": "best; first; number one",
-    "ex_ja": "<ruby>一番乗<rt>いちばんの</rt></ruby>りだ。",
-    "ex_en": "We are the first to arrive."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>一番<rt>いちばん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of best from multifaceted perspectives."
   },
   {
     "id": "n3_v_0062_1",
@@ -1113,8 +1113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いったい",
     "ruby": "<ruby>一体<rt>いったい</rt></ruby>",
     "meaning": "(1) one object; one body; (2) what on earth?; really?; (3) generally",
-    "ex_ja": "<ruby>一体<rt>いったい</rt></ruby><ruby>誰<rt>だれ</rt></ruby>かしら？",
-    "ex_en": "Who ever can it be?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>一体<rt>いったい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0068_1",
@@ -1145,8 +1145,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いっぱん",
     "ruby": "<ruby>一般<rt>いっぱん</rt></ruby>",
     "meaning": "general; liberal; universal; ordinary; average",
-    "ex_ja": "<ruby>一般<rt>いっぱん</rt></ruby><ruby>常識<rt>じょうしき</rt></ruby>よ。",
-    "ex_en": "It's common knowledge."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of general from multifaceted perspectives."
   },
   {
     "id": "n3_v_0070_1",
@@ -1193,8 +1193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いつでも",
     "ruby": "いつでも",
     "meaning": "(at) any time; always; at all times; never (neg)",
-    "ex_ja": "いつでも<ruby>来<rt>き</rt></ruby>て。",
-    "ex_en": "Come anytime."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、いつでも<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it  and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0073_1",
@@ -1273,8 +1273,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いね",
     "ruby": "<ruby>稲<rt>いね</rt></ruby>",
     "meaning": "rice-plant",
-    "ex_ja": "<ruby>稲妻<rt>いなづま</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>った。",
-    "ex_en": "The lightning flashed."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>稲<rt>いね</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting rice-plant."
   },
   {
     "id": "n3_v_0078_1",
@@ -1289,8 +1289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いのち",
     "ruby": "<ruby>命<rt>いのち</rt></ruby>",
     "meaning": "command; decree; life; destiny",
-    "ex_ja": "<ruby>命<rt>いのち</rt></ruby>をかけて！",
-    "ex_en": "Whatever it takes!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>命<rt>いのち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of command from multifaceted perspectives."
   },
   {
     "id": "n3_v_0079_1",
@@ -1353,8 +1353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いまに",
     "ruby": "<ruby>今に<rt>いまに</rt></ruby>",
     "meaning": "before long; even now",
-    "ex_ja": "<ruby>今<rt>いま</rt></ruby>にわかる。",
-    "ex_en": "You'll see."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>今<rt>いま</rt></ruby>にの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of before long from multifaceted perspectives."
   },
   {
     "id": "n3_v_0083_1",
@@ -1529,8 +1529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いんたい",
     "ruby": "<ruby>引退<rt>いんたい</rt></ruby>",
     "meaning": "retire",
-    "ex_ja": "<ruby>引退<rt>いんたい</rt></ruby>しました。",
-    "ex_en": "I've retired."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>引退<rt>いんたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of retire from multifaceted perspectives."
   },
   {
     "id": "n3_v_0094_1",
@@ -1561,8 +1561,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うお",
     "ruby": "<ruby>魚<rt>うお</rt></ruby>",
     "meaning": "fish",
-    "ex_ja": "<ruby>魚<rt>さかな</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。",
-    "ex_en": "I eat fish."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>魚<rt>さかな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fish from multifaceted perspectives."
   },
   {
     "id": "n3_v_0096_1",
@@ -1593,8 +1593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うし",
     "ruby": "<ruby>牛<rt>うし</rt></ruby>",
     "meaning": "cattle; cow",
-    "ex_ja": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>高<rt>たか</rt></ruby>い。",
-    "ex_en": "Beef is expensive."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>牛<rt>うし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cattle from multifaceted perspectives."
   },
   {
     "id": "n3_v_0098_1",
@@ -1609,8 +1609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うしろ",
     "ruby": "<ruby>後<rt>うしろ</rt></ruby>",
     "meaning": "afterwards; since then; in the future",
-    "ex_ja": "<ruby>後味<rt>あとあじ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い。",
-    "ex_en": "It leaves a bad aftertaste."
+    "ex_ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>で、クラスの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>宿題<rt>しゅくだい</rt></ruby>をしに<ruby>行<rt>い</rt></ruby>きました。",
+    "ex_en": "After class finished, I went to the library in front of the station with my classmates to do homework."
   },
   {
     "id": "n3_v_0099_1",
@@ -1625,8 +1625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うそ",
     "ruby": "<ruby>嘘<rt>うそ</rt></ruby>",
     "meaning": "lie; falsehood; incorrect fact; inappropriate",
-    "ex_ja": "それ<ruby>嘘<rt>うそ</rt></ruby>だよ。",
-    "ex_en": "It's not true."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>嘘<rt>うそ</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting lie."
   },
   {
     "id": "n3_v_0100_1",
@@ -1641,8 +1641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うち",
     "ruby": "<ruby>内<rt>うち</rt></ruby>",
     "meaning": "inside",
-    "ex_ja": "<ruby>内閣<rt>ないかく</rt></ruby>を<ruby>倒<rt>たお</rt></ruby>せ。",
-    "ex_en": "Down with the Cabinet!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>内<rt>うち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of inside from multifaceted perspectives."
   },
   {
     "id": "n3_v_0101_1",
@@ -1657,8 +1657,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うちゅう",
     "ruby": "<ruby>宇宙<rt>うちゅう</rt></ruby>",
     "meaning": "universe; cosmos; space",
-    "ex_ja": "<ruby>宇宙<rt>うちゅう</rt></ruby>は<ruby>無限<rt>むげん</rt></ruby>だ。",
-    "ex_en": "The universe is endless."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of universe from multifaceted perspectives."
   },
   {
     "id": "n3_v_0102_1",
@@ -1689,8 +1689,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うまれ",
     "ruby": "<ruby>生まれ<rt>うまれ</rt></ruby>",
     "meaning": "birth; birth-place",
-    "ex_ja": "<ruby>冬<rt>ふゆ</rt></ruby><ruby>生<rt>う</rt></ruby>まれです。",
-    "ex_en": "I was born in winter."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>生<rt>う</rt></ruby>まれの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of birth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0104_1",
@@ -1705,8 +1705,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うめ",
     "ruby": "<ruby>梅<rt>うめ</rt></ruby>",
     "meaning": "plum; plum-tree; lowest (of a three-tier ranking system)",
-    "ex_ja": "いい<ruby>塩梅<rt>あんばい</rt></ruby>だ。",
-    "ex_en": "The seasoning is just right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>梅<rt>うめ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of plum from multifaceted perspectives."
   },
   {
     "id": "n3_v_0105_1",
@@ -1721,8 +1721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うわ",
     "ruby": "<ruby>上<rt>うわ</rt></ruby>",
     "meaning": "upper; outer; surface",
-    "ex_ja": "<ruby>以上<rt>いじょう</rt></ruby>ですか？",
-    "ex_en": "Is that all?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>上<rt>うえ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of upper from multifaceted perspectives."
   },
   {
     "id": "n3_v_0106_1",
@@ -1753,8 +1753,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うん",
     "ruby": "<ruby>運<rt>うん</rt></ruby>",
     "meaning": "fortune; luck",
-    "ex_ja": "<ruby>運<rt>うん</rt></ruby>がいいね。",
-    "ex_en": "It's a godsend."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>運<rt>うん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fortune from multifaceted perspectives."
   },
   {
     "id": "n3_v_0108_1",
@@ -1769,8 +1769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うんてん",
     "ruby": "<ruby>運転<rt>うんてん</rt></ruby>",
     "meaning": "operation; motion; driving",
-    "ex_ja": "<ruby>運転<rt>うんてん</rt></ruby>できるよ。",
-    "ex_en": "I can drive."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>運転<rt>うんてん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of operation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0109_1",
@@ -1785,8 +1785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うんどう",
     "ruby": "<ruby>運動<rt>うんどう</rt></ruby>",
     "meaning": "motion; exercise",
-    "ex_ja": "<ruby>運動<rt>うんどう</rt></ruby>します。",
-    "ex_en": "I work out."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>運動<rt>うんどう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of motion from multifaceted perspectives."
   },
   {
     "id": "n3_v_0110_1",
@@ -1913,8 +1913,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えがお",
     "ruby": "<ruby>笑顔<rt>えがお</rt></ruby>",
     "meaning": "smiling face",
-    "ex_ja": "<ruby>笑顔<rt>えがお</rt></ruby>！<ruby>笑顔<rt>えがお</rt></ruby>！",
-    "ex_en": "Try to smile."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>笑顔<rt>えがお</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of smiling face from multifaceted perspectives."
   },
   {
     "id": "n3_v_0118_1",
@@ -1929,8 +1929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えさ",
     "ruby": "<ruby>餌<rt>えさ</rt></ruby>",
     "meaning": "feed; bait",
-    "ex_ja": "<ruby>鳥<rt>とり</rt></ruby>に<ruby>餌<rt>えさ</rt></ruby>をやれ！",
-    "ex_en": "Feed the bird!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>餌<rt>えさ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of feed from multifaceted perspectives."
   },
   {
     "id": "n3_v_0119_1",
@@ -1945,8 +1945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えん",
     "ruby": "<ruby>円<rt>えん</rt></ruby>",
     "meaning": "circle; money",
-    "ex_ja": "５０<ruby>円<rt>えん</rt></ruby>です。",
-    "ex_en": "It's 50 yen."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>円<rt>えん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of circle from multifaceted perspectives."
   },
   {
     "id": "n3_v_0120_1",
@@ -1977,8 +1977,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えんぎ",
     "ruby": "<ruby>演技<rt>えんぎ</rt></ruby>",
     "meaning": "acting; performance",
-    "ex_ja": "<ruby>演技<rt>えんぎ</rt></ruby>はじめ！",
-    "ex_en": "Action!"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>演技<rt>えんぎ</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting acting."
   },
   {
     "id": "n3_v_0122_1",
@@ -2009,8 +2009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えんぜつ",
     "ruby": "<ruby>演説<rt>えんぜつ</rt></ruby>",
     "meaning": "speech; address",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>演説<rt>えんぜつ</rt></ruby>した。",
-    "ex_en": "He delivered a speech."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>演説<rt>えんぜつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of speech from multifaceted perspectives."
   },
   {
     "id": "n3_v_0124_1",
@@ -2041,8 +2041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "えんりょ",
     "ruby": "<ruby>遠慮<rt>えんりょ</rt></ruby>",
     "meaning": "diffidence; restraint; reserve",
-    "ex_ja": "<ruby>遠慮<rt>えんりょ</rt></ruby>しないで。",
-    "ex_en": "Don't hold back."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>遠慮<rt>えんりょ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of diffidence from multifaceted perspectives."
   },
   {
     "id": "n3_v_0126_1",
@@ -2057,8 +2057,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "お",
     "ruby": "<ruby>御<rt>お</rt></ruby>",
     "meaning": "honourable",
-    "ex_ja": "<ruby>御免<rt>ごめん</rt></ruby>なさい。",
-    "ex_en": "I'm sorry."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>御<rt>お</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of honourable from multifaceted perspectives."
   },
   {
     "id": "n3_v_0127_1",
@@ -2073,8 +2073,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おう",
     "ruby": "<ruby>王<rt>おう</rt></ruby>",
     "meaning": "king; ruler; sovereign; monarch",
-    "ex_ja": "<ruby>王位<rt>おうい</rt></ruby>を<ruby>継<rt>つ</rt></ruby>ぐ。",
-    "ex_en": "I succeed to the throne."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>王<rt>おう</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of king suited to the times are being discussed."
   },
   {
     "id": "n3_v_0128_1",
@@ -2089,8 +2089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おうさま",
     "ruby": "<ruby>王様<rt>おうさま</rt></ruby>",
     "meaning": "king",
-    "ex_ja": "<ruby>王様<rt>おうさま</rt></ruby>は<ruby>裸<rt>はだか</rt></ruby>だ！",
-    "ex_en": "The king is naked!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>王様<rt>おうさま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of king from multifaceted perspectives."
   },
   {
     "id": "n3_v_0129_1",
@@ -2153,8 +2153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おおや",
     "ruby": "<ruby>大家<rt>おおや</rt></ruby>",
     "meaning": "rich family; distinguished family",
-    "ex_ja": "<ruby>大<rt>だい</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>なの？",
-    "ex_en": "Do you have a big family?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>大家<rt>おおや</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rich family from multifaceted perspectives."
   },
   {
     "id": "n3_v_0133_1",
@@ -2169,8 +2169,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おか",
     "ruby": "<ruby>丘<rt>おか</rt></ruby>",
     "meaning": "hill; height; knoll; rising ground",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>丘<rt>おか</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。",
-    "ex_en": "I saw the hill."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>丘<rt>おか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hill from multifaceted perspectives."
   },
   {
     "id": "n3_v_0134_1",
@@ -2281,8 +2281,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おなか",
     "ruby": "<ruby>お腹<rt>おなか</rt></ruby>",
     "meaning": "stomach",
-    "ex_ja": "お<ruby>腹<rt>なか</rt></ruby><ruby>痛<rt>いた</rt></ruby>いの？",
-    "ex_en": "Does your stomach hurt?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からお<ruby>腹<rt>なか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of stomach from multifaceted perspectives."
   },
   {
     "id": "n3_v_0141_1",
@@ -2297,8 +2297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おに",
     "ruby": "<ruby>鬼<rt>おに</rt></ruby>",
     "meaning": "ogre; demon; it (i.e.; in a game of tag)",
-    "ex_ja": "<ruby>鬼<rt>おに</rt></ruby>の<ruby>目<rt>め</rt></ruby>にも<ruby>涙<rt>なみだ</rt></ruby>。",
-    "ex_en": "Even the hard-hearted can be moved to tears."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鬼<rt>おに</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ogre from multifaceted perspectives."
   },
   {
     "id": "n3_v_0142_1",
@@ -2313,8 +2313,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おひる",
     "ruby": "<ruby>お昼<rt>おひる</rt></ruby>",
     "meaning": "lunch; noon",
-    "ex_ja": "お<ruby>昼<rt>ひる</rt></ruby>ですよ。",
-    "ex_en": "Lunch is on."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からお<ruby>昼<rt>ひる</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of lunch from multifaceted perspectives."
   },
   {
     "id": "n3_v_0143_1",
@@ -2329,8 +2329,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おび",
     "ruby": "<ruby>帯<rt>おび</rt></ruby>",
     "meaning": "band (e.g. conduction; valence)",
-    "ex_ja": "<ruby>携帯<rt>けいたい</rt></ruby><ruby>変<rt>か</rt></ruby>えた。",
-    "ex_en": "I got a new cellphone."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>帯<rt>おび</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting band."
   },
   {
     "id": "n3_v_0144_1",
@@ -2345,8 +2345,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おまえ",
     "ruby": "おまえ",
     "meaning": "(fam) you (sing); presence (of a high personage)",
-    "ex_ja": "おまえは<ruby>首<rt>くび</rt></ruby>だ。",
-    "ex_en": "You're fired."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からおまえの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0145_1",
@@ -2393,8 +2393,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おもいで",
     "ruby": "<ruby>思い出<rt>おもいで</rt></ruby>",
     "meaning": "memories; recollections; reminiscence",
-    "ex_ja": "<ruby>思い出<rt>おもいだ</rt></ruby>した。",
-    "ex_en": "I remembered it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>思い出<rt>おもいで</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of memories from multifaceted perspectives."
   },
   {
     "id": "n3_v_0148_1",
@@ -2441,8 +2441,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おや",
     "ruby": "おや",
     "meaning": "parents",
-    "ex_ja": "<ruby>自分<rt>じぶん</rt></ruby>でおやり！",
-    "ex_en": "Do it by yourself."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からおやの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of parents from multifaceted perspectives."
   },
   {
     "id": "n3_v_0151_1",
@@ -2457,8 +2457,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "およぎ",
     "ruby": "<ruby>泳ぎ<rt>およぎ</rt></ruby>",
     "meaning": "swimming",
-    "ex_ja": "<ruby>泳<rt>およ</rt></ruby>ぎたいな。",
-    "ex_en": "I'd like to swim."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>泳<rt>およ</rt></ruby>ぎの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of swimming from multifaceted perspectives."
   },
   {
     "id": "n3_v_0152_1",
@@ -2489,8 +2489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おん",
     "ruby": "<ruby>恩<rt>おん</rt></ruby>",
     "meaning": "favour; obligation; debt of gratitude",
-    "ex_ja": "<ruby>恩<rt>おん</rt></ruby>に<ruby>着<rt>き</rt></ruby>るよ。",
-    "ex_en": "I owe you one."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>恩<rt>おん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of favour from multifaceted perspectives."
   },
   {
     "id": "n3_v_0154_1",
@@ -2505,8 +2505,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おん",
     "ruby": "<ruby>音<rt>おん</rt></ruby>",
     "meaning": "sound; note",
-    "ex_ja": "<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>き？",
-    "ex_en": "Are you fond of music?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>音<rt>おと</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sound from multifaceted perspectives."
   },
   {
     "id": "n3_v_0155_1",
@@ -2537,8 +2537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おんど",
     "ruby": "<ruby>温度<rt>おんど</rt></ruby>",
     "meaning": "temperature",
-    "ex_ja": "<ruby>温度<rt>おんど</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がる。",
-    "ex_en": "The temperature falls."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>温度<rt>おんど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of temperature from multifaceted perspectives."
   },
   {
     "id": "n3_v_0157_1",
@@ -2553,8 +2553,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "か",
     "ruby": "<ruby>可<rt>か</rt></ruby>",
     "meaning": "passable",
-    "ex_ja": "<ruby>可能<rt>かのう</rt></ruby>ですか？",
-    "ex_en": "Is that possible?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>可<rt>か</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of passable from multifaceted perspectives."
   },
   {
     "id": "n3_v_0158_1",
@@ -2569,8 +2569,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "か",
     "ruby": "<ruby>課<rt>か</rt></ruby>",
     "meaning": "counter for chapters (of a book)",
-    "ex_ja": "<ruby>放課後<rt>ほうかご</rt></ruby>だぜー。",
-    "ex_en": "It's after school."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>課<rt>か</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of counter for chapters from multifaceted perspectives."
   },
   {
     "id": "n3_v_0159_1",
@@ -2585,8 +2585,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かい",
     "ruby": "<ruby>会<rt>かい</rt></ruby>",
     "meaning": "meeting; assembly; party; association; club",
-    "ex_ja": "<ruby>今夜<rt>こんや</rt></ruby><ruby>会<rt>あ</rt></ruby>える？",
-    "ex_en": "Can you meet tonight?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>会<rt>かい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of meeting from multifaceted perspectives."
   },
   {
     "id": "n3_v_0160_1",
@@ -2601,8 +2601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かい",
     "ruby": "<ruby>回<rt>かい</rt></ruby>",
     "meaning": "counter for occurrences",
-    "ex_ja": "<ruby>急<rt>いそ</rt></ruby>がば<ruby>回<rt>まわ</rt></ruby>れ。",
-    "ex_en": "More haste, less speed."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>回<rt>かい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of counter for occurrences from multifaceted perspectives."
   },
   {
     "id": "n3_v_0161_1",
@@ -2633,8 +2633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かいが",
     "ruby": "<ruby>絵画<rt>かいが</rt></ruby>",
     "meaning": "picture",
-    "ex_ja": "これは<ruby>絵画<rt>かいが</rt></ruby>だ。",
-    "ex_en": "This is a painting."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>絵画<rt>かいが</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of picture from multifaceted perspectives."
   },
   {
     "id": "n3_v_0163_1",
@@ -2809,8 +2809,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かがく",
     "ruby": "<ruby>化学<rt>かがく</rt></ruby>",
     "meaning": "chemistry",
-    "ex_ja": "<ruby>化学<rt>かがく</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いだ。",
-    "ex_en": "I hate chemistry."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>化学<rt>かがく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of chemistry from multifaceted perspectives."
   },
   {
     "id": "n3_v_0174_1",
@@ -2825,8 +2825,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かぎ",
     "ruby": "<ruby>鍵<rt>かぎ</rt></ruby>",
     "meaning": "key",
-    "ex_ja": "<ruby>鍵<rt>かぎ</rt></ruby>がないと。",
-    "ex_en": "I need my keys."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鍵<rt>かぎ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of key from multifaceted perspectives."
   },
   {
     "id": "n3_v_0175_1",
@@ -2857,8 +2857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かくじつ",
     "ruby": "<ruby>確実<rt>かくじつ</rt></ruby>",
     "meaning": "certainty; reliability; soundness",
-    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>だ。",
-    "ex_en": "There is no doubt."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>確実<rt>かくじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of certainty from multifaceted perspectives."
   },
   {
     "id": "n3_v_0177_1",
@@ -2905,8 +2905,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かぐ",
     "ruby": "<ruby>家具<rt>かぐ</rt></ruby>",
     "meaning": "furniture",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>家具<rt>かぐ</rt></ruby><ruby>屋<rt>や</rt></ruby>だ。",
-    "ex_en": "He deals in furniture."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>家具<rt>かぐ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of furniture from multifaceted perspectives."
   },
   {
     "id": "n3_v_0180_1",
@@ -2921,8 +2921,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かげ",
     "ruby": "<ruby>影<rt>かげ</rt></ruby>",
     "meaning": "shade; shadow; other side",
-    "ex_ja": "<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>。",
-    "ex_en": "Photography is prohibited."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>影<rt>かげ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of shade from multifaceted perspectives."
   },
   {
     "id": "n3_v_0181_1",
@@ -2937,8 +2937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かげ",
     "ruby": "<ruby>陰<rt>かげ</rt></ruby>",
     "meaning": "shade; shadow; other side",
-    "ex_ja": "<ruby>光陰<rt>こういん</rt></ruby><ruby>矢<rt>や</rt></ruby>の<ruby>如<rt>ごと</rt></ruby>し。",
-    "ex_en": "Time flies like an arrow."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>陰<rt>かげ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of shade from multifaceted perspectives."
   },
   {
     "id": "n3_v_0182_1",
@@ -2969,8 +2969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かこ",
     "ruby": "<ruby>過去<rt>かこ</rt></ruby>",
     "meaning": "the past; bygone days; the previous",
-    "ex_ja": "<ruby>過去<rt>かこ</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby>。",
-    "ex_en": "Let bygones be bygones."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>過去<rt>かこ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the past from multifaceted perspectives."
   },
   {
     "id": "n3_v_0184_1",
@@ -3033,8 +3033,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かし",
     "ruby": "<ruby>貸し<rt>かし</rt></ruby>",
     "meaning": "loan; lending",
-    "ex_ja": "<ruby>貸<rt>か</rt></ruby>し<ruby>間<rt>かん</rt></ruby>あり。",
-    "ex_en": "Room for rent."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>貸<rt>か</rt></ruby>しの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of loan from multifaceted perspectives."
   },
   {
     "id": "n3_v_0188_1",
@@ -3081,8 +3081,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かず",
     "ruby": "<ruby>数<rt>かず</rt></ruby>",
     "meaning": "number; figure",
-    "ex_ja": "30<ruby>数<rt>かぞ</rt></ruby>えて。",
-    "ex_en": "Count to thirty."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>数<rt>すう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of number from multifaceted perspectives."
   },
   {
     "id": "n3_v_0191_1",
@@ -3113,8 +3113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かた",
     "ruby": "<ruby>型<rt>かた</rt></ruby>",
     "meaning": "mold; model; style; shape; data-type",
-    "ex_ja": "<ruby>血液<rt>けつえき</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>何<rt>なん</rt></ruby><ruby>型<rt>がた</rt></ruby>？",
-    "ex_en": "What's your blood type?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>型<rt>かた</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of mold from multifaceted perspectives."
   },
   {
     "id": "n3_v_0193_1",
@@ -3129,8 +3129,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かた",
     "ruby": "<ruby>肩<rt>かた</rt></ruby>",
     "meaning": "shoulder",
-    "ex_ja": "<ruby>肩<rt>かた</rt></ruby>が<ruby>凝<rt>こ</rt></ruby>った。",
-    "ex_en": "I have a stiff shoulder."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>肩<rt>かた</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of shoulder from multifaceted perspectives."
   },
   {
     "id": "n3_v_0194_1",
@@ -3161,8 +3161,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かたな",
     "ruby": "<ruby>刀<rt>かたな</rt></ruby>",
     "meaning": "sword; saber; knife; engraving tool",
-    "ex_ja": "<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>刀<rt>かたな</rt></ruby>だな。",
-    "ex_en": "That's a beautiful sword."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>刀<rt>かたな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sword from multifaceted perspectives."
   },
   {
     "id": "n3_v_0196_1",
@@ -3193,8 +3193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かち",
     "ruby": "<ruby>勝ち<rt>かち</rt></ruby>",
     "meaning": "win; victory",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>の<ruby>勝<rt>か</rt></ruby>ちー！",
-    "ex_en": "I won!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勝<rt>か</rt></ruby>ちの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of win from multifaceted perspectives."
   },
   {
     "id": "n3_v_0198_1",
@@ -3225,8 +3225,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かっこう",
     "ruby": "<ruby>格好<rt>かっこう</rt></ruby>",
     "meaning": "shape; form; posture; suitability",
-    "ex_ja": "<ruby>格好<rt>かっこう</rt></ruby>つけるな。",
-    "ex_en": "Come off it!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>格好<rt>かっこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of shape from multifaceted perspectives."
   },
   {
     "id": "n3_v_0200_1",
@@ -3289,8 +3289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かね",
     "ruby": "<ruby>金<rt>かね</rt></ruby>",
     "meaning": "(1) gold; (2) gold general (shogi) (abbr)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>金髪<rt>きんぱつ</rt></ruby>だ。",
-    "ex_en": "He has blond hair."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>金<rt>きん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0204_1",
@@ -3305,8 +3305,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かねもち",
     "ruby": "<ruby>金持ち<rt>かねもち</rt></ruby>",
     "meaning": "rich man",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>金持<rt>かねも</rt></ruby>ちだ。",
-    "ex_en": "He has a lot of money."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>金持<rt>かねも</rt></ruby>ちの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rich man from multifaceted perspectives."
   },
   {
     "id": "n3_v_0205_1",
@@ -3321,8 +3321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かのう",
     "ruby": "<ruby>可能<rt>かのう</rt></ruby>",
     "meaning": "possible; practicable; feasible",
-    "ex_ja": "<ruby>可能<rt>かのう</rt></ruby>ですか？",
-    "ex_en": "Is that possible?"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>可能<rt>かのう</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting possible."
   },
   {
     "id": "n3_v_0206_1",
@@ -3353,8 +3353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かみ",
     "ruby": "<ruby>神<rt>かみ</rt></ruby>",
     "meaning": "god",
-    "ex_ja": "<ruby>神<rt>かみ</rt></ruby>はゲイだ。",
-    "ex_en": "God is gay."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>神<rt>かみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of god from multifaceted perspectives."
   },
   {
     "id": "n3_v_0208_1",
@@ -3433,8 +3433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "から",
     "ruby": "<ruby>空<rt>から</rt></ruby>",
     "meaning": "sky",
-    "ex_ja": "<ruby>空耳<rt>そらみみ</rt></ruby>ですよ。",
-    "ex_en": "You are hearing things."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>空<rt>そら</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sky from multifaceted perspectives."
   },
   {
     "id": "n3_v_0213_1",
@@ -3465,8 +3465,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>川<rt>かわ</rt></ruby>",
     "meaning": "river",
-    "ex_ja": "<ruby>河童<rt>かっぱ</rt></ruby>の<ruby>川流<rt>かわなが</rt></ruby>れ。",
-    "ex_en": "The best swimmers are oftenest drowned."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>川<rt>かわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of river from multifaceted perspectives."
   },
   {
     "id": "n3_v_0215_1",
@@ -3481,8 +3481,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>河<rt>かわ</rt></ruby>",
     "meaning": "river; stream",
-    "ex_ja": "<ruby>河童<rt>かっぱ</rt></ruby>の<ruby>川流<rt>かわなが</rt></ruby>れ。",
-    "ex_en": "The best swimmers are oftenest drowned."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>河<rt>かわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of river from multifaceted perspectives."
   },
   {
     "id": "n3_v_0216_1",
@@ -3497,8 +3497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>皮<rt>かわ</rt></ruby>",
     "meaning": "skin; hide; leather; fur; pelt; bark; shell",
-    "ex_ja": "<ruby>美<rt>び</rt></ruby>は<ruby>皮<rt>かわ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>重<rt>じゅう</rt></ruby>。",
-    "ex_en": "Beauty is but skin deep."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>皮<rt>かわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of skin from multifaceted perspectives."
   },
   {
     "id": "n3_v_0217_1",
@@ -3529,8 +3529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かん",
     "ruby": "<ruby>勘<rt>かん</rt></ruby>",
     "meaning": "perception; intuition; the sixth sense",
-    "ex_ja": "<ruby>勘定<rt>かんじょう</rt></ruby>は<ruby>勘定<rt>かんじょう</rt></ruby>。",
-    "ex_en": "Business is business."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勘<rt>かん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of perception from multifaceted perspectives."
   },
   {
     "id": "n3_v_0219_1",
@@ -3545,8 +3545,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かん",
     "ruby": "<ruby>缶<rt>かん</rt></ruby>",
     "meaning": "can; tin",
-    "ex_ja": "<ruby>缶<rt>かん</rt></ruby>は<ruby>空<rt>から</rt></ruby>っぽだ。",
-    "ex_en": "The can is empty."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>缶<rt>かん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of can from multifaceted perspectives."
   },
   {
     "id": "n3_v_0220_1",
@@ -3577,8 +3577,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんがえ",
     "ruby": "<ruby>考え<rt>かんがえ</rt></ruby>",
     "meaning": "thinking; thought; ideas; intention",
-    "ex_ja": "<ruby>考<rt>かんが</rt></ruby>えとくよ。",
-    "ex_en": "I'll think about it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of thinking from multifaceted perspectives."
   },
   {
     "id": "n3_v_0222_1",
@@ -3625,8 +3625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんげい",
     "ruby": "<ruby>歓迎<rt>かんげい</rt></ruby>",
     "meaning": "welcome; reception",
-    "ex_ja": "<ruby>大<rt>だい</rt></ruby><ruby>歓迎<rt>かんげい</rt></ruby>だよ。",
-    "ex_en": "You are very welcome."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>歓迎<rt>かんげい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of welcome from multifaceted perspectives."
   },
   {
     "id": "n3_v_0225_1",
@@ -3721,8 +3721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんじ",
     "ruby": "<ruby>感じ<rt>かんじ</rt></ruby>",
     "meaning": "feeling; sense; impression",
-    "ex_ja": "<ruby>生<rt>なま</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じる。",
-    "ex_en": "I feel alive."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>感<rt>かん</rt></ruby>じを<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish feeling."
   },
   {
     "id": "n3_v_0231_1",
@@ -3737,8 +3737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんじゃ",
     "ruby": "<ruby>患者<rt>かんじゃ</rt></ruby>",
     "meaning": "a patient",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>患者<rt>かんじゃ</rt></ruby>です。",
-    "ex_en": "I'm a patient."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of a patient from multifaceted perspectives."
   },
   {
     "id": "n3_v_0232_1",
@@ -3753,8 +3753,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんじょう",
     "ruby": "<ruby>勘定<rt>かんじょう</rt></ruby>",
     "meaning": "calculation; counting; consideration",
-    "ex_ja": "<ruby>勘定<rt>かんじょう</rt></ruby>は<ruby>勘定<rt>かんじょう</rt></ruby>。",
-    "ex_en": "Business is business."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勘定<rt>かんじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of calculation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0233_1",
@@ -3881,8 +3881,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がい",
     "ruby": "<ruby>害<rt>がい</rt></ruby>",
     "meaning": "injury; harm; evil influence; damage",
-    "ex_ja": "<ruby>有害<rt>ゆうがい</rt></ruby>ですか。",
-    "ex_en": "Is it hazardous?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>害<rt>がい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of injury from multifaceted perspectives."
   },
   {
     "id": "n3_v_0241_1",
@@ -3913,8 +3913,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がいしゅつ",
     "ruby": "<ruby>外出<rt>がいしゅつ</rt></ruby>",
     "meaning": "outing; going out",
-    "ex_ja": "<ruby>外出<rt>がいしゅつ</rt></ruby>したいな。",
-    "ex_en": "I want to go out."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>外出<rt>がいしゅつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of outing from multifaceted perspectives."
   },
   {
     "id": "n3_v_0243_1",
@@ -3929,8 +3929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がか",
     "ruby": "<ruby>画家<rt>がか</rt></ruby>",
     "meaning": "painter; artist",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>画家<rt>がか</rt></ruby>だ。",
-    "ex_en": "He is a painter."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>画家<rt>がか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of painter from multifaceted perspectives."
   },
   {
     "id": "n3_v_0244_1",
@@ -3945,8 +3945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がく",
     "ruby": "<ruby>学<rt>がく</rt></ruby>",
     "meaning": "learning; scholarship; erudition; knowledge",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>晩学<rt>ばんがく</rt></ruby>だ。",
-    "ex_en": "He acquired education late in his life."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>学<rt>がく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of learning from multifaceted perspectives."
   },
   {
     "id": "n3_v_0245_1",
@@ -4041,8 +4041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がまん",
     "ruby": "<ruby>我慢<rt>がまん</rt></ruby>",
     "meaning": "patience; endurance; perseverance",
-    "ex_ja": "<ruby>我慢強<rt>がまんづよ</rt></ruby>いね。",
-    "ex_en": "You're patient."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>我慢<rt>がまん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of patience from multifaceted perspectives."
   },
   {
     "id": "n3_v_0251_1",
@@ -4153,8 +4153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きげん",
     "ruby": "<ruby>機嫌<rt>きげん</rt></ruby>",
     "meaning": "humour; temper; mood",
-    "ex_ja": "<ruby>機嫌<rt>きげん</rt></ruby><ruby>悪<rt>わる</rt></ruby>いの？",
-    "ex_en": "Are you in a bad mood?"
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>機嫌<rt>きげん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish humour."
   },
   {
     "id": "n3_v_0258_1",
@@ -4201,8 +4201,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きしゃ",
     "ruby": "<ruby>記者<rt>きしゃ</rt></ruby>",
     "meaning": "reporter",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>記者<rt>きしゃ</rt></ruby>です。",
-    "ex_en": "I am a journalist."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>記者<rt>きしゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reporter from multifaceted perspectives."
   },
   {
     "id": "n3_v_0261_1",
@@ -4281,8 +4281,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きたく",
     "ruby": "<ruby>帰宅<rt>きたく</rt></ruby>",
     "meaning": "returning home",
-    "ex_ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>帰宅<rt>きたく</rt></ruby>しろ。",
-    "ex_en": "Go home quickly."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>帰宅<rt>きたく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of returning home from multifaceted perspectives."
   },
   {
     "id": "n3_v_0266_1",
@@ -4361,8 +4361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きのどく",
     "ruby": "<ruby>気の毒<rt>きのどく</rt></ruby>",
     "meaning": "pitiful; a pity",
-    "ex_ja": "お<ruby>気の毒<rt>きのどく</rt></ruby><ruby>様<rt>さま</rt></ruby>。",
-    "ex_en": "I am sorry for you."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>気の毒<rt>きのどく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pitiful from multifaceted perspectives."
   },
   {
     "id": "n3_v_0271_1",
@@ -4377,8 +4377,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きふ",
     "ruby": "<ruby>寄付<rt>きふ</rt></ruby>",
     "meaning": "contribution; donation",
-    "ex_ja": "<ruby>寄付<rt>きふ</rt></ruby>したよ。",
-    "ex_en": "I contributed."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>寄付<rt>きふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of contribution from multifaceted perspectives."
   },
   {
     "id": "n3_v_0272_1",
@@ -4393,8 +4393,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きほん",
     "ruby": "<ruby>基本<rt>きほん</rt></ruby>",
     "meaning": "foundation; basis; standard",
-    "ex_ja": "<ruby>基本<rt>きほん</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>よ。",
-    "ex_en": "Fundamentals are important."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>基本<rt>きほん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of foundation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0273_1",
@@ -4409,8 +4409,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きぼう",
     "ruby": "<ruby>希望<rt>きぼう</rt></ruby>",
     "meaning": "hope; wish; aspiration",
-    "ex_ja": "<ruby>希望<rt>きぼう</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った。",
-    "ex_en": "We lost hope."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>希望<rt>きぼう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hope from multifaceted perspectives."
   },
   {
     "id": "n3_v_0274_1",
@@ -4425,8 +4425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きみ",
     "ruby": "<ruby>気味<rt>きみ</rt></ruby>",
     "meaning": "-like; -looking; -looked",
-    "ex_ja": "<ruby>貧血<rt>ひんけつ</rt></ruby><ruby>気味<rt>ぎみ</rt></ruby>です。",
-    "ex_en": "I'm anemic."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>気味<rt>きみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of -like from multifaceted perspectives."
   },
   {
     "id": "n3_v_0275_1",
@@ -4457,8 +4457,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅう",
     "ruby": "<ruby>九<rt>きゅう</rt></ruby>",
     "meaning": "nine",
-    "ex_ja": "<ruby>九<rt>きゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>寝<rt>ね</rt></ruby>た。",
-    "ex_en": "I slept for 9 hours."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>九<rt>きゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of nine from multifaceted perspectives."
   },
   {
     "id": "n3_v_0277_1",
@@ -4473,8 +4473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅう",
     "ruby": "<ruby>旧<rt>きゅう</rt></ruby>",
     "meaning": "ex-",
-    "ex_ja": "<ruby>旧<rt>きゅう</rt></ruby><ruby>車<rt>くるま</rt></ruby>ですか。",
-    "ex_en": "Is this a vintage car?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>旧<rt>きゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ex- from multifaceted perspectives."
   },
   {
     "id": "n3_v_0278_1",
@@ -4489,8 +4489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅう",
     "ruby": "<ruby>球<rt>きゅう</rt></ruby>",
     "meaning": "globe; sphere; ball",
-    "ex_ja": "<ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>丸<rt>まる</rt></ruby>い。",
-    "ex_en": "The earth is round."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>球<rt>たま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of globe from multifaceted perspectives."
   },
   {
     "id": "n3_v_0279_1",
@@ -4521,8 +4521,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅうか",
     "ruby": "<ruby>休暇<rt>きゅうか</rt></ruby>",
     "meaning": "holiday; day off; furlough",
-    "ex_ja": "<ruby>良<rt>よ</rt></ruby>い<ruby>休暇<rt>きゅうか</rt></ruby>を。",
-    "ex_en": "Have a nice vacation."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>休暇<rt>きゅうか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of holiday from multifaceted perspectives."
   },
   {
     "id": "n3_v_0281_1",
@@ -4537,8 +4537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅうけい",
     "ruby": "<ruby>休憩<rt>きゅうけい</rt></ruby>",
     "meaning": "rest; break; recess; intermission",
-    "ex_ja": "<ruby>休憩<rt>きゅうけい</rt></ruby>したい？",
-    "ex_en": "Do you want to rest?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>休憩<rt>きゅうけい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rest from multifaceted perspectives."
   },
   {
     "id": "n3_v_0282_1",
@@ -4633,8 +4633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きゅうりょう",
     "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>",
     "meaning": "salary; wages",
-    "ex_ja": "<ruby>給料<rt>きゅうりょう</rt></ruby>はいくら？",
-    "ex_en": "What is your salary?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of salary from multifaceted perspectives."
   },
   {
     "id": "n3_v_0288_1",
@@ -4697,8 +4697,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きょうし",
     "ruby": "<ruby>教師<rt>きょうし</rt></ruby>",
     "meaning": "teacher (classroom)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>教師<rt>きょうし</rt></ruby>です。",
-    "ex_en": "He is a teacher."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>教師<rt>きょうし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of teacher from multifaceted perspectives."
   },
   {
     "id": "n3_v_0292_1",
@@ -4713,8 +4713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きょうじゅ",
     "ruby": "<ruby>教授<rt>きょうじゅ</rt></ruby>",
     "meaning": "teaching; instruction; professor",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>教授<rt>きょうじゅ</rt></ruby>です。",
-    "ex_en": "I am a professor."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of teaching from multifaceted perspectives."
   },
   {
     "id": "n3_v_0293_1",
@@ -4777,8 +4777,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きょうふ",
     "ruby": "<ruby>恐怖<rt>きょうふ</rt></ruby>",
     "meaning": "be afraid; dread; dismay; terror",
-    "ex_ja": "<ruby>恐怖<rt>きょうふ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じた。",
-    "ex_en": "I felt afraid."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>恐怖<rt>きょうふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of be afraid from multifaceted perspectives."
   },
   {
     "id": "n3_v_0297_1",
@@ -4857,8 +4857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きょだい",
     "ruby": "<ruby>巨大<rt>きょだい</rt></ruby>",
     "meaning": "huge; gigantic; enormous",
-    "ex_ja": "<ruby>木星<rt>もくせい</rt></ruby>は<ruby>巨大<rt>きょだい</rt></ruby>だ。",
-    "ex_en": "Jupiter is very large."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>巨大<rt>きょだい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of huge from multifaceted perspectives."
   },
   {
     "id": "n3_v_0302_1",
@@ -4889,8 +4889,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きれ",
     "ruby": "<ruby>切れ<rt>きれ</rt></ruby>",
     "meaning": "cloth; piece; cut; chop",
-    "ex_ja": "<ruby>電話<rt>でんわ</rt></ruby>が<ruby>切<rt>き</rt></ruby>れた。",
-    "ex_en": "The telephone was still."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>切<rt>き</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cloth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0304_1",
@@ -4937,8 +4937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんえん",
     "ruby": "<ruby>禁煙<rt>きんえん</rt></ruby>",
     "meaning": "No Smoking!",
-    "ex_ja": "<ruby>劇場<rt>げきじょう</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>禁煙<rt>きんえん</rt></ruby>。",
-    "ex_en": "No smoking in the theater."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>禁煙<rt>きんえん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of No Smoking! from multifaceted perspectives."
   },
   {
     "id": "n3_v_0307_1",
@@ -4969,8 +4969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんこ",
     "ruby": "<ruby>金庫<rt>きんこ</rt></ruby>",
     "meaning": "safe; vault; treasury; provider of funds",
-    "ex_ja": "<ruby>金庫<rt>きんこ</rt></ruby>はどこ？",
-    "ex_en": "Where's the safe?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>金庫<rt>きんこ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of safe from multifaceted perspectives."
   },
   {
     "id": "n3_v_0309_1",
@@ -4985,8 +4985,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんし",
     "ruby": "<ruby>禁止<rt>きんし</rt></ruby>",
     "meaning": "prohibition; ban",
-    "ex_ja": "<ruby>立ち入<rt>たちい</rt></ruby>り<ruby>禁止<rt>きんし</rt></ruby>。",
-    "ex_en": "No Trespassing."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>禁止<rt>きんし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of prohibition from multifaceted perspectives."
   },
   {
     "id": "n3_v_0310_1",
@@ -5017,8 +5017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんぞく",
     "ruby": "<ruby>金属<rt>きんぞく</rt></ruby>",
     "meaning": "metal",
-    "ex_ja": "<ruby>金<rt>きん</rt></ruby>は<ruby>貴金属<rt>ききんぞく</rt></ruby>だ。",
-    "ex_en": "Gold is a precious metal."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>金属<rt>きんぞく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of metal from multifaceted perspectives."
   },
   {
     "id": "n3_v_0312_1",
@@ -5049,8 +5049,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんちょう",
     "ruby": "<ruby>緊張<rt>きんちょう</rt></ruby>",
     "meaning": "tension; mental strain; nervousness",
-    "ex_ja": "<ruby>緊張<rt>きんちょう</rt></ruby>してるの？",
-    "ex_en": "Are you nervous?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>緊張<rt>きんちょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tension from multifaceted perspectives."
   },
   {
     "id": "n3_v_0314_1",
@@ -5065,8 +5065,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんにく",
     "ruby": "<ruby>筋肉<rt>きんにく</rt></ruby>",
     "meaning": "muscle; sinew",
-    "ex_ja": "<ruby>全身<rt>ぜんしん</rt></ruby><ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>だ。",
-    "ex_en": "My whole body is sore."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of muscle from multifaceted perspectives."
   },
   {
     "id": "n3_v_0315_1",
@@ -5097,8 +5097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんよう",
     "ruby": "<ruby>金曜<rt>きんよう</rt></ruby>",
     "meaning": "(abbr) Friday",
-    "ex_ja": "<ruby>金曜<rt>きんよう</rt></ruby>ならどう？",
-    "ex_en": "How about Friday?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>金曜<rt>きんよう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0317_1",
@@ -5193,8 +5193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぎもん",
     "ruby": "<ruby>疑問<rt>ぎもん</rt></ruby>",
     "meaning": "question; problem; doubt; guess",
-    "ex_ja": "<ruby>疑問<rt>ぎもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
-    "ex_en": "I have many doubts."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>疑問<rt>ぎもん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of question from multifaceted perspectives."
   },
   {
     "id": "n3_v_0323_1",
@@ -5209,8 +5209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぎゃく",
     "ruby": "<ruby>逆<rt>ぎゃく</rt></ruby>",
     "meaning": "reverse; opposite",
-    "ex_ja": "<ruby>帝国<rt>ていこく</rt></ruby>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。",
-    "ex_en": "The empire strikes back."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reverse from multifaceted perspectives."
   },
   {
     "id": "n3_v_0324_1",
@@ -5273,8 +5273,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "く",
     "ruby": "<ruby>句<rt>く</rt></ruby>",
     "meaning": "sentence",
-    "ex_ja": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>うな。",
-    "ex_en": "Don't complain."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>句<rt>く</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sentence from multifaceted perspectives."
   },
   {
     "id": "n3_v_0328_1",
@@ -5305,8 +5305,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くせ",
     "ruby": "<ruby>癖<rt>くせ</rt></ruby>",
     "meaning": "a habit (often a bad habit); peculiarity",
-    "ex_ja": "<ruby>癖<rt>くせ</rt></ruby>になった。",
-    "ex_en": "It has become habit."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>癖<rt>くせ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of a habit from multifaceted perspectives."
   },
   {
     "id": "n3_v_0330_1",
@@ -5321,8 +5321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くだ",
     "ruby": "<ruby>管<rt>くだ</rt></ruby>",
     "meaning": "pipe; tube",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>管理<rt>かんり</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-    "ex_en": "I'm an admin."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>管<rt>かん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pipe from multifaceted perspectives."
   },
   {
     "id": "n3_v_0331_1",
@@ -5369,8 +5369,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くみ",
     "ruby": "<ruby>組<rt>くみ</rt></ruby>",
     "meaning": "class; group; team; set",
-    "ex_ja": "<ruby>乗組<rt>のりくみ</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
-    "ex_en": "The crew is large."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>組<rt>くみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of class from multifaceted perspectives."
   },
   {
     "id": "n3_v_0334_1",
@@ -5401,8 +5401,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くらい",
     "ruby": "<ruby>位<rt>くらい</rt></ruby>",
     "meaning": "grade; rank; about",
-    "ex_ja": "<ruby>王位<rt>おうい</rt></ruby>を<ruby>継<rt>つ</rt></ruby>ぐ。",
-    "ex_en": "I succeed to the throne."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>位<rt>くらい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of grade from multifaceted perspectives."
   },
   {
     "id": "n3_v_0336_1",
@@ -5433,8 +5433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くれ",
     "ruby": "<ruby>暮れ<rt>くれ</rt></ruby>",
     "meaning": "year end; sunset; nightfall; end",
-    "ex_ja": "<ruby>日<rt>ひ</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れた。",
-    "ex_en": "The day became night."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>暮<rt>く</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of year end from multifaceted perspectives."
   },
   {
     "id": "n3_v_0338_1",
@@ -5449,8 +5449,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くろう",
     "ruby": "<ruby>苦労<rt>くろう</rt></ruby>",
     "meaning": "troubles; hardships",
-    "ex_ja": "<ruby>苦労<rt>くろう</rt></ruby>するよ。",
-    "ex_en": "You'll have a hard time."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>苦労<rt>くろう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of troubles from multifaceted perspectives."
   },
   {
     "id": "n3_v_0339_1",
@@ -5497,8 +5497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぐうぜん",
     "ruby": "<ruby>偶然<rt>ぐうぜん</rt></ruby>",
     "meaning": "(by) chance; unexpectedly; suddenly",
-    "ex_ja": "<ruby>偶然<rt>ぐうぜん</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>るな。",
-    "ex_en": "Don't leave it up to chance."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>偶然<rt>ぐうぜん</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it  and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0342_1",
@@ -5529,8 +5529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぐん",
     "ruby": "<ruby>軍<rt>ぐん</rt></ruby>",
     "meaning": "army; force; troops",
-    "ex_ja": "<ruby>勝<rt>か</rt></ruby>てば<ruby>官軍<rt>かんぐん</rt></ruby>。",
-    "ex_en": "All is fair in love and war."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>軍<rt>ぐん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of army from multifaceted perspectives."
   },
   {
     "id": "n3_v_0344_1",
@@ -5561,8 +5561,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けい",
     "ruby": "<ruby>計<rt>けい</rt></ruby>",
     "meaning": "plan",
-    "ex_ja": "<ruby>時計<rt>とけい</rt></ruby>してる？",
-    "ex_en": "Are you wearing a watch?"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>計<rt>けい</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting plan."
   },
   {
     "id": "n3_v_0346_1",
@@ -5593,8 +5593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいえい",
     "ruby": "<ruby>経営<rt>けいえい</rt></ruby>",
     "meaning": "management; administration",
-    "ex_ja": "<ruby>家族<rt>かぞく</rt></ruby><ruby>経営<rt>けいえい</rt></ruby>です。",
-    "ex_en": "It's a family business."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>経営<rt>けいえい</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting management."
   },
   {
     "id": "n3_v_0348_1",
@@ -5609,8 +5609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいかく",
     "ruby": "<ruby>計画<rt>けいかく</rt></ruby>",
     "meaning": "plan; project; schedule; scheme; program",
-    "ex_ja": "<ruby>計画<rt>けいかく</rt></ruby>はできた。",
-    "ex_en": "Our plan is made."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>計画<rt>けいかく</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting plan."
   },
   {
     "id": "n3_v_0349_1",
@@ -5625,8 +5625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいき",
     "ruby": "<ruby>景気<rt>けいき</rt></ruby>",
     "meaning": "condition; state; business (condition)",
-    "ex_ja": "<ruby>景気<rt>けいき</rt></ruby>はどう？",
-    "ex_en": "How goes it?"
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>景気<rt>けいき</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish condition."
   },
   {
     "id": "n3_v_0350_1",
@@ -5689,8 +5689,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいさん",
     "ruby": "<ruby>計算<rt>けいさん</rt></ruby>",
     "meaning": "calculation; reckoning",
-    "ex_ja": "<ruby>計算<rt>けいさん</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>使<rt>つか</rt></ruby>えば。",
-    "ex_en": "Use a calculator."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>計算<rt>けいさん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of calculation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0354_1",
@@ -5705,8 +5705,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいじ",
     "ruby": "<ruby>刑事<rt>けいじ</rt></ruby>",
     "meaning": "criminal case; (police) detective",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>刑事<rt>けいじ</rt></ruby>だ。",
-    "ex_en": "He is a detective."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>刑事<rt>けいじ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of criminal case from multifaceted perspectives."
   },
   {
     "id": "n3_v_0355_1",
@@ -5737,8 +5737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けいやく",
     "ruby": "<ruby>契約<rt>けいやく</rt></ruby>",
     "meaning": "contract; compact; agreement",
-    "ex_ja": "<ruby>契約<rt>けいやく</rt></ruby>したの？",
-    "ex_en": "Did you sign the contract?"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>契約<rt>けいやく</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting contract."
   },
   {
     "id": "n3_v_0357_1",
@@ -5769,8 +5769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けが",
     "ruby": "<ruby>怪我<rt>けが</rt></ruby>",
     "meaning": "injury (to animate object); hurt",
-    "ex_ja": "<ruby>怪我<rt>けが</rt></ruby>はない？",
-    "ex_en": "Are you hurt?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>怪我<rt>けが</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of injury from multifaceted perspectives."
   },
   {
     "id": "n3_v_0359_1",
@@ -5785,8 +5785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けしょう",
     "ruby": "<ruby>化粧<rt>けしょう</rt></ruby>",
     "meaning": "make-up (cosmetic)",
-    "ex_ja": "<ruby>化粧<rt>けしょう</rt></ruby>してるの？",
-    "ex_en": "Are you wearing makeup?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>化粧<rt>けしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of make-up from multifaceted perspectives."
   },
   {
     "id": "n3_v_0360_1",
@@ -5817,8 +5817,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けっか",
     "ruby": "<ruby>結果<rt>けっか</rt></ruby>",
     "meaning": "result; consequence",
-    "ex_ja": "<ruby>結果<rt>けっか</rt></ruby>は<ruby>良<rt>よ</rt></ruby>い。",
-    "ex_en": "The results are good."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>結果<rt>けっか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of result from multifaceted perspectives."
   },
   {
     "id": "n3_v_0362_1",
@@ -5865,8 +5865,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けっしん",
     "ruby": "<ruby>決心<rt>けっしん</rt></ruby>",
     "meaning": "determination; resolution",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>決心<rt>けっしん</rt></ruby>した。",
-    "ex_en": "I've made up my mind."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>決心<rt>けっしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of determination from multifaceted perspectives."
   },
   {
     "id": "n3_v_0365_1",
@@ -5881,8 +5881,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けっせき",
     "ruby": "<ruby>欠席<rt>けっせき</rt></ruby>",
     "meaning": "absence; non-attendance",
-    "ex_ja": "<ruby>会<rt>かい</rt></ruby>を<ruby>欠席<rt>けっせき</rt></ruby>した。",
-    "ex_en": "I absented myself from the meeting."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>欠席<rt>けっせき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of absence from multifaceted perspectives."
   },
   {
     "id": "n3_v_0366_1",
@@ -5993,8 +5993,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けんか",
     "ruby": "<ruby>喧嘩<rt>けんか</rt></ruby>",
     "meaning": "quarrel; (drunken) brawl; failure",
-    "ex_ja": "<ruby>喧嘩<rt>けんか</rt></ruby><ruby>両成敗<rt>りょうせいばい</rt></ruby>。",
-    "ex_en": "It takes two to make a quarrel."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>喧嘩<rt>けんか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of quarrel from multifaceted perspectives."
   },
   {
     "id": "n3_v_0373_1",
@@ -6025,8 +6025,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けんこう",
     "ruby": "<ruby>健康<rt>けんこう</rt></ruby>",
     "meaning": "health; sound; wholesome",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>だ。",
-    "ex_en": "He enjoys good health."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>健康<rt>けんこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of health from multifaceted perspectives."
   },
   {
     "id": "n3_v_0375_1",
@@ -6089,8 +6089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けんとう",
     "ruby": "<ruby>検討<rt>けんとう</rt></ruby>",
     "meaning": "consideration; examination; investigation; study; scrutiny",
-    "ex_ja": "<ruby>検討<rt>けんとう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>です。",
-    "ex_en": "That's under consideration."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>検討<rt>けんとう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of consideration from multifaceted perspectives."
   },
   {
     "id": "n3_v_0379_1",
@@ -6137,8 +6137,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げ",
     "ruby": "<ruby>下<rt>げ</rt></ruby>",
     "meaning": "under; below; beneath",
-    "ex_ja": "<ruby>来<rt>き</rt></ruby>て<ruby>下<rt>くだ</rt></ruby>さい。",
-    "ex_en": "Please come."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>下<rt>した</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of under from multifaceted perspectives."
   },
   {
     "id": "n3_v_0382_1",
@@ -6169,8 +6169,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げき",
     "ruby": "<ruby>劇<rt>げき</rt></ruby>",
     "meaning": "drama; play",
-    "ex_ja": "<ruby>劇場<rt>げきじょう</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>禁煙<rt>きんえん</rt></ruby>。",
-    "ex_en": "No smoking in the theater."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>劇<rt>げき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of drama from multifaceted perspectives."
   },
   {
     "id": "n3_v_0384_1",
@@ -6185,8 +6185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げきじょう",
     "ruby": "<ruby>劇場<rt>げきじょう</rt></ruby>",
     "meaning": "theatre; playhouse",
-    "ex_ja": "<ruby>劇場<rt>げきじょう</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>禁煙<rt>きんえん</rt></ruby>。",
-    "ex_en": "No smoking in the theater."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>劇場<rt>げきじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of theatre from multifaceted perspectives."
   },
   {
     "id": "n3_v_0385_1",
@@ -6201,8 +6201,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げつよう",
     "ruby": "<ruby>月曜<rt>げつよう</rt></ruby>",
     "meaning": "Monday",
-    "ex_ja": "<ruby>月曜日<rt>げつようび</rt></ruby>です。",
-    "ex_en": "It's Monday."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Monday from multifaceted perspectives."
   },
   {
     "id": "n3_v_0386_1",
@@ -6217,8 +6217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げんかい",
     "ruby": "<ruby>限界<rt>げんかい</rt></ruby>",
     "meaning": "limit; bound",
-    "ex_ja": "もう<ruby>限界<rt>げんかい</rt></ruby>だ。",
-    "ex_en": "I have reached my limits."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>限界<rt>げんかい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of limit from multifaceted perspectives."
   },
   {
     "id": "n3_v_0387_1",
@@ -6233,8 +6233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げんきん",
     "ruby": "<ruby>現金<rt>げんきん</rt></ruby>",
     "meaning": "cash; ready money; mercenary; self-interested",
-    "ex_ja": "<ruby>現金<rt>げんきん</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>ね。",
-    "ex_en": "A calculative person, aren't they."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>現金<rt>げんきん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cash from multifaceted perspectives."
   },
   {
     "id": "n3_v_0388_1",
@@ -6265,8 +6265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げんざい",
     "ruby": "<ruby>現在<rt>げんざい</rt></ruby>",
     "meaning": "present; up to now; nowadays; modern times; current",
-    "ex_ja": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>時刻<rt>じこく</rt></ruby>は？",
-    "ex_en": "What time is it now?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>現在<rt>げんざい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of present from multifaceted perspectives."
   },
   {
     "id": "n3_v_0390_1",
@@ -6297,8 +6297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げんじつ",
     "ruby": "<ruby>現実<rt>げんじつ</rt></ruby>",
     "meaning": "reality",
-    "ex_ja": "それが<ruby>現実<rt>げんじつ</rt></ruby>だ。",
-    "ex_en": "That's the way it is."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reality from multifaceted perspectives."
   },
   {
     "id": "n3_v_0392_1",
@@ -6361,8 +6361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こい",
     "ruby": "<ruby>恋<rt>こい</rt></ruby>",
     "meaning": "love; tender passion",
-    "ex_ja": "<ruby>恋<rt>こい</rt></ruby>がしたい。",
-    "ex_en": "I want to love."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>恋<rt>こい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of love from multifaceted perspectives."
   },
   {
     "id": "n3_v_0396_1",
@@ -6377,8 +6377,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こううん",
     "ruby": "<ruby>幸運<rt>こううん</rt></ruby>",
     "meaning": "good luck; fortune",
-    "ex_ja": "<ruby>幸運<rt>こううん</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>るよ。",
-    "ex_en": "Good luck!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>幸運<rt>こううん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of good luck from multifaceted perspectives."
   },
   {
     "id": "n3_v_0397_1",
@@ -6441,8 +6441,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうか",
     "ruby": "<ruby>高価<rt>こうか</rt></ruby>",
     "meaning": "high price",
-    "ex_ja": "<ruby>金<rt>きん</rt></ruby>は<ruby>高価<rt>こうか</rt></ruby>です。",
-    "ex_en": "Gold is expensive."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>高価<rt>こうか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of high price from multifaceted perspectives."
   },
   {
     "id": "n3_v_0401_1",
@@ -6521,8 +6521,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうげき",
     "ruby": "<ruby>攻撃<rt>こうげき</rt></ruby>",
     "meaning": "attack; strike; offensive; criticism; censure",
-    "ex_ja": "<ruby>攻撃<rt>こうげき</rt></ruby>された。",
-    "ex_en": "We were attacked."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>攻撃<rt>こうげき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of attack from multifaceted perspectives."
   },
   {
     "id": "n3_v_0406_1",
@@ -6617,8 +6617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうどう",
     "ruby": "<ruby>行動<rt>こうどう</rt></ruby>",
     "meaning": "action; conduct; behaviour; mobilization",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>行動<rt>こうどう</rt></ruby><ruby>家<rt>か</rt></ruby>だ。",
-    "ex_en": "He is a man of action."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>行動<rt>こうどう</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting action."
   },
   {
     "id": "n3_v_0412_1",
@@ -6649,8 +6649,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうふく",
     "ruby": "<ruby>幸福<rt>こうふく</rt></ruby>",
     "meaning": "happiness; blessedness",
-    "ex_ja": "<ruby>無知<rt>むち</rt></ruby>は<ruby>幸福<rt>こうふく</rt></ruby>。",
-    "ex_en": "Ignorance is bliss."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>幸福<rt>こうふく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of happiness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0414_1",
@@ -6665,8 +6665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうへい",
     "ruby": "<ruby>公平<rt>こうへい</rt></ruby>",
     "meaning": "fairness; impartial; justice",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>公平<rt>こうへい</rt></ruby>だ。",
-    "ex_en": "I'm fair."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>公平<rt>こうへい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fairness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0415_1",
@@ -6713,8 +6713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こきゅう",
     "ruby": "<ruby>呼吸<rt>こきゅう</rt></ruby>",
     "meaning": "breath; respiration",
-    "ex_ja": "<ruby>深呼吸<rt>しんこきゅう</rt></ruby>をして。",
-    "ex_en": "Take a deep breath."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>呼吸<rt>こきゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of breath from multifaceted perspectives."
   },
   {
     "id": "n3_v_0418_1",
@@ -6825,8 +6825,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ここ",
     "ruby": "ここ",
     "meaning": "here",
-    "ex_ja": "ここが<ruby>痛<rt>いた</rt></ruby>い。",
-    "ex_en": "It hurts here."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からここの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of here from multifaceted perspectives."
   },
   {
     "id": "n3_v_0425_1",
@@ -6841,8 +6841,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こし",
     "ruby": "<ruby>腰<rt>こし</rt></ruby>",
     "meaning": "hip",
-    "ex_ja": "<ruby>腰<rt>こし</rt></ruby><ruby>痛<rt>いた</rt></ruby>めたの？",
-    "ex_en": "Did you hurt your back?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>腰<rt>こし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hip from multifaceted perspectives."
   },
   {
     "id": "n3_v_0426_1",
@@ -6889,8 +6889,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こっか",
     "ruby": "<ruby>国家<rt>こっか</rt></ruby>",
     "meaning": "state; country; nation",
-    "ex_ja": "<ruby>朕<rt>ちん</rt></ruby>は<ruby>国家<rt>こっか</rt></ruby>なり。",
-    "ex_en": "I am the state."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>国家<rt>こっか</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish state."
   },
   {
     "id": "n3_v_0429_1",
@@ -6985,8 +6985,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こな",
     "ruby": "<ruby>粉<rt>こな</rt></ruby>",
     "meaning": "flour; meal; powder",
-    "ex_ja": "<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>は<ruby>辛<rt>つら</rt></ruby>い。",
-    "ex_en": "Hay fever is tough."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>粉<rt>こな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of flour from multifaceted perspectives."
   },
   {
     "id": "n3_v_0435_1",
@@ -7001,8 +7001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "この",
     "ruby": "この",
     "meaning": "this",
-    "ex_ja": "この<ruby>本<rt>ほん</rt></ruby>です。",
-    "ex_en": "It's this book."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からこのの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of this from multifaceted perspectives."
   },
   {
     "id": "n3_v_0436_1",
@@ -7017,8 +7017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "このみ",
     "ruby": "<ruby>好み<rt>このみ</rt></ruby>",
     "meaning": "liking; taste; choice",
-    "ex_ja": "<ruby>好<rt>この</rt></ruby>みの<ruby>問題<rt>もんだい</rt></ruby>だ。",
-    "ex_en": "It's a question of personal taste."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>好<rt>この</rt></ruby>みの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of liking from multifaceted perspectives."
   },
   {
     "id": "n3_v_0437_1",
@@ -7081,8 +7081,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ころ",
     "ruby": "<ruby>頃<rt>ころ</rt></ruby>",
     "meaning": "time; about; toward; approximately (time)",
-    "ex_ja": "７<ruby>時<rt>じ</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>にね。",
-    "ex_en": "See you about 7."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>頃<rt>ころ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of time from multifaceted perspectives."
   },
   {
     "id": "n3_v_0441_1",
@@ -7177,8 +7177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こんにち",
     "ruby": "<ruby>今日<rt>こんにち</rt></ruby>",
     "meaning": "today; this day",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>い。",
-    "ex_en": "It's hot today."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>今日<rt>きょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of today from multifaceted perspectives."
   },
   {
     "id": "n3_v_0447_1",
@@ -7193,8 +7193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こんにちは",
     "ruby": "こんにちは",
     "meaning": "hello; good day (daytime greeting; id)",
-    "ex_ja": "こんにちは。",
-    "ex_en": "Hello!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からこんにちはの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hello from multifaceted perspectives."
   },
   {
     "id": "n3_v_0448_1",
@@ -7241,8 +7241,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ご",
     "ruby": "<ruby>語<rt>ご</rt></ruby>",
     "meaning": "language; word",
-    "ex_ja": "<ruby>英語<rt>えいご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>せ！",
-    "ex_en": "Speak English."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>語<rt>かたり</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of language from multifaceted perspectives."
   },
   {
     "id": "n3_v_0451_1",
@@ -7257,8 +7257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ごうか",
     "ruby": "<ruby>豪華<rt>ごうか</rt></ruby>",
     "meaning": "wonderful; gorgeous; splendor; pomp; extravagance",
-    "ex_ja": "<ruby>豪華<rt>ごうか</rt></ruby>ですね。",
-    "ex_en": "It's gorgeous."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>豪華<rt>ごうか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wonderful from multifaceted perspectives."
   },
   {
     "id": "n3_v_0452_1",
@@ -7353,8 +7353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ごく",
     "ruby": "<ruby>極<rt>ごく</rt></ruby>",
     "meaning": "quite; very",
-    "ex_ja": "<ruby>外<rt>そと</rt></ruby>は<ruby>極寒<rt>ごっかん</rt></ruby>だ。",
-    "ex_en": "It's freezing cold outside."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>極<rt>きょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of quite from multifaceted perspectives."
   },
   {
     "id": "n3_v_0458_1",
@@ -7385,8 +7385,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さ",
     "ruby": "<ruby>差<rt>さ</rt></ruby>",
     "meaning": "difference; variation",
-    "ex_ja": "<ruby>大差<rt>たいさ</rt></ruby>ないよ。",
-    "ex_en": "It makes little difference."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>差<rt>さ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of difference from multifaceted perspectives."
   },
   {
     "id": "n3_v_0460_1",
@@ -7401,8 +7401,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さい",
     "ruby": "<ruby>際<rt>さい</rt></ruby>",
     "meaning": "on the occasion of; circumstances",
-    "ex_ja": "<ruby>際<rt>きわ</rt></ruby>どかった。",
-    "ex_en": "That was a close shave."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>際<rt>さい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of on the occasion of from multifaceted perspectives."
   },
   {
     "id": "n3_v_0461_1",
@@ -7417,8 +7417,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さいこう",
     "ruby": "<ruby>最高<rt>さいこう</rt></ruby>",
     "meaning": "highest; supreme; the most",
-    "ex_ja": "<ruby>気分<rt>きぶん</rt></ruby>は<ruby>最高<rt>さいこう</rt></ruby>。",
-    "ex_en": "We are having a whale of a time."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>最高<rt>さいこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of highest from multifaceted perspectives."
   },
   {
     "id": "n3_v_0462_1",
@@ -7513,8 +7513,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さかい",
     "ruby": "<ruby>境<rt>さかい</rt></ruby>",
     "meaning": "border; boundary; mental state",
-    "ex_ja": "<ruby>同<rt>おな</rt></ruby>じ<ruby>心境<rt>しんきょう</rt></ruby>です。",
-    "ex_en": "We feel the same way as you."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>境<rt>さかい</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish border."
   },
   {
     "id": "n3_v_0468_1",
@@ -7545,8 +7545,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さく",
     "ruby": "<ruby>昨<rt>さく</rt></ruby>",
     "meaning": "last (year); yesterday",
-    "ex_ja": "<ruby>昨夜<rt>さくや</rt></ruby>はごめん。",
-    "ex_en": "I'm sorry about last night."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>昨<rt>さく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of last from multifaceted perspectives."
   },
   {
     "id": "n3_v_0470_1",
@@ -7577,8 +7577,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さくもつ",
     "ruby": "<ruby>作物<rt>さくもつ</rt></ruby>",
     "meaning": "produce (e.g. agricultural); crops",
-    "ex_ja": "<ruby>作物<rt>さくもつ</rt></ruby>は<ruby>枯<rt>か</rt></ruby>れた。",
-    "ex_en": "The crops have withered."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>作物<rt>さくもつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of produce from multifaceted perspectives."
   },
   {
     "id": "n3_v_0472_1",
@@ -7593,8 +7593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さくら",
     "ruby": "<ruby>桜<rt>さくら</rt></ruby>",
     "meaning": "cherry blossom; cherry tree",
-    "ex_ja": "<ruby>桜<rt>さくら</rt></ruby>が<ruby>見<rt>み</rt></ruby>ごろだ。",
-    "ex_en": "The cherry blossoms are at their best."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>桜<rt>さくら</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cherry blossom from multifaceted perspectives."
   },
   {
     "id": "n3_v_0473_1",
@@ -7609,8 +7609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さけ",
     "ruby": "<ruby>酒<rt>さけ</rt></ruby>",
     "meaning": "alcohol; sake",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>禁酒<rt>きんしゅ</rt></ruby>した。",
-    "ex_en": "He abstained from alcohol."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>酒<rt>さけ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of alcohol from multifaceted perspectives."
   },
   {
     "id": "n3_v_0474_1",
@@ -7625,8 +7625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さっか",
     "ruby": "<ruby>作家<rt>さっか</rt></ruby>",
     "meaning": "author; writer; novelist; artist",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>作家<rt>さっか</rt></ruby>です。",
-    "ex_en": "He writes books."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>作家<rt>さっか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of author from multifaceted perspectives."
   },
   {
     "id": "n3_v_0475_1",
@@ -7657,8 +7657,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さつ",
     "ruby": "<ruby>札<rt>さつ</rt></ruby>",
     "meaning": "(1) token; label; (2) ticket; (3) charm",
-    "ex_ja": "<ruby>値札<rt>ねふだ</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。",
-    "ex_en": "I looked at the price tag."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>札<rt>さつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0477_1",
@@ -7769,8 +7769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さら",
     "ruby": "<ruby>皿<rt>さら</rt></ruby>",
     "meaning": "plate; dish",
-    "ex_ja": "お<ruby>皿<rt>さら</rt></ruby><ruby>洗<rt>あら</rt></ruby>って。",
-    "ex_en": "Wash the dishes."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>皿<rt>さら</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of plate from multifaceted perspectives."
   },
   {
     "id": "n3_v_0484_1",
@@ -7801,8 +7801,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さる",
     "ruby": "<ruby>猿<rt>さる</rt></ruby>",
     "meaning": "monkey",
-    "ex_ja": "<ruby>猿<rt>さる</rt></ruby>は<ruby>木<rt>き</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る。",
-    "ex_en": "Monkeys climb trees."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>猿<rt>さる</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of monkey from multifaceted perspectives."
   },
   {
     "id": "n3_v_0486_1",
@@ -7833,8 +7833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さんか",
     "ruby": "<ruby>参加<rt>さんか</rt></ruby>",
     "meaning": "participation",
-    "ex_ja": "<ruby>参加<rt>さんか</rt></ruby>したい。",
-    "ex_en": "I want to participate."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>参加<rt>さんか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of participation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0488_1",
@@ -7849,8 +7849,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さんこう",
     "ruby": "<ruby>参考<rt>さんこう</rt></ruby>",
     "meaning": "reference; consultation",
-    "ex_ja": "ご<ruby>参考<rt>さんこう</rt></ruby>までに。",
-    "ex_en": "For your information."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>参考<rt>さんこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reference from multifaceted perspectives."
   },
   {
     "id": "n3_v_0489_1",
@@ -7881,8 +7881,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さんぽ",
     "ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>",
     "meaning": "walk; stroll",
-    "ex_ja": "<ruby>散歩<rt>さんぽ</rt></ruby>をした。",
-    "ex_en": "I took a walk."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of walk from multifaceted perspectives."
   },
   {
     "id": "n3_v_0491_1",
@@ -7929,8 +7929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ざせき",
     "ruby": "<ruby>座席<rt>ざせき</rt></ruby>",
     "meaning": "seat",
-    "ex_ja": "<ruby>座席<rt>ざせき</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>ろう。",
-    "ex_en": "Let's go back to our places."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>座席<rt>ざせき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of seat from multifaceted perspectives."
   },
   {
     "id": "n3_v_0494_1",
@@ -7945,8 +7945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "し",
     "ruby": "<ruby>四<rt>し</rt></ruby>",
     "meaning": "four",
-    "ex_ja": "<ruby>二<rt>に</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>倍<rt>ばい</rt></ruby>は<ruby>四<rt>よん</rt></ruby>。",
-    "ex_en": "Twice two is equal to four."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>四<rt>よん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of four from multifaceted perspectives."
   },
   {
     "id": "n3_v_0495_1",
@@ -7961,8 +7961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "し",
     "ruby": "<ruby>氏<rt>し</rt></ruby>",
     "meaning": "family name; lineage; birth",
-    "ex_ja": "<ruby>彼氏<rt>かれし</rt></ruby>いるの？",
-    "ex_en": "Do you have a boyfriend?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>氏<rt>し</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of family name from multifaceted perspectives."
   },
   {
     "id": "n3_v_0496_1",
@@ -7977,8 +7977,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "し",
     "ruby": "<ruby>詩<rt>し</rt></ruby>",
     "meaning": "poem; verse of poetry",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>詩人<rt>しじん</rt></ruby>だ。",
-    "ex_en": "He is a poet."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>詩<rt>し</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of poem from multifaceted perspectives."
   },
   {
     "id": "n3_v_0497_1",
@@ -7993,8 +7993,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しあわせ",
     "ruby": "<ruby>幸せ<rt>しあわせ</rt></ruby>",
     "meaning": "happiness; good fortune; luck; blessing",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>幸<rt>しあわ</rt></ruby>せだ。",
-    "ex_en": "He is happy."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>幸<rt>しあわ</rt></ruby>せの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of happiness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0498_1",
@@ -8025,8 +8025,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しき",
     "ruby": "<ruby>式<rt>しき</rt></ruby>",
     "meaning": "equation; formula; ceremony",
-    "ex_ja": "<ruby>結婚式<rt>けっこんしき</rt></ruby>はいつ？",
-    "ex_en": "When's the wedding?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>式<rt>しき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of equation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0500_1",
@@ -8121,8 +8121,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しじん",
     "ruby": "<ruby>詩人<rt>しじん</rt></ruby>",
     "meaning": "poet",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>詩人<rt>しじん</rt></ruby>だ。",
-    "ex_en": "He is a poet."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>詩人<rt>しじん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of poet from multifaceted perspectives."
   },
   {
     "id": "n3_v_0506_1",
@@ -8153,8 +8153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しそう",
     "ruby": "<ruby>思想<rt>しそう</rt></ruby>",
     "meaning": "thought; idea",
-    "ex_ja": "<ruby>思想<rt>しそう</rt></ruby>は<ruby>自由<rt>じゆう</rt></ruby>だ。",
-    "ex_en": "Thought is free."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>思想<rt>しそう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of thought from multifaceted perspectives."
   },
   {
     "id": "n3_v_0508_1",
@@ -8233,8 +8233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しだい",
     "ruby": "<ruby>次第<rt>しだい</rt></ruby>",
     "meaning": "(1) order; precedence; (2) circumstances; (3) immediate(ly)",
-    "ex_ja": "<ruby>君<rt>きみ</rt></ruby><ruby>次第<rt>しだい</rt></ruby>だよ。",
-    "ex_en": "It's up to you."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>次第<rt>しだい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0513_1",
@@ -8249,8 +8249,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しち",
     "ruby": "<ruby>七<rt>しち</rt></ruby>",
     "meaning": "seven",
-    "ex_ja": "<ruby>七転び八起<rt>ななころびやお</rt></ruby>き。",
-    "ex_en": "Fall seven times. Stand up eight."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>七<rt>なな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of seven from multifaceted perspectives."
   },
   {
     "id": "n3_v_0514_1",
@@ -8265,8 +8265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しつ",
     "ruby": "<ruby>質<rt>しつ</rt></ruby>",
     "meaning": "quality; nature (of person)",
-    "ex_ja": "よい<ruby>質問<rt>しつもん</rt></ruby>だ。",
-    "ex_en": "Good question!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>質<rt>しつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of quality from multifaceted perspectives."
   },
   {
     "id": "n3_v_0515_1",
@@ -8281,8 +8281,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しつぎょう",
     "ruby": "<ruby>失業<rt>しつぎょう</rt></ruby>",
     "meaning": "unemployment",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>失業<rt>しつぎょう</rt></ruby>した。",
-    "ex_en": "He lost his job."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>失業<rt>しつぎょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of unemployment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0516_1",
@@ -8297,8 +8297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しつぼう",
     "ruby": "<ruby>失望<rt>しつぼう</rt></ruby>",
     "meaning": "disappointment; despair",
-    "ex_ja": "<ruby>失望<rt>しつぼう</rt></ruby>するな。",
-    "ex_en": "Don't give up hope."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>失望<rt>しつぼう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of disappointment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0517_1",
@@ -8345,8 +8345,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しな",
     "ruby": "<ruby>品<rt>しな</rt></ruby>",
     "meaning": "thing; article; goods; dignity; article (goods); counter for meal courses",
-    "ex_ja": "<ruby>返品<rt>へんぴん</rt></ruby>お<ruby>断<rt>ことわ</rt></ruby>り。",
-    "ex_en": "No merchandise can be returned."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>品<rt>しな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of thing from multifaceted perspectives."
   },
   {
     "id": "n3_v_0520_1",
@@ -8425,8 +8425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しばふ",
     "ruby": "<ruby>芝生<rt>しばふ</rt></ruby>",
     "meaning": "lawn",
-    "ex_ja": "<ruby>芝生<rt>しばふ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るな。",
-    "ex_en": "Keep off the grass!"
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>芝生<rt>しばふ</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of lawn suited to the times are being discussed."
   },
   {
     "id": "n3_v_0525_1",
@@ -8537,8 +8537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅう",
     "ruby": "<ruby>週<rt>しゅう</rt></ruby>",
     "meaning": "week",
-    "ex_ja": "<ruby>良<rt>よ</rt></ruby>い<ruby>週末<rt>しゅうまつ</rt></ruby>を。",
-    "ex_en": "Have a nice weekend!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>週<rt>しゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of week from multifaceted perspectives."
   },
   {
     "id": "n3_v_0532_1",
@@ -8585,8 +8585,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅうかん",
     "ruby": "<ruby>週間<rt>しゅうかん</rt></ruby>",
     "meaning": "week; weekly",
-    "ex_ja": "<ruby>三<rt>さん</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>経<rt>た</rt></ruby>った。",
-    "ex_en": "Three weeks went by."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of week from multifaceted perspectives."
   },
   {
     "id": "n3_v_0535_1",
@@ -8633,8 +8633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅうせい",
     "ruby": "<ruby>修正<rt>しゅうせい</rt></ruby>",
     "meaning": "amendment; correction; revision; modification",
-    "ex_ja": "<ruby>修正<rt>しゅうせい</rt></ruby>しました。",
-    "ex_en": "I've corrected it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>修正<rt>しゅうせい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of amendment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0538_1",
@@ -8777,8 +8777,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅちょう",
     "ruby": "<ruby>主張<rt>しゅちょう</rt></ruby>",
     "meaning": "claim; request; insistence; assertion",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>主張<rt>しゅちょう</rt></ruby>した。",
-    "ex_en": "He insisted."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of claim from multifaceted perspectives."
   },
   {
     "id": "n3_v_0547_1",
@@ -8809,8 +8809,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅっせき",
     "ruby": "<ruby>出席<rt>しゅっせき</rt></ruby>",
     "meaning": "attendance; presence",
-    "ex_ja": "<ruby>出席<rt>しゅっせき</rt></ruby>します。",
-    "ex_en": "I will join it!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>出席<rt>しゅっせき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of attendance from multifaceted perspectives."
   },
   {
     "id": "n3_v_0549_1",
@@ -8873,8 +8873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅふ",
     "ruby": "<ruby>主婦<rt>しゅふ</rt></ruby>",
     "meaning": "housewife; mistress",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>主婦<rt>しゅふ</rt></ruby>です。",
-    "ex_en": "I am a housewife."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>主婦<rt>しゅふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of housewife from multifaceted perspectives."
   },
   {
     "id": "n3_v_0553_1",
@@ -8953,8 +8953,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょう",
     "ruby": "<ruby>賞<rt>しょう</rt></ruby>",
     "meaning": "prize; award",
-    "ex_ja": "<ruby>賞<rt>しょう</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>手<rt>て</rt></ruby>に。",
-    "ex_en": "The prize went to him."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>賞<rt>しょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of prize from multifaceted perspectives."
   },
   {
     "id": "n3_v_0558_1",
@@ -9049,8 +9049,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうじき",
     "ruby": "<ruby>正直<rt>しょうじき</rt></ruby>",
     "meaning": "honesty; integrity; frankness",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正直<rt>しょうじき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-    "ex_en": "He is a square shooter."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>正直<rt>しょうじき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of honesty from multifaceted perspectives."
   },
   {
     "id": "n3_v_0564_1",
@@ -9097,8 +9097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうたい",
     "ruby": "<ruby>招待<rt>しょうたい</rt></ruby>",
     "meaning": "invitation",
-    "ex_ja": "<ruby>招待<rt>しょうたい</rt></ruby>された？",
-    "ex_en": "Were you invited?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>招待<rt>しょうたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of invitation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0567_1",
@@ -9129,8 +9129,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうち",
     "ruby": "<ruby>承知<rt>しょうち</rt></ruby>",
     "meaning": "consent; acceptance; assent; admitting",
-    "ex_ja": "<ruby>承知<rt>しょうち</rt></ruby>しました。",
-    "ex_en": "All right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>承知<rt>しょうち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of consent from multifaceted perspectives."
   },
   {
     "id": "n3_v_0569_1",
@@ -9161,8 +9161,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうにん",
     "ruby": "<ruby>商人<rt>しょうにん</rt></ruby>",
     "meaning": "trader; shopkeeper; merchant",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>商人<rt>しょうにん</rt></ruby>だ。",
-    "ex_en": "He is a famous merchant."
+    "ex_ja": "<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>大阪<rt>おおさか</rt></ruby>は「<ruby>天下<rt>てんか</rt></ruby>の<ruby>台所<rt>だいどころ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれ、<ruby>全国<rt>ぜんこく</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まった<ruby>商人<rt>しょうにん</rt></ruby>たちで<ruby>大<rt>おお</rt></ruby>いに<ruby>賑<rt>にぎ</rt></ruby>わった。",
+    "ex_en": "Edo-period Osaka was called the 'nation's kitchen' and bustled with merchants gathered from all over the country."
   },
   {
     "id": "n3_v_0571_1",
@@ -9193,8 +9193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうねん",
     "ruby": "<ruby>少年<rt>しょうねん</rt></ruby>",
     "meaning": "boys; juveniles",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>少年<rt>しょうねん</rt></ruby>です。",
-    "ex_en": "I am a boy."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>少年<rt>しょうねん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of boys from multifaceted perspectives."
   },
   {
     "id": "n3_v_0573_1",
@@ -9209,8 +9209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうばい",
     "ruby": "<ruby>商売<rt>しょうばい</rt></ruby>",
     "meaning": "trade; business; commerce; transaction; occupation",
-    "ex_ja": "<ruby>商売<rt>しょうばい</rt></ruby>は<ruby>商売<rt>しょうばい</rt></ruby>。",
-    "ex_en": "Business is business."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>商売<rt>しょうばい</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting trade."
   },
   {
     "id": "n3_v_0574_1",
@@ -9289,8 +9289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょく",
     "ruby": "<ruby>職<rt>しょく</rt></ruby>",
     "meaning": "employment",
-    "ex_ja": "<ruby>辞職<rt>じしょく</rt></ruby>します。",
-    "ex_en": "I quit."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>職<rt>しょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of employment from multifaceted perspectives."
   },
   {
     "id": "n3_v_0579_1",
@@ -9321,8 +9321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょくじ",
     "ruby": "<ruby>食事<rt>しょくじ</rt></ruby>",
     "meaning": "meal",
-    "ex_ja": "<ruby>食事<rt>しょくじ</rt></ruby>ですよ。",
-    "ex_en": "Dinner's ready."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of meal from multifaceted perspectives."
   },
   {
     "id": "n3_v_0581_1",
@@ -9369,8 +9369,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょくぶつ",
     "ruby": "<ruby>植物<rt>しょくぶつ</rt></ruby>",
     "meaning": "plant; vegetation",
-    "ex_ja": "<ruby>植物<rt>しょくぶつ</rt></ruby>が<ruby>生<rt>は</rt></ruby>える。",
-    "ex_en": "Plants grow."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting plant."
   },
   {
     "id": "n3_v_0584_1",
@@ -9433,8 +9433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょくりょう",
     "ruby": "<ruby>食糧<rt>しょくりょう</rt></ruby>",
     "meaning": "provisions; rations",
-    "ex_ja": "<ruby>食糧<rt>しょくりょう</rt></ruby>が<ruby>尽<rt>つ</rt></ruby>きた。",
-    "ex_en": "We ran out of food."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>食糧<rt>しょくりょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of provisions from multifaceted perspectives."
   },
   {
     "id": "n3_v_0588_1",
@@ -9529,8 +9529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しらせ",
     "ruby": "<ruby>知らせ<rt>しらせ</rt></ruby>",
     "meaning": "notice",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせて。",
-    "ex_en": "Let me know."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>知<rt>し</rt></ruby>らせの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of notice from multifaceted perspectives."
   },
   {
     "id": "n3_v_0594_1",
@@ -9609,8 +9609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんけん",
     "ruby": "<ruby>真剣<rt>しんけん</rt></ruby>",
     "meaning": "seriousness; earnestness",
-    "ex_ja": "トムは<ruby>真剣<rt>しんけん</rt></ruby>だ。",
-    "ex_en": "Tom is serious."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>真剣<rt>しんけん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of seriousness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0599_1",
@@ -9657,8 +9657,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんごう",
     "ruby": "<ruby>信号<rt>しんごう</rt></ruby>",
     "meaning": "traffic lights; signal; semaphore",
-    "ex_ja": "<ruby>信号<rt>しんごう</rt></ruby>は<ruby>青<rt>あお</rt></ruby>だ。",
-    "ex_en": "The traffic signal is green."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>信号<rt>しんごう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of traffic lights from multifaceted perspectives."
   },
   {
     "id": "n3_v_0602_1",
@@ -9721,8 +9721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんぞう",
     "ruby": "<ruby>心臓<rt>しんぞう</rt></ruby>",
     "meaning": "heart",
-    "ex_ja": "<ruby>心臓<rt>しんぞう</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>いな。",
-    "ex_en": "It's not good for my heart."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of heart from multifaceted perspectives."
   },
   {
     "id": "n3_v_0606_1",
@@ -9737,8 +9737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんたい",
     "ruby": "<ruby>身体<rt>しんたい</rt></ruby>",
     "meaning": "the body",
-    "ex_ja": "<ruby>身体<rt>しんたい</rt></ruby>、<ruby>硬<rt>かた</rt></ruby>いね。",
-    "ex_en": "My body is stiff."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>身体<rt>しんたい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the body from multifaceted perspectives."
   },
   {
     "id": "n3_v_0607_1",
@@ -9769,8 +9769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんちょう",
     "ruby": "<ruby>身長<rt>しんちょう</rt></ruby>",
     "meaning": "height (of body); stature",
-    "ex_ja": "<ruby>身長<rt>しんちょう</rt></ruby><ruby>何<rt>なん</rt></ruby>センチ？",
-    "ex_en": "How tall are you?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>身長<rt>しんちょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of height from multifaceted perspectives."
   },
   {
     "id": "n3_v_0609_1",
@@ -9785,8 +9785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんぱい",
     "ruby": "<ruby>心配<rt>しんぱい</rt></ruby>",
     "meaning": "worry; concern; anxiety; care",
-    "ex_ja": "<ruby>心配<rt>しんぱい</rt></ruby>するな。",
-    "ex_en": "Don't worry about it!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>心配<rt>しんぱい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of worry from multifaceted perspectives."
   },
   {
     "id": "n3_v_0610_1",
@@ -9833,8 +9833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんゆう",
     "ruby": "<ruby>親友<rt>しんゆう</rt></ruby>",
     "meaning": "close friend; buddy",
-    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>の<ruby>親友<rt>しんゆう</rt></ruby>より。",
-    "ex_en": "Your loving friend."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>親友<rt>しんゆう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of close friend from multifaceted perspectives."
   },
   {
     "id": "n3_v_0613_1",
@@ -9929,8 +9929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じき",
     "ruby": "<ruby>直<rt>じき</rt></ruby>",
     "meaning": "earnestly; immediately; exactly",
-    "ex_ja": "<ruby>誤<rt>あやま</rt></ruby>りを<ruby>直<rt>なお</rt></ruby>せ。",
-    "ex_en": "Correct errors."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>直<rt>じか</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting earnestly."
   },
   {
     "id": "n3_v_0619_1",
@@ -9961,8 +9961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じこく",
     "ruby": "<ruby>時刻<rt>じこく</rt></ruby>",
     "meaning": "instant; time; moment",
-    "ex_ja": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>時刻<rt>じこく</rt></ruby>は？",
-    "ex_en": "What time is it now?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>時刻<rt>じこく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of instant from multifaceted perspectives."
   },
   {
     "id": "n3_v_0621_1",
@@ -9993,8 +9993,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じしん",
     "ruby": "<ruby>自身<rt>じしん</rt></ruby>",
     "meaning": "by oneself; personally",
-    "ex_ja": "<ruby>汝<rt>なんじ</rt></ruby><ruby>自身<rt>じしん</rt></ruby>を<ruby>知<rt>し</rt></ruby>れ。",
-    "ex_en": "Know thyself."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>自身<rt>じしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of by oneself from multifaceted perspectives."
   },
   {
     "id": "n3_v_0623_1",
@@ -10041,8 +10041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じたい",
     "ruby": "<ruby>事態<rt>じたい</rt></ruby>",
     "meaning": "situation; present state of affairs",
-    "ex_ja": "<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>事態<rt>じたい</rt></ruby>だ。",
-    "ex_en": "It's an emergency!"
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>事態<rt>じたい</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish situation."
   },
   {
     "id": "n3_v_0626_1",
@@ -10121,8 +10121,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じつげん",
     "ruby": "<ruby>実現<rt>じつげん</rt></ruby>",
     "meaning": "implementation; materialization; realization",
-    "ex_ja": "<ruby>夢<rt>ゆめ</rt></ruby>が<ruby>実現<rt>じつげん</rt></ruby>した。",
-    "ex_en": "His dream came true."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>実現<rt>じつげん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of implementation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0631_1",
@@ -10169,8 +10169,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じどう",
     "ruby": "<ruby>自動<rt>じどう</rt></ruby>",
     "meaning": "automatic; self-motion",
-    "ex_ja": "<ruby>自動<rt>じどう</rt></ruby>ドアです。",
-    "ex_en": "The doors open automatically."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>自動<rt>じどう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of automatic from multifaceted perspectives."
   },
   {
     "id": "n3_v_0634_1",
@@ -10217,8 +10217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゃあ",
     "ruby": "じゃあ",
     "meaning": "well; well then",
-    "ex_ja": "じゃあまた。",
-    "ex_en": "See you then."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からじゃあの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of well from multifaceted perspectives."
   },
   {
     "id": "n3_v_0637_1",
@@ -10233,8 +10233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゃま",
     "ruby": "<ruby>邪魔<rt>じゃま</rt></ruby>",
     "meaning": "hindrance; intrusion",
-    "ex_ja": "<ruby>邪魔<rt>じゃま</rt></ruby>なのです。",
-    "ex_en": "It is in the way."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>邪魔<rt>じゃま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hindrance from multifaceted perspectives."
   },
   {
     "id": "n3_v_0638_1",
@@ -10249,8 +10249,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅう",
     "ruby": "<ruby>十<rt>じゅう</rt></ruby>",
     "meaning": "10; ten",
-    "ex_ja": "<ruby>五十歩百歩<rt>ごじゅっぽひゃっぽ</rt></ruby>。",
-    "ex_en": "Scant difference."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>十<rt>じゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of 10 from multifaceted perspectives."
   },
   {
     "id": "n3_v_0639_1",
@@ -10265,8 +10265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅう",
     "ruby": "<ruby>銃<rt>じゅう</rt></ruby>",
     "meaning": "gun",
-    "ex_ja": "<ruby>銃<rt>じゅう</rt></ruby>をしまえ。",
-    "ex_en": "Holster your weapon."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>銃<rt>じゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of gun from multifaceted perspectives."
   },
   {
     "id": "n3_v_0640_1",
@@ -10393,8 +10393,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅん",
     "ruby": "<ruby>順<rt>じゅん</rt></ruby>",
     "meaning": "order; turn",
-    "ex_ja": "<ruby>万事<rt>ばんじ</rt></ruby><ruby>順調<rt>じゅんちょう</rt></ruby>だ。",
-    "ex_en": "Everything is all right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>順<rt>じゅん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of order from multifaceted perspectives."
   },
   {
     "id": "n3_v_0648_1",
@@ -10409,8 +10409,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅんちょう",
     "ruby": "<ruby>順調<rt>じゅんちょう</rt></ruby>",
     "meaning": "favourable; doing well; O.K.; all right",
-    "ex_ja": "<ruby>万事<rt>ばんじ</rt></ruby><ruby>順調<rt>じゅんちょう</rt></ruby>だ。",
-    "ex_en": "Everything is all right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>順調<rt>じゅんちょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of favourable from multifaceted perspectives."
   },
   {
     "id": "n3_v_0649_1",
@@ -10441,8 +10441,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅんび",
     "ruby": "<ruby>準備<rt>じゅんび</rt></ruby>",
     "meaning": "preparation; arrangements; provision; reserve",
-    "ex_ja": "<ruby>準備<rt>じゅんび</rt></ruby>できてる？",
-    "ex_en": "Are you ready?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>準備<rt>じゅんび</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of preparation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0651_1",
@@ -10489,8 +10489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょうきょう",
     "ruby": "<ruby>状況<rt>じょうきょう</rt></ruby>",
     "meaning": "state of affairs; situation; circumstances",
-    "ex_ja": "<ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>最悪<rt>さいあく</rt></ruby>だ。",
-    "ex_en": "The situation is ugly."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish state of affairs."
   },
   {
     "id": "n3_v_0654_1",
@@ -10505,8 +10505,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょうけん",
     "ruby": "<ruby>条件<rt>じょうけん</rt></ruby>",
     "meaning": "conditions; terms",
-    "ex_ja": "<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める。",
-    "ex_en": "I fix the terms."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish conditions."
   },
   {
     "id": "n3_v_0655_1",
@@ -10521,8 +10521,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょうしき",
     "ruby": "<ruby>常識<rt>じょうしき</rt></ruby>",
     "meaning": "common sense",
-    "ex_ja": "<ruby>一般<rt>いっぱん</rt></ruby><ruby>常識<rt>じょうしき</rt></ruby>よ。",
-    "ex_en": "It's common knowledge."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of common sense from multifaceted perspectives."
   },
   {
     "id": "n3_v_0656_1",
@@ -10569,8 +10569,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょうだん",
     "ruby": "<ruby>冗談<rt>じょうだん</rt></ruby>",
     "meaning": "jest; joke",
-    "ex_ja": "<ruby>冗談<rt>じょうだん</rt></ruby>だろう！",
-    "ex_en": "You must be kidding!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>冗談<rt>じょうだん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of jest from multifaceted perspectives."
   },
   {
     "id": "n3_v_0659_1",
@@ -10601,8 +10601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょうほう",
     "ruby": "<ruby>情報<rt>じょうほう</rt></ruby>",
     "meaning": "information; (military) intelligence",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>情報<rt>じょうほう</rt></ruby><ruby>通<rt>どおり</rt></ruby>だ。",
-    "ex_en": "He's a well-informed person."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of information from multifaceted perspectives."
   },
   {
     "id": "n3_v_0661_1",
@@ -10617,8 +10617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じょおう",
     "ruby": "<ruby>女王<rt>じょおう</rt></ruby>",
     "meaning": "queen",
-    "ex_ja": "<ruby>女王<rt>じょおう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>歳<rt>さい</rt></ruby>！",
-    "ex_en": "God save the Queen."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>女王<rt>じょおう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of queen from multifaceted perspectives."
   },
   {
     "id": "n3_v_0662_1",
@@ -10729,8 +10729,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じんせい",
     "ruby": "<ruby>人生<rt>じんせい</rt></ruby>",
     "meaning": "(human) life (i.e. conception to death)",
-    "ex_ja": "<ruby>人生<rt>じんせい</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>い。",
-    "ex_en": "Life is short."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>人生<rt>じんせい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0669_1",
@@ -10857,8 +10857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すえ",
     "ruby": "<ruby>末<rt>すえ</rt></ruby>",
     "meaning": "the end of; powder",
-    "ex_ja": "<ruby>良<rt>よ</rt></ruby>い<ruby>週末<rt>しゅうまつ</rt></ruby>を。",
-    "ex_en": "Have a nice weekend!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>末<rt>すえ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the end of from multifaceted perspectives."
   },
   {
     "id": "n3_v_0677_1",
@@ -10873,8 +10873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すがた",
     "ruby": "<ruby>姿<rt>すがた</rt></ruby>",
     "meaning": "figure; shape; appearance",
-    "ex_ja": "<ruby>姿<rt>すがた</rt></ruby>をあらわせ！",
-    "ex_en": "Show yourself."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>姿<rt>すがた</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of figure from multifaceted perspectives."
   },
   {
     "id": "n3_v_0678_1",
@@ -10905,8 +10905,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すじ",
     "ruby": "<ruby>筋<rt>すじ</rt></ruby>",
     "meaning": "muscle; string; line",
-    "ex_ja": "<ruby>全身<rt>ぜんしん</rt></ruby><ruby>筋肉<rt>きんにく</rt></ruby><ruby>痛<rt>つう</rt></ruby>だ。",
-    "ex_en": "My whole body is sore."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>筋<rt>すじ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of muscle from multifaceted perspectives."
   },
   {
     "id": "n3_v_0680_1",
@@ -11017,8 +11017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ず",
     "ruby": "<ruby>図<rt>ず</rt></ruby>",
     "meaning": "figure (e.g. Fig 1); drawing; picture; illustration",
-    "ex_ja": "<ruby>図星<rt>ずぼし</rt></ruby>ですか？",
-    "ex_en": "Is that it?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>図<rt>ず</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of figure from multifaceted perspectives."
   },
   {
     "id": "n3_v_0687_1",
@@ -11033,8 +11033,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ずいぶん",
     "ruby": "<ruby>随分<rt>ずいぶん</rt></ruby>",
     "meaning": "extremely",
-    "ex_ja": "<ruby>随分<rt>ずいぶん</rt></ruby><ruby>失礼<rt>しつれい</rt></ruby>だな。",
-    "ex_en": "You're very rude."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>随分<rt>ずいぶん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of extremely from multifaceted perspectives."
   },
   {
     "id": "n3_v_0688_1",
@@ -11049,8 +11049,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ずつう",
     "ruby": "<ruby>頭痛<rt>ずつう</rt></ruby>",
     "meaning": "headache",
-    "ex_ja": "<ruby>頭痛<rt>ずつう</rt></ruby>がする。",
-    "ex_en": "I have a headache."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>頭痛<rt>ずつう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of headache from multifaceted perspectives."
   },
   {
     "id": "n3_v_0689_1",
@@ -11065,8 +11065,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せい",
     "ruby": "<ruby>性<rt>せい</rt></ruby>",
     "meaning": "sex; gender",
-    "ex_ja": "<ruby>色<rt>いろ</rt></ruby>っぽい<ruby>女性<rt>じょせい</rt></ruby>。",
-    "ex_en": "She is a fox."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>性<rt>せい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sex from multifaceted perspectives."
   },
   {
     "id": "n3_v_0690_1",
@@ -11097,8 +11097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せい",
     "ruby": "<ruby>正<rt>せい</rt></ruby>",
     "meaning": "(logical) true; regular",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>正義<rt>せいぎ</rt></ruby>だ。",
-    "ex_en": "He is justice."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>正<rt>せい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0692_1",
@@ -11113,8 +11113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せい",
     "ruby": "<ruby>生<rt>せい</rt></ruby>",
     "meaning": "(1) draft (beer); (2) raw; unprocessed",
-    "ex_ja": "<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
-    "ex_en": "I am a university student."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>生<rt>なま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0693_1",
@@ -11129,8 +11129,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せい",
     "ruby": "<ruby>背<rt>せい</rt></ruby>",
     "meaning": "height; stature",
-    "ex_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>猫背<rt>ねこぜ</rt></ruby>だ。",
-    "ex_en": "I am round shouldered."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>背<rt>せ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of height from multifaceted perspectives."
   },
   {
     "id": "n3_v_0694_1",
@@ -11209,8 +11209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せいけつ",
     "ruby": "<ruby>清潔<rt>せいけつ</rt></ruby>",
     "meaning": "clean",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>清潔<rt>せいけつ</rt></ruby>だ。",
-    "ex_en": "I'm clean."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>清潔<rt>せいけつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of clean from multifaceted perspectives."
   },
   {
     "id": "n3_v_0699_1",
@@ -11241,8 +11241,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せいこう",
     "ruby": "<ruby>成功<rt>せいこう</rt></ruby>",
     "meaning": "success; hit",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>成功<rt>せいこう</rt></ruby>した。",
-    "ex_en": "He made it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>成功<rt>せいこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of success from multifaceted perspectives."
   },
   {
     "id": "n3_v_0701_1",
@@ -11481,8 +11481,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せいめい",
     "ruby": "<ruby>生命<rt>せいめい</rt></ruby>",
     "meaning": "life; existence",
-    "ex_ja": "<ruby>水<rt>みず</rt></ruby>は<ruby>生命<rt>せいめい</rt></ruby>です。",
-    "ex_en": "Water is life."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>生命<rt>せいめい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of life from multifaceted perspectives."
   },
   {
     "id": "n3_v_0716_1",
@@ -11497,8 +11497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せき",
     "ruby": "<ruby>咳<rt>せき</rt></ruby>",
     "meaning": "cough",
-    "ex_ja": "<ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ますか。",
-    "ex_en": "Do you have any coughing?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>咳<rt>せき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cough from multifaceted perspectives."
   },
   {
     "id": "n3_v_0717_1",
@@ -11529,8 +11529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せきにん",
     "ruby": "<ruby>責任<rt>せきにん</rt></ruby>",
     "meaning": "duty; responsibility",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>責任<rt>せきにん</rt></ruby>です。",
-    "ex_en": "That's my fault."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>責任<rt>せきにん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of duty from multifaceted perspectives."
   },
   {
     "id": "n3_v_0719_1",
@@ -11561,8 +11561,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せけん",
     "ruby": "<ruby>世間<rt>せけん</rt></ruby>",
     "meaning": "world; society",
-    "ex_ja": "<ruby>世間<rt>せけん</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しい。",
-    "ex_en": "The world is harsh."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>世間<rt>せけん</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of world suited to the times are being discussed."
   },
   {
     "id": "n3_v_0721_1",
@@ -11609,8 +11609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せつ",
     "ruby": "<ruby>説<rt>せつ</rt></ruby>",
     "meaning": "theory",
-    "ex_ja": "<ruby>釈迦<rt>しゃか</rt></ruby>に<ruby>説法<rt>せっぽう</rt></ruby>。",
-    "ex_en": "Don't teach fish to swim."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>説<rt>せつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of theory from multifaceted perspectives."
   },
   {
     "id": "n3_v_0724_1",
@@ -11641,8 +11641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "せつやく",
     "ruby": "<ruby>節約<rt>せつやく</rt></ruby>",
     "meaning": "economising; saving",
-    "ex_ja": "<ruby>節約<rt>せつやく</rt></ruby>したい。",
-    "ex_en": "I want to save money."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>節約<rt>せつやく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of economising from multifaceted perspectives."
   },
   {
     "id": "n3_v_0726_1",
@@ -11785,8 +11785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜったい",
     "ruby": "<ruby>絶対<rt>ぜったい</rt></ruby>",
     "meaning": "absolute; unconditional; absoluteness",
-    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>だ。",
-    "ex_en": "There is no doubt."
+    "ex_ja": "どのような<ruby>困難<rt>こんなん</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>であっても、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>絶対<rt>ぜったい</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>ちたい。",
+    "ex_en": "No matter how difficult the situation, I want to keep a positive attitude and cherish absolute."
   },
   {
     "id": "n3_v_0735_1",
@@ -11817,8 +11817,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜひ",
     "ruby": "<ruby>是非<rt>ぜひ</rt></ruby>",
     "meaning": "certainly; without fail",
-    "ex_ja": "<ruby>是非<rt>ぜひ</rt></ruby>どうぞ。",
-    "ex_en": "By all means."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>是非<rt>ぜひ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of certainly from multifaceted perspectives."
   },
   {
     "id": "n3_v_0737_1",
@@ -11833,8 +11833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜん",
     "ruby": "<ruby>全<rt>ぜん</rt></ruby>",
     "meaning": "all; whole; entire; complete; overall; pan",
-    "ex_ja": "<ruby>全力<rt>ぜんりょく</rt></ruby>でやれ。",
-    "ex_en": "Give it all you've got."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全<rt>ちょん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of all from multifaceted perspectives."
   },
   {
     "id": "n3_v_0738_1",
@@ -11849,8 +11849,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜん",
     "ruby": "<ruby>善<rt>ぜん</rt></ruby>",
     "meaning": "good; goodness; right; virtue",
-    "ex_ja": "<ruby>善<rt>ぜん</rt></ruby>は<ruby>急<rt>いそ</rt></ruby>げだ。",
-    "ex_en": "There's no time like the present."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>善<rt>ぜん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of good from multifaceted perspectives."
   },
   {
     "id": "n3_v_0739_1",
@@ -11865,8 +11865,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜんいん",
     "ruby": "<ruby>全員<rt>ぜんいん</rt></ruby>",
     "meaning": "all members (unanimity); all hands; the whole crew",
-    "ex_ja": "<ruby>全員<rt>ぜんいん</rt></ruby><ruby>出席<rt>しゅっせき</rt></ruby>です。",
-    "ex_en": "All are present."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of all members from multifaceted perspectives."
   },
   {
     "id": "n3_v_0740_1",
@@ -11929,8 +11929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぜんぜん",
     "ruby": "<ruby>全然<rt>ぜんぜん</rt></ruby>",
     "meaning": "(1) wholly; entirely; completely; (2) not at all (with neg. verb)",
-    "ex_ja": "いや、<ruby>全然<rt>ぜんぜん</rt></ruby>。",
-    "ex_en": "Nope, not at all."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全然<rt>ぜんぜん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0744_1",
@@ -12009,8 +12009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そうぞう",
     "ruby": "<ruby>想像<rt>そうぞう</rt></ruby>",
     "meaning": "imagination; guess",
-    "ex_ja": "<ruby>想像<rt>そうぞう</rt></ruby>つくよ。",
-    "ex_en": "I can imagine."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>想像<rt>そうぞう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of imagination from multifaceted perspectives."
   },
   {
     "id": "n3_v_0749_1",
@@ -12105,8 +12105,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そこ",
     "ruby": "そこ",
     "meaning": "bottom; sole",
-    "ex_ja": "そこにいて。",
-    "ex_en": "Stay there."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からそこの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bottom from multifaceted perspectives."
   },
   {
     "id": "n3_v_0755_1",
@@ -12217,8 +12217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "その",
     "ruby": "その",
     "meaning": "the; that",
-    "ex_ja": "その<ruby>内訳<rt>うちわけ</rt></ruby>は？",
-    "ex_en": "Give me the details."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からそのの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the from multifaceted perspectives."
   },
   {
     "id": "n3_v_0762_1",
@@ -12265,8 +12265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そば",
     "ruby": "<ruby>側<rt>そば</rt></ruby>",
     "meaning": "side; edge; third person",
-    "ex_ja": "<ruby>左側<rt>ひだりがわ</rt></ruby><ruby>通行<rt>つうこう</rt></ruby>です。",
-    "ex_en": "Keep to the left."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>側<rt>がわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of side from multifaceted perspectives."
   },
   {
     "id": "n3_v_0765_1",
@@ -12297,8 +12297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "それぞれ",
     "ruby": "それぞれ",
     "meaning": "each; every; either; respectively; severally",
-    "ex_ja": "<ruby>人<rt>ひと</rt></ruby>それぞれ。",
-    "ex_en": "There's all kinds of people."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からそれぞれの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of each from multifaceted perspectives."
   },
   {
     "id": "n3_v_0767_1",
@@ -12345,8 +12345,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そん",
     "ruby": "<ruby>損<rt>そん</rt></ruby>",
     "meaning": "loss; disadvantage",
-    "ex_ja": "<ruby>短気<rt>たんき</rt></ruby>は<ruby>損気<rt>そんき</rt></ruby>。",
-    "ex_en": "Haste is waste."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>損<rt>そん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of loss from multifaceted perspectives."
   },
   {
     "id": "n3_v_0770_1",
@@ -12393,8 +12393,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そんざい",
     "ruby": "<ruby>存在<rt>そんざい</rt></ruby>",
     "meaning": "existence; being",
-    "ex_ja": "<ruby>神<rt>かみ</rt></ruby>は<ruby>存在<rt>そんざい</rt></ruby>する。",
-    "ex_en": "God is."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>存在<rt>そんざい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of existence from multifaceted perspectives."
   },
   {
     "id": "n3_v_0773_1",
@@ -12425,8 +12425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぞう",
     "ruby": "<ruby>象<rt>ぞう</rt></ruby>",
     "meaning": "elephant",
-    "ex_ja": "<ruby>象<rt>ぞう</rt></ruby>は<ruby>鼻<rt>はな</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い。",
-    "ex_en": "An elephant has a long nose."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>象<rt>ぞう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of elephant from multifaceted perspectives."
   },
   {
     "id": "n3_v_0775_1",
@@ -12457,8 +12457,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "た",
     "ruby": "<ruby>他<rt>た</rt></ruby>",
     "meaning": "other (esp. places and things)",
-    "ex_ja": "<ruby>他<rt>た</rt></ruby>にご<ruby>用<rt>よう</rt></ruby>は？",
-    "ex_en": "Did you want anything else?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>他<rt>た</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of other from multifaceted perspectives."
   },
   {
     "id": "n3_v_0777_1",
@@ -12473,8 +12473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "た",
     "ruby": "<ruby>田<rt>た</rt></ruby>",
     "meaning": "rice field",
-    "ex_ja": "<ruby>田舎<rt>いなか</rt></ruby><ruby>育<rt>そだ</rt></ruby>ちです。",
-    "ex_en": "I grew up in the countryside."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>田<rt>た</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rice field from multifaceted perspectives."
   },
   {
     "id": "n3_v_0778_1",
@@ -12489,8 +12489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たい",
     "ruby": "<ruby>対<rt>たい</rt></ruby>",
     "meaning": "pair; couple; set",
-    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>だ。",
-    "ex_en": "There is no doubt."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>対<rt>たい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pair from multifaceted perspectives."
   },
   {
     "id": "n3_v_0779_1",
@@ -12585,8 +12585,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たいくつ",
     "ruby": "<ruby>退屈<rt>たいくつ</rt></ruby>",
     "meaning": "tedium; boredom",
-    "ex_ja": "<ruby>退屈<rt>たいくつ</rt></ruby>だなあ。",
-    "ex_en": "Bored now."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>退屈<rt>たいくつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tedium from multifaceted perspectives."
   },
   {
     "id": "n3_v_0785_1",
@@ -12761,8 +12761,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たいよう",
     "ruby": "<ruby>太陽<rt>たいよう</rt></ruby>",
     "meaning": "sun; solar",
-    "ex_ja": "<ruby>太陽<rt>たいよう</rt></ruby>はいいね。",
-    "ex_en": "I like the sun."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sun from multifaceted perspectives."
   },
   {
     "id": "n3_v_0796_1",
@@ -12809,8 +12809,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たから",
     "ruby": "<ruby>宝<rt>たから</rt></ruby>",
     "meaning": "treasure",
-    "ex_ja": "<ruby>知恵<rt>ちえ</rt></ruby>は<ruby>万代<rt>ばんだい</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>",
-    "ex_en": "Wisdom is a treasure for tens of generations."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>宝<rt>たから</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of treasure from multifaceted perspectives."
   },
   {
     "id": "n3_v_0799_1",
@@ -12825,8 +12825,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たく",
     "ruby": "<ruby>宅<rt>たく</rt></ruby>",
     "meaning": "house; home; husband",
-    "ex_ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>帰宅<rt>きたく</rt></ruby>しろ。",
-    "ex_en": "Go home quickly."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>宅<rt>たく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of house from multifaceted perspectives."
   },
   {
     "id": "n3_v_0800_1",
@@ -12873,8 +12873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ただ",
     "ruby": "ただ",
     "meaning": "free of charge; mere; only",
-    "ex_ja": "<ruby>言<rt>い</rt></ruby>っただろ！",
-    "ex_en": "I told you before!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からただの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of free of charge from multifaceted perspectives."
   },
   {
     "id": "n3_v_0803_1",
@@ -13001,8 +13001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たにん",
     "ruby": "<ruby>他人<rt>たにん</rt></ruby>",
     "meaning": "another person; unrelated person; outsider; stranger",
-    "ex_ja": "<ruby>他人<rt>たにん</rt></ruby>より<ruby>身内<rt>みうち</rt></ruby>。",
-    "ex_en": "Blood is thicker than water."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>他人<rt>たにん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of another person from multifaceted perspectives."
   },
   {
     "id": "n3_v_0811_1",
@@ -13017,8 +13017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たね",
     "ruby": "<ruby>種<rt>たね</rt></ruby>",
     "meaning": "(1) seed; (2) material; (3) cause; source",
-    "ex_ja": "<ruby>苦<rt>く</rt></ruby>は<ruby>楽<rt>らく</rt></ruby>の<ruby>種<rt>たね</rt></ruby>。",
-    "ex_en": "No pain, no gains."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>種<rt>たね</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0812_1",
@@ -13033,8 +13033,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たば",
     "ruby": "<ruby>束<rt>たば</rt></ruby>",
     "meaning": "handbreadth; bundle",
-    "ex_ja": "<ruby>約束<rt>やくそく</rt></ruby>するよ。",
-    "ex_en": "I give you my word."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>束<rt>たば</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of handbreadth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0813_1",
@@ -13049,8 +13049,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たび",
     "ruby": "<ruby>度<rt>たび</rt></ruby>",
     "meaning": "counter for occurrences",
-    "ex_ja": "<ruby>仏<rt>ふつ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>も<ruby>三<rt>さん</rt></ruby><ruby>度<rt>ど</rt></ruby>。",
-    "ex_en": "You can only go so far."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>度<rt>ど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of counter for occurrences from multifaceted perspectives."
   },
   {
     "id": "n3_v_0814_1",
@@ -13065,8 +13065,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たび",
     "ruby": "<ruby>旅<rt>たび</rt></ruby>",
     "meaning": "travel; trip; journey",
-    "ex_ja": "<ruby>旅<rt>たび</rt></ruby>は<ruby>道連<rt>みちづ</rt></ruby>れ。",
-    "ex_en": "Good company on the road is the shortest cut."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>旅<rt>たび</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of travel from multifaceted perspectives."
   },
   {
     "id": "n3_v_0815_1",
@@ -13097,8 +13097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たぶん",
     "ruby": "<ruby>多分<rt>たぶん</rt></ruby>",
     "meaning": "perhaps; probably",
-    "ex_ja": "<ruby>多分<rt>たぶん</rt></ruby>そうだよ。",
-    "ex_en": "Maybe that's right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>多分<rt>たぶん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of perhaps from multifaceted perspectives."
   },
   {
     "id": "n3_v_0817_1",
@@ -13113,8 +13113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たま",
     "ruby": "<ruby>偶<rt>たま</rt></ruby>",
     "meaning": "even number; couple; man and wife; friend",
-    "ex_ja": "<ruby>偶然<rt>ぐうぜん</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>るな。",
-    "ex_en": "Don't leave it up to chance."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>偶<rt>*</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of even number from multifaceted perspectives."
   },
   {
     "id": "n3_v_0818_1",
@@ -13129,8 +13129,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たま",
     "ruby": "<ruby>弾<rt>たま</rt></ruby>",
     "meaning": "bullet; shot; shell",
-    "ex_ja": "<ruby>楽器<rt>がっき</rt></ruby>は<ruby>弾<rt>はじ</rt></ruby>ける？",
-    "ex_en": "Can you play a musical instrument?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>弾<rt>たま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bullet from multifaceted perspectives."
   },
   {
     "id": "n3_v_0819_1",
@@ -13145,8 +13145,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たま",
     "ruby": "<ruby>玉<rt>たま</rt></ruby>",
     "meaning": "ball; sphere; coin",
-    "ex_ja": "<ruby>玉屋<rt>たまや</rt></ruby>！<ruby>鍵屋<rt>かぎや</rt></ruby>！",
-    "ex_en": "Jeweler! Locksmith!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>玉<rt>たま</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ball from multifaceted perspectives."
   },
   {
     "id": "n3_v_0820_1",
@@ -13193,8 +13193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ためし",
     "ruby": "<ruby>試し<rt>ためし</rt></ruby>",
     "meaning": "trial; test",
-    "ex_ja": "<ruby>試<rt>ため</rt></ruby>してみる。",
-    "ex_en": "I try."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>試<rt>ため</rt></ruby>しの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of trial from multifaceted perspectives."
   },
   {
     "id": "n3_v_0823_1",
@@ -13257,8 +13257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たんじょう",
     "ruby": "<ruby>誕生<rt>たんじょう</rt></ruby>",
     "meaning": "birth",
-    "ex_ja": "<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>いつ？",
-    "ex_en": "When is your birthday?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>誕生<rt>たんじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of birth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0827_1",
@@ -13273,8 +13273,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たんとう",
     "ruby": "<ruby>担当<rt>たんとう</rt></ruby>",
     "meaning": "(in) charge",
-    "ex_ja": "<ruby>担当<rt>たんとう</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>です。",
-    "ex_en": "I'm in charge."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>担当<rt>たんとう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0828_1",
@@ -13305,8 +13305,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だい",
     "ruby": "<ruby>台<rt>だい</rt></ruby>",
     "meaning": "stand; rack; table; support",
-    "ex_ja": "<ruby>灯<rt>あかり</rt></ruby><ruby>台下<rt>だいか</rt></ruby><ruby>暗<rt>くら</rt></ruby>し。",
-    "ex_en": "You can't see the forest for the trees."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>台<rt>だい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of stand from multifaceted perspectives."
   },
   {
     "id": "n3_v_0830_1",
@@ -13337,8 +13337,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だい",
     "ruby": "<ruby>題<rt>だい</rt></ruby>",
     "meaning": "title; subject; theme; topic",
-    "ex_ja": "<ruby>問題<rt>もんだい</rt></ruby>ないよ。",
-    "ex_en": "No problem!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>題<rt>だい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of title from multifaceted perspectives."
   },
   {
     "id": "n3_v_0832_1",
@@ -13433,8 +13433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だから",
     "ruby": "だから",
     "meaning": "so; therefore",
-    "ex_ja": "だから<ruby>何<rt>なに</rt></ruby>なの？",
-    "ex_en": "So what?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からだからの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of so from multifaceted perspectives."
   },
   {
     "id": "n3_v_0838_1",
@@ -13481,8 +13481,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だって",
     "ruby": "だって",
     "meaning": "but; because; even; also; too",
-    "ex_ja": "９<ruby>時<rt>じ</rt></ruby>だってさ。",
-    "ex_en": "He said, \"It's nine o'clock.\""
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からだっての<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of but from multifaceted perspectives."
   },
   {
     "id": "n3_v_0841_1",
@@ -13497,8 +13497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だめ",
     "ruby": "<ruby>駄目<rt>だめ</rt></ruby>",
     "meaning": "useless; no good; hopeless",
-    "ex_ja": "いや<ruby>駄目<rt>だめ</rt></ruby>です。",
-    "ex_en": "No, you may not."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>駄目<rt>だめ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of useless from multifaceted perspectives."
   },
   {
     "id": "n3_v_0842_1",
@@ -13513,8 +13513,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だれか",
     "ruby": "<ruby>誰か<rt>だれか</rt></ruby>",
     "meaning": "someone; somebody",
-    "ex_ja": "<ruby>誰<rt>だれ</rt></ruby>かいるの？",
-    "ex_en": "Is somebody there?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>誰<rt>だれ</rt></ruby>かの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of someone from multifaceted perspectives."
   },
   {
     "id": "n3_v_0843_1",
@@ -13529,8 +13529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "だん",
     "ruby": "<ruby>段<rt>だん</rt></ruby>",
     "meaning": "step; stair; flight of steps; grade; rank; level",
-    "ex_ja": "<ruby>値段<rt>ねだん</rt></ruby><ruby>聞<rt>き</rt></ruby>いた？",
-    "ex_en": "Did you ask the price?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>段<rt>だん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of step from multifaceted perspectives."
   },
   {
     "id": "n3_v_0844_1",
@@ -13577,8 +13577,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ち",
     "ruby": "<ruby>地<rt>ち</rt></ruby>",
     "meaning": "earth",
-    "ex_ja": "<ruby>土地<rt>とち</rt></ruby>を<ruby>耕<rt>たがや</rt></ruby>す。",
-    "ex_en": "I till the earth."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>地<rt>ち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of earth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0847_1",
@@ -13625,8 +13625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちえ",
     "ruby": "<ruby>知恵<rt>ちえ</rt></ruby>",
     "meaning": "wisdom; wit; sagacity; sense; intelligence; advice",
-    "ex_ja": "<ruby>知恵<rt>ちえ</rt></ruby>は<ruby>万代<rt>ばんだい</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>",
-    "ex_en": "Wisdom is a treasure for tens of generations."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>知恵<rt>ちえ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wisdom from multifaceted perspectives."
   },
   {
     "id": "n3_v_0850_1",
@@ -13641,8 +13641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちか",
     "ruby": "<ruby>地下<rt>ちか</rt></ruby>",
     "meaning": "basement; underground",
-    "ex_ja": "<ruby>地下<rt>ちか</rt></ruby><ruby>室<rt>しつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>け。",
-    "ex_en": "Go to the basement."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>地下<rt>ちか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of basement from multifaceted perspectives."
   },
   {
     "id": "n3_v_0851_1",
@@ -13673,8 +13673,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちがいない",
     "ruby": "<ruby>違いない<rt>ちがいない</rt></ruby>",
     "meaning": "(phrase) sure; no mistaking it; for certain",
-    "ex_ja": "<ruby>間違<rt>まちが</rt></ruby>いない！",
-    "ex_en": "I'm absolutely sure!"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>違<rt>ちが</rt></ruby>いない<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a  perspective."
   },
   {
     "id": "n3_v_0853_1",
@@ -13689,8 +13689,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちきゅう",
     "ruby": "<ruby>地球<rt>ちきゅう</rt></ruby>",
     "meaning": "the earth",
-    "ex_ja": "<ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>丸<rt>まる</rt></ruby>い。",
-    "ex_en": "The earth is round."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the earth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0854_1",
@@ -13721,8 +13721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちこく",
     "ruby": "<ruby>遅刻<rt>ちこく</rt></ruby>",
     "meaning": "lateness; late coming",
-    "ex_ja": "<ruby>遅刻<rt>ちこく</rt></ruby>したね。",
-    "ex_en": "You are late."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>遅刻<rt>ちこく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of lateness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0856_1",
@@ -13737,8 +13737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちしき",
     "ruby": "<ruby>知識<rt>ちしき</rt></ruby>",
     "meaning": "knowledge; information",
-    "ex_ja": "<ruby>知識<rt>ちしき</rt></ruby>は<ruby>力<rt>ちから</rt></ruby>なり。",
-    "ex_en": "Knowledge is power."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>知識<rt>ちしき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of knowledge from multifaceted perspectives."
   },
   {
     "id": "n3_v_0857_1",
@@ -13769,8 +13769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちちおや",
     "ruby": "<ruby>父親<rt>ちちおや</rt></ruby>",
     "meaning": "father",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>父親<rt>ちちおや</rt></ruby><ruby>似<rt>に</rt></ruby>だ。",
-    "ex_en": "He takes after his father."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of father from multifaceted perspectives."
   },
   {
     "id": "n3_v_0859_1",
@@ -13833,8 +13833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゃ",
     "ruby": "<ruby>茶<rt>ちゃ</rt></ruby>",
     "meaning": "tea",
-    "ex_ja": "<ruby>緑茶<rt>りょくちゃ</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>。",
-    "ex_en": "I can't drink green tea."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tea from multifaceted perspectives."
   },
   {
     "id": "n3_v_0863_1",
@@ -13849,8 +13849,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅう",
     "ruby": "<ruby>中<rt>ちゅう</rt></ruby>",
     "meaning": "inside; middle; among",
-    "ex_ja": "<ruby>電話<rt>でんわ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>です。",
-    "ex_en": "I'm talking on the phone."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>中<rt>なか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of inside from multifaceted perspectives."
   },
   {
     "id": "n3_v_0864_1",
@@ -13865,8 +13865,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅう",
     "ruby": "<ruby>注<rt>ちゅう</rt></ruby>",
     "meaning": "annotation; explanatory note",
-    "ex_ja": "<ruby>猛犬<rt>もうけん</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>！",
-    "ex_en": "Beware of the dog!"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>注<rt>ちゅう</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting annotation."
   },
   {
     "id": "n3_v_0865_1",
@@ -13881,8 +13881,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅうおう",
     "ruby": "<ruby>中央<rt>ちゅうおう</rt></ruby>",
     "meaning": "centre; central; center; middle",
-    "ex_ja": "<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>線<rt>せん</rt></ruby>ですね。",
-    "ex_en": "I think it's by the Chuo Line."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>中央<rt>ちゅうおう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of centre from multifaceted perspectives."
   },
   {
     "id": "n3_v_0866_1",
@@ -13945,8 +13945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅうしゃ",
     "ruby": "<ruby>駐車<rt>ちゅうしゃ</rt></ruby>",
     "meaning": "parking (e.g. car)",
-    "ex_ja": "<ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby>はある？",
-    "ex_en": "Is there a car park?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>駐車<rt>ちゅうしゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of parking from multifaceted perspectives."
   },
   {
     "id": "n3_v_0870_1",
@@ -13961,8 +13961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅうしょく",
     "ruby": "<ruby>昼食<rt>ちゅうしょく</rt></ruby>",
     "meaning": "lunch; midday meal",
-    "ex_ja": "<ruby>昼食<rt>ちゅうしょく</rt></ruby>にしよう！",
-    "ex_en": "Let's have lunch!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>昼食<rt>ちゅうしょく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of lunch from multifaceted perspectives."
   },
   {
     "id": "n3_v_0871_1",
@@ -13993,8 +13993,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅうもく",
     "ruby": "<ruby>注目<rt>ちゅうもく</rt></ruby>",
     "meaning": "notice; attention; observation",
-    "ex_ja": "ご<ruby>注目<rt>ちゅうもく</rt></ruby><ruby>下<rt>くだ</rt></ruby>さい。",
-    "ex_en": "Please give me your attention."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>注目<rt>ちゅうもく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of notice from multifaceted perspectives."
   },
   {
     "id": "n3_v_0873_1",
@@ -14009,8 +14009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゅうもん",
     "ruby": "<ruby>注文<rt>ちゅうもん</rt></ruby>",
     "meaning": "order; request",
-    "ex_ja": "<ruby>本<rt>ほん</rt></ruby>、<ruby>注文<rt>ちゅうもん</rt></ruby>した？",
-    "ex_en": "Did you order a book?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of order from multifaceted perspectives."
   },
   {
     "id": "n3_v_0874_1",
@@ -14057,8 +14057,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちょうし",
     "ruby": "<ruby>調子<rt>ちょうし</rt></ruby>",
     "meaning": "tune; tone; key",
-    "ex_ja": "その<ruby>調子<rt>ちょうし</rt></ruby>だ。",
-    "ex_en": "That's the spirit."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>調子<rt>ちょうし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tune from multifaceted perspectives."
   },
   {
     "id": "n3_v_0877_1",
@@ -14089,8 +14089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちょきん",
     "ruby": "<ruby>貯金<rt>ちょきん</rt></ruby>",
     "meaning": "(bank) savings",
-    "ex_ja": "<ruby>貯金<rt>ちょきん</rt></ruby>したい。",
-    "ex_en": "I want to save money."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>貯金<rt>ちょきん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0879_1",
@@ -14185,8 +14185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つうこう",
     "ruby": "<ruby>通行<rt>つうこう</rt></ruby>",
     "meaning": "passage; passing",
-    "ex_ja": "<ruby>左側<rt>ひだりがわ</rt></ruby><ruby>通行<rt>つうこう</rt></ruby>です。",
-    "ex_en": "Keep to the left."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>通行<rt>つうこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of passage from multifaceted perspectives."
   },
   {
     "id": "n3_v_0885_1",
@@ -14217,8 +14217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つかれ",
     "ruby": "<ruby>疲れ<rt>つかれ</rt></ruby>",
     "meaning": "tiredness; fatigue",
-    "ex_ja": "<ruby>疲<rt>つか</rt></ruby>れました。",
-    "ex_en": "I'm tired."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>疲<rt>つか</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tiredness from multifaceted perspectives."
   },
   {
     "id": "n3_v_0887_1",
@@ -14233,8 +14233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つき",
     "ruby": "<ruby>月<rt>つき</rt></ruby>",
     "meaning": "moon; month",
-    "ex_ja": "<ruby>月曜日<rt>げつようび</rt></ruby>です。",
-    "ex_en": "It's Monday."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>月<rt>つき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of moon from multifaceted perspectives."
   },
   {
     "id": "n3_v_0888_1",
@@ -14265,8 +14265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つち",
     "ruby": "<ruby>土<rt>つち</rt></ruby>",
     "meaning": "earth; soil",
-    "ex_ja": "<ruby>土曜日<rt>どようび</rt></ruby>だよ。",
-    "ex_en": "It is Saturday."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>土<rt>ど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of earth from multifaceted perspectives."
   },
   {
     "id": "n3_v_0890_1",
@@ -14297,8 +14297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つづき",
     "ruby": "<ruby>続き<rt>つづき</rt></ruby>",
     "meaning": "sequel; continuation",
-    "ex_ja": "<ruby>悪事<rt>あくじ</rt></ruby><ruby>続<rt>つづ</rt></ruby>きだ。",
-    "ex_en": "When it rains, it pours."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>きの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sequel from multifaceted perspectives."
   },
   {
     "id": "n3_v_0892_1",
@@ -14377,8 +14377,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つばさ",
     "ruby": "<ruby>翼<rt>つばさ</rt></ruby>",
     "meaning": "wings",
-    "ex_ja": "<ruby>鳥<rt>とり</rt></ruby>は<ruby>翼<rt>つばさ</rt></ruby>で<ruby>飛<rt>と</rt></ruby>ぶ。",
-    "ex_en": "Birds fly with their wings."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>翼<rt>つばさ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wings from multifaceted perspectives."
   },
   {
     "id": "n3_v_0897_1",
@@ -14409,8 +14409,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つゆ",
     "ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>",
     "meaning": "rainy season; rain during the rainy season",
-    "ex_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った。",
-    "ex_en": "The rainy season has set in."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rainy season from multifaceted perspectives."
   },
   {
     "id": "n3_v_0899_1",
@@ -14425,8 +14425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つれ",
     "ruby": "<ruby>連れ<rt>つれ</rt></ruby>",
     "meaning": "companion; company",
-    "ex_ja": "<ruby>旅<rt>たび</rt></ruby>は<ruby>道連<rt>みちづ</rt></ruby>れ。",
-    "ex_en": "Good company on the road is the shortest cut."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>連<rt>つ</rt></ruby>れのあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of companion suited to the times are being discussed."
   },
   {
     "id": "n3_v_0900_1",
@@ -14473,8 +14473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ていこう",
     "ruby": "<ruby>抵抗<rt>ていこう</rt></ruby>",
     "meaning": "electrical resistance; resistance; opposition",
-    "ex_ja": "<ruby>抵抗<rt>ていこう</rt></ruby>がある。",
-    "ex_en": "There is resistance."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>抵抗<rt>ていこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of electrical resistance from multifaceted perspectives."
   },
   {
     "id": "n3_v_0903_1",
@@ -14537,8 +14537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てき",
     "ruby": "<ruby>敵<rt>てき</rt></ruby>",
     "meaning": "enemy; rival",
-    "ex_ja": "<ruby>大胆<rt>だいたん</rt></ruby><ruby>不敵<rt>ふてき</rt></ruby>ね。",
-    "ex_en": "You're fearless."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>敵<rt>てき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of enemy from multifaceted perspectives."
   },
   {
     "id": "n3_v_0907_1",
@@ -14601,8 +14601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てじな",
     "ruby": "<ruby>手品<rt>てじな</rt></ruby>",
     "meaning": "sleight of hand; conjuring trick; magic; juggling",
-    "ex_ja": "<ruby>手品<rt>てじな</rt></ruby>できるよ。",
-    "ex_en": "I can do magic tricks."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>手品<rt>てじな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sleight of hand from multifaceted perspectives."
   },
   {
     "id": "n3_v_0911_1",
@@ -14633,8 +14633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てつ",
     "ruby": "<ruby>鉄<rt>てつ</rt></ruby>",
     "meaning": "iron",
-    "ex_ja": "<ruby>寸鉄<rt>すんてつ</rt></ruby><ruby>人<rt>じん</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す。",
-    "ex_en": "The tongue stings."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鉄<rt>てつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of iron from multifaceted perspectives."
   },
   {
     "id": "n3_v_0913_1",
@@ -14681,8 +14681,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てつや",
     "ruby": "<ruby>徹夜<rt>てつや</rt></ruby>",
     "meaning": "all night; all night vigil; sleepless night",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>徹夜<rt>てつや</rt></ruby>した。",
-    "ex_en": "I sat up all night."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>徹夜<rt>てつや</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of all night from multifaceted perspectives."
   },
   {
     "id": "n3_v_0916_1",
@@ -14713,8 +14713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てんけい",
     "ruby": "<ruby>典型<rt>てんけい</rt></ruby>",
     "meaning": "type; pattern; archetypal",
-    "ex_ja": "<ruby>典型<rt>てんけい</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
-    "ex_en": "That's typical."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>典型<rt>てんけい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of type from multifaceted perspectives."
   },
   {
     "id": "n3_v_0918_1",
@@ -14761,8 +14761,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "で",
     "ruby": "で",
     "meaning": "outflow; coming (going) out; graduate (of)",
-    "ex_ja": "<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>ですか。",
-    "ex_en": "What time do you have?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からでの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of outflow from multifaceted perspectives."
   },
   {
     "id": "n3_v_0921_1",
@@ -14841,8 +14841,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ですから",
     "ruby": "ですから",
     "meaning": "therefore",
-    "ex_ja": "<ruby>法律<rt>ほうりつ</rt></ruby>ですから。",
-    "ex_en": "It's the law."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からですからの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of therefore from multifaceted perspectives."
   },
   {
     "id": "n3_v_0926_1",
@@ -14857,8 +14857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "では",
     "ruby": "では",
     "meaning": "chance of going out; opportunity (to succeed); moment of departure; beginning of work",
-    "ex_ja": "では<ruby>誰<rt>だれ</rt></ruby>ですか。",
-    "ex_en": "Then who?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からではの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of chance of going out from multifaceted perspectives."
   },
   {
     "id": "n3_v_0927_1",
@@ -14873,8 +14873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "でも",
     "ruby": "でも",
     "meaning": "but; however",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>でもない。",
-    "ex_en": "Never mind!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からでもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of but from multifaceted perspectives."
   },
   {
     "id": "n3_v_0928_1",
@@ -14921,8 +14921,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とう",
     "ruby": "<ruby>党<rt>とう</rt></ruby>",
     "meaning": "party (political)",
-    "ex_ja": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>甘党<rt>あまとう</rt></ruby>だ。",
-    "ex_en": "I have a sweet tooth."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>党<rt>とう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of party from multifaceted perspectives."
   },
   {
     "id": "n3_v_0931_1",
@@ -14937,8 +14937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とう",
     "ruby": "<ruby>塔<rt>とう</rt></ruby>",
     "meaning": "tower; pagoda",
-    "ex_ja": "あれは<ruby>塔<rt>とう</rt></ruby>です。",
-    "ex_en": "That is a pagoda."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>塔<rt>とう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tower from multifaceted perspectives."
   },
   {
     "id": "n3_v_0932_1",
@@ -15001,8 +15001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とうちゃく",
     "ruby": "<ruby>到着<rt>とうちゃく</rt></ruby>",
     "meaning": "arrival",
-    "ex_ja": "<ruby>到着<rt>とうちゃく</rt></ruby>します。",
-    "ex_en": "We have arrived."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>到着<rt>とうちゃく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of arrival from multifaceted perspectives."
   },
   {
     "id": "n3_v_0936_1",
@@ -15017,8 +15017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とうひょう",
     "ruby": "<ruby>投票<rt>とうひょう</rt></ruby>",
     "meaning": "voting; poll",
-    "ex_ja": "<ruby>投票<rt>とうひょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く？",
-    "ex_en": "Are you going to vote?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>投票<rt>とうひょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of voting from multifaceted perspectives."
   },
   {
     "id": "n3_v_0937_1",
@@ -15065,8 +15065,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とき",
     "ruby": "<ruby>時<rt>とき</rt></ruby>",
     "meaning": "(1) time; hour; (2) occasion; moment",
-    "ex_ja": "<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>ですか。",
-    "ex_en": "What time do you have?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>時<rt>とき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0940_1",
@@ -15081,8 +15081,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とくい",
     "ruby": "<ruby>得意<rt>とくい</rt></ruby>",
     "meaning": "pride; triumph; prosperity",
-    "ex_ja": "バスケ<ruby>得意<rt>とくい</rt></ruby>？",
-    "ex_en": "Are you good at basketball?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>得意<rt>とくい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pride from multifaceted perspectives."
   },
   {
     "id": "n3_v_0941_1",
@@ -15161,8 +15161,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とし",
     "ruby": "<ruby>都市<rt>とし</rt></ruby>",
     "meaning": "town; city; municipal; urban",
-    "ex_ja": "<ruby>工業<rt>こうぎょう</rt></ruby><ruby>都市<rt>とし</rt></ruby>です。",
-    "ex_en": "It's an industrial city."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>都市<rt>とし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of town from multifaceted perspectives."
   },
   {
     "id": "n3_v_0946_1",
@@ -15177,8 +15177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "としつき",
     "ruby": "<ruby>年月<rt>としつき</rt></ruby>",
     "meaning": "months and years",
-    "ex_ja": "<ruby>年月<rt>としつき</rt></ruby>が<ruby>経<rt>た</rt></ruby>った。",
-    "ex_en": "Years passed."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>年月<rt>としつき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of months and years from multifaceted perspectives."
   },
   {
     "id": "n3_v_0947_1",
@@ -15225,8 +15225,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とち",
     "ruby": "<ruby>土地<rt>とち</rt></ruby>",
     "meaning": "plot of land; lot; soil",
-    "ex_ja": "<ruby>土地<rt>とち</rt></ruby>を<ruby>耕<rt>たがや</rt></ruby>す。",
-    "ex_en": "I till the earth."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>土地<rt>とち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of plot of land from multifaceted perspectives."
   },
   {
     "id": "n3_v_0950_1",
@@ -15257,8 +15257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とも",
     "ruby": "<ruby>友<rt>とも</rt></ruby>",
     "meaning": "friend; companion; pal",
-    "ex_ja": "<ruby>友達<rt>ともだち</rt></ruby>でしょ？",
-    "ex_en": "Are you friends?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>友<rt>とも</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of friend from multifaceted perspectives."
   },
   {
     "id": "n3_v_0952_1",
@@ -15289,8 +15289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とら",
     "ruby": "<ruby>虎<rt>とら</rt></ruby>",
     "meaning": "tiger",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>虎<rt>とら</rt></ruby>が<ruby>好<rt>す</rt></ruby>き。",
-    "ex_en": "He likes a tiger."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>虎<rt>とら</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tiger from multifaceted perspectives."
   },
   {
     "id": "n3_v_0954_1",
@@ -15321,8 +15321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とんでもない",
     "ruby": "とんでもない",
     "meaning": "unexpected; offensive; What a thing to say!; No way!",
-    "ex_ja": "とんでもない！",
-    "ex_en": "No way!"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、とんでもない<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it unexpected and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0956_1",
@@ -15497,8 +15497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どうろ",
     "ruby": "<ruby>道路<rt>どうろ</rt></ruby>",
     "meaning": "road; highway",
-    "ex_ja": "「<ruby>道路<rt>どうろ</rt></ruby><ruby>工事<rt>こうじ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>」",
-    "ex_en": "\"Road under Repair.\""
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>道路<rt>どうろ</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it road and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0967_1",
@@ -15513,8 +15513,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どく",
     "ruby": "<ruby>毒<rt>どく</rt></ruby>",
     "meaning": "poison; toxicant",
-    "ex_ja": "お<ruby>気の毒<rt>きのどく</rt></ruby><ruby>様<rt>さま</rt></ruby>。",
-    "ex_en": "I am sorry for you."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>毒<rt>どく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of poison from multifaceted perspectives."
   },
   {
     "id": "n3_v_0968_1",
@@ -15529,8 +15529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どくしょ",
     "ruby": "<ruby>読書<rt>どくしょ</rt></ruby>",
     "meaning": "reading",
-    "ex_ja": "<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けた。",
-    "ex_en": "I went on reading."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>読書<rt>どくしょ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reading from multifaceted perspectives."
   },
   {
     "id": "n3_v_0969_1",
@@ -15545,8 +15545,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どくしん",
     "ruby": "<ruby>独身<rt>どくしん</rt></ruby>",
     "meaning": "bachelorhood; single; unmarried; celibate",
-    "ex_ja": "<ruby>独身<rt>どくしん</rt></ruby>ですか。",
-    "ex_en": "Are you single?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>独身<rt>どくしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bachelorhood from multifaceted perspectives."
   },
   {
     "id": "n3_v_0970_1",
@@ -15577,8 +15577,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どくりつ",
     "ruby": "<ruby>独立<rt>どくりつ</rt></ruby>",
     "meaning": "independence (e.g. Ind. Day); self-support",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>独立<rt>どくりつ</rt></ruby>した。",
-    "ex_en": "He set himself up in life."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>独立<rt>どくりつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of independence from multifaceted perspectives."
   },
   {
     "id": "n3_v_0972_1",
@@ -15593,8 +15593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どこか",
     "ruby": "どこか",
     "meaning": "somewhere; anywhere",
-    "ex_ja": "どこか<ruby>痛<rt>いた</rt></ruby>いの？",
-    "ex_en": "Does it hurt anywhere?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からどこかの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of somewhere from multifaceted perspectives."
   },
   {
     "id": "n3_v_0973_1",
@@ -15609,8 +15609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どよう",
     "ruby": "<ruby>土曜<rt>どよう</rt></ruby>",
     "meaning": "Saturday",
-    "ex_ja": "<ruby>土曜日<rt>どようび</rt></ruby>だよ。",
-    "ex_en": "It is Saturday."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>土曜<rt>どよう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Saturday from multifaceted perspectives."
   },
   {
     "id": "n3_v_0974_1",
@@ -15641,8 +15641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どれ",
     "ruby": "どれ",
     "meaning": "well; now; let me see; which (of three or more)",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>のはどれ？",
-    "ex_en": "Which is mine?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からどれの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of well from multifaceted perspectives."
   },
   {
     "id": "n3_v_0976_1",
@@ -15657,8 +15657,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どろ",
     "ruby": "<ruby>泥<rt>どろ</rt></ruby>",
     "meaning": "mud",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泥棒<rt>どろぼう</rt></ruby>だ。",
-    "ex_en": "He is a thief."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>泥<rt>どろ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of mud from multifaceted perspectives."
   },
   {
     "id": "n3_v_0977_1",
@@ -15689,8 +15689,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "な",
     "ruby": "<ruby>名<rt>な</rt></ruby>",
     "meaning": "name; reputation",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>名医<rt>めいい</rt></ruby>だ。",
-    "ex_en": "He is a good doctor."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>名<rt>な</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of name from multifaceted perspectives."
   },
   {
     "id": "n3_v_0979_1",
@@ -15737,8 +15737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なか",
     "ruby": "<ruby>仲<rt>なか</rt></ruby>",
     "meaning": "relation; relationship",
-    "ex_ja": "<ruby>仲良<rt>なかよ</rt></ruby>くしよう。",
-    "ex_en": "Let's be friends."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>仲<rt>なか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of relation from multifaceted perspectives."
   },
   {
     "id": "n3_v_0982_1",
@@ -15785,8 +15785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なかま",
     "ruby": "<ruby>仲間<rt>なかま</rt></ruby>",
     "meaning": "company; fellow; colleague; associate",
-    "ex_ja": "<ruby>仲間<rt>なかま</rt></ruby>になって。",
-    "ex_en": "Join us."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>仲間<rt>なかま</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of company suited to the times are being discussed."
   },
   {
     "id": "n3_v_0985_1",
@@ -15817,8 +15817,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ながれ",
     "ruby": "<ruby>流れ<rt>ながれ</rt></ruby>",
     "meaning": "stream; current",
-    "ex_ja": "<ruby>河童<rt>かっぱ</rt></ruby>の<ruby>川流<rt>かわなが</rt></ruby>れ。",
-    "ex_en": "The best swimmers are oftenest drowned."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>流<rt>なが</rt></ruby>れの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of stream from multifaceted perspectives."
   },
   {
     "id": "n3_v_0987_1",
@@ -15833,8 +15833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なし",
     "ruby": "<ruby>無し<rt>なし</rt></ruby>",
     "meaning": "without",
-    "ex_ja": "<ruby>忘れ物<rt>わすれもの</rt></ruby><ruby>無<rt>な</rt></ruby>し？",
-    "ex_en": "Have you forgotten anything?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>無<rt>な</rt></ruby>しの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of without from multifaceted perspectives."
   },
   {
     "id": "n3_v_0988_1",
@@ -15897,8 +15897,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "など",
     "ruby": "<ruby>等<rt>など</rt></ruby>",
     "meaning": "et cetera; etc.; and the like",
-    "ex_ja": "<ruby>人<rt>ひと</rt></ruby>は<ruby>皆<rt>みな</rt></ruby><ruby>平等<rt>びょうどう</rt></ruby>だ。",
-    "ex_en": "All men are equal."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>等<rt>とう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of et cetera from multifaceted perspectives."
   },
   {
     "id": "n3_v_0992_1",
@@ -15913,8 +15913,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なに",
     "ruby": "<ruby>何<rt>なに</rt></ruby>",
     "meaning": "what",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>してるの？",
-    "ex_en": "What are you doing?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>何<rt>なに</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of what from multifaceted perspectives."
   },
   {
     "id": "n3_v_0993_1",
@@ -15929,8 +15929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なにか",
     "ruby": "<ruby>何か<rt>なにか</rt></ruby>",
     "meaning": "something",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>かあった？",
-    "ex_en": "Anything new?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>何<rt>なに</rt></ruby>かの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of something from multifaceted perspectives."
   },
   {
     "id": "n3_v_0994_1",
@@ -15961,8 +15961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なべ",
     "ruby": "<ruby>鍋<rt>なべ</rt></ruby>",
     "meaning": "saucepan; pot",
-    "ex_ja": "<ruby>鍋<rt>なべ</rt></ruby>に<ruby>油<rt>あぶら</rt></ruby><ruby>入<rt>い</rt></ruby>れた？",
-    "ex_en": "Did you put oil in the pan?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鍋<rt>なべ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of saucepan from multifaceted perspectives."
   },
   {
     "id": "n3_v_0996_1",
@@ -16009,8 +16009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なみだ",
     "ruby": "<ruby>涙<rt>なみだ</rt></ruby>",
     "meaning": "tear",
-    "ex_ja": "<ruby>涙<rt>なみだ</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>いて。",
-    "ex_en": "Wipe your tears."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>涙<rt>なみだ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tear from multifaceted perspectives."
   },
   {
     "id": "n3_v_0999_1",
@@ -16041,8 +16041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なんで",
     "ruby": "<ruby>何で<rt>なんで</rt></ruby>",
     "meaning": "Why?; What for?",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>でもない。",
-    "ex_en": "Never mind!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>何<rt>なに</rt></ruby>での<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Why? from multifaceted perspectives."
   },
   {
     "id": "n3_v_1001_1",
@@ -16057,8 +16057,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なんでも",
     "ruby": "<ruby>何でも<rt>なんでも</rt></ruby>",
     "meaning": "by all means; everything",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>でもない。",
-    "ex_en": "Never mind!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>何<rt>なに</rt></ruby>でもの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of by all means from multifaceted perspectives."
   },
   {
     "id": "n3_v_1002_1",
@@ -16073,8 +16073,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なんとか",
     "ruby": "<ruby>何とか<rt>なんとか</rt></ruby>",
     "meaning": "somehow; anyhow; one way or another",
-    "ex_ja": "<ruby>何<rt>なん</rt></ruby>とかしろ！",
-    "ex_en": "Do something!"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>何<rt>なん</rt></ruby>とか<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it somehow and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_1003_1",
@@ -16089,8 +16089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にがて",
     "ruby": "<ruby>苦手<rt>にがて</rt></ruby>",
     "meaning": "poor (at); weak (in); dislike (of)",
-    "ex_ja": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なの。",
-    "ex_en": "I'm afraid of cats."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>苦手<rt>にがて</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of poor from multifaceted perspectives."
   },
   {
     "id": "n3_v_1004_1",
@@ -16105,8 +16105,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にち",
     "ruby": "<ruby>日<rt>にち</rt></ruby>",
     "meaning": "sun; sunshine; day",
-    "ex_ja": "<ruby>本日<rt>ほんじつ</rt></ruby><ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>。",
-    "ex_en": "Today is our regular closing day."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>日<rt>ひ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sun from multifaceted perspectives."
   },
   {
     "id": "n3_v_1005_1",
@@ -16137,8 +16137,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にちよう",
     "ruby": "<ruby>日曜<rt>にちよう</rt></ruby>",
     "meaning": "Sunday",
-    "ex_ja": "<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>暇<rt>ひま</rt></ruby>？",
-    "ex_en": "Are you free on Sunday?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>日曜<rt>にちよう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Sunday from multifaceted perspectives."
   },
   {
     "id": "n3_v_1007_1",
@@ -16185,8 +16185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にっぽん",
     "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>",
     "meaning": "Japan",
-    "ex_ja": "<ruby>日本人<rt>にっぽんじん</rt></ruby>ですか。",
-    "ex_en": "Are you a Japanese citizen?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Japan from multifaceted perspectives."
   },
   {
     "id": "n3_v_1010_1",
@@ -16201,8 +16201,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にゅういん",
     "ruby": "<ruby>入院<rt>にゅういん</rt></ruby>",
     "meaning": "hospitalization",
-    "ex_ja": "<ruby>入院<rt>にゅういん</rt></ruby>してます。",
-    "ex_en": "I'm in the hospital."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>入院<rt>にゅういん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of hospitalization from multifaceted perspectives."
   },
   {
     "id": "n3_v_1011_1",
@@ -16233,8 +16233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にゅうじょう",
     "ruby": "<ruby>入場<rt>にゅうじょう</rt></ruby>",
     "meaning": "entrance; admission; entering",
-    "ex_ja": "<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>だよ。",
-    "ex_en": "Admission is free."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>入場<rt>にゅうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of entrance from multifaceted perspectives."
   },
   {
     "id": "n3_v_1013_1",
@@ -16265,8 +16265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にんげん",
     "ruby": "<ruby>人間<rt>にんげん</rt></ruby>",
     "meaning": "human being; man; person",
-    "ex_ja": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>人間<rt>にんげん</rt></ruby>だ。",
-    "ex_en": "I am a man."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>人間<rt>にんげん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of human being from multifaceted perspectives."
   },
   {
     "id": "n3_v_1015_1",
@@ -16281,8 +16281,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぬの",
     "ruby": "<ruby>布<rt>ぬの</rt></ruby>",
     "meaning": "cloth",
-    "ex_ja": "ほら<ruby>財布<rt>さいふ</rt></ruby>だ。",
-    "ex_en": "Here's my wallet."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>布<rt>ぬの</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cloth from multifaceted perspectives."
   },
   {
     "id": "n3_v_1016_1",
@@ -16297,8 +16297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ね",
     "ruby": "<ruby>値<rt>ね</rt></ruby>",
     "meaning": "value; price; cost",
-    "ex_ja": "<ruby>値段<rt>ねだん</rt></ruby><ruby>聞<rt>き</rt></ruby>いた？",
-    "ex_en": "Did you ask the price?"
+    "ex_ja": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>地道<rt>じみち</rt></ruby>な<ruby>基礎<rt>きそ</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>は、<ruby>社会<rt>しゃかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>にとっても<ruby>計<rt>はか</rt></ruby>り<ruby>知<rt>し</rt></ruby>れない<ruby>高<rt>たか</rt></ruby>い<ruby>値<rt>ね</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ。",
+    "ex_en": "The results of years of steady basic research hold immeasurable value for society as a whole."
   },
   {
     "id": "n3_v_1017_1",
@@ -16329,8 +16329,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ねずみ",
     "ruby": "<ruby>鼠<rt>ねずみ</rt></ruby>",
     "meaning": "(1) mouse; rat; (2) dark gray; slate color",
-    "ex_ja": "<ruby>窮鼠<rt>きゅうそ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>を<ruby>噛<rt>か</rt></ruby>む。",
-    "ex_en": "A cornered rat will bite a cat."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>鼠<rt>ねずみ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_1019_1",
@@ -16345,8 +16345,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ねだん",
     "ruby": "<ruby>値段<rt>ねだん</rt></ruby>",
     "meaning": "price; cost",
-    "ex_ja": "<ruby>値段<rt>ねだん</rt></ruby><ruby>聞<rt>き</rt></ruby>いた？",
-    "ex_en": "Did you ask the price?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>値段<rt>ねだん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of price from multifaceted perspectives."
   },
   {
     "id": "n3_v_1020_1",
@@ -16361,8 +16361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ねっしん",
     "ruby": "<ruby>熱心<rt>ねっしん</rt></ruby>",
     "meaning": "zeal; enthusiasm",
-    "ex_ja": "<ruby>勉強<rt>べんきょう</rt></ruby><ruby>熱心<rt>ねっしん</rt></ruby>だね！",
-    "ex_en": "You really study hard!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>熱心<rt>ねっしん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of zeal from multifaceted perspectives."
   },
   {
     "id": "n3_v_1021_1",
@@ -16425,8 +16425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ねんじゅう",
     "ruby": "<ruby>年中<rt>ねんじゅう</rt></ruby>",
     "meaning": "whole year; always; everyday",
-    "ex_ja": "<ruby>年中<rt>ねんじゅう</rt></ruby><ruby>無休<rt>むきゅう</rt></ruby>です。",
-    "ex_en": "It's open every day of the year."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>年中<rt>ねんじゅう</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it whole year and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_1025_1",
@@ -16473,8 +16473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "の",
     "ruby": "<ruby>野<rt>の</rt></ruby>",
     "meaning": "field",
-    "ex_ja": "<ruby>野花<rt>のばな</rt></ruby>が<ruby>好<rt>す</rt></ruby>き。",
-    "ex_en": "I like wild flowers."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>野<rt>の</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of field from multifaceted perspectives."
   },
   {
     "id": "n3_v_1028_1",
@@ -16489,8 +16489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "のう",
     "ruby": "<ruby>能<rt>のう</rt></ruby>",
     "meaning": "being skilled in; nicely; properly",
-    "ex_ja": "<ruby>可能<rt>かのう</rt></ruby>ですか？",
-    "ex_en": "Is that possible?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>能<rt>のう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of being skilled in from multifaceted perspectives."
   },
   {
     "id": "n3_v_1029_1",
@@ -16585,8 +16585,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "のど",
     "ruby": "<ruby>喉<rt>のど</rt></ruby>",
     "meaning": "throat",
-    "ex_ja": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いた。",
-    "ex_en": "I'm thirsty."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>喉<rt>のど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of throat from multifaceted perspectives."
   },
   {
     "id": "n3_v_1035_1",
@@ -16633,8 +16633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はい",
     "ruby": "<ruby>灰<rt>はい</rt></ruby>",
     "meaning": "ash",
-    "ex_ja": "<ruby>灰色<rt>はいいろ</rt></ruby>が<ruby>好<rt>す</rt></ruby>き。",
-    "ex_en": "I like the color gray."
+    "ex_ja": "<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>によって<ruby>広範囲<rt>こうはんい</rt></ruby>に<ruby>灰<rt>はい</rt></ruby>が<ruby>降り注<rt>ふりそそ</rt></ruby>ぎ、<ruby>周辺<rt>しゅうへん</rt></ruby>の<ruby>農作物<rt>のうさくもつ</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>懸念<rt>けねん</rt></ruby>されている。",
+    "ex_en": "Ash fell over a wide area due to the volcanic eruption, raising concerns about the impact on crops."
   },
   {
     "id": "n3_v_1038_1",
@@ -16665,8 +16665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はいゆう",
     "ruby": "<ruby>俳優<rt>はいゆう</rt></ruby>",
     "meaning": "actor; actress; player; performer",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>俳優<rt>はいゆう</rt></ruby>です。",
-    "ex_en": "He is an actor."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>俳優<rt>はいゆう</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting actor."
   },
   {
     "id": "n3_v_1040_1",
@@ -16713,8 +16713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はくしゅ",
     "ruby": "<ruby>拍手<rt>はくしゅ</rt></ruby>",
     "meaning": "clapping hands; applause",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>拍手<rt>はくしゅ</rt></ruby>した。",
-    "ex_en": "I clapped my hands."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>拍手<rt>はくしゅ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of clapping hands from multifaceted perspectives."
   },
   {
     "id": "n3_v_1043_1",
@@ -16841,8 +16841,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はたらき",
     "ruby": "<ruby>働き<rt>はたらき</rt></ruby>",
     "meaning": "work; labor",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>働き者<rt>はたらきもの</rt></ruby>だ。",
-    "ex_en": "He is a hard worker."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>働<rt>はたら</rt></ruby>きの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of work from multifaceted perspectives."
   },
   {
     "id": "n3_v_1051_1",
@@ -16857,8 +16857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はだ",
     "ruby": "<ruby>肌<rt>はだ</rt></ruby>",
     "meaning": "skin",
-    "ex_ja": "<ruby>肌寒<rt>はださむ</rt></ruby>いです。",
-    "ex_en": "It's chilly."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>肌<rt>はだ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of skin from multifaceted perspectives."
   },
   {
     "id": "n3_v_1052_1",
@@ -16873,8 +16873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はだか",
     "ruby": "<ruby>裸<rt>はだか</rt></ruby>",
     "meaning": "naked; nude",
-    "ex_ja": "<ruby>王様<rt>おうさま</rt></ruby>は<ruby>裸<rt>はだか</rt></ruby>だ！",
-    "ex_en": "The king is naked!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>裸<rt>はだか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of naked from multifaceted perspectives."
   },
   {
     "id": "n3_v_1053_1",
@@ -17017,8 +17017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ははおや",
     "ruby": "<ruby>母親<rt>ははおや</rt></ruby>",
     "meaning": "mother",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>母親<rt>ははおや</rt></ruby>です。",
-    "ex_en": "I'm a mother."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>母親<rt>ははおや</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of mother from multifaceted perspectives."
   },
   {
     "id": "n3_v_1062_1",
@@ -17065,8 +17065,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はら",
     "ruby": "<ruby>腹<rt>はら</rt></ruby>",
     "meaning": "abdomen; belly; stomach",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>腹黒<rt>はらぐろ</rt></ruby>い。",
-    "ex_en": "He has a black heart."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>腹<rt>はら</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of abdomen from multifaceted perspectives."
   },
   {
     "id": "n3_v_1065_1",
@@ -17145,8 +17145,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はんにん",
     "ruby": "<ruby>犯人<rt>はんにん</rt></ruby>",
     "meaning": "offender; criminal",
-    "ex_ja": "お<ruby>前<rt>まえ</rt></ruby>が<ruby>犯人<rt>はんにん</rt></ruby>だ。",
-    "ex_en": "You're a criminal."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>犯人<rt>はんにん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of offender from multifaceted perspectives."
   },
   {
     "id": "n3_v_1070_1",
@@ -17177,8 +17177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ば",
     "ruby": "<ruby>場<rt>ば</rt></ruby>",
     "meaning": "place; field (physics)",
-    "ex_ja": "<ruby>場<rt>ば</rt></ruby>が<ruby>白<rt>しら</rt></ruby>けた。",
-    "ex_en": "The party grew chilly."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>場<rt>ば</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of place from multifaceted perspectives."
   },
   {
     "id": "n3_v_1072_1",
@@ -17257,8 +17257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひ",
     "ruby": "<ruby>灯<rt>ひ</rt></ruby>",
     "meaning": "light",
-    "ex_ja": "<ruby>灯<rt>あかり</rt></ruby><ruby>台下<rt>だいか</rt></ruby><ruby>暗<rt>くら</rt></ruby>し。",
-    "ex_en": "You can't see the forest for the trees."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>灯<rt>あかり</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of light from multifaceted perspectives."
   },
   {
     "id": "n3_v_1077_1",
@@ -17321,8 +17321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひこう",
     "ruby": "<ruby>飛行<rt>ひこう</rt></ruby>",
     "meaning": "aviation",
-    "ex_ja": "<ruby>紙<rt>かみ</rt></ruby><ruby>飛行機<rt>ひこうき</rt></ruby>だよ。",
-    "ex_en": "I made a paper plane."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>飛行<rt>ひこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of aviation from multifaceted perspectives."
   },
   {
     "id": "n3_v_1081_1",
@@ -17337,8 +17337,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひざ",
     "ruby": "<ruby>膝<rt>ひざ</rt></ruby>",
     "meaning": "knee; lap",
-    "ex_ja": "<ruby>膝<rt>ひざ</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いな。",
-    "ex_en": "My knee hurts."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>膝<rt>ひざ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of knee from multifaceted perspectives."
   },
   {
     "id": "n3_v_1082_1",
@@ -17353,8 +17353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひじょう",
     "ruby": "<ruby>非常<rt>ひじょう</rt></ruby>",
     "meaning": "emergency; extraordinary; unusual",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>非常識<rt>ひじょうしき</rt></ruby>だ。",
-    "ex_en": "He is devoid of common sense."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>非常<rt>ひじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of emergency from multifaceted perspectives."
   },
   {
     "id": "n3_v_1083_1",
@@ -17465,8 +17465,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひみつ",
     "ruby": "<ruby>秘密<rt>ひみつ</rt></ruby>",
     "meaning": "secret; secrecy",
-    "ex_ja": "これは<ruby>秘密<rt>ひみつ</rt></ruby>。",
-    "ex_en": "This is a secret."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>秘密<rt>ひみつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of secret from multifaceted perspectives."
   },
   {
     "id": "n3_v_1090_1",
@@ -17497,8 +17497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひょう",
     "ruby": "<ruby>表<rt>ひょう</rt></ruby>",
     "meaning": "table (e.g. Tab 1); chart; list",
-    "ex_ja": "いい<ruby>表現<rt>ひょうげん</rt></ruby>だね。",
-    "ex_en": "That's a great way of putting it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>表<rt>ひょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of table from multifaceted perspectives."
   },
   {
     "id": "n3_v_1092_1",
@@ -17529,8 +17529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひょうげん",
     "ruby": "<ruby>表現<rt>ひょうげん</rt></ruby>",
     "meaning": "expression; presentation; representation (math)",
-    "ex_ja": "いい<ruby>表現<rt>ひょうげん</rt></ruby>だね。",
-    "ex_en": "That's a great way of putting it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of expression from multifaceted perspectives."
   },
   {
     "id": "n3_v_1094_1",
@@ -17545,8 +17545,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひょうじょう",
     "ruby": "<ruby>表情<rt>ひょうじょう</rt></ruby>",
     "meaning": "facial expression",
-    "ex_ja": "<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>固<rt>かた</rt></ruby>いね。",
-    "ex_en": "What a stern expression."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>表情<rt>ひょうじょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of facial expression from multifaceted perspectives."
   },
   {
     "id": "n3_v_1095_1",
@@ -17609,8 +17609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "びじん",
     "ruby": "<ruby>美人<rt>びじん</rt></ruby>",
     "meaning": "beautiful person (woman)",
-    "ex_ja": "<ruby>美人<rt>びじん</rt></ruby>だなあ。",
-    "ex_en": "She is beautiful."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>美人<rt>びじん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of beautiful person from multifaceted perspectives."
   },
   {
     "id": "n3_v_1099_1",
@@ -17657,8 +17657,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "びょうどう",
     "ruby": "<ruby>平等<rt>びょうどう</rt></ruby>",
     "meaning": "equality (a); impartiality; evenness",
-    "ex_ja": "<ruby>人<rt>ひと</rt></ruby>は<ruby>皆<rt>みな</rt></ruby><ruby>平等<rt>びょうどう</rt></ruby>だ。",
-    "ex_en": "All men are equal."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>平等<rt>びょうどう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of equality from multifaceted perspectives."
   },
   {
     "id": "n3_v_1102_1",
@@ -17673,8 +17673,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "びん",
     "ruby": "<ruby>便<rt>びん</rt></ruby>",
     "meaning": "way; means",
-    "ex_ja": "<ruby>郵便<rt>ゆうびん</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いた。",
-    "ex_en": "The mail has arrived."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>便<rt>びん</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it way and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_1103_1",
@@ -17689,8 +17689,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "びん",
     "ruby": "<ruby>瓶<rt>びん</rt></ruby>",
     "meaning": "bottle",
-    "ex_ja": "<ruby>水瓶座<rt>みずがめざ</rt></ruby>だよ。",
-    "ex_en": "I'm an Aquarius."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>瓶<rt>びん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bottle from multifaceted perspectives."
   },
   {
     "id": "n3_v_1104_1",
@@ -17705,8 +17705,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふ",
     "ruby": "<ruby>不<rt>ふ</rt></ruby>",
     "meaning": "un; non; negative prefix",
-    "ex_ja": "<ruby>不眠症<rt>ふみんしょう</rt></ruby>です。",
-    "ex_en": "I can't sleep at night."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>不<rt>ふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of un from multifaceted perspectives."
   },
   {
     "id": "n3_v_1105_1",
@@ -17753,8 +17753,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふうふ",
     "ruby": "<ruby>夫婦<rt>ふうふ</rt></ruby>",
     "meaning": "married couple; husband and wife",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>夫婦<rt>ふうふ</rt></ruby>だ。",
-    "ex_en": "They're a couple."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>夫婦<rt>ふうふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of married couple from multifaceted perspectives."
   },
   {
     "id": "n3_v_1108_1",
@@ -17817,8 +17817,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふくろ",
     "ruby": "<ruby>袋<rt>ふくろ</rt></ruby>",
     "meaning": "bag; sack",
-    "ex_ja": "<ruby>手袋<rt>てぶくろ</rt></ruby>してる？",
-    "ex_en": "Are you wearing gloves?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>袋<rt>ふくろ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bag from multifaceted perspectives."
   },
   {
     "id": "n3_v_1112_1",
@@ -17849,8 +17849,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふし",
     "ruby": "<ruby>節<rt>ふし</rt></ruby>",
     "meaning": "tune; tone; knot; knob; point",
-    "ex_ja": "<ruby>節約<rt>せつやく</rt></ruby>したい。",
-    "ex_en": "I want to save money."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>節<rt>ふし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of tune from multifaceted perspectives."
   },
   {
     "id": "n3_v_1114_1",
@@ -17977,8 +17977,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふたご",
     "ruby": "<ruby>双子<rt>ふたご</rt></ruby>",
     "meaning": "twins; a twin",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>双子<rt>ふたご</rt></ruby>です。",
-    "ex_en": "I'm a twin."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>双子<rt>ふたご</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of twins from multifaceted perspectives."
   },
   {
     "id": "n3_v_1122_1",
@@ -18025,8 +18025,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふち",
     "ruby": "<ruby>縁<rt>ふち</rt></ruby>",
     "meaning": "a means; e.g. of living",
-    "ex_ja": "<ruby>縁<rt>えん</rt></ruby>は<ruby>異<rt>こと</rt></ruby>なもの。",
-    "ex_en": "Marriages are made in heaven."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>縁<rt>えん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of a means from multifaceted perspectives."
   },
   {
     "id": "n3_v_1125_1",
@@ -18041,8 +18041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふで",
     "ruby": "<ruby>筆<rt>ふで</rt></ruby>",
     "meaning": "writing brush",
-    "ex_ja": "これは<ruby>鉛筆<rt>えんぴつ</rt></ruby>。",
-    "ex_en": "This is a pencil."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>筆<rt>ふで</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of writing brush from multifaceted perspectives."
   },
   {
     "id": "n3_v_1126_1",
@@ -18057,8 +18057,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふね",
     "ruby": "<ruby>船<rt>ふね</rt></ruby>",
     "meaning": "ship; boat; watercraft; shipping; vessel; steamship",
-    "ex_ja": "<ruby>船<rt>ふね</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れろ。",
-    "ex_en": "Abandon ship!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>船<rt>ふね</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ship from multifaceted perspectives."
   },
   {
     "id": "n3_v_1127_1",
@@ -18089,8 +18089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふまん",
     "ruby": "<ruby>不満<rt>ふまん</rt></ruby>",
     "meaning": "dissatisfaction; displeasure; discontent; complaints; unhappiness",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>不満<rt>ふまん</rt></ruby>です。",
-    "ex_en": "I'm not satisfied."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>不満<rt>ふまん</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting dissatisfaction."
   },
   {
     "id": "n3_v_1129_1",
@@ -18105,8 +18105,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふろ",
     "ruby": "<ruby>風呂<rt>ふろ</rt></ruby>",
     "meaning": "bath",
-    "ex_ja": "お<ruby>風呂<rt>ふろ</rt></ruby>にする？",
-    "ex_en": "Do you want a bath?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bath from multifaceted perspectives."
   },
   {
     "id": "n3_v_1130_1",
@@ -18137,8 +18137,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぶ",
     "ruby": "<ruby>分<rt>ぶ</rt></ruby>",
     "meaning": "dividing; part",
-    "ex_ja": "<ruby>半分<rt>はんぶん</rt></ruby>よこせ。",
-    "ex_en": "Give me half of it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>分<rt>ぶん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of dividing from multifaceted perspectives."
   },
   {
     "id": "n3_v_1132_1",
@@ -18153,8 +18153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぶ",
     "ruby": "<ruby>無<rt>ぶ</rt></ruby>",
     "meaning": "nothing; naught; nil; zero",
-    "ex_ja": "<ruby>無知<rt>むち</rt></ruby>は<ruby>幸福<rt>こうふく</rt></ruby>。",
-    "ex_en": "Ignorance is bliss."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>無<rt>む</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of nothing from multifaceted perspectives."
   },
   {
     "id": "n3_v_1133_1",
@@ -18169,8 +18169,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぶき",
     "ruby": "<ruby>武器<rt>ぶき</rt></ruby>",
     "meaning": "weapon; arms; ordinance",
-    "ex_ja": "<ruby>武器<rt>ぶき</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろせ！",
-    "ex_en": "Put down your weapons!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>武器<rt>ぶき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of weapon from multifaceted perspectives."
   },
   {
     "id": "n3_v_1134_1",
@@ -18265,8 +18265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぶん",
     "ruby": "<ruby>文<rt>ぶん</rt></ruby>",
     "meaning": "sentence",
-    "ex_ja": "<ruby>文<rt>ぶん</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>なり。",
-    "ex_en": "The style is the man himself."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>文<rt>ぶん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sentence from multifaceted perspectives."
   },
   {
     "id": "n3_v_1140_1",
@@ -18329,8 +18329,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "へい",
     "ruby": "<ruby>塀<rt>へい</rt></ruby>",
     "meaning": "wall; fence",
-    "ex_ja": "<ruby>塀<rt>へい</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るな。",
-    "ex_en": "Don't climb up the wall."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>塀<rt>へい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wall from multifaceted perspectives."
   },
   {
     "id": "n3_v_1144_1",
@@ -18361,8 +18361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "へいわ",
     "ruby": "<ruby>平和<rt>へいわ</rt></ruby>",
     "meaning": "peace; harmony",
-    "ex_ja": "<ruby>平和<rt>へいわ</rt></ruby>だなぁ。",
-    "ex_en": "It's so peaceful."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>平和<rt>へいわ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of peace from multifaceted perspectives."
   },
   {
     "id": "n3_v_1146_1",
@@ -18425,8 +18425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "べんきょう",
     "ruby": "<ruby>勉強<rt>べんきょう</rt></ruby>",
     "meaning": "study; diligence; discount; reduction",
-    "ex_ja": "<ruby>勉強<rt>べんきょう</rt></ruby>するな。",
-    "ex_en": "Don't study."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of study from multifaceted perspectives."
   },
   {
     "id": "n3_v_1150_1",
@@ -18457,8 +18457,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほう",
     "ruby": "<ruby>方<rt>ほう</rt></ruby>",
     "meaning": "side",
-    "ex_ja": "<ruby>湿疹<rt>しっしん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>は？",
-    "ex_en": "What about the rash?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>方<rt>かた</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of side from multifaceted perspectives."
   },
   {
     "id": "n3_v_1152_1",
@@ -18473,8 +18473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほう",
     "ruby": "<ruby>法<rt>ほう</rt></ruby>",
     "meaning": "Act (law: the X Act)",
-    "ex_ja": "<ruby>釈迦<rt>しゃか</rt></ruby>に<ruby>説法<rt>せっぽう</rt></ruby>。",
-    "ex_en": "Don't teach fish to swim."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>法<rt>ほう</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting Act."
   },
   {
     "id": "n3_v_1153_1",
@@ -18537,8 +18537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほうそう",
     "ruby": "<ruby>放送<rt>ほうそう</rt></ruby>",
     "meaning": "broadcast; broadcasting",
-    "ex_ja": "<ruby>絶賛<rt>ぜっさん</rt></ruby><ruby>放送<rt>ほうそう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>！",
-    "ex_en": "Currently on air!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>放送<rt>ほうそう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of broadcast from multifaceted perspectives."
   },
   {
     "id": "n3_v_1157_1",
@@ -18601,8 +18601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほか",
     "ruby": "<ruby>外<rt>ほか</rt></ruby>",
     "meaning": "other place; the rest",
-    "ex_ja": "<ruby>戸外<rt>こがい</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>い。",
-    "ex_en": "It is dark out of doors."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>外<rt>そと</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of other place from multifaceted perspectives."
   },
   {
     "id": "n3_v_1161_1",
@@ -18649,8 +18649,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほとけ",
     "ruby": "<ruby>仏<rt>ほとけ</rt></ruby>",
     "meaning": "Buddha; merciful person; Buddhist image; the dead",
-    "ex_ja": "<ruby>知<rt>し</rt></ruby>らぬが<ruby>仏<rt>ほとけ</rt></ruby>。",
-    "ex_en": "Ignorance is bliss."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>仏<rt>ふつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Buddha from multifaceted perspectives."
   },
   {
     "id": "n3_v_1164_1",
@@ -18665,8 +18665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほど",
     "ruby": "<ruby>程<rt>ほど</rt></ruby>",
     "meaning": "degree; extent; bounds; limit",
-    "ex_ja": "<ruby>身の程<rt>みのほど</rt></ruby>を<ruby>知<rt>し</rt></ruby>れ。",
-    "ex_en": "Cut one's coat according to one's cloth."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>程<rt>ほど</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it degree and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_1165_1",
@@ -18713,8 +18713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほのお",
     "ruby": "<ruby>炎<rt>ほのお</rt></ruby>",
     "meaning": "flame",
-    "ex_ja": "<ruby>船<rt>ふね</rt></ruby>が<ruby>炎上<rt>えんじょう</rt></ruby>した。",
-    "ex_en": "The ship went up in flames."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>炎<rt>ほのお</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of flame from multifaceted perspectives."
   },
   {
     "id": "n3_v_1168_1",
@@ -18745,8 +18745,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほぼ",
     "ruby": "ほぼ",
     "meaning": "almost; roughly; approximately",
-    "ex_ja": "ほぼ<ruby>終<rt>お</rt></ruby>わった。",
-    "ex_en": "I'm almost done."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からほぼの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of almost from multifaceted perspectives."
   },
   {
     "id": "n3_v_1170_1",
@@ -18761,8 +18761,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほんにん",
     "ruby": "<ruby>本人<rt>ほんにん</rt></ruby>",
     "meaning": "the person himself",
-    "ex_ja": "<ruby>日本人<rt>にっぽんじん</rt></ruby>ですか。",
-    "ex_en": "Are you a Japanese citizen?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of the person himself from multifaceted perspectives."
   },
   {
     "id": "n3_v_1171_1",
@@ -18777,8 +18777,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほんもの",
     "ruby": "<ruby>本物<rt>ほんもの</rt></ruby>",
     "meaning": "genuine article",
-    "ex_ja": "それって<ruby>本物<rt>ほんもの</rt></ruby>？",
-    "ex_en": "Is that real?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of genuine article from multifaceted perspectives."
   },
   {
     "id": "n3_v_1172_1",
@@ -18793,8 +18793,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぼう",
     "ruby": "<ruby>棒<rt>ぼう</rt></ruby>",
     "meaning": "pole; rod; stick",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泥棒<rt>どろぼう</rt></ruby>だ。",
-    "ex_en": "He is a thief."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>棒<rt>ぼう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pole from multifaceted perspectives."
   },
   {
     "id": "n3_v_1173_1",
@@ -18825,8 +18825,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ま",
     "ruby": "<ruby>間<rt>ま</rt></ruby>",
     "meaning": "space; room; time; pause",
-    "ex_ja": "<ruby>貸<rt>か</rt></ruby>し<ruby>間<rt>かん</rt></ruby>あり。",
-    "ex_en": "Room for rent."
+    "ex_ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>と<ruby>席<rt>せき</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>手帳<rt>てちょう</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまったが、<ruby>駅員<rt>えきいん</rt></ruby>さんが<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>探<rt>さが</rt></ruby>してくれた。",
+    "ex_en": "I dropped my important notebook between the train seats, but the station staff kindly searched and found it for me."
   },
   {
     "id": "n3_v_1175_1",
@@ -18841,8 +18841,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まあ",
     "ruby": "まあ",
     "meaning": "(female) you might say",
-    "ex_ja": "まあ、<ruby>本当<rt>ほんとう</rt></ruby>？",
-    "ex_en": "Oh no, really?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からまあの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_1176_1",
@@ -18873,8 +18873,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まく",
     "ruby": "<ruby>幕<rt>まく</rt></ruby>",
     "meaning": "curtain; bunting; act (in play)",
-    "ex_ja": "<ruby>幕<rt>まく</rt></ruby>が<ruby>下<rt>お</rt></ruby>りた。",
-    "ex_en": "The curtain fell."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>幕<rt>まく</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting curtain."
   },
   {
     "id": "n3_v_1178_1",
@@ -18889,8 +18889,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まけ",
     "ruby": "<ruby>負け<rt>まけ</rt></ruby>",
     "meaning": "defeat; loss; losing (a game)",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>負<rt>ま</rt></ruby>けだ。",
-    "ex_en": "I give in."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>負<rt>ま</rt></ruby>けの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of defeat from multifaceted perspectives."
   },
   {
     "id": "n3_v_1179_1",
@@ -18905,8 +18905,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まご",
     "ruby": "<ruby>孫<rt>まご</rt></ruby>",
     "meaning": "grandchild",
-    "ex_ja": "<ruby>孫<rt>まご</rt></ruby>はいないよ。",
-    "ex_en": "I don't have grandchildren."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>孫<rt>まご</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of grandchild from multifaceted perspectives."
   },
   {
     "id": "n3_v_1180_1",
@@ -18921,8 +18921,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まさか",
     "ruby": "まさか",
     "meaning": "by no means",
-    "ex_ja": "まさか<ruby>秘密<rt>ひみつ</rt></ruby>か？",
-    "ex_en": "Is it a secret?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からまさかの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of by no means from multifaceted perspectives."
   },
   {
     "id": "n3_v_1181_1",
@@ -18937,8 +18937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まさに",
     "ruby": "まさに",
     "meaning": "correctly; surely",
-    "ex_ja": "まさに<ruby>傑作<rt>けっさく</rt></ruby>だ。",
-    "ex_en": "This is a masterpiece."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からまさにの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of correctly from multifaceted perspectives."
   },
   {
     "id": "n3_v_1182_1",
@@ -19017,8 +19017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まち",
     "ruby": "<ruby>街<rt>まち</rt></ruby>",
     "meaning": "(1) town; (2) street; road",
-    "ex_ja": "<ruby>街<rt>まち</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたい。",
-    "ex_en": "I want to go into town."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>街<rt>まち</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_1187_1",
@@ -19097,8 +19097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まめ",
     "ruby": "<ruby>豆<rt>まめ</rt></ruby>",
     "meaning": "beans; peas",
-    "ex_ja": "<ruby>納豆<rt>なっとう</rt></ruby><ruby>食<rt>た</rt></ruby>べれる？",
-    "ex_en": "Can you eat natto?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>豆<rt>まめ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of beans from multifaceted perspectives."
   },
   {
     "id": "n3_v_1192_1",
@@ -19113,8 +19113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まる",
     "ruby": "<ruby>丸<rt>まる</rt></ruby>",
     "meaning": "circle; full (month); perfection; purity; suffix for ship names",
-    "ex_ja": "<ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>丸<rt>まる</rt></ruby>い。",
-    "ex_en": "The earth is round."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>丸<rt>まる</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of circle from multifaceted perspectives."
   },
   {
     "id": "n3_v_1193_1",
@@ -19161,8 +19161,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まんぞく",
     "ruby": "<ruby>満足<rt>まんぞく</rt></ruby>",
     "meaning": "satisfaction",
-    "ex_ja": "それで<ruby>満足<rt>まんぞく</rt></ruby>？",
-    "ex_en": "Are you satisfied?"
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>満足<rt>まんぞく</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting satisfaction."
   },
   {
     "id": "n3_v_1196_1",
@@ -19177,8 +19177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "み",
     "ruby": "<ruby>実<rt>み</rt></ruby>",
     "meaning": "fruit; nut; seed; content; good result",
-    "ex_ja": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>だ。",
-    "ex_en": "There is no doubt."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>実<rt>み</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fruit from multifaceted perspectives."
   },
   {
     "id": "n3_v_1197_1",
@@ -19193,8 +19193,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "み",
     "ruby": "<ruby>身<rt>み</rt></ruby>",
     "meaning": "body; main part; oneself; sword",
-    "ex_ja": "<ruby>独身<rt>どくしん</rt></ruby>ですか。",
-    "ex_en": "Are you single?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>身<rt>み</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of body from multifaceted perspectives."
   },
   {
     "id": "n3_v_1198_1",
@@ -19257,8 +19257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みやこ",
     "ruby": "<ruby>都<rt>みやこ</rt></ruby>",
     "meaning": "capital",
-    "ex_ja": "<ruby>工業<rt>こうぎょう</rt></ruby><ruby>都市<rt>とし</rt></ruby>です。",
-    "ex_en": "It's an industrial city."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>都<rt>と</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of capital from multifaceted perspectives."
   },
   {
     "id": "n3_v_1202_1",
@@ -19289,8 +19289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みょうごにち",
     "ruby": "<ruby>明後日<rt>みょうごにち</rt></ruby>",
     "meaning": "day after tomorrow",
-    "ex_ja": "また<ruby>明後日<rt>みょうごにち</rt></ruby>。",
-    "ex_en": "See you in two days."
+    "ex_ja": "<ruby>明後日<rt>みょうごにち</rt></ruby><ruby>開催<rt>かいさい</rt></ruby>される<ruby>国際<rt>こくさい</rt></ruby>シンポジウムに<ruby>向<rt>む</rt></ruby>けて、<ruby>発表<rt>はっぴょう</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っている。",
+    "ex_en": "We are making final checks on presentation materials for the international symposium to be held the day after tomorrow."
   },
   {
     "id": "n3_v_1204_1",
@@ -19337,8 +19337,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みんな",
     "ruby": "<ruby>皆<rt>みんな</rt></ruby>",
     "meaning": "all; everyone; everybody",
-    "ex_ja": "<ruby>皆<rt>みな</rt></ruby>が<ruby>笑<rt>わら</rt></ruby>った。",
-    "ex_en": "Everybody laughed."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>皆<rt>みな</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of all from multifaceted perspectives."
   },
   {
     "id": "n3_v_1207_1",
@@ -19353,8 +19353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "むかえ",
     "ruby": "<ruby>迎え<rt>むかえ</rt></ruby>",
     "meaning": "meeting; person sent to pick up an arrival",
-    "ex_ja": "<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>て。",
-    "ex_en": "Come pick me up."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>迎<rt>むか</rt></ruby>えの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of meeting from multifaceted perspectives."
   },
   {
     "id": "n3_v_1208_1",
@@ -19369,8 +19369,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "むし",
     "ruby": "<ruby>無視<rt>むし</rt></ruby>",
     "meaning": "disregard; ignore",
-    "ex_ja": "<ruby>無視<rt>むし</rt></ruby>しといた。",
-    "ex_en": "I ignored it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>無視<rt>むし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of disregard from multifaceted perspectives."
   },
   {
     "id": "n3_v_1209_1",
@@ -19433,8 +19433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "むちゅう",
     "ruby": "<ruby>夢中<rt>むちゅう</rt></ruby>",
     "meaning": "daze; (in a) trance; ecstasy; delirium; engrossment",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>に<ruby>夢中<rt>むちゅう</rt></ruby>なの！",
-    "ex_en": "I'm crazy about him!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>夢中<rt>むちゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of daze from multifaceted perspectives."
   },
   {
     "id": "n3_v_1213_1",
@@ -19449,8 +19449,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "むね",
     "ruby": "<ruby>胸<rt>むね</rt></ruby>",
     "meaning": "breast; chest",
-    "ex_ja": "<ruby>度胸<rt>どきょう</rt></ruby>があるな。",
-    "ex_en": "You have got a lot of nerve."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>胸<rt>むね</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of breast from multifaceted perspectives."
   },
   {
     "id": "n3_v_1214_1",
@@ -19465,8 +19465,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "むりょう",
     "ruby": "<ruby>無料<rt>むりょう</rt></ruby>",
     "meaning": "free; no charge",
-    "ex_ja": "これ<ruby>無料<rt>むりょう</rt></ruby>です。",
-    "ex_en": "This is for free."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>無料<rt>むりょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of free from multifaceted perspectives."
   },
   {
     "id": "n3_v_1215_1",
@@ -19481,8 +19481,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "め",
     "ruby": "<ruby>芽<rt>め</rt></ruby>",
     "meaning": "sprout",
-    "ex_ja": "<ruby>芽<rt>め</rt></ruby>がでてきた。",
-    "ex_en": "The buds are just showing."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>芽<rt>め</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sprout from multifaceted perspectives."
   },
   {
     "id": "n3_v_1216_1",
@@ -19561,8 +19561,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "めし",
     "ruby": "<ruby>飯<rt>めし</rt></ruby>",
     "meaning": "(sl) meals; food",
-    "ex_ja": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What's for dinner?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>飯<rt>めし</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_1221_1",
@@ -19609,8 +19609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "めん",
     "ruby": "<ruby>面<rt>めん</rt></ruby>",
     "meaning": "face; mug; surface; facial features; mask; face guard; side or facet; corner; page",
-    "ex_ja": "<ruby>結構<rt>けっこう</rt></ruby><ruby>面白<rt>おもしろ</rt></ruby>い。",
-    "ex_en": "It's so exciting."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>面<rt>めん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of face from multifaceted perspectives."
   },
   {
     "id": "n3_v_1224_1",
@@ -19641,8 +19641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "めんどう",
     "ruby": "<ruby>面倒<rt>めんどう</rt></ruby>",
     "meaning": "trouble; difficulty; care; attention",
-    "ex_ja": "<ruby>面倒臭<rt>めんどうくさ</rt></ruby>いよ。",
-    "ex_en": "I can't be bothered."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>面倒<rt>めんどう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of trouble from multifaceted perspectives."
   },
   {
     "id": "n3_v_1226_1",
@@ -19673,8 +19673,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もうふ",
     "ruby": "<ruby>毛布<rt>もうふ</rt></ruby>",
     "meaning": "blanket",
-    "ex_ja": "はい、<ruby>毛布<rt>もうふ</rt></ruby>。",
-    "ex_en": "Here is a blanket."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>毛布<rt>もうふ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of blanket from multifaceted perspectives."
   },
   {
     "id": "n3_v_1228_1",
@@ -19833,8 +19833,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もの",
     "ruby": "<ruby>者<rt>もの</rt></ruby>",
     "meaning": "person",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>賢者<rt>けんじゃ</rt></ruby>だ。",
-    "ex_en": "He is a man of wisdom."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>者<rt>もの</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of person from multifaceted perspectives."
   },
   {
     "id": "n3_v_1238_1",
@@ -19865,8 +19865,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もんく",
     "ruby": "<ruby>文句<rt>もんく</rt></ruby>",
     "meaning": "phrase; complaint",
-    "ex_ja": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>うな。",
-    "ex_en": "Don't complain."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of phrase from multifaceted perspectives."
   },
   {
     "id": "n3_v_1240_1",
@@ -19897,8 +19897,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>役<rt>やく</rt></ruby>",
     "meaning": "use; service; role; position",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>服役<rt>ふくえき</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だ。",
-    "ex_en": "I'm in jail."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>役<rt>やく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of use from multifaceted perspectives."
   },
   {
     "id": "n3_v_1242_1",
@@ -19913,8 +19913,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>約<rt>やく</rt></ruby>",
     "meaning": "approximately; about; some",
-    "ex_ja": "<ruby>約束<rt>やくそく</rt></ruby>するよ。",
-    "ex_en": "I give you my word."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>約<rt>やく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of approximately from multifaceted perspectives."
   },
   {
     "id": "n3_v_1243_1",
@@ -19929,8 +19929,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>訳<rt>やく</rt></ruby>",
     "meaning": "meaning; reason; circumstances; can be deduced; situation",
-    "ex_ja": "その<ruby>内訳<rt>うちわけ</rt></ruby>は？",
-    "ex_en": "Give me the details."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>訳<rt>わけ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of meaning from multifaceted perspectives."
   },
   {
     "id": "n3_v_1244_1",
@@ -19945,8 +19945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やちん",
     "ruby": "<ruby>家賃<rt>やちん</rt></ruby>",
     "meaning": "rent",
-    "ex_ja": "<ruby>家賃<rt>やちん</rt></ruby>は<ruby>払<rt>はら</rt></ruby>った？",
-    "ex_en": "Have you paid the rent?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>家賃<rt>やちん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rent from multifaceted perspectives."
   },
   {
     "id": "n3_v_1245_1",
@@ -19961,8 +19961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やっかい",
     "ruby": "<ruby>厄介<rt>やっかい</rt></ruby>",
     "meaning": "trouble; burden; care; bother",
-    "ex_ja": "<ruby>厄介<rt>やっかい</rt></ruby>な<ruby>事<rt>こと</rt></ruby>だ。",
-    "ex_en": "It's a difficult matter."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>厄介<rt>やっかい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of trouble from multifaceted perspectives."
   },
   {
     "id": "n3_v_1246_1",
@@ -19977,8 +19977,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やど",
     "ruby": "<ruby>宿<rt>やど</rt></ruby>",
     "meaning": "inn; lodging",
-    "ex_ja": "<ruby>宿題<rt>しゅくだい</rt></ruby>やった？",
-    "ex_en": "Did you do your homework?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>宿<rt>やど</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of inn from multifaceted perspectives."
   },
   {
     "id": "n3_v_1247_1",
@@ -20041,8 +20041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆうき",
     "ruby": "<ruby>勇気<rt>ゆうき</rt></ruby>",
     "meaning": "courage; bravery; valour; nerve; boldness",
-    "ex_ja": "<ruby>勇気<rt>ゆうき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して。",
-    "ex_en": "Be brave."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>勇気<rt>ゆうき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of courage from multifaceted perspectives."
   },
   {
     "id": "n3_v_1251_1",
@@ -20089,8 +20089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆうしょう",
     "ruby": "<ruby>優勝<rt>ゆうしょう</rt></ruby>",
     "meaning": "overall victory; championship",
-    "ex_ja": "<ruby>優勝<rt>ゆうしょう</rt></ruby>したよ。",
-    "ex_en": "I won first prize."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>優勝<rt>ゆうしょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of overall victory from multifaceted perspectives."
   },
   {
     "id": "n3_v_1254_1",
@@ -20121,8 +20121,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆうじん",
     "ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>",
     "meaning": "friend",
-    "ex_ja": "なんて<ruby>友人<rt>ゆうじん</rt></ruby>だ。",
-    "ex_en": "What a friend you are!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of friend from multifaceted perspectives."
   },
   {
     "id": "n3_v_1256_1",
@@ -20153,8 +20153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆうびん",
     "ruby": "<ruby>郵便<rt>ゆうびん</rt></ruby>",
     "meaning": "mail; postal service",
-    "ex_ja": "<ruby>郵便<rt>ゆうびん</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いた。",
-    "ex_en": "The mail has arrived."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>郵便<rt>ゆうびん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of mail from multifaceted perspectives."
   },
   {
     "id": "n3_v_1258_1",
@@ -20185,8 +20185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆか",
     "ruby": "<ruby>床<rt>ゆか</rt></ruby>",
     "meaning": "floor",
-    "ex_ja": "<ruby>床<rt>ゆか</rt></ruby>に<ruby>伏<rt>ふ</rt></ruby>せろ！",
-    "ex_en": "Get down!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>床<rt>ゆか</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of floor from multifaceted perspectives."
   },
   {
     "id": "n3_v_1260_1",
@@ -20201,8 +20201,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆかい",
     "ruby": "<ruby>愉快<rt>ゆかい</rt></ruby>",
     "meaning": "pleasant; happy",
-    "ex_ja": "<ruby>不愉快<rt>ふゆかい</rt></ruby>です。",
-    "ex_en": "We're not amused."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>愉快<rt>ゆかい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of pleasant from multifaceted perspectives."
   },
   {
     "id": "n3_v_1261_1",
@@ -20265,8 +20265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よ",
     "ruby": "<ruby>夜<rt>よ</rt></ruby>",
     "meaning": "evening; night",
-    "ex_ja": "<ruby>夜<rt>よる</rt></ruby>が<ruby>明<rt>あ</rt></ruby>ける。",
-    "ex_en": "Day breaks."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of evening from multifaceted perspectives."
   },
   {
     "id": "n3_v_1265_1",
@@ -20297,8 +20297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よう",
     "ruby": "<ruby>様<rt>よう</rt></ruby>",
     "meaning": "way; manner; kind",
-    "ex_ja": "お<ruby>気の毒<rt>きのどく</rt></ruby><ruby>様<rt>さま</rt></ruby>。",
-    "ex_en": "I am sorry for you."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>様<rt>さま</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it way and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_1267_1",
@@ -20361,8 +20361,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ようじん",
     "ruby": "<ruby>用心<rt>ようじん</rt></ruby>",
     "meaning": "care; precaution; guarding; caution",
-    "ex_ja": "<ruby>用心<rt>ようじん</rt></ruby>しなさい。",
-    "ex_en": "Take care."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>用心<rt>ようじん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of care from multifaceted perspectives."
   },
   {
     "id": "n3_v_1271_1",
@@ -20441,8 +20441,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ようび",
     "ruby": "<ruby>曜日<rt>ようび</rt></ruby>",
     "meaning": "day of the week",
-    "ex_ja": "<ruby>土曜日<rt>どようび</rt></ruby>だよ。",
-    "ex_en": "It is Saturday."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>曜日<rt>ようび</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of day of the week from multifaceted perspectives."
   },
   {
     "id": "n3_v_1276_1",
@@ -20505,8 +20505,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よなか",
     "ruby": "<ruby>夜中<rt>よなか</rt></ruby>",
     "meaning": "midnight; dead of night",
-    "ex_ja": "もう<ruby>真夜中<rt>まよなか</rt></ruby>だ。",
-    "ex_en": "It's midnight."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>夜中<rt>やちゅう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of midnight from multifaceted perspectives."
   },
   {
     "id": "n3_v_1280_1",
@@ -20585,8 +20585,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よみ",
     "ruby": "<ruby>読み<rt>よみ</rt></ruby>",
     "meaning": "reading",
-    "ex_ja": "<ruby>読<rt>よ</rt></ruby>み<ruby>続<rt>つづ</rt></ruby>けて。",
-    "ex_en": "Keep reading."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>読<rt>よ</rt></ruby>みの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of reading from multifaceted perspectives."
   },
   {
     "id": "n3_v_1285_1",
@@ -20601,8 +20601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よめ",
     "ruby": "<ruby>嫁<rt>よめ</rt></ruby>",
     "meaning": "bride; daughter-in-law",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>が<ruby>嫁<rt>よめ</rt></ruby>だ。",
-    "ex_en": "She's a bride."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>嫁<rt>よめ</rt></ruby>のあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of bride suited to the times are being discussed."
   },
   {
     "id": "n3_v_1286_1",
@@ -20633,8 +20633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よろこび",
     "ruby": "<ruby>喜び<rt>よろこび</rt></ruby>",
     "meaning": "(a) joy; (a) delight; rapture; pleasure; gratification; rejoicing; congratulations; felicitations",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>喜<rt>よろこ</rt></ruby>びだ。",
-    "ex_en": "He's tickled pink."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>喜<rt>よろこ</rt></ruby>びの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_1288_1",
@@ -20649,8 +20649,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "らい",
     "ruby": "<ruby>来<rt>らい</rt></ruby>",
     "meaning": "for (10 days); next (year)",
-    "ex_ja": "<ruby>来<rt>き</rt></ruby>て<ruby>下<rt>くだ</rt></ruby>さい。",
-    "ex_en": "Please come."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>来<rt>き</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of for from multifaceted perspectives."
   },
   {
     "id": "n3_v_1289_1",
@@ -20665,8 +20665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "らく",
     "ruby": "<ruby>楽<rt>らく</rt></ruby>",
     "meaning": "comfort; ease",
-    "ex_ja": "<ruby>道楽<rt>どうらく</rt></ruby>しよう。",
-    "ex_en": "Let's live it up!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>楽<rt>らく</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of comfort from multifaceted perspectives."
   },
   {
     "id": "n3_v_1290_1",
@@ -20697,8 +20697,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りかい",
     "ruby": "<ruby>理解<rt>りかい</rt></ruby>",
     "meaning": "understanding; comprehension",
-    "ex_ja": "<ruby>理解<rt>りかい</rt></ruby>できるよ。",
-    "ex_en": "I can understand it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>理解<rt>りかい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of understanding from multifaceted perspectives."
   },
   {
     "id": "n3_v_1292_1",
@@ -20729,8 +20729,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りこう",
     "ruby": "<ruby>利口<rt>りこう</rt></ruby>",
     "meaning": "clever; shrewd; bright; sharp; wise; intelligent",
-    "ex_ja": "お<ruby>利口<rt>りこう</rt></ruby>さんね。",
-    "ex_en": "You're a good boy."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>利口<rt>りこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of clever from multifaceted perspectives."
   },
   {
     "id": "n3_v_1294_1",
@@ -20745,8 +20745,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りこん",
     "ruby": "<ruby>離婚<rt>りこん</rt></ruby>",
     "meaning": "divorce",
-    "ex_ja": "<ruby>離婚<rt>りこん</rt></ruby>するの？",
-    "ex_en": "Are you getting divorced?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>離婚<rt>りこん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of divorce from multifaceted perspectives."
   },
   {
     "id": "n3_v_1295_1",
@@ -20777,8 +20777,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りっぱ",
     "ruby": "<ruby>立派<rt>りっぱ</rt></ruby>",
     "meaning": "splendid; fine; handsome; elegant; imposing; prominent; legal; legitimate",
-    "ex_ja": "<ruby>立派<rt>りっぱ</rt></ruby>ですね。",
-    "ex_en": "It's magnificent."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>立派<rt>りっぱ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of splendid from multifaceted perspectives."
   },
   {
     "id": "n3_v_1297_1",
@@ -20793,8 +20793,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りつ",
     "ruby": "<ruby>率<rt>りつ</rt></ruby>",
     "meaning": "rate; ratio; proportion; percentage",
-    "ex_ja": "<ruby>軽率<rt>けいそつ</rt></ruby>でした。",
-    "ex_en": "I was careless."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>率<rt>りつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of rate from multifaceted perspectives."
   },
   {
     "id": "n3_v_1298_1",
@@ -20825,8 +20825,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りゅうこう",
     "ruby": "<ruby>流行<rt>りゅうこう</rt></ruby>",
     "meaning": "fashionable; fad; in vogue; prevailing",
-    "ex_ja": "<ruby>流行<rt>りゅうこう</rt></ruby>を<ruby>追<rt>お</rt></ruby>うな。",
-    "ex_en": "Don't follow fashion."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>流行<rt>りゅうこう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fashionable from multifaceted perspectives."
   },
   {
     "id": "n3_v_1300_1",
@@ -20841,8 +20841,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "りょう",
     "ruby": "<ruby>量<rt>りょう</rt></ruby>",
     "meaning": "quantity; amount; volume; portion (of food)",
-    "ex_ja": "<ruby>減量<rt>げんりょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>なの？",
-    "ex_en": "Are you losing weight?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>量<rt>りょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of quantity from multifaceted perspectives."
   },
   {
     "id": "n3_v_1301_1",
@@ -20905,8 +20905,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "れい",
     "ruby": "<ruby>礼<rt>れい</rt></ruby>",
     "meaning": "expression of gratitude",
-    "ex_ja": "どうも<ruby>失礼<rt>しつれい</rt></ruby>。",
-    "ex_en": "I'm sorry."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>礼<rt>れい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of expression of gratitude from multifaceted perspectives."
   },
   {
     "id": "n3_v_1305_1",
@@ -20937,8 +20937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "れいせい",
     "ruby": "<ruby>冷静<rt>れいせい</rt></ruby>",
     "meaning": "calm; composure; coolness; serenity",
-    "ex_ja": "<ruby>冷静<rt>れいせい</rt></ruby>になれ！",
-    "ex_en": "Keep your hair on!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>冷静<rt>れいせい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of calm from multifaceted perspectives."
   },
   {
     "id": "n3_v_1307_1",
@@ -20953,8 +20953,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "れっしゃ",
     "ruby": "<ruby>列車<rt>れっしゃ</rt></ruby>",
     "meaning": "train (ordinary)",
-    "ex_ja": "<ruby>列車<rt>れっしゃ</rt></ruby>が<ruby>来<rt>き</rt></ruby>たよ。",
-    "ex_en": "The train's here."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of train from multifaceted perspectives."
   },
   {
     "id": "n3_v_1308_1",
@@ -20969,8 +20969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "れつ",
     "ruby": "<ruby>列<rt>れつ</rt></ruby>",
     "meaning": "queue; line; row",
-    "ex_ja": "<ruby>参列<rt>さんれつ</rt></ruby>したい。",
-    "ex_en": "I want to attend."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>列<rt>れつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of queue from multifaceted perspectives."
   },
   {
     "id": "n3_v_1309_1",
@@ -21097,8 +21097,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わ",
     "ruby": "<ruby>輪<rt>わ</rt></ruby>",
     "meaning": "ring; hoop; circle",
-    "ex_ja": "<ruby>指輪<rt>ゆびわ</rt></ruby>がない。",
-    "ex_en": "My ring is gone."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>輪<rt>わ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ring from multifaceted perspectives."
   },
   {
     "id": "n3_v_1317_1",
@@ -21129,8 +21129,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わがまま",
     "ruby": "わがまま",
     "meaning": "selfishness; egoism; wilfulness; disobedience; whim",
-    "ex_ja": "わがままね。",
-    "ex_en": "You're selfish."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からわがままの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of selfishness from multifaceted perspectives."
   },
   {
     "id": "n3_v_1319_1",
@@ -21177,8 +21177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わだい",
     "ruby": "<ruby>話題<rt>わだい</rt></ruby>",
     "meaning": "topic; subject",
-    "ex_ja": "<ruby>話題<rt>わだい</rt></ruby><ruby>変<rt>か</rt></ruby>えよう。",
-    "ex_en": "Let's change the topic."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>話題<rt>わだい</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of topic from multifaceted perspectives."
   },
   {
     "id": "n3_v_1322_1",
@@ -21209,8 +21209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "われわれ",
     "ruby": "<ruby>我々<rt>われわれ</rt></ruby>",
     "meaning": "we",
-    "ex_ja": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>人民<rt>じんみん</rt></ruby>だ。",
-    "ex_en": "We are the people."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>我々<rt>われわれ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of we from multifaceted perspectives."
   },
   {
     "id": "n3_v_1324_1",
@@ -21225,8 +21225,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わん",
     "ruby": "<ruby>湾<rt>わん</rt></ruby>",
     "meaning": "bay; gulf; inlet",
-    "ex_ja": "<ruby>台湾<rt>たいわん</rt></ruby>は<ruby>国<rt>くに</rt></ruby>です。",
-    "ex_en": "Taiwan is a country."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>湾<rt>わん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of bay from multifaceted perspectives."
   },
   {
     "id": "n3_v_1325_1",
@@ -21241,8 +21241,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とん",
     "ruby": "とん",
     "meaning": "ton",
-    "ex_ja": "とんでもない！",
-    "ex_en": "No way!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からとんの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ton from multifaceted perspectives."
   },
   {
     "id": "n3_v_1326_1",
@@ -21257,8 +21257,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うん",
     "ruby": "うん",
     "meaning": "fortune; luck",
-    "ex_ja": "うん、<ruby>君<rt>きみ</rt></ruby>は？",
-    "ex_en": "Fine. And you?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からうんの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of fortune from multifaceted perspectives."
   },
   {
     "id": "n3_v_1327_1",
@@ -21273,8 +21273,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しまった",
     "ruby": "しまった",
     "meaning": "Damn it!",
-    "ex_ja": "<ruby>寝<rt>ね</rt></ruby>てしまった。",
-    "ex_en": "I fell asleep."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からしまったの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Damn it! from multifaceted perspectives."
   },
   {
     "id": "n3_v_1328_1",
@@ -21289,8 +21289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すみません",
     "ruby": "すみません",
     "meaning": "sorry; excuse me",
-    "ex_ja": "すみません。",
-    "ex_en": "I'm sorry."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からすみませんの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of sorry from multifaceted perspectives."
   },
   {
     "id": "n3_v_1329_1",
@@ -21305,8 +21305,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ね",
     "ruby": "ね",
     "meaning": "value; price; cost; worth; merit",
-    "ex_ja": "<ruby>連絡<rt>れんらく</rt></ruby>してね。",
-    "ex_en": "Keep in touch."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からねの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of value from multifaceted perspectives."
   },
   {
     "id": "n3_v_1330_1",
@@ -21321,8 +21321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "それ",
     "ruby": "それ",
     "meaning": "it; that",
-    "ex_ja": "<ruby>話<rt>はなし</rt></ruby>がそれた。",
-    "ex_en": "The story wandered."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からそれの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of it from multifaceted perspectives."
   },
   {
     "id": "n3_v_0001_2",
@@ -21401,8 +21401,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あける",
     "ruby": "<ruby>明ける<rt>あける</rt></ruby>",
     "meaning": "to dawn; to become daylight",
-    "ex_ja": "<ruby>夜<rt>よる</rt></ruby>が<ruby>明<rt>あ</rt></ruby>ける。",
-    "ex_en": "Day breaks."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>明<rt>あ</rt></ruby>けるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to dawn from multifaceted perspectives."
   },
   {
     "id": "n3_v_0006_2",
@@ -21609,8 +21609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ありがとう",
     "ruby": "ありがとう",
     "meaning": "(conj; exp; int) Thank you",
-    "ex_ja": "ありがとう！",
-    "ex_en": "Thank you!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からありがとうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0019_2",
@@ -21673,8 +21673,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いくつ",
     "ruby": "<ruby>幾つ<rt>いくつ</rt></ruby>",
     "meaning": "how many?; how old?",
-    "ex_ja": "お<ruby>幾<rt>いく</rt></ruby>つですか？",
-    "ex_en": "How old are you?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>幾<rt>いく</rt></ruby>つの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of how many? from multifaceted perspectives."
   },
   {
     "id": "n3_v_0023_2",
@@ -21897,8 +21897,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うつ",
     "ruby": "<ruby>撃つ<rt>うつ</rt></ruby>",
     "meaning": "to attack; to defeat; to destroy",
-    "ex_ja": "<ruby>動<rt>うご</rt></ruby>くな<ruby>撃<rt>う</rt></ruby>つぞ。",
-    "ex_en": "Don't move, or I'll shoot you."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>撃<rt>う</rt></ruby>つの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to attack from multifaceted perspectives."
   },
   {
     "id": "n3_v_0037_2",
@@ -22041,8 +22041,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おう",
     "ruby": "<ruby>追う<rt>おう</rt></ruby>",
     "meaning": "to chase; to run after",
-    "ex_ja": "<ruby>流行<rt>りゅうこう</rt></ruby>を<ruby>追<rt>お</rt></ruby>うな。",
-    "ex_en": "Don't follow fashion."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>追<rt>お</rt></ruby>うの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to chase from multifaceted perspectives."
   },
   {
     "id": "n3_v_0046_2",
@@ -22217,8 +22217,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おめでとう",
     "ruby": "おめでとう",
     "meaning": "Congratulations!; an auspicious occasion!",
-    "ex_ja": "おめでとう！",
-    "ex_en": "Congratulations!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からおめでとうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Congratulations! from multifaceted perspectives."
   },
   {
     "id": "n3_v_0057_2",
@@ -22409,8 +22409,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かがやく",
     "ruby": "<ruby>輝く<rt>かがやく</rt></ruby>",
     "meaning": "to shine; to glitter; to sparkle",
-    "ex_ja": "<ruby>月<rt>つき</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>に<ruby>輝<rt>かがや</rt></ruby>く。",
-    "ex_en": "The moon shines at night."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>輝<rt>かがや</rt></ruby>くの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to shine from multifaceted perspectives."
   },
   {
     "id": "n3_v_0069_2",
@@ -22489,8 +22489,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かこむ",
     "ruby": "<ruby>囲む<rt>かこむ</rt></ruby>",
     "meaning": "to surround; to encircle",
-    "ex_ja": "<ruby>赤丸<rt>あかまる</rt></ruby>で<ruby>囲<rt>かこ</rt></ruby>む。",
-    "ex_en": "Circle in red pencil."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>囲<rt>かこ</rt></ruby>むの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to surround from multifaceted perspectives."
   },
   {
     "id": "n3_v_0074_2",
@@ -22601,8 +22601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かわいそう",
     "ruby": "かわいそう",
     "meaning": "poor; pitiable; pathetic",
-    "ex_ja": "かわいそうに！",
-    "ex_en": "What a pity!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からかわいそうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of poor from multifaceted perspectives."
   },
   {
     "id": "n3_v_0081_2",
@@ -22633,8 +22633,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんじる",
     "ruby": "<ruby>感じる<rt>かんじる</rt></ruby>",
     "meaning": "to feel; to sense; to experience",
-    "ex_ja": "<ruby>生<rt>なま</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じる。",
-    "ex_en": "I feel alive."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>感<rt>かん</rt></ruby>じるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to feel from multifaceted perspectives."
   },
   {
     "id": "n3_v_0083_2",
@@ -22665,8 +22665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きく",
     "ruby": "<ruby>効く<rt>きく</rt></ruby>",
     "meaning": "to be effective",
-    "ex_ja": "これは<ruby>効<rt>き</rt></ruby>くわ。",
-    "ex_en": "This works."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>効<rt>き</rt></ruby>くの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to be effective from multifaceted perspectives."
   },
   {
     "id": "n3_v_0085_2",
@@ -22953,8 +22953,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こす",
     "ruby": "<ruby>越す<rt>こす</rt></ruby>",
     "meaning": "to go over (e.g. with audience)",
-    "ex_ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>すの？",
-    "ex_en": "Are we moving?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>越<rt>こ</rt></ruby>すの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to go over from multifaceted perspectives."
   },
   {
     "id": "n3_v_0103_2",
@@ -22969,8 +22969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ことなる",
     "ruby": "<ruby>異なる<rt>ことなる</rt></ruby>",
     "meaning": "to differ; to vary; to disagree",
-    "ex_ja": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>異<rt>こと</rt></ruby>なる。",
-    "ex_en": "Tastes differ."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>異<rt>こと</rt></ruby>なるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to differ from multifaceted perspectives."
   },
   {
     "id": "n3_v_0104_2",
@@ -23001,8 +23001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "このむ",
     "ruby": "<ruby>好む<rt>このむ</rt></ruby>",
     "meaning": "to like; to prefer",
-    "ex_ja": "<ruby>英雄<rt>えいゆう</rt></ruby><ruby>色<rt>しょく</rt></ruby>を<ruby>好<rt>この</rt></ruby>む。",
-    "ex_en": "Who loves not women, wine and song remains a fool his whole life long."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>好<rt>この</rt></ruby>むの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to like from multifaceted perspectives."
   },
   {
     "id": "n3_v_0106_2",
@@ -23017,8 +23017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ころす",
     "ruby": "<ruby>殺す<rt>ころす</rt></ruby>",
     "meaning": "to kill",
-    "ex_ja": "<ruby>寸鉄<rt>すんてつ</rt></ruby><ruby>人<rt>じん</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す。",
-    "ex_en": "The tongue stings."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>殺<rt>ころ</rt></ruby>すの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to kill from multifaceted perspectives."
   },
   {
     "id": "n3_v_0107_2",
@@ -23049,8 +23049,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さからう",
     "ruby": "<ruby>逆らう<rt>さからう</rt></ruby>",
     "meaning": "to go against; to oppose; to disobey; to defy",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>に<ruby>逆<rt>さか</rt></ruby>らうな。",
-    "ex_en": "Don't oppose him."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>逆<rt>さか</rt></ruby>らうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to go against from multifaceted perspectives."
   },
   {
     "id": "n3_v_0109_2",
@@ -23177,8 +23177,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さる",
     "ruby": "<ruby>去る<rt>さる</rt></ruby>",
     "meaning": "to leave; to go away",
-    "ex_ja": "<ruby>時<rt>とき</rt></ruby>は<ruby>飛<rt>と</rt></ruby>び<ruby>去<rt>さ</rt></ruby>る。",
-    "ex_en": "Time flies."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>去<rt>さ</rt></ruby>る<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it to leave and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0117_2",
@@ -23209,8 +23209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しずむ",
     "ruby": "<ruby>沈む<rt>しずむ</rt></ruby>",
     "meaning": "to sink; to feel depressed",
-    "ex_ja": "<ruby>日<rt>ひ</rt></ruby>は<ruby>西<rt>にし</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>む。",
-    "ex_en": "The sun sets in the west."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>沈<rt>しず</rt></ruby>むの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to sink from multifaceted perspectives."
   },
   {
     "id": "n3_v_0119_2",
@@ -23321,8 +23321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しんじる",
     "ruby": "<ruby>信じる<rt>しんじる</rt></ruby>",
     "meaning": "to believe; to place trust in",
-    "ex_ja": "<ruby>信<rt>しん</rt></ruby>じるとこよ。",
-    "ex_en": "I almost believe you."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>信<rt>しん</rt></ruby>じるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to believe from multifaceted perspectives."
   },
   {
     "id": "n3_v_0126_2",
@@ -23497,8 +23497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "そう",
     "ruby": "そう",
     "meaning": "so",
-    "ex_ja": "<ruby>本当<rt>ほんとう</rt></ruby>にそう。",
-    "ex_en": "You can't be so sure."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からそうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of so from multifaceted perspectives."
   },
   {
     "id": "n3_v_0137_2",
@@ -23609,8 +23609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たたかう",
     "ruby": "<ruby>戦う<rt>たたかう</rt></ruby>",
     "meaning": "to fight; to battle; to combat",
-    "ex_ja": "<ruby>戦士<rt>せんし</rt></ruby>が<ruby>戦<rt>たたか</rt></ruby>う。",
-    "ex_en": "Warriors fight."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>戦<rt>たたか</rt></ruby>うの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to fight from multifaceted perspectives."
   },
   {
     "id": "n3_v_0144_2",
@@ -23705,8 +23705,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ためす",
     "ruby": "<ruby>試す<rt>ためす</rt></ruby>",
     "meaning": "to attempt; to test",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby>試<rt>ため</rt></ruby>す。",
-    "ex_en": "He tries."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>試<rt>ため</rt></ruby>すの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to attempt from multifaceted perspectives."
   },
   {
     "id": "n3_v_0150_2",
@@ -23721,8 +23721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たよる",
     "ruby": "<ruby>頼る<rt>たよる</rt></ruby>",
     "meaning": "to rely on; to have recourse to; to depend on",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>るな。",
-    "ex_en": "Don't rely on him."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>頼<rt>たよ</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to rely on from multifaceted perspectives."
   },
   {
     "id": "n3_v_0151_2",
@@ -23961,8 +23961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とける",
     "ruby": "<ruby>解ける<rt>とける</rt></ruby>",
     "meaning": "to come untied; to come apart",
-    "ex_ja": "それ<ruby>解<rt>と</rt></ruby>ける？",
-    "ex_en": "Can you solve it?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>解<rt>と</rt></ruby>けるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to come untied from multifaceted perspectives."
   },
   {
     "id": "n3_v_0166_2",
@@ -24009,8 +24009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とにかく",
     "ruby": "とにかく",
     "meaning": "anyhow; at any rate; anyway; somehow or other; generally speaking; in any case",
-    "ex_ja": "とにかく<ruby>急<rt>いそ</rt></ruby>げ。",
-    "ex_en": "Just hurry up."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、とにかく<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it anyhow and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0169_2",
@@ -24185,8 +24185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "なる",
     "ruby": "<ruby>成る<rt>なる</rt></ruby>",
     "meaning": "to become",
-    "ex_ja": "<ruby>成<rt>な</rt></ruby>せば<ruby>成<rt>な</rt></ruby>る。",
-    "ex_en": "Where there's a will, there's a way."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>成<rt>な</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to become from multifaceted perspectives."
   },
   {
     "id": "n3_v_0180_2",
@@ -24201,8 +24201,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "にあう",
     "ruby": "<ruby>似合う<rt>にあう</rt></ruby>",
     "meaning": "to suit; to match; to become; to be like",
-    "ex_ja": "<ruby>黒<rt>くろ</rt></ruby>が<ruby>似合<rt>にあ</rt></ruby>うね。",
-    "ex_en": "You look good in black."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>似合<rt>にあ</rt></ruby>うの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to suit from multifaceted perspectives."
   },
   {
     "id": "n3_v_0181_2",
@@ -24521,8 +24521,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はなす",
     "ruby": "<ruby>離す<rt>はなす</rt></ruby>",
     "meaning": "to part; divide; separate",
-    "ex_ja": "<ruby>手<rt>て</rt></ruby>を<ruby>離<rt>はな</rt></ruby>すなよ。",
-    "ex_en": "Don't let go."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>離<rt>はな</rt></ruby>すの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to part from multifaceted perspectives."
   },
   {
     "id": "n3_v_0201_2",
@@ -24569,8 +24569,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はる",
     "ruby": "<ruby>張る<rt>はる</rt></ruby>",
     "meaning": "to stick; to paste",
-    "ex_ja": "<ruby>引っ張<rt>ひっぱ</rt></ruby>るぞ。",
-    "ex_en": "We're going to pull it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>張<rt>は</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to stick from multifaceted perspectives."
   },
   {
     "id": "n3_v_0204_2",
@@ -24617,8 +24617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひっぱる",
     "ruby": "<ruby>引っ張る<rt>ひっぱる</rt></ruby>",
     "meaning": "(1) to pull; to draw; to stretch; to drag; (2) to pull the ball (baseball)",
-    "ex_ja": "<ruby>引っ張<rt>ひっぱ</rt></ruby>るぞ。",
-    "ex_en": "We're going to pull it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>引っ張<rt>ひっぱ</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0207_2",
@@ -24681,8 +24681,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふるえる",
     "ruby": "<ruby>震える<rt>ふるえる</rt></ruby>",
     "meaning": "to shiver; to shake; to quake",
-    "ex_ja": "<ruby>心<rt>こころ</rt></ruby>が<ruby>震<rt>ふる</rt></ruby>える。",
-    "ex_en": "My heart is trembling."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>震<rt>ふる</rt></ruby>えるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to shiver from multifaceted perspectives."
   },
   {
     "id": "n3_v_0211_2",
@@ -24697,8 +24697,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ふれる",
     "ruby": "<ruby>触れる<rt>ふれる</rt></ruby>",
     "meaning": "to touch; to be touched; to touch on a subject; to feel; to violate (law; copyright; etc.); to perceive; t",
-    "ex_ja": "<ruby>手<rt>て</rt></ruby>を<ruby>触<rt>ふ</rt></ruby>れるな。",
-    "ex_en": "Don't touch."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>触<rt>ふ</rt></ruby>れるのあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of to touch suited to the times are being discussed."
   },
   {
     "id": "n3_v_0212_2",
@@ -24809,8 +24809,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まかせる",
     "ruby": "<ruby>任せる<rt>まかせる</rt></ruby>",
     "meaning": "to entrust to another; to leave to",
-    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せるよ。",
-    "ex_en": "I'll let you decide."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>任<rt>まか</rt></ruby>せるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to entrust to another from multifaceted perspectives."
   },
   {
     "id": "n3_v_0219_2",
@@ -24857,8 +24857,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まったく",
     "ruby": "<ruby>全く<rt>まったく</rt></ruby>",
     "meaning": "really; truly; entirely; completely",
-    "ex_ja": "<ruby>全<rt>まった</rt></ruby>くですね。",
-    "ex_en": "You're quite right."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>全<rt>まった</rt></ruby>くの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of really from multifaceted perspectives."
   },
   {
     "id": "n3_v_0222_2",
@@ -24937,8 +24937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まもる",
     "ruby": "<ruby>守る<rt>まもる</rt></ruby>",
     "meaning": "to protect; to obey; to guard; to abide (by the rules)",
-    "ex_ja": "<ruby>約束<rt>やくそく</rt></ruby>は<ruby>守<rt>まも</rt></ruby>るよ。",
-    "ex_en": "I keep my word."
+    "ex_ja": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>急速<rt>きゅうそく</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するため、<ruby>時代<rt>じだい</rt></ruby>に<ruby>即<rt>そく</rt></ruby>した<ruby>新<rt>あら</rt></ruby>たな<ruby>守<rt>まも</rt></ruby>るのあり<ruby>方<rt>かた</rt></ruby>が<ruby>議論<rt>ぎろん</rt></ruby>されている。",
+    "ex_en": "To respond to rapid social changes, new ways of to protect suited to the times are being discussed."
   },
   {
     "id": "n3_v_0227_2",
@@ -25001,8 +25001,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みとめる",
     "ruby": "<ruby>認める<rt>みとめる</rt></ruby>",
     "meaning": "to recognize; to appreciate; to approve; to admit; to notice",
-    "ex_ja": "それは<ruby>認<rt>みと</rt></ruby>める。",
-    "ex_en": "I admit it."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>認<rt>みと</rt></ruby>めるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to recognize from multifaceted perspectives."
   },
   {
     "id": "n3_v_0231_2",
@@ -25017,8 +25017,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みる",
     "ruby": "<ruby>見る<rt>みる</rt></ruby>",
     "meaning": "to see; to watch",
-    "ex_ja": "アニメ<ruby>見<rt>み</rt></ruby>る？",
-    "ex_en": "Do you watch anime?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>見<rt>み</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to see from multifaceted perspectives."
   },
   {
     "id": "n3_v_0232_2",
@@ -25113,8 +25113,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もえる",
     "ruby": "<ruby>燃える<rt>もえる</rt></ruby>",
     "meaning": "to burn",
-    "ex_ja": "<ruby>木<rt>き</rt></ruby>が<ruby>燃<rt>も</rt></ruby>える。",
-    "ex_en": "Wood burns."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>燃<rt>も</rt></ruby>えるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to burn from multifaceted perspectives."
   },
   {
     "id": "n3_v_0238_2",
@@ -25273,8 +25273,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆう",
     "ruby": "<ruby>言う<rt>ゆう</rt></ruby>",
     "meaning": "to say",
-    "ex_ja": "よく<ruby>言<rt>い</rt></ruby>うよ。",
-    "ex_en": "Don't make me laugh."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>言<rt>い</rt></ruby>うの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to say from multifaceted perspectives."
   },
   {
     "id": "n3_v_0248_2",
@@ -25401,8 +25401,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わる",
     "ruby": "<ruby>割る<rt>わる</rt></ruby>",
     "meaning": "to divide; to cut; to break; to halve",
-    "ex_ja": "<ruby>鏡<rt>かがみ</rt></ruby>を<ruby>割<rt>われ</rt></ruby>るな。",
-    "ex_en": "Never break a mirror."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>から<ruby>割<rt>われ</rt></ruby>るの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to divide from multifaceted perspectives."
   },
   {
     "id": "n3_v_0256_2",
@@ -25417,8 +25417,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "できる",
     "ruby": "できる",
     "meaning": "to be able to; to be ready; to occur",
-    "ex_ja": "それできる？",
-    "ex_en": "Can you do that?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からできるの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of to be able to from multifaceted perspectives."
   },
   {
     "id": "n3_v_0257_2",
@@ -25433,8 +25433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よろしく",
     "ruby": "よろしく",
     "meaning": "well; properly; suitably; best regards; please remember me",
-    "ex_ja": "よろしくね！",
-    "ex_en": "It's nice to meet you!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からよろしくの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of well from multifaceted perspectives."
   },
   {
     "id": "n3_v_0258_2",
@@ -25449,8 +25449,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どう",
     "ruby": "どう",
     "meaning": "child; servant; foolishness",
-    "ex_ja": "<ruby>是非<rt>ぜひ</rt></ruby>どうぞ。",
-    "ex_en": "By all means."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からどうの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of child from multifaceted perspectives."
   },
   {
     "id": "n3_v_0259_2",
@@ -25481,8 +25481,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あたたかい",
     "ruby": "<ruby>暖かい<rt>あたたかい</rt></ruby>",
     "meaning": "warm; mild",
-    "ex_ja": "<ruby>懐<rt>ふところ</rt></ruby>が<ruby>暖<rt>あたた</rt></ruby>かい。",
-    "ex_en": "I have plenty of money with me."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>暖<rt>あたた</rt></ruby>かい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a warm perspective."
   },
   {
     "id": "n3_v_0002_3",
@@ -25513,8 +25513,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いい",
     "ruby": "いい",
     "meaning": "good",
-    "ex_ja": "<ruby>運<rt>うん</rt></ruby>がいいね。",
-    "ex_en": "It's a godsend."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、いい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a good perspective."
   },
   {
     "id": "n3_v_0004_3",
@@ -25545,8 +25545,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いらっしゃい",
     "ruby": "いらっしゃい",
     "meaning": "welcome",
-    "ex_ja": "いらっしゃい。",
-    "ex_en": "Welcome."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、いらっしゃい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a welcome perspective."
   },
   {
     "id": "n3_v_0006_3",
@@ -25593,8 +25593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うまい",
     "ruby": "うまい",
     "meaning": "delicious",
-    "ex_ja": "<ruby>料理<rt>りょうり</rt></ruby>うまいね。",
-    "ex_en": "You are a good cook, aren't you?"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、うまい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a delicious perspective."
   },
   {
     "id": "n3_v_0009_3",
@@ -25625,8 +25625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うれしい",
     "ruby": "<ruby>嬉しい<rt>うれしい</rt></ruby>",
     "meaning": "happy; glad; pleasant",
-    "ex_ja": "ああ<ruby>嬉<rt>うれ</rt></ruby>しい。",
-    "ex_en": "How glad I am!"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a happy perspective."
   },
   {
     "id": "n3_v_0011_3",
@@ -25641,8 +25641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おい",
     "ruby": "<ruby>老い<rt>おい</rt></ruby>",
     "meaning": "old age; old person; the old; the aged",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>年老<rt>としお</rt></ruby>いた。",
-    "ex_en": "He grew old."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>老<rt>お</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a old age perspective."
   },
   {
     "id": "n3_v_0012_3",
@@ -25705,8 +25705,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かしこい",
     "ruby": "<ruby>賢い<rt>かしこい</rt></ruby>",
     "meaning": "wise; clever; smart",
-    "ex_ja": "トムは<ruby>賢<rt>かしこ</rt></ruby>い。",
-    "ex_en": "Tom is smart."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>賢<rt>かしこ</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a wise perspective."
   },
   {
     "id": "n3_v_0016_3",
@@ -25721,8 +25721,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かたい",
     "ruby": "<ruby>硬い<rt>かたい</rt></ruby>",
     "meaning": "solid; hard (esp. metal; stone); unpolished writing",
-    "ex_ja": "<ruby>体<rt>からだ</rt></ruby>が<ruby>硬<rt>かた</rt></ruby>いね。",
-    "ex_en": "Your body is stiff."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>硬<rt>かた</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a solid perspective."
   },
   {
     "id": "n3_v_0017_3",
@@ -25769,8 +25769,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くさい",
     "ruby": "<ruby>臭い<rt>くさい</rt></ruby>",
     "meaning": "odour; scent; smell; stench",
-    "ex_ja": "<ruby>面倒臭<rt>めんどうくさ</rt></ruby>いよ。",
-    "ex_en": "I can't be bothered."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>臭<rt>くさ</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a odour perspective."
   },
   {
     "id": "n3_v_0020_3",
@@ -25785,8 +25785,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くるしい",
     "ruby": "<ruby>苦しい<rt>くるしい</rt></ruby>",
     "meaning": "painful; difficult",
-    "ex_ja": "<ruby>息苦<rt>いきぐる</rt></ruby>しいです。",
-    "ex_en": "It's hard to breathe."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>苦<rt>くる</rt></ruby>しい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a painful perspective."
   },
   {
     "id": "n3_v_0021_3",
@@ -25801,8 +25801,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くわしい",
     "ruby": "<ruby>詳しい<rt>くわしい</rt></ruby>",
     "meaning": "knowing very well; detailed; full; accurate",
-    "ex_ja": "<ruby>手話<rt>しゅわ</rt></ruby>に<ruby>詳<rt>くわ</rt></ruby>しい？",
-    "ex_en": "Are you familiar with sign language?"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>詳<rt>くわ</rt></ruby>しい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a knowing very well perspective."
   },
   {
     "id": "n3_v_0022_3",
@@ -25881,8 +25881,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すごい",
     "ruby": "すごい",
     "meaning": "terrible; dreadful; terrific; amazing; great",
-    "ex_ja": "すごい<ruby>花火<rt>はなび</rt></ruby>だ！",
-    "ex_en": "These fireworks are spectacular!"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、すごい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a terrible perspective."
   },
   {
     "id": "n3_v_0027_3",
@@ -25897,8 +25897,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すばらしい",
     "ruby": "<ruby>素晴らしい<rt>すばらしい</rt></ruby>",
     "meaning": "wonderful; splendid; magnificent",
-    "ex_ja": "<ruby>素晴<rt>すば</rt></ruby>らしい。",
-    "ex_en": "Ah, wonderful."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a wonderful perspective."
   },
   {
     "id": "n3_v_0028_3",
@@ -25913,8 +25913,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "するどい",
     "ruby": "<ruby>鋭い<rt>するどい</rt></ruby>",
     "meaning": "pointed; sharp",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>鋭<rt>するど</rt></ruby>い。",
-    "ex_en": "He has sharp hearing."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>鋭<rt>するど</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a pointed perspective."
   },
   {
     "id": "n3_v_0029_3",
@@ -25945,8 +25945,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たたかい",
     "ruby": "<ruby>戦い<rt>たたかい</rt></ruby>",
     "meaning": "battle; fight; struggle; conflict",
-    "ex_ja": "<ruby>戦<rt>たたか</rt></ruby>いに<ruby>勝<rt>か</rt></ruby>つ。",
-    "ex_en": "We will win the day."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>戦<rt>たたか</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a battle perspective."
   },
   {
     "id": "n3_v_0031_3",
@@ -25961,8 +25961,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちがい",
     "ruby": "<ruby>違い<rt>ちがい</rt></ruby>",
     "meaning": "difference; discrepancy",
-    "ex_ja": "<ruby>間違<rt>まちが</rt></ruby>いない！",
-    "ex_en": "I'm absolutely sure!"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>違<rt>ちが</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a difference perspective."
   },
   {
     "id": "n3_v_0032_3",
@@ -25977,8 +25977,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちょうだい",
     "ruby": "ちょうだい",
     "meaning": "(1) please do for me (preceded by -te); (2) reception; being given; get",
-    "ex_ja": "<ruby>飴<rt>あめ</rt></ruby>ちょうだい。",
-    "ex_en": "I want some candy."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、ちょうだい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a  perspective."
   },
   {
     "id": "n3_v_0033_3",
@@ -26009,8 +26009,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "つらい",
     "ruby": "<ruby>辛い<rt>つらい</rt></ruby>",
     "meaning": "painful; heart-breaking",
-    "ex_ja": "<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>は<ruby>辛<rt>つら</rt></ruby>い。",
-    "ex_en": "Hay fever is tough."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>辛<rt>つら</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a painful perspective."
   },
   {
     "id": "n3_v_0035_3",
@@ -26025,8 +26025,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "てつだい",
     "ruby": "<ruby>手伝い<rt>てつだい</rt></ruby>",
     "meaning": "help; helper; assistant",
-    "ex_ja": "<ruby>手伝<rt>てつだ</rt></ruby>いますね。",
-    "ex_en": "We'll help you."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>手伝<rt>てつだ</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a help perspective."
   },
   {
     "id": "n3_v_0036_3",
@@ -26073,8 +26073,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どんな",
     "ruby": "どんな",
     "meaning": "what; what kind of",
-    "ex_ja": "どんな<ruby>方<rt>ほう</rt></ruby>なの？",
-    "ex_en": "What is she like?"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、どんな<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a what perspective."
   },
   {
     "id": "n3_v_0039_3",
@@ -26089,8 +26089,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "におい",
     "ruby": "<ruby>匂い<rt>におい</rt></ruby>",
     "meaning": "odour; scent; smell; stench",
-    "ex_ja": "いい<ruby>匂<rt>にお</rt></ruby>いね。",
-    "ex_en": "That smells really good."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>匂<rt>にお</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a odour perspective."
   },
   {
     "id": "n3_v_0040_3",
@@ -26105,8 +26105,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ねがい",
     "ruby": "<ruby>願い<rt>ねがい</rt></ruby>",
     "meaning": "desire; wish; request",
-    "ex_ja": "<ruby>星<rt>ほし</rt></ruby>に<ruby>願<rt>ねが</rt></ruby>いを。",
-    "ex_en": "Let me wish upon a shooting star."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>願<rt>ねが</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a desire perspective."
   },
   {
     "id": "n3_v_0041_3",
@@ -26153,8 +26153,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まずしい",
     "ruby": "<ruby>貧しい<rt>まずしい</rt></ruby>",
     "meaning": "poor; needy",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>貧<rt>まず</rt></ruby>しい。",
-    "ex_en": "He is poor."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>貧<rt>まず</rt></ruby>しい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a poor perspective."
   },
   {
     "id": "n3_v_0044_3",
@@ -26169,8 +26169,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まちがい",
     "ruby": "<ruby>間違い<rt>まちがい</rt></ruby>",
     "meaning": "mistake",
-    "ex_ja": "<ruby>間違<rt>まちが</rt></ruby>いない！",
-    "ex_en": "I'm absolutely sure!"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>間違<rt>まちが</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a mistake perspective."
   },
   {
     "id": "n3_v_0045_3",
@@ -26185,8 +26185,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まるい",
     "ruby": "<ruby>丸い<rt>まるい</rt></ruby>",
     "meaning": "round; circular; spherical",
-    "ex_ja": "<ruby>地球<rt>ちきゅう</rt></ruby>は<ruby>丸<rt>まる</rt></ruby>い。",
-    "ex_en": "The earth is round."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>丸<rt>まる</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a round perspective."
   },
   {
     "id": "n3_v_0046_3",
@@ -26233,8 +26233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よい",
     "ruby": "よい",
     "meaning": "good; nice; pleasant; ok",
-    "ex_ja": "<ruby>気分<rt>きぶん</rt></ruby>がよい。",
-    "ex_en": "I'm feeling fine now."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、よい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a good perspective."
   },
   {
     "id": "n3_v_0049_3",
@@ -26265,8 +26265,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "わらい",
     "ruby": "<ruby>笑い<rt>わらい</rt></ruby>",
     "meaning": "laugh; laughter; smile",
-    "ex_ja": "<ruby>笑<rt>わら</rt></ruby>いは<ruby>移<rt>うつ</rt></ruby>る。",
-    "ex_en": "Laughter is infectious."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、<ruby>笑<rt>わら</rt></ruby>い<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a laugh perspective."
   },
   {
     "id": "n3_v_0051_3",
@@ -26281,8 +26281,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はい",
     "ruby": "はい",
     "meaning": "wear; put on (sword)",
-    "ex_ja": "はいどうぞ。",
-    "ex_en": "Here it is."
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、はい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a wear perspective."
   },
   {
     "id": "n3_v_0052_3",
@@ -26297,8 +26297,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しまい",
     "ruby": "しまい",
     "meaning": "sisters",
-    "ex_ja": "もうおしまい？",
-    "ex_en": "Is it over yet?"
+    "ex_ja": "<ruby>多<rt>おお</rt></ruby>くの<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>しながら、しまい<ruby>視点<rt>してん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>していく。",
+    "ex_en": "While cooperating with many parties, we will make careful judgments with a sisters perspective."
   },
   {
     "id": "n3_v_0001_4",
@@ -26377,8 +26377,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あと",
     "ruby": "あと",
     "meaning": "(1) trace; tracks; (2) remains; ruins; (3) scar",
-    "ex_ja": "あと<ruby>一息<rt>ひといき</rt></ruby>だ。",
-    "ex_en": "We're almost there."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、あと<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it  and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0006_4",
@@ -26425,8 +26425,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "あやまり",
     "ruby": "<ruby>誤り<rt>あやまり</rt></ruby>",
     "meaning": "error",
-    "ex_ja": "<ruby>誤<rt>あやま</rt></ruby>りを<ruby>直<rt>なお</rt></ruby>せ。",
-    "ex_en": "Correct errors."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>誤<rt>あやま</rt></ruby>り<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it error and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0009_4",
@@ -26505,8 +26505,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おわり",
     "ruby": "<ruby>終<rt>おわり</rt></ruby>",
     "meaning": "the end",
-    "ex_ja": "<ruby>終<rt>お</rt></ruby>わったの？",
-    "ex_en": "Are you finished?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>終<rt>おわり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it the end and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0014_4",
@@ -26537,8 +26537,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かかり",
     "ruby": "<ruby>係<rt>かかり</rt></ruby>",
     "meaning": "official; duty; person in charge",
-    "ex_ja": "<ruby>無関係<rt>むかんけい</rt></ruby>です。",
-    "ex_en": "It is nothing to me."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>係<rt>かかり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it official and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0016_4",
@@ -26553,8 +26553,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かなり",
     "ruby": "かなり",
     "meaning": "considerably; fairly; quite",
-    "ex_ja": "かなり<ruby>寒<rt>さむ</rt></ruby>い。",
-    "ex_en": "It's pretty cold."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、かなり<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it considerably and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0017_4",
@@ -26569,8 +26569,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かみなり",
     "ruby": "<ruby>雷<rt>かみなり</rt></ruby>",
     "meaning": "thunder",
-    "ex_ja": "<ruby>避雷針<rt>ひらいしん</rt></ruby>って<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What's a lightning rod?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>雷<rt>かみなり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it thunder and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0018_4",
@@ -26601,8 +26601,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんり",
     "ruby": "<ruby>管理<rt>かんり</rt></ruby>",
     "meaning": "control; management (e.g. of a business)",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>管理<rt>かんり</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-    "ex_en": "I'm an admin."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>管理<rt>かんり</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting control."
   },
   {
     "id": "n3_v_0020_4",
@@ -26617,8 +26617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "がっかり",
     "ruby": "がっかり",
     "meaning": "feel disappointed; be dejected; lose heart",
-    "ex_ja": "がっかりだよ。",
-    "ex_en": "I'm disappointed."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、がっかり<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it feel disappointed and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0021_4",
@@ -26665,8 +26665,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きり",
     "ruby": "<ruby>霧<rt>きり</rt></ruby>",
     "meaning": "fog; mist",
-    "ex_ja": "<ruby>霧<rt>きり</rt></ruby>がはれた。",
-    "ex_en": "The fog has lifted."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>霧<rt>きり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it fog and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0024_4",
@@ -26681,8 +26681,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くさり",
     "ruby": "<ruby>鎖<rt>くさり</rt></ruby>",
     "meaning": "chain",
-    "ex_ja": "<ruby>道<rt>みち</rt></ruby>は<ruby>閉鎖<rt>へいさ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だ。",
-    "ex_en": "The road is closed."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>鎖<rt>くさり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it chain and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0025_4",
@@ -26697,8 +26697,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くだり",
     "ruby": "<ruby>下り<rt>くだり</rt></ruby>",
     "meaning": "down-train (going away from Tokyo)",
-    "ex_ja": "<ruby>幕<rt>まく</rt></ruby>が<ruby>下<rt>お</rt></ruby>りた。",
-    "ex_en": "The curtain fell."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>下<rt>くだ</rt></ruby>り<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it down-train and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0026_4",
@@ -26713,8 +26713,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くもり",
     "ruby": "<ruby>曇<rt>くもり</rt></ruby>",
     "meaning": "cloudiness; cloudy weather; shadow",
-    "ex_ja": "<ruby>曇<rt>くも</rt></ruby>ってきた。",
-    "ex_en": "It's getting cloudy."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>曇<rt>くもり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it cloudiness and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0027_4",
@@ -26745,8 +26745,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "けむり",
     "ruby": "<ruby>煙<rt>けむり</rt></ruby>",
     "meaning": "smoke; fumes",
-    "ex_ja": "<ruby>煙<rt>けむり</rt></ruby>でむせた。",
-    "ex_en": "I was choked by smoke."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>煙<rt>けむり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it smoke and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0029_4",
@@ -26793,8 +26793,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こおり",
     "ruby": "<ruby>氷<rt>こおり</rt></ruby>",
     "meaning": "ice; hail",
-    "ex_ja": "<ruby>氷<rt>こおり</rt></ruby>は<ruby>入<rt>い</rt></ruby>れる？",
-    "ex_en": "Would you like ice?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>氷<rt>こおり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it ice and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0032_4",
@@ -26809,8 +26809,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こと",
     "ruby": "<ruby>事<rt>こと</rt></ruby>",
     "meaning": "thing; matter; fact; circumstances",
-    "ex_ja": "<ruby>厄介<rt>やっかい</rt></ruby>な<ruby>事<rt>こと</rt></ruby>だ。",
-    "ex_en": "It's a difficult matter."
+    "ex_ja": "<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>るため、チーム<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>事<rt>こと</rt></ruby>を<ruby>積極<rt>せっきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_en": "To streamline operations and enhance quality, the entire team is actively promoting thing."
   },
   {
     "id": "n3_v_0033_4",
@@ -26889,8 +26889,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しゅうり",
     "ruby": "<ruby>修理<rt>しゅうり</rt></ruby>",
     "meaning": "repairing; mending",
-    "ex_ja": "<ruby>修理<rt>しゅうり</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。",
-    "ex_en": "I think it needs a tune-up."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>修理<rt>しゅうり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it repairing and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0038_4",
@@ -26937,8 +26937,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しり",
     "ruby": "<ruby>尻<rt>しり</rt></ruby>",
     "meaning": "buttocks; bottom",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>尻<rt>しり</rt></ruby>が<ruby>重<rt>おも</rt></ruby>い。",
-    "ex_en": "He is lazy."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>尻<rt>しり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it buttocks and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0041_4",
@@ -26969,8 +26969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じっと",
     "ruby": "じっと",
     "meaning": "fixedly; firmly; patiently; quietly",
-    "ex_ja": "じっとして！",
-    "ex_en": "Hold it!"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、じっと<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it fixedly and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0043_4",
@@ -27081,8 +27081,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たいへん",
     "ruby": "<ruby>大変<rt>たいへん</rt></ruby>",
     "meaning": "awful; dreadful; terrible; very",
-    "ex_ja": "<ruby>大変<rt>たいへん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れた。",
-    "ex_en": "I'm exhausted."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>大変<rt>たいへん</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it awful and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0050_4",
@@ -27209,8 +27209,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "とおり",
     "ruby": "<ruby>通り<rt>とおり</rt></ruby>",
     "meaning": "in accordance with ~; following ~; ~ Street; ~ Avenue",
-    "ex_ja": "<ruby>通<rt>とお</rt></ruby>りを<ruby>渡<rt>わた</rt></ruby>れ。",
-    "ex_en": "Cross the street."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>通<rt>とお</rt></ruby>り<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it in accordance with ~ and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0058_4",
@@ -27305,8 +27305,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "はり",
     "ruby": "<ruby>針<rt>はり</rt></ruby>",
     "meaning": "needle; hand (e.g. clock)",
-    "ex_ja": "<ruby>避雷針<rt>ひらいしん</rt></ruby>って<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What's a lightning rod?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>針<rt>はり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it needle and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0064_4",
@@ -27337,8 +27337,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひとこと",
     "ruby": "<ruby>一言<rt>ひとこと</rt></ruby>",
     "meaning": "single word",
-    "ex_ja": "<ruby>一言<rt>ひとこと</rt></ruby><ruby>言<rt>い</rt></ruby>いたい。",
-    "ex_en": "Let me say."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>一言<rt>ひとこと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it single word and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0066_4",
@@ -27353,8 +27353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひとり",
     "ruby": "<ruby>独り<rt>ひとり</rt></ruby>",
     "meaning": "alone; unmarried",
-    "ex_ja": "<ruby>独り身<rt>ひとりみ</rt></ruby>だよね？",
-    "ex_en": "You're single, aren't you?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>独<rt>ひと</rt></ruby>り<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it alone and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0067_4",
@@ -27385,8 +27385,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "びっくり",
     "ruby": "びっくり",
     "meaning": "be surprised; be amazed; be frightened; astonishment",
-    "ex_ja": "びっくりだ。",
-    "ex_en": "It's a surprise."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、びっくり<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it be surprised and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0069_4",
@@ -27433,8 +27433,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ぶつり",
     "ruby": "<ruby>物理<rt>ぶつり</rt></ruby>",
     "meaning": "physics",
-    "ex_ja": "<ruby>物理<rt>ぶつり</rt></ruby>って<ruby>得意<rt>とくい</rt></ruby>？",
-    "ex_en": "Are you good at physics?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>物理<rt>ぶつり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it physics and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0072_4",
@@ -27497,8 +27497,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ほんと",
     "ruby": "<ruby>本当<rt>ほんと</rt></ruby>",
     "meaning": "truth; reality",
-    "ex_ja": "<ruby>本当<rt>ほんとう</rt></ruby>にそう。",
-    "ex_en": "You can't be so sure."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>本当<rt>ほんとう</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it truth and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0076_4",
@@ -27529,8 +27529,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "まつり",
     "ruby": "<ruby>祭<rt>まつり</rt></ruby>",
     "meaning": "festival; feast",
-    "ex_ja": "<ruby>祭<rt>まつり</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった。",
-    "ex_en": "The festival came to an end."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>祭<rt>まつり</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it festival and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0078_4",
@@ -27577,8 +27577,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "みごと",
     "ruby": "<ruby>見事<rt>みごと</rt></ruby>",
     "meaning": "splendid; magnificent; beautiful; admirable",
-    "ex_ja": "<ruby>見事<rt>みごと</rt></ruby>な<ruby>景色<rt>けしき</rt></ruby>だ。",
-    "ex_en": "The view is breathtaking."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>見事<rt>みごと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it splendid and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0081_4",
@@ -27593,8 +27593,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もと",
     "ruby": "<ruby>元<rt>もと</rt></ruby>",
     "meaning": "(1) origin; original; (2) former",
-    "ex_ja": "<ruby>元気<rt>げんき</rt></ruby><ruby>出<rt>だ</rt></ruby>して。",
-    "ex_en": "Cheer up!"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>元<rt>もと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it  and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0082_4",
@@ -27609,8 +27609,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もと",
     "ruby": "<ruby>基<rt>もと</rt></ruby>",
     "meaning": "basis",
-    "ex_ja": "<ruby>基本<rt>きほん</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>よ。",
-    "ex_en": "Fundamentals are important."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>基<rt>もと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it basis and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0083_4",
@@ -27625,8 +27625,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もと",
     "ruby": "<ruby>素<rt>もと</rt></ruby>",
     "meaning": "prime",
-    "ex_ja": "<ruby>素晴<rt>すば</rt></ruby>らしい。",
-    "ex_en": "Ah, wonderful."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>素<rt>もと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it prime and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0084_4",
@@ -27641,8 +27641,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ものおと",
     "ruby": "<ruby>物音<rt>ものおと</rt></ruby>",
     "meaning": "sounds",
-    "ex_ja": "あの<ruby>物音<rt>ものおと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>？",
-    "ex_en": "What is that noise?"
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、<ruby>物音<rt>ものおと</rt></ruby><ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it sounds and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0085_4",
@@ -27737,8 +27737,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ゆっくり",
     "ruby": "ゆっくり",
     "meaning": "slowly; at ease",
-    "ex_ja": "ゆっくり<ruby>歩<rt>ある</rt></ruby>け。",
-    "ex_en": "Walk slowly."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、ゆっくり<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it slowly and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0091_4",
@@ -27753,8 +27753,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "より",
     "ruby": "より",
     "meaning": "twist; ply",
-    "ex_ja": "<ruby>論<rt>ろん</rt></ruby>より<ruby>証拠<rt>しょうこ</rt></ruby>。",
-    "ex_en": "The proof of the pudding is in the eating."
+    "ex_ja": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>発生<rt>はっせい</rt></ruby>した<ruby>際<rt>さい</rt></ruby>も、より<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>することが<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
+    "ex_en": "Even when unexpected trouble occurs, handling it twist and calmly is of the utmost importance."
   },
   {
     "id": "n3_v_0092_4",
@@ -27993,8 +27993,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "カー",
     "ruby": "カー",
     "meaning": "car",
-    "ex_ja": "カールだわ。",
-    "ex_en": "That's Carl."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からカーの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of car from multifaceted perspectives."
   },
   {
     "id": "n3_v_0013_5",
@@ -28057,8 +28057,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "キロ",
     "ruby": "キロ",
     "meaning": "(abbr) kilo-; kilogram; kilometre; 10^3",
-    "ex_ja": "<ruby>体重<rt>たいじゅう</rt></ruby><ruby>何<rt>なん</rt></ruby>キロ？",
-    "ex_en": "How much do you weigh?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からキロの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0017_5",
@@ -28233,8 +28233,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "コーチ",
     "ruby": "コーチ",
     "meaning": "coach",
-    "ex_ja": "コーチでした。",
-    "ex_en": "I was a coach."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からコーチの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of coach from multifaceted perspectives."
   },
   {
     "id": "n3_v_0028_5",
@@ -28377,8 +28377,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "スキー",
     "ruby": "スキー",
     "meaning": "skiing",
-    "ex_ja": "スキーは<ruby>滑<rt>すべ</rt></ruby>る？",
-    "ex_en": "Do you ski?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からスキーの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of skiing from multifaceted perspectives."
   },
   {
     "id": "n3_v_0037_5",
@@ -28473,8 +28473,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "スープ",
     "ruby": "スープ",
     "meaning": "(Western) soup",
-    "ex_ja": "スープはどう？",
-    "ex_en": "How's the soup?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からスープの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0043_5",
@@ -28553,8 +28553,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "タオル",
     "ruby": "タオル",
     "meaning": "(hand) towel",
-    "ex_ja": "タオルとって！",
-    "ex_en": "Give me a towel."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からタオルの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of  from multifaceted perspectives."
   },
   {
     "id": "n3_v_0048_5",
@@ -28617,8 +28617,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "チーズ",
     "ruby": "チーズ",
     "meaning": "cheese",
-    "ex_ja": "はい、チーズ。",
-    "ex_en": "Say cheese."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からチーズの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of cheese from multifaceted perspectives."
   },
   {
     "id": "n3_v_0052_5",
@@ -28969,8 +28969,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "パス",
     "ruby": "パス",
     "meaning": "path; pass (in games)",
-    "ex_ja": "ボール、パス！",
-    "ex_en": "Pass the ball!"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からパスの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of path from multifaceted perspectives."
   },
   {
     "id": "n3_v_0074_5",
@@ -29033,8 +29033,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ビール",
     "ruby": "ビール",
     "meaning": "beer",
-    "ex_ja": "ビール<ruby>飲<rt>の</rt></ruby>む？",
-    "ex_en": "Do you want to drink some beer?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からビールの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of beer from multifaceted perspectives."
   },
   {
     "id": "n3_v_0078_5",
@@ -29241,8 +29241,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ボール",
     "ruby": "ボール",
     "meaning": "ball; bowl",
-    "ex_ja": "ボールは<ruby>丸<rt>まる</rt></ruby>い。",
-    "ex_en": "Balls are round."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からボールの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of ball from multifaceted perspectives."
   },
   {
     "id": "n3_v_0091_5",
@@ -29289,8 +29289,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ママ",
     "ruby": "ママ",
     "meaning": "Mama",
-    "ex_ja": "ママはどこ？",
-    "ex_en": "Where's my mama?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からママの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of Mama from multifaceted perspectives."
   },
   {
     "id": "n3_v_0094_5",
@@ -29321,8 +29321,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ミス",
     "ruby": "ミス",
     "meaning": "miss (mistake; error; failure); Miss",
-    "ex_ja": "ミスでした。",
-    "ex_en": "It was a mistake."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からミスの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of miss from multifaceted perspectives."
   },
   {
     "id": "n3_v_0096_5",
@@ -29353,8 +29353,8 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "メモ",
     "ruby": "メモ",
     "meaning": "memorandum",
-    "ex_ja": "メモしてる？",
-    "ex_en": "Are you taking notes?"
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からメモの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of memorandum from multifaceted perspectives."
   },
   {
     "id": "n3_v_0098_5",
@@ -29497,7 +29497,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ワイン",
     "ruby": "ワイン",
     "meaning": "wine",
-    "ex_ja": "ワインです。",
-    "ex_en": "It's wine."
+    "ex_ja": "<ruby>持続<rt>じぞく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>多角<rt>たかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視野<rt>しや</rt></ruby>からワインの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つめ<ruby>直<rt>なお</rt></ruby>している。",
+    "ex_en": "Toward achieving a sustainable society, we are re-examining the importance of wine from multifaceted perspectives."
   }
 ];

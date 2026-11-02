@@ -445,10 +445,10 @@
       </div>
 
       <!-- 穴埋め演習道場（全896問）誘導バナー -->
-      <div class="my-2 p-2.5 sm:p-3 rounded-2xl bg-white border border-coralPink/40 shadow-xs flex items-center justify-between gap-2.5">
+      <div class="mb-4 p-3 rounded-2xl bg-white border border-lightBlue/30 shadow-xs flex items-center justify-between gap-3">
         <div class="flex items-center gap-2">
-          <span class="px-2 py-0.5 rounded-full bg-coralPink text-white text-[10px] font-extrabold shrink-0">4択穴埋め</span>
-          <span class="text-xs font-bold text-darkNavyText">PDF教材2冊準拠の穴埋め問題（全896問）に挑戦する</span>
+          <span class="px-2 py-0.5 rounded-lg bg-softTeal text-white font-extrabold text-[10px] tracking-wide shrink-0">演習</span>
+          <span class="text-xs font-bold text-darkNavyText">全896問の実戦穴埋め問題に挑戦する</span>
         </div>
         <a href="jlpt_n2_vocab_quiz.html" class="px-3 py-1.5 rounded-xl bg-deepNavy hover:bg-slate-800 text-white font-bold text-xs flex items-center gap-1 shrink-0 transition shadow-xs" style="text-decoration:none;">
           <span>896問道場へ</span>
@@ -522,7 +522,7 @@
                   <i data-lucide="volume-2" class="w-4 h-4"></i>
                 </button>
               </div>
-              <p id="backExampleJa" class="text-sm font-bold text-slate-800 leading-relaxed font-jp mb-1 select-text whitespace-pre-line">
+              <p id="backExampleJa" style="line-height: 2.2;" class="text-sm font-bold text-slate-800 leading-relaxed font-jp mb-1 select-text whitespace-pre-line">
                 <ruby>彼<rt>かれ</rt></ruby>は<ruby>穴<rt>あな</rt></ruby>を<ruby>掘<rt>ほ</rt></ruby>った。
               </p>
               <p id="backExampleEn" class="text-xs text-slate-500 leading-normal border-t border-slate-200/60 pt-1 mt-1 font-sans select-text whitespace-pre-line">
@@ -656,7 +656,7 @@
   <!-- AUTH, USER PROGRESS & DATABASE SCRIPTS -->
   <script src="auth.js?v=20261021_0110"></script>
   <script src="user_progress.js?v=20261021_0110"></script>
-  <script src="database/jlpt_n2_vocab_full_data.js"></script>
+  <script src="database/jlpt_n2_vocab_full_data.js?v=20261102_1930"></script>
 
   <!-- FLASHCARD APPLICATION LOGIC -->
   <script>
@@ -670,7 +670,7 @@
     let currentDeck = [];
     let currentIndex = 0;
     let isFlipped = false;
-    let isFuriganaOn = true;
+    let isFuriganaOn = localStorage.getItem('jlpt_furigana_on') !== '0';
     let studyDirection = localStorage.getItem('jlpt_n2_card_direction') || 'ja-to-en'; // 'ja-to-en' or 'en-to-ja'
 
     // Test Mode State
@@ -1339,6 +1339,7 @@
     // Furigana ON/OFF
     window.toggleFurigana = function() {
       isFuriganaOn = !isFuriganaOn;
+      localStorage.setItem('jlpt_furigana_on', isFuriganaOn ? '1' : '0');
       const pill = document.getElementById('furiganaTogglePill');
       if (isFuriganaOn) {
         document.body.classList.remove('furigana-off');
