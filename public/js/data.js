@@ -27789,7 +27789,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "can come"
     },
     "example": {
-      "ja": "<ruby>都合<rt>つごう</rt></ruby>がよければ、<ruby>明日<rt>あした</rt></ruby>のパーティーに<ruby>来<rt>きた</rt></ruby>られますか？",
+      "ja": "<ruby>都合<rt>つごう</rt></ruby>がよければ、<ruby>明日<rt>あした</rt></ruby>のパーティーに<ruby>来<rt>こ</rt></ruby>られますか？",
       "en": "If it is convenient for you, can you come to tomorrow's party?",
       "zh_TW": "如果方便的話，明天能來派對嗎？",
       "zh_CN": "如果方便的話，明天能來派對嗎？",
@@ -27862,7 +27862,7 @@ window.INITIAL_VOCAB_DATA = [
     "folder_id": "folder_4",
     "folder_name": "初級 31-43",
     "word": "入れる・入れます",
-    "reading": "いれる・いれます",
+    "reading": "はいれる・はいれます",
     "category": "基本動詞 可能形 (2)",
     "meaning": {
       "en": "can enter / can go in",
@@ -27873,7 +27873,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "can enter / can go in"
     },
     "example": {
-      "ja": "<ruby>予約<rt>よやく</rt></ruby>なしでも、このレストランに<ruby>入<rt>い</rt></ruby>れますか？",
+      "ja": "<ruby>予約<rt>よやく</rt></ruby>なしでも、このレストランに<ruby>入<rt>はい</rt></ruby>れますか？",
       "en": "Even without a reservation, can we enter this restaurant?",
       "zh_TW": "即使沒有預約，也能進去這間餐廳嗎？",
       "zh_CN": "即使沒有預約，也能進去這間餐廳嗎？",
@@ -27881,7 +27881,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "即使沒有預約，也能進去這間餐廳嗎？",
       "fr": "Even without a reservation, can we enter this restaurant?"
     },
-    "related": "【文法】可能動詞 (1グループ入るの可能形)"
+    "related": "【文法】可能動詞 (1グループ「入る」の可能形：入れる・入れます)"
   },
   {
     "id": "card_0996",
@@ -28321,7 +28321,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "can wear (top)"
     },
     "example": {
-      "ja": "<ruby>痩<rt>や</rt></ruby>せたので、お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りのドレスがまた<ruby>着<rt>つ</rt></ruby>られる。",
+      "ja": "<ruby>痩<rt>や</rt></ruby>せたので、お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りのドレスがまた<ruby>着<rt>き</rt></ruby>られる。",
       "en": "I lost weight, so I can wear my favorite dress again.",
       "zh_TW": "瘦下來了，又穿得下心愛的洋裝了。",
       "zh_CN": "瘦下來了，又穿得下心愛的洋裝了。",
