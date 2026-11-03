@@ -809,7 +809,7 @@
       lucide.createIcons();
 
       // ローカル Google TTS 音声ファイルのパス
-      const audioSrc = `audio/listening/n1_q${qNum}.mp3`;
+      const audioSrc = q.audio_file || `audio/listening/n1_q${qNum}.mp3`;
       const audio = new Audio(audioSrc);
       activeListeningAudio = audio;
       activePlayingQNum = qNum;
