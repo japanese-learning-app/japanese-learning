@@ -364,13 +364,12 @@
     <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[92vh] flex flex-col overflow-hidden animate-scale-in">
       
       <!-- Result Modal Header -->
-      <div id="result-modal-header" class="px-6 py-6 text-white relative transition-colors duration-300">
-        <button onclick="closeResultModal()" class="absolute top-4 right-4 text-white/80 hover:text-white p-1.5 rounded-full hover:bg-white/10 transition">
+      <div id="result-modal-header" class="px-6 py-6 text-white relative transition-colors duration-300" style="background: linear-gradient(135deg, #1995AD, #127285);">
+        <button onclick="closeResultModal()" class="absolute top-3.5 right-3.5 text-white/80 hover:text-white p-1.5 rounded-full hover:bg-white/20 transition z-20">
           <i data-lucide="x" class="w-5 h-5"></i>
         </button>
 
-        <div class="flex items-center justify-center gap-4 sm:gap-6 py-1 max-w-xl mx-auto">
-          <img id="result-poodle-img" src="images/mock_poodle_pass.png" alt="プードル" class="w-20 h-24 sm:w-24 sm:h-28 object-contain drop-shadow-md shrink-0">
+        <div class="flex items-center justify-between gap-4 sm:gap-6 py-1 max-w-xl mx-auto pr-2 sm:pr-4">
           <div class="text-left flex-1 min-w-0">
             <span class="inline-block text-[10px] font-extrabold uppercase tracking-widest px-2.5 py-0.5 rounded-full bg-white/20 mb-1.5">
               JLPT N5 MOCK EXAM RESULT
@@ -380,6 +379,7 @@
             </div>
             <p id="result-desc-text" class="text-xs sm:text-sm text-white/95 font-medium mt-1 leading-relaxed">おめでとうございます！合格基準点を突破しました。</p>
           </div>
+          <img id="result-poodle-img" src="images/mock_poodle_pass.png" alt="プードル" class="w-20 h-24 sm:w-24 sm:h-28 object-contain drop-shadow-md shrink-0">
         </div>
 
         <p class="text-[11px] text-white/85 mt-3 font-normal leading-relaxed max-w-xl mx-auto border-t border-white/20 pt-2 text-center">
@@ -462,7 +462,7 @@
 
       <!-- Result Modal Footer -->
       <div class="px-6 py-4 border-t border-[#E2ECF2] bg-[#F8FAFC] flex flex-wrap items-center justify-between gap-3">
-        <button onclick="closeResultModal(); setReviewFilter('wrong');" class="text-xs md:text-sm font-bold px-4 py-2.5 rounded-xl bg-[#B8596E] hover:bg-[#A34A5E] text-white flex items-center gap-1.5 shadow-sm transition">
+        <button onclick="closeResultModal(); setReviewFilter('wrong');" class="text-xs md:text-sm font-extrabold px-4 py-2.5 rounded-xl text-white flex items-center gap-1.5 shadow-md hover:opacity-95 transition-all" style="background: linear-gradient(135deg, #B8596E, #CE5A73); box-shadow: 0 4px 14px rgba(184,89,110,0.35);">
           <span>🔴 間違えた問題だけ復習する (Review Incorrect Only)</span>
         </button>
         <button onclick="closeResultModal(); setReviewFilter('all');" class="text-xs md:text-sm font-bold px-4 py-2.5 rounded-xl bg-[#1995AD] hover:bg-[#127285] text-white flex items-center gap-1.5 shadow-sm transition">
@@ -1225,7 +1225,8 @@
       const poodleImg = document.getElementById('result-poodle-img');
 
       if (isPassed) {
-        headerEl.className = 'px-6 py-6 text-white relative bg-gradient-to-r from-[#1995AD] to-[#127285] transition-colors duration-300';
+        headerEl.className = 'px-6 py-6 text-white relative transition-colors duration-300';
+        headerEl.style.background = 'linear-gradient(135deg, #1995AD, #127285)';
         badgeText.textContent = '🎉 合 格 (PASSED)';
         descText.textContent = `総合得点 ${scaledTotal}点！ 合格点（80点）および各区分の基準点を突破しました。`;
         if (poodleImg) poodleImg.src = 'images/mock_poodle_pass.png';
@@ -1233,7 +1234,8 @@
           confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
         } catch(e) {}
       } else {
-        headerEl.className = 'px-6 py-6 text-white relative bg-gradient-to-r from-[#B8596E] to-[#991B1B] transition-colors duration-300';
+        headerEl.className = 'px-6 py-6 text-white relative transition-colors duration-300';
+        headerEl.style.background = 'linear-gradient(135deg, #B8596E, #CE5A73)';
         badgeText.textContent = '不 合 格 (FAILED)';
         let reason = `総合得点 ${scaledTotal}点。`;
         if (!benchLRPassed) reason += ' 言語知識・読解が基準点(38点)を下回りました。';
@@ -1289,21 +1291,6 @@
 
     function closeResultModal() {
       document.getElementById('result-modal').classList.add('hidden');
-    }
-
-    function setReviewFilter(filter) {
-      reviewFilter = filter;
-      ['all', 'wrong', 'bookmarked'].forEach(f => {
-        const btn = document.getElementById(`filter-btn-${f}`);
-        if (!btn) return;
-        if (f === filter) {
-          btn.classList.add('ring-2', 'ring-teal-500', 'font-black');
-        } else {
-          btn.classList.remove('ring-2', 'ring-teal-500', 'font-black');
-        }
-      });
-
-      renderCurrentSection();
     }
   </script>
 </body>
