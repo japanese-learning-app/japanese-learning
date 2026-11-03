@@ -247,15 +247,15 @@
         <span class="text-xs md:text-sm font-bold text-amber-900" id="review-status-text">採点が完了しました。解説を確認できます。</span>
       </div>
       <div class="flex items-center gap-2">
-        <button onclick="setReviewFilter('all')" id="filter-btn-all" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-amber-600 text-white shadow-sm">
-          すべて (全91問)
+        <button onclick="setReviewFilter('wrong')" id="filter-btn-wrong" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-white border border-red-300 text-red-700 hover:bg-red-50 flex items-center gap-1.5">
+          <span>🔴 間違えた問題だけ復習 (Review Incorrect Only)</span>
+          <span id="wrong-count-badge" class="bg-red-100 text-red-800 text-[10px] px-1.5 py-0.5 rounded-full font-mono">0</span>
         </button>
-        <button onclick="setReviewFilter('wrong')" id="filter-btn-wrong" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-white border border-red-300 text-red-700 hover:bg-red-50 flex items-center gap-1">
-          <span>🔴 間違えた問題だけ</span>
-          <span id="wrong-count-badge" class="bg-red-100 text-red-800 text-[10px] px-1 rounded-full font-mono">0</span>
+        <button onclick="setReviewFilter('all')" id="filter-btn-all" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-amber-600 text-white shadow-sm">
+          <span>全問解説 (All Explanations)</span>
         </button>
         <button onclick="setReviewFilter('bookmarked')" id="filter-btn-bookmarked" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-white border border-yellow-400 text-yellow-800 hover:bg-yellow-50 flex items-center gap-1">
-          <span>🔖 見直しチェック</span>
+          <span>🔖 見直し (Bookmarked)</span>
           <span id="bookmarked-count-badge" class="bg-yellow-100 text-yellow-800 text-[10px] px-1 rounded-full font-mono">0</span>
         </button>
         <button onclick="openResultModal()" class="text-xs font-bold px-3 py-1.5 rounded-lg bg-teal-700 text-white hover:bg-teal-800 flex items-center gap-1">
@@ -359,7 +359,10 @@
         <div id="result-badge-text" class="text-3xl md:text-4xl font-black mb-1">
           合 格
         </div>
-        <p id="result-desc-text" class="text-xs md:text-sm text-white/90 font-medium">おめでとうございます！合格基準点を突破しました。</p>
+        <p id="result-desc-text" class="text-xs md:text-sm text-white/95 font-medium leading-relaxed">おめでとうございます！合格基準点を突破しました。</p>
+        <p class="text-[11px] text-white/85 mt-2 font-normal leading-relaxed max-w-xl mx-auto border-t border-white/20 pt-2">
+          ※JLPT本番では単なる素点計算ではなく、項目応答理論（IRT）に基づく「尺度得点」が用いられます。本システムでもこの公式モデルをシミュレーションして算出しています。
+        </p>
       </div>
 
       <!-- Result Modal Body -->
@@ -434,11 +437,11 @@
 
       <!-- Result Modal Footer -->
       <div class="px-6 py-4 border-t border-gray-200 bg-gray-50 flex flex-wrap items-center justify-between gap-3">
-        <button onclick="closeResultModal(); setReviewFilter('wrong');" class="text-xs font-bold px-4 py-2 rounded-lg bg-red-600 hover:bg-red-700 text-white flex items-center gap-1.5 shadow-sm">
-          <span>🔴 間違えた問題だけを復習する</span>
+        <button onclick="closeResultModal(); setReviewFilter('wrong');" class="text-xs md:text-sm font-bold px-4 py-2.5 rounded-xl bg-red-600 hover:bg-red-700 text-white flex items-center gap-1.5 shadow-sm transition">
+          <span>🔴 間違えた問題だけ復習する (Review Incorrect Only)</span>
         </button>
-        <button onclick="closeResultModal(); setReviewFilter('all');" class="text-xs font-bold px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-900 text-white flex items-center gap-1.5">
-          <span>全問の解説を見る</span>
+        <button onclick="closeResultModal(); setReviewFilter('all');" class="text-xs md:text-sm font-bold px-4 py-2.5 rounded-xl bg-gray-800 hover:bg-gray-900 text-white flex items-center gap-1.5 transition">
+          <span>全問解説 (All Explanations)</span>
         </button>
       </div>
 
@@ -481,18 +484,33 @@
       updateAnswerCounter();
       startTimer();
 
-      // Check URL search params for direct navigation
-      const urlParams = new URLSearchParams(window.location.search);
-      const secParam = urlParams.get('sec');
-      if (secParam && ['sec1', 'sec2', 'sec3'].includes(secParam)) {
-        switchSection(secParam);
+      // Check URL params (supports both http and file:// schemas)
+      const href = window.location.href;
+      if (href.includes('sec=sec2')) {
+        switchSection('sec2');
+      } else if (href.includes('sec=sec3')) {
+        switchSection('sec3');
       }
-      const qParam = urlParams.get('q');
-      if (qParam) {
+
+      const qMatch = href.match(/[?&]q=(\d+)/);
+      if (qMatch) {
         setTimeout(() => {
-          const el = document.getElementById(`q-card-${qParam}`);
+          const el = document.getElementById(`q-card-${qMatch[1]}`);
           if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
         }, 50);
+      }
+
+      if (href.includes('testResult=1')) {
+        MOCK_DATA.questions.forEach((q, idx) => {
+          if (q.sectionId === 'sec3') {
+            userAnswers[q.id] = (q.correctIndex + 1) % 4; // Fail listening benchmark
+          } else if (idx % 2 === 0) {
+            userAnswers[q.id] = q.correctIndex;
+          } else {
+            userAnswers[q.id] = (q.correctIndex + 1) % 4;
+          }
+        });
+        submitExam();
       }
 
       // Furigana toggle
@@ -1181,7 +1199,7 @@
         } catch(e) {}
       } else {
         headerEl.className = 'px-6 py-6 text-center text-white relative bg-gradient-to-r from-red-600 to-rose-700';
-        badgeText.textContent = '不 合 格';
+        badgeText.textContent = '不 合 格 (FAILED)';
         let reason = `総合得点 ${scaledTotal}点。`;
         if (!benchLRPassed) reason += ' 言語知識・読解が基準点(38点)を下回りました。';
         if (!benchLSPassed) reason += ' 聴解が基準点(19点)を下回りました。';
