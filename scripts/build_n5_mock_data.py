@@ -952,7 +952,7 @@ def main():
 <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あ、すみません。<ruby>黒<rt>くろ</rt></ruby>い ペンは ３<ruby>本<rt>ぼん</rt></ruby>に して ください。<br>
 <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：わかりました。<ruby>黒<rt>くろ</rt></ruby>が ３<ruby>本<rt>ぼん</rt></ruby>と、<ruby>赤<rt>あか</rt></ruby>が １<ruby>本<rt>ぽん</rt></ruby>ですね。ぜんぶで ４<ruby>本<rt>ほん</rt></ruby>です。<br>
 <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、お<ruby>願<rt>ねが</rt></ruby>いします。""",
-            "prompt1": "問題一。一番。男の人と女の人が話しています。男の人は黒いペンを何本買いますか。",
+            "prompt1": "問題１。１番。男の人と女の人が話しています。男の人は黒いペンを何本買いますか。",
             "prompt2": "男の人は黒いペンを何本買いますか。",
             "options": ["１本", "２本", "３本", "４本"],
             "correctIndex": 2,
@@ -978,8 +978,8 @@ def main():
 <ruby>学生<rt>がくせい</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、<ruby>辞書<rt>じしょ</rt></ruby>も <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>ますか。<br>
 <ruby>先生<rt>せんせい</rt></ruby>：いいえ、<ruby>辞書<rt>じしょ</rt></ruby>は <ruby>教室<rt>きょうしつ</rt></ruby>に ありますから、いりません。でも、<ruby>宿題<rt>しゅくだい</rt></ruby>の <ruby>作文<rt>さくぶん</rt></ruby>を わすれないで <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>て くださいね。<br>
 <ruby>学生<rt>がくせい</rt></ruby>：はい、わかりました。""",
-            "prompt1": "二番。先生と学生が話しています。学生はあした何を持って来なければなりませんか。",
-            "prompt2": "学生はあした何を持って来なければなりませんか。",
+            "prompt1": "２番。先生と学生が話しています。学生はあした何を持ってこなければなりませんか。",
+            "prompt2": "学生はあした何を持ってこなければなりませんか。",
             "options": ["辞書", "作文", "写真", "パソコン"],
             "correctIndex": 1,
             "dialogueTracks": [
@@ -1589,32 +1589,66 @@ def main():
     tts_client = texttospeech.TextToSpeechClient()
 
     audio_dir = '/Users/yamauchimiku/Documents/GitHub/japanese-learning/audio/mock_n5'
+    public_audio_dir = '/Users/yamauchimiku/Documents/GitHub/japanese-learning/public/audio/mock_n5'
     os.makedirs(audio_dir, exist_ok=True)
+    os.makedirs(public_audio_dir, exist_ok=True)
+
+    def text_for_tts(t):
+        if not t:
+            return ""
+        # Convert ruby to reading: <ruby>漢字<rt>よみ</rt></ruby> -> よみ
+        t = re.sub(r'<ruby>[^<]*?<rt>(.*?)</rt></ruby>', r'\1', t)
+        t = re.sub(r'<.*?>', '', t)
+        # Section numbers (never pronounce 一 as はじめ)
+        t = t.replace('問題一', '問題１').replace('問題二', '問題２').replace('問題三', '問題３').replace('問題四', '問題４')
+        # Question numbers in prompts (ensure いちばん, にばん, etc.)
+        t = re.sub(r'一番(?=[。、\s]|$)', '１番', t)
+        t = re.sub(r'二番(?=[。、\s]|$)', '２番', t)
+        t = re.sub(r'三番(?=[。、\s]|$)', '３番', t)
+        t = re.sub(r'四番(?=[。、\s]|$)', '４番', t)
+        t = re.sub(r'五番(?=[。、\s]|$)', '５番', t)
+        t = re.sub(r'六番(?=[。、\s]|$)', '６番', t)
+        t = re.sub(r'七番(?=[。、\s]|$)', '７番', t)
+        # Critical polyphonic verbs: カ変動詞「来る」
+        t = t.replace('持って来なければ', '持ってこなければ')
+        t = t.replace('来なければ', 'こなければ')
+        t = t.replace('来なかった', 'こなかった')
+        t = t.replace('来ない', 'こない')
+        t = t.replace('遊びに来ました', '遊びにきました')
+        t = t.replace('持って来て', '持ってきて')
+        t = t.replace('持って来ます', '持ってきます')
+        # Other TTS pitfalls
+        t = t.replace('何時', 'なんじ')
+        t = t.replace('何曜', 'なんよう')
+        t = t.replace('何本', 'なんぼん')
+        t = t.replace('何人', 'なんにん')
+        return t
 
     for q in questions:
         if q["sectionId"] == "sec3" and "tracks" in q:
             fname = os.path.basename(q["audioUrl"])
             fpath = os.path.join(audio_dir, fname)
-            if not os.path.exists(fpath) or os.path.getsize(fpath) < 1000:
-                print(f"Synthesizing {fname} ...")
-                comb = bytearray()
-                for txt, voice_name, pause_ms in q["tracks"]:
-                    clean_t = re.sub(r'<rt>.*?</rt>', '', txt).replace('<ruby>', '').replace('</ruby>', '').replace('<u>', '').replace('</u>', '')
-                    sinput = texttospeech.SynthesisInput(text=clean_t)
-                    voice = texttospeech.VoiceSelectionParams(language_code='ja-JP', name=voice_name)
-                    aconf = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3, speaking_rate=0.92)
-                    resp = tts_client.synthesize_speech(input=sinput, voice=voice, audio_config=aconf)
-                    comb.extend(resp.audio_content)
+            pub_fpath = os.path.join(public_audio_dir, fname)
+            print(f"Synthesizing {fname} ...")
+            comb = bytearray()
+            for txt, voice_name, pause_ms in q["tracks"]:
+                clean_t = text_for_tts(txt)
+                sinput = texttospeech.SynthesisInput(text=clean_t)
+                voice = texttospeech.VoiceSelectionParams(language_code='ja-JP', name=voice_name)
+                aconf = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3, speaking_rate=0.92)
+                resp = tts_client.synthesize_speech(input=sinput, voice=voice, audio_config=aconf)
+                comb.extend(resp.audio_content)
 
-                    if pause_ms > 0:
-                        p_ssml = f'<speak><break time="{pause_ms}ms"/></speak>'
-                        p_in = texttospeech.SynthesisInput(ssml=p_ssml)
-                        p_resp = tts_client.synthesize_speech(input=p_in, voice=voice, audio_config=aconf)
-                        comb.extend(p_resp.audio_content)
-                with open(fpath, 'wb') as f:
-                    f.write(comb)
-                print(f"  ✓ Saved {fname} ({len(comb)} bytes)")
-            # remove raw tracks from final JSON object to keep it compact
+                if pause_ms > 0:
+                    p_ssml = f'<speak><break time="{pause_ms}ms"/></speak>'
+                    p_in = texttospeech.SynthesisInput(ssml=p_ssml)
+                    p_resp = tts_client.synthesize_speech(input=p_in, voice=voice, audio_config=aconf)
+                    comb.extend(p_resp.audio_content)
+            with open(fpath, 'wb') as f:
+                f.write(comb)
+            with open(pub_fpath, 'wb') as f:
+                f.write(comb)
+            print(f"  ✓ Saved {fname} ({len(comb)} bytes)")
             del q["tracks"]
 
     mock_data = {
