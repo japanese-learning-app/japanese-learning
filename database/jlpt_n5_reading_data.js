@@ -1,0 +1,268 @@
+// JLPT N5 読解実戦模試（全6題 完全網羅データ）
+window.JLPT_N5_READING_DATA = {
+  "test_id": "jlpt_n5_reading_test_01",
+  "title": "JLPT N5 読解実戦模試 第1回",
+  "level": "N5",
+  "total_passages": 6,
+  "total_questions": 6,
+  "passages": [
+    {
+      "id": "n5_p1",
+      "type": "短文（内容理解）",
+      "section_name": "問題4 短文読解",
+      "genre": "お知らせ・掲示",
+      "title": "日本語クラスの遠足（えんそく）のおしらせ",
+      "time_est": "2〜3分",
+      "text_html": "<p class=\"mb-3\">【<ruby>日本語<rt>にほんご</rt></ruby>クラスのみなさんへ】</p>\n<p class=\"mb-3\"><ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に、みんなで<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まってください。<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きません。<span id=\"ev-n5-p1\" class=\"evidence-target\">【<ruby>雨<rt>あめ</rt></ruby>のときは、<ruby>午後<rt>ごご</rt></ruby>1<ruby>時<rt>じ</rt></ruby>から<ruby>学校<rt>がっこう</rt></ruby>の<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます】</span>。<ruby>昼<rt>ひる</rt></ruby>ごはんと<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。</p>",
+      "vocab_notes": [
+        {
+          "word": "遠足（えんそく）",
+          "meaning": "excursion / picnic"
+        },
+        {
+          "word": "集まる（あつまる）",
+          "meaning": "to gather"
+        },
+        {
+          "word": "持ってくる（もってくる）",
+          "meaning": "to bring"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 1,
+          "question_html": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったら、どうしますか。",
+          "evidence_id": "ev-n5-p1",
+          "choices": [
+            "<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>に<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+            "<ruby>午後<rt>ごご</rt></ruby>1<ruby>時<rt>じ</rt></ruby>から<ruby>学校<rt>がっこう</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+            "<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べてから<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+            "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>遠足<rt>えんそく</rt></ruby>をします。"
+          ],
+          "answer": 1,
+          "explanation": {
+            "ja": "本文に「雨のときは、午後1時から学校の教室で映画を見ます」と書かれているため、選択肢2が正解です。",
+            "en": "The text states 'In case of rain, we will watch a movie in the school classroom from 1:00 PM', so Choice 2 is correct.",
+            "zh": "文中寫道「下雨時，下午1點開始在學校教室看電影」，因此選項2正確。",
+            "ko": "본문에 '비가 올 때는 오후 1시부터 학교 교실에서 영화를 봅니다'라고 적혀 있으므로 2번이 정답입니다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_p2",
+      "type": "短文（内容理解）",
+      "section_name": "問題4 短文読解",
+      "genre": "メモ",
+      "title": "山田（やまだ）さんへのメモ",
+      "time_est": "2〜3分",
+      "text_html": "<p class=\"mb-3\">山田さんへ</p>\n<p class=\"mb-3\"><ruby>昨日<rt>きのう</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>借<rt>か</rt></ruby>りた<ruby>本<rt>ほん</rt></ruby>を<ruby>山田<rt>やまだ</rt></ruby>さんの<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きました。<ruby>今日<rt>きょう</rt></ruby>、私は<ruby>風邪<rt>かぜ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みます。<span id=\"ev-n5-p2\" class=\"evidence-target\">【その<ruby>本<rt>ほん</rt></ruby>を<ruby>明日<rt>あした</rt></ruby>までに<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>返<rt>かえ</rt></ruby>してください】</span>。お<ruby>願<rt>ねが</rt></ruby>いします。<br>田中より</p>",
+      "vocab_notes": [
+        {
+          "word": "借りる（かりる）",
+          "meaning": "to borrow"
+        },
+        {
+          "word": "返す（かえす）",
+          "meaning": "to return (something)"
+        },
+        {
+          "word": "風邪（かぜ）",
+          "meaning": "a cold / illness"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 2,
+          "question_html": "<ruby>山田<rt>やまだ</rt></ruby>さんは、何をしなければなりませんか。",
+          "evidence_id": "ev-n5-p2",
+          "choices": [
+            "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>へ<ruby>本<rt>ほん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くこと。",
+            "<ruby>今日<rt>きょう</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>電話<rt>でんわ</rt></ruby>をかけること。",
+            "<ruby>明日<rt>あした</rt></ruby>までに<ruby>本<rt>ほん</rt></ruby>を<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>返<rt>かえ</rt></ruby>すこと。",
+            "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りること。"
+          ],
+          "answer": 2,
+          "explanation": {
+            "ja": "メモに「その本を明日までに図書館へ返してください」と頼まれているため、選択肢3が正解です。",
+            "en": "The memo requests 'Please return that book to the library by tomorrow', making Choice 3 correct.",
+            "zh": "便條上請求「請在明天之前把那本書還給圖書館」，因此選項3正確。",
+            "ko": "메모에 '그 책을 내일까지 도서관에 반납해 주세요'라고 부탁하고 있으므로 3번이 정답입니다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_p3",
+      "type": "短文（内容理解）",
+      "section_name": "問題4 短文読解",
+      "genre": "メール",
+      "title": "誕生日（たんじょうび）パーティーのメール",
+      "time_est": "2〜3分",
+      "text_html": "<p class=\"mb-3\">ケンさん、こんにちは。</p>\n<p class=\"mb-3\"><ruby>今週<rt>こんしゅう</rt></ruby>の日曜日は、私の誕生日です。<ruby>家<rt>いえ</rt></ruby>でパーティーをしますから、ケンさんも来てください。<ruby>夕方<rt>ゆうがた</rt></ruby>5<ruby>時<rt>じ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。<span id=\"ev-n5-p3\" class=\"evidence-target\">【プレゼントはいりません。おいしいケーキをたくさん<ruby>買<rt>か</rt></ruby>いましたから、おなかをすかせて来てくださいね】</span>。<br>マリアより</p>",
+      "vocab_notes": [
+        {
+          "word": "誕生日（たんじょうび）",
+          "meaning": "birthday"
+        },
+        {
+          "word": "プレゼント",
+          "meaning": "present / gift"
+        },
+        {
+          "word": "おなかをすかせる",
+          "meaning": "to be hungry / save room for food"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 3,
+          "question_html": "ケンさんは、パーティーに何を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>かなければなりませんか。",
+          "evidence_id": "ev-n5-p3",
+          "choices": [
+            "何も<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>かなくてもいい。",
+            "誕生日プレゼントを<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く。",
+            "おいしいケーキを<ruby>買<rt>か</rt></ruby>って<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く。",
+            "<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>をたくさん<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く。"
+          ],
+          "answer": 0,
+          "explanation": {
+            "ja": "マリアさんが「プレゼントはいりません。おいしいケーキをたくさん買いましたから」と書いているので、何も持って行く必要はありません（選択肢1が正解）。",
+            "en": "Maria writes 'No present needed. I bought plenty of delicious cakes', so Ken does not need to bring anything (Choice 1).",
+            "zh": "瑪麗亞寫道「不需要禮物。因為買了很多好吃的蛋糕」，因此不需要帶任何東西（選項1正確）。",
+            "ko": "마리아가 '선물은 필요 없습니다. 맛있는 케이크를 많이 샀으니까요'라고 썼으므로 아무것도 가져갈 필요가 없습니다 (1번 정답)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_p4",
+      "type": "中文（内容理解）",
+      "section_name": "問題5 中文読解",
+      "genre": "日記",
+      "title": "日本（にほん）で初（はじ）めてのお正月（しょうがつ）",
+      "time_est": "4〜5分",
+      "text_html": "<p class=\"mb-3\">1<ruby>月<rt>がつ</rt></ruby>2<ruby>日<rt>か</rt></ruby>（<ruby>水曜日<rt>すいようび</rt></ruby>）　<ruby>晴<rt>は</rt></ruby>れ</p>\n<p class=\"mb-3\"><ruby>昨日<rt>きのう</rt></ruby>は1<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>ついたち</rt></ruby>、お<ruby>正月<rt>しょうがつ</rt></ruby>でした。<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>の<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>佐藤<rt>さとう</rt></ruby>さんのご<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に「おせち<ruby>料理<rt>りょうり</rt></ruby>」を<ruby>食<rt>た</rt></ruby>べました。きれいで、とてもおいしかったです。</p>\n<p class=\"mb-3\"><ruby>昼<rt>ひる</rt></ruby>ごはんの<ruby>後<rt>あと</rt></ruby>、みんなで<ruby>近<rt>ちか</rt></ruby>くの<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>人<rt>ひと</rt></ruby>がたくさんいました。<span id=\"ev-n5-p4\" class=\"evidence-target\">【<ruby>私<rt>わたし</rt></ruby>は「<ruby>今年<rt>ことし</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>で、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりますように」とお<ruby>祈<rt>いの</rt></ruby>りしました】</span>。<ruby>神社<rt>じんじゃ</rt></ruby>でお<ruby>守<rt>まも</rt></ruby>りも<ruby>買<rt>か</rt></ruby>いました。とても<ruby>楽<rt>たの</rt></ruby>しい<ruby>一日<rt>いちにち</rt></ruby>でした。</p>",
+      "vocab_notes": [
+        {
+          "word": "お正月（おしょうがつ）",
+          "meaning": "New Year"
+        },
+        {
+          "word": "神社（じんじゃ）",
+          "meaning": "Shinto shrine"
+        },
+        {
+          "word": "お祈り（おいのり）",
+          "meaning": "prayer / wishing"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 4,
+          "question_html": "「<ruby>私<rt>わたし</rt></ruby>」は<ruby>神社<rt>じんじゃ</rt></ruby>で何をしましたか。",
+          "evidence_id": "ev-n5-p4",
+          "choices": [
+            "おせち<ruby>料理<rt>りょうり</rt></ruby>をみんなで<ruby>食<rt>た</rt></ruby>べた。",
+            "<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>守<rt>まも</rt></ruby>りをあげた。",
+            "<ruby>元気<rt>げんき</rt></ruby>で<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になるようにお<ruby>祈<rt>いの</rt></ruby>りした。",
+            "<ruby>佐藤<rt>さとう</rt></ruby>さんのご<ruby>家族<rt>かぞく</rt></ruby>と<ruby>写真<rt>しゃしん</rt></ruby>をとった。"
+          ],
+          "answer": 2,
+          "explanation": {
+            "ja": "本文に「『今年も元気で、日本語が上手になりますように』とお祈りしました」と書かれているため、選択肢3が正解です。",
+            "en": "The text states 'I prayed that I would stay healthy and improve my Japanese this year', making Choice 3 correct.",
+            "zh": "文中寫道「我祈禱『希望今年也健康、日語變好』」，因此選項3正確。",
+            "ko": "본문에 '올해도 건강하고 일본어를 잘하게 해달라고 기도했습니다'라고 적혀 있으므로 3번이 정답입니다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_p5",
+      "type": "中文（内容理解）",
+      "section_name": "問題5 中文読解",
+      "genre": "手紙",
+      "title": "お母（かあ）さんへの手紙（てがみ）",
+      "time_est": "4〜5分",
+      "text_html": "<p class=\"mb-3\">お<ruby>母<rt>かあ</rt></ruby>さんへ</p>\n<p class=\"mb-3\">お<ruby>元気<rt>げんき</rt></ruby>ですか。<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>元気<rt>げんき</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らしています。<ruby>大学<rt>だいがく</rt></ruby>の<ruby>寮<rt>りょう</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>にも<ruby>慣<rt>な</rt></ruby>れました。<ruby>部屋<rt>へや</rt></ruby>は少し<ruby>狭<rt>せま</rt></ruby>いですが、<ruby>明<rt>あか</rt></ruby>るくてきれいです。</p>\n<p class=\"mb-3\"><span id=\"ev-n5-p5\" class=\"evidence-target\">【ルームメイトのリンさんはとても<ruby>親切<rt>しんせつ</rt></ruby>で、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>作<rt>つく</rt></ruby>っています】</span>。<ruby>先週<rt>せんしゅう</rt></ruby>はリンさんの<ruby>国<rt>くに</rt></ruby>のカレーを<ruby>作<rt>つく</rt></ruby>りました。とてもおいしかったです。<ruby>来週<rt>らいしゅう</rt></ruby>はテストがありますから、<ruby>今<rt>いま</rt></ruby>は<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。<ruby>体<rt>からだ</rt></ruby>に気をつけてくださいね。<br>アンナより</p>",
+      "vocab_notes": [
+        {
+          "word": "寮（りょう）",
+          "meaning": "dormitory"
+        },
+        {
+          "word": "慣れる（なれる）",
+          "meaning": "to get used to"
+        },
+        {
+          "word": "一生懸命（いっしょうけんめい）",
+          "meaning": "with all one's effort / hard"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 5,
+          "question_html": "アンナさんは、ルームメイトのリンさんと何をしていますか。",
+          "evidence_id": "ev-n5-p5",
+          "choices": [
+            "<ruby>毎晩<rt>まいばん</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>晩<rt>ばん</rt></ruby>ごはんを<ruby>作<rt>つく</rt></ruby>っている。",
+            "<ruby>毎日<rt>まいにち</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>っている。",
+            "<ruby>来週<rt>らいしゅう</rt></ruby>のテストの<ruby>問題<rt>もんだい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている。",
+            "アンナさんの<ruby>国<rt>くに</rt></ruby>のカレーを<ruby>教<rt>おし</rt></ruby>えている。"
+          ],
+          "answer": 0,
+          "explanation": {
+            "ja": "本文に「毎晩一緒に晩ごはんを作っています」とあるため、選択肢1が正解です。",
+            "en": "The text states 'We make dinner together every evening', so Choice 1 is correct.",
+            "zh": "文中寫道「每天晚上一起做晚飯」，因此選項1正確。",
+            "ko": "본문에 '매일 밤 함께 저녁을 만들고 있습니다'라고 적혀 있으므로 1번이 정답입니다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_p6",
+      "type": "情報検索",
+      "section_name": "問題6 情報検索",
+      "genre": "案内チラシ",
+      "title": "留学生会館（りゅうがくせいかいかん）の利用（りよう）案内",
+      "time_est": "3〜4分",
+      "text_html": "<div class=\"border-2 border-slate-300 rounded-xl p-4 bg-white text-xs leading-relaxed\">\n<h4 class=\"text-center font-bold text-sm text-[#1995AD] border-b pb-2 mb-3\">★ <ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>会館<rt>かいかん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>のつかいかた ★</h4>\n<table class=\"w-full text-left border-collapse border border-slate-200 mb-3\">\n  <tr class=\"bg-slate-100 font-bold\"><th class=\"p-1.5 border\">へや</th><th class=\"p-1.5 border\">つかえる時間</th><th class=\"p-1.5 border\">お金</th></tr>\n  <tr><td class=\"p-1.5 border font-bold\">キッチン</td><td class=\"p-1.5 border\">7:00 〜 22:00</td><td class=\"p-1.5 border\">0円（無料）</td></tr>\n  <tr><td class=\"p-1.5 border font-bold\">せんたく機</td><td class=\"p-1.5 border\">8:00 〜 21:00</td><td class=\"p-1.5 border\">1回 100円</td></tr>\n  <tr><td class=\"p-1.5 border font-bold\">自習室（勉強の部屋）</td><td class=\"p-1.5 border\">24時間いつでも</td><td class=\"p-1.5 border\">0円（無料）</td></tr>\n</table>\n<p class=\"text-slate-600\"><span id=\"ev-n5-p6\" class=\"evidence-target\">【※ せんたく機を<ruby>使<rt>つか</rt></ruby>うときは、100<ruby>円<rt>えん</rt></ruby><ruby>玉<rt>だま</rt></ruby>を1まい<ruby>入<rt>い</rt></ruby>れてください。21<ruby>時<rt>じ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は<ruby>使<rt>つか</rt></ruby>えません】</span></p>\n</div>",
+      "vocab_notes": [
+        {
+          "word": "洗濯機（せんたくき）",
+          "meaning": "washing machine"
+        },
+        {
+          "word": "自習室（じしゅうしつ）",
+          "meaning": "study room"
+        },
+        {
+          "word": "無料（むりょう）",
+          "meaning": "free of charge"
+        }
+      ],
+      "questions": [
+        {
+          "q_num": 6,
+          "question_html": "トムさんは<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>半（21:30）に<ruby>洗濯<rt>せんたく</rt></ruby>がしたいです。どうすればいいですか。",
+          "evidence_id": "ev-n5-p6",
+          "choices": [
+            "100<ruby>円<rt>えん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>使<rt>つか</rt></ruby>う。",
+            "21:00を<ruby>過<rt>す</rt></ruby>ぎているので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>使<rt>つか</rt></ruby>えない。",
+            "<ruby>自習<rt>じしゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>んで<ruby>使<rt>つか</rt></ruby>う。",
+            "<ruby>無料<rt>むりょう</rt></ruby>で<ruby>朝<rt>あさ</rt></ruby>まで<ruby>使<rt>つか</rt></ruby>う。"
+          ],
+          "answer": 1,
+          "explanation": {
+            "ja": "案内表に「せんたく機：8:00〜21:00」「21時の後は使えません」と書かれているため、21:30には使えません（選択肢2が正解）。",
+            "en": "The notice states washing machines can only be used 8:00 - 21:00 and cannot be used after 21:00, so Tom cannot use it at 21:30 (Choice 2).",
+            "zh": "告示寫道「洗衣機使用時間為8:00〜21:00」「21點後不可使用」，因此21:30無法使用（選項2正確）。",
+            "ko": "안내문에 '세탁기: 8:00~21:00', '21시 이후에는 사용할 수 없습니다'라고 적혀 있으므로 21:30에는 사용할 수 없습니다 (2번 정답)."
+          }
+        }
+      ]
+    }
+  ]
+};

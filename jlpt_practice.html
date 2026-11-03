@@ -1742,11 +1742,11 @@
     </a>
     <!-- Level Selector in Header (Left to Right from N1) -->
     <div class="level-tabs-wrap header-level-tabs">
-      <button class="level-tab" onclick="switchLevel('n1')">N1 <span class="badge-lvl badge-prep">準備中</span></button>
+      <button class="level-tab" onclick="switchLevel('n1')">N1 <span class="badge-lvl badge-open">公開中</span></button>
       <button class="level-tab active" onclick="switchLevel('n2')">N2 <span class="badge-lvl badge-open">公開中</span></button>
       <button class="level-tab" onclick="switchLevel('n3')">N3 <span class="badge-lvl badge-open">公開中</span></button>
-      <button class="level-tab" onclick="switchLevel('n4')">N4 <span class="badge-lvl badge-prep">準備中</span></button>
-      <button class="level-tab" onclick="switchLevel('n5')">N5 <span class="badge-lvl badge-prep">準備中</span></button>
+      <button class="level-tab" onclick="switchLevel('n4')">N4 <span class="badge-lvl badge-open">公開中</span></button>
+      <button class="level-tab" onclick="switchLevel('n5')">N5 <span class="badge-lvl badge-open">公開中</span></button>
     </div>
 
     <div class="header-nav">
@@ -1944,26 +1944,51 @@
         </div>
       </div>
 
-      <!-- 読解 (準備中) -->
-      <div class="card-box" style="opacity: 0.72; background: #F8FAFC; border: 2px dashed #CBD5E1;">
+      <!-- 読解道場 (全21問・実戦模試) -->
+      <div class="card-box" style="border: 2px solid #A1D6E2; position: relative; overflow: visible; background: #FFFFFF;">
+        <span id="card-reading-pill" style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, #0D9488, #0F766E); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(13,148,136,0.3);">全21問・実戦模試</span>
         <div>
           <div class="card-top-row">
-            <div class="card-icon-square" style="background:#E2E8F0; color:#64748B;">読</div>
-            <span class="card-badge-count" style="background:#E2E8F0; color:#64748B; font-weight:700;">準備中</span>
+            <div class="card-icon-square" style="background:#EDF7F9; color:#0D9488; border-color:#A1D6E2;">📚</div>
+            <span id="card-reading-badge" class="card-badge-count" style="background:#0D9488; color:white; font-weight:800;">21 問</span>
           </div>
-          <div class="card-title-main" style="color:#64748B;">読解</div>
-          <div class="card-subtitle-reading">短文・中文・長文読解（どっかい）</div>
-          <ul class="card-feature-list" style="color:#94A3B8;">
-            <li>短文読解 · Short Reading Comprehension</li>
-            <li>中文読解 · Medium Reading Comprehension</li>
-            <li>長文読解 · Long Reading Comprehension</li>
-            <li>情報検索 · Information Retrieval</li>
+          <div class="card-title-main" style="color:#0F766E;">読解道場</div>
+          <div id="card-reading-sub" class="card-subtitle-reading">短文・中文・長文・統合・情報検索（どっかい）</div>
+          <ul class="card-feature-list">
+            <li id="card-reading-b1">全11パッセージ・全21問を完全網羅</li>
+            <li>本文中の根拠ハイライト（💡 根拠を見る）機能</li>
+            <li>漢字の真上にルビ表示（ふりがな ON/OFF 切替）</li>
+            <li>4言語（日・英・繁中・韓）詳細解説＆語彙注釈</li>
           </ul>
         </div>
         <div style="margin-top: 14px;">
-          <button class="card-btn-action" onclick="showToast('読解セクションは現在準備中です。近日公開予定です！')" style="background:#E2E8F0; color:#64748B; cursor:not-allowed; border-color:#CBD5E1;">
-            準備中
-          </button>
+          <a id="link-reading" href="jlpt_n2_reading.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #0D9488, #0F766E); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(13,148,136,0.3);">
+            📚 読解実戦演習を解く (全21問) →
+          </a>
+        </div>
+      </div>
+
+      <!-- 聴解道場 (全31問・音声連動) -->
+      <div class="card-box" style="border: 2px solid #B8D1F5; position: relative; overflow: visible; background: #FFFFFF;">
+        <span id="card-listening-pill" style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, #1995AD, #127285); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(25,149,173,0.3);">全31問・音声連動</span>
+        <div>
+          <div class="card-top-row">
+            <div class="card-icon-square" style="background:#EEF4FC; color:#1995AD; border-color:#B8D1F5;">🎧</div>
+            <span id="card-listening-badge" class="card-badge-count" style="background:#1995AD; color:white; font-weight:800;">31 問</span>
+          </div>
+          <div class="card-title-main" style="color:#127285;">聴解道場</div>
+          <div id="card-listening-sub" class="card-subtitle-reading">課題・ポイント・概要・即時応答・統合（ちょうかい）</div>
+          <ul class="card-feature-list">
+            <li id="card-listening-b1">全31問の実戦模試・音声ファースト設計</li>
+            <li>クリーンな4:3オリジナル場面イラスト（矢印撤廃）</li>
+            <li>会話スクリプト事後開示＆重要表現マイリスト保存</li>
+            <li>ネイティブ音声・自然な間隔のミリ秒制御</li>
+          </ul>
+        </div>
+        <div style="margin-top: 14px;">
+          <a id="link-listening" href="jlpt_n2_listening.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #1995AD, #127285); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(25,149,173,0.3);">
+            🎧 聴解実戦演習を解く (全31問) →
+          </a>
         </div>
       </div>
 
@@ -2238,13 +2263,17 @@
       ⭐ マイリストに追加
     </button>
 
-    <!-- サブアクション（コピー & 内蔵辞書検索） -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px;">
-      <button onclick="copySimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 12px; border-radius: 10px; font-size: 12.5px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; transition: all 0.15s;">
+    <!-- サブアクション（コピー & 内蔵辞書検索 & Google検索） -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr 1.2fr; gap: 6px; margin-bottom: 12px;">
+      <button onclick="copySimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 4px; transition: all 0.15s;">
         📋 コピー
       </button>
-      <button onclick="searchDictSimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 12px; border-radius: 10px; font-size: 12.5px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; transition: all 0.15s;">
-        📖 辞書で検索
+      <button onclick="searchDictSimTerm()" style="border: 1px solid #E2ECF2; background: #FFFFFF; color: var(--text-main); padding: 9px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 4px; transition: all 0.15s;">
+        📖 内蔵辞書
+      </button>
+      <button onclick="searchGoogleSimTerm()" style="border: 1px solid #4285F4; background: #4285F4; color: #FFFFFF; padding: 9px 8px; border-radius: 10px; font-size: 12px; font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 4px; transition: all 0.15s;">
+        <svg style="width:13px; height:13px; flex-shrink:0;" viewBox="0 0 24 24" fill="currentColor"><path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/></svg>
+        <span>Google検索</span>
       </button>
     </div>
 
@@ -2511,7 +2540,11 @@
       grammarUnits: 11,
       grammarQuestions: 508,
       vocabCount: 3747,
-      vocabQuizCount: 500
+      vocabQuizCount: 500,
+      readingUrl: 'jlpt_n1_reading.html',
+      readingQuestions: 21,
+      listeningUrl: 'jlpt_n1_listening.html',
+      listeningQuestions: 35
     },
     n2: {
       badge: 'JLPT N2 実戦・中上級対策',
@@ -2525,7 +2558,11 @@
       grammarUnits: 17,
       grammarQuestions: 1507,
       vocabCount: 3436,
-      vocabQuizCount: 896
+      vocabQuizCount: 896,
+      readingUrl: 'jlpt_n2_reading.html',
+      readingQuestions: 21,
+      listeningUrl: 'jlpt_n2_listening.html',
+      listeningQuestions: 31
     },
     n3: {
       badge: 'JLPT N3 中級完成対策',
@@ -2539,7 +2576,11 @@
       grammarUnits: 16,
       grammarQuestions: 728,
       vocabCount: 1841,
-      vocabQuizCount: 500
+      vocabQuizCount: 500,
+      readingUrl: 'jlpt_n3_reading.html',
+      readingQuestions: 16,
+      listeningUrl: 'jlpt_n3_listening.html',
+      listeningQuestions: 28
     },
     n4: {
       badge: 'JLPT N4 初級基礎対策',
@@ -2553,7 +2594,11 @@
       grammarUnits: 7,
       grammarQuestions: 248,
       vocabCount: 668,
-      vocabQuizCount: 365
+      vocabQuizCount: 365,
+      readingUrl: 'jlpt_n4_reading.html',
+      readingQuestions: 10,
+      listeningUrl: 'jlpt_n4_listening.html',
+      listeningQuestions: 28
     },
     n5: {
       badge: 'JLPT N5 入門対策',
@@ -2567,7 +2612,11 @@
       grammarUnits: 5,
       grammarQuestions: 184,
       vocabCount: 702,
-      vocabQuizCount: 371
+      vocabQuizCount: 371,
+      readingUrl: 'jlpt_n5_reading.html',
+      readingQuestions: 6,
+      listeningUrl: 'jlpt_n5_listening.html',
+      listeningQuestions: 24
     }
   };
 
@@ -2661,6 +2710,28 @@
     if (gqBadge) gqBadge.textContent = `${info.grammarQuestions} 問`;
     const gqB1 = document.getElementById('card-grammar-quiz-b1');
     if (gqB1) gqB1.textContent = `全${info.grammarPoints}文法項目を完全網羅 (全${info.grammarQuestions}問)`;
+
+    // 5. 読解演習
+    const linkReading = document.getElementById('link-reading');
+    if (linkReading) {
+      linkReading.href = info.readingUrl || 'jlpt_n2_reading.html';
+      linkReading.textContent = `📚 読解実戦演習を解く (全${info.readingQuestions || 21}問) →`;
+    }
+    const rdBadge = document.getElementById('card-reading-badge');
+    if (rdBadge) rdBadge.textContent = `${info.readingQuestions || 21} 問`;
+    const rdPill = document.getElementById('card-reading-pill');
+    if (rdPill) rdPill.textContent = `全${info.readingQuestions || 21}問・実戦模試`;
+
+    // 6. 聴解演習
+    const linkListening = document.getElementById('link-listening');
+    if (linkListening) {
+      linkListening.href = info.listeningUrl || 'jlpt_n2_listening.html';
+      linkListening.textContent = `🎧 聴解実戦演習を解く (全${info.listeningQuestions || 31}問) →`;
+    }
+    const lsBadge = document.getElementById('card-listening-badge');
+    if (lsBadge) lsBadge.textContent = `${info.listeningQuestions || 31} 問`;
+    const lsPill = document.getElementById('card-listening-pill');
+    if (lsPill) lsPill.textContent = `全${info.listeningQuestions || 31}問・音声連動`;
   }
 
   function checkGrammarResumeButton() {
@@ -3437,6 +3508,12 @@
     closeSimTagModal();
     const url = `dictionary.html?search=${encodeURIComponent(currentSimTerm)}`;
     window.open(url, '_blank');
+  }
+
+  function searchGoogleSimTerm() {
+    closeSimTagModal();
+    const url = `https://www.google.com/search?q=${encodeURIComponent(currentSimTerm + ' 意味')}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
   }
 
   // Vocabulary Explanation Helpers

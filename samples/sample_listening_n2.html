@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N2 聴解実戦道場サンプル — 課題理解 ＆ 即時応答（音声連動・スクリプト付き）</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      background-color: #F8FAFC;
+      font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      color: #1E293B;
+    }
+    ruby {
+      ruby-align: center;
+      ruby-position: over;
+    }
+    rt {
+      font-size: 0.6em;
+      color: #0284C7;
+      user-select: none;
+    }
+    body.furigana-off rt {
+      display: none !important;
+    }
+    .toggle-pill-track {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      background: #CBD5E1;
+      border-radius: 9999px;
+      cursor: pointer;
+      transition: background 0.25s ease;
+    }
+    .toggle-pill-track.active {
+      background: #1995AD;
+    }
+    .toggle-pill-thumb {
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 20px;
+      height: 20px;
+      background: #FFFFFF;
+      border-radius: 9999px;
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .toggle-pill-track.active .toggle-pill-thumb {
+      transform: translateX(20px);
+    }
+    /* Wave animation when playing */
+    .sound-wave-bar {
+      display: inline-block;
+      width: 3px;
+      background-color: #1995AD;
+      border-radius: 2px;
+      animation: wave 1s infinite ease-in-out;
+    }
+    .sound-wave-bar:nth-child(2) { animation-delay: 0.15s; }
+    .sound-wave-bar:nth-child(3) { animation-delay: 0.3s; }
+    .sound-wave-bar:nth-child(4) { animation-delay: 0.45s; }
+    @keyframes wave {
+      0%, 100% { height: 4px; }
+      50% { height: 18px; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- HEADER -->
+  <header class="bg-gradient-to-r from-[#1995AD] to-[#127285] text-white sticky top-0 z-40 shadow-sm">
+    <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="px-2.5 py-0.5 rounded-lg bg-white/20 text-white font-black text-xs tracking-wider border border-white/30">N2 聴解</span>
+        <h1 class="font-extrabold text-base sm:text-lg tracking-tight">実戦リスニング（課題理解 ＆ 即時応答）</h1>
+      </div>
+
+      <!-- Controls -->
+      <div class="flex items-center gap-3">
+        <div class="flex items-center gap-1.5 bg-white/15 px-3 py-1 rounded-full text-xs font-bold border border-white/25">
+          <span>ルビ</span>
+          <div id="rubyToggle" class="toggle-pill-track active" onclick="toggleRuby()" title="スクリプトのふりがな ON/OFF">
+            <div class="toggle-pill-thumb"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="max-w-4xl mx-auto px-4 py-6 flex-1 w-full space-y-8">
+
+    <!-- Pedagogical intro -->
+    <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-xs flex flex-wrap items-center justify-between gap-3">
+      <div>
+        <div class="flex items-center gap-2">
+          <span class="px-2 py-0.5 rounded bg-emerald-100 text-emerald-800 text-xs font-bold">2ステップ学習法</span>
+          <h2 class="text-base font-extrabold text-slate-800">本番テスト ➔ スクリプト字幕・解説で徹底復習</h2>
+        </div>
+        <p class="text-xs text-slate-500 mt-1">「音声だけで解く」➔「スクリプトを目で追いながら再確認（シャドーイング）」でリスニング力を2倍高めます。</p>
+      </div>
+    </div>
+
+    <!-- ==================== QUESTION 1: 課題理解 ==================== -->
+    <section class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden" id="sectionQ1">
+      <div class="p-5 sm:p-6 border-b border-slate-100 bg-slate-50/50">
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-2">
+          <span class="px-3 py-1 rounded-full bg-blue-100 text-blue-900 font-extrabold text-xs">
+            問題 1：課題理解（会話を聞いて行動を答える）
+          </span>
+          <span class="text-xs text-slate-400 font-bold">配点目安: 4点 / 出題順: 聴解第1問</span>
+        </div>
+        <p class="text-xs font-bold text-slate-600">
+          会社で、男性社員と女性社員が来週のイベントの準備について話しています。
+        </p>
+      </div>
+
+      <div class="p-5 sm:p-6 space-y-5">
+        <!-- AUDIO PLAYER BAR -->
+        <div class="p-4 rounded-2xl bg-slate-900 text-white flex flex-wrap items-center justify-between gap-4">
+          <div class="flex items-center gap-3">
+            <button id="btnPlayQ1" onclick="playAudioQ1()" class="w-12 h-12 rounded-full bg-[#1995AD] hover:bg-[#127285] active:scale-95 transition flex items-center justify-center text-white shadow-md">
+              <i data-lucide="play" class="w-6 h-6 ml-0.5" id="playIconQ1"></i>
+            </button>
+            <div>
+              <div class="text-sm font-bold flex items-center gap-2">
+                <span>問題1の音声を再生</span>
+                <span id="playingWaveQ1" class="hidden flex items-center gap-0.5 h-4">
+                  <span class="sound-wave-bar"></span>
+                  <span class="sound-wave-bar"></span>
+                  <span class="sound-wave-bar"></span>
+                  <span class="sound-wave-bar"></span>
+                </span>
+              </div>
+              <div class="text-[11px] text-slate-400">男性社員と女性社員の対話（約35秒）</div>
+            </div>
+          </div>
+
+          <!-- Speed Controls -->
+          <div class="flex items-center gap-1.5 bg-slate-800/80 p-1 rounded-xl text-xs font-bold">
+            <span class="text-[10px] text-slate-400 px-1.5">速度:</span>
+            <button onclick="setSpeedQ1(0.85)" id="speedBtn085" class="px-2 py-0.5 rounded-lg text-slate-300 hover:text-white transition">0.85x</button>
+            <button onclick="setSpeedQ1(1.0)" id="speedBtn100" class="px-2 py-0.5 rounded-lg bg-[#1995AD] text-white">1.0x</button>
+            <button onclick="setSpeedQ1(1.2)" id="speedBtn120" class="px-2 py-0.5 rounded-lg text-slate-300 hover:text-white transition">1.2x</button>
+          </div>
+        </div>
+
+        <!-- Question Prompt (What the booklet displays) -->
+        <div class="p-3 bg-amber-50/70 border border-amber-200/80 rounded-xl text-xs text-amber-900 font-bold flex items-center gap-2">
+          <i data-lucide="help-circle" class="w-4 h-4 text-amber-600 shrink-0"></i>
+          <span>質問：男の人は、このあとまず何をしますか？</span>
+        </div>
+
+        <!-- 4 Choices -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs font-medium text-slate-700" id="choicesQ1">
+          <div onclick="selectChoiceQ1(1)" id="q1_opt1" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-start gap-2.5">
+            <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">1</span>
+            <span>ポスターのデザインを修正する</span>
+          </div>
+          <div onclick="selectChoiceQ1(2)" id="q1_opt2" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-start gap-2.5">
+            <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">2</span>
+            <span>会場の変更があるか部長に確認する</span>
+          </div>
+          <div onclick="selectChoiceQ1(3)" id="q1_opt3" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-start gap-2.5">
+            <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">3</span>
+            <span>招待状のメール送信リストを確認する</span>
+          </div>
+          <div onclick="selectChoiceQ1(4)" id="q1_opt4" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-start gap-2.5">
+            <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">4</span>
+            <span>参加者アンケート用紙を印刷する</span>
+          </div>
+        </div>
+
+        <!-- Toggle Script & Explanation Button -->
+        <div class="pt-2 text-center">
+          <button onclick="toggleScriptQ1()" class="px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition inline-flex items-center gap-1.5 shadow-2xs">
+            <i data-lucide="file-text" class="w-4 h-4 text-[#1995AD]"></i>
+            <span id="btnScriptTextQ1">スクリプト（台本）と解説を見る ▼</span>
+          </button>
+        </div>
+
+        <!-- SCRIPT & IN-DEPTH EXPLANATION (Hidden by default) -->
+        <div id="scriptContainerQ1" class="hidden mt-4 pt-4 border-t border-slate-200 space-y-4">
+          
+          <!-- Full Ruby Script -->
+          <div class="bg-slate-50 p-4 rounded-xl border border-slate-200/80 text-xs sm:text-sm leading-relaxed space-y-3 font-jp">
+            <div class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mb-1 flex items-center gap-1">
+              <i data-lucide="message-square" class="w-3.5 h-3.5"></i>
+              <span>対話スクリプト（ルビ付き）</span>
+            </div>
+
+            <div class="flex items-start gap-2">
+              <span class="px-2 py-0.5 rounded bg-blue-100 text-blue-800 font-bold text-[11px] shrink-0">男</span>
+              <p>
+                「<ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>新作<rt>しんさく</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>イベントの<ruby>準備<rt>じゅんび</rt></ruby>ですが、<ruby>僕<rt>ぼく</rt></ruby>のほうで<ruby>告知<rt>こくち</rt></ruby>ポスターの<ruby>修正<rt>しゅうせい</rt></ruby>を<ruby>先<rt>さき</rt></ruby>にやっておきましょうか？」
+              </p>
+            </div>
+
+            <div class="flex items-start gap-2">
+              <span class="px-2 py-0.5 rounded bg-rose-100 text-rose-800 font-bold text-[11px] shrink-0">女</span>
+              <p>
+                「あ、ちょっと<ruby>待<rt>ま</rt></ruby>って。<ruby>部長<rt>ぶちょう</rt></ruby>から<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>変更<rt>へんこう</rt></ruby>があるかもしれないって<ruby>連絡<rt>れんらく</rt></ruby>があったから、<span class="bg-amber-100 px-1 rounded font-bold">ポスターは<ruby>保留<rt>ほりゅう</rt></ruby>にしておいて</span>。<ruby>それより<rt></rt></ruby>、<span class="bg-emerald-100 px-1 rounded font-bold text-emerald-900 border border-emerald-300"><ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>への<ruby>招待<rt>しょうたい</rt></ruby><ruby>状<rt>じょう</rt></ruby>のメールリストのチェックを<ruby>先<rt>さき</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いできる？</span>」
+              </p>
+            </div>
+
+            <div class="flex items-start gap-2">
+              <span class="px-2 py-0.5 rounded bg-blue-100 text-blue-800 font-bold text-[11px] shrink-0">男</span>
+              <p>
+                「わかりました。あ、でもその<ruby>前<rt>まえ</rt></ruby>に、アンケート<ruby>用紙<rt>ようし</rt></ruby>の<ruby>印刷<rt>いんさつ</rt></ruby>だけ<ruby>済<rt>す</rt></ruby>ませておいたほうがいいですか？」
+              </p>
+            </div>
+
+            <div class="flex items-start gap-2">
+              <span class="px-2 py-0.5 rounded bg-rose-100 text-rose-800 font-bold text-[11px] shrink-0">女</span>
+              <p>
+                「ううん、アンケートは<ruby>枚数<rt>まいすう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないから、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>で<ruby>十分<rt>じゅうぶん</rt></ruby>よ。<ruby>招待<rt>しょうたい</rt></ruby><ruby>状<rt>じょう</rt></ruby>のほうをよろしくね。」
+              </p>
+            </div>
+
+            <div class="flex items-start gap-2 border-t border-slate-200/60 pt-2 text-slate-500 text-xs">
+              <span class="px-2 py-0.5 rounded bg-slate-200 text-slate-700 font-bold text-[11px] shrink-0">問</span>
+              <p class="font-bold text-slate-800">男の人は、このあとまず何をしますか？</p>
+            </div>
+          </div>
+
+          <!-- Explanation Box -->
+          <div class="bg-emerald-50/70 border border-emerald-200 p-4 rounded-xl text-xs text-slate-700 leading-relaxed space-y-2">
+            <div class="font-bold text-emerald-900 flex items-center gap-1.5 text-sm">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600"></i>
+              <span>正解：【 3 】招待状のメール送信リストを確認する</span>
+            </div>
+            <p>
+              <strong>【リスニングの急所（JLPT特有のどんでん返しパターン）】</strong><br>
+              ① 男が「ポスターの修正を先に」と提案するが、女が「ちょっと待って、ポスターは保留にして」と却下。<br>
+              ② 女が「それより招待状のメールリストのチェックを先にお願いできる？」と最優先タスクを指定。<br>
+              ③ 男が「その前にアンケート用紙の印刷を…」と尋ねるが、女が「明日の朝で十分よ」と断る。<br>
+              ➔ したがって、男がこのあと最初に着手するのは【3】となります。
+            </p>
+            <div class="text-[11px] text-slate-500 bg-white p-2.5 rounded border border-emerald-200">
+              <strong>【重要単語・表現】</strong><br>
+              ・<strong>保留（ほりゅう）</strong>：決定や実行を先延ばしにすること。<br>
+              ・<strong>それより〜</strong>：話題や優先順位を別のことに切り替える合図。
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== QUESTION 2: 即時応答 ==================== -->
+    <section class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden" id="sectionQ2">
+      <div class="p-5 sm:p-6 border-b border-slate-100 bg-slate-50/50">
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-2">
+          <span class="px-3 py-1 rounded-full bg-purple-100 text-purple-900 font-extrabold text-xs">
+            問題 4：即時応答（短い発話に即座に正しい敬語で返す）
+          </span>
+          <span class="text-xs text-slate-400 font-bold">配点目安: 2点 / 1問1答形式（約15秒）</span>
+        </div>
+        <p class="text-xs font-bold text-slate-600">
+          発話を聞いて、1から3の中から最も適切な返答を1つ選んでください。
+        </p>
+      </div>
+
+      <div class="p-5 sm:p-6 space-y-5">
+        <!-- AUDIO PLAYER BAR -->
+        <div class="p-4 rounded-2xl bg-slate-900 text-white flex items-center justify-between gap-4">
+          <div class="flex items-center gap-3">
+            <button id="btnPlayQ2" onclick="playAudioQ2()" class="w-12 h-12 rounded-full bg-purple-600 hover:bg-purple-700 active:scale-95 transition flex items-center justify-center text-white shadow-md">
+              <i data-lucide="play" class="w-6 h-6 ml-0.5" id="playIconQ2"></i>
+            </button>
+            <div>
+              <div class="text-sm font-bold flex items-center gap-2">
+                <span>発話音声を再生</span>
+                <span id="playingWaveQ2" class="hidden flex items-center gap-0.5 h-4">
+                  <span class="sound-wave-bar" style="background-color: #A855F7;"></span>
+                  <span class="sound-wave-bar" style="background-color: #A855F7;"></span>
+                  <span class="sound-wave-bar" style="background-color: #A855F7;"></span>
+                  <span class="sound-wave-bar" style="background-color: #A855F7;"></span>
+                </span>
+              </div>
+              <div class="text-[11px] text-slate-400">ビジネス日常会話の1ターン（約5秒）</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3 Audio Choices -->
+        <div class="space-y-2.5 text-xs font-medium text-slate-700">
+          <div onclick="selectChoiceQ2(1)" id="q2_opt1" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-center justify-between">
+            <div class="flex items-center gap-2.5">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0">1</span>
+              <span>「ええ、どうぞ。向こうの会議室で話そうか。」</span>
+            </div>
+            <button onclick="event.stopPropagation(); speakChoiceQ2(1)" class="p-1.5 rounded-lg text-slate-400 hover:text-purple-600 hover:bg-purple-50 transition" title="選択肢1の音声を聞く">
+              <i data-lucide="volume-2" class="w-4 h-4"></i>
+            </button>
+          </div>
+
+          <div onclick="selectChoiceQ2(2)" id="q2_opt2" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-center justify-between">
+            <div class="flex items-center gap-2.5">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0">2</span>
+              <span>「いえ、折り入って相談してください。」</span>
+            </div>
+            <button onclick="event.stopPropagation(); speakChoiceQ2(2)" class="p-1.5 rounded-lg text-slate-400 hover:text-purple-600 hover:bg-purple-50 transition" title="選択肢2の音声を聞く">
+              <i data-lucide="volume-2" class="w-4 h-4"></i>
+            </button>
+          </div>
+
+          <div onclick="selectChoiceQ2(3)" id="q2_opt3" class="p-3.5 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer transition flex items-center justify-between">
+            <div class="flex items-center gap-2.5">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0">3</span>
+              <span>「そうですか、もう相談しましたよ。」</span>
+            </div>
+            <button onclick="event.stopPropagation(); speakChoiceQ2(3)" class="p-1.5 rounded-lg text-slate-400 hover:text-purple-600 hover:bg-purple-50 transition" title="選択肢3の音声を聞く">
+              <i data-lucide="volume-2" class="w-4 h-4"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Toggle Script Q2 -->
+        <div class="pt-2 text-center">
+          <button onclick="toggleScriptQ2()" class="px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition inline-flex items-center gap-1.5 shadow-2xs">
+            <i data-lucide="file-text" class="w-4 h-4 text-purple-600"></i>
+            <span id="btnScriptTextQ2">発話文と解説を見る ▼</span>
+          </button>
+        </div>
+
+        <!-- SCRIPT & EXPLANATION Q2 -->
+        <div id="scriptContainerQ2" class="hidden mt-4 pt-4 border-t border-slate-200 space-y-4">
+          <div class="bg-purple-50/60 border border-purple-200 p-4 rounded-xl text-xs text-slate-700 leading-relaxed space-y-2">
+            <div class="font-bold text-purple-900 flex items-center gap-1.5 text-sm">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600"></i>
+              <span>正解：【 1 】「ええ、どうぞ。向こうの会議室で話そうか。」</span>
+            </div>
+            <p>
+              <strong>【発話文】</strong><br>
+              「あの、<ruby>課長<rt>かちょう</rt></ruby>、<ruby>折<rt>お</rt></ruby>り<ruby>入<rt>い</rt></ruby>ってご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるんですが、<ruby>今<rt>いま</rt></ruby>よろしいでしょうか。」
+            </p>
+            <p>
+              <strong>【解説】</strong><br>
+              部下が上司に「真剣な相談（折り入った相談）」を持ちかけている場面。「今よろしいでしょうか」と許可を求めているため、上司側の返答として快く応じる【1】が自然で適切。<br>
+              ・2: 「折り入って〜してください」と部下に命令するのは不自然。<br>
+              ・3: これから相談する場面なので、「もう相談しましたよ」は時制がおかしい。
+            </p>
+            <div class="text-[11px] text-slate-500 bg-white p-2.5 rounded border border-purple-200">
+              <strong>【重要慣用句】</strong><br>
+              ・<strong>折り入って（おりいって）</strong>：特別に改まって、どうしても個人的に相談したいことがあるときに使う丁寧な前置き。
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="py-4 text-center text-xs text-slate-400 bg-white border-t border-slate-200 mt-8">
+    JLPT Listening Comprehension Interactive Showcase &bull; 2-Step Cognitive Design
+  </footer>
+
+  <script>
+    let isRubyOn = true;
+    let playbackSpeedQ1 = 1.0;
+    let currentUtterance = null;
+
+    function toggleRuby() {
+      isRubyOn = !isRubyOn;
+      const pill = document.getElementById('rubyToggle');
+      if (isRubyOn) {
+        document.body.classList.remove('furigana-off');
+        pill.classList.add('active');
+      } else {
+        document.body.classList.add('furigana-off');
+        pill.classList.remove('active');
+      }
+    }
+
+    function setSpeedQ1(speed) {
+      playbackSpeedQ1 = speed;
+      ['085', '100', '120'].forEach(s => {
+        const btn = document.getElementById(`speedBtn${s}`);
+        btn.className = 'px-2 py-0.5 rounded-lg text-slate-300 hover:text-white transition';
+      });
+      const activeBtnId = (speed === 0.85) ? 'speedBtn085' : (speed === 1.2 ? 'speedBtn120' : 'speedBtn100');
+      document.getElementById(activeBtnId).className = 'px-2 py-0.5 rounded-lg bg-[#1995AD] text-white';
+    }
+
+    // Audio Playback for Q1 using Google TTS / Web Speech API
+    const Q1_DIALOGUE = [
+      { text: "一番。会社で、男性社員と女性社員が来週のイベントの準備について話しています。男の人は、このあとまず何をしますか？", lang: "ja", pitch: 1.0 },
+      { text: "先輩、来週の新作発表イベントの準備ですが、僕のほうで告知ポスターの修正を先にやっておきましょうか？", lang: "ja", pitch: 0.9 },
+      { text: "あ、ちょっと待って。部長から会場の変更があるかもしれないって連絡があったから、ポスターは保留にしておいて。それより、取引先への招待状のメールリストのチェックを先にお願いできる？", lang: "ja", pitch: 1.2 },
+      { text: "わかりました。あ、でもその前に、アンケート用紙の印刷だけ済ませておいたほうがいいですか？", lang: "ja", pitch: 0.9 },
+      { text: "ううん、アンケートは枚数が少ないから、明日の朝で十分よ。招待状のほうをよろしくね。", lang: "ja", pitch: 1.2 },
+      { text: "男の人は、このあとまず何をしますか？", lang: "ja", pitch: 1.0 }
+    ];
+
+    function playAudioQ1() {
+      if ('speechSynthesis' in window) {
+        if (window.speechSynthesis.speaking) {
+          window.speechSynthesis.cancel();
+          setPlayingUIQ1(false);
+          return;
+        }
+
+        setPlayingUIQ1(true);
+        let idx = 0;
+        function playNext() {
+          if (idx >= Q1_DIALOGUE.length) {
+            setPlayingUIQ1(false);
+            return;
+          }
+          const item = Q1_DIALOGUE[idx++];
+          const u = new SpeechSynthesisUtterance(item.text);
+          u.lang = 'ja-JP';
+          u.rate = playbackSpeedQ1;
+          u.pitch = item.pitch;
+          u.onend = playNext;
+          u.onerror = () => setPlayingUIQ1(false);
+          window.speechSynthesis.speak(u);
+        }
+        playNext();
+      } else {
+        alert("お使いのブラウザは音声合成に対応していません。");
+      }
+    }
+
+    function setPlayingUIQ1(playing) {
+      const icon = document.getElementById('playIconQ1');
+      const wave = document.getElementById('playingWaveQ1');
+      if (playing) {
+        icon.setAttribute('data-lucide', 'square');
+        wave.classList.remove('hidden');
+      } else {
+        icon.setAttribute('data-lucide', 'play');
+        wave.classList.add('hidden');
+      }
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    function selectChoiceQ1(opt) {
+      for (let i = 1; i <= 4; i++) {
+        const el = document.getElementById(`q1_opt${i}`);
+        el.className = 'p-3.5 rounded-xl border cursor-pointer transition flex items-start gap-2.5 text-xs font-medium ';
+        if (i === opt) {
+          if (opt === 3) {
+            el.className += 'bg-emerald-50 border-emerald-500 text-emerald-900 font-bold ring-2 ring-emerald-500/20';
+          } else {
+            el.className += 'bg-rose-50 border-rose-500 text-rose-900 font-bold ring-2 ring-rose-500/20';
+          }
+        } else if (i === 3) {
+          el.className += 'bg-emerald-50/60 border-emerald-300 text-emerald-800';
+        } else {
+          el.className += 'border-slate-200 text-slate-400 opacity-60';
+        }
+      }
+      toggleScriptQ1(true); // Open script on answer
+    }
+
+    function toggleScriptQ1(forceOpen = false) {
+      const c = document.getElementById('scriptContainerQ1');
+      const t = document.getElementById('btnScriptTextQ1');
+      const isHidden = c.classList.contains('hidden');
+      if (isHidden || forceOpen) {
+        c.classList.remove('hidden');
+        t.textContent = 'スクリプト（台本）と解説を閉じる ▲';
+      } else {
+        c.classList.add('hidden');
+        t.textContent = 'スクリプト（台本）と解説を見る ▼';
+      }
+    }
+
+    // Audio Playback for Q2
+    function playAudioQ2() {
+      if ('speechSynthesis' in window) {
+        if (window.speechSynthesis.speaking) {
+          window.speechSynthesis.cancel();
+          setPlayingUIQ2(false);
+          return;
+        }
+        setPlayingUIQ2(true);
+        const text = "あの、課長、折り入ってご相談したいことがあるんですが、今よろしいでしょうか。";
+        const u = new SpeechSynthesisUtterance(text);
+        u.lang = 'ja-JP';
+        u.rate = 1.0;
+        u.onend = () => setPlayingUIQ2(false);
+        u.onerror = () => setPlayingUIQ2(false);
+        window.speechSynthesis.speak(u);
+      }
+    }
+
+    function setPlayingUIQ2(playing) {
+      const icon = document.getElementById('playIconQ2');
+      const wave = document.getElementById('playingWaveQ2');
+      if (playing) {
+        icon.setAttribute('data-lucide', 'square');
+        wave.classList.remove('hidden');
+      } else {
+        icon.setAttribute('data-lucide', 'play');
+        wave.classList.add('hidden');
+      }
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    function speakChoiceQ2(opt) {
+      if (!('speechSynthesis' in window)) return;
+      window.speechSynthesis.cancel();
+      const choices = [
+        "ええ、どうぞ。向こうの会議室で話そうか。",
+        "いえ、折り入って相談してください。",
+        "そうですか、もう相談しましたよ。"
+      ];
+      const u = new SpeechSynthesisUtterance(choices[opt - 1]);
+      u.lang = 'ja-JP';
+      window.speechSynthesis.speak(u);
+    }
+
+    function selectChoiceQ2(opt) {
+      for (let i = 1; i <= 3; i++) {
+        const el = document.getElementById(`q2_opt${i}`);
+        el.className = 'p-3.5 rounded-xl border cursor-pointer transition flex items-center justify-between text-xs font-medium ';
+        if (i === opt) {
+          if (opt === 1) {
+            el.className += 'bg-emerald-50 border-emerald-500 text-emerald-900 font-bold ring-2 ring-emerald-500/20';
+          } else {
+            el.className += 'bg-rose-50 border-rose-500 text-rose-900 font-bold ring-2 ring-rose-500/20';
+          }
+        } else if (i === 1) {
+          el.className += 'bg-emerald-50/60 border-emerald-300 text-emerald-800';
+        } else {
+          el.className += 'border-slate-200 text-slate-400 opacity-60';
+        }
+      }
+      toggleScriptQ2(true);
+    }
+
+    function toggleScriptQ2(forceOpen = false) {
+      const c = document.getElementById('scriptContainerQ2');
+      const t = document.getElementById('btnScriptTextQ2');
+      const isHidden = c.classList.contains('hidden');
+      if (isHidden || forceOpen) {
+        c.classList.remove('hidden');
+        t.textContent = '発話文と解説を閉じる ▲';
+      } else {
+        c.classList.add('hidden');
+        t.textContent = '発話文と解説を見る ▼';
+      }
+    }
+
+    window.onload = function() {
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+  </script>
+</body>
+</html>

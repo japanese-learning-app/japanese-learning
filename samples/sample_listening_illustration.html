@@ -1,0 +1,2131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT 聴解（リスニング）実戦道場 — イラスト連動オリジナル演習</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="../database/dictionary_data.js" defer></script>
+  <style>
+    :root {
+      /* カラーパレット：文法道場（jlpt_n2_grammar_quiz）完全準拠 */
+      --primary-blue: #1995AD;
+      --primary-blue-dark: #127285;
+      --primary-blue-light: #43B0C4;
+      --primary-blue-pale: #EDF7F9;
+      
+      --point-navy: #4D648D;
+      --point-ice: #D0E1F9;
+
+      --sakura-pink-bg: #FAF1F3;
+      --sakura-pink-soft: #FDF7F8;
+      --sakura-pink-accent: #E8A4B2;
+      --sakura-pink-deep: #B8596E;
+      --sakura-pink-border: #F2D5DB;
+
+      --mint-cyan: #1995AD;
+      --mint-cyan-light: #EDF7F9;
+      
+      --text-primary: #1F2D3D;
+      --text-secondary: #4D648D;
+      --text-muted: #7E92A2;
+      
+      --card-bg: #FFFFFF;
+      --card-border: #E2ECF2;
+      --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
+
+      --correct-bg: #E8F5E9;
+      --correct-border: #81C784;
+      --correct-text: #2E7D32;
+
+      --wrong-bg: #EEF4FC;
+      --wrong-border: #B8D1F5;
+      --wrong-text: #4D648D;
+
+      --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: var(--sakura-pink-bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      font-family: var(--app-font);
+      line-height: 1.7;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    ruby {
+      ruby-align: center;
+      ruby-position: over;
+    }
+
+    ruby rt {
+      font-size: 0.54em;
+      color: var(--primary-blue-dark);
+      font-weight: 600;
+      user-select: none;
+      letter-spacing: 0;
+      line-height: 1;
+      transform: translateY(-2px);
+    }
+
+    body.furigana-off ruby rt {
+      display: none !important;
+    }
+
+    /* Site Header (道場スタイル完全一致) */
+    .site-header {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: #FFFFFF;
+      padding: 16px 20px 14px;
+      box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .brand-title {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-badge {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 9px;
+      border-radius: 20px;
+      letter-spacing: 0.5px;
+    }
+
+    .brand-sub {
+      font-size: 12px;
+      color: rgba(255, 255, 255, 0.88);
+      margin-top: 2px;
+      font-weight: 500;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-btn {
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      color: #FFFFFF;
+      padding: 6px 13px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      user-select: none;
+    }
+
+    .header-btn:hover {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+    }
+
+    .furigana-toggle {
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      border-radius: 30px;
+      padding: 3px 5px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      user-select: none;
+    }
+
+    .furigana-toggle:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+
+    .toggle-label {
+      font-size: 11.5px;
+      font-weight: 700;
+      padding: 3px 9px;
+      border-radius: 20px;
+      transition: all 0.25s ease;
+    }
+
+    .toggle-label.active {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+
+    .toggle-label.inactive {
+      color: rgba(255, 255, 255, 0.85);
+    }
+
+    /* Main Container & Question Card */
+    .question-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 28px 28px 24px;
+      box-shadow: var(--card-shadow);
+      margin-bottom: 24px;
+      position: relative;
+      transition: all 0.3s ease;
+    }
+
+    @media (max-width: 640px) {
+      .question-card {
+        padding: 20px 16px 18px;
+      }
+    }
+
+    .card-top-badges {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    .badge-category {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 20px;
+      letter-spacing: 0.3px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid rgba(25, 149, 173, 0.2);
+    }
+
+    .badge-qnum {
+      font-size: 15px;
+      color: var(--primary-blue);
+      font-weight: 800;
+      letter-spacing: 0.5px;
+    }
+
+    /* Bookmark Star Button (右上の★) */
+    .bookmark-star-btn {
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      font-size: 19px;
+      color: #CBD5E1;
+      transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+      line-height: 1;
+      padding: 0 4px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .bookmark-star-btn:hover {
+      transform: scale(1.2);
+      color: #F59E0B;
+    }
+
+    .bookmark-star-btn.active {
+      color: #F59E0B !important;
+      text-shadow: 0 0 10px rgba(245, 158, 11, 0.45);
+    }
+
+    /* Minimal Audio Player */
+    .audio-player-box {
+      background: var(--primary-blue-pale);
+      border: 1px solid rgba(25, 149, 173, 0.25);
+      border-radius: 16px;
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: all 0.2s ease;
+    }
+
+    .audio-play-btn {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: #FFFFFF;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(25, 149, 173, 0.3);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: none;
+      flex-shrink: 0;
+    }
+
+    .audio-play-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 16px rgba(25, 149, 173, 0.4);
+    }
+
+    .audio-play-btn:active {
+      transform: scale(0.96);
+    }
+
+    /* Illustration Container (4:3 Unified Aspect Ratio) */
+    .illustration-frame {
+      width: 100%;
+      background: #FAFCFD;
+      border: 1px solid var(--card-border);
+      border-radius: 18px;
+      padding: 12px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .illustration-inner {
+      width: 100%;
+      max-width: 480px;
+      aspect-ratio: 4 / 3;
+      border-radius: 14px;
+      overflow: hidden;
+      background: #FFFFFF;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+      border: 1px solid var(--card-border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px;
+    }
+
+    .illustration-inner img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+
+    /* Choices Grid (1〜4番すべてユーザー指定の完全同一カラーに統一) */
+    .choices-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    @media (max-width: 640px) {
+      .choices-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .choice-card {
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      border-radius: 14px;
+      padding: 14px 16px;
+      font-size: 15px;
+      font-weight: 600;
+      color: #1F2D3D;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+      box-shadow: 0 2px 6px rgba(77, 100, 141, 0.04);
+      user-select: none;
+    }
+
+    .choice-card:hover:not(.locked) {
+      border-color: #7AA2DE;
+      background: #EEF4FC;
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(77, 100, 141, 0.12);
+    }
+
+    .choice-card.locked {
+      cursor: default;
+    }
+
+    .choice-card.placeholder {
+      background: #F1F5F9;
+      border: 1.5px dashed #CBD5E1;
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .choice-badge-num {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      color: #4D648D;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 800;
+      flex-shrink: 0;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(77, 100, 141, 0.08);
+    }
+
+    /* 1〜4番すべて：選択肢カード本体・サークル内ともに白背景、上品なブルー枠（#B8D1F5）で統一 */
+    .badge-num-1,
+    .badge-num-2,
+    .badge-num-3,
+    .badge-num-4 {
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      color: #4D648D;
+    }
+
+    /* 正解・不正解ステート */
+    .choice-card.correct {
+      background: var(--correct-bg) !important;
+      border-color: var(--correct-border) !important;
+      color: var(--correct-text) !important;
+    }
+    .choice-card.correct .choice-badge-num {
+      background: var(--correct-border) !important;
+      color: #FFFFFF !important;
+      border-color: var(--correct-border) !important;
+    }
+
+    .choice-card.wrong {
+      background: #FEE2E2 !important;
+      border-color: #FCA5A5 !important;
+      color: #991B1B !important;
+    }
+    .choice-card.wrong .choice-badge-num {
+      background: #F87171 !important;
+      color: #FFFFFF !important;
+      border-color: #F87171 !important;
+    }
+
+    /* Feedback / Explanation Box (サクラピンクコンテナ完全一致) */
+    .explanation-box {
+      margin-top: 22px;
+      padding: 20px 22px;
+      border-radius: 18px;
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      display: none;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .explanation-box.show {
+      display: block;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .exp-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 14px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--sakura-pink-border);
+    }
+
+    .exp-status-badge {
+      font-size: 12.5px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 20px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .exp-status-badge.correct {
+      background: var(--correct-bg);
+      color: var(--correct-text);
+      border: 1px solid var(--correct-border);
+    }
+
+    .exp-status-badge.wrong {
+      background: var(--wrong-bg);
+      color: var(--wrong-text);
+      border: 1px solid var(--wrong-border);
+    }
+
+    .exp-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--primary-blue-dark);
+    }
+
+    .exp-reading {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-left: 6px;
+      font-weight: 500;
+    }
+
+    .exp-meaning {
+      font-size: 13.5px;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    /* Complete Sentence Box */
+    .exp-full-sentence-box {
+      background: #FFFFFF;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 14px;
+      padding: 14px 18px;
+      margin-bottom: 14px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+    }
+
+    .exp-full-sentence-label {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--primary-blue);
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: block;
+    }
+
+    .exp-full-sentence-text {
+      font-size: 16.5px;
+      line-height: 2.1;
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+
+    /* Similar Expressions Box */
+    .exp-similar-box {
+      background: #FFFFFF;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 14px;
+      padding: 14px 18px;
+      margin-bottom: 14px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+    }
+
+    .similar-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: var(--sakura-pink-bg);
+      border: 1px solid var(--sakura-pink-border);
+      color: var(--sakura-pink-deep);
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .similar-pill:hover {
+      background: #FFE4E6;
+      border-color: #F472B6;
+      transform: translateY(-1px);
+    }
+
+    /* Language Tabs */
+    .lang-tabs-bar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      border-bottom: 1px solid var(--sakura-pink-border);
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .lang-tab-btn {
+      padding: 5px 12px;
+      border-radius: 10px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      background: #FFFFFF;
+      border: 1px solid var(--card-border);
+      color: var(--text-secondary);
+    }
+
+    .lang-tab-btn:hover {
+      background: var(--primary-blue-pale);
+      color: var(--primary-blue-dark);
+    }
+
+    .lang-tab-btn.active {
+      background: var(--primary-blue);
+      color: #FFFFFF;
+      border-color: var(--primary-blue);
+      box-shadow: 0 2px 6px rgba(25, 149, 173, 0.25);
+    }
+
+    /* Script Accordion Button */
+    .script-accordion-btn {
+      width: 100%;
+      padding: 10px 16px;
+      background: #FFFFFF;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--primary-blue-dark);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    }
+
+    .script-accordion-btn:hover {
+      background: var(--primary-blue-pale);
+      border-color: var(--primary-blue-light);
+    }
+
+    .script-panel {
+      background: #FFFFFF;
+      border: 1px solid var(--sakura-pink-border);
+      border-radius: 12px;
+      padding: 14px 18px;
+      margin-top: 10px;
+      display: none;
+      animation: fadeIn 0.25s ease;
+    }
+
+    .script-panel.show {
+      display: block;
+    }
+
+    /* Floating Text Selection Toolbar (どの文を選んでも検索＆保存) */
+    #selection-toolbar {
+      display: none;
+      position: fixed;
+      z-index: 100;
+      background: #1F2D3D;
+      color: white;
+      border-radius: 30px;
+      padding: 6px 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      font-weight: 700;
+      animation: popIn 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+      user-select: none;
+    }
+
+    @keyframes popIn {
+      from { opacity: 0; transform: translateY(6px) scale(0.95); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+  </style>
+</head>
+<body class="flex flex-col">
+
+  <!-- ========================================== -->
+  <!-- Header (道場スタイル・グラデーション完全一致) -->
+  <!-- ========================================== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand-area">
+        <div class="brand-title">
+          <span>JLPT 聴解（リスニング）実戦道場</span>
+          <span class="brand-badge">実戦オリジナル問題</span>
+        </div>
+        <div class="brand-sub">場面イラスト連動リスニング演習</div>
+      </div>
+      <div class="header-actions">
+        <a href="../index.html" class="header-btn">
+          <i data-lucide="arrow-left" class="w-3.5 h-3.5"></i>
+          <span>ホームへ</span>
+        </a>
+        <div class="furigana-toggle" onclick="toggleFurigana()">
+          <span class="toggle-label active" id="furigana-on-label">ふりがな ON</span>
+          <span class="toggle-label inactive" id="furigana-off-label">OFF</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================== -->
+  <!-- Main Container -->
+  <!-- ========================================== -->
+  <main class="max-w-[900px] w-full mx-auto px-4 py-8 flex-1 space-y-8">
+
+    <!-- ========================================== -->
+    <!-- QUESTION 1: 発話表現 (傘をどうぞ) -->
+    <!-- ========================================== -->
+    <article class="question-card">
+      
+      <!-- Top Badges: 右上にインタラクティブな★ボタン完備 -->
+      <div class="card-top-badges">
+        <div class="badge-category">
+          <span>聴解 #01</span>
+          <span>もんだい 3：発話表現</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="badge-qnum">Q. 1</span>
+          <button onclick="toggleQuestionBookmark('q1', this)" id="q1-star-btn" class="bookmark-star-btn" title="この問題をマイリスト（JLPT問題フォルダ）に保存">
+            ★
+          </button>
+        </div>
+      </div>
+
+      <!-- 1. 一番上: 音声を聞く ＆ イラスト (Unified 4:3 Aspect Ratio) -->
+      <div class="space-y-4">
+        
+        <!-- Clean Audio Player -->
+        <div class="audio-player-box">
+          <div class="flex items-center space-x-3">
+            <button onclick="playAudio('audio-1', 'btn-1')" id="btn-1" class="audio-play-btn">
+              <i data-lucide="play" class="w-5 h-5 ml-0.5"></i>
+            </button>
+            <div>
+              <div class="text-sm font-bold text-[#127285]">
+                音声を聞く
+              </div>
+              <div class="text-[11px] text-[#4D648D]">
+                女の人のセリフを選びます
+              </div>
+            </div>
+          </div>
+          <span id="audio-1-status" class="text-xs font-semibold text-[#7E92A2]">未再生</span>
+          <audio id="audio-1" src="../audio/listening/q1_umbrella.mp3" preload="metadata"></audio>
+        </div>
+
+        <!-- Unified 4:3 Illustration Container -->
+        <div class="illustration-frame">
+          <div class="illustration-inner">
+            <img 
+              src="../images/listening/q1_umbrella.jpg" 
+              alt="傘を勧める場面のイラスト" 
+            />
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 2. その後: 選択肢 (1〜4番すべてユーザー指定の統一アイスブルー) -->
+      <div class="choices-grid">
+        
+        <!-- Choice 1 (Correct) -->
+        <div onclick="selectChoice('q1', 1, true)" id="q1-card-1" class="choice-card">
+          <div class="choice-badge-num badge-num-1">1</div>
+          <div class="flex-1">
+            <ruby>傘<rt>かさ</rt></ruby>をどうぞ。<ruby>使<rt>つか</rt></ruby>ってください。
+          </div>
+        </div>
+
+        <!-- Choice 2 -->
+        <div onclick="selectChoice('q1', 2, false)" id="q1-card-2" class="choice-card">
+          <div class="choice-badge-num badge-num-2">2</div>
+          <div class="flex-1">
+            <ruby>傘<rt>かさ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りてもいいですか。
+          </div>
+        </div>
+
+        <!-- Choice 3 -->
+        <div onclick="selectChoice('q1', 3, false)" id="q1-card-3" class="choice-card">
+          <div class="choice-badge-num badge-num-3">3</div>
+          <div class="flex-1">
+            <ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてくれました。
+          </div>
+        </div>
+
+        <!-- Choice 4 (Empty placeholder / 3-choice format) -->
+        <div class="choice-card placeholder locked">
+          <div class="choice-badge-num">4</div>
+          <div class="text-xs text-slate-400 italic">
+            （3つの選択肢から選びます）
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 3. 押したら答えと解説 (道場サクラピンクコンテナ完全一致) -->
+      <div id="q1-feedback" class="explanation-box">
+        
+        <div class="exp-header">
+          <div class="flex items-center space-x-3">
+            <span id="q1-status-pill" class="exp-status-badge"></span>
+            <span class="exp-title">
+              傘をどうぞ。使ってください
+            </span>
+            <span class="exp-reading">
+              (kasa o douzo. tsukatte kudasai)
+            </span>
+          </div>
+          <span class="exp-meaning">
+            Here is an umbrella. Please use it.
+          </span>
+        </div>
+
+        <!-- Inner White Card: 正解の完成例文 -->
+        <div class="exp-full-sentence-box">
+          <span class="exp-full-sentence-label">
+            正解の完成例文:
+          </span>
+          <p class="exp-full-sentence-text">
+            <ruby>雨<rt>あめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby><ruby>出<rt>で</rt></ruby>かける<ruby>同僚<rt>どうりょう</rt></ruby>に、「<span class="text-[#1995AD] underline decoration-[#43B0C4] decoration-2 underline-offset-4"><ruby>傘<rt>かさ</rt></ruby>をどうぞ。<ruby>使<rt>つか</rt></ruby>ってください</span>」と<ruby>言<rt>い</rt></ruby>います。
+          </p>
+        </div>
+
+        <!-- Inner White Card: 似ている文法・関連表現 (Interactive Pills) -->
+        <div class="exp-similar-box space-y-2">
+          <div class="flex items-center justify-between text-xs">
+            <span class="font-bold text-[#B8596E] flex items-center space-x-1">
+              <span>💡 親切に物を貸す・勧める関連表現:</span>
+            </span>
+            <span class="text-[11px] text-[#7E92A2]">（タップで意味確認・マイリスト追加）</span>
+          </div>
+          <div class="flex flex-wrap gap-2 pt-1">
+            <button onclick="openExpressionModal('exp_1')" class="similar-pill">
+              <span>よろしければお使いください</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_2')" class="similar-pill">
+              <span>これ、お貸ししましょうか</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_3')" class="similar-pill">
+              <span>いつでも返してください</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Multilingual Explanations Section (JA / EN / ZH / KO) -->
+        <div class="space-y-3 pt-2">
+          <!-- Language Tabs -->
+          <div class="lang-tabs-bar">
+            <button onclick="switchLang('q1', 'ja')" id="q1-tab-ja" class="lang-tab-btn active">
+              日本語
+            </button>
+            <button onclick="switchLang('q1', 'en')" id="q1-tab-en" class="lang-tab-btn">
+              🇺🇸 English
+            </button>
+            <button onclick="switchLang('q1', 'zh')" id="q1-tab-zh" class="lang-tab-btn">
+              🇹🇼 繁體中文
+            </button>
+            <button onclick="switchLang('q1', 'ko')" id="q1-tab-ko" class="lang-tab-btn">
+              🇰🇷 한국어
+            </button>
+          </div>
+
+          <!-- Japanese Explanation Content -->
+          <div id="q1-content-ja" class="text-xs text-[#1F2D3D] leading-relaxed">
+            <strong>【解説・受給の視点】</strong><br>
+            自分が持っている物を相手に「貸す」ときは、相手を思いやる気持ちを込めて「どうぞ、使ってください」と勧めます。<br>
+            ②「傘を借りてもいいですか」は、自分が傘を持っておらず相手から借りたいときに使う表現です（視点が逆）。<br>
+            ③「傘を持ってきてくれました」は、第三者が自分にしてくれた行為を客観的に述べる文であり、相手への直接の呼びかけには使えません。
+          </div>
+
+          <!-- English Explanation Content -->
+          <div id="q1-content-en" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>[Explanation & Perspective]</strong></p>
+            <p>When kindly offering to lend an item you have to someone else, use <em>"Douzo, tsukatte kudasai"</em> (Please go ahead and use it).</p>
+            <p><strong>②</strong> <em>"Kasa o karitemo ii desu ka"</em> (May I borrow an umbrella?) is used when you yourself want to borrow an umbrella, which is the opposite perspective.</p>
+            <p><strong>③</strong> <em>"Kasa o mottekite kuremashita"</em> (Someone brought an umbrella for me) describes a completed past action by a third party, and cannot be used to speak directly to someone.</p>
+          </div>
+
+          <!-- Traditional Chinese Explanation Content -->
+          <div id="q1-content-zh" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【詳細解析・授受關係視角】</strong></p>
+            <p>當主動將自己的物品「借給」他人時，帶著體貼對方的心情使用「どうぞ、使ってください」（請用吧）來推薦對方使用。</p>
+            <p><strong>②</strong>「傘を借りてもいいですか」（我可以借傘嗎？）是自己想向對方借東西時請求許可的說法，視角剛好相反。</p>
+            <p><strong>③</strong>「傘を持ってきてくれました」（為我帶傘來了）是客觀陳述別人為自己做的事，不能用作向眼前人開口的問候語。</p>
+          </div>
+
+          <!-- Korean Explanation Content -->
+          <div id="q1-content-ko" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【상세 해설・수수 관계의 시점】</strong></p>
+            <p>자신이 가진 물건을 상대방에게 '빌려줄' 때는 배려하는 마음을 담아 "どうぞ、使ってください"(자, 쓰세요)라고 권합니다.</p>
+            <p><strong>②</strong> "傘を借りてもいいですか"(우산 빌려도 될까요?)는 자신이 우산을 빌리고 싶을 때 허락을 구하는 표현으로, 시점이 반대입니다.</p>
+            <p><strong>③</strong> "傘を持ってきてくれました"(우산을 가져다주었습니다)는 제3자가 나를 위해 해 준 행동을 객관적으로 서술하는 문장으로, 상대방에게 직접 건네는 말로는 사용할 수 없습니다.</p>
+          </div>
+        </div>
+
+        <!-- 4. その下に: 問題文を含めた台本（スクリプト）展開ボタン＆アコーディオン -->
+        <div class="pt-3 border-t border-[var(--sakura-pink-border)]">
+          <button onclick="toggleScript('q1')" class="script-accordion-btn">
+            <i data-lucide="file-text" class="w-4 h-4"></i>
+            <span id="q1-script-btn-text">▼ 放送された問題文と会話台本（スクリプト）を表示</span>
+          </button>
+
+          <!-- Hidden Script Accordion Panel -->
+          <div id="q1-script" class="script-panel space-y-3">
+            <div>
+              <span class="exp-full-sentence-label">
+                放送された問題文（音声テキスト）:
+              </span>
+              <p class="text-sm font-bold text-[#1F2D3D] mt-1">
+                <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。<ruby>外<rt>そと</rt></ruby>へ<ruby>出<rt>で</rt></ruby>かける<ruby>同僚<rt>どうりょう</rt></ruby>に、<ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>します。<span class="text-[#1995AD] font-bold"><ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか</span>。
+              </p>
+              <p class="text-xs italic text-[#4D648D] mt-0.5">
+                It is raining outside. You lend an umbrella to your coworker who is heading out. What do you say?
+              </p>
+            </div>
+            
+            <div class="pt-2 border-t border-[var(--card-border)] text-xs text-[#1F2D3D] space-y-1.5">
+              <span class="font-bold text-[#4D648D] block">選択肢の放送音声:</span>
+              <p><strong>1.</strong> <ruby>傘<rt>かさ</rt></ruby>をどうぞ。<ruby>使<rt>つか</rt></ruby>ってください。（Here is an umbrella. Please use it.）</p>
+              <p><strong>2.</strong> <ruby>傘<rt>かさ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りてもいいですか。（May I borrow an umbrella?）</p>
+              <p><strong>3.</strong> <ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてくれました。（They brought an umbrella for me.）</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <!-- ========================================== -->
+    <!-- QUESTION 2: 発話表現 (席を譲る) -->
+    <!-- ========================================== -->
+    <article class="question-card">
+      
+      <!-- Top Badges -->
+      <div class="card-top-badges">
+        <div class="badge-category">
+          <span>聴解 #02</span>
+          <span>もんだい 3：発話表現</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="badge-qnum">Q. 2</span>
+          <button onclick="toggleQuestionBookmark('q2', this)" id="q2-star-btn" class="bookmark-star-btn" title="この問題をマイリスト（JLPT問題フォルダ）に保存">
+            ★
+          </button>
+        </div>
+      </div>
+
+      <!-- 1. 一番上: 音声を聞く ＆ イラスト (Unified 4:3 Aspect Ratio) -->
+      <div class="space-y-4">
+        
+        <!-- Clean Audio Player -->
+        <div class="audio-player-box">
+          <div class="flex items-center space-x-3">
+            <button onclick="playAudio('audio-2', 'btn-2')" id="btn-2" class="audio-play-btn">
+              <i data-lucide="play" class="w-5 h-5 ml-0.5"></i>
+            </button>
+            <div>
+              <div class="text-sm font-bold text-[#127285]">
+                音声を聞く
+              </div>
+              <div class="text-[11px] text-[#4D648D]">
+                男の人のセリフを選びます
+              </div>
+            </div>
+          </div>
+          <span id="audio-2-status" class="text-xs font-semibold text-[#7E92A2]">未再生</span>
+          <audio id="audio-2" src="../audio/listening/q2_seat.mp3" preload="metadata"></audio>
+        </div>
+
+        <!-- Unified 4:3 Illustration Container -->
+        <div class="illustration-frame">
+          <div class="illustration-inner">
+            <img 
+              src="../images/listening/q2_seat.jpg" 
+              alt="電車で席を譲る場面のイラスト" 
+            />
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 2. その後: 選択肢 (1〜4番すべてユーザー指定の統一アイスブルー) -->
+      <div class="choices-grid">
+        
+        <!-- Choice 1 (Correct) -->
+        <div onclick="selectChoice('q2', 1, true)" id="q2-card-1" class="choice-card">
+          <div class="choice-badge-num badge-num-1">1</div>
+          <div class="flex-1">
+            どうぞ、ここに<ruby>座<rt>すわ</rt></ruby>ってください。
+          </div>
+        </div>
+
+        <!-- Choice 2 -->
+        <div onclick="selectChoice('q2', 2, false)" id="q2-card-2" class="choice-card">
+          <div class="choice-badge-num badge-num-2">2</div>
+          <div class="flex-1">
+            <ruby>座<rt>すわ</rt></ruby>ってもよろしいですか。
+          </div>
+        </div>
+
+        <!-- Choice 3 -->
+        <div onclick="selectChoice('q2', 3, false)" id="q2-card-3" class="choice-card">
+          <div class="choice-badge-num badge-num-3">3</div>
+          <div class="flex-1">
+            <ruby>席<rt>せき</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いていませんでした。
+          </div>
+        </div>
+
+        <!-- Choice 4 (Empty placeholder / 3-choice format) -->
+        <div class="choice-card placeholder locked">
+          <div class="choice-badge-num">4</div>
+          <div class="text-xs text-slate-400 italic">
+            （3つの選択肢から選びます）
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 3. 押したら答えと解説 (道場サクラピンクコンテナ完全一致) -->
+      <div id="q2-feedback" class="explanation-box">
+        
+        <div class="exp-header">
+          <div class="flex items-center space-x-3">
+            <span id="q2-status-pill" class="exp-status-badge"></span>
+            <span class="exp-title">
+              どうぞ、ここに座ってください
+            </span>
+            <span class="exp-reading">
+              (douzo, koko ni suwatte kudasai)
+            </span>
+          </div>
+          <span class="exp-meaning">
+            Please have a seat right here.
+          </span>
+        </div>
+
+        <!-- Inner White Card: 正解の完成例文 -->
+        <div class="exp-full-sentence-box">
+          <span class="exp-full-sentence-label">
+            正解の完成例文:
+          </span>
+          <p class="exp-full-sentence-text">
+            <ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るとき、「<span class="text-[#1995AD] underline decoration-[#43B0C4] decoration-2 underline-offset-4">どうぞ、ここに<ruby>座<rt>すわ</rt></ruby>ってください</span>」と<ruby>言<rt>い</rt></ruby>います。
+          </p>
+        </div>
+
+        <!-- Inner White Card: 似ている文法・関連表現 (Interactive Pills) -->
+        <div class="exp-similar-box space-y-2">
+          <div class="flex items-center justify-between text-xs">
+            <span class="font-bold text-[#B8596E] flex items-center space-x-1">
+              <span>💡 席を譲る・親切を申し出るときの関連表現:</span>
+            </span>
+            <span class="text-[11px] text-[#7E92A2]">（タップで意味確認・マイリスト追加）</span>
+          </div>
+          <div class="flex flex-wrap gap-2 pt-1">
+            <button onclick="openExpressionModal('exp_4')" class="similar-pill">
+              <span>ここ、どうぞ（手軽）</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_5')" class="similar-pill">
+              <span>次で降りますからどうぞ</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_6')" class="similar-pill">
+              <span>お座りになりませんか</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Multilingual Explanations Section (JA / EN / ZH / KO) -->
+        <div class="space-y-3 pt-2">
+          <!-- Language Tabs -->
+          <div class="lang-tabs-bar">
+            <button onclick="switchLang('q2', 'ja')" id="q2-tab-ja" class="lang-tab-btn active">
+              日本語
+            </button>
+            <button onclick="switchLang('q2', 'en')" id="q2-tab-en" class="lang-tab-btn">
+              🇺🇸 English
+            </button>
+            <button onclick="switchLang('q2', 'zh')" id="q2-tab-zh" class="lang-tab-btn">
+              🇹🇼 繁體中文
+            </button>
+            <button onclick="switchLang('q2', 'ko')" id="q2-tab-ko" class="lang-tab-btn">
+              🇰🇷 한국어
+            </button>
+          </div>
+
+          <!-- Japanese Explanation Content -->
+          <div id="q2-content-ja" class="text-xs text-[#1F2D3D] leading-relaxed">
+            <strong>【解説・使い分け】</strong><br>
+            相手に席を勧めるときは、「どうぞ＋動詞て形＋ください」を用いて「どうぞ、ここに座ってください（またはシンプルに『どうぞ』）」と伝えます。<br>
+            ②「座ってもよろしいですか」は、自分が座りたいときに相手に許可を求める表現です。<br>
+            ③「席が空いていませんでした」は過去の状況を述べただけで、目の前の人への呼びかけではありません。
+          </div>
+
+          <!-- English Explanation Content -->
+          <div id="q2-content-en" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>[Explanation & Social Etiquette]</strong></p>
+            <p>When offering a seat to someone, use <em>"Douzo, koko ni suwatte kudasai"</em> (Please have a seat right here) or simply <em>"Douzo"</em> to politely invite them.</p>
+            <p><strong>②</strong> <em>"Suwattemo yoroshii desu ka"</em> (May I sit down?) asks for permission for <em>yourself</em> to sit, which is the exact opposite of offering a seat.</p>
+            <p><strong>③</strong> <em>"Seki ga aite imasen deshita"</em> (There was no seat available) is simply a past factual statement, not addressing the person standing in front of you.</p>
+          </div>
+
+          <!-- Traditional Chinese Explanation Content -->
+          <div id="q2-content-zh" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【詳細解析・日常禮儀】</strong></p>
+            <p>主動向對方讓座時，使用「どうぞ＋動詞て形＋ください」說「どうぞ、ここに座ってください」（請坐在這裡，或簡單說『どうぞ』）來禮貌禮讓。</p>
+            <p><strong>②</strong>「座ってもよろしいですか」（我可以坐下嗎？）是自己想坐下時請求對方同意的說法，意思相反。</p>
+            <p><strong>③</strong>「席が空いていませんでした」（之前沒有空位）只是在陳述過去的事實，並非向身邊人說話的敬語。</p>
+          </div>
+
+          <!-- Korean Explanation Content -->
+          <div id="q2-content-ko" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【상세 해설・예절 표현】</strong></p>
+            <p>상대방에게 자리를 양보할 때는 "どうぞ + 동사 て형 + ください"를 사용하여 "どうぞ、ここに座ってください"(자, 여기 앉으세요, 또는 간단히 'どうぞ')라고 권합니다.</p>
+            <p><strong>②</strong> "座ってもよろしいですか"(앉아도 될까요?)는 자신이 앉고 싶을 때 상대에게 허락을 구하는 표현으로 반대의 의미입니다.</p>
+            <p><strong>③</strong> "席が空いていませんでした"(자리가 비어있지 않았습니다)는 과거의 상태를 설명する 말일 뿐, 상대에게 직접 말을 건네는 표현이 아닙니다.</p>
+          </div>
+        </div>
+
+        <!-- 4. その下に: 問題文を含めた台本（スクリプト）展開ボタン＆アコーディオン -->
+        <div class="pt-3 border-t border-[var(--sakura-pink-border)]">
+          <button onclick="toggleScript('q2')" class="script-accordion-btn">
+            <i data-lucide="file-text" class="w-4 h-4"></i>
+            <span id="q2-script-btn-text">▼ 放送された問題文と会話台本（スクリプト）を表示</span>
+          </button>
+
+          <!-- Hidden Script Accordion Panel -->
+          <div id="q2-script" class="script-panel space-y-3">
+            <div>
+              <span class="exp-full-sentence-label">
+                放送された問題文（音声テキスト）:
+              </span>
+              <p class="text-sm font-bold text-[#1F2D3D] mt-1">
+                <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、お<ruby>年寄<rt>としよ</rt></ruby>りが<ruby>乗<rt>の</rt></ruby>ってきました。<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>ります。<span class="text-[#1995AD] font-bold"><ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか</span>。
+              </p>
+              <p class="text-xs italic text-[#4D648D] mt-0.5">
+                On the train, an elderly person got on. You offer your seat. What do you say?
+              </p>
+            </div>
+            
+            <div class="pt-2 border-t border-[var(--card-border)] text-xs text-[#1F2D3D] space-y-1.5">
+              <span class="font-bold text-[#4D648D] block">選択肢の放送音声:</span>
+              <p><strong>1.</strong> どうぞ、ここに<ruby>座<rt>すわ</rt></ruby>ってください。（Please have a seat right here.）</p>
+              <p><strong>2.</strong> <ruby>座<rt>すわ</rt></ruby>ってもよろしいですか。（May I sit down?）</p>
+              <p><strong>3.</strong> <ruby>席<rt>せき</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いていませんでした。（There was no seat available.）</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <!-- ========================================== -->
+    <!-- QUESTION 3: 課題理解（男女対話・マルチ音声） -->
+    <!-- ========================================== -->
+    <article class="question-card">
+      
+      <!-- Top Badges -->
+      <div class="card-top-badges">
+        <div class="badge-category">
+          <span>聴解 #03</span>
+          <span>もんだい 1：課題理解</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="badge-qnum">Q. 3</span>
+          <button onclick="toggleQuestionBookmark('q3', this)" id="q3-star-btn" class="bookmark-star-btn" title="この問題をマイリスト（JLPT問題フォルダ）に保存">
+            ★
+          </button>
+        </div>
+      </div>
+
+      <!-- 1. 一番上: 音声を聞く ＆ イラスト (Unified 4:3 Aspect Ratio) -->
+      <div class="space-y-4">
+        
+        <!-- Clean Audio Player -->
+        <div class="audio-player-box">
+          <div class="flex items-center space-x-3">
+            <button onclick="playAudio('audio-3', 'btn-3')" id="btn-3" class="audio-play-btn">
+              <i data-lucide="play" class="w-5 h-5 ml-0.5"></i>
+            </button>
+            <div>
+              <div class="text-sm font-bold text-[#127285]">
+                音声を聞く
+              </div>
+              <div class="text-[11px] text-[#4D648D]">
+                会話を聞いて、明日持っていくものを選びます
+              </div>
+            </div>
+          </div>
+          <span id="audio-3-status" class="text-xs font-semibold text-[#7E92A2]">未再生</span>
+          <audio id="audio-3" src="../audio/listening/q3_shodo.mp3" preload="metadata"></audio>
+        </div>
+
+        <!-- Unified 4:3 Illustration Container -->
+        <div class="illustration-frame">
+          <div class="illustration-inner">
+            <img 
+              src="../images/listening/q3_items_grid.jpg" 
+              alt="4分割の持ち物イラスト" 
+            />
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 2. その後: 選択肢 (1〜4番すべてユーザー指定の統一アイスブルー) -->
+      <div class="choices-grid">
+        
+        <!-- Choice 1 (Correct) -->
+        <div onclick="selectChoice('q3', 1, true)" id="q3-card-1" class="choice-card">
+          <div class="choice-badge-num badge-num-1">1</div>
+          <div class="flex-1">
+            <ruby>黒<rt>くろ</rt></ruby>いタオル
+          </div>
+        </div>
+
+        <!-- Choice 2 -->
+        <div onclick="selectChoice('q3', 2, false)" id="q3-card-2" class="choice-card">
+          <div class="choice-badge-num badge-num-2">2</div>
+          <div class="flex-1">
+            <ruby>筆<rt>ふで</rt></ruby>と<ruby>半紙<rt>はんし</rt></ruby>
+          </div>
+        </div>
+
+        <!-- Choice 3 -->
+        <div onclick="selectChoice('q3', 3, false)" id="q3-card-3" class="choice-card">
+          <div class="choice-badge-num badge-num-3">3</div>
+          <div class="flex-1">
+            <ruby>新聞紙<rt>しんぶんし</rt></ruby>
+          </div>
+        </div>
+
+        <!-- Choice 4 -->
+        <div onclick="selectChoice('q3', 4, false)" id="q3-card-4" class="choice-card">
+          <div class="choice-badge-num badge-num-4">4</div>
+          <div class="flex-1">
+            <ruby>筆<rt>ふで</rt></ruby>と<ruby>新聞紙<rt>しんぶんし</rt></ruby>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 3. 押したら答えと解説 (道場サクラピンクコンテナ完全一致) -->
+      <div id="q3-feedback" class="explanation-box">
+        
+        <div class="exp-header">
+          <div class="flex items-center space-x-3">
+            <span id="q3-status-pill" class="exp-status-badge"></span>
+            <span class="exp-title">
+              1番：黒いタオル
+            </span>
+            <span class="exp-reading">
+              (kuroi taoru)
+            </span>
+          </div>
+          <span class="exp-meaning">
+            Black towel
+          </span>
+        </div>
+
+        <!-- Inner White Card: 似ている文法・関連表現 (Interactive Pills) -->
+        <div class="exp-similar-box space-y-2">
+          <div class="flex items-center justify-between text-xs">
+            <span class="font-bold text-[#B8596E] flex items-center space-x-1">
+              <span>💡 指示・依頼を聞き取る重要キーワード:</span>
+            </span>
+            <span class="text-[11px] text-[#7E92A2]">（タップで意味確認・マイリスト追加）</span>
+          </div>
+          <div class="flex flex-wrap gap-2 pt-1">
+            <button onclick="openExpressionModal('exp_7')" class="similar-pill">
+              <span>〜なくていい（不要）</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_8')" class="similar-pill">
+              <span>こちらで用意・準備（不要）</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+            <button onclick="openExpressionModal('exp_9')" class="similar-pill">
+              <span>〜てください（持参が必要）</span>
+              <span class="text-[10px]">▾</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Multilingual Explanations Section (JA / EN / ZH / KO) -->
+        <div class="space-y-3 pt-2">
+          <!-- Language Tabs -->
+          <div class="lang-tabs-bar">
+            <button onclick="switchLang('q3', 'ja')" id="q3-tab-ja" class="lang-tab-btn active">
+              日本語
+            </button>
+            <button onclick="switchLang('q3', 'en')" id="q3-tab-en" class="lang-tab-btn">
+              🇺🇸 English
+            </button>
+            <button onclick="switchLang('q3', 'zh')" id="q3-tab-zh" class="lang-tab-btn">
+              🇹🇼 繁體中文
+            </button>
+            <button onclick="switchLang('q3', 'ko')" id="q3-tab-ko" class="lang-tab-btn">
+              🇰🇷 한국어
+            </button>
+          </div>
+
+          <!-- Japanese Explanation Content -->
+          <div id="q3-content-ja" class="text-xs text-[#1F2D3D] leading-relaxed">
+            <strong>【聞き取りの攻略ポイント】</strong><br>
+            先生の発言を分析すると：<br>
+            ・「筆と紙」➔「こちらで配るから持ってこなくていい」（不要）<br>
+            ・「新聞紙」➔「こちらで準備してある」（不要）<br>
+            ・「黒いタオル」➔「汚れるかもしれないので、1枚持ってきてください」（持参必要）<br>
+            したがって、生徒が明日持っていくものは「① 黒いタオル」のみとなります！
+          </div>
+
+          <!-- English Explanation Content -->
+          <div id="q3-content-en" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>[Listening Strategy & Key Analysis]</strong></p>
+            <p>Breaking down the teacher's instructions in the dialogue:</p>
+            <p>• <strong>Brush & paper:</strong> <em>"We will distribute them here, so you don't need to bring them."</em> (Not needed)</p>
+            <p>• <strong>Newspaper:</strong> <em>"We have already prepared them here."</em> (Not needed)</p>
+            <p>• <strong>Black towel:</strong> <em>"It might get stained with ink, so please bring one black towel."</em> (Required to bring)</p>
+            <p>Therefore, the only item the student needs to bring tomorrow is <strong>① Black towel</strong>.</p>
+          </div>
+
+          <!-- Traditional Chinese Explanation Content -->
+          <div id="q3-content-zh" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【聽解得分要點・逐項分析】</strong></p>
+            <p>仔細拆解老師在對話中的指示：</p>
+            <p>• <strong>毛筆與宣紙：</strong>「教室會統一發放，所以不用帶」（不需要）</p>
+            <p>• <strong>報紙：</strong>「這邊已經為大家準備好了」（不需要）</p>
+            <p>• <strong>黑色毛巾：</strong>「墨汁可能會弄髒，請帶一條黑色毛巾來」（需要自備）</p>
+            <p>因此，學生明天唯一需要自備的物品就是 <strong>① 黑色毛巾</strong>！</p>
+          </div>
+
+          <!-- Korean Explanation Content -->
+          <div id="q3-content-ko" class="hidden text-xs text-[#1F2D3D] leading-relaxed space-y-1">
+            <p><strong>【청해 공략 포인트・핵심 분석】</strong></p>
+            <p>대화 속 선생님의 안내 내용을 분석해 보면:</p>
+            <p>• <strong>붓과 종이:</strong> "여기서 나눠줄 테니 가져오지 않아도 돼요" (불필요)</p>
+            <p>• <strong>신문지:</strong> "여기 준비되어 있어요" (불필요)</p>
+            <p>• <strong>검은색 수건:</strong> "먹물이 튈 수 있으니 검은색 수건 1장을 가져오세요" (지참 필요)</p>
+            <p>따라서 학생이 내일 가져가야 할 물건은 <strong>① 검은색 수건</strong> 하나뿐입니다!</p>
+          </div>
+        </div>
+
+        <!-- 4. その下に: 問題文を含めた台本（スクリプト）展開ボタン＆アコーディオン -->
+        <div class="pt-3 border-t border-[var(--sakura-pink-border)]">
+          <button onclick="toggleScript('q3')" class="script-accordion-btn">
+            <i data-lucide="file-text" class="w-4 h-4"></i>
+            <span id="q3-script-btn-text">▼ 放送された問題文と会話台本（スクリプト）を表示</span>
+          </button>
+
+          <!-- Hidden Script Accordion Panel -->
+          <div id="q3-script" class="script-panel space-y-3">
+            <div>
+              <span class="exp-full-sentence-label">
+                放送された問題文（音声テキスト）:
+              </span>
+              <p class="text-sm font-bold text-[#1F2D3D] mt-1">
+                <ruby>女<rt>おんな</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>と、<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>、<span class="text-[#1995AD] font-bold"><ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきますか</span>。
+              </p>
+              <p class="text-xs italic text-[#4D648D] mt-0.5">
+                A female teacher and a male student are talking. What will the student bring tomorrow?
+              </p>
+            </div>
+            
+            <div class="pt-2 border-t border-[var(--card-border)] text-xs text-[#1F2D3D] space-y-1.5 leading-relaxed">
+              <span class="font-bold text-[#4D648D] block">会話スクリプト（全文）:</span>
+              <p><strong><ruby>先生<rt>せんせい</rt></ruby>（女性）：</strong><ruby>明日<rt>あした</rt></ruby>の<ruby>書道<rt>しょどう</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>ですが、<ruby>筆<rt>ふで</rt></ruby>と<ruby>紙<rt>かみ</rt></ruby>はこちらで<ruby>配<rt>くば</rt></ruby>りますから、<ruby>持<rt>も</rt></ruby>ってこなくていいですよ。</p>
+              <p><strong><ruby>学生<rt>がくせい</rt></ruby>（男性）：</strong>わかりました。タオルや<ruby>新聞紙<rt>しんぶんし</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>ですか。</p>
+              <p><strong><ruby>先生<rt>せんせい</rt></ruby>（女性）：</strong><ruby>墨<rt>すみ</rt></ruby>で<ruby>汚<rt>よご</rt></ruby>れるかもしれないので、<span class="text-[#1995AD] font-bold underline decoration-2 decoration-[#43B0C4]"><ruby>黒<rt>くろ</rt></ruby>いタオルを1<ruby>枚<rt>まい</rt></ruby><ruby>持<rt>も</rt></ruby>ってきてください</span>。<ruby>新聞紙<rt>しんぶんし</rt></ruby>はこちらで<ruby>準備<rt>じゅんび</rt></ruby>してあります。</p>
+              <p><strong><ruby>学生<rt>がくせい</rt></ruby>（男性）：</strong>はい、<ruby>黒<rt>くろ</rt></ruby>いタオルですね。</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </article>
+
+  </main>
+
+  <!-- ========================================== -->
+  <!-- MODAL: 表現の意味確認 ＆ マイリスト追加 (Interactive) -->
+  <!-- ========================================== -->
+  <div id="expression-modal" class="fixed inset-0 z-50 bg-slate-900/40 backdrop-blur-sm hidden flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-lg w-full p-6 shadow-xl border border-[var(--card-border)] space-y-4 relative animate-in fade-in zoom-in-95 duration-150">
+      
+      <!-- Close Button -->
+      <button onclick="closeExpressionModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-700 w-8 h-8 rounded-full flex items-center justify-center hover:bg-slate-100 transition">
+        <i data-lucide="x" class="w-5 h-5"></i>
+      </button>
+
+      <!-- Modal Header -->
+      <div>
+        <div class="flex items-center space-x-2">
+          <span class="bg-[var(--sakura-pink-soft)] text-[var(--sakura-pink-deep)] text-[11px] font-black px-2.5 py-0.5 rounded-full border border-[var(--sakura-pink-border)]">
+            重要表現
+          </span>
+          <span id="modal-reading" class="text-xs text-[var(--primary-blue-dark)] font-bold"></span>
+        </div>
+        <!-- ルビ対応見出し -->
+        <h3 id="modal-term" class="text-xl font-black text-[#1F2D3D] mt-1.5 leading-relaxed"></h3>
+      </div>
+
+      <!-- Meaning in 4 Languages -->
+      <div class="bg-[#FAFCFD] rounded-xl p-3.5 border border-[var(--card-border)] space-y-2 text-xs">
+        <div>
+          <span class="font-bold text-[#4D648D] text-[10px] block">🇺🇸 English:</span>
+          <p id="modal-def-en" class="font-medium text-[#1F2D3D]"></p>
+        </div>
+        <div>
+          <span class="font-bold text-[#4D648D] text-[10px] block">🇹🇼 繁體中文:</span>
+          <p id="modal-def-zh" class="font-medium text-[#1F2D3D]"></p>
+        </div>
+        <div>
+          <span class="font-bold text-[#4D648D] text-[10px] block">🇰🇷 한국어:</span>
+          <p id="modal-def-ko" class="font-medium text-[#1F2D3D]"></p>
+        </div>
+      </div>
+
+      <!-- Nuance & Example (ルビ対応 ＆ テキスト選択辞書対応) -->
+      <div class="space-y-2 text-xs">
+        <div class="bg-[var(--sakura-pink-soft)] p-3.5 rounded-xl border border-[var(--sakura-pink-border)]">
+          <span class="font-bold text-[var(--sakura-pink-deep)] text-[11px] block">💡 ニュアンス・使い分けのコツ:</span>
+          <p id="modal-nuance" class="text-[#1F2D3D] mt-1 leading-relaxed"></p>
+        </div>
+        <div class="bg-[var(--primary-blue-pale)] p-3.5 rounded-xl border border-[rgba(25,149,173,0.25)]">
+          <div class="flex items-center justify-between mb-1">
+            <span class="font-bold text-[var(--primary-blue-dark)] text-[11px] block">📝 実戦例文:</span>
+            <span class="text-[10px] text-[#4D648D]">（文字選択で辞書検索・マイリスト保存可）</span>
+          </div>
+          <p id="modal-example" class="text-[#1F2D3D] font-bold text-sm leading-relaxed"></p>
+        </div>
+      </div>
+
+      <!-- Action Button: Add to My List with Folder & Category -->
+      <div class="pt-2 flex items-center justify-between border-t border-[var(--card-border)]">
+        <div>
+          <span id="modal-status-text" class="text-xs text-[#7E92A2] font-medium block"></span>
+          <span class="text-[10px] text-[#4D648D] font-semibold">📁 保存フォルダ：聴解重要表現</span>
+        </div>
+        <button id="modal-save-btn" onclick="toggleSaveExpression()" class="px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-[var(--primary-blue)] text-white hover:bg-[var(--primary-blue-dark)]">
+          <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+          <span id="modal-save-btn-text">マイリストに追加</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- Floating Text Selection Toolbar (どの文を選んでも検索＆マイリスト追加) -->
+  <!-- ========================================== -->
+  <div id="selection-toolbar">
+    <div class="flex items-center space-x-2">
+      <i data-lucide="text-select" class="w-3.5 h-3.5 text-[#7DD3FC]"></i>
+      <span id="selection-word-preview" class="text-[#7DD3FC] font-extrabold max-w-[110px] truncate"></span>
+    </div>
+    <div class="h-3.5 w-px bg-slate-600"></div>
+    <button onclick="handleSelectionDictSearch()" class="flex items-center space-x-1 hover:text-[#7DD3FC] transition">
+      <i data-lucide="search" class="w-3.5 h-3.5"></i>
+      <span>辞書で調べる</span>
+    </button>
+    <div class="h-3.5 w-px bg-slate-600"></div>
+    <button onclick="handleSelectionSaveMylist()" class="bg-[#1995AD] hover:bg-[#127285] text-white px-2.5 py-1 rounded-full flex items-center space-x-1 transition shadow-sm">
+      <i data-lucide="bookmark-plus" class="w-3 h-3"></i>
+      <span>マイリスト保存</span>
+    </button>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- 内蔵辞書検索モーダル (Quick Dictionary Modal) -->
+  <!-- ========================================== -->
+  <div id="dict-modal" class="fixed inset-0 z-50 bg-slate-900/40 backdrop-blur-sm hidden flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-md w-full p-6 shadow-2xl border border-[var(--card-border)] space-y-4 relative animate-in fade-in zoom-in-95 duration-150">
+      
+      <!-- Close Button -->
+      <button onclick="closeDictModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-700 w-8 h-8 rounded-full flex items-center justify-center hover:bg-slate-100 transition">
+        <i data-lucide="x" class="w-5 h-5"></i>
+      </button>
+
+      <!-- Dict Header -->
+      <div class="flex items-center space-x-2">
+        <span class="bg-[#EDF7F9] text-[#127285] text-[11px] font-black px-2.5 py-0.5 rounded-full border border-[rgba(25,149,173,0.25)]">
+          🔍 内蔵辞書
+        </span>
+        <span id="dict-modal-reading" class="text-xs text-[#0284C7] font-bold"></span>
+      </div>
+
+      <div class="flex items-center justify-between">
+        <h3 id="dict-modal-word" class="text-2xl font-black text-[#1F2D3D]"></h3>
+        <button onclick="playDictAudio()" class="w-8 h-8 rounded-full bg-[#EDF7F9] text-[#1995AD] border border-[rgba(25,149,173,0.3)] flex items-center justify-center hover:bg-[#1995AD] hover:text-white transition" title="音声を再生">
+          <i data-lucide="volume-2" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Meaning Box -->
+      <div class="bg-[#FAFCFD] rounded-xl p-3.5 border border-[var(--card-border)] space-y-2 text-xs">
+        <div>
+          <span class="font-bold text-[#4D648D] text-[10px] block">意味・定義:</span>
+          <p id="dict-modal-meaning" class="font-medium text-[#1F2D3D] text-sm mt-0.5 leading-relaxed"></p>
+        </div>
+        <div id="dict-modal-level-wrap" class="pt-1 flex items-center gap-2">
+          <span id="dict-modal-level" class="inline-block bg-[#FEF3C7] text-[#B45309] font-extrabold text-[10px] px-2 py-0.5 rounded"></span>
+        </div>
+      </div>
+
+      <!-- Action Footer -->
+      <div class="space-y-2 pt-2 border-t border-[var(--card-border)]">
+        <a id="dict-modal-google-btn" href="#" target="_blank" rel="noopener noreferrer" class="w-full py-2.5 px-4 rounded-xl bg-[#4285F4] hover:bg-[#3367D6] text-white font-bold text-xs shadow-md flex items-center justify-center gap-2 transition" style="text-decoration:none;">
+          <svg class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+          </svg>
+          <span id="dict-modal-google-text">Googleで検索</span>
+        </a>
+        <div class="flex items-center justify-between">
+          <span class="text-xs text-[#7E92A2] block">📁 保存フォルダ：単語・語彙</span>
+          <button id="dict-modal-save-btn" onclick="toggleSaveDictWord()" class="px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-[var(--primary-blue)] text-white hover:bg-[var(--primary-blue-dark)]">
+            <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+            <span id="dict-modal-save-btn-text">マイリストに追加</span>
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="fixed bottom-6 right-6 z-50 bg-[#1F2D3D] text-white px-4 py-2.5 rounded-xl shadow-lg text-xs font-bold transition-all duration-300 transform translate-y-12 opacity-0 pointer-events-none flex items-center space-x-2">
+    <i data-lucide="check" class="w-4 h-4 text-emerald-400"></i>
+    <span id="toast-text">マイリストに保存しました！</span>
+  </div>
+
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+
+    // Furigana Toggle (全画面 ＆ モーダル内連動)
+    let furiganaVisible = true;
+    function toggleFurigana() {
+      furiganaVisible = !furiganaVisible;
+      const onLabel = document.getElementById('furigana-on-label');
+      const offLabel = document.getElementById('furigana-off-label');
+      if (furiganaVisible) {
+        document.body.classList.remove('furigana-off');
+        onLabel.className = 'toggle-label active';
+        offLabel.className = 'toggle-label inactive';
+      } else {
+        document.body.classList.add('furigana-off');
+        onLabel.className = 'toggle-label inactive';
+        offLabel.className = 'toggle-label active';
+      }
+    }
+
+    // Audio Playback Handler
+    let currentlyPlayingAudio = null;
+    let currentlyPlayingBtn = null;
+
+    function playAudio(audioId, btnId) {
+      const audio = document.getElementById(audioId);
+      const btn = document.getElementById(btnId);
+      const statusSpan = document.getElementById(audioId + '-status');
+
+      if (currentlyPlayingAudio && currentlyPlayingAudio !== audio) {
+        currentlyPlayingAudio.pause();
+        currentlyPlayingAudio.currentTime = 0;
+        if (currentlyPlayingBtn) {
+          currentlyPlayingBtn.innerHTML = '<i data-lucide="play" class="w-5 h-5 ml-0.5"></i>';
+        }
+      }
+
+      if (audio.paused) {
+        audio.play();
+        btn.innerHTML = '<i data-lucide="pause" class="w-5 h-5"></i>';
+        statusSpan.textContent = '再生中...';
+        statusSpan.className = 'text-xs font-semibold text-[#1995AD] animate-pulse';
+        currentlyPlayingAudio = audio;
+        currentlyPlayingBtn = btn;
+      } else {
+        audio.pause();
+        btn.innerHTML = '<i data-lucide="play" class="w-5 h-5 ml-0.5"></i>';
+        statusSpan.textContent = '一時停止';
+        statusSpan.className = 'text-xs font-semibold text-[#7E92A2]';
+      }
+      lucide.createIcons();
+
+      audio.onended = function() {
+        btn.innerHTML = '<i data-lucide="rotate-ccw" class="w-5 h-5"></i>';
+        statusSpan.textContent = '再生完了';
+        statusSpan.className = 'text-xs font-semibold text-emerald-600';
+        lucide.createIcons();
+      };
+    }
+
+    // Choice Selection Handler
+    const answeredQuestions = {};
+
+    function selectChoice(questionId, choiceNum, isCorrect) {
+      if (answeredQuestions[questionId]) return;
+      answeredQuestions[questionId] = true;
+
+      const selectedCard = document.getElementById(`${questionId}-card-${choiceNum}`);
+      const feedback = document.getElementById(`${questionId}-feedback`);
+      const statusPill = document.getElementById(`${questionId}-status-pill`);
+
+      // Style selected card
+      if (isCorrect) {
+        selectedCard.classList.add('correct');
+        statusPill.className = 'exp-status-badge correct';
+        statusPill.innerHTML = '<i data-lucide="check-circle" class="w-3.5 h-3.5"></i> 正解！';
+      } else {
+        selectedCard.classList.add('wrong');
+        statusPill.className = 'exp-status-badge wrong';
+        statusPill.innerHTML = '<i data-lucide="x-circle" class="w-3.5 h-3.5"></i> 不正解';
+        
+        // Highlight correct answer
+        const correctCard = document.getElementById(`${questionId}-card-1`);
+        if (correctCard) {
+          correctCard.classList.add('correct');
+        }
+      }
+
+      // Lock all choices
+      for (let i = 1; i <= 4; i++) {
+        const c = document.getElementById(`${questionId}-card-${i}`);
+        if (c) c.classList.add('locked');
+      }
+
+      // Show Sakura-pink feedback box
+      feedback.classList.add('show');
+      lucide.createIcons();
+
+      // Smooth scroll to feedback
+      setTimeout(() => {
+        feedback.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }, 100);
+    }
+
+    // Toggle Script Accordion
+    function toggleScript(questionId) {
+      const scriptPanel = document.getElementById(`${questionId}-script`);
+      const btnText = document.getElementById(`${questionId}-script-btn-text`);
+      if (scriptPanel.classList.contains('show')) {
+        scriptPanel.classList.remove('show');
+        btnText.textContent = '▼ 放送された問題文と会話台本（スクリプト）を表示';
+      } else {
+        scriptPanel.classList.add('show');
+        btnText.textContent = '▲ 放送された問題文と会話台本（スクリプト）を閉じる';
+      }
+    }
+
+    // Multilingual Explanation Switcher
+    function switchLang(questionId, lang) {
+      const langs = ['ja', 'en', 'zh', 'ko'];
+      langs.forEach(l => {
+        const btn = document.getElementById(`${questionId}-tab-${l}`);
+        const content = document.getElementById(`${questionId}-content-${l}`);
+        if (l === lang) {
+          btn.className = 'lang-tab-btn active';
+          content.classList.remove('hidden');
+        } else {
+          btn.className = 'lang-tab-btn';
+          content.classList.add('hidden');
+        }
+      });
+    }
+
+    // ============================================================
+    // ★ 右上の★マーク（問題ブックマーク保存 ＆ フォルダ分け機能）
+    // ============================================================
+    function initQuestionBookmarks() {
+      const bookmarks = JSON.parse(localStorage.getItem('jlpt_listening_bookmarks') || '[]');
+      ['q1', 'q2', 'q3'].forEach(qid => {
+        const btn = document.getElementById(`${qid}-star-btn`);
+        if (btn) {
+          if (bookmarks.includes(qid)) {
+            btn.classList.add('active');
+          } else {
+            btn.classList.remove('active');
+          }
+        }
+      });
+    }
+
+    function toggleQuestionBookmark(qid, btn) {
+      let bookmarks = JSON.parse(localStorage.getItem('jlpt_listening_bookmarks') || '[]');
+      const isBookmarked = bookmarks.includes(qid);
+      
+      const qMeta = {
+        'q1': { num: '第1問', category: '聴解（発話表現）', text: '雨の中出かける同僚に、傘を貸します。何と言いますか。' },
+        'q2': { num: '第2問', category: '聴解（発話表現）', text: '電車の中でお年寄りが乗ってきました。席を譲ります。何と言いますか。' },
+        'q3': { num: '第3問', category: '聴解（課題理解）', text: '女の先生と、男の学生が話しています。学生は明日、何を持ってきますか。' }
+      }[qid] || { num: qid, category: '聴解', text: '聴解問題' };
+
+      if (isBookmarked) {
+        bookmarks = bookmarks.filter(id => id !== qid);
+        btn.classList.remove('active');
+        showToast(`★ ${qMeta.num}のマイリスト保存を解除しました`);
+      } else {
+        bookmarks.push(qid);
+        btn.classList.add('active');
+        showToast(`★ ${qMeta.num}をマイリスト（📁 JLPT問題フォルダ）に保存しました！`);
+      }
+
+      localStorage.setItem('jlpt_listening_bookmarks', JSON.stringify(bookmarks));
+
+      // 総合マイリスト（mypage / UserProgress）の形式でも連動保存
+      let unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const itemKey = `listening_quiz_${qid}`;
+      if (isBookmarked) {
+        unifiedList = unifiedList.filter(item => item.id !== itemKey);
+      } else {
+        unifiedList.push({
+          id: itemKey,
+          word: `${qMeta.num} [${qMeta.category}]`,
+          reading: 'ちょうかい もんだい',
+          meaning: qMeta.text,
+          category: 'JLPT問題',
+          folder: '問題',
+          level: 'N5-N4',
+          addedAt: new Date().toISOString()
+        });
+      }
+      localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+    }
+
+    // ============================================================
+    // 💡 関連表現データベース（ルビ付きHTML ＆ 多言語 ＆ フォルダ対応）
+    // ============================================================
+    const expressionsDB = {
+      'exp_1': {
+        term: 'よろしければお使いください',
+        termHtml: 'よろしければお<ruby>使<rt>つか</rt></ruby>いください',
+        reading: 'よろしければ おつかい ください',
+        en: 'Please use it if you would like.',
+        zh: '如果您願意的話，請儘管使用。',
+        ko: '괜찮으시다면 사용하세요.',
+        nuance: '「どうぞ使ってください」よりもさらに一段丁寧で、相手への配慮が際立つビジネス・大人向けの美しい敬語表現です。',
+        example: 'この折りたたみ傘、よろしければお使いください。',
+        exampleHtml: 'この<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>、よろしければお<ruby>使<rt>つか</rt></ruby>いください。'
+      },
+      'exp_2': {
+        term: 'これ、お貸ししましょうか',
+        termHtml: 'これ、お<ruby>貸<rt>か</rt></ruby>ししましょうか',
+        reading: 'これ、おかし しましょうか',
+        en: 'Shall I lend you this?',
+        zh: '這個要借給您嗎？',
+        ko: '이거 빌려드릴까요?',
+        nuance: '「お〜しましょうか」は相手のために進んで申し出を行う（オファー）定番の親切表現。同僚や後輩など身近な人にも最適です。',
+        example: '雨が降っていますね。これ、お貸ししましょうか。',
+        exampleHtml: '<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていますね。これ、お<ruby>貸<rt>か</rt></ruby>ししましょうか。'
+      },
+      'exp_3': {
+        term: 'いつでも返してください',
+        termHtml: 'いつでも<ruby>返<rt>かえ</rt></ruby>してください',
+        reading: 'いつでも かえして ください',
+        en: 'You can return it whenever you like.',
+        zh: '隨時再還給我就好。',
+        ko: '언제든 편할 때 돌려주세요.',
+        nuance: '物を貸した際に相手が「早く返さなきゃ」と気を遣わないように和らげる、親切で温かいクッション言葉です。',
+        example: '急ぎませんので、いつでも返してくださいね。',
+        exampleHtml: '<ruby>急<rt>いそ</rt></ruby>ぎませんので、いつでも<ruby>返<rt>かえ</rt></ruby>してくださいね。'
+      },
+      'exp_4': {
+        term: 'ここ、どうぞ',
+        termHtml: 'ここ、どうぞ',
+        reading: 'ここ、どうぞ',
+        en: 'Here, please (take this seat).',
+        zh: '這裡，請坐。',
+        ko: '여기 앉으세요 (간단하고 자연스러운 표현).',
+        nuance: '電車やバスで最も自然でスマートな声かけ。短く軽く言いながら席を立つのが日本社会の日常マナーです。',
+        example: '（席を立ちながら手で示して）ここ、どうぞ。',
+        exampleHtml: '（<ruby>席<rt>せき</rt></ruby>を<ruby>立<rt>た</rt></ruby>ちながら<ruby>手<rt>て</rt></ruby>で<ruby>示<rt>しめ</rt></ruby>して）ここ、どうぞ。'
+      },
+      'exp_5': {
+        term: '次で降りますからどうぞ',
+        termHtml: '<ruby>次<rt>つぎ</rt></ruby>で<ruby>降<rt>お</rt></ruby>りますからどうぞ',
+        reading: 'つぎで おります から どうぞ',
+        en: 'I get off at the next stop, so please take it.',
+        zh: '我下一站就下車了，請坐。',
+        ko: '다음 정거장에서 내리니까 앉으세요.',
+        nuance: '相手に「申し訳ない」「気まずい」と感じさせずに気持ちよく座ってもらうための、日本の電車文化で最も愛される名フレーズ。',
+        example: '私、次で降りますからどうぞ！',
+        exampleHtml: '<ruby>私<rt>わたし</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>で<ruby>降<rt>お</rt></ruby>りますからどうぞ！'
+      },
+      'exp_6': {
+        term: 'お座りになりませんか',
+        termHtml: 'お<ruby>座<rt>すわ</rt></ruby>りになりませんか',
+        reading: 'おすわり に なりませんか',
+        en: 'Would you like to have a seat?',
+        zh: '您要坐下來嗎？',
+        ko: '앉으시겠어요? (정중한 권유)',
+        nuance: '「お〜になる」の尊敬語＋否定疑問形「〜ませんか」を使った丁寧な勧誘表現。目上の方やお年寄りに敬意を払って声をかけるときにピッタリです。',
+        example: '荷物が重そうですね。お座りになりませんか。',
+        exampleHtml: '<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>そうですね。お<ruby>座<rt>すわ</rt></ruby>りになりませんか。'
+      },
+      'exp_7': {
+        term: '〜なくていい（不要）',
+        termHtml: '〜なくていい（<ruby>不要<rt>ふよう</rt></ruby>）',
+        reading: '〜なくていい',
+        en: 'You don\'t have to ~ / Not required',
+        zh: '不需要～ / 不用～',
+        ko: '~하지 않아도 된다 (불필요)',
+        nuance: '「持ってこなくていい」「書かなくていい」など、JLPT聴解の「課題理解」で最も頻出する「除外フラグ」の最重要キーワードです。',
+        example: '筆と半紙は持参しなくていいです。',
+        exampleHtml: '<ruby>筆<rt>ふで</rt></ruby>と<ruby>半紙<rt>はんし</rt></ruby>は<ruby>持参<rt>じさん</rt></ruby>しなくていいです。'
+      },
+      'exp_8': {
+        term: 'こちらで用意・準備（不要）',
+        termHtml: 'こちらで<ruby>用意<rt>ようい</rt></ruby>・<ruby>準備<rt>じゅんび</rt></ruby>（<ruby>不要<rt>ふよう</rt></ruby>）',
+        reading: 'こちらで ようい・じゅんび',
+        en: 'We have prepared it here (No need to bring)',
+        zh: '由我們這邊準備（無需自備）',
+        ko: '여기서 준비해 둠 (지참 불필요)',
+        nuance: '「こちらで用意してあります」「こちらで配ります」と言われたものは、学生・参加者が自分で持参する必要がありません（正解候補から消去）。',
+        example: '新聞紙はこちらで用意してあります。',
+        exampleHtml: '<ruby>新聞紙<rt>しんぶんし</rt></ruby>はこちらで<ruby>用意<rt>ようい</rt></ruby>してあります。'
+      },
+      'exp_9': {
+        term: '〜てください（持参が必要）',
+        termHtml: '〜てください（<ruby>持参<rt>じさん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>）',
+        reading: '〜てください',
+        en: 'Please bring ~ (Required action)',
+        zh: '請～（必須採取的行動/需自備）',
+        ko: '~해 주세요 (지참 필요 / 실행 필수)',
+        nuance: '先生や指示役が最終的に「〜てください」と指示した対象が、リスニング課題理解における「100%の正解」となります。',
+        example: '黒いタオルを1枚持ってきてください。',
+        exampleHtml: '<ruby>黒<rt>くろ</rt></ruby>いタオルを1<ruby>枚<rt>まい</rt></ruby><ruby>持<rt>も</rt></ruby>ってきてください。'
+      }
+    };
+
+    let currentExpId = null;
+
+    function openExpressionModal(expId) {
+      currentExpId = expId;
+      const data = expressionsDB[expId];
+      if (!data) return;
+
+      // ふりがな（ルビ）HTMLを注入し、ふりがなON/OFFと完全連動
+      document.getElementById('modal-term').innerHTML = data.termHtml || data.term;
+      document.getElementById('modal-reading').textContent = data.reading;
+      document.getElementById('modal-def-en').textContent = data.en;
+      document.getElementById('modal-def-zh').textContent = data.zh;
+      document.getElementById('modal-def-ko').textContent = data.ko;
+      document.getElementById('modal-nuance').textContent = data.nuance;
+      document.getElementById('modal-example').innerHTML = data.exampleHtml || data.example;
+
+      // Update Bookmark button status from localStorage
+      updateSaveBtnStatus();
+
+      document.getElementById('expression-modal').classList.remove('hidden');
+    }
+
+    function closeExpressionModal() {
+      document.getElementById('expression-modal').classList.add('hidden');
+    }
+
+    function updateSaveBtnStatus() {
+      const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const isSaved = unifiedList.some(item => item.id === currentExpId);
+      const btn = document.getElementById('modal-save-btn');
+      const btnText = document.getElementById('modal-save-btn-text');
+      const statusText = document.getElementById('modal-status-text');
+
+      if (isSaved) {
+        btn.className = 'px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-emerald-600 text-white hover:bg-emerald-700';
+        btnText.textContent = '★ 保存済み（フォルダ：聴解）';
+        statusText.textContent = 'マイリストに登録済みです';
+      } else {
+        btn.className = 'px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-[var(--primary-blue)] text-white hover:bg-[var(--primary-blue-dark)]';
+        btnText.textContent = '☆ マイリストに追加';
+        statusText.textContent = 'タップしてマイリストに保存';
+      }
+    }
+
+    function toggleSaveExpression() {
+      if (!currentExpId) return;
+      const data = expressionsDB[currentExpId];
+      if (!data) return;
+
+      let unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const index = unifiedList.findIndex(item => item.id === currentExpId);
+
+      if (index > -1) {
+        unifiedList.splice(index, 1);
+        showToast('マイリストから削除しました');
+      } else {
+        unifiedList.push({
+          id: currentExpId,
+          word: data.term,
+          reading: data.reading,
+          meaning: data.en,
+          category: '聴解重要表現',
+          folder: '聴解',
+          level: '聴解表現',
+          exampleJa: data.example,
+          exampleNative: data.en,
+          addedAt: new Date().toISOString()
+        });
+        showToast('📁『聴解重要表現』フォルダに保存しました！');
+      }
+
+      localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+      updateSaveBtnStatus();
+    }
+
+    // ============================================================
+    // 🔍 グローバルテキスト選択ツールバー（どの文を選んでも検索＆マイリスト保存）
+    // ============================================================
+    let currentSelectedText = '';
+    const toolbar = document.getElementById('selection-toolbar');
+
+    function initGlobalTextSelection() {
+      function checkSelection() {
+        const sel = window.getSelection();
+        if (!sel || sel.isCollapsed || !sel.rangeCount) {
+          toolbar.style.display = 'none';
+          return;
+        }
+
+        const raw = sel.toString().trim();
+        // ルビ等の不要文字を除去
+        const cleaned = raw.replace(/\s+/g, '');
+        if (!cleaned || cleaned.length > 25) {
+          toolbar.style.display = 'none';
+          return;
+        }
+
+        currentSelectedText = cleaned;
+        document.getElementById('selection-word-preview').textContent = cleaned;
+
+        const range = sel.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+        if (rect.width === 0 && rect.height === 0) {
+          toolbar.style.display = 'none';
+          return;
+        }
+
+        toolbar.style.display = 'flex';
+        const top = Math.max(12, rect.top - 48);
+        const left = Math.min(window.innerWidth - 260, Math.max(12, rect.left + (rect.width / 2) - 120));
+        toolbar.style.top = top + 'px';
+        toolbar.style.left = left + 'px';
+      }
+
+      document.addEventListener('mouseup', (e) => {
+        if (toolbar.contains(e.target)) return;
+        setTimeout(checkSelection, 60);
+      });
+
+      document.addEventListener('touchend', (e) => {
+        if (toolbar.contains(e.target)) return;
+        setTimeout(checkSelection, 100);
+      });
+
+      document.addEventListener('selectionchange', () => {
+        const sel = window.getSelection();
+        if (!sel || sel.isCollapsed) {
+          if (toolbar.style.display !== 'none') {
+            toolbar.style.display = 'none';
+          }
+        }
+      });
+    }
+
+    function handleSelectionDictSearch() {
+      if (currentSelectedText) {
+        toolbar.style.display = 'none';
+        openDictForWord(currentSelectedText);
+      }
+    }
+
+    function handleSelectionSaveMylist() {
+      if (!currentSelectedText) return;
+      toolbar.style.display = 'none';
+
+      let unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const exists = unifiedList.some(item => item.word === currentSelectedText);
+
+      if (exists) {
+        showToast(`「${currentSelectedText}」は既にマイリストに保存されています`);
+        return;
+      }
+
+      unifiedList.push({
+        id: `sel_${Date.now()}`,
+        word: currentSelectedText,
+        reading: '',
+        meaning: '選択テキスト',
+        category: '単語・語彙',
+        folder: '単語',
+        level: '選択保存',
+        addedAt: new Date().toISOString()
+      });
+
+      localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+      showToast(`📁「${currentSelectedText}」を『単語・語彙』フォルダに保存しました！`);
+    }
+
+    // ============================================================
+    // 📖 内蔵辞書検索モーダル（オフライン＆即時検索）
+    // ============================================================
+    let currentDictWord = '';
+
+    function openDictForWord(queryWord) {
+      currentDictWord = queryWord;
+      const wordEl = document.getElementById('dict-modal-word');
+      const readingEl = document.getElementById('dict-modal-reading');
+      const meaningEl = document.getElementById('dict-modal-meaning');
+      const lvlEl = document.getElementById('dict-modal-level');
+
+      wordEl.textContent = queryWord;
+      readingEl.textContent = '';
+      meaningEl.textContent = '辞書データを照会中...';
+      lvlEl.textContent = '語彙';
+
+      // 辞書データ照会
+      let found = null;
+      if (window.DICTIONARY_DATA) {
+        found = window.DICTIONARY_DATA.find(d => d.w === queryWord || d.word === queryWord || d.r === queryWord);
+      }
+
+      if (found) {
+        readingEl.textContent = found.r || found.reading || '';
+        meaningEl.textContent = (Array.isArray(found.m) ? found.m.join(', ') : (found.meaning || found.m || ''));
+        lvlEl.textContent = found.level ? `JLPT ${found.level}` : '常用語彙';
+      } else {
+        // 簡易フォールバック（一般的な語のニュアンス）
+        readingEl.textContent = '';
+        meaningEl.textContent = `「${queryWord}」の文脈用例をマイリストに保存して復習できます。`;
+        lvlEl.textContent = '重要語彙';
+      }
+
+      const gBtn = document.getElementById('dict-modal-google-btn');
+      const gText = document.getElementById('dict-modal-google-text');
+      if (gBtn && gText) {
+        gBtn.href = `https://www.google.com/search?q=${encodeURIComponent(queryWord + ' 意味')}`;
+        gText.textContent = `Googleで「${queryWord}」を検索`;
+      }
+
+      updateDictSaveBtnStatus();
+      document.getElementById('dict-modal').classList.remove('hidden');
+    }
+
+    function closeDictModal() {
+      document.getElementById('dict-modal').classList.add('hidden');
+    }
+
+    function updateDictSaveBtnStatus() {
+      const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const isSaved = unifiedList.some(item => item.word === currentDictWord);
+      const btn = document.getElementById('dict-modal-save-btn');
+      const btnText = document.getElementById('dict-modal-save-btn-text');
+
+      if (isSaved) {
+        btn.className = 'px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-emerald-600 text-white hover:bg-emerald-700';
+        btnText.textContent = '★ 保存済み（単語フォルダ）';
+      } else {
+        btn.className = 'px-4 py-2 rounded-xl text-xs font-bold transition flex items-center space-x-1.5 shadow-sm bg-[var(--primary-blue)] text-white hover:bg-[var(--primary-blue-dark)]';
+        btnText.textContent = '☆ マイリストに追加';
+      }
+    }
+
+    function toggleSaveDictWord() {
+      if (!currentDictWord) return;
+      let unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      const index = unifiedList.findIndex(item => item.word === currentDictWord);
+
+      if (index > -1) {
+        unifiedList.splice(index, 1);
+        showToast(`マイリストから削除しました`);
+      } else {
+        const reading = document.getElementById('dict-modal-reading').textContent;
+        const meaning = document.getElementById('dict-modal-meaning').textContent;
+        const lvl = document.getElementById('dict-modal-level').textContent;
+
+        unifiedList.push({
+          id: `dict_${Date.now()}`,
+          word: currentDictWord,
+          reading: reading,
+          meaning: meaning,
+          category: '単語・語彙',
+          folder: '単語',
+          level: lvl,
+          addedAt: new Date().toISOString()
+        });
+        showToast(`📁「${currentDictWord}」を『単語・語彙』フォルダに保存しました！`);
+      }
+
+      localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+      updateDictSaveBtnStatus();
+    }
+
+    function playDictAudio() {
+      if (!currentDictWord) return;
+      try {
+        const u = new SpeechSynthesisUtterance(currentDictWord);
+        u.lang = 'ja-JP';
+        u.rate = 0.9;
+        window.speechSynthesis.cancel();
+        window.speechSynthesis.speak(u);
+      } catch(e) {}
+    }
+
+    // Toast Notification Handler
+    function showToast(message) {
+      const toast = document.getElementById('toast');
+      const toastText = document.getElementById('toast-text');
+      toastText.textContent = message;
+      toast.classList.remove('translate-y-12', 'opacity-0', 'pointer-events-none');
+      setTimeout(() => {
+        toast.classList.add('translate-y-12', 'opacity-0', 'pointer-events-none');
+      }, 2500);
+    }
+
+    // Initialize on DOM Ready
+    window.addEventListener('DOMContentLoaded', () => {
+      initQuestionBookmarks();
+      initGlobalTextSelection();
+    });
+
+    // Close modals on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeExpressionModal();
+        closeDictModal();
+      }
+    });
+  </script>
+</body>
+</html>

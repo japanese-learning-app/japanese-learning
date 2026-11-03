@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N2 読解実戦道場サンプル — 中文読解『タイパ社会と「無駄」の豊かさ』</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      background-color: #F8FAFC;
+      font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      color: #1E293B;
+    }
+    ruby {
+      ruby-align: center;
+      ruby-position: over;
+    }
+    rt {
+      font-size: 0.6em;
+      color: #0284C7;
+      user-select: none;
+    }
+    body.furigana-off rt {
+      display: none !important;
+    }
+    /* Evidence highlight */
+    .evidence-highlight-q1 {
+      background: #FEF08A;
+      box-shadow: 0 0 0 3px #FACC15;
+      border-radius: 4px;
+      transition: all 0.3s ease;
+    }
+    .evidence-highlight-q2 {
+      background: #BAE6FD;
+      box-shadow: 0 0 0 3px #38BDF8;
+      border-radius: 4px;
+      transition: all 0.3s ease;
+    }
+    .toggle-pill-track {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      background: #CBD5E1;
+      border-radius: 9999px;
+      cursor: pointer;
+      transition: background 0.25s ease;
+    }
+    .toggle-pill-track.active {
+      background: #1995AD;
+    }
+    .toggle-pill-thumb {
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 20px;
+      height: 20px;
+      background: #FFFFFF;
+      border-radius: 9999px;
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .toggle-pill-track.active .toggle-pill-thumb {
+      transform: translateX(20px);
+    }
+    .passage-body {
+      line-height: 2.3;
+      letter-spacing: 0.04em;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- HEADER -->
+  <header class="bg-gradient-to-r from-[#1995AD] to-[#127285] text-white sticky top-0 z-40 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="px-2.5 py-0.5 rounded-lg bg-white/20 text-white font-black text-xs tracking-wider border border-white/30">N2 読解</span>
+        <h1 class="font-extrabold text-base sm:text-lg tracking-tight">第1問 中文読解（内容・主張理解）</h1>
+      </div>
+
+      <!-- Controls -->
+      <div class="flex items-center gap-3">
+        <!-- Furigana Switch -->
+        <div class="flex items-center gap-1.5 bg-white/15 px-3 py-1 rounded-full text-xs font-bold border border-white/25">
+          <span>ルビ</span>
+          <div id="rubyToggle" class="toggle-pill-track active" onclick="toggleRuby()" title="ふりがな ON/OFF">
+            <div class="toggle-pill-thumb"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER (Left: Passage / Right: Questions) -->
+  <main class="max-w-6xl mx-auto px-4 py-6 flex-1 w-full">
+
+    <!-- Overview Banner -->
+    <div class="mb-5 bg-white p-4 rounded-2xl border border-slate-200/80 shadow-xs flex flex-wrap items-center justify-between gap-3">
+      <div>
+        <div class="flex items-center gap-2">
+          <span class="px-2 py-0.5 rounded bg-blue-100 text-blue-800 text-xs font-bold">現代社会論</span>
+          <h2 class="text-base font-extrabold text-slate-800">『タイパ（タイムパフォーマンス）社会と「無駄」の豊かさ』</h2>
+        </div>
+        <p class="text-xs text-slate-500 mt-1">目安所要時間: 8分 / 文字数: 約550字 / 本番出題頻度: ★★★★★</p>
+      </div>
+      <div class="flex items-center gap-2 text-xs font-bold text-slate-600">
+        <span class="flex items-center gap-1"><i data-lucide="help-circle" class="w-4 h-4 text-sky-600"></i> 全2問</span>
+        <span class="text-slate-300">|</span>
+        <span id="scoreBadge" class="text-slate-500">未解答</span>
+      </div>
+    </div>
+
+    <!-- 2-Column Responsive Layout -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+
+      <!-- LEFT COLUMN: Reading Passage (7 cols) -->
+      <section class="lg:col-span-7 bg-white p-6 sm:p-7 rounded-2xl border border-slate-200 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-4">
+            <span class="text-xs font-extrabold text-[#1995AD] uppercase tracking-wider flex items-center gap-1.5">
+              <i data-lucide="book-open" class="w-4 h-4"></i>
+              <span>問題：次の文章を読んで、後の問いに答えなさい。</span>
+            </span>
+            <button onclick="resetHighlights()" class="text-xs text-slate-400 hover:text-slate-600 flex items-center gap-1" title="ハイライトをリセット">
+              <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
+              <span>リセット</span>
+            </button>
+          </div>
+
+          <!-- PASSAGE BODY -->
+          <article class="passage-body text-slate-800 text-[15px] sm:text-[16px] text-justify select-text space-y-4">
+            <p>
+              <ruby>近年<rt>きんねん</rt></ruby>、<ruby>動画<rt>どうが</rt></ruby>の<ruby>倍速<rt>ばいそく</rt></ruby><ruby>視聴<rt>しちょう</rt></ruby>や<ruby>本<rt>ほん</rt></ruby>の<ruby>要約<rt>ようやく</rt></ruby>サービスが<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>普及<rt>ふきゅう</rt></ruby>し、「タイパ（タイムパフォーマンス）」という<ruby>言葉<rt>ことば</rt></ruby>が<ruby>日常<rt>にちじょう</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>した。<ruby>限<rt>かぎ</rt></ruby>られた<ruby>時間<rt>じかん</rt></ruby>のなかで<ruby>最大<rt>さいだい</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げること、つまり「<ruby>効率<rt>こうりつ</rt></ruby><ruby>化<rt>か</rt></ruby>」は、<ruby>現代<rt>げんだい</rt></ruby>のビジネスや<ruby>情報<rt>じょうほう</rt></ruby><ruby>収集<rt>しゅうしゅう</rt></ruby>において<ruby>確<rt>たし</rt></ruby>かに<ruby>大<rt>おお</rt></ruby>きな<ruby>美徳<rt>びとく</rt></ruby>とされている。
+            </p>
+
+            <p>
+              しかし、あらゆるものを「<ruby>費用<rt>ひよう</rt><ruby>対<rt>たい</rt></ruby><ruby>効果<rt>こうか</rt></ruby>」や「<ruby>時間<rt>じかん</rt><ruby>効率<rt>こうりつ</rt></ruby>」だけで<ruby>測<rt>はか</rt></ruby>ろうとする<ruby>姿勢<rt>しせい</rt></ruby>には、<ruby>少<rt>すこ</rt></ruby>し<ruby>立<rt>た</rt></ruby>ち<ruby>止<rt>ど</rt></ruby>まって<ruby>考<rt>かんが</rt></ruby>えてみる<ruby>必要<rt>ひつよう</rt></ruby>があるのではないだろうか。なぜなら、<span id="evidenceQ1" class="transition">わたしたちの<ruby>心<rt>こころ</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く<ruby>揺<rt>ゆ</rt></ruby>さぶる<ruby>感動<rt>かんどう</rt></ruby>や、<ruby>人生<rt>じんせい</rt></ruby>の<ruby>糧<rt>かて</rt></ruby>となる<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>気<rt>き</rt></ruby>づきは、しばしば<u>①<ruby>一見<rt>いっけん</rt></ruby>無駄に見える時間</u>の中にこそ<ruby>潜<rt>ひそ</rt></ruby>んでいるからだ。</span><ruby>物語<rt>ものがたり</rt></ruby>の<ruby>間<rt>ま</rt></ruby>や<ruby>情景<rt>じょうけい</rt></ruby><ruby>描写<rt>びょうしゃ</rt></ruby>を<ruby>味<rt>あじ</rt></ruby>わうこと、<ruby>解決<rt>かいけつ</rt></ruby><ruby>策<rt>さく</rt></ruby>がすぐに<ruby>見<rt>み</rt></ruby>つからずに<ruby>試行錯誤<rt>しこうさくご</rt></ruby>すること、あるいは<ruby>目的<rt>もくてき</rt></ruby>もなく<ruby>散歩<rt>さんぽ</rt></ruby>をしてふと<ruby>季節<rt>きせつ</rt></ruby>の<ruby>移<rt>うつ</rt></ruby>ろいに<ruby>目<rt>め</rt></ruby>を<ruby>留<rt>と</rt></ruby>めること。そうした「<ruby>余白<rt>よはく</rt></ruby>」があるからこそ、わたしたちは<ruby>物事<rt>ものごと</rt></ruby>の<ruby>奥行<rt>おくゆ</rt></ruby>きや<ruby>他者<rt>たしゃ</rt></ruby>への<ruby>想像<rt>そうぞう</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>育<rt>はぐく</rt></ruby>むことができるのである。
+            </p>
+
+            <p>
+              <span id="evidenceQ2" class="transition"><ruby>最短<rt>さいたん</rt></ruby><ruby>距離<rt>きょり</rt></ruby>で<ruby>正解<rt>せいかい</rt></ruby>にたどり<ruby>着<rt>つ</rt></ruby>くことばかりを<ruby>重<rt>おも</rt></ruby>んじるあまり、<ruby>道草<rt>みちくさ</rt></ruby>を<ruby>極端<rt>きょくたん</rt></ruby>に<ruby>排除<rt>はいじょ</rt></ruby>してしまえば、わたしたちは<ruby>人生<rt>じんせい</rt></ruby>の<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>偶然<rt>ぐうぜん</rt></ruby>や<ruby>思<rt>おも</rt></ruby>いもよらない<ruby>発見<rt>はっけん</rt></ruby>のチャンスを、<ruby>自<rt>みずか</rt></ruby>ら<ruby>削<rt>そよ</rt></ruby>ぎ<ruby>落<rt>お</rt></ruby>としてしまうことになりかねない。</span>タイパを<ruby>追求<rt>ついきゅう</rt></ruby>すること<ruby>自体<rt>じたい</rt></ruby>を<ruby>否定<rt>ひてい</rt></ruby>するわけではないが、ときには「<ruby>無駄<rt>むだ</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>でる<ruby>余裕<rt>よゆう</rt></ruby>」を<ruby>持<rt>も</rt></ruby>つことこそが、<ruby>結果<rt>けっか</rt></ruby>としてわたしたちの<ruby>心<rt>こころ</rt></ruby>をより<ruby>豊<rt>ゆた</rt></ruby>かにしてくれるのではないだろうか。
+            </p>
+          </article>
+        </div>
+
+        <!-- Vocabulary Helper Card -->
+        <div class="mt-6 pt-4 border-t border-slate-100 bg-slate-50/70 p-3.5 rounded-xl">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-bold text-slate-700 flex items-center gap-1">
+              <i data-lucide="bookmark" class="w-3.5 h-3.5 text-[#1995AD]"></i>
+              <span>本文の重要N2語彙・表現ミニ辞典</span>
+            </span>
+            <span class="text-[10px] text-slate-400">タップして確認</span>
+          </div>
+          <div class="flex flex-wrap gap-1.5 text-xs">
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="定着（ていちゃく）：社会に根づくこと">定着する</span>
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="糧（かて）：成長の支え・栄養">心の糧</span>
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="試行錯誤（しこうさくご）：失敗を繰り返して解決に近づくこと">試行錯誤</span>
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="道草（みちくさ）：目的地へ直行せず寄り道すること">道草を食う</span>
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="〜になりかねない：悪い結果になる可能性がある">〜になりかねない</span>
+            <span class="px-2 py-0.5 bg-white border border-slate-200 rounded-md text-slate-700 font-medium" title="愛でる（めでる）：慈しみ楽しむこと">愛でる</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- RIGHT COLUMN: Interactive Questions (5 cols) -->
+      <section class="lg:col-span-5 space-y-6">
+
+        <!-- QUESTION 1 -->
+        <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm" id="cardQ1">
+          <div class="flex items-center justify-between mb-3">
+            <span class="px-2.5 py-0.5 rounded-full bg-amber-100 text-amber-900 font-black text-xs">問 1（指示語・理由）</span>
+            <button onclick="highlightEvidence('q1')" class="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1 px-2 py-1 rounded bg-amber-50 border border-amber-200/80 transition" title="本文中の根拠をハイライト表示">
+              <i data-lucide="highlighter" class="w-3.5 h-3.5"></i>
+              <span>根拠を見る</span>
+            </button>
+          </div>
+
+          <h3 class="text-sm font-bold text-slate-800 leading-snug mb-3">
+            <u>①「一見無駄に見える時間」</u>とあるが、筆者はなぜそれが大切だと述べているか。
+          </h3>
+
+          <!-- Choices -->
+          <div class="space-y-2 text-xs font-medium text-slate-700" id="choicesQ1">
+            <div onclick="selectChoice('q1', 1)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q1_c1">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">1</span>
+              <span>効率化ばかりを重視すると、仕事の納期に間に合わなくなるから。</span>
+            </div>
+            <div onclick="selectChoice('q1', 2)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q1_c2">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">2</span>
+              <span>そのような時間にこそ、深い感動や他者への想像力を育む契機があるから。</span>
+            </div>
+            <div onclick="selectChoice('q1', 3)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q1_c3">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">3</span>
+              <span>動画を倍速で見たり本の要約を読んだりしても、内容を全く理解できないから。</span>
+            </div>
+            <div onclick="selectChoice('q1', 4)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q1_c4">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">4</span>
+              <span>散歩をして季節の変化を感じることが、現代社会において最も役に立つ活動だから。</span>
+            </div>
+          </div>
+
+          <!-- Explanation box -->
+          <div id="explQ1" class="hidden mt-4 pt-3 border-t border-slate-100 text-xs text-slate-600 leading-relaxed bg-amber-50/50 p-3 rounded-xl">
+            <div class="font-bold text-amber-900 mb-1 flex items-center gap-1">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600"></i>
+              <span>正解：【 2 】</span>
+            </div>
+            <p class="mb-2"><strong>【解説と根拠】</strong><br>
+            第2段落の「なぜなら、わたしたちの心を深く揺さぶる感動や、人生の糧となる本質的な気づきは、しばしば一見無駄に見える時間の中にこそ潜んでいるからだ」「物事の奥行きや他者への想像力を育むことができるのである」から、選択肢2が正解。
+            </p>
+            <div class="text-[11px] text-slate-500 bg-white p-2 rounded border border-amber-200/60">
+              <strong>【ひっかけの罠】</strong><br>
+              ・1: 「納期に間に合わなくなる」は本文に記述なし（極端な飛躍）。<br>
+              ・3: 「全く理解できない」は極端すぎる表現（全否定トラップ）。<br>
+              ・4: 「最も役に立つ」という最上級の主張は筆者はしていない。
+            </div>
+          </div>
+        </div>
+
+        <!-- QUESTION 2 -->
+        <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm" id="cardQ2">
+          <div class="flex items-center justify-between mb-3">
+            <span class="px-2.5 py-0.5 rounded-full bg-sky-100 text-sky-900 font-black text-xs">問 2（筆者の主張理解）</span>
+            <button onclick="highlightEvidence('q2')" class="text-xs font-bold text-sky-700 hover:text-sky-800 flex items-center gap-1 px-2 py-1 rounded bg-sky-50 border border-sky-200/80 transition" title="本文中の根拠をハイライト表示">
+              <i data-lucide="highlighter" class="w-3.5 h-3.5"></i>
+              <span>根拠を見る</span>
+            </button>
+          </div>
+
+          <h3 class="text-sm font-bold text-slate-800 leading-snug mb-3">
+            筆者がこの文章で最も言いたいことは何か。
+          </h3>
+
+          <!-- Choices -->
+          <div class="space-y-2 text-xs font-medium text-slate-700" id="choicesQ2">
+            <div onclick="selectChoice('q2', 1)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q2_c1">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">1</span>
+              <span>タイパを重視する社会は不健全なので、倍速視聴や要約サービスの利用をやめるべきだ。</span>
+            </div>
+            <div onclick="selectChoice('q2', 2)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q2_c2">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">2</span>
+              <span>効率化の価値を認めつつも、人生を豊かにするために「無駄」を受け入れる余裕も大切にすべきだ。</span>
+            </div>
+            <div onclick="selectChoice('q2', 3)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q2_c3">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">3</span>
+              <span>最短距離で正解にたどり着くことこそが、現代人に必要な最も重要な能力である。</span>
+            </div>
+            <div onclick="selectChoice('q2', 4)" class="choice-item p-3 rounded-xl border border-slate-200 hover:border-slate-300 hover:bg-slate-50/80 cursor-pointer transition flex items-start gap-2.5" id="q2_c4">
+              <span class="w-5 h-5 rounded-full bg-slate-100 font-bold flex items-center justify-center text-[11px] shrink-0 mt-0.5">4</span>
+              <span>散歩などの日常の趣味に多くの時間を費やせば、ビジネスでも大きな成果を上げられる。</span>
+            </div>
+          </div>
+
+          <!-- Explanation box -->
+          <div id="explQ2" class="hidden mt-4 pt-3 border-t border-slate-100 text-xs text-slate-600 leading-relaxed bg-sky-50/50 p-3 rounded-xl">
+            <div class="font-bold text-sky-900 mb-1 flex items-center gap-1">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-600"></i>
+              <span>正解：【 2 】</span>
+            </div>
+            <p class="mb-2"><strong>【解説と根拠】</strong><br>
+            最終段落の「タイパを追求すること自体を否定するわけではないが、ときには『無駄を愛でる余裕』を持つことこそが、結果としてわたしたちの心をより豊かにしてくれるのではないだろうか」に筆者の真の主張が凝縮されており、選択肢2が完璧に一致。
+            </p>
+            <div class="text-[11px] text-slate-500 bg-white p-2 rounded border border-sky-200/60">
+              <strong>【ひっかけの罠】</strong><br>
+              ・1: 「利用をやめるべき」とタイパ自体を全面否定しているわけではない（「否定するわけではないが」に反する）。<br>
+              ・3: 本文の主張と正反対（逆転トラップ）。<br>
+              ・4: 「ビジネスでも大きな成果を上げられる」と因果関係を捏造している。
+            </div>
+          </div>
+        </div>
+
+      </section>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="py-4 text-center text-xs text-slate-400 bg-white border-t border-slate-200 mt-8">
+    JLPT Reading Comprehension Interactive Showcase &bull; Designed for Deep Pedagogy
+  </footer>
+
+  <script>
+    let isRubyOn = true;
+    let answers = { q1: null, q2: null };
+    const correctAnswers = { q1: 2, q2: 2 };
+
+    function toggleRuby() {
+      isRubyOn = !isRubyOn;
+      const pill = document.getElementById('rubyToggle');
+      if (isRubyOn) {
+        document.body.classList.remove('furigana-off');
+        pill.classList.add('active');
+      } else {
+        document.body.classList.add('furigana-off');
+        pill.classList.remove('active');
+      }
+    }
+
+    function selectChoice(q, choice) {
+      answers[q] = choice;
+      const isCorrect = (choice === correctAnswers[q]);
+
+      // Highlight options
+      for (let i = 1; i <= 4; i++) {
+        const el = document.getElementById(`${q}_c${i}`);
+        el.className = 'choice-item p-3 rounded-xl border cursor-pointer transition flex items-start gap-2.5 text-xs font-medium ';
+        if (i === choice) {
+          if (isCorrect) {
+            el.className += 'bg-emerald-50 border-emerald-500 text-emerald-900 font-bold ring-2 ring-emerald-500/20';
+          } else {
+            el.className += 'bg-rose-50 border-rose-500 text-rose-900 font-bold ring-2 ring-rose-500/20';
+          }
+        } else if (i === correctAnswers[q]) {
+          el.className += 'bg-emerald-50/60 border-emerald-300 text-emerald-800';
+        } else {
+          el.className += 'border-slate-200 text-slate-400 opacity-60';
+        }
+      }
+
+      // Show explanation box
+      const expl = document.getElementById(q === 'q1' ? 'explQ1' : 'explQ2');
+      if (expl) expl.classList.remove('hidden');
+
+      // Update score badge
+      updateScore();
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+
+    function highlightEvidence(q) {
+      resetHighlights();
+      const el = document.getElementById(q === 'q1' ? 'evidenceQ1' : 'evidenceQ2');
+      if (el) {
+        el.className = (q === 'q1') ? 'evidence-highlight-q1' : 'evidence-highlight-q2';
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    function resetHighlights() {
+      const e1 = document.getElementById('evidenceQ1');
+      const e2 = document.getElementById('evidenceQ2');
+      if (e1) e1.className = 'transition';
+      if (e2) e2.className = 'transition';
+    }
+
+    function updateScore() {
+      let answered = 0;
+      let score = 0;
+      if (answers.q1 !== null) { answered++; if (answers.q1 === correctAnswers.q1) score++; }
+      if (answers.q2 !== null) { answered++; if (answers.q2 === correctAnswers.q2) score++; }
+      
+      const badge = document.getElementById('scoreBadge');
+      if (answered === 2) {
+        badge.innerHTML = `<span class="px-2 py-0.5 rounded-full ${score === 2 ? 'bg-emerald-100 text-emerald-800' : 'bg-amber-100 text-amber-800'} font-black text-xs">正答数: ${score} / 2 問 (${score === 2 ? '全問正解！🎉' : '解説を確認しよう'})</span>`;
+      } else {
+        badge.textContent = `進捗: ${answered} / 2 問`;
+      }
+    }
+
+    window.onload = function() {
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT聴解音声エンジンの徹底比較 — Google Cloud TTS vs OpenAI TTS</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      background-color: #F8FAFC;
+      font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      color: #1E293B;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- HEADER -->
+  <header class="bg-gradient-to-r from-slate-900 to-slate-800 text-white sticky top-0 z-40 shadow-sm border-b border-slate-700">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="px-2.5 py-0.5 rounded-lg bg-sky-500/20 text-sky-400 font-black text-xs border border-sky-400/30">AI音声徹底比較</span>
+        <h1 class="font-extrabold text-base sm:text-lg tracking-tight">Google Cloud TTS (Neural2) vs OpenAI TTS (tts-1-hd)</h1>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-8 flex-1 w-full space-y-8">
+
+    <!-- SUMMARY BANNER -->
+    <div class="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
+      <h2 class="text-base sm:text-lg font-black text-slate-900 flex items-center gap-2 mb-2">
+        <i data-lucide="award" class="w-5 h-5 text-amber-500"></i>
+        <span>JLPT教材開発における結論：どちらを選ぶべきか？</span>
+      </h2>
+      <p class="text-sm text-slate-600 leading-relaxed">
+        結論として、<strong>「JLPT本試験対策の聴解問題」には【Google Cloud TTS（Neural2）】が圧倒的に適しています</strong>。<br>
+        JLPTでは「標準語のピッチアクセントの正確さ」「指示文・ポーズ（間）のミリ秒単位の制御」が合格を左右するため、細部まで完全に制御できるGoogle Neural2が公式CDと同一水準の安全性を誇ります。一方、<strong>「フランクな日常会話やシャドーイングアプリ」には【OpenAI TTS】の自然な感情表現</strong>が非常に魅力的です。
+      </p>
+    </div>
+
+    <!-- COMPARISON TABLE -->
+    <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+      <div class="p-5 border-b border-slate-100 bg-slate-50 flex items-center justify-between">
+        <h3 class="font-extrabold text-slate-800 text-sm flex items-center gap-2">
+          <i data-lucide="scale" class="w-4 h-4 text-sky-600"></i>
+          <span>主要5項目の直接対決比較</span>
+        </h3>
+        <span class="text-xs text-slate-400">2026年最新基準</span>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-xs text-left border-collapse">
+          <thead>
+            <tr class="bg-slate-100 text-slate-700 font-extrabold border-b border-slate-200">
+              <th class="p-3.5 w-1/4">比較項目</th>
+              <th class="p-3.5 w-3/8 text-sky-900 bg-sky-50/50">Google Cloud TTS (Neural2)</th>
+              <th class="p-3.5 w-3/8 text-purple-900 bg-purple-50/50">OpenAI TTS (tts-1-hd)</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 font-medium">
+            <!-- Row 1 -->
+            <tr>
+              <td class="p-3.5 font-bold text-slate-900 bg-slate-50/30">1. 日本語のアクセント・明瞭さ</td>
+              <td class="p-3.5 text-slate-800 bg-sky-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★★（圧倒的勝者）
+                </span><br>
+                NHKアナウンサー並みの正確な東京式ピッチアクセント。JLPT公式試験のCDとほぼ同等の明瞭な発音。
+              </td>
+              <td class="p-3.5 text-slate-800 bg-purple-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-amber-700 bg-amber-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★☆（会話的だが揺らぎあり）
+                </span><br>
+                非常に滑らかだが、まれに助詞の音調や複合名詞のアクセントが英語・外来語風に揺らぐことがある。
+              </td>
+            </tr>
+
+            <!-- Row 2 -->
+            <tr>
+              <td class="p-3.5 font-bold text-slate-900 bg-slate-50/30">2. 沈黙（ポーズ・間）の秒数指定</td>
+              <td class="p-3.5 text-slate-800 bg-sky-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★★（完全対応）
+                </span><br>
+                <strong>SSMLタグ対応</strong>。<br>
+                <code>&lt;break time="1.5s"/&gt;</code> で、問題文と選択肢の間の「静寂時間」を1ミリ秒単位でミリ単位制御可能。
+              </td>
+              <td class="p-3.5 text-slate-800 bg-purple-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-rose-700 bg-rose-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★☆☆☆（非対応）
+                </span><br>
+                <strong>SSML非対応</strong>。<br>
+                読点や改行でしかポーズを入れられず、試験特有の「正確な3秒の解答時間」を空けることができない。
+              </td>
+            </tr>
+
+            <!-- Row 3 -->
+            <tr>
+              <td class="p-3.5 font-bold text-slate-900 bg-slate-50/30">3. 感情・人間味・息遣い</td>
+              <td class="p-3.5 text-slate-800 bg-sky-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-slate-700 bg-slate-200 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★☆（少しフォーマル）
+                </span><br>
+                アナウンサーやビジネス通話として清潔感があるが、カジュアルな笑いやため息などは控えめ。
+              </td>
+              <td class="p-3.5 text-slate-800 bg-purple-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★★（圧倒的勝者）
+                </span><br>
+                まるでマイクの前で本物の人が喋っているような自然な息遣い・感情が乗る。「あ、ちょっと待って」が本物そのもの。
+              </td>
+            </tr>
+
+            <!-- Row 4 -->
+            <tr>
+              <td class="p-3.5 font-bold text-slate-900 bg-slate-50/30">4. 漢字・多音字の誤読防止</td>
+              <td class="p-3.5 text-slate-800 bg-sky-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★★★（100%制御可能）
+                </span><br>
+                <code>&lt;sub alias="ついたち"&gt;一日&lt;/sub&gt;</code> のように、読み分けが難しい単語のフリガナ読みを強制指定可能。
+              </td>
+              <td class="p-3.5 text-slate-800 bg-purple-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-amber-700 bg-amber-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  ★★★☆☆（AI任せ）
+                </span><br>
+                プロンプトや平仮名表記で回避する必要があり、文脈によっては漢字の読み間違いが稀に発生する。
+              </td>
+            </tr>
+
+            <!-- Row 5 -->
+            <tr>
+              <td class="p-3.5 font-bold text-slate-900 bg-slate-50/30">5. 料金・無料枠</td>
+              <td class="p-3.5 text-slate-800 bg-sky-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded text-[11px] mb-1">
+                  月100万文字まで完全無料！
+                </span><br>
+                個人利用・教材生成レベルなら実質$0で運用可能。超過時も$16 / 100万文字。
+              </td>
+              <td class="p-3.5 text-slate-800 bg-purple-50/20">
+                <span class="inline-flex items-center gap-1 font-bold text-slate-700 bg-slate-200 px-2 py-0.5 rounded text-[11px] mb-1">
+                  無料枠なし（従量課金）
+                </span><br>
+                Standard版: $15 / 100万文字<br>
+                HD高音質版: $30 / 100万文字
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- RECOMMENDED ARCHITECTURE -->
+    <div class="bg-gradient-to-r from-blue-900 to-indigo-900 text-white p-6 rounded-2xl shadow-md space-y-4">
+      <div class="flex items-center gap-2">
+        <span class="px-2.5 py-0.5 rounded bg-sky-400 text-slate-900 font-extrabold text-xs">おすすめの最適解</span>
+        <h3 class="text-base font-extrabold">プロ教材の「最強ハイブリッド運用」プラン</h3>
+      </div>
+      <p class="text-xs sm:text-sm text-slate-200 leading-relaxed">
+        どちらか1つに絞るのではなく、<strong>役割ごとに使い分けること</strong>で、本試験そのままのクオリティを最少コストで実現できます：
+      </p>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
+        <div class="bg-white/10 p-4 rounded-xl border border-white/15">
+          <div class="text-xs font-bold text-sky-300 mb-1 flex items-center gap-1.5">
+            <i data-lucide="radio" class="w-4 h-4"></i>
+            <span>Google Cloud Neural2 を使う部分</span>
+          </div>
+          <p class="text-xs text-slate-200 leading-relaxed">
+            ・<strong>問題番号・状況説明</strong>（「一番。会社で男の人と女の人が…」）<br>
+            ・<strong>質問アナウンス</strong>（「男の人は、このあとまず何をしますか？」）<br>
+            ・<strong>選択肢の読み上げ</strong>（「1番、〇〇… 2番、〇〇…」）<br>
+            ➔ 試験の緊張感と、NHKアナウンサー並みの完璧な明瞭さ。
+          </p>
+        </div>
+
+        <div class="bg-white/10 p-4 rounded-xl border border-white/15">
+          <div class="text-xs font-bold text-purple-300 mb-1 flex items-center gap-1.5">
+            <i data-lucide="users" class="w-4 h-4"></i>
+            <span>OpenAI TTS（またはGoogle会話ボイス）を使う部分</span>
+          </div>
+          <p class="text-xs text-slate-200 leading-relaxed">
+            ・<strong>男女の対話部分（課題理解・ポイント理解の会話）</strong><br>
+            ・<strong>即時応答（1問1答のビジネス会話・日常会話）</strong><br>
+            ➔ まるで同僚や上司と実際にオフィスで話しているような、生きた息遣いと人間味。
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="py-4 text-center text-xs text-slate-400 bg-white border-t border-slate-200">
+    JLPT TTS Comparative Architecture Guide
+  </footer>
+
+  <script>
+    window.onload = function() {
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+  </script>
+</body>
+</html>

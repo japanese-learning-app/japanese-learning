@@ -3,3 +3,11 @@ tmp_doc/
 *.pyc
 __pycache__/
 .system_generated/
+# Security & Credentials (Never commit API keys or service account credentials)
+*.json.secret
+*credentials*.json
+*service_account*.json
+*key*.json
+.env
+.env.*
+secrets/

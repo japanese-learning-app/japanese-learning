@@ -3784,12 +3784,12 @@ rt {
 <div class="app-modal-overlay" id="modal-jlpt" onclick="closeModalOnBg(event, 'jlpt')">
   <div class="app-modal-box" style="max-width:860px;">
     <div class="app-modal-header">
-      <div class="app-modal-title">🏆 JLPT完全制覇（N1〜N5 文法教科書・演習・単語）</div>
+      <div class="app-modal-title">🏆 JLPT完全制覇（N1〜N5 文法・単語・読解・聴解）</div>
       <button class="app-modal-close" onclick="closeModal('jlpt')">✕</button>
     </div>
     <div class="app-modal-body">
       <div style="font-size:0.88rem; color:var(--text-sub); margin-bottom:12px;">
-        全レベル（N1・N2・N3・N4・N5）の「文法マスター教科書（9大セクション）」「4択文法穴埋め演習道場（全3,175問）」「単語フラッシュカード（全8,907語）」「語彙演習道場」を完全網羅しています。
+        全レベル（N1・N2・N3・N4・N5）の「文法マスター教科書」「単語フラッシュカード」「語彙演習」「4択文法穴埋め」「読解道場」「聴解道場」および五十音順単語帳を完全網羅しています。
       </div>
 
       <!-- メイン総合道場ボタン -->
@@ -3804,40 +3804,6 @@ rt {
         </div>
         <div style="font-size:1.3rem; font-weight:800;">→</div>
       </a>
-
-      <!-- 5レベル グリッドカード -->
-      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:10px; margin-bottom:14px;">
-        <!-- N1 -->
-        <a href="jlpt_n1_grammar_textbook.html" style="text-decoration:none; background:#FAF5FF; border:1.5px solid #E9D5FF; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">👑</span>
-          <strong style="color:#7E22CE; font-size:0.95rem;">N1 最上級</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法127 / 語彙3,747 / 演習1,008問</span>
-        </a>
-        <!-- N2 -->
-        <a href="jlpt_n2_grammar_textbook.html" style="text-decoration:none; background:#FFF1F2; border:1.5px solid #FECDD3; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🌸</span>
-          <strong style="color:#BE123C; font-size:0.95rem;">N2 実戦中上級</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法195 / 語彙3,412 / 演習2,403問</span>
-        </a>
-        <!-- N3 -->
-        <a href="jlpt_n3_grammar_textbook.html" style="text-decoration:none; background:#F0FDFA; border:1.5px solid #99F6E4; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">💎</span>
-          <strong style="color:#0F766E; font-size:0.95rem;">N3 中級完成</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法182 / 語彙1,841 / 演習1,228問</span>
-        </a>
-        <!-- N4 -->
-        <a href="jlpt_n4_grammar_textbook.html" style="text-decoration:none; background:#F0F9FF; border:1.5px solid #BAE6FD; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🌱</span>
-          <strong style="color:#0369A1; font-size:0.95rem;">N4 初級基礎</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法62 / 語彙668 / 演習613問</span>
-        </a>
-        <!-- N5 -->
-        <a href="jlpt_n5_grammar_textbook.html" style="text-decoration:none; background:#F0FDF4; border:1.5px solid #BBF7D0; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🐣</span>
-          <strong style="color:#15803D; font-size:0.95rem;">N5 入門</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法46 / 語彙702 / 演習555問</span>
-        </a>
-      </div>
 
       <div style="display:flex; justify-content:flex-end;">
         <a href="jlpt_vocab.html" style="text-decoration:none; color:var(--text-sub); font-size:0.82rem; font-weight:600;">📖 全8,907語 五十音順単語帳を開く →</a>
@@ -5486,6 +5452,35 @@ Advice: Concise explanation in English why it is corrected.
     const contentEl = document.getElementById('chat-dict-modal-content');
     if (!contentEl) return;
 
+    if (matches.length === 0) {
+      let html = `
+        <div style="background:#F8FAFC; border:1.5px solid #E2E8F0; border-radius:14px; padding:20px; text-align:center;">
+          <div style="font-size:1.35rem; font-weight:800; color:#1E293B; margin-bottom:6px;">${escapeHtml(cleanWord)}</div>
+          <p style="font-size:0.85rem; color:#64748B; margin-bottom:16px;">内蔵辞書に完全一致する見出し語がありませんでしたが、Googleで検索するか、マイリストに保存して後で復習できます。</p>
+          <div style="display:flex; flex-direction:column; gap:10px;">
+            <a href="https://www.google.com/search?q=${encodeURIComponent(cleanWord + ' 意味')}" target="_blank" rel="noopener noreferrer" style="background:#4285F4; color:white; border-radius:12px; padding:12px 18px; font-weight:800; font-size:0.92rem; text-decoration:none; display:flex; align-items:center; justify-content:center; gap:8px; box-shadow:0 3px 10px rgba(66,133,244,0.25); transition:background 0.2s;" onmouseover="this.style.background='#3367D6'" onmouseout="this.style.background='#4285F4'">
+              <svg style="width:18px; height:18px; flex-shrink:0;" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+              </svg>
+              <span>Googleで「${escapeHtml(cleanWord)}」を検索</span>
+            </a>
+            <button id="dict-save-btn-${escapeJs(cleanWord)}" onclick="toggleSaveWordFromDict('${escapeJs(cleanWord)}', '${escapeJs(hintReading || '')}', '語彙メモ', '重要語')" style="background:#F1F5F9; border:1px solid #CBD5E1; color:#334155; padding:10px 16px; border-radius:12px; font-weight:700; font-size:0.85rem; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:6px;">
+              🔖 「${escapeHtml(cleanWord)}」をマイリストに保存
+            </button>
+          </div>
+        </div>
+      `;
+      contentEl.innerHTML = html;
+      const modal = document.getElementById('chat-dict-modal');
+      if (modal) {
+        modal.classList.add('open');
+        modal.style.display = 'flex';
+        modal.style.opacity = '1';
+        modal.style.visibility = 'visible';
+      }
+      return;
+    }
+
     const topWord = matches[0]?.word || cleanWord;
     const topReading = matches[0]?.reading || hintReading || '';
     const topLevel = matches[0]?.level || '一般';
@@ -5510,6 +5505,14 @@ Advice: Concise explanation in English why it is corrected.
         </div>
         <div style="margin-top:10px; font-size:0.9rem; color:#334155; line-height:1.5;">
           <strong>意味・英語:</strong> ${escapeHtml(topMeanings)}
+        </div>
+        <div style="margin-top:12px; text-align:right;">
+          <a href="https://www.google.com/search?q=${encodeURIComponent(topWord + ' 意味')}" target="_blank" rel="noopener noreferrer" style="font-size:0.8rem; color:#2563EB; font-weight:700; text-decoration:none; display:inline-flex; align-items:center; gap:4px;">
+            <svg style="width:14px; height:14px;" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+            </svg>
+            <span>Googleでさらに詳しく検索 →</span>
+          </a>
         </div>
       </div>
     `;

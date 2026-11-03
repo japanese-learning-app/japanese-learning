@@ -3579,7 +3579,15 @@ html_content = '''<!DOCTYPE html>
         modalDictResultContent.innerHTML = `
           <div style="padding:24px 16px; color:var(--text-muted); text-align:center;">
             「${cleanQ}」に該当する文法・単語が見つかりませんでした。<br>
-            <span style="font-size:12px; margin-top:6px; display:inline-block;">ひらがなや基本形、または漢字の一部で再度お試しください。</span>
+            <span style="font-size:12px; margin-top:6px; display:inline-block; margin-bottom:14px;">ひらがなや基本形、または漢字の一部で再度お試しください。</span>
+            <div style="margin-top:10px;">
+              <a href="https://www.google.com/search?q=${encodeURIComponent(cleanQ + ' 意味')}" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:10px 20px; background:#4285F4; color:#ffffff; font-weight:700; font-size:13px; border-radius:12px; text-decoration:none; box-shadow:0 3px 10px rgba(66,133,244,0.3);">
+                <svg style="width:16px; height:16px; flex-shrink:0;" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+                </svg>
+                <span>Googleで「${cleanQ}」を検索</span>
+              </a>
+            </div>
           </div>
         `;
         return;

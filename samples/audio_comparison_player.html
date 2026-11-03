@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT 聴解テスト音源 聴き比べプレーヤー — Google TTS vs 高音質音声</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      background-color: #F8FAFC;
+      font-family: "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      color: #1E293B;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- HEADER -->
+  <header class="bg-gradient-to-r from-slate-900 to-slate-800 text-white sticky top-0 z-40 shadow-sm border-b border-slate-700">
+    <div class="max-w-4xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="px-2.5 py-0.5 rounded-lg bg-[#1995AD]/30 text-sky-300 font-black text-xs border border-sky-400/30">音質比較</span>
+        <h1 class="font-extrabold text-base sm:text-lg tracking-tight">JLPT 聴解テスト音源 聴き比べプレーヤー</h1>
+      </div>
+      <span class="text-xs text-slate-400 font-bold hidden sm:inline">実際の音声ファイルで直接比較</span>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="max-w-4xl mx-auto px-4 py-8 flex-1 w-full space-y-8">
+
+    <!-- INTRO BANNER -->
+    <div class="bg-white p-5 rounded-2xl border border-slate-200 shadow-xs">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-0.5 rounded bg-emerald-100 text-emerald-800 font-extrabold text-xs">実際の音源を生成済み</span>
+        <h2 class="text-base font-extrabold text-slate-800">各ボタンを押して、声の自然さ・聞き取りやすさを比較してください</h2>
+      </div>
+      <p class="text-xs text-slate-500 leading-relaxed">
+        同じ日本語のセリフを、<strong>「Google TTS（Google音声エンジン）」</strong>と<strong>「スタジオ高品質音声（女性アナウンサー声 / 自然な男性声）」</strong>の両方で書き出しました。ブラウザでそのまま再生してお確かめいただけます。
+      </p>
+    </div>
+
+    <!-- ==================== CLIP 1: ナレーション ==================== -->
+    <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-2.5">
+        <span class="text-xs font-black text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+          <i data-lucide="radio" class="w-4 h-4 text-sky-600"></i>
+          <span>音源 1：試験ナレーション（問題の状況説明）</span>
+        </span>
+        <span class="text-[11px] text-slate-400">放送調の明瞭さの比較</span>
+      </div>
+
+      <!-- Text -->
+      <div class="bg-slate-50 p-3 rounded-xl border border-slate-200/80 text-xs sm:text-sm font-bold text-slate-800">
+        「一番。会社で、男性社員と女性社員が来週のイベントの準備について話しています。男の人は、このあとまず何をしますか？」
+      </div>
+
+      <!-- Audio comparison buttons -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+        <!-- Google TTS -->
+        <div class="p-3.5 rounded-xl border border-sky-200 bg-sky-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-sky-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-sky-600"></i>
+              <span>Google TTS (標準)</span>
+            </span>
+            <span class="text-[10px] text-slate-400">MP3 / 105KB</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/google_q1_narration.mp3" type="audio/mpeg">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+
+        <!-- Apple Kyoko -->
+        <div class="p-3.5 rounded-xl border border-purple-200 bg-purple-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-purple-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-purple-600"></i>
+              <span>Kyoko（スタジオ女声アナウンス）</span>
+            </span>
+            <span class="text-[10px] text-slate-400">AAC・M4A</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/apple_kyoko_female.m4a" type="audio/mp4">
+            <source src="audio/apple_kyoko_female.wav" type="audio/wav">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== CLIP 2: 女性社員（先輩の指示） ==================== -->
+    <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-2.5">
+        <span class="text-xs font-black text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+          <i data-lucide="user" class="w-4 h-4 text-rose-500"></i>
+          <span>音源 2：女性社員の発話（指示とどんでん返し）</span>
+        </span>
+        <span class="text-[11px] text-slate-400">会話の自然さの比較</span>
+      </div>
+
+      <!-- Text -->
+      <div class="bg-rose-50/50 p-3 rounded-xl border border-rose-100 text-xs sm:text-sm font-bold text-slate-800">
+        「あ、ちょっと待って。部長から会場の変更があるかもしれないって連絡があったから、ポスターは保留にしておいて。それより、取引先への招待状のメールリストのチェックを先にお願いできる？」
+      </div>
+
+      <!-- Audio comparison buttons -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+        <!-- Google TTS -->
+        <div class="p-3.5 rounded-xl border border-sky-200 bg-sky-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-sky-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-sky-600"></i>
+              <span>Google TTS (標準)</span>
+            </span>
+            <span class="text-[10px] text-slate-400">MP3 / 143KB</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/google_q1_female.mp3" type="audio/mpeg">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+
+        <!-- Apple Kyoko -->
+        <div class="p-3.5 rounded-xl border border-purple-200 bg-purple-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-purple-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-purple-600"></i>
+              <span>Kyoko（スタジオ女声）</span>
+            </span>
+            <span class="text-[10px] text-slate-400">AAC・M4A</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/apple_kyoko_female.m4a" type="audio/mp4">
+            <source src="audio/apple_kyoko_female.wav" type="audio/wav">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== CLIP 3: 男性社員（提案） ==================== -->
+    <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-2.5">
+        <span class="text-xs font-black text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+          <i data-lucide="user" class="w-4 h-4 text-blue-500"></i>
+          <span>音源 3：男性社員の発話（提案）</span>
+        </span>
+        <span class="text-[11px] text-slate-400">男声の比較</span>
+      </div>
+
+      <!-- Text -->
+      <div class="bg-blue-50/50 p-3 rounded-xl border border-blue-100 text-xs sm:text-sm font-bold text-slate-800">
+        「先輩、来週の新作発表イベントの準備ですが、僕のほうで告知ポスターの修正を先にやっておきましょうか？」
+      </div>
+
+      <!-- Audio comparison buttons -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+        <!-- Google TTS -->
+        <div class="p-3.5 rounded-xl border border-sky-200 bg-sky-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-sky-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-sky-600"></i>
+              <span>Google TTS (標準)</span>
+            </span>
+            <span class="text-[10px] text-slate-400">MP3 / 85KB</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/google_q1_male.mp3" type="audio/mpeg">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+
+        <!-- Apple Reed -->
+        <div class="p-3.5 rounded-xl border border-indigo-200 bg-indigo-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-indigo-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-indigo-600"></i>
+              <span>Reed（自然な男声）</span>
+            </span>
+            <span class="text-[10px] text-slate-400">AAC・M4A</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/apple_reed_male.m4a" type="audio/mp4">
+            <source src="audio/apple_reed_male.wav" type="audio/wav">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== CLIP 4: 即時応答（折り入ってご相談） ==================== -->
+    <div class="bg-white p-5 sm:p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-2.5">
+        <span class="text-xs font-black text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+          <i data-lucide="sparkles" class="w-4 h-4 text-purple-600"></i>
+          <span>音源 4：即時応答（ビジネス敬語の改まった相談）</span>
+        </span>
+        <span class="text-[11px] text-slate-400">敬語のトーン比較</span>
+      </div>
+
+      <!-- Text -->
+      <div class="bg-purple-50/50 p-3 rounded-xl border border-purple-100 text-xs sm:text-sm font-bold text-slate-800">
+        「あの、課長、折り入ってご相談したいことがあるんですが、今よろしいでしょうか。」
+      </div>
+
+      <!-- Audio comparison buttons -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+        <!-- Google TTS -->
+        <div class="p-3.5 rounded-xl border border-sky-200 bg-sky-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-sky-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-sky-600"></i>
+              <span>Google TTS (標準)</span>
+            </span>
+            <span class="text-[10px] text-slate-400">MP3 / 62KB</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/google_q2_prompt.mp3" type="audio/mpeg">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+
+        <!-- Apple Kyoko -->
+        <div class="p-3.5 rounded-xl border border-purple-200 bg-purple-50/40 flex flex-col justify-between gap-3">
+          <div class="flex items-center justify-between">
+            <span class="font-extrabold text-xs text-purple-900 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4 text-purple-600"></i>
+              <span>Kyoko（スタジオ女声）</span>
+            </span>
+            <span class="text-[10px] text-slate-400">AAC・M4A</span>
+          </div>
+          <audio controls class="w-full h-8" preload="none">
+            <source src="audio/apple_q2_prompt.m4a" type="audio/mp4">
+            <source src="audio/apple_q2_prompt.wav" type="audio/wav">
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== OFFICIAL DEMO LINKS ==================== -->
+    <div class="bg-gradient-to-r from-slate-900 to-indigo-950 text-white p-6 rounded-2xl shadow-md space-y-4">
+      <div class="flex items-center gap-2">
+        <span class="px-2.5 py-0.5 rounded bg-sky-400 text-slate-900 font-extrabold text-xs">公式プレビューで自由にお試し</span>
+        <h3 class="text-base font-extrabold">Google Cloud Neural2 ＆ OpenAI TTS を試聴する方法</h3>
+      </div>
+      <p class="text-xs text-slate-300 leading-relaxed">
+        以下の公式デモページでは、アカウント登録不要でブラウザ上で文章を貼り付けて、Neural2やOpenAIの最新ボイス（男声・女声）を直接その場で再生できます。
+      </p>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
+        <!-- Google Cloud Official Console Link -->
+        <div class="bg-white/10 p-4 rounded-xl border border-white/15 space-y-2">
+          <div class="font-bold text-sky-300 text-xs flex items-center gap-1.5">
+            <i data-lucide="external-link" class="w-4 h-4"></i>
+            <span>Google Cloud Text-to-Speech 公式ページ</span>
+          </div>
+          <p class="text-[11px] text-slate-300">
+            ページ中盤の「デモ」で Language に <strong>Japanese (ja-JP)</strong> を選び、Voice type に <strong>Neural2</strong> を選択すると、<code>ja-JP-Neural2-B</code> 等のプロ音声を即座に試聴できます。
+          </p>
+          <a href="https://cloud.google.com/text-to-speech#section-2" target="_blank" class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-sky-500 hover:bg-sky-400 text-white font-bold text-xs transition">
+            <span>Google公式デモを開く ↗</span>
+          </a>
+        </div>
+
+        <!-- OpenAI TTS Link -->
+        <div class="bg-white/10 p-4 rounded-xl border border-white/15 space-y-2">
+          <div class="font-bold text-purple-300 text-xs flex items-center gap-1.5">
+            <i data-lucide="external-link" class="w-4 h-4"></i>
+            <span>OpenAI Audio API 公式プレビュー</span>
+          </div>
+          <p class="text-[11px] text-slate-300">
+            公式ドキュメントで <strong>Alloy, Echo, Shimmer</strong> などのボイスボタンを押すと、最新AI音声の滑らかな発話を直接確認できます。
+          </p>
+          <a href="https://platform.openai.com/docs/guides/text-to-speech" target="_blank" class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs transition">
+            <span>OpenAI公式デモを開く ↗</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="py-4 text-center text-xs text-slate-400 bg-white border-t border-slate-200">
+    JLPT TTS Comparative Audio Player
+  </footer>
+
+  <script>
+    window.onload = function() {
+      if (typeof lucide !== 'undefined') lucide.createIcons();
+    };
+  </script>
+</body>
+</html>

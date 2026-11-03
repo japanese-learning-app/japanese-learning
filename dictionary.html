@@ -683,6 +683,14 @@
     </div>
     <div class="empty-title">見つかりませんでした (No results found)</div>
     <div class="empty-sub">スペルを確認するか、別の言語（日本語・英語・中国語・かな）で検索してください。</div>
+    <div style="margin-top:20px;">
+      <a id="empty-google-btn" href="#" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; background:#4285F4; color:white; padding:12px 24px; border-radius:12px; font-weight:700; font-size:0.95rem; text-decoration:none; box-shadow:0 3px 12px rgba(66,133,244,0.3); transition:all 0.2s;">
+        <svg style="width:18px;height:18px;flex-shrink:0;" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+        </svg>
+        <span id="empty-google-text">Googleで検索</span>
+      </a>
+    </div>
   </div>
 
   <button id="load-more-btn" style="display:none" onclick="loadMore()">さらに読み込む Load more ↓</button>
@@ -710,11 +718,15 @@
       <div class="trans-block-val" id="modal-fr-val"></div>
     </div>
 
-    <div class="modal-tts-row">
+    <div class="modal-tts-row" style="display:flex; gap:10px; flex-wrap:wrap;">
       <button class="modal-tts-btn" id="modal-tts-btn" onclick="speakModalWord()">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
         発音を聴く Listen
       </button>
+      <a id="modal-google-btn" href="#" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:6px; background:#4285F4; color:white; padding:8px 14px; border-radius:10px; font-weight:700; font-size:0.85rem; text-decoration:none; box-shadow:0 2px 6px rgba(66,133,244,0.25);">
+        <svg style="width:14px;height:14px;flex-shrink:0;" viewBox="0 0 24 24" fill="currentColor"><path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/></svg>
+        Googleで検索
+      </a>
     </div>
   </div>
 </div>
@@ -900,6 +912,12 @@
 
     if (matchedEntries.length === 0) {
       document.getElementById('results-header-row').style.display = 'none';
+      const emptyBtn = document.getElementById('empty-google-btn');
+      const emptyText = document.getElementById('empty-google-text');
+      if (emptyBtn && emptyText) {
+        emptyBtn.href = `https://www.google.com/search?q=${encodeURIComponent(currentQuery + ' 意味')}`;
+        emptyText.textContent = `Googleで「${currentQuery}」を検索`;
+      }
       document.getElementById('empty-state').style.display = 'block';
       return;
     }
@@ -1018,6 +1036,11 @@
       document.getElementById('modal-fr-val').textContent = entry.fr.join(' / ');
     } else {
       frWrap.style.display = 'none';
+    }
+
+    const gBtn = document.getElementById('modal-google-btn');
+    if (gBtn) {
+      gBtn.href = `https://www.google.com/search?q=${encodeURIComponent(entry.w + ' 意味')}`;
     }
 
     document.getElementById('modal-overlay').classList.add('open');

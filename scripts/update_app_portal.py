@@ -64,41 +64,7 @@ new_modal = '''<div class="app-modal-overlay" id="modal-jlpt" onclick="closeModa
         <div style="font-size:1.3rem; font-weight:800;">→</div>
       </a>
 
-      <!-- 5レベル グリッドカード -->
-      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:10px; margin-bottom:14px;">
-        <!-- N1 -->
-        <a href="jlpt_n1_grammar_textbook.html" style="text-decoration:none; background:#FAF5FF; border:1.5px solid #E9D5FF; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">👑</span>
-          <strong style="color:#7E22CE; font-size:0.95rem;">N1 最上級</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法127 / 語彙3,747</span>
-        </a>
-        <!-- N2 -->
-        <a href="jlpt_n2_grammar_textbook.html" style="text-decoration:none; background:#FFF1F2; border:1.5px solid #FECDD3; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🌸</span>
-          <strong style="color:#BE123C; font-size:0.95rem;">N2 実戦中上級</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法195 / 語彙3,412</span>
-        </a>
-        <!-- N3 -->
-        <a href="jlpt_n3_grammar_textbook.html" style="text-decoration:none; background:#F0FDFA; border:1.5px solid #99F6E4; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">💎</span>
-          <strong style="color:#0F766E; font-size:0.95rem;">N3 中級完成</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法182 / 語彙1,841</span>
-        </a>
-        <!-- N4 -->
-        <a href="jlpt_n4_grammar_textbook.html" style="text-decoration:none; background:#F0F9FF; border:1.5px solid #BAE6FD; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🌱</span>
-          <strong style="color:#0369A1; font-size:0.95rem;">N4 初級基礎</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法62 / 語彙668</span>
-        </a>
-        <!-- N5 -->
-        <a href="jlpt_n5_grammar_textbook.html" style="text-decoration:none; background:#F0FDF4; border:1.5px solid #BBF7D0; border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:4px; text-align:center;">
-          <span style="font-size:1.2rem;">🐣</span>
-          <strong style="color:#15803D; font-size:0.95rem;">N5 入門</strong>
-          <span style="font-size:0.75rem; color:#6B7280;">文法46 / 語彙702</span>
-        </a>
-      </div>
-
-      <div style="display:flex; justify-content:flex-end;">
+<div style="display:flex; justify-content:flex-end;">
         <a href="jlpt_vocab.html" style="text-decoration:none; color:var(--text-sub); font-size:0.82rem; font-weight:600;">📖 全8,907語 五十音順単語帳を開く →</a>
       </div>
     </div>
