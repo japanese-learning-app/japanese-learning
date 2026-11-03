@@ -881,7 +881,7 @@
       if (!q || !q.explanation) return;
 
       const expEl = document.getElementById(`lexp-text-${qNum}`);
-      if (expEl) expEl.textContent = q.explanation[lang] || q.explanation.ja || '';
+      if (expEl) expEl.innerHTML = q.explanation[lang] || q.explanation.ja || '';
 
       ['ja', 'en', 'zh', 'ko'].forEach(l => {
         const btn = document.getElementById(`lexp-btn-${qNum}-${l}`);

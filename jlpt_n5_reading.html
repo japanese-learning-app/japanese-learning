@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JLPT N5 読解実戦道場 — 全11パッセージ・全21問 完全網羅実戦模試</title>
+  <title>JLPT N5 読解実戦道場 — 全6パッセージ・全6問 実戦模試</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -287,7 +287,7 @@
             <span>JLPT N5 読解実戦道場</span>
             <span class="text-xs bg-white text-[#127285] font-extrabold px-2.5 py-0.5 rounded-full">実戦模試 第1回</span>
           </div>
-          <div class="text-xs text-white/80">全6文章・全6問 完全準拠模試（短文・中文・情報検索）</div>
+          <div class="text-xs text-white/80">全6文章・全6問 実戦模試（短文・中文・情報検索）</div>
         </div>
       </div>
 
@@ -311,7 +311,7 @@
 
       <!-- Quick Nav Buttons -->
       <div class="flex items-center gap-2 text-xs font-bold text-slate-500">
-        <span id="progress-indicator">問 1 / 21</span>
+        <span id="progress-indicator">問 1 / 6</span>
         <button onclick="prevPassage()" class="px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 hover:bg-slate-100 transition flex items-center gap-1">
           <i data-lucide="chevron-left" class="w-4 h-4"></i>
           <span>前の文章</span>
@@ -539,7 +539,7 @@
               <button onclick="switchLangTab(${q.q_num}, 'ja')" id="lang-btn-${q.q_num}-ja" class="px-2.5 py-0.5 rounded-md bg-[#1995AD] text-white">日本語</button>
               <button onclick="switchLangTab(${q.q_num}, 'en')" id="lang-btn-${q.q_num}-en" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">English</button>
               <button onclick="switchLangTab(${q.q_num}, 'zh')" id="lang-btn-${q.q_num}-zh" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">繁體中文</button>
-              <button onclick="switchLangTab(${q.q_num}, 'ko')" id="lang-btn-${q.q_num}-ko" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">한국語</button>
+              <button onclick="switchLangTab(${q.q_num}, 'ko')" id="lang-btn-${q.q_num}-ko" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">한국어</button>
             </div>
 
             <div id="q${q.q_num}-explanation-text" class="text-xs leading-relaxed text-slate-700 font-medium">
@@ -645,7 +645,7 @@
 
       const textEl = document.getElementById(`q${qNum}-explanation-text`);
       if (textEl) {
-        textEl.textContent = targetQ.explanation[lang] || targetQ.explanation.ja;
+        textEl.innerHTML = targetQ.explanation[lang] || targetQ.explanation.ja;
       }
     }
 

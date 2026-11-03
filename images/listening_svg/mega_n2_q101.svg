@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <!-- Background -->
+  <rect width="400" height="300" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+
+  <!-- Header -->
+  <rect x="20" y="14" width="80" height="22" rx="11" fill="#14778B" />
+  <text x="60" y="29" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">選択肢</text>
+  <text x="110" y="30" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">N2 選択肢図 第41問</text>
+
+  <!-- 4 Grid Boxes -->
+  <!-- Box 1 -->
+  <g transform="translate(25, 48)">
+    <rect width="165" height="110" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <circle cx="24" cy="24" r="12" fill="#14778B" />
+    <text x="24" y="28" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="82" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B" text-anchor="middle">部屋の配置A</text>
+  </g>
+
+  <!-- Box 2 -->
+  <g transform="translate(210, 48)">
+    <rect width="165" height="110" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <circle cx="24" cy="24" r="12" fill="#14778B" />
+    <text x="24" y="28" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="82" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B" text-anchor="middle">部屋の配置B</text>
+  </g>
+
+  <!-- Box 3 -->
+  <g transform="translate(25, 170)">
+    <rect width="165" height="110" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <circle cx="24" cy="24" r="12" fill="#14778B" />
+    <text x="24" y="28" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="82" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B" text-anchor="middle">部屋の配置C</text>
+  </g>
+
+  <!-- Box 4 -->
+  <g transform="translate(210, 170)">
+    <rect width="165" height="110" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <circle cx="24" cy="24" r="12" fill="#14778B" />
+    <text x="24" y="28" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="82" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B" text-anchor="middle">部屋の配置D</text>
+  </g>
+</svg>

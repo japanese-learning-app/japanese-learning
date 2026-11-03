@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFF6FF" />
+      <stop offset="100%" stop-color="#DBEAFE" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.08" />
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)" stroke="#E2E8F0" stroke-width="1.5" />
+
+  <!-- Category Tag -->
+  <rect x="20" y="16" width="90" height="24" rx="12" fill="#1E40AF" />
+  <text x="65" y="32" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">学校・教室</text>
+
+  <!-- Title Banner -->
+  <text x="120" y="33" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">N4 聴解演習 第23問</text>
+
+  <!-- Main Scene Area (Room / Environment) -->
+  <g transform="translate(30, 56)">
+    <!-- Room Floor / Desk -->
+    <rect x="0" y="0" width="340" height="175" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" filter="url(#shadow)" />
+    
+    <!-- Interior Furniture / Setting Line -->
+    <line x1="20" y1="130" x2="320" y2="130" stroke="#E2E8F0" stroke-width="2" stroke-dasharray="4 4" />
+    
+    <!-- Speaker A (Left) -->
+    <g transform="translate(60, 40)">
+      <!-- Head -->
+      <circle cx="30" cy="30" r="22" fill="#FDE047" stroke="#334155" stroke-width="2" />
+      <circle cx="23" cy="28" r="2.5" fill="#334155" />
+      <circle cx="37" cy="28" r="2.5" fill="#334155" />
+      <path d="M 24 36 Q 30 42 36 36" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round" />
+      <!-- Body -->
+      <path d="M 12 75 C 12 55, 48 55, 48 75 Z" fill="#38BDF8" stroke="#334155" stroke-width="2" />
+      <text x="30" y="92" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">女性</text>
+    </g>
+
+    <!-- Center Dialogue Symbol -->
+    <g transform="translate(155, 60)">
+      <circle cx="15" cy="15" r="14" fill="#14778B" opacity="0.1" />
+      <path d="M 5 15 Q 15 5 25 15" fill="none" stroke="#14778B" stroke-width="2.5" stroke-linecap="round" />
+      <circle cx="15" cy="15" r="3" fill="#14778B" />
+      <path d="M 25 15 Q 15 25 5 15" fill="none" stroke="#14778B" stroke-width="2.5" stroke-linecap="round" />
+    </g>
+
+    <!-- Speaker B (Right) -->
+    <g transform="translate(220, 40)">
+      <!-- Head -->
+      <circle cx="30" cy="30" r="22" fill="#FED7AA" stroke="#334155" stroke-width="2" />
+      <circle cx="23" cy="28" r="2.5" fill="#334155" />
+      <circle cx="37" cy="28" r="2.5" fill="#334155" />
+      <path d="M 24 36 Q 30 42 36 36" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round" />
+      <!-- Body -->
+      <path d="M 12 75 C 12 55, 48 55, 48 75 Z" fill="#818CF8" stroke="#334155" stroke-width="2" />
+      <text x="30" y="92" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">男性</text>
+    </g>
+
+    <!-- Key Situation Items/Details -->
+    <text x="170" y="152" font-family="-apple-system, sans-serif" font-size="10.5" font-weight="bold" fill="#64748B" text-anchor="middle">対話の要点と話者の行動を順序立てて聞き取ります</text>
+  </g>
+
+  <!-- Bottom Tip -->
+  <rect x="30" y="244" width="340" height="42" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+  <text x="45" y="269" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#14778B">POINT：</text>
+  <text x="95" y="269" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">誰が・何を・どのような順序で行うか聞き取りましょう</text>
+</svg>

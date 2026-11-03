@@ -1,0 +1,277 @@
+===== n5_lis_q1 問題1 課題理解 1 audio/listening/n5_q1.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: あしたの授業の持ち物
+prompt: 学生はこのあと、何をカバンに入れますか。
+speech: 第1問。学生はこのあと、何をカバンに入れますか。。 /  / 先生：みなさん、明日は日本語のテストです。鉛筆と消しゴムを忘れないでください。 / 男の学生：先生、辞書を使ってもいいですか。 / 先生：いいえ、辞書は使えません。机の上には鉛筆と消しゴムだけ置いてください。教科書とノートはカバンの中にしまってくださいね。 / 男の学生：はい、わかりました。 /  / 質問。学生はこのあと、何をカバンに入れますか。。
+  1 教科書とノート <-
+  2 鉛筆と消しゴム 
+  3 辞書とペン 
+  4 時計とノート 
+  ja 先生が「教科書とノートはカバンの中にしまってください」と言っているので、1番が正解です。
+  en The teacher says 'Please put your textbooks and notebooks in your bags', so Choice 1 is correct.
+  zh 老師說「請把課本和筆記本放進包裡」，因此選項1正確。
+  ko 선생님이 '교과서와 공책은 가방 속에 넣어 주세요'라고 했으므로 1번이 정답입니다.
+===== n5_lis_q2 問題1 課題理解 2 audio/listening/n5_q2.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: スーパーでの買い物
+prompt: 男の人は、何を買いに行きますか。
+speech: 第2問。男の人は、何を買いに行きますか。。 /  / 女：これから晩ごはんのカレーを作るんだけど、牛肉と玉ねぎはあるから、人参とジャガイモを買ってきてくれる？ / 男：わかった。リンゴも買う？ / 女：ううん、リンゴはまだ冷蔵庫にたくさんあるからいいよ。人参とジャガイモだけお願いね。 / 男：はい、行ってくるよ。 /  / 質問。男の人は、何を買いに行きますか。。
+  1 牛肉と玉ねぎ 
+  2 人参とリンゴ 
+  3 人参とジャガイモ <-
+  4 牛肉とジャガイモ 
+  ja 女性が「人参とジャガイモだけお願いね」と頼んでいるので、3番が正解です。
+  en The woman asks him to buy carrots and potatoes, so Choice 3 is correct.
+  zh 女士拜託他「只要買胡蘿蔔和馬鈴薯」，因此選項3正確。
+  ko 여성이 '당근과 감자만 부탁해'라고 했으므로 3번이 정답입니다.
+===== n5_lis_q3 問題1 課題理解 3 audio/listening/n5_q3.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 休みの日の待ち合わせ
+prompt: 二人は何時にどこで会いますか。
+speech: 第3問。二人は何時にどこで会いますか。。 /  / 男：日曜日は映画を見に行こう。10時に駅の改札の前でいい？ / 女：映画は10時半からだから、10時はちょっと早いかな。10時15分に、駅の中のカフェで会わない？ / 男：そうだね、カフェのほうがいいね。じゃあ、10時15分にカフェで。 / 女：うん、楽しみ！ /  / 質問。二人は何時にどこで会いますか。。
+  1 10時に駅の改札の前 
+  2 10時15分に駅のカフェ <-
+  3 10時30分に映画館 
+  4 10時15分に改札の前 
+  ja 女性の提案「10時15分に、駅の中のカフェで会わない？」に男性が同意しているため、2番が正解です。
+  en They agreed to meet at 10:15 in the station cafe, so Choice 2 is correct.
+  zh 兩人同意於10點15分在車站內的咖啡廳見面，因此選項2正確。
+  ko 10시 15분에 역 안의 카페에서 만나기로 합의했으므로 2번이 정답입니다.
+===== n5_lis_q4 問題1 課題理解 4 audio/listening/n5_q4.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 部屋の掃除
+prompt: 男の学生はこのあと、まず何をしますか。
+speech: 第4問。男の学生はこのあと、まず何をしますか。。 /  / 女の先生：留学生ラウンジの掃除を手伝ってください。 / 男の学生：はい、先生。何をしましょうか。 / 女の先生：まず、ゴミ箱のゴミを集めて捨ててきてください。そのあとで、机を拭いて椅子を並べてくださいね。 / 男の学生：わかりました。すぐゴミを捨ててきます。 /  / 質問。男の学生はこのあと、まず何をしますか。。
+  1 机をふく。 
+  2 椅子をならべる。 
+  3 ゴミをすてる。 <-
+  4 窓をあける。 
+  ja 先生が「まず、ゴミ箱のゴミを集めて捨ててきてください」と指示しているため、3番（ゴミをすてる）が正解です。
+  en The teacher says 'First, please gather and throw away the garbage', so Choice 3 is correct.
+  zh 老師指示「首先請把垃圾桶的垃圾收好拿去丟」，因此選項3正確。
+  ko 선생님이 '먼저 쓰레기통의 쓰레기를 모아서 버리고 오세요'라고 지시했으므로 3번이 정답입니다.
+===== n5_lis_q5 問題1 課題理解 5 audio/listening/n5_q5.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 病院での薬の指示
+prompt: 男の人は薬をいつ飲みますか。
+speech: 第5問。男の人は薬をいつ飲みますか。。 /  / 医者：田中さん、風邪ですね。熱を下げる薬を出しておきます。 / 男：はい、先生。どのように飲めばいいですか。 / 医者：1日に2回、朝と晩のごはんのあとに1錠ずつ飲んでください。昼は飲まなくていいですよ。 / 男：わかりました。朝と晩、ごはんのあとですね。 /  / 質問。男の人は薬をいつ飲みますか。。
+  1 朝と晩のごはんの前 
+  2 昼ごはんの後 
+  3 朝と晩のごはんの後 <-
+  4 毎食の前 
+  ja 医師が「1日に2回、朝と晩のごはんのあとに」と指示しているので、3番が正解です。
+  en The doctor specifies 'Twice a day, after breakfast and dinner', so Choice 3 is correct.
+  zh 醫生說明「1天2次，早晚餐後各吃1顆」，因此選項3正確。
+  ko 의사가 '하루 2회, 아침과 저녁 식사 후에'라고 지시했으므로 3번이 정답입니다.
+===== n5_lis_q6 問題1 課題理解 6 audio/listening/n5_q6.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 電車の乗り換え
+prompt: 女の人は何番線の電車に乗りますか。
+speech: 第6問。女の人は何番線の電車に乗りますか。。 /  / 女：すみません、新宿へ行きたいのですが、どの電車に乗ればいいですか。 / 駅員：新宿ですね。あちらの2番線に来る青い電車に乗ってください。1番線の黄色い電車は新宿へ行きませんから気をつけてくださいね。 / 女：わかりました。2番線の青い電車ですね。ありがとうございます。 /  / 質問。女の人は何番線の電車に乗りますか。。
+  1 1番線の黄色い電車 
+  2 2番線の青い電車 <-
+  3 3番線の赤い電車 
+  4 4番線の緑の電車 
+  ja 駅員が「2番線に来る青い電車に乗ってください」と案内しているため、2番が正解です。
+  en The station attendant instructs to take the blue train at Track 2, so Choice 2 is correct.
+  zh 站務員告知「請搭乘停靠2號月台的藍色電車」，因此選項2正確。
+  ko 역무원이 '2번 홈에 들어오는 파란색 기차를 타세요'라고 안내했으므로 2번이 정답입니다.
+===== n5_lis_q7 問題1 課題理解 7 audio/listening/n5_q7.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 料理の手伝い
+prompt: 男の人はこのあと、何をしますか。
+speech: 第7問。男の人はこのあと、何をしますか。。 /  / 女：鈴木さん、夕ごはんの準備を手伝ってくれませんか。 / 男：うん、いいよ。お皿を並べようか。 / 女：お皿はまだいいから、その鍋にお水を入れてお湯を沸かしてくれる？お肉と野菜は私が切るから。 / 男：わかった。お湯を沸かすね。 /  / 質問。男の人はこのあと、何をしますか。。
+  1 皿をテーブルにならべる。 
+  2 鍋でお湯をわかす。 <-
+  3 肉をきる。 
+  4 野菜をあらう。 
+  ja 女性が「鍋にお水を入れてお湯を沸かしてくれる？」と頼み、男性が「わかった。お湯を沸かすね」と答えているため、2番が正解です。
+  en The woman asks him to boil water in the pot, which he agrees to do, so Choice 2 is correct.
+  zh 女士請他「幫忙在鍋子裡裝水煮開水」，男士也答應了，因此選項2正確。
+  ko 여성이 '냄비에 물을 넣고 끓여 줄래?'라고 부탁했고 남성이 승낙했으므로 2번이 정답입니다.
+===== n5_lis_q8 問題2 ポイント理解 8 audio/listening/n5_q8.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 遅刻の理由
+prompt: 男の人は、どうして遅刻しましたか。
+speech: 第8問。男の人は、どうして遅刻しましたか。。 /  / 先生：李さん、今日はどうして遅れたのですか。寝坊ですか。 / 男：いいえ、朝7時に起きたのですが、いつものバスが事故で来なくて、30分もバス停で待ったんです。 / 先生：そうでしたか。事故なら仕方ありませんね。席についてください。 /  / 質問。男の人は、どうして遅刻しましたか。。
+  1 朝、寝坊したから。 
+  2 バスがなかなか来なかったから。 <-
+  3 道をまちがえたから。 
+  4 財布を忘れたから。 
+  ja 「いつものバスが事故で来なくて、30分も待った」と言っているため、2番が正解です。
+  en He explains that his usual bus didn't arrive due to an accident and he waited 30 minutes, so Choice 2 is correct.
+  zh 男士說明「平常搭的公車因為事故沒來，等了30分鐘」，因此選項2正確。
+  ko '평소 타던 버스가 사고로 오지 않아서 30분이나 기다렸다'고 했으므로 2번이 정답입니다.
+===== n5_lis_q9 問題2 ポイント理解 9 audio/listening/n5_q9.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 誕生日のプレゼント
+prompt: 女の人はお母さんから何をもらいましたか。
+speech: 第9問。女の人はお母さんから何をもらいましたか。。 /  / 男：マリアさん、その時計、素敵ですね。 / 女：ありがとうございます。先週の誕生日に母からもらったんです。父からは辞書を、兄からはカバンをもらいました。 / 男：家族みんなからプレゼントをもらったんですね。よかったですね。 /  / 質問。女の人はお母さんから何をもらいましたか。。
+  1 辞書 
+  2 カバン 
+  3 時計 <-
+  4 靴 
+  ja 「誕生日に母から（時計を）もらったんです」と言っているため、3番（時計）が正解です。
+  en She says she received the watch from her mother for her birthday, so Choice 3 (Watch) is correct.
+  zh 女士提到「生日時從母親那裡收到了手錶」，因此選項3（手錶）正確。
+  ko '생일에 어머니로부터 (시계를) 받았습니다'라고 했으므로 3번(시계)이 정답입니다.
+===== n5_lis_q10 問題2 ポイント理解 10 audio/listening/n5_q10.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 好きなスポーツ
+prompt: 男の人が一番好きなスポーツは何ですか。
+speech: 第10問。男の人が一番好きなスポーツは何ですか。。 /  / 女：キムさんはどんなスポーツが好きですか。 / 男：サッカーや野球もテレビで見ますが、自分でやるのはテニスが一番好きです。毎週土曜日に友達とテニスをしています。 / 女：テニス、いいですね！私もやってみたいです。 /  / 質問。男の人が一番好きなスポーツは何ですか。。
+  1 サッカー 
+  2 野球 
+  3 テニス <-
+  4 水泳 
+  ja 「自分でやるのはテニスが一番好きです」と言っているため、3番が正解です。
+  en He states 'As for playing myself, tennis is my favorite', so Choice 3 is correct.
+  zh 男士說「自己打的話最喜歡網球」，因此選項3正確。
+  ko '직접 하는 것은 테니스를 가장 좋아합니다'라고 했으므로 3번이 정답입니다.
+===== n5_lis_q11 問題2 ポイント理解 11 audio/listening/n5_q11.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 休みの旅行先
+prompt: 女の人は先週の休みにどこへ行きましたか。
+speech: 第11問。女の人は先週の休みにどこへ行きましたか。。 /  / 男：先週の3連休、どこかへ行きましたか。 / 女：最初は山へ登るつもりだったんですが、天気が悪くなりそうだったので、海へ行きました。おいしい魚をたくさん食べてのんびりしました。 / 男：いいですね。私も海へ行きたくなりました。 /  / 質問。女の人は先週の休みにどこへ行きましたか。。
+  1 山 
+  2 海 <-
+  3 川 
+  4 温泉 
+  ja 「天気が悪くなりそうだったので、海へ行きました」とあるため、2番（海）が正解です。
+  en She explains she went to the sea because the mountain weather seemed bad, so Choice 2 is correct.
+  zh 女士說明「因為天氣看起來會變糟，所以去了海邊」，因此選項2正確。
+  ko '날씨가 안 좋아질 것 같아서 바다에 갔습니다'라고 했으므로 2번(바다)이 정답입니다.
+===== n5_lis_q12 問題2 ポイント理解 12 audio/listening/n5_q12.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 好きな季節
+prompt: 男の人はどの季節が一番好きですか。
+speech: 第12問。男の人はどの季節が一番好きですか。。 /  / 女：春、夏、秋、冬の中で、どの季節が好きですか。 / 男：春も桜がきれいで好きですが、私は秋が一番好きです。涼しくて過ごしやすいし、果物もおいしいですから。 / 女：私も秋が好きです。紅葉がきれいですものね。 /  / 質問。男の人はどの季節が一番好きですか。。
+  1 春 
+  2 夏 
+  3 秋 <-
+  4 冬 
+  ja 「私は秋が一番好きです。涼しくて過ごしやすいし、果物もおいしいですから」と明言しているため、3番（秋）が正解です。
+  en He clearly states 'Autumn is my favorite because it is cool, pleasant, and fruits are delicious', so Choice 3 is correct.
+  zh 男士清楚說明「我最喜歡秋天，因為涼爽舒服，水果也好吃」，因此選項3（秋天）正確。
+  ko '저는 가을을 가장 좋아합니다. 시원하고 지내기 좋고 과일도 맛있으니까요'라고 했으므로 3번(가을)이 정답입니다.
+===== n5_lis_q13 問題2 ポイント理解 13 audio/listening/n5_q13.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 日本語を勉強する理由
+prompt: 女の人はどうして日本語を勉強していますか。
+speech: 第13問。女の人はどうして日本語を勉強していますか。。 /  / 男：アンナさんはどうして日本語の勉強を始めたんですか。 / 女：子どもの頃から日本のアニメが大好きで、字幕なしでアニメを見たいと思ったのがきっかけです。将来は日本で仕事もしてみたいです。 / 男：へえ、素晴らしいですね！ /  / 質問。女の人はどうして日本語を勉強していますか。。
+  1 仕事で使わなければならないから。 
+  2 日本の大学に入りたいから。 
+  3 字幕なしでアニメを見たいから。 <-
+  4 家族が日本に住んでいるから。 
+  ja 「字幕なしでアニメを見たいと思ったのがきっかけです」と言っているため、3番が正解です。
+  en She explains she started studying Japanese to watch anime without subtitles, so Choice 3 is correct.
+  zh 女士提到契機是「想不看字幕看動畫」，因此選項3正確。
+  ko '자막 없이 애니메이션을 보고 싶다고 생각한 것이 계기입니다'라고 했으므로 3번이 정답입니다.
+===== n5_lis_q14 問題3 発話表現 14 audio/listening/n5_q14.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 朝の挨拶
+prompt: 朝、学校で先生に会いました。何と言いますか。
+speech: 第14問。朝、学校で先生に会いました。何と言いますか。。 /  / 1番、おはようございます。 / 2番、こんにちは。 / 3番、さようなら。 /  / 質問。朝、学校で先生に会いました。何と言いますか。。
+  1 おはようございます。 <-
+  2 こんにちは。 
+  3 さようなら。 
+  ja 朝の挨拶は「おはようございます」です（1番が正解）。
+  en The morning greeting is 'Ohayou gozaimasu' (Good morning), so Choice 1 is correct.
+  zh 早晨的問候語是「おはようございます」（選項1正確）。
+  ko 아침 인사는 'おはようございます(안녕하세요)'입니다 (1번 정답).
+===== n5_lis_q15 問題3 発話表現 15 audio/listening/n5_q15.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: ご飯を食べ終わったとき
+prompt: ご飯を食べ終わりました。何と言いますか。
+speech: 第15問。ご飯を食べ終わりました。何と言いますか。。 /  / 1番、いただきます。 / 2番、ごちそうさまでした。 / 3番、いってきます。 /  / 質問。ご飯を食べ終わりました。何と言いますか。。
+  1 いただきます。 
+  2 ごちそうさまでした。 <-
+  3 いってきます。 
+  ja 食事を食べ終わった後の挨拶は「ごちそうさまでした」です（2番が正解）。
+  en The expression after finishing a meal is 'Gochisousama deshita', so Choice 2 is correct.
+  zh 用餐完畢時的問候語是「ごちそうさまでした」（多謝款待），因此選項2正確。
+  ko 식사를 마친 후의 인사는 'ごちそうさまでした(잘 먹었습니다)'입니다 (2번 정답).
+===== n5_lis_q16 問題3 発話表現 16 audio/listening/n5_q16.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 人に道をたずねるとき
+prompt: 駅で人に道をたずねたいです。最初に何と言いますか。
+speech: 第16問。駅で人に道をたずねたいです。最初に何と言いますか。。 /  / 1番、どういたしまして。 / 2番、すみません。 / 3番、ごめんなさい。 /  / 質問。駅で人に道をたずねたいです。最初に何と言いますか。。
+  1 どういたしまして。 
+  2 すみません。 <-
+  3 ごめんなさい。 
+  ja 見知らぬ人に声をかけて質問するときは「すみません」を使います（2番が正解）。
+  en To call out to someone and ask a question, say 'Sumimasen' (Excuse me), so Choice 2 is correct.
+  zh 向陌生人搭話詢問事情時使用「すみません」（不好意思），因此選項2正確。
+  ko 모르는 사람에게 말을 걸어 질문할 때는 'すみません(실례합니다)'을 사용합니다 (2번 정답).
+===== n5_lis_q17 問題3 発話表現 17 audio/listening/n5_q17.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 先に帰るときの挨拶
+prompt: 会社の仕事を終えて先に帰ります。同僚に何と言いますか。
+speech: 第17問。会社の仕事を終えて先に帰ります。同僚に何と言いますか。。 /  / 1番、ただいま。 / 2番、いってらっしゃい。 / 3番、お先に失礼します。 /  / 質問。会社の仕事を終えて先に帰ります。同僚に何と言いますか。。
+  1 ただいま。 
+  2 いってらっしゃい。 
+  3 お先に失礼します。 <-
+  ja 職場から先に退出する際の決まり文句は「お先に失礼します」です（3番が正解）。
+  en When leaving the workplace before others, say 'Osaki ni shitsurei shimasu' (See you tomorrow / I'm leaving first), so Choice 3 is correct.
+  zh 下班先離開辦公室時的固定問候語是「お先に失礼します」（我先走了），因此選項3正確。
+  ko 직장에서 먼저 퇴근할 때 하는 인사말은 'お先に失礼します(먼저 실례하겠습니다)'입니다 (3번 정답).
+===== n5_lis_q18 問題3 発話表現 18 audio/listening/n5_q18.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 物を渡すとき
+prompt: 友達にプレゼントを渡します。何と言いますか。
+speech: 第18問。友達にプレゼントを渡します。何と言いますか。。 /  / 1番、どうぞ。 / 2番、どうも。 / 3番、こちらこそ。 /  / 質問。友達にプレゼントを渡します。何と言いますか。。
+  1 どうぞ。 <-
+  2 どうも。 
+  3 こちらこそ。 
+  ja 物を相手に渡して勧める際は「どうぞ」と言います（1番が正解）。
+  en When giving something to someone, say 'Douzo' (Here you are / Please), so Choice 1 is correct.
+  zh 遞送東西給對方時說「どうぞ」（請收下），因此選項1正確。
+  ko 물건을 상대방에게 건네며 권할 때는 'どうぞ(여기 있습니다/받으세요)'라고 합니다 (1번 정답).
+===== n5_lis_q19 問題4 即時応答 19 audio/listening/n5_q19.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 名前の質問
+prompt: 「お名前は何ですか。」
+speech: 第19問。お名前は何ですか。。 /  / 1番、キムです。 / 2番、韓国から来ました。 / 3番、学生です。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 キムです。 <-
+  2 韓国から来ました。 
+  3 学生です。 
+  ja 「お名前は何ですか」と尋ねられたので、名前を答えている1番が正解です。
+  en Asked for a name, so stating the name 'Kim desu' (Choice 1) is correct.
+  zh 被問到「請問您的名字是什麼」，回答姓名的選項1「キムです」正確。
+  ko '이름이 무엇입니까'라고 물었으므로 이름을 대답한 1번이 정답입니다.
+===== n5_lis_q20 問題4 即時応答 20 audio/listening/n5_q20.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 過去の行動の質問
+prompt: 「昨日はどこへ行きましたか。」
+speech: 第20問。昨日はどこへ行きましたか。。 /  / 1番、明日行きます。 / 2番、図書館へ行きました。 / 3番、電車で行きました。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 明日行きます。 
+  2 図書館へ行きました。 <-
+  3 電車で行きました。 
+  ja 「どこへ行きましたか」と場所（過去）を聞かれているので、「図書館へ行きました」（2番）が正解です。
+  en Asked where they went (past destination), so 'I went to the library' (Choice 2) is correct.
+  zh 詢問去了哪裡（地點・過去式），因此「去圖書館了」（選項2）正確。
+  ko '어디에 갔습니까'라고 장소(과거)를 묻고 있으므로 '도서관에 갔습니다'(2번)가 정답입니다.
+===== n5_lis_q21 問題4 即時応答 21 audio/listening/n5_q21.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 物の借用の依頼
+prompt: 「ペンを貸してください。」
+speech: 第21問。ペンを貸してください。。 /  / 1番、はい、どうぞ。 / 2番、どういたしまして。 / 3番、いいえ、結構です。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 はい、どうぞ。 <-
+  2 どういたしまして。 
+  3 いいえ、結構です。 
+  ja 「貸してください」と頼まれたので、快く渡す「はい、どうぞ」（1番）が正解です。
+  en Asked to lend a pen, responding politely 'Hai, douzo' (Yes, here you go, Choice 1) is correct.
+  zh 對方請求借筆，爽快遞給對方的「はい、どうぞ」（好的，請用，選項1）正確。
+  ko '펜을 빌려주세요'라고 부탁받았으므로 '네, 여기 있습니다'(1번)가 정답입니다.
+===== n5_lis_q22 問題4 即時応答 22 audio/listening/n5_q22.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 勧誘への返答
+prompt: 「一緒に映画を見に行きませんか。」
+speech: 第22問。一緒に映画を見に行きませんか。。 /  / 1番、ええ、行きましょう。 / 2番、はい、見ました。 / 3番、いいえ、見ませんでした。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 ええ、行きましょう。 <-
+  2 はい、見ました。 
+  3 いいえ、見ませんでした。 
+  ja 「〜ませんか」というお誘いに対して快諾する「ええ、行きましょう」（1番）が正解です。
+  en Accepting an invitation ('Won't you go see a movie together?') with 'Yes, let's go!' (Choice 1) is correct.
+  zh 接受邀請「要不要一起去看電影？」的回應「好啊，一起去吧！」（選項1）正確。
+  ko '함께 영화를 보러 가지 않겠습니까'라는 권유에 응하는 '네, 갑시다'(1번)가 정답입니다.
+===== n5_lis_q23 問題4 即時応答 23 audio/listening/n5_q23.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 状態・感想の質問
+prompt: 「この料理、辛いですか。」
+speech: 第23問。この料理、辛いですか。。 /  / 1番、いいえ、あまり辛くないです。 / 2番、はい、甘いです。 / 3番、とてもおいしかったです。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 いいえ、あまり辛くないです。 <-
+  2 はい、甘いです。 
+  3 とてもおいしかったです。 
+  ja 「辛いですか」という質問に対し、「いいえ、あまり辛くないです」（1番）が文法・意味ともに最も自然です。
+  en Asked if the dish is spicy, responding 'No, it's not very spicy' (Choice 1) is correct.
+  zh 針對「這道菜辣嗎？」的提問，回答「不，不太辣」（選項1）最為自然適當。
+  ko '이 요리, 맵습니까'라는 질문에 '아니요, 별로 맵지 않습니다'(1번)가 가장 자연스럽습니다.
+===== n5_lis_q24 問題4 即時応答 24 audio/listening/n5_q24.mp3 ['id', 'section', 'q_num', 'title', 'prompt', 'speech_audio_text', 'choices', 'answer', 'explanation', 'audio_file', 'script_html']
+title: 健康・様子の挨拶
+prompt: 「お元気ですか。」
+speech: 第24問。お元気ですか。。 /  / 1番、はい、元気です。 / 2番、いいえ、元気でした。 / 3番、どういたしまして。 /  / 質問。発話を聞いて、最も適した返答を選んでください。。
+  1 はい、元気です。 <-
+  2 いいえ、元気でした。 
+  3 どういたしまして。 
+  ja 「お元気ですか」への最も自然な返答は「はい、元気です」（1番）です。
+  en The most natural reply to 'How are you?' is 'Yes, I'm doing well' (Choice 1).
+  zh 對「你好嗎？」最自然的回應是「是的，很好」（選項1）。
+  ko '잘 지내십니까'에 대한 가장 자연스러운 대답은 '네, 잘 지냅니다'(1번)입니다.
