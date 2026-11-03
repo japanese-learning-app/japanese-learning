@@ -6795,7 +6795,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
       "お<ruby>金<rt>かね</rt></ruby>",
       "<ruby>青<rt>あお</rt></ruby>い",
       "<ruby>二<rt>に</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>大勢<rt>たいせい</rt></ruby>"
+      "<ruby>大勢<rt>おおぜい</rt></ruby>"
     ],
     "answer": 3,
     "correct_text": "大勢",
@@ -6803,7 +6803,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "文脈から最も自然で適切な語は【青い】（あおい：）です。",
     "target_word_reading": "大勢",
     "correct_text_reading": "大勢",
-    "correct_text_ruby": "<ruby>大勢<rt>たいせい</rt></ruby>"
+    "correct_text_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>"
   },
   {
     "id": 253,
@@ -7035,7 +7035,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
       "一昨年"
     ],
     "choices_ruby": [
-      "<ruby>大勢<rt>たいせい</rt></ruby>",
+      "<ruby>大勢<rt>おおぜい</rt></ruby>",
       "<ruby>白<rt>しろ</rt></ruby>い",
       "<ruby>財布<rt>さいふ</rt></ruby>",
       "<ruby>一昨年<rt>いっさくねん</rt></ruby>"
@@ -7046,7 +7046,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "文脈から最も自然で適切な語は【大勢】（おおぜい：）です。",
     "target_word_reading": "大勢",
     "correct_text_reading": "大勢",
-    "correct_text_ruby": "<ruby>大勢<rt>たいせい</rt></ruby>"
+    "correct_text_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>"
   },
   {
     "id": 262,
@@ -7199,7 +7199,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>暑<rt>あつ</rt></ruby>い",
       "<ruby>映画<rt>えいが</rt></ruby>",
-      "<ruby>出口<rt>いでぐち</rt></ruby>",
+      "<ruby>出口<rt>でぐち</rt></ruby>",
       "<ruby>宿題<rt>しゅくだい</rt></ruby>"
     ],
     "answer": 2,
@@ -7208,7 +7208,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "文脈から最も自然で適切な語は【映画】（えいが：）です。",
     "target_word_reading": "出口",
     "correct_text_reading": "出口",
-    "correct_text_ruby": "<ruby>出口<rt>いでぐち</rt></ruby>"
+    "correct_text_ruby": "<ruby>出口<rt>でぐち</rt></ruby>"
   },
   {
     "id": 268,
@@ -9548,7 +9548,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>一<rt>ひと</rt></ruby>つ",
       "<ruby>掃除<rt>そうじ</rt></ruby>",
-      "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "<ruby>二人<rt>ふたり</rt></ruby>",
       "<ruby>姉<rt>あね</rt></ruby>"
     ],
     "answer": 1,
@@ -9835,7 +9835,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "漢字の表記",
     "target_word": "声",
     "question": "<u>こえ</u>援がやんだ。",
-    "question_ruby": "<u>こえ</u><ruby>援<rt>*</rt></ruby>がやんだ。",
+    "question_ruby": "<u>こえ</u><ruby>援<rt>えん</rt></ruby>がやんだ。",
     "choices": [
       "声",
       "飴",
@@ -9870,7 +9870,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
       "乗る"
     ],
     "choices_ruby": [
-      "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "<ruby>二人<rt>ふたり</rt></ruby>",
       "<ruby>荷物<rt>にもつ</rt></ruby>",
       "<ruby>名前<rt>なまえ</rt></ruby>",
       "<ruby>乗<rt>の</rt></ruby>る"

@@ -2087,7 +2087,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "張る",
     "question": "二人で協力してテントを【張る】。",
-    "question_ruby": "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>してテントを【張る】。",
+    "question_ruby": "<ruby>二人<rt>ふたり</rt></ruby>で<ruby>協力<rt>きょうりょく</rt></ruby>してテントを【張る】。",
     "choices": [
       "はる",
       "きる",
@@ -9743,8 +9743,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>先<rt>さき</rt></ruby>",
       "<ruby>次<rt>つぎ</rt></ruby>",
-      "<ruby>違<rt>*</rt></ruby>",
-      "<ruby>異<rt>あや</rt></ruby>"
+      "<ruby>違<rt>い</rt></ruby>",
+      "<ruby>異<rt>い</rt></ruby>"
     ],
     "answer": 3,
     "correct_text": "異",
@@ -9777,7 +9777,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "いせかい",
     "correct_text_reading": "い",
-    "correct_text_ruby": "<ruby>異<rt>あや</rt></ruby>"
+    "correct_text_ruby": "<ruby>異<rt>い</rt></ruby>"
   },
   {
     "id": 165,
@@ -10105,10 +10105,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "違"
     ],
     "choices_ruby": [
-      "<ruby>異<rt>あや</rt></ruby>",
+      "<ruby>異<rt>い</rt></ruby>",
       "<ruby>分<rt>ぶん</rt></ruby>",
       "<ruby>差<rt>さ</rt></ruby>",
-      "<ruby>違<rt>*</rt></ruby>"
+      "<ruby>違<rt>い</rt></ruby>"
     ],
     "answer": 2,
     "correct_text": "差",
@@ -12585,7 +12585,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "段階",
     "question": "入社して3か月の彼は、まだ一人で営業に回れる（　　　）ではないと思います。",
-    "question_ruby": "<ruby>入社<rt>にゅうしゃ</rt></ruby>して3か<ruby>月<rt>げつ</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>は、まだ<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>れる（　　　）ではないと<ruby>思<rt>おも</rt></ruby>います。",
+    "question_ruby": "<ruby>入社<rt>にゅうしゃ</rt></ruby>して3か<ruby>月<rt>げつ</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>は、まだ<ruby>一人<rt>ひとり</rt></ruby>で<ruby>営業<rt>えいぎょう</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>れる（　　　）ではないと<ruby>思<rt>おも</rt></ruby>います。",
     "choices": [
       "段階",
       "設備",
@@ -15427,7 +15427,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "だらしない",
-      "<ruby>相<rt>あい</rt></ruby> <ruby>応<rt>*</rt></ruby>しい",
+      "<ruby>相応<rt>ふさわ</rt></ruby>しい",
       "<ruby>情<rt>なさ</rt></ruby>けない",
       "おとなしい"
     ],
@@ -15533,7 +15533,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "もったいない",
       "<ruby>仕方<rt>しかた</rt></ruby>ない",
       "<ruby>情<rt>なさ</rt></ruby>けない",
-      "<ruby>騒々<rt>*</rt></ruby> しい"
+      "<ruby>騒々<rt>そうぞう</rt></ruby>しい"
     ],
     "answer": 0,
     "correct_text": "もったいない",
@@ -22037,7 +22037,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "いつも<ruby>私<rt>わたし</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>ってくれた、<ruby>父<rt>ちち</rt></ruby>の<ruby>大手<rt>おおて</rt></ruby>を<ruby>思い出<rt>おもいだ</rt></ruby>す。",
       "<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して<ruby>大手<rt>おおて</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>することを<ruby>願<rt>ねが</rt></ruby>っているようだ。",
-      "この<ruby>店<rt>みせ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>はどれも<ruby>大盛<rt>おおも</rt></ruby>りで、<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>では<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>ることができない。",
+      "この<ruby>店<rt>みせ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>はどれも<ruby>大盛<rt>おおも</rt></ruby>りで、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>ることができない。",
       "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>力持<rt>ちからも</rt></ruby>ちなので、どんなに<ruby>重<rt>おも</rt></ruby>いものも<ruby>軽々<rt>かるがる</rt></ruby>と<ruby>持ち上<rt>もちあ</rt></ruby>げることができる。"
     ],
     "answer": 1,
@@ -22526,7 +22526,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すのが<ruby>苦手<rt>にがて</rt></ruby>で、すぐに<ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>顔<rt>かお</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>くなってしまう。",
-      "こんな<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>もできないようでは、まだまだ<ruby>一<rt>いち</rt></ruby><ruby>人前<rt>にんまえ</rt></ruby>ではないな。",
+      "こんな<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>もできないようでは、まだまだ<ruby>一人前<rt>いちにんまえ</rt></ruby>ではないな。",
       "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ったら、<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>背<rt>せ</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>座<rt>すわ</rt></ruby>っていたので<ruby>画面<rt>がめん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えにくかった。",
       "この<ruby>居酒屋<rt>いざかや</rt></ruby>には、いつも<ruby>愛想<rt>あいそ</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>店長<rt>てんちょう</rt></ruby>がいる。"
     ],
@@ -22951,10 +22951,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "日当たりの良い部屋に住むと、気持ちが前向きになるらしい。"
     ],
     "choices_ruby": [
-      "<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>強<rt>つよ</rt></ruby>すぎて、<ruby>肌<rt>はだ</rt></ruby>が<ruby>真っ黒<rt>まっくろ</rt></ruby>に<ruby>焼<rt>や</rt></ruby>けてしまった。",
-      "<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>強<rt>つよ</rt></ruby>いので、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めようと<ruby>思<rt>おも</rt></ruby>っている。",
-      "<ruby>今<rt>いま</rt></ruby>すぐお<ruby>金<rt>かね</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なので、<ruby>日当<rt>ひあ</rt></ruby>たりで<ruby>給料<rt>きゅうりょう</rt></ruby>がもらえる<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>している。",
-      "<ruby>日当<rt>ひあ</rt></ruby>たりの<ruby>良<rt>よ</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>に<ruby>住<rt>す</rt></ruby>むと、<ruby>気持<rt>きも</rt></ruby>ちが<ruby>前向<rt>まえむ</rt></ruby>きになるらしい。"
+      "<ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>すぎて、<ruby>肌<rt>はだ</rt></ruby>が<ruby>真っ黒<rt>まっくろ</rt></ruby>に<ruby>焼<rt>や</rt></ruby>けてしまった。",
+      "<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いので、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めようと<ruby>思<rt>おも</rt></ruby>っている。",
+      "<ruby>今<rt>いま</rt></ruby>すぐお<ruby>金<rt>かね</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なので、<ruby>日当たり<rt>ひあたり</rt></ruby>で<ruby>給料<rt>きゅうりょう</rt></ruby>がもらえる<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>している。",
+      "<ruby>日当たり<rt>ひあたり</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>に<ruby>住<rt>す</rt></ruby>むと、<ruby>気持<rt>きも</rt></ruby>ちが<ruby>前向<rt>まえむ</rt></ruby>きになるらしい。"
     ],
     "answer": 3,
     "correct_text": "日当たりの良い部屋に住むと、気持ちが前向きになるらしい。",
@@ -23005,7 +23005,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "english_pitfall": "英語の \"sunlight\" や \"exposure to the sun\" にあたります。日本の住宅選びにおいて「日当たりが良い（sunny/well-lit by sun）」は極めて重視される条件表現です。",
     "target_word_reading": "ひあたり",
     "correct_text_reading": "ひあたりのよいへやにすむと、きもちがまえむきになるらしい。",
-    "correct_text_ruby": "<ruby>日当<rt>ひあ</rt></ruby>たりの<ruby>良<rt>よ</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>に<ruby>住<rt>す</rt></ruby>むと、<ruby>気持<rt>きも</rt></ruby>ちが<ruby>前向<rt>まえむ</rt></ruby>きになるらしい。"
+    "correct_text_ruby": "<ruby>日当たり<rt>ひあたり</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>に<ruby>住<rt>す</rt></ruby>むと、<ruby>気持<rt>きも</rt></ruby>ちが<ruby>前向<rt>まえむ</rt></ruby>きになるらしい。"
   },
   {
     "id": 389,
@@ -24645,7 +24645,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>全<rt>すべ</rt></ruby>て<ruby>部屋<rt>へや</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>に<ruby>取り寄<rt>とりよ</rt></ruby>せれば、みんな<ruby>座<rt>すわ</rt></ruby>ることができると<ruby>思<rt>おも</rt></ruby>います。",
       "<ruby>雑誌<rt>ざっし</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>のおいしいチーズケーキを、わざわざ<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>取り寄<rt>とりよ</rt></ruby>せた。",
-      "<ruby>最近<rt>さいきん</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくなってきたので、アルバイトを<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>取り寄<rt>とりよ</rt></ruby>せることにした。",
+      "<ruby>最近<rt>さいきん</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくなってきたので、アルバイトを<ruby>一人<rt>ひとり</rt></ruby><ruby>取り寄<rt>とりよ</rt></ruby>せることにした。",
       "<ruby>道路<rt>どうろ</rt></ruby>に<ruby>飛び出<rt>とびで</rt></ruby>そうとしていた<ruby>子<rt>こ</rt></ruby>どもの<ruby>腕<rt>うで</rt></ruby>を、ぐっとつかんで<ruby>取り寄<rt>とりよ</rt></ruby>せた。"
     ],
     "answer": 1,
@@ -26388,7 +26388,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "につき",
     "question": "高橋さんの結婚祝いを買いますから、一人（　　　）1,000円ずつ集めます。",
-    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いを<ruby>買<rt>か</rt></ruby>いますから、<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>（　　　）1,000<ruby>円<rt>えん</rt></ruby>ずつ<ruby>集<rt>あつ</rt></ruby>めます。",
+    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いを<ruby>買<rt>か</rt></ruby>いますから、<ruby>一人<rt>ひとり</rt></ruby>（　　　）1,000<ruby>円<rt>えん</rt></ruby>ずつ<ruby>集<rt>あつ</rt></ruby>めます。",
     "choices": [
       "につき",
       "にのみ",
@@ -32689,7 +32689,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "雇おう",
     "question": "もう一人、社員を【雇おう】。",
-    "question_ruby": "もう<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>、<ruby>社員<rt>しゃいん</rt></ruby>を【雇おう】。",
+    "question_ruby": "もう<ruby>一人<rt>ひとり</rt></ruby>、<ruby>社員<rt>しゃいん</rt></ruby>を【雇おう】。",
     "choices": [
       "うらなおう",
       "すくおう",
@@ -46782,7 +46782,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "旅",
     "question": "今回の京都への一人【たび】はいかがでしたか。",
-    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>への<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>【たび】はいかがでしたか。",
+    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>への<ruby>一人<rt>ひとり</rt></ruby>【たび】はいかがでしたか。",
     "choices": [
       "泊",
       "旅",
@@ -48480,7 +48480,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "不動産",
     "question": "駅前の（　　　）屋で、日当たりの良いアパートを紹介してもらった。",
-    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>の（　　　）<ruby>屋<rt>や</rt></ruby>で、<ruby>日当<rt>ひあ</rt></ruby>たりの<ruby>良<rt>よ</rt></ruby>いアパートを<ruby>紹介<rt>しょうかい</rt></ruby>してもらった。",
+    "question_ruby": "<ruby>駅前<rt>えきまえ</rt></ruby>の（　　　）<ruby>屋<rt>や</rt></ruby>で、<ruby>日当たり<rt>ひあたり</rt></ruby>の<ruby>良<rt>よ</rt></ruby>いアパートを<ruby>紹介<rt>しょうかい</rt></ruby>してもらった。",
     "choices": [
       "不動産",
       "工務店",
@@ -49960,7 +49960,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ジャケット",
     "question": "朝晩は冷え込むので、外出するときは薄手の（　　　）を羽織った。",
-    "question_ruby": "<ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>冷え込<rt>ひえこ</rt></ruby>むので、<ruby>外出<rt>がいしゅつ</rt></ruby>するときは<ruby>薄手<rt>うすで</rt></ruby>の（　　　）を<ruby>羽織<rt>はお</rt></ruby>った。",
+    "question_ruby": "<ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>冷え込<rt>ひえこ</rt></ruby>むので、<ruby>外出<rt>がいしゅつ</rt></ruby>するときは<ruby>薄手<rt>うすで</rt></ruby>の（　　　）を<ruby>羽織<rt>はおり</rt></ruby>った。",
     "choices": [
       "ジャケット",
       "セーター",

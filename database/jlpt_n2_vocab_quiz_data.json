@@ -3746,7 +3746,7 @@
     "category": "漢字読み",
     "target_word": "深刻",
     "question": "今年は雨が少なく、【深刻】な水不足となった。",
-    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>少なく<rt>すくなく</rt></ruby>、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【深刻】</span><rt class=\"target-reading-spoiler\">しんこく</rt></ruby>な<ruby>水不足<rt>みずぶそく</rt></ruby>となった。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>少なく<rt>すくなく</rt></ruby>、<ruby class=\"target-kanji-reading\"><span class=\"target-word\">【深刻】</span><rt class=\"target-reading-spoiler\">しんこく</rt></ruby>な<ruby>水不足<rt>みずぶそく</rt></ruby>となった。",
     "choices": [
       "じんこく",
       "しんごく",
@@ -11634,7 +11634,7 @@
     "category": "文脈規定",
     "target_word": "教養",
     "question": "社会人として適切な（　　　）を身につけることは、多様な人々と信頼関係を築く上で欠かせない。",
-    "question_ruby": "<ruby>社会人<rt>しゃかいじん</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>な（　　　）を<ruby>身に<rt>みに</rt></ruby>つけることは、<ruby>多様<rt>たよう</rt></ruby>な<ruby>人々<rt>ひとびと</rt></ruby>と<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>を<ruby>築く<rt>きづく</rt></ruby><ruby>上<rt>うえ</rt></ruby>で<ruby>欠<rt>か</rt></ruby>かせない。",
+    "question_ruby": "<ruby>社会人<rt>しゃかいじん</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>な（　　　）を<ruby>身に<rt>みに</rt></ruby>つけることは、<ruby>多様<rt>たよう</rt></ruby>な<ruby>人々<rt>ひとびと</rt></ruby>と<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>を<ruby>築く<rt>きずく</rt></ruby><ruby>上<rt>うえ</rt></ruby>で<ruby>欠<rt>か</rt></ruby>かせない。",
     "choices": [
       "栄養",
       "教養",
@@ -20262,7 +20262,7 @@
       "うれしそうな",
       "<ruby>眠そ<rt>ねむそ</rt></ruby>うな",
       "よゆうな",
-      "<ruby>厳しい<rt>いかめしい</rt></ruby>"
+      "<ruby>厳しい<rt>きびしい</rt></ruby>"
     ],
     "answer": 3,
     "correct_text": "厳しい",
@@ -23886,7 +23886,7 @@
       "スタイルが<ruby>良く<rt>よく</rt></ruby>て<ruby>美人<rt>びじん</rt></ruby>の<ruby>彼女<rt>かのじょ</rt></ruby>は、<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<ruby>特<rt>とく</rt></ruby>に<ruby>目立っ<rt>めだっ</rt></ruby>ている。",
       "<ruby>少し<rt>すこし</rt></ruby><ruby>遅刻<rt>ちこく</rt></ruby>したくらいで、そんなに<ruby>目立た<rt>めだた</rt></ruby>ないでください。",
       "<ruby>夜<rt>よる</rt></ruby>にコーヒーを<ruby>二杯<rt>にはい</rt></ruby>も<ruby>飲ん<rt>のん</rt></ruby>だので、<ruby>目立っ<rt>めだっ</rt></ruby>てなかなか<ruby>眠れ<rt>ねむれ</rt></ruby>なくなってしまった。",
-      "ゼミの<ruby>先生<rt>せんせい</rt></ruby>は<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>人<rt>にん</rt></ruby>なので、<ruby>目立っ<rt>めだっ</rt></ruby>て<ruby>私<rt>わたし</rt></ruby>のレポートをチェックしてくれた。"
+      "ゼミの<ruby>先生<rt>せんせい</rt></ruby>は<ruby>厳しい<rt>きびしい</rt></ruby><ruby>人<rt>にん</rt></ruby>なので、<ruby>目立っ<rt>めだっ</rt></ruby>て<ruby>私<rt>わたし</rt></ruby>のレポートをチェックしてくれた。"
     ],
     "answer": 0,
     "correct_text": "スタイルが良くて美人の彼女は、教室の中でも特に目立っている。",
@@ -24436,7 +24436,7 @@
     ],
     "choices_ruby": [
       "<ruby>高校生<rt>こうこうせい</rt></ruby>になってから<ruby>急<rt>きゅう</rt></ruby>に<ruby>背<rt>せ</rt></ruby>が<ruby>伸び<rt>のび</rt></ruby>てきて、<ruby>兄<rt>あに</rt></ruby>の<ruby>身長<rt>しんちょう</rt></ruby>を<ruby>追い抜い<rt>おいぬい</rt></ruby>た。",
-      "<ruby>数々<rt>かずかず</rt></ruby>の<ruby>厳しい<rt>いかめしい</rt></ruby><ruby>試合<rt>しあい</rt></ruby>を<ruby>追い抜い<rt>おいぬい</rt></ruby>て、ついに<ruby>決勝戦<rt>けっしょうせん</rt></ruby>の<ruby>舞台<rt>ぶたい</rt></ruby>に<ruby>立っ<rt>たっ</rt></ruby>た。",
+      "<ruby>数々<rt>かずかず</rt></ruby>の<ruby>厳しい<rt>きびしい</rt></ruby><ruby>試合<rt>しあい</rt></ruby>を<ruby>追い抜い<rt>おいぬい</rt></ruby>て、ついに<ruby>決勝戦<rt>けっしょうせん</rt></ruby>の<ruby>舞台<rt>ぶたい</rt></ruby>に<ruby>立っ<rt>たっ</rt></ruby>た。",
       "こちらの<ruby>料理<rt>りょうり</rt></ruby>は、<ruby>数<rt>かず</rt></ruby>ある<ruby>野菜<rt>やさい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>追い抜い<rt>おいぬい</rt></ruby>た<ruby>新鮮<rt>しんせん</rt></ruby>なものだけを<ruby>使って<rt>つかって</rt></ruby>います。",
       "<ruby>怒っ<rt>いかっ</rt></ruby>て<ruby>家<rt>いえ</rt></ruby>を<ruby>出て<rt>でて</rt></ruby><ruby>行った<rt>いった</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>走っ<rt>はしっ</rt></ruby>て<ruby>追い抜い<rt>おいぬい</rt></ruby>たが、<ruby>見つ<rt>みつ</rt></ruby>からなかった。"
     ],
@@ -30007,7 +30007,7 @@
       "通って"
     ],
     "choices_ruby": [
-      "<ruby>通り<rt>とうり</rt></ruby>",
+      "<ruby>通り<rt>とおり</rt></ruby>",
       "<ruby>通ろ<rt>とうろ</rt></ruby>う",
       "<ruby>通っ<rt>かよっ</rt></ruby>た",
       "<ruby>通って<rt>とおって</rt></ruby>"
@@ -37293,7 +37293,7 @@
     "category": "文脈規定",
     "target_word": "いったん",
     "question": "今年になって（　　　）物価が上がり、生活がより厳しくなった。",
-    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>になって（　　　）<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がり、<ruby>生活<rt>せいかつ</rt></ruby>がより<ruby>厳しく<rt>いかめしく</rt></ruby>なった。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>になって（　　　）<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がり、<ruby>生活<rt>せいかつ</rt></ruby>がより<ruby>厳しく<rt>いかめしく</rt></ruby>なった。",
     "choices": [
       "だんだん",
       "ますます",
@@ -40964,7 +40964,7 @@
     "category": "文法形式の判断",
     "target_word": "のみならず",
     "question": "あの人は他人に厳しい（　　　）、自分にも厳しい。",
-    "question_ruby": "あの<ruby>人<rt>にん</rt></ruby>は<ruby>他人<rt>たにん</rt></ruby>に<ruby>厳しい<rt>いかめしい</rt></ruby>（　　　）、<ruby>自分<rt>じぶん</rt></ruby>にも<ruby>厳しい<rt>いかめしい</rt></ruby>。",
+    "question_ruby": "あの<ruby>人<rt>にん</rt></ruby>は<ruby>他人<rt>たにん</rt></ruby>に<ruby>厳しい<rt>きびしい</rt></ruby>（　　　）、<ruby>自分<rt>じぶん</rt></ruby>にも<ruby>厳しい<rt>きびしい</rt></ruby>。",
     "choices": [
       "のみならず",
       "によらず",

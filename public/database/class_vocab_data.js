@@ -5494,7 +5494,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "manger une quantité énorme; manger de façon excessive"
     },
     "example": {
-      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>のストレスで、<ruby>夜中<rt>やちゅう</rt></ruby>にラーメンとケーキを<ruby>爆食<rt>ばくしょく</rt></ruby>いしちゃった。<br/>B: <ruby>気持<rt>きも</rt></ruby>ちは<ruby>分<rt>わ</rt></ruby>かるけど、<ruby>胃<rt>い</rt></ruby>がもたれなかった？",
+      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>のストレスで、<ruby>夜中<rt>よなか</rt></ruby>にラーメンとケーキを<ruby>爆食<rt>ばくしょく</rt></ruby>いしちゃった。<br/>B: <ruby>気持<rt>きも</rt></ruby>ちは<ruby>分<rt>わ</rt></ruby>かるけど、<ruby>胃<rt>い</rt></ruby>がもたれなかった？",
       "en": "A: Due to work stress, I binge-ate ramen and cake in the middle of the night yesterday.<br/>B: I get how you feel, but did your stomach feel heavy afterwards?",
       "zh_TW": "A: 昨天因為工作壓力太大，半夜狂吃拉麵和蛋糕。<br/>B: 我懂你的心情，但胃不會不舒服嗎？",
       "zh_CN": "A: 昨天因为工作压力太大，半夜暴饮暴食了拉面和蛋糕。<br/>B: 我懂你的心情，但胃不会不舒服吗？",
@@ -8533,7 +8533,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "long sleeves / à manches longues"
     },
     "example": {
-      "ja": "A: <ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>肌寒<rt>はださむ</rt></ruby>いので、<ruby>長袖<rt>ながそで</rt></ruby>のシャツを<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけました。<br/>B: <ruby>季節<rt>きせつ</rt></ruby>の<ruby>変わり目<rt>かわりめ</rt></ruby>は<ruby>羽織<rt>はお</rt></ruby>るものがあると<ruby>安心<rt>あんしん</rt></ruby>ですね。",
+      "ja": "A: <ruby>朝晩<rt>あさばん</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>肌寒<rt>はださむ</rt></ruby>いので、<ruby>長袖<rt>ながそで</rt></ruby>のシャツを<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけました。<br/>B: <ruby>季節<rt>きせつ</rt></ruby>の<ruby>変わり目<rt>かわりめ</rt></ruby>は<ruby>羽織<rt>はおり</rt></ruby>るものがあると<ruby>安心<rt>あんしん</rt></ruby>ですね。",
       "en": "A: Mornings and evenings are a bit chilly, so I wore a long-sleeved shirt.<br/>B: Having an extra layer during seasonal transitions gives peace of mind.",
       "zh_TW": "A: Mornings and evenings are a bit chilly, so I wore a long-sleeved shirt.<br/>B: Having an extra layer during seasonal transitions gives peace of mind.",
       "zh_CN": "A: Mornings and evenings are a bit chilly, so I wore a long-sleeved shirt.<br/>B: Having an extra layer during seasonal transitions gives peace of mind.",
@@ -25430,7 +25430,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "visite de propriété"
     },
     "example": {
-      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいアパートの<ruby>内見<rt>ないけん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くんだ。<br/>B: <ruby>日当<rt>ひあ</rt></ruby>たりや<ruby>水回<rt>みずまわ</rt></ruby>りをよくチェックした<ruby>方<rt>ほう</rt></ruby>がいいよ。",
+      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいアパートの<ruby>内見<rt>ないけん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くんだ。<br/>B: <ruby>日当たり<rt>ひあたり</rt></ruby>や<ruby>水回<rt>みずまわ</rt></ruby>りをよくチェックした<ruby>方<rt>ほう</rt></ruby>がいいよ。",
       "en": "A: I'm going to view a new apartment this weekend.<br/>B: You should carefully check the sunlight and plumbing.",
       "zh_TW": "A: 週末要去新公寓看房喔。<br/>B: 最好仔細檢查採光和水電設備比較好。",
       "zh_CN": "A: 周末要去新公寓看房哦。<br/>B: 最好仔细检查采光和水电设备比较好。",
@@ -27304,7 +27304,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Affiliés / société affiliée / société liée"
     },
     "example": {
-      "ja": "A: この<ruby>製品<rt>せいひん</rt></ruby>の<ruby>部品<rt>ぶひん</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>から<ruby>仕入<rt>しい</rt></ruby>れているのですか？<br/>B: いいえ、<ruby>国内<rt>こくない</rt></ruby>にある<ruby>系列<rt>けいれつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>一括<rt>いっかつ</rt></ruby>して<ruby>製造<rt>せいぞう</rt></ruby>しています。",
+      "ja": "A: この<ruby>製品<rt>せいひん</rt></ruby>の<ruby>部品<rt>ぶひん</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>から<ruby>仕入<rt>しいれ</rt></ruby>れているのですか？<br/>B: いいえ、<ruby>国内<rt>こくない</rt></ruby>にある<ruby>系列<rt>けいれつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>一括<rt>いっかつ</rt></ruby>して<ruby>製造<rt>せいぞう</rt></ruby>しています。",
       "en": "A: Are the components for this product procured from abroad?<br/>B: No, they are manufactured collectively by an affiliated company domestically.",
       "zh_TW": "A: 這項產品的零件是從國外進口的嗎？<br/>B: 不是，是由國內的關聯公司統一生產製造的。",
       "zh_CN": "A: 这项产品的零件是从国外进口的吗？<br/>B: 不是，是由国内的关联公司统一定制生产的。",
@@ -28387,7 +28387,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "aller voir une maison / regarder à l'intérieur / voir une propriété / visiter un lieu"
     },
     "example": {
-      "ja": "A: ネットで<ruby>気<rt>き</rt></ruby>になった<ruby>部屋<rt>へや</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたんだけど、<ruby>申し込<rt>もうしこ</rt></ruby>もうかな。<br/>B: <ruby>日当<rt>ひあ</rt></ruby>たりや<ruby>騒音<rt>そうおん</rt></ruby>も<ruby>確<rt>たし</rt></ruby>かめたいから、<ruby>契約<rt>けいやく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>内<rt>うち</rt></ruby><ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>方<rt>ほう</rt></ruby>がいいよ。",
+      "ja": "A: ネットで<ruby>気<rt>き</rt></ruby>になった<ruby>部屋<rt>へや</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたんだけど、<ruby>申し込<rt>もうしこ</rt></ruby>もうかな。<br/>B: <ruby>日当たり<rt>ひあたり</rt></ruby>や<ruby>騒音<rt>そうおん</rt></ruby>も<ruby>確<rt>たし</rt></ruby>かめたいから、<ruby>契約<rt>けいやく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>内<rt>うち</rt></ruby><ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>方<rt>ほう</rt></ruby>がいいよ。",
       "en": "A: I found an apartment online that I like—should I apply for it?<br/>B: You should definitely go for a property viewing before signing, to check sunlight and noise levels.",
       "zh_TW": "A: 我在網路上找到一間中意的房子，該不該直接提出申請呢？<br/>B: 還需要確認採光和隔音，簽約前一定要去實地看房比較好喔。",
       "zh_CN": "A: 我在网上找到一间中意的房子，该不该直接提出申请呢？<br/>B: 还需要确认采光和隔音，签约前一定要去实地看房比较好哦。",
@@ -35147,7 +35147,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "oiseau de nuit / personne de nuit"
     },
     "example": {
-      "ja": "A: <ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はいつも<ruby>眠<rt>ねむ</rt></ruby>そうにしているね。<br/>B: <ruby>昔<rt>むかし</rt></ruby>から<ruby>夜<rt>よる</rt></ruby><ruby>型<rt>がた</rt></ruby>だから、<ruby>夜中<rt>やちゅう</rt></ruby>にならないとやる<ruby>気<rt>き</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないんだよ。",
+      "ja": "A: <ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はいつも<ruby>眠<rt>ねむ</rt></ruby>そうにしているね。<br/>B: <ruby>昔<rt>むかし</rt></ruby>から<ruby>夜<rt>よる</rt></ruby><ruby>型<rt>がた</rt></ruby>だから、<ruby>夜中<rt>よなか</rt></ruby>にならないとやる<ruby>気<rt>き</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないんだよ。",
       "en": "A: You always look sleepy in the mornings.<br/>B: I've always been a night owl, so I don't feel motivated until late at night.",
       "zh_TW": "A: 你上午看起來總是一副沒睡飽很睏的樣子呢。<br/>B: 我從小就是夜貓子，不到半夜很難提起勁做事情。",
       "zh_CN": "A: 你上午看起来总是一副没睡饱很困的样子呢。<br/>B: 我从小就是夜猫子，不到半夜很难提起劲做事情。",
@@ -35573,7 +35573,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "lumineux"
     },
     "example": {
-      "ja": "A: この<ruby>部屋<rt>へや</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて<ruby>明<rt>あか</rt></ruby>るいですね。<br/>B: はい、<ruby>日当<rt>ひあ</rt></ruby>たりがいいので<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っています。",
+      "ja": "A: この<ruby>部屋<rt>へや</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて<ruby>明<rt>あか</rt></ruby>るいですね。<br/>B: はい、<ruby>日当たり<rt>ひあたり</rt></ruby>がいいので<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っています。",
       "en": "A: This room is bright with a large window.<br/>B: Yes, I like it because it gets good sunlight.",
       "zh_TW": "A: 這個房間窗戶很大，很明亮呢。<br/>B: 是啊，採光很好所以我很喜歡。",
       "zh_CN": "A: 这个房间窗户很大，很明亮呢。<br/>B: 是啊，采光很好所以我很喜欢。",
@@ -39292,7 +39292,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "environnement"
     },
     "example": {
-      "ja": "<ruby>新<rt>あたら</rt></ruby>しいオフィスは<ruby>日当<rt>ひあ</rt></ruby>たりがよく<ruby>静<rt>しず</rt></ruby>かで、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>環境<rt>かんきょう</rt></ruby>です。",
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいオフィスは<ruby>日当たり<rt>ひあたり</rt></ruby>がよく<ruby>静<rt>しず</rt></ruby>かで、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>環境<rt>かんきょう</rt></ruby>です。",
       "en": "The new office has great natural light and is quiet, offering a wonderful environment to focus on work.",
       "zh_TW": "新辦公室採光極佳且十分安靜，是能讓人專心辦公的絕佳環境。",
       "zh_CN": "新办公室采光极佳且十分安静，是能让人专心办公的绝佳环境。",
@@ -47961,7 +47961,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Forbidden / strictly prohibited"
     },
     "example": {
-      "ja": "A: <ruby>深夜<rt>しんや</rt></ruby>のラーメンはカロリーが<ruby>高<rt>たか</rt></ruby>くて<ruby>禁断<rt>きんだん</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>ですね！<br/>B: <ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>背徳<rt>はいとく</rt></ruby><ruby>感<rt>かん</rt></ruby>がまた<ruby>格別<rt>かくべつ</rt></ruby>に<ruby>美味<rt>おい</rt></ruby>しく<ruby>感<rt>かん</rt></ruby>じさせますよね。",
+      "ja": "A: <ruby>深夜<rt>しんや</rt></ruby>のラーメンはカロリーが<ruby>高<rt>たか</rt></ruby>くて<ruby>禁断<rt>きんだん</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>ですね！<br/>B: <ruby>夜中<rt>よなか</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>背徳<rt>はいとく</rt></ruby><ruby>感<rt>かん</rt></ruby>がまた<ruby>格別<rt>かくべつ</rt></ruby>に<ruby>美味<rt>おい</rt></ruby>しく<ruby>感<rt>かん</rt></ruby>じさせますよね。",
       "en": "A: Late-night ramen is high-calorie—truly a forbidden taste!<br/>B: The guilty pleasure in the middle of the night makes it taste divine.",
       "zh_TW": "A: Late-night ramen is high-calorie—truly a forbidden taste!<br/>B: The guilty pleasure in the middle of the night makes it taste divine.",
       "zh_CN": "A: Late-night ramen is high-calorie—truly a forbidden taste!<br/>B: The guilty pleasure in the middle of the night makes it taste divine.",
@@ -50795,7 +50795,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Ideal"
     },
     "example": {
-      "ja": "A: <ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>良<rt>よ</rt></ruby>くて<ruby>駅<rt>えき</rt></ruby>からも<ruby>近<rt>ちか</rt></ruby>い、<ruby>理想<rt>りそう</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました！<br/>B: <ruby>条件<rt>じょうけん</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>った<ruby>理想<rt>りそう</rt></ruby>の<ruby>物件<rt>ぶっけん</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>えて<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>かったですね。",
+      "ja": "A: <ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて<ruby>駅<rt>えき</rt></ruby>からも<ruby>近<rt>ちか</rt></ruby>い、<ruby>理想<rt>りそう</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました！<br/>B: <ruby>条件<rt>じょうけん</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>った<ruby>理想<rt>りそう</rt></ruby>の<ruby>物件<rt>ぶっけん</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>えて<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>かったですね。",
       "en": "A: I found my ideal room that gets good sunlight and is close to the station!<br/>B: Finding an ideal property matching all criteria is truly fortunate.",
       "zh_TW": "A: I found my ideal room that gets good sunlight and is close to the station!<br/>B: Finding an ideal property matching all criteria is truly fortunate.",
       "zh_CN": "A: I found my ideal room that gets good sunlight and is close to the station!<br/>B: Finding an ideal property matching all criteria is truly fortunate.",

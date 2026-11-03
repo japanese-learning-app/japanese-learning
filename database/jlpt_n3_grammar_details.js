@@ -1480,7 +1480,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ほど〜ない)",
         "reason_ja": "話し手の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Natural intermediate Japanese usage and collocation for ほど〜ない",
-        "sentence": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。"
+        "sentence": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。"
       }
     ],
     "comparison": [
@@ -1491,7 +1491,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: is not as... as.",
-        "example": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。"
+        "example": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。"
       },
       {
         "form": "〜くらい〜ない",
@@ -2497,7 +2497,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with こそ)",
         "reason_ja": "話し手の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Natural intermediate Japanese usage and collocation for こそ",
-        "sentence": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。"
+        "sentence": "<ruby>今年<rt>ことし</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。"
       }
     ],
     "comparison": [
@@ -2508,7 +2508,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: for sure (emphasizing the preceding word).",
-        "example": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。"
+        "example": "<ruby>今年<rt>ことし</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。"
       },
       {
         "form": "〜まさに",
@@ -4702,7 +4702,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with には)",
         "reason_ja": "話し手の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Natural intermediate Japanese usage and collocation for には",
-        "sentence": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。"
+        "sentence": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日々<rt>ひび</rt></ruby>の<ruby>地道<rt>じみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。"
       }
     ],
     "comparison": [
@@ -4713,7 +4713,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: in order to; for the purpose of.",
-        "example": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。"
+        "example": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日々<rt>ひび</rt></ruby>の<ruby>地道<rt>じみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。"
       },
       {
         "form": "〜ためには",
@@ -8320,7 +8320,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ついに)",
         "reason_ja": "話し手の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Natural intermediate Japanese usage and collocation for ついに",
-        "sentence": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。"
+        "sentence": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>じみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。"
       }
     ],
     "comparison": [
@@ -8331,7 +8331,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: finally; at last (after long effort).",
-        "example": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。"
+        "example": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>じみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。"
       },
       {
         "form": "〜とうとう",

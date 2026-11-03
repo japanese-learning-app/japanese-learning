@@ -6234,7 +6234,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "The cheering ceased.",
         "id": "n5-v-0365",
         "level": "N5",
-        "question_ruby": "<u>こえ</u><ruby>援<rt>*</rt></ruby>がやんだ。"
+        "question_ruby": "<u>こえ</u><ruby>援<rt>えん</rt></ruby>がやんだ。"
       },
       {
         "category": "vocabulary",
@@ -15557,7 +15557,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "理由・特長の並列は「普通形 ＋ し、〜し」です。",
         "translationEn": "This room is quiet, and the sunlight is good too.",
         "level": "N4",
-        "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かだ（　　）、<ruby>日当<rt>ひあ</rt></ruby>たりも いいです。"
+        "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かだ（　　）、<ruby>日当たり<rt>ひあたり</rt></ruby>も いいです。"
       },
       {
         "id": "n4-g-0012",
@@ -18325,7 +18325,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "日当たりが良好なので「過ごしやすい」です。",
         "translationEn": "This room is very pleasant to spend time in.",
         "level": "N3",
-        "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>日当<rt>ひあ</rt></ruby>たりが <ruby>良<rt>よ</rt></ruby>くて、とても（　　）です。"
+        "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>日当たり<rt>ひあたり</rt></ruby>が <ruby>良<rt>よ</rt></ruby>くて、とても（　　）です。"
       },
       {
         "id": "n3-v-0018",
@@ -20820,7 +20820,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "The fitting room is being used now.",
         "id": "n3-v-0163",
         "level": "N3",
-        "question_ruby": "<ruby>試着室<rt>*</rt></ruby>は<ruby>今<rt>いま</rt></ruby><u>使用</u><ruby>中<rt>なか</rt></ruby>だ。"
+        "question_ruby": "<ruby>試着室<rt>しちゃくしつ</rt></ruby>は<ruby>今<rt>いま</rt></ruby><u>使用</u><ruby>中<rt>なか</rt></ruby>だ。"
       },
       {
         "category": "kanji_writing",
@@ -20939,7 +20939,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "There is no doubt.",
         "id": "n3-v-0170",
         "level": "N3",
-        "question_ruby": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確<rt>*</rt></ruby><u>み</u>だ。"
+        "question_ruby": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確<rt>たしか</rt></ruby><u>み</u>だ。"
       },
       {
         "category": "vocabulary",
@@ -23710,7 +23710,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "It was easy to fix.",
         "id": "n3-v-0333",
         "level": "N3",
-        "question_ruby": "<ruby>簡<rt>*</rt></ruby>（　　）<ruby>直<rt>なお</rt></ruby>ったよ。"
+        "question_ruby": "<ruby>簡<rt>かん</rt></ruby>（　　）<ruby>直<rt>なお</rt></ruby>ったよ。"
       },
       {
         "category": "kanji_reading",
@@ -35659,7 +35659,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Some vineyards still choose to irrigate using underground water sources.",
         "id": "n2-v-0390",
         "level": "N2",
-        "question_ruby": "ワイン<ruby>畑<rt>はたけ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>未<rt>いま</rt></ruby>だ（　　）を<ruby>使用<rt>しよう</rt></ruby>した<ruby>灌漑<rt>*</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>するところもある。"
+        "question_ruby": "ワイン<ruby>畑<rt>はたけ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>未<rt>いま</rt></ruby>だ（　　）を<ruby>使用<rt>しよう</rt></ruby>した<ruby>灌漑<rt>かんがい</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>するところもある。"
       },
       {
         "category": "kanji_reading",
@@ -36849,7 +36849,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "As I hear the birds chirp away in the background, I take a sip of my freshly-brewed coffee.",
         "id": "n2-v-0460",
         "level": "N2",
-        "question_ruby": "<ruby>鳥<rt>とり</rt></ruby>の<ruby>囀<rt>さえず</rt></ruby>りが<ruby>聞<rt>き</rt></ruby>こえる<ruby>中<rt>なか</rt></ruby>、<ruby>淹<rt>*</rt></ruby>れたてのコーヒーを<u>味わう</u>。"
+        "question_ruby": "<ruby>鳥<rt>とり</rt></ruby>の<ruby>囀<rt>さえず</rt></ruby>りが<ruby>聞<rt>き</rt></ruby>こえる<ruby>中<rt>なか</rt></ruby>、<ruby>淹<rt>い</rt></ruby>れたてのコーヒーを<u>味わう</u>。"
       },
       {
         "category": "kanji_writing",
@@ -43161,7 +43161,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "The two came to the same conclusion.",
         "id": "n1-v-0174",
         "level": "N1",
-        "question_ruby": "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>結論<rt>けつろん</rt></ruby>に（　　）した。"
+        "question_ruby": "<ruby>二人<rt>ふたり</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>結論<rt>けつろん</rt></ruby>に（　　）した。"
       },
       {
         "category": "kanji_reading",
@@ -44963,7 +44963,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I gave him an enema.",
         "id": "n1-v-0280",
         "level": "N1",
-        "question_ruby": "<ruby>浣<rt>*</rt></ruby><u>腸</u>をしました。"
+        "question_ruby": "<ruby>浣腸<rt>かんちょう</rt></ruby>をしました。"
       },
       {
         "category": "kanji_writing",
@@ -45745,7 +45745,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I discharged one of my servants.",
         "id": "n1-v-0326",
         "level": "N1",
-        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>しようにん</u>の<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>をくびにした。"
+        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>しようにん</u>の<ruby>一人<rt>ひとり</rt></ruby>をくびにした。"
       },
       {
         "category": "vocabulary",
@@ -45813,7 +45813,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Channel your fighting spirit!",
         "id": "n1-v-0330",
         "level": "N1",
-        "question_ruby": "<ruby>闘<rt>*</rt></ruby>（　　）を<ruby>燃<rt>も</rt></ruby>やせ！"
+        "question_ruby": "<ruby>闘<rt>とう</rt></ruby>（　　）を<ruby>燃<rt>も</rt></ruby>やせ！"
       },
       {
         "category": "kanji_reading",
@@ -47054,7 +47054,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "This paper has a large circulation.",
         "id": "n1-v-0403",
         "level": "N1",
-        "question_ruby": "この<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>購<rt>*</rt></ruby><u>読者</u>が<ruby>多<rt>おお</rt></ruby>い。"
+        "question_ruby": "この<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>購<rt>こう</rt></ruby><u>読者</u>が<ruby>多<rt>おお</rt></ruby>い。"
       },
       {
         "category": "kanji_writing",
@@ -47530,7 +47530,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I was condemned for my disobedience.",
         "id": "n1-v-0431",
         "level": "N1",
-        "question_ruby": "<u>ふふく</u><ruby>従<rt>*</rt></ruby>でとがめられた。"
+        "question_ruby": "<u>ふふく</u><ruby>従<rt>じゅう</rt></ruby>でとがめられた。"
       },
       {
         "category": "vocabulary",
@@ -48482,7 +48482,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "How are you related?",
         "id": "n1-v-0487",
         "level": "N1",
-        "question_ruby": "お<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>の<u>間柄</u>は？"
+        "question_ruby": "お<ruby>二人<rt>ふたり</rt></ruby>の<u>間柄</u>は？"
       },
       {
         "category": "kanji_writing",

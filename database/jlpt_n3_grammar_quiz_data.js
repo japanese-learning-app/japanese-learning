@@ -3261,8 +3261,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ほど",
     "notes": "『名詞＋ほど＋否定』で『Aほど〜ない（Aほど高い程度ではない）』という比較否定を表します。",
-    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>（　　　）<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
-    "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>（　　　）<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
+    "sentence_jp_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くないので、<ruby>暖房<rt>だんぼう</rt></ruby><ruby>代<rt>だい</rt></ruby>がかなり<ruby>節約<rt>せつやく</rt></ruby>できている。",
     "choices_ruby": [
       "ほど",
       "ばかり",
@@ -5541,8 +5541,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "こそ",
     "notes": "名詞などに付き、『他でもなくまさにこれこそ』と強い意志や強調を表します。",
-    "question_ruby": "<ruby>今年<rt>こんねん</rt></ruby>（　　　）<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
-    "sentence_jp_ruby": "<ruby>今年<rt>こんねん</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>（　　　）<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
+    "sentence_jp_ruby": "<ruby>今年<rt>ことし</rt></ruby>こそ<ruby>毎朝<rt>まいあさ</rt></ruby>のジョギングを<ruby>継続<rt>けいぞく</rt></ruby>して、<ruby>健康的<rt>けんこうてき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたい。",
     "choices_ruby": [
       "こそ",
       "さえ",
@@ -10461,8 +10461,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "には",
     "notes": "動詞辞書形＋にはで目標や目的を掲げ、それを達成するために必要な条件を後件で述べます。",
-    "question_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>する（　　　）、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
-    "sentence_jp_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日<rt>ひび</rt></ruby>々の<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "question_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>する（　　　）、<ruby>日々<rt>ひび</rt></ruby>の<ruby>地道<rt>じみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>希望<rt>きぼう</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するには、<ruby>日々<rt>ひび</rt></ruby>の<ruby>地道<rt>じみち</rt></ruby>な<ruby>積み重<rt>つみかさ</rt></ruby>ねが<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "choices_ruby": [
       "には",
       "にかかわらず",
@@ -18501,8 +18501,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ついに",
     "notes": "長い時間や努力の末に待望の結果に到達したときの達成感を込めて使います。",
-    "question_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、（　　　）<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
-    "sentence_jp_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>ぢみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
+    "question_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>じみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、（　　　）<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
+    "sentence_jp_ruby": "10<ruby>年間<rt>ねんかん</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ぶ<ruby>地道<rt>じみち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>び、ついに<ruby>新<rt>あたら</rt></ruby>しい<ruby>特許<rt>とっきょ</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>することができた。",
     "choices_ruby": [
       "ついに",
       "<ruby>決<rt>けっ</rt></ruby>して",

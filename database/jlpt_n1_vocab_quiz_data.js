@@ -529,7 +529,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>凌駕<rt>りょうが</rt></ruby>",
-      "<ruby>凌<rt>りょう</rt></ruby><ruby>虐<rt>*</rt></ruby>",
+      "<ruby>凌虐<rt>りょうぎゃく</rt></ruby>",
       "<ruby>圧倒<rt>あっとう</rt></ruby>",
       "<ruby>抑制<rt>よくせい</rt></ruby>"
     ],
@@ -3312,7 +3312,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
       "<ruby>尻尾<rt>しっぽ</rt></ruby>",
       "<ruby>吹奏<rt>すいそう</rt></ruby>",
       "<ruby>後悔<rt>こうかい</rt></ruby>",
-      "<ruby>以<rt>*</rt></ruby>て"
+      "<ruby>以<rt>もっ</rt></ruby>て"
     ],
     "answer": 2,
     "correct_text": "後悔",
@@ -3391,7 +3391,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>旦那<rt>だんな</rt></ruby>",
-      "<ruby>以<rt>*</rt></ruby>て",
+      "<ruby>以<rt>もっ</rt></ruby>て",
       "<ruby>良好<rt>りょうこう</rt></ruby>",
       "<ruby>目方<rt>めかた</rt></ruby>"
     ],
@@ -3401,7 +3401,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "explanation": "文脈から最も自然で適切な語は【目方】（めかた：）です。",
     "target_word_reading": "以て",
     "correct_text_reading": "以て",
-    "correct_text_ruby": "<ruby>以<rt>*</rt></ruby>て"
+    "correct_text_ruby": "<ruby>以<rt>もっ</rt></ruby>て"
   },
   {
     "id": 127,
@@ -4678,7 +4678,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "過ぎ",
     "question": "二人は同じ結論に（　　）した。",
-    "question_ruby": "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>結論<rt>けつろん</rt></ruby>に（　　）した。",
+    "question_ruby": "<ruby>二人<rt>ふたり</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>結論<rt>けつろん</rt></ruby>に（　　）した。",
     "choices": [
       "出演",
       "過ぎ",
@@ -6955,7 +6955,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>返<rt>かえ</rt></ruby>る",
-      "<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "<ruby>一人<rt>ひとり</rt></ruby>",
       "<ruby>改修<rt>かいしゅう</rt></ruby>",
       "<ruby>他意<rt>たい</rt></ruby>"
     ],
@@ -6965,7 +6965,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "explanation": "文脈から最も自然で適切な語は【他意】（たい：）です。",
     "target_word_reading": "一人",
     "correct_text_reading": "一人",
-    "correct_text_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>"
+    "correct_text_ruby": "<ruby>一人<rt>ひとり</rt></ruby>"
   },
   {
     "id": 259,
@@ -7540,7 +7540,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "ぢょう",
     "question": "浣<u>腸</u>をしました。",
-    "question_ruby": "<ruby>浣<rt>*</rt></ruby><u>腸</u>をしました。",
+    "question_ruby": "<ruby>浣腸<rt>かんちょう</rt></ruby>をしました。",
     "choices": [
       "ちょ",
       "ちょう",
@@ -7765,7 +7765,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>元素<rt>げんそ</rt></ruby>",
-      "<ruby>躊躇<rt>ためら</rt></ruby>う",
+      "<ruby>躊躇<rt>ちゅうちょ</rt></ruby>う",
       "<ruby>十字路<rt>じゅうじろ</rt></ruby>",
       "<ruby>濫用<rt>らんよう</rt></ruby>"
     ],
@@ -8782,7 +8782,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "上がり",
     "question": "私は<u>しようにん</u>の一人をくびにした。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>しようにん</u>の<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>をくびにした。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>しようにん</u>の<ruby>一人<rt>ひとり</rt></ruby>をくびにした。",
     "choices": [
       "片付け",
       "上がり",
@@ -8890,7 +8890,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "記名",
     "question": "闘（　　）を燃やせ！",
-    "question_ruby": "<ruby>闘<rt>*</rt></ruby>（　　）を<ruby>燃<rt>も</rt></ruby>やせ！",
+    "question_ruby": "<ruby>闘<rt>とう</rt></ruby>（　　）を<ruby>燃<rt>も</rt></ruby>やせ！",
     "choices": [
       "志",
       "記名",
@@ -10861,7 +10861,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "どくじゃ",
     "question": "この新聞は購<u>読者</u>が多い。",
-    "question_ruby": "この<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>購<rt>*</rt></ruby><u>読者</u>が<ruby>多<rt>おお</rt></ruby>い。",
+    "question_ruby": "この<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>購<rt>こう</rt></ruby><u>読者</u>が<ruby>多<rt>おお</rt></ruby>い。",
     "choices": [
       "どくしゃ",
       "どぐしゃ",
@@ -11617,7 +11617,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "融通",
     "question": "<u>ふふく</u>従でとがめられた。",
-    "question_ruby": "<u>ふふく</u><ruby>従<rt>*</rt></ruby>でとがめられた。",
+    "question_ruby": "<u>ふふく</u><ruby>従<rt>じゅう</rt></ruby>でとがめられた。",
     "choices": [
       "不服",
       "早急",
@@ -13129,7 +13129,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "あだがら",
     "question": "お二人の<u>間柄</u>は（　　　）",
-    "question_ruby": "お<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>の<u>間柄</u>は（　　　）",
+    "question_ruby": "お<ruby>二人<rt>ふたり</rt></ruby>の<u>間柄</u>は（　　　）",
     "choices": [
       "あいたがら",
       "あいだから",

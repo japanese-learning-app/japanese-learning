@@ -264,7 +264,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "あと",
     "ruby": "<ruby>後<rt>あと</rt></ruby>",
     "meaning": "afterwards",
-    "ex_ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>で、クラスの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>宿題<rt>しゅくだい</rt></ruby>をしに<ruby>行<rt>い</rt></ruby>きました。",
+    "ex_ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で、クラスの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>宿題<rt>しゅくだい</rt></ruby>をしに<ruby>行<rt>い</rt></ruby>きました。",
     "ex_en": "After class finished, I went to the library in front of the station with my classmates to do homework."
   },
   {
@@ -904,8 +904,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "おおぜい",
     "ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>",
     "meaning": "great number of people",
-    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>大勢<rt>たいせい</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
-    "ex_en": "The 大勢, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
+    "ex_ja": "<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<ruby>大勢<rt>おおぜい</rt></ruby>います。",
+    "ex_en": "There are many people in the classroom."
   },
   {
     "id": "n5_v_0055_1",
@@ -2757,8 +2757,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 6,
     "word": "散歩",
-    "reading": "さんぽする",
-    "ruby": "<ruby>散歩<rt>さんぽする</rt></ruby>",
+    "reading": "さんぽ",
+    "ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>",
     "meaning": "to stroll",
     "ex_ja": "<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>散歩<rt>さんぽ</rt></ruby>について<ruby>楽<rt>たの</rt></ruby>しく<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
     "ex_en": "Together with my teacher and friends, I enjoyed studying about to stroll."
@@ -2792,7 +2792,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "し / よん",
     "ruby": "<ruby>四<rt>し / よん</rt></ruby>",
     "meaning": "four",
-    "ex_ja": "この<ruby>部屋<rt>へや</rt></ruby>には<ruby>四<rt>よっ</rt></ruby>つの<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>があり、とても<ruby>明<rt>あか</rt></ruby>るく<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>良<rt>よ</rt></ruby>い。",
+    "ex_ja": "この<ruby>部屋<rt>へや</rt></ruby>には<ruby>四<rt>よっ</rt></ruby>つの<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>があり、とても<ruby>明<rt>あか</rt></ruby>るく<ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。",
     "ex_en": "This room has four large windows, making it very bright and sunny."
   },
   {
@@ -3493,8 +3493,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 8,
     "word": "掃除",
-    "reading": "そうじする",
-    "ruby": "<ruby>掃除<rt>そうじする</rt></ruby>",
+    "reading": "そうじ",
+    "ruby": "<ruby>掃除<rt>そうじ</rt></ruby>",
     "meaning": "to clean; to sweep",
     "ex_ja": "<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>掃除<rt>そうじ</rt></ruby>について<ruby>楽<rt>たの</rt></ruby>しく<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
     "ex_en": "Together with my teacher and friends, I enjoyed studying about to clean."
@@ -4168,8 +4168,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "でぐち",
     "ruby": "<ruby>出口<rt>でぐち</rt></ruby>",
     "meaning": "exit",
-    "ex_ja": "<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>出口<rt>いでぐち</rt></ruby>について<ruby>楽<rt>たの</rt></ruby>しく<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
-    "ex_en": "Together with my teacher and friends, I enjoyed studying about exit."
+    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>出口<rt>でぐち</rt></ruby>があります。",
+    "ex_en": "There is an exit near the station."
   },
   {
     "id": "n5_v_0259_1",
@@ -5416,7 +5416,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "ひとり",
     "ruby": "<ruby>一人<rt>ひとり</rt></ruby>",
     "meaning": "one person",
-    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>一人<rt>ひとり</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
     "ex_en": "The 一人, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
@@ -5560,7 +5560,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "ふたり",
     "ruby": "<ruby>二人<rt>ふたり</rt></ruby>",
     "meaning": "two people",
-    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
+    "ex_ja": "<ruby>優<rt>すぐ</rt></ruby>れた<ruby>経験<rt>けいけん</rt></ruby>と<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>二人<rt>ふたり</rt></ruby>が、チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>を<ruby>力強<rt>ちからづよ</rt></ruby>くリードしている。",
     "ex_en": "The 二人, who possesses outstanding experience and specialized knowledge, is strongly leading the activities of the entire team."
   },
   {
@@ -5701,8 +5701,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 12,
     "word": "勉強",
-    "reading": "べんきょうする",
-    "ruby": "<ruby>勉強<rt>べんきょうする</rt></ruby>",
+    "reading": "べんきょう",
+    "ruby": "<ruby>勉強<rt>べんきょう</rt></ruby>",
     "meaning": "to study",
     "ex_ja": "<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>勉強<rt>べんきょう</rt></ruby>について<ruby>楽<rt>たの</rt></ruby>しく<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
     "ex_en": "Together with my teacher and friends, I enjoyed studying about to study."
@@ -5813,8 +5813,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 13,
     "word": "毎月",
-    "reading": "まいげつ/まいつき",
-    "ruby": "<ruby>毎月<rt>まいげつ/まいつき</rt></ruby>",
+    "reading": "まいつき",
+    "ruby": "<ruby>毎月<rt>まいつき</rt></ruby>",
     "meaning": "every month",
     "ex_ja": "この<ruby>雑誌<rt>ざっし</rt></ruby>は<ruby>毎月<rt>まいつき</rt></ruby><ruby>出<rt>で</rt></ruby>る。",
     "ex_en": "This magazine is issued every month."
@@ -5845,8 +5845,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 13,
     "word": "毎年",
-    "reading": "まいねん/まいとし",
-    "ruby": "<ruby>毎年<rt>まいねん/まいとし</rt></ruby>",
+    "reading": "まいとし",
+    "ruby": "<ruby>毎年<rt>まいとし</rt></ruby>",
     "meaning": "every year",
     "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>毎年<rt>まいとし</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
     "ex_en": "I am wholeheartedly enjoying the refreshing season of 毎年, through which a pleasant breeze blows."
@@ -6757,8 +6757,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "color": "blue",
     "page": 14,
     "word": "練習",
-    "reading": "れんしゅうする",
-    "ruby": "<ruby>練習<rt>れんしゅうする</rt></ruby>",
+    "reading": "れんしゅう",
+    "ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>",
     "meaning": "to practice",
     "ex_ja": "<ruby>先生<rt>せんせい</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>練習<rt>れんしゅう</rt></ruby>について<ruby>楽<rt>たの</rt></ruby>しく<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
     "ex_en": "Together with my teacher and friends, I enjoyed studying about to practice."

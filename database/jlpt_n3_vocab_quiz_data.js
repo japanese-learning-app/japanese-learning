@@ -439,7 +439,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙",
     "target_word": "過ごしやすい",
     "question": "この 部屋は 日当たりが 良くて、とても（　　）です。",
-    "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>日当<rt>ひあ</rt></ruby>たりが <ruby>良<rt>よ</rt></ruby>くて、とても（　　）です。",
+    "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <ruby>日当たり<rt>ひあたり</rt></ruby>が <ruby>良<rt>よ</rt></ruby>くて、とても（　　）です。",
     "choices": [
       "過ごしやすい",
       "過ごしにくい",
@@ -4381,7 +4381,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "しよお",
     "question": "試着室は今<u>使用</u>中だ。",
-    "question_ruby": "<ruby>試着室<rt>*</rt></ruby>は<ruby>今<rt>いま</rt></ruby><u>使用</u><ruby>中<rt>なか</rt></ruby>だ。",
+    "question_ruby": "<ruby>試着室<rt>しちゃくしつ</rt></ruby>は<ruby>今<rt>いま</rt></ruby><u>使用</u><ruby>中<rt>なか</rt></ruby>だ。",
     "choices": [
       "じよう",
       "しよう",
@@ -4570,7 +4570,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "劇",
     "question": "絶対確<u>み</u>だ。",
-    "question_ruby": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確<rt>*</rt></ruby><u>み</u>だ。",
+    "question_ruby": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>確<rt>たしか</rt></ruby><u>み</u>だ。",
     "choices": [
       "実",
       "劇",
@@ -8971,7 +8971,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "単に",
     "question": "簡（　　）直ったよ。",
-    "question_ruby": "<ruby>簡<rt>*</rt></ruby>（　　）<ruby>直<rt>なお</rt></ruby>ったよ。",
+    "question_ruby": "<ruby>簡<rt>かん</rt></ruby>（　　）<ruby>直<rt>なお</rt></ruby>ったよ。",
     "choices": [
       "単に",
       "直接",

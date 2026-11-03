@@ -1055,7 +1055,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 得ない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 得ない",
-        "sentence": "あの<ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>！？え〜！あり<ruby>得な<rt>えな</rt></ruby>いよ！"
+        "sentence": "あの<ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>！？え〜！あり<ruby>得<rt>え</rt></ruby>ないよ！"
       }
     ],
     "comparison": [
@@ -1066,7 +1066,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: unable to; cannot; it is not possible to~.",
-        "example": "あの<ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>！？え〜！あり<ruby>得な<rt>えな</rt></ruby>いよ！"
+        "example": "あの<ruby>人<rt>ひと</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したって<ruby>本当<rt>ほんとう</rt></ruby>！？え〜！あり<ruby>得<rt>え</rt></ruby>ないよ！"
       },
       {
         "form": "〜できない",
@@ -9216,7 +9216,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with と考えられる)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for と考えられる",
-        "sentence": "これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
+        "sentence": "これは<ruby>今年<rt>ことし</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
       }
     ],
     "comparison": [
@@ -9227,7 +9227,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: one can.",
-        "example": "これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
+        "example": "これは<ruby>今年<rt>ことし</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
       },
       {
         "form": "〜と思われる",
@@ -10458,7 +10458,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ざるを得ない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ざるを得ない",
-        "sentence": "<ruby>大型<rt>おおがた</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>直撃<rt>ちょくげき</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>があるため、<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>フェスティバルは<ruby>中止<rt>ちゅうし</rt></ruby>せざるを<ruby>得な<rt>えな</rt></ruby>い。"
+        "sentence": "<ruby>大型<rt>おおがた</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>直撃<rt>ちょくげき</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>があるため、<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>フェスティバルは<ruby>中止<rt>ちゅうし</rt></ruby>せざるを<ruby>得<rt>え</rt></ruby>ない。"
       }
     ],
     "comparison": [
@@ -10469,7 +10469,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: cannot help (doing);.",
-        "example": "<ruby>大型<rt>おおがた</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>直撃<rt>ちょくげき</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>があるため、<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>フェスティバルは<ruby>中止<rt>ちゅうし</rt></ruby>せざるを<ruby>得な<rt>えな</rt></ruby>い。"
+        "example": "<ruby>大型<rt>おおがた</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>が<ruby>直撃<rt>ちょくげき</rt></ruby>する<ruby>恐れ<rt>おそれ</rt></ruby>があるため、<ruby>明日<rt>あした</rt></ruby>の<ruby>屋外<rt>おくがい</rt></ruby>フェスティバルは<ruby>中止<rt>ちゅうし</rt></ruby>せざるを<ruby>得<rt>え</rt></ruby>ない。"
       },
       {
         "form": "〜ざるを得ない",
@@ -10512,7 +10512,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ずに済む)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ずに済む",
-        "sentence": "<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
+        "sentence": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
       }
     ],
     "comparison": [
@@ -10523,7 +10523,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: get by without doing~.",
-        "example": "<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
+        "example": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。"
       },
       {
         "form": "〜なくて済む",

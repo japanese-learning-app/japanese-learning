@@ -1609,7 +1609,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うしろ",
     "ruby": "<ruby>後<rt>うしろ</rt></ruby>",
     "meaning": "afterwards; since then; in the future",
-    "ex_ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>で、クラスの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>宿題<rt>しゅくだい</rt></ruby>をしに<ruby>行<rt>い</rt></ruby>きました。",
+    "ex_ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で、クラスの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>宿題<rt>しゅくだい</rt></ruby>をしに<ruby>行<rt>い</rt></ruby>きました。",
     "ex_en": "After class finished, I went to the library in front of the station with my classmates to do homework."
   },
   {
@@ -7945,7 +7945,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "し",
     "ruby": "<ruby>四<rt>し</rt></ruby>",
     "meaning": "four",
-    "ex_ja": "この<ruby>部屋<rt>へや</rt></ruby>には<ruby>四<rt>よっ</rt></ruby>つの<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>があり、とても<ruby>明<rt>あか</rt></ruby>るく<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>良<rt>よ</rt></ruby>い。",
+    "ex_ja": "この<ruby>部屋<rt>へや</rt></ruby>には<ruby>四<rt>よっ</rt></ruby>つの<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>があり、とても<ruby>明<rt>あか</rt></ruby>るく<ruby>日当たり<rt>ひあたり</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。",
     "ex_en": "This room has four large windows, making it very bright and sunny."
   },
   {
@@ -9513,7 +9513,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しよう",
     "ruby": "<ruby>使用<rt>しよう</rt></ruby>",
     "meaning": "use; application; employment; utilization",
-    "ex_ja": "<ruby>試着室<rt>*</rt></ruby>は<ruby>今<rt>こん</rt></ruby><ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だ。",
+    "ex_ja": "<ruby>試着室<rt>しちゃくしつ</rt></ruby>は<ruby>今<rt>こん</rt></ruby><ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だ。",
     "ex_en": "The fitting room is being used now."
   },
   {
@@ -13113,7 +13113,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たま",
     "ruby": "<ruby>偶<rt>たま</rt></ruby>",
     "meaning": "even number; couple; man and wife; friend",
-    "ex_ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>早<rt>はや</rt></ruby>く<ruby>慣<rt>な</rt></ruby>れるために、<ruby>偶<rt>偶</rt></ruby>についての<ruby>知識<rt>ちしき</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>めている。",
+    "ex_ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>早<rt>はや</rt></ruby>く<ruby>慣<rt>な</rt></ruby>れるために、<ruby>偶<rt>ぐう</rt></ruby>数についての<ruby>知識<rt>ちしき</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>めている。",
     "ex_en": "In order to get used to the new environment quickly, I am deepening my knowledge regarding even number."
   },
   {
@@ -20505,7 +20505,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "よなか",
     "ruby": "<ruby>夜中<rt>よなか</rt></ruby>",
     "meaning": "midnight; dead of night",
-    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>夜中<rt>やちゅう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
+    "ex_ja": "<ruby>心地<rt>ここち</rt></ruby>よい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹き抜<rt>ふきぬ</rt></ruby>ける<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>夜中<rt>よなか</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>から<ruby>楽<rt>たの</rt></ruby>しんでいる。",
     "ex_en": "I am wholeheartedly enjoying the refreshing season of 夜中, through which a pleasant breeze blows."
   },
   {
@@ -25689,7 +25689,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おたがい",
     "ruby": "<ruby>お互い<rt>おたがい</rt></ruby>",
     "meaning": "mutual; reciprocal; each other",
-    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとてもお<ruby>互<rt>互</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとてもお<ruby>互<rt>たが</rt></ruby>いに<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
     "ex_en": "When we heard that news, we felt very mutual, and our hearts were deeply touched."
   },
   {
@@ -25929,7 +25929,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "たがい",
     "ruby": "<ruby>互い<rt>たがい</rt></ruby>",
     "meaning": "mutual; reciprocal",
-    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>互<rt>互</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
+    "ex_ja": "その<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いたとき、<ruby>私<rt>わたし</rt></ruby>たちはとても<ruby>互<rt>たが</rt></ruby>いに<ruby>感<rt>かん</rt></ruby>じ、<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなりました。",
     "ex_en": "When we heard that news, we felt very mutual, and our hearts were deeply touched."
   },
   {
@@ -27369,7 +27369,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ひとりひとり",
     "ruby": "<ruby>一人一人<rt>ひとりひとり</rt></ruby>",
     "meaning": "one by one; each; one at a time",
-    "ex_ja": "<ruby>選手<rt>せんしゅ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>最善<rt>さいぜん</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くした。",
+    "ex_ja": "<ruby>選手<rt>せんしゅ</rt></ruby><ruby>一人<rt>ひとり</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>が<ruby>最善<rt>さいぜん</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くした。",
     "ex_en": "Every player did his best."
   },
   {
