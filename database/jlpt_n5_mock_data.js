@@ -21,7 +21,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m1",
           "name": "問題1 漢字読み",
-          "desc": "＿＿の ことばは どう かきますか／どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 12,
           "range": [
             1,
@@ -31,7 +31,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m2",
           "name": "問題2 表記",
-          "desc": "＿＿の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 8,
           "range": [
             13,
@@ -51,7 +51,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m4",
           "name": "問題4 言い換え類義",
-          "desc": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 5,
           "range": [
             31,
@@ -186,10 +186,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 1,
-      "title": "あの山は とても 高いです。",
-      "titleRuby": "あの<ruby>山<rt>やま</rt></ruby>は とても <ruby>高<rt>たか</rt></ruby>いです。",
+      "title": "あの <u>山</u>は とても たかいです。",
+      "titleRuby": "あの <u>山</u>は とても たかいです。",
       "targetWord": "山",
-      "questionText": "<u>山</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "かわ",
         "やま",
@@ -206,10 +206,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 2,
-      "title": "毎朝、７時に 起きます。",
-      "titleRuby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、７時に <ruby>起<rt>お</rt></ruby>きます。",
+      "title": "<u>毎朝</u>、７時に 起きます。",
+      "titleRuby": "<u>毎朝</u>、７時に 起きます。",
       "targetWord": "毎朝",
-      "questionText": "<u>毎朝</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "まいあさ",
         "まいばん",
@@ -226,10 +226,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 3,
-      "title": "駅の 前で 友だちに 会いました。",
-      "titleRuby": "<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>で <ruby>友<rt>とも</rt></ruby>だちに <ruby>会<rt>あ</rt></ruby>いました。",
+      "title": "<u>駅</u>の まえで 友だちに 会いました。",
+      "titleRuby": "<u>駅</u>の まえで 友だちに 会いました。",
       "targetWord": "駅",
-      "questionText": "<u>駅</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "はし",
         "いえ",
@@ -246,10 +246,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 4,
-      "title": "この 川の 水は つめたいです。",
-      "titleRuby": "この <ruby>川<rt>かわ</rt></ruby>の <ruby>水<rt>みず</rt></ruby>は つめたいです。",
+      "title": "この かわの <u>水</u>は つめたいです。",
+      "titleRuby": "この かわの <u>水</u>は つめたいです。",
       "targetWord": "水",
-      "questionText": "<u>水</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "みず",
         "ゆき",
@@ -266,10 +266,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 5,
-      "title": "机の 上に 本が あります。",
-      "titleRuby": "机の <ruby>上<rt>うえ</rt></ruby>に <ruby>本<rt>ほん</rt></ruby>が あります。",
+      "title": "つくえの <u>上</u>に 本が あります。",
+      "titleRuby": "つくえの <u>上</u>に 本が あります。",
       "targetWord": "上",
-      "questionText": "<u>上</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "した",
         "なか",
@@ -286,10 +286,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 6,
-      "title": "新しい 車を 買いました。",
-      "titleRuby": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>車<rt>くるま</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。",
+      "title": "あたらしい <u>車</u>を 買いました。",
+      "titleRuby": "あたらしい <u>車</u>を 買いました。",
       "targetWord": "車",
-      "questionText": "<u>車</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "じてんしゃ",
         "でんしゃ",
@@ -306,10 +306,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 7,
-      "title": "私の 父は ５０さいです。",
-      "titleRuby": "<ruby>私<rt>わたし</rt></ruby>の <ruby>父<rt>ちち</rt></ruby>は ５０さいです。",
+      "title": "わたしの <u>父</u>は ５０さいです。",
+      "titleRuby": "わたしの <u>父</u>は ５０さいです。",
       "targetWord": "父",
-      "questionText": "<u>父</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "はは",
         "ちち",
@@ -326,10 +326,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 8,
-      "title": "きょうは 雨が ふっています。",
-      "titleRuby": "きょうは <ruby>雨<rt>あめ</rt></ruby>が ふっています。",
+      "title": "きょうは <u>雨</u>が ふっています。",
+      "titleRuby": "きょうは <u>雨</u>が ふっています。",
       "targetWord": "雨",
-      "questionText": "<u>雨</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ゆき",
         "かぜ",
@@ -346,10 +346,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 9,
-      "title": "教室に 学生が １０人 います。",
-      "titleRuby": "<ruby>教室<rt>きょうしつ</rt></ruby>に <ruby>学生<rt>がくせい</rt></ruby>が １０<ruby>人<rt>にん</rt></ruby> います。",
+      "title": "教室に <u>学生</u>が １０人 います。",
+      "titleRuby": "教室に <u>学生</u>が １０人 います。",
       "targetWord": "学生",
-      "questionText": "<u>学生</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "がくせい",
         "せんせい",
@@ -366,10 +366,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 10,
-      "title": "つぎの かどを 右へ まがります。",
-      "titleRuby": "つぎの かどを <ruby>右<rt>みぎ</rt></ruby>へ まがります。",
+      "title": "つぎの かどを <u>右</u>へ まがります。",
+      "titleRuby": "つぎの かどを <u>右</u>へ まがります。",
       "targetWord": "右",
-      "questionText": "<u>右</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ひだり",
         "みぎ",
@@ -386,10 +386,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 11,
-      "title": "田中さんの 話を 聞きました。",
-      "titleRuby": "<ruby>田中<rt>たなか</rt></ruby>さんの <ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きました。",
+      "title": "田中さんの <u>話</u>を 聞きました。",
+      "titleRuby": "田中さんの <u>話</u>を 聞きました。",
       "targetWord": "話",
-      "questionText": "<u>話</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "うた",
         "こえ",
@@ -406,10 +406,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m1",
       "category": "漢字読み",
       "qNum": 12,
-      "title": "この りんごは 大きいです。",
-      "titleRuby": "この りんごは <ruby>大<rt>おお</rt></ruby>きいです。",
+      "title": "この りんごは <u>大</u>きいです。",
+      "titleRuby": "この りんごは <u>大</u>きいです。",
       "targetWord": "大",
-      "questionText": "<u>大</u>の ことばは どう よみますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ちい",
         "おお",
@@ -426,10 +426,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 13,
-      "title": "ノートに なまえを かいて ください。",
-      "titleRuby": "ノートに <u>なまえ</u>を かいて ください。",
+      "title": "ノートに <u>なまえ</u>を 書いて ください。",
+      "titleRuby": "ノートに <u>なまえ</u>を 書いて ください。",
       "targetWord": "なまえ",
-      "questionText": "<u>なまえ</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "本名",
         "名前",
@@ -446,10 +446,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 14,
-      "title": "あそこに おんなのひとが います。",
+      "title": "あそこに <u>おんなのひと</u>が います。",
       "titleRuby": "あそこに <u>おんなのひと</u>が います。",
       "targetWord": "おんなのひと",
-      "questionText": "<u>おんなのひと</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "女の人",
         "男の人",
@@ -466,10 +466,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 15,
-      "title": "あしたは やすみです。",
+      "title": "あしたは <u>やすみ</u>です。",
       "titleRuby": "あしたは <u>やすみ</u>です。",
       "targetWord": "やすみ",
-      "questionText": "<u>やすみ</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "休み",
         "体み",
@@ -486,10 +486,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 16,
-      "title": "毎朝 あさ ６時に おきます。",
-      "titleRuby": "<ruby>毎朝<rt>まいあさ</rt></ruby> <u>あさ</u> ６時に おきます。",
+      "title": "毎朝 <u>あさ</u> ６時に 起きます。",
+      "titleRuby": "毎朝 <u>あさ</u> ６時に 起きます。",
       "targetWord": "あさ",
-      "questionText": "<u>あさ</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "朝",
         "夜",
@@ -506,10 +506,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 17,
-      "title": "ほんを ３さつ よみました。",
-      "titleRuby": "<u>ほん</u>を ３さつ よみました。",
+      "title": "<u>ほん</u>を ３さつ 読みました。",
+      "titleRuby": "<u>ほん</u>を ３さつ 読みました。",
       "targetWord": "ほん",
-      "questionText": "<u>ほん</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "木",
         "体",
@@ -526,10 +526,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 18,
-      "title": "あの しろい シャツが すきです。",
-      "titleRuby": "あの <u>しろい</u> シャツが すきです。",
+      "title": "あの <u>しろい</u> シャツが 好きです。",
+      "titleRuby": "あの <u>しろい</u> シャツが 好きです。",
       "targetWord": "しろい",
-      "questionText": "<u>しろい</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "赤い",
         "青い",
@@ -546,10 +546,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 19,
-      "title": "たいようは ひがしから のぼります。",
+      "title": "たいようは <u>ひがし</u>から のぼります。",
       "titleRuby": "たいようは <u>ひがし</u>から のぼります。",
       "targetWord": "ひがし",
-      "questionText": "<u>ひがし</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "東",
         "西",
@@ -566,10 +566,10 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m2",
       "category": "表記",
       "qNum": 20,
-      "title": "げんきな おとこのこが はしっています。",
-      "titleRuby": "げんきな <u>おとこのこ</u>が <ruby>走<rt>はし</rt></ruby>っています。",
+      "title": "元気な <u>おとこのこ</u>が 走っています。",
+      "titleRuby": "元気な <u>おとこのこ</u>が 走っています。",
       "targetWord": "おとこのこ",
-      "questionText": "<u>おとこのこ</u>の ことばは どう かきますか。",
+      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "女の子",
         "男の子",
@@ -776,9 +776,9 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m4",
       "category": "言い換え類義",
       "qNum": 31,
-      "title": "きのうの よる、雨が ふりました。",
-      "titleRuby": "<u>きのうの よる</u>、<ruby>雨<rt>あめ</rt></ruby>が ふりました。",
-      "questionText": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。いちばん いい ものを ひとつ えらんで ください。",
+      "title": "<u>きのうの よる</u>、雨が ふりました。",
+      "titleRuby": "<u>きのうの よる</u>、雨が ふりました。",
+      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "おととい、雨が ふりました。",
         "ゆうべ、雨が ふりました。",
@@ -795,9 +795,9 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m4",
       "category": "言い換え類義",
       "qNum": 32,
-      "title": "この 川で 泳ぐのは きけんです。",
-      "titleRuby": "この <ruby>川<rt>かわ</rt></ruby>で <ruby>泳<rt>およ</rt></ruby>ぐのは <u>きけん</u>です。",
-      "questionText": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。いちばん いい ものを ひとつ えらんで ください。",
+      "title": "この かわで 泳ぐのは <u>きけん</u>です。",
+      "titleRuby": "この かわで 泳ぐのは <u>きけん</u>です。",
+      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "この 川で 泳ぐのは あぶないです。",
         "この 川で 泳ぐのは たのしいです。",
@@ -814,9 +814,9 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m4",
       "category": "言い換え類義",
       "qNum": 33,
-      "title": "バスが すぐに 来ました。",
-      "titleRuby": "バスが <u>すぐに</u> <ruby>来<rt>き</rt></ruby>ました。",
-      "questionText": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。いちばん いい ものを ひとつ えらんで ください。",
+      "title": "バスが <u>すぐに</u> 来ました。",
+      "titleRuby": "バスが <u>すぐに</u> 来ました。",
+      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "バスが ゆっくり 来ました。",
         "バスが 遅れて 来ました。",
@@ -833,9 +833,9 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m4",
       "category": "言い換え類義",
       "qNum": 34,
-      "title": "私の 姉は びょういんの 先生です。",
-      "titleRuby": "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は <u>びょういんの 先生</u>です。",
-      "questionText": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。いちばん いい ものを ひとつ えらんで ください。",
+      "title": "私の 姉は <u>びょういんの 先生</u>です。",
+      "titleRuby": "私の 姉は <u>びょういんの 先生</u>です。",
+      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "私の 姉は がくせいです。",
         "私の 姉は かしゅです。",
@@ -852,9 +852,9 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s1_m4",
       "category": "言い換え類義",
       "qNum": 35,
-      "title": "駅の 前の デパートで 買い物を しました。",
-      "titleRuby": "<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>の <u>デパート</u>で <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を しました。",
-      "questionText": "＿＿の ぶんと だいたい おなじ いみの ぶんが あります。いちばん いい ものを ひとつ えらんで ください。",
+      "title": "駅の 前の <u>デパート</u>で 買い物を しました。",
+      "titleRuby": "駅の 前の <u>デパート</u>で 買い物を しました。",
+      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "駅の 前の 大きい 店で 買い物を しました。",
         "駅の 前の ちいさい 本屋で 買い物を しました。",
@@ -948,17 +948,17 @@ window.JLPT_N5_MOCK_DATA = {
       "category": "文法形式の判断",
       "qNum": 40,
       "title": "朝ごはんは パン（　） たまごを 食べました。",
-      "titleRuby": "<ruby>朝<rt>あさ</rt></ruby>ごはんは パン（　） たまごを <ruby>食<rt>た</rt></ruby>べました。",
+      "titleRuby": "朝ごはんは パン（　） たまごを 食べました。",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "と",
-        "や",
-        "も",
-        "か"
+        "で",
+        "に",
+        "を"
       ],
       "correctIndex": 0,
       "weight": 1.5,
-      "explanation": "名詞を並べて列挙するときは助詞「と」を使います（パンと たまご）。"
+      "explanation": "２つの名詞（パン、たまご）を並べて列挙するときは助詞「と」を使います（パンと たまご）。「で」「に」「を」は文脈・文法上当てはまりません。"
     },
     {
       "id": 41,
@@ -985,18 +985,18 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 42,
-      "title": "ここで 写真を （　）。",
-      "titleRuby": "ここで <ruby>写真<rt>しゃしん</rt></ruby>を （　）。",
+      "title": "Ａ「すみません。ここで 写真を とっても いいですか。」\nＢ「いいえ、ここは 美術館ですから、（　）。」",
+      "titleRuby": "Ａ「すみません。ここで 写真を とっても いいですか。」<br>Ｂ「いいえ、ここは 美術館ですから、（　）。」",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "とりたいです",
         "とりました",
-        "とっても いいです",
+        "とりましょう",
         "とっては いけません"
       ],
       "correctIndex": 3,
       "weight": 1.5,
-      "explanation": "美術館や撮影禁止場所での禁止を表す表現は「〜てはいけません（とっては いけません）」です。"
+      "explanation": "Ａの「写真をとってもいいですか（許可の求め）」に対して、Ｂが「いいえ、ここは美術館ですから」と理由を添えて断っています。禁止を伝える「〜てはいけません（とっては いけません）」が唯一の正しい返答です。\n他の「とりたいです（願望）」「とりました（過去）」「とりましょう（勧誘）」は文脈上成立しません。"
     },
     {
       "id": 43,
@@ -1023,18 +1023,18 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 44,
-      "title": "すみません、この ペンを （　）。",
-      "titleRuby": "すみません、この ペンを （　）。",
+      "title": "Ａ「すみません、この ペンを ちょっと （　）。」\nＢ「ええ、どうぞ。使って ください。」",
+      "titleRuby": "Ａ「すみません、この ペンを ちょっと （　）。」<br>Ｂ「ええ、どうぞ。使って ください。」",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "つかいますか",
         "つかって ください",
         "つかっても いいですか",
-        "つかっては いけませんか"
+        "つかいませんか"
       ],
       "correctIndex": 2,
       "weight": 1.5,
-      "explanation": "相手に許可を求めるときは「〜てもいいですか（つかっても いいですか）」を使います。"
+      "explanation": "Ｂの「ええ、どうぞ。使って ください」という承諾の返事から、Ａはペンを借りたい（許可を求めている）場面であることが分かります。相手に許可を求める「〜てもいいですか（つかっても いいですか）」が正解です。\n他の「つかってください（相手に使わせる）」「つかいますか（相手の予定を問う）」などはＢの返事と噛み合いません。"
     },
     {
       "id": 45,
@@ -1042,8 +1042,8 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 45,
-      "title": "来年、日本へ （　） です。",
-      "titleRuby": "<ruby>来年<rt>らいねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>へ （　） です。",
+      "title": "わたしは まだ 一度も 日本へ 行った ことが ありませんから、来年 （　） です。",
+      "titleRuby": "わたしは まだ 一度も 日本へ 行った ことが ありませんから、来年 （　） です。",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "行って",
@@ -1053,7 +1053,7 @@ window.JLPT_N5_MOCK_DATA = {
       ],
       "correctIndex": 1,
       "weight": 1.5,
-      "explanation": "自分の希望を表すときは「動詞ます形語幹 ＋ たいです」を使います（行きます → 行きたいです）。"
+      "explanation": "「まだ一度も行ったことがない」という理由を受けて、来年実現したい願望を述べる文脈です。願望を表す「動詞ます形語幹 ＋ たいです（行きたいです）」が正解です。"
     },
     {
       "id": 46,
@@ -1061,8 +1061,8 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 46,
-      "title": "わたしは すしを （　） ことが あります。",
-      "titleRuby": "わたしは すしを （　） ことが あります。",
+      "title": "Ａ「すしを 食べた ことが ありますか。」\nＢ「はい、日本で 一度 （　） ことが あります。」",
+      "titleRuby": "Ａ「すしを 食べた ことが ありますか。」<br>Ｂ「はい、日本で 一度 （　） ことが あります。」",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "食べて",
@@ -1072,7 +1072,7 @@ window.JLPT_N5_MOCK_DATA = {
       ],
       "correctIndex": 3,
       "weight": 1.5,
-      "explanation": "過去の経験を表すときは「動詞のた形 ＋ ことが あります」を使います（食べた ことが あります）。"
+      "explanation": "過去の経験を述べる「動詞た形 ＋ ことが あります」の構文です。「一度 食べた ことが あります」が正解です。"
     },
     {
       "id": 47,
@@ -1118,8 +1118,8 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 49,
-      "title": "いま、外で 雨が （　）。",
-      "titleRuby": "いま、<ruby>外<rt>そと</rt></ruby>で <ruby>雨<rt>あめ</rt></ruby>が （　）。",
+      "title": "いま、外を 見て ください。雨が （　）よ。",
+      "titleRuby": "いま、外を 見て ください。雨が （　）よ。",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ふって います",
@@ -1129,7 +1129,7 @@ window.JLPT_N5_MOCK_DATA = {
       ],
       "correctIndex": 0,
       "weight": 1.5,
-      "explanation": "現在進行中の動作・出来事を表すときは「動詞て形 ＋ います」を使います（雨が ふって います）。"
+      "explanation": "「いま、外を見てください」と現在目の前で起きている出来事を指しているため、現在進行中の動作・状態を表す「〜ています（ふって います）」が唯一の正解です。"
     },
     {
       "id": 50,
@@ -1156,8 +1156,8 @@ window.JLPT_N5_MOCK_DATA = {
       "subsectionId": "s2_m1",
       "category": "文法形式の判断",
       "qNum": 51,
-      "title": "りんごを みっつ （　）。",
-      "titleRuby": "りんごを みっつ （　）。",
+      "title": "店員「いらっしゃいませ。」\n客「すみません、この りんごを みっつ （　）。」",
+      "titleRuby": "店員「いらっしゃいませ。」<br>客「すみません、この りんごを みっつ （　）。」",
       "questionText": "（　）に なにを いれますか。いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "どうぞ",
@@ -1167,7 +1167,7 @@ window.JLPT_N5_MOCK_DATA = {
       ],
       "correctIndex": 3,
       "weight": 1.5,
-      "explanation": "お店で注文したり物を求めるときは「〜を （数量） ください」と言います。"
+      "explanation": "お店で商品を注文・要求するときの定番表現は「〜を ください」です。"
     },
     {
       "id": 52,
