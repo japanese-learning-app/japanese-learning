@@ -21,7 +21,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m1",
           "name": "問題1 漢字読み",
-          "desc": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 12,
           "range": [
             1,
@@ -31,7 +31,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m2",
           "name": "問題2 表記",
-          "desc": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 8,
           "range": [
             13,
@@ -51,7 +51,7 @@ window.JLPT_N5_MOCK_DATA = {
         {
           "id": "s1_m4",
           "name": "問題4 言い換え類義",
-          "desc": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+          "desc": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
           "count": 5,
           "range": [
             31,
@@ -189,7 +189,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "あの <u>山</u>は とても たかいです。",
       "titleRuby": "あの <u>山</u>は とても たかいです。",
       "targetWord": "山",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "かわ",
         "やま",
@@ -209,7 +209,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "<u>毎朝</u>、７時に 起きます。",
       "titleRuby": "<u>毎朝</u>、７時に 起きます。",
       "targetWord": "毎朝",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "まいあさ",
         "まいばん",
@@ -229,7 +229,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "<u>駅</u>の まえで 友だちに 会いました。",
       "titleRuby": "<u>駅</u>の まえで 友だちに 会いました。",
       "targetWord": "駅",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "はし",
         "いえ",
@@ -249,7 +249,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "この かわの <u>水</u>は つめたいです。",
       "titleRuby": "この かわの <u>水</u>は つめたいです。",
       "targetWord": "水",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "みず",
         "ゆき",
@@ -269,7 +269,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "つくえの <u>上</u>に 本が あります。",
       "titleRuby": "つくえの <u>上</u>に 本が あります。",
       "targetWord": "上",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "した",
         "なか",
@@ -289,7 +289,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "あたらしい <u>車</u>を 買いました。",
       "titleRuby": "あたらしい <u>車</u>を 買いました。",
       "targetWord": "車",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "じてんしゃ",
         "でんしゃ",
@@ -309,7 +309,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "わたしの <u>父</u>は ５０さいです。",
       "titleRuby": "わたしの <u>父</u>は ５０さいです。",
       "targetWord": "父",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "はは",
         "ちち",
@@ -329,7 +329,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "きょうは <u>雨</u>が ふっています。",
       "titleRuby": "きょうは <u>雨</u>が ふっています。",
       "targetWord": "雨",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ゆき",
         "かぜ",
@@ -349,7 +349,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "教室に <u>学生</u>が １０人 います。",
       "titleRuby": "教室に <u>学生</u>が １０人 います。",
       "targetWord": "学生",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "がくせい",
         "せんせい",
@@ -369,7 +369,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "つぎの かどを <u>右</u>へ まがります。",
       "titleRuby": "つぎの かどを <u>右</u>へ まがります。",
       "targetWord": "右",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ひだり",
         "みぎ",
@@ -389,7 +389,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "田中さんの <u>話</u>を 聞きました。",
       "titleRuby": "田中さんの <u>話</u>を 聞きました。",
       "targetWord": "話",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "うた",
         "こえ",
@@ -409,7 +409,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "この りんごは <u>大</u>きいです。",
       "titleRuby": "この りんごは <u>大</u>きいです。",
       "targetWord": "大",
-      "questionText": "<u>＿＿</u>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう よみますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "ちい",
         "おお",
@@ -429,7 +429,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "ノートに <u>なまえ</u>を 書いて ください。",
       "titleRuby": "ノートに <u>なまえ</u>を 書いて ください。",
       "targetWord": "なまえ",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "本名",
         "名前",
@@ -449,7 +449,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "あそこに <u>おんなのひと</u>が います。",
       "titleRuby": "あそこに <u>おんなのひと</u>が います。",
       "targetWord": "おんなのひと",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "女の人",
         "男の人",
@@ -469,7 +469,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "あしたは <u>やすみ</u>です。",
       "titleRuby": "あしたは <u>やすみ</u>です。",
       "targetWord": "やすみ",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "休み",
         "体み",
@@ -489,7 +489,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "毎朝 <u>あさ</u> ６時に 起きます。",
       "titleRuby": "毎朝 <u>あさ</u> ６時に 起きます。",
       "targetWord": "あさ",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "朝",
         "夜",
@@ -509,7 +509,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "<u>ほん</u>を ３さつ 読みました。",
       "titleRuby": "<u>ほん</u>を ３さつ 読みました。",
       "targetWord": "ほん",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "木",
         "体",
@@ -529,7 +529,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "あの <u>しろい</u> シャツが 好きです。",
       "titleRuby": "あの <u>しろい</u> シャツが 好きです。",
       "targetWord": "しろい",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "赤い",
         "青い",
@@ -549,7 +549,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "たいようは <u>ひがし</u>から のぼります。",
       "titleRuby": "たいようは <u>ひがし</u>から のぼります。",
       "targetWord": "ひがし",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "東",
         "西",
@@ -569,7 +569,7 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "元気な <u>おとこのこ</u>が 走っています。",
       "titleRuby": "元気な <u>おとこのこ</u>が 走っています。",
       "targetWord": "おとこのこ",
-      "questionText": "<u>＿＿</u>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ことばは どう かきますか。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "女の子",
         "男の子",
@@ -778,7 +778,7 @@ window.JLPT_N5_MOCK_DATA = {
       "qNum": 31,
       "title": "<u>きのうの よる</u>、雨が ふりました。",
       "titleRuby": "<u>きのうの よる</u>、雨が ふりました。",
-      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "おととい、雨が ふりました。",
         "ゆうべ、雨が ふりました。",
@@ -797,7 +797,7 @@ window.JLPT_N5_MOCK_DATA = {
       "qNum": 32,
       "title": "この かわで 泳ぐのは <u>きけん</u>です。",
       "titleRuby": "この かわで 泳ぐのは <u>きけん</u>です。",
-      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "この 川で 泳ぐのは あぶないです。",
         "この 川で 泳ぐのは たのしいです。",
@@ -816,7 +816,7 @@ window.JLPT_N5_MOCK_DATA = {
       "qNum": 33,
       "title": "バスが <u>すぐに</u> 来ました。",
       "titleRuby": "バスが <u>すぐに</u> 来ました。",
-      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "バスが ゆっくり 来ました。",
         "バスが 遅れて 来ました。",
@@ -835,7 +835,7 @@ window.JLPT_N5_MOCK_DATA = {
       "qNum": 34,
       "title": "私の 姉は <u>びょういんの 先生</u>です。",
       "titleRuby": "私の 姉は <u>びょういんの 先生</u>です。",
-      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "私の 姉は がくせいです。",
         "私の 姉は かしゅです。",
@@ -854,7 +854,7 @@ window.JLPT_N5_MOCK_DATA = {
       "qNum": 35,
       "title": "駅の 前の <u>デパート</u>で 買い物を しました。",
       "titleRuby": "駅の 前の <u>デパート</u>で 買い物を しました。",
-      "questionText": "<u>＿＿</u>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
+      "questionText": "<span class='jlpt-underline-blank'></span>の ぶんと だいたい おなじ いみの ぶんが あります。１・２・３・４から いちばん いい ものを ひとつ えらんで ください。",
       "options": [
         "駅の 前の 大きい 店で 買い物を しました。",
         "駅の 前の ちいさい 本屋で 買い物を しました。",
