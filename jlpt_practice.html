@@ -1992,6 +1992,30 @@
         </div>
       </div>
 
+      <!-- 実戦模擬試験 (全91問・本番時間・自動採点・合否判定) -->
+      <div class="card-box" style="border: 2px solid #FBCFE8; position: relative; overflow: visible; background: #FFFFFF;">
+        <span id="card-mock-pill" style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, #EC4899, #DB2777); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(236,72,153,0.3);">全91問・合否判定</span>
+        <div>
+          <div class="card-top-row">
+            <div class="card-icon-square" style="background:#FDF2F8; color:#DB2777; border-color:#FBCFE8;">📝</div>
+            <span id="card-mock-badge" class="card-badge-count" style="background:#DB2777; color:white; font-weight:800;">91 問</span>
+          </div>
+          <div class="card-title-main" style="color:#BE185D;">実戦模擬試験</div>
+          <div id="card-mock-sub" class="card-subtitle-reading">本番時間・尺度得点・合格基準点シミュレーション</div>
+          <ul class="card-feature-list">
+            <li id="card-mock-b1">公式試験時間＆問題構成に完全準拠（全91問）</li>
+            <li>尺度得点算出（180点満点・得点区分基準点判定）</li>
+            <li>終了後即時スコアカード＆「間違えた問題だけ」復習</li>
+            <li>全問ふりがな切替＆詳細解説＆リスニング音声連動</li>
+          </ul>
+        </div>
+        <div style="margin-top: 14px;">
+          <a id="link-mock" href="jlpt_n5_mock.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #EC4899, #BE185D); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(236,72,153,0.3);">
+            📝 N5 実戦模擬試験を解く (全91問) →
+          </a>
+        </div>
+      </div>
+
     </div>
 
     <!-- 小さく配置する2つのカード (マイリスト & 単語帳) -->
@@ -2544,7 +2568,9 @@
       readingUrl: 'jlpt_n1_reading.html',
       readingQuestions: 21,
       listeningUrl: 'jlpt_n1_listening.html',
-      listeningQuestions: 35
+      listeningQuestions: 35,
+      mockUrl: 'jlpt_n1_mock.html',
+      mockQuestions: 108
     },
     n2: {
       badge: 'JLPT N2 実戦・中上級対策',
@@ -2562,7 +2588,9 @@
       readingUrl: 'jlpt_n2_reading.html',
       readingQuestions: 21,
       listeningUrl: 'jlpt_n2_listening.html',
-      listeningQuestions: 31
+      listeningQuestions: 31,
+      mockUrl: 'jlpt_n2_mock.html',
+      mockQuestions: 105
     },
     n3: {
       badge: 'JLPT N3 中級完成対策',
@@ -2580,7 +2608,9 @@
       readingUrl: 'jlpt_n3_reading.html',
       readingQuestions: 16,
       listeningUrl: 'jlpt_n3_listening.html',
-      listeningQuestions: 28
+      listeningQuestions: 28,
+      mockUrl: 'jlpt_n3_mock.html',
+      mockQuestions: 102
     },
     n4: {
       badge: 'JLPT N4 初級基礎対策',
@@ -2598,7 +2628,9 @@
       readingUrl: 'jlpt_n4_reading.html',
       readingQuestions: 10,
       listeningUrl: 'jlpt_n4_listening.html',
-      listeningQuestions: 28
+      listeningQuestions: 28,
+      mockUrl: 'jlpt_n4_mock.html',
+      mockQuestions: 98
     },
     n5: {
       badge: 'JLPT N5 入門対策',
@@ -2616,7 +2648,9 @@
       readingUrl: 'jlpt_n5_reading.html',
       readingQuestions: 6,
       listeningUrl: 'jlpt_n5_listening.html',
-      listeningQuestions: 24
+      listeningQuestions: 24,
+      mockUrl: 'jlpt_n5_mock.html',
+      mockQuestions: 91
     }
   };
 
@@ -2732,6 +2766,27 @@
     if (lsBadge) lsBadge.textContent = `${info.listeningQuestions || 31} 問`;
     const lsPill = document.getElementById('card-listening-pill');
     if (lsPill) lsPill.textContent = `全${info.listeningQuestions || 31}問・音声連動`;
+
+    // 7. 実戦模擬試験
+    const linkMock = document.getElementById('link-mock');
+    if (linkMock) {
+      if (currentLevel === 'n5') {
+        linkMock.href = 'jlpt_n5_mock.html';
+        linkMock.textContent = `📝 N5 実戦模擬試験を解く (全91問) →`;
+        linkMock.onclick = null;
+      } else {
+        linkMock.href = '#';
+        linkMock.textContent = `📝 ${lvlU} 実戦模擬試験 (N5から順次公開中) →`;
+        linkMock.onclick = (e) => {
+          e.preventDefault();
+          alert(`${lvlU}の模擬試験は現在準備中です。まずはN5の実戦模試をお試しください！`);
+        };
+      }
+    }
+    const mkBadge = document.getElementById('card-mock-badge');
+    if (mkBadge) mkBadge.textContent = `${info.mockQuestions || 91} 問`;
+    const mkPill = document.getElementById('card-mock-pill');
+    if (mkPill) mkPill.textContent = currentLevel === 'n5' ? '全91問・合否判定' : '順次配信中';
   }
 
   function checkGrammarResumeButton() {
