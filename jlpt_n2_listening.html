@@ -9,6 +9,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="auth.js?v=20261021_0110"></script>
+  <script src="user_progress.js?v=20261021_0110"></script>
   <script src="database/dictionary_data.js" defer></script>
   <script src="database/jlpt_n2_listening_data.js"></script>
   <style>
@@ -803,7 +805,7 @@
       }
 
       // 3. 再生開始
-      status.textContent = '再生中…（Google音声）';
+      status.textContent = '再生中…';
       status.className = 'text-xs font-bold text-[#1995AD]';
       btn.innerHTML = '<i data-lucide="square" class="w-5 h-5 fill-white"></i>';
       lucide.createIcons();
@@ -1054,36 +1056,42 @@
       if (modal) modal.classList.remove('show');
     }
 
-    function saveListeningToMyList(term, folder) {
+    function syncListeningTermToUnifiedMylist(term, folder) {
+      if (!term) return;
       const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
       if (!unifiedList.some(item => item.term === term)) {
         unifiedList.push({
           id: 'lis_item_' + Date.now(),
           term: term,
-          folder: folder,
+          folder: folder || '単語・語彙',
           level: 'N2',
           addedAt: new Date().toISOString()
         });
         localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
       }
-      showListeningToast(`「${term}」を【${folder}】フォルダに保存しました！`);
+      if (window.UserProgress) {
+        const entry = Array.isArray(window.DICT_DATA) ? window.DICT_DATA.find(d => d.w === term || d.r === term || (d.w && d.w.includes(term))) : null;
+        window.UserProgress.addSavedVocab({
+          id: 'jlpt_saved_' + encodeURIComponent(term),
+          word: term,
+          reading: entry ? (entry.r || '') : '',
+          meaning: entry && Array.isArray(entry.m) ? entry.m.join(', ') : '',
+          level: 'N2聴解',
+          source: 'jlpt'
+        });
+      }
+    }
+
+    function saveListeningToMyList(term, folder) {
+      syncListeningTermToUnifiedMylist(term, folder);
+      showListeningToast(`「${term}」をマイリストに保存しました！⭐`);
       closeDictModal();
     }
 
     function handleToolbarSave() {
       document.getElementById('selection-toolbar').style.display = 'none';
-      const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
-      if (!unifiedList.some(item => item.term === selectedListeningText)) {
-        unifiedList.push({
-          id: 'lis_item_' + Date.now(),
-          term: selectedListeningText,
-          folder: '単語・語彙',
-          level: 'N2',
-          addedAt: new Date().toISOString()
-        });
-        localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
-      }
-      showListeningToast(`「${selectedListeningText}」をマイリストに保存しました！`);
+      syncListeningTermToUnifiedMylist(selectedListeningText, '単語・語彙');
+      showListeningToast(`「${selectedListeningText}」をマイリストに保存しました！⭐`);
     }
 
     function showListeningToast(msg) {
