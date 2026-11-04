@@ -15,7 +15,7 @@ from n5_lib import R, P, lint_ruby, sensitive_hits
 
 # 3-choice 問題3/4 are read aloud as "1番、2番、3番": reordering them needs new MP3s.
 # Keep False until the MP3s for n5_q22 / n5_q23 are re-synthesised (see AUDIO_RESYNTH_NEEDED.md).
-REORDER_3CHOICE = False
+REORDER_3CHOICE = True
 
 
 def load_js(path):
